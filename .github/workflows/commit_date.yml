@@ -4,14 +4,19 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - run: touch test.md
-    - run: date >> test.md
-    - name: action-push
-      uses: ludeeus/action-push@0.0.1
-      env:
-        CI: true
-
+    - uses: actions/checkout@master
+    - name: Create local changes
+      run: |
+        touch test.md
+        date >> test.md
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Add changes" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
