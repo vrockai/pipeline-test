@@ -1,0 +1,17 @@
+name: Node.js CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - run: touch test.md
+    - run: date >> test.md
+    - name: action-push
+      uses: ludeeus/action-push@0.0.1
+      env:
+        CI: true
+
