@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-"start": "node ./src/main.js > ./docs/content.md",
+    "start": "node ./src/main.js > ./docs/content.md",
     "test": "echo 'Hello World!'"
   },
   "dependencies": {
