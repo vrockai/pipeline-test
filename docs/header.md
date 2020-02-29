@@ -1,5 +1,5 @@
 # Microbiome Digest Expander 
-Sat 29 Feb 2020 04:31:30 PM CET
+2020-02-29
 
 This page contains automatically parsed and expanded articles from the best page on internet, the last 
 [Microbiome Digest – Bik's Picks](https://microbiomedigest.com/) blog post 
