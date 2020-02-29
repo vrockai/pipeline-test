@@ -13,6 +13,7 @@ jobs:
         node-version: 12.x
     - run: npm install
     - run: npm start
+    - run: sed "2s/.*/$(date --rfc-3339=date)/" ./docs/header_template.md > ./docs/header.md
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
