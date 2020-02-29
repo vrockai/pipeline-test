@@ -2,17 +2,15 @@ function generateMarkdown(metadata) {
   let md = `## ${metadata.name}\n`;
 
   if (metadata.date || metadata.authors) {
-    md = md + `###`;
-
     if (metadata.date) {
-      md = md + ` ${metadata.date}`;
+      md = md + ` ${metadata.date}, `;
     }
 
     if (metadata.authors) {
-      md = md + ` ${(metadata.authors || []).join(', ')}`;
+      md = md + `_${(metadata.authors || []).join(', ')}_\n`;
     }
 
-    md = md + `\n`;
+    md = md + `\n\n`;
   }
 
   if (metadata.mesh && metadata.mesh.length) {
@@ -24,14 +22,14 @@ function generateMarkdown(metadata) {
   }
 
   if (metadata.href) {
-    md = md + `\n[${metadata.href}](${metadata.href})\n`;
+    md = md + `\n[Source](${metadata.href})\n`;
   }
 
   if (metadata.doi) {
-    md = md + `\n[sci-hub link](http://scihub.bban.top/${metadata.doi})\n`
+    md = md + `\n[Sci-hub](http://scihub.bban.top/${metadata.doi})\n`
   }
 
-  return md + `\n`;
+  return md + `\n---\n`;
 }
 
 module.exports = {
