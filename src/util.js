@@ -1,7 +1,3 @@
-function parseAbstract(xml) {
-  return xml.match(/<AbstractText>(.+)<\/AbstractText>/)[1];
-}
-
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -41,6 +37,5 @@ function levenshteinDistance(a, b) {
 
 module.exports = {
   levenshteinDistance,
-  parseAbstract,
   sleep
 };

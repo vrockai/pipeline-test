@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { email, toolName } = require('./constants.js');
+const {email, toolName} = require('./constants.js');
 
 module.exports = {
   search,
@@ -18,7 +18,7 @@ function search(term, tool = toolName, email_ = email) {
         email: email_
       }
     })
-    .then(function({ data }) {
+    .then(function ({data}) {
       const matches = [];
       const idRegex = /<Id>(.+)<\/Id>/g;
 
@@ -28,6 +28,9 @@ function search(term, tool = toolName, email_ = email) {
       }
 
       return matches;
+    }).catch((e) => {
+      console.error(`Error searching for article "${term}"`);
+      console.error(e);
     })
 }
 
@@ -44,7 +47,10 @@ function fetchArticle(id, tool = toolName, email_ = email) {
         retmode: 'xml'
       }
     })
-    .then(function({ data }) {
+    .then(function ({data}) {
       return data;
+    }).catch((e) => {
+      console.error(`Error fetching article "${id}"`);
+      console.error(e);
     })
 }

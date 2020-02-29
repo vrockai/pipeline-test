@@ -1,4 +1,3 @@
-const parseAbstract = require('./util');
 const { levenshteinDistance } = require("./util");
 const { generateMarkdown } = require("./md");
 const { getLastArticle } = require("./microbiome");
@@ -7,26 +6,25 @@ const { getHtml } = require("./microbiome");
 const { sleep } = require("./util");
 const { getMetadata } = require("./xml");
 const { fetchArticle, search } = require('./pubmed.js');
-const { title } = require('./constants.js');
 
 getLastArticle()
   .then(getHtml)
   .then(getArticles)
-  .then(bar)
+  .then(processArticles)
   .then((meta) => {
     meta.forEach((md) => {
       console.log(generateMarkdown(md));
     })
   });
 
-getLastArticle();
-
-async function bar(articles) {
+async function processArticles(articles) {
   const metadata = [];
-  let i = 0;
   for (const article of articles) {
     try {
       const articleList = await search(article.name);
+      if (!articleList.length) {
+        throw `Can't find article "${article.name}".`;
+      }
       const articleXml = await fetchArticle(articleList[0]);
       const md = getMetadata(articleXml, article.href);
       metadata.push(md);
@@ -34,9 +32,11 @@ async function bar(articles) {
       await sleep(2000);
 
       if (levenshteinDistance(article.name, md.name) > 5) {
-        throw 'different article';
+        throw `Article mismatch, "${md.name}" title is too different to the original "${article.name}" title.`;
       }
     } catch (e) {
+      console.error(`Error while processing ${article.name}`);
+      console.error(e.toString());
       metadata.push({
         name: article.name,
         href: article.href,
