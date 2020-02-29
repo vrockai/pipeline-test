@@ -4,7 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+"start": "node ./src/main.js > ./docs/content.md",
     "test": "echo 'Hello World!'"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jsdom": "^15.2.1",
+    "libxmljs": "^0.19.7",
+    "lodash": "^4.17.15",
+    "striptags": "^3.1.1",
+    "xml-js": "^1.6.11",
+    "xml2json": "^0.11.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
   },
   "repository": {
     "type": "git",

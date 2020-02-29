@@ -9,8 +9,8 @@ jobs:
     - uses: actions/checkout@master
     - name: Create local changes
       run: |
-        touch ./docs/content.md
-        date >> ./docs/content.md
+	npm ci
+	npm start
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
