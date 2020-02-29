@@ -9,14 +9,13 @@ jobs:
     - uses: actions/checkout@master
     - name: Create local changes
       run: |
-        touch test.md
-        date >> test.md
+        touch ./docs/content.md
+        date >> ./docs/content.md
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add test.md
-        git commit -m "Add changes"
+        git commit -a -m "Add changes"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
