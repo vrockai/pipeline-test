@@ -190,7 +190,7 @@ Surveying microbial diversity and function is accomplished by combining compleme
 ---
 
 ## Ocean acidification affects microbial community and invertebrate settlement on biofilms.
- 25.02.2020, _KS Nelson, F Baltar, MD Lamare, SE Morales_
+ 29.02.2020, _KS Nelson, F Baltar, MD Lamare, SE Morales_
 
 
 Increased atmospheric CO2 is driving ocean acidification (OA), and potential changes in marine ecosystems. Research shows that both planktonic and benthic communities are affected, but how these changes are linked remains unresolved. Here we show experimentally that decreasing seawater pH (from pH 8.1 to 7.8 and 7.4) leads to reduced biofilm formation and lower primary producer biomass within biofilms. These changes occurred concurrently with a re-arrangement of the biofilm microbial communities. Changes suggest a potential shift from autotrophic to heterotrophic dominated biofilms in response to reduced pH. In a complimentary experiment, biofilms reared under reduced pH resulted in altered larval settlement for a model species (Galeolaria hystrix). These findings show that there is a potential cascade of impacts arising from OA effects on biofilms that may drive important community shifts through altered settlement patterns of benthic species.
