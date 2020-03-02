@@ -166,7 +166,7 @@ Aquatic ecosystems harbor a vast pool of antibiotic resistance genes (ARGs), whi
 ---
 
 ## Niche partitioning of methane-oxidizing bacteria along the oxygen-methane counter gradient of stratified lakes.
- 16.01.2020, _MJ Mayr, M Zimmermann, C Guggenheim, A Brand, H Bürgmann_
+ 26.02.2020, _MJ Mayr, M Zimmermann, C Guggenheim, A Brand, H Bürgmann_
 
 
 Lakes are a significant source of atmospheric methane, although methane-oxidizing bacteria consume most methane diffusing upward from anoxic sediments. Diverse methane-oxidizing bacteria form an effective methane filter in the water column of stratified lakes, yet, niche partitioning of different methane-oxidizing bacteria along the oxygen-methane counter gradient remains poorly understood. In our study, we reveal vertical distribution patterns of active methane-oxidizing bacteria along the oxygen-methane counter gradient of four lakes, based on amplicon sequencing analysis of 16S rRNA and pmoA genes, and 16S rRNA and pmoA transcripts, and potential methane oxidation rates. Differential distribution patterns indicated that ecologically different methane-oxidizing bacteria occupied the methane-deficient and oxygen-deficient part above and below the oxygen-methane interface. The interface sometimes harbored additional taxa. Within the dominant Methylococcales, an uncultivated taxon (CABC2E06) occurred mainly under methane-deficient conditions, whereas Crenothrix-related taxa preferred oxygen-deficient conditions. Candidatus Methylomirabilis limnetica (NC10 phylum) abundantly populated the oxygen-deficient part in two of four lakes. We reason that the methane filter in lakes is structured and that methane-oxidizing bacteria may rely on niche-specific adaptations for methane oxidation along the oxygen-methane counter gradient. Niche partitioning of methane-oxidizing bacteria might support greater overall resource consumption, contributing to the high effectivity of the lacustrine methane filter.
@@ -190,7 +190,7 @@ Surveying microbial diversity and function is accomplished by combining compleme
 ---
 
 ## Ocean acidification affects microbial community and invertebrate settlement on biofilms.
- 29.02.2020, _KS Nelson, F Baltar, MD Lamare, SE Morales_
+ 01.03.2020, _KS Nelson, F Baltar, MD Lamare, SE Morales_
 
 
 Increased atmospheric CO2 is driving ocean acidification (OA), and potential changes in marine ecosystems. Research shows that both planktonic and benthic communities are affected, but how these changes are linked remains unresolved. Here we show experimentally that decreasing seawater pH (from pH 8.1 to 7.8 and 7.4) leads to reduced biofilm formation and lower primary producer biomass within biofilms. These changes occurred concurrently with a re-arrangement of the biofilm microbial communities. Changes suggest a potential shift from autotrophic to heterotrophic dominated biofilms in response to reduced pH. In a complimentary experiment, biofilms reared under reduced pH resulted in altered larval settlement for a model species (Galeolaria hystrix). These findings show that there is a potential cascade of impacts arising from OA effects on biofilms that may drive important community shifts through altered settlement patterns of benthic species.
