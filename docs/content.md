@@ -75,15 +75,9 @@ Background: Diet quality and physical activity positively impact pregnancy outco
 
 ---
 
-## Short chain fatty acids produced by colonizing intestinal commensal bacterial interaction with expressed breast milk are anti-inflammatory in human immature enterocytes.
- 28.02.2020, _N Zheng, Y Gao, W Zhu, D Meng, WA Walker_
-
-
-Necrotizing enterocolitis (NEC) is a devastating intestinal emergency that affects ten percent of very low birth weight premature babies and costs society in both expense and heartache. It is probably caused by an inappropriate interaction of colonizing bacteria with an immature intestine. A possible preventative measure is to feed prematures their mother's expressed breast milk in conjunction with a probiotic. This synbiotic prevention reduces the severity and incidence of this condition. This study was designed to determine the mechanism of the synbiotic effect in human and mouse fetal intestine. Breast milk interacting with a NEC preventative probiotic such as Bifidobacterium infantis can produce increased levels of short chain fatty acids (acetate, propionate and butyrate) (SCFAs). SCFAs are known to be anti-inflammatory in mature enterocytes and immunocytes. Very little is known about their role in immature intestine. When exposed to a human fetal cell line, fetal intestinal organoids and fetal mouse intestine, these SCFAs were anti-inflammatory. Their mechanism of anti-inflammation differed from those reported for mature cells by involving the G-protein coupled receptor (GPR 109A) and inhibiting histone deacetylase 4 and 5. These bacterial metabolites may help explain the synbiotic anti-inflammatory effect of breast milk and probiotics given to premature infants at risk for NEC.
+## Short chain fatty acids produced by colonizing intestinal commensal bacterial interaction with expressed breast milk are anti-inflammatory in human immature enterocytes
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229283)
-
-[Sci-hub](http://scihub.bban.top/10.1371/journal.pone.0229283)
 
 ---
 
