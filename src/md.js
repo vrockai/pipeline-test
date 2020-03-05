@@ -26,7 +26,7 @@ function generateMarkdown(metadata) {
   }
 
   if (metadata.doi) {
-    md = md + `\n[Sci-hub](http://scihub.bban.top/${metadata.doi})\n`
+    md = md + `\n${metadata.doi}\n`
   }
 
   return md + `\n---\n`;

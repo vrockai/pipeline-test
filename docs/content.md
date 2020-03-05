@@ -6,7 +6,7 @@ Due to the rapid emergence of antibiotic-resistant bacteria, there is a growing 
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420301021%3Fshowall%3Dtrue#.XlAdBt9DSM4.twitter)
 
-[Sci-hub](http://scihub.bban.top/10.1016/j.cell.2020.01.021)
+10.1016/j.cell.2020.01.021
 
 ---
 
@@ -24,7 +24,7 @@ Regressions and meta-regressions are widely used to estimate patterns and effect
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229345)
 
-[Sci-hub](http://scihub.bban.top/10.1371/journal.pone.0229345)
+10.1371/journal.pone.0229345
 
 ---
 
@@ -35,7 +35,7 @@ Regressions and meta-regressions are widely used to estimate patterns and effect
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14938?campaign=wolearlyview)
 
-[Sci-hub](http://scihub.bban.top/10.1111/1462-2920.14938)
+10.1111/1462-2920.14938
 
 ---
 
@@ -47,7 +47,7 @@ Analysis of metagenomic and metatranscriptomic data is complicated and typically
 
 [Source](https://www.nature.com/articles/s41467-020-14677-3)
 
-[Sci-hub](http://scihub.bban.top/10.1038/s41467-020-14677-3)
+10.1038/s41467-020-14677-3
 
 ---
 
@@ -59,7 +59,7 @@ During pregnancy, changes occur to influence the maternal gut microbiome, and po
 
 [Source](https://www.nature.com/articles/s41598-020-58000-y)
 
-[Sci-hub](http://scihub.bban.top/10.1017/S0007114520000847)
+10.1017/S0007114520000847
 
 ---
 
@@ -83,7 +83,7 @@ Necrotizing enterocolitis (NEC) is a devastating intestinal emergency that affec
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229283)
 
-[Sci-hub](http://scihub.bban.top/10.1371/journal.pone.0229283)
+10.1371/journal.pone.0229283
 
 ---
 
@@ -95,7 +95,7 @@ The role of gut microbiomes as important regulators of mammalian health is incre
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227289)
 
-[Sci-hub](http://scihub.bban.top/10.1371/journal.pone.0227289)
+10.1371/journal.pone.0227289
 
 ---
 
@@ -107,7 +107,7 @@ It has been established in recent years that the gut microbiome plays a role in 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229001)
 
-[Sci-hub](http://scihub.bban.top/10.1371/journal.pone.0229001)
+10.1371/journal.pone.0229001
 
 ---
 
@@ -119,7 +119,7 @@ The western corn rootworm (WCR) decimates maize crops worldwide. One potential w
 
 [Source](https://www.nature.com/articles/s41587-020-0419-1)
 
-[Sci-hub](http://scihub.bban.top/10.1038/s41587-020-0419-1)
+10.1038/s41587-020-0419-1
 
 ---
 
@@ -137,7 +137,7 @@ Despite the important roles of soil microbes, especially the most diverse rare t
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14945?campaign=wolacceptedarticle)
 
-[Sci-hub](http://scihub.bban.top/10.1111/1462-2920.14945)
+10.1111/1462-2920.14945
 
 ---
 
@@ -149,7 +149,7 @@ The microbiota colonizing the root endophytic compartment and surrounding rhizos
 
 [Source](https://www.nature.com/articles/s41522-020-0117-2?utm_source=npjbiofilms_etoc&utm_medium=email&utm_campaign=toc_41522_6_1&utm_content=20200227&WT.ec_id=NPJBIOFILMS-202002&sap-outbound-id=406233CA0E331B8EFCFEFF4D68E39EBAD56535DE&mkt-key=005056B0331B1ED791CFE57296368737)
 
-[Sci-hub](http://scihub.bban.top/10.1038/s41522-020-0117-2)
+10.1038/s41522-020-0117-2
 
 ---
 
@@ -161,7 +161,7 @@ Aquatic ecosystems harbor a vast pool of antibiotic resistance genes (ARGs), whi
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135420301664)
 
-[Sci-hub](http://scihub.bban.top/10.1016/j.watres.2020.115630)
+10.1016/j.watres.2020.115630
 
 ---
 
@@ -173,7 +173,7 @@ Lakes are a significant source of atmospheric methane, although methane-oxidizin
 
 [Source](https://www.nature.com/articles/s41396-019-0515-8?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ismej%2Frss%2Fcurrent+%28The+ISME+Journal+-+Current%29)
 
-[Sci-hub](http://scihub.bban.top/10.1038/s41396-019-0515-8)
+10.1038/s41396-019-0515-8
 
 ---
 
@@ -185,7 +185,7 @@ Surveying microbial diversity and function is accomplished by combining compleme
 
 [Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13147)
 
-[Sci-hub](http://scihub.bban.top/10.1111/1755-0998.13147)
+10.1111/1755-0998.13147
 
 ---
 
@@ -197,7 +197,7 @@ Increased atmospheric CO2 is driving ocean acidification (OA), and potential cha
 
 [Source](https://www.nature.com/articles/s41598-020-60023-4)
 
-[Sci-hub](http://scihub.bban.top/10.1038/s41598-020-60023-4)
+10.1038/s41598-020-60023-4
 
 ---
 
@@ -209,7 +209,7 @@ Bacterially induced precipitation of minerals leading to cementation of natural 
 
 [Source](https://link.springer.com/article/10.1007/s00253-020-10474-6)
 
-[Sci-hub](http://scihub.bban.top/10.1007/s00253-020-10474-6)
+10.1007/s00253-020-10474-6
 
 ---
 
