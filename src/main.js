@@ -29,7 +29,7 @@ async function processArticles(articles) {
       const md = getMetadata(articleXml, article.href);
       metadata.push(md);
 
-      await sleep(2000);
+      await sleep(10000);
 
       if (levenshteinDistance(article.name, md.name) > 5) {
         throw `Article mismatch, "${md.name}" title is too different to the original "${article.name}" title.`;
