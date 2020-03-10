@@ -34,7 +34,7 @@ To report phase 1 bioequivalence results comparing MYL-1501D, US reference insul
 
 Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
 
-[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22041&_wpnonce=844babe029)
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22041&_wpnonce=2062bf7e5f)
 
 10.1038/s41598-019-40108-5
 
@@ -42,7 +42,7 @@ Many studies have found that memory for affective material is better than memory
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22041&_wpnonce=844babe029)
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22041&_wpnonce=2062bf7e5f)
 
 ---
 
@@ -52,7 +52,7 @@ Many studies have found that memory for affective material is better than memory
 
 Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
 
-[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22042&_wpnonce=39797bb0a3)
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22042&_wpnonce=953efb90a8)
 
 10.1038/s41598-019-40108-5
 
@@ -60,7 +60,97 @@ Many studies have found that memory for affective material is better than memory
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22042&_wpnonce=39797bb0a3)
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22042&_wpnonce=953efb90a8)
+
+---
+
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 06.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+
+
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22043&_wpnonce=da6696d9c2)
+
+10.1038/s41598-019-40108-5
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22043&_wpnonce=da6696d9c2)
+
+---
+
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 06.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+
+
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22049&_wpnonce=f49e4e7a3b)
+
+10.1038/s41598-019-40108-5
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22049&_wpnonce=f49e4e7a3b)
+
+---
+
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 06.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+
+
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22045&_wpnonce=34d20c6e73)
+
+10.1038/s41598-019-40108-5
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22045&_wpnonce=34d20c6e73)
+
+---
+
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 06.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+
+
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22047&_wpnonce=11d5c2fe05)
+
+10.1038/s41598-019-40108-5
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22047&_wpnonce=11d5c2fe05)
+
+---
+
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 06.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+
+
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22048&_wpnonce=f8630caf81)
+
+10.1038/s41598-019-40108-5
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/03/07/new-volunteers-needed/?like_comment=22048&_wpnonce=f8630caf81)
 
 ---
 
