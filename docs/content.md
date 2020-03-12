@@ -88,39 +88,21 @@ Antibiotic-resistant pathogens pose high risks to human and animal health worldw
 
 ---
 
-## Long-Term Phytoremediation of Coastal Saline Soil Reveals Plant Species-Specific Patterns of Microbial Community Recruitment.
- 08.03.2020, _X Wang, R Sun, Y Tian, K Guo, H Sun, X Liu, H Chu, B Liu_
-
-
-Soil salinization is one of the major land degradation processes that decreases soil fertility and crop production worldwide. In this study, a long-term coastal saline soil remediation experiment was conducted with three salt-tolerant plant species: Lycium chinense Mill. (LCM), Tamarix chinensis Lour. (TCL), and Gossypium hirsutum Linn. (GHL). The three plant species successfully remediated the saline soil but showed different efficacies. The archaeal, bacterial, and fungal communities in barren soil and in four rhizocompartments (distal-rhizosphere soil, proximal-rhizosphere soil, rhizoplane, and endosphere) of the three plant species were assessed. All three plant species significantly decreased the richness of the archaeal communities but increased that of the bacterial and fungal communities in both the rhizosphere and rhizoplane compared with those in the barren soil. The archaeal and bacterial community structures were strongly influenced by the rhizocompartment, while specific fungal communities were recruited by different plant species. The microbial taxa whose abundance either increased or decreased significantly during remediation were identified. Soil electrical conductivity (EC) was identified as the main factor driving the variation in microbial community composition between the remediated and barren soil, and total nitrogen (TN), total carbon (TC), and available potassium (AK) were the main factors driving the differences among plant species. This report provides new insights into the responses of the root zone microbial communities of different salt-tolerant plant species during phytoremediation.IMPORTANCE Despite knowing that phytoremediation by salt-tolerant plants is an effective technology for ameliorating saline soils and that microorganisms contribute significantly to plant stress tolerance and soil fertility, we still lack a comprehensive understanding of how microbes respond to the growth of salt-tolerant plants and the subsequent decline in soil salinity. The results of this study revealed different response patterns among bacterial, archaeal, and fungal communities and indicated that the decline in archaeal abundance might be a sign of successful remediation of coastal saline soils. The recruitment of specific fungal communities by different plant species indicated the importance of fungi in plant species-specific remediation functions. We also identified the taxa that may play key roles during remediation, and these taxa could potentially be used as indicators of phytoremediation. Overall, these findings highlight the importance of microbes in the phytoremediation of saline soil and suggest that the mechanisms involved are plant species specific.
+## Long-Term Phytoremediation of Coastal Saline Soil Reveals Plant Species-Specific Patterns of Microbial Community Recruitment
 
 [Source](https://msystems.asm.org/content/5/2/e00741-19)
 
-10.1128/mSystems.00741-19
-
 ---
 
-## Impact of Soil Microbial Amendments on Tomato Rhizosphere Microbiome and Plant Growth in Field Soil.
- 07.03.2020, _A Nuzzo, A Satpute, U Albrecht, SL Strauss_
-
-
-There is increased interest by the agricultural industry in microbial amendments that leverage natural beneficial interactions between plants and soil microbes to improve crop production. However, translating fundamental knowledge from laboratory experiments into efficient field application often has mixed results, and there is less clarity about the interaction between added microbes and the native microbial community, where microorganisms belonging to the same phylogenic clades often reside. In this study, four commercially available microbial amendments were examined in two greenhouse experiments using field soil to assess their impact on tomato plant growth and the native soil microbial communities. The amendments contained different formulations of plant growth-promoting bacteria (Lactobacilli, Rhizobia, etc.), yeasts, and mycorrhizal fungi. The application of the tested amendments in greenhouse conditions resulted in no significant impact on plant growth. A deeper statistical analysis detected variations in the microbial communities that accounted only for 0.25% of the total species, particularly in native taxa not related to the inoculated species and represented less than 1% of the total variance. This suggests that under commercial field conditions, additional confounding variables may play a role in the efficacy of soil microbial amendments. This study confirms the necessity of more in-depth validation requirements for the formulations of soil microbial amendments before delivery to the agricultural market in order to leverage their benefits for the producers, the consumers, and the environment.
+## Impact of Soil Microbial Amendments on Tomato Rhizosphere Microbiome and Plant Growth in Field Soil
 
 [Source](https://link.springer.com/article/10.1007/s00248-020-01497-7)
 
-10.1007/s00248-020-01497-7
-
 ---
 
-## DeepMAsED: Evaluating the quality of metagenomic assemblies.
- 25.02.2020, _O Mineeva, M Rojas-Carulla, RE Ley, B Schölkopf, ND Youngblut_
-
-
-Methodological advances in metagenome assembly are rapidly increasing in the number of published metagenome assemblies. However, identifying misassemblies is challenging due to a lack of closely related reference genomes that can act as pseudo ground truth. Existing reference-free methods are no longer maintained, can make strong assumptions that may not hold across a diversity of research projects, and have not been validated on large scale metagenome assemblies.
+## DeepMAsED: Evaluating the quality of metagenomic assemblies
 
 [Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa124/5756210)
-
-10.1093/bioinformatics/btaa124
 
 ---
 
@@ -130,15 +112,9 @@ Methodological advances in metagenome assembly are rapidly increasing in the num
 
 ---
 
-## Estimating relative biomasses of organisms in microbiota using "phylopeptidomics".
- 09.03.2020, _O Pible, F Allain, V Jouffret, K Culotta, G Miotello, J Armengaud_
-
-
-There is an important need for the development of fast and robust methods to quantify the diversity and temporal dynamics of microbial communities in complex environmental samples. Because tandem mass spectrometry allows rapid inspection of protein content, metaproteomics is increasingly used for the phenotypic analysis of microbiota across many fields, including biotechnology, environmental ecology, and medicine.
+## Estimating relative biomasses of organisms in microbiota using “phylopeptidomics”
 
 [Source](https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00797-x)
-
-10.1186/s40168-020-00797-x
 
 ---
 
