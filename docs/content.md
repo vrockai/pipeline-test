@@ -65,7 +65,7 @@ The antibiotic-resistant bacteria (ARB) and antibiotic-resistant genes (ARGs) in
 ---
 
 ## Metagenomic analysis reveals the microbiome and resistome in migratory birds.
- 03.03.2020, _J Cao, Y Hu, F Liu, Y Wang, Y Bi, N Lv, J Li, B Zhu, GF Gao_
+ 11.03.2020, _J Cao, Y Hu, F Liu, Y Wang, Y Bi, N Lv, J Li, B Zhu, GF Gao_
 
 
 Antibiotic-resistant pathogens pose high risks to human and animal health worldwide. In recent years, the role of gut microbiota as a reservoir of antibiotic resistance genes (ARGs) in humans and animals has been increasingly investigated. However, the structure and function of the gut bacterial community, as well as the ARGs they carry in migratory birds remain unknown.
