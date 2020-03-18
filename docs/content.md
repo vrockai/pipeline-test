@@ -59,7 +59,7 @@ Tench (Tinca tinca L.) is one of the most valued species of the Cyprinidae. This
 ---
 
 ## Microecological Koch's postulates reveal that intestinal microbiota dysbiosis contributes to shrimp white feces syndrome.
- 11.03.2020, _Z Huang, S Zeng, J Xiong, D Hou, R Zhou, C Xing, D Wei, X Deng, L Yu, H Wang, Z Deng, S Weng, S Kriengkrai, D Ning, J Zhou, J He_
+ 17.03.2020, _Z Huang, S Zeng, J Xiong, D Hou, R Zhou, C Xing, D Wei, X Deng, L Yu, H Wang, Z Deng, S Weng, S Kriengkrai, D Ning, J Zhou, J He_
 
 
 Recently, increasing evidence supports that some complex diseases are not attributed to a given pathogen, but dysbiosis in the host intestinal microbiota (IM). The full intestinal ecosystem alterations, rather than a single pathogen, are associated with white feces syndrome (WFS), a globally severe non-infectious shrimp disease, while no experimental evidence to explore the causality. Herein, we conducted comprehensive metagenomic and metabolomic analysis, and intestinal microbiota transplantation (IMT) to investigate the causal relationship between IM dysbiosis and WFS.
