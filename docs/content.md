@@ -77,7 +77,7 @@ The gastrointestinal (GI) tract consists of trillions of organisms that support 
 ---
 
 ## Household Pet Ownership and the Microbial Diversity of the Human Gut Microbiota.
- 18.03.2020, _AE Kates, O Jarrett, JH Skarlupka, A Sethi, M Duster, L Watson, G Suen, K Poulsen, N Safdar_
+ 20.03.2020, _AE Kates, O Jarrett, JH Skarlupka, A Sethi, M Duster, L Watson, G Suen, K Poulsen, N Safdar_
 
 
 The human gut microbiome has a great deal of interpersonal variation due to both endogenous and exogenous factors, like household pet exposure. To examine the relationship between having a pet in the home and the composition and diversity of the adult gut microbiome, we conducted a case-control study nested in a larger, statewide study, the Survey of the Health of Wisconsin. Stool samples were collected from 332 participants from unique households and analyzed using 16S rRNA sequencing on the Illumina MiSeq. One hundred and seventy-eight participants had some type of pet in the home with dogs and cats being the most prevalent. We observed no difference in alpha and beta diversity between those with and without pets, though seven OTUs were significantly more abundant in those without pets compared to those with pets, and four were significantly more abundant in those with pets. When stratifying by age, seven of these remained significant. These results suggest that pet ownership is associated with differences in the human gut microbiota. Further research is needed to better characterize the effect of pet ownership on the human gut microbiome.
@@ -245,7 +245,7 @@ Niche construction through interspecific interactions can condition future commu
 ---
 
 ## Lifting the veil on arid-to-hyperarid Antarctic soil microbiomes: a tale of two oases.
- 19.03.2020, _E Zhang, LM Thibaut, A Terauds, M Raven, MM Tanaka, J van Dorst, SY Wong, S Crane, BC Ferrari_
+ 20.03.2020, _E Zhang, LM Thibaut, A Terauds, M Raven, MM Tanaka, J van Dorst, SY Wong, S Crane, BC Ferrari_
 
 
 Resident soil microbiota play key roles in sustaining the core ecosystem processes of terrestrial Antarctica, often involving unique taxa with novel functional traits. However, the full scope of biodiversity and the niche-neutral processes underlying these communities remain unclear. In this study, we combine multivariate analyses, co-occurrence networks and fitted species abundance distributions on an extensive set of bacterial, micro-eukaryote and archaeal amplicon sequencing data to unravel soil microbiome patterns of nine sites across two east Antarctic regions, the Vestfold Hills and Windmill Islands. To our knowledge, this is the first microbial biodiversity report on the hyperarid Vestfold Hills soil environment.
@@ -257,7 +257,7 @@ Resident soil microbiota play key roles in sustaining the core ecosystem process
 ---
 
 ## Origin of volatile organic compound emissions from subarctic tundra under global warming.
- 19.03.2020, _A Ghirardo, F Lindstein, K Koch, F Buegger, M Schloter, A Albert, A Michelsen, JB Winkler, JP Schnitzler, R Rinnan_
+ 20.03.2020, _A Ghirardo, F Lindstein, K Koch, F Buegger, M Schloter, A Albert, A Michelsen, JB Winkler, JP Schnitzler, R Rinnan_
 
 
 _Arctic Regions, Ecosystem, Global Warming, Tundra, Volatile Organic Compounds_
@@ -276,7 +276,7 @@ Warming occurs in the Arctic twice as fast as the global average, which in turn 
 ---
 
 ## Deep-sea corals provide new insight into the ecology, evolution, and the role of plastids in widespread apicomplexan symbionts of anthozoans.
- 19.03.2020, _SA Vohsen, KE Anderson, AM Gade, HR Gruber-Vodicka, RP Dannenberg, EO Osman, N Dubilier, CR Fisher, IB Baums_
+ 20.03.2020, _SA Vohsen, KE Anderson, AM Gade, HR Gruber-Vodicka, RP Dannenberg, EO Osman, N Dubilier, CR Fisher, IB Baums_
 
 
 Apicomplexans are the causative agents of major human diseases such as malaria and toxoplasmosis. A novel group of apicomplexans, recently named corallicolids, have been detected in corals inhabiting tropical shallow reefs. These apicomplexans may represent a transitional lifestyle between free-living phototrophs and obligate parasites. To shed light on the evolutionary history of apicomplexans and to investigate their ecology in association with corals, we screened scleractinians, antipatharians, alcyonaceans, and zoantharians from shallow, mesophotic, and deep-sea communities. We detected corallicolid plastids using 16S metabarcoding, sequenced the nuclear 18S rRNA gene of corallicolids from selected samples, assembled and annotated the plastid and mitochondrial genomes from a corallicolid that associates with a deep-sea coral, and screened the metagenomes of four coral species for corallicolids.
