@@ -149,7 +149,7 @@ Since hypobaric hypoxia significantly affects metabolic characteristics of intes
 ---
 
 ## The carnivorous digestive system and bamboo diet of giant pandas may shape their low gut bacterial diversity.
- 19.03.2020, _W Guo, Y Chen, C Wang, R Ning, B Zeng, J Tang, C Li, M Zhang, Y Li, Q Ni, X Ni, H Zhang, D Li, J Zhao, Y Li_
+ 22.03.2020, _W Guo, Y Chen, C Wang, R Ning, B Zeng, J Tang, C Li, M Zhang, Y Li, Q Ni, X Ni, H Zhang, D Li, J Zhao, Y Li_
 
 
 The gut microbiota diversity of eight panda cubs was assessed during a dietary switch.Gut microbiota diversity of panda cubs significantly decreased after bamboo consumption.Carnivorous species living on a plant-based diet possess low microbial diversity.Mice were fed a bamboo diet but did not display low gut microbiota diversity.
@@ -179,7 +179,7 @@ Evaluating the health and function of the gastrointestinal tract can be challeng
 ---
 
 ## Dietary substitution of soybean oil with coconut oil in the absence of dietary antibiotics supports growth performance and immune function in nursery and grower pigs.
- 19.03.2020, _AG Braundmeier-Fleming, CS Skenandore, L Gil, V Jacobsen, M Cregger, T Badger, M Karr, G Wu, SB Smith, AE Newell-Fugate_
+ 22.03.2020, _AG Braundmeier-Fleming, CS Skenandore, L Gil, V Jacobsen, M Cregger, T Badger, M Karr, G Wu, SB Smith, AE Newell-Fugate_
 
 
 We hypothesized that supplementation of nursery and grower pig diets with coconut oil in the absence of antibiotics would yield maintenance of glucose homeostasis, growth performance, and immune function similar to what is achieved with nursery and grower pig diets containing antibiotics. Pigs received the same base treatment diets from d24 (weaning) to d71 of age and had blood and fecal samples collected on d24, d31, d45 and d71 for measurement of whole blood glucose, serum insulin, cortisol and cytokines, and fecal microbiome. Pigs had weekly weights and daily feed consumption measured throughout the study. Animals were euthanized at d71 and subcutaneous fat and ileal contents were collected for assessment for fatty acids and microbiome, respectively. Diet treatments consisted of 2% soybean oil plus antibiotics (ABX; n = 22), 2% soybean oil without antibiotics (NABX; n = 22), and 2% coconut oil without antibiotics (COC; n = 22). Statistical analysis examined the effect of diet within each timepoint using a repeated measures ANOVA.
