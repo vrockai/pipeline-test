@@ -1,174 +1,227 @@
-## Intestinal microbiota and its association with colon cancer and red/processed meat consumption.
- 21.03.2020, _N Abu-Ghazaleh, WJ Chua, V Gopalan_
+## Solid phase drug-drug pharmaceutical co-crystal formed between pyrazinamide and diflunisal: Structural characterization based on terahertz/Raman spectroscopy combining with DFT calculation.
+ 23.03.2020, _X Wu, Y Wang, J Xue, J Liu, J Qin, Z Hong, Y Du_
 
 
-The human colon harbours a high number of microorganisms that were reported to play a crucial role in colorectal carcinogenesis. In the recent decade, molecular detection and metabolomic techniques have expanded our knowledge on the role of specific microbial species in promoting tumorigenesis. In this study, we reviewed the association between microbial dysbiosis and colorectal carcinoma (CRC). Various microbial species and their association with colorectal tumorigenesis and red/processed meat consumption have been reviewed. The literature demonstrated a significant abundance of Fusobacterium nucleatum, Streptococcus bovis/gallolyticus, Escherichia coli, and Bacteroides fragilis in patients with adenoma or adenocarcinoma compared to healthy individuals. The mechanisms in which each organism was postulated to promote colon carcinogenesis were collated and summarised in this review. These include the microorganisms' ability to adhere to colon cells, modulate the inhibition of tumour suppressor genes, the activations of oncogenes, genotoxicity and activate downstream targets responsible for angiogenesis. The role of these microorganisms in conjugation with meat components including N-nitroso compounds, heterocyclic amines, and heme was also evident in multiple studies. The outcome of this review supports the role of red meat consumption in modulating CRC progression and the possibility of gut microbiome influencing the relationship between CRC and diet. The study also demonstrates that microbiota analysis could potentially complement existing screening methods when detecting colonic lesions.
+Both pretty low solubility and high membrane permeability of diflunisal (DIF) would affect significantly its oral bioavailability as a typical non-steroidal anti-inflammatory substance. Meanwhile, pyrazinamide (PZA), known as one kind of important anti-tuberculosis drugs, has also several certain side effects. These deficiencies affect the large-scale clinical use of such drugs. Solid-state pharmaceutical co-crystallization is of contemporary interest since it offers an easy and efficient way to produce prospective materials with tunable improved properties. In the current work, a novel solid phase drug-drug co-crystal involving DIF and PZA with molar ratio 1:1 was prepared through the mechanical grinding approach, and vibrational spectroscopic techniques including terahertz time-domain spectroscopy (THz-TDS) and Raman spectroscopy were performed to identify DIF, PZA and their pharmaceutical drug-drug co-crystal. The absorption peaks observed in the THz spectra of the co-crystal were at 0.35, 0.65, 1.17, 1.31 and 1.42 THz respectively, which are obviously different from parent materials. Similarly, Raman spectra could also be used to characterize the difference shown between the co-crystal and parent compounds. Structures and vibrational patterns of three kinds of possible co-crystal theoretical forms (form I, II and III) between DIF and PZA have been simulated by performing density functional theory (DFT) calculations. Theoretical results and THz/Raman vibrational spectra of DIF-PZA co-crystal show that the DIF links to PZA via the carboxylic acid-pyridine hetero-synthon association establishing the theoretical form I, which is a much-higher degree of agreement with experimental results than those of other two co-crystal forms. These results provide us a unique method for characterizing the composition of co-crystal structures, and also provide a wealth of drug-drug co-crystal structural information for improving physicochemical properties and pharmacological activities of specific drugs at the molecular-level.
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/jgh.15042)
+[Source](https://www.linkedin.com/jobs/view/research-tech-ii-chop-microbiome-center-at-children-s-hospital-of-philadelphia-1770611268/)
 
-10.1111/jgh.15042
-
----
-
-## Is it time to consider gut microbiome readouts for precision diagnosis and treatment of alcoholic liver disease?
- 21.03.2020, _GAM Cresci_
-
-
-The mutualistic relationship that exists between gut microbes and the host aids in digestion and metabolism, defends against pathogens, and supports host immunity. Beneficial gut microbes and phages employ various mechanisms to facilitate host defense including competing for nutritional resources, producing antibiotics, providing metabolic inhibition and spatial occlusion, as well as communicating with the host immune system.
-
-[Source](https://aasldpubs.onlinelibrary.wiley.com/doi/abs/10.1002/hep.31245)
-
-10.1002/hep.31245
+10.1016/j.saa.2020.118265
 
 ---
 
-## <span style="color:#008000;">Biliary tract microbiota: a new kid on the block of liver diseases?</span>
+## Research Tech II
 
-[Source](https://www.europeanreview.org/article/20548)
+[Source](https://www.linkedin.com/jobs/view/research-tech-ii-chop-microbiome-center-at-children-s-hospital-of-philadelphia-1770611268/)
 
 ---
 
-## Characteristics of the urinary microbiome in kidney stone patients with hypertension.
- 18.03.2020, _F Liu, N Zhang, P Jiang, Q Zhai, C Li, D Yu, Y Wu, Y Zhang, L Lv, X Xu, N Feng_
+## Coronavirus: three things all governments and their science advisers must do now.
+ 20.03.2020, __
 
 
-Kidney stone disease (KSD) is more common in individuals with hypertension (HTN) than in individuals with normotension (NTN). Urinary dysbiosis is associated with urinary tract disease and systemic diseases. However, the role of the urinary microbiome in KSD complicated with HTN remains unclear.
+
+[Source](https://www.nature.com/articles/d41586-020-00772-4)
+
+10.1038/d41586-020-00772-4
+
+---
+
+## Don't rush to deploy COVID-19 vaccines and drugs without sufficient safety guarantees.
+ 20.03.2020, _S Jiang_
+
+
+_Betacoronavirus, China, Clinical Trials as Topic, Coronavirus Infections, Drug Evaluation, Preclinical, Humans, Immunity, Models, Animal, Patient Safety, Pneumonia, Viral, SARS Virus, Severe Acute Respiratory Syndrome, Viral Vaccines_
+
+[Source](https://www.nature.com/articles/d41586-020-00751-9)
+
+10.1038/d41586-020-00751-9
+
+---
+
+## Q&amp;A: The novel coronavirus outbreak causing COVID-19
+
+[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01533-w)
+
+---
+
+## Dr. Martin Blaser answers coronavirus questions from Twitter (full video available)
+
+[Source](https://www.mlive.com/life/2020/03/dr-martin-blaser-answers-coronavirus-questions-from-twitter.html)
+
+---
+
+## Regulation of fungal decomposition at single-cell level
+
+[Source](https://www.nature.com/articles/s41396-019-0583-9)
+
+---
+
+## Broad-spectrum suppression of bacterial pneumonia by aminoglycoside-propagated Acinetobacter baumannii
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008374)
+
+---
+
+## Vulnerability and resistance in the spatial heterogeneity of soil microbial communities under resource additions
+
+[Source](https://www.pnas.org/content/early/2020/03/11/1908117117.short)
+
+---
+
+## Discovery of a novel integron-borne aminoglycoside resistance gene present in clinical pathogens by screening environmental bacterial communities
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00814-z)
+
+---
+
+## Characterization of antibiotic resistance and host-microbiome interactions in the human upper respiratory tract during influenza infection
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00803-2)
+
+---
+
+## The role of gut microbiota in bone homeostasis
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S8756328220300971)
+
+---
+
+## Characteristics of the urinary microbiome in kidney stone patients with hypertension
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02282-3)
 
-10.1186/s12967-020-02282-3
+---
+
+## Docosahexaenoate-enriched fish oil and medium chain triglycerides shape the feline plasma lipidome and synergistically decrease circulating gut microbiome-derived putrefactive postbiotics
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229868)
 
 ---
 
-## Pregnancy associates with alterations to the host and microbial proteome in vaginal mucosa.
- 20.03.2020, _C Farr Zuend, NH Tobin, T Vera, L Kotyrba, L Noël-Romas, K Birse, S Mutch, F Li, D Lee, S McCorrister, G Westmacott, GM Aldrovandi, A Burgener_
+## The rodent vaginal microbiome across the estrous cycle and the effect of genital nerve electrical stimulation
 
-
-Pregnant women are at increased risk of HIV acquisition, but the biological mechanisms contributing to this observation are not well understood.
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/aji.13235)
-
-10.1111/aji.13235
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230170)
 
 ---
 
-## Prebiotics inhibit proteolysis by gut bacteria in a host diet-dependent manner: a three stage continuous in vitro gut model experiment
+## The different dietary sugars modulate the composition of the gut microbiota in honeybee during overwintering
 
-[Source](https://aem.asm.org/content/early/2020/03/16/AEM.02730-19)
-
----
-
-## Resveratrol enhances brown adipose tissue activity and white adipose tissue browning in part by regulating bile acid metabolism via gut microbiota remodeling.
- 23.03.2020, _S Hui, Y Liu, L Huang, L Zheng, M Zhou, H Lang, X Wang, L Yi, M Mi_
-
-
-Current evidence has linked dietary resveratrol (RSV) intake to the activation of brown adipose tissue (BAT) and induction of white adipose tissue (WAT) browning, which may be a potential means of improving glucose homeostasis. However, the underlying mechanisms remain unclear.
-
-[Source](https://www.nature.com/articles/s41366-020-0566-y)
-
-10.1038/s41366-020-0566-y
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01726-6)
 
 ---
 
-## Environmental remodeling of human gut microbiota and antibiotic resistome in livestock farms.
- 19.03.2020, _J Sun, XP Liao, AW D'Souza, M Boolchandani, SH Li, K Cheng, J Luis Martínez, L Li, YJ Feng, LX Fang, T Huang, J Xia, Y Yu, YF Zhou, YX Sun, XB Deng, ZL Zeng, HX Jiang, BH Fang, YZ Tang, XL Lian, RM Zhang, ZW Fang, QL Yan, G Dantas, YH Liu_
+## Most dominant roles of insect gut bacteria: digestion, detoxification, or essential nutrient provision?
 
-
-Anthropogenic environments have been implicated in enrichment and exchange of antibiotic resistance genes and bacteria. Here we study the impact of confined and controlled swine farm environments on temporal changes in the gut microbiome and resistome of veterinary students with occupational exposure for 3 months. By analyzing 16S rRNA and whole metagenome shotgun sequencing data in tandem with culture-based methods, we show that farm exposure shapes the gut microbiome of students, resulting in enrichment of potentially pathogenic taxa and antimicrobial resistance genes. Comparison of students' gut microbiomes and resistomes to farm workers' and environmental samples revealed extensive sharing of resistance genes and bacteria following exposure and after three months of their visit. Notably, antibiotic resistance genes were found in similar genetic contexts in student samples and farm environmental samples. Dynamic Bayesian network modeling predicted that the observed changes partially reverse over a 4-6 month period. Our results indicate that acute changes in a human's living environment can persistently shape their gut microbiota and antibiotic resistome.
-
-[Source](https://www.nature.com/articles/s41467-020-15222-y)
-
-10.1038/s41467-020-15222-y
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00823-y)
 
 ---
 
-## Effects of the dietary fibre inulin and Trichuris suis products on inflammatory responses in lipopolysaccharide-stimulated macrophages.
- 22.03.2020, _LJ Myhill, P Jensen, A Zakeri, LF Nielsen, SR Jakobsen, H Mejer, SM Thamsborg, P Nejsum, AR Williams_
+## Predictive ability of host genetics and rumen microbiome for subclinical ketosis
 
-
-Consumption of fermentable dietary fibres, such as inulin, or administration of helminth products (e.g. Trichuris suis ova) have independently been shown to alleviate inflammation in vivo. We recently found that dietary inulin and T. suis infection in pigs co-operatively suppressed type-1 inflammatory responses in the gut, suggesting the potential of dietary components to augment anti-inflammatory responses induced by certain helminths. Here, we explored whether T. suis antigens and inulin could directly suppress inflammatory responses in vitro in a cooperative manner. T. suis soluble products (TsSP) strongly suppressed lipopolysaccharide (LPS)-induced IL-6 and TNF-α secretion from murine macrophages and induced an anti-inflammatory phenotype as evidenced by transcriptomic and gene pathway analyses. Inulin regulated the expression of a small number of genes and transcriptional pathways in macrophages after exposure to LPS, but did not enhance the suppressive activity of TsSP, either directly or in co-culture experiments with intestinal epithelial cells. Culture of macrophages with short-chain fatty acids, the products of microbial fermentation of inulin, did however appear to enhance TsSP-mediated inhibition of TNF-α production. Our results confirm a direct role for helminth products in suppressing inflammatory responses in macrophages. In contrast, inulin had little capacity to directly modulate LPS-induced responses. Our results suggest distinct mode-of-actions of T. suis and inulin in regulating inflammatory responses, and that the role of inulin in modulating the response to helminth infection may be dependent on other factors such as production of metabolites by the gut microbiota.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0161589019309186?via%3Dihub)
-
-10.1016/j.molimm.2020.03.006
+[Source](https://www.journalofdairyscience.org/article/S0022-0302(20)30215-0/fulltext)
 
 ---
 
-## Deoxycholic Acid-Induced Gut Dysbiosis Disrupts Bile Acid Enterohepatic Circulation and Promotes Intestinal Inflammation.
- 21.03.2020, _M Xu, M Cen, Y Shen, Y Zhu, F Cheng, L Tang, W Hu, N Dai_
+## Agriculture and the Disruption of Plant–Microbial Symbiosis
 
-
-A Western diet is a risk factor for the development of inflammatory bowel disease (IBD). High levels of fecal deoxycholic acid (DCA) in response to a Western diet contribute to bowel inflammatory injury. However, the mechanism of DCA in the natural course of IBD development remains unanswered.
-
-[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06208-3)
-
-10.1007/s10620-020-06208-3
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0169534720300082)
 
 ---
 
-## Commensal Bacteria Impact a Protozoan’s Integration into Murine Gut Microbiota in a Dietary Nutrient-dependent Manner
+## Taxon-specific microbial growth and mortality patterns reveal distinct temporal population responses to rewetting in a California grassland soil
 
-[Source](https://aem.asm.org/content/early/2020/03/16/AEM.00303-20)
-
----
-
-## Rhizosphere fungal communities of wild and cultivated soybeans grown in three different soil suspensions
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0929139319313472)
+[Source](https://www.nature.com/articles/s41396-020-0617-3)
 
 ---
 
-## Straw decreased N2O emissions from flooded paddy soils via altering denitrifying bacterial community compositions and soil organic carbon fractions.
- 17.03.2020, _N Wang, JL Luo, AL Juhasz, HB Li, JG Yu_
+## Reusing oil and gas produced water for agricultural irrigation: Effects on soil health and the soil microbiome
 
-
-Straw return is widely applied to increase soil fertility and soil organic carbon storage. However, its effect on N2O emissions from paddy soil and the associated microbial mechanisms are still unclear. In this study, wheat straw was amended to two paddy soils (2% w/w) from Taizhou (TZ) and Yixing (YX), China, which were flooded and incubated for 30 d. Real-time PCR and Illumina sequencing were used to characterize changes in denitrifying functional gene abundance and denitrifying bacterial communities. Compared to unamended controls, straw addition significantly decreased accumulated N2O emissions in both TZ (5071 to 96 mg kg-1) and YX (1501 to 112 mg kg-1). This was mainly due to reduced N2O production with decreased abundance of major genera of nirK and nirS-bacterial communities and reduced nirK and nirS gene abundances. Further analyses showed that nirK-, nirS-, and nosZ-bacterial community composition shifted mainly along the easily oxidizable carbon (EOC) arrows following straw amendment among 4 different soil organic carbon fractions, suggesting that increased EOC was the main driver of alerted denitrifying bacterial community composition. This study revealed straw return suppressed N2O emission via altering denitrifying bacterial community compositions and highlighted the importance of EOC in controlling denitrifying bacterial communities.
-
-[Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiaa046/5808811)
-
-10.1093/femsec/fiaa046
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969720314017)
 
 ---
 
-## Microbial communities from subglacial water of naled ice bodies in the forefield of Werenskioldbreen, Svalbard
+## Network analysis reveals the strengthening of microbial interaction in biological soil crust development in the Mu Us Sandy Land, northwestern China
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969720315382)
-
----
-
-## Disinfection exhibits systematic impacts on the drinking water microbiome.
- 23.03.2020, _Z Dai, MC Sevillano-Rivera, ST Calus, QM Bautista-de Los Santos, AM Eren, PWJJ van der Wielen, UZ Ijaz, AJ Pinto_
-
-
-Limiting microbial growth during drinking water distribution is achieved either by maintaining a disinfectant residual or through nutrient limitation without using a disinfectant. The impact of these contrasting approaches on the drinking water microbiome is not systematically understood. We use genome-resolved metagenomics to compare the structure, metabolic traits, and population genomes of drinking water microbiome samples from bulk drinking water across multiple full-scale disinfected and non-disinfected drinking water systems. Microbial communities cluster at the structural- and functional potential-level based on the presence/absence of a disinfectant residual. Disinfectant residual alone explained 17 and 6.5% of the variance in structure and functional potential of the drinking water microbiome, respectively, despite including multiple drinking water systems with variable source waters and source water communities and treatment strategies. The drinking water microbiome is structurally and functionally less diverse and variable across disinfected compared to non-disinfected systems. While bacteria were the most abundant domain, archaea and eukaryota were more abundant in non-disinfected and disinfected systems, respectively. Community-level differences in functional potential were driven by enrichment of genes associated with carbon and nitrogen fixation in non-disinfected systems and γ-aminobutyrate metabolism in disinfected systems likely associated with the recycling of amino acids. Genome-level analyses for a subset of phylogenetically-related microorganisms suggests that disinfection selects for microorganisms capable of using fatty acids, presumably from microbial decay products, via the glyoxylate cycle. Overall, we find that disinfection exhibits systematic selective pressures on the drinking water microbiome and may select for microorganisms able to utilize microbial decay products originating from disinfection-inactivated microorganisms. Video abstract.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00813-0)
-
-10.1186/s40168-020-00813-0
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0038071720300791)
 
 ---
 
-## Microbial diversity in deep subsurface hot brines of the North West Poland: from a community structure to isolate characteristics.
- 21.03.2020, _A Kalwasińska, A Krawiec, E Deja-Sikora, M Gołębiewski, P Kosobucki, MS Brzezinska, M Walczak_
+## Performance and functional microbial communities of denitrification process of a novel MFC-granular sludge coupling system
 
-
-Deep subsurface hot brines in North West Poland, extracted through the boreholes reaching 1.6 and 2.6 km below the ground surface, were microbiologically investigated using culture-independent and culture-dependent methods. The high-throughput sequencing of 16S rRNA gene amplicons showed a very low diversity of bacterial communities, that were dominated by phyla Proteobacteria and Firmicutes. Bacterial genera potentially involved in the sulfur oxidation and the nitrate reduction (Halothiobacillus and Methylobacterium) prevailed in both waters over the sulfate reducers ("Candidatus Desulforudis" and Desulfotomaculum). Only one archaeal taxon, affiliated to the order Thermoplasmatales, was detected in analyzed samples. Bacterial isolates obtained from these deep hot brines were closely related to Bacillus paralicheniformis based on the 16S rRNA sequence similarity. However, genomic and physiological analyses made for one of the isolates, Bacillus paralicheniformis strain TS6, revealed the existence of more diverse metabolic pathways compared to its moderate temperature counterpart. These specific traits may be associated with the ecological adaptations to the extreme habitat, which suggest that some lineages of B. paralicheniformis are halothermophilic.IMPORTANCEDeep subsurface aquifers, buried thousands of meters down the Earth's crust, belong to the most underexplored microbial habitats. Although few studies revealed the existence of microbial life at the depths, the knowledge about the microbial life in the deep hydrosphere is still scarce due to the limited access to such environments. Studying the subsurface microbiome provide unique information on microbial diversity, community structure and geomicrobiological processes occurring under extreme conditions of the deep subsurface. Our study shows that low-diversity microbial assemblages in subsurface hot brines were dominated by the bacteria involved in biogeochemical cycles of sulfur and nitrogen. Based on the genomic and physiological analyses we found that Bacillus paralicheniformis isolate obtained from the brine under study, differed from the mesophilic species in the presence of specific adaptations to harsh environmental conditions. We indicate that some lineages of B. paralicheniformis are halothermophilic, which was not previously reported.
-
-[Source](https://aem.asm.org/content/early/2020/03/16/AEM.00252-20)
-
-10.1128/AEM.00252-20
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420304442)
 
 ---
 
-## Identification of antiviral drug candidates against SARS-CoV-2 from FDA-approved drugs
+## Microbial community structure and functional properties in permanently and seasonally flooded areas in Poyang Lake
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.03.20.999730v1.abstract?%3Fcollection=)
+[Source](https://www.nature.com/articles/s41598-020-61569-z)
 
 ---
 
-## Comparative Pathogenesis Of COVID-19, MERS And SARS In A Non-Human Primate Model
+## Associations between redox-sensitive trace metals and microbial communities in a Proterozoic ocean analogue
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.03.17.995639v1)
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/gbi.12388)
+
+---
+
+## Reactor configuration influences microbial community structure during high-rate, low-temperature anaerobic treatment of dairy wastewater
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0960852420304922)
+
+---
+
+## Multiple-Disease Detection and Classification across Cohorts via Microbiome Search
+
+[Source](https://msystems.asm.org/content/msys/5/2/e00150-20.full.pdf)
+
+---
+
+## How the mi­cro­biome is in­volved in the de­vel­op­ment of can­cer
+
+[Source](https://medicalxpress.com/news/2020-03-microbiome-involved-cancer.html)
+
+---
+
+## How a Fiber-Rich Plant-Based Diet Keeps Your Gut Microbiome Happy and Healthy
+
+[Source](https://www.onegreenplanet.org/natural-health/fiber-rich-vegan-diet-gut-microbiome-healthy/)
+
+---
+
+## Gerhart: Keeping well during a pandemic
+
+[Source](https://www.yourvalley.net/sun-city-independent/stories/gerhart-keeping-well-during-a-pandemic,148305)
+
+---
+
+## Study shows positive effect of cover crops on soil microbiome
+
+[Source](https://www.agrinews-pubs.com/2020/03/22/study-shows-positive-effect-of-cover-crops-on-soil-microbiome/arncw8s/)
+
+---
+
+## Microbiome search engine can increase efficiency in disease detection and diagnosis – Chinese Academy of Sciences
+
+[Source](https://www.eurekalert.org/pub_releases/2020-03/caos-mse032320.php)
+
+---
+
+## 7 Ways A Gastroenterologist Supports His Microbiome &amp; Overall Health
+
+[Source](https://www.mindbodygreen.com/articles/how-to-support-your-microbiome-and-immune-system-during-covid-19)
+
+---
+
+## Infliximab Helps Gut Microbiome in Children with Crohn’s, Study Finds
+
+[Source](https://ibdnewstoday.com/2020/03/23/infliximab-helps-gut-microbiome-in-children-with-crohns-study-finds/)
+
+---
+
+## DuPont, APC Microbiome Ireland link up for babies
+
+[Source](https://cen.acs.org/food/food-ingredients/DuPont-APC-Microbiome-Ireland-link/98/i11)
 
 ---
 
