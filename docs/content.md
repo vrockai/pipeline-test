@@ -87,12 +87,6 @@ _Betacoronavirus, China, Clinical Trials as Topic, Coronavirus Infections, Drug 
 
 ---
 
-## Characteristics of the urinary microbiome in kidney stone patients with hypertension
-
-[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02282-3)
-
----
-
 ## Docosahexaenoate-enriched fish oil and medium chain triglycerides shape the feline plasma lipidome and synergistically decrease circulating gut microbiome-derived putrefactive postbiotics
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229868)
