@@ -1,12 +1,12 @@
-## Solid phase drug-drug pharmaceutical co-crystal formed between pyrazinamide and diflunisal: Structural characterization based on terahertz/Raman spectroscopy combining with DFT calculation.
- 23.03.2020, _X Wu, Y Wang, J Xue, J Liu, J Qin, Z Hong, Y Du_
+## Acute respiratory distress syndrome-attributable mortality in critically ill patients with sepsis.
+ 24.03.2020, _CL Auriemma, H Zhuo, K Delucchi, T Deiss, T Liu, A Jauregui, S Ke, K Vessel, M Lippi, E Seeley, KN Kangelaris, A Gomez, C Hendrickson, KD Liu, MA Matthay, LB Ware, CS Calfee_
 
 
-Both pretty low solubility and high membrane permeability of diflunisal (DIF) would affect significantly its oral bioavailability as a typical non-steroidal anti-inflammatory substance. Meanwhile, pyrazinamide (PZA), known as one kind of important anti-tuberculosis drugs, has also several certain side effects. These deficiencies affect the large-scale clinical use of such drugs. Solid-state pharmaceutical co-crystallization is of contemporary interest since it offers an easy and efficient way to produce prospective materials with tunable improved properties. In the current work, a novel solid phase drug-drug co-crystal involving DIF and PZA with molar ratio 1:1 was prepared through the mechanical grinding approach, and vibrational spectroscopic techniques including terahertz time-domain spectroscopy (THz-TDS) and Raman spectroscopy were performed to identify DIF, PZA and their pharmaceutical drug-drug co-crystal. The absorption peaks observed in the THz spectra of the co-crystal were at 0.35, 0.65, 1.17, 1.31 and 1.42 THz respectively, which are obviously different from parent materials. Similarly, Raman spectra could also be used to characterize the difference shown between the co-crystal and parent compounds. Structures and vibrational patterns of three kinds of possible co-crystal theoretical forms (form I, II and III) between DIF and PZA have been simulated by performing density functional theory (DFT) calculations. Theoretical results and THz/Raman vibrational spectra of DIF-PZA co-crystal show that the DIF links to PZA via the carboxylic acid-pyridine hetero-synthon association establishing the theoretical form I, which is a much-higher degree of agreement with experimental results than those of other two co-crystal forms. These results provide us a unique method for characterizing the composition of co-crystal structures, and also provide a wealth of drug-drug co-crystal structural information for improving physicochemical properties and pharmacological activities of specific drugs at the molecular-level.
+Previous studies assessing impact of acute respiratory distress syndrome (ARDS) on mortality have shown conflicting results. We sought to assess the independent association of ARDS with in-hospital mortality among intensive care unit (ICU) patients with sepsis.
 
 [Source](https://www.linkedin.com/jobs/view/research-tech-ii-chop-microbiome-center-at-children-s-hospital-of-philadelphia-1770611268/)
 
-10.1016/j.saa.2020.118265
+10.1007/s00134-020-06010-9
 
 ---
 
