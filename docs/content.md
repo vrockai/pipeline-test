@@ -1,132 +1,215 @@
-## US nativity and dietary acculturation impact the gut microbiome in a diverse US population
+## Coronavirus vaccines: five key questions as trials begin.
+ 26.03.2020, _E Callaway_
 
-[Source](https://doi.org/10.1038/s41396-020-0630-6)
 
----
 
-## Maternal carriage of Prevotella during pregnancy associates with protection against food allergy in the offspring
+[Source](https://www.nature.com/articles/d41586-020-00798-8)
 
-[Source](https://doi.org/10.1038/s41467-020-14552-1)
-
----
-
-## Vaginal Microbiome of Pregnant Indian Women: Insights into the Genome of Dominant Lactobacillus Species
-
-[Source](https://doi.org/10.1007/s00248-020-01501-0)
+10.1038/d41586-020-00798-8
 
 ---
 
-## A Staphylococcus pro-apoptotic peptide induces acute exacerbation of pulmonary fibrosis
+## How blood from coronavirus survivors might save lives
 
-[Source](https://doi.org/10.1038/s41467-020-15344-3)
-
----
-
-## Effect of probiotics during vonoprazan-containing triple therapy on gut microbiota in Helicobacter pylori infection: A randomized controlled trial.
- 24.03.2020, _T Kakiuchi, A Mizoe, K Yamamoto, I Imamura, K Hashiguchi, H Kawakubo, D Yamaguchi, Y Fujioka, A Nakayama, M Okuda, M Matsuo_
-
-
-Probiotics are beneficial to patients with Helicobacter pylori infections by modulating the gut microbiota. Biofermin-R (BFR) is a multiple antibiotic-resistant lactic acid bacteria preparation of Enterococcus faecium 129 BIO 3B-R and is effective in normalizing the gut microbiota when used in combination with antibiotics. This study aimed to determine the effect of BFR in combination with vonoprazan (VPZ)-based therapy on gut microbiota.
-
-[Source](https://doi.org/10.1111/hel.12690)
-
-10.1111/hel.12690
+[Source](https://www.nature.com/articles/d41586-020-00895-8)
 
 ---
 
-## Rosuvastatin alters the genetic composition of the human gut microbiome
+## COVID-19 Pandemic: Scientist volunteer form
 
-[Source](https://doi.org/10.1038/s41598-020-62261-y)
-
----
-
-## Metaproteomics characterizes human gut microbiome function in colorectal cancer
-
-[Source](https://doi.org/10.1038/s41522-020-0123-4)
+[Source](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
 
 ---
 
-## Genome-resolved metagenomics to study co-occurrence patterns and intraspecific heterogeneity among plant pathogen metapopulations.
- 24.03.2020, _E Newberry, R Bhandari, J Kemble, E Sikora, N Potnis_
+## An initiative to redirect scientific resources towards the fight against COVID-19
 
-
-Assessment of pathogen diversity in agricultural fields is essential for informing management decisions and the development of resistant plant varieties. However, many population genomic studies have relied on culture-based approaches that do not provide quantitative assessment of pathogen populations at the field-level or the associated host microbiome. Here, we applied whole-genome shotgun sequencing of microbial DNA extracted directly from the washings of pooled leaf samples, collected from individual tomato and pepper fields in Alabama that displayed the classical symptoms of bacterial spot disease caused by Xanthomonas spp. Our results revealed that while the occurrence of both X. perforans and X. euvesicatoria within fields was limited, evidence of co-occurrence of up to three distinct X. perforans genotypes was obtained in seven of the ten tomato fields sampled. These population dynamics were accompanied by the corresponding type 3 secreted effector repertoires associated with the co-occurring X. perforans genotypes, indicating that metapopulation structure within fields should be considered when assessing the adaptive potential of X. perforans. Finally, analysis of microbial community composition revealed that co-occurrence of the bacterial spot pathogens Pseudomonas cichorii and Xanthomonas spp. is common in Alabama fields and provided evidence for the non-random association of several other human- and plant-opportunists. This article is protected by copyright. All rights reserved.
-
-[Source](https://doi.org/10.1111/1462-2920.14989)
-
-10.1111/1462-2920.14989
+[Source](https://crowdfightcovid19.org)
 
 ---
 
-## Symbiotic nitrogen fixation and endophytic bacterial community structure in Bt-transgenic chickpea (Cicer arietinum L)
+## Virtual Conference: 6th Annual Translational Microbiome Conference
 
-[Source](https://doi.org/10.1038/s41598-020-62199-1)
-
----
-
-## Soil Microbial Diversity Affects the Plant-Root Colonization by Arbuscular Mycorrhizal Fungi.
- 22.03.2020, _DA Ferreira, TF da Silva, VS Pylro, JF Salles, FD Andreote, F Dini-Andreote_
-
-
-Terrestrial plants establish symbiosis with arbuscular mycorrhizal fungi (AMF) to exchange water and nutrients. However, the extent to which soil biodiversity influences such association remains still unclear. Here, we manipulated the soil microbial diversity using a "dilution-to-extinction" approach in a controlled pot microcosm system and quantified the root length colonization of maize plants by the AMF Rhizophagus clarus. The experiment was performed by manipulating the soil microbiome within a native and foreign soil having distinct physicochemical properties. Overall, our data revealed significant positive correlations between the soil microbial diversity and AMF colonization. Most importantly, this finding opposes the diversity-invasibility hypothesis and highlights for a potential overall helper effect of the soil biodiversity on plant-AMF symbiosis.
-
-[Source](https://doi.org/10.1007/s00248-020-01502-z)
-
-10.1007/s00248-020-01502-z
+[Source](https://microbiomeconference.com)
 
 ---
 
-## Joining Illumina paired-end reads for classifying phylogenetic marker sequences.
- 20.03.2020, _T Liu, CY Chen, A Chen-Deng, YL Chen, JY Wang, YI Hou, MC Lin_
+## Guts &amp; Bugs: A virtual GI seminar series by Edelblum Lab
 
-
-Illumina sequencing of a marker gene is popular in metagenomic studies. However, Illumina paired-end (PE) reads sometimes cannot be merged into single reads for subsequent analysis. When mergeable PE reads are limited, one can simply use only first reads for taxonomy annotation, but that wastes information in the second reads. Presumably, including second reads should improve taxonomy annotation. However, a rigorous investigation of how best to do this and how much can be gained has not been reported.
-
-[Source](https://doi.org/10.1186/s12859-020-3445-6)
-
-10.1186/s12859-020-3445-6
+[Source](https://www.edelblumlab.com)
 
 ---
 
-## M2IA: a Web Server for Microbiome and Metabolome Integrative Analysis.
- 16.03.2020, _Y Ni, G Yu, H Chen, Y Deng, PM Wells, CJ Steves, F Ju, J Fu_
+## Let’s go viral: online microbiology seminars in partnership with International Society of Microbial Ecology
 
-
-Microbiome-metabolome association studies have experienced exponential growth for an in-depth understanding of the impact of microbiota on human health over the last decade. However, analyzing the resulting multi-omics data and their correlations remains a significant challenge due to the lack of a comprehensive computational tool that can facilitate data integration and interpretation. In this study, an automated microbiome and metabolome integrative analysis pipeline (M2IA) has been developed to meet the urgent needs for tools that can effectively integrate microbiome and metabolome data to derive biological insights.
-
-[Source](https://doi.org/10.1093/bioinformatics/btaa188)
-
-10.1093/bioinformatics/btaa188
+[Source](https://www.isme-microbes.org/lets-go-viral)
 
 ---
 
-## Alcohol pretreatment of stools effect on culturomics
+## Phillosophical Transactions of the Royal Society B : Conceptual challenges in microbial community ecology
 
-[Source](https://doi.org/10.1038/s41598-020-62068-x)
-
----
-
-## Genetic and behavioral adaptation of <em>Candida parapsilosis</em> to the microbiome of hospitalized infants revealed by in situ genomics, transcriptomics, and proteomics
-
-[Source](https://doi.org/10.1101/2020.03.23.004093)
+[Source](https://royalsocietypublishing.org/toc/rstb/2020/375/1798)
 
 ---
 
-## Bacterial Swarmers exhibit a Protective Response to Intestinal Stress
+## Respiratory microbiome and epithelial interactions shape immunity in the lungs
 
-[Source](https://doi.org/10.1101/759886)
-
----
-
-## Assessing anaerobic gut fungal (Neocalliamstigomycota) diversity using PacBio D1/D2 LSU rRNA amplicon sequencing and multi-year isolation
-
-[Source](https://doi.org/10.1101/2020.03.24.005967)
+[Source](https://onlinelibrary.wiley.com/doi/pdf/10.1111/imm.13195)
 
 ---
 
-## HumGut: A comprehensive Human Gut prokaryotic genomes collection filtered by metagenome data
+## Polymicrobial periodontal disease triggers a wide radius of effect and unique virome
 
-[Source](https://doi.org/10.1101/2020.03.25.007666)
+[Source](https://www.nature.com/articles/s41522-020-0120-7)
+
+---
+
+## Metagenomic analysis of bacterial species in tongue microbiome of current and never smokers
+
+[Source](https://www.nature.com/articles/s41522-020-0121-6)
+
+---
+
+## Spatial Ecology of the Human Tongue Dorsum Microbiome
+
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30271-0)
+
+---
+
+## Oral biofilms exposure to chlorhexidine results in altered microbial composition and metabolic profile
+
+[Source](https://www.nature.com/articles/s41522-020-0124-3)
+
+---
+
+## Dysbiotic oral microbiota and infected salivary glands in Sjögren’s syndrome
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230667)
+
+---
+
+## Drosophila-associated bacteria differentially shape the nutritional requirements of their host during juvenile growth
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000681)
+
+---
+
+## Bacterially produced metabolites protect C. elegans neurons from degeneration
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000638)
+
+---
+
+## Dynamic interactions within the host-associated microbiota cause tumor formation in the basal metazoan Hydra
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008375)
+
+---
+
+## Association of colitis with gut-microbiota dysbiosis in clathrin adapter AP-1B knockout mice
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228358)
+
+---
+
+## Variations in microbiota composition of laboratory mice influence Citrobacter rodentium infection via variable short-chain fatty acid production
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008448)
+
+---
+
+## Changes in the faecal microbiota of horses and ponies during a two-year body weight gain programme
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230015)
+
+---
+
+## Microbiomes in the insectivorous bat species Mops condylurus rapidly converge in captivity
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223629)
+
+---
+
+## Towards Nutrition-Sensitive Agriculture: An evaluation of biocontrol effects, nutritional value, and ecological impact of bacterial inoculants
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969720316405#f0040)
+
+---
+
+## Rhizobacteria Versus Chelating Agents: Tool for Phytoremediation
+
+[Source](https://link.springer.com/chapter/10.1007/978-981-15-2679-4_9)
+
+---
+
+## Applications of Microorganisms in Agriculture
+
+[Source](https://link.springer.com/chapter/10.1007/978-981-15-2679-4_8)
+
+---
+
+## Plant Invasion Has Limited Impact on Soil Microbial alpha Diversity: A Meta-Analysis
+
+[Source](https://www.mdpi.com/1424-2818/12/3/112/htm)
+
+---
+
+## Carbonate facies‐specific stable isotope data record climate, hydrology, and microbial communities in Great Salt Lake, UT
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/gbi.12386)
+
+---
+
+## The microbiome of modern microbialites in Bacalar Lagoon, Mexico
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230071)
+
+---
+
+## Variations in Fungal Community and Diversity in Doushen With Different Flavors
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00447/full)
+
+---
+
+## MetaBridge: An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping
+
+[Source](An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping)
+
+---
+
+## Validating metabarcoding-based biodiversity assessments with multi-species occupancy models: A case study using coastal marine eDNA
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224119)
+
+---
+
+## PPanGGOLiN: Depicting microbial diversity via a partitioned pangenome graph
+
+[Source](Depicting microbial diversity via a partitioned pangenome graph)
+
+---
+
+## The Community Simulator: A Python package for microbial ecology
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230430)
+
+---
+
+## Genome-based species-specific primers for rapid identification of six species of Lactobacillus acidophilusgroup using multiplex PCR
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230550)
+
+---
+
+## Commensal Neisseria cinerea impairs Neisseria meningitidis microcolony development and reduces pathogen colonisation of epithelial cells
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008372)
+
+---
+
+## Swimming motility of a gut bacterial symbiont promotes resistance to intestinal expulsion and enhances inflammation
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000661)
 
 ---
 
