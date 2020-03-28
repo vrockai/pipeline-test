@@ -9,9 +9,14 @@
 
 ---
 
-## How blood from coronavirus survivors might save lives
+## How blood from coronavirus survivors might save lives.
+ 27.03.2020, _A Maxmen_
+
+
 
 [Source](https://www.nature.com/articles/d41586-020-00895-8)
+
+10.1038/d41586-020-00895-8
 
 ---
 
