@@ -1,76 +1,66 @@
-## Coronavirus vaccines: five key questions as trials begin.
- 26.03.2020, _E Callaway_
+## A proposal of alternative primers for the ARTIC Network’s multiplex PCR to improve coverage of SARS-CoV-2 genome sequencing
 
-
-
-[Source](https://www.nature.com/articles/d41586-020-00798-8)
-
-10.1038/d41586-020-00798-8
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.03.10.985150v3??collection)
 
 ---
 
-## How blood from coronavirus survivors might save lives.
- 27.03.2020, _A Maxmen_
+## FDA approved drugs with broad anti-coronaviral activity inhibit SARS-CoV-2 <em>in vitro</em>
 
-
-
-[Source](https://www.nature.com/articles/d41586-020-00895-8)
-
-10.1038/d41586-020-00895-8
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.03.25.008482v1??collection)
 
 ---
 
-## COVID-19 Pandemic: Scientist volunteer form
+## Protein Structure and its Sequence Reanalysis of 2019-nCov Genome Refutes Snakes as Its Intermediate Host and the Unique Similarity between Its Spike Protein Insertions and HIV-1
 
-[Source](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform)
-
----
-
-## An initiative to redirect scientific resources towards the fight against COVID-19
-
-[Source](https://crowdfightcovid19.org)
+[Source](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.0c00129#)
 
 ---
 
-## Virtual Conference: 6th Annual Translational Microbiome Conference
+## Antithetic population response to antibiotics in a polybacterial community
 
-[Source](https://microbiomeconference.com)
-
----
-
-## Guts &amp; Bugs: A virtual GI seminar series by Edelblum Lab
-
-[Source](https://www.edelblumlab.com)
+[Source](https://advances.sciencemag.org/content/6/10/eaaz5108)
 
 ---
 
-## Let’s go viral: online microbiology seminars in partnership with International Society of Microbial Ecology
+## Toward a dynamical understanding of microbial communities
 
-[Source](https://www.isme-microbes.org/lets-go-viral)
-
----
-
-## Phillosophical Transactions of the Royal Society B : Conceptual challenges in microbial community ecology
-
-[Source](https://royalsocietypublishing.org/toc/rstb/2020/375/1798)
+[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0248)
 
 ---
 
-## Respiratory microbiome and epithelial interactions shape immunity in the lungs
+## Beyond the Bacterial Microbiome: Virome of Human Milk and Effects on the Developing Infant
 
-[Source](https://onlinelibrary.wiley.com/doi/pdf/10.1111/imm.13195)
-
----
-
-## Polymicrobial periodontal disease triggers a wide radius of effect and unique virome
-
-[Source](https://www.nature.com/articles/s41522-020-0120-7)
+[Source](https://www.karger.com/Article/Abstract/504997)
 
 ---
 
-## Metagenomic analysis of bacterial species in tongue microbiome of current and never smokers
+## Cervicovaginal microbiome and natural history of HPV in a longitudinal study
 
-[Source](https://www.nature.com/articles/s41522-020-0121-6)
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008376)
+
+---
+
+## Vaginal Microbiome of Pregnant Indian Women: Insights into the Genome of Dominant <em>Lactobacillus</em> Species
+
+[Source](https://link.springer.com/article/10.1007/s00248-020-01501-0)
+
+---
+
+## Review: Current explorations of nutrition and the gut microbiome: a comprehensive evaluation of the review literature
+
+[Source](https://academic.oup.com/nutritionreviews/advance-article-abstract/doi/10.1093/nutrit/nuz106/5811361?redirectedFrom=fulltext)
+
+---
+
+## Metaproteomics characterizes human gut microbiome function in colorectal cancer
+
+[Source](https://www.nature.com/articles/s41522-020-0123-4)
+
+---
+
+## The effects of daily fasting hours on shaping gut microbiota in mice
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01754-2)
 
 ---
 
@@ -80,141 +70,69 @@
 
 ---
 
-## Oral biofilms exposure to chlorhexidine results in altered microbial composition and metabolic profile
+## Effects of Chlorhexidine mouthwash on the oral microbiome
 
-[Source](https://www.nature.com/articles/s41522-020-0124-3)
-
----
-
-## Dysbiotic oral microbiota and infected salivary glands in Sjögren’s syndrome
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230667)
+[Source](https://www.nature.com/articles/s41598-020-61912-4)
 
 ---
 
-## Drosophila-associated bacteria differentially shape the nutritional requirements of their host during juvenile growth
+## Microbiome diversity and composition varies across body areas in a freshwater turtle
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000681)
-
----
-
-## Bacterially produced metabolites protect C. elegans neurons from degeneration
-
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000638)
+[Source](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000904)
 
 ---
 
-## Dynamic interactions within the host-associated microbiota cause tumor formation in the basal metazoan Hydra
+## Gut microbiota shifts in the giant tiger shrimp, <em>Penaeus monodon</em>, during the postlarvae, juvenile, and adult stages
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008375)
-
----
-
-## Association of colitis with gut-microbiota dysbiosis in clathrin adapter AP-1B knockout mice
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228358)
+[Source](https://link.springer.com/article/10.1007/s10499-020-00532-1)
 
 ---
 
-## Variations in microbiota composition of laboratory mice influence Citrobacter rodentium infection via variable short-chain fatty acid production
+## Community-driven Metadata Standards for Agricultural Microbiome Research
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008448)
-
----
-
-## Changes in the faecal microbiota of horses and ponies during a two-year body weight gain programme
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230015)
+[Source](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-09-19-0051-P)
 
 ---
 
-## Microbiomes in the insectivorous bat species Mops condylurus rapidly converge in captivity
+## Do cover crops benefit soil microbiome? A meta-analysis of current research
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223629)
-
----
-
-## Towards Nutrition-Sensitive Agriculture: An evaluation of biocontrol effects, nutritional value, and ecological impact of bacterial inoculants
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969720316405#f0040)
+[Source](https://www.sciencedirect.com/science/article/pii/S0038071719303657)
 
 ---
 
-## Rhizobacteria Versus Chelating Agents: Tool for Phytoremediation
+## Linking regional shifts in microbial genome adaptation with surface ocean biochemistry
 
-[Source](https://link.springer.com/chapter/10.1007/978-981-15-2679-4_9)
-
----
-
-## Applications of Microorganisms in Agriculture
-
-[Source](https://link.springer.com/chapter/10.1007/978-981-15-2679-4_8)
+[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0254)
 
 ---
 
-## Plant Invasion Has Limited Impact on Soil Microbial alpha Diversity: A Meta-Analysis
+## The potential impact of bacterial communities exposed to crude oil and light on the growth of the harmful algal blooming species <em>Karenia brevis </em>(Dinophyceae)
 
-[Source](https://www.mdpi.com/1424-2818/12/3/112/htm)
-
----
-
-## Carbonate facies‐specific stable isotope data record climate, hydrology, and microbial communities in Great Salt Lake, UT
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/gbi.12386)
+[Source](https://www.publish.csiro.au/MF/MF19358)
 
 ---
 
-## The microbiome of modern microbialites in Bacalar Lagoon, Mexico
+## Machine-learning pattern recognition and differential network analysis of gastric microbiome in the presence of proton pump inhibitor treatment or <em>Helicobacter pylori</em> infection
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230071)
-
----
-
-## Variations in Fungal Community and Diversity in Doushen With Different Flavors
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00447/full)
+[Source](https://www.biorxiv.org/content/10.1101/2020.03.24.005587v1)
 
 ---
 
-## MetaBridge: An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping
+## Infrared absorptions as indicators for <em>Pseudomonas aeruginosa</em> and <em>Acinetobacter baumannii</em>
 
-[Source](An Integrative Multi‐Omics Tool for Metabolite‐Enzyme Mapping)
-
----
-
-## Validating metabarcoding-based biodiversity assessments with multi-species occupancy models: A case study using coastal marine eDNA
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224119)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.03.25.007591v1??collection)
 
 ---
 
-## PPanGGOLiN: Depicting microbial diversity via a partitioned pangenome graph
+## Evidence for a growth zone for deep subsurface microbial clades in near-surface anoxic sediments
 
-[Source](Depicting microbial diversity via a partitioned pangenome graph)
-
----
-
-## The Community Simulator: A Python package for microbial ecology
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230430)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.03.24.005512v1??collection)
 
 ---
 
-## Genome-based species-specific primers for rapid identification of six species of Lactobacillus acidophilusgroup using multiplex PCR
+## A potent antibiofilm agent inhibits and eradicates mono- and multi-species biofilms
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230550)
-
----
-
-## Commensal Neisseria cinerea impairs Neisseria meningitidis microcolony development and reduces pathogen colonisation of epithelial cells
-
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008372)
-
----
-
-## Swimming motility of a gut bacterial symbiont promotes resistance to intestinal expulsion and enhances inflammation
-
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000661)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.03.25.009126v1??collection)
 
 ---
 
