@@ -12,7 +12,7 @@ A novel coronavirus has caused thousands of human infections in China since Dece
 ---
 
 ## The spike glycoprotein of the new coronavirus 2019-nCoV contains a furin-like cleavage site absent in CoV of the same clade.
- 25.03.2020, _B Coutard, C Valle, X de Lamballerie, B Canard, NG Seidah, E Decroly_
+ 03.04.2020, _B Coutard, C Valle, X de Lamballerie, B Canard, NG Seidah, E Decroly_
 
 
 _Amino Acid Sequence, Betacoronavirus, Furin, Genome, Viral, Protein Conformation, Spike Glycoprotein, Coronavirus_
