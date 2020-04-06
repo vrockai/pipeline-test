@@ -37,7 +37,7 @@ Helicobacter pylori infection is associated with the development of a chronic in
 ---
 
 ## From Association to Causality: the Role of the Gut Microbiota and Its Functional Products on Host Metabolism.
- 02.04.2020, _A Koh, F Bäckhed_
+ 05.04.2020, _A Koh, F Bäckhed_
 
 
 Many genomic studies have revealed associations between the gut microbiota composition and host metabolism. These observations led to the idea that a causal relationship could exist between the microbiota and metabolic diseases, a concept supported by studies showing compositional changes in the microbial community in metabolic diseases and transmissibility of host phenotype via microbiota transfer. Accumulating data suggest that the microbiota may affect host metabolic phenotypes through the production of metabolites. These bioactive microbial metabolites, sensitive fingerprints of microbial function, can act as inter-kingdom signaling messengers via penetration into host blood circulation and tissues. These fingerprints may be used for diagnostic purposes, and increased understanding of strain specificity in producing microbial metabolites can identify bacterial strains or specific metabolites that can be used for therapeutic purposes. Here, we will review data supporting the causal role of the gut microbiota in metabolism and discuss mechanisms and potential clinical implications.
