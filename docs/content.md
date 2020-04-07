@@ -137,7 +137,7 @@ Chronic infection and concomitant airway inflammation is the leading cause of mo
 ---
 
 ## MetaEuk-sensitive, high-throughput gene discovery, and annotation for large-scale eukaryotic metagenomics.
- 04.04.2020, _E Levy Karin, M Mirdita, J Söding_
+ 06.04.2020, _E Levy Karin, M Mirdita, J Söding_
 
 
 Metagenomics is revolutionizing the study of microorganisms and their involvement in biological, biomedical, and geochemical processes, allowing us to investigate by direct sequencing a tremendous diversity of organisms without the need for prior cultivation. Unicellular eukaryotes play essential roles in most microbial communities as chief predators, decomposers, phototrophs, bacterial hosts, symbionts, and parasites to plants and animals. Investigating their roles is therefore of great interest to ecology, biotechnology, human health, and evolution. However, the generally lower sequencing coverage, their more complex gene and genome architectures, and a lack of eukaryote-specific experimental and computational procedures have kept them on the sidelines of metagenomics.
@@ -163,6 +163,18 @@ Metagenomics is revolutionizing the study of microorganisms and their involvemen
 ## What not to do while on COVID-19 lockdown
 
 [Source](http://www.jamaicaobserver.com/your-health-your-wealth/what-not-to-do-while-on-covid-19-lockdown_191403)
+
+---
+
+## Drug-induced vitiligo: A case/non-case study in Vigibase®, the WHO pharmacovigilance database.
+ 04.04.2020, _N Anthony, D Bourneau-Martin, S Ghamrawi, L Lagarce, M Babin, M Briet_
+
+
+Vitiligo is a common depigmenting disorder ensuing the loss of epidermal melanocytes. It is a multifactorial disease with immunological, genetic and environmental factors including drug exposure. The purpose of the study was to investigate the drugs and therapeutic subclasses associated with vitiligo occurrence reported in VigiBase®, the WHO pharmacovigilance database. A case/non-case study was carried out by defining cases as vitiligo reports and non-cases as all other reports. The reporting odds ratio (ROR) was calculated for the "suspected" drugs and drug classes according to ATC level 4. During the study period, 741 cases of vitiligo were registered. Mean age was 49 ± 20 years. The disproportionality analysis showed an association between vitiligo and pembrolizumab (ROR 116.9, 95% Confidence Interval (CI) 94.8, 144.3), nivolumab (ROR 22.6, 95% CI 15.8, 32.4), ipilimumab (ROR 41.7, 95% CI 25.0, 69.7), imiquimod (ROR 152.8, 95% CI 103.0, 226.7), adalimumab (ROR 3.8, 95% CI 2.5,5.8), infliximab (ROR 2.6, 95% CI 1.65, 4.01), alemtuzumab (ROR 27.8, 95% CI 17.6, 43.9), and ustekinumab (ROR 9.3, 95% CI 5.6, 15.6). Concerning the pharmacological classes ATC level 4, a significant association was found with monoclonal antibodies, interferons, selective immunosuppressants, TNF alfa inhibitors, interleukin inhibitors, and topical antivirals. This study confirmed the expected associations between vitiligo and immune check point inhibitors and strengthened the emerging signal about the association between vitiligo and imiquimod, TNF-alpha inhibitors and interferons. New signals were shown with selective immunosuppressants including alemtuzumab and interleukin inhibitors.
+
+[Source](https://adoseofmicrobiology.wordpress.com/2020/03/19/hey-thats-not-true-about-the-novel-coronavirus/)
+
+10.1111/fcp.12558
 
 ---
 
