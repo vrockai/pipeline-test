@@ -46,6 +46,18 @@ A novel and highly pathogenic coronavirus (SARS-CoV-2) has caused an outbreak in
 
 ---
 
+## Dietary Inulin and Trichuris suis Infection Promote Beneficial Bacteria Throughout the Porcine Gut.
+ 22.03.2020, _S Stolzenbach, LJ Myhill, LO Andersen, L Krych, H Mejer, AR Williams, P Nejsum, CR Stensvold, DS Nielsen, SM Thamsborg_
+
+
+The gut microbiota (GM) displays a profound ability to adapt to extrinsic factors, such as gastrointestinal pathogens and/or dietary alterations. Parasitic worms (helminths) and host-associated GM share a long co-evolutionary relationship, exerting mutually modulatory effects which may impact the health of the host. Moreover, dietary components such as prebiotic fibers (e.g. inulin) are capable of modulating microbiota toward a composition often associated with a healthier gut function. The effect of helminth infection on the host microbiota is still equivocal, and it is also unclear how parasites and prebiotic dietary components interact to influence the microbiota and host health status. Some helminths, such as Trichuris suis (porcine whipworm), also exhibit strong immunomodulatory and anti-inflammatory effects. We therefore explored the effects of T. suis, alone and in interaction with inulin, both in fecal microbiota during the infection period and luminal microbiota across four intestinal segments at the end of a 4-week infection period. We observed that T. suis generally had minimal, but mainly positive, effects on the microbiota. T. suis increased the relative abundance of bacterial genera putatively associated with gut health such as Prevotella, and decreased bacteria such as Proteobacteria that have been associated with dysbiosis. Interestingly, dietary inulin interacted with T. suis to enhance these effects, thereby modulating the microbiota toward a composition associated with reduced inflammation. Our results show that administration of T. suis together with the consumption of prebiotic inulin may have the potential to positively affect gut health.
+
+[Source](https://thepigsite.com/news/2020/04/how-does-the-microbiome-impact-pig-health)
+
+10.3389/fmicb.2020.00312
+
+---
+
 ## How does the microbiome impact pig health?
 
 [Source](https://thepigsite.com/news/2020/04/how-does-the-microbiome-impact-pig-health)
