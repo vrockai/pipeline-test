@@ -1,270 +1,96 @@
-## The relationship of COVID-19 severity with cardiovascular disease and its traditional risk factors: A systematic review and meta-analysis
+## Atazanavir inhibits SARS-CoV-2 replication and pro-inflammatory cytokine production. Natalia Fintelman
 
-[Source](https://www.medrxiv.org/content/10.1101/2020.04.05.20054155v1)
-
----
-
-## Repurposing Therapeutics for COVID-19: Rapid Prediction of Commercially available drugs through Machine Learning and Docking
-
-[Source](https://www.medrxiv.org/content/10.1101/2020.04.05.20054254v1)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.04.04.020925v2??collection)
 
 ---
 
-## Proteomic and Metabolomic Characterization of COVID-19 Patient Sera
+## Vineyard ecosystems are structured and distinguished by fungal communities impacting the flavour and quality of wine.
 
-[Source](https://www.medrxiv.org/content/10.1101/2020.04.07.20054585v1)
-
----
-
-## Plasma Metabolomic and Lipidomic Alterations Associated with COVID-19
-
-[Source](https://www.medrxiv.org/content/10.1101/2020.04.05.20053819v1)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2019.12.27.881656v2??collection)
 
 ---
 
-## Estimating false-negative detection rate of SARS-CoV-2 by RT-PCR
+## Early-life factors contributing to type 1 diabetes.
+ 09.03.2020, _ME Craig, KW Kim, SR Isaacs, MA Penno, EE Hamilton-Williams, JJ Couper, WD Rawlinson_
 
-[Source](https://www.medrxiv.org/content/10.1101/2020.04.05.20053355v1)
 
----
+The incidence of type 1 diabetes has increased since the mid-twentieth century at a rate that is too rapid to be attributed to genetic predisposition alone. While the disease can occur at any age, mounting evidence from longitudinal cohort studies of at-risk children indicate that type 1 diabetes associated autoantibodies can be present from the first year of life, and that those who develop type 1 diabetes at a young age have a more aggressive form of the disease. This corroborates the hypothesis that environmental exposures in early life contribute to type 1 diabetes risk, whether related to maternal influences on the fetus during pregnancy, neonatal factors or later effects during infancy and early childhood. Studies to date show a range of environmental triggers acting at different time points, suggesting a multifactorial model of genetic and environmental factors in the pathogenesis of type 1 diabetes, which integrally involves a dialogue between the immune system and pancreatic beta cells. For example, breastfeeding may have a weak protective effect on type 1 diabetes risk, while use of an extensively hydrolysed formula does not. Additionally, exposure to being overweight pre-conception, both in utero and postnatally, is associated with increased risk of type 1 diabetes. Epidemiological, clinical and pathological studies in humans support a role for viral infections, particularly enteroviruses, in type 1 diabetes, but definitive proof is lacking. The role of the early microbiome and its perturbations in islet autoimmunity and type 1 diabetes is the subject of investigation in ongoing cohort studies. Understanding the interactions between environmental exposures and the human genome and metagenome, particularly across ethnically diverse populations, will be critical for the development of future strategies for primary prevention of type 1 diabetes.
 
-## ACE2 variants underlie interindividual variability and susceptibility to COVID-19 in Italian population
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://medicalxpress.com/news/2020-04-evidence-role-microbiome-early-life.html&ct=ga&cd=CAEYCioTMzc5NDEwNzU3Mzc0OTUxMjYxNDIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNHeUWIVbb0qrp1W5ckv5sZ-9jzmsQ)
 
-[Source](https://www.medrxiv.org/content/10.1101/2020.04.03.20047977v1)
-
----
-
-## MP10-18 FUNCTIONAL ANALYSIS OF THE URINARY TRACT MICROBIOME OF CALCIUM OXALATE STONE FORMERS
-
-[Source](https://www.auajournals.org/doi/abs/10.1097/JU.0000000000000830.018)
+10.1007/s00125-019-4942-x
 
 ---
 
-## Microbial Engineering Community (mce): Selecting Key Players in Microbiomes
+## New evidence for the protective role of the microbiome in early life
 
-[Source](https://www.cetjournal.it/index.php/cet/article/view/CET2079079)
-
----
-
-## Contributors to Dysbiosis in Very-Low-Birth-Weight Infants<br>MW Groer et al.
-
-[Source](https://www.jognn.org/article/S0884-2175(20)30029-0/fulltext)
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://medicalxpress.com/news/2020-04-evidence-role-microbiome-early-life.html&ct=ga&cd=CAEYCioTMzc5NDEwNzU3Mzc0OTUxMjYxNDIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNHeUWIVbb0qrp1W5ckv5sZ-9jzmsQ)
 
 ---
 
-## A cross-sectional pilot study of birth mode and vaginal microbiota in reproductive-age women
+## Developing a new class of engineered live bacterial therapeutics to treat human diseases. Mark
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228574)
-
----
-
-## Milk Microbiome and Neonatal Colonization: Overview.
-
-[Source](https://www.ncbi.nlm.nih.gov/pubmed/32235123)
+[Source](http://GENERAL MICROBIOME  Developing a new class of engineered live bacterial therapeutics to treat human diseases OPEN Mark R. Charbonneau, et al. 08 April 2020 Nature)
 
 ---
 
-## Single-Cell Genomics and the Oral Microbiome
+## The Scaly-foot Snail genome and implications for the origins of biomineralised armour
 
-[Source](https://www.osti.gov/pages/biblio/1606754)
-
----
-
-## Dysbiosis of saliva microbiome in patients with oral lichen planus
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01733-7)
+[Source](https://s4cloudae36f1aac.hana.ondemand.com/data-buffer/sap/public/cuan/link/100/1FE7F29FB15AAFBF1CA0E0CE511FCC90AC6ED4B3?_V_=2&_K11_=FDEF4DE66DCF2F6F5AB860D05FA365FE238826C2&_L54AD1F204_=c2NlbmFyaW89TUxDUEcmdGVuYW50PW15MzA0NDI0LnM0aGFuYS5vbmRlbWFuZC5jb20mdGFyZ2V0PWh0dHA6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDIwLTE1NTIyLTM/dXRtX3NvdXJjZT1uY29tbXNfZXRvYyZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj10b2NfNDE0NjdfMTFfMSZ1dG1fY29udGVudD0yMDIwMDQwOCZXVC5lY19pZD1OQ09NTVMtMjAyMDA0MDgmc2FwLW91dGJvdW5kLWlkPTFGRTdGMjlGQjE1QUFGQkYxQ0EwRTBDRTUxMUZDQzkwQUM2RUQ0QjMmbWt0LWtleT00MjAxMEEwNTUwNjcxRUVBOUJBMTMzRUFGRDkwMzRBQQ&_K13_=46&_K14_=99fcd4d5ed592a30a937df998a8387efe9d316e213a34b0708123196e5061cb2)
 
 ---
 
-## Specific gut microbiome signature predicts the early-stage lung cancer
+## Pooled CRISPRi screening of the cyanobacterium Synechocystis sp PCC 6803 for enhanced industrial phenotypes.
+ 07.04.2020, _L Yao, K Shabestary, SM Björk, J Asplund-Samuelsson, HN Joensson, M Jahn, EP Hudson_
 
-[Source](https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1737487)
 
----
+Cyanobacteria are model organisms for photosynthesis and are attractive for biotechnology applications. To aid investigation of genotype-phenotype relationships in cyanobacteria, we develop an inducible CRISPRi gene repression library in Synechocystis sp. PCC 6803, where we aim to target all genes for repression. We track the growth of all library members in multiple conditions and estimate gene fitness. The library reveals several clones with increased growth rates, and these have a common upregulation of genes related to cyclic electron flow. We challenge the library with 0.1 M L-lactate and find that repression of peroxiredoxin bcp2 increases growth rate by 49%. Transforming the library into an L-lactate-secreting Synechocystis strain and sorting top lactate producers enriches clones with sgRNAs targeting nutrient assimilation, central carbon metabolism, and cyclic electron flow. In many examples, productivity can be enhanced by repression of essential genes, which are difficult to access by transposon insertion.
 
-## Complex influences of gut microbiome metabolism on various drug responses
+[Source](https://s4cloudae36f1aac.hana.ondemand.com/data-buffer/sap/public/cuan/link/100/1FE7F29FB15AAFBF1CA0E0CE511FCC90AC6ED4B3?_V_=2&_K11_=C11709B6EE091CA3B271CC5FE0FFCC6014BCA688&_L54AD1F204_=c2NlbmFyaW89TUxDUEcmdGVuYW50PW15MzA0NDI0LnM0aGFuYS5vbmRlbWFuZC5jb20mdGFyZ2V0PWh0dHA6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDE0NjctMDIwLTE1NDkxLTc/dXRtX3NvdXJjZT1uY29tbXNfZXRvYyZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj10b2NfNDE0NjdfMTFfMSZ1dG1fY29udGVudD0yMDIwMDQwOCZXVC5lY19pZD1OQ09NTVMtMjAyMDA0MDgmc2FwLW91dGJvdW5kLWlkPTFGRTdGMjlGQjE1QUFGQkYxQ0EwRTBDRTUxMUZDQzkwQUM2RUQ0QjMmbWt0LWtleT00MjAxMEEwNTUwNjcxRUVBOUJBMTMzRUFGRDkwMzRBQQ&_K13_=46&_K14_=36f28d7717d0d0646ada9c10f5f3a18549a5d2081f68a8ed8ee85ce5e0894f7f)
 
-[Source](https://tcpharm.org/DOIx.php?id=10.12793/tcp.2020.28.e3)
-
----
-
-## Gut Microbiota, Its Role in Induction of Alzheimer’s Disease Pathology, and Possible Therapeutic Interventions: Special Focus on Anthocyanins
-
-[Source](https://www.ncbi.nlm.nih.gov/pubmed/32244729)
+10.1038/s41467-020-15491-7
 
 ---
 
-## Faecal microbiota transplantation: indications, evidence and safety
+## News Article: Superfund, Meet Super Plants
 
-[Source](https://www.nps.org.au/assets/April-43-2-40pp.pdf#page=2)
-
----
-
-## The effect of faecal microbiota transplantation in irritable bowel syndrome. A double blind, randomized placebo controlled single centre study
-
-[Source](https://www.researchgate.net/publication/338195560_The_effect_of_fecal_microbiota_transplantation_on_IBS_related_quality_of_life_and_fatigue_in_moderate_to_severe_non-constipated_irritable_bowel_Secondary_endpoints_of_a_double_blind_randomized_placebo)
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2020/04/07/science/superfund-plant-microbiome.html&ct=ga&cd=CAEYECoTMzc5NDEwNzU3Mzc0OTUxMjYxNDIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNE5eww5af5KRPvNHdvJ9wL-k7-VpQ)
 
 ---
 
-## Gut microbiota from persons with attention-deficit/hyperactivity disorder affects the brain in mice
+## Gut microbiota and nutrient interactions with skin in psoriasis: A comprehensive review of animal and human studies.
+ 07.04.2020, _G Damiani, NL Bragazzi, TS McCormick, PDM Pigatto, S Leone, A Pacifico, D Tiodorovic, S Di Franco, A Alfieri, M Fiore_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00816-x)
 
----
+The intestinal tract (i.e., the gut), is where the body's nutrients are absorbed, and is simultaneously inhabited by numerous microbes. An increasing body of literature suggests a crucial role for the gut microbiome in modulating systemic inflammatory disease. Psoriasis is a chronic systemic inflammatory disease and its pathogenesis is related to the interaction between genetic susceptibility, immune response and environmental triggers. The omics era has allowed physicians to assess different aspects of psoriasis pathogenesis such as the microbiome, infectome, and autoinfectome. Furthermore, diet appears to play an important role in modulating disease activity, perhaps by influencing gut microbes. Given these observations, we aimed to summarize the current knowledge regarding skin-microbiome-gut-nutrients and psoriasis.
 
-## Aberrant gut microbiota alters host metabolome and impacts renal failure in humans and rodents
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://www.news-medical.net/whitepaper/20200407/What-is-the-Skin-Microbiome.aspx&ct=ga&cd=CAEYDioTMzc5NDEwNzU3Mzc0OTUxMjYxNDIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNEzSkSitlrWyK713zbvk-QnVLXOWA)
 
-[Source](https://gut.bmj.com/content/early/2020/04/02/gutjnl-2019-319766.abstract)
-
----
-
-## The microbiota of dairy milk: a review
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0958694620300844)
+10.12998/wjcc.v8.i6.1002
 
 ---
 
-## Comparative analysis of the total and active bacterial communities in the surface sediment of Lake Taihu
+## What is the Skin Microbiome?
 
-[Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiaa059/5815072)
-
----
-
-## Recovery of fen peatland microbiomes and predicted functional profiles after rewetting
-
-[Source](https://www.nature.com/articles/s41396-020-0639-x)
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://www.news-medical.net/whitepaper/20200407/What-is-the-Skin-Microbiome.aspx&ct=ga&cd=CAEYDioTMzc5NDEwNzU3Mzc0OTUxMjYxNDIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNEzSkSitlrWyK713zbvk-QnVLXOWA)
 
 ---
 
-## Microbial assemblages associated with the rhizosphere and endosphere of an herbage, Leymus chinensis.
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 23.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
 
-[Source](https://www.ncbi.nlm.nih.gov/pubmed/32227622)
 
----
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
 
-## Insights into the earthworm gut multi-kingdom microbial communities
+[Source](https://microbiomedigest.com/2020/04/08/todays-journal-entries4-8/?like_comment=22155&_wpnonce=3ea67a57c9)
 
-[Source](https://www.forskningsdatabasen.dk/en/catalog/2525028829)
-
----
-
-## Prevalent root-derived phenolics drive shifts in microbial community composition and prime decomposition in forest soil
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0038071720300948)
+10.1038/s41598-019-40108-5
 
 ---
 
-## Abiotic factors influence patterns of bacterial diversity and community composition in the Dry Valleys of Antarctica.
- 02.04.2020, _EM Bottos, DC Laughlin, CW Herbold, CK Lee, IR McDonald, SC Cary_
+## <span>Like</span>
 
-
-The Dry Valleys of Antarctica are a unique ecosystem of simple trophic structure, where the abiotic factors that influence soil bacterial communities can be resolved in the absence of extensive biotic interactions. This study evaluated the degree to which aspects of topographic, physicochemical, and spatial variation explain patterns of bacterial richness and community composition in 471 soil samples collected across a 220 square kilometer landscape in Southern Victoria Land. Richness was most strongly influenced by physicochemical soil properties, particularly soil conductivity, though significant trends with several topographic and spatial variables were also observed. Structural equation modeling (SEM) supported a final model in which variation in community composition was best explained by physicochemical variables, particularly soil water content, and where the effects of topographic variation were largely mediated through their influence on physicochemical variables. Community dissimilarity increased with distance between samples, and though most of this variation was explained by topographic and physicochemical variation, a small but significant relationship remained after controlling for this environmental variation. As the largest survey of terrestrial bacterial communities of Antarctica completed to date, this work provides fundamental knowledge of the Dry Valleys ecosystem, and has implications globally for understanding environmental factors that influence bacterial distributions.
-
-[Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiaa042/5815075)
-
-10.1093/femsec/fiaa042
-
----
-
-## Structure and function of the Arctic and Antarctic marine microbiota as revealed by metagenomics.
- 03.04.2020, _W Zhang, S Cao, W Ding, M Wang, S Fan, B Yang, A Mcminn, M Wang, BB Xie, QL Qin, XL Chen, J He, YZ Zhang_
-
-
-The Arctic and Antarctic are the two most geographically distant bioregions on earth. Recent sampling efforts and following metagenomics have shed light on the global ocean microbial diversity and function, yet the microbiota of polar regions has not been included in such global analyses.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00826-9)
-
-10.1186/s40168-020-00826-9
-
----
-
-## Integrated metagenomic and metaproteomic analyses reveal potential degradation mechanism of azo dye-Direct Black G by thermophilic microflora
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0147651320303961)
-
----
-
-## Microbiome and ecology of a hot spring-microbialite system on the Trans-Himalayan Plateau.
- 06.04.2020, _C Roy, MJ Rameez, PK Haldar, A Peketi, N Mondal, U Bakshi, T Mapder, P Pyne, S Fernandes, S Bhattacharya, R Roy, S Mandal, WK O'Neill, A Mazumdar, SK Mukhopadhyay, A Mukherjee, R Chakraborty, JE Hallsworth, W Ghosh_
-
-
-Little is known about life in the boron-rich hot springs of Trans-Himalayas. Here, we explore the geomicrobiology of a 4438-m-high spring which emanates ~70 °C-water from a boratic microbialite called Shivlinga. Due to low atmospheric pressure, the vent-water is close to boiling point so can entropically destabilize biomacromolecular systems. Starting from the vent, Shivlinga's geomicrobiology was revealed along the thermal gradients of an outflow-channel and a progressively-drying mineral matrix that has no running water; ecosystem constraints were then considered in relation to those of entropically comparable environments. The spring-water chemistry and sinter mineralogy were dominated by borates, sodium, thiosulfate, sulfate, sulfite, sulfide, bicarbonate, and other macromolecule-stabilizing (kosmotropic) substances. Microbial diversity was high along both of the hydrothermal gradients. Bacteria, Eukarya and Archaea constituted &gt;98%, ~1% and &lt;1% of Shivlinga's microbiome, respectively. Temperature constrained the biodiversity at ~50 °C and ~60 °C, but not below 46 °C. Along each thermal gradient, in the vent-to-apron trajectory, communities were dominated by Aquificae/Deinococcus-Thermus, then Chlorobi/Chloroflexi/Cyanobacteria, and finally Bacteroidetes/Proteobacteria/Firmicutes. Interestingly, sites of &gt;45 °C were inhabited by phylogenetic relatives of taxa for which laboratory growth is not known at &gt;45 °C. Shivlinga's geomicrobiology highlights the possibility that the system's kosmotrope-dominated chemistry mitigates against the biomacromolecule-disordering effects of its thermal water.
-
-[Source](https://www.nature.com/articles/s41598-020-62797-z)
-
-10.1038/s41598-020-62797-z
-
----
-
-## An in-depth survey of the microbial landscape of the walls of a neonatal operating room
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230957)
-
----
-
-## Infection with novel Bacteroides phage BV01 alters host transcriptome and bile acid metabolism in a common human gut microbe
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.028910v1.abstract)
-
----
-
-## Development of a Custom MALDI-TOF Mass Spectrometric Database for Identification of Environmental Burkholderia and Related Genera.
-
-[Source](https://aem.asm.org/content/early/2020/03/30/AEM.00354-20.abstract)
-
----
-
-## 
-
-[Source](https://aem.asm.org/content/early/2020/03/30/AEM.00354-20.abstract)
-
----
-
-## MetaEuk—sensitive, high-throughput gene discovery, and annotation for large-scale eukaryotic metagenomics
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00808-x)
-
----
-
-## Inference-based accuracy of metagenome prediction tools varies across sample types and functional categories
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00815-y)
-
----
-
-## DNA Thermo-Protection Facilitates Whole Genome Sequencing of Mycobacteria Direct from Clinical Samples by the Nanopore Platform
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.05.026864v1.abstract)
-
----
-
-## Seeker: Alignment-free identification of bacteriophage genomes by deep learning
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.04.025783v1.abstract)
-
----
-
-## Multiview learning for understanding functional multiomics<br>ND Nguyen et al.
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007677)
-
----
-
-## Gilead agrees microbiome deal with Second Genome
-
-[Source](https://www.biopharma-reporter.com/Article/2020/04/07/Gilead-agrees-microbiome-deal-for-IBD)
-
----
-
-## Human Microbiome Market Future Outlook 2020-2026. Major Players are Dohme Corp, Seres …
-
-[Source](https://sciencein.me/2020/04/06/human-microbiome-market-future-outlook-2020-2026-major-players-are-dohme-corp-seres-therapeutics-synthetic-biologics-inc-synlogic/)
-
----
-
-## Europe Human Microbiome Market to Offer Increased Growth Prospects for Manufacturers up to 2025
-
-[Source](https://www.curiousdesk.com/europe-human-microbiome-market-to-offer-increased-growth-prospects-for-manufacturers-upto-2025/)
+[Source](https://microbiomedigest.com/2020/04/08/todays-journal-entries4-8/?like_comment=22155&_wpnonce=3ea67a57c9)
 
 ---
 
