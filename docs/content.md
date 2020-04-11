@@ -1,175 +1,204 @@
-## Functional sequencing read annotation for high precision microbiome analysis.
- 15.07.2019, _C Zhu, M Miller, S Marpaka, P Vaysberg, MC Rühlemann, G Wu, FA Heinsen, M Tempel, L Zhao, W Lieb, A Franke, Y Bromberg_
+## The Microbestiary
 
-
-_Algorithms, Bacterial Proteins, Child, Crohn Disease, Humans, Metagenomics, Microbiota, Molecular Sequence Annotation, Prader-Willi Syndrome, Sequence Alignment_
-The vast majority of microorganisms on Earth reside in often-inseparable environment-specific communities-microbiomes. Meta-genomic/-transcriptomic sequencing could reveal the otherwise inaccessible functionality of microbiomes. However, existing analytical approaches focus on attributing sequencing reads to known genes/genomes, often failing to make maximal use of available data. We created faser (functional annotation of sequencing reads), an algorithm that is optimized to map reads to molecular functions encoded by the read-correspondent genes. The mi-faser microbiome analysis pipeline, combining faser with our manually curated reference database of protein functions, accurately annotates microbiome molecular functionality. mi-faser's minutes-per-microbiome processing speed is significantly faster than that of other methods, allowing for large scale comparisons. Microbiome function vectors can be compared between different conditions to highlight environment-specific and/or time-dependent changes in functionality. Here, we identified previously unseen oil degradation-specific functions in BP oil-spill data, as well as functional signatures of individual-specific gut microbiome responses to a dietary intervention in children with Prader-Willi syndrome. Our method also revealed variability in Crohn's Disease patient microbiomes and clearly distinguished them from those of related healthy individuals. Our analysis highlighted the microbiome role in CD pathogenicity, demonstrating enrichment of patient microbiomes in functions that promote inflammation and that help bacteria survive it.
-
-[Source](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
-
-10.1093/nar/gkx1209
+[Source](http://microbestiary.org/)
 
 ---
 
-## help “map” the human gut microbiome
+## Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses
 
-[Source](https://techcrunch.com/2020/04/07/borderlands-3-science-research-gut-microbiome/)
-
----
-
-## Matching the Directions of Electric Fields from Triboelectric and Ferroelectric Charges in Nanogenerator Devices for Boosted Performance.
- 09.04.2020, _A Šutka, K Mālnieks, L Lapčinskis, M Timusk, K Pudzs, M Rutkis_
-
-
-Embedding additional ferroelectric dipoles in contacting polymer layers is known to enhance the performance of triboelectricnanogenerator (TENG) devices. However, the influence of dipoles formed between the triboelectric surface charges on two contacting ferroelectric films has been ignored in all relevant studies. We demonstrate that proper attention to the alignment of the distinct dipoles present between two contacting surfaces and in composite polymer/BaTiO3 ferroelectric films can lead to up to four times higher energy and power density output compared with cases when dipole arrangement is mismatched. For example, TENG device based on PVAc/BaTiO3 shows energy density increase from 32.4 μJ m-2 to 132.9 μJ m-2 when comparing devices with matched and mismatched dipoles. The presented strategy and understanding of resulting stronger electrostatic induction in the contacting layers enable the development of TENG devices with greatly enhanced properties.
-
-[Source](https://www.forbes.com/sites/paultassi/2020/04/07/borderlands-3-is-giving-out-new-loot-if-you-help-them-map-the-human-gut-microbiome-wait-what/#6b7710694b8e)
-
-10.1016/j.isci.2020.101011
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.05.026450v2)
 
 ---
 
-## alignment
+## Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro
 
-[Source](https://www.forbes.com/sites/paultassi/2020/04/07/borderlands-3-is-giving-out-new-loot-if-you-help-them-map-the-human-gut-microbiome-wait-what/#6b7710694b8e)
-
----
-
-## more than 20 percent of recently published metagenomes
-
-[Source](https://doi.org/10.1371/journal.pbio.3000698)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.abstract?%3Fcollection=)
 
 ---
 
-## Microbiome Data Congress 2020
+## Understanding the B and T cells epitopes of spike protein of severe respiratory syndrome coronavirus-2: A computational way to predict the immunogens
 
-[Source](https://www.microbiome-data.com/)
-
----
-
-## free registration
-
-[Source](https://www.microbiome-data.com/register)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.08.013516v1)
 
 ---
 
-## Dr. Nikos Kyrpides
+## From iron to antibiotics: Identification of conserved bacterial-fungal interactions across diverse partners.
 
-[Source](https://jgi.doe.gov/our-science/scientists-jgi/microbiome-data-science/)
-
----
-
-## Dr. Kari Dunfield
-
-[Source](https://www.uoguelph.ca/ses/people/kari-dunfield)
+[Source](https://www.biorxiv.org/content/10.1101/2020.03.19.999193v2)
 
 ---
 
-## Structure of the Mucosal and Stool Microbiome in Lynch Syndrome
+## Unraveling Host-Gut Microbiota Dialogue and Its Impact on Cholesterol Levels
 
-[Source](https://doi.org/10.1016/j.chom.2020.03.005)
-
----
-
-## Effects of sex and chronic cigarette smoke exposure on the mouse cecal microbiome
-
-[Source](https://doi.org/10.1371/journal.pone.0230932)
+[Source](https://www.frontiersin.org/articles/10.3389/fphar.2020.00278/full)
 
 ---
 
-## The gut microbiome but not the resistome is associated with urogenital schistosomiasis in preschool-aged children
+## Metagenomics analysis reveals features unique to Indian distal gut microbiota
 
-[Source](https://doi.org/10.1038/s42003-020-0859-7)
-
----
-
-## Developing a new class of engineered live bacterial therapeutics to treat human diseases
-
-[Source](https://doi.org/10.1038/s41467-020-15508-1)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231197)
 
 ---
 
-## The gut mycobiome: The overlooked constituent of clinical outcomes and treatment complications in patients with cancer and other immunosuppressive conditions
+## Gut Microbiota Modulate CD8 T Cell Responses to Influence Colitis-Associated Tumorigenesis
 
-[Source](https://doi.org/10.1371/journal.ppat.1008353)
-
----
-
-## Intestinal enteroids recapitulate the effects of short-chain fatty acids on the intestinal epithelium
-
-[Source](https://doi.org/10.1371/journal.pone.0230231)
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30349-1)
 
 ---
 
-## A combination of monosodium glutamate and high-fat and high-fructose diets increases the risk of kidney injury, gut dysbiosis and host-microbial co-metabolism
+## Characterization of the oral microbiome of medically controlled type-2 diabetes patients
 
-[Source](https://doi.org/10.1371/journal.pone.0231237)
-
----
-
-## Vineyard ecosystems are structured and distinguished by fungal communities impacting the flavour and quality of wine
-
-[Source](https://doi.org/10.1101/2019.12.27.881656)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.07.031070v1)
 
 ---
 
-## Bacterial community composition of vermicompost-treated tomato rhizospheres
+## Cervicovaginal microbiome and natural history of HPV in a longitudinal study
 
-[Source](https://doi.org/10.1371/journal.pone.0230577)
-
----
-
-## Field Performance of Mixtures of Pseudomonas and Bacillus spp. in Managing Papaya Ringspot Virus Disease and their Effect on Plant Defense Enzyme Activity
-
-[Source](https://tar.sljol.info/articles/abstract/10.4038/tar.v31i2.8369/)
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008376)
 
 ---
 
-## Detection of potential biodeterioration risks for tempera painting in 16th century exhibits from State Tretyakov Gallery
+## Meta-Analysis of Vaginal Microbiome Data Provides New Insights Into Preterm Birth
 
-[Source](https://doi.org/10.1371/journal.pone.0230591)
-
----
-
-## Microbiome and antibiotic resistome in household dust from Beijing, China
-
-[Source](https://doi.org/10.1016/j.envint.2020.105702)
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00476/full)
 
 ---
 
-## Microbial dark matter driven degradation of carbon fiber polymer composites
+## Microbiota characterization of Exaiptasia diaphana from the Great Barrier Reef
 
-[Source](https://doi.org/10.1101/2020.04.05.024463)
-
----
-
-## Primate phageomes are structured by superhost phylogeny and environment
-
-[Source](https://doi.org/10.1101/2020.04.06.011684)
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-020-00029-5)
 
 ---
 
-## PIA: More Accurate Taxonomic Assignment of Metagenomic Data Demonstrated on sedaDNA From the North Sea
+## Microbial Diversity and Metabolic Potential in the Stratified Sansha Yongle Blue Hole in the South China Sea
 
-[Source](https://doi.org/10.3389/fevo.2020.00084)
+[Source](https://www.nature.com/articles/s41598-020-62411-2)
+
+---
+
+## Metabolic versatility of freshwater sedimentary archaea feeding on different organic carbon sources
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231238)
+
+---
+
+## The skin microbiome facilitates adaptive tetrodotoxin production in poisonous newts
+
+[Source](https://elifesciences.org/articles/53898)
+
+---
+
+## Metatranscriptomic virome assessment of Rhipicephalus microplus from Colombia
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1877959X19301761)
+
+---
+
+## Metabolic differences between symbiont subpopulations in the deep-sea tubeworm Riftia pachyptila
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.08.032177v1.abstract?%3Fcollection=)
+
+---
+
+## Similar gut bacterial microbiota in two fruit-feeding moth pests collected from different host species and locations
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.028886v2.abstract?%3Fcollection=)
+
+---
+
+## The preceding root system drives the composition and function of the rhizosphere microbiome
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01999-0)
+
+---
+
+## Microbial Co-Occurrence in Floral Nectar Affects Metabolites and Attractiveness to a Generalist Pollinator
+
+[Source](https://link.springer.com/article/10.1007/s10886-020-01169-3)
+
+---
+
+## Impact of phages on soil bacterial communities and nitrogen availability under different assembly scenarios
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00822-z)
+
+---
+
+## A predatory myxobacterium controls cucumber Fusarium wilt by regulating the soil microbial community
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00824-x)
+
+---
+
+## A plant genetic network for preventing dysbiosis in the phyllosphere
+
+[Source](https://www.nature.com/articles/s41586-020-2185-0)
+
+---
+
+## Fungal communities differentially respond to warming and drought in tropical grassland soil
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15423)
+
+---
+
+## An in-depth survey of the microbial landscape of the walls of a neonatal operating room
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230957)
+
+---
+
+## Defining the resilience of the human salivary microbiota by a 520 days longitudinal study in confined environment: the Mars500 mission
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.08.031401v1.abstract?%3Fcollection=)
+
+---
+
+## Phage cocktail containing Podoviridae and Myoviridae bacteriophages inhibits the growth of Pectobacterium spp. under in vitro and in vivo conditions
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230842)
+
+---
+
+## Dynamic genome evolution and complex virocell metabolism of globally-distributed giant viruses
+
+[Source](https://www.nature.com/articles/s41467-020-15507-2?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200408&WT.ec_id=NCOMMS-20200408&sap-outbound-id=1FE7F29FB15AAFBF1CA0E0CE511FCC90AC6ED4B3&mkt-key=42010A0550671EEA9BA133EAFD9034AA)
+
+---
+
+## Infection with novel Bacteroides phage BV01 alters host transcriptome and bile acid metabolism in a common human gut microbe
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.028910v2.abstract?%3Fcollection=)
+
+---
+
+## Integrative and Conjugative Elements (ICE) and Associated Cargo Genes within and across Hundreds of Bacterial Genera
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.07.030320v1.abstract?%3Fcollection=)
 
 ---
 
 ## A restriction enzyme reduced representation sequencing approach for low-cost, high-throughput metagenome profiling
 
-[Source](https://doi.org/10.1371/journal.pone.0219882)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219882)
 
 ---
 
-## Every fifth published metagenome is not available to science
+## Open microbiome dominated by Clostridium and Eubacterium converts methanol into i-butyrate and n-butyrate
 
-[Source](https://doi.org/10.1371/journal.pbio.3000698)
+[Source](https://link.springer.com/article/10.1007%2Fs00253-020-10551-w)
 
 ---
 
-## <span>Like</span>
+## The Microbestiary
 
-[Source](https://microbiomedigest.com/2020/04/09/april-9-2020/?like_comment=22159&_wpnonce=1c5cfcdae3)
+[Source](http://Microbestiary.org)
+
+---
+
+## an article published on the UW website
+
+[Source](https://www.uwyo.edu/uw/news/2020/04/uw-student-one-of-40-selected-for-arctic-circle-expedition.html)
 
 ---
 
