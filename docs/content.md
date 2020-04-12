@@ -1,204 +1,198 @@
-## The Microbestiary
+## A virus that has gone viral: Amino acid mutation in S protein of Indian isolate of Coronavirus COVID-19 might impact receptor binding and thus infectivity
 
-[Source](http://microbestiary.org/)
-
----
-
-## Genomic determinants of pathogenicity in SARS-CoV-2 and other human coronaviruses
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.05.026450v2)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.07.029132v1.abstract?%3Fcollection=)
 
 ---
 
-## Nelfinavir inhibits replication of severe acute respiratory syndrome coronavirus 2 in vitro
+## Potential host range of multiple SARS-like coronaviruses and an improved ACE2-Fc variant that is potent against both SARS-CoV-2 and SARS-CoV-1
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.026476v1.abstract?%3Fcollection=)
-
----
-
-## Understanding the B and T cells epitopes of spike protein of severe respiratory syndrome coronavirus-2: A computational way to predict the immunogens
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.08.013516v1)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.10.032342v1?%3Fcollection=)
 
 ---
 
-## From iron to antibiotics: Identification of conserved bacterial-fungal interactions across diverse partners.
+## A Highly Scalable and Rapidly Deployable RNA Extraction-Free COVID-19 Assay by Quantitative Sanger Sequencing
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.03.19.999193v2)
-
----
-
-## Unraveling Host-Gut Microbiota Dialogue and Its Impact on Cholesterol Levels
-
-[Source](https://www.frontiersin.org/articles/10.3389/fphar.2020.00278/full)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.07.029199v1.abstract?%3Fcollection=)
 
 ---
 
-## Metagenomics analysis reveals features unique to Indian distal gut microbiota
+## Nonmedical Masks in Public for Respiratory Pandemics: Droplet Retention by two-layer Textile Barrier Fully Protects Germ-free Mice from Bacteria in Droplets
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231197)
-
----
-
-## Gut Microbiota Modulate CD8 T Cell Responses to Influence Colitis-Associated Tumorigenesis
-
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30349-1)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.028688v1.abstract?%3Fcollection=)
 
 ---
 
-## Characterization of the oral microbiome of medically controlled type-2 diabetes patients
+## Linoleic acid induces metabolic stress in the intestinal microorganism <em>Bifidobacterium breve</em> DSM 20213
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.07.031070v1)
-
----
-
-## Cervicovaginal microbiome and natural history of HPV in a longitudinal study
-
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008376)
+[Source](https://www.nature.com/articles/s41598-020-62897-w)
 
 ---
 
-## Meta-Analysis of Vaginal Microbiome Data Provides New Insights Into Preterm Birth
+## Not just ‘immunity’: how the microbiota can reshape our approach to cancer immunotherapy
 
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00476/full)
-
----
-
-## Microbiota characterization of Exaiptasia diaphana from the Great Barrier Reef
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-020-00029-5)
+[Source](https://www.futuremedicine.com/doi/10.2217/imt-2019-0192)
 
 ---
 
-## Microbial Diversity and Metabolic Potential in the Stratified Sansha Yongle Blue Hole in the South China Sea
+## Toward Understanding Microbiome-Neuronal Signaling
 
-[Source](https://www.nature.com/articles/s41598-020-62411-2)
-
----
-
-## Metabolic versatility of freshwater sedimentary archaea feeding on different organic carbon sources
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231238)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1097276520301544)
 
 ---
 
-## The skin microbiome facilitates adaptive tetrodotoxin production in poisonous newts
+## Gut microbiota in children with juvenile idiopathic arthritis: characteristics, biomarker identification, and usefulness in clinical prediction
 
-[Source](https://elifesciences.org/articles/53898)
-
----
-
-## Metatranscriptomic virome assessment of Rhipicephalus microplus from Colombia
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1877959X19301761)
+[Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-6703-0)
 
 ---
 
-## Metabolic differences between symbiont subpopulations in the deep-sea tubeworm Riftia pachyptila
+## Fecal-associated microbiome differences between traditional Chinese medicine qi-deficiency and balanced constitutions
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.08.032177v1.abstract?%3Fcollection=)
-
----
-
-## Similar gut bacterial microbiota in two fruit-feeding moth pests collected from different host species and locations
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.028886v2.abstract?%3Fcollection=)
+[Source](https://www.sciencedirect.com/science/article/pii/S2095754820300223)
 
 ---
 
-## The preceding root system drives the composition and function of the rhizosphere microbiome
+## Gut Microbiota Modulate CD8&nbsp;T Cell Responses to Influence Colitis-Associated Tumorigenesis
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01999-0)
-
----
-
-## Microbial Co-Occurrence in Floral Nectar Affects Metabolites and Attractiveness to a Generalist Pollinator
-
-[Source](https://link.springer.com/article/10.1007/s10886-020-01169-3)
+[Source](https://www.sciencedirect.com/science/article/pii/S2211124720303491)
 
 ---
 
-## Impact of phages on soil bacterial communities and nitrogen availability under different assembly scenarios
+## Recommendations on Screening for Asymptomatic Bacterial Vaginosis in Pregnancy
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00822-z)
-
----
-
-## A predatory myxobacterium controls cucumber Fusarium wilt by regulating the soil microbial community
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00824-x)
+[Source](https://jamanetwork.com/journals/jama/article-abstract/2764163)
 
 ---
 
-## A plant genetic network for preventing dysbiosis in the phyllosphere
+## Changes to the resistome of Pseudomonas aeruginosa clone ST308 associated with corneal infection over time
 
-[Source](https://www.nature.com/articles/s41586-020-2185-0)
-
----
-
-## Fungal communities differentially respond to warming and drought in tropical grassland soil
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15423)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.10.036673v1.abstract?%3Fcollection=)
 
 ---
 
-## An in-depth survey of the microbial landscape of the walls of a neonatal operating room
+## Components of human breast milk: from macronutrient to microbiome and microRNA.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230957)
-
----
-
-## Defining the resilience of the human salivary microbiota by a 520 days longitudinal study in confined environment: the Mars500 mission
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.08.031401v1.abstract?%3Fcollection=)
+[Source](https://www.e-cep.org/journal/view.php?doi=10.3345/cep.2020.00059)
 
 ---
 
-## Phage cocktail containing Podoviridae and Myoviridae bacteriophages inhibits the growth of Pectobacterium spp. under in vitro and in vivo conditions
+## The impact of short-term acute heat stress on the rumen microbiome of Hanwoo steers
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230842)
-
----
-
-## Dynamic genome evolution and complex virocell metabolism of globally-distributed giant viruses
-
-[Source](https://www.nature.com/articles/s41467-020-15507-2?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200408&WT.ec_id=NCOMMS-20200408&sap-outbound-id=1FE7F29FB15AAFBF1CA0E0CE511FCC90AC6ED4B3&mkt-key=42010A0550671EEA9BA133EAFD9034AA)
+[Source](https://www.ejast.org/archive/view_article?pid=jast-62-2-208)
 
 ---
 
-## Infection with novel Bacteroides phage BV01 alters host transcriptome and bile acid metabolism in a common human gut microbe
+## Effects of Dietary Microencapsulated Tannic Acid (extracted from Chinese gallnut) Supplementation on the Growth Performance, Intestinal Morphology, and Intestinal Microbiota in Weaning Piglets
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.06.028910v2.abstract?%3Fcollection=)
-
----
-
-## Integrative and Conjugative Elements (ICE) and Associated Cargo Genes within and across Hundreds of Bacterial Genera
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.07.030320v1.abstract?%3Fcollection=)
+[Source](https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skaa112/5816852)
 
 ---
 
-## A restriction enzyme reduced representation sequencing approach for low-cost, high-throughput metagenome profiling
+## Association between oropharyngeal microbiome and weight gain in piglets during pre and post weaning life
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219882)
-
----
-
-## Open microbiome dominated by Clostridium and Eubacterium converts methanol into i-butyrate and n-butyrate
-
-[Source](https://link.springer.com/article/10.1007%2Fs00253-020-10551-w)
+[Source](https://www.ejast.org/archive/view_article?pid=jast-62-2-247)
 
 ---
 
-## The Microbestiary
+## An early fecal microbiota transfer improves the intestinal conditions on microflora and immunoglobulin and antimicrobial peptides in piglets
 
-[Source](http://Microbestiary.org)
+[Source](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.0c00545)
 
 ---
 
-## an article published on the UW website
+## Microbial communities and food safety aspects of crickets (<em>Acheta domesticus</em>) reared under controlled conditions
 
-[Source](https://www.uwyo.edu/uw/news/2020/04/uw-student-one-of-40-selected-for-arctic-circle-expedition.html)
+[Source](https://www.wageningenacademic.com/doi/abs/10.3920/JIFF2019.0048)
+
+---
+
+## Difference of gut microbiota composition based on the body condition scores in dogs
+
+[Source](https://www.ejast.org/archive/view_article?pid=jast-62-2-239)
+
+---
+
+## A Systematic Analysis of Mosquito-Microbiome Biosynthetic Gene Clusters Reveals Antimalarial Siderophores that Reduce Mosquito Reproduction Capacity
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.09.034280v1?%3Fcollection=)
+
+---
+
+## Geology and climate influence rhizobiome composition of the phenotypically diverse tropical tree <em>Tabebuia heterophylla</em>
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231083)
+
+---
+
+## Impact of Atrazine Exposure on the Microbial Community Structure in a Brazilian Tropical Latosol Soil
+
+[Source](https://www.jstage.jst.go.jp/article/jsme2/35/2/35_ME19143/_article/-char/ja/)
+
+---
+
+## An intensive multilocation temporal dataset of fungal communities in the root and rhizosphere of <em>Brassica napus</em>
+
+[Source](https://www.sciencedirect.com/science/article/pii/S2352340920303619)
+
+---
+
+## Comammox bacterial abundance, activity, and contribution in agricultural rhizosphere soils
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969720320799)
+
+---
+
+## Diversity and potential biogeochemical impacts of viruses in bulk and rhizosphere soils
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15010)
+
+---
+
+## Rhizosphere microbiome assemble and its impact on plant growth
+
+[Source](https://pubs.acs.org/doi/abs/10.1021/acs.jafc.0c00073)
+
+---
+
+## Patterns in extracellular enzyme activity and microbial diversity in deep-sea Mediterranean sediments
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0967063720300194)
+
+---
+
+##  Towards a probiotic approach for building plumbing – Nutrient-based selection during biofilm formation on flexible polymeric materials
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.10.033217v1?%3Fcollection=)
+
+---
+
+## The biogeography and assembly of microbial communities in wastewater treatment plants in China
+
+[Source](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b07950)
+
+---
+
+## Aerobic biodegradation of <em>p</em>-nitrophenol in a nitrifying sludge bioreactor: System performance, sludge property and microbial community shift
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0301479720304758)
+
+---
+
+##  Microbiome Therapeutics Market 2020 Latest Trends, Technology Studies, Substantial Growth, Key Developments and Future Analysis till 2025
+
+[Source](https://sciencein.me/2020/04/11/microbiome-therapeutics-market-2020-latest-trends-technology-studies-substantial-growth-key-developments-and-future-analysis-till-2025/)
+
+---
+
+## Microbiome Sequencing Services Market: Opportunities and Forecast Assessment, 2019-2025
+
+[Source](https://www.curiousdesk.com/microbiome-sequencing-services-market-opportunities-and-forecast-assessment-2019-2025/)
+
+---
+
+## Combining light sheet microscopy and expansion microscopy for fast 3D imaging of virus-infected cells with super-resolution
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.10.035378v1?%3Fcollection=)
 
 ---
 
