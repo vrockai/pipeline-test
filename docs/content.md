@@ -58,15 +58,9 @@ Patients with chronic traumatic brain injury (TBI) requiring long-term, permanen
 
 ---
 
-## Recent advances in the role of plant metabolites in shaping the root microbiome.
- 13.03.2020, _RP Jacoby, L Chen, M Schwier, A Koprivova, S Kopriva_
-
-
-The last decade brought great progress in describing the repertoire of microbes associated with plants and identifying principles of their interactions. Metabolites exuded by plant roots have been considered candidates for the mechanisms by which plants shape their root microbiome. Here, we review the evidence for several plant metabolites affecting plant interaction with microbes belowground. We also discuss the development of new approaches to study the mechanisms of such interaction that will help to elucidate the metabolic networks in the rhizosphere.
+##  Recent advances in the role of plant metabolites in shaping the root microbiome 
 
 [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047909/)
-
-10.12688/f1000research.21796.1
 
 ---
 
