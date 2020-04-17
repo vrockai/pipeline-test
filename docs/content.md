@@ -10,15 +10,15 @@ Genome-wide pooled CRISPR-Cas-mediated knockout, activation, and repression scre
 
 ---
 
-## Long-term analysis of the benefit of prophylaxis for adult patients with severe or moderate haemophilia A.
- 15.04.2020, _W Miesbach, S Kittler, A Bauhofer, C Königs, T Becker, L Nemes, A Staus, J Schüttrumpf_
+## Evaluation of liquid and powdered forms of polyclonal antibody preparation against Streptococcus bovis and Fusobacterium necrophorum in cattle adapted or not adapted to highly fermentable carbohydrate diets.
+ 16.04.2020, _ECO Cassiano, FP Júnior, TA Barros, CT Marino, RDL Pacheco, FA Ferreira, DD Millen, MF Martins, SMP Pugine, MP de Melo, K Beauchemin, PM Meyer, MB Arrigoni, PHM Rodrigues_
 
 
-Prophylaxis with factor VIII (FVIII) concentrates in children with haemophilia A (HA) is current standard of care. The benefit of prophylactic treatment for adult HA patients is not commonly accepted.
+Feed additives that modify rumen fermentation can be used to prevent metabolic disturbances such as acidosis and optimize beef cattle production. The study evaluated the effects of liquid and powdered forms of polyclonal antibody preparation (PAP) against Streptococcus bovis and Fusobacterium necrophorum on rumen fermentation parameters in ruminally cannulated non-lactating dairy cows that were adapted or unadapted to a high concentrate diet.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231533#sec001)
 
-10.1111/hae.13988
+10.5713/ajas.19.0761
 
 ---
 
