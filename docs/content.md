@@ -119,15 +119,27 @@ Mango is one of the world's most important tropical fruits. It belongs to the fa
 
 ---
 
-## A comparative analysis of drinking water employing metagenomics
+## A comparative analysis of drinking water employing metagenomics.
+ 15.04.2020, _KD Brumfield, NA Hasan, MB Leddy, JA Cotruvo, SM Rashed, RR Colwell, A Huq_
+
+
+The microbiological content of drinking water traditionally is determined by employing culture-dependent methods that are unable to detect all microorganisms, especially those that are not culturable. High-throughput sequencing now makes it possible to determine the microbiome of drinking water. Thus, the natural microbiota of water and water distribution systems can now be determined more accurately and analyzed in significantly greater detail, providing comprehensive understanding of the microbial community of drinking water applicable to public health. In this study, shotgun metagenomic analysis was performed to determine the microbiological content of drinking water and to provide a preliminary assessment of tap, drinking fountain, sparkling natural mineral, and non-mineral bottled water. Predominant bacterial species detected were members of the phyla Actinobacteria and Proteobacteria, notably the genera Alishewanella, Salmonella, and Propionibacterium in non-carbonated non-mineral bottled water, Methyloversatilis and Methylibium in sparkling natural mineral water, and Mycobacterium and Afipia in tap and drinking fountain water. Fecal indicator bacteria, i.e., Escherichia coli or enterococci, were not detected in any samples examined in this study. Bacteriophages and DNA encoding a few virulence-associated factors were detected but determined to be present only at low abundance. Antibiotic resistance markers were detected only at abundance values below our threshold of confidence. DNA of opportunistic plant and animal pathogens was identified in some samples and these included bacteria (Mycobacterium spp.), protozoa (Acanthamoeba mauritaniensis and Acanthamoeba palestinensis), and fungi (Melampsora pinitorqua and Chryosporium queenslandicum). Archaeal DNA (Candidatus Nitrosoarchaeum) was detected only in sparkling natural mineral water. This preliminary study reports the complete microbiome (bacteria, viruses, fungi, and protists) of selected types of drinking water employing whole-genome high-throughput sequencing and bioinformatics. Investigation into activity and function of the organisms detected is in progress.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231210)
 
+10.1371/journal.pone.0231210
+
 ---
 
-## Prevalence and pollution characteristics of antibiotic resistant genes in one high anthropogenically-impacted river
+## Prevalence and pollution characteristics of antibiotic resistant genes in one high anthropogenically-impacted river.
+ 15.04.2020, _Q Li, Q Zhang_
+
+
+The objectives of this study were to comprehensively investigate the occurrence, distribution, and mobility of antibiotic resistant genes (ARGs) in the biofilm, water, and sediment from a section of the Weihe-river, in the northern Henan province, China. The abundances of nine ARGs belonging to four commonly used antibiotic classes (tetracyclines, sulfonamides, fluoroquinolones, and multidrug) and class 1 integron-integrase gene (intI1) were quantified. Sulfonamides gene (sulI) accounted for the highest percentage of detected ARGs in most sampling sites, including in water, biofilm, and sediment. Among the resistance genes, IntI1 and sul1 were significantly correlated (r&gt;0.800, p&lt;0.01) with a fecal coliform (FC) detected in the biofilm, and there was also a significantly positive correlation between the abundances of 16SrRNA and intI1 in the biofilms. Compared with the sediment and water samples, the biofilms contained sufficient nutrients to promote bacterial reproduction. Under sufficient total nitrogen and phosphorus concentrations, the horizontal gene transfer due to intI1 plays a key role in the formation and migration of ARGs within biofilms.
 
 [Source](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0231128)
+
+10.1371/journal.pone.0231128
 
 ---
 
@@ -137,27 +149,51 @@ Mango is one of the world's most important tropical fruits. It belongs to the fa
 
 ---
 
-## Ozone efficacy for the control of airborne viruses: Bacteriophage and norovirus models
+## Ozone efficacy for the control of airborne viruses: Bacteriophage and norovirus models.
+ 15.04.2020, _ME Dubuis, N Dumont-Leblond, C Laliberté, M Veillette, N Turgeon, J Jean, C Duchaine_
+
+
+This study was designed to test the efficacy of an air treatment using ozone and relative humidity (RH) for the inactivation of airborne viruses. Four phages (φX174, PR772, MS2 and φ6) and one eukaryotic virus (murine norovirus MNV-1) were exposed to low ozone concentrations (1.23 ppm for phages and 0.23 ppm for MNV-1) and various levels of RH for 10 to 70 minutes. The inactivation of these viruses was then assessed to determine which of the tested conditions provided the greatest reduction in virus infectivity. An inactivation of at least two orders of magnitude for φX174, MS2 and MNV-1 was achieved with an ozone exposure of 40 minutes at 85% RH. For PR772 and φ6, exposure to the reference condition at 20% RH for 10 minutes yielded the same results. These findings suggest that ozone used at a low concentration is a powerful disinfectant for airborne viruses when combined with a high RH. Air treatment could therefore be implemented inside hospital rooms ventilated naturally.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231164)
 
+10.1371/journal.pone.0231164
+
 ---
 
-## Decode-seq: a practical approach to improve differential gene expression analysis
+## Decode-seq: a practical approach to improve differential gene expression analysis.
+ 26.03.2020, _Y Li, H Yang, H Zhang, Y Liu, H Shang, H Zhao, T Zhang, Q Tu_
+
+
+Many differential gene expression analyses are conducted with an inadequate number of biological replicates. We describe an easy and effective RNA-seq approach using molecular barcoding to enable profiling of a large number of replicates simultaneously. This approach significantly improves the performance of differential gene expression analysis. Using this approach in medaka (Oryzias latipes), we discover novel genes with sexually dimorphic expression and genes necessary for germ cell development. Our results also demonstrate why the common practice of using only three replicates in differential gene expression analysis should be abandoned.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01966-9)
 
+10.1186/s13059-020-01966-9
+
 ---
 
-## WhatsGNU: a tool for identifying proteomic novelty
+## WhatsGNU: a tool for identifying proteomic novelty.
+ 21.03.2020, _AM Moustafa, PJ Planet_
+
+
+To understand diversity in enormous collections of genome sequences, we need computationally scalable tools that can quickly contextualize individual genomes based on their similarities and identify features of each genome that make them unique. We present WhatsGNU, a tool based on exact match proteomic compression that, in seconds, classifies any new genome and provides a detailed report of protein alleles that may have novel functional differences. We use this technique to characterize the total allelic diversity (panallelome) of Salmonella enterica, Mycobacterium tuberculosis, Pseudomonas aeruginosa, and Staphylococcus aureus. It could be extended to others. WhatsGNU is available from https://github.com/ahmedmagds/WhatsGNU.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01965-w)
 
+10.1186/s13059-020-01965-w
+
 ---
 
-## A Zipf-plot based normalization method for high-throughput RNA-seq data
+## A Zipf-plot based normalization method for high-throughput RNA-seq data.
+ 11.04.2020, _B Wang_
+
+
+Normalization is crucial in RNA-seq data analyses. Due to the existence of excessive zeros and a large number of small measures, it is challenging to find reliable linear rescaling normalization parameters. We propose a Zipf plot based normalization method (ZN) assuming that all gene profiles have similar upper tail behaviors in their expression distributions. The new normalization method uses global information of all genes in the same profile without gene-level expression alteration. It doesn't require the majority of genes to be not differentially expressed (DE), and can be applied to data where the majority of genes are weakly or not expressed. Two normalization schemes are implemented with ZN: a linear rescaling scheme and a non-linear transformation scheme. The linear rescaling scheme can be applied alone or together with the non-linear normalization scheme. The performance of ZN is benchmarked against five popular linear normalization methods for RNA-seq data. Results show that the linear rescaling normalization scheme by itself works well and is robust. The non-linear normalization scheme can further improve the normalization outcomes and is optional if the Zipf plots show parallel patterns.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230594)
+
+10.1371/journal.pone.0230594
 
 ---
 
