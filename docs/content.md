@@ -1,72 +1,142 @@
-## Codeacademy
+## Interspecies interactions in bacterial colonies are determined by physiological traits and the environment
 
-[Source](https://pro.codecademy.com/learn-from-home/?utm_source=blog&utm_medium=organic&utm_campaign=learn_from_home&utm_content=cta)
-
----
-
-## Ten quick tips for teaching programming.
- 14.11.2018, _NCC Brown, G Wilson_
-
-
-_Computational Biology, Humans, Programming Languages, Software_
-
-[Source](http://datacamp.com)
-
-10.1371/journal.pcbi.1006023
+[Source](https://doi.org/10.1101/623017)
 
 ---
 
-## Datacamp
-
-[Source](http://datacamp.com)
-
----
-
-## PTHrP, A Biomarker for CNS Metastasis in Triple-Negative Breast Cancer and Selection for Adjuvant Chemotherapy in Node-Negative Disease.
- 18.04.2020, _G Assaker, A Camirand, B Abdulkarim, A Omeroglu, J Deschenes, K Joseph, ASM Noman, AV Ramana Kumar, R Kremer, S Sabri_
+## Bacterial colonization reprograms the neonatal gut metabolome.
+ 14.04.2020, _K Bittinger, C Zhao, Y Li, E Ford, ES Friedman, J Ni, CV Kulkarni, J Cai, Y Tian, Q Liu, AD Patterson, D Sarkar, SHJ Chan, C Maranas, A Saha-Shah, P Lund, BA Garcia, LM Mattei, JS Gerber, MA Elovitz, A Kelly, P DeRusso, D Kim, CE Hofstaedter, M Goulian, H Li, FD Bushman, BS Zemel, GD Wu_
 
 
-Triple-negative breast cancer (TNBC) is characterized by poor prognosis and lack of targeted therapies and biomarkers to guide decisions on adjuvant chemotherapy. Parathyroid hormone-related protein (PTHrP) is frequently overexpressed in breast cancer and involved in proliferation and metastasis, two hallmarks of poor prognosis for node-negative breast cancer. We investigated the prognostic value of PTHrP with respect to organ-specific metastasis and nodal status in TNBC.
+Initial microbial colonization and later succession in the gut of human infants are linked to health and disease later in life. The timing of the appearance of the first gut microbiome, and the consequences for the early life metabolome, are just starting to be defined. Here, we evaluated the gut microbiome, proteome and metabolome in 88 African-American newborns using faecal samples collected in the first few days of life. Gut bacteria became detectable using molecular methods by 16 h after birth. Detailed analysis of the three most common species, Escherichia coli, Enterococcus faecalis and Bacteroides vulgatus, did not suggest a genomic signature for neonatal gut colonization. The appearance of bacteria was associated with reduced abundance of approximately 50 human proteins, decreased levels of free amino acids and an increase in products of bacterial fermentation, including acetate and succinate. Using flux balance modelling and in vitro experiments, we provide evidence that fermentation of amino acids provides a mechanism for the initial growth of E. coli, the most common early colonizer, under anaerobic conditions. These results provide a deep characterization of the first microbes in the human gut and show how the biochemical environment is altered by their appearance.
 
-[Source](https://www.bioconductor.org/help/course-materials/)
+[Source](https://www.nature.com/articles/s41564-020-0694-0)
 
-10.1093/jncics/pkz063
+10.1038/s41564-020-0694-0
 
 ---
 
-## Bioconductor
-
-[Source](https://www.bioconductor.org/help/course-materials/)
-
----
-
-## here
-
-[Source](https://www.hadriengourle.com/)
-
----
-
-## Modification of DNA structure by reactive nitrogen species as a result of 2-methoxyestradiol-induced neuronal nitric oxide synthase uncoupling in metastatic osteosarcoma cells.
- 18.04.2020, _M Gorska-Ponikowska, A Ploska, D Jacewicz, M Szkatula, G Barone, G Lo Bosco, F Lo Celso, AM Dabrowska, A Kuban-Jankowska, M Gorzynik-Debicka, N Knap, L Chmurzynski, LW Dobrucki, L Kalinowski, M Wozniak_
+## Salivary Factors that Maintain the Normal Oral Commensal Microflora.
+ 14.04.2020, _GH Carpenter_
 
 
-2-methoxyestradiol (2-ME) is a physiological anticancer compound, metabolite of 17β-estradiol. Previously, our group evidenced that from mechanistic point of view one of anticancer mechanisms of action of 2-ME is specific induction and nuclear hijacking of neuronal nitric oxide synthase (nNOS), resulting in local generation of nitro-oxidative stress and finally, cancer cell death. The current study aims to establish the substantial mechanism of generation of reactive nitrogen species by 2-ME. We further achieved to identify the specific reactive nitrogen species involved in DNA-damaging mechanism of 2-ME. The study was performed using metastatic osteosarcoma 143B cells. We detected the release of biologically active (free) nitric oxide (•NO) with concurrent measurements of peroxynitrite (ONOO-) in real time in a single cell of 143B cell line by using •NO/ONOO- sensitive microsensors after stimulation with calcium ionophore. Detection of nitrogen dioxide (•NO2) and determination of chemical rate constants were carried out by a stopped-flow technique. The affinity of reactive nitrogen species toward the guanine base of DNA was evaluated by density functional theory calculations. Expression and localization of nuclear factor NF-kB was determined using imaging cytometry, while cell viability assay was evaluated by MTT assay. Herein, we presented that 2-ME triggers pro-apoptotic signalling cascade by increasing cellular reactive nitrogen species overproduction - a result of enzymatic uncoupling of increased nNOS protein levels. In particular, we proved that ONOO- and •NO2 directly formed from peroxynitrous acid (ONOOH) and/or by auto-oxidation of •NO, are inducers of DNA damage in anticancer mechanism of 2-ME. Specifically, the affinity of reactive nitrogen species toward the guanine base of DNA, evaluated by density functional theory calculations, decreased in the order: ONOOH &gt; ONOO- &gt; •NO2 &gt; •NO. Therefore, we propose to consider the specific inducers of nNOS as an effective tool in the field of chemotherapy.
+The oral microbiome is one of the most stable ecosystems in the body and yet the reasons for this are still unclear. As well as being stable, it is also highly diverse which can be ascribed to the variety of niches available in the mouth. Previous studies have focused on the microflora in disease-either caries or periodontitis-and only recently have they considered factors that maintain the normal microflora. This has led to the perception that the microflora proliferate in nutrient-rich periods during oral processing of foods and drinks and starves in between times. In this review, evidence is presented which shows that the normal flora are maintained on a diet of salivary factors including urea, lactate, and salivary protein degradation. These factors are actively secreted by salivary glands which suggests these factors are important in maintaining normal commensals in the mouth. In addition, the immobilization of SIgA in the mucosal pellicle indicates a mechanism to retain certain bacteria that does not rely on the bacterial-centric mechanisms such as adhesins. By examining the salivary metabolome, it is clear that protein degradation is a key nutrient and the availability of free amino acids increases resistance to environmental stresses.
 
-[Source](https://www.nytimes.com/article/how-to-make-bread.html?smid=em-share)
+[Source](https://doi.org/10.1177/0022034520915486)
 
-10.1016/j.redox.2020.101522
+10.1177/0022034520915486
 
 ---
 
-## this one
+## Metagenomic Next-Generation Sequencing of Rectal Swabs for the Surveillance of Antimicrobial Resistant Organisms on the Illumina Miseq and Oxford MinION Platforms
 
-[Source](https://www.nytimes.com/article/how-to-make-bread.html?smid=em-share)
+[Source](https://doi.org/10.1101/2020.04.16.044214)
 
 ---
 
-## sewing face masks
+## Mortality of native and invasive ladybirds co-infected by ectoparasitic and entomopathogenic fungi
 
-[Source](https://www.nytimes.com/article/how-to-make-face-mask-coronavirus.html)
+[Source](https://doi.org/10.1101/2020.04.17.045930)
+
+---
+
+## The Microbes Found in the Honey of New York City Beehives
+
+[Source](https://doi.org/10.1101/2020.04.16.042762)
+
+---
+
+## Correlation between autochthonous microbial communities and key odorants during the fermentation of red pepper (<em>Capsicum annuum L.</em>)
+
+[Source](https://doi.org/10.1016/j.fm.2020.103510)
+
+---
+
+## Microbial Versatility in Varied Environments: Microbes in Sensitive Environments
+
+[Source](https://doi.org/10.1007/978-981-15-3028-9)
+
+---
+
+## The seasonal variation of microbial communities in drinking water sources in Shanghai
+
+[Source](https://doi.org/10.1016/j.jclepro.2020.121604)
+
+---
+
+## LDPE microplastics significantly alter the temporal turnover of soil microbial communities
+
+[Source](https://doi.org/10.1016/j.scitotenv.2020.138682)
+
+---
+
+## High abundance of <em>Ralstonia solanacearum</em> changed tomato rhizosphere microbiome and metabolome
+
+[Source](https://doi.org/10.1186/s12870-020-02365-9)
+
+---
+
+## First evidence of virus-like particles in the bacterial symbionts of <em>Bryozoa</em>
+
+[Source](https://doi.org/10.1101/2020.04.16.045880)
+
+---
+
+## Microbial community development on model particles in the deep sulfidic waters of the Black Sea.
+ 15.04.2020, _S Suominen, K Doorenspleet, JS Sinninghe Damsté, L Villanueva_
+
+
+Microorganisms attached to particles have been shown to be different from free-living microbes and to display diverse metabolic activities. However, little is known about the ecotypes associated to particles and their substrate preference in anoxic marine waters. Here, we investigate the microbial community colonizing particles in the anoxic and sulfide-rich waters of the Black Sea. We incubated beads coated with different substrates in situ at 1,000 and 2,000 m depth. After 6 h, the particle-attached microbes were dominated by Gamma- and Alphaproteobacteria, and groups related to the phyla Latescibacteria, Bacteroidetes, Planctomycetes and Firmicutes, with substantial variation across the bead types, indicating that the attaching communities were selected by substrate. Further laboratory incubations for 7 days suggested the presence of a community of highly specialized taxa. After incubation for 35 days, the microbial composition across all beads and depths was similar and primarily composed of putative sulfur cycling microbes. In addition to the major shared microbial groups, subdominant taxa on chitin and protein-coated beads were detected pointing to specialized microbial degraders. These results highlight the role of particles as sites for attachment and biofilm formation, while the composition of organic matter defined a secondary part of the microbial community. This article is protected by copyright. All rights reserved.
+
+[Source](https://doi.org/10.1111/1462-2920.15024)
+
+10.1111/1462-2920.15024
+
+---
+
+## The stepwise assembly of the neonatal virome is modulated by breastfeeding
+
+[Source](https://doi.org/10.1038/s41586-020-2192-1)
+
+---
+
+## Bayesian classification, anomaly detection, and survival analysis using network inputs with application to the microbiome
+
+[Source](https://arxiv.org/abs/2004.04765)
+
+---
+
+## Expanding the diversity of bacterioplankton isolates and modeling isolation efficacy with large scale dilution-to-extinction cultivation
+
+[Source](https://doi.org/10.1101/2020.04.17.046896)
+
+---
+
+## Catalyzing rapid discovery of gold-precipitating bacterial lineages with university students
+
+[Source](https://doi.org/10.7717/peerj.8925)
+
+---
+
+## Science-ing from home.
+ 09.04.2020, _K Powell_
+
+
+
+[Source](https://www.nature.com/articles/d41586-020-00935-3?WT.ec_id=NATURE-20200416&utm_source=nature_etoc&utm_medium=email&utm_campaign=20200416&sap-outbound-id=EEEC46E999825D4EB57C42CB14A79A64C6B18124)
+
+10.1038/d41586-020-00935-3
+
+---
+
+## Lean, mean, learning machines.
+ 17.04.2020, _NE Wheeler, L Sánchez-Busó, S Argimón, B Jeffrey_
+
+
+
+[Source](https://doi.org/10.1038/s41579-020-0357-4)
+
+10.1038/s41579-020-0357-4
 
 ---
 
