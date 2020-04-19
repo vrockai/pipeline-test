@@ -23,7 +23,7 @@ _Computational Biology, Humans, Programming Languages, Software_
 ---
 
 ## PTHrP, A Biomarker for CNS Metastasis in Triple-Negative Breast Cancer and Selection for Adjuvant Chemotherapy in Node-Negative Disease.
- 16.04.2020, _G Assaker, A Camirand, B Abdulkarim, A Omeroglu, J Deschenes, K Joseph, ASM Noman, AV Ramana Kumar, R Kremer, S Sabri_
+ 18.04.2020, _G Assaker, A Camirand, B Abdulkarim, A Omeroglu, J Deschenes, K Joseph, ASM Noman, AV Ramana Kumar, R Kremer, S Sabri_
 
 
 Triple-negative breast cancer (TNBC) is characterized by poor prognosis and lack of targeted therapies and biomarkers to guide decisions on adjuvant chemotherapy. Parathyroid hormone-related protein (PTHrP) is frequently overexpressed in breast cancer and involved in proliferation and metastasis, two hallmarks of poor prognosis for node-negative breast cancer. We investigated the prognostic value of PTHrP with respect to organ-specific metastasis and nodal status in TNBC.
