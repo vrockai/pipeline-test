@@ -82,15 +82,9 @@ The oral microbiome is one of the most stable ecosystems in the body and yet the
 
 ---
 
-## Microbial community development on model particles in the deep sulfidic waters of the Black Sea.
- 15.04.2020, _S Suominen, K Doorenspleet, JS Sinninghe Damsté, L Villanueva_
-
-
-Microorganisms attached to particles have been shown to be different from free-living microbes and to display diverse metabolic activities. However, little is known about the ecotypes associated to particles and their substrate preference in anoxic marine waters. Here, we investigate the microbial community colonizing particles in the anoxic and sulfide-rich waters of the Black Sea. We incubated beads coated with different substrates in situ at 1,000 and 2,000 m depth. After 6 h, the particle-attached microbes were dominated by Gamma- and Alphaproteobacteria, and groups related to the phyla Latescibacteria, Bacteroidetes, Planctomycetes and Firmicutes, with substantial variation across the bead types, indicating that the attaching communities were selected by substrate. Further laboratory incubations for 7 days suggested the presence of a community of highly specialized taxa. After incubation for 35 days, the microbial composition across all beads and depths was similar and primarily composed of putative sulfur cycling microbes. In addition to the major shared microbial groups, subdominant taxa on chitin and protein-coated beads were detected pointing to specialized microbial degraders. These results highlight the role of particles as sites for attachment and biofilm formation, while the composition of organic matter defined a secondary part of the microbial community. This article is protected by copyright. All rights reserved.
+## Microbial community development on model particles in the deep sulfidic waters of the Black Sea
 
 [Source](https://doi.org/10.1111/1462-2920.15024)
-
-10.1111/1462-2920.15024
 
 ---
 
@@ -118,25 +112,15 @@ Microorganisms attached to particles have been shown to be different from free-l
 
 ---
 
-## Science-ing from home.
- 09.04.2020, _K Powell_
-
-
+## Science-ing from home
 
 [Source](https://www.nature.com/articles/d41586-020-00935-3?WT.ec_id=NATURE-20200416&utm_source=nature_etoc&utm_medium=email&utm_campaign=20200416&sap-outbound-id=EEEC46E999825D4EB57C42CB14A79A64C6B18124)
 
-10.1038/d41586-020-00935-3
-
 ---
 
-## Lean, mean, learning machines.
- 17.04.2020, _NE Wheeler, L Sánchez-Busó, S Argimón, B Jeffrey_
-
-
+## Lean, mean, learning machines
 
 [Source](https://doi.org/10.1038/s41579-020-0357-4)
-
-10.1038/s41579-020-0357-4
 
 ---
 
