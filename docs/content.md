@@ -34,9 +34,15 @@ Inflammation is a major risk factor of morbidity and mortality in older adults. 
 
 ---
 
-## Phylogenetic analysis of intestinal microbiota reveals novel Mycoplasma phylotypes in salmonid species
+## Phylogenetic analysis of intestinal microbiota reveals novel Mycoplasma phylotypes in salmonid species.
+ 21.04.2020, _B Mora-Sánchez, T Pérez-Sánchez, JL Balcázar_
+
+
+This study describes the bacterial community composition within the intestinal ecosystem of rainbow trout (Oncorhynchus mykiss) using high-throughput 16S rRNA gene sequence analysis. Sequences from intestinal samples from Chinook salmon (Oncorhynchus tshawytscha) farmed in New Zealand and rainbow trout farmed in Turkey were also included for comparative purposes. The results revealed that the most abundant operational taxonomic units (OTUs) were affiliated to the genus Mycoplasma, but were not specifically associated with any known species. Comparative analysis of 16S rRNA gene sequences indicated that these OTUs represent potentially novel species within the genus Mycoplasma.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0882401020304976)
+
+10.1016/j.micpath.2020.104210
 
 ---
 
