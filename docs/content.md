@@ -1,138 +1,138 @@
-## <span class="has-inline-color has-vivid-green-cyan-color">Consumption of artificially sweetened beverages during pregnancy impacts infant gut microbiota and body mass index</span>
-
-[Source](http://www.biorxiv.org/cgi/reprint/2020.04.20.050195v1??collection)
-
----
-
-## Genotypic and phenotypic characterization of Streptococcus mutans isolated from dental caries 
-
-[Source](http://www.biorxiv.org/cgi/reprint/2020.04.20.050781v1??collection)
-
----
-
-## Pyruvate secretion by oral streptococci modulates hydrogen peroxide dependent antagonism.
- 22.04.2020, _S Redanz, P Treerat, R Mu, U Redanz, Z Zou, D Koley, J Merritt, J Kreth_
+## Longitudinal changes in the nasopharyngeal resistome of South African infants using shotgun metagenomic sequencing.
+ 22.04.2020, _RI Manenzhe, FS Dube, M Wright, K Lennard, HJ Zar, S Mounaud, WC Nierman, MP Nicol, C Moodley_
 
 
-Many commensal oral streptococci generate H2O2 via pyruvate oxidase (SpxB) to inhibit the growth of competing bacteria like Streptococcus mutans, a major cariogenic species. In Streptococcus sanguinis SK36 (SK36) and Streptococcus gordonii DL1 (DL1), spxB expression and H2O2 release are subject to carbon catabolite repression by the catabolite control protein A (CcpA). Surprisingly, ccpA deletion mutants of SK36 and DL1 fail to inhibit S. mutans despite their production of otherwise inhibitory levels of H2O2. Using H2O2-deficient spxB deletion mutants of SK36 and DL1, it was subsequently discovered that both strains confer protection in trans to other bacteria when H2O2 is added exogenously. This protective effect depends on the direct detoxification of H2O2 by the release of pyruvate. The pyruvate dependent protective effect is also present in other spxB-encoding streptococci, such as the pneumococcus, but is missing from spxB-negative species like S. mutans. Targeted and transposon-based mutagenesis revealed Nox (putative H2O-forming NADH dehydrogenase) as an essential component required for pyruvate release and oxidative protection, while other genes such as sodA and dps play minor roles. Furthermore, pyruvate secretion is only detectable in aerobic growth conditions at biofilm-like cell densities and is responsive to CcpA-dependent catabolite control. This ability of spxB-encoding streptococci reveals a new facet of the competitive interactions between oral commensals and pathobionts and provides a mechanistic basis for the variable levels of inhibitory potential observed among H2O2-producing strains of commensal oral streptococci.
+Nasopharyngeal (NP) colonization with antimicrobial-resistant bacteria is a global public health concern. Antimicrobial-resistance (AMR) genes carried by the resident NP microbiota may serve as a reservoir for transfer of resistance elements to opportunistic pathogens. Little is known about the NP antibiotic resistome. This study longitudinally investigated the composition of the NP antibiotic resistome in Streptococcus-enriched samples in a South African birth cohort.
 
-[Source](https://www.nature.com/articles/s41396-020-0592-8)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231887)
 
-10.1038/s41396-020-0592-8
+10.1371/journal.pone.0231887
 
 ---
 
-## Synergism between Corynebacterium and Streptococcus sanguinis reveals new interactions between oral commensals.
- 22.04.2020, _P Treerat, U Redanz, S Redanz, RA Giacaman, J Merritt, J Kreth_
+## Resident microbial communities inhibit growth and antibiotic-resistance evolution of Escherichia coli in human gut microbiome samples.
+ 20.04.2020, _M Baumgartner, F Bayer, KR Pfrunder-Cardozo, A Buckling, AR Hall_
 
 
-The oral microbiome engages in a diverse array of highly sophisticated ecological interactions that are crucial for maintaining symbiosis with the host. Streptococci and corynebacteria are among the most abundant oral commensals and their interactions are critical for normal biofilm development. In this study, we discovered that Streptococcus sanguinis specifically responds to the presence of Corynebacterium durum by dramatically altering its chain morphology and improving its overall fitness. By employing gas chromatography-mass spectrometry (GC-MS) analysis, specific fatty acids were identified in C. durum supernatants that are responsible for the observed effect. Membrane vesicles (MVs) containing these fatty acids were isolated from C. durum supernatants and were able to replicate the chain morphology phenotype in S. sanguinis, suggesting MV as a mediator of interspecies interactions. Furthermore, S. sanguinis responds to C. durum lipids by decreasing the expression of key FASII genes involved in fatty acid synthesis. Several of these genes are also essential for the chain elongation phenotype, which implicates a regulatory connection between lipid metabolism and chain elongation. In addition, C. durum was found to affect the growth, cell aggregation, and phagocytosis of S. sanguinis, revealing a complex association of these species that likely supports oral commensal colonization and survival.
+Countering the rise of antibiotic-resistant pathogens requires improved understanding of how resistance emerges and spreads in individual species, which are often embedded in complex microbial communities such as the human gut microbiome. Interactions with other microorganisms in such communities might suppress growth and resistance evolution of individual species (e.g., via resource competition) but could also potentially accelerate resistance evolution via horizontal transfer of resistance genes. It remains unclear how these different effects balance out, partly because it is difficult to observe them directly. Here, we used a gut microcosm approach to quantify the effect of three human gut microbiome communities on growth and resistance evolution of a focal strain of Escherichia coli. We found the resident microbial communities not only suppressed growth and colonisation by focal E. coli but also prevented it from evolving antibiotic resistance upon exposure to a beta-lactam antibiotic. With samples from all three human donors, our focal E. coli strain only evolved antibiotic resistance in the absence of the resident microbial community, even though we found resistance genes, including a highly effective resistance plasmid, in resident microbial communities. We identified physical constraints on plasmid transfer that can explain why our focal strain failed to acquire some of these beneficial resistance genes, and we found some chromosomal resistance mutations were only beneficial in the absence of the resident microbiota. This suggests, depending on in situ gene transfer dynamics, interactions with resident microbiota can inhibit antibiotic-resistance evolution of individual species.
 
-[Source](https://www.nature.com/articles/s41396-020-0598-2)
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000465)
 
-10.1038/s41396-020-0598-2
-
----
-
-## The gut microbiota response to helminth infection depends on host sex and genotype.
- 22.04.2020, _F Ling, N Steinel, J Weber, L Ma, C Smith, D Correa, B Zhu, D Bolnick, G Wang_
-
-
-Vertebrates' gut microbial communities can be altered by the hosts' parasites. Helminths inhabiting the gut lumen can interact directly with their host's microbiota via physical contact, chemical products, or competition for nutrients. Indirect interactions can also occur, for instance when helminths induce or suppress host immunity in ways that have collateral effects on the microbiota. If there is genetic variation in host immune responses to parasites, we would expect such indirect effects to be conditional on host genotype. To test for such genotype by infection interactions, we experimentally exposed Gasterosteus aculeatus to their naturally co-evolved parasite, Schistocephalus solidus. The host microbiota differed in response to parasite exposure, and between infected and uninfected fish. The magnitude and direction of microbial responses to infection differed between host sexes, and also differed between variants at autosomal quantitative trait loci. These results indicate that host genotype and sex regulate the effect of helminth infection on a vertebrate gut microbiota. If this result holds in other taxa, especially humans, then helminth-based therapeutics for dysbiosis might need to be tailored to host genotype and sex.
-
-[Source](https://www.nature.com/articles/s41396-020-0589-3)
-
-10.1038/s41396-020-0589-3
+10.1371/journal.pbio.3000465
 
 ---
 
-## Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent 
+## Comparative analysis of beneficial effects of Vancomycin treatment on Th1- and Th2-biased mice and role of gut microbiota
 
-[Source](https://www.nature.com/articles/s41396-020-0593-7)
-
----
-
-## Comparative genomics: Dominant coral-bacterium Endozoicomonas acroporae metabolizes dimethylsulfoniopropionate (DMSP).
- 22.04.2020, _K Tandon, CY Lu, PW Chiang, N Wada, SH Yang, YF Chan, PY Chen, HY Chang, YJ Chiou, MS Chou, WM Chen, SL Tang_
-
-
-Dominant coral-associated Endozoicomonas bacteria species are hypothesized to play a role in the coral sulfur cycle by metabolizing dimethylsulfoniopropionate (DMSP) into dimethylsulfide (DMS); however, no sequenced genome to date harbors genes for this process. In this study, we assembled high-quality (&gt;95% complete) draft genomes of strains of the recently added species Endozoicomonas acroporae (Acr-14T, Acr-1, and Acr-5) isolated from the coral Acropora sp. and performed a comparative genomic analysis on the genus Endozoicomonas. We identified DMSP CoA-transferase/lyase-a dddD gene homolog in all sequenced genomes of E. acroporae strains-and functionally characterized bacteria capable of metabolizing DMSP into DMS via the DddD cleavage pathway using RT-qPCR and gas chromatography (GC). Furthermore, we demonstrated that E. acroporae strains can use DMSP as a carbon source and have genes arranged in an operon-like manner to link DMSP metabolism to the central carbon cycle. This study confirms the role of Endozoicomonas in the coral sulfur cycle.
-
-[Source](https://www.nature.com/articles/s41396-020-0610-x)
-
-10.1038/s41396-020-0610-x
+[Source](https://www.biorxiv.org/content/10.1101/516898v4)
 
 ---
 
-## Active sulfur cycling in the terrestrial deep subsurface.
- 22.04.2020, _E Bell, T Lamminmäki, J Alneberg, AF Andersson, C Qian, W Xiong, RL Hettich, M Frutschi, R Bernier-Latmani_
+## Assessment of dietary supplementation with galactomannan oligosaccharides and phytogenics on gut microbiota of European sea bass (Dicentrarchus Labrax) fed low fishmeal and fish oil based diet.
+ 22.04.2020, _S Rimoldi, S Torrecillas, D Montero, E Gini, A Makol, V Valdenegro V, M Izquierdo, G Terova_
 
 
-The deep terrestrial subsurface remains an environment where there is limited understanding of the extant microbial metabolisms. At Olkiluoto, Finland, a deep geological repository is under construction for the final storage of spent nuclear fuel. It is therefore critical to evaluate the potential impact microbial metabolism, including sulfide generation, could have upon the safety of the repository. We investigated a deep groundwater where sulfate is present, but groundwater geochemistry suggests limited microbial sulfate-reducing activity. Examination of the microbial community at the genome-level revealed microorganisms with the metabolic capacity for both oxidative and reductive sulfur transformations. Deltaproteobacteria are shown to have the genetic capacity for sulfate reduction and possibly sulfur disproportionation, while Rhizobiaceae, Rhodocyclaceae, Sideroxydans, and Sulfurimonas oxidize reduced sulfur compounds. Further examination of the proteome confirmed an active sulfur cycle, serving for microbial energy generation and growth. Our results reveal that this sulfide-poor groundwater harbors an active microbial community of sulfate-reducing and sulfide-oxidizing bacteria, together mediating a sulfur cycle that remained undetected by geochemical monitoring alone. The ability of sulfide-oxidizing bacteria to limit the accumulation of sulfide was further demonstrated in groundwater incubations and highlights a potential sink for sulfide that could be beneficial for geological repository safety.
+There is an increasing interest from the aquafeed industry in functional feeds containing selected additives that improve fish growth performance and health status. Functional feed additives include probiotics, prebiotics, organic acids, and phytogenics (substances derived from plants and their extracts). This study evaluated the effects of dietary inclusion of a mucilage extract rich in galactomannan oligosaccharides (GMOS), a mixture of garlic and labiatae-plants oils (PHYTO), and a combination of them (GMOSPHYTO), on gut microbiota composition of European sea bass (Dicentrarchus labrax) fed with a low fishmeal (FM) and fish oil (FO) diet. Three experimental diets and a control diet (plant-based formulation with 10% FM and 6% FO) were tested in a 63-days feeding trial. To analyze the microbiota associated to feeds and the intestinal autochthonous (mucosa-adhered) and allochthonous (transient) microbial communities, the Illumina MiSeq platform for sequencing of 16S rRNA gene and QIIME2 pipeline were used. Metabarcoding analysis of feed-associated bacteria showed that the microbial communities of control (CTRL) feed deeply differed from those of experimental diets. The number of reads was significantly lower in CTRL feed than in other feeds. The OTU (operational taxonomic unit) number was instead similar between the feeds, ranging from 42 to 50 OTUs. The variation of resident gut microbiota induced by diet was lower than the variation of transient intestinal microbiota, because feedstuffs are a major source of allochthonous bacteria, which can temporarily integrate into the gut transient microbiome. However, the composition of transient bacterial communities was not simply a mirror of feed-borne bacteria. Indeed, the microbial profile of feeds was different from both faecal and mucosa profiles. Our findings suggest that the dietary inclusion of GMOS (0.5%) and PHYTO (0.02%) in a low FM and FO diet induces changes in gut microbiota composition of European sea bass. However, if on allochthonous microbiota the combined inclusion of GMOS and PHYTO showed an antagonistic effect on bactericidal activity against Vibrionales, at mucosa level, only GMOSPHYTO diet increased the relative abundance of Bacteroidales, Lactobacillales, and Clostridiales resident bacterial orders. The main beneficial effects of GMOS and PHYTO on gut microbiota are the reduction of coliforms and Vibrionales bacteria, which include several potentially pathogenic species for fish, and the enrichment of gut microbiota composition with butyrate producer taxa. Therefore, these functional ingredients have a great potential to be used as health-promoting agents in the farming of European sea bass and other marine fish.
 
-[Source](https://www.nature.com/articles/s41396-020-0602-x)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231494)
 
-10.1038/s41396-020-0602-x
-
----
-
-## An antagonistic driver of the microbial phyllosphere suppresses infection of Arabidopsis thaliana by the oomycete pathogen Albugo laibachii via a secreted hydrolase
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.20.051367v1?%3Fcollection=)
+10.1371/journal.pone.0231494
 
 ---
 
-## Grapevine pruning time affects natural wound colonization by wood-invading fungi 
-
-[Source](http://www.biorxiv.org/cgi/content/full/2020.04.20.050955v1??collection)
-
----
-
-## Mixotrophy in marine picocyanobacteria: use of organic compounds by Prochlorococcus and Synechococcus.
- 22.04.2020, _MC Muñoz-Marín, G Gómez-Baena, A López-Lozano, JA Moreno-Cabezuelo, J Díez, JM García-Fernández_
+## Lactobacillus reuteri attenuated allergic inflammation induced by HDM in the mouse and modulated gut microbes.
+ 21.04.2020, _L Li, Z Fang, X Liu, W Hu, W Lu, YK Lee, J Zhao, H Zhang, W Chen_
 
 
-Marine picocyanobacteria of the Prochlorococcus and Synechococcus genera have been longtime considered as autotrophic organisms. However, compelling evidence published over the last 15 years shows that these organisms can use different organic compounds containing key elements to survive in oligotrophic oceans, such as N (amino acids, amino sugars), S (dimethylsulfoniopropionate, DMSP), or P (ATP). Furthermore, marine picocyanobacteria can also take up glucose and use it as a source of carbon and energy, despite the fact that this compound is devoid of limiting elements and can also be synthesized by using standard metabolic pathways. This review will outline the main findings suggesting mixotrophy in the marine picocyanobacteria Prochlorococcus and Synechococcus, and its ecological relevance for these important primary producers.
+Gut microbiome plays an essential role in asthma development, and probiotic-based manipulation of the gut microbiome has been proposed to prevent asthma. Although the preventive effect of Lactobacillus supplementation against allergies has been reported, the precise Lactobacillus species beneficial for effective prevention of asthma remain unidentified and the underlying mechanisms remain unclear. Therefore, we aimed to investigate the efficacy of oral administration of six Lactobacillus species and the mechanism underlying asthma prevention via gut microbiome modulation. We investigated the effects of oral administration of L. rhamnosus, L. fermentum, L. casei, L. gasseri, L. salivarius, and L. reuteri (five strains of each species) on asthma and gut microbiome of house dust mite (HDM)-treated murine models of asthma. Of these, L. reuteri administration was the most effective: it alleviated airway inflammation, decreased total IgE and HDM-IgG1, and reduced Th2-associated pro-inflammatory cytokines. Moreover, modulation of specific microbial genera by L. reuteri was more effective in asthma prevention than the modulation of the overall microbiota composition. Lactobacillus and Enterococcus were enriched after L. reuteri supplementation and were closely associated with total IgE and IL-13 production. Furthermore, L. reuteri specifically altered the gut microbial function toward butyrate generation. Thus, L. reuteri may reduce the risk of asthma development by modulating specific gut microbiota to improve the lung immune environment. Our study suggests a novel option for gut microbiome manipulation via L. reuteri supplementation for suppression of asthma and other allergic diseases.
 
-[Source](https://www.nature.com/articles/s41396-020-0603-9)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231865)
 
-10.1038/s41396-020-0603-9
+10.1371/journal.pone.0231865
 
 ---
 
-## Antibiotic-resistant Salmonella species and Escherichia coli in broiler chickens from farms, abattoirs and open markets in selected districts of Zambia
-
-[Source](http://www.biorxiv.org/cgi/reprint/2020.04.20.050914v1??collection)
-
----
-
-## Breastfeeding may lead to fewer human viruses in infants
-
-[Source](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
-
----
-
-## Vargas: heuristic-free alignment for assessing linear and graph read aligners.
- 22.04.2020, _CA Darby, R Gaddipati, MC Schatz, B Langmead_
+## Occurrence of Mycoplasma gallisepticum in wild birds: A systematic review and meta-analysis.
+ 22.04.2020, _A Sawicka, M Durkalec, G Tomczyk, O Kursa_
 
 
-Read alignment is central to many aspects of modern genomics. Most aligners use heuristics to accelerate processing, but these heuristics can fail to find the optimal alignments of reads. Alignment accuracy is typically measured through simulated reads; however, the simulated location may not be the (only) location with the optimal alignment score.
+Mycoplasma gallisepticum is one of the most important poultry pathogens that can also infect wild birds, but knowledge of potential non-poultry hosts that could be reservoirs of M. gallisepticum is limited. For the paper presented here, we screened three databases (PubMed, Scopus, and the Web of Knowledge) to find articles on the occurrence of M. gallisepticum in different wild bird species that were published between 1951 and 2018. Among 314 studies found, we selected and included 50 original articles that met the pre-established criteria. From those publications we extracted the following information: name of the first author, year of publication, year of sample isolation, country, region, number of birds sampled, number of birds tested by each method, number of positive samples, diagnostic criteria, and if birds were wild or captive. Because different detection techniques were used to confirm the presence of M. gallisepticum in one animal, we decided to perform the meta analyses separately for each method. The estimated prevalence of M. gallisepticum in wild birds was different by each method of detection. Our summary revealed that M. gallisepticum was present in 56 species of bird belonging to 11 different orders, of which 21 species were reported suffering both past and current infection. Our work provides information on wild bird species that could be considered potential reservoirs or carriers of M. gallisepticum and could be helpful to set the direction for future research on the spread and phylogeny of M. gallisepticum in different hosts.
 
-[Source](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231545)
 
-10.1093/bioinformatics/btaa265
+10.1371/journal.pone.0231545
 
 ---
 
-## https://www.sciencedaily.com/releases/2020/04/200415110452.htm
+## A fungal pathogen induces systemic susceptibility and systemic shifts in wheat metabolome and microbiome composition.
+ 21.04.2020, _H Seybold, TJ Demetrowitsch, MA Hassani, S Szymczak, E Reim, J Haueisen, L Lübbers, M Rühlemann, A Franke, K Schwarz, EH Stukenbrock_
 
-[Source](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
+
+Yield losses caused by fungal pathogens represent a major threat to global food production. One of the most devastating fungal wheat pathogens is Zymoseptoria tritici. Despite the importance of this fungus, the underlying mechanisms of plant-pathogen interactions are poorly understood. Here we present a conceptual framework based on coinfection assays, comparative metabolomics, and microbiome profiling to study the interaction of Z. tritici in susceptible and resistant wheat. We demonstrate that Z. tritici suppresses the production of immune-related metabolites in a susceptible cultivar. Remarkably, this fungus-induced immune suppression spreads within the leaf and even to other leaves, a phenomenon that we term "systemic induced susceptibility". Using a comparative metabolomics approach, we identify defense-related biosynthetic pathways that are suppressed and induced in susceptible and resistant cultivars, respectively. We show that these fungus-induced changes correlate with changes in the wheat leaf microbiome. Our findings suggest that immune suppression by this hemibiotrophic pathogen impacts specialized plant metabolism, alters its associated microbial communities, and renders wheat vulnerable to further infections.
+
+[Source](https://www.nature.com/articles/s41467-020-15633-x)
+
+10.1038/s41467-020-15633-x
 
 ---
 
-## <span class="has-inline-color has-vivid-green-cyan-color">Evaluating features of scientific conferences: A call for improvements</span>
+## SMOOT libraries and phage-induced directed evolution of Cas9 to engineer reduced off-target activity.
+ 22.04.2020, _D Cerchione, K Loveluck, EL Tillotson, F Harbinski, J DaSilva, CP Kelley, E Keston-Smith, CA Fernandez, VE Myer, H Jayaram, BE Steinberg_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.02.022079v2.full.pdf)
+
+RNA-guided endonucleases such as Cas9 provide efficient on-target genome editing in cells but may also cleave at off-target loci throughout the genome. Engineered variants of Streptococcus pyogenes Cas9 (SpCas9) have been developed to globally reduce off-target activity, but individual off-targets may remain, or on-target activity may be compromised. In order to evolve against activity at specific off-targets while maintaining strong on-target editing, we developed a novel M13 bacteriophage-mediated selection method. Using this method, sequential rounds of positive and negative selection are used to identify mutations to Cas9 that enhance or diminish editing activity at particular genomic sequences. We also introduce scanning mutagenesis of oligo-directed targets (SMOOT), a comprehensive mutagenesis method to create highly diverse libraries of Cas9 variants that can be challenged with phage-based selection. Our platform identifies novel SpCas9 mutants which mitigate cleavage against off-targets both in biochemical assays and in T-cells while maintaining higher on-target activity than previously described variants. We describe an evolved variant, S. pyogenes Adapted to Reduce Target Ambiguity Cas9 (SpartaCas), composed of the most enriched mutations, each of unknown function. This evolved Cas9 mutant reduces off-target cleavage while preserving efficient editing at multiple therapeutically relevant targets. Directed evolution of Cas9 using our system demonstrates an improved structure-independent methodology to effectively engineer nuclease activity.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231716)
+
+10.1371/journal.pone.0231716
+
+---
+
+## Virome Analysis of Aphid Populations That Infest the Barley Field: The Discovery of Two Novel Groups of Nege/Kita-Like Viruses and Other Novel RNA Viruses.
+ 22.04.2020, _H Kondo, M Fujita, H Hisano, K Hyodo, IB Andika, N Suzuki_
+
+
+Aphids (order Hemiptera) are important insect pests of crops and are also vectors of many plant viruses. However, little is known about aphid-infecting viruses, particularly their diversity and relationship to plant viruses. To investigate the aphid viromes, we performed deep sequencing analyses of the aphid transcriptomes from infested barley plants in a field in Japan. We discovered virus-like sequences related to nege/kita-, flavi-, tombus-, phenui-, mononega-, narna-, chryso-, partiti-, and luteoviruses. Using RT-PCR and sequence analyses, we determined almost complete sequences of seven nege/kitavirus-like virus genomes; one of which was a variant of the Wuhan house centipede virus (WHCV-1). The other six seem to belong to four novel viruses distantly related to Wuhan insect virus 9 (WhIV-9) or Hubei nege-like virus 4 (HVLV-4). We designated the four viruses as barley aphid RNA virus 1 to 4 (BARV-1 to -4). Moreover, some nege/kitavirus-like sequences were found by searches on the transcriptome shotgun assembly (TSA) libraries of arthropods and plants. Phylogenetic analyses showed that BARV-1 forms a clade with WHCV-1 and HVLV-4, whereas BARV-2 to -4 clustered with WhIV-9 and an aphid virus, Aphis glycines virus 3. Both virus groups (tentatively designated as Centivirus and Aphiglyvirus, respectively), together with arthropod virus-like TSAs, fill the phylogenetic gaps between the negeviruses and kitaviruses lineages. We also characterized the flavi/jingmen-like and tombus-like virus sequences as well as other RNA viruses, including six putative novel viruses, designated as barley aphid RNA viruses 5 to 10. Interestingly, we also discovered that some aphid-associated viruses, including nege/kita-like viruses, were present in different aphid species, raising a speculation that these viruses might be distributed across different aphid species with plants being the reservoirs. This study provides novel information on the diversity and spread of nege/kitavirus-related viruses and other RNA viruses that are associated with aphids.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231814)
+
+10.3389/fmicb.2020.00509
+
+---
+
+## BOLD and GenBank revisited – Do identification errors arise in the lab or in the sequence libraries?
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231814)
+
+---
+
+## Collaborative Learning Tools To Foster Inclusive Participation and Sense of Belonging in a Microbiology Outreach Partnership.
+ 21.04.2020, _ED Sprowls_
+
+
+For secondary outreach programs to meet the goals of enhancing science education and attracting future scientists from underrepresented populations, we need an inclusive approach that integrates students' knowledge and experiences in the process of doing science. I present three pedagogical tools designed by developing equitable, inclusive collaboration among microbiologist outreach mentors and high school biology students. These activities aim to foster a sense of belonging in a scientific community and serve as an entry point to the practice of inclusion. Over a one-semester course at an alternative high school, ten secondary students and their scientist mentors met weekly to design and conduct microbiology experiments together. This group of students and scientists participated in structured collaborative learning activities to: i) understand each other's ideas about science; ii) collectively analyze their research findings; and iii) offer peer feedback. I modified the following three learning tools for use in my secondary science classroom from protocols of the National School Reform Faculty: 1) the Quotes Introduction Activity set the stage for equitable discourse between high school students and scientist mentors, while initiating important conversations about the process of biological research; 2) the Data Analysis Protocol allowed both students and mentors to contribute to the scientific process; and 3) the Feedback Carousel Activity engaged students and scientists alike in reviewing and refining poster presentations. This inclusive engagement in the social aspects of learning science can help students feel a sense of belonging and imagine their futures in the scientific community, key steps towards inclusion. The supportive system of structured feedback in these collaborative learning activities created a safe, inclusive space for secondary students to try on the role of microbiology expert, and for scientist volunteers to practice inclusive mentorship. Drawing from inclusive pedagogical tools in secondary education will help expand our capacity for inclusive science outreach and bring us closer to the goals of improving biology education and attracting future biologists at the university level.
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000650)
+
+10.1128/jmbe.v21i1.2070
+
+---
+
+## A pedagogical approach to science outreach
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000650)
+
+---
+
+## Trypanosoma brucei colonizes the tsetse gut via an immature peritrophic matrix in the proventriculus.
+ 21.04.2020, _C Rose, A Casas-Sánchez, NA Dyer, C Solórzano, AJ Beckett, B Middlehurst, M Marcello, LR Haines, J Lisack, M Engstler, MJ Lehane, IA Prior, Á Acosta-Serrano_
+
+
+The peritrophic matrix of blood-feeding insects is a chitinous structure that forms a protective barrier against oral pathogens and abrasive particles1. Tsetse flies transmit Trypanosoma brucei, which is the parasite that causes human sleeping sickness and is also partially responsible for animal trypanosomiasis in Sub-Saharan Africa. For this parasite to establish an infection in flies, it must first colonize the area between the peritrophic matrix and gut epithelium called the ectoperitrophic space. Although unproven, it is generally accepted that trypanosomes reach the ectoperitrophic space by penetrating the peritrophic matrix in the anterior midgut2-4. Here, we revisited this event using fluorescence- and electron-microscopy methodologies. We show that trypanosomes penetrate the ectoperitrophic space in which the newly made peritrophic matrix is synthesized by the proventriculus. Our model describes how these proventriculus-colonizing parasites can either migrate to the ectoperitrophic space or become trapped within peritrophic matrix layers to form cyst-like bodies that are passively pushed along the gut as the matrix gets remodelled. Furthermore, early proventricular colonization seems to be promoted by factors in trypanosome-infected blood that cause higher salivary gland infections and potentially increase parasite transmission.
+
+[Source](https://www.nature.com/articles/s41564-020-0707-z)
+
+10.1038/s41564-020-0707-z
 
 ---
 
