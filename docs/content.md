@@ -220,14 +220,9 @@ Behavioural resistance to insecticides restrains the efficacy of vector control 
 
 ---
 
-## On the 50th Earth Day, take collective action for the planet.
- 21.04.2020, _E Marris_
-
-
+## On the 50th Earth Day, take collective action for the planet
 
 [Source](https://www.nature.com/articles/d41586-020-01123-z)
-
-10.1038/d41586-020-01123-z
 
 ---
 
