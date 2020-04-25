@@ -22,15 +22,15 @@ To clarify (1) the prevalence and associating factors of work-life conflict (WLC
 
 ---
 
-## Feasibility of implementing the World Health Organization case management guideline for possible serious bacterial infection among young infants in Ntcheu district, Malawi.
- 17.04.2020, _T Guenther, G Mopiwa, H Nsona, S Qazi, R Makuluni, CB Fundani, J Gomezgani, L Mgalula, M Chisema, S Sadruddin_
+## Impact of Insecticide Resistance on P. falciparum Vectors' Biting, Feeding, and Resting Behaviour in Selected Clusters in Teso North and South Subcounties in Busia County, Western Kenya.
+ 24.04.2020, _EK Githinji, LW Irungu, PN Ndegwa, MG Machani, RO Amito, BJ Kemei, PN Murima, GM Ombui, AK Wanjoya, CM Mbogo, EM Mathenge_
 
 
-Neonatal sepsis is a leading cause of mortality, yet the recommended inpatient treatment options are inaccessible to most families in low-income settings. In 2015, the World Health Organization released a guideline for outpatient treatment of young infants (0-59 days of age) with possible serious bacterial infection (PSBI) with simplified antibiotic regimens when referral was not feasible. If implemented widely, this guideline could prevent many deaths. Our implementation research evaluated the feasibility and acceptability of implementing the WHO guideline through the existing health system in Malawi.
+Behavioural resistance to insecticides restrains the efficacy of vector control tools against mosquito-transmitted diseases. The current study is aimed at determining the impact of insecticide resistance on major malaria vectors' biting, feeding, and resting behaviour in areas with and areas without insecticide resistance in Teso North and Teso South, Busia County, Western Kenya.
 
 [Source](https://www.who.int/news-room/campaigns/world-malaria-day/world-malaria-day-2020)
 
-10.1371/journal.pone.0229248
+10.1155/2020/9423682
 
 ---
 
@@ -220,9 +220,14 @@ Neonatal sepsis is a leading cause of mortality, yet the recommended inpatient t
 
 ---
 
-## On the 50th Earth Day, take collective action for the planet
+## On the 50th Earth Day, take collective action for the planet.
+ 21.04.2020, _E Marris_
+
+
 
 [Source](https://www.nature.com/articles/d41586-020-01123-z)
+
+10.1038/d41586-020-01123-z
 
 ---
 
