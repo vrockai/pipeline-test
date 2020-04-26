@@ -1,234 +1,246 @@
-## Virtual Podium 2020 – Session 5 (Microbiome
-
-[Source](https://www.eventbrite.com/e/virtual-podium-2020-session-5-microbiome-tickets-101986733064)
-
----
-
-## Work-life conflict, gender-based discrimination, and their associations among professionals in a medical university and affiliated hospitals in Japan: A cross-sectional study.
- 23.04.2020, _Y Ono, A Goto, Y Maejima, I Maruyama, T Suzuki, Y Shikama, H Yoshida-Komiya_
+## Emerging Technologies in Algal Biotechnology: Toward the Establishment of a Sustainable, Algae-Based Bioeconomy.
+ 09.04.2020, _M Fabris, RM Abbriano, M Pernice, DL Sutherland, AS Commault, CC Hall, L Labeeuw, JI McCauley, U Kuzhiuparambil, P Ray, T Kahlke, PJ Ralph_
 
 
-To clarify (1) the prevalence and associating factors of work-life conflict (WLC);(2) the details of gender-based discrimination;and (3) the association between WLC and gender-based discrimination among various professionals in a medical university organization.
+Mankind has recognized the value of land plants as renewable sources of food, medicine, and materials for millennia. Throughout human history, agricultural methods were continuously modified and improved to meet the changing needs of civilization. Today, our rapidly growing population requires further innovation to address the practical limitations and serious environmental concerns associated with current industrial and agricultural practices. Microalgae are a diverse group of unicellular photosynthetic organisms that are emerging as next-generation resources with the potential to address urgent industrial and agricultural demands. The extensive biological diversity of algae can be leveraged to produce a wealth of valuable bioproducts, either naturally or via genetic manipulation. Microalgae additionally possess a set of intrinsic advantages, such as low production costs, no requirement for arable land, and the capacity to grow rapidly in both large-scale outdoor systems and scalable, fully contained photobioreactors. Here, we review technical advancements, novel fields of application, and products in the field of algal biotechnology to illustrate how algae could present high-tech, low-cost, and environmentally friendly solutions to many current and future needs of our society. We discuss how emerging technologies such as synthetic biology, high-throughput phenomics, and the application of internet of things (IoT) automation to algal manufacturing technology can advance the understanding of algal biology and, ultimately, drive the establishment of an algal-based bioeconomy.
 
-[Source](https://www.eventbrite.ca/e/scientific-career-and-work-life-balance-tickets-102284461578)
+[Source](https://www.elsevier.com/books/emerging-technologies-in-environmental-bioremediation/shah/978-0-12-819860-5)
 
-10.5387/fms.2020-03
+10.3389/fpls.2020.00279
 
 ---
 
-## Scientific career and work-life balance
+## Emerging Technologies in Environmental Bioremediation
 
-[Source](https://www.eventbrite.ca/e/scientific-career-and-work-life-balance-tickets-102284461578)
-
----
-
-## Impact of Insecticide Resistance on P. falciparum Vectors' Biting, Feeding, and Resting Behaviour in Selected Clusters in Teso North and South Subcounties in Busia County, Western Kenya.
- 24.04.2020, _EK Githinji, LW Irungu, PN Ndegwa, MG Machani, RO Amito, BJ Kemei, PN Murima, GM Ombui, AK Wanjoya, CM Mbogo, EM Mathenge_
-
-
-Behavioural resistance to insecticides restrains the efficacy of vector control tools against mosquito-transmitted diseases. The current study is aimed at determining the impact of insecticide resistance on major malaria vectors' biting, feeding, and resting behaviour in areas with and areas without insecticide resistance in Teso North and Teso South, Busia County, Western Kenya.
-
-[Source](https://www.who.int/news-room/campaigns/world-malaria-day/world-malaria-day-2020)
-
-10.1155/2020/9423682
+[Source](https://www.elsevier.com/books/emerging-technologies-in-environmental-bioremediation/shah/978-0-12-819860-5)
 
 ---
 
-## World Malaria Day
+## Co-composting of sewage sludge and Phragmites australis using different insulating strategies.
+ 25.04.2020, _J Hu, Z Yang, Z Huang, H Li, Z Wu, X Zhang, X Qin, C Li, M Ruan, K Zhou, X Wu, Y Zhang, Y Xiang, J Huang_
 
-[Source](https://www.who.int/news-room/campaigns/world-malaria-day/world-malaria-day-2020)
 
----
+Insulating strategies are indispensable for laboratory-scale composting reactors, however, current insulation methods interfere with the aerobic fermentation behaviors related to composting. To address this issue, a centre-oriented real-time temperature compensation strategy was designed in this study. Five 9 L reactors (R1-R5) with different insulation strategies were used for the co-composting of dewatered sludge and Phragmites australis and compared. The process performance was assessed by monitoring the temperature, O2 and CO2 emissions, the physical-chemical properties of the composting materials were evaluated by measuring the organic matter (OM), carbon nitrogen ratio (C/N), pH, electrical conductivity (EC), and fluorescence excitation-emission matrix (EEM) spectra. And a 16S rDNA analysis was used to quantify the evolution of bacterial community. The main findings are as follows. Compared with R1 as a control, the insulating strategies can increase the maximum temperature and prolong the thermophilic phase of composting. Comparing R1 and R3 showed that real-time temperature compensation can better restore the real fermentation of the compost. The results showed that R5 had the best composting effect, reaching 69.8 °C, which was 25.1%, 29.7%, 19.3%, and 17.3% higher than R1, R2, R3, and R4, respectively, and remaining in the thermophilic phase for 4.24 d, which is 1.4, 1.5, 1.3, and 0.2 times longer than R1, R2, R3, and R4, respectively. Furthermore, it can significantly reduce the temperature difference between the centre and edge of the reactor, which improved the composting material allocation efficiency and composting process control accuracy, further providing a basis for the actual full-scale composting operation.
 
-## #talkingmalaria
+[Source](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 
-[Source](https://twitter.com/hashtag/talkingmalaria?src=hashtag_click&f=live)
-
----
-
-## A billion molecules against COVID-19
-
-[Source](https://www.covid19.jedi.group)
+10.1016/j.wasman.2020.04.012
 
 ---
 
-## Reversibility of propionic acid inhibition to anaerobic digestion: Inhibition kinetics and microbial mechanism
+## Fermentation Mini-Seminars
 
-[Source](https://www.sciencedirect.com/science/article/pii/S004565352031033X)
-
----
-
-## Responses of microbial structures, functions, metabolic pathways and community interactions to different C/N ratios in aerobic nitrification
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420306945)
+[Source](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 
 ---
 
-## Cultivating fungal research
+## Wild Sourdough Project
 
-[Source](https://science.sciencemag.org/content/368/6489/365)
-
----
-
-## Microbiota–immune interactions in asthma pathogenesis and phenotype
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0952791520300352)
+[Source](http://robdunnlab.com/projects/wildsourdough/)
 
 ---
 
-## Microbiome genomics for cancer prediction
+## Combining omics technologies with CRISPR-based genome editing to study food microbes.
+ 24.03.2020, _M Pan, R Barrangou_
 
-[Source](https://www.nature.com/articles/s43018-020-0059-x)
 
----
+The implementation of omics technologies such as genomics, proteomics and transcriptomics has revolutionized our understanding of microbiomes, and shed light on the functional attributes and mechanisms of action underlying the ability of probiotics to impact host health and starter cultures to drive food fermentation. Recently, molecular machines from CRISPR-Cas systems have redefined the gene editing toolbox and democritized our ability to alter the genome of food microorganisms. An integrated approach in which CRISPR-based genome editing is informed by omics studies is poised to enable the engineering of microorganisms and the formulation of microbiomes impacting the food supply chain. Here, we highlight the current applications of omics technologies in food microorganisms and CRISPR-based genome editing technologies in bacteria, and discuss how this integrated approach enables effective engineering of food microbes to generate enhanced probiotic strains, develop novel biotherapeutics and alter microbial communities in food matrices.
 
-## Wound Healing, Tissue Repair, and Regeneration in Diabetes
+[Source](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 
-[Source](https://www.elsevier.com/books/wound-healing-tissue-repair-and-regeneration-in-diabetes/bagchi/978-0-12-816413-6)
-
----
-
-## Dietary Fiber and Gut Microbiota
-
-[Source](https://link.springer.com/chapter/10.1007%2F978-3-030-38654-2_12)
+10.1016/j.copbio.2019.12.027
 
 ---
 
-## Effect of in feed administration of different butyrate formulations on Salmonella Enteritidis colonization and cecal microbiota in broilers
+## NCSU Fermentation Mini-Seminars
 
-[Source](https://veterinaryresearch.biomedcentral.com/articles/10.1186/s13567-020-00780-2)
-
----
-
-## Stochasticity constrained by deterministic effects of diet and age drive rumen microbiome assembly dynamics
-
-[Source](https://www.nature.com/articles/s41467-020-15652-8)
+[Source](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 
 ---
 
-## Sequence variant analysis reveals poor correlations in microbial taxonomic abundance between humans and mice after gnotobiotic transfer
+## Stochasticity in microbiology: managing unpredictability to reach the Sustainable Development Goals.
+ 20.04.2020, _J De Vrieze, T De Mulder, S Matassa, J Zhou, LT Angenent, N Boon, W Verstraete_
 
-[Source](https://www.nature.com/articles/s41396-020-0645-z)
 
----
+Pure (single) cultures of microorganisms and mixed microbial communities (microbiomes) have been important for centuries in providing renewable energy, clean water and food products to human society and will continue to play a crucial role to pursue the Sustainable Development Goals. To use microorganisms effectively, microbial engineered processes require adequate control. Microbial communities are shaped by manageable deterministic processes, but also by stochastic processes, which can promote unforeseeable variations and adaptations. Here, we highlight the impact of stochasticity in single culture and microbiome engineering. First, we discuss the concepts and mechanisms of stochasticity in relation to microbial ecology of single cultures and microbiomes. Second, we discuss the consequences of stochasticity in relation to process performance and human health, which are reflected in key disadvantages and important opportunities. Third, we propose a suitable decision tool to deal with stochasticity in which monitoring of stochasticity and setting the boundaries of stochasticity by regulators are central aspects. Stochasticity may give rise to some risks, such as the presence of pathogens in microbiomes. We argue here that by taking the necessary precautions and through clever monitoring and interpretation, these risks can be mitigated.
 
-## Temporal changes in microbial communities attached to forages with different lignocellulosic compositions in the cattle rumen
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13575)
 
-[Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiaa069/5822058)
-
----
-
-## Host-microbiota interaction helps to explain the bottom-up effects of climate change on a small rodent species
-
-[Source](https://www.nature.com/articles/s41396-020-0646-y)
+10.1111/1751-7915.13575
 
 ---
 
-## Tapping into the maize root microbiome to identify bacteria that promote growth under chilling conditions
+## Biofilm matrixome: Extracellular components in structured microbial communities
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00833-w)
-
----
-
-## Regulatory relationship between quality variation and environment of Cistanche deserticola in three ecotypes based on soil microbiome analysis
-
-[Source](https://www.nature.com/articles/s41598-020-63607-2)
+[Source](https://www.sciencedirect.com/science/article/pii/S0966842X20300871)
 
 ---
 
-## Effects of biodegradable plastic film mulching on soil microbial communities in two agroecosystems
+## Microbial symbiosis: A network towards biomethanation
 
-[Source](https://peerj.com/articles/9015/)
-
----
-
-## Total Microbial Activity and Sulfur Cycling Microbe Changes in Response to the Development of Hypoxia in a Shallow Estuary
-
-[Source](https://link.springer.com/content/pdf/10.1007/s12601-020-0011-0.pdf)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X20300834)
 
 ---
 
-## Associations Between Respiratory Infections and Bacterial Microbiome in Student Dormitories in Northern China
+## Microbiota in cerebrovascular disease: A key player and future therapeutic target
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12677)
-
----
-
-## Bacterial community analysis of floor dust and HEPA filters in air purifiers used in office rooms in ILAS, Beijing
-
-[Source](https://www.nature.com/articles/s41598-020-63543-1)
+[Source](https://journals.sagepub.com/doi/abs/10.1177/0271678X20918031)
 
 ---
 
-## The influence of spaceflight on the astronaut salivary microbiome and the search for a microbiome biomarker for viral reactivation
+## Role of microbiome and antibiotics in autoimmune diseases
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00830-z)
-
----
-
-## Insights into the Microbiological Safety of Wooden Cutting Boards Used for Meat Processing in Hong Kong’s Wet Markets: A Focus on Food-Contact Surfaces, Cross-Contamination and the Efficacy of Traditional Hygiene Practices
-
-[Source](https://www.mdpi.com/2076-2607/8/4/579)
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/ncp.10489)
 
 ---
 
-## MicrobioLink: An integrated computational pipeline to infer functional effects of microbiome-host interactions
+## Isolation and characterization of diverse microbial representatives from the human skin microbiome
 
-[Source](https://www.biorxiv.org/content/10.1101/837062v2)
-
----
-
-## Repeatability and reproducibility assessment in a large-scale population-based microbiota study: case study on human milk microbiota
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.20.052035v1)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00831-y)
 
 ---
 
-## Mendelian randomization analysis revealed causal effects from gut microbiota to abdominal obesity
+## Altered gut microbial profile is associated with abnormal metabolism activity of Autism Spectrum Disorder
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.20.052407v1)
-
----
-
-## A quantitative measure of functional redundancy in microbial ecosystems
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.22.054593v1.abstract?%3Fcollection=)
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1747329)
 
 ---
 
-## Host association induces genome changes in Candida albicans which alters its virulence
+## Seasonal variation in gut microbiota composition: cross-sectional evidence from Ukrainian population
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.22.056002v1.abstract?%3Fcollection=)
-
----
-
-## Safely conducting essential research in the face of COVID-19
-
-[Source](https://www.nature.com/articles/d41586-020-01027-y)
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01786-8)
 
 ---
 
-## Reaching a Large Urban Undergraduate Population through Microbial Ecology Course-Based Research Experiences
+## Gut microbiome reveals specific dysbiosis in primary osteoporosis
 
-[Source](https://www.asmscience.org/content/journal/jmbe/10.1128/jmbe.v21i1.2047)
-
----
-
-## Against pandemic research exceptionalism
-
-[Source](https://science.sciencemag.org/content/early/2020/04/22/science.abc1731)
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2020.00160/full)
 
 ---
 
-## On the 50th Earth Day, take collective action for the planet
+## The clinical drug Ebselen attenuates inflammation and promotes microbiome recovery in mice after antibiotic treatment for CDI
 
-[Source](https://www.nature.com/articles/d41586-020-01123-z)
+[Source](https://www.sciencedirect.com/science/article/pii/S2666379120300057)
 
 ---
 
-## Annotating the unknown: Functional Gene Annotation using Untargeted Metabolomics
+## Effect of oxytetracycline treatment on the gastrointestinal microbiome of critically endangered white abalone (Haliotis sorenseni) treated for withering syndrome
 
-[Source](https://naturemicrobiologycommunity.nature.com/users/384529-robert-jansen/posts/65331-annotating-the-unknown-functional-gene-annotation-using-untargeted-metabolomics)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0044848620308486)
+
+---
+
+## Effects of hydrolyzed fish protein and autolyzed yeast as substitutes of fishmeal in the gilthead sea bream (Sparus aurata) diet, on fish intestinal microbiome
+
+[Source](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-020-02335-1)
+
+---
+
+## (My microbiome) would walk 10,000 miles: Maintenance and turnover of microbial communities in introduced dung beetles
+
+[Source](https://link.springer.com/article/10.1007%2Fs00248-020-01514-9)
+
+---
+
+## Nocardiopsis deserti sp. nov., isolated from a high altitude Atacama Desert soil
+
+[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004158)
+
+---
+
+## Steel slag amendment impacts on soil microbial communities and activities of rice (<em>Oryza sativa </em>L.) 
+
+[Source](https://www.nature.com/articles/s41598-020-63783-1)
+
+---
+
+## Peat properties, dominant vegetation type and microbial community structure in a tropical peatland
+
+[Source](https://link.springer.com/article/10.1007/s13157-020-01287-4)
+
+---
+
+## Integrating transcriptomics and metabolomics to studies key metabolism, pathways and candidate genes associated with drought-tolerance in <em>Carthamus tinctorius</em> L. under drought stress
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0926669020303812)
+
+---
+
+## Dynamics of ammonia oxidizers and denitrifiers in response to compost addition in black soil, Northeast China
+
+[Source](https://peerj.com/articles/8844/)
+
+---
+
+## Impacts of an eruption on cold-seep microbial and faunal dynamics at a mud volcano
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmars.2020.00241/full)
+
+---
+
+## Unraveling heterogeneity of coral microbiome assemblages in tropical and subtropical corals in the South China Sea
+
+[Source](https://www.mdpi.com/2076-2607/8/4/604)
+
+---
+
+## Anode potential-dependent protection of electroactive biofilms against metal ion shock via regulating extracellular polymeric substances 
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135420303821)
+
+---
+
+## Microbial ecology and biogeochemistry of hypersaline sediments in Orca Basin.
+ 21.04.2020, _LM Nigro, FJ Elling, KU Hinrichs, SB Joye, A Teske_
+
+
+In deep ocean hypersaline basins, the combination of high salinity, unusual ionic composition and anoxic conditions represents significant challenges for microbial life. We used geochemical porewater characterization and DNA sequencing based taxonomic surveys to enable environmental and microbial characterization of anoxic hypersaline sediments and brines in the Orca Basin, the largest brine basin in the Gulf of Mexico. Full-length bacterial 16S rRNA gene clone libraries from hypersaline sediments and the overlying brine were dominated by the uncultured halophilic KB1 lineage, Deltaproteobacteria related to cultured sulfate-reducing halophilic genera, and specific lineages of heterotrophic Bacteroidetes. Archaeal clones were dominated by members of the halophilic methanogen genus Methanohalophilus, and the ammonia-oxidizing Marine Group I (MG-I) within the Thaumarchaeota. Illumina sequencing revealed higher phylum- and subphylum-level complexity, especially in lower-salinity sediments from the Orca Basin slope. Illumina and clone library surveys consistently detected MG-I Thaumarchaeota and halotolerant Deltaproteobacteria in the hypersaline anoxic sediments, but relative abundances of the KB1 lineage differed between the two sequencing methods. The stable isotopic composition of dissolved inorganic carbon and methane in porewater, and sulfate concentrations decreasing downcore indicated methanogenesis and sulfate reduction in the anoxic sediments. While anaerobic microbial processes likely occur at low rates near their maximal salinity thresholds in Orca Basin, long-term accumulation of reaction products leads to high methane concentrations and reducing conditions within the Orca Basin brine and sediments.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231676)
+
+10.1371/journal.pone.0231676
+
+---
+
+## Near streambed flow shapes microbial guilds within and across trophic levels in fluvial biofilms
+
+[Source](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11451)
+
+---
+
+## Heterotrophic sulfide-oxidizing nitrate-reducing bacteria enables the high performance of integrated autotrophic-heterotrophic denitrification (IAHD) process under high sulfide loading
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135420303857)
+
+---
+
+## Ecological processes affecting long-term eukaryote and prokaryote biofilm persistence in nitrogen removal from sewage
+
+[Source](https://www.mdpi.com/2073-4425/11/4/449)
+
+---
+
+## Long-term microbial community dynamics in a pilot-scale gas sparged anaerobic membrane bioreactor treating municipal wastewater under seasonal variations
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420306970)
+
+---
+
+## Emerging Technologies in Environmental Bioremediation
+
+[Source](https://www.elsevier.com/books/emerging-technologies-in-environmental-bioremediation/shah/978-0-12-819860-5)
+
+---
+
+## How processing methods affect the microbial community composition in a cereal-based fermented beverage
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0023643820304400)
+
+---
+
+## High-throughput sequencing and metabolomics reveal differences in bacterial diversity and metabolites between red and white sufu
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00758/full)
 
 ---
 
