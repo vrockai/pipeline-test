@@ -190,15 +190,9 @@ Pure (single) cultures of microorganisms and mixed microbial communities (microb
 
 ---
 
-## Microbial ecology and biogeochemistry of hypersaline sediments in Orca Basin.
- 21.04.2020, _LM Nigro, FJ Elling, KU Hinrichs, SB Joye, A Teske_
-
-
-In deep ocean hypersaline basins, the combination of high salinity, unusual ionic composition and anoxic conditions represents significant challenges for microbial life. We used geochemical porewater characterization and DNA sequencing based taxonomic surveys to enable environmental and microbial characterization of anoxic hypersaline sediments and brines in the Orca Basin, the largest brine basin in the Gulf of Mexico. Full-length bacterial 16S rRNA gene clone libraries from hypersaline sediments and the overlying brine were dominated by the uncultured halophilic KB1 lineage, Deltaproteobacteria related to cultured sulfate-reducing halophilic genera, and specific lineages of heterotrophic Bacteroidetes. Archaeal clones were dominated by members of the halophilic methanogen genus Methanohalophilus, and the ammonia-oxidizing Marine Group I (MG-I) within the Thaumarchaeota. Illumina sequencing revealed higher phylum- and subphylum-level complexity, especially in lower-salinity sediments from the Orca Basin slope. Illumina and clone library surveys consistently detected MG-I Thaumarchaeota and halotolerant Deltaproteobacteria in the hypersaline anoxic sediments, but relative abundances of the KB1 lineage differed between the two sequencing methods. The stable isotopic composition of dissolved inorganic carbon and methane in porewater, and sulfate concentrations decreasing downcore indicated methanogenesis and sulfate reduction in the anoxic sediments. While anaerobic microbial processes likely occur at low rates near their maximal salinity thresholds in Orca Basin, long-term accumulation of reaction products leads to high methane concentrations and reducing conditions within the Orca Basin brine and sediments.
+## Microbial ecology and biogeochemistry of hypersaline sediments in Orca Basin
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231676)
-
-10.1371/journal.pone.0231676
 
 ---
 
