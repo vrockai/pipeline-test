@@ -16,15 +16,15 @@ Mankind has recognized the value of land plants as renewable sources of food, me
 
 ---
 
-## Co-composting of sewage sludge and Phragmites australis using different insulating strategies.
- 25.04.2020, _J Hu, Z Yang, Z Huang, H Li, Z Wu, X Zhang, X Qin, C Li, M Ruan, K Zhou, X Wu, Y Zhang, Y Xiang, J Huang_
+## Evaluation of multi-starter S. cerevisiae/ D. bruxellensis cultures for mimicking and accelerating transformations occurring during barrel ageing of beer.
+ 26.04.2020, _E Coelho, M Azevedo, JA Teixeira, T Tavares, JM Oliveira, L Domingues_
 
 
-Insulating strategies are indispensable for laboratory-scale composting reactors, however, current insulation methods interfere with the aerobic fermentation behaviors related to composting. To address this issue, a centre-oriented real-time temperature compensation strategy was designed in this study. Five 9 L reactors (R1-R5) with different insulation strategies were used for the co-composting of dewatered sludge and Phragmites australis and compared. The process performance was assessed by monitoring the temperature, O2 and CO2 emissions, the physical-chemical properties of the composting materials were evaluated by measuring the organic matter (OM), carbon nitrogen ratio (C/N), pH, electrical conductivity (EC), and fluorescence excitation-emission matrix (EEM) spectra. And a 16S rDNA analysis was used to quantify the evolution of bacterial community. The main findings are as follows. Compared with R1 as a control, the insulating strategies can increase the maximum temperature and prolong the thermophilic phase of composting. Comparing R1 and R3 showed that real-time temperature compensation can better restore the real fermentation of the compost. The results showed that R5 had the best composting effect, reaching 69.8 °C, which was 25.1%, 29.7%, 19.3%, and 17.3% higher than R1, R2, R3, and R4, respectively, and remaining in the thermophilic phase for 4.24 d, which is 1.4, 1.5, 1.3, and 0.2 times longer than R1, R2, R3, and R4, respectively. Furthermore, it can significantly reduce the temperature difference between the centre and edge of the reactor, which improved the composting material allocation efficiency and composting process control accuracy, further providing a basis for the actual full-scale composting operation.
+During beer ageing, endogenous barrel microbes grow spontaneously and transform wort/beer composition, being Dekkera bruxellensis and Saccharomyces cerevisiae among the main contributors to the chemical and sensory profile of aged beer. This work aims at the application of multi-starter cultures to mimic and accelerate biological modifications occurring during barrel ageing of beer, in controlled fermentation processes. Co-cultures of D.bruxellensis/S.cerevisiae were conducted under conditions commonly found in barrel aged beer production: different pitching rates, high glucose concentration and presence of ethanol and wood extracts. Selective pressures and competition between yeasts influenced microbial growth and metabolite production, namely ethanol, acetic acid and target volatile compounds (esters, alcohols, terpenols, volatile acids and volatile phenols). Metabolic profiles of co-cultures combined traits of both species, and differed from those of pure cultures. Lastly, multi-starters were successfully applied in combination with wood in a controlled and accelerated fermentation process for mimicking barrel ageing transformations.
 
 [Source](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 
-10.1016/j.wasman.2020.04.012
+10.1016/j.foodchem.2020.126826
 
 ---
 
