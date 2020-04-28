@@ -1,78 +1,78 @@
-## A short review on antibody therapy for COVID-19 – New Microbes and New Infections
+## Functional and Genetic Analysis of Viral Receptor ACE2 Orthologs Reveals Broad Potential Host Range of SARS-CoV-2
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2052297520300342)
-
----
-
-## Structure of Mpro from COVID-19 virus and discovery of its inhibitors – Nature.com
-
-[Source](https://www.nature.com/articles/s41586-020-2223-y_reference.pdf)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.22.046565v2.abstract)
 
 ---
 
-## Faecal microbiota transplantation in the treatment of&nbsp;<em>Clostridioides difficile</em>&nbsp;infection – Human Microbiome Journal
+## Mapping the Immunodominance Landscape of SARS-CoV-2 Spike Protein for the Design of Vaccines against COVID-19
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2452231720300014)
-
----
-
-## Children with autism spectrum disorder: Pilot studies examining the salivary microbiome and implications for gut metabolism and social behaviour – Human Microbiome Journal
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2452231719300156)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.23.056853v2)
 
 ---
 
-## Prevalence and genotypic characterization of&nbsp;<em>Giardia duodenalis</em>&nbsp;isolates from asymptomatic school-going children in Lusaka, Zambia – Food and Water Parasitology
+## Probiotics and COVID-19: one size does not fit all
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2405676620300019)
-
----
-
-## Shedding and characterization of gastrointestinal nematodes of growing beef heifers in Central Texas – Veterinary Parasitology X
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2590138920300023)
+[Source](https://www.thelancet.com/pdfs/journals/langas/PIIS2468-1253(20)30122-9.pdf)
 
 ---
 
-## Phylodynamic analysis of HIV-1 subtypes B, C and CRF 02_AG in Senegal – Epidemics
+## Isolation and characterization of diverse microbial representatives from the human skin microbiome
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1755436519300660)
-
----
-
-## Detection of human papillomaviruses in paired healthy skin and actinic keratosis by next-generation sequencing – Papillomavirus Research
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2405852120300161)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00831-y)
 
 ---
 
-## Pacemaker-associated infection caused by ST81/SCC<em>mec</em>&nbsp;IV methicillin-resistant, vancomycin-intermediate&nbsp;<em>Staphylococcus aureus </em>in Japan – New Microbes and New Infections
+## Spinal cord injury and the human microbiome: beyond the brain–gut axis
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2052297520300081)
-
----
-
-## Prevalence of metallo-β-lactamase–producing&nbsp;<em>Pseudomonas aeruginosa</em>&nbsp;isolated from diabetic foot infections in Iraq – New Microbes and New Infections
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2052297520300135)
+[Source](https://thejns.org/focus/view/journals/neurosurg-focus/46/3/article-pE11.xml)
 
 ---
 
-## The fungal cell wall: Biology, biosynthesis and biotechnology – The Cell Surface
+## Engineered butyrate-producing bacteria prevents high fat diet-induced obesity in mice 
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2468233020300049)
-
----
-
-## Dynamics of livestock-associated methicillin-resistant&nbsp;<em>Staphylococcus aureus</em>&nbsp;in pig movement networks: Insight from mathematical modelling and French data – Epidemics
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1755436519301082)
+[Source](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-020-01350-z)
 
 ---
 
-## Comparison of gut microbiome from Sulawesi carrion and burying beetles (Coleoptera: Silphidae) through metagenomic analysis of 16S rRNA gene – Bio-conferences.org
+## Gut-seeded α-synuclein fibrils promote gut dysfunction and brain pathology specifically in aged mice
 
-[Source](https://www.bio-conferences.org/articles/bioconf/full_html/2020/03/bioconf_isif2019_00015/bioconf_isif2019_00015.html)
+[Source](https://www.nature.com/articles/s41593-020-0589-7)
+
+---
+
+## Endogenous murine microbiota member Faecalibaculum rodentium and its human homologue protect from intestinal tumour growth
+
+[Source](https://www.nature.com/articles/s41564-019-0649-5)
+
+---
+
+## Microbiome-Mediated Stress Resistance in Plants
+
+[Source](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(20)30114-X)
+
+---
+
+## Disentangling the mechanisms shaping the surface ocean microbiota
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00827-8)
+
+---
+
+## medRxiv article
+
+[Source](https://doi.org/10.1101/2020.04.22.20076091)
+
+---
+
+## Can the gut microbiome predict severe COVID-19?
+
+[Source](https://www.news-medical.net/news/20200427/Gut-microbiota-could-predict-severity-of-COVID-19.aspx)
+
+---
+
+## Microbiome Sequencing Services Market 2020: Remarking Enormous Growth with Recent Trends
+
+[Source](https://latestherald.com/2020/04/26/microbiome-sequencing-services-market-2020-remarking-enormous-growth-with-recent-trends-clinical-microbiomicsmolzymzymo-researchrancho-biosciencesmicrobiome-therapeutics/)
 
 ---
 
