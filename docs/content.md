@@ -16,7 +16,7 @@
 
 High-throughput sequencing techniques are used to analyse the diversity of the respiratory microbiota in health and disease. Although extensive data are available regarding bacterial respiratory microbiota, its fungal component remains poorly studied. This is partly due to the technical issues associated with fungal metagenomics analyses. In this study, we compared two DNA extraction protocols and two fungal amplification targets for combined bacterial and fungal targeted amplicon sequencing analyses of the respiratory microbiota.
 
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3984086/)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232215)
 
 10.1371/journal.pone.0232215
 
