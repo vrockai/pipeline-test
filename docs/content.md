@@ -1,126 +1,198 @@
-## Evaluation of 19 antiviral drugs against SARS-CoV-2 Infection
+## coloring space microbes book
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.29.067983v1?%3Fcollection=)
-
----
-
-## Topologically correct synthetic reconstruction of pathogen social behavior found in deep tissue sites
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.27.065144v1?%3Fcollection=)
+[Source](https://spacemicrobes.com/coloring-microbes/)
 
 ---
 
-## Pembrolizumab for the treatment of programmed death-ligand 1-positive advanced carcinoid or pancreatic neuroendocrine tumors: Results from the KEYNOTE-028 study.
- 22.04.2020, _JM Mehnert, E Bergsland, BH O'Neil, A Santoro, JHM Schellens, RB Cohen, T Doi, PA Ott, MJ Pishvaian, I Puzanov, KL Aung, C Hsu, C Le Tourneau, A Hollebecque, E Élez, K Tamura, M Gould, P Yang, K Stein, SA Piha-Paul_
+## The race for coronavirus vaccines: a graphical guide.
+ 30.04.2020, _E Callaway_
 
 
-Despite a protracted disease course and multiple available therapies, patients with well-differentiated neuroendocrine tumors (NETs) inevitably experience disease progression. Programmed death-ligand 1 (PD-L1) has been associated with NET progression and prognosis. The multicohort, phase 1 KEYNOTE-028 study (ClinicalTrials.gov identifier NCT02054806) evaluated the activity and safety of the anti-programmed cell death protein 1 immunotherapy pembrolizumab in patients with well-differentiated or moderately-differentiated NETs.
 
-[Source](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764580?utm_campaign=articlePDF%26utm_medium%3DarticlePDFlink%26utm_source%3DarticlePDF%26utm_content%3Djamanetworkopen.2020.2895)
+[Source](https://www.nature.com/articles/d41586-020-01221-y)
 
-10.1002/cncr.32883
-
----
-
-## Association of Short-Chain Fatty Acids in the Gut Microbiome With Clinical Response to Treatment With Nivolumab or Pembrolizumab in Patients With Solid Cancer Tumors
-
-[Source](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764580?utm_campaign=articlePDF%26utm_medium%3DarticlePDFlink%26utm_source%3DarticlePDF%26utm_content%3Djamanetworkopen.2020.2895)
+10.1038/d41586-020-01221-y
 
 ---
 
-## Genetic and metabolic links between the murine microbiome and memory.
- 23.04.2020, _JH Mao, YM Kim, YX Zhou, D Hu, C Zhong, H Chang, C Brislawn, S Langley, Y Wang, BYL Peisl, SE Celniker, DW Threadgill, P Wilmes, G Orr, TO Metz, JK Jansson, AM Snijders_
+## Chloroquine hype is derailing the search for coronavirus treatments.
+ 30.04.2020, _H Ledford_
 
 
-Recent evidence has linked the gut microbiome to host behavior via the gut-brain axis [1-3]; however, the underlying mechanisms remain unexplored. Here, we determined the links between host genetics, the gut microbiome and memory using the genetically defined Collaborative Cross (CC) mouse cohort, complemented with microbiome and metabolomic analyses in conventional and germ-free (GF) mice.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00817-w)
+[Source](https://www.nature.com/articles/d41586-020-01165-3)
 
-10.1186/s40168-020-00817-w
-
----
-
-## <em>Drosophila</em> as a model for the gut microbiome
-
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008398)
+10.1038/d41586-020-01165-3
 
 ---
 
-## Combined bacterial and fungal targeted amplicon sequencing of respiratory samples: Does the DNA extraction method matter?
- 28.04.2020, _C Angebault, M Payen, PL Woerther, C Rodriguez, F Botterel_
+## Interactions of Tea-Derived Catechin Gallates with Bacterial Pathogens.
+ 28.04.2020, _PW Taylor_
 
 
-High-throughput sequencing techniques are used to analyse the diversity of the respiratory microbiota in health and disease. Although extensive data are available regarding bacterial respiratory microbiota, its fungal component remains poorly studied. This is partly due to the technical issues associated with fungal metagenomics analyses. In this study, we compared two DNA extraction protocols and two fungal amplification targets for combined bacterial and fungal targeted amplicon sequencing analyses of the respiratory microbiota.
+Green tea-derived galloylated catechins have weak direct antibacterial activity against both Gram-positive and Gram-negative bacterial pathogens and are able to phenotypically transform, at moderate concentrations, methicillin-resistant Staphylococcus aureus (MRSA) clonal pathogens from full β-lactam resistance (minimum inhibitory concentration 256-512 mg/L) to complete susceptibility (~1 mg/L). Reversible conversion to susceptibility follows intercalation of these compounds into the bacterial cytoplasmic membrane, eliciting dispersal of the proteins associated with continued cell wall peptidoglycan synthesis in the presence of β-lactam antibiotics. The molecules penetrate deep within the hydrophobic core of the lipid palisade to force a reconfiguration of cytoplasmic membrane architecture. The catechin gallate-induced staphylococcal phenotype is complex, reflecting perturbation of an essential bacterial organelle, and includes prevention and inhibition of biofilm formation, disruption of secretion of virulence-related proteins, dissipation of halotolerance, cell wall thickening and cell aggregation and poor separation of daughter cells during cell division. These features are associated with the reduction of capacity of potential pathogens to cause lethal, difficult-to-treat infections and could, in combination with β-lactam agents that have lost therapeutic efficacy due to the emergence of antibiotic resistance, form the basis of a new approach to the treatment of staphylococcal infections.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232215)
+[Source](https://www.nature.com/articles/s41586-020-2236-6)
 
-10.1371/journal.pone.0232215
-
----
-
-## Oral Microbiome Profiling in Smokers with and without Head and Neck Cancer Reveals Variations Between Health and Disease.
- 21.04.2020, _AK Sharma, WT DeBusk, I Stepanov, A Gomez, SS Khariwala_
-
-
-While smoking is inextricably linked to oral/head and neck cancer (HNSCC), only a small fraction of smokers develop HNSCC. Thus, we have sought to identify other factors, which may influence the development of HNSCC in smokers including microbiology. To determine microbial associations with HNSCC among tobacco users, we characterized oral microbiome composition in smokers with and without HNSCC. 16S rRNA MiSeq sequencing was used to examine the oral mucosa microbiome of 27 smokers with (cases) and 24 without HNSCC (controls). In addition, we correlated previously reported levels of DNA damage with the microbiome data. Smokers with HNSCC showed lower microbiome richness compared with controls (q = 0.012). Beta-diversity analyses, assessed as UniFrac (weighted and unweighted) and Bray-Curtis distances, showed significant differences in oral mucosal microbiome signatures between cases and controls (r2 = 0.03; P = 0.03) and higher interindividual microbiome heterogeneity in the former (q ≤ 0.01). Higher relative abundance of Stenotrophomonas and Comamonadaceae and predicted bacterial pathways mainly involved in xenobiotic and amine degradation were found in cases compared with controls. The latter, in contrast, exhibited higher abundance of common oral commensals and predicted sugar degradation pathways. Finally, levels of DNA damage in the oral cavity were correlated with the microbiome profiles above. Oral microbiome traits differ in smokers with and without HNSCC, potentially informing the risk of eventual HNSCC and shedding light into possible microbially mediated mechanisms of disease. These findings present data that may be useful in screening efforts for HNSCC among smokers who are unable to quit.
-
-[Source](https://cancerpreventionresearch.aacrjournals.org/content/early/2020/04/19/1940-6207.CAPR-19-0459.long)
-
-10.1158/1940-6207.CAPR-19-0459
+10.3390/molecules25081986
 
 ---
 
-## Coculturing of Mosquito‐Microbiome Bacteria Promotes Heme Degradation in <em>Elizabethkingia anophelis</em>
+## The architecture of the Gram-positive bacterial cell wall
 
-[Source](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000216)
-
----
-
-## The responses of soil bacterial communities and enzyme activities to the edaphic properties of coal mining areas in Central China.
- 28.04.2020, _J Sun, L Yang, J Wei, J Quan, X Yang_
-
-
-Soil physicochemical properties, bacterial communities and enzyme activities change with land subsidence resulting from coal mining. However, research on the responses of bacterial communities and enzyme activities to the soil properties in different degree of subsidence areas is limited. As such, we collected soil samples from a control area (C area), a moderate mining subsidence area (M area) and a severe mining subsidence area (S area) in Central China. Soil properties, such as the pH, total nitrogen (TN) content, total phosphorus (TP) content, available phosphorus (AP) content, organic matter (OM) content, and soil enzyme (urease, invertase, catalase and alkaline phosphatase) activities were measured in each sampling area at depths of 0-20 cm, 20-40 cm, and 40-60 cm. The results indicated that the soil physiochemical properties, soil urease activity, soil alkaline phosphatase activity and soil bacterial richness and diversity in the topsoil (0-20 cm) of the mining subsidence area were significantly lower than those in the C area. However, the soil enzyme activities within the deepest layer of the subsidence area were significantly greater than those of the C area. The bacterial communities within the depth of 0-20 cm were dominated by RB41, Pseudomonas, MND1, Nitrospira, Trichococcus, Sphingomonas and Dongia, whereas RB41 and Pseudomonas were the dominant species in the C area and subsidence area, respectively. Using correlation analysis, we found that the soil pH value, soil AP content and activities of the four enzymes were the main factors affecting the soil bacterial community structure. In addition, the soil nutrient contents, enzyme activities and bacterial richness and evenness decreased with increasing subsidence degree (classified by geological hazards, groundwater and landscape damage degree of coal mining subsidence). These results provide a reliable basis for environmental management of mining areas.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231198)
-
-10.1371/journal.pone.0231198
+[Source](https://www.nature.com/articles/s41586-020-2236-6)
 
 ---
 
-## Network-directed efficient isolation of previously uncultivated <em>Chloroflexi</em> and related bacteria in hot spring microbial mats
-
-[Source](https://www.nature.com/articles/s41522-020-0131-4?utm_source=npjbiofilms_etoc&utm_medium=email&utm_campaign=toc_41522_6_1&utm_content=20200429&WT.ec_id=NPJBIOFILMS-202004&sap-outbound-id=2E7AB71F60BC0CDFB1E43A46E1698DABA3905E2F)
-
----
-
-## Crewmember microbiome may influence microbial composition of ISS habitable surfaces.
- 29.04.2020, _A Avila-Herrera, J Thissen, C Urbaniak, NA Be, DJ Smith, F Karouia, S Mehta, K Venkateswaran, C Jaing_
+## Maternal H. pylori is associated with differential fecal microbiota in infants born by vaginal delivery.
+ 30.04.2020, _CD Hernandez, H Shin, PA Troncoso, MH Vera, AA Villagran, SM Rodriguez-Rivera, MA Ortiz, CA Serrano, A Borzutzky, MG Dominguez-Bello, PR Harris_
 
 
-The International Space Station (ISS) is a complex built environment physically isolated from Earth. Assessing the interplay between the microbial community of the ISS and its crew is important for preventing biomedical and structural complications for long term human spaceflight missions. In this study, we describe one crewmember's microbial profile from body swabs of mouth, nose, ear, skin and saliva that were collected at eight different time points pre-, during and post-flight. Additionally, environmental surface samples from eight different habitable locations in the ISS were collected from two flights. Environmental samples from one flight were collected by the crewmember and samples from the next flight were collected after the crewmember departed. The microbial composition in both environment and crewmember samples was measured using shotgun metagenomic sequencing and processed using the Livermore Metagenomics Analysis Toolkit. Ordination of sample to sample distances showed that of the eight crew body sites analyzed, skin, nostril, and ear samples are more similar in microbial composition to the ISS surfaces than mouth and saliva samples; and that the microbial composition of the crewmember's skin samples are more closely related to the ISS surface samples collected by the crewmember on the same flight than ISS surface samples collected by other crewmembers on different flights. In these collections, species alpha diversity in saliva samples appears to decrease during flight and rebound after returning to Earth. This is the first study to compare the ISS microbiome to a crewmember's microbiome via shotgun metagenomic sequencing. We observed that the microbiome of the surfaces inside the ISS resemble those of the crew's skin. These data support future crew and ISS microbial surveillance efforts and the design of preventive measures to maintain crew habitat onboard spacecraft destined for long term space travel.
+Helicobacter pylori colonization may affect the mucosal immune system through modification of microbiota composition and their interactions with the host. We hypothesized that maternal H. pylori status affects the maternal intestinal microbiota of both mother and newborn. In this study, we determine the structure of the fecal microbiota in mothers and neonates according to maternal H. pylori status and delivery mode. We included 22 mothers and H. pylori infection was determined by fecal antigen test. Eleven mothers (50%) were H. pylori-positive (7 delivering vaginally and 4 by C-section), and 11 were negative (6 delivering vaginally and 5 by C-section). Stool samples were obtained from mothers and infants and the fecal DNA was sequenced. The fecal microbiota from mothers and their babies differed by the maternal H. pylori status, only in vaginal birth, not in C-section delivery. All 22 infants tested negative for fecal H. pylori at 15 days of age, but those born vaginally -and not those by C-section- showed differences in the infant microbiota by maternal H. pylori status (PERMANOVA, p = 0.01), with higher abundance of Enterobacteriaceae and Veillonella, in those born to H. pylori-positive mothers. In conclusion, the structure of the infant fecal microbiota is affected by the maternal H. pylori status only in infants born vaginally, suggesting that the effect could be mediated by labor and birth exposures.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231838)
+[Source](https://www.nature.com/articles/s41598-020-64296-7)
 
-10.1371/journal.pone.0231838
+10.1038/s41598-020-64296-7
 
 ---
 
-## Structure and conformational cycle of a bacteriophage-encoded chaperonin.
- 27.04.2020, _A Bracher, SS Paul, H Wang, N Wischnewski, FU Hartl, M Hayer-Hartl_
+## Metabolic Effects of Bovine Milk Oligosaccharides on Selected Commensals of the Infant Microbiome-Commensalism and Postbiotic Effects.
+ 29.04.2020, _LMA Jakobsen, MX Maldonado-Gómez, UK Sundekilde, HJ Andersen, DS Nielsen, HC Bertram_
 
 
-Chaperonins are ubiquitous molecular chaperones found in all domains of life. They form ring-shaped complexes that assist in the folding of substrate proteins in an ATP-dependent reaction cycle. Key to the folding cycle is the transient encapsulation of substrate proteins by the chaperonin. Here we present a structural and functional characterization of the chaperonin gp146 (ɸEL) from the phage EL of Pseudomonas aeruginosa. ɸEL, an evolutionarily distant homolog of bacterial GroEL, is active in ATP hydrolysis and prevents the aggregation of denatured protein in a nucleotide-dependent manner. However, ɸEL failed to refold the encapsulation-dependent model substrate rhodanese and did not interact with E. coli GroES, the lid-shaped co-chaperone of GroEL. ɸEL forms tetradecameric double-ring complexes, which dissociate into single rings in the presence of ATP. Crystal structures of ɸEL (at 3.54 and 4.03 Å) in presence of ATP•BeFx revealed two distinct single-ring conformational states, both with open access to the ring cavity. One state showed uniform ATP-bound subunit conformations (symmetric state), whereas the second combined distinct ATP- and ADP-bound subunit conformations (asymmetric state). Cryo-electron microscopy of apo-ɸEL revealed a double-ring structure composed of rings in the asymmetric state (3.45 Å resolution). We propose that the phage chaperonin undergoes nucleotide-dependent conformational switching between double- and single rings and functions in aggregation prevention without substrate protein encapsulation. Thus, ɸEL may represent an evolutionarily more ancient chaperonin prior to acquisition of the encapsulation mechanism.
+Oligosaccharides from human or bovine milk selectively stimulate growth or metabolism of bacteria associated with the lower gastrointestinal tract of infants. Results from complex infant-type co-cultures point toward a possible synergistic effect of combining bovine milk oligosaccharides (BMO) and lactose (LAC) on enhancing the metabolism of Bifidobacterium longum subsp. longum and inhibition of Clostridium perfringens. We examine the interaction between B. longum subsp. longum and the commensal Parabacteroides distasonis, by culturing them in mono- and co-culture with different carbohydrates available. To understand the interaction between BMO and lactose on B. longum subsp. longum and test the potential postbiotic effect on C. perfringens growth and/or metabolic activity, we inoculated C. perfringens into fresh media and compared the metabolic changes to C. perfringens in cell-free supernatant from B. longum subsp. longum fermented media. In co-culture, B. longum subsp. longum benefits from P. distasonis (commensalism), especially in a lactose-rich environment. Furthermore, B. longum subsp. longum fermentation of BMO + LAC impaired C. perfringens' ability to utilize BMO as a carbon source (potential postbiotic effect).
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230090)
+[Source](https://www.mdpi.com/2218-1989/10/4/167/htm)
 
-10.1371/journal.pone.0230090
+10.3390/metabo10040167
 
 ---
 
-## An open-source robotic platform that enables automated monitoring of replicated biofilm cultivations using optical coherence tomography
+## Oral microbiome: possible harbinger for children's health.
+ 30.04.2020, _J Xiao, KA Fiscella, SR Gill_
 
-[Source](https://www.nature.com/articles/s41522-020-0129-y?utm_source=npjbiofilms_etoc&utm_medium=email&utm_campaign=toc_41522_6_1&utm_content=20200429&WT.ec_id=NPJBIOFILMS-202004&sap-outbound-id=2E7AB71F60BC0CDFB1E43A46E1698DABA3905E2F)
+
+The human microbiome functions as an intricate and coordinated microbial network, residing throughout the mucosal surfaces of the skin, oral cavity, gastrointestinal tract, respiratory tract, and reproductive system. The oral microbiome encompasses a highly diverse microbiota, consisting of over 700 microorganisms, including bacteria, fungi, and viruses. As our understanding of the relationship between the oral microbiome and human health has evolved, we have identified a diverse array of oral and systemic diseases associated with this microbial community, including but not limited to caries, periodontal diseases, oral cancer, colorectal cancer, pancreatic cancer, and inflammatory bowel syndrome. The potential predictive relationship between the oral microbiota and these human diseases suggests that the oral cavity is an ideal site for disease diagnosis and development of rapid point-of-care tests. The oral cavity is easily accessible with a non-invasive collection of biological samples. We can envision a future where early life salivary diagnostic tools will be used to predict and prevent future disease via analyzing and shaping the infant's oral microbiome. In this review, we present evidence for the establishment of the oral microbiome during early childhood, the capability of using childhood oral microbiome to predict future oral and systemic diseases, and the limitations of the current evidence.
+
+[Source](https://www.nature.com/articles/s41368-020-0082-x)
+
+10.1038/s41368-020-0082-x
+
+---
+
+## Links between the rumen microbiota, methane emissions and feed efficiency of finishing steers offered dietary lipid and nitrate supplementation.
+ 27.04.2020, _JM Bowen, P Cormican, SJ Lister, MS McCabe, CA Duthie, R Roehe, RJ Dewhurst_
+
+
+Ruminant methane production is a significant energy loss to the animal and major contributor to global greenhouse gas emissions. However, it also seems necessary for effective rumen function, so studies of anti-methanogenic treatments must also consider implications for feed efficiency. Between-animal variation in feed efficiency represents an alternative approach to reducing overall methane emissions intensity. Here we assess the effects of dietary additives designed to reduce methane emissions on the rumen microbiota, and explore relationships with feed efficiency within dietary treatment groups. Seventy-nine finishing steers were offered one of four diets (a forage/concentrate mixture supplemented with nitrate (NIT), lipid (MDDG) or a combination (COMB) compared to the control (CTL)). Rumen fluid samples were collected at the end of a 56 d feed efficiency measurement period. DNA was extracted, multiplexed 16s rRNA libraries sequenced (Illumina MiSeq) and taxonomic profiles were generated. The effect of dietary treatments and feed efficiency (within treatment groups) was conducted both overall (using non-metric multidimensional scaling (NMDS) and diversity indexes) and for individual taxa. Diet affected overall microbial populations but no overall difference in beta-diversity was observed. The relative abundance of Methanobacteriales (Methanobrevibacter and Methanosphaera) increased in MDDG relative to CTL, whilst VadinCA11 (Methanomassiliicoccales) was decreased. Trimethylamine precursors from rapeseed meal (only present in CTL) probably explain the differences in relative abundance of Methanomassiliicoccales. There were no differences in Shannon indexes between nominal low or high feed efficiency groups (expressed as feed conversion ratio or residual feed intake) within treatment groups. Relationships between the relative abundance of individual taxa and feed efficiency measures were observed, but were not consistent across dietary treatments.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231759)
+
+10.1371/journal.pone.0231759
+
+---
+
+##  
+
+[Source](https://journals.plos.org/plosone/article)
+
+---
+
+## Variation in rhizosphere microbial communities and its association with the symbiotic efficiency of rhizobia in soybean.
+ 27.04.2020, _Q Han, Q Ma, Y Chen, B Tian, L Xu, Y Bai, W Chen, X Li_
+
+
+Rhizobia-legume symbiosis is an important type of plant-microbe mutualism; however, the establishment of this association is complicated and can be affected by many factors. The soybean rhizosphere has a specific microbial community, yet whether these organisms affect rhizobial nodulation has not been well investigated. Here, we analyzed the compositions and relationships of soybean rhizocompartment microbiota in three types of soil. First, we found that the rhizosphere community composition of soybean varied significantly in different soils, and the association network between rhizobia and other rhizosphere bacteria was examined. Second, we found that some rhizosphere microbes were correlated with the composition of bradyrhizobia and sinorhizobia in nodules. We cultivated 278 candidate Bacillus isolates from alkaline soil. Finally, interaction and nodulation assays showed that the Bacillus cereus group specifically promotes and suppresses the growth of sinorhizobia and bradyrhizobia, respectively, and alleviates the effects of saline-alkali conditions on the nodulation of sinorhizobia as well as affecting its colonization in nodules. Our findings demonstrate a crucial role of the bacterial microbiota in shaping rhizobia-host interactions in soybean, and provide a framework for improving the symbiotic efficiency of this system of mutualism through the use of synthetic bacterial communities.
+
+[Source](https://www.nature.com/articles/s41396-020-0648-9)
+
+10.1038/s41396-020-0648-9
+
+---
+
+## Exopolysaccharides from marine bacteria: production, recovery and applications
+
+[Source](https://link.springer.com/article/10.1007%2Fs42398-020-00101-5)
+
+---
+
+## Stromatolitic digitate sinters form under wide-ranging physicochemical conditions with diverse hot spring microbial communities.
+ 26.04.2020, _C Sriaporn, KA Campbell, M Millan, SW Ruff, MJ Van Kranendonk, KM Handley_
+
+
+Digitate siliceous hot spring deposits are a form of biomediated sinter that is relatively common in the Taupo Volcanic Zone (TVZ), New Zealand, and elsewhere on Earth. Such deposits have gained prominence recently because of their morphological similarity to opaline silica rocks of likely hot spring origin found by the Spirit rover on Mars and the consequent implications for potential biosignatures there. Here, we investigate the possible relationship between microbial community composition and morphological diversity among digitate structures from actively forming siliceous hot spring sinters depositing subaerially in shallow discharge channels and around pool rims at several physicochemically distinct geothermal fields in the TVZ. The TVZ digitate sinters range in morphologic subtype from knobby to spicular, and are shown to be microstromatolites that grow under varied pH ranges, temperatures, and water chemistries. Scanning electron microscopy and molecular analyses revealed that TVZ digitate sinters are intimately associated with a diverse array of bacterial, archaeal and eukaryotic micro-organisms, and for most digitate structures the diversity and quantity of prokaryotes was higher than that of eukaryotes. However, microbial community composition was not correlated with morphologic subtypes of digitate sinter, and observations provided limited evidence that pH (acidic versus alkali) affects morphology. Instead, results suggest hydrodynamics may be an important factor influencing variations in morphology, while water chemistry, pH, and temperature are strong drivers of microbial composition and diversity.
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/gbi.12395)
+
+10.1111/gbi.12395
+
+---
+
+## Comparative analysis of bacterial community and functional species in oil reservoirs with different in situ temperatures.
+ 27.04.2020, _Y Tian, S Xue, Y Ma_
+
+
+Temperature is supposed to be one of the primary drivers for the bacterial diversification as well as hydrocarbon formation process of oil reservoirs. However, the bacterial community compositions are not systematically elucidated in oil reservoirs with different temperatures. Herein, the diversity of indigenous bacteria and the functional species in the water samples from oil reservoirs with different in situ temperatures was investigated by high-throughput sequencing technology. The results showed that samples in the high (65 °C) and super high (80 °C) temperature oil reservoir had significantly high bacterial richness, even more than twice as much as moderate temperature (36 °C) ones, which showed relatively high bacterial diversity. Meanwhile, the bacterial compositions were almost similar in the high temperature oil reservoirs but there were different relative abundances of the bacterial communities. Phylogenetic analysis revealed that indigenous bacteria fell into 20 phylotypes in which Proteobacteria were the principal phylum in all of samples. At the genus level, 10 out of 22 major genera displayed statistically significant differences. Among of them, Pseudomonas was extremely dominant in all of samples, while Halomonas, Caldicoprobacter, Arcobacter, and Marinobacter tended to be enriched in the high temperature oil reservoirs. Moreover, the abundance of bacterial populations exhibited important distinction in oil reservoir such as hydrocarbon-oxidizing, fermentative, nitrate-reducing, sulfate-reducing, and methanogenic bacteria. Those bacteria were strongly correlated to in situ temperature variation.
+
+[Source](https://link.springer.com/content/pdf/10.1007/s10123-020-00125-1.pdf)
+
+10.1007/s10123-020-00125-1
+
+---
+
+## Assessment of microbiota present on a Portuguese historical stone convent using high-throughput sequencing approaches.
+ 30.04.2020, _T Rosado, L Dias, M Lança, C Nogueira, R Santos, MR Martins, A Candeias, J Mirão, AT Caldeira_
+
+
+The study performed on the stone materials from the Convent of Christ revealed the presence of a complex microbial ecosystem, emphasizing the determinant role of microorganisms on the biodecay of this built cultural heritage. In this case study, the presence of Rubrobacter sp., Arthrobacter sp., Roseomonas sp., and Marinobacter sp. seems to be responsible for colored stains and biofilm formation while Ulocladium sp., Cladosporium sp., and Dirina sp. may be related to structural damages. The implementation of high-throughput sequencing approaches on the Convent of Christ's biodecay assessment allowed us to explore, compare, and characterize the microbial communities, overcoming the limitations of culture-dependent techniques, which only identify the cultivable population. The application of these different tools and insights gave us a panoramic view of the microbiota thriving on the Convent of Christ and signalize the main biodeteriogenic agents acting on the biodecay of stone materials. This finding highlighted the importance of performing metagenomic studies due to the improvements and the reduced amount of sample DNA needed, promoting a deeper and more detailed knowledge of the microbiota present on these dynamic repositories that support microbial life. This will further enable us to perform prospective studies in quarry and applied stone context, monitoring biogenic and nonbiogenic agents, and also to define long-term mitigation strategies to prevent biodegradation/biodeterioration processes.
+
+10.1002/mbo3.1030
+
+---
+
+## Medusa: 
+
+---
+
+## Medusa: Software to build and analyze ensembles of genome-scale metabolic network reconstructions.
+ 29.04.2020, _GL Medlock, TJ Moutinho, JA Papin_
+
+
+Uncertainty in the structure and parameters of networks is ubiquitous across computational biology. In constraint-based reconstruction and analysis of metabolic networks, this uncertainty is present both during the reconstruction of networks and in simulations performed with them. Here, we present Medusa, a Python package for the generation and analysis of ensembles of genome-scale metabolic network reconstructions. Medusa builds on the COBRApy package for constraint-based reconstruction and analysis by compressing a set of models into a compact ensemble object, providing functions for the generation of ensembles using experimental data, and extending constraint-based analyses to ensemble scale. We demonstrate how Medusa can be used to generate ensembles and perform ensemble simulations, and how machine learning can be used in conjunction with Medusa to guide the curation of genome-scale metabolic network reconstructions. Medusa is available under the permissive MIT license from the Python Packaging Index (https://pypi.org) and from github (https://github.com/opencobra/Medusa), and comprehensive documentation is available at https://medusa.readthedocs.io/en/latest.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007847)
+
+10.1371/journal.pcbi.1007847
+
+---
+
+## Software to build and analyze ensembles of genome-scale metabolic network reconstructions
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007847)
+
+---
+
+## The National Microbiome Data Collaborative: enabling microbiome science 
+
+[Source](https://www.nature.com/articles/s41579-020-0377-0)
+
+---
+
+## Lactobacillus plantarum NA136 ameliorates nonalcoholic fatty liver disease by modulating gut microbiota, improving intestinal barrier integrity, and attenuating inflammation.
+ 26.04.2020, _Z Zhao, L Chen, Y Zhao, C Wang, C Duan, G Yang, C Niu, S Li_
+
+
+Gut microbiota dysbiosis, associated with insulin resistance, weak intestinal barrier integrity, and inflammation, may also play a role in the development of dietary-induced nonalcoholic fatty liver disease (NAFLD). This study investigates the effects of dietary Lactobacillus plantarum NA136 administration on gut microbiota composition in an insulin-resistant C57BL/6J mouse NAFLD model. Comparison of mice with and without L. plantarum NA136 treatment revealed that L. plantarum NA136 treatment not only relieved insulin resistance but also significantly increased relative proportions of Desulfovibrio, Alistipes, Prevotella, and Enterorhabdus in gut microbiota of NAFLD mice. Meanwhile, L. plantarum NA136 administration also inhibited pathogenic bacterial growth, while promoting growth of probiotics such as Allobaculum, Lactobacillus, and, most markedly, Bifidobacterium. Moreover, L. plantarum NA136 treatment of NAFLD mice improved intestinal barrier integrity and attenuated high-fat and fructose diet (HFD/F)-induced inflammation. These results implicate gut-liver-axis-dependent microbiota modulation as the underlying mechanism for L. plantarum NA136-induced amelioration of NAFLD.Key points• L. plantarum NA136 corrects gut microbiota disorders caused by a high-fat and fructose diet. • L. plantarum NA136 strengthens the intestinal barrier and reduces inflammation in the liver. • L. plantarum NA136 relieves NAFLD by improving the gut-liver axis.
+
+[Source](https://link.springer.com/content/pdf/10.1007/s00253-020-10633-9.pdf)
+
+10.1007/s00253-020-10633-9
+
+---
+
+## Scientists explore links between genetics, gut microbiome and memory
+
+[Source](https://www.eurekalert.org/pub_releases/2020-04/dnnl-sel042820.php)
 
 ---
 
