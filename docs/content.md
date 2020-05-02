@@ -178,15 +178,9 @@ Uncertainty in the structure and parameters of networks is ubiquitous across com
 
 ---
 
-## Lactobacillus plantarum NA136 ameliorates nonalcoholic fatty liver disease by modulating gut microbiota, improving intestinal barrier integrity, and attenuating inflammation.
- 26.04.2020, _Z Zhao, L Chen, Y Zhao, C Wang, C Duan, G Yang, C Niu, S Li_
-
-
-Gut microbiota dysbiosis, associated with insulin resistance, weak intestinal barrier integrity, and inflammation, may also play a role in the development of dietary-induced nonalcoholic fatty liver disease (NAFLD). This study investigates the effects of dietary Lactobacillus plantarum NA136 administration on gut microbiota composition in an insulin-resistant C57BL/6J mouse NAFLD model. Comparison of mice with and without L. plantarum NA136 treatment revealed that L. plantarum NA136 treatment not only relieved insulin resistance but also significantly increased relative proportions of Desulfovibrio, Alistipes, Prevotella, and Enterorhabdus in gut microbiota of NAFLD mice. Meanwhile, L. plantarum NA136 administration also inhibited pathogenic bacterial growth, while promoting growth of probiotics such as Allobaculum, Lactobacillus, and, most markedly, Bifidobacterium. Moreover, L. plantarum NA136 treatment of NAFLD mice improved intestinal barrier integrity and attenuated high-fat and fructose diet (HFD/F)-induced inflammation. These results implicate gut-liver-axis-dependent microbiota modulation as the underlying mechanism for L. plantarum NA136-induced amelioration of NAFLD.Key points• L. plantarum NA136 corrects gut microbiota disorders caused by a high-fat and fructose diet. • L. plantarum NA136 strengthens the intestinal barrier and reduces inflammation in the liver. • L. plantarum NA136 relieves NAFLD by improving the gut-liver axis.
+## Lactobacillus plantarum NA136 ameliorates nonalcoholic fatty liver disease by modulating gut microbiota, improving intestinal barrier integrity, and attenuating inflammation
 
 [Source](https://link.springer.com/content/pdf/10.1007/s00253-020-10633-9.pdf)
-
-10.1007/s00253-020-10633-9
 
 ---
 
