@@ -5,7 +5,7 @@
 ---
 
 ## Comparison of microbiomes in ulcerative and normal mucosa of recurrent aphthous stomatitis (RAS)-affected patients.
- 30.04.2020, _Z Yang, Q Cui, R An, J Wang, X Song, Y Shen, M Wang, H Xu_
+ 05.05.2020, _Z Yang, Q Cui, R An, J Wang, X Song, Y Shen, M Wang, H Xu_
 
 
 Recurrent aphthous stomatitis (RAS) is the most common form of oral ulcerative disease, whose cause is still unknown. Researchers have found the association of many factors with the occurrence of RAS, and proposed oral bacterial infection could be a cause for this disease.
