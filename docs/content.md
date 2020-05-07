@@ -1,60 +1,144 @@
-## <span style="font-weight:400;">Multi-proxy analyses of a mid-15th century Middle Iron Age Bantu-speaker palaeo-faecal specimen elucidates the configuration of the ‘ancestral’ sub-Saharan African intestinal microbiome </span>
+## Intracellular <em>Staphylococcus aureus</em> persisters upon antibiotic exposure
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00832-x)
-
----
-
-## <span style="font-weight:400;">The neovaginal microbiome of transgender women post-gender reassignment surgery</span>
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00804-1)
+[Source](https://doi.org/10.1038/s41467-020-15966-7)
 
 ---
 
-## <span style="font-weight:400;">The stepwise assembly of the neonatal virome is modulated by breastfeeding</span>
+## Investigation of the human nasal microbiome in persons with long- and short-term exposure to methicillin-resistant <em>Staphylococcus aureus</em> and other bacteria from the pig farm environment
 
-[Source](https://www.nature.com/articles/s41586-020-2192-1)
-
----
-
-## <span style="font-weight:400;">Impact of smoking cessation, coffee and bread consumption on the intestinal microbial composition among Saudis: A cross-sectional study</span>
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230895)
+[Source](https://doi.org/10.1371/journal.pone.0232456)
 
 ---
 
-## <span style="font-weight:400;">Altered Immunity of Laboratory Mice in the Natural Environment Is Associated with Fungal Colonization</span>
+## Microbial predictors of healing and short-term effect of debridement on the microbiome of chronic wounds
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312820301232)
-
----
-
-## <span style="font-weight:400;">Infection with the sheep gastrointestinal nematode Teladorsagia circumcincta increases luminal pathobionts</span>
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00818-9)
+[Source](https://doi.org/10.1038/s41522-020-0130-5)
 
 ---
 
-## <span style="font-weight:400;">Vitamin D receptor promotes healthy microbial metabolites and microbiome </span>
+## Systemic short chain fatty acids limit antitumor effect of CTLA-4 blockade in hosts with cancer
 
-[Source](https://www.nature.com/articles/s41598-020-64226-7)
-
----
-
-## <span style="font-weight:400;">Phages Actively Challenge Niche Communities in Antarctic Soils</span>
-
-[Source](https://msystems.asm.org/content/5/3/e00234-20)
+[Source](https://doi.org/10.1038/s41467-020-16079-x)
 
 ---
 
-## <span style="font-weight:400;">The Syntrophy hypothesis for the origin of eukaryotes revisited</span>
+## Functional and phylogenetic alterations in gut microbiome are linked to graft-versus-host disease severity
 
-[Source](https://www.nature.com/articles/s41564-020-0710-4)
+[Source](https://doi.org/10.1182/bloodadvances.2020001531)
 
 ---
 
-## <span style="font-weight:400;">State-of-the-art imaging method provides new insights into how bacteria move and exchange genetic information</span>
+## Metagenomic alterations in gut microbiota precede and predict onset of colitis in the IL10 gene-deficient murine model
 
-[Source](https://phys.org/news/2020-05-state-of-the-art-imaging-method-insights-bacteria.html)
+[Source](https://doi.org/10.1101/2020.05.04.078022)
+
+---
+
+## Dietary Fiber Protects against Diabetic Nephropathy through Short-Chain Fatty Acid–Mediated Activation of G Protein–Coupled Receptors GPR43 and GPR109A
+
+[Source](https://doi.org/10.1681/ASN.2019101029)
+
+---
+
+## Probiotic strain Lactobacillus plantarum YYC-3 prevents colon cancer in mice by regulating the tumour microenvironment
+
+[Source](https://doi.org/10.1016/j.biopha.2020.110159)
+
+---
+
+## Effect of stevia on the gut microbiota and glucose tolerance in a murine model of diet-induced obesity
+
+[Source](https://doi.org/10.1093/femsec/fiaa079)
+
+---
+
+## Sea cucumber intestinal regeneration reveals deterministic assembly of the gut microbiome
+
+[Source](https://doi.org/10.1128/AEM.00489-20)
+
+---
+
+## Mating changes the genital microbiome in both sexes of the common bedbug Cimex lectularius across populations
+
+[Source](https://doi.org/10.1098/rspb.2020.0302)
+
+---
+
+## Mutualist and pathogen traits interact to affect plant community structure in a spatially explicit model
+
+[Source](https://doi.org/10.1038/s41467-020-16047-5)
+
+---
+
+## Seasonal dynamics of methane cycling microbial communities in Amazonian floodplain sediments
+
+[Source](https://doi.org/10.1101/2020.05.04.076356)
+
+---
+
+## Community succession of the grapevine fungal microbiome in the annual growth cycle
+
+[Source](https://doi.org/10.1101/2020.05.03.075457)
+
+---
+
+## Characterizing changes in soil microbiome abundance and diversity due to different cover crop techniques
+
+[Source](https://doi.org/10.1371/journal.pone.0232453)
+
+---
+
+## Specific and conserved patterns of microbiota-structuring by maize benzoxazinoids in the field
+
+[Source](https://doi.org/10.1101/2020.05.03.075135)
+
+---
+
+## The role of changing temperature in microbial metabolic processes during permafrost thaw
+
+[Source](https://doi.org/10.1371/journal.pone.0232169)
+
+---
+
+## Microbial biofilm community structure and composition on the lithic substrates of Herculaneum Suburban Baths
+
+[Source](https://doi.org/10.1371/journal.pone.0232512)
+
+---
+
+## Comparative effectiveness of probiotic-based formulations on cecal microbiota modulation in broilers
+
+[Source](https://doi.org/10.1371/journal.pone.0225871)
+
+---
+
+## Weirdo19ES is a novel singleton mycobacteriophage that selects for glycolipid deficient phage-resistant <em>M. smegmatis</em> mutants
+
+[Source](https://doi.org/10.1371/journal.pone.0231881)
+
+---
+
+## Decoding the language of microbiomes using word-embedding techniques, and applications in inflammatory bowel disease
+
+[Source](https://doi.org/10.1371/journal.pcbi.1007859)
+
+---
+
+## Sequence count data are poorly fit by the negative binomial distribution
+
+[Source](https://doi.org/10.1371/journal.pone.0224909)
+
+---
+
+## sPepFinder expedites genome-wide identification of small proteins in bacteria
+
+[Source](https://doi.org/10.1101/2020.05.05.079178)
+
+---
+
+## Logicome Profiler: Exhaustive detection of statistically significant logic relationships from comparative omics data
+
+[Source](https://doi.org/10.1371/journal.pone.0232106)
 
 ---
 
