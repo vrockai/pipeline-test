@@ -1,294 +1,403 @@
-## Prediction analysis of SARS-COV-2 entry in Livestock and Wild animals
+## Probiotics for Parkinson's Disease.
+ 25.02.2020, _P Gazerani_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.08.084327v1?%3Fcollection=)
 
----
+_Animals, Brain, Dysbiosis, Enteric Nervous System, Gastrointestinal Microbiome, Gastrointestinal Tract, Humans, Parkinson Disease, Probiotics, Signal Transduction, Synbiotics_
+Parkinson's disease (PD) is a complex neurological disorder classically characterized by impairments in motor system function associated with loss of dopaminergic neurons in the substantia nigra. After almost 200 years since the first description of PD by James Parkinson, unraveling the complexity of PD continues to evolve. It is now recognized that an interplay between genetic and environmental factors influences a diverse range of cellular processes, reflecting on other clinical features including non-motor symptoms. This has consequently highlighted the extensive value of early clinical diagnosis to reduce difficulties of later stage management of PD. Advancement in understanding of PD has made remarkable progress in introducing new tools and strategies such as stem cell therapy and deep brain stimulation. A link between alterations in gut microbiota and PD has also opened a new line. Evidence exists of a bidirectional pathway between the gastrointestinal tract and the central nervous system. Probiotics, prebiotics and synbiotics are being examined that might influence gut-brain axis by altering gut microbiota composition, enteric nervous system, and CNS. This review provides status on use of probiotics for PD. Limitations and future directions will also be addressed to promote further research considering use of probiotics for PD.
 
-## Clinical performance of SARS-CoV-2 IgG antibody tests and potential protective immunity
+[Source](https://www.sciencemag.org/custom-publishing/webinars/unraveling-link-between-gut-microbiome-human-health-and-disease)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.08.085506v1.abstract?%3Fcollection=)
-
----
-
-## The role of high cholesterol in age related COVID19 lethality.
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.09.086249v2?%3Fcollection=)
+10.3390/ijms20174121
 
 ---
 
-## Effect of commercial vaginal products on the growth of uropathogenic and commensal vaginal bacteria
+## Unraveling the link between the gut microbiome, human health, and disease.
 
-[Source](https://www.nature.com/articles/s41598-020-63652-x?utm_source=etoc&utm_medium=email&utm_campaign=toc_41598_nature&utm_content=etoc_nature_BS_6_20200512&sap-outbound-id=197FE7ED03C417B63AEDEFF73F22F0B30C25333F)
-
----
-
-## Differences in airway microbiome and metabolome of single lung transplant recipients
-
-[Source](https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-020-01367-3)
+[Source](https://www.sciencemag.org/custom-publishing/webinars/unraveling-link-between-gut-microbiome-human-health-and-disease)
 
 ---
 
-## Assessing the variation within the oral microbiome of healthy adults
+## Associations of sleep with psychological problems and well-being in adolescence: causality or common genetic predispositions?
+ 12.05.2020, _MCM Vermeulen, KB van der Heijden, D Kocevska, JL Treur, C Huppertz, CEM van Beijsterveldt, DI Boomsma, H Swaab, EJW Van Someren, M Bartels_
 
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/05/08/2020.05.07.083634.full.pdf?%3Fcollection=)
 
----
+Whereas short and problematic sleep are associated with psychological problems in adolescence, causality remains to be elucidated. This study therefore utilized the discordant monozygotic cotwin design and cross-lagged models to investigate how short and problematic sleep affect psychological functioning.
 
-## Microbiome profile associated with malignant pleural effusion
+[Source](https://view6.workcast.net/register?cpak=6405853735678801&referrer=ScienceWebsite)
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232181)
-
----
-
-## Composition and function of oral microbiota between gingival squamous cell carcinoma and periodontitis
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1368837520301469)
+10.1111/jcpp.13238
 
 ---
 
-## Esophageal microbiome signature in patients with Barrett’s esophagus and esophageal adenocarcinoma
+## register here
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231789)
-
----
-
-## Subtle Variations in Dietary-Fiber Fine Structure Differentially Influence the Composition and Metabolic Function of GutMicrobiota
-
-[Source](https://msphere.asm.org/content/5/3/e00180-20)
+[Source](https://view6.workcast.net/register?cpak=6405853735678801&referrer=ScienceWebsite)
 
 ---
 
-## Intestinal parasites in rural communities in Nan Province, Thailand: Changes in bacterial gut microbiota associated with minute intestinal fluke infection
+## Human microbiota-transplanted C57BL/6 mice and offspring display reduced establishment of key bacteria and reduced immune stimulation compared to mouse microbiota-transplantation.
+ 11.05.2020, _R Lundberg, MF Toft, SB Metzdorff, CHF Hansen, TR Licht, MI Bahl, AK Hansen_
 
-[Source](https://www.cambridge.org/core/journals/parasitology/article/intestinal-parasites-in-rural-communities-in-nan-province-thailand-changes-in-bacterial-gut-microbiota-associated-with-minute-intestinal-fluke-infection/C7A0E0C48569F3D14666D30F72C10B41)
 
----
+Transplantation of germ-free (GF) mice with microbiota from mice or humans stimulates the intestinal immune system in disparate ways. We transplanted a human microbiota into GF C57BL/6 mice and a murine C57BL/6 microbiota into GF C57BL/6 mice and Swiss-Webster (SW) mice. Mice were bred to produce an offspring generation. 56% of the Operational Taxonomic Units (OTUs) present in the human donor microbiota established in the recipient mice, whereas 81% of the C57BL/6 OTUs established in the recipient C57BL/6 and SW mice. Anti-inflammatory bacteria such as Faecalibacterium and Bifidobacterium from humans were not transferred to mice. Expression of immune-related intestinal genes was lower in human microbiota-mice and not different between parent and offspring generation. Expression of intestinal barrier-related genes was slightly higher in human microbiota-mice. Cytokines and chemokines measured in plasma were differentially present in human and mouse microbiota-mice. Minor differences in microbiota and gene expression were found between transplanted mice of different genetics. It is concluded that important immune-regulating bacteria are lost when transplanting microbiota from humans to C57BL/6 mice, and that the established human microbiota is a weak stimulator of the murine immune system. The results are important for study design considerations in microbiota transplantation studies involving immunological parameters.
 
-## Perturbations of the Gut Microbiome and Metabolome in Children with Calcium Oxalate Kidney Stone Disease
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41598-020-64703-z)
 
-[Source](https://jasn.asnjournals.org/content/early/2020/05/07/ASN.2019101131.abstract)
-
----
-
-## The gut microbiome modulates gut–brain axis glycerophospholipid metabolism in a region-specific manner in a non-human primate model of depression
-
-[Source](https://www.nature.com/articles/s41380-020-0744-2)
+10.1038/s41598-020-64703-z
 
 ---
 
-## A dietary intervention to improve the microbiome composition of pregnant women with Crohn’s disease and their offspring: The MELODY (Modulating Early Life Microbiome through Dietary Intervention in Pregnancy) trial design
+## Human Microbiota-Transplanted C57BL/6 Mice and Offspring Display Reduced Establishment of Key Bacteria and Reduced Immune Stimulation Compared to Mouse Microbiota-Transplantation.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2451865420300570)
-
----
-
-## Gut Microbiota Dysbiosis Associated with Bile Acid Metabolism in Neonatal Cholestasis Disease
-
-[Source](https://www.nature.com/articles/s41598-020-64728-4)
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41598-020-64703-z)
 
 ---
 
-## Individual and cohort-specific gut microbiota patterns associated with tissue-specific insulin sensitivity in overweight and obese males
+## The role of the microbiome in the neurobiology of social behaviour.
+ 08.05.2020, _A Sarkar, S Harty, KV Johnson, AH Moeller, RN Carmody, SM Lehto, SE Erdman, RIM Dunbar, PWJ Burnet_
 
-[Source](https://www.nature.com/articles/s41598-020-64574-4)
 
----
+Microbes colonise all multicellular life, and the gut microbiome has been shown to influence a range of host physiological and behavioural phenotypes. One of the most intriguing and least understood of these influences lies in the domain of the microbiome's interactions with host social behaviour, with new evidence revealing that the gut microbiome makes important contributions to animal sociality. However, little is known about the biological processes through which the microbiome might influence host social behaviour. Here, we synthesise evidence of the gut microbiome's interactions with various aspects of host sociality, including sociability, social cognition, social stress, and autism. We discuss evidence of microbial associations with the most likely physiological mediators of animal social interaction. These include the structure and function of regions of the 'social' brain (the amygdala, the prefrontal cortex, and the hippocampus) and the regulation of 'social' signalling molecules (glucocorticoids including corticosterone and cortisol, sex hormones including testosterone, oestrogens, and progestogens, neuropeptide hormones such as oxytocin and arginine vasopressin, and monoamine neurotransmitters such as serotonin and dopamine). We also discuss microbiome-associated host genetic and epigenetic processes relevant to social behaviour. We then review research on microbial interactions with olfaction in insects and mammals, which contribute to social signalling and communication. Following these discussions, we examine evidence of microbial associations with emotion and social behaviour in humans, focussing on psychobiotic studies, microbe-depression correlations, early human development, autism, and issues of statistical power, replication, and causality. We analyse how the putative physiological mediators of the microbiome-sociality connection may be investigated, and discuss issues relating to the interpretation of results. We also suggest that other candidate molecules should be studied, insofar as they exert effects on social behaviour and are known to interact with the microbiome. Finally, we consider different models of the sequence of microbial effects on host physiological development, and how these may contribute to host social behaviour.
 
-## Fecal microbiota composition is linked to the postoperative disease course in patients with Crohn’s disease
+[Source](https://doi.org/10.1111/brv.12603)
 
-[Source](https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-020-01281-4)
-
----
-
-## Diversity of navel microbiome in young adults Free
-
-[Source](https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001192)
+10.1111/brv.12603
 
 ---
 
-## Wild primate microbiomes prevent weight gain in germ-free mice
+## Enhancement of maximum energy product in Ba&lt;sub&gt;0.5&lt;/sub&gt;Sr&lt;sub&gt;0.5&lt;/sub&gt;Fe&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;19&lt;/sub&gt;/Y&lt;sub&gt;3&lt;/sub&gt;Fe&lt;sub&gt;5&lt;/sub&gt;O&lt;sub&gt;12&lt;/sub&gt; nanocomposites synthesized by co-precipitation method.
+ 12.05.2020, _I Hanif, EV R_
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-020-00033-9)
 
----
+The Ba0.5Sr0.5Fe12O19/Y3Fe5O12(BSFO/YIG) nanocomposite ferrite with the hard (BSFO) and soft (YIG) magnetic phase, were prepared by two-step co-precipitation method. The soft magnetic phases are introduced in different ratios (x=0, 0.1, 0.2, 0.3, 0.4 and 1) in the (1-x)Ba0.5Sr0.5Fe12O19/(x)Y3Fe5O12nanocomposite ferrites. The structural, morphological and magnetic properties of nanocomposite ferrites were analyzed by X-ray diffraction (XRD), high-resolution transmission electron microscope (HR-TEM) and room temperature vibrational sample magnetometer (VSM). The presence of the hard and soft phase have been confirmed without any secondary phase from XRD analysis, indicating the formation of nanocomposite ferrite. The crystallite size are found to be in the range of 45-55 nm calculated by Scherrer's formula. The HR-TEM revealed hexagonal platelets of BSFO with YIG particles with an average particle size of 90 nm formed at the surface of the (0.9)BSFO/(0.1)YIG nanocomposite. The room temperature magnetic properties of nanocomposite like saturation magnetization (Ms), squareness ratio (Mr/Ms), coercivity (Hc) and nucleation field (Hn) were evaluated by employing VSM. The magnetic measurements have displayed enhancement in coercivity and magnetization for (0.9)BSFO/(0.1)YIG. Compared with pure BSFO, the optimized (0.9)BSFO/(0.1)YIG nanocomposite showed 57% enhancement in energy product (BH)max, indicating that the nanocomposite possessed excellent exchange coupling. To investigate the exchange coupling between the hard and soft phases, dM/dH were plotted using the demagnetization curves and it indicated the effective exchange coupling effect between hard and soft phases.
 
-## Changes in the microbiome of mariculture feed organisms after treatment with a potentially probiotic strain of <em>Phaeobacter inhibens</em>
+[Source](https://doi.org/10.1093/ajcn/nqaa076)
 
-[Source](https://aem.asm.org/content/early/2020/05/04/AEM.00499-20.abstract)
-
----
-
-## Alterations of fecal microbiome characteristics by dietary soy isoflavone ingestion in growing pigs infected with porcine reproductive and respiratory syndrome virus
-
-[Source](https://academic.oup.com/jas/advance-article-abstract/doi/10.1093/jas/skaa156/5831855)
+10.1088/1361-6528/ab9260
 
 ---
 
-## Influenza infection elicits an expansion of gut population of endogenous <em>Bifidobacterium animalis</em> which protects mice against infection
+## Neonatal diet alters fecal microbiota and metabolome profiles at different ages in infants fed breast milk or formula.
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02007-1?sap-outbound-id=3F0DB76706057BE384D784E81D08E09499BAC93C&utm_source=hybris-campaign&utm_medium=email&utm_campaign=000_MKQ5584_0000020712_BMCF_USG_MK01_US_13059_eToc_May20&utm_content=EN_internal_46206_20200511&mkt-key=005056B0331B1ED791CFE57296368737)
-
----
-
-##  Impact of industrial production system parameters on chicken microbiomes: mechanisms to improve performance and reduce Campylobacter
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.10.084251v1?%3Fcollection=)
+[Source](https://doi.org/10.1093/ajcn/nqaa076)
 
 ---
 
-## Administration of <em>Bifidobacterium bifidum</em> CGMCC 15068 modulates gut microbiota and metabolome in azoxymethane (AOM)/dextran sulphate sodium (DSS)-induced colitis-associated colon cancer (CAC) in mice
+## Investigating bifidobacteria and human milk oligosaccharide composition of lactating mothers.
+ 01.05.2020, _GA Lugli, S Duranti, C Milani, L Mancabelli, F Turroni, G Alessandri, G Longhi, R Anzalone, A Viappinai, C Tarracchini, S Bernasconi, C Yonemitsu, L Bode, MI Goran, MC Ossiprandi, D van Sinderen, M Ventura_
 
-[Source](https://link.springer.com/article/10.1007/s00253-020-10621-z)
 
----
+Human milk is known to carry its own microbiota, of which the precise origin remains obscure. Breastfeeding allows mother-to-baby transmission of microorganisms as well as the transfer of many other milk components, such as human milk oligosaccharides (HMOs), which act as metabolizable substrates for particular bacteria, such as bifidobacteria, residing in infant intestinal tract. In the current study, we report the HMO composition of 249 human milk samples, in 163 of which we quantified the abundance of members of the Bifidobacterium genus using a combination of metagenomic and flow cytometric approaches. Metagenomic data allowed us to identify four clusters dominated by Bifidobacterium adolescentis and Bifidobacterium pseudolongum, Bifidobacterium crudilactis or Bifidobacterium dentium, as well as a cluster represented by a heterogeneous mix of bifidobacterial species such as Bifidobacterium breve and Bifidobacterium longum. Furthermore, in vitro growth assays on HMOs coupled with in silico glycobiome analyses allowed us to elucidate that members of the Bifidobacterium bifidum and B. breve species exhibit the greatest ability to degrade and grow on HMOs. Altogether, these findings indicate that the bifidobacterial component of the human milk microbiota is not strictly correlated with their ability to metabolize HMOs.
 
-## Structure and membership of gut microbial communities in multiple fish cryptic species under potential migratory effects
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/femsec/fiaa049)
 
-[Source](https://www.nature.com/articles/s41598-020-64570-8)
-
----
-
-## Seasonal habitat drives intestinal microbiome composition in anadromous Arctic char (Salvelinus alpinus)
-
-[Source](https://europepmc.org/article/med/32363711)
+10.1093/femsec/fiaa049
 
 ---
 
-## Honeybee microbiome is stabilized in the presence of propolis
+## Investigating Bifidobacteria and Human Milk Oligosaccharide Composition of Lactating Mothers.
 
-[Source](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2020.0003)
-
----
-
-## Perot Saelao
-
-[Source](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2020.0003#)
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/femsec/fiaa049)
 
 ---
 
-## Body-size Scaling is Related to Gut Microbial Diversity, Metabolism and Dietary Niche of Arboreal Folivorous Flying Squirrels
+## Bioorthogonal non-canonical amino acid tagging reveals translationally active subpopulations of the cystic fibrosis lung microbiota.
+ 11.05.2020, _TD Valentini, SK Lucas, KA Binder, LC Cameron, JA Motl, JM Dunitz, RC Hunter_
 
-[Source](https://www.nature.com/articles/s41598-020-64801-y)
 
----
+Culture-independent studies of cystic fibrosis lung microbiota have provided few mechanistic insights into the polymicrobial basis of disease. Deciphering the specific contributions of individual taxa to CF pathogenesis requires comprehensive understanding of their ecophysiology at the site of infection. We hypothesize that only a subset of CF microbiota are translationally active and that these activities vary between subjects. Here, we apply bioorthogonal non-canonical amino acid tagging (BONCAT) to visualize and quantify bacterial translational activity in expectorated sputum. We report that the percentage of BONCAT-labeled (i.e. active) bacterial cells varies substantially between subjects (6-56%). We use fluorescence-activated cell sorting (FACS) and genomic sequencing to assign taxonomy to BONCAT-labeled cells. While many abundant taxa are indeed active, most bacterial species detected by conventional molecular profiling show a mixed population of both BONCAT-labeled and unlabeled cells, suggesting heterogeneous growth rates in sputum. Differentiating translationally active subpopulations adds to our evolving understanding of CF lung disease and may help guide antibiotic therapies targeting bacteria most likely to be susceptible.
 
-## Differential Response of Digesta- and Mucosa-Associated Intestinal Microbiota to Dietary Black Soldier Fly (Hermetia illucens) Larvae Meal in Seawater Phase Atlantic Salmon (Salmo salar)
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41467-020-16163-2)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.08.083899v1.full?%3Fcollection=)
-
----
-
-## Liming reduces N2O emissions from Mediterranean soil after-rewetting and affects the size, structure and transcription of microbial communities – Eduardo Vázquez <em>et al</em> – Soil Biology and Biochemistry
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S003807172030136X#!)
+10.1038/s41467-020-16163-2
 
 ---
 
-## Significant effects on soil microbial communities were not detected after strategic tillage following 44 years of conventional or no-tillage management
+## Bioorthogonal Non-Canonical Amino Acid Tagging Reveals Translationally Active Subpopulations of the Cystic Fibrosis Lung Microbiota.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0031405620300287)
-
----
-
-## Seasonal variations in soil microbial communities under different land restoration types in a subtropical mountains region, Southwest China
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S092913932030024X)
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41467-020-16163-2)
 
 ---
 
-## Short term effects of biochar with different particle sizes on phosphorous availability and microbial communities
+## Longitudinal Analysis of Serum Cytokine Levels and Gut Microbial Abundance Links IL-17/IL-22 with Clostridia and Insulin Sensitivity in Humans.
+ 05.05.2020, _X Zhou, JS Johnson, D Spakowicz, W Zhou, Y Zhou, E Sodergren, M Snyder, GM Weinstock_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0045653520310559)
 
----
+Recent studies using mouse models suggest that interaction between the gut microbiome and IL-17/IL-22 producing cells plays a role in the development of metabolic diseases. We investigated this relationship in humans using data from the prediabetes study of the Integrated Human Microbiome Project (iHMP). Specifically, we addressed the hypothesis that early in the onset of metabolic diseases there is a decline in serum levels of IL-17/IL-22, with concomitant changes in the gut microbiome. Clustering iHMP study participants on the basis of longitudinal IL-17/IL-22 profiles identified discrete groups. Individuals distinguished by low levels of IL-17/IL-22 were linked to established markers of metabolic disease, including insulin sensitivity. These individuals also displayed gut microbiome dysbiosis, characterized by decreased diversity, and IL-17/IL-22-related declines in the phylum Firmicutes, class Clostridia, and order Clostridiales. This ancillary analysis of the iHMP data therefore supports a link between the gut microbiome, IL-17/IL-22 and the onset of metabolic diseases. This raises the possibility for novel, microbiome-related therapeutic targets that may effectively alleviate metabolic diseases in humans as they do in animal models.
 
-## Microbial community responses to different volatile petroleum hydrocarbon class mixtures in an aerobic sandy soil
+[Source](https://doi-org.ucsf.idm.oclc.org/10.2337/db19-0592)
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0269749119362451)
-
----
-
-## Plant litter amendments in restored wetland soils altered microbial communities more than clay additions
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0038071720301437)
+10.2337/db19-0592
 
 ---
 
-## Long-term fertilization rather than plant species shapes rhizosphere and bulk soil prokaryotic communities in agroecosystems
+## Berberine and its structural analogs have differing effects on functional profiles of individual gut microbiomes.
+ 07.05.2020, _L Li, L Chang, X Zhang, Z Ning, J Mayne, Y Ye, A Stintzi, J Liu, D Figeys_
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0929139319313307)
 
----
+The understanding of the effects of compounds on the gut microbiome is limited. In particular, it is unclear whether structurally similar compounds would have similar or distinct effects on the gut microbiome. Here, we selected berberine (BBR), an isoquinoline quaternary alkaloid, and 16 structural analogs and evaluated their effects on seven individual gut microbiomes cultured in vitro. The responses of the individual microbiomes were evaluated by metaproteomic profiles and by assessing butyrate production. We show that both interindividual differences and compound treatments significantly contributed to the variance of metaproteomic profiles. BBR and eight analogs led to changes in proteins involved in microbial defense and stress responses and enrichment of proteins from Verrucomicrobia, Proteobacteria, and Bacteroidetes phyla. It also led to a decrease in proteins from the Firmicutes phylum and its Clostridiales order which correlated to decrease proteins involved in the butyrate production pathway and butyrate concentration. Three of the compounds, sanguinarine, chelerythrine, and ethoxysanguinarine, activated bacterial protective mechanisms, enriched Proteobacteria, increased opacity proteins, and markedly reduced butyrate production. Dihydroberberine had a similar function to BBR in enriching the Akkermansia genus. In addition, it showed less overall adverse impacts on the functionality of the gut microbiome, including a better maintenance of the butyrate level. Our study shows that ex vivo microbiome assay can assess differential regulating effects of compounds with subtle differences and reveals that compound analogs can have distinct effects on the microbiome.
 
-## Effect of compost amendment and bioaugmentation on PAH degradation and microbial community shifting in petroleum-contaminated soil
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1080/19490976.2020.1755413)
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0045653520311917)
-
----
-
-## The use of -omics tools for assessing biodeterioration of cultural heritage: A review
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1296207420300492)
+10.1080/19490976.2020.1755413
 
 ---
 
-## Tagging the <em>van</em>A gene in wastewater microbial communities for cell sorting and taxonomy of <em>van</em>A carrying cells
+## Berberine and Its Structural Analogs Have Differing Effects on Functional Profiles of Individual Gut Microbiomes.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969720323822)
-
----
-
-## High-Throughput Sequencing Reveals a Potentially Novel Sulfurovum Species Dominating the Microbial Communities of the Seawater–Sediment Interface of a Deep-Sea Cold Seep in South China Sea
-
-[Source](https://www.mdpi.com/2076-2607/8/5/687)
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1080/19490976.2020.1755413)
 
 ---
 
-## Glacial microbiota are hydrologically connected and temporally variable
+## Developmental Signatures of Microbiota-Derived Metabolites in the Mouse Brain.
+ 29.04.2020, _JR Swann, SO Spitzer, R Diaz Heijtz_
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15059)
 
----
+The gut microbiome is recognized to exert a wide-ranging influence on host health and disease, including brain development and behavior. Commensal bacteria can produce bioactive molecules that enter the circulation and impact host physiology and homeostasis. However, little is known about the potential for these metabolites to cross the blood-brain barrier and enter the developing brain under normal physiological conditions. In this study, we used a liquid chromatography-mass spectrometry-based metabolomic approach to characterize the developmental profiles of microbial-derived metabolites in the forebrains of mice across three key postnatal developmental stages, co-occurring with the maturation of the gut microbiota. We demonstrate that direct metabolites of the gut microbiome (e.g., imidazole propionate) or products of the combinatorial metabolism between the microbiome and host (e.g., 3-indoxyl-sulfate, trimethylamine-N-oxide, and phenylacetylglycine) are present in the forebrains of mice as early as the neonatal period and remain into adulthood. These findings demonstrate that microbial-associated molecules can cross the BBB either in their detected form or as precursor molecules that undergo further processing in the brain. These chemical messengers are able to bind receptors known to be expressed in the brain. Alterations in the gut microbiome may therefore influence neurodevelopmental trajectories via the regulation of these microbial-associated metabolites.
 
-## The microbiome driving anaerobic digestion and microbial analysis
+[Source](https://doi.org/10.3390/metabo10050172)
 
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7198183/)
-
----
-
-## MG-MLST: Characterizing the Microbiome at the Strain Level in Metagenomic Data
-
-[Source](https://www.researchgate.net/publication/341253993_MG-MLST_Characterizing_the_Microbiome_at_the_Strain_Level_in_Metagenomic_Data)
+10.3390/metabo10050172
 
 ---
 
-## Inference of single-cell phylogenies from lineage tracing data using Cassiopeia
+## Bifidobacteria shape host neural circuits during postnatal development by promoting synapse formation and microglial function.
+ 11.05.2020, _B Luck, MA Engevik, BP Ganesh, EP Lackey, T Lin, M Balderas, A Major, J Runge, RA Luna, RV Sillitoe, J Versalovic_
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02000-8?sap-outbound-id=3F0DB76706057BE384D784E81D08E09499BAC93C&utm_source=hybris-campaign&utm_medium=email&utm_campaign=000_MKQ5584_0000020712_BMCF_USG_MK01_US_13059_eToc_May20&utm_content=EN_internal_46206_20200511&mkt-key=005056B0331B1ED791CFE57296368737)
 
----
+We hypothesized that early-life gut microbiota support the functional organization of neural circuitry in the brain via regulation of synaptic gene expression and modulation of microglial functionality. Germ-free mice were colonized as neonates with either a simplified human infant microbiota consortium consisting of four Bifidobacterium species, or with a complex, conventional murine microbiota. We examined the cerebellum, cortex, and hippocampus of both groups of colonized mice in addition to germ-free control mice. At postnatal day 4 (P4), conventionalized mice and Bifidobacterium-colonized mice exhibited decreased expression of synapse-promoting genes and increased markers indicative of reactive microglia in the cerebellum, cortex and hippocampus relative to germ-free mice. By P20, both conventional and Bifidobacterium-treated mice exhibited normal synaptic density and neuronal activity as measured by density of VGLUT2+ puncta and Purkinje cell firing rate respectively, in contrast to the increased synaptic density and decreased firing rate observed in germ-free mice. The conclusions from this study further reveal how bifidobacteria participate in establishing functional neural circuits. Collectively, these data indicate that neonatal microbial colonization of the gut elicits concomitant effects on the host CNS, which promote the homeostatic developmental balance of neural connections during the postnatal time period.
 
-## TaxIt: An iterative computational pipeline for untargeted strain-level identification using MS/MS spectra from pathogenic single-organism samples
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41598-020-64173-3)
 
-[Source](https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.9b00714)
-
----
-
-## The Computational Diet: A Review of Computational Methods Across Diet, Microbiome, and Health
-
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7146706/)
+10.1038/s41598-020-64173-3
 
 ---
 
-## Diversity, ecology and evolution of Archaea
+## Bifidobacteria Shape Host Neural Circuits During Postnatal Development by Promoting Synapse Formation and Microglial Function.
 
-[Source](https://www.nature.com/articles/s41564-020-0715-z)
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41598-020-64173-3)
 
 ---
 
-## Microbiome Sequencing Services&nbsp;Market 2020-2024
+## Glycerol Monolaurate, an Analogue to a Factor Secreted by Lactobacillus, Is Virucidal against Enveloped Viruses, Including HIV-1.
+ 09.05.2020, _JL Welch, J Xiang, CM Okeoma, PM Schlievert, JT Stapleton_
 
-[Source](https://www.njmmanews.com/global-microbiome-sequencing-services-market-2024-by-growth-factors-applications-regional-analysis-key-players-baseclear-clinical-microbiomics-molzym-gmbh-co-kg-zymo-research-corp-ranc/)
+
+The vaginal microbiota influences sexual transmission of human immunodeficiency virus type 1 (HIV-1). Colonization of the vaginal tract is normally dominated by Lactobacillus species. Both Lactobacillus and Enterococcus faecalis may secrete reutericyclin, which inhibits the growth of a variety of pathogenic bacteria. Increasing evidence suggests a potential therapeutic role for an analogue of reutericyclin, glycerol monolaurate (GML), against microbial pathogens. Previous studies using a macaque vaginal simian immunodeficiency virus (SIV) transmission model demonstrated that GML reduces transmission and alters immune responses to infection in vitro Previous studies showed that structural analogues of GML negatively impact other enveloped viruses. We sought to expand understanding of how GML inhibits HIV-1 and other enveloped viruses and show that GML restricts HIV-1 entry post-CD4 engagement at the step of coreceptor binding. Further, HIV-1 and yellow fever virus (YFV) particles were more sensitive to GML interference than particles "matured" by proteolytic processing. We show that high-pressure-liquid-chromatography (HPLC)-purified reutericyclin and reutericyclin secreted by Lactobacillus inhibit HIV-1. These data emphasize the importance and protective nature of the normal vaginal flora during viral infections and provide insights into the antiviral mechanism of GML during HIV-1 infection and, more broadly, to other enveloped viruses.IMPORTANCE A total of 340 million sexually transmitted infections (STIs) are acquired each year. Antimicrobial agents that target multiple infectious pathogens are ideal candidates to reduce the number of newly acquired STIs. The antimicrobial and immunoregulatory properties of GML make it an excellent candidate to fit this critical need. Previous studies established the safety profile and antibacterial activity of GML against both Gram-positive and Gram-negative bacteria. GML protected against high-dose SIV infection and reduced inflammation, which can exacerbate disease, during infection. We found that GML inhibits HIV-1 and other human-pathogenic viruses (yellow fever virus, mumps virus, and Zika virus), broadening its antimicrobial range. Because GML targets diverse infectious pathogens, GML may be an effective agent against the broad range of sexually transmitted pathogens. Further, our data show that reutericyclin, a GML analog expressed by some lactobacillus species, also inhibits HIV-1 replication and thus may contribute to the protective effect of Lactobacillus in HIV-1 transmission.
+
+[Source](https://doi.org/10.1128/mBio.00686-20)
+
+10.1128/mBio.00686-20
+
+---
+
+## Gut microbiome communication with bone marrow regulates susceptibility to amebiasis.
+ 05.05.2020, _SL Burgess, JL Leslie, MJ Uddin, DN Oakland, CA Gilchrist, GB Moreau, K Watanabe, MM Saleh, M Simpson, BA Thompson, DT Auble, SD Turner, N Giallourou, J Swann, Z Pu, JZ Ma, R Haque, WA Petri_
+
+
+The microbiome provides resistance to infection. However, mechanisms for this are poorly understood. Here we demonstrate in a murine model that colonization with the intestinal bacterium Clostridium scindens provided protection from Entamoeba histolytica colitis via innate immunity. Introduction of C. scindens into the gut microbiota epigenetically altered and expanded bone marrow granulocyte-monocyte-progenitors (GMPs) and resulted in increased intestinal neutrophils with subsequent challenge with E. histolytica. Introduction of C. scindens alone was sufficient to expand GMPs in gnotobiotic mice. Adoptive transfer of bone-marrow from C. scindens colonized-mice into naïve-mice protected against amebic colitis and increased intestinal neutrophils. Children without E. histolytica diarrhea also had a higher abundance of Lachnoclostridia. Because of the known ability of the Lachnoclostridia C. scindens to metabolize the bile salt cholate, we measured deoxycholate and discovered that it was increased in the sera of C. scindens colonized specific pathogen free and gnotobiotic mice, as well as in children protected from amebiasis. Administration of deoxycholate alone (in the absence of C. scindens) increased GMPs and provided protection from amebiasis. We have discovered a mechanism by which C. scindens and the microbially-metabolized bile salt deoxycholic acid alter hematopoietic precursors and provide innate protection from later infection with Entamoeba histolytica.
+
+[Source](https://doi.org/10.1172/JCI133605)
+
+10.1172/JCI133605
+
+---
+
+## Gut Microbiome Communication With Bone Marrow Regulates Susceptibility to Amebiasis.
+
+[Source](https://doi.org/10.1172/JCI133605)
+
+---
+
+## The Protective Effects of 2'-Fucosyllactose against E. Coli O157 Infection Are Mediated by the Regulation of Gut Microbiota and the Inhibition of Pathogen Adhesion.
+ 06.05.2020, _Y Wang, Y Zou, J Wang, H Ma, B Zhang, S Wang_
+
+
+As the richest component in human milk oligosaccharides (HMOs), 2'-fucosyllactose (2'-FL) can reduce the colonization of harmful microbiota in vivo, thus lowering the risk of infection; however, the mechanism for this is still unclear. In this study, a model of Escherichia coli O157 infection in healthy adult mice was established to explore the effect of 2'-FL intervention on E. coli O157 colonization and its protective effects on mice. The results showed that 2'-FL intake reduced E. coli O157 colonization in mice intestine by more than 90% (p &lt; 0.001), and it also reduced intestinal inflammation, increased the content of fecal short-chain fatty acids, and enhanced intestinal barrier function. These beneficial effects were attributed to the increased expression of mucins such as MUC2 (increased by more than 20%, p &lt; 0.001), and inhibition of E. coli O157 cell adhesion (about 30% reduction, p &lt; 0.001), and were associated with the modulation of gut microbiota composition. 2'-FL significantly increased the abundance of Akkermansia, a potential probiotic, which may represent the fundamental means by which 2'-FL enhances the expression of mucin and reduces the colonization of harmful bacteria. The current study may support the use of 2'-FL in the prevention of foodborne pathogen infections in human.
+
+[Source](https://doi.org/10.3390/nu12051284)
+
+10.3390/nu12051284
+
+---
+
+## Capsaicin improves glucose homeostasis by enhancing glucagon-like peptide-1 secretion through the regulation of bile acid metabolism via the remodeling of the gut microbiota in male mice.
+ 02.05.2020, _S Hui, L Huang, X Wang, X Zhu, M Zhou, M Chen, L Yi, M Mi_
+
+
+Mounting evidence has linked dietary capsaicin (CAP) consumption to the improvement of glucose homeostasis; however, the underlying mechanisms still need to be further elucidated. Male mice were fed a high-fat diet (HFD) with CAP administration for 8 weeks, gut microbiota, bile acid (BA) profiles and markers for BA, and glucose metabolism were investigated. CAP improved glucose homeostasis partially by enhancing the secretion of glucagon-like peptide 1 (GLP-1). The gut microbiota was remodeled by CAP and was characterized by the increased abundance of Bacteroides genera, which is related with lithocholic acid (LCA) production. LCA is an endogenous agonist of Takeda G-protein coupled receptor 5 (TGR5); it may enhance GLP-1 secretion in intestinal L cells. Meanwhile, antibiotics experiment abolished the effects of CAP on glucose homeostasis and microbiota transplantation experiments demonstrated that the CAP-induced beneficial effects were transferable, indicating that the effects of CAP on glucose homeostasis were largely dependent on the gut microbiota. Additionally, we further identified that the improvements induced by CAP were attenuated by the antagonist of GLP-1 receptor, indicating that the activation of GLP-1 signaling contributes to the CAP-induced improvement in glucose homeostasis.
+
+[Source](https://doi.org/10.1096/fj.201902618RR)
+
+10.1096/fj.201902618RR
+
+---
+
+## Capsaicin Improves Glucose Homeostasis by Enhancing Glucagon-Like peptide-1 Secretion Through the Regulation of Bile Acid Metabolism via the Remodeling of the Gut Microbiota in Male Mice.
+
+[Source](https://doi.org/10.1096/fj.201902618RR)
+
+---
+
+## Microbiota-Induced Type I Interferons Instruct a Poised Basal State of Dendritic Cells.
+ 07.05.2020, _L Schaupp, S Muth, L Rogell, M Kofoed-Branzk, F Melchior, S Lienenklaus, SC Ganal-Vonarburg, M Klein, F Guendel, T Hain, K Schütze, U Grundmann, V Schmitt, M Dorsch, J Spanier, PK Larsen, T Schwanz, S Jäckel, C Reinhardt, T Bopp, S Danckwardt, K Mahnke, GA Heinz, MF Mashreghi, P Durek, U Kalinke, O Kretz, TB Huber, S Weiss, C Wilhelm, AJ Macpherson, H Schild, A Diefenbach, HC Probst_
+
+
+Environmental signals shape host physiology and fitness. Microbiota-derived cues are required to program conventional dendritic cells (cDCs) during the steady state so that they can promptly respond and initiate adaptive immune responses when encountering pathogens. However, the molecular underpinnings of microbiota-guided instructive programs are not well understood. Here, we report that the indigenous microbiota controls constitutive production of type I interferons (IFN-I) by plasmacytoid DCs. Using genome-wide analysis of transcriptional and epigenetic regulomes of cDCs from germ-free and IFN-I receptor (IFNAR)-deficient mice, we found that tonic IFNAR signaling instructs a specific epigenomic and metabolic basal state that poises cDCs for future pathogen combat. However, such beneficial biological function comes with a trade-off. Instructed cDCs can prime T cell responses against harmless peripheral antigens when removing roadblocks of peripheral tolerance. Our data provide fresh insights into the evolutionary trade-offs that come with successful adaptation of vertebrates to their microbial environment.
+
+[Source](https://doi.org/10.1016/j.cell.2020.04.022)
+
+10.1016/j.cell.2020.04.022
+
+---
+
+## Intratumoral accumulation of gut microbiota facilitates CD47-based immunotherapy via STING signaling.
+ 10.05.2020, _Y Shi, W Zheng, K Yang, KG Harris, K Ni, L Xue, W Lin, EB Chang, RR Weichselbaum, YX Fu_
+
+
+Most studies focus on how intestinal microbiota influence cancer immunotherapy through activating gut immunity. However, immunotherapies related to innate responses such as CD47 blockade rely on the rapid immune responses within the tumor microenvironment. Using one defined anaerobic gut microbiota to track whether microbiota interact with host immunity, we observed that Bifidobacterium facilitates local anti-CD47 immunotherapy on tumor tissues through the capacity to accumulate within the tumor microenvironment. Systemic administration of Bifidobacterium leads to its accumulation within the tumor and converts the nonresponder mice into responders to anti-CD47 immunotherapy in a stimulator of interferon genes (STING)- and interferon-dependent fashion. Local delivery of Bifidobacterium potently stimulates STING signaling and increases cross-priming of dendritic cells after anti-CD47 treatment. Our study identifies the mechanism by which gut microbiota preferentially colonize in tumor sites and facilitate immunotherapy via STING signaling.
+
+[Source](https://doi.org/10.1084/jem.20192282)
+
+10.1084/jem.20192282
+
+---
+
+## Intratumoral Accumulation of Gut Microbiota Facilitates CD47-based Immunotherapy via STING Signaling.
+
+[Source](https://doi.org/10.1084/jem.20192282)
+
+---
+
+## Housefly (Musca domestica L.) associated microbiota across different life stages.
+
+[Source](https://doi.org/10.1038/s41598-020-64704-y)
+
+---
+
+## Honey-bee–associated prokaryotic viral communities reveal wide viral diversity and a profound metabolic coding potential.
+
+[Source](https://www.pnas.org/content/117/19/10511)
+
+---
+
+## Bayesian modeling reveals host genetics associated with rumen microbiota jointly influence methane emission in dairy cows.
+ 05.05.2020, _Q Zhang, G Difford, G Sahana, P Løvendahl, J Lassen, MS Lund, B Guldbrandtsen, L Janss_
+
+
+Reducing methane emissions from livestock production is of great importance for the sustainable management of the Earth's environment. Rumen microbiota play an important role in producing biogenic methane. However, knowledge of how host genetics influences variation in ruminal microbiota and their joint effects on methane emission is limited. We analyzed data from 750 dairy cows, using a Bayesian model to simultaneously assess the impact of host genetics and microbiota on host methane emission. We estimated that host genetics and microbiota explained 24% and 7%, respectively, of variation in host methane levels. In this Bayesian model, one bacterial genus explained up to 1.6% of the total microbiota variance. Further analysis was performed by a mixed linear model to estimate variance explained by host genomics in abundances of microbial genera and operational taxonomic units (OTU). Highest estimates were observed for a bacterial OTU with 33%, for an archaeal OTU with 26%, and for a microbial genus with 41% heritability. However, after multiple testing correction for the number of genera and OTUs modeled, none of the effects remained significant. We also used a mixed linear model to test effects of individual host genetic markers on microbial genera and OTUs. In this analysis, genetic markers inside host genes ABS4 and DNAJC10 were found associated with microbiota composition. We show that a Bayesian model can be utilized to model complex structure and relationship between microbiota simultaneously and their interaction with host genetics on methane emission. The host genome explains a significant fraction of between-individual variation in microbial abundance. Individual microbial taxonomic groups each only explain a small amount of variation in methane emissions. The identification of genes and genetic markers suggests that it is possible to design strategies for breeding cows with desired microbiota composition associated with phenotypes.
+
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41396-020-0663-x)
+
+10.1038/s41396-020-0663-x
+
+---
+
+## Bayesian Modeling Reveals Host Genetics Associated With Rumen Microbiota Jointly Influence Methane Emission in Dairy Cows.
+
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41396-020-0663-x)
+
+---
+
+## The role of the gut microbiome in sustainable teleost aquaculture.
+ 06.05.2020, _WB Perry, E Lindsay, CJ Payne, C Brodie, R Kazlauskaite_
+
+
+As the most diverse vertebrate group and a major component of a growing global aquaculture industry, teleosts continue to attract significant scientific attention. The growth in global aquaculture, driven by declines in wild stocks, has provided additional empirical demand, and thus opportunities, to explore teleost diversity. Among key developments is the recent growth in microbiome exploration, facilitated by advances in high-throughput sequencing technologies. Here, we consider studies on teleost gut microbiomes in the context of sustainable aquaculture, which we have discussed in four themes: diet, immunity, artificial selection and closed-loop systems. We demonstrate the influence aquaculture has had on gut microbiome research, while also providing a road map for the main deterministic forces that influence the gut microbiome, with topical applications to aquaculture. Functional significance is considered within an aquaculture context with reference to impacts on nutrition and immunity. Finally, we identify key knowledge gaps, both methodological and conceptual, and propose promising applications of gut microbiome manipulation to aquaculture, and future priorities in microbiome research. These include insect-based feeds, vaccination, mechanism of pro- and prebiotics, artificial selection on the hologenome, in-water bacteriophages in recirculating aquaculture systems (RAS), physiochemical properties of water and dysbiosis as a biomarker.
+
+[Source](https://doi.org/10.1098/rspb.2020.0184)
+
+10.1098/rspb.2020.0184
+
+---
+
+## Interactions between social groups of colobus monkeys (Colobus vellerosus) explain similarities in their gut microbiomes.
+
+[Source](https://doi.org/10.1016/j.anbehav.2020.02.011)
+
+---
+
+## Global warming shifts the composition of the abundant bacterial phyllosphere microbiota as indicated by a cultivation dependent and independent study of the grassland phyllosphere of a long-term warming field-experiment.
+ 09.05.2020, _EL Aydogan, O Budich, M Hardt, YH Choi, AB Jansen-Willems, G Moser, C Müller, P Kämpfer, SP Glaeser_
+
+
+The leaf colonizing bacterial microbiota was studied in a long-term warming experiment of a permanent grassland, which had been continuously exposed to increased surface temperate (+2°C) for more than six years. Two abundant plant species, Arrhenatherum elatius and Galium album, were studied. Surface warming reduced stomata opening and changed leaf metabolite profiles. Leaf surface colonization and the concentration of leaf-associated bacterial cells were not affected. However, bacterial 16S rRNA gene amplicon Illumina sequencing showed significant temperature effects on the plant species-specific phyllosphere microbiota. Warming partially affected the concentrations of cultured bacteria and had a significant effect on the composition of most abundant cultured plant species-specific bacteria. The abundance of Sphingomonas spp. was significantly reduced. Sphingomonas spp. isolates from warmed plots represented different phylotypes, had different physiological traits, and were better adapted to higher temperatures. Among Methylobacterium spp., a novel phylotype with a specific mxaF-type was cultured from plants of warmed plots while the most abundant phylotype cultured from control plots was strongly reduced. This study clearly showed a correlation of long-term surface warming with changes of the plant physiology and the development of a physiologically and genetically adapted phyllosphere microbiota.
+
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/femsec/fiaa087)
+
+10.1093/femsec/fiaa087
+
+---
+
+## Global Warming Shifts the Composition of the Abundant Bacterial Phyllosphere Microbiota as Indicated by a Cultivation Dependent and Independent Study of the Grassland Phyllosphere of a Long-Term Warming Field-Experiment.
+
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/femsec/fiaa087)
+
+---
+
+## A human-origin probiotic cocktail ameliorates aging-related leaky gut and inflammation via modulating the microbiota/taurine/tight junction axis.
+ 07.05.2020, _S Ahmadi, S Wang, R Nagpal, B Wang, S Jain, A Razazan, SP Mishra, X Zhu, Z Wang, K Kavanagh, H Yadav_
+
+
+Inflammation is a major risk factor of morbidity and mortality in older adults. Although its precise etiology is unknown, low-grade inflammation in older adults is commonly associated with increased intestinal epithelial permeability (leaky gut) and abnormal (dysbiotic) gut microbiota. The increasing older population and lack of treatments to reduce aging-related microbiota dysbiosis, leaky gut, and inflammation culminates in a rise in aging-related comorbidities, constituting a significant public health concern. Here, we demonstrate that a human-origin probiotic cocktail containing 5 Lactobacillus and 5 Enterococcus strains isolated from healthy infant gut prevented high-fat diet-induced (HFD-induced) microbiota dysbiosis, leaky gut, inflammation, metabolic dysfunctions, and physical function decline in older mice. Probiotic-modulated gut microbiota primarily reduced leaky gut by increasing tight junctions, which in turn reduced inflammation. Mechanistically, probiotics modulated microbiota in a way to increase bile salt hydrolase activity, which in turn increased taurine abundance in the gut that stimulated tight junctions and suppressed gut leakiness. Furthermore, in Caenorhabditis elegans, taurine increased life span, reduced adiposity and leaky gut, and enhanced physical function. The results suggest that such probiotic therapies could prevent or treat aging-related leaky gut and inflammation in the elderly.
+
+[Source](https://insight.jci.org/articles/view/132055)
+
+10.1172/jci.insight.132055
+
+---
+
+## A Human-Origin Probiotic Cocktail Ameliorates Aging-Related Leaky Gut and Inflammation via Modulating the Microbiota/Taurine/Tight Junction Axis.
+
+[Source](https://insight.jci.org/articles/view/132055)
+
+---
+
+## SHOGUN: a modular, accurate, and scalable framework for microbiome quantification.
+ 04.05.2020, _B Hillmann, GA Al-Ghalith, RR Shields-Cutler, Q Zhu, R Knight, D Knights_
+
+
+The software pipeline SHOGUN profiles known taxonomic and gene abundances of short-read shotgun metagenomics sequencing data. The pipeline is scalable, modular, and flexible. Data analysis and transformation steps can be run individually or together in an automated workflow. Users can easily create new reference databases and can select one of three DNA alignment tools, ranging from ultra-fast low-RAM k-mer-based database search to fully exhaustive gapped DNA alignment, to best fit their analysis needs and computational resources. The pipeline includes an implementation of a published method for taxonomy assignment disambiguation with empirical Bayesian redistribution. The software is installable via the conda resource management framework, has plugins for the QIIME2 and QIITA packages, and produces both taxonomy and gene abundance profile tables with a single command, thus promoting convenient and reproducible metagenomics research.
+
+[Source](https://doi.org/10.1093/bioinformatics/btaa277)
+
+10.1093/bioinformatics/btaa277
+
+---
+
+## SHOGUN: A Modular, Accurate, and Scalable Framework for Microbiome Quantification.
+
+[Source](https://doi.org/10.1093/bioinformatics/btaa277)
+
+---
+
+## pepFunk: a tool for peptide-centric functional analysis of metaproteomic human gut microbiome studies.
+ 05.05.2020, _CMA Simopoulos, Z Ning, X Zhang, L Li, K Walker, M Lavallée-Adam, D Figeys_
+
+
+Enzymatic digestion of proteins before mass spectrometry analysis is a key process in metaproteomic workflows. Canonical metaproteomic data processing pipelines typically involve matching spectra produced by the mass spectrometer to a theoretical spectra database, followed by matching the identified peptides back to parent proteins. However, the nature of enzymatic digestion produces peptides that can be found in multiple proteins due to conservation or chance, presenting difficulties with protein and functional assignment.
+
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/bioinformatics/btaa289)
+
+10.1093/bioinformatics/btaa289
+
+---
+
+## pepFunk: A Tool for Peptide-Centric Functional Analysis of Metaproteomic Human Gut Microbiome Studies.
+
+[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/bioinformatics/btaa289)
+
+---
+
+## Mapping the Microbiome in Saliva of COVID-19 Patients.
+
+[Source](https://www.rna.albany.edu/mapping-the-microbiome-in-saliva-of-covid-19-patients/?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news)
+
+---
+
+## Inside the Belly of the Horse – Doctoral candidate Alexa Johnson goes inside the gut to investigate equine health.
+
+[Source](https://www.udel.edu/udaily/2020/may/horse-equine-microbiome-alexa-johnson-gastrointestinal-bacteria/)
 
 ---
 
