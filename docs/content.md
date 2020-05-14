@@ -281,33 +281,15 @@ Most studies focus on how intestinal microbiota influence cancer immunotherapy t
 
 ---
 
-## Bayesian modeling reveals host genetics associated with rumen microbiota jointly influence methane emission in dairy cows.
- 05.05.2020, _Q Zhang, G Difford, G Sahana, P Løvendahl, J Lassen, MS Lund, B Guldbrandtsen, L Janss_
-
-
-Reducing methane emissions from livestock production is of great importance for the sustainable management of the Earth's environment. Rumen microbiota play an important role in producing biogenic methane. However, knowledge of how host genetics influences variation in ruminal microbiota and their joint effects on methane emission is limited. We analyzed data from 750 dairy cows, using a Bayesian model to simultaneously assess the impact of host genetics and microbiota on host methane emission. We estimated that host genetics and microbiota explained 24% and 7%, respectively, of variation in host methane levels. In this Bayesian model, one bacterial genus explained up to 1.6% of the total microbiota variance. Further analysis was performed by a mixed linear model to estimate variance explained by host genomics in abundances of microbial genera and operational taxonomic units (OTU). Highest estimates were observed for a bacterial OTU with 33%, for an archaeal OTU with 26%, and for a microbial genus with 41% heritability. However, after multiple testing correction for the number of genera and OTUs modeled, none of the effects remained significant. We also used a mixed linear model to test effects of individual host genetic markers on microbial genera and OTUs. In this analysis, genetic markers inside host genes ABS4 and DNAJC10 were found associated with microbiota composition. We show that a Bayesian model can be utilized to model complex structure and relationship between microbiota simultaneously and their interaction with host genetics on methane emission. The host genome explains a significant fraction of between-individual variation in microbial abundance. Individual microbial taxonomic groups each only explain a small amount of variation in methane emissions. The identification of genes and genetic markers suggests that it is possible to design strategies for breeding cows with desired microbiota composition associated with phenotypes.
-
-[Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41396-020-0663-x)
-
-10.1038/s41396-020-0663-x
-
----
-
 ## Bayesian Modeling Reveals Host Genetics Associated With Rumen Microbiota Jointly Influence Methane Emission in Dairy Cows.
 
 [Source](https://doi-org.ucsf.idm.oclc.org/10.1038/s41396-020-0663-x)
 
 ---
 
-## The role of the gut microbiome in sustainable teleost aquaculture.
- 06.05.2020, _WB Perry, E Lindsay, CJ Payne, C Brodie, R Kazlauskaite_
-
-
-As the most diverse vertebrate group and a major component of a growing global aquaculture industry, teleosts continue to attract significant scientific attention. The growth in global aquaculture, driven by declines in wild stocks, has provided additional empirical demand, and thus opportunities, to explore teleost diversity. Among key developments is the recent growth in microbiome exploration, facilitated by advances in high-throughput sequencing technologies. Here, we consider studies on teleost gut microbiomes in the context of sustainable aquaculture, which we have discussed in four themes: diet, immunity, artificial selection and closed-loop systems. We demonstrate the influence aquaculture has had on gut microbiome research, while also providing a road map for the main deterministic forces that influence the gut microbiome, with topical applications to aquaculture. Functional significance is considered within an aquaculture context with reference to impacts on nutrition and immunity. Finally, we identify key knowledge gaps, both methodological and conceptual, and propose promising applications of gut microbiome manipulation to aquaculture, and future priorities in microbiome research. These include insect-based feeds, vaccination, mechanism of pro- and prebiotics, artificial selection on the hologenome, in-water bacteriophages in recirculating aquaculture systems (RAS), physiochemical properties of water and dysbiosis as a biomarker.
+## The role of the gut microbiome in sustainable teleost aquaculture. 
 
 [Source](https://doi.org/10.1098/rspb.2020.0184)
-
-10.1098/rspb.2020.0184
 
 ---
 
@@ -317,33 +299,9 @@ As the most diverse vertebrate group and a major component of a growing global a
 
 ---
 
-## Global warming shifts the composition of the abundant bacterial phyllosphere microbiota as indicated by a cultivation dependent and independent study of the grassland phyllosphere of a long-term warming field-experiment.
- 09.05.2020, _EL Aydogan, O Budich, M Hardt, YH Choi, AB Jansen-Willems, G Moser, C Müller, P Kämpfer, SP Glaeser_
-
-
-The leaf colonizing bacterial microbiota was studied in a long-term warming experiment of a permanent grassland, which had been continuously exposed to increased surface temperate (+2°C) for more than six years. Two abundant plant species, Arrhenatherum elatius and Galium album, were studied. Surface warming reduced stomata opening and changed leaf metabolite profiles. Leaf surface colonization and the concentration of leaf-associated bacterial cells were not affected. However, bacterial 16S rRNA gene amplicon Illumina sequencing showed significant temperature effects on the plant species-specific phyllosphere microbiota. Warming partially affected the concentrations of cultured bacteria and had a significant effect on the composition of most abundant cultured plant species-specific bacteria. The abundance of Sphingomonas spp. was significantly reduced. Sphingomonas spp. isolates from warmed plots represented different phylotypes, had different physiological traits, and were better adapted to higher temperatures. Among Methylobacterium spp., a novel phylotype with a specific mxaF-type was cultured from plants of warmed plots while the most abundant phylotype cultured from control plots was strongly reduced. This study clearly showed a correlation of long-term surface warming with changes of the plant physiology and the development of a physiologically and genetically adapted phyllosphere microbiota.
-
-[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/femsec/fiaa087)
-
-10.1093/femsec/fiaa087
-
----
-
 ## Global Warming Shifts the Composition of the Abundant Bacterial Phyllosphere Microbiota as Indicated by a Cultivation Dependent and Independent Study of the Grassland Phyllosphere of a Long-Term Warming Field-Experiment.
 
 [Source](https://doi-org.ucsf.idm.oclc.org/10.1093/femsec/fiaa087)
-
----
-
-## A human-origin probiotic cocktail ameliorates aging-related leaky gut and inflammation via modulating the microbiota/taurine/tight junction axis.
- 07.05.2020, _S Ahmadi, S Wang, R Nagpal, B Wang, S Jain, A Razazan, SP Mishra, X Zhu, Z Wang, K Kavanagh, H Yadav_
-
-
-Inflammation is a major risk factor of morbidity and mortality in older adults. Although its precise etiology is unknown, low-grade inflammation in older adults is commonly associated with increased intestinal epithelial permeability (leaky gut) and abnormal (dysbiotic) gut microbiota. The increasing older population and lack of treatments to reduce aging-related microbiota dysbiosis, leaky gut, and inflammation culminates in a rise in aging-related comorbidities, constituting a significant public health concern. Here, we demonstrate that a human-origin probiotic cocktail containing 5 Lactobacillus and 5 Enterococcus strains isolated from healthy infant gut prevented high-fat diet-induced (HFD-induced) microbiota dysbiosis, leaky gut, inflammation, metabolic dysfunctions, and physical function decline in older mice. Probiotic-modulated gut microbiota primarily reduced leaky gut by increasing tight junctions, which in turn reduced inflammation. Mechanistically, probiotics modulated microbiota in a way to increase bile salt hydrolase activity, which in turn increased taurine abundance in the gut that stimulated tight junctions and suppressed gut leakiness. Furthermore, in Caenorhabditis elegans, taurine increased life span, reduced adiposity and leaky gut, and enhanced physical function. The results suggest that such probiotic therapies could prevent or treat aging-related leaky gut and inflammation in the elderly.
-
-[Source](https://insight.jci.org/articles/view/132055)
-
-10.1172/jci.insight.132055
 
 ---
 
@@ -353,33 +311,9 @@ Inflammation is a major risk factor of morbidity and mortality in older adults. 
 
 ---
 
-## SHOGUN: a modular, accurate, and scalable framework for microbiome quantification.
- 04.05.2020, _B Hillmann, GA Al-Ghalith, RR Shields-Cutler, Q Zhu, R Knight, D Knights_
-
-
-The software pipeline SHOGUN profiles known taxonomic and gene abundances of short-read shotgun metagenomics sequencing data. The pipeline is scalable, modular, and flexible. Data analysis and transformation steps can be run individually or together in an automated workflow. Users can easily create new reference databases and can select one of three DNA alignment tools, ranging from ultra-fast low-RAM k-mer-based database search to fully exhaustive gapped DNA alignment, to best fit their analysis needs and computational resources. The pipeline includes an implementation of a published method for taxonomy assignment disambiguation with empirical Bayesian redistribution. The software is installable via the conda resource management framework, has plugins for the QIIME2 and QIITA packages, and produces both taxonomy and gene abundance profile tables with a single command, thus promoting convenient and reproducible metagenomics research.
-
-[Source](https://doi.org/10.1093/bioinformatics/btaa277)
-
-10.1093/bioinformatics/btaa277
-
----
-
 ## SHOGUN: A Modular, Accurate, and Scalable Framework for Microbiome Quantification.
 
 [Source](https://doi.org/10.1093/bioinformatics/btaa277)
-
----
-
-## pepFunk: a tool for peptide-centric functional analysis of metaproteomic human gut microbiome studies.
- 05.05.2020, _CMA Simopoulos, Z Ning, X Zhang, L Li, K Walker, M Lavallée-Adam, D Figeys_
-
-
-Enzymatic digestion of proteins before mass spectrometry analysis is a key process in metaproteomic workflows. Canonical metaproteomic data processing pipelines typically involve matching spectra produced by the mass spectrometer to a theoretical spectra database, followed by matching the identified peptides back to parent proteins. However, the nature of enzymatic digestion produces peptides that can be found in multiple proteins due to conservation or chance, presenting difficulties with protein and functional assignment.
-
-[Source](https://doi-org.ucsf.idm.oclc.org/10.1093/bioinformatics/btaa289)
-
-10.1093/bioinformatics/btaa289
 
 ---
 
