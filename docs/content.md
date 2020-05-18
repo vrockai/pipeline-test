@@ -1,253 +1,116 @@
-## The impact of maternal and early life malnutrition on health: a diet-microbe perspective.
- 12.05.2020, _AJ Forgie, KM Drall, SL Bourque, CJ Field, AL Kozyrskyj, BP Willing_
+## Establishment of an African green monkey model for COVID-19
 
-
-Early-life malnutrition may have long-lasting effects on microbe-host interactions that affect health and disease susceptibility later in life. Diet quality and quantity in conjunction with toxin and pathogen exposure are key contributors to microbe-host physiology and malnutrition. Consequently, it is important to consider both diet- and microbe-induced pathologies as well as their interactions underlying malnutrition.
-
-[Source](https://doi.org/10.1186/s12916-020-01584-z)
-
-10.1186/s12916-020-01584-z
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.17.100289v1)
 
 ---
 
-## Microbial Diagnostics for Cancer: A Step Forward but Not Prime Time Yet
-
-[Source](https://doi.org/10.1016/j.ccell.2020.04.010)
-
----
-
-## Oral-lung microbiome interactions in lung diseases.
- 11.05.2020, _MJ Mammen, FA Scannapieco, S Sethi_
+## Is the discovery of the novel human betacoronavirus 2c EMC/2012 (HCoV-EMC) the beginning of another SARS-like pandemic?
+ 07.04.2020, _JF Chan, KS Li, KK To, VC Cheng, H Chen, KY Yuen_
 
 
-The proximity and continuity of the oral cavity and the lower respiratory tract allows the oropharyngeal microbiome to be a major determinant of the lung microbiome. In addition, host-pathogen interactions related to the oropharyngeal microbiome or its metabolites could propagate systemic inflammation or modulate host defense mechanisms that could affect other organs, including the lung. There is increasing appreciation of the pathophysiologic significance of the lung microbiome, not only in the classical infection-related diseases, pneumonia, bronchiectasis, and cystic fibrosis, but also in chronic noninfectious lung diseases, such as chronic obstructive pulmonary disease, asthma, and pulmonary fibrosis. In this review, we will explore the relationship of the oral microbiome with lung diseases, such as pneumonia, chronic obstructive pulmonary disease, asthma, and cystic fibrosis.
+_Animals, Chiroptera, Coronavirus, Coronavirus Infections, Humans, Pandemics, Phylogeny, Saudi Arabia, Severe Acute Respiratory Syndrome, Sheep, World Health Organization_
+Fouchier et al. reported the isolation and genome sequencing of a novel coronavirus tentatively named "human betacoronavirus 2c EMC/2012 (HCoV-EMC)" from a Saudi patient presenting with pneumonia and renal failure in June 2012. Genome sequencing showed that this virus belongs to the group C species of the genus betacoronavirus and phylogenetically related to the bat coronaviruses HKU4 and HKU5 previously found in lesser bamboo bat and Japanese Pipistrelle bat of Hong Kong respectively. Another patient from Qatar with similar clinical presentation and positive RT-PCR test was reported in September 2012. We compare and contrast the clinical presentation, laboratory diagnosis and management of infection due to this novel coronavirus and that of SARS coronavirus despite the paucity of published information on the former. Since 70% of all emerging infectious pathogens came from animals, the emergence of this novel virus may represent another instance of interspecies jumping of betacoronavirus from animals to human similar to the group A coronavirus OC43 possibly from a bovine source in the 1890s and the group B SARS coronavirus in 2003 from bat to civet and human. Despite the apparently low transmissibility of the virus at this stage, research preparedness against another SARS-like pandemic is an important precautionary strategy.
 
-[Source](https://doi.org/10.1111/prd.12301)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.26.063032v2)
 
-10.1111/prd.12301
+10.1016/j.jinf.2012.10.002
 
 ---
 
-## The composition and richness of the gut microbiota differentiate the top Polish endurance athletes from sedentary controls.
- 13.05.2020, _M Kulecka, B Fraczek, M Mikula, N Zeber-Lubecka, J Karczmarski, A Paziewska, F Ambrozkiewicz, K Jagusztyn-Krynicka, P Cieszczyk, J Ostrowski_
+## Coronavirus, as a source of pandemic pathogens
 
-
-Little data are available on the subject of gut microbiota composition in endurance athletes as well as connections between diet and specific bacteria abundance. However, most studies suggest that athletes' microbiota undergoes major alterations, which may contribute to increased physical performance. Therefore, we decided to investigate differences in gut microbiota between healthy controls and endurance athletes.
-
-[Source](https://doi.org/10.1186/s12970-020-00353-w)
-
-10.1080/19490976.2020.1758009
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.26.063032v2)
 
 ---
 
-## The athletic gut microbiota
-
-[Source](https://doi.org/10.1186/s12970-020-00353-w)
-
----
-
-## Colorectal cancer occurrence and treatment based on changes in intestinal flora.
- 14.05.2020, _H Si, Q Yang, H Hu, C Ding, H Wang, X Lin_
+## Zinc ameliorates intestinal barrier dysfunctions in shigellosis by reinstating claudin-2 and -4 on the membranes.
+ 09.03.2020, _P Sarkar, T Saha, IA Sheikh, S Chakraborty, J Aoun, MK Chakrabarti, VM Rajendran, NA Ameen, S Dutta, KM Hoque_
 
 
-Colorectal cancer (CRC) is the most common cancer in the world, and its incidence has been increasing in recent years. The occurrence of CRC is believed to be related to a variety of factors. Epidemiological data indicate that CRC is mainly affected by environmental factors, eating habits, physical activity and genetic factors. As a newly recognized functional component, the intestinal microbiota plays important roles in preventing CRC formation and maintaining intestinal immunity. In this review, we summarize the mechanisms by which the gut microbiota causes CRC through alterations to immune function, focusing on the mechanisms by which intestinal microbial dysfunction promotes CRC. Furthermore, we describe the changes in the intestinal flora observed in CRC and their potential for CRC treatment with the goal of facilitating future research on the roles of the intestinal flora.
+_Animals, Claudin-2, Claudin-4, Epithelial Cells, Intestinal Diseases, Male, Mice, Inbred BALB C, Mice, Inbred C57BL, Mitogen-Activated Protein Kinase 3, Mitogen-Activated Protein Kinases, Permeability, Tight Junctions, Zinc_
+Whether zinc (Zn2+) regulates barrier functions by modulating tight-junction (TJ) proteins when pathogens such as Shigella alter epithelial permeability is still unresolved. We investigated the potential benefits of Zn2+ in restoring impaired barrier function in vivo in Shigella-infected mouse tissue and in vitro in T84 cell monolayers. Basolateral Shigella infection triggered a time-dependent decrease in transepithelial resistance followed by an increase in paracellular permeability of FITC-labeled dextran and altered ion selectivity. This led to ion and water loss into the intestinal lumen. Immunofluorescence studies revealed redistribution of claudin-2 and -4 to an intracellular location and accumulation of these proteins in the cytoplasm following infection. Zn2+ ameliorated this perturbed barrier by redistribution of claudin-2 and -4 back to the plasma membrane and by modulating the phosphorylation state of TJ proteins t hough extracellular signal-regulated kinase (ERK)1/2 dependency. Zn2+ prevents elevation of IL-6 and IL-8. Mice challenged with Shigella showed that oral Zn2+supplementation diminished diverse pathophysiological symptoms of shigellosis. Claudin-2 and -4 were susceptible to Shigella infection, resulting in altered barrier function and increased levels of IL-6 and IL-8. Zn2+ supplementation ameliorated this barrier dysfunction, and the inflammatory response involving ERK-mediated change of phosphorylation status for claudin-2 and -4. Thus, Zn2+ may have potential therapeutic value in inflammatory diarrhea and shigellosis. NEW &amp; NOTEWORTHY Our study addresses whether Zn2+ could be an alternative strategy to reduce Shigella-induced inflammatory response and epithelial barrier dysfunction. We have defined a mechanism in terms of intracellular signaling pathways and tight-junction protein expression by Zn2+. Claudin-2 and -4 are susceptible to Shigella infection, whereas in the presence of Zn2+ they are resistant to infection-related barrier dysfunction involving ERK-mediated change of phosphorylation status of claudins.
 
-[Source](https://doi.org/10.1016/j.semcancer.2020.05.004)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.16.099929v1)
 
-10.1016/j.semcancer.2020.05.004
+10.1152/ajpgi.00092.2018
 
 ---
 
-## Microbial communities modulating brain functioning and behaviors in zebrafish: A mechanistic approach
+## NAIP-NLRC4-deficient mice are susceptible to shigellosis
 
-[Source](https://doi.org/10.1016/j.micpath.2020.104251)
-
----
-
-## Multi-omics reveals that the rumen microbiome and its metabolome together with the host metabolome contribute to individualized dairy cow performance.
- 13.05.2020, _MY Xue, HZ Sun, XH Wu, JX Liu, LL Guan_
-
-
-Recently, we reported that some dairy cows could produce high amounts of milk with high amounts of protein (defined as milk protein yield [MPY]) when a population was raised under the same nutritional and management condition, a potential new trait that can be used to increase high-quality milk production. It is unknown to what extent the rumen microbiome and its metabolites, as well as the host metabolism, contribute to MPY. Here, analysis of rumen metagenomics and metabolomics, together with serum metabolomics was performed to identify potential regulatory mechanisms of MPY at both the rumen microbiome and host levels.
-
-[Source](https://doi.org/10.1186/s40168-020-00819-8)
-
-10.1186/s40168-020-00819-8
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.16.099929v1)
 
 ---
 
-## Rumen protozoa shape microbiome composition and metabolic output of fermentation
+## The serogroup B meningococcal outer membrane vesicle-based vaccine 4CMenB induces cross-species protection against Neisseria gonorrhoeae
 
-[Source](https://doi.org/10.1101/2020.05.15.080218)
-
----
-
-## Changes in the gut microbiota during Asian particolored bat (<em>Vespertilio sinensis</em>) development
-
-[Source](https://doi.org/10.7717/peerj.9003)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.13.094177v1.abstract)
 
 ---
 
-## After the bite: bacterial transmission from grey seals (<em>Halichoerus grypus</em>) to harbour porpoises (<em>Phocoena phocoena</em>)
+## Antimycobacterial potential of Mycobacteriophage under pathophysiological conditions
 
-[Source](http://dx.doi.org/10.1098/rsos.192079)
-
----
-
-## Exploration of the virome of the European brown shrimp (<em>Crangon crangon</em>)
-
-[Source](https://doi.org/10.1099/jgv.0.001412)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.16.100123v1)
 
 ---
 
-## The Role of Rhizosphere Bacteriophages in Plant Health.
- 17.05.2020, _AA Pratama, J Terpstra, ALM de Oliveria, JF Salles_
+## A Division of Labor in the Recruitment and Topological Organization of a Bacterial Morphogenic Complex
 
-
-Microbiomes and their hosts influence each other; for instance, the microbiome improves host fitness, whereas the host supports microbiome nutrition. Most studies on this topic have focused on the role of bacteria and fungi, although research on viruses that infect bacteria, known as 'bacteriophages' (phages), has gained importance due to the potential role bacteriophages play in the resilience and functionality of the gut microbiome. Like the gut microbiome, the rhizosphere harbors a complex microbiome, but little is known about the role of phages in this ecosystem. In this opinion, we extend the knowledge gained in human gut virus metagenomics (viromics) to disentangle the potential role of phages in driving the resilience and functionality of the rhizosphere microbiome. We propose that future comparative studies across environments are necessary to unravel the underlying mechanisms through which phages drive the composition and functionality of the rhizosphere microbiome and its interaction with the plant host. Importantly, such understanding might generate strategies to improve plant resistance and resilience in the context of climate change.
-
-[Source](https://doi.org/10.1016/j.tim.2020.04.005)
-
-10.1016/j.tim.2020.04.005
+[Source](https://www.biorxiv.org/content/10.1101/847335v2)
 
 ---
 
-## Analyzing bacterial community in pit mud of Yibin Baijiu in China using high throughput sequencing
+## Comparative genomics of ocular Pseudomonas aeruginosa strains from keratitis patients with different clinical outcomes
 
-[Source](https://doi.org/10.7717/peerj.9122)
-
----
-
-## Shifts of bacterial community structure and function in long-term soybean monoculture
-
-[Source](https://doi.org/10.1080/03650340.2020.1759797)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.15.097220v1)
 
 ---
 
-## Impact of Land-use Change on Vertical Soil Bacterial Communities in Sabah.
- 11.01.2019, _HS Tin, K Palaniveloo, J Anilik, M Vickneswaran, Y Tashiro, CS Vairappan, K Sakai_
+## Higher prevalence of Bacteroides fragilis in Crohn’s disease exacerbations and strain-dependent increase of epithelial resistance
 
-
-_Agriculture, Bacteria, Biodiversity, Ecosystem, Forests, Malaysia, Phylogeny, Soil, Soil Microbiology_
-Decline in forest productivity due to forest conversion is defining the Bornean landscape. Responses of bacterial communities due to land-use changes are vital and could define our understanding of ecosystem functions. This study reports the changes in bacterial community structure in organic soil (0-5 cm; O-Horizon) and organic-mineral soil (5-15 cm; A-Horizon) across Maliau Basin Conservation Area old growth forest (MBOG), Fragment E logged forest (FELF) located in Kalabakan Forest Reserve to Benta Wawasan oil palm plantation (BWOP) using two-step PCR amplicon analysis of bacteria DNA on Illumina Miseq next generation sequencing. A total of 30 soil samples yielded 893,752-OTU reads at ≥97% similarity from 5,446,512 good quality sequences. Soil from BWOP plantation showed highest unshared OTUs for organic (49.2%) and organic-mineral (50.9%) soil. MBOG soil showed a drop in unshared OTUs between organic (48.6%) and organic-mineral (33.9%). At phylum level, Proteobacteria dominated MBOG but shifted to Actinobacteria in logged and plantation soil. Present findings also indicated that only FELF exhibited change in bacterial communities along the soil depth, moving from the organic to the organic-mineral layer. Both layers of BWOP plantation soils deviated from other forests' soil in β-diversity analysis. To our knowledge, this is the first report on transitions of bacterial community structures with different soil horizons in the tropical rainforest including Borneo, Sabah. Borneo tropical soils form a large reservoir for soil bacteria and future exploration is needed for fully understanding the diversity structure and their bacterial functional properties.
-
-[Source](https://doi.org/10.1134/S1064229320040080)
-
-10.1007/s00248-017-1043-6
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.16.099358v1)
 
 ---
 
-## Bacterial Diversity in Peat Soils of Forest Ecosystems and Oil Palm Plantation
+## Let it bud: an ultrastructural study of Cryptococcus neoformans surface during budding events
 
-[Source](https://doi.org/10.1134/S1064229320040080)
-
----
-
-## Space Is More Important than Season when Shaping Soil Microbial Communities at a Large Spatial Scale
-
-[Source](https://msystems.asm.org/content/5/3/e00783-19)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.15.098913v1)
 
 ---
 
-## Effects of cadmium perturbation on the microbial community structure and heavy metal resistome of a tropical agricultural soil
+## Construction of habitat-specific training sets to achieve species-level assignment in 16S rRNA gene datasets
 
-[Source](https://doi.org/10.1186/s40643-020-00314-w)
-
----
-
-## Competition for iron drives phytopathogen control by natural rhizosphere microbiomes.
- 12.05.2020, _S Gu, Z Wei, Z Shao, VP Friman, K Cao, T Yang, J Kramer, X Wang, M Li, X Mei, Y Xu, Q Shen, R Kümmerli, A Jousset_
-
-
-Plant pathogenic bacteria cause high crop and economic losses to human societies1-3. Infections by such pathogens are challenging to control as they often arise through complex interactions between plants, pathogens and the plant microbiome4,5. Experimental studies of this natural ecosystem at the microbiome-wide scale are rare, and consequently we have a poor understanding of how the taxonomic and functional microbiome composition and the resulting ecological interactions affect pathogen growth and disease outbreak. Here, we combine DNA-based soil microbiome analysis with in vitro and in planta bioassays to show that competition for iron via secreted siderophore molecules is a good predictor of microbe-pathogen interactions and plant protection. We examined the ability of 2,150 individual bacterial members of 80 rhizosphere microbiomes, covering all major phylogenetic lineages, to suppress the bacterium Ralstonia solanacearum, a global phytopathogen capable of infecting various crops6,7. We found that secreted siderophores altered microbiome-pathogen interactions from complete pathogen suppression to strong facilitation. Rhizosphere microbiome members with growth-inhibitory siderophores could often suppress the pathogen in vitro as well as in natural and greenhouse soils, and protect tomato plants from infection. Conversely, rhizosphere microbiome members with growth-promotive siderophores were often inferior in competition and facilitated plant infection by the pathogen. Because siderophores are a chemically diverse group of molecules, with each siderophore type relying on a compatible receptor for iron uptake8-12, our results suggest that pathogen-suppressive microbiome members produce siderophores that the pathogen cannot use. Our study establishes a causal mechanistic link between microbiome-level competition for iron and plant protection and opens promising avenues to use siderophore-mediated interactions as a tool for microbiome engineering and pathogen control.
-
-[Source](https://doi.org/10.1038/s41564-020-0719-8)
-
-10.1038/s41564-020-0719-8
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00841-w)
 
 ---
 
-## Tara Oceans: towards global ocean ecosystems biology
+## A powerful microbial group association test based on the higher criticism analysis for sparse microbial association signals
 
-[Source](https://doi.org/10.1038/s41579-020-0364-5)
-
----
-
-## Microbial genomics amidst the Arctic crisis.
- 11.05.2020, _A Edwards, KA Cameron, JM Cook, AR Debbonaire, E Furness, MC Hay, SME Rassner_
-
-
-The Arctic is warming - fast. Microbes in the Arctic play pivotal roles in feedbacks that magnify the impacts of Arctic change. Understanding the genome evolution, diversity and dynamics of Arctic microbes can provide insights relevant for both fundamental microbiology and interdisciplinary Arctic science. Within this synthesis, we highlight four key areas where genomic insights to the microbial dimensions of Arctic change are urgently required: the changing Arctic Ocean, greenhouse gas release from the thawing permafrost, 'biological darkening' of glacial surfaces, and human activities within the Arctic. Furthermore, we identify four principal challenges that provide opportunities for timely innovation in Arctic microbial genomics. These range from insufficient genomic data to develop unifying concepts or model organisms for Arctic microbiology to challenges in gaining authentic insights to the structure and function of low-biomass microbiota and integration of data on the causes and consequences of microbial feedbacks across scales. We contend that our insights to date on the genomics of Arctic microbes are limited in these key areas, and we identify priorities and new ways of working to help ensure microbial genomics is in the vanguard of the scientific response to the Arctic crisis.
-
-[Source](https://doi.org/10.1099/mgen.0.000375)
-
-10.1099/mgen.0.000375
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00834-9)
 
 ---
 
-## Exceptional but vulnerable microbial diversity in coral reef animal surface microbiomes.
- 12.05.2020, _M Chiarello, JC Auguet, NAJ Graham, T Claverie, E Sucré, C Bouvier, F Rieuvilleneuve, CX Restrepo-Ortiz, Y Bettarel, S Villéger, T Bouvier_
+## Metagenomic identification of diverse animal hepaciviruses and pegiviruses
 
-
-Coral reefs host hundreds of thousands of animal species that are increasingly threatened by anthropogenic disturbances. These animals host microbial communities at their surface, playing crucial roles for their fitness. However, the diversity of such microbiomes is mostly described in a few coral species and still poorly defined in other invertebrates and vertebrates. Given the diversity of animal microbiomes, and the diversity of host species inhabiting coral reefs, the contribution of such microbiomes to the total microbial diversity of coral reefs could be important, yet potentially vulnerable to the loss of animal species. Analysis of the surface microbiome from 74 taxa, including teleost fishes, hard and soft corals, crustaceans, echinoderms, bivalves and sponges, revealed that more than 90% of their prokaryotic phylogenetic richness was specific and not recovered in surrounding plankton. Estimate of the total richness associated with coral reef animal surface microbiomes reached up to 2.5% of current estimates of Earth prokaryotic diversity. Therefore, coral reef animal surfaces should be recognized as a hotspot of marine microbial diversity. Loss of the most vulnerable reef animals expected under present-day scenarios of reef degradation would induce an erosion of 28% of the prokaryotic richness, with unknown consequences on coral reef ecosystem functioning.
-
-[Source](https://doi.org/10.1098/rspb.2020.0642)
-
-10.1098/rspb.2020.0642
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.16.100149v1)
 
 ---
 
-## A powerful microbial group association test based on the higher criticism analysis for sparse microbial association signals.
- 12.05.2020, _H Koh, N Zhao_
+## Transcriptome analysis reveals infection strategies employed by Fusarium graminearum as a root pathogen
 
-
-In human microbiome studies, it is crucial to evaluate the association between microbial group (e.g., community or clade) composition and a host phenotype of interest. In response, a number of microbial group association tests have been proposed, which account for the unique features of the microbiome data (e.g., high-dimensionality, compositionality, phylogenetic relationship). These tests generally fall in the class of aggregation tests which amplify the overall group association by combining all the underlying microbial association signals, and, therefore, they are powerful when many microbial species are associated with a given host phenotype (i.e., low sparsity). However, in practice, the microbial association signals can be highly sparse, and this is especially the situation where we have a difficulty to discover the microbial group association.
-
-[Source](https://doi.org/10.1186/s40168-020-00834-9)
-
-10.1186/s40168-020-00834-9
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.17.092288v1)
 
 ---
 
-## A practical guide to amplicon and metagenomic analysis of microbiome data.
- 12.05.2020, _YX Liu, Y Qin, T Chen, M Lu, X Qian, X Guo, Y Bai_
+## Living on The Space Station Leaves a Microbial ‘Fingerprint’ on Astronauts
 
-
-Advances in high-throughput sequencing (HTS) have fostered rapid developments in the field of microbiome research, and massive microbiome datasets are now being generated. However, the diversity of software tools and the complexity of analysis pipelines make it difficult to access this field. Here, we systematically summarize the advantages and limitations of microbiome methods. Then, we recommend specific pipelines for amplicon and metagenomic analyses, and describe commonly-used software and databases, to help researchers select the appropriate tools. Furthermore, we introduce statistical and visualization methods suitable for microbiome analysis, including alpha- and beta-diversity, taxonomic composition, difference comparisons, correlation, networks, machine learning, evolution, source tracing, and common visualization styles to help researchers make informed choices. Finally, a step-by-step reproducible analysis guide is introduced. We hope this review will allow researchers to carry out data analysis more effectively and to quickly select the appropriate tools in order to efficiently mine the biological significance behind the data.
-
-[Source](https://doi.org/10.1007/s13238-020-00724-8)
-
-10.1007/s13238-020-00724-8
+[Source](https://www.sciencealert.com/living-on-the-iss-leaves-a-microbial-fingerprint-on-astronauts)
 
 ---
 
-## TAMA: improved metagenomic sequence classification through meta-analysis.
- 13.05.2020, _M Sim, J Lee, D Lee, D Kwon, J Kim_
+## What are the best foods to increase happiness?
 
-
-Microorganisms are important occupants of many different environments. Identifying the composition of microbes and estimating their abundance promote understanding of interactions of microbes in environmental samples. To understand their environments more deeply, the composition of microorganisms in environmental samples has been studied using metagenomes, which are the collections of genomes of the microorganisms. Although many tools have been developed for taxonomy analysis based on different algorithms, variability of analysis outputs of existing tools from the same input metagenome datasets is the main obstacle for many researchers in this field.
-
-[Source](https://doi.org/10.1186/s12859-020-3533-7)
-
-10.1186/s12859-020-3533-7
-
----
-
-## nf-rnaSeqMetagen: A nextflow metagenomics pipeline for identifying and characterizing microbial sequences from RNA-seq data
-
-[Source](https://doi.org/10.1016/j.medmic.2020.100011)
-
----
-
-## FAIR Data Sharing: The Roles of Common Data Elements and Harmonization.
- 14.05.2020, _RD Kush, D Warzel, MA Kush, A Sherman, EA Navarro, R Fitzmartin, F Pétavy, J Galvez, LB Becnel, FL Zhou, N Harmon, B Jauregui, T Jackson, L Hudson_
-
-
-The value of robust and responsible data sharing in clinical research and healthcare is recognized by patients, patient advocacy groups, researchers, journal editors, and the healthcare industry globally. Privacy and security concerns acknowledged, the act of exchanging data (interoperability) along with its meaning (semantic interoperability) across studies and between partners has been difficult, if not elusive. For shared data to retain its value, a recommendation has been made to follow the Findable, Accessible, Interoperable, Reusable (FAIR) principles. Without applying appropriate data exchange standards with domain-relevant content standards and accessible rich metadata that uses applicable terminologies, interoperability is burdened by the need for transformation and/or mapping. These obstacles to interoperability limit the findability, accessibility and reusability of data, thus diminishing its value and making it impossible to adhere to FAIR principles. One effort to standardize data collection has been through common data elements (CDEs). CDEs are data collection units comprising one or more questions together with a set of valid values. Some CDEs contain standardized terminology concepts that define the meaning of the data, and others include links to unique terminology concept identifiers and unique identifiers for each CDE; however, usually CDEs are defined for specific projects or collaborations and lack traceable or machine readable semantics. While the name implies that these are 'common', this has not necessarily been a requirement, and many CDEs have not been commonly used. The National Institutes of Health (NIH) CDEs are, in fact, a conglomerate of CDEs developed in silos by various NIH institutes. Therefore, CDEs have not brought the anticipated benefit to the industry through widescale interoperability, nor is there widespread reuse of CDEs. Certain institutes in the NIH recommend, albeit do not enforce, institute-specific preferred CDEs; however, at the NIH level a preponderance of choice and a lack of any overarching harmonization of CDEs or consistency in linking them to controlled terminology or common identifiers create confusion for researchers in their efforts to identify the best CDEs for their protocol. The problem of comparing data among studies is exacerbated when researchers select different CDEs for the same variable or data collection field. This manuscript explores reasons for the disappointingly low adoption of CDEs and the inability of CDEs or other clinical research standards to broadly solve the interoperability and data sharing problems. Recommendations are offered for rectifying this situation to enable responsible data sharing that will help in adherence to FAIR principles and the realization of Learning Health Systems for the sake of all of us as patients.
-
-[Source](https://doi.org/10.1016/j.jbi.2020.103421)
-
-10.1016/j.jbi.2020.103421
+[Source](https://www.edp24.co.uk/features/nutritional-experts-share-their-gut-health-tips-1-6652977)
 
 ---
 
