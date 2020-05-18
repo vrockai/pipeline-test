@@ -100,9 +100,15 @@ Recently, we reported that some dairy cows could produce high amounts of milk wi
 
 ---
 
-## The Role of Rhizosphere Bacteriophages in Plant Health
+## The Role of Rhizosphere Bacteriophages in Plant Health.
+ 17.05.2020, _AA Pratama, J Terpstra, ALM de Oliveria, JF Salles_
+
+
+Microbiomes and their hosts influence each other; for instance, the microbiome improves host fitness, whereas the host supports microbiome nutrition. Most studies on this topic have focused on the role of bacteria and fungi, although research on viruses that infect bacteria, known as 'bacteriophages' (phages), has gained importance due to the potential role bacteriophages play in the resilience and functionality of the gut microbiome. Like the gut microbiome, the rhizosphere harbors a complex microbiome, but little is known about the role of phages in this ecosystem. In this opinion, we extend the knowledge gained in human gut virus metagenomics (viromics) to disentangle the potential role of phages in driving the resilience and functionality of the rhizosphere microbiome. We propose that future comparative studies across environments are necessary to unravel the underlying mechanisms through which phages drive the composition and functionality of the rhizosphere microbiome and its interaction with the plant host. Importantly, such understanding might generate strategies to improve plant resistance and resilience in the context of climate change.
 
 [Source](https://doi.org/10.1016/j.tim.2020.04.005)
+
+10.1016/j.tim.2020.04.005
 
 ---
 
@@ -115,6 +121,19 @@ Recently, we reported that some dairy cows could produce high amounts of milk wi
 ## Shifts of bacterial community structure and function in long-term soybean monoculture
 
 [Source](https://doi.org/10.1080/03650340.2020.1759797)
+
+---
+
+## Impact of Land-use Change on Vertical Soil Bacterial Communities in Sabah.
+ 11.01.2019, _HS Tin, K Palaniveloo, J Anilik, M Vickneswaran, Y Tashiro, CS Vairappan, K Sakai_
+
+
+_Agriculture, Bacteria, Biodiversity, Ecosystem, Forests, Malaysia, Phylogeny, Soil, Soil Microbiology_
+Decline in forest productivity due to forest conversion is defining the Bornean landscape. Responses of bacterial communities due to land-use changes are vital and could define our understanding of ecosystem functions. This study reports the changes in bacterial community structure in organic soil (0-5 cm; O-Horizon) and organic-mineral soil (5-15 cm; A-Horizon) across Maliau Basin Conservation Area old growth forest (MBOG), Fragment E logged forest (FELF) located in Kalabakan Forest Reserve to Benta Wawasan oil palm plantation (BWOP) using two-step PCR amplicon analysis of bacteria DNA on Illumina Miseq next generation sequencing. A total of 30 soil samples yielded 893,752-OTU reads at ≥97% similarity from 5,446,512 good quality sequences. Soil from BWOP plantation showed highest unshared OTUs for organic (49.2%) and organic-mineral (50.9%) soil. MBOG soil showed a drop in unshared OTUs between organic (48.6%) and organic-mineral (33.9%). At phylum level, Proteobacteria dominated MBOG but shifted to Actinobacteria in logged and plantation soil. Present findings also indicated that only FELF exhibited change in bacterial communities along the soil depth, moving from the organic to the organic-mineral layer. Both layers of BWOP plantation soils deviated from other forests' soil in β-diversity analysis. To our knowledge, this is the first report on transitions of bacterial community structures with different soil horizons in the tropical rainforest including Borneo, Sabah. Borneo tropical soils form a large reservoir for soil bacteria and future exploration is needed for fully understanding the diversity structure and their bacterial functional properties.
+
+[Source](https://doi.org/10.1134/S1064229320040080)
+
+10.1007/s00248-017-1043-6
 
 ---
 
@@ -136,9 +155,15 @@ Recently, we reported that some dairy cows could produce high amounts of milk wi
 
 ---
 
-## Competition for iron drives phytopathogen control by natural rhizosphere microbiomes
+## Competition for iron drives phytopathogen control by natural rhizosphere microbiomes.
+ 12.05.2020, _S Gu, Z Wei, Z Shao, VP Friman, K Cao, T Yang, J Kramer, X Wang, M Li, X Mei, Y Xu, Q Shen, R Kümmerli, A Jousset_
+
+
+Plant pathogenic bacteria cause high crop and economic losses to human societies1-3. Infections by such pathogens are challenging to control as they often arise through complex interactions between plants, pathogens and the plant microbiome4,5. Experimental studies of this natural ecosystem at the microbiome-wide scale are rare, and consequently we have a poor understanding of how the taxonomic and functional microbiome composition and the resulting ecological interactions affect pathogen growth and disease outbreak. Here, we combine DNA-based soil microbiome analysis with in vitro and in planta bioassays to show that competition for iron via secreted siderophore molecules is a good predictor of microbe-pathogen interactions and plant protection. We examined the ability of 2,150 individual bacterial members of 80 rhizosphere microbiomes, covering all major phylogenetic lineages, to suppress the bacterium Ralstonia solanacearum, a global phytopathogen capable of infecting various crops6,7. We found that secreted siderophores altered microbiome-pathogen interactions from complete pathogen suppression to strong facilitation. Rhizosphere microbiome members with growth-inhibitory siderophores could often suppress the pathogen in vitro as well as in natural and greenhouse soils, and protect tomato plants from infection. Conversely, rhizosphere microbiome members with growth-promotive siderophores were often inferior in competition and facilitated plant infection by the pathogen. Because siderophores are a chemically diverse group of molecules, with each siderophore type relying on a compatible receptor for iron uptake8-12, our results suggest that pathogen-suppressive microbiome members produce siderophores that the pathogen cannot use. Our study establishes a causal mechanistic link between microbiome-level competition for iron and plant protection and opens promising avenues to use siderophore-mediated interactions as a tool for microbiome engineering and pathogen control.
 
 [Source](https://doi.org/10.1038/s41564-020-0719-8)
+
+10.1038/s41564-020-0719-8
 
 ---
 
@@ -148,33 +173,63 @@ Recently, we reported that some dairy cows could produce high amounts of milk wi
 
 ---
 
-## Microbial genomics amidst the Arctic crisis
+## Microbial genomics amidst the Arctic crisis.
+ 11.05.2020, _A Edwards, KA Cameron, JM Cook, AR Debbonaire, E Furness, MC Hay, SME Rassner_
+
+
+The Arctic is warming - fast. Microbes in the Arctic play pivotal roles in feedbacks that magnify the impacts of Arctic change. Understanding the genome evolution, diversity and dynamics of Arctic microbes can provide insights relevant for both fundamental microbiology and interdisciplinary Arctic science. Within this synthesis, we highlight four key areas where genomic insights to the microbial dimensions of Arctic change are urgently required: the changing Arctic Ocean, greenhouse gas release from the thawing permafrost, 'biological darkening' of glacial surfaces, and human activities within the Arctic. Furthermore, we identify four principal challenges that provide opportunities for timely innovation in Arctic microbial genomics. These range from insufficient genomic data to develop unifying concepts or model organisms for Arctic microbiology to challenges in gaining authentic insights to the structure and function of low-biomass microbiota and integration of data on the causes and consequences of microbial feedbacks across scales. We contend that our insights to date on the genomics of Arctic microbes are limited in these key areas, and we identify priorities and new ways of working to help ensure microbial genomics is in the vanguard of the scientific response to the Arctic crisis.
 
 [Source](https://doi.org/10.1099/mgen.0.000375)
 
+10.1099/mgen.0.000375
+
 ---
 
-## Exceptional but vulnerable microbial diversity in coral reef animal surface microbiomes
+## Exceptional but vulnerable microbial diversity in coral reef animal surface microbiomes.
+ 12.05.2020, _M Chiarello, JC Auguet, NAJ Graham, T Claverie, E Sucré, C Bouvier, F Rieuvilleneuve, CX Restrepo-Ortiz, Y Bettarel, S Villéger, T Bouvier_
+
+
+Coral reefs host hundreds of thousands of animal species that are increasingly threatened by anthropogenic disturbances. These animals host microbial communities at their surface, playing crucial roles for their fitness. However, the diversity of such microbiomes is mostly described in a few coral species and still poorly defined in other invertebrates and vertebrates. Given the diversity of animal microbiomes, and the diversity of host species inhabiting coral reefs, the contribution of such microbiomes to the total microbial diversity of coral reefs could be important, yet potentially vulnerable to the loss of animal species. Analysis of the surface microbiome from 74 taxa, including teleost fishes, hard and soft corals, crustaceans, echinoderms, bivalves and sponges, revealed that more than 90% of their prokaryotic phylogenetic richness was specific and not recovered in surrounding plankton. Estimate of the total richness associated with coral reef animal surface microbiomes reached up to 2.5% of current estimates of Earth prokaryotic diversity. Therefore, coral reef animal surfaces should be recognized as a hotspot of marine microbial diversity. Loss of the most vulnerable reef animals expected under present-day scenarios of reef degradation would induce an erosion of 28% of the prokaryotic richness, with unknown consequences on coral reef ecosystem functioning.
 
 [Source](https://doi.org/10.1098/rspb.2020.0642)
 
+10.1098/rspb.2020.0642
+
 ---
 
-## A powerful microbial group association test based on the higher criticism analysis for sparse microbial association signals
+## A powerful microbial group association test based on the higher criticism analysis for sparse microbial association signals.
+ 12.05.2020, _H Koh, N Zhao_
+
+
+In human microbiome studies, it is crucial to evaluate the association between microbial group (e.g., community or clade) composition and a host phenotype of interest. In response, a number of microbial group association tests have been proposed, which account for the unique features of the microbiome data (e.g., high-dimensionality, compositionality, phylogenetic relationship). These tests generally fall in the class of aggregation tests which amplify the overall group association by combining all the underlying microbial association signals, and, therefore, they are powerful when many microbial species are associated with a given host phenotype (i.e., low sparsity). However, in practice, the microbial association signals can be highly sparse, and this is especially the situation where we have a difficulty to discover the microbial group association.
 
 [Source](https://doi.org/10.1186/s40168-020-00834-9)
 
+10.1186/s40168-020-00834-9
+
 ---
 
-## A practical guide to amplicon and metagenomic analysis of microbiome data
+## A practical guide to amplicon and metagenomic analysis of microbiome data.
+ 12.05.2020, _YX Liu, Y Qin, T Chen, M Lu, X Qian, X Guo, Y Bai_
+
+
+Advances in high-throughput sequencing (HTS) have fostered rapid developments in the field of microbiome research, and massive microbiome datasets are now being generated. However, the diversity of software tools and the complexity of analysis pipelines make it difficult to access this field. Here, we systematically summarize the advantages and limitations of microbiome methods. Then, we recommend specific pipelines for amplicon and metagenomic analyses, and describe commonly-used software and databases, to help researchers select the appropriate tools. Furthermore, we introduce statistical and visualization methods suitable for microbiome analysis, including alpha- and beta-diversity, taxonomic composition, difference comparisons, correlation, networks, machine learning, evolution, source tracing, and common visualization styles to help researchers make informed choices. Finally, a step-by-step reproducible analysis guide is introduced. We hope this review will allow researchers to carry out data analysis more effectively and to quickly select the appropriate tools in order to efficiently mine the biological significance behind the data.
 
 [Source](https://doi.org/10.1007/s13238-020-00724-8)
 
+10.1007/s13238-020-00724-8
+
 ---
 
-## TAMA: improved metagenomic sequence classification through meta-analysis
+## TAMA: improved metagenomic sequence classification through meta-analysis.
+ 13.05.2020, _M Sim, J Lee, D Lee, D Kwon, J Kim_
+
+
+Microorganisms are important occupants of many different environments. Identifying the composition of microbes and estimating their abundance promote understanding of interactions of microbes in environmental samples. To understand their environments more deeply, the composition of microorganisms in environmental samples has been studied using metagenomes, which are the collections of genomes of the microorganisms. Although many tools have been developed for taxonomy analysis based on different algorithms, variability of analysis outputs of existing tools from the same input metagenome datasets is the main obstacle for many researchers in this field.
 
 [Source](https://doi.org/10.1186/s12859-020-3533-7)
+
+10.1186/s12859-020-3533-7
 
 ---
 
@@ -184,9 +239,15 @@ Recently, we reported that some dairy cows could produce high amounts of milk wi
 
 ---
 
-## FAIR Data Sharing: The Roles of Common Data Elements and Harmonization
+## FAIR Data Sharing: The Roles of Common Data Elements and Harmonization.
+ 14.05.2020, _RD Kush, D Warzel, MA Kush, A Sherman, EA Navarro, R Fitzmartin, F Pétavy, J Galvez, LB Becnel, FL Zhou, N Harmon, B Jauregui, T Jackson, L Hudson_
+
+
+The value of robust and responsible data sharing in clinical research and healthcare is recognized by patients, patient advocacy groups, researchers, journal editors, and the healthcare industry globally. Privacy and security concerns acknowledged, the act of exchanging data (interoperability) along with its meaning (semantic interoperability) across studies and between partners has been difficult, if not elusive. For shared data to retain its value, a recommendation has been made to follow the Findable, Accessible, Interoperable, Reusable (FAIR) principles. Without applying appropriate data exchange standards with domain-relevant content standards and accessible rich metadata that uses applicable terminologies, interoperability is burdened by the need for transformation and/or mapping. These obstacles to interoperability limit the findability, accessibility and reusability of data, thus diminishing its value and making it impossible to adhere to FAIR principles. One effort to standardize data collection has been through common data elements (CDEs). CDEs are data collection units comprising one or more questions together with a set of valid values. Some CDEs contain standardized terminology concepts that define the meaning of the data, and others include links to unique terminology concept identifiers and unique identifiers for each CDE; however, usually CDEs are defined for specific projects or collaborations and lack traceable or machine readable semantics. While the name implies that these are 'common', this has not necessarily been a requirement, and many CDEs have not been commonly used. The National Institutes of Health (NIH) CDEs are, in fact, a conglomerate of CDEs developed in silos by various NIH institutes. Therefore, CDEs have not brought the anticipated benefit to the industry through widescale interoperability, nor is there widespread reuse of CDEs. Certain institutes in the NIH recommend, albeit do not enforce, institute-specific preferred CDEs; however, at the NIH level a preponderance of choice and a lack of any overarching harmonization of CDEs or consistency in linking them to controlled terminology or common identifiers create confusion for researchers in their efforts to identify the best CDEs for their protocol. The problem of comparing data among studies is exacerbated when researchers select different CDEs for the same variable or data collection field. This manuscript explores reasons for the disappointingly low adoption of CDEs and the inability of CDEs or other clinical research standards to broadly solve the interoperability and data sharing problems. Recommendations are offered for rectifying this situation to enable responsible data sharing that will help in adherence to FAIR principles and the realization of Learning Health Systems for the sake of all of us as patients.
 
 [Source](https://doi.org/10.1016/j.jbi.2020.103421)
+
+10.1016/j.jbi.2020.103421
 
 ---
 
