@@ -113,14 +113,8 @@ The prevalence of metabolic-syndrome-related disease has strongly increased. Nut
 ---
 
 ## nirS-type denitrifying bacterial communities in relation to soil physicochemical conditions and soil depths of two montane riparian meadows in North China.
- 17.05.2020, _X Han, C Huang, S Khan, Y Zhang, Y Chen, J Guo_
-
-
-Mountain riparian zones are excellent buffers for protecting aquatic ecosystems from nutrient runoff in nitrogen deposition processes due to fertilization and manure. Denitrification is a critical process for transferring soil N to the atmosphere. Denitrifying bacterial communities in soil are indicative of the soil quality of a functional ecosystem. We investigated the effects of physicochemical properties of soil on the diversity and activity of denitrifiers in the top-soil and sub-soil of two typical montane riparian meadows: a multi-colored and a flood-plain meadow. Illumina MiSeq 2500 sequencing of nirS showed that the multi-colored meadow had greater diversity and abundance of nirS-type denitrifiers than the flood-plain meadow and that the total N content, ammonium content, and denitrification enzyme activity (DEA) in soil differed significantly between the two types of meadows. The abundances of dominant denitrifiers at phylum and genus levels showed different responses to the two soil layers of the two meadow types. In top-soils, the highest abundance of Firmicutes was recorded in the multi-colored meadow, while in the flood-plain meadow, there was the highest abundance of Proteobacteria. The Actinobacteria abundance was the highest in top-soil and sub-soil of the flood-plain meadow. The abundance of Chloroflexi was the highest in top-soil of the flood-plain meadow and in sub-soil of the multi-colored meadow. The diversity of denitrifying bacteria was strongly influenced by variations of soil properties down the soil profile. Spearman's rank correlation analyses showed that the diversity and community composition of denitrifying bacteria were strongly associated with most of the soil properties. Therefore, physicochemical soil properties, and particularly the organic carbon, nitrate, and ammonium contents, influence the diversity and abundance of denitrifiers in soil.
 
 [Source](https://link.springer.com/article/10.1007%2Fs11356-020-09171-8)
-
-10.1007/s11356-020-09171-8
 
 ---
 
@@ -172,27 +166,15 @@ Mountain riparian zones are excellent buffers for protecting aquatic ecosystems 
 
 ---
 
-## Tools for successful proliferation: diverse strategies of nutrient acquisition by a benthic cyanobacterium.
- 19.05.2020, _HS Tee, D Waite, L Payne, M Middleditch, S Wood, KM Handley_
-
-
-Freshwater cyanobacterial blooms have increased worldwide, channeling organic carbon into these systems, and threatening animal health through the production of cyanotoxins. Both toxic and nontoxic Microcoleus proliferations usually occur when there are moderate concentrations of dissolved inorganic nitrogen, but when phosphorus is scarce. In order to understand how Microcoleus establishes thick biofilms (or mats) on riverbeds under phosphorus-limiting conditions, we collected Microcoleus-dominated biofilms over a 19-day proliferation event for proteogenomics. A single pair of nitrogen-dependent Microcoleus species were consistently present in relatively high abundance, although each followed a unique metabolic trajectory. Neither possessed anatoxin gene clusters, and only very low concentrations of anatoxins (~2 µg kg-1) were detected, likely originating from rarer Microcoleus species also present. Proteome allocations were dominated by photosynthesizing cyanobacteria and diatoms, and data indicate biomass was actively recycled by Bacteroidetes and Myxococcales. Microcoleus likely acquired nutrients throughout the proliferation event by uptake of nitrate, urea, and inorganic and organic phosphorus. Both species also harbored genes that could be used for inorganic phosphate solubilization with pyrroloquinoline quinone cofactors produced by cohabiting Proteobacteria. Results indicate that Microcoleus are equipped with diverse mechanisms for nitrogen and phosphorus acquisition, enabling them to proliferate and out-compete others in low-phosphorus waters.
+## Tools for successful proliferation: diverse strategies of nutrient acquisition by a benthic cyanobacterium
 
 [Source](https://www.nature.com/articles/s41396-020-0676-5)
 
-10.1038/s41396-020-0676-5
-
 ---
 
-## Metabolic diversity and co-occurrence of multiple Ferrovum species at an acid mine drainage site.
- 19.05.2020, _CL Grettenberger, JR Havig, TL Hamilton_
-
-
-Ferrovum spp. are abundant in acid mine drainage sites globally where they play an important role in biogeochemical cycling. All known taxa in this genus are Fe(II) oxidizers. Thus, co-occurring members of the genus could be competitors within the same environment. However, we found multiple, co-occurring Ferrovum spp. in Cabin Branch, an acid mine drainage site in the Daniel Boone National Forest, KY.
+## Metabolic diversity and co-occurrence of multiple Ferrovum species at an acid mine drainage site 
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01768-w)
-
-10.1186/s12866-020-01768-w
 
 ---
 
@@ -226,15 +208,9 @@ Ferrovum spp. are abundant in acid mine drainage sites globally where they play 
 
 ---
 
-## Traditional milk transformation schemes in Côte d'Ivoire and their impact on the prevalence of Streptococcus bovis complex bacteria in dairy products.
- 18.05.2020, _AR Sanhoun, SG Traoré, KDT Gboko, J Kirioua, F Kurt, N Otaru, P Iten, DWM Kaindi, B Kreikemeyer, P Renault, D Dao, J Hattendorf, L Meile, M Koussemon, C Jans, B Bonfoh_
-
-
-The Streptococcus bovis/Streptococcus equinus complex (SBSEC) and possibly Streptococcus infantarius subsp. infantarius (Sii) are associated with human and animal diseases. Sii predominate in spontaneously fermented milk products with unknown public health effects. Sii/SBSEC prevalence data from West Africa in correlation with milk transformation practices are limited. Northern Côte d'Ivoire served as study area due to its importance in milk production and consumption and to link a wider Sudano-Sahelian pastoral zone of cross-border trade. We aimed to describe the cow milk value chain and determine Sii/SBSEC prevalence with a cross-sectional study. Dairy production practices were described as non-compliant with basic hygiene standards. The system is influenced by secular sociocultural practices and environmental conditions affecting product properties. Phenotypic and molecular analyses identified SBSEC in 27/43 (62.8%) fermented and 26/67 (38.8%) unfermented milk samples. Stratified by collection stage, fermented milk at producer and vendor levels featured highest SBSEC prevalence of 71.4% and 63.6%, respectively. Sii with 62.8% and 38.8% as well as Streptococcus gallolyticus subsp. macedonicus with 7.0% and 7.5% were the predominant SBSEC species identified among fermented and unfermented milk samples, respectively. The population structure of Sii/SBSEC isolates seems to reflect evolving novel dairy-adapted, non-adapted and potentially pathogenic lineages. Northern Côte d'Ivoire was confirmed as area with high Sii presence in dairy products. The observed production practices and the high diversity of Sii/SBSEC supports in-depth investigations on Sii ecology niche, product safety and related technology in the dairy value chain potentially affecting large population groups across sub-Saharan Africa.
+## Traditional milk transformation schemes in Côte d’Ivoire and their impact on the prevalence of Streptococcus bovis complex bacteria in dairy products
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233132)
-
-10.1371/journal.pone.0233132
 
 ---
 
@@ -251,27 +227,8 @@ The Streptococcus bovis/Streptococcus equinus complex (SBSEC) and possibly Strep
 ---
 
 ## Are pangolins the intermediate host of the 2019 novel coronavirus (SARS-CoV-2)?
- 19.05.2020, _P Liu, JZ Jiang, XF Wan, Y Hua, L Li, J Zhou, X Wang, F Hou, J Chen, J Zou, J Chen_
-
-
-_Animals, Betacoronavirus, Coronaviridae, Coronavirus Infections, Disease Reservoirs, Eutheria, Host Specificity, Humans, Pandemics, Phylogeny, Pneumonia, Viral, Sequence Homology, Nucleic Acid, Zoonoses_
-The outbreak of a novel corona Virus Disease 2019 (COVID-19) in the city of Wuhan, China has resulted in more than 1.7 million laboratory confirmed cases all over the world. Recent studies showed that SARS-CoV-2 was likely originated from bats, but its intermediate hosts are still largely unknown. In this study, we assembled the complete genome of a coronavirus identified in 3 sick Malayan pangolins. The molecular and phylogenetic analyses showed that this pangolin coronavirus (pangolin-CoV-2020) is genetically related to the SARS-CoV-2 as well as a group of bat coronaviruses but do not support the SARS-CoV-2 emerged directly from the pangolin-CoV-2020. Our study suggests that pangolins are natural hosts of Betacoronaviruses. Large surveillance of coronaviruses in pangolins could improve our understanding of the spectrum of coronaviruses in pangolins. In addition to conservation of wildlife, minimizing the exposures of humans to wildlife will be important to reduce the spillover risks of coronaviruses from wild animals to humans.
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008421)
-
-10.1371/journal.ppat.1008421
-
----
-
-## Vector competence of Aedes aegypti from New Caledonia for the four recent circulating dengue virus serotypes.
- 14.05.2020, _O O'Connor, E Calvez, C Inizan, N Pocquet, V Richard, M Dupont-Rouzeyrol_
-
-
-In New Caledonia (NC), Aedes aegypti is the only proven vector of dengue virus (DENV), which is the most prevalent arbovirosis in NC. Since World War II, the four DENV serotypes have circulated regularly in NC. The epidemiological profile, however, has evolved over the last ten years, with the persistence of DENV-1 circulation and the co-circulation of several DENV serotypes. The current study evaluated the ability of Ae. aegypti from NC to transmit four DENV serotypes (and two DENV-1 genotypes) isolated during recent outbreaks in NC. An Ae. aegypti F1 generation was twice independently orally challenged with each DENV strain (107 FFU/ml). Infection, dissemination and transmission rates and transmission efficiency were measured at day 7 and 14 post-exposure, as well as the quantity of infectious virus particles. Mosquito infection was observed as early as 7 days post-infection. Infection rates between 18 and 58% were measured for all DENV serotypes/genotypes tested. Although dissemination rates ranged from 78 to 100%, transmission efficiencies were low, with values not exceeding 21% at 14 days post-infection for all DENV strains. This study shows that NC Ae. aegypti are moderately competent for DENV in laboratory conditions. In link with epidemiological data, these results suggest implication of other factors in the sustained circulation of DENV-1 in New Caledonia.
-
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008303)
-
-10.1371/journal.pntd.0008303
 
 ---
 
@@ -287,15 +244,9 @@ In New Caledonia (NC), Aedes aegypti is the only proven vector of dengue virus (
 
 ---
 
-## Assessing the accuracy of phylogenetic rooting methods on prokaryotic gene families.
- 18.05.2020, _T Wade, LT Rangel, S Kundu, GP Fournier, MS Bansal_
-
-
-Almost all standard phylogenetic methods for reconstructing gene trees result in unrooted trees; yet, many of the most useful applications of gene trees require that the gene trees be correctly rooted. As a result, several computational methods have been developed for inferring the root of unrooted gene trees. However, the accuracy of such methods has never been systematically evaluated on prokaryotic gene families, where horizontal gene transfer is often one of the dominant evolutionary events driving gene family evolution. In this work, we address this gap by conducting a thorough comparative evaluation of five different rooting methods using large collections of both simulated and empirical prokaryotic gene trees. Our simulation study is based on 6000 true and reconstructed gene trees on 100 species and characterizes the rooting accuracy of the four methods under 36 different evolutionary conditions and 3 levels of gene tree reconstruction error. The empirical study is based on a large, carefully designed data set of 3098 gene trees from 504 bacterial species (406 Alphaproteobacteria and 98 Cyanobacteria) and reveals insights that supplement those gleaned from the simulation study. Overall, this work provides several valuable insights into the accuracy of the considered methods that will help inform the choice of rooting methods to use when studying microbial gene family evolution. Among other findings, this study identifies parsimonious Duplication-Transfer-Loss (DTL) rooting and Minimal Ancestor Deviation (MAD) rooting as two of the most accurate gene tree rooting methods for prokaryotes and specifies the evolutionary conditions under which these methods are most accurate, demonstrates that DTL rooting is highly sensitive to high evolutionary rates and gene tree error, and that rooting methods based on branch-lengths are generally robust to gene tree reconstruction error.
+## Assessing the accuracy of phylogenetic rooting methods on prokaryotic gene families
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232950)
-
-10.1371/journal.pone.0232950
 
 ---
 
