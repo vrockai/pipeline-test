@@ -1,228 +1,270 @@
-## Tryptophan as a Central Hub for Host/Microbial Symbiosis.
- 21.05.2020, _M Borghi, M Puccetti, M Pariano, G Renga, C Stincardini, M Ricci, S Giovagnoli, C Costantini, L Romani_
+## Virtual Microbiome Summit
 
-
-Amino acid catabolism occurs during inflammation and regulates innate and adaptive immunity. The role of commensal bacteria in amino acid catabolism and the production of metabolites able to regulate the development and function of the innate immune system is increasingly being recognized. Therefore, commensal bacteria are key players in the maintenance of immune homeostasis. However, the intestinal microbiota also contributes to susceptibility and response to infectious diseases. This is self-evident for fungal infections known to occur as a consequence of weakened immune system and broad-spectrum antibiotic use or abuse. Thus, diseases caused by opportunistic fungi can no longer be viewed as dependent only on a weakened host but also on a disrupted microbiota. Based on these premises, the present review focuses on the role of amino acid metabolic pathways in the dialogue between the mammalian host and its microbiota and the potential implications in fungal commensalism and infectivity.
-
-[Source](https://journals.sagepub.com/doi/full/10.1177/1178646920919755)
-
-10.1177/1178646920919755
+[Source](https://www.virtualmicrobiomesummit.com/)
 
 ---
 
-## Host-microbiome interactions: the aryl hydrocarbon receptor as a critical node in tryptophan metabolites to brain signaling.
- 13.05.2020, _N Ma, T He, LJ Johnston, X Ma_
+## Women’s multisite&nbsp;microbial&nbsp;modulation during pregnancy
 
-
-Tryptophan (Trp) is not only a nutrient enhancer but also has systemic effects. Trp metabolites signaling through the well-known aryl hydrocarbon receptor (AhR) constitute the interface of microbiome-gut-brain axis. However, the pathway through which Trp metabolites affect central nervous system (CNS) function have not been fully elucidated. AhR participates in a broad variety of physiological and pathological processes that also highly relevant to intestinal homeostasis and CNS diseases. Via the AhR-dependent mechanism, Trp metabolites connect bidirectional signaling between the gut microbiome and the brain, mediated via immune, metabolic, and neural (vagal) signaling mechanisms, with downstream effects on behavior and CNS function. These findings shed light on the complex Trp regulation of microbiome-gut-brain axis and add another facet to our understanding that dietary Trp is expected to be a promising noninvasive approach for alleviating systemic diseases.
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1758008)
-
-10.1080/19490976.2020.1758008
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020305179)
 
 ---
 
-## Visualizing the invisible: class excursions to ignite children's enthusiasm for microbes.
- 16.05.2020, _TJ McGenity, A Gessesse, JE Hallsworth, E Garcia Cela, C Verheecke-Vaessen, F Wang, M Chavarría, MM Haggblom, S Molin, A Danchin, EJ Smid, C Lood, CS Cockell, C Whitby, SJ Liu, NP Keller, LY Stein, SR Bordenstein, R Lal, OC Nunes, L Gram, BK Singh, NS Webster, C Morris, S Sivinski, S Bindschedler, P Junier, A Antunes, BK Baxter, P Scavone, K Timmis_
+## Bi-Directional Interactions Between Microbiota and Ionizing Radiation in Head and Neck and Pelvic Radiotherapy - Clinical Relevance.
+ 18.05.2020, _NT Joseph, SR Shankar, RK Narasimhamurthy, S Bola Sadashiva Rao, KD Mumbrekar_
 
 
-We have recently argued that, because microbes have pervasive - often vital - influences on our lives, and that therefore their roles must be taken into account in many of the decisions we face, society must become microbiology-literate, through the introduction of relevant microbiology topics in school curricula (Timmis et al. 2019. Environ Microbiol 21: 1513-1528). The current coronavirus pandemic is a stark example of why microbiology literacy is such a crucial enabler of informed policy decisions, particularly those involving preparedness of public-health systems for disease outbreaks and pandemics. However, a significant barrier to attaining widespread appreciation of microbial contributions to our well-being and that of the planet is the fact that microbes are seldom visible: most people are only peripherally aware of them, except when they fall ill with an infection. And it is disease, rather than all of the positive activities mediated by microbes, that colours public perception of 'germs' and endows them with their poor image. It is imperative to render microbes visible, to give them life and form for children (and adults), and to counter prevalent misconceptions, through exposure to imagination-capturing images of microbes and examples of their beneficial outputs, accompanied by a balanced narrative. This will engender automatic mental associations between everyday information inputs, as well as visual, olfactory and tactile experiences, on the one hand, and the responsible microbes/microbial communities, on the other hand. Such associations, in turn, will promote awareness of microbes and of the many positive and vital consequences of their actions, and facilitate and encourage incorporation of such consequences into relevant decision-making processes. While teaching microbiology topics in primary and secondary school is key to this objective, a strategic programme to expose children directly and personally to natural and managed microbial processes, and the results of their actions, through carefully planned class excursions to local venues, can be instrumental in bringing microbes to life for children and, collaterally, their families. In order to encourage the embedding of microbiology-centric class excursions in current curricula, we suggest and illustrate here some possibilities relating to the topics of food (a favourite pre-occupation of most children), agriculture (together with horticulture and aquaculture), health and medicine, the environment and biotechnology. And, although not all of the microbially relevant infrastructure will be within reach of schools, there is usually access to a market, local food store, wastewater treatment plant, farm, surface water body, etc., all of which can provide opportunities to explore microbiology in action. If children sometimes consider the present to be mundane, even boring, they are usually excited with both the past and the future so, where possible, visits to local museums (the past) and research institutions advancing knowledge frontiers (the future) are strongly recommended, as is a tapping into the natural enthusiasm of local researchers to leverage the educational value of excursions and virtual excursions. Children are also fascinated by the unknown, so, paradoxically, the invisibility of microbes makes them especially fascinating objects for visualization and exploration. In outlining some of the options for microbiology excursions, providing suggestions for discussion topics and considering their educational value, we strive to extend the vistas of current class excursions and to: (i) inspire teachers and school managers to incorporate more microbiology excursions into curricula; (ii) encourage microbiologists to support school excursions and generally get involved in bringing microbes to life for children; (iii) urge leaders of organizations (biopharma, food industries, universities, etc.) to give school outreach activities a more prominent place in their mission portfolios, and (iv) convey to policymakers the benefits of providing schools with funds, materials and flexibility for educational endeavours beyond the classroom.
+Purpose: Rapid developments in high throughput screening technology for the detection and identification of the human microbiota have helped in understanding its influence on human health and disease. In the recent past, several seminal studies have demonstrated the influence of microbiota on outcomes of therapy-associated radiation exposure. In this review, we highlight the concepts related to the mechanisms by which radiation alters the microbiota composition linked with radiation-associated toxicity in head and neck and pelvic regions. We further discuss specific microbial changes that can be employed as a biomarker for radiation and tumor response.Conclusion: Knowledge of the influence of microbiota in radiation response and advances in microbiota manipulation techniques would help to design personalized treatment augmenting the efficacy of radiotherapy.
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1751-7915.13576)
+[Source](https://www.tandfonline.com/doi/full/10.1080/09553002.2020.1770361)
 
-10.1111/1751-7915.13576
-
----
-
-## Stachyose increases intestinal barrier through Akkermansia muciniphila and reduces gut inflammation in germ-free mice after human fecal transplantation
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996920303136)
+10.1080/09553002.2020.1770361
 
 ---
 
-## Microbial succession during the transition from active to inactive stages of deep-sea hydrothermal vent sulfide chimneys
+## Defining the oral&nbsp;microbiome&nbsp;by whole-genome sequencing and&nbsp;resistome&nbsp;analysis: the complexity of the healthy picture
 
-[Source](https://assets.researchsquare.com/files/rs-16462/v2.pdf)
-
----
-
-## Neutralizing antibody and soluble ACE2 inhibition of a replication-competent VSV-SARS-CoV-2 and a clinical isolate of SARS-CoV-2.
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/05/18/2020.05.18.102038.full.pdf)
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01801-y)
 
 ---
 
-## Repurposing of Miglustat to inhibit the coronavirus Severe Acquired Respiratory Syndrome SARS-CoV-2
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/05/18/2020.05.18.101691.full.pdf)
-
----
-
-## Effects of parity, blood progesterone, and non-steroidal anti-inflammatory treatment on the dynamics of the uterine microbiota of healthy postpartum dairy cows
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/05/18/2020.05.18.101766.full.pdf)
-
----
-
-## Multi-omics reveals that the rumen microbiome and its metabolome together with the host metabolome contribute to individualized dairy cow performance.
- 19.05.2020, _MY Xue, HZ Sun, XH Wu, JX Liu, LL Guan_
+## Ketogenic Diets Alter the Gut Microbiome Resulting in Decreased Intestinal Th17 Cells.
+ 21.05.2020, _QY Ang, M Alexander, JC Newman, Y Tian, J Cai, V Upadhyay, JA Turnbaugh, E Verdin, KD Hall, RL Leibel, E Ravussin, M Rosenbaum, AD Patterson, PJ Turnbaugh_
 
 
-Recently, we reported that some dairy cows could produce high amounts of milk with high amounts of protein (defined as milk protein yield [MPY]) when a population was raised under the same nutritional and management condition, a potential new trait that can be used to increase high-quality milk production. It is unknown to what extent the rumen microbiome and its metabolites, as well as the host metabolism, contribute to MPY. Here, analysis of rumen metagenomics and metabolomics, together with serum metabolomics was performed to identify potential regulatory mechanisms of MPY at both the rumen microbiome and host levels.
+Very low-carbohydrate, high-fat ketogenic diets (KDs) induce a pronounced shift in metabolic fuel utilization that elevates circulating ketone bodies; however, the consequences of these compounds for host-microbiome interactions remain unknown. Here, we show that KDs alter the human and mouse gut microbiota in a manner distinct from high-fat diets (HFDs). Metagenomic and metabolomic analyses of stool samples from an 8-week inpatient study revealed marked shifts in gut microbial community structure and function during the KD. Gradient diet experiments in mice confirmed the unique impact of KDs relative to HFDs with a reproducible depletion of bifidobacteria. In vitro and in vivo experiments showed that ketone bodies selectively inhibited bifidobacterial growth. Finally, mono-colonizations and human microbiome transplantations into germ-free mice revealed that the KD-associated gut microbiota reduces the levels of intestinal pro-inflammatory Th17 cells. Together, these results highlight the importance of trans-kingdom chemical dialogs for mediating the host response to dietary interventions.
 
-[Source](https://microbiomejournal.biomedcentral.com/track/pdf/10.1186/s40168-020-00819-8)
+[Source](https://www.sciencedirect.com/science/article/pii/S0092867420304906)
 
-10.1186/s40168-020-00819-8
+10.1016/j.cell.2020.04.027
 
 ---
 
-## Applying Differential Neural Networks to Characterize Microbial Interactions in an Ex Vivo Gastrointestinal Gut Simulator
+## Ketogenic diets alter the gut microbiome resulting in decreased intestinal Th17 cells
 
-[Source](https://www.mdpi.com/2227-9717/8/5/593)
-
----
-
-## Longitudinal Study of Oral Microbiome Variation in Twins.
- 15.05.2020, _M Freire, A Moustafa, DM Harkins, MG Torralba, Y Zhang, P Leong, R Saffery, M Bockmann, C Kuelbs, T Hughes, JM Craig, KE Nelson_
-
-
-Humans are host to a multitude of microorganisms that rapidly populate the body at birth, subject to a complex interplay that is dependent on host genetics, lifestyle, and environment. The host-associated microbiome, including the oral microbiome, presents itself in a complex ecosystem important to health and disease. As the most common chronic disease globally, dental caries is induced by host-microbial dysbiosis in children and adults. Multiple biological and environmental factors are likely to impact disease predisposition, onset, progression, and severity, yet longitudinal studies able to capture these influences are missing. To investigate how host genetics and environment influenced the oral microbial communities over time, we profiled supragingival plaque microbiomes of dizygotic and monozygotic twins during 3 visits over 12-months. Dental plaque DNA samples were amplified by targeting the 16S rRNA gene V4 region, and microbial findings were correlated with clinical, diet and genetic metadata. We observed that the oral microbiome variances were shaped primarily by the environment when compared to host genetics. Among the environmental factors shaping microbial changes of our subjects, significant metadata included age of the subject, and the age by which subjects initiated brushing habits, and the types of actions post-brushing. Relevant heritability of the microbiome included Actinomyces and Capnocytophaga in monozygotic twins and Kingella in dizygotic twins. Corynebacterium and Veillonella abundances were associated with age, whereas Aggregatibacter was associated with younger subjects. Streptococcus abundance showed an inverse association over time, and Selenomonas abundances increased with brushing frequency per day. Unraveling the exact biological mechanisms in caries has the potential to reveal novel host-microbial biomarkers, pathways, and targets important to effective preventive measures, and early disease control in children.
-
-[Source](https://www.nature.com/articles/s41598-020-64747-1)
-
-10.1038/s41598-020-64747-1
+[Source](https://www.sciencedirect.com/science/article/pii/S0092867420304906)
 
 ---
 
-## Longitudinal Study of Oral Microbiome Variation in Twins<br>M Freire et al.
+## Host genetic and environmental factors shape the human gut resistome
 
-[Source](https://www.nature.com/articles/s41598-020-64747-1)
-
----
-
-## Antimicrobial peptide GH12 prevents dental caries by regulating dental plaque microbiota.
- 16.05.2020, _W Jiang, Y Wang, J Luo, X Chen, Y Zeng, X Li, Z Feng, L Zhang_
-
-
-Due to the complex microecology and microenvironment of dental plaque, novel caries prevention strategies require modulating the microbial communities ecologically and reducing the cariogenic properties effectively. Antimicrobial peptide GH12 reduced the lactic acid production and exopolysaccharides (EPS) synthesis of the Streptococcus mutans biofilm and the three-species biofilm in vitro in the previous studies. However, the anticaries effects and microecological effects of GH12 remained to be investigated in the complex biofilm model in vitro and the animal caries model in vivo In the present study, GH12 at 64 mg/mL showed the most effective inhibition on lactic acid production, EPS synthesis, pH decline and biofilm integrity of the human dental plaque-derived multispecies biofilms in vitro, and GH12 at 64 mg/L was therefore chosen for subsequent assays in vitro and in vivo When treated with 64 mg/L GH12, the dental plaque-derived multispecies biofilms sampled from the healthy volunteers maintained the microbial diversity and showed a similar microbial community structure to the control group. In the rat caries model with a caries-promoting diet, 64 mg/L GH12 regulated the microbiota of dental plaque, where the abundance of caries-associated bacteria was decreased and the abundance of commensal bacteria was increased. In addition, 64 mg/L GH12 significantly reduced the caries scores of sulcal and smooth surface caries in all locations. In conclusion, GH12 could inhibit the cariogenic properties of dental plaque without perturbing the dental plaque microbiota of healthy individuals, and GH12 could regulate the dysbiotic microbial ecology and arrest caries development under cariogenic conditions.Importance The anticaries effects and microecological regulation effects of antimicrobial peptide GH12 were evaluated systematically in vitro and in vivo GH12 inhibited the cariogenic virulence of dental plaque without over-intervening in the microbial ecology of healthy individuals in vitro GH12 regulated the microbial ecology of dental plaque to a certain extent in vivo under cariogenic conditions, increased the proportion of commensal bacteria, and decreased the abundance of caries-associated bacteria. GH12 could significantly suppress the incidence and severity of dental caries in vivo This study provided an alternative antimicrobial therapy for the treatment of dental caries.
-
-[Source](https://aem.asm.org/content/early/2020/05/11/AEM.00527-20.abstract)
-
-10.1128/AEM.00527-20
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.18.092973v1.full)
 
 ---
 
-## Taxonomic and functional profiling of nitrifying biofilms in freshwater, brackish and marine RAS biofilters
+## MinION Sequencing of colorectal cancer tumour microbiomes-A comparison with amplicon-based and RNA-Sequencing.
+ 20.05.2020, _WS Taylor, J Pearson, A Miller, S Schmeier, FA Frizelle, RV Purcell_
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0144860920300340)
 
----
+Recent evidence suggests a role for the gut microbiome in the development and progression of many diseases and many studies have been carried out to analyse the microbiome using a variety of methods. In this study, we compare MinION sequencing with meta-transcriptomics and amplicon-based sequencing for microbiome analysis of colorectal tumour tissue samples.
 
-## Preprint: Structure and regulation of the cervicovaginal microbiome in a cohort of Afro-Caribbean women
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233170)
 
-[Source](https://assets.researchsquare.com/files/rs-27657/v1_stamped.pdf)
-
----
-
-## Rotavirus infection induces glycan availability to promote ileum-specific changes in the microbiome aiding rotavirus virulence
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1754714)
+10.1371/journal.pone.0233170
 
 ---
 
-## The Changes of Gut Microbiota in Drug-Naïve First-Episode MDD Patients Under Treatment by SSRIs
+## Broilers divergently selected for digestibility differ for their digestive microbial ecosystems.
+ 18.05.2020, _M Borey, J Estellé, A Caidi, N Bruneau, JL Coville, C Hennequet-Antier, S Mignon-Grasteau, F Calenge_
 
-[Source](https://assets.researchsquare.com/files/rs-25341/v1.pdf)
 
----
+Improving the digestive efficiency of broiler chickens (Gallus gallus) could reduce organic waste, increase the use of alternative feed not used for human consumption and reduce the impact of feed in production costs. By selecting chicken lines divergently for their digestive efficiency, we showed previously that digestive efficiency is under genetic control and that the two resulting divergent lines, D+ (high digestive efficiency or "digestibility +") and D- (low digestive efficiency or "digestibility -"), also differ for the abundance of specific bacteria in their caeca. Here we perform a more extensive census of the bacteria present in the digestive microbiota of 60 chickens selected for their low apparent metabolizable energy corrected for nitrogen balance (AMEn-) or high (AMEn+) digestive efficiency in a [D+ x D-] F8 progeny of 200 individuals. We sequenced the 16S rRNA genes of the ileal, jejunal and caecal microbiotas, and compared the compositions and predicted functions of microbiotas from the different intestinal segments for 20 AMEn+ and 19 AMEn- birds. The intestinal segment of origin was the main factor structuring the samples. The caecal microbiota was the most impacted by the differences in digestive efficiency, with 41 bacterial species with abundances differing between highly and poorly efficient birds. Furthermore, we predicted that the caecal microbiota of efficient birds might be enriched in genes contributing to the degradation of short chain fatty acids (SCFA) from non-starch polysaccharides. These results confirm the impact of the genetic selection led on digestibility on the caecal microbiota taxonomic composition. They open the way toward the identification of specific, causal genes of the host controlling variations in the abundances of bacterial taxons.
 
-## Interaction between drugs and the gut microbiome<br>RK Weersma at al.
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232418)
 
-[Source](https://gut.bmj.com/content/gutjnl/early/2020/05/14/gutjnl-2019-320204.full.pdf)
-
----
-
-## The Therapeutic Optimization of the Gut Microbiota in Diabetes Management
-
-[Source](https://journals.sagepub.com/doi/abs/10.1177/2633559X20911730)
+10.1371/journal.pone.0232418
 
 ---
 
-## Improved viability of Akkermansia muciniphila by encapsulation in spray dried succinate-grafted alginate doped with epigallocatechin-3-gallate
+## Dietary Isomalto/Malto-Polysaccharides Increase Fecal Bulk and Microbial Fermentation in Mice.
+ 14.05.2020, _RH Mistry, K Borewicz, F Gu, HJ Verkade, HA Schols, H Smidt, UJF Tietge_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0141813020332013)
 
----
+The prevalence of metabolic-syndrome-related disease has strongly increased. Nutritional intervention strategies appear attractive, particularly with novel prebiotics. Isomalto/malto-polysaccharides (IMMPs) represent promising novel prebiotics that promote proliferation of beneficial bacteria in vitro. The present study investigates for the first time the in vivo effects of IMMP in mice.
 
-## The probiotic L. casei LC-XCAL™ improves metabolic health in a diet-induced obesity mouse model without altering the microbiome
+[Source](https://onlinelibrary.wiley.com/doi/full/10.1002/mnfr.202000251)
 
-[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1747330)
-
----
-
-## Patients infected with Mycobacterium africanum versus Mycobacterium tuberculosis possess distinct intestinal microbiota
-
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008230)
+10.1002/mnfr.202000251
 
 ---
 
-## Sphingolipids produced by gut bacteria enter host metabolic pathways impacting ceramide levels
+## Longitudinal Effects of Dietary Oxidized Lipids on the Gut&nbsp;Microbiome&nbsp;and Mycobiome in Pigs
 
-[Source](https://www.nature.com/articles/s41467-020-16274-w)
-
----
-
-## Sleep, Circadian Rhythm, and Gut Microbiota
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1087079220300836)
+[Source](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.09676)
 
 ---
 
-## C9orf72 suppresses systemic and neural inflammation induced by gut bacteria
+## Single-cell amplicon sequencing reveals community structures and transmission trends of protist-associated&nbsp;bacteria in a&nbsp;termite host
 
-[Source](https://www.nature.com/articles/s41586-020-2288-7)
-
----
-
-## Human Microbiome Market Insights &amp; Deep Analysis, Future Scenario Till 2025 | Enterome …
-
-[Source](https://www.newsdistinct.com/human-microbiome-market-insights-deep-analysis-future-scenario-till-2025-enterome-microbiome-therapeutics-llc-rebiotix-inc-yakult-honsha-co-ltd-osel-inc-vedanta-biosciences/)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233065)
 
 ---
 
-## COVID-19 Impact on Human Microbiome Sequencing Technology Market Research Report …
+## <em>Xylella fastidiosa </em>subsp.<em> pauca</em>&nbsp;and olive produced lipids moderate the switch adhesive versus non-adhesive state and viceversa
 
-[Source](https://3wnews.org/uncategorised/880709/covid-19-impact-on-human-microbiome-sequencing-technology-market-research-report-growth-trends-and-competitive-analysis-2020-2025/)
-
----
-
-## Pre, pro- and microbiotics and your business
-
-[Source](https://www.naturalproductsinsider.com/regulatory/pre-pro-and-microbiotics-and-your-business)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233013)
 
 ---
 
-## Microbiome Sequencing Services Market Types, Applications And Competitors 2019-2025 …
+## Mitochondrial genome sequence of <em>Phytophthora sansomeana</em>&nbsp;and comparative analysis of <em>Phytophthora</em> mitochondrial genomes
 
-[Source](https://www.openpr.com/news/2049889/microbiome-sequencing-services-market-types-applications)
-
----
-
-## PGR decision provides much-needed clarity in fast-growing microbiome space
-
-[Source](https://www.iam-media.com/litigation/pgr-decision-provides-much-needed-clarity-in-fast-growing-microbiome-space)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231296)
 
 ---
 
-## Human Microbiome Market Research Report 2020 By Size, Share, Trends, Analysis and Forecast …
+## nirS-type denitrifying bacterial communities in relation to soil physicochemical conditions and soil depths of two montane riparian meadows in North China.
 
-[Source](https://coleofduty.com/military-news/2020/05/16/human-microbiome-market-research-report-2020-by-size-share-trends-analysis-and-forecast-to-2026/)
+[Source](https://link.springer.com/article/10.1007%2Fs11356-020-09171-8)
 
 ---
 
-## Human Microbiome Market size, historical growth, analysis, opportunities and forecast to 2026 …
+## Tissue-Specific Dynamics in the Endophytic Bacterial Communities in Arctic Pioneer Plant Oxyria digyna
 
-[Source](https://surfacingmagazine.net/human-microbiome-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-dohme-corp-seres-therapeutics-synthetic-biologics-inc-synlogic/)
+[Source](https://www.researchgate.net/profile/Riitta_Nissinen/publication/341343794_Tissue-Specific_Dynamics_in_the_Endophytic_Bacterial_Communities_in_Arctic_Pioneer_Plant_Oxyria_digyna/links/5ebbac4a92851c11a8651028/Tissue-Specific-Dynamics-in-the-Endophytic-Bacterial-Communities-in-Arctic-Pioneer-Plant-Oxyria-digyna.pdf)
+
+---
+
+## Effects of Cultured Root and Soil&nbsp;Microbial Communities&nbsp;on the Disease of <em>Nicotiana tabacum</em> Caused by <em>Phytophthora nicotianae</em>
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00929/full)
+
+---
+
+## Novel putative rhizobial species with different symbiovars nodulate <em>Lotus creticus</em> and their differential preference to distinctive soil properties
+
+[Source](https://academic.oup.com/femsle/advance-article-abstract/doi/10.1093/femsle/fnaa084/5838745)
+
+---
+
+## The microbiome of alpine snow algae shows a specific inter-kingdom connectivity and algae-bacteria interactions with supportive capacities
+
+[Source](https://www.nature.com/articles/s41396-020-0677-4)
+
+---
+
+## Variation of near surface atmosphere&nbsp;microbial communities&nbsp;at an urban and a suburban site in Philadelphia, PA, USA
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969720318660)
+
+---
+
+## Pilot-scale petroleum refinery wastewaters treatment systems: performance and&nbsp;microbial communities’ analysis
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0957582020307230)
+
+---
+
+## Adverse effects of levofloxacin and oxytetracycline on aquatic&nbsp;microbial communities
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969720330163)
+
+---
+
+## Application of&nbsp;microbial&nbsp;network analysis to discriminate environmental heterogeneity in Fildes Peninsula, Antarctica
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0025326X20303623)
+
+---
+
+## Tools for successful proliferation: diverse strategies of nutrient acquisition by a benthic cyanobacterium
+
+[Source](https://www.nature.com/articles/s41396-020-0676-5)
+
+---
+
+## Metabolic diversity and co-occurrence of multiple Ferrovum species at an acid mine drainage site 
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01768-w)
+
+---
+
+## <em>Halocatena pleomorpha </em>gen. nov. sp. nov., an extremely halophilic archaeon of family <em>Halobacteriaceae</em> isolated from saltpan soil
+
+[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004222)
+
+---
+
+## Unveiling Cultivable and Uncultivable Halophilic Bacteria Inhabiting Marakkanam Saltpan, India and Their Potential for Biotechnological Applications
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/01490451.2020.1764676?journalCode=ugmb20)
+
+---
+
+## <em>Flavobacterium profundi</em> sp. nov., isolated fro
+
+[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004205)
+
+---
+
+## m a deep-sea seamount
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004205&hl=en&sa=X&d=16162591654136911277&scisig=AAGBfm0p8EPCBsYti8l_3m_AZQa2SSWdCQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q)
+
+---
+
+## Molecular epidemiology, genetic diversity and antimicrobial resistance of <em>Staphylococcus aureus</em> isolated from chicken and pig carcasses, and carcass handlers
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232913)
+
+---
+
+## Traditional milk transformation schemes in Côte d’Ivoire and their impact on the prevalence of Streptococcus bovis complex bacteria in dairy products
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233132)
+
+---
+
+## Comparison of Microbial Communities and Amino Acid Metabolites in Different Traditional Fermentation Starters Used during the Fermentation of Hong Qu Glutinous Rice Wine
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996920303549)
+
+---
+
+## Monitoring the microbiome for food safety and quality using deep shotgun sequencing
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.18.102574v1.full)
+
+---
+
+## Are pangolins the intermediate host of the 2019 novel coronavirus (SARS-CoV-2)?
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008421)
+
+---
+
+## Vector competence of <em>Aedes aegypti </em>from New Caledonia for the four recent circulating dengue virus serotypes
+
+[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008303)
+
+---
+
+## Tax4Fun2: prediction of habitat-specific functional profiles and functional redundancy based on 16S rRNA gene sequences
+
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-020-00358-7)
+
+---
+
+## Assessing the accuracy of phylogenetic rooting methods on prokaryotic gene families
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232950)
+
+---
+
+## Fiber Force: A Fiber Diet Intervention in an Advanced Course-Based Undergraduate Research Experience (CURE) Course
+
+[Source](https://www.researchgate.net/profile/Alexander_Chase3/publication/341384096_Fiber_Force_A_Fiber_Diet_Intervention_in_an_Advanced_Course-Based_Undergraduate_Research_Experience_CURE_Course/links/5ebd7edaa6fdcc90d67542d2/Fiber-Force-A-Fiber-Diet-Intervention-in-an-Advanced-Course-Based-Undergraduate-Research-Experience-CURE-Course.pdf)
+
+---
+
+## This photographer creates prints with algae.
+
+[Source](https://www.diyphotography.net/this-photographer-creates-prints-with-algae/)
+
+---
+
+## Herd of fuzzy green “glacier mice” baffles scientists.
+
+[Source](https://www.npr.org/2020/05/22/858800112/herd-like-movement-of-fuzzy-green-glacier-mice-baffles-scientists)
 
 ---
 
