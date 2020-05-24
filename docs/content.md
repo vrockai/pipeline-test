@@ -58,6 +58,18 @@ The role of the intestinal microbiota in host cardiometabolic health and disease
 
 ---
 
+## Deciphering the Root Endosphere Microbiome of the Desert Plant Alhagi sparsifolia for Drought Resistance-Promoting Bacteria.
+ 20.05.2020, _L Zhang, W Zhang, Q Li, R Cui, Z Wang, Y Wang, YZ Zhang, W Ding, X Shen_
+
+
+Drought is among the most destructive abiotic stresses limiting crop growth and yield worldwide. Although most research has focused on the contribution of plant-associated microbial communities to plant growth and disease suppression, far less is known about the microbes involved in drought resistance among desert plants. In the present study, we applied 16S rRNA gene amplicon sequencing to determine the structure of rhizosphere and root endosphere microbiomes of Alhagi sparsifolia Compared to those of the rhizosphere, endosphere microbiomes had lower diversity but contained several taxa with higher relative abundance; many of these taxa were also present in the roots of other desert plants. We isolated a Pseudomonas strain (LTGT-11-2Z) that was prevalent in root endosphere microbiomes of A. sparsifolia and promoted drought resistance during incubation with wheat. Complete genome sequencing of LTGT-11-2Z revealed 1-aminocyclopropane-1-carboxylate deaminases, siderophore, spermidine, and colanic acid biosynthetic genes, as well as type VI secretion system (T6SS) genes, which are likely involved in biofilm formation and plant-microbe interactions. Together, these results indicate that drought-enduring plants harbor bacterial endophytes favorable to plant drought resistance, and they suggest that novel endophytic bacterial taxa and gene resources may be discovered among these desert plants.IMPORTANCE Understanding microbe-mediated plant resistance to drought is important for sustainable agriculture. We performed 16S rRNA gene amplicon sequencing and culture-dependent functional analyses of Alhagi sparsifolia rhizosphere and root endosphere microbiomes and identified key endophytic bacterial taxa and their genes facilitating drought resistance in wheat. This study improves our understanding of plant drought resistance and provides new avenues for drought resistance improvement in crop plants under field conditions.
+
+[Source](https://aem.asm.org/content/early/2020/03/23/AEM.02863-19.abstract)
+
+10.1128/AEM.02863-19
+
+---
+
 ## Deciphering the root endosphere microbiome of the desert plant Alhagi sparsifolia for drought resistance-promoting bacteria
 
 [Source](https://aem.asm.org/content/early/2020/03/23/AEM.02863-19.abstract)
