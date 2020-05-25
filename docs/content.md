@@ -70,27 +70,9 @@ Perturbations in early life gut microbiota can have long-term impacts on host he
 
 ---
 
-## Mimicking climate warming effects on Alaskan soil microbial communities via gradual temperature increase.
- 23.05.2020, _MB Ballhausen, R Hewitt, MC Rillig_
-
-
-Climate change can trigger shifts in community structure and may therefore pose a severe threat to soil microbial communities, especially in high northern latitudes such as the Arctic. Arctic soils are covered by snow and ice throughout most of the year. This insulation shields them from high temperature variability and low surface temperatures. If this protective layer thaws, these soils are predicted to warm up at 1.5x to 4x the rate of other terrestrial biomes. In this study, we sampled arctic soils from sites with different elevations in Alaska, incubated them for 5 months with a simulated, gradual or abrupt temperature increase of +5 °C, and compared bacterial and fungal community compositions after the incubation. We hypothesized that the microbial communities would not significantly change with a gradual temperature treatment, whereas an abrupt temperature increase would decrease microbial diversity and shift community composition. The only differences in community composition that we observed were, however, related to the two elevations. The abrupt and gradual temperature increase treatments did not change the microbial community composition as compared to the control indicating resistance of the microbial community to changes in temperature. This points to the potential importance of microbial dormancy and resting stages in the formation of a "buffer" against elevated temperatures. Microbial resting stages might heavily contribute to microbial biomass and thus drive the responsiveness of arctic ecosystems to climate change.
+## Mimicking climate warming effects on Alaskan soil microbial communities via gradual temperature increase
 
 [Source](https://www.nature.com/articles/s41598-020-65329-x)
-
-10.1038/s41598-020-65329-x
-
----
-
-## Deciphering the Root Endosphere Microbiome of the Desert Plant Alhagi sparsifolia for Drought Resistance-Promoting Bacteria.
- 20.05.2020, _L Zhang, W Zhang, Q Li, R Cui, Z Wang, Y Wang, YZ Zhang, W Ding, X Shen_
-
-
-Drought is among the most destructive abiotic stresses limiting crop growth and yield worldwide. Although most research has focused on the contribution of plant-associated microbial communities to plant growth and disease suppression, far less is known about the microbes involved in drought resistance among desert plants. In the present study, we applied 16S rRNA gene amplicon sequencing to determine the structure of rhizosphere and root endosphere microbiomes of Alhagi sparsifolia Compared to those of the rhizosphere, endosphere microbiomes had lower diversity but contained several taxa with higher relative abundance; many of these taxa were also present in the roots of other desert plants. We isolated a Pseudomonas strain (LTGT-11-2Z) that was prevalent in root endosphere microbiomes of A. sparsifolia and promoted drought resistance during incubation with wheat. Complete genome sequencing of LTGT-11-2Z revealed 1-aminocyclopropane-1-carboxylate deaminases, siderophore, spermidine, and colanic acid biosynthetic genes, as well as type VI secretion system (T6SS) genes, which are likely involved in biofilm formation and plant-microbe interactions. Together, these results indicate that drought-enduring plants harbor bacterial endophytes favorable to plant drought resistance, and they suggest that novel endophytic bacterial taxa and gene resources may be discovered among these desert plants.IMPORTANCE Understanding microbe-mediated plant resistance to drought is important for sustainable agriculture. We performed 16S rRNA gene amplicon sequencing and culture-dependent functional analyses of Alhagi sparsifolia rhizosphere and root endosphere microbiomes and identified key endophytic bacterial taxa and their genes facilitating drought resistance in wheat. This study improves our understanding of plant drought resistance and provides new avenues for drought resistance improvement in crop plants under field conditions.
-
-[Source](https://aem.asm.org/content/early/2020/03/23/AEM.02863-19.abstract)
-
-10.1128/AEM.02863-19
 
 ---
 
@@ -100,15 +82,9 @@ Drought is among the most destructive abiotic stresses limiting crop growth and 
 
 ---
 
-## Drought and plant litter chemistry alter microbial gene expression and metabolite production.
- 23.05.2020, _AA Malik, T Swenson, C Weihe, EW Morrison, JBH Martiny, EL Brodie, TR Northen, SD Allison_
-
-
-Drought represents a significant stress to microorganisms and is known to reduce microbial activity and organic matter decomposition in Mediterranean ecosystems. However, we lack a detailed understanding of the drought stress response of microbial decomposers. Here we present metatranscriptomic and metabolomic data on the physiological response of in situ microbial communities on plant litter to long-term drought in Californian grass and shrub ecosystems. We hypothesised that drought causes greater microbial allocation to stress tolerance relative to growth pathways. In grass litter, communities from the decade-long ambient and reduced precipitation treatments had distinct taxonomic and functional profiles. The most discernable physiological signatures of drought were production or uptake of compatible solutes to maintain cellular osmotic balance, and synthesis of capsular and extracellular polymeric substances as a mechanism to retain water. The results show a clear functional response to drought in grass litter communities with greater allocation to survival relative to growth that could affect decomposition under drought. In contrast, communities on chemically more diverse and complex shrub litter had smaller physiological differences in response to long-term drought but higher investment in resource acquisition traits across precipitation treatments, suggesting that the functional response to drought is constrained by substrate quality. Our findings suggest, for the first time in a field setting, a trade off between microbial drought stress tolerance, resource acquisition and growth traits in plant litter microbial communities.
+## Drought and plant litter chemistry alter microbial gene expression and metabolite production
 
 [Source](https://www.nature.com/articles/s41396-020-0683-6)
-
-10.1038/s41396-020-0683-6
 
 ---
 
