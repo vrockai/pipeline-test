@@ -82,9 +82,15 @@ Perturbations in early life gut microbiota can have long-term impacts on host he
 
 ---
 
-## Drought and plant litter chemistry alter microbial gene expression and metabolite production
+## Drought and plant litter chemistry alter microbial gene expression and metabolite production.
+ 23.05.2020, _AA Malik, T Swenson, C Weihe, EW Morrison, JBH Martiny, EL Brodie, TR Northen, SD Allison_
+
+
+Drought represents a significant stress to microorganisms and is known to reduce microbial activity and organic matter decomposition in Mediterranean ecosystems. However, we lack a detailed understanding of the drought stress response of microbial decomposers. Here we present metatranscriptomic and metabolomic data on the physiological response of in situ microbial communities on plant litter to long-term drought in Californian grass and shrub ecosystems. We hypothesised that drought causes greater microbial allocation to stress tolerance relative to growth pathways. In grass litter, communities from the decade-long ambient and reduced precipitation treatments had distinct taxonomic and functional profiles. The most discernable physiological signatures of drought were production or uptake of compatible solutes to maintain cellular osmotic balance, and synthesis of capsular and extracellular polymeric substances as a mechanism to retain water. The results show a clear functional response to drought in grass litter communities with greater allocation to survival relative to growth that could affect decomposition under drought. In contrast, communities on chemically more diverse and complex shrub litter had smaller physiological differences in response to long-term drought but higher investment in resource acquisition traits across precipitation treatments, suggesting that the functional response to drought is constrained by substrate quality. Our findings suggest, for the first time in a field setting, a trade off between microbial drought stress tolerance, resource acquisition and growth traits in plant litter microbial communities.
 
 [Source](https://www.nature.com/articles/s41396-020-0683-6)
+
+10.1038/s41396-020-0683-6
 
 ---
 
