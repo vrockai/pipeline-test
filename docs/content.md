@@ -1,318 +1,169 @@
-## A microbiological survey of handwashing sinks in the hospital built environment reveals differences in patient room and healthcare personnel sinks.
- 21.05.2020, _LC Franco, W Tanner, C Ganim, T Davy, J Edwards, R Donlan_
+## Is social connectedness a risk factor for the spreading of COVID-19 among older adults? The Italian paradox.
+ 26.05.2020, _G Liotta, MC Marazzi, S Orlando, L Palombi_
 
 
-Handwashing sinks and their associated premise plumbing are an ideal environment for pathogen-harboring biofilms to grow and spread throughout facilities due to the connected system of wastewater plumbing. This study was designed to understand the distribution of pathogens and antibiotic resistant organisms (ARO) within and among handwashing sinks in healthcare settings, using culture-dependent methods to quantify Pseudomonas aeruginosa, opportunistic pathogens capable of growth on a cefotaxime-containing medium (OPP-C), and carbapenem-resistant Enterobacteriaceae (CRE). Isolates from each medium identified as P. aeruginosa or Enterobacteriaceae were tested for susceptibility to aztreonam, ceftazidime, and meropenem; Enterobacteriaceae were also tested against ertapenem and cefotaxime. Isolates exhibiting resistance or intermediate resistance were designated ARO. Pathogens were quantified at different locations within handwashing sinks and compared in quantity and distribution between healthcare personnel (HCP) and patient room (PR) sinks. ARO were compared between samples within a sink (biofilm vs planktonic samples) and between sink types (HCP vs. PR). The drain cover was identified as a reservoir within multiple sinks that was often colonized by pathogens despite daily sink cleaning. P. aeruginosa and OPP-C mean log10 CFU/cm2 counts were higher in p-trap and tail pipe biofilm samples from HCP compared to PR sinks (2.77 ± 2.39 vs. 1.23 ± 1.62 and 5.27 ± 1.10 vs. 4.74 ± 1.06) for P. aeruginosa and OPP-C, respectively. P. aeruginosa and OPP-C mean log10 CFU/ml counts were also higher (p &lt; 0.05) in HCP compared to PR sinks p-trap water (2.21 ± 1.52 vs. 0.89 ± 1.44 and 3.87 ± 0.78 vs. 3.21 ± 1.11) for P. aeruginosa and OPP-C, respectively. However, a greater percentage of ARO were recovered from PR sinks compared to HCP sinks (p &lt; 0.05) for Enterobacteriaceae (76.4 vs. 32.9%) and P. aeruginosa (25.6 vs. 0.3%). This study supports previous work citing that handwashing sinks are reservoirs for pathogens and ARO and identifies differences in pathogen and ARO quantities between HCP and PR sinks, despite the interconnected premise plumbing.
+Italy was one of the first European countries affected by the new coronavirus (COVID-19) pandemic, with over 105,000 infected people and close to 13,000 deaths, until March 31st. The pandemic has hit especially hard because of the country's demographic structure, with a high percentage of older adults. The authors explore the possibility, recently aired in some studies, of extensive intergenerational contact as a possible determinant of the severity of the pandemic among the older Italian adults. We analyzed several variables to test this hypothesis, such as the percentage of infected patients aged &gt;80 years, available nursing home beds, COVID-19 incidence rate, and the number of days from when the number of positive tests exceeded 50 (epidemic maturity). We also included in the analysis mean household size and percentage of households comprising one person, in the region. Paradoxically, the results are opposite of what was previously reported. The pandemic was more severe in regions with higher family fragmentation and increased availability of residential health facilities.
 
-[Source](https://www.nature.com/articles/s41598-020-65052-7)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233329)
 
-10.1038/s41598-020-65052-7
-
----
-
-## Interaction between microbiota and immunity in health and disease.
- 20.05.2020, _D Zheng, T Liwinski, E Elinav_
-
-
-The interplay between the commensal microbiota and the mammalian immune system development and function includes multifold interactions in homeostasis and disease. The microbiome plays critical roles in the training and development of major components of the host's innate and adaptive immune system, while the immune system orchestrates the maintenance of key features of host-microbe symbiosis. In a genetically susceptible host, imbalances in microbiota-immunity interactions under defined environmental contexts are believed to contribute to the pathogenesis of a multitude of immune-mediated disorders. Here, we review features of microbiome-immunity crosstalk and their roles in health and disease, while providing examples of molecular mechanisms orchestrating these interactions in the intestine and extra-intestinal organs. We highlight aspects of the current knowledge, challenges and limitations in achieving causal understanding of host immune-microbiome interactions, as well as their impact on immune-mediated diseases, and discuss how these insights may translate towards future development of microbiome-targeted therapeutic interventions.
-
-[Source](https://www.nature.com/articles/s41422-020-0332-7)
-
-10.1038/s41422-020-0332-7
+10.1371/journal.pone.0233329
 
 ---
 
-## A Comprehensive Review on Natural Bioactive Compounds and Probiotics as Potential Therapeutics in Food Allergy Treatment
-
-[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2020.00996/full)
-
----
-
-## Interaction between microbiota and immunity in health and disease.
- 20.05.2020, _D Zheng, T Liwinski, E Elinav_
+## Persistence: mechanisms for triggering and enhancing phenotypic variability.
+ 25.11.2011, _NQ Balaban_
 
 
-The interplay between the commensal microbiota and the mammalian immune system development and function includes multifold interactions in homeostasis and disease. The microbiome plays critical roles in the training and development of major components of the host's innate and adaptive immune system, while the immune system orchestrates the maintenance of key features of host-microbe symbiosis. In a genetically susceptible host, imbalances in microbiota-immunity interactions under defined environmental contexts are believed to contribute to the pathogenesis of a multitude of immune-mediated disorders. Here, we review features of microbiome-immunity crosstalk and their roles in health and disease, while providing examples of molecular mechanisms orchestrating these interactions in the intestine and extra-intestinal organs. We highlight aspects of the current knowledge, challenges and limitations in achieving causal understanding of host immune-microbiome interactions, as well as their impact on immune-mediated diseases, and discuss how these insights may translate towards future development of microbiome-targeted therapeutic interventions.
+_Adaptation, Physiological, Anti-Bacterial Agents, Antitoxins, Bacteria, Bacterial Toxins, Cell Division, Cell Survival, Drug Resistance, Bacterial, Gene Expression Regulation, Bacterial, Genetic Variation, Models, Biological, Phenotype_
+When microorganisms are exposed to lethal agents, the initial exponential decay in survival is typically followed by a slower decrease. This tailing of the survival curve is due to persister cells that have differentiated into phenotypes with reduced sensitivity to the lethal agent. We review the environmental factors that have been shown to trigger such differentiation processes, as well as the network motifs that enable the co-existence of persistent and nonpersistent cells within genetically uniform populations. Threshold amplification of noise and bi-stability from positive feedback emerge as key motifs underlying persistence.
 
-[Source](https://www.tandfonline.com/doi/full/10.1080/03036758.2020.1760896)
+[Source](Enhancing bacterial survival through phenotypic heterogeneity)
 
-10.1038/s41422-020-0332-7
+10.1016/j.gde.2011.10.001
 
 ---
 
-## The intestinal microbiota in health and disease
+## Review: Enhancing bacterial survival through phenotypic 
 
-[Source](https://www.tandfonline.com/doi/full/10.1080/03036758.2020.1760896)
-
----
-
-## Longitudinal Study of Oral Microbiome Variation in Twins.
- 22.05.2020, _M Freire, A Moustafa, DM Harkins, MG Torralba, Y Zhang, P Leong, R Saffery, M Bockmann, C Kuelbs, T Hughes, JM Craig, KE Nelson_
-
-
-Humans are host to a multitude of microorganisms that rapidly populate the body at birth, subject to a complex interplay that is dependent on host genetics, lifestyle, and environment. The host-associated microbiome, including the oral microbiome, presents itself in a complex ecosystem important to health and disease. As the most common chronic disease globally, dental caries is induced by host-microbial dysbiosis in children and adults. Multiple biological and environmental factors are likely to impact disease predisposition, onset, progression, and severity, yet longitudinal studies able to capture these influences are missing. To investigate how host genetics and environment influenced the oral microbial communities over time, we profiled supragingival plaque microbiomes of dizygotic and monozygotic twins during 3 visits over 12-months. Dental plaque DNA samples were amplified by targeting the 16S rRNA gene V4 region, and microbial findings were correlated with clinical, diet and genetic metadata. We observed that the oral microbiome variances were shaped primarily by the environment when compared to host genetics. Among the environmental factors shaping microbial changes of our subjects, significant metadata included age of the subject, and the age by which subjects initiated brushing habits, and the types of actions post-brushing. Relevant heritability of the microbiome included Actinomyces and Capnocytophaga in monozygotic twins and Kingella in dizygotic twins. Corynebacterium and Veillonella abundances were associated with age, whereas Aggregatibacter was associated with younger subjects. Streptococcus abundance showed an inverse association over time, and Selenomonas abundances increased with brushing frequency per day. Unraveling the exact biological mechanisms in caries has the potential to reveal novel host-microbial biomarkers, pathways, and targets important to effective preventive measures, and early disease control in children.
-
-[Source](https://www.nature.com/articles/s41598-020-64747-1)
-
-10.1038/s41598-020-64747-1
+[Source](Enhancing bacterial survival through phenotypic heterogeneity)
 
 ---
 
-## Skin Microbiome in Atopic Dermatitis.
- 18.05.2020, _SM Edslev, T Agner, PS Andersen_
+## Response to letter: Non-vitamin-K oral anticoagulants may not significantly reduce the risk of fatal or disabling stroke compared to warfarin.
+ 27.05.2020, _M Costello, C Judge, MJ O'Donnell, M Canavan_
 
 
-Atopic dermatitis is a common inflammatory skin disease with a complex pathogenesis that includes imbalanced immune system signalling, impaired skin barrier and enhanced Staphylococcus aureus skin colonization. The skin bacterial communities are characterized by increasing abundance of S. aureus, leading to reduced diversity compared with the bacterial communities on healthy skin, and increasing disease severity. In contrast, fungal communities are richer and more diverse on the skin of patients with atopic dermatitis, although distribution of the most common species is similar in patients and controls. Filaggrin deficiency in atopic dermatitis skin might be related to the enhanced skin colonization by S. aureus. In addition, S. aureus expressing variant virulence factors have been shown to elicit atopic dermatitis-like phenotypes in mice, indicating that specific S. aureus strains can induce flare-ups. This review aims to provide an overview of the recent literature on the skin microbiome in atopic dermatitis.
+We agree with Zheng and colleagues that a statistical measure of heterogeneity is an important consideration in selecting a fixed or random effects model. However, it should not be considered the sole criterion. In meta-analyses that include small numbers of trials, such as ours, results of tests for heterogeneity should be interpreted with caution, as they may be underpowered. A fixed effects model has been advocated when meta-analysing small number of studies (less than five trials), given the concern about inaccurate estimation of between-study variance (1), as the estimation of τ2 (between-study variance), and therefore of μ (estimate of underlying mean effect), is highly imprecise (2).
 
-[Source](https://doi.org/10.2340/00015555-3514)
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008439)
 
-10.2340/00015555-3514
-
----
-
-## Gut microbiome diversity is an independent predictor of survival in cervical cancer patients receiving chemoradiation
-
-[Source](https://www.medrxiv.org/content/10.1101/2020.05.18.20105809v1)
+10.1111/ene.14366
 
 ---
 
-## The intestinal virome in children with cystic fibrosis differs from healthy controls.
- 25.05.2020, _MJ Coffey, I Low, S Stelzer-Braid, B Wemheuer, M Garg, T Thomas, A Jaffe, WD Rawlinson, CY Ooi_
+## heterogeneity
 
-
-Intestinal bacterial dysbiosis is evident in children with cystic fibrosis (CF) and intestinal viruses may be contributory, given their influence on bacterial species diversity and biochemical cycles. We performed a prospective, case-control study on children with CF and age and gender matched healthy controls (HC), to investigate the composition and function of intestinal viral communities. Stool samples were enriched for viral DNA and RNA by viral extraction, random amplification and purification before sequencing (Illumina MiSeq). Taxonomic assignment of viruses was performed using Vipie. Functional annotation was performed using Virsorter. Inflammation was measured by calprotectin and M2-pyruvate kinase (M2-PK). Eight CF and eight HC subjects were included (50% male, mean age 6.9 ± 3.0 and 6.4 ± 5.3 years, respectively, p = 0.8). All CF subjects were pancreatic insufficient. Regarding the intestinal virome, no difference in Shannon index between CF and HC was identified. Taxonomy-based beta-diversity (presence-absence Bray-Curtis dissimilarity) was significantly different between CF and HC (R2 = 0.12, p = 0.001). Myoviridae, Faecalibacterium phage FP Taranis and unclassified Gokushovirinae were significantly decreased in CF compared with HC (q&lt;0.05). In children with CF (compared to HC), the relative abundance of genes annotated to (i) a peptidoglycan-binding domain of the peptidoglycan hydrolases (COG3409) was significantly increased (q&lt;0.05) and (ii) capsid protein (F protein) (PF02305.16) was significantly decreased (q&lt;0.05). Picornavirales, Picornaviridae, and Enterovirus were found to positively correlate with weight and BMI (r = 0.84, q = 0.01). Single-stranded DNA viruses negatively correlated with M2-PK (r = -0.86, q = 0.048). Children with CF have an altered intestinal virome compared to well-matched HC, with both taxonomic and predicted functional changes. Further exploration of Faecalibacterium phages, Gokushovirinae and phage lysins are warranted. Intestinal viruses and their functions may have important clinical implications for intestinal inflammation and growth in children with CF, potentially providing novel therapeutic targets.
-
-[Source](https://doi.org/10.1371/journal.pone.0233557)
-
-10.1371/journal.pone.0233557
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008439)
 
 ---
 
-## The human gut microbiota and depression: widely reviewed, yet poorly understood
+## Adverse effects of electronic cigarettes on the disease-naive oral microbiome
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0165032720307588)
-
----
-
-## The Firmicutes/Bacteroidetes Ratio: A Relevant Marker of Gut Dysbiosis in Obese Patients?
- 22.05.2020, _F Magne, M Gotteland, L Gauthier, A Zazueta, S Pesoa, P Navarrete, R Balamurugan_
-
-
-The gut microbiota is emerging as a promising target for the management or prevention of inflammatory and metabolic disorders in humans. Many of the current research efforts are focused on the identification of specific microbial signatures, more particularly for those associated with obesity, type 2 diabetes, and cardiovascular diseases. Some studies have described that the gut microbiota of obese animals and humans exhibits a higher Firmicutes/Bacteroidetes ratio compared with normal-weight individuals, proposing this ratio as an eventual biomarker. Accordingly, the Firmicutes/Bacteroidetes ratio is frequently cited in the scientific literature as a hallmark of obesity. The aim of the present review was to discuss the validity of this potential marker, based on the great amount of contradictory results reported in the literature. Such discrepancies might be explained by the existence of interpretative bias generated by methodological differences in sample processing and DNA sequence analysis, or by the generally poor characterization of the recruited subjects and, more particularly, the lack of consideration of lifestyle-associated factors known to affect microbiota composition and/or diversity. For these reasons, it is currently difficult to associate the Firmicutes/Bacteroidetes ratio with a determined health status and more specifically to consider it as a hallmark of obesity.
-
-[Source](https://www.mdpi.com/2072-6643/12/5/1474)
-
-10.3390/nu12051474
+[Source](https://advances.sciencemag.org/content/6/22/eaaz0108)
 
 ---
 
-## Who Inhabits Our Gut? Introducing the Human Gut Microbiota
+## Preprint: Shotgun Metagenomics of 361 elderly women reveals gut microbiome change in bone mass loss
 
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_5)
-
----
-
-## A Robust Metatranscriptomic Technology for Population-Scale Studies of Diet, Gut Microbiome, and Human Health.
- 01.11.2019, _A Hatch, J Horne, R Toma, BL Twibell, KM Somerville, B Pelle, KP Canfield, M Genkin, G Banavar, A Perlina, H Messier, N Klitgord, M Vuyisich_
-
-
-A functional readout of the gut microbiome is necessary to enable precise control of the gut microbiome's functions, which support human health and prevent or minimize a wide range of chronic diseases. Stool metatranscriptomic analysis offers a comprehensive functional view of the gut microbiome, but despite its usefulness, it has rarely been used in clinical studies due to its complexity, cost, and bioinformatic challenges. This method has also received criticism due to potential intrasample variability, rapid changes, and RNA degradation. Here, we describe a robust and automated stool metatranscriptomic method, called Viomega, which was specifically developed for population-scale studies. Viomega includes sample collection, ambient temperature sample preservation, total RNA extraction, physical removal of ribosomal RNAs (rRNAs), preparation of directional Illumina libraries, Illumina sequencing, taxonomic classification based on a database of &gt;110,000 microbial genomes, and quantitative microbial gene expression analysis using a database of ~100 million microbial genes. We applied this method to 10,000 human stool samples and performed several small-scale studies to demonstrate sample stability and consistency. In summary, Viomega is an inexpensive, high-throughput, automated, and accurate sample-to-result stool metatranscriptomic technology platform for large-scale studies and a wide range of applications.
-
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_6)
-
-10.1155/2019/1718741
+[Source](//www.biorxiv.org/content/10.1101/679985v2)
 
 ---
 
-## Variability and Stability of the Human Gut Microbiome
+## Permissive microbiome characterizes human subjects with a neurovascular disease cavernous angioma
 
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_6)
-
----
-
-## Differences in breastfeeding rate between mothers delivering by caesarean section and those delivering vaginally.
- 27.05.2020, _D Lagerberg, T Wallby, M Magnusson_
-
-
-Aim: The aim of the study was to analyse the impact of delivery on breastfeeding at 6 months, with special focus on caesarean section combined with established breastfeeding at 2 months. Methods: Delivery mode and breastfeeding at 2 and 6 months were studied in a database of 130,993 infants from two Swedish counties between 1990-2011. Results: The difference in breastfeeding rates at 6 months between children delivered by caesarean section and children delivered vaginally was smaller in a subpopulation of children with established breastfeeding at 2 months compared to all children. The impact of delivery method on breastfeeding at 6 months was independent of child gender, mother's first child, maternal smoking and maternal education. Conclusions: Breastfeeding in mothers giving birth by caesarean section is more likely to continue until (at least) 6 months if established early (at 2 months). It may be worthwhile to promote breastfeeding for mothers who deliver by caesarean section.
-
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_3)
-
-10.1177/1403494820911788
+[Source](https://www.nature.com/articles/s41467-020-16436-w)
 
 ---
 
-## How to Analyse Microbial Communities?
-
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_3)
-
----
-
-## Targeting Infectious Agents as a Therapeutic Strategy in Alzheimer's Disease.
- 27.05.2020, _T Fülöp, U Munawara, A Larbi, M Desroches, S Rodrigues, M Catanzaro, A Guidolin, A Khalil, F Bernier, AE Barron, K Hirokawa, PB Beauregard, D Dumoulin, JP Bellenger, JM Witkowski, E Frost_
+## Persistent Diarrhea in Patients With Crohn's Disease After Mucosal Healing is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis.
+ 29.03.2020, _K Boland, L Bedrani, W Turpin, B Kabakchiev, J Stempak, K Borowski, G Nguyen, AH Steinhart, MI Smith, K Croitoru, MS Silverberg_
 
 
-Alzheimer's disease (AD) is the most prevalent dementia in the world. Its cause(s) are presently largely unknown. The most common explanation for AD, now, is the amyloid cascade hypothesis, which states that the cause of AD is senile plaque formation by the amyloid β peptide, and the formation of neurofibrillary tangles by hyperphosphorylated tau. A second, burgeoning theory by which to explain AD is based on the infection hypothesis. Much experimental and epidemiological data support the involvement of infections in the development of dementia. According to this mechanism, the infection either directly or via microbial virulence factors precedes the formation of amyloid β plaques. The amyloid β peptide, possessing antimicrobial properties, may be beneficial at an early stage of AD, but becomes detrimental with the progression of the disease, concomitantly with alterations to the innate immune system at both the peripheral and central levels. Infection results in neuroinflammation, leading to, and sustained by, systemic inflammation, causing eventual neurodegeneration, and the senescence of the immune cells. The sources of AD-involved microbes are various body microbiome communities from the gut, mouth, nose, and skin. The infection hypothesis of AD opens a vista to new therapeutic approaches, either by treating the infection itself or modulating the immune system, its senescence, or the body's metabolism, either separately, in parallel, or in a multi-step way.
+In patients with inflammatory bowel diseases (IBD), symptoms do not always associate with the severity of endoscopic inflammation and can persist after mucosal healing. We investigated whether symptoms in patients with successfully treated IBD are related to composition of the intestinal microbiome.
 
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_11)
+[Source](https://www.cghjournal.org/article/S1542-3565(20)30402-X/abstract)
 
-10.1007/s40263-020-00737-1
+10.1016/j.cgh.2020.03.044
 
 ---
 
-## Treating the Gut Microbiome as a System
-
-[Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_11)
-
----
-
-## Application of metabolomics to the study of irritable bowel syndrome
-
-[Source](https://doi.org/10.1111/nmo.13884)
-
----
-
-## Distinct actions of the fermented beverage kefir on host behaviour, immunity and microbiome gut-brain modules in the mouse.
- 19.05.2020, _M van de Wouw, AM Walsh, F Crispie, L van Leuven, JM Lyte, M Boehme, G Clarke, TG Dinan, PD Cotter, JF Cryan_
+## Fecal microbiota transplantation in systemic sclerosis: A double-blind, placebo-controlled randomized pilot trial.
+ 21.05.2020, _H Fretheim, BK Chung, H Didriksen, ES Bækkevold, Ø Midtvedt, C Brunborg, K Holm, J Valeur, AH Tennøe, T Garen, T Midtvedt, M Trøseid, H Zarè, MB Lund, JR Hov, KEA Lundin, Ø Molberg, AM Hoffmann-Vold_
 
 
-Mounting evidence suggests a role for the gut microbiota in modulating brain physiology and behaviour, through bi-directional communication, along the gut-brain axis. As such, the gut microbiota represents a potential therapeutic target for influencing centrally mediated events and host behaviour. It is thus notable that the fermented milk beverage kefir has recently been shown to modulate the composition of the gut microbiota in mice. It is unclear whether kefirs have differential effects on microbiota-gut-brain axis and whether they can modulate host behaviour per se.
+Systemic sclerosis (SSc) is an auto-immune, multi organ disease marked by severe gastrointestinal (GI) involvement and gut dysbiosis. Here, we aimed to determine the safety and efficacy of fecal microbiota transplantation (FMT) using commercially-available anaerobic cultivated human intestinal microbiota (ACHIM) in SSc.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00846-5)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232739)
 
-10.1186/s40168-020-00846-5
+10.1371/journal.pone.0232739
 
 ---
 
-## Physical activity shapes the intestinal microbiome and immunity of healthy mice but has no protective effects against colitis in MUC2-/- mice
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.24.113290v1.abstract)
-
----
-
-## Synergetic responses of intestinal microbiota and epithelium to dietary inulin supplementation in pigs.
- 21.05.2020, _J He, H Xie, D Chen, B Yu, Z Huang, X Mao, P Zheng, Y Luo, J Yu, J Luo, H Yan_
+## A high-fat diet induces a microbiota-dependent increase in stem cell activity in the Drosophila intestine.
+ 26.05.2020, _J von Frieling, MN Faisal, F Sporn, R Pfefferkorn, SS Nolte, F Sommer, P Rosenstiel, T Roeder_
 
 
-Inulin is a soluble dietary fiber that has been implicated in regulating the intestinal health. Here, we describe a synergetic response of intestinal microbiota and epithelial functions to increased intake of inulin in a porcine model.
+Over-consumption of high-fat diets (HFDs) is associated with several pathologies. Although the intestine is the organ that comes into direct contact with all diet components, the impact of HFD has mostly been studied in organs that are linked to obesity and obesity related disorders. We used Drosophila as a simple model to disentangle the effects of a HFD on the intestinal structure and physiology from the plethora of other effects caused by this nutritional intervention. Here, we show that a HFD, composed of triglycerides with saturated fatty acids, triggers activation of intestinal stem cells in the Drosophila midgut. This stem cell activation was transient and dependent on the presence of an intestinal microbiota, as it was completely absent in germ free animals. Moreover, major components of the signal transduction pathway have been elucidated. Here, JNK (basket) in enterocytes was necessary to trigger synthesis of the cytokine upd3 in these cells. This ligand in turn activated the JAK/STAT pathway in intestinal stem cells. Chronic subjection to a HFD markedly altered both the microbiota composition and the bacterial load. Although HFD-induced stem cell activity was transient, long-lasting changes to the cellular composition, including a substantial increase in the number of enteroendocrine cells, were observed. Taken together, a HFD enhances stem cell activity in the Drosophila gut and this effect is completely reliant on the indigenous microbiota and also dependent on JNK signaling within intestinal enterocytes.
 
-[Source](https://link.springer.com/article/10.1007%2Fs00394-020-02284-3)
+[Source](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008789)
 
-10.1007/s00394-020-02284-3
+10.1371/journal.pgen.1008789
 
 ---
 
-## No correlation between microbiota composition and blood parameters in nesting flatback turtles (Natator depressus).
- 20.05.2020, _TF Scheelings, RJ Moore, TTH Van, M Klaassen, RD Reina_
+## The cecal and fecal microbiomes and metabolomes of horses before and after metronidazole administration.
+ 25.05.2020, _CE Arnold, A Isaiah, R Pilla, J Lidbury, JS Coverdale, TR Callaway, SD Lawhon, J Steiner, JS Suchodolski_
 
 
-The microbiota is considered critical for normal vertebrate homeostasis and it may exert its effects at a local level within the gastrointestinal tract, or systemically through the production of bacterial metabolites. To date, investigations into the role that the microbiota plays in reptile physiology are rare. To address this knowledge gap, we explored the relationship between differences in microbial communities to see if they accounted for differences in haematology and biochemistry values, in different populations of nesting flatback turtles (Natator depressus). We found that microbiota composition was not correlated to any of the blood analytes we measured in flatbacks. This study is the first of its kind in reptiles and highlights the need for further investigations to determine mechanisms by which the microbiota influences the physiology and health of reptiles.
+Antibiotic administration can be a cause of gastrointestinal disease in horses, creating a disruption in the normal population and function of bacteria found in the hindgut. The objective of this study was to describe the changes in the cecal and fecal microbiomes and metabolomes of clinically healthy horses before and after metronidazole administration. Metronidazole (15 mg/kg BID PO) was given to five horses with cecal cannulas. The study was suspended on Day 3 due to adverse gastrointestinal effects. Cecal and fecal samples were obtained before (Days minus52, m28, m14, and 0) and after (Days 7, 14, 28, and 52) metronidazole administration. DNA was extracted from the cecal and fecal samples, and 16S rRNA genes were sequenced. Richness and evenness indices were significantly decreased by metronidazole administration in both cecal and fecal samples, but the overall composition was only significantly changed in fecal samples on Day 3 (ANOSIM, p = 0.008). The most dominant phyla were Bacteroidetes and Firmicutes in all groups examined. In fecal samples, significant changes of the phyla Actinobacteria, Spirochaetes, Lentisphaerae, and Verrucomicrobia occurred on Day 3, which correlated with clinical signs of gastrointestinal disease. The metabolome was characterized by mass spectrometry-based methods and only named metabolites were included in the analysis. Fecal, but not cecal, metabolites were significantly affected by metronidazole. The fecal metabolites affected represent diverse metabolic pathways, such as the metabolism of amino acids, carbohydrates, lipids, nucleic acids and cofactors and vitamins. Metronidazole administration has potential to cause adverse effects in horses, alters the bacterial composition of the horse's cecal and fecal content, and the metabolome of fecal samples.
 
-[Source](https://www.nature.com/articles/s41598-020-65321-5)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232905)
 
-10.1038/s41598-020-65321-5
-
----
-
-## Linking perturbations to temporal changes in diversity, stability, and compositions of neonatal calf gut microbiota: prediction of diarrhea.
- 23.05.2020, _T Ma, C Villot, D Renaud, A Skidmore, E Chevaux, M Steele, LL Guan_
-
-
-Perturbations in early life gut microbiota can have long-term impacts on host health. In this study, we investigated antimicrobial-induced temporal changes in diversity, stability, and compositions of gut microbiota in neonatal veal calves, with the objective of identifying microbial markers that predict diarrhea. A total of 220 samples from 63 calves in first 8 weeks of life were used in this study. The results suggest that increase in diversity and stability of gut microbiota over time was a feature of "healthy" (non-diarrheic) calves during early life. Therapeutic antimicrobials delayed the temporal development of diversity and taxa-function robustness (a measure of microbial stability). In addition, predicted genes associated with beta lactam and cationic antimicrobial peptide resistance were more abundant in gut microbiota of calves treated with therapeutic antimicrobials. Random forest machine learning algorithm revealed that Trueperella, Streptococcus, Dorea, uncultured Lachnospiraceae, Ruminococcus 2, and Erysipelatoclostridium may be key microbial markers that can differentiate "healthy" and "unhealthy" (diarrheic) gut microbiota, as they predicted early life diarrhea with an accuracy of 84.3%. Our findings suggest that diarrhea in veal calves may be predicted by the shift in early life gut microbiota, which may provide an opportunity for early intervention (e.g., prebiotics or probiotics) to improve calf health with reduced usage of antimicrobials.
-
-[Source](https://www.nature.com/articles/s41396-020-0678-3)
-
-10.1038/s41396-020-0678-3
+10.1371/journal.pone.0232905
 
 ---
 
-## The microbiome as a biosensor: functional profiles elucidate hidden stress in hosts.
- 22.05.2020, _A Zolti, SJ Green, N Sela, Y Hadar, D Minz_
+## Functional diversity of rhizosphere soil microbial communities in response to different tillage and crop residue retention in a double-cropping rice field
 
-
-Microbial communities are highly responsive to environmental cues, and both their structure and activity can be altered in response to changing conditions. We hypothesized that host-associated microbial communities, particularly those colonizing host surfaces, can serve as in situ sensors to reveal environmental conditions experienced by both microorganisms and the host. For a proof-of-concept, we studied a model plant-soil system and employed a non-deterministic gene-centric approach. A holistic analysis was performed using plants of two species and irrigation with water of low quality to induce host stress. Our analyses examined the genetic potential (DNA) and gene expression patterns (RNA) of plant-associated microbial communities, as well as transcriptional profiling of host plants.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00850-9)
-
-10.1186/s40168-020-00850-9
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233642)
 
 ---
 
-## 16S rRNA Gene Diversity in the Salt Crust of Salar de Uyuni, Bolivia, the World's Largest Salt Flat.
- 22.05.2020, _WT Pecher, FL Martínez, P DasSarma, D Guzmán, S DasSarma_
+## Microbiome analysis of healthy and diseased sponges Lubomirskia baicalensis by using cell cultures of primmorphs
 
-
-Salar de Uyuni is a vast, high-altitude salt flat in Bolivia with extreme physico-geochemical properties approaching multiple limits of life. Evidence for diverse halophilic bacteria and archaea was found in its surface and near-surface salt crust using 16S amplicon analysis, providing a snapshot of prokaryotic life.
-
-[Source](https://doi.org/ 10.1128/MRA.00374-20)
-
-10.1128/MRA.00374-20
+[Source](https://peerj.com/articles/9080)
 
 ---
 
-## Fungal diversity and its contribution to the biodeterioration of mural paintings in two 1700-year-old tombs of China
+## The use of ozone gas for the inactivation of Bacillus anthracis and Bacillus subtilis spores on building materials
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0964830520303814)
-
----
-
-## Characterizing Microbial Signatures on Sculptures and Paintings of Similar Provenance.
- 22.05.2020, _MG Torralba, C Kuelbs, KJ Moncera, R Roby, KE Nelson_
-
-
-The preservation of artwork challenges museums, collectors, and art enthusiasts. Currently, reducing moisture, adjusting the type of lighting, and preventing the formation of mold are primary methods to preserving and preventing deterioration. Other methods such as ones based in detailed knowledge of molecular biology such as microbial community characterization using polymerase chain reaction (PCR) and sequencing have yet to be explored. Such molecular biology approaches are essential to explore as some environmental bacteria are capable of oxidizing nonpolar chemical substances rich in hydrocarbons such as oil-based paints. Using 16S rDNA Illumina Sequencing, we demonstrate a novel finding that there are differing bacterial communities for artwork from roughly the same era when comparing paintings on wood, paintings on canvases, and sculptures made of stone and marble. We also demonstrate that there are specific genera such as Aeromonas known for having oxidase positive strains, present on paintings on wood and paintings on canvas that could potentially be responsible for deterioration and fading as such organisms produce water or hydrogen peroxide as a byproduct of cytochrome c oxidase activity. The advantages of these genomics-based approaches to characterizing the microbial population on deteriorating artwork provides immense potential by identifying potentially damaging species that may not be detected using conventional methods in addition to addressing challenges to identification, restoration, and preservation efforts.
-
-[Source](https://doi.org/10.1007/s00248-020-01504-x)
-
-10.1007/s00248-020-01504-x
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233291)
 
 ---
 
-## Proteomic and Metabolomic Correlates of Healthy Dietary Patterns: The Framingham Heart Study.
- 22.05.2020, _ME Walker, RJ Song, X Xu, RE Gerszten, D Ngo, CB Clish, L Corlin, J Ma, V Xanthakis, PF Jacques, RS Vasan_
+## Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2
 
-
-Data on proteomic and metabolomic signatures of healthy dietary patterns are limited. We evaluated the cross-sectional association of serum proteomic and metabolomic markers with three dietary patterns: the Alternative Healthy Eating Index (AHEI), the Dietary Approaches to Stop Hypertension (DASH) diet; and a Mediterranean-style (MDS) diet. We examined participants from the Framingham Offspring Study (mean age; 55 years; 52% women) who had complete proteomic (n = 1713) and metabolomic (n = 2284) data; using food frequency questionnaires to derive dietary pattern indices. Proteins and metabolites were quantified using the SomaScan platform and liquid chromatography/tandem mass spectrometry; respectively. We used multivariable-adjusted linear regression models to relate each dietary pattern index (independent variables) to each proteomic and metabolomic marker (dependent variables). Of the 1373 proteins; 103 were associated with at least one dietary pattern (48 with AHEI; 83 with DASH; and 8 with MDS; all false discovery rate [FDR] ≤ 0.05). We identified unique associations between dietary patterns and proteins (17 with AHEI; 52 with DASH; and 3 with MDS; all FDR ≤ 0.05). Significant proteins enriched biological pathways involved in cellular metabolism/proliferation and immune response/inflammation. Of the 216 metabolites; 65 were associated with at least one dietary pattern (38 with AHEI; 43 with DASH; and 50 with MDS; all FDR ≤ 0.05). All three dietary patterns were associated with a common signature of 24 metabolites (63% lipids). Proteins and metabolites associated with dietary patterns may help characterize intermediate phenotypes that provide insights into the molecular mechanisms mediating diet-related disease. Our findings warrant replication in independent populations.
-
-[Source](https://www.mdpi.com/2072-6643/12/5/1476)
-
-10.3390/nu12051476
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008556)
 
 ---
 
-## ARTS 2.0: feature updates and expansion of the Antibiotic Resistant Target Seeker for comparative genome mining.
- 19.05.2020, _MD Mungan, M Alanjary, K Blin, T Weber, MH Medema, N Ziemert_
+## Review: A viral journey to the brain: Current considerations and future developments
 
-
-Multi-drug resistant pathogens have become a major threat to human health and new antibiotics are urgently needed. Most antibiotics are derived from secondary metabolites produced by bacteria. In order to avoid suicide, these bacteria usually encode resistance genes, in some cases within the biosynthetic gene cluster (BGC) of the respective antibiotic compound. Modern genome mining tools enable researchers to computationally detect and predict BGCs that encode the biosynthesis of secondary metabolites. The major challenge now is the prioritization of the most promising BGCs encoding antibiotics with novel modes of action. A recently developed target-directed genome mining approach allows researchers to predict the mode of action of the encoded compound of an uncharacterized BGC based on the presence of resistant target genes. In 2017, we introduced the 'Antibiotic Resistant Target Seeker' (ARTS). ARTS allows for specific and efficient genome mining for antibiotics with interesting and novel targets by rapidly linking housekeeping and known resistance genes to BGC proximity, duplication and horizontal gene transfer (HGT) events. Here, we present ARTS 2.0 available at http://arts.ziemertlab.com. ARTS 2.0 now includes options for automated target directed genome mining in all bacterial taxa as well as metagenomic data. Furthermore, it enables comparison of similar BGCs from different genomes and their putative resistance genes.
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa374/5840579)
-
-10.1093/nar/gkaa374
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008434)
 
 ---
 
-## Draft Genome Sequence of a Novel Species of Halococcus (Strain IIIV-5B), an Endophytic Archaeon Isolated from the Leaf Tissue of Avicennia germinans.
- 22.05.2020, _J Zayas-Rivera, Y Rivera-Lopez, M Velázquez-Méndez, N Romero-Oliveras, R Montalvo-Rodríguez_
+## Preprint: A global data-driven census of Salmonella small proteins and their potential functions in bacterial virulence
 
-
-Strain IIIV-5B was isolated from the leaf tissue of the black mangrove, Avicennia germinans This microorganism belongs to the genus Halococcus Here, we present the draft genome sequence of strain IIIV-5B, a novel species of this genus. The 3,869,808-bp genome has a G+C content of 63.9% and around 3,812 coding sequences.
-
-[Source](https://doi.org/10.1128/MRA.00421-20)
-
-10.1128/MRA.00421-20
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.26.116038v1)
 
 ---
 
-## Precise phylogenetic analysis of microbial isolates and genomes from metagenomes using PhyloPhlAn 3.0.
- 19.05.2020, _F Asnicar, AM Thomas, F Beghini, C Mengoni, S Manara, P Manghi, Q Zhu, M Bolzan, F Cumbo, U May, JG Sanders, M Zolfo, E Kopylova, E Pasolli, R Knight, S Mirarab, C Huttenhower, N Segata_
+## Preprint: Fluorescent secreted bacterial effectors reveal an intravacuolar replication compartment for Listeria monocytogenes
 
+[Source](https://www.biorxiv.org/content/10.1101/2019.12.23.886689v4)
 
-Microbial genomes are available at an ever-increasing pace, as cultivation and sequencing become cheaper and obtaining metagenome-assembled genomes (MAGs) becomes more effective. Phylogenetic placement methods to contextualize hundreds of thousands of genomes must thus be efficiently scalable and sensitive from closely related strains to divergent phyla. We present PhyloPhlAn 3.0, an accurate, rapid, and easy-to-use method for large-scale microbial genome characterization and phylogenetic analysis at multiple levels of resolution. PhyloPhlAn 3.0 can assign genomes from isolate sequencing or MAGs to species-level genome bins built from &gt;230,000 publically available sequences. For individual clades of interest, it reconstructs strain-level phylogenies from among the closest species using clade-specific maximally informative markers. At the other extreme of resolution, it scales to large phylogenies comprising &gt;17,000 microbial species. Examples including Staphylococcus aureus isolates, gut metagenomes, and meta-analyses demonstrate the ability of PhyloPhlAn 3.0 to support genomic and metagenomic analyses.
+---
 
-[Source](https://www.nature.com/articles/s41467-020-16366-7)
+## 2 Art Gallery Shows to Explore From Home
 
-10.1038/s41467-020-16366-7
+[Source](https://www.nytimes.com/2020/05/20/arts/design/art-shows-to-see-from-home.html)
+
+---
+
+## Ten simple rules for making training materials FAIR
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
 
 ---
 
