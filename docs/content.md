@@ -130,15 +130,15 @@ A functional readout of the gut microbiome is necessary to enable precise contro
 
 ---
 
-## Health impact of the Anthropocene: the complex relationship between gut microbiota, epigenetics, and human health, using obesity as an example.
- 07.05.2020, _C Torp Austvoll, V Gallo, D Montag_
+## Differences in breastfeeding rate between mothers delivering by caesarean section and those delivering vaginally.
+ 27.05.2020, _D Lagerberg, T Wallby, M Magnusson_
 
 
-The growing prevalence of obesity worldwide poses a public health challenge in the current geological epoch, the Anthropocene. Global changes caused by urbanisation, loss of biodiversity, industrialisation, and land-use are happening alongside microbiota dysbiosis and increasing obesity prevalence. How alterations of the gut microbiota are associated with obesity and the epigenetic mechanism mediating this and other health outcome associations are in the process of being unveiled. Epigenetics is emerging as a key mechanism mediating the interaction between human body and the environment in producing disease. Evidence suggests that the gut microbiota plays a role in obesity as it contributes to different mechanisms, such as metabolism, body weight and composition, inflammatory responses, insulin signalling, and energy extraction from food. Consistently, obese people tend to have a different epigenetic profile compared to non-obese. However, evidence is usually scattered and there is a growing need for a structured framework to conceptualise this complexity and to help shaping complex solutions. In this paper, we propose a framework to analyse the observed associations between the alterations of microbiota and health outcomes and the role of epigenetic mechanisms underlying them using obesity as an example, in the current context of global changes within the Anthropocene.
+Aim: The aim of the study was to analyse the impact of delivery on breastfeeding at 6 months, with special focus on caesarean section combined with established breastfeeding at 2 months. Methods: Delivery mode and breastfeeding at 2 and 6 months were studied in a database of 130,993 infants from two Swedish counties between 1990-2011. Results: The difference in breastfeeding rates at 6 months between children delivered by caesarean section and children delivered vaginally was smaller in a subpopulation of children with established breastfeeding at 2 months compared to all children. The impact of delivery method on breastfeeding at 6 months was independent of child gender, mother's first child, maternal smoking and maternal education. Conclusions: Breastfeeding in mothers giving birth by caesarean section is more likely to continue until (at least) 6 months if established early (at 2 months). It may be worthwhile to promote breastfeeding for mothers who deliver by caesarean section.
 
 [Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_3)
 
-10.1017/gheg.2020.2
+10.1177/1403494820911788
 
 ---
 
@@ -148,15 +148,15 @@ The growing prevalence of obesity worldwide poses a public health challenge in t
 
 ---
 
-## [Gut Microbiota and Pancreatobiliary System].
- 25.05.2020, _KH Ryu_
+## Targeting Infectious Agents as a Therapeutic Strategy in Alzheimer's Disease.
+ 27.05.2020, _T Fülöp, U Munawara, A Larbi, M Desroches, S Rodrigues, M Catanzaro, A Guidolin, A Khalil, F Bernier, AE Barron, K Hirokawa, PB Beauregard, D Dumoulin, JP Bellenger, JM Witkowski, E Frost_
 
 
-The gut microbiota is part of the human body that is involved in body metabolism and the occurrence of various diseases. Detecting and analyzing their genetic information (microbiome) is as important as analyzing human genes. The core microbiome, the key functional genes shared by all humans, helps better understand the physiology of the human body. Information on the gut microbiome of a diseased person can help diagnose and treat disease. The pancreatobiliary system releases functional antimicrobial substances, such as bile acids and antimicrobial peptides, which affect the gut microbiota directly. In response, the gut microbiota influences pancreatobiliary secretion by controlling the generation and emission of substances through indirect signaling. This crosstalk maintains homeostasis of the pancreatobiliary system secretion and microbiota. Dysbiosis and disease can occur if this fails to work properly. Bile acid therapy has been used widely and may affect the microbial environment in the intestine. An association of the gut microbiota has been reported in many cases of pancreatobiliary diseases, including malignant tumors. Traditionally, most pancreatobiliary diseases are accompanied by infections from the gut microbiota, which is an important target for treatment. The pancreatobiliary system can control its function through physical and drug therapy. This may be a new pioneering field in the study or treatment of the gut microbiota.
+Alzheimer's disease (AD) is the most prevalent dementia in the world. Its cause(s) are presently largely unknown. The most common explanation for AD, now, is the amyloid cascade hypothesis, which states that the cause of AD is senile plaque formation by the amyloid β peptide, and the formation of neurofibrillary tangles by hyperphosphorylated tau. A second, burgeoning theory by which to explain AD is based on the infection hypothesis. Much experimental and epidemiological data support the involvement of infections in the development of dementia. According to this mechanism, the infection either directly or via microbial virulence factors precedes the formation of amyloid β plaques. The amyloid β peptide, possessing antimicrobial properties, may be beneficial at an early stage of AD, but becomes detrimental with the progression of the disease, concomitantly with alterations to the innate immune system at both the peripheral and central levels. Infection results in neuroinflammation, leading to, and sustained by, systemic inflammation, causing eventual neurodegeneration, and the senescence of the immune cells. The sources of AD-involved microbes are various body microbiome communities from the gut, mouth, nose, and skin. The infection hypothesis of AD opens a vista to new therapeutic approaches, either by treating the infection itself or modulating the immune system, its senescence, or the body's metabolism, either separately, in parallel, or in a multi-step way.
 
 [Source](https://link.springer.com/chapter/10.1007/978-3-030-43246-1_11)
 
-10.4166/kjg.2020.75.5.231
+10.1007/s40263-020-00737-1
 
 ---
 
