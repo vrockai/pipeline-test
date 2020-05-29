@@ -1,7 +1,8 @@
 ## Is social connectedness a risk factor for the spreading of COVID-19 among older adults? The Italian paradox.
- 26.05.2020, _G Liotta, MC Marazzi, S Orlando, L Palombi_
+ 28.05.2020, _G Liotta, MC Marazzi, S Orlando, L Palombi_
 
 
+_Aged, 80 and over, Betacoronavirus, Coronavirus Infections, Family Characteristics, Female, Humans, Italy, Male, Nursing Homes, Pandemics, Pneumonia, Viral, Social Behavior, Social Isolation_
 Italy was one of the first European countries affected by the new coronavirus (COVID-19) pandemic, with over 105,000 infected people and close to 13,000 deaths, until March 31st. The pandemic has hit especially hard because of the country's demographic structure, with a high percentage of older adults. The authors explore the possibility, recently aired in some studies, of extensive intergenerational contact as a possible determinant of the severity of the pandemic among the older Italian adults. We analyzed several variables to test this hypothesis, such as the percentage of infected patients aged &gt;80 years, available nursing home beds, COVID-19 incidence rate, and the number of days from when the number of positive tests exceeded 50 (epidemic maturity). We also included in the analysis mean household size and percentage of households comprising one person, in the region. Paradoxically, the results are opposite of what was previously reported. The pandemic was more severe in regions with higher family fragmentation and increased availability of residential health facilities.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233329)
@@ -65,15 +66,9 @@ We agree with Zheng and colleagues that a statistical measure of heterogeneity i
 
 ---
 
-## Persistent Diarrhea in Patients With Crohn's Disease After Mucosal Healing is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis.
- 29.03.2020, _K Boland, L Bedrani, W Turpin, B Kabakchiev, J Stempak, K Borowski, G Nguyen, AH Steinhart, MI Smith, K Croitoru, MS Silverberg_
-
-
-In patients with inflammatory bowel diseases (IBD), symptoms do not always associate with the severity of endoscopic inflammation and can persist after mucosal healing. We investigated whether symptoms in patients with successfully treated IBD are related to composition of the intestinal microbiome.
+## Persistent Diarrhea in Patients With Crohn’s Disease After Mucosal Healing Is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis
 
 [Source](https://www.cghjournal.org/article/S1542-3565(20)30402-X/abstract)
-
-10.1016/j.cgh.2020.03.044
 
 ---
 
@@ -125,26 +120,15 @@ Antibiotic administration can be a cause of gastrointestinal disease in horses, 
 
 ---
 
-## The use of ozone gas for the inactivation of Bacillus anthracis and Bacillus subtilis spores on building materials.
- 21.05.2020, _JP Wood, M Wendling, W Richter, J Rogers_
-
-
-A study was conducted to assess the efficacy of ozone gas in inactivating spores of both Bacillus anthracis and Bacillus subtilis inoculated onto six building materials (glass, wood, carpet, laminate, galvanized metal, and wallboard paper). Testing conditions consisted of ozone gas concentrations ranging from 7,000-12,000 parts per million (ppm), contact times from 4 to 12 h, and two relative humidity (RH) levels of 75 and 85%. Results showed that increasing the ozone concentration, contact time, and RH generally increased decontamination efficacy. The materials in which the highest decontamination efficacy was achieved for B. anthracis spores were wallboard paper, carpet, and wood with ≥ 6 log10 reduction (LR) occurring with 9,800 ppm ozone, 85% RH, for 6 h. The laminate and galvanized metal materials were generally more difficult to decontaminate, requiring 12,000 ppm ozone, 85% RH, and 9-12 h contact time to achieve ≥6 LR of B. anthracis. Lastly, overall, there were no significant differences in decontamination efficacy between the two species.
+## The use of ozone gas for the inactivation of Bacillus anthracis and Bacillus subtilis spores on building materials
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233291)
 
-10.1371/journal.pone.0233291
-
 ---
 
-## Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2.
- 26.05.2020, _A Breiman, N Ruvën-Clouet, J Le Pendu_
-
-
+## Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008556)
-
-10.1371/journal.ppat.1008556
 
 ---
 
