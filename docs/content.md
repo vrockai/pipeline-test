@@ -125,15 +125,26 @@ Antibiotic administration can be a cause of gastrointestinal disease in horses, 
 
 ---
 
-## The use of ozone gas for the inactivation of Bacillus anthracis and Bacillus subtilis spores on building materials
+## The use of ozone gas for the inactivation of Bacillus anthracis and Bacillus subtilis spores on building materials.
+ 21.05.2020, _JP Wood, M Wendling, W Richter, J Rogers_
+
+
+A study was conducted to assess the efficacy of ozone gas in inactivating spores of both Bacillus anthracis and Bacillus subtilis inoculated onto six building materials (glass, wood, carpet, laminate, galvanized metal, and wallboard paper). Testing conditions consisted of ozone gas concentrations ranging from 7,000-12,000 parts per million (ppm), contact times from 4 to 12 h, and two relative humidity (RH) levels of 75 and 85%. Results showed that increasing the ozone concentration, contact time, and RH generally increased decontamination efficacy. The materials in which the highest decontamination efficacy was achieved for B. anthracis spores were wallboard paper, carpet, and wood with ≥ 6 log10 reduction (LR) occurring with 9,800 ppm ozone, 85% RH, for 6 h. The laminate and galvanized metal materials were generally more difficult to decontaminate, requiring 12,000 ppm ozone, 85% RH, and 9-12 h contact time to achieve ≥6 LR of B. anthracis. Lastly, overall, there were no significant differences in decontamination efficacy between the two species.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233291)
 
+10.1371/journal.pone.0233291
+
 ---
 
-## Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2
+## Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2.
+ 26.05.2020, _A Breiman, N Ruvën-Clouet, J Le Pendu_
+
+
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008556)
+
+10.1371/journal.ppat.1008556
 
 ---
 
