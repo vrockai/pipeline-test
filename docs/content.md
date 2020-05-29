@@ -1,176 +1,195 @@
-## Is social connectedness a risk factor for the spreading of COVID-19 among older adults? The Italian paradox.
- 28.05.2020, _G Liotta, MC Marazzi, S Orlando, L Palombi_
+## Treatments in the COVID-19 pandemic: an update on clinical trials.
+ 25.05.2020, _YY Tao, LV Tang, Y Hu_
 
 
-_Aged, 80 and over, Betacoronavirus, Coronavirus Infections, Family Characteristics, Female, Humans, Italy, Male, Nursing Homes, Pandemics, Pneumonia, Viral, Social Behavior, Social Isolation_
-Italy was one of the first European countries affected by the new coronavirus (COVID-19) pandemic, with over 105,000 infected people and close to 13,000 deaths, until March 31st. The pandemic has hit especially hard because of the country's demographic structure, with a high percentage of older adults. The authors explore the possibility, recently aired in some studies, of extensive intergenerational contact as a possible determinant of the severity of the pandemic among the older Italian adults. We analyzed several variables to test this hypothesis, such as the percentage of infected patients aged &gt;80 years, available nursing home beds, COVID-19 incidence rate, and the number of days from when the number of positive tests exceeded 50 (epidemic maturity). We also included in the analysis mean household size and percentage of households comprising one person, in the region. Paradoxically, the results are opposite of what was previously reported. The pandemic was more severe in regions with higher family fragmentation and increased availability of residential health facilities.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233329)
+[Source](https://www.tandfonline.com/doi/full/10.1080/14728214.2020.1773431)
 
-10.1371/journal.pone.0233329
+10.1080/14728214.2020.1773431
 
 ---
 
-## Persistence: mechanisms for triggering and enhancing phenotypic variability.
- 25.11.2011, _NQ Balaban_
+## Ozone Treatment for Elimination of Bacteria and SARS-CoV2 for Medical Environments
 
-
-_Adaptation, Physiological, Anti-Bacterial Agents, Antitoxins, Bacteria, Bacterial Toxins, Cell Division, Cell Survival, Drug Resistance, Bacterial, Gene Expression Regulation, Bacterial, Genetic Variation, Models, Biological, Phenotype_
-When microorganisms are exposed to lethal agents, the initial exponential decay in survival is typically followed by a slower decrease. This tailing of the survival curve is due to persister cells that have differentiated into phenotypes with reduced sensitivity to the lethal agent. We review the environmental factors that have been shown to trigger such differentiation processes, as well as the network motifs that enable the co-existence of persistent and nonpersistent cells within genetically uniform populations. Threshold amplification of noise and bi-stability from positive feedback emerge as key motifs underlying persistence.
-
-[Source](Enhancing bacterial survival through phenotypic heterogeneity)
-
-10.1016/j.gde.2011.10.001
+[Source](https://www.biorxiv.org/content/10.1101/420737v2.abstract?%3Fcollection=)
 
 ---
 
-## Review: Enhancing bacterial survival through phenotypic 
-
-[Source](Enhancing bacterial survival through phenotypic heterogeneity)
-
----
-
-## Levels of Employment and Community Engagement among Low-Income Adults: Implications for Medicaid Work Requirements.
- 28.05.2020, _A Soni, C Gian, K Simon, BD Sommers_
+## Practical strategies for a safe and effective delivery of aerosolized medications to patients with COVID-19.
+ 22.05.2020, _A Ari_
 
 
-Twenty states are pursuing community engagement requirements ("work requirements") in Medicaid, though legal challenges are ongoing. While most non-disabled low-income individuals work, it is less clear how many engage in the required number of hours of qualifying community engagement activities, and what heterogeneity may exist by race/ethnicity, age, and gender. Our objective was to estimate current levels of employment and other community engagement activities among potential Medicaid beneficiaries.
+_Administration, Inhalation, Aerosols, Betacoronavirus, Coronavirus Infections, Drug Delivery Systems, Humans, Infection Control, Nebulizers and Vaporizers, Pandemics, Pneumonia, Viral_
+The COVID-19, the disease caused by a novel coronavirus and named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread rapidly across the globe. It has caused outbreaks of illness due to person-to-person transmission of the virus mainly via close contacts and droplets produced by an infected person's cough or sneeze. Exhaled droplets from infected patients with COVID-19 can be inhaled into the lungs and leads to respiratory illness such as pneumonia and acute respiratory distress syndrome. Although aerosol therapy is a mainstay procedure used to treat pulmonary diseases at home and healthcare settings, it has a potential for fugitive emissions during therapy due to the generation of aerosols and droplets as a source of respiratory pathogens. Delivering aerosolized medications to patients with COVID-19 can aggravate the spread of the novel coronavirus. This has been a real concern for caregivers and healthcare professionals who are susceptible to unintended inhalation of fugitive emissions during therapy. Due to a scarcity of information in this area of clinical practice, the purpose of this paper is to explain how to deliver aerosolized medications to mild-, sub-intensive, and intensive-care patients with COVID-19 and how to protect staff from exposure to exhaled droplets during aerosol therapy.
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008439)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.26.063032v3?%3Fcollection=)
 
-10.1215/03616878-8641567
+10.1016/j.rmed.2020.105987
 
 ---
 
-## heterogeneity
+## Coronavirus, as a source of pandemic pathogens
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008439)
-
----
-
-## Adverse effects of electronic cigarettes on the disease-naive oral microbiome
-
-[Source](https://advances.sciencemag.org/content/6/22/eaaz0108)
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.26.063032v3?%3Fcollection=)
 
 ---
 
-## Preprint: Shotgun Metagenomics of 361 elderly women reveals gut microbiome change in bone mass loss
-
-[Source](//www.biorxiv.org/content/10.1101/679985v2)
-
----
-
-## Permissive microbiome characterizes human subjects with a neurovascular disease cavernous angioma.
- 28.05.2020, _SP Polster, A Sharma, C Tanes, AT Tang, P Mericko, Y Cao, J Carrión-Penagos, R Girard, J Koskimäki, D Zhang, A Stadnik, SG Romanos, SB Lyne, R Shenkar, K Yan, C Lee, A Akers, L Morrison, M Robinson, A Zafar, K Bittinger, H Kim, JA Gilbert, ML Kahn, L Shen, IA Awad_
+## Are women publishing less during the pandemic? Here's what the data say.
+ 27.05.2020, _G Viglione_
 
 
-Cavernous angiomas (CA) are common vascular anomalies causing brain hemorrhage. Based on mouse studies, roles of gram-negative bacteria and altered intestinal homeostasis have been implicated in CA pathogenesis, and pilot study had suggested potential microbiome differences between non-CA and CA individuals based on 16S rRNA gene sequencing. We here assess microbiome differences in a larger cohort of human subjects with and without CA, and among subjects with different clinical features, and conduct more definitive microbial analyses using metagenomic shotgun sequencing. Relative abundance of distinct bacterial species in CA patients is shown, consistent with postulated permissive microbiome driving CA lesion genesis via lipopolysaccharide signaling, in humans as in mice. Other microbiome differences are related to CA clinical behavior. Weighted combinations of microbiome signatures and plasma inflammatory biomarkers enhance associations with disease severity and hemorrhage. This is the first demonstration of a sensitive and specific diagnostic microbiome in a human neurovascular disease.
 
-[Source](https://www.nature.com/articles/s41467-020-16436-w)
+[Source](https://www.nature.com/articles/d41586-020-01294-9?WT.ec_id=NATURE-20200528&utm_source=nature_etoc&utm_medium=email&utm_campaign=20200528&sap-outbound-id=E7C0E474B1F435F2F5AEB8165A40F71D01EFEFDB)
 
-10.1038/s41467-020-16436-w
+10.1038/d41586-020-01294-9
 
 ---
 
-## Persistent Diarrhea in Patients With Crohn's Disease After Mucosal Healing Is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis.
- 28.05.2020, _K Boland, L Bedrani, W Turpin, B Kabakchiev, J Stempak, K Borowski, G Nguyen, AH Steinhart, MI Smith, K Croitoru, MS Silverberg_
+## Coronavirus vaccine trials have delivered their first results - but their promise is still unclear.
+ 27.05.2020, _E Callaway_
 
 
-In patients with inflammatory bowel diseases (IBDs), symptoms do not always associate with the severity of endoscopic inflammation and can persist after mucosal healing. We investigated whether symptoms in patients with successfully treated IBD are related to the composition of the intestinal microbiome.
 
-[Source](https://www.cghjournal.org/article/S1542-3565(20)30402-X/abstract)
+[Source](https://www.nature.com/articles/d41586-020-01092-3?WT.ec_id=NATURE-20200528&utm_source=nature_etoc&utm_medium=email&utm_campaign=20200528&sap-outbound-id=E7C0E474B1F435F2F5AEB8165A40F71D01EFEFDB)
 
-10.1016/j.cgh.2020.03.044
-
----
-
-## Fecal microbiota transplantation in systemic sclerosis: A double-blind, placebo-controlled randomized pilot trial.
- 21.05.2020, _H Fretheim, BK Chung, H Didriksen, ES Bækkevold, Ø Midtvedt, C Brunborg, K Holm, J Valeur, AH Tennøe, T Garen, T Midtvedt, M Trøseid, H Zarè, MB Lund, JR Hov, KEA Lundin, Ø Molberg, AM Hoffmann-Vold_
-
-
-Systemic sclerosis (SSc) is an auto-immune, multi organ disease marked by severe gastrointestinal (GI) involvement and gut dysbiosis. Here, we aimed to determine the safety and efficacy of fecal microbiota transplantation (FMT) using commercially-available anaerobic cultivated human intestinal microbiota (ACHIM) in SSc.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232739)
-
-10.1371/journal.pone.0232739
+10.1038/d41586-020-01092-3
 
 ---
 
-## A high-fat diet induces a microbiota-dependent increase in stem cell activity in the Drosophila intestine.
- 26.05.2020, _J von Frieling, MN Faisal, F Sporn, R Pfefferkorn, SS Nolte, F Sommer, P Rosenstiel, T Roeder_
+## How to address the coronavirus's outsized toll on people of colour.
+ 28.05.2020, _N Subbaraman_
 
 
-Over-consumption of high-fat diets (HFDs) is associated with several pathologies. Although the intestine is the organ that comes into direct contact with all diet components, the impact of HFD has mostly been studied in organs that are linked to obesity and obesity related disorders. We used Drosophila as a simple model to disentangle the effects of a HFD on the intestinal structure and physiology from the plethora of other effects caused by this nutritional intervention. Here, we show that a HFD, composed of triglycerides with saturated fatty acids, triggers activation of intestinal stem cells in the Drosophila midgut. This stem cell activation was transient and dependent on the presence of an intestinal microbiota, as it was completely absent in germ free animals. Moreover, major components of the signal transduction pathway have been elucidated. Here, JNK (basket) in enterocytes was necessary to trigger synthesis of the cytokine upd3 in these cells. This ligand in turn activated the JAK/STAT pathway in intestinal stem cells. Chronic subjection to a HFD markedly altered both the microbiota composition and the bacterial load. Although HFD-induced stem cell activity was transient, long-lasting changes to the cellular composition, including a substantial increase in the number of enteroendocrine cells, were observed. Taken together, a HFD enhances stem cell activity in the Drosophila gut and this effect is completely reliant on the indigenous microbiota and also dependent on JNK signaling within intestinal enterocytes.
 
-[Source](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008789)
+[Source](https://www.nature.com/articles/d41586-020-01470-x?WT.ec_id=NATURE-20200528&utm_source=nature_etoc&utm_medium=email&utm_campaign=20200528&sap-outbound-id=E7C0E474B1F435F2F5AEB8165A40F71D01EFEFDB)
 
-10.1371/journal.pgen.1008789
-
----
-
-## The cecal and fecal microbiomes and metabolomes of horses before and after metronidazole administration.
- 25.05.2020, _CE Arnold, A Isaiah, R Pilla, J Lidbury, JS Coverdale, TR Callaway, SD Lawhon, J Steiner, JS Suchodolski_
-
-
-Antibiotic administration can be a cause of gastrointestinal disease in horses, creating a disruption in the normal population and function of bacteria found in the hindgut. The objective of this study was to describe the changes in the cecal and fecal microbiomes and metabolomes of clinically healthy horses before and after metronidazole administration. Metronidazole (15 mg/kg BID PO) was given to five horses with cecal cannulas. The study was suspended on Day 3 due to adverse gastrointestinal effects. Cecal and fecal samples were obtained before (Days minus52, m28, m14, and 0) and after (Days 7, 14, 28, and 52) metronidazole administration. DNA was extracted from the cecal and fecal samples, and 16S rRNA genes were sequenced. Richness and evenness indices were significantly decreased by metronidazole administration in both cecal and fecal samples, but the overall composition was only significantly changed in fecal samples on Day 3 (ANOSIM, p = 0.008). The most dominant phyla were Bacteroidetes and Firmicutes in all groups examined. In fecal samples, significant changes of the phyla Actinobacteria, Spirochaetes, Lentisphaerae, and Verrucomicrobia occurred on Day 3, which correlated with clinical signs of gastrointestinal disease. The metabolome was characterized by mass spectrometry-based methods and only named metabolites were included in the analysis. Fecal, but not cecal, metabolites were significantly affected by metronidazole. The fecal metabolites affected represent diverse metabolic pathways, such as the metabolism of amino acids, carbohydrates, lipids, nucleic acids and cofactors and vitamins. Metronidazole administration has potential to cause adverse effects in horses, alters the bacterial composition of the horse's cecal and fecal content, and the metabolome of fecal samples.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232905)
-
-10.1371/journal.pone.0232905
+10.1038/d41586-020-01470-x
 
 ---
 
-## Functional diversity of rhizosphere soil microbial communities in response to different tillage and crop residue retention in a double-cropping rice field
+## The role of gastric microbiota in gastric cancer.
+ 25.05.2020, _OA Stewart, F Wu, Y Chen_
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233642)
 
----
+Gastric cancer represents one of the leading causes of cancer deaths worldwide. Helicobacter pylori (H. pylori) infection is the strongest risk factor associated with gastric cancer. Due to new molecular techniques allowing greater identification of stomach microbes, investigators are beginning to examine the role that bacteria other than H. pylori play in gastric cancer development. Recently, researchers have investigated how the composition of the gastric microbiota varies among individuals with various stages of gastric disease. Specific microbes residing in the stomach have been preferentially associated with gastric cancer patients compared to individuals with a healthy gastric mucosa. Studies conducted on the insulin-gastrin (INS-GAS) transgenic mouse model have provided additional insight into the association between the gastric microbiota and gastric cancer. The purpose of this article is to review the current state of literature on the relationship between the gastric microbiota and gastric cancer based on clinical studies performed to date.
 
-## Microbiome analysis of healthy and diseased sponges Lubomirskia baicalensis by using cell cultures of primmorphs
+[Source](https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1762520)
 
-[Source](https://peerj.com/articles/9080)
-
----
-
-## The use of ozone gas for the inactivation of Bacillus anthracis and Bacillus subtilis spores on building materials
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233291)
+10.1080/19490976.2020.1762520
 
 ---
 
-## Harnessing the natural anti-glycan immune response to limit the transmission of enveloped viruses such as SARS-CoV-2
+## Ongoing Supplementation of Probiotics to Cesarean-Born Neonates during the First Month of Life may Impact the Gut Microbial.
+ 23.05.2020, _W Yang, L Tian, J Luo, J Yu_
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008556)
 
----
+The delivery mode is considered to be a significant influencing factor in the early gut microbiota composition, which is associated with the long-term health of the host. In this study, we tried to explore the effects of probiotics on the intestinal microbiota of C-section neonates.
 
-## Review: A viral journey to the brain: Current considerations and future developments
+[Source](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1710559)
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008434)
-
----
-
-## Preprint: A global data-driven census of Salmonella small proteins and their potential functions in bacterial virulence
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.26.116038v1)
+10.1055/s-0040-1710559
 
 ---
 
-## Preprint: Fluorescent secreted bacterial effectors reveal an intravacuolar replication compartment for Listeria monocytogenes
+## Azole use in agriculture reduces Aspergillus fumigatus abundance but does not alter its population structure 
 
-[Source](https://www.biorxiv.org/content/10.1101/2019.12.23.886689v4)
-
----
-
-## 2 Art Gallery Shows to Explore From Home
-
-[Source](https://www.nytimes.com/2020/05/20/arts/design/art-shows-to-see-from-home.html)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.26.116616v1?%3Fcollection=)
 
 ---
 
-## Ten simple rules for making training materials FAIR
+## Neuropathological and biochemical investigation of Hereditary Ferritinopathycases with ferritin light chain mutation: Prominent protein aggregation in the absence of major mitochondrial or oxidative stress.
+ 28.05.2020, _M Kurzawa-Akanbi, M Keogh, E Tsefou, L Ramsay, M Johnson, S Keers, LW Ochieng, A McNair, P Singh, A Khan, A Pyle, G Hudson, PG Ince, J Attems, J Burn, PF Chinnery, CM Morris_
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
+
+Neuroferritinopathyor Hereditary Ferritinopathy (HF)is an autosomal dominant movement disorder due to mutation in the light chain of the iron storage protein ferritin (FTL).HF is the only late-onset neurodegeneration with brain iron accumulation disorder andstudy of HF offers a unique opportunity to understand the role of iron in more common neurodegenerative syndromes.
+
+[Source](https://www.jimmunol.org/content/204/1_Supplement/141.3.abstract)
+
+10.1111/nan.12634
+
+---
+
+## Genetics but not intestinal microbiota determines the onset of systemic autoimmune disease in BXD2 mice
+
+[Source](https://www.jimmunol.org/content/204/1_Supplement/141.3.abstract)
+
+---
+
+## Exploring the eukaryotic diversity in rumen of Indian camel (Camelus dromedarius) using 18S rRNA amplicon sequencing.
+ 25.05.2020, _P Mishra, NJ Tulsani, SJ Jakhesara, NA Dafale, NV Patil, HJ Purohit, PG Koringa, CG Joshi_
+
+
+In addition to a wide variety of anaerobic and facultative anaerobic bacteria, camel rumen also harbors a diverse of eukaryotic organisms. In the present study, the eukaryotic communities of camel rumen were characterized using 18S rRNA amplicon sequencing. Metagenomic DNA was isolated from rumen samples of fourteen adult Bikaneri and Kachchhi breeds of camel fed different diets containing Jowar, Bajra, Maize, and Guar. Illumina sequencing generated 27,161,904 number of reads corresponding to 1543 total operational taxonomic units (OTUs). Taxonomic classification of community metagenome sequences from all the samples revealed the presence of 92 genera belonging to 16 different divisions, out of which Ciliophora (73%), Fungi (13%) and Streptophyta (9%) were found to be the most dominant. Notably, the abundance of Ciliophora was significantly higher in the case of Guar feed, while Fungi was significantly higher in the case of Maize feed, indicating the influence of cellulose and hemicellulose content of feedstuff on the composition of eukaryotes. The results suggest that the camel rumen eukaryotes are highly dynamic and depend on the type of diet given to the animal. Pearson's correlation analysis suggested the ciliate protozoa and fungi were negatively correlated with each other. To the best of our knowledge, this is first systematic study to characterize camel rumen eukaryotes, which has provided newer information regarding eukaryotic diversity patterns amongst camel fed on different diets.
+
+[Source](https://link.springer.com/content/pdf/10.1007/s00203-020-01897-w.pdf)
+
+10.1007/s00203-020-01897-w
+
+---
+
+## Metabolic cooperation among commensal bacteria supports Drosophila juvenile growth under nutritional stress
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.27.119370v1?%3Fcollection=)
+
+---
+
+## IBD Microbial Metabolome: The Good, Bad, and Unknown – Sidebottom and Chang
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1043276020301132)
+
+---
+
+## Livestock grazing abandonment reduces soil microbial activity and carbon storage in a Mediterranean Dehesa
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0929139318312812)
+
+---
+
+## Microbial Consortiums of Hydrogenotrophic Methanogenic Mixed Cultures in Lab-Scale Ex-Situ Biogas Upgrading Systems under Dierent Conditions of Temperature, pH and CO
+
+[Source](https://www.mdpi.com/2076-2607/8/5/772)
+
+---
+
+## Halotolerant plant growth–promoting bacteria: Prospects for alleviating salinity stress in plants
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0098847220301507)
+
+---
+
+## Fertilization changes soil microbiome functioning, especially phagotrophic protists
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0038071720301607)
+
+---
+
+## Effect of combined application of organic and inorganic phosphatic fertilizers on dynamic of microbial biomass in semi-arid soil
+
+[Source](https://www.researchgate.net/profile/Shahab_Ahmad_Khosa/publication/341508970_Effect_of_combined_application_of_organic_and_inorganic_phosphatic_fertilizers_on_dynamic_of_microbial_biomass_in_semi-arid_soil/links/5ec4e39792851c11a8779895/Effect-of-combined-application-of-organic-and-inorganic-phosphatic-fertilizers-on-dynamic-of-microbial-biomass-in-semi-arid-soil.pdf)
+
+---
+
+## High levels of primary biogenic organic aerosols are driven by only a few plant-associated microbial taxa
+
+[Source](http://web.b.ebscohost.com/ehost/detail/detail?vid=0&sid=4bc45d39-8040-4380-969c-f169e787756b%40pdc-v-sessmgr06&bdata=JkF1dGhUeXBlPWNvb2tpZSxpcCx1cmwsY3BpZCZjdXN0aWQ9czQ2NDA3OTImc2l0ZT1laG9zdC1saXZl#db=eih&AN=143331594)
+
+---
+
+## Complexity of bacterial and fungal network increases with soil aggregate size in an agricultural Inceptisol
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0929139319316415)
+
+---
+
+## Novel Approaches to Minimising Mycotoxin Contamination
+
+[Source](https://books.google.com/books?hl=en&lr=lang_en&id=DknmDwAAQBAJ&oi=fnd&pg=PA1&dq=extremophile+OR+extremophiles+OR+%E2%80%9Cbuilt+environment%E2%80%9D+microbiology&ots=allrgDhIJP&sig=-UQRTepL5y-3e16qx9M52TXLxDU#v=onepage&q&f=false)
+
+---
+
+## Mentholation triggers brand-specific shifts in the bacterial microbiota of commercial cigarette products
+
+[Source](https://link.springer.com/content/pdf/10.1007/s00253-020-10681-1.pdf)
 
 ---
 
