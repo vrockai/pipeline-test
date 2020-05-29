@@ -30,15 +30,15 @@ When microorganisms are exposed to lethal agents, the initial exponential decay 
 
 ---
 
-## Response to letter: Non-vitamin-K oral anticoagulants may not significantly reduce the risk of fatal or disabling stroke compared to warfarin.
- 27.05.2020, _M Costello, C Judge, MJ O'Donnell, M Canavan_
+## Levels of Employment and Community Engagement among Low-Income Adults: Implications for Medicaid Work Requirements.
+ 28.05.2020, _A Soni, C Gian, K Simon, BD Sommers_
 
 
-We agree with Zheng and colleagues that a statistical measure of heterogeneity is an important consideration in selecting a fixed or random effects model. However, it should not be considered the sole criterion. In meta-analyses that include small numbers of trials, such as ours, results of tests for heterogeneity should be interpreted with caution, as they may be underpowered. A fixed effects model has been advocated when meta-analysing small number of studies (less than five trials), given the concern about inaccurate estimation of between-study variance (1), as the estimation of τ2 (between-study variance), and therefore of μ (estimate of underlying mean effect), is highly imprecise (2).
+Twenty states are pursuing community engagement requirements ("work requirements") in Medicaid, though legal challenges are ongoing. While most non-disabled low-income individuals work, it is less clear how many engage in the required number of hours of qualifying community engagement activities, and what heterogeneity may exist by race/ethnicity, age, and gender. Our objective was to estimate current levels of employment and other community engagement activities among potential Medicaid beneficiaries.
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008439)
 
-10.1111/ene.14366
+10.1215/03616878-8641567
 
 ---
 
@@ -60,15 +60,27 @@ We agree with Zheng and colleagues that a statistical measure of heterogeneity i
 
 ---
 
-## Permissive microbiome characterizes human subjects with a neurovascular disease cavernous angioma
+## Permissive microbiome characterizes human subjects with a neurovascular disease cavernous angioma.
+ 28.05.2020, _SP Polster, A Sharma, C Tanes, AT Tang, P Mericko, Y Cao, J Carrión-Penagos, R Girard, J Koskimäki, D Zhang, A Stadnik, SG Romanos, SB Lyne, R Shenkar, K Yan, C Lee, A Akers, L Morrison, M Robinson, A Zafar, K Bittinger, H Kim, JA Gilbert, ML Kahn, L Shen, IA Awad_
+
+
+Cavernous angiomas (CA) are common vascular anomalies causing brain hemorrhage. Based on mouse studies, roles of gram-negative bacteria and altered intestinal homeostasis have been implicated in CA pathogenesis, and pilot study had suggested potential microbiome differences between non-CA and CA individuals based on 16S rRNA gene sequencing. We here assess microbiome differences in a larger cohort of human subjects with and without CA, and among subjects with different clinical features, and conduct more definitive microbial analyses using metagenomic shotgun sequencing. Relative abundance of distinct bacterial species in CA patients is shown, consistent with postulated permissive microbiome driving CA lesion genesis via lipopolysaccharide signaling, in humans as in mice. Other microbiome differences are related to CA clinical behavior. Weighted combinations of microbiome signatures and plasma inflammatory biomarkers enhance associations with disease severity and hemorrhage. This is the first demonstration of a sensitive and specific diagnostic microbiome in a human neurovascular disease.
 
 [Source](https://www.nature.com/articles/s41467-020-16436-w)
 
+10.1038/s41467-020-16436-w
+
 ---
 
-## Persistent Diarrhea in Patients With Crohn’s Disease After Mucosal Healing Is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis
+## Persistent Diarrhea in Patients With Crohn's Disease After Mucosal Healing Is Associated With Lower Diversity of the Intestinal Microbiome and Increased Dysbiosis.
+ 28.05.2020, _K Boland, L Bedrani, W Turpin, B Kabakchiev, J Stempak, K Borowski, G Nguyen, AH Steinhart, MI Smith, K Croitoru, MS Silverberg_
+
+
+In patients with inflammatory bowel diseases (IBDs), symptoms do not always associate with the severity of endoscopic inflammation and can persist after mucosal healing. We investigated whether symptoms in patients with successfully treated IBD are related to the composition of the intestinal microbiome.
 
 [Source](https://www.cghjournal.org/article/S1542-3565(20)30402-X/abstract)
+
+10.1016/j.cgh.2020.03.044
 
 ---
 
