@@ -15,19 +15,6 @@
 
 ---
 
-## Practical strategies for a safe and effective delivery of aerosolized medications to patients with COVID-19.
- 22.05.2020, _A Ari_
-
-
-_Administration, Inhalation, Aerosols, Betacoronavirus, Coronavirus Infections, Drug Delivery Systems, Humans, Infection Control, Nebulizers and Vaporizers, Pandemics, Pneumonia, Viral_
-The COVID-19, the disease caused by a novel coronavirus and named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has spread rapidly across the globe. It has caused outbreaks of illness due to person-to-person transmission of the virus mainly via close contacts and droplets produced by an infected person's cough or sneeze. Exhaled droplets from infected patients with COVID-19 can be inhaled into the lungs and leads to respiratory illness such as pneumonia and acute respiratory distress syndrome. Although aerosol therapy is a mainstay procedure used to treat pulmonary diseases at home and healthcare settings, it has a potential for fugitive emissions during therapy due to the generation of aerosols and droplets as a source of respiratory pathogens. Delivering aerosolized medications to patients with COVID-19 can aggravate the spread of the novel coronavirus. This has been a real concern for caregivers and healthcare professionals who are susceptible to unintended inhalation of fugitive emissions during therapy. Due to a scarcity of information in this area of clinical practice, the purpose of this paper is to explain how to deliver aerosolized medications to mild-, sub-intensive, and intensive-care patients with COVID-19 and how to protect staff from exposure to exhaled droplets during aerosol therapy.
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.26.063032v3?%3Fcollection=)
-
-10.1016/j.rmed.2020.105987
-
----
-
 ## Coronavirus, as a source of pandemic pathogens
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.04.26.063032v3?%3Fcollection=)
@@ -85,15 +72,9 @@ Gastric cancer represents one of the leading causes of cancer deaths worldwide. 
 
 The delivery mode is considered to be a significant influencing factor in the early gut microbiota composition, which is associated with the long-term health of the host. In this study, we tried to explore the effects of probiotics on the intestinal microbiota of C-section neonates.
 
-[Source](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0040-1710559)
+[Source](https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0040-1710559.pdf)
 
 10.1055/s-0040-1710559
-
----
-
-## Azole use in agriculture reduces Aspergillus fumigatus abundance but does not alter its population structure 
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.26.116616v1?%3Fcollection=)
 
 ---
 
@@ -115,6 +96,12 @@ Neuroferritinopathyor Hereditary Ferritinopathy (HF)is an autosomal dominant mov
 
 ---
 
+## Metabolic cooperation among commensal bacteria supports Drosophila juvenile growth under nutritional stress
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.27.119370v1?%3Fcollection=)
+
+---
+
 ## Exploring the eukaryotic diversity in rumen of Indian camel (Camelus dromedarius) using 18S rRNA amplicon sequencing.
  25.05.2020, _P Mishra, NJ Tulsani, SJ Jakhesara, NA Dafale, NV Patil, HJ Purohit, PG Koringa, CG Joshi_
 
@@ -127,27 +114,21 @@ In addition to a wide variety of anaerobic and facultative anaerobic bacteria, c
 
 ---
 
-## Metabolic cooperation among commensal bacteria supports Drosophila juvenile growth under nutritional stress
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.27.119370v1?%3Fcollection=)
-
----
-
 ## IBD Microbial Metabolome: The Good, Bad, and Unknown – Sidebottom and Chang
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1043276020301132)
 
 ---
 
-## Livestock grazing abandonment reduces soil microbial activity and carbon storage in a Mediterranean Dehesa
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0929139318312812)
-
----
-
 ## Microbial Consortiums of Hydrogenotrophic Methanogenic Mixed Cultures in Lab-Scale Ex-Situ Biogas Upgrading Systems under Dierent Conditions of Temperature, pH and CO
 
 [Source](https://www.mdpi.com/2076-2607/8/5/772)
+
+---
+
+## Livestock grazing abandonment reduces soil microbial activity and carbon storage in a Mediterranean Dehesa
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0929139318312812)
 
 ---
 
@@ -178,6 +159,12 @@ In addition to a wide variety of anaerobic and facultative anaerobic bacteria, c
 ## Complexity of bacterial and fungal network increases with soil aggregate size in an agricultural Inceptisol
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0929139319316415)
+
+---
+
+## Azole use in agriculture reduces Aspergillus fumigatus abundance but does not alter its population structure 
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.26.116616v1?%3Fcollection=)
 
 ---
 
