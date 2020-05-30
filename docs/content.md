@@ -91,15 +91,15 @@ The delivery mode is considered to be a significant influencing factor in the ea
 
 ---
 
-## Neuropathological and biochemical investigation of Hereditary Ferritinopathycases with ferritin light chain mutation: Prominent protein aggregation in the absence of major mitochondrial or oxidative stress.
- 28.05.2020, _M Kurzawa-Akanbi, M Keogh, E Tsefou, L Ramsay, M Johnson, S Keers, LW Ochieng, A McNair, P Singh, A Khan, A Pyle, G Hudson, PG Ince, J Attems, J Burn, PF Chinnery, CM Morris_
+## Efficacies of different ovarian hyperstimulation protocols in poor ovarian responders classified by the POSEIDON criteria.
+ 29.05.2020, _F Li, T Ye, H Kong, J Li, L Hu, H Jin, Y Su, G Li_
 
 
-Neuroferritinopathyor Hereditary Ferritinopathy (HF)is an autosomal dominant movement disorder due to mutation in the light chain of the iron storage protein ferritin (FTL).HF is the only late-onset neurodegeneration with brain iron accumulation disorder andstudy of HF offers a unique opportunity to understand the role of iron in more common neurodegenerative syndromes.
+We retrospectively analyzed clinical data from 45,912 in vitro fertilization/intracytoplasmic sperm injection cycles in our reproductive medical center. We compared the clinical outcomes of three different ovarian hyperstimulation protocols in poor ovarian responders (classified by the POSEIDON criteria) to determine the most effective protocol for each POSEIDON group. In POSEIDON groups 1 and 3, the early-follicular-phase long-acting GnRH-agonist long (EFLL) protocol was associated with higher pregnancy rates per transfer and higher live birth rates than the mid-luteal-phase short-acting GnRH-agonist long (MLSL) and GnRH-antagonist protocols. We also examined the relationship between advanced age and reproductive outcomes, and observed a negative correlation between age and live birth rate for each protocol (EFLL: OR = 0.890, 95% CI: 0.870 - 0.911, P &lt; 0.001; MLSL: OR = 0.907, 95% CI: 0.885 - 0.926, P &lt; 0.001; GnRH-antagonist: OR = 0.891, 95% CI: 0.857 - 0.926, P &lt; 0.001). In terms of clinical outcomes, EFLL was the most effective protocol for young poor ovarian responders. However, there were no differences in the implantation rates, clinical pregnancy rates, or live birth rates among the protocols in older patients. Age is thus the most important determinant of oocyte quality, embryo ploidy, and delivery rate.
 
 [Source](https://www.jimmunol.org/content/204/1_Supplement/141.3.abstract)
 
-10.1111/nan.12634
+10.18632/aging.103210
 
 ---
 
