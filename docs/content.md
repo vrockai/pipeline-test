@@ -1,111 +1,90 @@
-## Antimicrobial resistance in the age of COVID-19
+## The interplay between immune system and microbiota in gynecological diseases: a narrative review
 
-[Source](https://www.nature.com/articles/s41564-020-0739-4?utm_source=nmicrobiol_etoc&utm_medium=email&utm_campaign=toc_41564_5_6&utm_content=20200529&WT.ec_id=NMICROBIOL-202006&sap-outbound-id=25430F7B589B922A39DBCEDF0ED724655A1A40B1)
-
----
-
-## Metatranscriptomic Characterization of COVID-19 Identified A Host Transcriptional Classifier Associated With Immune Signaling.
- 28.05.2020, _H Zhang, JW Ai, W Yang, X Zhou, F He, S Xie, W Zeng, Y Li, Y Yu, X Gou, Y Li, X Wang, H Su, T Xu, W Zhang_
-
-
-The recent identification of a novel coronavirus, also known as SARS-CoV-2, has caused a global outbreak of respiratory illnesses. The rapidly developing pandemic has posed great challenges to diagnosis of this novel infection. However, little is known about the metatranscriptomic characteristics of patients with Coronavirus Disease 2019 (COVID-19).
-
-[Source](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa663/5848165?searchresult=1)
-
-10.1093/cid/ciaa663
+[Source](http://scholar.google.com/scholar_url?url=https://www.europeanreview.org/wp/wp-content/uploads/5676-5690.pdf&hl=en&sa=X&d=10333862866869026052&scisig=AAGBfm3jVjsYHSYvmqy852dJs77d6HEFnA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
 
 ---
 
-## Monitoring the microbiome for food safety and quality using deep shotgun sequencing
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.18.102574v2.abstract?%3Fcollection=)
-
----
-
-## Fecal microbiota transplantation efficacy for Clostridium difficile infection: A trans-kingdom battle between donor and recipient gut microbiomes
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.27.120386v1.abstract?%3Fcollection=)
-
----
-
-## The human tumor microbiome is composed of tumor type-specific intracellular bacteria.
- 29.05.2020, _D Nejman, I Livyatan, G Fuks, N Gavert, Y Zwang, LT Geller, A Rotter-Maskowitz, R Weiser, G Mallel, E Gigi, A Meltser, GM Douglas, I Kamer, V Gopalakrishnan, T Dadosh, S Levin-Zaidman, S Avnet, T Atlan, ZA Cooper, R Arora, AP Cogdill, MAW Khan, G Ologun, Y Bussi, A Weinberger, M Lotan-Pompan, O Golani, G Perry, M Rokah, K Bahar-Shany, EA Rozeman, CU Blank, A Ronai, R Shaoul, A Amit, T Dorfman, R Kremer, ZR Cohen, S Harnof, T Siegal, E Yehuda-Shnaidman, EN Gal-Yam, H Shapira, N Baldini, MGI Langille, A Ben-Nun, B Kaufman, A Nissan, T Golan, M Dadiani, K Levanon, J Bar, S Yust-Katz, I Barshack, DS Peeper, DJ Raz, E Segal, JA Wargo, J Sandbank, N Shental, R Straussman_
+## Lifestyle and the presence of helminths is associated with gut microbiome composition in Cameroonians.
+ 26.05.2020, _MA Rubel, A Abbas, LJ Taylor, A Connell, C Tanes, K Bittinger, VN Ndze, JY Fonsah, E Ngwang, A Essiane, C Fokunang, AK Njamnshi, FD Bushman, SA Tishkoff_
 
 
-Bacteria were first detected in human tumors more than 100 years ago, but the characterization of the tumor microbiome has remained challenging because of its low biomass. We undertook a comprehensive analysis of the tumor microbiome, studying 1526 tumors and their adjacent normal tissues across seven cancer types, including breast, lung, ovary, pancreas, melanoma, bone, and brain tumors. We found that each tumor type has a distinct microbiome composition and that breast cancer has a particularly rich and diverse microbiome. The intratumor bacteria are mostly intracellular and are present in both cancer and immune cells. We also noted correlations between intratumor bacteria or their predicted functions with tumor types and subtypes, patients' smoking status, and the response to immunotherapy.
+African populations provide a unique opportunity to interrogate host-microbe co-evolution and its impact on adaptive phenotypes due to their genomic, phenotypic, and cultural diversity. We integrate gut microbiome 16S rRNA amplicon and shotgun metagenomic sequence data with quantification of pathogen burden and measures of immune parameters for 575 ethnically diverse Africans from Cameroon. Subjects followed pastoralist, agropastoralist, and hunter-gatherer lifestyles and were compared to an urban US population from Philadelphia.
 
-[Source](https://science.sciencemag.org/content/368/6494/973/tab-figures-data)
+[Source](http://scholar.google.com/scholar_url?url=https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02020-4&hl=en&sa=X&d=8212152131365543539&scisig=AAGBfm0ChCTBewr9RUFsh9O8JYKrSDgQgQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
 
-10.1126/science.aay9189
+10.1186/s13059-020-02020-4
 
 ---
 
-## Pathogenesis, transmission and response to re-exposure of SARS-CoV-2 in domestic cats
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.28.120998v1.abstract?%3Fcollection=)
-
----
-
-## The heart microbiome of insectivorous bats from Central and South Eastern Europe
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.30.069815v2.abstract?%3Fcollection=)
-
----
-
-## Microbial colonization alters neonatal gut metabolome.
- 29.05.2020, _J Wang, MG Dominguez-Bello_
+## Ethnic diversity in infant gut microbiota is apparent before the introduction of complementary diets.
+ 26.05.2020, _J Xu, B Lawley, G Wong, A Otal, L Chen, TJ Ying, X Lin, WW Pang, F Yap, YS Chong, PD Gluckman, YS Lee, MF Chong, GW Tannock, N Karnani_
 
 
+The human gut microbiota develops soon after birth and can acquire inter-individual variation upon exposure to intrinsic and environmental cues. However, inter-individual variation has not been comprehensively assessed in a multi-ethnic study. We studied a longitudinal birth cohort of 106 infants of three Asian ethnicities (Chinese, Malay, and Indian) that resided in the same geographical location (Singapore). Specific and temporal influences of ethnicity, mode of delivery, breastfeeding status, gestational age, birthweight, gender, and maternal education on the development of the gut microbiota in the first 2 years of life were studied. Mode of delivery, breastfeeding status, and ethnicity were identified as the main factors influencing the compositional development of the gut microbiota. Effects of delivery mode and breastfeeding status lasted until 6M and 3M, respectively, with the primary impact on the diversity and temporal colonization of the genera Bacteroides and Bifidobacterium. The effect of ethnicity was apparent at 3M post-birth, even before the introduction of weaning (complementary) foods, and remained significant after adjusting for delivery mode and breastfeeding status. Ethnic influences remained significant until 12M in the Indian and Chinese infants. The microbiota of Indian infants was characterized by higher abundances of Bifidobacterium and Lactobacillus, while Chinese infants had higher abundances of Bacteroides and Akkermansia. These findings provide a detailed insight into the specific and temporal influences of early life factors and ethnicity in the development of the human gut microbiota. Trial Registration: Clinicaltrials.gov registration no. NCT01174875.
 
-[Source](https://www.nature.com/articles/s41564-020-0734-9?utm_source=nmicrobiol_etoc&utm_medium=email&utm_campaign=toc_41564_5_6&utm_content=20200529&WT.ec_id=NMICROBIOL-202006&sap-outbound-id=25430F7B589B922A39DBCEDF0ED724655A1A40B1)
+[Source](http://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1756150&hl=en&sa=X&d=2418044216697928377&scisig=AAGBfm3l4erHE_u_KoDG40Fza8qn1FJq1A&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
 
-10.1038/s41564-020-0734-9
+10.1080/19490976.2020.1756150
 
 ---
 
-## Breeding for resistance: can we increase crop resistance to pathogens without compromising the ability to accommodate beneficial microbes?
- 23.05.2020, _A Zuccaro, G Langen_
+## Dissimilarity of Airway and Lung Tissue Microbiota in Smokers undergoing Surgery for Lung Cancer.
+ 29.05.2020, _L Reinhold, A Möllering, S Wallis, E Palade, K Schäfer, D Drömann, J Rupp, S Graspeuntner, K Dalhoff_
 
 
+Human airways are continuously colonized by microaspiration of microbiota. Less is known about the presence, origin and composition of microbiota in the lung parenchyma. In a study of 13 patients undergoing surgery for peripheral lung cancer microbiota composition was comparatively evaluated in upper airway, lower airway and lung tissue samples using 16S rDNA analysis. Bacterial density decreased stepwise from upper to lower airways and tissue. On a taxonomic level upper and lower airway microbiota were similar whereas lung tissue showed marked dissimilarities compared to lower airways that may reflect different environmental conditions shaping local microbiota and host immunity.
 
-[Source](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16610)
+[Source](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2076-2607/8/6/794/pdf&hl=en&sa=X&d=14108055407311995625&scisig=AAGBfm12xhuEw7dzGeF1qqHUMSjH5rOUoQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
 
-10.1111/nph.16610
-
----
-
-## Experimental assessment of tree canopy and leaf litter controls on the microbiome and nitrogen fixation rates of two boreal mosses.
- 28.05.2020, _M Jean, H Holland-Moritz, AM Melvin, JF Johnstone, MC Mack_
-
-
-Nitrogen (N2 )-fixing moss microbial communities play key roles in nitrogen cycling of boreal forests. Forest type and leaf litter inputs regulate moss abundance, but how they control moss microbiomes and N2 -fixation remains understudied. We examined the impacts of forest type and broadleaf litter on microbial community composition and N2 -fixation rates of Hylocomium splendens and Pleurozium schreberi. We conducted a moss transplant and leaf litter manipulation experiment at three sites with paired paper birch (Betula neoalaskana) and black spruce (Picea mariana) stands in Alaska. We characterized bacterial communities using marker gene sequencing, determined N2 -fixation rates using stable isotopes (15 N2 ) and measured environmental covariates. Mosses native to and transplanted into spruce stands supported generally higher N2 -fixation and distinct microbial communities compared to similar treatments in birch stands. High leaf litter inputs shifted microbial community composition for both moss species and reduced N2 -fixation rates for H. splendens, which had the highest rates. N2 -fixation was positively associated with several bacterial taxa, including cyanobacteria. The moss microbiome and environmental conditions controlled N2 -fixation at the stand and transplant scales. Predicted shifts from spruce- to deciduous-dominated stands will interact with the relative abundances of mosses supporting different microbiomes and N2 -fixation rates, which could affect stand-level N inputs.
-
-[Source](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16611)
-
-10.1111/nph.16611
+10.3390/microorganisms8060794
 
 ---
 
-## Drought Drives Spatial Variation in the Millet Root Microbiome
+## Chemotherapy-induced ileal crypt apoptosis and the ileal&nbsp;microbiome&nbsp;shape immunosurveillance and prognosis of proximal colon cancer
 
-[Source](https://www.frontiersin.org/articles/10.3389/fpls.2020.00599/full)
-
----
-
-## Streptomyces' scent attracts spore dispersers.
- 29.05.2020, _M Rohlfs_
-
-
-
-[Source](https://www.nature.com/articles/s41564-020-0730-0?utm_source=nmicrobiol_etoc&utm_medium=email&utm_campaign=toc_41564_5_6&utm_content=20200529&WT.ec_id=NMICROBIOL-202006&sap-outbound-id=25430F7B589B922A39DBCEDF0ED724655A1A40B1)
-
-10.1038/s41564-020-0730-0
+[Source](http://scholar.google.com/scholar_url?url=https://www.nature.com/articles/s41591-020-0882-8&hl=en&sa=X&d=16954399354167056290&scisig=AAGBfm3oqfBJtRZovfaIrCK6Zigwz0Jrew&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
 
 ---
 
-## Diazotrophic bacteria from maize exhibit multifaceted plant growth promotion traits in multiple hosts
+## Characterization of the bacterial microbiota composition and evolution at different intestinal tract in wild pigs (Sus scrofa ussuricus)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.17.100859v1)
+[Source](http://scholar.google.com/scholar_url?url=https://peerj.com/articles/9124/&hl=en&sa=X&d=2326075225279100314&scisig=AAGBfm0sMh9DN_zgD35cYn_7MBOIJ40DwQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
+
+---
+
+## Dietary Soluble and Insoluble Fiber With or Without Enzymes Altered the Intestinal Microbiota in Weaned Pigs Challenged With Enterotoxigenic E. coli F18
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.frontiersin.org/articles/10.3389/fmicb.2020.01110/full&hl=en&sa=X&d=5125170466643222229&scisig=AAGBfm0yFOUFCmS8qo8IzPySH1xBiGgH6Q&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
+
+---
+
+## The Dynamics of Interacting Bacterial and Fungal&nbsp;Communities<strong>&nbsp;</strong>of the Mouse Colon Following Antibiotics
+
+[Source](http://scholar.google.com/scholar_url?url=https://link.springer.com/content/pdf/10.1007/s00248-020-01525-6.pdf&hl=en&sa=X&d=17200220685118681476&scisig=AAGBfm1rTWDKon4mGXDvLTgG574fNeWaQg&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
+
+---
+
+## Assessment of overall&nbsp;microbial&nbsp;community shift during Cheddar cheese production from raw milk to aging
+
+[Source](http://scholar.google.com/scholar_url?url=https://link.springer.com/content/pdf/10.1007/s00253-020-10651-7.pdf&hl=en&sa=X&d=17623045605711268833&scisig=AAGBfm2-Tl_Vs9NUW6vLWewTB4OsQIZL3A&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:489127521551979671:AAGBfm1AubYP_Oznxke33zOc3LOQGAQzTw)
+
+---
+
+## Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan
+
+[Source](https://www.nature.com/articles/s41564-020-0720-2)
+
+---
+
+## A rapid urban biodiversity blitz using aquatic environmental DNA
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.27.116905v1)
+
+---
+
+## The representation of women as authors of submissions to ecology journals during the COVID-19 pandemic
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.29.123455v1)
 
 ---
 
