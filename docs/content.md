@@ -4,9 +4,15 @@
 
 ---
 
-## Lifestyle and the presence of helminths is associated with gut microbiome composition in Cameroonians
+## Lifestyle and the presence of helminths is associated with gut microbiome composition in Cameroonians.
+ 26.05.2020, _MA Rubel, A Abbas, LJ Taylor, A Connell, C Tanes, K Bittinger, VN Ndze, JY Fonsah, E Ngwang, A Essiane, C Fokunang, AK Njamnshi, FD Bushman, SA Tishkoff_
+
+
+African populations provide a unique opportunity to interrogate host-microbe co-evolution and its impact on adaptive phenotypes due to their genomic, phenotypic, and cultural diversity. We integrate gut microbiome 16S rRNA amplicon and shotgun metagenomic sequence data with quantification of pathogen burden and measures of immune parameters for 575 ethnically diverse Africans from Cameroon. Subjects followed pastoralist, agropastoralist, and hunter-gatherer lifestyles and were compared to an urban US population from Philadelphia.
 
 [Source](http://scholar.google.com/scholar_url?url=https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02020-4&hl=en&sa=X&d=8212152131365543539&scisig=AAGBfm0ChCTBewr9RUFsh9O8JYKrSDgQgQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
+
+10.1186/s13059-020-02020-4
 
 ---
 
@@ -43,18 +49,6 @@ Human airways are continuously colonized by microaspiration of microbiota. Less 
 ## Characterization of the bacterial microbiota composition and evolution at different intestinal tract in wild pigs (Sus scrofa ussuricus)
 
 [Source](http://scholar.google.com/scholar_url?url=https://peerj.com/articles/9124/&hl=en&sa=X&d=2326075225279100314&scisig=AAGBfm0sMh9DN_zgD35cYn_7MBOIJ40DwQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
-
----
-
-## Calcium Bioavailability of Opuntia ficus-indica Cladodes in an Ovariectomized Rat Model of Postmenopausal Bone Loss.
- 20.05.2020, _M Quintero-García, E Gutiérrez-Cortez, A Rojas-Molina, M Mendoza-Ávila, A Del Real, E Rubio, D Jiménez-Mendoza, I Rojas-Molina_
-
-
-Osteoporosis is a disease of the skeletal system characterized by low bone mass and bone weakening, which increase the risk of fracture. This disease is associated with menopause because hypoestrogenism induces the maturation and activation of osteoclasts. In addition, a low dietary intake of calcium leads to low bone mineral density and postmenopausal osteoporosis. The objectives of this work were to determine calcium bioavailability of Opuntia ficus-indica cladodes at a late maturity stage and to assess its contribution in improving bone health in an ovariectomized rat model. Two-month-old Wistar female rats (n = 35) were used and distributed in seven experimental groups: (i) control group (Crtl), (ii) sham group (SH), (iii) ovariectomized group (OVX), (iv) ovariectomized group supplemented with calcium citrate (CCa), (v) ovariectomized group supplemented with O. ficus-indica powder (NI), (vi) ovariectomized group supplemented with soluble fiber from O. ficus-indica (FS) and (vii) ovariectomized group supplemented with insoluble fiber from O. ficus-indica (FI). Our results showed that calcium in the soluble fiber of O. ficus-indica is bioavailable and contributes to improve the physical, densitometric, biomechanical and microstructural properties of bones in ovariectomized rats. These findings indicated that O. ficus-indica cladodes at a late maturity stage represent a good source of bioavailable calcium and consumption of these cladodes might be beneficial for the prevention of osteoporosis and other bone diseases.
-
-[Source](http://scholar.google.com/scholar_url?url=https://www.frontiersin.org/articles/10.3389/fmicb.2020.01110/full&hl=en&sa=X&d=5125170466643222229&scisig=AAGBfm0yFOUFCmS8qo8IzPySH1xBiGgH6Q&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
-
-10.3390/nu12051431
 
 ---
 
