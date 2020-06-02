@@ -1,12 +1,12 @@
-## Reply.
- 31.05.2020, _M Atiquzzaman, ME Karim, J Kopec, H Wong, AH Anis_
+## Systematic reassessment of chemokine-receptor pairings confirms CCL20 but not CXCL13 and extends the spectrum of ACKR4 agonists to CCL22.
+ 01.06.2020, _M Meyrath, N Reynders, T Uchański, A Chevigné, M Szpakowska_
 
 
-We are pleased to respond to the commentary by Dr. Chao Cheng and colleagues on our recent publication entitled "Role of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) in the Association between Osteoarthritis and Cardiovascular Diseases: A Longitudinal Study" that was published in Arthritis &amp; Rheumatology in November 2019 (1). The commentary raises important issues about further exploring the characteristics of our study population (the elderly) in whom it is well known that both the chronic conditions of OA and CVD are more prevalent.
+Atypical chemokine receptors (ACKRs) have emerged as important regulators or scavengers of homeostatic and inflammatory chemokines. Among these atypical receptors, ACKR4 is reported to bind the homeostatic chemokines CCL19, CCL21, CCL25 and CXCL13. In a recent study by Matti et al., the authors show that ACKR4 is also a receptor for CCL20, previously established to bind to CCR6 only. They provide convincing evidence that, just as for its other chemokine ligands, ACKR4 rapidly internalizes CCL20 both in vitro and in vivo. Independently of this discovery, we undertook a screening program aiming at reassessing the activity of the 43 human chemokines toward ACKR4 using a highly sensitive β-arrestin recruitment assay. This systematic analysis confirmed CCL20 as a new agonist ligand for ACKR4 in addition to CCL19, CCL21, and CCL25. Furthermore, CCL22, which plays an important role in both homeostasis and inflammatory responses, and is known as a ligand for CCR4 and ACKR2 was found to also act as a potent partial agonist of ACKR4. In contrast, agonist activity of CXCL13 toward ACKR4 was disproved. This independent wide-range systematic study confirms the pairing of CCL20 with ACKR4 newly discovered by Matti and co-authors, and further refines the spectrum of chemokines activating ACKR4.
 
 [Source](https://www.nature.com/articles/s41467-020-16562-5)
 
-10.1002/art.41377
+10.1002/JLB.2AB0520-275R
 
 ---
 
@@ -16,15 +16,15 @@ We are pleased to respond to the commentary by Dr. Chao Cheng and colleagues on 
 
 ---
 
-## GATA3 induces the upregulation of UCP-1 by directly binding to PGC-1α during adipose tissue browning.
- 30.05.2020, _MJ Son, KJ Oh, A Park, MG Kwon, JM Suh, IC Kim, S Kim, SC Lee, WK Kim, KH Bae_
+## Miconazole inhibits signal transducer and activator of transcription 3 signaling by preventing its interaction with DNA damage-induced apoptosis suppressor.
+ 01.06.2020, _SH Yoon, BK Kim, MJ Kang, JY Im, M Won_
 
 
-Obesity is recognized as the cause of multiple metabolic diseases and is rapidly increasing worldwide. As obesity is due to an imbalance in energy homeostasis, the promotion of energy consumption through browning of white adipose tissue (WAT) has emerged as a promising therapeutic strategy to counter the obesity epidemic. However, the molecular mechanisms of the browning process are not well understood. In this study, we investigated the effects of the GATA family of transcription factors on the browning process.
+DNA damage-induced apoptosis suppressor (DDIAS) facilitates the survival of lung cancer by suppressing apoptosis. Moreover, DDIAS promotes tyrosine phosphorylation of signal transducer and activator of transcription 3 (STAT3) via their interaction. Here, we identified miconazole as an inhibitor of DDIAS/STAT3 interaction by screening a chemical library using a yeast two-hybrid assay. Miconazole inhibited growth, migration and invasion of lung cancer cells. Furthermore, miconazole suppressed STAT3 tyrosine Y705 phosphorylation and the expression of its target genes, such as cyclin D1, survivin and snail but had no suppressive effect on the activation of ERK1/2 or AKT, which is involved in the survival of lung cancer. As expected, no interaction between DDIAS and STAT3 occurred in the presence of miconazole, as confirmed by immunoprecipitation assays. Mouse xenograft experiments showed that miconazole significantly suppressed both tumor size and weight in an NCI-H1703 mouse model. Tyrosine phosphorylation of STAT3 at Y705 and expression of its targets, such as cyclin D1, survivin and snail, were decreased in miconazole-treated tumor tissues, as compared with those in vehicle-treated tumor tissues. These data suggest that miconazole exerts an anti-cancer effect by suppressing STAT3 activation through inhibiting DDIAS/STAT3 binding.
 
 [Source](https://www.kribb.re.kr/eng2/main/main.jsp)
 
-10.1016/j.metabol.2020.154280
+10.1111/cas.14432
 
 ---
 
@@ -34,15 +34,15 @@ Obesity is recognized as the cause of multiple metabolic diseases and is rapidly
 
 ---
 
-## Current challenges and future opportunities of phage therapy.
- 30.05.2020, _DP Pires, AR Costa, G Pinto, L Meneses, J Azeredo_
+## Coupling Lattice Instabilities Across the Interface in Ultrathin Oxide Heterostructures.
+ 01.06.2020, _TC van Thiel, J Fowlie, C Autieri, N Manca, M Šiškins, D Afanasiev, S Gariglio, AD Caviglia_
 
 
-Antibiotic resistance is a major public health challenge worldwide, whose implications for global health might be devastating if novel antibacterial strategies are not quickly developed. As natural predators of bacteria, (bacterio)phages may play an essential role in escaping such a dreadful future. The rising problem of antibiotic resistance has revived the interest in phage therapy and important developments have been achieved over the last years. But where do we stand today and what can we expect from phage therapy in the future? This is the question we set to answer in this review. Here, we scour the outcomes of human phage therapy clinical trials and case reports and address the major barriers that stand in the way of using phages in clinical settings. We particularly address the potential of phage resistance to hinder phage therapy and discuss future avenues to explore the full capacity of phage therapy.
+Oxide heterointerfaces constitute a rich platform for realizing novel functionalities in condensed matter. A key aspect is the strong link between structural and electronic properties, which can be modified by interfacing materials with distinct lattice symmetries. Here, we determine the effect of the cubic-tetragonal distortion of SrTiO3 on the electronic properties of thin films of SrIrO3, a topological crystalline metal hosting a delicate interplay between spin-orbit coupling and electronic correlations. We demonstrate that below the transition temperature at 105 K, SrIrO3 orthorhombic domains couple directly to tetragonal domains in SrTiO3. This forces the in-phase rotational axis to lie in-plane and creates a binary domain structure in the SrIrO3 film. The close proximity to the metal-insulator transition in ultrathin SrIrO3 causes the individual domains to have strongly anisotropic transport properties, driven by a reduction of bandwidth along the in-phase axis. The strong structure-property relationships in perovskites make these compounds particularly suitable for static and dynamic coupling at interfaces, providing a promising route towards realizing novel functionalities in oxide heterostructures.
 
 [Source](http://kavli.tudelft.nl/)
 
-10.1093/femsre/fuaa017
+10.1021/acsmaterialslett.9b00540
 
 ---
 
@@ -69,33 +69,9 @@ Antibiotic resistance is a major public health challenge worldwide, whose implic
 
 ---
 
-## The Weight Optimization Revamping Lifestyle using the Dietary Guidelines (WORLD) Study: Sustained Weight Loss Over 12 Months.
- 31.05.2020, _TL Psota, AM Tindall, B Lohse, PE Miller, KS Petersen, PM Kris-Etherton_
-
-
-This study aimed to compare two energy-restricted, nutrient-dense diets at the upper or lower ends of the dietary fat recommendation range (lower fat [20% energy from fat] versus moderate fat [35%]) on weight loss using behavioral theory-based nutrition education.
-
-[Source](https://www.nature.com/articles/s41467-020-16562-5)
-
-10.1002/oby.22824
-
----
-
 ## This study
 
 [Source](https://www.nature.com/articles/s41467-020-16562-5)
-
----
-
-## Structural insight into the electron transfer pathway of a self-sufficient P450 monooxygenase.
- 01.06.2020, _L Zhang, Z Xie, Z Liu, S Zhou, L Ma, W Liu, JW Huang, TP Ko, X Li, Y Hu, J Min, X Yu, RT Guo, CC Chen_
-
-
-Cytochrome P450 monooxygenases are versatile heme-thiolate enzymes that catalyze a wide range of reactions. Self-sufficient cytochrome P450 enzymes contain the redox partners in a single polypeptide chain. Here, we present the crystal structure of full-length CYP116B46, a self-sufficient P450. The continuous polypeptide chain comprises three functional domains, which align well with the direction of electrons traveling from FMN to the heme through the [2Fe-2S] cluster. FMN and the [2Fe-2S] cluster are positioned closely, which facilitates efficient electron shuttling. The edge-to-edge straight-line distance between the [2Fe-2S] cluster and heme is approx. 25.3 Å. The role of several residues located between the [2Fe-2S] cluster and heme in the catalytic reaction is probed in mutagenesis experiments. These findings not only provide insights into the intramolecular electron transfer of self-sufficient P450s, but are also of interest for biotechnological applications of self-sufficient P450s.
-
-[Source](https://www.nature.com/ncomms/)
-
-10.1038/s41467-020-16500-5
 
 ---
 
