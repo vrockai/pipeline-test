@@ -46,18 +46,6 @@ Autism spectrum disorder (ASD) is a complex neurodevelopmental pathology charact
 
 ---
 
-## Short-term high intensity interval training (HIIT) exercise does not affect gut bacterial community diversity or composition of lean and overweight men.
- 01.06.2020, _EA Rettedal, JME Cree, SE Adams, C MacRae, PM Skidmore, D Cameron-Smith, N Gant, C Blenkiron, TL Merry_
-
-
-What is the central question of this study? Does short-term high intensity interval training alter microbiome composition, and does this associate with exercise-induced improvements in cardiorespiratory fitness and insulin sensitivity? What is the main finding and its importance? Despite high intensity interval training increasing insulin sensitivity and cardiovascular fitness it did not alter microbiome composition. This suggests microbiome composition changes that occur with prolonged exercise training may respond to changes in metabolic health rather than drive exercise training induced adaptations.
-
-[Source](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/EP088744)
-
-10.1113/EP088744
-
----
-
 ## Short-term High Intensity Interval Training (HIIT) Exercise Does Not Affect Gut Bacterial Community Diversity or Composition of Lean and Overweight Men 
 
 [Source](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/EP088744)
@@ -94,27 +82,9 @@ What is the central question of this study? Does short-term high intensity inter
 
 ---
 
-## The complex relationship between drugs and the microbiome.
- 20.04.2020, _N Savage_
-
-
-_Anti-Bacterial Agents, Bacteria, Gastrointestinal Microbiome, Host Microbial Interactions, Humans, Pharmaceutical Preparations_
+## The complex relationship between drugs and the microbiome
 
 [Source](https://www.nature.com/articles/d41586-020-00196-0)
-
-10.1038/d41586-020-00196-0
-
----
-
-## Integrating the Ecosystem Services Framework to Define Dysbiosis of the Breastfed Infant Gut: The Role of B. infantis and Human Milk Oligosaccharides.
- 01.05.2020, _RM Duar, BM Henrick, G Casaburi, SA Frese_
-
-
-Mounting evidence supports a connection between the composition of the infant gut microbiome and long-term health. In fact, aberrant microbiome compositions during key developmental windows in early life are associated with increased disease risk; therefore, making pertinent modifications to the microbiome during infancy offers significant promise to improve human health. There is growing support for integrating the concept of ecosystem services (the provision of benefits from ecosystems to humans) in linking specific microbiome functions to human well-being. This framework is widely applied in conservation efforts of macro-ecosystems and offers a systematic approach to guide restoration actions aimed to recover critical ecological functions. The aim of this work is to apply the ecosystem services framework to integrate recent studies demonstrating stable alteration of the gut microbiome of breastfed infants when Bifidobacterium longum subsp. infantis EVC001, a gut symbiont capable of efficiently utilizing human milk oligosaccharides into organic acids that are beneficial for the infant and lower intestinal pH, is reintroduced. Additionally, using examples from the literature we illustrate how the absence of B. infantis results in diminished ecosystem services, which may be associated with health consequences related to immune and metabolic disorders. Finally, we propose a model by which infant gut dysbiosis can be defined as a reduction in ecosystem services supplied to the host by the gut microbiome rather than merely changes in diversity or taxonomic composition. Given the increased interest in targeted microbiome modification therapies to decrease acute and chronic disease risk, the model presented here provides a framework to assess the effectiveness of such strategies from a host-centered perspective.
-
-[Source](https://www.the-scientist.com/features/the-infant-gut-microbiome-and-probiotics-that-work-67563)
-
-10.3389/fnut.2020.00033
 
 ---
 
