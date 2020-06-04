@@ -1,126 +1,163 @@
-## Alzheimer’s &amp; Brain Awareness Month 2020
-
-[Source](https://www.asbmb.org/asbmb-today/science/060120/alzheimer-s-brain-awareness-month-2020)
-
----
-
-## Medium and long-term effects of low doses of Chlorpyrifos during the postnatal, preweaning developmental stage on sociability, dominance, gut microbiota and plasma metabolites.
- 30.03.2020, _C Perez-Fernandez, M Morales-Navas, LM Aguilera-Sáez, AC Abreu, L Guardia-Escote, I Fernández, JA Garrido-Cárdenas, MT Colomina, E Giménez, F Sánchez-Santed_
+## Predictive biology: modelling, understanding and harnessing microbial complexity.
+ 30.05.2020, _AJ Lopatkin, JJ Collins_
 
 
-Autism spectrum disorder (ASD) is a complex neurodevelopmental pathology characterized by altered verbalizations, reduced social interaction behavior, and stereotypies. Environmental factors have been associated with its development. Some researchers have focused on pesticide exposure. Chlorpyrifos (CPF) is the most used Organophosphate. Previous developmental studies with CPF showed decreased, enhanced or no effect on social outcomes eminently in mice. The study of CPF exposure during preweaning stages on social behavior is sparse in mice and non-existent in rats. d stressors could be at the basis of ASD development, and around postnatal day 10 in the rat is equivalent to the human birthday in neurodevelopmental terms. We explored the effects of exposure to low doses (1mg/kg/mL/day) of CPF during this stage regarding: sociability, dominance gut microbiome and plasma metabolomic profile, since alterations in these systems have also been linked to ASD. There was a modest influence of CPF on social behavior in adulthood, with null effects during adolescence. Dominance and hierarchical status were not affected by exposure. Dominance status explained the significant reduction in reaction to social novelty observed on the sociability test. CPF induced a significant gut microbiome dysbiosis and triggered a hyperlipidemic, hypoglycemic/hypogluconeogenesis and a general altered cell energy production in females. These behavioral results in rats extend and complement previous studies with mice and show novel influences on gut metagenomics and plasma lipid profile and metabolomics, but do not stablish a relation between the exposure to CPF and the ASD phenotype. The effects of dominance status on reaction to social novelty have an important methodological meaning for future research on sociability.
+Predictive biology is the next great chapter in synthetic and systems biology, particularly for microorganisms. Tasks that once seemed infeasible are increasingly being realized such as designing and implementing intricate synthetic gene circuits that perform complex sensing and actuation functions, and assembling multi-species bacterial communities with specific, predefined compositions. These achievements have been made possible by the integration of diverse expertise across biology, physics and engineering, resulting in an emerging, quantitative understanding of biological design. As ever-expanding multi-omic data sets become available, their potential utility in transforming theory into practice remains firmly rooted in the underlying quantitative principles that govern biological systems. In this Review, we discuss key areas of predictive biology that are of growing interest to microbiology, the challenges associated with the innate complexity of microorganisms and the value of quantitative methods in making microbiology more predictable.
 
-[Source](https://www.nature.com/articles/d41586-020-00198-y)
+[Source](https://www.nature.com/articles/s41579-020-0372-5)
 
-10.1016/j.envres.2020.109341
+10.1038/s41579-020-0372-5
 
 ---
 
-## Could the gut microbiome be linked to autism?
+## The Gut Microbiome’s Role in the Development, Maintenance, and Outcomes of Sepsis
 
-[Source](https://www.nature.com/articles/d41586-020-00198-y)
-
----
-
-## Interactions between the microbiome and mating influence the female’s transcriptional profile in Drosophila melanogaster
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.30.125427v1)
+[Source](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-02989-1)
 
 ---
 
-## Phenotypic changes of bacteria through opportunity and global methylation leads to antibiotic resistance
+## Computer-guided design of optimal microbial consortia for immune system modulation.
+ 10.06.2019, _RR Stein, T Tanoue, RL Szabady, SK Bhattarai, B Olle, JM Norman, W Suda, K Oshima, M Hattori, GK Gerber, C Sander, K Honda, V Bucci_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.27.114090v2?%3Fcollection=)
 
----
+_Animals, Computer Simulation, Firmicutes, Host Microbial Interactions, Immunity, Cellular, Lymphocyte Activation, Mice, Microbial Consortia, T-Lymphocytes, Regulatory_
+Manipulation of the gut microbiota holds great promise for the treatment of diseases. However, a major challenge is the identification of therapeutically potent microbial consortia that colonize the host effectively while maximizing immunologic outcome. Here, we propose a novel workflow to select optimal immune-inducing consortia from microbiome compositicon and immune effectors measurements. Using published and newly generated microbial and regulatory T-cell (Treg) data from germ-free mice, we estimate the contributions of twelve Clostridia strains with known immune-modulating effect to Treg induction. Combining this with a longitudinal data-constrained ecological model, we predict the ability of every attainable and ecologically stable subconsortium in promoting Treg activation and rank them by the Treg Induction Score (TrIS). Experimental validation of selected consortia indicates a strong and statistically significant correlation between predicted TrIS and measured Treg. We argue that computational indexes, such as the TrIS, are valuable tools for the systematic selection of immune-modulating bacteriotherapeutics.
 
-## Peripheral blood microbial signatures in COPD
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02037-9)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.05.31.126367v1)
-
----
-
-## Prebiotics and community composition influence gas production of the human gut microbiota
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.01.30.928085v1.full)
+10.7554/eLife.30916
 
 ---
 
-## Short-term High Intensity Interval Training (HIIT) Exercise Does Not Affect Gut Bacterial Community Diversity or Composition of Lean and Overweight Men 
+## The Promise and Challenge of Cancer Microbiome Research
 
-[Source](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/EP088744)
-
----
-
-## Integrative omics analysis of the termite gut system adaptation to Miscanthus diet identifies lignocellulose degradation enzymes
-
-[Source](https://www.nature.com/articles/s42003-020-1004-3)
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02037-9)
 
 ---
 
-## Phylum-level Diversity of the Microbiome of the Extremophilic Basidiomycete Fungus Pisolithus Arhizus (Scop.) Rauschert: An Island of Biodiversity in a Thermal Soil Desert
+## Antidiabetic Effects of Flavan-3-ols and Their Microbial Metabolites
 
-[Source](https://onlinelibrary.wiley.com/doi/full/10.1002/mbo3.1062)
-
----
-
-## Lactobacillus rhamnosus 2016SWU.05.0601 regulates immune balance in ovalbumin-sensitized mice by modulating the immune-related transcription factors expression and gut microbiota.
- 01.06.2020, _J Song, Y Li, J Li, H Wang, Y Zhang, H Suo_
-
-
-Probiotics regulate host immune balance, which may reduce immune-related diseases. The effects and mechanisms of Lactobacillus rhamnosus 2016SWU.05.0601 (Lr-0601) on immune response in ovalbumin (OVA)-sensitized mice were explored.
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.10554)
-
-10.1002/jsfa.10554
+[Source](https://www.mdpi.com/2072-6643/12/6/1592)
 
 ---
 
-## Lactobacillus Rhamnosus 2016SWU.05.0601 Regulates Immune Balance in Ovalbumin-Sensitized Mice by Modulating the Immune-Related Transcription Factors Expression and Gut Microbiota
+## Longitudinal analysis reveals transition barriers between dominant ecological states in the gut microbiome.
+ 30.05.2020, _R Levy, AT Magis, JC Earls, O Manor, T Wilmanski, J Lovejoy, SM Gibbons, GS Omenn, L Hood, ND Price_
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.10554)
 
----
+The Pioneer 100 Wellness Project involved quantitatively profiling 108 participants' molecular physiology over time, including genomes, gut microbiomes, blood metabolomes, blood proteomes, clinical chemistries, and data from wearable devices. Here, we present a longitudinal analysis focused specifically around the Pioneer 100 gut microbiomes. We distinguished a subpopulation of individuals with reduced gut diversity, elevated relative abundance of the genus Prevotella, and reduced levels of the genus Bacteroides We found that the relative abundances of Bacteroides and Prevotella were significantly correlated with certain serum metabolites, including omega-6 fatty acids. Primary dimensions in distance-based redundancy analysis of clinical chemistries explained 18.5% of the variance in bacterial community composition, and revealed a Bacteroides/Prevotella dichotomy aligned with inflammation and dietary markers. Finally, longitudinal analysis of gut microbiome dynamics within individuals showed that direct transitions between Bacteroides-dominated and Prevotella-dominated communities were rare, suggesting the presence of a barrier between these states. One implication is that interventions seeking to transition between Bacteroides- and Prevotella-dominated communities will need to identify permissible paths through ecological state-space that circumvent this apparent barrier.
 
-## Harnessing Ultrasound-Stimulated Phase Change Contrast Agents to Improve Antibiotic Efficacy Against Methicillin-Resistant Staphylococcus aureus Biofilms
+[Source](https://www.pnas.org/content/pnas/early/2020/05/28/1922498117.full.pdf)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.06.01.127340v1)
-
----
-
-## The hunt for a healthy microbiome 
-
-[Source](https://www.nature.com/articles/d41586-020-00193-3)
+10.1073/pnas.1922498117
 
 ---
 
-## The complex relationship between drugs and the microbiome.
- 20.04.2020, _N Savage_
+## Strain-resolved microbiome sequencing reveals mobile elements that drive bacterial competition on a clinical timescale.
+ 01.06.2020, _S Zlitni, A Bishara, EL Moss, E Tkachenko, JB Kang, RN Culver, TM Andermann, Z Weng, C Wood, C Handy, HP Ji, S Batzoglou, AS Bhatt_
 
 
-_Anti-Bacterial Agents, Bacteria, Gastrointestinal Microbiome, Host Microbial Interactions, Humans, Pharmaceutical Preparations_
+Populations of closely related microbial strains can be simultaneously present in bacterial communities such as the human gut microbiome. We recently developed a de novo genome assembly approach that uses read cloud sequencing to provide more complete microbial genome drafts, enabling precise differentiation and tracking of strain-level dynamics across metagenomic samples. In this case study, we present a proof-of-concept using read cloud sequencing to describe bacterial strain diversity in the gut microbiome of one hematopoietic cell transplantation patient over a 2-month time course and highlight temporal strain variation of gut microbes during therapy. The treatment was accompanied by diet changes and administration of multiple immunosuppressants and antimicrobials.
 
-[Source](https://www.nature.com/articles/d41586-020-00196-0)
+[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00747-0)
 
-10.1038/d41586-020-00196-0
-
----
-
-## Integrating the Ecosystem Services Framework to Define Dysbiosis of the Breastfed Infant Gut: The Role of B. infantis and Human Milk Oligosaccharides.
- 01.05.2020, _RM Duar, BM Henrick, G Casaburi, SA Frese_
-
-
-Mounting evidence supports a connection between the composition of the infant gut microbiome and long-term health. In fact, aberrant microbiome compositions during key developmental windows in early life are associated with increased disease risk; therefore, making pertinent modifications to the microbiome during infancy offers significant promise to improve human health. There is growing support for integrating the concept of ecosystem services (the provision of benefits from ecosystems to humans) in linking specific microbiome functions to human well-being. This framework is widely applied in conservation efforts of macro-ecosystems and offers a systematic approach to guide restoration actions aimed to recover critical ecological functions. The aim of this work is to apply the ecosystem services framework to integrate recent studies demonstrating stable alteration of the gut microbiome of breastfed infants when Bifidobacterium longum subsp. infantis EVC001, a gut symbiont capable of efficiently utilizing human milk oligosaccharides into organic acids that are beneficial for the infant and lower intestinal pH, is reintroduced. Additionally, using examples from the literature we illustrate how the absence of B. infantis results in diminished ecosystem services, which may be associated with health consequences related to immune and metabolic disorders. Finally, we propose a model by which infant gut dysbiosis can be defined as a reduction in ecosystem services supplied to the host by the gut microbiome rather than merely changes in diversity or taxonomic composition. Given the increased interest in targeted microbiome modification therapies to decrease acute and chronic disease risk, the model presented here provides a framework to assess the effectiveness of such strategies from a host-centered perspective.
-
-[Source](https://www.the-scientist.com/features/the-infant-gut-microbiome-and-probiotics-that-work-67563)
-
-10.3389/fnut.2020.00033
+10.1186/s13073-020-00747-0
 
 ---
 
-## The Infant Gut Microbiome and Probiotics that Work
+## Comparative Assessment of Faecal Microbial Composition and Metabonome of Swine, Farmers and Human Control
 
-[Source](https://www.the-scientist.com/features/the-infant-gut-microbiome-and-probiotics-that-work-67563)
+[Source](https://www.nature.com/articles/s41598-020-65891-4)
+
+---
+
+## Matching Between Donors and Ulcerative Colitis Patients Is Important for Long-Term Maintenance After Fecal Microbiota Transplantation
+
+[Source](https://www.mdpi.com/2077-0383/9/6/1650)
+
+---
+
+## Alterations in Vaginal Microbiota and Associated Metabolome in Women With Recurrent Implantation Failure
+
+[Source](https://mbio.asm.org/content/11/3/e03242-19)
+
+---
+
+## Development of the Gut Microbiota in Early Life: The Impact of Cystic Fibrosis and Antibiotic Treatment
+
+[Source](https://linkinghub.elsevier.com/retrieve/pii/S156919932030120X)
+
+---
+
+## Altered Gut Microbiota in Infants Is Associated With Respiratory Syncytial Virus Disease Severity
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01816-5)
+
+---
+
+## Ecological Succession in the Vaginal Microbiota During Pregnancy and Birth
+
+[Source](https://www.nature.com/articles/s41396-020-0686-3)
+
+---
+
+## Host genotype and exercise exhibit species-level selection for members of the gut bacterial communities in the mouse digestive system
+
+[Source](https://www.nature.com/articles/s41598-020-65740-4)
+
+---
+
+## Repetitive, Mild Traumatic Brain Injury Results in a Progressive White Matter Pathology, Cognitive Deterioration, and a Transient Gut Microbiota Dysbiosis
+
+[Source](https://www.nature.com/articles/s41598-020-65972-4)
+
+---
+
+## Association of Gut Microbiota Composition and Function With an Aged Rat Model of Senile Osteoporosis Using 16S rRNA and Metagenomic Sequencing Analysis
+
+[Source](https://www.aging-us.com/article/103293/text)
+
+---
+
+## <span style="color:#008000;">Increasing the Hindgut Carbohydrate/Protein Ratio by Cecal Infusion of Corn Starch or Casein Hydrolysate Drives Gut Microbiota-Related Bile Acid Metabolism To Stimulate Colonic Barrier Function</span>
+
+[Source](https://msystems.asm.org/content/5/3/e00176-20)
+
+---
+
+## Using Soil Bacterial Communities to Predict Physico-Chemical Variables and Soil Quality
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00858-1)
+
+---
+
+## Analysis of bacterial and archaeal communities associated with Fogo volcanic soils of different ages
+
+[Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiaa104/5848192)
+
+---
+
+## Functional potential and assembly of microbes from sediments in a lake bay and adjoining river ecosystem for polycyclic aromatic hydrocarbon biodegradation
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15104)
+
+---
+
+## Effect of Probiotics on the Maintenance of Intestinal Homeostasis After Chemotherapy: Systematic Review and Meta-Analysis of Pre-Clinical Studies
+
+[Source](https://www.wageningenacademic.com/doi/10.3920/BM2019.0142)
+
+---
+
+## Racial Disparities in Knowledge, Attitudes and Practices Related to COVID-19 in the USA
+
+[Source](https://academic.oup.com/jpubhealth/advance-article/doi/10.1093/pubmed/fdaa069/5850538)
+
+---
+
+## Ozone Treatment for Elimination of Bacteria and SARS-CoV-2 for Medical Environments
+
+[Source](https://www.biorxiv.org/content/10.1101/420737v3)
 
 ---
 
