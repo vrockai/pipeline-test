@@ -58,9 +58,15 @@
 
 ---
 
-## The hidden layers of microbial community structure: extracting the concealed diversity dimensions from our sequencing data
+## The hidden layers of microbial community structure: extracting the concealed diversity dimensions from our sequencing data.
+ 25.05.2020, _A Fasolo, L Treu, P Stevanato, G Concheri, S Campanaro, A Squartini_
+
+
+Microbial metabarcoding is the standard approach to assess communities' diversity. However reports are often limited to simple OTU abundances for each phylum, giving rather one-dimensional views of microbial assemblages, overlooking other accessible aspects. The first is masked by databases incompleteness; OTU picking involves clustering at 97% (near-species) sequence identity, but different OTUs regularly end up under a same taxon name. When expressing diversity as number of obtained taxonomical names, a large portion of the real diversity lying within the data remains underestimated. Using the 16S sequencing results of an environmental transect across a gradient of 17 coastal habitats we first extracted the number of OTUs hidden under the same name. Further we observed which was the deepest rank yielded by annotation, revealing for which microbial groups are we missing most knowledge. Data were then used to infer an evolutionary aspect: what is, in each phylum the success of the present time individuals (abundances for each OTU) in relation to their prior evolutionary success in differentiation (number of OTUs). This information reveals whether the past speciation/diversification force is matched by the present competitiveness in reproduction/persistence. The final layer explored is functional diversity, i.e. abundances of groups involved in specific environmental processes.
 
 [Source](https://academic.oup.com/femsle/advance-article-abstract/doi/10.1093/femsle/fnaa086/5843722)
+
+10.1093/femsle/fnaa086
 
 ---
 
