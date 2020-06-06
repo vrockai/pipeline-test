@@ -155,15 +155,9 @@ Antibiotic resistance developed by bacteria is a significant threat to global he
 
 ---
 
-## Updated ATLAS of Biochemistry with New Metabolites and Improved Enzyme Prediction Power.
- 02.06.2020, _J Hafner, H MohammadiPeyhani, A Sveshnikova, A Scheidegger, V Hatzimanikatis_
-
-
-The ATLAS of Biochemistry is a repository of both known and novel predicted biochemical reactions between biological compounds listed in the Kyoto Encyclopedia of Genes and Genomes (KEGG). ATLAS was originally compiled based on KEGG 2015, though the number of KEGG reactions has increased by almost 20 percent since then. Here, we present an updated version of ATLAS created from KEGG 2018 using an increased set of generalized reaction rules. Furthermore, we improved the accuracy of the enzymes that are predicted for catalyzing novel reactions. ATLAS now contains ∼150 000 reactions, out of which 96% are novel. In this report, we present detailed statistics on the updated ATLAS and highlight the improvements with regard to the previous version. Most importantly, 107 reactions predicted in the original ATLAS are now known to KEGG, which validates the predictive power of our approach. The updated ATLAS is available at https://lcsb-databases.epfl.ch/atlas.
+## Updated ATLAS of Biochemistry with New Metabolites and Improved Enzyme Prediction Power
 
 [Source](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.0c00052)
-
-10.1021/acssynbio.0c00052
 
 ---
 
