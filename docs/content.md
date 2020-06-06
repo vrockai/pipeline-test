@@ -1,25 +1,18 @@
-## Assessing Bacterial Diversity in the Rhizosphere of Thymus zygis Growing in the Sierra Nevada National Park (Spain) through Culture-Dependent and Independent Approaches.
- 22.02.2019, _J Pascual, S Blanco, M García-López, A García-Salamanca, SA Bursakov, O Genilloud, GF Bills, JL Ramos, P van Dillewijn_
-
-
-_Genetic Variation, Microbiota, Molecular Typing, Parks, Recreational, Plant Roots, RNA, Bacterial, RNA, Ribosomal, 16S, Rhizosphere, Sequence Analysis, RNA, Soil Microbiology, Spain, Thymus Plant_
-Little is known of the bacterial communities associated with the rhizosphere of wild plant species found in natural settings. The rhizosphere bacterial community associated with wild thyme, Thymus zygis L., plants was analyzed using cultivation, the creation of a near-full length 16S rRNA gene clone library and 454 amplicon pyrosequencing. The bacterial community was dominated by Proteobacteria (mostly Alphaproteobacteria and Betaproteobacteria), Actinobacteria, Acidobacteria, and Gemmatimonadetes. Although each approach gave a different perspective of the bacterial community, all classes/subclasses detected in the clone library and the cultured bacteria could be found in the pyrosequencing datasets. However, an exception caused by inconclusive taxonomic identification as a consequence of the short read length of pyrotags together with the detection of singleton sequences which corresponded to bacterial strains cultivated from the same sample highlight limitations and considerations which should be taken into account when analysing and interpreting amplicon datasets. Amplicon pyrosequencing of replicate rhizosphere soil samples taken a year later permit the definition of the core microbiome associated with Thymus zygis plants. Abundant bacterial families and predicted functional profiles of the core microbiome suggest that the main drivers of the bacterial community in the Thymus zygis rhizosphere are related to the nutrients originating from the plant root and to their participation in biogeochemical cycles thereby creating an intricate relationship with this aromatic plant to allow for a feedback ecological benefit.
-
-[Source](https://www.nature.com/articles/s41579-020-0368-1.epdf)
-
-10.1371/journal.pone.0146558
-
----
-
 ## Diversity within species: interpreting strains in microbiomes
 
 [Source](https://www.nature.com/articles/s41579-020-0368-1.epdf)
 
 ---
 
-## Earth microbial co-occurrence network reveals interconnection pattern across microbiomes
+## Earth microbial co-occurrence network reveals interconnection pattern across microbiomes.
+ 05.06.2020, _B Ma, Y Wang, S Ye, S Liu, E Stirling, JA Gilbert, K Faust, R Knight, JK Jansson, C Cardona, L Röttjers, J Xu_
+
+
+Microbial interactions shape the structure and function of microbial communities; microbial co-occurrence networks in specific environments have been widely developed to explore these complex systems, but their interconnection pattern across microbiomes in various environments at the global scale remains unexplored. Here, we have inferred an Earth microbial co-occurrence network from a communal catalog with 23,595 samples and 12,646 exact sequence variants from 14 environments in the Earth Microbiome Project dataset.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00857-2)
+
+10.1186/s40168-020-00857-2
 
 ---
 
