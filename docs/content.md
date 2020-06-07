@@ -1,12 +1,6 @@
-## Gut Microbial Metabolites and Blood Pressure Regulation: Focus on SCFAs and TMAO.
- 04.06.2020, _BG Poll, MU Cheema, JL Pluznick_
-
-
-Shifts in the gut microbiome play a key role in blood pressure regulation, and changes in the production of gut microbial metabolites are likely to be a key mechanism. Known gut microbial metabolites include short-chain fatty acids, which can signal via G-protein-coupled receptors, and trimethylamine-N oxide. In this review, we provide an overview of gut microbial metabolites documented thus far to play a role in blood pressure regulation.
+## Gut Microbial Metabolites and Blood Pressure Regulation: Focus on SCFAs and TMAO
 
 [Source](https://journals.physiology.org/doi/abs/10.1152/physiol.00004.2020)
-
-10.1152/physiol.00004.2020
 
 ---
 
