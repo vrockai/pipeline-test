@@ -1,5 +1,5 @@
 ## Cultivation-independent and cultivation-dependent metagenomes reveal genetic and enzymatic potential of microbial community involved in the degradation of a complex microbial polymer.
- 02.06.2020, _OYA Costa, M de Hollander, A Pijl, B Liu, EE Kuramae_
+ 08.06.2020, _OYA Costa, M de Hollander, A Pijl, B Liu, EE Kuramae_
 
 
 Cultivation-independent methods, including metagenomics, are tools for the exploration and discovery of biotechnological compounds produced by microbes in natural environments. Glycoside hydrolases (GHs) enzymes are extremely desired and important in the industry of production for goods and biofuel and removal of problematic biofilms and exopolysaccharide (EPS). Biofilms and EPS are complex, requiring a wide range of enzymes for a complete degradation. The aim of this study was to identify potential GH microbial producers and GH genes with biotechnological potential, using EPS-complex structure (WH15EPS) of Acidobacteria Granulicella sp. strain WH15 as an enrichment factor, in cultivation-independent and cultivation-dependent methods. We performed stable isotope probing (SIP) combined with metagenomics on topsoil litter amended with WH15EPS and coupled solid culture-EPS amended medium with metagenomics.
@@ -23,7 +23,7 @@ Vertebrates synthesize a diverse set of steroids and bile acids that undergo bac
 ---
 
 ## Human milk fungi: environmental determinants and inter-kingdom associations with milk bacteria in the CHILD Cohort Study.
- 06.06.2020, _S Moossavi, K Fehr, H Derakhshani, H Sbihi, B Robertson, L Bode, J Brook, SE Turvey, TJ Moraes, AB Becker, PJ Mandhane, MR Sears, E Khafipour, P Subbarao, MB Azad_
+ 08.06.2020, _S Moossavi, K Fehr, H Derakhshani, H Sbihi, B Robertson, L Bode, J Brook, SE Turvey, TJ Moraes, AB Becker, PJ Mandhane, MR Sears, E Khafipour, P Subbarao, MB Azad_
 
 
 Fungi constitute an important yet frequently neglected component of the human microbiota with a possible role in health and disease. Fungi and bacteria colonise the infant gastrointestinal tract in parallel, yet most infant microbiome studies have ignored fungi. Milk is a source of diverse and viable bacteria, but few studies have assessed the diversity of fungi in human milk.
@@ -35,7 +35,7 @@ Fungi constitute an important yet frequently neglected component of the human mi
 ---
 
 ## Skin microbiota analysis-inspired development of novel anti-infectives.
- 06.06.2020, _Y Liu, Y Liu, Z Du, L Zhang, J Chen, Z Shen, Q Liu, J Qin, H Lv, H Wang, L He, J Liu, Q Huang, Y Sun, M Otto, M Li_
+ 08.06.2020, _Y Liu, Y Liu, Z Du, L Zhang, J Chen, Z Shen, Q Liu, J Qin, H Lv, H Wang, L He, J Liu, Q Huang, Y Sun, M Otto, M Li_
 
 
 The alarming spread of antimicrobial resistance requires the development of novel anti-infective drugs. Despite the recent research focus on the human microbiome and its likely value to understand and exploit inter-bacterial inhibitory phenomena as a source for antimicrobial strategies, the human microbiota has barely been investigated for the purpose of drug development.
@@ -65,7 +65,7 @@ Comprehensive molecular-level models of human metabolism have been generated on 
 ---
 
 ## The gut microbiota profile of adults with kidney disease and kidney stones: a systematic review of the literature.
- 06.06.2020, _J Stanford, K Charlton, A Stefoska-Needham, R Ibrahim, K Lambert_
+ 08.06.2020, _J Stanford, K Charlton, A Stefoska-Needham, R Ibrahim, K Lambert_
 
 
 There is mounting evidence that individuals with kidney disease and kidney stones have an abnormal gut microbiota composition. No studies to date have summarised the evidence to categorise how the gut microbiota profile of these individuals may differ from controls. Synthesis of this evidence is essential to inform future clinical trials. This systematic review aims to characterise differences of the gut microbial community in adults with kidney disease and kidney stones, as well as to describe the functional capacity of the gut microbiota and reporting of diet as a confounder in these studies.
@@ -94,15 +94,9 @@ There is mounting evidence that individuals with kidney disease and kidney stone
 
 ---
 
-## Novel insights into the Thaumarchaeota in the deepest oceans: their metabolism and potential adaptation mechanisms.
- 02.06.2020, _H Zhong, L Lehtovirta-Morley, J Liu, Y Zheng, H Lin, D Song, JD Todd, J Tian, XH Zhang_
-
-
-Marine Group I (MGI) Thaumarchaeota, which play key roles in the global biogeochemical cycling of nitrogen and carbon (ammonia oxidizers), thrive in the aphotic deep sea with massive populations. Recent studies have revealed that MGI Thaumarchaeota were present in the deepest part of oceans-the hadal zone (depth &gt; 6000 m, consisting almost entirely of trenches), with the predominant phylotype being distinct from that in the "shallower" deep sea. However, little is known about the metabolism and distribution of these ammonia oxidizers in the hadal water.
+## Novel insights into the Thaumarchaeota in the deepest oceans: their metabolism and potential adaptation mechanisms
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00849-2)
-
-10.1186/s40168-020-00849-2
 
 ---
 
@@ -112,15 +106,9 @@ Marine Group I (MGI) Thaumarchaeota, which play key roles in the global biogeoch
 
 ---
 
-## Engineering CRISPR/Cas9 to mitigate abundant host contamination for 16S rRNA gene-based amplicon sequencing.
- 04.06.2020, _L Song, K Xie_
-
-
-High-throughput sequencing of bacterial 16S rRNA gene (16S-seq) is a useful and common method for studying bacterial community structures. However, contamination of the 16S rRNA genes from the mitochondrion and plastid hinders the sensitive bacterial 16S-seq in plant microbiota profiling, especially for some plant species such as rice. To date, efficiently mitigating such host contamination without a bias is challenging in 16S rRNA gene-based amplicon sequencing.
+## Engineering CRISPR/Cas9 to mitigate abundant host contamination for 16S rRNA gene-based amplicon sequencing
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00859-0)
-
-10.1186/s40168-020-00859-0
 
 ---
 
