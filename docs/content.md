@@ -94,9 +94,15 @@ There is mounting evidence that individuals with kidney disease and kidney stone
 
 ---
 
-## Novel insights into the Thaumarchaeota in the deepest oceans: their metabolism and potential adaptation mechanisms
+## Novel insights into the Thaumarchaeota in the deepest oceans: their metabolism and potential adaptation mechanisms.
+ 02.06.2020, _H Zhong, L Lehtovirta-Morley, J Liu, Y Zheng, H Lin, D Song, JD Todd, J Tian, XH Zhang_
+
+
+Marine Group I (MGI) Thaumarchaeota, which play key roles in the global biogeochemical cycling of nitrogen and carbon (ammonia oxidizers), thrive in the aphotic deep sea with massive populations. Recent studies have revealed that MGI Thaumarchaeota were present in the deepest part of oceans-the hadal zone (depth &gt; 6000 m, consisting almost entirely of trenches), with the predominant phylotype being distinct from that in the "shallower" deep sea. However, little is known about the metabolism and distribution of these ammonia oxidizers in the hadal water.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00849-2)
+
+10.1186/s40168-020-00849-2
 
 ---
 
@@ -106,9 +112,15 @@ There is mounting evidence that individuals with kidney disease and kidney stone
 
 ---
 
-## Engineering CRISPR/Cas9 to mitigate abundant host contamination for 16S rRNA gene-based amplicon sequencing
+## Engineering CRISPR/Cas9 to mitigate abundant host contamination for 16S rRNA gene-based amplicon sequencing.
+ 04.06.2020, _L Song, K Xie_
+
+
+High-throughput sequencing of bacterial 16S rRNA gene (16S-seq) is a useful and common method for studying bacterial community structures. However, contamination of the 16S rRNA genes from the mitochondrion and plastid hinders the sensitive bacterial 16S-seq in plant microbiota profiling, especially for some plant species such as rice. To date, efficiently mitigating such host contamination without a bias is challenging in 16S rRNA gene-based amplicon sequencing.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00859-0)
+
+10.1186/s40168-020-00859-0
 
 ---
 
