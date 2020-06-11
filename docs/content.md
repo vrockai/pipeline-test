@@ -77,38 +77,20 @@ Objective: Compare the gut microbiome composition among individuals with acute s
 ---
 
 ## Soil Bacterial Diversity and Potential Functions Are Regulated by Long-Term Conservation Tillage and Straw Mulching.
- 05.06.2020, _C Liu, L Li, J Xie, JA Coulter, R Zhang, Z Luo, L Cai, L Wang, S Gopalakrishnan_
-
-
-Soil physiochemical properties are regulated by cropping practices, but little is known about how tillage influences soil microbial community diversity and functions. Here, we assessed soil bacterial community assembly and functional profiles in relation to tillage. Soils, collected in 2018 from a 17-year field experiment in northwestern China, were analyzed using high-throughput sequencing and the PICRUSt approach. The taxonomic diversity of bacterial communities was dominated primarily by the phyla Proteobacteria (32-56%), Bacteroidetes (12-33%), and Actinobacteria (17-27%). Alpha diversity (Chao1, Shannon, Simpson, and operational taxonomic unit (OTU) richness) was highest under no-tillage with crop residue removed (NT). Crop residue retention on the soil surface (NTS) or incorporated into soil (TS) promoted the abundance of Proteobacteria by 16 to 74% as compared to conventional tillage (T). Tillage practices mainly affected the pathways of soil metabolism, genetic information processing, and environmental information processing. Soil organic C and NH4-N were the principal contributors to the diversity and composition of soil microbiota, whereas soil pH, total nitrogen, total P, and moisture had little effect. Our results suggest that long-term conservation practices with no-tillage and crop residue retention shape soil bacterial community composition through modifying soil physicochemical properties and promoting the metabolic function of soil microbiomes.
 
 [Source](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2076-2607/8/6/836/pdf&hl=en&sa=X&d=7295517500517399738&scisig=AAGBfm3UAWqsxmxK8BzkCNrP008YkDgzVg&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
 
-10.3390/microorganisms8060836
-
 ---
 
-## Patterns of environmental variability influence coral-associated bacterial and algal communities on the Mesoamerican Barrier Reef.
- 04.06.2020, _L Speare, SW Davies, J Paul Balmonte, J Baumann, KD Castillo_
-
-
-A coral's capacity to alter its microbial symbionts may enhance its fitness in the face of climate change. Recent work predicts exposure to high environmental variability may increase coral resilience and adaptability to future climate conditions. However, how this heightened environmental variability impacts coral-associated microbial communities remains largely unexplored. Here, we examined the bacterial and algal symbionts associated with two coral species of the genus Siderastrea with distinct life history strategies from three reef sites on the Belize Mesoamerican Barrier Reef System with low or high environmental variability. Our results reveal bacterial community structure, as well as alpha- and beta-diversity patterns, vary by host species. Differences in bacterial communities between host species were partially explained by high abundance of Deltaproteobacteria and Rhodospirillales and high bacterial diversity in Siderastrea radians. Our findings also suggest Siderastrea spp. have dynamic core bacterial communities that likely drive differences observed in the entire bacterial community, which may play a critical role in rapid acclimatization to environmental change. Unlike the bacterial community, Symbiodiniaceae composition was only distinct between host species at high thermal variability sites, suggesting that different factors shape bacterial versus algal communities within the coral holobiont. Our findings shed light on how domain-specific shifts in dynamic microbiomes may allow for unique methods of enhanced host fitness.
+## Patterns of environmental variability influence coral‐associated bacterial and algal communities on the Mesoamerican Barrier Reef.
 
 [Source](http://scholar.google.com/scholar_url?url=https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15497&hl=en&sa=X&d=6827796706982615724&scisig=AAGBfm3htuUM6uTyVoQiOMgfHRS_ejdH_A&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
 
-10.1111/mec.15497
-
 ---
 
-## Saccharomyces boulardii: What Makes It Tick as Successful Probiotic?
- 09.06.2020, _P Pais, V Almeida, M Yılmaz, MC Teixeira_
-
-
-Saccharomyces boulardii is a probiotic yeast often used for the treatment of GI tract disorders such as diarrhea symptoms. It is genetically close to the model yeast Saccharomyces cerevisiae and its classification as a distinct species or a S. cerevisiae variant has long been discussed. Here, we review the main genetic divergencies between S. boulardii and S. cerevisiae as a strategy to uncover the ability to adapt to the host physiological conditions by the probiotic. S. boulardii does possess discernible phenotypic traits and physiological properties that underlie its success as probiotic, such as optimal growth temperature, resistance to the gastric environment and viability at low pH. Its probiotic activity has been elucidated as a conjunction of multiple pathways, ranging from improvement of gut barrier function, pathogen competitive exclusion, production of antimicrobial peptides, immune modulation, and trophic effects. This review summarizes the participation of S. boulardii in these mechanisms and the multifactorial nature by which this yeast modulates the host microbiome and intestinal function.
+## Saccharomyces boulardii: What Makes It Tick as Successful Probiotic?.
 
 [Source](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2309-608X/6/2/78/pdf&hl=en&sa=X&d=11978712370515012075&scisig=AAGBfm3skLYX1Q8wEdI6p8_zBZsKCnViTA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
-
-10.3390/jof6020078
 
 ---
 
@@ -119,13 +101,8 @@ Saccharomyces boulardii is a probiotic yeast often used for the treatment of GI 
 ---
 
 ## Microbiome factors in HPV-driven carcinogenesis and cancers.
- 04.06.2020, _D Lin, R Kouzy, J Abi Jaoude, SS Noticewala, AY Delgado Medrano, AH Klopp, CM Taniguchi, LE Colbert_
-
-
 
 [Source](http://scholar.google.com/scholar_url?url=https://journals.plos.org/plospathogens/article%3Fid%3D10.1371/journal.ppat.1008524&hl=en&sa=X&d=10934282676359001728&scisig=AAGBfm0GlL_aBuFaqO_ofMQDBM8r8b2EhQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
-
-10.1371/journal.ppat.1008524
 
 ---
 
@@ -135,39 +112,15 @@ Saccharomyces boulardii is a probiotic yeast often used for the treatment of GI 
 
 ---
 
-## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
- 23.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+## <span>Like</span>
 
-
-Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
-
-[Source](https://microbiomedigest.com/2020/06/10/june-10-2020/?like_comment=23941&_wpnonce=3df635da7a)
-
-10.1038/s41598-019-40108-5
+[Source](https://microbiomedigest.com/2020/06/10/june-10-2020/?like_comment=23941&_wpnonce=a74cc0785f)
 
 ---
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2020/06/10/june-10-2020/?like_comment=23941&_wpnonce=3df635da7a)
-
----
-
-## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
- 23.03.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
-
-
-Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
-
-[Source](https://microbiomedigest.com/2020/06/10/june-10-2020/?like_comment=23942&_wpnonce=11dc06e5d7)
-
-10.1038/s41598-019-40108-5
-
----
-
-## <span>Like</span>
-
-[Source](https://microbiomedigest.com/2020/06/10/june-10-2020/?like_comment=23942&_wpnonce=11dc06e5d7)
+[Source](https://microbiomedigest.com/2020/06/10/june-10-2020/?like_comment=23942&_wpnonce=96b6fbacf8)
 
 ---
 
