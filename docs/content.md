@@ -128,15 +128,27 @@ We are currently experiencing an unprecedented challenge, managing and containin
 
 ---
 
-## Evaluation of the bacterial ocular surface microbiome in ophthalmologically normal dogs prior to and following treatment with topical neomycin-polymyxin-bacitracin
+## Evaluation of the bacterial ocular surface microbiome in ophthalmologically normal dogs prior to and following treatment with topical neomycin-polymyxin-bacitracin.
+ 09.06.2020, _CM Rogers, EM Scott, B Sarawichitr, C Arnold, JS Suchodolski_
+
+
+The ocular surface microbiome of veterinary species has not been thoroughly characterized using molecular-based techniques, such as next generation sequencing (NGS), as the vast majority of studies have utilized traditional culture-based techniques. To date, there is one pilot study evaluating the ocular surface of healthy dogs using NGS. Furthermore, alterations in the ocular surface microbiome over time and after topical antibiotic treatment are unknown. The objectives of this study were to describe the bacterial composition of the ocular surface microbiome in clinically normal dogs, and to determine if microbial community changes occur over time or following topical antibiotic therapy. Topical neomycin-polymyxin-bacitracin ophthalmic ointment was applied to one eye each of 13 adult dogs three times daily for seven days, while contralateral eyes served as untreated controls. The inferior conjunctival fornix of both eyes was sampled via swabbing at baseline prior to antibiotic therapy (day 0), after 1 week of treatment (day 7), and 4 weeks after discontinuing treatment (day 35). Genomic DNA was extracted from the conjunctival swabs and primers targeting the V4 region of bacterial 16S rRNA genes were used to generate amplicon libraries, which were then sequenced on an Illumina platform. Data were analyzed using Quantitative Insights Into Molecular Ecology (QIIME 2.0). At baseline, the most relatively abundant phyla sequenced were Proteobacteria (49.7%), Actinobacteria (25.5%), Firmicutes (12%), Bacteroidetes (7.5%), and Fusobacteria (1.4%). The most common families detected were Pseudomonadaceae (13.2%), Micrococcaceae (12%), Pasteurellaceae (6.9%), Microbacteriaceae (5.2%), Enterobacteriaceae (3.9%), Neisseriaceae (3.5%), and Corynebacteriaceae (3.3%). Alpha and beta diversity measurements did not differ in both control and treatment eyes over time. This report examines the temporal stability of the canine ocular surface microbiome. The major bacterial taxa on the canine ocular surface remained consistent over time and following topical antibiotic therapy.
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhEqqyU0hagMQB8-2B0fqRQ-2BnkClPOmD3gUW1ISeUgPF0veE-3DffFG_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slwz2mEeM1ykCGYjV036p-2BzhvdvVh1IH89deFYXqepWDrZIDTLh9Q2dDXqlynSEF9TcoBS7TB-2FxKyRTeU35MuFf3rV3jfxhWSp3-2BrqeWL7-2BzHejnoMqCgN0fsMLG3wVLHPWCfWWaMSS8HCvg5ZLBLrSMDGoL51bzThluvqU-2FMQYPwvQqtPibkVpAh77on8x-2BlLm)
 
+10.1371/journal.pone.0234313
+
 ---
 
-## Short-chain fructo-oligosaccharides supplementation to suckling piglets: Assessment of pre- and post-weaning performance and gut health
+## Short-chain fructo-oligosaccharides supplementation to suckling piglets: Assessment of pre- and post-weaning performance and gut health.
+ 11.06.2020, _M Ayuso, J Michiels, S Wuyts, H Yan, J Degroote, S Lebeer, C Le Bourgot, E Apper, M Majdeddin, N Van Noten, C Vanden Hole, S Van Cruchten, M Van Poucke, L Peelman, C Van Ginneken_
+
+
+Farmers face difficulties in redeeming their investment in larger litter sizes since this comes with larger litter heterogenicity, lower litter resilience and risk of higher mortality. Dietary oligosaccharides, given to the sow, proved beneficial for the offspring's performance. However, giving oligosaccharides to the suckling piglet is poorly explored. Therefore, this field trial studied the effect of dietary short-chain fructo-oligosaccharides (scFOS; 1g/day; drenched) supplementation to low (LBW, lower quartile), normal (NBW, two intermediate quartiles) and high (HBW, upper quartile) birth weight piglets from birth until 7 or 21 days of age. Performance parameters, gut microbiome and short-chain fatty acids profile of feces and digesta were assessed at birth (d 0), d 7, weaning (d 21.5) and 2 weeks post-weaning (d 36.5). Additional parameters reflecting gut health (intestinal integrity and morphology, mucosal immune system) were analysed at d 36.5. Most parameters changed with age or differed with the piglet's birth weight. Drenching with scFOS increased body weight by 1 kg in NBW suckling piglets and reduced the post-weaning mortality rate by a 100%. No clear difference in the IgG level, the microbiota composition and fermentative activity between the treatment groups was observed. Additionnally, intestinal integrity, determined by measuring intestinal permeability and regenerative capacity, was similar between the treatment groups. Also, intestinal architecture (villus lenght, crypt depth) was not affected by scFOS supplementation. The density of intra-epithelial lymphocytes and the expression profiles (real-time qPCR) for immune system-related genes (IL-10, IL-1ß, IL-6, TNFα and IFNγ) were used to assess mucosal immunity. Only IFNγ expression, was upregulated in piglets that received scFOS for 7 days. The improved body weight and the reduced post-weaning mortality seen in piglets supplemented with scFOS support the view that scFOS positively impact piglet's health and resilience. However, the modes of action for these effects are not yet fully elucidated and its potential to improve other performance parameters needs further investigation.
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhE8zhesZarQPWOUwWjOIkvFI-2FI-2B06KPFj-2FSPaMX9uwHcQ-3Dz40D_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slw6TxEPNqMf2DAeG-2BdDRmJzdef9ODLIfFDGLjR727vsnFPiy1MvkQK7mYgNXXgvrh0Jki3J0hxqpUEHkyPGKqWxcajGED6kukYxUZQqhUypcxucih6WtdIR4ppOPH8Q1iEt6MyCEuUFsrm4ZYOi9aa-2BOEOIsndvrftkDv82kGhy6B2wv3GSo7XaKs96dLL1LNI)
+
+10.1371/journal.pone.0233910
 
 ---
 
@@ -284,9 +296,15 @@ This study investigated the effects of oral administration of β-glucan 1,3 (pha
 
 ---
 
-## Comparative metagenomics reveals the microbial diversity and metabolic potentials in the sediments and surrounding seawaters of Qinhuangdao mariculture area
+## Comparative metagenomics reveals the microbial diversity and metabolic potentials in the sediments and surrounding seawaters of Qinhuangdao mariculture area.
+ 04.06.2020, _S Wang, Z Yan, P Wang, X Zheng, J Fan_
+
+
+Qinhuangdao coastal area is an important mariculture area in North China. Microbial communities play an important role in driving biogeochemical cycle and energy flow. It is necessary to identify the microbial communities and their functions in the coastal mariculture area of Qinhuangdao. In this study, the microbial community compositions and their metabolic potentials in the sediments and their surrounding seawaters of Qinhuangdao mariculture area were uncovered by the 16S rRNA gene amplicon sequencing and metagenomic shotgun sequencing approaches. The results of amplicon sequencing showed that Gammaproteobacteria and Alphaproteobacteria were predominant classes. Our datasets showed a clear shift in microbial taxonomic groups and the metabolic pathways in the sediments and surrounding seawaters. Metagenomic analysis showed that purine metabolism, ABC transporters, and pyrimidine metabolism were the most abundant pathways. Genes related to two-component system, TCA cycle and nitrogen metabolism exhibited higher abundance in sediments compared with those in seawaters. The presence of cadmium-resistant genes and ABC transporters suggested the ability of microorganisms to resist the toxicity of cadmium. In summary, this study provides comprehensive and significant differential signatures in the microbial community and metabolic pathways in Qinhuangdao mariculture area, and can develop effective microbial indicators to monitor mariculture area in the future.
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhEZXUHirQR-2B3XGgTLTyGVNu2Hi55HaV57WySFWJHS5V-2F8-3DHFv8_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slw0WMI8JW7-2FYD1g-2Bo0d8uDnrczwHcy12eXTFiSnqud9Pq0-2Fl1rQOjLoRqdKCDYJJ-2FqdlcdGzHuRkRMmq1xDCE2uLzbx6AYV8dFqdkhIKSC-2B-2BbgHZrmsvaJkq-2Bl5O1CKqTPY9ngLvBpGUPadv-2FATBbQOrcB2onPCyXrxCk-2Fl2Ur0wzXe77AY2V7qWnQtsg0tAR4)
+
+10.1371/journal.pone.0234128
 
 ---
 
