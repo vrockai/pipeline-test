@@ -26,15 +26,14 @@
 
 ---
 
-## Covid-19: A Perspective on Africa's Capacity and Response.
- 11.06.2020, _T Dzinamarira, M Dzobo, I Chitungo_
+## Socio-demographic and epidemiological consideration of Africa's COVID-19 response: what is the possible pandemic course?
+ 12.06.2020, _B Gaye, S Khoury, CW Cene, S Kingue, R N'Guetta, C Lassale, D Baldé, IB Diop, JB Dowd, MC Mills, X Jouven_
 
 
-Global powerhouses with tried and tested health systems have struggled to contain the COVID-19 pandemic. One is left to wonder what will be left of Africa, the second most populous continent after Asia, which is torn by civil wars, hunger, and diseases like AIDS and TB and, in recent years, the Ebola Virus Disease (EVD). The majority of countries' health systems, already dependent on donor aid, are ill-equipped and under-resourced to deal with the raging pandemic. There is a lack of isolation and intensive care infrastructure, ventilators, and financial resources to bankroll the fight against COVID-19 pandemic. However, there is some cause for optimism, for example, in West Africa where infrastructure like diagnostic testing facilities, intensive care units, surveillance, and systems for reporting emergencies used during the EVD outbreak of 2013-2016 can be leveraged to fight the COVID-19 pandemic. Further, a number of African countries have responded swiftly by activating the necessary political and financial tools to combat the pandemic. Technical support from continental bodies like the Africa Centres for Disease Control and global development partners has improved the capacity of the continent to handle the pandemic. In this article, the authors unpack, review, and share a perspective on Africa's capacity to contain and control the COVID-19 pandemic and review the current response. This article is protected by copyright. All rights reserved.
 
 [Source](https://marketing.springernature.com:443/sap/public/cuan/link/888/4E919A317A4B12E48DB6137F52CC2AF574BA8B1C?_V_=2&_K11_=1796CBE46917534E597752A561F37591007484EF&_L54AD1F204_=c2NlbmFyaW89TUxDUEcmdGFyZ2V0PWh0dHBzOi8vYm1jbWVkaWNpbmUuYmlvbWVkY2VudHJhbC5jb20vYXJ0aWNsZXMvMTAuMTE4Ni9zMTI5MTYtMDIwLTAxNjIyLXc/c2FwLW91dGJvdW5kLWlkPTRFOTE5QTMxN0E0QjEyRTQ4REI2MTM3RjUyQ0MyQUY1NzRCQThCMUMmdXRtX3NvdXJjZT1oeWJyaXMtY2FtcGFpZ24mdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249MDAwX01LUTU1ODRfMDAwMDAyMDkxN19CTUNGX1VTR19NSzAxX1VTXzEyOTE2X2VUb2NfSnVuMjBfVFNUJnV0bV9jb250ZW50PUVOX2ludGVybmFsXzQ2Njg3XzIwMjAwNjA5Jm1rdC1rZXk9MDA1MDU2QjAzMzFCMUVENzkxQ0ZFNTcyOTYzNjg3Mzc&_K13_=11&_K14_=c6656fffa0bbc98e045a497f3b80f9712a3f1822ceafdabf63126590ae7d81c6)
 
-10.1002/jmv.26159
+10.1038/s41591-020-0960-y
 
 ---
 
@@ -74,18 +73,6 @@ We are currently experiencing an unprecedented challenge, managing and containin
 
 ---
 
-## Combining proteogenomics and metaproteomics for deep taxonomic and functional characterization of microbiomes from a non-sequenced host.
- 08.06.2020, _D Gouveia, O Pible, K Culotta, V Jouffret, O Geffard, A Chaumot, D Degli-Esposti, J Armengaud_
-
-
-Metaproteomics of gut microbiomes from animal hosts lacking a reference genome is challenging. Here we describe a strategy combining high-resolution metaproteomics and host RNA sequencing (RNA-seq) with generalist database searching to survey the digestive tract of Gammarus fossarum, a small crustacean used as a sentinel species in ecotoxicology. This approach provides a deep insight into the full range of biomasses and metabolic activities of the holobiont components, and differentiates between the intestine and hepatopancreatic caecum.
-
-[Source](http://scholar.google.com/scholar_url?url=https://www.nature.com/articles/s41522-020-0133-2&hl=en&sa=X&d=1629860732562113116&scisig=AAGBfm1fpPaGGy8fpukW-dDNEadL2hPbpQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
-
-10.1038/s41522-020-0133-2
-
----
-
 ## Combining proteogenomics and metaproteomics for deep taxonomic and functional characterization of microbiomes<strong> </strong>from a non-sequenced host
 
 [Source](http://scholar.google.com/scholar_url?url=https://www.nature.com/articles/s41522-020-0133-2&hl=en&sa=X&d=1629860732562113116&scisig=AAGBfm1fpPaGGy8fpukW-dDNEadL2hPbpQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
@@ -98,27 +85,15 @@ Metaproteomics of gut microbiomes from animal hosts lacking a reference genome i
 
 ---
 
-## Clinical diagnostic application of metagenomic next-generation sequencing in children with severe nonresponding pneumonia.
- 04.06.2020, _H Wang, Z Lu, Y Bao, Y Yang, R de Groot, W Dai, MI de Jonge, Y Zheng_
-
-
-Pneumonia is one of the most important causes of morbidity and mortality in children. Identification and characterization of pathogens that cause infections are crucial for accurate treatment and accelerated recovery. However, in most cases, the causative agent cannot be identified, which is partly due to the limited spectrum of pathogens covered by current diagnostics based on nucleic acid amplification. Therefore, in this study, we explored the application of metagenomic next-generation sequencing (mNGS) for the diagnosis of children with severe pneumonia. From April to July 2017, 32 hospitalized children with severe nonresponding pneumonia in Shenzhen Children's Hospital were included in this study. Blood tests were conducted immediately after hospitalization to assess cell counts and inflammatory markers, oropharyngeal swabs were collected to identify common pathogens by qPCR and culture. After bronchoscopy, bronchoalveolar lavage fluid (BALF) samples were collected for further pathogen identification using standardized diagnostic tests and mNGS. Blood tests were normal in 3 of the 32 children. In 9 oropharyngeal swabs, bacterial pathogens were detected, in 5 of these Mycoplasma pneumoniae was detected. Adenovirus was detected in 5 BALF samples, using the Direct Immunofluorescence Assay (DFA). In 15 cases, no common pathogens were found in BALF samples, using the current standard diagnostic tests, while in all 32 BALFs, pathogens were identified using mNGS, including adenovirus, Mycoplasma pneumoniae, Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis, cytomegalovirus and bocavirus. This study shows that, with mNGS, the sensitivity of detection of the causative pathogens in children with severe nonresponding pneumonia is significantly improved. In addition, mNGS gives more strain specific information, helps to identify new pathogens and could potentially help to trace and control outbreaks. In this study, we have shown that it is possible to have the results within 24 hours, making the application of mNGS feasible for clinical diagnostics.
+## Clinical diagnostic application of metagenomic next-generation sequencing in children with severe nonresponding pneumonia
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhEsHSFD1e-2FWuLRR-2BtPZIWCsDSkwnLkowdHanUrWNbcrzs-3DPrba_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob13QXiNR8Hqb0vsiGWkV6OReLVfOdVVEo3nlrRMrkYQzTNBBkSOGJXmt2Bm4uEfgTYMne7UQ0-2FnQd2hVReSjEXZcC-2B7Gof8oYDrVdj6ZxX0Qcu97uDTkTyuTHg6-2FULLF7JDRoU2CMcAL6BOnYz-2B0XyxDcMi-2FQaxv826m6p6rR-2FvrcPZiOHiWaPc-2FzxkvufhwLlegp8-2BWVvA9vwPbzQZPRNqxwwnVhKPJrVtAkhNmKWugNg-3D-3D)
 
-10.1371/journal.pone.0232610
-
 ---
 
-## Exploring potential of vaginal Lactobacillus isolates from South African women for enhancing treatment for bacterial vaginosis.
- 04.06.2020, _AU Happel, B Kullin, H Gamieldien, N Wentzel, CZ Zauchenberger, HB Jaspan, S Dabee, SL Barnabas, SZ Jaumdally, J Dietrich, G Gray, LG Bekker, R Froissart, JS Passmore_
-
-
-Antibiotics continue to be the standard-of-care for bacterial vaginosis (BV), although recurrence rates are high. Vaginal probiotics may improve durability of BV treatment, although few probiotics for vaginal health contain Lactobacillus spp. that commonly colonize the lower female genital tract. Characteristics of vaginal Lactobacillus strains from South African women were evaluated for their probiotic potential in vitro compared to strains from commercial vaginal products, including growth at varying pHs, ability to lower pH, produce D-/L-lactate and H2O2, influence growth of BV-associated Gardnerella vaginalis and Prevotella bivia, adherence to cervical cells and susceptibility to antibiotics. Fifty-seven Lactobacillus strains were purified from cervico-vaginal fluid, including L. crispatus, L. jensenii, L. gasseri, L. mucosae, and L. vaginalis. L crispatus strains grew better at pHs below 4.5 and lowered pH more effectively than other strains. Production of D-/L-lactate and H2O2 varied between Lactobacillus species and strains. Lactobacillus strains generally inhibited P. bivia more uniformly than G. vaginalis isolates. All vaginal Lactobacillus isolates were resistant to metronidazole while susceptibility to clindamycin varied. Furthermore, vaginal Lactobacillus strains tended to be broadly susceptible to penicillin, amoxicillin, rifampicin and rifabutin. Whole-genome-sequencing of five of the best-performing vaginal Lactobacillus strains confirmed their likely safety, due to antimicrobial resistance elements being largely absent, while putative intact prophages were present in the genomes of two of the five strains. Overall, vaginal Lactobacillus strains largely performed better in these in vitro assays than probiotic strains currently used in probiotics for vaginal health. Including the best-performing vaginal Lactobacillus isolates in a region-specific probiotic for vaginal health may result in improved BV treatment options.
+## Exploring potential of vaginal Lactobacillus isolates from South African women for enhancing treatment for bacterial vaginosis
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhEkAz7-2B8cwyEZ50iN1FMIVDdVKvdKYaUpfjFAxnfZTl8g-3DJ7eW_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob13QXiNR8Hqb0vsiGWkV6OReD8Fns54-2FZh0cyXUoUVNxMrj6SQpnoBAQ92-2F4Uz-2BVZOxgb9uDPkPKzb5uRHjmqlOay2OOImcWDSQbPSelASBzizAFH0QWlw2Qv8pPQR91PIHX53NaXd5A1tlcXHiHlxHtHWbBF7Jy9MBFEBryZzaUogLcjhu4gpkcON9q8op-2FSeVpuRWHUcfyB4vqJguu-2BniDOw-2BWNEVEeRIzX6mjix2sBg-3D-3D)
-
-10.1371/journal.ppat.1008559
 
 ---
 
@@ -128,15 +103,9 @@ Antibiotics continue to be the standard-of-care for bacterial vaginosis (BV), al
 
 ---
 
-## Draft Genome Sequence of Escherichia coli UMB1353, Isolated from the Female Urinary Tract.
- 11.06.2020, _T Crawford, T Miller-Ensminger, A Voukadinova, AJ Wolfe, C Putonti_
-
-
-Here, we present the draft genome sequence of Escherichia coli UMB1353, isolated from a patient with a urinary tract infection. The sequence of this antibiotic-resistant E. coli strain contains one intact P2-like phage.
+## Draft Genome Sequence of Escherichia coli UMB1353, Isolated from the Female Urinary Tract
 
 [Source](http://scholar.google.com/scholar_url?url=https://mra.asm.org/content/9/23/e00416-20.full&hl=en&sa=X&d=2283024116504439595&scisig=AAGBfm12B5G4vvJf41Wv5_EtQOnbrWtjAg&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g)
-
-10.1128/MRA.00416-20
 
 ---
 
@@ -158,27 +127,15 @@ Here, we present the draft genome sequence of Escherichia coli UMB1353, isolated
 
 ---
 
-## Evaluation of the bacterial ocular surface microbiome in ophthalmologically normal dogs prior to and following treatment with topical neomycin-polymyxin-bacitracin.
- 09.06.2020, _CM Rogers, EM Scott, B Sarawichitr, C Arnold, JS Suchodolski_
-
-
-The ocular surface microbiome of veterinary species has not been thoroughly characterized using molecular-based techniques, such as next generation sequencing (NGS), as the vast majority of studies have utilized traditional culture-based techniques. To date, there is one pilot study evaluating the ocular surface of healthy dogs using NGS. Furthermore, alterations in the ocular surface microbiome over time and after topical antibiotic treatment are unknown. The objectives of this study were to describe the bacterial composition of the ocular surface microbiome in clinically normal dogs, and to determine if microbial community changes occur over time or following topical antibiotic therapy. Topical neomycin-polymyxin-bacitracin ophthalmic ointment was applied to one eye each of 13 adult dogs three times daily for seven days, while contralateral eyes served as untreated controls. The inferior conjunctival fornix of both eyes was sampled via swabbing at baseline prior to antibiotic therapy (day 0), after 1 week of treatment (day 7), and 4 weeks after discontinuing treatment (day 35). Genomic DNA was extracted from the conjunctival swabs and primers targeting the V4 region of bacterial 16S rRNA genes were used to generate amplicon libraries, which were then sequenced on an Illumina platform. Data were analyzed using Quantitative Insights Into Molecular Ecology (QIIME 2.0). At baseline, the most relatively abundant phyla sequenced were Proteobacteria (49.7%), Actinobacteria (25.5%), Firmicutes (12%), Bacteroidetes (7.5%), and Fusobacteria (1.4%). The most common families detected were Pseudomonadaceae (13.2%), Micrococcaceae (12%), Pasteurellaceae (6.9%), Microbacteriaceae (5.2%), Enterobacteriaceae (3.9%), Neisseriaceae (3.5%), and Corynebacteriaceae (3.3%). Alpha and beta diversity measurements did not differ in both control and treatment eyes over time. This report examines the temporal stability of the canine ocular surface microbiome. The major bacterial taxa on the canine ocular surface remained consistent over time and following topical antibiotic therapy.
+## Evaluation of the bacterial ocular surface microbiome in ophthalmologically normal dogs prior to and following treatment with topical neomycin-polymyxin-bacitracin
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhEqqyU0hagMQB8-2B0fqRQ-2BnkClPOmD3gUW1ISeUgPF0veE-3DffFG_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slwz2mEeM1ykCGYjV036p-2BzhvdvVh1IH89deFYXqepWDrZIDTLh9Q2dDXqlynSEF9TcoBS7TB-2FxKyRTeU35MuFf3rV3jfxhWSp3-2BrqeWL7-2BzHejnoMqCgN0fsMLG3wVLHPWCfWWaMSS8HCvg5ZLBLrSMDGoL51bzThluvqU-2FMQYPwvQqtPibkVpAh77on8x-2BlLm)
 
-10.1371/journal.pone.0234313
-
 ---
 
-## Short-chain fructo-oligosaccharides supplementation to suckling piglets: Assessment of pre- and post-weaning performance and gut health.
- 11.06.2020, _M Ayuso, J Michiels, S Wuyts, H Yan, J Degroote, S Lebeer, C Le Bourgot, E Apper, M Majdeddin, N Van Noten, C Vanden Hole, S Van Cruchten, M Van Poucke, L Peelman, C Van Ginneken_
-
-
-Farmers face difficulties in redeeming their investment in larger litter sizes since this comes with larger litter heterogenicity, lower litter resilience and risk of higher mortality. Dietary oligosaccharides, given to the sow, proved beneficial for the offspring's performance. However, giving oligosaccharides to the suckling piglet is poorly explored. Therefore, this field trial studied the effect of dietary short-chain fructo-oligosaccharides (scFOS; 1g/day; drenched) supplementation to low (LBW, lower quartile), normal (NBW, two intermediate quartiles) and high (HBW, upper quartile) birth weight piglets from birth until 7 or 21 days of age. Performance parameters, gut microbiome and short-chain fatty acids profile of feces and digesta were assessed at birth (d 0), d 7, weaning (d 21.5) and 2 weeks post-weaning (d 36.5). Additional parameters reflecting gut health (intestinal integrity and morphology, mucosal immune system) were analysed at d 36.5. Most parameters changed with age or differed with the piglet's birth weight. Drenching with scFOS increased body weight by 1 kg in NBW suckling piglets and reduced the post-weaning mortality rate by a 100%. No clear difference in the IgG level, the microbiota composition and fermentative activity between the treatment groups was observed. Additionnally, intestinal integrity, determined by measuring intestinal permeability and regenerative capacity, was similar between the treatment groups. Also, intestinal architecture (villus lenght, crypt depth) was not affected by scFOS supplementation. The density of intra-epithelial lymphocytes and the expression profiles (real-time qPCR) for immune system-related genes (IL-10, IL-1ß, IL-6, TNFα and IFNγ) were used to assess mucosal immunity. Only IFNγ expression, was upregulated in piglets that received scFOS for 7 days. The improved body weight and the reduced post-weaning mortality seen in piglets supplemented with scFOS support the view that scFOS positively impact piglet's health and resilience. However, the modes of action for these effects are not yet fully elucidated and its potential to improve other performance parameters needs further investigation.
+## Short-chain fructo-oligosaccharides supplementation to suckling piglets: Assessment of pre- and post-weaning performance and gut health
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhE8zhesZarQPWOUwWjOIkvFI-2FI-2B06KPFj-2FSPaMX9uwHcQ-3Dz40D_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slw6TxEPNqMf2DAeG-2BdDRmJzdef9ODLIfFDGLjR727vsnFPiy1MvkQK7mYgNXXgvrh0Jki3J0hxqpUEHkyPGKqWxcajGED6kukYxUZQqhUypcxucih6WtdIR4ppOPH8Q1iEt6MyCEuUFsrm4ZYOi9aa-2BOEOIsndvrftkDv82kGhy6B2wv3GSo7XaKs96dLL1LNI)
-
-10.1371/journal.pone.0233910
 
 ---
 
@@ -248,28 +205,9 @@ This study investigated the effects of oral administration of β-glucan 1,3 (pha
 
 ---
 
-## Characterizing the microbiome of ectoparasitic louse flies feeding on migratory raptors.
- 04.06.2020, _RA McCabe, JP Receveur, JL Houtz, KL Thomas, ME Benbow, JL Pechal, JR Wallace_
-
-
-Louse flies (Diptera: Hippoboscidae) are obligate ectoparasites that often cause behavioral, pathogenic, and evolutionary effects on their hosts. Interactions between ectoparasites and avian hosts, especially migrating taxa, may influence avian pathogen spread in tropical and temperate ecosystems and affect long-term survival, fitness and reproductive success. The purpose of this study was to characterize the vector-associated microbiome of ectoparasitic louse flies feeding on migrating raptors over the fall migration period. Surveys for louse flies occurred during fall migration (2015-2016) at a banding station in Pennsylvania, United States; flies were collected from seven species of migrating raptors, and we sequenced their microbial (bacteria and archaea) composition using high-throughput targeted amplicon sequencing of the 16S rRNA gene (V4 region). All louse flies collected belonged to the same species, Icosta americana. Our analysis revealed no difference in bacterial communities of louse flies retrieved from different avian host species. The louse fly microbiome was dominated by a primary endosymbiont, suggesting that louse flies maintain a core microbial structure despite receiving blood meals from different host species. Thus, our findings highlight the importance of characterizing both beneficial and potentially pathogenic endosymbionts when interpreting how vector-associated microbiomes may impact insect vectors and their avian hosts.
+## Characterizing the microbiome of ectoparasitic louse flies feeding on migratory raptors
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhElyZHPcHMdYayOzO2t5KrW7-2BeXmQgoiDuN-2FDLyB-2FObdQ-3D6VFr_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slw-2FebIwSDNSYk48dFNbcDuqle43M8R3G8hW8-2FShGYr0yoIeeLJMnnbr8JFJwzVjjKZpi8j6yFXQwrJu63dIc2mcE1BOvLXODJ-2BE4kV1OX5hiLKPVMrBTDhEvX-2Bw2lkpVEHX9bCo5O67hgW9XnZPEftVDdKRQ3JCoU9rR9bNSUWuG-2F9xmSM2aSloq9KGxI8Kjb8)
-
-10.1371/journal.pone.0234050
-
----
-
-## Characterization of Bacterial Microbiota in Tilapia Fillets Under Different Storage Temperatures.
- 20.08.2019, _S Duan, X Zhou, H Xiao, J Miao, L Zhao_
-
-
-_Animals, Bacteria, Bacterial Load, Cold Temperature, DNA, Bacterial, DNA, Ribosomal, Food Storage, Microbiota, Pseudomonas, RNA, Ribosomal, 16S, Serratia, Temperature, Tilapia, Time Factors_
-This paper investigates the bacterial microbiota in tilapia fillets under cold (4 °C), iced (0 °C), and superchilled (-3 °C) storage conditions. At 4 °C, at least seven species/strains of Pseudomonas were detected in the fillets, five of which were dominant either at a certain stage or throughout the entire storage period. Shewanella was less dominant than Pseudomonas at 4 °C, while Serratia became dominant after 6 days storage at 4 °C. The microbiota in fillets stored at 0 and -3 °C were very similar and rarely changed during storage, yet differed greatly from the microbiota at 4 °C. Only two Pseudomonas species/strains grew at 0 and -3 °C, one of which was the most dominant. A Vibrionimonas sp. not found at 4 °C was found to be the second most dominant species at 0 and -3 °C. Shewanella and Psychrobacter were also present at 0 and -3 °C but were the minor genera. The most dominant strains at -3, 0, and 4 °C were separately isolated and subjected to full length 16S rDNA sequencing, which demonstrated that they were identical and were Pseudomonas fluorescens. The changes of the total bacterial count and TVBN value of the fillets inoculated with the isolated P. fluorescens were very similar to those of fillets with natural microbiota. This implies that P. fluorescens is the most important spoiler of tilapia fillets at -3, 0, or 4 °C. PRACTICAL APPLICATION: This research shows that fewer species of bacteria survive at 0 and -3 °C than those at 4 °C, while among these bacteria, the most important spoiler is P. fluorescens. This may provide some clues to extend the shelf life of tilapia fillets by taking some inhibitory measures targeted at P. fluorescens in the future.
-
-[Source](http://scholar.google.com/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S0963996920303987&hl=en&sa=X&d=197179692971674912&scisig=AAGBfm2QQ_w62kDcpCNeWJc7J6N4WKqunQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
-
-10.1111/1750-3841.14630
 
 ---
 
@@ -285,15 +223,9 @@ This paper investigates the bacterial microbiota in tilapia fillets under cold (
 
 ---
 
-## Fish skin and gut microbiomes show contrasting signatures of host species and habitat.
- 06.06.2020, _FÉ Sylvain, A Holland, S Bouslama, É Audet-Gilbert, C Lavoie, A Luis Val, N Derome_
-
-
-Teleost fishes represent an invaluable repertoire of host species to study the factors shaping animal-associated microbiomes. Several studies have shown that the phylogenetic structure of fish gut microbiome is driven by species-specific (e.g. host ancestry, genotype or diet) and habitat-specific (e.g. hydrochemical parameters and bacterioplankton composition) factors. However, our understanding of other host-associated microbial niches, such as the skin mucus microbiome, remains limited. The goal of our study was to explore simultaneously the phylogenetic structure of fish skin mucus and gut microbiome and compare the effect of species- and habitat-specific drivers on the structure of microbial communities in both tissues. We sampled 114 wild fish from 6 populations of 3 ecologically and phylogenetically contrasting Amazonian Teleost species. Water samples were collected at each site, and 10 physicochemical parameters were characterized. The skin mucus, gut, and water microbial communities were characterized using a metabarcoding approach targeting the V3-V4 regions of the 16S rRNA. Our results showed a significant distinction between the phylogenetic profile and diversity of the microbiome from each microbial niche. Skin mucus and bacterioplankton communities were significantly closer in composition than gut and free-living communities. Species-specific factors mostly modulated gut bacterial communities, while the skin mucus microbiome was predominantly associated to environmental physicochemistry and bacterioplankton community structure. These results suggest that the variable skin mucus community is a relevant target to develop microbial biomarkers of environmental status, while the more conserved gut microbiome is better suited to study long-term host-microbe interactions over evolutionary time scales.Importance Whether host-associated microbiomes are mostly shaped by species-specific or environmental factors is still unresolved. Especially, it is unknown to what extent microbial communities from two different host tissues from the same host respond to these factors. Our study is one of the first to focus on the microbiome of teleost fishes to shed a light on this topic, as we investigate how the phylogenetic structure of microbial communities from two distinct fish tissues are shaped by species- and habitat-specific factors. Our study showed that in contrast to the teleost gut microbiome, skin mucus communities are highly environment dependent. This result has different implications: (1) the skin mucus microbiome should be used, rather than the gut, to investigate bacterial biomarkers of ecosystem perturbance in the wild; (2) the gut microbiome is better suited for studies on the drivers of phylosymbiosis, or the co-evolution of fish and their symbionts.
+## Fish skin and gut microbiomes show contrasting signatures of host species and habitat
 
 [Source](http://scholar.google.com/scholar_url?url=https://aem.asm.org/content/early/2020/06/01/AEM.00789-20.abstract&hl=en&sa=X&d=9387854656228043176&scisig=AAGBfm1PNtOJSR0RsZdM4D99HO0xtbKqFw&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig)
-
-10.1128/AEM.00789-20
 
 ---
 
@@ -408,18 +340,6 @@ The composition of arbuscular mycorrhizal fungal (AMF) communities should reflec
 ## Impact of trimethoprim on the river microbiome and antimicrobial resistance
 
 [Source](http://www.biorxiv.org/cgi/content/full/2020.06.05.133348v1??collection)
-
----
-
-## gutMEGA: a database of the human gut MEtaGenome Atlas.
- 04.06.2020, _Q Zhang, K Yu, S Li, X Zhang, Q Zhao, X Zhao, Z Liu, H Cheng, ZX Liu, X Li_
-
-
-The gut microbiota plays important roles in human health through regulating both physiological homeostasis and disease emergence. The accumulation of metagenomic sequencing studies enables us to better understand the temporal and spatial variations of the gut microbiota under different physiological and pathological conditions. However, it is inconvenient for scientists to query and retrieve published data; thus, a comprehensive resource for the quantitative gut metagenome is urgently needed. In this study, we developed gut MEtaGenome Atlas (gutMEGA), a well-annotated comprehensive database, to curate and host published quantitative gut microbiota datasets from Homo sapiens. By carefully curating the gut microbiota composition, phenotypes and experimental information, gutMEGA finally integrated 59 132 quantification events for 6457 taxa at seven different levels (kingdom, phylum, class, order, family, genus and species) under 776 conditions. Moreover, with various browsing and search functions, gutMEGA provides a fast and simple way for users to obtain the relative abundances of intestinal microbes among phenotypes. Overall, gutMEGA is a convenient and comprehensive resource for gut metagenome research, which can be freely accessed at http://gutmega.omicsbio.info.
-
-[Source](http://scholar.google.com/scholar_url?url=https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa082/5851266&hl=en&sa=X&d=10124200937906026107&scisig=AAGBfm3wJjrhpVGLxeLFvyWzs3p082Z4Iw&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:489127521551979671:AAGBfm1AubYP_Oznxke33zOc3LOQGAQzTw)
-
-10.1093/bib/bbaa082
 
 ---
 
