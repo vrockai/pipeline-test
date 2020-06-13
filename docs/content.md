@@ -296,15 +296,9 @@ This study investigated the effects of oral administration of β-glucan 1,3 (pha
 
 ---
 
-## Comparative metagenomics reveals the microbial diversity and metabolic potentials in the sediments and surrounding seawaters of Qinhuangdao mariculture area.
- 04.06.2020, _S Wang, Z Yan, P Wang, X Zheng, J Fan_
-
-
-Qinhuangdao coastal area is an important mariculture area in North China. Microbial communities play an important role in driving biogeochemical cycle and energy flow. It is necessary to identify the microbial communities and their functions in the coastal mariculture area of Qinhuangdao. In this study, the microbial community compositions and their metabolic potentials in the sediments and their surrounding seawaters of Qinhuangdao mariculture area were uncovered by the 16S rRNA gene amplicon sequencing and metagenomic shotgun sequencing approaches. The results of amplicon sequencing showed that Gammaproteobacteria and Alphaproteobacteria were predominant classes. Our datasets showed a clear shift in microbial taxonomic groups and the metabolic pathways in the sediments and surrounding seawaters. Metagenomic analysis showed that purine metabolism, ABC transporters, and pyrimidine metabolism were the most abundant pathways. Genes related to two-component system, TCA cycle and nitrogen metabolism exhibited higher abundance in sediments compared with those in seawaters. The presence of cadmium-resistant genes and ABC transporters suggested the ability of microorganisms to resist the toxicity of cadmium. In summary, this study provides comprehensive and significant differential signatures in the microbial community and metabolic pathways in Qinhuangdao mariculture area, and can develop effective microbial indicators to monitor mariculture area in the future.
+## Comparative metagenomics reveals the microbial diversity and metabolic potentials in the sediments and surrounding seawaters of Qinhuangdao mariculture area
 
 [Source](https://u2730683.ct.sendgrid.net/ls/click?upn=1I40RAgHmCEvmIsjUbeAh3he4lcJCb-2FC42rEKZ3c8FpZbQ7EuAY74hTnLYpV3-2BhEZXUHirQR-2B3XGgTLTyGVNu2Hi55HaV57WySFWJHS5V-2F8-3DHFv8_Ca-2F6HwZe6r-2Bcd3JI9-2BmwvRvL6Gtvob0rhw-2B8-2BTbob11cdolDUAPoBf0X6nna7slw0WMI8JW7-2FYD1g-2Bo0d8uDnrczwHcy12eXTFiSnqud9Pq0-2Fl1rQOjLoRqdKCDYJJ-2FqdlcdGzHuRkRMmq1xDCE2uLzbx6AYV8dFqdkhIKSC-2B-2BbgHZrmsvaJkq-2Bl5O1CKqTPY9ngLvBpGUPadv-2FATBbQOrcB2onPCyXrxCk-2Fl2Ur0wzXe77AY2V7qWnQtsg0tAR4)
-
-10.1371/journal.pone.0234128
 
 ---
 
