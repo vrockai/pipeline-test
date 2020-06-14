@@ -52,15 +52,27 @@ Ribosomal RNA (rRNA) is used widely to investigate potentially active microorgan
 
 ---
 
-## Depth-related variability in viral communities in highly stratified sulfidic mine tailings
+## Depth-related variability in viral communities in highly stratified sulfidic mine tailings.
+ 12.06.2020, _SM Gao, A Schippers, N Chen, Y Yuan, MM Zhang, Q Li, B Liao, WS Shu, LN Huang_
+
+
+Recent studies have significantly expanded our knowledge of viral diversity and functions in the environment. Exploring the ecological relationships between viruses, hosts, and the environment is a crucial first step towards a deeper understanding of the complex and dynamic interplays among them.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00848-3)
 
+10.1186/s40168-020-00848-3
+
 ---
 
-## GAD: A Python Script for Dividing Genome Annotation Files into Feature-Based Files
+## GAD: A Python Script for Dividing Genome Annotation Files into Feature-Based Files.
+ 11.06.2020, _N Yasser, A Karam_
+
+
+Nowadays, the manipulation and analysis of genomic data stored in publicly accessible repositories have become a daily task in genomics and bioinformatics laboratories. Due to the enormous advancement in the field of genome sequencing and the emergence of many projects, bioinformaticians have pushed for the creation of a variety of programs and pipelines that will automatically analyze such big data, in particular the pipelines of gene annotation. Dealing with annotation files using easy and simple programs is very important, particularly for non-developers, enhancing the genomic data analysis acceleration. One of the first tasks required to work with genomic annotation files is to extract different features. In this regard, we have developed GAD (https://github.com/bio-projects/GAD) using Python to be a fast, easy, and controlled script that has a high ability to handle annotation files such as GFF3 and GTF. GAD is a cross-platform graphical interface tool used to extract genome features such as intergenic regions, upstream, and downstream genes. Besides, GAD finds all names of ambiguous sequence ontology, and either extracts them or considers them as genes or transcripts. The results are produced in a variety of file formats, such as BED, GTF, GFF3, and FASTA, supported by other bioinformatics programs. The GAD can handle large sizes of different genomes and an infinite number of files with minimal user effort. Therefore, our script could be integrated into various pipelines in all genomic laboratories to accelerate data analysis.
 
 [Source](https://link.springer.com/article/10.1007/s12539-020-00378-4)
+
+10.1007/s12539-020-00378-4
 
 ---
 
