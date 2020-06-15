@@ -11,7 +11,7 @@ Metabolic responses to food influence risk of cardiometabolic disease, but large
 ---
 
 ## Shotgun sequencing of honey DNA can describe honey bee derived environmental signatures and the honey bee hologenome complexity.
- 10.06.2020, _S Bovo, VJ Utzeri, A Ribani, R Cabbri, L Fontanesi_
+ 11.06.2020, _S Bovo, VJ Utzeri, A Ribani, R Cabbri, L Fontanesi_
 
 
 Honey bees are large-scale monitoring tools due to their extensive environmental exploration. In their activities and from the hive ecosystem complex, they get in close contact with many organisms whose traces can be transferred into the honey, which can represent an interesting reservoir of environmental DNA (eDNA) signatures and information useful to analyse the honey bee hologenome complexity. In this study, we tested a deep shotgun sequencing approach of honey DNA coupled with a specifically adapted bioinformatic pipeline. This methodology was applied to a few honey samples pointing out DNA sequences from 191 organisms spanning different kingdoms or phyla (viruses, bacteria, plants, fungi, protozoans, arthropods, mammals). Bacteria included the largest number of species. These multi-kingdom signatures listed common hive and honey bee gut microorganisms, honey bee pathogens, parasites and pests, which resembled a complex interplay that might provide a general picture of the honey bee pathosphere. Based on the Apis mellifera filamentous virus genome diversity (the most abundant detected DNA source) we obtained information that could define the origin of the honey at the apiary level. Mining Apis mellifera sequences made it possible to identify the honey bee subspecies both at the mitochondrial and nuclear genome levels.
