@@ -1,66 +1,78 @@
-## Human postprandial responses to food and potential for precision nutrition.
- 12.06.2020, _SE Berry, AM Valdes, DA Drew, F Asnicar, M Mazidi, J Wolf, J Capdevila, G Hadjigeorgiou, R Davies, H Al Khatib, C Bonnett, S Ganesh, E Bakker, D Hart, M Mangino, J Merino, I Linenberg, P Wyatt, JM Ordovas, CD Gardner, LM Delahanty, AT Chan, N Segata, PW Franks, TD Spector_
+## ERC funded IDEM
 
-
-Metabolic responses to food influence risk of cardiometabolic disease, but large-scale high-resolution studies are lacking. We recruited n = 1,002 twins and unrelated healthy adults in the United Kingdom to the PREDICT 1 study and assessed postprandial metabolic responses in a clinical setting and at home. We observed large inter-individual variability (as measured by the population coefficient of variation (s.d./mean, %)) in postprandial responses of blood triglyceride (103%), glucose (68%) and insulin (59%) following identical meals. Person-specific factors, such as gut microbiome, had a greater influence (7.1% of variance) than did meal macronutrients (3.6%) for postprandial lipemia, but not for postprandial glycemia (6.0% and 15.4%, respectively); genetic variants had a modest impact on predictions (9.5% for glucose, 0.8% for triglyceride, 0.2% for C-peptide). Findings were independently validated in a US cohort (n = 100 people). We developed a machine-learning model that predicted both triglyceride (r = 0.47) and glycemic (r = 0.77) responses to food intake. These findings may be informative for developing personalized diet strategies. The ClinicalTrials.gov registration identifier is NCT03479866.
-
-[Source](https://www.nature.com/articles/s41591-020-0934-0)
-
-10.1038/s41591-020-0934-0
+[Source](https://www.immuconcept.org/erc-idem/)
 
 ---
 
-## Shotgun sequencing of honey DNA can describe honey bee derived environmental signatures and the honey bee hologenome complexity.
- 11.06.2020, _S Bovo, VJ Utzeri, A Ribani, R Cabbri, L Fontanesi_
+## ERC IDEM Group Holobiont Discussion
 
-
-Honey bees are large-scale monitoring tools due to their extensive environmental exploration. In their activities and from the hive ecosystem complex, they get in close contact with many organisms whose traces can be transferred into the honey, which can represent an interesting reservoir of environmental DNA (eDNA) signatures and information useful to analyse the honey bee hologenome complexity. In this study, we tested a deep shotgun sequencing approach of honey DNA coupled with a specifically adapted bioinformatic pipeline. This methodology was applied to a few honey samples pointing out DNA sequences from 191 organisms spanning different kingdoms or phyla (viruses, bacteria, plants, fungi, protozoans, arthropods, mammals). Bacteria included the largest number of species. These multi-kingdom signatures listed common hive and honey bee gut microorganisms, honey bee pathogens, parasites and pests, which resembled a complex interplay that might provide a general picture of the honey bee pathosphere. Based on the Apis mellifera filamentous virus genome diversity (the most abundant detected DNA source) we obtained information that could define the origin of the honey at the apiary level. Mining Apis mellifera sequences made it possible to identify the honey bee subspecies both at the mitochondrial and nuclear genome levels.
-
-[Source](https://www.nature.com/articles/s41598-020-66127-1)
-
-10.1038/s41598-020-66127-1
+[Source](https://www.youtube.com/watch?v=umD02n7fmOg)
 
 ---
 
-## Low Turnover of Soil Bacterial rRNA at Low Temperatures.
- 12.06.2020, _MD Schostag, CN Albers, CS Jacobsen, A Priemé_
+## Intestinal fermentation in vitro models to study food- induced gut microbiota shift: an updated review
 
-
-Ribosomal RNA (rRNA) is used widely to investigate potentially active microorganisms in environmental samples, including soil microorganisms and other microbial communities that are subjected to pronounced seasonal variation in temperature. This raises a question about the turnover of intracellular microbial rRNA at environmentally relevant temperatures. We analyzed the turnover at four temperatures of RNA isolated from soil bacteria amended with 14C-labeled uridine. We found that the half-life of recently produced RNA increased from 4.0 days at 20°C to 15.8 days at 4°C, and 215 days at -4°C, while no degradation was detected at -18°C during a 1-year period. We discuss the implications of the strong temperature dependency of rRNA turnover for interpretation of microbiome data based on rRNA isolated from environmental samples.
-
-[Source](https://doi.org/10.3389/fmicb.2020.00962)
-
-10.3389/fmicb.2020.00962
+[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaa097/5854534)
 
 ---
 
-## Diatom Modulation of Microbial Consortia Through Use of Two Unique Secondary Metabolites
+## Parkinson’s disease-associated alterations of the gut microbiome predict disease-relevant changes in metabolic functions
 
-[Source](https://doi.org/10.1101/2020.06.11.144840)
-
----
-
-## Complementary sampling methods for coral histology, metabolomics, and microbiome
-
-[Source](https://doi.org/10.1111/2041-210X.13431)
+[Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00775-7)
 
 ---
 
-## Phage infection mediates inhibition of bystander bacteria
+## High <em>Oscillospira</em> abundance indicates constipation and low BMI in the Guangdong Gut Microbiome Project
 
-[Source](https://doi.org/10.1101/2020.05.11.077669)
-
----
-
-## Depth-related variability in viral communities in highly stratified sulfidic mine tailings
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00848-3)
+[Source](https://www.nature.com/articles/s41598-020-66369-z)
 
 ---
 
-## GAD: A Python Script for Dividing Genome Annotation Files into Feature-Based Files
+## Assessing similarities and disparities in the skin microbiota between wild and laboratory populations of house mice
 
-[Source](https://link.springer.com/article/10.1007/s12539-020-00378-4)
+[Source](https://www.nature.com/articles/s41396-020-0690-7)
+
+---
+
+## Competitive traits of coral symbionts may alter the structure and function of the microbiome
+
+[Source](https://www.nature.com/articles/s41396-020-0697-0)
+
+---
+
+## Evolutionary development and co‐phylogeny of primate‐associated <em>bifidobacteria</em>
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15108)
+
+---
+
+## Microbial functional traits in phyllosphere are more sensitive to anthropogenic disturbance than in soil
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0269749120337088)
+
+---
+
+## Eutrophication as a driver of microbial community structure in lake sediments
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15115)
+
+---
+
+## MetaFS: Performance assessment of biomarker discovery in metaproteomics
+
+[Source](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa105/5854399)
+
+---
+
+## Using our Microbiome to Change the Way We Live
+
+[Source](https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0)
+
+---
+
+## https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0
+
+[Source](https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0)
 
 ---
 
