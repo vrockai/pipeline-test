@@ -1,132 +1,174 @@
-## ERC funded IDEM
-
-[Source](https://www.immuconcept.org/erc-idem/)
-
----
-
-## ERC IDEM Group Holobiont Discussion
-
-[Source](https://www.youtube.com/watch?v=umD02n7fmOg)
-
----
-
-## Intestinal fermentation in vitro models to study food- induced gut microbiota shift: an updated review.
- 08.06.2020, _L Nissen, F Casciano, A Gianotti_
+## Re-evaluating the relationship between missing heritability and the microbiome.
+ 12.06.2020, _GM Douglas, JP Bielawski, MGI Langille_
 
 
-In vitro gut fermentation models were firstly introduced in nutrition and applied microbiology research back in the nineties. These models have improved greatly during time, mainly over the resemblance to the complexity of digestion stages, the replication of experimental conditions, the multitude of ecological parameters to assay. The state of the science is that the most competitive models shall include a complex gut microbiota, small working volumes, distinct interconnected compartments, and rigorous bio-chemical and ecological settings, controlled by a computer, as well as a free-hands accessibility, not to contaminate the mock microbiota. These models are a useful tool to study the impact of a given diet compound, e.g. prebiotics, on the human gut microbiota. The principal application is to focus on the shift of the core microbial groups and selected species together with their metabolites, assaying their diversity, richness, and abundance in the community over time. Besides, it is possible to study how a compound is digested, which metabolic pathways are triggered, and the type and quantity of microbial metabolites produced. Further prospective should focus on challenges with pathogens as well as on ecology of gut syndromes. In this minireview an updated presentation of the most used intestinal models is presented, basing on their concept, technical features, as well as on research applications.
+Human genome-wide association studies (GWASs) have recurrently estimated lower heritability estimates than familial studies. Many explanations have been suggested to explain these lower estimates, including that a substantial proportion of genetic variation and gene-by-environment interactions are unmeasured in typical GWASs. The human microbiome is potentially related to both of these explanations, but it has been more commonly considered as a source of unmeasured genetic variation. In particular, it has recently been argued that the genetic variation within the human microbiome should be included when estimating trait heritability. We outline issues with this argument, which in its strictest form depends on the holobiont model of human-microbiome interactions. Instead, we argue that the microbiome could be leveraged to help control for environmental variation across a population, although that remains to be determined. We discuss potential approaches that could be explored to determine whether integrating microbiome sequencing data into GWASs is useful. Video abstract.
 
-[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaa097/5854534)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00839-4)
 
-10.1093/femsle/fnaa097
+10.1186/s40168-020-00839-4
 
 ---
 
-## Parkinson’s disease-associated alterations of the gut microbiome predict disease-relevant changes in metabolic functions
-
-[Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00775-7)
-
----
-
-## High <em>Oscillospira</em> abundance indicates constipation and low BMI in the Guangdong Gut Microbiome Project
-
-[Source](https://www.nature.com/articles/s41598-020-66369-z)
-
----
-
-## Assessing similarities and disparities in the skin microbiota between wild and laboratory populations of house mice.
- 10.06.2020, _M Belheouane, M Vallier, A Čepić, CJ Chung, S Ibrahim, JF Baines_
+## The Bacterial Microbiota of Gastrointestinal Cancers: Role in Cancer Pathogenesis and Therapeutic Perspectives.
+ 25.05.2020, _L Elsalem, AA Jum'ah, MA Alfaqih, O Aloudat_
 
 
-The house mouse is a key model organism in skin research including host-microbiota interactions, yet little is known about the skin microbiota of free-living mice. It is similarly unclear how closely laboratory mice, which typically live under exceptionally hygienic conditions, resemble the ancestral state of microbial variation in the wild. In this study, we sampled an area spanning 270 km2 in south-west France and collected 203 wild Mus musculus domesticus. We profiled the ear skin microbiota on standing and active communities (DNA-based and RNA-based 16 rRNA gene sequencing, respectively), and compared multiple community aspects between wild-caught and laboratory-reared mice kept in distinct facilities. Compared to lab mice, we reveal the skin microbiota of wild mice on the one hand to be unique in their composition within the Staphylococcus genus, with a majority of sequences most closely matching known novobiocin-resistant species, and display evidence of a rare biosphere. On the other hand, despite drastic disparities between natural and laboratory environments, we find that shared taxa nonetheless make up the majority of the core skin microbiota of both wild- and laboratory skin communities, suggesting that mammalian skin is a highly specialized habitat capable of strong selection from available species pools. Finally, the influence of environmental factors suggests RNA-based profiling as a preferred method to reduce environmental noise.
+The microbiota has an essential role in the pathogenesis of many gastrointestinal diseases including cancer. This effect is mediated through different mechanisms such as damaging DNA, activation of oncogenic pathways, production of carcinogenic metabolites, stimulation of chronic inflammation, and inhibition of antitumor immunity. Recently, the concept of "pharmacomicrobiomics" has emerged as a new field concerned with exploring the interplay between drugs and microbes. Mounting evidence indicates that the microbiota and their metabolites have a major impact on the pharmacodynamics and therapeutic responses toward anticancer drugs including conventional chemotherapy and molecular -targeted therapeutics. In addition, microbiota appears as an attractive target for cancer prevention and treatment. In this review, we discuss the role of bacterial microbiota in the pathogenesis of different cancer types affecting the gastrointestinal tract system. We also scrutinize the evidence regarding the role of microbiota in anticancer drug responses. Further, we discuss the use of probiotics, fecal microbiota transplantation, and antibiotics, either alone or in combination with anticancer drugs for prevention and treatment of gastrointestinal tract cancers.
 
-[Source](https://www.nature.com/articles/s41396-020-0690-7)
+[Source](https://link.springer.com/chapter/10.1007/978-981-15-3895-7_10)
 
-10.1038/s41396-020-0690-7
+10.2147/CEG.S243337
 
 ---
 
-## Competitive traits of coral symbionts may alter the structure and function of the microbiome.
- 10.06.2020, _SE McIlroy, JCY Wong, DM Baker_
+## Pharmacomicrobiomics
 
-
-In the face of global warming and unprecedented coral bleaching, a new avenue of research is focused on relatively rare algal symbionts and their ability to confer thermal tolerance to their host by association. Yet, thermal tolerance is just one of many physiological attributes inherent to the diversity of symbiodinians, a result of millions of years of competition and niche partitioning. Here, we revealed that competition among cocultured symbiodinians alters nutrient assimilation and compound production with species-specific responses. For Cladocopium goreaui, a species ubiquitous within stable coral associations, temperature stress increased sensitivity to competition eliciting a shift toward investment in cell replication, i.e., putative niche exploitation. Meanwhile, competition led Durusdinium trenchii, a thermally tolerant "background" symbiodinian, to divert resources from immediate growth to storage. As such, competition may be driving the dominance of C. goreaui outside of temperature stress, the destabilization of symbioses under thermal stress, the repopulation of coral tissues by D. trenchii following bleaching, and ultimately undermine the efficacy of symbiont turnover as an adaptive mechanism.
-
-[Source](https://www.nature.com/articles/s41396-020-0697-0)
-
-10.1038/s41396-020-0697-0
+[Source](https://link.springer.com/chapter/10.1007/978-981-15-3895-7_10)
 
 ---
 
-## Evolutionary development and co‐phylogeny of primate‐associated <em>bifidobacteria</em>
+## Altered Composition of Gut Microbiota in Depression: A Systematic Review
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15108)
-
----
-
-## Microbial functional traits in phyllosphere are more sensitive to anthropogenic disturbance than in soil
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0269749120337088)
+[Source](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00541/full)
 
 ---
 
-## Eutrophication as a driver of microbial community structure in lake sediments.
- 08.06.2020, _X Han, CJ Schubert, A Fiskal, N Dubois, MA Lever_
+## Tryptophan Metabolites Along the Microbiota-Gut-Brain Axis: An Interkingdom Communication System Influencing the Gut in Health and Disease
 
-
-Lake sediments are globally important carbon sinks. Although the fate of organic carbon (OC) in lake sediments depends significantly on microorganisms, only few studies have investigated controls on lake sedimentary microbial communities. Here we investigate the impact of anthropogenic eutrophication, which affects redox chemistry and organic matter (OM) sources in sediments, on microbial communities across five lakes in central Switzerland. Lipid biomarkers and distributions of microbial respiration reactions indicate strong increases in aquatic OM contributions and microbial activity with increasing trophic state. Across all lakes, 16S rRNA genes analyses indicate similar depth-dependent zonations at the phylum- and class-level that follow vertical distributions of OM sources and respiration reactions. Yet, there are notable differences, such as higher abundances of nitrifying Bacteria and Archaea in oligotrophic lake. Furthermore, analyses at order-level and below suggest changes in OM sources due to eutrophication cause permanent changes in bacterial community structure. By contrast, archaeal communities are differentiated according to trophic state in recently deposited layers, but converge in older sediments deposited under different trophic regimes. Our study indicates an important role for trophic state in driving lacustrine sediment microbial communities and reveals fundamental differences in the temporal responses of sediment Bacteria and Archaea to eutrophication. This article is protected by copyright. All rights reserved.
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15115)
-
-10.1111/1462-2920.15115
+[Source](https://journals.sagepub.com/doi/full/10.1177/1178646920928984)
 
 ---
 
-## MetaFS: Performance assessment of biomarker discovery in metaproteomics.
- 08.06.2020, _J Tang, M Mou, Y Wang, Y Luo, F Zhu_
+## Personalized Mapping of Drug Metabolism by the Human Gut&nbsp;Microbiome
 
-
-Metaproteomics suffers from the issues of dimensionality and sparsity. Data reduction methods can maximally identify the relevant subset of significant differential features and reduce data redundancy. Feature selection (FS) methods were applied to obtain the significant differential subset. So far, a variety of feature selection methods have been developed for metaproteomic study. However, due to FS's performance depended heavily on the data characteristics of a given research, the well-suitable feature selection method must be carefully selected to obtain the reproducible differential proteins. Moreover, it is critical to evaluate the performance of each FS method according to comprehensive criteria, because the single criterion is not sufficient to reflect the overall performance of the FS method. Therefore, we developed an online tool named MetaFS, which provided 13 types of FS methods and conducted the comprehensive evaluation on the complex FS methods using four widely accepted and independent criteria. Furthermore, the function and reliability of MetaFS were systematically tested and validated via two case studies. In sum, MetaFS could be a distinguished tool for discovering the overall well-performed FS method for selecting the potential biomarkers in microbiome studies. The online tool is freely available at https://idrblab.org/metafs/.
-
-[Source](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa105/5854399)
-
-10.1093/bib/bbaa105
+[Source](https://www.sciencedirect.com/science/article/pii/S0092867420305638)
 
 ---
 
-## The Impact of Inflammatory Bowel Disease in Canada 2018: Epidemiology.
- 25.02.2020, _GG Kaplan, CN Bernstein, S Coward, A Bitton, SK Murthy, GC Nguyen, K Lee, J Cooke-Lauder, EI Benchimol_
+## Bacteroides thetaiotaomicron-derived outer membrane vesicles promote regulatory dendritic cell responses in health but not in inflammatory bowel disease
 
-
-Canada has among the highest incidence and prevalence of inflammatory bowel disease (IBD) in the world. After decades of rising incidence of IBD in Canada during the 20th Century, the prevalence of IBD in 2018 is 0.7% of the Canadian population. Forecasting models predict that prevalence of IBD will continue to rise to 1.0% of the population by 2030. In 2018, the number of Canadians living with IBD is approximately 270,000 and is predicted to rise to 403,000 Canadians in 2030. Inflammatory bowel disease affects all age groups with adolescents and young adults at highest risk of diagnosis. Canadians of all ethnicities are being diagnosed with IBD including known high-risk groups such as Ashkenazi Jews and offspring of South Asian immigrants who were previously thought to be low risk. Moreover, IBD has evolved into a global disease with rising incidence in newly industrialized countries in Asia and South America. The causes of IBD remain unsolved; however, the high rates of disease in Western countries and its emergence in newly industrialized countries suggest that environmental factors associated with urbanization, modernization, or Western diets may be pertinent to understanding the pathogenesis of the disease.
-
-[Source](https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0)
-
-10.1093/jcag/gwy054
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00868-z)
 
 ---
 
-## Using our Microbiome to Change the Way We Live
+## The skin microbiome of elasmobranchs follows phylosymbiosis, but in teleost fishes, the microbiomes converge
 
-[Source](https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0)
-
----
-
-## Relationship between quality of life and burden of recurrent atrial fibrillation following ablation: CAPCOST multicentre cohort study.
- 12.06.2020, _V Essebag, Z Azizi, P Alipour, Y Khaykin, P Leong-Sit, JF Sarrazin, M Sturmer, C Morillo, M Terricabras, G Amit, JF Roux, S Patterson, A Verma_
-
-
-Atrial fibrillation (AF) significantly impairs patients' quality of life (QOL). We performed this study to investigate the effect of AF-ablation success and atrial fibrillation burden (AFB) on QOL measures.
-
-[Source](https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0)
-
-10.1093/europace/euaa066
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00840-x)
 
 ---
 
-## https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0
+## Whole-genome sequence analysis of environmental <em>Escherichia coli</em> from the faeces of straw-necked ibis (<em>Threskiornis spinicollis</em>) nesting on inland wetlands
 
-[Source](https://www.kpcw.org/post/using-our-microbiome-change-way-we-live#stream/0)
+[Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000385)
+
+---
+
+## Intestinal Microbiota Analyses of <em>Litopenaeus vannamei</em> During a Case of Atypical Massive Mortality in Northwestern Mexico
+
+[Source](https://link.springer.com/article/10.1007/s00284-020-02079-z)
+
+---
+
+## Identification of hepatitis C virus in the common bed bug–a potential, but uncommon route for HCV infection?
+
+[Source](https://www.tandfonline.com/doi/pdf/10.1080/22221751.2020.1780950)
+
+---
+
+## Eggshell and environmental bacteria contribute to the intestinal&nbsp;microbiota&nbsp;of growing chickens
+
+[Source](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-020-00459-w)
+
+---
+
+## Topography of the respiratory tract bacterial microbiota in cattle
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00869-y)
+
+---
+
+## Exploring slope spatial heterogeneity by nitrogen transfer and arbuscular mycorrhizal community
+
+[Source](https://link.springer.com/article/10.1007/s11368-020-02690-4)
+
+---
+
+## Disentangling drivers of soil&nbsp;microbial&nbsp;potential enzyme activity across rain regimes: An approach based on the functional trait framework
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0038071720301784)
+
+---
+
+## Microbial communities&nbsp;in petroleum-contaminated seasonally frozen soil and their response to temperature changes
+
+[Source](https://www.sciencedirect.com/science/article/pii/S004565352031568X)
+
+---
+
+## The Plant&nbsp;Microbiome: From Ecology to Reductionism and Beyond
+
+[Source](https://www.annualreviews.org/doi/abs/10.1146/annurev-micro-022620-014327)
+
+---
+
+## Biogeographic patterns of&nbsp;microbial&nbsp;co-occurrence ecological networks in six American forests
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0038071720301942)
+
+---
+
+## Microbial communities&nbsp;of container aquatic habitats shift in response to <em>Culex restuans</em> larvae
+
+[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiaa112/5856556)
+
+---
+
+## Climate mediates continental scale patterns of stream microbial functional diversity
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00873-2)
+
+---
+
+## Bacterial diversity of a high-altitude permafrost thaw pond located on Ojos del Salado (Dry Andes, Altiplano-Atacama region)
+
+[Source](https://www.liebertpub.com/doi/abs/10.1089/ast.2018.2012)
+
+---
+
+## Effects of active volcanism on bacterial communities in the highest-altitude crater lake of Ojos del Salado (Dry Andes, Altiplano-Atacama Region)
+
+[Source](https://www.liebertpub.com/doi/abs/10.1089/ast.2018.2011)
+
+---
+
+## Methanogenesis in the Lake Elton saline aquatic system
+
+[Source](https://link.springer.com/article/10.1007/s00792-020-01185-x)
+
+---
+
+## Auxotrophic interactions: A stabilizing attribute of aquatic&nbsp;microbial communities?
+
+[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiaa115/5855490)
+
+---
+
+## Lactic acid accumulation under heat stress related to accelerated glycolysis and mitochondrial dysfunction inhibits the mycelial growth of <em>Pleurotus ostreatus</em>
+
+[Source](https://link.springer.com/article/10.1007/s00253-020-10718-5)
+
+---
+
+## Evaluation and comparison of the&nbsp;microbial communities&nbsp;and volatile profiles in homemade suansun from Guangdong and Yunnan provinces in China
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.10569)
+
+---
+
+## Developing community-based urine sampling methods to deploy biomarker technology for the assessment of dietary exposure
+
+[Source](https://www.cambridge.org/core/journals/public-health-nutrition/article/developing-communitybased-urine-sampling-methods-to-deploy-biomarker-technology-for-the-assessment-of-dietary-exposure/A32A3D0C55189BD3A128BA77B273024A)
 
 ---
 
