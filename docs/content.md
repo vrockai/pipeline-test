@@ -22,15 +22,15 @@ The mother's vaginal microbiota represents the first microbes to which a child i
 
 ---
 
-## Physicians perspectives about medical sources of information: protocol for an overview of systematic reviews.
- 16.06.2020, _G Urrea, N Carvajal-Juliá, C Arcos, J Pérez-Bracchiglione_
+## Comprehensive Characterization of Bovine Milk Lipids: Triglycerides.
+ 17.06.2020, _Z Liu, C Li, J Pryce, S Rochfort_
 
 
-Despite the growing availability of evidence and sources of information, it is not clear what are the physicians preferences for filling gaps in their medical knowledge.
+A comprehensive survey on triglycerides (TAGs) of bovine milk was conducted by a combination of exhaustive liquid chromatography (LC) separation, high-resolution mass spectrometry (MS) detection, and automated lipid molecular feature extraction. A total of 220 groups (a series of species having the same chemical formula and mass) and 3454 molecular species of TAGs were identified based on the accurate mass of the parent ion as well as MS2 information. Sixty-five different fatty acids (FAs) were found across these TAG species; C4:0, C6:0, C8:0, C10:0, C12:0, C14:0, C16:0, C18:0, and C18:1 were the most frequent FAs, whereas C11:3, C11:4, C27:0, C27:1, C28:0, and C28:1 were rare FAs in TAG molecules. The number of species identified represents only a small portion of total TAG molecules that can be theoretically synthesized from 65 FAs. Each TAG group contains on average 15-16 isomeric species (species with different FA composition), but positional isomers do not seem to be widespread. As the isomeric species cannot be completely resolved chromatographically, quantification of TAG was conducted at the group level. The most abundant TAG groups in bovine milk include TAG 34:0, TAG 36:0, TAG 38:1, TAG 38:0, and TAG 40:1. This study provides the most comprehensive milk TAG inventory so far that can be used as a reference for studying milk lipids.
 
 [Source](https://doi.org/10.1093/ajcn/nqaa076)
 
-10.5867/medwave.2020.05.7921
+10.1021/acsomega.0c01841
 
 ---
 
@@ -160,15 +160,15 @@ Recurrent implantation failure (RIF) refers to repeated failure to become pregna
 
 ---
 
-## Dynamic interactions of influenza viruses in Hong Kong during 1998-2018.
- 16.06.2020, _W Yang, EHY Lau, BJ Cowling_
+## Protection From Influenza by Intramuscular Gene Vector Delivery of a Broadly Neutralizing Nanobody Does Not Depend on Antibody Dependent Cellular Cytotoxicity.
+ 17.06.2020, _JMM Del Rosario, M Smith, K Zaki, P Risley, N Temperton, OG Engelhardt, M Collins, Y Takeuchi, SE Hufton_
 
 
-Influenza epidemics cause substantial morbidity and mortality every year worldwide. Currently, two influenza A subtypes, A(H1N1) and A(H3N2), and type B viruses co-circulate in humans and infection with one type/subtype could provide cross-protection against the others. However, it remains unclear how such ecologic competition via cross-immunity and antigenic mutations that allow immune escape impact influenza epidemic dynamics at the population level. Here we develop a comprehensive model-inference system and apply it to study the evolutionary and epidemiological dynamics of the three influenza types/subtypes in Hong Kong, a city of global public health significance for influenza epidemic and pandemic control. Utilizing long-term influenza surveillance data since 1998, we are able to estimate the strength of cross-immunity between each virus-pairs, the timing and frequency of punctuated changes in population immunity in response to antigenic mutations in influenza viruses, and key epidemiological parameters over the last 20 years including the 2009 pandemic. We find evidence of cross-immunity in all types/subtypes, with strongest cross-immunity from A(H1N1) against A(H3N2). Our results also suggest that A(H3N2) may undergo antigenic mutations in both summers and winters and thus monitoring the virus in both seasons may be important for vaccine development. Overall, our study reveals intricate epidemiological interactions and underscores the importance of simultaneous monitoring of population immunity, incidence rates, and viral genetic and antigenic changes.
+Cross-subtype neutralizing single domain antibodies against influenza present new opportunities for immunoprophylaxis and pandemic preparedness. Their simple modular structure and single open reading frame format are highly amenable to gene therapy-mediated delivery. We have previously described R1a-B6, an alpaca-derived single domain antibody (nanobody), that is capable of potent cross-subtype neutralization in vitro of H1N1, H5N1, H2N2, and H9N2 influenza viruses, through binding to a highly conserved epitope in the influenza hemagglutinin stem region. To evaluate the potential of R1a-B6 for immunoprophylaxis, we have reformatted it as an Fc fusion for adeno-associated viral (AAV) vector delivery. Our findings demonstrate that a single intramuscular injection in mice of AAV encoding R1a-B6 fused to Fc fragments of different isotypes equipped either, with or without antibody dependent cellular cytotoxicity (ADCC) activity, was able to drive sustained high-level expression (0.5-1.1 mg/mL) in sera with no evidence of reduction for up to 6 months. R1a-B6-Fc fusions of both isotypes gave complete protection against lethal challenge with both pandemic A/California/07/2009 (H1N1)pdm09 and avian influenza A/Vietnam/1194/2004 (H5N1). This data suggests that R1a-B6 is capable of cross-subtype protection and ADCC was not essential for R1a-B6 efficacy. Our findings demonstrate AAV delivery of cross-subtype neutralizing nanobodies may be an effective strategy to prevent influenza infection and provide long-term protection independent of a host induced immune response.
 
 [Source](https://doi.org/10.1093/cid/ciaa709)
 
-10.1371/journal.pcbi.1007989
+10.3389/fimmu.2020.00627
 
 ---
 
@@ -406,15 +406,15 @@ Compared with the highly diverse microbiota of leaves, herbivorous insects exhib
 
 ---
 
-## Poly(propylene imine) dendrimers can bind to PEGylated albumin at PEG and albumin surface: Biophysical examination of a PEGylated platform to transport cationic dendritic nanoparticles.
- 16.06.2020, _K Ciepluch, R Biehl, M Bryszewska, M Arabski_
+## Clinical and Surgical Assistance in Prostate Cancer during the COVID-19 Pandemic: Implementation of assistance protocols.
+ 17.06.2020, _LR Sanchez, X Cathelineau, AA Pinto, Á Borque-Fernando, MJ Gil, CH Yee, R Sanchez-Salas_
 
 
-Cationic dendrimers are considered one of the best drug transporters in the body. However, in order to improve their biocompatibility, modification of them is required to reduce toxicity. In this way, many dendrimers may lose their original properties, for example, anticancer. To improve biocompatibility of dendrimers, it is possible to complex them with albumin, as is done very often in drug delivery. However, the interaction of dendrimers with albumin can lead to protein structure disruption or no complexation at all. Therefore, the investigation of the interaction between cationic poly-(propylene imine) dendrimers and polyethylene glycol (PEG)-albumin by fluorescence, circular dichroism, small angle X-ray scattering (SAXS), and transmission electron microscopy was carried out. Results show that cationic dendrimers bind to PEGylated albumin at PEG and albumin surfaces. The obtained results for 5k-PEG indicate a preferential binding of the dendrimers to PEG. For 20k-PEG binding of dendrimers to PEG and protein could induce a collapse of the PEG chain onto the protein surface. This opens up new possibilities to the use of PEGylated albumin as a platform to carry dendrimers without changing the albumin structure and improve the pharmacokinetic properties of dendrimers without further modification.
+Propose an approach of prostate cancer (PCa) patients during COVID-19 pandemic.
 
 [Source](https://doi.org/10.1093/femsec/fiaa056)
 
-10.1002/bip.23386
+10.1590/S1677-5538.IBJU.2020.S106
 
 ---
 
