@@ -46,9 +46,15 @@ For more than 30 years, the US National Science Foundation's Research Experience
 
 ---
 
-## Gut carriage of antimicrobial resistance genes in women exposed to small-scale poultry farms in rural Uganda: A feasibility study
+## Gut carriage of antimicrobial resistance genes in women exposed to small-scale poultry farms in rural Uganda: A feasibility study.
+ 17.06.2020, _AA Weil, MD Debela, DM Muyanja, B Kakuhikire, C Baguma, DR Bangsberg, AC Tsai, PS Lai_
+
+
+Antibiotic use for livestock is presumed to be a contributor to the acquisition of antimicrobial resistance (AMR) genes in humans, yet studies do not capture AMR data before and after livestock introduction.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229699#abstract0)
+
+10.1371/journal.pone.0229699
 
 ---
 
@@ -70,15 +76,9 @@ For more than 30 years, the US National Science Foundation's Research Experience
 
 ---
 
-## Geometry and evolution of the ecological niche in plant-associated microbes.
- 17.06.2020, _TM Chaloner, SJ Gurr, DP Bebber_
-
-
-The ecological niche can be thought of as a volume in multidimensional space, where each dimension describes an abiotic condition or biotic resource required by a species. The shape, size, and evolution of this volume strongly determine interactions among species and influence their current and potential geographical distributions, but the geometry of niches is poorly understood. Here, we analyse temperature response functions and host plant ranges for hundreds of potentially destructive plant-associated fungi and oomycetes. We demonstrate that niche specialization is uncorrelated on abiotic (i.e. temperature response) and biotic (i.e. host range) axes, that host interactions restrict fundamental niche breadth to form the realized niche, and that both abiotic and biotic niches show limited phylogenetic constraint. The ecological terms 'generalist' and 'specialist' therefore do not apply to these microbes, as specialization evolves independently on different niche axes. This adaptability makes plant pathogens a formidable threat to agriculture and forestry.
+## Geometry and evolution of the ecological niche in plant-associated microbes
 
 [Source](https://www.nature.com/articles/s41467-020-16778-5?)
-
-10.1038/s41467-020-16778-5
 
 ---
 
