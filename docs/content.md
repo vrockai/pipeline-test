@@ -76,9 +76,15 @@
 
 ---
 
-## A metabolic pathway for bile acid dehydroxylation by the gut microbiome
+## A metabolic pathway for bile acid dehydroxylation by the gut microbiome.
+ 19.06.2020, _M Funabashi, TL Grove, M Wang, Y Varma, ME McFadden, LC Brown, C Guo, S Higginbottom, SC Almo, MA Fischbach_
+
+
+The gut microbiota synthesize hundreds of molecules, many of which influence host physiology. Among the most abundant metabolites are the secondary bile acids deoxycholic acid (DCA) and lithocholic acid (LCA), which accumulate at concentrations of around 500 μM and are known to block the growth of Clostridium difficile1, promote hepatocellular carcinoma2 and modulate host metabolism via the G-protein-coupled receptor TGR5 (ref. 3). More broadly, DCA, LCA and their derivatives are major components of the recirculating pool of bile acids4; the size and composition of this pool are a target of therapies for primary biliary cholangitis and nonalcoholic steatohepatitis. Nonetheless, despite the clear impact of DCA and LCA on host physiology, an incomplete knowledge of their biosynthetic genes and a lack of genetic tools to enable modification of their native microbial producers limit our ability to modulate secondary bile acid levels in the host. Here we complete the pathway to DCA and LCA by assigning and characterizing enzymes for each of the steps in its reductive arm, revealing a strategy in which the A-B rings of the steroid core are transiently converted into an electron acceptor for two reductive steps carried out by Fe-S flavoenzymes. Using anaerobic in vitro reconstitution, we establish that a set of six enzymes is necessary and sufficient for the eight-step conversion of cholic acid to DCA. We then engineer the pathway into Clostridium sporogenes, conferring production of DCA and LCA on a nonproducing commensal and demonstrating that a microbiome-derived pathway can be expressed and controlled heterologously. These data establish a complete pathway to two central components of the bile acid pool.
 
 [Source](https://www.nature.com/articles/s41586-020-2396-4?WT.ec_id=NATURE-202006&sap-outbound-id=237A0A7493ECF15E44849A0F7847ECEC13BAA637)
+
+10.1038/s41586-020-2396-4
 
 ---
 
