@@ -5,7 +5,7 @@
 ---
 
 ## GlycA, a novel marker for low grade inflammation, reflects gut microbiome diversity and is more accurate than high sensitive CRP in reflecting metabolomic profile.
- 21.06.2020, _K Mokkala, N Houttu, E Koivuniemi, N Sørensen, HB Nielsen, K Laitinen_
+ 23.06.2020, _K Mokkala, N Houttu, E Koivuniemi, N Sørensen, HB Nielsen, K Laitinen_
 
 
 Gut microbiota is, along with adipose tissue, recognized as a source for many metabolic and inflammatory disturbances that may contribute to the individual's state of health.
@@ -41,7 +41,7 @@ If gut microbes influence host behavioral ecology in the short term, over evolut
 ---
 
 ## Host-microbiota interaction helps to explain the bottom-up effects of climate change on a small rodent species.
- 22.06.2020, _G Li, B Yin, J Li, J Wang, W Wei, DI Bolnick, X Wan, B Zhu, Z Zhang_
+ 23.06.2020, _G Li, B Yin, J Li, J Wang, W Wei, DI Bolnick, X Wan, B Zhu, Z Zhang_
 
 
 The population cycles of small rodents have puzzled biologists for centuries. There is a growing recognition of the cascading effects of climate change on the population dynamics of rodents. However, the ultimate cause for the bottom-up effects of precipitation is poorly understood, from a microbial perspective. Here, we conducted a precipitation manipulation experiment in the field, and three feeding trials with controlled diets in the laboratory. We found precipitation supplementation facilitated the recovery of a perennial rhizomatous grass (Leymus chinensis) species, which altered the diet composition and increase the intake of fructose and fructooligosaccharides for Brandt's vole. Lab results showed that this nutrient shift was accompanied by the modulation of gut microbiota composition and functional pathways (especially for the degradation or biosynthesis of L-histidine). Particularly, the relative abundance of Eubacterium hallii was consistently increased after feeding voles with more L. chinensis, fructose or fructooligosaccharide. These modulations ultimately increased the production of short chain fatty acids (SCFAs) and boosted the growth of vole. This study provides evidence that the precipitation pulses cascades through the plant community to affect rodent gut microbiome. Our results highlight the importance of considering host-microbiota interaction when investigating rodent population responses to climate change.
@@ -53,7 +53,7 @@ The population cycles of small rodents have puzzled biologists for centuries. Th
 ---
 
 ## Recovery of fen peatland microbiomes and predicted functional profiles after rewetting.
- 22.06.2020, _WJ Emsens, R van Diggelen, CJS Aggenbach, T Cajthaml, J Frouz, A Klimkowska, W Kotowski, L Kozub, Y Liczner, E Seeber, H Silvennoinen, F Tanneberger, J Vicena, M Wilk, E Verbruggen_
+ 23.06.2020, _WJ Emsens, R van Diggelen, CJS Aggenbach, T Cajthaml, J Frouz, A Klimkowska, W Kotowski, L Kozub, Y Liczner, E Seeber, H Silvennoinen, F Tanneberger, J Vicena, M Wilk, E Verbruggen_
 
 
 Many of the world's peatlands have been affected by water table drawdown and subsequent loss of organic matter. Rewetting has been proposed as a measure to restore peatland functioning and to halt carbon loss, but its effectiveness is subject to debate. An important prerequisite for peatland recovery is a return of typical microbial communities, which drive key processes. To evaluate the effect of rewetting, we investigated 13 fen peatland areas across a wide (&gt;1500 km) longitudinal gradient in Europe, in which we compared microbial communities between drained, undrained, and rewetted sites. There was a clear difference in microbial communities between drained and undrained fens, regardless of location. Community recovery upon rewetting was substantial in the majority of sites, and predictive functional profiling suggested a concomitant recovery of biogeochemical peatland functioning. However, communities in rewetted sites were only similar to those of undrained sites when soil organic matter quality (as expressed by cellulose fractions) and quantity were still sufficiently high. We estimate that a minimum organic matter content of ca. 70% is required to enable microbial recovery. We conclude that peatland recovery after rewetting is conditional on the level of drainage-induced degradation: severely altered physicochemical peat properties may preclude complete recovery for decades.
@@ -77,7 +77,7 @@ Methanogens are crucial to global methane budget and carbon cycling. Methanogens
 ---
 
 ## Chlorine disinfection promotes the exchange of antibiotic resistance genes across bacterial genera by natural transformation.
- 22.06.2020, _M Jin, L Liu, DN Wang, D Yang, WL Liu, J Yin, ZW Yang, HR Wang, ZG Qiu, ZQ Shen, DY Shi, HB Li, JH Guo, JW Li_
+ 23.06.2020, _M Jin, L Liu, DN Wang, D Yang, WL Liu, J Yin, ZW Yang, HR Wang, ZG Qiu, ZQ Shen, DY Shi, HB Li, JH Guo, JW Li_
 
 
 Chlorine disinfection to drinking water plays an important role in preventing and controlling waterborne disease outbreaks globally. Nevertheless, little is known about why it enriches the antibiotic resistance genes (ARGs) in bacteria after chlorination. Here, ARGs released from killed antibiotic-resistant bacteria (ARB), and culturable chlorine-injured bacteria produced in the chlorination process as the recipient, were investigated to determine their contribution to the horizontal transfer of ARGs during disinfection treatment. We discovered Escherichia coli, Salmonella aberdeen, Pseudomonas aeruginosa and Enterococcus faecalis showed diverse resistance to sodium hypochlorite, and transferable RP4 could be released from killed sensitive donor consistently. Meanwhile, the survival of chlorine-tolerant injured bacteria with enhanced cell membrane permeabilisation and a strong oxidative stress-response demonstrated that a physiologically competent cell could be transferred by RP4 with an improved transformation frequency of up to 550 times compared with the corresponding untreated bacteria. Furthermore, the water quality factors involving chemical oxygen demand (CODMn), ammonium nitrogen and metal ions (Ca2+ and K+) could significantly promote above transformation frequency of released RP4 into injured E. faecalis. Our findings demonstrated that the chlorination process promoted the horizontal transfer of plasmids by natural transformation, which resulted in the exchange of ARGs across bacterial genera and the emergence of new ARB, as well as the transfer of chlorine-injured opportunistic pathogen from non-ARB to ARB. Considering that the transfer elements were quite resistant to degradation through disinfection, this situation poses a potential risk to public health.
