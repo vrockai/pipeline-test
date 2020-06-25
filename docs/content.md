@@ -1,102 +1,174 @@
-## US nativity and dietary acculturation impact the gut microbiome in a diverse US population
+## Structural plasticity of SARS-CoV-2 3CL Mpro active site cavity revealed by room temperature X-ray crystallography
 
-[Source](https://www.nature.com/articles/s41396-020-0630-6)
-
----
-
-## GlycA, a novel marker for low grade inflammation, reflects gut microbiome diversity and is more accurate than high sensitive CRP in reflecting metabolomic profile.
- 24.06.2020, _K Mokkala, N Houttu, E Koivuniemi, N Sørensen, HB Nielsen, K Laitinen_
-
-
-Gut microbiota is, along with adipose tissue, recognized as a source for many metabolic and inflammatory disturbances that may contribute to the individual's state of health.
-
-[Source](https://link.springer.com/article/10.1007%2Fs11306-020-01695-x)
-
-10.1007/s11306-020-01695-x
+[Source](https://www.nature.com/articles/s41467-020-16954-7?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200624&WT.ec_id=NCOMMS-20200624&sap-outbound-id=11CE0E9E2671BF4A98C2A80383220EDB2F0D1006)
 
 ---
 
-## Black tea benefits short-chain fatty acid producers but inhibits genus Lactobacillus in the gut of healthy Sprague-Dawley rats.
- 21.06.2020, _Y Gao, Y Xu, J Yin_
+## Maternal and infant factors that shape neonatal gut colonisation by bacteria.
+ 19.06.2020, _IJ O'Neill, R Sanchez Gallardo, R Saldova, EF Murphy, PD Cotter, FM McAuliffe, D van Sinderen_
 
 
-The gut microbiota plays important roles in physiological and pathological processes of the host. The effect of black tea on the gut microbiota of healthy individuals remains unclear.
+Early life is a critical developmental window coinciding with the establishment of a community of neonatal gut microbes which are vitally important for immune development. The composition of this microbial community is affected by multiple factors.
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/jsfa.10598)
+[Source](https://www.tandfonline.com/doi/abs/10.1080/17474124.2020.1784725)
 
-10.1002/jsfa.10598
-
----
-
-## A role for gut microbiota in host niche differentiation.
- 22.06.2020, _LK Greene, CV Williams, RE Junge, KL Mahefarisoa, T Rajaonarivelo, H Rakotondrainibe, TM O'Connell, CM Drea_
-
-
-If gut microbes influence host behavioral ecology in the short term, over evolutionary time, they could drive host niche differentiation. We explored this possibility by comparing the gut microbiota of Madagascar's folivorous lemurs from Indriidae and Lepilemuridae. Occurring sympatrically in the eastern rainforest, our four, target species have different dietary specializations, including frugo-folivory (sifakas), young-leaf folivory (indri and woolly lemurs), and mature-leaf folivory (sportive lemurs). We collected fecal samples, from 2013 to 2017, and used amplicon sequencing, metagenomic sequencing, and nuclear magnetic resonance spectroscopy, respectively, to integrate analyses of gut microbiome structure and function with analysis of the colonic metabolome. The lemurs harbored species-specific microbiomes, metagenomes, and metabolomes that were tuned to their dietary specializations: Frugo-folivores had greater microbial and metagenomic diversity, and harbored generalist taxa. Mature-leaf folivores had greater individual microbiome variation, and taxa and metabolites putatively involved in cellulolysis. The consortia even differed between related, young-leaf specialists, with indri prioritizing metabolism of fiber and plant secondary compounds, and woolly lemurs prioritizing amino-acid cycling. Specialized gut microbiota and associated gastrointestinal morphologies enable folivores to variably tolerate resource fluctuation and support nutrient extraction from challenging resources (e.g., by metabolizing plant secondary compounds or recalcitrant fibers), perhaps ultimately facilitating host species' diversity and specialized feeding ecologies.
-
-[Source](https://www.nature.com/articles/s41396-020-0640-4)
-
-10.1038/s41396-020-0640-4
+10.1080/17474124.2020.1784725
 
 ---
 
-## Host-microbiota interaction helps to explain the bottom-up effects of climate change on a small rodent species.
- 23.06.2020, _G Li, B Yin, J Li, J Wang, W Wei, DI Bolnick, X Wan, B Zhu, Z Zhang_
+## Perinatal risk factors for fecal antibiotic resistance gene patterns in pregnant women and their infants.
+ 22.06.2020, _A Sosa-Moreno, SS Comstock, KY Sugino, TF Ma, N Paneth, Y Davis, R Olivero, R Schein, J Maurer, L Zhang_
 
 
-The population cycles of small rodents have puzzled biologists for centuries. There is a growing recognition of the cascading effects of climate change on the population dynamics of rodents. However, the ultimate cause for the bottom-up effects of precipitation is poorly understood, from a microbial perspective. Here, we conducted a precipitation manipulation experiment in the field, and three feeding trials with controlled diets in the laboratory. We found precipitation supplementation facilitated the recovery of a perennial rhizomatous grass (Leymus chinensis) species, which altered the diet composition and increase the intake of fructose and fructooligosaccharides for Brandt's vole. Lab results showed that this nutrient shift was accompanied by the modulation of gut microbiota composition and functional pathways (especially for the degradation or biosynthesis of L-histidine). Particularly, the relative abundance of Eubacterium hallii was consistently increased after feeding voles with more L. chinensis, fructose or fructooligosaccharide. These modulations ultimately increased the production of short chain fatty acids (SCFAs) and boosted the growth of vole. This study provides evidence that the precipitation pulses cascades through the plant community to affect rodent gut microbiome. Our results highlight the importance of considering host-microbiota interaction when investigating rodent population responses to climate change.
+Perinatal factors can shape fecal microbiome patterns among pregnant women and their infants. However, there is scarce information about the effect of maternal demographics and perinatal exposures on antibiotic resistance genes (ARG) and mobile genetic element (MGE) patterns in pregnant women and infants. We examined fecal samples from pregnant women during their third trimester of pregnancy (n = 51) and 6-month-old infants (n = 40). Of the 91 participants, 72 represented 36 maternal-infant dyads, 15 were additional pregnant women, and 4 were additional infants. We assessed the effects of demographics, pre-pregnancy BMI, smoking and parity in the pregnancy resistome and the effects of demographics, delivery mode, feeding habits and prenatal antibiotic treatment on the infancy resistome. ARG and MGE richness and abundance were assessed using a SmartChip qPCR-array. Alpha diversity (Shannon and Inverse Simpson index) and beta diversity (Sorensen and Bray-Curtis index) were calculated. The Wilcoxon and the Kruskal non-parametric test were used for comparisons. There is a high variability in shared resistome patterns between pregnant women and their infants. An average of 29% of ARG and 24% of MGE were shared within dyads. Infants had significantly greater abundance and higher diversity of ARG and MGE compared to pregnant women. Pregnancy and infancy samples differed in ARG and MGE gene composition and structure. Composition of the fecal resistome was significantly associated with race in pregnant women, with non-white women having different patterns than white women, and, in infants, with extent of solid food consumption. Our data showed that the pregnancy and infancy resistome had different structure and composition patterns, with maternal race and infant solid food consumption as possible contributors to ARG. By characterizing resistome patterns, our results can inform the mechanism of antibiotic resistome development in pregnant women and their infants.
 
-[Source](https://www.nature.com/articles/s41396-020-0646-y)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234751)
 
-10.1038/s41396-020-0646-y
-
----
-
-## Recovery of fen peatland microbiomes and predicted functional profiles after rewetting.
- 23.06.2020, _WJ Emsens, R van Diggelen, CJS Aggenbach, T Cajthaml, J Frouz, A Klimkowska, W Kotowski, L Kozub, Y Liczner, E Seeber, H Silvennoinen, F Tanneberger, J Vicena, M Wilk, E Verbruggen_
-
-
-Many of the world's peatlands have been affected by water table drawdown and subsequent loss of organic matter. Rewetting has been proposed as a measure to restore peatland functioning and to halt carbon loss, but its effectiveness is subject to debate. An important prerequisite for peatland recovery is a return of typical microbial communities, which drive key processes. To evaluate the effect of rewetting, we investigated 13 fen peatland areas across a wide (&gt;1500 km) longitudinal gradient in Europe, in which we compared microbial communities between drained, undrained, and rewetted sites. There was a clear difference in microbial communities between drained and undrained fens, regardless of location. Community recovery upon rewetting was substantial in the majority of sites, and predictive functional profiling suggested a concomitant recovery of biogeochemical peatland functioning. However, communities in rewetted sites were only similar to those of undrained sites when soil organic matter quality (as expressed by cellulose fractions) and quantity were still sufficiently high. We estimate that a minimum organic matter content of ca. 70% is required to enable microbial recovery. We conclude that peatland recovery after rewetting is conditional on the level of drainage-induced degradation: severely altered physicochemical peat properties may preclude complete recovery for decades.
-
-[Source](https://www.nature.com/articles/s41396-020-0639-x)
-
-10.1038/s41396-020-0639-x
+10.1371/journal.pone.0234751
 
 ---
 
-## Genomic and transcriptomic insights into methanogenesis potential of novel methanogens from mangrove sediments.
- 22.06.2020, _CJ Zhang, J Pan, Y Liu, CH Duan, M Li_
+## Microbial and metabolomic profiles in correlation with depression and anxiety co-morbidities in diarrhoea-predominant IBS patients.
+ 22.06.2020, _T Liu, X Gu, LX Li, M Li, B Li, X Cui, XL Zuo_
 
 
-Methanogens are crucial to global methane budget and carbon cycling. Methanogens from the phylum Euryarchaeota are currently classified into one class and seven orders, including two novel methanogen taxa, Methanofastidiosa and Methanomassiliicoccales. The relative importance of the novel methanogens to methane production in the natural environment is poorly understood.
+Psychological co-morbidities in irritable bowel syndrome (IBS) have been widely recognized, whereas less is known regarding the role of gut microbial and host metabolic changes in clinical and psychological symptoms in IBS.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00876-z)
+[Source](https://link.springer.com/article/10.1186/s12866-020-01841-4)
 
-10.1186/s40168-020-00876-z
-
----
-
-## Chlorine disinfection promotes the exchange of antibiotic resistance genes across bacterial genera by natural transformation.
- 23.06.2020, _M Jin, L Liu, DN Wang, D Yang, WL Liu, J Yin, ZW Yang, HR Wang, ZG Qiu, ZQ Shen, DY Shi, HB Li, JH Guo, JW Li_
-
-
-Chlorine disinfection to drinking water plays an important role in preventing and controlling waterborne disease outbreaks globally. Nevertheless, little is known about why it enriches the antibiotic resistance genes (ARGs) in bacteria after chlorination. Here, ARGs released from killed antibiotic-resistant bacteria (ARB), and culturable chlorine-injured bacteria produced in the chlorination process as the recipient, were investigated to determine their contribution to the horizontal transfer of ARGs during disinfection treatment. We discovered Escherichia coli, Salmonella aberdeen, Pseudomonas aeruginosa and Enterococcus faecalis showed diverse resistance to sodium hypochlorite, and transferable RP4 could be released from killed sensitive donor consistently. Meanwhile, the survival of chlorine-tolerant injured bacteria with enhanced cell membrane permeabilisation and a strong oxidative stress-response demonstrated that a physiologically competent cell could be transferred by RP4 with an improved transformation frequency of up to 550 times compared with the corresponding untreated bacteria. Furthermore, the water quality factors involving chemical oxygen demand (CODMn), ammonium nitrogen and metal ions (Ca2+ and K+) could significantly promote above transformation frequency of released RP4 into injured E. faecalis. Our findings demonstrated that the chlorination process promoted the horizontal transfer of plasmids by natural transformation, which resulted in the exchange of ARGs across bacterial genera and the emergence of new ARB, as well as the transfer of chlorine-injured opportunistic pathogen from non-ARB to ARB. Considering that the transfer elements were quite resistant to degradation through disinfection, this situation poses a potential risk to public health.
-
-[Source](https://www.nature.com/articles/s41396-020-0656-9)
-
-10.1038/s41396-020-0656-9
+10.1186/s12866-020-01841-4
 
 ---
 
-## Narnaviruses: novel players in fungal-bacterial symbioses.
- 22.06.2020, _AN Espino-Vázquez, JR Bermúdez-Barrientos, JF Cabrera-Rangel, G Córdova-López, F Cardoso-Martínez, A Martínez-Vázquez, DA Camarena-Pozos, SJ Mondo, TE Pawlowska, C Abreu-Goodger, LP Partida-Martínez_
+## Revealing links between gut microbiome and its fungal community in Type 2 Diabetes Mellitus among Emirati subjects: A pilot study.
+ 19.06.2020, _MT Al Bataineh, NR Dash, PB Lassen, BH Banimfreg, AM Nada, E Belda, K Clément_
 
 
-Rhizopus microsporus is an early-diverging fungal species with importance in ecology, agriculture, food production, and public health. Pathogenic strains of R. microsporus harbor an intracellular bacterial symbiont, Mycetohabitans (formerly named Burkholderia). This vertically transmitted bacterial symbiont is responsible for the production of toxins crucial to the pathogenicity of Rhizopus and remarkably also for fungal reproduction. Here we show that R. microsporus can live not only in symbiosis with bacteria but also with two viral members of the genus Narnavirus. Our experiments revealed that both viruses replicated similarly in the growth conditions we tested. Viral copies were affected by the developmental stage of the fungus, the substrate, and the presence or absence of Mycetohabitans. Absolute quantification of narnaviruses in isolated asexual sporangiospores and sexual zygospores indicates their vertical transmission. By curing R. microsporus of its viral and bacterial symbionts and reinfecting bacteria to reestablish symbiosis, we demonstrate that these viruses affect fungal biology. Narnaviruses decrease asexual reproduction, but together with Mycetohabitans, are required for sexual reproductive success. This fungal-bacterial-viral system represents an outstanding model to investigate three-way microbial symbioses and their evolution.
+Type 2 diabetes mellitus (T2DM) drastically affects the population of Middle East countries with an ever-increasing number of overweight and obese individuals. The precise links between T2DM and gut microbiome composition remain elusive in these populations. Here, we performed 16 S rRNA and ITS2- gene based microbial profiling of 50 stool samples from Emirati adults with or without T2DM. The four major enterotypes initially described in westernized cohorts were retrieved in this Emirati population. T2DM and non-T2DM healthy controls had different microbiome compositions, with an enrichment in Prevotella enterotype in non-T2DM controls whereas T2DM individuals had a higher proportion of the dysbiotic Bacteroides 2 enterotype. No significant differences in microbial diversity were observed in T2DM individuals after controlling for cofounding factors, contrasting with reports from westernized cohorts. Interestingly, fungal diversity was significantly decreased in Bacteroides 2 enterotype. Functional profiling from 16 S rRNA gene data showed marked differences between T2DM and non-T2DM controls, with an enrichment in amino acid degradation and LPS-related modules in T2DM individuals, whereas non-T2DM controls had increased abundance of carbohydrate degradation modules in concordance with enterotype composition. These differences provide an insight into gut microbiome composition in Emirati population and its potential role in the development of diabetes mellitus.
 
-[Source](https://www.nature.com/articles/s41396-020-0638-y)
+[Source](https://search.proquest.com/openview/2b4aea96f7565afe0abdd596ba4de726/1?pq-origsite=gscholar&cbl=2041939)
 
-10.1038/s41396-020-0638-y
+10.1038/s41598-020-66598-2
+
+---
+
+## Effects of Drinking Water Temperature and Flow Rate during Cold Season on Growth Performance, Nutrient Digestibility and Cecum Microflora of Weaned Piglets.
+ 23.06.2020, _Z Zhang, Z Li, H Zhao, X Chen, G Tian, G Liu, J Cai, G Jia_
+
+
+Although water is one of the most important nutrients and is essential for various physiological processes within the body, it does not receive adequate consideration when ensuring optimal nutrition and growth performance in piglets. This study was conducted to investigate the effects of drinking water temperature (DWT) and flow rate (DWF) on growth performance, nutrient digestibility and cecum microflora in weaned piglets during cold weather. Sixty-four piglets with an average body weight of 8.60 ± 0.5 kg were allotted into four groups with four replicates in each group and four pigs in each replicate. The DWT and DWF were set for each group as follows: (1) 13 °C + 300 mL/min, (2) 13 °C + 700 mL/min, (3) 30 °C + 300 mL/min and (4) 30 °C + 700 mL/min, respectively. All groups were fed the same diet during the 28 d trial. The body weight at day 0 and day 29, as well as daily feed intake, were recorded. Diarrhea severity was assessed every day. Fresh fecal samples were collected for four consecutive days at the end of the experiment for the digestibility test. Cecum content was collected after sacrifice for microbial composition analysis. The results indicated that: (1) DWT at 30 °C promoted the average daily gain (ADG) of weaned piglets considerably (p = 0.043) and decreased feed to weight ratio when compared with DWT at 13 °C (p = 0.045). DWF had no substantial effect on the growth performance of piglets (p &gt; 0.05). (2) The 30 °C DWT groups had higher apparent digestibility of crude protein, crude fat and energy than the 13 °C DWT groups (p &lt; 0.05), while DWF had no significant effect on the apparent digestibility of nutrients (p &gt; 0.05). (3) DWT at 30 °C increased the Bacteroidetes abundance and decreased the Proteobacteria abundance in cecum digesta. The change in these two factors may be related to a decrease in diarrhea and the improvement of growth performance. Different DWF had no substantial effect on the cecum microbial structure. To sum up, providing a DWT of 30 °C to weaned piglets in cold weather reduced the abundance of harmful bacteria in the cecum and improved the apparent nutrient digestibility, which is beneficial for maintaining a healthy intestinal microenvironment and promoting growth performance. A lower DWF of 300 mL/min had no adverse effect on growth performance. Therefore, a combination of 30 °C + 300 mL/min is recommended for weaned piglets during cold weather for the consideration of animal welfare and production efficiency.
+
+[Source](https://www.mdpi.com/2076-2615/10/6/1048/pdf)
+
+10.3390/ani10061048
+
+---
+
+## on Growth Performance, Nutrient Digestibility and Cecum Microflora of Weaned Piglets
+
+[Source](https://www.mdpi.com/2076-2615/10/6/1048/pdf)
+
+---
+
+## Effects of supplementary feeding on the rumen morphology and bacterial diversity in lambs
+
+[Source](https://peerj.com/articles/9353/)
+
+---
+
+## Evaluating the association between feed efficiency and the fecal microbiota of early-life Duroc pigs using 16S rRNA sequencing.
+ 23.06.2020, _J Si, L Feng, J Gao, Y Huang, G Zhang, J Mo, S Zhu, W Qi, J Liang, G Lan_
+
+
+Improving the predication efficiency of porcine production performance at early stage will contribute to reducing the breeding and production costs. The intestinal microbiota had received plenty of attention in recent years due to their influence on host health and performance. The purpose of this study was to investigate the relationship between the fecal microbiota at early growth period and porcine feed efficiency (FE) under a commercial feeding environment. Ninety-one pigs were reordered according to the residual feed intake (RFI) values between day 90 on test and day 160 off test, 9 lowest RFI pigs and 9 highest RFI pigs were selected as the LRFI group and the HRFI group, respectively. Fecal samples from pigs in the early grower phase (day 80) were performed for microbial diversity, composition, and predicted functionality by using 16S rRNA sequencing. The results showed that no significant differences in microbial alpha diversity were observed between two RFI groups, whereas, some RFI-associated compositional differences were revealed. In particular, the microbiota of the LRFI group (more feed-efficient) had significantly higher levels of some members of Clostridiales and Bacteroidales (e.g., g_1_68 and g_norank_f_p_2534_18B5), which may promoted FE through protecting gut barrier function, compared with those of the HRFI pigs. Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways analysis found that the LRFI pigs were likely have microbiota with higher levels of amino acid metabolism. Moreover, redundancy analysis (RDA) showed that litter size, parity, and date of birth had significant effects on the bacterial community structure. These results improved our knowledge of the porcine early-life fecal microbiota and its potential link underlying RFI, which would be useful for future development of microbial biomarkers for predicting and improving porcine FE as well as investigation of targets for dietary strategies.
+
+[Source](https://amb-express.springeropen.com/articles/10.1186/s13568-020-01050-2)
+
+10.1186/s13568-020-01050-2
+
+---
+
+## Establishment and Stability of the Murine Oral Microbiome.
+ 04.06.2020, _L Abusleme, H O'Gorman, N Dutzan, T Greenwell-Wild, NM Moutsopoulos_
+
+
+Commensal microbiomes exert critical functions at barrier sites. In particular, establishment of the commensal microbiome after birth dictates immune functionality and tissue homeostasis at mucosal surfaces. To investigate the establishment and stability of the oral mucosal microbiome in mice, we evaluated oral microbiome communities shortly after birth, through adulthood, and up to 1 y of life in a controlled manner, using sequential oral samples from the same mice over time. We further evaluated transmissibility of oral microbiomes from parents and during cohousing experiments and evaluated susceptibility to oral inflammatory disease in mice harboring distinct microbiomes. Our work reveals basic principles in the establishment and stability of a health-associated oral microbiome after birth and provides insights that may be important for host-microbiome experimentation in animal models.
+
+[Source](http://repositorio.uchile.cl/handle/2250/175490)
+
+10.1177/0022034520915485
+
+---
+
+## Effects of chronic treatment with new strains of Lactobacillus plantarum on cognitive, anxiety- and depressive-like behaviors in male mice
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234037)
+
+---
+
+## Reproductive hormones mediate changes in the gut microbiome during pregnancy and lactation in Phayre’s leaf monkeys
+
+[Source](https://www.nature.com/articles/s41598-020-66865-2)
+
+---
+
+## Microbial community types and signature-like soil bacterial patterns from fortified prehistoric hills of Thuringia (Germany)
+
+[Source](https://link.springer.com/article/10.1007/s42974-020-00017-4)
+
+---
+
+## Meta-analysis of the impacts of global change factors on soil microbial diversity and functionality
+
+[Source](https://www.nature.com/articles/s41467-020-16881-7)
+
+---
+
+## Prairie plants harbor distinct and beneficial root-endophytic bacterial communities
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234537)
+
+---
+
+## Surviving marginalized reefs: assessing the implications of the microbiome on coral physiology and survivorship
+
+[Source](https://link.springer.com/article/10.1007/s00338-020-01951-5)
+
+---
+
+## Microbial Communities Associated with Farmed Genypterus chilensis: Detection in Water Prior to Bacterial Outbreaks Using Culturing and High-Throughput Sequencing
+
+[Source](https://www.mdpi.com/2076-2615/10/6/1055)
+
+---
+
+## Energy-Efficient Single-Stage Nitrite Shunt Denitrification with Saline Sewage through Concise Dissolved Oxygen (DO) Supply: Process Performance and Microbial Communities
+
+[Source](https://www.mdpi.com/2076-2607/8/6/919)
+
+---
+
+## Dynamics of Microbial Communities, Texture and Flavor in Suan zuo yu during Fermentation
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0308814620312267)
+
+---
+
+## Bifidobacterium bifidum Suppresses Gut Inflammation Caused by Repeated Antibiotic Disturbance Without Recovering Gut Microbiome Diversity in Mice
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01349/full)
+
+---
+
+## Bacillus subtilis PB6 based probiotic supplementation plays a role in the recovery after the necrotic enteritis challenge
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232781)
+
+---
+
+## BiomMiner: An advanced exploratory microbiome analysis and visualization pipeline
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234860)
 
 ---
 
