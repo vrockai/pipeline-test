@@ -5,7 +5,7 @@
 ---
 
 ## GlycA, a novel marker for low grade inflammation, reflects gut microbiome diversity and is more accurate than high sensitive CRP in reflecting metabolomic profile.
- 23.06.2020, _K Mokkala, N Houttu, E Koivuniemi, N Sørensen, HB Nielsen, K Laitinen_
+ 24.06.2020, _K Mokkala, N Houttu, E Koivuniemi, N Sørensen, HB Nielsen, K Laitinen_
 
 
 Gut microbiota is, along with adipose tissue, recognized as a source for many metabolic and inflammatory disturbances that may contribute to the individual's state of health.
