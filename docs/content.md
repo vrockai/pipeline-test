@@ -23,7 +23,7 @@ _Animals, Autophagy, Biological Assay, Computer Simulation, Humans_
 ---
 
 ## Microbial transmission in animal social networks and the social microbiome.
- 23.06.2020, _A Sarkar, S Harty, KV Johnson, AH Moeller, EA Archie, LD Schell, RN Carmody, TH Clutton-Brock, RIM Dunbar, PWJ Burnet_
+ 27.06.2020, _A Sarkar, S Harty, KV Johnson, AH Moeller, EA Archie, LD Schell, RN Carmody, TH Clutton-Brock, RIM Dunbar, PWJ Burnet_
 
 
 Host-associated microbiomes play an increasingly appreciated role in animal metabolism, immunity and health. The microbes in turn depend on their host for resources and can be transmitted across the host's social network. In this Perspective, we describe how animal social interactions and networks may provide channels for microbial transmission. We propose the 'social microbiome' as the microbial metacommunity of an animal social group. We then consider the various social and environmental forces that are likely to influence the social microbiome at multiple scales, including at the individual level, within social groups, between groups, within populations and species, and finally between species. Through our comprehensive discussion of the ways in which sociobiological and ecological factors may affect microbial transmission, we outline new research directions for the field.
@@ -53,7 +53,7 @@ Type 2 diabetes (T2D) is associated with reduced gut microbiome diversity, altho
 ---
 
 ## New Insights into the Immune System Using Dirty Mice.
- 26.06.2020, _SE Hamilton, VP Badovinac, LK Beura, M Pierson, SC Jameson, D Masopust, TS Griffith_
+ 27.06.2020, _SE Hamilton, VP Badovinac, LK Beura, M Pierson, SC Jameson, D Masopust, TS Griffith_
 
 
 The mouse (Mus musculus) is the dominant organism used to investigate the mechanisms behind complex immunological responses because of their genetic similarity to humans and our ability to manipulate those genetics to understand downstream function. Indeed, our knowledge of immune system development, response to infection, and ways to therapeutically manipulate the immune response to combat disease were, in large part, delineated in the mouse. Despite the power of mouse-based immunology research, the translational efficacy of many new therapies from mouse to human is far from ideal. Recent data have highlighted how the naive, neonate-like immune system of specific pathogen-free mice differs dramatically in composition and function to mice living under barrier-free conditions (i.e., "dirty" mice). In this review, we discuss major findings to date and challenges faced when using dirty mice and specific areas of immunology research that may benefit from using animals with robust and varied microbial exposure.
