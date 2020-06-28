@@ -1,150 +1,150 @@
-## Check the day’s official website
+## <span class="has-inline-color has-vivid-green-cyan-color">Intestinal Flora as a Potential Strategy to Fight SARS-CoV-2 Infection</span>
 
-[Source](https://worldmicrobiomeday.com/)
-
----
-
-## Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition).
- 07.06.2020, _DJ Klionsky, K Abdelmohsen, A Abe, MJ Abedin, H Abeliovich, A Acevedo Arozena, H Adachi, CM Adams, PD Adams, K Adeli, PJ Adhihetty, SG Adler, G Agam, R Agarwal, MK Aghi, M Agnello, P Agostinis, PV Aguilar, J Aguirre-Ghiso, EM Airoldi, S Ait-Si-Ali, T Akematsu, ET Akporiaye, M Al-Rubeai, GM Albaiceta, C Albanese, D Albani, ML Albert, J Aldudo, H Algül, M Alirezaei, I Alloza, A Almasan, M Almonte-Beceril, ES Alnemri, C Alonso, N Altan-Bonnet, DC Altieri, S Alvarez, L Alvarez-Erviti, S Alves, G Amadoro, A Amano, C Amantini, S Ambrosio, I Amelio, AO Amer, M Amessou, A Amon, Z An, FA Anania, SU Andersen, UP Andley, CK Andreadi, N Andrieu-Abadie, A Anel, DK Ann, S Anoopkumar-Dukie, M Antonioli, H Aoki, N Apostolova, S Aquila, K Aquilano, K Araki, E Arama, A Aranda, J Araya, A Arcaro, E Arias, H Arimoto, AR Ariosa, JL Armstrong, T Arnould, I Arsov, K Asanuma, V Askanas, E Asselin, R Atarashi, SS Atherton, JD Atkin, LD Attardi, P Auberger, G Auburger, L Aurelian, R Autelli, L Avagliano, ML Avantaggiati, L Avrahami, S Awale, N Azad, T Bachetti, JM Backer, DH Bae, JS Bae, ON Bae, SH Bae, EH Baehrecke, SH Baek, S Baghdiguian, A Bagniewska-Zadworna, H Bai, J Bai, XY Bai, Y Bailly, KN Balaji, W Balduini, A Ballabio, R Balzan, R Banerjee, G Bánhegyi, H Bao, B Barbeau, MD Barrachina, E Barreiro, B Bartel, A Bartolomé, DC Bassham, MT Bassi, RC Bast, A Basu, MT Batista, H Batoko, M Battino, K Bauckman, BL Baumgarner, KU Bayer, R Beale, JF Beaulieu, GR Beck, C Becker, JD Beckham, PA Bédard, PJ Bednarski, TJ Begley, C Behl, C Behrends, GM Behrens, KE Behrns, E Bejarano, A Belaid, F Belleudi, G Bénard, G Berchem, D Bergamaschi, M Bergami, B Berkhout, L Berliocchi, A Bernard, M Bernard, F Bernassola, A Bertolotti, AS Bess, S Besteiro, S Bettuzzi, S Bhalla, S Bhattacharyya, SK Bhutia, C Biagosch, MW Bianchi, M Biard-Piechaczyk, V Billes, C Bincoletto, B Bingol, SW Bird, M Bitoun, I Bjedov, C Blackstone, L Blanc, GA Blanco, HK Blomhoff, E Boada-Romero, S Böckler, M Boes, K Boesze-Battaglia, LH Boise, A Bolino, A Boman, P Bonaldo, M Bordi, J Bosch, LM Botana, J Botti, G Bou, M Bouché, M Bouchecareilh, MJ Boucher, ME Boulton, SG Bouret, P Boya, M Boyer-Guittaut, PV Bozhkov, N Brady, VM Braga, C Brancolini, GH Braus, JM Bravo-San Pedro, LA Brennan, EH Bresnick, P Brest, D Bridges, MA Bringer, M Brini, GC Brito, B Brodin, PS Brookes, EJ Brown, K Brown, HE Broxmeyer, A Bruhat, PC Brum, JH Brumell, N Brunetti-Pierri, RJ Bryson-Richardson, S Buch, AM Buchan, H Budak, DV Bulavin, SJ Bultman, G Bultynck, V Bumbasirevic, Y Burelle, RE Burke, M Burmeister, P Bütikofer, L Caberlotto, K Cadwell, M Cahova, D Cai, J Cai, Q Cai, S Calatayud, N Camougrand, M Campanella, GR Campbell, M Campbell, S Campello, R Candau, I Caniggia, L Cantoni, L Cao, AB Caplan, M Caraglia, C Cardinali, SM Cardoso, JS Carew, LA Carleton, CR Carlin, S Carloni, SR Carlsson, D Carmona-Gutierrez, LA Carneiro, O Carnevali, S Carra, A Carrier, B Carroll, C Casas, J Casas, G Cassinelli, P Castets, S Castro-Obregon, G Cavallini, I Ceccherini, F Cecconi, AI Cederbaum, V Ceña, S Cenci, C Cerella, D Cervia, S Cetrullo, H Chaachouay, HJ Chae, AS Chagin, CY Chai, G Chakrabarti, G Chamilos, EY Chan, MT Chan, D Chandra, P Chandra, CP Chang, RC Chang, TY Chang, JC Chatham, S Chatterjee, S Chauhan, Y Che, ME Cheetham, R Cheluvappa, CJ Chen, G Chen, GC Chen, G Chen, H Chen, JW Chen, JK Chen, M Chen, M Chen, P Chen, Q Chen, Q Chen, SD Chen, S Chen, SS Chen, W Chen, WJ Chen, WQ Chen, W Chen, X Chen, YH Chen, YG Chen, Y Chen, Y Chen, Y Chen, YJ Chen, YQ Chen, Y Chen, Z Chen, Z Chen, A Cheng, CH Cheng, H Cheng, H Cheong, S Cherry, J Chesney, CH Cheung, E Chevet, HC Chi, SG Chi, F Chiacchiera, HL Chiang, R Chiarelli, M Chiariello, M Chieppa, LS Chin, M Chiong, GN Chiu, DH Cho, SG Cho, WC Cho, YY Cho, YS Cho, AM Choi, EJ Choi, EK Choi, J Choi, ME Choi, SI Choi, TF Chou, S Chouaib, D Choubey, V Choubey, KC Chow, K Chowdhury, CT Chu, TH Chuang, T Chun, H Chung, T Chung, YL Chung, YJ Chwae, V Cianfanelli, R Ciarcia, IA Ciechomska, MR Ciriolo, M Cirone, S Claerhout, MJ Clague, J Clària, PG Clarke, R Clarke, E Clementi, C Cleyrat, M Cnop, EM Coccia, T Cocco, P Codogno, J Coers, EE Cohen, D Colecchia, L Coletto, NS Coll, E Colucci-Guyon, S Comincini, M Condello, KL Cook, GH Coombs, CD Cooper, JM Cooper, I Coppens, MT Corasaniti, M Corazzari, R Corbalan, E Corcelle-Termeau, MD Cordero, C Corral-Ramos, O Corti, A Cossarizza, P Costelli, S Costes, SL Cotman, A Coto-Montes, S Cottet, E Couve, LR Covey, LA Cowart, JS Cox, FP Coxon, CB Coyne, MS Cragg, RJ Craven, T Crepaldi, JL Crespo, A Criollo, V Crippa, MT Cruz, AM Cuervo, JM Cuezva, T Cui, PR Cutillas, MJ Czaja, MF Czyzyk-Krzeska, RK Dagda, U Dahmen, C Dai, W Dai, Y Dai, KN Dalby, L Dalla Valle, G Dalmasso, M D'Amelio, M Damme, A Darfeuille-Michaud, C Dargemont, VM Darley-Usmar, S Dasarathy, B Dasgupta, S Dash, CR Dass, HM Davey, LM Davids, D Dávila, RJ Davis, TM Dawson, VL Dawson, P Daza, J de Belleroche, P de Figueiredo, RC de Figueiredo, J de la Fuente, L De Martino, A De Matteis, GR De Meyer, A De Milito, M De Santi, W de Souza, V De Tata, D De Zio, J Debnath, R Dechant, JP Decuypere, S Deegan, B Dehay, B Del Bello, DP Del Re, R Delage-Mourroux, LM Delbridge, L Deldicque, E Delorme-Axford, Y Deng, J Dengjel, M Denizot, P Dent, CJ Der, V Deretic, B Derrien, E Deutsch, TP Devarenne, RJ Devenish, S Di Bartolomeo, N Di Daniele, F Di Domenico, A Di Nardo, S Di Paola, A Di Pietro, L Di Renzo, A DiAntonio, G Díaz-Araya, I Díaz-Laviada, MT Diaz-Meco, J Diaz-Nido, CA Dickey, RC Dickson, M Diederich, P Digard, I Dikic, SP Dinesh-Kumar, C Ding, WX Ding, Z Ding, L Dini, JH Distler, A Diwan, M Djavaheri-Mergny, K Dmytruk, RC Dobson, V Doetsch, K Dokladny, S Dokudovskaya, M Donadelli, XC Dong, X Dong, Z Dong, TM Donohue, KS Doran, G D'Orazi, GW Dorn, V Dosenko, S Dridi, L Drucker, J Du, LL Du, L Du, A du Toit, P Dua, L Duan, P Duann, VK Dubey, MR Duchen, MA Duchosal, H Duez, I Dugail, VI Dumit, MC Duncan, EA Dunlop, WA Dunn, N Dupont, L Dupuis, RV Durán, TM Durcan, S Duvezin-Caubet, U Duvvuri, V Eapen, D Ebrahimi-Fakhari, A Echard, L Eckhart, CL Edelstein, AL Edinger, L Eichinger, T Eisenberg, A Eisenberg-Lerner, NT Eissa, WS El-Deiry, V El-Khoury, Z Elazar, H Eldar-Finkelman, CJ Elliott, E Emanuele, U Emmenegger, N Engedal, AM Engelbrecht, S Engelender, JM Enserink, R Erdmann, J Erenpreisa, R Eri, JL Eriksen, A Erman, R Escalante, EL Eskelinen, L Espert, L Esteban-Martínez, TJ Evans, M Fabri, G Fabrias, C Fabrizi, A Facchiano, NJ Færgeman, A Faggioni, WD Fairlie, C Fan, D Fan, J Fan, S Fang, M Fanto, A Fanzani, T Farkas, M Faure, FB Favier, H Fearnhead, M Federici, E Fei, TC Felizardo, H Feng, Y Feng, Y Feng, TA Ferguson, ÁF Fernández, MG Fernandez-Barrena, JC Fernandez-Checa, A Fernández-López, ME Fernandez-Zapico, O Feron, E Ferraro, CV Ferreira-Halder, L Fesus, R Feuer, FC Fiesel, EC Filippi-Chiela, G Filomeni, GM Fimia, JH Fingert, S Finkbeiner, T Finkel, F Fiorito, PB Fisher, M Flajolet, F Flamigni, O Florey, S Florio, RA Floto, M Folini, C Follo, EA Fon, F Fornai, F Fortunato, A Fraldi, R Franco, A Francois, A François, LB Frankel, ID Fraser, N Frey, DG Freyssenet, C Frezza, SL Friedman, DE Frigo, D Fu, JM Fuentes, J Fueyo, Y Fujitani, Y Fujiwara, M Fujiya, M Fukuda, S Fulda, C Fusco, B Gabryel, M Gaestel, P Gailly, M Gajewska, S Galadari, G Galili, I Galindo, MF Galindo, G Galliciotti, L Galluzzi, L Galluzzi, V Galy, N Gammoh, S Gandy, AK Ganesan, S Ganesan, IG Ganley, M Gannagé, FB Gao, F Gao, JX Gao, L García Nannig, E García Véscovi, M Garcia-Macía, C Garcia-Ruiz, AD Garg, PK Garg, R Gargini, NC Gassen, D Gatica, E Gatti, J Gavard, E Gavathiotis, L Ge, P Ge, S Ge, PW Gean, V Gelmetti, AA Genazzani, J Geng, P Genschik, L Gerner, JE Gestwicki, DA Gewirtz, S Ghavami, E Ghigo, D Ghosh, AM Giammarioli, F Giampieri, C Giampietri, A Giatromanolaki, DJ Gibbings, L Gibellini, SB Gibson, V Ginet, A Giordano, F Giorgini, E Giovannetti, SE Girardin, S Gispert, S Giuliano, CL Gladson, A Glavic, M Gleave, N Godefroy, RM Gogal, K Gokulan, GH Goldman, D Goletti, MS Goligorsky, AV Gomes, LC Gomes, H Gomez, C Gomez-Manzano, R Gómez-Sánchez, DA Gonçalves, E Goncu, Q Gong, C Gongora, CB Gonzalez, P Gonzalez-Alegre, P Gonzalez-Cabo, RA González-Polo, IS Goping, C Gorbea, NV Gorbunov, DR Goring, AM Gorman, SM Gorski, S Goruppi, S Goto-Yamada, C Gotor, RA Gottlieb, I Gozes, D Gozuacik, Y Graba, M Graef, GE Granato, GD Grant, S Grant, GL Gravina, DR Green, A Greenhough, MT Greenwood, B Grimaldi, F Gros, C Grose, JF Groulx, F Gruber, P Grumati, T Grune, JL Guan, KL Guan, B Guerra, C Guillen, K Gulshan, J Gunst, C Guo, L Guo, M Guo, W Guo, XG Guo, AA Gust, ÅB Gustafsson, E Gutierrez, MG Gutierrez, HS Gwak, A Haas, JE Haber, S Hadano, M Hagedorn, DR Hahn, AJ Halayko, A Hamacher-Brady, K Hamada, A Hamai, A Hamann, M Hamasaki, I Hamer, Q Hamid, EM Hammond, F Han, W Han, JT Handa, JA Hanover, M Hansen, M Harada, L Harhaji-Trajkovic, JW Harper, AH Harrath, AL Harris, J Harris, U Hasler, P Hasselblatt, K Hasui, RG Hawley, TS Hawley, C He, CY He, F He, G He, RR He, XH He, YW He, YY He, JK Heath, MJ Hébert, RA Heinzen, GV Helgason, M Hensel, EP Henske, C Her, PK Herman, A Hernández, C Hernandez, S Hernández-Tiedra, C Hetz, PR Hiesinger, K Higaki, S Hilfiker, BG Hill, JA Hill, WD Hill, K Hino, D Hofius, P Hofman, GU Höglinger, J Höhfeld, MK Holz, Y Hong, DA Hood, JJ Hoozemans, T Hoppe, C Hsu, CY Hsu, LC Hsu, D Hu, G Hu, HM Hu, H Hu, MC Hu, YC Hu, ZW Hu, F Hua, Y Hua, C Huang, HL Huang, KH Huang, KY Huang, S Huang, S Huang, WP Huang, YR Huang, Y Huang, Y Huang, TB Huber, P Huebbe, WK Huh, JJ Hulmi, GM Hur, JH Hurley, Z Husak, SN Hussain, S Hussain, JJ Hwang, S Hwang, TI Hwang, A Ichihara, Y Imai, C Imbriano, M Inomata, T Into, V Iovane, JL Iovanna, RV Iozzo, NY Ip, JE Irazoqui, P Iribarren, Y Isaka, AJ Isakovic, H Ischiropoulos, JS Isenberg, M Ishaq, H Ishida, I Ishii, JE Ishmael, C Isidoro, K Isobe, E Isono, S Issazadeh-Navikas, K Itahana, E Itakura, AI Ivanov, AK Iyer, JM Izquierdo, Y Izumi, V Izzo, M Jäättelä, N Jaber, DJ Jackson, WT Jackson, TG Jacob, TS Jacques, C Jagannath, A Jain, NR Jana, BK Jang, A Jani, B Janji, PR Jannig, PJ Jansson, S Jean, M Jendrach, JH Jeon, N Jessen, EB Jeung, K Jia, L Jia, H Jiang, H Jiang, L Jiang, T Jiang, X Jiang, X Jiang, X Jiang, Y Jiang, Y Jiang, A Jiménez, C Jin, H Jin, L Jin, M Jin, S Jin, UK Jinwal, EK Jo, T Johansen, DE Johnson, GV Johnson, JD Johnson, E Jonasch, C Jones, LA Joosten, J Jordan, AM Joseph, B Joseph, AM Joubert, D Ju, J Ju, HF Juan, K Juenemann, G Juhász, HS Jung, JU Jung, YK Jung, H Jungbluth, MJ Justice, B Jutten, NO Kaakoush, K Kaarniranta, A Kaasik, T Kabuta, B Kaeffer, K Kågedal, A Kahana, S Kajimura, O Kakhlon, M Kalia, DV Kalvakolanu, Y Kamada, K Kambas, VO Kaminskyy, HH Kampinga, M Kandouz, C Kang, R Kang, TC Kang, T Kanki, TD Kanneganti, H Kanno, AG Kanthasamy, M Kantorow, M Kaparakis-Liaskos, O Kapuy, V Karantza, MR Karim, P Karmakar, A Kaser, S Kaushik, T Kawula, AM Kaynar, PY Ke, ZJ Ke, JH Kehrl, KE Keller, JK Kemper, AK Kenworthy, O Kepp, A Kern, S Kesari, D Kessel, R Ketteler, Ido C Kettelhut, B Khambu, MM Khan, VK Khandelwal, S Khare, JG Kiang, AA Kiger, A Kihara, AL Kim, CH Kim, DR Kim, DH Kim, EK Kim, HY Kim, HR Kim, JS Kim, JH Kim, JC Kim, JH Kim, KW Kim, MD Kim, MM Kim, PK Kim, SW Kim, SY Kim, YS Kim, Y Kim, A Kimchi, AC Kimmelman, T Kimura, JS King, K Kirkegaard, V Kirkin, LA Kirshenbaum, S Kishi, Y Kitajima, K Kitamoto, Y Kitaoka, K Kitazato, RA Kley, WT Klimecki, M Klinkenberg, J Klucken, H Knævelsrud, E Knecht, L Knuppertz, JL Ko, S Kobayashi, JC Koch, C Koechlin-Ramonatxo, U Koenig, YH Koh, K Köhler, SD Kohlwein, M Koike, M Komatsu, E Kominami, D Kong, HJ Kong, EG Konstantakou, BT Kopp, T Korcsmaros, L Korhonen, VI Korolchuk, NV Koshkina, Y Kou, MI Koukourakis, C Koumenis, AL Kovács, T Kovács, WJ Kovacs, D Koya, C Kraft, D Krainc, H Kramer, T Kravic-Stevovic, W Krek, C Kretz-Remy, R Krick, M Krishnamurthy, J Kriston-Vizi, G Kroemer, MC Kruer, R Kruger, NT Ktistakis, K Kuchitsu, C Kuhn, AP Kumar, A Kumar, A Kumar, D Kumar, D Kumar, R Kumar, S Kumar, M Kundu, HJ Kung, A Kuno, SH Kuo, J Kuret, T Kurz, T Kwok, TK Kwon, YT Kwon, I Kyrmizi, AR La Spada, F Lafont, T Lahm, A Lakkaraju, T Lam, T Lamark, S Lancel, TH Landowski, DJ Lane, JD Lane, C Lanzi, P Lapaquette, LR Lapierre, J Laporte, J Laukkarinen, GW Laurie, S Lavandero, L Lavie, MJ LaVoie, BY Law, HK Law, KB Law, R Layfield, PA Lazo, L Le Cam, KG Le Roch, H Le Stunff, V Leardkamolkarn, M Lecuit, BH Lee, CH Lee, EF Lee, GM Lee, HJ Lee, H Lee, JK Lee, J Lee, JH Lee, JH Lee, M Lee, MS Lee, PJ Lee, SW Lee, SJ Lee, SJ Lee, SY Lee, SH Lee, SS Lee, SJ Lee, S Lee, YR Lee, YJ Lee, YH Lee, C Leeuwenburgh, S Lefort, R Legouis, J Lei, QY Lei, DA Leib, G Leibowitz, I Lekli, SD Lemaire, JJ Lemasters, MK Lemberg, A Lemoine, S Leng, G Lenz, P Lenzi, LO Lerman, D Lettieri Barbato, JI Leu, HY Leung, B Levine, PA Lewis, F Lezoualc'h, C Li, F Li, FJ Li, J Li, K Li, L Li, M Li, M Li, Q Li, R Li, S Li, W Li, W Li, X Li, Y Li, J Lian, C Liang, Q Liang, Y Liao, J Liberal, PP Liberski, P Lie, AP Lieberman, HJ Lim, KL Lim, K Lim, RT Lima, CS Lin, CF Lin, F Lin, F Lin, FC Lin, K Lin, KH Lin, PH Lin, T Lin, WW Lin, YS Lin, Y Lin, R Linden, D Lindholm, LM Lindqvist, P Lingor, A Linkermann, LA Liotta, MM Lipinski, VA Lira, MP Lisanti, PB Liton, B Liu, C Liu, CF Liu, F Liu, HJ Liu, J Liu, JJ Liu, JL Liu, K Liu, L Liu, L Liu, Q Liu, RY Liu, S Liu, S Liu, W Liu, XD Liu, X Liu, XH Liu, X Liu, X Liu, X Liu, Y Liu, Y Liu, Z Liu, Z Liu, JP Liuzzi, G Lizard, M Ljujic, IJ Lodhi, SE Logue, BL Lokeshwar, YC Long, S Lonial, B Loos, C López-Otín, C López-Vicario, M Lorente, PL Lorenzi, P Lõrincz, M Los, MT Lotze, PE Lovat, B Lu, B Lu, J Lu, Q Lu, SM Lu, S Lu, Y Lu, F Luciano, S Luckhart, JM Lucocq, P Ludovico, A Lugea, NW Lukacs, JJ Lum, AH Lund, H Luo, J Luo, S Luo, C Luparello, T Lyons, J Ma, Y Ma, Y Ma, Z Ma, J Machado, GM Machado-Santelli, F Macian, GC MacIntosh, JP MacKeigan, KF Macleod, JD MacMicking, LA MacMillan-Crow, F Madeo, M Madesh, J Madrigal-Matute, A Maeda, T Maeda, G Maegawa, E Maellaro, H Maes, M Magariños, K Maiese, TK Maiti, L Maiuri, MC Maiuri, CG Maki, R Malli, W Malorni, A Maloyan, F Mami-Chouaib, N Man, JD Mancias, EM Mandelkow, MA Mandell, AA Manfredi, SN Manié, C Manzoni, K Mao, Z Mao, ZW Mao, P Marambaud, AM Marconi, Z Marelja, G Marfe, M Margeta, E Margittai, M Mari, FV Mariani, C Marin, S Marinelli, G Mariño, I Markovic, R Marquez, AM Martelli, S Martens, KR Martin, SJ Martin, S Martin, MA Martin-Acebes, P Martín-Sanz, C Martinand-Mari, W Martinet, J Martinez, N Martinez-Lopez, U Martinez-Outschoorn, M Martínez-Velázquez, M Martinez-Vicente, WK Martins, H Mashima, JA Mastrianni, G Matarese, P Matarrese, R Mateo, S Matoba, N Matsumoto, T Matsushita, A Matsuura, T Matsuzawa, MP Mattson, S Matus, N Maugeri, C Mauvezin, A Mayer, D Maysinger, GD Mazzolini, MK McBrayer, K McCall, C McCormick, GM McInerney, SC McIver, S McKenna, JJ McMahon, IA McNeish, F Mechta-Grigoriou, JP Medema, DL Medina, K Megyeri, M Mehrpour, JL Mehta, Y Mei, UC Meier, AJ Meijer, A Meléndez, G Melino, S Melino, EJ de Melo, MA Mena, MD Meneghini, JA Menendez, R Menezes, L Meng, LH Meng, S Meng, R Menghini, AS Menko, RF Menna-Barreto, MB Menon, MA Meraz-Ríos, G Merla, L Merlini, AM Merlot, A Meryk, S Meschini, JN Meyer, MT Mi, CY Miao, L Micale, S Michaeli, C Michiels, AR Migliaccio, AS Mihailidou, D Mijaljica, K Mikoshiba, E Milan, L Miller-Fleming, GB Mills, IG Mills, G Minakaki, BA Minassian, XF Ming, F Minibayeva, EA Minina, JD Mintern, S Minucci, A Miranda-Vizuete, CH Mitchell, S Miyamoto, K Miyazawa, N Mizushima, K Mnich, B Mograbi, S Mohseni, LF Moita, M Molinari, M Molinari, AB Møller, B Mollereau, F Mollinedo, M Mongillo, MM Monick, S Montagnaro, C Montell, DJ Moore, MN Moore, R Mora-Rodriguez, PI Moreira, E Morel, MB Morelli, S Moreno, MJ Morgan, A Moris, Y Moriyasu, JL Morrison, LA Morrison, E Morselli, J Moscat, PL Moseley, S Mostowy, E Motori, D Mottet, JC Mottram, CE Moussa, VE Mpakou, H Mukhtar, JM Mulcahy Levy, S Muller, R Muñoz-Moreno, C Muñoz-Pinedo, C Münz, ME Murphy, JT Murray, A Murthy, IU Mysorekar, IR Nabi, M Nabissi, GA Nader, Y Nagahara, Y Nagai, K Nagata, A Nagelkerke, P Nagy, SR Naidu, S Nair, H Nakano, H Nakatogawa, M Nanjundan, G Napolitano, NI Naqvi, R Nardacci, DP Narendra, M Narita, AC Nascimbeni, R Natarajan, LC Navegantes, ST Nawrocki, TY Nazarko, VY Nazarko, T Neill, LM Neri, MG Netea, RT Netea-Maier, BM Neves, PA Ney, IP Nezis, HT Nguyen, HP Nguyen, AS Nicot, H Nilsen, P Nilsson, M Nishimura, I Nishino, M Niso-Santano, H Niu, RA Nixon, VC Njar, T Noda, AA Noegel, EM Nolte, E Norberg, KK Norga, SK Noureini, S Notomi, L Notterpek, K Nowikovsky, N Nukina, T Nürnberger, VB O'Donnell, T O'Donovan, PJ O'Dwyer, I Oehme, CL Oeste, M Ogawa, B Ogretmen, Y Ogura, YJ Oh, M Ohmuraya, T Ohshima, R Ojha, K Okamoto, T Okazaki, FJ Oliver, K Ollinger, S Olsson, DP Orban, P Ordonez, I Orhon, L Orosz, EJ O'Rourke, H Orozco, AL Ortega, E Ortona, LD Osellame, J Oshima, S Oshima, HD Osiewacz, T Otomo, K Otsu, JH Ou, TF Outeiro, DY Ouyang, H Ouyang, M Overholtzer, MA Ozbun, PH Ozdinler, B Ozpolat, C Pacelli, P Paganetti, G Page, G Pages, U Pagnini, B Pajak, SC Pak, K Pakos-Zebrucka, N Pakpour, Z Palková, F Palladino, K Pallauf, N Pallet, M Palmieri, SR Paludan, C Palumbo, S Palumbo, O Pampliega, H Pan, W Pan, T Panaretakis, A Pandey, A Pantazopoulou, Z Papackova, DL Papademetrio, I Papassideri, A Papini, N Parajuli, J Pardo, VV Parekh, G Parenti, JI Park, J Park, OK Park, R Parker, R Parlato, JB Parys, KR Parzych, JM Pasquet, B Pasquier, KB Pasumarthi, D Patschan, C Patterson, S Pattingre, S Pattison, A Pause, H Pavenstädt, F Pavone, Z Pedrozo, FJ Peña, MA Peñalva, M Pende, J Peng, F Penna, JM Penninger, A Pensalfini, S Pepe, GJ Pereira, PC Pereira, V Pérez-de la Cruz, ME Pérez-Pérez, D Pérez-Rodríguez, D Pérez-Sala, C Perier, A Perl, DH Perlmutter, I Perrotta, S Pervaiz, M Pesonen, JE Pessin, GJ Peters, M Petersen, I Petrache, BJ Petrof, G Petrovski, JM Phang, M Piacentini, M Pierdominici, P Pierre, V Pierrefite-Carle, F Pietrocola, FX Pimentel-Muiños, M Pinar, B Pineda, R Pinkas-Kramarski, M Pinti, P Pinton, B Piperdi, JM Piret, LC Platanias, HW Platta, ED Plowey, S Pöggeler, M Poirot, P Polčic, A Poletti, AH Poon, H Popelka, B Popova, I Poprawa, SM Poulose, J Poulton, SK Powers, T Powers, M Pozuelo-Rubio, K Prak, R Prange, M Prescott, M Priault, S Prince, RL Proia, T Proikas-Cezanne, H Prokisch, VJ Promponas, K Przyklenk, R Puertollano, S Pugazhenthi, L Puglielli, A Pujol, J Puyal, D Pyeon, X Qi, WB Qian, ZH Qin, Y Qiu, Z Qu, J Quadrilatero, F Quinn, N Raben, H Rabinowich, F Radogna, MJ Ragusa, M Rahmani, K Raina, S Ramanadham, R Ramesh, A Rami, S Randall-Demllo, F Randow, H Rao, VA Rao, BB Rasmussen, TM Rasse, EA Ratovitski, PE Rautou, SK Ray, B Razani, BH Reed, F Reggiori, M Rehm, AS Reichert, T Rein, DJ Reiner, E Reits, J Ren, X Ren, M Renna, JE Reusch, JL Revuelta, L Reyes, AR Rezaie, RI Richards, DR Richardson, C Richetta, MA Riehle, BH Rihn, Y Rikihisa, BE Riley, G Rimbach, MR Rippo, K Ritis, F Rizzi, E Rizzo, PJ Roach, J Robbins, M Roberge, G Roca, MC Roccheri, S Rocha, CM Rodrigues, CI Rodríguez, SR de Cordoba, N Rodriguez-Muela, J Roelofs, VV Rogov, TT Rohn, B Rohrer, D Romanelli, L Romani, PS Romano, MI Roncero, JL Rosa, A Rosello, KV Rosen, P Rosenstiel, M Rost-Roszkowska, KA Roth, G Roué, M Rouis, KM Rouschop, DT Ruan, D Ruano, DC Rubinsztein, EB Rucker, A Rudich, E Rudolf, R Rudolf, MA Ruegg, C Ruiz-Roldan, AA Ruparelia, P Rusmini, DW Russ, GL Russo, G Russo, R Russo, TE Rusten, V Ryabovol, KM Ryan, SW Ryter, DM Sabatini, M Sacher, C Sachse, MN Sack, J Sadoshima, P Saftig, R Sagi-Eisenberg, S Sahni, P Saikumar, T Saito, T Saitoh, K Sakakura, M Sakoh-Nakatogawa, Y Sakuraba, M Salazar-Roa, P Salomoni, AK Saluja, PM Salvaterra, R Salvioli, A Samali, AM Sanchez, JA Sánchez-Alcázar, R Sanchez-Prieto, M Sandri, MA Sanjuan, S Santaguida, L Santambrogio, G Santoni, CN Dos Santos, S Saran, M Sardiello, G Sargent, P Sarkar, S Sarkar, MR Sarrias, MM Sarwal, C Sasakawa, M Sasaki, M Sass, K Sato, M Sato, J Satriano, N Savaraj, S Saveljeva, L Schaefer, UE Schaible, M Scharl, HM Schatzl, R Schekman, W Scheper, A Schiavi, HM Schipper, H Schmeisser, J Schmidt, I Schmitz, BE Schneider, EM Schneider, JL Schneider, EA Schon, MJ Schönenberger, AH Schönthal, DF Schorderet, B Schröder, S Schuck, RJ Schulze, M Schwarten, TL Schwarz, S Sciarretta, K Scotto, AI Scovassi, RA Screaton, M Screen, H Seca, S Sedej, L Segatori, N Segev, PO Seglen, JM Seguí-Simarro, J Segura-Aguilar, E Seki, C Sell, I Seiliez, CF Semenkovich, GL Semenza, U Sen, AL Serra, A Serrano-Puebla, H Sesaki, T Setoguchi, C Settembre, JJ Shacka, AN Shajahan-Haq, IM Shapiro, S Sharma, H She, CK Shen, CC Shen, HM Shen, S Shen, W Shen, R Sheng, X Sheng, ZH Sheng, TG Shepherd, J Shi, Q Shi, Q Shi, Y Shi, S Shibutani, K Shibuya, Y Shidoji, JJ Shieh, CM Shih, Y Shimada, S Shimizu, DW Shin, ML Shinohara, M Shintani, T Shintani, T Shioi, K Shirabe, R Shiri-Sverdlov, O Shirihai, GC Shore, CW Shu, D Shukla, AA Sibirny, V Sica, CJ Sigurdson, EM Sigurdsson, PS Sijwali, B Sikorska, WA Silveira, S Silvente-Poirot, GA Silverman, J Simak, T Simmet, AK Simon, HU Simon, C Simone, M Simons, A Simonsen, R Singh, SV Singh, SK Singh, D Sinha, S Sinha, FA Sinicrope, A Sirko, K Sirohi, BJ Sishi, A Sittler, PM Siu, E Sivridis, A Skwarska, R Slack, I Slaninová, N Slavov, SS Smaili, KS Smalley, DR Smith, SJ Soenen, SA Soleimanpour, A Solhaug, K Somasundaram, JH Son, A Sonawane, C Song, F Song, HK Song, JX Song, W Song, KY Soo, AK Sood, TW Soong, V Soontornniyomkij, M Sorice, F Sotgia, DR Soto-Pantoja, A Sotthibundhu, MJ Sousa, HP Spaink, PN Span, A Spang, JD Sparks, PG Speck, SA Spector, CD Spies, W Springer, DS Clair, A Stacchiotti, B Staels, MT Stang, DT Starczynowski, P Starokadomskyy, C Steegborn, JW Steele, L Stefanis, J Steffan, CM Stellrecht, H Stenmark, TM Stepkowski, ST Stern, C Stevens, BR Stockwell, V Stoka, Z Storchova, B Stork, V Stratoulias, DJ Stravopodis, P Strnad, AM Strohecker, AL Ström, P Stromhaug, J Stulik, YX Su, Z Su, CS Subauste, S Subramaniam, CM Sue, SW Suh, X Sui, S Sukseree, D Sulzer, FL Sun, J Sun, J Sun, SY Sun, Y Sun, Y Sun, Y Sun, V Sundaramoorthy, J Sung, H Suzuki, K Suzuki, N Suzuki, T Suzuki, YJ Suzuki, MS Swanson, C Swanton, K Swärd, G Swarup, ST Sweeney, PW Sylvester, Z Szatmari, E Szegezdi, PW Szlosarek, H Taegtmeyer, M Tafani, E Taillebourg, SW Tait, K Takacs-Vellai, Y Takahashi, S Takáts, G Takemura, N Takigawa, NJ Talbot, E Tamagno, J Tamburini, CP Tan, L Tan, ML Tan, M Tan, YJ Tan, K Tanaka, M Tanaka, D Tang, D Tang, G Tang, I Tanida, K Tanji, BA Tannous, JA Tapia, I Tasset-Cuevas, M Tatar, I Tavassoly, N Tavernarakis, A Taylor, GS Taylor, GA Taylor, JP Taylor, MJ Taylor, EV Tchetina, AR Tee, F Teixeira-Clerc, S Telang, T Tencomnao, BB Teng, RJ Teng, F Terro, G Tettamanti, AL Theiss, AE Theron, KJ Thomas, MP Thomé, PG Thomes, A Thorburn, J Thorner, T Thum, M Thumm, TL Thurston, L Tian, A Till, JP Ting, VI Titorenko, L Toker, S Toldo, SA Tooze, I Topisirovic, ML Torgersen, L Torosantucci, A Torriglia, MR Torrisi, C Tournier, R Towns, V Trajkovic, LH Travassos, G Triola, DN Tripathi, D Trisciuoglio, R Troncoso, IP Trougakos, AC Truttmann, KJ Tsai, MP Tschan, YH Tseng, T Tsukuba, A Tsung, AS Tsvetkov, S Tu, HY Tuan, M Tucci, DA Tumbarello, B Turk, V Turk, RF Turner, AA Tveita, SC Tyagi, M Ubukata, Y Uchiyama, A Udelnow, T Ueno, M Umekawa, R Umemiya-Shirafuji, BR Underwood, C Ungermann, RP Ureshino, R Ushioda, VN Uversky, NL Uzcátegui, T Vaccari, MI Vaccaro, L Váchová, H Vakifahmetoglu-Norberg, R Valdor, EM Valente, F Vallette, AM Valverde, G Van den Berghe, L Van Den Bosch, GR van den Brink, FG van der Goot, IJ van der Klei, LJ van der Laan, WG van Doorn, M van Egmond, KL van Golen, L Van Kaer, M van Lookeren Campagne, P Vandenabeele, W Vandenberghe, I Vanhorebeek, I Varela-Nieto, MH Vasconcelos, R Vasko, DG Vavvas, I Vega-Naredo, G Velasco, AD Velentzas, PD Velentzas, T Vellai, E Vellenga, MH Vendelbo, K Venkatachalam, N Ventura, S Ventura, PS Veras, M Verdier, BG Vertessy, A Viale, M Vidal, HL Vieira, RD Vierstra, N Vigneswaran, N Vij, M Vila, M Villar, VH Villar, J Villarroya, C Vindis, G Viola, MT Viscomi, G Vitale, DT Vogl, OV Voitsekhovskaja, C von Haefen, K von Schwarzenberg, DE Voth, V Vouret-Craviari, K Vuori, JM Vyas, C Waeber, CL Walker, MJ Walker, J Walter, L Wan, X Wan, B Wang, C Wang, CY Wang, C Wang, C Wang, C Wang, D Wang, F Wang, F Wang, G Wang, HJ Wang, H Wang, HG Wang, H Wang, HD Wang, J Wang, J Wang, M Wang, MQ Wang, PY Wang, P Wang, RC Wang, S Wang, TF Wang, X Wang, XJ Wang, XW Wang, X Wang, X Wang, Y Wang, Y Wang, Y Wang, YJ Wang, Y Wang, Y Wang, YT Wang, Y Wang, ZN Wang, P Wappner, C Ward, DM Ward, G Warnes, H Watada, Y Watanabe, K Watase, TE Weaver, CD Weekes, J Wei, T Weide, CC Weihl, G Weindl, SN Weis, L Wen, X Wen, Y Wen, B Westermann, CM Weyand, AR White, E White, JL Whitton, AJ Whitworth, J Wiels, F Wild, ME Wildenberg, T Wileman, DS Wilkinson, S Wilkinson, D Willbold, C Williams, K Williams, PR Williamson, KF Winklhofer, SS Witkin, SE Wohlgemuth, T Wollert, EJ Wolvetang, E Wong, GW Wong, RW Wong, VK Wong, EA Woodcock, KL Wright, C Wu, D Wu, GS Wu, J Wu, J Wu, M Wu, M Wu, S Wu, WK Wu, Y Wu, Z Wu, CP Xavier, RJ Xavier, GX Xia, T Xia, W Xia, Y Xia, H Xiao, J Xiao, S Xiao, W Xiao, CM Xie, Z Xie, Z Xie, M Xilouri, Y Xiong, C Xu, C Xu, F Xu, H Xu, H Xu, J Xu, J Xu, J Xu, L Xu, X Xu, Y Xu, Y Xu, ZX Xu, Z Xu, Y Xue, T Yamada, A Yamamoto, K Yamanaka, S Yamashina, S Yamashiro, B Yan, B Yan, X Yan, Z Yan, Y Yanagi, DS Yang, JM Yang, L Yang, M Yang, PM Yang, P Yang, Q Yang, W Yang, WY Yang, X Yang, Y Yang, Y Yang, Z Yang, Z Yang, MC Yao, PJ Yao, X Yao, Z Yao, Z Yao, LS Yasui, M Ye, B Yedvobnick, B Yeganeh, ES Yeh, PL Yeyati, F Yi, L Yi, XM Yin, CK Yip, YM Yoo, YH Yoo, SY Yoon, K Yoshida, T Yoshimori, KH Young, H Yu, JJ Yu, JT Yu, J Yu, L Yu, WH Yu, XF Yu, Z Yu, J Yuan, ZM Yuan, BY Yue, J Yue, Z Yue, DN Zacks, E Zacksenhaus, N Zaffaroni, T Zaglia, Z Zakeri, V Zecchini, J Zeng, M Zeng, Q Zeng, AS Zervos, DD Zhang, F Zhang, G Zhang, GC Zhang, H Zhang, H Zhang, H Zhang, H Zhang, J Zhang, J Zhang, J Zhang, J Zhang, JP Zhang, L Zhang, L Zhang, L Zhang, L Zhang, MY Zhang, X Zhang, XD Zhang, Y Zhang, Y Zhang, Y Zhang, Y Zhang, Y Zhang, M Zhao, WL Zhao, X Zhao, YG Zhao, Y Zhao, Y Zhao, YX Zhao, Z Zhao, ZJ Zhao, D Zheng, XL Zheng, X Zheng, B Zhivotovsky, Q Zhong, GZ Zhou, G Zhou, H Zhou, SF Zhou, XJ Zhou, H Zhu, H Zhu, WG Zhu, W Zhu, XF Zhu, Y Zhu, SM Zhuang, X Zhuang, E Ziparo, CE Zois, T Zoladek, WX Zong, A Zorzano, SM Zughaier_
-
-
-_Animals, Autophagy, Biological Assay, Computer Simulation, Humans_
-
-[Source](https://www.facebook.com/MicrobiomeDigest/)
-
-10.1080/15548627.2015.1100356
+[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7295895/)
 
 ---
 
-##  MD FB page
+## Preprint: Naturally mutated spike proteins of SARS-CoV-2 variants show differential levels of cell entry
 
-[Source](https://www.facebook.com/MicrobiomeDigest/)
-
----
-
-## Microbial transmission in animal social networks and the social microbiome.
- 27.06.2020, _A Sarkar, S Harty, KV Johnson, AH Moeller, EA Archie, LD Schell, RN Carmody, TH Clutton-Brock, RIM Dunbar, PWJ Burnet_
-
-
-Host-associated microbiomes play an increasingly appreciated role in animal metabolism, immunity and health. The microbes in turn depend on their host for resources and can be transmitted across the host's social network. In this Perspective, we describe how animal social interactions and networks may provide channels for microbial transmission. We propose the 'social microbiome' as the microbial metacommunity of an animal social group. We then consider the various social and environmental forces that are likely to influence the social microbiome at multiple scales, including at the individual level, within social groups, between groups, within populations and species, and finally between species. Through our comprehensive discussion of the ways in which sociobiological and ecological factors may affect microbial transmission, we outline new research directions for the field.
-
-[Source](https://www.nature.com/articles/s41559-020-1220-8)
-
-10.1038/s41559-020-1220-8
+[Source](https://www.biorxiv.org/content/10.1101/2020.06.15.151779v2?)
 
 ---
 
-## Does entry to center-based childcare affect gut microbial colonization in young infants?
+## Novel Potential Probiotic Lactobacilli for Prevention and Treatment of Vulvovaginal Infections
 
-[Source](https://www.nature.com/articles/s41598-020-66404-z)
-
----
-
-## Serum metabolites reflecting gut microbiome alpha diversity predict type 2 diabetes.
- 24.06.2020, _C Menni, J Zhu, CI Le Roy, O Mompeo, K Young, CM Rebholz, E Selvin, KE North, RP Mohney, JT Bell, E Boerwinkle, TD Spector, M Mangino, B Yu, AM Valdes_
-
-
-Type 2 diabetes (T2D) is associated with reduced gut microbiome diversity, although the cause is unclear. Metabolites generated by gut microbes also appear to be causative factors in T2D. We therefore searched for serum metabolites predictive of gut microbiome diversity in 1018 females from TwinsUK with concurrent metabolomic profiling and microbiome composition. We generated a Microbial Metabolites Diversity (MMD) score of six circulating metabolites that explained over 18% of the variance in microbiome alpha diversity. Moreover, the MMD score was associated with a significantly lower odds of prevalent (OR[95%CI] = 0.22[0.07;0.70], P = .01) and incident T2D (HR[95%CI] = 0.31[0.11,0.90], P = .03). We replicated our results in 1522 individuals from the ARIC study (prevalent T2D: OR[95%CI] = 0.79[0.64,0.96], P = .02, incident T2D: HR[95%CI] = 0.87[0.79,0.95], P = .003). The MMD score mediated 28%[15%,94%] of the total effect of gut microbiome on T2D after adjusting for confounders. Metabolites predicting higher microbiome diversity included 3-phenylpropionate(hydrocinnamate), indolepropionate, cinnamoylglycine and 5-alpha-pregnan-3beta,20 alpha-diol monosulfate(2) of which indolepropionate and phenylpropionate have already been linked to lower incidence of T2D. Metabolites correlating with lower microbial diversity included glutarate and imidazole propionate, of which the latter has been implicated in insulin resistance. Our results suggest that the effect of gut microbiome diversity on T2D is largely mediated by microbial metabolites, which might be modifiable by diet.
-
-[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1778261)
-
-10.1080/19490976.2020.1778261
+[Source](https://link.springer.com/article/10.1007/s12602-020-09675-2)
 
 ---
 
-## New Insights into the Immune System Using Dirty Mice.
- 27.06.2020, _SE Hamilton, VP Badovinac, LK Beura, M Pierson, SC Jameson, D Masopust, TS Griffith_
+## The structure and diversity of strain level variation in vaginal bacteria
 
-
-The mouse (Mus musculus) is the dominant organism used to investigate the mechanisms behind complex immunological responses because of their genetic similarity to humans and our ability to manipulate those genetics to understand downstream function. Indeed, our knowledge of immune system development, response to infection, and ways to therapeutically manipulate the immune response to combat disease were, in large part, delineated in the mouse. Despite the power of mouse-based immunology research, the translational efficacy of many new therapies from mouse to human is far from ideal. Recent data have highlighted how the naive, neonate-like immune system of specific pathogen-free mice differs dramatically in composition and function to mice living under barrier-free conditions (i.e., "dirty" mice). In this review, we discuss major findings to date and challenges faced when using dirty mice and specific areas of immunology research that may benefit from using animals with robust and varied microbial exposure.
-
-[Source](https://www.jimmunol.org/content/205/1/3.abstract)
-
-10.4049/jimmunol.2000171
+[Source](https://www.biorxiv.org/content/10.1101/2020.06.26.173922v1?)
 
 ---
 
-## Optimization of cerebrospinal fluid microbial metagenomic sequencing diagnostics
+## Early exposure to food contaminants reshapes maturation of the human brain-gut-microbiota axis
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.06.25.170423v1?%3Fcollection=)
-
----
-
-## Sleep fragmentation increases blood pressure and is associated with alterations in the gut microbiome and fecal metabolome in rats.
- 22.06.2020, _KA Maki, LA Burke, MW Calik, M Watanabe-Chailland, D Sweeney, LE Romick-Rosendale, SJ Green, AM Fink_
-
-
-The gut microbiota, via the production of metabolites entering the circulation, plays a role in blood pressure regulation. Blood pressure is also affected by the characteristics of sleep. To date, no studies have examined relationships among the gut microbiota/metabolites, blood pressure, and sleep. We hypothesized that fragmented sleep is associated with elevated mean arterial pressure, an altered and dysbiotic gut microbial community, and changes in fecal metabolites. In our model system, rats were randomized to 8h of sleep fragmentation during the rest phase (light-phase) or were undisturbed (controls) for 28 consecutive days. Rats underwent sleep and blood pressure recordings, and fecal samples were analyzed during: baseline (days -4 to -1), early sleep fragmentation (days 0-3), mid‑sleep fragmentation (days 6-13), late sleep fragmentation (days 20-27), and recovery/rest (days 28-34). Less sleep/h during the sleep fragmentation period was associated with increased mean arterial pressure. Analyses of gut microbial communities and metabolites revealed that putative short chain fatty acid-producing bacteria were differentially abundant between control and intervention animals during mid-/late-sleep fragmentation and recovery. Mid-sleep fragmentation was also characterized by lower alpha diversity, lower Firmicutes: Bacteroidetes ratio, and higher Proteobacteria in intervention rats. Elevated putative succinate-producing bacteria and acetate-producing bacteria were associated with lower and higher mean arterial pressure, respectively, and untargeted metabolomics analysis demonstrate that certain fecal metabolites are significantly correlated with blood pressure. These data reveal associations between sleep fragmentation, mean arterial pressure and the gut microbiome/fecal metabolome and provide insight to links between disrupted sleep and cardiovascular pathology.
-
-[Source](https://journals.physiology.org/doi/abs/10.1152/physiolgenomics.00039.2020)
-
-10.1152/physiolgenomics.00039.2020
+[Source](https://www.wjgnet.com/1007-9327/full/v26/i23/3145.htm?)
 
 ---
 
-## Environment Shapes the Microbiome of the Blue Orchard Bee,&nbsp;<em>Osmia lignaria</em>
+## Luminal microbiota related to Crohn’s disease recurrence after surgery
 
-[Source](https://link.springer.com/article/10.1007/s00248-020-01549-y)
+[Source](https://www.tandfonline.com/doi/abs/10.1080/19490976.2020.1778262)
 
 ---
 
 ## The gut mycobiome of healthy mice is shaped by the environment and shapes metabolic outcomes in response to diet
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.06.25.158287v1?%3Fcollection=)
+[Source](https://www.biorxiv.org/content/10.1101/2020.06.25.158287v1.full?)
 
 ---
 
-## Microbial communities network analysis of anaerobic reactors fed with bovine and swine slurry
+## Germ-free housing conditions do not affect aortic root and aortic arch lesion size of late atherosclerotic low-density lipoprotein receptor-deficient mice
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969720338365#!)
-
----
-
-## Metagenomic analysis reveals significant differences in microbiome and metabolic profiles in the rumen of sheep fed low N diet with increased urea supplementation
-
-[Source](https://academic.oup.com/femsec/article-abstract/doi/10.1093/femsec/fiaa117/5861934?redirectedFrom=fulltext)
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1767463)
 
 ---
 
-## Changes in Bacterial and Fungal Microbiomes Associated with Tomatoes of Healthy and Infected by&nbsp;<em>Fusarium oxysporum</em>&nbsp;f. sp.&nbsp;<em>lycopersici</em>
+## The effects of environment and ontogeny on the skin microbiome of two Stegastes damselfishes (Pomacentridae) from the eastern Caribbean Sea
 
-[Source](https://link.springer.com/article/10.1007/s00248-020-01535-4)
-
----
-
-## Insights into drylands biocrust microbiome: geography, soil depth, and crust type affect biocrust microbial communities and networks in Mojave Desert, USA
-
-[Source](https://academic.oup.com/femsec/article-abstract/doi/10.1093/femsec/fiaa125/5861315)
+[Source](https://link.springer.com/article/10.1007/s00227-020-03717-7)
 
 ---
 
-## Microbial Consortia by a Gene-Centric Metagenomic Approach
+## Variations and Potential Factors of Gut Prokaryotic Microbiome During Spawning Migration in Coilia nasus
 
-[Source](https://link.springer.com/article/10.1007/s00248-020-01546-1)
-
----
-
-## Shotgun Metagenomics Of Dust Microbiome From Flight Deck And Cabin In Civil Aviation Aircraft
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12707)
+[Source](https://link.springer.com/article/10.1007/s00284-020-02088-y)
 
 ---
 
-## MicroNiche: an R package for assessing microbial niche breadth and overlap from amplicon sequencing data
+## Genetic diversity of Agrobacterium species isolated from nodules of common bean and soybean in Brazil, Mexico, Ecuador and Mozambique, and description of the new species Agrobacterium fabacearum sp. nov
 
-[Source](https://academic.oup.com/femsec/article-abstract/doi/10.1093/femsec/fiaa131/5863182?redirectedFrom=fulltext)
-
----
-
-## <span>Like</span>
-
-[Source](https://microbiomedigest.com/2020/06/27/june-27-2020/?like_comment=24060&_wpnonce=5528e2c48f)
+[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004278?)
 
 ---
 
-## 1 person
+## Efects of&nbsp;cadmium perturbation on&nbsp;the&nbsp;microbial community structure and&nbsp;heavy metal resistome of&nbsp;a&nbsp;tropical agricultural soil
 
-[Source](#)
+[Source](https://ir.unilag.edu.ng/bitstream/handle/123456789/8417/Amund%20Publication%20119.pdf?)
+
+---
+
+## Differences in soil microbial communities and enzyme activity due to the application of bioslurry under cultivation
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/02571862.2020.1761468)
+
+---
+
+## Microbial Communities in the Fynbos Region of South Africa: What Happens during Woody Alien Plant Invasions
+
+[Source](https://www.mdpi.com/1424-2818/12/6/254)
+
+---
+
+## Sierra Nevada mountain lake microbial communities are structured by temperature, resources and geographic location.
+ 24.06.2020, _MA Schulhof, AE Allen, EE Allen, N Mladenov, JP McCrow, NT Jones, J Blanton, HB Cavalheri, D Kaul, CC Symons, JB Shurin_
+
+
+Warming, eutrophication (nutrient fertilization) and brownification (increased loading of allochthonous organic matter) are three global trends impacting lake ecosystems. However, the independent and synergistic effects of resource addition and warming on autotrophic and heterotrophic microorganisms are largely unknown. In this study, we investigate the independent and interactive effects of temperature, dissolved organic carbon (DOC, both allochthonous and autochthonous) and nitrogen (N) supply, in addition to the effect of spatial variables, on the composition, richness, and evenness of prokaryotic and eukaryotic microbial communities in lakes across elevation and N deposition gradients in the Sierra Nevada mountains of California, USA. We found that both prokaryotic and eukaryotic communities are structured by temperature, terrestrial (allochthonous) DOC and latitude. Prokaryotic communities are also influenced by total and aquatic (autochthonous) DOC, while eukaryotic communities are also structured by nitrate. Additionally, increasing N availability was associated with reduced richness of prokaryotic communities, and both lower richness and evenness of eukaryotes. We did not detect any synergistic or antagonistic effects as there were no interactions among temperature and resource variables. Together, our results suggest that (a) organic and inorganic resources, temperature, and geographic location (based on latitude and longitude) independently influence lake microbial communities; and (b) increasing N supply due to atmospheric N deposition may reduce richness of both prokaryotic and eukaryotic microbes, probably by reducing niche dimensionality. Our study provides insight into abiotic processes structuring microbial communities across environmental gradients and their potential roles in material and energy fluxes within and between ecosystems.
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15469)
+
+10.1111/mec.15469
+
+---
+
+## Fungal communities in sediments along a depth gradient in the Eastern Tropical Pacific
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.06.26.173682v1?)
+
+---
+
+## <span class="has-inline-color has-vivid-green-cyan-color">Evaluating aerosol and splatter following dental procedures</span>
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.06.25.154401v1.full?)
+
+---
+
+## <span class="has-inline-color has-vivid-green-cyan-color">Current Progression: Application of High-Throughput Sequencing Technique in Space Microbiology</span>
+
+[Source](https://www.hindawi.com/journals/bmri/2020/4094191/)
+
+---
+
+## Swine Methicillin-resistant Staphylococcus aureus carrying toxic-shock syndrome toxin gene in Hong Kong, China
+
+[Source](https://www.tandfonline.com/doi/pdf/10.1080/22221751.2020.1785335)
+
+---
+
+## Moving from probiotics to precision probiotics
+
+[Source](https://www.nature.com/articles/s41564-020-0721-1?)
+
+---
+
+## Fetal inheritance of chromosomally integrated human herpesvirus 6 predisposes the mother to pre-eclampsia
+
+[Source](https://www.nature.com/articles/s41564-020-0711-3?)
+
+---
+
+## Developing standards for the microbiome field
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00856-3?)
+
+---
+
+## Team Examines Microbiome of Marine Invertebrate That Produces Anticancer Compound
+
+[Source](https://www.technologynetworks.com/tn/news/team-examines-microbiome-of-marine-invertebrate-that-produces-anticancer-compound-336639)
+
+---
+
+## Bacteria live on our eyeballs — and understanding their role could help treat common eye diseases
+
+[Source](https://news.yahoo.com/bacteria-live-eyeballs-understanding-role-185740645.html?)
 
 ---
 
