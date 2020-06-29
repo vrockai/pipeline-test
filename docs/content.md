@@ -118,15 +118,27 @@
 
 ---
 
-## Fetal inheritance of chromosomally integrated human herpesvirus 6 predisposes the mother to pre-eclampsia
+## Fetal inheritance of chromosomally integrated human herpesvirus 6 predisposes the mother to pre-eclampsia.
+ 26.06.2020, _F Gaccioli, S Lager, MC de Goffau, U Sovio, J Dopierala, S Gong, E Cook, A Sharkey, A Moffett, WK Lee, C Delles, C Venturini, J Breuer, J Parkhill, SJ Peacock, DS Charnock-Jones, GCS Smith_
+
+
+Pre-eclampsia (typically characterized by new-onset hypertension and proteinuria in the second half of pregnancy) represents a major determinant of the global burden of disease1,2. Its pathophysiology involves placental dysfunction, but the mechanism is unclear. Viral infection can cause organ dysfunction, but its role in placentally related disorders of human pregnancy is unknown3. We addressed this using RNA sequencing metagenomics4-6 of placental samples from normal and complicated pregnancies. Here, we show that human herpesvirus 6 (HHV-6, A or B) RNA was detected in 6.1% of cases of pre-eclampsia and 2.2% of other pregnancies. Fetal genotyping demonstrated that 70% of samples with HHV-6 RNA in the placenta exhibited inherited, chromosomally integrated HHV-6 (iciHHV-6). We genotyped 467 pre-eclampsia cases and 3,854 controls and found an excess of iciHHV-6 in the cases (odds ratio of 2.8, 95% confidence intervals of 1.4-5.6, P = 0.008). We validated this finding by comparing iciHHV-6 in a further 740 cases with controls from large-scale population studies (odds ratio of 2.5, 95% confidence intervals of 1.4-4.4, P = 0.0013). We conclude that iciHHV-6 results in the transcription of viral RNA in the human placenta and predisposes the mother to pre-eclampsia.
 
 [Source](https://www.nature.com/articles/s41564-020-0711-3?)
 
+10.1038/s41564-020-0711-3
+
 ---
 
-## Developing standards for the microbiome field
+## Developing standards for the microbiome field.
+ 27.06.2020, _GCA Amos, A Logan, S Anwar, M Fritzsche, R Mate, T Bleazard, S Rijpkema_
+
+
+Effective standardisation of methodologies to analyse the microbiome is essential to the entire microbiome community. Despite the microbiome field being established for over a decade, there are no accredited or certified reference materials available to the wider community. In this study, we describe the development of the first reference reagents produced by the National Institute for Biological Standards and Control (NIBSC) for microbiome analysis by next-generation sequencing. These can act as global working standards and will be evaluated as candidate World Health Organization International Reference Reagents.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00856-3?)
+
+10.1186/s40168-020-00856-3
 
 ---
 
