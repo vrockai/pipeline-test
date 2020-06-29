@@ -82,15 +82,9 @@
 
 ---
 
-## Sierra Nevada mountain lake microbial communities are structured by temperature, resources and geographic location.
- 24.06.2020, _MA Schulhof, AE Allen, EE Allen, N Mladenov, JP McCrow, NT Jones, J Blanton, HB Cavalheri, D Kaul, CC Symons, JB Shurin_
-
-
-Warming, eutrophication (nutrient fertilization) and brownification (increased loading of allochthonous organic matter) are three global trends impacting lake ecosystems. However, the independent and synergistic effects of resource addition and warming on autotrophic and heterotrophic microorganisms are largely unknown. In this study, we investigate the independent and interactive effects of temperature, dissolved organic carbon (DOC, both allochthonous and autochthonous) and nitrogen (N) supply, in addition to the effect of spatial variables, on the composition, richness, and evenness of prokaryotic and eukaryotic microbial communities in lakes across elevation and N deposition gradients in the Sierra Nevada mountains of California, USA. We found that both prokaryotic and eukaryotic communities are structured by temperature, terrestrial (allochthonous) DOC and latitude. Prokaryotic communities are also influenced by total and aquatic (autochthonous) DOC, while eukaryotic communities are also structured by nitrate. Additionally, increasing N availability was associated with reduced richness of prokaryotic communities, and both lower richness and evenness of eukaryotes. We did not detect any synergistic or antagonistic effects as there were no interactions among temperature and resource variables. Together, our results suggest that (a) organic and inorganic resources, temperature, and geographic location (based on latitude and longitude) independently influence lake microbial communities; and (b) increasing N supply due to atmospheric N deposition may reduce richness of both prokaryotic and eukaryotic microbes, probably by reducing niche dimensionality. Our study provides insight into abiotic processes structuring microbial communities across environmental gradients and their potential roles in material and energy fluxes within and between ecosystems.
+## Sierra Nevada mountain lake microbial communities are structured by temperature, resources and geographic location
 
 [Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15469)
-
-10.1111/mec.15469
 
 ---
 
