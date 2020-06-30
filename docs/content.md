@@ -41,7 +41,7 @@ Recent population-based1-4 and clinical studies5 have identified a range of fact
 ---
 
 ## Microarray Analysis of Gene Expression Involved in Butyrate-Resistant Colorectal Carcinoma HCT116 Cells.
- 27.06.2020, _C Khonthun, N Saikachain, S Popluechai, K Kespechara, A Hiranyakas, M Srikummool, D Surangkul_
+ 29.06.2020, _C Khonthun, N Saikachain, S Popluechai, K Kespechara, A Hiranyakas, M Srikummool, D Surangkul_
 
 
 Resistance to chemotherapeutic agents is usually found in cancer stem cells (CSCs) and cancer stem-like cells that are often regarded as the target for cancer monitoring. However, the different patterns of their transcriptomic profiling is still unclear.
