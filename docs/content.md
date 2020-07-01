@@ -76,15 +76,9 @@
 
 ---
 
-## Reservoirs of antimicrobial resistance genes in retail raw milk.
- 29.06.2020, _J Liu, Y Zhu, M Jay-Russell, DG Lemay, DA Mills_
-
-
-It has been estimated that at least 3% of the USA population consumes unpasteurized (raw) milk from animal sources, and the demand to legalize raw milk sales continues to increase. However, consumption of raw milk can cause foodborne illness and be a source of bacteria containing transferrable antimicrobial resistance genes (ARGs). To obtain a comprehensive understanding of the microbiome and antibiotic resistome in both raw and processed milk, we systematically analyzed 2034 retail milk samples including unpasteurized milk and pasteurized milk via vat pasteurization, high-temperature-short-time pasteurization, and ultra-pasteurization from the United States using complementary culture-based, 16S rRNA gene, and metagenomic sequencing techniques.
+## Reservoirs of antimicrobial resistance genes in retail raw milk
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00861-6)
-
-10.1186/s40168-020-00861-6
 
 ---
 
