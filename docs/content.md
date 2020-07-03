@@ -58,15 +58,9 @@
 
 ---
 
-## MetaRibo-Seq measures translation in microbiomes.
- 30.06.2020, _BJ Fremin, H Sberro, AS Bhatt_
-
-
-No method exists to measure large-scale translation of genes in uncultured organisms in microbiomes. To overcome this limitation, we develop MetaRibo-Seq, a method for simultaneous ribosome profiling of tens to hundreds of organisms in microbiome samples. MetaRibo-Seq was benchmarked against gold-standard Ribo-Seq in a mock microbial community and applied to five different human fecal samples. Unlike RNA-Seq, Ribo-Seq signal of a predicted gene suggests it encodes a translated protein. We demonstrate two applications of this technique: First, MetaRibo-Seq identifies small genes, whose identification until now has been challenging. For example, MetaRibo-Seq identifies 2,091 translated, previously unannotated small protein families from five fecal samples, more than doubling the number of small proteins predicted to exist in this niche. Second, the combined application of RNA-Seq and MetaRibo-Seq identifies differences in the translation of transcripts. In summary, MetaRibo-Seq enables comprehensive translational profiling in microbiomes and identifies previously unannotated small proteins.
+## MetaRibo-Seq measures translation in microbiomes
 
 [Source](https://www.nature.com/articles/s41467-020-17081-z)
-
-10.1038/s41467-020-17081-z
 
 ---
 
