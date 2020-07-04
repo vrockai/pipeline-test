@@ -100,15 +100,9 @@ The human microbiome encodes extensive metabolic capabilities, but our understan
 
 ---
 
-## Interindividual Variation in Dietary Carbohydrate Metabolism by Gut Bacteria Revealed with Droplet Microfluidic Culture.
- 01.07.2020, _MM Villa, RJ Bloom, JD Silverman, HK Durand, S Jiang, A Wu, EP Dallow, S Huang, L You, LA David_
-
-
-Culture and screening of gut bacteria enable testing of microbial function and therapeutic potential. However, the diversity of human gut microbial communities (microbiota) impedes comprehensive experimental studies of individual bacterial taxa. Here, we combine advances in droplet microfluidics and high-throughput DNA sequencing to develop a platform for separating and assaying growth of microbiota members in picoliter droplets (MicDrop). MicDrop enabled us to cultivate 2.8 times more bacterial taxa than typical batch culture methods. We then used MicDrop to test whether individuals possess similar abundances of carbohydrate-degrading gut bacteria, using an approach which had previously not been possible due to throughput limitations of traditional bacterial culture techniques. Single MicDrop experiments allowed us to characterize carbohydrate utilization among dozens of gut bacterial taxa from distinct human stool samples. Our aggregate data across nine healthy stool donors revealed that all of the individuals harbored gut bacterial species capable of degrading common dietary polysaccharides. However, the levels of richness and abundance of polysaccharide-degrading species relative to monosaccharide-consuming taxa differed by up to 2.6-fold and 24.7-fold, respectively. Additionally, our unique dataset suggested that gut bacterial taxa may be broadly categorized by whether they can grow on single or multiple polysaccharides, and we found that this lifestyle trait is correlated with how broadly bacterial taxa can be found across individuals. This demonstration shows that it is feasible to measure the function of hundreds of bacterial taxa across multiple fecal samples from different people, which should in turn enable future efforts to design microbiota-directed therapies and yield new insights into microbiota ecology and evolution.IMPORTANCE Bacterial culture and assay are components of basic microbiological research, drug development, and diagnostic screening. However, community diversity can make it challenging to comprehensively perform experiments involving individual microbiota members. Here, we present a new microfluidic culture platform that makes it feasible to measure the growth and function of microbiota constituents in a single set of experiments. As a proof of concept, we demonstrate how the platform can be used to measure how hundreds of gut bacterial taxa drawn from different people metabolize dietary carbohydrates. Going forward, we expect this microfluidic technique to be adaptable to a range of other microbial assay needs.
+## Interindividual Variation in Dietary Carbohydrate Metabolism by Gut Bacteria Revealed with Droplet Microfluidic Culture
 
 [Source](https://msystems.asm.org/content/5/3/e00864-19.abstract)
-
-10.1128/mSystems.00864-19
 
 ---
 
