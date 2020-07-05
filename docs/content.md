@@ -11,7 +11,7 @@ Many patients with alcohol use disorder (AUD) consume alcohol chronically and in
 ---
 
 ## Comparative evaluation of peptidome and microbiota in different types of saliva samples.
- 03.07.2020, _C Zhu, C Yuan, FQ Wei, XY Sun, SG Zheng_
+ 04.07.2020, _C Zhu, C Yuan, FQ Wei, XY Sun, SG Zheng_
 
 
 Clinical and research interest in salivary peptidome and microbiota is ever-growing owing to its great value for diagnosis, risk assessment and prediction of prognosis in oral and systemic diseases. Saliva can be stimulated for the purpose of rapid collection, but currently there are no studies systematically addressing the similarities and differences of salivary peptidome and microbiota in different types of samples. The purpose of this study was to investigate the variations of salivary peptidome and microbial profiles in response to different stimulating conditions.
