@@ -1,223 +1,156 @@
-## Longitudinal gut microbiome changes in alcohol use disorder are influenced by abstinence and drinking quantity.
- 03.07.2020, _NJ Ames, JJ Barb, K Schuebel, S Mudra, BK Meeks, RTS Tuason, AT Brooks, N Kazmi, S Yang, K Ratteree, N Diazgranados, M Krumlauf, GR Wallen, D Goldman_
+## Natural environments in the urban context and gut microbiota in infants.
+ 01.07.2020, _CC Nielsen, M Gascon, AR Osornio-Vargas, C Shier, DS Guttman, AB Becker, MB Azad, MR Sears, DL Lefebvre, TJ Moraes, SE Turvey, P Subbarao, TK Takaro, JR Brook, JA Scott, PJ Mandhane, HM Tun, AL Kozyrskyj_
 
 
-Many patients with alcohol use disorder (AUD) consume alcohol chronically and in large amounts that alter intestinal microbiota, damage the gastrointestinal tract, and thereby injure other organs via malabsorption and intestinal inflammation. We hypothesized that alcohol consumption and subsequent abstinence would change the gut microbiome in adults admitted to a treatment program. Stool and oral specimens, diet data, gastrointestinal assessment scores, anxiety, depression measures and drinking amounts were collected longitudinally for up to 4 weeks in 22 newly abstinent inpatients with AUD who were dichotomized as less heavy drinkers (LHD, &lt;10 drinks/d) and very heavy drinkers (VHD, 10 or more drinks/d). Next-generation 16 S rRNA gene sequencing was performed to measure the gut and oral microbiome at up to ten time points/subject and LHD and VHD were compared for change in principal components, Shannon diversity index and specific genera. The first three principal components explained 46.7% of the variance in gut microbiome diversity across time and all study subjects, indicating the change in gut microbiome following abstinence. The first time point was an outlier in three-dimensional principal component space versus all other time points. The gut microbiota in LHD and VHD were significantly dissimilar in change from day 1 to day 5 (p = .03) and from day 1 to week 3 (p = .02). The VHD drinking group displayed greater change from baseline. The Shannon diversity index of the gut microbiome changed significantly during abstinence in five participants. In both groups, the Shannon diversity was lower in the oral microbiome than gut. Ten total genera were shared between oral and stool in the AUD participants. These data were compared with healthy controls from the Human Microbiome Project to investigate the concept of a core microbiome. Rapid changes in gut microbiome following abstinence from alcohol suggest resilience of the gut microbiome in AUD and reflects the benefits of refraining from the highest levels of alcohol and potential benefits of abstinence.
+The biodiversity hypothesis that contact with natural environments (e.g. native vegetation) and biodiversity, through the influence of environmental microbes, may be beneficial for human commensal microbiota has been insufficiently tested. We aimed to study the association between living near natural environments in the urban context, and gut microbiota diversity and composition in young infants. Based on data linkage between the unique Urban Primary Land and Vegetation Inventory (uPLVI) for the city of Edmonton and 355 infants in the CHILD Cohort Study, infant exposure to natural environments (any and specific types, yes/no) was determined within 500 m and 1000 m of their home residence. Gut microbiota composition and diversity at age 4 months was assessed in infant fecal samples. Adjusted for covariates, we observed a reduced odds of high microbial alpha-diversity in the gut of infants exposed to any natural environment within 500 m [Shannon index aOR (95%CI) = 0.63 (0.40, 0.98) and Simpson index = 0.63 (0.41, 0.98)]. In stratified analyses, these associations remained only among infants not breastfed or living with household pets. When doubly stratifying by these variables, the reduced likelihood of high alpha-diversity was present only among infants who were not breastfed and lived with household pets [9% of the study population, Shannon index = 0.07 (0.01, 0.49) and Simpson index = 0.11 (0.02, 0.66)]. Differences in beta-diversity was also seen (p = 0.04) with proximity to a nature space in not breastfed and pets-exposed infants. No associations were observed among infants who were fully formula-fed but without pets at home. When families and their pets had close access to a natural environment, Verrucomicrobiales colonization was reduced in the gut microbiota of formula-fed infants, the abundance of Clostridiales was depleted, whereas the abundance of Enterobacteriales was enriched. Our double-stratified results indicate that proximity to a natural environment plus pet ownership has the capacity to alter the gut microbiota of formula-fed infants. Further research is needed to replicate and better interpret these results, as well as to understand their health consequences.
 
-[Source](https://doi.org/10.1080/19490976.2020.1758010)
+[Source](https://www.sciencedirect.com/science/article/pii/S0160412020318365)
 
-10.1080/19490976.2020.1758010
-
----
-
-## Comparative evaluation of peptidome and microbiota in different types of saliva samples.
- 04.07.2020, _C Zhu, C Yuan, FQ Wei, XY Sun, SG Zheng_
-
-
-Clinical and research interest in salivary peptidome and microbiota is ever-growing owing to its great value for diagnosis, risk assessment and prediction of prognosis in oral and systemic diseases. Saliva can be stimulated for the purpose of rapid collection, but currently there are no studies systematically addressing the similarities and differences of salivary peptidome and microbiota in different types of samples. The purpose of this study was to investigate the variations of salivary peptidome and microbial profiles in response to different stimulating conditions.
-
-[Source](https://doi.org/10.21037/atm-20-393)
-
-10.21037/atm-20-393
+10.1016/j.envint.2020.105881
 
 ---
 
-## Genomes of the rice pest brown planthopper and its endosymbionts reveal complex complementary contributions for host adaptation.
- 13.11.2018, _J Xue, X Zhou, CX Zhang, LL Yu, HW Fan, Z Wang, HJ Xu, Y Xi, ZR Zhu, WW Zhou, PL Pan, BL Li, JK Colbourne, H Noda, Y Suetsugu, T Kobayashi, Y Zheng, S Liu, R Zhang, Y Liu, YD Luo, DM Fang, Y Chen, DL Zhan, XD Lv, Y Cai, ZB Wang, HJ Huang, RL Cheng, XC Zhang, YH Lou, B Yu, JC Zhuo, YX Ye, WQ Zhang, ZC Shen, HM Yang, J Wang, J Wang, YY Bao, JA Cheng_
+## Breast cancer colonization by Fusobacterium nucleatum accelerates tumor growth and metastatic progression.
+ 01.07.2020, _L Parhi, T Alon-Maimon, A Sol, D Nejman, A Shhadeh, T Fainsod-Levi, O Yajuk, B Isaacson, J Abed, N Maalouf, A Nissan, J Sandbank, E Yehuda-Shnaidman, F Ponath, J Vogel, O Mandelboim, Z Granot, R Straussman, G Bachrach_
 
 
-_Adaptation, Biological, Animals, Arthropods, Asia, Bacteria, Evolution, Molecular, Genome, Insect, Genomics, Hemiptera, Herbivory, Host Specificity, Molecular Sequence Data, Multigene Family, Oryza, Phylogeny, Sequence Homology, Nucleic Acid, Symbiosis_
-The brown planthopper, Nilaparvata lugens, the most destructive pest of rice, is a typical monophagous herbivore that feeds exclusively on rice sap, which migrates over long distances. Outbreaks of it have re-occurred approximately every three years in Asia. It has also been used as a model system for ecological studies and for developing effective pest management. To better understand how a monophagous sap-sucking arthropod herbivore has adapted to its exclusive host selection and to provide insights to improve pest control, we analyzed the genomes of the brown planthopper and its two endosymbionts.
+Fusobacterium nucleatum is an oral anaerobe recently found to be prevalent in human colorectal cancer (CRC) where it is associated with poor treatment outcome. In mice, hematogenous F. nucleatum can colonize CRC tissue using its lectin Fap2, which attaches to tumor-displayed Gal-GalNAc. Here, we show that Gal-GalNAc levels increase as human breast cancer progresses, and that occurrence of F. nucleatum gDNA in breast cancer samples correlates with high Gal-GalNAc levels. We demonstrate Fap2-dependent binding of the bacterium to breast cancer samples, which is inhibited by GalNAc. Intravascularly inoculated Fap2-expressing F. nucleatum ATCC 23726 specifically colonize mice mammary tumors, whereas Fap2-deficient bacteria are impaired in tumor colonization. Inoculation with F. nucleatum suppresses accumulation of tumor infiltrating T cells and promotes tumor growth and metastatic progression, the latter two of which can be counteracted by antibiotic treatment. Thus, targeting F. nucleatum or Fap2 might be beneficial during treatment of breast cancer.
 
-[Source](https://doi.org/10.1101/2020.07.02.184382)
+[Source](https://www.nature.com/articles/s41467-020-16967-2?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200701&WT.ec_id=NCOMMS-20200701&sap-outbound-id=1492F391E59C70A1A7885AEEDC908CC5EE7BF8BB)
 
-10.1186/s13059-014-0521-0
-
----
-
-## Microbial control over host diet selection
-
-[Source](https://doi.org/10.1101/2020.07.02.184382)
+10.1038/s41467-020-16967-2
 
 ---
 
-## Hemolysin BL from novel Bacillus toyonensis BV-17 induces antitumor activity both in vitro and in vivo.
- 03.07.2020, _J Chen, S Hu, D Ji, Z Gao, H Wang, Y Yang, Y Chen, J Gu_
+## Enrichment of the airway microbiome in people living with HIV with potential pathogenic bacteria despite antiretroviral therapy
 
-
-The gut microbiota plays an important role in cancer development and immunotherapy. Bacterial toxins have enormous antitumor potential due to their cytotoxicity and ability to activate the immune system. Using 16S rRNA gene sequencing, we compared the gut microbiota composition of fecal samples from healthy individuals and patients with colorectal cancer (CRC) and observed that the genus Bacillus was common in the healthy donors but was absent in the CRC patients. Further, we isolated a novel Bacillus toyonensis BV-17 from the fecal samples of the healthy individuals. Our results showed that the supernatant of the Bacillus toyonensis BV-17 cultures could quickly kill various tumor cell lines within minutes in vitro, by causing cell membrane disruption, blebbing, and leakage of cytoplasmic content. Fast protein liquid chromatography (FPLC) and mass spectrometry analysis identified hemolysin BL (HBL) as the effector molecule, which exhibits a different cytotoxicity mechanism compared to previous studies. Intra-tumor injection of low dose HBL inhibited the growth of both treated and untreated tumors in mice. The outcomes of this pioneer study suggest that HBL exhibits antitumor activity and is a potential chemotherapeutic agent that could be engineered to target only tumor cells in future.
-
-[Source](https://doi.org/10.1080/19490976.2020.1782158)
-
-10.1080/19490976.2020.1782158
+[Source](https://www.sciencedirect.com/science/article/pii/S2589537020301711#sec0002)
 
 ---
 
-## Modeling the effect of DAV132, a novel colon-targeted adsorbent, on fecal concentrations of moxifloxacin and gut microbiota diversity in healthy volunteers.
- 03.07.2020, _J Guk, J Guedj, C Burdet, A Andremont, J de Gunzburg, A Ducher, F Mentré_
+## Triclosan has a robust, yet reversible impact on human gut microbial composition in vitro
 
-
-To prevent antibiotic-induced perturbations on gut microbiota, DAV132, a novel colon-targeted adsorbent, which sequesters antibiotic residues in the lower gastrointestinal tract was developed. We built an integrated pharmacological model of how DAV132 reduces fecal free moxifloxacin (MXF) and preserves gut microbiota. We used plasma and fecal free MXF concentrations, and Shannon diversity index from 16S rRNA gene metagenomics analysis of fecal microbiota, of 143 healthy volunteers assigned randomly to receive MXF only, or with ten DAV132 dose regimens, or to a control group. We modeled reduced fecal MXF concentrations using a transit model for DAV132 kinetics and a Michaelis-Menten model with an effect of the amount of activated charcoal on adsorption efficacy. Changes in MXF-induced perturbations on gut microbiota diversity were then quantified through a turn-over model with the Emax model. With the developed model, the efficiency of pharmacokinetic antagonism and its consequences on gut microbiota diversity were quantified.
-
-[Source](https://doi.org/10.1002/cpt.1977)
-
-10.1002/cpt.1977
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234046)
 
 ---
 
-## Allicin-induced host-gut microbe interactions improves energy homeostasis.
- 03.07.2020, _C Zhang, X He, Y Sheng, C Yang, J Xu, S Zheng, J Liu, W Xu, Y Luo, K Huang_
+## Alterations of gut microbiota and serum bile acids are associated with parenteral nutrition-associated liver disease
 
-
-Allicin (diallylthiosulfinate) is a natural food compound with multiple biological and pharmacological functions. However, the mechanism of beneficial role of Allicin on energy homeostasis is not well studied. Gut microbiota (GM) profoundly affects host metabolism via microbiota-host interactions and coevolution. Here, we investigated the interventions of beneficial microbiome induced by Allicin on energy homeostasis, particularly obesity, and related complications. Interestingly, Allicin treatment significantly improved GM composition and induced the most significant alteration enrichment of Bifidobacterium and Lactobacillus. Importantly, transplantation of the Allicin-induced GM to HFD mice (AGMT) played a remarkable role in decreasing adiposity, maintaining glucose homeostasis, and ameliorating hepatic steatosis. Furthermore, AGMT was effective in modulating lipid metabolism, activated brown adipose tissues (BATs), induced browning in sWAT, reduced inflammation, and inhibited the degradation of intestinal villi. Mechanically, AGMT significantly increased Blautia [short-chain fatty acids (SCFAs)-producing microbiota] and Bifidobacterium in HFD mice, also increased the SCFAs in the cecum, which has been proved many beneficial effects on energy homeostasis. Our study highlights that Allicin-induced host-gut microbe interactions plays an important role in regulating energy homeostasis, which provides a promising potential therapy for obesity and metabolic disorders based on host-microbe interactions.
-
-[Source](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fj.202001007R)
-
-10.1096/fj.202001007R
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0022346820304632)
 
 ---
 
-## Evidence of Microbiome-Drug Interactions between the Antimalarial Lumefantrine and Gut Microbiota in Mice.
- 03.07.2020, _MM Ippolito, JE Denny, E Nenortas, TA Shapiro, NW Schmidt_
+## Colonic microbiome profiles for improved feed efficiency can be identified despite major effects of farm of origin and contemporary group in pigs
 
-
-The antimalarial drug lumefantrine (LF) exhibits erratic pharmacokinetics (PK). Intersubject variability might be attributed, in part, to differences in the gut microbiome-mediated drug metabolism. We assessed LF disposition in healthy mice stratified by enterotype to explore associations between the gut microbiota and LF PK. Gut microbiota enterotypes were classified according to abundance and diversity indices from 16S rRNA sequencing. Pharmacokinetic parameters were computed using noncompartmental analysis. Two distinctive enterotypes were identified. Maximal concentration (Cmax) and total drug exposure measured as the area under the drug concentration-time curve (AUC0-24) differed significantly between the groups. The mean and SD of Cmax were 660 ± 220 ng/mL versus 390 ± 59 ng/mL (P = 0.02), and AUC0-24 was 9,600 ± 2,800 versus 5,800 ± 810 ng × h/mL (P = 0.01). In healthy mice intragastrically dosed with the antimalarial drug LF in combination with artemether, LF exposure was associated with the gut bacterial community structure. Studies of xenobiotic-microbiota interactions can inform drug posology and elucidate mechanisms of drug disposition.
-
-[Source](https://doi.org/10.4269/ajtmh.20-0333)
-
-10.4269/ajtmh.20-0333
+[Source](https://www.cambridge.org/core/journals/animal/article/colonic-microbiome-profiles-for-improved-feed-efficiency-can-be-identified-despite-major-effects-of-farm-of-origin-and-contemporary-group-in-pigs/0523363A4B7AA645446BABBF8DB8928A)
 
 ---
 
-## Contrasting effects of viscous and particulate fibers on colonic fermentation in vitro and in vivo, and their impact on intestinal water studied by MRI in a randomized trial
+## Gut microbiota profiles of commercial laying hens infected with tumorigenic viruses
 
-[Source](https://doi.org/10.1093/ajcn/nqaa173)
-
----
-
-## A theoretic approach to the mode of gut microbiome translocation in SIV-infected Asian macaques.
- 03.07.2020, _W Li, ZS Ma_
-
-
-Human gut microbiome could translocate to other tissues, and the relocation triggered by HIV/SIV infection has received increasing attention. However, the underlying mode of this translocation, whether it is deterministic or random (passive) process, is not clear, not to mention quantitative estimation of the relocation probability and rates. Using multi-tissue microbiome datasets collected from SIV-infected macaques, originally reported by Klase et al. (2015), we apply Hubbell's unified neutral theory of biodiversity (UNTB) implemented by Harris et al. (2015) in the form of multi-site neutral (MSN) model to explore the translocation mode and rates of the gut microbiome. We found that (i) The translocation from gastrointestinal tract to tissues was driven by stochastic (neutral) forces as revealed by 100% neutrality-passing rates with MSN testing; (ii) The translocation probability from gastrointestinal tract to tissues is significantly larger than the baseline dispersal rates occurring within gastrointestinal tract (0.234 vs. 0.006 at the phylum level, p&lt;0.001). (iii) Approximately 23% of phyla and 55% of genera were migrated from gastrointestinal tract to the tissues (liver and mesenteric lymph nodes). Our findings offer the first interpretation of the microbial translocation mode from gastrointestinal tract to tissues, and the first estimates of the translocation probability and level.
-
-[Source](https://doi.org/10.1093/femsec/fiaa134)
-
-10.1093/femsec/fiaa134
+[Source](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-020-02430-3)
 
 ---
 
-## Impact of Initial Feeding and Molting on Tachypleus tridentatus Gut Microbiota.
- 03.07.2020, _F Miao, Z Zhao, Q Li, J Song, Y Wang, M Hu_
+## Alterations of gut microbiota contribute to the progression of unruptured intracranial aneurysms
 
-
-Tri-spine horseshoe crabs (HSCs) Tachypleus tridentatus have been facing the threat of population depletion for decades, and the physiology and microbiology of their early life stages are lacking. To explore what directs the change of juvenile T. tridentatus gut microbiota and how gut microbiota change, by using 16S rRNA sequencing of gut samples we detected the intestinal microbiome of juvenile HSCs and compared the impact of initial molting and initial feeding, as well as the effect of environment. Results showed that the predominant phyla in the gut microbial community of juvenile HSCs are Proteobacteria and Bacteroidetes. The richness and diversity of intestinal microbes greatly decreased after initial molting. Microbial-mediated functions predicted by PICRUSt showed that "Signal Transduction", "Cellular Processes and Signaling", "Infective Diseases" and "Digestive System" pathways significantly increased in 2nd instars. As for the effect of environment, the connection between living environment and the intestinal microbiome started to manifest after initial molting. Unexpectedly, initial feeding treatment slightly affected the intestinal microbiome of T. tridentatus in the early life stage, whereas the effect of initial molting was significant. The present study provided the first insight into the gut microbiota of T. tridentatus, and the findings led a new sight to explain what guide the change of gut microbiota.
-
-[Source](https://doi.org/10.1007/s00284-020-02108-x)
-
-10.1007/s00284-020-02108-x
+[Source](https://www.nature.com/articles/s41467-020-16990-3?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200701&WT.ec_id=NCOMMS-20200701&sap-outbound-id=1492F391E59C70A1A7885AEEDC908CC5EE7BF8BB)
 
 ---
 
-## Osmotic stress induces gut microbiota community shift in fish.
- 03.07.2020, _KP Lai, X Lin, N Tam, JCH Ho, MK Wong, J Gu, TF Chan, WKF Tse_
+## The Effects of Nutrition on the Gastrointestinal Microbiome of Cats and Dogs: Impact on Health and Disease
 
-
-Alteration of the gut microbiota plays an important role in animal health and metabolic diseases. However, little is known with respect to the influence of environmental osmolality on the gut microbial community. The aim of the current study was to determine whether the reduction in salinity affects the gut microbiota and identify its potential role in salinity acclimation. Using Oryzias melastigma as a model organism to perform progressive hypotonic transfer experiments, we evaluated three conditions: seawater control (SW), SW to 50% sea water transfer (SFW), and SW to SFW to freshwater transfer (FW). Our results showed that the SFW and FW transfer groups contained higher operational taxonomic unit microbiota diversities. The dominant bacteria in all conditions constituted the phylum Proteobacteria, with the majority in the SW and SFW transfer gut comprising Vibrio at the genus level, whereas this population was replaced by Pseudomonas in the FW transfer gut. Furthermore, our data revealed that the FW transfer gut microbiota exhibited a reduced renin-angiotensin system, which is important in SW acclimation. In addition, induced detoxification and immune mechanisms were found in the FW transfer gut microbiota. The shift of the bacteria community in different osmolality environments indicated possible roles of bacteria in facilitating host acclimation. This article is protected by copyright. All rights reserved.
-
-[Source](https://doi.org/10.1111/1462-2920.15150)
-
-10.1111/1462-2920.15150
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01266/full)
 
 ---
 
-## The Gut-Eye Axis: Lessons Learned from Murine Models.
- 03.07.2020, _JL Floyd, MB Grant_
+## Individual and Site-Specific Variation in a Biogeographical Profile of the Coyote Gastrointestinal Microbiota
 
-
-A healthy gut microbiota is essential in maintaining the human body in a homeostatic state by its functions in digestion and immune tolerance. Under states of aberrant microbial composition or function (dysbiosis), the gut microbiota induces systemic inflammation that can lead to the onset of many diseases. In this review, we describe some evidence, largely from rodent studies, that supports the possible role of a dysbiotic gut microbiota in the onset and exacerbation of ocular diseases, primarily diabetic retinopathy, age-related macular degeneration, choroidal neovascularization, and uveitis. Furthermore, we examine several potential therapeutic measures that show promise in restoring the gut microbiota to a eubiotic state, preventing the aforementioned disease pathologies.
-
-[Source](https://doi.org/10.1007/s40123-020-00278-2)
-
-10.1007/s40123-020-00278-2
+[Source](https://link.springer.com/article/10.1007/s00248-020-01547-0)
 
 ---
 
-## The colonic mucosa-associated microbiome in SIV infection: shift towards Bacteroidetes coincides with mucosal CD4+ T cell depletion and enterocyte damage.
- 03.07.2020, _K Allers, C Stahl-Hennig, T Fiedler, D Wibberg, J Hofmann, D Kunkel, V Moos, B Kreikemeyer, J Kalinowski, T Schneider_
+## Assessment of bacterial diversity of Rhipicephalus microplus ticks from two livestock agroecosystems in Antioquia, Colombia
 
-
-The intesinal microbiome is considered important in human immunodeficiency virus (HIV) pathogenesis and therefore represents a potential therapeutic target to improve the patients' health status. Longitudinal alterations in the colonic mucosa-associated microbiome during simian immunodeficiency virus (SIV) infection were investigated using a 16S rRNA amplicon approach on the Illumina sequencing platform and bioinformatics analyses. Following SIV infection of six animals, no alterations in microbial composition were observed before the viral load peaked in the colon. At the time of acute mucosal SIV replication, the phylum Bacteroidetes including the Bacteroidia class as well as the phylum Firmicutes and its families Ruminococcaceae and Eubacteriaceae became more abundant. Enrichment of Bacteroidetes was maintained until the chronic phase of SIV infection. The shift towards Bacteroidetes in the mucosa-associated microbiome was associated with the extent of SIV infection-induced mucosal CD4+ T cell depletion and correlated with increasing rates of enterocyte damage. These observations suggest that Bacteroidetes strains increase during virus-induced mucosal immune destruction. As Bacteroidetes belong to the lipopolysaccharide- and short chain fatty acids-producing bacteria, their rapid enrichment may contribute to inflammatory tissue damage and metabolic alterations in SIV/HIV infection. These aspects should be considered in future studies on therapeutic interventions.
-
-[Source](https://doi.org/10.1038/s41598-020-67843-4)
-
-10.1038/s41598-020-67843-4
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234005)
 
 ---
 
-## Re-Analysis of 16S Amplicon Sequencing Data Reveals Soil Microbial Population Shifts in Rice Fields under Drought Condition.
- 03.07.2020, _SW Jang, MH Yoou, WJ Hong, YJ Kim, EJ Lee, KH Jung_
+## Microbiome diversity in Diaphorina citri populations from Kenya and Tanzania shows links to China.
+ 01.07.2020, _IJ Ajene, FM Khamis, B van Asch, G Pietersen, BA Rasowo, FL Ombura, AW Wairimu, KS Akutse, M Sétamou, S Mohamed, S Ekesi_
 
 
-Rice (Oryza sativa. L) has been intensively studied to ensure a stable global supply of this commodity in the face of rapid global climate change. A critical factor that decreases crop yield is drought, which has been analyzed in various ways through many researches. Microbiome-based studies of rice investigate the symbiosis between rice and bacteria, which has been proposed as a way to overcome problems caused by drought. Several rice-associated metagenomic profiles obtained under drought conditions have been reported since the advent of next generation sequencing (NGS) technology. To elucidate the future diversity of plants and microorganisms and to promote sustainable agriculture, we reanalyzed 64 of the publicly available 16S amplicon sequencing data produced under drought condition. In the process of integrating data sets, however, we found an inconsistency that serves as a bottleneck for microbiome-based sustainability research. While this report provides clues about the composition of the microbiome under the drought conditions, the results are affected by differences in the location of the experiments, sampling conditions, and analysis protocols. Re-analysis of amplicon sequencing data of the soil microbiome in rice fields suggests that microbial composition shifts in response to drought condition and the presence of plants. Among the bacteria involved, the phylum Proteobacteria appears to play the most important role in the survival of rice under drought condition.
+The Asian citrus psyllid (Diaphorina citri) is a key pest of Citrus spp. worldwide, as it acts as a vector for "Candidatus Liberibacter asiaticus (Las)", the bacterial pathogen associated with the destructive Huanglongbing (HLB) disease. Recent detection of D. citri in Africa and reports of Las-associated HLB in Ethiopia suggest that the citrus industry on the continent is under imminent threat. Endosymbionts and gut bacteria play key roles in the biology of arthropods, especially with regards to vector-pathogen interactions and resistance to antibiotics. Thus, we aim to profile the bacterial genera and to identify antibiotic resistance genes within the microbiome of different populations worldwide of D. citri. The metagenome of D. citri was sequenced using the Oxford Nanopore full-length 16S metagenomics protocol, and the "What's in my pot" (WIMP) analysis pipeline. Microbial diversity within and between D. citri populations was assessed, and antibiotic resistance genes were identified using the WIMP-ARMA workflow. The most abundant genera were key endosymbionts of D. citri ("Candidatus Carsonella", "Candidatus Profftella", and Wolbachia). The Shannon diversity index showed that D. citri from Tanzania had the highest diversity of bacterial genera (1.92), and D. citri from China had the lowest (1.34). The Bray-Curtis dissimilarity showed that China and Kenya represented the most diverged populations, while the populations from Kenya and Tanzania were the least diverged. The WIMP-ARMA analyses generated 48 CARD genes from 13 bacterial species in each of the populations. Spectinomycin resistance genes were the most frequently found, with an average of 65.98% in all the populations. These findings add to the knowledge on the diversity of the African D. citri populations and the probable introduction source of the psyllid in these African countries.
 
-[Source](https://doi.org/10.1186/s12284-020-00403-6)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235348)
 
-10.1186/s12284-020-00403-6
-
----
-
-## Integrated network modeling approach defines key metabolic responses of soil microbiomes to perturbations.
- 03.07.2020, _RS McClure, JY Lee, TR Chowdhury, EM Bottos, RA White, YM Kim, CD Nicora, TO Metz, KS Hofmockel, JK Jansson, HS Song_
-
-
-The soil environment is constantly changing due to shifts in soil moisture, nutrient availability and other conditions. To contend with these changes, soil microorganisms have evolved a variety of ways to adapt to environmental perturbations, including regulation of gene expression. However, it is challenging to untangle the complex phenotypic response of the soil to environmental change, partly due to the absence of predictive modeling frameworks that can mechanistically link molecular-level changes in soil microorganisms to a community's functional phenotypes (or metaphenome). Towards filling this gap, we performed a combined analysis of metabolic and gene co-expression networks to explore how the soil microbiome responded to changes in soil moisture and nutrient conditions and to determine which genes were expressed under a given condition. Our integrated modeling approach revealed previously unknown, but critically important aspects of the soil microbiomes' response to environmental perturbations. Incorporation of metabolomic and transcriptomic data into metabolic reaction networks identified condition-specific signature genes that are uniquely associated with dry, wet, and glycine-amended conditions. A subsequent gene co-expression network analysis revealed that drought-associated genes occupied more central positions in a network model of the soil community, compared to the genes associated with wet, and glycine-amended conditions. These results indicate the occurrence of system-wide metabolic coordination when soil microbiomes cope with moisture or nutrient perturbations. Importantly, the approach that we demonstrate here to analyze large-scale multi-omics data from a natural soil environment is applicable to other microbiome systems for which multi-omics data are available.
-
-[Source](https://doi.org/10.1038/s41598-020-67878-7)
-
-10.1038/s41598-020-67878-7
+10.1371/journal.pone.0235348
 
 ---
 
-## Potential microbial bioindicators of phosphorus mining in a temperate deciduous forest
+## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices.
+ 26.06.2020, _A Zambounis, I Ganopoulos, A Tsaftaris, D Valasiadis, P Madesis_
 
-[Source](https://doi.org/10.1111/jam.14761)
 
----
+An amplicon metagenomic approach based on the ITS1 region of fungal rDNA was employed to identify the composition of fungal communities associated with diseases of pear fruits during postharvest storage. The sampled fruits were harvested at an orchard using routine management practices involving treatments with various chemical fungicides and were transferred to a storage packinghouse. Effective tags of reading sequences clustered into 53 OTUs whereas Ascomycota was the dominant phylum (83.4%) followed by Basidiomycota (15.8%). Our results revealed that four genera, Penicillium, Rhodotorula, Alternaria and Cladosporium were the most abundant representing 59-95% of the relative abundance per sample. The interruption of chemical treatments during the last month before harvest altered the structure of the fungal community of fruits among untreated and treated samples, mainly in cases of relative abundance of Penicillium and Rhodotorula genera. We hypothesize that various antagonistic interactions might occur on fruit surfaces among the detected fungal genera whose relative abundances were affected by fungicide treatments. Interestingly, some common pre- and postharvest pear fungal pathogens were either less present (such as Moniliana), or undetected (such as Aspergillus, Venturia and Septoria) in untreated and treated samples.
 
-## Phylogenetic signals and predictability in plant-soil feedbacks
+[Source](https://link.springer.com/article/10.1007/s00203-020-01960-6)
 
-[Source](https://doi.org/10.1111/nph.16768)
-
----
-
-## The compact genome of Giardia muris reveals important steps in the evolution of intestinal protozoan parasites
-
-[Source](https://doi.org/10.1099/mgen.0.000402)
+10.1007/s00203-020-01960-6
 
 ---
 
-## LEMMI: A continuous benchmarking platform for metagenomics classifiers
+## The Efficacy of Hydrogen Peroxide in Mitigating Cyanobacterial Blooms and Altering Microbial Communities across Four Lakes in NY, USA.
+ 02.07.2020, _MW Lusty, CJ Gobler_
 
-[Source](https://doi.org/10.1101/gr.260398.119)
 
----
+Hydrogen peroxide (H2O2) has been proposed as an agent to mitigate toxic cyanobacterial blooms due to the heightened sensitivity of cyanobacteria to reactive oxygen species relative to eukaryotic organisms. Here, experiments were conducted using water from four diverse, eutrophic lake ecosystems to study the effects of H2O2 on cyanobacteria and non-target members of the microbial community. H2O2 was administered at 4 µg L-1 and a combination of fluorometry, microscopy, flow cytometry, and high throughput DNA sequencing were used to quantify the effects on eukaryotic and prokaryotic plankton communities. The addition of H2O2 resulted in a significant reduction in cyanobacteria levels in nearly all experiments (10 of 11), reducing their relative abundance from, on average, 85% to 29% of the total phytoplankton community with Planktothrix being highly sensitive, Microcystis being moderately sensitive, and Cylindrospermopsis being most resistant. Concurrently, eukaryotic algal levels increased in 75% of experiments. The bacterial phyla Actinobacteria, cyanobacteria, Planctomycetes, and Verrucomicrobia were most negatively impacted by H2O2, with Actinobacteria being the most sensitive. The ability of H2O2 to reduce, but not fully eliminate, cyanobacteria from the eutrophic water bodies studied here suggests it may not be an ideal mitigation approach in high biomass ecosystems.
 
-## Metagenome-assembled genomes from Monte Cristo Cave (Diamantina, Brazil) reveal prokaryotic lineages as functional models for life on Mars
+[Source](https://www.mdpi.com/2072-6651/12/7/428)
 
-[Source](https://doi.org/10.1101/2020.07.02.185041)
-
----
-
-## Exploring metal resistance genes and mechanisms in copper enriched metal ore metagenome
-
-[Source](https://doi.org/10.1101/2020.07.02.184564)
+10.3390/toxins12070428
 
 ---
 
-## Alpha-1 antitrypsin inhibits SARS-CoV-2 infection
+## Seasonal effects of river flow on microbial community coalescence and diversity in a riverine network
 
-[Source](https://doi.org/10.1101/2020.07.02.183764)
+[Source](https://academic.oup.com/femsec/article-abstract/doi/10.1093/femsec/fiaa132/5864679)
+
+---
+
+## Microbial community composition across a coastal hydrological system affected by submarine groundwater discharge (SGD).
+ 29.06.2020, _D Adyasari, C Hassenrück, D Montiel, N Dimova_
+
+
+Mobile Bay, the fourth largest estuary in the USA located in the northern Gulf of Mexico, is known for extreme hypoxia in the water column during dry season caused by NH4+-rich and anoxic submarine groundwater discharge (SGD). Nutrient dynamics in the coastal ecosystem point to potentially elevated microbial activities; however, little is known about microbial community composition and their functional roles in this area. In this study, we investigated microbial community composition, distribution, and metabolic prediction along the coastal hydrological compartment of Mobile Bay using 16S rRNA gene sequencing. We collected microbial samples from surface (river and bay water) and subsurface water (groundwater and coastal pore water from two SGD sites with peat and sandy lithology, respectively). Salinity was identified as the primary factor affecting the distribution of microbial communities across surface water samples, while DON and PO43- were the major predictor of community shift within subsurface water samples. Higher microbial diversity was found in coastal pore water in comparison to surface water samples. Gammaproteobacteria, Bacteroidia, and Oxyphotobacteria dominated the bacterial community. Among the archaea, methanogens were prevalent in the peat-dominated SGD site, while the sandy SGD site was characterized by a higher proportion of ammonia-oxidizing archaea. Cyanobium PCC-6307 and unclassified Thermodesulfovibrionia were identified as dominant taxa strongly associated with trends in environmental parameters in surface and subsurface samples, respectively. Microbial communities found in the groundwater and peat layer consisted of taxa known for denitrification and dissimilatory nitrate reduction to ammonium (DNRA). This finding suggested that microbial communities might also play a significant role in mediating nitrogen transformation in the SGD flow path and in affecting the chemical composition of SGD discharging to the water column. Given the ecological importance of microorganisms, further studies at higher taxonomic and functional resolution are needed to accurately predict chemical biotransformation processes along the coastal hydrological continuum, which influence water quality and environmental condition in Mobile Bay.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235235)
+
+10.1371/journal.pone.0235235
+
+---
+
+## The contribution of microbial communities in polymetallic nodulesto the diversity of the deep-sea microbiome of the Peru Basin(4130–4198 m depth)
+
+[Source](https://search.proquest.com/openview/0d4825347abbd0c1109c9780167686d2/1?pq-origsite=gscholar&cbl=105740)
+
+---
+
+## Toward a systematic design of smart probiotics
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300586)
+
+---
+
+## A Novel Non-Digestible, Carrot-Derived Polysaccharide (cRG-I) Selectively Modulates the Human Gut Microbiota while Promoting Gut Barrier Integrity: An Integrated In Vitro Approach
+
+[Source](https://pubmed.ncbi.nlm.nih.gov/32610452/)
+
+---
+
+## What Is Metagenomics Teaching Us, and What Is Missed?
+
+[Source](https://www.annualreviews.org/doi/abs/10.1146/annurev-micro-012520-072314)
 
 ---
 
