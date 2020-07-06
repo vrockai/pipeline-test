@@ -76,27 +76,15 @@ Fusobacterium nucleatum is an oral anaerobe recently found to be prevalent in hu
 
 ---
 
-## Microbiome diversity in Diaphorina citri populations from Kenya and Tanzania shows links to China.
- 01.07.2020, _IJ Ajene, FM Khamis, B van Asch, G Pietersen, BA Rasowo, FL Ombura, AW Wairimu, KS Akutse, M Sétamou, S Mohamed, S Ekesi_
-
-
-The Asian citrus psyllid (Diaphorina citri) is a key pest of Citrus spp. worldwide, as it acts as a vector for "Candidatus Liberibacter asiaticus (Las)", the bacterial pathogen associated with the destructive Huanglongbing (HLB) disease. Recent detection of D. citri in Africa and reports of Las-associated HLB in Ethiopia suggest that the citrus industry on the continent is under imminent threat. Endosymbionts and gut bacteria play key roles in the biology of arthropods, especially with regards to vector-pathogen interactions and resistance to antibiotics. Thus, we aim to profile the bacterial genera and to identify antibiotic resistance genes within the microbiome of different populations worldwide of D. citri. The metagenome of D. citri was sequenced using the Oxford Nanopore full-length 16S metagenomics protocol, and the "What's in my pot" (WIMP) analysis pipeline. Microbial diversity within and between D. citri populations was assessed, and antibiotic resistance genes were identified using the WIMP-ARMA workflow. The most abundant genera were key endosymbionts of D. citri ("Candidatus Carsonella", "Candidatus Profftella", and Wolbachia). The Shannon diversity index showed that D. citri from Tanzania had the highest diversity of bacterial genera (1.92), and D. citri from China had the lowest (1.34). The Bray-Curtis dissimilarity showed that China and Kenya represented the most diverged populations, while the populations from Kenya and Tanzania were the least diverged. The WIMP-ARMA analyses generated 48 CARD genes from 13 bacterial species in each of the populations. Spectinomycin resistance genes were the most frequently found, with an average of 65.98% in all the populations. These findings add to the knowledge on the diversity of the African D. citri populations and the probable introduction source of the psyllid in these African countries.
+## Microbiome diversity in Diaphorina citri populations from Kenya and Tanzania shows links to China 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235348)
 
-10.1371/journal.pone.0235348
-
 ---
 
-## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices.
- 26.06.2020, _A Zambounis, I Ganopoulos, A Tsaftaris, D Valasiadis, P Madesis_
-
-
-An amplicon metagenomic approach based on the ITS1 region of fungal rDNA was employed to identify the composition of fungal communities associated with diseases of pear fruits during postharvest storage. The sampled fruits were harvested at an orchard using routine management practices involving treatments with various chemical fungicides and were transferred to a storage packinghouse. Effective tags of reading sequences clustered into 53 OTUs whereas Ascomycota was the dominant phylum (83.4%) followed by Basidiomycota (15.8%). Our results revealed that four genera, Penicillium, Rhodotorula, Alternaria and Cladosporium were the most abundant representing 59-95% of the relative abundance per sample. The interruption of chemical treatments during the last month before harvest altered the structure of the fungal community of fruits among untreated and treated samples, mainly in cases of relative abundance of Penicillium and Rhodotorula genera. We hypothesize that various antagonistic interactions might occur on fruit surfaces among the detected fungal genera whose relative abundances were affected by fungicide treatments. Interestingly, some common pre- and postharvest pear fungal pathogens were either less present (such as Moniliana), or undetected (such as Aspergillus, Venturia and Septoria) in untreated and treated samples.
+## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices
 
 [Source](https://link.springer.com/article/10.1007/s00203-020-01960-6)
-
-10.1007/s00203-020-01960-6
 
 ---
 
