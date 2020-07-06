@@ -82,27 +82,15 @@ Fusobacterium nucleatum is an oral anaerobe recently found to be prevalent in hu
 
 ---
 
-## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices.
- 26.06.2020, _A Zambounis, I Ganopoulos, A Tsaftaris, D Valasiadis, P Madesis_
-
-
-An amplicon metagenomic approach based on the ITS1 region of fungal rDNA was employed to identify the composition of fungal communities associated with diseases of pear fruits during postharvest storage. The sampled fruits were harvested at an orchard using routine management practices involving treatments with various chemical fungicides and were transferred to a storage packinghouse. Effective tags of reading sequences clustered into 53 OTUs whereas Ascomycota was the dominant phylum (83.4%) followed by Basidiomycota (15.8%). Our results revealed that four genera, Penicillium, Rhodotorula, Alternaria and Cladosporium were the most abundant representing 59-95% of the relative abundance per sample. The interruption of chemical treatments during the last month before harvest altered the structure of the fungal community of fruits among untreated and treated samples, mainly in cases of relative abundance of Penicillium and Rhodotorula genera. We hypothesize that various antagonistic interactions might occur on fruit surfaces among the detected fungal genera whose relative abundances were affected by fungicide treatments. Interestingly, some common pre- and postharvest pear fungal pathogens were either less present (such as Moniliana), or undetected (such as Aspergillus, Venturia and Septoria) in untreated and treated samples.
+## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices
 
 [Source](https://link.springer.com/article/10.1007/s00203-020-01960-6)
 
-10.1007/s00203-020-01960-6
-
 ---
 
-## The Efficacy of Hydrogen Peroxide in Mitigating Cyanobacterial Blooms and Altering Microbial Communities across Four Lakes in NY, USA.
- 02.07.2020, _MW Lusty, CJ Gobler_
-
-
-Hydrogen peroxide (H2O2) has been proposed as an agent to mitigate toxic cyanobacterial blooms due to the heightened sensitivity of cyanobacteria to reactive oxygen species relative to eukaryotic organisms. Here, experiments were conducted using water from four diverse, eutrophic lake ecosystems to study the effects of H2O2 on cyanobacteria and non-target members of the microbial community. H2O2 was administered at 4 µg L-1 and a combination of fluorometry, microscopy, flow cytometry, and high throughput DNA sequencing were used to quantify the effects on eukaryotic and prokaryotic plankton communities. The addition of H2O2 resulted in a significant reduction in cyanobacteria levels in nearly all experiments (10 of 11), reducing their relative abundance from, on average, 85% to 29% of the total phytoplankton community with Planktothrix being highly sensitive, Microcystis being moderately sensitive, and Cylindrospermopsis being most resistant. Concurrently, eukaryotic algal levels increased in 75% of experiments. The bacterial phyla Actinobacteria, cyanobacteria, Planctomycetes, and Verrucomicrobia were most negatively impacted by H2O2, with Actinobacteria being the most sensitive. The ability of H2O2 to reduce, but not fully eliminate, cyanobacteria from the eutrophic water bodies studied here suggests it may not be an ideal mitigation approach in high biomass ecosystems.
+## The Efficacy of Hydrogen Peroxide in Mitigating Cyanobacterial Blooms and Altering Microbial Communities across Four Lakes in NY, USA 
 
 [Source](https://www.mdpi.com/2072-6651/12/7/428)
-
-10.3390/toxins12070428
 
 ---
 
