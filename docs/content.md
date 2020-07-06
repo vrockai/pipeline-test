@@ -82,9 +82,15 @@ Fusobacterium nucleatum is an oral anaerobe recently found to be prevalent in hu
 
 ---
 
-## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices
+## Metagenomics analysis of fungal communities associated with postharvest diseases in pear fruits under the effect of management practices.
+ 26.06.2020, _A Zambounis, I Ganopoulos, A Tsaftaris, D Valasiadis, P Madesis_
+
+
+An amplicon metagenomic approach based on the ITS1 region of fungal rDNA was employed to identify the composition of fungal communities associated with diseases of pear fruits during postharvest storage. The sampled fruits were harvested at an orchard using routine management practices involving treatments with various chemical fungicides and were transferred to a storage packinghouse. Effective tags of reading sequences clustered into 53 OTUs whereas Ascomycota was the dominant phylum (83.4%) followed by Basidiomycota (15.8%). Our results revealed that four genera, Penicillium, Rhodotorula, Alternaria and Cladosporium were the most abundant representing 59-95% of the relative abundance per sample. The interruption of chemical treatments during the last month before harvest altered the structure of the fungal community of fruits among untreated and treated samples, mainly in cases of relative abundance of Penicillium and Rhodotorula genera. We hypothesize that various antagonistic interactions might occur on fruit surfaces among the detected fungal genera whose relative abundances were affected by fungicide treatments. Interestingly, some common pre- and postharvest pear fungal pathogens were either less present (such as Moniliana), or undetected (such as Aspergillus, Venturia and Septoria) in untreated and treated samples.
 
 [Source](https://link.springer.com/article/10.1007/s00203-020-01960-6)
+
+10.1007/s00203-020-01960-6
 
 ---
 
