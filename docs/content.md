@@ -119,28 +119,9 @@ Microbial cells secrete numerous enzymes, scavenging molecules, and signals that
 
 ---
 
-## GraphBin: refined binning of metagenomic contigs using assembly graphs.
- 03.06.2020, _V Mallawaarachchi, A Wickramarachchi, Y Lin_
-
-
-The field of metagenomics has provided valuable insights into the structure, diversity and ecology within microbial communities. One key step in metagenomics analysis is to assemble reads into longer contigs which are then binned into groups of contigs that belong to different species present in the metagenomic sample. Binning of contigs plays an important role in metagenomics and most available binning algorithms bin contigs using genomic features such as oligonucleotide/k-mer composition and contig coverage. As metagenomic contigs are derived from the assembly process, they are output from the underlying assembly graph which contains valuable connectivity information between contigs that can be used for binning.
+## GraphBin: refined binning of metagenomic contigs using assembly graphs
 
 [Source](https://academic.oup.com/bioinformatics/article-abstract/36/11/3307/5804980)
-
-10.1093/bioinformatics/btaa180
-
----
-
-## NG-meta-profiler: fast processing of metagenomes using NGLess, a domain-specific language.
- 07.05.2020, _LP Coelho, R Alves, P Monteiro, J Huerta-Cepas, AT Freitas, P Bork_
-
-
-_Algorithms, Computational Biology, High-Throughput Nucleotide Sequencing, Metagenome, Metagenomics, Programming Languages, Reproducibility of Results, Sequence Analysis, DNA_
-Shotgun metagenomes contain a sample of all the genomic material in an environment, allowing for the characterization of a microbial community. In order to understand these communities, bioinformatics methods are crucial. A common first step in processing metagenomes is to compute abundance estimates of different taxonomic or functional groups from the raw sequencing data. Given the breadth of the field, computational solutions need to be flexible and extensible, enabling the combination of different tools into a larger pipeline.
-
-[Source](https://bioinformatics.chat/ngless)
-
-10.1186/s40168-019-0684-8
 
 ---
 
