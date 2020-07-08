@@ -53,18 +53,6 @@ Microbial cells secrete numerous enzymes, scavenging molecules, and signals that
 
 ---
 
-## Plasma Short-Chain Fatty Acids in Patients With Parkinson's Disease.
- 22.06.2020, _C Shin, Y Lim, H Lim, TB Ahn_
-
-
-Short-chain fatty acids are exclusively produced by gut microbiota and are reduced in feces of patients with Parkinson's disease (PD). The objective of this study was to conduct a case-control study on peripheral concentration of short-chain fatty acids based on evidence of pathologic changes in the blood-brain barrier in PD and the possible role of short-chain fatty acids in blood-brain barrier permeability.
-
-[Source](https://www.medrxiv.org/content/10.1101/2020.06.15.20131011v1.full.pdf)
-
-10.1002/mds.28016
-
----
-
 ## Relationships of gut microbiota, short-chain fatty acids, inflammation, and the gut barrier in Parkinson’s disease
 
 [Source](https://www.medrxiv.org/content/10.1101/2020.06.15.20131011v1.full.pdf)
@@ -77,15 +65,9 @@ Short-chain fatty acids are exclusively produced by gut microbiota and are reduc
 
 ---
 
-## Architecture and function of human uromodulin filaments in urinary tract infections.
- 03.07.2020, _GL Weiss, JJ Stanisich, MM Sauer, CW Lin, J Eras, DS Zyla, J Trück, O Devuyst, M Aebi, M Pilhofer, R Glockshuber_
-
-
-Uromodulin is the most abundant protein in human urine and forms filaments that antagonize the adhesion of uropathogens; however, filament structure and mechanism of protection remain poorly understood. We used cryo-electron tomography to show that the uromodulin filament consists of a zigzag-shaped backbone with laterally protruding arms. N-glycosylation mapping and biophysical assays revealed that uromodulin acts as a multivalent ligand for the bacterial type 1 pilus adhesin, presenting specific epitopes on the regularly spaced arms. Imaging of uromodulin-uropathogen interactions in vitro and in patient urine showed that uromodulin filaments associate with uropathogens and mediate bacterial aggregation, which likely prevents adhesion and allows clearance by micturition. These results provide a framework for understanding uromodulin in urinary tract infections and in its more enigmatic roles in physiology and disease.
+## Architecture and function of human uromodulin filaments in urinary tract infections
 
 [Source](https://science.sciencemag.org/content/early/2020/07/01/science.aaz9866)
-
-10.1126/science.aaz9866
 
 ---
 
@@ -95,27 +77,15 @@ Uromodulin is the most abundant protein in human urine and forms filaments that 
 
 ---
 
-## Synchronous genitourinary lichen sclerosus signals a distinct urinary microbiome profile in men with urethral stricture disease.
- 10.04.2020, _AJ Cohen, TW Gaither, S Srirangapatanam, ER Castellanos, A Enriquez, KB Fergus, D Fadrosh, S Lynch, NA Mmonu, BN Breyer_
-
-
-Alterations in the urinary microbiome have been associated with urological diseases. The microbiome of patients with urethral stricture disease (USD) remains unknown. Our objective is to examine the microbiome of USD with a focus on inflammatory USD caused by lichen sclerosus (LS).
+## Synchronous genitourinary lichen sclerosus signals a distinct urinary microbiome profile in men with urethral stricture disease
 
 [Source](https://link.springer.com/article/10.1007/s00345-020-03198-9)
 
-10.1007/s00345-020-03198-9
-
 ---
 
-## Human urine 1H NMR metabolomics reveals alterations of the protein and carbohydrate metabolism when comparing habitual Average Danish diet vs. healthy New Nordic diet.
- 03.07.2020, _A Trimigno, B Khakimov, F Savorani, SK Poulsen, A Astrup, LO Dragsted, SB Engelsen_
-
-
-The aim of this study was to investigate the alteration of the human urine metabolome by means of diet and to compare the metabolic effects of the nutritionally healthy New Nordic Diet (NND) with an Average Danish Diet (ADD). The NND was designed a decade ago by scientists and chefs, based on local and sustainable foods, including fish, shellfish, vegetables, roots, fruit, and berries. The NND has been proven to lower blood pressure, reduce glycemia, and lead to weight loss.
+## Human urine 1H NMR metabolomics reveals alterations of the protein and carbohydrate metabolism when comparing habitual Average Danish diet vs. healthy New Nordic diet
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0899900720301507)
-
-10.1016/j.nut.2020.110867
 
 ---
 
@@ -125,33 +95,15 @@ The aim of this study was to investigate the alteration of the human urine metab
 
 ---
 
-## Molecular analysis of the dominant lactic acid bacteria of chickpea liquid starters and doughs and propagation of chickpea sourdoughs with selected Weissella confusa.
- 17.06.2020, _CP Boyaci Gunduz, R Gaglio, E Franciosi, L Settanni, H Erten_
-
-
-Fermented chickpea liquid is used as a leavening agent in chickpea bread production. In the present study, traditional chickpea liquid starter and dough samples were collected from bakeries in Turkey and microbiologically investigated. Culture-independent analysis for microbiota diversity, performed by MiSeq Illumina, identified Clostridium perfringens as major group in all samples, while Weissella spp. Dominated LAB community. A culture-dependent methodology was applied and 141 isolates were confirmed to be members of the LAB group based on 16s rRNA gene sequence analysis. In particular, 11 different LAB species were identified confirming the high frequency of isolation of weissellas, since Weissella confusa and Weissella cibaria constituted 47.8 and 12.4%, respectively, of total LAB isolated. The other species were Enterococcus faecium, Enterococcus lactis, Lactobacillus brevis, Lactobacillus plantarum, Leuconostoc mesenteroides, Leuconostoc mesenteroides subsp. Dextranium, Pediococcus acidilactici, Pediococcus pentosaceus and Streptococcus lutetiensis. Due to high frequency of isolation, W. confusa strains were investigated at technological level and W. confusa RL1139 was used as mono-culture starter in the experimental chickpea sourdough production. Chemical and microbiological properties, as well as volatile organic compounds (VOCs) of the chickpea liquid starters and doughs were subjected to a multivariate analysis. Control and W. confusa inoculated chickpea liquid starter and dough samples were close to each other in terms of some characteristics related to chemical, microbiological and VOCs profile, but the inoculated sourdough showed a higher generation of certain VOCs, like butanoic acid (81.52%) and ethyl acetate (8.15%) than control sourdough. This is important in order to maintain typical characteristics of the traditional chickpea dough, but at the same time improving the aroma profile. This work demonstrated that W. confusa RL1139 can be applied at large scale production level without compromising the typical characteristics of the final product.
-
-[Source](https://asm.org/Articles/2020/June/The-Sourdough-Microbiome)
-
-10.1016/j.fm.2020.103490
-
----
-
 ## The Sourdough Microbiome
 
 [Source](https://asm.org/Articles/2020/June/The-Sourdough-Microbiome)
 
 ---
 
-## Strain-Level Diversity Impacts Cheese Rind Microbiome Assembly and Function.
- 26.06.2020, _BA Niccum, EK Kastman, N Kfoury, A Robbat, BE Wolfe_
-
-
-Diversification can generate genomic and phenotypic strain-level diversity within microbial species. This microdiversity is widely recognized in populations, but the community-level consequences of microbial strain-level diversity are poorly characterized. Using the cheese rind model system, we tested whether strain diversity across microbiomes from distinct geographic regions impacts assembly dynamics and functional outputs. We first isolated the same three bacterial species (Staphylococcus equorum, Brevibacterium auranticum, and Brachybacterium alimentarium) from nine cheeses produced in different regions of the United States and Europe to construct nine synthetic microbial communities consisting of distinct strains of the same three bacterial species. Comparative genomics identified distinct phylogenetic clusters and significant variation in genome content across the nine synthetic communities. When we assembled each synthetic community with initially identical compositions, community structure diverged over time, resulting in communities with different dominant taxa. The taxonomically identical communities showed differing responses to abiotic (high salt) and biotic (the fungus Penicillium) perturbations, with some communities showing no response and others substantially shifting in composition. Functional differences were also observed across the nine communities, with significant variation in pigment production (light yellow to orange) and in composition of volatile organic compound profiles emitted from the rinds (nutty to sulfury).IMPORTANCE Our work demonstrated that the specific microbial strains used to construct a microbiome could impact the species composition, perturbation responses, and functional outputs of that system. These findings suggest that 16S rRNA gene taxonomic profiles alone may have limited potential to predict the dynamics of microbial communities because they usually do not capture strain-level diversity. Observations from our synthetic communities also suggest that strain-level diversity has the potential to drive variability in the aesthetics and quality of surface-ripened cheeses.
+## Strain-Level Diversity Impacts Cheese Rind Microbiome Assembly and Function
 
 [Source](https://msystems.asm.org/content/5/3/e00149-20)
-
-10.1128/mSystems.00149-20
 
 ---
 
