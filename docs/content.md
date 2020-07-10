@@ -1,6 +1,12 @@
-## Immunological and inflammatory profiles in mild and severe cases of COVID-19
+## Immunological and inflammatory profiles in mild and severe cases of COVID-19.
+ 09.07.2020, _JW Song, C Zhang, X Fan, FP Meng, Z Xu, P Xia, WJ Cao, T Yang, XP Dai, SY Wang, RN Xu, TJ Jiang, WG Li, DW Zhang, P Zhao, M Shi, C Agrati, G Ippolito, M Maeurer, A Zumla, FS Wang, JY Zhang_
+
+
+COVID-19 is associated with 5.1% mortality. Although the virological, epidemiological, clinical, and management outcome features of COVID-19 patients have been defined rapidly, the inflammatory and immune profiles require definition as they influence pathogenesis and clinical expression of COVID-19. Here we show lymphopenia, selective loss of CD4+ T cells, CD8+ T cells and NK cells, excessive T-cell activation and high expression of T-cell inhibitory molecules are more prominent in severe cases than in those with mild disease. CD8+ T cells in patients with severe disease express high levels of cytotoxic molecules. Histochemical studies of lung tissue from one fatality show sub-anatomical distributions of SARS-CoV-2 RNA and massive infiltration of T cells and macrophages. Thus, aberrant activation and dysregulation of CD8+ T cells occur in patients with severe COVID-19 disease, an effect that might be for pathogenesis of SARS-CoV-2 infection and indicate that immune-based targets for therapeutic interventions constitute a promising treatment for severe COVID-19 patients.
 
 [Source](https://www.nature.com/articles/s41467-020-17240-2?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200708&WT.ec_id=NCOMMS-20200708&sap-outbound-id=37DC0236ABDF2E7C049E8FED3004A6084EC6702A)
+
+10.1038/s41467-020-17240-2
 
 ---
 
