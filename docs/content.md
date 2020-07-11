@@ -65,7 +65,7 @@ Small intestinal bacterial overgrowth (SIBO) is highly prevalent and is associat
 ---
 
 ## Faecal microbiota transplantation: A life-saving therapy challenged by commercial claims for exclusivity.
- 09.07.2020, _CL Hvas, SMD Baunwall, C Erikstrup_
+ 10.07.2020, _CL Hvas, SMD Baunwall, C Erikstrup_
 
 
 Faecal microbiota transplantation (FMT) is an innovative treatment which is challenged by a regulatory struggle in Europe. A recent publication in EClinicalMedicine describes the successful adaptation of FMT to a National drug legislation, but this approach fails to take into account the donor-related aspects. The European tissue and cells directive and affiliated technical guide provide extensive safety and quality standards which may readily be adopted in an FMT service to provide patients with this life-saving treatment embedded in a public blood centre.
@@ -124,33 +124,15 @@ Faecal microbiota transplantation (FMT) is an innovative treatment which is chal
 
 ---
 
-## A genomic view of trophic and metabolic diversity in clade-specific Lamellodysidea sponge microbiomes.
- 26.06.2020, _S Podell, JM Blanton, A Oliver, MA Schorn, V Agarwal, JS Biggs, BS Moore, EE Allen_
-
-
-Marine sponges and their microbiomes contribute significantly to carbon and nutrient cycling in global reefs, processing and remineralizing dissolved and particulate organic matter. Lamellodysidea herbacea sponges obtain additional energy from abundant photosynthetic Hormoscilla cyanobacterial symbionts, which also produce polybrominated diphenyl ethers (PBDEs) chemically similar to anthropogenic pollutants of environmental concern. Potential contributions of non-Hormoscilla bacteria to Lamellodysidea microbiome metabolism and the synthesis and degradation of additional secondary metabolites are currently unknown.
-
-[Source](https://www.nature.com/articles/s41396-020-0712-5)
-
-10.1186/s40168-020-00877-y
-
----
-
 ## Anthropogenic dissolved organic carbon and marine microbiomes
 
 [Source](https://www.nature.com/articles/s41396-020-0712-5)
 
 ---
 
-## Effect of a functional fibre supplement on glycemic control when added to a year-long medically supervised weight management program in adults with type 2 diabetes.
- 09.07.2020, _RA Reimer, S Wharton, TJ Green, P Manjoo, HR Ramay, MR Lyon, RJ Gahler, S Wood_
-
-
-Soluble fibre beneficially affects metabolism but whether it can augment the reductions in glycemia induced through intensive weight management has not been extensively studied. Our objective was to examine the adjunct effect of the soluble viscous fibre PGX® on glycemic control in adults with type 2 diabetes (T2D) enrolled in a year-long medically supervised weight management program.
+## Effect of a functional fibre supplement on glycemic control when added to a year-long medically supervised weight management program in adults with type 2 diabetes
 
 [Source](https://link.springer.com/article/10.1007/s00394-020-02328-8)
-
-10.1007/s00394-020-02328-8
 
 ---
 
@@ -160,15 +142,9 @@ Soluble fibre beneficially affects metabolism but whether it can augment the red
 
 ---
 
-## SARS-CoV-2 is transmitted via contact and via the air between ferrets.
- 10.07.2020, _M Richard, A Kok, D de Meulder, TM Bestebroer, MM Lamers, NMA Okba, M Fentener van Vlissingen, B Rockx, BL Haagmans, MPG Koopmans, RAM Fouchier, S Herfst_
-
-
-SARS-CoV-2, a coronavirus that emerged in late 2019, has spread rapidly worldwide, and information about the modes of transmission of SARS-CoV-2 among humans is critical to apply appropriate infection control measures and to slow its spread. Here we show that SARS-CoV-2 is transmitted efficiently via direct contact and via the air (via respiratory droplets and/or aerosols) between ferrets, 1 to 3 days and 3 to 7 days after exposure respectively. The pattern of virus shedding in the direct contact and indirect recipient ferrets is similar to that of the inoculated ferrets and infectious virus is isolated from all positive animals, showing that ferrets are productively infected via either route. This study provides experimental evidence of robust transmission of SARS-CoV-2 via the air, supporting the implementation of community-level social distancing measures currently applied in many countries in the world and informing decisions on infection control measures in healthcare settings.
+## SARS-CoV-2 is transmitted via contact and via the air between ferrets
 
 [Source](https://www.nature.com/articles/s41467-020-17367-2?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200708&WT.ec_id=NCOMMS-20200708&sap-outbound-id=37DC0236ABDF2E7C049E8FED3004A6084EC6702A)
-
-10.1038/s41467-020-17367-2
 
 ---
 
