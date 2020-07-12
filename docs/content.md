@@ -1,5 +1,5 @@
 ## mSphere of Influence: Translating Gut Microbiome Studies To Benefit Human Health.
- 09.07.2020, _AM Seekatz_
+ 11.07.2020, _AM Seekatz_
 
 
 Anna M. Seekatz works in the field of the gut microbiome as it related to infectious diseases. In this "mSphere of Influence" article, she reflects on how two studies, "The impact of a consortium of fermented milk strains on the gut microbiome of gnotobiotic mice and monozygotic twins" (N. P. McNulty, T. Yatsunenko, A. Hsiao, et al., Sci Transl Med 3:106ra106, 2011) and "High-throughput DNA sequence analysis reveals stable engraftment of gut microbiota following transplantation of previously frozen fecal bacteria" (M. J. Hamilton, A. R. Weingarden, T. Unno, A. Khoruts, and M. J. Sadowsky, Gut Microbes 4:125-135, 2013), shaped how she approaches interpreting microbiome studies.
@@ -11,7 +11,7 @@ Anna M. Seekatz works in the field of the gut microbiome as it related to infect
 ---
 
 ## A metagenomics-based diagnostic approach for central nervous system infections in hospital acute care setting.
- 09.07.2020, _MR Hasan, S Sundararaju, P Tang, KM Tsui, AP Lopez, M Janahi, R Tan, P Tilley_
+ 11.07.2020, _MR Hasan, S Sundararaju, P Tang, KM Tsui, AP Lopez, M Janahi, R Tan, P Tilley_
 
 
 The etiology of central nervous system (CNS) infections such as meningitis and encephalitis remains unknown in a large proportion of cases partly because the diversity of pathogens that may cause CNS infections greatly outnumber available test methods. We developed a metagenomic next generation sequencing (mNGS)-based approach for broad-range detection of pathogens associated with CNS infections suitable for application in the acute care hospital setting. The analytical sensitivity of mNGS performed on an Illumina MiSeq was assessed using simulated cerebrospinal fluid (CSF) specimens (n = 9). mNGS data were then used as a training dataset to optimize a bioinformatics workflow based on the IDseq pipeline. For clinical validation, residual CSF specimens (n = 74) from patients with suspected CNS infections previously tested by culture and/or PCR, were analyzed by mNGS. In simulated specimens, the NGS reads aligned to pathogen genomes in IDseq were correlated to qPCR CT values for the respective pathogens (R = 0.96; p &lt; 0.0001), and the results were highly specific for the spiked pathogens. In clinical samples, the diagnostic accuracy, sensitivity and specificity of the mNGS with reference to conventional methods were 100%, 95% and 96%, respectively. The clinical application of mNGS holds promise to benefit patients with CNS infections of unknown etiology.
@@ -106,15 +106,9 @@ Little is known about the composition and clinical implications of lung microbio
 
 ---
 
-## Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity.
- 09.07.2020, _CT Brown, D Moritz, MP O'Brien, F Reidl, T Reiter, BD Sullivan_
-
-
-Genomes computationally inferred from large metagenomic data sets are often incomplete and may be missing functionally important content and strain variation. We introduce an information retrieval system for large metagenomic data sets that exploits the sparsity of DNA assembly graphs to efficiently extract subgraphs surrounding an inferred genome. We apply this system to recover missing content from genome bins and show that substantial genomic sequence variation is present in a real metagenome. Our software implementation is available at https://github.com/spacegraphcats/spacegraphcats under the 3-Clause BSD License.
+## Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02066-4)
-
-10.1186/s13059-020-02066-4
 
 ---
 
