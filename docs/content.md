@@ -106,9 +106,15 @@ Little is known about the composition and clinical implications of lung microbio
 
 ---
 
-## Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity
+## Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity.
+ 09.07.2020, _CT Brown, D Moritz, MP O'Brien, F Reidl, T Reiter, BD Sullivan_
+
+
+Genomes computationally inferred from large metagenomic data sets are often incomplete and may be missing functionally important content and strain variation. We introduce an information retrieval system for large metagenomic data sets that exploits the sparsity of DNA assembly graphs to efficiently extract subgraphs surrounding an inferred genome. We apply this system to recover missing content from genome bins and show that substantial genomic sequence variation is present in a real metagenome. Our software implementation is available at https://github.com/spacegraphcats/spacegraphcats under the 3-Clause BSD License.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02066-4)
+
+10.1186/s13059-020-02066-4
 
 ---
 
