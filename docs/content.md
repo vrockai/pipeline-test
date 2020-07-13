@@ -1,114 +1,125 @@
-## mSphere of Influence: Translating Gut Microbiome Studies To Benefit Human Health.
- 11.07.2020, _AM Seekatz_
+## Infested: How the bed bug infiltrated our bedrooms and took over the world
 
-
-Anna M. Seekatz works in the field of the gut microbiome as it related to infectious diseases. In this "mSphere of Influence" article, she reflects on how two studies, "The impact of a consortium of fermented milk strains on the gut microbiome of gnotobiotic mice and monozygotic twins" (N. P. McNulty, T. Yatsunenko, A. Hsiao, et al., Sci Transl Med 3:106ra106, 2011) and "High-throughput DNA sequence analysis reveals stable engraftment of gut microbiota following transplantation of previously frozen fecal bacteria" (M. J. Hamilton, A. R. Weingarden, T. Unno, A. Khoruts, and M. J. Sadowsky, Gut Microbes 4:125-135, 2013), shaped how she approaches interpreting microbiome studies.
-
-[Source](https://msphere.asm.org/content/5/4/e00592-20)
-
-10.1128/mSphere.00592-20
+[Source](https://www.goodreads.com/book/show/22859694-infested)
 
 ---
 
-## A metagenomics-based diagnostic approach for central nervous system infections in hospital acute care setting.
- 11.07.2020, _MR Hasan, S Sundararaju, P Tang, KM Tsui, AP Lopez, M Janahi, R Tan, P Tilley_
+## Lessons and recommendations from three decades as an NSF REU site: A call for systems-based assessment.
+ 28.03.2020, _AL McDevitt, MV Patel, AM Ellison_
 
 
-The etiology of central nervous system (CNS) infections such as meningitis and encephalitis remains unknown in a large proportion of cases partly because the diversity of pathogens that may cause CNS infections greatly outnumber available test methods. We developed a metagenomic next generation sequencing (mNGS)-based approach for broad-range detection of pathogens associated with CNS infections suitable for application in the acute care hospital setting. The analytical sensitivity of mNGS performed on an Illumina MiSeq was assessed using simulated cerebrospinal fluid (CSF) specimens (n = 9). mNGS data were then used as a training dataset to optimize a bioinformatics workflow based on the IDseq pipeline. For clinical validation, residual CSF specimens (n = 74) from patients with suspected CNS infections previously tested by culture and/or PCR, were analyzed by mNGS. In simulated specimens, the NGS reads aligned to pathogen genomes in IDseq were correlated to qPCR CT values for the respective pathogens (R = 0.96; p &lt; 0.0001), and the results were highly specific for the spiked pathogens. In clinical samples, the diagnostic accuracy, sensitivity and specificity of the mNGS with reference to conventional methods were 100%, 95% and 96%, respectively. The clinical application of mNGS holds promise to benefit patients with CNS infections of unknown etiology.
+For more than 30 years, the US National Science Foundation's Research Experiences for Undergraduates (REU) program has supported thousands of undergraduate researchers annually and provides many students with their first research experiences in field ecology or evolution. REUs embed students in scientific communities where they apprentice with experienced researchers, build networks with their peers, and help students understand research cultures and how to work within them. REUs are thought to provide formative experiences for developing researchers that differ from experiences in a college classrooms, laboratories, or field trips. REU assessments have improved through time but they are largely ungrounded in educational theory. Thus, evaluation of long-term impacts of REUs remains limited and best practices for using REUs to enhance student learning are repeatedly re-invented. We describe how one sociocultural learning framework, cultural-historical activity theory (CHAT), could be used to guide data collection to characterize the effects of REU programs on participant's learning in an educationally meaningful context. CHAT embodies a systems approach to assessment that accounts for social and cultural factors that influence learning. We illustrate how CHAT has guided assessment of the Harvard Forest Summer Research Program in Ecology (HF-SRPE), one of the longest-running REU sites in the United States. Characterizing HF-SRPE using CHAT helped formalize thoughts and language for the program evaluation, reflect on potential barriers to success, identify assessment priorities, and revealed important oversights in data collection.
 
-[Source](https://www.nature.com/articles/s41598-020-68159-z)
+[Source](https://nsurp.org/)
 
-10.1038/s41598-020-68159-z
-
----
-
-## Metagenomic analysis of gut microbiome and resistome of diarrheal fecal samples from Kolkata, India, reveals the core and variable microbiota including signatures of microbial dark matter
-
-[Source](https://gutpathogens.biomedcentral.com/articles/10.1186/s13099-020-00371-8)
+10.1002/ece3.6136
 
 ---
 
-## Bladder cancer-related microbiota: examining differences in urine and tissue samples.
- 10.07.2020, _B Mansour, Á Monyók, N Makra, M Gajdács, I Vadnay, B Ligeti, J Juhász, D Szabó, E Ostorházi_
+## National Summer Undergraduate Research Project
 
-
-The microbiota isolated from the urine of bladder carcinoma patients exhibits significantly increased compositional abundance of some bacterial genera compared to the urine of healthy patients. Our aim was to compare the microbiota composition of cancerous tissues and urine samples collected from the same set of patients in order to improve the accuracy of diagnostic measures. Tissue samples were collected from patients during cancer tissue removal by transurethral resection. In parallel, urine samples were obtained by transurethral resectoscopy from the same patients. The V3-V4 region of the bacterial 16S rRNA gene was sequenced and analyzed using the Kraken pipeline. In the case of four patients, duplicate microbiota analysis from distant parts of the cancerous tissues was highly reproducible, and independent of the site of tissue collection of any given patient. Akkermansia, Bacteroides, Clostridium sensu stricto, Enterobacter and Klebsiella, as "five suspect genera", were over-represented in tissue samples compared to the urine. To our knowledge, this is the first study comparing urinary and bladder mucosa-associated microbiota profiles in bladder cancer patients. More accurate characterization of changes in microbiota composition during bladder cancer progression could provide new opportunities in the development of appropriate screening or monitoring methods.
-
-[Source](https://www.nature.com/articles/s41598-020-67443-2)
-
-10.1038/s41598-020-67443-2
+[Source](https://nsurp.org/)
 
 ---
 
-## <span style="color:#008000;">Daily Vaginal Microbiota Fluctuations Associated with Natural Hormonal Cycle, Contraceptives, Diet, and Exercise</span>
+## The beta-diversity of <em>Siganus fuscescens</em>-associated microbial communities from different habitats increases with body weight
 
-[Source](https://msphere.asm.org/content/5/4/e00593-20)
-
----
-
-## Dynamics of the lung microbiome in intensive care patients with chronic obstructive pulmonary disease and community-acquired pneumonia.
- 10.07.2020, _WC Huang, MF Wu, CC Huang, SY Liu, HC Chen, YY Chen, JY Hsu, CC Huang_
-
-
-Little is known about the composition and clinical implications of lung microbiome in patients with chronic obstructive pulmonary disease (COPD) and community-acquired pneumonia requiring invasive mechanical ventilation and intensive care unit admission. Therefore, this study aimed to explore the longitudinal changes in microbial airway composition and its variations between COPD patients with different weaning outcomes. Fifty-one endotracheal aspirate samples from 21 participants and 5 saline samples were collected as the patient and control group, respectively. Sequence analysis revealed significant increases and upward trends in the relative abundance of the Acinetobacter genus and Acinetobacter baumannii complex species in paired comparisons of sampling points and over time, respectively, in patients with failed weaning (p for trend = 0.012 and 0.012, respectively) but not in those with successful weaning (p for trend = 0.335 and 0.426, respectively). Furthermore, significant changes in the composition of the bacterial community were observed in paired comparisons of sampling points in patients with failed weaning compared with those with successful weaning. The alpha diversity did not differ between the patients with different weaning outcomes. These results further the understanding of longitudinal airway microbiome structure analysis and its clinical implications when managing critically ill patients with and without COPD.
-
-[Source](https://www.nature.com/articles/s41598-020-68100-4)
-
-10.1038/s41598-020-68100-4
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01562/full)
 
 ---
 
-## The polyphenol-rich extract from chokeberry (<em>Aronia melanocarpa</em>&nbsp;L<em>.</em>) modulates gut microbiota and improves lipid metabolism in diet-induced obese rats
+## Metagenome-wide association analysis identifies microbial determinants of post-antibiotic ecological recovery in the gut.
+ 07.07.2020, _KR Chng, TS Ghosh, YH Tan, T Nandi, IR Lee, AHQ Ng, C Li, A Ravikrishnan, KM Lim, D Lye, T Barkham, K Raman, SL Chen, L Chai, B Young, YH Gan, N Nagarajan_
 
-[Source](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-020-00473-9)
 
----
+Loss of diversity in the gut microbiome can persist for extended periods after antibiotic treatment, impacting microbiome function, antimicrobial resistance and probably host health. Despite widespread antibiotic use, our understanding of the species and metabolic functions contributing to gut microbiome recovery is limited. Using data from 4 discovery cohorts in 3 continents comprising &gt;500 microbiome profiles from 117 individuals, we identified 21 bacterial species exhibiting robust association with ecological recovery post antibiotic therapy. Functional and growth-rate analysis showed that recovery is supported by enrichment in specific carbohydrate-degradation and energy-production pathways. Association rule mining on 782 microbiome profiles from the MEDUSA database enabled reconstruction of the gut microbial 'food web', identifying many recovery-associated bacteria as keystone species, with the ability to use host- and diet-derived energy sources, and support repopulation of other gut species. Experiments in a mouse model recapitulated the ability of recovery-associated bacteria (Bacteroides thetaiotaomicron and Bifidobacterium adolescentis) to promote recovery with synergistic effects, providing a boost of two orders of magnitude to microbial abundance in early time points and faster maturation of microbial diversity. The identification of specific species and metabolic functions promoting recovery opens up opportunities for rationally determining pre- and probiotic formulations offering protection from long-term consequences of frequent antibiotic usage.
 
-## Changes in the gut microbiota mediate the differential regulatory effects of two glucose oxidases produced by&nbsp;<em>Aspergillus niger</em>&nbsp;and&nbsp;<em>Penicillium amagasakiense</em>&nbsp;on the meat quality and growth performance of broilers
+[Source](https://www.nature.com/articles/s41559-020-1236-0)
 
-[Source](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-020-00480-z)
-
----
-
-## The effects of atrazine on the microbiome of the eastern oyster:&nbsp;
-
-[Source](https://www.nature.com/articles/s41598-020-67851-4)
+10.1038/s41559-020-1236-0
 
 ---
 
-## Crassostrea virginica
+## The gut microbiome during acute lifestyle transition.
+ 07.07.2020, _S Devkota_
 
-[Source](https://www.nature.com/articles/s41598-020-67851-4)
 
----
 
-## How being synanthropic affects the gut bacteriome and mycobiome: comparison of two mouse species with contrasting ecologies
+[Source](https://www.nature.com/articles/s41591-020-0980-7)
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01859-8)
-
----
-
-## Exploring bacteria diversity in commercialized table olive biofilms by metataxonomic and compositional data analysis
-
-[Source](https://www.nature.com/articles/s41598-020-68305-7)
+10.1038/s41591-020-0980-7
 
 ---
 
-## Deconstructing the Soil Microbiome into Reduced-Complexity Functional Modules
+## Challenges and emerging systems biology approaches to discover how the human gut microbiome impact host physiology.
+ 08.07.2020, _G Qian, JWK Ho_
 
-[Source](https://mbio.asm.org/content/11/4/e01349-20)
+
+Research in the human gut microbiome has bloomed with advances in next generation sequencing (NGS) and other high-throughput molecular profiling technologies. This has enabled the generation of multi-omics datasets which holds promises for big data-enabled knowledge acquisition in the form of understanding the normal physiological and pathological involvement of gut microbiomes. Ample evidence suggests that distinct microbial compositions in the human gut are associated with different diseases. However, the biological mechanisms underlying these associations are often unclear. There is a need to move beyond statistical associations to discover how changes in the gut microbiota mechanistically affect host physiology and disease development. This review summarises state-of-the-art big data and systems biology approaches for mechanism discovery.
+
+[Source](https://link.springer.com/article/10.1007/s12551-020-00724-2)
+
+10.1007/s12551-020-00724-2
 
 ---
 
-## Metagenomic water quality monitoring with a portable laboratory
+## The gut and feed residue microbiota changing during the rearing of <em>Hermetia illucens</em> larvae
 
-[Source](http://www.sciencedirect.com/science/article/pii/S0043135420306497)
+[Source](https://link.springer.com/article/10.1007/s10482-020-01443-0)
 
 ---
 
-## Exploring neighborhoods in large metagenome assembly graphs using spacegraphcats reveals hidden sequence diversity
+## Effect of introduced parasites on the survival and microbiota of nestling cactus finches (<em>Geospiza scandens</em>) in the Galápagos Islands
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02066-4)
+[Source](https://link.springer.com/article/10.1007/s10336-020-01793-6)
+
+---
+
+## Direct comparison of fecal and gut microbiota in the Blue Mussel (<em>Mytilus edulis</em>) discourages fecal sampling as a proxy for resident gut community
+
+[Source](https://link.springer.com/article/10.1007/s00248-020-01553-2)
+
+---
+
+## Variable microbial communities in the non-hydrothermal sediments of the Mid-Okinawa trough
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/01490451.2020.1776800)
+
+---
+
+## Microbial communities from arid environments on a global scale. A systematic review
+
+[Source](https://biolres.biomedcentral.com/articles/10.1186/s40659-020-00296-1)
+
+---
+
+## Unravelling metabolism and microbial community of a phytobed co-planted with <em>Typha angustifolia</em> and <em>Ipomoea aquatica</em> for biodegradation of doxylamine from wastewater
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0304389420313935)
+
+---
+
+## <span class="has-inline-color has-vivid-green-cyan-color">Bed bugs shape the indoor microbial community composition of infested homes</span>
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969720342261)
+
+---
+
+## Effect of sono-thermal pre-treatment over methane production, specific activities and the microbial community of sludge anaerobic digesters
+
+[Source](https://link.springer.com/article/10.1007/s12649-020-01142-x)
+
+---
+
+## Effects of anode materials on the performance and anode microbial community of soil microbial fuel cell
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0304389420313832)
+
+---
+
+## Targeted microbiome depletion
+
+[Source](https://www.nature.com/articles/s41579-020-0397-9)
 
 ---
 
