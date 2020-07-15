@@ -41,7 +41,7 @@ Loss of diversity in the gut microbiome can persist for extended periods after a
 ---
 
 ## The gut microbiome during acute lifestyle transition.
- 07.07.2020, _S Devkota_
+ 14.07.2020, _S Devkota_
 
 
 
@@ -111,27 +111,9 @@ Research in the human gut microbiome has bloomed with advances in next generatio
 
 ---
 
-## Effects of anode materials on the performance and anode microbial community of soil microbial fuel cell.
- 13.07.2020, _B Yu, L Feng, Y He, L Yang, Y Xun_
-
-
-Five soil microbial fuel cells (SMFCs) with graphite felt, aluminium sheet, activated carbon fibre felt, graphite paper and carbon cloth as anodes were constructed using the petroleum hydrocarbon polluted soils as substrates. After 115 days of operation, the SMFC with graphite felt anode performed the best in both bioelectricity output and removal of target pollutants, with the bioelectricity output parameters of 345 mV for stable voltage, 24.0 mW/m2 for power density and 774 Ω for internal resistance, and the removal rates of 59.14 % for total petroleum hydrocarbon, 61.65 % for anthracene, and 55.92 % for pyrene, respectively. The conductivity of the material was the key factor affecting the electron transfer rate of the anode, which determined the electric acclimation and screening intensity of SMFC to soil microbes, leading to the growth and succession of the electricigens-dominanted anode microbial community with various abundances of phyla and genera. The surface structure of the anode material played a critical role in the internal resistance of SMFC through affecting the mass transfer of substrate and metabolites, and it might also change the abundance of microbes especially those non-electricigens on the community through different adhesion.
+## Effects of anode materials on the performance and anode microbial community of soil microbial fuel cell
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0304389420313832)
-
-10.1016/j.jhazmat.2020.123394
-
----
-
-## Blood Bacterial Profiles Associated with HIV Infection and Immune Recovery.
- 30.06.2020, _S Serrano-Villar, S Sanchez-Carrillo, A Talavera-Rodríguez, B Lelouvier, C Gutiérrez, A Vallejo, F Servant, JI Bernadino, V Estrada, N Madrid, MJ Gosalbes, O Bisbal, M de Lagarde, J Martínez-Sanz, R Ron, S Herrera, S Moreno, M Ferrer_
-
-
-HIV infection impairs mucosal immunity and leads to bacterial translocation, fueling chronic inflammation and disease progression. While this is well established, questions remain about the compositional profile of the translocated bacteria, and to what extent it is influenced by ART. Using 16S rDNA targeted sequencing and shotgun proteomics, we show that HIV increases bacterial translocation from the gut to the blood. HIV increased α-diversity in the blood, which was dominated by aerobic bacteria belonging to Micrococcaceae (Actinobacteria) and Pseudomonadaceae (Proteobacteria) families, and the number of circulating bacterial proteins was also increased. Forty-eight weeks of ART attenuated this phenomenon. We found that enrichment with Lactobacillales order, and depletion of Actinobacteria class and Moraxellaceae and Corynebacteriacae families, were significantly associated with greater immune recovery and correlated with several inflammatory markers. Our findings suggest that the molecular crosstalk between the host and the translocated bacterial products could influence ART-mediated immune recovery.
-
-[Source](https://www.nature.com/articles/s41579-020-0397-9)
-
-10.1093/infdis/jiaa379
 
 ---
 
