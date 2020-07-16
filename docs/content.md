@@ -88,15 +88,9 @@
 
 ---
 
-## Metabolic acclimation of anammox consortia to decreased temperature.
- 15.07.2020, _T Huo, Y Zhao, X Tang, H Zhao, S Ni, Q Gao, S Liu_
-
-
-Widespread application of anammox process has been primarily limited to the high sensitivity of anammox consortia to fluctuations of temperature. However, the metabolic acclimation of anammox consortia to decreased temperature remains unclear, which is the core of developing potential strategies for improving their low-temperature resistance. Here, we operated anammox reactors at 25 °C and 35 °C to explore the acclimation mechanism of anammox consortia in terms of metabolic responses and cross-feedings. Accordingly, we found that the adaptation of anammox consortia to ambient temperature (25 °C) was significantly linked to energy conservation strategy, resulting in decreased extracellular polymeric substance secretion, accumulation of ATP and amino acids. The expression patterns of cold shock proteins and core enzymes caused the apparent metabolic advantage of Candidatus Brocadia fulgida for acclimation to ambient temperature compared to other anammox species. Importantly, strengthened cross-feedings of amino acids, nitrite and glycine betaine benefited adaptation of anammox consortia to ambient temperature. Our work not only uncovers the temperature-adaptive mechanisms of anammox consortia, but also emphasizes the important role of metabolic cross-feeding in the temperature adaptation of microbial community.
+## Metabolic acclimation of anammox consortia to decreased temperature
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0160412020318705)
-
-10.1016/j.envint.2020.105915
 
 ---
 
@@ -163,18 +157,6 @@ Widespread application of anammox process has been primarily limited to the high
 ## Shifts in autochthonous&nbsp;microbial&nbsp;diversity and volatile metabolites during the fermentation of chili pepper (<em>Capsicum frutescens</em> L.)
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0308814620313741)
-
----
-
-## Proteomic characterization of extracellular vesicles produced by several wine yeast species.
- 24.06.2020, _A Mencher, P Morales, E Valero, J Tronchoni, KR Patil, R Gonzalez_
-
-
-In winemaking, the use of alternative yeast starters is becoming increasingly popular. They contribute to the diversity and complexity of wine sensory features and are typically used in combination with Saccharomyces cerevisiae, to ensure complete fermentation. This practice has drawn the interest on interactions between different oenological yeasts, which are also relevant in spontaneous and conventional fermentations, or in the vineyard. Although several interactions have been described and some mechanisms have been suggested, the possible involvement of extracellular vesicles (EVs) has not yet been considered. This work describes the production of EVs by six wine yeast species (S. cerevisiae, Torulaspora delbrueckii, Lachancea thermotolerans, Hanseniaspora uvarum, Candida sake and Metschnikowia pulcherrima) in synthetic grape must. Proteomic analysis of EV-enriched fractions from S. cerevisiae and T. delbrueckii showed enrichment in glycolytic enzymes and cell-wall-related proteins. The most abundant protein found in S. cerevisiae, T. delbrueckii and L. thermotolerans EV-enriched fractions was the enzyme exo-1,3-β-glucanase. However, this protein was not involved in the here-observed negative impact of T. delbrueckii extracellular fractions on the growth of other yeast species. These findings suggest that EVs may play a role in fungal interactions during wine fermentation and other aspects of wine yeast biology.
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13614)
-
-10.1111/1751-7915.13614
 
 ---
 
