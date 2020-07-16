@@ -1,125 +1,216 @@
-## Infested: How the bed bug infiltrated our bedrooms and took over the world
+## 3rd&nbsp;Microbiome&nbsp;Movement – Animal Health &amp; Nutrition Summit
 
-[Source](https://www.goodreads.com/book/show/22859694-infested)
-
----
-
-## Lessons and recommendations from three decades as an NSF REU site: A call for systems-based assessment.
- 28.03.2020, _AL McDevitt, MV Patel, AM Ellison_
-
-
-For more than 30 years, the US National Science Foundation's Research Experiences for Undergraduates (REU) program has supported thousands of undergraduate researchers annually and provides many students with their first research experiences in field ecology or evolution. REUs embed students in scientific communities where they apprentice with experienced researchers, build networks with their peers, and help students understand research cultures and how to work within them. REUs are thought to provide formative experiences for developing researchers that differ from experiences in a college classrooms, laboratories, or field trips. REU assessments have improved through time but they are largely ungrounded in educational theory. Thus, evaluation of long-term impacts of REUs remains limited and best practices for using REUs to enhance student learning are repeatedly re-invented. We describe how one sociocultural learning framework, cultural-historical activity theory (CHAT), could be used to guide data collection to characterize the effects of REU programs on participant's learning in an educationally meaningful context. CHAT embodies a systems approach to assessment that accounts for social and cultural factors that influence learning. We illustrate how CHAT has guided assessment of the Harvard Forest Summer Research Program in Ecology (HF-SRPE), one of the longest-running REU sites in the United States. Characterizing HF-SRPE using CHAT helped formalize thoughts and language for the program evaluation, reflect on potential barriers to success, identify assessment priorities, and revealed important oversights in data collection.
-
-[Source](https://nsurp.org/)
-
-10.1002/ece3.6136
+[Source](https://microbiome-animal.com/)
 
 ---
 
-## National Summer Undergraduate Research Project
+## “Introducing Your Microbiome”
 
-[Source](https://nsurp.org/)
-
----
-
-## The beta-diversity of <em>Siganus fuscescens</em>-associated microbial communities from different habitats increases with body weight
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01562/full)
+[Source](http://emblog.embl.de/ells/virtual-llab-microbiome-2020/)
 
 ---
 
-## Metagenome-wide association analysis identifies microbial determinants of post-antibiotic ecological recovery in the gut.
- 07.07.2020, _KR Chng, TS Ghosh, YH Tan, T Nandi, IR Lee, AHQ Ng, C Li, A Ravikrishnan, KM Lim, D Lye, T Barkham, K Raman, SL Chen, L Chai, B Young, YH Gan, N Nagarajan_
+## Gut&nbsp;microbiota&nbsp;maturation during early human life induces enterocyte proliferation via&nbsp;microbial&nbsp;metabolites
 
-
-Loss of diversity in the gut microbiome can persist for extended periods after antibiotic treatment, impacting microbiome function, antimicrobial resistance and probably host health. Despite widespread antibiotic use, our understanding of the species and metabolic functions contributing to gut microbiome recovery is limited. Using data from 4 discovery cohorts in 3 continents comprising &gt;500 microbiome profiles from 117 individuals, we identified 21 bacterial species exhibiting robust association with ecological recovery post antibiotic therapy. Functional and growth-rate analysis showed that recovery is supported by enrichment in specific carbohydrate-degradation and energy-production pathways. Association rule mining on 782 microbiome profiles from the MEDUSA database enabled reconstruction of the gut microbial 'food web', identifying many recovery-associated bacteria as keystone species, with the ability to use host- and diet-derived energy sources, and support repopulation of other gut species. Experiments in a mouse model recapitulated the ability of recovery-associated bacteria (Bacteroides thetaiotaomicron and Bifidobacterium adolescentis) to promote recovery with synergistic effects, providing a boost of two orders of magnitude to microbial abundance in early time points and faster maturation of microbial diversity. The identification of specific species and metabolic functions promoting recovery opens up opportunities for rationally determining pre- and probiotic formulations offering protection from long-term consequences of frequent antibiotic usage.
-
-[Source](https://www.nature.com/articles/s41559-020-1236-0)
-
-10.1038/s41559-020-1236-0
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-01892-7)
 
 ---
 
-## The gut microbiome during acute lifestyle transition.
- 14.07.2020, _S Devkota_
+## Gut microbiome, big data and machine learning to promote precision medicine for cancer 
 
-
-
-[Source](https://www.nature.com/articles/s41591-020-0980-7)
-
-10.1038/s41591-020-0980-7
+[Source](https://www.nature.com/articles/s41575-020-0327-3)
 
 ---
 
-## Challenges and emerging systems biology approaches to discover how the human gut microbiome impact host physiology.
- 08.07.2020, _G Qian, JWK Ho_
+## Characterizing the postmortem human bone&nbsp;microbiome&nbsp;from surface-decomposed remains
 
-
-Research in the human gut microbiome has bloomed with advances in next generation sequencing (NGS) and other high-throughput molecular profiling technologies. This has enabled the generation of multi-omics datasets which holds promises for big data-enabled knowledge acquisition in the form of understanding the normal physiological and pathological involvement of gut microbiomes. Ample evidence suggests that distinct microbial compositions in the human gut are associated with different diseases. However, the biological mechanisms underlying these associations are often unclear. There is a need to move beyond statistical associations to discover how changes in the gut microbiota mechanistically affect host physiology and disease development. This review summarises state-of-the-art big data and systems biology approaches for mechanism discovery.
-
-[Source](https://link.springer.com/article/10.1007/s12551-020-00724-2)
-
-10.1007/s12551-020-00724-2
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218636)
 
 ---
 
-## The gut and feed residue microbiota changing during the rearing of <em>Hermetia illucens</em> larvae
+## <em>Saccharomyces cerevisiae</em> fermentation products (SCFP) stabilize the ruminal microbiota of lactating dairy cows during periods of a depressed rumen pH
 
-[Source](https://link.springer.com/article/10.1007/s10482-020-01443-0)
-
----
-
-## Effect of introduced parasites on the survival and microbiota of nestling cactus finches (<em>Geospiza scandens</em>) in the Galápagos Islands
-
-[Source](https://link.springer.com/article/10.1007/s10336-020-01793-6)
+[Source](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-020-02437-w)
 
 ---
 
-## Direct comparison of fecal and gut microbiota in the Blue Mussel (<em>Mytilus edulis</em>) discourages fecal sampling as a proxy for resident gut community
+## A Shift Pattern of Bacterial Communities Across the Life Stages of the Citrus Red Mite, <em>Panonychus citri</em>
 
-[Source](https://link.springer.com/article/10.1007/s00248-020-01553-2)
-
----
-
-## Variable microbial communities in the non-hydrothermal sediments of the Mid-Okinawa trough
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/01490451.2020.1776800)
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01620/full)
 
 ---
 
-## Microbial communities from arid environments on a global scale. A systematic review
+## Nitrogen enrichment stimulates wetland plant responses whereas salt amendments alter sediment&nbsp;microbial communities&nbsp;and biogeochemical responses
 
-[Source](https://biolres.biomedcentral.com/articles/10.1186/s40659-020-00296-1)
-
----
-
-## Unravelling metabolism and microbial community of a phytobed co-planted with <em>Typha angustifolia</em> and <em>Ipomoea aquatica</em> for biodegradation of doxylamine from wastewater
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0304389420313935)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235225)
 
 ---
 
-## <span class="has-inline-color has-vivid-green-cyan-color">Bed bugs shape the indoor microbial community composition of infested homes</span>
+## Bioavailable metal (loid) s and physicochemical features co-mediating&nbsp;microbial communities&nbsp;at combined metal (loid) pollution sites
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969720342261)
-
----
-
-## Effect of sono-thermal pre-treatment over methane production, specific activities and the microbial community of sludge anaerobic digesters
-
-[Source](https://link.springer.com/article/10.1007/s12649-020-01142-x)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0045653520318142)
 
 ---
 
-## Effects of anode materials on the performance and anode microbial community of soil microbial fuel cell
+## Assessing the effects of tylosin fermentation dregs as soil amendment on macrolide antibiotic resistance genes and&nbsp;microbial communities: Incubation study
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0304389420313832)
+[Source](https://www.tandfonline.com/doi/abs/10.1080/03601234.2020.1788337)
 
 ---
 
-## Targeted microbiome depletion
+## Phytobiomes: Current Insights and Future Vistas
 
-[Source](https://www.nature.com/articles/s41579-020-0397-9)
+[Source](https://link.springer.com/book/10.1007/978-981-15-3151-4)
+
+---
+
+## Early changes in bacterial communities in wound tissues of <em>Pinus massoniana</em> after inoculation with <em>Bursaphelenchus xylophilus</em>
+
+[Source](https://brill.com/view/journals/nemy/aop/article-10.1163-15685411-bja10031/article-10.1163-15685411-bja10031.xml)
+
+---
+
+## Unexpected diversity of CPR bacteria and nanoarchaea in the rare biosphere of rhizosphere-associated grassland soil 
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.13.194282v1.full)
+
+---
+
+## A Meta-analysis of the known Global Distribution and Host Range of the <em>Ralstonia</em> Species Complex
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.13.189936v1.full)
+
+---
+
+## Lipid Biomarker Record of the Serpentinite-Hosted Ecosystem of the Samail Ophiolite, Oman and Implications for the Search for Biosignatures on Mars
+
+[Source](https://www.liebertpub.com/doi/abs/10.1089/ast.2019.2066)
+
+---
+
+## Metabolic acclimation of anammox consortia to decreased temperature.
+ 15.07.2020, _T Huo, Y Zhao, X Tang, H Zhao, S Ni, Q Gao, S Liu_
+
+
+Widespread application of anammox process has been primarily limited to the high sensitivity of anammox consortia to fluctuations of temperature. However, the metabolic acclimation of anammox consortia to decreased temperature remains unclear, which is the core of developing potential strategies for improving their low-temperature resistance. Here, we operated anammox reactors at 25 °C and 35 °C to explore the acclimation mechanism of anammox consortia in terms of metabolic responses and cross-feedings. Accordingly, we found that the adaptation of anammox consortia to ambient temperature (25 °C) was significantly linked to energy conservation strategy, resulting in decreased extracellular polymeric substance secretion, accumulation of ATP and amino acids. The expression patterns of cold shock proteins and core enzymes caused the apparent metabolic advantage of Candidatus Brocadia fulgida for acclimation to ambient temperature compared to other anammox species. Importantly, strengthened cross-feedings of amino acids, nitrite and glycine betaine benefited adaptation of anammox consortia to ambient temperature. Our work not only uncovers the temperature-adaptive mechanisms of anammox consortia, but also emphasizes the important role of metabolic cross-feeding in the temperature adaptation of microbial community.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0160412020318705)
+
+10.1016/j.envint.2020.105915
+
+---
+
+## Complete Genome Sequences of Two Marine Biofilm Isolates, <em>Leisingera</em> sp. nov. Strains 201A and 204H, Novel Representatives of the <em>Roseobacter</em> Group
+
+[Source](https://mra.asm.org/content/9/28/e00505-20)
+
+---
+
+## Microbial&nbsp;interspecific interaction and nitrogen metabolism pathway for the treatment of municipal wastewater by iron carbon based constructed wetland
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420310865)
+
+---
+
+## Biogeographical distribution of dissimilatory nitrate reduction to ammonium (DNRA) bacteria in wetland ecosystems around the world
+
+[Source](https://link.springer.com/article/10.1007/s11368-020-02707-y)
+
+---
+
+## Molecular diversity of the microbial community in coloured snow from the Fildes Peninsula (King George Island, Maritime Antarctica)
+
+[Source](https://link.springer.com/article/10.1007/s00300-020-02716-0)
+
+---
+
+## Novel arsenic hyper-resistant bacteria from an extreme environment, Crven Dol mine, Allchar, North Macedonia
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0304389420314266)
+
+---
+
+## Ozone treatment in a 
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/abs/10.1080/02786826.2020.1790495&hl=en&sa=X&d=16750412950510940723&scisig=AAGBfm08pZ5hwqv_mN4gK3sQOsVpd1TaKA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q&html=)
+
+---
+
+## wind 
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/02786826.2020.1790495)
+
+---
+
+## tunnel for the reduction of airborne viruses in swine buildings
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/abs/10.1080/02786826.2020.1790495&hl=en&sa=X&d=16750412950510940723&scisig=AAGBfm08pZ5hwqv_mN4gK3sQOsVpd1TaKA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q&html=)
+
+---
+
+## Correlation between&nbsp;microbial communities&nbsp;and key flavors during post-fermentation of <em>Pixian</em> broad bean paste
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S096399692030538X)
+
+---
+
+## Additives affect the distribution of metabolic profile,&nbsp;microbial communities&nbsp;and antibiotic resistance genes in high-moisture sweet corn kernel silage
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420310932)
+
+---
+
+## Shifts in autochthonous&nbsp;microbial&nbsp;diversity and volatile metabolites during the fermentation of chili pepper (<em>Capsicum frutescens</em> L.)
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0308814620313741)
+
+---
+
+## Proteomic characterization of extracellular vesicles produced by several wine yeast species.
+ 24.06.2020, _A Mencher, P Morales, E Valero, J Tronchoni, KR Patil, R Gonzalez_
+
+
+In winemaking, the use of alternative yeast starters is becoming increasingly popular. They contribute to the diversity and complexity of wine sensory features and are typically used in combination with Saccharomyces cerevisiae, to ensure complete fermentation. This practice has drawn the interest on interactions between different oenological yeasts, which are also relevant in spontaneous and conventional fermentations, or in the vineyard. Although several interactions have been described and some mechanisms have been suggested, the possible involvement of extracellular vesicles (EVs) has not yet been considered. This work describes the production of EVs by six wine yeast species (S. cerevisiae, Torulaspora delbrueckii, Lachancea thermotolerans, Hanseniaspora uvarum, Candida sake and Metschnikowia pulcherrima) in synthetic grape must. Proteomic analysis of EV-enriched fractions from S. cerevisiae and T. delbrueckii showed enrichment in glycolytic enzymes and cell-wall-related proteins. The most abundant protein found in S. cerevisiae, T. delbrueckii and L. thermotolerans EV-enriched fractions was the enzyme exo-1,3-β-glucanase. However, this protein was not involved in the here-observed negative impact of T. delbrueckii extracellular fractions on the growth of other yeast species. These findings suggest that EVs may play a role in fungal interactions during wine fermentation and other aspects of wine yeast biology.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13614)
+
+10.1111/1751-7915.13614
+
+---
+
+## Proteomic&nbsp;characterization of extracellular vesicles produced by several wine yeast species
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.13614)
+
+---
+
+## Role of&nbsp;Microbes&nbsp;for Attaining Enhanced Food Crop Production
+
+[Source](https://link.springer.com/chapter/10.1007/978-981-15-2817-0_3)
+
+---
+
+## Evaluation of variant calling for cpn60 barcode sequence-based&nbsp;microbiome&nbsp;profiling 
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235682)
+
+---
+
+## Visualization of giant virus particles using BONCAT labeling and STED microscopy
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.14.202192v1)
+
+---
+
+## Human Microbiome: 39 trillion microbes and bacteria that call u
+
+[Source](https://www.sciencefocus.com/the-human-body/human-microbiome/)
+
+---
+
+## What Quarantine is Doing to Your Body’s Wondrous World of Bacteria
+
+[Source](https://www.smithsonianmag.com/science-nature/quarantine-body-wonder-system-bacteria-180975299/)
 
 ---
 
