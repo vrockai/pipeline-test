@@ -113,9 +113,15 @@ Most patients diagnosed with resected pancreatic adenocarcinoma (PDAC) survive l
 
 ---
 
-## Reductive soil disinfestation incorporated with organic residue combination significantly improves soil microbial activity and functional diversity than sole residue incorporation
+## Reductive soil disinfestation incorporated with organic residue combination significantly improves soil microbial activity and functional diversity than sole residue incorporation.
+ 13.07.2020, _J Zhao, S Liu, X Zhou, Q Xia, X Liu, S Zhang, J Zhang, Z Cai, X Huang_
+
+
+Reductive soil disinfestation (RSD) is an effective agricultural practice to eliminate soil-borne pathogens that heavily relies on the organic substrate used. However, the influences of combined application of organic residues on disinfestation efficiency, soil microbiomes, and their associated functional characteristics are still not well-characterized. In this work, four treatments, i.e., untreated soil (CK), RSD with 15 t ha-1 sugarcane bagasse (SB), bean dregs (BD), and their combinations (1:1, SB+BD), were conducted to investigate their influence on disinfestation efficiency, microbial functional diversity, community diversity, and composition using Biolog analysis, real-time PCR, and high-throughput sequencing. The SB+BD treatment had synergetic effects on soil microbial activity, metabolic activity, and functional diversity with similar efficacy in pathogen elimination and soil salinization alleviation, as compared to the SB and BD treatments. Moreover, the SB+BD treatment distinctly altered the structure and composition of bacterial and fungal communities, especially enriched the core microbiomes associated with soil general functions such as organic decomposition and nitrate removal. The SB+BD treatment also strengthened the soil specific functions including disease suppression through the regulation of unique microbiomes. In addition, the microbial richness, diversity, and evenness were significantly higher in the SB+BD-treated soil as compared to the SB- and BD-treated soils. Taken together, RSD incorporated with organic residue combination not only efficiently restore the degraded soils, but also considerably improve soil functions, which may benefit to the health for the future plant generations. KEY POINTS: • Organic residue combination effectively declines pathogen density. • Organic residue combination improves soil microbial activity and functional diversity. • The enriched core microbiome is responsible for soil general functions. • The induced unique microbiome is important for soil specific functions.
 
 [Source](https://link.springer.com/article/10.1007/s00253-020-10778-7)
+
+10.1007/s00253-020-10778-7
 
 ---
 
@@ -125,15 +131,27 @@ Most patients diagnosed with resected pancreatic adenocarcinoma (PDAC) survive l
 
 ---
 
-## Nitrogen enrichment stimulates wetland plant responses whereas salt amendments alter sediment microbial communities and biogeochemical responses
+## Nitrogen enrichment stimulates wetland plant responses whereas salt amendments alter sediment microbial communities and biogeochemical responses.
+ 13.07.2020, _M Donato, O Johnson, B Steven, BA Lawrence_
+
+
+Freshwater wetlands of the temperate north are exposed to a range of pollutants that may alter their function, including nitrogen (N)-rich agricultural and urban runoff, seawater intrusion, and road salt contamination, though it is largely unknown how these drivers of change interact with the vegetation to affect wetland carbon (C) fluxes and microbial communities. We implemented a full factorial mesocosm (378.5 L tanks) experiment investigating C-related responses to three common wetland plants of eastern North America (Phragmites australis, Spartina pectinata, Typha latifolia), and four water quality treatments (fresh water control, N, road salt, sea salt). During the 2017 growing season, we quantified carbon dioxide (CO2) and methane (CH4) fluxes, above- and below-ground biomass, root porosity, light penetration, pore water chemistry (NH4+, NO3-, SO4-2, Cl-, DOC), soil C mineralization, as well as sediment microbial communities via 16S rRNA gene sequencing. Relative to freshwater controls, N enrichment stimulated plant biomass, which in turn increased CO2 uptake and reduced light penetration, especially in Spartina stands. Root porosity was not affected by water quality, but was positively correlated with CH4 emissions, suggesting that plants can be important conduits for CH4 from anoxic sediment to the atmosphere. Sediment microbial composition was largely unaffected by N addition, whereas salt amendments induced structural shifts, reduced sediment community diversity, and reduced C mineralization rates, presumably due to osmotic stress. Methane emissions were suppressed by sea salt, but not road salt, providing evidence for the additional chemical control (SO4-2 availability) on this microbial-mediated process. Thus, N may have stimulated plant activity while salting treatments preferentially enriched specific microbial populations. Together our findings underpin the utility of combining plant and microbial responses, and highlight the need for more integrative studies to predict the consequences of a changing environment on freshwater wetlands.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235225)
 
+10.1371/journal.pone.0235225
+
 ---
 
-## Identification of sulfate-reducing and methanogenic microbial taxa in anaerobic bioreactors from industrial wastewater treatment plants using next-generation sequencing and gene clone library analyses
+## Identification of sulfate-reducing and methanogenic microbial taxa in anaerobic bioreactors from industrial wastewater treatment plants using next-generation sequencing and gene clone library analyses.
+ 13.07.2020, _K Jantharadej, W Mhuantong, T Limpiyakorn, S Mongkolsuk, K Sirikanchana, BB Suwannasilp_
+
+
+An understanding of microbial communities present in anaerobic bioreactors can strongly facilitate the development of approaches to control undesirable microorganisms, such as sulfate-reducing bacteria (SRB), in the system. In this study, overall microbial communities present in anaerobic bioreactors from seven industrial wastewater treatment plants (including food, pulp and paper industries) were investigated using 16S rRNA gene amplicon sequencing (MiSeq, Illumina). The dominant methanogens identified in the anaerobic bioreactors treating industrial wastewater were Methanobacterium and Methanosaeta; Methanospirillum was a predominant methanogen in the anaerobic sludge digester. Hydrogenotrophic and acetoclastic methanogens were detected at similar relative abundances in the anaerobic covered lagoons treating starch wastewater, whereas hydrogenotrophic methanogens were the predominant methanogens present in the sludge digester. SRB communities were further investigated using dsrB gene clone libraries. The results indicated the presence of SRB, such as uncultured Desulfobulbus sp., Syntrophobacter fumaroxidans, Syntrophorhabdus sp. PtaB.Bin027, and Desulfovibrio fructosivarans JJ. Incomplete-oxidizing SRB were the predominant SRB in all of the anaerobic bioreactors treating wastewater. In contrast, similar relative abundances of complete and incomplete-oxidizing SRB were observed in the sludge digester. The results of this study can further facilitate the development of SRB-controlling strategies to improve the efficiency of wastewater treatment.
 
 [Source](https://www.tandfonline.com/doi/abs/10.1080/10934529.2020.1789409)
+
+10.1080/10934529.2020.1789409
 
 ---
 
@@ -143,15 +161,27 @@ Most patients diagnosed with resected pancreatic adenocarcinoma (PDAC) survive l
 
 ---
 
-## PARGT: a software tool for predicting antimicrobial resistance in bacteria
+## PARGT: a software tool for predicting antimicrobial resistance in bacteria.
+ 08.07.2020, _AS Chowdhury, DR Call, SL Broschat_
+
+
+With the ever-increasing availability of whole-genome sequences, machine-learning approaches can be used as an alternative to traditional alignment-based methods for identifying new antimicrobial-resistance genes. Such approaches are especially helpful when pathogens cannot be cultured in the lab. In previous work, we proposed a game-theory-based feature evaluation algorithm. When using the protein characteristics identified by this algorithm, called 'features' in machine learning, our model accurately identified antimicrobial resistance (AMR) genes in Gram-negative bacteria. Here we extend our study to Gram-positive bacteria showing that coupling game-theory-identified features with machine learning achieved classification accuracies between 87% and 90% for genes encoding resistance to the antibiotics bacitracin and vancomycin. Importantly, we present a standalone software tool that implements the game-theory algorithm and machine-learning model used in these studies.
 
 [Source](https://search.proquest.com/openview/c2f241520d44b2f87fb458e65d890e7a/1?pq-origsite=gscholar&cbl=2041939)
 
+10.1038/s41598-020-67949-9
+
 ---
 
-## Classification of 16S rRNA reads is improved using a niche-specific database constructed by near-full length sequencing
+## Classification of 16S rRNA reads is improved using a niche-specific database constructed by near-full length sequencing.
+ 13.07.2020, _PR Myer, TG McDaneld, LA Kuehn, KD Dedonder, MD Apley, SF Capik, BV Lubbers, GP Harhay, DM Harhay, JW Keele, MT Henniger, BA Clemmons, TPL Smith_
+
+
+Surveys of microbial populations in environmental niches of interest often utilize sequence variation in the gene encoding the ribosomal small subunit (the 16S rRNA gene). Generally, these surveys target the 16S genes using semi-degenerate primers to amplify portions of a subset of bacterial species, sequence the amplicons in bulk, and assign to putative taxonomic categories by comparison to databases purporting to connect specific sequences in the main variable regions of the gene to specific organisms. Due to sequence length constraints of the most popular bulk sequencing platforms, the primers selected amplify one to three of the nine variable regions, and taxonomic assignment is based on relatively short stretches of sequence (150-500 bases). We demonstrate that taxonomic assignment is improved through reduced unassigned reads by including a survey of near-full-length sequences specific to the target environment, using a niche of interest represented by the upper respiratory tract (URT) of cattle. We created a custom Bovine URT database from these longer sequences for assignment of shorter, less expensive reads in comparisons of the upper respiratory tract among individual animals. This process improves the ability to detect changes in the microbial populations of a given environment, and the accuracy of defining the content of that environment at increasingly higher taxonomic resolution.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235498)
+
+10.1371/journal.pone.0235498
 
 ---
 
