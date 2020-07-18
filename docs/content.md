@@ -1,7 +1,8 @@
 ## Covid-19: disinfectants and sanitisers are changing microbiomes.
- 15.07.2020, _A Singh_
+ 17.07.2020, _A Singh_
 
 
+_Coronavirus Infections, Disinfectants, Drug Resistance, Microbial, Dysbiosis, Humans, Microbiota, Pandemics, Pneumonia, Viral_
 
 [Source](https://www.bmj.com/content/370/bmj.m2795)
 
