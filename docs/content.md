@@ -125,7 +125,7 @@ The human intestine is host to a vast microbial community, the gut microbiome (G
 ---
 
 ## The effect of curative resection on fecal microbiota in patients with colorectal cancer: a prospective pilot study.
- 17.07.2020, _SS Park, B Kim, MJ Kim, SJ Roh, SC Park, BC Kim, KS Han, CW Hong, DK Sohn, JH Oh_
+ 18.07.2020, _SS Park, B Kim, MJ Kim, SJ Roh, SC Park, BC Kim, KS Han, CW Hong, DK Sohn, JH Oh_
 
 
 Although many studies have evaluated the association between intestinal microorganisms and the risk of colorectal cancer (CRC), only a few studies have investigated the changes in microorganisms following curative treatment for CRC. The current study analyzed changes in intestinal microbiota following curative surgery in CRC patients.
