@@ -1,131 +1,108 @@
-## Insights gained into respiratory infection pathogenesis using lung tissue metabolomics.
- 14.07.2020, _JA Bernatchez, LI McCall_
+## ACE2-independent interaction of SARS-CoV-2 spike protein to human epithelial cells can be inhibited by unfractionated heparin. 
 
-
-
-[Source](https://doi.org/10.1371/journal.ppat.1008662)
-
-10.1371/journal.ppat.1008662
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.05.21.107870v2??collection)
 
 ---
 
-## Description and determinants of the faecal resistome and microbiome of farmers and slaughterhouse workers: A metagenome-wide cross-sectional study.
- 17.07.2020, _L Van Gompel, REC Luiken, RB Hansen, P Munk, M Bouwknegt, L Heres, GD Greve, P Scherpenisse, BGM Jongerius-Gortemaker, MHG Tersteeg-Zijderveld, S García-Cobos, W Dohmen, A Dorado-García, JA Wagenaar, BAP Urlings, FM Aarestrup, DJ Mevius, DJJ Heederik, H Schmitt, A Bossers, LAM Smit_
+## Risk factors associated with occurrence of COVID-19 among household persons exposed to patients with confirmed COVID-19 in Qingdao Municipal, China.
+ 20.07.2020, _H Xin, F Jiang, A Xue, J Liang, J Zhang, F Yang, Y Han_
 
 
-By studying the entire human faecal resistome and associated microbiome, the diversity and abundance of faecal antimicrobial resistance genes (ARGs) can be comprehensively characterized. Prior culture-based studies have shown associations between occupational exposure to livestock and carriage of specific antimicrobial resistant bacteria. Using shotgun metagenomics, the present study investigated 194 faecal resistomes and bacteriomes from humans occupationally exposed to ARGs in livestock (i.e. pig and poultry farmers, employees and family members and pig slaughterhouse workers) and a control population (Lifelines cohort) in the Netherlands. In addition, we sought to identify determinants for the human resistome and bacteriome composition by applying a combination of multivariate (NMDS, PERMANOVA, SIMPER and DESeq2 analysis) and multivariable regression analysis techniques.
+Tracing and isolation of close contacts is used to control outbreaks of coronavirus disease 2019 (COVID-19) in China. However, risk factors associated with occurrence of COVID-19 among close contacts have not been well described. 106 household contacts were included in this study, of whom 19 were developed into COVID-19 cases and the secondary attack rate was 17.9%. Multivariable analysis showed increasing risk of occurrence of COVID-19 among household contacts associated with female of index patients (Adjusted Hazard Ratio [aHR] = 3.84, 95%CI = 1.07-13.78), critical disease of index patients ([aHR] = 7.58, 95%CI = 1.66-34.66), effective contact duration with index patients &gt;2 days ([aHR] = 4.21, 95%CI = 1.29-13.73), and effective contact duration &gt;11 days ([aHR] = 17.88, 95%CI = 3.26-98.01).The sex and disease severity of index COVID-19 patients, and longer effective contact duration with COVID-19 confirmed cases could help epidemiologists to identify potential COVID-19 case among household contacts at an early stage.
 
-[Source](https://doi.org/10.1016/j.envint.2020.105939)
+[Source](http://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/abs/10.1080/14767058.2020.1793318&hl=en&sa=X&d=14925771207309317116&scisig=AAGBfm2rAKpXpYPSyxEHBynUl4UHMvRrkA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q&html=)
 
-10.1016/j.envint.2020.105939
-
----
-
-## Gut microbiota in dementia. Critical review of novel findings and their potential application.
- 20.07.2020, _M Łuc, B Misiak, M Pawłowski, B Stańczykiewicz, A Zabłocka, D Szcześniak, A Pałęga, J Rymaszewska_
-
-
-There is a great deal of impetus for the comprehensive understanding of the complete pathological function, genetic information, and functional diversity of the gut microbiota that favors the development of dementia. It has been reported that patients with mild cognitive impairment and Alzheimer's disease present with several metabolic and immune-inflammatory alterations. The recently highlighted aspects of human health linked to cognitive decline include insulin-resistance, obesity, and chronic low-grade inflammation. Gut microbiota is known to produce neurotransmitters, such as GABA, acetylcholine, dopamine or serotonin, vitamins, intestinal toxins, and modulate nerve signaling - with emphasis on the vagus nerve. Additionally, gut dysbiosis results in impaired synthesis of signaling proteins affecting metabolic processes relevant to the development of Alzheimer's disease. Due to numerous links of gut microbiota to crucial metabolic and inflammatory pathways, attempts aimed at correcting the gut microflora composition may affect dementia pathology in a pleiotropic manner. Taking advantage of the metabolic effects of cold exposure on organisms by the introduction of whole-body cryostimulation in dementia patients could lead to alterations in gut microbiota and, therefore, decrease of an inflammatory response and insulin resistance, which remain one of the critical metabolic features of dementia. Further studies are needed in order to explore the potential application of recent findings and ways of achieving the desired goals.
-
-[Source](https://journals.lww.com/jaanp/Fulltext/2020/07000/The_influence_of_the_gut_microbiome_on_obesity.5.aspx)
-
-10.1016/j.pnpbp.2020.110039
+10.1111/tbed.13743
 
 ---
 
-## The influence of the gut microbiome on obesity – 
+## SARS-CoV-2 is not present in the vaginal fluid of pregnant women with COVID-19.
 
-[Source](https://journals.lww.com/jaanp/Fulltext/2020/07000/The_influence_of_the_gut_microbiome_on_obesity.5.aspx)
-
----
-
-## Comparative analysis of the gut microbiota of <em>Apis cerana</em> in Yunnan using high-throughput sequencing
-
-[Source](https://doi.org/10.1007/s00203-020-01974-0)
+[Source](http://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/abs/10.1080/14767058.2020.1793318&hl=en&sa=X&d=14925771207309317116&scisig=AAGBfm2rAKpXpYPSyxEHBynUl4UHMvRrkA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q&html=)
 
 ---
 
-## Higher tree diversity increases soil microbial resistance to drought.
- 15.07.2020, _LM Gillespie, N Fromin, A Milcu, B Buatois, C Pontoizeau, S Hättenschwiler_
+## Targeting methionine synthase in a fungal pathogen causes a metabolic imbalance that impacts cell energetics, growth and virulence.
 
-
-Predicted increases in drought frequency and severity may change soil microbial functioning. Microbial resistance and recovery to drought depend on plant community characteristics, among other factors, yet how changes in plant diversity modify microbial drought responses is uncertain. Here, we assessed how repeated drying-rewetting cycles affect soil microbial functioning and whether tree species diversity modifies these effects with a microcosm experiment using soils from different European forests. Our results show that microbial aerobic respiration and denitrification decline under drought but are similar in single and mixed tree species forests. However, microbial communities from mixed forests resist drought better than those from mono-specific forests. This positive tree species mixture effect is robust across forests differing in environmental conditions and species composition. Our data show that mixed forests mitigate drought effects on soil microbial processes, suggesting greater stability of biogeochemical cycling in mixed forests should drought frequency increase in the future.
-
-[Source](https://doi.org/10.1038/s42003-020-1112-0)
-
-10.1038/s42003-020-1112-0
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.06.04.131862v4??collection)
 
 ---
 
-## Effect of land uses on soil microbial community structures among different soil depths in northeastern China
+## All-Natural Soap For Nourished And Balanced Microbiome Product Launched
 
-[Source](https://doi.org/10.1016/j.ejsobi.2020.103205)
-
----
-
-## Structural variability and niche differentiation of the rhizosphere and endosphere fungal microbiome of <em>Casuarina equisetifolia</em> at different ages.
-
-[Source](https://link.springer.com/article/10.1007/s42770-020-00337-7)
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://newswire.net/newsroom/pr/00121975-https-wosh-com.html&ct=ga&cd=CAEYCSoUMTU2MzY1MTQ4ODcxNzUwMjI0MzQyGjQ5ZGY0MDY3NTljZWEyZTA6Y29tOmVuOlVT&usg=AFQjCNEwynQ9s2cMt_A02EoRhypl5uBCiA)
 
 ---
 
-## Substrate regulation leads to differential responses of microbial ammonia-oxidizing communities to ocean warming
+## Experimental approaches to investigating the vaginal biofilm microbiome.
 
-[Source](https://doi.org/10.1038/s41467-020-17366-3)
-
----
-
-## Diversity and dynamics of relevant nanoplanktonic diatoms in the Western English Channel
-
-[Source](https://doi.org/10.1038/s41396-020-0659-6)
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://pubmed.ncbi.nlm.nih.gov/24664828/&ct=ga&cd=CAEYDCoUMTcwNDk4MDUyNzA0ODgzOTk3MTUyGjQ5ZGY0MDY3NTljZWEyZTA6Y29tOmVuOlVT&usg=AFQjCNG3jprIkiNj6_j01CcTcHGYN1Hovg)
 
 ---
 
-## Lake characteristics influence how methanogens in littoral sediments respond to terrestrial litter inputs
+## The extracellular vesicle of gut microbial Paenalcaligenes hominis is a risk factor for vagus nerve-mediated cognitive impairment. 
 
-[Source](https://doi.org/10.1038/s41396-020-0680-9)
-
----
-
-## Heavy metal concentrations in Brazilian port areas and their relationships with microorganisms: can pollution in these areas change the microbial community?
-
-[Source](https://doi.org/10.1007/s10661-020-08413-z)
+[Source](http://click.springernature.com/f/a/XD9yQkZJzCOAbZ663rQaNQ~~/AAEGiQA~/RgRg9-OCP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjAtMDA4ODEtMlcDc3BjQgoAKoJeFV_RTfK-UhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
 
 ---
 
-## Material conversion, microbial community composition and metabolic functional succession during green soybean hull composting
+## Evolution of Gut Microbiome and Metabolome in Suspected Necrotizing Enterocolitis.
 
-[Source](https://doi.org/10.1016/j.biortech.2020.123823)
-
----
-
-## Hitchhiking, collapse, and contingency in phage infections of migrating bacterial populations
-
-[Source](https://doi.org/10.1038/s41396-020-0664-9)
+[Source](https://www.google.com/url?rct=j&sa=t&url=https://www.mdpi.com/2077-0383/9/7/2278/pdf&ct=ga&cd=CAEYDyoUMTcwNDk4MDUyNzA0ODgzOTk3MTUyGjQ5ZGY0MDY3NTljZWEyZTA6Y29tOmVuOlVT&usg=AFQjCNEKAj-C8UogqeFyXO5ksdRMtMuKNA)
 
 ---
 
-## The LUCA and its complex virome
+## Effect of a Nutritional Intervention on the Intestinal Microbiota of Vertically HIV-Infected Children: The Pediabiota Study.
 
-[Source](https://doi.org/10.1038/s41579-020-0408-x)
-
----
-
-## Insights into the dynamics between viruses and their hosts in a hot spring microbial mat
-
-[Source](https://doi.org/10.1038/s41396-020-0705-4)
+[Source](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/2072-6643/12/7/2112/pdf&hl=en&sa=X&d=5492092724335759642&scisig=AAGBfm3WuVhTKaJqWXi_u0izbUhz7zYGFQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g&html=)
 
 ---
 
-## IDMIL: an alignment-free Interpretable Deep Multiple Instance Learning (MIL) for predicting disease from whole-metagenomic data
+## Parthenogenesis in weevils of the tribe Naupactini (Coleoptera, Curculionidae): a Wolbachia-density dependent trait?
 
-[Source](https://doi.org/10.1093/bioinformatics/btaa477)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.07.17.208447v1??collection)
 
 ---
 
-## Astrobiology and Cuatro Ciénegas Basin as an Analog of Early Earth
+## Humic acids enrich the plant microbiota with bacterial candidates for the suppression of pathogens.
 
-[Source](https://doi.org/10.1007/978-3-030-46087-7_11)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.07.18.210427v1??collection)
+
+---
+
+## Predicting disease occurrence with high accuracy based on soil macroecological patterns of Fusarium wilt.
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.nature.com/articles/s41396-020-0720-5&hl=en&sa=X&d=10268843655828310399&scisig=AAGBfm00hJ7Osp8LOyTz4GKUcHd5oAUZIw&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g&html=)
+
+---
+
+## The gut microbiota of brood parasite and host nestlings reared within the same environment: disentangling genetic and environmental effects.
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.nature.com/articles/s41396-020-0719-y&hl=en&sa=X&d=16101416119598243992&scisig=AAGBfm0AWEI76yddHg0HuiYhbk2MY3PZ7A&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g&html=)
+
+---
+
+## Two possible candidate enzymes from Ulva lactuca-associated epiphytic bacteria obtained through PCR and functional evaluation.
+
+[Source](http://scholar.google.com/scholar_url?url=https://revistas.javeriana.edu.co/index.php/scientarium/article/view/25583&hl=en&sa=X&d=3380232546078493480&scisig=AAGBfm3Ts75CLjDjS5XDwWBkwCYKngW1xA&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q&html=)
+
+---
+
+## Genomic insights into the salt tolerance and cold adaptation of Planococcus halotolerans SCU63 T. 
+
+[Source](http://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s00203-020-01979-9&hl=en&sa=X&d=4334987777811136017&scisig=AAGBfm2-gU7hOwVHIBCRTbxUPs2YHJ6-ew&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:10006653971687045490:AAGBfm3w9Kzf8KSg7PNcUme_UJiGm8mT9Q&html=)
+
+---
+
+## The Benefits of Probiotic Interventions in Maternal-Fetal Health: An Appraise Review.
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S2213434420300360&hl=en&sa=X&d=5445105253845495425&scisig=AAGBfm0NrOEJqixT7NkI9Zufh6u9T2wZlQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:16140547372453160906:AAGBfm0S1UNeL_N1iGvxDLdaLFF8ssKMQw&html=)
+
+---
+
+## Low Host Abundance and High Temperature Determine Switching from Lytic to Lysogenic Cycles in Planktonic Microbial Communities in a Tropical Sea (Red Sea).
+
+[Source](http://scholar.google.com/scholar_url?url=https://www.mdpi.com/1999-4915/12/7/761/pdf&hl=en&sa=X&d=12011481027863893962&scisig=AAGBfm303VTim9rNmMWAhP-XpmC7iNWHHQ&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig&html=)
 
 ---
 
