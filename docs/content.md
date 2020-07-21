@@ -22,7 +22,7 @@ By studying the entire human faecal resistome and associated microbiome, the div
 ---
 
 ## Nutrition and Gastrointestinal Microbiota, Microbial-Derived Secondary Bile Acids, and Cardiovascular Disease.
- 18.07.2020, _J Rodríguez-Morató, NR Matthan_
+ 20.07.2020, _J Rodríguez-Morató, NR Matthan_
 
 
 The goal is to review the connection between gut microbiota and cardiovascular disease, with specific emphasis on bile acids, and the influence of diet in modulating this relationship.
