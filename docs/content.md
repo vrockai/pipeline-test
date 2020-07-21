@@ -21,15 +21,15 @@ By studying the entire human faecal resistome and associated microbiome, the div
 
 ---
 
-## Nutrition and Gastrointestinal Microbiota, Microbial-Derived Secondary Bile Acids, and Cardiovascular Disease.
- 20.07.2020, _J Rodríguez-Morató, NR Matthan_
+## Gut microbiota in dementia. Critical review of novel findings and their potential application.
+ 20.07.2020, _M Łuc, B Misiak, M Pawłowski, B Stańczykiewicz, A Zabłocka, D Szcześniak, A Pałęga, J Rymaszewska_
 
 
-The goal is to review the connection between gut microbiota and cardiovascular disease, with specific emphasis on bile acids, and the influence of diet in modulating this relationship.
+There is a great deal of impetus for the comprehensive understanding of the complete pathological function, genetic information, and functional diversity of the gut microbiota that favors the development of dementia. It has been reported that patients with mild cognitive impairment and Alzheimer's disease present with several metabolic and immune-inflammatory alterations. The recently highlighted aspects of human health linked to cognitive decline include insulin-resistance, obesity, and chronic low-grade inflammation. Gut microbiota is known to produce neurotransmitters, such as GABA, acetylcholine, dopamine or serotonin, vitamins, intestinal toxins, and modulate nerve signaling - with emphasis on the vagus nerve. Additionally, gut dysbiosis results in impaired synthesis of signaling proteins affecting metabolic processes relevant to the development of Alzheimer's disease. Due to numerous links of gut microbiota to crucial metabolic and inflammatory pathways, attempts aimed at correcting the gut microflora composition may affect dementia pathology in a pleiotropic manner. Taking advantage of the metabolic effects of cold exposure on organisms by the introduction of whole-body cryostimulation in dementia patients could lead to alterations in gut microbiota and, therefore, decrease of an inflammatory response and insulin resistance, which remain one of the critical metabolic features of dementia. Further studies are needed in order to explore the potential application of recent findings and ways of achieving the desired goals.
 
 [Source](https://journals.lww.com/jaanp/Fulltext/2020/07000/The_influence_of_the_gut_microbiome_on_obesity.5.aspx)
 
-10.1007/s11883-020-00863-7
+10.1016/j.pnpbp.2020.110039
 
 ---
 
