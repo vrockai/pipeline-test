@@ -77,8 +77,14 @@ Tracing and isolation of close contacts is used to control outbreaks of coronavi
 ---
 
 ## The gut microbiota of brood parasite and host nestlings reared within the same environment: disentangling genetic and environmental effects.
+ 18.07.2020, _CY Lee, JM Peralta-Sánchez, M Martínez-Bueno, AP Møller, M Rabelo-Ruiz, C Zamora-Muñoz, JJ Soler_
+
+
+Gut microbiota are essential for host health and survival, but we are still far from understanding the processes involved in shaping their composition and evolution. Controlled experimental work under lab conditions as well as human studies pointed at environmental factors (i.e., diet) as the main determinant of the microbiota with little evidence of genetic effects, while comparative interspecific studies detected significant phylogenetic effects. Different species, however, also differ in diet, feeding behavior, and environmental characteristics of habitats, all of which also vary interspecifically, and, therefore, can potentially explain most of the detected phylogenetic patterns. Here, we take advantage of the reproductive strategy of avian brood parasites and investigate gut microbiotas (esophageal (food and saliva) and intestinal) of great spotted cuckoo (Clamator glandarius) and magpie (Pica pica) nestlings that grow in the same nests. We also estimated diet received by each nestling and explored its association with gut microbiota characteristics. Although esophageal microbiota of magpies and great spotted cuckoos raised within the same environment (nest) did not vary, the microbiota of cloacal samples showed clear interspecific differences. Moreover, diet of great spotted cuckoo and magpie nestlings explained the microbiota composition of esophageal samples, but not of cloaca samples. These results strongly suggest a genetic component determining the intestinal microbiota of host and parasitic bird species, indicating that interspecific differences in gut morphology and physiology are responsible for such interspecific differences.
 
 [Source](http://scholar.google.com/scholar_url?url=https://www.nature.com/articles/s41396-020-0719-y&hl=en&sa=X&d=16101416119598243992&scisig=AAGBfm0AWEI76yddHg0HuiYhbk2MY3PZ7A&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:8200090174938674687:AAGBfm2odimi8IozkeiKohETOE-tay-u8g&html=)
+
+10.1038/s41396-020-0719-y
 
 ---
 
