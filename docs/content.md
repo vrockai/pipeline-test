@@ -1,49 +1,60 @@
-## Microbiota from alginate oligosaccharide-dosed mice successfully mitigated small intestinal mucositis.
- 26.07.2020, _P Zhang, J Liu, B Xiong, C Zhang, B Kang, Y Gao, Z Li, W Ge, S Cheng, Y Hao, W Shen, S Yu, L Chen, X Tang, Y Zhao, H Zhang_
+## The dialogue between unconventional T cells and the microbiota.
+ 24.07.2020, _Q Lin, M Kuypers, DJ Philpott, T Mallevaey_
 
 
-The increasing incidence of cancer and intestinal mucositis induced by chemotherapeutics are causing worldwide concern. Many approaches such as fecal microbiota transplantation (FMT) have been used to minimize mucositis. However, it is still unknown whether FMT from a donor with beneficial gut microbiota results in more effective intestinal function in the recipient. Recently, we found that alginate oligosaccharides (AOS) benefit murine gut microbiota through increasing "beneficial" microbes to rescue busulfan induced mucositis.
+The mammalian immune system is equipped with unconventional T cells that respond to microbial molecules such as glycolipids and small-molecule metabolites, which are invisible to conventional CD4 and CD8 T cells. Unconventional T cells include invariant natural killer T (iNKT) cells and mucosa-associated invariant T (MAIT) cells, which are involved in a wide range of infectious and non-infectious diseases, such as cancer and autoimmunity. In addition, their high conservation across mammals, their restriction by non-polymorphic antigen-presenting molecules, and their immediate and robust responses make these 'innate' T cells appealing targets for the development of one-size-fits-all immunotherapies. In this review, we discuss how iNKT and MAIT cells directly and indirectly detect the presence of and respond to pathogenic and commensal microbes. We also explore the current understanding of the bidirectional relationship between the microbiota and innate T cells, and how this crosstalk shapes the immune response in disease.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00886-x)
+[Source](https://www.nature.com/articles/s41385-020-0326-2)
 
-10.1186/s40168-020-00886-x
-
----
-
-## Distinct microbial communities along the chronic oil pollution continuum of the Persian Gulf converge with oil spill accidents
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/07/26/2020.07.25.221044.full.pdf)
+10.1038/s41385-020-0326-2
 
 ---
 
-## Catabolism and interactions of uncultured organisms shaped by eco-thermodynamics in methanogenic bioprocesses.
- 27.07.2020, _MK Nobu, T Narihiro, R Mei, Y Kamagata, PKH Lee, PH Lee, MJ McInerney, WT Liu_
+## Stability of Skin Microbiome at Sacral Regions of Healthy Young Adults, Ambulatory Older Adults, and Bedridden Older Patients After 2 Years.
+ 22.07.2020, _K Ogai, K Ogura, N Ohgi, S Park, M Aoki, T Urai, S Nagase, S Okamoto, J Sugama_
 
 
-Current understanding of the carbon cycle in methanogenic environments involves trophic interactions such as interspecies H2 transfer between organotrophs and methanogens. However, many metabolic processes are thermodynamically sensitive to H2 accumulation and can be inhibited by H2 produced from co-occurring metabolisms. Strategies for driving thermodynamically competing metabolisms in methanogenic environments remain unexplored.
+The sacral skin of bedridden older patients often develops a dysbiotic condition. To clarify whether the condition changes or is sustained over time, we analyzed the skin microbiome and the skin physiological functions of the sacral skin in patients who completed our 2017 study.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00885-y)
+[Source](https://journals.sagepub.com/doi/abs/10.1177/1099800420941151)
 
-10.1186/s40168-020-00885-y
-
----
-
-## Deciphering taxonomic and functional diversity of fungi as potential bioindicators within confluence stretch of Ganges and Yamuna Rivers, impacted by anthropogenic activities.
- 10.06.2020, _R Samson, V Rajput, M Shah, R Yadav, P Sarode, SG Dastager, MS Dharne, K Khairnar_
-
-
-_Environmental Biomarkers, Environmental Monitoring, Fungi, Metagenomics, Microbiota, Rivers, Water Microbiology_
-River confluences are interesting ecological niche with limited information in respect of the structure and the functions of diverse microbial communities. Fungi are gaining global attention as promising biological spectacles for defining the trophic status of riverine systems. We condense existing knowledge in confluence diversity in two Indian rivers (i.e. Ganges and Yamuna), by combining sediment metagenomics using long read aided MinION nanopore sequencing. A total of 63 OTU's were observed, of which top 20 OTU's were considered based on relative abundance of each OTU at a particular location. Fungal genera such as Aspergillus, Penicillium, Kluveromyces, Lodderomyces, and Nakaseomyces were deciphered as potential bio indicators of river pollution and eutrophication in the confluent zone. In silico functional gene analysis uncovered hits for neurodegenerative diseases and xenobiotic degradation potential, supporting bioindication of river pollution in wake of anthropogenic intervention.
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/07/25/2020.02.06.936302.full.pdf?%3Fcollection=)
-
-10.1016/j.chemosphere.2020.126507
+10.1177/1099800420941151
 
 ---
 
-## Freshwater monitoring by nanopore sequencing
+## The skin microbiome as a clinical biomarker in atopic eczema: Promises, navigation, and pitfalls.
+ 27.07.2020, _M Reiger, C Traidl-Hoffmann, AU Neumann_
 
-[Source](https://www.biorxiv.org/content/biorxiv/early/2020/07/25/2020.02.06.936302.full.pdf?%3Fcollection=)
+
+_Biomarkers, Dermatitis, Atopic, Eczema, Humans, Microbiota, Skin_
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0091674919314873)
+
+10.1016/j.jaci.2019.11.004
+
+---
+
+## Feeding Bugs to Bugs: Edible Insects Modify the Human Gut Microbiome in an in vitro Fermentation Model
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01763/full)
+
+---
+
+## The Application of Metabolomics for the Study of Cereal Corn (Zea mays L.)
+
+[Source](https://www.mdpi.com/2218-1989/10/8/300/htm)
+
+---
+
+## Elevational is the main factor controlling the soil microbial community structure in alpine tundra of the Changbai Mountain
+
+[Source](https://www.nature.com/articles/s41598-020-69441-w)
+
+---
+
+## A guide to deciphering microbial interactions and metabolic fluxes in microbiome communities
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300896)
 
 ---
 
