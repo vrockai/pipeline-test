@@ -46,15 +46,27 @@ _Biomarkers, Dermatitis, Atopic, Eczema, Humans, Microbiota, Skin_
 
 ---
 
-## Elevational is the main factor controlling the soil microbial community structure in alpine tundra of the Changbai Mountain
+## Elevational is the main factor controlling the soil microbial community structure in alpine tundra of the Changbai Mountain.
+ 29.07.2020, _M Tang, L Li, X Wang, J You, J Li, X Chen_
+
+
+To reveal the self-coordination mechanism of the fragile ecosystem of alpine tundra, we explored the relationship between soil microorganisms and other elements. On the alpine tundra of the Changbai Mountain, different vegetation types, altitudes and soil properties were selected as driving factors of soil microbial community. Soil microbial community, C- and N-cycling functional microbial and fungal biomass were analyzed. Structural equation model was used to study the control of biotic and abiotic factors in rhizosphere soil microbial community. The results showed that the pH value of soil had the strongest direct impact on the diversity and community structure of soil microorganisms, and had significant correlation with most of the C- and N-cycling functional microbial; organic carbon and vegetation also have strongest direct effect on fungal biomass, but all of them were not main factors influence soil microbial community structure, the elevation was the main controlling factor. In addition, the elevation mainly through indirect action affects the soil microbial community by driving distribution of plant species, soil organic carbon and pH value. This finding highlighted that elevation was the main predictor to determine rhizosphere microbial community structure but not vegetation in alpine tundra of Changbai Mountain.
 
 [Source](https://www.nature.com/articles/s41598-020-69441-w)
 
+10.1038/s41598-020-69441-w
+
 ---
 
-## A guide to deciphering microbial interactions and metabolic fluxes in microbiome communities
+## A guide to deciphering microbial interactions and metabolic fluxes in microbiome communities.
+ 25.07.2020, _MR Antoniewicz_
+
+
+Microbiomes occupy nearly all environments on Earth. These communities of interacting microorganisms are highly complex, dynamic biological systems that impact and reshape the molecular composition of their habitats by performing complex biochemical transformations. The structure and function of microbiomes are influenced by local environmental stimuli and spatiotemporal changes. In order to control the dynamics and ultimately the function of microbiomes, we need to develop a mechanistic and quantitative understanding of the ecological, molecular, and evolutionary driving forces that govern these systems. Here, we describe recent advances in developing computational and experimental approaches that can promote a more fundamental understanding of microbial communities through comprehensive model-based analysis of heterogeneous data types across multiple scales, from intracellular metabolism, to metabolite cross-feeding interactions, to the emergent macroscopic behaviors. Ultimately, harnessing the full potential of microbiomes for practical applications will require developing new predictive modeling approaches and better tools to manipulate microbiome interactions.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300896)
+
+10.1016/j.copbio.2020.07.001
 
 ---
 
