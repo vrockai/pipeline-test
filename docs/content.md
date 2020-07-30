@@ -1,72 +1,201 @@
-## The dialogue between unconventional T cells and the microbiota.
- 24.07.2020, _Q Lin, M Kuypers, DJ Philpott, T Mallevaey_
+## Changes in the vaginal microbiota following antibiotic treatment for Mycoplasma genitalium, Chlamydia trachomatis and bacterial vaginosis.
+ 29.07.2020, _P Ahrens, LO Andersen, B Lilje, TB Johannesen, EG Dahl, S Baig, JS Jensen, L Falk_
 
 
-The mammalian immune system is equipped with unconventional T cells that respond to microbial molecules such as glycolipids and small-molecule metabolites, which are invisible to conventional CD4 and CD8 T cells. Unconventional T cells include invariant natural killer T (iNKT) cells and mucosa-associated invariant T (MAIT) cells, which are involved in a wide range of infectious and non-infectious diseases, such as cancer and autoimmunity. In addition, their high conservation across mammals, their restriction by non-polymorphic antigen-presenting molecules, and their immediate and robust responses make these 'innate' T cells appealing targets for the development of one-size-fits-all immunotherapies. In this review, we discuss how iNKT and MAIT cells directly and indirectly detect the presence of and respond to pathogenic and commensal microbes. We also explore the current understanding of the bidirectional relationship between the microbiota and innate T cells, and how this crosstalk shapes the immune response in disease.
+The human vagina harbor a rich microbiota. The optimal state is dominated by lactobacilli that help to maintain health and prevent various diseases. However, the microbiota may rapidly change to a polymicrobial state that has been linked to a number of diseases. In the present study, the temporal changes of the vaginal microbiota in patients treated for sexually transmitted diseases or bacterial vaginosis (BV) and in untreated controls were studied for 26 days. The patients included 52 women treated with azithromycin, tetracyclines or moxifloxacin for present or suspected infection with Chlamydia trachomatis or Mycoplasma genitalium. Women with concurrent BV were also treated with metronidazole. The controls were 10 healthy women of matching age. The microbiota was analyzed by 16S rRNA gene deep sequencing, specific qPCRs and microscopy. There was generally good correlation between Nugent score and community state type (CST) and qPCR confirmed the sequencing results. By sequencing, more than 600 different taxa were found, but only 33 constituted more than 1 ‰ of the sequences. In both patients and controls the microbiota could be divided into three different community state types, CST-I, CST-III and CST-IV. Without metronidazole, the microbiota remained relatively stable regarding CST although changes were seen during menstrual periods. Administration of metronidazole changed the microbiota from CST-IV to CST-III in approximately 50% of the treated patients. In contrast, the CST was generally unaffected by azithromycin or tetracyclines. In 30% of the BV patients, Gardnerella vaginalis was not eradicated by metronidazole. The majority of women colonized with Ureaplasma parvum remained positive after azithromycin while U. urealyticum was eradicated.
 
-[Source](https://www.nature.com/articles/s41385-020-0326-2)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236036)
 
-10.1038/s41385-020-0326-2
-
----
-
-## Stability of Skin Microbiome at Sacral Regions of Healthy Young Adults, Ambulatory Older Adults, and Bedridden Older Patients After 2 Years.
- 22.07.2020, _K Ogai, K Ogura, N Ohgi, S Park, M Aoki, T Urai, S Nagase, S Okamoto, J Sugama_
-
-
-The sacral skin of bedridden older patients often develops a dysbiotic condition. To clarify whether the condition changes or is sustained over time, we analyzed the skin microbiome and the skin physiological functions of the sacral skin in patients who completed our 2017 study.
-
-[Source](https://journals.sagepub.com/doi/abs/10.1177/1099800420941151)
-
-10.1177/1099800420941151
+10.1371/journal.pone.0236036
 
 ---
 
-## The skin microbiome as a clinical biomarker in atopic eczema: Promises, navigation, and pitfalls.
- 27.07.2020, _M Reiger, C Traidl-Hoffmann, AU Neumann_
+## [Intestinal microbiom modulates the response to antitumor immunotherapy].
+ 25.03.2020, _EI Olekhnovich, AI Manolov, AV Pavlenko, DN Konanov, DE Fedorov, PO Tikhonova, OE Glushchenko, EN Ilina_
 
 
-_Biomarkers, Dermatitis, Atopic, Eczema, Humans, Microbiota, Skin_
+_Gastrointestinal Microbiome, Humans, Immunotherapy, Intestines, Neoplasms_
+Numerous studies confirm the high degree of involvement of the intestinal microbiota in most processes in the human body. There is evidence for the effect of intestinal microbiota on the success of chemo and immunotherapy of oncological diseases. It is assumed that the intestinal microbiota exhibits an indirect effect on the antitumor therapy through such mechanisms as general immunomodulation, an increase in cells that specifically respond to antigens of both microbial and tumor origin, metabolism, degradation (utilization) of drug compounds. The intestinal microbiota is currently considered as an additional, but important target for studying the effective use of antitumor therapy and reducing its toxicity, as well as a predictor of the success of immunotherapy. In this review, we highlight the results of studies published to date that confirm the relationship between gut microbiome and antitumor efficacy of immune checkpoint inhibitors. Despite the promising and theoretically substantiated conclusions, there are still some discrepancies among the existing data that will have to be addressed in order to facilitate the further development of this direction.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0091674919314873)
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06111-x)
 
-10.1016/j.jaci.2019.11.004
-
----
-
-## Feeding Bugs to Bugs: Edible Insects Modify the Human Gut Microbiome in an in vitro Fermentation Model
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01763/full)
+10.18097/PBMC20206601054
 
 ---
 
-## The Application of Metabolomics for the Study of Cereal Corn (Zea mays L.)
+## Gut Microbiome Modulates Response to Cancer Immunotherapy
 
-[Source](https://www.mdpi.com/2218-1989/10/8/300/htm)
-
----
-
-## Elevational is the main factor controlling the soil microbial community structure in alpine tundra of the Changbai Mountain.
- 29.07.2020, _M Tang, L Li, X Wang, J You, J Li, X Chen_
-
-
-To reveal the self-coordination mechanism of the fragile ecosystem of alpine tundra, we explored the relationship between soil microorganisms and other elements. On the alpine tundra of the Changbai Mountain, different vegetation types, altitudes and soil properties were selected as driving factors of soil microbial community. Soil microbial community, C- and N-cycling functional microbial and fungal biomass were analyzed. Structural equation model was used to study the control of biotic and abiotic factors in rhizosphere soil microbial community. The results showed that the pH value of soil had the strongest direct impact on the diversity and community structure of soil microorganisms, and had significant correlation with most of the C- and N-cycling functional microbial; organic carbon and vegetation also have strongest direct effect on fungal biomass, but all of them were not main factors influence soil microbial community structure, the elevation was the main controlling factor. In addition, the elevation mainly through indirect action affects the soil microbial community by driving distribution of plant species, soil organic carbon and pH value. This finding highlighted that elevation was the main predictor to determine rhizosphere microbial community structure but not vegetation in alpine tundra of Changbai Mountain.
-
-[Source](https://www.nature.com/articles/s41598-020-69441-w)
-
-10.1038/s41598-020-69441-w
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06111-x)
 
 ---
 
-## A guide to deciphering microbial interactions and metabolic fluxes in microbiome communities.
- 25.07.2020, _MR Antoniewicz_
+## Healthy Human Gastrointestinal Microbiome: Composition and Function After a Decade of Exploration.
+ 28.07.2020, _W Ruan, MA Engevik, JK Spinler, J Versalovic_
 
 
-Microbiomes occupy nearly all environments on Earth. These communities of interacting microorganisms are highly complex, dynamic biological systems that impact and reshape the molecular composition of their habitats by performing complex biochemical transformations. The structure and function of microbiomes are influenced by local environmental stimuli and spatiotemporal changes. In order to control the dynamics and ultimately the function of microbiomes, we need to develop a mechanistic and quantitative understanding of the ecological, molecular, and evolutionary driving forces that govern these systems. Here, we describe recent advances in developing computational and experimental approaches that can promote a more fundamental understanding of microbial communities through comprehensive model-based analysis of heterogeneous data types across multiple scales, from intracellular metabolism, to metabolite cross-feeding interactions, to the emergent macroscopic behaviors. Ultimately, harnessing the full potential of microbiomes for practical applications will require developing new predictive modeling approaches and better tools to manipulate microbiome interactions.
+_Biomedical Research, Gastrointestinal Microbiome, Gastrointestinal Tract, Health Status, Humans, Microbiota_
+The human gastrointestinal (GI) tract contains communities of microbes (bacteria, fungi, viruses) that vary by anatomic location and impact human health. Microbial communities differ in composition based on age, diet, and location in the gastrointestinal tract. Differences in microbial composition have been associated with chronic disease states. In terms of function, microbial metabolites provide key signals that help maintain healthy human physiology. Alterations of the healthy gastrointestinal microbiome have been linked to the development of various disease states including inflammatory bowel disease, diabetes, and colorectal cancer. While the definition of a healthy GI microbiome cannot be precisely identified, features of a healthy gut microbiome include relatively greater biodiversity and relative abundances of specific phyla and genera. Microbes with desirable functional profiles for the human host have been identified, in addition to specific metabolic features of the microbiome. This article reviews the composition and function of the healthy human GI microbiome, including the relative abundances of different bacterial taxa and the specific metabolic pathways and classes of microbial metabolites contributing to human health and disease prevention.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0958166920300896)
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06118-4)
 
-10.1016/j.copbio.2020.07.001
+10.1007/s10620-020-06118-4
+
+---
+
+## Sleep and Microbiome in Psychiatric Diseases.
+ 28.07.2020, _J Wagner-Skacel, N Dalkner, S Moerkl, K Kreuzer, A Farzi, S Lackner, A Painold, EZ Reininghaus, MI Butler, S Bengesser_
+
+
+Disturbances in the gut-brain barrier play an essential role in the development of mental disorders. There is considerable evidence showing that the gut microbiome not only affects digestive, metabolic and immune functions of the host but also regulates host sleep and mental states through the microbiota-gut-brain axis. The present review summarizes the role of the gut microbiome in the context of circadian rhythms, nutrition and sleep in psychiatric disorders.
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06109-5)
+
+10.3390/nu12082198
+
+---
+
+## Microbiome and Its Role in Irritable Bowel Syndrome
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06109-5)
+
+---
+
+## Diet and Gut Microbes Act Coordinately to Enhance Programmed Cell Death and Reduce Colorectal Cancer Risk.
+ 28.07.2020, _RS Chapkin, SL Navarro, MAJ Hullar, JW Lampe_
+
+
+_Animals, Apoptosis, Colorectal Neoplasms, Diet, Diet Therapy, Dietary Fiber, Fatty Acids, Omega-3, Gastrointestinal Microbiome, Humans_
+Diet is an important risk factor for colorectal cancer (CRC), and several dietary constituents implicated in CRC are modified by gut microbial metabolism. Microbial fermentation of dietary fiber produces short-chain fatty acids, e.g., acetate, propionate, and butyrate. Dietary fiber has been shown to reduce colon tumors in animal models, and, in vitro, butyrate influences cellular pathways important to cancer risk. Furthermore, work from our group suggests that the combined effects of butyrate and omega-3 polyunsaturated fatty acids (n-3 PUFA) may enhance the chemopreventive potential of these dietary constituents. We postulate that the relatively low intakes of n-3 PUFA and fiber in Western populations and the failure to address interactions between these dietary components may explain why chemoprotective effects of n-3 PUFA and fermentable fibers have not been detected consistently in prospective cohort studies. In this review, we summarize the evidence outlining the effects of n-3 long-chain PUFA and highly fermentable fiber with respect to alterations in critical pathways important to CRC prevention, particularly intrinsic mitochondrial-mediated programmed cell death resulting from the accumulation of lipid reactive oxygen species (ferroptosis), and epigenetic programming related to lipid catabolism and beta-oxidation-associated genes.
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06106-8)
+
+10.1007/s10620-020-06106-8
+
+---
+
+## Diversity of Gut Microbiota and Bifidobacterial Community of Chinese Subjects of Different Ages and from Different Regions.
+ 29.07.2020, _B Yang, S Yan, Y Chen, RP Ross, C Stanton, J Zhao, H Zhang, W Chen_
+
+
+Gut microbiota composition and functionality are closely linked to host health. In this study, the fecal microbiota and bifidobacterial communities of 111 healthy volunteers from four regions of China of varying age profiles (Child, 1-5 years; Young, 18-50 years; Elder, 60-80 years; Longevity, ≥90 years) were investigated via high-throughput sequencing. Canonical analysis revealed that the gut microbiota, as well as bifidobacteria profiles of the subjects, clustered according to their regions and age. Eight genera were shared among all subjects, however, certain genera distributed differently in subjects grouped by region and age. Faecalibacterium was enriched in samples from Zhongxiang, unclassified Ruminococcaceae and Christensenellaceae were enriched in the Longevity group, and Bifidobacterium was enriched in Child. Within Bifidobacterium, B. longum was the most abundant species in almost all samples except for Child, in which B. pseudocatenulatum was the most abundant. Additionally, the abundances of B. adolescentis and B. dentium were lower in Child. In conclusion, our results suggest that geography and age affect the structure of the gut microbiota, as well as Bifidobacterium composition, and this variation may greatly associate with the metabolic and immune changes that occur during the process of aging.
+
+[Source](https://www.mdpi.com/2076-2607/8/8/1108)
+
+10.3390/microorganisms8081108
+
+---
+
+## Gut Microbiota Changes in Nonalcoholic Fatty Liver Disease and Concomitant Cardiovascular Diseases
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.27.224329v1.abstract)
+
+---
+
+## Lactobacillus plantarum-Mediated Regulation of Dietary Aluminum Induces Changes in the Human Gut Microbiota: an In Vitro Colonic Fermentation Study
+
+[Source](https://link.springer.com/article/10.1007/s12602-020-09677-0)
+
+---
+
+## Troublesome friends within us: the role of gut microbiota on rheumatoid arthritis etiopathogenesis and its clinical and therapeutic relevance
+
+[Source](https://link.springer.com/article/10.1007/s10238-020-00647-y)
+
+---
+
+## Duodenal Microbiota in Stunted Undernourished Children with Enteropathy
+
+[Source](https://www.nejm.org/doi/full/10.1056/NEJMoa1916004)
+
+---
+
+## Small molecules, big effects: microbial metabolites in intestinal immunity
+
+[Source](https://journals.physiology.org/doi/full/10.1152/ajpgi.00263.2019)
+
+---
+
+## The gut microbiome switches mutant p53 from tumour-suppressive to oncogenic
+
+[Source](https://www.nature.com/articles/s41586-020-2541-0)
+
+---
+
+## Impact of PepT1 deletion on microbiota composition and colitis requires multiple generations
+
+[Source](https://www.nature.com/articles/s41522-020-0137-y)
+
+---
+
+## Recent advances in the role of plant metabolites in shaping the root microbiome
+
+[Source](https://f1000research.com/articles/9-151/v1)
+
+---
+
+## Selection of cereal-sourced lactic acid bacteria as candidate starters for the baking industry
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236190)
+
+---
+
+## The sources and transmission routes of microbial populations throughout a meat processing facility.
+ 17.07.2020, _B Zwirzitz, SU Wetzels, ED Dixon, B Stessl, A Zaiser, I Rabanser, S Thalguter, B Pinior, FF Roch, C Strachan, J Zanghellini, M Dzieciol, M Wagner, E Selberherr_
+
+
+Microbial food spoilage is responsible for a considerable amount of waste and can cause food-borne diseases in humans, particularly in immunocompromised individuals and children. Therefore, preventing microbial food spoilage is a major concern for health authorities, regulators, consumers, and the food industry. However, the contamination of food products is difficult to control because there are several potential sources during production, processing, storage, distribution, and consumption, where microorganisms come in contact with the product. Here, we use high-throughput full-length 16S rRNA gene sequencing to provide insights into bacterial community structure throughout a pork-processing plant. Specifically, we investigated what proportion of bacteria on meat are presumptively not animal-associated and are therefore transferred during cutting via personnel, equipment, machines, or the slaughter environment. We then created a facility-specific transmission map of bacterial flow, which predicted previously unknown sources of bacterial contamination. This allowed us to pinpoint specific taxa to particular environmental sources and provide the facility with essential information for targeted disinfection. For example, Moraxella spp., a prominent meat spoilage organism, which was one of the most abundant amplicon sequence variants (ASVs) detected on the meat, was most likely transferred from the gloves of employees, a railing at the classification step, and the polishing tunnel whips. Our results suggest that high-throughput full-length 16S rRNA gene sequencing has great potential in food monitoring applications.
+
+[Source](https://www.nature.com/articles/s41522-020-0136-z)
+
+10.1038/s41522-020-0136-z
+
+---
+
+## Characterization of the gut DNA and RNA viromes in a cohort of Chinese residents and visiting Pakistanis
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.28.226019v1.abstract)
+
+---
+
+## 52 years of ecological restoration following a major disturbance by opencast lignite mining does not reassemble microbiome structures of the original arable soils.
+ 29.07.2020, _CAO Schmid, R Reichel, P Schröder, N Brüggemann, M Schloter_
+
+
+Opencast mining for lignite continuously creates areas of land that require restoration. Here we applied a chronosequence approach to investigate the development of soil bacterial communities during 52 years as influenced by the restoration process and subsequent changes in soil physico-chemical conditions starting from the initial reclamation of the sites. By comparison with the unaffected soils near the mine, we were able to address the question if soil bacterial communities have reached a steady state within 52 years, which is comparable to the original soil. Our study revealed three distinct phases of the restoration process, each with a specific bacterial community composition. The effect size of these changes was similar to the one observed for seasonal dynamics at our sites. At the beginning of the restoration process Flavobacteriaceae, Cytophagaceae and Sphingobacteriaceae were found as typical members of the bacterial community as well as Rhizobiales as a result of the cultivation of alfalfa on the restored plots. At later stage the families Peptostreptococcaceae, Desulfurellaceae as well as Streptomycetaceae increased in relative abundance and became dominant members of the bacterial community. Even though overall bacterial abundance and richness exhibited values comparable to the original soil already 5 years after the start of the restoration process, main responder analyses reveal differences in the bacterial community structure even 52 years after the start of the restoration process. Mostly Nitrospirae were reduced in abundance in the soils restored for 52 years compared to the original soils. To broaden the significance of our study, we compared our data bioinformatically with published results from other restored areas, which were previously affected by opencast mining. Despite different durations of the different restoration phase, we could observe a large degree of conformity when bacterial patterns of succession were compared indicating common modes of action of ecological restoration tools for bacterial communities.
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06091-y)
+
+10.1016/j.scitotenv.2020.140955
+
+---
+
+## Tools for Analysis of the Microbiome
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06091-y)
+
+---
+
+## Microbial community dissimilarity for source tracking with application in forensic studies.
+ 28.07.2020, _KM Carter, M Lu, Q Luo, H Jiang, L An_
+
+
+Microbial source-tracking is a useful tool for trace evidence analysis in Forensics. Community-wide massively parallel sequencing profiles can bypass the need for satellite microbes or marker sets, which are unreliable when handling unstable samples. We propose a novel method utilizing Aitchison distance to select important suspects/sources, and then integrate it with existing algorithms in source tracking to estimate the proportions of microbial sample coming from important suspects/sources. A series of comprehensive simulation studies show that the proposed method is capable of accurate selection and therefore improves the performance of current methods such as Bayesian SourceTracker and FEAST in the presence of noise microbial sources.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236082)
+
+10.1371/journal.pone.0236082
+
+---
+
+## Pilot study examines facial microbiome diversity
+
+[Source](https://www.dermatologytimes.com/view/pilot-study-examines-facial-microbiome-diversity)
+
+---
+
+## The 2020 Way To Treat Your Skin Is All About Bacteria, Bugs And Microbiomes
+
+[Source](https://www.elle.com/uk/beauty/skin/a33336216/microbiome-skin/)
 
 ---
 
