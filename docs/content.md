@@ -133,15 +133,27 @@ Gut microbiota composition and functionality are closely linked to host health. 
 
 ---
 
-## Selection of cereal-sourced lactic acid bacteria as candidate starters for the baking industry
+## Selection of cereal-sourced lactic acid bacteria as candidate starters for the baking industry.
+ 28.07.2020, _V Milanović, A Osimani, C Garofalo, L Belleggia, A Maoloni, F Cardinali, M Mozzon, R Foligni, L Aquilanti, F Clementi_
+
+
+The quality of sourdough bread mainly depends on metabolic activities of lactic acid bacteria (LAB). The exopolysaccharides (EPS) produced by LAB affect positively the technological and nutritional properties of the bread, while phytases improve the bioavailability of the minerals by reducing its phytate content. In the present study, a pool of 152 cereal-sourced LAB were screened for production of phytases and EPS for potential use as sourdough starter cultures for the baking industry. There was large heterogeneity in the phytase activity observed among the screened isolates, with 95% showing the ability to degrade sodium phytate on plates containing Sourdough Simulation Medium (SSM). The isolates Lactobacillus brevis LD65 and Lactobacillus plantarum PB241 showed the highest enzymatic activity, while the isolates ascribed to Weissella confusa were characterized by low or no phytase activity. Only 18% of the screened LAB produced EPS, which were distinguished as ropy or mucoid phenotypes on SSM supplemented with sucrose. Almost all the EPS producers carried one or more genes (epsD/E and/or epsA) involved in the production of heteropolysaccharides (HePS), whereas the isolates ascribed to Leuconostoc citreum and W. confusa carried genes involved in the production of both HePS and homopolysaccharides (HoPS). Monosaccharide composition analysis of the EPS produced by a selected subset of isolates revealed that all the HePS included glucose, mannose, and galactose, though at different ratios. Furthermore, a few isolates ascribed to L. citreum and W. confusa and carrying the gtf gene produced β-glucans after fermentation in an ad hoc formulated barley flour medium. Based on the overall results collected, a subset of candidate sourdough starter cultures for the baking industry was selected, including Lb. brevis LD66 and L. citreum PB220, which showed high phytase activity and positive EPS production.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236190)
 
+10.1371/journal.pone.0236190
+
 ---
 
-## The sources and transmission routes of microbial populations throughout a meat processing facility
+## The sources and transmission routes of microbial populations throughout a meat processing facility.
+ 17.07.2020, _B Zwirzitz, SU Wetzels, ED Dixon, B Stessl, A Zaiser, I Rabanser, S Thalguter, B Pinior, FF Roch, C Strachan, J Zanghellini, M Dzieciol, M Wagner, E Selberherr_
+
+
+Microbial food spoilage is responsible for a considerable amount of waste and can cause food-borne diseases in humans, particularly in immunocompromised individuals and children. Therefore, preventing microbial food spoilage is a major concern for health authorities, regulators, consumers, and the food industry. However, the contamination of food products is difficult to control because there are several potential sources during production, processing, storage, distribution, and consumption, where microorganisms come in contact with the product. Here, we use high-throughput full-length 16S rRNA gene sequencing to provide insights into bacterial community structure throughout a pork-processing plant. Specifically, we investigated what proportion of bacteria on meat are presumptively not animal-associated and are therefore transferred during cutting via personnel, equipment, machines, or the slaughter environment. We then created a facility-specific transmission map of bacterial flow, which predicted previously unknown sources of bacterial contamination. This allowed us to pinpoint specific taxa to particular environmental sources and provide the facility with essential information for targeted disinfection. For example, Moraxella spp., a prominent meat spoilage organism, which was one of the most abundant amplicon sequence variants (ASVs) detected on the meat, was most likely transferred from the gloves of employees, a railing at the classification step, and the polishing tunnel whips. Our results suggest that high-throughput full-length 16S rRNA gene sequencing has great potential in food monitoring applications.
 
 [Source](https://www.nature.com/articles/s41522-020-0136-z)
+
+10.1038/s41522-020-0136-z
 
 ---
 
@@ -151,15 +163,33 @@ Gut microbiota composition and functionality are closely linked to host health. 
 
 ---
 
+## 52 years of ecological restoration following a major disturbance by opencast lignite mining does not reassemble microbiome structures of the original arable soils.
+ 29.07.2020, _CAO Schmid, R Reichel, P Schröder, N Brüggemann, M Schloter_
+
+
+Opencast mining for lignite continuously creates areas of land that require restoration. Here we applied a chronosequence approach to investigate the development of soil bacterial communities during 52 years as influenced by the restoration process and subsequent changes in soil physico-chemical conditions starting from the initial reclamation of the sites. By comparison with the unaffected soils near the mine, we were able to address the question if soil bacterial communities have reached a steady state within 52 years, which is comparable to the original soil. Our study revealed three distinct phases of the restoration process, each with a specific bacterial community composition. The effect size of these changes was similar to the one observed for seasonal dynamics at our sites. At the beginning of the restoration process Flavobacteriaceae, Cytophagaceae and Sphingobacteriaceae were found as typical members of the bacterial community as well as Rhizobiales as a result of the cultivation of alfalfa on the restored plots. At later stage the families Peptostreptococcaceae, Desulfurellaceae as well as Streptomycetaceae increased in relative abundance and became dominant members of the bacterial community. Even though overall bacterial abundance and richness exhibited values comparable to the original soil already 5 years after the start of the restoration process, main responder analyses reveal differences in the bacterial community structure even 52 years after the start of the restoration process. Mostly Nitrospirae were reduced in abundance in the soils restored for 52 years compared to the original soils. To broaden the significance of our study, we compared our data bioinformatically with published results from other restored areas, which were previously affected by opencast mining. Despite different durations of the different restoration phase, we could observe a large degree of conformity when bacterial patterns of succession were compared indicating common modes of action of ecological restoration tools for bacterial communities.
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-020-06091-y)
+
+10.1016/j.scitotenv.2020.140955
+
+---
+
 ## Tools for Analysis of the Microbiome
 
 [Source](https://link.springer.com/article/10.1007%2Fs10620-020-06091-y)
 
 ---
 
-## Microbial community dissimilarity for source tracking with application in forensic studies
+## Microbial community dissimilarity for source tracking with application in forensic studies.
+ 28.07.2020, _KM Carter, M Lu, Q Luo, H Jiang, L An_
+
+
+Microbial source-tracking is a useful tool for trace evidence analysis in Forensics. Community-wide massively parallel sequencing profiles can bypass the need for satellite microbes or marker sets, which are unreliable when handling unstable samples. We propose a novel method utilizing Aitchison distance to select important suspects/sources, and then integrate it with existing algorithms in source tracking to estimate the proportions of microbial sample coming from important suspects/sources. A series of comprehensive simulation studies show that the proposed method is capable of accurate selection and therefore improves the performance of current methods such as Bayesian SourceTracker and FEAST in the presence of noise microbial sources.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236082)
+
+10.1371/journal.pone.0236082
 
 ---
 
