@@ -40,15 +40,9 @@ Host-associated microbial communities have an important role in shaping the heal
 
 ---
 
-## Changes in the vaginal microbiota across a gradient of urbanization.
- 30.07.2020, _D Vargas-Robles, N Morales, I Rodríguez, T Nieves, F Godoy-Vitorino, LD Alcaraz, ME Pérez, J Ravel, LJ Forney, MG Domínguez-Bello_
-
-
-The vaginal microbiota of healthy women typically has low diversity, which increases after perturbations. Among these, lifestyle associated with certain sexual and antimicrobial practices may be associated with higher diversity. To test this hypothesis, we characterized the vaginal microbiota in the cervicovaginal and introital sites in sexually active Amerindians (N = 82) spanning urbanization, and in urban mestizos (N = 29), in the Venezuelan Amazonas. HPV status was also considered. Sampling was performed in an urban gradient from remote villages to a town, and women were individually classified by the degree of urbanization (low, medium, and high). Amerindian cervicovaginal and introital microbiota diversity were not associated with major changes in urbanization or ethnicity. There was a non-significant trend of increased diversity with urbanization, with a few taxa found overrepresented in urban Amerindians (Brevibacterium linens and Peptoniphilus lacrimalis) or mestizos (Mobiluncus mulieris and Prevotella sp.). Among all women, cervicovaginal and introital samples clustered, respectively, in four and two community state types (CSTs), where most profiles were dominated by Lactobacillus iners, Gardnerella vaginalis or were highly diverse profiles. HPV status did not associate with microbial diversity. In conclusion, no association was found between urban level and the vaginal microbiome in Amerindian women, and little difference was found between ethnicities. L. iners and high diversity profiles, associated with vaginal health outcomes, prevail in these populations.
+## Changes in the vaginal microbiota across a gradient of urbanization
 
 [Source](https://www.nature.com/articles/s41598-020-69111-x)
-
-10.1038/s41598-020-69111-x
 
 ---
 
@@ -70,38 +64,15 @@ The vaginal microbiota of healthy women typically has low diversity, which incre
 
 ---
 
-## The microbiome in urological diseases.
- 17.07.2020, _KW Lee, HY Song, YH Kim_
-
-
-Due to the rapid development of next-generation sequencing, it has become possible to obtain information on the sequences of all genes in a specific microbiome. The detection of bacteria in patients with no urinary tract infections indicated that the dogma that "urine is sterile" was false, leading to active research regarding the roles of the urinary microbiome in the human urinary tract. Here, we present a review of the current literature regarding the role of the microbiome in urology.
+## The microbiome in urological diseases
 
 [Source](https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.4.338)
 
-10.4111/icu.2020.61.4.338
-
 ---
 
-## FimH and Anti-Adhesive Therapeutics: A Disarming Strategy Against Uropathogens.
- 15.07.2020, _M Sarshar, P Behzadi, C Ambrosi, C Zagaglia, AT Palamara, D Scribano_
-
-
-Chaperone-usher fimbrial adhesins are powerful weapons against the uropathogens that allow the establishment of urinary tract infections (UTIs). As the antibiotic therapeutic strategy has become less effective in the treatment of uropathogen-related UTIs, the anti-adhesive molecules active against fimbrial adhesins, key determinants of urovirulence, are attractive alternatives. The best-characterized bacterial adhesin is FimH, produced by uropathogenic Escherichia coli (UPEC). Hence, a number of high-affinity mono- and polyvalent mannose-based FimH antagonists, characterized by different bioavailabilities, have been reported. Given that antagonist affinities are firmly associated with the functional heterogeneities of different FimH variants, several FimH inhibitors have been developed using ligand-drug discovery strategies to generate high-affinity molecules for successful anti-adhesion therapy. As clinical trials have shown d-mannose's efficacy in UTIs prevention, it is supposed that mannosides could be a first-in-class strategy not only for UTIs, but also to combat other Gram-negative bacterial infections. Therefore, the current review discusses valuable and effective FimH anti-adhesive molecules active against UTIs, from design and synthesis to in vitro and in vivo evaluations.
+## FimH and Anti-Adhesive Therapeutics: A Disarming Strategy Against Uropathogens
 
 [Source](https://www.mdpi.com/2079-6382/9/7/397)
-
-10.3390/antibiotics9070397
-
----
-
-## The new era of precision urobiome: RE: "Characterization of urinary microbiome in patients with bladder cancer: Results from a single-institution, feasibility study" by Chipollini et al.
- 20.07.2020, _M Alfano, F Pederzoli, M Bandini, A Necchi_
-
-
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1078143920301393)
-
-10.1016/j.urolonc.2020.06.029
 
 ---
 
@@ -111,51 +82,27 @@ Chaperone-usher fimbrial adhesins are powerful weapons against the uropathogens 
 
 ---
 
-## Resistance to change: AMR gene dynamics on a commercial pig farm with high antimicrobial usage.
- 15.07.2020, _J Pollock, A Muwonge, MR Hutchings, G Mainda, BM Bronsvoort, DL Gally, A Corbishley_
-
-
-Group antimicrobial administration is used to control disease in livestock, but we have little insight into how this impacts antimicrobial resistance (AMR) gene dynamics. Here, a longitudinal study was carried out during a single production cycle on a commercial pig unit with high historic and current antimicrobial usage. Quantitative PCR, 16S rRNA gene metabarcoding and shotgun metagenomic sequencing were used to track faecal AMR gene abundance and diversity and microbiome alpha diversity. Shotgun metagenomic sequencing identified 144 AMR genes in total, with higher AMR gene diversity present in young pigs compared to dry sows. Irrespective of in-feed antibiotic treatment or changes in microbiome diversity, mean AMR gene copy number was consistently high, with some AMR genes present at copy numbers comparable to the bacterial 16S rRNA gene. In conclusion, AMR gene prevalence and abundance were not influenced by antibiotic use, either during the production cycle or following whole-herd medication. The high levels of certain genes indicate they are widely disseminated throughout the microbial population, potentially aiding stability. Despite the high and relatively stable levels of resistance genes against the main antimicrobials used, these compounds continue to control production limiting diseases on this unit.
+## Resistance to change: AMR gene dynamics on a commercial pig farm with high antimicrobial usage
 
 [Source](https://www.nature.com/articles/s41598-020-58659-3)
 
-10.1038/s41598-020-58659-3
-
 ---
 
-## Vaginal Microbiota Changes During Estrous Cycle in Dairy Heifers.
- 29.07.2020, _JJ Quereda, M Barba, ML Mocé, J Gomis, E Jiménez-Trigos, Á García-Muñoz, Á Gómez-Martín, P González-Torres, B Carbonetto, E García-Roselló_
-
-
-The vaginal microbiota plays an important role in the health of dairy cattle, and it could be manipulated for the prevention and treatment of reproduction-related infections. The present study profiles and compares the vaginal microbiota of healthy dairy heifers during the estrous cycle focusing the results in follicular (estrus) and luteal (diestrus) phases using 16S rRNA sequencing of the V3-V4 hypervariable region. Twenty 13-16-months-old virgin dairy heifers from a single farm were included in this study. Vaginal swabs and blood samples were obtained during estrus (6-8 h before artificial insemination) and diestrus (14 days after insemination). Estrus was evaluated by an activity monitoring system and confirmed with plasma progesterone immunoassay. Results showed that the taxonomic composition of the vaginal microbiota was different during the follicular and luteal phases. At the phylum level, the most abundant bacterial phyla were Tenericutes, Firmicutes, and Bacteroidetes which comprised more than 75% of the vaginal microbiota composition. The next more abundant phyla, in order of decreasing abundance, were Proteobacteria, Actinobacteria, Fusobacteria, Epsilonbacteraeota, and Patescibacteria. Together with Tenericutes, Firmicutes, and Bacteroidetes represented more than 96% of the bacterial composition. Ureaplasma, Histophilus, f_Corynebacteriaceae, Porphyromonas, Mycoplasma, Ruminococcaceae UCG-005, were the most abundant genera or families. The results also showed that the vaginal microbiota of dairy heifers was non-lactobacillus dominant. The genus Lactobacillus was always found at a low relative abundance during the estrous cycle being more abundant in the follicular than in the luteal phase. Despite more research is needed to explore the potential use of native vaginal microbiota members as probiotics in dairy heifers, this study represents an important step forward. Understanding how the microbiota behaves in healthy heifers will help to identify vaginal dysbiosis related to disease.
+## Vaginal Microbiota Changes During Estrous Cycle in Dairy Heifers
 
 [Source](https://www.frontiersin.org/articles/10.3389/fvets.2020.00371/full)
 
-10.3389/fvets.2020.00371
-
 ---
 
-## The gut microbiome switches mutant p53 from tumour-suppressive to oncogenic.
- 30.07.2020, _E Kadosh, I Snir-Alkalay, A Venkatachalam, S May, A Lasry, E Elyada, A Zinger, M Shaham, G Vaalani, M Mernberger, T Stiewe, E Pikarsky, M Oren, Y Ben-Neriah_
-
-
-Somatic mutations in p53, which inactivate the tumour-suppressor function of p53 and often confer oncogenic gain-of-function properties, are very common in cancer1,2. Here we studied the effects of hotspot gain-of-function mutations in Trp53 (the gene that encodes p53 in mice) in mouse models of WNT-driven intestinal cancer caused by Csnk1a1 deletion3,4 or ApcMin mutation5. Cancer in these models is known to be facilitated by loss of p533,6. We found that mutant versions of p53 had contrasting effects in different segments of the gut: in the distal gut, mutant p53 had the expected oncogenic effect; however, in the proximal gut and in tumour organoids it had a pronounced tumour-suppressive effect. In the tumour-suppressive mode, mutant p53 eliminated dysplasia and tumorigenesis in Csnk1a1-deficient and ApcMin/+ mice, and promoted normal growth and differentiation of tumour organoids derived from these mice. In these settings, mutant p53 was more effective than wild-type p53 at inhibiting tumour formation. Mechanistically, the tumour-suppressive effects of mutant p53 were driven by disruption of the WNT pathway, through preventing the binding of TCF4 to chromatin. Notably, this tumour-suppressive effect was completely abolished by the gut microbiome. Moreover, a single metabolite derived from the gut microbiota-gallic acid-could reproduce the entire effect of the microbiome. Supplementing gut-sterilized p53-mutant mice and p53-mutant organoids with gallic acid reinstated the TCF4-chromatin interaction and the hyperactivation of WNT, thus conferring a malignant phenotype to the organoids and throughout the gut. Our study demonstrates the substantial plasticity of a cancer mutation and highlights the role of the microenvironment in determining its functional outcome.
+## The gut microbiome switches mutant p53 from tumour-suppressive to oncogenic
 
 [Source](https://www.nature.com/articles/s41586-020-2541-0)
 
-10.1038/s41586-020-2541-0
-
 ---
 
-## An Enteric Pathogen Subverts Colonization Resistance by Evading Competition for Amino Acids in the Gut.
- 29.07.2020, _G Caballero-Flores, JM Pickard, S Fukuda, N Inohara, G Núñez_
-
-
-The microbiota confers host protection by limiting the colonization of pathogenic bacteria in the gut, but the mechanisms by which pathogens overcome colonization resistance remain poorly understood. Using a high-density transposon screen in the enteric pathogen Citrobacter rodentium, we find that the bacterium requires amino acid biosynthesis pathways to colonize conventionally raised mice, but not germ-free or antibiotic-treated animals. These metabolic pathways are induced during infection by the presence of the gut microbiota. Reduced amounts of amino acids are found in the guts of conventionally raised mice compared with germ-free animals. Dietary administration of high protein increases amino acid levels in the gut and promotes pathogen colonization. Thus, the depletion of amino acids by the microbiota limits pathogen colonization, and in turn, the pathogen activates amino acid biosynthesis to expand in the presence of the microbiota.
+## An Enteric Pathogen Subverts Colonization Resistance by Evading Competition for Amino Acids in the Gut
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30359-0)
-
-10.1016/j.chom.2020.06.018
 
 ---
 
@@ -196,7 +143,7 @@ Dietary composition and antibiotic use have major impacts on the structure and f
 ---
 
 ## Determining the primary sources of fecal pollution using microbial source tracking assays combined with land-use information in the Edwards Aquifer.
- 30.07.2020, _J Hinojosa, J Green, F Estrada, J Herrera, T Mata, D Phan, ABMT Pasha, A Matta, D Johnson, V Kapoor_
+ 31.07.2020, _J Hinojosa, J Green, F Estrada, J Herrera, T Mata, D Phan, ABMT Pasha, A Matta, D Johnson, V Kapoor_
 
 
 The Edwards Aquifer serves as a primary source of drinking water to more than 2 million people in south-central Texas, and as a karst aquifer, is vulnerable to human and animal fecal contamination which poses a serious risk to human and environmental health. A one-year study (Jan 2018 - Feb 2019) was conducted to determine the primary sources of fecal pollution along the Balcones and Leon Creek within the Edwards Aquifer recharge and contributing zones using general (E. coli, enterococci, and universal Bacteriodales) and host-associated (human-, dog-, cow- and chicken/duck-associated Bacteriodales) microbial source tracking (MST) assays. Additionally, sites were classified based on surrounding land use as a potential source predictor and marker levels were correlated with rain events and water quality parameters. Levels for the three general indicators were highest and exhibited similar trends across the sampling sites, suggesting that the sole use of these markers is not sufficient for specific fecal source identification. Among the host-associated markers, highest concentrations were observed for the dog marker (BacCan) in the Leon Creek area and the cow marker (BacCow) in the Balcones Creek area. Additionally, Chicken/Duck-Bac, BacCan and BacCow all exhibited higher concentrations during the spring season and the end of fall/early winter. Relatively lower concentrations were observed for the human-associated markers (HF183 and BacHum), however, levels were higher in the Leon Creek area and highest following rainfall events. Additionally, relatively higher levels in HF183 and BacHum were observed at sites having greater human population and septic tank density and may be attributed to leaks or breaks in these infrastructures. This study is the first to examine and compare fecal contamination at rural and urban areas in the recharge and contributing zones of the Edwards Aquifer using a molecular MST approach targeting Bacteroidales 16S rRNA gene-based assays. The Bacteroidales marker assays, when combined with land use and weather information, can allow for a better understanding of the sources and fluxes of fecal contamination, which can help devise effective mitigation measures to protect water quality.
