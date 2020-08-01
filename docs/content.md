@@ -16,9 +16,15 @@ Host-associated microbial communities have an important role in shaping the heal
 
 ---
 
-## Nitrate as a potential prebiotic for the oral microbiome
+## Nitrate as a potential prebiotic for the oral microbiome.
+ 31.07.2020, _BT Rosier, E Buetas, EM Moya-Gonzalvez, A Artacho, A Mira_
+
+
+The salivary glands actively concentrate plasma nitrate, leading to high salivary nitrate concentrations (5-8 mM) after a nitrate-rich vegetable meal. Nitrate is an ecological factor that can induce rapid changes in structure and function of polymicrobial communities, but the effects on the oral microbiota have not been clarified. To test this, saliva of 12 healthy donors was collected to grow in vitro biofilms with and without 6.5 mM nitrate. Samples were taken at 5 h (most nitrate reduced) and 9 h (all nitrate reduced) of biofilm formation for ammonium, lactate and pH measurements, as well as 16S rRNA gene Illumina sequencing. Nitrate did not affect biofilm growth significantly, but reduced lactate production, while increasing the observed ammonium production and pH (all p &lt; 0.01). Significantly higher levels of the oral health-associated nitrate-reducing genera Neisseria (3.1 ×) and Rothia (2.9 ×) were detected in the nitrate condition already after 5 h (both p &lt; 0.01), while several caries-associated genera (Streptococcus, Veillonella and Oribacterium) and halitosis- and periodontitis-associated genera (Porphyromonas, Fusobacterium, Leptotrichia, Prevotella, and Alloprevotella) were significantly reduced (p &lt; 0.05 at 5 h and/or 9 h). In conclusion, the addition of nitrate to oral communities led to rapid modulation of microbiome composition and activity that could be beneficial for the host (i.e., increasing eubiosis or decreasing dysbiosis). Nitrate should thus be investigated as a potential prebiotic for oral health.
 
 [Source](https://www.nature.com/articles/s41598-020-69931-x)
+
+10.1038/s41598-020-69931-x
 
 ---
 
@@ -40,15 +46,9 @@ Host-associated microbial communities have an important role in shaping the heal
 
 ---
 
-## Changes in the vaginal microbiota across a gradient of urbanization.
- 31.07.2020, _D Vargas-Robles, N Morales, I Rodríguez, T Nieves, F Godoy-Vitorino, LD Alcaraz, ME Pérez, J Ravel, LJ Forney, MG Domínguez-Bello_
-
-
-The vaginal microbiota of healthy women typically has low diversity, which increases after perturbations. Among these, lifestyle associated with certain sexual and antimicrobial practices may be associated with higher diversity. To test this hypothesis, we characterized the vaginal microbiota in the cervicovaginal and introital sites in sexually active Amerindians (N = 82) spanning urbanization, and in urban mestizos (N = 29), in the Venezuelan Amazonas. HPV status was also considered. Sampling was performed in an urban gradient from remote villages to a town, and women were individually classified by the degree of urbanization (low, medium, and high). Amerindian cervicovaginal and introital microbiota diversity were not associated with major changes in urbanization or ethnicity. There was a non-significant trend of increased diversity with urbanization, with a few taxa found overrepresented in urban Amerindians (Brevibacterium linens and Peptoniphilus lacrimalis) or mestizos (Mobiluncus mulieris and Prevotella sp.). Among all women, cervicovaginal and introital samples clustered, respectively, in four and two community state types (CSTs), where most profiles were dominated by Lactobacillus iners, Gardnerella vaginalis or were highly diverse profiles. HPV status did not associate with microbial diversity. In conclusion, no association was found between urban level and the vaginal microbiome in Amerindian women, and little difference was found between ethnicities. L. iners and high diversity profiles, associated with vaginal health outcomes, prevail in these populations.
+## Changes in the vaginal microbiota across a gradient of urbanization
 
 [Source](https://www.nature.com/articles/s41598-020-69111-x)
-
-10.1038/s41598-020-69111-x
 
 ---
 
@@ -64,39 +64,21 @@ The vaginal microbiota of healthy women typically has low diversity, which incre
 
 ---
 
-## Association between Vaginal Bacterial Microbiota and Vaginal Yeast Colonization.
- 29.07.2020, _MC Eastment, JE Balkus, BA Richardson, S Srinivasan, J Kimani, O Anzala, J Schwebke, TL Fiedler, DN Fredricks, RS McClelland_
-
-
-Vaginal yeast is frequently found with Lactobacillus-dominant microbiota. The relationship between vaginal yeast and other bacteria has not been well characterized.
+## Association between Vaginal Bacterial Microbiota and Vaginal Yeast Colonization
 
 [Source](https://academic.oup.com/jid/article-abstract/doi/10.1093/infdis/jiaa459/5878087)
 
-10.1093/infdis/jiaa459
-
 ---
 
-## The microbiome in urological diseases.
- 17.07.2020, _KW Lee, HY Song, YH Kim_
-
-
-Due to the rapid development of next-generation sequencing, it has become possible to obtain information on the sequences of all genes in a specific microbiome. The detection of bacteria in patients with no urinary tract infections indicated that the dogma that "urine is sterile" was false, leading to active research regarding the roles of the urinary microbiome in the human urinary tract. Here, we present a review of the current literature regarding the role of the microbiome in urology.
+## The microbiome in urological diseases
 
 [Source](https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.4.338)
 
-10.4111/icu.2020.61.4.338
-
 ---
 
-## FimH and Anti-Adhesive Therapeutics: A Disarming Strategy Against Uropathogens.
- 15.07.2020, _M Sarshar, P Behzadi, C Ambrosi, C Zagaglia, AT Palamara, D Scribano_
-
-
-Chaperone-usher fimbrial adhesins are powerful weapons against the uropathogens that allow the establishment of urinary tract infections (UTIs). As the antibiotic therapeutic strategy has become less effective in the treatment of uropathogen-related UTIs, the anti-adhesive molecules active against fimbrial adhesins, key determinants of urovirulence, are attractive alternatives. The best-characterized bacterial adhesin is FimH, produced by uropathogenic Escherichia coli (UPEC). Hence, a number of high-affinity mono- and polyvalent mannose-based FimH antagonists, characterized by different bioavailabilities, have been reported. Given that antagonist affinities are firmly associated with the functional heterogeneities of different FimH variants, several FimH inhibitors have been developed using ligand-drug discovery strategies to generate high-affinity molecules for successful anti-adhesion therapy. As clinical trials have shown d-mannose's efficacy in UTIs prevention, it is supposed that mannosides could be a first-in-class strategy not only for UTIs, but also to combat other Gram-negative bacterial infections. Therefore, the current review discusses valuable and effective FimH anti-adhesive molecules active against UTIs, from design and synthesis to in vitro and in vivo evaluations.
+## FimH and Anti-Adhesive Therapeutics: A Disarming Strategy Against Uropathogens
 
 [Source](https://www.mdpi.com/2079-6382/9/7/397)
-
-10.3390/antibiotics9070397
 
 ---
 
@@ -316,15 +298,9 @@ Sustainable innovations in sequencing technologies have resulted in a torrent of
 
 ---
 
-## Topological and kernel-based microbial phenotype prediction from MALDI-TOF mass spectra.
- 17.07.2020, _C Weis, M Horn, B Rieck, A Cuénod, A Egli, K Borgwardt_
-
-
-Microbial species identification based on matrix-assisted laser desorption ionization time-of-flight (MALDI-TOF) mass spectrometry (MS) has become a standard tool in clinical microbiology. The resulting MALDI-TOF mass spectra also harbour the potential to deliver prediction results for other phenotypes, such as antibiotic resistance. However, the development of machine learning algorithms specifically tailored to MALDI-TOF MS-based phenotype prediction is still in its infancy. Moreover, current spectral pre-processing typically involves a parameter-heavy chain of operations without analyzing their influence on the prediction results. In addition, classification algorithms lack quantification of uncertainty, which is indispensable for predictions potentially influencing patient treatment.
+## Topological and kernel-based microbial phenotype prediction from MALDI-TOF mass spectra
 
 [Source](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i30/5870489)
-
-10.1093/bioinformatics/btaa429
 
 ---
 
@@ -334,15 +310,9 @@ Microbial species identification based on matrix-assisted laser desorption ioniz
 
 ---
 
-## Metagenomic approaches in microbial ecology: an update on whole-genome and marker gene sequencing analyses.
- 24.07.2020, _AE Pérez-Cobas, L Gomez-Valero, C Buchrieser_
-
-
-Metagenomics and marker gene approaches, coupled with high-throughput sequencing technologies, have revolutionized the field of microbial ecology. Metagenomics is a culture-independent method that allows the identification and characterization of organisms from all kinds of samples. Whole-genome shotgun sequencing analyses the total DNA of a chosen sample to determine the presence of micro-organisms from all domains of life and their genomic content. Importantly, the whole-genome shotgun sequencing approach reveals the genomic diversity present, but can also give insights into the functional potential of the micro-organisms identified. The marker gene approach is based on the sequencing of a specific gene region. It allows one to describe the microbial composition based on the taxonomic groups present in the sample. It is frequently used to analyse the biodiversity of microbial ecosystems. Despite its importance, the analysis of metagenomic sequencing and marker gene data is quite a challenge. Here we review the primary workflows and software used for both approaches and discuss the current challenges in the field.
+## Metagenomic approaches in microbial ecology: an update on whole-genome and marker gene sequencing analyses
 
 [Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000409)
-
-10.1099/mgen.0.000409
 
 ---
 
