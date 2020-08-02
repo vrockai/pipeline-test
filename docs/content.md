@@ -76,27 +76,15 @@ The vaginal microbiota of healthy women typically has low diversity, which incre
 
 ---
 
-## Water management and phenology influence the root-associated rice field microbiota.
- 28.07.2020, _M Chialva, S Ghignone, P Cozzi, B Lazzari, P Bonfante, P Abbruscato, E Lumini_
-
-
-Microbial communities associated to plants are greatly influenced by water availability in soil. In flooded crops, such as rice, the impact of water management on microbial dynamics is not fully understood. Here, we present a comprehensive study of the rice microbiota investigated in an experimental field located in one of the most productive area of North Italy. The microbiota associated to paddy soil and root was investigated using 454 pyrosequencing of 16S, ITS and 18S rRNA gene amplicons under two different water managements, upland (non-flooded, aerobic) and lowland (traditional flooding, anaerobic) at three plant development stages. Results highlighted a major role of the soil water status in shaping microbial communities, while phenological stage had low impacts. Compositional shifts in prokaryotic and fungal communities upon water management consisted in significant abundances changes of Firmicutes, Methanobacteria, Chloroflexi, Sordaryomycetes, Dothideomycetes and Glomeromycotina. A vicariance in plant beneficial microbes and between saprotrophs/pathotrophs was observed between lowland and upland. Moreover, through network analysis we demonstrated different co-abundances dynamics between lowland and upland conditions with a major impact on microbial HUBs (strongly interconnected microbes) which fully shifted to aerobic microbes in the absence of flooding.
+## Water management and phenology influence the root-associated rice field microbiota
 
 [Source](https://academic.oup.com/femsec/article-abstract/doi/10.1093/femsec/fiaa146/5877241)
 
-10.1093/femsec/fiaa146
-
 ---
 
-## Aerobic microbial life persists in oxic marine sediment as old as 101.5 million years.
- 30.07.2020, _Y Morono, M Ito, T Hoshino, T Terada, T Hori, M Ikehara, S D'Hondt, F Inagaki_
-
-
-Sparse microbial populations persist from seafloor to basement in the slowly accumulating oxic sediment of the oligotrophic South Pacific Gyre (SPG). The physiological status of these communities, including their substrate metabolism, is previously unconstrained. Here we show that diverse aerobic members of communities in SPG sediments (4.3‒101.5 Ma) are capable of readily incorporating carbon and nitrogen substrates and dividing. Most of the 6986 individual cells analyzed with nanometer-scale secondary ion mass spectrometry (NanoSIMS) actively incorporated isotope-labeled substrates. Many cells responded rapidly to incubation conditions, increasing total numbers by 4 orders of magnitude and taking up labeled carbon and nitrogen within 68 days after incubation. The response was generally faster (on average, 3.09 times) for nitrogen incorporation than for carbon incorporation. In contrast, anaerobic microbes were only minimally revived from this oxic sediment. Our results suggest that microbial communities widely distributed in organic-poor abyssal sediment consist mainly of aerobes that retain their metabolic potential under extremely low-energy conditions for up to 101.5 Ma.
+## Aerobic microbial life persists in oxic marine sediment as old as 101.5 million years
 
 [Source](https://www.nature.com/articles/s41467-020-17330-1)
-
-10.1038/s41467-020-17330-1
 
 ---
 
