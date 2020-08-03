@@ -1,90 +1,72 @@
-## Maternal diet during pregnancy and intestinal markers are associated with early gut microbiota.
- 30.07.2020, _M Selma-Royo, I García-Mantrana, M Calatayud, A Parra-Llorca, C Martínez-Costa, MC Collado_
+## Rapid Inactivation of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) by Tungsten Trioxide-Based (WO3) Photocatalysis
 
-
-Diet has an important role in host-microbiome interplay, which may result in intestinal permeability changes and physiopathological effects at a systemic level. Despite the importance of maternal microbiota as the main contributor to the initial microbial seeding, little is known about the effects of maternal diet during pregnancy on maternal-neonatal microbiota.
-
-[Source](https://link.springer.com/article/10.1007/s00394-020-02337-7)
-
-10.1007/s00394-020-02337-7
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.01.232199v1?%3Fcollection=)
 
 ---
 
-## Changes in the vaginal microbiota across a gradient of urbanization.
- 31.07.2020, _D Vargas-Robles, N Morales, I Rodríguez, T Nieves, F Godoy-Vitorino, LD Alcaraz, ME Pérez, J Ravel, LJ Forney, MG Domínguez-Bello_
+## Cecal motility and the impact of Lactobacillus in feather pecking laying hens.
+ 01.08.2020, _N van Staaveren, J Krumma, P Forsythe, JB Kjaer, IY Kwon, YK Mao, C West, W Kunze, A Harlander-Matauschek_
 
 
-The vaginal microbiota of healthy women typically has low diversity, which increases after perturbations. Among these, lifestyle associated with certain sexual and antimicrobial practices may be associated with higher diversity. To test this hypothesis, we characterized the vaginal microbiota in the cervicovaginal and introital sites in sexually active Amerindians (N = 82) spanning urbanization, and in urban mestizos (N = 29), in the Venezuelan Amazonas. HPV status was also considered. Sampling was performed in an urban gradient from remote villages to a town, and women were individually classified by the degree of urbanization (low, medium, and high). Amerindian cervicovaginal and introital microbiota diversity were not associated with major changes in urbanization or ethnicity. There was a non-significant trend of increased diversity with urbanization, with a few taxa found overrepresented in urban Amerindians (Brevibacterium linens and Peptoniphilus lacrimalis) or mestizos (Mobiluncus mulieris and Prevotella sp.). Among all women, cervicovaginal and introital samples clustered, respectively, in four and two community state types (CSTs), where most profiles were dominated by Lactobacillus iners, Gardnerella vaginalis or were highly diverse profiles. HPV status did not associate with microbial diversity. In conclusion, no association was found between urban level and the vaginal microbiome in Amerindian women, and little difference was found between ethnicities. L. iners and high diversity profiles, associated with vaginal health outcomes, prevail in these populations.
+The gut-microbiota-brain axis is implicated in the development of behavioural disorders in mammals. As such, its potential role in disruptive feather pecking (FP) in birds cannot be ignored. Birds with a higher propensity to perform FP have distinct microbiota profiles and feed transit times compared to non-pecking counterparts. Consequently, we hypothesize that the gut microbiota is intimately linked to FP and gut motility, which presents the possibility of using probiotics to control FP behaviour. In the present study, we aim to assess the relationship between cecal motility and the probiotic Lactobacillus rhamnosus in chickens classified as peckers (P, 13 birds) and non-peckers (NP, 17 birds). We show that cecal contractions were 68% less frequent and their amplitude increased by 58% in the presence of L. rhamnosus. Furthermore, the number of FP bouts performed by P birds was positively correlated with contraction velocity and amplitude. We present the first account of gut motility measurements in birds with distinct FP phenotypes. Importantly, the present work demonstrates the clear impact of a probiotic on cecal contractions. These findings lay the foundation for identifying biological differences between P and NP birds which will support the development of FP control strategies.
 
-[Source](https://www.nature.com/articles/s41598-020-69111-x)
+[Source](https://science.sciencemag.org/content/369/6503/519.2)
 
-10.1038/s41598-020-69111-x
-
----
-
-## Usefulness of Machine Learning-Based GutMicrobiome Analysis for Identifying Patients with Irritable Bowels Syndrome
-
-[Source](https://www.mdpi.com/2077-0383/9/8/2403)
+10.1038/s41598-020-69928-6
 
 ---
 
-## A pilot study of the effect of deployment on the gut microbiome and traveler’s diarrhea susceptibility
+## This is the brain on probiotics
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.29.226712v1?%3Fcollection=)
-
----
-
-## Gastric Microbiota in a Low–Helicobacter pylori Prevalence General Population and Their Associations With Gastric Lesions
-
-[Source](https://journals.lww.com/ctg/Fulltext/2020/07000/Gastric_Microbiota_in_a_Low_Helicobacter_pylori.13.aspx)
+[Source](https://science.sciencemag.org/content/369/6503/519.2)
 
 ---
 
-## Sexual dimorphism of gut microbiota at different pubertal status
+## Assessment of inter-laboratory variation in the characterization and analysis of the mucosal microbiota in Crohn’s disease and ulcerative colitis – Szamosi et al.
 
-[Source](https://link.springer.com/article/10.1186/s12934-020-01412-2)
-
----
-
-## Intestinal inflammation and altered gut microbiota associated with inflammatory bowel disease renders mice susceptible to Clostridioides difficile colonization and infection
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.30.230094v1.abstract?%3Fcollection=)
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.02028/abstract)
 
 ---
 
-## Different effects of constitutive and induced microbiota modulation on microglia in a mouse model of Alzheimer’s disease
+## Immunoglobulin recognition of fecal bacteria in stunted and non-stunted children: findings from the Afribiota study
 
-[Source](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-00988-5)
-
----
-
-## Effects of Vitamin B2 Supplementation in Broilers Microbiota and Metabolome
-
-[Source](https://www.mdpi.com/2076-2607/8/8/1134)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00890-1)
 
 ---
 
-## Respiratory microbiota of humpback whales may be reduced in diversity and richness the longer they fast
+## Metapangenomics of the oral microbiome provides insights into habitat adaptation and cultivar diversity
 
-[Source](https://www.nature.com/articles/s41598-020-69602-x)
-
----
-
-## Modeling host-microbiome interactions for the prediction of meat quality and carcass composition traits in swine
-
-[Source](https://link.springer.com/article/10.1186/s12711-020-00561-7)
+[Source](https://www.biorxiv.org/content/10.1101/2020.05.01.072496v2.abstract?%3Fcollection=)
 
 ---
 
-## Water management and phenology influence the root-associated rice field microbiota
+## Evidence for the plant recruitment of beneficial microbes to suppress soil-borne pathogen
 
-[Source](https://academic.oup.com/femsec/article-abstract/doi/10.1093/femsec/fiaa146/5877241)
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.31.231886v1?%3Fcollection=)
 
 ---
 
-## Aerobic microbial life persists in oxic marine sediment as old as 101.5 million years
+## A Bacterial Effector Protein Hijacks Plant Metabolism to Support Pathogen Nutrition
 
-[Source](https://www.nature.com/articles/s41467-020-17330-1)
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30399-1)
+
+---
+
+## Development and application of low-cost and eco-sustainable bio- stimulant containing a new plant growth-promoting strain Kosakonia pseudosacchari TL13
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.02044/abstract)
+
+---
+
+## Blind spots in global soil biodiversity and ecosystem function research
+
+[Source](https://www.nature.com/articles/s41467-020-17688-2)
+
+---
+
+## Microbiome Diversity and Community-Level Change Points within Manure-based small Biogas Plants
+
+[Source](https://www.mdpi.com/2076-2607/8/8/1169)
 
 ---
 
