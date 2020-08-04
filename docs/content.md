@@ -4,15 +4,15 @@
 
 ---
 
-## Cecal motility and the impact of Lactobacillus in feather pecking laying hens.
- 03.08.2020, _N van Staaveren, J Krumma, P Forsythe, JB Kjaer, IY Kwon, YK Mao, C West, W Kunze, A Harlander-Matauschek_
+## A healthy gut for a healthy brain: preclinical, clinical and regulatory as-pects.
+ 03.08.2020, _C Petrella, S Farioli-Vecchioli, GY Cisale, G Strimpakos, JJ Borg, M Ceccanti, M Fiore, G Monteleone, R Nisticò_
 
 
-The gut-microbiota-brain axis is implicated in the development of behavioural disorders in mammals. As such, its potential role in disruptive feather pecking (FP) in birds cannot be ignored. Birds with a higher propensity to perform FP have distinct microbiota profiles and feed transit times compared to non-pecking counterparts. Consequently, we hypothesize that the gut microbiota is intimately linked to FP and gut motility, which presents the possibility of using probiotics to control FP behaviour. In the present study, we aim to assess the relationship between cecal motility and the probiotic Lactobacillus rhamnosus in chickens classified as peckers (P, 13 birds) and non-peckers (NP, 17 birds). We show that cecal contractions were 68% less frequent and their amplitude increased by 58% in the presence of L. rhamnosus. Furthermore, the number of FP bouts performed by P birds was positively correlated with contraction velocity and amplitude. We present the first account of gut motility measurements in birds with distinct FP phenotypes. Importantly, the present work demonstrates the clear impact of a probiotic on cecal contractions. These findings lay the foundation for identifying biological differences between P and NP birds which will support the development of FP control strategies.
+A large body of research has shown the presence of a complex pathway of communications between the gut and the brain. It is now recognized that, through this pathway, the microbiota can influence brain homeostasis and plasticity under normal and pathological conditions. This review aims at providing an overview of preclinical and clinical pieces of evidence supporting the possible role of gutbrain axis modulation in physiological aging, in a neurodevelopmental disorder, the autism spectrum disorders and in a substance abuse disorder, the alcohol addiction. Since the normalization of gut flora can prevent changes in the behavior, we postulate that the gut-brain axis might represent a possible target for pharmacological and dietary strategies aimed at improving not only intestinal but also mental health. The present review also reports some regulatory considerations regarding the use of probiotics, illustrating the most debated issues about the possibility of considering probiotics not only as a food supplement but also as a "full" medicinal product.
 
 [Source](https://science.sciencemag.org/content/369/6503/519.2)
 
-10.1038/s41598-020-69928-6
+10.2174/1570159X18666200730111528
 
 ---
 
