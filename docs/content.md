@@ -5,7 +5,7 @@
 ---
 
 ## Cecal motility and the impact of Lactobacillus in feather pecking laying hens.
- 01.08.2020, _N van Staaveren, J Krumma, P Forsythe, JB Kjaer, IY Kwon, YK Mao, C West, W Kunze, A Harlander-Matauschek_
+ 03.08.2020, _N van Staaveren, J Krumma, P Forsythe, JB Kjaer, IY Kwon, YK Mao, C West, W Kunze, A Harlander-Matauschek_
 
 
 The gut-microbiota-brain axis is implicated in the development of behavioural disorders in mammals. As such, its potential role in disruptive feather pecking (FP) in birds cannot be ignored. Birds with a higher propensity to perform FP have distinct microbiota profiles and feed transit times compared to non-pecking counterparts. Consequently, we hypothesize that the gut microbiota is intimately linked to FP and gut motility, which presents the possibility of using probiotics to control FP behaviour. In the present study, we aim to assess the relationship between cecal motility and the probiotic Lactobacillus rhamnosus in chickens classified as peckers (P, 13 birds) and non-peckers (NP, 17 birds). We show that cecal contractions were 68% less frequent and their amplitude increased by 58% in the presence of L. rhamnosus. Furthermore, the number of FP bouts performed by P birds was positively correlated with contraction velocity and amplitude. We present the first account of gut motility measurements in birds with distinct FP phenotypes. Importantly, the present work demonstrates the clear impact of a probiotic on cecal contractions. These findings lay the foundation for identifying biological differences between P and NP birds which will support the development of FP control strategies.
