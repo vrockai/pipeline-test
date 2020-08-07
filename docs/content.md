@@ -113,9 +113,15 @@ Parasites with complex life cycles have been proposed to manipulate the behaviou
 
 ---
 
-## Microbial communities can predict the ecological condition of headwater streams
+## Microbial communities can predict the ecological condition of headwater streams.
+ 03.08.2020, _RH Hilderbrand, SR Keller, SM Laperriere, AE Santoro, J Cessna, R Trott_
+
+
+Humanity's reliance on clean water and the ecosystem services provided makes identifying efficient and effective ways to assess the ecological condition of streams ever more important. We used high throughput sequencing of the 16S rRNA region to explore relationships between stream microbial communities, environmental attributes, and assessments of stream ecological condition. Bacteria and archaea in microbial community samples collected from the water column and from stream sediments during spring and summer were used to replicate standard assessments of ecological condition performed with benthic macroinvertebrate collections via the Benthic Index of Biotic Integrity (BIBI). Microbe-based condition assessments were generated at different levels of taxonomic resolution from phylum to OTU (Operational Taxonomic Units) in order to understand appropriate levels of taxonomic aggregation. Stream sediment microbial communities from both spring and summer were much better than the water column at replicating BIBI condition assessment results. Accuracies were as high as 100% on training data used to build the models and up to 80% on validation data used to assess predictions. Assessments using all OTUs usually had the highest accuracy on training data, but were lower on validation data due to overfitting. In contrast, assessments at the order-level had similar performance accuracy for validation data, and a reduced subset of orders also performed well, suggesting the method could be generalized to other watersheds. Subsets of the important orders responded similarly to environmental gradients compared to the entire community, where strong shifts in community structure occurred for known aquatic stressors such as pH, dissolved organic carbon, and nitrate nitrogen. The results suggest the stream microbes may be useful for assessing the ecological condition of streams and especially useful for stream restorations where many eukaryotic taxa have been eliminated due to prior degradation and are unable to recolonize.
 
 [Source](https://doi.org/10.1371/journal.pone.0236932)
+
+10.1371/journal.pone.0236932
 
 ---
 
@@ -125,9 +131,15 @@ Parasites with complex life cycles have been proposed to manipulate the behaviou
 
 ---
 
-## Impact of time and temperature on gut microbiota and SCFA composition in stool samples
+## Impact of time and temperature on gut microbiota and SCFA composition in stool samples.
+ 03.08.2020, _JL Cunningham, L Bramstång, A Singh, S Jayarathna, AJ Rasmusson, A Moazzami, B Müller_
+
+
+Gut dysbiosis has been implicated in the pathophysiology of a growing number of non-communicable diseases. High through-put sequencing technologies and short chain fatty acid (SCFA) profiling enables surveying of the composition and function of the gut microbiota and provide key insights into host-microbiome interactions. However, a methodological problem with analyzing stool samples is that samples are treated and stored differently prior to submission for analysis potentially influencing the composition of the microbiota and its metabolites. In the present study, we simulated the sample acquisition of a large-scale study, in which stool samples were stored for up to two days in the fridge or at room temperature before being handed over to the hospital. To assess the influence of time and temperature on the microbial community and on SCFA composition in a controlled experimental setting, the stool samples of 10 individuals were exposed to room and fridge temperatures for 24 and 48 hours, respectively, and analyzed using 16S rRNA gene amplicon sequencing, qPCR and nuclear magnetic resonance spectroscopy. To best of our knowledge, this is the first study to investigate the influence of storage time and temperature on the absolute abundance of methanogens, and of Lactobacillus reuteri. The results indicate that values obtained for methanogens, L. reuteri and total bacteria are still representative even after storage for up to 48 hours at RT (20°C) or 4°C. The overall microbial composition and structure appeared to be influenced more by laboratory errors introduced during sample processing than by the actual effects of temperature and time. Although microbial activity was demonstrated by elevated SCFA at both 4°C and RT, SCFAs ratios were more stable over the different conditions and may be considered as long as samples are come from similar storage conditions.
 
 [Source](https://doi.org/10.1371/journal.pone.0236944)
+
+10.1371/journal.pone.0236944
 
 ---
 
