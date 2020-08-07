@@ -113,15 +113,9 @@ Parasites with complex life cycles have been proposed to manipulate the behaviou
 
 ---
 
-## Microbial communities can predict the ecological condition of headwater streams.
- 03.08.2020, _RH Hilderbrand, SR Keller, SM Laperriere, AE Santoro, J Cessna, R Trott_
-
-
-Humanity's reliance on clean water and the ecosystem services provided makes identifying efficient and effective ways to assess the ecological condition of streams ever more important. We used high throughput sequencing of the 16S rRNA region to explore relationships between stream microbial communities, environmental attributes, and assessments of stream ecological condition. Bacteria and archaea in microbial community samples collected from the water column and from stream sediments during spring and summer were used to replicate standard assessments of ecological condition performed with benthic macroinvertebrate collections via the Benthic Index of Biotic Integrity (BIBI). Microbe-based condition assessments were generated at different levels of taxonomic resolution from phylum to OTU (Operational Taxonomic Units) in order to understand appropriate levels of taxonomic aggregation. Stream sediment microbial communities from both spring and summer were much better than the water column at replicating BIBI condition assessment results. Accuracies were as high as 100% on training data used to build the models and up to 80% on validation data used to assess predictions. Assessments using all OTUs usually had the highest accuracy on training data, but were lower on validation data due to overfitting. In contrast, assessments at the order-level had similar performance accuracy for validation data, and a reduced subset of orders also performed well, suggesting the method could be generalized to other watersheds. Subsets of the important orders responded similarly to environmental gradients compared to the entire community, where strong shifts in community structure occurred for known aquatic stressors such as pH, dissolved organic carbon, and nitrate nitrogen. The results suggest the stream microbes may be useful for assessing the ecological condition of streams and especially useful for stream restorations where many eukaryotic taxa have been eliminated due to prior degradation and are unable to recolonize.
+## Microbial communities can predict the ecological condition of headwater streams
 
 [Source](https://doi.org/10.1371/journal.pone.0236932)
-
-10.1371/journal.pone.0236932
 
 ---
 
