@@ -1,12 +1,12 @@
-## Morbidity and mortality after general surgery in heart and lung transplant patients.
- 06.08.2020, _A Zywot, AL Turner, J Sesti, RC Langan, A Nguyen, AR de Biasi, S Raja, U Ahmad, S Paul_
+## Clinical study using mesenchymal stem cells for the treatment of patients with severe COVID-19.
+ 07.08.2020, _L Tang, Y Jiang, M Zhu, L Chen, X Zhou, C Zhou, P Ye, X Chen, B Wang, Z Xu, Q Zhang, X Xu, H Gao, X Wu, D Li, W Jiang, J Qu, C Xiang, L Li_
 
 
-Heart and lung transplant patients can develop conditions necessitating general surgery procedures. Their postoperative morbidity and mortality remain poorly characterized and limited to case series from select centers.
+The Coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2 was identified in December 2019. The symptoms include fever, cough, dyspnea, early symptom of sputum, and acute respiratory distress syndrome (ARDS). Mesenchymal stem cell (MSC) therapy is the immediate treatment used for patients with severe cases of COVID-19. Herein, we describe two confirmed cases of COVID-19 in Wuhan to explore the role of MSC in the treatment of COVID-19. MSC transplantation increases the immune indicators (including CD4 and lymphocytes) and decreases the inflammation indicators (interleukin-6 and C-reactive protein). High-flow nasal cannula can be used as an initial support strategy for patients with ARDS. With MSC transplantation, the fraction of inspired O2 (FiO2) of the two patients gradually decreased while the oxygen saturation (SaO2) and partial pressure of oxygen (PO2) improved. Additionally, the patients' chest computed tomography showed that bilateral lung exudate lesions were adsorbed after MSC infusion. Results indicated that MSC transplantation provides clinical data on the treatment of COVID-19 and may serve as an alternative method for treating COVID-19, particularly in patients with ARDS.
 
 [Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402593/)
 
-10.1016/j.sopen.2019.12.001
+10.1007/s11684-020-0810-9
 
 ---
 
@@ -125,15 +125,9 @@ Parasites with complex life cycles have been proposed to manipulate the behaviou
 
 ---
 
-## Impact of time and temperature on gut microbiota and SCFA composition in stool samples.
- 03.08.2020, _JL Cunningham, L Bramstång, A Singh, S Jayarathna, AJ Rasmusson, A Moazzami, B Müller_
-
-
-Gut dysbiosis has been implicated in the pathophysiology of a growing number of non-communicable diseases. High through-put sequencing technologies and short chain fatty acid (SCFA) profiling enables surveying of the composition and function of the gut microbiota and provide key insights into host-microbiome interactions. However, a methodological problem with analyzing stool samples is that samples are treated and stored differently prior to submission for analysis potentially influencing the composition of the microbiota and its metabolites. In the present study, we simulated the sample acquisition of a large-scale study, in which stool samples were stored for up to two days in the fridge or at room temperature before being handed over to the hospital. To assess the influence of time and temperature on the microbial community and on SCFA composition in a controlled experimental setting, the stool samples of 10 individuals were exposed to room and fridge temperatures for 24 and 48 hours, respectively, and analyzed using 16S rRNA gene amplicon sequencing, qPCR and nuclear magnetic resonance spectroscopy. To best of our knowledge, this is the first study to investigate the influence of storage time and temperature on the absolute abundance of methanogens, and of Lactobacillus reuteri. The results indicate that values obtained for methanogens, L. reuteri and total bacteria are still representative even after storage for up to 48 hours at RT (20°C) or 4°C. The overall microbial composition and structure appeared to be influenced more by laboratory errors introduced during sample processing than by the actual effects of temperature and time. Although microbial activity was demonstrated by elevated SCFA at both 4°C and RT, SCFAs ratios were more stable over the different conditions and may be considered as long as samples are come from similar storage conditions.
+## Impact of time and temperature on gut microbiota and SCFA composition in stool samples
 
 [Source](https://doi.org/10.1371/journal.pone.0236944)
-
-10.1371/journal.pone.0236944
 
 ---
 
