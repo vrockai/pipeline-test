@@ -1,133 +1,132 @@
-## Clinical study using mesenchymal stem cells for the treatment of patients with severe COVID-19.
- 07.08.2020, _L Tang, Y Jiang, M Zhu, L Chen, X Zhou, C Zhou, P Ye, X Chen, B Wang, Z Xu, Q Zhang, X Xu, H Gao, X Wu, D Li, W Jiang, J Qu, C Xiang, L Li_
+## <strong>Bacteroides fragilis is a potential marker of effective microbiota transplantation in acute graft-versus-host disease treatment</strong>
 
-
-The Coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2 was identified in December 2019. The symptoms include fever, cough, dyspnea, early symptom of sputum, and acute respiratory distress syndrome (ARDS). Mesenchymal stem cell (MSC) therapy is the immediate treatment used for patients with severe cases of COVID-19. Herein, we describe two confirmed cases of COVID-19 in Wuhan to explore the role of MSC in the treatment of COVID-19. MSC transplantation increases the immune indicators (including CD4 and lymphocytes) and decreases the inflammation indicators (interleukin-6 and C-reactive protein). High-flow nasal cannula can be used as an initial support strategy for patients with ARDS. With MSC transplantation, the fraction of inspired O2 (FiO2) of the two patients gradually decreased while the oxygen saturation (SaO2) and partial pressure of oxygen (PO2) improved. Additionally, the patients' chest computed tomography showed that bilateral lung exudate lesions were adsorbed after MSC infusion. Results indicated that MSC transplantation provides clinical data on the treatment of COVID-19 and may serve as an alternative method for treating COVID-19, particularly in patients with ARDS.
-
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402593/)
-
-10.1007/s11684-020-0810-9
+[Source](http://cttjournal.com/en/archive/tom-9-nomer-2/klinicheskie-issledovaniya/bacteroides-fragilis-potentsialnyy-marker-effektivnoy-transplantatsii-mikrobioty-pri-lechenii-ostroy/)
 
 ---
 
-## lung transplant patients
-
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402593/)
-
----
-
-## Plant Microbiomes: Do Different Preservation Approaches and Primer Sets Alter Our Capacity to Assess Microbial Diversity and Community Composition?
- 28.07.2020, _Z Qiu, J Wang, M Delgado-Baquerizo, P Trivedi, E Egidi, YM Chen, H Zhang, BK Singh_
+## Impact of microablative fractional radiofrequency on the vaginal health, microbiota, and cellularity of postmenopausal women.
+ 06.08.2020, _AC Sarmento, FS Fernandes, C Marconi, PC Giraldo, J Eleutério-Júnior, JC Crispim, AK Gonçalves_
 
 
-The microbial communities associated with plants (the plant microbiome) play critical roles in regulating plant health and productivity. Because of this, in recent years, there have been significant increase in studies targeting the plant microbiome. Amplicon sequencing is widely used to investigate the plant microbiome and to develop sustainable microbial agricultural tools. However, performing large microbiome surveys at the regional and global scales pose several logistic challenges. One of these challenges is related with the preservation of plant materials for sequencing aiming to maintain the integrity of the original diversity and community composition of the plant microbiome. Another significant challenge involves the existence of multiple primer sets used in amplicon sequencing that, especially for bacterial communities, hampers the comparability of datasets across studies. Here, we aimed to examine the effect of different preservation approaches (snap freezing, fresh and kept on ice, and air drying) on the bacterial and fungal diversity and community composition on plant leaves, stems and roots from seven plant species from contrasting functional groups (e.g. C3, C4, N-Fixers, etc.). Another major challenge comes when comparing plant to soil microbiomes, as different primers sets are often used for plant vs. soil microbiomes. Thus, we also investigated if widely used 16S rRNA primer set (779F/1193R) for plant microbiome studies provides comparable data to those often used for soil microbiomes (341F/805R) using 86 soil samples. We found that the community composition and diversity of bacteria or fungi were robust to contrasting preservation methods. The primer sets often used for plants provided similar results to those often used for soil studies suggesting that simultaneous studies on plant and soil microbiomes are possible. Our findings provide novel evidence that preservation approaches do not significantly impact plant microbiome data interpretation and primer differences do not impact the treatment effect, which has significant implication for future large-scale and global surveys of plant microbiomes.
+We aimed to evaluate the effectiveness of microablative fractional radiofrequency (MAFRF) in the non-hormonal treatment of genitourinary syndrome of menopause.
 
-[Source](https://doi.org/10.1371/journal.pone.0231187)
+[Source](https://doi.org/10.6061/clinics/2020/e1750)
 
-10.3389/fpls.2020.00993
+10.6061/clinics/2020/e1750
 
 ---
 
-## alter the soil microbiome
-
-[Source](https://doi.org/10.1371/journal.pone.0231187)
-
----
-
-## The secretome of a parasite alters its host's behaviour but does not recapitulate the behavioural response to infection.
- 30.06.2020, _CS Berger, N Aubin-Horth_
+## Gut Microbiota and Liver Interaction through Immune System Cross-Talk: A Comprehensive Review at the Time of the SARS-CoV-2 Pandemic.
+ 06.08.2020, _E Scarpellini, S Fagoonee, E Rinninella, C Rasetti, I Aquila, T Larussa, P Ricci, F Luzza, L Abenavoli_
 
 
-_Animals, Behavior, Animal, Cestoda, Cestode Infections, Fish Diseases, Host-Parasite Interactions, Parasites, Smegmamorpha_
-Parasites with complex life cycles have been proposed to manipulate the behaviour of their intermediate hosts to increase the probability of reaching their final host. The cause of these drastic behavioural changes could be manipulation factors released by the parasite in its environment (the secretome), but this has rarely been assessed. We studied a non-cerebral parasite, the cestode Schistocephalus solidus, and its intermediate host, the threespine stickleback (Gasterosteus aculeatus), whose response to danger becomes significantly diminished when infected. These altered behaviours appear only during late infection, when the worm is ready to reproduce in its final avian host. Sympatric host-parasite pairs show higher infection success for parasites, suggesting that the secretome effects could differ for allopatric host-parasite pairs with independent evolutionary histories. We tested the effects of secretome exposure on behaviour by using secretions from the early and late infection of S. solidus and by injecting them in healthy sticklebacks from a sympatric and allopatric population. Contrary to our prediction, secretome from late infection worms did not result in more risky behaviours, but secretome from early infection resulted in more cautious hosts, only in fish from the allopatric population. Our results suggest that the secretome of S. solidus contains molecules that can affect host behaviour, that the causes underlying the behavioural changes in infected sticklebacks are multifactorial and that local adaptation between host-parasite pairs may extend to the response to the parasite's secretome content.
+The gut microbiota is a complex ecosystem containing bacteria, viruses, fungi, yeasts and other single-celled organisms. It is involved in the development and maintenance of both innate and systemic immunity of the body. Emerging evidence has shown its role in liver diseases through the immune system cross-talk. We review herein literature data regarding the triangular interaction between gut microbiota, immune system and liver in health and disease.
 
-[Source](https://doi.org/10.1101/2020.08.04.236786)
+[Source](https://doi.org/10.3390/jcm9082488)
 
-10.1098/rspb.2020.0412
+10.3390/jcm9082488
 
 ---
 
-## host–microbe interactions in stickleback
+## <strong>Neonatal exposure to androgens dynamically alters gut microbiota architecture</strong>
 
-[Source](https://doi.org/10.1101/2020.08.04.236786)
-
----
-
-## Nasal commensal, Staphylococcus epidermidis shapes the mucosal environment to prevent influenza virus invasion through Serpine1 induction
-
-[Source](https://doi.org/10.1101/2020.08.03.235648)
+[Source](https://doi.org/10.1530/joe-20-0277)
 
 ---
 
-## <strong>Cystic Fibrosis Lung Transplant Recipients Have Suppressed Airway Interferon Responses during Pseudomonas Infection</strong>
+## Physicochemical Parameters Affecting the Distribution and Diversity of the Water Column Microbial Community in the High-Altitude Andean Lake System of La Brava and La Punta.
+ 06.08.2020, _R Núñez Salazar, C Aguirre, J Soto, P Salinas, C Salinas, H Prieto, M Paneque_
 
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402593/)
 
----
+Due to the low incidence of precipitation attributed to climate change, many high-altitude Andean lakes (HAALs) and lagoons distributed along the central Andes in South America may soon disappear. This includes La Brava-La Punta, a brackish lake system located south of the Salar de Atacama within a hyper-arid and halophytic biome in the Atacama Desert. Variations in the physicochemical parameters of the water column can induce changes in microbial community composition, which we aimed to determine. Sixteen sampling points across La Brava-La Punta were studied to assess the influence of water physicochemical properties on the aquatic microbial community, determined via 16S rRNA gene analysis. Parameters such as pH and the concentrations of silica, magnesium, calcium, salinity, and dissolved oxygen showed a more homogenous pattern in La Punta samples, whereas those from La Brava had greater variability; pH and total silica were significantly different between La Brava and La Punta. The predominant phyla were Proteobacteria, Bacteroidetes, Actinobacteria, and Verrucomicrobia. The genera Psychroflexus (36.85%), Thiomicrospira (12.48%), and Pseudomonas (7.81%) were more abundant in La Brava, while Pseudospirillum (20.73%) and Roseovarius (17.20%) were more abundant in La Punta. Among the parameters, pH was the only statistically significant factor influencing the diversity within La Brava lake. These results complement the known microbial diversity and composition in the HAALs of the Atacama Desert.
 
-## The alteration of gut microbiome and metabolism in amyotrophic lateral sclerosis patients
+[Source](https://doi.org/10.3390/microorganisms8081181)
 
-[Source](https://doi.org/10.1038/s41598-020-69845-8)
-
----
-
-## Home, Sweet Home: How Mucus Accommodates our Microbiota
-
-[Source](https://doi.org/10.1111/febs.15504)
+10.3390/microorganisms8081181
 
 ---
 
-## Immune gene expression covaries with gut microbiome composition in stickleback
+## Metabolic potential and survival strategies of microbial communities across extreme temperature gradients on Deception Island volcano, Antarctica
 
-[Source](https://doi.org/10.1101/2020.08.04.236786)
-
----
-
-## Transient neonatal antibiotic exposure increases susceptibility to late-onset sepsis driven by microbiota-dependent suppression of type 3 innate lymphoid cells
-
-[Source](https://doi.org/10.1038/s41598-020-69797-z)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.08.07.241539v1??collection)
 
 ---
 
-## Concentration and chemical form of dietary zinc shape the porcine colon microbiome, its functional capacity and antibiotic resistance gene repertoire
+## Metagenomic insights into the effects of nanobubble water on the composition of gut microbiota in mice.
+ 06.08.2020, _Z Guo, B Hu, H Han, Z Lei, K Shimizu, L Zhang, Z Zhang_
 
-[Source](https://doi.org/10.1038/s41396-020-0730-3)
 
----
+The particular physicochemical and biological properties of nanobubbles (NBs) have prompted many researchers to conduct an in-depth study on their potential application in various fields. This study aims to investigate the effects of nanobubble water (NBW) on the community structure of the gut microbiota in mice. In this study, supplementation with nitrogen NBW (SD-N2 group), hydrogen NBW (SD-H2 group) and deionized water (SD-C group) to a standard diet of mice was performed for five weeks. The composition of fecal microbiota was analyzed by using 16S rRNA gene sequencing. Compared with the SD-C group, the species diversity of the fecal microbiota in mice in NBW groups was significantly increased. At the genus level, supplementation with nitrogen NBW to mice significantly increased the relative abundance of two beneficial genera Clostridium and Coprococcus (mean growth 6.3 times and 9.7 times, respectively), while supplementation with hydrogen NBW significantly decreased the relative abundance of two pathogenic genera Mucispirillum and Helicobacter (mean reduction rate 86% and 60%, respectively). These results demonstrate that supplementation with NBW might optimize the composition of gut microbiota in mice.
 
-## Major changes in grapevine wood microbiota are associated with the onset of esca, a devastating trunk disease
+[Source](https://doi.org/10.1039/d0fo01592j)
 
-[Source](https://doi.org/10.1111/1462-2920.15180)
-
----
-
-## Increase in abundance and decrease in richness of soil microbes following Hurricane Otto in three primary forest types in the Northern Zone of Costa Rica
-
-[Source](https://doi.org/10.1371/journal.pone.0231187)
+10.1039/d0fo01592j
 
 ---
 
-## Planet Microbe: a platform for marine microbiology to discover and analyze interconnected ‘omics and environmental data
+## <strong>Effects of probiotic therapy on cardio-metabolic parameters and autonomic modulation in hypertensive women: a randomized, triple-blind, placebo-controlled trial</strong>
 
-[Source](https://doi.org/10.1093/nar/gkaa637)
-
----
-
-## Microbial communities can predict the ecological condition of headwater streams
-
-[Source](https://doi.org/10.1371/journal.pone.0236932)
+[Source](https://doi.org/10.1039/d0fo01661f)
 
 ---
 
-## Snipe: Highly sensitive pathogen detection from metagenomic sequencing data
+## Dietary Components, Microbial Metabolites and Human Health: Reading between the Lines.
+ 06.08.2020, _Y Guo, X Bian, J Liu, M Zhu, L Li, T Yao, C Tang, V Ravichandran, P Liao, K Papadimitriou, J Yin_
 
-[Source](https://doi.org/10.1101/2020.05.06.080580)
+
+Trillions of bacteria reside in the human gut and they metabolize dietary substances to obtain nutrients and energy while producing metabolites. Therefore, different dietary components could affect human health in various ways through microbial metabolism. Many such metabolites have been shown to affect human physiological activities, including short-chain fatty acids metabolized from carbohydrates; indole, kynurenic acid and para-cresol, metabolized from amino acids; conjugated linoleic acid and linoleic acid, metabolized from lipids. Here, we review the features of these metabolites and summarize the possible molecular mechanisms of their metabolisms by gut microbiota. We discuss the potential roles of these metabolites in health and diseases, and the interactions between host metabolism and the gut microbiota. We also show some of the major dietary patterns around the world and hope this review can provide insights into our eating habits and improve consumers' health conditions.
+
+[Source](https://doi.org/10.3390/foods9081045)
+
+10.3390/foods9081045
 
 ---
 
-## Impact of time and temperature on gut microbiota and SCFA composition in stool samples
+## Microbiota on Biotics: Probiotics, Prebiotics, and Synbiotics to Optimize Growth and Metabolism.
+ 06.08.2020, _PT Edwards, PC Kashyap, GA Preidis_
 
-[Source](https://doi.org/10.1371/journal.pone.0236944)
+
+The early stages of the metagenomics era produced countless observational studies linking various human diseases to alterations in the gut microbiota. Only recently have we begun to decipher the causal roles that gut microbes play in many of these conditions. Despite an incomplete understanding of how gut microbes influence pathophysiology, clinical trials have tested empirically numerous microbiota-targeting therapies to prevent or treat disease. Unsurprisingly, these trials have yielded mixed results. Nonetheless, the consumer market for probiotics, prebiotics, and synbiotics continues to grow. This mini-review highlights recent discoveries of mechanisms underlying diet-microbial-host interactions as they pertain to growth and metabolism and discusses current and future applications of microbiota-targeting therapies in the context of child malnutrition as well as obesity and its metabolic comorbidities including non-alcoholic fatty liver disease and cardiovascular disease. We also highlight current challenges and identify future directions to facilitate a more efficient and direct path to clinical impact.
+
+[Source](https://doi.org/10.1152/ajpgi.00028.2020)
+
+10.1152/ajpgi.00028.2020
+
+---
+
+## The Effectiveness of Multi-Session FMT Treatment in Active Ulcerative Colitis Patients: A Pilot Study.
+ 06.08.2020, _D Mańkowska-Wierzbicka, M Stelmach-Mardas, M Gabryel, H Tomczak, M Skrzypczak-Zielińska, O Zakerska-Banaszak, A Sowińska, D Mahadea, A Baturo, Ł Wolko, R Słomski, A Dobrowolska_
+
+
+The modification of the microbiome through fecal microbiota transplantation (FMT) is becoming a very promising therapeutic option for inflammatory bowel disease (IBD) patients. Our pilot study aimed to assess the effectiveness of multi-session FMT treatment in active ulcerative colitis (UC) patients. Ten patients with UC were treated with multi-session FMT (200 mL) from healthy donors, via colonoscopy/gastroscopy. Patients were evaluated as follows: at baseline, at week 7, and after 6 months, routine blood tests (including C reactive protein (CRP) and calprotectin) were performed. 16S rRNA gene (V3V4) sequencing was used for metagenomic analysis. The severity of UC was classified based on the Truelove-Witts index. The assessment of microbial diversity showed significant differences between recipients and healthy donors. FMT contributed to long-term, significant clinical and biochemical improvement. Metagenomic analysis revealed an increase in the amount of Lactobacillaceaea, Micrococcaceae, Prevotellaceae, and TM7 phylumsp.oral clone EW055 during FMT, whereas Staphylococcaceae and Bacillaceae declined significantly. A positive increase in the proportion of the genera Bifidobacterium, Lactobacillus, Rothia, Streptococcus, and Veillonella and a decrease in Bacillus, Bacteroides, and Staphylococcus were observed based on the correlation between calprotectin and Bacillus and Staphylococcus; ferritin and Lactobacillus, Veillonella, and Bifidobacterium abundance was indicated. A positive change in the abundance of Firmicutes was observed during FMT and after 6 months. The application of multi-session FMT led to the restoration of recipients' microbiota and resulted in the remission of patients with active UC.
+
+[Source](https://doi.org/10.3390/biomedicines8080268)
+
+10.3390/biomedicines8080268
+
+---
+
+## Neurological and cognitive significance of probiotics: a holy grail deciding individual personality.
+ 06.08.2020, _M Afzal, SF Mazhar, S Sana, M Naeem, MH Rasool, M Saqalein, MA Nisar, M Rasool, M Bilal, AA Khan, M Khurshid_
+
+
+The role of the human microbiome in the brain and behavioral development is an area of increasing attention. Recent investigations have found that diverse mechanisms and signals including the immune, endocrine and neural associations are responsible for the communication between gut microbiota and the brain. The studies have suggested that alteration of intestinal microbiota using probiotic formulations may offer a significant role in the maturation and organization of the brain and can shape the brain and behavior as well as mood and cognition in human subjects. The understanding of the possible impact of gut microflora on neurological function is a promising phenomenon that can surely transform the neurosciences and may decipher the novel etiologies for neurodegenerative and psychiatric disorders.
+
+[Source](https://doi.org/10.2217/fmb-2019-0143)
+
+10.2217/fmb-2019-0143
+
+---
+
+## The Influences of Bioinformatics Tools and Reference Databases in Analyzing the Human Oral Microbial Community
+
+[Source](https://doi.org/10.3390/genes11080878)
+
+---
+
+## Genome-based targeted sequencing as a reproducible microbial community profiling assay
+
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.08.07.241950v1??collection)
 
 ---
 
