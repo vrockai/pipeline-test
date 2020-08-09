@@ -118,9 +118,15 @@ The role of the human microbiome in the brain and behavioral development is an a
 
 ---
 
-## The Influences of Bioinformatics Tools and Reference Databases in Analyzing the Human Oral Microbial Community
+## The Influences of Bioinformatics Tools and Reference Databases in Analyzing the Human Oral Microbial Community.
+ 06.08.2020, _MA Sierra, Q Li, S Pushalkar, B Paul, TA Sandoval, AR Kamer, P Corby, Y Guo, RR Ruff, AV Alekseyenko, X Li, D Saxena_
+
+
+There is currently no criterion to select appropriate bioinformatics tools and reference databases for analysis of 16S rRNA amplicon data in the human oral microbiome. Our study aims to determine the influence of multiple tools and reference databases on α-diversity measurements and β-diversity comparisons analyzing the human oral microbiome. We compared the results of taxonomical classification by Greengenes, the Human Oral Microbiome Database (HOMD), National Center for Biotechnology Information (NCBI) 16S, SILVA, and the Ribosomal Database Project (RDP) using Quantitative Insights Into Microbial Ecology (QIIME) and the Divisive Amplicon Denoising Algorithm (DADA2). There were 15 phyla present in all of the analyses, four phyla exclusive to certain databases, and different numbers of genera were identified in each database. Common genera found in the oral microbiome, such as Veillonella, Rothia, and Prevotella, are annotated by all databases; however, less common genera, such as Bulleidia and Paludibacter, are only annotated by large databases, such as Greengenes. Our results indicate that using different reference databases in 16S rRNA amplicon data analysis could lead to different taxonomic compositions, especially at genus level. There are a variety of databases available, but there are no defined criteria for data curation and validation of annotations, which can affect the accuracy and reproducibility of results, making it difficult to compare data across studies.
 
 [Source](https://doi.org/10.3390/genes11080878)
+
+10.3390/genes11080878
 
 ---
 
