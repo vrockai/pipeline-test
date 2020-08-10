@@ -1,42 +1,60 @@
-## Essential oils and microbiota: Implications for diet and weight control
+## Infection of human lymphomononuclear cells by SARS-CoV-2
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0924224420305434)
-
----
-
-## The Gut Microbiota of Pheasant Lineages Reflects Their Host Genetic Variation 
-
-[Source](https://www.frontiersin.org/article/10.3389/fgene.2020.00859)
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.28.225912v2.abstract)
 
 ---
 
-## Metabolic potential and survival strategies of microbial communities across extreme temperature gradients on Deception Island volcano, Antarctica
+## Amoeba predation of Cryptococcus neoformans results in pleiotropic changes to traits associated with virulence
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241539v1.abstract)
-
----
-
-## New Microbial Biodiversity in Marine Sediments
-
-[Source](https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-032020-014552)
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241190v1.abstract)
 
 ---
 
-## Improved normalization of species count data in ecology by scaling with ranked subsampling (SRS): application to microbial communities
+## Using Plasmodium knowlesi as a model for screening Plasmodium vivax blood-stage malaria vaccine targets reveals new candidates
 
-[Source](https://peerj.com/articles/9593/)
-
----
-
-## Ten simple rules for reading a scientific paper
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241125v1.abstract)
 
 ---
 
-## Zoonotic host diversity increases in human-dominated ecosystems
+## Influence of the polar light cycle on seasonal dynamics of an Antarctic lake microbial community
 
-[Source](https://www.nature.com/articles/s41586-020-2562-8)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00889-8)
+
+---
+
+## Environmental shaping of the bacterial and fungal community in infant bed dust and correlations with the airway microbiota
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00895-w)
+
+---
+
+## The human gut archaeome: identification of diverse haloarchaea in Korean subjects
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00894-x)
+
+---
+
+## Successful introduction of the Colour Test into inexperienced settings
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241158v1.abstract)
+
+---
+
+## How a healthy gut microbe affects your whole body?
+
+[Source](https://patch.com/new-jersey/mahwah/calendar/event/20200810/857229/zoom-event-how-a-healthy-gut-microbiome-affects-your-whole-body)
+
+---
+
+## https://www.biorxiv.org/content/10.1101/2020.07.28.225912v2.full.pdf
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.07.28.225912v2.full.pdf)
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/08/10/august-10th-2020/?like_comment=24724&_wpnonce=9e0e5e9690)
 
 ---
 
