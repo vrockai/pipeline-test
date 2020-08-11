@@ -1,60 +1,90 @@
-## Infection of human lymphomononuclear cells by SARS-CoV-2
+## A novel, simple, frequent oral cleaning method reduces damaging bacteria in the dental microbiota
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.28.225912v2.abstract)
-
----
-
-## Amoeba predation of Cryptococcus neoformans results in pleiotropic changes to traits associated with virulence
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241190v1.abstract)
+[Source](http://www.jispcd.org/article.asp?issn=2231-0762;year=2020;volume=10;issue=4;spage=511;epage=519;aulast=Chhaliyil)
 
 ---
 
-## Using Plasmodium knowlesi as a model for screening Plasmodium vivax blood-stage malaria vaccine targets reveals new candidates
+## Rapid-Eye-Movement Sleep Behavior Disorder Exhibits Similar but Distinct Gut Dysbiosis Compared to Parkinson’s Disease
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241125v1.abstract)
-
----
-
-## Influence of the polar light cycle on seasonal dynamics of an Antarctic lake microbial community
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00889-8)
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.242453v1.abstract?%3Fcollection=)
 
 ---
 
-## Environmental shaping of the bacterial and fungal community in infant bed dust and correlations with the airway microbiota
+## The Relationship between Choline Bioavailability from Diet, Intestinal Microbiota Composition, and Its Modulation of Human Diseases
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00895-w)
-
----
-
-## The human gut archaeome: identification of diverse haloarchaea in Korean subjects
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00894-x)
+[Source](https://www.mdpi.com/2072-6643/12/8/2340)
 
 ---
 
-## Successful introduction of the Colour Test into inexperienced settings
+## Fecal microRNAs as Innovative Biomarkers of Intestinal Diseases and Effective Players in Host-Microbiome Interactions
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.07.241158v1.abstract)
-
----
-
-## How a healthy gut microbe affects your whole body?
-
-[Source](https://patch.com/new-jersey/mahwah/calendar/event/20200810/857229/zoom-event-how-a-healthy-gut-microbiome-affects-your-whole-body)
+[Source](https://www.mdpi.com/2072-6694/12/8/2174)
 
 ---
 
-## https://www.biorxiv.org/content/10.1101/2020.07.28.225912v2.full.pdf
+## An ambient temperature collection and stabilization strategy for canine microbiota studies
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.28.225912v2.full.pdf)
+[Source](https://www.nature.com/articles/s41598-020-70232-6)
 
 ---
 
-## <span>Like</span>
+## Oral and vaginal microbiota in selected field mice of the genus Apodemus: a wild population study
 
-[Source](https://microbiomedigest.com/2020/08/10/august-10th-2020/?like_comment=24724&_wpnonce=1e9ed7a739)
+[Source](https://www.nature.com/articles/s41598-020-70249-x)
+
+---
+
+## Barrel-Induced Variation in the Microbiome and Mycobiome of Aged Sour Ale and Imperial Porter Beer
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/03610470.2020.1795607)
+
+---
+
+## Influence of invasive earthworms (Amynthas spp.) on Wisconsin forest soil microbial communities and soil chemistry
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0038071720302510)
+
+---
+
+## Field Exploitation of Multiple Functions of Beneficial Microorganisms for Plant Nutrition and Protection: Real Possibility or Just a Hope?
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01904/full)
+
+---
+
+## Composition and activity of nitrifier communities in soil are unresponsive to elevated temperature and CO2, but strongly affected by drought
+
+[Source](https://www.nature.com/articles/s41396-020-00735-7)
+
+---
+
+## Effects of the inoculum source, electron donor, and immobilization on the microbial community of sulfidogenic bioreactors
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1385894720326772)
+
+---
+
+## Cryptic fungal diversity revealed in deep-sea sediments associated with whale-fall chemosynthetic ecosystems
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/21501203.2020.1799879)
+
+---
+
+## A survey on predicting microbe-disease associations: biological data and computational methods
+
+[Source](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbaa157/5881365)
+
+---
+
+## FORENSIC: an Online Platform for Fecal Source Identification
+
+[Source](https://msystems.asm.org/content/5/2/e00869-19.abstract)
+
+---
+
+## Bacterial mock communities as standards for reproducible cytometric microbiome analysis
+
+[Source](https://www.nature.com/articles/s41596-020-0362-0)
 
 ---
 
