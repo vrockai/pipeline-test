@@ -52,9 +52,15 @@
 
 ---
 
-## Composition and activity of nitrifier communities in soil are unresponsive to elevated temperature and CO2, but strongly affected by drought
+## Composition and activity of nitrifier communities in soil are unresponsive to elevated temperature and CO2, but strongly affected by drought.
+ 09.08.2020, _J Séneca, P Pjevac, A Canarini, CW Herbold, C Zioutis, M Dietrich, E Simon, J Prommer, M Bahn, EM Pötsch, M Wagner, W Wanek, A Richter_
+
+
+Nitrification is a fundamental process in terrestrial nitrogen cycling. However, detailed information on how climate change affects the structure of nitrifier communities is lacking, specifically from experiments in which multiple climate change factors are manipulated simultaneously. Consequently, our ability to predict how soil nitrogen (N) cycling will change in a future climate is limited. We conducted a field experiment in a managed grassland and simultaneously tested the effects of elevated atmospheric CO2, temperature, and drought on the abundance of active ammonia-oxidizing bacteria (AOB) and archaea (AOA), comammox (CMX) Nitrospira, and nitrite-oxidizing bacteria (NOB), and on gross mineralization and nitrification rates. We found that N transformation processes, as well as gene and transcript abundances, and nitrifier community composition were remarkably resistant to individual and interactive effects of elevated CO2 and temperature. During drought however, process rates were increased or at least maintained. At the same time, the abundance of active AOB increased probably due to higher NH4+ availability. Both, AOA and comammox Nitrospira decreased in response to drought and the active community composition of AOA and NOB was also significantly affected. In summary, our findings suggest that warming and elevated CO2 have only minor effects on nitrifier communities and soil biogeochemical variables in managed grasslands, whereas drought favors AOB and increases nitrification rates. This highlights the overriding importance of drought as a global change driver impacting on soil microbial community structure and its consequences for N cycling.
 
 [Source](https://www.nature.com/articles/s41396-020-00735-7)
+
+10.1038/s41396-020-00735-7
 
 ---
 
