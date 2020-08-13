@@ -52,9 +52,15 @@ Animal-associated microbiota is expected to impose crucial effects on the host's
 
 ---
 
-## Characterization of Cutaneous Bacterial Microbiota from Superficial Pyoderma Forms in Atopic Dogs
+## Characterization of Cutaneous Bacterial Microbiota from Superficial Pyoderma Forms in Atopic Dogs.
+ 12.08.2020, _CE Older, A Rodrigues Hoffmann, K Hoover, F Banovic_
+
+
+Although Staphylococcus pseudintermedius is considered the major pathogen associated with superficial canine pyoderma, no study has investigated the entire bacterial community in these lesions with molecular techniques. The objectives of this study were to characterize the bacterial microbiota in two forms of superficial canine pyoderma lesions, superficial bacterial folliculitis (SBF) and epidermal collarette (EC), especially in terms of the staphylococcal community. Swabs from 12 SBF and 9 EC lesions were obtained from eight and six atopic dogs, respectively. Eight samples from the axilla and groin of four healthy dogs served as controls. DNA was extracted for 16S rRNA gene sequencing and quantitative polymerase chain reaction of Staphylococcus spp. and S. pseudintermedius. Healthy skin samples harbored significantly more diverse bacterial communities than pyoderma samples. Healthy samples had communities that were more similar to each other, and were distinct from pyoderma samples. Staphylococcus spp. abundance was increased in pyoderma samples, especially those from EC samples. Although determining species-level identities of staphylococcal sequences revealed many species, S. pseudintermedius was the primary staphylococcal species found in all sample types. As expected, there are many differences in the microbiota when comparing healthy and canine pyoderma lesions samples. These lesions do not seem to be associated with a change in the relative abundance of specific Staphylococcus species, but simply an overall increase in Staphylococcus spp. abundance. The results of this study provide a starting point for future studies investigating how antimicrobial treatments may further change the microbiota associated with these lesions.
 
 [Source](https://www.mdpi.com/2076-0817/9/8/638/htm)
+
+10.3390/pathogens9080638
 
 ---
 
