@@ -17,7 +17,7 @@ The discovery of innate immune sensors (pattern recognition receptors, PRRs) has
 ---
 
 ## Diversity within species: interpreting strains in microbiomes.
- 27.06.2020, _T Van Rossum, P Ferretti, OM Maistrenko, P Bork_
+ 12.08.2020, _T Van Rossum, P Ferretti, OM Maistrenko, P Bork_
 
 
 Studying within-species variation has traditionally been limited to culturable bacterial isolates and low-resolution microbial community fingerprinting. Metagenomic sequencing and technical advances have enabled culture-free, high-resolution strain and subspecies analyses at high throughput and in complex environments. This holds great scientific promise but has also led to an overwhelming number of methods and terms to describe infraspecific variation. This Review aims to clarify these advances by focusing on the diversity within bacterial and archaeal species in the context of microbiomics. We cover foundational microevolutionary concepts relevant to population genetics and summarize how within-species variation can be studied and stratified directly within microbial communities with a focus on metagenomics. Finally, we describe how common applications of within-species variation can be achieved using metagenomic data. We aim to guide the selection of appropriate terms and analytical approaches to facilitate researchers in benefiting from the increasing availability of large, high-resolution microbiome genetic sequencing data.
