@@ -1,12 +1,12 @@
-## A multitude of signaling pathways associated with Alzheimer's disease and their roles in AD pathogenesis and therapy.
- 12.08.2020, _K Gadhave, D Kumar, VN Uversky, R Giri_
+## Vascular endothelial injury exacerbates coronavirus disease 2019: The role of endothelial glycocalyx protection.
+ 13.08.2020, _H Okada, S Yoshida, A Hara, S Ogura, H Tomita_
 
 
-The exact molecular mechanisms associated with Alzheimer's disease (AD) pathology continue to represent a mystery. In the past decades, comprehensive data were generated on the involvement of different signaling pathways in the AD pathogenesis. However, the utilization of signaling pathways as potential targets for the development of drugs against AD is rather limited due to the immense complexity of the brain and intricate molecular links between these pathways. Therefore, finding a correlation and cross-talk between these signaling pathways and establishing different therapeutic targets within and between those pathways are needed for better understanding of the biological events responsible for the AD-related neurodegeneration. For example, autophagy is a conservative cellular process that shows link with many other AD-related pathways and is crucial for maintenance of the correct cellular balance by degrading AD-associated pathogenic proteins. Considering the central role of autophagy in AD and its interplay with many other pathways, the finest therapeutic strategy to fight against AD is the use of autophagy as a target. As an essential step in this direction, this comprehensive review represents recent findings on the individual AD-related signaling pathways, describes key features of these pathways and their cross-talk with autophagy, represents current drug development, and introduces some of the multitarget beneficial approaches and strategies for the therapeutic intervention of AD.
+The potential for a rapid increase in severity is among the most frightening aspects of severe acute respiratory syndrome coronavirus 2 infection. Evidence increasingly suggests that the symptoms of coronavirus disease-2019 (COVID-19)-related acute respiratory distress syndrome (ARDS) differ from those of classic ARDS. Recently, the severity of COVID-19 has been attributed to a systemic, thrombotic, and inflammatory disease that damages not only the lungs but multiple organs, including the heart, brain, toes, and liver. This systemic form of COVID-19 may be due to inflammation and vascular endothelial cell injury. The vascular endothelial glycocalyx comprises glycoproteins, and plays an important role in systemic capillary homeostasis maintenance. The glycocalyx covers the entire vascular endothelium, and its thickness varies among organs. The endothelial glycocalyx is very thin in the pulmonary capillaries, where it is affected by gaseous exchange with the alveoli and the low intravascular pressure in the pulmonary circulation. Despite the clearly important roles of the glycocalyx in vascular endothelial injury, thrombosis, vasculitis, and inflammation, the link between this structure and vascular endothelial cell dysfunction in COVID-19 remains unclear. In this prospective review, we summarize the importance of the glycocalyx and its potential as a therapeutic target in cases of systemic COVID-19.
 
 [Source](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1191/5891289)
 
-10.1002/med.21719
+10.1111/micc.12654
 
 ---
 
@@ -112,9 +112,15 @@ Cellulose is the most abundant natural polymer present on Earth in the form of a
 
 ---
 
-## Bacterial polyphosphates interfere with the innate host defense to infection
+## Bacterial polyphosphates interfere with the innate host defense to infection.
+ 13.08.2020, _J Roewe, G Stavrides, M Strueve, A Sharma, F Marini, A Mann, SA Smith, Z Kaya, B Strobl, M Mueller, C Reinhardt, JH Morrissey, M Bosmann_
+
+
+Polyphosphates are linear polymers and ubiquitous metabolites. Bacterial polyphosphates are long chains of hundreds of phosphate units. Here, we report that mouse survival of peritoneal Escherichia coli sepsis is compromised by long-chain polyphosphates, and improves with bacterial polyphosphatekinase deficiency or neutralization using recombinant exopolyphosphatase. Polyphosphate activities are chain-length dependent, impair pathogen clearance, antagonize phagocyte recruitment, diminish phagocytosis and decrease production of iNOS and cytokines. Macrophages bind and internalize polyphosphates, in which their effects are independent of P2Y1 and RAGE receptors. The M1 polarization driven by E. coli derived LPS is misdirected by polyphosphates in favor of an M2 resembling phenotype. Long-chain polyphosphates modulate the expression of more than 1800 LPS/TLR4-regulated genes in macrophages. This interference includes suppression of hundreds of type I interferon-regulated genes due to lower interferon production and responsiveness, blunted STAT1 phosphorylation and reduced MHCII expression. In conclusion, prokaryotic polyphosphates disturb multiple macrophage functions for evading host immunity.
 
 [Source](https://www.nature.com/articles/s41467-020-17639-x?)
+
+10.1038/s41467-020-17639-x
 
 ---
 
