@@ -112,9 +112,15 @@ Until recently the in utero environment of pregnant women was considered sterile
 
 ---
 
-## Plant–archaea relationships: a potential means to improve crop production in arid and semi-arid regions
+## Plant-archaea relationships: a potential means to improve crop production in arid and semi-arid regions.
+ 10.08.2020, _ET Alori, OC Emmanuel, BR Glick, OO Babalola_
+
+
+Crop production in arid and semi-arid regions of the world is limited by several abiotic factors, including water stress, temperature extremes, low soil fertility, high soil pH, low soil water-holding capacity, and low soil organic matter. Moreover, arid and semi-arid areas experience low levels of rainfall with high spatial and temporal variability. Also, the indiscriminate use of chemicals, a practice that characterizes current agricultural practice, promotes crop and soil pollution potentially resulting in serious human health and environmental hazards. A reliable and sustainable alternative to current farming practice is, therefore, a necessity. One such option includes the use of plant growth-promoting microbes that can help to ameliorate some of the adverse effects of these multiple stresses. In this regard, archaea, functional components of the plant microbiome that are found both in the rhizosphere and the endosphere may contribute to the promotion of plant growth. Archaea can survive in extreme habitats such as areas with high temperatures and hypersaline water. No cases of archaea pathogenicity towards plants have been reported. Archaea appear to have the potential to promote plant growth, improve nutrient supply and protect plants against various abiotic stresses. A better understanding of recent developments in archaea functional diversity, plant colonizing ability, and modes of action could facilitate their eventual usage as reliable components of sustainable agricultural systems. The research discussed herein, therefore, addresses the potential role of archaea to improve sustainable crop production in arid and semi-arid areas.
 
 [Source](https://link.springer.com/article/10.1007/s11274-020-02910-6)
+
+10.1007/s11274-020-02910-6
 
 ---
 
@@ -166,15 +172,9 @@ Until recently the in utero environment of pregnant women was considered sterile
 
 ---
 
-## De novo sequence assembly requires bioinformatic checking of chimeric sequences.
- 10.08.2020, _LS Arroyo Mühr, C Lagheden, SS Hassan, SN Kleppe, E Hultin, J Dillner_
-
-
-De novo assembly of sequence reads from next generation sequencing platforms is a common strategy for detecting presence and sequencing of viruses in biospecimens. Amplification artifacts and presence of several related viruses in the same specimen can lead to assembly of erroneous, chimeric sequences. We now report that such chimeras can also occur between viral and non-viral biological sequences incorrectly joined together which may cause erroneous detection of viruses, highlighting the importance of performing a chimera checking step in bioinformatics pipelines. Using Illumina NextSeq and metagenomic sequencing, we analyzed 80 consecutive non-melanoma skin cancers (NMSCs) from 11 immunosuppressed patients together with 11 NMSCs from patients who had only developed 1 NMSC. We aligned high-quality reads against a Human Papillomavirus (HPV) database and found HPV sequences in 9/91 specimens. A previous bioinformatic analysis of the same crude sequencing data from some of these samples had found an additional 3 specimens to be HPV-positive after performing de novo assembly. The reason for the discrepancy was investigated and found to be mostly caused by chimeric sequences containing both viral and non-viral sequences. Non-viral sequences were present in these 3 samples. To avoid erroneous detection of HPV when performing sequencing, we thus developed a novel script to identify HPV chimeric sequences.
+## De novo sequence assembly requires bioinformatic checking of chimeric sequences
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237455)
-
-10.1371/journal.pone.0237455
 
 ---
 
