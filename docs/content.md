@@ -136,27 +136,15 @@ Until recently the in utero environment of pregnant women was considered sterile
 
 ---
 
-## Genomic and enzymatic evidence of acetogenesis by anaerobic methanotrophic archaea.
- 10.08.2020, _S Yang, Y Lv, X Liu, Y Wang, Q Fan, Z Yang, N Boon, F Wang, X Xiao, Y Zhang_
-
-
-Anaerobic oxidation of methane (AOM) mediated by anaerobic methanotrophic archaea (ANME) is the primary process that provides energy to cold seep ecosystems by converting methane into inorganic carbon. Notably, cold seep ecosystems are dominated by highly divergent heterotrophic microorganisms. The role of the AOM process in supporting heterotrophic population remains unknown. We investigate the acetogenic capacity of ANME-2a in a simulated cold seep ecosystem using high-pressure biotechnology, where both AOM activity and acetate production are detected. The production of acetate from methane is confirmed by isotope-labeling experiments. A complete archaeal acetogenesis pathway is identified in the ANME-2a genome, and apparent acetogenic activity of the key enzymes ADP-forming acetate-CoA ligase and acetyl-CoA synthetase is demonstrated. Here, we propose a modified model of carbon cycling in cold seeps: during AOM process, methane can be converted into organic carbon, such as acetate, which further fuels the heterotrophic community in the ecosystem.
+## Genomic and enzymatic evidence of acetogenesis by anaerobic methanotrophic archaea
 
 [Source](https://www.nature.com/articles/s41467-020-17860-8)
 
-10.1038/s41467-020-17860-8
-
 ---
 
-## Undinarchaeota illuminate DPANN phylogeny and the impact of gene transfer on archaeal evolution.
- 10.08.2020, _N Dombrowski, TA Williams, J Sun, BJ Woodcroft, JH Lee, BQ Minh, C Rinke, A Spang_
-
-
-The recently discovered DPANN archaea are a potentially deep-branching, monophyletic radiation of organisms with small cells and genomes. However, the monophyly and early emergence of the various DPANN clades and their role in life's evolution are debated. Here, we reconstructed and analysed genomes of an uncharacterized archaeal phylum (Candidatus Undinarchaeota), revealing that its members have small genomes and, while potentially being able to conserve energy through fermentation, likely depend on partner organisms for the acquisition of certain metabolites. Our phylogenomic analyses robustly place Undinarchaeota as an independent lineage between two highly supported 'DPANN' clans. Further, our analyses suggest that DPANN have exchanged core genes with their hosts, adding to the difficulty of placing DPANN in the tree of life. This pattern can be sufficiently dominant to allow identifying known symbiont-host clades based on routes of gene transfer. Together, our work provides insights into the origins and evolution of DPANN and their hosts.
+## Undinarchaeota illuminate DPANN phylogeny and the impact of gene transfer on archaeal evolution
 
 [Source](https://www.nature.com/articles/s41467-020-17408-w)
-
-10.1038/s41467-020-17408-w
 
 ---
 
