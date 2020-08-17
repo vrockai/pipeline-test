@@ -262,9 +262,15 @@ Alcohol use disorder (AUD) is associated with microbial alterations that worsen 
 
 ---
 
-## Critical Relevance of Stochastic Effects on Low-Bacterial Biomass 16S rRNA Gene Analysis
+## Critical Relevance of Stochastic Effects on Low-Bacterial-Biomass 16S rRNA Gene Analysis.
+ 25.07.2020, _JR Erb-Downward, NR Falkowski, JC D'Souza, LM McCloskey, RA McDonald, CA Brown, K Shedden, RP Dickson, CM Freeman, KA Stringer, B Foxman, GB Huffnagle, JL Curtis, SD Adar_
+
+
+The bacterial microbiome of human body sites, previously considered sterile, remains highly controversial because it can be challenging to isolate signal from noise when low-biomass samples are being analyzed. We tested the hypothesis that stochastic sequencing noise, separable from reagent contamination, is generated during sequencing on the Illumina MiSeq platform when DNA input is below a critical threshold. We first purified DNA from serial dilutions of Pseudomonas aeruginosa and from negative controls using three DNA purification kits, quantified input using droplet digital PCR, and then sequenced the 16S rRNA gene in four technical replicates. This process identified reproducible contaminant signal that was separable from an irreproducible stochastic noise, which occurred as bacterial biomass of samples decreased. This approach was then applied to authentic respiratory samples from healthy individuals (n = 22) that ranged from high to ultralow bacterial biomass. Using oral rinse, bronchoalveolar lavage (BAL) fluid, and exhaled breath condensate (EBC) samples and matched controls, we were able to demonstrate (i) that stochastic noise dominates sequencing in real-world low-bacterial-biomass samples that contain fewer than 104 copies of the 16S rRNA gene per sample, (ii) that critical examination of the community composition of technical replicates can be used to separate signal from noise, and (iii) that EBC is an irreproducible sampling modality for sampling the microbiome of the lower airways. We anticipate that these results combined with suggested methods for identifying and dealing with noisy communities will facilitate increased reproducibility while simultaneously permitting characterization of potentially important low-biomass communities.IMPORTANCE DNA contamination from external sources (reagents, environment, operator, etc.) has long been assumed to be the main cause of spurious signals that appear under low-bacterial-biomass conditions. Here, we demonstrate that contamination can be separated from another, random signal generated during low-biomass-sample sequencing. This stochastic noise is not reproduced between technical replicates; however, results for any one replicate taken alone could look like a microbial community different from the controls. Using this information, we investigated respiratory samples from healthy humans and determined the narrow range of bacterial biomass where samples transition from producing reproducible microbial sequences to ones dominated by noise. We present a rigorous approach to studies involving low-bacterial-biomass samples to detect this source of noise and provide a framework for deciding if a sample is likely to be dominated by noise. We anticipate that this work will facilitate increased reproducibility in the characterization of potentially important low-biomass communities.
 
 [Source](https://mbio.asm.org/content/mbio/11/3/e00258-20.full.pdf)
+
+10.1128/mBio.00258-20
 
 ---
 
@@ -274,15 +280,45 @@ Alcohol use disorder (AUD) is associated with microbial alterations that worsen 
 
 ---
 
-## Inclusion of Oxford Nanopore long reads improves all microbial and viral metagenome‐assembled genomes from a complex aquifer system
+## Inclusion of Oxford Nanopore long reads improves all microbial and viral metagenome-assembled genomes from a complex aquifer system.
+ 07.08.2020, _WA Overholt, M Hölzer, P Geesink, C Diezel, M Marz, K Küsel_
+
+
+Assembling microbial and viral genomes from metagenomes is a powerful and appealing method to understand structure-function relationships in complex environments. To compare the recovery of genomes from microorganisms and their viruses from groundwater, we generated shotgun metagenomes with Illumina sequencing accompanied by long reads derived from the Oxford Nanopore Technologies (ONT) sequencing platform. Assembly and metagenome-assembled genome (MAG) metrics for both microbes and viruses were determined from an Illumina-only assembly, ONT-only assembly, and a hybrid assembly approach. The hybrid approach recovered 2x more mid to high-quality MAGs compared to the Illumina-only approach and 4x more than the ONT-only approach. A similar number of viral genomes were reconstructed using the hybrid and ONT methods, and both recovered nearly four-fold more viral genomes than the Illumina-only approach. While yielding fewer MAGs, the ONT-only approach generated MAGs with a high probability of containing rRNA genes, 3x higher than either of the other methods. Of the shared MAGs recovered from each method, the ONT-only approach generated the longest and least fragmented MAGs, while the hybrid approach yielded the most complete. This work provides quantitative data to inform a cost-benefit analysis of the decision to supplement shotgun metagenomic projects with long reads towards the goal of recovering genomes from environmentally abundant groups. This article is protected by copyright. All rights reserved.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1462-2920.15186)
+
+10.1111/1462-2920.15186
+
+---
+
+## Meta-analysis of 16S rRNA Microbial Data Identified Distinctive and Predictive Microbiota Dysbiosis in Colorectal Carcinoma Adjacent Tissue.
+ 28.07.2020, _Z Mo, P Huang, C Yang, S Xiao, G Zhang, F Ling, L Li_
+
+
+As research focusing on the colorectal cancer fecal microbiome using shotgun sequencing continues, increasing evidence has supported correlations between colorectal carcinomas (CRCs) and fecal microbiome dysbiosis. However, large-scale on-site and off-site (surrounding adjacent) tissue microbiome characterization of CRC was underrepresented. Here, considering each taxon as a feature, we demonstrate a machine learning-based method to investigate tissue microbial differences among CRC, colorectal adenoma (CRA), and healthy control groups using 16S rRNA data sets retrieved from 15 studies. A total of 2,099 samples were included and analyzed in case-control comparisons. Multiple methods, including differential abundance analysis, random forest classification, cooccurrence network analysis, and Dirichlet multinomial mixture analysis, were conducted to investigate the microbial signatures. We showed that the dysbiosis of the off-site tissue of colonic cancer was distinctive and predictive. The AUCs (areas under the curve) were 80.7%, 96.0%, and 95.8% for CRC versus healthy control random forest models using stool, tissue, and adjacent tissue samples and 69.9%, 91.5%, and 89.5% for the corresponding CRA models, respectively. We also found that the microbiota ecologies of the surrounding adjacent tissues of CRC and CRA were similar to their on-site counterparts according to network analysis. Furthermore, based on the enterotyping of tissue samples, the cohort-specific microbial signature might be the crux in addressing classification generalization problems. Despite cohort heterogeneity, the dysbiosis of lesion-adjacent tissues might provide us with further perspectives in demonstrating the role of the microbiota in colorectal cancer tumorigenesis.IMPORTANCE Turbulent fecal and tissue microbiome dysbiosis of colorectal carcinoma and adenoma has been identified, and some taxa have been proven to be carcinogenic. However, the microbiomes of surrounding adjacent tissues of colonic cancerous tissues were seldom investigated uniformly on a large scale. Here, we characterize the microbiome signatures and dysbiosis of various colonic cancer sample groups. We found a high correlation between colorectal carcinoma adjacent tissue microbiomes and their on-site counterparts. We also discovered that the microbiome dysbiosis in adjacent tissues could discriminate colorectal carcinomas from healthy controls effectively. These results extend our knowledge on the microbial profile of colorectal cancer tissues and highlight microbiota dysbiosis in the surrounding tissues. They also suggest that microbial feature variations of cancerous lesion-adjacent tissues might help to reveal the microbial etiology of colonic cancer and could ultimately be applied for diagnostic and screening purposes.
+
+[Source](https://conference.dsi.ubc.ca/)
+
+10.1128/mSystems.00138-20
 
 ---
 
 ## Microbiome, machine learning and network models
 
 [Source](https://conference.dsi.ubc.ca/)
+
+---
+
+## Annual Research Review: Critical windows - the microbiota-gut-brain axis in neurocognitive development.
+ 19.02.2020, _CSM Cowan, TG Dinan, JF Cryan_
+
+
+The gut microbiota is a vast, complex, and fascinating ecosystem of microorganisms that resides in the human gastrointestinal tract. As an integral part of the microbiota-gut-brain axis, it is now being recognized that the microbiota is a modulator of brain and behavior, across species. Intriguingly, periods of change in the microbiota coincide with the development of other body systems and particularly the brain. We hypothesize that these times of parallel development are biologically relevant, corresponding to 'sensitive periods' or 'critical windows' in the development of the microbiota-gut-brain axis. Specifically, signals from the microbiota during these periods are hypothesized to be crucial for establishing appropriate communication along the axis throughout the life span. In other words, the microbiota is hypothesized to act like an expected input to calibrate the development of the microbiota-gut-brain axis. The absence or disruption of the microbiota during specific developmental windows would therefore be expected to have a disproportionate effect on specific functions or potentially for regulation of the system as a whole. Evidence for microbial modulation of neurocognitive development and neurodevelopmental risk is discussed in light of this hypothesis, finishing with a focus on the challenges that lay ahead for the future study of the microbiota-gut-brain axis during development.
+
+[Source](https://researcheracademy.elsevier.com/workshop/b0864329-151a-4795-b808-8c8811c3d679)
+
+10.1111/jcpp.13156
 
 ---
 
