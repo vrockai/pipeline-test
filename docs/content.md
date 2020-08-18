@@ -202,15 +202,9 @@ Alcohol use disorder (AUD) is associated with microbial alterations that worsen 
 
 ---
 
-## MiDAS 3: An ecosystem-specific reference database, taxonomy and knowledge platform for activated sludge and anaerobic digesters reveals species-level microbiome composition of activated sludge.
- 10.08.2020, _M Nierychlo, KS Andersen, Y Xu, N Green, C Jiang, M Albertsen, MS Dueholm, PH Nielsen_
-
-
-The function of the microbiomes in wastewater treatment systems and anaerobic digesters is dictated by the physiological activity of their members and complex interactions between them. Since functional traits are often conserved at low taxonomic ranks (genus, species, strain), high resolution taxonomic classification is crucial to understand the role of microbes in any ecosystem. Here we present MiDAS 3, a comprehensive 16S rRNA gene reference database based on full-length 16S rRNA gene amplicon sequence variants (FL-ASVs) derived from activated sludge and anaerobic digester systems in Denmark. The new database proposes unique provisional names for all unclassified microorganisms down to species level, providing a new and much-needed tool for microbiome research. The MiDAS 3 database was used to analyze the microbiome in 20 Danish wastewater treatment plants with nutrient removal, sampled over 13 years. The 50 most abundant species belonged to 42 genera, including 14 genera with provisional 'midas' name. Of those, 20 have no known function in the system, which highlights the need for more efforts towards elucidating the role of important members of wastewater treatment ecosystems. The new MiDAS 3 database also forms the backbone of the MiDAS Field Guide - an online resource linking the identity of microorganisms in wastewater treatment systems to available data related to their functional importance. The new field guide contains a complete list of genera (&gt;1800) and species (&gt;4200) found in activated sludge and anaerobic digesters in Denmark, but is also relevant to wastewater systems across the world. The identity of the microbes is linked to functional information, where available, and the website provides the possibility to BLAST new sequences against the MiDAS 3 database. The MiDAS Field Guide is a collaborative platform acting as an online knowledge repository, facilitating understanding of wastewater treatment ecosystem function.
+## MiDAS 3: An ecosystem-specific reference database, taxonomy and knowledge platform for activated sludge and anaerobic digesters reveals species-level microbiome composition of activated sludge
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0043135420304929)
-
-10.1016/j.watres.2020.115955
 
 ---
 
@@ -220,27 +214,15 @@ The function of the microbiomes in wastewater treatment systems and anaerobic di
 
 ---
 
-## Shotgun metagenomics of indigenous bacteria collected from the banks of the San Jacinto River for biodegradation of aromatic waste.
- 07.08.2020, _R Iyer, A Damania_
-
-
-Several Eastern Harris County communities lie near the now enclosed San Jacinto River (SJR) Waste Pit Superfund, a dumping ground for chlorinated dioxins and other paper mill waste products. Currently, no active monitoring of the SJR is conducted for these toxins with the exact concentration and health impact to the area unknown. As such, remediation and monitoring efforts outside of the Superfund itself could be necessary. To better understand the possible environmental fate of these aromatics, here we provide a shotgun metagenomic analysis of the structural and putative functional diversity of the SJR microbiome from two impacted Channelview, Texas communities bordering the Superfund. Results show that the underlying SJR microbiome possesses a core of metabolic enzymes related to the β-ketoadipate and benzoate degradation pathways. This suggests possible endpoints for many aromatics found deposited in the SJR including dioxin-like compounds. However, degradation biomarkers related to the priming and initial cleavage of chlorinated dioxin-like aromatics while present, are poorly concentrated across sampled sites. This may be due in part to decreased coverage of low abundance bacterial species, but also be a contributing factor leading to increased recalcitrance of these compounds in this environment compared to other aromatics.
+## Shotgun metagenomics of indigenous bacteria collected from the banks of the San Jacinto River for biodegradation of aromatic waste
 
 [Source](https://academic.oup.com/femsle/advance-article-abstract/doi/10.1093/femsle/fnaa133/5881932)
 
-10.1093/femsle/fnaa133
-
 ---
 
-## Viruses in wastewater: occurrence, abundance and detection methods.
- 11.08.2020, _MVA Corpuz, A Buonerba, G Vigliotta, T Zarra, F Ballesteros, P Campiglia, V Belgiorno, G Korshin, V Naddeo_
-
-
-This paper presents an updated and comprehensive review on the different methods used for detection and quantification of viruses in wastewater treatment systems. The analysis of viability of viruses in wastewater and sludge is another thrust of this review. Recent studies have mostly focused on determining the abundance and diversity of viruses in wastewater influents, in samples from primary, secondary, and tertiary treatment stages, and in final effluents. A few studies have also examined the occurrence and diversity of viruses in raw and digested sludge samples. Recent efforts to improve efficiency of virus detection and quantification methods in the complex wastewater and sludge matrices are highlighted in this review. A summary and a detailed comparison of the pre-treatment methods that have been utilized for wastewater and sludge samples are also presented. The role of metagenomics or sequencing analysis in monitoring wastewater systems to predict disease outbreaks, to conduct public health surveillance, to assess the efficiency of existing treatment systems in virus removal, and to re-evaluate current regulations regarding pathogenic viruses in wastewater is discussed in this paper. Challenges and future perspectives in the detection of viruses, including emerging and newly emerged viruses such as the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), in wastewater systems are discussed in this review.
+## Viruses in wastewater: occurrence, abundance and detection methods
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969720344399)
-
-10.1016/j.scitotenv.2020.140910
 
 ---
 
@@ -301,18 +283,6 @@ This paper presents an updated and comprehensive review on the different methods
 ## Microbiome, machine learning and network models
 
 [Source](https://conference.dsi.ubc.ca/)
-
----
-
-## Annual Research Review: Critical windows - the microbiota-gut-brain axis in neurocognitive development.
- 19.02.2020, _CSM Cowan, TG Dinan, JF Cryan_
-
-
-The gut microbiota is a vast, complex, and fascinating ecosystem of microorganisms that resides in the human gastrointestinal tract. As an integral part of the microbiota-gut-brain axis, it is now being recognized that the microbiota is a modulator of brain and behavior, across species. Intriguingly, periods of change in the microbiota coincide with the development of other body systems and particularly the brain. We hypothesize that these times of parallel development are biologically relevant, corresponding to 'sensitive periods' or 'critical windows' in the development of the microbiota-gut-brain axis. Specifically, signals from the microbiota during these periods are hypothesized to be crucial for establishing appropriate communication along the axis throughout the life span. In other words, the microbiota is hypothesized to act like an expected input to calibrate the development of the microbiota-gut-brain axis. The absence or disruption of the microbiota during specific developmental windows would therefore be expected to have a disproportionate effect on specific functions or potentially for regulation of the system as a whole. Evidence for microbial modulation of neurocognitive development and neurodevelopmental risk is discussed in light of this hypothesis, finishing with a focus on the challenges that lay ahead for the future study of the microbiota-gut-brain axis during development.
-
-[Source](https://researcheracademy.elsevier.com/workshop/b0864329-151a-4795-b808-8c8811c3d679)
-
-10.1111/jcpp.13156
 
 ---
 
