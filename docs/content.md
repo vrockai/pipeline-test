@@ -100,27 +100,15 @@ Alcohol use disorder (AUD) is associated with microbial alterations that worsen 
 
 ---
 
-## Diversity of Vaginal Microbiome in Pregnancy: Deciphering the Obscurity.
- 14.08.2020, _P Gupta, MP Singh, K Goyal_
-
-
-Human microbiota plays an indispensable role in physiology, nutrition and most significantly, in imparting immunity. The role of microbiota has remained cryptic for years, until recently meticulous studies revealed the interaction and dynamics of these microbial communities. This diversified state is governed by hormonal, behavioral and physio-chemical changes in the genital tract. Many inclusive studies have revealed "Lactobacillus" to be the most dominant member of vaginal flora in most of the healthy, reproductive age group and pregnant females. A total of five community state types have been described, out of which four are dominated by Lactobacillus while the fifth one by facultative or strict anaerobic species. A variation between species stability and gestational age has also been revealed. Studies have divulged a significant higher stability of vaginal microbiota in early stages of pregnancy and the same increased subsequently. Inter-species and racial variation has shown women belonging to White, Asian, and Caucasian race to harbor more of the anaerobic flora. The vaginal microbiome in pregnancy play a significant role in preterm and spontaneous labor. This Lactobacillus-rich microbiome falls tremendously, becoming more diverse in post-partum period. Apart from these known bacterial communities in human vagina, other microbial communities have also been traced. The major fragment is constituted by vaginal viral virome and very little information exists in relation to vaginal mycobiome. Studies have revealed the abundance of ds DNA viruses in vaginal microbiome, followed by ssDNA, and few unidentified viruses. The eukaryotic viruses detected were very few, with Herpesvirales, and Papillomaviridae being the only pathogenic ones. This flora is transmitted to infants either via maternal gut, vagina or breast milk. Recent studies have given an insight for vaginal microbiome, dissociating the old concept of "healthy" and "diseased." However, more extensive studies are required to study evolution of virome and mycobiome in relation to their association with bacterial communities; to establish and decode full array of vaginal virome under the influence of genotypic and environmental factors, using novel bioinformatic, multi-omic, statistical model, and CRISPR/Cas approaches.
+## Diversity of Vaginal Microbiome in Pregnancy: Deciphering the Obscurity
 
 [Source](https://www.frontiersin.org/articles/10.3389/fpubh.2020.00326/full)
 
-10.3389/fpubh.2020.00326
-
 ---
 
-## Evidence for contamination as the origin for bacteria found in human placenta rather than a microbiota.
- 10.08.2020, _R Gschwind, T Fournier, S Kennedy, V Tsatsaris, AG Cordier, F Barbut, MJ Butel, S Wydau-Dematteis_
-
-
-Until recently the in utero environment of pregnant women was considered sterile. Recent high-sensitivity molecular techniques and high-throughput sequencing lead to some evidence for a low-biomass microbiome associated with the healthy placenta. Other studies failed to reveal evidence for a consistent presence of bacteria using either culture or molecular based techniques. Comparing conflicting "placental microbiome" studies is complicated by the use of varied and inconsistent protocols. Given this situation, we undertook an evaluation of the in utero environment sterility using several controlled methods, in the same study, to evaluate the presence or absence of bacteria and to explain contradictions present in the literature. Healthy pregnant women (n = 38) were recruited in three maternity wards. Placenta were collected after cesarean section with or without Alexis® and vaginal delivery births. For this study we sampled fetal membranes, umbilical cord and chorionic villi. Bacterial presence was analyzed using bacterial culture and qPCR on 34 fetal membranes, umbilical cord and chorionic villi samples. Shotgun metagenomics was performed on seven chorionic villi samples. We showed that the isolation of meaningful quantities of viable bacteria or bacterial DNA was possible only outside the placenta (fetal membranes and umbilical cords) highlighting the importance of sampling methods in studying the in utero environment. Bacterial communities described by metagenomics analysis were similar in chorionic villi samples and in negative controls and were dependent on the database chosen for the analysis. We conclude that the placenta does not harbor a specific, consistent and functional microbiota.
+## Evidence for contamination as the origin for bacteria found in human placenta rather than a microbiota
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237232)
-
-10.1371/journal.pone.0237232
 
 ---
 
@@ -313,6 +301,18 @@ This paper presents an updated and comprehensive review on the different methods
 ## Microbiome, machine learning and network models
 
 [Source](https://conference.dsi.ubc.ca/)
+
+---
+
+## Annual Research Review: Critical windows - the microbiota-gut-brain axis in neurocognitive development.
+ 19.02.2020, _CSM Cowan, TG Dinan, JF Cryan_
+
+
+The gut microbiota is a vast, complex, and fascinating ecosystem of microorganisms that resides in the human gastrointestinal tract. As an integral part of the microbiota-gut-brain axis, it is now being recognized that the microbiota is a modulator of brain and behavior, across species. Intriguingly, periods of change in the microbiota coincide with the development of other body systems and particularly the brain. We hypothesize that these times of parallel development are biologically relevant, corresponding to 'sensitive periods' or 'critical windows' in the development of the microbiota-gut-brain axis. Specifically, signals from the microbiota during these periods are hypothesized to be crucial for establishing appropriate communication along the axis throughout the life span. In other words, the microbiota is hypothesized to act like an expected input to calibrate the development of the microbiota-gut-brain axis. The absence or disruption of the microbiota during specific developmental windows would therefore be expected to have a disproportionate effect on specific functions or potentially for regulation of the system as a whole. Evidence for microbial modulation of neurocognitive development and neurodevelopmental risk is discussed in light of this hypothesis, finishing with a focus on the challenges that lay ahead for the future study of the microbiota-gut-brain axis during development.
+
+[Source](https://researcheracademy.elsevier.com/workshop/b0864329-151a-4795-b808-8c8811c3d679)
+
+10.1111/jcpp.13156
 
 ---
 
