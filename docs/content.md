@@ -1,113 +1,180 @@
-## Human organ chip-enabled pipeline to rapidly repurpose therapeutics during viral pandemics
+## Microbiome sequencing in high-host and low biomass samples
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.13.039917v3.abstract?%3Fcollection=)
-
----
-
-## FDA approved calcium channel blockers inhibit SARS-CoV-2 infectivity in epithelial lung cells
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.21.214577v2.abstract?%3Fcollection=)
+[Source](https://www.nature.com/webcasts/event/microbiome-sequencing-in-high-host-and-low-biomass-samples/)
 
 ---
 
-## Removal of Dental Plaque by Ultrasonic Toothbrushes
+## Webinar Series on the Gut-Brain Axis and the Microbiome
 
-[Source](http://jcreview.com/?mno=120829)
-
----
-
-## Cigarette smoking and opium use in relation to the oral microbiome in Iran
-
-[Source](https://cancerres.aacrjournals.org/content/80/16_Supplement/4666)
+[Source](https://ilsina.org/event/webinar-series-ilsi-north-america-and-division-of-nutritional-sciences-university-of-illinois/)
 
 ---
 
-## Gut microbiome alterations induced by TBT exposure are associated with increased body weight, impaired glucose and insulin homeostasis and endocrine disruption in mice
+## Functional effects of the human gut microbiome on autism
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0269749120359649#aep-article-footnote-id7)
-
----
-
-## Poultry feeds carry diverse microbial communities that influence chicken intestinal microbiota colonisation and maturation.
- 18.08.2020, _S Haberecht, YS Bajagai, RJ Moore, TTH Van, D Stanley_
-
-
-Microbial colonisation of the gastrointestinal tract of newly hatched chicks starts at hatch, seeded from the immediate hatching environment, and quickly results in dense colonisation. The role of ecological factors in gut colonisation has been extensively investigated, as well as the role of micro- and macronutrients in supporting and selecting for bacterial species highly adapted for utilising those nutrients. However, the microbial community contained in poultry feed and its influence on colonisation and maturation of gut microbiota has not been directly addressed. In this study, we compared the microbiota found in poultry feed, with the microbiota of ileum, cecum and excreta, to identify substantial overlap in core microbiotas of the compared groups. We then investigated the microbiota present in raw feedstuffs: meat and bone meal, wheat, corn, canola, barley, soybean, millrun, sorghum, poultry oil, oats, limestone and bloodmeal from four geographically distinct feedstuff suppliers. Each of the feedstuffs had diverse microbial communities. The meat and bone meal and bloodmeal samples had the most complex and distinct microbial populations. There was substantial overlap in the phylogenetic composition found in the grain and seed samples: barley, canola, corn, millrun, oats, sorghum, soybean meal and wheat. Issues related to methodology, viability of microbial communities in the gut and feed, and the implications for biosecurity are discussed.
-
-[Source](https://amb-express.springeropen.com/articles/10.1186/s13568-020-01077-5)
-
-10.1186/s13568-020-01077-5
+[Source](https://www.biocodexmicrobiotafoundation.com/international-call-projects-2021)
 
 ---
 
-## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows.
- 17.08.2020, _M Berlow, JN Phillips, EP Derryberry_
+## Focus on Microbiome in Health and Disease – A special microbiome issue in Cell Host Microbe
 
+[Source](https://www.cell.com/cell-host-microbe/issue?pii=S1931-3128(19)X0009-8)
 
-Habitats are changing rapidly around the globe and urbanization is one of the primary drivers. Urbanization changes food availability, environmental stressors, and the prevalence of disease for many species. These changes can lead to divergence in phenotypic traits, including behavioral, physiological, and morphological features between urban and rural populations. Recent research highlights that urbanization is also changing the gut microbial communities found in a diverse group of host species. These changes have not been uniform, leaving uncertainty as to how urban habitats are shaping gut microbial communities. To better understand these effects, we investigated the gut bacterial communities of White-Crowned Sparrow (Zonotrichia leucophrys) populations along an urbanization gradient in the San Francisco Bay area. We examined how gut bacterial communities vary with the local environment and host morphological characteristics. We found direct effects of environmental factors, including urban noise levels and territory land cover, as well as indirect effects through body size and condition, on alpha and beta diversity of gut microbial communities. We also found that urban and rural birds' microbiomes differed in which variables predicted their diversity, with urban communities driven by host morphology, and rural communities driven by environmental factors. Elucidating these effects provides a better understanding of how urbanization affects wild avian physiology.
+---
+
+## The Impact of the Microbiome on Immunity to Vaccination in Humans
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30355-3)
+
+---
+
+## The Gut Microbiota and Unhealthy Aging: Disentangling Cause from Consequence
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30409-1)
+
+---
+
+## Helminth coinfection and COVID-19: An alternate hypothesis
+
+[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008628)
+
+---
+
+## Mitochondria, the gut microbiome and ROS. and ROS
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S089865682030214X)
+
+---
+
+## Stool Microbiome Profiling of Patients with Metastatic Renal Cell Carcinoma Receiving Anti–PD-1 Immune Checkpoint Inhibitors
+
+[Source](https://www.europeanurology.com/article/S0302-2838(20)30543-1/fulltext)
+
+---
+
+## Programing of an Intravascular Immune Firewall by the Gut Microbiota Protects against Pathogen Dissemination during Infection
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30410-8)
+
+---
+
+## Analysis of microbial changes in the tonsillar formalin-fixed paraffin-embedded tissue of Chinese patients with IgA nephropathy
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S034403382032029X)
+
+---
+
+## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers’ Milk and the Infant Gut: the CHILD Cohort Study
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30350-4)
+
+---
+
+## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows
 
 [Source](https://link.springer.com/article/10.1007/s00248-020-01569-8)
 
-10.1007/s00248-020-01569-8
+---
+
+## Passenger-surface microbiome interactions in the subway of Mexico City
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272)
 
 ---
 
-## Plant-microbiome interactions: from community assembly to plant health.
- 13.08.2020, _P Trivedi, JE Leach, SG Tringe, T Sa, BK Singh_
+## Plant resistance and leaf chemical characteristic jointly shape phyllosphere bacterial community
 
-
-Healthy plants host diverse but taxonomically structured communities of microorganisms, the plant microbiota, that colonize every accessible plant tissue. Plant-associated microbiomes confer fitness advantages to the plant host, including growth promotion, nutrient uptake, stress tolerance and resistance to pathogens. In this Review, we explore how plant microbiome research has unravelled the complex network of genetic, biochemical, physical and metabolic interactions among the plant, the associated microbial communities and the environment. We also discuss how those interactions shape the assembly of plant-associated microbiomes and modulate their beneficial traits, such as nutrient acquisition and plant health, in addition to highlighting knowledge gaps and future directions.
-
-[Source](https://www.nature.com/articles/s41579-020-0412-1)
-
-10.1038/s41579-020-0412-1
-
----
-
-## Healthy soils for healthy plants for healthy humans: How beneficial microbes in the soil, food and gut are interconnected and how agriculture can contribute to human health.
- 07.08.2020, _H Hirt_
-
-
-The microbiota of the human gut and the plant rhizome are similar in many ways and intricately connected with each other. A healthy plant therefore affects human microbiota and human health.
-
-[Source](https://www.embopress.org/doi/abs/10.15252/embr.202051069)
-
-10.15252/embr.202051069
-
----
-
-## Chemical Ecology of Multitrophic Microbial Interactions: Plants, Insects, Microbes and the Metabolites that Connect Them.
- 18.08.2020, _JG Ali, CL Casteel, KE Mauck, O Trase_
-
-
-
-[Source](https://link.springer.com/article/10.1007/s10886-020-01209-y)
-
-10.1007/s10886-020-01209-y
+[Source](https://link.springer.com/article/10.1007/s11274-020-02908-0)
 
 ---
 
 ## The role of land management and elevation in shaping soil microbial communities: Insights from the Central European Alps
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0038071720302479)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0038071720302479)
 
 ---
 
-## Ozone affects plant, insect, and soil microbial communities: A threat to terrestrial ecosystems and biodiversity
+## Composition, predicted functions, and co-occurrence networks of fungal and bacterial communities_ Links to soil organic carbon under long-term fertilization in a rice-wheat cropping system
 
-[Source](https://advances.sciencemag.org/content/6/33/eabc1176)
-
----
-
-## Microplastics in a dam lake in Turkey: type, mesh size effect, and bacterial biofilm communities
-
-[Source](https://link.springer.com/article/10.1007/s11356-020-10424-9)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S116455632030296X)
 
 ---
 
-## Assembly methods for nanopore‑based metagenomic sequencing: a comparative study
+## Diversity and structure of prokaryotic communities within organic and conventional farming systems in central highlands of Kenya
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236574)
+
+---
+
+## Turning harmful algal biomass to electricity by microbial fuel cell: A sustainable approach for waste management
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0269749120360619)
+
+---
+
+## Combining physicochemical properties and microbiome data to evaluate the water quality of South African drinking water production plants.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237335)
+
+---
+
+## They are what you eat: Shaping of viral populations through nutrition and consequences for virulence
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008711)
+
+---
+
+## Assembly methods for nanopore-based metagenomic sequencing: a comparative study
 
 [Source](https://www.nature.com/articles/s41598-020-70491-3)
+
+---
+
+## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools
+
+[Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06910-6)
+
+---
+
+## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135)
+
+---
+
+## Bacterial modification of the host glycosaminoglycan heparan sulfate modulates SARS-CoV-2 infectivity
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.17.238444v1)
+
+---
+
+## Evaluation of Compatibility of 16S rRNA V3V4 and V4 Amplicon Libraries for Clinical Microbiome Profiling
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.18.256818v1.abstract)
+
+---
+
+## François-Joseph Lapointe, when biology meets art
+
+[Source](https://www.convergenceinitiative.org/post/françois-joseph-lapointe-when-biology-meets-art)
+
+---
+
+## Early-life microbiota diversification facilitates enterocyte proliferation
+
+[Source](https://naturemicrobiologycommunity.nature.com/posts/early-life-microbiota-diversification-facilitates-enterocyte-proliferation)
+
+---
+
+## ecology and evolution of metabolic cross-feeding interactions in soil-living bacterial communities
+
+[Source](https://twitter.com/KostChristian/status/1295265650525560832)
+
+---
+
+## gut microbiota in protecting the host against intestinal colonisation by multidrug-resistant organisms
+
+[Source](https://twitter.com/JulieAKMcDonald/status/1296364661009453056)
 
 ---
 
