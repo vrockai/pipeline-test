@@ -76,9 +76,15 @@
 
 ---
 
-## Assembly methods for nanopore‑based metagenomic sequencing: a comparative study
+## Assembly methods for nanopore-based metagenomic sequencing: a comparative study.
+ 18.08.2020, _A Latorre-Pérez, P Villalba-Bermell, J Pascual, C Vilanova_
+
+
+Metagenomic sequencing has allowed for the recovery of previously unexplored microbial genomes. Whereas short-read sequencing platforms often result in highly fragmented metagenomes, nanopore-based sequencers could lead to more contiguous assemblies due to their potential to generate long reads. Nevertheless, there is a lack of updated and systematic studies evaluating the performance of different assembly tools on nanopore data. In this study, we have benchmarked the ability of different assemblers to reconstruct two different commercially-available mock communities that have been sequenced using Oxford Nanopore Technologies platforms. Among the tested tools, only metaFlye, Raven, and Canu performed well in all the datasets. These tools retrieved highly contiguous genomes (or even complete genomes) directly from the metagenomic data. Despite the intrinsic high error of nanopore sequencing, final assemblies reached high accuracy (~ 99.5 to 99.8% of consensus accuracy). Polishing strategies demonstrated to be necessary for reducing the number of indels, and this had an impact on the prediction of biosynthetic gene clusters. Correction with high quality short reads did not always result in higher quality draft assemblies. Overall, nanopore metagenomic sequencing data-adapted to MinION's current output-proved sufficient for assembling and characterizing low-complexity microbial communities.
 
 [Source](https://www.nature.com/articles/s41598-020-70491-3)
+
+10.1038/s41598-020-70491-3
 
 ---
 
