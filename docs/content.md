@@ -64,27 +64,51 @@
 
 ---
 
-## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers’ Milk and the Infant Gut: the CHILD Cohort Study
+## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers' Milk and the Infant Gut: the CHILD Cohort Study.
+ 21.08.2020, _K Fehr, S Moossavi, H Sbihi, RCT Boutin, L Bode, B Robertson, C Yonemitsu, CJ Field, AB Becker, PJ Mandhane, MR Sears, E Khafipour, TJ Moraes, P Subbarao, BB Finlay, SE Turvey, MB Azad_
+
+
+Gut microbiota play a critical role in infant health. It is now accepted that breastmilk contains live bacteria from endogenous and exogenous sources, but it remains unclear whether these bacteria transfer to the infant gut and whether this process is influenced by breastmilk feeding practices. Here, we show that certain bacteria, including Streptococcus spp. and Veillonella dispar, co-occur in mothers' milk and their infants' stool, and co-occurrence is reduced when infants receive pumped breastmilk. The relative abundances of commonly shared species are positively correlated between breastmilk and stool. Overall, gut microbiota composition is strongly associated with breastfeeding exclusivity and duration but not breastmilk feeding mode (nursing versus pumping). Moreover, breastmilk bacteria contributed to overall gut microbiota variation to a similar extent as other modifiers of the infant microbiome, such as birth mode. These results provide evidence that breastmilk may transfer bacteria to the infant gut and influence microbiota development.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30350-4)
 
+10.1016/j.chom.2020.06.009
+
 ---
 
-## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows
+## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows.
+ 17.08.2020, _M Berlow, JN Phillips, EP Derryberry_
+
+
+Habitats are changing rapidly around the globe and urbanization is one of the primary drivers. Urbanization changes food availability, environmental stressors, and the prevalence of disease for many species. These changes can lead to divergence in phenotypic traits, including behavioral, physiological, and morphological features between urban and rural populations. Recent research highlights that urbanization is also changing the gut microbial communities found in a diverse group of host species. These changes have not been uniform, leaving uncertainty as to how urban habitats are shaping gut microbial communities. To better understand these effects, we investigated the gut bacterial communities of White-Crowned Sparrow (Zonotrichia leucophrys) populations along an urbanization gradient in the San Francisco Bay area. We examined how gut bacterial communities vary with the local environment and host morphological characteristics. We found direct effects of environmental factors, including urban noise levels and territory land cover, as well as indirect effects through body size and condition, on alpha and beta diversity of gut microbial communities. We also found that urban and rural birds' microbiomes differed in which variables predicted their diversity, with urban communities driven by host morphology, and rural communities driven by environmental factors. Elucidating these effects provides a better understanding of how urbanization affects wild avian physiology.
 
 [Source](https://link.springer.com/article/10.1007/s00248-020-01569-8)
 
+10.1007/s00248-020-01569-8
+
 ---
 
-## Passenger-surface microbiome interactions in the subway of Mexico City
+## Passenger-surface microbiome interactions in the subway of Mexico City.
+ 19.08.2020, _D Vargas-Robles, C Gonzalez-Cedillo, AM Hernandez, LD Alcaraz, M Peimbert_
+
+
+Interaction between hands and the environment permits the interchange of microorganisms. The Mexico City subway is used daily by millions of passengers that get in contact with its surfaces. In this study, we used 16S rRNA gene sequencing to characterize the microbiomes of frequently touched surfaces and compare regular and women-only wagons. We also explored the effect of surface cleaning on microbial resettling. Finally, we studied passenger behavior and characterized microbial changes after traveling. Most passengers (99%), showed some type of surface interaction during a wagon trip, mostly with the hands (92%). We found microbiome differences associated with surfaces, probably reflecting diverse surface materials and usage frequency. The platform floor was the most bacterial diverse surface, while the stair handrail and pole were the least diverse ones. After pole cleaning, the resettling of microbial diversity was fast (5-30 minutes); however, it did not resemble the initial composition. After traveling, passengers significantly increased their hand microbial diversity and converged to a similar microbial composition among passengers. Additionally, passenger hand microbiomes resembled subway surfaces in diversity. However, microbial fingerprints were preserved within passengers after traveling.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272)
 
+10.1371/journal.pone.0237272
+
 ---
 
-## Plant resistance and leaf chemical characteristic jointly shape phyllosphere bacterial community
+## Plant resistance and leaf chemical characteristic jointly shape phyllosphere bacterial community.
+ 18.08.2020, _T Xueliang, X Dan, S Tingting, Z Songyu, L Ying, W Diandong_
+
+
+Phyllosphere bacteria have an important role in plant growth and resistance to pathogen infection and are partially influenced by plant genotype and leaf environment. How plant resistance to pathogens and leaf chemical characteristics shape the phyllosphere bacterial communities is unclear. In this study, the phyllosphere bacterial communities of maize hybrids with various resistance to Setosphaeria turcica were compared using the high-throughput sequencing and large-scale culturing methods. The results showed that Shannon and Simpson indices of phyllosphere bacterial communities were markedly higher in the highly resistant hybrid (HR) compared with the susceptible one. Hierarchical clustering analysis, unweighted UniFrac principal component analysis (PCoA) and the analysis of similarities (ANOSIM) demonstrated that the phyllosphere bacterial communities were significantly distinct between resistant and susceptible hybrids. The redundancy analysis (RDA) demonstrated that leaf chemical characteristics, including nitrogen and phosphorus concentration, and disease resistance play an important role in shaping the phyllosphere bacterial community. Linear discriminant effect size (LEfSe) analysis indicated that Bacillus, Pseudomonas and Tumebacillus were the biomarker species in the phyllosphere of HR. Biocontrol bacteria against S. turcica (such as Pseudomonas and Bacillus) were isolated from the phyllosphere of HR by large-scale culturing. The work contributes to understanding of the phyllosphere bacterial community assembly and provides a new clue to screening for strong biocontrol bacteria from HR and to facilitating future breeding efforts for enhancing disease resistance.
 
 [Source](https://link.springer.com/article/10.1007/s11274-020-02908-0)
+
+10.1007/s11274-020-02908-0
 
 ---
 
@@ -124,39 +148,21 @@
 
 ---
 
-## Assembly methods for nanopore-based metagenomic sequencing: a comparative study.
- 18.08.2020, _A Latorre-Pérez, P Villalba-Bermell, J Pascual, C Vilanova_
-
-
-Metagenomic sequencing has allowed for the recovery of previously unexplored microbial genomes. Whereas short-read sequencing platforms often result in highly fragmented metagenomes, nanopore-based sequencers could lead to more contiguous assemblies due to their potential to generate long reads. Nevertheless, there is a lack of updated and systematic studies evaluating the performance of different assembly tools on nanopore data. In this study, we have benchmarked the ability of different assemblers to reconstruct two different commercially-available mock communities that have been sequenced using Oxford Nanopore Technologies platforms. Among the tested tools, only metaFlye, Raven, and Canu performed well in all the datasets. These tools retrieved highly contiguous genomes (or even complete genomes) directly from the metagenomic data. Despite the intrinsic high error of nanopore sequencing, final assemblies reached high accuracy (~ 99.5 to 99.8% of consensus accuracy). Polishing strategies demonstrated to be necessary for reducing the number of indels, and this had an impact on the prediction of biosynthetic gene clusters. Correction with high quality short reads did not always result in higher quality draft assemblies. Overall, nanopore metagenomic sequencing data-adapted to MinION's current output-proved sufficient for assembling and characterizing low-complexity microbial communities.
+## Assembly methods for nanopore-based metagenomic sequencing: a comparative study
 
 [Source](https://www.nature.com/articles/s41598-020-70491-3)
 
-10.1038/s41598-020-70491-3
-
 ---
 
-## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools.
- 05.08.2020, _H Derakhshani, SP Bernier, VA Marko, MG Surette_
-
-
-Illumina technology currently dominates bacterial genomics due to its high read accuracy and low sequencing cost. However, the incompleteness of draft genomes generated by Illumina reads limits their application in comprehensive genomics analyses. Alternatively, hybrid assembly using both Illumina short reads and long reads generated by single molecule sequencing technologies can enable assembly of complete bacterial genomes, yet the high per-genome cost of long-read sequencing limits the widespread use of this approach in bacterial genomics. Here we developed a protocol for hybrid assembly of complete bacterial genomes using miniaturized multiplexed Illumina sequencing and non-barcoded PacBio sequencing of a synthetic genomic pool (SGP), thus significantly decreasing the overall per-genome cost of sequencing.
+## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06910-6)
 
-10.1186/s12864-020-06910-6
-
 ---
 
-## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence.
- 18.08.2020, _C Liao, T Wang, S Maslov, JB Xavier_
-
-
-Social interaction between microbes can be described at many levels of details: from the biochemistry of cell-cell interactions to the ecological dynamics of populations. Choosing an appropriate level to model microbial communities without losing generality remains a challenge. Here we show that modeling cross-feeding interactions at an intermediate level between genome-scale metabolic models of individual species and consumer-resource models of ecosystems is suitable to experimental data. We applied our modeling framework to three published examples of multi-strain Escherichia coli communities with increasing complexity: uni-, bi-, and multi-directional cross-feeding of either substitutable metabolic byproducts or essential nutrients. The intermediate-scale model accurately fit empirical data and quantified metabolic exchange rates that are hard to measure experimentally, even for a complex community of 14 amino acid auxotrophies. By studying the conditions of species coexistence, the ecological outcomes of cross-feeding interactions, and each community's robustness to perturbations, we extracted new quantitative insights from these three published experimental datasets. Our analysis provides a foundation to quantify cross-feeding interactions from experimental data, and highlights the importance of metabolic exchanges in the dynamics and stability of microbial communities.
+## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135)
-
-10.1371/journal.pcbi.1008135
 
 ---
 
