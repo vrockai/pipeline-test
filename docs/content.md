@@ -64,27 +64,15 @@
 
 ---
 
-## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers' Milk and the Infant Gut: the CHILD Cohort Study.
- 21.08.2020, _K Fehr, S Moossavi, H Sbihi, RCT Boutin, L Bode, B Robertson, C Yonemitsu, CJ Field, AB Becker, PJ Mandhane, MR Sears, E Khafipour, TJ Moraes, P Subbarao, BB Finlay, SE Turvey, MB Azad_
-
-
-Gut microbiota play a critical role in infant health. It is now accepted that breastmilk contains live bacteria from endogenous and exogenous sources, but it remains unclear whether these bacteria transfer to the infant gut and whether this process is influenced by breastmilk feeding practices. Here, we show that certain bacteria, including Streptococcus spp. and Veillonella dispar, co-occur in mothers' milk and their infants' stool, and co-occurrence is reduced when infants receive pumped breastmilk. The relative abundances of commonly shared species are positively correlated between breastmilk and stool. Overall, gut microbiota composition is strongly associated with breastfeeding exclusivity and duration but not breastmilk feeding mode (nursing versus pumping). Moreover, breastmilk bacteria contributed to overall gut microbiota variation to a similar extent as other modifiers of the infant microbiome, such as birth mode. These results provide evidence that breastmilk may transfer bacteria to the infant gut and influence microbiota development.
+## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers’ Milk and the Infant Gut: the CHILD Cohort Study
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30350-4)
 
-10.1016/j.chom.2020.06.009
-
 ---
 
-## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows.
- 17.08.2020, _M Berlow, JN Phillips, EP Derryberry_
-
-
-Habitats are changing rapidly around the globe and urbanization is one of the primary drivers. Urbanization changes food availability, environmental stressors, and the prevalence of disease for many species. These changes can lead to divergence in phenotypic traits, including behavioral, physiological, and morphological features between urban and rural populations. Recent research highlights that urbanization is also changing the gut microbial communities found in a diverse group of host species. These changes have not been uniform, leaving uncertainty as to how urban habitats are shaping gut microbial communities. To better understand these effects, we investigated the gut bacterial communities of White-Crowned Sparrow (Zonotrichia leucophrys) populations along an urbanization gradient in the San Francisco Bay area. We examined how gut bacterial communities vary with the local environment and host morphological characteristics. We found direct effects of environmental factors, including urban noise levels and territory land cover, as well as indirect effects through body size and condition, on alpha and beta diversity of gut microbial communities. We also found that urban and rural birds' microbiomes differed in which variables predicted their diversity, with urban communities driven by host morphology, and rural communities driven by environmental factors. Elucidating these effects provides a better understanding of how urbanization affects wild avian physiology.
+## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows
 
 [Source](https://link.springer.com/article/10.1007/s00248-020-01569-8)
-
-10.1007/s00248-020-01569-8
 
 ---
 
@@ -137,32 +125,61 @@ Phyllosphere bacteria have an important role in plant growth and resistance to p
 ---
 
 ## Combining physicochemical properties and microbiome data to evaluate the water quality of South African drinking water production plants.
+ 21.08.2020, _TE Maguvu, CC Bezuidenhout, R Kritzinger, K Tsholo, M Plaatjie, LG Molale-Tom, CM Mienie, RD Coertze_
+
+
+Anthropogenic activities in catchments used for drinking water production largely contaminates source waters, and this may impact the quality of the final drinking water product. These contaminants may also affect taxonomic and functional profiles of the bacterial communities in the drinking water. Here, we report an integrated insight into the microbiome and water quality of four water treatment plants (NWC, NWE, WCA and NWG) that supply portable water to communities in South Africa. A new scoring system based on combined significant changes of physicochemical parameters and microbial abundance from raw to treated water was used to evaluate the effectiveness of the treatment plants at water purification. Physicochemical parameters which include total soluble solids, turbidity, pH, nitrites and phosphorus among others, were measured in source, treated, and distributed water. There were general statistically significant (P ≤ 0.05) differences between raw and treated water, demonstrating the effectiveness of the purification process. Illumina sequencing of the 16S rRNA gene was used for taxonomic profiling of the microbial communities and this data was used to infer functional attributes of the communities. Structure and composition of the bacterial communities differed significantly (P &lt; 0.05) among the treatment plants, only NWE and NWG showed no significant differences (P &gt; 0.05), this correlated with the predicted functional profile of the microbial communities obtained from Phylogenetic Investigation of Communities by Reconstruction of Observed States (PICRUSt), as well as the likely pollutants of source water. Bacteroidetes, Chlorobi and Fibrobacteres significantly differed (P &lt; 0.05) between raw and distributed water. PICRUSt inferred a number of pathways involved in the degradation of xenobiotics such as Dichlorodiphenyltrichloroethane, atrazine and polycyclic aromatic hydrocarbons. More worryingly, was the presence of pathways involved in beta-lactam resistance, potential pathogenic Escherichia coli infection, Vibrio cholerae infection, and Shigellosis. Also present in drinking and treated water were OTUs associated with a number of opportunistic pathogens.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237335)
 
+10.1371/journal.pone.0237335
+
 ---
 
-## They are what you eat: Shaping of viral populations through nutrition and consequences for virulence
+## They are what you eat: Shaping of viral populations through nutrition and consequences for virulence.
+ 21.08.2020, _R Honce, S Schultz-Cherry_
+
+
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008711)
 
+10.1371/journal.ppat.1008711
+
 ---
 
-## Assembly methods for nanopore-based metagenomic sequencing: a comparative study
+## Assembly methods for nanopore-based metagenomic sequencing: a comparative study.
+ 18.08.2020, _A Latorre-Pérez, P Villalba-Bermell, J Pascual, C Vilanova_
+
+
+Metagenomic sequencing has allowed for the recovery of previously unexplored microbial genomes. Whereas short-read sequencing platforms often result in highly fragmented metagenomes, nanopore-based sequencers could lead to more contiguous assemblies due to their potential to generate long reads. Nevertheless, there is a lack of updated and systematic studies evaluating the performance of different assembly tools on nanopore data. In this study, we have benchmarked the ability of different assemblers to reconstruct two different commercially-available mock communities that have been sequenced using Oxford Nanopore Technologies platforms. Among the tested tools, only metaFlye, Raven, and Canu performed well in all the datasets. These tools retrieved highly contiguous genomes (or even complete genomes) directly from the metagenomic data. Despite the intrinsic high error of nanopore sequencing, final assemblies reached high accuracy (~ 99.5 to 99.8% of consensus accuracy). Polishing strategies demonstrated to be necessary for reducing the number of indels, and this had an impact on the prediction of biosynthetic gene clusters. Correction with high quality short reads did not always result in higher quality draft assemblies. Overall, nanopore metagenomic sequencing data-adapted to MinION's current output-proved sufficient for assembling and characterizing low-complexity microbial communities.
 
 [Source](https://www.nature.com/articles/s41598-020-70491-3)
 
+10.1038/s41598-020-70491-3
+
 ---
 
-## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools
+## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools.
+ 05.08.2020, _H Derakhshani, SP Bernier, VA Marko, MG Surette_
+
+
+Illumina technology currently dominates bacterial genomics due to its high read accuracy and low sequencing cost. However, the incompleteness of draft genomes generated by Illumina reads limits their application in comprehensive genomics analyses. Alternatively, hybrid assembly using both Illumina short reads and long reads generated by single molecule sequencing technologies can enable assembly of complete bacterial genomes, yet the high per-genome cost of long-read sequencing limits the widespread use of this approach in bacterial genomics. Here we developed a protocol for hybrid assembly of complete bacterial genomes using miniaturized multiplexed Illumina sequencing and non-barcoded PacBio sequencing of a synthetic genomic pool (SGP), thus significantly decreasing the overall per-genome cost of sequencing.
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06910-6)
 
+10.1186/s12864-020-06910-6
+
 ---
 
-## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence
+## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence.
+ 18.08.2020, _C Liao, T Wang, S Maslov, JB Xavier_
+
+
+Social interaction between microbes can be described at many levels of details: from the biochemistry of cell-cell interactions to the ecological dynamics of populations. Choosing an appropriate level to model microbial communities without losing generality remains a challenge. Here we show that modeling cross-feeding interactions at an intermediate level between genome-scale metabolic models of individual species and consumer-resource models of ecosystems is suitable to experimental data. We applied our modeling framework to three published examples of multi-strain Escherichia coli communities with increasing complexity: uni-, bi-, and multi-directional cross-feeding of either substitutable metabolic byproducts or essential nutrients. The intermediate-scale model accurately fit empirical data and quantified metabolic exchange rates that are hard to measure experimentally, even for a complex community of 14 amino acid auxotrophies. By studying the conditions of species coexistence, the ecological outcomes of cross-feeding interactions, and each community's robustness to perturbations, we extracted new quantitative insights from these three published experimental datasets. Our analysis provides a foundation to quantify cross-feeding interactions from experimental data, and highlights the importance of metabolic exchanges in the dynamics and stability of microbial communities.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135)
+
+10.1371/journal.pcbi.1008135
 
 ---
 
