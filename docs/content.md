@@ -10,19 +10,6 @@
 
 ---
 
-## Gut microbiota and neurological effects of glyphosate.
- 30.04.2020, _L Rueda-Ruzafa, F Cruz, P Roman, D Cardona_
-
-
-_Animals, Dysbiosis, Gastrointestinal Microbiome, Glycine, Herbicides, Humans, Nervous System Diseases_
-There are currently various concerns regarding certain environmental toxins and the possible impact they can have on developmental diseases. Glyphosate (Gly) is the most utilised herbicide in agriculture, although its widespread use is generating controversy in the scientific world because of its probable carcinogenic effect on human cells. Gly performs as an inhibitor of 5-enolpyruvylshikimate-3-phospate synthase (EPSP synthase), not only in plants, but also in bacteria. An inhibiting effect on EPSP synthase from intestinal microbiota has been reported, affecting mainly beneficial bacteria. To the contrary, Clostridium spp. and Salmonella strains are shown to be resistant to Gly. Consequently, researchers have suggested that Gly can cause dysbiosis, a phenomenon which is characterised by an imbalance between beneficial and pathogenic microorganisms. The overgrowth of bacteria such as clostridia generates high levels of noxious metabolites in the brain, which can contribute to the development of neurological deviations. This work reviews the impact of Gly-induced intestinal dysbiosis on the central nervous system, focusing on emotional, neurological and neurodegenerative disorders. A wide variety of factors were investigated in relation to brain-related changes, including highlighting genetic abnormalities, pregnancy-associated problems, diet, infections, vaccines and heavy metals. However, more studies are required to determine the implication of the most internationally used herbicide, Gly, in behavioural disorders.
-
-[Source](https://www.biocodexmicrobiotafoundation.com/international-call-projects-2021)
-
-10.1016/j.neuro.2019.08.006
-
----
-
 ## Functional effects of the human gut microbiome on autism
 
 [Source](https://www.biocodexmicrobiotafoundation.com/international-call-projects-2021)
@@ -35,50 +22,21 @@ There are currently various concerns regarding certain environmental toxins and 
 
 ---
 
-## The Impact of the Microbiome on Immunity to Vaccination in Humans.
- 21.08.2020, _SE de Jong, A Olin, B Pulendran_
-
-
-Vaccines are the most effective means available for preventing infectious diseases. However, vaccine-induced immune responses are highly variable between individuals and between populations in different regions of the world. Understanding the basis of this variation is, thus, of fundamental importance to human health. Although the factors that are associated with intra- and inter-population variation in vaccine responses are manifold, emerging evidence points to a key role for the gut microbiome in controlling immune responses to vaccination. Much of this evidence comes from studies in mice, and causal evidence for the impact of the microbiome on human immunity is sparse. However, recent studies on vaccination in subjects treated with broad-spectrum antibiotics have provided causal evidence and mechanistic insights into how the microbiota controls immune responses in humans.
+## The Impact of the Microbiome on Immunity to Vaccination in Humans
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30355-3)
 
-10.1016/j.chom.2020.06.014
-
 ---
 
-## The Gut Microbiota and Unhealthy Aging: Disentangling Cause from Consequence.
- 21.08.2020, _EN DeJong, MG Surette, DME Bowdish_
-
-
-The gut microbiota changes with age, but it is not clear to what degree these changes are due to physiologic changes, age-associated inflammation or immunosenescence, diet, medications, or chronic health conditions. Observational studies in humans find that there are profound differences between the microbiomes of long-lived and frail individuals, but the degree to which these differences promote or prevent late-life health is unclear. Studies in model organisms demonstrate that age-related microbial dysbiosis causes intestinal permeability, systemic inflammation, and premature mortality, but identifying causal relationships have been challenging. Herein, we review how physiological and immune changes contribute to microbial dysbiosis and the degree to which microbial dysbiosis contributes to late-life health conditions. We discuss the features of the aging microbiota that make it more amenable to diet and pre- and probiotic interventions. Health interventions that promote a diverse microbiome could influence the health of older adults.
+## The Gut Microbiota and Unhealthy Aging: Disentangling Cause from Consequence
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30409-1)
 
-10.1016/j.chom.2020.07.013
-
 ---
 
-## Helminth coinfection and COVID-19: An alternate hypothesis.
- 21.08.2020, _R Hays, D Pierce, P Giacomin, A Loukas, P Bourke, R McDermott_
-
-
+## Helminth coinfection and COVID-19: An alternate hypothesis
 
 [Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008628)
-
-10.1371/journal.pntd.0008628
-
----
-
-## Mitochondria, the gut microbiome and ROS.
- 18.08.2020, _JWO Ballard, SG Towarnicki_
-
-
-In this review, we discuss the connections between mitochondria and the gut microbiome provided by reactive oxygen species (ROS). We examine the mitochondrion as an endosymbiotic organelle that is a hub for energy production, signaling, and cell homeostasis. Maintaining a diverse gut microbiome is generally associated with organismal fitness, intestinal health and resistance to environmental stress. In contrast, gut microbiome imbalance, termed dysbiosis, is linked to a reduction in organismal well-being. ROS are essential signaling molecules but can be damaging when present in excess. Increasing ROS levels have been shown to influence human health, homeostasis of gut cells, and the gastrointestinal microbial community's biodiversity. Reciprocally, gut microbes can affect ROS levels, mitochondrial homeostasis, and host health. We propose that mechanistic understanding of the suite of bi-directional interactions between mitochondria and the gut microbiome will facilitate innovative interdisciplinary studies examining evolutionary divergence and provide novel treatments and therapeutics for disease. GLOSS: In this review, we focus on the nexus between mitochondria and the gut microbiome provided by reactive oxygen species (ROS). Mitochondria are a cell organelle that is derived from an ancestral alpha-proteobacteria. They generate around 80% of the adenosine triphosphate that an organism needs to function and release a range of signaling molecules essential for cellular homeostasis. The gut microbiome is a suite of microorganisms that are commensal, symbiotic and pathogenic to their host. ROS are one predominant group of essential signaling molecules that can be harmful in excess. We suggest that the mitochondria- microbiome nexus is a frontier of research that has cross-disciplinary benefits in understanding genetic divergence and human well-being.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S089865682030214X)
-
-10.1016/j.cellsig.2020.109737
 
 ---
 
@@ -94,15 +52,9 @@ In this review, we discuss the connections between mitochondria and the gut micr
 
 ---
 
-## Programing of an Intravascular Immune Firewall by the Gut Microbiota Protects against Pathogen Dissemination during Infection.
- 18.08.2020, _B McDonald, AZ Zucoloto, IL Yu, R Burkhard, K Brown, MB Geuking, KD McCoy_
-
-
-Eradication of pathogens from the bloodstream is critical to prevent disseminated infections and sepsis. Kupffer cells in the liver form an intravascular firewall that captures and clears pathogens from the blood. Here, we show that the catching and killing of circulating pathogens by Kupffer cells in vivo are promoted by the gut microbiota through commensal-derived D-lactate that reaches the liver via the portal vein. The integrity of this Kupffer cell-mediated intravascular firewall requires continuous crosstalk with gut commensals, as microbiota depletion with antibiotics leads to a failure of pathogen clearance and overwhelming disseminated infection. Furthermore, administration of purified D-lactate to germ-free mice, or gnotobiotic colonization with D-lactate-producing commensals, restores Kupffer cell-mediated pathogen clearance by the liver firewall. Thus, the gut microbiota programs an intravascular immune firewall that protects against the spread of bacterial infections via the bloodstream.
+## Programing of an Intravascular Immune Firewall by the Gut Microbiota Protects against Pathogen Dissemination during Infection
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30410-8)
-
-10.1016/j.chom.2020.07.014
 
 ---
 
@@ -112,15 +64,9 @@ Eradication of pathogens from the bloodstream is critical to prevent disseminate
 
 ---
 
-## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers' Milk and the Infant Gut: the CHILD Cohort Study.
- 21.08.2020, _K Fehr, S Moossavi, H Sbihi, RCT Boutin, L Bode, B Robertson, C Yonemitsu, CJ Field, AB Becker, PJ Mandhane, MR Sears, E Khafipour, TJ Moraes, P Subbarao, BB Finlay, SE Turvey, MB Azad_
-
-
-Gut microbiota play a critical role in infant health. It is now accepted that breastmilk contains live bacteria from endogenous and exogenous sources, but it remains unclear whether these bacteria transfer to the infant gut and whether this process is influenced by breastmilk feeding practices. Here, we show that certain bacteria, including Streptococcus spp. and Veillonella dispar, co-occur in mothers' milk and their infants' stool, and co-occurrence is reduced when infants receive pumped breastmilk. The relative abundances of commonly shared species are positively correlated between breastmilk and stool. Overall, gut microbiota composition is strongly associated with breastfeeding exclusivity and duration but not breastmilk feeding mode (nursing versus pumping). Moreover, breastmilk bacteria contributed to overall gut microbiota variation to a similar extent as other modifiers of the infant microbiome, such as birth mode. These results provide evidence that breastmilk may transfer bacteria to the infant gut and influence microbiota development.
+## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers’ Milk and the Infant Gut: the CHILD Cohort Study
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30350-4)
-
-10.1016/j.chom.2020.06.009
 
 ---
 
@@ -172,15 +118,9 @@ Phyllosphere bacteria have an important role in plant growth and resistance to p
 
 ---
 
-## Diversity and structure of prokaryotic communities within organic and conventional farming systems in central highlands of Kenya.
- 21.08.2020, _EN Karanja, A Fliessbach, N Adamtey, AK Kambura, M Musyoka, K Fiaboe, R Mwirichia_
-
-
-Management practices such as tillage, crop rotation, irrigation, organic and inorganic inputs application are known to influence diversity and function of soil microbial populations. In this study, we investigated the effect of conventional versus organic farming systems at low and high input levels on structure and diversity of prokaryotic microbial communities. Soil samples were collected from the ongoing long-term farming system comparison trials established in 2007 at Chuka and Thika in Kenya. Physicochemical parameters for each sample were analyzed. Total DNA and RNA amplicons of variable region (V4-V7) of the 16S rRNA gene were generated on an Illumina platform using the manufacturer's instructions. Diversity indices and statistical analysis were done using QIIME2 and R packages, respectively. A total of 29,778,886 high quality reads were obtained and assigned to 16,176 OTUs at 97% genetic distance across both 16S rDNA and 16S rRNA cDNA datasets. The results pointed out a histrionic difference in OTUs based on 16S rDNA and 16S rRNA cDNA. Precisely, while 16S rDNA clustered by site, 16S rRNA cDNA clustered by farming systems. In both sites and systems, dominant phylotypes were affiliated to phylum Actinobacteria, Proteobacteria and Acidobacteria. Conventional farming systems showed a higher species richness and diversity compared to organic farming systems, whilst 16S rRNA cDNA datasets were similar. Physiochemical factors were associated differently depending on rRNA and rDNA. Soil pH, electrical conductivity, organic carbon, nitrogen, potassium, aluminium, zinc, iron, boron and micro-aggregates showed a significant influence on the observed microbial diversity. The observed higher species diversity in the conventional farming systems can be attributed to the integration of synthetic and organic agricultural inputs. These results show that the type of inputs used in a farming system not only affect the soil chemistry but also the microbial population dynamics and eventually the functional roles of these microbes.
+## Diversity and structure of prokaryotic communities within organic and conventional farming systems in central highlands of Kenya
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236574)
-
-10.1371/journal.pone.0236574
 
 ---
 
@@ -191,61 +131,32 @@ Management practices such as tillage, crop rotation, irrigation, organic and ino
 ---
 
 ## Combining physicochemical properties and microbiome data to evaluate the water quality of South African drinking water production plants.
- 21.08.2020, _TE Maguvu, CC Bezuidenhout, R Kritzinger, K Tsholo, M Plaatjie, LG Molale-Tom, CM Mienie, RD Coertze_
-
-
-Anthropogenic activities in catchments used for drinking water production largely contaminates source waters, and this may impact the quality of the final drinking water product. These contaminants may also affect taxonomic and functional profiles of the bacterial communities in the drinking water. Here, we report an integrated insight into the microbiome and water quality of four water treatment plants (NWC, NWE, WCA and NWG) that supply portable water to communities in South Africa. A new scoring system based on combined significant changes of physicochemical parameters and microbial abundance from raw to treated water was used to evaluate the effectiveness of the treatment plants at water purification. Physicochemical parameters which include total soluble solids, turbidity, pH, nitrites and phosphorus among others, were measured in source, treated, and distributed water. There were general statistically significant (P ≤ 0.05) differences between raw and treated water, demonstrating the effectiveness of the purification process. Illumina sequencing of the 16S rRNA gene was used for taxonomic profiling of the microbial communities and this data was used to infer functional attributes of the communities. Structure and composition of the bacterial communities differed significantly (P &lt; 0.05) among the treatment plants, only NWE and NWG showed no significant differences (P &gt; 0.05), this correlated with the predicted functional profile of the microbial communities obtained from Phylogenetic Investigation of Communities by Reconstruction of Observed States (PICRUSt), as well as the likely pollutants of source water. Bacteroidetes, Chlorobi and Fibrobacteres significantly differed (P &lt; 0.05) between raw and distributed water. PICRUSt inferred a number of pathways involved in the degradation of xenobiotics such as Dichlorodiphenyltrichloroethane, atrazine and polycyclic aromatic hydrocarbons. More worryingly, was the presence of pathways involved in beta-lactam resistance, potential pathogenic Escherichia coli infection, Vibrio cholerae infection, and Shigellosis. Also present in drinking and treated water were OTUs associated with a number of opportunistic pathogens.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237335)
 
-10.1371/journal.pone.0237335
-
 ---
 
-## They are what you eat: Shaping of viral populations through nutrition and consequences for virulence.
- 21.08.2020, _R Honce, S Schultz-Cherry_
-
-
+## They are what you eat: Shaping of viral populations through nutrition and consequences for virulence
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008711)
 
-10.1371/journal.ppat.1008711
-
 ---
 
-## Assembly methods for nanopore-based metagenomic sequencing: a comparative study.
- 18.08.2020, _A Latorre-Pérez, P Villalba-Bermell, J Pascual, C Vilanova_
-
-
-Metagenomic sequencing has allowed for the recovery of previously unexplored microbial genomes. Whereas short-read sequencing platforms often result in highly fragmented metagenomes, nanopore-based sequencers could lead to more contiguous assemblies due to their potential to generate long reads. Nevertheless, there is a lack of updated and systematic studies evaluating the performance of different assembly tools on nanopore data. In this study, we have benchmarked the ability of different assemblers to reconstruct two different commercially-available mock communities that have been sequenced using Oxford Nanopore Technologies platforms. Among the tested tools, only metaFlye, Raven, and Canu performed well in all the datasets. These tools retrieved highly contiguous genomes (or even complete genomes) directly from the metagenomic data. Despite the intrinsic high error of nanopore sequencing, final assemblies reached high accuracy (~ 99.5 to 99.8% of consensus accuracy). Polishing strategies demonstrated to be necessary for reducing the number of indels, and this had an impact on the prediction of biosynthetic gene clusters. Correction with high quality short reads did not always result in higher quality draft assemblies. Overall, nanopore metagenomic sequencing data-adapted to MinION's current output-proved sufficient for assembling and characterizing low-complexity microbial communities.
+## Assembly methods for nanopore-based metagenomic sequencing: a comparative study
 
 [Source](https://www.nature.com/articles/s41598-020-70491-3)
 
-10.1038/s41598-020-70491-3
-
 ---
 
-## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools.
- 05.08.2020, _H Derakhshani, SP Bernier, VA Marko, MG Surette_
-
-
-Illumina technology currently dominates bacterial genomics due to its high read accuracy and low sequencing cost. However, the incompleteness of draft genomes generated by Illumina reads limits their application in comprehensive genomics analyses. Alternatively, hybrid assembly using both Illumina short reads and long reads generated by single molecule sequencing technologies can enable assembly of complete bacterial genomes, yet the high per-genome cost of long-read sequencing limits the widespread use of this approach in bacterial genomics. Here we developed a protocol for hybrid assembly of complete bacterial genomes using miniaturized multiplexed Illumina sequencing and non-barcoded PacBio sequencing of a synthetic genomic pool (SGP), thus significantly decreasing the overall per-genome cost of sequencing.
+## Completion of draft bacterial genomes by long-read sequencing of synthetic genomic pools
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06910-6)
 
-10.1186/s12864-020-06910-6
-
 ---
 
-## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence.
- 18.08.2020, _C Liao, T Wang, S Maslov, JB Xavier_
-
-
-Social interaction between microbes can be described at many levels of details: from the biochemistry of cell-cell interactions to the ecological dynamics of populations. Choosing an appropriate level to model microbial communities without losing generality remains a challenge. Here we show that modeling cross-feeding interactions at an intermediate level between genome-scale metabolic models of individual species and consumer-resource models of ecosystems is suitable to experimental data. We applied our modeling framework to three published examples of multi-strain Escherichia coli communities with increasing complexity: uni-, bi-, and multi-directional cross-feeding of either substitutable metabolic byproducts or essential nutrients. The intermediate-scale model accurately fit empirical data and quantified metabolic exchange rates that are hard to measure experimentally, even for a complex community of 14 amino acid auxotrophies. By studying the conditions of species coexistence, the ecological outcomes of cross-feeding interactions, and each community's robustness to perturbations, we extracted new quantitative insights from these three published experimental datasets. Our analysis provides a foundation to quantify cross-feeding interactions from experimental data, and highlights the importance of metabolic exchanges in the dynamics and stability of microbial communities.
+## Modeling microbial cross-feeding at intermediate scale portrays community dynamics and species coexistence
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135)
-
-10.1371/journal.pcbi.1008135
 
 ---
 
