@@ -76,15 +76,9 @@
 
 ---
 
-## Passenger-surface microbiome interactions in the subway of Mexico City.
- 19.08.2020, _D Vargas-Robles, C Gonzalez-Cedillo, AM Hernandez, LD Alcaraz, M Peimbert_
-
-
-Interaction between hands and the environment permits the interchange of microorganisms. The Mexico City subway is used daily by millions of passengers that get in contact with its surfaces. In this study, we used 16S rRNA gene sequencing to characterize the microbiomes of frequently touched surfaces and compare regular and women-only wagons. We also explored the effect of surface cleaning on microbial resettling. Finally, we studied passenger behavior and characterized microbial changes after traveling. Most passengers (99%), showed some type of surface interaction during a wagon trip, mostly with the hands (92%). We found microbiome differences associated with surfaces, probably reflecting diverse surface materials and usage frequency. The platform floor was the most bacterial diverse surface, while the stair handrail and pole were the least diverse ones. After pole cleaning, the resettling of microbial diversity was fast (5-30 minutes); however, it did not resemble the initial composition. After traveling, passengers significantly increased their hand microbial diversity and converged to a similar microbial composition among passengers. Additionally, passenger hand microbiomes resembled subway surfaces in diversity. However, microbial fingerprints were preserved within passengers after traveling.
+## Passenger-surface microbiome interactions in the subway of Mexico City
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272)
-
-10.1371/journal.pone.0237272
 
 ---
 
