@@ -10,6 +10,19 @@
 
 ---
 
+## Gut microbiota and neurological effects of glyphosate.
+ 30.04.2020, _L Rueda-Ruzafa, F Cruz, P Roman, D Cardona_
+
+
+_Animals, Dysbiosis, Gastrointestinal Microbiome, Glycine, Herbicides, Humans, Nervous System Diseases_
+There are currently various concerns regarding certain environmental toxins and the possible impact they can have on developmental diseases. Glyphosate (Gly) is the most utilised herbicide in agriculture, although its widespread use is generating controversy in the scientific world because of its probable carcinogenic effect on human cells. Gly performs as an inhibitor of 5-enolpyruvylshikimate-3-phospate synthase (EPSP synthase), not only in plants, but also in bacteria. An inhibiting effect on EPSP synthase from intestinal microbiota has been reported, affecting mainly beneficial bacteria. To the contrary, Clostridium spp. and Salmonella strains are shown to be resistant to Gly. Consequently, researchers have suggested that Gly can cause dysbiosis, a phenomenon which is characterised by an imbalance between beneficial and pathogenic microorganisms. The overgrowth of bacteria such as clostridia generates high levels of noxious metabolites in the brain, which can contribute to the development of neurological deviations. This work reviews the impact of Gly-induced intestinal dysbiosis on the central nervous system, focusing on emotional, neurological and neurodegenerative disorders. A wide variety of factors were investigated in relation to brain-related changes, including highlighting genetic abnormalities, pregnancy-associated problems, diet, infections, vaccines and heavy metals. However, more studies are required to determine the implication of the most internationally used herbicide, Gly, in behavioural disorders.
+
+[Source](https://www.biocodexmicrobiotafoundation.com/international-call-projects-2021)
+
+10.1016/j.neuro.2019.08.006
+
+---
+
 ## Functional effects of the human gut microbiome on autism
 
 [Source](https://www.biocodexmicrobiotafoundation.com/international-call-projects-2021)
@@ -22,21 +35,50 @@
 
 ---
 
-## The Impact of the Microbiome on Immunity to Vaccination in Humans
+## The Impact of the Microbiome on Immunity to Vaccination in Humans.
+ 21.08.2020, _SE de Jong, A Olin, B Pulendran_
+
+
+Vaccines are the most effective means available for preventing infectious diseases. However, vaccine-induced immune responses are highly variable between individuals and between populations in different regions of the world. Understanding the basis of this variation is, thus, of fundamental importance to human health. Although the factors that are associated with intra- and inter-population variation in vaccine responses are manifold, emerging evidence points to a key role for the gut microbiome in controlling immune responses to vaccination. Much of this evidence comes from studies in mice, and causal evidence for the impact of the microbiome on human immunity is sparse. However, recent studies on vaccination in subjects treated with broad-spectrum antibiotics have provided causal evidence and mechanistic insights into how the microbiota controls immune responses in humans.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30355-3)
 
+10.1016/j.chom.2020.06.014
+
 ---
 
-## The Gut Microbiota and Unhealthy Aging: Disentangling Cause from Consequence
+## The Gut Microbiota and Unhealthy Aging: Disentangling Cause from Consequence.
+ 21.08.2020, _EN DeJong, MG Surette, DME Bowdish_
+
+
+The gut microbiota changes with age, but it is not clear to what degree these changes are due to physiologic changes, age-associated inflammation or immunosenescence, diet, medications, or chronic health conditions. Observational studies in humans find that there are profound differences between the microbiomes of long-lived and frail individuals, but the degree to which these differences promote or prevent late-life health is unclear. Studies in model organisms demonstrate that age-related microbial dysbiosis causes intestinal permeability, systemic inflammation, and premature mortality, but identifying causal relationships have been challenging. Herein, we review how physiological and immune changes contribute to microbial dysbiosis and the degree to which microbial dysbiosis contributes to late-life health conditions. We discuss the features of the aging microbiota that make it more amenable to diet and pre- and probiotic interventions. Health interventions that promote a diverse microbiome could influence the health of older adults.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30409-1)
 
+10.1016/j.chom.2020.07.013
+
 ---
 
-## Helminth coinfection and COVID-19: An alternate hypothesis
+## Helminth coinfection and COVID-19: An alternate hypothesis.
+ 21.08.2020, _R Hays, D Pierce, P Giacomin, A Loukas, P Bourke, R McDermott_
+
+
 
 [Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008628)
+
+10.1371/journal.pntd.0008628
+
+---
+
+## Mitochondria, the gut microbiome and ROS.
+ 18.08.2020, _JWO Ballard, SG Towarnicki_
+
+
+In this review, we discuss the connections between mitochondria and the gut microbiome provided by reactive oxygen species (ROS). We examine the mitochondrion as an endosymbiotic organelle that is a hub for energy production, signaling, and cell homeostasis. Maintaining a diverse gut microbiome is generally associated with organismal fitness, intestinal health and resistance to environmental stress. In contrast, gut microbiome imbalance, termed dysbiosis, is linked to a reduction in organismal well-being. ROS are essential signaling molecules but can be damaging when present in excess. Increasing ROS levels have been shown to influence human health, homeostasis of gut cells, and the gastrointestinal microbial community's biodiversity. Reciprocally, gut microbes can affect ROS levels, mitochondrial homeostasis, and host health. We propose that mechanistic understanding of the suite of bi-directional interactions between mitochondria and the gut microbiome will facilitate innovative interdisciplinary studies examining evolutionary divergence and provide novel treatments and therapeutics for disease. GLOSS: In this review, we focus on the nexus between mitochondria and the gut microbiome provided by reactive oxygen species (ROS). Mitochondria are a cell organelle that is derived from an ancestral alpha-proteobacteria. They generate around 80% of the adenosine triphosphate that an organism needs to function and release a range of signaling molecules essential for cellular homeostasis. The gut microbiome is a suite of microorganisms that are commensal, symbiotic and pathogenic to their host. ROS are one predominant group of essential signaling molecules that can be harmful in excess. We suggest that the mitochondria- microbiome nexus is a frontier of research that has cross-disciplinary benefits in understanding genetic divergence and human well-being.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S089865682030214X)
+
+10.1016/j.cellsig.2020.109737
 
 ---
 
@@ -52,9 +94,15 @@
 
 ---
 
-## Programing of an Intravascular Immune Firewall by the Gut Microbiota Protects against Pathogen Dissemination during Infection
+## Programing of an Intravascular Immune Firewall by the Gut Microbiota Protects against Pathogen Dissemination during Infection.
+ 18.08.2020, _B McDonald, AZ Zucoloto, IL Yu, R Burkhard, K Brown, MB Geuking, KD McCoy_
+
+
+Eradication of pathogens from the bloodstream is critical to prevent disseminated infections and sepsis. Kupffer cells in the liver form an intravascular firewall that captures and clears pathogens from the blood. Here, we show that the catching and killing of circulating pathogens by Kupffer cells in vivo are promoted by the gut microbiota through commensal-derived D-lactate that reaches the liver via the portal vein. The integrity of this Kupffer cell-mediated intravascular firewall requires continuous crosstalk with gut commensals, as microbiota depletion with antibiotics leads to a failure of pathogen clearance and overwhelming disseminated infection. Furthermore, administration of purified D-lactate to germ-free mice, or gnotobiotic colonization with D-lactate-producing commensals, restores Kupffer cell-mediated pathogen clearance by the liver firewall. Thus, the gut microbiota programs an intravascular immune firewall that protects against the spread of bacterial infections via the bloodstream.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30410-8)
+
+10.1016/j.chom.2020.07.014
 
 ---
 
@@ -64,21 +112,39 @@
 
 ---
 
-## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers’ Milk and the Infant Gut: the CHILD Cohort Study
+## Breastmilk Feeding Practices Are Associated with the Co-Occurrence of Bacteria in Mothers' Milk and the Infant Gut: the CHILD Cohort Study.
+ 21.08.2020, _K Fehr, S Moossavi, H Sbihi, RCT Boutin, L Bode, B Robertson, C Yonemitsu, CJ Field, AB Becker, PJ Mandhane, MR Sears, E Khafipour, TJ Moraes, P Subbarao, BB Finlay, SE Turvey, MB Azad_
+
+
+Gut microbiota play a critical role in infant health. It is now accepted that breastmilk contains live bacteria from endogenous and exogenous sources, but it remains unclear whether these bacteria transfer to the infant gut and whether this process is influenced by breastmilk feeding practices. Here, we show that certain bacteria, including Streptococcus spp. and Veillonella dispar, co-occur in mothers' milk and their infants' stool, and co-occurrence is reduced when infants receive pumped breastmilk. The relative abundances of commonly shared species are positively correlated between breastmilk and stool. Overall, gut microbiota composition is strongly associated with breastfeeding exclusivity and duration but not breastmilk feeding mode (nursing versus pumping). Moreover, breastmilk bacteria contributed to overall gut microbiota variation to a similar extent as other modifiers of the infant microbiome, such as birth mode. These results provide evidence that breastmilk may transfer bacteria to the infant gut and influence microbiota development.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30350-4)
 
+10.1016/j.chom.2020.06.009
+
 ---
 
-## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows
+## Effects of Urbanization and Landscape on Gut Microbiomes in White-Crowned Sparrows.
+ 17.08.2020, _M Berlow, JN Phillips, EP Derryberry_
+
+
+Habitats are changing rapidly around the globe and urbanization is one of the primary drivers. Urbanization changes food availability, environmental stressors, and the prevalence of disease for many species. These changes can lead to divergence in phenotypic traits, including behavioral, physiological, and morphological features between urban and rural populations. Recent research highlights that urbanization is also changing the gut microbial communities found in a diverse group of host species. These changes have not been uniform, leaving uncertainty as to how urban habitats are shaping gut microbial communities. To better understand these effects, we investigated the gut bacterial communities of White-Crowned Sparrow (Zonotrichia leucophrys) populations along an urbanization gradient in the San Francisco Bay area. We examined how gut bacterial communities vary with the local environment and host morphological characteristics. We found direct effects of environmental factors, including urban noise levels and territory land cover, as well as indirect effects through body size and condition, on alpha and beta diversity of gut microbial communities. We also found that urban and rural birds' microbiomes differed in which variables predicted their diversity, with urban communities driven by host morphology, and rural communities driven by environmental factors. Elucidating these effects provides a better understanding of how urbanization affects wild avian physiology.
 
 [Source](https://link.springer.com/article/10.1007/s00248-020-01569-8)
 
+10.1007/s00248-020-01569-8
+
 ---
 
-## Passenger-surface microbiome interactions in the subway of Mexico City
+## Passenger-surface microbiome interactions in the subway of Mexico City.
+ 19.08.2020, _D Vargas-Robles, C Gonzalez-Cedillo, AM Hernandez, LD Alcaraz, M Peimbert_
+
+
+Interaction between hands and the environment permits the interchange of microorganisms. The Mexico City subway is used daily by millions of passengers that get in contact with its surfaces. In this study, we used 16S rRNA gene sequencing to characterize the microbiomes of frequently touched surfaces and compare regular and women-only wagons. We also explored the effect of surface cleaning on microbial resettling. Finally, we studied passenger behavior and characterized microbial changes after traveling. Most passengers (99%), showed some type of surface interaction during a wagon trip, mostly with the hands (92%). We found microbiome differences associated with surfaces, probably reflecting diverse surface materials and usage frequency. The platform floor was the most bacterial diverse surface, while the stair handrail and pole were the least diverse ones. After pole cleaning, the resettling of microbial diversity was fast (5-30 minutes); however, it did not resemble the initial composition. After traveling, passengers significantly increased their hand microbial diversity and converged to a similar microbial composition among passengers. Additionally, passenger hand microbiomes resembled subway surfaces in diversity. However, microbial fingerprints were preserved within passengers after traveling.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237272)
+
+10.1371/journal.pone.0237272
 
 ---
 
@@ -106,9 +172,15 @@ Phyllosphere bacteria have an important role in plant growth and resistance to p
 
 ---
 
-## Diversity and structure of prokaryotic communities within organic and conventional farming systems in central highlands of Kenya
+## Diversity and structure of prokaryotic communities within organic and conventional farming systems in central highlands of Kenya.
+ 21.08.2020, _EN Karanja, A Fliessbach, N Adamtey, AK Kambura, M Musyoka, K Fiaboe, R Mwirichia_
+
+
+Management practices such as tillage, crop rotation, irrigation, organic and inorganic inputs application are known to influence diversity and function of soil microbial populations. In this study, we investigated the effect of conventional versus organic farming systems at low and high input levels on structure and diversity of prokaryotic microbial communities. Soil samples were collected from the ongoing long-term farming system comparison trials established in 2007 at Chuka and Thika in Kenya. Physicochemical parameters for each sample were analyzed. Total DNA and RNA amplicons of variable region (V4-V7) of the 16S rRNA gene were generated on an Illumina platform using the manufacturer's instructions. Diversity indices and statistical analysis were done using QIIME2 and R packages, respectively. A total of 29,778,886 high quality reads were obtained and assigned to 16,176 OTUs at 97% genetic distance across both 16S rDNA and 16S rRNA cDNA datasets. The results pointed out a histrionic difference in OTUs based on 16S rDNA and 16S rRNA cDNA. Precisely, while 16S rDNA clustered by site, 16S rRNA cDNA clustered by farming systems. In both sites and systems, dominant phylotypes were affiliated to phylum Actinobacteria, Proteobacteria and Acidobacteria. Conventional farming systems showed a higher species richness and diversity compared to organic farming systems, whilst 16S rRNA cDNA datasets were similar. Physiochemical factors were associated differently depending on rRNA and rDNA. Soil pH, electrical conductivity, organic carbon, nitrogen, potassium, aluminium, zinc, iron, boron and micro-aggregates showed a significant influence on the observed microbial diversity. The observed higher species diversity in the conventional farming systems can be attributed to the integration of synthetic and organic agricultural inputs. These results show that the type of inputs used in a farming system not only affect the soil chemistry but also the microbial population dynamics and eventually the functional roles of these microbes.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236574)
+
+10.1371/journal.pone.0236574
 
 ---
 
