@@ -4,15 +4,15 @@
 
 ---
 
-## Bleeding Complications Drive In-Hospital Mortality of Patients with Atrial Fibrillation after Transcatheter Aortic Valve Replacement.
- 22.08.2020, _A Lother, K Kaier, I Ahrens, W Bothe, D Wolf, M Zehender, C Bode, C von Zur Mühlen, P Stachon_
+## Association of GRIA1 polymorphisms with ovarian response to human menopausal gonadotropin in Iranian women.
+ 23.08.2020, _H Golestanpour, G Javadi, MH Sheikhha_
 
 
-Atrial fibrillation (AF) is a risk factor for poor postoperative outcome after transfemoral transcatheter aortic valve replacement (TF-TAVR). The present study analyses the outcomes after TF-TAVR in patients with or without AF and identifies independent predictors for in-hospital mortality in clinical practice.
+Glutamate ionotropic receptor AMPA type subunit 1 (GRIA1) is a subunit of a ligand-gated ion channel that regulates the secretion of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) by controlling the release of gonadotropin-releasing hormone. Few studies have investigated the association between the GRIA1 gene and human infertility. This study evaluated the association of the GRIA1 rs548294 C &gt; T and rs2195450 G &gt; A polymorphisms with the ovarian response to human menopausal gonadotropin (HMG) in Iranian women.
 
 [Source](https://doi.org/10.1177/0022034520945242)
 
-10.1055/s-0040-1715833
+10.5653/cerm.2020.03370
 
 ---
 
