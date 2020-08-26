@@ -46,9 +46,15 @@
 
 ---
 
-## Protoblock – A biological standard for formalin fixed samples 
+## Protoblock - A biological standard for formalin fixed samples.
+ 23.08.2020, _Y Flores Bueso, SP Walker, G Hogan, MJ Claesson, M Tangney_
+
+
+Formalin-fixed, paraffin-embedded (FFPE) tissue is the gold standard in pathology tissue storage, representing the largest collections of patient material. Their reliable use for DNA analyses could open a trove of potential samples for research and are currently being recognised as a viable source material for bacterial analysis. There are several key features which limit bacterial-related data generation from this material: (i) DNA damage inherent to the fixing process, (ii) low bacterial biomass that increases the vulnerability to contamination and exacerbates the host DNA effects and (iii) lack of suitable DNA extraction methods, leading to data bias. The development and systematic use of reliable standards is a key priority for microbiome research. More than perhaps any other sample type, FFPE material urgently requires the development of standards to ensure the validity of results and to promote reproducibility.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00901-1)
+
+10.1186/s40168-020-00901-1
 
 ---
 
