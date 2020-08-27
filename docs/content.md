@@ -1,84 +1,42 @@
-##  Non-academic Careers in Soil Ecology: a virtual career panel
+## Metabolic cross-feeding in imbalanced diets allows gut microbes to improve reproduction and alter host behaviour
 
-[Source](https://docs.google.com/forms/d/e/1FAIpQLSfMEL5LlJPvdTzmsZ8t148LNQAUIPWZ626h1ZuPKDO1UOSVfQ/viewform)
-
----
-
-## review: Compartmentalization drives the evolution of symbiotic cooperation
-
-[Source](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0602?casa_token=QErx42_g_YQAAAAA%3AnbRSjjzwTL7i0LiqIdzHfjf8mdKFY4HWivooc0cpMRwTWvYONVX6JXwa_MSgutWjLnqAvZeYYYCbYw)
+[Source](https://www.nature.com/articles/s41467-020-18049-9?utm_source=ncomms_etoc&utm_medium=email&utm_campaign=toc_41467_11_1&utm_content=20200826&WT.ec_id=NCOMMS-20200826&sap-outbound-id=A950D22B2A08C9FACDD8F0C1E8288C2ED6E04764)
 
 ---
 
-## Assessing the strength and sensitivity of the core microbiota approach on a highly diverse sponge reef
+## The Impact of the Postpartum “Doing-the-Month” Practice on Human Milk Microbiota: A Pilot Study in Taiwan
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15185?campaign=wolacceptedarticle)
-
----
-
-## Cooperation, Competition, and Specialized Metabolism in a Simplified Root Nodule Microbiome
-
-[Source](https://mbio.asm.org/content/11/4/e01917-20/article-info)
+[Source](https://www.mdpi.com/2076-2607/8/9/1283)
 
 ---
 
-## Stable isotope informed genome-resolved metagenomics uncovers potential trophic interactions in rhizosphere soil
+## Glycan cross-feeding supports mutualism between&nbsp;<em>Fusobacterium</em>&nbsp;and the vaginal microbiota
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.21.262063v1)
-
----
-
-## Disease-Induced Microbial Shifts in Citrus Indicate Microbiome-Derived Responses to Huanglongbing Across the Disease Severity Spectrum
-
-[Source](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-04-20-0027-R)
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000788)
 
 ---
 
-## Cervicovaginal Microbiome Composition Is Associated with Metabolic Profiles in Healthy Pregnancy
+## How Serotonin Level Fluctuation Affects the Effectiveness of Treatment in Irritable Bowel Syndrome
 
-[Source](https://mbio.asm.org/content/11/4/e01851-20)
-
----
-
-## The Gut Virome Database Reveals Age-Dependent Patterns of Virome Diversity in the Human Gut
-
-[Source](https://pubmed.ncbi.nlm.nih.gov/32841606/)
+[Source](https://www.researchgate.net/profile/Rajat_Kumar62/publication/343746511_How_Serotonin_Level_Fluctuation_Affects_the_Effectiveness_of_Treatment_in_Irritable_Bowel_Syndrome/links/5f3d5a3f458515b7292d2687/How-Serotonin-Level-Fluctuation-Affects-the-Effectiveness-of-Treatment-in-Irritable-Bowel-Syndrome.pdf)
 
 ---
 
-## BiG-SLiCE: A Highly Scalable Tool Maps the Diversity of 1.2 Million Biosynthetic Gene Clusters
+## Three Candidate Probiotic Strains Impact Gut Microbiota and Induce Anergy in Mice with Cow’s Milk Allergy
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.17.240838v2.abstract)
-
----
-
-## mini-review: Natural product discovery through microbial genome mining
-
-[Source](https://www.sciencedirect.com/science/article/pii/S136759312030106X)
+[Source](https://aem.asm.org/content/early/2020/08/17/AEM.01203-20.abstract)
 
 ---
 
-## Available Benchmarking Bacterial Promoter Prediction Tools: Potentialities and Limitations
+## Role of environmental factors in shaping the soil microbiome
 
-[Source](https://msystems.asm.org/content/5/4/e00439-20)
-
----
-
-## <span>Like</span>
-
-[Source](https://microbiomedigest.com/2020/08/26/august-26-2020/?like_comment=25002&_wpnonce=c0519240bd)
+[Source](https://link.springer.com/article/10.1007/s11356-020-10471-2)
 
 ---
 
-## <span>Like</span>
+## Predictive analysis methods for human microbiome data with application to Parkinson’s disease
 
-[Source](https://microbiomedigest.com/2020/08/26/august-26-2020/?like_comment=25003&_wpnonce=3e07846809)
-
----
-
-## 1 person
-
-[Source](#)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237779#sec002)
 
 ---
 
