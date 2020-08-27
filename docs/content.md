@@ -76,18 +76,6 @@
 
 ---
 
-## [Association between family history of diabetes and incident diabetes of adults: a prospective study].
- 25.08.2020, _J Su, JY Zhou, R Tao, YN Wan, Y Qin, Y Lu, YJ Hua, JR Jin, Z Bian, Y Guo, ZM Chen, M Wu, LM Li_
-
-
-Objective: To evaluate the association betweew family history of diabetes and incident diabetes of adults. Methods: A total of 49 266 participants in the China Kadoorie Biobank (CKB) study from Wuzhong district of Suzhou city were included in the analysis, after the exclusion of those with heart disease, stroke, cancer and diabetes at baseline survey. The person-year of follow-up was calculated from the date on completion of baseline survey to the date on any firstly-occurred event, i.e., diabetes incidence, death, loss of follow-up, or December 31, 2013. Cox regression model was used to estimate the hazards ratios of the association between family history of diabetes and incident diabetes. Results: During 348 677 person-years of the follow-up (median 7.08 years), a total of 423 men and 791 women were diagnosed as having diabetes. Compared to those without diabetic family history, participants with family history of diabetes showed a higher risk of diabetes, with a HR (95%CI) of 1.90 (1.57-2.29), and the risk increased with the number of relatives suffering from diabetes (Pfor trend&lt;0.05). The family history of maternal type, sibling type, and sibling and parental type had a statistically significant association with the risk of diabetes. The adjusted HR (95%CI) was 2.03 (1.45-2.77), 2.07 (1.56-2.68) and 2.39 (1.14-4.34), respectively. Modification effects of tobacco smoking, alcohol drinking, body mass index and physical activity on the association between diabetic family history and risk of diabetes were not observed in the study (Pfor interaction &gt;0.05). Conclusions: Diabetic family history is associated with the increased incident diabetes, and the risk increased with the number of relatives suffering from diabetes.
-
-[Source](#)
-
-10.3760/cma.j.cn112150-20200212-00091
-
----
-
 ## 1 person
 
 [Source](#)
