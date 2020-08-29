@@ -52,18 +52,6 @@ Understanding how gut flora influences gut-brain communications has been the sub
 
 ---
 
-## Simple Kinetics, Assay, and Trends for Soil Microbial Catalases.
- 25.08.2020, _M Chabot, E Morales, J Cummings, N Rios, S Giatpaiboon, R Mogul_
-
-
-In this report, we expand upon the enzymology and ecology of soil catalases through development and application of a simple kinetic model and field-amenable assay based upon volume displacement. Through this approach, we (A) directly relate apparent Michaelis-Menten terms to the catalase reaction mechanism, (B) obtain upper estimates of the intrinsic rate constants for the catalase community (k3'), along with moles of catalase per 16S rRNA gene copy number, (C) utilize catalase specific activities (SAs) to obtain biomass estimates of soil and permafrost communities (LOD, ∼104 copy number gdw-1), and (D) relate kinetic trends to changes in bacterial community structure. In addition, this novel kinetic approach simultaneously incorporates barometric adjustments to afford comparisons across field measurements. As per our model, and when compared to garden soils, biological soil crusts exhibited ∼2-fold lower values for k3', ≥105-fold higher catalase moles per biomass (250-1200 zmol copy number-1), and ∼104-fold higher SAs per biomass (74-230 fkat copy number-1); whereas the highest SAs were obtained from permafrost and high-elevation soil communities (5900-6700 fkat copy number-1). In sum, the total trends suggest that microbial communities which experience higher degrees of native oxidative stress possess higher basal intracellular catalase concentrations and SAs per biomass.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0003269720304334)
-
-10.1016/j.ab.2020.113901
-
----
-
 ## Simple kinetics, assay, and trends for soil microbial catalases
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0003269720304334)
