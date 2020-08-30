@@ -70,21 +70,39 @@ Non-alcoholic fatty liver disease (NAFLD) has been associated with small bowel b
 
 ---
 
-## Gut metagenomics-derived genes as potential biomarkers of Parkinson’s disease
+## Gut metagenomics-derived genes as potential biomarkers of Parkinson's disease.
+ 26.08.2020, _Y Qian, X Yang, S Xu, P Huang, B Li, J Du, Y He, B Su, LM Xu, L Wang, R Huang, S Chen, Q Xiao_
+
+
+Identification of the gut microbiome compositions associated with disease has become a research focus worldwide. Emerging evidence has revealed the presence of gut microbiota dysbiosis in Parkinson's disease. In this study, we aimed to identify the gut microbiome associated with Parkinson's disease and subsequently to screen and to validate potential diagnostic biomarkers of Parkinson's disease. This case-control study investigated gut microbial genes in faeces from 40 volunteer Chinese patients with Parkinson's disease and their healthy spouses using shotgun metagenomic sequencing. Furthermore, the identified specific gut microbial gene markers were validated with real-time PCR in an independent Chinese cohort of 78 Parkinson's disease patients, 75 control subjects, 40 patients with multiple system atrophy and 25 patients with Alzheimer's disease. We developed the first gut microbial gene catalogue associated with Parkinson's disease. Twenty-five gene markers were identified that distinguished Parkinson's disease patients from healthy control subjects, achieving an area under the receiver operating characteristic curve (AUC) of 0.896 (95% confidence interval: 83.1-96.1%). A highly accurate Parkinson's disease index, which was not influenced by disease severity or Parkinson's disease medications, was created. Testing these gene markers using quantitative PCR distinguished Parkinson's disease patients from healthy controls not only in the 40 couples (AUC = 0.922, 95% confidence interval: 86.4-98.0%), but also in an independent group of 78 patients with Parkinson's disease and 75 healthy control subjects (AUC = 0.905, 95% confidence interval: 86.0-95.1%). This classifier also performed a differential diagnosis power in discriminating these 78 patients with Parkinson's disease from a cohort of 40 patients with multiple system atrophy and 25 patients with Alzheimer's disease based on the panel of 25 biomarkers. Based on our results, the identified Parkinson's disease index based on the gene set from the gut microbiome may be a potential diagnostic biomarker of Parkinson's disease.
 
 [Source](http://scholar.google.com/scholar_url?url=https://academic.oup.com/brain/article-abstract/143/8/2474/5897116&hl=en&sa=X&d=2295550396010362130&scisig=AAGBfm2tYQC35rpj4wvYb1goh5IQZGov5w&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:489127521551979671:AAGBfm1AubYP_Oznxke33zOc3LOQGAQzTw&html=&eexpid=320022103)
 
+10.1093/brain/awaa201
+
 ---
 
-##  CRISPR screens in the era of microbiomes
+## CRISPR screens in the era of microbiomes.
+ 28.08.2020, _F Rousset, D Bikard_
+
+
+Recent advances in genomics have uncovered the tremendous diversity and richness of microbial ecosystems. New functional genomics methods are now needed to probe gene function in high-throughput and provide mechanistic insights. Here, we review how the CRISPR toolbox can be used to inactivate, repress or overexpress genes in a sequence-specific manner and how this offers diverse attractive solutions to identify gene function in high-throughput. Developed both in eukaryotes and prokaryotes, CRISPR screening technologies have already provided meaningful insights in microbiology and host-pathogen interactions. In the era of microbiomes, the versatility and the functional diversity of CRISPR-derived tools has the potential to significantly improve our understanding of microbial communities and their interaction with the host.
 
 [Source](http://scholar.google.com/scholar_url?url=https://www.sciencedirect.com/science/article/pii/S1369527420300904&hl=en&sa=X&d=16659708039216757392&scisig=AAGBfm10XS2IFUsUs1BHkQ1_pze_XETdkw&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig&html=&eexpid=320022103)
 
+10.1016/j.mib.2020.07.009
+
 ---
 
-##  Microbial single-cell omics: the crux of the matter
+## Microbial single-cell omics: the crux of the matter.
+ 26.08.2020, _AK Kaster, MS Sobol_
+
+
+Single-cell genomics and transcriptomics can provide reliable context for assembled genome fragments and gene expression activity on the level of individual prokaryotic genomes. These methods are rapidly emerging as an essential complement to cultivation-based, metagenomics, metatranscriptomics, and microbial community-focused research approaches by allowing direct access to information from individual microorganisms, even from deep-branching phylogenetic groups that currently lack cultured representatives. Their integration and binning with environmental 'omics data already provides unprecedented insights into microbial diversity and metabolic potential, enabling us to provide information on individual organisms and the structure and dynamics of natural microbial populations in complex environments. This review highlights the pitfalls and recent advances in the field of single-cell omics and its importance in microbiological and biotechnological studies. KEY POINTS: • Single-cell omics expands the tree of life through the discovery of novel organisms, genes, and metabolic pathways. • Disadvantages of metagenome-assembled genomes are overcome by single-cell omics. • Functional analysis of single cells explores the heterogeneity of gene expression. • Technical challenges still limit this field, thus prompting new method developments.
 
 [Source](http://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s00253-020-10844-0&hl=en&sa=X&d=5791072071215174245&scisig=AAGBfm0tgfL6A5xEtlJQTwBajQ6JPn9uIg&nossl=1&oi=scholaralrt&hist=Jo9LMfoAAAAJ:12957046728903795407:AAGBfm35H2ybFPMRldRqiQr8moXVjz5jig&html=&eexpid=320022103)
+
+10.1007/s00253-020-10844-0
 
 ---
 
