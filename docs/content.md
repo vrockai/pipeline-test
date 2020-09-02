@@ -1,138 +1,90 @@
-## A systematic review of the effect of dietary pulses on microbial populations inhabiting the human gut.
- 31.08.2020, _CPF Marinangeli, SV Harding, M Zafron, TC Rideout_
+## Unveiling the Hidden Theatre of Microbes.
+ 01.09.2020, _T Böttcher_
 
 
-Pulses are dry leguminous crops consisting of beans, lentils, chickpeas, and peas. They are a broad category of food that are often aggregated when their contribution to healthy dietary patterns are disseminated. However, the different genera and varieties of pulses vary in composition and are consumed in different amounts, largely dictated by geographic region and ethnicity. Given the number of pulse-derived components, including fibre, that have the capacity to alter the composition of the gut microbiome, the objective of this study was to systematically review dietary pulses and pulse-derived ingredients as a broader food group, to determine their effect on gut microbiota in humans. Major scientific databases were used to conduct the search, which spanned from 1990 until February 2019. The search strategy identified 2,444 articles and five studies were included in this analysis. Two studies used whole pulses (chickpeas and pinto beans), one study used cooked navy bean powder, and the two remaining studies used pulse-derived fibre (lupin or yellow pea hulls). Although inconsistent, some studies demonstrated that whole pulses (pinto beans and chickpeas), cooked navy bean powder, and pulse-derived fibre (lupin kernel fibre), did impose changes to the microbiota that inhabit the human large intestine. However, there was considerable variability concerning the methodologies and endpoints used to decipher the observed effects on the abundance, diversity, and/or richness of specific microbiota or the microbiome. More extensive human studies that directly link the effects of specific types of pulses on the gastrointestinal microbial environment to health outcomes in the host are required.
+The chemical interactions of microbes shape and structure their communities and have important effects on the health and diseases of multicellular hosts. This special collection on Microbial Biosynthesis and Interactions sheds light on some of these interactions and takes a closer look at the molecules involved in them.
 
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2020.0028)
+[Source](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cbic.202000554)
 
-10.3920/BM2020.0028
-
----
-
-## <span style="color:#008000;">Short chain fatty acids in human gut and metabolic health</span>
-
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2020.0057)
+10.1002/cbic.202000554
 
 ---
 
-## The gut microbiome-derived metabolite trimethylamine N-oxide modulates neuroinflammation and cognitive function with aging.
- 30.08.2020, _VE Brunt, TJ LaRocca, AE Bazzoni, ZJ Sapinsley, J Miyamoto-Ditmon, RA Gioscia-Ryan, AP Neilson, CD Link, DR Seals_
+## Chitosan-chelated zinc modulates cecal microbiota and attenuates inflammatory response in weaned rats challenged with Escherichia coli.
+ 01.09.2020, _D Feng, M Zhang, S Tian, J Wang, W Zhu_
 
 
-Aging is associated with declines in cognitive performance, which are mediated in part by neuroinflammation, characterized by astrocyte activation and higher levels of pro-inflammatory cytokines; however, the upstream drivers are unknown. We investigated the potential role of the gut microbiome-derived metabolite trimethylamine N-oxide (TMAO) in modulating neuroinflammation and cognitive function with aging. Study 1: In middle-aged and older humans (65 ± 7 years), plasma TMAO levels were inversely related to performance on NIH Toolbox Cognition Battery tests of memory and fluid cognition (both r2 = 0.07, p &lt; 0.05). Study 2: In mice, TMAO concentrations in plasma and the brain increased in parallel with aging (r2 = 0.60), suggesting TMAO crosses the blood-brain barrier. The greater TMAO concentrations in old mice (27 months) were associated with higher brain pro-inflammatory cytokines and markers of astrocyte activation vs. young adult mice (6 months). Study 3: To determine if TMAO independently induces an "aging-like" decline in cognitive function, young mice (6 months) were supplemented with TMAO in chow for 6 months. Compared with controls, TMAO-supplemented mice performed worse on the novel object recognition test, indicating impaired memory and learning, and had increased neuroinflammation and markers of astrocyte activation. Study 4: Human astrocytes cultured with TMAO vs. control media exhibited changes in cellular morphology and protein markers consistent with astrocyte activation, indicating TMAO directly acts on these cells. Our results provide translational insight into a novel pathway that modulates neuroinflammation and cognitive function with aging, and suggest that TMAO might be a promising target for prevention of neuroinflammation and cognitive decline with aging.
+Escherichia coli (E. coli) infection is very common among young growing animals, and zinc supplementation is often used to alleviate inflammation induced by this disease. Therefore, the objective of this study was to evaluate whether chitosan-chelated zinc (CS-Zn) supplementation could attenuate gut injury induced by E. coli challenge and to explore how CS-Zn modulates cecal microbiota and alleviates intestinal inflammation in weaned rats challenged with E. coli. 36 weaned rats (55.65 ± 2.18 g of BW, n = 12) were divided into three treatment groups consisting of unchallenged rats fed a basal diet (Control) and two groups of rats challenged with E. coli and fed a basal diet or a diet containing 640 mg/kg CS-Zn (E. coli + CS-Zn, containing 50 mg/kg Zn) for a 14-day experiment. On days 10 to 12, each rat was given 4 ml of E. coli solution with a total bacteria count of 1010 CFU by oral gavage daily or normal saline of equal dosage. CS-Zn supplementation mitigated intestinal morphology impairment (e.g. higher crypt depth and lower macroscopic damage index) induced by E. coli challenge (P &lt; 0.05), and alleviated the increase of Myeloperoxidase (MPO) activity after E. coli challenge (P &lt; 0.05). 16S rRNA sequencing analyses revealed that E. coli challenge significantly increased the abundance of Verrucomicrobia and E. coli (P &lt; 0.05). However, CS-Zn supplementation increased the abundance of Lactobacillus and decreased the relative abundance of Proteobacteria, Desulfovibrio and E. coli (P &lt; 0.05). The concentrations of butyrate in the cecal digesta, which decreased due to the challenge, were higher in the E. coli + CS-Zn group (P &lt; 0.05). In addition, CS-Zn supplementation significantly prevented the elevation of pro-inflammatory cytokines IL-6 concentration and up-regulated the level of anti-inflammatory cytokines IL-10 in cecal mucosa induced by E. coli infection (P &lt; 0.05). In conclusion, these results indicate that CS-Zn produces beneficial effects in alleviating gut mucosal injury of E. coli challenged rats by enhancing the intestinal morphology and modulating cecal bacterial composition, as well as attenuating inflammatory response.
 
-[Source](https://link.springer.com/article/10.1007/s11357-020-00257-2)
+[Source](https://link.springer.com/article/10.1007/s12275-020-0056-x)
 
-10.1007/s11357-020-00257-2
-
----
-
-## <span style="color:#008000;">Impact of investigational microbiota therapeutic RBX2660 on the gut microbiome and resistome revealed by a placebo-controlled clinical trial</span>
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00907-9)
+10.1007/s12275-020-0056-x
 
 ---
 
-## Fecal Microbiota Transplantation for Recurrent Clostridium difficile Infection in Patients With Multiple Comorbidities: Long-Term Safety and Efficacy Results From a Tertiary Care Community Hospital.
- 31.08.2020, _C Raghu Subramanian, S Talluri, SU Khan, JA Katz, M Georgetson, P Sinh_
+## Potential Associations Among Alteration of Salivary miRNAs, Saliva Microbiome Structure, and Cognitive Impairments in Autistic Children.
+ 01.09.2020, _M Ragusa, M Santagati, F Mirabella, G Lauretta, M Cirnigliaro, D Brex, C Barbagallo, CN Domini, M Gulisano, R Barone, L Trovato, S Oliveri, G Mongelli, A Spitale, D Barbagallo, C Di Pietro, S Stefani, R Rizzo, M Purrello_
 
 
-Cure rates of Clostridium difficile infection (CDI) with fecal microbiota transplant (FMT) have been promising. However, there is debate regarding success of FMT in patients with comorbidities.
+Recent evidence has demonstrated that salivary molecules, as well as bacterial populations, can be perturbed by several pathological conditions, including neuro-psychiatric diseases. This relationship between brain functionality and saliva composition could be exploited to unveil new pathological mechanisms of elusive diseases, such as Autistic Spectrum Disorder (ASD). We performed a combined approach of miRNA expression profiling by NanoString technology, followed by validation experiments in qPCR, and 16S rRNA microbiome analysis on saliva from 53 ASD and 27 neurologically unaffected control (NUC) children. MiR-29a-3p and miR-141-3p were upregulated, while miR-16-5p, let-7b-5p, and miR-451a were downregulated in ASD compared to NUCs. Microbiome analysis on the same subjects revealed that Rothia, Filifactor, Actinobacillus, Weeksellaceae, Ralstonia, Pasteurellaceae, and Aggregatibacter increased their abundance in ASD patients, while Tannerella, Moryella and TM7-3 decreased. Variations of both miRNAs and microbes were statistically associated to different neuropsychological scores related to anomalies in social interaction and communication. Among miRNA/bacteria associations, the most relevant was the negative correlation between salivary miR-141-3p expression and Tannerella abundance. MiRNA and microbiome dysregulations found in the saliva of ASD children are potentially associated with cognitive impairments of the subjects. Furthermore, a potential cross-talking between circulating miRNAs and resident bacteria could occur in saliva of ASD.
 
-[Source](https://www.gastrores.org/index.php/Gastrores/article/view/1275)
+[Source](https://www.mdpi.com/1422-0067/21/17/6203)
 
-10.14740/gr1275
-
----
-
-## Gut commensal microbiota and decreased risk for Enterobacteriaceae bacteriuria and urinary tract infection.
- 31.08.2020, _M Magruder, E Edusei, L Zhang, S Albakry, MJ Satlin, LF Westblade, L Malha, C Sze, M Lubetzky, DM Dadhania, JR Lee_
-
-
-Urinary tract infection (UTI) is a common complication in kidney transplant recipients and can lead to significant morbidity and mortality. Recent evidence supports a role for the gut as a source for UTIs but little is known about the relationship between gut commensal bacteria and UTI development. We hypothesized that the abundance of gut commensal bacteria is associated with a lower risk of developing bacteriuria and UTIs. We performed gut microbiome profiling using 16S rRNA gene sequencing of the V4-V5 hypervariable region on 510 fecal specimens in 168 kidney transplant recipients. Fifty-one kidney transplant recipients (30%) developed Enterobacteriaceae bacteriuria within the first 6 months after transplantation (Enterobacteriaceae Bacteriuria Group) and 117 did not (No Enterobacteriaceae Bacteriuria Group). The relative abundances of Faecalibacterium and Romboutsia were significantly higher in the fecal specimens from the No Enterobacteriaceae Bacteriuria Group than those from the Enterobacteriaceae Bacteriuria Group (Adjusted P value&lt;.01). The combined relative abundance of Faecalibacterium and Romboutsia was inversely correlated with the relative abundance of Enterobacteriaceae (r = -0.13, P = .003). In a multivariable Cox Regression, a top tercile cutoff of the combined relative abundance of Faecalibacterium and Romboutsia of ≥13.7% was independently associated with a decreased risk for Enterobacteriaceae bacteriuria (hazard ratio 0.3, P = .02) and Enterobacteriaceae UTI (hazard ratio 0.4, P = .09). In conclusion, we identify bacterial taxa associated with decreased risk for Enterobacteriaceae bacteriuria and Enterobacteriaceae UTI in kidney transplant recipients, which supports future studies on modulating the gut microbiota as a novel treatment for preventing UTIs.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1805281)
-
-10.1080/19490976.2020.1805281
+10.3390/ijms21176203
 
 ---
 
-## Leveraging sequence-based faecal microbial community survey data to identify alterations in gut microbiota among patients with Parkinson's disease.
- 31.08.2020, _T Ji, H Huang, J Liu, P Tian, X Zhou, Q Tan, J Yuan, H Hua, S Ding, H Liu_
+## The importance of airway and lung microbiome in the critically ill.
+ 01.09.2020, _I Martin-Loeches, R Dickson, A Torres, H Hanberger, J Lipman, M Antonelli, G de Pascale, F Bozza, JL Vincent, S Murthy, M Bauer, J Marshall, C Cilloniz, LD Bos_
 
 
-Parkinson's disease is a common degenerative disease of the elderly. Although the majority of studies have focused on the central nervous system (CNS) features of Parkinson's Disease, recent findings suggest there is a functional link between the gut microbiome and the hallmarks of the disease. PubMed, Web of Science, EMBASE, and other Chinese and English databases were searched for relevant literature. Studies on changes to intestinal microbiota in Parkinson's patients were retrieved and systematically reviewed. Quality filtering, clustering, and species annotation were performed on 16s sequencing raw data from retrieved studies to achieve comparability across studies. Alpha diversity indices and a random effect model were used to analyse significantly altered microbiota.A total of nine studies were included in this retrospective analysis, four of which contained raw data. Alpha diversity was significantly different between control and Parkinson's Disease patients in two of the four studies. Using the raw data from four individual studies, we observed differences in the phlya Bacteroidetes and Actinobacteria. Additionally, differences were observed between control and Parkinson's Disease patients at the level of family (Prevotellacaea and Lactobacillaceae) and genus (Bifidobacterium and Clostridium). This study confirmed that changes in the microbiome are a consistent feature of Parkinson's Disease patients and therefore may contribute to the onset of disease.
+During critical illness, there are a multitude of forces such as antibiotic use, mechanical ventilation, diet changes and inflammatory responses that could bring the microbiome out of balance. This so-called dysbiosis of the microbiome seems to be involved in immunological responses and may influence outcomes even in individuals who are not as vulnerable as a critically ill ICU population. It is therefore probable that dysbiosis of the microbiome is a consequence of critical illness and may, subsequently, shape an inadequate response to these circumstances.Bronchoscopic studies have revealed that the carina represents the densest site of bacterial DNA along healthy airways, with a tapering density with further bifurcations. This likely reflects the influence of micro-aspiration as the primary route of microbial immigration in healthy adults. Though bacterial DNA density grows extremely sparse at smaller airways, bacterial signal is still consistently detectable in bronchoalveolar lavage fluid, likely reflecting the fact that lavage via a wedged bronchoscope samples an enormous surface area of small airways and alveoli. The dogma of lung sterility also violated numerous observations that long predated culture-independent microbiology.The body's resident microbial consortia (gut and/or respiratory microbiota) affect normal host inflammatory and immune response mechanisms. Disruptions in these host-pathogen interactions have been associated with infection and altered innate immunity.In this narrative review, we will focus on the rationale and current evidence for a pathogenic role of the lung microbiome in the exacerbation of complications of critical illness, such as acute respiratory distress syndrome and ventilator-associated pneumonia.
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.14952)
+[Source](https://ccforum.biomedcentral.com/articles/10.1186/s13054-020-03219-4)
 
-10.1111/ejn.14952
-
----
-
-## Plasma enterobacterial ClpB levels and ClpB- and α-MSH-reactive immunoglobulins in lung cancer patients with and without anorexia.
- 31.08.2020, _A Molfino, MI Amabile, G Imbimbo, A Emiliani, C Ramaccini, E Lahaye, K Takagi, SO Fetissov_
-
-
-Anorexia represents a common and debilitating clinical problem in patients with several forms of cancer, in particular lung cancer, but its mechanisms are not completely understood. Recently, the caseinolytic-protease-B (ClpB) homologue protein, produced by common gut bacteria, such as Escherichia coli, was identified as an antigen-mimetic of α-melanocyte-stimulating hormone (α-MSH), an anorexigenic neuropeptide. ClpB was previously detected in human plasma and displayed satietogenic properties; however, its possible relevance to cancer anorexia has not yet been investigated.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0899900720302355?via%3Dihub)
-
-10.1016/j.nut.2020.110952
+10.1186/s13054-020-03219-4
 
 ---
 
-## <span style="color:#008000;">Identification of Potential Biomarkers in the Cervicovaginal Fluid by Metabolic Profiling for Preterm Birth</span>
+## A Novel Mycovirus Evokes Transcriptional Rewiring in the Fungus Malassezia and Stimulates Beta Interferon Production in Macrophages
 
-[Source](https://www.mdpi.com/2218-1989/10/9/349)
-
----
-
-## Suppression of rice planthopper populations without affecting the rice microbiota by the entomopathogenic fungus Metarhizium anisopliae.
- 29.08.2020, _Y Peng, J Tang, M Hong, J Xie_
-
-
-Entomopathogenic fungi can regulate insect populations and function as crucial biological control agents against insect pests, but their impacts on nontarget microorganisms are poorly understood. In this study, we investigated the potential of the fungal strain Metarhizium anisopliae CQMa421 to control rice planthoppers under field conditions and its effects on rice microbiota. This fungus suppressed rice planthoppers during this period, and its control efficiency was more than 60% 7 days post application and did not significantly differ from that of the chemical treatment except in 2019. Both treatments showed a lower population of rice planthoppers than the controls. After application, M. anisopliae was maintained on rice plants for approximately 14 days, showing a decreasing trend over time. Furthermore, the results showed that the bacterial and fungal richness (operational taxonomic units) and diversity (Shannon index) did not significantly differ between the fungal treatment and the controls after application. The major bacterial taxa of Proteobacteria (including Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, and Deltaproteobacteria), Actinobacteria, Bacteroidetes and Cyanobacteria accounted for more than 80% of the bacterial community after fungal application, and the major fungal taxa of Ascomycota (including Eurotiomycetes, Dothideomycetes and Sordariomycetes), and Basidiomycota (including Ustilaginomycetes) represented more than 90% of fungal community. However, the microbial communities of the rice phyllosphere did not significantly change after entomopathogenic agent application, indicating that the indigenous microbial communities may adapt to fungal insecticide application. Taken together, the results suggest that this fungal agent has good potential for rice planthopper control with no substantial effects on rice microbial communities.IMPORTANCE Entomopathogenic fungi may be used as crucial biocontrol agents for the control of insect pests, but few effective fungal strains have been reported for the control of the rice planthopper, a major pest of rice. More importantly, the impacts of fungal insecticide application on nontarget microorganisms have not been well evaluated, especially under field conditions. Therefore, in this study, we investigated the effects of the fungal strain M. anisopliae CQMa421 on rice planthopper populations from 2017 to 2019 and evaluated its potential impacts on the microbiota of rice plants after application. The results suggested that this fungal agent has good potential for use in the control of rice planthoppers with no significant effects on rice microbial communities, representing an alternative strategy for the control of rice pests.
-
-[Source](https://aem.asm.org/content/early/2020/08/24/AEM.01337-20.abstract)
-
-10.1128/AEM.01337-20
+[Source](https://mbio.asm.org/content/11/5/e01534-20.abstract)
 
 ---
 
-## Cold Plasma Treatment of Sunflower Seeds Modulates Plant-Associated Microbiome and Stimulates Root and Lateral Organ Growth
+## A Novel Virus Alters Gene Expression and Vacuolar Morphology in Malassezia Cells and Induces a TLR3-Mediated Inflammatory Immune Response
 
-[Source](https://www.frontiersin.org/articles/10.3389/fpls.2020.568924/full)
-
----
-
-## Bradymonabacteria, a novel bacterial predator group with versatile survival strategies in saline environments.
- 01.09.2020, _DS Mu, S Wang, QY Liang, ZZ Du, R Tian, Y Ouyang, XP Wang, A Zhou, Y Gong, GJ Chen, J Van Nostrand, Y Yang, J Zhou, ZJ Du_
-
-
-Bacterial predation is an important selective force in microbial community structure and dynamics. However, only a limited number of predatory bacteria have been reported, and their predatory strategies and evolutionary adaptations remain elusive. We recently isolated a novel group of bacterial predators, Bradymonabacteria, representative of the novel order Bradymonadales in δ-Proteobacteria. Compared with those of other bacterial predators (e.g., Myxococcales and Bdellovibrionales), the predatory and living strategies of Bradymonadales are still largely unknown.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00902-0)
-
-10.1186/s40168-020-00902-0
+[Source](https://mbio.asm.org/content/11/5/e01521-20)
 
 ---
 
-## Ultrafast and accurate 16S rRNA microbial community analysis using Kraken 2.
- 01.09.2020, _J Lu, SL Salzberg_
+## Challenges in Human Skin Microbial Profiling for Forensic Science: A Review
 
-
-For decades, 16S ribosomal RNA sequencing has been the primary means for identifying the bacterial species present in a sample with unknown composition. One of the most widely used tools for this purpose today is the QIIME (Quantitative Insights Into Microbial Ecology) package. Recent results have shown that the newest release, QIIME 2, has higher accuracy than QIIME, MAPseq, and mothur when classifying bacterial genera from simulated human gut, ocean, and soil metagenomes, although QIIME 2 also proved to be the most computationally expensive. Kraken, first released in 2014, has been shown to provide exceptionally fast and accurate classification for shotgun metagenomics sequencing projects. Bracken, released in 2016, then provided users with the ability to accurately estimate species or genus relative abundances using Kraken classification results. Kraken 2, which matches the accuracy and speed of Kraken 1, now supports 16S rRNA databases, allowing for direct comparisons to QIIME and similar systems.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00900-2)
-
-10.1186/s40168-020-00900-2
+[Source](https://www.mdpi.com/2073-4425/11/9/1015)
 
 ---
 
-## Clinical characteristics of children and young people hospitalised with covid-19 in the United Kingdom: prospective multicentre observational cohort study
+## Context-aware dimensionality reduction deconvolutes gut microbial community dynamics
 
-[Source](https://www.bmj.com/content/370/bmj.m3249)
+[Source](https://www.nature.com/articles/s41587-020-0660-7)
+
+---
+
+## The relationship between microbiomes and selective regimes in the sponge genus Ircinia
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.31.275412v1)
+
+---
+
+## Flow cytometry with cell sorting and sequencing as a tool for the study of the Humboldt Current krill stomach microbiota
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.08.31.275677v1)
+
+---
+
+## Researchers receive $3 million NSF grant to ‘understand the rules of life
+
+[Source](https://www.eurekalert.org/pub_releases/2020-08/uoo-rr083120.php)
 
 ---
 
