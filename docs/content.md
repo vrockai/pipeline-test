@@ -106,15 +106,27 @@ Entomopathogenic fungi can regulate insect populations and function as crucial b
 
 ---
 
-## Bradymonabacteria, a novel bacterial predator group with versatile survival strategies in saline environments
+## Bradymonabacteria, a novel bacterial predator group with versatile survival strategies in saline environments.
+ 01.09.2020, _DS Mu, S Wang, QY Liang, ZZ Du, R Tian, Y Ouyang, XP Wang, A Zhou, Y Gong, GJ Chen, J Van Nostrand, Y Yang, J Zhou, ZJ Du_
+
+
+Bacterial predation is an important selective force in microbial community structure and dynamics. However, only a limited number of predatory bacteria have been reported, and their predatory strategies and evolutionary adaptations remain elusive. We recently isolated a novel group of bacterial predators, Bradymonabacteria, representative of the novel order Bradymonadales in δ-Proteobacteria. Compared with those of other bacterial predators (e.g., Myxococcales and Bdellovibrionales), the predatory and living strategies of Bradymonadales are still largely unknown.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00902-0)
 
+10.1186/s40168-020-00902-0
+
 ---
 
-## Ultrafast and accurate 16S rRNA microbial community analysis using Kraken 2
+## Ultrafast and accurate 16S rRNA microbial community analysis using Kraken 2.
+ 01.09.2020, _J Lu, SL Salzberg_
+
+
+For decades, 16S ribosomal RNA sequencing has been the primary means for identifying the bacterial species present in a sample with unknown composition. One of the most widely used tools for this purpose today is the QIIME (Quantitative Insights Into Microbial Ecology) package. Recent results have shown that the newest release, QIIME 2, has higher accuracy than QIIME, MAPseq, and mothur when classifying bacterial genera from simulated human gut, ocean, and soil metagenomes, although QIIME 2 also proved to be the most computationally expensive. Kraken, first released in 2014, has been shown to provide exceptionally fast and accurate classification for shotgun metagenomics sequencing projects. Bracken, released in 2016, then provided users with the ability to accurately estimate species or genus relative abundances using Kraken classification results. Kraken 2, which matches the accuracy and speed of Kraken 1, now supports 16S rRNA databases, allowing for direct comparisons to QIIME and similar systems.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00900-2)
+
+10.1186/s40168-020-00900-2
 
 ---
 
