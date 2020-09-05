@@ -1,121 +1,169 @@
-## Public understanding of local tornado characteristics and perceived protection from land-surface features in Tennessee, USA.
- 09.03.2020, _KN Ellis, LR Mason, KN Gassert_
+## Cytometric fingerprints of gut microbiota predict Crohn's disease state.
+ 03.09.2020, _P Rubbens, R Props, FM Kerckhof, N Boon, W Waegeman_
 
 
-_Attitude, Disaster Planning, Female, Humans, Male, Perception, Public Opinion, Tennessee, Tornadoes_
-Misunderstandings about the influence of land-surface features on tornado frequency and other tornado-related misconceptions may affect how people prepare for and behave during hazardous weather events. This research uses a phone survey (n = 1804) to assess how participants in three regions of Tennessee perceive their local tornado characteristics (i.e., direction of travel, seasonality, and diurnal timing) and their belief in protection from land-surface features (i.e., hills, water bodies, and buildings). Region of residence influences most beliefs in local tornado characteristics, and demographic characteristics, specifically age and gender, also have some influence. Residents in hilly East Tennessee are more likely to believe they are protected by hills and underestimate the proportion of nocturnal tornadoes, while residents in West Tennessee are more likely to believe they are protected by water bodies, perhaps because of proximity to the Mississippi River. Outside of the typical severe-weather season, participants were uncertain of when tornadoes were likely to occur; specifically, they did not recognize their local wintertime tornado activity. Because public perceptions are related to local features, local organizations and personnel, for example National Weather Service offices and broadcast meteorologists, may be most helpful in dispelling these misconceptions.
+Variations in the gut microbiome have been associated with changes in health state such as Crohn's disease (CD). Most surveys characterize the microbiome through analysis of the 16S rRNA gene. An alternative technology that can be used is flow cytometry. In this report, we reanalyzed a disease cohort that has been characterized by both technologies. Changes in microbial community structure are reflected in both types of data. We demonstrate that cytometric fingerprints can be used as a diagnostic tool in order to classify samples according to CD state. These results highlight the potential of flow cytometry to perform rapid diagnostics of microbiome-associated diseases.
 
-[Source](https://www.nature.com/articles/s41467-020-18150-z)
+[Source](https://doi.org/10.1038/s41396-020-00762-4)
 
-10.1371/journal.pone.0219897
-
----
-
-## Misconceptions about weather and seasonality must not misguide COVID-19 response
-
-[Source](https://www.nature.com/articles/s41467-020-18150-z)
+10.1038/s41396-020-00762-4
 
 ---
 
-## Relationship between the composition of the intestinal microbiota and the tracheal and intestinal colonization by opportunistic pathogens in intensive care patients.
- 03.09.2020, _C Fontaine, L Armand-Lefèvre, M Magnan, A Nazimoudine, JF Timsit, E Ruppé_
+## Is inflammageing influenced by the microbiota in the aged gut? A systematic review
 
-
-Infections caused by multidrug-resistant Gram-negative bacilli (MDR-GNB) are a major issue in intensive care. The intestinal and oropharyngeal microbiota being the reservoir of MDR-GNB. Our main objective was to assess the link between the composition of the intestinal microbiota and the tracheal and intestinal colonization by MDR-GNB, and also by Enterococcus spp. and yeasts.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237260)
-
-10.1371/journal.pone.0237260
+[Source](https://doi.org/10.1016/j.exger.2020.111079)
 
 ---
 
-## Widespread transfer of mobile antibiotic resistance genes within individual gut microbiomes revealed through bacterial Hi-C.
- 02.09.2020, _AG Kent, AC Vill, Q Shi, MJ Satlin, IL Brito_
+## The Gut Microbiome, Inflammation, and Salt-Sensitive Hypertension.
+ 04.09.2020, _F Elijovich, CL Laffer, M Sahinoz, A Pitzer, JF Ferguson, A Kirabo_
 
 
-The gut microbiome harbors a 'silent reservoir' of antibiotic resistance (AR) genes that is thought to contribute to the emergence of multidrug-resistant pathogens through horizontal gene transfer (HGT). To counteract the spread of AR, it is paramount to know which organisms harbor mobile AR genes and which organisms engage in HGT. Despite methods that characterize the overall abundance of AR genes in the gut, technological limitations of short-read sequencing have precluded linking bacterial taxa to specific mobile genetic elements (MGEs) encoding AR genes. Here, we apply Hi-C, a high-throughput, culture-independent method, to surveil the bacterial carriage of MGEs. We compare two healthy individuals with seven neutropenic patients undergoing hematopoietic stem cell transplantation, who receive multiple courses of antibiotics, and are acutely vulnerable to the threat of multidrug-resistant infections. We find distinct networks of HGT across individuals, though AR and mobile genes are associated with more diverse taxa within the neutropenic patients than the healthy subjects. Our data further suggest that HGT occurs frequently over a several-week period in both cohorts. Whereas most efforts to understand the spread of AR genes have focused on pathogenic species, our findings shed light on the role of the human gut microbiome in this process.
+Salt sensitivity of blood pressure (SSBP) is an independent predictor of death due to cardiovascular events and affects nearly 50% of the hypertensive and 25% of the normotensive population. Strong evidence indicates that reducing sodium (Na+) intake decreases blood pressure (BP) and cardiovascular events. The precise mechanisms of how dietary Na+ contributes to elevation and cardiovascular disease remain unclear. The goal of this review is to discuss mechanisms of salt-induced cardiovascular disease and how the microbiome may play a role.
 
-[Source](https://www.nature.com/articles/s41467-020-18164-7)
+[Source](https://doi.org/10.1007/s11906-020-01091-9)
 
-10.1038/s41467-020-18164-7
-
----
-
-## Modulation of gut microbiota in healthy rats after exposure to nutritional supplements.
- 26.08.2020, _M Čoklo, DR Maslov, S Kraljević Pavelić_
-
-
-Rats are experimental animals, frequently used as model organisms in the biomedical studies, and increasingly used to study the gut microbiota. Specifically, the aim of latter studies is either the elucidation of relationship between intestinal dysbiosis and diseases or the determination of nutrients or pharmaceutical agents which can cause the modulation in the presence or abundance of gut microbiota.
-
-[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1779002)
-
-10.1080/19490976.2020.1779002
+10.1007/s11906-020-01091-9
 
 ---
 
-## Anthrax toxin component, Protective Antigen, protects insects from bacterial infections.
- 31.08.2020, _S Alameh, G Bartolo, S O'Brien, EA Henderson, LO Gonzalez, S Hartmann, CP Klimko, JL Shoe, CK Cote, LK Grill, A Levitin, M Martchenko Shilman_
+## Modulatory Mechanisms of the NLRP3 Inflammasomes in Diabetes.
+ 02.09.2020, _S Ding, S Xu, Y Ma, G Liu, H Jang, J Fang_
 
 
-Anthrax is a major zoonotic disease of wildlife, and in places like West Africa, it can be caused by Bacillus anthracis in arid nonsylvatic savannahs, and by B. cereus biovar anthracis (Bcbva) in sylvatic rainforests. Bcbva-caused anthrax has been implicated in as much as 38% of mortality in rainforest ecosystems, where insects can enhance the transmission of anthrax-causing bacteria. While anthrax is well-characterized in mammals, its transmission by insects points to an unidentified anthrax-resistance mechanism in its vectors. In mammals, a secreted anthrax toxin component, 83 kDa Protective Antigen (PA83), binds to cell-surface receptors and is cleaved by furin into an evolutionary-conserved PA20 and a pore-forming PA63 subunits. We show that PA20 increases the resistance of Drosophila flies and Culex mosquitoes to bacterial challenges, without directly affecting the bacterial growth. We further show that the PA83 loop known to be cleaved by furin to release PA20 from PA63 is, in part, responsible for the PA20-mediated protection. We found that PA20 binds directly to the Toll activating peptidoglycan-recognition protein-SA (PGRP-SA) and that the Toll/NF-κB pathway is necessary for the PA20-mediated protection of infected flies. This effect of PA20 on innate immunity may also exist in mammals: we show that PA20 binds to human PGRP-SA ortholog. Moreover, the constitutive activity of Imd/NF-κB pathway in MAPKK Dsor1 mutant flies is sufficient to confer the protection from bacterial infections in a manner that is independent of PA20 treatment. Lastly, Clostridium septicum alpha toxin protects flies from anthrax-causing bacteria, showing that other pathogens may help insects resist anthrax. The mechanism of anthrax resistance in insects has direct implications on insect-mediated anthrax transmission for wildlife management, and with potential for applications, such as reducing the sensitivity of pollinating insects to bacterial pathogens.
+_Animals, Diabetes Mellitus, Type 1, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Glucose Intolerance, Humans, Inflammasomes, Inflammation, Insulin Resistance, Interleukin-1beta, NLR Family, Pyrin Domain-Containing 3 Protein, Pyroptosis_
+The inflammasome is a multiprotein complex that acts to enhance inflammatory responses by promoting the production and secretion of key cytokines. The best-known inflammasome is the NLRP3 (nucleotide-binding oligomerization domain-like receptor [NLR] family pyrin domain-containing 3) inflammasome. The evidence has shown that the NLRP3 inflammasome, IL-1β, thioredoxin-interacting protein (TXNIP), and pyroptosis play vital roles in the development of diabetes. This review summarizes the regulation of type 1 diabetes mellitus (T1DM) and type 2 diabetes mellitus (T2DM) by NLRP3 via modulation of glucose tolerance, insulin resistance, inflammation, and apoptosis mediated by endoplasmic reticulum stress in adipose tissue. Moreover, NLRP3 participates in intestinal homeostasis and inflammatory conditions, and NLRP3-deficient mice experience intestinal lesions. The diversity of an individual's gut microbiome and the resultant microbial metabolites determines the extent of their involvement in the physiological and pathological mechanisms within the gut. As such, further study of the interaction between the NLRP3 inflammasome and the complex intestinal environment in disease development is warranted to discover novel therapies for the treatment of diabetes.
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008836)
+[Source](https://doi.org/10.1007/s00125-020-05268-4)
 
-10.1371/journal.ppat.1008836
-
----
-
-## Environmental gut bacteria in European honey bees (Apis mellifera) from Australia and their relationship to the chalkbrood disease.
- 03.09.2020, _S Khan, D Somerville, M Frese, M Nayudu_
-
-
-We report on aerobic "environmental" bacteria isolated from European honey bees (Apis mellifera). We determined the number of culturable aerobic bacteria in the gut of nurse bees sampled from locations around Australia. Bees from healthy colonies had 107-108 aerobic bacteria per g of bee gut, while bees from colonies with chalkbrood consistently had significantly fewer bacteria (104-105 bacteria per g). When colonies recovered from chalkbrood, bacterial numbers returned to normal levels, suggesting that counting aerobic bacteria in the gut could be used to predict an outbreak of the disease. Furthermore, Western Australian bees from the "Better Bees" program (bred to promote hygienic behaviour) had significantly higher numbers of aerobic gut bacteria compared to regular bees from healthy colonies. Bacteria with the ability to inhibit the chalkbrood pathogen were found in most bees from regular colonies (&gt; 60%) but only in a few "Better Bees" (10%). Phylogenetic analysis of aerobic bacterial isolates that inhibited the chalkbrood pathogen revealed a close relationship (&gt;97% sequence identity) to the genera Bacillus, Klebsiella, Pantoea, Hafnia, and Enterobacter (bacteria that have previously been isolated from honey bees), but we also isolated Maccrococcus and Frigoribacterium species (bacteria that were not previously identified in bees). Finally, we investigated the ability of bacteria to inhibit the chalkbrood fungus Ascosphaera apis. Mass spectroscopy analysis revealed that the bee gut isolates Frigoribacterium sp. and Bacillus senegalensis produce gluconic acid. We further found that this simple sugar is involved in chalkbrood fungal hyphal lysis and cytoplasmic leakage. Our findings suggest that "environmental" gut bacteria may help bees to control the chalkbrood pathogen.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238252)
-
-10.1371/journal.pone.0238252
+10.3390/biom9120850
 
 ---
 
-## Gut Microbiome Composition is Associated with Age and Memory Performance in Pet Dogs.
- 27.08.2020, _E Kubinyi, S Bel Rhali, S Sándor, A Szabó, T Felföldi_
+## Intestinal microbial metabolites in human metabolism and type 2 diabetes
 
-
-Gut microbiota can crucially influence behavior and neurodevelopment. Dogs show unique similarities to humans in their physiology and may naturally develop dementia-like cognitive decline. We assessed 29 pet dogs' cognitive performance in a memory test and analyzed the bacterial 16S rRNA gene from fecal samples collected right after the behavioral tests. The major phyla identified in the dog microbiomes were Bacteroidetes, Firmicutes, and Fusobacteria, each represented by &gt;20% of the total bacterial community. Fewer Fusobacteria were found in older dogs and better memory performance was associated with a lower proportion of Actinobacteria. Our preliminary findings support the existence of links between gut microbiota, age, and cognitive performance in pet dogs.
-
-[Source](https://www.mdpi.com/2076-2615/10/9/1488)
-
-10.3390/ani10091488
+[Source](https://doi.org/10.1007/s00125-020-05268-4)
 
 ---
 
-## Characterizing the nectar microbiome of the non-native tropical milkweed, Asclepias curassavica, in an urban environmen
+## Gut Microbiota Dysbiosis as a Target for Improved Post-Surgical Outcomes and Improved Patient Care. A Review of Current Literature
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237561)
-
----
-
-## Analyzing the Diversity of Microbial Communities Residing in Marine Ecosystems
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119143802.ch23)
+[Source](https://doi.org/10.1097/shk.0000000000001654)
 
 ---
 
-## Ten simple rules to power drug discovery with data science
+## The Role of the Microbiome in Cancer and Therapy Efficacy: Focus on Lung Cancer.
+ 03.09.2020, _A Halley, A Leonetti, A Gregori, M Tiseo, DM Deng, E Giovannetti, GJ Peters_
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008126)
+
+The microbiome is extremely important for human health; more recently its role in the context of cancer became clear. Microbial effects range from enhancing cancer immunity and cancer therapy efficacy, to promoting cancer progression and inhibiting treatment efficacy. These broad implications led researchers to investigate these specific interactions, as well as how modification of the microbiome can improve cancer survival and treatment efficacy. While these interactions are better established for cancers such as gastric cancer, they are far less understood in others. As non-small cell lung cancer (NSCLC) makes up the majority of lung cancer cases, and is among the top causes of cancer deaths worldwide, understanding the mechanisms by which the microbiome may impact progression and treatment is crucial to improve patient survival and treatment response. A literature review was conducted to reveal the crosslink between human microbiome and lung cancer. This includes immune priming, induction of pro- or anti-tumor response, and the local effects of intra-tumoral microbiota. Overall, this is a complex multifactorial relationship, and there are broad implications as to how this knowledge can improve cancer treatment. Solutions include manipulation of the microbiome using probiotics, bacterial vaccines and antibiotics. Bacteria biomarkers may also be used as a diagnostic tool.
+
+[Source](https://doi.org/10.21873/anticanres.14484)
+
+10.21873/anticanres.14484
 
 ---
 
-## Sample pre-treatment procedures for the omics analysis of human gut microbiota: turning points, tips and tricks for gene sequencing and metabolomics
+## Breast and Gut Microbiota Action Mechanisms in Breast Cancer Pathogenesis and Treatment.
+ 03.09.2020, _A Laborda-Illanes, L Sanchez-Alcoholado, ME Dominguez-Recio, B Jimenez-Rodriguez, R Lavado, I Comino-Méndez, E Alba, MI Queipo-Ortuño_
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0731708520314783)
+
+In breast cancer (BC) the employment of sequencing technologies for metagenomic analyses has allowed not only the description of the overall metagenomic landscape but also the specific microbial changes and their functional implications. Most of the available data suggest that BC is related to bacterial dysbiosis in both the gut microenvironment and breast tissue. It is hypothesized that changes in the composition and functions of several breast and gut bacterial taxa may contribute to BC development and progression through several pathways. One of the most prominent roles of gut microbiota is the regulation of steroid-hormone metabolism, such as estrogens, a component playing an important role as risk factor in BC development, especially in postmenopausal women. On the other hand, breast and gut resident microbiota are the link in the reciprocal interactions between cancer cells and their local environment, since microbiota are capable of modulating mucosal and systemic immune responses. Several in vivo and in vitro studies show remarkable evidence that diet, probiotics and prebiotics could exert important anticarcinogenic effects in BC. Moreover, gut microbiota have an important role in the metabolism of chemotherapeutic drugs and in the activity of immunogenic chemotherapies since they are a potential dominant mediator in the response to cancer therapy. Then, the microbiome impact in BC is multi-factorial, and the gut and breast tissue bacteria population could be important in regulating the local immune system, in tumor formation and progression and in therapy response and/or resistance.
+
+[Source](https://doi.org/10.3390/cancers12092465)
+
+10.3390/cancers12092465
 
 ---
 
-## Beyond Conventional Models: Expanding Experimental Systems for Animal-Microbiome Interaction Research
+## Influence of Resveratrol on the Cardiovascular Health Effects of Chronic Kidney Disease.
+ 03.09.2020, _JY Song, TC Shen, YC Hou, JF Chang, CL Lu, WC Liu, PJ Chen, BH Chen, CM Zheng, KC Lu_
 
-[Source](https://www.frontiersin.org/research-topics/16111/beyond-conventional-models-expanding-experimental-systems-for-animal-microbiome-interaction-research)
+
+Cardiovascular disease (CVD) is closely related to chronic kidney disease (CKD), and patients with CKD have a high risk of CVD-related mortality. Traditional CVD risk factors cannot account for the higher cardiovascular risk of patients with CKD, and standard CVD interventions cannot reduce the mortality rates among patients with CKD. Nontraditional factors related to mineral and vitamin-D metabolic disorders provide some explanation for the increased CVD risk. Non-dialyzable toxins, indoxyl sulfate (IS) and p-cresol sulfate (PCS)-produced in the liver by colonic microorganisms-cause kidney and vascular dysfunction. Plasma trimethylamine-N-oxide (TMAO)-a gut microbe-dependent metabolite of dietary L-carnitine and choline-is elevated in CKD and related to vascular disease, resulting in poorer long-term survival. Therefore, the modulation of colonic flora can improve prospects for patients with CKD. Managing metabolic syndrome, anemia, and abnormal mineral metabolism is recommended for the prevention of CVD in patients with CKD. Considering nontraditional risk factors, the use of resveratrol (RSV), a nutraceutical, can be helpful for patients with CVD and CKD. This paper discusses the beneficial effects of RSV on biologic, pathophysiological and clinical responses, including improvements in intestinal epithelial integrity, modulation of the intestinal microbiota and reduction in hepatic synthesis of IS, PCS and TMAO in patients with CVD and CKD.
+
+[Source](https://doi.org/10.3390/ijms21176294)
+
+10.3390/ijms21176294
+
+---
+
+## An RNA-centric view on gut Bacteroidetes
+
+[Source](https://www.degruyter.com/view/journals/bchm/ahead-of-print/article-10.1515-hsz-2020-0230/article-10.1515-hsz-2020-0230.xml)
+
+---
+
+## Exploratory Research on the Relationship between Human Gut Microbiota and Portal Hypertension.
+ 03.09.2020, _K Yokoyama, N Tsuchiya, R Yamauchi, T Miyayama, Y Uchida, K Shibata, H Fukuda, K Umeda, K Takata, T Tanaka, S Inomata, D Morihara, Y Takeyama, S Shakado, S Sakisaka, F Hirai_
+
+
+Objective The relationship between gut microbiota and portal hypertension remains unclear. We investigated the characteristics of the gut microbiota in portal hypertension patients with esophago-gastric varices and liver cirrhosis. Methods Thirty-six patients (12 patients with portal hypertension, 12 healthy controls, and 12 non-cirrhosis patients) were enrolled in this university hospital study. Intestinal bacteria and statistical analyses were performed up to the genus level using the terminal restriction fragment length polymorphism method targeting 16S ribosomal RNA genes, with diversified regions characterizing each bacterium. Results Levels of Lactobacillales were significantly higher (p=0.045) and those of Clostridium cluster IV significantly lower (p=0.014) in patients with portal hypertension than in other patients. This Clostridium cluster contains many butanoic acid-producing strains, including Ruminococcace and Faecalibacterium prausnitzii. Clostridium cluster IX levels were also significantly lower (p=0.045) in portal hypertension patients than in other patients. There are many strains of Clostridium that produce propionic acid, and the effects on the host and the function of these bacterial species in the human intestine remain unknown. Regarding the Bifidobacterium genus, which is supposed to decrease as a result of cirrhosis, no significant decrease was observed in this study. Conclusion In the present study, we provided information on the characteristics of the gut microbiota of portal hypertension patients with esophago-gastric varices due to liver cirrhosis. In the future, we aim to develop probiotic treatments following further analyses that include the species level, such as the intestinal flora analysis method and next-generation sequencers.
+
+[Source](https://doi.org/10.2169/internalmedicine.4628-20)
+
+10.2169/internalmedicine.4628-20
+
+---
+
+## Gut microbiome alterations in type 1 autoimmune pancreatitis after induction of remission by prednisolone
+
+[Source](https://doi.org/10.1111/cei.13509)
+
+---
+
+## Type I IFNs and CD8 T cells increase intestinal barrier permeability after chronic viral infection.
+ 04.09.2020, _L Labarta-Bajo, SP Nilsen, G Humphrey, T Schwartz, K Sanders, A Swafford, R Knight, JR Turner, EI Zúñiga_
+
+
+Intestinal barrier leakage constitutes a potential therapeutic target for many inflammatory diseases and represents a disease progression marker during chronic viral infections. However, the causes of altered gut barrier remain mostly unknown. Using murine infection with lymphocytic choriomeningitis virus, we demonstrate that, in contrast to an acute viral strain, a persistent viral isolate leads to long-term viral replication in hematopoietic and mesenchymal cells, but not epithelial cells (IECs), in the intestine. Viral persistence drove sustained intestinal epithelial barrier leakage, which was characterized by increased paracellular flux of small molecules and was associated with enhanced colitis susceptibility. Type I IFN signaling caused tight junction dysregulation in IECs, promoted gut microbiome shifts and enhanced intestinal CD8 T cell responses. Notably, both type I IFN receptor blockade and CD8 T cell depletion prevented infection-induced barrier leakage. Our study demonstrates that infection with a virus that persistently replicates in the intestinal mucosa increases epithelial barrier permeability and reveals type I IFNs and CD8 T cells as causative factors of intestinal leakage during chronic infections.
+
+[Source](https://doi.org/10.1084/jem.20192276)
+
+10.1084/jem.20192276
+
+---
+
+## Prokaryotic and microeukaryotic communities in an experimental rice plantation under long-term use of pesticides
+
+[Source](https://doi.org/10.1007/s11356-020-10614-5)
+
+---
+
+## Effect of natural microbiome and culturable biosurfactants-producing bacterial consortia of freshwater lake on petroleum-hydrocarbon degradation
+
+[Source](https://doi.org/10.1016/j.scitotenv.2020.141720)
+
+---
+
+## Alterations in the gut-associated microbiota of juvenile Caribbean spiny lobsters Panulirus argus (Latreille, 1804) infected with PaV1
+
+[Source](https://doi.org/10.1016/j.jip.2020.107457)
+
+---
+
+## Effects of Zinc Oxide and Arginine on the Intestinal Microbiota and Immune Status of Weaned Pigs Subjected to High Ambient Temperature
+
+[Source](https://doi.org/10.3390/ani10091537)
+
+---
+
+## The Microbiome of Neotropical Water Striders and Its Potential Role in Codiversification
+
+[Source](https://doi.org/10.3390/insects11090578)
+
+---
+
+## Effects of probiotic bacterium Weissella cibaria CMU on periodontal health and microbiota: a randomised, double-blind, placebo-controlled trial
+
+[Source](https://doi.org/10.1186/s12903-020-01231-2)
+
+---
+
+## A 500-year tale of co-evolution, adaptation, and virulence: Helicobacter pylori in the Americas
+
+[Source](https://doi.org/10.1038/s41396-020-00758-0)
 
 ---
 
