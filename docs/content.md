@@ -28,28 +28,27 @@ Salt sensitivity of blood pressure (SSBP) is an independent predictor of death d
 
 ---
 
-## Modulatory Mechanisms of the NLRP3 Inflammasomes in Diabetes.
- 02.09.2020, _S Ding, S Xu, Y Ma, G Liu, H Jang, J Fang_
+## Intestinal microbial metabolites in human metabolism and type 2 diabetes.
+ 03.09.2020, _H Herrema, JH Niess_
 
 
-_Animals, Diabetes Mellitus, Type 1, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Glucose Intolerance, Humans, Inflammasomes, Inflammation, Insulin Resistance, Interleukin-1beta, NLR Family, Pyrin Domain-Containing 3 Protein, Pyroptosis_
-The inflammasome is a multiprotein complex that acts to enhance inflammatory responses by promoting the production and secretion of key cytokines. The best-known inflammasome is the NLRP3 (nucleotide-binding oligomerization domain-like receptor [NLR] family pyrin domain-containing 3) inflammasome. The evidence has shown that the NLRP3 inflammasome, IL-1β, thioredoxin-interacting protein (TXNIP), and pyroptosis play vital roles in the development of diabetes. This review summarizes the regulation of type 1 diabetes mellitus (T1DM) and type 2 diabetes mellitus (T2DM) by NLRP3 via modulation of glucose tolerance, insulin resistance, inflammation, and apoptosis mediated by endoplasmic reticulum stress in adipose tissue. Moreover, NLRP3 participates in intestinal homeostasis and inflammatory conditions, and NLRP3-deficient mice experience intestinal lesions. The diversity of an individual's gut microbiome and the resultant microbial metabolites determines the extent of their involvement in the physiological and pathological mechanisms within the gut. As such, further study of the interaction between the NLRP3 inflammasome and the complex intestinal environment in disease development is warranted to discover novel therapies for the treatment of diabetes.
-
-[Source](https://doi.org/10.1007/s00125-020-05268-4)
-
-10.3390/biom9120850
-
----
-
-## Intestinal microbial metabolites in human metabolism and type 2 diabetes
+Humans with the metabolic syndrome and type 2 diabetes have an altered gut microbiome. Emerging evidence indicates that it is not only the microorganisms and their structural components, but also their metabolites that influences the host and contributes to the development of the metabolic syndrome and type 2 diabetes. Here, we discuss some of the mechanisms underlying how microbial metabolites are recognised by the host or are further processed endogenously in the context of type 2 diabetes. We discuss the possibility that gut-derived microbial metabolites fuel the development of the metabolic syndrome and type 2 diabetes. Graphical abstract.
 
 [Source](https://doi.org/10.1007/s00125-020-05268-4)
 
+10.1007/s00125-020-05268-4
+
 ---
 
-## Gut Microbiota Dysbiosis as a Target for Improved Post-Surgical Outcomes and Improved Patient Care. A Review of Current Literature
+## Gut Microbiota Dysbiosis as a Target for Improved Post-Surgical Outcomes and Improved Patient Care. A Review of Current Literature.
+ 03.09.2020, _FM Dawoodbhoy, BK Patel, K Patel, M Bhatia, CN Lee, SM Moochhala_
+
+
+Critical illness results in significant changes in the human gut microbiota, leading to the breakdown of the intestinal barrier function, which plays a role in the pathogenesis of multiple organ dysfunction. Patients with sepsis/acute respiratory distress syndrome (ARDS) have a profoundly distorted intestinal microbiota rhythm, which plays a considerable role in the development of gut-derived infections and intestinal dysbiosis. Despite recent medical developments, post-surgical complications are associated with a high morbidity and mortality rate. Bacterial translocation (BT), which is the movement of bacteria and bacterial products across the intestinal barrier, was shown to be a mechanism behind sepsis. Current research is focusing on a solution by addressing significant factors that contribute to intestinal dysbiosis, which subsequently leads to multiple organ failure and, thus, mortality. It may, however, be challenging to manipulate the microbiota in critically ill patients for enhanced therapeutic gain. Probiotic manipulation is advantageous for maintaining the gut-barrier defense and for modulating the immune response. Based on available published research, this review aims to address the application of potential strategies in the intensive care unit (ICU), supplemented with current therapeutics by the administration of probiotics, prebiotics, and fecal microbiota transplant, to reduce post-surgical complications of sepsis/ARDS in critically ill patients.
 
 [Source](https://doi.org/10.1097/shk.0000000000001654)
+
+10.1097/SHK.0000000000001654
 
 ---
 
@@ -89,9 +88,15 @@ Cardiovascular disease (CVD) is closely related to chronic kidney disease (CKD),
 
 ---
 
-## An RNA-centric view on gut Bacteroidetes
+## An RNA-centric view on gut Bacteroidetes.
+ 03.09.2020, _D Ryan, G Prezza, AJ Westermann_
+
+
+Bacteria employ noncoding RNAs to maintain cellular physiology, adapt global gene expression to fluctuating environments, sense nutrients, coordinate their interaction with companion microbes and host cells, and protect themselves against bacteriophages. While bacterial RNA research has made fundamental contributions to biomedicine and biotechnology, the bulk of our knowledge of RNA biology stems from the study of a handful of aerobic model species. In comparison, RNA research is lagging in many medically relevant obligate anaerobic species, in particular the numerous commensal bacteria comprising our gut microbiota. This review presents a guide to RNA-based regulatory mechanisms in the phylum Bacteroidetes, focusing on the most abundant bacterial genus in the human gut, Bacteroides spp. This includes recent case reports on riboswitches, an mRNA leader, and cis- and transencoded small RNAs (sRNAs) in Bacteroides spp. and a survey of CRISPR-Cas systems across Bacteroidetes. Recent work from our laboratory now suggests the existence of hundreds of noncoding RNA candidates in Bacteroides thetaiotaomicron, the emerging model organism for functional microbiota research. Based on these collective observations, we predict mechanistic and functional commonalities and differences between Bacteroides sRNAs and those of other model bacteria, and outline open questions and tools needed to boost Bacteroidetes RNA research.
 
 [Source](https://www.degruyter.com/view/journals/bchm/ahead-of-print/article-10.1515-hsz-2020-0230/article-10.1515-hsz-2020-0230.xml)
+
+10.1515/hsz-2020-0230
 
 ---
 
@@ -107,9 +112,15 @@ Objective The relationship between gut microbiota and portal hypertension remain
 
 ---
 
-## Gut microbiome alterations in type 1 autoimmune pancreatitis after induction of remission by prednisolone
+## Gut microbiome alterations in type 1 autoimmune pancreatitis after induction of remission by prednisolone.
+ 03.09.2020, _K Kamata, T Watanabe, K Minaga, A Hara, I Sekai, Y Otsuka, T Yoshikawa, AM Park, M Kudo_
+
+
+Although increasing evidence demonstrates the association between intestinal dysbiosis and pancreatic diseases, such as chronic pancreatitis and pancreatic cancer, it remains largely unknown whether intestinal dysbiosis is involved in the immunopathogenesis of autoimmune pancreatitis (AIP). Recently, we found that intestinal dysbiosis mediates experimental AIP via the activation of plasmacytoid dendritic cells (pDCs), which can produce IFN-α and IL-33. However, candidate intestinal bacteria, which promote the development of AIP, have not been identified. Fecal samples were obtained from type 1 AIP patients before and after prednisolone (PSL) treatment and subjected to 16S ribosomal RNA sequencing to evaluate the composition of intestinal bacteria. Induction of remission by PSL was associated with the complete disappearance of Klebsiella species from feces, in two of the three analyzed patients with type 1 AIP. To assess the pathogenicity of Klebsiella species, mild experimental AIP was induced in MRL/MpJ mice by repeated injections of 10 µg of polyinosinic-polycytidylic acid (poly (I:C)) in combination with oral administration of heat-killed Klebsiella pneumoniae (K. pneumoniae). The AIP pathology score was significantly higher in MRL/MpJ mice that received both oral administration of heat-killed K. pneumoniae and intraperitoneal injections of poly (I:C) than in those administered either agent alone. Pancreatic accumulation of pDCs capable of producing large amounts of IFN-α and IL-33 was also significantly higher in mice that received both treatments. These data suggest that intestinal colonization by K. pneumoniae may play an intensifying role in the development of type 1 AIP.
 
 [Source](https://doi.org/10.1111/cei.13509)
+
+10.1111/cei.13509
 
 ---
 
@@ -131,39 +142,75 @@ Intestinal barrier leakage constitutes a potential therapeutic target for many i
 
 ---
 
-## Effect of natural microbiome and culturable biosurfactants-producing bacterial consortia of freshwater lake on petroleum-hydrocarbon degradation
+## Effect of natural microbiome and culturable biosurfactants-producing bacterial consortia of freshwater lake on petroleum-hydrocarbon degradation.
+ 03.09.2020, _IA Phulpoto, B Hu, Y Wang, F Ndayisenga, J Li, Z Yu_
+
+
+Freshwater lake ecosystem is a reservior of valuable microbial diversity. It needs to be explored for addressing key environmental issues like petroleum-hydrocarbon contamination. In this work, the microbial communities (pre and post enriched with petroleum-hydrocarbons) from different layers of freshwater lake, i.e. surface water, sediments and deepwater, were explored through metagenomic and culture-dependent approaches. A total of 41 bacterial phyla were retrieved from pre-enriched samples, which were significantly reduced in enriched samples where Proteobacteria were dominant (87% to 100%) followed by Bacteroidetes (7.37%) and Verrucomicrobia (3.06%). The most dominant hydrocarbon-degrading genera were extensively verified as Pseudomonas (48.65%), Acinetobacter (45.38%), Stenotrophomonas (3.16%) and Brevundimonas (2.07%) in surface water (S1WCC); Acinetobacter (62.46%), Aeromonas (10.7%), Sphingobacterium (5.20%) and Pseudomonas (4.23%) in sediment (S2MCC); and Acinetobacter (46.57%), Pseudomonas (13.10%), Comamonas (12.93%), Flavobacterium (12.18%) and Enterobacter (9.62%) in deep water (S4WCC). Additionally, the maximum biodegradation of petroleum-hydrocarbons (i.e. used engine oil or UEO) was achieved by microbiome of S2MCC (67.60 ± 0.08%) followed by S4WCC (59.70 ± 0.12%), whereas only 36.80 ± 0.10% degradation was achieved by S1WCC microbiome. On the other hand, UEO degradation by cultivable biosurfactant-producing single cultures such as Pseudomonas sp. S2WE, Pseudomonas sp. S2WG, Pseudomonas sp. S2MS, Ochrobactrum sp. S1MM and Bacillus nealsonii S2MT showed 31.10 ± 0.08% to 40.50 ± 0.11% biodegradation. Comparatively, the biodegradation efficiency was found higher (i.e. 42.20 ± 0.12% to 56.10 ± 0.12%) in each consortia comprising of two, three, four, and five bacterial cultures. Conclusively, the isolated culturable biosurfactants-producing bacterial consortium of freshwater lake demonstrated &gt;80% contribution in the total petroleum-hydrocarbons degradation by the natural microbiome of the ecosystem.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2020.141720)
 
+10.1016/j.scitotenv.2020.141720
+
 ---
 
-## Alterations in the gut-associated microbiota of juvenile Caribbean spiny lobsters Panulirus argus (Latreille, 1804) infected with PaV1
+## Alterations in the gut-associated microbiota of juvenile Caribbean spiny lobsters Panulirus argus (Latreille, 1804) infected with PaV1.
+ 05.09.2020, _JA Zamora-Briseño, D Cerqueda-García, IM Hernández-Velázquez, R Rivera-Bustamante, JP Huchín-Mian, P Briones-Fourzán, E Lozano-Álvarez, R Rodríguez-Canul_
+
+
+The spiny lobster Panulirus argus (Latreille, 1804) is currently affected by an unenveloped, icosahedral, DNA virus termed Panulirus argus virus 1 (PaV1), a virulent and pathogenic virus that produces a long-lasting infection that alters the physiology and behaviour of heavily infected lobsters. Gut-associated microbiota is crucial for lobster homeostasis and well-being, but pathogens could change microbiota composition affecting its function. In PaV1 infection, the changes of gut-associated microbiota are yet to be elucidated. In the present study, we used high-throughput 16S rRNA sequencing technology to compare the bacterial microbiota in intestines of healthy and heavily PaV1-infected male and female juveniles of spiny lobsters P. argus captured in Puerto Morelos Reef lagoon, Quintana Roo, Mexico. We found that basal gut-associated microbiota composition showed a sex-dependent bias, with females being enriched in amplicon sequence variants (ASVs) assigned to Sphingomonas, while males were enriched in the genus Candidatus Hepatoplasma and Aliiroseovarius genera. Moreover, the alpha diversity of microbiota decreased in PaV1-infected lobsters. A significant increase of the genus Candidatus Bacilloplasma was observed in infected lobsters, as well as a significant decrease in Nesterenkonia, Caldalkalibacillus, Pseudomonas, Cetobacterium and Phyllobacterium. We also observed an alteration in the abundances of Vibrio species. Results from this study suggest that PaV1 infection impacts intestinal microbiota composition in Panulirus argus in a sex-dependent manner.
 
 [Source](https://doi.org/10.1016/j.jip.2020.107457)
 
+10.1016/j.jip.2020.107457
+
 ---
 
-## Effects of Zinc Oxide and Arginine on the Intestinal Microbiota and Immune Status of Weaned Pigs Subjected to High Ambient Temperature
+## Effects of Zinc Oxide and Arginine on the Intestinal Microbiota and Immune Status of Weaned Pigs Subjected to High Ambient Temperature.
+ 03.09.2020, _SY Yoon, SJ Sa, ES Cho, HS Ko, JW Choi, JS Kim_
+
+
+This study aimed to investigate the effect of the l-arginine (Arg) inclusion and different doses of ZnO on the growth performance, intestinal microbiota and integrity, and immune status of weaned pigs. A total of 180 pigs (28-day-old) were randomly allotted to six treatments with six replicate pens in each treatment and five pigs per pen. The dietary treatments were Con (1.1% Arg); P-Zn (1.1% Arg + 2500 mg Zn as ZnO/kg diet); ARG (1.6% Arg); ZnArg1 (500 mg of Zn as ZnO/kg diet + 1.6% Arg); ZnArg2 (1000 mg of Zn as ZnO/kg diet + 1.6% Arg); ZnArg3 (2500 mg of Zn as ZnO/kg diet + 1.6% Arg). The overall result showed that the inclusion of ZnArg3 significantly improved the average daily gain of pigs compared with the Con treatment. There was a reduction in feed intake in pigs fed the Con diet compared with pigs fed the ZnArg3 diet at phase 1 and overall. At phase 1, pigs fed the ZnArg3 diet and P-Zn diet showed a decreased population of Clostridium spp. in the ileum compared with those of the Con treatment. In addition, a lower ileal Clostridium spp. population was detected in pigs fed the ZnArg2 diet compared with pigs fed the Con diet. The pigs fed ZnArg1 and ZnArg3 diets showed a greater villus height of duodenum compared with the Con and P-Zn treatments. The pigs in the Con treatment showed increased mRNA expression of heat shock protein-27 in the liver compared with the P-Zn, ZnArg1, ZnArg2, and ZnArg3 treatments. When fed the basal diet, mRNA expressions of interleukin-6 were increased in the muscle compared with the ZnArg3 treatment. Dietary supplementation with ZnArg2 decreased the mRNA expressions of interferon-γ in the muscle compared with the Con treatment. Supplementation with P-Zn, ZnArg1, ZnArg2, and ZnArg3 decreased mRNA expressions of tumor necrosis factor-α (TNF-α) compared with the Con treatment. The mRNA gene expressions of interleukin-4 were decreased in the jejunum of pigs fed P-Zn, ARG, ZnArg1, ZnArg2, and ZnArg3 diets compared with pigs fed the Con diet. The jejunum gene expression of toll-like receptor-4 was upregulated in the Con and ARG treatments compared with the ZnArg1 and ZnArg3. The ZnArg1, ZnArg2, and ZnArg3 treatments showed lower mRNA expression of TNF-α compared with the Con treatment. In conclusion, there was no difference in growth performance, intestinal microbiota, gene expression of interleukins between ZnArg1 and ZnArg3 treatments. Therefore, the low level of ZnO (500 mg/kg) plus 1.6% dietary Arg may be recommended for pigs during the weaning stress.
 
 [Source](https://doi.org/10.3390/ani10091537)
 
+10.3390/ani10091537
+
 ---
 
-## The Microbiome of Neotropical Water Striders and Its Potential Role in Codiversification
+## The Microbiome of Neotropical Water Striders and Its Potential Role in Codiversification.
+ 03.09.2020, _AM Castillo, K Saltonstall, CF Arias, KA Chavarria, LA Ramírez-Camejo, LC Mejía, LF De León_
+
+
+Insects host a highly diverse microbiome, which plays a crucial role in insect life. However, the composition and diversity of microbiomes associated with Neotropical freshwater insects is virtually unknown. In addition, the extent to which diversification of this microbiome is associated with host phylogenetic divergence remains to be determined. Here, we present the first comprehensive analysis of bacterial communities associated with six closely related species of Neotropical water striders in Panama. We used comparative phylogenetic analyses to assess associations between dominant bacterial linages and phylogenetic divergence among species of water striders. We found a total of 806 16S rRNA amplicon sequence variants (ASVs), with dominant bacterial taxa belonging to the phyla Proteobacteria (76.87%) and Tenericutes (19.51%). Members of the α- (e.g., Wolbachia) and γ- (e.g., Acinetobacter, Serratia) Proteobacteria, and Mollicutes (e.g., Spiroplasma) were predominantly shared across species, suggesting the presence of a core microbiome in water striders. However, some bacterial lineages (e.g., Fructobacillus, Fluviicola and Chryseobacterium) were uniquely associated with different water strider species, likely representing a distinctive feature of each species' microbiome. These findings indicate that both host identity and environmental context are important drivers of microbiome diversity in water striders. In addition, they suggest that diversification of the microbiome is associated with diversification in water striders. Although more research is needed to establish the evolutionary consequences of host-microbiome interaction in water striders, our findings support recent work highlighting the role of bacterial community host-microbiome codiversification.
 
 [Source](https://doi.org/10.3390/insects11090578)
 
+10.3390/insects11090578
+
 ---
 
-## Effects of probiotic bacterium Weissella cibaria CMU on periodontal health and microbiota: a randomised, double-blind, placebo-controlled trial
+## Effects of probiotic bacterium Weissella cibaria CMU on periodontal health and microbiota: a randomised, double-blind, placebo-controlled trial.
+ 04.09.2020, _MS Kang, DS Lee, SA Lee, MS Kim, SH Nam_
+
+
+Weissella cibaria CMU (oraCMU) has been commercially available in the market for several years as oral care probiotics. The present study aimed to evaluate the effects of oraCMU-containing tablets on periodontal health and oral microbiota.
 
 [Source](https://doi.org/10.1186/s12903-020-01231-2)
 
+10.1186/s12903-020-01231-2
+
 ---
 
-## A 500-year tale of co-evolution, adaptation, and virulence: Helicobacter pylori in the Americas
+## A 500-year tale of co-evolution, adaptation, and virulence: Helicobacter pylori in the Americas.
+ 03.09.2020, _ZY Muñoz-Ramirez, B Pascoe, A Mendez-Tenorio, E Mourkas, S Sandoval-Motta, G Perez-Perez, DR Morgan, RL Dominguez, D Ortiz-Princz, ME Cavazza, G Rocha, DMM Queiroz, M Catalano, GZ Palma, CG Goldman, A Venegas, T Alarcon, M Oleastro, FF Vale, KJ Goodman, RC Torres, E Berthenet, MD Hitchings, MJ Blaser, SK Sheppard, K Thorell, J Torres_
+
+
+Helicobacter pylori is a common component of the human stomach microbiota, possibly dating back to the speciation of Homo sapiens. A history of pathogen evolution in allopatry has led to the development of genetically distinct H. pylori subpopulations, associated with different human populations, and more recent admixture among H. pylori subpopulations can provide information about human migrations. However, little is known about the degree to which some H. pylori genes are conserved in the face of admixture, potentially indicating host adaptation, or how virulence genes spread among different populations. We analyzed H. pylori genomes from 14 countries in the Americas, strains from the Iberian Peninsula, and public genomes from Europe, Africa, and Asia, to investigate how admixture varies across different regions and gene families. Whole-genome analyses of 723 H. pylori strains from around the world showed evidence of frequent admixture in the American strains with a complex mosaic of contributions from H. pylori populations originating in the Americas as well as other continents. Despite the complex admixture, distinctive genomic fingerprints were identified for each region, revealing novel American H. pylori subpopulations. A pan-genome Fst analysis showed that variation in virulence genes had the strongest fixation in America, compared with non-American populations, and that much of the variation constituted non-synonymous substitutions in functional domains. Network analyses suggest that these virulence genes have followed unique evolutionary paths in the American populations, spreading into different genetic backgrounds, potentially contributing to the high risk of gastric cancer in the region.
 
 [Source](https://doi.org/10.1038/s41396-020-00758-0)
+
+10.1038/s41396-020-00758-0
 
 ---
 
