@@ -28,63 +28,27 @@
 
 ---
 
-## Mining for novel antibiotics in the age of antimicrobial resistance.
- 03.09.2020, _Z Udaondo, MA Matilla_
-
-
-The misuse of antimicrobials is causing an alarming increase in the appearance of antibiotic-resistant microorganisms. In this context, the identification of novel antibiotics against new targets and with low rates of resistance development is a major global challenge. In this article, we highlight a number of recent articles that exploit a variety of in vitro, in vivo and in silico state-of-the-art approaches to identify and develop new antimicrobials. Rapid progress in this research field will be crucial to combating a global health problem, antimicrobial resistance, that is expected to be the leading cause of death by 2050.
+## Mining for novel antibiotics in the age of antimicrobial resistance
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1751-7915.13662)
 
-10.1111/1751-7915.13662
-
 ---
 
-## Association between the microbiomes of tonsil and saliva samples isolated from pediatric patients subjected to tonsillectomy for the treatment of tonsillar hyperplasia.
- 05.09.2020, _DH Choi, J Park, JK Choi, KE Lee, WH Lee, J Yang, JY Lee, YJ Park, C Oh, HR Won, BS Koo, JW Chang, YS Park_
-
-
-Oral microbes have the capacity to spread throughout the gastrointestinal system and are strongly associated with multiple diseases. Given that tonsils are located between the oral cavity and the laryngopharynx at the gateway of the alimentary and respiratory tracts, tonsillar tissue may also be affected by microbiota from both the oral cavity (saliva) and the alimentary tract. Here, we analyzed the distribution and association of the microbial communities in the saliva and tonsils of Korean children subjected to tonsillectomy because of tonsil hyperplasia (n = 29). The microbiome profiles of saliva and tonsils were established via 16S rRNA gene sequencing. Based on the alpha diversity indices, the microbial communities of the two groups showed high similarities. According to Spearman's ranking correlation analysis, the distribution of Treponema, the causative bacterium of periodontitis, in saliva and tonsils was found to have a significant positive correlation. Two representative microbes, Prevotella in saliva and Alloprevotella in tonsils, were negatively correlated, while Treponema 2 showed a strong positive correlation between saliva and tonsils. Taken together, strong similarities in the microbial communities of the tonsils and saliva are evident in terms of diversity and composition. The saliva microbiome is expected to significantly affect the tonsil microbiome. Furthermore, we suggest that our study creates an opportunity for tonsillar microbiome research to facilitate the development of novel microbiome-based therapeutic strategies.
+## Association between the microbiomes of tonsil and saliva samples isolated from pediatric patients subjected to tonsillectomy for the treatment of tonsillar hyperplasia
 
 [Source](https://www.nature.com/articles/s12276-020-00487-6)
 
-10.1038/s12276-020-00487-6
-
 ---
 
-## The impact of the human microbiome in forensic sciences: A systematic review.
- 05.09.2020, _MG García, MD Pérez-Cárceles, E Osuna, I Legaz_
-
-
-Numerous studies relate differences in microbial communities to human health and disease, however little is known about microbial changes that occur post mortem or the possible applications of microbiome analysis in the field of forensic science. The aim of this review was study the microbiome and its applications in forensic sciences, to determine the main lines of investigation that are emerging, as well as its possible contributions in the forensic field. A systematic review of the human microbiome in relation to forensic science was carried out following PRISMA guidelines. This study throws light on the role of microbiome research in the postmortem interval during the process of decomposition; identifying death caused by drowning or sudden death; locating the geographical location of death; establishing a connection between human microbiome and personal items, sexual contact, and the identification of individuals. Actinomycetaceae, Bacteroidaceae, Alcaligenaceae and Bacilli play an important role in determining the postmortem interval. Aeromonas can be used to determine the cause of death, and Corynebacterium or Helicobacter pylori to ascertain personal identity or geographical location. Several studies point to a promising future for microbiome analysis in the different fields of forensic science, opening up an important new area of research.
+## The impact of the human microbiome in forensic sciences: A systematic review 
 
 [Source](https://aem.asm.org/content/early/2020/09/01/AEM.01451-20.abstract)
 
-10.1128/AEM.01451-20
-
 ---
 
-## The evolving role of the lung microbiome in pulmonary fibrosis.
- 02.09.2020, _JH Lipinski, BB Moore, DN O'Dwyer_
-
-
-Mucosal surfaces are constantly exposed to a microbiome consisting of micro-organisms that heavily influence human immunity and health. In the lung these micro-organisms consist of bacteria, viruses and fungi and exist in a relatively low biomass state. Bacterial communities of the lung modulate local inflammation and correlate with changes in pulmonary physiology and clinical outcomes in patients with lung disease. Instrumental to this progress has been the study of these bacterial communities in the pathogenesis of pulmonary fibrosis, a fatal and progressive disease culminating in respiratory failure. Key pathophysiological mechanisms in pulmonary fibrosis include recurrent idiopathic alveolar epithelial injury, unchecked collagen deposition, mucociliary dysfunction due to muc5b overexpression, hypoxia, and altered host defense. These key mechanisms and their related consequences promote severe progressive architectural lung destruction and loss of local homeostasis. As such, pulmonary fibrosis is an appropriate target disease for the study of the lung microbiome. Herein, we discuss recent advances in our understanding of the role of the lung microbiome in the pathogenesis of pulmonary fibrosis. We highlight fundamental clinical observations, mechanistic insights and identify crucial areas for further discovery science. An improved understanding of how the lung microbiome acts to influence outcomes in patients with pulmonary fibrosis will lead to enhanced therapies for this devastating lung disease.
+## The evolving role of the lung microbiome in pulmonary fibrosis
 
 [Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00258.2020)
-
-10.1152/ajplung.00258.2020
-
----
-
-## Recent Advances in Understanding the Ecology of the Lung Microbiota and Deciphering the Gut-Lung Axis.
- 02.09.2020, _KA Willis, JD Stewart, N Ambalavanan_
-
-
-A rapidly expanding new field of lung research has been produced by the emergence of culture-independent next-generation sequencing technologies. While pulmonary microbiome research lags behind the exploration of the microbiome in other organ systems, the field is maturing and has recently produced multiple exciting discoveries. In this Mini-Review, we will explore recent advances in our understanding of the lung microbiome and the gut-lung axis from an ecological perspective.
-
-[Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00360.2020)
-
-10.1152/ajplung.00360.2020
 
 ---
 
@@ -214,21 +178,39 @@ Infant formula feeding, compared with human milk, has been associated with devel
 
 ---
 
-## Microplastics negatively affect soil fauna but stimulate microbial activity: insights from a field-based microplastic addition experiment
+## Microplastics negatively affect soil fauna but stimulate microbial activity: insights from a field-based microplastic addition experiment.
+ 02.09.2020, _D Lin, G Yang, P Dou, S Qian, L Zhao, Y Yang, N Fanin_
+
+
+Microplastics are recognized as an emerging contaminant worldwide. Although microplastics have been shown to strongly affect organisms in aquatic environments, less is known about whether and how microplastics can affect different taxa within a soil community, and it is unclear whether these effects can cascade through soil food webs. By conducting a microplastic manipulation experiment, i.e. adding low-density polyethylene fragments in the field, we found that microplastic addition significantly affected the composition and abundance of microarthropod and nematode communities. Contrary to soil fauna, we found only small effects of microplastics on the biomass and structure of soil microbial communities. Nevertheless, structural equation modelling revealed that the effects of microplastics strongly cascade through the soil food webs, leading to the modification of microbial functioning with further potential consequences on soil carbon and nutrient cycling. Our results highlight that taking into account the effects of microplastics at different trophic levels is important to elucidate the mechanisms underlying the ecological impacts of microplastic pollution on soil functioning.
 
 [Source](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1268)
 
+10.1098/rspb.2020.1268
+
 ---
 
-## Shared bicycle microbial community: a potential antibiotic-resistant bacteria warehouse
+## Shared bicycle microbial community: a potential antibiotic-resistant bacteria warehouse.
+ 05.09.2020, _Y Wu, J Xie, J Li, J Zhao, S Qiao, Y Li, J Zeng_
+
+
+Shared bicycle is an emerging form of public transportation in China and around the world. However, the bacterial community and drug-resistant microbiome on these bicycles have not been reported. Samples from 10 shared bicycles were observed by scanning electron microscopy (SEM). Nine samples collected from 90 shared bicycles in three different kinds of location (hospital, metro station, shopping mall) were used for full-length 16S rDNA gene analysis to figure out the bacterial composition of the shared bicycle. Samples from 32 shared bicycles were used to investigate culturable drug-resistant bacteria of the shared bicycle bacterial community. It was found that in the shared bicycle bacterial community, Bacillus was the most abundant bacteria, as determined by both SEM observation and full-length 16S rDNA gene analysis. For the analysis of drug-resistant bacteria, Bacillus showed the strongest drug resist ability. Moreover, the resistances to bacitracin and sulfamethoxazole were the most common among all types of bacteria. Our study provides an important reference for the prevention of the potential spread of drug-resistant bacteria through shared bicycles.
 
 [Source](https://link.springer.com/article/10.1007/s12223-020-00820-6)
 
+10.1007/s12223-020-00820-6
+
 ---
 
-## Microbial carrying capacity and carbon biomass of plastic marine debris
+## Microbial carrying capacity and carbon biomass of plastic marine debris.
+ 03.09.2020, _S Zhao, ER Zettler, LA Amaral-Zettler, TJ Mincer_
+
+
+Trillions of plastic debris fragments are floating at sea, presenting a substantial surface area for microbial colonization. Numerous cultivation-independent surveys have characterized plastic-associated microbial biofilms, however, quantitative studies addressing microbial carbon biomass are lacking. Our confocal laser scanning microscopy data show that early biofilm development on polyethylene, polypropylene, polystyrene, and glass substrates displayed variable cell size, abundance, and carbon biomass, whereas these parameters stabilized in mature biofilms. Unexpectedly, plastic substrates presented lower volume proportions of photosynthetic cells after 8 weeks, compared to glass. Early biofilms displayed the highest proportions of diatoms, which could influence the vertical transport of plastic debris. In total, conservative estimates suggest 2.1 × 1021 to 3.4 × 1021 cells, corresponding to about 1% of the microbial cells in the ocean surface microlayer (1.5 × 103 to 1.1 × 104 tons of carbon biomass), inhabit plastic debris globally. As an unnatural addition to sea surface waters, the large quantity of cells and biomass carried by plastic debris has the potential to impact biodiversity, autochthonous ecological functions, and biogeochemical cycles within the ocean.
 
 [Source](https://www.nature.com/articles/s41396-020-00756-2)
+
+10.1038/s41396-020-00756-2
 
 ---
 
@@ -244,9 +226,15 @@ Infant formula feeding, compared with human milk, has been associated with devel
 
 ---
 
-## Flow-through stable isotope probing (Flow-SIP) minimizes cross-feeding in complex microbial communities
+## Flow-through stable isotope probing (Flow-SIP) minimizes cross-feeding in complex microbial communities.
+ 03.09.2020, _M Mooshammer, K Kitzinger, A Schintlmeister, S Ahmerkamp, JL Nielsen, PH Nielsen, M Wagner_
+
+
+Stable isotope probing (SIP) is a key tool for identifying the microorganisms catalyzing the turnover of specific substrates in the environment and to quantify their relative contributions to biogeochemical processes. However, SIP-based studies are subject to the uncertainties posed by cross-feeding, where microorganisms release isotopically labeled products, which are then used by other microorganisms, instead of incorporating the added tracer directly. Here, we introduce a SIP approach that has the potential to strongly reduce cross-feeding in complex microbial communities. In this approach, the microbial cells are exposed on a membrane filter to a continuous flow of medium containing isotopically labeled substrate. Thereby, metabolites and degradation products are constantly removed, preventing consumption of these secondary substrates. A nanoSIMS-based proof-of-concept experiment using nitrifiers in activated sludge and 13C-bicarbonate as an activity tracer showed that Flow-SIP significantly reduces cross-feeding and thus allows distinguishing primary consumers from other members of microbial food webs.
 
 [Source](https://www.nature.com/articles/s41396-020-00761-5)
+
+10.1038/s41396-020-00761-5
 
 ---
 
