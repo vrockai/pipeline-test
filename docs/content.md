@@ -1,186 +1,252 @@
-## The discovery of gene mutations making SARS-CoV-2 well adapted for humans: host-genome similarity analysis of 2594 genomes from China, the USA and Europe
+## Manipulating denitrifying sulfide removal of <em>Pseudomonas sp.</em> C27 with nitrite as sole nitrogen source: Shotgun proteomics analysis
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.280727v1.abstract?%3Fcollection=)
-
----
-
-## Mutation in position of 32 (G&gt;U) of S2M differentiate human SARS-CoV2 from Bat Coronavirus
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.02.280529v1.abstract?%3Fcollection=)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420313468)
 
 ---
 
-## Development of SARS-CoV-2 Nucleocapsid Specific Monoclonal Antibodies
+## <em>Pseudomonas aeruginosa</em> – Candida interplay: Effect on in vitro antibiotic susceptibility of <em>Pseudomonas aeruginosa</em> when grown in the presence <em>Candida</em> culture
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.280370v1.abstract?%3Fcollection=)
-
----
-
-## <span class="has-inline-color has-luminous-vivid-orange-color">A Mental Health Paradox: Mental health was both a motivator and barrier to physical activity during the COVID-19 pandemic</span>
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.280719v1.abstract?%3Fcollection=)
+[Source](https://www.tandfonline.com/doi/abs/10.1080/09674845.2020.1819003?journalCode=tbbs20)
 
 ---
 
-## Bradymonabacteria, a novel bacterial predator group with versatile survival strategies in saline environments 
+## Impact of DNA extraction on whole genome sequencing analysis for characterization and relatedness of Shiga toxin-producing <em>Escherichia coli</em> isolates
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00902-0)
-
----
-
-## <span class="has-inline-color has-luminous-vivid-orange-color">Armeniaspirols inhibit the AAA+ proteases ClpXP and ClpYQ leading to cell division arrest in Gram-positive bacteria</span>
-
-[Source](https://www.biorxiv.org/content/10.1101/685669v2.abstract)
+[Source](https://www.nature.com/articles/s41598-020-71207-3)
 
 ---
 
-## Effect of polyethylene glycol on growth of&nbsp;<em>Escherichia coli</em>&nbsp;DH5α and&nbsp;<em>Bacillus subtilis</em>&nbsp;NRS-762
+## Evolution of diversity explains the impact of pre-adaptation of a focal species on the structure of a natural microbial community
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.282376v1.abstract?%3Fcollection=)
-
----
-
-## Essentiality of c-di-AMP in&nbsp;<em>Bacillus subtilis</em>: Bypassing mutations converge in potassium and glutamate homeostasis
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.280651v1.abstract?%3Fcollection=)
+[Source](https://www.nature.com/articles/s41396-020-00755-3)
 
 ---
 
-## Comparative genomics of&nbsp;<em>Clostridium</em>&nbsp;species associated with vacuum-packed meat spoilage
+## Biomass-degrading glycoside hydrolases of archaeal origin
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.282111v1.abstract?%3Fcollection=)
-
----
-
-## Antibiotics and the developing intestinal microbiome, metabolome and inflammatory environment: a randomized trial of preterm infants
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.04.20.052142v4.abstract?%3Fcollection=)
+[Source](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-020-01792-y)
 
 ---
 
-## <span class="has-inline-color has-luminous-vivid-orange-color">Azetidines kill&nbsp;<em>Mycobacterium tuberculosis</em>&nbsp;without detectable resistance by blocking mycolate assembly</span>
+## Mining for novel antibiotics in the age of antimicrobial resistance.
+ 03.09.2020, _Z Udaondo, MA Matilla_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.281170v1.abstract?%3Fcollection=)
 
----
+The misuse of antimicrobials is causing an alarming increase in the appearance of antibiotic-resistant microorganisms. In this context, the identification of novel antibiotics against new targets and with low rates of resistance development is a major global challenge. In this article, we highlight a number of recent articles that exploit a variety of in vitro, in vivo and in silico state-of-the-art approaches to identify and develop new antimicrobials. Rapid progress in this research field will be crucial to combating a global health problem, antimicrobial resistance, that is expected to be the leading cause of death by 2050.
 
-## <span class="has-inline-color has-luminous-vivid-orange-color">Proteome dynamics in persisting and resuscitating bacterial cells</span>
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1751-7915.13662)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.282723v1.abstract?%3Fcollection=)
-
----
-
-## Limitation of phosphate assimilation maintains cytoplasmic magnesium homeostasis
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.05.284430v1.abstract?%3Fcollection=)
+10.1111/1751-7915.13662
 
 ---
 
-## <span class="has-inline-color has-luminous-vivid-orange-color">RecA levels modulate biofilm development in&nbsp;<em>Acinetobacter baumannii</em> </span>
+## Association between the microbiomes of tonsil and saliva samples isolated from pediatric patients subjected to tonsillectomy for the treatment of tonsillar hyperplasia.
+ 05.09.2020, _DH Choi, J Park, JK Choi, KE Lee, WH Lee, J Yang, JY Lee, YJ Park, C Oh, HR Won, BS Koo, JW Chang, YS Park_
 
-[Source](https://www.biorxiv.org/content/10.1101/809392v2.abstract?%3Fcollection=)
 
----
+Oral microbes have the capacity to spread throughout the gastrointestinal system and are strongly associated with multiple diseases. Given that tonsils are located between the oral cavity and the laryngopharynx at the gateway of the alimentary and respiratory tracts, tonsillar tissue may also be affected by microbiota from both the oral cavity (saliva) and the alimentary tract. Here, we analyzed the distribution and association of the microbial communities in the saliva and tonsils of Korean children subjected to tonsillectomy because of tonsil hyperplasia (n = 29). The microbiome profiles of saliva and tonsils were established via 16S rRNA gene sequencing. Based on the alpha diversity indices, the microbial communities of the two groups showed high similarities. According to Spearman's ranking correlation analysis, the distribution of Treponema, the causative bacterium of periodontitis, in saliva and tonsils was found to have a significant positive correlation. Two representative microbes, Prevotella in saliva and Alloprevotella in tonsils, were negatively correlated, while Treponema 2 showed a strong positive correlation between saliva and tonsils. Taken together, strong similarities in the microbial communities of the tonsils and saliva are evident in terms of diversity and composition. The saliva microbiome is expected to significantly affect the tonsil microbiome. Furthermore, we suggest that our study creates an opportunity for tonsillar microbiome research to facilitate the development of novel microbiome-based therapeutic strategies.
 
-## Distinct survival, growth lag, and ribosomal RNA degradation kinetics during long-term starvation for carbon or phosphate
+[Source](https://www.nature.com/articles/s12276-020-00487-6)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.284034v1.abstract?%3Fcollection=)
-
----
-
-## Gut microbial characteristics of adult patients with allergy rhinitis
-
-[Source](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-020-01430-0)
+10.1038/s12276-020-00487-6
 
 ---
 
-## <span class="has-inline-color has-luminous-vivid-orange-color">Impact of investigational microbiota therapeutic RBX2660 on the gut microbiome and resistome revealed by a placebo-controlled clinical trial</span>
+## The impact of the human microbiome in forensic sciences: A systematic review.
+ 05.09.2020, _MG García, MD Pérez-Cárceles, E Osuna, I Legaz_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00907-9)
 
----
+Numerous studies relate differences in microbial communities to human health and disease, however little is known about microbial changes that occur post mortem or the possible applications of microbiome analysis in the field of forensic science. The aim of this review was study the microbiome and its applications in forensic sciences, to determine the main lines of investigation that are emerging, as well as its possible contributions in the forensic field. A systematic review of the human microbiome in relation to forensic science was carried out following PRISMA guidelines. This study throws light on the role of microbiome research in the postmortem interval during the process of decomposition; identifying death caused by drowning or sudden death; locating the geographical location of death; establishing a connection between human microbiome and personal items, sexual contact, and the identification of individuals. Actinomycetaceae, Bacteroidaceae, Alcaligenaceae and Bacilli play an important role in determining the postmortem interval. Aeromonas can be used to determine the cause of death, and Corynebacterium or Helicobacter pylori to ascertain personal identity or geographical location. Several studies point to a promising future for microbiome analysis in the different fields of forensic science, opening up an important new area of research.
 
-## Soil characteristics constrain the response of bacterial and fungal communities and hydrocarbon degradation genes to phenanthrene soil contamination and phytoremediation with poplars 
+[Source](https://aem.asm.org/content/early/2020/09/01/AEM.01451-20.abstract)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.284042v1.abstract?%3Fcollection=)
-
----
-
-## Microbial bioprospecting for lignocellulose degradation at a unique Greek environment 
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.29.273201v2.abstract?%3Fcollection=)
+10.1128/AEM.01451-20
 
 ---
 
-## DNA barcoding analysis of more than 1000 marine yeast isolates reveals previously unrecorded species
+## The evolving role of the lung microbiome in pulmonary fibrosis.
+ 02.09.2020, _JH Lipinski, BB Moore, DN O'Dwyer_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.08.29.273490v2.abstract?%3Fcollection=)
 
----
+Mucosal surfaces are constantly exposed to a microbiome consisting of micro-organisms that heavily influence human immunity and health. In the lung these micro-organisms consist of bacteria, viruses and fungi and exist in a relatively low biomass state. Bacterial communities of the lung modulate local inflammation and correlate with changes in pulmonary physiology and clinical outcomes in patients with lung disease. Instrumental to this progress has been the study of these bacterial communities in the pathogenesis of pulmonary fibrosis, a fatal and progressive disease culminating in respiratory failure. Key pathophysiological mechanisms in pulmonary fibrosis include recurrent idiopathic alveolar epithelial injury, unchecked collagen deposition, mucociliary dysfunction due to muc5b overexpression, hypoxia, and altered host defense. These key mechanisms and their related consequences promote severe progressive architectural lung destruction and loss of local homeostasis. As such, pulmonary fibrosis is an appropriate target disease for the study of the lung microbiome. Herein, we discuss recent advances in our understanding of the role of the lung microbiome in the pathogenesis of pulmonary fibrosis. We highlight fundamental clinical observations, mechanistic insights and identify crucial areas for further discovery science. An improved understanding of how the lung microbiome acts to influence outcomes in patients with pulmonary fibrosis will lead to enhanced therapies for this devastating lung disease.
 
-## Mammalian ANP32A and ANP32B proteins drive alternative avian influenza virus polymerase adaptations
+[Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00258.2020)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.282384v1.abstract?%3Fcollection=)
-
----
-
-## Development of Resistance to 4′-Ethynyl-2-Fluoro-2′-Deoxyadenosine (EFdA) by Wild-Type and Nucleoside Reverse Transcriptase Inhibitor Resistant Human Immunodeficiency Virus Type 1
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.281485v1.abstract?%3Fcollection=)
+10.1152/ajplung.00258.2020
 
 ---
 
-## NHR-49/PPAR-α and HLH-30/TFEB promote&nbsp;<em>C. elegans</em>&nbsp;host defense via a flavin-containing monooxygenase
+## Recent Advances in Understanding the Ecology of the Lung Microbiota and Deciphering the Gut-Lung Axis.
+ 02.09.2020, _KA Willis, JD Stewart, N Ambalavanan_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.282087v1.abstract?%3Fcollection=)
 
----
+A rapidly expanding new field of lung research has been produced by the emergence of culture-independent next-generation sequencing technologies. While pulmonary microbiome research lags behind the exploration of the microbiome in other organ systems, the field is maturing and has recently produced multiple exciting discoveries. In this Mini-Review, we will explore recent advances in our understanding of the lung microbiome and the gut-lung axis from an ecological perspective.
 
-## <span class="has-inline-color has-luminous-vivid-orange-color">Role of ERK activation in&nbsp;<em>H. pylori</em>-induced disruption of cell-cell tight junctions</span>
+[Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00360.2020)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.03.276600v1.abstract?%3Fcollection=)
-
----
-
-## Cellular co-infection can modulate the efficiency of influenza A virus production and shape the interferon response
-
-[Source](https://www.biorxiv.org/content/10.1101/752329v2.abstract?%3Fcollection=)
+10.1152/ajplung.00360.2020
 
 ---
 
-## Non-permissive human conventional CD1c<sup>+</sup>&nbsp;dendritic cells enable&nbsp;<em>trans</em>-infection of human primary renal tubular epithelial cells and protect BK polyomavirus from neutralization
+## Recent advances in understanding the ecology of the lung microbiota and deciphering the gut-lung axis
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.282426v1.abstract)
-
----
-
-## <span class="has-inline-color has-luminous-vivid-orange-color">Nanoscopy on the Chea(i)p</span>
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.283085v1.abstract?%3Fcollection=)
+[Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00360.2020)
 
 ---
 
-## <span class="has-inline-color has-luminous-vivid-orange-color">Visualizing Borrelia burgdorferi infection using a small molecule imaging probe</span>
+## Altered gut microbiota correlated with systemic inflammation in children with Kawasaki disease.
+ 06.09.2020, _J Chen, Y Yue, L Wang, Z Deng, Y Yuan, M Zhao, Z Yuan, C Tan, Y Cao_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.04.284067v1.abstract?%3Fcollection=)
 
----
+Kawasaki disease (KD) is a multi-systemic vasculitis of unknown etiology that occurs mainly in children, and the disturbance of gut microbiota is generally believed to cause a hyperimmune reaction triggering KD. The aim of the study was to investigate the alterations in the fecal microbiota and assess its relationship with systemic inflammation. Totally 30 KD children were enrolled and followed up for 6 months, with another group of 30 age- and sex-matched healthy children as controls. Phylotype profiles of fecal microbial communities were analyzed using 16S rRNA gene sequencing. Serum inflammatory markers were detected by flow cytometer. We showed that KD children exhibited a significant reduction in fecal microbial diversity in the acute phase compared with the healthy controls. Enterococcus, Acinetobacter, Helicobacter, Lactococcus, Staphylococcus and Butyricimonas in acute KD children were significantly higher than the healthy children. Levels of systemic inflammation biomarkers, including IL-2, IL-4, IL-6, IL-10, TNF-α, and INF-γ, were significantly elevated in the acute KD children. Altered microbiota genera Enterococcus and Helicobacter abundances were shown to be correlated positively with IL-6, which were never previously reported in KD. This study suggested that gut microbiota alteration is closely associated with systemic inflammation, which provides a new perspective on the etiology and pathogenesis of KD.
 
-## Malibu Microbiome Meeting Virtual Prelude Shares New Data
+[Source](https://www.nature.com/articles/s41598-020-71371-6)
 
-[Source](https://www.prnewswire.com/news-releases/malibu-microbiome-meeting-virtual-prelude-shares-new-data-301124315.html)
-
----
-
-## Human Microbiome-Based Drugs And Diagnostics Market An Insight On the Important Factors and Trends Influencing the Market
-
-[Source](https://dailyresearchchronicle.com/news/803/human-microbiome-based-drugs-and-diagnostics-market-an-insight-on-the-important-factors-and-trends-influencing-the-market/)
+10.1038/s41598-020-71371-6
 
 ---
 
-## Autism and the Microbiome
+## Gut microbiota in human metabolic health and disease – Fan and Pedersen
 
-[Source](https://www.newindianexpress.com/opinions/2020/sep/06/autism-and-the-microbiome-2192102.html)
+[Source](https://www.nature.com/articles/s41579-020-0433-9)
+
+---
+
+## Lactose-reduced infant formula with added corn syrup solids is associated with a distinct gut microbiota in Hispanic infants.
+ 07.09.2020, _RB Jones, PK Berger, JF Plows, TL Alderete, J Millstein, J Fogel, SN Iablokov, DA Rodionov, AL Osterman, L Bode, MI Goran_
+
+
+Infant formula feeding, compared with human milk, has been associated with development of a distinct infant gut microbiome, but no previous study has examined effects of formula with added sugars. This work examined differences in gut microbiota among 91 Hispanic infants who consumed human milk [at breast (BB) vs. pumped in bottle (BP)] and 2 kinds of infant formula [(traditional lactose-based (TF) vs. lactose-reduced with added sugar (ASF)]. At 1 and 6 months, infant stool was collected to characterize gut microbiota. At 6 months, mothers completed 24-hour dietary recalls and questionnaires to determine infant consumption of human milk (BB vs. BP) or formula (TF vs. ASF). Linear regression models were used to determine associations of milk consumption type and microbial features at 6 months. Infants in the formula groups exhibited a significantly more 'mature' microbiome than infants in the human milk groups with the most pronounced differences observed between the ASF vs. BB groups. In the ASF group, we observed reduced log-normalized abundance of Bifidobacteriaceae (TF-BB Mean Difference = -0.71, ASF-BB Mean Difference = -1.10), and increased abundance of Lachnospiraceae (TF-BB Mean Difference = +0.89, ASF-BB Mean Difference = +1.20). We also observed a higher Community Phenotype Index of propionate, most likely produced by Lachnospiraceae, in the ASF group (TF-BB Mean Difference = +0.27, ASF-BB Mean Difference = +0.36). This study provides the first evidence that consumption of infant formula with added sugar may have a stronger association than birth delivery mode, infant caloric intake, and maternal BMI on the infant's microbiome at 6 months of age.
+
+[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1813534)
+
+10.1080/19490976.2020.1813534
+
+---
+
+## Gut bacterial communities and their contribution to performance of specialist <em>Altica</em> flea beetles
+
+[Source](https://link.springer.com/article/10.1007/s00248-020-01590-x)
+
+---
+
+## Dynamic changes of gut microbiota of discus fish (<em>Symphysodon haraldi</em>) at different feeding stages
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0044848620319724)
+
+---
+
+## Diversity of cultivable microbes from soil of the Fildes Peninsula, Antarctica, and their potential application
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.570836/full)
+
+---
+
+## Structural and functional microbial diversity of sandy soil under cropland and grassland
+
+[Source](https://peerj.com/articles/9501/)
+
+---
+
+## Microbiome–environment interactions in antimony-contaminated rice paddies and the correlation of core microbiome with arsenic and antimony contamination
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S004565352032422X)
+
+---
+
+## Implications of endophytic microbiota in <em>Camellia Sinensis</em>: A review on current understanding and future insights
+
+[Source](https://www.tandfonline.com/doi/pdf/10.1080/21655979.2020.1816788)
+
+---
+
+## Characterizing the nectar microbiome of the non-native tropical milkweed, <em>Asclepias curassavica</em>, in an urban environment 
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237561)
+
+---
+
+## Prokaryotic diversity in stream sediments affected by acid mine drainage
+
+[Source](https://link.springer.com/article/10.1007/s00792-020-01196-8)
+
+---
+
+## Combination of genetic tools to discern <em>Bacillus</em> species isolated from hot springs in South Africa
+
+[Source](https://academicjournals.org/journal/AJMR/article-full-text-pdf/94619F264699)
+
+---
+
+## Bioleaching of pyritic coal wastes: bioprospecting and efficiency of selected consortia
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0923250820300814)
+
+---
+
+## Genotypic and phylogenetic diversity of new isolates of terrestrial Xanthophyceae (Stramenopiles) from maritime sandy habitats
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/00318884.2020.1802950)
+
+---
+
+## <em>Paucihalobacter ruber</em> gen. nov., sp. nov., isolated from a haloalkaline lake sediment sample
+
+[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004421)
+
+---
+
+## Comparative analysis of bacterial diversity and community structure in the rhizosphere and root endosphere of two halophytes, <em>Salicornia europaea</em> and <em>Glaux maritima</em>, collected from two brackish lakes in Japan 
+
+[Source](https://www.jstage.jst.go.jp/article/jsme2/35/3/35_ME20072/_pdf)
+
+---
+
+## Fungal diversity in deep-sea sediments from Magellan seamounts environment of the western Pacific revealed by high-throughput Illumina sequencing
+
+[Source](https://link.springer.com/article/10.1007/s12275-020-0198-x)
+
+---
+
+## Effect of Ferrous Iron Addition on Ammonium Nitrogen Removal and Microbial Communities in Horizontal Subsurface Flow Constructed Wetlands
+
+[Source](https://link.springer.com/article/10.1007/s13157-020-01343-z)
+
+---
+
+## Microplastics negatively affect soil fauna but stimulate microbial activity: insights from a field-based microplastic addition experiment
+
+[Source](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1268)
+
+---
+
+## Shared bicycle microbial community: a potential antibiotic-resistant bacteria warehouse
+
+[Source](https://link.springer.com/article/10.1007/s12223-020-00820-6)
+
+---
+
+## Microbial carrying capacity and carbon biomass of plastic marine debris
+
+[Source](https://www.nature.com/articles/s41396-020-00756-2)
+
+---
+
+## Proteolysis, lipolysis, texture and sensory properties of cheese ripened by <em>Monascus fumeus</em>
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996920306827)
+
+---
+
+## <span class="has-inline-color has-vivid-green-cyan-color">Best practices for successfully writing and publishing a genome announcement in microbiology resource announcements</span>
+
+[Source](https://mra.asm.org/content/ga/9/36/e00763-20.full.pdf)
+
+---
+
+## Flow-through stable isotope probing (Flow-SIP) minimizes cross-feeding in complex microbial communities
+
+[Source](https://www.nature.com/articles/s41396-020-00761-5)
 
 ---
 
