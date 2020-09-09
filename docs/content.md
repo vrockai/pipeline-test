@@ -58,15 +58,9 @@
 
 ---
 
-## Altered gut microbiota correlated with systemic inflammation in children with Kawasaki disease.
- 06.09.2020, _J Chen, Y Yue, L Wang, Z Deng, Y Yuan, M Zhao, Z Yuan, C Tan, Y Cao_
-
-
-Kawasaki disease (KD) is a multi-systemic vasculitis of unknown etiology that occurs mainly in children, and the disturbance of gut microbiota is generally believed to cause a hyperimmune reaction triggering KD. The aim of the study was to investigate the alterations in the fecal microbiota and assess its relationship with systemic inflammation. Totally 30 KD children were enrolled and followed up for 6 months, with another group of 30 age- and sex-matched healthy children as controls. Phylotype profiles of fecal microbial communities were analyzed using 16S rRNA gene sequencing. Serum inflammatory markers were detected by flow cytometer. We showed that KD children exhibited a significant reduction in fecal microbial diversity in the acute phase compared with the healthy controls. Enterococcus, Acinetobacter, Helicobacter, Lactococcus, Staphylococcus and Butyricimonas in acute KD children were significantly higher than the healthy children. Levels of systemic inflammation biomarkers, including IL-2, IL-4, IL-6, IL-10, TNF-α, and INF-γ, were significantly elevated in the acute KD children. Altered microbiota genera Enterococcus and Helicobacter abundances were shown to be correlated positively with IL-6, which were never previously reported in KD. This study suggested that gut microbiota alteration is closely associated with systemic inflammation, which provides a new perspective on the etiology and pathogenesis of KD.
+## Altered gut microbiota correlated with systemic inflammation in children with Kawasaki disease
 
 [Source](https://www.nature.com/articles/s41598-020-71371-6)
-
-10.1038/s41598-020-71371-6
 
 ---
 
@@ -76,15 +70,9 @@ Kawasaki disease (KD) is a multi-systemic vasculitis of unknown etiology that oc
 
 ---
 
-## Lactose-reduced infant formula with added corn syrup solids is associated with a distinct gut microbiota in Hispanic infants.
- 07.09.2020, _RB Jones, PK Berger, JF Plows, TL Alderete, J Millstein, J Fogel, SN Iablokov, DA Rodionov, AL Osterman, L Bode, MI Goran_
-
-
-Infant formula feeding, compared with human milk, has been associated with development of a distinct infant gut microbiome, but no previous study has examined effects of formula with added sugars. This work examined differences in gut microbiota among 91 Hispanic infants who consumed human milk [at breast (BB) vs. pumped in bottle (BP)] and 2 kinds of infant formula [(traditional lactose-based (TF) vs. lactose-reduced with added sugar (ASF)]. At 1 and 6 months, infant stool was collected to characterize gut microbiota. At 6 months, mothers completed 24-hour dietary recalls and questionnaires to determine infant consumption of human milk (BB vs. BP) or formula (TF vs. ASF). Linear regression models were used to determine associations of milk consumption type and microbial features at 6 months. Infants in the formula groups exhibited a significantly more 'mature' microbiome than infants in the human milk groups with the most pronounced differences observed between the ASF vs. BB groups. In the ASF group, we observed reduced log-normalized abundance of Bifidobacteriaceae (TF-BB Mean Difference = -0.71, ASF-BB Mean Difference = -1.10), and increased abundance of Lachnospiraceae (TF-BB Mean Difference = +0.89, ASF-BB Mean Difference = +1.20). We also observed a higher Community Phenotype Index of propionate, most likely produced by Lachnospiraceae, in the ASF group (TF-BB Mean Difference = +0.27, ASF-BB Mean Difference = +0.36). This study provides the first evidence that consumption of infant formula with added sugar may have a stronger association than birth delivery mode, infant caloric intake, and maternal BMI on the infant's microbiome at 6 months of age.
+## Lactose-reduced infant formula with added corn syrup solids is associated with a distinct gut microbiota in Hispanic infants
 
 [Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1813534)
-
-10.1080/19490976.2020.1813534
 
 ---
 
@@ -166,9 +154,15 @@ Infant formula feeding, compared with human milk, has been associated with devel
 
 ---
 
-## Fungal diversity in deep-sea sediments from Magellan seamounts environment of the western Pacific revealed by high-throughput Illumina sequencing
+## Fungal diversity in deep-sea sediments from Magellan seamounts environment of the western Pacific revealed by high-throughput Illumina sequencing.
+ 02.09.2020, _S Yang, W Xu, Y Gao, X Chen, ZH Luo_
+
+
+There are lots of seamounts globally whose primary production is disproportionally greater than the surrounding areas. Compared to other deep-sea environments, however, the seamounts environment is relatively less explored for fungal diversity. In the present study, we explored the fungal community structure in deep-sea sediments from four different stations of the Magellan seamounts environment by using high-throughput sequencing of the ITS1 region. A total of 1,897,618 ITS1 sequences were obtained. Among these sequences, fungal ITS1 sequences could be clustered into 1,662 OTUs. The majority of these sequences belonged to Ascomycota. In the genera level, the most abundant genus was Mortierella (4.79%), which was reported as a common fungal genus in soil and marine sediments, followed by Umbelopsis (3.80%), Cladosporium (2.98%), Saccharomycopsis (2.53%), Aspergillus (2.42%), Hortaea (2.36%), Saitozyma (2.20%), Trichoderma (2.12%), Penicillium (2.11%), Russula (1.86%), and Verticillium (1.40%). Most of these recovered genera belong to Ascomycota. The Bray-Curtis analysis showed that there was 37 to 85% dissimilarity of fungal communities between each two sediment samples. The Principal coordinates analysis clearly showed variations in the fungal community among different sediment samples. These results suggested that there was a difference in fungal community structures not only among four different sampling stations but also for different layers at the same station. The depth and geographical distance significantly affect the fungal community, and the effect of depth and geographical distance on the structure of the fungal community in the Magellan seamounts is basically same. Most of the fungi were more or less related to plants, these plant parasitic/symbiotic/endophytic fungi constitute a unique type of seamounts environmental fungal ecology, different from other marine ecosystems.
 
 [Source](https://link.springer.com/article/10.1007/s12275-020-0198-x)
+
+10.1007/s12275-020-0198-x
 
 ---
 
