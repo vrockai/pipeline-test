@@ -226,15 +226,9 @@ Trillions of plastic debris fragments are floating at sea, presenting a substant
 
 ---
 
-## Flow-through stable isotope probing (Flow-SIP) minimizes cross-feeding in complex microbial communities.
- 03.09.2020, _M Mooshammer, K Kitzinger, A Schintlmeister, S Ahmerkamp, JL Nielsen, PH Nielsen, M Wagner_
-
-
-Stable isotope probing (SIP) is a key tool for identifying the microorganisms catalyzing the turnover of specific substrates in the environment and to quantify their relative contributions to biogeochemical processes. However, SIP-based studies are subject to the uncertainties posed by cross-feeding, where microorganisms release isotopically labeled products, which are then used by other microorganisms, instead of incorporating the added tracer directly. Here, we introduce a SIP approach that has the potential to strongly reduce cross-feeding in complex microbial communities. In this approach, the microbial cells are exposed on a membrane filter to a continuous flow of medium containing isotopically labeled substrate. Thereby, metabolites and degradation products are constantly removed, preventing consumption of these secondary substrates. A nanoSIMS-based proof-of-concept experiment using nitrifiers in activated sludge and 13C-bicarbonate as an activity tracer showed that Flow-SIP significantly reduces cross-feeding and thus allows distinguishing primary consumers from other members of microbial food webs.
+## Flow-through stable isotope probing (Flow-SIP) minimizes cross-feeding in complex microbial communities
 
 [Source](https://www.nature.com/articles/s41396-020-00761-5)
-
-10.1038/s41396-020-00761-5
 
 ---
 
