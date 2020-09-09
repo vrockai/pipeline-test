@@ -1,228 +1,84 @@
-## Manipulating denitrifying sulfide removal of <em>Pseudomonas sp.</em> C27 with nitrite as sole nitrogen source: Shotgun proteomics analysis
+## Long-term survival of salmon-attached SARS-CoV-2 at 4°C as a potential source of transmission in seafood markets
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420313468)
-
----
-
-## <em>Pseudomonas aeruginosa</em> – Candida interplay: Effect on in vitro antibiotic susceptibility of <em>Pseudomonas aeruginosa</em> when grown in the presence <em>Candida</em> culture
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/09674845.2020.1819003?journalCode=tbbs20)
+[Source](https://www.biorxiv.org/content/10.1101/2020.09.06.284695v1.full)
 
 ---
 
-## Impact of DNA extraction on whole genome sequencing analysis for characterization and relatedness of Shiga toxin-producing <em>Escherichia coli</em> isolates
+## Predictive values of colon microbiota in the treatment response to colorectal cancer.
+ 08.09.2020, _J Galan-Ros, V Ramos-Arenas, P Conesa-Zamora_
 
-[Source](https://www.nature.com/articles/s41598-020-71207-3)
 
----
+The crosstalk between the colon mucosa and the microbiota represents a complex and delicate equilibrium. Gastrointestinal diseases such as inflammatory bowel disease and colorectal cancer (CRC) are associated with a state of altered microbiota composition known as dysbiosis, which seems to play a causative role in some of these illnesses. Recent reports have shown that the colorectal microbiome is responsible for the response and safety to treatments against CRC, especially immunotherapy, hence opening the possibility to use bacteria as a predictive marker and also as a therapeutic agent. The review objective is to summarize updated reports about the the implication of the colorectal microbiome in the development of CRC, in treatment response and its potential as a therapeutic approach.
 
-## Evolution of diversity explains the impact of pre-adaptation of a focal species on the structure of a natural microbial community
+[Source](https://www.futuremedicine.com/doi/10.2217/pgs-2020-0044)
 
-[Source](https://www.nature.com/articles/s41396-020-00755-3)
-
----
-
-## Biomass-degrading glycoside hydrolases of archaeal origin
-
-[Source](https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-020-01792-y)
+10.2217/pgs-2020-0044
 
 ---
 
-## Mining for novel antibiotics in the age of antimicrobial resistance
+## Long-term effects of western diet consumption in male and female mice.
+ 08.09.2020, _Y Hasegawa, SY Chen, L Sheng, PK Jena, KM Kalanetra, DA Mills, YY Wan, CM Slupsky_
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1751-7915.13662)
 
----
+Long-term consumption of a diet with excessive fat and sucrose (Western diet, WD) leads to an elevated risk of obesity and metabolic syndrome in both males and females. However, there are sexual dimorphisms in metabolism which are apparent when considering the prevalence of complications of metabolic syndrome, such as non-alcoholic fatty liver disease. This study aimed to elucidate the impact of a WD on the metabolome and the gut microbiota of male and female mice at 5, 10, and 15 months to capture the dynamic and comprehensive changes brought about by diet at different stages of life. Here we show that there are important considerations of age and sex that should be considered when assessing the impact of diet on the gut microbiome and health.
 
-## Association between the microbiomes of tonsil and saliva samples isolated from pediatric patients subjected to tonsillectomy for the treatment of tonsillar hyperplasia
+[Source](https://www.nature.com/articles/s41598-020-71592-9)
 
-[Source](https://www.nature.com/articles/s12276-020-00487-6)
-
----
-
-## The impact of the human microbiome in forensic sciences: A systematic review 
-
-[Source](https://aem.asm.org/content/early/2020/09/01/AEM.01451-20.abstract)
+10.1038/s41598-020-71592-9
 
 ---
 
-## The evolving role of the lung microbiome in pulmonary fibrosis
+## Young versus aged microbiota transplants to germ-free mice: increased short-chain fatty acids and improved cognitive performance.
+ 08.09.2020, _J Lee, VR Venna, DJ Durgan, H Shi, J Hudobenko, N Putluri, J Petrosino, LD McCullough, RM Bryan_
 
-[Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00258.2020)
 
----
+Aging is associated with cognitive decline and decreased concentrations of short-chain fatty acids (SCFAs) in the gut. SCFAs are significant in that they are protective to the gut and other organs. We tested the hypothesis that the aged gut microbiome alone is sufficient to decrease SCFAs in the host and produces cognitive decline. Fecal transplant gavages (FTGs) from aged (18-20 months) or young (2-3 months) male C57BL/6 mice into germ-free male C57BL/6 mice (N = 11 per group) were initiated at ~3 months of age. Fecal samples were collected and behavioral testing was performed over the study period. Bacterial community structures and relative abundances were measured in fecal samples by sequencing the bacterial 16S ribosomal RNA gene. Mice with aged and young microbiomes showed clear differences in bacterial β diversity at 30, 60, and 90 d (P = .001 for each) after FTGs. The fecal SCFAs, acetate, propionate, and butyrate (microbiome effect, P &lt; .01 for each) were decreased in mice with an aged microbiome. Mice with an aged microbiome demonstrated depressive-like behavior, impaired short-term memory, and impaired spatial memory over the 3 months following the initial FTG as assessed by the tail suspension (P = .008), the novel object recognition (P &lt; .001), and the Barnes Maze (P = .030) tests, respectively. We conclude that an aged microbiome alone is sufficient to decrease SCFAs in the host and to produce cognitive decline.
 
-## Recent advances in understanding the ecology of the lung microbiota and deciphering the gut-lung axis
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1814107)
 
-[Source](https://journals.physiology.org/doi/abs/10.1152/ajplung.00360.2020)
-
----
-
-## Altered gut microbiota correlated with systemic inflammation in children with Kawasaki disease
-
-[Source](https://www.nature.com/articles/s41598-020-71371-6)
+10.1080/19490976.2020.1814107
 
 ---
 
-## Gut microbiota in human metabolic health and disease – Fan and Pedersen
+## Temporal changes in the fecal bacterial community in Holstein dairy calves from birth through the transition to a solid diet.
+ 08.09.2020, _ML Hennessy, N Indugu, B Vecchiarelli, J Bender, C Pappalardo, M Leibstein, J Toth, A Katepalli, S Garapati, D Pitta_
 
-[Source](https://www.nature.com/articles/s41579-020-0433-9)
 
----
+The development of a robust microbiome is critical to the health of dairy calves, but relatively little is known about the progression of the microbiome through the weaning transition. In this study, fecal samples were obtained from ten female Holstein calves at 6 timepoints between 2-13 weeks of age. Calves were fed acidified milk until weaning at 8 weeks old and had access to starter grain throughout the study. Fecal samples were extracted for genomic DNA, PCR-amplified for the V1-V2 region of the 16S rRNA bacterial gene, sequenced on the Illumina MiSeq platform, and analyzed using the QIIME2 pipeline. Bacterial richness, estimated by number of observed species, and bacterial diversity, estimated by Shannon diversity index, both differed significantly between timepoints and both increased over time (P &lt;0.05), with the largest increases occurring during weaning. Weighted and unweighted UniFrac analysis showed significant differences (P &lt;0.05) between bacterial communities across timepoints; betadisper analysis revealed that the microbiomes of individual calves became more similar with time. Throughout the study, Firmicutes was the dominant phylum, followed by Bacteroidetes. Thirteen bacterial genera were found to be significantly influenced by time, including Faecalibacterium, Clostridium, unclassified S24-7, Collinsella, Sharpea, and Treponema. Unclassified Ruminococcaceae was the most prevalent genus at timepoints 1, 3, 5, and 6, but different amplicon sequence variants were detected at each timepoint suggesting the presence of different species of Ruminococcaceae at different times. Bacteroides was the most prevalent genus at timepoint 2, and Prevotella was most prevalent at timepoint 4. Our results indicate that there is considerable variation in the calf microbiome pre-weaning, but the microbial community stabilizes and becomes similar to the adult microbiome at weaning. Further studies to describe the phylogeny and functionality of core microbiota through the weaning transition are needed to improve health and reduce diarrhea in the neonatal period.
 
-## Lactose-reduced infant formula with added corn syrup solids is associated with a distinct gut microbiota in Hispanic infants
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238882)
 
-[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1813534)
-
----
-
-## Gut bacterial communities and their contribution to performance of specialist <em>Altica</em> flea beetles
-
-[Source](https://link.springer.com/article/10.1007/s00248-020-01590-x)
+10.1371/journal.pone.0238882
 
 ---
 
-## Dynamic changes of gut microbiota of discus fish (<em>Symphysodon haraldi</em>) at different feeding stages
+## Comparison of the microbial diversity during two different wine fermentation processes.
+ 08.09.2020, _M Böhmer, D Smoľak, K Ženišová, Z Čaplová, D Pangallo, A Puškárová, M Bučková, T Cabicarová, J Budiš, K Šoltýs, D Rusňáková, T Kuchta, T Szemes_
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0044848620319724)
 
----
+Wine production is a complex procedure in which an important role is played by many microorganisms, particularly yeasts and bacteria. In modern wineries, alcoholic fermentation is usually carried out by adding microbial starter cultures of Saccharomyces cerevisiae strains for precisely controlled production. Nowadays, in Slovak republic, autochthonous vinification is getting more popular. The presented article deals with the comparison of two vinification approaches, namely spontaneous and controlled by a standard commercial S. cerevisiae starter, from the point of view of microbiota dynamics and the chemical characteristics of the produced wines. The dynamics of microbial populations were determined during the fermentation process by 16S and 28S rRNA next-generation sequencing approach. Profile of the volatile compounds during these fermentation processes was identified by SPME-GC/MS analysis. In summary, the microbial diversity in the m1 phase (initial must) was higher, despite the presence of the starter culture. In the m3 phase (young wine), the microbiome profiles of both batches were very similar. It seems that the crucial phase in order to study the relationship of the microbiome and the resulting product should be based on the m2 phase (fermented must), where the differences between autochthonous and inoculated batch were more evident.
 
-## Diversity of cultivable microbes from soil of the Fildes Peninsula, Antarctica, and their potential application
+[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaa150/5902846)
 
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.570836/full)
-
----
-
-## Structural and functional microbial diversity of sandy soil under cropland and grassland
-
-[Source](https://peerj.com/articles/9501/)
+10.1093/femsle/fnaa150
 
 ---
 
-## Microbiome–environment interactions in antimony-contaminated rice paddies and the correlation of core microbiome with arsenic and antimony contamination
+## Functional metagenomics of bark microbial communities from avocado trees (Persea americana Mill.) reveals potential for bacterial 
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S004565352032422X)
-
----
-
-## Implications of endophytic microbiota in <em>Camellia Sinensis</em>: A review on current understanding and future insights
-
-[Source](https://www.tandfonline.com/doi/pdf/10.1080/21655979.2020.1816788)
+[Source](https://www.biorxiv.org/content/10.1101/2020.09.05.284570v1.abstract)
 
 ---
 
-## Characterizing the nectar microbiome of the non-native tropical milkweed, <em>Asclepias curassavica</em>, in an urban environment 
+## BacAnt: the combination annotation server of antibiotic resistance gene, insertion sequences, integron, transposable elements for bacterial DNA sequences
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237561)
-
----
-
-## Prokaryotic diversity in stream sediments affected by acid mine drainage
-
-[Source](https://link.springer.com/article/10.1007/s00792-020-01196-8)
+[Source](https://www.biorxiv.org/content/10.1101/2020.09.05.284273v1.abstract)
 
 ---
 
-## Combination of genetic tools to discern <em>Bacillus</em> species isolated from hot springs in South Africa
+## Plant-based diets shine when looking at the gut microbiome
 
-[Source](https://academicjournals.org/journal/AJMR/article-full-text-pdf/94619F264699)
-
----
-
-## Bioleaching of pyritic coal wastes: bioprospecting and efficiency of selected consortia
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0923250820300814)
-
----
-
-## Genotypic and phylogenetic diversity of new isolates of terrestrial Xanthophyceae (Stramenopiles) from maritime sandy habitats
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/00318884.2020.1802950)
-
----
-
-## <em>Paucihalobacter ruber</em> gen. nov., sp. nov., isolated from a haloalkaline lake sediment sample
-
-[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004421)
-
----
-
-## Comparative analysis of bacterial diversity and community structure in the rhizosphere and root endosphere of two halophytes, <em>Salicornia europaea</em> and <em>Glaux maritima</em>, collected from two brackish lakes in Japan 
-
-[Source](https://www.jstage.jst.go.jp/article/jsme2/35/3/35_ME20072/_pdf)
-
----
-
-## Fungal diversity in deep-sea sediments from Magellan seamounts environment of the western Pacific revealed by high-throughput Illumina sequencing.
- 02.09.2020, _S Yang, W Xu, Y Gao, X Chen, ZH Luo_
-
-
-There are lots of seamounts globally whose primary production is disproportionally greater than the surrounding areas. Compared to other deep-sea environments, however, the seamounts environment is relatively less explored for fungal diversity. In the present study, we explored the fungal community structure in deep-sea sediments from four different stations of the Magellan seamounts environment by using high-throughput sequencing of the ITS1 region. A total of 1,897,618 ITS1 sequences were obtained. Among these sequences, fungal ITS1 sequences could be clustered into 1,662 OTUs. The majority of these sequences belonged to Ascomycota. In the genera level, the most abundant genus was Mortierella (4.79%), which was reported as a common fungal genus in soil and marine sediments, followed by Umbelopsis (3.80%), Cladosporium (2.98%), Saccharomycopsis (2.53%), Aspergillus (2.42%), Hortaea (2.36%), Saitozyma (2.20%), Trichoderma (2.12%), Penicillium (2.11%), Russula (1.86%), and Verticillium (1.40%). Most of these recovered genera belong to Ascomycota. The Bray-Curtis analysis showed that there was 37 to 85% dissimilarity of fungal communities between each two sediment samples. The Principal coordinates analysis clearly showed variations in the fungal community among different sediment samples. These results suggested that there was a difference in fungal community structures not only among four different sampling stations but also for different layers at the same station. The depth and geographical distance significantly affect the fungal community, and the effect of depth and geographical distance on the structure of the fungal community in the Magellan seamounts is basically same. Most of the fungi were more or less related to plants, these plant parasitic/symbiotic/endophytic fungi constitute a unique type of seamounts environmental fungal ecology, different from other marine ecosystems.
-
-[Source](https://link.springer.com/article/10.1007/s12275-020-0198-x)
-
-10.1007/s12275-020-0198-x
-
----
-
-## Effect of Ferrous Iron Addition on Ammonium Nitrogen Removal and Microbial Communities in Horizontal Subsurface Flow Constructed Wetlands
-
-[Source](https://link.springer.com/article/10.1007/s13157-020-01343-z)
-
----
-
-## Microplastics negatively affect soil fauna but stimulate microbial activity: insights from a field-based microplastic addition experiment.
- 02.09.2020, _D Lin, G Yang, P Dou, S Qian, L Zhao, Y Yang, N Fanin_
-
-
-Microplastics are recognized as an emerging contaminant worldwide. Although microplastics have been shown to strongly affect organisms in aquatic environments, less is known about whether and how microplastics can affect different taxa within a soil community, and it is unclear whether these effects can cascade through soil food webs. By conducting a microplastic manipulation experiment, i.e. adding low-density polyethylene fragments in the field, we found that microplastic addition significantly affected the composition and abundance of microarthropod and nematode communities. Contrary to soil fauna, we found only small effects of microplastics on the biomass and structure of soil microbial communities. Nevertheless, structural equation modelling revealed that the effects of microplastics strongly cascade through the soil food webs, leading to the modification of microbial functioning with further potential consequences on soil carbon and nutrient cycling. Our results highlight that taking into account the effects of microplastics at different trophic levels is important to elucidate the mechanisms underlying the ecological impacts of microplastic pollution on soil functioning.
-
-[Source](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2020.1268)
-
-10.1098/rspb.2020.1268
-
----
-
-## Shared bicycle microbial community: a potential antibiotic-resistant bacteria warehouse.
- 05.09.2020, _Y Wu, J Xie, J Li, J Zhao, S Qiao, Y Li, J Zeng_
-
-
-Shared bicycle is an emerging form of public transportation in China and around the world. However, the bacterial community and drug-resistant microbiome on these bicycles have not been reported. Samples from 10 shared bicycles were observed by scanning electron microscopy (SEM). Nine samples collected from 90 shared bicycles in three different kinds of location (hospital, metro station, shopping mall) were used for full-length 16S rDNA gene analysis to figure out the bacterial composition of the shared bicycle. Samples from 32 shared bicycles were used to investigate culturable drug-resistant bacteria of the shared bicycle bacterial community. It was found that in the shared bicycle bacterial community, Bacillus was the most abundant bacteria, as determined by both SEM observation and full-length 16S rDNA gene analysis. For the analysis of drug-resistant bacteria, Bacillus showed the strongest drug resist ability. Moreover, the resistances to bacitracin and sulfamethoxazole were the most common among all types of bacteria. Our study provides an important reference for the prevention of the potential spread of drug-resistant bacteria through shared bicycles.
-
-[Source](https://link.springer.com/article/10.1007/s12223-020-00820-6)
-
-10.1007/s12223-020-00820-6
-
----
-
-## Microbial carrying capacity and carbon biomass of plastic marine debris.
- 03.09.2020, _S Zhao, ER Zettler, LA Amaral-Zettler, TJ Mincer_
-
-
-Trillions of plastic debris fragments are floating at sea, presenting a substantial surface area for microbial colonization. Numerous cultivation-independent surveys have characterized plastic-associated microbial biofilms, however, quantitative studies addressing microbial carbon biomass are lacking. Our confocal laser scanning microscopy data show that early biofilm development on polyethylene, polypropylene, polystyrene, and glass substrates displayed variable cell size, abundance, and carbon biomass, whereas these parameters stabilized in mature biofilms. Unexpectedly, plastic substrates presented lower volume proportions of photosynthetic cells after 8 weeks, compared to glass. Early biofilms displayed the highest proportions of diatoms, which could influence the vertical transport of plastic debris. In total, conservative estimates suggest 2.1 × 1021 to 3.4 × 1021 cells, corresponding to about 1% of the microbial cells in the ocean surface microlayer (1.5 × 103 to 1.1 × 104 tons of carbon biomass), inhabit plastic debris globally. As an unnatural addition to sea surface waters, the large quantity of cells and biomass carried by plastic debris has the potential to impact biodiversity, autochthonous ecological functions, and biogeochemical cycles within the ocean.
-
-[Source](https://www.nature.com/articles/s41396-020-00756-2)
-
-10.1038/s41396-020-00756-2
-
----
-
-## Proteolysis, lipolysis, texture and sensory properties of cheese ripened by <em>Monascus fumeus</em>
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996920306827)
-
----
-
-## <span class="has-inline-color has-vivid-green-cyan-color">Best practices for successfully writing and publishing a genome announcement in microbiology resource announcements</span>
-
-[Source](https://mra.asm.org/content/ga/9/36/e00763-20.full.pdf)
-
----
-
-## Flow-through stable isotope probing (Flow-SIP) minimizes cross-feeding in complex microbial communities
-
-[Source](https://www.nature.com/articles/s41396-020-00761-5)
+[Source](https://www.contemporarypediatrics.com/view/plant-based-diets-shine-when-looking-at-the-gut-microbiome)
 
 ---
 
