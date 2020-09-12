@@ -82,15 +82,15 @@ Actinobacteria constitute a highly diverse bacterial phylum with an unrivalled m
 
 ---
 
-## Micronized curcumin fabricated by supercritical CO2 to improve antibacterial activity against Pseudomonas aeruginosa.
- 08.09.2020, _B Xue, J Huang, H Zhang, B Li, M Xu, Y Zhang, M Xie, X Li_
+## A comprehensive and comparative study on the action of pentacyclic triterpenoids on Vibrio cholerae biofilms.
+ 11.09.2020, _SP Bhattacharya, A Bhattacharya, A Sen_
 
 
-Curcumin (CM) is a natural polyphenolic compound with multiple biomedical functions. However, clinical applications face more challenges due to its low dissolution rate and poor bioavailability. Micronization is an effective strategy to overcome these drawbacks. Herein, CM nanoparticles (CM NPs, ∼300 nm) were fabricated using solution enhanced dispersion by supercritical CO2 (SEDS). The solubility of CM NPs was remarkably enhanced. Aim to study the effects of micronization on the biological functions of CM, we investigated the antibacterial activity of original CM and CM NPs upon Pseudomonas aeruginosa. In vitro, the minimal inhibitory concentrations (MIC) assay, solid-medium spot assay, growth kinetics assay and morphologic observation using atomic force microscopy (AFM) confirmed that the anti-P. aeruginosa activity of CM NPs was enhanced compared to original CM. Moreover, CM NPs also showed stronger inhibition for adhesion and biofilm formation of P. aeruginosa compared to original CM. Experiments on mice infected with P. aeruginosa showed that CM NPs have a better therapeutic effect than the original CM in vivo. In summary, CM NPs may be a novel and promising therapeutic candidate for bacterial infection.
+While serving as environmental reservoir for V. cholerae infection, biofilms are also crucial for intestinal colonization of the pathogen. Triterpenoids, a group of bioactive phytochemicals, have been tested for antibiofilm activity against model biofilm forming bacteria in recent times. In this context, glycyrrhetinic acid (GRA), ursolic acid (UA) and betulinic acid (BA), representing three categorically distinct groups of pentacyclic triterpenoids, are targeted for profiling their impact on Vibrio cholerae C6709 biofilms. The triterpenoids substantially affected biofilm associated attributes like formation, substratum adherence and dispersion from preformed biofilms. Though at variable degree, the compounds decreased cell surface hydrophobicity and composition in terms of macromolecular content. Not only EPS-associated extracellular enzyme activities were estimated to be reduced by triterpenoid exposure, ultra structural analysis also revealed that GRA, UA and BA can affect extracellular polymeric substance (EPS) content. Albeit total extracellular proteolytic activity remained unaffected by the triterpenoids, GRA treatment resulted in considerable reduction of extracellular gelatinase activity. Molecular docking analysis indicated potential interaction with cyclic di-GMP sensor VpsT, autoinducer-2 sensor kinase LuxP-LuxQ and transcriptional activator HapR, components of complex quorum sensing networks modulating biofilm formation. Comprehensive analysis of antibiotic action revealed accentuation of cephalosporin antibiotics with GRA and UA while BA potentiated action of fluoroquinolones against biofilmed bacteria, widening the scope of combinatorial therapeutic strategy.
 
 [Source](https://www.nature.com/articles/s41579-020-0385-0?utm_source=nrmicro_etoc&utm_medium=email&utm_campaign=toc_41579_18_10&utm_content=20200910&sap-outbound-id=5F9A14976A367FE13D8A62AC267232F445E3D0CE)
 
-10.1080/21691401.2020.1815755
+10.1016/j.micpath.2020.104493
 
 ---
 
