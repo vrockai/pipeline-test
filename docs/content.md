@@ -71,7 +71,7 @@ Healthcare professionals (HCPs) on the front lines against COVID-19 may face inc
 ---
 
 ## Ecology and genomics of Actinobacteria: new concepts for natural product discovery.
- 28.06.2020, _DA van Bergeijk, BR Terlouw, MH Medema, GP van Wezel_
+ 11.09.2020, _DA van Bergeijk, BR Terlouw, MH Medema, GP van Wezel_
 
 
 Actinobacteria constitute a highly diverse bacterial phylum with an unrivalled metabolic versatility. They produce most of the clinically used antibiotics and a plethora of other natural products with medical or agricultural applications. Modern 'omics'-based technologies have revealed that the genomic potential of Actinobacteria greatly outmatches the known chemical space. In this Review, we argue that combining insights into actinobacterial ecology with state-of-the-art computational approaches holds great promise to unlock this unexplored reservoir of actinobacterial metabolism. This enables the identification of small molecules and other stimuli that elicit the induction of poorly expressed biosynthetic gene clusters, which should help reinvigorate screening efforts for their precious bioactive natural products.
