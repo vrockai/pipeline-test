@@ -1,84 +1,115 @@
-## Lactobacillus species signature in association with term and preterm births from low-income group of Pakistan.
- 07.09.2020, _S Aslam, V Sayeed Saraf, S Saleem, S Saeed, S Javed, M Janjua, H Bokhari_
+## Altered vaginal microbiome and relative co-abundance network in pregnant women with penicillin allergy
 
-
-It is estimated that around 15 million babies are born prematurely every year and approximately one million children die each year due to complications of preterm birth (PTB). Many survivors face a lifetime of disability, including learning disabilities and visual and hearing problems. The current study aimed to characterize Lactobacillus species isolated from vaginal swabs and determine their antibiotic susceptibility.
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/14767058.2020.1810660)
-
-10.1080/14767058.2020.1810660
+[Source](https://doi.org/10.1186/s13223-020-00475-5)
 
 ---
 
-## Long-term use of antibiotics and risk of type 2 diabetes in women: a prospective cohort study.
- 07.09.2020, _J Yuan, YJ Hu, J Zheng, JH Kim, T Sumerlin, Y Chen, Y He, C Zhang, J Tang, Y Pan, M Moore_
+## Mechanisms underpinning the efficacy of faecal microbiota transplantation in treating gastrointestinal disease
 
-
-Accumulating evidence suggested that long-term antibiotic use may alter the gut microbiome, which has, in turn, been linked to type 2 diabetes. We undertook this study to investigate whether antibiotic use was associated with increased risk of type 2 diabetes.
-
-[Source](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa122/5902133)
-
-10.1093/ije/dyaa122
+[Source](https://doi.org/10.1177/1756284820946904)
 
 ---
 
-## The Impact of Diabetes on the Gut and Salivary IgA Microbiomes.
- 11.09.2020, _EL Brown, HT Essigmann, KL Hoffman, NW Palm, SM Gunter, JM Sederstrom, JF Petrosino, G Jun, D Aguilar, WB Perkison, CL Hanis, HL DuPont_
+## Deep-sea mussels from a hybrid zone on the Mid-Atlantic Ridge host genetically indistinguishable symbionts
 
-
-Mucosal surfaces like those present in the lung, gut, and mouth interface with distinct external environments. These mucosal gateways are not only portals of entry for potential pathogens but homes to microbial communities that impact host health. Secretory immunoglobulin A (SIgA) is the single most abundant acquired immune component secreted into mucosal surfaces and via the process of immune exclusion, shapes the architecture of these microbiomes. Not all microorganisms at mucosal surfaces are targeted by SIgA, therefore a better understanding of the SIgA-coated fraction may identify the microbial constituents that stimulate host immune responses in the context of health and disease. Chronic diseases like type 2 diabetes are associated with altered microbial communities (dysbiosis) that in turn affect immune-mediated homeostasis. 16S rDNA sequencing of SIgA-coated/uncoated bacteria (IgA-Biome) was conducted on stool and saliva samples of normoglycemic participants and individuals with prediabetes or diabetes (n=8/group). These analyses demonstrated shifts in relative abundance in the IgA-Biome profiles between normoglycemic, prediabetic, or diabetic samples distinct from that of the overall microbiome. Differences in IgA-Biome alpha diversity were apparent for both stool and saliva, while overarching bacterial community differences (beta diversity) were also observed in saliva. These data suggest that IgA-Biome analyses can be used to identify novel microbial signatures associated with diabetes and support the need for further studies exploring these communities. Ultimately, an understanding of the IgA-Biome may promote development of novel strategies to restructure the microbiome as a means of preventing or treating diseases associated with dysbiosis at mucosal surfaces.
-
-[Source](https://iai.asm.org/content/early/2020/09/01/IAI.00301-20.abstract)
-
-10.1128/IAI.00301-20
+[Source](https://doi.org/10.1101/2020.09.11.282681)
 
 ---
 
-## Effects of dietary replacement of soybean meal with dried distillers grains with solubles on the microbiota occupying different ecological niches in the rumen of growing Hu lambs 
+## Metagenomic analysis of viral communities in Baikal sponges
 
-[Source](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-020-00499-2)
-
----
-
-## Pathogen identification and epidemiological assessment in recirculation aquaculture system based on Illumina sequencing technology
-
-[Source](http://limnolfwbiol.com/index.php/LFWB/article/view/612)
+[Source](https://doi.org/10.31951/2658-3518-2020-A-4-777)
 
 ---
 
-## How oral probiotics affect the severity of an experimental model of progressive multiple sclerosis? Bringing commensal bacteria into the neurodegenerative process
+## Microbial community associated with Baicalian crustacea near gas-oil deepwater discharges
 
-[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2020.1813532)
-
----
-
-## General Microbiota of the Soft TickOrnithodoros turicataParasitizing the Bolson Tortoise(Gopherus flavomarginatus) in the Mapimi BiosphereReserve, Mexico
-
-[Source](https://www.mdpi.com/2079-7737/9/9/275)
+[Source](https://doi.org/10.31951/2658-3518-2020-A-4-991)
 
 ---
 
-## Bioturbation by the marine polychaete Capitella teleta alters sediment microbial community by ingestion and defecation of sediment particles
+## Investigating the role of root exudates in recruiting Streptomyces bacteria to the <em>Arabidopsis thaliana</em> root microbiome
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720357685)
-
----
-
-## Bacteria in the lakes of the Tibetan Plateau and polar regions
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720357776)
+[Source](https://doi.org/10.1101/2020.09.09.290742)
 
 ---
 
-## Sulfate-reducing bacterial community shifts in response to acid mine drainage in the sediment of the Hengshi watershed, South China
+## <span style="color:#ff6600;">Gene exchange networks define species-like units in marine prokaryotes</span>
 
-[Source](https://link.springer.com/article/10.1007/s11356-020-10248-7)
+[Source](https://doi.org/10.1101/2020.09.10.291518)
 
 ---
 
-## Predictive interactome modeling for precision microbiome engineering
+## The effects of seasonal anoxia on the microbial community structure in demosponges in a marine lake (Lough Hyne, Ireland)
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S2211339820300496)
+[Source](https://doi.org/10.1101/2020.09.09.290791)
+
+---
+
+## Diversity and dynamics of fungi during spontaneous fermentations and association with unique aroma profiles in wine
+
+[Source](https://doi.org/10.1101/2020.09.10.290536)
+
+---
+
+## Depicting the RNA Virome of Hematophagous Arthropods from Belgrade, Serbia
+
+[Source](https://doi.org/10.3390/v12090975)
+
+---
+
+##  An Unconventional Flavivirus and other RNA Viruses in the Sea Cucumber (Holothuroidea; Echinodermata) Virome
+
+[Source](https://www.preprints.org/manuscript/202009.0061/v1)
+
+---
+
+## Challenges in gene-oriented approaches for pangenome content discovery.
+ 07.09.2020, _V Bonnici, E Maresi, R Giugno_
+
+
+Given a group of genomes, represented as the sets of genes that belong to them, the discovery of the pangenomic content is based on the search of genetic homology among the genes for clustering them into families. Thus, pangenomic analyses investigate the membership of the families to the given genomes. This approach is referred to as the gene-oriented approach in contrast to other definitions of the problem that takes into account different genomic features. In the past years, several tools have been developed to discover and analyse pangenomic contents. Because of the hardness of the problem, each tool applies a different strategy for discovering the pangenomic content. This results in a differentiation of the performance of each tool that depends on the composition of the input genomes. This review reports the main analysis instruments provided by the current state of the art tools for the discovery of pangenomic contents. Moreover, unlike previous works, the presented study compares pangenomic tools from a methodological perspective, analysing the causes that lead a given methodology to outperform other tools. The analysis is performed by taking into account different bacterial populations, which are synthetically generated by changing evolutionary parameters. The benchmarks used to compare the pangenomic tools, in addition to the computational pipeline developed for this purpose, are available at https://github.com/InfOmics/pangenes-review. Contact: V. Bonnici, R. Giugno Supplementary information: Supplementary data are available at Briefings in Bioinformatics online.
+
+[Source](https://doi.org/10.1093/bib/bbaa198)
+
+10.1093/bib/bbaa198
+
+---
+
+## A Data Driven Binning Method to Recover More Nucleotide Sequences of Species in a Metagenome
+
+[Source](https://doi.org/10.1109/MERCon50084.2020.9185388)
+
+---
+
+## CasCollect: targeted assembly of CRISPR-associated operons from high-throughput sequencing data
+
+[Source](https://doi.org/10.1093/nargab/lqaa063)
+
+---
+
+## Next-Generation Metagenomics: Methodological Challenges and Opportunities.
+ 30.04.2020, _I Laudadio, V Fulci, L Stronati, C Carissimi_
+
+
+_Animals, Big Data, Biodiversity, Computational Biology, Databases, Genetic, High-Throughput Nucleotide Sequencing, Humans, Metagenome, Metagenomics, Microbiological Techniques, Microbiology, Microbiota_
+Metagenomics is not only one of the newest omics system science technologies but also one that has arguably the broadest set of applications and impacts globally. Metagenomics has found vast utility not only in environmental sciences, ecology, and public health but also in clinical medicine and looking into the future, in planetary health. In line with the One Health concept, metagenomics solicits collaboration between molecular biologists, geneticists, microbiologists, clinicians, computational biologists, plant biologists, veterinarians, and other health care professionals. Almost every ecological niche of our planet hosts an extremely diverse community of organisms that are still poorly characterized. Detailed characterization of the features of such communities is instrumental to our comprehension of ecological, biological, and clinical complexity. This expert review article evaluates how metagenomics is improving our knowledge of microbiota composition from environmental to human samples. Furthermore, we offer an analysis of the common technical and methodological challenges and potential pitfalls arising from metagenomics approaches, such as metagenomics study design, data processing, and interpretation. All in all, at this critical juncture of further growth of the metagenomics field, it is time to critically reflect on the lessons learned and the future prospects of next-generation metagenomics science, technology, and conceivable applications, particularly from the standpoint of a metagenomics methodology perspective.
+
+[Source](https://doi.org/10.1007/978-981-15-6529-8)
+
+10.1089/omi.2019.0073
+
+---
+
+##  Metagenomics: Techniques, Applications, Challenges and Opportunities
+
+[Source](https://doi.org/10.1007/978-981-15-6529-8)
+
+---
+
+## Big data in biology: The hope and present-day challenges in it
+
+[Source](https://doi.org/10.1016/j.genrep.2020.100869)
 
 ---
 
