@@ -1,150 +1,115 @@
-## Adhesion of <em>Staphylococcus aureus</em> to epithelial cells: an in vitro approach to study interactions within the nasal microbiota
+## Antibiotics during childhood and development of appendicitis-a nationwide cohort study
 
-[Source](https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.001248)
-
----
-
-## Early development of the skin microbiome: therapeutic opportunities.
- 12.09.2020, _BW Casterline, AS Paller_
-
-
-As human skin hosts a diverse microbiota in health and disease, there is an emerging consensus that dysregulated interactions between host and microbiome may contribute to chronic inflammatory disease of the skin. Neonatal skin is a unique habitat, structurally similar to the adult but with a different profile of metabolic substrates, environmental stressors, and immune activity. The surface is colonized within moments of birth with a bias toward maternal strains. Initial colonists are outcompeted as environmental exposures increase and host skin matures. Nonetheless, early life microbial acquisitions may have long-lasting effects on health through modulation of host immunity and competitive interactions between bacteria. Microbial ecology and its influence on health have been of interest to dermatologists for &gt;50 years, and an explosion of recent interest in the microbiome has prompted ongoing investigations of several microbial therapeutics for dermatological disease. In this review, we consider how recent insight into the host and microbial factors driving development of the skin microbiome in early life offers new opportunities for therapeutic intervention. IMPACT: Advancement in understanding molecular mechanisms of bacterial competition opens new avenues of investigation into dermatological disease.Primary development of the skin microbiome is determined by immunological features of the cutaneous habitat.Understanding coordinated microbial and immunological development in the pediatric patient requires a multidisciplinary synthesis of primary literature.
-
-[Source](https://www.nature.com/articles/s41390-020-01146-2)
-
-10.1038/s41390-020-01146-2
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/apt.16084)
 
 ---
 
-## Antibiotics create a shift from mutualism to competition in human gut communities with a longer-lasting impact on fungi than bacteria.
- 13.09.2020, _B Seelbinder, J Chen, S Brunke, R Vazquez-Uribe, R Santhaman, AC Meyer, FS de Oliveira Lino, KF Chan, D Loos, L Imamovic, CC Tsang, RP Lam, S Sridhar, K Kang, B Hube, PC Woo, MOA Sommer, G Panagiotou_
+## Bacteria-related changes in host DNA methylation and the risk for CRC
 
-
-Antibiotic treatment has a well-established detrimental effect on the gut bacterial composition, but effects on the fungal community are less clear. Bacteria in the lumen of the gastrointestinal tract may limit fungal colonization and invasion. Antibiotic drugs targeting bacteria are therefore seen as an important risk factor for fungal infections and induced allergies. However, antibiotic effects on gut bacterial-fungal interactions, including disruption and resilience of fungal community compositions, were not investigated in humans. We analysed stool samples collected from 14 healthy human participants over 3 months following a 6-day antibiotic administration. We integrated data from shotgun metagenomics, metatranscriptomics, metabolomics, and fungal ITS2 sequencing.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00899-6#:~:text=Conclusions,shifted%20from%20mutualism%20towards%20competition)
-
-10.1186/s40168-020-00899-6
+[Source](https://doi.org/10.1080/19490976.2020.1800898)
 
 ---
 
-## Multi-omics analysis reveals the influence of genetic and environmental risk factors on developing gut microbiota in infants at risk of celiac disease
+## Potential for Novel Biomarkers in Diabetes-Associated Chronic Kidney Disease: Epigenome, Metabolome, and Gut Microbiome
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00906-w)
-
----
-
-## The effects of different dietary fiber pectin structures on the gastrointestinal immune barrier: impact via gut microbiota and direct effects on immune cells 
-
-[Source](https://www.nature.com/articles/s12276-020-0449-2)
+[Source](https://doi.org/10.3390/biomedicines8090341)
 
 ---
 
-## Roles of the Polyphenol–Gut Microbiota Interaction in Alleviating Colitis and Preventing Colitis-Associated Colorectal Cancer
+## Microbiota-Mitochondria Inter-Talk: A Potential Therapeutic Strategy in Obesity and Type 2 Diabetes
 
-[Source](https://academic.oup.com/advances/advance-article/doi/10.1093/advances/nmaa104/5903422?searchresult=1)
-
----
-
-## Stomach microbiota, <em>Helicobacter pylori</em>, and group 2 innate lymphoid cells
-
-[Source](https://www.nature.com/articles/s12276-020-00485-8)
+[Source](https://www.mdpi.com/2076-3921/9/9/848)
 
 ---
 
-## Maternal supplementation with <em>Bifidobacterium breve</em> M-16V prevents their offspring from allergic airway inflammation accelerated by the prenatal exposure to an air pollutant aerosol
+## Impact of sleep fragmentation, heart failure, and their combination, on the gut microbiome
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238923)
-
----
-
-## Early Life Stress and the Development of the Infant Gut Microbiota: Implications for Mental Health and Neurocognitive Development.
- 14.09.2020, _SC Vogel, NH Brito, BL Callaghan_
-
-
-We review the state of the literature examining associations between early life stress (ELS), gut microbiota, and neurocognitive development and mental health in animals and humans. We identify gaps in current models and areas for future research.
-
-[Source](https://link.springer.com/article/10.1007/s11920-020-01186-9)
-
-10.1007/s11920-020-01186-9
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.09.11.294447v1??collection)
 
 ---
 
-## Early life interaction between the microbiota and the Enteric Nervous System.
- 09.09.2020, _JPP Foong, LY Hung, S Poon, TC Savidge, JC Bornstein_
+## Relative abundance of the Prevotella genus within the human gut microbiota of elderly volunteers determines the inter-individual responses to dietary supplementation with wheat bran arabinoxylan-oligosaccharides
 
-
-Recent studies on humans and their key experimental model, the mouse, have begun to uncover the importance of gastrointestinal (GI) microbiota and Enteric Nervous System (ENS) interactions during developmental windows spanning from conception to adolescence. Disruptions in GI microbiota and ENS during these windows by environmental factors particularly antibiotic exposure have been linked to increased susceptibility of the host to several diseases. Mouse models have provided new insights to potential signalling factors between the microbiota and ENS. We review very recent work on maturation of GI microbiota and ENS during three key developmental windows: embryogenesis, early postnatal and post-weaning periods. We discuss advances in understanding of interactions between the two systems and highlight research avenues for future studies.
-
-[Source](https://journals.physiology.org/doi/10.1152/ajpgi.00288.2020)
-
-10.1152/ajpgi.00288.2020
+[Source](https://doi.org/10.1186/s12866-020-01968-4)
 
 ---
 
-## Maternal gut microbes shape the early-life assembly of gut microbiota in passerine chicks via nests.
- 14.09.2020, _CY Chen, CK Chen, YY Chen, A Fang, GT Shaw, CM Hung, D Wang_
+## Effect of antibiotic, probiotic, and human rotavirus infection on colonisation dynamics of defined commensal microbiota in a gnotobiotic pig model.
+ 23.01.2019, _HC Huang, AN Vlasova, A Kumar, S Kandasamy, DD Fischer, L Deblais, FC Paim, SN Langel, MA Alhamo, A Rauf, L Shao, LJ Saif, G Rajashekara_
 
 
-Knowledge is growing on how gut microbiota are established, but the effects of maternal symbiotic microbes throughout early microbial successions in birds remain elusive. In this study, we examined the contributions and transmission modes of maternal microbes into the neonatal microbiota of a passerine, the zebra finch (Taeniopygia guttata), based on fostering experiments.
+_Animals, Anti-Bacterial Agents, Bifidobacterium longum, Biodiversity, Ciprofloxacin, Colony Count, Microbial, Diarrhea, Escherichia coli, Feces, Germ-Free Life, Intestines, Microbiota, Models, Biological, Probiotics, Rotavirus Infections, Severity of Illness Index, Swine, Virus Shedding_
+We developed a gnotobiotic (Gn) pig model colonised with defined commensal microbiota (DMF) to provide a simplified and controlled system to study the interactions between intestinal commensals, antibiotics (ciprofloxacin, CIP), probiotics (Escherichia coli Nissle 1917, EcN) and virulent human rotavirus (VirHRV). The DMF included seven gut commensal species of porcine origin that mimic the predominant species in the infant gut. Gn piglets were divided into four groups: DMF control (non-treated), DMF+CIP (CIP treated), DMF+CIP+EcN (CIP/EcN treated), DMF+EcN (EcN treated) and inoculated orally with 105 cfu of each DMF strain. The pig gut was successfully colonised by all DMF species and established a simplified bacterial community by post-bacteria colonisation day (PBCD) 14/post-VirHRV challenge day (PCD) 0. Overall, Bifidobacterium adolescentis was commonly observed in faeces in all groups and time points. At PCD0, after six days of CIP treatment (DMF+CIP), we observed significantly decreased aerobic and anaerobic bacteria counts especially in jejunum (P&lt;0.001), where no DMF species were detected in jejunum by T-RFLP. Following HRV challenge, 100% of pigs in DMF+CIP group developed diarrhoea with higher diarrhoea scores and duration as compared to all other groups. However, only 33% of pigs treated with EcN plus CIP developed diarrhoea. EcN treatment also enhanced the bacterial diversity and all seven DMF species were detected with a higher proportion of Bifidobacterium longum in jejunum in the DMF+CIP+EcN group on PBCD14/PCD0. Our results suggest that EcN increased the proportion of B. longum especially in jejunum and mitigated adverse impacts of antibiotic use during acute-infectious diarrhoea. The DMF model with a simplified gut commensal community can further our knowledge of how commensals and probiotics promote intestinal homeostasis and contribute to host health.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00896-9)
+[Source](https://doi.org/10.1186/s13567-020-00839-0)
 
-10.1186/s40168-020-00896-9
-
----
-
-## Impact of industrial production system parameters on chicken microbiomes: mechanisms to improve performance and reduce <em>Campylobacter</em>
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00908-8)
+10.3920/BM2016.0225
 
 ---
 
-## Elucidation of Gut Microbiota in Mud Crab <em>Scylla paramamosain</em> Challenged to WSSV and <em>Aeromonas hydrophila</em>
+## Acute and long-term effects of antibiotics commonly used in laboratory animal medicine on the fecal microbiota
 
-[Source](https://link.springer.com/article/10.1007/s10126-020-09987-y)
-
----
-
-## Soil microbial communities respond to an environmental gradient of grazing intensity in south Patagonia Argentina
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0140196320301993)
+[Source](https://doi.org/10.1186/s13567-020-00839-0)
 
 ---
 
-## Different maturities drive proteomic and metabolomic changes in Chinese black truffle
+## The impact of anthelmintic treatment on gut bacterial and fungal communities in diagnosed parasite-free sika deer Cervus nippon
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2590157520300250)
-
----
-
-## Fungal Volatile Organic Compounds: More Than Just a Funky Smell?
-
-[Source](https://www.annualreviews.org/doi/full/10.1146/annurev-micro-012420-080428)
+[Source](https://link.springer.com/article/10.1007%2Fs00253-020-10838-y)
 
 ---
 
-## Potential applications of human viral metagenomics and reference materials:&nbsp;2 considerations for current and future viruses
+## On the way to specificity – Microbiome reflects sponge genetic cluster primarily in highly structured populations
 
-[Source](https://aem.asm.org/content/aem/early/2020/09/09/AEM.01794-20.full.pdf)
-
----
-
-## Estimating the quality of eukaryotic genomes recovered from metagenomic analysis with EukCC
-
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02155-4?utm_source=other_website&utm_medium=cpm&utm_content=leaderboard&utm_campaign=BSCN_2_DD_X-molfeed)
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15635)
 
 ---
 
-## Hill-based dissimilarity indices and null models for analysis of microbial community assembly 
+## The gut microbiota may be a novel pathogenic mechanism in loosening of orthopedic implants in rats
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00909-7)
+[Source](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.202001364R)
 
 ---
 
-## A gene prioritization method based on a swine multi-omics knowledgebase and a deep learning model 
+## Characterization of Gut Microbiota in Prenatal Cold Stress Offspring Rats by 16S rRNA Sequencing
 
-[Source](https://www.nature.com/articles/s42003-020-01233-4)
+[Source](https://doi.org/10.3390/ani10091619)
+
+---
+
+## Obesity Worsens Gulf War Illness Symptom Persistence Pathology by Linking Altered Gut Microbiome Species to Long-Term Gastrointestinal, Hepatic, and Neuronal Inflammation in a Mouse Model
+
+[Source](https://doi.org/10.3390/nu12092764)
+
+---
+
+## Influence of a cholesterol-lowering strain Lactobacillus plantarum LP3 isolated from traditional fermented yak milk on gut bacterial microbiota and metabolome of rats fed with a high-fat diet
+
+[Source](https://doi.org/10.1039/d0fo01939a)
+
+---
+
+## The Microbiota-Derived Metabolite of Quercetin, 3,4-Dihydroxyphenylacetic Acid Prevents Malignant Transformation and Mitochondrial Dysfunction Induced by Hemin in Colon Cancer and Normal Colon Epithelia Cell Lines
+
+[Source](https://www.mdpi.com/1420-3049/25/18/4138)
+
+---
+
+## Constructing bi-plots for random forest: Tutorial
+
+[Source](https://doi.org/10.1016/j.aca.2020.06.043)
+
+---
+
+## Cultural isolation of spore-forming bacteria in human feces using bile acids
+
+[Source](https://doi.org/10.1038/s41598-020-71883-1)
+
+---
+
+## Bed bugs shape the indoor microbial community composition of infested homes
+
+[Source](https://doi.org/10.1016/j.scitotenv.2020.140704)
 
 ---
 
