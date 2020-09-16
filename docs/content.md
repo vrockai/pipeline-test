@@ -4,27 +4,15 @@
 
 ---
 
-## Early development of the skin microbiome: therapeutic opportunities.
- 12.09.2020, _BW Casterline, AS Paller_
-
-
-As human skin hosts a diverse microbiota in health and disease, there is an emerging consensus that dysregulated interactions between host and microbiome may contribute to chronic inflammatory disease of the skin. Neonatal skin is a unique habitat, structurally similar to the adult but with a different profile of metabolic substrates, environmental stressors, and immune activity. The surface is colonized within moments of birth with a bias toward maternal strains. Initial colonists are outcompeted as environmental exposures increase and host skin matures. Nonetheless, early life microbial acquisitions may have long-lasting effects on health through modulation of host immunity and competitive interactions between bacteria. Microbial ecology and its influence on health have been of interest to dermatologists for &gt;50 years, and an explosion of recent interest in the microbiome has prompted ongoing investigations of several microbial therapeutics for dermatological disease. In this review, we consider how recent insight into the host and microbial factors driving development of the skin microbiome in early life offers new opportunities for therapeutic intervention. IMPACT: Advancement in understanding molecular mechanisms of bacterial competition opens new avenues of investigation into dermatological disease.Primary development of the skin microbiome is determined by immunological features of the cutaneous habitat.Understanding coordinated microbial and immunological development in the pediatric patient requires a multidisciplinary synthesis of primary literature.
+## Early development of the skin microbiome: therapeutic opportunities 
 
 [Source](https://www.nature.com/articles/s41390-020-01146-2)
 
-10.1038/s41390-020-01146-2
-
 ---
 
-## Antibiotics create a shift from mutualism to competition in human gut communities with a longer-lasting impact on fungi than bacteria.
- 13.09.2020, _B Seelbinder, J Chen, S Brunke, R Vazquez-Uribe, R Santhaman, AC Meyer, FS de Oliveira Lino, KF Chan, D Loos, L Imamovic, CC Tsang, RP Lam, S Sridhar, K Kang, B Hube, PC Woo, MOA Sommer, G Panagiotou_
-
-
-Antibiotic treatment has a well-established detrimental effect on the gut bacterial composition, but effects on the fungal community are less clear. Bacteria in the lumen of the gastrointestinal tract may limit fungal colonization and invasion. Antibiotic drugs targeting bacteria are therefore seen as an important risk factor for fungal infections and induced allergies. However, antibiotic effects on gut bacterial-fungal interactions, including disruption and resilience of fungal community compositions, were not investigated in humans. We analysed stool samples collected from 14 healthy human participants over 3 months following a 6-day antibiotic administration. We integrated data from shotgun metagenomics, metatranscriptomics, metabolomics, and fungal ITS2 sequencing.
+## Antibiotics create a shift from mutualism to competition in human gut communities with a longer-lasting impact on fungi than bacteria
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00899-6#:~:text=Conclusions,shifted%20from%20mutualism%20towards%20competition)
-
-10.1186/s40168-020-00899-6
 
 ---
 
@@ -40,9 +28,15 @@ Antibiotic treatment has a well-established detrimental effect on the gut bacter
 
 ---
 
-## Roles of the Polyphenol–Gut Microbiota Interaction in Alleviating Colitis and Preventing Colitis-Associated Colorectal Cancer
+## Roles of the Polyphenol-Gut Microbiota Interaction in Alleviating Colitis and Preventing Colitis-Associated Colorectal Cancer.
+ 09.09.2020, _Y Zhao, Q Jiang_
+
+
+Accumulating evidence indicates that the gut microbiota can promote or inhibit colonic inflammation and carcinogenesis. Promotion of beneficial gut bacteria is considered a promising strategy to alleviate colonic diseases including colitis and colorectal cancer. Interestingly, dietary polyphenols, which have been shown to attenuate colitis and inhibit colorectal cancer in animal models and some human studies, appear to reach relatively high concentrations in the large intestine and to interact with the gut microbial community. This review summarizes the modulatory effects of polyphenols on the gut microbiota in humans and animals under healthy and diseased conditions including colitis and colitis-associated colorectal cancer (CAC). Existing human and animal studies indicate that polyphenols and polyphenol-rich whole foods are capable of elevating butyrate producers and probiotics that alleviate colitis and inhibit CAC, such as Lactobacillus and Bifidobacterium. Studies in colitis and CAC models indicate that polyphenols decrease opportunistic pathogenic or proinflammatory microbes and counteract disease-induced dysbiosis. Consistently, polyphenols also change microbial functions, including increasing butyrate formation. Moreover, polyphenol metabolites produced by the gut microbiota appear to have anticancer and anti-inflammatory activities, protect gut barrier integrity, and mitigate inflammatory conditions in cells and animal models. Based on these results, we conclude that polyphenol-mediated alteration of microbial composition and functions, together with polyphenol metabolites produced by the gut microbiota, likely contribute to the protective effects of polyphenols on colitis and CAC. Future research is needed to validate the causal role of the polyphenol-gut microbiota interaction in polyphenols' anti-colitis and anti-CAC effects, and to further elucidate mechanisms underlying such interaction.
 
 [Source](https://academic.oup.com/advances/advance-article/doi/10.1093/advances/nmaa104/5903422?searchresult=1)
+
+10.1093/advances/nmaa104
 
 ---
 
@@ -58,9 +52,15 @@ Antibiotic treatment has a well-established detrimental effect on the gut bacter
 
 ---
 
-## Early Life Stress and the Development of the Infant Gut Microbiota: Implications for Mental Health and Neurocognitive Development
+## Early Life Stress and the Development of the Infant Gut Microbiota: Implications for Mental Health and Neurocognitive Development.
+ 14.09.2020, _SC Vogel, NH Brito, BL Callaghan_
+
+
+We review the state of the literature examining associations between early life stress (ELS), gut microbiota, and neurocognitive development and mental health in animals and humans. We identify gaps in current models and areas for future research.
 
 [Source](https://link.springer.com/article/10.1007/s11920-020-01186-9)
+
+10.1007/s11920-020-01186-9
 
 ---
 
