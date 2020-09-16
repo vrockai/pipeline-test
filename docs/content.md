@@ -40,15 +40,9 @@ Antibiotic treatment has a well-established detrimental effect on the gut bacter
 
 ---
 
-## Roles of the Polyphenol-Gut Microbiota Interaction in Alleviating Colitis and Preventing Colitis-Associated Colorectal Cancer.
- 09.09.2020, _Y Zhao, Q Jiang_
-
-
-Accumulating evidence indicates that the gut microbiota can promote or inhibit colonic inflammation and carcinogenesis. Promotion of beneficial gut bacteria is considered a promising strategy to alleviate colonic diseases including colitis and colorectal cancer. Interestingly, dietary polyphenols, which have been shown to attenuate colitis and inhibit colorectal cancer in animal models and some human studies, appear to reach relatively high concentrations in the large intestine and to interact with the gut microbial community. This review summarizes the modulatory effects of polyphenols on the gut microbiota in humans and animals under healthy and diseased conditions including colitis and colitis-associated colorectal cancer (CAC). Existing human and animal studies indicate that polyphenols and polyphenol-rich whole foods are capable of elevating butyrate producers and probiotics that alleviate colitis and inhibit CAC, such as Lactobacillus and Bifidobacterium. Studies in colitis and CAC models indicate that polyphenols decrease opportunistic pathogenic or proinflammatory microbes and counteract disease-induced dysbiosis. Consistently, polyphenols also change microbial functions, including increasing butyrate formation. Moreover, polyphenol metabolites produced by the gut microbiota appear to have anticancer and anti-inflammatory activities, protect gut barrier integrity, and mitigate inflammatory conditions in cells and animal models. Based on these results, we conclude that polyphenol-mediated alteration of microbial composition and functions, together with polyphenol metabolites produced by the gut microbiota, likely contribute to the protective effects of polyphenols on colitis and CAC. Future research is needed to validate the causal role of the polyphenol-gut microbiota interaction in polyphenols' anti-colitis and anti-CAC effects, and to further elucidate mechanisms underlying such interaction.
+## Roles of the Polyphenol–Gut Microbiota Interaction in Alleviating Colitis and Preventing Colitis-Associated Colorectal Cancer
 
 [Source](https://academic.oup.com/advances/advance-article/doi/10.1093/advances/nmaa104/5903422?searchresult=1)
-
-10.1093/advances/nmaa104
 
 ---
 
@@ -64,27 +58,15 @@ Accumulating evidence indicates that the gut microbiota can promote or inhibit c
 
 ---
 
-## Early Life Stress and the Development of the Infant Gut Microbiota: Implications for Mental Health and Neurocognitive Development.
- 14.09.2020, _SC Vogel, NH Brito, BL Callaghan_
-
-
-We review the state of the literature examining associations between early life stress (ELS), gut microbiota, and neurocognitive development and mental health in animals and humans. We identify gaps in current models and areas for future research.
+## Early Life Stress and the Development of the Infant Gut Microbiota: Implications for Mental Health and Neurocognitive Development
 
 [Source](https://link.springer.com/article/10.1007/s11920-020-01186-9)
 
-10.1007/s11920-020-01186-9
-
 ---
 
-## Early life interaction between the microbiota and the Enteric Nervous System.
- 09.09.2020, _JPP Foong, LY Hung, S Poon, TC Savidge, JC Bornstein_
-
-
-Recent studies on humans and their key experimental model, the mouse, have begun to uncover the importance of gastrointestinal (GI) microbiota and Enteric Nervous System (ENS) interactions during developmental windows spanning from conception to adolescence. Disruptions in GI microbiota and ENS during these windows by environmental factors particularly antibiotic exposure have been linked to increased susceptibility of the host to several diseases. Mouse models have provided new insights to potential signalling factors between the microbiota and ENS. We review very recent work on maturation of GI microbiota and ENS during three key developmental windows: embryogenesis, early postnatal and post-weaning periods. We discuss advances in understanding of interactions between the two systems and highlight research avenues for future studies.
+## Early life interaction between the microbiota and the Enteric Nervous System
 
 [Source](https://journals.physiology.org/doi/10.1152/ajpgi.00288.2020)
-
-10.1152/ajpgi.00288.2020
 
 ---
 
