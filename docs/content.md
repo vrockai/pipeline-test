@@ -125,6 +125,19 @@ Increasing evidence supports the role of the gut microbiota in the aetiology of 
 
 ---
 
+## Virome comparisons in wild-diseased and healthy captive giant pandas.
+ 13.11.2018, _W Zhang, S Yang, T Shan, R Hou, Z Liu, W Li, L Guo, Y Wang, P Chen, X Wang, F Feng, H Wang, C Chen, Q Shen, C Zhou, X Hua, L Cui, X Deng, Z Zhang, D Qi, E Delwart_
+
+
+_Animals, Animals, Wild, China, Feces, Metagenomics, Papillomaviridae, Phylogeny, Picornaviridae, Ursidae, Virus Diseases, Viruses_
+The giant panda (Ailuropoda melanoleuca) is a vulnerable mammal herbivore living wild in central China. Viral infections have become a potential threat to the health of these endangered animals, but limited information related to these infections is available.
+
+[Source](https://doi.org/10.1007/s00438-020-01722-5)
+
+10.1186/s40168-017-0308-0
+
+---
+
 ## Comparative analysis of the pulmonary microbiome in healthy and diseased pigs
 
 [Source](https://doi.org/10.1007/s00438-020-01722-5)
@@ -134,6 +147,19 @@ Increasing evidence supports the role of the gut microbiota in the aetiology of 
 ## Functional gene categories differentiate maize leaf drought-related microbial epiphytic communities
 
 [Source](https://doi.org/10.1371/journal.pone.0237493)
+
+---
+
+## Bioactive Food Abates Metabolic and Synaptic Alterations by Modulation of Gut Microbiota in a Mouse Model of Alzheimer's Disease.
+ 25.11.2019, _T Syeda, M Sanchez-Tapia, L Pinedo-Vargas, O Granados, D Cuervo-Zanatta, E Rojas-Santiago, SA Díaz-Cintra, N Torres, C Perez-Cruz_
+
+
+_Alzheimer Disease, Amyloid beta-Peptides, Animals, Brain, Diet, Disease Models, Animal, Female, Food, Gastrointestinal Microbiome, Mice, Mice, Transgenic, Neuroprotective Agents, Phosphorylation, Synapses, tau Proteins_
+Recent investigations have demonstrated an important role of gut microbiota (GM) in the pathogenesis of Alzheimer's disease (AD). GM modulates a host's health and disease by production of several substances, including lipopolysaccharides (LPS) and short-chain fatty acids (SCFAs), among others. Diet can modify the composition and diversity of GM, and ingestion of a healthy diet has been suggested to lower the risk to develop AD. We have previously shown that bioactive food (BF) ingestion can abate neuroinflammation and oxidative stress and improve cognition in obese rats, effects associated with GM composition. Therefore, BF can impact the gut-brain axis and improved behavior. In this study, we aim to explore if inclusion of BF in the diet may impact central pathological markers of AD by modulation of the GM. Triple transgenic 3xTg-AD (TG) female mice were fed a combination of dried nopal, soy, chia oil, and turmeric for 7 months. We found that BF ingestion improved cognition and reduced Aβ aggregates and tau hyperphosphorylation. In addition, BF decreased MDA levels, astrocyte and microglial activation, PSD-95, synaptophysin, GluR1 and ARC protein levels in TG mice. Furthermore, TG mice fed BF showed increased levels of pGSK-3β. GM analysis revealed that pro-inflammatory bacteria were more abundant in TG mice compared to wild-type, while BF ingestion was able to restore the GM's composition, LPS, and propionate levels to control values. Therefore, the neuroprotective effects of BF may be mediated, in part, by modulation of GM and the release of neurotoxic substances that alter brain function.
+
+[Source](https://doi.org/10.1007/s00253-020-10799-2)
+
+10.3233/JAD-180556
 
 ---
 
