@@ -76,15 +76,9 @@
 
 ---
 
-## Contrasting microbiota profiles observed in children carrying either Blastocystis spp. or the commensal amoebas Entamoeba coli or Endolimax nana.
- 21.09.2020, _JF Alzate, M Toro-Londoño, F Cabarcas, G Garcia-Montoya, A Galvan-Diaz_
-
-
-Recent studies have shown how intestinal parasites can modulate gut microbiota. This observation is not surprising since the human intestinal lumen, like any other niche, is a battlefield of microbial competition, and Eukaryotes can affect bacterial populations. Intestinal pathogenic protist has been associated with reshaping the microbial community structure; however, the interactions between the colonic bacterial communities and parasites like Blastocystis spp., Entamoeba coli, and Endolimax nana have been poorly studied. In this work, we studied the distal intestinal bacterial microbiota of 49 children attending 7 public daycare centers in Medellin, Colombia, and compared the bacterial microbiota structure in the presence or absence of the protists Blastocystis spp., E. coli, and E. nana. Parasite colonization was associated with an increase in bacterial richness. Moreover, Blastocystis spp. presented a positive relationship with Prevotella, since this bacterium was selectively enriched in children carrying it. Remarkably, the E. coli colonized children showed a microbial profile that was closer to uninfected controls, although some bacterial taxa displayed to be enriched. This is the case for Akkermansia, which showed to be favored in E. coli colonized individuals, while notably reduced in the Blastocystis spp. parasitized group.
+## Contrasting microbiota profiles observed in children carrying either Blastocystis spp. or the commensal amoebas Entamoeba coli or Endolimax nana
 
 [Source](https://www.nature.com/articles/s41598-020-72286-y)
-
-10.1038/s41598-020-72286-y
 
 ---
 
@@ -113,7 +107,7 @@ Different patterns of bacterial communities have been reported in the airways an
 ---
 
 ## Reconsidering ventilator-associated pneumonia from a new dimension of the lung microbiome.
- 21.09.2020, _L Fernández-Barat, R López-Aladid, A Torres_
+ 23.09.2020, _L Fernández-Barat, R López-Aladid, A Torres_
 
 
 Complex microbial communities that reside in the lungs, skin and gut are now appreciated for their role in maintaining organ, tissue and immune homoeostasis. As lungs are currently seen as an ecosystem, the shift in paradigm calls for the consideration of new algorithms related to lung ecology in pulmonology. Evidence of lung microbiota does not solely challenge the traditional physiopathology of ventilator-associated pneumonia (VAP); indeed, it also reinforces the need to include molecular techniques in VAP diagnosis and accelerate the use of immunomodulatory drugs, including corticosteroids, and other supplements such as probiotics for VAP prevention and/or treatment. With that stated, both microbiome and virome, including phageome, can lead to new opportunities in further understanding the relationship between health and dysbiosis in VAP. Previous knowledge may be, however, reconsidered at a microbiome scale.
@@ -149,7 +143,7 @@ Gut microbiomes perform crucial roles in host health and development, but few st
 ---
 
 ## Altered gut microbiome accompanying with placenta barrier dysfunction programs pregnant complications in mice caused by graphene oxide.
- 21.09.2020, _X Liu, F Zhang, Z Wang, T Zhang, C Teng, Z Wang_
+ 23.09.2020, _X Liu, F Zhang, Z Wang, T Zhang, C Teng, Z Wang_
 
 
 The wide use of graphene oxide (GO) has raised increasing concerns about the potential risks to environmental and human health. Recent studies have shown the vital role of gut microbiome in various pathological status or even exogenous exposure, but more detailed understanding about the effects of possible gut microbiome alterations under GO exposure on reproductive toxicology evaluations in pregnant mammals remained elusive. Here we found that orally administrated GO daily during gestational day (GD) 7-16 caused dose-dependent pregnant complications of mice on the endpoint (GD19), including decreased weight of dam and live fetus, high rate of resorbed embryos and dead fetus, and skeletal development retardation. Meanwhile in placenta tissues of pregnant mice exposed to GO at dose over 10 mg/kg, the expression levels of tight junctions (Claudin1 and Occludin) and vascular endothelial growth factor (VEGFA) decreased approximately by 30%-80%, meaning impaired placenta barrier. According to the data of fecal 16s RNA sequencing in 40 mg/kg dose group and the control group, gut microbiome showed dramatically decreased α- and β-diversity, and upregulated Firmicutes/Bacteroidetes ratio owing to GO exposure. What's more, significantly differentiated abundance of Euryarchaeota is expected to be a special biomarker for failed pregnancy caused by GO. Notably, the result of Spearman correlation analysis suggested that there was a strong link (correlation coefficient&gt;0.6) between perturbed gut microbiome with both abnormally expressed factors of placenta barrier and adverse pregnant outcomes. In summary, the damages of GO exposure to placenta barrier and pregnancy were dose-dependent. And GO exposure was responsible for gut microbiome dysbiosis in mice with pregnant complications. These findings could provide referable evidence to evaluate reproductive risk of GO to mammals.
