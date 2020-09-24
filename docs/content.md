@@ -46,15 +46,9 @@
 
 ---
 
-## Gut Microbiota and Metabolome Alterations Associated with Parkinson's Disease.
- 16.09.2020, _S Vascellari, V Palmas, M Melis, S Pisanu, R Cusano, P Uva, D Perra, V Madau, M Sarchioto, V Oppo, N Simola, M Morelli, ML Santoru, L Atzori, M Melis, G Cossu, A Manzin_
-
-
-Parkinson's disease is a neurodegenerative disorder characterized by the accumulation of intracellular aggregates of misfolded alpha-synuclein along the cerebral axis. Several studies report the association between intestinal dysbiosis and Parkinson's disease, although a cause-effect relationship remains to be established. Herein, the gut microbiota composition of 64 Italian patients with Parkinson's disease and 51 controls was determined using a next-generation sequencing approach. A real metagenomics shape based on gas chromatography-mass spectrometry was also investigated. The most significant changes within the Parkinson's disease group highlighted a reduction in bacterial taxa, which are linked to anti-inflammatory/neuroprotective effects, particularly in the Lachnospiraceae family and key members, such as Butyrivibrio, Pseudobutyrivibrio, Coprococcus, and Blautia The direct evaluation of fecal metabolites revealed changes in several classes of metabolites. Changes were seen in lipids (linoleic acid, oleic acid, succinic acid, and sebacic acid), vitamins (pantothenic acid and nicotinic acid), amino acids (isoleucine, leucine, phenylalanine, glutamic acid, and pyroglutamic acid) and other organic compounds (cadaverine, ethanolamine, and hydroxy propionic acid). Most modified metabolites strongly correlated with the abundance of members belonging to the Lachnospiraceae family, suggesting that these gut bacteria correlate with altered metabolism rates in Parkinson's disease.IMPORTANCE To our knowledge, this is one of the few studies thus far that correlates the composition of the gut microbiota with the direct analysis of fecal metabolites in patients with Parkinson's disease. Overall, our data highlight microbiota modifications correlated with numerous fecal metabolites. This suggests that Parkinson's disease is associated with gut dysregulation that involves a synergistic relationship between gut microbes and several bacterial metabolites favoring altered homeostasis. Interestingly, a reduction of short-chain fatty acid (SCFA)-producing bacteria influenced the shape of the metabolomics profile, affecting several metabolites with potential protective effects in the Parkinson group. On the other hand, the extensive impact that intestinal dysbiosis has at the level of numerous metabolic pathways could encourage the identification of specific biomarkers for the diagnosis and treatment of Parkinson's disease, also in light of the effect that specific drugs have on the composition of the intestinal microbiota.
+## Gut Microbiota and Metabolome Alterations Associated with Parkinson’s Disease
 
 [Source](https://msystems.asm.org/content/5/5/e00561-20)
-
-10.1128/mSystems.00561-20
 
 ---
 
@@ -64,15 +58,9 @@ Parkinson's disease is a neurodegenerative disorder characterized by the accumul
 
 ---
 
-## Deciphering the impact of diet and host physiology on the mammalian gut microbiome by multi-omics approaches.
- 19.09.2020, _C Milani, G Alessandri, L Mancabelli, M Mangifesta, GA Lugli, A Viappiani, G Longhi, R Anzalone, S Duranti, F Turroni, MC Ossiprandi, D van Sinderen, M Ventura_
-
-
-In recent years various studies have demonstrated that the gut microbiota influences host metabolism. However, these studies were primarily focused on a single or a limited range of host species, thus preventing a full exploration of possible taxonomic and functional adaptations by gut microbiota members as a result of host-microbe co-evolution events. In the current study, the microbial taxonomic profiles of 250 fecal samples, corresponding to 77 host species that cover the mammalian branch of the tree of life, were reconstructed by 16S rRNA gene-based sequence analysis. Moreover, shotgun metagenomics was employed to investigate the metabolic potential of the fecal microbiomes of 24 mammals and subsequent statistical analyses were performed to assess the impact of host diet and corresponding physiology of the digestive system on gut microbiota composition and functionality. Functional data was confirmed and extended through metatranscriptome assessment of gut microbial populations of eight animals, thus providing insights into the transcriptional response of gut microbiota to specific dietary lifestyles. Therefore, the analyses performed in this study support the notion that the metabolic features of the mammalian gut microbiota have adopted to maximize energy extraction from the host's diet.ImportanceDiet and host physiology have been recognized as main factors affecting both taxonomic composition and functional features of the mammalian gut microbiota. However, very few studies have investigated the bacterial biodiversity of mammals involving large sample numbers that correspond to multiple mammalian species, thus resulting in an incomplete understanding of the functional aspects of their microbiome. Therefore, we investigated the bacterial taxonomic composition of 250 fecal samples belonging to 77 host species distributed along the tree of life in order to assess how diet and host physiology impacts on the intestinal microbial community by selecting specific microbial players. Conversely, the application of shotgun metagenomics and metatranscriptomics approaches to a group of selected fecal samples allowed us to shed light on both metabolic features and transcriptional responses of the intestinal bacterial community based on different diets.
+## Deciphering the impact of diet and host physiology on the mammalian gut microbiome by multi-omics approaches
 
 [Source](https://aem.asm.org/content/early/2020/09/14/AEM.01864-20)
-
-10.1128/AEM.01864-20
 
 ---
 
@@ -88,15 +76,9 @@ In recent years various studies have demonstrated that the gut microbiota influe
 
 ---
 
-## Contrasting microbiota profiles observed in children carrying either Blastocystis spp. or the commensal amoebas Entamoeba coli or Endolimax nana.
- 21.09.2020, _JF Alzate, M Toro-Londoño, F Cabarcas, G Garcia-Montoya, A Galvan-Diaz_
-
-
-Recent studies have shown how intestinal parasites can modulate gut microbiota. This observation is not surprising since the human intestinal lumen, like any other niche, is a battlefield of microbial competition, and Eukaryotes can affect bacterial populations. Intestinal pathogenic protist has been associated with reshaping the microbial community structure; however, the interactions between the colonic bacterial communities and parasites like Blastocystis spp., Entamoeba coli, and Endolimax nana have been poorly studied. In this work, we studied the distal intestinal bacterial microbiota of 49 children attending 7 public daycare centers in Medellin, Colombia, and compared the bacterial microbiota structure in the presence or absence of the protists Blastocystis spp., E. coli, and E. nana. Parasite colonization was associated with an increase in bacterial richness. Moreover, Blastocystis spp. presented a positive relationship with Prevotella, since this bacterium was selectively enriched in children carrying it. Remarkably, the E. coli colonized children showed a microbial profile that was closer to uninfected controls, although some bacterial taxa displayed to be enriched. This is the case for Akkermansia, which showed to be favored in E. coli colonized individuals, while notably reduced in the Blastocystis spp. parasitized group.
+## Contrasting microbiota profiles observed in children carrying either Blastocystis spp. or the commensal amoebas Entamoeba coli or Endolimax nana
 
 [Source](https://www.nature.com/articles/s41598-020-72286-y)
-
-10.1038/s41598-020-72286-y
 
 ---
 
