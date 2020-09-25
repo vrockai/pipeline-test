@@ -124,9 +124,15 @@ Textile industry consumes a large proportion of available water and releases hug
 
 ---
 
-## Linking microbial Sphagnum degradation and acetate mineralization in acidic peat bogs: from global insights to a genome-centric case study
+## Linking microbial Sphagnum degradation and acetate mineralization in acidic peat bogs: from global insights to a genome-centric case study.
+ 20.09.2020, _AR St James, JB Yavitt, SH Zinder, RE Richardson_
+
+
+Ombrotrophic bogs accumulate large stores of soil carbon that eventually decompose to carbon dioxide and methane. Carbon accumulates because Sphagnum mosses slow microbial carbon decomposition processes, leading to the production of labile intermediate compounds. Acetate is a major product of Sphagnum degradation, yet rates of hydrogenotrophic methanogenesis far exceed rates of aceticlastic methanogenesis, suggesting that alternative acetate mineralization processes exist. Two possible explanations are aerobic respiration and anaerobic respiration via humic acids as electron acceptors. While these processes have been widely observed, microbial community interactions linking Sphagnum degradation and acetate mineralization remain cryptic. In this work, we use ordination and network analysis of functional genes from 110 globally distributed peatland metagenomes to identify conserved metabolic pathways in Sphagnum bogs. We then use metagenome-assembled genomes (MAGs) from McLean Bog, a Sphagnum bog in New York State, as a local case study to reconstruct pathways of Sphagnum degradation and acetate mineralization. We describe metabolically flexible Acidobacteriota MAGs that contain all genes to completely degrade Sphagnum cell wall sugars under both aerobic and anaerobic conditions. Finally, we propose a hypothetical model of acetate oxidation driven by changes in peat redox potential that explain how bogs may circumvent aceticlastic methanogenesis through aerobic and humics-driven respiration.
 
 [Source](https://www.nature.com/articles/s41396-020-00782-0)
+
+10.1038/s41396-020-00782-0
 
 ---
 
