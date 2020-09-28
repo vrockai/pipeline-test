@@ -286,18 +286,6 @@ The skin microbiome serves as a first line defense against pathogens in vertebra
 
 ---
 
-## Shift work influences the outcomes of Chlamydia infection and pathogenesis.
- 22.09.2020, _SR Lundy, S Richardson, A Ramsey, D Ellerson, Y Fengxia, S Onyeabor, W Kirlin, W Thompson, CM Black, JP DeBruyne, AJ Davidson, LC Immergluck, U Blas-Machado, FO Eko, JU Igietseme, Q He, YO Omosun_
-
-
-Shift work, performed by approximately 21 million Americans, is irregular or unusual work schedule hours occurring after 6:00 pm. Shift work has been shown to disrupt circadian rhythms and is associated with several adverse health outcomes and chronic diseases such as cancer, gastrointestinal and psychiatric diseases and disorders. It is unclear if shift work influences the complications associated with certain infectious agents, such as pelvic inflammatory disease, ectopic pregnancy and tubal factor infertility resulting from genital chlamydial infection. We used an Environmental circadian disruption (ECD) model mimicking circadian disruption occurring during shift work, where mice had a 6-h advance in the normal light/dark cycle (LD) every week for a month. Control group mice were housed under normal 12/12 LD cycle. Our hypothesis was that compared to controls, mice that had their circadian rhythms disrupted in this ECD model will have a higher Chlamydia load, more pathology and decreased fertility rate following Chlamydia infection. Results showed that, compared to controls, mice that had their circadian rhythms disrupted (ECD) had higher Chlamydia loads, more tissue alterations or lesions, and lower fertility rate associated with chlamydial infection. Also, infected ECD mice elicited higher proinflammatory cytokines compared to mice under normal 12/12 LD cycle. These results imply that there might be an association between shift work and the increased likelihood of developing more severe disease from Chlamydia infection.
-
-[Source](https://blackinmicrobiology.org/)
-
-10.1038/s41598-020-72409-5
-
----
-
 ## Black In Microbiology Week
 
 [Source](https://blackinmicrobiology.org/)
