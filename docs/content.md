@@ -262,15 +262,33 @@ The skin microbiome serves as a first line defense against pathogens in vertebra
 
 ---
 
-## A network approach to elucidate and prioritize microbial dark matter in microbial communities
+## A network approach to elucidate and prioritize microbial dark matter in microbial communities.
+ 23.09.2020, _T Zamkovaya, JS Foster, V de Crécy-Lagard, A Conesa_
+
+
+Microbes compose most of the biomass on the planet, yet the majority of taxa remain uncharacterized. These unknown microbes, often referred to as "microbial dark matter," represent a major challenge for biology. To understand the ecological contributions of these Unknown taxa, it is essential to first understand the relationship between unknown species, neighboring microbes, and their respective environment. Here, we establish a method to study the ecological significance of "microbial dark matter" by building microbial co-occurrence networks from publicly available 16S rRNA gene sequencing data of four extreme aquatic habitats. For each environment, we constructed networks including and excluding unknown organisms at multiple taxonomic levels and used network centrality measures to quantitatively compare networks. When the Unknown taxa were excluded from the networks, a significant reduction in degree and betweenness was observed for all environments. Strikingly, Unknown taxa occurred as top hubs in all environments, suggesting that "microbial dark matter" play necessary ecological roles within their respective communities. In addition, novel adaptation-related genes were detected after using 16S rRNA gene sequences from top-scoring hub taxa as probes to blast metagenome databases. This work demonstrates the broad applicability of network metrics to identify and prioritize key Unknown taxa and improve understanding of ecosystem structure across diverse habitats.
 
 [Source](https://www.nature.com/articles/s41396-020-00777-x)
+
+10.1038/s41396-020-00777-x
 
 ---
 
 ## TLP #1: Navigating the path to team leader
 
 [Source](https://thelonelypipette.buzzsprout.com/1356877/5520439-tlp-1-navigating-the-path-to-team-leader-maxim-greenberg)
+
+---
+
+## A survey of psychological practitioner workplace wellbeing.
+ 26.09.2020, _EMA Summers, RC Morris, GE Bhutani, AS Rao, JC Clarke_
+
+
+The wellbeing of the psychological workforce is an area of concern. However, it has been sparsely studied in an holistic manner encompassing workplace wellbeing as well as burnout. This study reports a survey of 1,678 psychological practitioners accessed through professional networks. The short Warwick Edinburgh Mental Wellbeing Scale (SWEMWBS) and the Psychological Practitioner Workplace Wellbeing Measure (PPWWM) were administered with a demographic questionnaire. The mean for the SWEMWBS was below that of a national population survey. The inter-correlation of these tests was.61. Subgroup analyses showed significant differences: assistant psychologists, counsellors and psychological wellbeing practitioners demonstrated better than average workplace wellbeing. But for general wellbeing (SWEMWBS) trainee clinical psychologists and assistant psychologists showed lower than average wellbeing while psychological wellbeing practitioners were higher than average. Other factors associated with wellbeing were: contract type -both measures (higher workplace wellbeing in those with temporary contracts and the self-employed); employment sector -for PPWWM only (private organisation/independent workers and third sector/charitable organisation workers scored above the PPWWM mean); ethnicity - for both measures (Asian groups except Chinese had higher wellbeing than average for the PPWWM and SWEMWBS); disability was strongly associated with lower wellbeing on both measures. Harassment, feeling depressed or a failure and wanting to leave the NHS were associated with lower wellbeing. Greater age, pay and years of service were negatively correlated with wellbeing. A five-factor structure was obtained with this sample. The results confirmed psychological practitioners as an at-risk group and identified a number of factors associated with workplace wellbeing.
+
+[Source](https://your-digital-mentor.simplecast.com/episodes/burnout-syndrome)
+
+10.1002/cpp.2509
 
 ---
 
@@ -283,6 +301,18 @@ The skin microbiome serves as a first line defense against pathogens in vertebra
 ## August 2020 Pod: From the deep sea to the lost sense of smell
 
 [Source](https://podcasts.apple.com/se/podcast/august-2020-pod-from-the-deep-sea-to-the-lost-sense-of-smell/id1509550298?i=1000491912158)
+
+---
+
+## Shift work influences the outcomes of Chlamydia infection and pathogenesis.
+ 22.09.2020, _SR Lundy, S Richardson, A Ramsey, D Ellerson, Y Fengxia, S Onyeabor, W Kirlin, W Thompson, CM Black, JP DeBruyne, AJ Davidson, LC Immergluck, U Blas-Machado, FO Eko, JU Igietseme, Q He, YO Omosun_
+
+
+Shift work, performed by approximately 21 million Americans, is irregular or unusual work schedule hours occurring after 6:00 pm. Shift work has been shown to disrupt circadian rhythms and is associated with several adverse health outcomes and chronic diseases such as cancer, gastrointestinal and psychiatric diseases and disorders. It is unclear if shift work influences the complications associated with certain infectious agents, such as pelvic inflammatory disease, ectopic pregnancy and tubal factor infertility resulting from genital chlamydial infection. We used an Environmental circadian disruption (ECD) model mimicking circadian disruption occurring during shift work, where mice had a 6-h advance in the normal light/dark cycle (LD) every week for a month. Control group mice were housed under normal 12/12 LD cycle. Our hypothesis was that compared to controls, mice that had their circadian rhythms disrupted in this ECD model will have a higher Chlamydia load, more pathology and decreased fertility rate following Chlamydia infection. Results showed that, compared to controls, mice that had their circadian rhythms disrupted (ECD) had higher Chlamydia loads, more tissue alterations or lesions, and lower fertility rate associated with chlamydial infection. Also, infected ECD mice elicited higher proinflammatory cytokines compared to mice under normal 12/12 LD cycle. These results imply that there might be an association between shift work and the increased likelihood of developing more severe disease from Chlamydia infection.
+
+[Source](https://blackinmicrobiology.org/)
+
+10.1038/s41598-020-72409-5
 
 ---
 
