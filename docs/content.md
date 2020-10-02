@@ -1,138 +1,109 @@
-## New York Times article profiling the organizers of Black in Micro Week
+## Eligible blood donors’ decisions about donating stool for fecal microbiota transplantation: Does ambivalence play a role? 
 
-[Source](https://www.nytimes.com/2020/09/28/science/black-microbiology-week.html)
-
----
-
-## commentary published by one of the organizers in mSphere
-
-[Source](https://msphere.asm.org/content/5/5/e00945-20?fbclid=IwAR0f4qpHKmzNHYeG2GAcgceJV1TylFbpmtC32zx9a2juZK_sXs6D_eKZmvs)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/trf.16109)
 
 ---
 
-## Black in Micro youtube channel
+## Genetic deficiency of indoleamine 2,3-dioxygenase promotes gut microbiota-mediated metabolic health.
+ 11.06.2019, _L Laurans, N Venteclef, Y Haddad, M Chajadine, F Alzaid, S Metghalchi, B Sovran, RGP Denis, J Dairou, M Cardellini, JM Moreno-Navarrete, M Straub, S Jegou, C McQuitty, T Viel, B Esposito, B Tavitian, J Callebert, SH Luquet, M Federici, JM Fernandez-Real, R Burcelin, JM Launay, A Tedgui, Z Mallat, H Sokol, S Taleb_
 
-[Source](https://www.youtube.com/channel/UChdBI2GsILRG375cCkytMlw/featured)
 
----
+_Animals, Diabetes Mellitus, Type 2, Fatty Liver, Gastrointestinal Microbiome, Health, Humans, Indoleamine-Pyrrole 2,3,-Dioxygenase, Inflammation, Insulin Resistance, Interleukins, Intestines, Kynurenine, Lipopolysaccharides, Male, Mice, Inbred C57BL, Obesity, Principal Component Analysis, Tryptophan_
+The association between altered gut microbiota, intestinal permeability, inflammation and cardiometabolic diseases is becoming increasingly clear but remains poorly understood1,2. Indoleamine 2,3-dioxygenase is an enzyme induced in many types of immune cells, including macrophages in response to inflammatory stimuli, and catalyzes the degradation of tryptophan along the kynurenine pathway. Indoleamine 2,3-dioxygenase activity is better known for its suppression of effector T cell immunity and its activation of regulatory T cells3,4. However, high indoleamine 2,3-dioxygenase activity predicts worse cardiovascular outcome5-9 and may promote atherosclerosis and vascular inflammation6, suggesting a more complex role in chronic inflammatory settings. Indoleamine 2,3-dioxygenase activity is also increased in obesity10-13, yet its role in metabolic disease is still unexplored. Here, we show that obesity is associated with an increase of intestinal indoleamine 2,3-dioxygenase activity, which shifts tryptophan metabolism from indole derivative and interleukin-22 production toward kynurenine production. Indoleamine 2,3-dioxygenase deletion or inhibition improves insulin sensitivity, preserves the gut mucosal barrier, decreases endotoxemia and chronic inflammation, and regulates lipid metabolism in liver and adipose tissues. These beneficial effects are due to rewiring of tryptophan metabolism toward a microbiota-dependent production of interleukin-22 and are abrogated after treatment with a neutralizing anti-interleukin-22 antibody. In summary, we identify an unexpected function of indoleamine 2,3-dioxygenase in the fine tuning of intestinal tryptophan metabolism with major consequences on microbiota-dependent control of metabolic disease, which suggests indoleamine 2,3-dioxygenase as a potential therapeutic target.
 
-## Black in Microbiology website 
+[Source](https://www.mdpi.com/2073-4409/9/10/2205)
 
-[Source](https://blackinmicrobiology.org/)
-
----
-
-## Airway microbiota is associated with the severity of non‐CF bronchiectasis
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/crj.13279)
+10.1038/s41591-018-0060-4
 
 ---
 
-## Systematic analysis of gut microbiota in pregnant women and its correlations with individual heterogeneity
+## Microbiota-Dependent Effects of IL-22
 
-[Source](https://www.nature.com/articles/s41522-020-00142-y)
-
----
-
-## Implication of gut microbiota in cardiovascular diseases
-
-[Source](https://www.hindawi.com/journals/omcl/2020/5394096/)
+[Source](https://www.mdpi.com/2073-4409/9/10/2205)
 
 ---
 
-## Changes in the ear canal microbiota of dogs with otitis externa
+## <span style="color:#07692b;" class="has-inline-color">Maternal Fecal Microbiota Transplantation in Cesarean-Born Infants Rapidly Restores Normal Gut Microbial Development: A Proof-of-Concept Study</span>
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/jam.14868)
-
----
-
-## Soil borne <em>Fusarium solani</em> exhibited pathogenic effect on tomato cultivars in Nigeria
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/03235408.2020.1824338)
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(20)31089-8)
 
 ---
 
-## A symbiotic nutrient exchange within the cyanosphere microbiome of the biocrust cyanobacterium, <em>Microcoleus vaginatus</em>
+## Comparative analysis of the tonsillar microbiota in IgA nephropathy and other glomerular diseases
 
-[Source](https://www.nature.com/articles/s41396-020-00781-1)
-
----
-
-## Successional change of the fungal microbiome pine seedling roots inoculated with <em>Tricholoma matsutake</em>
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.574146/full)
+[Source](https://www.nature.com/articles/s41598-020-73035-x)
 
 ---
 
-## Arbuscular mycorrhizal fungi: an ecological accelerator of phytoremediation of metal contaminated soils
+## Dysbiosis in the oral microbiomes of anti-CCP positive individuals at risk of developing rheumatoid arthritis
 
-[Source](https://www.tandfonline.com/doi/abs/10.1080/03650340.2020.1829599)
-
----
-
-## Co‐occurrence history increases ecosystem stability and resilience in experimental plant communities
-
-[Source](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3205)
+[Source](https://ard.bmj.com/content/early/2020/09/30/annrheumdis-2020-216972)
 
 ---
 
-## Quantitative estimation of stochastic and deterministic processes for soil prokaryotic community assembly in the Yellow River floodplain
+## <span style="color:#066b30;" class="has-inline-color">Microbiota tryptophan metabolism induces aryl hydrocarbon receptor activation and improves alcohol-induced liver injury</span>
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejss.13056)
-
----
-
-## Homogeneous environmental selection dominates microbial community assembly in the oligotrophic South Pacific Gyre
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15651)
+[Source](https://gut.bmj.com/content/early/2020/09/30/gutjnl-2020-321565)
 
 ---
 
-## An unexpectedly broad thermal and salinity-tolerant estuarine methanogen community
+## Faecal microbiota transplant from aged donor mice affects spatial learning and memory via modulating hippocampal synaptic plasticity- and neurotransmission-related proteins in young recipients
 
-[Source](https://www.mdpi.com/2076-2607/8/10/1467/htm)
-
----
-
-## Microbial communities responded to tetracyclines and Cu(II) in constructed wetlands microcosms with <em>Myriophyllum aquaticum</em>
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0147651320311994)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00914-w)
 
 ---
 
-## Microbial community and function in nitrogen transformation of ectopic fermentation bed system for pig manure composting
+## Competitive reduction of poultry-borne enteric bacterial pathogens in chicken gut with bioactive Lactobacillus casei
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960852420314292)
-
----
-
-## Effect of hydrothermal hot-compression method on the antimicrobial performance of green building materials from heterogeneous cellulose wastes
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S095965262034422X)
+[Source](https://www.nature.com/articles/s41598-020-73316-5)
 
 ---
 
-## Nitrous oxide emission and microbial community of full-scale anoxic/aerobic membrane bioreactors at low dissolved oxygen setpoints
+## Offspring susceptibility to metabolic alterations due to maternal high-fat diet and the impact of inhaled ozone used as a stressor
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S2214714420305328)
-
----
-
-## Response of <em>Cyperus involucratus</em> to sulfamethoxazole and ofloxacin-contaminated environments: Growth physiology, transportation, and microbial community
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0147651320311696)
+[Source](https://www.nature.com/articles/s41598-020-73361-0)
 
 ---
 
-## Black microbiologists push for visibility amid a pandemic
+## Beneficial effects of mung bean seed coat on the prevention of high-fat diet-induced obesity and the modulation of gut microbiota in mice
 
-[Source](https://www.nytimes.com/2020/09/28/science/black-microbiology-week.html)
+[Source](https://link.springer.com/article/10.1007/s00394-020-02395-x)
 
 ---
 
-## mSphere of influence: That’s racist—COVID-19, biological determinism, and the limits of hypotheses
+## Prebiotics‐Encapsulated Probiotic Spores Regulate Gut Microbiota and Suppress Colon Cancer 
 
-[Source](https://msphere.asm.org/content/5/5/e00945-20?fbclid=IwAR0f4qpHKmzNHYeG2GAcgceJV1TylFbpmtC32zx9a2juZK_sXs6D_eKZmvs)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/adma.202004529)
+
+---
+
+## Multi-Omic Analysis Reveals Different Effects of Sulforaphane on the Microbiome and Metabolome in Old Compared to Young Mice
+
+[Source](https://www.mdpi.com/2076-2607/8/10/1500)
+
+---
+
+## Protists as catalyzers of microbial litter breakdown and carbon cycling at different temperature regimes
+
+[Source](https://www.nature.com/articles/s41396-020-00792-y)
+
+---
+
+## Investigating host-microbiome interactions by droplet based microfluidics
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00911-z)
+
+---
+
+## Non-specific amplification of human DNA is a major challenge for 16S rRNA gene sequence analysis
+
+[Source](https://www.nature.com/articles/s41598-020-73403-7)
+
+---
+
+## Plastic-eating enzyme ‘cocktail’ heralds new hope for plastic waste
+
+[Source](https://www.sciencedaily.com/releases/2020/09/200928152913.htm)
 
 ---
 
