@@ -4,15 +4,15 @@
 
 ---
 
-## Volume reduction of caudate nucleus is associated with movement coordination deficits in patients with hippocampal atrophy due to perinatal hypoxia-ischaemia.
- 03.10.2020, _S Geva, S Jentschke, GPD Argyropoulos, WK Chong, DG Gadian, F Vargha-Khadem_
+## Inequality of opportunities in health and death: an investigation from birth to middle age in Great Britain.
+ 04.10.2020, _D Bricard, F Jusot, A Trannoy, S Tubeuf_
 
 
-Acute sentinel hypoxia-ischaemia in neonates can target the hippocampus, mammillary bodies, thalamus, and the basal ganglia. Our previous work with paediatric patients with a history of hypoxia-ischaemia has revealed hippocampal and diencephalic damage that impacts cognitive memory. However, the structural and functional status of other brain regions vulnerable to hypoxia-ischaemia, such as the basal ganglia, has not been investigated in these patients. Furthermore, it is not known whether there are any behavioural sequelae of such damage, especially in patients with no diagnosis of neurological disorder. Based on the established role of the basal ganglia and the thalamus in movement coordination, we studied manual motor function in 20 participants exposed to neonatal hypoxia-ischaemia, and a group of 17 healthy controls of comparable age. The patients' handwriting speed and accuracy was within the normal range (Detailed Assessment of Speed of Handwriting), and their movement adaptation learning (Rotary Pursuit task) was comparable to the control group's performance. However, as a group, patients showed an impairment in the Grooved Pegboard task and a trend for impairment in speed of movement while performing the Rotary Pursuit task, suggesting that some patients have subtle deficits in fine, complex hand movements. Voxel-based morphometry and volumetry showed bilateral reduction in grey matter volume of the thalamus and caudate nucleus. Reduced volumes in the caudate nucleus correlated across patients with performance on the Grooved Pegboard task. In summary, the fine movement coordination deficit affecting the hand and the wrist in patients exposed to early hypoxic-ischaemic brain injury may be related to reduced volumes of the caudate nucleus, and consistent with anecdotal parental reports of clumsiness and coordination difficulties in this cohort.
+We assess the existence of unfair inequalities in health and death using the normative framework of inequality of opportunities, from birth to middle age in Great Britain.
 
 [Source](https://github.com/roblanf/phypapers)
 
-10.1016/j.nicl.2020.102429
+10.1093/ije/dyaa130
 
 ---
 
