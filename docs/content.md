@@ -76,15 +76,9 @@
 
 ---
 
-## Trophic interactions as determinants of the arbuscular mycorrhizal fungal community with cascading plant-promoting consequences.
- 05.10.2020, _Y Jiang, L Luan, K Hu, M Liu, Z Chen, S Geisen, X Chen, H Li, Q Xu, M Bonkowski, B Sun_
-
-
-The soil mycobiome is composed of a complex and diverse fungal community, which includes functionally diverse species ranging from plant pathogens to mutualists. Among the latter are arbuscular mycorrhizal fungi (AMF) that provide phosphorous (P) to plants. While plant hosts and abiotic parameters are known to structure AMF communities, it remains largely unknown how higher trophic level organisms, including protists and nematodes, affect AMF abundance and community composition.
+## Trophic interactions as determinants of the arbuscular mycorrhizal fungal community with cascading plant-promoting consequences
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00918-6)
-
-10.1186/s40168-020-00918-6
 
 ---
 
