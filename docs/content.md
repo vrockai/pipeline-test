@@ -1,115 +1,173 @@
-## Selective and cross-reactive SARS-CoV-2 T cell epitopes in unexposed humans.
- 05.10.2020, _J Mateus, A Grifoni, A Tarke, J Sidney, SI Ramirez, JM Dan, ZC Burger, SA Rawlings, DM Smith, E Phillips, S Mallal, M Lammers, P Rubiro, L Quiambao, A Sutherland, ED Yu, R da Silva Antunes, J Greenbaum, A Frazier, AJ Markmann, L Premkumar, A de Silva, B Peters, S Crotty, A Sette, D Weiskopf_
+## Commentary on: LaGoy A, Evangelou EA, Somogyi T, DiGangi EA. Recommended practices for macerating human thyroid cartilage. J Forensic Sci 2020;65(4):1266-73. https://doi.org/10.1111/1556-4029.14289.
+ 06.10.2020, _LC Fulginiti_
 
 
-Many unknowns exist about human immune responses to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus. SARS-CoV-2-reactive CD4+ T cells have been reported in unexposed individuals, suggesting preexisting cross-reactive T cell memory in 20 to 50% of people. However, the source of those T cells has been speculative. Using human blood samples derived before the SARS-CoV-2 virus was discovered in 2019, we mapped 142 T cell epitopes across the SARS-CoV-2 genome to facilitate precise interrogation of the SARS-CoV-2-specific CD4+ T cell repertoire. We demonstrate a range of preexisting memory CD4+ T cells that are cross-reactive with comparable affinity to SARS-CoV-2 and the common cold coronaviruses human coronavirus (HCoV)-OC43, HCoV-229E, HCoV-NL63, and HCoV-HKU1. Thus, variegated T cell memory to coronaviruses that cause the common cold may underlie at least some of the extensive heterogeneity observed in coronavirus disease 2019 (COVID-19) disease.
 
-[Source](https://science.sciencemag.org/content/370/6512/89)
+[Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
 
-10.1126/science.abd3871
-
----
-
-## The major genetic risk factor for severe COVID-19 is inherited from Neanderthals.
- 30.09.2020, _H Zeberg, S Pääbo_
-
-
-A recent genetic association study1 identified a gene cluster on chromosome 3 as a risk locus for respiratory failure upon SARS-CoV-2 infection. A new study2 comprising 3,199 hospitalized COVID-19 patients and controls finds that this is the major genetic risk factor for severe SARS-CoV-2 infection and hospitalization (COVID-19 Host Genetics Initiative). Here, we show that the risk is conferred by a genomic segment of ~50 kb that is inherited from Neanderthals and is carried by ~50% of people in South Asia and ~16% of people in Europe today.
-
-[Source](https://www.nature.com/articles/s41586-020-2818-3)
-
-10.1038/s41586-020-2818-3
+10.1111/1556-4029.14591
 
 ---
 
-## Massive and rapid COVID-19 testing is feasible by extraction-free SARS-CoV-2 RT-PCR.
- 01.10.2020, _I Smyrlaki, M Ekman, A Lentini, N Rufino de Sousa, N Papanicolaou, M Vondracek, J Aarum, H Safari, S Muradrasoli, AG Rothfuchs, J Albert, B Högberg, B Reinius_
+## https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa
 
-
-_Benchmarking, Betacoronavirus, Clinical Laboratory Techniques, Coronavirus Infections, DNA Primers, Hot Temperature, Humans, Pandemics, Pneumonia, Viral, RNA, Viral, Reverse Transcriptase Polymerase Chain Reaction, Sensitivity and Specificity, Sweden, Viral Plaque Assay_
-Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is commonly diagnosed by reverse transcription polymerase chain reaction (RT-PCR) to detect viral RNA in patient samples, but RNA extraction constitutes a major bottleneck in current testing. Methodological simplification could increase diagnostic availability and efficiency, benefitting patient care and infection control. Here, we describe methods circumventing RNA extraction in COVID-19 testing by performing RT-PCR directly on heat-inactivated or lysed samples. Our data, including benchmarking using 597 clinical patient samples and a standardised diagnostic system, demonstrate that direct RT-PCR is viable option to extraction-based tests. Using controlled amounts of active SARS-CoV-2, we confirm effectiveness of heat inactivation by plaque assay and evaluate various generic buffers as transport medium for direct RT-PCR. Significant savings in time and cost are achieved through RNA-extraction-free protocols that are directly compatible with established PCR-based testing pipelines. This could aid expansion of COVID-19 testing.
-
-[Source](https://www.nature.com/articles/s41467-020-18611-5)
-
-10.1038/s41467-020-18611-5
+[Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
 
 ---
 
-## Identification of new enterosynes using prebiotics: roles of bioactive lipids and mu-opioid receptor signalling in humans and mice
-
-[Source](https://gut.bmj.com/content/early/2020/09/29/gutjnl-2019-320230)
-
----
-
-## Assessing the Variation within the Oral Microbiome of Healthy Adults.
- 02.10.2020, _JT Nearing, V DeClercq, J Van Limbergen, MGI Langille_
+## Understanding the potential of lactobacilli in recurrent UTI prevention.
+ 03.10.2020, _S Vagios, H Hesham, C Mitchell_
 
 
-More than 1,000 different species of microbes have been found to live within the human oral cavity, where they play important roles in maintaining both oral and systemic health. Several studies have identified the core members of this microbial community; however, the factors that determine oral microbiome composition are not well understood. In this study, we exam the salivary oral microbiome of 1,049 Atlantic Canadians using 16S rRNA gene sequencing to determine which dietary, lifestyle, and anthropometric features play a role in shaping microbial community composition. Features that were identified as being significantly associated with overall composition then were additionally examined for genera, amplicon sequence variants, and predicted pathway abundances that were associated with these features. Several associations were replicated in an additional secondary validation data set. Overall, we found that several anthropometric measurements, including waist-hip ratio (WHR), height, and fat-free mass, as well as age and sex, were associated with overall oral microbiome structure in both our exploratory and validation data sets. We were unable to validate any dietary impacts on overall taxonomic oral microbiome composition but did find evidence to suggest potential contributions from factors such as the number of vegetable and refined grain servings an individual consumes. Interestingly, each one of these factors on its own was associated with only minor shifts in the overall taxonomic composition of the oral microbiome, suggesting that future biomarker identification for several diseases associated with the oral microbiome can be undertaken without the worry of confounding factors obscuring biological signals.IMPORTANCE The human oral cavity is inhabited by a diverse community of microbes, known as the human oral microbiome. These microbes play a role in maintaining both oral and systemic health and, as such, have been proposed to be useful biomarkers of disease. However, to identify these biomarkers, we first need to determine the composition and variation of the healthy oral microbiome. In this report, we investigate the oral microbiome of 1,049 healthy individuals to determine which genera and amplicon sequence variants are commonly found between individual oral microbiomes. We then further investigate how lifestyle, anthropometric, and dietary choices impact overall microbiome composition. Interestingly, the results from this investigation showed that while many features were significantly associated with oral microbiome composition, no single biological factor explained a variation larger than 2%. These results indicate that future work on biomarker detection may be encouraged by the lack of strong confounding factors.
+Urinary tract infections (UTIs) are one of the most common infections in women. The only proven preventive strategy for recurrent UTIs is prophylactic antibiotics. Given growing antibiotic resistance, the use of probiotics has been proposed as an alternative to antibiotics. Herein, we discuss the current evidence to support the possibility that exogenous lactobacilli may limit the pathogenicity of uropathogens such as E. coli. Probiotics appear to have a significant potential in prevention of recurrent UTI, however, additional data are needed to understand how they can be effectively used in clinical practice.
 
-[Source](https://msphere.asm.org/content/5/5/e00451-20)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020309104)
 
-10.1128/mSphere.00451-20
+10.1016/j.micpath.2020.104544
 
 ---
 
-## Strain-Level Analysis of Bifidobacterium spp. from Gut Microbiomes of Adults with Differing Lactase Persistence Genotypes.
- 03.10.2020, _V Schmidt, H Enav, TD Spector, ND Youngblut, RE Ley_
+## Throat microbial community structure and functional changes in post-surgery laryngeal carcinoma patients.
+ 03.10.2020, _CY Hsueh, H Gong, N Cong, J Sun, HC Lau, Y Guo, Q Huang, X Yuan, M Zhang, L Tao, L Zhou_
 
 
-One of the strongest associations between human genetics and the gut microbiome is a greater relative abundance of Bifidobacterium in adults with lactase gene (LCT) single nucleotide polymorphisms (SNPs) associated with lactase nonpersistence (GG genotypes), versus lactase persistence (AA/AG genotypes). To gain a finer-grained phylogenetic resolution of this association, we interrogated 1,680 16S rRNA libraries and 245 metagenomes from gut microbiomes of adults with various lactase persistence genotypes. We further employed a novel genome-capture-based enrichment of Bifidobacterium DNA from a subset of these metagenomes, including monozygotic (MZ) twin pairs, each sampled 2 or 3 times. B. adolescentis and B. longum were the most abundant Bifidobacterium species regardless of host LCT genotype. LCT genotypes could not be discriminated based on relative abundances of Bifidobacterium species or Bifidobacterium community structure. Three distinct metagenomic analysis methods of Bifidobacterium-enriched DNA revealed intraindividual temporal stability of B. longum, B. adolescentis, and B. bifidum strains against the background of a changeable microbiome. Two of our three methods also observed greater strain sharing within MZ twin pairs than within unrelated individuals for B. adolescentis, while no method revealed an effect of host LCT genotype on Bifidobacterium strain composition. Our results support a "rising tide lifts all boats" model for the dominant bifidobacteria in the adult gut: their higher abundance in lactase-nonpersistent than in lactase-persistent individuals results from an expansion at the genus level. Bifidobacterium species are known to be transmitted from mother to child and stable within individuals in infancy and childhood: our results extend this stability into adulthood.IMPORTANCE When humans domesticated animals, some adapted genetically to digest milk into adulthood (lactase persistence). The gut microbiomes of people with lactase-persistent genotypes (AA or AG) differ from those with lactase-nonpersistent genotypes (GG) by containing fewer bacteria belonging to the bifidobacteria, a group which contains beneficial species. Here, we asked if the gut microbiomes of adults with GG and AA/AG genotypes differ in the species of bifidobacteria present. In particular, we used a novel technique which allowed us to compare bifidobacteria in adults at the strain level, without the traditional need for culturing. Our results show that the GG genotype enhances the abundance of bifidobacteria regardless of species. We also noted that a person's specific strains are recoverable several years later, and twins can share the same ones. Given that bifidobacteria are inherited from mother to child, strain stability over time in adulthood suggests long-term, multigenerational inheritance.
+Microbial community structure and its shift after laryngectomy in laryngeal squamous cell carcinoma (LSCC) patients were investigated. Thirty swab samples of LSCC prior to laryngectomy (SLC), 18 samples after 1-weeks laryngectomy (SLCA1w), and 30 samples after 24-week laryngectomy (SLCA24w) from 30 LSCC patients were sourced. Microbial diversity was profiled through sequencing the V3-4 variable region of the 16S ribosomal ribonucleic acid (rRNA) gene. Quantitative real-time polymerase chain reaction (qPCR) was used to validate the V3-4 region of 16S rRNA sequence data. The community structure and function of throat microbiota were assessed by PICRUSt analysis. Both Alpha and Beta diversity results showed significant differences in the throat microbiota of LSCC patients before and after laryngectomy (P &lt; 0.05). Drinking index of SLC group was positively associated with the genus abundance of Prevotella (P &lt; 0.05). SLCA1w group had lower abundance of Fusobacterium, Leptotrichia, Lachnoanaerobaculum and Veillonella compared to the SLC group (P &lt; 0.05). SLCA24w group had higher abundance of Streptococcus and Leptotrichia, as well as the lower abundance of Fusobacterium and Alloprevotella compared to the SLC group (P &lt; 0.05). The different propensity of throat microbiome of SLC group could implicate human cancer signaling pathways evident through Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt) analysis (P &lt; 0.05). Our study clarifies altered throat microbial community structure and function in LSCC patients during the perioperative period and post-operative recovery period.ImportanceLaryngeal squamous cell carcinoma greatly impacts patient's livelihood, and non-invasive ways for prognostic assessment is valuable in determining the effectiveness of laryngectomy.We set to study the microbial structure changes in throat before and after laryngectomy and found the gene functions of several throat bacteria to be associated with human cancer signaling pathways.Our findings may offer insights into the disease management of patients with laryngeal squamous cell carcinoma. We hope to provide a perspective in molecular mechanisms to improve the prognosis of laryngeal cancer treatment and to facilitate relevant research.
 
-[Source](https://msystems.asm.org/content/5/5/e00911-20)
+[Source](https://aem.asm.org/content/early/2020/09/28/AEM.01849-20.abstract)
 
-10.1128/mSystems.00911-20
-
----
-
-## Description of a new member of the family Erysipelotrichaceae: Dakotella fusiforme gen. nov., sp. nov., isolated from healthy human feces
-
-[Source](https://peerj.com/articles/10071/)
+10.1128/AEM.01849-20
 
 ---
 
-## Distinct signatures of gut microbiome and metabolites associated with significant fibrosis in non-obese NAFLD
+## Bacterial diversity and prevalence of antibiotic resistance genes in the oral microbiome.
+ 02.10.2020, _VSM Almeida, J Azevedo, HF Leal, ATL Queiroz, HP da Silva Filho, JN Reis_
 
-[Source](https://www.nature.com/articles/s41467-020-18754-5)
 
----
+This study aims to describe the oral microbiome diversity and prevalence of ARGs in periodontal health and disease.
 
-## Fecal microbiota in client-owned obese dogs changes after weight loss with a high-fiber-high-protein diet
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239664)
 
-[Source](https://peerj.com/articles/9706/)
-
----
-
-## Achieving similar root microbiota composition in neighbouring plants through airborne signalling
-
-[Source](https://www.nature.com/articles/s41396-020-00759-z)
+10.1371/journal.pone.0239664
 
 ---
 
-## Human-Gut-DNA Virome Variations across Geography, Ethnicity, and Urbanization
+## Metagenomics of the modern and historical human oral microbiome with phylogenetic studies on Streptococcus mutans and Streptococcus sobrinus.
+ 05.10.2020, _M Achtman, Z Zhou_
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30458-3)
 
----
+We have recently developed bioinformatic tools to accurately assign metagenomic sequence reads to microbial taxa: SPARSE for probabilistic, taxonomic classification of sequence reads; EToKi for assembling and polishing genomes from short-read sequences; and GrapeTree, a graphic visualizer of genetic distances between large numbers of genomes. Together, these methods support comparative analyses of genomes from ancient skeletons and modern humans. Here, we illustrate these capabilities with 784 samples from historical dental calculus, modern saliva and modern dental plaque. The analyses revealed 1591 microbial species within the oral microbiome. We anticipated that the oral complexes of Socransky et al., which were defined in 1998, would predominate among taxa whose frequencies differed by source. However, although some species discriminated between sources, we could not confirm the existence of the complexes. The results also illustrate further functionality of our pipelines with two species that are associated with dental caries, Streptococcus mutans and Streptococcus sobrinus. They were rare in historical dental calculus but common in modern plaque, and even more common in saliva. Reconstructed draft genomes of these two species from metagenomic samples in which they were abundant were combined with modern public genomes to provide a detailed overview of their core genomic diversity. This article is part of the theme issue 'Insights into health and disease from ancient biomolecules'.
 
-## Phage gene expression and host responses lead to infection-dependent costs of CRISPR immunity
+[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0573)
 
-[Source](https://www.nature.com/articles/s41396-020-00794-w)
-
----
-
-## Interaction of bacterial metagenome and virome in patients with cirrhosis and hepatic encephalopathy 
-
-[Source](https://gut.bmj.com/content/early/2020/09/29/gutjnl-2020-322470)
+10.1098/rstb.2019.0573
 
 ---
 
-## Stability of the Virome in Lab- and Field-Collected Aedes albopictus Mosquitoes across Different Developmental Stages and Possible Core Viruses in the Publicly Available Virome Data of Aedes Mosquitoes
+## In utero human intestine harbors unique metabolomic features including bacterial metabolites.
+ 01.10.2020, _Y Li, JM Toothaker, S Ben-Simon, L Ozeri, R Schweitzer, BT McCourt, CC McCourt, L Werner, SB Snapper, DS Shouval, S Khatib, O Koren, S Agnihorti, G Tseng, L Konnikova_
 
-[Source](https://msystems.asm.org/content/5/5/e00640-20)
+
+Symbiotic microbial colonization through the establishment of the intestinal microbiome is critical to many intestinal functions including nutrient metabolism, intestinal barrier integrity and immune regulation. Recent studies suggest that education of the intestinal immunity maybe ongoing in utero. However, the drivers of this process are unknown. The microbiome and its byproducts are one potential source. Whether a fetal intestinal microbiome exists is controversial and if microbially derived metabolites are present in utero is unknown. Here, we aimed to determine whether bacterial DNA and microbially-derived metabolites can be detected in second trimester human intestinal samples. Although, we were unable to amplify bacterial DNA from fetal intestines, we report a unique fetal metabolomic intestinal profile with an abundance of bacterially derived and host derived metabolites commonly produced in response to microbiota. Though we did not directly assess their source and function, we hypothesize that these microbial associated metabolites come either from the maternal microbiome and are vertically transmitted to the fetus to prime the fetal immune system and prepare the gastrointestinal tract for postnatal microbial encounters or are produced locally by bacteria that was below our detection threshold.
+
+[Source](https://insight.jci.org/articles/view/138751)
+
+10.1172/jci.insight.138751
+
+---
+
+## nteractions between Environmental Exposures and the Microbiome: Implications for Fetal Programming
+
+[Source](https://www.sciencedirect.com/science/article/pii/S2451965020300946)
+
+---
+
+## Alterations in blood microbiota after colonic cancer surgery.
+ 06.10.2020, _JH Søby, SK Watt, RP Vogelsang, F Servant, B Lelouvier, H Raskov, FK Knop, I Gögenur_
+
+
+Mechanisms contributing to the perioperative stress response remain poorly understood. This study investigated changes in the amount of bacterial DNA in blood and the diversity of blood microbiota in the perioperative period in patients undergoing minimally invasive surgery for colonic cancer in an enhanced recovery after surgery setting.
+
+[Source](https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs5.50357)
+
+10.1002/bjs5.50357
+
+---
+
+## Estimating molecular preservation of the intestinal microbiome via metagenomic analyses of latrine sediments from two medieval cities.
+ 05.10.2020, _S Sabin, HY Yeh, A Pluskowski, C Clamer, PD Mitchell, KI Bos_
+
+
+Ancient latrine sediments, which contain the concentrated collective biological waste of past whole human communities, have the potential to be excellent proxies for human gastrointestinal health on the population level. A rich body of literature explores their use to detect the presence of gut-associated eukaryotic parasites through microscopy, immunoassays and genetics. Despite this interest, a lack of studies have explored the whole genetic content of ancient latrine sediments through consideration not only of gut-associated parasites, but also of core community gut microbiome signals that remain from the group that used the latrine. Here, we present a metagenomic analysis of bulk sediment from medieval latrines in Riga (Latvia) and Jerusalem. Our analyses reveal survival of microbial DNA representative of intestinal flora as well as numerous parasites. These data are compared against parasite taxon identifications obtained via microscopy and ELISA techniques. Together, these findings provide a first glimpse into the rich prokaryotic and eukaryotic intestinal flora of pre-industrial agricultural populations, which may give a better context for interpreting the health of modern microbiomes. This article is part of the theme issue 'Insights into health and disease from ancient biomolecules'.
+
+[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0576)
+
+10.1098/rstb.2019.0576
+
+---
+
+## Gut microbiota composition in obese and non-obese adult relatives from the highlands of Papua New Guinea.
+ 06.10.2020, _ME Jonduo, L Wawae, G Masiria, W Suda, M Hattori, L Takayasu, MY Abdad, AR Greenhill, PF Horwood, W Pomat, M Umezaki_
+
+
+Obesity is a condition that results from an imbalance between energy intake and expenditure. Recently, obesity has been linked to differences in the composition of gut microbiota. To examine this association in Papua New Guinea (PNG) highlanders, fecal samples were collected from 18 adults; nine obese participants paired with their non-obese relative. Amplification of the 16S rRNA gene targeting the V1-V2 region was performed on DNA extracts for each participant, with high-quality sequences selected and used for OTU clustering. The data showed Firmicutes and Bacteroidetes were the two dominant phyla, while at genus level Prevotella was the most dominant genus in all of the samples. Nonetheless, statistical evaluation of potential association between nutritional status and bacterial abundance at phyla and genus levels both showed no significant difference. Further studies, ideally in both rural and urban areas, are needed to evaluate the role of the gut microbiome in the occurrence of obesity in PNG and other resource-limited settings.
+
+[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaa161/5918384)
+
+10.1093/femsle/fnaa161
+
+---
+
+## Fecal Bacteria as Biomarkers for Predicting Food Intake in Healthy Adults.
+ 06.10.2020, _LM Shinn, Y Li, A Mansharamani, LS Auvil, ME Welge, C Bushell, NA Khan, CS Charron, JA Novotny, DJ Baer, R Zhu, HD Holscher_
+
+
+Diet affects the human gastrointestinal microbiota. Blood and urine samples have been used to determine nutritional biomarkers. However, there is a dearth of knowledge on the utility of fecal biomarkers, including microbes, as biomarkers of food intake.
+
+[Source](https://academic.oup.com/jn/advance-article/doi/10.1093/jn/nxaa285/5918305)
+
+10.1093/jn/nxaa285
+
+---
+
+## Inulin fermentation by lactobacilli and bifidobacteria from dairy calves.
+ 03.10.2020, _Y Zhu, J Liu, JM Lopez, DA Mills_
+
+
+Prebiotics are increasingly examined for their ability to modulate the neonate gut microbiota of livestock and products such as inulin are commonly added to milk replacer used in calving. However, the ability of specific members of the bovine neonate microbiota to respond to inulin remains to be determined, particularly among indigenous lactobacilli and bifidobacteria, beneficial genera commonly enriched by inulin. Screening of Bifidobacterium and Lactobacillus isolates obtained from fresh feces of dairy calves revealed that lactobacilli had a higher prevalence of inulin fermentation capacity (58%) than bifidobacteria (17%). Several Ligilactobacillus agilis comb. nov. (formerly Lactobacillus agilis) isolates exhibited vigorous growth on, and complete degradation of, inulin however the phenotype was strain-specific. The most vigorous inulin fermenting strain, L. agilis YZ050, readily degraded long chain inulin not consumed by bifidobacterial isolates. Comparative genomic analysis of both L. agilis fermenter and non-fermenter strains indicated that strain YZ050 encodes an inulinase homolog, previously linked to extracellular degradation of long-chain inulin in Lacticaseibacillus paracasei comb. nov., that was strongly induced during growth on inulin. Inulin catabolism by YZ050 also generates extracellular fructose which can serve as a growth substrate to cross feed other non-inulin-fermenting lactic acid bacteria isolated from the same bovine feces. The presence of specific inulin-responsive bacterial strains within calf gut microbiome provides a mechanistic rationale for enrichment of specific lactobacilli and creates a foundation for future synbiotic applications in dairy calves aimed at improving health in early life.IMPORTANCE The gut microbiome plays an important role in animal health and is increasingly recognized as a target for diet-based manipulation. Inulin is a common prebiotic routinely added to animal feeds, however, the mechanism of inulin consumption by specific beneficial taxa in livestock is ill defined. In this study we examined Lactobacillus and Bifidobacterium isolates from calves fed inulin-containing milk replacer and characterized specific strains that robustly consume long chain inulin. In particular, a novel Ligilactobacillus agilis strain YZ050 consumed inulin via an extracellular fructosidase resulting in complete consumption of all long chain inulin. Inulin catabolism resulted in temporal release of extracellular fructose that can promote growth of other non-inulin consuming LAB strains. This work provides the mechanistic insight needed to purposely modulate the calf gut microbiome via the establishment of networks of beneficial microbes linked to specific prebiotics.
+
+[Source](https://aem.asm.org/content/early/2020/09/28/AEM.01738-20.abstract)
+
+10.1128/AEM.01738-20
+
+---
+
+## Microbial Diversity and Community Structure in Alpine Stream Soil
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/01490451.2020.1824039)
+
+---
+
+## Impact of dietary fibers in infant formula on gut microbiota and the intestinal immune barrier
+
+[Source](https://pubs.rsc.org/en/content/articlelanding/2020/fo/d0fo01700k/unauth#!divAbstract)
+
+---
+
+## A framework for comparing microbial networks reveals core associations
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.05.325860v1.abstract)
+
+---
+
+## Gut health benefits begin in utero
+
+[Source](https://news.yale.edu/2020/10/06/gut-health-benefits-begin-utero)
+
+---
+
+## Medieval poo holds clues to health of modern-day gut microbiome
+
+[Source](https://www.sciencefocus.com/news/medieval-poo-holds-clues-to-health-of-modern-day-gut-microbiome/)
 
 ---
 
