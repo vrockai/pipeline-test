@@ -1,174 +1,114 @@
-## Assessing the fit of the multi-species network coalescent to multi-locus data.
- 07.10.2020, _R Cai, C Ané_
+## Genetic scissors: a tool for rewriting the code of life- the CRISPR/Cas9 genetic scissors
 
-
-With growing genome-wide molecular data sets from next-generation sequencing, phylogenetic networks can be estimated using a variety of approaches. These phylogenetic networks include events like hybridization, gene flow, or horizontal gene transfer explicitly. However, the most accurate network inference methods are computationally heavy. Methods that scale to larger data sets do not calculate a full likelihood, such that traditional likelihood-based tools for model selection are not applicable to decide how many past hybridization events best fit the data. We propose here a goodness-of-fit test to quantify the fit between data observed from genome-wide multi-locus data, and patterns expected under the multi-species coalescent model on a candidate phylogenetic network.
-
-[Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
-
-10.1093/bioinformatics/btaa863
+[Source](https://www.nobelprize.org/prizes/chemistry/2020/press-release/)
 
 ---
 
-## https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa
+## Electrochemical Investigation of <em>Thiobacillus denitrificans</em> in a Bacterial Composite
 
-[Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
-
----
-
-## Understanding the potential of lactobacilli in recurrent UTI prevention.
- 03.10.2020, _S Vagios, H Hesham, C Mitchell_
-
-
-Urinary tract infections (UTIs) are one of the most common infections in women. The only proven preventive strategy for recurrent UTIs is prophylactic antibiotics. Given growing antibiotic resistance, the use of probiotics has been proposed as an alternative to antibiotics. Herein, we discuss the current evidence to support the possibility that exogenous lactobacilli may limit the pathogenicity of uropathogens such as E. coli. Probiotics appear to have a significant potential in prevention of recurrent UTI, however, additional data are needed to understand how they can be effectively used in clinical practice.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020309104)
-
-10.1016/j.micpath.2020.104544
+[Source](https://iopscience.iop.org/article/10.1149/1945-7111/abbdd7/meta)
 
 ---
 
-## Throat microbial community structure and functional changes in post-surgery laryngeal carcinoma patients.
- 03.10.2020, _CY Hsueh, H Gong, N Cong, J Sun, HC Lau, Y Guo, Q Huang, X Yuan, M Zhang, L Tao, L Zhou_
+## Can we prevent allergic disease? Understanding the links between the early life microbiome and allergic diseases of childhood
 
-
-Microbial community structure and its shift after laryngectomy in laryngeal squamous cell carcinoma (LSCC) patients were investigated. Thirty swab samples of LSCC prior to laryngectomy (SLC), 18 samples after 1-weeks laryngectomy (SLCA1w), and 30 samples after 24-week laryngectomy (SLCA24w) from 30 LSCC patients were sourced. Microbial diversity was profiled through sequencing the V3-4 variable region of the 16S ribosomal ribonucleic acid (rRNA) gene. Quantitative real-time polymerase chain reaction (qPCR) was used to validate the V3-4 region of 16S rRNA sequence data. The community structure and function of throat microbiota were assessed by PICRUSt analysis. Both Alpha and Beta diversity results showed significant differences in the throat microbiota of LSCC patients before and after laryngectomy (P &lt; 0.05). Drinking index of SLC group was positively associated with the genus abundance of Prevotella (P &lt; 0.05). SLCA1w group had lower abundance of Fusobacterium, Leptotrichia, Lachnoanaerobaculum and Veillonella compared to the SLC group (P &lt; 0.05). SLCA24w group had higher abundance of Streptococcus and Leptotrichia, as well as the lower abundance of Fusobacterium and Alloprevotella compared to the SLC group (P &lt; 0.05). The different propensity of throat microbiome of SLC group could implicate human cancer signaling pathways evident through Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt) analysis (P &lt; 0.05). Our study clarifies altered throat microbial community structure and function in LSCC patients during the perioperative period and post-operative recovery period.ImportanceLaryngeal squamous cell carcinoma greatly impacts patient's livelihood, and non-invasive ways for prognostic assessment is valuable in determining the effectiveness of laryngectomy.We set to study the microbial structure changes in throat before and after laryngectomy and found the gene functions of several throat bacteria to be associated with human cancer signaling pathways.Our findings may offer insights into the disease management of patients with laryngeal squamous cell carcinoma. We hope to provide a perspective in molecular mechanisms to improve the prognosis of laryngeal cancer treatment and to facilitate relevant research.
-
-[Source](https://aem.asm.org/content/early/2020/09/28/AEM.01849-20.abstract)
-
-10.1128/AEM.01849-20
+[Source](https://journals.lww.com/co-pediatrics/Abstract/9000/Can_we_prevent_allergic_disease__Understanding_the.98719.aspx)
 
 ---
 
-## Bacterial diversity and prevalence of antibiotic resistance genes in the oral microbiome.
- 07.10.2020, _VSM Almeida, J Azevedo, HF Leal, ATL Queiroz, HP da Silva Filho, JN Reis_
+## Nutritional Targeting of the Microbiome as Potential Therapy for Malnutrition and Chronic Inflammation
 
-
-This study aims to describe the oral microbiome diversity and prevalence of ARGs in periodontal health and disease.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239664)
-
-10.1371/journal.pone.0239664
+[Source](https://www.mdpi.com/2072-6643/12/10/3032)
 
 ---
 
-## Metagenomics of the modern and historical human oral microbiome with phylogenetic studies on Streptococcus mutans and Streptococcus sobrinus.
- 05.10.2020, _M Achtman, Z Zhou_
+## Airway bacterial and fungal microbiome in chronic obstructive pulmonary disease
 
-
-We have recently developed bioinformatic tools to accurately assign metagenomic sequence reads to microbial taxa: SPARSE for probabilistic, taxonomic classification of sequence reads; EToKi for assembling and polishing genomes from short-read sequences; and GrapeTree, a graphic visualizer of genetic distances between large numbers of genomes. Together, these methods support comparative analyses of genomes from ancient skeletons and modern humans. Here, we illustrate these capabilities with 784 samples from historical dental calculus, modern saliva and modern dental plaque. The analyses revealed 1591 microbial species within the oral microbiome. We anticipated that the oral complexes of Socransky et al., which were defined in 1998, would predominate among taxa whose frequencies differed by source. However, although some species discriminated between sources, we could not confirm the existence of the complexes. The results also illustrate further functionality of our pipelines with two species that are associated with dental caries, Streptococcus mutans and Streptococcus sobrinus. They were rare in historical dental calculus but common in modern plaque, and even more common in saliva. Reconstructed draft genomes of these two species from metagenomic samples in which they were abundant were combined with modern public genomes to provide a detailed overview of their core genomic diversity. This article is part of the theme issue 'Insights into health and disease from ancient biomolecules'.
-
-[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0573)
-
-10.1098/rstb.2019.0573
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.05.327536v1.abstract?%3Fcollection=)
 
 ---
 
-## In utero human intestine harbors unique metabolomic features including bacterial metabolites.
- 01.10.2020, _Y Li, JM Toothaker, S Ben-Simon, L Ozeri, R Schweitzer, BT McCourt, CC McCourt, L Werner, SB Snapper, DS Shouval, S Khatib, O Koren, S Agnihorti, G Tseng, L Konnikova_
+## Mechanistic insight into the gut microbiome and its interaction with host immunity and inflammation
 
-
-Symbiotic microbial colonization through the establishment of the intestinal microbiome is critical to many intestinal functions including nutrient metabolism, intestinal barrier integrity and immune regulation. Recent studies suggest that education of the intestinal immunity maybe ongoing in utero. However, the drivers of this process are unknown. The microbiome and its byproducts are one potential source. Whether a fetal intestinal microbiome exists is controversial and if microbially derived metabolites are present in utero is unknown. Here, we aimed to determine whether bacterial DNA and microbially-derived metabolites can be detected in second trimester human intestinal samples. Although, we were unable to amplify bacterial DNA from fetal intestines, we report a unique fetal metabolomic intestinal profile with an abundance of bacterially derived and host derived metabolites commonly produced in response to microbiota. Though we did not directly assess their source and function, we hypothesize that these microbial associated metabolites come either from the maternal microbiome and are vertically transmitted to the fetus to prime the fetal immune system and prepare the gastrointestinal tract for postnatal microbial encounters or are produced locally by bacteria that was below our detection threshold.
-
-[Source](https://insight.jci.org/articles/view/138751)
-
-10.1172/jci.insight.138751
+[Source](https://www.sciencedirect.com/science/article/pii/S2405654520300949)
 
 ---
 
-## nteractions between Environmental Exposures and the Microbiome: Implications for Fetal Programming
+## Ethanol extract of Centella asiatica alleviated dextran sulfate sodium-induced colitis via restoration on mucosa barrier and gut microbiota homeostasis
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2451965020300946)
-
----
-
-## Alterations in blood microbiota after colonic cancer surgery.
- 06.10.2020, _JH Søby, SK Watt, RP Vogelsang, F Servant, B Lelouvier, H Raskov, FK Knop, I Gögenur_
-
-
-Mechanisms contributing to the perioperative stress response remain poorly understood. This study investigated changes in the amount of bacterial DNA in blood and the diversity of blood microbiota in the perioperative period in patients undergoing minimally invasive surgery for colonic cancer in an enhanced recovery after surgery setting.
-
-[Source](https://bjssjournals.onlinelibrary.wiley.com/doi/10.1002/bjs5.50357)
-
-10.1002/bjs5.50357
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0378874120333304)
 
 ---
 
-## Estimating molecular preservation of the intestinal microbiome via metagenomic analyses of latrine sediments from two medieval cities.
- 05.10.2020, _S Sabin, HY Yeh, A Pluskowski, C Clamer, PD Mitchell, KI Bos_
+## Development of a three-compartment in vitro simulator of the Atlantic Salmon GI tract and associated microbial communities: SalmoSim 
 
-
-Ancient latrine sediments, which contain the concentrated collective biological waste of past whole human communities, have the potential to be excellent proxies for human gastrointestinal health on the population level. A rich body of literature explores their use to detect the presence of gut-associated eukaryotic parasites through microscopy, immunoassays and genetics. Despite this interest, a lack of studies have explored the whole genetic content of ancient latrine sediments through consideration not only of gut-associated parasites, but also of core community gut microbiome signals that remain from the group that used the latrine. Here, we present a metagenomic analysis of bulk sediment from medieval latrines in Riga (Latvia) and Jerusalem. Our analyses reveal survival of microbial DNA representative of intestinal flora as well as numerous parasites. These data are compared against parasite taxon identifications obtained via microscopy and ELISA techniques. Together, these findings provide a first glimpse into the rich prokaryotic and eukaryotic intestinal flora of pre-industrial agricultural populations, which may give a better context for interpreting the health of modern microbiomes. This article is part of the theme issue 'Insights into health and disease from ancient biomolecules'.
-
-[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0576)
-
-10.1098/rstb.2019.0576
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.06.327858v1?%3Fcollection=)
 
 ---
 
-## Gut microbiota composition in obese and non-obese adult relatives from the highlands of Papua New Guinea.
- 06.10.2020, _ME Jonduo, L Wawae, G Masiria, W Suda, M Hattori, L Takayasu, MY Abdad, AR Greenhill, PF Horwood, W Pomat, M Umezaki_
+## Time-dependent modulation of gut microbiome in response to systemic antifungal agents
 
-
-Obesity is a condition that results from an imbalance between energy intake and expenditure. Recently, obesity has been linked to differences in the composition of gut microbiota. To examine this association in Papua New Guinea (PNG) highlanders, fecal samples were collected from 18 adults; nine obese participants paired with their non-obese relative. Amplification of the 16S rRNA gene targeting the V1-V2 region was performed on DNA extracts for each participant, with high-quality sequences selected and used for OTU clustering. The data showed Firmicutes and Bacteroidetes were the two dominant phyla, while at genus level Prevotella was the most dominant genus in all of the samples. Nonetheless, statistical evaluation of potential association between nutritional status and bacterial abundance at phyla and genus levels both showed no significant difference. Further studies, ideally in both rural and urban areas, are needed to evaluate the role of the gut microbiome in the occurrence of obesity in PNG and other resource-limited settings.
-
-[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaa161/5918384)
-
-10.1093/femsle/fnaa161
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.05.315184v1?%3Fcollection=)
 
 ---
 
-## Fecal Bacteria as Biomarkers for Predicting Food Intake in Healthy Adults.
- 06.10.2020, _LM Shinn, Y Li, A Mansharamani, LS Auvil, ME Welge, C Bushell, NA Khan, CS Charron, JA Novotny, DJ Baer, R Zhu, HD Holscher_
+## North American fireflies host low bacterial diversity
 
-
-Diet affects the human gastrointestinal microbiota. Blood and urine samples have been used to determine nutritional biomarkers. However, there is a dearth of knowledge on the utility of fecal biomarkers, including microbes, as biomarkers of food intake.
-
-[Source](https://academic.oup.com/jn/advance-article/doi/10.1093/jn/nxaa285/5918305)
-
-10.1093/jn/nxaa285
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.06.328070v1?%3Fcollection=)
 
 ---
 
-## Inulin fermentation by lactobacilli and bifidobacteria from dairy calves.
- 03.10.2020, _Y Zhu, J Liu, JM Lopez, DA Mills_
+## Anthropogenic Invasion of Micromycetes to Undisturbed Ecosystems of the Larsemann Hills Oasis (East Antarctica)
 
-
-Prebiotics are increasingly examined for their ability to modulate the neonate gut microbiota of livestock and products such as inulin are commonly added to milk replacer used in calving. However, the ability of specific members of the bovine neonate microbiota to respond to inulin remains to be determined, particularly among indigenous lactobacilli and bifidobacteria, beneficial genera commonly enriched by inulin. Screening of Bifidobacterium and Lactobacillus isolates obtained from fresh feces of dairy calves revealed that lactobacilli had a higher prevalence of inulin fermentation capacity (58%) than bifidobacteria (17%). Several Ligilactobacillus agilis comb. nov. (formerly Lactobacillus agilis) isolates exhibited vigorous growth on, and complete degradation of, inulin however the phenotype was strain-specific. The most vigorous inulin fermenting strain, L. agilis YZ050, readily degraded long chain inulin not consumed by bifidobacterial isolates. Comparative genomic analysis of both L. agilis fermenter and non-fermenter strains indicated that strain YZ050 encodes an inulinase homolog, previously linked to extracellular degradation of long-chain inulin in Lacticaseibacillus paracasei comb. nov., that was strongly induced during growth on inulin. Inulin catabolism by YZ050 also generates extracellular fructose which can serve as a growth substrate to cross feed other non-inulin-fermenting lactic acid bacteria isolated from the same bovine feces. The presence of specific inulin-responsive bacterial strains within calf gut microbiome provides a mechanistic rationale for enrichment of specific lactobacilli and creates a foundation for future synbiotic applications in dairy calves aimed at improving health in early life.IMPORTANCE The gut microbiome plays an important role in animal health and is increasingly recognized as a target for diet-based manipulation. Inulin is a common prebiotic routinely added to animal feeds, however, the mechanism of inulin consumption by specific beneficial taxa in livestock is ill defined. In this study we examined Lactobacillus and Bifidobacterium isolates from calves fed inulin-containing milk replacer and characterized specific strains that robustly consume long chain inulin. In particular, a novel Ligilactobacillus agilis strain YZ050 consumed inulin via an extracellular fructosidase resulting in complete consumption of all long chain inulin. Inulin catabolism resulted in temporal release of extracellular fructose that can promote growth of other non-inulin consuming LAB strains. This work provides the mechanistic insight needed to purposely modulate the calf gut microbiome via the establishment of networks of beneficial microbes linked to specific prebiotics.
-
-[Source](https://aem.asm.org/content/early/2020/09/28/AEM.01738-20.abstract)
-
-10.1128/AEM.01738-20
+[Source](https://link.springer.com/article/10.1134/S2075111720030121)
 
 ---
 
-## Microbial Diversity and Community Structure in Alpine Stream Soil
+## Ethylenediurea (EDU) effects on Japanese larch: an one growing season experiment with simulated regenerating communities and a four growing season application to individual saplings.
+ 06.10.2020, _E Agathokleous, M Kitao, X Wang, Q Mao, H Harayama, WJ Manning, T Koike_
 
-[Source](https://www.tandfonline.com/doi/abs/10.1080/01490451.2020.1824039)
 
----
+Japanese larch (Larix kaempferi (Lamb.) Carr.) and its hybrid are economically important coniferous trees widely grown in the Northern Hemisphere. Ground-level ozone (O3) concentrations have increased since the pre-industrial era, and research projects showed that Japanese larch is susceptible to elevated O3 exposures. Therefore, methodologies are needed to (1) protect Japanese larch against O3 damage and (2) conduct biomonitoring of O3 in Japanese larch forests and, thus, monitor O3 risks to Japanese larch. For the first time, this study evaluates whether the synthetic chemical ethylenediurea (EDU) can protect Japanese larch against O3 damage, in two independent experiments. In the first experiment, seedling communities, simulating natural regeneration, were treated with EDU (0, 100, 200, and 400 mg L-1) and exposed to either ambient or elevated O3 in a growing season. In the second experiment, individually-grown saplings were treated with EDU (0, 200 and 400 mg L-1) and exposed to ambient O3 in two growing seasons and to elevated O3 in the succeeding two growing seasons. The two experiments revealed that EDU concentrations of 200-400 mg L-1 could protect Japanese larch seedling communities and individual saplings against O3-induced inhibition of growth and productivity. However, EDU concentrations ≤ 200 mg L-1 did offer only partial protection when seedling communities were coping with higher level of O3-induced stress, and only 400 mg EDU L-1 fully protected communities under higher stress. Therefore, we conclude that among the concentrations tested the concentration offering maximum protection to Japanese larch plants under high competition and O3-induced stress is that of 400 mg EDU L-1. The results of this study can provide a valuable resource of information for applied forestry in an O3-polluted world.
 
-## Impact of dietary fibers in infant formula on gut microbiota and the intestinal immune barrier
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0925857420303621)
 
-[Source](https://pubs.rsc.org/en/content/articlelanding/2020/fo/d0fo01700k/unauth#!divAbstract)
-
----
-
-## A framework for comparing microbial networks reveals core associations
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.10.05.325860v1.abstract)
+10.1007/s11676-020-01223-6
 
 ---
 
-## Gut health benefits begin in utero
+## Larch or Mongolian pine? Effects of tree species on soil properties and microbial biomass with the consideration of afforestation time
 
-[Source](https://news.yale.edu/2020/10/06/gut-health-benefits-begin-utero)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0925857420303621)
 
 ---
 
-## Medieval poo holds clues to health of modern-day gut microbiome
+## Understanding the microbial trends in a nitritation reactor fed with primary settled municipal wastewater 
 
-[Source](https://www.sciencefocus.com/news/medieval-poo-holds-clues-to-health-of-modern-day-gut-microbiome/)
+[Source](https://www.sciencedirect.com/science/article/pii/S1383586620323029?via%3Dihub)
+
+---
+
+## Microbiome community and complexity indicate environmental gradient acclimatisation and potential microbial interaction of endemic coral holobionts in the South China Sea
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720362197)
+
+---
+
+## Microbial community structure in the river sediments from upstream of Guanting Reservoir: potential impacts of reclaimed water recharge
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720361386)
+
+---
+
+## Next-generation sequencing to enhance the taxonomic resolution of the microbiological analysis of meat and meat-derived products
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720361386)
+
+---
+
+## CRISPR/Cas12a mediated genome engineering in photosynthetic bacteria
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.05.327569v1.abstract?%3Fcollection=)
 
 ---
 
