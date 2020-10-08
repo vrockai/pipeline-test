@@ -40,7 +40,7 @@ Microbial community structure and its shift after laryngectomy in laryngeal squa
 ---
 
 ## Bacterial diversity and prevalence of antibiotic resistance genes in the oral microbiome.
- 02.10.2020, _VSM Almeida, J Azevedo, HF Leal, ATL Queiroz, HP da Silva Filho, JN Reis_
+ 07.10.2020, _VSM Almeida, J Azevedo, HF Leal, ATL Queiroz, HP da Silva Filho, JN Reis_
 
 
 This study aims to describe the oral microbiome diversity and prevalence of ARGs in periodontal health and disease.
