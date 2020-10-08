@@ -1,11 +1,12 @@
-## Commentary on: LaGoy A, Evangelou EA, Somogyi T, DiGangi EA. Recommended practices for macerating human thyroid cartilage. J Forensic Sci 2020;65(4):1266-73. https://doi.org/10.1111/1556-4029.14289.
- 06.10.2020, _LC Fulginiti_
+## Assessing the fit of the multi-species network coalescent to multi-locus data.
+ 07.10.2020, _R Cai, C Ané_
 
 
+With growing genome-wide molecular data sets from next-generation sequencing, phylogenetic networks can be estimated using a variety of approaches. These phylogenetic networks include events like hybridization, gene flow, or horizontal gene transfer explicitly. However, the most accurate network inference methods are computationally heavy. Methods that scale to larger data sets do not calculate a full likelihood, such that traditional likelihood-based tools for model selection are not applicable to decide how many past hybridization events best fit the data. We propose here a goodness-of-fit test to quantify the fit between data observed from genome-wide multi-locus data, and patterns expected under the multi-species coalescent model on a candidate phylogenetic network.
 
 [Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
 
-10.1111/1556-4029.14591
+10.1093/bioinformatics/btaa863
 
 ---
 
