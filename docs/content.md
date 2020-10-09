@@ -64,18 +64,6 @@
 
 ---
 
-## Ethylenediurea (EDU) effects on Japanese larch: an one growing season experiment with simulated regenerating communities and a four growing season application to individual saplings.
- 06.10.2020, _E Agathokleous, M Kitao, X Wang, Q Mao, H Harayama, WJ Manning, T Koike_
-
-
-Japanese larch (Larix kaempferi (Lamb.) Carr.) and its hybrid are economically important coniferous trees widely grown in the Northern Hemisphere. Ground-level ozone (O3) concentrations have increased since the pre-industrial era, and research projects showed that Japanese larch is susceptible to elevated O3 exposures. Therefore, methodologies are needed to (1) protect Japanese larch against O3 damage and (2) conduct biomonitoring of O3 in Japanese larch forests and, thus, monitor O3 risks to Japanese larch. For the first time, this study evaluates whether the synthetic chemical ethylenediurea (EDU) can protect Japanese larch against O3 damage, in two independent experiments. In the first experiment, seedling communities, simulating natural regeneration, were treated with EDU (0, 100, 200, and 400 mg L-1) and exposed to either ambient or elevated O3 in a growing season. In the second experiment, individually-grown saplings were treated with EDU (0, 200 and 400 mg L-1) and exposed to ambient O3 in two growing seasons and to elevated O3 in the succeeding two growing seasons. The two experiments revealed that EDU concentrations of 200-400 mg L-1 could protect Japanese larch seedling communities and individual saplings against O3-induced inhibition of growth and productivity. However, EDU concentrations ≤ 200 mg L-1 did offer only partial protection when seedling communities were coping with higher level of O3-induced stress, and only 400 mg EDU L-1 fully protected communities under higher stress. Therefore, we conclude that among the concentrations tested the concentration offering maximum protection to Japanese larch plants under high competition and O3-induced stress is that of 400 mg EDU L-1. The results of this study can provide a valuable resource of information for applied forestry in an O3-polluted world.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0925857420303621)
-
-10.1007/s11676-020-01223-6
-
----
-
 ## Larch or Mongolian pine? Effects of tree species on soil properties and microbial biomass with the consideration of afforestation time
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0925857420303621)
