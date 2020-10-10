@@ -1,7 +1,8 @@
 ## Face masks: what the data say.
- 08.10.2020, _L Peeples_
+ 09.10.2020, _L Peeples_
 
 
+_Animals, Betacoronavirus, Coronavirus, Coronavirus Infections, Cricetinae, Masks, Mesocricetus, Pandemics, Pneumonia, Viral_
 
 [Source](https://www.nature.com/articles/d41586-020-02801-8?WT.ec_id=NATURE-20201008)
 
@@ -84,6 +85,12 @@ Nematodes are representative soil metazoans with diverged species that play cruc
 ## Big Data in metagenomics: Apache Spark vs MPI
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239741)
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/10/08/october-09-2020/?like_comment=25513&_wpnonce=7d7dd2d355)
 
 ---
 
