@@ -82,19 +82,6 @@
 
 ---
 
-## COVID-19 pathways for brain and heart injury in comorbidity patients: A role of medical imaging and artificial intelligence-based COVID severity classification: A review.
- 01.10.2020, _JS Suri, A Puvvula, M Biswas, M Majhail, L Saba, G Faa, IM Singh, R Oberleitner, M Turk, PS Chadha, AM Johri, JM Sanches, NN Khanna, K Viskovic, S Mavrogeni, JR Laird, G Pareek, M Miner, DW Sobel, A Balestrieri, PP Sfikakis, G Tsoulfas, A Protogerou, DP Misra, V Agarwal, GD Kitas, P Ahluwalia, R Kolluri, J Teji, MA Maini, A Agbakoba, SK Dhanjil, M Sockalingam, A Saxena, A Nicolaides, A Sharma, V Rathore, JNA Ajuluchukwu, M Fatemi, A Alizad, V Viswanathan, PR Krishnan, S Naidu_
-
-
-_Artificial Intelligence, Betacoronavirus, Brain Injuries, Clinical Laboratory Techniques, Comorbidity, Computational Biology, Coronavirus Infections, Deep Learning, Heart Injuries, Humans, Machine Learning, Pandemics, Pneumonia, Viral, Risk Factors, Severity of Illness Index_
-Artificial intelligence (AI) has penetrated the field of medicine, particularly the field of radiology. Since its emergence, the highly virulent coronavirus disease 2019 (COVID-19) has infected over 10 million people, leading to over 500,000 deaths as of July 1st, 2020. Since the outbreak began, almost 28,000 articles about COVID-19 have been published (https://pubmed.ncbi.nlm.nih.gov); however, few have explored the role of imaging and artificial intelligence in COVID-19 patients-specifically, those with comorbidities. This paper begins by presenting the four pathways that can lead to heart and brain injuries following a COVID-19 infection. Our survey also offers insights into the role that imaging can play in the treatment of comorbid patients, based on probabilities derived from COVID-19 symptom statistics. Such symptoms include myocardial injury, hypoxia, plaque rupture, arrhythmias, venous thromboembolism, coronary thrombosis, encephalitis, ischemia, inflammation, and lung injury. At its core, this study considers the role of image-based AI, which can be used to characterize the tissues of a COVID-19 patient and classify the severity of their infection. Image-based AI is more important than ever as the pandemic surges and countries worldwide grapple with limited medical resources for detection and diagnosis.
-
-[Source](https://pubmed.ncbi.nlm.nih.gov/33031374/)
-
-10.1016/j.compbiomed.2020.103960
-
----
-
 ## https://pubmed.ncbi.nlm.nih.gov/33031374/
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/33031374/)
