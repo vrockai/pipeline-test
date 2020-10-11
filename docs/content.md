@@ -1,178 +1,132 @@
-## https://link.springer.com/article/10.1007%2Fs00281-020-00820-1
+## <span style="color:#ff6600;">The Recovery, Interpretation and Use of Ancient Pathogen Genomes</span>
 
-[Source](https://link.springer.com/article/10.1007%2Fs00281-020-00820-1)
-
----
-
-## https://www.nature.com/articles/s41684-020-00660-4
-
-[Source](https://www.nature.com/articles/s41684-020-00660-4)
+[Source](https://doi.org/10.1016/j.cub.2020.08.081)
 
 ---
 
-## https://www.nature.com/articles/s41598-020-73913-4
+## Functional diversity of microbial ecologies estimated from ancient human coprolites and dental calculus.
+ 05.10.2020, _DK Jacobson, TP Honap, C Monroe, J Lund, BA Houk, AC Novotny, C Robin, E Marini, CM Lewis_
 
-[Source](https://www.nature.com/articles/s41598-020-73913-4)
 
----
+Human microbiome studies are increasingly incorporating macroecological approaches, such as community assembly, network analysis and functional redundancy to more fully characterize the microbiome. Such analyses have not been applied to ancient human microbiomes, preventing insights into human microbiome evolution. We address this issue by analysing published ancient microbiome datasets: coprolites from Rio Zape (n = 7; 700 CE Mexico) and historic dental calculus (n = 44; 1770-1855 CE, UK), as well as two novel dental calculus datasets: Maya (n = 7; 170 BCE-885 CE, Belize) and Nuragic Sardinians (n = 11; 1400-850 BCE, Italy). Periodontitis-associated bacteria (Treponema denticola, Fusobacterium nucleatum and Eubacterium saphenum) were identified as keystone taxa in the dental calculus datasets. Coprolite keystone taxa included known short-chain fatty acid producers (Eubacterium biforme, Phascolarctobacterium succinatutens) and potentially disease-associated bacteria (Escherichia, Brachyspira). Overlap in ecological profiles between ancient and modern microbiomes was indicated by similarity in functional response diversity profiles between contemporary hunter-gatherers and ancient coprolites, as well as parallels between ancient Maya, historic UK, and modern Spanish dental calculus; however, the ancient Nuragic dental calculus shows a distinct ecological structure. We detected key ecological signatures from ancient microbiome data, paving the way to expand understanding of human microbiome evolution. This article is part of the theme issue 'Insights into health and disease from ancient biomolecules'.
 
-## https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01273-0
+[Source](http://dx.doi.org/10.1098/rstb.2019.0586)
 
-[Source](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01273-0)
-
----
-
-## https://www.tandfonline.com/doi/abs/10.1080/1040841X.2020.1828817?journalCode=imby20
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/1040841X.2020.1828817?journalCode=imby20)
+10.1098/rstb.2019.0586
 
 ---
 
-## https://www.sciencedirect.com/science/article/abs/pii/S0168365920303503?via%3Dihub
+## Investigating the demographic history of Japan using ancient oral microbiota.
+ 05.10.2020, _R Eisenhofer, H Kanzawa-Kiriyama, KI Shinoda, LS Weyrich_
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0168365920303503?via%3Dihub)
 
----
+While microbial communities in the human body (microbiota) are now commonly associated with health and disease in industrialised populations, we know very little about how these communities co-evolved and changed with humans throughout history and deep prehistory. We can now examine these communities by sequencing ancient DNA preserved within calcified dental plaque (calculus), providing insights into the origins of disease and their links to human history. Here, we examine ancient DNA preserved within dental calculus samples and their associations with two major cultural periods in Japan: the Jomon period hunter-gatherers approximately 3000 years before present (BP) and the Edo period agriculturalists 400-150 BP. We investigate how human oral microbiomes have changed in Japan through time and explore the presence of microorganisms associated with oral diseases (e.g. periodontal disease, dental caries) in ancient Japanese populations. Finally, we explore oral microbial strain diversity and its potential links to ancient demography in ancient Japan by performing phylogenomic analysis of a widely conserved oral species-Anaerolineaceae oral taxon 439. This research represents, to our knowledge, the first study of ancient oral microbiomes from Japan and demonstrates that the analysis of ancient dental calculus can provide key information about the origin of non-infectious disease and its deep roots with human demography. This article is part of the theme issue 'Insights into health and disease from ancient biomolecules'.
 
-## https://link.springer.com/article/10.1007%2Fs13311-020-00942-2
+[Source](https://doi.org/10.1098/rstb.2019.0578)
 
-[Source](https://link.springer.com/article/10.1007%2Fs13311-020-00942-2)
-
----
-
-## https://link.springer.com/article/10.1007%2Fs00115-020-01003-x
-
-[Source](https://link.springer.com/article/10.1007%2Fs00115-020-01003-x)
+10.1098/rstb.2019.0578
 
 ---
 
-## https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00923-9
+## Distinct human gut microbial taxonomic signatures uncovered with different sample processing and microbial cell disruption methods for metaproteomic analysis
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00923-9)
-
----
-
-## https://link.springer.com/article/10.1007%2Fs00394-020-02392-0
-
-[Source](https://link.springer.com/article/10.1007%2Fs00394-020-02392-0)
+[Source](https://doi.org/10.1101/2020.10.08.331066)
 
 ---
 
-## https://cdnsciencepub.com/doi/10.1139/gen-2020-0136
+## Deciphering diet-gut microbiota-host interplay: Investigations of pectin
 
-[Source](https://cdnsciencepub.com/doi/10.1139/gen-2020-0136)
-
----
-
-## https://link.springer.com/article/10.1007%2Fs11914-020-00627-x
-
-[Source](https://link.springer.com/article/10.1007%2Fs11914-020-00627-x)
+[Source](https://doi.org/10.1016/j.tifs.2020.10.010)
 
 ---
 
-## https://pubs.acs.org/doi/10.1021/acsinfecdis.0c00036
+## Microbes and Environment: Global Warming Reverting the Frozen Zombies
 
-[Source](https://pubs.acs.org/doi/10.1021/acsinfecdis.0c00036)
-
----
-
-## https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/mechanisms-linking-the-human-gut-microbiome-to-prophylactic-and-treatment-strategies-for-covid19/A3E1ADF2053768F34BCA72BF620AC86F
-
-[Source](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/mechanisms-linking-the-human-gut-microbiome-to-prophylactic-and-treatment-strategies-for-covid19/A3E1ADF2053768F34BCA72BF620AC86F)
+[Source](https://doi.org/10.1007/978-3-030-49732-3_24)
 
 ---
 
-## https://pubmed.ncbi.nlm.nih.gov/33031374/
+## Taxonomic Diversity of Bacteria and Their Filterable Forms in the Soils of Eastern Antarctica (Larsemann Hills and Bunger Hills)
 
-[Source](https://pubmed.ncbi.nlm.nih.gov/33031374/)
-
----
-
-## https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1717098
-
-[Source](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0040-1717098)
+[Source](https://doi.org/10.1134/S0026261720050136)
 
 ---
 
-## https://link.springer.com/article/10.1007%2Fs00284-020-02218-6
+## Long-term warming effects on the microbiome and nitrogen fixation associated with the moss Racomitrium lanuginosum in Icelandic tundra
 
-[Source](https://link.springer.com/article/10.1007%2Fs00284-020-02218-6)
-
----
-
-## https://pubs.acs.org/doi/10.1021/acs.jafc.0c02570
-
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.0c02570)
+[Source](https://doi.org/10.1101/838581)
 
 ---
 
-## https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1119
+## Diversity of Eukaryotic Microorganisms in the Drainage Waters of a Coal Open-Cast Mine
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1119)
-
----
-
-## https://www.nature.com/articles/s41598-020-73827-1
-
-[Source](https://www.nature.com/articles/s41598-020-73827-1)
+[Source](https://doi.org/10.1134/S0026261720050100)
 
 ---
 
-## https://pubs.rsc.org/en/content/articlelanding/2020/FO/D0FO00865F
+## Dissimilarity of microbial diversity of pond water, shrimp intestine and sediment in Aquamimicry system
 
-[Source](https://pubs.rsc.org/en/content/articlelanding/2020/FO/D0FO00865F)
-
----
-
-## https://pubs.rsc.org/en/content/articlelanding/2020/FO/D0FO00334D
-
-[Source](https://pubs.rsc.org/en/content/articlelanding/2020/FO/D0FO00334D)
+[Source](https://doi.org/10.1186/s13568-020-01119-y)
 
 ---
 
-## https://beva.onlinelibrary.wiley.com/doi/10.1111/evj.13366
+## Comparative diversity analysis of halophiles at two polar saltern systems in Indramayu, West Java, Indonesia
 
-[Source](https://beva.onlinelibrary.wiley.com/doi/10.1111/evj.13366)
-
----
-
-## https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/lam.13406
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/lam.13406)
+[Source](https://doi.org/10.1111/lam.13401)
 
 ---
 
-## https://www.tandfonline.com/doi/abs/10.1080/14712598.2021.1828858?journalCode=iebt20
+## Mechanistic model of nutrient uptake explains dichotomy between marine oligotrophic and copiotrophic bacteria
 
-[Source](https://www.tandfonline.com/doi/abs/10.1080/14712598.2021.1828858?journalCode=iebt20)
-
----
-
-## https://thericejournal.springeropen.com/articles/10.1186/s12284-020-00432-1
-
-[Source](https://thericejournal.springeropen.com/articles/10.1186/s12284-020-00432-1)
+[Source](https://doi.org/10.1101/2020.10.08.331785)
 
 ---
 
-## https://www.sciencedirect.com/science/article/abs/pii/S0048969720338596
+## Microbial diversity of seafood
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720338596)
-
----
-
-## BertrandFournier
+[Source](https://doi.org/10.1016/j.cofs.2020.09.005)
 
 ---
 
-## https://www.sciencedirect.com/science/article/abs/pii/S0048969720331557
+## The first head‐tailed virus, MFTV1, produced by a hyperthermophilic methanogenic deep‐sea archaea
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969720331557)
+[Source](https://doi.org/10.1111/1462-2920.15271)
 
 ---
 
-## https://www.mdpi.com/2076-2607/8/10/1563
+## Single-virus genomics and beyond
 
-[Source](https://www.mdpi.com/2076-2607/8/10/1563)
+[Source](https://doi.org/10.1038/s41579-020-00444-0)
+
+---
+
+## A Rapid Automated Process for Organizing Bacterial Cluster Segments Using Deep Neural Networks
+
+[Source](https://ieeexplore.ieee.org/abstract/document/9214173)
+
+---
+
+## FACS-iChip: a high-efficiency iChip system for microbial ‘dark matter’ mining
+
+[Source](https://doi.org/10.1007/s42995-020-00067-7)
+
+---
+
+## Comparison of Nucleic Acid Extraction Methods for a Viral Metagenomics Analysis of Respiratory Viruses
+
+[Source](https://doi.org/10.3390/microorganisms8101539)
+
+---
+
+## Advancing science or advancing careers? Researchers’ opinions on success indicators
+
+[Source](https://doi.org/10.1101/2020.06.22.165654)
+
+---
+
+## <span style="color:#ff6600;">Ten simple rules for annotating sequencing experiments</span>
+
+[Source](https://doi.org/10.1371/journal.pcbi.1008260)
 
 ---
 
