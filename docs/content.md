@@ -1,30 +1,12 @@
-## Gut Microbiota Resilience: Definition, Link to Health and Strategies for Intervention.
- 13.10.2020, _SK Dogra, J Doré, S Damak_
-
-
-The gut microbiota is a new frontier in health and disease. Not only many diseases are associated with perturbed microbiota, but an increasing number of studies point to a cause-effect relationship. Defining a healthy microbiota is not possible at the current state of our knowledge mostly because of high interindividual variability. A resilient microbiota could be used as surrogate for healthy microbiota. In addition, the gut microbiota is an "organ" with frontline exposure to environmental changes and insults. During the lifetime of an individual, it is exposed to challenges such as unhealthy diet, medications and infections. Impaired ability to bounce back to the pre-challenge baseline may lead to dysbiosis. It is therefore legitimate to postulate that maintaining a resilient microbiota may be important for health. Here we review the concept of resilience, what is known about the characteristics of a resilient microbiota, and how to assess microbiota resilience experimentally using a model of high fat diet challenge in humans. Interventions to maintain microbiota resilience can be guided by the knowledge of what microbial species or functions are perturbed by challenges, and designed to replace diminished species with probiotics, when available, or boost them with prebiotics. Fibers with multiple structures and composition can also be used to increase microbiota diversity, a characteristic of the microbiota that may be associated with resilience. We finally discuss some open questions and knowledge gaps.
-
-[Source](https://link.springer.com/article/10.1007%2Fs00125-020-05295-1)
-
-10.3389/fmicb.2020.572921
-
----
-
 ## The effect of probiotics, prebiotics or synbiotics on metabolic outcomes in individuals with diabetes: a systematic review and meta-analysis
 
 [Source](https://link.springer.com/article/10.1007%2Fs00125-020-05295-1)
 
 ---
 
-## Effect of a Nonoptimal Cervicovaginal Microbiota and Psychosocial Stress on Recurrent Spontaneous Preterm Birth.
- 09.10.2020, _KD Gerson, C Mccarthy, J Ravel, MA Elovitz, HH Burris_
-
-
-While select cervicovaginal microbiota and psychosocial factors have been associated with spontaneous preterm birth, their effect on the risk of recurrence remains unclear. It is also unknown whether psychosocial factors amplify underlying biologic risk. This study sought to determine the effect of nonoptimal cervicovaginal microbiota and perceived stress on the risk of recurrent spontaneous preterm birth.
+## Effect of a Nonoptimal Cervicovaginal Microbiota and Psychosocial Stress on Recurrent Spontaneous Preterm Birth
 
 [Source](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1717098)
-
-10.1055/s-0040-1717098
 
 ---
 
@@ -34,21 +16,39 @@ While select cervicovaginal microbiota and psychosocial factors have been associ
 
 ---
 
-## Inflammatory Bowel Disease Environmental Risk Factors: Diet and Gut Microbiota 
+## Inflammatory Bowel Disease Environmental Risk Factors: Diet and Gut Microbiota.
+ 13.10.2020, _S Altajar, A Moss_
+
+
+This review specifically explores the affect that diet has on the gut microbiota and its role on the increasing incidence of IBD around the world in developing countries.
 
 [Source](https://link.springer.com/article/10.1007/s11894-020-00794-y)
 
+10.1007/s11894-020-00794-y
+
 ---
 
-## Co‐ and polymicrobial infections in the gut mucosa: the host‐microbiota‐pathogen perspective
+## Co- and polymicrobial infections in the gut mucosa: the host-microbiota-pathogen perspective.
+ 11.10.2020, _T Frisan_
+
+
+Infections in humans occur in the context of complex niches where the pathogen interacts with both the host microenvironment and immune response, and the symbiotic microbial community. The polymicrobial nature of many human infections add a further layer of complexity. The effect of co- or polymicrobial infections can result in enhanced severity due to pathogens cooperative interaction or reduced morbidity because one of the pathogens affects the fitness of the other(s). In this review, the concept of co-infections and polymicrobial interactions in the context of the intestinal mucosa is discussed, focusing on the interplay between the host, the microbiota and the pathogenic organisms. Specifically, we will examine examples of pathogen-cooperative versus -antagonistic behavior during co- and polymicrobial infections. We discuss: the infection-induced modulation of the host microenvironment and immune responses; the direct modulation of the microorganism's fitness; the potentiation of inflammatory/carcinogenic conditions by polymicrobial biofilms; and the promotion of co-infections by microbial-induced DNA damage. Open questions in this very exciting field are also highlighted. This article is protected by copyright. All rights reserved.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/cmi.13279)
 
+10.1111/cmi.13279
+
 ---
 
-## Gut microbiota composition is associated with narcolepsy type 1 
+## Gut microbiota composition is associated with narcolepsy type 1.
+ 12.10.2020, _A Lecomte, L Barateau, P Pereira, L Paulin, P Auvinen, F Scheperjans, Y Dauvilliers_
+
+
+To test the hypothesis that narcolepsy type 1 (NT1) is related to the gut microbiota, we compared the microbiota bacterial communities of patients with NT1 and control subjects.
 
 [Source](https://nn.neurology.org/content/7/6/e896)
+
+10.1212/NXI.0000000000000896
 
 ---
 
