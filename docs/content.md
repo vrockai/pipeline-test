@@ -40,63 +40,33 @@ Seasonal influenza spreads during winter in temperate countries. Primary viral p
 
 ---
 
-## Isolation and Characterization of Nitrate-Reducing Bacteria as Potential Probiotics for Oral and Systemic Health.
- 13.10.2020, _BT Rosier, EM Moya-Gonzalvez, P Corell-Escuin, A Mira_
-
-
-Recent evidence indicates that the reduction of salivary nitrate by oral bacteria can contribute to prevent oral diseases, as well as increase systemic nitric oxide levels that can improve conditions such as hypertension and diabetes. The objective of the current manuscript was to isolate nitrate-reducing bacteria from the oral cavity of healthy donors and test their in vitro probiotic potential to increase the nitrate-reduction capacity (NRC) of oral communities. Sixty-two isolates were obtained from five different donors of which 53 were confirmed to be nitrate-reducers. Ten isolates were selected based on high NRC as well as high growth rates and low acidogenicity, all being Rothia species. The genomes of these ten isolates confirmed the presence of nitrate- and nitrite reductase genes, as well as lactate utilization genes, and the absence of antimicrobial resistance, mobile genetic elements and virulence genes. The pH at which most nitrate was reduced differed between strains. However, acidic pH 6 always stimulated the reduction of nitrite compared to neutral pH 7 or slightly alkaline pH 7.5 (p &lt; 0.01). We tested the effect of six out of 10 isolates on in vitro oral biofilm development in the presence or absence of 6.5 mM nitrate. The integration of the isolates into in vitro communities was confirmed by Illumina sequencing. The NRC of the bacterial communities increased when adding the isolates compared to controls without isolates (p &lt; 0.05). When adding nitrate (prebiotic treatment) or isolates in combination with nitrate (symbiotic treatment), a smaller decrease in pH derived from sugar metabolism was observed (p &lt; 0.05), which for some symbiotic combinations appeared to be due to lactate consumption. Interestingly, there was a strong correlation between the NRC of oral communities and ammonia production even in the absence of nitrate (R = 0.814, p &lt; 0.01), which indicates that bacteria involved in these processes are related. As observed in our study, individuals differ in their NRC. Thus, some may have direct benefits from nitrate as a prebiotic as their microbiota naturally reduces significant amounts, while others may benefit more from a symbiotic combination (nitrate + nitrate-reducing probiotic). Future clinical studies should test the effects of these treatments on oral and systemic health.
+## Isolation and Characterization of Nitrate-Reducing Bacteria as Potential Probiotics for Oral and Systemic Health
 
 [Source](https://doi.org/10.3389/fmicb.2020.555465)
 
-10.3389/fmicb.2020.555465
-
 ---
 
-## Translocation of Viable Gut Microbiota to Mesenteric Adipose Drives Formation of Creeping Fat in Humans.
- 01.10.2020, _CWY Ha, A Martin, GD Sepich-Poore, B Shi, Y Wang, K Gouin, G Humphrey, K Sanders, Y Ratnayake, KSL Chan, G Hendrick, JR Caldera, C Arias, JE Moskowitz, SJ Ho Sui, S Yang, D Underhill, MJ Brady, S Knott, K Kaihara, MJ Steinbaugh, H Li, DPB McGovern, R Knight, P Fleshner, S Devkota_
-
-
-A mysterious feature of Crohn's disease (CD) is the extra-intestinal manifestation of "creeping fat" (CrF), defined as expansion of mesenteric adipose tissue around the inflamed and fibrotic intestine. In the current study, we explore whether microbial translocation in CD serves as a central cue for CrF development. We discovered a subset of mucosal-associated gut bacteria that consistently translocated and remained viable in CrF in CD ileal surgical resections, and identified Clostridium innocuum as a signature of this consortium with strain variation between mucosal and adipose isolates, suggesting preference for lipid-rich environments. Single-cell RNA sequencing characterized CrF as both pro-fibrotic and pro-adipogenic with a rich milieu of activated immune cells responding to microbial stimuli, which we confirm in gnotobiotic mice colonized with C. innocuum. Ex vivo validation of expression patterns suggests C. innocuum stimulates tissue remodeling via M2 macrophages, leading to an adipose tissue barrier that serves to prevent systemic dissemination of bacteria.
+## Translocation of Viable Gut Microbiota to Mesenteric Adipose Drives Formation of Creeping Fat in Humans
 
 [Source](https://doi.org/10.1016/j.cell.2020.09.009)
 
-10.1016/j.cell.2020.09.009
-
 ---
 
-## Gastrointestinal Surgery for Inflammatory Bowel Disease Persistently Lowers Microbiome and Metabolome Diversity.
- 07.10.2020, _X Fang, Y Vázquez-Baeza, E Elijah, F Vargas, G Ackermann, G Humphrey, R Lau, KC Weldon, JG Sanders, M Panitchpakdi, C Carpenter, AK Jarmusch, J Neill, A Miralles, P Dulai, S Singh, M Tsai, AD Swafford, L Smarr, DL Boyle, BO Palsson, JT Chang, PC Dorrestein, WJ Sandborn, R Knight, BS Boland_
-
-
-Many studies have investigated the role of the microbiome in inflammatory bowel disease (IBD), but few have focused on surgery specifically or its consequences on the metabolome that may differ by surgery type and require longitudinal sampling. Our objective was to characterize and contrast microbiome and metabolome changes after different surgeries for IBD, including ileocolonic resection and colectomy.
+## Gastrointestinal Surgery for Inflammatory Bowel Disease Persistently Lowers Microbiome and Metabolome Diversity
 
 [Source](https://doi.org/10.1093/ibd/izaa262)
 
-10.1093/ibd/izaa262
-
 ---
 
-## α-Defensins Promote Bacteroides Colonization on Mucosal Reservoir to Prevent Antibiotic-Induced Dysbiosis.
- 06.10.2020, _J Ou, S Liang, XK Guo, X Hu_
-
-
-In addition to their established functions in host defense, accumulating evidence has suggested an emerging role for antimicrobial proteins (AMPs) in shaping commensal microbiota. However, the role of α-defensins, the most abundant AMPs of intestine, in regulating microbial ecology remains inconclusive. Here, we report that α-defensins promote commensal Bacteroides colonization by enhancing bacterial adhesion to the mucosal reservoir. Experiments utilizing mice deficient in matrix metalloproteinase 7 (MMP7), the α-defensin-activating enzyme, with rigorous littermate controls showed that α-defensin deficiency did not significantly influence steady-state intestinal microbiota. In contrast, α-defensins are essential for replenishment of commensal Bacteroides from the mucosal reservoir following antibiotics-induced dysbiosis, shown by markedly compromised recovery of Bacteroides in Mmp7-/- animals. Mechanistically, α-defensins promote Bacteroides colonization on epithelial surfaces in vivo and adhesion to epithelial cells in vitro. Moreover, α-defensins unexpectedly does not show any microbicidal activities against Bacteroides. Together, we propose that α-defensins promote commensal bacterial colonization and recovery to maintain microbial diversity upon environmental challenges.
+## α-Defensins Promote Bacteroides Colonization on Mucosal Reservoir to Prevent Antibiotic-Induced Dysbiosis
 
 [Source](https://doi.org/10.3389/fimmu.2020.02065)
 
-10.3389/fimmu.2020.02065
-
 ---
 
-## In situ reprogramming of gut bacteria by oral delivery.
- 08.10.2020, _BB Hsu, IN Plant, L Lyon, FM Anastassacos, JC Way, PA Silver_
-
-
-Abundant links between the gut microbiota and human health indicate that modification of bacterial function could be a powerful therapeutic strategy. The inaccessibility of the gut and inter-connections between gut bacteria and the host make it difficult to precisely target bacterial functions without disrupting the microbiota and/or host physiology. Herein we describe a multidisciplinary approach to modulate the expression of a specific bacterial gene within the gut by oral administration. We demonstrate that an engineered temperate phage λ expressing a programmable dCas9 represses a targeted E. coli gene in the mammalian gut. To facilitate phage administration while minimizing disruption to host processes, we develop an aqueous-based encapsulation formulation with a microbiota-based release mechanism and show that it facilitates oral delivery of phage in vivo. Finally we combine these technologies and show that bacterial gene expression in the mammalian gut can be precisely modified in situ with a single oral dose.
+## In situ reprogramming of gut bacteria by oral delivery
 
 [Source](https://doi.org/10.1038/s41467-020-18614-2)
-
-10.1038/s41467-020-18614-2
 
 ---
 
