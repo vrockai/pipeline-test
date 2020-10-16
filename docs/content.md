@@ -190,18 +190,6 @@ The study of bacteria interacting with their environment has historically center
 
 ---
 
-## Challenges of transferring rural adults with chronic HCV infection for further HCV RNA confirmation and free DAAs treatment: a success story of the interdisciplinary collaboration approach.
- 08.10.2020, _W Li, TS Chang, SZ Chang, CH Chen, MY Chen_
-
-
-Chronic hepatitis C virus (HCV), which is a concern in many countries, is the leading cause of liver cancer around the world. Since Taiwan launched its national health insurance system in 1995, it has managed to extend health coverage to 99% of the Taiwanese population, providing free but limited antiviral treatment each year since 2017. However, many people in rural areas are unaware that they have chronic HCV; nor do they realize that new drugs with high cure rates could drastically reduce their health burden. The aim of this study is to explore the implementation facilitators of and barriers to inviting potentially infected patients in rural areas to be transferred for HCV ribonucleic acid (RNA) confirmation and new drug treatment.
-
-[Source](https://docs.google.com/forms/d/e/1FAIpQLScIIBi54L0sYlIgtupHpDHS_SNXBnLeZyNsU-1AUeM6HrpC7A/viewform)
-
-10.1186/s12879-020-05435-3
-
----
-
 ## Join for FREE
 
 [Source](https://docs.google.com/forms/d/e/1FAIpQLScIIBi54L0sYlIgtupHpDHS_SNXBnLeZyNsU-1AUeM6HrpC7A/viewform)
