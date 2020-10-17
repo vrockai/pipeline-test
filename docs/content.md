@@ -1,216 +1,144 @@
-## Predicting the Outbreak Risks and Inflection Points of COVID-19 Pandemic with Classic Ecological Theories.
- 13.10.2020, _ZS Ma_
+## Using data science for medical decision making case: role of gut microbiome in multiple sclerosis.
+ 16.10.2020, _J Hasic Telalovic, A Music_
 
 
-Predicting the outbreak risks and/or the inflection (turning or tipping) points of COVID-19 can be rather challenging. Here, it is addressed by modeling and simulation approaches guided by classic ecological theories and by treating the COVID-19 pandemic as a metapopulation dynamics problem. Three classic ecological theories are harnessed, including TPL (Taylor's power-law) and Ma's population aggregation critical density (PACD) for spatiotemporal aggregation/stability scaling, approximating virus metapopulation dynamics with Hubbell's neutral theory, and Ma's diversity-time relationship adapted for the infection-time relationship. Fisher-Information for detecting critical transitions and tipping points are also attempted. It is discovered that: (i) TPL aggregation/stability scaling parameter (b &gt; 2), being significantly higher than the b-values of most macrobial and microbial species including SARS, may interpret the chaotic pandemic of COVID-19. (ii) The infection aggregation critical threshold (M0) adapted from PACD varies with time (outbreak-stage), space (region) and public-health interventions. Exceeding M0, local contagions may become aggregated and connected regionally, leading to epidemic/pandemic. (iii) The ratio of fundamental dispersal to contagion numbers can gauge the relative importance between local contagions vs. regional migrations in spreading infections. (iv) The inflection (turning) points, pair of maximal infection number and corresponding time, are successfully predicted in more than 80% of Chinese provinces and 68 countries worldwide, with a precision &gt;80% generally.
+A decade ago, the advancements in the microbiome data sequencing techniques initiated the development of research of the microbiome and its relationship with the host organism. The development of sophisticated bioinformatics and data science tools for the analysis of large amounts of data followed. Since then, the analyzed gut microbiome data, where microbiome is defined as a network of microorganisms inhabiting the human intestinal system, has been associated with several conditions such as irritable bowel syndrome - IBS, colorectal cancer, diabetes, obesity, and metabolic syndrome, and lately in the study of Parkinson's and Alzheimer's diseases as well. This paper aims to provide an understanding of differences between microbial data of individuals who have been diagnosed with multiple sclerosis and those who were not by exploiting data science techniques on publicly available data.
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1758-2229.12892)
+[Source](https://doi.org/10.1186/s12911-020-01263-2)
 
-10.1002/advs.202001530
-
----
-
-## Time as a microbial resource
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1758-2229.12892)
+10.1186/s12911-020-01263-2
 
 ---
 
-## The Central Role of Interbacterial Antagonism in Bacterial Life.
- 06.10.2020, _SB Peterson, SK Bertolli, JD Mougous_
+## Deciphering the Urinary Microbiota Repertoire by Culturomics Reveals Mostly Anaerobic Bacteria From the Gut
 
-
-The study of bacteria interacting with their environment has historically centered on strategies for obtaining nutrients and resisting abiotic stresses. We argue this focus has deemphasized a third facet of bacterial life that is equally central to their existence: namely, the threat to survival posed by antagonizing bacteria. The diversity and ubiquity of interbacterial antagonism pathways is becoming increasingly apparent, and the insidious manner by which interbacterial toxins disarm their targets emphasizes the highly evolved nature of these processes. Studies examining the role of antagonism in natural communities reveal it can serve many functions, from facilitating colonization of naïve habitats to maintaining bacterial community stability. The pervasiveness of antagonistic pathways is necessarily matched by an equally extensive array of defense strategies. These overlap with well characterized, central stress response pathways, highlighting the contribution of bacterial interactions to shaping cell physiology. In this review, we build the case for the ubiquity and importance of interbacterial antagonism.
-
-[Source](https://www.cell.com/current-biology/fulltext/S0960-9822(20)30989-1)
-
-10.1016/j.cub.2020.06.103
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.513305/full)
 
 ---
 
-## Dietary Emulsifiers Directly Impact Adherent-Invasive<em> E. coli </em>Gene Expression to Drive Chronic Intestinal Inflammation
+## Vaginal microbiota and human papillomavirus infection among young Swedish women.
+ 13.10.2020, _L Cheng, J Norenhag, YOO Hu, N Brusselaers, E Fransson, A Ährlund-Richter, U Guðnadóttir, P Angelidou, Y Zha, M Hamsten, I Schuppe-Koistinen, M Olovsson, L Engstrand, J Du_
 
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31218-3)
 
----
+Human papillomavirus (HPV) infection is one of the most common sexually transmitted diseases. To define the HPV-associated microbial community among a high vaccination coverage population, we carried out a cross-sectional study with 345 young Swedish women. The microbial composition and its association with HPV infection, including 27 HPV types, were analyzed. Microbial alpha-diversity was found significantly higher in the HPV-infected group (especially with oncogenic HPV types and multiple HPV types), compared with the HPV negative group. The vaginal microbiota among HPV-infected women was characterized by a larger number of bacterial vaginosis-associated bacteria (BVAB), Sneathia, Prevotella, and Megasphaera. In addition, the correlation analysis demonstrated that twice as many women with non-Lactobacillus-dominant vaginal microbiota were infected with oncogenic HPV types, compared with L. crispatus-dominated vaginal microbiota. The data suggest that HPV infection, especially oncogenic HPV types, is strongly associated with a non-Lactobacillus-dominant vaginal microbiota, regardless of age and vaccination status.
 
-## Microbial Strain Engraftment, Persistence and Replacement after Fecal Microbiota Transplantation
+[Source](https://doi.org/10.1038/s41522-020-00146-8)
 
-[Source](https://www.medrxiv.org/content/10.1101/2020.09.29.20203638v1.full.pdf)
-
----
-
-## Characterization of presumptive vancomycin-resistant enterococci recovered during infection control surveillance in Dallas, Texas
-
-[Source](https://www.medrxiv.org/content/10.1101/2020.10.09.20209569v1.full.pdf)
+10.1038/s41522-020-00146-8
 
 ---
 
-## Metabolic dissimilarity determines the establishment of cross-feeding interactions in bacteria
+## Engineering the Microbiome to Prevent Adverse Events: Challenges and Opportunities.
+ 13.10.2020, _S Khan, R Hauptman, L Kelly_
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.10.09.333336v1.full.pdf)
 
----
+In the past decade of microbiome research, we have learned about numerous adverse interactions between the microbiome and medical interventions such as drugs, radiation, and surgery. What if we could alter our microbiomes to prevent these events? In this review, we discuss potential routes to mitigate microbiome adverse events, including applications from the emerging field of microbiome engineering. We highlight cases where the microbiome acts directly on a treatment, such as via differential drug metabolism, and cases where a treatment directly harms the microbiome, such as in radiation therapy. Understanding and preventing microbiome adverse events are a difficult challenge that will require a data-driven approach involving causal statistics, multiomics techniques, and a personalized means of mitigating adverse events. We propose research considerations to encourage productive work in preventing microbiome adverse events, and we highlight the many challenges and opportunities that await. Expected final online publication date for the Annual Review of Pharmacology and Toxicology, Volume 61 is January 7, 2021. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
-## Metabolic Response of<em> Faecalibacterium prausnitzii</em> to Cell-Free Supernatants from Lactic Acid Bacteria
+[Source](https://doi.org/10.1146/annurev-pharmtox-031620-031509)
 
-[Source](https://www.mdpi.com/2076-2607/8/10/1528/htm)
-
----
-
-## A combination of metagenomic and cultivation approaches reveals hypermutator phenotypes within <em>Vibrio cholerae</em> infected patients
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.10.11.333682v1.full.pdf)
+10.1146/annurev-pharmtox-031620-031509
 
 ---
 
-## Safety and functional enrichment of gut microbiome in healthy subjects consuming a multi-strain fermented milk product: a randomised controlled trial
+## Developmental stages in microbiota, bile acids, and clostridial species in healthy puppies.
+ 13.10.2020, _AB Blake, A Cigarroa, HL Klein, MR Khattab, T Keating, P Van De Coevering, JA Lidbury, JM Steiner, JS Suchodolski_
 
-[Source](https://www.nature.com/articles/s41598-020-72161-w)
 
----
+The fecal microbiota, fecal bile acid concentrations, and abundance of Clostridium perfringens and Clostridium difficile are altered in acute and chronic gastrointestinal disease in adult dogs. However, less is known in young puppies.
 
-## Microbial and transcriptional differences elucidate atopic dermatitis heterogeneity across skin sites
+[Source](https://doi.org/10.1111/jvim.15928)
 
-[Source](https://onlinelibrary.wiley.com/doi/epdf/10.1111/all.14606)
-
----
-
-## Multicenter analysis of sputum microbiota in tuberculosis patients
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240250)
+10.1111/jvim.15928
 
 ---
 
-## <em>Lacticaseibacillus casei </em>AMBR2 modulates the epithelial barrier function and immune response in a donor-derived nasal microbiota manner
+## Screening of Microbes Associated With Swine Growth and Fat Deposition Traits Across the Intestinal Tract
 
-[Source](https://www.nature.com/articles/s41598-020-73857-9)
-
----
-
-## The gut microbiome defines social group membership in honey bee colonies
-
-[Source](https://advances.sciencemag.org/content/6/42/eabd3431/tab-pdf)
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.586776/full)
 
 ---
 
-## Early-life gut dysbiosis linked to juvenile mortality in ostriches
+## Differential Responses to Dietary Protein and Carbohydrate Ratio on Gut Microbiome in Obese vs. Lean Cats
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00925-7)
-
----
-
-## The Immune System Fails to Mount a Protective Response to Gram-Positive or Gram-Negative Bacterial Prostatitis
-
-[Source](https://www.jimmunol.org/content/early/2020/10/09/jimmunol.2000587)
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.591462/full)
 
 ---
 
-## The aging mouse microbiome has obesogenic characteristics
+## Inulin alleviates adverse metabolic syndrome and regulates intestinal microbiota composition in Nile Tilapia ( Oreochromis niloticus) fed with high-carbohydrate diet
 
-[Source](https://www.biomedcentral.com/epdf/10.1186/s13073-020-00784-9?sharing_token=-JBaOXhtaA5tDWjsL-9vRW_BpE1tBhCbnbw3BuzI2RNxBU0P4pEIUbhwJS-V7jUjqjMWtb2P9JQCJnPAj1pzlg-8aen4EUpt8wDNVunkIMFgr-Ci0uyUWan9t4qFEWTazIUP22TKOfgT5ixhCDQzoTN7KHfYZe3zjy-ZoR81GjI%3D)
-
----
-
-## Tetracycline Antibiotics Induce Host-Dependent Disease Tolerance to Infection
-
-[Source](https://www.cell.com/immunity/fulltext/S1074-7613(20)30405-2#secsectitle0010)
+[Source](https://doi.org/10.1017/s000711452000402x)
 
 ---
 
-## Impact of phosphate dosing on the microbial ecology of drinking water distribution systems: Fieldwork studies in chlorinated networks.
- 14.10.2020, _I Douterelo, BE Dutilh, C Calero, E Rosales, K Martin, S Husband_
+## Transmission of the sponge microbiome: moving towards a unified model
 
-
-Phosphate is routinely dosed to ensure regulatory compliance for lead in drinking water distribution systems. Little is known about the impact of the phosphate dose on the microbial ecology in these systems and in particular the endemic biofilms. Disturbance of the biofilms and embedded material in distribution can cause regulatory failures for turbidity and metals. To investigate the impact of phosphate on developing biofilms, pipe wall material from four independent pipe sections was mobilised and collected using two twin-flushing operations a year apart in a chlorinated UK network pre- and post-phosphate dosing. Intensive monitoring was undertaken, including turbidity and water physico-chemistry, traditional microbial culture-based indicators, and microbial community structure via sequencing the 16S rRNA gene for bacteria and the ITS2 gene for fungi. Whole metagenome sequencing was used to study shifts in functional characteristics following the addition of phosphate. As an operational consequence, turbidity responses from the phosphate-enriched water were increased, particularly from cast iron pipes. Differences in the taxonomic composition of both bacteria and fungi were also observed, emphasising a community shift towards microorganisms able to use or metabolise phosphate. Phosphate increased the relative abundance of bacteria such as Pseudomonas, Paenibacillus, Massilia, Acinetobacter and the fungi Cadophora, Rhizophagus and Eupenicillium. Whole metagenome sequencing showed with phosphate a favouring of sequences related to Gram-negative bacterium type cell wall function, virions and thylakoids, but a reduction in the number of sequences associated to vitamin binding, methanogenesis and toxin biosynthesis. With current faecal indicator tests only providing risk detection in bulk water samples, this work improves understanding of how network changes effect microbial ecology and highlights the potential for new approaches to inform future monitoring or control strategies to protect drinking water quality.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0043135420309519)
-
-10.1016/j.watres.2020.116416
+[Source](https://doi.org/10.1111/1758-2229.12896)
 
 ---
 
-## Sustained nitrogen loss in a symbiotic association of Comammox <em>Nitrospira</em> and Anammox bacteria
+## Co-selection of antibiotic resistance genes, and mobile genetic elements in the presence of heavy metals in poultry farm environments
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.10.12.336248v1.full.pdf)
-
----
-
-## Culturing novel and abundant pelagiphages in the ocean.
- 13.10.2020, _Z Zhang, F Qin, F Chen, X Chu, H Luo, R Zhang, S Du, Z Tian, Y Zhao_
-
-
-Viruses play a key role in biogeochemical cycling and host mortality, metabolism, physiology and evolution in the ocean. Viruses that infect the globally abundant SAR11 bacteria (pelagiphages) were reported to be an important component of the marine viral communities. Our current knowledge of pelagiphages is based on a few studies and therefore is limited. In this study, 10 new pelagiphages were isolated and genomically characterized. These pelagiphages represent the first cultivated representatives of four viral lineages only found in metagenomic sequencing datasets previously. Many abundant environmental viral sequences i.e. single-virus vSAG 37-F6 and several Global Ocean Viromes (GOV) viral populations, are now further confirmed with these pelagiphages. Viromic read mapping reveals that these new pelagiphages are globally distributed in the ocean and can be detected throughout the water column. Remarkably, isolation of these pelagiphages contributed up to 12% of all viromic reads annotated in the analyzed viromes. Altogether, this study has greatly broadened our understanding of pelagiphages regarding their morphology, genetic diversity, infection strategies, and distribution pattern. The availability of these newly isolated pelagiphages and their genome sequences will allow us to further explore their infectivities and ecological strategies. This article is protected by copyright. All rights reserved.
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15272)
-
-10.1111/1462-2920.15272
+[Source](https://doi.org/10.1016/j.scitotenv.2020.142702)
 
 ---
 
-## High-throughput mapping of the phage resistance landscape in <em>E. coli</em>
+## Friend or foe? Effects of host immune activation on the gut microbiome in the caterpillar Manduca sexta
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000877)
-
----
-
-## Minireview: Fun(gi)omics: Advanced and Diverse Technologies to Explore Emerging Fungal Pathogens and Define Mechanisms of Antifungal Resistance
-
-[Source](https://mbio.asm.org/content/mbio/11/5/e01020-20.full.pdf)
+[Source](https://doi.org/10.1242/jeb.226662)
 
 ---
 
-## Bac-PULCE: Bacterial Strain and AMR Profiling Using Long Reads via CRISPR Enrichment
+## Towards meaningful scales in ecosystem microbiome research
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.30.320226v1.full.pdf)
-
----
-
-## Gene-level metagenomics identifies genome islands associated with immunotherapy response
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.10.09.333971v1.full.pdf)
+[Source](https://doi.org/10.1111/1462-2920.15276)
 
 ---
 
-## PUMAA: A Platform for Accessible Microbiome Analysis in the Undergraduate Classroom
+## Genomics-accelerated discovery of diverse fungicidal bacteria
 
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.584699/full)
-
----
-
-## <em>Raman2imzML</em> converts Raman imaging data into the standard mass spectrometry imaging format
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03789-8)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.10.16.343004v1??collection)
 
 ---
 
-## Eight problems with literature reviews and how to fix them 
+## Functional repertoire convergence of distantly related eukaryotic plankton lineages revealed by genome-resolved metagenomics
 
-[Source](https://www.nature.com/articles/s41559-020-01295-x)
-
----
-
-## #PathogenPortraits
-
-[Source](https://twitter.com/hashtag/PathogenPortraits?src=hashtag_click&f=live)
+[Source](http://www.biorxiv.org/cgi/content/abstract/2020.10.15.341214v1??collection)
 
 ---
 
-## The Human Diets &amp; Microbiome Initiative in the US
+## The chemopreventive effects of Huangqin-tea against AOM-induced preneoplastic colonic aberrant crypt foci in rats and omics analysis.
+ 13.10.2020, _J Shen, P Li, S Liu, Q Liu, Y Li, Z Zhang, C Yang, M Hu, Y Sun, C He, P Xiao_
 
-[Source](https://microsetta.ucsd.edu/)
+
+Despite that colorectal cancer (CRC) is a severe global health problem, effective chemopreventive strategies against CRC are still lacking. Huang-qin tea (HQT), a healthy herbal tea, is prepared from the aerial parts of Scutellaria baicalensis Georgi and has been consumed in China for thousands of years. HQT contains abundant flavonoids, which display potent anticancer effects, but no research studies have investigated the cancer-preventive effects of HQT on CRC in vivo. Here, we found that HQT inhibits azoxymethane-induced aberrant crypt foci (ACF) formation in a preneoplastic colonic ACF rat model. The essential role of the gut microbiota in the chemopreventive effect of HQT on CRC in a pseudo-germ-free rat model was confirmed. Besides, HQT modulates inflammatory cytokine expression by significantly decreasing IL-1β, IL-6, IL-10, and TNF-α expression, and elevating IFN-γ production. 16S rDNA sequencing analysis indicated that HQT regulated the gut microbiota by increasing the abundance of beneficial bacteria (Lachnoclostridium, Alistipes, Roseburia, and Lactococcus) and reducing the levels of Bacteroides, Parasutterella, and unidentified_Clostridiales. Fecal metabolomics showed that HQT modulated the AOM-induced metabolomic disorder, and these altered metabolites were almost involved in the lipid metabolic pathways. The Spearman correlation analysis revealed a correlation between the gut microbiota and fecal metabolites. Collectively, these results suggested that HQT exerted beneficial effects on host health by inhibiting inflammation, and by regulating the gut microbiota profile and certain metabolic pathways. In conclusion, HQT inhibits AOM-induced ACF formation by modulating the gut microbiota composition and improving metabolomic disorders, indicating the potential of HQT as a functional beverage candidate for the prevention and treatment of CRC.
+
+[Source](https://doi.org/10.1039/d0fo01731k)
+
+10.1039/d0fo01731k
 
 ---
 
-## Join for FREE
+## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice.
+ 13.10.2020, _L Li, Z Fang, YK Lee, J Zhao, H Zhang, W Lu, W Chen_
 
-[Source](https://docs.google.com/forms/d/e/1FAIpQLScIIBi54L0sYlIgtupHpDHS_SNXBnLeZyNsU-1AUeM6HrpC7A/viewform)
+
+This study investigated the prophylactic effects of five Lactobacillus casei strains on house dust mite (HDM)-induced asthma in mice. BALB/c mice were orally administered with L. casei strains for one week before HDM treatment. Ketotifen and Lactobacillus rhamnosus GG were used as positive controls. All L. casei strains decreased the number of granulocytes and the levels of Th2 and Th17 inflammatory cytokines in the lungs, L. casei3 significantly decreased the airway inflammation score. Further studies showed that L. casei3, L. casei4, and L. casei5 decreased the chemokine levels, L. casei2, L. casei4, and L. casei5 promoted the secretion of secretory immunoglobulin A (sIgA), L. casei2 upregulated the interleukin (IL)-10 levels, and L. casei1 had no effect on these immune indices. L. casei1 and L. casei4 decreased the serum levels of total IgE and HDM-specific IgG1, respectively. L. casei3 and L. casei5 decreased both HDM-specific IgG1 and total IgE levels. L. casei2 did not affect the levels of these immunoglobulins. The gut microbiota analysis revealed that all five L. casei strains enhanced the richness of the gut microbiota mainly by increasing the abundance of Firmicutes, while there were differences at the genus level.Thus, the prophylactic effects of L. casei on HDM-induced mixed chronic airway inflammatory asthma exerted as they differentially affected the immune responses and gut microbiota composition. L. casei3, which exhibited the highest prophylactic effect, increased the acetate and propionate contents in a strain-dependent manner.
+
+[Source](https://doi.org/10.1039/d0fo01363c)
+
+10.1039/d0fo01363c
 
 ---
 
-## 11 Audiobooks About Microbes 
+## Lactobacillus plantarum Shinshu N-07 isolated from fermented Brassica rapa L. attenuates visceral fat accumulation induced by high-fat diet in mice.
+ 13.10.2020, _T Yin, S Bayanjargal, B Fang, C Inaba, M Mutoh, T Kawahara, S Tanaka, J Watanabe_
 
-[Source](https://joyfulmicrobe.com/11-audiobooks-about-microbes/)
+
+Lactobacillus plantarum Shinshu N-07 (N07) and Lactobacillus curvatus #4G2 (#4G2) were isolated from fermented Brassica rapa L. and selected as promising probiotics with anti-adiposity activities based on in vitro assays. The anti-adiposity effects of these two strains were investigated using a diet-induced obesity animal model. Epididymal adipose tissue weight and adipocyte area were significantly lower and serum triglycerides and glucose tended to be lower in mice fed the high-fat diet supplemented with N07 compared with those fed the unsupplemented high-fat diet. Strain N07 suppressed hepatic steatosis, with accompanying downregulation of lipogenic genes in the liver. Expression of inflammatory cytokines and macrophage infiltration markers tended to be suppressed by N07 supplementation. Upregulation of uncoupling protein-1 in epididymal adipose tissue by N07 suggested that the transformation of white adipose tissue to brown might have been induced. Intestinal microbiota analysis revealed that a decrease in abundance of family S24-7 (phylum Bacteroidetes) following ingestion of the high-fat diet was partly recovered by supplementation with N07. Changes in those parameters were not observed in mice fed the high-fat diet supplemented with strain #4G2, suggesting strain specificities. Thus, N07 is a potential probiotic strain that could be used to develop functional foods that attenuate visceral fat accumulation after an appropriate human intervention trial.
+
+[Source](https://doi.org/10.3920/bm2020.0009)
+
+10.3920/BM2020.0009
 
 ---
 
