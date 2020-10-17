@@ -118,9 +118,15 @@ The study of bacteria interacting with their environment has historically center
 
 ---
 
-## Impact of phosphate dosing on the microbial ecology of drinking water distribution systems: Fieldwork studies in chlorinated networks
+## Impact of phosphate dosing on the microbial ecology of drinking water distribution systems: Fieldwork studies in chlorinated networks.
+ 14.10.2020, _I Douterelo, BE Dutilh, C Calero, E Rosales, K Martin, S Husband_
+
+
+Phosphate is routinely dosed to ensure regulatory compliance for lead in drinking water distribution systems. Little is known about the impact of the phosphate dose on the microbial ecology in these systems and in particular the endemic biofilms. Disturbance of the biofilms and embedded material in distribution can cause regulatory failures for turbidity and metals. To investigate the impact of phosphate on developing biofilms, pipe wall material from four independent pipe sections was mobilised and collected using two twin-flushing operations a year apart in a chlorinated UK network pre- and post-phosphate dosing. Intensive monitoring was undertaken, including turbidity and water physico-chemistry, traditional microbial culture-based indicators, and microbial community structure via sequencing the 16S rRNA gene for bacteria and the ITS2 gene for fungi. Whole metagenome sequencing was used to study shifts in functional characteristics following the addition of phosphate. As an operational consequence, turbidity responses from the phosphate-enriched water were increased, particularly from cast iron pipes. Differences in the taxonomic composition of both bacteria and fungi were also observed, emphasising a community shift towards microorganisms able to use or metabolise phosphate. Phosphate increased the relative abundance of bacteria such as Pseudomonas, Paenibacillus, Massilia, Acinetobacter and the fungi Cadophora, Rhizophagus and Eupenicillium. Whole metagenome sequencing showed with phosphate a favouring of sequences related to Gram-negative bacterium type cell wall function, virions and thylakoids, but a reduction in the number of sequences associated to vitamin binding, methanogenesis and toxin biosynthesis. With current faecal indicator tests only providing risk detection in bulk water samples, this work improves understanding of how network changes effect microbial ecology and highlights the potential for new approaches to inform future monitoring or control strategies to protect drinking water quality.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0043135420309519)
+
+10.1016/j.watres.2020.116416
 
 ---
 
@@ -130,9 +136,15 @@ The study of bacteria interacting with their environment has historically center
 
 ---
 
-## Culturing novel and abundant pelagiphages in the ocean 
+## Culturing novel and abundant pelagiphages in the ocean.
+ 13.10.2020, _Z Zhang, F Qin, F Chen, X Chu, H Luo, R Zhang, S Du, Z Tian, Y Zhao_
+
+
+Viruses play a key role in biogeochemical cycling and host mortality, metabolism, physiology and evolution in the ocean. Viruses that infect the globally abundant SAR11 bacteria (pelagiphages) were reported to be an important component of the marine viral communities. Our current knowledge of pelagiphages is based on a few studies and therefore is limited. In this study, 10 new pelagiphages were isolated and genomically characterized. These pelagiphages represent the first cultivated representatives of four viral lineages only found in metagenomic sequencing datasets previously. Many abundant environmental viral sequences i.e. single-virus vSAG 37-F6 and several Global Ocean Viromes (GOV) viral populations, are now further confirmed with these pelagiphages. Viromic read mapping reveals that these new pelagiphages are globally distributed in the ocean and can be detected throughout the water column. Remarkably, isolation of these pelagiphages contributed up to 12% of all viromic reads annotated in the analyzed viromes. Altogether, this study has greatly broadened our understanding of pelagiphages regarding their morphology, genetic diversity, infection strategies, and distribution pattern. The availability of these newly isolated pelagiphages and their genome sequences will allow us to further explore their infectivities and ecological strategies. This article is protected by copyright. All rights reserved.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15272)
+
+10.1111/1462-2920.15272
 
 ---
 
