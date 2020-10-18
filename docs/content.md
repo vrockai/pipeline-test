@@ -106,9 +106,15 @@ The fecal microbiota, fecal bile acid concentrations, and abundance of Clostridi
 
 ---
 
-## The chemopreventive effects of Huangqin-tea against AOM-induced preneoplastic colonic aberrant crypt foci in rats and omics analysis
+## The chemopreventive effects of Huangqin-tea against AOM-induced preneoplastic colonic aberrant crypt foci in rats and omics analysis.
+ 13.10.2020, _J Shen, P Li, S Liu, Q Liu, Y Li, Z Zhang, C Yang, M Hu, Y Sun, C He, P Xiao_
+
+
+Despite that colorectal cancer (CRC) is a severe global health problem, effective chemopreventive strategies against CRC are still lacking. Huang-qin tea (HQT), a healthy herbal tea, is prepared from the aerial parts of Scutellaria baicalensis Georgi and has been consumed in China for thousands of years. HQT contains abundant flavonoids, which display potent anticancer effects, but no research studies have investigated the cancer-preventive effects of HQT on CRC in vivo. Here, we found that HQT inhibits azoxymethane-induced aberrant crypt foci (ACF) formation in a preneoplastic colonic ACF rat model. The essential role of the gut microbiota in the chemopreventive effect of HQT on CRC in a pseudo-germ-free rat model was confirmed. Besides, HQT modulates inflammatory cytokine expression by significantly decreasing IL-1β, IL-6, IL-10, and TNF-α expression, and elevating IFN-γ production. 16S rDNA sequencing analysis indicated that HQT regulated the gut microbiota by increasing the abundance of beneficial bacteria (Lachnoclostridium, Alistipes, Roseburia, and Lactococcus) and reducing the levels of Bacteroides, Parasutterella, and unidentified_Clostridiales. Fecal metabolomics showed that HQT modulated the AOM-induced metabolomic disorder, and these altered metabolites were almost involved in the lipid metabolic pathways. The Spearman correlation analysis revealed a correlation between the gut microbiota and fecal metabolites. Collectively, these results suggested that HQT exerted beneficial effects on host health by inhibiting inflammation, and by regulating the gut microbiota profile and certain metabolic pathways. In conclusion, HQT inhibits AOM-induced ACF formation by modulating the gut microbiota composition and improving metabolomic disorders, indicating the potential of HQT as a functional beverage candidate for the prevention and treatment of CRC.
 
 [Source](https://doi.org/10.1039/d0fo01731k)
+
+10.1039/d0fo01731k
 
 ---
 
