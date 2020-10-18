@@ -64,51 +64,21 @@ The fecal microbiota, fecal bile acid concentrations, and abundance of Clostridi
 
 ---
 
-## Inulin alleviates adverse metabolic syndrome and regulates intestinal microbiota composition in Nile Tilapia (Oreochromis niloticus) fed with high-carbohydrate diet.
- 13.10.2020, _T Wang, N Zhang, XB Yu, F Qiao, LQ Chen, ZY Du, ML Zhang_
-
-
-High carbohydrate diet could achieve protein sparing effect, but it may cause negative impacts on the growth condition of fish due to their poor utilization ability of carbohydrate. How to reduce the adverse effects caused by high carbohydrate diet is important for the development of aquaculture. In the present study, we aimed to identify whether inulin could attenuate metabolic syndrome caused by high-carbohydrate diet in fish. Nile tilapia (Oreochromis niloticus) (1.19 ± 0.01 g) were supplied with 35% carbohydrate (CON), 45% carbohydrate (HC) and 45% carbohydrate + 5g/kg inulin (HCI) diets for ten weeks. The results showed that addition of inulin improved the survival rate when fish were challenged with Aeromonas hydrophila, indicating inulin had an immunostimulatory effect. Compared with HC group, HCI group had lower lipid accumulation in liver and the gene expression analyses indicated that addition of inulin downregulated genes related to lipogenesis and upregulated genes relevant to β-oxidation significantly (P &lt; 0.05). Higher liver glycogen and glucose tolerance were found in HCI group compared with HC group (P &lt; 0.05). These results indicated that inulin could alleviate the metabolic syndrome induced by high-carbohydrate diet. Furthermore, addition of inulin in high-carbohydrate diet changed the intestinal bacterial composition and significantly increased the concentration of acetic acid and propionic acid in fish gut which have the potential to increase pathogen resistance and regulate metabolic characteristics in fish. Collectively, our results demonstrated a possible causal role for the gut microbiome in metabolic improvements induced by inulin in fish.
+## Inulin alleviates adverse metabolic syndrome and regulates intestinal microbiota composition in Nile Tilapia ( Oreochromis niloticus) fed with high-carbohydrate diet
 
 [Source](https://doi.org/10.1017/s000711452000402x)
 
-10.1017/S000711452000402X
-
 ---
 
-## Transmission of the sponge microbiome: moving towards a unified model.
- 13.10.2020, _BFR de Oliveira, J Freitas-Silva, C Sanchez-Robinet, MS Laport_
-
-
-Sponges have co-evolved for billions of years alongside several types of microorganisms, which aside from participating in the animal's diet, are mostly symbionts. Since most of the genetic repertoire in the holobiont genome is provided by microbes, it is expected that the host-associated microbiome will be at least partially heritable. Sponges can therefore acquire their symbionts in different ways. Both vertical transmission (VT) and horizontal transmission (HT) have different advantages and disadvantages in the life cycle of these invertebrates. However, a third mode of transmission, called leaky vertical transmission or mixed mode of transmission (MMT), which incorporates both VT and HT modes, has gained relevance and seems to be the most robust model. In that regard, the aim of this review is to present the evolving knowledge on these main modes of transmission of the sponge microbiome. Our conclusions lead us to suggest that MMT may be more common for all sponges, with its frequency varying across the transmission spectrum between species and the environment. This hybrid model supports the stable and specific transmission of these microbial partners and reinforces their assistance in the resilience of sponges over the years. This article is protected by copyright. All rights reserved.
+## Transmission of the sponge microbiome: moving towards a unified model
 
 [Source](https://doi.org/10.1111/1758-2229.12896)
 
-10.1111/1758-2229.12896
-
 ---
 
-## Co-selection of antibiotic resistance genes, and mobile genetic elements in the presence of heavy metals in poultry farm environments.
- 15.10.2020, _SH Mazhar, X Li, A Rashid, J Su, J Xu, AD Brejnrod, JQ Su, Y Wu, YG Zhu, SG Zhou, R Feng, C Rensing_
-
-
-Environmental selection of antibiotic resistance genes (ARGs) is considered to be caused by antibiotic or metal residues, frequently used in livestock. In this study we examined three commercial poultry farms to correlate the co-occurrence patterns of antibiotic and metal residues to the presence of ARGs. We quantified 283 ARGs, 12 mobile genetic elements (MGEs), 49 targeted antibiotics, 7 heavy metals and sequenced 16S rRNA genes. The abundance and type of ARG were significantly enriched in manure while soil harbored the most diverse bacterial community. Procrustes analysis displayed significant correlations between ARGs/MGEs and the microbiome. Cadmium (Cd), arsenic (As), zinc (Zn), copper (Cu) and lead (Pb) were responsible for a majority of positive correlations to ARGs when compared to antibiotics. Integrons and transposons co-occurred with ARGs corresponding to 9 classes of antibiotics, especially Class1 integrase intI-1LC. Redundancy analysis (RDA) and Variance partitioning analysis (VPA) showed that antibiotics, metals, MGEs and bacteria explain solely 0.7%, 5.7%, 12.4%, and 21.9% of variances of ARGs in the microbial community, respectively. These results suggested that bacterial composition and horizontal gene transfer were the major factors shaping the composition of ARGs; Metals had a bigger effect on ARG profile than detected antibiotics in this study.
+## Co-selection of antibiotic resistance genes, and mobile genetic elements in the presence of heavy metals in poultry farm environments
 
 [Source](https://doi.org/10.1016/j.scitotenv.2020.142702)
-
-10.1016/j.scitotenv.2020.142702
-
----
-
-## Glucagon in type 1 diabetes patients receiving SGLT2 inhibitors: A Friend or Foe?
- 13.10.2020, _T Fukui, M Ohara, SI Yamagishi_
-
-
-This article is protected by copyright. All rights reserved.
-
-[Source](https://doi.org/10.1242/jeb.226662)
-
-10.1002/dmrr.3415
 
 ---
 
@@ -118,15 +88,9 @@ This article is protected by copyright. All rights reserved.
 
 ---
 
-## Towards meaningful scales in ecosystem microbiome research.
- 13.10.2020, _F Dini-Andreote, GA Kowalchuk, JI Prosser, JM Raaijmakers_
-
-
-Studies of microbial communities in natural ecosystems have been generally focused on mapping patterns of species and gene distributions. Although highly instrumental in expanding our understanding of microbial diversity and distribution patterns, such census studies often lack a meaningful and explicit definition of scale. Here, we discuss the importance of scale in environmental microbiology assessments and consider how patterning ecology can be redirected towards advancing concept and theory formation in ecosystem microbiome research. This article is protected by copyright. All rights reserved.
+## Towards meaningful scales in ecosystem microbiome research
 
 [Source](https://doi.org/10.1111/1462-2920.15276)
-
-10.1111/1462-2920.15276
 
 ---
 
@@ -148,15 +112,27 @@ Studies of microbial communities in natural ecosystems have been generally focus
 
 ---
 
-## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice
+## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice.
+ 13.10.2020, _L Li, Z Fang, YK Lee, J Zhao, H Zhang, W Lu, W Chen_
+
+
+This study investigated the prophylactic effects of five Lactobacillus casei strains on house dust mite (HDM)-induced asthma in mice. BALB/c mice were orally administered with L. casei strains for one week before HDM treatment. Ketotifen and Lactobacillus rhamnosus GG were used as positive controls. All L. casei strains decreased the number of granulocytes and the levels of Th2 and Th17 inflammatory cytokines in the lungs, L. casei3 significantly decreased the airway inflammation score. Further studies showed that L. casei3, L. casei4, and L. casei5 decreased the chemokine levels, L. casei2, L. casei4, and L. casei5 promoted the secretion of secretory immunoglobulin A (sIgA), L. casei2 upregulated the interleukin (IL)-10 levels, and L. casei1 had no effect on these immune indices. L. casei1 and L. casei4 decreased the serum levels of total IgE and HDM-specific IgG1, respectively. L. casei3 and L. casei5 decreased both HDM-specific IgG1 and total IgE levels. L. casei2 did not affect the levels of these immunoglobulins. The gut microbiota analysis revealed that all five L. casei strains enhanced the richness of the gut microbiota mainly by increasing the abundance of Firmicutes, while there were differences at the genus level.Thus, the prophylactic effects of L. casei on HDM-induced mixed chronic airway inflammatory asthma exerted as they differentially affected the immune responses and gut microbiota composition. L. casei3, which exhibited the highest prophylactic effect, increased the acetate and propionate contents in a strain-dependent manner.
 
 [Source](https://doi.org/10.1039/d0fo01363c)
 
+10.1039/d0fo01363c
+
 ---
 
-## Lactobacillus plantarum Shinshu N-07 isolated from fermented Brassica rapa L. attenuates visceral fat accumulation induced by high-fat diet in mice
+## Lactobacillus plantarum Shinshu N-07 isolated from fermented Brassica rapa L. attenuates visceral fat accumulation induced by high-fat diet in mice.
+ 13.10.2020, _T Yin, S Bayanjargal, B Fang, C Inaba, M Mutoh, T Kawahara, S Tanaka, J Watanabe_
+
+
+Lactobacillus plantarum Shinshu N-07 (N07) and Lactobacillus curvatus #4G2 (#4G2) were isolated from fermented Brassica rapa L. and selected as promising probiotics with anti-adiposity activities based on in vitro assays. The anti-adiposity effects of these two strains were investigated using a diet-induced obesity animal model. Epididymal adipose tissue weight and adipocyte area were significantly lower and serum triglycerides and glucose tended to be lower in mice fed the high-fat diet supplemented with N07 compared with those fed the unsupplemented high-fat diet. Strain N07 suppressed hepatic steatosis, with accompanying downregulation of lipogenic genes in the liver. Expression of inflammatory cytokines and macrophage infiltration markers tended to be suppressed by N07 supplementation. Upregulation of uncoupling protein-1 in epididymal adipose tissue by N07 suggested that the transformation of white adipose tissue to brown might have been induced. Intestinal microbiota analysis revealed that a decrease in abundance of family S24-7 (phylum Bacteroidetes) following ingestion of the high-fat diet was partly recovered by supplementation with N07. Changes in those parameters were not observed in mice fed the high-fat diet supplemented with strain #4G2, suggesting strain specificities. Thus, N07 is a potential probiotic strain that could be used to develop functional foods that attenuate visceral fat accumulation after an appropriate human intervention trial.
 
 [Source](https://doi.org/10.3920/bm2020.0009)
+
+10.3920/BM2020.0009
 
 ---
 
