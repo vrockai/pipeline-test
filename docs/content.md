@@ -106,27 +106,15 @@ The fecal microbiota, fecal bile acid concentrations, and abundance of Clostridi
 
 ---
 
-## The chemopreventive effects of Huangqin-tea against AOM-induced preneoplastic colonic aberrant crypt foci in rats and omics analysis.
- 13.10.2020, _J Shen, P Li, S Liu, Q Liu, Y Li, Z Zhang, C Yang, M Hu, Y Sun, C He, P Xiao_
-
-
-Despite that colorectal cancer (CRC) is a severe global health problem, effective chemopreventive strategies against CRC are still lacking. Huang-qin tea (HQT), a healthy herbal tea, is prepared from the aerial parts of Scutellaria baicalensis Georgi and has been consumed in China for thousands of years. HQT contains abundant flavonoids, which display potent anticancer effects, but no research studies have investigated the cancer-preventive effects of HQT on CRC in vivo. Here, we found that HQT inhibits azoxymethane-induced aberrant crypt foci (ACF) formation in a preneoplastic colonic ACF rat model. The essential role of the gut microbiota in the chemopreventive effect of HQT on CRC in a pseudo-germ-free rat model was confirmed. Besides, HQT modulates inflammatory cytokine expression by significantly decreasing IL-1β, IL-6, IL-10, and TNF-α expression, and elevating IFN-γ production. 16S rDNA sequencing analysis indicated that HQT regulated the gut microbiota by increasing the abundance of beneficial bacteria (Lachnoclostridium, Alistipes, Roseburia, and Lactococcus) and reducing the levels of Bacteroides, Parasutterella, and unidentified_Clostridiales. Fecal metabolomics showed that HQT modulated the AOM-induced metabolomic disorder, and these altered metabolites were almost involved in the lipid metabolic pathways. The Spearman correlation analysis revealed a correlation between the gut microbiota and fecal metabolites. Collectively, these results suggested that HQT exerted beneficial effects on host health by inhibiting inflammation, and by regulating the gut microbiota profile and certain metabolic pathways. In conclusion, HQT inhibits AOM-induced ACF formation by modulating the gut microbiota composition and improving metabolomic disorders, indicating the potential of HQT as a functional beverage candidate for the prevention and treatment of CRC.
+## The chemopreventive effects of Huangqin-tea against AOM-induced preneoplastic colonic aberrant crypt foci in rats and omics analysis
 
 [Source](https://doi.org/10.1039/d0fo01731k)
 
-10.1039/d0fo01731k
-
 ---
 
-## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice.
- 13.10.2020, _L Li, Z Fang, YK Lee, J Zhao, H Zhang, W Lu, W Chen_
-
-
-This study investigated the prophylactic effects of five Lactobacillus casei strains on house dust mite (HDM)-induced asthma in mice. BALB/c mice were orally administered with L. casei strains for one week before HDM treatment. Ketotifen and Lactobacillus rhamnosus GG were used as positive controls. All L. casei strains decreased the number of granulocytes and the levels of Th2 and Th17 inflammatory cytokines in the lungs, L. casei3 significantly decreased the airway inflammation score. Further studies showed that L. casei3, L. casei4, and L. casei5 decreased the chemokine levels, L. casei2, L. casei4, and L. casei5 promoted the secretion of secretory immunoglobulin A (sIgA), L. casei2 upregulated the interleukin (IL)-10 levels, and L. casei1 had no effect on these immune indices. L. casei1 and L. casei4 decreased the serum levels of total IgE and HDM-specific IgG1, respectively. L. casei3 and L. casei5 decreased both HDM-specific IgG1 and total IgE levels. L. casei2 did not affect the levels of these immunoglobulins. The gut microbiota analysis revealed that all five L. casei strains enhanced the richness of the gut microbiota mainly by increasing the abundance of Firmicutes, while there were differences at the genus level.Thus, the prophylactic effects of L. casei on HDM-induced mixed chronic airway inflammatory asthma exerted as they differentially affected the immune responses and gut microbiota composition. L. casei3, which exhibited the highest prophylactic effect, increased the acetate and propionate contents in a strain-dependent manner.
+## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice
 
 [Source](https://doi.org/10.1039/d0fo01363c)
-
-10.1039/d0fo01363c
 
 ---
 
