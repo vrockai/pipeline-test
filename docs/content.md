@@ -112,9 +112,15 @@ The fecal microbiota, fecal bile acid concentrations, and abundance of Clostridi
 
 ---
 
-## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice
+## Prophylactic effects of oral administration of Lactobacillus casei on house dust mite-induced asthma in mice.
+ 13.10.2020, _L Li, Z Fang, YK Lee, J Zhao, H Zhang, W Lu, W Chen_
+
+
+This study investigated the prophylactic effects of five Lactobacillus casei strains on house dust mite (HDM)-induced asthma in mice. BALB/c mice were orally administered with L. casei strains for one week before HDM treatment. Ketotifen and Lactobacillus rhamnosus GG were used as positive controls. All L. casei strains decreased the number of granulocytes and the levels of Th2 and Th17 inflammatory cytokines in the lungs, L. casei3 significantly decreased the airway inflammation score. Further studies showed that L. casei3, L. casei4, and L. casei5 decreased the chemokine levels, L. casei2, L. casei4, and L. casei5 promoted the secretion of secretory immunoglobulin A (sIgA), L. casei2 upregulated the interleukin (IL)-10 levels, and L. casei1 had no effect on these immune indices. L. casei1 and L. casei4 decreased the serum levels of total IgE and HDM-specific IgG1, respectively. L. casei3 and L. casei5 decreased both HDM-specific IgG1 and total IgE levels. L. casei2 did not affect the levels of these immunoglobulins. The gut microbiota analysis revealed that all five L. casei strains enhanced the richness of the gut microbiota mainly by increasing the abundance of Firmicutes, while there were differences at the genus level.Thus, the prophylactic effects of L. casei on HDM-induced mixed chronic airway inflammatory asthma exerted as they differentially affected the immune responses and gut microbiota composition. L. casei3, which exhibited the highest prophylactic effect, increased the acetate and propionate contents in a strain-dependent manner.
 
 [Source](https://doi.org/10.1039/d0fo01363c)
+
+10.1039/d0fo01363c
 
 ---
 
