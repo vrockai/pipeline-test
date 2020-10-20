@@ -118,9 +118,15 @@ The fecal microbiota, fecal bile acid concentrations, and abundance of Clostridi
 
 ---
 
-## Lactobacillus plantarum Shinshu N-07 isolated from fermented Brassica rapa L. attenuates visceral fat accumulation induced by high-fat diet in mice
+## Lactobacillus plantarum Shinshu N-07 isolated from fermented Brassica rapa L. attenuates visceral fat accumulation induced by high-fat diet in mice.
+ 13.10.2020, _T Yin, S Bayanjargal, B Fang, C Inaba, M Mutoh, T Kawahara, S Tanaka, J Watanabe_
+
+
+Lactobacillus plantarum Shinshu N-07 (N07) and Lactobacillus curvatus #4G2 (#4G2) were isolated from fermented Brassica rapa L. and selected as promising probiotics with anti-adiposity activities based on in vitro assays. The anti-adiposity effects of these two strains were investigated using a diet-induced obesity animal model. Epididymal adipose tissue weight and adipocyte area were significantly lower and serum triglycerides and glucose tended to be lower in mice fed the high-fat diet supplemented with N07 compared with those fed the unsupplemented high-fat diet. Strain N07 suppressed hepatic steatosis, with accompanying downregulation of lipogenic genes in the liver. Expression of inflammatory cytokines and macrophage infiltration markers tended to be suppressed by N07 supplementation. Upregulation of uncoupling protein-1 in epididymal adipose tissue by N07 suggested that the transformation of white adipose tissue to brown might have been induced. Intestinal microbiota analysis revealed that a decrease in abundance of family S24-7 (phylum Bacteroidetes) following ingestion of the high-fat diet was partly recovered by supplementation with N07. Changes in those parameters were not observed in mice fed the high-fat diet supplemented with strain #4G2, suggesting strain specificities. Thus, N07 is a potential probiotic strain that could be used to develop functional foods that attenuate visceral fat accumulation after an appropriate human intervention trial.
 
 [Source](https://doi.org/10.3920/bm2020.0009)
+
+10.3920/BM2020.0009
 
 ---
 
