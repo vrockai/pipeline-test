@@ -47,7 +47,7 @@ Carcinogenesis is a multistep process by which normal cells acquire genetic and 
 ---
 
 ## Emerging role of bacterial extracellular vesicles in cancer.
- 16.10.2020, _A Chronopoulos, R Kalluri_
+ 20.10.2020, _A Chronopoulos, R Kalluri_
 
 
 Shedding of microbial extracellular vesicles constitutes a universal mechanism for inter-kingdom and intra-kingdom communication that is conserved among prokaryotic and eukaryotic microbes. In this review we delineate fundamental aspects of bacterial extracellular vesicles (BEVs) including their biogenesis, cargo composition, and interactions with host cells. We critically examine the evidence that BEVs from the host gut microbiome can enter the circulatory system to disseminate to distant organs and tissues. The potential involvement of BEVs in carcinogenesis is evaluated and future research ideas explored. We further discuss the potential of BEVs in microbiome-based liquid biopsies for cancer diagnostics and bioengineering strategies for cancer therapy.
@@ -157,7 +157,7 @@ The dysbiosis of gut microbiota is an important environmental factor that can in
 ---
 
 ## Microbial communities associated with the camel tick, Hyalomma dromedarii: 16S rRNA gene-based analysis.
- 16.10.2020, _N Perveen, SB Muzaffar, R Vijayan, MA Al-Deeb_
+ 20.10.2020, _N Perveen, SB Muzaffar, R Vijayan, MA Al-Deeb_
 
 
 Hyalomma dromedarii is an important blood-feeding ectoparasite that affects the health of camels. We assessed the profile of bacterial communities associated with H. dromedarii collected from camels in the eastern part of the UAE in 2010 and 2019. A total of 100 partially engorged female ticks were taken from tick samples collected from camels (n = 100; 50/year) and subjected to DNA extraction and sequencing. The 16S rRNA gene was amplified from genomic DNA and sequenced using Illumina MiSeq platform to elucidate the bacterial communities. Principle Coordinates Analysis (PCoA) was conducted to determine patterns of diversity in bacterial communities. In 2010 and 2019, we obtained 899,574 and 781,452 read counts and these formed 371 and 191 operational taxonomic units (OTUs, clustered at 97% similarity), respectively. In both years, twenty-five bacterial families with high relative abundance were detected and the following were the most common: Moraxellaceae, Enterobacteriaceae, Staphylococcaceae, Bacillaceae, Corynebacteriaceae, Flavobacteriaceae, Francisellaceae, Muribaculaceae, Neisseriaceae, and Pseudomonadaceae. Francisellaceae and Enterobacteriaceae coexist in H. dromedarii and we suggest that they thrive under similar conditions and microbial interactions inside the host. Comparisons of diversity indicated that microbial communities differed in terms of richness and evenness between 2010 and 2019, with higher richness but lower evenness in communities in 2010. Principle coordinates analyses showed clear clusters separating microbial communities in 2010 and 2019. The differences in communities suggested that the repertoire of microbial communities have shifted. In particular, the significant increase in dominance of Francisella and the presence of bacterial families containing pathogenic genera shows that H. dromedarii poses a serious health risk to camels and people who interact with them. Thus, it may be wise to introduce active surveillance of key genera that constitute a health hazard in the livestock industry to protect livestock and people.
