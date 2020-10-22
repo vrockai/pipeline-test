@@ -1,138 +1,72 @@
-## Teaching Instructional Technological Change to Medical School Faculty: A COVID-19 Case Study.
- 21.10.2020, _MP Cote, EM Donne, BD Hoover, K Thormodson_
+## Health and disease markers correlate with gut microbiome composition across thousands of people.
+ 20.10.2020, _O Manor, CL Dai, SA Kornilov, B Smith, ND Price, JC Lovejoy, SM Gibbons, AT Magis_
 
 
-Collaboration between several College of Medicine departments, including the library, resulted in a creation of a new service for faculty during the COVID-19 pandemic crisis. By combining efforts, support for teaching online became a united effort and much less daunting for faculty, who could consult one group for online teaching support, rather than three or four different entities. The resulting endeavor led to a website FAQ and consulting email address that is accessible to all faculty to provide focused and timely technology and education assistance to faculty.
+Variation in the human gut microbiome can reflect host lifestyle and behaviors and influence disease biomarker levels in the blood. Understanding the relationships between gut microbes and host phenotypes are critical for understanding wellness and disease. Here, we examine associations between the gut microbiota and ~150 host phenotypic features across ~3,400 individuals. We identify major axes of taxonomic variance in the gut and a putative diversity maximum along the Firmicutes-to-Bacteroidetes axis. Our analyses reveal both known and unknown associations between microbiome composition and host clinical markers and lifestyle factors, including host-microbe associations that are composition-specific. These results suggest potential opportunities for targeted interventions that alter the composition of the microbiome to improve host health. By uncovering the interrelationships between host diet and lifestyle factors, clinical blood markers, and the human gut microbiome at the population-scale, our results serve as a roadmap for future studies on host-microbe interactions and interventions.
 
-[Source](https://bit.ly/359vU4A)
+[Source](https://doi.org/10.1038/s41467-020-18871-1)
 
-10.1080/02763869.2020.1826234
-
----
-
-## website
-
-[Source](https://bit.ly/359vU4A)
+10.1038/s41467-020-18871-1
 
 ---
 
-## The Reactive Species Interactome: Evolutionary Emergence, Biological Significance, and Opportunities for Redox Metabolomics and Personalized Medicine.
- 13.11.2018, _MM Cortese-Krott, A Koning, GGC Kuhnle, P Nagy, CL Bianco, A Pasch, DA Wink, JM Fukuto, AA Jackson, H van Goor, KR Olson, M Feelisch_
+## Newly Explored <em>Faecalibacterium</em> Diversity Is Connected to Age, Lifestyle, Geography, and Disease
 
-
-_Adaptation, Physiological, Animals, Humans, Hydrogen Sulfide, Metabolomics, Oxidation-Reduction, Precision Medicine, Reactive Nitrogen Species, Reactive Oxygen Species, Sulfides_
-Oxidative stress is thought to account for aberrant redox homeostasis and contribute to aging and disease. However, more often than not, administration of antioxidants is ineffective, suggesting that our current understanding of the underlying regulatory processes is incomplete. Recent Advances: Similar to reactive oxygen species and reactive nitrogen species, reactive sulfur species are now emerging as important signaling molecules, targeting regulatory cysteine redox switches in proteins, affecting gene regulation, ion transport, intermediary metabolism, and mitochondrial function. To rationalize the complexity of chemical interactions of reactive species with themselves and their targets and help define their role in systemic metabolic control, we here introduce a novel integrative concept defined as the reactive species interactome (RSI). The RSI is a primeval multilevel redox regulatory system whose architecture, together with the physicochemical characteristics of its constituents, allows efficient sensing and rapid adaptation to environmental changes and various other stressors to enhance fitness and resilience at the local and whole-organism level.
-
-[Source](http://www.aginganddisease.org/article/0000/2152-5250/ad-0-0-0-2009220912-1.shtml)
-
-10.1089/ars.2017.7083
+[Source](https://doi.org/10.1016/j.cub.2020.09.063)
 
 ---
 
-## Metabolomics Signatures of Aging: Recent Advances
+## Extraintestinal pathogenic (ExPEC) lineages explain prolonged faecal carriage of travel-acquired extended-spectrum β-lactamase-producing <em>Escherichia coli</em>
 
-[Source](http://www.aginganddisease.org/article/0000/2152-5250/ad-0-0-0-2009220912-1.shtml)
-
----
-
-## The human microbiome in the 21st century.
- 20.10.2020, _E Rackaityte, SV Lynch_
-
-
-
-[Source](https://www.nature.com/articles/s41467-020-18983-8)
-
-10.1038/s41467-020-18983-8
+[Source](https://doi.org/10.1101/2020.09.23.309856)
 
 ---
 
-## The intestinal microbiome, weight, and metabolic changes in women treated by adjuvant chemotherapy for breast and gynecological malignancies.
- 21.10.2020, _A Uzan-Yulzari, M Morr, H Tareef-Nabwani, O Ziv, D Magid-Neriya, R Armoni, E Muller, A Leibovici, E Borenstein, Y Louzoun, A Shai, O Koren_
+## Intestinal microbiology shapes population health impacts of diet and lifestyle risk exposures in Torres Strait Islander communities.
+ 20.10.2020, _FM Mobegi, LE Leong, F Thompson, SM Taylor, LR Harriss, JM Choo, SL Taylor, SL Wesselingh, R McDermott, KL Ivey, GB Rogers_
 
 
-Adjuvant chemotherapy induces weight gain, glucose intolerance, and hypertension in about a third of women. The mechanisms underlying these events have not been defined. This study assessed the association between the microbiome and weight gain in patients treated with adjuvant chemotherapy for breast and gynecological cancers.
+Poor diet and lifestyle exposures are implicated in substantial global increases in non-communicable disease burden in low-income, remote, and Indigenous communities. This observational study investigated the contribution of the fecal microbiome to influence host physiology in two Indigenous communities in the Torres Strait Islands: Mer, a remote island where a traditional diet predominates, and Waiben a more accessible island with greater access to takeaway food and alcohol. Counterintuitively, disease markers were more pronounced in Mer residents. However, island-specific differences in disease risk were explained, in part, by microbiome traits. The absence of Alistipes onderdonkii, for example, significantly (p=0.014) moderated island-specific patterns of systolic blood pressure in multivariate-adjusted models. We also report mediatory relationships between traits of the fecal metagenome, disease markers, and risk exposures. Understanding how intestinal microbiome traits influence response to disease risk exposures is critical for the development of strategies that mitigate the growing burden of cardiometabolic disease in these communities.
 
-[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01751-2)
+[Source](https://doi.org/10.7554/eLife.58407)
 
-10.1186/s12916-020-01751-2
-
----
-
-## The Role of the Gut Microbiota in Coronary Heart Disease.
- 16.10.2020, _H Liu, J Zhuang, P Tang, J Li, X Xiong, H Deng_
-
-
-This review focuses on recent evidence examining the role gut microbiota play in coronary heart disease. It also provides a succinct overview of current and future therapies targeting the gut microbiota for coronary heart disease risk reduction.
-
-[Source](https://link.springer.com/article/10.1007/s11883-020-00892-2)
-
-10.1007/s11883-020-00892-2
+10.7554/eLife.58407
 
 ---
 
-## Gut microbial molecules in behavioural and neurodegenerative conditions.
- 17.10.2020, _BD Needham, R Kaddurah-Daouk, SK Mazmanian_
+## A longitudinal study reveals the alterations of the <em>Microtus fortis</em> colonic microbiota during the natural resistance to <em>Schistosoma japonicum</em> infection
 
-
-Mounting evidence suggests that the gut microbiome impacts brain development and function. Gut-brain connections may be mediated by an assortment of microbial molecules that are produced in the gastrointestinal tract, which can subsequently permeate many organs, including sometimes the brain. Studies in animal models have identified molecular cues propagated from intestinal bacteria to the brain that can affect neurological function and/or neurodevelopmental and neurodegenerative conditions. Herein, we describe bacterial metabolites with known or suspected neuromodulatory activity, define mechanisms of signalling pathways from the gut microbiota to the brain and discuss direct effects that gut bacterial molecules are likely exerting on specific brain cells. Many discoveries are recent, and the findings described in this Perspective are largely novel and yet to be extensively validated. However, expanding research into the dynamic molecular communications between gut microorganisms and the CNS continues to uncover critical and previously unappreciated clues in understanding the pathophysiology of behavioural, psychiatric and neurodegenerative diseases.
-
-[Source](https://www.nature.com/articles/s41583-020-00381-0)
-
-10.1038/s41583-020-00381-0
+[Source](https://doi.org/10.1016/j.exppara.2020.108030)
 
 ---
 
-## Interactions between host genetics and gut microbiota determine susceptibility to CNS autoimmunity.
- 20.10.2020, _TL Montgomery, A Künstner, JJ Kennedy, Q Fang, L Asarian, R Culp-Hill, A D'Alessandro, C Teuscher, H Busch, DN Krementsov_
+## Seasonal variation in the gut microbiota of rhesus macaques inhabiting limestone forests of southwest Guangxi, China.
+ 15.10.2020, _Y Li, T Chen, J Liang, Y Li, Z Huang_
 
 
-Multiple sclerosis (MS) is an autoimmune disease of the central nervous system. The etiology of MS is multifactorial, with disease risk determined by genetics and environmental factors. An emerging risk factor for immune-mediated diseases is an imbalance in the gut microbiome. However, the identity of gut microbes associated with disease risk, their mechanisms of action, and the interactions with host genetics remain obscure. To address these questions, we utilized the principal autoimmune model of MS, experimental autoimmune encephalomyelitis (EAE), together with a genetically diverse mouse model representing 29 unique host genotypes, interrogated by microbiome sequencing and targeted microbiome manipulation. We identified specific gut bacteria and their metabolic functions associated with EAE susceptibility, implicating short-chain fatty acid metabolism as a key element conserved across multiple host genotypes. In parallel, we used a reductionist approach focused on two of the most disparate phenotypes identified in our screen. Manipulation of the gut microbiome by transplantation and cohousing demonstrated that transfer of these microbiomes into genetically identical hosts was sufficient to modulate EAE susceptibility and systemic metabolite profiles. Parallel bioinformatic approaches identified Lactobacillus reuteri as a commensal species unexpectedly associated with exacerbation of EAE in a genetically susceptible host, which was functionally confirmed by bacterial isolation and commensal colonization studies. These results reveal complex interactions between host genetics and gut microbiota modulating susceptibility to CNS autoimmunity, providing insights into microbiome-directed strategies aimed at lowering the risk for autoimmune disease and underscoring the need to consider host genetics and baseline gut microbiome composition.
+Data on the gut microbiota of animals can provide new insights into dietary ecology of hosts, consequently assisting in understanding their adaptation strategy and evolutionary potential. We studied the gut microbiota composition and function of the wild rhesus macaques (Macaca mulatta) using 16S rRNA sequencing method. Our results revealed that the gut microbiota of the wild rhesus macaques was dominated by Firmicutes, Bacteroidetes, and Spirochaetes. Diversity and richness of gut microbiota were higher during the dry season than the rainy season. Specifically, higher proportions of Firmicutes, Tenericutes, Cyanobacteria, and unclassified bacteria at the phylum level and more Coprococcus at the genus level were detected in the dry season. Predictive functional analysis showed that pathways associated with carbohydrate metabolism and drug resistance (antimicrobial and antineoplastic) were richer in the dry season. These seasonal differences in microbiota could be due to their heavier dependence on leaf-based diet in the dry season. Additionally, macaques in limestone forests had a higher percentage of Spirochaetes, probably suggesting that the proportion of fruits in dietary composition also play an important role in the gut microbiota. We concluded that diet was strongly linked to the diversity, composition, and function of the gut microbiota in the wild groups of rhesus macaques living in the limestone forest, highlighting the importance of diet in the gut microbiota of macaques and the need to conduct further study on the adaptation strategy in response of environmental changes in the ground of gut microbiota.
 
-[Source](https://doi.org/10.1073/pnas.2002817117)
+[Source](https://doi.org/10.1007/s00203-020-02069-6)
 
-10.1073/pnas.2002817117
-
----
-
-## Bifidobacterium alters the gut microbiota and modulates the functional metabolism of T regulatory cells in the context of immune checkpoint blockade
-
-[Source](https://doi.org/10.1073/pnas.1921223117)
+10.1007/s00203-020-02069-6
 
 ---
 
-## Bugs and drugs: a systems biology approach to characterising the effect of moxidectin on the horse’s faecal microbiome
+## Persistence of the ground beetle (Coleoptera: Carabidae) microbiome to diet manipulation
 
-[Source](https://link.springer.com/article/10.1186/s42523-020-00056-2)
-
----
-
-## A pioneer calf foetus microbiome
-
-[Source](https://www.nature.com/articles/s41598-020-74677-7)
+[Source](https://doi.org/10.1101/2020.10.19.345207)
 
 ---
 
-## Global diversity of microbial communities in marine sediment
+## Unearthing the Boreal Soil Resistome Associated with Permafrost Thaw
 
-[Source](https://doi.org/10.1073/pnas.1919139117)
-
----
-
-## Statistical and Machine-Learning Analyses in Nutritional Genomics Studies
-
-[Source](https://www.mdpi.com/2072-6643/12/10/3140)
+[Source](https://doi.org/10.1101/2020.10.19.346478)
 
 ---
 
-## A need to consider the evolutionary genetics of host‐symbiont mutualisms
+## Enteric viruses evoke broad host immune responses resembling bacterial microbiome
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/jeb.13715)
-
----
-
-## Postmortomics: The Potential of Untargeted Metabolomics to Highlight Markers for Time Since Death
-
-[Source](https://www.liebertpub.com/doi/full/10.1089/omi.2020.0084)
+[Source](https://doi.org/10.1101/2020.10.20.347286)
 
 ---
 
