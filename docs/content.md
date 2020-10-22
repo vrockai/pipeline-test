@@ -1,12 +1,12 @@
-## An Open Resource for Non-human Primate Optogenetics.
- 20.10.2020, _S Tremblay, L Acker, A Afraz, DL Albaugh, H Amita, AR Andrei, A Angelucci, A Aschner, PF Balan, MA Basso, G Benvenuti, MO Bohlen, MJ Caiola, R Calcedo, J Cavanaugh, Y Chen, S Chen, MM Chernov, AM Clark, J Dai, SR Debes, K Deisseroth, R Desimone, V Dragoi, SW Egger, MAG Eldridge, HG El-Nahal, F Fabbrini, F Federer, CR Fetsch, MG Fortuna, RM Friedman, N Fujii, A Gail, A Galvan, S Ghosh, MA Gieselmann, RA Gulli, O Hikosaka, EA Hosseini, X Hu, J Hüer, KI Inoue, R Janz, M Jazayeri, R Jiang, N Ju, K Kar, C Klein, A Kohn, M Komatsu, K Maeda, JC Martinez-Trujillo, M Matsumoto, JHR Maunsell, D Mendoza-Halliday, IE Monosov, RS Muers, L Nurminen, M Ortiz-Rios, DJ O'Shea, S Palfi, CI Petkov, S Pojoga, R Rajalingham, C Ramakrishnan, ED Remington, C Revsine, AW Roe, PN Sabes, RC Saunders, H Scherberger, MC Schmid, W Schultz, E Seidemann, YS Senova, MN Shadlen, DL Sheinberg, C Siu, Y Smith, SS Solomon, MA Sommer, JL Spudich, WR Stauffer, M Takada, S Tang, A Thiele, S Treue, W Vanduffel, R Vogels, MP Whitmire, T Wichmann, RH Wurtz, H Xu, A Yazdan-Shahmorad, KV Shenoy, JJ DiCarlo, ML Platt_
+## Teaching Instructional Technological Change to Medical School Faculty: A COVID-19 Case Study.
+ 21.10.2020, _MP Cote, EM Donne, BD Hoover, K Thormodson_
 
 
-Optogenetics has revolutionized neuroscience in small laboratory animals, but its effect on animal models more closely related to humans, such as non-human primates (NHPs), has been mixed. To make evidence-based decisions in primate optogenetics, the scientific community would benefit from a centralized database listing all attempts, successful and unsuccessful, of using optogenetics in the primate brain. We contacted members of the community to ask for their contributions to an open science initiative. As of this writing, 45 laboratories around the world contributed more than 1,000 injection experiments, including precise details regarding their methods and outcomes. Of those entries, more than half had not been published. The resource is free for everyone to consult and contribute to on the Open Science Framework website. Here we review some of the insights from this initial release of the database and discuss methodological considerations to improve the success of optogenetic experiments in NHPs.
+Collaboration between several College of Medicine departments, including the library, resulted in a creation of a new service for faculty during the COVID-19 pandemic crisis. By combining efforts, support for teaching online became a united effort and much less daunting for faculty, who could consult one group for online teaching support, rather than three or four different entities. The resulting endeavor led to a website FAQ and consulting email address that is accessible to all faculty to provide focused and timely technology and education assistance to faculty.
 
 [Source](https://bit.ly/359vU4A)
 
-10.1016/j.neuron.2020.09.027
+10.1080/02763869.2020.1826234
 
 ---
 
@@ -46,9 +46,15 @@ Oxidative stress is thought to account for aberrant redox homeostasis and contri
 
 ---
 
-## The intestinal microbiome, weight, and metabolic changes in women treated by adjuvant chemotherapy for breast and gynecological malignancies
+## The intestinal microbiome, weight, and metabolic changes in women treated by adjuvant chemotherapy for breast and gynecological malignancies.
+ 21.10.2020, _A Uzan-Yulzari, M Morr, H Tareef-Nabwani, O Ziv, D Magid-Neriya, R Armoni, E Muller, A Leibovici, E Borenstein, Y Louzoun, A Shai, O Koren_
+
+
+Adjuvant chemotherapy induces weight gain, glucose intolerance, and hypertension in about a third of women. The mechanisms underlying these events have not been defined. This study assessed the association between the microbiome and weight gain in patients treated with adjuvant chemotherapy for breast and gynecological cancers.
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01751-2)
+
+10.1186/s12916-020-01751-2
 
 ---
 
