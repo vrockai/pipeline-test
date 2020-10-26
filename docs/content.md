@@ -137,7 +137,7 @@ Garlic polysaccharides are great potential agents because of their anti-inflamma
 ---
 
 ## Metagenomic characterization of bacterial community and antibiotic resistance genes in representative ready-to-eat food in southern China.
- 23.10.2020, _Y Li, W Cao, S Liang, S Yamasaki, X Chen, L Shi, L Ye_
+ 25.10.2020, _Y Li, W Cao, S Liang, S Yamasaki, X Chen, L Shi, L Ye_
 
 
 Ready-to-eat (RTE) foods have been considered to be reservoirs of antibiotic resistance bacteria, which constitute direct threat to human health, but the potential microbiological risks of RTE foods remain largely unexplored. In this study, the metagenomic approach was employed to characterize the comprehensive profiles of bacterial community and antibiotic resistance gene (ARG) in 18 RTE food samples (8 RTE meat, 7 RTE vegetables and 3 RTE fruit) in southern China. In total, the most abundant phyla in RTE foods were Proteobacteria, Firmicutes, Cyanobacteria, Bacteroidetes and Actinobacteria. 204 ARG subtypes belonging to 18 ARG types were detected with an abundance range between 2.81 × 10-5 and 7.7 × 10-1 copy of ARG per copy of 16S rRNA gene. Multidrug-resistant genes were the most predominant ARG type in the RTE foods. Chloramphenicol, macrolide-lincosamide-streptogramin, multidrug resistance, aminoglycoside, bacitracin, tetracycline and β-lactam resistance genes were dominant, which were also associated with antibiotics used extensively in human medicine or veterinary medicine/promoters. Variation partitioning analysis indicated that the join effect of bacterial community and mobile genetic elements (MGEs) played an important role in the resistome alteration. This study further deepens the comprehensive understanding of antibiotic resistome and the correlations among the antibiotic resistome, microbiota, and MGEs in the RTE foods.
@@ -197,7 +197,7 @@ Cassava is one of the most important staple food crops in tropical regions. To d
 ---
 
 ## Daring to be differential: metabarcoding analysis of soil and plant-related microbial communities using amplicon sequence variants and operational taxonomical units.
- 23.10.2020, _L Joos, S Beirinckx, A Haegeman, J Debode, B Vandecasteele, S Baeyen, S Goormachtig, L Clement, C De Tender_
+ 25.10.2020, _L Joos, S Beirinckx, A Haegeman, J Debode, B Vandecasteele, S Baeyen, S Goormachtig, L Clement, C De Tender_
 
 
 Microorganisms are not only indispensable to ecosystem functioning, they are also keystones for emerging technologies. In the last 15 years, the number of studies on environmental microbial communities has increased exponentially due to advances in sequencing technologies, but the large amount of data generated remains difficult to analyze and interpret. Recently, metabarcoding analysis has shifted from clustering reads using Operational Taxonomical Units (OTUs) to Amplicon Sequence Variants (ASVs). Differences between these methods can seriously affect the biological interpretation of metabarcoding data, especially in ecosystems with high microbial diversity, as the methods are benchmarked based on low diversity datasets.
