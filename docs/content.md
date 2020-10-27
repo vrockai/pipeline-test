@@ -47,7 +47,7 @@ Acute graft versus host disease (aGVHD) is a major cause of non-relapse morbidit
 ---
 
 ## Experimental evolution makes microbes more cooperative with their local host genotype.
- 23.10.2020, _RT Batstone, AM O'Brien, TL Harrison, ME Frederickson_
+ 26.10.2020, _RT Batstone, AM O'Brien, TL Harrison, ME Frederickson_
 
 
 Advances in microbiome science require a better understanding of how beneficial microbes adapt to hosts. We tested whether hosts select for more-cooperative microbial strains with a year-long evolution experiment and a cross-inoculation experiment designed to explore how nitrogen-fixing bacteria (rhizobia) adapt to legumes. We paired the bacterium Ensifer meliloti with one of five Medicago truncatula genotypes that vary in how strongly they "choose" bacterial symbionts. Independent of host choice, E. meliloti rapidly adapted to its local host genotype, and derived microbes were more beneficial when they shared evolutionary history with their host. This local adaptation was mostly limited to the symbiosis plasmids, with mutations in putative signaling genes. Thus, cooperation depends on the match between partner genotypes and increases as bacteria adapt to their local host.
@@ -59,7 +59,7 @@ Advances in microbiome science require a better understanding of how beneficial 
 ---
 
 ## Proximal colon-derived O-glycosylated mucus encapsulates and modulates the microbiota.
- 23.10.2020, _K Bergstrom, X Shan, D Casero, A Batushansky, V Lagishetty, JP Jacobs, C Hoover, Y Kondo, B Shao, L Gao, W Zandberg, B Noyovitz, JM McDaniel, DL Gibson, S Pakpour, N Kazemian, S McGee, CW Houchen, CV Rao, TM Griffin, JL Sonnenburg, RP McEver, J Braun, L Xia_
+ 26.10.2020, _K Bergstrom, X Shan, D Casero, A Batushansky, V Lagishetty, JP Jacobs, C Hoover, Y Kondo, B Shao, L Gao, W Zandberg, B Noyovitz, JM McDaniel, DL Gibson, S Pakpour, N Kazemian, S McGee, CW Houchen, CV Rao, TM Griffin, JL Sonnenburg, RP McEver, J Braun, L Xia_
 
 
 Colon mucus segregates the intestinal microbiota from host tissues, but how it organizes to function throughout the colon is unclear. In mice, we found that colon mucus consists of two distinct O-glycosylated entities of Muc2: a major form produced by the proximal colon, which encapsulates the fecal material including the microbiota, and a minor form derived from the distal colon, which adheres to the major form. The microbiota directs its own encapsulation by inducing Muc2 production from proximal colon goblet cells. In turn, O-glycans on proximal colon-derived Muc2 modulate the structure and function of the microbiota as well as transcription in the colon mucosa. Our work shows how proximal colon control of mucin production is an important element in the regulation of host-microbiota symbiosis.
@@ -113,7 +113,7 @@ The etiology of inflammatory bowel disease (IBD) is complex but is thought to be
 ---
 
 ## Influence of probiotic supplementation on the developing microbiota in human preterm neonates.
- 23.10.2020, _N van Best, S Trepels-Kottek, P Savelkoul, T Orlikowsky, MW Hornef, J Penders_
+ 26.10.2020, _N van Best, S Trepels-Kottek, P Savelkoul, T Orlikowsky, MW Hornef, J Penders_
 
 
 Oral administration of probiotic bacteria to preterm neonates has been recommended to prevent the development of necrotizing enterocolitis (NEC). The influence of probiotics on the endogenous microbiome, however, has remained incompletely understood.
