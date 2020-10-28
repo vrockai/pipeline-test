@@ -35,7 +35,7 @@ The gut microbiota plays an important role in neurological diseases via the gut-
 ---
 
 ## Challenges in microbiological identification of aerobic bacteria isolated from the skin of reptiles.
- 19.10.2020, _M Brockmann, H Aupperle-Lellbach, M Gentil, A Heusinger, E Müller, RE Marschang, M Pees_
+ 27.10.2020, _M Brockmann, H Aupperle-Lellbach, M Gentil, A Heusinger, E Müller, RE Marschang, M Pees_
 
 
 Bacterial pathogens are often involved in dermatitis in reptiles. Exact identification of reptile-specific but otherwise uncommon bacterial species may be challenging. However, identification is crucial to evaluate the importance of the detected bacterial species.
@@ -161,14 +161,9 @@ Vertical transmission to progeny ensures the maintenance of arboviruses in their
 
 ---
 
-## Crowdsourcing virtual summer research opportunities to support minorities in microbiology.
- 22.10.2020, _MDL Johnson, DA Baltrus, J Gardy_
-
-
+## Crowdsourcing virtual summer research opportunities to support minorities in microbiology
 
 [Source](https://www.nature.com/articles/s41564-020-00807-6)
-
-10.1038/s41564-020-00807-6
 
 ---
 
