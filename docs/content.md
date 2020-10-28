@@ -161,9 +161,14 @@ Vertical transmission to progeny ensures the maintenance of arboviruses in their
 
 ---
 
-## Crowdsourcing virtual summer research opportunities to support minorities in microbiology
+## Crowdsourcing virtual summer research opportunities to support minorities in microbiology.
+ 22.10.2020, _MDL Johnson, DA Baltrus, J Gardy_
+
+
 
 [Source](https://www.nature.com/articles/s41564-020-00807-6)
+
+10.1038/s41564-020-00807-6
 
 ---
 
