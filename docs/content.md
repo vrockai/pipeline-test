@@ -149,9 +149,15 @@ Vertical transmission to progeny ensures the maintenance of arboviruses in their
 
 ---
 
-## Innovations to culturing the uncultured microbial majority
+## Innovations to culturing the uncultured microbial majority.
+ 23.10.2020, _WH Lewis, G Tahon, P Geesink, DZ Sousa, TJG Ettema_
+
+
+Despite the surge of microbial genome data, experimental testing is important to confirm inferences about the cell biology, ecological roles and evolution of microorganisms. As the majority of archaeal and bacterial diversity remains uncultured and poorly characterized, culturing is a priority. The growing interest in and need for efficient cultivation strategies has led to many rapid methodological and technological advances. In this Review, we discuss common barriers that can hamper the isolation and culturing of novel microorganisms and review emerging, innovative methods for targeted or high-throughput cultivation. We also highlight recent examples of successful cultivation of novel archaea and bacteria, and suggest key microorganisms for future cultivation attempts.
 
 [Source](https://www.nature.com/articles/s41579-020-00458-8)
+
+10.1038/s41579-020-00458-8
 
 ---
 
