@@ -4,9 +4,27 @@
 
 ---
 
-## Few bacterial co-infections but frequent empiric antibiotic use in the early phase of hospitalized patients with COVID-19: results from a multicentre retrospective cohort study in The Netherlands
+## Few bacterial co-infections but frequent empiric antibiotic use in the early phase of hospitalized patients with COVID-19: results from a multicentre retrospective cohort study in The Netherlands.
+ 26.10.2020, _Z Karami, BT Knoop, ASM Dofferhoff, MJT Blaauw, NA Janssen, M van Apeldoorn, APM Kerckhoffs, JS van de Maat, JJ Hoogerwerf, J Ten Oever_
+
+
+Knowledge on bacterial co-infections in COVID-19 is crucial to use antibiotics appropriately. Therefore, we aimed to determine the incidence of bacterial co-infections, antibiotic use and application of antimicrobial stewardship principles in hospitalized patients with COVID-19.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/23744235.2020.1839672)
+
+10.1080/23744235.2020.1839672
+
+---
+
+## Animals and SARS-CoV-2: Species susceptibility and viral transmission in experimental and natural conditions, and the potential implications for community transmission.
+ 22.10.2020, _EC Hobbs, TJ Reid_
+
+
+The current COVID-19 global pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) of probable bat origin, has highlighted the ongoing need for a One Health response to emerging zoonotic disease events. Understanding the human-animal interface and its relevance to disease transmission remains a critical control point for many emerging zoonoses. Determination of the susceptibility of various animal species to infection with SARS-CoV-2 and the role of animals in the epidemiology of the disease will be critical to informing appropriate human and veterinary public health responses to this pandemic. A scoping literature review was conducted to collect, evaluate and present the available research evidence regarding SARS-CoV-2 infections in animals. Experimental studies have successfully demonstrated SARS-CoV-2 infection and transmission in cats, ferrets, hamsters, bats and non-human primates under experimental settings. Dogs appear to have limited susceptibility to SARS-CoV-2, while other domestic species including pigs and poultry do not appear susceptible. Naturally occurring SARS-CoV-2 infections in animals appear uncommon, with 14 pets, 8 captive big cats and an unreported number of farmed mink testing positive to date. Infections typically appear asymptomatic in dogs, while clinical signs of respiratory and/or gastrointestinal disease tend to be mild to moderate in felines, and severe to fatal in mink. Most animals are presumed to have been infected by close contact with COVID-19 patients. In domestic settings, viral transmission is self-limiting, however in high density animal environments there can be sustained between-animal transmission. To date, two potential cases of animal-to-human transmission are being investigated, on infected mink farms. Given the millions of COVID-19 cases worldwide and ongoing potential for further zoonotic and anthroponotic viral transmission, further research and surveillance activities are needed to definitively determine the role of animals in community transmission of SARS-CoV-2.
+
+[Source](https://www.nature.com/articles/s41586-020-2334-5)
+
+10.1111/tbed.13885
 
 ---
 
@@ -16,15 +34,27 @@
 
 ---
 
-## Metabolomics of primary cutaneous melanoma and matched adjacent extratumoral microenvironment
+## Metabolomics of primary cutaneous melanoma and matched adjacent extratumoral microenvironment.
+ 27.10.2020, _NJ Taylor, I Gaynanova, SA Eschrich, EA Welsh, TJ Garrett, C Beecher, R Sharma, JM Koomen, KSM Smalley, JL Messina, PA Kanetsky_
+
+
+Melanoma causes the vast majority of deaths attributable to skin cancer, largely due to its propensity for metastasis. To date, few studies have examined molecular changes between primary cutaneous melanoma and adjacent putatively normal skin. To broaden temporal inferences related to initiation of disease, we performed a metabolomics investigation of primary melanoma and matched extratumoral microenvironment (EM) tissues; and, to make inferences about progressive disease, we also compared unmatched metastatic melanoma tissues to EM tissues.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240849)
 
+10.1371/journal.pone.0240849
+
 ---
 
-## Microbial signature in IgE-mediated food allergies
+## Microbial signature in IgE-mediated food allergies.
+ 30.10.2020, _MR Goldberg, H Mor, D Magid Neriya, F Magzal, E Muller, MY Appel, L Nachshon, E Borenstein, S Tamir, Y Louzoun, I Youngster, A Elizur, O Koren_
+
+
+Multiple studies suggest a key role for gut microbiota in IgE-mediated food allergy (FA) development, but to date, none has studied it in the persistent state.
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00789-4)
+
+10.1186/s13073-020-00789-4
 
 ---
 
