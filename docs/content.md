@@ -47,7 +47,7 @@ Melanoma causes the vast majority of deaths attributable to skin cancer, largely
 ---
 
 ## Microbial signature in IgE-mediated food allergies.
- 28.10.2020, _MR Goldberg, H Mor, D Magid Neriya, F Magzal, E Muller, MY Appel, L Nachshon, E Borenstein, S Tamir, Y Louzoun, I Youngster, A Elizur, O Koren_
+ 30.10.2020, _MR Goldberg, H Mor, D Magid Neriya, F Magzal, E Muller, MY Appel, L Nachshon, E Borenstein, S Tamir, Y Louzoun, I Youngster, A Elizur, O Koren_
 
 
 Multiple studies suggest a key role for gut microbiota in IgE-mediated food allergy (FA) development, but to date, none has studied it in the persistent state.
@@ -90,7 +90,7 @@ Over the last few decades, polyphenols, and flavonoids in particular, have attra
 ---
 
 ## Gut Microbiota: Its Potential Roles in Pancreatic Cancer.
- 29.10.2020, _Q Li, M Jin, Y Liu, L Jin_
+ 30.10.2020, _Q Li, M Jin, Y Liu, L Jin_
 
 
 Pancreatic cancer is considered a lethal disease with a low survival rate due to its late-stage diagnosis, few opportunities for resection and lack of effective therapeutic strategies. Multiple, highly complex effects of gut microbiota on pancreatic cancer have been recognized as potential strategies for targeting tumorigenesis, development and treatment in recent decades; some of the treatments include antibiotics, probiotics, and fecal microbiota transplantation. Several bacterial species are associated with carcinogenesis of the pancreas, while some bacterial metabolites contribute to tumor-associated low-grade inflammation and immune responses via several proinflammatory factors and signaling pathways. Given the limited evidence on the interplay between gut microbiota and pancreatic cancer, risk factors associated with pancreatic cancer, such as diabetes, chronic pancreatitis and obesity, should also be taken into consideration. In terms of treatment of pancreatic cancer, gut microbiota has exhibited multiple effects on both traditional chemotherapy and the recently successful immunotherapy. Therefore, in this review, we summarize the latest developments and advancements in gut microbiota in relation to pancreatic cancer to elucidate its potential value.
