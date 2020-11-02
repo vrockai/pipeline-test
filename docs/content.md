@@ -70,15 +70,27 @@ The aim of this study was to elucidate the ecological structure of the human gut
 
 ---
 
-## Host population size is linked to orchid mycorrhizal fungal communities in roots and soil, which are shaped by microenvironment
+## Host population size is linked to orchid mycorrhizal fungal communities in roots and soil, which are shaped by microenvironment.
+ 28.10.2020, _J Kaur, C Phillips, J Sharma_
+
+
+Interaction with orchid mycorrhizal fungi (OMF) is essential to all members of the Orchidaceae, yet we know little about whether or how OMF abundances in substrates shape orchid populations. While root-associated OMF diversity is catalogued frequently, technological constraints have impeded the assessments of OMF communities in substrates until recently, thereby limiting the ability to link OMF communities in a habitat to population responses. Furthermore, there is some evidence that edaphic and microclimatic conditions impact OMF in soil, yet we lack an understanding of the coupled influences of abiotic environment and OMF structure on orchid population dynamics. To discover the linkages between abiotic environment, OMF community structure, and population size, we characterized the microclimatic conditions, soil physicochemistry, and OMF communities hosted by roots and soil across large and small populations of a terrestrial orchid endemic to California Floristic Province in North America. By using high-throughput sequencing of the ITS2 region of nrDNA amplified from root and soil DNAs, we determined that both roots and soil of larger populations, which were high in phosphorus but low in zinc, organic matter, and silt, were dominated by Tulasnellaceae OTUs. In comparison, roots and soil from smaller populations of the orchid hosted higher relative abundances of the Ceratobasidiaceae. In this multiyear, range-wide study that simultaneously measured habitat environmental conditions, and soil and root OMF communities, our results suggest that soil chemistry is clearly linked to soil and root OMF communities, which then likely alter and shape orchid populations.
 
 [Source](https://doi.org/10.1007/s00572-020-00993-5)
 
+10.1007/s00572-020-00993-5
+
 ---
 
-## Root exudates drive soil‐microbe‐nutrient feedbacks in response to plant growth
+## Root exudates drive soil-microbe-nutrient feedbacks in response to plant growth.
+ 26.10.2020, _M Zhao, J Zhao, J Yuan, L Hale, T Wen, Q Huang, JM Vivanco, J Zhou, GA Kowalchuk, Q Shen_
+
+
+Although interactions between plants and microbes at the plant-soil interface are known to be important for plant nutrient acquisition, relatively little is known about how root exudates contribute to nutrient exchange over the course of plant development. In this study, root exudates from slow- and fast-growing stages of Arabidopsis thaliana plants were collected, chemically analyzed and then applied to a sandy nutrient-depleted soil. We then tracked the impacts of these exudates on soil bacterial communities, soil nutrients (ammonium, nitrate, available phosphorus and potassium) and plant growth. Both pools of exudates shifted bacterial community structure. GeoChip analyses revealed increases in the functional gene potential of both exudate-treated soils, with similar responses observed for slow-growing and fast-growing plant exudate treatments. The fast-growing stage root exudates induced higher nutrient mineralization and enhanced plant growth as compared to treatments with slow-growing stage exudates and the control. These results suggest that plants may adjust their exudation patterns over the course their different growth phases to help tailor microbial recruitment to meet increased nutrient demands during periods demanding faster growth. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/pce.13928)
+
+10.1111/pce.13928
 
 ---
 
