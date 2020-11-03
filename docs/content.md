@@ -1,120 +1,96 @@
-## <span style="color:#ff6600;">Scientific Webinars on the Gut-Brain Connection Spotlight Spike in Research</span>
+## The perfect condition for the rising of superbugs: person-to-person contagion and antibiotic use are the key factors responsible for the positive correlation between antibiotic resistance gene diversity and virulence gene diversity in human metagenomes
 
-[Source](https://www.newswise.com/articles/scientific-webinars-on-the-gut-brain-connection-spotlight-spike-in-research)
-
----
-
-## The dark matter of microbiome: the mother-infant pair virome.
- 27.10.2020, _F Comitini, V Fanos_
-
-
-The human virome belongs to one of the most complex ecosystems in the world, the microbiome. The virome that inhabits the intestinal niche and its dynamic variation during the first year of life had been the most investigated. Many pathogenic viruses are well known to be potentially transmitted transplacentally or during vaginal delivery to the newborn, but recent studies on healthy term pregnancies found that there was no evidence of a principal viral community. In the maternalfetal dyad, human milk has been demonstrated to be one of the earliest factors involved in the direct virome transmission. Despite the relationship between humans and viruses traces its roots back to ancient times, the mother-infant pair virome has been poorly investigated and represents currently a "dark matter" of the microbiome.
-
-[Source](https://doi.org/10.23736/s0026-4946.20.05938-1)
-
-10.23736/S0026-4946.20.05938-1
+[Source](https://www.biorxiv.org/content/10.1101/2020.04.25.061853v3?%3Fcollection=)
 
 ---
 
-## Intrauterine Growth Restriction Is Associated with Unique Features of the Reproductive Microbiome.
- 27.10.2020, _J Hu, P Benny, M Wang, Y Ma, L Lambertini, I Peter, Y Xu, MJ Lee_
+## Parallel and non-parallel changes of the gut microbiota during trophic diversification in repeated young adaptive radiations of sympatric cichlid fish.
+ 30.10.2020, _A Härer, J Torres-Dowdall, SJ Rometsch, E Yohannes, G Machado-Schiaffino, A Meyer_
 
 
-Intrauterine growth restriction (IUGR) is an obstetrical complication with an increased risk of perinatal mortality and morbidity. The uterus, once considered to be a sterile environment, has now been described in recent microbiome studies to harbor diverse commensal placenta microbiota, as well as potentially pathogenic flora known to cause infection. Therefore, in this pilot study, we tested whether IUGR was associated with changes to the reproductive microbiome. The reproductive microbiome was surveyed using 16S sequencing (20 IUGR, 20 controls). Alpha and beta diversity were compared, and differential taxa features associated with IUGR were identified. Microbial screening of the placenta demonstrated a diverse range of flora predominantly including Proteobacteria, Fusobacteria, Firmicutes, and Bacteroidetes. Neither alpha- nor beta-diversity was significantly different by IUGR status. However, at the taxa level, IUGR patients had significantly higher prevalence of Neisseriaceae, mucosal β-hemolytic bacteria known to uptake iron-bound host proteins including hemoglobin. Moreover, the increase in anaerobic bacteria such as Desulfovibrio reflects the emergence of a hypoxic environment in the IUGR placenta. Further analysis of the reproductive microbiome of IUGR samples showed lower levels of H202-producing Bifidobacterium and Lactobacillus that switch from respiration to fermentation, a less energetic metabolic process, when oxygen levels decrease. Source tracking analysis showed that the placental microbial contents were predominantly contributed from an oral source, as compared to a gut or vaginal source. Our results suggest that the reproductive microbiome profiles may, in the future, constitute potential biomarkers for fetal health during pregnancy, while Neisseriaceae may constitute promising therapeutic targets for IUGR treatment.
+Recent increases in understanding the ecological and evolutionary roles of microbial communities have underscored the importance of their hosts' biology. Yet, little is known about gut microbiota dynamics during the early stages of ecological diversification and speciation. We sequenced the V4 region of the 16s rRNA gene to study the gut microbiota of Nicaraguan Midas cichlid fish (Amphilophus cf. citrinellus). Specifically, we tested the hypothesis that parallel divergence in trophic ecology in extremely young adaptive radiations from two crater lakes is associated with parallel changes of their gut microbiota.
 
-[Source](https://doi.org/10.1007/s43032-020-00374-5)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00897-8)
 
-10.1007/s43032-020-00374-5
-
----
-
-## Gut microbiota and artificial intelligence approaches: A scoping review
-
-[Source](https://doi.org/10.1007/s12553-020-00486-7)
+10.1186/s40168-020-00897-8
 
 ---
 
-## Circadian rhythms and the gut microbiota: from the metabolic syndrome to cancer.
- 27.10.2020, _F Bishehsari, RM Voigt, A Keshavarzian_
+## Exploring the resident gut microbiota of stranded odontocetes: high similarities between two dolphin species <em>Tursiops truncatus</em> and <em>Stenella coeruleoalba</em>
 
-
-The metabolic syndrome is prevalent in developed nations and accounts for the largest burden of non-communicable diseases worldwide. The metabolic syndrome has direct effects on health and increases the risk of developing cancer. Lifestyle factors that are known to promote the metabolic syndrome generally cause pro-inflammatory alterations in microbiota communities in the intestine. Indeed, alterations to the structure and function of intestinal microbiota are sufficient to promote the metabolic syndrome, inflammation and cancer. Among the lifestyle factors that are associated with the metabolic syndrome, disruption of the circadian system, known as circadian dysrhythmia, is increasingly common. Disruption of the circadian system can alter microbiome communities and can perturb host metabolism, energy homeostasis and inflammatory pathways, which leads to the metabolic syndrome. This Perspective discusses the role of intestinal microbiota and microbial metabolites in mediating the effects of disruption of circadian rhythms on human health.
-
-[Source](https://doi.org/10.1038/s41574-020-00427-4)
-
-10.1038/s41574-020-00427-4
+[Source](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/exploring-the-resident-gut-microbiota-of-stranded-odontocetes-high-similarities-between-two-dolphin-species-tursiops-truncatus-and-stenella-coeruleoalba/77EBF3C07CF3D80E992506D65BAB480C)
 
 ---
 
-## Ecological Structuring of Temperate Bacteriophages in the Inflammatory Bowel Disease-Affected Gut.
- 30.10.2020, _H Nishiyama, H Endo, R Blanc-Mathieu, H Ogata_
+## Investigating the cow skin and teat canal microbiomes of the bovine udder using different sampling and sequencing approaches.
+ 02.11.2020, _CJ Dean, IB Slizovskiy, KK Crone, AX Pfennig, BJ Heins, LS Caixeta, NR Noyes_
 
 
-The aim of this study was to elucidate the ecological structure of the human gut temperate bacteriophage community and its role in inflammatory bowel disease (IBD). Temperate bacteriophages make up a large proportion of the human gut microbiota and are likely to play a role in IBD pathogenesis. However, many of these bacteriophages await characterization in reference databases. Therefore, we conducted a large-scale reconstruction of temperate bacteriophage and bacterial genomes from the whole-metagenome sequence data generated by the IBD Multi'omics Database project. By associating phages with their hosts via genome comparisons, we found that temperate bacteriophages infect a phylogenetically wide range of bacteria. The majority of variance in bacteriophage community composition was explained by variation among individuals, but differences in the abundance of temperate bacteriophages were identified between IBD and non-IBD patients. Of note, in active ulcerative colitis patients, temperate bacteriophages infecting Bacteroides uniformis and Bacteroides thetaiotaomicron-two species experimentally proven to be beneficial to gut homeostasis-were over-represented, whereas their hosts were under-represented in comparison with non-IBD patients. Supporting the mounting evidence that gut viral community plays a vital role in IBD, our results show potential association between temperate bacteriophages and IBD pathogenesis.
+There is a need for standardized, efficient, and practical sampling methods to support large population-based studies of the internal and external epithelial microbiomes of the bovine udder. The primary objective of this study was to evaluate different sampling devices for the isolation of microbial DNA originating from the internal and external teat epithelium. Secondary objectives were to survey and compare the microbial diversity of external and teat canal epithelial microbiomes using amplicon and shotgun metagenomic sequencing approaches. To address these objectives, we enrolled a convenience sample of 24 Holstein dairy cows and collected samples from the external epithelium at the base of udder, the external teat barrel epithelium, the external teat apex epithelium, and the teat canal epithelium. Extracted DNA was quantified and subjected to PCR amplification of the V4 hypervariable region of the 16S rRNA gene and sequenced on the Illumina MiSeq platform (Illumina Inc., San Diego, CA). A subset of samples was subjected to a shallow shotgun metagenomic assay on the Illumina HiSeq platform. For samples collected from the external teat epithelium, we found that gauze squares consistently yielded more DNA than swabs, and Simpson's reciprocal index of diversity was higher for gauze than for swabs. The teat canal epithelial samples exhibited significantly lower diversity than the external sampling locations, but there were no significant differences in diversity between teat apex, teat barrel, and base of the udder samples. There were, however, differences in the microbial distribution and abundances of specific bacteria across external epithelial surfaces. The proportion of shotgun sequence reads classified as Bos taurus was highly variable between sampling locations, ranging from 0.33% in teat apex samples to 99.91% in teat canal samples. These results indicate that gauze squares should be considered for studying the microbiome of the external epithelium of the bovine udder, particularly if DNA yield must be maximized. Further, the relative proportion of host to non-host DNA present in samples collected from the internal and external teat epithelium should be considered when designing studies that utilize shotgun metagenomic sequencing.
 
-[Source](https://doi.org/10.3390/microorganisms8111663)
+[Source](https://www.journalofdairyscience.org/article/S0022-0302(20)30860-2/fulltext)
 
-10.3390/microorganisms8111663
-
----
-
-## Genomic and microscopic evidence of stable high density and maternally inherited Wolbachia infections in Anopheles mosquitoes
-
-[Source](https://doi.org/10.1101/2020.10.29.357400)
+10.3168/jds.2020-18277
 
 ---
 
-## Testosterone amendment alters metabolite profiles of the soil microbial community
+## Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont
 
-[Source](https://doi.org/10.1016/j.envpol.2020.115928)
-
----
-
-## Host population size is linked to orchid mycorrhizal fungal communities in roots and soil, which are shaped by microenvironment
-
-[Source](https://doi.org/10.1007/s00572-020-00993-5)
+[Source](https://www.mdpi.com/2076-2607/8/11/1682)
 
 ---
 
-## Root exudates drive soil‐microbe‐nutrient feedbacks in response to plant growth
+## Free Iron and Iron-Reducing Microorganisms in Permafrost and Permafrost-Affected Soils of Northeastern Siberia
 
-[Source](https://doi.org/10.1111/pce.13928)
-
----
-
-## Microbial activity and metamitron degrading microbial communities differ between soil and water-sediment systems
-
-[Source](https://doi.org/10.1016/j.jhazmat.2020.124293)
+[Source](https://link.springer.com/article/10.1134/S1064229320100166)
 
 ---
 
-## Insights into ‘Symbiodiniaceae phycosphere’ in a coral holobiont
+## Behaviors of cadmium in rhizosphere soils and its interaction with microbiome communities in phytoremediation
 
-[Source](https://doi.org/10.1007/s13199-020-00735-3)
-
----
-
-## Diversity and Dynamics of Seaweed Associated Microbial Communities Inhabiting the Lagoon of Venice
-
-[Source](https://doi.org/10.3390/microorganisms8111657)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0045653520329635)
 
 ---
 
-## <span style="color:#ff6600;">Global diversity and biogeography of the <em>Zostera marina</em> mycobiome</span>
+## Uncovering the genomic potential of the Amazon River microbiome to degrade rainforest organic matter
 
-[Source](https://doi.org/10.1101/2020.10.29.361022)
-
----
-
-## Analysis of Microbial Community Structure and Diversity in Surrounding Rock Soil of Different Waste Dump Sites in Fushun Western Opencast Mine
-
-[Source](https://doi.org/10.1016/j.chemosphere.2020.128777)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00930-w)
 
 ---
 
-## <span style="color:#ff6600;">Assessment of transparency indicators across the biomedical literature: how open is open</span>
+## Microbiome variability across the native and invasive range of the ascidian <em>Clavelina oblonga</em>
 
-[Source](https://doi.org/10.1101/2020.10.30.361618)
+[Source](https://aem.asm.org/content/early/2020/10/26/AEM.02233-20.abstract)
+
+---
+
+## Microbiome of the Black Sea water column analyzed by genome centric metagenomics
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.30.362129v1?%3Fcollection=)
+
+---
+
+## Understanding building-occupant-microbiome interactions toward healthy built environments
+
+[Source](https://link.springer.com/article/10.1007/s11783-020-1357-3)
+
+---
+
+## Molecular repertoire of <em>Deinococcus radiodurans</em> after 1 year of exposure outside the International Space Station within the Tanpopo mission
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00927-5)
+
+---
+
+## negative binomial and zero-inflated mixed models, with application to microbiome/metagenomics data analysis
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03803-z)
+
+---
+
+## microbiota—active substance interactions database
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa924/5943835)
 
 ---
 
