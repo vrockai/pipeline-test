@@ -5,7 +5,7 @@
 ---
 
 ## Parallel and non-parallel changes of the gut microbiota during trophic diversification in repeated young adaptive radiations of sympatric cichlid fish.
- 30.10.2020, _A Härer, J Torres-Dowdall, SJ Rometsch, E Yohannes, G Machado-Schiaffino, A Meyer_
+ 03.11.2020, _A Härer, J Torres-Dowdall, SJ Rometsch, E Yohannes, G Machado-Schiaffino, A Meyer_
 
 
 Recent increases in understanding the ecological and evolutionary roles of microbial communities have underscored the importance of their hosts' biology. Yet, little is known about gut microbiota dynamics during the early stages of ecological diversification and speciation. We sequenced the V4 region of the 16s rRNA gene to study the gut microbiota of Nicaraguan Midas cichlid fish (Amphilophus cf. citrinellus). Specifically, we tested the hypothesis that parallel divergence in trophic ecology in extremely young adaptive radiations from two crater lakes is associated with parallel changes of their gut microbiota.
