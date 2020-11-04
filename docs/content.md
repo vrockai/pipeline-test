@@ -34,9 +34,15 @@ There is a need for standardized, efficient, and practical sampling methods to s
 
 ---
 
-## Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont
+## Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont.
+ 03.11.2020, _A Boilard, CE Dubé, C Gruet, A Mercière, A Hernandez-Agreda, N Derome_
+
+
+Coral microbiomes are critical to holobiont health and functioning, but the stability of host-microbial interactions is fragile, easily shifting from eubiosis to dysbiosis. The heat-induced breakdown of the symbiosis between the host and its dinoflagellate algae (that is, "bleaching"), is one of the most devastating outcomes for reef ecosystems. Yet, bleaching tolerance has been observed in some coral species. This review provides an overview of the holobiont's diversity, explores coral thermal tolerance in relation to their associated microorganisms, discusses the hypothesis of adaptive dysbiosis as a mechanism of environmental adaptation, mentions potential solutions to mitigate bleaching, and suggests new research avenues. More specifically, we define coral bleaching as the succession of three holobiont stages, where the microbiota can (i) maintain essential functions for holobiont homeostasis during stress and/or (ii) act as a buffer to mitigate bleaching by favoring the recruitment of thermally tolerant Symbiodiniaceae species (adaptive dysbiosis), and where (iii) environmental stressors exceed the buffering capacity of both microbial and dinoflagellate partners leading to coral death.
 
 [Source](https://www.mdpi.com/2076-2607/8/11/1682)
+
+10.3390/microorganisms8111682
 
 ---
 
@@ -52,9 +58,15 @@ There is a need for standardized, efficient, and practical sampling methods to s
 
 ---
 
-## Uncovering the genomic potential of the Amazon River microbiome to degrade rainforest organic matter
+## Uncovering the genomic potential of the Amazon River microbiome to degrade rainforest organic matter.
+ 03.11.2020, _CD Santos-Júnior, H Sarmento, FP de Miranda, F Henrique-Silva, R Logares_
+
+
+The Amazon River is one of the largest in the world and receives huge amounts of terrestrial organic matter (TeOM) from the surrounding rainforest. Despite this TeOM is typically recalcitrant (i.e. resistant to degradation), only a small fraction of it reaches the ocean, pointing to a substantial TeOM degradation by the river microbiome. Yet, microbial genes involved in TeOM degradation in the Amazon River were barely known. Here, we examined the Amazon River microbiome by analysing 106 metagenomes from 30 sampling points distributed along the river.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00930-w)
+
+10.1186/s40168-020-00930-w
 
 ---
 
