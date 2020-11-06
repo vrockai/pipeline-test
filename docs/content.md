@@ -22,9 +22,15 @@ Gram-positive bacteria employ an array of secreted peptides to control populatio
 
 ---
 
-## Metatranscriptomic analysis reveals active microbes and genes responded to short-term Cr(VI) stress
+## Metatranscriptomic analysis reveals active microbes and genes responded to short-term Cr(VI) stress.
+ 30.10.2020, _Z Yu, Y Pei, S Zhao, A Kakade, A Khan, M Sharma, H Zain, P Feng, J Ji, T Zhou, H Wang, J Wu, X Li_
+
+
+Heavy metals have been severely polluting the environment. However, the response mechanism of microbial communities to short-term heavy metals stress remains unclear. In this study, metagenomics (MG) and metatranscriptomics (MT) was performed to observe the microbial response to short-term Cr(VI) stress. MG data showed that 99.1% of species were similar in the control and Cr(VI) treated groups. However, MT data demonstrated that 83% of the microbes were active in which 58.7% increased, while the relative abundance of 41.3% decreased after short-term Cr(VI) incubation. The MT results also revealed 9% of microbes were dormant in samples. Genes associated with oxidative stress, Cr(VI) transport, resistance, and reduction, as well as genes with unknown functions were 2-10 times upregulated after Cr(VI) treatment. To further confirm the function of unknown genes, two genes (314 and 494) were selected to detect the Cr(VI) resistance and reduction ability. The results showed that these genes significantly increased the Cr(VI) remediation ability of Escherichia coli. MT results also revealed an increase in the expression of some rare genera (at least two times) after Cr(VI) treatment, indicating these rare species played a crucial role in microbial response to short-term Cr(VI) stress. In summary, MT is an efficient way to understand the role of active and dormant microbes in specific environmental conditions.
 
 [Source](https://link.springer.com/article/10.1007/s10646-020-02290-5)
+
+10.1007/s10646-020-02290-5
 
 ---
 
@@ -34,9 +40,15 @@ Gram-positive bacteria employ an array of secreted peptides to control populatio
 
 ---
 
-## Gut microbiota ecology: Biodiversity estimated from hybrid neutral-niche model increases with health status and aging
+## Gut microbiota ecology: Biodiversity estimated from hybrid neutral-niche model increases with health status and aging.
+ 04.11.2020, _C Sala, E Giampieri, S Vitali, P Garagnani, D Remondini, A Bazzani, C Franceschi, GC Castellani_
+
+
+In this work we propose an index to estimate the gut microbiota biodiversity using a modeling approach with the aim of describing its relationship with health and aging. The gut microbiota, a complex ecosystem that links nutrition and metabolism, has a pervasive effect on all body organs and systems, undergoes profound changes with age and life-style, and substantially contributes to the pathogenesis of age-related diseases. For these reasons, the gut microbiota is a suitable candidate for assessing and quantifying healthy aging, i.e. the capability of individuals to reach an advanced age, avoiding or postponing major age-related diseases. The importance of the gut microbiota in health and aging has been proven to be related not only to its taxonomic composition, but also to its ecological properties, namely its biodiversity. Following an ecological approach, here we intended to characterize the relationship between the gut microbiota biodiversity and healthy aging through the development a parsimonious model of gut microbiota from which biodiversity can be estimated. We analysed publicly available metagenomic data relative to subjects of different ages, countries, nutritional habits and health status and we showed that a hybrid niche-neutral model well describes the observed patterns of bacterial relative abundance. Moreover, starting from such ecological modeling, we derived an estimate of the gut microbiota biodiversity that is consistent with classical indices, while having a higher statistical power. This allowed us to unveil an increase of the gut microbiota biodiversity during aging and to provide a good predictor of health status in old age, dependent on life-style and aging disorders.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237207)
+
+10.1371/journal.pone.0237207
 
 ---
 
@@ -106,57 +118,27 @@ Natural compounds have had increasing applications in the biotechnological secto
 
 ---
 
-## Virome of Bat Guano from Nine Northern California Roosts.
- 29.10.2020, _Y Li, E Altan, G Reyes, B Halstead, X Deng, E Delwart_
-
-
-Bats are hosts to a large variety of viruses, including many capable of cross species transmissions to other mammals or humans. We characterized the virome in guano from five common bat species in 9 Northern California roosts and a pool of 5 individual bats. Genomes belonging to 14 viral families known to infect mammals and 17 viral families infecting insects or of unknown tropism were detected. Near or complete genomes of a novel parvovirus, astrovirus, nodavirus, CRESS-DNA viruses and densoviruses and more partial genomes of a novel alphacoronavirus, and bunyavirus were characterized. Lower numbers of reads with &gt;90% amino acid identity to previously described calicivirus, circovirus, adenoviruses, hepatovirus, bocaparvoviruses, and polyomavirus in other bat species were also found likely reflecting their wide distribution among different bats. Unexpectedly a few sequence reads of canine parvovirus 2 and the recently described mouse kidney parvovirus were also detected and their presence confirmed by PCR possibly originating from guano contamination by carnivores and rodents. The majority of eukaryotic viral reads were highly divergent indicating that numerous viruses still remain to be characterized even from such a heavily investigated order as Chiroptera.IMPORTANCE Characterizing the bat virome is important for understanding viral diversity and detecting viral spillover between animal species. Using unbiased metagenomics method, we characterize the virome in guano collected from multiple roosts of common Northern California bat species. We describe several novel viral genomes and report the detection of viruses with close relatives reported in other bat species likely reflecting cross-species transmissions. Viral sequences from well-known carnivore and rodent parvoviruses were also detected whose presence are likely the result of contamination from defecation and urination atop guano and reflect the close interaction of these mammals in the wild.
-
-[Source](https://jvi.asm.org/content/early/2020/10/22/JVI.01713-20.abstract)
-
-10.1128/JVI.01713-20
-
----
-
 ## Virome of bat guano from nine northern California roosts
 
 [Source](https://jvi.asm.org/content/early/2020/10/22/JVI.01713-20.abstract)
 
 ---
 
-## The IMG/M data management and analysis system v.6.0: new tools and advanced capabilities.
- 29.10.2020, _IA Chen, K Chu, K Palaniappan, A Ratner, J Huang, M Huntemann, P Hajek, S Ritter, N Varghese, R Seshadri, S Roux, T Woyke, EA Eloe-Fadrosh, NN Ivanova, NC Kyrpides_
-
-
-The Integrated Microbial Genomes &amp; Microbiomes system (IMG/M: https://img.jgi.doe.gov/m/) contains annotated isolate genome and metagenome datasets sequenced at the DOE's Joint Genome Institute (JGI), submitted by external users, or imported from public sources such as NCBI. IMG v 6.0 includes advanced search functions and a new tool for statistical analysis of mixed sets of genomes and metagenome bins. The new IMG web user interface also has a new Help page with additional documentation and webinar tutorials to help users better understand how to use various IMG functions and tools for their research. New datasets have been processed with the prokaryotic annotation pipeline v.5, which includes extended protein family assignments.
+## The IMG/M data management and analysis system v.6.0: new tools and advanced capabilities
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa939/5943189)
 
-10.1093/nar/gkaa939
-
 ---
 
-## PhANNs, a fast and accurate tool and web server to classify phage structural proteins.
- 02.11.2020, _VA Cantu, P Salamon, V Seguritan, J Redfield, D Salamon, RA Edwards, AM Segall_
-
-
-For any given bacteriophage genome or phage-derived sequences in metagenomic data sets, we are unable to assign a function to 50-90% of genes, or more. Structural protein-encoding genes constitute a large fraction of the average phage genome and are among the most divergent and difficult-to-identify genes using homology-based methods. To understand the functions encoded by phages, their contributions to their environments, and to help gauge their utility as potential phage therapy agents, we have developed a new approach to classify phage ORFs into ten major classes of structural proteins or into an "other" category. The resulting tool is named PhANNs (Phage Artificial Neural Networks). We built a database of 538,213 manually curated phage protein sequences that we split into eleven subsets (10 for cross-validation, one for testing) using a novel clustering method that ensures there are no homologous proteins between sets yet maintains the maximum sequence diversity for training. An Artificial Neural Network ensemble trained on features extracted from those sets reached a test F1-score of 0.875 and test accuracy of 86.2%. PhANNs can rapidly classify proteins into one of the ten structural classes or, if not predicted to fall in one of the ten classes, as "other," providing a new approach for functional annotation of phage proteins. PhANNs is open source and can be run from our web server or installed locally.
+## PhANNs, a fast and accurate tool and web server to classify phage structural proteins
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007845)
 
-10.1371/journal.pcbi.1007845
-
 ---
 
-## Low-cost biofuel-powered autoclaving machine for use in rural health care centres.
- 29.10.2020, _YK Ahmed, MO Ibitoye, AR Zubair, JM Oladejo, SA Yahaya, SO Abdulsalam, RO Ajibola_
-
-
-Surgical site infections (SSIs) in developing countries have been linked to inadequate availability of sterilising equipment. Existing autoclaves are mostly unaffordable by rural healthcare practitioners, and when they managed to procure them, the electricity supply to power the autoclaves is epileptic. The solar-powered autoclave alternatives are too bulky with a very high initial cost. Hence, low-cost biofuel-powered autoclave becomes an attractive option, and this study sought to present the design, development and clinical evaluation of the device performance. With the global drive for the adoption of green energy, biofuel will not only reduce greenhouse gas emission but also provide revenue for local producers and reduce biomass associated health complications. The theoretical energy requirement for the sterilisation process was calculated. The standard pressure and temperature needed for sterilisation were tested to be 121 °C and 15 psi. The device was also clinically tested with Staphylococcus aureus bacteria obtained from the Department of Medical Microbiology and Parasitology, University of Ilorin Teaching Hospital using Brain heart Infusion Broth, MacConkey and Blood agar as cultured media. No bacteria growth was observed when the samples containing the bacteria colony were autoclaved by the designed autoclave and incubated at 37 °C for 2 d. Hence, the device met the mechanical and biological validation standards for effective sterilisation.
+## Low-cost biofuel-powered autoclaving machine for use in rural health care centres
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/03091902.2020.1825847)
-
-10.1080/03091902.2020.1825847
 
 ---
 
@@ -166,34 +148,15 @@ Surgical site infections (SSIs) in developing countries have been linked to inad
 
 ---
 
-## Harnessing the power of eDNA metabarcoding for the detection of deep-sea fishes.
- 04.11.2020, _B McClenaghan, N Fahner, D Cote, J Chawarski, A McCarthy, H Rajabi, G Singer, M Hajibabaei_
-
-
-The deep ocean is the largest biome on Earth and faces increasing anthropogenic pressures from climate change and commercial fisheries. Our ability to sustainably manage this expansive habitat is impeded by our poor understanding of its inhabitants and by the difficulties in surveying and monitoring these areas. Environmental DNA (eDNA) metabarcoding has great potential to improve our understanding of this region and to facilitate monitoring across a broad range of taxa. Here, we evaluate two eDNA sampling protocols and seven primer sets for elucidating fish diversity from deep sea water samples. We found that deep sea water samples (&gt; 1400 m depth) had significantly lower DNA concentrations than surface or mid-depth samples necessitating a refined protocol with a larger sampling volume. We recovered significantly more DNA in large volume water samples (1.5 L) filtered at sea compared to small volume samples (250 mL) held for lab filtration. Furthermore, the number of unique sequences (exact sequence variants; ESVs) recovered per sample was higher in large volume samples. Since the number of ESVs recovered from large volume samples was less variable and consistently high, we recommend the larger volumes when sampling water from the deep ocean. We also identified three primer sets which detected the most fish taxa but recommend using multiple markers due the variability in detection probabilities and taxonomic resolution among fishes for each primer set. Overall, fish diversity results obtained from metabarcoding were comparable to conventional survey methods. While eDNA sampling and processing need be optimized for this unique environment, the results of this study demonstrate that eDNA metabarcoding can facilitate biodiversity surveys in the deep ocean, require less dedicated survey effort per unit identification, and are capable of simultaneously providing valuable information on other taxonomic groups.
+## Harnessing the power of eDNA metabarcoding for the detection of deep-sea fishes
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236540)
-
-10.1371/journal.pone.0236540
-
----
-
-## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
- 30.09.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
-
-
-_Aged, Aging, Emotions, Female, Genetic Predisposition to Disease, Genotype, Haplotypes, Heterozygote, Humans, Male, Memory, Short-Term, Mental Recall, Middle Aged, Polymorphism, Genetic, Receptor, Cannabinoid, CB1, Receptors, Adrenergic, alpha-2, Sequence Deletion_
-Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
-
-[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=e8d824640a)
-
-10.1038/s41598-019-40108-5
 
 ---
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=e8d824640a)
+[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=80d778f698)
 
 ---
 
