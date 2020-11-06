@@ -40,15 +40,33 @@ Gram-positive bacteria employ an array of secreted peptides to control populatio
 
 ---
 
-## Implication of gut microbiota in the physiology of rats intermittently exposed to cold and hypobaric hypoxia
+## Implication of gut microbiota in the physiology of rats intermittently exposed to cold and hypobaric hypoxia.
+ 03.11.2020, _S Ramos-Romero, G Santocildes, D Piñol-Piñol, C Rosés, T Pagés, M Hereu, S Amézqueta, JR Torrella, JL Torres, G Viscor_
+
+
+This study examines the influence of intermittent exposure to cold, hypobaric hypoxia, and their combination, in gut microbiota and their metabolites in vivo, and explores their effects on the physiology of the host. Sprague-Dawley rats were exposed to cold (4°C), hypobaric hypoxia (462 torr), or both simultaneously, 4 h/day for 21 days. Biometrical and hematological parameters were monitored. Gut bacterial subgroups were evaluated by qPCR and short-chain fatty acids were determined by gas chromatography in caecum and feces. Cold increased brown adipose tissue, Clostridiales subpopulation and the concentration of butyric and isovaleric acids in caecum. Hypobaric hypoxia increased hemoglobin, red and white cell counts and Enterobacteriales, and reduced body and adipose tissues weights and Lactobacilliales. Cold plus hypobaric hypoxia counteracted the hypoxia-induced weight loss as well as the increase in white blood cells, while reducing the Bacteroidetes:Firmicutes ratio and normalizing the populations of Enterobacteriales and Lactobacilliales. In conclusion, intermittent cold and hypobaric hypoxia exposures by themselves modified some of the main physiological variables in vivo, while their combination kept the rats nearer to their basal status. The reduction of the Bacteroidetes:Firmicutes ratio and balanced populations of Enterobacteriales and Lactobacilliales in the gut may contribute to this effect.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240686)
+
+10.1371/journal.pone.0240686
 
 ---
 
 ## Exploring the resident gut microbiota of stranded odontocetes: high similarities between two dolphin species <em>Tursiops truncatus</em> and <em>Stenella coeruleoalba</em>
 
 [Source](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/exploring-the-resident-gut-microbiota-of-stranded-odontocetes-high-similarities-between-two-dolphin-species-tursiops-truncatus-and-stenella-coeruleoalba/77EBF3C07CF3D80E992506D65BAB480C)
+
+---
+
+## Diversity and Bioactive Potential of Actinobacteria Isolated from a Coastal Marine Sediment in Northern Portugal.
+ 04.11.2020, _I Ribeiro, M Girão, DAM Alexandrino, T Ribeiro, C Santos, F Pereira, AP Mucha, R Urbatzka, PN Leão, MF Carvalho_
+
+
+Natural compounds have had increasing applications in the biotechnological sector, with a large fraction of these substances being channeled to the pharmaceutical industry due to their important pharmacological properties. The discovery of new bioactive molecules with novel mechanisms of action constitutes a promising solution for the design of alternative therapeutic solutions. Actinobacteria are a large group of morphologically and physiologically diverse bacteria well known for their production of biotechnologically relevant compounds. The Portuguese coast is scantly explored in terms of Actinobacteria diversity and respective bioactive potential, offering a good opportunity to find new Actinobacteria taxa and bioactive natural products. In this study, we investigated the Actinobacteria diversity associated with a sediment sample collected from the intertidal zone of a beach in northern Portugal, through a cultivation-dependent approach, and screened its antimicrobial and cytotoxic potential. A total of 52 Actinobacteria strains were recovered from the marine sediment, with the largest fraction of the isolates belonging to the genus Micromonospora. Bioactivity screening assays identified crude extracts of six Streptomyces strains active against C. albicans, exhibiting minimum inhibition concentration (MIC) values in the range of 3.90-125 μg mL-1. Twenty-five Actinobacteria crude extracts (obtained from strains of the genera Micromonospora, Streptomyces and Actinomadura) exhibited significant effects on the viability of at least one tested cancer cell line (breast ductal carcinoma T-47D and liver hepatocellular carcinoma HepG2). The Actinobacteria extracts demonstrating activity in the antimicrobial and/or cytotoxic assays were subjected to metabolomic analysis (Mass spectrometry (MS)-based dereplication and molecular networking analyses), indicating the presence of four clusters that may represent new natural products. The results obtained demonstrate the importance of bioprospecting underexplored environments, like the Portuguese coast, for enhancing the discovery of new natural products, and call attention to the relevance of preserving the natural genetic diversity of coastal environments.
+
+[Source](https://link.springer.com/article/10.1007/s00253-020-10973-6)
+
+10.3390/microorganisms8111691
 
 ---
 
@@ -88,21 +106,45 @@ Gram-positive bacteria employ an array of secreted peptides to control populatio
 
 ---
 
+## Virome of Bat Guano from Nine Northern California Roosts.
+ 29.10.2020, _Y Li, E Altan, G Reyes, B Halstead, X Deng, E Delwart_
+
+
+Bats are hosts to a large variety of viruses, including many capable of cross species transmissions to other mammals or humans. We characterized the virome in guano from five common bat species in 9 Northern California roosts and a pool of 5 individual bats. Genomes belonging to 14 viral families known to infect mammals and 17 viral families infecting insects or of unknown tropism were detected. Near or complete genomes of a novel parvovirus, astrovirus, nodavirus, CRESS-DNA viruses and densoviruses and more partial genomes of a novel alphacoronavirus, and bunyavirus were characterized. Lower numbers of reads with &gt;90% amino acid identity to previously described calicivirus, circovirus, adenoviruses, hepatovirus, bocaparvoviruses, and polyomavirus in other bat species were also found likely reflecting their wide distribution among different bats. Unexpectedly a few sequence reads of canine parvovirus 2 and the recently described mouse kidney parvovirus were also detected and their presence confirmed by PCR possibly originating from guano contamination by carnivores and rodents. The majority of eukaryotic viral reads were highly divergent indicating that numerous viruses still remain to be characterized even from such a heavily investigated order as Chiroptera.IMPORTANCE Characterizing the bat virome is important for understanding viral diversity and detecting viral spillover between animal species. Using unbiased metagenomics method, we characterize the virome in guano collected from multiple roosts of common Northern California bat species. We describe several novel viral genomes and report the detection of viruses with close relatives reported in other bat species likely reflecting cross-species transmissions. Viral sequences from well-known carnivore and rodent parvoviruses were also detected whose presence are likely the result of contamination from defecation and urination atop guano and reflect the close interaction of these mammals in the wild.
+
+[Source](https://jvi.asm.org/content/early/2020/10/22/JVI.01713-20.abstract)
+
+10.1128/JVI.01713-20
+
+---
+
 ## Virome of bat guano from nine northern California roosts
 
 [Source](https://jvi.asm.org/content/early/2020/10/22/JVI.01713-20.abstract)
 
 ---
 
-## The IMG/M data management and analysis system v.6.0: new tools and advanced capabilities
+## The IMG/M data management and analysis system v.6.0: new tools and advanced capabilities.
+ 29.10.2020, _IA Chen, K Chu, K Palaniappan, A Ratner, J Huang, M Huntemann, P Hajek, S Ritter, N Varghese, R Seshadri, S Roux, T Woyke, EA Eloe-Fadrosh, NN Ivanova, NC Kyrpides_
+
+
+The Integrated Microbial Genomes &amp; Microbiomes system (IMG/M: https://img.jgi.doe.gov/m/) contains annotated isolate genome and metagenome datasets sequenced at the DOE's Joint Genome Institute (JGI), submitted by external users, or imported from public sources such as NCBI. IMG v 6.0 includes advanced search functions and a new tool for statistical analysis of mixed sets of genomes and metagenome bins. The new IMG web user interface also has a new Help page with additional documentation and webinar tutorials to help users better understand how to use various IMG functions and tools for their research. New datasets have been processed with the prokaryotic annotation pipeline v.5, which includes extended protein family assignments.
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa939/5943189)
 
+10.1093/nar/gkaa939
+
 ---
 
-## PhANNs, a fast and accurate tool and web server to classify phage structural proteins
+## PhANNs, a fast and accurate tool and web server to classify phage structural proteins.
+ 02.11.2020, _VA Cantu, P Salamon, V Seguritan, J Redfield, D Salamon, RA Edwards, AM Segall_
+
+
+For any given bacteriophage genome or phage-derived sequences in metagenomic data sets, we are unable to assign a function to 50-90% of genes, or more. Structural protein-encoding genes constitute a large fraction of the average phage genome and are among the most divergent and difficult-to-identify genes using homology-based methods. To understand the functions encoded by phages, their contributions to their environments, and to help gauge their utility as potential phage therapy agents, we have developed a new approach to classify phage ORFs into ten major classes of structural proteins or into an "other" category. The resulting tool is named PhANNs (Phage Artificial Neural Networks). We built a database of 538,213 manually curated phage protein sequences that we split into eleven subsets (10 for cross-validation, one for testing) using a novel clustering method that ensures there are no homologous proteins between sets yet maintains the maximum sequence diversity for training. An Artificial Neural Network ensemble trained on features extracted from those sets reached a test F1-score of 0.875 and test accuracy of 86.2%. PhANNs can rapidly classify proteins into one of the ten structural classes or, if not predicted to fall in one of the ten classes, as "other," providing a new approach for functional annotation of phage proteins. PhANNs is open source and can be run from our web server or installed locally.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007845)
+
+10.1371/journal.pcbi.1007845
 
 ---
 
@@ -133,6 +175,25 @@ The deep ocean is the largest biome on Earth and faces increasing anthropogenic 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236540)
 
 10.1371/journal.pone.0236540
+
+---
+
+## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
+ 30.09.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+
+
+_Aged, Aging, Emotions, Female, Genetic Predisposition to Disease, Genotype, Haplotypes, Heterozygote, Humans, Male, Memory, Short-Term, Mental Recall, Middle Aged, Polymorphism, Genetic, Receptor, Cannabinoid, CB1, Receptors, Adrenergic, alpha-2, Sequence Deletion_
+Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
+
+[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=e8d824640a)
+
+10.1038/s41598-019-40108-5
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=e8d824640a)
 
 ---
 
