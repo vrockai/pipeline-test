@@ -40,33 +40,15 @@ Gram-positive bacteria employ an array of secreted peptides to control populatio
 
 ---
 
-## Implication of gut microbiota in the physiology of rats intermittently exposed to cold and hypobaric hypoxia.
- 03.11.2020, _S Ramos-Romero, G Santocildes, D Piñol-Piñol, C Rosés, T Pagés, M Hereu, S Amézqueta, JR Torrella, JL Torres, G Viscor_
-
-
-This study examines the influence of intermittent exposure to cold, hypobaric hypoxia, and their combination, in gut microbiota and their metabolites in vivo, and explores their effects on the physiology of the host. Sprague-Dawley rats were exposed to cold (4°C), hypobaric hypoxia (462 torr), or both simultaneously, 4 h/day for 21 days. Biometrical and hematological parameters were monitored. Gut bacterial subgroups were evaluated by qPCR and short-chain fatty acids were determined by gas chromatography in caecum and feces. Cold increased brown adipose tissue, Clostridiales subpopulation and the concentration of butyric and isovaleric acids in caecum. Hypobaric hypoxia increased hemoglobin, red and white cell counts and Enterobacteriales, and reduced body and adipose tissues weights and Lactobacilliales. Cold plus hypobaric hypoxia counteracted the hypoxia-induced weight loss as well as the increase in white blood cells, while reducing the Bacteroidetes:Firmicutes ratio and normalizing the populations of Enterobacteriales and Lactobacilliales. In conclusion, intermittent cold and hypobaric hypoxia exposures by themselves modified some of the main physiological variables in vivo, while their combination kept the rats nearer to their basal status. The reduction of the Bacteroidetes:Firmicutes ratio and balanced populations of Enterobacteriales and Lactobacilliales in the gut may contribute to this effect.
+## Implication of gut microbiota in the physiology of rats intermittently exposed to cold and hypobaric hypoxia
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240686)
-
-10.1371/journal.pone.0240686
 
 ---
 
 ## Exploring the resident gut microbiota of stranded odontocetes: high similarities between two dolphin species <em>Tursiops truncatus</em> and <em>Stenella coeruleoalba</em>
 
 [Source](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/exploring-the-resident-gut-microbiota-of-stranded-odontocetes-high-similarities-between-two-dolphin-species-tursiops-truncatus-and-stenella-coeruleoalba/77EBF3C07CF3D80E992506D65BAB480C)
-
----
-
-## Diversity and Bioactive Potential of Actinobacteria Isolated from a Coastal Marine Sediment in Northern Portugal.
- 04.11.2020, _I Ribeiro, M Girão, DAM Alexandrino, T Ribeiro, C Santos, F Pereira, AP Mucha, R Urbatzka, PN Leão, MF Carvalho_
-
-
-Natural compounds have had increasing applications in the biotechnological sector, with a large fraction of these substances being channeled to the pharmaceutical industry due to their important pharmacological properties. The discovery of new bioactive molecules with novel mechanisms of action constitutes a promising solution for the design of alternative therapeutic solutions. Actinobacteria are a large group of morphologically and physiologically diverse bacteria well known for their production of biotechnologically relevant compounds. The Portuguese coast is scantly explored in terms of Actinobacteria diversity and respective bioactive potential, offering a good opportunity to find new Actinobacteria taxa and bioactive natural products. In this study, we investigated the Actinobacteria diversity associated with a sediment sample collected from the intertidal zone of a beach in northern Portugal, through a cultivation-dependent approach, and screened its antimicrobial and cytotoxic potential. A total of 52 Actinobacteria strains were recovered from the marine sediment, with the largest fraction of the isolates belonging to the genus Micromonospora. Bioactivity screening assays identified crude extracts of six Streptomyces strains active against C. albicans, exhibiting minimum inhibition concentration (MIC) values in the range of 3.90-125 μg mL-1. Twenty-five Actinobacteria crude extracts (obtained from strains of the genera Micromonospora, Streptomyces and Actinomadura) exhibited significant effects on the viability of at least one tested cancer cell line (breast ductal carcinoma T-47D and liver hepatocellular carcinoma HepG2). The Actinobacteria extracts demonstrating activity in the antimicrobial and/or cytotoxic assays were subjected to metabolomic analysis (Mass spectrometry (MS)-based dereplication and molecular networking analyses), indicating the presence of four clusters that may represent new natural products. The results obtained demonstrate the importance of bioprospecting underexplored environments, like the Portuguese coast, for enhancing the discovery of new natural products, and call attention to the relevance of preserving the natural genetic diversity of coastal environments.
-
-[Source](https://link.springer.com/article/10.1007/s00253-020-10973-6)
-
-10.3390/microorganisms8111691
 
 ---
 
@@ -124,9 +106,15 @@ Natural compounds have had increasing applications in the biotechnological secto
 
 ---
 
-## Low-cost biofuel-powered autoclaving machine for use in rural health care centres
+## Low-cost biofuel-powered autoclaving machine for use in rural health care centres.
+ 29.10.2020, _YK Ahmed, MO Ibitoye, AR Zubair, JM Oladejo, SA Yahaya, SO Abdulsalam, RO Ajibola_
+
+
+Surgical site infections (SSIs) in developing countries have been linked to inadequate availability of sterilising equipment. Existing autoclaves are mostly unaffordable by rural healthcare practitioners, and when they managed to procure them, the electricity supply to power the autoclaves is epileptic. The solar-powered autoclave alternatives are too bulky with a very high initial cost. Hence, low-cost biofuel-powered autoclave becomes an attractive option, and this study sought to present the design, development and clinical evaluation of the device performance. With the global drive for the adoption of green energy, biofuel will not only reduce greenhouse gas emission but also provide revenue for local producers and reduce biomass associated health complications. The theoretical energy requirement for the sterilisation process was calculated. The standard pressure and temperature needed for sterilisation were tested to be 121 °C and 15 psi. The device was also clinically tested with Staphylococcus aureus bacteria obtained from the Department of Medical Microbiology and Parasitology, University of Ilorin Teaching Hospital using Brain heart Infusion Broth, MacConkey and Blood agar as cultured media. No bacteria growth was observed when the samples containing the bacteria colony were autoclaved by the designed autoclave and incubated at 37 °C for 2 d. Hence, the device met the mechanical and biological validation standards for effective sterilisation.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/03091902.2020.1825847)
+
+10.1080/03091902.2020.1825847
 
 ---
 
@@ -136,9 +124,15 @@ Natural compounds have had increasing applications in the biotechnological secto
 
 ---
 
-## Harnessing the power of eDNA metabarcoding for the detection of deep-sea fishes
+## Harnessing the power of eDNA metabarcoding for the detection of deep-sea fishes.
+ 04.11.2020, _B McClenaghan, N Fahner, D Cote, J Chawarski, A McCarthy, H Rajabi, G Singer, M Hajibabaei_
+
+
+The deep ocean is the largest biome on Earth and faces increasing anthropogenic pressures from climate change and commercial fisheries. Our ability to sustainably manage this expansive habitat is impeded by our poor understanding of its inhabitants and by the difficulties in surveying and monitoring these areas. Environmental DNA (eDNA) metabarcoding has great potential to improve our understanding of this region and to facilitate monitoring across a broad range of taxa. Here, we evaluate two eDNA sampling protocols and seven primer sets for elucidating fish diversity from deep sea water samples. We found that deep sea water samples (&gt; 1400 m depth) had significantly lower DNA concentrations than surface or mid-depth samples necessitating a refined protocol with a larger sampling volume. We recovered significantly more DNA in large volume water samples (1.5 L) filtered at sea compared to small volume samples (250 mL) held for lab filtration. Furthermore, the number of unique sequences (exact sequence variants; ESVs) recovered per sample was higher in large volume samples. Since the number of ESVs recovered from large volume samples was less variable and consistently high, we recommend the larger volumes when sampling water from the deep ocean. We also identified three primer sets which detected the most fish taxa but recommend using multiple markers due the variability in detection probabilities and taxonomic resolution among fishes for each primer set. Overall, fish diversity results obtained from metabarcoding were comparable to conventional survey methods. While eDNA sampling and processing need be optimized for this unique environment, the results of this study demonstrate that eDNA metabarcoding can facilitate biodiversity surveys in the deep ocean, require less dedicated survey effort per unit identification, and are capable of simultaneously providing valuable information on other taxonomic groups.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236540)
+
+10.1371/journal.pone.0236540
 
 ---
 
