@@ -1,187 +1,151 @@
-## The pneumococcal social network.
- 03.11.2020, _SD Aggarwal, H Yesilkaya, S Dawid, NL Hiller_
+## agmicroPapers
 
-
-Gram-positive bacteria employ an array of secreted peptides to control population-level behaviors in response to environmental cues. We review mechanistic and functional features of secreted peptides produced by the human pathogen Streptococcus pneumoniae. We discuss sequence features, mechanisms of transport, and receptors for 3 major categories of small peptides: the double-glycine peptides, the Rap, Rgg, NprR, PlcR, and PrgX (RRNPP)-binding peptides, and the lanthionine-containing peptides. We highlight the impact of factors that contribute to carriage and pathogenesis, specifically genetic diversity, microbial competition, biofilm development, and environmental adaptation. A recent expansion in pneumococcal peptide studies reveals a complex network of interacting signaling systems where multiple peptides are integrated into the same signaling pathway, allowing multiple points of entry into the pathway and extending information content in new directions. In addition, since peptides are present in the extracellular milieu, there are opportunities for crosstalk, quorum sensing (QS), as well as intra- and interstrain and species interactions. Knowledge on the manner that population-level behaviors contribute to disease provides an avenue for the design and development of anti-infective strategies.
-
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008931)
-
-10.1371/journal.ppat.1008931
+[Source](https://twitter.com/AgmicroPapers)
 
 ---
 
-## Expanding magnetic organelle biogenesis in the domain <em>Bacteria</em>
+## Mucosal or systemic microbiota exposures shape the B cell repertoire.
+ 14.09.2020, _H Li, JP Limenitakis, V Greiff, B Yilmaz, O Schären, C Urbaniak, M Zünd, MAE Lawson, ID Young, S Rupp, M Heikenwälder, KD McCoy, S Hapfelmeier, SC Ganal-Vonarburg, AJ Macpherson_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00931-9)
 
----
+_Administration, Intravenous, Administration, Oral, Animals, B-Lymphocytes, Clostridiales, Escherichia coli, Female, Germ-Free Life, Immunity, Mucosal, Immunoglobulin A, Immunoglobulin G, Immunoglobulin Heavy Chains, Immunologic Memory, Intestinal Mucosa, Male, Mice, Mice, Inbred C57BL, Plasma Cells, Repetition Priming, Symbiosis_
+Colonization by the microbiota causes a marked stimulation of B cells and induction of immunoglobulin, but mammals colonized with many taxa have highly complex and individualized immunoglobulin repertoires1,2. Here we use a simplified model of defined transient exposures to different microbial taxa in germ-free mice3 to deconstruct how the microbiota shapes the B cell pool and its functional responsiveness. We followed the development of the immunoglobulin repertoire in B cell populations, as well as single cells by deep sequencing. Microbial exposures at the intestinal mucosa generated oligoclonal responses that differed from those of germ-free mice, and from the diverse repertoire that was generated after intravenous systemic exposure to microbiota. The IgA repertoire-predominantly to cell-surface antigens-did not expand after dose escalation, whereas increased systemic exposure broadened the IgG repertoire to both microbial cytoplasmic and cell-surface antigens. These microbial exposures induced characteristic immunoglobulin heavy-chain repertoires in B cells, mainly at memory and plasma cell stages. Whereas sequential systemic exposure to different microbial taxa diversified the IgG repertoire and facilitated alternative specific responses, sequential mucosal exposure produced limited overlapping repertoires and the attrition of initial IgA binding specificities. This shows a contrast between a flexible response to systemic exposure with the need to avoid fatal sepsis, and a restricted response to mucosal exposure that reflects the generic nature of host-microbial mutualism in the mucosa.
 
-## Gene duplication drives genome expansion in a major lineage of Thaumarchaeota
+[Source](https://www.biorxiv.org/content/10.1101/2020.11.05.370106v1)
 
-[Source](https://www.nature.com/articles/s41467-020-19132-x)
-
----
-
-## Metatranscriptomic analysis reveals active microbes and genes responded to short-term Cr(VI) stress
-
-[Source](https://link.springer.com/article/10.1007/s10646-020-02290-5)
+10.1038/s41586-020-2564-6
 
 ---
 
-## Effects of heavy ion particle irradiation on spore germination of <em>Bacillus</em> spp. from extremely hot and cold environments
+## Memory shapes microbial populations
 
-[Source](https://www.mdpi.com/2075-1729/10/11/264)
-
----
-
-## Gut microbiota ecology: Biodiversity estimated from hybrid neutral-niche model increases with health status and aging.
- 06.11.2020, _C Sala, E Giampieri, S Vitali, P Garagnani, D Remondini, A Bazzani, C Franceschi, GC Castellani_
-
-
-In this work we propose an index to estimate the gut microbiota biodiversity using a modeling approach with the aim of describing its relationship with health and aging. The gut microbiota, a complex ecosystem that links nutrition and metabolism, has a pervasive effect on all body organs and systems, undergoes profound changes with age and life-style, and substantially contributes to the pathogenesis of age-related diseases. For these reasons, the gut microbiota is a suitable candidate for assessing and quantifying healthy aging, i.e. the capability of individuals to reach an advanced age, avoiding or postponing major age-related diseases. The importance of the gut microbiota in health and aging has been proven to be related not only to its taxonomic composition, but also to its ecological properties, namely its biodiversity. Following an ecological approach, here we intended to characterize the relationship between the gut microbiota biodiversity and healthy aging through the development a parsimonious model of gut microbiota from which biodiversity can be estimated. We analysed publicly available metagenomic data relative to subjects of different ages, countries, nutritional habits and health status and we showed that a hybrid niche-neutral model well describes the observed patterns of bacterial relative abundance. Moreover, starting from such ecological modeling, we derived an estimate of the gut microbiota biodiversity that is consistent with classical indices, while having a higher statistical power. This allowed us to unveil an increase of the gut microbiota biodiversity during aging and to provide a good predictor of health status in old age, dependent on life-style and aging disorders.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237207)
-
-10.1371/journal.pone.0237207
+[Source](https://www.biorxiv.org/content/10.1101/2020.11.05.370106v1)
 
 ---
 
-## Implication of gut microbiota in the physiology of rats intermittently exposed to cold and hypobaric hypoxia.
- 03.11.2020, _S Ramos-Romero, G Santocildes, D Piñol-Piñol, C Rosés, T Pagés, M Hereu, S Amézqueta, JR Torrella, JL Torres, G Viscor_
+## Bacterial-fungal interactions revealed by genome-wide analysis of bacterial mutant fitness.
+ 03.11.2020, _EC Pierce, M Morin, JC Little, RB Liu, J Tannous, NP Keller, K Pogliano, BE Wolfe, LM Sanchez, RJ Dutton_
 
 
-This study examines the influence of intermittent exposure to cold, hypobaric hypoxia, and their combination, in gut microbiota and their metabolites in vivo, and explores their effects on the physiology of the host. Sprague-Dawley rats were exposed to cold (4°C), hypobaric hypoxia (462 torr), or both simultaneously, 4 h/day for 21 days. Biometrical and hematological parameters were monitored. Gut bacterial subgroups were evaluated by qPCR and short-chain fatty acids were determined by gas chromatography in caecum and feces. Cold increased brown adipose tissue, Clostridiales subpopulation and the concentration of butyric and isovaleric acids in caecum. Hypobaric hypoxia increased hemoglobin, red and white cell counts and Enterobacteriales, and reduced body and adipose tissues weights and Lactobacilliales. Cold plus hypobaric hypoxia counteracted the hypoxia-induced weight loss as well as the increase in white blood cells, while reducing the Bacteroidetes:Firmicutes ratio and normalizing the populations of Enterobacteriales and Lactobacilliales. In conclusion, intermittent cold and hypobaric hypoxia exposures by themselves modified some of the main physiological variables in vivo, while their combination kept the rats nearer to their basal status. The reduction of the Bacteroidetes:Firmicutes ratio and balanced populations of Enterobacteriales and Lactobacilliales in the gut may contribute to this effect.
+Microbial interactions are expected to be major determinants of microbiome structure and function. Although fungi are found in diverse microbiomes, their interactions with bacteria remain largely uncharacterized. In this work, we characterize interactions in 16 different bacterial-fungal pairs, examining the impacts of 8 different fungi isolated from cheese rind microbiomes on 2 bacteria (Escherichia coli and a cheese-isolated Pseudomonas psychrophila). Using random barcode transposon-site sequencing with an analysis pipeline that allows statistical comparisons between different conditions, we observed that fungal partners caused widespread changes in the fitness of bacterial mutants compared to growth alone. We found that all fungal species modulated the availability of iron and biotin to bacterial species, which suggests that these may be conserved drivers of bacterial-fungal interactions. Species-specific interactions were also uncovered, a subset of which suggested fungal antibiotic production. Changes in both conserved and species-specific interactions resulted from the deletion of a global regulator of fungal specialized metabolite production. This work highlights the potential for broad impacts of fungi on bacterial species within microbiomes.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240686)
+[Source](https://www.nature.com/articles/s41564-020-00800-z)
 
-10.1371/journal.pone.0240686
-
----
-
-## Exploring the resident gut microbiota of stranded odontocetes: high similarities between two dolphin species <em>Tursiops truncatus</em> and <em>Stenella coeruleoalba</em>
-
-[Source](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/exploring-the-resident-gut-microbiota-of-stranded-odontocetes-high-similarities-between-two-dolphin-species-tursiops-truncatus-and-stenella-coeruleoalba/77EBF3C07CF3D80E992506D65BAB480C)
+10.1038/s41564-020-00800-z
 
 ---
 
-## Diversity and Bioactive Potential of Actinobacteria Isolated from a Coastal Marine Sediment in Northern Portugal.
- 04.11.2020, _I Ribeiro, M Girão, DAM Alexandrino, T Ribeiro, C Santos, F Pereira, AP Mucha, R Urbatzka, PN Leão, MF Carvalho_
+## Environmental and Physiological Factors Affecting High-Throughput Measurements of Bacterial Growth.
+ 22.10.2020, _E Atolia, S Cesar, HA Arjes, M Rajendram, H Shi, BD Knapp, S Khare, A Aranda-Díaz, RE Lenski, KC Huang_
 
 
-Natural compounds have had increasing applications in the biotechnological sector, with a large fraction of these substances being channeled to the pharmaceutical industry due to their important pharmacological properties. The discovery of new bioactive molecules with novel mechanisms of action constitutes a promising solution for the design of alternative therapeutic solutions. Actinobacteria are a large group of morphologically and physiologically diverse bacteria well known for their production of biotechnologically relevant compounds. The Portuguese coast is scantly explored in terms of Actinobacteria diversity and respective bioactive potential, offering a good opportunity to find new Actinobacteria taxa and bioactive natural products. In this study, we investigated the Actinobacteria diversity associated with a sediment sample collected from the intertidal zone of a beach in northern Portugal, through a cultivation-dependent approach, and screened its antimicrobial and cytotoxic potential. A total of 52 Actinobacteria strains were recovered from the marine sediment, with the largest fraction of the isolates belonging to the genus Micromonospora. Bioactivity screening assays identified crude extracts of six Streptomyces strains active against C. albicans, exhibiting minimum inhibition concentration (MIC) values in the range of 3.90-125 μg mL-1. Twenty-five Actinobacteria crude extracts (obtained from strains of the genera Micromonospora, Streptomyces and Actinomadura) exhibited significant effects on the viability of at least one tested cancer cell line (breast ductal carcinoma T-47D and liver hepatocellular carcinoma HepG2). The Actinobacteria extracts demonstrating activity in the antimicrobial and/or cytotoxic assays were subjected to metabolomic analysis (Mass spectrometry (MS)-based dereplication and molecular networking analyses), indicating the presence of four clusters that may represent new natural products. The results obtained demonstrate the importance of bioprospecting underexplored environments, like the Portuguese coast, for enhancing the discovery of new natural products, and call attention to the relevance of preserving the natural genetic diversity of coastal environments.
+Bacterial growth under nutrient-rich and starvation conditions is intrinsically tied to the environmental history and physiological state of the population. While high-throughput technologies have enabled rapid analyses of mutant libraries, technical and biological challenges complicate data collection and interpretation. Here, we present a framework for the execution and analysis of growth measurements with improved accuracy over that of standard approaches. Using this framework, we demonstrate key biological insights that emerge from consideration of culturing conditions and history. We determined that quantification of the background absorbance in each well of a multiwell plate is critical for accurate measurements of maximal growth rate. Using mathematical modeling, we demonstrated that maximal growth rate is dependent on initial cell density, which distorts comparisons across strains with variable lag properties. We established a multiple-passage protocol that alleviates the substantial effects of glycerol on growth in carbon-poor media, and we tracked growth rate-mediated fitness increases observed during a long-term evolution of Escherichia coli in low glucose concentrations. Finally, we showed that growth of Bacillus subtilis in the presence of glycerol induces a long lag in the next passage due to inhibition of a large fraction of the population. Transposon mutagenesis linked this phenotype to the incorporation of glycerol into lipoteichoic acids, revealing a new role for these envelope components in resuming growth after starvation. Together, our investigations underscore the complex physiology of bacteria during bulk passaging and the importance of robust strategies to understand and quantify growth.IMPORTANCE How starved bacteria adapt and multiply under replete nutrient conditions is intimately linked to their history of previous growth, their physiological state, and the surrounding environment. While automated equipment has enabled high-throughput growth measurements, data interpretation and knowledge gaps regarding the determinants of growth kinetics complicate comparisons between strains. Here, we present a framework for growth measurements that improves accuracy and attenuates the effects of growth history. We determined that background absorbance quantification and multiple passaging cycles allow for accurate growth rate measurements even in carbon-poor media, which we used to reveal growth-rate increases during long-term laboratory evolution of Escherichia coli Using mathematical modeling, we showed that maximum growth rate depends on initial cell density. Finally, we demonstrated that growth of Bacillus subtilis with glycerol inhibits the future growth of most of the population, due to lipoteichoic acid synthesis. These studies highlight the challenges of accurate quantification of bacterial growth behaviors.
 
-[Source](https://link.springer.com/article/10.1007/s00253-020-10973-6)
+[Source](https://mbio.asm.org/content/11/5/e01378-20)
 
-10.3390/microorganisms8111691
-
----
-
-## Bacteria associated with cockroaches: health risk or biotechnological opportunity?
-
-[Source](https://link.springer.com/article/10.1007/s00253-020-10973-6)
+10.1128/mBio.01378-20
 
 ---
 
-## Impact of land uses, drought, flood, wildfire, and cascading events on water quality and microbial communities: A review and analysis
+## Host variables confound gut microbiota studies of human disease.
+ 06.11.2020, _I Vujkovic-Cvijin, J Sklar, L Jiang, L Natarajan, R Knight, Y Belkaid_
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0022169420311689)
 
----
+Low concordance between studies that examine the role of microbiota in human diseases is a pervasive challenge that limits the capacity to identify causal relationships between host-associated microorganisms and pathology. The risk of obtaining false positives is exacerbated by wide interindividual heterogeneity in microbiota composition1, probably due to population-wide differences in human lifestyle and physiological variables2 that exert differential effects on the microbiota. Here we infer the greatest, generalized sources of heterogeneity in human gut microbiota profiles and also identify human lifestyle and physiological characteristics that, if not evenly matched between cases and controls, confound microbiota analyses to produce spurious microbial associations with human diseases. We identify alcohol consumption frequency and bowel movement quality as unexpectedly strong sources of gut microbiota variance that differ in distribution between healthy participants and participants with a disease and that can confound study designs. We demonstrate that for numerous prevalent, high-burden human diseases, matching cases and controls for confounding variables reduces observed differences in the microbiota and the incidence of spurious associations. On this basis, we present a list of host variables that we recommend should be captured in human microbiota studies for the purpose of matching comparison groups, which we anticipate will increase robustness and reproducibility in resolving the members of the gut microbiota that are truly associated with human disease.
 
-## Dams shift microbial community assembly and imprint nitrogen transformation along the Yangtze River
+[Source](https://www.nature.com/articles/s41586-020-2881-9)
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135420311143)
-
----
-
-## Isolation and characterization of soil bacteria from an abandoned coal mine in southeast Kansas
-
-[Source](https://bioone.org/journals/transactions-of-the-kansas-academy-of-science/volume-123/issue-3-4/062.123.0305/Isolation-and-Characterization-of-soil-Bacteria-from-an-Abandoned-Coal/10.1660/062.123.0305.short)
+10.1038/s41586-020-2881-9
 
 ---
 
-## Understanding building-occupant-microbiome interactions toward healthy built environments
+## Infant Skin Bacterial Communities Vary by Skin Site and Infant Age across Populations in Mexico and the United States.
+ 04.11.2020, _MB Manus, S Kuthyar, AG Perroni-Marañón, A Núñez-de la Mora, KR Amato_
 
-[Source](https://link.springer.com/article/10.1007/s11783-020-1357-3)
 
----
+Daily practices put humans in close contact with the surrounding environment, and differences in these practices have an impact on human physiology, development, and health. There is mounting evidence that the microbiome represents an interface that mediates interactions between the human body and the environment. In particular, the skin microbiome serves as the primary interface with the external environment and aids in host immune function by contributing as the first line of defense against pathogens. Despite these important connections, we have only a basic understanding of how the skin microbiome is first established, or which environmental factors contribute to its development. To this end, this study compared the skin bacterial communities of infants (n = 47) living in four populations in Mexico and the United States that span the socioeconomic gradient, where we predicted that variation in physical and social environments would shape the infant skin microbiome. Results of 16S rRNA bacterial gene sequencing on 119 samples (armpit, hand, and forehead) showed that infant skin bacterial diversity and composition are shaped by population-level factors, including those related to socioeconomic status and household composition, and vary by skin site and infant age. Differences in infant-environment interactions, including with other people, appear to vary across the populations, likely influencing infant microbial exposures and, in turn, the composition of infant skin bacterial communities. These findings suggest that variation in microbial exposures stemming from the local environment in infancy can impact the establishment of the skin microbiome across body sites, with implications for developmental and health outcomes.IMPORTANCE This study contributes to the sparse literature on the infant skin microbiome in general, and the virtually nonexistent literature on the infant skin microbiome in a field setting. While microbiome research often addresses patterns at a national scale, this study addresses the influence of population-level factors, such as maternal socioeconomic status and contact with caregivers, on infant skin bacterial communities. This approach strengthens our understanding of how local variables influence the infant skin microbiome, and paves the way for additional studies to combine biological sample collection with questionnaires to adequately capture how specific behaviors dictate infant microbial exposures. Work in this realm has implications for infant care and health, as well as for investigating how the microbial communities of different body sites develop over time, with applications to specific health outcomes associated with the skin microbiome (e.g., immune system development or atopic dermatitis).
 
-## Microbial quality of smoked cow cheese “Parencia”
+[Source](https://msystems.asm.org/content/msys/5/6/e00834-20.full.pdf)
 
-[Source](http://spasb.ro/index.php/spasb/article/view/2647)
-
----
-
-## Virome of bat guano from nine northern California roosts
-
-[Source](https://jvi.asm.org/content/early/2020/10/22/JVI.01713-20.abstract)
+10.1128/mSystems.00834-20
 
 ---
 
-## The IMG/M data management and analysis system v.6.0: new tools and advanced capabilities
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa939/5943189)
-
----
-
-## PhANNs, a fast and accurate tool and web server to classify phage structural proteins.
- 02.11.2020, _VA Cantu, P Salamon, V Seguritan, J Redfield, D Salamon, RA Edwards, AM Segall_
+## Microbiome manipulation by a soil-borne fungal plant pathogen using effector proteins.
+ 03.11.2020, _NC Snelders, H Rovenich, GC Petti, M Rocafort, GCM van den Berg, JA Vorholt, JR Mesters, MF Seidl, R Nijland, BPHJ Thomma_
 
 
-For any given bacteriophage genome or phage-derived sequences in metagenomic data sets, we are unable to assign a function to 50-90% of genes, or more. Structural protein-encoding genes constitute a large fraction of the average phage genome and are among the most divergent and difficult-to-identify genes using homology-based methods. To understand the functions encoded by phages, their contributions to their environments, and to help gauge their utility as potential phage therapy agents, we have developed a new approach to classify phage ORFs into ten major classes of structural proteins or into an "other" category. The resulting tool is named PhANNs (Phage Artificial Neural Networks). We built a database of 538,213 manually curated phage protein sequences that we split into eleven subsets (10 for cross-validation, one for testing) using a novel clustering method that ensures there are no homologous proteins between sets yet maintains the maximum sequence diversity for training. An Artificial Neural Network ensemble trained on features extracted from those sets reached a test F1-score of 0.875 and test accuracy of 86.2%. PhANNs can rapidly classify proteins into one of the ten structural classes or, if not predicted to fall in one of the ten classes, as "other," providing a new approach for functional annotation of phage proteins. PhANNs is open source and can be run from our web server or installed locally.
+During colonization of their hosts, pathogens secrete effector proteins to promote disease development through various mechanisms. Increasing evidence shows that the host microbiome plays a crucial role in health, and that hosts actively shape their microbiomes to suppress disease. We proposed that pathogens evolved to manipulate host microbiomes to their advantage in turn. Here, we show that the previously identified virulence effector VdAve1, secreted by the fungal plant pathogen Verticillium dahliae, displays antimicrobial activity and facilitates colonization of tomato and cotton through the manipulation of their microbiomes by suppressing antagonistic bacteria. Moreover, we show that VdAve1, and also the newly identified antimicrobial effector VdAMP2, are exploited for microbiome manipulation in the soil environment, where the fungus resides in absence of a host. In conclusion, we demonstrate that a fungal plant pathogen uses effector proteins to modulate microbiome compositions inside and outside the host, and propose that pathogen effector catalogues represent an untapped resource for new antibiotics.
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007845)
+[Source](https://www.nature.com/articles/s41477-020-00799-5)
 
-10.1371/journal.pcbi.1007845
+10.1038/s41477-020-00799-5
 
 ---
 
-## Low-cost biofuel-powered autoclaving machine for use in rural health care centres.
- 29.10.2020, _YK Ahmed, MO Ibitoye, AR Zubair, JM Oladejo, SA Yahaya, SO Abdulsalam, RO Ajibola_
+## Assembly and variation of root-associated microbiota of rice during their vegetative growth phase with and without lindane pollutant
 
-
-Surgical site infections (SSIs) in developing countries have been linked to inadequate availability of sterilising equipment. Existing autoclaves are mostly unaffordable by rural healthcare practitioners, and when they managed to procure them, the electricity supply to power the autoclaves is epileptic. The solar-powered autoclave alternatives are too bulky with a very high initial cost. Hence, low-cost biofuel-powered autoclave becomes an attractive option, and this study sought to present the design, development and clinical evaluation of the device performance. With the global drive for the adoption of green energy, biofuel will not only reduce greenhouse gas emission but also provide revenue for local producers and reduce biomass associated health complications. The theoretical energy requirement for the sterilisation process was calculated. The standard pressure and temperature needed for sterilisation were tested to be 121 °C and 15 psi. The device was also clinically tested with Staphylococcus aureus bacteria obtained from the Department of Medical Microbiology and Parasitology, University of Ilorin Teaching Hospital using Brain heart Infusion Broth, MacConkey and Blood agar as cultured media. No bacteria growth was observed when the samples containing the bacteria colony were autoclaved by the designed autoclave and incubated at 37 °C for 2 d. Hence, the device met the mechanical and biological validation standards for effective sterilisation.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/03091902.2020.1825847)
-
-10.1080/03091902.2020.1825847
+[Source](https://link.springer.com/article/10.1007/s42832-020-0063-1)
 
 ---
 
-## ‘The Mould that Changed the World’: Quantitative and qualitative evaluation of children’s knowledge and motivation for behavioural change following participation in an antimicrobial resistance musical
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240471)
-
----
-
-## Harnessing the power of eDNA metabarcoding for the detection of deep-sea fishes.
- 04.11.2020, _B McClenaghan, N Fahner, D Cote, J Chawarski, A McCarthy, H Rajabi, G Singer, M Hajibabaei_
+## Restoring degraded microbiome function with self-assembled communities.
+ 05.11.2020, _CFG Landazuri, JS Gomez, JM Raaijmakers, BO Oyserman_
 
 
-The deep ocean is the largest biome on Earth and faces increasing anthropogenic pressures from climate change and commercial fisheries. Our ability to sustainably manage this expansive habitat is impeded by our poor understanding of its inhabitants and by the difficulties in surveying and monitoring these areas. Environmental DNA (eDNA) metabarcoding has great potential to improve our understanding of this region and to facilitate monitoring across a broad range of taxa. Here, we evaluate two eDNA sampling protocols and seven primer sets for elucidating fish diversity from deep sea water samples. We found that deep sea water samples (&gt; 1400 m depth) had significantly lower DNA concentrations than surface or mid-depth samples necessitating a refined protocol with a larger sampling volume. We recovered significantly more DNA in large volume water samples (1.5 L) filtered at sea compared to small volume samples (250 mL) held for lab filtration. Furthermore, the number of unique sequences (exact sequence variants; ESVs) recovered per sample was higher in large volume samples. Since the number of ESVs recovered from large volume samples was less variable and consistently high, we recommend the larger volumes when sampling water from the deep ocean. We also identified three primer sets which detected the most fish taxa but recommend using multiple markers due the variability in detection probabilities and taxonomic resolution among fishes for each primer set. Overall, fish diversity results obtained from metabarcoding were comparable to conventional survey methods. While eDNA sampling and processing need be optimized for this unique environment, the results of this study demonstrate that eDNA metabarcoding can facilitate biodiversity surveys in the deep ocean, require less dedicated survey effort per unit identification, and are capable of simultaneously providing valuable information on other taxonomic groups.
+The natural microbial functions of many soils are severely degraded. Current state-of-the-art technology to restore these functions is through the isolation, screening, formulation and application of microbial inoculants and synthetic consortia. These approaches have inconsistent success, in part due to the incompatibility between the biofertilizer, crop, climate, existing soil microbiome, and physicochemical characteristics of the soils. Here, we review the current state-of-the-art in biofertilization and identify two key deficiencies in current strategies: the difficulty in designing complex multispecies biofertilizers and the bottleneck scaling the production of complex multispecies biofertilizers. To address the challenge of producing scalable, multi-species biofertilizers, we propose to merge ecological theory with bioprocess engineering to produce 'self-assembled communities' enriched for particular functional guilds and adapted to a target soil and host plant. Using the nitrogen problem as an anchor, we review relevant ecology (microbial, plant and environmental), as well as reactor design strategies and operational parameters for the production of functionally enriched self-assembled communities. The use of self-assembled communities for biofertilization addresses two major hurdles in microbiome engineering: the importance of enriching microbes indigenous to (and targeted for) a specific environment, and the recognized potential benefits of microbial consortia over isolates (e.g. functional redundancy). The proposed community enrichment model could also be instrumental for other microbial functions such as P-solubilization, plant growth promotion or disease suppression.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236540)
+[Source](https://pubmed.ncbi.nlm.nih.gov/33150935/)
 
-10.1371/journal.pone.0236540
+10.1093/femsec/fiaa225
 
 ---
 
-## Aging and the Combined effects of ADRA2B and CB1 deletions on Affective Working Memory.
- 30.09.2020, _B Fairfield, N Mammarella, L Fontanella, A Sarra, M D'Aurora, L Stuppia, V Gatta_
+## Multi-species relationships in legume roots: From pairwise legume-symbiont interactions to the plant – microbiome – soil continuum
 
-
-_Aged, Aging, Emotions, Female, Genetic Predisposition to Disease, Genotype, Haplotypes, Heterozygote, Humans, Male, Memory, Short-Term, Mental Recall, Middle Aged, Polymorphism, Genetic, Receptor, Cannabinoid, CB1, Receptors, Adrenergic, alpha-2, Sequence Deletion_
-Many studies have found that memory for affective material is better than memory for neutral information and memory for positive material compared to negative material is better in older adults. Behavioral, neurophysiological as well as single polymorphism differences have been advanced to account for these effects. Here, we aimed to examine whether the combination of two polymorphisms (ADRA2B and CB1) in older adults influences active maintenance and manipulation of emotional information in aging working memory. We examined genotype data from 207 older adults (56 double deletion carriers, 116 single deletion carriers and 35 no deletion carriers) who performed a verbal operation span-like task with positive, negative and neutral words. We found that subjects carrying both ADRA2B and CB1 variants generally remembered a higher number of words. In addition, double carriers showed positivity effects while single carriers showed more general emotional enhancement effects, especially as strings lengthened. These findings are amongst the first to suggest a haplotype account of positivity effects in older adults' memory.
-
-[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=a5229f8d7d)
-
-10.1038/s41598-019-40108-5
+[Source](https://pubmed.ncbi.nlm.nih.gov/33155054/)
 
 ---
 
-## <span>Like</span>
+## Evidence supporting the microbiota–gut–brain axis in a songbird
 
-[Source](https://microbiomedigest.com/2020/11/05/november-5-2020/?like_comment=25669&_wpnonce=a5229f8d7d)
+[Source](https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2020.0430)
+
+---
+
+## Comparative Analysis of the Fecal Microbiota of Wild and Captive Beal’s Eyed Turtle (<em>Sacalia bealei</em>) by 16S rRNA Gene Sequencing
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.570890/full)
+
+---
+
+## High-Throughput Cultivation for the Selective Isolation of Acidobacteria From Termite Nests
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.597628/full)
+
+---
+
+## EUKulele: Taxonomic annotation of the unsung<br>eukaryotic microbes
+
+[Source](https://arxiv.org/ftp/arxiv/papers/2011/2011.00089.pdf)
+
+---
+
+## The antiSMASH database version 3: increased taxonomic coverage and new query features for modular enzymes
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa978/5957162)
+
+---
+
+## Microbiome: How to Navigate Through Matlab to Perform Machine Learning Analysis on Metagenomics Data
+
+[Source](https://www.youtube.com/watch?v=Q3ZCwV2touQ&feature=youtu.be)
+
+---
+
+##  Natural Products – Data Repositories Questionnair
+
+[Source](https://docs.google.com/forms/d/e/1FAIpQLSc9IP4BOaeenNFar0sFpxzDNhy9WjCoFc46jt0rXm1r7v2HQw/viewform)
 
 ---
 
