@@ -131,15 +131,9 @@ The natural microbial functions of many soils are severely degraded. Current sta
 
 ---
 
-## The antiSMASH database version 3: increased taxonomic coverage and new query features for modular enzymes.
- 05.11.2020, _K Blin, S Shaw, SA Kautsar, MH Medema, T Weber_
-
-
-Microorganisms produce natural products that are frequently used in the development of antibacterial, antiviral, and anticancer drugs, pesticides, herbicides, or fungicides. In recent years, genome mining has evolved into a prominent method to access this potential. antiSMASH is one of the most popular tools for this task. Here, we present version 3 of the antiSMASH database, providing a means to access and query precomputed antiSMASH-5.2-detected biosynthetic gene clusters from representative, publicly available, high-quality microbial genomes via an interactive graphical user interface. In version 3, the database contains 147 517 high quality BGC regions from 388 archaeal, 25 236 bacterial and 177 fungal genomes and is available at https://antismash-db.secondarymetabolites.org/.
+## The antiSMASH database version 3: increased taxonomic coverage and new query features for modular enzymes
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa978/5957162)
-
-10.1093/nar/gkaa978
 
 ---
 
