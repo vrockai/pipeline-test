@@ -88,45 +88,87 @@ Accumulating evidence has strengthened a link between dysbiotic gut microbiota a
 
 ---
 
-## FXR in the dorsal vagal complex is sufficient and necessary for upper small intestinal microbiome-mediated changes of TCDCA to alter insulin action in rats
+## FXR in the dorsal vagal complex is sufficient and necessary for upper small intestinal microbiome-mediated changes of TCDCA to alter insulin action in rats.
+ 22.10.2020, _SY Zhang, RJW Li, YM Lim, B Batchuluun, H Liu, TMZ Waise, TKT Lam_
+
+
+Conjugated bile acids are metabolised by upper small intestinal microbiota, and serum levels of taurine-conjugated bile acids are elevated and correlated with insulin resistance in people with type 2 diabetes. However, whether changes in taurine-conjugated bile acids are necessary for small intestinal microbiome to alter insulin action remain unknown.
 
 [Source](http://dx.doi.org/10.1136/gutjnl-2020-321757)
 
+10.1136/gutjnl-2020-321757
+
 ---
 
-## To the Land and Beyond: Crab Microbiomes as a Paradigm for the Evolution of Terrestrialization
+## To the Land and Beyond: Crab Microbiomes as a Paradigm for the Evolution of Terrestrialization.
+ 30.10.2020, _S Cannicci, S Fratini, N Meriggi, G Bacci, A Iannucci, A Mengoni, D Cavalieri_
+
+
+The transition to terrestrial environments by formerly aquatic species has occurred repeatedly in many animal phyla and lead to the vast diversity of extant terrestrial species. The differences between aquatic and terrestrial habitats are enormous and involved remarkable morphological and physiological changes. Convergent evolution of various traits is evident among phylogenetically distant taxa, but almost no information is available about the role of symbiotic microbiota in such transition. Here, we suggest that intertidal and terrestrial brachyuran crabs are a perfect model to study the evolutionary pathways and the ecological role of animal-microbiome symbioses, since their transition to land is happening right now, through a number of independent lineages. The microorganisms colonizing the gut of intertidal and terrestrial crabs are expected to play a major role to conquer the land, by reducing water losses and permitting the utilization of novel food sources. Indeed, it has been shown that the microbiomes hosted in the digestive system of terrestrial isopods has been critical to digest plant items, but nothing is known about the microbiomes present in the gut of truly terrestrial crabs. Other important physiological regulations that could be facilitated by microbiomes are nitrogen excretion and osmoregulation in the new environment. We also advocate for advances in comparative and functional genomics to uncover physiological aspects of these ongoing evolutionary processes. We think that the multidisciplinary study of microorganisms associated with terrestrial crabs will shed a completely new light on the biological and physiological processes involved in the sea-land transition.
 
 [Source](https://doi.org/10.3389/fmicb.2020.575372)
 
+10.3389/fmicb.2020.575372
+
 ---
 
-## The direct and indirect effects of environmental toxicants on the health of bumblebees and their microbiomes
+## The direct and indirect effects of environmental toxicants on the health of bumblebees and their microbiomes.
+ 28.10.2020, _JA Rothman, KA Russell, L Leger, QS McFrederick, P Graystock_
+
+
+Bumblebees (Bombus spp.) are important and widespread insect pollinators, but the act of foraging on flowers can expose them to harmful pesticides and chemicals such as oxidizers and heavy metals. How these compounds directly influence bee survival and indirectly affect bee health via the gut microbiome is largely unknown. As toxicants in floral nectar and pollen take many forms, we explored the genomes of bee-associated microbes for their potential to detoxify cadmium, copper, selenate, the neonicotinoid pesticide imidacloprid, and hydrogen peroxide-which have all been identified in floral nectar and pollen. We then exposed Bombus impatiens workers to varying concentrations of these chemicals via their diet and assayed direct effects on bee survival. Using field-realistic doses, we further explored the indirect effects on bee microbiomes. We found multiple putative genes in core gut microbes that may aid in detoxifying harmful chemicals. We also found that while the chemicals are largely toxic at levels within and above field-realistic concentrations, the field-realistic concentrations-except for imidacloprid-altered the composition of the bee microbiome, potentially causing gut dysbiosis. Overall, our study shows that chemicals found in floral nectar and pollen can cause bee mortality, and likely have indirect, deleterious effects on bee health via their influence on the bee microbiome.
 
 [Source](https://doi.org/10.1098/rspb.2020.0980)
 
+10.1098/rspb.2020.0980
+
 ---
 
-## A Very Hungry Caterpillar: Polyethylene Metabolism and Lipid Homeostasis in Larvae of the Greater Wax Moth ( Galleria mellonella)
+## A Very Hungry Caterpillar: Polyethylene Metabolism and Lipid Homeostasis in Larvae of the Greater Wax Moth (Galleria mellonella).
+ 26.10.2020, _CM LeMoine, HC Grove, CM Smith, BJ Cassone_
+
+
+Larvae of the greater wax moth (Galleria mellonella) possess the remarkable ability to consume and rapidly degrade low-density polyethylene. Previous studies have investigated the involvement of the animal's microbiome, but little is known about the host's actual role and if it benefits from biodegradation of this synthetic polymer. We used a combination of RNA sequencing and biochemical approaches to assess caterpillars fed honeycomb, fed polyethylene (PE), or starved for up to 72 h. Sequencing of gut transcripts revealed PE-fed larvae retain an expression profile consistent with normal intestinal function but also show distinct molecular signatures indicative of enhanced fatty acid metabolism (FAM). Further, quantification of total lipid content validated the impact of a PE diet on FAM; in contrast to lipid-depleted starved animals, PE-fed caterpillars maintain lipid reserves similar to honeycomb-fed larvae. Additionally, we found the activity of putative enzymes involved in lipid oxidation (e.g., alcohol dehydrogenase) are considerably higher in PE-fed larvae, indicating that on a functional level, these caterpillars are inducing pathways to effectively metabolize PE. Overall, we put forward a hypothesized model where the similarity in chemical structure between PE and its natural honeycomb diet has endowed larvae of G. mellonella with the extraordinary capability to derive energy from PE as an exclusive food source through pre-existing metabolic pathways.
 
 [Source](https://doi.org/10.1021/acs.est.0c04386)
 
+10.1021/acs.est.0c04386
+
 ---
 
-## Deciphering the Microbial Taxonomy and Functionality of Two Diverse Mangrove Ecosystems and Their Potential Abilities To Produce Bioactive Compounds
+## Deciphering the Microbial Taxonomy and Functionality of Two Diverse Mangrove Ecosystems and Their Potential Abilities To Produce Bioactive Compounds.
+ 07.11.2020, _S Liao, Y Wang, H Liu, G Fan, SK Sahu, T Jin, J Chen, P Zhang, L Gram, ML Strube, Q Shi, SMY Lee, X Liu_
+
+
+Mangroves, as important and special ecosystems, create unique ecological environments for examining the microbial gene capacity and potential for producing bioactive compounds. However, little is known about the biogeochemical implications of microbiomes in mangrove ecosystems, especially the variations between pristine and anthropogenic mangroves. To elucidate this, we investigated the microbial taxonomic and functional shifts of the mangrove microbiomes and their potential for bioactive compounds in two different coastal mangrove ecosystems in southern China. A gene catalogue, including 87 million unique genes, was constructed, based on deep shotgun metagenomic sequencing. Differentially enriched bacterial and archaeal taxa between pristine mangroves (Guangxi) and anthropogenic mangroves (Shenzhen) were found. The Nitrospira and ammonia-oxidizing archaea, specifically, were more abundant in Shenzhen mangroves, while sulfate-reducing bacteria and methanogens were more abundant in Guangxi mangroves. The results of functional analysis were consistent with the taxonomic results, indicating that the Shenzhen mangrove microbiome has a higher abundance of genes involved in nitrogen metabolism while the Guangxi mangrove microbiome has a higher capacity for sulfur metabolism and methanogenesis. Biosynthetic gene clusters were identified in the metagenome data and in hundreds of de novo reconstructed nonredundant microbial genomes, respectively. Notably, we found different biosynthetic potential in different taxa, and we identified three high quality and novel Acidobacteria genomes with a large number of BGCs. In total, 67,278 unique genes were annotated with antibiotic resistance, indicating the prevalence and persistence in multidrug-resistant genes in the mangrove microbiome.IMPORTANCE This study comprehensively described the taxonomy and functionality of mangrove microbiomes, including their capacity for secondary metabolite biosynthesis and their ability to resist antibiotics. The microbial taxonomic and functional characteristics differed between geographical locations, corresponding to the environmental condition of two diverse mangrove regions. A large number of microbial biosynthetic gene clusters encoding novel bioactivities were found, and this can serve as a valuable resource to guide novel bioactive compound discovery for potential clinical uses.
 
 [Source](https://msystems.asm.org/content/5/5/e00851-19)
 
+10.1128/mSystems.00851-19
+
 ---
 
-## Introducing the Mangrove Microbiome Initiative: Identifying Microbial Research Priorities and Approaches To Better Understand, Protect, and Rehabilitate Mangrove Ecosystems
+## Introducing the Mangrove Microbiome Initiative: Identifying Microbial Research Priorities and Approaches To Better Understand, Protect, and Rehabilitate Mangrove Ecosystems.
+ 28.10.2020, _SM Allard, MT Costa, AN Bulseco, V Helfer, LGE Wilkins, C Hassenrück, K Zengler, M Zimmer, N Erazo, JL Mazza Rodrigues, N Duke, VMM Melo, I Vanwonterghem, H Junca, HM Makonde, DJ Jiménez, TCL Tavares, M Fusi, D Daffonchio, CM Duarte, RS Peixoto, AS Rosado, JA Gilbert, J Bowman_
+
+
+Mangrove ecosystems provide important ecological benefits and ecosystem services, including carbon storage and coastline stabilization, but they also suffer great anthropogenic pressures. Microorganisms associated with mangrove sediments and the rhizosphere play key roles in this ecosystem and make essential contributions to its productivity and carbon budget. Understanding this nexus and moving from descriptive studies of microbial taxonomy to hypothesis-driven field and lab studies will facilitate a mechanistic understanding of mangrove ecosystem interaction webs and open opportunities for microorganism-mediated approaches to mangrove protection and rehabilitation. Such an effort calls for a multidisciplinary and collaborative approach, involving chemists, ecologists, evolutionary biologists, microbiologists, oceanographers, plant scientists, conservation biologists, and stakeholders, and it requires standardized methods to support reproducible experiments. Here, we outline the Mangrove Microbiome Initiative, which is focused around three urgent priorities and three approaches for advancing mangrove microbiome research.
 
 [Source](https://msystems.asm.org/content/5/5/e00658-20)
 
+10.1128/mSystems.00658-20
+
 ---
 
-## The water chemistry and microbiome of household wells in Medawachchiya, Sri Lanka, an area with high prevalence of chronic kidney disease of unknown origin (CKDu)
+## The water chemistry and microbiome of household wells in Medawachchiya, Sri Lanka, an area with high prevalence of chronic kidney disease of unknown origin (CKDu).
+ 30.10.2020, _LK McDonough, KT Meredith, C Nikagolla, RJ Middleton, JK Tan, AV Ranasinghe, F Sierro, RB Banati_
+
+
+Chronic kidney disease (CKD) of unknown etiology (CKDu) mostly affects agricultural communities in Central America, South Asia, Africa, but likely also in North America and Australia. One such area with increased CKDu prevalence is the Medawachchiya District Secretariat Division of the Anuradhapura District in the North Central Province of Sri Lanka. Recent research has focused on the presence of various microbial pathogens in drinking water as potential causal or contributing factors to CKDu, yet no study to date has performed a more comprehensive microbial and water chemistry assessment of household wells used for domestic water supply in areas of high CKDu prevalence. In this study, we describe the chemical composition and total microbial content in 30 domestic household wells in the Medawachchiya District Secretariat Division. While the chemical composition in the tested wells mostly lies within standard drinking water limits, except for high levels of fluoride (F), magnesium (Mg), sodium (Na), chloride (Cl) and calcium (Ca) in some samples, we find a frequent presence of cyanotoxin-producing Microcystis, confirming earlier studies in Sri Lanka. Since the total microbial content of drinking water also directly influences the composition of the human gut microbiome, it can be considered an important determinant of health. Several bacterial phyla were previously reported in the gut microbiome of patients with CKD. Using these bacteria phyla to define operational taxonomic units, we found that these bacteria also occur in the microbiome of the sampled well water. Based on available environmental data, our study demonstrates associations between the abundances of these bacteria with geographical distribution, well water temperature and likely fertilizer use in the local surface water catchment area of the individual household wells. Our results reinforce the recommendation that household wells with stagnant or infrequently used water should be purged prior to use for drinking water, bathing and irrigation. The latter is suggested because of the reported potential accumulation of bacterial toxins by agricultural crops. The observation that bacteria previously found in chronic kidney disease patients are also present in household wells requires a more detailed systematic study of both the human gut and drinking water microbiomes in CKDu patients, in relation to disease prevalence and progression.
 
 [Source](https://doi.org/10.1038/s41598-020-75336-7)
+
+10.1038/s41598-020-75336-7
 
 ---
 
