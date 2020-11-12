@@ -1,78 +1,84 @@
-## Immunity : Let’s Talk Solutions – a panel talk by Workout.lk
+## Strong influence of vertebrate host phylogeny on gut archaeal diversity
 
-[Source](https://www.google.com/url?rct=j&sa=t&url=https://www.nation.lk/online/immunity-let-s-talk-solutions-a-panel-talk-by-workout-lk-21241.html&ct=ga&cd=CAEYBCoTMTk3NzU1NDczOTQwNDM4MTEwMzIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNFFgKBWBRXVzQ0x4B0PnbDoE8JkAg)
-
----
-
-## The oxidative stress response and virulence of pathogenic Leptospira are controlled by the interplay of two peroxide stress regulators
-
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.06.371039v1??collection)
+[Source](https://doi.org/10.1101/2020.11.10.376293)
 
 ---
 
-## Gut Microbiome Changes Different in Ankylosing Spondylitis and IBD, Associated With Disease
+## <strong>A genomic catalog of Earth’s microbiomes</strong>
 
-[Source](https://www.google.com/url?rct=j&sa=t&url=https://www.rheumatologyadvisor.com/home/conference-highlights/acr-convergence-2020/gut-microbiome-changes-different-associated-with-disease-activity-in-as-and-ibd/&ct=ga&cd=CAEYACoUMTI1MjY3MDk5MDQxMjg0MTQyODMyGjQ5ZGY0MDY3NTljZWEyZTA6Y29tOmVuOlVT&usg=AFQjCNEQtxZM-43ht_9fg7Q3nrz942SdAA)
-
----
-
-## Alternative stable states in the intestinal ecosystem: proof of concept in a rat model and a perspective of therapeutic implications
-
-[Source](http://click.springernature.com/f/a/fKMDw2NaKMqrfiVbwtfFag~~/AAEGiQA~/RgRhi4sPP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjAtMDA5MzMtN1cDc3BjQgoAKA8GqV-iPhl8UhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
+[Source](https://doi.org/10.1038/s41587-020-0718-6)
 
 ---
 
-## What if a bee’s identity passes through its gut? 
+## Vaginal microbiota and the potential of <em>Lactobacillus</em> derivatives in maintaining vaginal health
 
-[Source](https://www.google.com/url?rct=j&sa=t&url=https://rejerusalem.com/287291/%25F0%259F%2593%25B0-what-if-a-bees-identity-passes-through-its-gut/&ct=ga&cd=CAEYAioTMTk3NzU1NDczOTQwNDM4MTEwMzIaNDlkZjQwNjc1OWNlYTJlMDpjb206ZW46VVM&usg=AFQjCNF8i9qzrTiRevHB2yFujZO6cWB5Sw)
-
----
-
-## Rhinovirus reduces the severity of subsequent respiratory viral infections, which is associated with dampened inflammatory responses
-
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.06.371005v1??collection)
+[Source](https://doi.org/10.1186/s12934-020-01464-4)
 
 ---
 
-## The host exocyst complex is targeted by a conserved bacterial type III effector protein that promotes virulence
+## <em>Fusobacterium Nucleatum</em> Predicts a Risk for Esophageal Squamous Cell Carcinoma
 
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.06.371260v1??collection)
-
----
-
-## Influence of plant host and organ, management strategy, and spore traits on microbiome composition
-
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.07.10.178426v2??collection)
+[Source](https://doi.org/10.21203/rs.3.rs-101163/v1)
 
 ---
 
-## Resuscitation of soil microbiota after &gt; 70-years of desiccation
+## Human reference gut microbiome comprising 5,414 prokaryotic species, including newly assembled genomes from under-represented Asian metagenomes
 
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.06.371641v1??collection)
-
----
-
-## The unintended consequences of a surge in antibiotic resistance when removing wastewater drain biofilm
-
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.06.372326v1??collection)
+[Source](https://doi.org/10.1101/2020.11.09.375873)
 
 ---
 
-## Bacteroidetes contribute to the carbon and nutrient cycling of deep sea through breaking down diverse glycans
+## Genetic Evidence for Selective Transfer of Microbes Between the International Space Station and an Astronaut
 
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.07.372516v1??collection)
-
----
-
-## African Swine Fever Virus CD2v protein promotes β-Interferon expression and apoptosis in swine cells
-
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.11.06.372417v1??collection)
+[Source](https://doi.org/10.1101/2020.11.10.376954)
 
 ---
 
-## Phage recombination drives evolution of spore-forming Bacilli
+## An infectious diseases perspective on the microbiome and allogeneic stem cell transplant
 
-[Source](http://www.biorxiv.org/cgi/content/abstract/2020.05.06.055103v3??collection)
+[Source](https://doi.org/10.1097/QCO.0000000000000683)
+
+---
+
+## Longitudinal effects of antibiotics and fecal transplant on lemur gut microbiota structure, associations, and resistomes
+
+[Source](https://doi.org/10.1101/2020.11.11.378349)
+
+---
+
+## Pinto beans modulate the gut microbiome, augment MHC II protein, and antimicrobial peptide gene expression in mice fed a normal or western-style diet
+
+[Source](https://doi.org/10.1016/j.jnutbio.2020.108543)
+
+---
+
+## Contagious Antibiotic Resistance: Plasmid Transfer Among Bacterial Residents of the Zebrafish Gut
+
+[Source](https://doi.org/10.1101/2020.11.09.375964)
+
+---
+
+## Shifts in microbial diversity, composition, and functionality in the gut and genital microbiome during a natural SIV infection in vervet monkeys
+
+[Source](https://doi.org/10.1186/s40168-020-00928-4)
+
+---
+
+## A multi-disciplinary comparison of great ape gut microbiota in a central African forest and European zoo
+
+[Source](https://doi.org/10.1038/s41598-020-75847-3)
+
+---
+
+## AGORA2: Large scale reconstruction of the microbiome highlights wide-spread drug-metabolising capacities
+
+[Source](https://doi.org/10.1101/2020.11.09.375451)
+
+---
+
+## Benchmarking DNA isolation kits used in analyses of the urinary microbiome
+
+[Source](https://doi.org/10.1101/2020.11.10.375279)
 
 ---
 
