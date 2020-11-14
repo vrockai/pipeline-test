@@ -285,9 +285,15 @@ The human microbiota are complex systems with important roles in our physiologic
 
 ---
 
-## Light-Activated Electron Transfer and Catalytic Mechanism of Carnitine Oxidation by Rieske-type Oxygenase from Human Microbiota
+## Light-Activated Electron Transfer and Catalytic Mechanism of Carnitine Oxidation by Rieske-type Oxygenase from Human Microbiota.
+ 12.11.2020, _M Shanmugam, M Quareshy, A Cameron, TDH Bugg, Y Chen_
+
+
+Multi-component, non-heme iron-dependent oxygenases catalyse a range of biochemical processes, as extensive as those found in heme chemistry. Oxidation of quaternary ammonium substrate carnitine by Acinetobacter baumannii (Ab) oxygenase CntA/ reductase CntB is implicated in the onset of human cardiovascular disease. However, detailed mechanistic understanding of the CntAB reaction is not known. Here, we develop a blue-light (365 nm) activation of NADH coupled to electron paramagnetic resonance (EPR) measurements to study electron transfer from the excited state of NADH to the oxidised, Rieske-type, [2Fe-2S] 2+ cluster in the AbCntA oxygenase domain with and without the substrate, carnitine. Further electron transfer from one-electron reduced, Rieske-type [2Fe-2S] 1+ centre in AbCntA-WT to the mono-nuclear, non-heme iron centre via the bridging glutamate E205 and subsequent catalysis occurs only in the presence of carnitine. The reaction mechanism for photoactivated, NADH-driven carnitine oxidation is different from the reaction driven by the AbCntB reductase partner. The electron transfer process in the AbCntA-E205A mutant is severely affected, which plausibly accounts for the significant loss of catalytic activity in the AbCntA-E205A mutant. The NADH photo-activation coupled with EPR is broadly applicable to trap reactive intermediates at low temperature and creates a new method to characterise elusive intermediates in multiple redox-centre containing proteins.
 
 [Source](https://doi.org/10.1002/anie.202012381)
+
+10.1002/anie.202012381
 
 ---
 
