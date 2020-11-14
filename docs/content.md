@@ -94,7 +94,7 @@ The origin of inter-individual variability in the action of bioactive small mole
 ---
 
 ## Gut Microbiota Changes and Their Relationship with Inflammation in Patients with Acute and Chronic Insomnia.
- 12.11.2020, _Y Li, B Zhang, Y Zhou, D Wang, X Liu, L Li, T Wang, Y Zhang, M Jiang, H Tang, LV Amsel, F Fan, CW Hoven_
+ 13.11.2020, _Y Li, B Zhang, Y Zhou, D Wang, X Liu, L Li, T Wang, Y Zhang, M Jiang, H Tang, LV Amsel, F Fan, CW Hoven_
 
 
 The major purpose of this study was to detect the changes in gut microbiota composition and inflammatory cytokines production associated with acute and chronic insomnia. This study also evaluated the relationship between gut microbiota changes and increased inflammatory cytokines in insomnia patients.
