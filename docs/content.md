@@ -28,6 +28,18 @@ Daily practices put humans in close contact with the surrounding environment, an
 
 ---
 
+## Identification of Vaginal Microbial Communities Associated with Extreme Cervical Shortening in Pregnant Women.
+ 13.11.2020, _M Di Paola, V Seravalli, S Paccosi, C Linari, A Parenti, C De Filippo, M Tanturli, F Vitali, MG Torcia, M Di Tommaso_
+
+
+The vaginal microbiota plays a critical role in pregnancy. Bacteria from Lactobacillus spp. are thought to maintain immune homeostasis and modulate the inflammatory responses against pathogens implicated in cervical shortening, one of the risk factors for spontaneous preterm birth. We studied vaginal microbiota in 46 pregnant women of predominantly Caucasian ethnicity diagnosed with short cervix (&lt;25 mm), and identified microbial communities associated with extreme cervical shortening (≤10 mm). Vaginal microbiota was defined by 16S rRNA gene sequencing and clustered into community state types (CSTs), based on dominance or depletion of Lactobacillus spp. No correlation between CSTs distribution and maternal age or gestational age was revealed. CST-IV, dominated by aerobic and anaerobic bacteria different than Lactobacilli, was associated with extreme cervical shortening (odds ratio (OR) = 15.0, 95% confidence interval (CI) = 1.56-14.21; p = 0.019). CST-III (L. iners-dominated) was also associated with extreme cervical shortening (OR = 6.4, 95% CI = 1.32-31.03; p = 0.02). Gestational diabetes mellitus (GDM) was diagnosed in 10/46 women. Bacterial richness was significantly higher in women experiencing this metabolic disorder, but no association with cervical shortening was revealed by statistical analysis. Our study confirms that Lactobacillus-depleted microbiota is significantly associated with an extremely short cervix in women of predominantly Caucasian ethnicity, and also suggests an association between L. iners-dominated microbiota (CST III) and cervical shortening.
+
+[Source](https://www.mdpi.com/2077-0383/9/11/3621)
+
+10.3390/jcm9113621
+
+---
+
 ## Identification of vaginal microbial communities associated with extreme cervical shortening in pregnant women
 
 [Source](https://www.mdpi.com/2077-0383/9/11/3621)
