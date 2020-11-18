@@ -10,15 +10,15 @@ Growing literature details the critical importance of the microbiome in the modu
 
 ---
 
-## Alterations of Oral Microbiota in Chinese Patients With Esophageal Cancer.
- 17.11.2020, _Q Zhao, T Yang, Y Yan, Y Zhang, Z Li, Y Wang, J Yang, Y Xia, H Xiao, H Han, C Zhang, W Xue, H Zhao, H Chen, B Wang_
+## Porphyromonas gingivalis promotes tumor progression in esophageal squamous cell carcinoma.
+ 17.11.2020, _MF Chen, MS Lu, CC Hsieh, WC Chen_
 
 
-Emerging evidence supports that oral microbiota are associated with health and diseases of the esophagus. How oral microbiota change in Chinese patients with esophageal cancer (EC) is unknown, neither is their biomarker role. For an objective to understand alterations of oral microbiota in Chinese EC patients, we conducted a case-control study including saliva samples from 39 EC patients and 51 healthy volunteers. 16S rDNA genes of V3-V4 variable regions were sequenced to identify taxon. Relationship between oral flora and disease was analyzed according to alpha diversity and beta diversity. Resultantly, the Shannon index (p = 0.2) and the Simpson diversity index (p = 0.071) were not significant between the two groups. Yet we still found several species different in abundance between the two groups. For the EC group, the most significantly increased taxa were Firmicutes, Negativicutes, Selenomonadales, Prevotellaceae, Prevotella, and Veillonellaceae, while the most significantly decreased taxa were Proteobacteria, Betaproteobacteria, Neisseriales, Neisseriaceae, and Neisseria. In conclusion, there are significant alterations in abundance of some oral microbiomes between the EC patients and the healthy controls in the studied Chinese participants, which may be meaningful for predicting the development of EC, and the potential roles of these species in EC development deserve further studies.
+Increasing evidence indicates that the microbiome may influence tumor growth and modulate the tumor microenvironment of gastrointestinal cancers. However, the role of oral bacteria in the development of esophageal squamous cell carcinoma (EsoSCC) has remained unclear. Herein, we investigated the relationship between the periodontal pathogen Porphyromonas gingivalis and EsoSCC.
 
 [Source](https://www.karger.com/Article/FullText/510979)
 
-10.3389/fcimb.2020.541144
+10.1007/s13402-020-00573-x
 
 ---
 
