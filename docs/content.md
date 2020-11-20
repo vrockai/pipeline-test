@@ -232,52 +232,15 @@ Bacteria and fungi are of uttermost importance in determining environmental and 
 
 ---
 
-## Development and Validation of a Modified Full Age Spectrum Creatinine-Based Equation to Estimate Glomerular Filtration Rate : A Cross-sectional Analysis of Pooled Data.
- 09.11.2020, _H Pottel, J Björk, M Courbebaisse, L Couzi, N Ebert, BO Eriksen, RN Dalton, L Dubourg, F Gaillard, C Garrouste, A Grubb, L Jacquemont, M Hansson, N Kamar, EJ Lamb, C Legendre, K Littmann, C Mariat, T Melsom, L Rostaing, AD Rule, E Schaeffner, PO Sundin, S Turner, A Bökenkamp, U Berg, K Åsling-Monemi, L Selistre, A Åkesson, A Larsson, U Nyman, P Delanaye_
-
-
-The Chronic Kidney Disease in Children Study (CKiD) equation for children and the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation for adults are recommended serum creatinine (SCr)-based calculations for estimating glomerular filtration rate (GFR). However, these equations, as well as their combination, have limitations, notably the problem of implausible changes in GFR during the transition from adolescence to adulthood and overestimation of GFR in young adults. The full age spectrum (FAS) equation addresses these issues but overestimates GFR when SCr levels are low.
-
-[Source](https://twitter.com/BlackInImmuno/)
-
-10.7326/M20-4366
-
----
-
 ## Black in Immuno
 
 [Source](https://twitter.com/BlackInImmuno/)
 
 ---
 
-## Prevalence and antibiotic resistance of Salmonella spp. in South Punjab-Pakistan.
- 19.11.2020, _A Qamar, T Ismail, S Akhtar_
-
-
-Present study aimed at investigating the magnitude of the prevalence and antibiotic resistance among four Salmonella spp. i.e., S. typhi, S. paratyphi A, S. paratyphi B and S. typhimurium. Raw milk and environment samples were collected from the five districts of southern part of the province of Punjab in Pakistan i.e., Multan, Bahawalpur, Lodhran, Dera Ghazi Khan and Muzaffargarh. Extent of antibiotic resistance was also determined and classified as resistant, intermediate and susceptible. District-wise prevalence data on Salmonella spp. in milk and environmental samples indicated higher S. typhi, S. paratyphi B and S. typhimurium count in Bahawalpur, D.G. Khan and Muzaffargarh districts, respectively. Amongst 13 tested antibiotics, chloramphenicol and ofloxacin were found to be the most susceptible against Salmonella spp. Increased emergence of antibacterial resistance was noted with respect to the type of antibiotics among Salmonella spp. isolates. The study suggests serious interventions to be practiced by the farmers and raw milk vendors in animal husbandry and milk marketing, respectively to curb the burden of Salmonella spp. prevalence in milk. Further, active engagement of animal health division and enforcement agencies to ensure sagacious use of antibiotics at farm level may also help in containment of antimicrobial resistance in Salmonella spp.
-
-[Source](https://resistomap.com/webinar-series-november)
-
-10.1371/journal.pone.0232382
-
----
-
 ## Antibiotic Resistance in the Environment
 
 [Source](https://resistomap.com/webinar-series-november)
-
----
-
-## A commentary on podiatry during the Covid-19 pandemic : Podiatry during the Covid-19 pandemic.
- 23.10.2020, _P Chadwick, L Ambrose, R Barrow, M Fox_
-
-
-_Aged, Aged, 80 and over, Betacoronavirus, Biomedical Technology, Coronavirus Infections, Delivery of Health Care, Foot Diseases, Humans, Pandemics, Pliability, Pneumonia, Viral, Podiatry, Risk Reduction Behavior, United Kingdom_
-The arrival of the novel coronavirus (SARS-CoV-2) has impacted the many aspects of modern life, especially, in the immediate term, the delivery of healthcare.
-
-[Source](https://academic.oup.com/fems-journals/pages/webinars)
-
-10.1186/s13047-020-00425-9
 
 ---
 
