@@ -16,15 +16,15 @@ Dental implants are installed in an increasing number of patients. Mucositis and
 
 ---
 
-## Friend or foe? The roles of inulin-type fructans.
- 13.11.2020, _S Man, T Liu, Y Yao, Y Lu, L Ma, F Lu_
+## 4,9-diaminoacridines and 4-aminoacridines as dual-stage antiplasmodial hits.
+ 20.11.2020, _M Fonte, N Tassi, D Fontinha, I Bouzón-Arnáiz, R Ferraz, MJ Araújo, X Fernàndez-Busquets, M Prudêncio, P Gomes, C Teixeira_
 
 
-Inulin-type fructans (ITFs) as functional fructans and soluble dietary fiber are a mixture of inulin, oligofructose and fructooligosaccharide with β configuration. They are modified by gut microbiota at the end of ileum, subsequently, improve digestive system, metabolic syndrome, immune system and inflammatory diseases, and prevent against infection and cancer. However, it has been reported that inadequate consumption of ITFs aggravates the development of non-alcoholic fatty liver disease, results in gastrointestinal symptoms, liver cancer and intestinal inflammation. Therefore, this review summarizes the health benefits, pharmaceutical applications and safety evaluation of ITFs, which would direct their rational applications.
+Multi-stage drugs have been prioritized in antimalarial drug discovery, as targeting more than one process in the Plasmodium life cycle is likely to increase efficiency, while decreasing the chances of emergence of resistance by the parasite. Herein, we disclose two novel acridine-based families of compounds that combine the structural features of primaquine and chloroquine. Compounds prepared and studied thus far retained the in vitro activity displayed by the parent drugs against the erythrocytic stages of chloroquine-sensitive and -resistant P. falciparum strains, and against the hepatic stages of P. berghei , hence acting as dual-stage antiplasmodial hits.
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009026)
 
-10.1016/j.carbpol.2020.117155
+10.1002/cmdc.202000740
 
 ---
 
@@ -106,15 +106,9 @@ Inulin-type fructans (ITFs) as functional fructans and soluble dietary fiber are
 
 ---
 
-## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens.
- 20.11.2020, _S Daniels, J Hepworth, M Moore-Colyer_
-
-
-Respirable dust in conserved forages can pose problems with equid respiratory health, thus soaking (W) and high temperature steaming (HTS) are employed to reduce the levels in hay. The aim of this study was to characterize the viable bacterial community profile of four hays from two different locations in UK following pre-feeding wetting regimens. Hypothesis: (1) Viable microbial community profile of hays will not differ between different pre-feeding regimens. (2) Hay type and location will not influence microbial community profile. Replicates of each of the four hays were subjected to dry (D), HTS conducted in a HG600, W by submergence in 45 L tap water, 16°C for 12 hours. From each post-treated hay, 100 g samples were chopped and half (n = 36) treated with Propidium monoazide dye, the remaining half untreated. Bacterial DNA were extracted for profiling the V4-V5 region of 16S rRNA gene from all 72 samples, then sequenced on the Illumina MiSeq platform. Bioinformatics were conducted using QIIME pipeline (v1.9.1). Linear discriminate analysis effect size (LEfSe) was used to identify differences in operational taxonomic units and predicted metabolic pathways between hays and regimens. HTS reduced proportions of microbiota compared to W and D hay (P &lt; 0.001, df 3, F 13.91), viability was reduced within regimens (P = 0.017, df 1, F 5.73). Soaking reduced diversity within and between regimens. Core bacterial communities differed between hays and regimens, however pre-feeding regimen had the greatest effect on the bacterial community profile. W and HTS reduced viable bacteria (P&lt; 0.05) known to cause respiratory disease, for HTS both respiratory and dental disease, with the greatest reductions overall from HTS without reducing bacterial diversity. Soaking increased Gram-negative bacteria and reduced bacterial diversity. Collectively these findings add to a body of evidence that suggest HTS is the most suitable pre-feeding regimen of hay for equid health.
+## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242373)
-
-10.1371/journal.pone.0242373
 
 ---
 
@@ -265,18 +259,6 @@ Bacteria and fungi are of uttermost importance in determining environmental and 
 ## Moving from wet to dry with Phil Ashton 
 
 [Source](https://quadram.ac.uk/micro-bioinformatics-podcast/)
-
----
-
-## Benchmarking the Orbitrap Tribrid Eclipse for Next Generation Multiplexed Proteomics.
- 10.08.2020, _Q Yu, JA Paulo, J Naverrete-Perea, GC McAlister, JD Canterbury, DJ Bailey, AM Robitaille, R Huguet, V Zabrouskov, SP Gygi, DK Schweppe_
-
-
-The rise of sample multiplexing in quantitative proteomics for the dissection of complex phenotypic comparisons has been advanced by the development of ever more sensitive and robust instrumentation. Here, we evaluated the utility of the Orbitrap Eclipse Tribrid mass spectrometer (advanced quadrupole filter, optimized FTMS scan overhead) and new instrument control software features (Precursor Fit filtering, TurboTMT and Real-time Peptide Search filtering). Multidimensional comparisons of these novel features increased total peptide identifications by 20% for SPS-MS3 methods and 14% for HRMS2 methods. Importantly Real-time Peptide Search filtering enabled a ∼2× throughput improvement for quantification. Across the board, these sensitivity increases were attained without sacrificing quantitative accuracy. New hardware and software features enable more efficient characterization in pursuit of comparative whole proteome insights.
-
-[Source](https://bioinformatics.chat/rtq-proteomics)
-
-10.1021/acs.analchem.9b05685
 
 ---
 
