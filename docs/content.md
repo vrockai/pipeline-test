@@ -106,39 +106,21 @@ Inulin-type fructans (ITFs) as functional fructans and soluble dietary fiber are
 
 ---
 
-## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens.
- 17.11.2020, _S Daniels, J Hepworth, M Moore-Colyer_
-
-
-Respirable dust in conserved forages can pose problems with equid respiratory health, thus soaking (W) and high temperature steaming (HTS) are employed to reduce the levels in hay. The aim of this study was to characterize the viable bacterial community profile of four hays from two different locations in UK following pre-feeding wetting regimens. Hypothesis: (1) Viable microbial community profile of hays will not differ between different pre-feeding regimens. (2) Hay type and location will not influence microbial community profile. Replicates of each of the four hays were subjected to dry (D), HTS conducted in a HG600, W by submergence in 45 L tap water, 16°C for 12 hours. From each post-treated hay, 100 g samples were chopped and half (n = 36) treated with Propidium monoazide dye, the remaining half untreated. Bacterial DNA were extracted for profiling the V4-V5 region of 16S rRNA gene from all 72 samples, then sequenced on the Illumina MiSeq platform. Bioinformatics were conducted using QIIME pipeline (v1.9.1). Linear discriminate analysis effect size (LEfSe) was used to identify differences in operational taxonomic units and predicted metabolic pathways between hays and regimens. HTS reduced proportions of microbiota compared to W and D hay (P &lt; 0.001, df 3, F 13.91), viability was reduced within regimens (P = 0.017, df 1, F 5.73). Soaking reduced diversity within and between regimens. Core bacterial communities differed between hays and regimens, however pre-feeding regimen had the greatest effect on the bacterial community profile. W and HTS reduced viable bacteria (P&lt; 0.05) known to cause respiratory disease, for HTS both respiratory and dental disease, with the greatest reductions overall from HTS without reducing bacterial diversity. Soaking increased Gram-negative bacteria and reduced bacterial diversity. Collectively these findings add to a body of evidence that suggest HTS is the most suitable pre-feeding regimen of hay for equid health.
+## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242373)
 
-10.1371/journal.pone.0242373
-
 ---
 
-## Value of Probiotics in Canine and Feline Gastroenterology.
- 16.11.2020, _SS Schmitz_
-
-
-Probiotics/or synbiotics products for small animals do not fulfill the criteria required to qualify as a probiotic. Studies explaining modes of action are lacking. Outcome measures are inconsistent, with some trials assessing only nonspecific routine diagnostic parameters or fecal scores. Preliminary evidence shows that specific preparations are beneficial in parvovirus infections and acute hemorrhagic diarrhea syndrome in dogs and in Tritrichomonas fetus infection in cats. In dogs, inflammatory bowel disease specific probiotics can decrease clinical severity. More studies focusing on functional outcomes in dogs and cats with well-defined diseases to allow evidence-based clinical use of probiotics and synbiotics are needed.
+## Value of Probiotics in Canine and Feline Gastroenterology 
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S019556162030111X)
 
-10.1016/j.cvsm.2020.09.011
-
 ---
 
-## Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel.
- 17.11.2020, _M Gerdol, R Moreira, F Cruz, J Gómez-Garrido, A Vlasova, U Rosani, P Venier, MA Naranjo-Ortiz, M Murgarella, S Greco, P Balseiro, A Corvelo, L Frias, M Gut, T Gabaldón, A Pallavicini, C Canchaya, B Novoa, TS Alioto, D Posada, A Figueras_
-
-
-The Mediterranean mussel Mytilus galloprovincialis is an ecologically and economically relevant edible marine bivalve, highly invasive and resilient to biotic and abiotic stressors causing recurrent massive mortalities in other bivalves. Although these traits have been recently linked with the maintenance of a high genetic variation within natural populations, the factors underlying the evolutionary success of this species remain unclear.
+## Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02180-3)
-
-10.1186/s13059-020-02180-3
 
 ---
 
@@ -148,15 +130,9 @@ The Mediterranean mussel Mytilus galloprovincialis is an ecologically and econom
 
 ---
 
-## Metagenomic assessment of the global distribution of bacteria and fungi.
- 13.11.2020, _M Bahram, T Netherway, C Frioux, P Ferretti, LP Coelho, S Geisen, P Bork, F Hildebrand_
-
-
-Bacteria and fungi are of uttermost importance in determining environmental and host functioning. Despite close interactions between animals, plants, their associated microbiomes, and the environment they inhabit, the distribution and role of bacteria and especially fungi across host and environments as well as the cross-habitat determinants of their community compositions remain little investigated. Using a uniquely broad global dataset of 13,483 metagenomes, we analyzed the microbiome structure and function of 25 host-associated and environmental habitats, focusing on potential interactions between bacteria and fungi. We found that the metagenomic relative abundance ratio of bacteria-to-fungi is a distinctive microbial feature of habitats. Compared to fungi, the cross-habitat distribution pattern of bacteria was more strongly driven by habitat type. Fungal diversity was depleted in host-associated communities compared with those in the environment, particularly terrestrial habitats, whereas this diversity pattern was less pronounced for bacteria. The relative gene functional potential of bacteria or fungi reflected their diversity patterns and appeared to depend on a balance between substrate availability and biotic interactions. Alongside helping to identify hotspots and sources of microbial diversity, our study provides support for differences in assembly patterns and processes between bacterial and fungal communities across different habitats. This article is protected by copyright. All rights reserved.
+## Metagenomic assessment of the global distribution of bacteria and fungi
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15314)
-
-10.1111/1462-2920.15314
 
 ---
 
@@ -202,9 +178,15 @@ Bacteria and fungi are of uttermost importance in determining environmental and 
 
 ---
 
-## The Household Resistome: Frequency of β-Lactamases, Class 1 Integrons, and Antibiotic-Resistant Bacteria in the Domestic Environment and Their Reduction during Automated Dishwashing and Laundering
+## The Household Resistome: Frequency of β-Lactamases, Class 1 Integrons, and Antibiotic-Resistant Bacteria in the Domestic Environment and Their Reduction during Automated Dishwashing and Laundering.
+ 16.11.2020, _L Schages, R Lucassen, F Wichern, R Kalscheuer, D Bockmühl_
+
+
+Households provide a habitat for bacteria originating from humans, animals, foods, contaminated clothes, or other sources. Thus, bacteria carrying antibiotic resistance genes (ARGs) may be introduced via household members, animals, or the water supply from external habitats into private households and vice versa. Since data on antibiotic resistance (ABR) in the domestic environment are limited, this study aimed to determine the abundance of β-lactamase, mobile colistin resistance, and class 1 integron genes and the correlation of their presence and to characterize phenotypically resistant strains in 54 private households in Germany. Additionally, the persistence of antibiotic-resistant bacteria during automated dishwashing compared to that during laundering was assessed. Shower drains, washing machines, and dishwashers were sampled and analyzed using quantitative real-time PCR. Resistant strains were isolated, followed by identification and antibiotic susceptibility testing using a Vitek 2 system. The results showed a significantly higher relative ARG abundance of 0.2367 ARG copies/16S rRNA gene copies in shower drains than in dishwashers (0.1329 ARG copies/16S rRNA gene copies) and washing machines (0.0006 ARG copies/16S rRNA gene copies). blaCMY-2, blaACT/MIR, and blaOXA-48 were the most prevalent ARG, and intI1 occurred in 96.3% of the households, while no mcr genes were detected. Several β-lactamase genes co-occurred, and the resistance of bacterial isolates correlated positively with genotypic resistance, with carbapenemase genes dominating across isolates. Antibiotic-resistant bacteria were significantly reduced during automated dishwashing as well as laundering tests and did not differ from susceptible strains. Overall, the domestic environment may represent a potential reservoir of β-lactamase genes and β-lactam-resistant bacteria, with shower drains being the dominant source of ABR.IMPORTANCE The abundance of antibiotic-resistant bacteria and ARGs is steadily increasing and has been comprehensively analyzed in natural environments, animals, foods, and wastewater treatment plants. In this respect, β-lactams and colistin are of particular interest due to the emergence of multidrug-resistant Gram-negative bacteria. Despite the connection of private households to these environments, only a few studies have focused on the domestic environment so far. Therefore, the present study further investigated the occurrence of ARGs and antibiotic-resistant bacteria in shower drains, washing machines, and dishwashers. The analysis of the domestic environment as a potential reservoir of resistant bacteria is crucial to determine whether households contribute to the spread of ABR or may be a habitat where resistant bacteria from the natural environment, humans, food, or water are selected due to the use of detergents, antimicrobial products, and antibiotics. Furthermore, ABR could limit the options for the treatment of infections arising in the domestic environment.
 
 [Source](https://aem.asm.org/content/86/23/e02062-20)
+
+10.1128/AEM.02062-20
 
 ---
 
