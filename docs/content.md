@@ -16,15 +16,15 @@ Dental implants are installed in an increasing number of patients. Mucositis and
 
 ---
 
-## 4,9-diaminoacridines and 4-aminoacridines as dual-stage antiplasmodial hits.
- 20.11.2020, _M Fonte, N Tassi, D Fontinha, I Bouzón-Arnáiz, R Ferraz, MJ Araújo, X Fernàndez-Busquets, M Prudêncio, P Gomes, C Teixeira_
+## Neutrophils in preterm birth: Friend or foe?
+ 21.11.2020, _M Tong, VM Abrahams_
 
 
-Multi-stage drugs have been prioritized in antimalarial drug discovery, as targeting more than one process in the Plasmodium life cycle is likely to increase efficiency, while decreasing the chances of emergence of resistance by the parasite. Herein, we disclose two novel acridine-based families of compounds that combine the structural features of primaquine and chloroquine. Compounds prepared and studied thus far retained the in vitro activity displayed by the parent drugs against the erythrocytic stages of chloroquine-sensitive and -resistant P. falciparum strains, and against the hepatic stages of P. berghei , hence acting as dual-stage antiplasmodial hits.
+Preterm birth is a serious global health problem that affects 5-18% of pregnancies worldwide. In addition to being the major cause of neonatal mortality and morbidity, preterm birth is associated with short term and long term complications in the offspring. Despite this, the causes and pathogenesis of preterm birth remain unclear. Neutrophils are innate immune cells that infiltrate the maternal-fetal interface during normal parturition and their accumulation is dramatically increased during preterm birth, especially in the presence of an infection. Indeed, a defining feature of chorioamnionitis (inflammation of the chorioamnionic fetal membranes) that is associated with more than 40% of preterm births, is neutrophil accumulation. While these cells may play an important role during normal term parturition as well as preterm birth, their functions at the maternal-fetal interface are unclear. This review will provide a broad overview of the relevant studies to enable a better understanding of the roles of neutrophils during normal parturition and preterm birth.
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009026)
 
-10.1002/cmdc.202000740
+10.1016/j.placenta.2019.12.010
 
 ---
 
@@ -106,15 +106,9 @@ Multi-stage drugs have been prioritized in antimalarial drug discovery, as targe
 
 ---
 
-## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens.
- 20.11.2020, _S Daniels, J Hepworth, M Moore-Colyer_
-
-
-Respirable dust in conserved forages can pose problems with equid respiratory health, thus soaking (W) and high temperature steaming (HTS) are employed to reduce the levels in hay. The aim of this study was to characterize the viable bacterial community profile of four hays from two different locations in UK following pre-feeding wetting regimens. Hypothesis: (1) Viable microbial community profile of hays will not differ between different pre-feeding regimens. (2) Hay type and location will not influence microbial community profile. Replicates of each of the four hays were subjected to dry (D), HTS conducted in a HG600, W by submergence in 45 L tap water, 16°C for 12 hours. From each post-treated hay, 100 g samples were chopped and half (n = 36) treated with Propidium monoazide dye, the remaining half untreated. Bacterial DNA were extracted for profiling the V4-V5 region of 16S rRNA gene from all 72 samples, then sequenced on the Illumina MiSeq platform. Bioinformatics were conducted using QIIME pipeline (v1.9.1). Linear discriminate analysis effect size (LEfSe) was used to identify differences in operational taxonomic units and predicted metabolic pathways between hays and regimens. HTS reduced proportions of microbiota compared to W and D hay (P &lt; 0.001, df 3, F 13.91), viability was reduced within regimens (P = 0.017, df 1, F 5.73). Soaking reduced diversity within and between regimens. Core bacterial communities differed between hays and regimens, however pre-feeding regimen had the greatest effect on the bacterial community profile. W and HTS reduced viable bacteria (P&lt; 0.05) known to cause respiratory disease, for HTS both respiratory and dental disease, with the greatest reductions overall from HTS without reducing bacterial diversity. Soaking increased Gram-negative bacteria and reduced bacterial diversity. Collectively these findings add to a body of evidence that suggest HTS is the most suitable pre-feeding regimen of hay for equid health.
+## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242373)
-
-10.1371/journal.pone.0242373
 
 ---
 
