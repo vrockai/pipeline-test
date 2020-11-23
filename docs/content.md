@@ -268,6 +268,18 @@ Bacteria and fungi are of uttermost importance in determining environmental and 
 
 ---
 
+## Benchmarking the Orbitrap Tribrid Eclipse for Next Generation Multiplexed Proteomics.
+ 10.08.2020, _Q Yu, JA Paulo, J Naverrete-Perea, GC McAlister, JD Canterbury, DJ Bailey, AM Robitaille, R Huguet, V Zabrouskov, SP Gygi, DK Schweppe_
+
+
+The rise of sample multiplexing in quantitative proteomics for the dissection of complex phenotypic comparisons has been advanced by the development of ever more sensitive and robust instrumentation. Here, we evaluated the utility of the Orbitrap Eclipse Tribrid mass spectrometer (advanced quadrupole filter, optimized FTMS scan overhead) and new instrument control software features (Precursor Fit filtering, TurboTMT and Real-time Peptide Search filtering). Multidimensional comparisons of these novel features increased total peptide identifications by 20% for SPS-MS3 methods and 14% for HRMS2 methods. Importantly Real-time Peptide Search filtering enabled a ∼2× throughput improvement for quantification. Across the board, these sensitivity increases were attained without sacrificing quantitative accuracy. New hardware and software features enable more efficient characterization in pursuit of comparative whole proteome insights.
+
+[Source](https://bioinformatics.chat/rtq-proteomics)
+
+10.1021/acs.analchem.9b05685
+
+---
+
 ## Real-time quantitative proteomics with Devin Schweppe
 
 [Source](https://bioinformatics.chat/rtq-proteomics)
