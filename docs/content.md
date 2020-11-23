@@ -17,7 +17,7 @@ Dental implants are installed in an increasing number of patients. Mucositis and
 ---
 
 ## Neutrophils in preterm birth: Friend or foe?
- 21.11.2020, _M Tong, VM Abrahams_
+ 22.11.2020, _M Tong, VM Abrahams_
 
 
 Preterm birth is a serious global health problem that affects 5-18% of pregnancies worldwide. In addition to being the major cause of neonatal mortality and morbidity, preterm birth is associated with short term and long term complications in the offspring. Despite this, the causes and pathogenesis of preterm birth remain unclear. Neutrophils are innate immune cells that infiltrate the maternal-fetal interface during normal parturition and their accumulation is dramatically increased during preterm birth, especially in the presence of an infection. Indeed, a defining feature of chorioamnionitis (inflammation of the chorioamnionic fetal membranes) that is associated with more than 40% of preterm births, is neutrophil accumulation. While these cells may play an important role during normal term parturition as well as preterm birth, their functions at the maternal-fetal interface are unclear. This review will provide a broad overview of the relevant studies to enable a better understanding of the roles of neutrophils during normal parturition and preterm birth.
