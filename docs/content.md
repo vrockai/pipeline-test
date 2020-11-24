@@ -16,15 +16,15 @@ Dental implants are installed in an increasing number of patients. Mucositis and
 
 ---
 
-## Neutrophils in preterm birth: Friend or foe?
- 23.11.2020, _M Tong, VM Abrahams_
+## Delayed bowel perforation in electrocution: An unpredictable foe.
+ 23.11.2020, _D Goyal, A Dhiman, N Jagne, A Rattan_
 
 
-Preterm birth is a serious global health problem that affects 5-18% of pregnancies worldwide. In addition to being the major cause of neonatal mortality and morbidity, preterm birth is associated with short term and long term complications in the offspring. Despite this, the causes and pathogenesis of preterm birth remain unclear. Neutrophils are innate immune cells that infiltrate the maternal-fetal interface during normal parturition and their accumulation is dramatically increased during preterm birth, especially in the presence of an infection. Indeed, a defining feature of chorioamnionitis (inflammation of the chorioamnionic fetal membranes) that is associated with more than 40% of preterm births, is neutrophil accumulation. While these cells may play an important role during normal term parturition as well as preterm birth, their functions at the maternal-fetal interface are unclear. This review will provide a broad overview of the relevant studies to enable a better understanding of the roles of neutrophils during normal parturition and preterm birth.
+Electrocution injuries, particularly high voltage, are uncommon, but can be devastating. Thermal burns, arrhythmias and myonecrosis are commonly known and monitored complications of electrical injuries. Direct thermal trauma to internal viscera is also known and almost all internal organs have been reported to be affected, bowel being the most common. However, bowel perforation occurring in a delayed fashion is one rare, dreaded and erratic complication of electrocution, making it a dangerous pitfall if missed. Alimentary tract perforations can present on a delayed basis in high voltage electrocution injuries; advise for clinical follow up must incorporate this possibility at the time of discharge. Presentation of delayed visceral injuries is subtle &amp; atypical, and post burn immunosuppression may play a part for such presentation. We suggest that all victims of high voltage electrocution with abdominal wall burns receive diagnostic laparoscopy and/or CECT abdomen as part of workup of their injuries. Any non-enhancing segment of bowel on CECT, howsoever small, should be prudently evaluated with laparoscopy.
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009026)
 
-10.1016/j.placenta.2019.12.010
+10.1016/j.tcr.2020.100377
 
 ---
 
@@ -106,39 +106,21 @@ Preterm birth is a serious global health problem that affects 5-18% of pregnanci
 
 ---
 
-## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens.
- 20.11.2020, _S Daniels, J Hepworth, M Moore-Colyer_
-
-
-Respirable dust in conserved forages can pose problems with equid respiratory health, thus soaking (W) and high temperature steaming (HTS) are employed to reduce the levels in hay. The aim of this study was to characterize the viable bacterial community profile of four hays from two different locations in UK following pre-feeding wetting regimens. Hypothesis: (1) Viable microbial community profile of hays will not differ between different pre-feeding regimens. (2) Hay type and location will not influence microbial community profile. Replicates of each of the four hays were subjected to dry (D), HTS conducted in a HG600, W by submergence in 45 L tap water, 16°C for 12 hours. From each post-treated hay, 100 g samples were chopped and half (n = 36) treated with Propidium monoazide dye, the remaining half untreated. Bacterial DNA were extracted for profiling the V4-V5 region of 16S rRNA gene from all 72 samples, then sequenced on the Illumina MiSeq platform. Bioinformatics were conducted using QIIME pipeline (v1.9.1). Linear discriminate analysis effect size (LEfSe) was used to identify differences in operational taxonomic units and predicted metabolic pathways between hays and regimens. HTS reduced proportions of microbiota compared to W and D hay (P &lt; 0.001, df 3, F 13.91), viability was reduced within regimens (P = 0.017, df 1, F 5.73). Soaking reduced diversity within and between regimens. Core bacterial communities differed between hays and regimens, however pre-feeding regimen had the greatest effect on the bacterial community profile. W and HTS reduced viable bacteria (P&lt; 0.05) known to cause respiratory disease, for HTS both respiratory and dental disease, with the greatest reductions overall from HTS without reducing bacterial diversity. Soaking increased Gram-negative bacteria and reduced bacterial diversity. Collectively these findings add to a body of evidence that suggest HTS is the most suitable pre-feeding regimen of hay for equid health.
+## The haybiome: Characterising the viable bacterial community profile of four different hays for horses following different pre-feeding regimens
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242373)
 
-10.1371/journal.pone.0242373
-
 ---
 
-## Value of Probiotics in Canine and Feline Gastroenterology.
- 16.11.2020, _SS Schmitz_
-
-
-Probiotics/or synbiotics products for small animals do not fulfill the criteria required to qualify as a probiotic. Studies explaining modes of action are lacking. Outcome measures are inconsistent, with some trials assessing only nonspecific routine diagnostic parameters or fecal scores. Preliminary evidence shows that specific preparations are beneficial in parvovirus infections and acute hemorrhagic diarrhea syndrome in dogs and in Tritrichomonas fetus infection in cats. In dogs, inflammatory bowel disease specific probiotics can decrease clinical severity. More studies focusing on functional outcomes in dogs and cats with well-defined diseases to allow evidence-based clinical use of probiotics and synbiotics are needed.
+## Value of Probiotics in Canine and Feline Gastroenterology 
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S019556162030111X)
 
-10.1016/j.cvsm.2020.09.011
-
 ---
 
-## Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel.
- 17.11.2020, _M Gerdol, R Moreira, F Cruz, J Gómez-Garrido, A Vlasova, U Rosani, P Venier, MA Naranjo-Ortiz, M Murgarella, S Greco, P Balseiro, A Corvelo, L Frias, M Gut, T Gabaldón, A Pallavicini, C Canchaya, B Novoa, TS Alioto, D Posada, A Figueras_
-
-
-The Mediterranean mussel Mytilus galloprovincialis is an ecologically and economically relevant edible marine bivalve, highly invasive and resilient to biotic and abiotic stressors causing recurrent massive mortalities in other bivalves. Although these traits have been recently linked with the maintenance of a high genetic variation within natural populations, the factors underlying the evolutionary success of this species remain unclear.
+## Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02180-3)
-
-10.1186/s13059-020-02180-3
 
 ---
 
@@ -148,15 +130,9 @@ The Mediterranean mussel Mytilus galloprovincialis is an ecologically and econom
 
 ---
 
-## Metagenomic assessment of the global distribution of bacteria and fungi.
- 13.11.2020, _M Bahram, T Netherway, C Frioux, P Ferretti, LP Coelho, S Geisen, P Bork, F Hildebrand_
-
-
-Bacteria and fungi are of uttermost importance in determining environmental and host functioning. Despite close interactions between animals, plants, their associated microbiomes, and the environment they inhabit, the distribution and role of bacteria and especially fungi across host and environments as well as the cross-habitat determinants of their community compositions remain little investigated. Using a uniquely broad global dataset of 13,483 metagenomes, we analyzed the microbiome structure and function of 25 host-associated and environmental habitats, focusing on potential interactions between bacteria and fungi. We found that the metagenomic relative abundance ratio of bacteria-to-fungi is a distinctive microbial feature of habitats. Compared to fungi, the cross-habitat distribution pattern of bacteria was more strongly driven by habitat type. Fungal diversity was depleted in host-associated communities compared with those in the environment, particularly terrestrial habitats, whereas this diversity pattern was less pronounced for bacteria. The relative gene functional potential of bacteria or fungi reflected their diversity patterns and appeared to depend on a balance between substrate availability and biotic interactions. Alongside helping to identify hotspots and sources of microbial diversity, our study provides support for differences in assembly patterns and processes between bacterial and fungal communities across different habitats. This article is protected by copyright. All rights reserved.
+## Metagenomic assessment of the global distribution of bacteria and fungi
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15314)
-
-10.1111/1462-2920.15314
 
 ---
 
