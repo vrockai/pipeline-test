@@ -112,15 +112,27 @@ Preterm birth is a serious global health problem that affects 5-18% of pregnanci
 
 ---
 
-## Value of Probiotics in Canine and Feline Gastroenterology 
+## Value of Probiotics in Canine and Feline Gastroenterology.
+ 16.11.2020, _SS Schmitz_
+
+
+Probiotics/or synbiotics products for small animals do not fulfill the criteria required to qualify as a probiotic. Studies explaining modes of action are lacking. Outcome measures are inconsistent, with some trials assessing only nonspecific routine diagnostic parameters or fecal scores. Preliminary evidence shows that specific preparations are beneficial in parvovirus infections and acute hemorrhagic diarrhea syndrome in dogs and in Tritrichomonas fetus infection in cats. In dogs, inflammatory bowel disease specific probiotics can decrease clinical severity. More studies focusing on functional outcomes in dogs and cats with well-defined diseases to allow evidence-based clinical use of probiotics and synbiotics are needed.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S019556162030111X)
 
+10.1016/j.cvsm.2020.09.011
+
 ---
 
-## Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel
+## Massive gene presence-absence variation shapes an open pan-genome in the Mediterranean mussel.
+ 17.11.2020, _M Gerdol, R Moreira, F Cruz, J Gómez-Garrido, A Vlasova, U Rosani, P Venier, MA Naranjo-Ortiz, M Murgarella, S Greco, P Balseiro, A Corvelo, L Frias, M Gut, T Gabaldón, A Pallavicini, C Canchaya, B Novoa, TS Alioto, D Posada, A Figueras_
+
+
+The Mediterranean mussel Mytilus galloprovincialis is an ecologically and economically relevant edible marine bivalve, highly invasive and resilient to biotic and abiotic stressors causing recurrent massive mortalities in other bivalves. Although these traits have been recently linked with the maintenance of a high genetic variation within natural populations, the factors underlying the evolutionary success of this species remain unclear.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02180-3)
+
+10.1186/s13059-020-02180-3
 
 ---
 
@@ -130,9 +142,15 @@ Preterm birth is a serious global health problem that affects 5-18% of pregnanci
 
 ---
 
-## Metagenomic assessment of the global distribution of bacteria and fungi
+## Metagenomic assessment of the global distribution of bacteria and fungi.
+ 13.11.2020, _M Bahram, T Netherway, C Frioux, P Ferretti, LP Coelho, S Geisen, P Bork, F Hildebrand_
+
+
+Bacteria and fungi are of uttermost importance in determining environmental and host functioning. Despite close interactions between animals, plants, their associated microbiomes, and the environment they inhabit, the distribution and role of bacteria and especially fungi across host and environments as well as the cross-habitat determinants of their community compositions remain little investigated. Using a uniquely broad global dataset of 13,483 metagenomes, we analyzed the microbiome structure and function of 25 host-associated and environmental habitats, focusing on potential interactions between bacteria and fungi. We found that the metagenomic relative abundance ratio of bacteria-to-fungi is a distinctive microbial feature of habitats. Compared to fungi, the cross-habitat distribution pattern of bacteria was more strongly driven by habitat type. Fungal diversity was depleted in host-associated communities compared with those in the environment, particularly terrestrial habitats, whereas this diversity pattern was less pronounced for bacteria. The relative gene functional potential of bacteria or fungi reflected their diversity patterns and appeared to depend on a balance between substrate availability and biotic interactions. Alongside helping to identify hotspots and sources of microbial diversity, our study provides support for differences in assembly patterns and processes between bacterial and fungal communities across different habitats. This article is protected by copyright. All rights reserved.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15314)
+
+10.1111/1462-2920.15314
 
 ---
 
