@@ -5,7 +5,7 @@
 ---
 
 ## Severe COVID-19, multisystem inflammatory syndrome in children, and Kawasaki disease: immunological mechanisms, clinical manifestations and management.
- 21.11.2020, _J Kabeerdoss, RK Pilania, R Karkhele, TS Kumar, D Danda, S Singh_
+ 24.11.2020, _J Kabeerdoss, RK Pilania, R Karkhele, TS Kumar, D Danda, S Singh_
 
 
 Multisystem inflammatory syndrome (MIS-C) is a pediatric hyperinflammation disorder caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). It has now been reported from several countries the world over. Some of the clinical manifestations of MIS-C mimic Kawasaki disease (KD) shock syndrome. MIS-C develops 4-6 weeks following SARS-CoV-2 infection, and is presumably initiated by adaptive immune response. Though it has multisystem involvement, it is the cardiovascular manifestations that are most prominent. High titres of anti-SARS-CoV-2 antibodies are seen in these patients. As this is a new disease entity, its immunopathogenesis is not fully elucidated. Whether it has some overlap with KD is still unclear. Current treatment guidelines recommend use of intravenous immunoglobulin and high-dose corticosteroids as first-line treatment. Mortality rates of MIS-C are lower compared to adult forms of severe COVID-19 disease.
