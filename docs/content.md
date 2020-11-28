@@ -1,12 +1,18 @@
-## Human microbiome and allergy.
- 25.11.2020, _V Montecchiani, V Fanos_
+## Evaluation of the upper airway microbiome and immune response with nasal epithelial lining fluid absorption and nasal washes.
+ 27.11.2020, _MH Shilts, C Rosas-Salazar, CE Lynch, A Tovchigrechko, HH Boone, PB Russell, AS Connolly, KM Costello, MD McCollum, A Mai, DA Wiggins, SV Rajagopala, S Yooseph, RS Peebles, TV Hartert, SR Das_
 
 
-Human microbiome contributes to critical functions that impact health and disease. It influences the development of the immune system, and the pathogenesis of immunological disorders included allergy. While it is easy to understand how airway microbiome, influencing local inflammation and immune activity, could contribute to shaping asthma phenotype, it is not so obvious to understand the influence by the gut microbiome, but there is growing evidence about it. The increase of allergic disorders in western countries led to investigate the role environment is playing and how it may change our microbiome and immune system, with the hope of finding new preventive approaches for allergy.
+Despite being commonly used to collect upper airway epithelial lining fluid, nasal washes are poorly reproducible, not suitable for serial sampling, and limited by a dilution effect. In contrast, nasal filters lack these limitations and are an attractive alternative. To examine whether nasal filters are superior to nasal washes as a sampling method for the characterization of the upper airway microbiome and immune response, we collected paired nasal filters and washes from a group of 40 healthy children and adults. To characterize the upper airway microbiome, we used 16S ribosomal RNA and shotgun metagenomic sequencing. To characterize the immune response, we measured total protein using a BCA assay and 53 immune mediators using multiplex magnetic bead-based assays. We conducted statistical analyses to compare common microbial ecology indices and immune-mediator median fluorescence intensities (MFIs) between sample types. In general, nasal filters were more likely to pass quality control in both children and adults. There were no significant differences in microbiome community richness, α-diversity, or structure between pediatric samples types; however, these were all highly dissimilar between adult sample types. In addition, there were significant differences in the abundance of amplicon sequence variants between sample types in children and adults. In adults, total proteins were significantly higher in nasal filters than nasal washes; consequently, the immune-mediator MFIs were not well detected in nasal washes. Based on better quality control sequencing metrics and higher immunoassay sensitivity, our results suggest that nasal filters are a superior sampling method to characterize the upper airway microbiome and immune response in both children and adults.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/pai.13360)
 
-10.1111/pai.13360
+10.1038/s41598-020-77289-3
+
+---
+
+## Human microbiome and allergy
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/pai.13360)
 
 ---
 
