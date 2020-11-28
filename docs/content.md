@@ -1,114 +1,156 @@
+## The Dutch Microbiome Project defines factors that shape the healthy gut microbiome
+
+[Source](https://doi.org/10.1101/2020.11.27.401125)
+
+---
+
+## Viral Infection-Induced Gut Dysbiosis, Neuroinflammation, and α-Synuclein Aggregation: Updates and Perspectives on COVID-19 and Neurodegenerative Disorders.
+ 27.11.2020, _C Follmer_
+
+
+The current pandemic of coronavirus disease 2019 (COVID-19) has gained increased attention in the neuroscience community, especially taking into account the neuroinvasive potential of its causative agent, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the impact of its infection on the structure and function of the brain. Apart from the neurotropic properties of SARS-CoV-2, it is likewise important the observation that virus infection may perturb specific cellular processes that are believed to play an important role in the pathogenesis of diverse neurological disorders, particularly in Parkinson's disease (PD). In this scenario, viral infection-induced colon inflammation, gut microbial imbalance, and α-synuclein upregulation are of particular interest with regard to the interplay between the gastrointestinal tract and the central nervous system (microbiome-gut-brain axis). In this Perspective, we present a critical view on the different hypotheses that are recently being raised by neuroscientists about the relationship between SARS-CoV-2 infection and long-lasting neurodegenerative disorders, opening the question of whether COVID-19 might represent a risk factor for the development of PD.
+
+[Source](https://doi.org/10.1021/acschemneuro.0c00671)
+
+10.1021/acschemneuro.0c00671
+
+---
+
+## Dual and mutual interaction between microbiota and viral infections: a possible treat for COVID-19.
+ 27.11.2020, _T Baghbani, H Nikzad, J Azadbakht, F Izadpanah, H Haddad Kashani_
+
+
+All of humans and other mammalian species are colonized by some types of microorganisms such as bacteria, archaea, unicellular eukaryotes like fungi and protozoa, multicellular eukaryotes like helminths, and viruses, which in whole are called microbiota. These microorganisms have multiple different types of interaction with each other. A plethora of evidence suggests that they can regulate immune and digestive systems and also play roles in various diseases, such as mental, cardiovascular, metabolic and some skin diseases. In addition, they take-part in some current health problems like diabetes mellitus, obesity, cancers and infections. Viral infection is one of the most common and problematic health care issues, particularly in recent years that pandemics like SARS and COVID-19 caused a lot of financial and physical damage to the world. There are plenty of articles investigating the interaction between microbiota and infectious diseases. We focused on stimulatory to suppressive effects of microbiota on viral infections, hoping to find a solution to overcome this current pandemic. Then we reviewed mechanistically the effects of both microbiota and probiotics on most of the viruses. But unlike previous studies which concentrated on intestinal microbiota and infection, our focus is on respiratory system's microbiota and respiratory viral infection, bearing in mind that respiratory system is a proper entry site and residence for viruses, and whereby infection, can lead to asymptomatic, mild, self-limiting, severe or even fatal infection. Finally, we overgeneralize the effects of microbiota on COVID-19 infection. In addition, we reviewed the articles about effects of the microbiota on coronaviruses and suggest some new therapeutic measures.
+
+[Source](https://doi.org/10.1186/s12934-020-01483-1)
+
+10.1186/s12934-020-01483-1
+
+---
+
+## Gut microbiome is more stable in males than in females during the development of colorectal cancer.
+ 27.11.2020, _H Liao, C Li, Y Ai, Y Kou_
+
+
+Gut microbial alterations have great potential to predict the development of colorectal cancer (CRC); however, how gut microbes respond to the development of CRC in males and females at the community level is unknown. We aim to investigate the differences of gut microbiota between the male and female.
+
+[Source](https://doi.org/10.1111/jam.14943)
+
+10.1111/jam.14943
+
+---
+
+## Expression of toll-like and adhesive receptors on epithelial cells of the oral mucosa in periodontitis.
+ 27.11.2020, _OA Lukova, MI Zaslavskaya, TV Makhrova, VS Kropotov, EV Kitaeva_
+
+
+The expression of toll-like and adhesive receptors on epithelial cells of the oral mucosa changes in different pathological conditions, both local and systemic levels, in particular, in chronic periodontitis. The long-term presence of periodontal pathogenic microorganisms in the gingival furrow stimulates and supports the inflammatory process. The interaction of periodontal pathogens with epithelial cells of the oral mucosa is the first stage of the development of periodontitis. The pathological process affects the function of epithelial cells, in particular their ability to interact with representatives of microbiocenosis. Therefore, the natural colonization of normal oral microbiota on buccal epitheliocytes, reflecting the ability of epithelial cells to microbial adhesion, is a sensitive indicator of various destabilizing processes. Determining the level of expression of toll-like TLR2 and TLR4 receptors on epithelial cells also allows us to assess the functional state of cells and the severity of the inflammatory process at the level of the oral mucosa, in particular, in chronic periodontitis. In this paper, we studied the receptor-dependent reactions of buccal epithelial cells in chronic periodontitis using flow cytofluorometry and by determining the level of natural (microbial) colonization. The authors also compared these methods for determining the functional state of mucosal cells in chronic periodontitis. The results showed that in patients with periodontitis, the activity of receptors involved in adhesive reactions with the oral microbiota changed slightly and was little higher than in healthy donors. At the same time, the expression of TLRs on epithelial cells in periodontitis changed significantly. Thus, the percentage of cells expressing TLR2 significantly increased, while TLR4 decreased. Concurrently, the percentage of mucosal cells that do not have TLRs increased significantly in oral pathology. Thus, the study of TLR2 - and TLR4-expression on buccal epithelial cells is a more representative test in assessing the severity of the inflammatory process in chronic periodontitis than determining the level of natural colonization.
+
+[Source](https://doi.org/10.18821/0869-2084-2020-65-10-645-648)
+
+10.18821/0869-2084-2020-65-10-645-648
+
+---
+
+## The Microbiome in Hidradenitis Suppurativa: A Review.
+ 27.11.2020, _KJL Wark, GD Cains_
+
+
+Hidradenitis suppurativa (HS) is a chronic autoinflammatory skin disease. It is characterised by the development of abscesses and nodules in intertriginous anatomical sites. Whilst it is now recognised as an autoinflammatory condition rather than an infective disease, bacteria are implicated in disease pathogenesis.
+
+[Source](https://doi.org/10.1007/s13555-020-00465-w)
+
+10.1007/s13555-020-00465-w
+
+---
+
 ## Evaluation of the upper airway microbiome and immune response with nasal epithelial lining fluid absorption and nasal washes.
  27.11.2020, _MH Shilts, C Rosas-Salazar, CE Lynch, A Tovchigrechko, HH Boone, PB Russell, AS Connolly, KM Costello, MD McCollum, A Mai, DA Wiggins, SV Rajagopala, S Yooseph, RS Peebles, TV Hartert, SR Das_
 
 
 Despite being commonly used to collect upper airway epithelial lining fluid, nasal washes are poorly reproducible, not suitable for serial sampling, and limited by a dilution effect. In contrast, nasal filters lack these limitations and are an attractive alternative. To examine whether nasal filters are superior to nasal washes as a sampling method for the characterization of the upper airway microbiome and immune response, we collected paired nasal filters and washes from a group of 40 healthy children and adults. To characterize the upper airway microbiome, we used 16S ribosomal RNA and shotgun metagenomic sequencing. To characterize the immune response, we measured total protein using a BCA assay and 53 immune mediators using multiplex magnetic bead-based assays. We conducted statistical analyses to compare common microbial ecology indices and immune-mediator median fluorescence intensities (MFIs) between sample types. In general, nasal filters were more likely to pass quality control in both children and adults. There were no significant differences in microbiome community richness, α-diversity, or structure between pediatric samples types; however, these were all highly dissimilar between adult sample types. In addition, there were significant differences in the abundance of amplicon sequence variants between sample types in children and adults. In adults, total proteins were significantly higher in nasal filters than nasal washes; consequently, the immune-mediator MFIs were not well detected in nasal washes. Based on better quality control sequencing metrics and higher immunoassay sensitivity, our results suggest that nasal filters are a superior sampling method to characterize the upper airway microbiome and immune response in both children and adults.
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/pai.13360)
+[Source](https://doi.org/10.1038/s41598-020-77289-3)
 
 10.1038/s41598-020-77289-3
 
 ---
 
-## Human microbiome and allergy
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/pai.13360)
-
----
-
-## Early Gut Fungal and Bacterial Microbiota and Childhood Growth.
- 27.11.2020, _K Schei, MR Simpson, E Avershina, K Rudi, T Øien, PB Júlíusson, D Underhill, S Salamati, RA Ødegård_
+## Emotional well-being and gut microbiome profiles by enterotype.
+ 27.11.2020, _SH Lee, SH Yoon, Y Jung, N Kim, U Min, J Chun, I Choi_
 
 
-Introduction: Childhood growth is a sensitive marker of health. Animal studies show increased height and weight velocity in the presence of fungal as well as antibiotic supplement in feed. Human studies on early gut microbiota and anthropometrics have mainly focused on bacteria only and overweight, with diverging results. We thus aimed to investigate the associations between childhood growth [height and body mass index (BMI)] and early fungal and bacterial gut microbiota. Methods: In a population-based cohort, a subset of 278 pregnant mothers was randomized to drink milk with or without probiotic bacteria during and after pregnancy. We obtained fecal samples in offspring at four time points between 0 and 2 years and anthropometric measurements 0 and 9 years. By quantitative PCR and 16S/ITS rRNA gene sequencing, children's gut microbiota abundance and diversity were analyzed against height standard deviation score (SDS) and BMI-SDS and presented as effect estimate (β) of linear mixed models. Results: From 278 included children (149 girls), 1,015 fecal samples were collected. Maternal probiotic administration did not affect childhood growth, and the groups were pooled. Fungal abundance at 2 years was positively associated with height-SDS at 2-9 years (β = 0.11 height-SDS; 95% CI, 0.00, 0.22) but not with BMI-SDS. Also, higher fungal abundance at 1 year was associated with a lower BMI-SDS at 0-1 year (β = -0.09 BMI-SDS; 95% CI, -0.18, -0.00), and both bacterial abundance and bacterial alpha diversity at 1 year were associated with lower BMI-SDS at 0-1 year (β = -0.13 BMI-SDS; 95% CI, -0.22, -0.04; and β = -0.19 BMI-SDS; 95% CI, -0.39, -0.00, respectively). Conclusions: In this prospective cohort following 0-9-year-old children, we observed that higher gut fungal abundances at 2 years were associated with taller children between 2 and 9 years. Also, higher gut fungal and bacterial abundances and higher gut bacterial diversity at 1 year were associated with lower BMI in the first year of life. The results may indicate interactions between early gut fungal microbiota and the human growth-regulating physiology, previously not reported. Clinical Trial Registration: Clinicaltrials.gov, NCT00159523.
+With increasing attention being paid to improving emotional well-being, recent evidence points to gut microbiota as a key player in regulating mental and physical health via bidirectional communication between the brain and gut. Here, we examine the association between emotional well-being and gut microbiome profiles (i.e., gut microbiome composition, diversity, and the moderating role of the enterotypes) among healthy Korean adults (n = 83, mean age = 48.9, SD = 13.2). The research was performed using high-throughput 16S rRNA gene sequencing to obtain gut microbiome profiles, as well as a self-report survey that included the Positive Affect Negative Affect Schedule (PANAS). The cluster-based analysis identified two enterotypes dominated by the genera Bacteroides (n = 49) and Prevotella (n = 34). Generalized linear regression analysis reveals significant associations between positive emotion and gut microbiome diversity (Shannon Index) among participants in the Prevotella dominant group, whereas no such relationship emerged among participants in the Bacteroides group. Moreover, a novel genus from the family Lachnospiraceae is associated with emotional well-being scores, both positive and negative. Together, the current findings highlight the enterotype-specific links between the gut microbiota community and emotion in healthy adults and suggest the possible roles of the gut microbiome in promoting mental health.
 
-[Source](https://www.frontiersin.org/articles/10.3389/fped.2020.572538/full)
+[Source](https://doi.org/10.1038/s41598-020-77673-z)
 
-10.3389/fped.2020.572538
+10.1038/s41598-020-77673-z
 
 ---
 
-## Characterization of Lactobacilli isolated from carious dentin after selective caries removal and cavity sealing.
- 26.11.2020, _N Damé-Teixeira, LD Ev, L Bitello-Firmino, VK Soares, RS Dalalba, AG Rup, M Maltz, CCF Parolo_
+## Vitamin D metabolites and the gut microbiome in older men.
+ 27.11.2020, _RL Thomas, L Jiang, JS Adams, ZZ Xu, J Shen, S Janssen, G Ackermann, D Vanderschueren, S Pauwels, R Knight, ES Orwoll, DM Kado_
 
 
-To characterize lactobacilli isolated from residual carious dentin after selective caries removal (SCR), by observing the changes detected in their prevalence, diversity, and cariogenic potential after starvation stress caused by cavity sealing (CS).
+The vitamin D receptor is highly expressed in the gastrointestinal tract where it transacts gene expression. With current limited understanding of the interactions between the gut microbiome and vitamin D, we conduct a cross-sectional analysis of 567 older men quantifying serum vitamin D metabolites using LC-MSMS and defining stool sub-Operational Taxonomic Units from16S ribosomal RNA gene sequencing data. Faith's Phylogenetic Diversity and non-redundant covariate analyses reveal that the serum 1,25(OH)2D level explains 5% of variance in α-diversity. In β-diversity analyses using unweighted UniFrac, 1,25(OH)2D is the strongest factor assessed, explaining 2% of variance. Random forest analyses identify 12 taxa, 11 in the phylum Firmicutes, eight of which are positively associated with either 1,25(OH)2D and/or the hormone-to-prohormone [1,25(OH)2D/25(OH)D] "activation ratio." Men with higher levels of 1,25(OH)2D and higher activation ratios, but not 25(OH)D itself, are more likely to possess butyrate producing bacteria that are associated with better gut microbial health.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0003996920303666)
+[Source](https://doi.org/10.1038/s41467-020-19793-8)
 
-10.1016/j.archoralbio.2020.104988
-
----
-
-## A Pilot Study: Changes of Intestinal Microbiota of Patients With Non-small Cell Lung Cancer in Response to Osimertinib Therapy.
- 27.11.2020, _J Cong, Y Zhang, Y Xue, C Zhang, M Xu, D Liu, R Zhang, H Zhu_
-
-
-Osimertinib contributes to the higher efficacy and few intestinal side effects in non-small cell lung cancer (NSCLC) patients with T790M mutation. Previous studies has reported that intestinal microbiota play important roles in drug efficacy and toxicity. However, we have known less about the changes of intestinal microbiota in response to osimertinib therapy. In this pilot study, we used longitudinal sampling with 6 weeks sampling collection intervals for about 1 year to model intestinal microbial changes based on the 16S rRNA genes sequencing in fecal samples from NSCLC patients in response to osimertinib therapy. The results showed that there was no significantly different on the intestinal microbial composition at the phylum, family, and genus level among NSCLC patients with different treatment cycles (P &gt; 0.05). There were no significant differences in alpha diversity characterized by the richness, Shannon diversity, and phylogenetic diversity based on the Welch's t-test among NSCLC patients in response to osimertinib therapy (P &gt; 0.05). However, the dissimilarity test and principal coordination analysis showed a few differences among NSCLC patients. The intestinal microbial markers were changed in post-therapy (Sutterella, Peptoniphilus, and Anaeroglobus) compared to that in pre-therapy (Clostridium XIVa). Furthermore, the phylogenetic molecular ecological networks (MENs) were influenced by osimertinib therapy based on the module number, link number, and module taxa composition of the first six groups. Overall, it indicated that osimertinib therapy changed the intestinal microbiota to some extent, though not completely. In all, this pilot study provides an understanding of changes of intestinal microbiota from NSCLC patients in response to osimertinib therapy. No complete changes in intestinal microbiota seem to be closely linked with the few intestinal side effects and higher efficacy in response to osimertinib therapy.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.583525/full)
-
-10.3389/fmicb.2020.583525
+10.1038/s41467-020-19793-8
 
 ---
 
-## What connection is there between intestinal microbiota and heart disease?
- 27.11.2020, _A Poli_
+## Reduced rotavirus vaccine efficacy in protein malnourished human-faecal-microbiota-transplanted gnotobiotic pig model is in part attributed to the gut microbiota.
+ 27.11.2020, _V Srivastava, L Deblais, HC Huang, A Miyazaki, S Kandasamy, SN Langel, FC Paim, J Chepngeno, D Kathayat, AN Vlasova, LJ Saif, G Rajashekara_
 
 
-Information on the correlation between intestinal microbiota and cardiovascular risk is growing. Some species of the microbiota influence the metabolism of specific food components (such as carnitine, choline, phosphatidyl-choline), synthesizing the precursor of trimethylamine oxide, a molecule with documented harmful activity on the vascular wall. Other strains, on the other hand, metabolize dietary fibre by synthesizing short-chain fatty acids, which have a significant anti-inflammatory activity, or produce secondary metabolites originating from molecules present in food (such as enterodiol, which derives from lignin), characterized by a vascular protection activity. Prebiotic effects from plant compounds (such as berberine or resveratrol) are also documented, which would induce favourable changes in the composition of the microbiota. The possibility of influencing the composition and activity of the intestinal microbiota will probably represent, in the future, an important component of cardiovascular prevention strategies.
+The low efficacy of human rotavirus (HRV) vaccines in low- and middle-income countries (LMIC) remains a major challenge for global health. Protein-calorie malnutrition (kwashiorkor) affects the gut microbiota and compromises immune development, leading to environmental enteropathy, vaccine failures, and increased susceptibility to enteric diseases in young children. Relationship between diet and reduced vaccine efficacy in developing countries is not well established; therefore, we investigated the interconnections between the host-microbiota-nutrition-HRV vaccine using HRV-vaccinated, human infant faecal microbiota (HIFM)-transplanted neonatal gnotobiotic pigs fed with a protein deficient or sufficient diet. The microbiota from faecal, intestinal (duodenum, ileum, jejunum, and colon), and systemic tissue (liver, spleen, and mesenteric lymph node [MLN]) samples was analysed before and after HRV challenge using MiSeq 16S rRNA sequencing. Overall, microbiota from deficient fed HIFM pigs displayed, compared to the sufficient group, significantly higher Shannon index, especially in the faeces and lower intestines; higher level of Proteus and Enterococcus, and lower level of Bifidobacterium, Clostridium, and Streptococcus in the three types of samples collected (P&lt;0.05); and higher unique operational taxonomic units (OTUs), especially in the systemic tissues. Further, the multivariate analysis between microbiota and immunologic data showed that 38 OTUs at the genus level correlated (r2≤0.5 or ≥-0.5; P&lt;0.05) with at least one host immune response parameter (regulatory [Tregs and transforming growth factor-β], effectors [interferon (IFN)-γ+ CD4+ and CD8+ T cells, IFN-γ and interleukin (IL)-12], and inflammatory [tumour necrosis factor-α, IL-17 and IL-22]) and with opposite trends between diet groups. Differences described above were increased after HRV challenge. We demonstrated that a protein deficient diet affects the composition of the gut microbiota and those changes may further correlate with immune responses induced by HRV and perturbed by the deficient diet. Thus, our findings suggest that the reduced efficacy of HRV vaccine observed in Gn pig model is in part attributed to the altered microbiota composition.
 
-[Source](https://academic.oup.com/eurheartjsupp/article/22/Supplement_L/L117/5989600)
+[Source](https://doi.org/10.3920/bm2019.0139)
 
-10.1093/eurheartj/suaa149
-
----
-
-## The Student-Centered Classroom: The New Gut Feeling.
- 24.11.2020, _JK Lyles, M Oli_
-
-
-A student-centered, interactive course-based undergraduate research experience (CURE) was implemented in a microbiology course in order to provide an authentic research experience and to stimulate student interest and improve understanding of fermentation, probiotics, the human microbiome, and related topics. Students were immersed in the scientific process as they used fundamental techniques to investigate the probiotic composition of a fermented milk beverage, kefir-an unknown question with no predetermined outcomes. In order to assess the benefits and effect of this learning experience on the students, pre- and post-study surveys were administered using Qualtrics. Post-study, 93% of participants agreed that fermented foods are beneficial to human health (compared to 52% pre-study), and notably, 100% of participants indicated that they plan to apply this material in both their personal and professional lives and would suggest consuming probiotics or fermented products to alleviate gastrointestinal issues. As evidenced by demographic data, this CURE is suitable for implementation at both large and small institutions with diverse student populations. Collectively, these data indicate that this collaborative, discovery-based learning experience is a powerful educational tool, encouraging students to make real-life connections between microbiology, medicine, and their own health.
-
-[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnaa191/6000213)
-
-10.1093/femsle/fnaa191
+10.3920/BM2019.0139
 
 ---
 
-## Comparison of the fecal microbiota composition between the blue Sheep (Pseudois nayaur) fed with Lolium perenne and Sorghum sudanense.
- 26.11.2020, _H Wu, Y Yuan, H Pan_
+## Clinical efficacy of spray-based heat-treated lactobacilli in canine atopic dermatitis: a preliminary, open-label, uncontrolled study.
+ 27.11.2020, _D Santoro, L Fagman, Y Zhang, Y Fahong_
 
 
-Lolium perenne L. and Sorghum sudanense (Piper) Stapf. are two common forages fed to the captive blue sheep. However, the effect of these two forages on the gastrointestinal microbiota is largely unknown. We analyzed the microbiota diversity in feces of the captive blue sheep fed with L. perenne (F1) and S. sudanense (F2) by 16S rRNA sequencing. A total number of 20 major phyla and 29 genera fecal bacterial communities were detected in the two groups. The F1 and F2 groups shared common microbiota at the phylum level, which mainly consisted of Firmicutes and Bacteroidetes. Ruminococcaceae_UCG-005, Eubacterium_coprostanoligenes_group, Ruminococcaceae_UCG-013 and Ruminococcaceae_UCG-010 were top four dominant taxa at the genus level. The percentage of Ruminococcaceae_UCG-010 in F2 was significantly higher than that in F1 (~2.75 fold). The diversity and abundance of the microbial community in F2 were higher than that in F1. Although both of the L. perenne and S. sudanense effect the blue sheep gastrointestinal microbiota metabolism, the S. sudanense improves more aspects in metabolism and biogenesis. In summary, our results demonstrated that the L. perenne and S. sudanense effect the blue sheep gastrointestinal microbiota in different ways. But S. sudanense efficiently improved the blue sheep gastrointestinal microbiota.
+Canine atopic dermatitis (cAD) is a common inflammatory and pruritic skin disease, with various treatment options. The use of topical products containing natural ingredients has proven increasingly popular.
 
-[Source](https://cdnsciencepub.com/doi/10.1139/cjm-2020-0333)
+[Source](https://doi.org/10.1111/vde.12915)
 
-10.1139/cjm-2020-0333
-
----
-
-## The plant microbiome: The dark and dirty secrets of plant growth 
-
-[Source](https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.10167)
+10.1111/vde.12915
 
 ---
 
-## Rapid shift in microbial community structure in a neutral hydrothermal hot spring from Costa Rica
+## Depthwise microbiome and isotopic profiling of a moderately saline microbial mat in a solar saltern
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.11.23.395137v1.abstract)
-
----
-
-## Vertical Stratification in Urban Green Space Aerobiomes
-
-[Source](https://ehp.niehs.nih.gov/doi/10.1289/EHP7807)
+[Source](https://doi.org/10.1038/s41598-020-77622-w)
 
 ---
 
-## Power calculations for detecting differences in efficacy of fecal microbiota donors
+## The application potential of machine learning and genomics for understanding natural product diversity, chemistry, and therapeutic translatability.
+ 27.11.2020, _D Prihoda, JM Maritz, O Klempir, D Dzamba, CH Woelk, DJ Hazuda, DA Bitton, GD Hannigan_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2451865420301587)
+
+Covering: up to the end of 2020.The machine learning field can be defined as the study and application of algorithms that perform classification and prediction tasks through pattern recognition instead of explicitly defined rules. Among other areas, machine learning has excelled in natural language processing. As such methods have excelled at understanding written languages (e.g. English), they are also being applied to biological problems to better understand the "genomic language". In this review we focus on recent advances in applying machine learning to natural products and genomics, and how those advances are improving our understanding of natural product biology, chemistry, and drug discovery. We discuss machine learning applications in genome mining (identifying biosynthetic signatures in genomic data), predictions of what structures will be created from those genomic signatures, and the types of activity we might expect from those molecules. We further explore the application of these approaches to data derived from complex microbiomes, with a focus on the human microbiome. We also review challenges in leveraging machine learning approaches in the field, and how the availability of other "omics" data layers provides value. Finally, we provide insights into the challenges associated with interpreting machine learning models and the underlying biology and promises of applying machine learning to natural product drug discovery. We believe that the application of machine learning methods to natural product research is poised to accelerate the identification of new molecular entities that may be used to treat a variety of disease indications.
+
+[Source](https://doi.org/10.1039/d0np00055h)
+
+10.1039/d0np00055h
+
+---
+
+## Efficient protection of microorganisms for delivery to the intestinal tract by cellulose sulphate encapsulation.
+ 27.11.2020, _WH Gunzburg, MM Aung, P Toa, S Ng, E Read, WJ Tan, EM Brandtner, J Dangerfield, B Salmons_
+
+
+Gut microbiota in humans and animals play an important role in health, aiding in digestion, regulation of the immune system and protection against pathogens. Changes or imbalances in the gut microbiota (dysbiosis) have been linked to a variety of local and systemic diseases, and there is growing evidence that restoring the balance of the microbiota by delivery of probiotic microorganisms can improve health. However, orally delivered probiotic microorganisms must survive transit through lethal highly acid conditions of the stomach and bile salts in the small intestine. Current methods to protect probiotic microorganisms are still not effective enough.
+
+[Source](https://doi.org/10.1186/s12934-020-01465-3)
+
+10.1186/s12934-020-01465-3
 
 ---
 
