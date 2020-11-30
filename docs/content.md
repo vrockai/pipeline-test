@@ -89,7 +89,7 @@ With increasing attention being paid to improving emotional well-being, recent e
 ---
 
 ## Vitamin D metabolites and the gut microbiome in older men.
- 27.11.2020, _RL Thomas, L Jiang, JS Adams, ZZ Xu, J Shen, S Janssen, G Ackermann, D Vanderschueren, S Pauwels, R Knight, ES Orwoll, DM Kado_
+ 29.11.2020, _RL Thomas, L Jiang, JS Adams, ZZ Xu, J Shen, S Janssen, G Ackermann, D Vanderschueren, S Pauwels, R Knight, ES Orwoll, DM Kado_
 
 
 The vitamin D receptor is highly expressed in the gastrointestinal tract where it transacts gene expression. With current limited understanding of the interactions between the gut microbiome and vitamin D, we conduct a cross-sectional analysis of 567 older men quantifying serum vitamin D metabolites using LC-MSMS and defining stool sub-Operational Taxonomic Units from16S ribosomal RNA gene sequencing data. Faith's Phylogenetic Diversity and non-redundant covariate analyses reveal that the serum 1,25(OH)2D level explains 5% of variance in α-diversity. In β-diversity analyses using unweighted UniFrac, 1,25(OH)2D is the strongest factor assessed, explaining 2% of variance. Random forest analyses identify 12 taxa, 11 in the phylum Firmicutes, eight of which are positively associated with either 1,25(OH)2D and/or the hormone-to-prohormone [1,25(OH)2D/25(OH)D] "activation ratio." Men with higher levels of 1,25(OH)2D and higher activation ratios, but not 25(OH)D itself, are more likely to possess butyrate producing bacteria that are associated with better gut microbial health.
