@@ -1,156 +1,216 @@
-## The Dutch Microbiome Project defines factors that shape the healthy gut microbiome
-
-[Source](https://doi.org/10.1101/2020.11.27.401125)
-
----
-
-## Viral Infection-Induced Gut Dysbiosis, Neuroinflammation, and α-Synuclein Aggregation: Updates and Perspectives on COVID-19 and Neurodegenerative Disorders.
- 27.11.2020, _C Follmer_
+## The dynamic wound microbiome.
+ 27.11.2020, _C Liu, AJ Ponsero, DG Armstrong, BA Lipsky, BL Hurwitz_
 
 
-The current pandemic of coronavirus disease 2019 (COVID-19) has gained increased attention in the neuroscience community, especially taking into account the neuroinvasive potential of its causative agent, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the impact of its infection on the structure and function of the brain. Apart from the neurotropic properties of SARS-CoV-2, it is likewise important the observation that virus infection may perturb specific cellular processes that are believed to play an important role in the pathogenesis of diverse neurological disorders, particularly in Parkinson's disease (PD). In this scenario, viral infection-induced colon inflammation, gut microbial imbalance, and α-synuclein upregulation are of particular interest with regard to the interplay between the gastrointestinal tract and the central nervous system (microbiome-gut-brain axis). In this Perspective, we present a critical view on the different hypotheses that are recently being raised by neuroscientists about the relationship between SARS-CoV-2 infection and long-lasting neurodegenerative disorders, opening the question of whether COVID-19 might represent a risk factor for the development of PD.
+Diabetic foot ulcers (DFUs) account for the majority of all limb amputations and hospitalizations due to diabetes complications. With 30 million cases of diabetes in the USA and 500,000 new diagnoses each year, DFUs are a growing health problem. Diabetes patients with limb amputations have high postoperative mortality, a high rate of secondary amputation, prolonged inpatient hospital stays, and a high incidence of re-hospitalization. DFU-associated amputations constitute a significant burden on healthcare resources that cost more than 10 billion dollars per year. Currently, there is no way to identify wounds that will heal versus those that will become severely infected and require amputation.
 
-[Source](https://doi.org/10.1021/acschemneuro.0c00671)
+[Source](https://link.springer.com/article/10.1186/s12916-020-01820-6)
 
-10.1021/acschemneuro.0c00671
+10.1186/s12916-020-01820-6
 
 ---
 
-## Dual and mutual interaction between microbiota and viral infections: a possible treat for COVID-19.
- 29.11.2020, _T Baghbani, H Nikzad, J Azadbakht, F Izadpanah, H Haddad Kashani_
+## Human papilloma virus (HPV) prevalence upon HPV vaccination in Swedish youth: a review based on our findings 2008-2018, and perspectives on cancer prevention.
+ 28.11.2020, _J Du, A Ährlund-Richter, A Näsman, T Dalianis_
 
 
-All of humans and other mammalian species are colonized by some types of microorganisms such as bacteria, archaea, unicellular eukaryotes like fungi and protozoa, multicellular eukaryotes like helminths, and viruses, which in whole are called microbiota. These microorganisms have multiple different types of interaction with each other. A plethora of evidence suggests that they can regulate immune and digestive systems and also play roles in various diseases, such as mental, cardiovascular, metabolic and some skin diseases. In addition, they take-part in some current health problems like diabetes mellitus, obesity, cancers and infections. Viral infection is one of the most common and problematic health care issues, particularly in recent years that pandemics like SARS and COVID-19 caused a lot of financial and physical damage to the world. There are plenty of articles investigating the interaction between microbiota and infectious diseases. We focused on stimulatory to suppressive effects of microbiota on viral infections, hoping to find a solution to overcome this current pandemic. Then we reviewed mechanistically the effects of both microbiota and probiotics on most of the viruses. But unlike previous studies which concentrated on intestinal microbiota and infection, our focus is on respiratory system's microbiota and respiratory viral infection, bearing in mind that respiratory system is a proper entry site and residence for viruses, and whereby infection, can lead to asymptomatic, mild, self-limiting, severe or even fatal infection. Finally, we overgeneralize the effects of microbiota on COVID-19 infection. In addition, we reviewed the articles about effects of the microbiota on coronaviruses and suggest some new therapeutic measures.
+Three human papillomavirus (HPV) vaccines are available against up to nine HPV types. In Sweden, from 2012, Gardasil was offered to 10-12 year old girls through the school-based vaccination program, and as catchup vaccination for women up to 26 years. To obtain a baseline, and follow HPV vaccination effects, during 2008-2018, cervical and oral HPV prevalence were followed at a youth clinic in Stockholm, and in 2013 for comparison oral HPV prevalence was examined in high-school youth in a middle-sized county in Sweden.
 
-[Source](https://doi.org/10.1186/s12934-020-01483-1)
+[Source](https://www.karger.com/Article/FullText/511477)
 
-10.1186/s12934-020-01483-1
-
----
-
-## Gut microbiome is more stable in males than in females during the development of colorectal cancer.
- 27.11.2020, _H Liao, C Li, Y Ai, Y Kou_
-
-
-Gut microbial alterations have great potential to predict the development of colorectal cancer (CRC); however, how gut microbes respond to the development of CRC in males and females at the community level is unknown. We aim to investigate the differences of gut microbiota between the male and female.
-
-[Source](https://doi.org/10.1111/jam.14943)
-
-10.1111/jam.14943
+10.1007/s00404-020-05879-7
 
 ---
 
-## Expression of toll-like and adhesive receptors on epithelial cells of the oral mucosa in periodontitis.
- 27.11.2020, _OA Lukova, MI Zaslavskaya, TV Makhrova, VS Kropotov, EV Kitaeva_
+## Microbiome and Cervical Cancer
 
-
-The expression of toll-like and adhesive receptors on epithelial cells of the oral mucosa changes in different pathological conditions, both local and systemic levels, in particular, in chronic periodontitis. The long-term presence of periodontal pathogenic microorganisms in the gingival furrow stimulates and supports the inflammatory process. The interaction of periodontal pathogens with epithelial cells of the oral mucosa is the first stage of the development of periodontitis. The pathological process affects the function of epithelial cells, in particular their ability to interact with representatives of microbiocenosis. Therefore, the natural colonization of normal oral microbiota on buccal epitheliocytes, reflecting the ability of epithelial cells to microbial adhesion, is a sensitive indicator of various destabilizing processes. Determining the level of expression of toll-like TLR2 and TLR4 receptors on epithelial cells also allows us to assess the functional state of cells and the severity of the inflammatory process at the level of the oral mucosa, in particular, in chronic periodontitis. In this paper, we studied the receptor-dependent reactions of buccal epithelial cells in chronic periodontitis using flow cytofluorometry and by determining the level of natural (microbial) colonization. The authors also compared these methods for determining the functional state of mucosal cells in chronic periodontitis. The results showed that in patients with periodontitis, the activity of receptors involved in adhesive reactions with the oral microbiota changed slightly and was little higher than in healthy donors. At the same time, the expression of TLRs on epithelial cells in periodontitis changed significantly. Thus, the percentage of cells expressing TLR2 significantly increased, while TLR4 decreased. Concurrently, the percentage of mucosal cells that do not have TLRs increased significantly in oral pathology. Thus, the study of TLR2 - and TLR4-expression on buccal epithelial cells is a more representative test in assessing the severity of the inflammatory process in chronic periodontitis than determining the level of natural colonization.
-
-[Source](https://doi.org/10.18821/0869-2084-2020-65-10-645-648)
-
-10.18821/0869-2084-2020-65-10-645-648
+[Source](https://www.karger.com/Article/FullText/511477)
 
 ---
 
-## The Microbiome in Hidradenitis Suppurativa: A Review.
- 27.11.2020, _KJL Wark, GD Cains_
+## The impact of maternal obesity on childhood neurodevelopment.
+ 29.11.2020, _L Tong, BT Kalish_
 
 
-Hidradenitis suppurativa (HS) is a chronic autoinflammatory skin disease. It is characterised by the development of abscesses and nodules in intertriginous anatomical sites. Whilst it is now recognised as an autoinflammatory condition rather than an infective disease, bacteria are implicated in disease pathogenesis.
+There is growing clinical and experimental evidence to suggest that maternal obesity increases children's susceptibility to neurodevelopmental and neuropsychiatric disorders. Given the worldwide obesity epidemic, it is crucial that we acquire a thorough understanding of the available evidence, identify gaps in knowledge, and develop an agenda for intervention. This review synthesizes human and animal studies investigating the association between maternal obesity and offspring brain health. It also highlights key mechanisms underlying these effects, including maternal and fetal inflammation, alterations to the microbiome, epigenetic modifications of neurotrophic genes, and impaired dopaminergic and serotonergic signaling. Lastly, this review highlights several proposed interventions and priorities for future investigation.
 
-[Source](https://doi.org/10.1007/s13555-020-00465-w)
+[Source](https://www.nature.com/articles/s41372-020-00871-0)
 
-10.1007/s13555-020-00465-w
-
----
-
-## Evaluation of the upper airway microbiome and immune response with nasal epithelial lining fluid absorption and nasal washes.
- 27.11.2020, _MH Shilts, C Rosas-Salazar, CE Lynch, A Tovchigrechko, HH Boone, PB Russell, AS Connolly, KM Costello, MD McCollum, A Mai, DA Wiggins, SV Rajagopala, S Yooseph, RS Peebles, TV Hartert, SR Das_
-
-
-Despite being commonly used to collect upper airway epithelial lining fluid, nasal washes are poorly reproducible, not suitable for serial sampling, and limited by a dilution effect. In contrast, nasal filters lack these limitations and are an attractive alternative. To examine whether nasal filters are superior to nasal washes as a sampling method for the characterization of the upper airway microbiome and immune response, we collected paired nasal filters and washes from a group of 40 healthy children and adults. To characterize the upper airway microbiome, we used 16S ribosomal RNA and shotgun metagenomic sequencing. To characterize the immune response, we measured total protein using a BCA assay and 53 immune mediators using multiplex magnetic bead-based assays. We conducted statistical analyses to compare common microbial ecology indices and immune-mediator median fluorescence intensities (MFIs) between sample types. In general, nasal filters were more likely to pass quality control in both children and adults. There were no significant differences in microbiome community richness, α-diversity, or structure between pediatric samples types; however, these were all highly dissimilar between adult sample types. In addition, there were significant differences in the abundance of amplicon sequence variants between sample types in children and adults. In adults, total proteins were significantly higher in nasal filters than nasal washes; consequently, the immune-mediator MFIs were not well detected in nasal washes. Based on better quality control sequencing metrics and higher immunoassay sensitivity, our results suggest that nasal filters are a superior sampling method to characterize the upper airway microbiome and immune response in both children and adults.
-
-[Source](https://doi.org/10.1038/s41598-020-77289-3)
-
-10.1038/s41598-020-77289-3
+10.1038/s41372-020-00871-0
 
 ---
 
-## Emotional well-being and gut microbiome profiles by enterotype.
- 29.11.2020, _SH Lee, SH Yoon, Y Jung, N Kim, U Min, J Chun, I Choi_
+## Perinatal environment shapes microbiota colonization and infant growth: impact on host response and intestinal function.
+ 27.11.2020, _M Selma-Royo, M Calatayud Arroyo, I García-Mantrana, A Parra-Llorca, R Escuriet, C Martínez-Costa, MC Collado_
 
 
-With increasing attention being paid to improving emotional well-being, recent evidence points to gut microbiota as a key player in regulating mental and physical health via bidirectional communication between the brain and gut. Here, we examine the association between emotional well-being and gut microbiome profiles (i.e., gut microbiome composition, diversity, and the moderating role of the enterotypes) among healthy Korean adults (n = 83, mean age = 48.9, SD = 13.2). The research was performed using high-throughput 16S rRNA gene sequencing to obtain gut microbiome profiles, as well as a self-report survey that included the Positive Affect Negative Affect Schedule (PANAS). The cluster-based analysis identified two enterotypes dominated by the genera Bacteroides (n = 49) and Prevotella (n = 34). Generalized linear regression analysis reveals significant associations between positive emotion and gut microbiome diversity (Shannon Index) among participants in the Prevotella dominant group, whereas no such relationship emerged among participants in the Bacteroides group. Moreover, a novel genus from the family Lachnospiraceae is associated with emotional well-being scores, both positive and negative. Together, the current findings highlight the enterotype-specific links between the gut microbiota community and emotion in healthy adults and suggest the possible roles of the gut microbiome in promoting mental health.
+Early microbial colonization triggers processes that result in intestinal maturation and immune priming. Perinatal factors, especially those associated with birth, including both mode and place of delivery are critical to shaping the infant gut microbiota with potential health consequences.
 
-[Source](https://doi.org/10.1038/s41598-020-77673-z)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00940-8)
 
-10.1038/s41598-020-77673-z
-
----
-
-## Vitamin D metabolites and the gut microbiome in older men.
- 29.11.2020, _RL Thomas, L Jiang, JS Adams, ZZ Xu, J Shen, S Janssen, G Ackermann, D Vanderschueren, S Pauwels, R Knight, ES Orwoll, DM Kado_
-
-
-The vitamin D receptor is highly expressed in the gastrointestinal tract where it transacts gene expression. With current limited understanding of the interactions between the gut microbiome and vitamin D, we conduct a cross-sectional analysis of 567 older men quantifying serum vitamin D metabolites using LC-MSMS and defining stool sub-Operational Taxonomic Units from16S ribosomal RNA gene sequencing data. Faith's Phylogenetic Diversity and non-redundant covariate analyses reveal that the serum 1,25(OH)2D level explains 5% of variance in α-diversity. In β-diversity analyses using unweighted UniFrac, 1,25(OH)2D is the strongest factor assessed, explaining 2% of variance. Random forest analyses identify 12 taxa, 11 in the phylum Firmicutes, eight of which are positively associated with either 1,25(OH)2D and/or the hormone-to-prohormone [1,25(OH)2D/25(OH)D] "activation ratio." Men with higher levels of 1,25(OH)2D and higher activation ratios, but not 25(OH)D itself, are more likely to possess butyrate producing bacteria that are associated with better gut microbial health.
-
-[Source](https://doi.org/10.1038/s41467-020-19793-8)
-
-10.1038/s41467-020-19793-8
+10.1186/s40168-020-00940-8
 
 ---
 
-## Reduced rotavirus vaccine efficacy in protein malnourished human-faecal-microbiota-transplanted gnotobiotic pig model is in part attributed to the gut microbiota.
- 27.11.2020, _V Srivastava, L Deblais, HC Huang, A Miyazaki, S Kandasamy, SN Langel, FC Paim, J Chepngeno, D Kathayat, AN Vlasova, LJ Saif, G Rajashekara_
+## Breastfeeding restored the gut microbiota in caesarean section infants and lowered the infection risk in early life.
+ 26.11.2020, _C Guo, Q Zhou, M Li, L Zhou, L Xu, Y Zhang, D Li, Y Wang, W Dai, S Li, L Zhang_
 
 
-The low efficacy of human rotavirus (HRV) vaccines in low- and middle-income countries (LMIC) remains a major challenge for global health. Protein-calorie malnutrition (kwashiorkor) affects the gut microbiota and compromises immune development, leading to environmental enteropathy, vaccine failures, and increased susceptibility to enteric diseases in young children. Relationship between diet and reduced vaccine efficacy in developing countries is not well established; therefore, we investigated the interconnections between the host-microbiota-nutrition-HRV vaccine using HRV-vaccinated, human infant faecal microbiota (HIFM)-transplanted neonatal gnotobiotic pigs fed with a protein deficient or sufficient diet. The microbiota from faecal, intestinal (duodenum, ileum, jejunum, and colon), and systemic tissue (liver, spleen, and mesenteric lymph node [MLN]) samples was analysed before and after HRV challenge using MiSeq 16S rRNA sequencing. Overall, microbiota from deficient fed HIFM pigs displayed, compared to the sufficient group, significantly higher Shannon index, especially in the faeces and lower intestines; higher level of Proteus and Enterococcus, and lower level of Bifidobacterium, Clostridium, and Streptococcus in the three types of samples collected (P&lt;0.05); and higher unique operational taxonomic units (OTUs), especially in the systemic tissues. Further, the multivariate analysis between microbiota and immunologic data showed that 38 OTUs at the genus level correlated (r2≤0.5 or ≥-0.5; P&lt;0.05) with at least one host immune response parameter (regulatory [Tregs and transforming growth factor-β], effectors [interferon (IFN)-γ+ CD4+ and CD8+ T cells, IFN-γ and interleukin (IL)-12], and inflammatory [tumour necrosis factor-α, IL-17 and IL-22]) and with opposite trends between diet groups. Differences described above were increased after HRV challenge. We demonstrated that a protein deficient diet affects the composition of the gut microbiota and those changes may further correlate with immune responses induced by HRV and perturbed by the deficient diet. Thus, our findings suggest that the reduced efficacy of HRV vaccine observed in Gn pig model is in part attributed to the altered microbiota composition.
+The initialization of the neonatal gut microbiota (GM) is affected by diverse factors and is associated with infant development and health outcomes.
 
-[Source](https://doi.org/10.3920/bm2019.0139)
+[Source](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-020-02433-x)
 
-10.3920/BM2019.0139
-
----
-
-## Clinical efficacy of spray-based heat-treated lactobacilli in canine atopic dermatitis: a preliminary, open-label, uncontrolled study.
- 27.11.2020, _D Santoro, L Fagman, Y Zhang, Y Fahong_
-
-
-Canine atopic dermatitis (cAD) is a common inflammatory and pruritic skin disease, with various treatment options. The use of topical products containing natural ingredients has proven increasingly popular.
-
-[Source](https://doi.org/10.1111/vde.12915)
-
-10.1111/vde.12915
+10.1186/s12887-020-02433-x
 
 ---
 
-## Depthwise microbiome and isotopic profiling of a moderately saline microbial mat in a solar saltern
-
-[Source](https://doi.org/10.1038/s41598-020-77622-w)
-
----
-
-## The application potential of machine learning and genomics for understanding natural product diversity, chemistry, and therapeutic translatability.
- 27.11.2020, _D Prihoda, JM Maritz, O Klempir, D Dzamba, CH Woelk, DJ Hazuda, DA Bitton, GD Hannigan_
+## Dental plaque microbiota profiles of children with caries-free and caries-active dentition.
+ 28.11.2020, _MA Qudeimat, A Alyahya, M Karched, J Behbehani, NO Salako_
 
 
-Covering: up to the end of 2020.The machine learning field can be defined as the study and application of algorithms that perform classification and prediction tasks through pattern recognition instead of explicitly defined rules. Among other areas, machine learning has excelled in natural language processing. As such methods have excelled at understanding written languages (e.g. English), they are also being applied to biological problems to better understand the "genomic language". In this review we focus on recent advances in applying machine learning to natural products and genomics, and how those advances are improving our understanding of natural product biology, chemistry, and drug discovery. We discuss machine learning applications in genome mining (identifying biosynthetic signatures in genomic data), predictions of what structures will be created from those genomic signatures, and the types of activity we might expect from those molecules. We further explore the application of these approaches to data derived from complex microbiomes, with a focus on the human microbiome. We also review challenges in leveraging machine learning approaches in the field, and how the availability of other "omics" data layers provides value. Finally, we provide insights into the challenges associated with interpreting machine learning models and the underlying biology and promises of applying machine learning to natural product drug discovery. We believe that the application of machine learning methods to natural product research is poised to accelerate the identification of new molecular entities that may be used to treat a variety of disease indications.
+Microbiota comparisons between healthy and diseased dental tissues have accentuated the importance of cultivating and identifying bacterial species that play a role in the initiation and progression of dental caries. The objective of this study was to evaluate the bacterial community composition in caries-active and caries-free children.
 
-[Source](https://doi.org/10.1039/d0np00055h)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0300571220302876)
 
-10.1039/d0np00055h
+10.1016/j.jdent.2020.103539
 
 ---
 
-## Efficient protection of microorganisms for delivery to the intestinal tract by cellulose sulphate encapsulation.
- 27.11.2020, _WH Gunzburg, MM Aung, P Toa, S Ng, E Read, WJ Tan, EM Brandtner, J Dangerfield, B Salmons_
+## Microbiomics: Were we all wrong before?
+ 23.11.2020, _PS Kumar_
 
 
-Gut microbiota in humans and animals play an important role in health, aiding in digestion, regulation of the immune system and protection against pathogens. Changes or imbalances in the gut microbiota (dysbiosis) have been linked to a variety of local and systemic diseases, and there is growing evidence that restoring the balance of the microbiota by delivery of probiotic microorganisms can improve health. However, orally delivered probiotic microorganisms must survive transit through lethal highly acid conditions of the stomach and bile salts in the small intestine. Current methods to protect probiotic microorganisms are still not effective enough.
+Periodontal microbiology has historically been based on an "us against them" paradigm, one that focuses mainly on identifying microbes and viruses that cause disease. However, such a bottom-up approach limits our appreciation of the incredible diversity of this ecosystem and the essential ways in which microbial interactions contribute to health and homeostasis of the subgingival niche. Microbiomics-the science of collectively characterizing and quantifying molecules responsible for the structure, function, and dynamics of a microbial community-has enabled us to study these communities in their natural habitat, thereby revolutionizing our knowledge of host-associated microbes and reconceptualizing our definition of "human." When this systems-biology approach is combined with ecologic principles, it explicates the complex relationship that exist between microbiota and between them and us, the human. In this volume of Periodontology 2000, a group of 12 female scientists take the lead in investigating how metagenomics, genomics, metatranscriptomics, proteomics, metaproteomics, and metabolomics have achieved the following: (a) widened our view of the periodontal microbiome; (b) expanded our understanding of the evolution of the human oral microbiome; (c) shone a light on not just bacteria, but also other prokaryotic and eukaryotic members of the community; (d) elucidated the effects of anthropogenic behavior and systemic diseases on shaping these communities; and (e) influenced traditional patterns of periodontal therapeutics.
 
-[Source](https://doi.org/10.1186/s12934-020-01465-3)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12373)
 
-10.1186/s12934-020-01465-3
+10.1111/prd.12373
+
+---
+
+## Metaproteome and metabolome of oral microbial communities.
+ 23.11.2020, _N Bostanci, M Grant, K Bao, A Silbereisen, F Hetrodt, D Manoil, GN Belibasakis_
+
+
+The emergence of high-throughput technologies for the comprehensive measurement of biomolecules, also referred to as "omics" technologies, has helped us gather "big data" and characterize microbial communities. In this article, we focus on metaproteomic and metabolomic approaches that support hypothesis-driven investigations on various oral biologic samples. Proteomics reveals the working units of the oral milieu and metabolomics unveils the reactions taking place; and so these complementary techniques can unravel the functionality and underlying regulatory processes within various oral microbial communities. Current knowledge of the proteomic interplay and metabolic interactions of microorganisms within oral biofilm and salivary microbiome communities is presented and discussed, from both clinical and basic research perspectives. Communities indicative of, or from, health, caries, periodontal diseases, and endodontic lesions are represented. Challenges, future prospects, and examples of best practice are given.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12351)
+
+10.1111/prd.12351
+
+---
+
+## Gutmicrobiota, immunity and pain.
+ 28.11.2020, _M Santoni, F Miccini, N Battelli_
+
+
+The interplay between microbiota and nervous system has been associated with a variety of diseases, including stress, anxiety, depression and cognition. The growing body of evidences on the essential role of gut microbiota in modulating acute and chronic pain has opened a new frontier for pain management. Gut microbiota is involved in the development of visceral, inflammatory and neuropathic pain. Bacterial alterations due to chronic opioid administration have been directly related to the development of drug tolerance, which can be potentially restored by the use of probiotics and antibiotics. In this review we describe the mechanisms underlying the brain/gut axis and the relationship between gut microbiota, immunity and pain.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0165247820304211)
+
+10.1016/j.imlet.2020.11.010
+
+---
+
+## A comprehensive human minimal gut metagenome extends the host's metabolic potential.
+ 03.11.2020, _M Parras-Moltó, D Aguirre de Cárcer_
+
+
+Accumulating evidence suggests that humans could be considered as holobionts in which the gut microbiota play essential functions. Initial metagenomic studies reported a pattern of shared genes in the gut microbiome of different individuals, leading to the definition of the minimal gut metagenome as the set of microbial genes necessary for homeostasis and present in all healthy individuals. This study analyses the minimal gut metagenome of the most comprehensive dataset available, including individuals from agriculturalist and industrialist societies, also embodying highly diverse ethnic and geographical backgrounds. The outcome, based on metagenomic predictions for community composition data, resulted in a minimal metagenome comprising 3412 genes, mapping to 1856 reactions and 128 metabolic pathways predicted to occur across all individuals. These results were substantiated by the analysis of two additional datasets describing the microbial community compositions of larger Western cohorts, as well as a substantial shotgun metagenomics dataset. Subsequent analyses showed the plausible metabolic complementarity provided by the minimal gut metagenome to the human genome.
+
+[Source](https://www.gastrojournal.org/article/S0016-5085(20)35508-6/fulltext)
+
+10.1099/mgen.0.000466
+
+---
+
+## The Healthy Microbiome (What is the definition of a healthy gut microbiome?)
+
+[Source](https://www.gastrojournal.org/article/S0016-5085(20)35508-6/fulltext)
+
+---
+
+## Altered gut bacterial and metabolic signatures and their interaction in gestational diabetes mellitus.
+ 23.11.2020, _X Wang, H Liu, Y Li, S Huang, L Zhang, C Cao, PN Baker, C Tong, P Zheng, H Qi_
+
+
+Emerging evidence indicates that the gut microbiome can modulate metabolic homeostasis, and thus may influence the development of gestational diabetes mellitus (GDM). However, whether and how the gut microbiome and its correlated metabolites change in GDM is uncertain. Herein we compare the gut microbial compositions, and fecal and urine metabolomes, of 59 patients with GDM versus 48 pregnant healthy controls (HCs). We showed that the microbial and metabolic signatures of GDM patients were significantly different from those of HCs. Compared to HCs, the GDM subjects were characterized by enriched bacterial operational taxonomic units (OTUs) of the family Lachnospiraceae, and depleted OTUs of the families Enterobacteriaceae and Ruminococcaceae. Some altered gut microbes were significantly correlated with glucose values and fetal ultrasonography indexes. Moreover, we identified four fecal and 15 urine metabolites that discriminate GDM from HC. These differential metabolites are mainly involved in carbohydrate and amino acid metabolism. Significantly, co-occurrence network analysis revealed that Lachnospiraceae and Enterobacteriaceae bacterial OTUs formed strong co-occurring relationships with metabolites involved in carbohydrate and amino acid metabolism, suggesting that disturbed gut microbiome may mediate GDM. Furthermore, we identified a novel combinatorial marker panel that could distinguish GDM from HC subjects with high accuracy. Together our findings demonstrate that altered microbial composition and metabolic function may be relevant to the pathogenesis and pathophysiology of GDM.
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1840765)
+
+10.1080/19490976.2020.1840765
+
+---
+
+## Diet induces parallel changes to the gut microbiota and problem solving performance in a wild bird
+
+[Source](https://www.nature.com/articles/s41598-020-77256-y)
+
+---
+
+## Wild black bears harbor simple gut microbial communities with little difference between the jejunum and colon.
+ 28.11.2020, _SJ Gillman, EA McKenney, DJR Lafferty_
+
+
+The gut microbiome (GMB), comprising the commensal microbial communities located in the gastrointestinal tract, has co-evolved in mammals to perform countless micro-ecosystem services to facilitate physiological functions. Because of the complex inter-relationship between mammals and their gut microbes, the number of studies addressing the role of the GMB on mammalian health is almost exclusively limited to human studies and model organisms. Furthermore, much of our knowledge of wildlife-GMB relationships is based on studies of colonic GMB communities derived from the feces of captive specimens, leaving our understanding of the GMB in wildlife limited. To better understand wildlife-GMB relationships, we engaged hunters as citizen scientists to collect biological samples from legally harvested black bears (Ursus americanus) and used 16S rRNA gene amplicon sequencing to characterize wild black bear GMB communities in the colon and jejunum, two functionally distinct regions of the gastrointestinal tract. We determined that the jejunum and colon of black bears do not harbor significantly different GMB communities: both gastrointestinal sites were dominated by Firmicutes and Proteobacteria. However, a number of bacteria were differentially enriched in each site, with the colon harboring twice as many enriched taxa, primarily from closely related lineages.
+
+[Source](https://www.nature.com/articles/s41598-020-77282-w)
+
+10.1038/s41598-020-77282-w
+
+---
+
+## Age Patterning in Wild Chimpanzee Gut Microbiota Diversity Reveals Differences from Humans in Early Life.
+ 24.11.2020, _AT Reese, SR Phillips, LA Owens, EM Venable, KE Langergraber, ZP Machanda, JC Mitani, MN Muller, DP Watts, RW Wrangham, TL Goldberg, M Emery Thompson, RN Carmody_
+
+
+Survival in primates is facilitated by commensal gut microbes that ferment otherwise indigestible plant matter, resist colonization by pathogens, and train the developing immune system.1,2 However, humans are unique among primates in that we consume highly digestible foods, wean early, mature slowly, and exhibit high lifelong investments in maintenance.3-6 These adaptations suggest that lifetime trajectories of human-microbial relationships could differ from those of our closest living relatives. Here, we profile the gut microbiota of 166 wild chimpanzees aged 8 months to 67 years in the Kibale National Park, Uganda and compare the patterns of gut microbial maturation to those previously observed in humans. We found that chimpanzee gut microbial alpha-diversity, composition, density, interindividual variation, and within-individual change over time varied significantly with age. Notably, gut microbial signatures in infants &lt;2 years old were distinct across all five metrics. Infant chimpanzee guts were enriched in some of the same taxa prevalent in infant humans (e.g., Bifidobacterium, Streptococcus, and Bacteroides), and chimpanzee gut microbial communities, like those of humans, exhibited higher interindividual variation in infancy versus later in life. However, in direct contrast to human infants, chimpanzee infants harbored surprisingly high-diversity rather than low-diversity gut bacterial communities compared with older conspecifics. These data indicate differential trajectories of gut microbiota development in humans and chimpanzees that are consistent with interspecific differences in lactation, diet, and immune function. Probing the phenotypic consequences of differential early-life gut microbial diversity in chimpanzees and other primates will illuminate the life history impacts of the hominid-microbiome partnership.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982220316523)
+
+10.1016/j.cub.2020.10.075
+
+---
+
+## Genetic selection for growth drives differences in intestinal microbiota composition and parasite disease resistance in gilthead sea bream.
+ 26.11.2020, _MC Piazzon, F Naya-Català, E Perera, O Palenzuela, A Sitjà-Bobadilla, J Pérez-Sánchez_
+
+
+The key effects of intestinal microbiota in animal health have led to an increasing interest in manipulating these bacterial populations to improve animal welfare. The aquaculture sector is no exception and in the last years, many studies have described these populations in different fish species. However, this is not an easy task, as intestinal microbiota is composed of very dynamic populations that are influenced by different factors, such as diet, environment, host age, and genetics. In the current study, we aimed to determine whether the genetic background of gilthead sea bream (Sparus aurata) influences the intestinal microbial composition, how these bacterial populations are modulated by dietary changes, and the effect of selection by growth on intestinal disease resistance. To that aim, three different groups of five families of gilthead sea bream that were selected during two generations for fast, intermediate, or slow growth (F3 generation) were kept together in the same open-flow tanks and fed a control or a well-balanced plant-based diet during 9 months. Six animals per family and dietary treatment were sacrificed and the adherent bacteria from the anterior intestinal portion were sequenced. In parallel, fish of the fast- and slow-growth groups were infected with the intestinal parasite Enteromyxum leei and the disease signs, prevalence, intensity, and parasite abundance were evaluated.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00922-w)
+
+10.1186/s40168-020-00922-w
+
+---
+
+## A comparison of the functional diversity of microbial communities in maize rhizosphere soils in the North West Province of South Africa
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S2452219820301944)
+
+---
+
+## Beyond the extremes: Rocks as ultimate refuge for fungi in drylands.
+ 24.11.2020, _C Coleine, JE Stajich, A de Los Ríos, L Selbmann_
+
+
+In an era of rapid climate change and expansion of desertification, the extremely harsh conditions of drylands are a true challenge for microbial life. Under drought conditions, where most life forms cannot survive, rocks represent the main refuge for life. Indeed, the endolithic habitat provides thermal buffering, physical stability, and protection against incident ultraviolet (UV) radiation and solar radiation and, to some extent, ensures water retention to microorganisms. The study of these highly specialized extreme-tolerant and extremophiles may provide tools for understanding microbial interactions and processes that allow them to keep their metabolic machinery active under conditions of dryness and oligotrophy that are typically incompatible with active life, up to the dry limits for life. Despite lithobiontic communities being studied all over the world, a comprehensive understanding of their ecology, evolution, and adaptation is still nascent. Herein, we survey the fungal component of these microbial ecosystems. We first provide an overview of the main defined groups (i.e., lichen-forming fungi, black fungi, and yeasts) of the most known and studied Antarctic endolithic communities that are almost the only life forms ensuring ecosystem functionality in the ice-free areas of the continent. For each group, we discuss their main traits and their diversity. Then, we focus on the fungal taxonomy and ecology of other worldwide endolithic communities. Finally, we highlight the utmost importance of a global rock survey in order to have a comprehensive view of the diversity, distribution, and functionality of these fungi in drylands, to obtain tools in desert area management, and as early alarm systems to climate change.
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/00275514.2020.1816761)
+
+10.1080/00275514.2020.1816761
+
+---
+
+## Emerging computational tools and models for studying gut microbiota composition and function.
+ 28.11.2020, _SY Park, A Ufondu, K Lee, A Jayaraman_
+
+
+The gut microbiota and its metabolites play critical roles in human health and disease. Advances in high-throughput sequencing, mass spectrometry, and other omics assay platforms have improved our ability to generate large volumes of data exploring the temporal variations in the compositions and functions of microbial communities. To elucidate mechanisms, methods and tools are needed that can rigorously model the dependencies within time-series data. Longitudinal data are often sparse and unevenly sampled, and nontrivial challenges remain in determining statistical significance, normalization across different data types, and model validation. In this review, we highlight recent developments in models and software tools for the analysis of time series microbiome and metabolome data, as well as integration of these data.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0958166920301543)
+
+10.1016/j.copbio.2020.10.005
 
 ---
 
