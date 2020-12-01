@@ -10,15 +10,15 @@ Diabetic foot ulcers (DFUs) account for the majority of all limb amputations and
 
 ---
 
-## Human papilloma virus (HPV) prevalence upon HPV vaccination in Swedish youth: a review based on our findings 2008-2018, and perspectives on cancer prevention.
- 28.11.2020, _J Du, A Ährlund-Richter, A Näsman, T Dalianis_
+## Vaginal Microbiota and Cytokine Microenvironment in HPV Clearance/Persistence in Women Surgically Treated for Cervical Intraepithelial Neoplasia: An Observational Prospective Study.
+ 30.11.2020, _E Caselli, M D'Accolti, E Santi, I Soffritti, S Conzadori, S Mazzacane, P Greco, C Contini, G Bonaccorsi_
 
 
-Three human papillomavirus (HPV) vaccines are available against up to nine HPV types. In Sweden, from 2012, Gardasil was offered to 10-12 year old girls through the school-based vaccination program, and as catchup vaccination for women up to 26 years. To obtain a baseline, and follow HPV vaccination effects, during 2008-2018, cervical and oral HPV prevalence were followed at a youth clinic in Stockholm, and in 2013 for comparison oral HPV prevalence was examined in high-school youth in a middle-sized county in Sweden.
+High-risk human papillomaviruses (hrHPVs) are causally related to cervical intraepithelial neoplasia (CIN) and subsequent cervical cancer (CC). The vaginal microbiome has been suggested to play a role in the development of CC, but the effect of conservative surgical treatment on the microbiome and hrHPV elimination has not been elucidated. In this study, we aimed to characterize the vaginal microbiome and inflammatory chemokine profile in 85 women treated for CIN2-CIN3 lesions, before and after surgical CIN removal. The results showed, as expected, a high prevalence of dysbiotic microbiomes and vaginal pro-inflammatory cytokines in the CIN cohort, correlated with disease severity, at the basal level. By contrast, surgical CIN removal induced significant vaginal microbiome variations, and specific microbiome/cytokine profiles were associated with hrHPV clearance/persistence at 6-month follow-up. hrHPV-cleared patients, in fact, showed a specific increase of L. crispatus and decrease of dysbiosis and inflammatory cytokines compared to hrHPV-persistent patients. These data highlight the crosstalk between HPV and the local microbiome, and suggest that vaginal microbiome modulation might represent a novel approach to modifying the natural history of hrHPV-related CC. Study registration n. ISRCTN34437150 (https://www.isrctn.com/ISRCTN34437150).
 
 [Source](https://www.karger.com/Article/FullText/511477)
 
-10.1007/s00404-020-05879-7
+10.3389/fcimb.2020.540900
 
 ---
 
@@ -112,21 +112,15 @@ The interplay between microbiota and nervous system has been associated with a v
 
 ---
 
-## A comprehensive human minimal gut metagenome extends the host's metabolic potential.
- 30.11.2020, _M Parras-Moltó, D Aguirre de Cárcer_
+## The Healthy Microbiome (What is the definition of a healthy gut microbiome?).
+ 30.11.2020, _F Shanahan, TS Ghosh, PW O'Toole_
 
 
-Accumulating evidence suggests that humans could be considered as holobionts in which the gut microbiota play essential functions. Initial metagenomic studies reported a pattern of shared genes in the gut microbiome of different individuals, leading to the definition of the minimal gut metagenome as the set of microbial genes necessary for homeostasis and present in all healthy individuals. This study analyses the minimal gut metagenome of the most comprehensive dataset available, including individuals from agriculturalist and industrialist societies, also embodying highly diverse ethnic and geographical backgrounds. The outcome, based on metagenomic predictions for community composition data, resulted in a minimal metagenome comprising 3412 genes, mapping to 1856 reactions and 128 metabolic pathways predicted to occur across all individuals. These results were substantiated by the analysis of two additional datasets describing the microbial community compositions of larger Western cohorts, as well as a substantial shotgun metagenomics dataset. Subsequent analyses showed the plausible metabolic complementarity provided by the minimal gut metagenome to the human genome.
-
-[Source](https://www.gastrojournal.org/article/S0016-5085(20)35508-6/fulltext)
-
-10.1099/mgen.0.000466
-
----
-
-## The Healthy Microbiome (What is the definition of a healthy gut microbiome?)
+Use of microbiome-based biomarkers in diagnosis, prognosis, risk profiling, and precision therapy requires definition of a healthy microbiome in different populations. To determine features of the intestinal microbiota associated with health, however, we need improved microbiome profiling technologies, with strain-level resolution. We must also learn more about how the microbiome varies among apparently healthy people, how it changes with age, and the effects of diet, medications, ethnicity, geography, and lifestyle. Furthermore, many intestinal microbes, including viruses, phage, fungi, and archaea, have not been characterized, and little is known about their contributions to health and disease.Whether a healthy microbiome can be defined is an important and seemingly simple question, but with a complex answer in continual need of refinement.
 
 [Source](https://www.gastrojournal.org/article/S0016-5085(20)35508-6/fulltext)
+
+10.1053/j.gastro.2020.09.057
 
 ---
 
