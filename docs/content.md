@@ -29,7 +29,7 @@ Three human papillomavirus (HPV) vaccines are available against up to nine HPV t
 ---
 
 ## The impact of maternal obesity on childhood neurodevelopment.
- 29.11.2020, _L Tong, BT Kalish_
+ 30.11.2020, _L Tong, BT Kalish_
 
 
 There is growing clinical and experimental evidence to suggest that maternal obesity increases children's susceptibility to neurodevelopmental and neuropsychiatric disorders. Given the worldwide obesity epidemic, it is crucial that we acquire a thorough understanding of the available evidence, identify gaps in knowledge, and develop an agenda for intervention. This review synthesizes human and animal studies investigating the association between maternal obesity and offspring brain health. It also highlights key mechanisms underlying these effects, including maternal and fetal inflammation, alterations to the microbiome, epigenetic modifications of neurotrophic genes, and impaired dopaminergic and serotonergic signaling. Lastly, this review highlights several proposed interventions and priorities for future investigation.
@@ -113,7 +113,7 @@ The interplay between microbiota and nervous system has been associated with a v
 ---
 
 ## A comprehensive human minimal gut metagenome extends the host's metabolic potential.
- 03.11.2020, _M Parras-Moltó, D Aguirre de Cárcer_
+ 30.11.2020, _M Parras-Moltó, D Aguirre de Cárcer_
 
 
 Accumulating evidence suggests that humans could be considered as holobionts in which the gut microbiota play essential functions. Initial metagenomic studies reported a pattern of shared genes in the gut microbiome of different individuals, leading to the definition of the minimal gut metagenome as the set of microbial genes necessary for homeostasis and present in all healthy individuals. This study analyses the minimal gut metagenome of the most comprehensive dataset available, including individuals from agriculturalist and industrialist societies, also embodying highly diverse ethnic and geographical backgrounds. The outcome, based on metagenomic predictions for community composition data, resulted in a minimal metagenome comprising 3412 genes, mapping to 1856 reactions and 128 metabolic pathways predicted to occur across all individuals. These results were substantiated by the analysis of two additional datasets describing the microbial community compositions of larger Western cohorts, as well as a substantial shotgun metagenomics dataset. Subsequent analyses showed the plausible metabolic complementarity provided by the minimal gut metagenome to the human genome.
@@ -149,7 +149,7 @@ Emerging evidence indicates that the gut microbiome can modulate metabolic homeo
 ---
 
 ## Wild black bears harbor simple gut microbial communities with little difference between the jejunum and colon.
- 28.11.2020, _SJ Gillman, EA McKenney, DJR Lafferty_
+ 30.11.2020, _SJ Gillman, EA McKenney, DJR Lafferty_
 
 
 The gut microbiome (GMB), comprising the commensal microbial communities located in the gastrointestinal tract, has co-evolved in mammals to perform countless micro-ecosystem services to facilitate physiological functions. Because of the complex inter-relationship between mammals and their gut microbes, the number of studies addressing the role of the GMB on mammalian health is almost exclusively limited to human studies and model organisms. Furthermore, much of our knowledge of wildlife-GMB relationships is based on studies of colonic GMB communities derived from the feces of captive specimens, leaving our understanding of the GMB in wildlife limited. To better understand wildlife-GMB relationships, we engaged hunters as citizen scientists to collect biological samples from legally harvested black bears (Ursus americanus) and used 16S rRNA gene amplicon sequencing to characterize wild black bear GMB communities in the colon and jejunum, two functionally distinct regions of the gastrointestinal tract. We determined that the jejunum and colon of black bears do not harbor significantly different GMB communities: both gastrointestinal sites were dominated by Firmicutes and Proteobacteria. However, a number of bacteria were differentially enriched in each site, with the colon harboring twice as many enriched taxa, primarily from closely related lineages.
