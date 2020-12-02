@@ -1,108 +1,78 @@
-## The dynamic wound microbiome
+## The Interplay of Sex Steroids, the Immune Response, and the Intestinal Microbiota
 
-[Source](https://link.springer.com/article/10.1186/s12916-020-01820-6)
-
----
-
-## Microbiome and Cervical Cancer
-
-[Source](https://www.karger.com/Article/FullText/511477)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X20302791)
 
 ---
 
-## The impact of maternal obesity on childhood neurodevelopment
+## Circulating 16S RNA in Biofluids: Extracellular Vesicles as Mirrors of Human Microbiome?
 
-[Source](https://www.nature.com/articles/s41372-020-00871-0)
-
----
-
-## Perinatal environment shapes microbiota colonization and infant growth: impact on host response and intestinal function
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00940-8)
+[Source](https://www.mdpi.com/1422-0067/21/23/8959)
 
 ---
 
-## Breastfeeding restored the gut microbiota in caesarean section infants and lowered the infection risk in early life
+## Microbiota and Obesity: Where Are We Now?
 
-[Source](https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-020-02433-x)
-
----
-
-## Dental plaque microbiota profiles of children with caries-free and caries-active dentition
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0300571220302876)
+[Source](https://www.mdpi.com/2079-7737/9/12/415)
 
 ---
 
-## Microbiomics: Were we all wrong before?
+## Vaginal Microbiome-Based Bacterial Signatures for Predicting the Severity of Cervical Intraepithelial Neoplasia
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12373)
-
----
-
-## Metaproteome and metabolome of oral microbial communities
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12351)
+[Source](https://www.mdpi.com/2075-4418/10/12/1013)
 
 ---
 
-## Gutmicrobiota, immunity and pain
+## A functional ecological network based on metaproteomics responses of individual gut microbiomes to resistant starches
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0165247820304211)
-
----
-
-## The Healthy Microbiome (What is the definition of a healthy gut microbiome?)
-
-[Source](https://www.gastrojournal.org/article/S0016-5085(20)35508-6/fulltext)
+[Source](https://www.sciencedirect.com/science/article/pii/S2001037020304645)
 
 ---
 
-## Altered gut bacterial and metabolic signatures and their interaction in gestational diabetes mellitus
+## Personalized Nutrition Through The Gut Microbiota: Current Insights And Future Perspectives
 
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2020.1840765)
-
----
-
-## Diet induces parallel changes to the gut microbiota and problem solving performance in a wild bird
-
-[Source](https://www.nature.com/articles/s41598-020-77256-y)
+[Source](https://academic.oup.com/nutritionreviews/article/78/Supplement_3/66/6012437)
 
 ---
 
-## Wild black bears harbor simple gut microbial communities with little difference between the jejunum and colon
+## Harnessing the gut microbiota to promote metabolic health
 
-[Source](https://www.nature.com/articles/s41598-020-77282-w)
-
----
-
-## Age Patterning in Wild Chimpanzee Gut Microbiota Diversity Reveals Differences from Humans in Early Life
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982220316523)
+[Source](https://academic.oup.com/nutritionreviews/article/78/Supplement_3/75/6012421)
 
 ---
 
-## Genetic selection for growth drives differences in intestinal microbiota composition and parasite disease resistance in gilthead sea bream
+## Cage bedding modifies metabolic and gut microbiota profiles in mouse studies applying dietary restriction
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00922-w)
-
----
-
-## A comparison of the functional diversity of microbial communities in maize rhizosphere soils in the North West Province of South Africa
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S2452219820301944)
+[Source](https://www.nature.com/articles/s41598-020-77831-3)
 
 ---
 
-## Beyond the extremes: Rocks as ultimate refuge for fungi in drylands
+## Influence of Environmental Stressors on the Microbiota of Zebra Mussels (Dreissena polymorpha)
 
-[Source](https://www.tandfonline.com/doi/full/10.1080/00275514.2020.1816761)
+[Source](https://link.springer.com/article/10.1007/s00248-020-01642-2)
 
 ---
 
-## Emerging computational tools and models for studying gut microbiota composition and function
+## Gut microbiota protects honey bees (Apis mellifera L.) against polystyrene microplastics exposure risks
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0958166920301543)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0304389420318173)
+
+---
+
+## Variable characteristics of microbial communities on the surface of sweet cherries under different storage conditions
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0925521420309807)
+
+---
+
+## Biodiversity of pesticides degrading microbial communities and their environmental impact
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1878818120312676)
+
+---
+
+## Evaluating and minimizing batch effects in metabolomics
+
+[Source](https://onlinelibrary.wiley.com/doi/full/10.1002/mas.21672)
 
 ---
 
