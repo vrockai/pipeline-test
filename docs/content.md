@@ -46,15 +46,9 @@
 
 ---
 
-## Analysis of microbial compositions: a review of normalization and differential abundance analysis.
- 03.12.2020, _H Lin, SD Peddada_
-
-
-Increasingly, researchers are discovering associations between microbiome and a wide range of human diseases such as obesity, inflammatory bowel diseases, HIV, and so on. The first step towards microbiome wide association studies is the characterization of the composition of human microbiome under different conditions. Determination of differentially abundant microbes between two or more environments, known as differential abundance (DA) analysis, is a challenging and an important problem that has received considerable interest during the past decade. It is well documented in the literature that the observed microbiome data (OTU/SV table) are relative abundances with an excess of zeros. Since relative abundances sum to a constant, these data are necessarily compositional. In this article we review some recent methods for DA analysis and describe their strengths and weaknesses.
+## Analysis of microbial compositions: a review of normalization and differential abundance analysis
 
 [Source](https://www.nature.com/articles/s41522-020-00160-w)
-
-10.1038/s41522-020-00160-w
 
 ---
 
