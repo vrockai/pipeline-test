@@ -149,15 +149,9 @@ With an ever-increasing interest in understanding the relationships between the 
 
 ---
 
-## Evaluation of Single Sample Network Inference Methods for Metabolomics-Based Systems Medicine.
- 03.12.2020, _S Jahagirdar, E Saccenti_
-
-
-Networks and network analyses are fundamental tools of systems biology. Networks are built by inferring pair-wise relationships among biological entities from a large number of samples such that subject-specific information is lost. The possibility of constructing these sample (individual)-specific networks from single molecular profiles might offer new insights in systems and personalized medicine and as a consequence is attracting more and more research interest. In this study, we evaluated and compared LIONESS (Linear Interpolation to Obtain Network Estimates for Single Samples) and ssPCC (single sample network based on Pearson correlation) in the metabolomics context of metabolite-metabolite association networks. We illustrated and explored the characteristics of these two methods on (i) simulated data, (ii) data generated from a dynamic metabolic model to simulate real-life observed metabolite concentration profiles, and (iii) 22 metabolomic data sets and (iv) we applied single sample network inference to a study case pertaining to the investigation of necrotizing soft tissue infections to show how these methods can be applied in metabolomics. We also proposed some adaptations of the methods that can be used for data exploration. Overall, despite some limitations, we found single sample networks to be a promising tool for the analysis of metabolomics data.
+## Evaluation of Single Sample Network Inference Methods for Metabolomics-Based Systems Medicine
 
 [Source](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c00696)
-
-10.1021/acs.jproteome.0c00696
 
 ---
 
