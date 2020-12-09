@@ -136,21 +136,51 @@ The human gut microbiome has emerged as a major player in human health and disea
 
 ---
 
-## Current Trends in Experimental and Computational Approaches to Combat Antimicrobial Resistance 
+## Current Trends in Experimental and Computational Approaches to Combat Antimicrobial Resistance.
+ 27.11.2020, _M Imchen, J Moopantakath, R Kumavath, D Barh, S Tiwari, P Ghosh, V Azevedo_
+
+
+A multitude of factors, such as drug misuse, lack of strong regulatory measures, improper sewage disposal, and low-quality medicine and medications, have been attributed to the emergence of drug resistant microbes. The emergence and outbreaks of multidrug resistance to last-line antibiotics has become quite common. This is further fueled by the slow rate of drug development and the lack of effective resistome surveillance systems. In this review, we provide insights into the recent advances made in computational approaches for the surveillance of antibiotic resistomes, as well as experimental formulation of combinatorial drugs. We explore the multiple roles of antibiotics in nature and the current status of combinatorial and adjuvant-based antibiotic treatments with nanoparticles, phytochemical, and other non-antibiotics based on synergetic effects. Furthermore, advancements in machine learning algorithms could also be applied to combat the spread of antibiotic resistance. Development of resistance to new antibiotics is quite rapid. Hence, we review the recent literature on discoveries of novel antibiotic resistant genes though shotgun and expression-based metagenomics. To decelerate the spread of antibiotic resistant genes, surveillance of the resistome is of utmost importance. Therefore, we discuss integrative applications of whole-genome sequencing and metagenomics together with machine learning models as a means for state-of-the-art surveillance of the antibiotic resistome. We further explore the interactions and negative effects between antibiotics and microbiomes upon drug administration.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fgene.2020.563975/full)
 
+10.3389/fgene.2020.563975
+
 ---
 
-## Predicting clinical resistance prevalence using sewage metagenomic data
+## Predicting clinical resistance prevalence using sewage metagenomic data.
+ 01.12.2020, _A Karkman, F Berglund, CF Flach, E Kristiansson, DGJ Larsson_
+
+
+Antibiotic resistance surveillance through regional and up-to-date testing of clinical isolates is a foundation for implementing effective empirical treatment. Surveillance data also provides an overview of geographical and temporal changes that are invaluable for guiding interventions. Still, due to limited infrastructure and resources, clinical surveillance data is lacking in many parts of the world. Given that sewage is largely made up of human fecal bacteria from many people, sewage epidemiology could provide a cost-efficient strategy to partly fill the current gap in clinical surveillance of antibiotic resistance. Here we explored the potential of sewage metagenomic data to assess clinical antibiotic resistance prevalence using environmental and clinical surveillance data from across the world. The sewage resistome correlated to clinical surveillance data of invasive Escherichia coli isolates, but none of several tested approaches provided a sufficient resolution for clear discrimination between resistance towards different classes of antibiotics. However, in combination with socioeconomic data, the overall clinical resistance situation could be predicted with good precision. We conclude that analyses of bacterial genes in sewage could contribute to informing management of antibiotic resistance.
 
 [Source](https://www.nature.com/articles/s42003-020-01439-6)
 
+10.1038/s42003-020-01439-6
+
 ---
 
-## Fermented-Food Metagenomics Reveals Substrate-Associated Differences in Taxonomy and Health-Associated and Antibiotic Resistance Determinants
+## Fermented-Food Metagenomics Reveals Substrate-Associated Differences in Taxonomy and Health-Associated and Antibiotic Resistance Determinants.
+ 18.11.2020, _J Leech, R Cabrera-Rubio, AM Walsh, G Macori, CJ Walsh, W Barton, L Finnegan, F Crispie, O O'Sullivan, MJ Claesson, PD Cotter_
+
+
+Fermented foods have been the focus of ever greater interest as a consequence of purported health benefits. Indeed, it has been suggested that consumption of these foods helps to address the negative consequences of "industrialization" of the human gut microbiota in Western society. However, as the mechanisms via which the microbes in fermented foods improve health are not understood, it is necessary to develop an understanding of the composition and functionality of the fermented-food microbiota to better harness desirable traits. Here, we considerably expand the understanding of fermented-food microbiomes by employing shotgun metagenomic sequencing to provide a comprehensive insight into the microbial composition, diversity, and functional potential (including antimicrobial resistance and carbohydrate-degrading and health-associated gene content) of a diverse range of 58 fermented foods from artisanal producers from a number of countries. Food type, i.e., dairy-, sugar-, or brine-type fermented foods, was the primary driver of microbial composition, with dairy foods found to have the lowest microbial diversity. From the combined data set, 127 high-quality metagenome-assembled genomes (MAGs), including 10 MAGs representing putatively novel species of Acetobacter, Acidisphaera, Gluconobacter, Companilactobacillus, Leuconostoc, and Rouxiella, were generated. Potential health promoting attributes were more common in fermented foods than nonfermented equivalents, with water kefirs, sauerkrauts, and kvasses containing the greatest numbers of potentially health-associated gene clusters. Ultimately, this study provides the most comprehensive insight into the microbiomes of fermented foods to date and yields novel information regarding their relative health-promoting potential.IMPORTANCE Fermented foods are regaining popularity worldwide due in part to a greater appreciation of the health benefits of these foods and the associated microorganisms. Here, we use state-of-the-art approaches to explore the microbiomes of 58 of these foods, identifying the factors that drive the microbial composition of these foods and potential functional benefits associated with these populations. Food type, i.e., dairy-, sugar-, or brine-type fermented foods, was the primary driver of microbial composition, with dairy foods found to have the lowest microbial diversity and, notably, potential health promoting attributes were more common in fermented foods than nonfermented equivalents. The information provided here will provide significant opportunities for the further optimization of fermented-food production and the harnessing of their health-promoting potential.
 
 [Source](https://msystems.asm.org/content/msys/5/6/e00522-20.full.pdf)
+
+10.1128/mSystems.00522-20
+
+---
+
+## Author Correction: Uncovering hidden antimicrobial resistance patterns within the hospital microbiome.
+ 08.12.2020, _BW Haak, WJ Wiersinga_
+
+
+A Correction to this paper has been published: https://doi.org/10.1038/s41591-020-0919-z.
+
+[Source](https://www.nature.com/articles/s41591-020-0919-z)
+
+10.1038/s41591-020-01184-7
 
 ---
 
@@ -166,15 +196,27 @@ The human gut microbiome has emerged as a major player in human health and disea
 
 ---
 
-## Integrated metagenomic and metatranscriptomic analyses of ultraviolet disinfection effects on antibiotic resistance genes and bacterial communities during wastewater treatment
+## Integrated metagenomic and metatranscriptomic analyses of ultraviolet disinfection effects on antibiotic resistance genes and bacterial communities during wastewater treatment.
+ 05.12.2020, _S Jia, T Li, XX Zhang_
+
+
+Ultraviolet (UV) disinfection is now widely implemented in wastewater treatment plants (WWTPs) worldwide, but its effect on antibiotic resistome of the surviving bacteria remains unclear. In this study, we employed high-throughput sequencing-based metagenomic and metatranscriptomic approaches to comprehensively elucidate the effects of UV disinfection on the shifts of bacterial community and antibiotic resistance genes (ARGs) on both DNA and mRNA levels in one WWTP. Metagenomic analyses revealed an insignificant change in the bacterial community after UV disinfection, while metatranscriptomic analyses showed that UV disinfection significantly changed the abundance of 13.79% of phyla and 10.32% of genera. In total, 38 ARG-like open reading frames (ORFs) and 327 ARG-like transcripts were identified in the DNA and RNA samples, respectively. The relative abundances of the total ARGs, each ARG type, and each ARG subtype also varied after UV disinfection. Additionally, UV disinfection significantly reduced the expression of total ARGs from 49.40 transcripts per kilobase of exon model per million mapped reads (TPM) to 47.62 TPM, and significantly changed the expression of 10.75% of ARG subtypes in wastewater (p &lt; 0.05). Notably, the significant increase in the expression and obvious increase in the relative abundance of macrolide-lincosamide-streptogramin B (MLSB) resistance genes revealed that UV disinfection increases the potential health risk of MLSB resistance genes in wastewater. Moreover, potential host analyses of ARGs revealed the different preferences of antibiotic resistant bacteria (ARB) to ARGs. This study may shed new light on the underlying mechanism of the UV disinfection effect on antibiotic resistance.
 
 [Source](https://link.springer.com/article/10.1007%2Fs10646-020-02313-1)
 
+10.1007/s10646-020-02313-1
+
 ---
 
-## A metagenomic glimpse into the gut of wild and domestic animals: Quantification of antimicrobial resistance and more
+## A metagenomic glimpse into the gut of wild and domestic animals: Quantification of antimicrobial resistance and more.
+ 03.12.2020, _M Skarżyńska, P Leekitcharoenphon, RS Hendriksen, FM Aarestrup, D Wasyl_
+
+
+Antimicrobial resistance (AMR) in bacteria is a complex subject, why one need to look at this phenomenon from a wider and holistic perspective. The extensive use of the same antimicrobial classes in human and veterinary medicine as well as horticulture is one of the main drivers for the AMR selection. Here, we applied shotgun metagenomics to investigate the AMR epidemiology in several animal species including farm animals, which are often exposed to antimicrobial treatment opposed to an unique set of wild animals that seems not to be subjected to antimicrobial pressure. The comparison of the domestic and wild animals allowed to investigate the possible anthropogenic impact on AMR spread. Inclusion of animals with different feeding behaviors (carnivores, omnivores) enabled to further assess which AMR genes that thrives within the food chain. We tested fecal samples not only of intensively produced chickens, turkeys, and pigs, but also of wild animals such as wild boars, red foxes, and rodents. A multi-directional approach mapping obtained sequences to several databases provided insight into the occurrence of the different AMR genes. The method applied enabled also analysis of other factors that may influence AMR of intestinal microbiome such as diet. Our findings confirmed higher levels of AMR in farm animals than in wildlife. The results also revealed the potential of wildlife in the AMR dissemination. Particularly in red foxes, we found evidence of several AMR genes conferring resistance to critically important antimicrobials like quinolones and cephalosporins. In contrast, the lowest abundance of AMR was observed in rodents originating from natural environment with presumed limited exposure to antimicrobials. Shotgun metagenomics enabled us to demonstrate that discrepancies between AMR profiles found in the intestinal microbiome of various animals probably resulted from the different antimicrobial exposure, habitats, and behavior of the tested animal species.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242987)
+
+10.1371/journal.pone.0242987
 
 ---
 
