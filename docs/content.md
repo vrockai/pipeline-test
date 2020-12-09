@@ -1,157 +1,264 @@
-## The Microbial Conveyor Belt: Connecting the Globe through Dispersion and Dormancy.
- 07.12.2020, _M Mestre, J Höfer_
+## Effects of Extended Postmortem Interval on Microbial Communities in Organs of the Human Cadaver
 
-
-Despite the recent increase in knowledge concerning microorganisms, the processes determining their global distribution and functioning have not been disentangled. Microbial dormant stages are adapted to endure specific adverse conditions related to their dispersion path, suggesting that dispersion is not entirely a stochastic process. Long-term dormancy enhances microbial dispersion, promoting the ubiquity of microorganisms. The evidence leads us to propose that there is a global, recurrent, and spatially cyclical dispersion of microorganisms that we have called the Microbial Conveyor Belt. These dispersion cycles directly influence the distribution of microorganisms, the global cycling of inorganic and organic matter, and thus the Earth system's functioning.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X20302699)
-
-10.1016/j.tim.2020.10.007
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.569630/full)
 
 ---
 
-## Glycan utilization systems in the human gut microbiota: a gold mine for structural discoveries.
- 07.12.2020, _K Tamura, H Brumer_
+## Landscapes of bacterial and metabolic signatures and their interaction in major depressive disorders.
+ 03.12.2020, _J Yang, P Zheng, Y Li, J Wu, X Tan, J Zhou, Z Sun, X Chen, G Zhang, H Zhang, Y Huang, T Chai, J Duan, W Liang, B Yin, J Lai, T Huang, Y Du, P Zhang, J Jiang, C Xi, L Wu, J Lu, T Mou, Y Xu, SW Perry, ML Wong, J Licinio, S Hu, G Wang, P Xie_
 
 
-The complex glycans comprising 'dietary fiber' evade the limited repertoire of human digestive enzymes and hence feed the vast community of microbes in the lower gastrointestinal tract. As such, complex glycans drive the composition of the human gut microbiota and, in turn, influence diverse facets of our nutrition and health. To access these otherwise recalcitrant carbohydrates, gut bacteria produce coordinated, substrate-specific arsenals of carbohydrate-active enzymes, glycan-binding proteins, oligosaccharide transporters, and transcriptional regulators. A recent explosion of biochemical and enzymological studies of these systems has led to the discovery of manifold new carbohydrate-active enzyme (CAZyme) families. Crucially underpinned by structural biology, these studies have also provided unprecedented molecular insight into the exquisite specificity of glycan recognition in the diverse CAZymes and non-catalytic proteins from the HGM. The revelation of a multitude of new three-dimensional structures and substrate complexes constitutes a 'gold rush' in the structural biology of the human gut microbiota.
+Gut microbiome disturbances have been implicated in major depressive disorder (MDD). However, little is known about how the gut virome, microbiome, and fecal metabolome change, and how they interact in MDD. Here, using whole-genome shotgun metagenomic and untargeted metabolomic methods, we identified 3 bacteriophages, 47 bacterial species, and 50 fecal metabolites showing notable differences in abundance between MDD patients and healthy controls (HCs). Patients with MDD were mainly characterized by increased abundance of the genus Bacteroides and decreased abundance of the genera Blautia and Eubacterium These multilevel omics alterations generated a characteristic MDD coexpression network. Disturbed microbial genes and fecal metabolites were consistently mapped to amino acid (γ-aminobutyrate, phenylalanine, and tryptophan) metabolism. Furthermore, we identified a combinatorial marker panel that robustly discriminated MDD from HC individuals in both the discovery and validation sets. Our findings provide a deep insight into understanding of the roles of disturbed gut ecosystem in MDD.
 
-[Source](https://dx.doi.org/10.3389%2Ffmicb.2020.593472)
+[Source](https://advances.sciencemag.org/content/6/49/eaba8555)
 
-10.1016/j.sbi.2020.11.001
-
----
-
-## Microbiomes for All
-
-[Source](https://dx.doi.org/10.3389%2Ffmicb.2020.593472)
+10.1126/sciadv.aba8555
 
 ---
 
-## The Oral Host-Microbial Interactome: An Ecological Chronometer of Health?
- 06.12.2020, _M Freire, KE Nelson, A Edlund_
+## Improved high-molecular-weight DNA extraction, nanopore sequencing and metagenomic assembly from the human gut microbiome.
+ 05.12.2020, _DG Maghini, EL Moss, SE Vance, AS Bhatt_
 
 
-An increasing number of studies reveal that host-microbial interactome networks are coordinated, impacting human health and disease. Recently, several lines of evidence have revealed associations between the acquisition of a complex microbiota and adaptive immunity, supporting that host-microbiota symbiotic relationships have evolved as a means to maintain homeostasis where the role of the microbiota is to promote and educate the immune system. Here, we hypothesize an oral host-microbial interactome that could serve as an ecological chronometer of health and disease, with specific focus on caries, periodontal diseases, and cancer. We also review the current state of the art on the human oral microbiome and its correlations with host innate immunity, and host cytokine control, with the goal of using this information for disease prediction and designing novel treatments for local and systemic dysbiosis. In addition, we discuss new insights into the role of novel host-microbial signals as potential biomarkers, and their relevance for the future of precision dentistry and medicine.
+Short-read metagenomic sequencing and de novo genome assembly of the human gut microbiome can yield draft bacterial genomes without isolation and culture. However, bacterial genomes assembled from short-read sequencing are often fragmented. Furthermore, these metagenome-assembled genomes often exclude repeated genomic elements, such as mobile genetic elements, compromising our understanding of the contribution of these elements to important bacterial phenotypes. Although long-read sequencing has been applied successfully to the assembly of contiguous bacterial isolate genomes, extraction of DNA of sufficient molecular weight, purity and quantity for metagenomic sequencing from stool samples can be challenging. Here, we present a protocol for the extraction of microgram quantities of high-molecular-weight DNA from human stool samples that are suitable for downstream long-read sequencing applications. We also present Lathe ( www.github.com/bhattlab/lathe ), a computational workflow for long-read basecalling, assembly, consensus refinement with long reads or Illumina short reads and genome circularization. Altogether, this protocol can yield high-quality contiguous or circular bacterial genomes from a complex human gut sample in approximately 10 d, with 2 d of hands-on bench and computational effort.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X2030295X)
+[Source](https://www.nature.com/articles/s41596-020-00424-x)
 
-10.1016/j.tim.2020.11.004
-
----
-
-## Impact of vaginal microbiome communities on HIV antiretroviral-based pre-exposure prophylaxis (PrEP) drug metabolism.
- 03.12.2020, _RK Cheu, AT Gustin, C Lee, L Schifanella, CJ Miller, A Ha, C Kim, VJ Rodriguez, M Fischl, AD Burgener, KB Arnold, ML Alcaide, NR Klatt_
-
-
-Despite the efficacy of antiretroviral-based pre-exposure prophylactics (PrEP) in men who have sex with men, studies in women have produced widely varying outcomes. Recent evidence demonstrates that vaginal microbial communities are associated with increased HIV acquisition risk and may impact PrEP efficacy. Here, we investigate the mechanisms underlying how vaginal bacteria alter PrEP drug levels and impact HIV infection rates ex vivo. Using cervicovaginal lavages (CVLs) from women with or without bacterial vaginosis (BV), we identified microbial metabolism of PrEP drugs in BV samples through LC-MS/MS analysis of soluble drug levels and metabolite formation in dual T-cell cultures. CVL samples were assessed for microbiome analysis using sequencing of bacterial 16S rRNA genes. We also observed non-Lactobacillus bacteria that are associated with BV may potentially impact PrEP efficacy through increased HIV infection rates in co-cultures containing Lactobacillus or BV bacteria, PrEP drugs, CEM-GFP cells, and HIV-1LAI virus. Finally, we used these data to develop a novel predictive mathematical simulation modeling system to predict these drug interactions for future trials. These studies demonstrate how dysbiotic vaginal microbiota may impact PrEP drugs and provides evidence linking vaginal bacteria to PrEP efficacy in women.
-
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009024)
-
-10.1371/journal.ppat.1009024
+10.1038/s41596-020-00424-x
 
 ---
 
-## The Effect of Probiotics Supplementation on Gut Microbiota After Helicobacter pylori Eradication: A Multicenter Randomized Controlled Trial.
- 03.12.2020, _B Tang, L Tang, C Huang, C Tian, L Chen, Z He, G Yang, L Zuo, G Zhao, E Liu, S Wang, H Lin, J He, S Yang_
+## Elucidation of Gut Microbiota-Associated Lipids Using LC-MS/MS and 16S rRNA Sequence Analyses
 
-
-Helicobacter pylori eradication therapy may lead to the perturbation of gut microbiota. We aim to investigate the impact of probiotics on eradication rate and gut microbiota during eradication therapy.
-
-[Source](https://link.springer.com/article/10.1007/s40121-020-00372-9)
-
-10.1007/s40121-020-00372-9
+[Source](https://www.cell.com/iscience/fulltext/S2589-0042(20)31038-5)
 
 ---
 
-## Therapeutic potential of natural products against atherosclerosis: Targeting on gut microbiota.
- 07.12.2020, _X Zhao, PK Oduro, W Tong, Y Wang, X Gao, Q Wang_
+## The Healthy Microbiome (What is the definition of a healthy gut microbiome?).
+ 30.11.2020, _F Shanahan, TS Ghosh, PW O'Toole_
 
 
-Gut microbiota (GM) has emerged as an essential and integral factor for maintaining human health and affecting pathological outcomes. Metagenomics and metabolomics characterization have furthered gut metagenome's understanding and unveiled that deviation of specific GM community members and GM-dependent metabolites balance orchestrate metabolic or cardiovascular diseases (CVDs). Restoring GM ecosystem with nutraceutical supplements keenly prebiotics and probiotics relatively decreases CVDs incidence and overall mortality. In Atherosclerosis, commensal and pathogenic gut microbes correlate with atherogenesis events. GM-dependent metabolites-trimethylamine N-oxide and short-chain fatty acids regulate atherosclerosis-related metabolic processes in opposite patterns to affect atherosclerosis outcomes. Therefore, GM might be a potential therapeutic target for atherosclerosis. In atherogenic animal models, natural products with cardioprotective properties could modulate the GM ecosystem by revitalizing healthier GM phylotypes and abrogating proatherogenic metabolites, paving future research paths and therapeutics.
+Use of microbiome-based biomarkers in diagnosis, prognosis, risk profiling, and precision therapy requires definition of a healthy microbiome in different populations. To determine features of the intestinal microbiota associated with health, however, we need improved microbiome profiling technologies, with strain-level resolution. We must also learn more about how the microbiome varies among apparently healthy people, how it changes with age, and the effects of diet, medications, ethnicity, geography, and lifestyle. Furthermore, many intestinal microbes, including viruses, phage, fungi, and archaea, have not been characterized, and little is known about their contributions to health and disease.Whether a healthy microbiome can be defined is an important and seemingly simple question, but with a complex answer in continual need of refinement.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1043661820316704)
+[Source](https://www.gastrojournal.org/article/S0016-5085(20)35508-6/)
 
-10.1016/j.phrs.2020.105362
-
----
-
-## Glycan utilization systems in the human gut microbiota: a gold mine for structural discoveries.
- 07.12.2020, _K Tamura, H Brumer_
-
-
-The complex glycans comprising 'dietary fiber' evade the limited repertoire of human digestive enzymes and hence feed the vast community of microbes in the lower gastrointestinal tract. As such, complex glycans drive the composition of the human gut microbiota and, in turn, influence diverse facets of our nutrition and health. To access these otherwise recalcitrant carbohydrates, gut bacteria produce coordinated, substrate-specific arsenals of carbohydrate-active enzymes, glycan-binding proteins, oligosaccharide transporters, and transcriptional regulators. A recent explosion of biochemical and enzymological studies of these systems has led to the discovery of manifold new carbohydrate-active enzyme (CAZyme) families. Crucially underpinned by structural biology, these studies have also provided unprecedented molecular insight into the exquisite specificity of glycan recognition in the diverse CAZymes and non-catalytic proteins from the HGM. The revelation of a multitude of new three-dimensional structures and substrate complexes constitutes a 'gold rush' in the structural biology of the human gut microbiota.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0959440X20301974)
-
-10.1016/j.sbi.2020.11.001
+10.1053/j.gastro.2020.09.057
 
 ---
 
-## Distinct gut microbiotas between southern elephant seals and Weddell seals of Antarctica.
- 03.12.2020, _M Kim, H Cho, WY Lee_
+## The gut microbiota is associated with immune cell dynamics in humans.
+ 07.12.2020, _J Schluter, JU Peled, BP Taylor, KA Markey, M Smith, Y Taur, R Niehus, A Staffas, A Dai, E Fontana, LA Amoretti, RJ Wright, S Morjaria, M Fenelus, MS Pessin, NJ Chao, M Lew, L Bohannon, A Bush, AD Sung, TM Hohl, MA Perales, MRM van den Brink, JB Xavier_
 
 
-The gut microbiome provides ecological information about host animals, but we still have limited knowledge of the gut microbiome, particularly for animals inhabiting remote locations, such as Antarctica. Here, we compared fecal microbiota between southern elephant seals (Mirounga leonina) and Weddell seals (Leptonychotes weddelli), that are top predatory marine mammals in the Antarctic ecosystem, using 16S rRNA amplicon sequencing and assessed the relationships of the gut microbial communities to functional profiles using gut metabolite analysis. The bacterial community did not differ significantly by host species or sex at the phylum level, but the distinction at the family level was obvious. The family Ruminococcaceae (Firmicutes) was more abundant in southern elephant seals than in Weddell seals, and the families Acidaminococcaceae (Firmicutes) and Pasteurellaceae (Gammaproteobacteria) were uniquely present in Weddell seals. The fecal bacterial community structure was distinctively clustered by host species, with only 6.7% of amplicon sequence variants (ASVs) shared between host species. This result implies that host phylogeny rather than other factors, such as diet or age, could be the major driver of fecal microbiotic diversification. Interestingly, there was no apparent sex effect on bacterial community structure in Weddell seals, but the effect of sex was pronounced in adult southern elephant seals mainly due to the prevalence of Edwardsiella sp., suggesting that extreme sexual dimorphism may modulate the gut microbiota of southern elephant seals. Unlike the clear distinction in the taxonomic composition of fecal bacterial communities, there were no discernible differences in the profiles of potential microbial functions and gut metabolites between host species or sexes, indicating that functional redundancy dominates the gut microbiota of seals surveyed in this study.
+The gut microbiota influences development1-3 and homeostasis4-7 of the mammalian immune system, and is associated with human inflammatory8 and immune diseases9,10 as well as responses to immunotherapy11-14. Nevertheless, our understanding of how gut bacteria modulate the immune system remains limited, particularly in humans, where the difficulty of direct experimentation makes inference challenging. Here we study hundreds of hospitalized-and closely monitored-patients with cancer receiving haematopoietic cell transplantation as they recover from chemotherapy and stem-cell engraftment. This aggressive treatment causes large shifts in both circulatory immune cell and microbiota populations, enabling the relationships between the two to be studied simultaneously. Analysis of observed daily changes in circulating neutrophil, lymphocyte and monocyte counts and more than 10,000 longitudinal microbiota samples revealed consistent associations between gut bacteria and immune cell dynamics. High-resolution clinical metadata and Bayesian inference allowed us to compare the effects of bacterial genera in relation to those of immunomodulatory medications, revealing a considerable influence of the gut microbiota-together and over time-on systemic immune cell dynamics. Our analysis establishes and quantifies the link between the gut microbiota and the human immune system, with implications for microbiota-driven modulation of immunity.
 
-[Source](https://link.springer.com/article/10.1007/s12275-020-0524-3)
+[Source](https://www.nature.com/articles/s41586-020-2971-8)
 
-10.1007/s12275-020-0524-3
-
----
-
-## Soil texture and properties rather than irrigation water type shape the diversity and composition of soil microbial communities
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0929139320307630)
+10.1038/s41586-020-2971-8
 
 ---
 
-## Resistance of an Antarctic cryptoendolithic black fungus to radiation gives new insights of astrobiological relevance.
- 04.03.2019, _L Selbmann, C Pacelli, L Zucconi, E Dadachova, R Moeller, JP de Vera, S Onofri_
+## Utilizing the gut microbiome in decompensated cirrhosis and acute-on-chronic liver failure.
+ 01.12.2020, _J Trebicka, P Bork, A Krag, M Arumugam_
 
 
-_Antarctic Regions, Ascomycota, Exobiology, Melanins, Microbial Viability, Radiation Tolerance, Radiation, Ionizing, Space Flight, Ultraviolet Rays_
-The Antarctic black meristematic fungus Cryomyces antarcticus CCFEE 515 occurs endolithically in the McMurdo Dry Valleys of Antarctica, one of the best analogue for Mars environment on Earth. To date, this fungus is considered one of the best eukaryotic models for astrobiological studies and has been repeatedly selected for space experiments in the last decade. The obtained results are reviewed here, with special focus on responses to space relevant irradiation, UV radiation, and both sparsely and densely ionizing radiation, which represent the major injuries for a putative space-traveller. The remarkable resistance of this model organism to space stress, its radioresistance in particular, and mechanisms involved, significantly contributed to expanding our concept of limits for life and provided new insights on the origin and evolution of life in planetary systems, habitability, and biosignatures for life detection as well as on human protection during space missions.
+The human gut microbiome has emerged as a major player in human health and disease. The liver, as the first organ to encounter microbial products that cross the gut epithelial barrier, is affected by the gut microbiome in many ways. Thus, the gut microbiome might play a major part in the development of liver diseases. The common end stage of liver disease is decompensated cirrhosis and the further development towards acute-on-chronic liver failure (ACLF). These conditions have high short-term mortality. There is evidence that translocation of components of the gut microbiota, facilitated by different pathogenic mechanisms such as increased gut epithelial permeability and portal hypertension, is an important driver of decompensation by induction of systemic inflammation, and thereby also ACLF. Elucidating the role of the gut microbiome in the aetiology of decompensated cirrhosis and ACLF deserves further investigation and improvement; and might be the basis for development of diagnostic and therapeutic strategies. In this Review, we focus on the possible pathogenic, diagnostic and therapeutic role of the gut microbiome in decompensation of cirrhosis and progression to ACLF.
 
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119593096.ch6)
+[Source](https://www.nature.com/articles/s41575-020-00376-3)
 
-10.1016/j.funbio.2017.10.012
-
----
-
-## Antarctic Bacteria as Astrobiological Models
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119593096.ch6)
+10.1038/s41575-020-00376-3
 
 ---
 
-## MANTA, an integrative database and analysis platform that relates microbiome and phenotypic data.
- 07.12.2020, _YA Chen, J Park, Y Natsume-Kitatani, H Kawashima, A Mohsen, K Hosomi, K Tanisawa, H Ohno, K Konishi, H Murakami, M Miyachi, J Kunisawa, K Mizuguchi_
+## Remodeling of the maternal gut microbiome during pregnancy is shaped by parity
 
-
-With an ever-increasing interest in understanding the relationships between the microbiota and the host, more tools to map, analyze and interpret these relationships have been developed. Most of these tools, however, focus on taxonomic profiling and comparative analysis among groups, with very few analytical tools designed to correlate microbiota and the host phenotypic data. We have developed a software program for creating a web-based integrative database and analysis platform called MANTA (Microbiota And pheNoType correlation Analysis platform). In addition to storing the data, MANTA is equipped with an intuitive user interface that can be used to correlate the microbial composition with phenotypic parameters. Using a case study, we demonstrated that MANTA was able to quickly identify the significant correlations between microbial abundances and phenotypes that are supported by previous studies. Moreover, MANTA enabled the users to quick access locally stored data that can help interpret microbiota-phenotype relations. MANTA is available at https://mizuguchilab.org/manta/ for download and the source code can be found at https://github.com/chenyian-nibio/manta.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243609)
-
-10.1371/journal.pone.0243609
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.04.412205v1.full.pdf)
 
 ---
 
-## Measuring the microbiome: best practices for developing and benchmarking microbiomics methods
+## <em>Gardnerella vaginalis</em> promotes group B <em>Streptococcus</em> vaginal colonization, enabling ascending uteroplacental infection in pregnant mice
 
-[Source](https://www.sciencedirect.com/science/article/pii/S200103702030516X)
-
----
-
-## Seeing the forest for the trees: retrieving plant secondary biochemical pathways from metabolome networks
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2001037020305171)
+[Source](https://www.ajog.org/article/S0002-9378(20)31331-4/fulltext)
 
 ---
 
-## Evaluation of Single Sample Network Inference Methods for Metabolomics-Based Systems Medicine
+## <em>Akkermansia muciniphila</em>: A potential novel mechanism of nuciferine to improve hyperlipidemia
 
-[Source](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.0c00696)
+[Source](https://www.sciencedirect.com/science/article/pii/S0753332220312063)
+
+---
+
+## Gut microbiota modulation by both <em>Lactobacillus fermentum</em> MSK 408 and ketogenic diet in a murine model of pentylenetetrazole-induced acute seizure
+
+[Source](https://www.sciencedirect.com/science/article/pii/S092012112030557X)
+
+---
+
+## Host-age prediction from fecal microbiome composition in laboratory mice
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.04.412734v1.full.pdf)
+
+---
+
+## Commensal Microbiota Regulates Skin Barrier Function And Repair Via Signaling Through The Aryl Hydrocarbon Receptor
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.05.413096v1.full.pdf)
+
+---
+
+## Homogeneous selection promotes microdiversity in the glacier-fed stream microbiome
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.03.409391v1.full.pdf)
+
+---
+
+## Long-term persistence of crAss-like phage crAss001 is associated with phase variation in <em>Bacteroides intestinalis</em>
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.02.408625v1.full.pdf)
+
+---
+
+## Diversity and Distribution of a Novel Genus of Hyperthermophilic <em>Aquificae </em>Viruses Encoding a Proof-Reading Family-A DNA Polymerase
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.583361/full)
+
+---
+
+## Broad Virus Detection and Variant Discovery in Fecal Samples of Hematopoietic Transplant Recipients Using Targeted Sequence Capture Metagenomics
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.560179/full)
+
+---
+
+## Multidrug-resistant high-risk <em>Enterococcus faecium</em> clones: can we really define them?
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0924857920304386)
+
+---
+
+## Current Trends in Experimental and Computational Approaches to Combat Antimicrobial Resistance 
+
+[Source](https://www.frontiersin.org/articles/10.3389/fgene.2020.563975/full)
+
+---
+
+## Predicting clinical resistance prevalence using sewage metagenomic data
+
+[Source](https://www.nature.com/articles/s42003-020-01439-6)
+
+---
+
+## Fermented-Food Metagenomics Reveals Substrate-Associated Differences in Taxonomy and Health-Associated and Antibiotic Resistance Determinants
+
+[Source](https://msystems.asm.org/content/msys/5/6/e00522-20.full.pdf)
+
+---
+
+## Uncovering hidden antimicrobial resistance patterns within the hospital microbiome 
+
+[Source](https://www.nature.com/articles/s41591-020-0919-z)
+
+---
+
+## Isolation and characterization of human pathogenic multidrug resistant bacteria associated with plastic litter collected in Zanzibar 
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0304389420325814)
+
+---
+
+## Integrated metagenomic and metatranscriptomic analyses of ultraviolet disinfection effects on antibiotic resistance genes and bacterial communities during wastewater treatment
+
+[Source](https://link.springer.com/article/10.1007%2Fs10646-020-02313-1)
+
+---
+
+## A metagenomic glimpse into the gut of wild and domestic animals: Quantification of antimicrobial resistance and more
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242987)
+
+---
+
+## Mass allelic exchange: enabling sexual genetics in <em>Escherichia coli</em>
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.11.30.405282v1.full.pdf)
+
+---
+
+## Microbial model communities: To understand complexity, harness the power of simplicity
+
+[Source](https://www.sciencedirect.com/science/article/pii/S2001037020305109)
+
+---
+
+## MALDI-TOF mass spectrometry for sub-typing of <em>Streptococcus pneumoniae</em>
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-020-02052-7)
+
+---
+
+## Automated Prediction and Annotation of Small Open Reading Frames in Microbial Genomes
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30619-3)
+
+---
+
+## Accurate Microbiome Sequencing with Synthetic Long Read Sequencing
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.02.324038v1.full.pdf)
+
+---
+
+## Species level resolution of female bladder microbiota from marker gene surveys
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.27.358408v1.full.pdf)
+
+---
+
+## Synthetic Sequencing Standards: A Guide to Database Choice for Rumen Microbiota Amplicon Sequencing Analysis
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.606825/full)
+
+---
+
+## H3ABioNet Seminars and Webinars
+
+[Source](https://www.youtube.com/playlist?list=PLcQ0XMykNhCRpi9UwTcbxH3J4iv02HTC6)
+
+---
+
+## Inspiring the next generation of scientists… online
+
+[Source](https://www.youtube.com/watch?v=IWuCiIENLKY&feature=youtu.be)
+
+---
+
+## MLCB 2020 Day 1 and 2 talks
+
+[Source](https://sites.google.com/cs.washington.edu/mlcb2020/)
+
+---
+
+## Why We’re Giving Thanks To Microbes For Stinky Cheese
+
+[Source](https://www.sciencefriday.com/segments/cheese-mold-microbe/)
+
+---
+
+## Planning Our “Home-mas” this December
+
+[Source](https://misspond.com/life/tips-for-home-mas-2020/)
+
+---
+
+## Holiday Gift Guide For Microbe Lovers
+
+[Source](https://joyfulmicrobe.com/holiday-gift-guide-for-microbe-lovers/)
+
+---
+
+## The 2020 cookbook giftlist
+
+[Source](https://www.matchingfoodandwine.com/news/book_reviews/the-2020-matching-food--wine-cookbook-giftlist-/)
 
 ---
 
