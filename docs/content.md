@@ -298,6 +298,19 @@ Antimicrobial resistance (AMR) in bacteria is a complex subject, why one need to
 
 ---
 
+## Mediterranean diet and quality of life in women treated for breast cancer: A baseline analysis of DEDiCa multicentre trial.
+ 27.11.2020, _G Porciello, C Montagnese, A Crispo, M Grimaldi, M Libra, S Vitale, E Palumbo, R Pica, I Calabrese, S Cubisino, L Falzone, L Poletto, V Martinuzzo, M Prete, N Esindi, G Thomas, D Cianniello, M Pinto, M Laurentiis, C Pacilio, M Rinaldo, M D'Aiuto, D Serraino, S Massarut, C Evangelista, A Steffan, F Catalano, GL Banna, G Scandurra, F Ferraù, R Rossello, G Antonelli, G Guerra, A Farina, F Messina, G Riccardi, D Gatti, DJA Jenkins, A Minopoli, B Grilli, E Cavalcanti, E Celentano, G Botti, M Montella, LSA Augustin_
+
+
+_Adult, Aged, Breast Neoplasms, Cancer Survivors, Diet, Mediterranean, Female, Humans, Italy, Middle Aged, Pain, Patient Compliance, Quality of Life, Sleep Initiation and Maintenance Disorders, Surveys and Questionnaires_
+Evidence suggests a beneficial role of the Mediterranean Diet (MedDiet) on health-related quality of life (HRQoL) in healthy subjects. HRQoL is relevant in cancer therapy and disease outcomes, therefore we investigated the association between adherence to the MedDiet and HRQoL in breast cancer survivors participating in the multicentre trial DEDiCa. Diet and HRQoL were assessed at baseline in a subgroup of 309 women enrolled within 12 months of breast cancer diagnosis without metastasis (stages I-III, mean age 52±1 yrs, BMI 27±7 kg/m2). The 14-item PREDIMED questionnaire was used to analyse adherence to the MedDiet. HRQoL was assessed with three validated questionnaires measuring physical, mental, emotional and social factors: EQ-5D-3L, EORTC QLQ-C30 and EORTC QLQ-BR23. Analysis of variance (ANOVA) and multivariate analyses were performed to assess the possible role of the MedDiet on HRQoL. Patients with higher adherence to MedDiet (PREDIMED score &gt;7) showed significantly higher scores for physical functioning (p = 0.02) and lower scores on the symptomatic pain scale (p = 0.04) assessed by the EORTC QLQ-C30 questionnaire compared to patients with a lower adherence to MedDiet (PREDIMED score ≤7). Higher scores from the EQ-5D-3L indicating higher well-being were observed mainly in participants with higher MedDiet adherence (p = 0.05). In adjusted multivariate analyses significant positive associations were found between MedDiet, physical functioning (p = 0.001) and EQ 5D-3L score (p = 0.003) while inverse associations were found with pain and insomnia symptoms (p = 0.005 and p = 0.029, respectively). These results suggest that higher adherence to the MedDiet in breast cancer survivors is associated with better aspects of quality of life, specifically higher physical functioning, better sleep, lower pain and generally higher well-being confirming findings in healthy subjects.
+
+[Source](https://www.matchingfoodandwine.com/news/book_reviews/the-2020-matching-food--wine-cookbook-giftlist-/)
+
+10.1371/journal.pone.0239803
+
+---
+
 ## The 2020 cookbook giftlist
 
 [Source](https://www.matchingfoodandwine.com/news/book_reviews/the-2020-matching-food--wine-cookbook-giftlist-/)
