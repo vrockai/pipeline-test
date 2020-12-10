@@ -5,7 +5,7 @@
 ---
 
 ## Landscapes of bacterial and metabolic signatures and their interaction in major depressive disorders.
- 03.12.2020, _J Yang, P Zheng, Y Li, J Wu, X Tan, J Zhou, Z Sun, X Chen, G Zhang, H Zhang, Y Huang, T Chai, J Duan, W Liang, B Yin, J Lai, T Huang, Y Du, P Zhang, J Jiang, C Xi, L Wu, J Lu, T Mou, Y Xu, SW Perry, ML Wong, J Licinio, S Hu, G Wang, P Xie_
+ 09.12.2020, _J Yang, P Zheng, Y Li, J Wu, X Tan, J Zhou, Z Sun, X Chen, G Zhang, H Zhang, Y Huang, T Chai, J Duan, W Liang, B Yin, J Lai, T Huang, Y Du, P Zhang, J Jiang, C Xi, L Wu, J Lu, T Mou, Y Xu, SW Perry, ML Wong, J Licinio, S Hu, G Wang, P Xie_
 
 
 Gut microbiome disturbances have been implicated in major depressive disorder (MDD). However, little is known about how the gut virome, microbiome, and fecal metabolome change, and how they interact in MDD. Here, using whole-genome shotgun metagenomic and untargeted metabolomic methods, we identified 3 bacteriophages, 47 bacterial species, and 50 fecal metabolites showing notable differences in abundance between MDD patients and healthy controls (HCs). Patients with MDD were mainly characterized by increased abundance of the genus Bacteroides and decreased abundance of the genera Blautia and Eubacterium These multilevel omics alterations generated a characteristic MDD coexpression network. Disturbed microbial genes and fecal metabolites were consistently mapped to amino acid (γ-aminobutyrate, phenylalanine, and tryptophan) metabolism. Furthermore, we identified a combinatorial marker panel that robustly discriminated MDD from HC individuals in both the discovery and validation sets. Our findings provide a deep insight into understanding of the roles of disturbed gut ecosystem in MDD.
@@ -47,7 +47,7 @@ Use of microbiome-based biomarkers in diagnosis, prognosis, risk profiling, and 
 ---
 
 ## The gut microbiota is associated with immune cell dynamics in humans.
- 07.12.2020, _J Schluter, JU Peled, BP Taylor, KA Markey, M Smith, Y Taur, R Niehus, A Staffas, A Dai, E Fontana, LA Amoretti, RJ Wright, S Morjaria, M Fenelus, MS Pessin, NJ Chao, M Lew, L Bohannon, A Bush, AD Sung, TM Hohl, MA Perales, MRM van den Brink, JB Xavier_
+ 09.12.2020, _J Schluter, JU Peled, BP Taylor, KA Markey, M Smith, Y Taur, R Niehus, A Staffas, A Dai, E Fontana, LA Amoretti, RJ Wright, S Morjaria, M Fenelus, MS Pessin, NJ Chao, M Lew, L Bohannon, A Bush, AD Sung, TM Hohl, MA Perales, MRM van den Brink, JB Xavier_
 
 
 The gut microbiota influences development1-3 and homeostasis4-7 of the mammalian immune system, and is associated with human inflammatory8 and immune diseases9,10 as well as responses to immunotherapy11-14. Nevertheless, our understanding of how gut bacteria modulate the immune system remains limited, particularly in humans, where the difficulty of direct experimentation makes inference challenging. Here we study hundreds of hospitalized-and closely monitored-patients with cancer receiving haematopoietic cell transplantation as they recover from chemotherapy and stem-cell engraftment. This aggressive treatment causes large shifts in both circulatory immune cell and microbiota populations, enabling the relationships between the two to be studied simultaneously. Analysis of observed daily changes in circulating neutrophil, lymphocyte and monocyte counts and more than 10,000 longitudinal microbiota samples revealed consistent associations between gut bacteria and immune cell dynamics. High-resolution clinical metadata and Bayesian inference allowed us to compare the effects of bacterial genera in relation to those of immunomodulatory medications, revealing a considerable influence of the gut microbiota-together and over time-on systemic immune cell dynamics. Our analysis establishes and quantifies the link between the gut microbiota and the human immune system, with implications for microbiota-driven modulation of immunity.
@@ -136,27 +136,15 @@ The human gut microbiome has emerged as a major player in human health and disea
 
 ---
 
-## Current Trends in Experimental and Computational Approaches to Combat Antimicrobial Resistance.
- 27.11.2020, _M Imchen, J Moopantakath, R Kumavath, D Barh, S Tiwari, P Ghosh, V Azevedo_
-
-
-A multitude of factors, such as drug misuse, lack of strong regulatory measures, improper sewage disposal, and low-quality medicine and medications, have been attributed to the emergence of drug resistant microbes. The emergence and outbreaks of multidrug resistance to last-line antibiotics has become quite common. This is further fueled by the slow rate of drug development and the lack of effective resistome surveillance systems. In this review, we provide insights into the recent advances made in computational approaches for the surveillance of antibiotic resistomes, as well as experimental formulation of combinatorial drugs. We explore the multiple roles of antibiotics in nature and the current status of combinatorial and adjuvant-based antibiotic treatments with nanoparticles, phytochemical, and other non-antibiotics based on synergetic effects. Furthermore, advancements in machine learning algorithms could also be applied to combat the spread of antibiotic resistance. Development of resistance to new antibiotics is quite rapid. Hence, we review the recent literature on discoveries of novel antibiotic resistant genes though shotgun and expression-based metagenomics. To decelerate the spread of antibiotic resistant genes, surveillance of the resistome is of utmost importance. Therefore, we discuss integrative applications of whole-genome sequencing and metagenomics together with machine learning models as a means for state-of-the-art surveillance of the antibiotic resistome. We further explore the interactions and negative effects between antibiotics and microbiomes upon drug administration.
+## Current Trends in Experimental and Computational Approaches to Combat Antimicrobial Resistance 
 
 [Source](https://www.frontiersin.org/articles/10.3389/fgene.2020.563975/full)
 
-10.3389/fgene.2020.563975
-
 ---
 
-## Predicting clinical resistance prevalence using sewage metagenomic data.
- 01.12.2020, _A Karkman, F Berglund, CF Flach, E Kristiansson, DGJ Larsson_
-
-
-Antibiotic resistance surveillance through regional and up-to-date testing of clinical isolates is a foundation for implementing effective empirical treatment. Surveillance data also provides an overview of geographical and temporal changes that are invaluable for guiding interventions. Still, due to limited infrastructure and resources, clinical surveillance data is lacking in many parts of the world. Given that sewage is largely made up of human fecal bacteria from many people, sewage epidemiology could provide a cost-efficient strategy to partly fill the current gap in clinical surveillance of antibiotic resistance. Here we explored the potential of sewage metagenomic data to assess clinical antibiotic resistance prevalence using environmental and clinical surveillance data from across the world. The sewage resistome correlated to clinical surveillance data of invasive Escherichia coli isolates, but none of several tested approaches provided a sufficient resolution for clear discrimination between resistance towards different classes of antibiotics. However, in combination with socioeconomic data, the overall clinical resistance situation could be predicted with good precision. We conclude that analyses of bacterial genes in sewage could contribute to informing management of antibiotic resistance.
+## Predicting clinical resistance prevalence using sewage metagenomic data
 
 [Source](https://www.nature.com/articles/s42003-020-01439-6)
-
-10.1038/s42003-020-01439-6
 
 ---
 
@@ -295,19 +283,6 @@ Antimicrobial resistance (AMR) in bacteria is a complex subject, why one need to
 ## Holiday Gift Guide For Microbe Lovers
 
 [Source](https://joyfulmicrobe.com/holiday-gift-guide-for-microbe-lovers/)
-
----
-
-## Mediterranean diet and quality of life in women treated for breast cancer: A baseline analysis of DEDiCa multicentre trial.
- 27.11.2020, _G Porciello, C Montagnese, A Crispo, M Grimaldi, M Libra, S Vitale, E Palumbo, R Pica, I Calabrese, S Cubisino, L Falzone, L Poletto, V Martinuzzo, M Prete, N Esindi, G Thomas, D Cianniello, M Pinto, M Laurentiis, C Pacilio, M Rinaldo, M D'Aiuto, D Serraino, S Massarut, C Evangelista, A Steffan, F Catalano, GL Banna, G Scandurra, F Ferraù, R Rossello, G Antonelli, G Guerra, A Farina, F Messina, G Riccardi, D Gatti, DJA Jenkins, A Minopoli, B Grilli, E Cavalcanti, E Celentano, G Botti, M Montella, LSA Augustin_
-
-
-_Adult, Aged, Breast Neoplasms, Cancer Survivors, Diet, Mediterranean, Female, Humans, Italy, Middle Aged, Pain, Patient Compliance, Quality of Life, Sleep Initiation and Maintenance Disorders, Surveys and Questionnaires_
-Evidence suggests a beneficial role of the Mediterranean Diet (MedDiet) on health-related quality of life (HRQoL) in healthy subjects. HRQoL is relevant in cancer therapy and disease outcomes, therefore we investigated the association between adherence to the MedDiet and HRQoL in breast cancer survivors participating in the multicentre trial DEDiCa. Diet and HRQoL were assessed at baseline in a subgroup of 309 women enrolled within 12 months of breast cancer diagnosis without metastasis (stages I-III, mean age 52±1 yrs, BMI 27±7 kg/m2). The 14-item PREDIMED questionnaire was used to analyse adherence to the MedDiet. HRQoL was assessed with three validated questionnaires measuring physical, mental, emotional and social factors: EQ-5D-3L, EORTC QLQ-C30 and EORTC QLQ-BR23. Analysis of variance (ANOVA) and multivariate analyses were performed to assess the possible role of the MedDiet on HRQoL. Patients with higher adherence to MedDiet (PREDIMED score &gt;7) showed significantly higher scores for physical functioning (p = 0.02) and lower scores on the symptomatic pain scale (p = 0.04) assessed by the EORTC QLQ-C30 questionnaire compared to patients with a lower adherence to MedDiet (PREDIMED score ≤7). Higher scores from the EQ-5D-3L indicating higher well-being were observed mainly in participants with higher MedDiet adherence (p = 0.05). In adjusted multivariate analyses significant positive associations were found between MedDiet, physical functioning (p = 0.001) and EQ 5D-3L score (p = 0.003) while inverse associations were found with pain and insomnia symptoms (p = 0.005 and p = 0.029, respectively). These results suggest that higher adherence to the MedDiet in breast cancer survivors is associated with better aspects of quality of life, specifically higher physical functioning, better sleep, lower pain and generally higher well-being confirming findings in healthy subjects.
-
-[Source](https://www.matchingfoodandwine.com/news/book_reviews/the-2020-matching-food--wine-cookbook-giftlist-/)
-
-10.1371/journal.pone.0239803
 
 ---
 
