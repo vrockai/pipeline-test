@@ -148,15 +148,9 @@
 
 ---
 
-## Biostimulating effect of L-tryptophan on the yield and chemical and microbiological quality of perennial ryegrass (Lolium perenne) herbage and silage for ruminant.
- 10.12.2020, _SW Przemieniecki, C Purwin, J Mastalerz, M Borsuk, K LipiŃski, T Kurowski_
-
-
-This study aimed to evaluate the effect of L-tryptophan (L-TRP) used in the cultivation of Lolium perenne on the yield, chemical and microbiological quality of its herbage and silage. L-TRP was applied in doses of 5 kg ha-1 , 0.5 kg ha-1 , 0.05 kg ha-1 . The experiment was conducted with a control group (C) and a comparative control group (C+) with higher nitrogen fertilization.
+## Biostimulating effect of L-tryptophan on the yield and chemical and microbiological quality of perennial ryegrass (Lolium perenne) herbage and silage for ruminant
 
 [Source](https://doi.org/10.1002/jsfa.10999)
-
-10.1002/jsfa.10999
 
 ---
 
