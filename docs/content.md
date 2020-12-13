@@ -11,7 +11,7 @@ The gut microbiome has been shown to influence the response of tumors to anti-PD
 ---
 
 ## Utilizing microbiome approaches to assist source tracking, treatment and prevention of COVID-19: Review and assessment.
- 11.12.2020, _M Han, Y Zha, H Chong, C Zhong, K Ning_
+ 12.12.2020, _M Han, Y Zha, H Chong, C Zhong, K Ning_
 
 
 COVID-19 has been one of the most serious infectious diseases since the end of 2019. However, the original source, as well as the treatment and prevention of causative agent of COVID-19 (namely SARS-CoV-2) are still unclear nearly a year after its publicly report. The microbiome approach, which has emerged in recent years focusing on human-related microbes, has become one of the promising avenues for source tracking, treatment, and prevention of a variety of infectious diseases including COVID-19. In this review, we summarized the microbiome approach as a supplementary approach for source tracking, treatment, and prevention of SARS-CoV-2 infection. We first provided background information on SARS-CoV-2 and microbiome approaches. Then we illustrated current strategies of microbiome methods to assist three aspects of COVID-19 research, namely source tracking, treatment, and prevention, respectively. Finally, we summarized the microbiome approaches and provided perspectives for future studies on faster and more effective SARS-CoV-2 epidemiology and pathogenesis based on microbiome approaches.
@@ -23,7 +23,7 @@ COVID-19 has been one of the most serious infectious diseases since the end of 2
 ---
 
 ## Microbiota Transplant in the Treatment of Obesity and Diabetes: Current and Future Perspectives.
- 11.12.2020, _M Napolitano, M Covasa_
+ 12.12.2020, _M Napolitano, M Covasa_
 
 
 A wealth of evidence has revealed the critical role of the gut microbiota in health and disease. Many chronic diseases have been associated with gut microbiota imbalance in its composition, diversity and functional capacity. Several types of interventions have been shown to correct microbiota imbalance and restore the beneficial metabolic outcomes of a normal microbiota. Among them, fecal microbiota transplantation (FMT) is an emergent, promising technology employed to improve clinical outcomes of various pathological conditions through modifications in the gut microbiota composition. FMT has been used successfully as a treatment option in recurrent Clostridium difficile infection, a condition characterized by severe gut microbiota dysbiosis. However, the potential usage of FMT in other microbiota-associated conditions different from C. difficile such as metabolic syndrome or obesity that are also marked by gut dysbiosis is still under investigation. Furthermore, the contribution of the gut microbiota as a cause or consequence in metabolic disease is still largely debated. This review provides critical information on the methodological approaches of FMT and its technological innovation in clinical applications. This review sheds light on the current findings and gaps in our understanding of how FMT can be used as a future biotherapeutic to restore microbial homeostasis in amelioration of obesity and diabetes.
@@ -47,7 +47,7 @@ Vitamin D deficiency affects approximately 80% of individuals in some countries 
 ---
 
 ## Gene Networks Underlying the Resistance of Bifidobacterium longum to Inflammatory Factors.
- 11.12.2020, _VA Veselovsky, MS Dyachkova, EA Menyaylo, PS Polyaeva, EI Olekhnovich, EA Shitikov, DA Bespiatykh, TA Semashko, AS Kasianov, EN Ilina, VN Danilenko, KM Klimina_
+ 12.12.2020, _VA Veselovsky, MS Dyachkova, EA Menyaylo, PS Polyaeva, EI Olekhnovich, EA Shitikov, DA Bespiatykh, TA Semashko, AS Kasianov, EN Ilina, VN Danilenko, KM Klimina_
 
 
 As permanent residents of the normal gut microbiota, bifidobacteria have evolved to adapt to the host's immune response whose priority is to eliminate pathogenic agents. The mechanisms that ensure the survival of commensals during inflammation and maintain the stability of the core component of the normal gut microbiota in such conditions remain poorly understood. We propose a new in vitro approach to study the mechanisms of resistance to immune response factors based on high-throughput sequencing followed by transcriptome analysis. This approach allowed us to detect differentially expressed genes associated with inflammation. In this study, we demonstrated that the presence of the pro-inflammatory cytokines IL-6 and TNFα to the growth medium of the B. longum subsp. longum GT15 strain changes the latter's growth rate insignificantly while affecting the expression of certain genes. We identified these genes and performed a COG and a KEGG pathway enrichment analysis. Using phylogenetic profiling we predicted the operons of genes whose expression was triggered by the cytokines TNFα and IL-6 in vitro. By mapping the transcription start points, we experimentally validated the predicted operons. Thus, in this study, we predicted the genes involved in a putative signaling pathway underlying the mechanisms of resistance to inflammatory factors in bifidobacteria. Since bifidobacteria are a major component of the human intestinal microbiota exhibiting pronounced anti-inflammatory properties, this study is of great practical and scientific relevance.
@@ -153,7 +153,7 @@ In this issue of Cell Host &amp; Microbe, Gálvez et al. employed metagenomic an
 ---
 
 ## Gut Microbiomes Differ Among Dietary Types and Stool Consistency in the Captive Red Wolf (Canis rufus).
- 11.12.2020, _M Bragg, EW Freeman, HC Lim, N Songsasen, CR Muletz-Wolz_
+ 12.12.2020, _M Bragg, EW Freeman, HC Lim, N Songsasen, CR Muletz-Wolz_
 
 
 Captive management of many wildlife species can be challenging, with individuals displaying health disorders that are not generally described in the wild population. Retrospective studies have identified gastrointestinal (GI) diseases, in particular inflammatory bowel disease (IBD), as the second leading cause of captive adult red wolf (Canis rufus) mortality. Recent molecular studies show that imbalanced gut microbial composition is tightly linked to IBD in the domestic dog. The goal of the present study was to address two main questions: (1) how do red wolf gut microbiomes differ between animals with loose stool consistency, indicative of GI issues, and those with normal stool consistency and (2) how does dietary type relate to stool consistency and red wolf gut microbiomes? Fresh fecal samples were collected from 48 captive wolves housed in eight facilities in the United States and from two wild wolves living in Alligator River National Wildlife Refuge, NC, United States. For each individual, the stool consistency was categorized as loose or normal using a standardized protocol and their diet was categorized as either wild, whole meat, a mix of whole meat and kibble or kibble. We characterized gut microbiome structure using 16S rRNA gene amplicon sequencing. We found that red wolves with a loose stool consistency differed in composition than wolves with normal stool consistency, suggesting a link between GI health and microbiome composition. Diet was not related to stool consistency but did significantly impact gut microbiome composition; gut microbiome composition of wolves fed a kibble diet were significantly different than the gut microbiome composition of wolves fed a mixed, whole meat and wild diet. Findings from this study increase the understanding of the interplay between diet and GI health in the red wolf, a critical piece of information needed to maintain a healthy red wolf population ex situ.
@@ -195,7 +195,7 @@ The commensal microbiota of mosquitoes impacts their development, immunity, and 
 ---
 
 ## Intestine Bacterial Community Composition of Shrimp Varies Under Low- and High-Salinity Culture Conditions.
- 11.12.2020, _D Hou, R Zhou, S Zeng, D Wei, X Deng, C Xing, L Yu, Z Deng, H Wang, S Weng, J He, Z Huang_
+ 12.12.2020, _D Hou, R Zhou, S Zeng, D Wei, X Deng, C Xing, L Yu, Z Deng, H Wang, S Weng, J He, Z Huang_
 
 
 Intestine microbiota is tightly associated with host health status. Increasing studies have focused on assessing how host intestine microbiota is affected by biotic factors but ignored abiotic factors. Here, we aimed to understand the effects of salinity on shrimp intestine microbiota, by comparing the differences of intestine bacterial signatures of shrimp under low-salinity (LS) and high-salinity (HS) culture conditions. Our results found that intestine core bacterial taxa of shrimp under LS and HS culture conditions were different and that under HS contained more opportunistic pathogen species. Notably, compared with LS culture conditions, opportunistic pathogens (e.g., Vibrio species) were enriched in shrimp intestine under HS. Network analysis revealed that shrimp under HS culture conditions exhibited less connected and lower competitive intestine bacterial interspecies interactions compared with LS. In addition, under HS culture conditions, several opportunistic pathogens were identified as keystone species of intestine bacterial network in shrimp. Furthermore, the ecological drift process played a more important role in the intestine bacterial assembly of shrimp under HS culture conditions than that under LS. These above traits regarding the intestine microbiota of shrimp under HS culture conditions might lead to host at a higher risk of disease. Collectively, this work aids our understanding of the effects of salinity on shrimp intestine microbiota and helps for shrimp culture.
@@ -243,7 +243,7 @@ Escherichia coli Nissle 1917 (EcN) is a probiotic bacterium, commonly employed t
 ---
 
 ## Purple-leaf tea (Camellia sinensis L.) ameliorates high-fat diet induced obesity and metabolic disorder through the modulation of the gut microbiota in mice.
- 11.12.2020, _YC Lin, HF Lu, JC Chen, HC Huang, YH Chen, YS Su, CY Tung, C Huang_
+ 12.12.2020, _YC Lin, HF Lu, JC Chen, HC Huang, YH Chen, YS Su, CY Tung, C Huang_
 
 
 Obesity and its associated diseases have become a major world-wide health problem. Purple-leaf Tea (Camellia sinensis L.) (PLT), that is rich of anthocyanins, has been shown to have preventive effects on obesity and metabolic disorders. The intestinal microbiota has been shown to contribute to inflammation, obesity, and several metabolic disorders. However, whether PLT consumption could prevent obesity and diet-induced metabolic diseases by modulating the gut microbiota, is not clearly understood.
