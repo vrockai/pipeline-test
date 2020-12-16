@@ -82,15 +82,27 @@ Sleeve gastrectomy has quickly become the most commonly performed bariatric surg
 
 ---
 
-## Diversity and functional prediction of microbial communities involved in the first aerobic bioreactor of coking wastewater treatment system
+## Diversity and functional prediction of microbial communities involved in the first aerobic bioreactor of coking wastewater treatment system.
+ 10.12.2020, _J Deng, B Zhang, J Xie, H Wu, Z Li, G Qiu, C Wei, S Zhu_
+
+
+The pre-aerobic process of coking wastewater treatment has strong capacity of decarbonization and detoxification, which contribute to the subsequent dinitrogen of non-carbon source/heterotrophic denitrification. The COD removal rate can reach &gt; 90% in the first aerobic bioreactor of the novel O/H/O coking wastewater treatment system during long-term operation. The physico-chemical characteristics of influent and effluent coking wastewater in the first aerobic bioreactor were analyzed to examine how they correlated with bacterial communities. The diversity of the activated sludge microbial community was investigated using a culture-independent molecular approach. The microbial community functional profiling and detailed pathways were predicted from the 16S rRNA gene-sequencing data by the PICRUSt software and the KEGG database. High-throughput MiSeq sequencing results revealed a distinct microbial composition in the activated sludge of the first aerobic bioreactor of the O/H/O system. Proteobacteria, Bacteroidetes, and Chlorobi were the decarbonization and detoxification dominant phyla with the relative abundance of 84.07 ± 5.45, 10.89 ± 6.31, and 2.96 ± 1.12%, respectively. Thiobacillus, Rhodoplanes, Lysobacter, and Leucobacter were the potential major genera involved in the crucial functional pathways related to the degradation of phenols, cyanide, benzoate, and naphthalene. These results indicated that the comprehensive understanding of the structure and function diversity of the microbial community in the bioreactor will be conducive to the optimal coking wastewater treatment.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243748)
 
+10.1371/journal.pone.0243748
+
 ---
 
-## A novel 3D in vitro model of the human gut microbiota
+## A novel 3D in vitro model of the human gut microbiota.
+ 15.12.2020, _F Biagini, M Calvigioni, A Lapomarda, A Vecchione, C Magliaro, C De Maria, F Montemurro, F Celandroni, D Mazzantini, M Mattioli-Belmonte, E Ghelardi, G Vozzi_
+
+
+Clinical trials and animal studies on the gut microbiota are often limited by the difficult access to the gut, restricted possibility of in vivo monitoring, and ethical issues. An easily accessible and monitorable in vitro model of the gut microbiota represents a valid tool for a wider comprehension of the mechanisms by which microbes interact with the host and with each other. Herein, we present a novel and reliable system for culturing the human gut microbiota in vitro. An electrospun gelatin structure was biofabricated as scaffold for microbial growth. The efficiency of this structure in supporting microbial proliferation and biofilm formation was initially assessed for five microbes commonly inhabiting the human gut. The human fecal microbiota was then cultured on the scaffolds and microbial biofilms monitored by confocal laser and scanning electron microscopy and quantified over time. Metagenomic analyses and Real-Time qPCRs were performed to evaluate the stability of the cultured microbiota in terms of qualitative and quantitative composition. Our results reveal the three-dimensionality of the scaffold-adhered microbial consortia that maintain the bacterial biodiversity and richness found in the original sample. These findings demonstrate the validity of the developed electrospun gelatin-based system for in vitro culturing the human gut microbiota.
 
 [Source](https://www.nature.com/articles/s41598-020-78591-w)
+
+10.1038/s41598-020-78591-w
 
 ---
 
