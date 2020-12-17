@@ -1,143 +1,120 @@
-## Inferring the effectiveness of government interventions against COVID-19.
- 16.12.2020, _JM Brauner, S Mindermann, M Sharma, D Johnston, J Salvatier, T Gavenčiak, AB Stephenson, G Leech, G Altman, V Mikulik, AJ Norman, JT Monrad, T Besiroglu, H Ge, MA Hartwick, YW Teh, L Chindelevitch, Y Gal, J Kulveit_
+## Programmed cell death as a black queen in microbial communities.
+ 30.11.2020, _A Ndhlovu, PM Durand, G Ramsey_
 
 
-Governments are attempting to control the COVID-19 pandemic with nonpharmaceutical interventions (NPIs). However, the effectiveness of different NPIs at reducing transmission is poorly understood. We gathered chronological data on the implementation of NPIs for several European, and other, countries between January and the end of May 2020. We estimate the effectiveness of NPIs, ranging from limiting gathering sizes, business closures, and closure of educational institutions to stay-at-home orders. To do so, we used a Bayesian hierarchical model that links NPI implementation dates to national case and death counts and supported the results with extensive empirical validation. Closing all educational institutions, limiting gatherings to 10 people or less, and closing face-to-face businesses each reduced transmission considerably. The additional effect of stay-at-home orders was comparatively small.
+Programmed cell death (PCD) in unicellular organisms is in some instances an altruistic trait. When the beneficiaries are clones or close kin, kin selection theory may be used to explain the evolution of the trait, and when the trait evolves in groups of distantly related individuals, group or multilevel selection theory is invoked. In mixed microbial communities, the benefits are also available to unrelated taxa. But the evolutionary ecology of PCD in communities is poorly understood. Few hypotheses have been offered concerning the community role of PCD despite its far-reaching effects. The hypothesis we consider here is that PCD is a black queen. The Black Queen Hypothesis (BQH) outlines how public goods arising from a leaky function are exploited by other taxa in the community. Black Queen (BQ) traits are essential for community survival, but only some members bear the cost of possessing them, while others lose the trait In addition, BQ traits have been defined in terms of adaptive gene loss, and it is unknown whether this has occurred for PCD. Our conclusion is that PCD fulfills the two most important criteria of a BQ (leakiness and costliness), but that more empirical data are needed for assessing the remaining two criteria. In addition, we hold that for viewing PCD as a BQ, the original BQH needs to include social traits. Thus, despite some empirical and conceptual shortcomings, the BQH provides a helpful avenue for investigating PCD in microbial communities.
 
-[Source](https://science.sciencemag.org/content/early/2020/12/15/science.abd9338.full)
+[Source](https://doi.org/10.1101/2020.12.15.422935)
 
-10.1126/science.abd9338
-
----
-
-## COVID 19 mortality: Probable role of microbiome to explain disparity.
- 14.12.2020, _P Kumar, B Chander_
-
-
-_Bacterial Infections, Biodiversity, COVID-19, Developing Countries, Environmental Microbiology, Health Status Disparities, Humans, Interferon Type I, Microbiota, Models, Biological, Pandemics, Poverty, Rural Population, SARS-CoV-2_
-There is a significant difference between COVID 19 associated mortality between different countries. Generally the number of deaths per million population are higher in the developed countries despite better health care efficiency, drinking water quality and expected healthy life span (HALE) at the time of birth. Developing and underdeveloped countries on the other hand have lower mortality even with higher rural and slum populations along with incidence of diarrhea because of lack of sanitation. We analyzed data from 122 countries out of which 80 were high or upper middle income and 42 were low or low middle income countries. There was statistically significant positive correlation between COVID 19 deaths /million population and water current score, health efficiency, and HALE. Statistically significant negative correlation was observed with % rural population and fraction of diarrhea because of inadequate sanitation for all ages. Moreover analysis of 51 countries showed that there is significant negative correlation between COVID 19 deaths /million population and proportion of total population living in slums. We propose that high microbial exposure particularly gram negative bacteria can possibly induce interferon type I which might have a protective effect against COVID 19 since the countries with less mortality also tend to have lack of sanitation and high incidence of attendant diseases. So, far none of the predictive models have taken into account immune status of populations engendered by environmental microbial exposure or microbiome. There might be a need to look at dynamics of COVID 19 pandemic using immune perspective. The approach can potentially inform better policies including interventions.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0306987720321125)
-
-10.1016/j.mehy.2020.110209
+10.1111/mec.15757
 
 ---
 
-## Theory of (antimicrobial) relativity: When competitors determine a species’ drug sensitivity.
+## Trait Evolution in Microbial Communities
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.14.422780v1.abstract)
-
----
-
-## Metagenomic Next-Generation Sequencing of Nasopharyngeal Specimens Collected from Confirmed and Suspect COVID-19 Patients.
- 14.12.2020, _HH Mostafa, JA Fissel, B Fanelli, Y Bergman, V Gniazdowski, M Dadlani, KC Carroll, RR Colwell, PJ Simner_
-
-
-_Bacteria, COVID-19, Coinfection, Computational Biology, High-Throughput Nucleotide Sequencing, Humans, Metagenome, Metagenomics, Microbiota, Nasopharynx, RNA, Viral, SARS-CoV-2, Specimen Handling_
-Metagenomic next-generation sequencing (mNGS) offers an agnostic approach for emerging pathogen detection directly from clinical specimens. In contrast to targeted methods, mNGS also provides valuable information on the composition of the microbiome and might uncover coinfections that may associate with disease progression and impact prognosis. To evaluate the use of mNGS for detecting severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and/or other infecting pathogens, we applied direct Oxford Nanopore long-read third-generation metatranscriptomic and metagenomic sequencing. Nasopharyngeal (NP) swab specimens from 50 patients under investigation for CoV disease 2019 (COVID-19) were sequenced, and the data were analyzed by the CosmosID bioinformatics platform. Further, we characterized coinfections and the microbiome associated with a four-point severity index. SARS-CoV-2 was identified in 77.5% (31/40) of samples positive by RT-PCR, correlating with lower cycle threshold (Ct) values and fewer days from symptom onset. At the time of sampling, possible bacterial or viral coinfections were detected in 12.5% of SARS-CoV-2-positive specimens. A decrease in microbial diversity was observed among COVID-19-confirmed patients (Shannon diversity index, P = 0.0082; Chao richness estimate, P = 0.0097; Simpson diversity index, P = 0.018), and differences in microbial communities were linked to disease severity (P = 0.022). Furthermore, statistically significant shifts in the microbiome were identified among SARS-CoV-2-positive and -negative patients, in the latter of whom a higher abundance of Propionibacteriaceae (P = 0.028) and a reduction in the abundance of Corynebacterium accolens (P = 0.025) were observed. Our study corroborates the growing evidence that increased SARS-CoV-2 RNA detection from NP swabs is associated with the early stages rather than the severity of COVID-19. Further, we demonstrate that SARS-CoV-2 causes a significant change in the respiratory microbiome. This work illustrates the utility of mNGS for the detection of SARS-CoV-2, for diagnosing coinfections without viral target enrichment or amplification, and for the analysis of the respiratory microbiome.IMPORTANCE SARS-CoV-2 has presented a rapidly accelerating global public health crisis. The ability to detect and analyze viral RNA from minimally invasive patient specimens is critical to the public health response. Metagenomic next-generation sequencing (mNGS) offers an opportunity to detect SARS-CoV-2 from nasopharyngeal (NP) swabs. This approach also provides information on the composition of the respiratory microbiome and its relationship to coinfections or the presence of other organisms that may impact SARS-CoV-2 disease progression and prognosis. Here, using direct Oxford Nanopore long-read third-generation metatranscriptomic and metagenomic sequencing of NP swab specimens from 50 patients under investigation for COVID-19, we detected SARS-CoV-2 sequences by applying the CosmosID bioinformatics platform. Further, we characterized coinfections and detected a decrease in the diversity of the microbiomes in these patients. Statistically significant shifts in the microbiome were identified among COVID-19-positive and -negative patients, in the latter of whom a higher abundance of Propionibacteriaceae and a reduction in the abundance of Corynebacterium accolens were observed. Our study also corroborates the growing evidence that increased SARS-CoV-2 RNA detection from NP swabs is associated with the early stages of disease rather than with severity of disease. This work illustrates the utility of mNGS for the detection and analysis of SARS-CoV-2 from NP swabs without viral target enrichment or amplification and for the analysis of the respiratory microbiome.
-
-[Source](https://mbio.asm.org/content/11/6/e01969-20)
-
-10.1128/mBio.01969-20
+[Source](https://doi.org/10.1101/2020.12.15.422935)
 
 ---
 
-## Variation in oral microbiome is associated with future risk of lung cancer among never-smokers.
- 15.12.2020, _HD Hosgood, Q Cai, X Hua, J Long, J Shi, Y Wan, Y Yang, C Abnet, BA Bassig, W Hu, BT Ji, M Klugman, Y Xiang, YT Gao, JY Wong, W Zheng, N Rothman, XO Shu, Q Lan_
+## The Pre-treatment Gut Microbiome is Associated with Lack of Response to Methotrexate in New Onset Rheumatoid Arthritis.
+ 14.12.2020, _A Artacho, S Isaac, R Nayak, A Flor-Duro, M Alexander, I Koo, J Manasson, PB Smith, P Rosenthal, Y Homsi, P Gulko, J Pons, L Puchades-Carrasco, P Izmirly, A Patterson, SB Abramson, A Pineda-Lucena, PJ Turnbaugh, C Ubeda, JU Scher_
 
 
-To prospectively investigate whether diversity in oral microbiota is associated with risk of lung cancer among never-smokers.
+Although oral methotrexate (MTX) remains the anchor drug for RA, up to 50% of patients do not achieve a clinically adequate outcome. Concomitantly, there is a lack of prognostic tools for treatment response prior to drug initiation. Here we study whether inter-individual differences in the human gut microbiome can aid in the prediction of MTX efficacy in new-onset RA (NORA).
 
-[Source](https://thorax.bmj.com/content/early/2020/11/15/thoraxjnl-2020-215542)
+[Source](https://doi.org/10.1002/art.41622)
 
-10.1136/thoraxjnl-2020-215542
-
----
-
-## Effect of an 8-week Exercise Training on Gut Microbiota in Physically Inactive Older Women.
- 15.12.2020, _F Zhong, X Wen, M Yang, HY Lai, H Momma, L Cheng, X Sun, R Nagatomi, C Huang_
-
-
-Exercise can alter the composition of gut microbiota. However, studies examining the effects of exercise on gut microbiota in the elderly are lacking. This study aims to investigate whether an 8-week exercise training affect gut microbiota in physically inactive elderly women. Fourteen women were randomly assigned to either exercise group or control group. Repeated-measures analysis of variance was used to reveal changes in gut microbiota. Alpha diversity did not change significantly. A tendency to form 2 clusters was observed for operational taxonomic units (OTU) after intervention. At phylum, class, and order levels, a significant difference was observed between two groups for Fusobacteria (F=5.257, P=0.045), Betaproteobacteria (F=5.149, P=0.047), and Bifidobacteriales (F=7.624, P=0.020). A significant interaction was observed between two groups for Actinobacteria (F=8.434, P=0.016). At family and genus levels, a signiﬁcant main effect of groups was observed in Bifidobacteriaceae (F=7.624, P=0.020), Bifidobacterium (F=7.404, P=0.022), and Gemmiger (F=5.881, P=0.036). These findings indicate that an 8-week exercise training may induce partial changes in relative abundance and OTU clustering of gut microbiota in physically inactive elderly women. Also, exercise may increase the abundance of bacteria associated with anti-inflammation such as Verrucomicrobia, reduce the abundance of bacteria associated with pro-inflammation such as Proteobacteria.
-
-[Source](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1301-7011)
-
-10.1055/a-1301-7011
+10.1002/art.41622
 
 ---
 
-## Vitamin D metabolites and the gut microbiome in older men.
- 14.12.2020, _RL Thomas, L Jiang, JS Adams, ZZ Xu, J Shen, S Janssen, G Ackermann, D Vanderschueren, S Pauwels, R Knight, ES Orwoll, DM Kado_
+## Oral Microbes: A Hidden Yet Powerful Evidence for Futuristic Forensic Investigation
 
-
-_Aged, Aged, 80 and over, Butyrates, Calcifediol, Calcitriol, Cross-Sectional Studies, DNA, Bacterial, Feces, Gastrointestinal Microbiome, Humans, Independent Living, Intestinal Mucosa, Male, Phylogeny, RNA, Ribosomal, 16S_
-The vitamin D receptor is highly expressed in the gastrointestinal tract where it transacts gene expression. With current limited understanding of the interactions between the gut microbiome and vitamin D, we conduct a cross-sectional analysis of 567 older men quantifying serum vitamin D metabolites using LC-MSMS and defining stool sub-Operational Taxonomic Units from16S ribosomal RNA gene sequencing data. Faith's Phylogenetic Diversity and non-redundant covariate analyses reveal that the serum 1,25(OH)2D level explains 5% of variance in α-diversity. In β-diversity analyses using unweighted UniFrac, 1,25(OH)2D is the strongest factor assessed, explaining 2% of variance. Random forest analyses identify 12 taxa, 11 in the phylum Firmicutes, eight of which are positively associated with either 1,25(OH)2D and/or the hormone-to-prohormone [1,25(OH)2D/25(OH)D] "activation ratio." Men with higher levels of 1,25(OH)2D and higher activation ratios, but not 25(OH)D itself, are more likely to possess butyrate producing bacteria that are associated with better gut microbial health.
-
-[Source](https://www.nature.com/articles/s41467-020-19793-8)
-
-10.1038/s41467-020-19793-8
+[Source](https://doi.org/10.1007/978-981-15-6655-4_25)
 
 ---
 
-## Longitudinal profiling of the macaque vaginal microbiome reveals similarities to diverse human vaginal communities: implications for use as a pre-clinical model for bacterial vaginosis
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.14.422805v1.abstract)
-
----
-
-## The earthworm microbiome is resilient to exposure to biocidal metal nanoparticles.
- 14.12.2020, _E Swart, T Goodall, P Kille, DJ Spurgeon, C Svendsen_
+## Microbiome Analysis from Paired Mucosal and Fecal Samples of a Colorectal Cancer Biobank.
+ 15.12.2020, _U Wirth, D Garzetti, LM Jochum, S Spriewald, F Kühn, M Ilmer, SML Lee, H Niess, AV Bazhin, J Andrassy, J Werner, B Stecher, TS Schiergens_
 
 
-_Animals, Gastrointestinal Microbiome, Metal Nanoparticles, Microbiota, Oligochaeta, Soil_
-Environmental pollution can disrupt the interactions between animals and their symbiotic bacteria, which can lead to adverse effects on the host even in the absence of direct chemical toxicity. It is therefore crucial to understand how environmental pollutants affect animal microbiomes, especially for those chemicals that are designed to target microbes. Here, we study the effects of two biocidal nanoparticles (NPs) (Ag and CuO) on the soil bacterial community and the resident gut microbiome of the earthworm Eisenia fetida over a 28-day period using metabarcoding techniques. Exposures to NPs were conducted following OECD test guidelines and effects on earthworm reproduction and juvenile biomass were additionally recorded in order to compare effects on the host to effects on microbiomes. By employing a full concentration series, we were able to link pollutants to microbiome effects in high resolution. Multivariate analysis, differential abundance analysis and species sensitivity distribution analysis showed that Ag-NPs are more toxic to soil bacteria than CuO-NPs. In contrast to the strong effects of CuO-NPs and Ag-NPs on the soil bacterial community, the earthworm gut microbiome is largely resilient to exposure to biocidal NPs. Despite this buffering effect, CuO-NPs did negatively affect the relative abundance of some earthworm symbionts, including 'Candidatus Lumbricincola'. Changes in the soil bacterial community and the earthworm microbiome occur at total copper concentrations often found or modelled to occur in agricultural fields, demonstrating that soil bacterial communities and individual taxa in the earthworm microbiome may be at risk from environmental copper exposure including in nanomaterial form.
+The role of gut microbiota in colorectal cancer is subject to extensive research. Before usage of biorepositories for microbiome studies, it is crucial to evaluate technical feasibility of microbiome profiling from various biospecimens. The aim of this study was to assess the feasibility of DNA-extraction and microbiome profiling of samples from different sample sites, tissue sites and storage duration of a colorectal cancer biobank. Mucosa samples, mucosal scrapings and feces as well as different tissue sites (tumor, normal mucosa) were analyzed. 16S rRNA gene-based microbiome profiling with taxonomic assignment was performed on the Illumina MiSeq (Illumina, San Diego, USA) platform from stored snap frozen samples. For statistical analysis, α- and β-diversity measures, PCoA, permutational multivariate analysis of variance and graphical representation were performed. Microbiome analysis could be successfully performed in most of the samples (overall 93.3%) with sufficient numbers of high-quality reads. There were no differences between sample sites, while in some measures significant differences were found between tumor and normal mucosa (α-diversity, Shannon/Simpson Indices p = 0.028/0.027, respectively). Samples stored for up to eight years were used and storage conditions had no significant influence on the results. Tumor and tissue samples of a biobank stored long term can be successfully used for microbiome analysis. As large sample sizes are needed for association studies to evaluate microbial impact on tumorigenesis or progression of colorectal cancer, an already established biorepository may be a useful alternative to prospective clinical studies.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0269749120363211)
+[Source](https://doi.org/10.3390/cancers12123702)
 
-10.1016/j.envpol.2020.115633
+10.3390/cancers12123702
 
 ---
 
-## Environmental microbiome mapping as a strategy to improve quality and safety in the food industry
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S2214799320301405)
-
----
-
-## Nitrosophilus alvini gen. nov., sp. nov., a hydrogen-oxidizing chemolithoautotroph isolated from a deep-sea hydrothermal vent in the East Pacific Rise, inferred by a genome-based taxonomy of the phylum "Campylobacterota".
- 10.12.2020, _T Shiotani, S Mino, W Sato, S Nishikawa, M Yonezawa, SM Sievert, T Sawabe_
+## Not That Close to Mommy: Horizontal Transmission Seeds the Microbiome Associated with the Marine Sponge Plakina cyanorosea.
+ 16.12.2020, _BFR Oliveira, IR Lopes, ALB Canellas, G Muricy, ADW Dobson, MS Laport_
 
 
-A novel bacterium, strain EPR55-1T, was isolated from a deep-sea hydrothermal vent on the East Pacific Rise. The cells were motile rods. Growth was observed at temperatures between 50 and 60°C (optimum, 60°C), at pH values between 5.4 and 8.6 (optimum, pH 6.6) and in the presence of 2.4-3.2% (w/v) NaCl (optimum, 2.4%). The isolate used molecular hydrogen as its sole electron donor, carbon dioxide as its sole carbon source, ammonium as its sole nitrogen source, and thiosulfate, sulfite (0.01 to 0.001%, w/v) or elemental sulfur as its sole sulfur source. Nitrate, nitrous oxide (33%, v/v), thiosulfate, molecular oxygen (0.1%, v/v) or elemental sulfur could serve as the sole electron acceptor to support growth. Phylogenetic analyses based on both 16S rRNA gene sequences and whole genome sequences indicated that strain EPR55-1T belonged to the family Nitratiruptoraceae of the class "Campylobacteria", but it had the distinct phylogenetic relationship with the genus Nitratiruptor. On the basis of the physiological and molecular characteristics of the isolate, the name Nitrosophilus alvini gen. nov. sp. nov. is proposed, with EPR55-1T as the type strain (= JCM 32893T = KCTC 15925T). In addition, it is shown that "Nitratiruptor labii" should be transferred to the genus Nitrtosophilus; the name Nitrosophilus labii comb. nov. (JCM 34002T = DSM 111345T) is proposed for this organism. Furthermore, 16S rRNA gene-based and genome-based analyses showed that Cetia pacifica is phylogenetically associated with Caminibacter species. We therefore propose the reclassification of Cetia pacifica as Caminibacter pacificus comb. nov. (DSM 27783T = JCM 19563T). Additionally, AAI thresholds for genus classification and the reclassification of subordinate taxa within "Campylobacteria" are also evaluated, based on the analyses using publicly available genomes of all the campylobacterial species.
+Marine sponges are excellent examples of invertebrate-microbe symbioses. In this holobiont, the partnership has elegantly evolved by either transmitting key microbial associates through the host germline and/or capturing microorganisms from the surrounding seawater. We report here on the prokaryotic microbiota during different developmental stages of Plakina cyanorosea and their surrounding environmental samples by a 16S rRNA metabarcoding approach. In comparison with their source adults, larvae housed slightly richer and more diverse microbial communities, which are structurally more related to the environmental microbiota. In addition to the thaumarchaeal Nitrosopumilus, parental sponges were broadly dominated by Alpha- and Gamma-proteobacteria, while the offspring were particularly enriched in the Vibrionales, Alteromonodales, Enterobacterales orders and the Clostridia and Bacteroidia classes. An enterobacterial operational taxonomic unit (OTU) was the dominant member of the strict core microbiota. The most abundant and unique OTUs were not significantly enriched amongst the microbiomes from host specimens included in the sponge microbiome project. In a wider context, Oscarella and Plakina are the sponge genera with higher divergence in their associated microbiota compared to their Homoscleromorpha counterparts. Our results indicate that P. cyanorosea is a low microbial abundance sponge (LMA), which appears to heavily depend on the horizontal transmission of its microbial partners that likely help the sponge host in the adaptation to its habitat.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241366)
+[Source](https://doi.org/10.3390/microorganisms8121978)
 
-10.1371/journal.pone.0241366
+10.3390/microorganisms8121978
 
 ---
 
-## A rapid approach to profiling diverse fungal communities using the MinION™ nanopore sequencer.
- 14.12.2020, _KK Mafune, BJ Godfrey, DJ Vogt, KA Vogt_
+## Comparative Metagenomics of Palearctic and Neotropical Avian Cloacal Viromes Reveal Geographic Bias in Virus Discovery.
+ 01.12.2020, _DA Truchado, A Llanos-Garrido, DA Oropesa-Olmedo, B Cerrada, P Cea, MAJ Moens, E Gomez-Lucia, A Doménech, B Milá, J Pérez-Tris, D Cadar, L Benítez_
 
 
-_DNA, Fungal, Fungi, Mycobiome, Nanopore Sequencing_
-The Oxford Nanopore Technologies MinION™ sequencer holds the capability to generate long amplicon reads; however, only a small amount of information is available regarding methodological approaches and the ability to identify a broad diversity of fungal taxa. To assess capabilities, three fungal mock communities were sequenced, each of which had varying ratios of 16 taxa. The data were processed through our selected pipeline. The MinION recovered all mock community members, when mixed at equal ratios. When a taxon was represented at a lower ratio, it was not recovered or decreased in relative abundance. Despite high error rates, highly accurate consensus sequences can be derived. This methodological approach identified all mock community taxa, demonstrating the MinION can be used as a practical alternative to profile fungal communities.
+Our understanding about viruses carried by wild animals is still scarce. The viral diversity of wildlife may be best described with discovery-driven approaches to the study of viral diversity that broaden research efforts towards non-canonical hosts and remote geographic regions. Birds have been key organisms in the transmission of viruses causing important diseases, and wild birds are threatened by viral spillovers associated with human activities. However, our knowledge of the avian virome may be biased towards poultry and highly pathogenic diseases. We describe and compare the fecal virome of two passerine-dominated bird assemblages sampled in a remote Neotropical rainforest in French Guiana (Nouragues Natural Reserve) and a Mediterranean forest in central Spain (La Herrería). We used metagenomic data to quantify the degree of functional and genetic novelty of viruses recovered by examining if the similarity of the contigs we obtained to reference sequences differed between both locations. In general, contigs from Nouragues were significantly less similar to viruses in databases than contigs from La Herrería using Blastn but not for Blastx, suggesting that pristine regions harbor a yet unknown viral diversity with genetically more singular viruses than more studied areas. Additionally, we describe putative novel viruses of the families Picornaviridae, Reoviridae and Hepeviridae. These results highlight the importance of wild animals and remote regions as sources of novel viruses that substantially broaden the current knowledge of the global diversity of viruses.
 
-[Source](https://www.future-science.com/doi/10.2144/btn-2019-0072)
+[Source](https://doi.org/10.3390/microorganisms8121869)
 
-10.2144/btn-2019-0072
-
----
-
-## Microbe-seq: high-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.14.422699v1.abstract)
+10.3390/microorganisms8121869
 
 ---
 
-## Oral Microbiome Diversity and Species Abundance Linked to Lung Cancer in Nonsmokers
+## Virome Analysis of Near-Bottom Coastal Water of Lake Baikal.
+ 10.12.2020, _TV Butina, IS Petrushin, IV Khanaev, YS Bukin_
 
-[Source](https://www.genengnews.com/news/oral-microbiome-diversity-and-species-abundance-linked-to-lung-cancer-in-nonsmokers/)
+
+In recent years, Lake Baikal has undergone significant changes in the composition of coastal communities associated with the increasing anthropogenic influence and global climate changes. In this context, we carried out metagenomic sequencing of the DNA viral community of an integral near-bottom water sample from the littoral zone of the lake.
+
+[Source](https://mra.asm.org/content/9/49/e01241-20.abstract)
+
+10.1128/MRA.01241-20
+
+---
+
+## Virome Variation during Sea Star Wasting Disease Progression in <em>Pisaster ochraceus</em> (Asteroidea, Echinodermata)
+
+[Source](https://doi.org/10.3390/v12111332)
+
+---
+
+## Gut eukaryotic virome in colorectal carcinogenesis: Is that a trigger?
+
+[Source](https://doi.org/10.1016/j.csbj.2020.11.055)
+
+---
+
+## vHULK, a new tool for bacteriophage host prediction based on annotated genomic features and deep neural networks
+
+[Source](https://doi.org/10.1101/2020.12.06.413476)
+
+---
+
+## HMPDACC: a Human Microbiome Project Multi-omic data resource
+
+[Source](https://doi.org/10.1093/nar/gkaa996)
+
+---
+
+## Literature on Applied Machine Learning in Metagenomic Classification: A Scoping Review
+
+[Source](https://doi.org/10.3390/biology9120453)
+
+---
+
+## The rapid, massive infection of the scientific literature and authors by COVID-19
+
+[Source](https://doi.org/10.1101/2020.12.15.422900)
 
 ---
 
