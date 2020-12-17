@@ -1,6 +1,12 @@
-## Inferring the effectiveness of government interventions against COVID-19
+## Inferring the effectiveness of government interventions against COVID-19.
+ 16.12.2020, _JM Brauner, S Mindermann, M Sharma, D Johnston, J Salvatier, T Gavenčiak, AB Stephenson, G Leech, G Altman, V Mikulik, AJ Norman, JT Monrad, T Besiroglu, H Ge, MA Hartwick, YW Teh, L Chindelevitch, Y Gal, J Kulveit_
+
+
+Governments are attempting to control the COVID-19 pandemic with nonpharmaceutical interventions (NPIs). However, the effectiveness of different NPIs at reducing transmission is poorly understood. We gathered chronological data on the implementation of NPIs for several European, and other, countries between January and the end of May 2020. We estimate the effectiveness of NPIs, ranging from limiting gathering sizes, business closures, and closure of educational institutions to stay-at-home orders. To do so, we used a Bayesian hierarchical model that links NPI implementation dates to national case and death counts and supported the results with extensive empirical validation. Closing all educational institutions, limiting gatherings to 10 people or less, and closing face-to-face businesses each reduced transmission considerably. The additional effect of stay-at-home orders was comparatively small.
 
 [Source](https://science.sciencemag.org/content/early/2020/12/15/science.abd9338.full)
+
+10.1126/science.abd9338
 
 ---
 
