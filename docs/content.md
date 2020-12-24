@@ -66,14 +66,8 @@ Transplanting human gut microbiotas into germ-free (GF) mice is a popular approa
 ---
 
 ## Microbiome: A Supportive or a Leading Actor in Lung Cancer?
- 22.12.2020, _D Martins, F Mendes, F Schmitt_
-
-
-Lung cancer is still the leading cause of cancer death worldwide. Despite the major diagnostic and therapeutic innovations, the effect on mortality has been modest and the overall survival is still poor. Better understanding of the pathology of these tumors is necessary in order to develop personalized therapeutic strategies in lung cancer patients. Human microbiome has been associated with normal physiology and function, and increasing evidence points towards a key role of the microbiome in promoting the progression of lung disease. Studies have shown that although poorly understood, lung has a distinctive microbiome that may an important role in lung cancer development and progression, and interactions between microbial populations have the potential to influence disease, suggesting that microbiome can be an emerging target in cancer therapeutics. We will review mechanisms how the lung microbiota influences carcinogenesis, focusing on the bacterial dysbiosis and inflammation. Moreover, we will discuss the link between the microbiome and cancer and the consequences induced by the immune system, as the host microbiota plays an essential role in activating and modulating the immune response. We summarize current research advances in the lung microbiome and demonstrate the potential to exploit microbiome as a mechanism to prevent carcinogenesis and modulate therapeutic strategy, suggesting microbiome as a valuable approach in lung cancer patients.
 
 [Source](https://www.karger.com/Article/FullText/511556)
-
-10.1159/000511556
 
 ---
 
@@ -83,15 +77,9 @@ Lung cancer is still the leading cause of cancer death worldwide. Despite the ma
 
 ---
 
-## An association between chronic widespread pain and the gut microbiome.
- 17.12.2020, _MB Freidin, MA Stalteri, PM Wells, G Lachance, AF Baleanu, RCE Bowyer, A Kurilshikov, A Zhernakova, CJ Steves, FMK Williams_
-
-
-Chronic widespread musculoskeletal pain (CWP) is a characteristic symptom of fibromyalgia, which has been shown to be associated with an altered gut microbiome. Microbiome studies to date have not examined the milder CWP phenotype specifically nor have they explored the role of raised BMI. The aim of this study was to investigate whether the microbiome is abnormal in CWP.
+## An association between chronic widespread pain and the gut microbiome
 
 [Source](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keaa847/6040753)
-
-10.1093/rheumatology/keaa847
 
 ---
 
