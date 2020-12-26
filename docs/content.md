@@ -77,21 +77,39 @@ Transplanting human gut microbiotas into germ-free (GF) mice is a popular approa
 
 ---
 
-## An association between chronic widespread pain and the gut microbiome
+## An association between chronic widespread pain and the gut microbiome.
+ 17.12.2020, _MB Freidin, MA Stalteri, PM Wells, G Lachance, AF Baleanu, RCE Bowyer, A Kurilshikov, A Zhernakova, CJ Steves, FMK Williams_
+
+
+Chronic widespread musculoskeletal pain (CWP) is a characteristic symptom of fibromyalgia, which has been shown to be associated with an altered gut microbiome. Microbiome studies to date have not examined the milder CWP phenotype specifically nor have they explored the role of raised BMI. The aim of this study was to investigate whether the microbiome is abnormal in CWP.
 
 [Source](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keaa847/6040753)
 
+10.1093/rheumatology/keaa847
+
 ---
 
-## The Gut Microbiome as a Reservoir for Antimicrobial Resistance
+## The Gut Microbiome as a Reservoir for Antimicrobial Resistance.
+ 16.12.2020, _WE Anthony, CD Burnham, G Dantas, JH Kwon_
+
+
+This review will discuss the gut as a reservoir for antimicrobial resistance, colonization resistance, and how disruption of the microbiome can lead to colonization by pathogenic organisms. There is a focus on the gut as a reservoir for β-lactam and plasmid mediated quinolone resistance. Finally, the role of functional metagenomics and long read sequencing technologies to detect and understand antimicrobial resistance genes within the gut microbiome, and the potential for future microbiome-directed methods to detect and prevent infection is discussed.
 
 [Source](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaa497/6039355)
 
+10.1093/infdis/jiaa497
+
 ---
 
-## Dietary modification of gut microbial metabolism protects the kidney
+## Dietary modification of gut microbial metabolism protects the kidney.
+ 21.12.2020, _EF Carney_
+
+
+_Animals, Diet, Gastrointestinal Microbiome, Kidney, Mice, Proteome_
 
 [Source](https://www.nature.com/articles/s41581-020-00364-5)
+
+10.1038/s41581-020-00364-5
 
 ---
 
