@@ -77,51 +77,21 @@ Transplanting human gut microbiotas into germ-free (GF) mice is a popular approa
 
 ---
 
-## An association between chronic widespread pain and the gut microbiome.
- 17.12.2020, _MB Freidin, MA Stalteri, PM Wells, G Lachance, AF Baleanu, RCE Bowyer, A Kurilshikov, A Zhernakova, CJ Steves, FMK Williams_
-
-
-Chronic widespread musculoskeletal pain (CWP) is a characteristic symptom of fibromyalgia, which has been shown to be associated with an altered gut microbiome. Microbiome studies to date have not examined the milder CWP phenotype specifically nor have they explored the role of raised BMI. The aim of this study was to investigate whether the microbiome is abnormal in CWP.
+## An association between chronic widespread pain and the gut microbiome
 
 [Source](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keaa847/6040753)
 
-10.1093/rheumatology/keaa847
-
 ---
 
-## The Gut Microbiome as a Reservoir for Antimicrobial Resistance.
- 16.12.2020, _WE Anthony, CD Burnham, G Dantas, JH Kwon_
-
-
-This review will discuss the gut as a reservoir for antimicrobial resistance, colonization resistance, and how disruption of the microbiome can lead to colonization by pathogenic organisms. There is a focus on the gut as a reservoir for β-lactam and plasmid mediated quinolone resistance. Finally, the role of functional metagenomics and long read sequencing technologies to detect and understand antimicrobial resistance genes within the gut microbiome, and the potential for future microbiome-directed methods to detect and prevent infection is discussed.
+## The Gut Microbiome as a Reservoir for Antimicrobial Resistance
 
 [Source](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaa497/6039355)
 
-10.1093/infdis/jiaa497
-
 ---
 
-## Dietary modification of gut microbial metabolism protects the kidney.
- 21.12.2020, _EF Carney_
-
-
-_Animals, Diet, Gastrointestinal Microbiome, Kidney, Mice, Proteome_
+## Dietary modification of gut microbial metabolism protects the kidney
 
 [Source](https://www.nature.com/articles/s41581-020-00364-5)
-
-10.1038/s41581-020-00364-5
-
----
-
-## Viral Infection-Induced Gut Dysbiosis, Neuroinflammation, and α-Synuclein Aggregation: Updates and Perspectives on COVID-19 and Neurodegenerative Disorders.
- 18.12.2020, _C Follmer_
-
-
-The current pandemic of coronavirus disease 2019 (COVID-19) has gained increased attention in the neuroscience community, especially taking into account the neuroinvasive potential of its causative agent, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the impact of its infection on the structure and function of the brain. Apart from the neurotropic properties of SARS-CoV-2, it is likewise important the observation that virus infection may perturb specific cellular processes that are believed to play an important role in the pathogenesis of diverse neurological disorders, particularly in Parkinson's disease (PD). In this scenario, viral infection-induced colon inflammation, gut microbial imbalance, and α-synuclein upregulation are of particular interest with regard to the interplay between the gastrointestinal tract and the central nervous system (microbiome-gut-brain axis). In this Perspective, we present a critical view on the different hypotheses that are recently being raised by neuroscientists about the relationship between SARS-CoV-2 infection and long-lasting neurodegenerative disorders, opening the question of whether COVID-19 might represent a risk factor for the development of PD.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/mds.28231)
-
-10.1021/acschemneuro.0c00671
 
 ---
 
@@ -138,15 +108,8 @@ The current pandemic of coronavirus disease 2019 (COVID-19) has gained increased
 ---
 
 ## Gut Microbiota Status in COVID-19: An Unrecognized Player?
- 22.12.2020, _S Donati Zeppa, D Agostini, G Piccoli, V Stocchi, P Sestili_
-
-
-_Age Factors, COVID-19, Dysbiosis, Gastrointestinal Microbiome, Gastrointestinal Tract, Humans, Microbial Interactions, Risk Factors, SARS-CoV-2, Virulence_
-Infection with the SARS-CoV-2 virus causes cardiopulmonary and vascular complications, ranging in severity. Understanding the pathogenic mechanisms of the novel SARS-CoV2 infection and progression can provide potential novel targets for its prevention and/or treatment. Virus microbiota reciprocal interactions have been studied in a variety of viral infections. For example, the integrity of Coronavirus particles can be disrupted by surfactin, a bacterial surface molecule that targets other viruses, including that of influenza A. In this light, intestinal microbiota likely influences COVID-19 virulence, while from its side SARS-CoV-2 may affect the intestinal microbiome promoting dysbiosis and other deleterious consequences. Hence, the microbiota pre-existing health status and its alterations in the course of SARS-CoV-2 infection, are likely to play an important, still underscored role in determining individual susceptibility and resilience to COVID-19. Indeed, the vast majority of COVID-19 worst clinical conditions and fatalities develop in subjects with specific risk factors such as aging and the presence of one or more comorbidities, which are intriguingly characterized also by unhealthy microbiome status. Moreover, these comorbidities require complex pharmacological regimens known as "polypharmacy" that may further affect microbiota integrity and worsen the resilience to viral infections. This complex situation may represent a further and underestimated risk with regard to COVID-19 clinical burden for the elderly and comorbid people. Here, we discuss the possible biological, physiopathological, and clinical implications of gut microbiota in COVID-19 and the strategies to improve/maintain its healthy status as a simple and adjunctive strategy to reduce COVID-19 virulence and socio-sanitary burden.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fcimb.2020.576551/full)
-
-10.3389/fcimb.2020.576551
 
 ---
 
@@ -186,9 +149,16 @@ Infection with the SARS-CoV-2 virus causes cardiopulmonary and vascular complica
 
 ---
 
-## Combining whole-genome shotgun sequencing and rRNA gene amplicon analyses to improve detection of microbe–microbe interaction networks in plant leaves
+## Combining whole-genome shotgun sequencing and rRNA gene amplicon analyses to improve detection of microbe-microbe interaction networks in plant leaves.
+ 21.12.2020, _J Regalado, DS Lundberg, O Deusch, S Kersten, T Karasov, K Poersch, G Shirsekar, D Weigel_
+
+
+_Genes, rRNA, Germany, Microbiota, Plant Leaves, RNA, Ribosomal, 16S_
+Microorganisms from all domains of life establish associations with plants. Although some harm the plant, others antagonize pathogens or prime the plant immune system, support the acquisition of nutrients, tune plant hormone levels, or perform additional services. Most culture-independent plant microbiome research has focused on amplicon sequencing of the 16S rRNA gene and/or the internal transcribed spacer (ITS) of rRNA genomic loci, which show the relative abundance of the microbes to each other. Here, we describe shotgun sequencing of 275 wild Arabidopsis thaliana leaf microbiomes from southwest Germany, with additional bacterial 16S and eukaryotic ITS1 rRNA amplicon data from 176 of these samples. Shotgun data, which unlike the amplicon data capture the ratio of microbe to plant DNA, enable scaling of microbial read abundances to reflect the microbial load on the host. In a more cost-effective hybrid strategy, we show they also allow a similar scaling of amplicon data to overcome compositionality problems. Our wild plants were dominated by bacterial sequences, with eukaryotes contributing only a minority of reads. Microbial membership showed weak associations with both site of origin and plant genotype, both of which were highly confounded in this dataset. There was large variation among microbiomes, with one extreme comprising samples of low complexity and a high load of microorganisms typical of infected plants, and the other extreme being samples of high complexity and a low microbial load. Critically, considering absolute microbial load led to fundamentally different conclusions about microbiome assembly and the interaction networks among major taxa.
 
 [Source](https://www.nature.com/articles/s41396-020-0665-8)
+
+10.1038/s41396-020-0665-8
 
 ---
 
@@ -198,9 +168,15 @@ Infection with the SARS-CoV-2 virus causes cardiopulmonary and vascular complica
 
 ---
 
-## Predicting Nash equilibria for microbial metabolic interactions
+## Predicting Nash equilibria for microbial metabolic interactions.
+ 14.12.2020, _J Cai, T Tan, SH Joshua Chan_
+
+
+Microbial metabolic interactions impact ecosystems, human health and biotechnology profoundly. However, their determination remains elusive, invoking an urgent need for predictive models seamlessly integrating metabolism with evolutionary principles that shape community interactions.
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa1014/6033579)
+
+10.1093/bioinformatics/btaa1014
 
 ---
 
@@ -210,9 +186,15 @@ Infection with the SARS-CoV-2 virus causes cardiopulmonary and vascular complica
 
 ---
 
-## Multi-omics data integration considerations and study design for biological systems and disease
+## Multi-omics data integration considerations and study design for biological systems and disease.
+ 21.12.2020, _S Graw, K Chappell, CL Washam, A Gies, J Bird, MS Robeson, SD Byrum_
+
+
+With the advancement of next-generation sequencing and mass spectrometry, there is a growing need for the ability to merge biological features in order to study a system as a whole. Features such as the transcriptome, methylome, proteome, histone post-translational modifications and the microbiome all influence the host response to various diseases and cancers. Each of these platforms have technological limitations due to sample preparation steps, amount of material needed for sequencing, and sequencing depth requirements. These features provide a snapshot of one level of regulation in a system. The obvious next step is to integrate this information and learn how genes, proteins, and/or epigenetic factors influence the phenotype of a disease in context of the system. In recent years, there has been a push for the development of data integration methods. Each method specifically integrates a subset of omics data using approaches such as conceptual integration, statistical integration, model-based integration, networks, and pathway data integration. In this review, we discuss considerations of the study design for each data feature, the limitations in gene and protein abundance and their rate of expression, the current data integration methods, and microbiome influences on gene and protein expression. The considerations discussed in this review should be regarded when developing new algorithms for integrating multi-omics data.
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2021/MO/D0MO00041H)
+
+10.1039/d0mo00041h
 
 ---
 
