@@ -83,9 +83,15 @@ Transplanting human gut microbiotas into germ-free (GF) mice is a popular approa
 
 ---
 
-## The Gut Microbiome as a Reservoir for Antimicrobial Resistance
+## The Gut Microbiome as a Reservoir for Antimicrobial Resistance.
+ 16.12.2020, _WE Anthony, CD Burnham, G Dantas, JH Kwon_
+
+
+This review will discuss the gut as a reservoir for antimicrobial resistance, colonization resistance, and how disruption of the microbiome can lead to colonization by pathogenic organisms. There is a focus on the gut as a reservoir for β-lactam and plasmid mediated quinolone resistance. Finally, the role of functional metagenomics and long read sequencing technologies to detect and understand antimicrobial resistance genes within the gut microbiome, and the potential for future microbiome-directed methods to detect and prevent infection is discussed.
 
 [Source](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiaa497/6039355)
+
+10.1093/infdis/jiaa497
 
 ---
 
