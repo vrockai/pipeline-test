@@ -64,27 +64,15 @@
 
 ---
 
-## PStrain: An Iterative Microbial Strains Profiling Algorithm for Shotgun Metagenomic Sequencing Data.
- 21.12.2020, _S Wang, Y Jiang, S Li_
-
-
-The microbial community plays an essential role in human diseases and physiological activities. The functions of microbes can differ due to strain-level differences in the genome sequences. Shotgun metagenomic sequencing allows us to profile the strains in microbial communities practically. However, current methods are underdeveloped due to the highly similar sequences among strains. We observe that strains genotypes at the same single nucleotide variant (SNV) locus can be speculated by the genotype frequencies. Also, the variants in different loci covered by the same reads can provide evidence that they reside on the same strain.
+## PStrain: An Iterative Microbial Strains Profiling Algorithm for Shotgun Metagenomic Sequencing Data
 
 [Source](https://doi.org/10.1093/bioinformatics/btaa1056)
 
-10.1093/bioinformatics/btaa1056
-
 ---
 
-## MegaPath: sensitive and rapid pathogen detection using metagenomic NGS data.
- 25.12.2020, _CM Leung, D Li, Y Xin, WC Law, Y Zhang, HF Ting, R Luo, TW Lam_
-
-
-Next-generation sequencing (NGS) enables unbiased detection of pathogens by mapping the sequencing reads of a patient sample to the known reference sequence of bacteria and viruses. However, for a new pathogen without a reference sequence of a close relative, or with a high load of mutations compared to its predecessors, read mapping fails due to a low similarity between the pathogen and reference sequence, which in turn leads to insensitive and inaccurate pathogen detection outcomes.
+## MegaPath: sensitive and rapid pathogen detection using metagenomic NGS data
 
 [Source](https://doi.org/10.1186/s12864-020-06875-6)
-
-10.1186/s12864-020-06875-6
 
 ---
 
