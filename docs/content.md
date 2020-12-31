@@ -118,15 +118,9 @@ Biochar application on farmlands is an efficient way to realize agricultural/for
 
 ---
 
-## A cross-species interaction with a symbiotic commensal enables cell-density-dependent growth and in vivo virulence of an oral pathogen.
- 29.12.2020, _A Hoare, H Wang, A Meethil, L Abusleme, BY Hong, NM Moutsopoulos, PD Marsh, G Hajishengallis, PI Diaz_
-
-
-Recent studies describe in detail the shifts in composition of human-associated polymicrobial communities from health to disease. However, the specific processes that drive the colonization and overgrowth of pathogens within these communities remain incompletely understood. We used in vitro culture systems and a disease-relevant mouse model to show that population size, which determines the availability of an endogenous diffusible small molecule, limits the growth, colonization, and in vivo virulence of the human oral pathogen Porphyromonas gingivalis. This bacterial pathogen overcomes the requirement for an endogenous cue by utilizing a cell-density dependent, growth-promoting, soluble molecule provided by the symbiotic early colonizer Veillonella parvula, but not produced by other commensals tested. Our work shows that exchange of cell-density-dependent diffusible cues between specific early and late colonizing species in a polymicrobial community drives microbial successions, pathogen colonization and disease development, representing a target process for manipulation of the microbiome towards the healthy state.
+## A cross-species interaction with a symbiotic commensal enables cell-density-dependent growth and in vivo virulence of an oral pathogen
 
 [Source](https://doi.org/10.1038/s41396-020-00865-y)
-
-10.1038/s41396-020-00865-y
 
 ---
 
