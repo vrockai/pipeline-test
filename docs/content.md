@@ -100,15 +100,15 @@ The objective of this study was to characterize gut microbiome profiles of infan
 
 ---
 
-## [Effects of Modified Biowaste-based Hydrochar on Rice Yield and Nitrogen Uptake].
- 29.12.2020, _PF Hou, LH Xue, YF Feng, S Yu, LZ Yang_
+## Plant roots employ cell-layer-specific programs to respond to pathogenic and beneficial microbes.
+ 30.12.2020, _C Fröschel, J Komorek, A Attard, A Marsell, WA Lopez-Arboleda, J Le Berre, E Wolf, N Geldner, F Waller, A Korte, W Dröge-Laser_
 
 
-Biochar application on farmlands is an efficient way to realize agricultural/forestry biowaste recycling in parallel with carbon sequestration. Recently, hydrochar produced by hydrothermal carbonization processes has attracted attention due to the advantages over conventional pyrolytic production (i.e., easier production process, higher carbon yield, reduced energy consumption, and lower flue gas emissions). To clarify the effects of hydrochar applied in farmlands on crop production, as well as to realize the recycling of agricultural/forestry biowaste resources, this study evaluated the effects of four types of modified-hydrochar addition on rice yield and nitrogen uptake in two typical soils and the possible influencing factors through soil-column experiments and material characterization. The results showed that sawdust hydrochar and/or straw hydrochar could increase rice yield and nitrogen uptake, as well as reduce N loss, in both treated soils after physical or biological modification, an effect that was independent of the application rate (5‰, 15‰; mass fraction). In comparison to the control, the rice yield and nitrogen uptake of hydrochar-addition treatments increased by 9.2%-20.7% and 7.7%-17.0% respectively. Sawdust hydrochar, with a wider C/N material, was conducive to improving nitrogen uptake in high fertility soils; meanwhile, the nitrogen utilization in low fertility soils was less affected by the type of hydrochar due to the limitations imposed by multiple factors. The results of material characterization showed that the surface of the hydrochar was rich in nutrients; the pore structure of hydrochar after washing or biological modification was greatly improved, the relative content of C was remarkably reduced, and the relative contents of N and O notably increased, which could affect nutrient fixation and supply. Thus, the improved pore structure and increased contents of N and O of modified hydrochars may be the key drivers for the increase in rice yield and nitrogen uptake with hydrochar addition. These results suggest that modified hydrochar is beneficial to realizing agricultural/forestry biowaste recycling and improving crop yield and nitrogen utilization, as well as reducing N loss from farmlands.
+Plant roots are built of concentric cell layers that are thought to respond to microbial infections by employing specific, genetically defined programs. Yet, the functional impact of this radial organization remains elusive, particularly due to the lack of genome-wide techniques for monitoring expression at a cell-layer resolution. Here, cell-type-specific expression of tagged ribosomes enabled the isolation of ribosome-bound mRNA to obtain cell-layer translatomes (TRAP-seq, translating ribosome affinity purification and RNA sequencing). After inoculation with the vascular pathogen Verticillium longisporum, pathogenic oomycete Phytophthora parasitica, or mutualistic endophyte Serendipita indica, root cell-layer responses reflected the fundamentally different colonization strategies of these microbes. Notably, V. longisporum specifically suppressed the endodermal barrier, which restricts fungal progression, allowing microbial access to the root central cylinder. Moreover, localized biosynthesis of antimicrobial compounds and ethylene differed in response to pathogens and mutualists. These examples highlight the power of this resource to gain insights into root-microbe interactions and to develop strategies in crop improvement.
 
 [Source](https://doi.org/10.1016/j.ecoenv.2020.111732)
 
-10.13227/j.hjkx.202005335
+10.1016/j.chom.2020.11.014
 
 ---
 
@@ -118,9 +118,15 @@ Biochar application on farmlands is an efficient way to realize agricultural/for
 
 ---
 
-## A cross-species interaction with a symbiotic commensal enables cell-density-dependent growth and in vivo virulence of an oral pathogen
+## A cross-species interaction with a symbiotic commensal enables cell-density-dependent growth and in vivo virulence of an oral pathogen.
+ 29.12.2020, _A Hoare, H Wang, A Meethil, L Abusleme, BY Hong, NM Moutsopoulos, PD Marsh, G Hajishengallis, PI Diaz_
+
+
+Recent studies describe in detail the shifts in composition of human-associated polymicrobial communities from health to disease. However, the specific processes that drive the colonization and overgrowth of pathogens within these communities remain incompletely understood. We used in vitro culture systems and a disease-relevant mouse model to show that population size, which determines the availability of an endogenous diffusible small molecule, limits the growth, colonization, and in vivo virulence of the human oral pathogen Porphyromonas gingivalis. This bacterial pathogen overcomes the requirement for an endogenous cue by utilizing a cell-density dependent, growth-promoting, soluble molecule provided by the symbiotic early colonizer Veillonella parvula, but not produced by other commensals tested. Our work shows that exchange of cell-density-dependent diffusible cues between specific early and late colonizing species in a polymicrobial community drives microbial successions, pathogen colonization and disease development, representing a target process for manipulation of the microbiome towards the healthy state.
 
 [Source](https://doi.org/10.1038/s41396-020-00865-y)
+
+10.1038/s41396-020-00865-y
 
 ---
 
