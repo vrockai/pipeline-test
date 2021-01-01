@@ -4,9 +4,15 @@
 
 ---
 
-## Microbiological profile of diabetic foot ulcers in Kuwait
+## Microbiological profile of diabetic foot ulcers in Kuwait.
+ 30.12.2020, _A Alhubail, M Sewify, G Messenger, R Masoetsa, I Hussain, S Nair, A Tiss_
+
+
+Diabetic foot ulcers (DFU) and infection (DFI) are a major diabetes-related problem around the world due to the high prevalence of diabetes in the population. The aim of our study was to determine the microbiological profile of infected ulcers in patients attending Dasman Diabetes Institute (DDI) clinics in Kuwait and to analyze the distribution of microbial isolates according to wound grade, sex, age and diabetes control.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244306)
+
+10.1371/journal.pone.0244306
 
 ---
 
@@ -79,19 +85,6 @@
 ## Forest gaps mediate the structure and function of the soil microbial community in a Castanopsis kawakamii forest
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1470160X20312309)
-
----
-
-## Dynamic changes in microbial communities during the bioremediation of herbicide (chlorimuron-ethyl and atrazine) contaminated soils by combined degrading bacteria.
- 14.11.2018, _J Wang, X Li, X Li, H Wang, Z Su, X Wang, H Zhang_
-
-
-_Analysis of Variance, Atrazine, Bacteria, Biodegradation, Environmental, Herbicides, Microbiota, Pyrimidines, Soil Pollutants, Sulfonylurea Compounds, Time Factors_
-Chlorimuron-ethyl and atrazine are two herbicides with long half-lives in soil; their long-term and excessive application has led to a series of environmental problems. In this study, the strains Chenggangzhangella methanolivorans CHL1 and Arthrobacter sp. ART1 were combined and used for the remediation of chlorimuron-ethyl, atrazine and combined contaminated soils in a microcosm experiment. Changes in chlorimuron-ethyl and atrazine concentrations in soils were monitored, and variations in the soil microbial community were studied by phospholipid fatty acid (PLFA) analysis. The two inoculated degrading strains accelerated the degradation of chlorimuron-ethyl and atrazine in soil, especially in the combined contaminated soil. Addition of the two herbicides and their combination generally decreased the concentrations of total PLFAs, total bacterial PLFAs, Gram-negative and Gram-positive bacterial PLFAs and Shannon-Wiener indices, and changed microbial community composition, whilst stimulating fungal PLFA concentrations. In addition, the combined herbicide treatment had more impact on microbial biomass than the single herbicide treatments. Inoculation treatments significantly relieved the effects of herbicides on soil microbial biomass, diversity and community structure. This study demonstrated that strains CHL1 and ATR1 have the potential to remediate chlorimuron-ethyl, atrazine and combined contaminated soils, and provided valuable information for remediation of chlorimuron-ethyl, atrazine and combined contaminated soils in situ.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2405844020326104)
-
-10.1371/journal.pone.0194753
 
 ---
 
