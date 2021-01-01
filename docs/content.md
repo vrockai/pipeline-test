@@ -4,27 +4,15 @@
 
 ---
 
-## Microbiological profile of diabetic foot ulcers in Kuwait.
- 30.12.2020, _A Alhubail, M Sewify, G Messenger, R Masoetsa, I Hussain, S Nair, A Tiss_
-
-
-Diabetic foot ulcers (DFU) and infection (DFI) are a major diabetes-related problem around the world due to the high prevalence of diabetes in the population. The aim of our study was to determine the microbiological profile of infected ulcers in patients attending Dasman Diabetes Institute (DDI) clinics in Kuwait and to analyze the distribution of microbial isolates according to wound grade, sex, age and diabetes control.
+## Microbiological profile of diabetic foot ulcers in Kuwait
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244306)
 
-10.1371/journal.pone.0244306
-
 ---
 
-## The airways microbiome of individuals with asthma treated with high and low doses of inhaled corticosteroids.
- 30.12.2020, _MJ Martin, NMM Zain, G Hearson, DW Rivett, G Koller, DJ Wooldridge, G Rose, SE Gharbia, B Forbes, KD Bruce, TW Harrison_
-
-
-Inhaled corticosteroids (ICS) are the mainstay of asthma treatment, but evidence suggests a link between ICS usage and increased rates of respiratory infections. We assessed the composition of the asthmatic airways microbiome in asthma patients taking low and high dose ICS and the stability of the microbiome over a 2 week period.
+## The airways microbiome of individuals with asthma treated with high and low doses of inhaled corticosteroids
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244681)
-
-10.1371/journal.pone.0244681
 
 ---
 
@@ -100,9 +88,15 @@ Inhaled corticosteroids (ICS) are the mainstay of asthma treatment, but evidence
 
 ---
 
-## Spatial scale structure soil bacterial communities across an Arctic landscape
+## Spatial scale structure soil bacterial communities across an Arctic landscape.
+ 28.12.2020, _LA Malard, MZ Anwar, CS Jacobsen, DA Pearce_
+
+
+Bacterial community composition is largely influenced by environmental factors, and this applies to the Arctic region. However, little is known about the role of spatial factors in structuring such communities. In this study, we evaluated the influence of spatial scale on bacterial community structure across an Arctic landscape. Our results showed that spatial factors accounted for approximately 10% of the variation at the landscape scale, equivalent to observations across the whole Arctic region, suggesting that while the role and magnitude of other processes involved in community structure may vary, the role of dispersal may be stable globally in the region. We assessed dispersal limitation by identifying the spatial autocorrelation distance, standing at approximately 60 m, which would be required in order to obtain fully independent samples and may inform future sampling strategies in the region. Finally, indicator taxa with strong statistical correlations with environment variables were identified. However, we showed that these strong taxa-environment associations may not always be reflected in the geographical distribution of these taxa.IMPORTANCE The significance of this study is threefold. It investigated the influence of spatial scale on the soil bacterial community composition across a typical Arctic landscape and demonstrated that conclusions reached when examining the influence of specific environmental variables on bacterial community composition are dependent upon the spatial scales over which they are investigated. This study identified a dispersal limitation (spatial autocorrelation) distance of approximately 60 m, required to obtain samples with fully independent bacterial communities, and therefore, should serve to inform future sampling strategies in the region and potentially elsewhere. The work also showed that strong taxa-environment statistical associations may not be reflected in the observed landscape distribution of the indicator taxa.
 
 [Source](https://aem.asm.org/content/aem/early/2020/12/21/AEM.02220-20.full.pdf)
+
+10.1128/AEM.02220-20
 
 ---
 
@@ -112,9 +106,15 @@ Inhaled corticosteroids (ICS) are the mainstay of asthma treatment, but evidence
 
 ---
 
-## Archaeal communities of low and high microbial abundance sponges inhabiting the remote western Indian Ocean island of Mayotte
+## Archaeal communities of low and high microbial abundance sponges inhabiting the remote western Indian Ocean island of Mayotte.
+ 28.12.2020, _ARM Polónia, DFR Cleary, A Gauvin-Bialecki, NJ de Voogd_
+
+
+Marine sponges are abundant and ecologically important components of coral reefs and have been shown to harbour exceptionally high microbial densities, which can differ substantially among sponge species. However, this dichotomy between high and low microbial abundance (HMA, LMA) sponges is still not fully understood, particularly as concerns the archaeal community. This study aims to fill this gap by analysing (using 454-pyrosequencing of the 16S rRNA gene) how the archaeal community varies among known LMA (Stylissa carteri, and Stylissa massa), known HMA (Hyrtios erectus and Xestospongia testudinaria) and unknown HMA/LMA status sponge species (Ectyoplasia coccinea, Paratetilla bacca and Petrosia aff. spheroida) collected in a remote location in which very few sponge microbial composition studies have been previously performed (Mayotte, Comores archipelago, France) and comparing the results with those reported in four other geographical areas. Based on archaeal community composition, the known LMA sponges formed a distinct cluster together with Paratetilla bacca, Ectyoplasia coccinea and seawater while the known HMA sponge X. testudinaria formed a cluster with Petrosia aff. spheroida. The known HMA sponge H. erectus, in turn, had an intermediate archaeal community between HMA sponges and sediment samples. In addition to the above, we also showed significant compositional congruence between archaeal and bacterial communities sampled from the same sponge individuals. HMA sponges were mainly dominated by members assigned to the genus Nitrosopumilus while LMA sponges were mainly dominated by members assigned to the genus Cenarchaeum. In general, there was no clear difference in richness between HMA and LMA sponges. Evenness, however, was higher in HMA than LMA sponges. Whilst the present study corroborates some of the traits commonly associated with the HMA-LMA dichotomy (higher evenness in Mayotte HMA sponges), this was not consistent across geographical areas showing that more research is needed to fully understand the HMA/LMA dichotomy as concerns Archaea.
 
 [Source](https://link.springer.com/article/10.1007/s10482-020-01503-5)
+
+10.1007/s10482-020-01503-5
 
 ---
 
@@ -166,15 +166,9 @@ Inhaled corticosteroids (ICS) are the mainstay of asthma treatment, but evidence
 
 ---
 
-## The role of Ulva fasciata in the evolution of the microbial community and antibiotic resistance genes in maricultural sediments.
- 28.12.2020, _Y Luo, L Feng, G Yang, J Mu_
-
-
-This study explored changes in the microbial community and antibiotic resistance genes (ARGs) in maricultural clam sediment after 3-month co-culture with different densities (0, 5 and 12 g L-1) of seaweed Ulva fasciata (U. fasciata). The maximum removal rates of NO3--N, PO43--P, and inhibition of Vibrio culturability occurred at presence of 12 g L-1U. fasciata. A significant decrease by 14.0% of the total ARGs was found in control sediment without U. fasciata after separation from the original niches, while the total ARGs further increased by 5.58%and 4.65% at presence of 5 and 12 g L-1 of U. fasciata in compared with control sediment, respectively, strongly related with Chloroflexi, Spirochaetes, Proteobacteria and Bacteroidetes hosts. In addition, U. fasciata favored the decline of absolute gene numbers of some tetracycline resistance genes (tetPB, tetW, otrA, tetT, tetO) and class 1 integron-integrase gene.
+## The role of Ulva fasciata in the evolution of the microbial community and antibiotic resistance genes in maricultural sediments
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0025326X20310596)
-
-10.1016/j.marpolbul.2020.111940
 
 ---
 
