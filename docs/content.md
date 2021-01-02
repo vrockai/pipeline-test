@@ -4,15 +4,9 @@
 
 ---
 
-## Microbiological profile of diabetic foot ulcers in Kuwait.
- 30.12.2020, _A Alhubail, M Sewify, G Messenger, R Masoetsa, I Hussain, S Nair, A Tiss_
-
-
-Diabetic foot ulcers (DFU) and infection (DFI) are a major diabetes-related problem around the world due to the high prevalence of diabetes in the population. The aim of our study was to determine the microbiological profile of infected ulcers in patients attending Dasman Diabetes Institute (DDI) clinics in Kuwait and to analyze the distribution of microbial isolates according to wound grade, sex, age and diabetes control.
+## Microbiological profile of diabetic foot ulcers in Kuwait
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244306)
-
-10.1371/journal.pone.0244306
 
 ---
 
@@ -196,33 +190,15 @@ Marine sponges are abundant and ecologically important components of coral reefs
 
 ---
 
-## Grant application outcomes for biomedical researchers who participated in the National Research Mentoring Network's Grant Writing Coaching Programs.
- 18.12.2020, _AM Weber-Main, R McGee, K Eide Boman, J Hemming, M Hall, T Unold, EM Harwood, LE Risner, A Smith, K Lawson, J Engler, CJ Steer, D Buchwald, HP Jones, SM Manson, E Ofili, NB Schwartz, JK Vishwanatha, KS Okuyemi_
-
-
-A diverse research workforce is essential for catalyzing biomedical advancements, but this workforce goal is hindered by persistent sex and racial/ethnic disparities among investigators receiving research grants from the National Institutes of Health (NIH). In response, the NIH-funded National Research Mentoring Network implemented a Grant Writing Coaching Program (GCP) to provide diverse cohorts of early-career investigators across the United States with intensive coaching throughout the proposal development process. We evaluated the GCP's national reach and short-term impact on participants' proposal submissions and funding outcomes.
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.27.424490v1.abstract?%3Fcollection=)
-
-10.1371/journal.pone.0241851
-
----
-
 ## National Institutes of Health Institute and Center Award Rates and Funding Disparities
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.12.27.424490v1.abstract?%3Fcollection=)
 
 ---
 
-## Communicating risk in human-wildlife interactions: How stories and images move minds.
- 28.12.2020, _SK Guenther, EA Shanahan_
-
-
-Effectively communicating risk is critical to reducing conflict in human-wildlife interactions. Using a survey experiment fielded in the midst of contentious public debate over flying fox management in urban and suburban areas of Australia, we find that stories with characters (i.e., narratives) are more effective than descriptive information at mobilizing support for different forms of bat management, including legal protection, relocation, and habitat restoration. We use conditional process analysis to show that narratives, particularly with accompanying images, are effective because they cause emotional reactions that influence risk perception, which in turn drives public opinion about strategies for risk mitigation. We find that prior attitudes towards bats matter in how narrative messages are received, in particular in how strongly they generate shifts in affective response, risk perception, and public opinion. Our results suggest that those with warm prior attitudes towards bats report greater support for bat dispersal when they perceive impacts from bats to be more likely, while those with cool priors report greater support for bat protection when they perceive impacts from bats to be more positive, revealing 1) potential opportunities for targeted messaging to boost public buy-in of proposals to manage risks associated with human-wildlife interactions, and 2) potential vulnerabilities to disinformation regarding risk.
+## Communicating risk in human-wildlife interactions: How stories and images move minds
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244440)
-
-10.1371/journal.pone.0244440
 
 ---
 
