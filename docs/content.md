@@ -4,9 +4,15 @@
 
 ---
 
-## Microbiological profile of diabetic foot ulcers in Kuwait
+## Microbiological profile of diabetic foot ulcers in Kuwait.
+ 30.12.2020, _A Alhubail, M Sewify, G Messenger, R Masoetsa, I Hussain, S Nair, A Tiss_
+
+
+Diabetic foot ulcers (DFU) and infection (DFI) are a major diabetes-related problem around the world due to the high prevalence of diabetes in the population. The aim of our study was to determine the microbiological profile of infected ulcers in patients attending Dasman Diabetes Institute (DDI) clinics in Kuwait and to analyze the distribution of microbial isolates according to wound grade, sex, age and diabetes control.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244306)
+
+10.1371/journal.pone.0244306
 
 ---
 
