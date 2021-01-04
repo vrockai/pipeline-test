@@ -1,108 +1,67 @@
-## Brain-gut axis: From the conditioned reflex to the microbiota-gut-brain communication system
+## Dysbiosis of gut microbiota in patients with esophageal cancer.
+ 30.12.2020, _Y Deng, D Tang, P Hou, W Shen, H Li, T Wang, R Liu_
 
-[Source](https://intphysiology.ru/index.php/main/article/view/63)
 
----
+A number of studies have identified that gut microbiota influences the development of cancer. However, there is little known about gut microbiota and esophageal cancer (EC). The aim of this study was to investigate the gut microbiota profile associated with EC. In this study, 23 patients with EC and 23 sex- and age-matched healthy controls (NC) were recruited between July 2019 and August 2019 at Huai'an First People's Hospital (Huai'an, China) and the gut microbiota was analyzed by 16S rRNA gene sequencing of fresh stool samples. We found that the microbial richness of intestinal flora in patients with EC were higher than NC, whereas evenness did not change obviously. Principal coordinate analysis (PCoA) and Unweighted Pair Group Method with Arithmetic Mean (UPGMA) analysis both revealed that a distinct separation in bacterial community composition between the EC and NC. At the phylum level, the EC group showed significantly higher abundances of Firmicutes and Actinobacteria, but a lower Bacteroidetes than NC. At the genus level, a significantly increased abundance of Streptococcus, Bifidobacterium, Subdoligranulum, Blautia, Romboutsia, Collinsella, Paeniclostridium, Dorea, and Atopobium were observed in EC patients, while Lachnospira, Bacteroides, Agathobacter, Lachnoclostridium, Parabacteroides, Paraprevotella, Butyricicoccus, Tyzzerella, Fusicatenibacter, and Sutterella were reduced. Receiver operating characteristic (ROC) analysis revealed that Lachnospira, Bacteroides, Streptococcus, and Bifidobacterium both achieved a high accuracy in EC diagnosis (area under the curve was more than 0.85), and the Lachnospira was found to be the best classifier. This study firstly characterized the gut microbiota composition of EC patients and screened out the optimal potential microbiota biomarkers for EC diagnosis. It may provide a fundamental reference for further studies on the gut microbiome for the diagnosis and treatment of EC.
 
-## Microbiological profile of diabetic foot ulcers in Kuwait
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020310755)
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244306)
-
----
-
-## The airways microbiome of individuals with asthma treated with high and low doses of inhaled corticosteroids
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244681)
+10.1016/j.micpath.2020.104709
 
 ---
 
-## The beneficial or detrimental fluoride to gut microbiota depends on its dosages
+## Immunotherapy in Solid Tumors and Gut Microbiota: The Correlation-A Special Reference to Colorectal Cancer.
+ 30.12.2020, _A Koulouridi, I Messaritakis, N Gouvas, J Tsiaoussis, J Souglakos_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0147651320315694)
 
----
+Over the last few years, immunotherapy has been considered as a key player in the treatment of solid tumors. Immune checkpoint inhibitors (ICIs) have become the breakthrough treatment, with prolonged responses and improved survival results. ICIs use the immune system to defeat cancer by breaking the axes that allow tumors to escape immune surveillance. Innate and adaptive immunity are involved in mechanisms against tumor growth. The gut microbiome and its role in such mechanisms is a relatively new study field. The presence of a high microbial variation in the gut seems to be remarkably important for the efficacy of immunotherapy, interfering with innate immunity. Metabolic and immunity pathways are related with specific gut microbiota composition. Various studies have explored the composition of gut microbiota in correlation with the effectiveness of immunotherapy. Colorectal cancer (CRC) patients have gained little benefit from immunotherapy until now. Only mismatch repair-deficient/microsatellite-unstable tumors seem to respond positively to immunotherapy. However, gut microbiota could be the key to expanding the use of immunotherapy to a greater range of CRC patients.
 
-## Synthetic Gut Microbiome: Advances and Challenges
+[Source](https://www.mdpi.com/2072-6694/13/1/43/htm)
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2001037020305547)
-
----
-
-## Microbiota-Gut-Brain Axis as a Regulator of Reward Process
-
-[Source](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jnc.15284)
+10.3390/cancers13010043
 
 ---
 
-## Modulatory effects of gut microbiome in cancer immunotherapy: A novel paradigm for blockade of immune checkpoint inhibitors
+## Fecal Microbiota Transplantation Is Highly Effective in Real-World Practice: Initial Results From the FMT National Registry
 
-[Source](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.3694)
-
----
-
-## Effects of heat-killed Enterococcus faecalis T-110 supplementation on gut immunity, gut flora, and intestinal infection in naturally aged hamsters
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240773)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0016508520352215)
 
 ---
 
-## Nasal Tissue Extraction Is Essential for Characterization of the Murine Upper Respiratory Tract Microbiota
+## [Fecal microbiota transplantation for graft-versus-host disease in children and adults: methods, clinical effects, safety].
+ 22.12.2020, _OV Goloshchapov, AB Chukhlovin, EA Bakin, OV Stanevich, RV Klementeva, AA Shcherbakov, AN Shvetsov, MA Suvorova, SN Bondarenko, MA Kucher, AD Kulagin, LS Zubarovskaya, IS Moiseev_
 
-[Source](https://msphere.asm.org/content/5/6/e00562-20)
 
----
+_Adult, Child, Fecal Microbiota Transplantation, Feces, Gastrointestinal Microbiome, Graft vs Host Disease, Hematopoietic Stem Cell Transplantation, Humans, Prospective Studies, Treatment Outcome_
+Was to evaluate clinical efficacy, adverse events and changes in the gut microbiome after fecal microbiota transplantation (FMT) in patients with gastrointestinal (GI) form of graft-versus-host disease (GVHD).
 
-## Gut microbiota of animals living in polluted environments are a potential resource of anticancer molecules
+[Source](https://ter-arkhiv.ru/0040-3660/article/view/43122)
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/jam.14981)
-
----
-
-## Metabarcoding on both environmental DNA and RNA highlights differences between fungal communities sampled in different habitats
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244682)
+10.26442/00403660.2020.07.000773
 
 ---
 
-## Changes in microbial communities at different soil depths through the first rainy season following severe wildfire in North China artificial Pinus tabulaeformis forest
+## Analysis of the developing gut microbiota in young dairy calves-impact of colostrum microbiota and gut disturbances.
+ 30.12.2020, _BPT Hang, E Wredle, J Dicksved_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0301479720317904)
 
----
+The aim of this study was to characterize the colostrum and fecal microbiota in calves and to investigate whether fecal microbiota composition was related to colostrum microbiota or factors associated with calf health. Colostrum samples were collected in buckets after hand milking of 76 calving cows from 38 smallholder dairy farms. Fecal samples were taken directly from the rectum of 76 calves at birth and at 14 days age. The bacterial community structure in colostrum and feces was analyzed by terminal restriction fragment length polymorphism for all samples, and the microbial composition was determined by 16S rRNA gene amplicon sequencing for a subset of the samples (8 colostrum, 40 fecal samples). There was a significant difference in fecal microbiota composition between day 0 and day 14 samples, but no associations between the microbiota and average daily gain, birth weight, or transfer of passive immunity. At 14 days of age, Faecalibacterium and Butyricicoccus were prevalent in higher relative abundances in the gut of healthy calves compared to calves with diarrhea that had been treated with antimicrobials. Colostrum showed great variation in composition of microbiota but no association to fecal microbiota. This study provides the first insights into the composition of colostrum and fecal microbiota of young dairy calves in southern Vietnam and can form the basis for future more detailed studies.
 
-## Shifts in a Phenanthrene-Degrading Microbial Community are Driven by Carbohydrate Metabolism Selection in a Ryegrass Rhizosphere
+[Source](https://link.springer.com/article/10.1007/s11250-020-02535-9)
 
-[Source](https://pubs.acs.org/doi/10.1021/acs.est.0c04951)
-
----
-
-## Forest gaps mediate the structure and function of the soil microbial community in a Castanopsis kawakamii forest
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1470160X20312309)
+10.1007/s11250-020-02535-9
 
 ---
 
-## Herbicide bioremediation: from strains to bacterial communities
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2405844020326104)
-
----
-
-## Spatial scale structure soil bacterial communities across an Arctic landscape.
- 28.12.2020, _LA Malard, MZ Anwar, CS Jacobsen, DA Pearce_
+## Consistent patterns in 16S and 18S microbial diversity from the shells of the common and widespread red-eared slider turtle (Trachemys scripta).
+ 28.12.2020, _M Parks, C Kedy, C Skalla_
 
 
-Bacterial community composition is largely influenced by environmental factors, and this applies to the Arctic region. However, little is known about the role of spatial factors in structuring such communities. In this study, we evaluated the influence of spatial scale on bacterial community structure across an Arctic landscape. Our results showed that spatial factors accounted for approximately 10% of the variation at the landscape scale, equivalent to observations across the whole Arctic region, suggesting that while the role and magnitude of other processes involved in community structure may vary, the role of dispersal may be stable globally in the region. We assessed dispersal limitation by identifying the spatial autocorrelation distance, standing at approximately 60 m, which would be required in order to obtain fully independent samples and may inform future sampling strategies in the region. Finally, indicator taxa with strong statistical correlations with environment variables were identified. However, we showed that these strong taxa-environment associations may not always be reflected in the geographical distribution of these taxa.IMPORTANCE The significance of this study is threefold. It investigated the influence of spatial scale on the soil bacterial community composition across a typical Arctic landscape and demonstrated that conclusions reached when examining the influence of specific environmental variables on bacterial community composition are dependent upon the spatial scales over which they are investigated. This study identified a dispersal limitation (spatial autocorrelation) distance of approximately 60 m, required to obtain samples with fully independent bacterial communities, and therefore, should serve to inform future sampling strategies in the region and potentially elsewhere. The work also showed that strong taxa-environment statistical associations may not be reflected in the observed landscape distribution of the indicator taxa.
+Microbial communities associated with freshwater aquatic habitats and resident species are both critical to and indicative of ecosystem status and organismal health. External surfaces of turtle shells readily accumulate microbial growth and could carry representation of habitat-wide microbial diversity, since they are in regular contact with multiple elements of freshwater environments. Yet, microbial diversity residing on freshwater turtle shells is poorly understood. We applied 16S and 18S metabarcoding to characterize microbiota associated with external shell surfaces of 20 red-eared slider (Trachemys scripta) turtles collected from varied habitats in central and western Oklahoma, and ranging to southeast Iowa. Shell-associated microbial communities were highly diverse, with samples dominated by Bacteroidia and alpha-/gamma-proteobacteria, and ciliophoran alveolates. Alpha diversity was lower on turtle shells compared to shallow-water-associated environmental samples, likely resulting from basking-drying behavior and seasonal scute shedding, while alpha diversity was higher on carapace than plastron surfaces. Beta diversity of turtle shells was similarly differentiated from environmental samples, although sampling site was consistently a significant factor. Deinococcus-Thermus bacteria and ciliophoran alveolates were recovered with significantly higher abundance on turtle shells versus environmental samples, while bacterial taxa known to include human-pathogenic species were variably more abundant between shell and environmental samples. Microbial communities from a single, shared-site collection of the ecologically similar river cooter (P. concinna) largely overlapped with those of T. scripta. These data add to a foundation for further characterization of turtle shell microbial communities across species and habitats, with implications for freshwater habitat assessment, microbial ecology and wildlife conservation efforts.
 
-[Source](https://aem.asm.org/content/aem/early/2020/12/21/AEM.02220-20.full.pdf)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244489)
 
-10.1128/AEM.02220-20
-
----
-
-## Metagenomic Analysis of Rhizosphere Bacteria in Desert Plant Calotropis procera
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/01490451.2020.1860166?scroll=top&needAccess=true)
+10.1371/journal.pone.0244489
 
 ---
 
@@ -115,90 +74,6 @@ Marine sponges are abundant and ecologically important components of coral reefs
 [Source](https://link.springer.com/article/10.1007/s10482-020-01503-5)
 
 10.1007/s10482-020-01503-5
-
----
-
-## Novel integrative elements and genomic plasticity in ocean ecosystems
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.28.424599v1)
-
----
-
-## The diversity of microbial communities in Chinese milk fan and their effects on volatile organic compound profiles
-
-[Source](https://www.journalofdairyscience.org/article/S0022-0302(20)31081-X/abstract)
-
----
-
-## Characterizing Relationship of Microbial Community in Xiaoqu and Volatiles of Light-aroma-type Xiaoqu Baijiu
-
-[Source](https://www.jstage.jst.go.jp/article/fstr/26/6/26_749/_article/-char/ja/)
-
----
-
-## Acquisition, prevalence and clearance of type-specific human papillomavirus infections in young sexually active Indian women: A community-based multicentric cohort study
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244242)
-
----
-
-## Informed sequential pooling approach to detect SARS-CoV-2 infection
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244475)
-
----
-
-## Statistical Methods for Longitudinal Data Analysis and Reproducible Feature Selection in
-
-[Source](https://escholarship.org/content/qt0gj8377x/qt0gj8377x.pdf)
-
----
-
-## MicroGMT: A Mutation Tracker for SARS-CoV-2 and Other Microbial Genome Sequences
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01502/full)
-
----
-
-## Long-term experimental evolution of HIV-1 reveals effects of environment and mutational history
-
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001010)
-
----
-
-## The role of Ulva fasciata in the evolution of the microbial community and antibiotic resistance genes in maricultural sediments
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0025326X20310596)
-
----
-
-## The Diversity and Evolution of Microbial Dissimilatory Phosphite Oxidation
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.28.424620v1)
-
----
-
-## Synthetic Biologics Inc. (SYN) Soars 5.43% on December 25
-
-[Source](https://www.equities.com/news/synthetic-biologics-inc-syn-soars-5-43-on-december-25)
-
----
-
-## The Brain, Gut and Consciousness: Microbiology of Our Mind
-
-[Source](http://www.inquiriesjournal.com/articles/1853/the-brain-gut-and-consciousness-microbiology-of-our-mind)
-
----
-
-## National Institutes of Health Institute and Center Award Rates and Funding Disparities
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.27.424490v1.abstract?%3Fcollection=)
-
----
-
-## Communicating risk in human-wildlife interactions: How stories and images move minds
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244440)
 
 ---
 
