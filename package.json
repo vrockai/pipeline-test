@@ -8,7 +8,7 @@
     "test": "echo 'Hello World!'"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "jsdom": "^15.2.1",
     "libxmljs": "^0.19.7",
     "lodash": "^4.17.15",
