@@ -1,12 +1,18 @@
-## Dysbiosis of gut microbiota in patients with esophageal cancer.
- 30.12.2020, _Y Deng, D Tang, P Hou, W Shen, H Li, T Wang, R Liu_
+## Influence of Acid Blockade on the Aerodigestive Tract Microbiome in Children With Cystic Fibrosis.
+ 04.01.2021, _RT Khalaf, GT Furuta, BD Wagner, CE Robertson, R Andrews, MJ Stevens, SA Fillon, ET Zemanick, JK Harris_
 
 
-A number of studies have identified that gut microbiota influences the development of cancer. However, there is little known about gut microbiota and esophageal cancer (EC). The aim of this study was to investigate the gut microbiota profile associated with EC. In this study, 23 patients with EC and 23 sex- and age-matched healthy controls (NC) were recruited between July 2019 and August 2019 at Huai'an First People's Hospital (Huai'an, China) and the gut microbiota was analyzed by 16S rRNA gene sequencing of fresh stool samples. We found that the microbial richness of intestinal flora in patients with EC were higher than NC, whereas evenness did not change obviously. Principal coordinate analysis (PCoA) and Unweighted Pair Group Method with Arithmetic Mean (UPGMA) analysis both revealed that a distinct separation in bacterial community composition between the EC and NC. At the phylum level, the EC group showed significantly higher abundances of Firmicutes and Actinobacteria, but a lower Bacteroidetes than NC. At the genus level, a significantly increased abundance of Streptococcus, Bifidobacterium, Subdoligranulum, Blautia, Romboutsia, Collinsella, Paeniclostridium, Dorea, and Atopobium were observed in EC patients, while Lachnospira, Bacteroides, Agathobacter, Lachnoclostridium, Parabacteroides, Paraprevotella, Butyricicoccus, Tyzzerella, Fusicatenibacter, and Sutterella were reduced. Receiver operating characteristic (ROC) analysis revealed that Lachnospira, Bacteroides, Streptococcus, and Bifidobacterium both achieved a high accuracy in EC diagnosis (area under the curve was more than 0.85), and the Lachnospira was found to be the best classifier. This study firstly characterized the gut microbiota composition of EC patients and screened out the optimal potential microbiota biomarkers for EC diagnosis. It may provide a fundamental reference for further studies on the gut microbiome for the diagnosis and treatment of EC.
+Acid blockade is commonly prescribed in patients with cystic fibrosis (CF). Growing concerns, however, exist about its possible role in the pathophysiology of pulmonary infections. We aimed to investigate if acid blockade alters esophageal and respiratory microbiota leading to dysbiosis and inflammation.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020310755)
 
-10.1016/j.micpath.2020.104709
+10.1097/MPG.0000000000003010
+
+---
+
+## Dysbiosis of gut microbiota in patients with esophageal cancer
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020310755)
 
 ---
 
