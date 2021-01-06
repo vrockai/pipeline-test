@@ -1,85 +1,60 @@
-## Influence of Acid Blockade on the Aerodigestive Tract Microbiome in Children With Cystic Fibrosis.
- 04.01.2021, _RT Khalaf, GT Furuta, BD Wagner, CE Robertson, R Andrews, MJ Stevens, SA Fillon, ET Zemanick, JK Harris_
+## The cancer microbiome atlas: a pan-cancer comparative analysis to distinguish tissue-resident microbiota from contaminants.
+ 31.12.2020, _AB Dohlman, D Arguijo Mendoza, S Ding, M Gao, H Dressman, ID Iliev, SM Lipkin, X Shen_
 
 
-Acid blockade is commonly prescribed in patients with cystic fibrosis (CF). Growing concerns, however, exist about its possible role in the pathophysiology of pulmonary infections. We aimed to investigate if acid blockade alters esophageal and respiratory microbiota leading to dysbiosis and inflammation.
+Studying the microbial composition of internal organs and their associations with disease remains challenging due to the difficulty of acquiring clinical biopsies. We designed a statistical model to analyze the prevalence of species across sample types from The Cancer Genome Atlas (TCGA), revealing that species equiprevalent across sample types are predominantly contaminants, bearing unique signatures from each TCGA-designated sequencing center. Removing such species mitigated batch effects and isolated the tissue-resident microbiome, which was validated by original matched TCGA samples. Gene copies and nucleotide variants can further distinguish mixed-evidence species. We, thus, present The Cancer Microbiome Atlas (TCMA), a collection of curated, decontaminated microbial compositions of oropharyngeal, esophageal, gastrointestinal, and colorectal tissues. This led to the discovery of prognostic species and blood signatures of mucosal barrier injuries and enabled systematic matched microbe-host multi-omic analyses, which will help guide future studies of the microbiome's role in human health and disease.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020310755)
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30663-6)
 
-10.1097/MPG.0000000000003010
-
----
-
-## Dysbiosis of gut microbiota in patients with esophageal cancer
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401020310755)
+10.1016/j.chom.2020.12.001
 
 ---
 
-## Immunotherapy in Solid Tumors and Gut Microbiota: The Correlation-A Special Reference to Colorectal Cancer.
- 30.12.2020, _A Koulouridi, I Messaritakis, N Gouvas, J Tsiaoussis, J Souglakos_
+## Sensitive universal detection of blood parasites by selective pathogen-DNA enrichment and deep amplicon sequencing.
+ 05.01.2021, _BR Flaherty, J Barratt, M Lane, E Talundzic, RS Bradbury_
 
 
-Over the last few years, immunotherapy has been considered as a key player in the treatment of solid tumors. Immune checkpoint inhibitors (ICIs) have become the breakthrough treatment, with prolonged responses and improved survival results. ICIs use the immune system to defeat cancer by breaking the axes that allow tumors to escape immune surveillance. Innate and adaptive immunity are involved in mechanisms against tumor growth. The gut microbiome and its role in such mechanisms is a relatively new study field. The presence of a high microbial variation in the gut seems to be remarkably important for the efficacy of immunotherapy, interfering with innate immunity. Metabolic and immunity pathways are related with specific gut microbiota composition. Various studies have explored the composition of gut microbiota in correlation with the effectiveness of immunotherapy. Colorectal cancer (CRC) patients have gained little benefit from immunotherapy until now. Only mismatch repair-deficient/microsatellite-unstable tumors seem to respond positively to immunotherapy. However, gut microbiota could be the key to expanding the use of immunotherapy to a greater range of CRC patients.
+Targeted amplicon deep sequencing (TADS) has enabled characterization of diverse bacterial communities, yet the application of TADS to communities of parasites has been relatively slow to advance. The greatest obstacle to this has been the genetic diversity of parasitic agents, which include helminths, protozoa, arthropods, and some acanthocephalans. Meanwhile, universal amplification of conserved loci from all parasites without amplifying host DNA has proven challenging. Pan-eukaryotic PCRs preferentially amplify the more abundant host DNA, obscuring parasite-derived reads following TADS. Flaherty et al. (2018) described a pan-parasitic TADS method involving amplification of eukaryotic 18S rDNA regions possessing restriction sites only in vertebrates. Using this method, host DNA in total DNA extracts could be selectively digested prior to PCR using restriction enzymes, thereby increasing the number of parasite-derived reads obtained following NGS. This approach showed promise though was only as sensitive as conventional PCR.
 
-[Source](https://www.mdpi.com/2072-6694/13/1/43/htm)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00939-1)
 
-10.3390/cancers13010043
-
----
-
-## Fecal Microbiota Transplantation Is Highly Effective in Real-World Practice: Initial Results From the FMT National Registry
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0016508520352215)
+10.1186/s40168-020-00939-1
 
 ---
 
-## [Fecal microbiota transplantation for graft-versus-host disease in children and adults: methods, clinical effects, safety].
- 22.12.2020, _OV Goloshchapov, AB Chukhlovin, EA Bakin, OV Stanevich, RV Klementeva, AA Shcherbakov, AN Shvetsov, MA Suvorova, SN Bondarenko, MA Kucher, AD Kulagin, LS Zubarovskaya, IS Moiseev_
+## Long-Term Impact of Suppressive Antibiotic Therapy on Intestinal Microbiota.
+ 05.01.2021, _R Escudero-Sánchez, M Ponce-Alonso, H Barragán-Prada, MI Morosini, R Cantón, J Cobo, R Del Campo_
 
 
-_Adult, Child, Fecal Microbiota Transplantation, Feces, Gastrointestinal Microbiome, Graft vs Host Disease, Hematopoietic Stem Cell Transplantation, Humans, Prospective Studies, Treatment Outcome_
-Was to evaluate clinical efficacy, adverse events and changes in the gut microbiome after fecal microbiota transplantation (FMT) in patients with gastrointestinal (GI) form of graft-versus-host disease (GVHD).
+The aim was to describe the safety of indefinite administration of antibiotics, the so-called suppressive antibiotic therapy (SAT) and to provide insight into their impact on gut microbiota. 17 patients with SAT were recruited, providing a fecal sample. Bacterial composition was determined by 16S rDNA massive sequencing, and their viability was explored by PCR-DGGE with and without propidium monoazide. Presence of antibiotic multirresistant bacteria was explored through the culture of feces in selective media. High intra-individual variability in the genera distribution regardless of the antibiotic or antibiotic administration ingestion period, with few statistically significant differences detected by Bray-Curtis distance-based principle component analysis, permutational multivariate analysis of variance and linear discriminant analysis effect size analysis. However, the microbiota composition of patients treated with both beta-lactams and sulfonamides clustered by a heat map. Curiously, the detection of antibiotic resistant bacteria was almost anecdotic and CTX-M-15-producing E. coli were detected in two subjects. Our work demonstrates the overall clinical safety of SAT and the low rate of the selection of multidrug-resistant bacteria triggered by this therapy. We also describe the composition of intestinal microbiota under the indefinite use of antibiotics for the first time.
 
-[Source](https://ter-arkhiv.ru/0040-3660/article/view/43122)
+[Source](https://www.mdpi.com/2073-4425/12/1/41)
 
-10.26442/00403660.2020.07.000773
-
----
-
-## Analysis of the developing gut microbiota in young dairy calves-impact of colostrum microbiota and gut disturbances.
- 30.12.2020, _BPT Hang, E Wredle, J Dicksved_
-
-
-The aim of this study was to characterize the colostrum and fecal microbiota in calves and to investigate whether fecal microbiota composition was related to colostrum microbiota or factors associated with calf health. Colostrum samples were collected in buckets after hand milking of 76 calving cows from 38 smallholder dairy farms. Fecal samples were taken directly from the rectum of 76 calves at birth and at 14 days age. The bacterial community structure in colostrum and feces was analyzed by terminal restriction fragment length polymorphism for all samples, and the microbial composition was determined by 16S rRNA gene amplicon sequencing for a subset of the samples (8 colostrum, 40 fecal samples). There was a significant difference in fecal microbiota composition between day 0 and day 14 samples, but no associations between the microbiota and average daily gain, birth weight, or transfer of passive immunity. At 14 days of age, Faecalibacterium and Butyricicoccus were prevalent in higher relative abundances in the gut of healthy calves compared to calves with diarrhea that had been treated with antimicrobials. Colostrum showed great variation in composition of microbiota but no association to fecal microbiota. This study provides the first insights into the composition of colostrum and fecal microbiota of young dairy calves in southern Vietnam and can form the basis for future more detailed studies.
-
-[Source](https://link.springer.com/article/10.1007/s11250-020-02535-9)
-
-10.1007/s11250-020-02535-9
+10.3390/genes12010041
 
 ---
 
-## Consistent patterns in 16S and 18S microbial diversity from the shells of the common and widespread red-eared slider turtle (Trachemys scripta).
- 28.12.2020, _M Parks, C Kedy, C Skalla_
+## Metagenomics dataset used to characterize microbiome in water and sediments of the lake Solenoe (Novosibirsk region, Russia)
 
-
-Microbial communities associated with freshwater aquatic habitats and resident species are both critical to and indicative of ecosystem status and organismal health. External surfaces of turtle shells readily accumulate microbial growth and could carry representation of habitat-wide microbial diversity, since they are in regular contact with multiple elements of freshwater environments. Yet, microbial diversity residing on freshwater turtle shells is poorly understood. We applied 16S and 18S metabarcoding to characterize microbiota associated with external shell surfaces of 20 red-eared slider (Trachemys scripta) turtles collected from varied habitats in central and western Oklahoma, and ranging to southeast Iowa. Shell-associated microbial communities were highly diverse, with samples dominated by Bacteroidia and alpha-/gamma-proteobacteria, and ciliophoran alveolates. Alpha diversity was lower on turtle shells compared to shallow-water-associated environmental samples, likely resulting from basking-drying behavior and seasonal scute shedding, while alpha diversity was higher on carapace than plastron surfaces. Beta diversity of turtle shells was similarly differentiated from environmental samples, although sampling site was consistently a significant factor. Deinococcus-Thermus bacteria and ciliophoran alveolates were recovered with significantly higher abundance on turtle shells versus environmental samples, while bacterial taxa known to include human-pathogenic species were variably more abundant between shell and environmental samples. Microbial communities from a single, shared-site collection of the ecologically similar river cooter (P. concinna) largely overlapped with those of T. scripta. These data add to a foundation for further characterization of turtle shell microbial communities across species and habitats, with implications for freshwater habitat assessment, microbial ecology and wildlife conservation efforts.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244489)
-
-10.1371/journal.pone.0244489
+[Source](https://www.sciencedirect.com/science/article/pii/S2352340920315882)
 
 ---
 
-## Archaeal communities of low and high microbial abundance sponges inhabiting the remote western Indian Ocean island of Mayotte.
- 28.12.2020, _ARM Polónia, DFR Cleary, A Gauvin-Bialecki, NJ de Voogd_
+## Changes in the Serum Metabolome of Patients Treated With Broad-Spectrum Antibiotics
 
+[Source](https://www.paijournal.com/index.php/paijournal/article/view/394)
 
-Marine sponges are abundant and ecologically important components of coral reefs and have been shown to harbour exceptionally high microbial densities, which can differ substantially among sponge species. However, this dichotomy between high and low microbial abundance (HMA, LMA) sponges is still not fully understood, particularly as concerns the archaeal community. This study aims to fill this gap by analysing (using 454-pyrosequencing of the 16S rRNA gene) how the archaeal community varies among known LMA (Stylissa carteri, and Stylissa massa), known HMA (Hyrtios erectus and Xestospongia testudinaria) and unknown HMA/LMA status sponge species (Ectyoplasia coccinea, Paratetilla bacca and Petrosia aff. spheroida) collected in a remote location in which very few sponge microbial composition studies have been previously performed (Mayotte, Comores archipelago, France) and comparing the results with those reported in four other geographical areas. Based on archaeal community composition, the known LMA sponges formed a distinct cluster together with Paratetilla bacca, Ectyoplasia coccinea and seawater while the known HMA sponge X. testudinaria formed a cluster with Petrosia aff. spheroida. The known HMA sponge H. erectus, in turn, had an intermediate archaeal community between HMA sponges and sediment samples. In addition to the above, we also showed significant compositional congruence between archaeal and bacterial communities sampled from the same sponge individuals. HMA sponges were mainly dominated by members assigned to the genus Nitrosopumilus while LMA sponges were mainly dominated by members assigned to the genus Cenarchaeum. In general, there was no clear difference in richness between HMA and LMA sponges. Evenness, however, was higher in HMA than LMA sponges. Whilst the present study corroborates some of the traits commonly associated with the HMA-LMA dichotomy (higher evenness in Mayotte HMA sponges), this was not consistent across geographical areas showing that more research is needed to fully understand the HMA/LMA dichotomy as concerns Archaea.
+---
 
-[Source](https://link.springer.com/article/10.1007/s10482-020-01503-5)
+## Walnut Consumption, Plasma Metabolomics, and Risk of Type 2 Diabetes and Cardiovascular Disease
 
-10.1007/s10482-020-01503-5
+[Source](https://academic.oup.com/jn/advance-article/doi/10.1093/jn/nxaa374/6056508)
+
+---
+
+## Improved metagenome binning and assembly using deep variational autoencoders
+
+[Source](https://www.nature.com/articles/s41587-020-00777-4)
 
 ---
 
