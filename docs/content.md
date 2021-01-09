@@ -106,39 +106,75 @@ With demands and reliance on aquaculture still growing, there are various challe
 
 ---
 
-## Shift of Maternal Gut Microbiota of Tibetan Antelope (Pantholops hodgsonii) During the Periparturition Period
+## Shift of Maternal Gut Microbiota of Tibetan Antelope (Pantholops hodgsonii) During the Periparturition Period.
+ 07.01.2021, _Y Shi, ZY Miao, JP Su, SK Wasser_
+
+
+The maternal gut microbiota can influence and be affected by the substantial physiological changes taking place during the periparturition period. However, little information is known about the changes in the maternal gut microbiota and hormonal variations during this period in nonmodel organisms. Tibetan antelope (Pantholops hodgsonii) provide a unique system to address this issue because their summer migration cycle is synchronized with the periparturition period. Here, we used fecal microbiota as a proxy of gut microbiota. We characterized fecal microbial community of female migratory Tibetan antelope in the late pregnancy and postpartum periods using 16S rRNA gene sequencing and quantified fecal glucocorticoids (GCs) and triiodothyronine (T3) metabolite concentrations through enzyme immunoassays to identify the associations between maternal gut microbiota and physiological changes related with reproduction. We found that the fecal microbiota of Tibetan antelope was dominated by Firmicutes and Bacteroidetes. The microbial composition was significantly altered during the transition from late pregnancy to the postpartum period. Fecal T3 concentration was significantly higher in the postpartum period compared to late pregnancy, whereas GC metabolite concentration did not significantly differ between two reproductive states. We identified six genera (Anaerofustis, Bacteroides, Coprococcus_2, Ruminiclostridium_5, Ruminococcaceae_UCG-007, and Tyzzerella) that were significantly associated with reproductive states. We also found two genera (Christensenellaceae_R-7_group and Rikenellaceae_RC9_gut_group) significantly associated with GC metabolite concentration and two genera (Agathobacter and Papillibacter) significantly associated with T3 metabolite concentration, though these correlations were weak with coefficient values ranging from - 0.007 to 0.03. Our results indicate that many members of the gut microbiota are associated with the physiological changes in the transition from late pregnancy to the postpartum period, likely reflecting the metabolic and immune system dynamics during the periparturition period. This study highlights the importance of integrating microbiota, hormones and migration pattern to study the reproductive health of wildlife. By establishing a baseline of the physiological changes during the migration/periparturition period, we can have a better understanding of the impacts of increasing human activities on the Tibetan Plateau on the reproductive health of Tibetan antelope.
 
 [Source](https://link.springer.com/article/10.1007%2Fs00284-020-02339-y)
 
+10.1007/s00284-020-02339-y
+
 ---
 
-## Bacterial seed endophyte shapes disease resistance in rice
+## Bacterial seed endophyte shapes disease resistance in rice.
+ 05.01.2021, _H Matsumoto, X Fan, Y Wang, P Kusstatscher, J Duan, S Wu, S Chen, K Qiao, Y Wang, B Ma, G Zhu, Y Hashidoko, G Berg, T Cernava, M Wang_
+
+
+Cereal crop production is severely affected by seed-borne bacterial diseases across the world. Locally occurring disease resistance in various crops remains elusive. Here, we have observed that rice plants of the same cultivar can be differentiated into disease-resistant and susceptible phenotypes under the same pathogen pressure. Following the identification of a seed-endophytic bacterium as the resistance-conferring agent, integration of high-throughput data, gene mutagenesis and molecular interaction assays facilitated the discovery of the underlying mode of action. Sphingomonas melonis that is accumulated and transmitted across generations in disease-resistant rice seeds confers resistance to disease-susceptible phenotypes by producing anthranilic acid. Without affecting cell growth, anthranilic acid interferes with the sigma factor RpoS of the seed-borne pathogen Burkholderia plantarii, probably leading to impairment of upstream cascades that are required for virulence factor biosynthesis. The overall findings highlight the hidden role of seed endophytes in the phytopathology paradigm of 'disease triangles', which encompass the plant, pathogens and environmental conditions. These insights are potentially exploitable for modern crop cultivation threatened by globally widespread bacterial diseases.
 
 [Source](https://www.nature.com/articles/s41477-020-00826-5)
 
+10.1038/s41477-020-00826-5
+
 ---
 
-## Metagenomics survey unravels diversity of biogas microbiomes with potential to enhance productivity in Kenya
+## Metagenomics survey unravels diversity of biogas microbiomes with potential to enhance productivity in Kenya.
+ 04.01.2021, _SM Muturi, LW Muthui, PM Njogu, JM Onguso, FN Wachira, SO Opiyo, R Pelle_
+
+
+The obstacle to optimal utilization of biogas technology is poor understanding of biogas microbiomes diversities over a wide geographical coverage. We performed random shotgun sequencing on twelve environmental samples. Randomized complete block design was utilized to assign the twelve treatments to four blocks, within eastern and central regions of Kenya. We obtained 42 million paired-end reads that were annotated against sixteen reference databases using two ENVO ontologies, prior to β-diversity studies. We identified 37 phyla, 65 classes and 132 orders. Bacteria dominated and comprised 28 phyla, 42 classes and 92 orders, conveying substrate's versatility in the treatments. Though, Fungi and Archaea comprised 5 phyla, the Fungi were richer; suggesting the importance of hydrolysis and fermentation in biogas production. High β-diversity within the taxa was largely linked to communities' metabolic capabilities. Clostridiales and Bacteroidales, the most prevalent guilds, metabolize organic macromolecules. The identified Cytophagales, Alteromonadales, Flavobacteriales, Fusobacteriales, Deferribacterales, Elusimicrobiales, Chlamydiales, Synergistales to mention but few, also catabolize macromolecules into smaller substrates to conserve energy. Furthermore, δ-Proteobacteria, Gloeobacteria and Clostridia affiliates syntrophically regulate PH2 and reduce metal to provide reducing equivalents. Methanomicrobiales and other Methanomicrobia species were the most prevalence Archaea, converting formate, CO2(g), acetate and methylated substrates into CH4(g). Thermococci, Thermoplasmata and Thermoprotei were among the sulfur and other metal reducing Archaea that contributed to redox balancing and other metabolism within treatments. Eukaryotes, mainly fungi were the least abundant guild, comprising largely Ascomycota and Basidiomycota species. Chytridiomycetes, Blastocladiomycetes and Mortierellomycetes were among the rare species, suggesting their metabolic and substrates limitations. Generally, we observed that environmental and treatment perturbations influenced communities' abundance, β-diversity and reactor performance largely through stochastic effect. Understanding diversity of biogas microbiomes over wide environmental variables and its' productivity provided insights into better management strategies that ameliorate biochemical limitations to effective biogas production.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244755)
 
+10.1371/journal.pone.0244755
+
 ---
 
-## Wastewater treatment alters microbial colonization of microplastics
+## Wastewater treatment alters microbial colonization of microplastics.
+ 06.01.2021, _JJ Kelly, MG London, AR McCormick, M Rojas, JW Scott, TJ Hoellein_
+
+
+Microplastics are ubiquitous contaminants in aquatic habitats globally, and wastewater treatment plants (WWTPs) are point sources of microplastics. Within aquatic habitats microplastics are colonized by microbial biofilms, which can include pathogenic taxa and taxa associated with plastic breakdown. Microplastics enter WWTPs in sewage and exit in sludge or effluent, but the role that WWTPs play in establishing or modifying microplastic bacterial assemblages is unknown. We analyzed microplastics and associated biofilms in raw sewage, effluent water, and sludge from two WWTPs. Both plants retained &gt;99% of influent microplastics in sludge, and sludge microplastics showed higher bacterial species richness and higher abundance of taxa associated with bioflocculation (e.g. Xanthomonas) than influent microplastics, suggesting that colonization of microplastics within the WWTP may play a role in retention. Microplastics in WWTP effluent included significantly lower abundances of some potentially pathogenic bacterial taxa (e.g. Campylobacteraceae) compared to influent microplastics; however, other potentially pathogenic taxa (e.g. Acinetobacter) remained abundant on effluent microplastics, and several taxa linked to plastic breakdown (e.g. Klebsiella, Pseudomonas, and Sphingomonas) were significantly more abundant on effluent compared to influent microplastics. These results indicate that diverse bacterial assemblages colonize microplastics within sewage and that WWTPs can play a significant role in modifying the microplastic-associated assemblages, which may affect the fate of microplastics within the WWTPs and the environment.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244443)
 
+10.1371/journal.pone.0244443
+
 ---
 
-## MetGEMs Toolbox: Metagenome-scale models as integrative toolbox for uncovering metabolic functions and routes of human gut microbiome
+## MetGEMs Toolbox: Metagenome-scale models as integrative toolbox for uncovering metabolic functions and routes of human gut microbiome.
+ 06.01.2021, _P Patumcharoenpol, M Nakphaichit, G Panagiotou, A Senavonge, N Suratannon, W Vongsangnak_
+
+
+Investigating metabolic functional capability of a human gut microbiome enables the quantification of microbiome changes, which can cause a phenotypic change of host physiology and disease. One possible way to estimate the functional capability of a microbial community is through inferring metagenomic content from 16S rRNA gene sequences. Genome-scale models (GEMs) can be used as scaffold for functional estimation analysis at a systematic level, however up to date, there is no integrative toolbox based on GEMs for uncovering metabolic functions. Here, we developed the MetGEMs (metagenome-scale models) toolbox, an open-source application for inferring metabolic functions from 16S rRNA gene sequences to facilitate the study of the human gut microbiome by the wider scientific community. The developed toolbox was validated using shotgun metagenomic data and shown to be superior in predicting functional composition in human clinical samples compared to existing state-of-the-art tools. Therefore, the MetGEMs toolbox was subsequently applied for annotating putative enzyme functions and metabolic routes related in human disease using atopic dermatitis as a case study.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008487)
 
+10.1371/journal.pcbi.1008487
+
 ---
 
-## Assessment of two DNA extraction kits for profiling poultry respiratory microbiota from multiple sample types
+## Assessment of two DNA extraction kits for profiling poultry respiratory microbiota from multiple sample types.
+ 06.01.2021, _MEC Abundo, JM Ngunjiri, KJM Taylor, H Ji, A Ghorbani, M K C, BP Weber, TJ Johnson, CW Lee_
+
+
+Characterization of poultry microbiota is becoming increasingly important due to the growing need for microbiome-based interventions to improve poultry health and production performance. However, the lack of standardized protocols for sampling, sample processing, DNA extraction, sequencing, and bioinformatic analysis can hinder data comparison between studies. Here, we investigated how the DNA extraction process affects microbial community compositions and diversity metrics in different chicken respiratory sample types including choanal and tracheal swabs, nasal cavity and tracheal washes, and lower respiratory lavage. We did a side-by-side comparison of the performances of Qiagen DNeasy blood and tissue (BT) and ZymoBIOMICS DNA Miniprep (ZB) kits. In general, samples extracted with the BT kit yielded higher concentrations of total DNA while those extracted with the ZB kit contained higher numbers of bacterial 16S rRNA gene copies per unit volume. Therefore, the samples were normalized to equal amounts of 16S rRNA gene copies prior to sequencing. For each sample type, all predominant bacterial taxa detected in samples extracted with one kit were present in replicate samples extracted with the other kit and did not show significant differences at the class level. However, a few differentially abundant shared taxa were observed at family and genus levels. Furthermore, between-kit differences in alpha and beta diversity metrics at the amplicon sequence variant level were statistically indistinguishable. Therefore, both kits perform similarly in terms of 16S rRNA gene-based poultry microbiome analysis for the sample types analyzed in this study.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241732)
+
+10.1371/journal.pone.0241732
 
 ---
 
