@@ -23,7 +23,7 @@ With increasing attention being paid to improving emotional well-being, recent e
 ---
 
 ## The Composition and Concordance of Lactobacillus Populations of Infant Gut and the Corresponding Breast-Milk and Maternal Gut.
- 07.01.2021, _X Zhang, S Mushajiang, B Luo, F Tian, Y Ni, W Yan_
+ 11.01.2021, _X Zhang, S Mushajiang, B Luo, F Tian, Y Ni, W Yan_
 
 
 The maternal gut is the principal source of commensal bacteria in the infant gut during the lactation stage, where breast milk acts as an intermediary for the transfer of potential probiotic bacteria consortia, including Lactobacillus. This study aimed to characterize the bacterial communities in human milk, maternal, and infant feces in a small yet very homogeneous cohort of 25 healthy mother-infant pairs in northwestern China (n = 25, infant age from 7 days to 2 years), with special emphasis on the cooccurrence and vertical transfer of Lactobacillus phylotypes at the species or strain level in mother-breast milk-infant triads. Accurate sequencing analysis revealed that among 73 Lactobacillus zero-radius operational classification units (ZOTUs) identified, 58 belonging to 18 recognized species or species groups were distributed in all three types of samples. Lactobacillus ruminis, L. mucosae and L. gasseri-johnsonii as true residents were the most represented in all three ecosystems, whereas the content of Lactobacillus phylotypes commonly developed as probiotics was not dominant. While the numbers of Lactobacillus species in breast milk and infant feces were greater than that in maternal feces, principal coordinates analysis (PCoA) based on beta diversity, coupled with the frequency of isolates determined by culture methods, showed that the Lactobacillus community in the infant gut was more similar to that in the maternal gut than to that in breast milk, suggesting that the gut is niche selective for Lactobacillus populations. In addition, identical strains of L. ruminis, L. paracasei, L. mucosae and L. salivarius were isolated from multiple mother-infant pairs, supporting the hypothesis that vertical transfer of bacteria via breastfeeding contributes to the initial establishment of the microbiota in the developing infant intestine.
@@ -35,7 +35,7 @@ The maternal gut is the principal source of commensal bacteria in the infant gut
 ---
 
 ## Lifestyle modifications result in alterations in the gut microbiota in obese children.
- 07.01.2021, _KY Cho_
+ 11.01.2021, _KY Cho_
 
 
 The association between the gut microbiota and pediatric obesity was analyzed in a cross-sectional study. A prospective study of obese children was conducted to assess the gut microbial alterations after a weight change. We collected fecal samples from obese children before and after a 2-month weight reduction program that consisted of individual counseling for nutritional education and physical activity, and we performed 16S rRNA gene amplicon sequencing using an Illumina MiSeq platform.
@@ -47,7 +47,7 @@ The association between the gut microbiota and pediatric obesity was analyzed in
 ---
 
 ## Nutritional combinatorial impact on the gut microbiota and plasma short-chain fatty acids levels in the prevention of mammary cancer in Her2/neu estrogen receptor-negative transgenic mice.
- 06.01.2021, _M Sharma, I Arora, ML Stoll, Y Li, CD Morrow, S Barnes, TF Berryhill, S Li, TO Tollefsbol_
+ 11.01.2021, _M Sharma, I Arora, ML Stoll, Y Li, CD Morrow, S Barnes, TF Berryhill, S Li, TO Tollefsbol_
 
 
 Breast cancer is the second leading cause of cancer-related mortality in women. Various nutritional compounds possess anti-carcinogenic properties which may be mediated through their effects on the gut microbiota and its production of short-chain fatty acids (SCFAs) for the prevention of breast cancer. We evaluated the impact of broccoli sprouts (BSp), green tea polyphenols (GTPs) and their combination on the gut microbiota and SCFAs metabolism from the microbiota in Her2/neu transgenic mice that spontaneously develop estrogen receptor-negative [ER(-)] mammary tumors. The mice were grouped based on the dietary treatment: control, BSp, GTPs or their combination from beginning in early life (BE) or life-long from conception (LC). We found that the combination group showed the strongest inhibiting effect on tumor growth volume and a significant increase in tumor latency. BSp treatment was integrally more efficacious than the GTPs group when compared to the control group. There was similar clustering of microbiota of BSp-fed mice with combination-fed mice, and GTPs-fed mice with control-fed mice at pre-tumor in the BE group and at pre-tumor and post-tumor in the LC group. The mice on all dietary treatment groups incurred a significant increase of Adlercreutzia, Lactobacillus genus and Lachnospiraceae, S24-7 family in the both BE and LC groups. We found no change in SCFAs levels in the plasma of BSp-fed, GTPs-fed and combination-fed mice of the BE group. Marked changes were observed in the mice of the LC group consisting of significant increases in propionate and isobutyrate in GTPs-fed and combination-fed mice. These studies indicate that nutrients such as BSp and GTPs differentially affect the gut microbial composition in both the BE and LC groups and the key metabolites (SCFAs) levels in the LC group. The findings also suggest that temporal factors related to different time windows of consumption during the life-span can have a promising influence on the gut microbial composition, SCFAs profiles and ER(-) breast cancer prevention.
@@ -59,7 +59,7 @@ Breast cancer is the second leading cause of cancer-related mortality in women. 
 ---
 
 ## Modeling dysbiosis of human NASH in mice: Loss of gut microbiome diversity and overgrowth of Erysipelotrichales.
- 04.01.2021, _JK Carter, D Bhattacharya, JN Borgerding, MI Fiel, JJ Faith, SL Friedman_
+ 11.01.2021, _JK Carter, D Bhattacharya, JN Borgerding, MI Fiel, JJ Faith, SL Friedman_
 
 
 Non-alcoholic steatohepatitis (NASH) is a severe form of non-alcoholic fatty liver disease (NAFLD) that is responsible for a growing fraction of cirrhosis and liver cancer cases worldwide. Changes in the gut microbiome have been implicated in NASH pathogenesis, but the lack of suitable murine models has been a barrier to progress. We have therefore characterized the microbiome in a well-validated murine NASH model to establish its value in modeling human disease.
