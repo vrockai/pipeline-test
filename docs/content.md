@@ -53,7 +53,7 @@ The gut microbiome can impact brain health and is altered in Parkinson's disease
 ---
 
 ## Effect of host breeds on gut microbiome and serum metabolome in meat rabbits.
- 08.01.2021, _X Ye, L Zhou, Y Zhang, S Xue, QF Gan, S Fang_
+ 12.01.2021, _X Ye, L Zhou, Y Zhang, S Xue, QF Gan, S Fang_
 
 
 Gut microbial compositional and functional variation can affect health and production performance of farm animals. Analysing metabolites in biological samples provides information on the basic mechanisms that affect the well-being and production traits in farm animals. However, the extent to which host breeds affect the gut microbiome and serum metabolome in meat rabbits is still unknown. In this study, the differences in phylogenetic composition and functional capacities of gut microbiota in two commercial rabbit breeds Elco and Ira were determined by 16S rRNA gene and metagenomic sequencing. The alternations in serum metabolome in the two rabbit breeds were detected using ultra-performance liquid chromatography system coupled with quadrupole time of flight mass spectrometry (UPLC-QTOFMS).
@@ -71,7 +71,7 @@ Gut microbial compositional and functional variation can affect health and produ
 ---
 
 ## Diversity and composition of the Panax ginseng rhizosphere microbiome in various cultivation modesand ages.
- 11.01.2021, _AZ Tong, W Liu, Q Liu, GQ Xia, JY Zhu_
+ 12.01.2021, _AZ Tong, W Liu, Q Liu, GQ Xia, JY Zhu_
 
 
 Continuous cropping of ginseng (Panax ginseng Meyer) cultivated in farmland for an extended period gives rise to soil-borne disease. The change in soil microbial composition is a major cause of soil-borne diseases and an obstacle to continuous cropping. The impact of cultivation modes and ages on the diversity and composition of the P. ginseng rhizosphere microbial community and technology suitable for cropping P. ginseng in farmland are still being explored.
@@ -94,21 +94,39 @@ Continuous cropping of ginseng (Panax ginseng Meyer) cultivated in farmland for 
 
 ---
 
-## Fungi Present in Antarctic Deep-Sea Sediments Assessed Using DNA Metabarcoding
+## Fungi Present in Antarctic Deep-Sea Sediments Assessed Using DNA Metabarcoding.
+ 06.01.2021, _MB Ogaki, OHB Pinto, R Vieira, AA Neto, P Convey, M Carvalho-Silva, CA Rosa, PEAS Câmara, LH Rosa_
+
+
+We assessed fungal diversity in deep-sea sediments obtained from different depths in the Southern Ocean using the internal transcribed spacer 2 (ITS2) region of nuclear ribosomal DNA by metabarcoding through high-throughput sequencing (HTS). We detected 655,991 DNA reads representing 263 fungal amplicon sequence variants (ASVs), dominated by Ascomycota, Basidiomycota, Mortierellomycota, Mucoromycota, Chytridiomycota and Rozellomycota, confirming that deep-sea sediments can represent a hotspot of fungal diversity in Antarctica. The community diversity detected included 17 dominant fungal ASVs, 62 intermediate and 213 rare. The dominant fungi included taxa of Mortierella, Penicillium, Cladosporium, Pseudogymnoascus, Phaeosphaeria and Torula. Despite the extreme conditions of the Southern Ocean benthos, the total fungal community detected in these marine sediments displayed high indices of diversity and richness, and moderate dominance, which varied between the different depths sampled. The highest diversity indices were obtained in sediments from 550 m and 250 m depths. Only 49 ASVs (18.63%) were detected at all the depths sampled, while 16 ASVs were detected only in the deepest sediment sampled at 1463 m. Based on sequence identities, the fungal community included some globally distributed taxa, primarily recorded otherwise from terrestrial environments, suggesting transport from these to deep marine sediments. The assigned taxa included symbionts, decomposers and plant-, animal- and human-pathogenic fungi, suggesting that deep-sea sediments host a complex fungal diversity, although metabarcoding does not itself confirm that living or viable organisms are present.
 
 [Source](https://link.springer.com/article/10.1007/s00248-020-01658-8)
 
+10.1007/s00248-020-01658-8
+
 ---
 
-## Comparative analysis of impact of human occupancy on indoor microbiomes
+## Comparative analysis of impact of human occupancy on indoor microbiomes.
+ 12.01.2021, _L Cao, L Yang, CS Swanson, S Li, Q He_
+
+
+Educational facilities serve as community hubs and consequently hotspots for exposure to pathogenic microorganisms. Therefore, it is of critical importance to understand processes shaping the indoor microbiomes in educational facilities to protect public health by reducing potential exposure risks of students and the broader community. In this study, the indoor surface bacterial microbiomes were characterized in two multifunctional university buildings with contrasting levels of human occupancy, of which one was recently constructed with minimal human occupancy while the other had been in full operation for six years. Higher levels of human occupancy in the older building were shown to result in greater microbial abundance in the indoor environment and greater proportion of the indoor surface bacterial microbiomes contributed from human-associated microbiota, particularly the skin microbiota. It was further revealed that human-associated microbiota had greater influence on the indoor surface bacterial microbiomes in areas of high occupancy than areas of low occupancy. Consistent with minimal impact from human occupancy in a new construction, the indoor microbiomes in the new building exhibited significantly lower influence from human-associated microbiota than in the older building, with microbial taxa originating from soil and plants representing the dominant constituents of the indoor surface bacterial microbiomes. In contrast, microbial taxa in the older building with extensive human occupancy were represented by constituents of the human microbiota, likely from occupants. These findings provide insights into processes shaping the indoor microbiomes which will aid the development of effective strategies to control microbial exposure risks of occupants in educational facilities.
 
 [Source](https://link.springer.com/article/10.1007/s11783-020-1383-1)
 
+10.1007/s11783-020-1383-1
+
 ---
 
-## Re-purposing software for functional characterization of the microbiome
+## Re-purposing software for functional characterization of the microbiome.
+ 12.01.2021, _LJ Gardiner, N Haiminen, F Utro, L Parida, E Seabolt, R Krishna, JH Kaufman_
+
+
+Widespread bioinformatic resource development generates a constantly evolving and abundant landscape of workflows and software. For analysis of the microbiome, workflows typically begin with taxonomic classification of the microorganisms that are present in a given environment. Additional investigation is then required to uncover the functionality of the microbial community, in order to characterize its currently or potentially active biological processes. Such functional analysis of metagenomic data can be computationally demanding for high-throughput sequencing experiments. Instead, we can directly compare sequencing reads to a functionally annotated database. However, since reads frequently match multiple sequences equally well, analyses benefit from a hierarchical annotation tree, e.g. for taxonomic classification where reads are assigned to the lowest taxonomic unit.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00971-1)
+
+10.1186/s40168-020-00971-1
 
 ---
 
@@ -118,15 +136,38 @@ Continuous cropping of ginseng (Panax ginseng Meyer) cultivated in farmland for 
 
 ---
 
-## Meta-Apo improves accuracy of 16S-amplicon-based prediction of microbiome function
+## Meta-Apo improves accuracy of 16S-amplicon-based prediction of microbiome function.
+ 11.01.2021, _G Jing, Y Zhang, W Cui, L Liu, J Xu, X Su_
+
+
+Due to their much lower costs in experiment and computation than metagenomic whole-genome sequencing (WGS), 16S rRNA gene amplicons have been widely used for predicting the functional profiles of microbiome, via software tools such as PICRUSt 2. However, due to the potential PCR bias and gene profile variation among phylogenetically related genomes, functional profiles predicted from 16S amplicons may deviate from WGS-derived ones, resulting in misleading results.
 
 [Source](https://link.springer.com/article/10.1186/s12864-020-07307-1)
 
+10.1186/s12864-020-07307-1
+
 ---
 
-## Exploring protocol bias in airway microbiome studies: one versus two PCR steps and 16S rRNA gene region V3 V4 versus V4
+## Exploring protocol bias in airway microbiome studies: one versus two PCR steps and 16S rRNA gene region V3 V4 versus V4.
+ 05.01.2021, _C Drengenes, TML Eagan, I Haaland, HG Wiker, R Nielsen_
+
+
+Studies on the airway microbiome have been performed using a wide range of laboratory protocols for high-throughput sequencing of the bacterial 16S ribosomal RNA (16S rRNA) gene. We sought to determine the impact of number of polymerase chain reaction (PCR) steps (1- or 2- steps) and choice of target marker gene region (V3 V4 and V4) on the presentation of the upper and lower airway microbiome. Our analyses included lllumina MiSeq sequencing following three setups: Setup 1 (2-step PCR; V3 V4 region), Setup 2 (2-step PCR; V4 region), Setup 3 (1-step PCR; V4 region). Samples included oral wash, protected specimen brushes and protected bronchoalveolar lavage (healthy and obstructive lung disease), and negative controls.
 
 [Source](https://link.springer.com/article/10.1186/s12864-020-07252-z)
+
+10.1186/s12864-020-07252-z
+
+---
+
+## Publisher Correction: Quantitative image analysis of microbial communities with BiofilmQ.
+ 10.01.2021, _R Hartmann, H Jeckel, E Jelli, PK Singh, S Vaidya, M Bayer, DKH Rode, L Vidakovic, F Díaz-Pascual, JCN Fong, A Dragoš, O Lamprecht, JG Thöming, N Netter, S Häussler, CD Nadell, V Sourjik, ÁT Kovács, FH Yildiz, K Drescher_
+
+
+
+[Source](https://www.nature.com/articles/s41564-020-00817-4)
+
+10.1038/s41564-021-00863-6
 
 ---
 
