@@ -227,15 +227,9 @@ Phenomenological relations such as Ohm's or Fourier's law have a venerable histo
 
 ---
 
-## RefSeq: expanding the Prokaryotic Genome Annotation Pipeline reach with protein family model curation.
- 11.01.2021, _W Li, KR O'Neill, DH Haft, M DiCuccio, V Chetvernin, A Badretdin, G Coulouris, F Chitsaz, MK Derbyshire, AS Durkin, NR Gonzales, M Gwadz, CJ Lanczycki, JS Song, N Thanki, J Wang, RA Yamashita, M Yang, C Zheng, A Marchler-Bauer, F Thibaud-Nissen_
-
-
-The Reference Sequence (RefSeq) project at the National Center for Biotechnology Information (NCBI) contains nearly 200 000 bacterial and archaeal genomes and 150 million proteins with up-to-date annotation. Changes in the Prokaryotic Genome Annotation Pipeline (PGAP) since 2018 have resulted in a substantial reduction in spurious annotation. The hierarchical collection of protein family models (PFMs) used by PGAP as evidence for structural and functional annotation was expanded to over 35 000 protein profile hidden Markov models (HMMs), 12 300 BlastRules and 36 000 curated CDD architectures. As a result, &gt;122 million or 79% of RefSeq proteins are now named based on a match to a curated PFM. Gene symbols, Enzyme Commission numbers or supporting publication attributes are available on over 40% of the PFMs and are inherited by the proteins and features they name, facilitating multi-genome analyses and connections to the literature. In adherence with the principles of FAIR (findable, accessible, interoperable, reusable), the PFMs are available in the Protein Family Models Entrez database to any user. Finally, the reference and representative genome set, a taxonomically diverse subset of RefSeq prokaryotic genomes, is now recalculated regularly and available for download and homology searches with BLAST. RefSeq is found at https://www.ncbi.nlm.nih.gov/refseq/.
+## RefSeq: expanding the Prokaryotic Genome Annotation Pipeline reach with protein family model curation
 
 [Source](https://academic.oup.com/nar/article/49/D1/D1020/6018440)
-
-10.1093/nar/gkaa1105
 
 ---
 
