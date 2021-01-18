@@ -263,6 +263,18 @@ Phenomenological relations such as Ohm's or Fourier's law have a venerable histo
 
 ---
 
+## From biology to behavior: a cross-disciplinary seminar series surrounding added sugar and low-calorie sweetener consumption.
+ 30.09.2020, _AC Sylvetsky, A Hiedacavage, N Shah, P Pokorney, S Baldauf, K Merrigan, V Smith, MW Long, R Black, K Robien, N Avena, C Gaine, D Greenberg, MG Wootan, S Talegawkar, U Colon-Ramos, M Leahy, A Ohmes, JA Mennella, J Sacheck, WH Dietz_
+
+
+This report presents a synopsis of a three-part, cross-sector, seminar series held at the George Washington University (GWU) in Washington, DC from February-April, 2018. The overarching goal of the seminar series was to provide a neutral forum for diverse stakeholders to discuss and critically evaluate approaches to address added sugar intake, with a key focus on the role of low-calorie sweeteners (LCS).
+
+[Source](https://www.cssb-hamburg.de/news_amp_events/events/cssb_seminar_series___elisabeth_bik/index_eng.html)
+
+10.1002/osp4.334
+
+---
+
 ## SSB Seminar
 
 [Source](https://www.cssb-hamburg.de/news_amp_events/events/cssb_seminar_series___elisabeth_bik/index_eng.html)
@@ -272,6 +284,18 @@ Phenomenological relations such as Ohm's or Fourier's law have a venerable histo
 ## Geomicrobiology Network Seminar Series
 
 [Source](https://www.minersoc.org/gmbn-seminars.html)
+
+---
+
+## Pancreatic Cancer-Associated Diabetes is Clinically Distinguishable From Conventional Diabetes.
+ 16.01.2021, _BH Yoon, SM Ang, A Alabd, K Furlong, CJ Yeo, H Lavu, JM Winter_
+
+
+Type 3c diabetes mellitus (T3cDM) is diabetes secondary to other pancreatic diseases such as chronic pancreatitis, pancreatic resection, cystic fibrosis, and pancreatic ductal adenocarcinoma (PDA). Clinically, it may easily be confused with conventional type 2 diabetes mellitus (T2DM). A delay in pancreatic cancer diagnosis and treatment leads to a worse outcome. Therefore, early recognition of PDA-associated T3cDM and distinction from conventional T2DM represents an opportunity improve survival in patients with PDA.
+
+[Source](https://www.eventbrite.ca/e/ic-impacts-westalks-webinar-series-tickets-113842122854)
+
+10.1016/j.jss.2020.12.015
 
 ---
 
