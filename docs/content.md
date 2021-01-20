@@ -82,39 +82,21 @@ Within the last 6 years, a research field has emerged that focuses on the charac
 
 ---
 
-## Traditional Human Populations and Nonhuman Primates Show Parallel Gut Microbiome Adaptations to Analogous Ecological Conditions.
- 14.01.2021, _AK Sharma, K Petrzelkova, B Pafco, CA Jost Robinson, T Fuh, BA Wilson, RM Stumpf, MG Torralba, R Blekhman, B White, KE Nelson, SR Leigh, A Gomez_
-
-
-Compared with urban-industrial populations, small-scale human communities worldwide share a significant number of gut microbiome traits with nonhuman primates. This overlap is thought to be driven by analogous dietary triggers; however, the ecological and functional bases of this similarity are not fully understood. To start addressing this issue, fecal metagenomes of BaAka hunter-gatherers and traditional Bantu agriculturalists from the Central African Republic were profiled and compared with those of a sympatric western lowland gorilla group (Gorillagorilla gorilla) across two seasons of variable dietary intake. Results show that gorilla gut microbiomes shared similar functional traits with each human group, depending on seasonal dietary behavior. Specifically, parallel microbiome traits were observed between hunter-gatherers and gorillas when the latter consumed more structural polysaccharides during dry seasons, while small-scale agriculturalist and gorilla microbiomes showed significant functional overlap when gorillas consumed more seasonal ripe fruit during wet seasons. Notably, dominance of microbial transporters, transduction systems, and gut xenobiotic metabolism was observed in association with traditional agriculture and energy-dense diets in gorillas at the expense of a functional microbiome repertoire capable of metabolizing more complex polysaccharides. Differential abundance of bacterial taxa that typically distinguish traditional from industrialized human populations (e.g., Prevotella spp.) was also recapitulated in the human and gorilla groups studied, possibly reflecting the degree of polysaccharide complexity included in each group's dietary niche. These results show conserved functional gut microbiome adaptations to analogous diets in small-scale human populations and nonhuman primates, highlighting the role of plant dietary polysaccharides and diverse environmental exposures in this convergence.IMPORTANCE The results of this study highlight parallel gut microbiome traits in human and nonhuman primates, depending on subsistence strategy. Although these similarities have been reported before, the functional and ecological bases of this convergence are not fully understood. Here, we show that this parallelism is, in part, likely modulated by the complexity of plant carbohydrates consumed and by exposures to diverse xenobiotics of natural and artificial origin. Furthermore, we discuss how divergence from these parallel microbiome traits is typically associated with adverse health outcomes in human populations living under culturally westernized subsistence patterns. This is important information as we trace the specific dietary and environmental triggers associated with the loss and gain of microbial functions as humans adapt to various dietary niches.
+## Traditional Human Populations and Nonhuman Primates Show Parallel Gut Microbiome Adaptations to Analogous Ecological Conditions
 
 [Source](https://msystems.asm.org/content/5/6/e00815-20)
 
-10.1128/mSystems.00815-20
-
 ---
 
-## Heritable Gut Microbiome Associated with Salmonella enterica Serovar Pullorum Infection in Chickens.
- 06.01.2021, _J Ding, H Zhou, L Luo, L Xiao, K Yang, L Yang, Y Zheng, K Xu, C He, C Han, H Luo, C Qin, FT Akinyemi, C Gu, Z Zhou, Q Huang, H Meng_
-
-
-Pullorum disease is one of the most common diarrhea-related diseases caused by Salmonella enterica subspecies enterica serovar Gallinarum biovar Pullorum (S Pullorum); it negatively affects the poultry industry. However, limited studies have explored the association between the gut microbiota and S Pullorum infection in chickens. In the present study, we performed a microbiome comparison and a microbiome genome-wide association study (mGWAS) to investigate the association among the host genetics, the gut microbiota, and pullorum disease in chickens. We found that S Pullorum infection in chickens could alter the abundance of 39 bacterial genera (P &lt; 0.05). The altered structure and composition of the gut microbiota were also detected in the offspring. mGWAS results revealed host genetic variants to be prominently associated with gut microbial diversity and individual microbes. The pathogens Pelomonas and Brevundimonas, which had a high abundance in positive parent chickens and their offspring, were significantly associated with several genetic mutations in immunity-related genes, such as TGIF1, TTLL12, and CCR7 This finding explained why Pelomonas and Brevundimonas were heritable in S Pullorum-infected chickens. The heritable gut microbes and identified genetic variants could provide references for the selection of resistant chickens and the elimination of pullorum disease.IMPORTANCE The present study investigated the association among the host genome, the gut microbiome, and S Pullorum infection in chickens. The results suggested that the gut microbial structure is altered in S Pullorum-infected chickens. The diversity and abundance of the gut microbiota remarkably differed between the offspring coming from S Pullorum-positive and S Pullorum-negative chickens. Heritable gut microbiota were detected in the offspring. Moreover, host genetic variants were associated with microbial diversity and individual gut microbes. The pathogens Pelomonas and Brevundimonas, which exhibited a high heritability in S Pullorum-positive parents and their offspring, were associated with several genetic mutations in immunity-related genes.
+## Heritable Gut Microbiome Associated with Salmonella enterica Serovar Pullorum Infection in Chickens
 
 [Source](https://msystems.asm.org/content/6/1/e01192-20)
 
-10.1128/mSystems.01192-20
-
 ---
 
-## Bifidobacterium bifidum strains synergize with immune checkpoint inhibitors to reduce tumour burden in mice.
- 12.01.2021, _SH Lee, SY Cho, Y Yoon, C Park, J Sohn, JJ Jeong, BN Jeon, M Jang, C An, S Lee, YY Kim, G Kim, S Kim, Y Kim, GB Lee, EJ Lee, SG Kim, HS Kim, Y Kim, H Kim, HS Yang, S Kim, S Kim, H Chung, MH Moon, MH Nam, JY Kwon, S Won, JS Park, GM Weinstock, C Lee, KW Yoon, H Park_
-
-
-The gut microbiome can influence the development of tumours and the efficacy of cancer therapeutics1-5; however, the multi-omics characteristics of antitumour bacterial strains have not been fully elucidated. In this study, we integrated metagenomics, genomics and transcriptomics of bacteria, and analyses of mouse intestinal transcriptome and serum metabolome data to reveal an additional mechanism by which bacteria determine the efficacy of cancer therapeutics. In gut microbiome analyses of 96 samples from patients with non-small-cell lung cancer, Bifidobacterium bifidum was abundant in patients responsive to therapy. However, when we treated syngeneic mouse tumours with commercial strains of B. bifidum to establish relevance for potential therapeutic uses, only specific B. bifidum strains reduced tumour burden synergistically with PD-1 blockade or oxaliplatin treatment by eliciting an antitumour host immune response. In mice, these strains induced tuning of the immunological background by potentiating the production of interferon-γ, probably through the enhanced biosynthesis of immune-stimulating molecules and metabolites.
+## Bifidobacterium bifidum strains synergize with immune checkpoint inhibitors to reduce tumour burden in mice 
 
 [Source](https://www.nature.com/articles/s41564-020-00831-6)
-
-10.1038/s41564-020-00831-6
 
 ---
 
