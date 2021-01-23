@@ -1,12 +1,12 @@
-## Reducing Readmissions for Chronic Obstructive Pulmonary Disease in Response to the Hospital Readmissions Reduction Program.
- 21.01.2021, _LC Myers, R Cash, VX Liu, CA Camargo_
+## A Crystalline Three-Dimensional Covalent Organic Framework with Flexible Building Blocks.
+ 22.01.2021, _X Liu, J Li, B Gui, G Lin, Q Fu, S Yin, X Liu, J Sun, C Wang_
 
 
-In August 2013, the Hospital Readmission Reduction Program (HRRP) announced financial penalties on hospitals with higher-than-expected risk-adjusted 30-day readmission rates for Medicare beneficiaries hospitalized for chronic obstructive pulmonary disease (COPD) exacerbation. In October 2014, penalties were imposed. We hypothesized that penalties would be associated with decreased readmissions after COPD hospitalizations.
+The construction of three-dimensional covalent organic frameworks (3D COFs) has proven to be very challenging, as their synthetic driving force mainly comes from the formation of covalent bonds. To facilitate the synthesis, rigid building blocks are always the first choice for designing 3D COFs. In principle, it should be very appealing to construct 3D COFs from flexible building blocks, but there are some obstacles blocking the development of such systems, especially for the designed synthesis and structure determination. Herein, we reported a novel highly crystalline 3D COF (FCOF-5) with flexible C-O single bonds in the building block backbone. By merging 17 continuous rotation electron diffraction data sets, we successfully determined the crystal structure of FCOF-5 to be a 6-fold interpenetrated pts topology. Interestingly, FCOF-5 is flexible and can undergo reversible expansion/contraction upon vapor adsorption/desorption, indicating a breathing motion. Moreover, a smart soft polymer composite film with FCOF-5 was fabricated, which can show a reversible vapor-triggered shape transformation. Therefore, 3D COFs constructed from flexible building blocks can exhibit interesting breathing behavior, and finally, a totally new type of soft porous crystals made of pure organic framework was announced.
 
 [Source](http://blekhmanlab.org/join.html)
 
-10.1513/AnnalsATS.202007-786OC
+10.1021/jacs.0c12505
 
 ---
 
@@ -131,15 +131,27 @@ In recent years, many studies have described the composition and function of the
 
 ---
 
-## Real-time resolution of short-read assembly graph using ONT long reads
+## Real-time resolution of short-read assembly graph using ONT long reads.
+ 20.01.2021, _SH Nguyen, MD Cao, L Coin_
+
+
+A streaming assembly pipeline utilising real-time Oxford Nanopore Technology (ONT) sequencing data is important for saving sequencing resources and reducing time-to-result. A previous approach implemented in npScarf provided an efficient streaming algorithm for hybrid assembly but was relatively prone to mis-assemblies compared to other graph-based methods. Here we present npGraph, a streaming hybrid assembly tool using the assembly graph instead of the separated pre-assembly contigs. It is able to produce more complete genome assembly by resolving the path finding problem on the assembly graph using long reads as the traversing guide. Application to synthetic and real data from bacterial isolate genomes show improved accuracy while still maintaining a low computational cost. npGraph also provides a graphical user interface (GUI) which provides a real-time visualisation of the progress of assembly. The tool and source code is available at https://github.com/hsnguyen/assembly.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1008586)
 
+10.1371/journal.pcbi.1008586
+
 ---
 
-## Covariance matrix filtering with bootstrapped hierarchies
+## Covariance matrix filtering with bootstrapped hierarchies.
+ 14.01.2021, _C Bongiorno, D Challet_
+
+
+Cleaning covariance matrices is a highly non-trivial problem, yet of central importance in the statistical inference of dependence between objects. We propose here a probabilistic hierarchical clustering method, named Bootstrapped Average Hierarchical Clustering (BAHC), that is particularly effective in the high-dimensional case, i.e., when there are more objects than features. When applied to DNA microarray, our method yields distinct hierarchical structures that cannot be accounted for by usual hierarchical clustering. We then use global minimum-variance risk management to test our method and find that BAHC leads to significantly smaller realized risk compared to state-of-the-art linear and nonlinear filtering methods in the high-dimensional case. Spectral decomposition shows that BAHC better captures the persistence of the dependence structure between asset price returns in the calibration and the test periods.
 
 [Source](https://doi.org/10.1371/journal.pone.0245092)
+
+10.1371/journal.pone.0245092
 
 ---
 
