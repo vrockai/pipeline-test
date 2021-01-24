@@ -60,7 +60,7 @@ Some Bacteroidetes and other human colonic bacteria can degrade arabinoxylans, c
 ---
 
 ## The complexities of the diet-microbiome relationship: advances and perspectives.
- 21.01.2021, _ER Leeming, P Louca, R Gibson, C Menni, TD Spector, CI Le Roy_
+ 23.01.2021, _ER Leeming, P Louca, R Gibson, C Menni, TD Spector, CI Le Roy_
 
 
 Personalised dietary modulation of the gut microbiota may be key to disease management. Current investigations provide a broad understanding of the impact of diet on the composition and activity of the gut microbiota, yet detailed knowledge in applying diet as an actionable tool remains limited. Further to the relative novelty of the field, approaches are yet to be standardised and extremely heterogeneous research outcomes have ensued. This may be related to confounders associated with complexities in capturing an accurate representation of both diet and the gut microbiota. This review discusses the intricacies and current methodologies of diet-microbial relations, the implications and limitations of these investigative approaches, and future considerations that may assist in accelerating applications. New investigations should consider improved collection of dietary data, further characterisation of mechanistic interactions, and an increased focus on -omic technologies such as metabolomics to describe the bacterial and metabolic activity of food degradation, together with its crosstalk with the host. Furthermore, clinical evidence with health outcomes is required before therapeutic dietary strategies for microbial amelioration can be made. The potential to reach detailed understanding of diet-microbiota relations may depend on re-evaluation, progression, and unification of research methodologies, which consider the complexities of these interactions.
@@ -72,7 +72,7 @@ Personalised dietary modulation of the gut microbiota may be key to disease mana
 ---
 
 ## Understanding the host-microbe interactions using metabolic modeling.
- 21.01.2021, _J Jansma, S El Aidy_
+ 23.01.2021, _J Jansma, S El Aidy_
 
 
 The human gut harbors an enormous number of symbiotic microbes, which is vital for human health. However, interactions within the complex microbiota community and between the microbiota and its host are challenging to elucidate, limiting development in the treatment for a variety of diseases associated with microbiota dysbiosis. Using in silico simulation methods based on flux balance analysis, those interactions can be better investigated. Flux balance analysis uses an annotated genome-scale reconstruction of a metabolic network to determine the distribution of metabolic fluxes that represent the complete metabolism of a bacterium in a certain metabolic environment such as the gut. Simulation of a set of bacterial species in a shared metabolic environment can enable the study of the effect of numerous perturbations, such as dietary changes or addition of a probiotic species in a personalized manner. This review aims to introduce to experimental biologists the possible applications of flux balance analysis in the host-microbiota interaction field and discusses its potential use to improve human health. Video abstract.
