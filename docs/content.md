@@ -82,6 +82,18 @@ Microbiome studies of the lower airway based on bacterial 16S rRNA gene sequenci
 
 ---
 
+## The RNA helicase Dhx15 mediates Wnt-induced antimicrobial protein expression in Paneth cells.
+ 25.01.2021, _Y Wang, K He, B Sheng, X Lei, W Tao, X Zhu, Z Wei, R Fu, A Wang, S Bai, Z Zhang, N Hong, C Ye, Y Tian, J Wang, M Li, K Zhang, L Li, H Yang, HB Li, RA Flavell, S Zhu_
+
+
+RNA helicases play roles in various essential biological processes such as RNA splicing and editing. Recent in vitro studies show that RNA helicases are involved in immune responses toward viruses, serving as viral RNA sensors or immune signaling adaptors. However, there is still a lack of in vivo data to support the tissue- or cell-specific function of RNA helicases owing to the lethality of mice with complete knockout of RNA helicases; further, there is a lack of evidence about the antibacterial role of helicases. Here, we investigated the in vivo role of Dhx15 in intestinal antibacterial responses by generating mice that were intestinal epithelial cell (IEC)-specific deficient for Dhx15 (Dhx15 f/f Villin1-cre, Dhx15ΔIEC). These mice are susceptible to infection with enteric bacteria Citrobacter rodentium (C. rod), owing to impaired α-defensin production by Paneth cells. Moreover, mice with Paneth cell-specific depletion of Dhx15 (Dhx15 f/f Defensinα6-cre, Dhx15ΔPaneth) are more susceptible to DSS (dextran sodium sulfate)-induced colitis, which phenocopy Dhx15ΔIEC mice, due to the dysbiosis of the intestinal microbiota. In humans, reduced protein levels of Dhx15 are found in ulcerative colitis (UC) patients. Taken together, our findings identify a key regulator of Wnt-induced α-defensins in Paneth cells and offer insights into its role in the antimicrobial response as well as intestinal inflammation.
+
+[Source](https://doi.org/10.3390/v13010104)
+
+10.1073/pnas.2017432118
+
+---
+
 ## Enteric Viruses and Inflammatory Bowel Disease
 
 [Source](https://doi.org/10.3390/v13010104)
@@ -94,9 +106,15 @@ Microbiome studies of the lower airway based on bacterial 16S rRNA gene sequenci
 
 ---
 
-## MegaR: an interactive R package for rapid sample classification and phenotype prediction using metagenome profiles and machine learning
+## MegaR: an interactive R package for rapid sample classification and phenotype prediction using metagenome profiles and machine learning.
+ 22.01.2021, _E Dhungel, Y Mreyoud, HJ Gwak, A Rajeh, M Rho, TH Ahn_
+
+
+Diverse microbiome communities drive biogeochemical processes and evolution of animals in their ecosystems. Many microbiome projects have demonstrated the power of using metagenomics to understand the structures and factors influencing the function of the microbiomes in their environments. In order to characterize the effects from microbiome composition for human health, diseases, and even ecosystems, one must first understand the relationship of microbes and their environment in different samples. Running machine learning model with metagenomic sequencing data is encouraged for this purpose, but it is not an easy task to make an appropriate machine learning model for all diverse metagenomic datasets.
 
 [Source](https://doi.org/10.1186/s12859-020-03933-4)
+
+10.1186/s12859-020-03933-4
 
 ---
 
