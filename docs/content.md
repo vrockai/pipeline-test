@@ -94,9 +94,15 @@ Microbiome studies of the lower airway based on bacterial 16S rRNA gene sequenci
 
 ---
 
-## MegaR: an interactive R package for rapid sample classification and phenotype prediction using metagenome profiles and machine learning
+## MegaR: an interactive R package for rapid sample classification and phenotype prediction using metagenome profiles and machine learning.
+ 22.01.2021, _E Dhungel, Y Mreyoud, HJ Gwak, A Rajeh, M Rho, TH Ahn_
+
+
+Diverse microbiome communities drive biogeochemical processes and evolution of animals in their ecosystems. Many microbiome projects have demonstrated the power of using metagenomics to understand the structures and factors influencing the function of the microbiomes in their environments. In order to characterize the effects from microbiome composition for human health, diseases, and even ecosystems, one must first understand the relationship of microbes and their environment in different samples. Running machine learning model with metagenomic sequencing data is encouraged for this purpose, but it is not an easy task to make an appropriate machine learning model for all diverse metagenomic datasets.
 
 [Source](https://doi.org/10.1186/s12859-020-03933-4)
+
+10.1186/s12859-020-03933-4
 
 ---
 
