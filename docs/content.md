@@ -11,7 +11,7 @@ Personalised dietary modulation of the gut microbiota may be key to disease mana
 ---
 
 ## A mixed community of skin microbiome representatives influences cutaneous processes more than individual members.
- 26.01.2021, _KH Loomis, SK Wu, A Ernlund, K Zudock, A Reno, K Blount, DK Karig_
+ 27.01.2021, _KH Loomis, SK Wu, A Ernlund, K Zudock, A Reno, K Blount, DK Karig_
 
 
 Skin, the largest organ of the human body by weight, hosts a diversity of microorganisms that can influence health. The microbial residents of the skin are now appreciated for their roles in host immune interactions, wound healing, colonization resistance, and various skin disorders. Still, much remains to be discovered in terms of the host pathways influenced by skin microorganisms, as well as the higher-level skin properties impacted through these microbe-host interactions. Towards this direction, recent efforts using mouse models point to pronounced changes in the transcriptional profiles of the skin in response to the presence of a microbial community. However, there is a need to quantify the roles of microorganisms at both the individual and community-level in healthy human skin. In this study, we utilize human skin equivalents to study the effects of individual taxa and a microbial community in a precisely controlled context. Through transcriptomics analysis, we identify key genes and pathways influenced by skin microbes, and we also characterize higher-level impacts on skin processes and properties through histological analyses.
@@ -60,7 +60,7 @@ Type 2 diabetes is the fastest-growing metabolic disease in the world. Many clin
 ---
 
 ## Seasonal shifts in the gut microbiome indicate plastic responses to diet in wild geladas.
- 24.01.2021, _A Baniel, KR Amato, JC Beehner, TJ Bergman, A Mercer, RF Perlman, L Petrullo, L Reitsema, S Sams, A Lu, N Snyder-Mackler_
+ 27.01.2021, _A Baniel, KR Amato, JC Beehner, TJ Bergman, A Mercer, RF Perlman, L Petrullo, L Reitsema, S Sams, A Lu, N Snyder-Mackler_
 
 
 Adaptive shifts in gut microbiome composition are one route by which animals adapt to seasonal changes in food availability and diet. However, outside of dietary shifts, other potential environmental drivers of gut microbial composition have rarely been investigated, particularly in organisms living in their natural environments.
@@ -96,7 +96,7 @@ Anthropogenic activities especially water pollution can affect the diversity and
 ---
 
 ## Microdiversity and phylogeographic diversification of bacterioplankton in pelagic freshwater systems revealed through long-read amplicon sequencing.
- 26.01.2021, _Y Okazaki, S Fujinaga, MM Salcher, C Callieri, A Tanaka, A Kohzu, H Oyagi, H Tamaki, SI Nakano_
+ 27.01.2021, _Y Okazaki, S Fujinaga, MM Salcher, C Callieri, A Tanaka, A Kohzu, H Oyagi, H Tamaki, SI Nakano_
 
 
 Freshwater ecosystems are inhabited by members of cosmopolitan bacterioplankton lineages despite the disconnected nature of these habitats. The lineages are delineated based on &gt; 97% 16S rRNA gene sequence similarity, but their intra-lineage microdiversity and phylogeography, which are key to understanding the eco-evolutional processes behind their ubiquity, remain unresolved. Here, we applied long-read amplicon sequencing targeting nearly full-length 16S rRNA genes and the adjacent ribosomal internal transcribed spacer sequences to reveal the intra-lineage diversities of pelagic bacterioplankton assemblages in 11 deep freshwater lakes in Japan and Europe.
@@ -108,7 +108,7 @@ Freshwater ecosystems are inhabited by members of cosmopolitan bacterioplankton 
 ---
 
 ## Microbiota entrapped in recently-formed ice: Paradana Ice Cave, Slovenia.
- 22.01.2021, _J Mulec, A Oarga-Mulec, L Holko, L Pašić, AN Kopitar, T Eleršek, A Mihevc_
+ 27.01.2021, _J Mulec, A Oarga-Mulec, L Holko, L Pašić, AN Kopitar, T Eleršek, A Mihevc_
 
 
 Paradana is one of the biggest ice caves in Slovenia, with an estimated ice volume of 8,000 m3. Reflecting climatological conditions, the cave ice undergoes repeated freeze-thaw cycles and regular yearly deposition of fresh ice. Three distinct ice block samples, collected from the frozen lake in May 2016, were analysed to obtain data on ice physicochemical properties and the composition of associated microbiota. Isotopic composition of the ice samples (18O, 2H) and a local meteoric water line (LMWL) constructed for monthly precipitation at Postojna were used to estimate the isotopic composition of the water that formed the ice, which had high values of deuterium excess and low concentrations of chloride, sulphate and nitrate. The values of total organic carbon (1.93-3.95 mg/l) within the ice blocks fall within the range of those measured in karst streams. Total cell count in the ice was high and the proportion of cell viability increased along the depth gradient and ranged from 4.67 × 104 to 1.52 × 105 cells/ml and from 51.0 to 85.4%, respectively. Proteobacteria represented the core of the cave-ice microbiome (55.9-79.1%), and probably play an essential role in this ecosystem. Actinobacteria was the second most abundant phylum (12.0-31.4%), followed in abundance by Bacteroidetes (2.8-4.3%). Ice phylotypes recorded amounted to 442 genera, but only 43 genera had abundances greater than 0.5%. Most abundant were Pseudomonas, a well-known ice dweller, and Lysobacter, which previously was not reported in this context. Finally, two xanthophytes, Chloridella glacialis and Ellipsoidion perminimum, known from polar environments, were cultured from the ice. This indicates that the abundance and ecological role of phototrophs in such environments might be greater than previously deduced.
