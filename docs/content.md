@@ -29,7 +29,7 @@ The gut microbiota has been shown to play a role in energy metabolism of the hos
 ---
 
 ## Umbilical cord blood metabolome differs in relation to delivery mode, birth order and sex, maternal diet and possibly future allergy development in rural children.
- 27.01.2021, _AB Ross, M Barman, O Hartvigsson, AC Lundell, O Savolainen, B Hesselmar, AE Wold, AS Sandberg_
+ 29.01.2021, _AB Ross, M Barman, O Hartvigsson, AC Lundell, O Savolainen, B Hesselmar, AE Wold, AS Sandberg_
 
 
 Allergy is one of the most common diseases among young children yet all factors that affect development of allergy remain unclear. In a small cohort of 65 children living in the same rural area of south-west Sweden, we have previously found that maternal factors, including prenatal diet, affect childhood allergy risk, suggesting that in utero conditions may be important for allergy development. Here, we studied if metabolites in the umbilical cord blood of newborns may be related to development of childhood allergy, accounting for key perinatal factors such as mode of delivery, birth order and sex. Available umbilical cord blood plasma samples from 44 of the participants were analysed using gas chromatography-mass spectrometry metabolomics; allergy was diagnosed by specialised paediatricians at ages 18 months, 3 years and 8 years and included eczema, asthma, food allergy and allergic rhinoconjunctivitis. Nineteen cord blood metabolites were related to future allergy diagnosis though there was no clear pattern of up- or downregulation of metabolic pathways. In contrast, perinatal factors birth order, sex and mode of delivery affected several energy and biosynthetic pathways, including glutamate and aspartic acid-histidine metabolism (p = 0.004) and the tricarboxylic acid cycle (p = 0.006) for birth order; branched chain amino acid metabolism (p = 0.0009) and vitamin B6 metabolism (p = 0.01) for sex; and glyoxylate and dicarboxylic acid metabolism (p = 0.005) for mode of delivery. Maternal diet was also related to some of the metabolites associated with allergy. In conclusion, the cord blood metabolome includes individual metabolites that reflect lifestyle, microbial and other factors that may be associated with future allergy diagnosis, and also reflects temporally close events/factors. Larger studies are required to confirm these associations, and perinatal factors such as birth order or siblings must be considered in future cord-blood metabolome studies.
@@ -53,7 +53,7 @@ Gut microbiota is known to be transferred from the mother to their offspring. Th
 ---
 
 ## Diet-induced changes in bacterial communities in the jejunum and their associations with bile acids in Angus beef cattle.
- 27.01.2021, _J Liu, F Liu, W Cai, C Jia, Y Bai, Y He, W Zhu, RW Li, J Song_
+ 29.01.2021, _J Liu, F Liu, W Cai, C Jia, Y Bai, Y He, W Zhu, RW Li, J Song_
 
 
 The small intestine, while serving as the main absorption organ, also possesses a unique bacterial environment and holds the critical function of conversion of primary bile acids. Bile acids are, in turn, able to regulate bacterial composition and promote the growth of bacteria that convert primary bile acids to secondary bile acids. However, in beef cattle, few studies have explored the influence of diets on jejunal bacterial communities and examined its relationships with bile acids. Here, we examined the impact of grain- and grass-based diets on jejunal and fecal bacterial communities' composition and investigated possible association of bacterial features with bile acids.
