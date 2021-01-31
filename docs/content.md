@@ -53,7 +53,7 @@ Gut microbiota is known to be transferred from the mother to their offspring. Th
 ---
 
 ## Diet-induced changes in bacterial communities in the jejunum and their associations with bile acids in Angus beef cattle.
- 29.01.2021, _J Liu, F Liu, W Cai, C Jia, Y Bai, Y He, W Zhu, RW Li, J Song_
+ 30.01.2021, _J Liu, F Liu, W Cai, C Jia, Y Bai, Y He, W Zhu, RW Li, J Song_
 
 
 The small intestine, while serving as the main absorption organ, also possesses a unique bacterial environment and holds the critical function of conversion of primary bile acids. Bile acids are, in turn, able to regulate bacterial composition and promote the growth of bacteria that convert primary bile acids to secondary bile acids. However, in beef cattle, few studies have explored the influence of diets on jejunal bacterial communities and examined its relationships with bile acids. Here, we examined the impact of grain- and grass-based diets on jejunal and fecal bacterial communities' composition and investigated possible association of bacterial features with bile acids.
