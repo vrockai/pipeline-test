@@ -202,9 +202,15 @@ Bacterial communities in cold-desert habitats play an important ecological role.
 
 ---
 
-## In vitro infection models to study fungal-host interaction
+## In vitro infection models to study fungal-host interactions.
+ 01.02.2021, _A Last, M Maurer, AS Mosig, MS Gresnigt, B Hube_
+
+
+Fungal infections (mycoses) affect over a billion people per year. Approximately two million of these infections are life-threatening, especially for patients with a compromised immune system. Fungi of the genera Aspergillus, Candida, Histoplasma, and Cryptococcus are opportunistic pathogens that contribute to a substantial number of mycoses. To optimize the diagnosis and treatment of mycoses, we need to understand the complex fungal-host interplay during pathogenesis, the fungal attributes causing virulence, and how the host resists infection via immunological defenses. In vitro models can be used to mimic fungal infections of various tissues and organs and the corresponding immune responses at near-physiological conditions. Furthermore, models can include fungal interactions with the host-microbiota to mimic the in vivo situation on skin and mucosal surfaces. This article reviews currently used in vitro models of fungal infections ranging from cell monolayers to microfluidic 3D organ-on-chip (OOC) platforms. We also discuss how OOC models can expand the toolbox for investigating interactions of fungi and their human hosts in the future.
 
 [Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuab005/6125970)
+
+10.1093/femsre/fuab005
 
 ---
 
