@@ -112,9 +112,15 @@ There are increasing data about the role of the gut microbiome in various autoim
 
 ---
 
-## Recovery of freshwater microbial communities after extreme rain events is mediated by cyclic succession
+## Recovery of freshwater microbial communities after extreme rain events is mediated by cyclic succession.
+ 29.01.2021, _T Shabarova, MM Salcher, P Porcal, P Znachor, J Nedoma, HP Grossart, J Seďa, J Hejzlar, K Šimek_
+
+
+Small lakes and ponds occupy an enormous surface area of inland freshwater and represent an important terrestrial-water interface. Disturbances caused by extreme weather events can have substantial effects on these ecosystems. Here, we analysed the dynamics of nutrients and the entire plankton community in two flood events and afterwards, when quasi-stable conditions were established, to investigate the effect of such disturbances on a small forest pond. We show that floodings result in repeated washout of resident organisms and hundredfold increases in nutrient load. Despite this, the microbial community recovers to a predisturbance state within two weeks of flooding through four well-defined succession phases. Reassembly of phytoplankton and especially zooplankton takes up to two times longer and features repetitive and adaptive patterns. Release of dissolved nutrients from the pond is associated with inflow rates and community recovery, and returns to predisturbance levels before microbial compositions recover. Our findings shed light on the mechanisms underlying functional resilience of small waterbodies and are relevant to global change-induced increases in weather extremes.
 
 [Source](https://www.nature.com/articles/s41564-020-00852-1)
+
+10.1038/s41564-020-00852-1
 
 ---
 
