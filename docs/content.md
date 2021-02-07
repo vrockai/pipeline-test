@@ -76,6 +76,18 @@ There are increasing data about the role of the gut microbiome in various autoim
 
 ---
 
+## A Novel Carboxylesterase Derived from a Compost Metagenome Exhibiting High Stability and Activity towards High Salinity.
+ 27.01.2021, _M Lu, R Daniel_
+
+
+Halotolerant lipolytic enzymes have gained growing interest, due to potential applications under harsh conditions, such as hypersalinity and presence of organic solvents. In this study, a lipolytic gene, est56, encoding 287 amino acids was identified by functional screening of a compost metagenome. Subsequently, the gene was heterologously expressed, and the recombinant protein (Est56) was purified and characterized. Est56 is a mesophilic (Topt 50 °C) and moderate alkaliphilic (pHopt 8) enzyme, showing high thermostability at 30 and 40 °C. Strikingly, Est56 is halotolerant as it exhibited high activity and stability in the presence of up to 4 M NaCl or KCl. Est56 also displayed enhanced stability against high temperatures (50 and 60 °C) and urea (2, 4, and 6 M) in the presence of NaCl. In addition, the recently reported halotolerant lipolytic enzymes were summarized. Phylogenetic analysis grouped these enzymes into 13 lipolytic protein families. The majority (45%) including Est56 belonged to family IV. To explore the haloadaptation of halotolerant enzymes, the amino acid composition between halotolerant and halophilic enzymes was statistically compared. The most distinctive feature of halophilic from non-halophilic enzymes are the higher content of acidic residues (Asp and Glu), and a lower content of lysine, aliphatic hydrophobic (Leu, Met and Ile) and polar (Asn) residues. The amino acid composition and 3-D structure analysis suggested that the high content of acidic residues (Asp and Glu, 12.2%) and low content of lysine residues (0.7%), as well as the excess of surface-exposed acidic residues might be responsible for the haloadaptation of Est56.
+
+[Source](https://search.proquest.com/openview/89cf94b8ccc6a9cf9cefc2f9fbf9bf72/1)
+
+10.3390/genes12010122
+
+---
+
 ## A novel carboxylesterase derived from a compost metagenome exhibiting high stability and activity towards high salinity
 
 [Source](https://search.proquest.com/openview/89cf94b8ccc6a9cf9cefc2f9fbf9bf72/1)
@@ -112,15 +124,9 @@ There are increasing data about the role of the gut microbiome in various autoim
 
 ---
 
-## Recovery of freshwater microbial communities after extreme rain events is mediated by cyclic succession.
- 29.01.2021, _T Shabarova, MM Salcher, P Porcal, P Znachor, J Nedoma, HP Grossart, J Seďa, J Hejzlar, K Šimek_
-
-
-Small lakes and ponds occupy an enormous surface area of inland freshwater and represent an important terrestrial-water interface. Disturbances caused by extreme weather events can have substantial effects on these ecosystems. Here, we analysed the dynamics of nutrients and the entire plankton community in two flood events and afterwards, when quasi-stable conditions were established, to investigate the effect of such disturbances on a small forest pond. We show that floodings result in repeated washout of resident organisms and hundredfold increases in nutrient load. Despite this, the microbial community recovers to a predisturbance state within two weeks of flooding through four well-defined succession phases. Reassembly of phytoplankton and especially zooplankton takes up to two times longer and features repetitive and adaptive patterns. Release of dissolved nutrients from the pond is associated with inflow rates and community recovery, and returns to predisturbance levels before microbial compositions recover. Our findings shed light on the mechanisms underlying functional resilience of small waterbodies and are relevant to global change-induced increases in weather extremes.
+## Recovery of freshwater microbial communities after extreme rain events is mediated by cyclic succession
 
 [Source](https://www.nature.com/articles/s41564-020-00852-1)
-
-10.1038/s41564-020-00852-1
 
 ---
 
