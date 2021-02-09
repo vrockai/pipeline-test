@@ -195,27 +195,15 @@ Tenofovir and entecavir are currently designated as the preferred oral antiviral
 
 ---
 
-## Effects of dietary oregano essential oil supplementation on growth performance, intestinal antioxidative capacity, immunity and intestinal microbiota in yellow-feathered chickens.
- 05.02.2021, _D Ruan, Q Fan, AM Fouad, Y Sun, S Huang, A Wu, C Lin, Z Kuang, C Zhang, S Jiang_
-
-
-Essential oils are plant-derived aromatic volatile oils and they contain bioactive compounds which have been shown to improve poultry nutrition. In this study we investigated the effects of oregano essential oil (OEO) on intestinal antioxidative capacity, immunity, and gut microbiota of young yellow-feathered chickens. A total of 960 1-d-old female Qingyuan partridge chickens were randomly allocated to 4 treatment groups with 6 replicates of 40 birds each and the feeding trial was lasted for 30 d. The controls were fed on a basal diet without in-feed antibiotics; The birds in the antibiotic group were fed the basal diet supplemented with 20 mg/kg virginiamycin; the remaining birds were fed the basal diet containing 150 or 300 mg/kg OEO, respectively. Dietary supplementation with 150 or 300 mg/kg OEO increased ADFI (P = 0.057) and ADG (P &lt; 0.05). The activities of glutathione peroxidase and total antioxidative capacity in plasma, jejunal and ileal mucosa were increased by OEO supplementation (P &lt; 0.05), with a trend of lower jejunal content of malonaldehyde (P = 0.062). Moreover, dietary OEO increased the content of secretory immunoglobulin A (P = 0.078) and the relative expression of Claudin 1, Mucin 2 and Avain beta-defensin 1 in ileum (P &lt; 0.05). Sequencing data of 16S rRNA indicated that dietary OEO increased the relative abundance of Firmicutes phylum, and Clostridium and Lactobacillus genera, and decreasing that of Romboutsia. Functional analyses indicated that microbial amino sugar and nucleotide sugar metabolism, replication and repair systems were higher in OEO groups than those of controls and antibiotic treatment. In conclusion, dietary supplementation with OEO enhanced growth performance, alleviated local oxidative stress in intestine, improved production of natural antibodies, and favorably modulated intestinal microbiota composition.
+## Effects of dietary oregano essential oil supplementation on growth performance, intestinal antioxidative capacity, immunity and intestinal microbiota in yellow-feathered chickens
 
 [Source](https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skab033/6129279?searchresult=1)
 
-10.1093/jas/skab033
-
 ---
 
-## Composition and acquisition of the microbiome in solitary, ground-nesting alkali bees.
- 05.02.2021, _KM Kapheim, MM Johnson, M Jolley_
-
-
-Increasing evidence suggests the microbiome plays an important role in bee ecology and health. However, the relationship between bees and their bacterial symbionts has only been explored in a handful of species. We characterized the microbiome across the life cycle of solitary, ground-nesting alkali bees (Nomia melanderi). We find that feeding status is a major determinant of microbiome composition. The microbiome of feeding larvae was similar to that of pollen provisions, but the microbiome of post-feeding larvae (pre-pupae) was similar to that of the brood cell walls and newly-emerged females. Feeding larvae and pollen provisions had the lowest beta diversity, suggesting the composition of larval diet is highly uniform. Comparisons between lab-reared, newly-emerged, and nesting adult females suggest that the hindgut bacterial community is largely shaped by the external environment. However, we also identified taxa that are likely acquired in the nest or which increase or decrease in relative abundance with age. Although Lactobacillus micheneri was highly prevalent in pollen provisions, it was only detected in one lab-reared female, suggesting it is primarily acquired from environmental sources. These results provide the foundation for future research on metagenomic function and development of probiotics for these native pollinators.
+## Composition and acquisition of the microbiome in solitary, ground-nesting alkali bees 
 
 [Source](https://www.nature.com/articles/s41598-021-82573-x)
-
-10.1038/s41598-021-82573-x
 
 ---
 
@@ -225,27 +213,15 @@ Increasing evidence suggests the microbiome plays an important role in bee ecolo
 
 ---
 
-## Prebiotic dietary fibre intervention improves fecal markers related to inflammation in obese patients: results from the Food4Gut randomized placebo-controlled trial.
- 05.02.2021, _AM Neyrinck, J Rodriguez, Z Zhang, B Seethaler, CR Sánchez, M Roumain, S Hiel, LB Bindels, PD Cani, N Paquot, M Cnop, JA Nazare, M Laville, GG Muccioli, SC Bischoff, J Walter, JP Thissen, NM Delzenne_
-
-
-Inulin-type fructans (ITF) are prebiotic dietary fibre (DF) that may confer beneficial health effects, by interacting with the gut microbiota. We have tested the hypothesis that a dietary intervention promoting inulin intake versus placebo influences fecal microbial-derived metabolites and markers related to gut integrity and inflammation in obese patients.
+## Prebiotic dietary fibre intervention improves fecal markers related to inflammation in obese patients: results from the Food4Gut randomized placebo-controlled trial
 
 [Source](https://link.springer.com/article/10.1007%2Fs00394-021-02484-5)
 
-10.1007/s00394-021-02484-5
-
 ---
 
-## Reduced tillage, cover crops and organic amendments affect soil microbiota and improve soil health in Uruguayan vegetable farming systems.
- 06.02.2021, _V Cerecetto, K Smalla, J Nesme, S Garaycochea, P Fresia, SJ Sørensen, D Babin, C Leoni_
-
-
-Conventional tillage and mineral fertilization (CTMF) jeopardize soil health in conventional vegetable production systems. Using a field experiment established in Uruguay in 2012, we aimed to compare the soil restoration potential of organic fertilization (compost, poultry manure) combined with conventional tillage and cover crop incorporated into the soil (CTOF) or with reduced tillage and the use of cover crop as mulch (RTOF). In 2017 table beet was cultivated under CTMF, CTOF and RTOF, and yields, soil aggregate composition and nutrients, as well as soil and table beet rhizosphere microbiota (here: bacteria and archaea) were evaluated. Microbiota was studied by high-throughput sequencing of 16S rRNA gene fragments amplified from total community DNA. RTOF exhibited higher soil aggregation, soil organic C, nutrient availability and microbial alpha-diversity than CTMF, and became more similar to an adjacent natural undisturbed site. The soil microbiota was strongly shaped by the fertilization source which was conveyed to the rhizosphere and resulted in differentially abundant taxa. However, 229 amplicon sequencing variants were found to form the core table beet rhizosphere microbiota shared among managements. In conclusion, our study shows that after only five years of implementation, RTOF improves soil health under intensive vegetable farming systems.
+## Reduced tillage, cover crops and organic amendments affect soil microbiota and improve soil health in Uruguayan vegetable farming systems
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/33547893/)
-
-10.1093/femsec/fiab023
 
 ---
 
