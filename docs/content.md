@@ -11,7 +11,7 @@ The gastrointestinal tract is densely innervated by a complex network of neurons
 ---
 
 ## The Role of the Gut Microbiome, Immunity, and Neuroinflammation in the Pathophysiology of Eating Disorders.
- 06.02.2021, _MJ Butler, AA Perrini, LA Eckel_
+ 08.02.2021, _MJ Butler, AA Perrini, LA Eckel_
 
 
 There is a growing recognition that both the gut microbiome and the immune system are involved in a number of psychiatric illnesses, including eating disorders. This should come as no surprise, given the important roles of diet composition, eating patterns, and daily caloric intake in modulating both biological systems. Here, we review the evidence that alterations in the gut microbiome and immune system may serve not only to maintain and exacerbate dysregulated eating behavior, characterized by caloric restriction in anorexia nervosa and binge eating in bulimia nervosa and binge eating disorder, but may also serve as biomarkers of increased risk for developing an eating disorder. We focus on studies examining gut dysbiosis, peripheral inflammation, and neuroinflammation in each of these eating disorders, and explore the available data from preclinical rodent models of anorexia and binge-like eating that may be useful in providing a better understanding of the biological mechanisms underlying eating disorders. Such knowledge is critical to developing novel, highly effective treatments for these often intractable and unremitting eating disorders.
@@ -47,7 +47,7 @@ In this paper we compared taxonomic results obtained by metataxonomics (16S rRNA
 ---
 
 ## Modulating gut microbiota to treat cancer.
- 05.02.2021, _CH Woelk, A Snyder_
+ 08.02.2021, _CH Woelk, A Snyder_
 
 
 
@@ -70,7 +70,7 @@ The discovery that gut-microbiota plays a profound role in human health has open
 ---
 
 ## Fecal microbiota transplant overcomes resistance to anti-PD-1 therapy in melanoma patients.
- 05.02.2021, _D Davar, AK Dzutsev, JA McCulloch, RR Rodrigues, JM Chauvin, RM Morrison, RN Deblasio, C Menna, Q Ding, O Pagliano, B Zidi, S Zhang, JH Badger, M Vetizou, AM Cole, MR Fernandes, S Prescott, RGF Costa, AK Balaji, A Morgun, I Vujkovic-Cvijin, H Wang, AA Borhani, MB Schwartz, HM Dubner, SJ Ernst, A Rose, YG Najjar, Y Belkaid, JM Kirkwood, G Trinchieri, HM Zarour_
+ 08.02.2021, _D Davar, AK Dzutsev, JA McCulloch, RR Rodrigues, JM Chauvin, RM Morrison, RN Deblasio, C Menna, Q Ding, O Pagliano, B Zidi, S Zhang, JH Badger, M Vetizou, AM Cole, MR Fernandes, S Prescott, RGF Costa, AK Balaji, A Morgun, I Vujkovic-Cvijin, H Wang, AA Borhani, MB Schwartz, HM Dubner, SJ Ernst, A Rose, YG Najjar, Y Belkaid, JM Kirkwood, G Trinchieri, HM Zarour_
 
 
 Anti-programmed cell death protein 1 (PD-1) therapy provides long-term clinical benefits to patients with advanced melanoma. The composition of the gut microbiota correlates with anti-PD-1 efficacy in preclinical models and cancer patients. To investigate whether resistance to anti-PD-1 can be overcome by changing the gut microbiota, this clinical trial evaluated the safety and efficacy of responder-derived fecal microbiota transplantation (FMT) together with anti-PD-1 in patients with PD-1-refractory melanoma. This combination was well tolerated, provided clinical benefit in 6 of 15 patients, and induced rapid and durable microbiota perturbation. Responders exhibited increased abundance of taxa that were previously shown to be associated with response to anti-PD-1, increased CD8+ T cell activation, and decreased frequency of interleukin-8-expressing myeloid cells. Responders had distinct proteomic and metabolomic signatures, and transkingdom network analyses confirmed that the gut microbiome regulated these changes. Collectively, our findings show that FMT and anti-PD-1 changed the gut microbiome and reprogrammed the tumor microenvironment to overcome resistance to anti-PD-1 in a subset of PD-1 advanced melanoma.
@@ -82,7 +82,7 @@ Anti-programmed cell death protein 1 (PD-1) therapy provides long-term clinical 
 ---
 
 ## Fecal microbiota transplant promotes response in immunotherapy-refractory melanoma patients.
- 05.02.2021, _EN Baruch, I Youngster, G Ben-Betzalel, R Ortenberg, A Lahat, L Katz, K Adler, D Dick-Necula, S Raskin, N Bloch, D Rotin, L Anafi, C Avivi, J Melnichenko, Y Steinberg-Silman, R Mamtani, H Harati, N Asher, R Shapira-Frommer, T Brosh-Nissimov, Y Eshet, S Ben-Simon, O Ziv, MAW Khan, M Amit, NJ Ajami, I Barshack, J Schachter, JA Wargo, O Koren, G Markel, B Boursi_
+ 08.02.2021, _EN Baruch, I Youngster, G Ben-Betzalel, R Ortenberg, A Lahat, L Katz, K Adler, D Dick-Necula, S Raskin, N Bloch, D Rotin, L Anafi, C Avivi, J Melnichenko, Y Steinberg-Silman, R Mamtani, H Harati, N Asher, R Shapira-Frommer, T Brosh-Nissimov, Y Eshet, S Ben-Simon, O Ziv, MAW Khan, M Amit, NJ Ajami, I Barshack, J Schachter, JA Wargo, O Koren, G Markel, B Boursi_
 
 
 The gut microbiome has been shown to influence the response of tumors to anti-PD-1 (programmed cell death-1) immunotherapy in preclinical mouse models and observational patient cohorts. However, modulation of gut microbiota in cancer patients has not been investigated in clinical trials. In this study, we performed a phase 1 clinical trial to assess the safety and feasibility of fecal microbiota transplantation (FMT) and reinduction of anti-PD-1 immunotherapy in 10 patients with anti-PD-1-refractory metastatic melanoma. We observed clinical responses in three patients, including two partial responses and one complete response. Notably, treatment with FMT was associated with favorable changes in immune cell infiltrates and gene expression profiles in both the gut lamina propria and the tumor microenvironment. These early findings have implications for modulating the gut microbiota in cancer treatment.
@@ -94,7 +94,7 @@ The gut microbiome has been shown to influence the response of tumors to anti-PD
 ---
 
 ## Components of a Neanderthal gut microbiome recovered from fecal sediments from El Salt.
- 06.02.2021, _S Rampelli, S Turroni, C Mallol, C Hernandez, B Galván, A Sistiaga, E Biagi, A Astolfi, P Brigidi, S Benazzi, CM Lewis, C Warinner, CA Hofman, SL Schnorr, M Candela_
+ 08.02.2021, _S Rampelli, S Turroni, C Mallol, C Hernandez, B Galván, A Sistiaga, E Biagi, A Astolfi, P Brigidi, S Benazzi, CM Lewis, C Warinner, CA Hofman, SL Schnorr, M Candela_
 
 
 A comprehensive view of our evolutionary history cannot ignore the ancestral features of our gut microbiota. To provide some glimpse into the past, we searched for human gut microbiome components in ancient DNA from 14 archeological sediments spanning four stratigraphic units of El Salt Middle Paleolithic site (Spain), including layers of unit X, which has yielded well-preserved Neanderthal occupation deposits dating around 50 kya. According to our findings, bacterial genera belonging to families known to be part of the modern human gut microbiome are abundantly represented only across unit X samples, showing that well-known beneficial gut commensals, such as Blautia, Dorea, Roseburia, Ruminococcus, Faecalibacterium and Bifidobacterium already populated the intestinal microbiome of Homo since as far back as the last common ancestor between humans and Neanderthals.
@@ -106,7 +106,7 @@ A comprehensive view of our evolutionary history cannot ignore the ancestral fea
 ---
 
 ## Meta-omics characteristics of intestinal microbiota associated to HBeAg seroconversion induced by oral antiviral therapy.
- 06.02.2021, _YL Zeng, L Qin, WJ Wei, H Cai, XF Yu, W Zhang, XL Wu, XB Liu, WM Chen, P You, MZ Hong, Y Liu, X Dong, BC Shia, JJ Niu, JS Pan_
+ 08.02.2021, _YL Zeng, L Qin, WJ Wei, H Cai, XF Yu, W Zhang, XL Wu, XB Liu, WM Chen, P You, MZ Hong, Y Liu, X Dong, BC Shia, JJ Niu, JS Pan_
 
 
 Tenofovir and entecavir are currently designated as the preferred oral antiviral drugs for chronic hepatitis B. However, only less than 40% of patients can achieve HBeAg seroconversion. We aim at investigating the role of intestinal microbiome in HBeAg seroconversion induced by oral antiviral therapy and describe multi-omics characteristics of HBeAg seroconversion associated intestinal flora. In this study, we prospectively collected fecal samples at baseline from the patients with HBeAg positive chronic hepatitis B who would have oral antiviral therapy. 16S rDNA sequencing and metabolomics were performed. We identified HBeAg seroconversion-related microbial signature and constructed prediction model for HBeAg seroconversion. Thirty-seven of these subjects achieved HBeAg seroconversion within 156 weeks after the initiation of oral antiviral therapy, while 41 subjects remained HBeAg positive even after over 156 weeks of therapy. A computational statistical and machine learning approach allowed us to identify a microbial signature for HBeAg seroconversion. Using random forest method, we further constructed a classifier based on the microbial signature, with area under curve being 0.749 for the test set. Patients who achieved HBeAg seroconversion tended to have lower abundance of certain fecal metabolites such as essential amino acids, and several dipeptides. By analyzing the fecal microbiota from the patients with and without HBeAg seroconversion, we showed intestinal microbiome play a critical role in HBeAg seroconversion induced by oral antiviral therapy. We also identified intestinal microbial signature that is associated with HBeAg seroconversion after oral antiviral therapy.
@@ -195,15 +195,27 @@ Tenofovir and entecavir are currently designated as the preferred oral antiviral
 
 ---
 
-## Effects of dietary oregano essential oil supplementation on growth performance, intestinal antioxidative capacity, immunity and intestinal microbiota in yellow-feathered chickens
+## Effects of dietary oregano essential oil supplementation on growth performance, intestinal antioxidative capacity, immunity and intestinal microbiota in yellow-feathered chickens.
+ 05.02.2021, _D Ruan, Q Fan, AM Fouad, Y Sun, S Huang, A Wu, C Lin, Z Kuang, C Zhang, S Jiang_
+
+
+Essential oils are plant-derived aromatic volatile oils and they contain bioactive compounds which have been shown to improve poultry nutrition. In this study we investigated the effects of oregano essential oil (OEO) on intestinal antioxidative capacity, immunity, and gut microbiota of young yellow-feathered chickens. A total of 960 1-d-old female Qingyuan partridge chickens were randomly allocated to 4 treatment groups with 6 replicates of 40 birds each and the feeding trial was lasted for 30 d. The controls were fed on a basal diet without in-feed antibiotics; The birds in the antibiotic group were fed the basal diet supplemented with 20 mg/kg virginiamycin; the remaining birds were fed the basal diet containing 150 or 300 mg/kg OEO, respectively. Dietary supplementation with 150 or 300 mg/kg OEO increased ADFI (P = 0.057) and ADG (P &lt; 0.05). The activities of glutathione peroxidase and total antioxidative capacity in plasma, jejunal and ileal mucosa were increased by OEO supplementation (P &lt; 0.05), with a trend of lower jejunal content of malonaldehyde (P = 0.062). Moreover, dietary OEO increased the content of secretory immunoglobulin A (P = 0.078) and the relative expression of Claudin 1, Mucin 2 and Avain beta-defensin 1 in ileum (P &lt; 0.05). Sequencing data of 16S rRNA indicated that dietary OEO increased the relative abundance of Firmicutes phylum, and Clostridium and Lactobacillus genera, and decreasing that of Romboutsia. Functional analyses indicated that microbial amino sugar and nucleotide sugar metabolism, replication and repair systems were higher in OEO groups than those of controls and antibiotic treatment. In conclusion, dietary supplementation with OEO enhanced growth performance, alleviated local oxidative stress in intestine, improved production of natural antibodies, and favorably modulated intestinal microbiota composition.
 
 [Source](https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skab033/6129279?searchresult=1)
 
+10.1093/jas/skab033
+
 ---
 
-## Composition and acquisition of the microbiome in solitary, ground-nesting alkali bees 
+## Composition and acquisition of the microbiome in solitary, ground-nesting alkali bees.
+ 05.02.2021, _KM Kapheim, MM Johnson, M Jolley_
+
+
+Increasing evidence suggests the microbiome plays an important role in bee ecology and health. However, the relationship between bees and their bacterial symbionts has only been explored in a handful of species. We characterized the microbiome across the life cycle of solitary, ground-nesting alkali bees (Nomia melanderi). We find that feeding status is a major determinant of microbiome composition. The microbiome of feeding larvae was similar to that of pollen provisions, but the microbiome of post-feeding larvae (pre-pupae) was similar to that of the brood cell walls and newly-emerged females. Feeding larvae and pollen provisions had the lowest beta diversity, suggesting the composition of larval diet is highly uniform. Comparisons between lab-reared, newly-emerged, and nesting adult females suggest that the hindgut bacterial community is largely shaped by the external environment. However, we also identified taxa that are likely acquired in the nest or which increase or decrease in relative abundance with age. Although Lactobacillus micheneri was highly prevalent in pollen provisions, it was only detected in one lab-reared female, suggesting it is primarily acquired from environmental sources. These results provide the foundation for future research on metagenomic function and development of probiotics for these native pollinators.
 
 [Source](https://www.nature.com/articles/s41598-021-82573-x)
+
+10.1038/s41598-021-82573-x
 
 ---
 
@@ -213,9 +225,15 @@ Tenofovir and entecavir are currently designated as the preferred oral antiviral
 
 ---
 
-## Prebiotic dietary fibre intervention improves fecal markers related to inflammation in obese patients: results from the Food4Gut randomized placebo-controlled trial
+## Prebiotic dietary fibre intervention improves fecal markers related to inflammation in obese patients: results from the Food4Gut randomized placebo-controlled trial.
+ 05.02.2021, _AM Neyrinck, J Rodriguez, Z Zhang, B Seethaler, CR Sánchez, M Roumain, S Hiel, LB Bindels, PD Cani, N Paquot, M Cnop, JA Nazare, M Laville, GG Muccioli, SC Bischoff, J Walter, JP Thissen, NM Delzenne_
+
+
+Inulin-type fructans (ITF) are prebiotic dietary fibre (DF) that may confer beneficial health effects, by interacting with the gut microbiota. We have tested the hypothesis that a dietary intervention promoting inulin intake versus placebo influences fecal microbial-derived metabolites and markers related to gut integrity and inflammation in obese patients.
 
 [Source](https://link.springer.com/article/10.1007%2Fs00394-021-02484-5)
+
+10.1007/s00394-021-02484-5
 
 ---
 
