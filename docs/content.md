@@ -219,9 +219,15 @@ Tenofovir and entecavir are currently designated as the preferred oral antiviral
 
 ---
 
-## Reduced tillage, cover crops and organic amendments affect soil microbiota and improve soil health in Uruguayan vegetable farming systems
+## Reduced tillage, cover crops and organic amendments affect soil microbiota and improve soil health in Uruguayan vegetable farming systems.
+ 06.02.2021, _V Cerecetto, K Smalla, J Nesme, S Garaycochea, P Fresia, SJ Sørensen, D Babin, C Leoni_
+
+
+Conventional tillage and mineral fertilization (CTMF) jeopardize soil health in conventional vegetable production systems. Using a field experiment established in Uruguay in 2012, we aimed to compare the soil restoration potential of organic fertilization (compost, poultry manure) combined with conventional tillage and cover crop incorporated into the soil (CTOF) or with reduced tillage and the use of cover crop as mulch (RTOF). In 2017 table beet was cultivated under CTMF, CTOF and RTOF, and yields, soil aggregate composition and nutrients, as well as soil and table beet rhizosphere microbiota (here: bacteria and archaea) were evaluated. Microbiota was studied by high-throughput sequencing of 16S rRNA gene fragments amplified from total community DNA. RTOF exhibited higher soil aggregation, soil organic C, nutrient availability and microbial alpha-diversity than CTMF, and became more similar to an adjacent natural undisturbed site. The soil microbiota was strongly shaped by the fertilization source which was conveyed to the rhizosphere and resulted in differentially abundant taxa. However, 229 amplicon sequencing variants were found to form the core table beet rhizosphere microbiota shared among managements. In conclusion, our study shows that after only five years of implementation, RTOF improves soil health under intensive vegetable farming systems.
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/33547893/)
+
+10.1093/femsec/fiab023
 
 ---
 
