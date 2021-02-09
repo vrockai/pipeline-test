@@ -1,263 +1,168 @@
-## The intestinal neuro-immune axis: crosstalk between neurons, immune cells, and microbes.
- 05.02.2021, _A Jacobson, D Yang, M Vella, IM Chiu_
+## Iron homeostasis in host and gut bacteria - a complex interrelationship.
+ 05.02.2021, _Y Seyoum, K Baye, C Humblot_
 
 
-The gastrointestinal tract is densely innervated by a complex network of neurons that coordinate critical physiological functions. Here, we summarize recent studies investigating the crosstalk between gut-innervating neurons, resident immune cells, and epithelial cells at homeostasis and during infection, food allergy, and inflammatory bowel disease. We introduce the neuroanatomy of the gastrointestinal tract, detailing gut-extrinsic neuron populations from the spinal cord and brain stem, and neurons of the intrinsic enteric nervous system. We highlight the roles these neurons play in regulating the functions of innate immune cells, adaptive immune cells, and intestinal epithelial cells. We discuss the consequences of such signaling for mucosal immunity. Finally, we discuss how the intestinal microbiota is integrated into the neuro-immune axis by tuning neuronal and immune interactions. Understanding the molecular events governing the intestinal neuro-immune signaling axes will enhance our knowledge of physiology and may provide novel therapeutic targets to treat inflammatory diseases.
+Iron deficiency is the most frequent nutritional deficiency in the world with an estimated 1.4 billion people affected. The usual way to fight iron deficiency is iron fortification, but this approach is not always effective and can have undesirable side effects including an increase in the growth and virulence of gut bacterial pathogens responsible for diarrhea and gut inflammation. Iron is mainly absorbed in the duodenum and is tightly regulated in mammals. Unabsorbed iron enters the colonic lumen where many microorganisms, referred to as gut microbiota, reside. Iron is essential for these bacteria, and its availability consequently affects this microbial ecosystem. The aim of this review is to provide further insights into the complex relationship between iron and gut microbiota. Given that overcoming anemia caused by iron deficiency is still a challenge today, gut microbiota could help identify more efficient ways to tackle this public health problem.
 
-[Source](https://www.nature.com/articles/s41385-020-00368-1)
+[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2021.1874855)
 
-10.1038/s41385-020-00368-1
-
----
-
-## The Role of the Gut Microbiome, Immunity, and Neuroinflammation in the Pathophysiology of Eating Disorders.
- 08.02.2021, _MJ Butler, AA Perrini, LA Eckel_
-
-
-There is a growing recognition that both the gut microbiome and the immune system are involved in a number of psychiatric illnesses, including eating disorders. This should come as no surprise, given the important roles of diet composition, eating patterns, and daily caloric intake in modulating both biological systems. Here, we review the evidence that alterations in the gut microbiome and immune system may serve not only to maintain and exacerbate dysregulated eating behavior, characterized by caloric restriction in anorexia nervosa and binge eating in bulimia nervosa and binge eating disorder, but may also serve as biomarkers of increased risk for developing an eating disorder. We focus on studies examining gut dysbiosis, peripheral inflammation, and neuroinflammation in each of these eating disorders, and explore the available data from preclinical rodent models of anorexia and binge-like eating that may be useful in providing a better understanding of the biological mechanisms underlying eating disorders. Such knowledge is critical to developing novel, highly effective treatments for these often intractable and unremitting eating disorders.
-
-[Source](https://www.mdpi.com/2072-6643/13/2/500)
-
-10.3390/nu13020500
+10.1080/19490976.2021.1874855
 
 ---
 
-## The microbiome and host mucosal interactions in urinary tract diseases.
- 05.02.2021, _B Jones-Freeman, M Chonwerawong, VR Marcelino, AV Deshpande, SC Forster, MR Starkey_
+## Iron homeostasis in host and gut bacteria
 
-
-The urinary tract consists of the bladder, ureters, and kidneys, and is an essential organ system for filtration and excretion of waste products and maintaining systemic homeostasis. In this capacity, the urinary tract is impacted by its interactions with other mucosal sites, including the genitourinary and gastrointestinal systems. Each of these sites harbors diverse ecosystems of microbes termed the microbiota, that regulates complex interactions with the local and systemic immune system. It remains unclear whether changes in the microbiota and associated metabolites may be a consequence or a driver of urinary tract diseases. Here, we review the current literature, investigating the impact of the microbiota on the urinary tract in homeostasis and disease including urinary stones, acute kidney injury, chronic kidney disease, and urinary tract infection. We propose new avenues for exploration of the urinary microbiome using emerging technology and discuss the potential of microbiome-based medicine for urinary tract conditions.
-
-[Source](https://www.nature.com/articles/s41385-020-00372-5)
-
-10.1038/s41385-020-00372-5
+[Source](https://www.tandfonline.com/doi/pdf/10.1080/19490976.2021.1874855)
 
 ---
 
-## Comparison between 16S rRNA and shotgun sequencing data for the taxonomic characterization of the gut microbiota.
- 07.02.2021, _F Durazzi, C Sala, G Castellani, G Manfreda, D Remondini, A De Cesare_
+## α1-3Gal antigen in gut microbiota, a potential new environmental factor in multiple sclerosis.
+ 08.02.2021, _L Boussamet, E Montassier, JP Soulillou, L Berthelot_
 
 
-In this paper we compared taxonomic results obtained by metataxonomics (16S rRNA gene sequencing) and metagenomics (whole shotgun metagenomic sequencing) to investigate their reliability for bacteria profiling, studying the chicken gut as a model system. The experimental conditions included two compartments of gastrointestinal tracts and two sampling times. We compared the relative abundance distributions obtained with the two sequencing strategies and then tested their capability to distinguish the experimental conditions. The results showed that 16S rRNA gene sequencing detects only part of the gut microbiota community revealed by shotgun sequencing. Specifically, when a sufficient number of reads is available, Shotgun sequencing has more power to identify less abundant taxa than 16S sequencing. Finally, we showed that the less abundant genera detected only by shotgun sequencing are biologically meaningful, being able to discriminate between the experimental conditions as much as the more abundant genera detected by both sequencing strategies.
+Gut microbiota from multiple sclerosis (MS) patients present qualitative and quantitative differences of bacteria abundance compared to healthy subjects. In an another hand, gut microbiota may drive some specific types of antibody responses in human and may represent a new environmental factor in MS etiology. However, whether and to which extent the amount of a given microbiota antigen is associated with the level of the antibody response against the corresponding antigen is yet unknown. The level of anti-α1-3Gal (Gal) antibodies are decreased in MS. Recently, we have proposed a first map of gut bacteria displaying α1-3-Galactosyltransferase gene sequences. This review summarizes the current knowledge on antibody response to the Gal epitope associated to changes of gut microbiota profile in MS as well as on the possible mechanisms by which the altered microbiota and/or circulating anti-Gal level could affect the immune response in this disease.
 
-[Source](https://www.nature.com/articles/s41598-021-82726-y)
+[Source](https://www.sciencedirect.com/science/article/pii/S1521661621000309?via%3Dihub)
 
-10.1038/s41598-021-82726-y
-
----
-
-## Modulating gut microbiota to treat cancer.
- 08.02.2021, _CH Woelk, A Snyder_
-
-
-
-[Source](https://science.sciencemag.org/content/371/6529/573)
-
-10.1126/science.abg2904
+10.1016/j.clim.2021.108693
 
 ---
 
-## Sequence Meets Function-Microbiota And Cardiovascular Disease.
- 04.02.2021, _M Kim, MN Huda, BJ Bennett_
+## Alterations in the gut bacterial microbiome in people with type 2 diabetes mellitus and diabetic retinopathy.
+ 06.02.2021, _T Das, R Jayasudha, S Chakravarthy, GS Prashanthi, A Bhargava, M Tyagi, PK Rani, RR Pappuru, S Sharma, S Shivaji_
 
 
-The discovery that gut-microbiota plays a profound role in human health has opened a new avenues of basic and clinical research. Application of ecological approaches where the Bacterial 16S rRNA gene is queried has provided a number of candidate bacteria associated with coronary artery disease and hypertension. We examine the associations between gut microbiota and a variety of CVD including atherosclerosis, coronary artery disease and blood pressure. These approaches are associative in nature and there is now increasing interest in identifying the mechanisms underlying these associations. We discuss three potential mechanisms including: gut permeability and endotoxemia, increased immune system activation, and microbial derived metabolites. In addition to discussing these potential mechanisms we highlight current studies manipulating the gut microbiota or microbial metabolites to move beyond sequenced based association studies. The goal of these mechanistic studies is to determine the mode of action by which the gut microbiota may affect disease susceptibility and severity. Importantly, the gut microbiota appears to have a significant effect on host metabolism and CVD by producing metabolites entering the host circulatory system such as short chain fatty acids (SCFAs) and trimethylamine N-Oxide (TMAO). Therefore, the intersection of metabolomics and microbiota research may yield novel targets to reduce disease susceptibility. Finally, we discuss approaches to demonstrate causality such as specific diet changes, inhibition of microbial pathways and fecal microbiota transplant.
+Gut bacterial microbiome dysbiosis in type 2 Diabetes Mellitus (T2DM) has been reported, but such an association with Diabetic Retinopathy (DR) is not known. We explored possible link between gut bacterial microbiome dysbiosis and DR. Using fecal samples of healthy controls (HC) and people with T2DM with/without DR, gut bacterial communities were analysed using 16S rRNA gene sequencing and data analysed using QIIME and R software. Dysbiosis in the gut microbiomes, at phyla and genera level, was observed in people with T2DM and DR compared to HC. People with DR exhibited greater discrimination from HC. Microbiomes of people with T2DM and DR were also significantly different. Both DM and DR microbiomes showed a decrease in anti-inflammatory, probiotic and other bacteria that could be pathogenic, compared to HC, and the observed change was more pronounced in people with DR. This is the first report demonstrating dysbiosis in the gut microbiome (alteration in the diversity and abundance at the phyla and genera level) in people with DR compared to HC. Such studies would help in developing novel and targeted therapies to improve treatment of DR.
 
-[Source](https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvab030/6127468)
+[Source](https://www.nature.com/articles/s41598-021-82538-0)
 
-10.1093/cvr/cvab030
-
----
-
-## Fecal microbiota transplant overcomes resistance to anti-PD-1 therapy in melanoma patients.
- 08.02.2021, _D Davar, AK Dzutsev, JA McCulloch, RR Rodrigues, JM Chauvin, RM Morrison, RN Deblasio, C Menna, Q Ding, O Pagliano, B Zidi, S Zhang, JH Badger, M Vetizou, AM Cole, MR Fernandes, S Prescott, RGF Costa, AK Balaji, A Morgun, I Vujkovic-Cvijin, H Wang, AA Borhani, MB Schwartz, HM Dubner, SJ Ernst, A Rose, YG Najjar, Y Belkaid, JM Kirkwood, G Trinchieri, HM Zarour_
-
-
-Anti-programmed cell death protein 1 (PD-1) therapy provides long-term clinical benefits to patients with advanced melanoma. The composition of the gut microbiota correlates with anti-PD-1 efficacy in preclinical models and cancer patients. To investigate whether resistance to anti-PD-1 can be overcome by changing the gut microbiota, this clinical trial evaluated the safety and efficacy of responder-derived fecal microbiota transplantation (FMT) together with anti-PD-1 in patients with PD-1-refractory melanoma. This combination was well tolerated, provided clinical benefit in 6 of 15 patients, and induced rapid and durable microbiota perturbation. Responders exhibited increased abundance of taxa that were previously shown to be associated with response to anti-PD-1, increased CD8+ T cell activation, and decreased frequency of interleukin-8-expressing myeloid cells. Responders had distinct proteomic and metabolomic signatures, and transkingdom network analyses confirmed that the gut microbiome regulated these changes. Collectively, our findings show that FMT and anti-PD-1 changed the gut microbiome and reprogrammed the tumor microenvironment to overcome resistance to anti-PD-1 in a subset of PD-1 advanced melanoma.
-
-[Source](https://science.sciencemag.org/content/371/6529/595)
-
-10.1126/science.abf3363
+10.1038/s41598-021-82538-0
 
 ---
 
-## Fecal microbiota transplant promotes response in immunotherapy-refractory melanoma patients.
- 08.02.2021, _EN Baruch, I Youngster, G Ben-Betzalel, R Ortenberg, A Lahat, L Katz, K Adler, D Dick-Necula, S Raskin, N Bloch, D Rotin, L Anafi, C Avivi, J Melnichenko, Y Steinberg-Silman, R Mamtani, H Harati, N Asher, R Shapira-Frommer, T Brosh-Nissimov, Y Eshet, S Ben-Simon, O Ziv, MAW Khan, M Amit, NJ Ajami, I Barshack, J Schachter, JA Wargo, O Koren, G Markel, B Boursi_
+## <span style="color:#055c3c;" class="has-inline-color">Discovery of an ene-reductase for initiating flavone and flavonol catabolism in gut bacteria</span>
 
-
-The gut microbiome has been shown to influence the response of tumors to anti-PD-1 (programmed cell death-1) immunotherapy in preclinical mouse models and observational patient cohorts. However, modulation of gut microbiota in cancer patients has not been investigated in clinical trials. In this study, we performed a phase 1 clinical trial to assess the safety and feasibility of fecal microbiota transplantation (FMT) and reinduction of anti-PD-1 immunotherapy in 10 patients with anti-PD-1-refractory metastatic melanoma. We observed clinical responses in three patients, including two partial responses and one complete response. Notably, treatment with FMT was associated with favorable changes in immune cell infiltrates and gene expression profiles in both the gut lamina propria and the tumor microenvironment. These early findings have implications for modulating the gut microbiota in cancer treatment.
-
-[Source](https://science.sciencemag.org/content/371/6529/602)
-
-10.1126/science.abb5920
+[Source](https://www.nature.com/articles/s41467-021-20974-2)
 
 ---
 
-## Components of a Neanderthal gut microbiome recovered from fecal sediments from El Salt.
- 08.02.2021, _S Rampelli, S Turroni, C Mallol, C Hernandez, B Galván, A Sistiaga, E Biagi, A Astolfi, P Brigidi, S Benazzi, CM Lewis, C Warinner, CA Hofman, SL Schnorr, M Candela_
+## <span style="color:#086543;" class="has-inline-color">A single strain of Bacteroides fragilis protects gut integrity and reduces GVHD</span>
 
-
-A comprehensive view of our evolutionary history cannot ignore the ancestral features of our gut microbiota. To provide some glimpse into the past, we searched for human gut microbiome components in ancient DNA from 14 archeological sediments spanning four stratigraphic units of El Salt Middle Paleolithic site (Spain), including layers of unit X, which has yielded well-preserved Neanderthal occupation deposits dating around 50 kya. According to our findings, bacterial genera belonging to families known to be part of the modern human gut microbiome are abundantly represented only across unit X samples, showing that well-known beneficial gut commensals, such as Blautia, Dorea, Roseburia, Ruminococcus, Faecalibacterium and Bifidobacterium already populated the intestinal microbiome of Homo since as far back as the last common ancestor between humans and Neanderthals.
-
-[Source](https://www.nature.com/articles/s42003-021-01689-y)
-
-10.1038/s42003-021-01689-y
+[Source](https://insight.jci.org/articles/view/136841)
 
 ---
 
-## Meta-omics characteristics of intestinal microbiota associated to HBeAg seroconversion induced by oral antiviral therapy.
- 08.02.2021, _YL Zeng, L Qin, WJ Wei, H Cai, XF Yu, W Zhang, XL Wu, XB Liu, WM Chen, P You, MZ Hong, Y Liu, X Dong, BC Shia, JJ Niu, JS Pan_
+## Social behavior of musk deer during the mating season potentially influences the diversity of their gut microbiome
 
-
-Tenofovir and entecavir are currently designated as the preferred oral antiviral drugs for chronic hepatitis B. However, only less than 40% of patients can achieve HBeAg seroconversion. We aim at investigating the role of intestinal microbiome in HBeAg seroconversion induced by oral antiviral therapy and describe multi-omics characteristics of HBeAg seroconversion associated intestinal flora. In this study, we prospectively collected fecal samples at baseline from the patients with HBeAg positive chronic hepatitis B who would have oral antiviral therapy. 16S rDNA sequencing and metabolomics were performed. We identified HBeAg seroconversion-related microbial signature and constructed prediction model for HBeAg seroconversion. Thirty-seven of these subjects achieved HBeAg seroconversion within 156 weeks after the initiation of oral antiviral therapy, while 41 subjects remained HBeAg positive even after over 156 weeks of therapy. A computational statistical and machine learning approach allowed us to identify a microbial signature for HBeAg seroconversion. Using random forest method, we further constructed a classifier based on the microbial signature, with area under curve being 0.749 for the test set. Patients who achieved HBeAg seroconversion tended to have lower abundance of certain fecal metabolites such as essential amino acids, and several dipeptides. By analyzing the fecal microbiota from the patients with and without HBeAg seroconversion, we showed intestinal microbiome play a critical role in HBeAg seroconversion induced by oral antiviral therapy. We also identified intestinal microbial signature that is associated with HBeAg seroconversion after oral antiviral therapy.
-
-[Source](https://www.nature.com/articles/s41598-021-82939-1)
-
-10.1038/s41598-021-82939-1
-
----
-
-## Anti-cancer and anti-inflammatory effects elicited by short chain fatty acids produced by&nbsp;<em>Escherichia coli</em>&nbsp;isolated from healthy human gut microbiota
-
-[Source](https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-020-01477-z)
-
----
-
-## Exploiting the Microbiota for the Diagnosis of Anal Precancerous Lesions in Men Who Have Sex With Men
-
-[Source](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab068/6129308)
-
----
-
-## Distribution characteristics of intestinal microbiota during pregnancy and postpartum in healthy women
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/14767058.2020.1812571)
-
----
-
-## Co-Occurrence of Symptoms and Gut Microbiota Composition Before Neoadjuvant Chemotherapy and Radiation Therapy for Rectal Cancer: A Proof of Concept
-
-[Source](https://pubmed.ncbi.nlm.nih.gov/33541122/)
-
----
-
-## Development of a robust protocol for the characterization of the pulmonary microbiota
-
-[Source](https://www.nature.com/articles/s42003-021-01690-5)
-
----
-
-## Lung microbiota associations with clinical features of COPD in the SPIROMICS cohort
-
-[Source](https://www.nature.com/articles/s41522-021-00185-9)
-
----
-
-## Changes in the gut microbial community of the eastern newt (<em>Notophthalmus viridescens</em>) across its three distinct life stages
-
-[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiab021/6129798)
-
----
-
-## Altered Gut Microbiota is Involved in the Anti‐Hypertensive Effects of Vitamin C in Spontaneously Hypertensive Rat
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.202000885)
-
----
-
-## Long Term High Protein Diet Feeding Alters the Microbiome and Increases Intestinal Permeability, Systemic Inflammation and Kidney Injury in Mice
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.202000851)
+[Source](https://peerj.com/articles/10860/)
 
 ---
 
 ## Low-dose exposure of glyphosate-based herbicides disrupt the urine metabolome and its interaction with gut microbiota
 
-[Source](https://www.nature.com/articles/s41598-021-82552-2#Sec2)
+[Source](https://www.nature.com/articles/s41598-021-82552-2)
 
 ---
 
-## Metagenomics of antimicrobial and heavy metal resistance in the cecal microbiome of fattening pigs raised without antibiotics
+## Cross-Feeding of a Toxic Metabolite in a Synthetic Lignocellulose-Degrading Microbial Community
 
-[Source](https://aem.asm.org/content/early/2021/02/02/AEM.02684-20)
-
----
-
-## IL-17 controls central nervous system autoimmunity through the intestinal microbiome
-
-[Source](https://pubmed.ncbi.nlm.nih.gov/33547052/)
+[Source](https://www.mdpi.com/2076-2607/9/2/321/htm)
 
 ---
 
-## The skin microbiome of&nbsp;<em>Xenopus laevis</em>&nbsp;and the effects of husbandry conditions
+## Dietary sphinganine is selectively assimilated by members of the mammalian gut microbiome
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00080-w)
-
----
-
-## Effects of dietary oregano essential oil supplementation on growth performance, intestinal antioxidative capacity, immunity and intestinal microbiota in yellow-feathered chickens
-
-[Source](https://academic.oup.com/jas/advance-article/doi/10.1093/jas/skab033/6129279?searchresult=1)
+[Source](https://www.sciencedirect.com/science/article/pii/S0022227521000146?via%3Dihub)
 
 ---
 
-## Composition and acquisition of the microbiome in solitary, ground-nesting alkali bees 
+## Shaping the Future of Probiotics and Prebiotics
 
-[Source](https://www.nature.com/articles/s41598-021-82573-x)
-
----
-
-## The impact of the gut microbiome on memory and sleep in&nbsp;<em>Drosophila</em>
-
-[Source](https://jeb.biologists.org/content/224/3/jeb233619)
+[Source](https://www.sciencedirect.com/science/article/pii/S0966842X21000056)
 
 ---
 
-## Prebiotic dietary fibre intervention improves fecal markers related to inflammation in obese patients: results from the Food4Gut randomized placebo-controlled trial
+## Utilizing the Food–Pathogen Metabolome to Putatively Identify Biomarkers for the Detection of Shiga Toxin-Producing E. coli (STEC) from Spinach
 
-[Source](https://link.springer.com/article/10.1007%2Fs00394-021-02484-5)
-
----
-
-## Reduced tillage, cover crops and organic amendments affect soil microbiota and improve soil health in Uruguayan vegetable farming systems
-
-[Source](https://pubmed.ncbi.nlm.nih.gov/33547893/)
+[Source](https://search.proquest.com/docview/2483448541?pq-origsite=gscholar&fromopenview=true)
 
 ---
 
-## Tillage shapes the soil and rhizosphere microbiome of barley – but not its susceptibility towards&nbsp;<em>Blumeria graminis</em>&nbsp;f. sp.&nbsp;<em>Hordei</em>
+## Clinical effects and gut microbiota changes of using probiotics, prebiotics or synbiotics in inflammatory bowel disease: a systematic review and meta-analysis
 
-[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiab018/6129324)
-
----
-
-## The rhizosphere microbiome plays a role in the resistance to soil-borne pathogens and nutrient uptake of strawberry cultivars under field conditions
-
-[Source](https://www.nature.com/articles/s41598-021-82768-2)
+[Source](https://link.springer.com/article/10.1007/s00394-021-02503-5)
 
 ---
 
-## 16S rRNA gene-based microbiome analysis identifies candidate bacterial strains that increase the storage time of potato tubers
+## Diabetes-induced cardiomyopathy is ameliorated by heat-killed Lactobacillus reuteri GMNL-263 in diabetic rats via the repression of the toll-like receptor 4 pathway
 
-[Source](https://www.nature.com/articles/s41598-021-82181-9)
-
----
-
-## Boolean implication analysis unveils candidate universal relationships in microbiome data
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03941-4)
+[Source](https://link.springer.com/article/10.1007/s00394-020-02474-z)
 
 ---
 
-## Advances in modelling the human microbiome–gut–brain axis&nbsp;<em>in vitro</em>&nbsp;
+## Understanding structure/function relationships in nitrifying microbial communities after cross-transfer between freshwater and seawater.
+ 07.02.2021, _BM Gonzalez-Silva, KR Jonassen, I Bakke, K Østgaard, O Vadstein_
 
-[Source](https://portlandpress.com/biochemsoctrans/article/doi/10.1042/BST20200338/227811/Advances-in-modelling-the-human-microbiome-gut)
+
+In this study, nitrification before and after abrupt cross-transfer in salinity was investigated in two moving bed biofilm reactors inoculated with nitrifying cultures that had adaptation to freshwater (FR) and seawater salinities (SR). FR and SR MBRRs were exposed to short and long term cross-transfer in salinity, and the functional capacity of nitrifying microbial communities was quantified by the estimation of ammonia and nitrite oxidation rates. Salinity induced successions were evaluated before and after salinity change by deep sequencing of 16S rRNA gene amplicons and statistical analysis. The bacterial community structure was characterized and Venn diagrams were included. The results indicated that after salinity cross-transfer, the FR was not significantly recovered at seawater salinity whereas SR showed high resistance to stress caused by low-salt. Succession and physiological plasticity were the main mechanisms of the long-term adaption of the nitrifying communities exposed to abrupt salinity changes. Independently of salinity, some nitrifiers presented high physiological plasticity towards salinity and were very successful at both zero and full seawater salinity. SR culture is robust and suitable inoculum for ammonium removal from recirculating aquaculture systems and industrial wastewaters with variable and fast salinity changes. Our findings contradict the current perspective of the significance of salinity on the structure of nitrifying communities.
+
+[Source](https://www.nature.com/articles/s41598-021-82272-7)
+
+10.1038/s41598-021-82272-7
 
 ---
 
-## MB-GAN: Microbiome Simulation via Generative Adversarial Network
+## The microbial dimension of submarine groundwater discharge: current challenges and future directions.
+ 04.02.2021, _C Ruiz-González, V Rodellas, J Garcia-Orellana_
 
-[Source](https://academic.oup.com/gigascience/article/10/2/giab005/6128917?login=true)
+
+Despite the relevance of submarine groundwater discharge (SGD) for ocean biogeochemistry, the microbial dimension of SGD remains poorly understood. SGD can influence marine microbial communities through supplying chemical compounds and microorganisms, and in turn, microbes at the land-ocean transition zone determine the chemistry of the groundwater reaching the ocean. However, compared to inland groundwater, little is known about microbial communities in coastal aquifers. Here we review the state-of-the-art of the microbial dimension of SGD, with emphasis on prokaryotes, and identify current challenges and future directions. Main challenges include improving the diversity description of groundwater microbiota, characterized by ultra-small, inactive and novel taxa, and by high ratios of sediment-attached versus free-living cells. Studies should explore microbial dynamics and their role in chemical cycles in coastal aquifers, the bidirectional dispersal of groundwater and seawater microorganisms, and marine bacterioplankton responses to SGD. This will require combining sequencing methods, visualization, and linking taxonomy to activity, but also considering the entire groundwater-marine continuum. Interactions between traditionally independent disciplines (e.g., hydrogeology, microbial ecology) are needed to frame the study of terrestrial and aquatic microorganisms beyond the limits of their presumed habitats, and to foster our understanding of SGD processes and their influence in coastal biogeochemical cycles.
+
+[Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuab010/6128669?login=true)
+
+10.1093/femsre/fuab010
+
+---
+
+## Estrogen induces shift in abundances of specific groups of the coral microbiome.
+ 06.02.2021, _CLS Vilela, HDM Villela, GAS Duarte, EP Santoro, CTCC Rachid, RS Peixoto_
+
+
+Synthetic estrogens such as ethinylestradiol (EE2) are persistent micropollutants that are not effectively removed from wastewater by conventional treatments. These contaminants are released into waterbodies, where they disrupt endocrine systems of organisms and cause harmful effects such as feminization, infertility, reproduction problems and genital malformations. The consequences of this pollution for key marine ecosystems such as coral reefs and their associated microbiomes are underexplored. We evaluated the effects of EE2 concentrations of 100 ng L-1 and 100 µg L-1 on the coral metaorganism Mussismilia harttii. The results indicated no effects on visible bleaching or Fv/Fm ratios in the corals during a 17-day microcosm experiment. However, next-generation sequencing of 16S rDNA revealed a statistically significant effect of high EE2 concentrations on OTU richness, and shifts in specific microbial groups after treatments with or without EE2. These groups might be bioindicators of early shifts in the metaorganism composition caused by EE2 contamination.
+
+[Source](https://www.nature.com/articles/s41598-021-82387-x)
+
+10.1038/s41598-021-82387-x
+
+---
+
+## Metabolic fingerprinting of the Antarctic cyanolichen Leptogium puberulum–associated bacterial community (Western Shore of Admiralty Bay, King George Island, Maritime Antarctica)
+
+[Source](https://link.springer.com/article/10.1007/s00248-021-01701-2)
+
+---
+
+## Development of a robust protocol for the characterization of the pulmonary microbiota.
+ 08.02.2021, _N Dumont-Leblond, M Veillette, C Racine, P Joubert, C Duchaine_
+
+
+The lack of methodological standardization diminishes the validity of results obtained and the conclusions drawn when studying the lung microbiota. We report the validation of a complete 16S rRNA gene amplicon sequencing workflow, from patient recruitment to bioinformatics, tailored to the constrains of the pulmonary environment. We minimize the impact of contaminants and establish negative controls to track and account for them at every step. Enzymatic and mechanical homogenization combined to commercially available extraction kits allow for a fast and reliable extraction of bacterial DNA. The DNA extraction kits have a significant impact on the bacterial composition of the controls. The bacterial signatures of extracted cancerous and healthy human tissues from 5 patients are highly distinguishable from methodological controls. Our work expands our understanding of low microbial burdened environments analysis. This article is to be a starting point towards methodological standardization and the implementation of proper sampling procedures in the study of lung microbiota.
+
+[Source](https://www.nature.com/articles/s42003-021-01690-5)
+
+10.1038/s42003-021-01690-5
+
+---
+
+## Eating fat-rich foods as a child causes long-lasting changes in gut microbiome: Study
+
+[Source](https://www.firstpost.com/tech/science/eating-fat-rich-foods-as-a-child-causes-long-lasting-changes-in-gut-microbiome-study-9282461.html)
+
+---
+
+## Human Microbiome Market Set to Register Healthy CAGR During to 2026 
+
+[Source](https://ksusentinel.com/2021/02/08/human-microbiome-market-set-to-register-healthy-cagr-during-to-2026/)
 
 ---
 
