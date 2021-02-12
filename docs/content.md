@@ -286,9 +286,15 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
-## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN)
+## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN).
+ 09.02.2021, _R Van Damme, M Hölzer, A Viehweger, B Müller, E Bongcam-Rudloff, C Brandt_
+
+
+Metagenomics has redefined many areas of microbiology. However, metagenome-assembled genomes (MAGs) are often fragmented, primarily when sequencing was performed with short reads. Recent long-read sequencing technologies promise to improve genome reconstruction. However, the integration of two different sequencing modalities makes downstream analyses complex. We, therefore, developed MUFFIN, a complete metagenomic workflow that uses short and long reads to produce high-quality bins and their annotations. The workflow is written by using Nextflow, a workflow orchestration software, to achieve high reproducibility and fast and straightforward use. This workflow also produces the taxonomic classification and KEGG pathways of the bins and can be further used for quantification and annotation by providing RNA-Seq data (optionally). We tested the workflow using twenty biogas reactor samples and assessed the capacity of MUFFIN to process and output relevant files needed to analyze the microbial community and their function. MUFFIN produces functional pathway predictions and, if provided de novo metatranscript annotations across the metagenomic sample and for each bin. MUFFIN is available on github under GNUv3 licence: https://github.com/RVanDamme/MUFFIN.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008716)
+
+10.1371/journal.pcbi.1008716
 
 ---
 
@@ -367,18 +373,6 @@ Milk products are an important component of human diets, with beneficial effects
 ## Post-docs Part 2: Hiring 
 
 [Source](https://soundcloud.com/the-corresponding-author/episode-17-post-docs-part-2-hiring)
-
----
-
-## Genome-wide comparative analysis of long-chain acyl-CoA synthetases (LACSs) gene family: A focus on identification, evolution and expression profiling related to lipid synthesis.
- 11.02.2021, _A Ayaz, S Saqib, H Huang, W Zaman, S Lü, H Zhao_
-
-
-In plants, Long-chain acyl-CoA synthetases (LACSs) play key roles in activating fatty acids to fatty acyl-CoA thioesters, which are then further involved in lipid synthesis and fatty acid catabolism. LACSs have been intensively studied in Arabidopsis, but its evolutionary relationship in green plants is unexplored. In this study, we performed a comprehensive genome-wide analysis of the LACS gene family across green plants followed by phylogenetic clustering analysis, gene structure determination, detection of conserved motifs, gene expression in tissues and subcellular localization. Our results identified LACS genes in 122 plant species including algae, low land plants (i.e., mosses and lycophytes), monocots, and eudicots. In total, 697 sequences were identified, and 629 sequences were selected because of alignment and some duplication errors. The retrieved amino acid sequences ranged from 271 to 1056 residues and diversified in intron/exon patterns in different LACSs. Phylogenetic clustering grouped LACS gene family into six major clades with distinct potential functions. This classification is well supported by examining gene structure and conserved motifs. Also, gene expression analysis and subcellular localization substantiate with clade division in the phylogeny, indicating that the evolutionary pattern is visible in their functionality. Additionally, experimental analysis of lacs2 mutant validated that LACS2 plays key roles in suberin synthesis. Thus, our study not only provides an evolutionary mechanism underlying functional diversification but also lays the foundation for further elucidation of the LACS gene family.
-
-[Source](https://podcasts.google.com/feed/aHR0cDovL3R3aW1zaG93Lm1pY3JvYmV3b3JsZC5saWJzeW5wcm8uY29tL3Jzcw/episode/MDgyN2U0N2ItYTA2Yy00Yjc0LWFmZmEtNTNhZjQ3OWNiMTMz)
-
-10.1016/j.plaphy.2021.01.042
 
 ---
 
