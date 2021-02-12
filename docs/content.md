@@ -59,7 +59,7 @@ Although oral methotrexate (MTX) remains the anchor drug for RA, up to 50% of pa
 ---
 
 ## Antibiotic-associated dysbiosis affects the ability of the gut microbiota to control intestinal inflammation upon fecal microbiota transplantation in experimental colitis models.
- 07.02.2021, _F Strati, M Pujolassos, C Burrello, MR Giuffrè, G Lattanzi, F Caprioli, J Troisi, F Facciotti_
+ 11.02.2021, _F Strati, M Pujolassos, C Burrello, MR Giuffrè, G Lattanzi, F Caprioli, J Troisi, F Facciotti_
 
 
 The gut microbiota plays a central role in host physiology and in several pathological mechanisms in humans. Antibiotics compromise the composition and functions of the gut microbiota inducing long-lasting detrimental effects on the host. Recent studies suggest that the efficacy of different clinical therapies depends on the action of the gut microbiota. Here, we investigated how different antibiotic treatments affect the ability of the gut microbiota to control intestinal inflammation upon fecal microbiota transplantation in an experimental colitis model and in ex vivo experiments with human intestinal biopsies.
