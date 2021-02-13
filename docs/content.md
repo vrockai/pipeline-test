@@ -106,9 +106,15 @@ The vaginal microbiota in bacterial vaginosis (BV) typically has low abundance o
 
 ---
 
-## Functional and Taxonomic Dysbiosis of the Gut, Urine, and Semen Microbiomes in Male Infertility
+## Functional and Taxonomic Dysbiosis of the Gut, Urine, and Semen Microbiomes in Male Infertility.
+ 12.02.2021, _SD Lundy, N Sangwan, NV Parekh, MKP Selvam, S Gupta, P McCaffrey, K Bessoff, A Vala, A Agarwal, ES Sabanegh, SC Vij, C Eng_
+
+
+Little is known about the role of the genitourinary and gastrointestinal microbiota in the pathogenesis of male infertility.
 
 [Source](https://www.europeanurology.com/article/S0302-2838(21)00019-1/fulltext)
+
+10.1016/j.eururo.2021.01.014
 
 ---
 
@@ -256,27 +262,15 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
-## Bacterial communities regulate temporal variations of the antibiotic resistome in soil following manure amendment.
- 08.02.2021, _J Cheng, X Tang, C Liu_
-
-
-The increasing emergence of antibiotic-resistant genes (ARGs) represents a global threat to human health. Land application of animal manure is known to contribute considerably to the propagation and dispersal of antibiotic resistance in agro-ecosystems. Yet, the primary determinants of the fate of the soil resistome remain obscure. In this study, a pot experiment was conducted to examine temporal changes in ARGs, mobile genetic elements (MGEs), and bacterial communities in a weakly developed loamy soil (an entisol known as calcareous purple soil) upon addition of pig or chicken manure. On the day of manure application, substantial increases in the diversity and relative abundance of ARGs were observed in soil amended with raw pig manure. At the same time, no obvious changes were observed for soil amended with chicken manure. Antibiotic resistance in pig manure-amended soils rapidly decreased over time to a level that was still higher than that of unamended soil at 100 days after manure application. The results of the Mantel test and Procrustes analysis indicated that ARG profiles in soil were significantly correlated with the structure of the bacterial phylogeny. Variation partitioning analysis further revealed that the bacterial community played a major role in regulating the temporal changes in ARGs in soil following manure application. Increased numbers and relative abundances of MGEs and their significant positive correlations with ARGs were observed, which suggest that a potential contribution from lateral gene transfer to the persistence and spread of ARGs should not be overlooked. Overall, our findings provide a better understanding of the mechanisms underlying the dynamics of ARGs in entisols following manure application and have practical implications for managing manure applications in entisols of the study area and other areas.
+## Bacterial communities regulate temporal variations of the antibiotic resistome in soil following manure amendment
 
 [Source](https://link.springer.com/article/10.1007%2Fs11356-021-12746-8)
 
-10.1007/s11356-021-12746-8
-
 ---
 
-## Quantifying Variation in Bacterial Reproductive Fitness: a High-Throughput Method.
- 12.02.2021, _PM Frey, J Baer, J Bergada-Pijuan, C Lawless, PK Bühler, RD Kouyos, KP Lemon, AS Zinkernagel, SD Brugger_
-
-
-To evaluate changes in reproductive fitness of bacteria, e.g., after acquisition of antimicrobial resistance, a low-cost high-throughput method to analyze bacterial growth on agar is desirable for broad usability. In our bacterial quantitative fitness analysis (BaQFA), arrayed cultures are spotted on agar and photographed sequentially while growing. These time-lapse images are analyzed using a purpose-built open-source software to derive normalized image intensity (NI) values for each culture spot. Subsequently, a Gompertz growth model is fitted to NI values, and fitness is calculated from model parameters. To represent a range of clinically important pathogenic bacteria, we used different strains of Enterococcus faecium, Escherichia coli, and Staphylococcus aureus, with and without antimicrobial resistance. Relative competitive fitness (RCF) was defined as the mean fitness ratio of two strains growing competitively on one plate.BaQFA permitted the accurate construction of growth curves from bacteria grown on semisolid agar plates and fitting of Gompertz models. Normalized image intensity values showed a strong association with the total CFU/ml count per spotted culture (P &lt; 0.001) for all strains of the three species. BaQFA showed relevant reproductive fitness differences between individual strains, suggesting substantially higher fitness of methicillin-resistant S. aureus JE2 than Cowan (RCF, 1.58; P &lt; 0.001). Similarly, the vancomycin-resistant E. faecium ST172b showed higher competitive fitness than susceptible E. faecium ST172 (RCF, 1.59; P &lt; 0.001). Our BaQFA method allows detection of fitness differences between bacterial strains and may help to estimate epidemiological antimicrobial persistence or contribute to the prediction of clinical outcomes in severe infections.IMPORTANCE Reproductive fitness of bacteria is a major factor in the evolution and persistence of antimicrobial resistance and may play an important role in severe infections. With a computational approach to quantify fitness in bacteria growing competitively on agar plates, our high-throughput method has been designed to obtain additional phenotypic data for antimicrobial resistance analysis at a low cost. Furthermore, our bacterial quantitative fitness analysis (BaQFA) enables the investigation of a link between bacterial fitness and clinical outcomes in severe invasive bacterial infections. This may allow future use of our method for patient management and risk stratification of clinical outcomes. Our proposed method uses open-source software and a hardware setup that can utilize consumer electronics. This will enable a wider community of researchers, including those from low-resource countries, where the burden of antimicrobial resistance is highest, to obtain valuable information about emerging bacterial strains.
+## Quantifying Variation in Bacterial Reproductive Fitness: a High-Throughput Method
 
 [Source](https://msystems.asm.org/content/6/1/e01323-20)
-
-10.1128/mSystems.01323-20
 
 ---
 
@@ -286,39 +280,21 @@ To evaluate changes in reproductive fitness of bacteria, e.g., after acquisition
 
 ---
 
-## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes.
- 12.02.2021, _Y Li, Z Xu, W Han, H Cao, R Umarov, A Yan, M Fan, H Chen, CM Duarte, L Li, PL Ho, X Gao_
-
-
-The spread of antibiotic resistance has become one of the most urgent threats to global health, which is estimated to cause 700,000 deaths each year globally. Its surrogates, antibiotic resistance genes (ARGs), are highly transmittable between food, water, animal, and human to mitigate the efficacy of antibiotics. Accurately identifying ARGs is thus an indispensable step to understanding the ecology, and transmission of ARGs between environmental and human-associated reservoirs. Unfortunately, the previous computational methods for identifying ARGs are mostly based on sequence alignment, which cannot identify novel ARGs, and their applications are limited by currently incomplete knowledge about ARGs.
+## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01002-3)
 
-10.1186/s40168-021-01002-3
-
 ---
 
-## BAGET 2.0: an updated web tool for the effortless retrieval of prokaryotic gene context and sequence.
- 03.02.2021, _B Hepp, V Da Cunha, F Lorieux, J Oberto_
-
-
-The retrieval of a single gene sequence and context from completely sequenced bacterial and archaeal genomes constitutes an intimidating task for the wet bench biologist. Existing web-based genome browsers are either too complex for routine use or only provide a subset of the available prokaryotic genomes.
+## BAGET 2.0: an updated web tool for the effortless retrieval of prokaryotic gene context and sequence
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab082/6126806)
 
-10.1093/bioinformatics/btab082
-
 ---
 
-## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN).
- 09.02.2021, _R Van Damme, M Hölzer, A Viehweger, B Müller, E Bongcam-Rudloff, C Brandt_
-
-
-Metagenomics has redefined many areas of microbiology. However, metagenome-assembled genomes (MAGs) are often fragmented, primarily when sequencing was performed with short reads. Recent long-read sequencing technologies promise to improve genome reconstruction. However, the integration of two different sequencing modalities makes downstream analyses complex. We, therefore, developed MUFFIN, a complete metagenomic workflow that uses short and long reads to produce high-quality bins and their annotations. The workflow is written by using Nextflow, a workflow orchestration software, to achieve high reproducibility and fast and straightforward use. This workflow also produces the taxonomic classification and KEGG pathways of the bins and can be further used for quantification and annotation by providing RNA-Seq data (optionally). We tested the workflow using twenty biogas reactor samples and assessed the capacity of MUFFIN to process and output relevant files needed to analyze the microbial community and their function. MUFFIN produces functional pathway predictions and, if provided de novo metatranscript annotations across the metagenomic sample and for each bin. MUFFIN is available on github under GNUv3 licence: https://github.com/RVanDamme/MUFFIN.
+## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN)
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008716)
-
-10.1371/journal.pcbi.1008716
 
 ---
 
@@ -436,18 +412,6 @@ Metagenomics has redefined many areas of microbiology. However, metagenome-assem
 
 ---
 
-## Plant drought tolerance provided through genome editing of the trehalase gene.
- 11.02.2021, _L Nuñez-Muñoz, B Vargas-Hernández, J Hinojosa-Moya, R Ruiz-Medrano, B Xoconostle-Cázares_
-
-
-Drought is one of the main abiotic factors that affect agricultural productivity, jeopardizing food security. Modern biotechnology is a useful tool for the generation of stress-tolerant crops, but its release and field-testing involves complex regulatory frameworks. However, gene editing technology mediated by the CRISPR/Cas9 system is a suitable strategy for plant breeding, which can lead to precise and specific modifications in the plant genome. The aim of the present work is to produce drought-tolerant plant varieties by modifying the trehalase gene. Furthermore, a new vector platform was developed to edit monocot and dicot genomes, by modifying vectors adding a streptomycin resistance marker for use with the hypervirulent Agrobacterium tumefaciens AGL1 strain. The gRNA design was based on the trehalase sequence in several species of the genus Selaginella that show drought tolerance. Arabidopsis thaliana carrying editions in the trehalase substrate-binding domain showed a higher tolerance to drought stress. In addition, a transient transformation system for gene editing in maize leaves was characterized.
-
-[Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
-
-10.1080/15592324.2021.1877005
-
----
-
 ## #Agrobacterium
 
 [Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
@@ -460,17 +424,6 @@ Drought is one of the main abiotic factors that affect agricultural productivity
 
 ---
 
-## SciComm speaks.
- 17.04.2018, __
-
-
-
-[Source](https://twitter.com/hashtag/scicomm?src=hash&ref_src=twsrc%5Etfw)
-
-10.1126/science.aat7933
-
----
-
 ## #scicomm
 
 [Source](https://twitter.com/hashtag/scicomm?src=hash&ref_src=twsrc%5Etfw)
@@ -480,18 +433,6 @@ Drought is one of the main abiotic factors that affect agricultural productivity
 ## pic.twitter.com/OwpJJmAJoM
 
 [Source](https://t.co/OwpJJmAJoM)
-
----
-
-## COVID-19 pandemic gestational diabetes screening guidelines: A retrospective study in Australian women.
- 11.02.2021, _S Zhu, T Meehan, M Veerasingham, K Sivanesan_
-
-
-Gestational diabetes (GDM) is one of the most common medical complications of pregnancy and associated with significant perinatal and long-term morbidity. Temporary changes to the diagnostic testing for GDM have been recommended for the COVID-19 pandemic. This study aims to identify what proportion of women with GDM would be missed by the COVID-19 GDM screening criteria. Secondly an analysis of the relationship between HbA1c, fasting blood glucose (FBG) and pregnancy outcomes will be completed.
-
-[Source](https://twitter.com/NoemieMatthey/status/1357086103174590465?ref_src=twsrc%5Etfw)
-
-10.1016/j.dsx.2021.01.021
 
 ---
 
