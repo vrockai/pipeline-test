@@ -280,39 +280,21 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
-## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes.
- 12.02.2021, _Y Li, Z Xu, W Han, H Cao, R Umarov, A Yan, M Fan, H Chen, CM Duarte, L Li, PL Ho, X Gao_
-
-
-The spread of antibiotic resistance has become one of the most urgent threats to global health, which is estimated to cause 700,000 deaths each year globally. Its surrogates, antibiotic resistance genes (ARGs), are highly transmittable between food, water, animal, and human to mitigate the efficacy of antibiotics. Accurately identifying ARGs is thus an indispensable step to understanding the ecology, and transmission of ARGs between environmental and human-associated reservoirs. Unfortunately, the previous computational methods for identifying ARGs are mostly based on sequence alignment, which cannot identify novel ARGs, and their applications are limited by currently incomplete knowledge about ARGs.
+## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01002-3)
 
-10.1186/s40168-021-01002-3
-
 ---
 
-## BAGET 2.0: an updated web tool for the effortless retrieval of prokaryotic gene context and sequence.
- 03.02.2021, _B Hepp, V Da Cunha, F Lorieux, J Oberto_
-
-
-The retrieval of a single gene sequence and context from completely sequenced bacterial and archaeal genomes constitutes an intimidating task for the wet bench biologist. Existing web-based genome browsers are either too complex for routine use or only provide a subset of the available prokaryotic genomes.
+## BAGET 2.0: an updated web tool for the effortless retrieval of prokaryotic gene context and sequence
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab082/6126806)
 
-10.1093/bioinformatics/btab082
-
 ---
 
-## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN).
- 09.02.2021, _R Van Damme, M Hölzer, A Viehweger, B Müller, E Bongcam-Rudloff, C Brandt_
-
-
-Metagenomics has redefined many areas of microbiology. However, metagenome-assembled genomes (MAGs) are often fragmented, primarily when sequencing was performed with short reads. Recent long-read sequencing technologies promise to improve genome reconstruction. However, the integration of two different sequencing modalities makes downstream analyses complex. We, therefore, developed MUFFIN, a complete metagenomic workflow that uses short and long reads to produce high-quality bins and their annotations. The workflow is written by using Nextflow, a workflow orchestration software, to achieve high reproducibility and fast and straightforward use. This workflow also produces the taxonomic classification and KEGG pathways of the bins and can be further used for quantification and annotation by providing RNA-Seq data (optionally). We tested the workflow using twenty biogas reactor samples and assessed the capacity of MUFFIN to process and output relevant files needed to analyze the microbial community and their function. MUFFIN produces functional pathway predictions and, if provided de novo metatranscript annotations across the metagenomic sample and for each bin. MUFFIN is available on github under GNUv3 licence: https://github.com/RVanDamme/MUFFIN.
+## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN)
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008716)
-
-10.1371/journal.pcbi.1008716
 
 ---
 
@@ -442,17 +424,6 @@ Metagenomics has redefined many areas of microbiology. However, metagenome-assem
 
 ---
 
-## SciComm speaks.
- 17.04.2018, __
-
-
-
-[Source](https://twitter.com/hashtag/scicomm?src=hash&ref_src=twsrc%5Etfw)
-
-10.1126/science.aat7933
-
----
-
 ## #scicomm
 
 [Source](https://twitter.com/hashtag/scicomm?src=hash&ref_src=twsrc%5Etfw)
@@ -462,18 +433,6 @@ Metagenomics has redefined many areas of microbiology. However, metagenome-assem
 ## pic.twitter.com/OwpJJmAJoM
 
 [Source](https://t.co/OwpJJmAJoM)
-
----
-
-## The benefits of routine prophylactic femoral access during transvenous lead extraction.
- 12.02.2021, _DU Chung, L Müller, T Ubben, Y Yildirim, J Petersen, C Sinning, L Castro, TJ Demal, L Kaiser, N Gosau, H Reichenspurner, S Willems, S Pecha, S Hakmi_
-
-
-The number of patients with necessity for lead extraction has been rising in recent years. Despite significant advances in operator experience and technique, unexpected complications may occur. The prophylactic placement of femoral sheaths allows for immediate endovascular access for emergency procedures and may shorten response time in face of complications.
-
-[Source](https://twitter.com/NoemieMatthey/status/1357086103174590465?ref_src=twsrc%5Etfw)
-
-10.1016/j.hrthm.2021.02.004
 
 ---
 
