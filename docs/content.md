@@ -17,7 +17,7 @@ Antibodies mediate natural and vaccine-induced immunity against viral and bacter
 ---
 
 ## High intake of vegetables is linked to lower white blood cell profile and the effect is mediated by the gut microbiome.
- 13.02.2021, _C Menni, P Louca, SE Berry, A Vijay, S Astbury, ER Leeming, R Gibson, F Asnicar, G Piccinno, J Wolf, R Davies, M Mangino, N Segata, TD Spector, AM Valdes_
+ 12.02.2021, _C Menni, P Louca, SE Berry, A Vijay, S Astbury, ER Leeming, R Gibson, F Asnicar, G Piccinno, J Wolf, R Davies, M Mangino, N Segata, TD Spector, AM Valdes_
 
 
 Chronic inflammation, which can be modulated by diet, is linked to high white blood cell counts and correlates with higher cardiometabolic risk and risk of more severe infections, as in the case of COVID-19.
@@ -313,19 +313,6 @@ Milk products are an important component of human diets, with beneficial effects
 ## The Gut Microbiome, Health &amp; Disease. You truly are what you eat
 
 [Source](https://docs.google.com/forms/d/e/1FAIpQLScfGagez5gkvGNj-Svb-HwrrgHsFvw3PRBDGVSZLGhz8csIDA/viewform)
-
----
-
-## A collection of bacterial isolates from the pig intestine reveals functional and taxonomic diversity.
- 04.01.2021, _D Wylensek, TCA Hitch, T Riedel, A Afrizal, N Kumar, E Wortmann, T Liu, S Devendran, TR Lesker, SB Hernández, V Heine, EM Buhl, P M D'Agostino, F Cumbo, T Fischöder, M Wyschkon, T Looft, VR Parreira, B Abt, HL Doden, L Ly, JMP Alves, M Reichlin, K Flisikowski, LN Suarez, AP Neumann, G Suen, T de Wouters, S Rohn, I Lagkouvardos, E Allen-Vercoe, C Spröer, B Bunk, AJ Taverne-Thiele, M Giesbers, JM Wells, K Neuhaus, A Schnieke, F Cava, N Segata, L Elling, T Strowig, JM Ridlon, TAM Gulder, J Overmann, T Clavel_
-
-
-_Aged, 80 and over, Animals, Bacteria, Bile Acids and Salts, Biodiversity, Clostridium, Feces, Female, Gastrointestinal Microbiome, Genes, Bacterial, Host Specificity, Humans, Intestines, Male, Metagenome, Multigene Family, Phylogeny, RNA, Ribosomal, 16S, Swine_
-Our knowledge about the gut microbiota of pigs is still scarce, despite the importance of these animals for biomedical research and agriculture. Here, we present a collection of cultured bacteria from the pig gut, including 110 species across 40 families and nine phyla. We provide taxonomic descriptions for 22 novel species and 16 genera. Meta-analysis of 16S rRNA amplicon sequence data and metagenome-assembled genomes reveal prevalent and pig-specific species within Lactobacillus, Streptococcus, Clostridium, Desulfovibrio, Enterococcus, Fusobacterium, and several new genera described in this study. Potentially interesting functions discovered in these organisms include a fucosyltransferase encoded in the genome of the novel species Clostridium porci, and prevalent gene clusters for biosynthesis of sactipeptide-like peptides. Many strains deconjugate primary bile acids in in vitro assays, and a Clostridium scindens strain produces secondary bile acids via dehydroxylation. In addition, cells of the novel species Bullifex porci are coccoidal or spherical under the culture conditions tested, in contrast with the usual helical shape of other members of the family Spirochaetaceae. The strain collection, called 'Pig intestinal bacterial collection' (PiBAC), is publicly available at www.dsmz.de/pibac and opens new avenues for functional studies of the pig gut microbiota.
-
-[Source](https://ntu-sg.zoom.us/meeting/register/tJ0rfumuqz4jG91AYyev1mw8Z34sLccAp3xS)
-
-10.1038/s41467-020-19929-w
 
 ---
 
