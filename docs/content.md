@@ -262,27 +262,15 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
-## Bacterial communities regulate temporal variations of the antibiotic resistome in soil following manure amendment.
- 08.02.2021, _J Cheng, X Tang, C Liu_
-
-
-The increasing emergence of antibiotic-resistant genes (ARGs) represents a global threat to human health. Land application of animal manure is known to contribute considerably to the propagation and dispersal of antibiotic resistance in agro-ecosystems. Yet, the primary determinants of the fate of the soil resistome remain obscure. In this study, a pot experiment was conducted to examine temporal changes in ARGs, mobile genetic elements (MGEs), and bacterial communities in a weakly developed loamy soil (an entisol known as calcareous purple soil) upon addition of pig or chicken manure. On the day of manure application, substantial increases in the diversity and relative abundance of ARGs were observed in soil amended with raw pig manure. At the same time, no obvious changes were observed for soil amended with chicken manure. Antibiotic resistance in pig manure-amended soils rapidly decreased over time to a level that was still higher than that of unamended soil at 100 days after manure application. The results of the Mantel test and Procrustes analysis indicated that ARG profiles in soil were significantly correlated with the structure of the bacterial phylogeny. Variation partitioning analysis further revealed that the bacterial community played a major role in regulating the temporal changes in ARGs in soil following manure application. Increased numbers and relative abundances of MGEs and their significant positive correlations with ARGs were observed, which suggest that a potential contribution from lateral gene transfer to the persistence and spread of ARGs should not be overlooked. Overall, our findings provide a better understanding of the mechanisms underlying the dynamics of ARGs in entisols following manure application and have practical implications for managing manure applications in entisols of the study area and other areas.
+## Bacterial communities regulate temporal variations of the antibiotic resistome in soil following manure amendment
 
 [Source](https://link.springer.com/article/10.1007%2Fs11356-021-12746-8)
 
-10.1007/s11356-021-12746-8
-
 ---
 
-## Quantifying Variation in Bacterial Reproductive Fitness: a High-Throughput Method.
- 12.02.2021, _PM Frey, J Baer, J Bergada-Pijuan, C Lawless, PK Bühler, RD Kouyos, KP Lemon, AS Zinkernagel, SD Brugger_
-
-
-To evaluate changes in reproductive fitness of bacteria, e.g., after acquisition of antimicrobial resistance, a low-cost high-throughput method to analyze bacterial growth on agar is desirable for broad usability. In our bacterial quantitative fitness analysis (BaQFA), arrayed cultures are spotted on agar and photographed sequentially while growing. These time-lapse images are analyzed using a purpose-built open-source software to derive normalized image intensity (NI) values for each culture spot. Subsequently, a Gompertz growth model is fitted to NI values, and fitness is calculated from model parameters. To represent a range of clinically important pathogenic bacteria, we used different strains of Enterococcus faecium, Escherichia coli, and Staphylococcus aureus, with and without antimicrobial resistance. Relative competitive fitness (RCF) was defined as the mean fitness ratio of two strains growing competitively on one plate.BaQFA permitted the accurate construction of growth curves from bacteria grown on semisolid agar plates and fitting of Gompertz models. Normalized image intensity values showed a strong association with the total CFU/ml count per spotted culture (P &lt; 0.001) for all strains of the three species. BaQFA showed relevant reproductive fitness differences between individual strains, suggesting substantially higher fitness of methicillin-resistant S. aureus JE2 than Cowan (RCF, 1.58; P &lt; 0.001). Similarly, the vancomycin-resistant E. faecium ST172b showed higher competitive fitness than susceptible E. faecium ST172 (RCF, 1.59; P &lt; 0.001). Our BaQFA method allows detection of fitness differences between bacterial strains and may help to estimate epidemiological antimicrobial persistence or contribute to the prediction of clinical outcomes in severe infections.IMPORTANCE Reproductive fitness of bacteria is a major factor in the evolution and persistence of antimicrobial resistance and may play an important role in severe infections. With a computational approach to quantify fitness in bacteria growing competitively on agar plates, our high-throughput method has been designed to obtain additional phenotypic data for antimicrobial resistance analysis at a low cost. Furthermore, our bacterial quantitative fitness analysis (BaQFA) enables the investigation of a link between bacterial fitness and clinical outcomes in severe invasive bacterial infections. This may allow future use of our method for patient management and risk stratification of clinical outcomes. Our proposed method uses open-source software and a hardware setup that can utilize consumer electronics. This will enable a wider community of researchers, including those from low-resource countries, where the burden of antimicrobial resistance is highest, to obtain valuable information about emerging bacterial strains.
+## Quantifying Variation in Bacterial Reproductive Fitness: a High-Throughput Method
 
 [Source](https://msystems.asm.org/content/6/1/e01323-20)
-
-10.1128/mSystems.01323-20
 
 ---
 
@@ -424,32 +412,9 @@ Metagenomics has redefined many areas of microbiology. However, metagenome-assem
 
 ---
 
-## Experiencing communication related to knowing the cancer diagnosis and prognosis: A multi-perspective interpretative phenomenological study.
- 12.02.2021, _P Melis, M Galletta, CI Aviles Gonzalez, P Contu, MF Jimenez Herrera_
-
-
-To understand the phenomenon of communication related to knowing the diagnosis and prognosis, by exploring the perspectives of patients with advanced cancer and those of their caregivers, physicians and nurses.
-
-[Source](https://twitter.com/NoemieMatthey/status/1357086103174590465)
-
-10.1016/j.ejon.2021.101904
-
----
-
 ## Drawing the #BacterialAlphabet
 
 [Source](https://twitter.com/NoemieMatthey/status/1357086103174590465)
-
----
-
-## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
- 10.02.2021, _JL Steenwyk_
-
-
-
-[Source](https://twitter.com/hashtag/sciart?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/yea.3518
 
 ---
 
@@ -462,18 +427,6 @@ To understand the phenomenon of communication related to knowing the diagnosis a
 ## #BacterialAlphabet
 
 [Source](https://twitter.com/hashtag/BacterialAlphabet?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## A YoeB toxin cleaves both RNA and DNA.
- 12.02.2021, _J McGillick, JR Ames, T Murphy, CR Bourne_
-
-
-Type II toxin-antitoxin systems contain a toxin protein, which mediates diverse interactions within the bacterial cell when it is not bound by its cognate antitoxin protein. These toxins provide a rich source of evolutionarily-conserved tertiary folds that mediate diverse catalytic reactions. These properties make toxins of interest in biotechnology applications, and studies of the catalytic mechanisms continue to provide surprises. In the current work, our studies on a YoeB family toxin from Agrobacterium tumefaciens have revealed a conserved ribosome-independent non-specific nuclease activity. We have quantified the RNA and DNA cleavage activity, revealing they have essentially equivalent dose-dependence while differing in requirements for divalent cations and pH sensitivity. The DNA cleavage activity is as a nickase for any topology of double-stranded DNA, as well as cleaving single-stranded DNA. AtYoeB is able to bind to double-stranded DNA with mid-micromolar affinity. Comparison of the ribosome-dependent and -independent reactions demonstrates an approximate tenfold efficiency imparted by the ribosome. This demonstrates YoeB toxins can act as non-specific nucleases, cleaving both RNA and DNA, in the absence of being bound within the ribosome.
-
-[Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
-
-10.1038/s41598-021-82950-6
 
 ---
 
