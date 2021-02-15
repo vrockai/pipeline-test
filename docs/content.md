@@ -436,18 +436,6 @@ Metagenomics has redefined many areas of microbiology. However, metagenome-assem
 
 ---
 
-## Efficient Transformation of Somatic Embryos and Regeneration of Cork Oak Plantlets with A Gene (CsTL1) Encoding a Chestnut Thaumatin-Like Protein.
- 13.02.2021, _V Cano, MT Martínez, JL Couselo, E Varas, FJ Vieitez, E Corredoira_
-
-
-We present a reproducible procedure for transforming somatic embryos of cork oak with the CsTL1 gene that codes for a thaumatin-like protein, in order to confer tolerance to Phytophthora cinnamomi. Different concentrations/combinations of the antibiotics carbenicillin and cefotaxime, as bacteriostatic agents, and kanamycin, as a selective agent, were tested. A lethal dose of 125 mg/L kanamycin was employed to select transgenic somatic embryos, and carbenicillin was used as a bacteriostatic agent at a concentration of 300 mg/L, which does not inhibit somatic embryo proliferation. The transformation efficiency was clearly genotype-dependent and was higher for the TGR3 genotype (17%) than for ALM80 (4.5%) and ALM6 (2%). Insertion of the transgenes in genomic DNA was confirmed by PCR analysis, whereas expression of the CsTL1 gene was evaluated by semi-quantitative real-time PCR (qPCR) analysis. A vitrification treatment successfully cryopreserved the transgenic lines generated. The antifungal activity of the thaumatin-like protein expressed by the gene CsTL1 was evaluated in an in vitro bioassay with the oomycete P. cinnamomi. Of the eight transgenic lines analyzed, seven survived for between one or two times longer than non-transgenic plantlets. Expression of the CsTL1 gene and plantlet survival days were correlated, and survival was generally greater in plantlets that strongly expressed the CsTL1 gene.
-
-[Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijms22041757
-
----
-
 ## #Agrobacterium
 
 [Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
@@ -457,17 +445,6 @@ We present a reproducible procedure for transforming somatic embryos of cork oak
 ## @Mart1_100dra
 
 [Source](https://twitter.com/Mart1_100dra?ref_src=twsrc%5Etfw)
-
----
-
-## SciComm speaks.
- 17.04.2018, __
-
-
-
-[Source](https://twitter.com/hashtag/scicomm?src=hash&ref_src=twsrc%5Etfw)
-
-10.1126/science.aat7933
 
 ---
 
