@@ -17,7 +17,7 @@ Antibodies mediate natural and vaccine-induced immunity against viral and bacter
 ---
 
 ## High intake of vegetables is linked to lower white blood cell profile and the effect is mediated by the gut microbiome.
- 12.02.2021, _C Menni, P Louca, SE Berry, A Vijay, S Astbury, ER Leeming, R Gibson, F Asnicar, G Piccinno, J Wolf, R Davies, M Mangino, N Segata, TD Spector, AM Valdes_
+ 14.02.2021, _C Menni, P Louca, SE Berry, A Vijay, S Astbury, ER Leeming, R Gibson, F Asnicar, G Piccinno, J Wolf, R Davies, M Mangino, N Segata, TD Spector, AM Valdes_
 
 
 Chronic inflammation, which can be modulated by diet, is linked to high white blood cell counts and correlates with higher cardiometabolic risk and risk of more severe infections, as in the case of COVID-19.
@@ -268,9 +268,15 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
-## Quantifying Variation in Bacterial Reproductive Fitness: a High-Throughput Method
+## Quantifying Variation in Bacterial Reproductive Fitness: a High-Throughput Method.
+ 12.02.2021, _PM Frey, J Baer, J Bergada-Pijuan, C Lawless, PK Bühler, RD Kouyos, KP Lemon, AS Zinkernagel, SD Brugger_
+
+
+To evaluate changes in reproductive fitness of bacteria, e.g., after acquisition of antimicrobial resistance, a low-cost high-throughput method to analyze bacterial growth on agar is desirable for broad usability. In our bacterial quantitative fitness analysis (BaQFA), arrayed cultures are spotted on agar and photographed sequentially while growing. These time-lapse images are analyzed using a purpose-built open-source software to derive normalized image intensity (NI) values for each culture spot. Subsequently, a Gompertz growth model is fitted to NI values, and fitness is calculated from model parameters. To represent a range of clinically important pathogenic bacteria, we used different strains of Enterococcus faecium, Escherichia coli, and Staphylococcus aureus, with and without antimicrobial resistance. Relative competitive fitness (RCF) was defined as the mean fitness ratio of two strains growing competitively on one plate.BaQFA permitted the accurate construction of growth curves from bacteria grown on semisolid agar plates and fitting of Gompertz models. Normalized image intensity values showed a strong association with the total CFU/ml count per spotted culture (P &lt; 0.001) for all strains of the three species. BaQFA showed relevant reproductive fitness differences between individual strains, suggesting substantially higher fitness of methicillin-resistant S. aureus JE2 than Cowan (RCF, 1.58; P &lt; 0.001). Similarly, the vancomycin-resistant E. faecium ST172b showed higher competitive fitness than susceptible E. faecium ST172 (RCF, 1.59; P &lt; 0.001). Our BaQFA method allows detection of fitness differences between bacterial strains and may help to estimate epidemiological antimicrobial persistence or contribute to the prediction of clinical outcomes in severe infections.IMPORTANCE Reproductive fitness of bacteria is a major factor in the evolution and persistence of antimicrobial resistance and may play an important role in severe infections. With a computational approach to quantify fitness in bacteria growing competitively on agar plates, our high-throughput method has been designed to obtain additional phenotypic data for antimicrobial resistance analysis at a low cost. Furthermore, our bacterial quantitative fitness analysis (BaQFA) enables the investigation of a link between bacterial fitness and clinical outcomes in severe invasive bacterial infections. This may allow future use of our method for patient management and risk stratification of clinical outcomes. Our proposed method uses open-source software and a hardware setup that can utilize consumer electronics. This will enable a wider community of researchers, including those from low-resource countries, where the burden of antimicrobial resistance is highest, to obtain valuable information about emerging bacterial strains.
 
 [Source](https://msystems.asm.org/content/6/1/e01323-20)
+
+10.1128/mSystems.01323-20
 
 ---
 
@@ -280,21 +286,39 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
-## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes 
+## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes.
+ 12.02.2021, _Y Li, Z Xu, W Han, H Cao, R Umarov, A Yan, M Fan, H Chen, CM Duarte, L Li, PL Ho, X Gao_
+
+
+The spread of antibiotic resistance has become one of the most urgent threats to global health, which is estimated to cause 700,000 deaths each year globally. Its surrogates, antibiotic resistance genes (ARGs), are highly transmittable between food, water, animal, and human to mitigate the efficacy of antibiotics. Accurately identifying ARGs is thus an indispensable step to understanding the ecology, and transmission of ARGs between environmental and human-associated reservoirs. Unfortunately, the previous computational methods for identifying ARGs are mostly based on sequence alignment, which cannot identify novel ARGs, and their applications are limited by currently incomplete knowledge about ARGs.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01002-3)
 
+10.1186/s40168-021-01002-3
+
 ---
 
-## BAGET 2.0: an updated web tool for the effortless retrieval of prokaryotic gene context and sequence
+## BAGET 2.0: an updated web tool for the effortless retrieval of prokaryotic gene context and sequence.
+ 03.02.2021, _B Hepp, V Da Cunha, F Lorieux, J Oberto_
+
+
+The retrieval of a single gene sequence and context from completely sequenced bacterial and archaeal genomes constitutes an intimidating task for the wet bench biologist. Existing web-based genome browsers are either too complex for routine use or only provide a subset of the available prokaryotic genomes.
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab082/6126806)
 
+10.1093/bioinformatics/btab082
+
 ---
 
-## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN)
+## Metagenomics workflow for hybrid assembly, differential coverage binning, metatranscriptomics and pathway analysis (MUFFIN).
+ 09.02.2021, _R Van Damme, M Hölzer, A Viehweger, B Müller, E Bongcam-Rudloff, C Brandt_
+
+
+Metagenomics has redefined many areas of microbiology. However, metagenome-assembled genomes (MAGs) are often fragmented, primarily when sequencing was performed with short reads. Recent long-read sequencing technologies promise to improve genome reconstruction. However, the integration of two different sequencing modalities makes downstream analyses complex. We, therefore, developed MUFFIN, a complete metagenomic workflow that uses short and long reads to produce high-quality bins and their annotations. The workflow is written by using Nextflow, a workflow orchestration software, to achieve high reproducibility and fast and straightforward use. This workflow also produces the taxonomic classification and KEGG pathways of the bins and can be further used for quantification and annotation by providing RNA-Seq data (optionally). We tested the workflow using twenty biogas reactor samples and assessed the capacity of MUFFIN to process and output relevant files needed to analyze the microbial community and their function. MUFFIN produces functional pathway predictions and, if provided de novo metatranscript annotations across the metagenomic sample and for each bin. MUFFIN is available on github under GNUv3 licence: https://github.com/RVanDamme/MUFFIN.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008716)
+
+10.1371/journal.pcbi.1008716
 
 ---
 
@@ -412,6 +436,18 @@ Milk products are an important component of human diets, with beneficial effects
 
 ---
 
+## Efficient Transformation of Somatic Embryos and Regeneration of Cork Oak Plantlets with A Gene (CsTL1) Encoding a Chestnut Thaumatin-Like Protein.
+ 13.02.2021, _V Cano, MT Martínez, JL Couselo, E Varas, FJ Vieitez, E Corredoira_
+
+
+We present a reproducible procedure for transforming somatic embryos of cork oak with the CsTL1 gene that codes for a thaumatin-like protein, in order to confer tolerance to Phytophthora cinnamomi. Different concentrations/combinations of the antibiotics carbenicillin and cefotaxime, as bacteriostatic agents, and kanamycin, as a selective agent, were tested. A lethal dose of 125 mg/L kanamycin was employed to select transgenic somatic embryos, and carbenicillin was used as a bacteriostatic agent at a concentration of 300 mg/L, which does not inhibit somatic embryo proliferation. The transformation efficiency was clearly genotype-dependent and was higher for the TGR3 genotype (17%) than for ALM80 (4.5%) and ALM6 (2%). Insertion of the transgenes in genomic DNA was confirmed by PCR analysis, whereas expression of the CsTL1 gene was evaluated by semi-quantitative real-time PCR (qPCR) analysis. A vitrification treatment successfully cryopreserved the transgenic lines generated. The antifungal activity of the thaumatin-like protein expressed by the gene CsTL1 was evaluated in an in vitro bioassay with the oomycete P. cinnamomi. Of the eight transgenic lines analyzed, seven survived for between one or two times longer than non-transgenic plantlets. Expression of the CsTL1 gene and plantlet survival days were correlated, and survival was generally greater in plantlets that strongly expressed the CsTL1 gene.
+
+[Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijms22041757
+
+---
+
 ## #Agrobacterium
 
 [Source](https://twitter.com/hashtag/Agrobacterium?src=hash&ref_src=twsrc%5Etfw)
@@ -421,6 +457,17 @@ Milk products are an important component of human diets, with beneficial effects
 ## @Mart1_100dra
 
 [Source](https://twitter.com/Mart1_100dra?ref_src=twsrc%5Etfw)
+
+---
+
+## SciComm speaks.
+ 17.04.2018, __
+
+
+
+[Source](https://twitter.com/hashtag/scicomm?src=hash&ref_src=twsrc%5Etfw)
+
+10.1126/science.aat7933
 
 ---
 
