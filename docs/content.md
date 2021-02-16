@@ -1,144 +1,84 @@
-## A bacteriophage cocktail significantly reduces Listeria monocytogenes without deleterious impact on the commensal gut microbiota under simulated gastro-intestinal conditions
+## Immunological characteristics govern the transition of COVID-19 to endemicity.
+ 12.02.2021, _JS Lavine, ON Bjornstad, R Antia_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.431056v1.abstract)
 
----
+We are currently faced with the question of how the severity of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may change in the years ahead. Our analysis of immunological and epidemiological data on endemic human coronaviruses (HCoVs) shows that infection-blocking immunity wanes rapidly but that disease-reducing immunity is long-lived. Our model, incorporating these components of immunity, recapitulates both the current severity of SARS-CoV-2 infection and the benign nature of HCoVs, suggesting that once the endemic phase is reached and primary exposure is in childhood, SARS-CoV-2 may be no more virulent than the common cold. We predict a different outcome for an emergent coronavirus that causes severe disease in children. These results reinforce the importance of behavioral containment during pandemic vaccine rollout, while prompting us to evaluate scenarios for continuing vaccination in the endemic phase.
 
-## TPR1, a novel rifampin derivative demonstrates efficacy alone and in combination with doxycycline against the NIAID Category A Priority Pathogen&nbsp;<em>F. tularensis</em>
+[Source](https://science.sciencemag.org/content/371/6530/741)
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.431005v1.abstract)
-
----
-
-## A nadA mutation confers nicotinic acid auxotrophy in pro-carcinogenic intestinal Escherichia coli NC101
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.431052v1.abstract)
+10.1126/science.abe6522
 
 ---
 
-## A non-adaptive demographic mechanism for genome expansion in&nbsp;<em>Streptomyces</em>
+## Can we modulate the breastfed infant gut microbiota through maternal diet?
+ 11.02.2021, _AS Sindi, DT Geddes, ME Wlodek, BS Muhlhausler, MS Payne, LF Stinson_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.01.09.426074v2.abstract)
 
----
+Initial colonisation of the infant gut is robustly influenced by regular ingestion of human milk, a substance that contains microbes, microbial metabolites, immune proteins, and oligosaccharides. Numerous factors have been identified as potential determinants of the human milk and infant gut microbiota, including maternal diet; however, there is limited data on the influence of maternal diet during lactation on either of these. Here, we review the processes thought to contribute to human milk and infant gut bacterial colonisation and provide a basis for considering the role of maternal dietary patterns during lactation in shaping infant gut microbial composition and function. Although only one observational study has directly investigated the influence of maternal diet during lactation on the infant gut microbiome, data from animal studies suggests that modulation of the maternal gut microbiota, via diet or probiotics, may influence the mammary or milk microbiota. Additionally, evidence from human studies suggests that the maternal diet during pregnancy may affect the gut microbiota of the breastfed infant. Together, there is a plausible hypothesis that maternal diet during lactation may influence the infant gut microbiota. If substantiated in further studies, this may present a potential window of opportunity for modulating the infant gut microbiome in early life.
 
-## Role of endopeptidases in peptidoglycan synthesis mediated by alternative cross-linking enzymes in&nbsp;<em>Escherichia coli</em>
+[Source](https://academic.oup.com/femsre/advance-article-abstract/doi/10.1093/femsre/fuab011/6133472)
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.430937v1.abstract)
-
----
-
-## In vivo generation of BK and JC polyomavirus defective viral genomes in human urine samples associated with higher viral loads
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.431053v1.abstract?%3Fcollection=)
+10.1093/femsre/fuab011
 
 ---
 
-## Methane-derived carbon flow through host-virus trophic networks in soil
+## Impact of synbiotics on gut microbiota during early life: a randomized, double-blind study
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.16.423115v2.abstract)
-
----
-
-## Genome sequencing of the bacteriophage CL31 and interaction with the host strain&nbsp;<em>Corynebacterium glutamicum</em>&nbsp;ATCC 13032
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.430922v1.abstract)
+[Source](https://www.nature.com/articles/s41598-021-83009-2)
 
 ---
 
-## hlorine inactivation of&nbsp;<em>Escherichia coli O157:H7</em>&nbsp;in fresh produce wash process: effectiveness and modeling 
+## Adaptation of the small intestine to microbial enteropathogens in Zambian children with stunting
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.430939v1.abstract)
-
----
-
-## Subcellular view of host-microbiome nutrient exchange in sponges: insights into the ecological success of an early metazoan-microbe symbiosis.
- 15.02.2021, _M Hudspith, L Rix, M Achlatis, J Bougoure, P Guagliardo, PL Clode, NS Webster, G Muyzer, M Pernice, JM de Goeij_
-
-
-Sponges are increasingly recognised as key ecosystem engineers in many aquatic habitats. They play an important role in nutrient cycling due to their unrivalled capacity for processing both dissolved and particulate organic matter (DOM and POM) and the exceptional metabolic repertoire of their diverse and abundant microbial communities. Functional studies determining the role of host and microbiome in organic nutrient uptake and exchange, however, are limited. Therefore, we coupled pulse-chase isotopic tracer techniques with nanoscale secondary ion mass spectrometry (NanoSIMS) to visualise the uptake and translocation of 13C- and 15N-labelled dissolved and particulate organic food at subcellular level in the high microbial abundance sponge Plakortis angulospiculatus and the low microbial abundance sponge Halisarca caerulea.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00984-w)
-
-10.1186/s40168-020-00984-w
+[Source](https://www.nature.com/articles/s41564-020-00849-w)
 
 ---
 
-## Functional metagenomics reveals differential chitin degradation and utilization features across free-living and host-associated marine microbiomes
+## Genomic aberrations after short-term exposure to colibactin-producing E. coli transform primary colon epithelial cells
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00970-2)
-
----
-
-## Repeatability and reproducibility assessment in a large-scale population-based microbiota study: case study on human milk microbiota
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00998-4)
+[Source](https://www.nature.com/articles/s41467-021-21162-y)
 
 ---
 
-## Do size and shape matter? Exploring the interactions and the metabolome of the soil isolate&nbsp;<em>Hylemonella gracilis</em>
+## Human Milk-Fed Piglets Have a Distinct Small Intestine and Circulatory Metabolome Profile Relative to That of Milk Formula-Fed Piglets
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.11.430889v1.abstract)
-
----
-
-## Modelling the impact of the macroalgae&nbsp;<em>Asparagopsis taxiformis</em>&nbsp;on rumen microbial fermentation and methane production
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.11.09.374330v2.abstract)
+[Source](https://msystems.asm.org/content/6/1/e01376-20)
 
 ---
 
-## Transcriptome signature of cell viability predicts drug response and drug interaction for Tuberculosis
+## Impact of the repurposed drug thonzonium bromide on host oral-gut microbiomes
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.09.430468v2.abstract?%3Fcollection=)
-
----
-
-## Chemical ecology of a tripartite symbiosis
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.13.430781v1.abstract)
+[Source](https://www.nature.com/articles/s41522-020-00181-5)
 
 ---
 
-##  Mapping global shifts in&nbsp;<em>Saccharomyces cerevisiae</em>&nbsp;gene expression across asynchronous time trajectories with diffusion maps 
+## Deciphering a Marine Bone-Degrading Microbiome Reveals a Complex Community Effort 
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.11.430862v1.abstract)
-
----
-
-## Recurrent Vulvovaginal Candidiasis; a dynamic interkingdom biofilm disease of Candida and Lactobacillus 
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.430906v1.abstract)
+[Source](https://msystems.asm.org/content/6/1/e01218-20)
 
 ---
 
-## An interactive real-time simulation for teaching genetic drift
+## Balance between promiscuity and specificity in phage λ host range
 
-[Source](https://www.biorxiv.org/content/10.1101/268672v3.abstract)
-
----
-
-## Direct-from-specimen microbial growth inhibition spectrums under antibiotic exposure and comparison to conventional antimicrobial susceptibility testing
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.12.430910v1.abstract)
+[Source](https://www.nature.com/articles/s41396-021-00912-2)
 
 ---
 
-## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes.
- 12.02.2021, _Y Li, Z Xu, W Han, H Cao, R Umarov, A Yan, M Fan, H Chen, CM Duarte, L Li, PL Ho, X Gao_
+## Resolving cryptic species complexes in marine protists: phylogenetic haplotype networks meet global DNA metabarcoding datasets
 
-
-The spread of antibiotic resistance has become one of the most urgent threats to global health, which is estimated to cause 700,000 deaths each year globally. Its surrogates, antibiotic resistance genes (ARGs), are highly transmittable between food, water, animal, and human to mitigate the efficacy of antibiotics. Accurately identifying ARGs is thus an indispensable step to understanding the ecology, and transmission of ARGs between environmental and human-associated reservoirs. Unfortunately, the previous computational methods for identifying ARGs are mostly based on sequence alignment, which cannot identify novel ARGs, and their applications are limited by currently incomplete knowledge about ARGs.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01002-3)
-
-10.1186/s40168-021-01002-3
+[Source](https://www.nature.com/articles/s41396-021-00895-0)
 
 ---
 
-## Microbiome to be game changer in immunotherapy
+## A “data sharing trust” model for rapid, collaborative science
 
-[Source](https://www.koreatimes.co.kr/www/nation/2021/02/119_303866.html)
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00006-4)
+
+---
+
+## A 16S rRNA Gene and Draft Genome Database for the Murine Oral Bacterial Community
+
+[Source](https://msystems.asm.org/content/6/1/e01222-20)
 
 ---
 
