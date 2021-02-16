@@ -52,9 +52,15 @@
 
 ---
 
-## Subcellular view of host–microbiome nutrient exchange in sponges: insights into the ecological success of an early metazoan–microbe symbiosis
+## Subcellular view of host-microbiome nutrient exchange in sponges: insights into the ecological success of an early metazoan-microbe symbiosis.
+ 15.02.2021, _M Hudspith, L Rix, M Achlatis, J Bougoure, P Guagliardo, PL Clode, NS Webster, G Muyzer, M Pernice, JM de Goeij_
+
+
+Sponges are increasingly recognised as key ecosystem engineers in many aquatic habitats. They play an important role in nutrient cycling due to their unrivalled capacity for processing both dissolved and particulate organic matter (DOM and POM) and the exceptional metabolic repertoire of their diverse and abundant microbial communities. Functional studies determining the role of host and microbiome in organic nutrient uptake and exchange, however, are limited. Therefore, we coupled pulse-chase isotopic tracer techniques with nanoscale secondary ion mass spectrometry (NanoSIMS) to visualise the uptake and translocation of 13C- and 15N-labelled dissolved and particulate organic food at subcellular level in the high microbial abundance sponge Plakortis angulospiculatus and the low microbial abundance sponge Halisarca caerulea.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00984-w)
+
+10.1186/s40168-020-00984-w
 
 ---
 
@@ -118,9 +124,15 @@
 
 ---
 
-## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes 
+## HMD-ARG: hierarchical multi-task deep learning for annotating antibiotic resistance genes.
+ 12.02.2021, _Y Li, Z Xu, W Han, H Cao, R Umarov, A Yan, M Fan, H Chen, CM Duarte, L Li, PL Ho, X Gao_
+
+
+The spread of antibiotic resistance has become one of the most urgent threats to global health, which is estimated to cause 700,000 deaths each year globally. Its surrogates, antibiotic resistance genes (ARGs), are highly transmittable between food, water, animal, and human to mitigate the efficacy of antibiotics. Accurately identifying ARGs is thus an indispensable step to understanding the ecology, and transmission of ARGs between environmental and human-associated reservoirs. Unfortunately, the previous computational methods for identifying ARGs are mostly based on sequence alignment, which cannot identify novel ARGs, and their applications are limited by currently incomplete knowledge about ARGs.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01002-3)
+
+10.1186/s40168-021-01002-3
 
 ---
 
