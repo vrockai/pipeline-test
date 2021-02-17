@@ -1,5 +1,5 @@
 ## Immunological characteristics govern the transition of COVID-19 to endemicity.
- 12.02.2021, _JS Lavine, ON Bjornstad, R Antia_
+ 16.02.2021, _JS Lavine, ON Bjornstad, R Antia_
 
 
 We are currently faced with the question of how the severity of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) may change in the years ahead. Our analysis of immunological and epidemiological data on endemic human coronaviruses (HCoVs) shows that infection-blocking immunity wanes rapidly but that disease-reducing immunity is long-lived. Our model, incorporating these components of immunity, recapitulates both the current severity of SARS-CoV-2 infection and the benign nature of HCoVs, suggesting that once the endemic phase is reached and primary exposure is in childhood, SARS-CoV-2 may be no more virulent than the common cold. We predict a different outcome for an emergent coronavirus that causes severe disease in children. These results reinforce the importance of behavioral containment during pandemic vaccine rollout, while prompting us to evaluate scenarios for continuing vaccination in the endemic phase.
