@@ -36,7 +36,7 @@ The mortality rate of very preterm infants with birth weight &lt;1500 g is as hi
 ---
 
 ## The gut microbiome modulates the protective association between a Mediterranean diet and cardiometabolic disease risk.
- 17.02.2021, _DD Wang, LH Nguyen, Y Li, Y Yan, W Ma, E Rinott, KL Ivey, I Shai, WC Willett, FB Hu, EB Rimm, MJ Stampfer, AT Chan, C Huttenhower_
+ 18.02.2021, _DD Wang, LH Nguyen, Y Li, Y Yan, W Ma, E Rinott, KL Ivey, I Shai, WC Willett, FB Hu, EB Rimm, MJ Stampfer, AT Chan, C Huttenhower_
 
 
 To address how the microbiome might modify the interaction between diet and cardiometabolic health, we analyzed longitudinal microbiome data from 307 male participants in the Health Professionals Follow-Up Study, together with long-term dietary information and measurements of biomarkers of glucose homeostasis, lipid metabolism and inflammation from blood samples. Here, we demonstrate that a healthy Mediterranean-style dietary pattern is associated with specific functional and taxonomic components of the gut microbiome, and that its protective associations with cardiometabolic health vary depending on microbial composition. In particular, the protective association between adherence to the Mediterranean diet and cardiometabolic disease risk was significantly stronger among participants with decreased abundance of Prevotella copri. Our findings advance the concept of precision nutrition and have the potential to inform more effective and precise dietary approaches for the prevention of cardiometabolic disease mediated through alterations in the gut microbiome.
