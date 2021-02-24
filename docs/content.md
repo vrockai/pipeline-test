@@ -22,39 +22,21 @@
 
 ---
 
-## Lactic acid-containing products for bacterial vaginosis and their impact on the vaginal microbiota: A systematic review.
- 20.02.2021, _EL Plummer, CS Bradshaw, M Doyle, CK Fairley, GL Murray, D Bateson, L Masson, J Slifirski, G Tachedjian, LA Vodstrcil_
-
-
-The vaginal microbiota in bacterial vaginosis (BV) typically has low abundance of lactic acid producing lactobacilli. Lactic acid has properties that may make it effective for treating BV and/or restoring an optimal lactobacillus-dominated vaginal microbiota. We conducted a systematic review to describe the effect of intravaginal lactic acid-containing products on BV cure, and their impact on vaginal microbiota composition (PROSPERO registration: CRD42018115982).
+## Lactic acid-containing products for bacterial vaginosis and their impact on the vaginal microbiota: A systematic review
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246953)
 
-10.1371/journal.pone.0246953
-
 ---
 
-## Effects of colon-targeted vitamins on the composition and metabolic activity of the human gut microbiome- a pilot study.
- 22.02.2021, _VT Pham, S Fehlbaum, N Seifert, N Richard, MJ Bruins, W Sybesma, A Rehman, RE Steinert_
-
-
-An increasing body of evidence has shown that gut microbiota imbalances are linked to diseases. Currently, the possibility of regulating gut microbiota to reverse these perturbations by developing novel therapeutic and preventive strategies is being extensively investigated. The modulatory effect of vitamins on the gut microbiome and related host health benefits remain largely unclear. We investigated the effects of colon-delivered vitamins A, B2, C, D, and E on the gut microbiota using a human clinical study and batch fermentation experiments, in combination with cell models for the assessment of barrier and immune functions. Vitamins C, B2, and D may modulate the human gut microbiome in terms of metabolic activity and bacterial composition. The most distinct effect was that of vitamin C, which significantly increased microbial alpha diversity and fecal short-chain fatty acids compared to the placebo. The remaining vitamins tested showed similar effects on microbial diversity, composition, and/or metabolic activity in vitro, but in varying degrees. Here, we showed that vitamins may modulate the human gut microbiome. Follow-up studies investigating targeted delivery of vitamins to the colon may help clarify the clinical significance of this novel concept for treating and preventing dysbiotic microbiota-related human diseases. Trial registration: ClinicalTrials.gov, NCT03668964. Registered 13 September 2018 - Retrospectively registered, https://clinicaltrials.gov/ct2/show/NCT03668964.
+## Effects of colon-targeted vitamins on the composition and metabolic activity of the human gut microbiome– a pilot study
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1875774)
 
-10.1080/19490976.2021.1875774
-
 ---
 
-## Co-infecting pathogen lineages have additive effects on host bacterial communities.
- 13.02.2021, _D Medina, SE Greenspan, T Carvalho, CG Becker, LF Toledo_
-
-
-Amphibian skin bacteria may confer protection against the fungus Batrachochytrium dendrobatidis (Bd), but responses of skin bacteria to different Bd lineages are poorly understood. The global panzootic lineage (Bd-GPL) has caused amphibian declines and extinctions globally. However, other lineages are enzootic (Bd-Asia-2/Brazil). Increased contact rates between Bd-GPL and enzootic lineages via globalization pose unknown consequences for host-microbiome-pathogen dynamics. We conducted a laboratory experiment and used 16S rRNA amplicon-sequencing to assess: 1) whether two lineages (Bd-Asia-2/Brazil and Bd-GPL) and their recombinant, in single and mixed infections, differentially affect amphibian skin bacteria; 2) and the changes associated with the transition to laboratory conditions. We determined no clear differences in bacterial diversity among Bd treatments, despite differences in infection intensity. However, we observed an additive effect of mixed infections on bacterial alpha diversity and a potentially antagonistic interaction between Bd genotypes. Additionally, observed changes in community composition suggest a higher ability of Bd-GPL to alter skin bacteria. Lastly, we observed a drastic reduction in bacterial diversity and a change in community structure in laboratory conditions. We provide evidence for complex interactions between Bd genotypes and amphibian skin bacteria during coinfections, and expand on the implications of experimental conditions in ecological studies.
+## Co-infecting pathogen lineages have additive effects on host bacterial communities
 
 [Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiab030/6134751)
-
-10.1093/femsec/fiab030
 
 ---
 
