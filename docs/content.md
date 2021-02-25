@@ -1,42 +1,84 @@
-## Taxonomic and functional analyses of intact microbial communities thriving in extreme, astrobiology-relevant, anoxic sites.
- 23.02.2021, _AK Bashir, L Wink, S Duller, P Schwendner, C Cockell, P Rettberg, A Mahnert, K Beblo-Vranesevic, M Bohmeier, E Rabbow, F Gaboyer, F Westall, N Walter, P Cabezas, L Garcia-Descalzo, F Gomez, M Malki, R Amils, P Ehrenfreund, E Monaghan, P Vannier, V Marteinsson, A Erlacher, G Tanski, J Strauss, M Bashir, A Riedo, C Moissl-Eichinger_
+## The evolution of coexistence from competition in experimental co-cultures of Escherichia coli and Saccharomyces cerevisiae.
+ 23.10.2020, _JN Barber, AL Sezmis, LC Woods, TD Anderson, JM Voss, MJ McDonald_
 
 
-Extreme terrestrial, analogue environments are widely used models to study the limits of life and to infer habitability of extraterrestrial settings. In contrast to Earth's ecosystems, potential extraterrestrial biotopes are usually characterized by a lack of oxygen.
+Microbial communities are comprised of many species that coexist on small spatial scales. This is difficult to explain because many interspecies interactions are competitive, and ecological theory predicts that one species will drive the extinction of another species that competes for the same resource. Conversely, evolutionary theory proposes that natural selection can lead to coexistence by driving competing species to use non-overlapping resources. However, evolutionary escape from extinction may be slow compared to the rate of competitive exclusion. Here, we use experimental co-cultures of Escherichia coli and Saccharomyces cerevisiae to study the evolution of coexistence in species that compete for resources. We find that while E. coli usually outcompetes S. cerevisiae in co-culture, a few populations evolved stable coexistence after ~1000 generations of coevolution. We sequenced S. cerevisiae and E. coli populations, identified multi-hit genes, and engineered alleles from these genes into several genetic backgrounds, finding that some mutations modified interactions between E. coli and S. cerevisiae. Together, our data demonstrate that coexistence can evolve, de novo, from intense competition between two species with no history of coevolution.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00989-5)
+[Source](https://www.nature.com/articles/s41396-020-00810-z)
 
-10.1186/s40168-020-00989-5
-
----
-
-## Pseudomonas kielensis sp. nov. and Pseudomonas baltica sp. nov., isolated from raw milk in Germany.
- 23.02.2021, _S Gieschler, G Fiedler, C Böhnlein, C Grimmler, CMAP Franz, J Kabisch_
-
-
-In this study, nine Gram-negative, motile and rod-shaped bacteria were isolated during a Germany-wide investigation of raw milk microbiota. The strains could be differentiated from their closest relatives by phenotypic and chemotaxonomic characterization and average nucleotide identity (ANIb) values calculated from draft genome assemblies. Strains MBT-1T, MBT-8, MBT-9, MBT-10, MBT-11 and MBT-12 were related to the Pseudomonas chlororaphis subgroup. Isolates MBT-2T, MBT-13 and MBT-14 were closely related to Pseudomonas rhizosphaerae DSM 16299T with an ANIb of 88.2 % and a genome-to-genome distance result of 36.0 %. The G+C content of the DNA of strains MBT-1T and MBT-2T was 60.84 and 62.48 mol%, respectively. The major fatty acids were C16 : 1 ω7c (summed feature 3), C16 : 0 and C18 : 1 ω7c (summed feature 8). The strains were catalase-positive, while production of urease, β-galactosidase and indole were negative. Growth occurred at 4-30 °C and at pH values of pH 6.0-8.0. Based on these results, we conclude that the strains belong to two novel species, for which the names Pseudomonas kielensis sp. nov. and Pseudomonas baltica sp. nov. are proposed. The type strains are MBT-1T (=DSM 111668 T= LMG 31954T) and MBT-2T (=DSM 111761 T=LMG 31955T).
-
-[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.004717)
-
-10.1099/ijsem.0.004717
+10.1038/s41396-020-00810-z
 
 ---
 
-## <span style="color:#0b7e4e;" class="has-inline-color">Development of a human skin commensal microbe for bacteriotherapy of atopic dermatitis and use in a phase 1 randomized clinical trial</span>
+## Quantifying the effects of antibiotic treatment on the extracellular polymer network of antimicrobial resistant and sensitive biofilms using multiple particle tracking.
+ 17.02.2021, _LC Powell, M Abdulkarim, J Stokniene, QE Yang, TR Walsh, KE Hill, M Gumbleton, DW Thomas_
 
-[Source](https://www.nature.com/articles/s41591-021-01256-2)
+
+Novel therapeutics designed to target the polymeric matrix of biofilms requires innovative techniques to accurately assess their efficacy. Here, multiple particle tracking (MPT) was developed to characterize the physical and mechanical properties of antimicrobial resistant (AMR) bacterial biofilms and to quantify the effects of antibiotic treatment. Studies employed nanoparticles (NPs) of varying charge and size (40-500 nm) in Pseudomonas aeruginosa PAO1 and methicillin-resistant Staphylococcus aureus (MRSA) biofilms and also in polymyxin B (PMB) treated Escherichia coli biofilms of PMB-sensitive (PMBSens) IR57 and PMB-resistant (PMBR) PN47 strains. NP size-dependent and strain-related differences in the diffusion coefficient values of biofilms were evident between PAO1 and MRSA. Dose-dependent treatment effects induced by PMB in PMBSens E. coli biofilms included increases in diffusion and creep compliance (P &lt; 0.05), not evident in PMB treatment of PMBR E. coli biofilms. Our results highlight the ability of MPT to quantify the diffusion and mechanical effects of antibiotic therapies within the AMR biofilm matrix, offering a valuable tool for the pre-clinical screening of anti-biofilm therapies.
+
+[Source](https://www.nature.com/articles/s41522-020-00172-6)
+
+10.1038/s41522-020-00172-6
 
 ---
 
-## Gut microbiome diversity is an independent predictor of survival in cervical cancer patients receiving chemoradiation.
- 23.02.2021, _TT Sims, MB El Alam, TV Karpinets, S Dorta-Estremera, VL Hegde, S Nookala, K Yoshida-Court, X Wu, GWG Biegert, AY Delgado Medrano, T Solley, M Ahmed-Kaddar, BV Chapman, KJ Sastry, MP Mezzari, JF Petrosino, LL Lin, L Ramondetta, A Jhingran, KM Schmeler, NJ Ajami, J Wargo, LE Colbert, AH Klopp_
+## Biofilms harbour Clostridioides difficile, serving as a reservoir for recurrent infection.
+ 17.02.2021, _C Normington, IB Moura, JA Bryant, DJ Ewin, EV Clark, MJ Kettle, HC Harris, W Spittal, G Davis, MR Henn, CB Ford, MH Wilcox, AM Buckley_
 
 
-Diversity of the gut microbiome is associated with higher response rates for cancer patients receiving immunotherapy but has not been investigated in patients receiving radiation therapy. Additionally, current studies investigating the gut microbiome and outcomes in cancer patients may not have adjusted for established risk factors. Here, we sought to determine if diversity and composition of the gut microbiome was independently associated with survival in cervical cancer patients receiving chemoradiation. Our study demonstrates that the diversity of gut microbiota is associated with a favorable response to chemoradiation. Additionally, compositional variation among patients correlated with short term and long-term survival. Short term survivor fecal samples were significantly enriched in Porphyromonas, Porphyromonadaceae, and Dialister, whereas long term survivor samples were significantly enriched in Escherichia Shigella, Enterobacteriaceae, and Enterobacteriales. Moreover, analysis of immune cells from cervical tumor brush samples by flow cytometry revealed that patients with a high microbiome diversity had increased tumor infiltration of CD4+ lymphocytes as well as activated subsets of CD4 cells expressing ki67+ and CD69+ over the course of radiation therapy. Modulation of the gut microbiota before chemoradiation might provide an alternative way to enhance treatment efficacy and improve treatment outcomes in cervical cancer patients.
+C. difficile infection (CDI) is a worldwide healthcare problem with ~30% of cases failing primary therapy, placing a burden on healthcare systems and increasing patient morbidity. We have little understanding of why these therapies fail. Here, we use a clinically validated in vitro gut model to assess the contribution of biofilms towards recurrent disease and to investigate biofilm microbiota-C. difficile interactions. Initial experiments show that C. difficile cells became associated with the colonic biofilm microbiota and are not depleted by vancomycin or faecal microbiota transplant therapies. We observe that transferring biofilm encased C. difficile cells into a C. difficile naïve but CDI susceptible model induces CDI. Members of the biofilm community can impact C. difficile biofilm formation by acting either antagonistically or synergistically. We highlight the importance of biofilms as a reservoir for C. difficile, which can be a cause for recurrent infections.
 
-[Source](https://www.nature.com/articles/s42003-021-01741-x)
+[Source](https://www.nature.com/articles/s41522-021-00184-w)
 
-10.1038/s42003-021-01741-x
+10.1038/s41522-021-00184-w
+
+---
+
+## The contribution of gut bacterial metabolites in the human immune signaling pathway of non-communicable diseases.
+ 16.02.2021, _F Hosseinkhani, A Heinken, I Thiele, PW Lindenburg, AC Harms, T Hankemeier_
+
+
+The interaction disorder between gut microbiota and its host has been documented in different non-communicable diseases (NCDs) such as metabolic syndrome, neurodegenerative disease, and autoimmune disease. The majority of these altered interactions arise through metabolic cross-talk between gut microbiota and host immune system, inducing a low-grade chronic inflammation that characterizes all NCDs. In this review, we discuss the contribution of bacterial metabolites to immune signaling pathways involved in NCDs. We then review recent advances that aid to rationally design microbial therapeutics. A deeper understanding of these intersections between host and gut microbiota metabolism using metabolomics-based system biology platform promises to reveal the fundamental mechanisms that drive metabolic predispositions to disease and suggest new avenues to use microbial therapeutic opportunities for NCDs treatment and prevention. Abbreviations: NCDs: non-communicable disease, IBD: inflammatory bowel disease, IL: interleukin, T2D: type 2 diabetes, SCFAs: short-chain fatty acids, HDAC: histone deacetylases, GPCR: G-protein coupled receptors, 5-HT: 5-hydroxytryptamine receptor signaling, DCs: dendritic cells, IECs: intestinal epithelial cells, T-reg: T regulatory cell, NF-κB: nuclear factor κB, TNF-α: tumor necrosis factor alpha, Th: T helper cell, CNS: central nervous system, ECs: enterochromaffin cells, NSAIDs: non-steroidal anti-inflammatory drugs, AhR: aryl hydrocarbon receptor, IDO: indoleamine 2,3-dioxygenase, QUIN: quinolinic acid, PC: phosphatidylcholine, TMA: trimethylamine, TMAO: trimethylamine N-oxide, CVD: cardiovascular disease, NASH: nonalcoholic steatohepatitis, BAs: bile acids, FXR: farnesoid X receptor, CDCA: chenodeoxycholic acid, DCA: deoxycholic acid, LCA: lithocholic acid, UDCA: ursodeoxycholic acid, CB: cannabinoid receptor, COBRA: constraint-based reconstruction and analysis.
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1882927)
+
+10.1080/19490976.2021.1882927
+
+---
+
+## The effect of acute moderate-intensity exercise on the serum and fecal metabolomes and the gut microbiota of cross-country endurance athletes.
+ 15.02.2021, _M Tabone, C Bressa, JA García-Merino, D Moreno-Pérez, EC Van, FA Castelli, F Fenaille, M Larrosa_
+
+
+Physical exercise can produce changes in the microbiota, conferring health benefits through mechanisms that are not fully understood. We sought to determine the changes driven by exercise on the gut microbiota and on the serum and fecal metabolome using 16S rRNA gene analysis and untargeted metabolomics. A total of 85 serum and 12 fecal metabolites and six bacterial taxa (Romboutsia, Escherichia coli TOP498, Ruminococcaceae UCG-005, Blautia, Ruminiclostridium 9 and Clostridium phoceensis) were modified following a controlled acute exercise session. Among the bacterial taxa, Ruminiclostridium 9 was the most influenced by fecal and serum metabolites, as revealed by linear multivariate regression analysis. Exercise significantly increased the fecal ammonia content. Functional analysis revealed that alanine, aspartate and glutamate metabolism and the arginine and aminoacyl-tRNA biosynthesis pathways were the most relevant modified pathways in serum, whereas the phenylalanine, tyrosine and tryptophan biosynthesis pathway was the most relevant pathway modified in feces. Correlation analysis between fecal and serum metabolites suggested an exchange of metabolites between both compartments. Thus, the performance of a single exercise bout in cross-country non-professional athletes produces significant changes in the microbiota and in the serum and fecal metabolome, which may have health implications.
+
+[Source](https://www.nature.com/articles/s41598-021-82947-1)
+
+10.1038/s41598-021-82947-1
+
+---
+
+## Candida albicans promotes tooth decay by inducing oral microbial dysbiosis.
+ 07.11.2020, _Q Du, B Ren, J He, X Peng, Q Guo, L Zheng, J Li, H Dai, V Chen, L Zhang, X Zhou, X Xu_
+
+
+Candida albicans has been detected in root carious lesions. The current study aimed to explore the action of this fungal species on the microbial ecology and the pathogenesis of root caries. Here, by analyzing C. albicans in supragingival dental plaque collected from root carious lesions and sound root surfaces of root-caries subjects as well as caries-free individuals, we observed significantly increased colonization of C. albicans in root carious lesions. Further in vitro and animal studies showed that C. albicans colonization increased the cariogenicity of oral biofilm by altering its microbial ecology, leading to a polymicrobial biofilm with enhanced acidogenicity, and consequently exacerbated tooth demineralization and carious lesion severity. More importantly, we demonstrated that the cariogenicity-promoting activity of C. albicans was dependent on PHR2. Deletion of PHR2 restored microbial equilibrium and led to a less cariogenic biofilm as demonstrated by in vitro artificial caries model or in vivo root-caries rat model. Our data indicate the critical role of C. albicans infection in the occurrence of root caries. PHR2 is the major factor that determines the ecological impact and caries-promoting activity of C. albicans in a mixed microbial consortium.
+
+[Source](https://www.nature.com/articles/s41396-020-00823-8)
+
+10.1038/s41396-020-00823-8
+
+---
+
+## Characterization of oral virome and microbiome revealed distinctive microbiome disruptions in paediatric patients with hand, foot and mouth disease.
+ 22.02.2021, _SX Ho, N Min, EPY Wong, CY Chong, JJH Chu_
+
+
+While the underlying determinants are unclear, hand, foot and mouth disease (HFMD) presents a wide spectrum of clinical manifestations with varying severity in different individuals. Recently, many studies identified the human microbiome as a critical factor in the pathogenesis of various diseases. Therefore, we here investigated the ecological dynamics of the oral microbiome changes during the HFMD infection. After targeted enrichment of all known vertebrate viruses, the virome profiles of symptomatic and asymptomatic HFMD patients were examined and revealed to be significantly altered from those of healthy individuals, with nine discriminative viruses detected. Further characterization of the prokaryotic microbiome revealed an elevated level of Streptococcus sp. as the most important signature of the symptomatic HFMD cohort, positively correlating to the level of enterovirus A RNA. In addition, we found that while coxsackievirus A5 is detected in saliva RNA of all asymptomatic cases, coxsackievirus A6 dominates the majority of the symptomatic cohort.
+
+[Source](https://www.nature.com/articles/s41522-021-00190-y)
+
+10.1038/s41522-021-00190-y
 
 ---
 
@@ -52,153 +94,182 @@ The human skin microbiota is considered to be essential for skin homeostasis and
 
 ---
 
-## Microbial analyses of blood spot surfaces collected from a laboratory and the bathroom of a female single-person household under different environmental conditions.
- 23.02.2021, _HS You, SH Lee, YJ Lee, HJ Sung, HG Kang, SH Hyun_
+## A gene co-association network regulating gut microbial communities in a Duroc pig population
 
-
-Many people spend most of their time indoors, thereby exposing themselves to indoor environmental microbial communities that might interact with the human microbiota. These potential interactions have only been considered for personal identification; however, accumulating evidence indicates that these microbial interactions are potentially implicated with the identification of human interactions and location-specific factors including time and seasonal variations in the microbial community. To augment the potential of metagenomics-based forensic tools, we compared the composition of microbial communities in blood spot surfaces from healthy adults placed in different environments, such as in the bathroom of a female single-person household and on a laboratory, which were sampled across seasons and time points. The laboratory samples showed more changes in the bacterial community over time owing to the higher number of individuals using the laboratory, whereas the microbial communities in the bathroom samples remained relatively stable over time. Moreover, the two locations could be distinguished according to their specific bacterial community compositions. Variations were also observed related to changes in temperature and humidity, allowing for prediction of season-based microbial community. These findings offer a new perspective regarding the use of microbial community analysis in forensic science.
-
-[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnab023/6147037)
-
-10.1093/femsle/fnab023
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00994-8)
 
 ---
 
-## Antidepressants fluoxetine and amitriptyline induce alterations in intestinal microbiota and gut microbiome function in rats exposed to chronic unpredictable mild stress.
- 19.02.2021, _W Zhang, W Qu, H Wang, H Yan_
+## Modulating gut microbiota in a mouse model of Graves’ orbitopathy and its impact on induced disease
 
-
-Antidepressant medications are known to modulate the central nervous system, and gut microbiota can play a role in depression via microbiota-gut-brain axis. But the impact of antidepressants on gut microbiota function and composition remains poorly understood. Thus this study assessed the effect of serotonin reuptake inhibitor antidepressant fluoxetine (Flu) and tricyclic antidepressant amitriptyline (Ami) administration on gut microbiota composition, diversity, and species abundance, along with microbial function in a chronic unpredictable mild stress (CUMS)-induced depression rat model. Oral administration of Ami and Flu significantly altered the overall gut microbiota profile of CUMS-induced rats, as assessed using the permutational multivariate analysis of variance test. At the phylum level, 6-week of antidepressant treatment led to a decreased Firmicutes/Bacteroidetes ratio due to an enhanced Bacteroidetes and reduced Firmicutes relative abundance. Flu was more potent than Ami at altering the Firmicutes and Bacteroidetes levels in the CUMS rats. At the family level, both antidepressants significantly increased the abundance of Porphyromonadaceae. However, an increased Bacteroidaceae level was significantly associated with Ami, not Flu treatment. Furthermore, at the genus level, an increase in the relative abundance of Parabacteroides, Butyricimonas, and Alistipes was observed following Ami and Flu treatment. Subsequent metagenomics and bioinformatics analysis further indicated that Ami and Flu likely also modulated metabolic pathways, such as those involved in carbohydrate metabolism, membrane transport, and signal transduction. Additionally, both antidepressants affected antibiotic resistome, such as for aminoglycoside (aph3iiiA), multidrug (mdtK, mdtP, mdtH, mdtG, acrA), and tetracycline (tetM) resistance in CUMS rats. These data clearly illustrated the direct impact of oral administration of Flu and Ami on the gut microbiome, thus set up the foundation to reveal more insights on the therapeutic function of the antidepressants and their overall contribution to host health.
-
-[Source](https://www.nature.com/articles/s41398-021-01254-5)
-
-10.1038/s41398-021-01254-5
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00952-4)
 
 ---
 
-## Ginsenoside Rk3 Ameliorates Obesity-Induced Colitis by Regulating of Intestinal Flora and the TLR4/NF-κB Signaling Pathway in C57BL/6 Mice.
- 23.02.2021, _H Chen, H Yang, J Deng, D Fan_
+## Multi-compartment metabolomics and metagenomics reveal major hepatic and intestinal disturbances in cancer cachectic mice
 
-
-Obesity-induced colonic inflammation-stimulated colitis is one of the main causes of colorectal cancer. Dietary phytochemicals are considered to be an effective strategy for relieving obesity-induced inflammatory diseases such as diabetes and colitis. Ginsenoside Rk3 (Rk3) is the main bioactive component of ginseng. Our previous study has demonstrated that Rk3 can effectively alleviate obesity-induced type 2 diabetes, but whether it plays a beneficial role in obesity-induced colitis remains poorly understood. Here, we found that Rk3 intervention repaired the intestinal barrier dysfunction by increasing the expression of the tight junction proteins (zonula occludens-1, claudin, and occludin), and reduced colonic inflammatory cytokine levels, oxidative stress, and macrophage infiltration in high-fat diet-induced mice. Importantly, Rk3 effectively ameliorated the metabolic dysbiosis of intestinal flora with significantly decreased Firmicute/Bacteroidete ratios and suppressed the inflammatory cascade by inhibiting the TLR4/NF-κB signaling pathway. Taken together, our findings indicate that Rk3 can be used as a potential natural anti-inflammatory agent to reduce chronic obesity-induced colitis.
-
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.0c07805)
-
-10.1021/acs.jafc.0c07805
+[Source](https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcsm.12684)
 
 ---
 
-## Dietary anthocyanin-rich extract of açai protects from diet-induced obesity, liver steatosis, and insulin resistance with modulation of gut microbiota in mice.
- 23.02.2021, _H Song, X Shen, R Deng, Y Zhang, X Zheng_
-
-
-Açai is a rich source of anthocyanins and has been used as a dietary supplement and as an active pharmaceutical ingredient. Growing evidence indicates that host-microbial interactions played a vital role in the host metabolism. The aim of this study was to investigate the anthocyanin-rich extract of açai (Euterpe oleracea Mart.) fruit (AEA) regarding its antiobesity activity and gut microbiota-modulating effect.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0899900721000381?via%3Dihub)
-
-10.1016/j.nut.2021.111176
-
----
-
-## Effects of supplementing sow diets during late gestation with Pennisetum purpureum on antioxidant indices, immune parameters and faecal microbiota.
- 23.02.2021, _PF Huang, Q Mou, Y Yang, JM Li, ML Xu, J Huang, JZ Li, HS Yang, XX Liang, YL Yin_
-
-
-The purpose of this study was to investigate the effects of adding Pennisetum purpureum (P. purpureum, also known as Napier grass or elephant grass) to the diets of late gestation on the antioxidant indexes, immune indexes and faecal microbiota of sows. At the 90 days of gestation, 300 healthy sows were randomly divided into three groups, and they received the basic commercial diet or added 5% P. purpureum and 10% P. purpureum, respectively. The experiment started from 90 days of gestation to parturition. The results showed that the total antioxidant capacity, immunoglobulins and serum equol concentrations of sows on 100 days of gestation and at parturition increased linearly (p &lt; .05) with the increase of the content of P. purpureum in the gestation diet. The 5% P. purpureum increased the relative abundance of Bacteroidetes (p = .027) and Actinobacteria (p &lt; .001) at phylum level, Coriobacteriaceae (p &lt; .001) at family level and Prevotellaceae_UCG_001 (p = .004) at genus level, and decreased the relative abundance of Escherichia_Shigella (p &lt; .001) at genus level. In summary, this study shows that the additive of P. purpureum can increase the concentration of serum equol, improve the antioxidant capacity and immune function of sow in late gestation. In addition, the additive of 5% P. purpureum in the diet might change the composition of intestinal microbiota of sows, particularly the relative abundance of Coriobacteriaceae (p &lt; .001) increased.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/vms3.450)
-
-10.1002/vms3.450
-
----
-
-## Alterations in the gut microbiome and metabolic profile in rats acclimated to high environmental temperature.
- 23.02.2021, _Y Cao, Y Liu, Q Dong, T Wang, C Niu_
-
-
-Heat acclimation (HA) is the best strategy to improve heat stress tolerance by inducing positive physiological adaptations. Evidence indicates that the gut microbiome plays a fundamental role in the development of HA, and modulation of gut microbiota can improve tolerance to heat exposure and decrease the risks of heat illness. In this study, for the first time, we applied 16S rRNA gene sequencing and untargeted liquid chromatography-mass spectrometry (LC-MS) metabolomics to explore variations in the gut microbiome and faecal metabolic profiles in rats after HA. The gut microbiota of HA subjects exhibited higher diversity and richer microbes. HA altered the gut microbiota composition with significant increases in the genera Lactobacillus (a major probiotic) and Oscillospira alongside significant decreases in the genera Blautia and Allobaculum. The faecal metabolome was also significantly changed after HA, and among the 13 perturbed metabolites, (S)-AL 8810 and celastrol were increased. Moreover, the two increased genera were positively correlated with the two upregulated metabolites and negatively correlated with the other 11 downregulated metabolites, while the correlations between the two decreased genera and the upregulated/downregulated metabolites were completely contrary. In summary, both the structure of the gut microbiome community and the faecal metabolome were improved after 28 days of HA. These findings provide novel insights regarding the improvement of the gut microbiome and its functions as a potential mechanism by which HA confers protection against heat stress.
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.13772)
-
-10.1111/1751-7915.13772
-
----
-
-## The pelvic flexure separates distinct microbial communities in the equine hindgut.
- 23.02.2021, _KJ Reed, IGZ Kunz, JA Scare, MK Nielsen, PJ Turk, RJ Coleman, SJ Coleman_
-
-
-As hindgut fermenters, horses are especially dependent on the microbiota residing in their cecum and large intestines. Interactions between these microbial populations and the horse are critical for maintaining gut homeostasis, which supports proper digestion. The current project was motivated to determine if any features of the fecal microbiota are informative of the microbial communities from the cecum, ventral colon, or dorsal colon. Digesta from the cecum, ventral colon, dorsal colon and feces were collected from 6 yearling miniature horses. Microbial DNA was isolated and the microbiota from each sample was characterized by profiling the V4 region of the 16S rRNA. Principal coordinate analysis of the beta diversity results revealed significant (p = 0.0001; F = 5.2393) similarities between the microbial populations from cecal and ventral colon and the dorsal colon and fecal samples, however, there was little overlap between the proximal and distal ends of the hindgut. These distinct population structures observed in our results coincide with the pelvic flexure, which itself separates intestinal compartments with distinct roles in digestive physiology. An indicator species analysis confirmed the population differences, supported by the identification of several microbial families characteristic of the compartments upstream of the pelvic flexure that were not represented following it. Our data suggest that the fecal microbiota is not informative of the proximal hindgut but can provide insight into communities of the distal compartments. Further, our results suggest that the pelvic flexure might be an important anatomical landmark relative to the microbial communities in the equine large intestine.
-
-[Source](https://www.nature.com/articles/s41598-021-83783-z)
-
-10.1038/s41598-021-83783-z
-
----
-
-## Effects of urolithins on obesity-associated gut dysbiosis in rats fed on a high-fat diet.
- 23.02.2021, _AO Abdulrahman, MY Alzubaidi, MS Nadeem, JA Khan, IA Rather, MI Khan_
-
-
-Obesity is a global health concern associated with the dysbiosis of intestinal microbial composition. In this study, we investigated the potentials of urolithin A (Uro-A) and urolithin B (Uro-B), two gut microbiota-derived metabolites of ellagitannins, in reducing body weight gain through the modulation of the gut microbiota. We established a high-fat diet (HFD)-induced obesity model in rats that were later administered with either 2.5 mg/kg of Uro-A or Uro-B. Serum biochemical parameters were quantified, and changes in the composition of the gut microbial community were analysed using 16S rDNA gene sequencing. Our results showed that the urolithins significantly decreased the body weight in HFD-fed rats and restored serum lipid profile. The taxonomic analysis showed that both Uro-A and Uro-modulated gut microbes related to body weight, dysfunctional lipid metabolism and inflammation. Overall, our results suggest that Uro-A and Uro-B possess anti-obesity properties, which may be related to the modulation of the gut microbial composition.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/09637486.2021.1886255)
-
-10.1080/09637486.2021.1886255
-
----
-
-## Prebiotic Lactulose Ameliorates the Cognitive Deficit in Alzheimer's Disease Mouse Model through Macroautophagy and Chaperone-Mediated Autophagy Pathways.
- 22.02.2021, _YS Lee, DM Lai, HJ Huang, GJ Lee-Chen, CH Chang, HM Hsieh-Li, GC Lee_
-
-
-Lactulose, as a prebiotic, can be utilized by human gut microbiota and stimulate their growth. Although microbiota modulation has become an emerging approach to manage many diseases and can be achieved by the administration of prebiotics, fewer investigations have been carried out on the therapeutic mechanism of lactulose. Two trehalose analogs, lactulose and melibiose, were identified as having a neuroprotective effect in polyglutamine and Parkinson disease models. In this study, we examined lactulose and melibiose in a mouse primary hippocampal neuronal culture under the toxicity of oligomeric Aβ25-35. Lactulose was further tested in vivo because its effective concentration is lower than that of melibiose. Lactulose and trehalose were applied individually to mice before a bilateral intrahippocampal CA1 injection of oligomeric Aβ25-35. The administration of lactulose and trehalose attenuated the short-term memory and the learning retrieval of Alzheimer's disease (AD) mice. From a pathological analysis, we found that the pretreatment of lactulose and trehalose decreased neuroinflammation and increased the levels of the autophagic pathways. These results suggest that the neuroprotective effects of both lactulose and trehalose are achieved through anti-inflammation and autophagy. In addition, lactulose was better than trehalose in the enhancement of the synaptic protein expression level in AD mice. Therefore, lactulose could potentially be developed into a preventive and/or therapeutic disaccharide for AD.
-
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.0c07327)
-
-10.1021/acs.jafc.0c07327
-
----
-
-## Ingredients for microbial life preserved in 3.5 billion-year-old fluid inclusions.
- 19.02.2021, _H Mißbach, JP Duda, AM van den Kerkhof, V Lüders, A Pack, J Reitner, V Thiel_
-
-
-It is widely hypothesised that primeval life utilised small organic molecules as sources of carbon and energy. However, the presence of such primordial ingredients in early Earth habitats has not yet been demonstrated. Here we report the existence of indigenous organic molecules and gases in primary fluid inclusions in c. 3.5-billion-year-old barites (Dresser Formation, Pilbara Craton, Western Australia). The compounds identified (e.g., H2S, COS, CS2, CH4, acetic acid, organic (poly-)sulfanes, thiols) may have formed important substrates for purported ancestral sulfur and methanogenic metabolisms. They also include stable building blocks of methyl thioacetate (methanethiol, acetic acid) - a putative key agent in primordial energy metabolism and thus the emergence of life. Delivered by hydrothermal fluids, some of these compounds may have fuelled microbial communities associated with the barite deposits. Our findings demonstrate that early Archaean hydrothermal fluids contained essential primordial ingredients that provided fertile substrates for earliest life on our planet.
-
-[Source](https://www.nature.com/articles/s41467-021-21323-z)
-
-10.1038/s41467-021-21323-z
-
----
-
-## <span style="color:#0c6847;" class="has-inline-color">Expanded catalog of microbial genes and metagenome-assembled genomes from the pig gut microbiome</span>
+## Expanded catalog of microbial genes and metagenome-assembled genomes from the pig gut microbiome
 
 [Source](https://www.nature.com/articles/s41467-021-21295-0)
 
 ---
 
-## <span style="color:#06593b;" class="has-inline-color">Cross-species RNA-seq for deciphering host–microbe interactions </span>
+## Mining zebrafish microbiota reveals key community-level resistance against fish pathogen infection
+
+[Source](https://www.nature.com/articles/s41396-020-00807-8)
+
+---
+
+## From exploration to remediation: A microbial perspective for innovation in mining
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0012825221000623)
+
+---
+
+## A Combined Metagenomics and Metatranscriptomics Approach to Unravel Costa Rican Cocoa Box Fermentation Processes Reveals Yet Unreported Microbial Species and Functionalities
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2021.641185/full)
+
+---
+
+## Mechanistic strategies of microbial communities regulating lignocellulose deconstruction in a UK salt marsh
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00964-0)
+
+---
+
+## Taxonomic and functional analyses of intact microbial communities thriving in extreme, astrobiology-relevant, anoxic sites
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00989-5)
+
+---
+
+## Genomic evidence for sulfur intermediates as new biogeochemical hubs in a model aquatic microbial ecosystem
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-00999-x)
+
+---
+
+## The Seagrass Holobiont: What We Know and What We Still Need to Disclose for Its Possible Use as an Ecological Indicator
+
+[Source](https://www.mdpi.com/2073-4441/13/4/406/htm)
+
+---
+
+## Spatiotemporal variations and relationships of phosphorus, phosphomonoesterases, and bacterial communities in sediments from two Chilean rivers
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969721008494)
+
+---
+
+## Resource partitioning of phytoplankton metabolites that support bacterial heterotrophy
+
+[Source](https://www.nature.com/articles/s41396-020-00811-y)
+
+---
+
+## Next-generation diagnostics: virus capture facilitates a sensitive viral diagnosis for epizootic and zoonotic pathogens including SARS-CoV-2
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00973-z)
+
+---
+
+## Preliminary Assessment of Viral Metagenome from Cancer Tissue and Blood from Patients with Lung Adenocarcinoma.
+ 17.02.2021, _HZ Cai, H Zhang, J Yang, J Zeng, H Wang_
+
+
+Here, using viral metagenomic method, we investigated the composition of virome in blood and cancer tissue samples which were collected from 25 patients with lung adenocarcinoma. Results indicated virus sequences showing similarity to human pegivirus (HPgV), anellovirus, human endogenous retrovirus (HERV) and polyomavirus were recovered from this cohort. Three different complete genomes of HPgV were acquired from the blood samples and one complete genome of polyomavirus was determined from the cancer tissue sample. Phylogenetic analysis indicated that the 3 HPgV strains all belonged to genotype 3 and the polyomavirus showed the highest sequence identity (99.73%) to Trichodysplasia spinulosa-associated polyomavirus. PCR screening results indicated the 3 HPgVs were present in 5 out of the 25 blood samples and the polyomavirus only existed in a cancer tissue sample pool. Whether infections with viruses have association with lung cancer needs further study with larger size of sampling. This article is protected by copyright. All rights reserved.
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26887)
+
+10.1002/jmv.26887
+
+---
+
+## PathoFact: a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data.
+ 23.02.2021, _L de Nies, S Lopes, SB Busi, V Galata, A Heintz-Buschart, CC Laczny, P May, P Wilmes_
+
+
+Pathogenic microorganisms cause disease by invading, colonizing, and damaging their host. Virulence factors including bacterial toxins contribute to pathogenicity. Additionally, antimicrobial resistance genes allow pathogens to evade otherwise curative treatments. To understand causal relationships between microbiome compositions, functioning, and disease, it is essential to identify virulence factors and antimicrobial resistance genes in situ. At present, there is a clear lack of computational approaches to simultaneously identify these factors in metagenomic datasets.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00993-9)
+
+10.1186/s40168-020-00993-9
+
+---
+
+## CANTARE: finding and visualizing network-based multi-omic predictive models.
+ 23.02.2021, _JC Siebert, M Saint-Cyr, SJ Borengasser, BD Wagner, CA Lozupone, C Görg_
+
+
+One goal of multi-omic studies is to identify interpretable predictive models for outcomes of interest, with analytes drawn from multiple omes. Such findings could support refined biological insight and hypothesis generation. However, standard analytical approaches are not designed to be "ome aware." Thus, some researchers analyze data from one ome at a time, and then combine predictions across omes. Others resort to correlation studies, cataloging pairwise relationships, but lacking an obvious approach for cohesive and interpretable summaries of these catalogs.
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04016-8)
+
+10.1186/s12859-021-04016-8
+
+---
+
+## kLDM: Inferring Multiple Metagenomic Association Networks based on the Variation of Environmental Factors.
+ 19.02.2021, _Y Yang, X Wang, K Xie, C Zhu, N Chen, T Chen_
+
+
+Identification of significant biological relationships or patterns is central to many metagenomic studies. Methods that estimate association networks have been proposed for this purpose; however, they assume that associations are static, neglecting the fact that relationships in a microbial ecosystem may vary with changes in environmental factors, which can result in inaccurate estimations. Therefore, this paper proposes a computational model, called the k-Lognormal-Dirichlet-Multinomial (kLDM) model, which estimates multiple association networks that correspond to specific environmental conditions, and simultaneously infers microbe-microbe and environmental factor-microbe associations for each network. The effectiveness of the kLDM model was demonstrated on synthetic data, a colorectal cancer (CRC) dataset, the Tara Oceans dataset, and the American Gut Project dataset. The results reveal that the widely-used Spearman's rank correlation coefficient (SCC) method performed much worse than the other methods, indicating the importance of separating samples by environmental conditions. Cancer fecal samples were then compared with cancer-free samples, and the estimation achieved by kLDM exhibited fewer associations among microbes but stronger associations between specific bacteria, especially five CRC-associated operational taxonomic units (OTUs), indicating gut microbe translocation in cancer patients. Some environmental factor-dependent associations were then found within a marine eukaryotic community. Finally, the gut microbial heterogeneity of irritable bowel disease (IBD) patients was detected. These results demonstrate that kLDM can elucidate the complex associations within microbial ecosystems. The kLDM program, R, and Python scripts, together with all experimental datasets, are accessible at https://github.com/tinglab/kLDM.git.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1672022921000206)
+
+10.1016/j.gpb.2020.06.015
+
+---
+
+## Cross-species RNA-seq for deciphering host-microbe interactions.
+ 18.02.2021, _AJ Westermann, J Vogel_
+
+
+The human body is constantly exposed to microorganisms, which entails manifold interactions between human cells and diverse commensal or pathogenic bacteria. The cellular states of the interacting cells are decisive for the outcome of these encounters such as whether bacterial virulence programmes and host defence or tolerance mechanisms are induced. This Review summarizes how next-generation RNA sequencing (RNA-seq) has become a primary technology to study host-microbe interactions with high resolution, improving our understanding of the physiological consequences and the mechanisms at play. We illustrate how the discriminatory power and sensitivity of RNA-seq helps to dissect increasingly complex cellular interactions in time and space down to the single-cell level. We also outline how future transcriptomics may answer currently open questions in host-microbe interactions and inform treatment schemes for microbial disorders.
 
 [Source](https://www.nature.com/articles/s41576-021-00326-y)
 
----
-
-## Computational modeling of the gut microbiota reveals putative metabolic mechanisms of recurrent Clostridioides difficile infection
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008782)
+10.1038/s41576-021-00326-y
 
 ---
 
-## An ambient-temperature storage and stabilization device performs comparably to flash-frozen collection for stool metabolomics in infants 
+## A community resource for paired genomic and metabolomic data mining.
+ 24.02.2021, _MA Schorn, S Verhoeven, L Ridder, F Huber, DD Acharya, AA Aksenov, G Aleti, JA Moghaddam, AT Aron, S Aziz, A Bauermeister, KD Bauman, M Baunach, C Beemelmanns, JM Beman, MV Berlanga-Clavero, AA Blacutt, HB Bode, A Boullie, A Brejnrod, TS Bugni, A Calteau, L Cao, VJ Carrión, R Castelo-Branco, S Chanana, AB Chase, MG Chevrette, LV Costa-Lotufo, JM Crawford, CR Currie, B Cuypers, T Dang, T de Rond, AM Demko, E Dittmann, C Du, C Drozd, JC Dujardin, RJ Dutton, A Edlund, DP Fewer, N Garg, JM Gauglitz, EC Gentry, L Gerwick, E Glukhov, H Gross, M Gugger, DG Guillén Matus, EJN Helfrich, BF Hempel, JS Hur, M Iorio, PR Jensen, KB Kang, L Kaysser, NL Kelleher, CS Kim, KH Kim, I Koester, GM König, T Leao, SR Lee, YY Lee, X Li, JC Little, KN Maloney, D Männle, C Martin H, AC McAvoy, WW Metcalf, H Mohimani, C Molina-Santiago, BS Moore, MW Mullowney, M Muskat, LF Nothias, EC O'Neill, EI Parkinson, D Petras, J Piel, EC Pierce, K Pires, R Reher, D Romero, MC Roper, M Rust, H Saad, C Saenz, LM Sanchez, SJ Sørensen, M Sosio, RD Süssmuth, D Sweeney, K Tahlan, RJ Thomson, NJ Tobias, AE Trindade-Silva, GP van Wezel, M Wang, KC Weldon, F Zhang, N Ziemert, KR Duncan, M Crüsemann, S Rogers, PC Dorrestein, MH Medema, JJJ van der Hooft_
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02104-6)
+
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.03.25.007666v2.abstract)
+
+10.1038/s41589-020-00724-z
 
 ---
 
-## Ecological rules for the assembly of microbiome communities
+## Cross-sectional analysis of the microbiota of the human gut and their direct environment (exposome) in a household cohort in northern Vietnam
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001116)
+[Source](https://www.biorxiv.org/content/10.1101/2021.02.23.432416v1.abstract)
+
+---
+
+## HumGut: A comprehensive Human Gut prokaryotic genomes collection filtered by metagenome data
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.03.25.007666v2.abstract)
+
+---
+
+## Comparative analysis of 16S rRNA gene and metagenome sequencing in pediatric gut microbiomes
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.02.20.432118v1.abstract)
+
+---
+
+## Unifying the known and unknown microbial coding sequence space
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.06.30.180448v5.abstract)
 
 ---
 
