@@ -178,74 +178,39 @@ The human skin microbiota is considered to be essential for skin homeostasis and
 
 ---
 
-## Preliminary Assessment of Viral Metagenome from Cancer Tissue and Blood from Patients with Lung Adenocarcinoma.
- 17.02.2021, _HZ Cai, H Zhang, J Yang, J Zeng, H Wang_
-
-
-Here, using viral metagenomic method, we investigated the composition of virome in blood and cancer tissue samples which were collected from 25 patients with lung adenocarcinoma. Results indicated virus sequences showing similarity to human pegivirus (HPgV), anellovirus, human endogenous retrovirus (HERV) and polyomavirus were recovered from this cohort. Three different complete genomes of HPgV were acquired from the blood samples and one complete genome of polyomavirus was determined from the cancer tissue sample. Phylogenetic analysis indicated that the 3 HPgV strains all belonged to genotype 3 and the polyomavirus showed the highest sequence identity (99.73%) to Trichodysplasia spinulosa-associated polyomavirus. PCR screening results indicated the 3 HPgVs were present in 5 out of the 25 blood samples and the polyomavirus only existed in a cancer tissue sample pool. Whether infections with viruses have association with lung cancer needs further study with larger size of sampling. This article is protected by copyright. All rights reserved.
+## Preliminary Assessment of Viral Metagenome from Cancer Tissue and Blood from Patients with Lung Adenocarcinoma
 
 [Source](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26887)
 
-10.1002/jmv.26887
-
 ---
 
-## PathoFact: a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data.
- 23.02.2021, _L de Nies, S Lopes, SB Busi, V Galata, A Heintz-Buschart, CC Laczny, P May, P Wilmes_
-
-
-Pathogenic microorganisms cause disease by invading, colonizing, and damaging their host. Virulence factors including bacterial toxins contribute to pathogenicity. Additionally, antimicrobial resistance genes allow pathogens to evade otherwise curative treatments. To understand causal relationships between microbiome compositions, functioning, and disease, it is essential to identify virulence factors and antimicrobial resistance genes in situ. At present, there is a clear lack of computational approaches to simultaneously identify these factors in metagenomic datasets.
+## PathoFact: a pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00993-9)
 
-10.1186/s40168-020-00993-9
-
 ---
 
-## CANTARE: finding and visualizing network-based multi-omic predictive models.
- 23.02.2021, _JC Siebert, M Saint-Cyr, SJ Borengasser, BD Wagner, CA Lozupone, C Görg_
-
-
-One goal of multi-omic studies is to identify interpretable predictive models for outcomes of interest, with analytes drawn from multiple omes. Such findings could support refined biological insight and hypothesis generation. However, standard analytical approaches are not designed to be "ome aware." Thus, some researchers analyze data from one ome at a time, and then combine predictions across omes. Others resort to correlation studies, cataloging pairwise relationships, but lacking an obvious approach for cohesive and interpretable summaries of these catalogs.
+## CANTARE: finding and visualizing network-based multi-omic predictive models 
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04016-8)
 
-10.1186/s12859-021-04016-8
-
 ---
 
-## kLDM: Inferring Multiple Metagenomic Association Networks based on the Variation of Environmental Factors.
- 19.02.2021, _Y Yang, X Wang, K Xie, C Zhu, N Chen, T Chen_
-
-
-Identification of significant biological relationships or patterns is central to many metagenomic studies. Methods that estimate association networks have been proposed for this purpose; however, they assume that associations are static, neglecting the fact that relationships in a microbial ecosystem may vary with changes in environmental factors, which can result in inaccurate estimations. Therefore, this paper proposes a computational model, called the k-Lognormal-Dirichlet-Multinomial (kLDM) model, which estimates multiple association networks that correspond to specific environmental conditions, and simultaneously infers microbe-microbe and environmental factor-microbe associations for each network. The effectiveness of the kLDM model was demonstrated on synthetic data, a colorectal cancer (CRC) dataset, the Tara Oceans dataset, and the American Gut Project dataset. The results reveal that the widely-used Spearman's rank correlation coefficient (SCC) method performed much worse than the other methods, indicating the importance of separating samples by environmental conditions. Cancer fecal samples were then compared with cancer-free samples, and the estimation achieved by kLDM exhibited fewer associations among microbes but stronger associations between specific bacteria, especially five CRC-associated operational taxonomic units (OTUs), indicating gut microbe translocation in cancer patients. Some environmental factor-dependent associations were then found within a marine eukaryotic community. Finally, the gut microbial heterogeneity of irritable bowel disease (IBD) patients was detected. These results demonstrate that kLDM can elucidate the complex associations within microbial ecosystems. The kLDM program, R, and Python scripts, together with all experimental datasets, are accessible at https://github.com/tinglab/kLDM.git.
+## kLDM: Inferring Multiple Metagenomic Association Networks based on the Variation of Environmental Factors
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1672022921000206)
 
-10.1016/j.gpb.2020.06.015
-
 ---
 
-## Cross-species RNA-seq for deciphering host-microbe interactions.
- 18.02.2021, _AJ Westermann, J Vogel_
-
-
-The human body is constantly exposed to microorganisms, which entails manifold interactions between human cells and diverse commensal or pathogenic bacteria. The cellular states of the interacting cells are decisive for the outcome of these encounters such as whether bacterial virulence programmes and host defence or tolerance mechanisms are induced. This Review summarizes how next-generation RNA sequencing (RNA-seq) has become a primary technology to study host-microbe interactions with high resolution, improving our understanding of the physiological consequences and the mechanisms at play. We illustrate how the discriminatory power and sensitivity of RNA-seq helps to dissect increasingly complex cellular interactions in time and space down to the single-cell level. We also outline how future transcriptomics may answer currently open questions in host-microbe interactions and inform treatment schemes for microbial disorders.
+## Cross-species RNA-seq for deciphering host–microbe interactions
 
 [Source](https://www.nature.com/articles/s41576-021-00326-y)
 
-10.1038/s41576-021-00326-y
-
 ---
 
-## A community resource for paired genomic and metabolomic data mining.
- 24.02.2021, _MA Schorn, S Verhoeven, L Ridder, F Huber, DD Acharya, AA Aksenov, G Aleti, JA Moghaddam, AT Aron, S Aziz, A Bauermeister, KD Bauman, M Baunach, C Beemelmanns, JM Beman, MV Berlanga-Clavero, AA Blacutt, HB Bode, A Boullie, A Brejnrod, TS Bugni, A Calteau, L Cao, VJ Carrión, R Castelo-Branco, S Chanana, AB Chase, MG Chevrette, LV Costa-Lotufo, JM Crawford, CR Currie, B Cuypers, T Dang, T de Rond, AM Demko, E Dittmann, C Du, C Drozd, JC Dujardin, RJ Dutton, A Edlund, DP Fewer, N Garg, JM Gauglitz, EC Gentry, L Gerwick, E Glukhov, H Gross, M Gugger, DG Guillén Matus, EJN Helfrich, BF Hempel, JS Hur, M Iorio, PR Jensen, KB Kang, L Kaysser, NL Kelleher, CS Kim, KH Kim, I Koester, GM König, T Leao, SR Lee, YY Lee, X Li, JC Little, KN Maloney, D Männle, C Martin H, AC McAvoy, WW Metcalf, H Mohimani, C Molina-Santiago, BS Moore, MW Mullowney, M Muskat, LF Nothias, EC O'Neill, EI Parkinson, D Petras, J Piel, EC Pierce, K Pires, R Reher, D Romero, MC Roper, M Rust, H Saad, C Saenz, LM Sanchez, SJ Sørensen, M Sosio, RD Süssmuth, D Sweeney, K Tahlan, RJ Thomson, NJ Tobias, AE Trindade-Silva, GP van Wezel, M Wang, KC Weldon, F Zhang, N Ziemert, KR Duncan, M Crüsemann, S Rogers, PC Dorrestein, MH Medema, JJJ van der Hooft_
-
-
+## A community resource for paired genomic and metabolomic data mining
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.03.25.007666v2.abstract)
-
-10.1038/s41589-020-00724-z
 
 ---
 
