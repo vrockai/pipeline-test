@@ -1,5 +1,5 @@
 ## The evolution of coexistence from competition in experimental co-cultures of Escherichia coli and Saccharomyces cerevisiae.
- 23.10.2020, _JN Barber, AL Sezmis, LC Woods, TD Anderson, JM Voss, MJ McDonald_
+ 25.02.2021, _JN Barber, AL Sezmis, LC Woods, TD Anderson, JM Voss, MJ McDonald_
 
 
 Microbial communities are comprised of many species that coexist on small spatial scales. This is difficult to explain because many interspecies interactions are competitive, and ecological theory predicts that one species will drive the extinction of another species that competes for the same resource. Conversely, evolutionary theory proposes that natural selection can lead to coexistence by driving competing species to use non-overlapping resources. However, evolutionary escape from extinction may be slow compared to the rate of competitive exclusion. Here, we use experimental co-cultures of Escherichia coli and Saccharomyces cerevisiae to study the evolution of coexistence in species that compete for resources. We find that while E. coli usually outcompetes S. cerevisiae in co-culture, a few populations evolved stable coexistence after ~1000 generations of coevolution. We sequenced S. cerevisiae and E. coli populations, identified multi-hit genes, and engineered alleles from these genes into several genetic backgrounds, finding that some mutations modified interactions between E. coli and S. cerevisiae. Together, our data demonstrate that coexistence can evolve, de novo, from intense competition between two species with no history of coevolution.
@@ -59,7 +59,7 @@ Physical exercise can produce changes in the microbiota, conferring health benef
 ---
 
 ## Candida albicans promotes tooth decay by inducing oral microbial dysbiosis.
- 07.11.2020, _Q Du, B Ren, J He, X Peng, Q Guo, L Zheng, J Li, H Dai, V Chen, L Zhang, X Zhou, X Xu_
+ 25.02.2021, _Q Du, B Ren, J He, X Peng, Q Guo, L Zheng, J Li, H Dai, V Chen, L Zhang, X Zhou, X Xu_
 
 
 Candida albicans has been detected in root carious lesions. The current study aimed to explore the action of this fungal species on the microbial ecology and the pathogenesis of root caries. Here, by analyzing C. albicans in supragingival dental plaque collected from root carious lesions and sound root surfaces of root-caries subjects as well as caries-free individuals, we observed significantly increased colonization of C. albicans in root carious lesions. Further in vitro and animal studies showed that C. albicans colonization increased the cariogenicity of oral biofilm by altering its microbial ecology, leading to a polymicrobial biofilm with enhanced acidogenicity, and consequently exacerbated tooth demineralization and carious lesion severity. More importantly, we demonstrated that the cariogenicity-promoting activity of C. albicans was dependent on PHR2. Deletion of PHR2 restored microbial equilibrium and led to a less cariogenic biofilm as demonstrated by in vitro artificial caries model or in vivo root-caries rat model. Our data indicate the critical role of C. albicans infection in the occurrence of root caries. PHR2 is the major factor that determines the ecological impact and caries-promoting activity of C. albicans in a mixed microbial consortium.
@@ -196,21 +196,38 @@ The human skin microbiota is considered to be essential for skin homeostasis and
 
 ---
 
-## kLDM: Inferring Multiple Metagenomic Association Networks based on the Variation of Environmental Factors
+## kLDM: Inferring Multiple Metagenomic Association Networks based on the Variation of Environmental Factors.
+ 19.02.2021, _Y Yang, X Wang, K Xie, C Zhu, N Chen, T Chen_
+
+
+Identification of significant biological relationships or patterns is central to many metagenomic studies. Methods that estimate association networks have been proposed for this purpose; however, they assume that associations are static, neglecting the fact that relationships in a microbial ecosystem may vary with changes in environmental factors, which can result in inaccurate estimations. Therefore, this paper proposes a computational model, called the k-Lognormal-Dirichlet-Multinomial (kLDM) model, which estimates multiple association networks that correspond to specific environmental conditions, and simultaneously infers microbe-microbe and environmental factor-microbe associations for each network. The effectiveness of the kLDM model was demonstrated on synthetic data, a colorectal cancer (CRC) dataset, the Tara Oceans dataset, and the American Gut Project dataset. The results reveal that the widely-used Spearman's rank correlation coefficient (SCC) method performed much worse than the other methods, indicating the importance of separating samples by environmental conditions. Cancer fecal samples were then compared with cancer-free samples, and the estimation achieved by kLDM exhibited fewer associations among microbes but stronger associations between specific bacteria, especially five CRC-associated operational taxonomic units (OTUs), indicating gut microbe translocation in cancer patients. Some environmental factor-dependent associations were then found within a marine eukaryotic community. Finally, the gut microbial heterogeneity of irritable bowel disease (IBD) patients was detected. These results demonstrate that kLDM can elucidate the complex associations within microbial ecosystems. The kLDM program, R, and Python scripts, together with all experimental datasets, are accessible at https://github.com/tinglab/kLDM.git.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1672022921000206)
 
+10.1016/j.gpb.2020.06.015
+
 ---
 
-## Cross-species RNA-seq for deciphering host–microbe interactions
+## Cross-species RNA-seq for deciphering host-microbe interactions.
+ 18.02.2021, _AJ Westermann, J Vogel_
+
+
+The human body is constantly exposed to microorganisms, which entails manifold interactions between human cells and diverse commensal or pathogenic bacteria. The cellular states of the interacting cells are decisive for the outcome of these encounters such as whether bacterial virulence programmes and host defence or tolerance mechanisms are induced. This Review summarizes how next-generation RNA sequencing (RNA-seq) has become a primary technology to study host-microbe interactions with high resolution, improving our understanding of the physiological consequences and the mechanisms at play. We illustrate how the discriminatory power and sensitivity of RNA-seq helps to dissect increasingly complex cellular interactions in time and space down to the single-cell level. We also outline how future transcriptomics may answer currently open questions in host-microbe interactions and inform treatment schemes for microbial disorders.
 
 [Source](https://www.nature.com/articles/s41576-021-00326-y)
 
+10.1038/s41576-021-00326-y
+
 ---
 
-## A community resource for paired genomic and metabolomic data mining
+## A community resource for paired genomic and metabolomic data mining.
+ 24.02.2021, _MA Schorn, S Verhoeven, L Ridder, F Huber, DD Acharya, AA Aksenov, G Aleti, JA Moghaddam, AT Aron, S Aziz, A Bauermeister, KD Bauman, M Baunach, C Beemelmanns, JM Beman, MV Berlanga-Clavero, AA Blacutt, HB Bode, A Boullie, A Brejnrod, TS Bugni, A Calteau, L Cao, VJ Carrión, R Castelo-Branco, S Chanana, AB Chase, MG Chevrette, LV Costa-Lotufo, JM Crawford, CR Currie, B Cuypers, T Dang, T de Rond, AM Demko, E Dittmann, C Du, C Drozd, JC Dujardin, RJ Dutton, A Edlund, DP Fewer, N Garg, JM Gauglitz, EC Gentry, L Gerwick, E Glukhov, H Gross, M Gugger, DG Guillén Matus, EJN Helfrich, BF Hempel, JS Hur, M Iorio, PR Jensen, KB Kang, L Kaysser, NL Kelleher, CS Kim, KH Kim, I Koester, GM König, T Leao, SR Lee, YY Lee, X Li, JC Little, KN Maloney, D Männle, C Martin H, AC McAvoy, WW Metcalf, H Mohimani, C Molina-Santiago, BS Moore, MW Mullowney, M Muskat, LF Nothias, EC O'Neill, EI Parkinson, D Petras, J Piel, EC Pierce, K Pires, R Reher, D Romero, MC Roper, M Rust, H Saad, C Saenz, LM Sanchez, SJ Sørensen, M Sosio, RD Süssmuth, D Sweeney, K Tahlan, RJ Thomson, NJ Tobias, AE Trindade-Silva, GP van Wezel, M Wang, KC Weldon, F Zhang, N Ziemert, KR Duncan, M Crüsemann, S Rogers, PC Dorrestein, MH Medema, JJJ van der Hooft_
+
+
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.03.25.007666v2.abstract)
+
+10.1038/s41589-020-00724-z
 
 ---
 
