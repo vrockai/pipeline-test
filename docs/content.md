@@ -94,15 +94,9 @@ The gut microbiota of preterm infants develops predictably1-7, with pioneer spec
 
 ---
 
-## Comparison of beta diversity measures in clustering the high-dimensional microbial data.
- 18.02.2021, _B Chen, X He, B Pan, X Zou, N You_
-
-
-The heterogeneity of disease is a major concern in medical research and is commonly characterized as subtypes with different pathogeneses exhibiting distinct prognoses and treatment effects. The classification of a population into homogeneous subgroups is challenging, especially for complex diseases. Recent studies show that gut microbiome compositions play a vital role in disease development, and it is of great interest to cluster patients according to their microbial profiles. There are a variety of beta diversity measures to quantify the dissimilarity between the compositions of different samples for clustering. However, using different beta diversity measures results in different clusters, and it is difficult to make a choice among them. Considering microbial compositions from 16S rRNA sequencing, which are presented as a high-dimensional vector with a large proportion of extremely small or even zero-valued elements, we set up three simulation experiments to mimic the microbial compositional data and evaluate the performance of different beta diversity measures in clustering. It is shown that the Kullback-Leibler divergence-based beta diversity, including the Jensen-Shannon divergence and its square root, and the hypersphere-based beta diversity, including the Bhattacharyya and Hellinger, can capture compositional changes in low-abundance elements more efficiently and can work stably. Their performance on two real datasets demonstrates the validity of the simulation experiments.
+## Comparison of beta diversity measures in clustering the high-dimensional microbial data
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246893)
-
-10.1371/journal.pone.0246893
 
 ---
 
