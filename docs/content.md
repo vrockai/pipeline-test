@@ -1,102 +1,72 @@
-## Multi-kingdom ecological drivers of microbiota assembly in preterm infants.
- 25.02.2021, _C Rao, KZ Coyte, W Bainter, RS Geha, CR Martin, S Rakoff-Nahoum_
+## The Multiomics Analyses of Fecal Matrix and Its Significance to Coeliac Disease Gut Profiling
 
-
-The gut microbiota of preterm infants develops predictably1-7, with pioneer species colonizing the gut after birth, followed by an ordered succession of microorganisms. The gut microbiota is vital to the health of preterm infants8,9, but the forces that shape these predictable dynamics of microbiome assembly are unknown. The environment, the host and interactions between microorganisms all potentially shape the dynamics of the microbiota, but in such a complex ecosystem, identifying the specific role of any individual factor is challenging10-14. Here we use multi-kingdom absolute abundance quantification, ecological modelling and experimental validation to address this challenge. We quantify the absolute dynamics of bacteria, fungi and archaea in a longitudinal cohort of 178 preterm infants. We uncover microbial blooms and extinctions, and show that there is an inverse correlation between bacterial and fungal loads in the infant gut. We infer computationally and demonstrate experimentally in vitro and in vivo that predictable assembly dynamics may be driven by directed, context-dependent interactions between specific microorganisms. Mirroring the dynamics of macroscopic ecosystems15-17, a late-arriving member of the microbiome, Klebsiella, exploits the pioneer microorganism, Staphylococcus, to gain a foothold within the gut. Notably, we find that interactions between different kingdoms can influence assembly, with a single fungal species-Candida albicans-inhibiting multiple dominant genera of gut bacteria. Our work reveals the centrality of simple microbe-microbe interactions in shaping host-associated microbiota, which is critical both for our understanding of microbiota ecology and for targeted microbiota interventions.
-
-[Source](https://www.nature.com/articles/s41586-021-03241-8)
-
-10.1038/s41586-021-03241-8
+[Source](https://doi.org/10.3390/ijms22041965)
 
 ---
 
-## A randomization-based causal inference framework for uncovering environmental exposure effects on human gut microbiota
+## <span style="color:#993300;">Exploring the interaction network of a synthetic gut bacterial community</span>
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.24.432662v1.abstract)
-
----
-
-## Fiber-associated Lachnospiraceae reduce colon tumorigenesis by modulation of the tumor-immune microenvironment
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.24.432654v1.abstract)
+[Source](https://doi.org/10.1101/2021.02.25.432904)
 
 ---
 
-## NLRP6-associated host microbiota composition impacts in the intestinal barrier to systemic dissemination of Brucella abortus
+## Environmental concentrations of antibiotics alter the zebrafish gut microbiome structure and potential functions
 
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009171)
-
----
-
-## Effects of sodium butyrate supplementation on inflammation, gut microbiota, and short‐chain fatty acids in Helicobacter pylori‐infected mice
-
-[Source](https://onlinelibrary.wiley.com/doi/full/10.1111/hel.12785)
+[Source](https://doi.org/10.1016/j.envpol.2021.116760)
 
 ---
 
-## The porcine corneal surface bacterial microbiome: A distinctive niche within the ocular surface
+## Fish farm effluents as a source of antibiotic resistance gene dissemination on Jeju Island, South Korea
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247392)
-
----
-
-## Dysbiosis of fecal microbiota in cats with naturally occurring and experimentally induced Tritrichomonas foetus infection
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246957)
+[Source](https://doi.org/10.1016/j.envpol.2021.116764)
 
 ---
 
-## Hologenome analysis reveals dual symbiosis in the deep-sea hydrothermal vent snail Gigantopelta aegis
+## Influence of environmental factors and bacterial community diversity in pond water on health of Chinese perch through Gut Microbiota change
 
-[Source](https://www.nature.com/articles/s41467-021-21450-7)
-
----
-
-## The bacterial communities of Alaskan mosses and their contributions to N2-fixation
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01001-4)
+[Source](https://doi.org/10.1016/j.aqrep.2021.100629)
 
 ---
 
-## Ecosystem engineers drive differing microbial community composition in intertidal estuarine sediments
+## The diversity, composition, and metabolic pathways of archaea in pigs
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240952)
-
----
-
-## Rare genera differentiate urban green space soil bacterial communities in three cities across the world
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.02.21.432167v1)
+[Source](10.20944/preprints202102.0508.v1)
 
 ---
 
-## Nitrogen and water addition regulate fungal community and microbial co-occurrence network complexity in the rhizosphere of Alhagi sparsifolia seedlings
+## Stony Coral Tissue Loss Disease biomarker bacteria identified in corals and overlying waters using a rapid field-based sequencing approach
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0929139321000615)
-
----
-
-## Metabolic profiling and antioxidant activity during flower development in Agastache rugosa
-
-[Source](https://link.springer.com/article/10.1007/s12298-021-00945-z)
+[Source](https://doi.org/10.1101/2021.02.17.431614)
 
 ---
 
-## Long-term dynamic changes in attached and planktonic microbial communities in a contaminated aquifer
+## <span style="color:#993300;">Microbial analyses of blood spot surfaces collected from a laboratory and the bathroom of a female single-person household under different environmental conditions</span>
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0269749121003456)
-
----
-
-## Virome composition in marine fish revealed by meta-transcriptomics
-
-[Source](https://academic.oup.com/ve/article/7/1/veab005/6128534)
+[Source](https://doi.org/10.1093/femsle/fnab023)
 
 ---
 
-## Comparison of beta diversity measures in clustering the high-dimensional microbial data
+## Rapid emergence of virus–host mutualism under stress
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246893)
+[Source](https://doi.org/10.1073/pnas.2100936118)
+
+---
+
+## Patterns of virus growth across the diversity of life
+
+[Source](https://doi.org/10.1093/intbio/zyab001)
+
+---
+
+## Standard Bacteriophage Purification Procedures Cause Loss in Numbers and Activity
+
+[Source](https://doi.org/10.3390/v13020328)
+
+---
+
+## Misinformation, Perceptions Towards COVID-19 and Willingness to be Vaccinated: A Population-Based Survey in Yemen
+
+[Source](https://doi.org/10.1101/2021.02.25.432838)
 
 ---
 
