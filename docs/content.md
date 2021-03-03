@@ -52,21 +52,46 @@
 
 ---
 
+## A Gut Commensal Bacterium Promotes Mosquito Permissiveness to Arboviruses.
+ 30.09.2020, _P Wu, P Sun, K Nie, Y Zhu, M Shi, C Xiao, H Liu, Q Liu, T Zhao, X Chen, H Zhou, P Wang, G Cheng_
+
+
+_Aedes, Animals, Anti-Bacterial Agents, Arbovirus Infections, Arboviruses, Bacterial Physiological Phenomena, Culicidae, Dengue Virus, Gastrointestinal Microbiome, Gastrointestinal Tract, Insect Vectors, Microbial Interactions, Mosquito Vectors, Permissiveness, Serratia marcescens_
+Mosquitoes are hematophagous vectors that can acquire human viruses in their intestinal tract. Here, we define a mosquito gut commensal bacterium that promotes permissiveness to arboviruses. Antibiotic depletion of gut bacteria impaired arboviral infection of a lab-adapted Aedes aegypti mosquito strain. Reconstitution of individual cultivable gut bacteria in antibiotic-treated mosquitoes identified Serratia marcescens as a commensal bacterium critical for efficient arboviral acquisition. S. marcescens facilitates arboviral infection through a secreted protein named SmEnhancin, which digests membrane-bound mucins on the mosquito gut epithelia, thereby enhancing viral dissemination. Field Aedes mosquitoes positive for S. marcescens were more permissive to dengue virus infection than those free of S. marcescens. Oral introduction of S. marcescens into field mosquitoes that lack this bacterium rendered these mosquitoes highly susceptible to arboviruses. This study defines a commensal-driven mechanism that contributes to vector competence, and extends our understanding of multipartite interactions among hosts, the gut microbiome, and viruses.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00986-8)
+
+10.1016/j.chom.2018.11.004
+
+---
+
 ## Acquisition of oral microbiota is driven by environment, not host genetics
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00986-8)
 
 ---
 
-## Dicer-like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation
+## Dicer-like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation.
+ 01.03.2021, _R Kaushal, L Peng, SK Singh, M Zhang, X Zhang, JI Vílchez, Z Wang, D He, Y Yang, S Lv, Z Xu, RJL Morcillo, W Wang, W Huang, PW Paré, CP Song, JK Zhu, R Liu, W Zhong, P Ma, H Zhang_
+
+
+Plants are naturally associated with root microbiota, which are microbial communities influential to host fitness. Thus, it is important to understand how plants control root microbiota. Epigenetic factors regulate the readouts of genetic information and consequently many essential biological processes. However, it has been elusive whether RNA-directed DNA methylation (RdDM) affects root microbiota assembly.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00966-y)
 
+10.1186/s40168-020-00966-y
+
 ---
 
-## The bacterial communities of Alaskan mosses and their contributions to N2-fixation
+## The bacterial communities of Alaskan mosses and their contributions to N2-fixation.
+ 24.02.2021, _H Holland-Moritz, JEM Stuart, LR Lewis, SN Miller, MC Mack, JM Ponciano, SF McDaniel, N Fierer_
+
+
+Mosses in high-latitude ecosystems harbor diverse bacterial taxa, including N2-fixers which are key contributors to nitrogen dynamics in these systems. Yet the relative importance of moss host species, and environmental factors, in structuring these microbial communities and their N2-fixing potential remains unclear. We studied 26 boreal and tundra moss species across 24 sites in Alaska, USA, from 61 to 69° N. We used cultivation-independent approaches to characterize the variation in moss-associated bacterial communities as a function of host species identity and site characteristics. We also measured N2-fixation rates via 15N2 isotopic enrichment and identified potential N2-fixing bacteria using available literature and genomic information.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01001-4)
+
+10.1186/s40168-021-01001-4
 
 ---
 
