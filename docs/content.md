@@ -53,7 +53,7 @@ Does endometrium harbour functionally active microorganisms and whether the micr
 ---
 
 ## Identification of an N-acetylneuraminic acid-presenting bacteria isolated from a human microbiome.
- 01.03.2021, _Z Han, PS Thuy-Boun, W Pfeiffer, VF Vartabedian, A Torkamani, JR Teijaro, DW Wolan_
+ 04.03.2021, _Z Han, PS Thuy-Boun, W Pfeiffer, VF Vartabedian, A Torkamani, JR Teijaro, DW Wolan_
 
 
 N-Acetylneuraminic acid is the most abundant sialic acid (SA) in humans and is expressed as the terminal sugar on intestinal mucus glycans. Several pathogenic bacteria harvest and display host SA on their own surfaces to evade Siglec-mediated host immunity. While previous studies have identified bacterial enzymes associated with SA catabolism, no reported methods permit the selective labeling, tracking, and quantitation of SA-presenting microbes within complex multi-microbial systems. We combined metabolic labeling, click chemistry, 16S rRNA gene, and whole-genome sequencing to track and identify SA-presenting microbes from a cultured human fecal microbiome. We isolated a new strain of Escherichia coli that incorporates SA onto its own surface and encodes for the nanT, neuA, and neuS genes necessary for harvesting and presenting SA. Our method is applicable to the identification of SA-presenting bacteria from human, animal, and environmental microbiomes, as well as providing an entry point for the investigation of surface-expressed SA-associated structures.
@@ -137,7 +137,7 @@ The phenylalanine-tyrosine-dopa-dopamine pathway provides dopamine to the brain.
 ---
 
 ## Dicer-like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation.
- 01.03.2021, _R Kaushal, L Peng, SK Singh, M Zhang, X Zhang, JI Vílchez, Z Wang, D He, Y Yang, S Lv, Z Xu, RJL Morcillo, W Wang, W Huang, PW Paré, CP Song, JK Zhu, R Liu, W Zhong, P Ma, H Zhang_
+ 04.03.2021, _R Kaushal, L Peng, SK Singh, M Zhang, X Zhang, JI Vílchez, Z Wang, D He, Y Yang, S Lv, Z Xu, RJL Morcillo, W Wang, W Huang, PW Paré, CP Song, JK Zhu, R Liu, W Zhong, P Ma, H Zhang_
 
 
 Plants are naturally associated with root microbiota, which are microbial communities influential to host fitness. Thus, it is important to understand how plants control root microbiota. Epigenetic factors regulate the readouts of genetic information and consequently many essential biological processes. However, it has been elusive whether RNA-directed DNA methylation (RdDM) affects root microbiota assembly.
@@ -283,6 +283,30 @@ Identifying and tracking microbial strains as microbiomes evolve are major chall
 [Source](https://mbio.asm.org/content/12/1/e03656-20)
 
 10.1128/mBio.03656-20
+
+---
+
+## https://archive.vn/SScWt
+
+[Source](https://archive.vn/SScWt)
+
+---
+
+## Sulfurized Polyacrylonitrile for High-Performance Lithium-Sulfur Batteries: In-Depth Computational Approach Revealing Multiple Sulfur's Reduction Pathways and Hidden Li+ Storage Mechanisms for Extra Discharge Capacity.
+ 14.01.2021, _S Perez Beltran, PB Balbuena_
+
+
+Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon (SPAN) promises improved electrochemical performance for lithium-sulfur batteries, based on its compatibility with carbonate solvents and ability to prevent self-discharge and shuttle effect. However, a complete understanding of the SPAN's lithiation mechanism is still missing because its structural features vary widely with synthesis conditions, and its electrochemical performance deviates from elemental sulfur. This study continues our research on the elucidation of the SPAN's structural characteristics and lithiation mechanisms via computational approaches. Our models reproduce most experimental data regarding carbon's graphitization level and conjugated ordering, sulfur-carbon covalent bonding, sulfur loading, and elemental composition. Our simulations emulate the discharge voltage observed in experiments for the first discharge, which reveals that sulfur follows multiple reduction pathways based on its interaction with the carbon backbone. Sulfur reduction takes place above 1.0 V vs Li/Li+ mostly in the SPAN-like material, with no long-chain lithium polysulfide formation. Below 1.0 V vs Li/Li+, the backbone's electrochemical activity occurs via multiple C-Li and N-Li interactions, mostly with edge carbon atoms and pyridinic nitrogen. Moreover, we identify Li+ binding sites throughout the graphitized backbone that might lead to prohibited energy costs for Li+ deintercalation, which may explain the irreversible capacity loss between the first and second discharges. This work improves understanding of lithiation mechanisms in sulfurized carbon, which is useful for rationally designing SPAN synthesis pathways tailored to increase sulfur loading and enhanced electrochemical performance.
+
+[Source](https://microbiomedigest.com/2021/03/04/march-4-2021/?like_comment=27154&_wpnonce=6493d7301e)
+
+10.1021/acsami.0c17537
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2021/03/04/march-4-2021/?like_comment=27154&_wpnonce=6493d7301e)
 
 ---
 
