@@ -1,5 +1,5 @@
 ## A multi-omic investigation of male lower urinary tract symptoms: Potential role for JC virus.
- 27.02.2021, _S Thomas, CD Dunn, LJ Campbell, DW Strand, CM Vezina, DE Bjorling, KL Penniston, L Li, WA Ricke, TL Goldberg_
+ 05.03.2021, _S Thomas, CD Dunn, LJ Campbell, DW Strand, CM Vezina, DE Bjorling, KL Penniston, L Li, WA Ricke, TL Goldberg_
 
 
 Male lower urinary tract symptoms (LUTS) comprise a common syndrome of aging that negatively impacts quality of life. The etiology of LUTS is multifactorial, involving benign prostatic hyperplasia, smooth muscle and neurologic dysfunction, inflammation, sexually transmitted infections, fibrosis, and potentially dysbiosis, but this aspect remains poorly explored. We investigated whether the presence of infectious agents in urine might be associated with LUTS by combining next-generation DNA sequencing for virus discovery, microbiome analysis for characterization of bacterial communities, and mass spectrometry-based metabolomics. In urine from 29 LUTS cases and 9 controls from Wisconsin, we found a statistically significant association between a diagnosis of LUTS and the presence of JC virus (JCV), a common neurotropic human polyomavirus (Polyomaviridae, Betapolyomavirus) linked to severe neurologic disease in rare cases. This association (based on metagenomics) was not borne out when specific polymerase chain reaction (PCR) testing was applied to this set of samples, likely due to the greater sensitivity of PCR. Interestingly, urine metabolomics analysis identified dysregulation of metabolites associated with key LUTS processes. Microbiome analysis found no evidence of microbial community dysbiosis in LUTS cases, but JCV-positive samples contained more Anaerococcus species, which are involved in polymicrobial infections of the urinary tract. Neither age nor body mass index were significantly associated with the presence of urinary JCV-in the initial group or in an additional, regionally distinct group. These data provide preliminary support the hypothesis that viruses such as JCV may play a role in the development or progression of LUTS, together with other infectious agents and host metabolic responses.
@@ -11,7 +11,7 @@ Male lower urinary tract symptoms (LUTS) comprise a common syndrome of aging tha
 ---
 
 ## Association between physical activity and changes in intestinal microbiota composition: A systematic review.
- 25.02.2021, _V Aya, A Flórez, L Perez, JD Ramírez_
+ 05.03.2021, _V Aya, A Flórez, L Perez, JD Ramírez_
 
 
 The intestinal microbiota comprises bacteria, fungi, archaea, protists, helminths and viruses that symbiotically inhabit the digestive system. To date, research has provided limited data on the possible association between an active lifestyle and a healthy composition of human microbiota. This review was aimed to summarize the results of human studies comparing the microbiome of healthy individuals with different physical activity amounts.
@@ -70,26 +70,15 @@ Wastewater based epidemiology (WBE) is increasingly used to provide decision mak
 
 ---
 
-## An integrated, modular approach to data science education in microbiology.
- 25.02.2021, _KA Dill-McFarland, SG König, F Mazel, DC Oliver, LM McEwen, KY Hong, SJ Hallam_
-
-
-We live in an increasingly data-driven world, where high-throughput sequencing and mass spectrometry platforms are transforming biology into an information science. This has shifted major challenges in biological research from data generation and processing to interpretation and knowledge translation. However, postsecondary training in bioinformatics, or more generally data science for life scientists, lags behind current demand. In particular, development of accessible, undergraduate data science curricula has the potential to improve research and learning outcomes as well as better prepare students in the life sciences to thrive in public and private sector careers. Here, we describe the Experiential Data science for Undergraduate Cross-Disciplinary Education (EDUCE) initiative, which aims to progressively build data science competency across several years of integrated practice. Through EDUCE, students complete data science modules integrated into required and elective courses augmented with coordinated cocurricular activities. The EDUCE initiative draws on a community of practice consisting of teaching assistants (TAs), postdocs, instructors, and research faculty from multiple disciplines to overcome several reported barriers to data science for life scientists, including instructor capacity, student prior knowledge, and relevance to discipline-specific problems. Preliminary survey results indicate that even a single module improves student self-reported interest and/or experience in bioinformatics and computer science. Thus, EDUCE provides a flexible and extensible active learning framework for integration of data science curriculum into undergraduate courses and programs across the life sciences.
+## An integrated, modular approach to data science education in microbiology
 
 [Source](https://doi.org/10.1371/journal.pcbi.1008661)
 
-10.1371/journal.pcbi.1008661
-
 ---
 
-## Five key aspects of metaproteomics as a tool to understand functional interactions in host-associated microbiomes.
- 25.02.2021, _F Salvato, RL Hettich, M Kleiner_
-
-
+## Five key aspects of metaproteomics as a tool to understand functional interactions in host-associated microbiomes
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009245)
-
-10.1371/journal.ppat.1009245
 
 ---
 
