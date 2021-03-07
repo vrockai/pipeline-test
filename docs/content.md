@@ -64,38 +64,21 @@ Wastewater based epidemiology (WBE) is increasingly used to provide decision mak
 
 ---
 
-## Host-microbe cross-talk governs amino acid chirality to regulate survival and differentiation of B cells.
- 04.03.2021, _M Suzuki, T Sujino, S Chiba, Y Harada, M Goto, R Takahashi, M Mita, K Hamase, T Kanai, M Ito, MK Waldor, M Yasui, J Sasabe_
-
-
-Organisms use l-amino acids (l-aa) for most physiological processes. Unlike other organisms, bacteria chiral-convert l-aa to d-configurations as essential components of their cell walls and as signaling molecules in their ecosystems. Mammals recognize microbe-associated molecules to initiate immune responses, but roles of bacterial d-amino acids (d-aa) in mammalian immune systems remain largely unknown. Here, we report that amino acid chirality balanced by bacteria-mammal cross-talk modulates intestinal B cell fate and immunoglobulin A (IgA) production. Bacterial d-aa stimulate M1 macrophages and promote survival of intestinal naïve B cells. Mammalian intestinal d-aa catabolism limits the number of B cells and restricts growth of symbiotic bacteria that activate T cell-dependent IgA class switching of the B cells. Loss of d-aa catabolism results in excessive IgA production and dysbiosis with altered IgA coating on bacteria. Thus, chiral conversion of amino acids is linked to bacterial recognition by mammals to control symbiosis with bacteria.
+## Host-microbe cross-talk governs amino acid chirality to regulate survival and differentiation of B cells
 
 [Source](https://advances.sciencemag.org/content/7/10/eabd6480)
 
-10.1126/sciadv.abd6480
-
 ---
 
-## An integrated, modular approach to data science education in microbiology.
- 05.03.2021, _KA Dill-McFarland, SG König, F Mazel, DC Oliver, LM McEwen, KY Hong, SJ Hallam_
-
-
-We live in an increasingly data-driven world, where high-throughput sequencing and mass spectrometry platforms are transforming biology into an information science. This has shifted major challenges in biological research from data generation and processing to interpretation and knowledge translation. However, postsecondary training in bioinformatics, or more generally data science for life scientists, lags behind current demand. In particular, development of accessible, undergraduate data science curricula has the potential to improve research and learning outcomes as well as better prepare students in the life sciences to thrive in public and private sector careers. Here, we describe the Experiential Data science for Undergraduate Cross-Disciplinary Education (EDUCE) initiative, which aims to progressively build data science competency across several years of integrated practice. Through EDUCE, students complete data science modules integrated into required and elective courses augmented with coordinated cocurricular activities. The EDUCE initiative draws on a community of practice consisting of teaching assistants (TAs), postdocs, instructors, and research faculty from multiple disciplines to overcome several reported barriers to data science for life scientists, including instructor capacity, student prior knowledge, and relevance to discipline-specific problems. Preliminary survey results indicate that even a single module improves student self-reported interest and/or experience in bioinformatics and computer science. Thus, EDUCE provides a flexible and extensible active learning framework for integration of data science curriculum into undergraduate courses and programs across the life sciences.
+## An integrated, modular approach to data science education in microbiology
 
 [Source](https://doi.org/10.1371/journal.pcbi.1008661)
 
-10.1371/journal.pcbi.1008661
-
 ---
 
-## Five key aspects of metaproteomics as a tool to understand functional interactions in host-associated microbiomes.
- 05.03.2021, _F Salvato, RL Hettich, M Kleiner_
-
-
+## Five key aspects of metaproteomics as a tool to understand functional interactions in host-associated microbiomes
 
 [Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009245)
-
-10.1371/journal.ppat.1009245
 
 ---
 
