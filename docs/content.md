@@ -124,15 +124,27 @@
 
 ---
 
-## Differences in the gut microbiomes of dogs and wolves: roles of antibiotics and starch
+## Differences in the gut microbiomes of dogs and wolves: roles of antibiotics and starch.
+ 12.03.2021, _Y Liu, B Liu, C Liu, Y Hu, C Liu, X Li, X Li, X Zhang, DM Irwin, Z Wu, Z Chen, Q Jin, S Zhang_
+
+
+Dogs are domesticated wolves. Change of living environment, such as diet and veterinary care may affect the gut bacterial flora of dogs. The aim of this study was to assess the gut bacterial diversity and function in dogs compared with captive wolves. We surveyed the gut bacterial diversity of 27 domestic dogs, which were fed commercial dog food, and 31 wolves, which were fed uncooked meat, by 16S rRNA sequencing. In addition, we collected fecal samples from 5 dogs and 5 wolves for shotgun metagenomic sequencing to explore changes in the functions of their gut microbiome.
 
 [Source](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-021-02815-y)
 
+10.1186/s12917-021-02815-y
+
 ---
 
-## An Expanded Gene Catalog of Mouse Gut Metagenomes 
+## An Expanded Gene Catalog of Mouse Gut Metagenomes.
+ 25.02.2021, _J Zhu, H Ren, H Zhong, X Li, Y Zou, M Han, M Li, L Madsen, K Kristiansen, L Xiao_
+
+
+High-quality and comprehensive reference gene catalogs are essential for metagenomic research. The rather low diversity of samples used to construct existing catalogs of the mouse gut metagenome limits the numbers of identified genes in existing catalogs. We therefore established an expanded catalog of genes in the mouse gut metagenome (EMGC) containing &gt;5.8 million genes by integrating 88 newly sequenced samples, 86 mouse gut-related bacterial genomes, and 3 existing gene catalogs. EMGC increases the number of nonredundant genes by more than 1 million genes compared to the so-far most extensive catalog. More than 60% of the genes in EMGC were assigned to Bacteria, with 54.20% being assigned to a phylum and 35.33% to a genus, while 30.39% were annotated at the KEGG orthology level. Nine hundred two metagenomic species (MGS) assigned to 122 taxa are identified based on the EMGC. The EMGC-based analysis of samples from groups of mice originating from different animal providers, housing laboratories, and genetic strains substantiated that diet is a major contributor to differences in composition and functional potential of the gut microbiota irrespective of differences in environment and genetic background. We envisage that EMGC will serve as a valuable reference data set for future metagenomic studies in mice.IMPORTANCE We established an expanded gene catalog of the mouse gut metagenome not only to increase the sample size compared to that in existing catalogs but also to provide a more comprehensive reference data set of the mouse gut microbiome for bioinformatic analysis. The expanded gene catalog comprises more than 5.8 million unique genes, as well as a wide range of taxonomic and functional information. Particularly, the analysis of metagenomic species with the expanded gene catalog reveals a great novelty of mouse gut-inhabiting microbial species. We envisage that the expanded gene catalog of the mouse gut metagenome will serve as a valuable bioinformatic resource for future gut metagenomic studies in mice.
 
 [Source](https://msphere.asm.org/content/msph/6/1/e01119-20.full.pdf)
+
+10.1128/mSphere.01119-20
 
 ---
 
