@@ -124,15 +124,9 @@
 
 ---
 
-## Differences in the gut microbiomes of dogs and wolves: roles of antibiotics and starch.
- 12.03.2021, _Y Liu, B Liu, C Liu, Y Hu, C Liu, X Li, X Li, X Zhang, DM Irwin, Z Wu, Z Chen, Q Jin, S Zhang_
-
-
-Dogs are domesticated wolves. Change of living environment, such as diet and veterinary care may affect the gut bacterial flora of dogs. The aim of this study was to assess the gut bacterial diversity and function in dogs compared with captive wolves. We surveyed the gut bacterial diversity of 27 domestic dogs, which were fed commercial dog food, and 31 wolves, which were fed uncooked meat, by 16S rRNA sequencing. In addition, we collected fecal samples from 5 dogs and 5 wolves for shotgun metagenomic sequencing to explore changes in the functions of their gut microbiome.
+## Differences in the gut microbiomes of dogs and wolves: roles of antibiotics and starch
 
 [Source](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-021-02815-y)
-
-10.1186/s12917-021-02815-y
 
 ---
 
