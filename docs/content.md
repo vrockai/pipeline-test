@@ -1,96 +1,72 @@
-## Characterization of a pericentric inversion in plateau fence lizards (Sceloporus tristichus): evidence from chromosome-scale genomes.
- 12.03.2021, _AM Bedoya, AD Leaché_
+## Strain-level functional variation in the human gut microbiota based on bacterial binding to artificial food particles.
+ 16.02.2021, _ML Patnode, JL Guruge, JJ Castillo, GA Couture, V Lombard, N Terrapon, B Henrissat, CB Lebrilla, JI Gordon_
 
 
-Spiny lizards in the genus Sceloporus are a model system among squamate reptiles for studies of chromosomal evolution. While most pleurodont iguanians retain an ancestral karyotype formula of 2n = 36 chromosomes, Sceloporus exhibits substantial karyotype variation ranging from 2n = 22 to 46 chromosomes. We present two annotated chromosome-scale genome assemblies for the Plateau Fence Lizard (Sceloporus tristichus) to facilitate research on the role of pericentric inversion polymorphisms on adaptation and speciation. Based on previous karyotype work using conventional staining, the S. tristichus genome is characterized as 2n = 22 with six pairs of macrochromosomes and five pairs of microchromosomes and a pericentric inversion polymorphism on chromosome 7 that is geographically variable. We provide annotated, chromosome-scale genomes for two lizards located at opposite ends of a dynamic hybrid zone that are each fixed for different inversion polymorphisms. The assembled genomes are 1.84-1.87 Gb (1.72 Gb for scaffolds mapping to chromosomes) with a scaffold N50 of 267.5 Mb. Functional annotation of the genomes resulted in ∼15K predicted gene models. Our assemblies confirmed the presence of a 4.62-Mb pericentric inversion on chromosome 7, which contains 62 annotated coding genes with known functions. In addition, we collected population genomics data using double digest RAD-sequencing for 44 S. tristichus to estimate population structure and phylogeny across the Colorado Plateau. These new genomic resources provide opportunities to perform genomic scans and investigate the formation and spread of pericentric inversions in a naturally occurring hybrid zone.
+Greater understanding of the spatial relationships between members of the human gut microbiota and available nutrients is needed to gain deeper insights about community dynamics and expressed functions. Therefore, we generated a panel of artificial food particles with each type composed of microscopic paramagnetic beads coated with a fluorescent barcode and one of 60 different dietary or host glycan preparations. Analysis of 160 Bacteroides and Parabacteroides strains disclosed diverse strain-specific and glycan-specific binding phenotypes. We identified carbohydrate structures that correlated with binding by specific bacterial strains in vitro and noted strain-specific differences in the catabolism of glycans that mediate adhesion. Mixed in vitro cultures revealed that these adhesion phenotypes are maintained in more complex communities. Additionally, orally administering glycan beads to gnotobiotic mice confirmed specificity in glycan binding. This approach should facilitate analyses of how strains occupying the same physical niche interact, and it should advance the development of synbiotics, more nutritious foods, and microbiota-based diagnostics.
 
-[Source](https://microbiomedigest.com/2021/03/01/march-1st-2021/)
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00037-8)
 
-10.1093/g3journal/jkab036
-
----
-
-## previous digest
-
-[Source](https://microbiomedigest.com/2021/03/01/march-1st-2021/)
+10.1016/j.chom.2021.01.007
 
 ---
 
-## check out the comments section
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.16.205534v1?versioned=true)
-
----
-
-## Intestinal mycobiota in health and diseases: from a disrupted equilibrium to clinical opportunities.
- 15.03.2021, _X Wu, Y Xia, F He, C Zhu, W Ren_
+## Debaryomyces is enriched in Crohn's disease intestinal tissue and impairs healing in mice.
+ 15.03.2021, _U Jain, AM Ver Heul, S Xiong, MH Gregory, EG Demers, JT Kern, CW Lai, BD Muegge, DAG Barisas, JS Leal-Ekman, P Deepak, MA Ciorba, TC Liu, DA Hogan, P Debbas, J Braun, DPB McGovern, DM Underhill, TS Stappenbeck_
 
 
-Bacteria, viruses, protozoa, and fungi establish a complex ecosystem in the gut. Like other microbiota, gut mycobiota plays an indispensable role in modulating intestinal physiology. Notably, the most striking characteristics of intestinal fungi are their extraintestinal functions. Here, we provide a comprehensive review of the importance of gut fungi in the regulation of intestinal, pulmonary, hepatic, renal, pancreatic, and brain functions, and we present possible opportunities for the application of gut mycobiota to alleviate/treat human diseases. Video Abstract.
+Alterations of the mycobiota composition associated with Crohn's disease (CD) are challenging to link to defining elements of pathophysiology, such as poor injury repair. Using culture-dependent and -independent methods, we discovered that Debaryomyces hansenii preferentially localized to and was abundant within incompletely healed intestinal wounds of mice and inflamed mucosal tissues of CD human subjects. D. hansenii cultures from injured mice and inflamed CD tissues impaired colonic healing when introduced into injured conventionally raised or gnotobiotic mice. We reisolated D. hansenii from injured areas of these mice, fulfilling Koch's postulates. Mechanistically, D. hansenii impaired mucosal healing through the myeloid cell-specific type 1 interferon-CCL5 axis. Taken together, we have identified a fungus that inhabits inflamed CD tissue and can lead to dysregulated mucosal healing.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01024-x)
+[Source](https://science.sciencemag.org/content/371/6534/1154)
 
-10.1186/s40168-021-01024-x
+10.1126/science.abd0919
 
 ---
 
-## A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil
+## Dysbiosis in Metabolic Genes of the Gut Microbiomes of Patients with an Ileo-anal Pouch Resembles That Observed in Crohn's Disease.
+ 03.03.2021, _V Dubinsky, L Reshef, K Rabinowitz, K Yadgar, L Godny, K Zonensain, N Wasserberg, I Dotan, U Gophna_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.03.12.434969v1.abstract)
 
----
+Crohn's disease (CD), ulcerative colitis (UC), and pouchitis are multifactorial and chronic inflammatory bowel diseases (IBD). Pouchitis develops in former UC patients after proctocolectomy and ileal-pouch-anal anastomosis and is characterized by inflammation of the previously normal small intestine comprising the pouch. The extent to which microbial functional alteration (dysbiosis) in pouchitis resembles that of CD or UC has not been investigated, and the pathogenesis of pouchitis remains unknown. We collected 208 fecal metagenomes from 69 patients with a pouch (normal pouch and pouchitis) and compared them to publicly available metagenomes of patients with CD (n = 88), patients with UC (n = 76), and healthy controls (n = 56). Patients with pouchitis presented the highest alterations in species, metabolic pathways, and enzymes, which was correlated with intestinal inflammation. Ruminococcus gnavus strains encoding mucin-degrading glycoside hydrolases were highly enriched in pouchitis. Butyrate and secondary bile acid biosynthesis pathways were decreased in IBD phenotypes and were especially low in pouchitis. Pathways such as amino acid biosynthesis and degradation of aromatic compounds and sugars, encoded by members of the Enterobacteriaceae, were enriched in pouch and CD but not in UC. We developed microbial feature-based classifiers that can distinguish between patients with a normal pouch and pouchitis and identified species and genes that were predictive of pouchitis. We propose that the noninflamed pouch is already dysbiotic and microbially is similar to CD. Our study reveals microbial functions that outline the pathogenesis of pouchitis and suggests bacterial groups and functions that could be targeted for intervention to attenuate small intestinal inflammation present in pouchitis and CD.IMPORTANCE Crohn's disease (CD), ulcerative colitis (UC), and pouchitis are chronic inflammatory conditions of the bowel. Pouchitis develops in former UC patients after proctocolectomy and ileal-pouch-anal anastomosis and is characterized by inflammation of the previously normal small intestine comprising the pouch. The extent to which microbial dysbiosis in patients with pouchitis resembles that of CD or UC and the pathogenesis of pouchitis remains unclear. We investigated the functions in the gut microbiomes of these patients using metagenomics. We found that the noninflamed pouch is already dysbiotic and microbially is similar to CD. Our study reveals microbial functions with a potential role in pouchitis pathogenesis such as depletion in butyrate and secondary bile acid synthesis and enrichment of amino acid synthesis and degradation of aromatic compounds, encoded by members of the Enterobacteriaceae We developed microbial feature-based classifiers that can distinguish between patients with a normal pouch and pouchitis and identified species and genes that were predictive of pouchitis. We suggest species and functions that could be targeted for intervention to attenuate small intestinal inflammation present in pouchitis and CD.
 
-## Persistence of SARS-CoV-2 virus and viral RNA on hydrophobic and hydrophilic surfaces and investigating contamination concentration
+[Source](https://msystems.asm.org/content/6/2/e00984-20)
 
-[Source](http://biorxiv.org/content/10.1101/2021.03.11.435056v1.abstract)
-
----
-
-## Systematic exploration of&nbsp;<em>Escherichia coli</em>&nbsp;phage-host interactions with the BASEL phage collection
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.03.08.434280v2.abstract)
+10.1128/mSystems.00984-20
 
 ---
 
-## PulseNet international: the missing link between PFGE and WGS
+## Human-associated microbiota suppress invading bacteria even under disruption by antibiotics.
+ 13.03.2021, _AD Letten, M Baumgartner, KR Pfrunder-Cardozo, JM Levine, AR Hall_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.03.08.434411v2.abstract)
 
----
+In light of their adverse impacts on resident microbial communities, it is widely predicted that broad-spectrum antibiotics can promote the spread of resistance by releasing resistant strains from competition with other strains and species. We investigated the competitive suppression of a resistant strain of Escherichia coli inoculated into human-associated communities in the presence and absence of the broad and narrow spectrum antibiotics rifampicin and polymyxin B, respectively. We found strong evidence of community-level suppression of the resistant strain in the absence of antibiotics and, despite large changes in community composition and abundance following rifampicin exposure, suppression of the invading resistant strain was maintained in both antibiotic treatments. Instead, the strength of competitive suppression was more strongly associated with the source community (stool sample from individual human donor). This suggests microbiome composition strongly influences the competitive suppression of antibiotic-resistant strains, but at least some antibiotic-associated disruption can be tolerated before competitive release is observed. A deeper understanding of this association will aid the development of ecologically-aware strategies for managing antibiotic resistance.
 
-## Spontaneous Escherichia coli persisters with week-long survival dynamics and lasting memory of a short starvation pulse
+[Source](https://www.nature.com/articles/s41396-021-00929-7)
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.09.17.301598v2.abstract)
-
----
-
-## A Self-Replicating Radiation-Shield for Human Deep-Space Exploration: Radiotrophic Fungi can Attenuate Ionizing Radiation aboard the International Space Station
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.07.16.205534v5.abstract)
+10.1038/s41396-021-00929-7
 
 ---
 
-## Resistance to aztreonam in combination with non-β-lactam β-lactamase inhibitors due to the layering of mechanisms in Escherichia coli identified following mixed culture selection
+## Key bacterial taxa and metabolic pathways affecting gut short-chain fatty acid profiles in early life
 
-[Source](https://www.biorxiv.org/content/10.1101/615336v2.abstract)
-
----
-
-## <em>Yersinia pestis</em>&nbsp;lipopolysaccharide remodeling confers resistance to a&nbsp;<em>Xenopsylla cheopis</em>&nbsp;cecropin
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.03.12.435208v1.abstract)
+[Source](https://www.nature.com/articles/s41396-021-00937-7)
 
 ---
 
-## Rare transmission of commensal and pathogenic bacteria in the gut microbiome of hospitalized adults 
+## Tonsillar Microbiota: a Cross-Sectional Study of Patients with Chronic Tonsillitis or Tonsillar Hypertrophy
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.03.12.435204v1.abstract)
+[Source](https://msystems.asm.org/content/6/2/e01302-20)
 
 ---
 
-## Radiation Threats to Humans in Space and an alternative approach with Probiotics
+## Long-term evolution and short-term adaptation of microbiota strains and sub-strains in mice
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.03.12.435153v1.abstract)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312821000470)
+
+---
+
+## ContigExtender: a new approach to improving de novo sequence assembly for viral metagenomics data
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04038-2)
 
 ---
 
