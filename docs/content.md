@@ -22,9 +22,15 @@ Spiny lizards in the genus Sceloporus are a model system among squamate reptiles
 
 ---
 
-## Intestinal mycobiota in health and diseases: from a disrupted equilibrium to clinical opportunities
+## Intestinal mycobiota in health and diseases: from a disrupted equilibrium to clinical opportunities.
+ 15.03.2021, _X Wu, Y Xia, F He, C Zhu, W Ren_
+
+
+Bacteria, viruses, protozoa, and fungi establish a complex ecosystem in the gut. Like other microbiota, gut mycobiota plays an indispensable role in modulating intestinal physiology. Notably, the most striking characteristics of intestinal fungi are their extraintestinal functions. Here, we provide a comprehensive review of the importance of gut fungi in the regulation of intestinal, pulmonary, hepatic, renal, pancreatic, and brain functions, and we present possible opportunities for the application of gut mycobiota to alleviate/treat human diseases. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01024-x)
+
+10.1186/s40168-021-01024-x
 
 ---
 
