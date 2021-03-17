@@ -46,9 +46,15 @@ In light of their adverse impacts on resident microbial communities, it is widel
 
 ---
 
-## Key bacterial taxa and metabolic pathways affecting gut short-chain fatty acid profiles in early life
+## Key bacterial taxa and metabolic pathways affecting gut short-chain fatty acid profiles in early life.
+ 16.03.2021, _N Tsukuda, K Yahagi, T Hara, Y Watanabe, H Matsumoto, H Mori, K Higashi, H Tsuji, S Matsumoto, K Kurokawa, T Matsuki_
+
+
+Infant gut microbiota development affects the host physiology throughout life, and short-chain fatty acids (SCFAs) are promising key metabolites mediating microbiota-host relationships. Here, we investigated dense longitudinally collected faecal samples from 12 subjects during the first 2 years (n = 1048) to identify early life gut SCFA patterns and their relationships with the microbiota. Our results revealed three distinct phases of progression in the SCFA profiles: early phase characterised by low acetate and high succinate, middle-phase characterised by high lactate and formate and late-phase characterised by high propionate and butyrate. Assessment of the SCFA-microbiota relationships revealed that faecal butyrate is associated with increased Clostridiales and breastfeeding cessation, and that diverse and personalised assemblage of Clostridiales species possessing the acetyl-CoA pathway play major roles in gut butyrate production. We also found an association between gut formate and some infant-type bifidobacterial species, and that human milk oligosaccharides (HMO)-derived fucose is the substrate for formate production during breastfeeding. We identified genes upregulated in fucose and fucosylated HMO utilisation in infant-type bifidobacteria. Notably, bifidobacteria showed interspecific and intraspecific variation in the gene repertoires, and cross-feeding of fucose contributed to gut formate production. This study provides an insight into early life SCFA-microbiota relationships, which is an important step for developing strategies for modulating lifelong health.
 
 [Source](https://www.nature.com/articles/s41396-021-00937-7)
+
+10.1038/s41396-021-00937-7
 
 ---
 
@@ -58,15 +64,27 @@ In light of their adverse impacts on resident microbial communities, it is widel
 
 ---
 
-## Long-term evolution and short-term adaptation of microbiota strains and sub-strains in mice
+## Long-term evolution and short-term adaptation of microbiota strains and sub-strains in mice.
+ 04.03.2021, _B Yilmaz, C Mooser, I Keller, H Li, J Zimmermann, L Bosshard, T Fuhrer, M Gomez de Agüero, NF Trigo, H Tschanz-Lischer, JP Limenitakis, WD Hardt, KD McCoy, B Stecher, L Excoffier, U Sauer, SC Ganal-Vonarburg, AJ Macpherson_
+
+
+Isobiotic mice, with an identical stable microbiota composition, potentially allow models of host-microbial mutualism to be studied over time and between different laboratories. To understand microbiota evolution in these models, we carried out a 6-year experiment in mice colonized with 12 representative taxa. Increased non-synonymous to synonymous mutation rates indicate positive selection in multiple taxa, particularly for genes annotated for nutrient acquisition or replication. Microbial sub-strains that evolved within a single taxon can stably coexist, consistent with niche partitioning of ecotypes in the complex intestinal environment. Dietary shifts trigger rapid transcriptional adaptation to macronutrient and micronutrient changes in individual taxa and alterations in taxa biomass. The proportions of different sub-strains are also rapidly altered after dietary shift. This indicates that microbial taxa within a mouse colony adapt to changes in the intestinal environment by long-term genomic positive selection and short-term effects of transcriptional reprogramming and adjustments in sub-strain proportions.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312821000470)
 
+10.1016/j.chom.2021.02.001
+
 ---
 
-## ContigExtender: a new approach to improving de novo sequence assembly for viral metagenomics data
+## ContigExtender: a new approach to improving de novo sequence assembly for viral metagenomics data.
+ 14.03.2021, _Z Deng, E Delwart_
+
+
+Metagenomics is the study of microbial genomes for pathogen detection and discovery in human clinical, animal, and environmental samples via Next-Generation Sequencing (NGS). Metagenome de novo sequence assembly is a crucial analytical step in which longer contigs, ideally whole chromosomes/genomes, are formed from shorter NGS reads. However, the contigs generated from the de novo assembly are often very fragmented and rarely longer than a few kilo base pairs (kb). Therefore, a time-consuming extension process is routinely performed on the de novo assembled contigs.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04038-2)
+
+10.1186/s12859-021-04038-2
 
 ---
 
