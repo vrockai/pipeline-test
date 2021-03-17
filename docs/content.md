@@ -11,7 +11,7 @@ Greater understanding of the spatial relationships between members of the human 
 ---
 
 ## Debaryomyces is enriched in Crohn's disease intestinal tissue and impairs healing in mice.
- 15.03.2021, _U Jain, AM Ver Heul, S Xiong, MH Gregory, EG Demers, JT Kern, CW Lai, BD Muegge, DAG Barisas, JS Leal-Ekman, P Deepak, MA Ciorba, TC Liu, DA Hogan, P Debbas, J Braun, DPB McGovern, DM Underhill, TS Stappenbeck_
+ 16.03.2021, _U Jain, AM Ver Heul, S Xiong, MH Gregory, EG Demers, JT Kern, CW Lai, BD Muegge, DAG Barisas, JS Leal-Ekman, P Deepak, MA Ciorba, TC Liu, DA Hogan, P Debbas, J Braun, DPB McGovern, DM Underhill, TS Stappenbeck_
 
 
 Alterations of the mycobiota composition associated with Crohn's disease (CD) are challenging to link to defining elements of pathophysiology, such as poor injury repair. Using culture-dependent and -independent methods, we discovered that Debaryomyces hansenii preferentially localized to and was abundant within incompletely healed intestinal wounds of mice and inflamed mucosal tissues of CD human subjects. D. hansenii cultures from injured mice and inflamed CD tissues impaired colonic healing when introduced into injured conventionally raised or gnotobiotic mice. We reisolated D. hansenii from injured areas of these mice, fulfilling Koch's postulates. Mechanistically, D. hansenii impaired mucosal healing through the myeloid cell-specific type 1 interferon-CCL5 axis. Taken together, we have identified a fungus that inhabits inflamed CD tissue and can lead to dysregulated mucosal healing.
