@@ -1,102 +1,120 @@
-## Strain-level functional variation in the human gut microbiota based on bacterial binding to artificial food particles.
- 16.02.2021, _ML Patnode, JL Guruge, JJ Castillo, GA Couture, V Lombard, N Terrapon, B Henrissat, CB Lebrilla, JI Gordon_
+## Toward quantifying the adaptive role of bacterial pangenomes during environmental perturbations 
 
-
-Greater understanding of the spatial relationships between members of the human gut microbiota and available nutrients is needed to gain deeper insights about community dynamics and expressed functions. Therefore, we generated a panel of artificial food particles with each type composed of microscopic paramagnetic beads coated with a fluorescent barcode and one of 60 different dietary or host glycan preparations. Analysis of 160 Bacteroides and Parabacteroides strains disclosed diverse strain-specific and glycan-specific binding phenotypes. We identified carbohydrate structures that correlated with binding by specific bacterial strains in vitro and noted strain-specific differences in the catabolism of glycans that mediate adhesion. Mixed in vitro cultures revealed that these adhesion phenotypes are maintained in more complex communities. Additionally, orally administering glycan beads to gnotobiotic mice confirmed specificity in glycan binding. This approach should facilitate analyses of how strains occupying the same physical niche interact, and it should advance the development of synbiotics, more nutritious foods, and microbiota-based diagnostics.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00037-8)
-
-10.1016/j.chom.2021.01.007
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.15.435471v1.abstract)
 
 ---
 
-## Debaryomyces is enriched in Crohn's disease intestinal tissue and impairs healing in mice.
- 16.03.2021, _U Jain, AM Ver Heul, S Xiong, MH Gregory, EG Demers, JT Kern, CW Lai, BD Muegge, DAG Barisas, JS Leal-Ekman, P Deepak, MA Ciorba, TC Liu, DA Hogan, P Debbas, J Braun, DPB McGovern, DM Underhill, TS Stappenbeck_
+## BlueFeather, the singleton that wasn’t: Shared gene content analysis supports expansion of <em>Arthrobacter </em>phage Cluster FE
 
-
-Alterations of the mycobiota composition associated with Crohn's disease (CD) are challenging to link to defining elements of pathophysiology, such as poor injury repair. Using culture-dependent and -independent methods, we discovered that Debaryomyces hansenii preferentially localized to and was abundant within incompletely healed intestinal wounds of mice and inflamed mucosal tissues of CD human subjects. D. hansenii cultures from injured mice and inflamed CD tissues impaired colonic healing when introduced into injured conventionally raised or gnotobiotic mice. We reisolated D. hansenii from injured areas of these mice, fulfilling Koch's postulates. Mechanistically, D. hansenii impaired mucosal healing through the myeloid cell-specific type 1 interferon-CCL5 axis. Taken together, we have identified a fungus that inhabits inflamed CD tissue and can lead to dysregulated mucosal healing.
-
-[Source](https://science.sciencemag.org/content/371/6534/1154)
-
-10.1126/science.abd0919
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248418)
 
 ---
 
-## Dysbiosis in Metabolic Genes of the Gut Microbiomes of Patients with an Ileo-anal Pouch Resembles That Observed in Crohn's Disease.
- 03.03.2021, _V Dubinsky, L Reshef, K Rabinowitz, K Yadgar, L Godny, K Zonensain, N Wasserberg, I Dotan, U Gophna_
+## The gut microbiota-brain axis in behaviour and brain disorders.
+ 18.03.2021, _LH Morais, HL Schreiber, SK Mazmanian_
 
 
-Crohn's disease (CD), ulcerative colitis (UC), and pouchitis are multifactorial and chronic inflammatory bowel diseases (IBD). Pouchitis develops in former UC patients after proctocolectomy and ileal-pouch-anal anastomosis and is characterized by inflammation of the previously normal small intestine comprising the pouch. The extent to which microbial functional alteration (dysbiosis) in pouchitis resembles that of CD or UC has not been investigated, and the pathogenesis of pouchitis remains unknown. We collected 208 fecal metagenomes from 69 patients with a pouch (normal pouch and pouchitis) and compared them to publicly available metagenomes of patients with CD (n = 88), patients with UC (n = 76), and healthy controls (n = 56). Patients with pouchitis presented the highest alterations in species, metabolic pathways, and enzymes, which was correlated with intestinal inflammation. Ruminococcus gnavus strains encoding mucin-degrading glycoside hydrolases were highly enriched in pouchitis. Butyrate and secondary bile acid biosynthesis pathways were decreased in IBD phenotypes and were especially low in pouchitis. Pathways such as amino acid biosynthesis and degradation of aromatic compounds and sugars, encoded by members of the Enterobacteriaceae, were enriched in pouch and CD but not in UC. We developed microbial feature-based classifiers that can distinguish between patients with a normal pouch and pouchitis and identified species and genes that were predictive of pouchitis. We propose that the noninflamed pouch is already dysbiotic and microbially is similar to CD. Our study reveals microbial functions that outline the pathogenesis of pouchitis and suggests bacterial groups and functions that could be targeted for intervention to attenuate small intestinal inflammation present in pouchitis and CD.IMPORTANCE Crohn's disease (CD), ulcerative colitis (UC), and pouchitis are chronic inflammatory conditions of the bowel. Pouchitis develops in former UC patients after proctocolectomy and ileal-pouch-anal anastomosis and is characterized by inflammation of the previously normal small intestine comprising the pouch. The extent to which microbial dysbiosis in patients with pouchitis resembles that of CD or UC and the pathogenesis of pouchitis remains unclear. We investigated the functions in the gut microbiomes of these patients using metagenomics. We found that the noninflamed pouch is already dysbiotic and microbially is similar to CD. Our study reveals microbial functions with a potential role in pouchitis pathogenesis such as depletion in butyrate and secondary bile acid synthesis and enrichment of amino acid synthesis and degradation of aromatic compounds, encoded by members of the Enterobacteriaceae We developed microbial feature-based classifiers that can distinguish between patients with a normal pouch and pouchitis and identified species and genes that were predictive of pouchitis. We suggest species and functions that could be targeted for intervention to attenuate small intestinal inflammation present in pouchitis and CD.
+In a striking display of trans-kingdom symbiosis, gut bacteria cooperate with their animal hosts to regulate the development and function of the immune, metabolic and nervous systems through dynamic bidirectional communication along the 'gut-brain axis'. These processes may affect human health, as certain animal behaviours appear to correlate with the composition of gut bacteria, and disruptions in microbial communities have been implicated in several neurological disorders. Most insights about host-microbiota interactions come from animal models, which represent crucial tools for studying the various pathways linking the gut and the brain. However, there are complexities and manifest limitations inherent in translating complex human disease to reductionist animal models. In this Review, we discuss emerging and exciting evidence of intricate and crucial connections between the gut microbiota and the brain involving multiple biological systems, and possible contributions by the gut microbiota to neurological disorders. Continued advances from this frontier of biomedicine may lead to tangible impacts on human health.
 
-[Source](https://msystems.asm.org/content/6/2/e00984-20)
+[Source](https://www.nature.com/articles/s41579-020-00460-0)
 
-10.1128/mSystems.00984-20
-
----
-
-## Human-associated microbiota suppress invading bacteria even under disruption by antibiotics.
- 13.03.2021, _AD Letten, M Baumgartner, KR Pfrunder-Cardozo, JM Levine, AR Hall_
-
-
-In light of their adverse impacts on resident microbial communities, it is widely predicted that broad-spectrum antibiotics can promote the spread of resistance by releasing resistant strains from competition with other strains and species. We investigated the competitive suppression of a resistant strain of Escherichia coli inoculated into human-associated communities in the presence and absence of the broad and narrow spectrum antibiotics rifampicin and polymyxin B, respectively. We found strong evidence of community-level suppression of the resistant strain in the absence of antibiotics and, despite large changes in community composition and abundance following rifampicin exposure, suppression of the invading resistant strain was maintained in both antibiotic treatments. Instead, the strength of competitive suppression was more strongly associated with the source community (stool sample from individual human donor). This suggests microbiome composition strongly influences the competitive suppression of antibiotic-resistant strains, but at least some antibiotic-associated disruption can be tolerated before competitive release is observed. A deeper understanding of this association will aid the development of ecologically-aware strategies for managing antibiotic resistance.
-
-[Source](https://www.nature.com/articles/s41396-021-00929-7)
-
-10.1038/s41396-021-00929-7
+10.1038/s41579-020-00460-0
 
 ---
 
-## Key bacterial taxa and metabolic pathways affecting gut short-chain fatty acid profiles in early life.
- 16.03.2021, _N Tsukuda, K Yahagi, T Hara, Y Watanabe, H Matsumoto, H Mori, K Higashi, H Tsuji, S Matsumoto, K Kurokawa, T Matsuki_
+## Cross-species evolutionary rewiring in the enteric bacterium <em>Campylobacter</em>
 
-
-Infant gut microbiota development affects the host physiology throughout life, and short-chain fatty acids (SCFAs) are promising key metabolites mediating microbiota-host relationships. Here, we investigated dense longitudinally collected faecal samples from 12 subjects during the first 2 years (n = 1048) to identify early life gut SCFA patterns and their relationships with the microbiota. Our results revealed three distinct phases of progression in the SCFA profiles: early phase characterised by low acetate and high succinate, middle-phase characterised by high lactate and formate and late-phase characterised by high propionate and butyrate. Assessment of the SCFA-microbiota relationships revealed that faecal butyrate is associated with increased Clostridiales and breastfeeding cessation, and that diverse and personalised assemblage of Clostridiales species possessing the acetyl-CoA pathway play major roles in gut butyrate production. We also found an association between gut formate and some infant-type bifidobacterial species, and that human milk oligosaccharides (HMO)-derived fucose is the substrate for formate production during breastfeeding. We identified genes upregulated in fucose and fucosylated HMO utilisation in infant-type bifidobacteria. Notably, bifidobacteria showed interspecific and intraspecific variation in the gene repertoires, and cross-feeding of fucose contributed to gut formate production. This study provides an insight into early life SCFA-microbiota relationships, which is an important step for developing strategies for modulating lifelong health.
-
-[Source](https://www.nature.com/articles/s41396-021-00937-7)
-
-10.1038/s41396-021-00937-7
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.15.435406v1.abstract)
 
 ---
 
-## Primary and secondary postoperative hemorrhage in pediatric tonsillectomy.
- 18.03.2021, _B Xu, HY Jin, K Wu, C Chen, L Li, Y Zhang, WZ Gu, C Chen_
+## Gut microbiota profiles in diarrheic patients with co-occurrence of <em>Clostridioides difficile </em>and <em>Blastocystis</em>
 
-
-Tonsillectomy is the most common procedure for treatment of pediatric recurrent acute tonsillitis and tonsillar enlargement that contributes to obstructive sleep apnea hypopnea syndrome. Postoperative hemorrhage of tonsillectomy is a life-threatening complication.
-
-[Source](https://msystems.asm.org/content/6/2/e01302-20)
-
-10.12998/wjcc.v9.i7.1543
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248185)
 
 ---
 
-## Tonsillar Microbiota: a Cross-Sectional Study of Patients with Chronic Tonsillitis or Tonsillar Hypertrophy
+## Low pathogenic avian influenza virus infection retards colon microbiome diversification in two different chicken lines
 
-[Source](https://msystems.asm.org/content/6/2/e01302-20)
-
----
-
-## Long-term evolution and short-term adaptation of microbiota strains and sub-strains in mice.
- 04.03.2021, _B Yilmaz, C Mooser, I Keller, H Li, J Zimmermann, L Bosshard, T Fuhrer, M Gomez de Agüero, NF Trigo, H Tschanz-Lischer, JP Limenitakis, WD Hardt, KD McCoy, B Stecher, L Excoffier, U Sauer, SC Ganal-Vonarburg, AJ Macpherson_
-
-
-Isobiotic mice, with an identical stable microbiota composition, potentially allow models of host-microbial mutualism to be studied over time and between different laboratories. To understand microbiota evolution in these models, we carried out a 6-year experiment in mice colonized with 12 representative taxa. Increased non-synonymous to synonymous mutation rates indicate positive selection in multiple taxa, particularly for genes annotated for nutrient acquisition or replication. Microbial sub-strains that evolved within a single taxon can stably coexist, consistent with niche partitioning of ecotypes in the complex intestinal environment. Dietary shifts trigger rapid transcriptional adaptation to macronutrient and micronutrient changes in individual taxa and alterations in taxa biomass. The proportions of different sub-strains are also rapidly altered after dietary shift. This indicates that microbial taxa within a mouse colony adapt to changes in the intestinal environment by long-term genomic positive selection and short-term effects of transcriptional reprogramming and adjustments in sub-strain proportions.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312821000470)
-
-10.1016/j.chom.2021.02.001
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.15.435422v1.abstract)
 
 ---
 
-## ContigExtender: a new approach to improving de novo sequence assembly for viral metagenomics data.
- 14.03.2021, _Z Deng, E Delwart_
+## <em>Borrelia</em> infection in rodent host has dramatic effects on the microbiome of ticks
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.15.435198v1.abstract)
+
+---
+
+## The discovery, distribution and diversity of DNA viruses associated with <em>Drosophila melanogaster</em> in Europe 
+
+[Source](https://www.biorxiv.org/content/10.1101/2020.10.16.342956v2.abstract)
+
+---
+
+## Effects of precipitation change and nitrogen addition on the composition, diversity, and molecular ecological network of soil bacterial communities in a desert steppe
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248194)
+
+---
+
+## Changes and composition of microbial community during aerobic composting of household food waste
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.12.435218v1.abstract)
+
+---
+
+## What’s under the Christmas tree? Soil acidification alters fir tree rhizosphere bacterial and eukaryotic communities, their interactions, and functional traits
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.16.435746v1.abstract)
+
+---
+
+## A comparative analysis of biogas production from tomato bio-waste in mesophilic batch and continuous anaerobic digestion systems
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248654)
+
+---
+
+## Red seaweed (<em>Asparagopsis taxiformis</em>) supplementation reduces enteric methane by over 80 percent in beef steers
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247820)
+
+---
+
+## Prevalence and distribution of multilocus sequence types of <em>Staphylococcus aureus</em> isolated from bulk tank milk and cows with mastitis in Pennsylvania
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248528)
+
+---
+
+## Multidrug-resistant enterobacteria in newborn dairy calves in Germany
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248291)
+
+---
+
+## Viral and host heterogeneity and their effects on the viral life cycle
+
+[Source](https://www.nature.com/articles/s41579-020-00449-9)
+
+---
+
+## Dcmd: Distance-based classification using mixture distributions on microbiome data
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008799)
+
+---
+
+## Don't put all social network sites in one basket: Facebook, Instagram, Twitter, TikTok, and their relations with well-being during the COVID-19 pandemic.
+ 15.03.2021, _A Masciantonio, D Bourguignon, P Bouchat, M Balty, B Rimé_
 
 
-Metagenomics is the study of microbial genomes for pathogen detection and discovery in human clinical, animal, and environmental samples via Next-Generation Sequencing (NGS). Metagenome de novo sequence assembly is a crucial analytical step in which longer contigs, ideally whole chromosomes/genomes, are formed from shorter NGS reads. However, the contigs generated from the de novo assembly are often very fragmented and rarely longer than a few kilo base pairs (kb). Therefore, a time-consuming extension process is routinely performed on the de novo assembled contigs.
+Prior studies indicated that actively using social network sites (SNSs) is positively associated with well-being by enhancing social support and feelings of connectedness. Conversely, passively using SNSs is negatively associated with well-being by fostering upward social comparison and envy. However, the majority of these studies has focused on Facebook. The present research examined the relationships between well-being-satisfaction with life, negative affect, positive affect-and using actively or passively various SNSs-Facebook, Instagram, Twitter, TikTok-during the COVID-19 pandemic. In addition, two mediators were tested: social support and upward social comparison. One thousand four persons completed an online survey during the quarantine measures; the analyses employed structural equation modeling. Results showed that passive usage of Facebook is negatively related to well-being through upward social comparison, whereas active usage of Instagram is positively related to satisfaction with life and negative affect through social support. Furthermore, active usage of Twitter was positively related to satisfaction with life through social support; while passive usage was negatively related to upward social comparison, which, in turn, was associated with more negative affect. Finally, TikTok use was not associated with well-being. Results are discussed in line with SNSs' architectures and users' motivations. Future research is required to go beyond methodological and statistical limitations and allow generalization. This study concludes that SNSs must be differentiated to truly understand how they shape human interactions.
 
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04038-2)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248384)
 
-10.1186/s12859-021-04038-2
+10.1371/journal.pone.0248384
 
 ---
 
