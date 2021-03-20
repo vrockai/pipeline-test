@@ -1,354 +1,222 @@
-## Intestinal mycobiota in health and diseases: from a disrupted equilibrium to clinical opportunities.
- 18.03.2021, _X Wu, Y Xia, F He, C Zhu, W Ren_
+## The One You Feed: Identifying Specific Interactions Of Dietary Fiber Structures And The Microbiota That Ferment Them
 
-
-Bacteria, viruses, protozoa, and fungi establish a complex ecosystem in the gut. Like other microbiota, gut mycobiota plays an indispensable role in modulating intestinal physiology. Notably, the most striking characteristics of intestinal fungi are their extraintestinal functions. Here, we provide a comprehensive review of the importance of gut fungi in the regulation of intestinal, pulmonary, hepatic, renal, pancreatic, and brain functions, and we present possible opportunities for the application of gut mycobiota to alleviate/treat human diseases. Video Abstract.
-
-[Source](https://doi.org/10.1186/s40168-021-01024-x)
-
-10.1186/s40168-021-01024-x
+[Source](https://iafns.org/event/the-one-you-feed-identifying-specific-interactions-of-dietary-fiber-structures-and-the-microbiota-that-ferment-them/)
 
 ---
 
-## Sodium houttuyfonate attenuates dextran sulfate sodium associated colitis precolonized with Candida albicans through inducing β-glucan exposure.
- 08.03.2021, _K Ma, M Chen, J Liu, Y Ge, T Wang, D Wu, G Yan, C Wang, J Shao_
+## Parasites, niche modification, and the host microbiome: A field survey of multiple parasites.
+ 19.03.2021, _KR O'Keeffe, FW Halliday, CD Jones, I Carbone, CE Mitchell_
 
 
-Inflammatory bowel disease (IBD) including Crohn's disease and ulcerative colitis is a chronic intestinal disease most likely associated with gut dysbiosis. Candida related mycobiota has been demonstrated to play a role in IBD progression. Traditional Chinese herbal medicines (TCHMs) with antifungal activity have a potential in prevention and treatment of fungi-related IBD. Sodium houttuyfonate (SH) is a promising anti-Candida TCHMs. In this study, a dextran sulfate sodium induced colitis model with Candida albicans precolonization is established. SH gavage can significantly decrease the fungal burdens in feces and colon tissues, reduce disease activity index score, elongate colon length, and attenuate colonic damages. Moreover, SH markedly inhibits the levels of anti-Saccharomyces cerevisiae antibodies, β-glucan, and proinflammatory cytokine (IL-1β, IL-6, IL-8, TNF-α), and increases anti-inflammatory factor IL-10 level in serum and colon tissue. Further experiments demonstrate that SH could induce β-glucan exposure, priming intestinal macrophages to get rid of colonized C. albicans through the collaboration of Dectin-1 and TLR2/4. With the decreased fungal burden, the protein levels of Dectin-1, TLR2, TLR4, and NF-κBp65 are fallen back, indicating the primed macrophages calm down and the colitis is alleviated. Collectively, these results manifest that SH can attenuate C. albicans associated colitis via β-glucan exposure, deepening our understanding of TCHMs in the prevention and treatment of fungi associated IBD.
+Parasites can affect and be affected by the host's microbiome, with consequences for host susceptibility, parasite transmission, and host and parasite fitness. Yet, two aspects of the relationship between parasite infection and host microbiota remain little understood: the nature of the relationship under field conditions, and how the relationship varies among parasites. To overcome these limitations, we performed a field survey of the within-leaf fungal community in a tall fescue population. We investigated how diversity and composition of the fungal microbiome associate with natural infection by fungal parasites with different feeding strategies. Parasite feeding strategy affects both parasite requirements of the host environment and parasite impacts on the host environment. We hypothesized that parasites that more strongly modify niches available within a host will be associated with greater changes in microbiome diversity and composition. Parasites with a feeding strategy that creates necrotic tissue to extract resources (necrotrophs) may not only have different niche requirements, but also act as particularly strong niche modifiers. Barcoded amplicon sequencing of the fungal ITS region revealed that leaf segments symptomatic of necrotrophs had lower fungal diversity and distinct composition compared to segments that were asymptomatic or symptomatic of other parasites. There were no clear differences in fungal diversity or composition between leaf segments that were asymptomatic and segments symptomatic of other parasite feeding strategies. Our results motivate future experimental work to test how the relationship between the microbiome and parasite infection is impacted by parasite feeding strategy and highlight the potential importance of parasite traits.
 
-[Source](https://doi.org/10.1016%2Fj.immuni.2019.05.023)
+[Source](https://doi.org/10.1111/mec.15892)
 
-10.1002/JLB.4AB0221-324RRRR
-
----
-
-## Gut mycobiota in immunity and inflammatory disease
-
-[Source](https://doi.org/10.1016%2Fj.immuni.2019.05.023)
+10.1111/mec.15892
 
 ---
 
-## Response to Fungal Dysbiosis by Gut-Resident CX3CR1+ Mononuclear Phagocytes Aggravates Allergic Airway Disease.
- 30.09.2020, _X Li, I Leonardi, A Semon, I Doron, IH Gao, GG Putzel, Y Kim, H Kabata, D Artis, WD Fiers, AE Ramer-Tait, ID Iliev_
+## Large-scale functional network connectivity mediate the associations of gut microbiota with sleep quality and executive functions.
+ 19.03.2021, _H Cai, C Wang, Y Qian, S Zhang, C Zhang, W Zhao, T Zhang, B Zhang, J Chen, S Liu, J Zhu, Y Yu_
 
 
-_Animals, CX3C Chemokine Receptor 1, Dysbiosis, Fungi, Hypersensitivity, Intestines, Mice, Phagocytes_
-Sensing of the gut microbiota, including fungi, regulates mucosal immunity. Whether fungal sensing in the gut can influence immunity at other body sites is unknown. Here we show that fluconazole-induced gut fungal dysbiosis has persistent effects on allergic airway disease in a house dust mite challenge model. Mice with a defined community of bacteria, but lacking intestinal fungi were not susceptible to fluconazole-induced dysbiosis, while colonization with a fungal mixture recapitulated the detrimental effects. Gut-resident mononuclear phagocytes (MNPs) expressing the fractalkine receptor CX3CR1 were essential for the effect of gut fungal dysbiosis on peripheral immunity. Depletion of CX3CR1+ MNPs or selective inhibition of Syk signaling downstream of fungal sensing in these cells ameliorated lung allergy. These results indicate that disruption of intestinal fungal communities can have persistent effects on peripheral immunity and aggravate disease severity through fungal sensing by gut-resident CX3CR1+ MNPs.
+Network neuroscience has broadly conceptualized the functions of the brain as complex communication within and between large-scale neural networks. Nevertheless, whether and how the gut microbiota influence functional network connectivity that in turn impact human behaviors has yet to be determined. We collected fecal samples from 157 healthy young adults and used 16S sequencing to assess gut microbial diversity and enterotypes. Large-scale inter- and intranetwork functional connectivity was measured using a combination of resting-state functional MRI data and independent component analysis. Sleep quality and core executive functions were also evaluated. Then, we tested for potential associations between gut microbiota, functional network connectivity and behaviors. We found significant associations of gut microbial diversity with internetwork functional connectivity between the executive control, default mode and sensorimotor systems, and intranetwork connectivity of the executive control system. Moreover, some internetwork functional connectivity mediated the relations of microbial diversity with sleep quality, working memory, and attention. In addition, there was a significant effect of enterotypes on intranetwork connectivity of the executive control system, which could mediate the link between enterotypes and executive function. Our findings not only may expand existing biological knowledge of the gut microbiota-brain-behavior relationships from the perspective of large-scale functional network organization, but also may ultimately inform a translational conceptualization of how to improve sleep quality and executive functions through the regulation of gut microbiota.
 
-[Source](https://doi.org/10.1016%2Fj.chom.2018.11.003)
+[Source](https://doi.org/10.1002/hbm.25419)
 
-10.1016/j.chom.2018.11.003
-
----
-
-## Response to fungal dysbiosis by gut-resident CX3CR1(+) mononuclear phagocytes aggravates allergic airway disease
-
-[Source](https://doi.org/10.1016%2Fj.chom.2018.11.003)
+10.1002/hbm.25419
 
 ---
 
-## Human anti-fungal Th17 immunity and pathology rely on cross-reactivity against&nbsp;<em>Candida albicans</em>.
-
-[Source](https://doi.org/10.1016%2Fj.cell.2019.01.041)
-
----
-
-## Prevalence and diversity of filamentous fungi in the airways of cystic fibrosis patients – a Dutch, multicentre study
-
-[Source](https://doi.org/10.1016%2Fj.jcf.2018.11.012)
-
----
-
-## Early gut mycobiota and mother-offspring transfer.
- 09.12.2020, _K Schei, E Avershina, T Øien, K Rudi, T Follestad, S Salamati, RA Ødegård_
+## Factors Associated With the Microbiome in Moderate-Late Preterm Babies: A Cohort Study From the DIAMOND Randomized Controlled Trial.
+ 18.03.2021, _CYL Chong, T Vatanen, T Alexander, FH Bloomfield, JM O'Sullivan_
 
 
-_Adult, Breast Feeding, Child, Preschool, Cohort Studies, DNA, Ribosomal Spacer, Debaryomyces, Feces, Female, Fungi, Gastrointestinal Microbiome, Gastrointestinal Tract, Humans, Infant, Infant, Newborn, Male, Mothers, Mycobiome, Pregnancy, Probiotics, Prospective Studies, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Saccharomyces cerevisiae, Time Factors_
-The fungi in the gastrointestinal tract, the gut mycobiota, are now recognised as a significant part of the gut microbiota, and they may be important to human health. In contrast to the adult gut mycobiota, the establishment of the early gut mycobiota has never been described, and there is little knowledge about the fungal transfer from mother to offspring.
+The gut microbiota of preterm infants is affected by perinatal factors and, in turn, may impact upon infant health. In this study, we collected fecal samples at Day-10 (D10) and 4-months corrected-age (4M) from 227 moderate-late preterm (MLPT) babies enrolled in a randomized controlled trial of nutritional management. A total of 320 samples underwent 16S amplicon sequencing, and shotgun metagenomic sequencing was performed on 94 samples from the 4M time point. The microbiome of babies whose families lived in lower socioeconomic status (SES) areas exhibited a significantly higher microbial alpha diversity at D10 (Wilcoxon test, p = 0.021), greater abundance of Bifidobacterium (linear model, q = 0.020) at D10 and Megasphaera (q = 0.031) at 4M. Hospital of birth explained 5.2% of the observed variance in 4M samples (PERMANOVA, p = 0.038), with Staphylococcus aureus more abundant in fecal samples from babies born in Middlemore hospital (linear model, q = 0.016). Maternal antibiotic (Wilcoxon test, p = 0.013) and probiotic (p = 0.04) usage within the four-week period before sample collection was associated with a reduction in the alpha diversity of D10 samples. Infant probiotic intake explained 2.1% (PERMANOVA, p = 0.021) of the variance in the D10 microbial profile with increased Lactobacillus (linear model, q = 1.1 × 10-10) levels. At 4M, the microbiome of infants who were breastmilk fed had reduced alpha diversity when compared to non-breastmilk fed infants (Wilcoxon test, p &lt; 0.05). Although causality cannot be inferred within our study, we conclude that in MLPT babies, maternal socioeconomic factors, as well as the perinatal medical environment and nutrition impact on the development of the newborn microbiome.
 
-[Source](https://doi.org/10.1186%2Fs40168-017-0319-x)
+[Source](https://doi.org/10.3389/fcimb.2021.595323)
 
-10.1186/s40168-017-0319-x
+10.3389/fcimb.2021.595323
 
 ---
 
-## Fungi form interkingdom microbial communities in the primordial human gut that develop with gestational age.
- 31.08.2020, _KA Willis, JH Purvis, ED Myers, MM Aziz, I Karabayir, CK Gomes, BM Peters, O Akbilgic, AJ Talati, JF Pierre_
+## Resident bacteria contribute to opportunistic infections of the respiratory tract.
+ 19.03.2021, _Y Wu, Y Wang, H Yang, Q Li, X Gong, G Zhang, K Zhu_
 
 
-_Female, Fungi, Gastrointestinal Microbiome, Gestational Age, Humans, Infant, Infant, Newborn, Infant, Premature, Male, Microbiota, Mycobiome_
-Fungal and bacterial commensal organisms play a complex role in the health of the human host. Expansion of commensal ecology after birth is a critical period in human immune development. However, the initial fungal colonization of the primordial gut remains undescribed. To investigate primordial fungal ecology, we performed amplicon sequencing and culture-based techniques of first-pass meconium, which forms in the intestine prior to birth, from a prospective observational cohort of term and preterm newborns. Here, we describe fungal ecologies in the primordial gut that develop complexity with advancing gestational age at birth. Our findings suggest homeostasis of fungal commensals may represent an important aspect of human biology present even before birth. Unlike bacterial communities that gradually develop complexity, the domination of the fungal communities of some preterm infants by Saccromycetes, specifically Candida, may suggest a pathologic association with preterm birth.-Willis, K. A., Purvis, J. H., Myers, E. D., Aziz, M. M., Karabayir, I., Gomes, C. K., Peters, B. M., Akbilgic, O., Talati, A. J., Pierre, J. F. Fungi form interkingdom microbial communities in the primordial human gut that develop with gestational age.
+Opportunistic pathogens frequently cause volatile infections in hosts with compromised immune systems or a disrupted normal microbiota. The commensalism of diverse microorganisms contributes to colonization resistance, which prevents the expansion of opportunistic pathogens. Following microbiota disruption, pathogens promptly adapt to altered niches and obtain growth advantages. Nevertheless, whether and how resident bacteria modulate the growth dynamics of invasive pathogens and the eventual outcome of such infections are still unclear. Here, we utilized birds as a model animal and observed a resident bacterium exacerbating the invasion of Avibacterium paragallinarum (previously Haemophilus paragallinarum) in the respiratory tract. We first found that negligibly abundant Staphylococcus chromogenes, rather than Staphylococcus aureus, played a dominant role in Av. paragallinarum-associated infectious coryza in poultry based on epidemic investigations and in vitro analyses. Furthermore, we determined that S. chromogenes not only directly provides the necessary nutrition factor nicotinamide adenine dinucleotide (NAD+) but also accelerates its biosynthesis and release from host cells to promote the survival and growth of Av. paragallinarum. Last, we successfully intervened in Av. paragallinarum-associated infections in animal models using antibiotics that specifically target S. chromogenes. Our findings show that opportunistic pathogens can hijack commensal bacteria to initiate infection and expansion and suggest a new paradigm to ameliorate opportunistic infections by modulating the dynamics of resident bacteria.
 
-[Source](https://doi.org/10.1096%2Ffj.201901436RR)
+[Source](https://doi.org/10.1371/journal.ppat.1009436)
 
-10.1096/fj.201901436RR
-
----
-
-## Investigating Colonization of the Healthy Adult Gastrointestinal Tract by Fungi.
- 12.03.2019, _TA Auchtung, TY Fofanova, CJ Stewart, AK Nash, MC Wong, JR Gesell, JM Auchtung, NJ Ajami, JF Petrosino_
-
-
-_Adult, Candida albicans, DNA, Ribosomal Spacer, Diet, Feces, Food Microbiology, Fungi, Gastrointestinal Tract, Healthy Volunteers, Humans, Mouth, Mycobiome, RNA, Ribosomal, 18S, Saccharomyces cerevisiae, Saliva, Sequence Analysis, DNA_
-A wide diversity of fungi have been detected in the human gastrointestinal (GI) tract with the potential to provide or influence important functions. However, many of the fungi most commonly detected in stool samples are also present in food or the oral cavity. Therefore, to recognize which gut fungi are likely to have a sustained influence on human health, there is a need to separate transient members of the GI tract from true colonizers. To identify colonizing fungi, the eukaryotic rRNA operon's second internal transcribed spacer (ITS2) was sequenced from the stool, saliva, and food of healthy adults following consumption of different controlled diets. Unlike most bacterial 16S rRNA genes, the only fungal ITS2 operational taxonomic units (OTUs) detected in stool DNA across multiple diets were also present in saliva and/or food. Additional analyses, including culture-based approaches and sequencing of the 18S rRNA gene, ITS2 cDNA, and DNA extracted using alternative methods, failed to detect additional fungi. Two abundant fungi, Saccharomyces cerevisiae and Candida albicans, were examined further in healthy volunteers. Saccharomyces became undetectable in stool when a S. cerevisiae-free diet was consumed, and the levels of C. albicans in stool were dramatically reduced by more frequent cleaning of teeth. Extremely low fungal abundance, the inability of fungi to grow under conditions mimicking the distal gut, and evidence from analysis of other public datasets further support the hypothesis that fungi do not routinely colonize the GI tracts of healthy adults. IMPORTANCE We sought to identify the fungi that colonize healthy GI tracts and that have a sustained influence on the diverse functions of the gut microbiome. Instead, we found that all fungi in the stool of healthy volunteers could be explained by their presence in oral and dietary sources and that our results, together with those from other analyses, support the model that there is little or no gastrointestinal colonization by fungi. This may be due to Westernization, primate evolution, fungal ecology, and/or the strong defenses of a healthy immune system. Importantly, fungal colonization of the GI tract may often be indicative of disease. As fungi can cause serious infections in immunocompromised individuals and are found at increased abundance in multiple disorders of the GI tract, understanding normal fungal colonization is essential for proper treatment and prevention of fungal pathogenesis.
-
-[Source](http://doi.org/10.1128/mSphere.00092-18)
-
-10.1128/mSphere.00092-18
+10.1371/journal.ppat.1009436
 
 ---
 
-## Investigating colonization of the healthy adult gastrointestinal tract by fungi
-
-[Source](http://doi.org/10.1128/mSphere.00092-18)
-
----
-
-## mSphere of Influence: the Mycobiota in Human Health and Disease.
- 24.11.2020, _SC Lee_
+## The influence of nasal microbiome diversity and inflammatory patterns on the prognosis of nasal polyps.
+ 19.03.2021, _W Gan, H Zhang, F Yang, S Liu, F Liu, J Meng_
 
 
-_Communicable Diseases, Dysbiosis, Fungi, Humans, Intestines, Mycobiome, Symbiosis_
-Soo Chan Lee works in the field of medical mycology. In this mSphere of Influence article, he reflects on how "Interactions between commensal fungi and the C-type lectin receptor Dectin-1 influence colitis" (Science 336:1314-1317, 2012, https://doi.org/10.1126/science.1221789) by I. D. Iliev, V. A. Funari, K. D. Taylor, Q. Nguyen, et al., "CX3CR1+ mononuclear phagocytes control immunity to intestinal fungi" (Science 359:232-236, 2018, https://doi.org/10.1126/science.aao1503) by I. Leonardi, X. Li, A. Semon, D. Li, et al., and "The fungal mycobiome promotes pancreatic oncogenesis via activation of MBL" (Nature 574:264-267, 2019, https://doi.org/10.1038/s41586-019-1608-2) by B. Aykut, S. Pushalkar, R. Chen, Q. Li, et al. made an impact on him to study medically important fungi by providing a forum to understand the roles of fungal microbiota or mycobiota in human diseases and health.
+To understand the inflammatory microenvironment and microbiome factors for prognosis of chronic rhinosinusitis with polyps (CRSwNP), we explored the difference in characteristics of the microbiome of the nasal sinuses and inflammatory cytokines between recurrent and non-recurrent groups. We collected nasal secretions and polyp tissue from 77 CRSwNP patients. Then, we extracted microbial DNA from cotton swabs, performed high-throughput sequencing based on 16S rRNA to detect bacterial community composition, and analyzed cytokines such as IL-5, IL-8, IL-17a, IL-17e, IL-18, IL-27 and INF-gamma from polyp tissue using Luminex. The eosinophil and neutrophil cells in the peripheral blood and polyp tissue were counted. Postoperative follow-up of patients with CRSwNP for 1 year was conducted to record the recurrence of nasal polyps and analyze the correlation between the recurrence of nasal polyps and the characteristics of inflammatory cytokines, inflammatory cell count and nasal microbial diversity. After 1 year of follow-up, there were 12 recurrent patients, including 5 males and 7 females. Postoperative recurrence of nasal polyps was not significantly correlated with age, sex, asthma, allergic rhinitis or other allergic diseases in CRSwNP patients. In terms of the total nasal symptom score, the recurrent group was significantly higher than the non-recurrent group. In nasal polyp tissues, eosinophils (40.83/HP) and neutrophils (30.83/HP) in patients with CRSwNP in the recurrent group were significantly higher than those in the non-recurrent group (13.72/HP), and neutrophils (18.5/HP) were also significantly higher in the recurrent group than the non-recurrent group. The expression levels of IFN-, IL-17A, IL-17E and IL-18 were significantly higher in the recurrent group than in the non-recurrent group, and the positive rates were not different. In Southwest China, Enterobacteria and anaerobic bacteria may be correlated with the inflammatory pattern expression of nasal polyps. The neutrophil-mediated inflammatory response plays an important role in patients with CRSwNP in Southwest China and is correlated with nasal polyp recurrence. Recurrence of nasal polyps after endoscopic sinus surgery may be potentially associated with a reduced abundance of protective microorganisms and an increased number of pathogenic microorganisms.
 
-[Source](https://doi.org/10.1126%2Fscience.aao1503)
+[Source](https://doi.org/10.1038/s41598-021-85292-5)
 
-10.1128/mSphere.00974-19
+10.1038/s41598-021-85292-5
 
 ---
 
-## CX3CR1+ mononuclear phagocytes control immunity to intestinal fungi
-
-[Source](https://doi.org/10.1126%2Fscience.aao1503)
-
----
-
-## Commensal&nbsp;<em>Candida albicans</em>&nbsp;positively calibrates systemic Th17 immunological responses
-
-[Source](https://doi.org/10.1016%2Fj.chom.2019.02.004)
-
----
-
-## Macrophages Maintain Epithelium Integrity by Limiting Fungal Product Absorption.
- 17.01.2021, _AS Chikina, F Nadalin, M Maurin, M San-Roman, T Thomas-Bonafos, XV Li, S Lameiras, S Baulande, S Henri, B Malissen, L Lacerda Mariano, J Barbazan, JM Blander, ID Iliev, D Matic Vignjevic, AM Lennon-Duménil_
+## Persistence of the ground beetle (Coleoptera: Carabidae) microbiome to diet manipulation.
+ 19.03.2021, _A Silver, S Perez, M Gee, B Xu, S Garg, K Will, A Gill_
 
 
-The colon is primarily responsible for absorbing fluids. It contains a large number of microorganisms including fungi, which are enriched in its distal segment. The colonic mucosa must therefore tightly regulate fluid influx to control absorption of fungal metabolites, which can be toxic to epithelial cells and lead to barrier dysfunction. How this is achieved remains unknown. Here, we describe a mechanism by which the innate immune system allows rapid quality check of absorbed fluids to avoid intoxication of colonocytes. This mechanism relies on a population of distal colon macrophages that are equipped with "balloon-like" protrusions (BLPs) inserted in the epithelium, which sample absorbed fluids. In the absence of macrophages or BLPs, epithelial cells keep absorbing fluids containing fungal products, leading to their death and subsequent loss of epithelial barrier integrity. These results reveal an unexpected and essential role of macrophages in the maintenance of colon-microbiota interactions in homeostasis. VIDEO ABSTRACT.
+Host-associated microbiomes can play important roles in the ecology and evolution of their insect hosts, but bacterial diversity in many insect groups remains poorly understood. Here we examine the relationship between host environment, host traits, and microbial diversity in three species in the ground beetle family (Coleoptera: Carabidae), a group of roughly 40,000 species that synthesize a wide diversity of defensive compounds. This study used 16S amplicon sequencing to profile three species that are phylogenetically distantly related, trophically distinct, and whose defensive chemical secretions differ: Anisodactylus similis LeConte, 1851, Pterostichus serripes (LeConte, 1875), and Brachinus elongatulus Chaudoir, 1876. Wild-caught beetles were compared to individuals maintained in the lab for two weeks on carnivorous, herbivorous, or starvation diets (n = 3 beetles for each species-diet combination). Metagenomic samples from two highly active tissue types-guts, and pygidial gland secretory cells (which produce defensive compounds)-were processed and sequenced separately from those of the remaining body. Bacterial composition and diversity of these ground beetles were largely resilient to controlled changes to host diet. Different tissues within the same beetle harbor unique microbial communities, and secretory cells in particular were remarkably similar across species. We also found that these three carabid species have patterns of microbial diversity similar to those previously found in carabid beetles. These results provide a baseline for future studies of the role of microbes in the diversification of carabids.
 
-[Source](https://doi.org/10.1016%2Fj.cell.2020.08.048)
+[Source](https://doi.org/10.1371/journal.pone.0241529)
 
-10.1016/j.cell.2020.08.048
+10.1371/journal.pone.0241529
 
 ---
 
-## Macrophages maintain epithelium integrity by limiting fungal product absorption
-
-[Source](https://doi.org/10.1016%2Fj.cell.2020.08.048)
-
----
-
-## Fungal Symbionts Produce Prostaglandin E2 to Promote Their Intestinal Colonization.
- 15.06.2020, _TG Tan, YS Lim, A Tan, R Leong, N Pavelka_
+## Pollinators mediate floral microbial diversity and network under agrochemical disturbance.
+ 19.03.2021, _N Wei, AL Russell, AR Jarrett, TL Ashman_
 
 
-_Animals, Candida albicans, Dinoprostone, Fungi, Host-Pathogen Interactions, Intestinal Mucosa, Macrophages, Mice, Mice, Knockout, Mutation, Phagocytes, Symbiosis, Virulence_
-Candida albicans is a ubiquitous fungal symbiont that resides on diverse human barrier surfaces. Both mammalian and fungal cells can convert arachidonic acid into the lipid mediator, prostaglandin E2 (PGE2), but the physiological significance of fungus-derived PGE2 remains elusive. Here we report that a C. albicans mutant deficient in PGE2 production suffered a loss of competitive fitness in the murine gastrointestinal (GI) tract and that PGE2 supplementation mitigated this fitness defect. Impaired fungal PGE2 production affected neither the in vitro fitness of C. albicans nor hyphal morphogenesis and virulence in either systemic or mucosal infection models. Instead, fungal production of PGE2 was associated with enhanced fungal survival within phagocytes. Consequently, ablation of colonic phagocytes abrogated the intra-GI fitness boost conferred by fungal PGE2. These observations suggest that C. albicans has evolved the capacity to produce PGE2 from arachidonic acid, a host-derived precursor, to promote its own colonization of the host gut. Analogous mechanisms might undergird host-microbe interactions of other symbiont fungi.
+How pollinators mediate microbiome assembly in the anthosphere is a major unresolved question of theoretical and applied importance in the face of anthropogenic disturbance. We addressed this question by linking visitation of diverse pollinator functional groups (bees, wasps, flies, butterflies, beetles, true bugs and other taxa) to the key properties of the floral microbiome (microbial α- and β-diversity and microbial network) under agrochemical disturbance, using a field experiment of bactericide and fungicide treatments on cultivated strawberries that differ in flower abundance. Structural equation modeling was used to link agrochemical disturbance and flower abundance to pollinator visitation to floral microbiome properties. Our results revealed that (1) pollinator visitation influenced the α- and β-diversity and network centrality of the floral microbiome, with different pollinator functional groups affecting different microbiome properties; (2) flower abundance influenced the floral microbiome both directly by governing the source pool of microbes and indirectly by enhancing pollinator visitation; and (3) agrochemical disturbance affected the floral microbiome primarily directly by fungicide, and less so indirectly via pollinator visitation. These findings improve the mechanistic understanding of floral microbiome assembly, and may be generalizable to many other plants that are visited by diverse insect pollinators in natural and managed ecosystems.
 
-[Source](https://doi.org/10.3389%2Ffcimb.2019.00359)
+[Source](https://doi.org/10.1111/mec.15890)
 
-10.3389/fcimb.2019.00359
+10.1111/mec.15890
 
 ---
 
-## Fungal symbionts produce prostaglandin E2 to promote their intestinal colonization.
-
-[Source](https://doi.org/10.3389%2Ffcimb.2019.00359)
-
----
-
-## mSphere of Influence: the Mycobiota in Human Health and Disease.
- 24.11.2020, _SC Lee_
+## Assessment of bacterial and fungal populations in urine from clinically healthy dogs using next-generation sequencing.
+ 19.03.2021, _T Melgarejo, BB Oakley, JA Krumbeck, S Tang, A Krantz, A Linde_
 
 
-_Communicable Diseases, Dysbiosis, Fungi, Humans, Intestines, Mycobiome, Symbiosis_
-Soo Chan Lee works in the field of medical mycology. In this mSphere of Influence article, he reflects on how "Interactions between commensal fungi and the C-type lectin receptor Dectin-1 influence colitis" (Science 336:1314-1317, 2012, https://doi.org/10.1126/science.1221789) by I. D. Iliev, V. A. Funari, K. D. Taylor, Q. Nguyen, et al., "CX3CR1+ mononuclear phagocytes control immunity to intestinal fungi" (Science 359:232-236, 2018, https://doi.org/10.1126/science.aao1503) by I. Leonardi, X. Li, A. Semon, D. Li, et al., and "The fungal mycobiome promotes pancreatic oncogenesis via activation of MBL" (Nature 574:264-267, 2019, https://doi.org/10.1038/s41586-019-1608-2) by B. Aykut, S. Pushalkar, R. Chen, Q. Li, et al. made an impact on him to study medically important fungi by providing a forum to understand the roles of fungal microbiota or mycobiota in human diseases and health.
+Urine from clinically healthy dogs is not sterile. Characterizing microbial diversity and abundance within this population of dogs is important to define normal reference ranges for healthy urine.
 
-[Source](https://doi.org/10.1038%2Fs41586-019-1608-2)
+[Source](https://doi.org/10.1111/jvim.16104)
 
-10.1128/mSphere.00974-19
+10.1111/jvim.16104
 
 ---
 
-## The fungal mycobiome promotes pancreatic oncogenesis via activation of MBL
-
-[Source](https://doi.org/10.1038%2Fs41586-019-1608-2)
-
----
-
-## Gut mycobiome: The probable determinative role of fungi in IBD patients.
- 04.02.2021, _A Beheshti-Maal, S Shahrokh, S Ansari, ES Mirsamadi, A Yadegar, H Mirjalali, MR Zali_
+## Immunosuppressive effect of mesenchymal stem cells on lung and gut CD8+ T cells in lipopolysaccharide-induced acute lung injury in mice.
+ 19.03.2021, _Y Xu, J Zhu, B Feng, F Lin, J Zhou, J Liu, X Shi, X Lu, Q Pan, J Yu, Y Zhang, L Li, H Cao_
 
 
-Inflammatory bowel disease (IBD) is a multi-factorial autoimmune disorder that its causative agents are unknown. The gut microbiota comprises of bacteria, viruses, fungi and protozoa that its role in IBD has remained controversially. Bacteria constitute more than 99% of the gut microbiota composition, and the main core of the gut microbiota is composed from Bacteroidetes and Firmicutes. The gut microbiota plays an important role in training, development and haemostasis of the immune responses during the life. Fungi compose a very small portion of gut microbiota, but play determinative roles in homeostasis of the gut bacterial composition and the mucosal immune responses. An interkingdom correlation between bacteria and fungi has been suggested. For example, the presence of Salmonella enterica serovar Typhimurium reduces the viability and colonisation of C albicans. Alterations in the composition and function of the gut microbiota, which is known as dysbiosis, are a usual event in patients who suffer from IBD. Although the main reason for this alteration is not clear, the interaction between gut bacteria and gut fungi seems to be an important subject in IBD patients. This review covers new findings on the interaction between fungi and bacteria and the role of fungi in the pathophysiology of IBD.
+Acute lung injury (ALI) not only affects pulmonary function but also leads to intestinal dysfunction, which in turn contributes to ALI. Mesenchymal stem cell (MSC) transplantation can be a potential strategy in the treatment of ALI. However, the mechanisms of synergistic regulatory effects by MSCs on the lung and intestine in ALI need more in-depth study.
 
-[Source](https://doi.org/10.1136%2Fgutjnl-2015-310746)
+[Source](https://doi.org/10.1111/cpr.13028)
 
-10.1111/myc.13238
+10.1111/cpr.13028
 
 ---
 
-## Fungal microbiota dysbiosis in IBD
-
-[Source](https://doi.org/10.1136%2Fgutjnl-2015-310746)
-
----
-
-## Malassezia Is Associated with Crohn's Disease and Exacerbates Colitis in Mouse Models.
- 30.09.2020, _JJ Limon, J Tang, D Li, AJ Wolf, KS Michelsen, V Funari, M Gargus, C Nguyen, P Sharma, VI Maymi, ID Iliev, JH Skalski, J Brown, C Landers, J Borneman, J Braun, SR Targan, DPB McGovern, DM Underhill_
+## Aerobiological study of bacterial and fungal community composition in the atmosphere of Mexico City throughout an annual cycle.
+ 19.03.2021, _MDC Calderón-Ezquerro, N Serrano-Silva, C Brunner-Mendoza_
 
 
-_Animals, CARD Signaling Adaptor Proteins, Colitis, Crohn Disease, Cytokines, Disease Models, Animal, Gastrointestinal Tract, Malassezia, Mice_
-Inflammatory bowel disease (IBD) is characterized by alterations in the intestinal microbiota and altered immune responses to gut microbiota. Evidence is accumulating that IBD is influenced by not only commensal bacteria but also commensal fungi. We characterized fungi directly associated with the intestinal mucosa in healthy people and Crohn's disease patients and identified fungi specifically abundant in patients. One of these, the common skin resident fungus Malassezia restricta, is also linked to the presence of an IBD-associated polymorphism in the gene for CARD9, a signaling adaptor important for anti-fungal defense. M. restricta elicits innate inflammatory responses largely through CARD9 and is recognized by Crohn's disease patient anti-fungal antibodies. This yeast elicits strong inflammatory cytokine production from innate cells harboring the IBD-linked polymorphism in CARD9 and exacerbates colitis via CARD9 in mouse models of disease. Collectively, these results suggest that targeting specific commensal fungi may be a therapeutic strategy for IBD.
+The atmosphere as a temporary habitat for airborne microbial communities is a valuable topic to explore, and it is through aerobiological studies that the diversity of biological particles and their release, emission, transport, deposition, and impact are assessed. Specific microorganisms are involved in meteorological processes, and phytosanitary and public health concerns. Airborne microbial composition is related to factors such as geographic region and weather conditions. In this study a metagenomic approach was used to determine the composition of bacterial and fungal communities in the air of two different land-use areas (urban area and semi-rural area), during dry and rainy seasons in Mexico City. Air sampling was carried out with a Hirst-type spore trap, collecting the samples simultaneously in both study areas. Forty-two bioaerosol samples were collected, and the DNA obtained was sequenced using Next-Generation Sequencing. The results indicated that the bacterial communities were represented mainly by the phyla Actinobacteria, Proteobacteria, Firmicutes, Bacteroidetes, Cyanobacteria, and the fungal communities by the phyla Ascomycota followed by Basidiomycota. The evident changes in microbial composition were related more to seasonality than to locality, since both UA and SRA showed a high degree of urbanization, despite some differences in land use. Continuous monitoring of atmospheric bioaerosols is essential to determine the influence of meteorological factors on the composition of the aerial microbiota.
 
-[Source](https://doi.org/10.1016%2Fj.chom.2019.01.007)
+[Source](https://doi.org/10.1016/j.envpol.2021.116858)
 
-10.1016/j.chom.2019.01.007
+10.1016/j.envpol.2021.116858
 
 ---
 
-## Malassezia is associated with Crohn’s disease and exacerbates colitis in mouse models
-
-[Source](https://doi.org/10.1016%2Fj.chom.2019.01.007)
-
----
-
-## S100A8 and S100A9 Are Important for Postnatal Development of Gut Microbiota and Immune System in Mice and Infants.
- 09.12.2020, _M Willers, T Ulas, L Völlger, T Vogl, AS Heinemann, S Pirr, J Pagel, B Fehlhaber, O Halle, J Schöning, S Schreek, U Löber, M Essex, P Hombach, S Graspeuntner, M Basic, A Bleich, K Cloppenborg-Schmidt, S Künzel, D Jonigk, J Rupp, G Hansen, R Förster, JF Baines, C Härtel, JL Schultze, SK Forslund, J Roth, D Viemann_
+## Bio-therapeutics from Human Milk: Prospects and Perspectives.
+ 19.03.2021, _KS Singh, BP Singh, N Rokana, N Singh, J Kaur, A Singh, H Panwar_
 
 
-After birth, the immune system matures via interactions with microbes in the gut. The S100 calcium binding proteins S100A8 and S100A9, and their extracellular complex form, S100A8-A9, are found in high amounts in human breast milk. We studied levels of S100A8-A9 in fecal samples (also called fecal calprotectin) from newborns and during infancy, and their effects on development of the intestinal microbiota and mucosal immune system.
+Human milk is elixir for neonates and is a rich source of nutrients and beneficial microbiota required for infant growth and development. Its benefits prompted research into probing the milk components and their use as prophylactic or therapeutic agents. Culture-independent estimation of milk microbiome and high-resolution identification of milk components provide information, but a holistic purview of these research domains is lacking. Here, we review the current research on bio-therapeutic components of milk and simplified future directions for its efficient usage. Publicly available databases such as Pubmed, Google scholar were searched for keywords such as probiotics and prebiotics related to human milk, microbiome and milk oligosaccharides. This was further manually curated for inclusion and exclusion criteria relevant to human milk and clinical efficacy. The literature was classified into sub-groups and then discussed in detail to facilitate understanding. Although, milk research is still in infancy, but it is clear that human milk has many functions including protection of infants by passive immunization through secreted antibodies, transfer of immune regulators, cytokines and bioactive peptides. Unbiased estimates show that the human milk carries a complex community of microbiota which serves as the initial inoculum for establishment of infant gut. Our search effectively screened for evidence that shows that milk also harbors many types of prebiotics such as, human milk oligosaccharides which encourage growth of beneficial probiotics. The milk also trains the naive immune system of the infant by supplying immune cells and stimulatory factors, thereby strengthening mucosal and systemic immune system. Our systematic review would improve understanding of human milk and the inherent complexity and diversity of human milk. The interrelated functional role of human milk components especially the oligosaccharides and microbiome has been discussed which plays important role in human health.
 
-[Source](https://doi.org/10.1097%2FMOG.0000000000000479)
+[Source](https://doi.org/10.1111/jam.15078)
 
-10.1053/j.gastro.2020.08.019
+10.1111/jam.15078
 
 ---
 
-## Macrophage interactions with fungi and bacteria in inflammatory bowel disease
-
-[Source](https://doi.org/10.1097%2FMOG.0000000000000479)
-
----
-
-## Fungi participate in the dysbiosis of gut microbiota in patients with primary sclerosing cholangitis
-
-[Source](https://doi.org/10.1136%2Fgutjnl-2018-317791)
-
----
-
-## Contribution of the Intestinal Microbiome and Gut Barrier to Hepatic Disorders.
- 15.11.2020, _DM Chopyk, A Grakoui_
+## Low fermentable oligosaccharides, disaccharides, monosaccharides, and polyols diet compared with traditional dietary advice for diarrhea-predominant irritable bowel syndrome: a parallel-group, randomized controlled trial with analysis of clinical and microbiological factors associated with patient outcomes.
+ 19.03.2021, _Y Zhang, L Feng, X Wang, M Fox, L Luo, L Du, B Chen, X Chen, H He, S Zhu, Z Hu, S Chen, Y Long, Y Zhu, L Xu, Y Deng, B Misselwitz, BM Lang, B Yilmaz, JJ Kim, C Owyang, N Dai_
 
 
-Intestinal barrier dysfunction and dysbiosis contribute to development of diseases in liver and other organs. Physical, immunologic, and microbiologic (bacterial, fungal, archaeal, viral, and protozoal) features of the intestine separate its nearly 100 trillion microbes from the rest of the human body. Failure of any aspect of this barrier can result in translocation of microbes into the blood and sustained inflammatory response that promote liver injury, fibrosis, cirrhosis, and oncogenic transformation. Alterations in intestinal microbial populations or their functions can also affect health. We review the mechanisms that regulate intestinal permeability and how changes in the intestinal microbiome contribute to development of acute and chronic liver diseases. We discuss individual components of the intestinal barrier and how these are disrupted during development of different liver diseases. Learning more about these processes will increase our understanding of the interactions among the liver, intestine, and its flora.
+The efficacy and factors associated with patient outcomes for a diet low in fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (LFD) compared with traditional dietary advice (TDA) based on modified National Institute for Clinical Excellence guidelines for irritable bowel syndrome with diarrhea (IBS-D) in regions consuming a non-Western diet are unclear.
 
-[Source](https://doi.org/10.1172%2FJCI90562)
+[Source](https://doi.org/10.1093/ajcn/nqab005)
 
-10.1053/j.gastro.2020.04.077
+10.1093/ajcn/nqab005
 
 ---
 
-## Intestinal fungi contribute to development of alcoholic liver disease
-
-[Source](https://doi.org/10.1172%2FJCI90562)
-
----
-
-## The gut mycobiome of healthy mice is shaped by the environment and correlates with metabolic outcomes in response to diet.
- 10.03.2021, _TS Mims, QA Abdallah, JD Stewart, SP Watts, CT White, TV Rousselle, A Gosain, A Bajwa, JC Han, KA Willis, JF Pierre_
+## Synergistic Protective Effects of Different Dietary Supplements Against Type 2 Diabetes via Regulating Gut Microbiota.
+ 19.03.2021, _L Yu, X Zhou, H Duan, Y Chen, S Cui, R Guo, Y Xue, F Tian, J Zhao, H Zhang, Q Zhai, W Chen_
 
 
-As an active interface between the host and their diet, the gut microbiota influences host metabolic adaptation; however, the contributions of fungi have been overlooked. Here, we investigate whether variations in gut mycobiome abundance and composition correlate with key features of host metabolism. We obtained animals from four commercial sources in parallel to test if differing starting mycobiomes can shape host adaptation in response to processed diets. We show that the gut mycobiome of healthy mice is shaped by the environment, including diet, and significantly correlates with metabolic outcomes. We demonstrate that exposure to processed diet leads to persistent differences in fungal communities that significantly associate with differential deposition of body mass in male mice compared to mice fed standardized diet. Fat deposition in the liver, transcriptional adaptation of metabolically active tissues and serum metabolic biomarker levels are linked with alterations in fungal community diversity and composition. Specifically, variation in fungi from the genera Thermomyces and Saccharomyces most strongly associate with metabolic disturbance and weight gain. These data suggest that host-microbe metabolic interactions may be influenced by variability in the mycobiome. This work highlights the potential significance of the gut mycobiome in health and has implications for human and experimental metabolic studies.
+Diabetes mellitus is a global health problem, and its prevalence continues to increase. Dietary supplements, including probiotics, prebiotics, and plant extracts, have been shown to alleviate diabetes. In this study, the synergistic effects of two types of dietary supplements were investigated in a mouse model of type 2 diabetes mellitus (T2DM). Sixty mice were divided into the following six groups: control, model (induced by a high-fat diet and intraperitoneal injection of streptozotocin), drug (metformin), probiotic (Lactobacillus spp.), formula A (probiotics, plant extracts, and soybean peptide), and formula B (probiotics, prebiotics, and soybean peptide). All three dietary interventions (probiotic, formula A, and formula B groups) significantly reduced the blood glucose level and oral glucose tolerance level and effectively improved some biochemical parameters (e.g., chronic inflammation, oxidative stress, and blood lipid level) and regulated gut microbiota. Notably, formula B exhibited a better ability on reducing the blood glucose level, regulating the gut microbiota, and increasing the short-chain fatty acid levels compared with the probiotics alone and formula A. Thus, formula B may exert synergistic protective effects against T2DM through a mechanism involving probiotics and prebiotics of gut microbiota regulation. This study provides a theoretical basis for the application of probiotic dietary supplements to the treatment of T2DM.
 
-[Source](https://doi.org/10.1038/s42003-021-01820-z)
+[Source](https://doi.org/10.1089/jmf.2020.4759)
 
-10.1038/s42003-021-01820-z
+10.1089/jmf.2020.4759
 
 ---
 
-## Profound mycobiome differences between segregated mouse colonies do not influence Th17 responses to a newly introduced gut fungal commensal
-
-[Source](https://doi.org/10.1016%2Fj.fgb.2019.03.001)
-
----
-
-## Season, age, and sex affect the fecal mycobiota of free-ranging Tibetan macaques (Macaca thibetana).
- 19.09.2019, _B Sun, Z Gu, X Wang, MA Huffman, PA Garber, LK Sheeran, D Zhang, Y Zhu, DP Xia, JH Li_
+## Characterization of antibacterial activity of a N-acetylmuramoyl-L-alanine amidase produced by Latilactobacillus sakei isolated from salami.
+ 19.03.2021, _A Lopez-Arvizu, D Rocha-Mendoza, E Ponce-Alquicira, I García-Cano_
 
 
-_Age Factors, Animals, China, Feces, Female, Fungi, Gastrointestinal Microbiome, Macaca, Male, Seasons, Sex Factors_
-Recent studies highlight that the gut mycobiota play essential roles in mammalian metabolic and immune systems, but to date we lack information on the forces that naturally shape the gut mycobiota of wild primates. To investigate the contributions of host and environmental factors in the taxonomic variation of the gut mycobiota, we examined the effects of age, sex, and season on the fecal mycobiota in wild-living Tibetan macaques (Macaca thibetana). Using next generation sequencing and a longitudinal set of fecal samples collected over 1 year, we identified a set of core fungal taxa present in the Tibetan macaque's fecal samples. The predominant genera Aspergillus and Penicillium, which promote the digestion of cellulose and hemicellulose in herbivorous mammals, were detected in this study. Similar to humans, we found age and sex effects on the macaques' fecal mycobiota. We also found that both fecal fungal composition and diversity (alpha and beta diversity) varied significantly by season. In particular, the Penicillium enriched mycobiota in summer samples may aid in the digestion of cellulose and hemicellulose present in mature leaves. The high alpha diversity detected in Tibetan macaques' winter fecal samples may facilitate a diet rich in fiber ingested during this season. We propose that the gut mycobiota play an important role in the macaques' ability to adapt to seasonal fluctuations in food availability and nutrient content.
+Lactic acid bacteria are the predominant group within meat products, whose metabolites such as bacteriocins and peptidoglycan hydrolases inhibit pathogenic or spoilage bacteria. Fermented meat products, as a salami, is a good source to analyze the viable microbiota, due to these products present a low risk to consumer health. The aim of this work was to identify the lactic acid bacteria with broad antibacterial activity present in salami, purify the protein responsible for this activity, achieve antagonistic spectrum and perform the biochemical characterization. Five strains from salami were selected, isolated and identified by 16S rRNA gene sequencing. The antimicrobial activity was evaluated by antagonism assay and zymography, using spoilage microorganisms commonly found in meat products. The strain that showed a broad antibacterial activity was Latilactobacillus sakei and the antibacterial activity was given by a protein with 75-kDa of molecular mass, identified by LC/MALDI-TOF/TOF. The sequence analysis showed 67% of identity with a N-acetylmuramoyl-L-alanine amidase protein with five non-identical LysM domains. The purified protein showed an optimal pH of 8.0 and heat resistance at 80 °C for 10 min. L. sakei strain displayed antibacterial activity against Gram-negative and Gram-positive spoilage microorganisms. The results of this study provide the information to use Latilactobacillus sakei as a starter culture which will provide the necessary metabolites to combat undesirable microorganisms. Additionally, the conditions and properties for the best application and use of the antibacterial protein produced by this strain. This protein may have a potential use in the food industry as a new antibacterial agent.
 
-[Source](https://doi.org/10.1002%2Fajp.22880)
+[Source](https://doi.org/10.1007/s11274-021-03033-2)
 
-10.1002/ajp.22880
+10.1007/s11274-021-03033-2
 
 ---
 
-## Altered Immunity of Laboratory Mice in the Natural Environment Is Associated with Fungal Colonization.
- 21.02.2021, _F Yeung, YH Chen, JD Lin, JM Leung, C McCauley, JC Devlin, C Hansen, A Cronkite, Z Stephens, C Drake-Dunn, Y Fulmer, B Shopsin, KV Ruggles, JL Round, P Loke, AL Graham, K Cadwell_
+## Administration of β-lactam antibiotics and delivery method correlate with intestinal abundances of Bifidobacteria and Bacteroides in early infancy, in Japan.
+ 19.03.2021, _N Imoto, C Kano, Y Aoyagi, H Morita, F Amanuma, H Maruyama, S Nojiri, N Hashiguchi, S Watanabe_
 
 
-_Animals, Autophagy-Related Proteins, CD8-Positive T-Lymphocytes, Environment, Feces, Female, Fungi, Gastrointestinal Microbiome, Granulocytes, Immune System, Intestines, Lymphocytes, Male, Mice, Mice, Inbred C57BL, Mice, Knockout, Mycobiome, Nod2 Signaling Adaptor Protein_
-Free-living mammals, such as humans and wild mice, display heightened immune activation compared with artificially maintained laboratory mice. These differences are partially attributed to microbial exposure as laboratory mice infected with pathogens exhibit immune profiles more closely resembling that of free-living animals. Here, we examine how colonization by microorganisms within the natural environment contributes to immune system maturation by releasing inbred laboratory mice into an outdoor enclosure. In addition to enhancing differentiation of T cell populations previously associated with pathogen exposure, outdoor release increased circulating granulocytes. However, these "rewilded" mice were not infected by pathogens previously implicated in immune activation. Rather, immune system changes were associated with altered microbiota composition with notable increases in intestinal fungi. Fungi isolated from rewilded mice were sufficient in increasing circulating granulocytes. These findings establish a model to investigate how the natural environment impacts immune development and show that sustained fungal exposure impacts granulocyte numbers.
+The intestinal microbiome changes dynamically in early infancy. Colonisation by Bifidobacterium and Bacteroides and development of intestinal immunity is interconnected. We performed a prospective observational cohort study to determine the influence of antibiotics taken by the mother immediately before delivery on the intestinal microbiome of 130 healthy Japanese infants. Faecal samples (383) were collected at 1, 3, and 6 months and analysed using next-generation sequencing. Cefazolin was administered before caesarean sections, whereas ampicillin was administered in cases with premature rupture of the membranes and in Group B Streptococcus-positive cases. Bifidobacterium and Bacteroides were dominant (60-70% mean combined occupancy) at all ages. A low abundance of Bifidobacterium was observed in infants exposed to antibiotics at delivery and at 1 and 3 months, with no difference between delivery methods. A lower abundance of Bacteroides was observed after caesarean section than vaginal delivery, irrespective of antibiotic exposure. Additionally, occupancy by Bifidobacterium at 1 and 3 months and by Bacteroides at 3 months differed between infants with and without siblings. All these differences disappeared at 6 months. Infants exposed to intrapartum antibiotics displayed altered Bifidobacterium abundance, whereas abundance of Bacteroides was largely associated with the delivery method. Existence of siblings also significantly influenced the microbiota composition of infants.
 
-[Source](https://doi.org/10.1016%2Fj.chom.2020.02.015)
+[Source](https://doi.org/10.1038/s41598-021-85670-z)
 
-10.1016/j.chom.2020.02.015
-
----
-
-## Altered immunity of laboratory mice in the natural environment is associated with fungal colonization
-
-[Source](https://doi.org/10.1016%2Fj.chom.2020.02.015)
+10.1038/s41598-021-85670-z
 
 ---
 
-## The fungal frontier: a comparative analysis of methods used in the study of the human gut mycobiome
-
-[Source](https://doi.org/10.3389%2Ffmicb.2017.01432)
-
----
-
-## MetaEuk-sensitive, high-throughput gene discovery, and annotation for large-scale eukaryotic metagenomics.
- 08.01.2021, _E Levy Karin, M Mirdita, J Söding_
+## Lactobacillus acidophilus LA5 improves saturated fat-induced obesity mouse model through the enhanced intestinal Akkermansia muciniphila.
+ 19.03.2021, _T Ondee, K Pongpirul, P Visitchanakun, W Saisorn, S Kanacharoen, L Wongsaroj, C Kullapanich, N Ngamwongsatit, S Settachaimongkon, N Somboonna, A Leelahavanichkul_
 
 
-_Algorithms, Computational Biology, Databases, Genetic, Eukaryota, High-Throughput Screening Assays, Metagenome, Metagenomics, Microbiota, Molecular Sequence Annotation, Sequence Analysis, DNA_
-Metagenomics is revolutionizing the study of microorganisms and their involvement in biological, biomedical, and geochemical processes, allowing us to investigate by direct sequencing a tremendous diversity of organisms without the need for prior cultivation. Unicellular eukaryotes play essential roles in most microbial communities as chief predators, decomposers, phototrophs, bacterial hosts, symbionts, and parasites to plants and animals. Investigating their roles is therefore of great interest to ecology, biotechnology, human health, and evolution. However, the generally lower sequencing coverage, their more complex gene and genome architectures, and a lack of eukaryote-specific experimental and computational procedures have kept them on the sidelines of metagenomics.
+Obesity, a major healthcare problem worldwide, induces metabolic endotoxemia through the gut translocation of lipopolysaccharides (LPS), a major cell wall component of Gram-negative bacteria, causing a chronic inflammatory state. A combination of several probiotics including Lactobacillus acidophilus 5 (LA5), a potent lactic acid-producing bacterium, has previously been shown to attenuate obesity. However, data on the correlation between a single administration of LA5 versus microbiota alteration might be helpful for the probiotic adjustment. LA5 was administered daily together with a high-fat diet (HFD) for 8 weeks in mice. Furthermore, the condition media of LA5 was also tested in a hepatocyte cell-line (HepG2 cells). Accordingly, LA5 attenuated obesity in mice as demonstrated by weight reduction, regional fat accumulation, lipidemia, liver injury (liver weight, lipid compositions, and liver enzyme), gut permeability defect, endotoxemia, and serum cytokines. Unsurprisingly, LA5 improved these parameters and acidified fecal pH leads to the attenuation of fecal dysbiosis. The fecal microbiome analysis in obese mice with or without LA5 indicated; (i) decreased Bacteroidetes (Gram-negative anaerobes that predominate in non-healthy conditions), (ii) reduced total fecal Gram-negative bacterial burdens (the sources of gut LPS), (iii) enhanced Firmicutes (Gram-positive bacteria with potential benefits) and (iv) increased Verrucomycobia, especially Akkermansia muciniphila, a bacterium with the anti-obesity property. With LA5 administration, A. muciniphila in the colon were more than 2,000 folds higher than the regular diet mice as determined by 16S rRNA. Besides, LA5 produced anti-inflammatory molecules with a similar molecular weight to LPS that reduced cytokine production in LPS-activated HepG2 cells. In conclusion, LA5 attenuated obesity through (i) gut dysbiosis attenuation, partly through the promotion of A. muciniphila (probiotics with the difficulty in preparation processes), (ii) reduced endotoxemia, and (iii) possibly decreased liver injury by producing the anti-inflammatory molecules.
 
-[Source](https://doi.org/10.1186/s40168-020-00808-x)
+[Source](https://doi.org/10.1038/s41598-021-85449-2)
 
-10.1186/s40168-020-00808-x
+10.1038/s41598-021-85449-2
 
 ---
 
-## Accurate and sensitive detection of microbial eukaryotes from whole metagenome shotgun sequencing.
- 16.03.2021, _AL Lind, KS Pollard_
+## Linking Plant Secondary Metabolites and Plant Microbiomes: A Review.
+ 19.03.2021, _Z Pang, J Chen, T Wang, C Gao, Z Li, L Guo, J Xu, Y Cheng_
 
 
-_Animals, Eukaryota, Humans, Metagenome, Metagenomics, Sequence Analysis, DNA_
-Microbial eukaryotes are found alongside bacteria and archaea in natural microbial systems, including host-associated microbiomes. While microbial eukaryotes are critical to these communities, they are challenging to study with shotgun sequencing techniques and are therefore often excluded.
+Plant secondary metabolites (PSMs) play many roles including defense against pathogens, pests, and herbivores; response to environmental stresses, and mediating organismal interactions. Similarly, plant microbiomes participate in many of the above-mentioned processes directly or indirectly by regulating plant metabolism. Studies have shown that plants can influence their microbiome by secreting various metabolites and, in turn, the microbiome may also impact the metabolome of the host plant. However, not much is known about the communications between the interacting partners to impact their phenotypic changes. In this article, we review the patterns and potential underlying mechanisms of interactions between PSMs and plant microbiomes. We describe the recent developments in analytical approaches and methods in this field. The applications of these new methods and approaches have increased our understanding of the relationships between PSMs and plant microbiomes. Though the current studies have primarily focused on model organisms, the methods and results obtained so far should help future studies of agriculturally important plants and facilitate the development of methods to manipulate PSMs-microbiome interactions with predictive outcomes for sustainable crop productions.
 
-[Source](https://doi.org/10.1186/s40168-021-01015-y)
+[Source](https://doi.org/10.3389/fpls.2021.621276)
 
-10.1186/s40168-021-01015-y
+10.3389/fpls.2021.621276
 
 ---
 
-## Tiara: Deep learning-based classification system for eukaryotic sequences
+## Applications of Machine Learning in Human Microbiome Studies: A Review on Feature Selection, Biomarker Identification, Disease Prediction and Treatment.
+ 19.03.2021, _LJ Marcos-Zambrano, K Karaduzovic-Hadziabdic, T Loncar Turukalo, P Przymus, V Trajkovik, O Aasmets, M Berland, A Gruca, J Hasic, K Hron, T Klammsteiner, M Kolev, L Lahti, MB Lopes, V Moreno, I Naskinova, E Org, I Paciência, G Papoutsoglou, R Shigdel, B Stres, B Vilne, M Yousef, E Zdravevski, I Tsamardinos, E Carrillo de Santa Pau, MJ Claesson, I Moreno-Indias, J Truu_
 
-[Source](Deep learning-based classification system for eukaryotic sequences)
+
+The number of microbiome-related studies has notably increased the availability of data on human microbiome composition and function. These studies provide the essential material to deeply explore host-microbiome associations and their relation to the development and progression of various complex diseases. Improved data-analytical tools are needed to exploit all information from these biological datasets, taking into account the peculiarities of microbiome data, i.e., compositional, heterogeneous and sparse nature of these datasets. The possibility of predicting host-phenotypes based on taxonomy-informed feature selection to establish an association between microbiome and predict disease states is beneficial for personalized medicine. In this regard, machine learning (ML) provides new insights into the development of models that can be used to predict outputs, such as classification and prediction in microbiology, infer host phenotypes to predict diseases and use microbial communities to stratify patients by their characterization of state-specific microbial signatures. Here we review the state-of-the-art ML methods and respective software applied in human microbiome studies, performed as part of the COST Action ML4Microbiome activities. This scoping review focuses on the application of ML in microbiome studies related to association and clinical use for diagnostics, prognostics, and therapeutics. Although the data presented here is more related to the bacterial community, many algorithms could be applied in general, regardless of the feature type. This literature and software review covering this broad topic is aligned with the scoping review methodology. The manual identification of data sources has been complemented with: (1) automated publication search through digital libraries of the three major publishers using natural language processing (NLP) Toolkit, and (2) an automated identification of relevant software repositories on GitHub and ranking of the related research papers relying on learning to rank approach.
+
+[Source](https://doi.org/10.3389/fmicb.2021.634511)
+
+10.3389/fmicb.2021.634511
 
 ---
 
