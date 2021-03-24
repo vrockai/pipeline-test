@@ -1,60 +1,78 @@
-## Hybrid assembly of an agricultural slurry virome reveals a diverse and stable community with the potential to alter the metabolism and virulence of veterinary pathogens
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01010-3)
-
----
-
-## Protists as main indicators and determinants of plant performance.
- 21.03.2021, _S Guo, W Xiong, X Hang, Z Gao, Z Jiao, H Liu, Y Mo, N Zhang, GA Kowalchuk, R Li, Q Shen, S Geisen_
+## Targeting the Gut Microbiome to Mitigate Immunotherapy-Induced Colitis in Cancer.
+ 20.03.2021, _AE Chang, JL Golob, TM Schmidt, DC Peltier, CD Lao, M Tewari_
 
 
-Microbiomes play vital roles in plant health and performance, and the development of plant beneficial microbiomes can be steered by organic fertilizer inputs. Especially well-studied are fertilizer-induced changes on bacteria and fungi and how changes in these groups alter plant performance. However, impacts on protist communities, including their trophic interactions within the microbiome and consequences on plant performance remain largely unknown. Here, we tracked the entire microbiome, including bacteria, fungi, and protists, over six growing seasons of cucumber under different fertilization regimes (conventional, organic, and Trichoderma bio-organic fertilization) and linked microbial data to plant yield to identify plant growth-promoting microbes.
+Immune checkpoint inhibitors (ICIs) have been a transformational advance in cancer therapy in the past decade. However, ICIs can produce immune-related adverse effects (irAEs), which can lead to both morbidity and premature termination of therapy. Recent studies suggest that the gut microbiota and its metabolites affect ICI efficacy and toxicity. Herein, we review such evidence in the context of ICI-induced colitis. In particular, the short-chain fatty acid butyrate, a microbial metabolite, has known protective effects on the intestine. We discuss how the use of dietary prebiotics, which can be metabolized by bacteria to produce butyrate, can be an intriguing new investigational approach to prevent ICI-associated colitis and lead to improved patient outcomes.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01025-w)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S2405803321000601)
 
-10.1186/s40168-021-01025-w
+10.1016/j.trecan.2021.02.005
 
 ---
 
-## Pre-Cambrian roots of novel Antarctic cryptoendolithic bacterial lineages.
- 23.03.2021, _D Albanese, C Coleine, O Rota-Stabelli, S Onofri, SG Tringe, JE Stajich, L Selbmann, C Donati_
+## Direct impact of commonly used dietary emulsifiers on human gut microbiota.
+ 23.03.2021, _S Naimi, E Viennois, AT Gewirtz, B Chassaing_
 
 
-Cryptoendolithic communities are microbial ecosystems dwelling inside porous rocks that are able to persist at the edge of the biological potential for life in the ice-free areas of the Antarctic desert. These regions include the McMurdo Dry Valleys, often accounted as the closest terrestrial counterpart of the Martian environment and thought to be devoid of life until the discovery of these cryptic life-forms. Despite their interest as a model for the early colonization by living organisms of terrestrial ecosystems and for adaptation to extreme conditions of stress, little is known about the evolution, diversity, and genetic makeup of bacterial species that reside in these environments. Using the Illumina Novaseq platform, we generated the first metagenomes from rocks collected in Continental Antarctica over a distance of about 350 km along an altitudinal transect from 834 up to 3100 m above sea level (a.s.l.).
+Epidemiologic evidence and animal studies implicate dietary emulsifiers in contributing to the increased prevalence of diseases associated with intestinal inflammation, including inflammatory bowel diseases and metabolic syndrome. Two synthetic emulsifiers in particular, carboxymethylcellulose and polysorbate 80, profoundly impact intestinal microbiota in a manner that promotes gut inflammation and associated disease states. In contrast, the extent to which other food additives with emulsifying properties might impact intestinal microbiota composition and function is not yet known.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01021-0)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00996-6)
 
-10.1186/s40168-021-01021-0
-
----
-
-## Xylitol enhances synthesis of propionate in the colon via cross-feeding of gut microbiota.
- 23.03.2021, _S Xiang, K Ye, M Li, J Ying, H Wang, J Han, L Shi, J Xiao, Y Shen, X Feng, X Bao, Y Zheng, Y Ge, Y Zhang, C Liu, J Chen, Y Chen, S Tian, X Zhu_
-
-
-Xylitol, a white or transparent polyol or sugar alcohol, is digestible by colonic microorganisms and promotes the proliferation of beneficial bacteria and the production of short-chain fatty acids (SCFAs), but the mechanism underlying these effects remains unknown. We studied mice fed with 0%, 2% (2.17 g/kg/day), or 5% (5.42 g/kg/day) (weight/weight) xylitol in their chow for 3 months. In addition to the in vivo digestion experiments in mice, 3% (weight/volume) (0.27 g/kg/day for a human being) xylitol was added to a colon simulation system (CDMN) for 7 days. We performed 16S rRNA sequencing, beneficial metabolism biomarker quantification, metabolome, and metatranscriptome analyses to investigate the prebiotic mechanism of xylitol. The representative bacteria related to xylitol digestion were selected for single cultivation and co-culture of two and three bacteria to explore the microbial digestion and utilization of xylitol in media with glucose, xylitol, mixed carbon sources, or no-carbon sources. Besides, the mechanisms underlying the shift in the microbial composition and SCFAs were explored in molecular contexts.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01029-6)
-
-10.1186/s40168-021-01029-6
+10.1186/s40168-020-00996-6
 
 ---
 
-## Associations between habitual diet, metabolic disease, and the gut microbiota using latent Dirichlet allocation.
- 23.03.2021, _TA Breuninger, N Wawro, J Breuninger, S Reitmeier, T Clavel, J Six-Merker, G Pestoni, S Rohrmann, W Rathmann, A Peters, H Grallert, C Meisinger, D Haller, J Linseisen_
+## Establishing causality in Salmonella-microbiota-host interaction: The use of gnotobiotic mouse models and synthetic microbial communities.
+ 23.03.2021, _B Stecher_
 
 
-The gut microbiome impacts human health through various mechanisms and is involved in the development of a range of non-communicable diseases. Diet is a well-known factor influencing microbe-host interaction in health and disease. However, very few findings are based on large-scale analysis using population-based studies. Our aim was to investigate the cross-sectional relationship between habitual dietary intake and gut microbiota structure in the Cooperative Health Research in the Region of Augsburg (KORA) FF4 study.
+Colonization resistance (CR), the ability to block infections by potentially harmful microbes, is a fundamental function of host-associated microbial communities and highly conserved between animals and humans. Environmental factors such as antibiotics and diet can disturb microbial community composition and thereby predispose to opportunistic infections. The most prominent is Clostridioides difficile, the causative agent of diarrhea and pseudomembranous colitis. In addition, the risk to succumb to infections with genuine human enteric pathogens like nontyphoidal Salmonella (NTS) is also increased by a low-diverse, diet or antibiotic-disrupted microbiota. Despite extensive microbial community profiling efforts, only a limited set of microorganisms have been causally linked with protection against enteric pathogens. Furthermore, it remains a challenge to predict colonization resistance from complex microbiome signatures due to context-dependent action of microorganisms. In the past decade, the study of NTS infection has led to the description of several fundamental principles of microbiota-host-pathogen interaction. In this review, I will give an overview on the current state of knowledge in this field and outline experimental approaches to gain functional insight to the role of specific microbes, functions and metabolites in Salmonella-microbiota-host interaction. In particular, I will highlight the value of mouse infection models, which, in combination with culture collections, synthetic communities and gnotobiotic models have become essential tools to screen for protective members of the microbiota and establishing causal relationship and mechanisms in infection research.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00969-9)
+[Source](https://www.sciencedirect.com/science/article/pii/S1438422121000138)
 
-10.1186/s40168-020-00969-9
+10.1016/j.ijmm.2021.151484
 
 ---
 
-## Maternal gut microbiota reflecting poor diet quality is associated with spontaneous preterm birth in a prospective cohort study
+## Gut microbiota dysbiosis promotes age-related atrial fibrillation by lipopolysaccharide and glucose-induced activation of NLRP3-inflammasome.
+ 23.03.2021, _Y Zhang, S Zhang, B Li, Y Luo, Y Gong, X Jin, J Zhang, Y Zhou, X Zhuo, Z Wang, X Zhao, X Han, Y Gao, H Yu, D Liang, S Zhao, D Sun, D Wang, W Xu, G Qu, W Bo, D Li, Y Wu, Y Li_
 
-[Source](https://pubmed.ncbi.nlm.nih.gov/33515003/)
+
+Aging is the most significant contributor to the increasing prevalence of atrial fibrillation (AF). The gut microbiota dysbiosis is involved in age-related diseases. However, whether the aged-associated dysbiosis contributes to age-related AF is still unknown. Direct demonstration that the aged gut microbiota is sufficient to transmit the enhanced AF susceptibility in a young host via microbiota-intestinal barrier-atria axis has not yet been reported. This study aimed to determine whether gut microbiota dysbiosis affects age-related AF.
+
+[Source](https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvab114/6184135)
+
+10.1093/cvr/cvab114
+
+---
+
+## Composition and structure of the skin microbiota of rorquals off the Eastern South Pacific.
+ 22.03.2021, _F Toro, J Alarcón, S Márquez, J Capella, P Bahamonde, F Esperón, A Moreno-Switt, E Castro-Nallar_
+
+
+Recent advances in high-throughput sequencing have enabled the large-scale interrogation of microbiota in the most diverse environments, including host-associated microbiota. This has led to the recognition that the skin microbiota of rorquals is specific and structurally different from that of the ocean. This study reveals the skin microbiome of 85 wild individuals along the Chilean coast belonging to Megaptera novaeangliae, Balaenoptera musculus, and Balaenoptera physalus. Alpha diversity analysis revealed significant differences in richness and phylogenetic diversity, particularly among humpback whales from different locations and between blue and humpback whales. Beta diversity was partially explained by host and location but only accounting for up to 17% of microbiota variability (adjusted VPA). Overall, we found that microbiota composition was dominated by bacterial genera such as Cardiobacter, Moraxella, Tenacibaculum, Stenotrophomonas, Flavobacteria, and Pseudomonas. We also found that no ASVs were associated with the three rorqual species. Up to 4 ASVs were specific of a location, indicating a great variability in the microbiota. To the best of our knowledge, this is the first report on the composition and structure of the skin microbiota of whales off the coast of Chile, providing a foundational dataset to understand the microbiota's role in rorquals.
+
+[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiab050/6179854)
+
+10.1093/femsec/fiab050
+
+---
+
+## Neural networks and extreme gradient boosting predict multiple thresholds and trajectories of microbial biodiversity responses due to browning
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.22.435765v1.abstract)
+
+---
+
+## Comparative microbial antibiotic resistome between urban and deep forest environments
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.12942)
+
+---
+
+## Genomic characterization of three novel Desulfobacterota classes expand the metabolic and phylogenetic diversity of the Phylum
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.22.436540v1.abstract)
 
 ---
 
