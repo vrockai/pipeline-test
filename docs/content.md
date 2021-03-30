@@ -77,7 +77,7 @@ Host-microbiome interactions are recognized for their importance to host health.
 ---
 
 ## Much ado about nothing? Off-target amplification can lead to false-positive bacterial brain microbiome detection in healthy and Parkinson's disease individuals.
- 27.03.2021, _JR Bedarf, N Beraza, H Khazneh, E Özkurt, D Baker, V Borger, U Wüllner, F Hildebrand_
+ 29.03.2021, _JR Bedarf, N Beraza, H Khazneh, E Özkurt, D Baker, V Borger, U Wüllner, F Hildebrand_
 
 
 Recent studies suggested the existence of (poly-)microbial infections in human brains. These have been described either as putative pathogens linked to the neuro-inflammatory changes seen in Parkinson's disease (PD) and Alzheimer's disease (AD) or as a "brain microbiome" in the context of healthy patients' brain samples.
