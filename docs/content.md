@@ -34,9 +34,15 @@ A dysregulation of cytokine networks has been suggested to be involved in the pa
 
 ---
 
-## Developmental trajectory of the healthy human gut microbiota during the first 5 years of life
+## Developmental trajectory of the healthy human gut microbiota during the first 5 years of life.
+ 01.04.2021, _J Roswall, LM Olsson, P Kovatcheva-Datchary, S Nilsson, V Tremaroli, MC Simon, P Kiilerich, R Akrami, M Krämer, M Uhlén, A Gummesson, K Kristiansen, J Dahlgren, F Bäckhed_
+
+
+The gut is inhabited by a densely populated ecosystem, the gut microbiota, that is established at birth. However, the succession by which different bacteria are incorporated into the gut microbiota is still relatively unknown. Here, we analyze the microbiota from 471 Swedish children followed from birth to 5 years of age, collecting samples after 4 and 12 months and at 3 and 5 years of age as well as from their mothers at birth using 16S rRNA gene profiling. We also compare their microbiota to an adult Swedish population. Genera follow 4 different colonization patterns during establishment where Methanobrevibacter and Christensenellaceae colonize late and do not reached adult levels at 5 years. These late colonizers correlate with increased alpha diversity in both children and adults. By following the children through age-specific community types, we observe that children have individual dynamics in the gut microbiota development trajectory.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00100-1)
+
+10.1016/j.chom.2021.02.021
 
 ---
 
@@ -100,9 +106,15 @@ The molecular circadian clock and symbiotic host-microbe relationships both evol
 
 ---
 
-## Meta-analysis identifies the effect of dietary multi-enzyme supplementation on gut health of pigs
+## Meta-analysis identifies the effect of dietary multi-enzyme supplementation on gut health of pigs.
+ 01.04.2021, _S Ramani, N Recharla, O Hwang, J Jeong, S Park_
+
+
+Gut health though is not well defined the role of gastrointestinal tract is vital if an animal must perform well. Apart from digestion, secretion, and absorption gut is harbored with consortium of microbiota which plays a key role in one's health. Enzymes, one of the alternatives for antibiotics with beneficial effects on digestion and consistency of food and its effect on gut health. The effect of enzyme supplementation on gut health is not well established and the objective of this meta-analysis is to investigate if the enzyme supplement has influence on gut. This meta-analysis includes 1221 experiments which has single enzyme studies and or studies with multiple enzyme complexes but not challenged. The ratio of Lactobacillus and E. coli is related to ADFI which showed comparatively lower negative correlation coefficient, with - 0.052 and - 0.035, respectively, whose I2 values are below 25%, showing that these studies show a significantly lower level of heterogeneity. Correlation between villus height, crypt depth, their ratio and fatty acid is also assessed, and it showed that when the animal is supplemented with two enzyme complexes resulted in positive gut health rather than the single or more than two enzymes.
 
 [Source](https://www.nature.com/articles/s41598-021-86648-7)
+
+10.1038/s41598-021-86648-7
 
 ---
 
