@@ -137,7 +137,7 @@ Freshwater lakes present an ecological border between humans and a variety of ho
 ---
 
 ## Geochemical and metagenomics study of a metal-rich, green-turquoise-coloured stream in the southern Swiss Alps.
- 30.03.2021, _A Buetti-Dinh, M Ruinelli, D Czerski, C Scapozza, A Martignier, S Roman, A Caminada, M Tonolla_
+ 01.04.2021, _A Buetti-Dinh, M Ruinelli, D Czerski, C Scapozza, A Martignier, S Roman, A Caminada, M Tonolla_
 
 
 The Swiss Alpine environments are poorly described from a microbiological perspective. Near the Greina plateau in the Camadra valley in Ticino (southern Swiss Alps), a green-turquoise-coloured water spring streams off the mountain cliffs. Geochemical profiling revealed naturally elevated concentrations of heavy metals such as copper, lithium, zinc and cadmium, which are highly unusual for the geomorphology of the region. Of particular interest, was the presence of a thick biofilm, that was revealed by microscopic analysis to be mainly composed of Cyanobacteria. A metagenome was further assembled to detail the genes found in this environment. A multitude of genes for resistance/tolerance to high heavy metal concentrations were indeed found, such as, various transport systems, and genes involved in the synthesis of extracellular polymeric substances (EPS). EPS have been evoked as a central component in photosynthetic environments rich in heavy metals, for their ability to drive the sequestration of toxic, positively-charged metal ions under high regimes of cyanobacteria-driven photosynthesis. The results of this study provide a geochemical and microbiological description of this unusual environment in the southern Swiss Alps, the role of cyanobacterial photosynthesis in metal resistance, and the potential role of such microbial community in bioremediation of metal-contaminated environments.
@@ -185,7 +185,7 @@ Bacterial microcompartments are organelle-like structures composed entirely of p
 ---
 
 ## Single strain control of microbial consortia.
- 31.03.2021, _AJH Fedorec, BD Karkaria, M Sulu, CP Barnes_
+ 01.04.2021, _AJH Fedorec, BD Karkaria, M Sulu, CP Barnes_
 
 
 The scope of bioengineering is expanding from the creation of single strains to the design of microbial communities, allowing for division-of-labour, specialised sub-populations and interaction with "wild" microbiomes. However, in the absence of stabilising interactions, competition between microbes inevitably leads to the removal of less fit community members over time. Here, we leverage amensalism and competitive exclusion to stabilise a two-strain community by engineering a strain of Escherichia coli which secretes a toxin in response to competition. We show experimentally and mathematically that such a system can produce stable populations with a composition that is tunable by easily controllable parameters. This system creates a tunable, stable two-strain consortia while only requiring the engineering of a single strain.
