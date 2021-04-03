@@ -47,18 +47,6 @@ In this comment, we analyse the conceptual framework proposed by Aguirre de Cár
 
 ---
 
-## From Plants to Ants: Fungal Modification of Leaf Lipids for Nutrition and Communication in the Leaf-Cutter Ant Fungal Garden Ecosystem.
- 24.03.2021, _L Khadempour, JE Kyle, BM Webb-Robertson, CD Nicora, FB Smith, RD Smith, MS Lipton, CR Currie, ES Baker, KE Burnum-Johnson_
-
-
-Lipids are essential to all living organisms, as an energy source, as an important cellular structural component, and as a communication tool. In this study, we used global lipidomic methods to evaluate the lipids in leaf-cutter ant fungal gardens. Leaf-cutter ants and their coevolved fungal cultivar, Leucoagaricus gongylophorus, are a model mutualistic system. The fungus enzymatically digests fresh plant material that the ants cut and deliver, converting energy and nutrients from plants and providing them to the ants through specialized hyphal swellings called gongylidia. Using combined liquid chromatography, ion mobility spectrometry, and tandem mass spectrometry, we evaluated differences between the molecular species of lipids in the leaf-cutter ant fungal garden ecosystem. This lipidomic study characterized leaves that are fed to the gardens, gongylidia that are produced by the fungus to feed the ants, and spatially resolved regions of the fungal garden through stages of leaf degradation. Lipids containing alpha-linolenic acid (18:3) were enriched in leaves and the top of the gardens but not dominant in the middle or bottom regions. Gongylidia were dominated by lipids containing linoleic acid (18:2). To evaluate the communicative potential of the lipids in fungal gardens, we conducted a behavioral experiment that showed Atta leaf-cutter ants responded differently to 18:3 and 18:2 fatty acids, with aggression toward 18:3 and attraction for 18:2. This work demonstrates the role of lipids in both the transfer of energy and as an interkingdom communication tool in leaf-cutter ant fungal gardens.IMPORTANCE In this work, we examined the role of lipids in the mutualism between leaf-cutter ants and fungus. These ants cut fresh leaf material, which they provide to their fungal cultivar, that converts energy and nutrients from the plants and provides it to the ants in specialized hyphal swellings called gongylidia. This work constitutes the first example of a global lipidomics study of a symbiotic system and provides insights as to how the fungus modifies plant lipids into a usable source for the ants. Through a behavioral experiment, this work also demonstrates how lipids can be used as an interkingdom communication tool, in this case, as an attractant rather than as a repellant, which is more often seen.
-
-[Source](https://msystems.asm.org/content/6/2/e01307-20)
-
-10.1128/mSystems.01307-20
-
----
-
 ## From plants to ants: Fungal modification of leaf lipids for nutrition and communication in the leaf-cutter ant fungal garden ecosystem
 
 [Source](https://msystems.asm.org/content/6/2/e01307-20)
@@ -74,18 +62,6 @@ Lipids are essential to all living organisms, as an energy source, as an importa
 ## Metagenomic profile of microbial communities in a drinking water storage tank sediment after sequential exposure to monochloramine, free chlorine, and monochloramine
 
 [Source](https://pubs.acs.org/doi/10.1021/acsestwater.1c00016)
-
----
-
-## A 16S rRNA Gene and Draft Genome Database for the Murine Oral Bacterial Community.
- 21.02.2021, _S Joseph, J Aduse-Opoku, A Hashim, E Hanski, R Streich, SCL Knowles, AB Pedersen, WG Wade, MA Curtis_
-
-
-A curated murine oral microbiome database to be used as a reference for mouse-based studies has been constructed using a combination of bacterial culture, 16S rRNA gene amplicon, and whole-genome sequencing. The database comprises a collection of nearly full-length 16S rRNA gene sequences from cultured isolates and draft genomes from representative taxa collected from a range of sources, including specific-pathogen-free laboratory mice, wild Mus musculusdomesticus mice, and formerly wild wood mouse Apodemus sylvaticus At present, it comprises 103 mouse oral taxa (MOT) spanning four phyla-Firmicutes, Proteobacteria, Actinobacteria, and Bacteroidetes-including 12 novel undescribed species-level taxa. The key observations from this study are (i) the low diversity and predominantly culturable nature of the laboratory mouse oral microbiome and (ii) the identification of three major murine-specific oral bacterial lineages, namely, Streptococcus danieliae (MOT10), Lactobacillus murinus (MOT93), and Gemella species 2 (MOT43), which is one of the novel, still-unnamed taxa. Of these, S. danieliae is of particular interest, since it is a major component of the oral microbiome from all strains of healthy and periodontally diseased laboratory mice, as well as being present in wild mice. It is expected that this well-characterized database should be a useful resource for in vitro experimentation and mouse model studies in the field of oral microbiology.IMPORTANCE Mouse model studies are frequently used in oral microbiome research, particularly to investigate diseases such as periodontitis and caries, as well as other related systemic diseases. We have reported here the details of the development of a curated reference database to characterize the oral microbial community in laboratory and some wild mice. The genomic information and findings reported here can help improve the outcomes and accuracy of host-microbe experimental studies that use murine models to understand health and disease. Work is also under way to make the reference data sets publicly available on a web server to enable easy access and downloading for researchers across the world.
-
-[Source](https://msystems.asm.org/content/6/1/e01222-20)
-
-10.1128/mSystems.01222-20
 
 ---
 
