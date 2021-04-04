@@ -82,6 +82,19 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
+## Immune-checkpoint inhibitors from cancer to COVID‑19: A promising avenue for the treatment of patients with COVID‑19 (Review).
+ 01.03.2021, _S Vivarelli, L Falzone, F Torino, G Scandurra, G Russo, R Bordonaro, F Pappalardo, DA Spandidos, G Raciti, M Libra_
+
+
+_Antineoplastic Agents, COVID-19, Drug Repositioning, Humans, Immune Checkpoint Inhibitors, Neoplasms, SARS-CoV-2_
+The severe acute respiratory syndrome associated coronavirus‑2 (SARS‑CoV‑2) poses a threat to human life worldwide. Since early March, 2020, coronavirus disease 2019 (COVID‑19), characterized by an acute and often severe form of pneumonia, has been declared a pandemic. This has led to a boom in biomedical research studies at all stages of the pipeline, from the in vitro to the clinical phase. In line with this global effort, known drugs, currently used for the treatment of other pathologies, including antivirals, immunomodulating compounds and antibodies, are currently used off‑label for the treatment of COVID‑19, in association with the supportive standard care. Yet, no effective treatments have been identified. A new hope stems from medical oncology and relies on the use of immune‑checkpoint inhibitors (ICIs). In particular, amongst the ICIs, antibodies able to block the programmed death‑1 (PD‑1)/PD ligand-1 (PD‑L1) pathway have revealed a hidden potential. In fact, patients with severe and critical COVID‑19, even prior to the appearance of acute respiratory distress syndrome, exhibit lymphocytopenia and suffer from T‑cell exhaustion, which may lead to viral sepsis and an increased mortality rate. It has been observed that cancer patients, who usually are immunocompromised, may restore their anti‑tumoral immune response when treated with ICIs. Moreover, viral-infected mice and humans, exhibit a T‑cell exhaustion, which is also observed following SARS‑CoV‑2 infection. Importantly, when treated with anti‑PD‑1 and anti‑PD‑L1 antibodies, they restore their T‑cell competence and efficiently counteract the viral infection. Based on these observations, four clinical trials are currently open, to examine the efficacy of anti‑PD‑1 antibody administration to both cancer and non‑cancer individuals affected by COVID‑19. The results may prove the hypothesis that restoring exhausted T‑cells may be a winning strategy to beat SARS‑CoV‑2 infection.
+
+[Source](https://doi.org/10.1177/17588359211000591)
+
+10.3892/ijo.2020.5159
+
+---
+
 ## Associations between dysbiosis-inducing drugs, overall survival and tumor response in patients treated with immune checkpoint inhibitors
 
 [Source](https://doi.org/10.1177/17588359211000591)
