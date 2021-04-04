@@ -88,6 +88,18 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
+## Harnessing data science to advance radiation oncology.
+ 07.10.2020, _IR Vogelius, J Petersen, SM Bentzen_
+
+
+Radiation oncology, a major treatment modality in the care of patients with malignant disease, is a technology- and computer-intensive medical specialty. As such, it should lend itself ideally to data science methods, where computer science, statistics, and clinical knowledge are combined to advance state-of-the-art care. Nevertheless, data science methods in radiation oncology research are still in their infancy and successful applications leading to improved patient care remain scarce. Here, we discuss data interoperability issues within and across organizational boundaries that hamper the introduction of big data and data science techniques in radiation oncology. At the semantic level, creating common underlying models and codification of the data, including the use of data elements with standardized definitions, an ontology, remains a work in progress. Methodological issues in data science and in the use of large population-based health data registries are identified. We show that data science methods and big data cannot replace randomized clinical trials in comparative effectiveness research by reviewing a series of instances where the outcomes of big data analyses and randomized trials are at odds. We also discuss the modern wave of machine learning and artificial intelligence as represented by deep learning and convolutional neural networks. Finally, we identify promising research avenues and remain optimistic that the data sources in radiation oncology can be linked to yield important insights in the near future. We argue that data science will be a valuable complement to, but not a replacement of, the traditional hypothesis-driven translational research chain and the randomized clinical trials that form the backbone of evidence-based medicine.
+
+[Source](https://doi.org/10.3389/fimmu.2021.635935)
+
+10.1002/1878-0261.12685
+
+---
+
 ## The Hygiene Hypothesis – Learning From but Not Living in the Past
 
 [Source](https://doi.org/10.3389/fimmu.2021.635935)
