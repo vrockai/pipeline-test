@@ -1,144 +1,66 @@
-## The Future of Biological Therapies in COPD.
- 10.12.2019, _J Gea_
+## Thousands of previously unknown phages discovered in whole-community human gut metagenomes.
+ 02.04.2021, _S Benler, N Yutin, D Antipov, M Rayko, S Shmakov, AB Gussow, P Pevzner, EV Koonin_
 
 
-_Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity, Asthma, Biological Therapy, Cytokines, Humans, I-kappa B Kinase, Inflammation Mediators, Microbiota, Molecular Targeted Therapy, NF-kappa B, Pulmonary Disease, Chronic Obstructive, Th1 Cells_
+Double-stranded DNA bacteriophages (dsDNA phages) play pivotal roles in structuring human gut microbiomes; yet, the gut virome is far from being fully characterized, and additional groups of phages, including highly abundant ones, continue to be discovered by metagenome mining. A multilevel framework for taxonomic classification of viruses was recently adopted, facilitating the classification of phages into evolutionary informative taxonomic units based on hallmark genes. Together with advanced approaches for sequence assembly and powerful methods of sequence analysis, this revised framework offers the opportunity to discover and classify unknown phage taxa in the human gut.
 
-[Source](https://open.spotify.com/show/2bZCXpQww5XvYHfoT3YtFJ)
+[Source](http://click.springernature.com/f/a/NubvWTsHEMMSYTbw6djWZA~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMTctd1cDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
 
-10.1016/j.arbres.2017.11.004
-
----
-
-## Biomes Podcast
-
-[Source](https://open.spotify.com/show/2bZCXpQww5XvYHfoT3YtFJ)
+10.1186/s40168-021-01017-w
 
 ---
 
-## Microbiome and Metabolome Analyses Reveal Novel Interplay Between the Skin Microbiota and Plasma Metabolites in Psoriasis
+## Elevated rates of horizontal gene transfer in the industrialized human microbiome.
+ 01.04.2021, _M Groussin, M Poyet, A Sistiaga, SM Kearney, K Moniz, M Noel, J Hooker, SM Gibbons, L Segurel, A Froment, RS Mohamed, A Fezeu, VA Juimo, S Lafosse, FE Tabe, C Girard, D Iqaluk, LTT Nguyen, BJ Shapiro, J Lehtimäki, L Ruokolainen, PP Kettunen, T Vatanen, S Sigwazi, A Mabulla, M Domínguez-Rodrigo, YA Nartey, A Agyei-Nkansah, A Duah, YA Awuku, KA Valles, SO Asibey, MY Afihene, LR Roberts, A Plymoth, CA Onyekwere, RE Summons, RJ Xavier, EJ Alm_
 
-[Source](https://doi.org/10.3389/fmicb.2021.643449)
 
----
+Industrialization has impacted the human gut ecosystem, resulting in altered microbiome composition and diversity. Whether bacterial genomes may also adapt to the industrialization of their host populations remains largely unexplored. Here, we investigate the extent to which the rates and targets of horizontal gene transfer (HGT) vary across thousands of bacterial strains from 15 human populations spanning a range of industrialization. We show that HGTs have accumulated in the microbiome over recent host generations and that HGT occurs at high frequency within individuals. Comparison across human populations reveals that industrialized lifestyles are associated with higher HGT rates and that the functions of HGTs are related to the level of host industrialization. Our results suggest that gut bacteria continuously acquire new functionality based on host lifestyle and that high rates of HGT may be a recent development in human history linked to industrialization.
 
-## Organ-on-chip to investigate host-pathogens interactions
+[Source](https://www.sciencedirect.com/science/article/pii/S0092867421002415)
 
-[Source](https://doi.org/10.1111/cmi.13336)
-
----
-
-## Investigating colonization patterns of the infant gut microbiome during the introduction of solid food and weaning from breastmilk: A cohort study protocol
-
-[Source](https://doi.org/10.1371/journal.pone.0248924)
+10.1016/j.cell.2021.02.052
 
 ---
 
-## Urinary Microbiota; Which Non-Invasive Urine Collection Method Should We Use?
+## Combined effects of composting and antibiotic administration on cattle manure–borne antibiotic resistance genes
 
-[Source](https://doi.org/10.1111/ijcp.14193)
-
----
-
-## A specific association between laxative misuse and suicidal behaviours in patients with anorexia nervosa and bulimia nervosa
-
-[Source](https://doi.org/10.1007/s40519-021-01180-x)
+[Source](http://click.springernature.com/f/a/2_qRZa_KF0zxUivGyV2VLQ~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMDYtelcDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
 
 ---
 
-## Bile Microbiota in Liver Transplantation: Proof of Concept Using Gene Amplification in a Heterogeneous Clinical Scenario
+## Swine growth promotion with antibiotics or alternatives can increase antibiotic resistance gene mobility potential.
+ 25.03.2021, _J Muurinen, J Richert, CL Wickware, B Richert, TA Johnson_
 
-[Source](https://doi.org/10.3389/fsurg.2021.621525)
 
----
+Even though the use of antibiotics for food-producing animals may contribute to the emergence of antimicrobial resistance, antibiotics are still used as growth promoters. Due to consumer and regulatory pressures, the use of alternatives to antibiotics as growth promoters is increasing, thus more information is needed on their capability to disseminate antimicrobial resistance compared to antibiotics. We investigated the impacts of carbadox (antibiotic), copper sulfate and zinc oxide (metals) and mushroom powder (natural product) on the pig fecal resistome and microbiome. Antibiotic resistance gene (ARG) and mobile genetic element (MGE) abundances were measured using a high-throughput qPCR array with 382 primer pairs. Bacterial community composition was determined by 16S rRNA gene sequencing. More ARGs co-occurred with MGEs in the growth promoter group samples than in the control group samples. Community composition could not be linked to resistome in the growth promoter group samples, indicating a potential decoupling of ARGs and phylogeny. Additionally, machine-learning methods aided in defining the community and resistome differences in response to treatments. Since increased ARG mobility potential was the primary response to the dietary additives used in this study, we suggest that ARG mobility should be considered when designing antimicrobial use policies and antimicrobial resistance surveillances.
 
-## The Unique Impact of COVID-19 on Human Gut Microbiome Research
+[Source](https://www.nature.com/articles/s41598-021-84759-9)
 
-[Source](https://doi.org/10.3389/fmed.2021.652464)
-
----
-
-## Modeling of Urinary Microbiota Associated With Cystitis
-
-[Source](https://doi.org/10.3389/fcimb.2021.643638)
+10.1038/s41598-021-84759-9
 
 ---
 
-## Identification of Microbiome Etiology Associated With Drug Resistance in Pleural Empyema
+## Using high-abundance proteins as guides for fast and effective peptide/protein identification from human gut metaproteomic data
 
-[Source](https://doi.org/10.3389/fcimb.2021.637018)
-
----
-
-## Analysis of Gut Microbiome Using Explainable Machine Learning Predicts Risk of Diarrhea Associated With Tyrosine Kinase Inhibitor Neratinib: A Pilot Study
-
-[Source](https://doi.org/10.3389/fonc.2021.604584)
+[Source](http://click.springernature.com/f/a/rYM1wUyFyTAr_hTelPG-MA~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMzUtOFcDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
 
 ---
 
-## Antitumor efficacy of a neoantigen cancer vaccine delivered by electroporation is influenced by microbiota composition
+## High throughput sequencing provides exact genomic locations of inducible prophages and accurate phage-to-host ratios in gut microbial strains.
+ 02.04.2021, _M Zünd, HJ Ruscheweyh, CM Field, N Meyer, M Cuenca, D Hoces, WD Hardt, S Sunagawa_
 
-[Source](https://doi.org/10.1080/2162402x.2021.1898832)
 
----
+Temperate phages influence the density, diversity and function of bacterial populations. Historically, they have been described as carriers of toxins. More recently, they have also been recognised as direct modulators of the gut microbiome, and indirectly of host health and disease. Despite recent advances in studying prophages using non-targeted sequencing approaches, methodological challenges in identifying inducible prophages in bacterial genomes and quantifying their activity have limited our understanding of prophage-host interactions.
 
-## Associations between dysbiosis-inducing drugs, overall survival and tumor response in patients treated with immune checkpoint inhibitors
+[Source](http://click.springernature.com/f/a/1ZyWYBuOj2s4j2Dx28zCQg~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMzMtd1cDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
 
-[Source](https://doi.org/10.1177/17588359211000591)
-
----
-
-## The Hygiene Hypothesis – Learning From but Not Living in the Past
-
-[Source](https://doi.org/10.3389/fimmu.2021.635935)
+10.1186/s40168-021-01033-w
 
 ---
 
-## Strength Exercise Confers Protection in Central Nervous System Autoimmunity by Altering the Gut Microbiota
+## A comprehensive metagenomics framework to characterize organisms relevant for planetary protection
 
-[Source](https://doi.org/10.3389/fimmu.2021.628629)
-
----
-
-## Enrichment of Food With Tannin Extracts Promotes Healthy Changes in the Human Gut Microbiota
-
-[Source](https://doi.org/10.3389/fmicb.2021.625782)
-
----
-
-## Bifidobacterium Lactis Probio-M8 regulates gut microbiota to alleviate Alzheimer’s disease in the APP/PS1 mouse model
-
-[Source](https://doi.org/10.1007/s00394-021-02543-x)
-
----
-
-## Re-Analysis of 16S rRNA Gene Sequence Data Sets Uncovers Disparate Laboratory-Specific Microbiomes Associated with the Yellow Fever Mosquito (Aedes aegypti)
-
-[Source](https://doi.org/10.1007/s00248-021-01739-2)
-
----
-
-## FOXO regulates the expression of antimicrobial peptides and promotes phagocytosis of hemocytes in shrimp antibacterial immunity
-
-[Source](https://doi.org/10.1371/journal.ppat.1009479)
-
----
-
-## Microbial characteristics response to the soil quality of newly created farmland on the Loess Plateau
-
-[Source](https://doi.org/10.1007/s11356-021-13667-2)
-
----
-
-## Human microbiome privacy risks associated with summary statistics
-
-[Source](https://doi.org/10.1371/journal.pone.0249528)
-
----
-
-## ResistoXplorer: a web-based tool for visual, statistical and exploratory data analysis of resistome data
-
-[Source](https://doi.org/10.1093/nargab/lqab018)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01020-1)
 
 ---
 
