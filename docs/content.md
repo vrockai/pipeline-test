@@ -82,34 +82,9 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## Immune-checkpoint inhibitors from cancer to COVID‑19: A promising avenue for the treatment of patients with COVID‑19 (Review).
- 01.03.2021, _S Vivarelli, L Falzone, F Torino, G Scandurra, G Russo, R Bordonaro, F Pappalardo, DA Spandidos, G Raciti, M Libra_
-
-
-_Antineoplastic Agents, COVID-19, Drug Repositioning, Humans, Immune Checkpoint Inhibitors, Neoplasms, SARS-CoV-2_
-The severe acute respiratory syndrome associated coronavirus‑2 (SARS‑CoV‑2) poses a threat to human life worldwide. Since early March, 2020, coronavirus disease 2019 (COVID‑19), characterized by an acute and often severe form of pneumonia, has been declared a pandemic. This has led to a boom in biomedical research studies at all stages of the pipeline, from the in vitro to the clinical phase. In line with this global effort, known drugs, currently used for the treatment of other pathologies, including antivirals, immunomodulating compounds and antibodies, are currently used off‑label for the treatment of COVID‑19, in association with the supportive standard care. Yet, no effective treatments have been identified. A new hope stems from medical oncology and relies on the use of immune‑checkpoint inhibitors (ICIs). In particular, amongst the ICIs, antibodies able to block the programmed death‑1 (PD‑1)/PD ligand-1 (PD‑L1) pathway have revealed a hidden potential. In fact, patients with severe and critical COVID‑19, even prior to the appearance of acute respiratory distress syndrome, exhibit lymphocytopenia and suffer from T‑cell exhaustion, which may lead to viral sepsis and an increased mortality rate. It has been observed that cancer patients, who usually are immunocompromised, may restore their anti‑tumoral immune response when treated with ICIs. Moreover, viral-infected mice and humans, exhibit a T‑cell exhaustion, which is also observed following SARS‑CoV‑2 infection. Importantly, when treated with anti‑PD‑1 and anti‑PD‑L1 antibodies, they restore their T‑cell competence and efficiently counteract the viral infection. Based on these observations, four clinical trials are currently open, to examine the efficacy of anti‑PD‑1 antibody administration to both cancer and non‑cancer individuals affected by COVID‑19. The results may prove the hypothesis that restoring exhausted T‑cells may be a winning strategy to beat SARS‑CoV‑2 infection.
-
-[Source](https://doi.org/10.1177/17588359211000591)
-
-10.3892/ijo.2020.5159
-
----
-
 ## Associations between dysbiosis-inducing drugs, overall survival and tumor response in patients treated with immune checkpoint inhibitors
 
 [Source](https://doi.org/10.1177/17588359211000591)
-
----
-
-## Harnessing data science to advance radiation oncology.
- 07.10.2020, _IR Vogelius, J Petersen, SM Bentzen_
-
-
-Radiation oncology, a major treatment modality in the care of patients with malignant disease, is a technology- and computer-intensive medical specialty. As such, it should lend itself ideally to data science methods, where computer science, statistics, and clinical knowledge are combined to advance state-of-the-art care. Nevertheless, data science methods in radiation oncology research are still in their infancy and successful applications leading to improved patient care remain scarce. Here, we discuss data interoperability issues within and across organizational boundaries that hamper the introduction of big data and data science techniques in radiation oncology. At the semantic level, creating common underlying models and codification of the data, including the use of data elements with standardized definitions, an ontology, remains a work in progress. Methodological issues in data science and in the use of large population-based health data registries are identified. We show that data science methods and big data cannot replace randomized clinical trials in comparative effectiveness research by reviewing a series of instances where the outcomes of big data analyses and randomized trials are at odds. We also discuss the modern wave of machine learning and artificial intelligence as represented by deep learning and convolutional neural networks. Finally, we identify promising research avenues and remain optimistic that the data sources in radiation oncology can be linked to yield important insights in the near future. We argue that data science will be a valuable complement to, but not a replacement of, the traditional hypothesis-driven translational research chain and the randomized clinical trials that form the backbone of evidence-based medicine.
-
-[Source](https://doi.org/10.3389/fimmu.2021.635935)
-
-10.1002/1878-0261.12685
 
 ---
 
