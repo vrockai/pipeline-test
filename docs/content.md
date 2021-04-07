@@ -22,9 +22,15 @@ Industrialization has impacted the human gut ecosystem, resulting in altered mic
 
 ---
 
-## Combined effects of composting and antibiotic administration on cattle manure–borne antibiotic resistance genes
+## Combined effects of composting and antibiotic administration on cattle manure-borne antibiotic resistance genes.
+ 02.04.2021, _I Keenum, RK Williams, P Ray, ED Garner, KF Knowlton, A Pruden_
+
+
+Research is needed to delineate the relative and combined effects of different antibiotic administration and manure management practices in either amplifying or attenuating the potential for antibiotic resistance to spread. Here, we carried out a comprehensive parallel examination of the effects of small-scale (&gt; 55 °C × 3 days) static and turned composting of manures from dairy and beef cattle collected during standard antibiotic administration (cephapirin/pirlimycin or sulfamethazine/chlortetracycline/tylosin, respectively), versus from untreated cattle, on "resistomes" (total antibiotic resistance genes (ARGs) determined via shotgun metagenomic sequencing), bacterial microbiota, and indicator ARGs enumerated via quantitative polymerase chain reaction. To gain insight into the role of the thermophilic phase, compost was also externally heated to &gt; 55 °C × 15 days.
 
 [Source](http://click.springernature.com/f/a/2_qRZa_KF0zxUivGyV2VLQ~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMDYtelcDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
+
+10.1186/s40168-021-01006-z
 
 ---
 
@@ -40,9 +46,15 @@ Even though the use of antibiotics for food-producing animals may contribute to 
 
 ---
 
-## Using high-abundance proteins as guides for fast and effective peptide/protein identification from human gut metaproteomic data
+## Using high-abundance proteins as guides for fast and effective peptide/protein identification from human gut metaproteomic data.
+ 02.04.2021, _M Stamboulian, S Li, Y Ye_
+
+
+A few recent large efforts significantly expanded the collection of human-associated bacterial genomes, which now contains thousands of entities including reference complete/draft genomes and metagenome assembled genomes (MAGs). These genomes provide useful resource for studying the functionality of the human-associated microbiome and their relationship with human health and diseases. One application of these genomes is to provide a universal reference for database search in metaproteomic studies, when matched metagenomic/metatranscriptomic data are unavailable. However, a greater collection of reference genomes may not necessarily result in better peptide/protein identification because the increase of search space often leads to fewer spectrum-peptide matches, not to mention the drastic increase of computation time. Video Abstract METHODS: Here, we present a new approach that uses two steps to optimize the use of the reference genomes and MAGs as the universal reference for human gut metaproteomic MS/MS data analysis. The first step is to use only the high-abundance proteins (HAPs) (i.e., ribosomal proteins and elongation factors) for metaproteomic MS/MS database search and, based on the identification results, to derive the taxonomic composition of the underlying microbial community. The second step is to expand the search database by including all proteins from identified abundant species. We call our approach HAPiID (HAPs guided metaproteomics IDentification).
 
 [Source](http://click.springernature.com/f/a/rYM1wUyFyTAr_hTelPG-MA~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMzUtOFcDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
+
+10.1186/s40168-021-01035-8
 
 ---
 
@@ -58,9 +70,15 @@ Temperate phages influence the density, diversity and function of bacterial popu
 
 ---
 
-## A comprehensive metagenomics framework to characterize organisms relevant for planetary protection
+## A comprehensive metagenomics framework to characterize organisms relevant for planetary protection.
+ 02.04.2021, _DC Danko, MA Sierra, JN Benardini, L Guan, JM Wood, N Singh, A Seuylemezian, DJ Butler, K Ryon, K Kuchin, D Meleshko, C Bhattacharya, KJ Venkateswaran, CE Mason_
+
+
+Clean rooms of the Space Assembly Facility (SAF) at the Jet Propulsion Laboratory (JPL) at NASA are the final step of spacecraft cleaning and assembly before launching into space. Clean rooms have stringent methods of air-filtration and cleaning to minimize microbial contamination for exoplanetary research and minimize the risk of human pathogens, but they are not sterile. Clean rooms make a selective environment for microorganisms that tolerate such cleaning methods. Previous studies have attempted to characterize the microbial cargo through sequencing and culture-dependent protocols. However, there is not a standardized metagenomic workflow nor analysis pipeline for spaceflight hardware cleanroom samples to identify microbial contamination. Additionally, current identification methods fail to characterize and profile the risk of low-abundance microorganisms.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01020-1)
+
+10.1186/s40168-021-01020-1
 
 ---
 
