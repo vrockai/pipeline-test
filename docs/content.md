@@ -160,6 +160,18 @@ Metagenomic approaches hold the potential to characterize microbial communities 
 
 ---
 
+## Rank normalization empowers a t-test for microbiome differential abundance analysis while controlling for false discoveries.
+ 06.04.2021, _ML Davis, Y Huang, K Wang_
+
+
+A major task in the analysis of microbiome data is to identify microbes associated with differing biological conditions. Before conducting analysis, raw data must first be adjusted so that counts from different samples are comparable. A typical approach is to estimate normalization factors by which all counts in a sample are multiplied or divided. However, the inherent variation associated with estimation of normalization factors are often not accounted for in subsequent analysis, leading to a loss of precision. Rank normalization is a nonparametric alternative to the estimation of normalization factors in which each count for a microbial feature is replaced by its intrasample rank. Although rank normalization has been successfully applied to microarray analysis in the past, it has yet to be explored for microbiome data, which is characterized by high frequencies of 0s, strongly correlated features and compositionality. We propose to use rank normalization as an alternative to the estimation of normalization factors and examine its performance when paired with a two-sample t-test. On a rigorous 3rd-party benchmarking simulation, it is shown to offer strong control over the false discovery rate, and at sample sizes greater than 50 per treatment group, to offer an improvement in performance over commonly used normalization factors paired with t-tests, Wilcoxon rank-sum tests and methodologies implemented by R packages. On two real datasets, it yielded valid and reproducible results that were strongly in agreement with the original findings and the existing literature, further demonstrating its robustness and future potential. Availability: The data underlying this article are available online along with R code and supplementary materials at https://github.com/matthewlouisdavisBioStat/Rank-Normalization-Empowers-a-T-Test.
+
+[Source](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab059/6210069)
+
+10.1093/bib/bbab059
+
+---
+
 ## Discovering multiple types of DNA methylation from bacteria and microbiome using nanopore sequencing.
  06.04.2021, _A Tourancheau, EA Mead, XS Zhang, G Fang_
 
