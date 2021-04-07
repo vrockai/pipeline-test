@@ -1,84 +1,174 @@
-## Thousands of previously unknown phages discovered in whole-community human gut metagenomes.
- 02.04.2021, _S Benler, N Yutin, D Antipov, M Rayko, S Shmakov, AB Gussow, P Pevzner, EV Koonin_
+## Primate phageomes are structured by superhost phylogeny and environment
 
-
-Double-stranded DNA bacteriophages (dsDNA phages) play pivotal roles in structuring human gut microbiomes; yet, the gut virome is far from being fully characterized, and additional groups of phages, including highly abundant ones, continue to be discovered by metagenome mining. A multilevel framework for taxonomic classification of viruses was recently adopted, facilitating the classification of phages into evolutionary informative taxonomic units based on hallmark genes. Together with advanced approaches for sequence assembly and powerful methods of sequence analysis, this revised framework offers the opportunity to discover and classify unknown phage taxa in the human gut.
-
-[Source](http://click.springernature.com/f/a/NubvWTsHEMMSYTbw6djWZA~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMTctd1cDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
-
-10.1186/s40168-021-01017-w
+[Source](https://www.pnas.org/content/118/15/e2013535118)
 
 ---
 
-## Elevated rates of horizontal gene transfer in the industrialized human microbiome.
- 01.04.2021, _M Groussin, M Poyet, A Sistiaga, SM Kearney, K Moniz, M Noel, J Hooker, SM Gibbons, L Segurel, A Froment, RS Mohamed, A Fezeu, VA Juimo, S Lafosse, FE Tabe, C Girard, D Iqaluk, LTT Nguyen, BJ Shapiro, J Lehtimäki, L Ruokolainen, PP Kettunen, T Vatanen, S Sigwazi, A Mabulla, M Domínguez-Rodrigo, YA Nartey, A Agyei-Nkansah, A Duah, YA Awuku, KA Valles, SO Asibey, MY Afihene, LR Roberts, A Plymoth, CA Onyekwere, RE Summons, RJ Xavier, EJ Alm_
+## Fungal-induced glycolysis in macrophages promotes colon cancer by enhancing innate lymphoid cell secretion of IL-22.
+ 16.02.2021, _Y Zhu, T Shi, X Lu, Z Xu, J Qu, Z Zhang, G Shi, S Shen, Y Hou, Y Chen, T Wang_
 
 
-Industrialization has impacted the human gut ecosystem, resulting in altered microbiome composition and diversity. Whether bacterial genomes may also adapt to the industrialization of their host populations remains largely unexplored. Here, we investigate the extent to which the rates and targets of horizontal gene transfer (HGT) vary across thousands of bacterial strains from 15 human populations spanning a range of industrialization. We show that HGTs have accumulated in the microbiome over recent host generations and that HGT occurs at high frequency within individuals. Comparison across human populations reveals that industrialized lifestyles are associated with higher HGT rates and that the functions of HGTs are related to the level of host industrialization. Our results suggest that gut bacteria continuously acquire new functionality based on host lifestyle and that high rates of HGT may be a recent development in human history linked to industrialization.
+Incorporation of microbiome data has recently become important for prevention, diagnosis, and treatment of colorectal cancer, and several species of bacteria were shown to be associated with carcinogenesis. However, the role of commensal fungi in colon cancer remains poorly understood. Here, we report that mice lacking the c-type lectin Dectin-3 (Dectin-3-/- ) show increased tumorigenesis and Candida albicans burden upon chemical induction. Elevated C. albicans load triggered glycolysis in macrophages and interleukin-7 (IL-7) secretion. IL-7 induced IL-22 production in RORγt+ (group 3) innate lymphoid cells (ILC3s) via aryl hydrocarbon receptor and STAT3. Consistently, IL-22 frequency in tumor tissues of colon cancer patients positively correlated with fungal burden, indicating the relevance of this regulatory axis in human disease. These results establish a C. albicans-driven crosstalk between macrophages and innate lymphoid cells in the intestine and expand our understanding on how commensal mycobiota regulate host immunity and promote tumorigenesis.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0092867421002415)
+[Source](https://www.embopress.org/doi/full/10.15252/embj.2020105320)
 
-10.1016/j.cell.2021.02.052
-
----
-
-## Combined effects of composting and antibiotic administration on cattle manure-borne antibiotic resistance genes.
- 02.04.2021, _I Keenum, RK Williams, P Ray, ED Garner, KF Knowlton, A Pruden_
-
-
-Research is needed to delineate the relative and combined effects of different antibiotic administration and manure management practices in either amplifying or attenuating the potential for antibiotic resistance to spread. Here, we carried out a comprehensive parallel examination of the effects of small-scale (&gt; 55 °C × 3 days) static and turned composting of manures from dairy and beef cattle collected during standard antibiotic administration (cephapirin/pirlimycin or sulfamethazine/chlortetracycline/tylosin, respectively), versus from untreated cattle, on "resistomes" (total antibiotic resistance genes (ARGs) determined via shotgun metagenomic sequencing), bacterial microbiota, and indicator ARGs enumerated via quantitative polymerase chain reaction. To gain insight into the role of the thermophilic phase, compost was also externally heated to &gt; 55 °C × 15 days.
-
-[Source](http://click.springernature.com/f/a/2_qRZa_KF0zxUivGyV2VLQ~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMDYtelcDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
-
-10.1186/s40168-021-01006-z
+10.15252/embj.2020105320
 
 ---
 
-## Swine growth promotion with antibiotics or alternatives can increase antibiotic resistance gene mobility potential.
- 25.03.2021, _J Muurinen, J Richert, CL Wickware, B Richert, TA Johnson_
+## A method for detection of SARS-CoV-2 RNA in healthy human stool: a validation study.
+ 06.04.2021, _MP Coryell, M Iakiviak, N Pereira, PP Murugkar, J Rippe, DB Williams, T Heald-Sargent, LN Sanchez-Pinto, J Chavez, JL Hastie, RL Sava, CZ Lien, TT Wang, WJ Muller, MA Fischbach, PE Carlson_
 
 
-Even though the use of antibiotics for food-producing animals may contribute to the emergence of antimicrobial resistance, antibiotics are still used as growth promoters. Due to consumer and regulatory pressures, the use of alternatives to antibiotics as growth promoters is increasing, thus more information is needed on their capability to disseminate antimicrobial resistance compared to antibiotics. We investigated the impacts of carbadox (antibiotic), copper sulfate and zinc oxide (metals) and mushroom powder (natural product) on the pig fecal resistome and microbiome. Antibiotic resistance gene (ARG) and mobile genetic element (MGE) abundances were measured using a high-throughput qPCR array with 382 primer pairs. Bacterial community composition was determined by 16S rRNA gene sequencing. More ARGs co-occurred with MGEs in the growth promoter group samples than in the control group samples. Community composition could not be linked to resistome in the growth promoter group samples, indicating a potential decoupling of ARGs and phylogeny. Additionally, machine-learning methods aided in defining the community and resistome differences in response to treatments. Since increased ARG mobility potential was the primary response to the dietary additives used in this study, we suggest that ARG mobility should be considered when designing antimicrobial use policies and antimicrobial resistance surveillances.
+Faecal shedding of SARS-CoV-2 has raised concerns about transmission through faecal microbiota transplantation procedures. Validation parameters of authorised tests for SARS-CoV-2 RNA detection in respiratory samples are described in product labelling, whereas the published methods for SARS-CoV-2 detection from faecal samples have not permitted a robust description of the assay parameters. We aimed to develop and validate a test specifically for detection of SARS-CoV-2 in human stool.
 
-[Source](https://www.nature.com/articles/s41598-021-84759-9)
+[Source](https://www.sciencedirect.com/science/article/pii/S2666524721000598)
 
-10.1038/s41598-021-84759-9
-
----
-
-## Using high-abundance proteins as guides for fast and effective peptide/protein identification from human gut metaproteomic data.
- 02.04.2021, _M Stamboulian, S Li, Y Ye_
-
-
-A few recent large efforts significantly expanded the collection of human-associated bacterial genomes, which now contains thousands of entities including reference complete/draft genomes and metagenome assembled genomes (MAGs). These genomes provide useful resource for studying the functionality of the human-associated microbiome and their relationship with human health and diseases. One application of these genomes is to provide a universal reference for database search in metaproteomic studies, when matched metagenomic/metatranscriptomic data are unavailable. However, a greater collection of reference genomes may not necessarily result in better peptide/protein identification because the increase of search space often leads to fewer spectrum-peptide matches, not to mention the drastic increase of computation time. Video Abstract METHODS: Here, we present a new approach that uses two steps to optimize the use of the reference genomes and MAGs as the universal reference for human gut metaproteomic MS/MS data analysis. The first step is to use only the high-abundance proteins (HAPs) (i.e., ribosomal proteins and elongation factors) for metaproteomic MS/MS database search and, based on the identification results, to derive the taxonomic composition of the underlying microbial community. The second step is to expand the search database by including all proteins from identified abundant species. We call our approach HAPiID (HAPs guided metaproteomics IDentification).
-
-[Source](http://click.springernature.com/f/a/rYM1wUyFyTAr_hTelPG-MA~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMzUtOFcDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
-
-10.1186/s40168-021-01035-8
+10.1016/S2666-5247(21)00059-8
 
 ---
 
-## High throughput sequencing provides exact genomic locations of inducible prophages and accurate phage-to-host ratios in gut microbial strains.
- 02.04.2021, _M Zünd, HJ Ruscheweyh, CM Field, N Meyer, M Cuenca, D Hoces, WD Hardt, S Sunagawa_
+## The Ocular Microbiome and Microbiota and their Effects on Ocular Surface Pathophysiology and Disorders.
+ 05.04.2021, _P Aragona, C Baudouin, JM Benitez Del Castillo, E Messmer, S Barabino, J Merayo-Lloves, F Brignole-Baudouin, L Inferrera, M Rolando, R Mencucci, M Rescigno, S Bonini, M Labetoulle_
 
 
-Temperate phages influence the density, diversity and function of bacterial populations. Historically, they have been described as carriers of toxins. More recently, they have also been recognised as direct modulators of the gut microbiome, and indirectly of host health and disease. Despite recent advances in studying prophages using non-targeted sequencing approaches, methodological challenges in identifying inducible prophages in bacterial genomes and quantifying their activity have limited our understanding of prophage-host interactions.
+The ocular surface flora performs an important role in the defense mechanisms of the ocular surface system. Its regulation of the immunological activity and the barrier effect against pathogen invasion are remarkable. Composition of the flora differs according to the methods of investigation, because the microbiome, composed of the genetic material of bacteria, fungi, viruses, protozoa, and eukaryotes on the ocular surface, differs from the microbiota, which is the community of microorganisms that colonize the ocular surface. The observed composition of the ocular surface flora depends on harvesting and examining methods, whether with traditional culture or with more refined genetic analysis, based on rRNA and DNA sequencing. Environment, diet, sex, and age influence the microbial flora composition, thus complicating the analysis of the baseline status. Moreover, potentially pathogenic organisms can affect its composition like also various disorders, including chronic inflammation, and therapies applied to the ocular surface. A better understanding of the composition and function of microbial communities at the ocular surface could bring new insights and clarify the epidemiology and pathology of ocular surface dynamics in health and disease. The purpose of this review is to provide an up-to-date overview of knowledge about this topic.
 
-[Source](http://click.springernature.com/f/a/1ZyWYBuOj2s4j2Dx28zCQg~~/AAEGiQA~/RgRiTVguP0RPaHR0cHM6Ly9taWNyb2Jpb21lam91cm5hbC5iaW9tZWRjZW50cmFsLmNvbS9hcnRpY2xlcy8xMC4xMTg2L3M0MDE2OC0wMjEtMDEwMzMtd1cDc3BjQgpgZy7TamBJoYVuUhJlbGllc2Jpa0BnbWFpbC5jb21YBAAAAAA~)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0039625721000837)
 
-10.1186/s40168-021-01033-w
+10.1016/j.survophthal.2021.03.010
 
 ---
 
-## A comprehensive metagenomics framework to characterize organisms relevant for planetary protection.
- 02.04.2021, _DC Danko, MA Sierra, JN Benardini, L Guan, JM Wood, N Singh, A Seuylemezian, DJ Butler, K Ryon, K Kuchin, D Meleshko, C Bhattacharya, KJ Venkateswaran, CE Mason_
+## Multi-dimensional study of the oral microbiome, metabolite, and immunologic environment in peanut allergy.
+ 05.04.2021, _HE Ho, Y Chun, S Jeong, O Jumreornvong, SH Sicherer, S Bunyavanich_
 
 
-Clean rooms of the Space Assembly Facility (SAF) at the Jet Propulsion Laboratory (JPL) at NASA are the final step of spacecraft cleaning and assembly before launching into space. Clean rooms have stringent methods of air-filtration and cleaning to minimize microbial contamination for exoplanetary research and minimize the risk of human pathogens, but they are not sterile. Clean rooms make a selective environment for microorganisms that tolerate such cleaning methods. Previous studies have attempted to characterize the microbial cargo through sequencing and culture-dependent protocols. However, there is not a standardized metagenomic workflow nor analysis pipeline for spaceflight hardware cleanroom samples to identify microbial contamination. Additionally, current identification methods fail to characterize and profile the risk of low-abundance microorganisms.
+The oral mucosa is the initial interface between food antigens, microbiota and mucosal immunity, yet little is known about oral host-environment dynamics in food allergy.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01020-1)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0091674921005509)
 
-10.1186/s40168-021-01020-1
+10.1016/j.jaci.2021.03.028
+
+---
+
+## Temporal Variation in Staphylococcus aureus Protein A Genotypes from Nose and Skin in Atopic Dermatitis Patients.
+ 06.04.2021, _MMF van Mierlo, SGMA Pasmans, JEE Totté, J de Wit, BL Herpers, MC Vos, CHW Klaassen, LM Pardo_
+
+
+Staphylococcus aureus colonization is associated with disease severity in patients with atopic dermatitis (AD).
+
+[Source](https://www.karger.com/Article/FullText/515235)
+
+10.1159/000515235
+
+---
+
+## Sex-Based Differences in Fecal Short-Chain Fatty Acid and Gut Microbiota in Irritable Bowel Syndrome Patients.
+ 06.04.2021, _Q Sun, Z Liu, L Zhang, H Wei, L Song, S Zhu, M He, L Duan_
+
+
+Irritable bowel syndrome (IBS) is characterized by recurrent abdominal pain and altered defecation, with a female predominance. Alterations in fecal short-chain fatty acids (SCFAs) is associated with IBS. However, little is known regarding sex-based differences in this regard.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/1751-2980.12988)
+
+10.1111/1751-2980.12988
+
+---
+
+## Ecological and evolutionary responses to antibiotic treatment in the human gut microbiota.
+ 06.04.2021, _JH Pennycook, PD Scanlan_
+
+
+The potential for antibiotics to affect the ecology and evolution of the human gut microbiota is well recognised and has wide-ranging implications for host health. Here, we review the findings of key studies that surveyed the human gut microbiota during antibiotic treatment. We find several broad patterns including the loss of diversity, disturbance of community composition, suppression of bacteria in the Actinobacteria phylum, amplification of bacteria in the Bacteroidetes phylum, and promotion of antibiotic resistance. Such changes to the microbiota were often, but not always, recovered following the end of treatment. However, many studies reported unique and/or contradictory results, which highlights our inability to meaningfully predict or explain the effects of antibiotic treatment on the human gut microbiome. This problem arises from variation between existing studies in three major categories: differences in dose, class, and combinations of antibiotic treatments used; differences in demographics, lifestyles, and locations of subjects; and differences in measurements, analyses, and reporting styles used by researchers. To overcome this, we suggest two integrated approaches: (i) a top-down approach focused on building predictive models through large sample sizes, deep metagenomic sequencing, and effective collaboration; and (ii) a bottom-up reductionist approach focused on testing hypotheses using model systems.
+
+[Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuab018/6212228)
+
+10.1093/femsre/fuab018
+
+---
+
+## The Fecal and Serum Metabolomics of Giant Pandas Based on Untargeted Metabolomics.
+ 05.04.2021, _S Yang, Y Huang, C Li, L Jin, W Deng, S Zhao, D Wu, Y He, B Li, Z Yu, T Li, Z Zhang, X Pan, H Zhang, L Zou_
+
+
+Little is comprehensively known or understood about giant panda fecal and serum metabolites, which could serve as important indicators of the physiological metabolism of giant pandas. Therefore, we determined the contents of fecal and serum metabolites of giant pandas based on an untargeted metabolome. Four hundred and 955 metabolites were detected in the feces and serum of giant panda, respectively. Glycerophospholipid and choline metabolism were the main metabolic pathways in feces and serum. A significant correlation between the gut microbiota and fecal metabolites was found (P &lt; 0.01). Fecal metabolites were not greatly affected by the age or gender of giant pandas, but serum metabolites were significantly affected by age and gender. The majority of different metabolites caused by age were higher in serum of younger giant pandas, including fatty acids, lipids, metabolites of bile acids, and intermediate products of vitamin D3. The majority of different metabolites caused by gender included fatty acids, phosphatidylcholine (PC), phosphatidylserine (PS), and phosphatidylethanolamine (PE). A separate feeding diet should be considered according to different ages and genders of giant panda. Therefore, our results could provide helpful suggestions to further protect captive giant pandas.
+
+[Source](https://bioone.org/journals/zoological-science/volume-38/issue-2/zs200106/The-Fecal-and-Serum-Metabolomics-of-Giant-Pandas-Based-on/10.2108/zs200106.short)
+
+10.2108/zs200106
+
+---
+
+## Water Activities of Acid Brine Lakes Approach the Limit for Life.
+ 05.04.2021, _KC Benison, WK O'Neill, D Blain, JE Hallsworth_
+
+
+Water activity is an important characteristic for describing unusual waters and is a determinant of habitability for microorganisms. However, few empirical studies of water activity have been done for natural waters exhibiting an extreme chemistry. Here, we investigate water activity for acid brines from Western Australia and Chile with pH as low as 1.4, salinities as high as 32% total dissolved solids, and complex chemical compositions. These acid brines host diverse communities of extremophilic microorganisms, including archaea, bacteria, algae, and fungi, according to metagenomic analyses. For the most extreme brine, its water activity (0.714) was considerably lower than that of saturated (pure) NaCl brine. This study provides a thermodynamic insight into life within end-member natural waters that lie at, or possibly beyond, the very edge of habitable space on Earth.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15499)
+
+10.1089/ast.2020.2334
+
+---
+
+## Astrobiology of life on Earth
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15499)
+
+---
+
+## Impact of UV Radiation on the Raman Signal of Cystine: Implications for the Detection of S-rich Organics on Mars.
+ 11.03.2021, _V Megevand, JC Viennet, E Balan, M Gauthier, P Rosier, M Morand, Y Garino, M Guillaumet, S Pont, O Beyssac, S Bernard_
+
+
+Traces of life may have been preserved in ancient martian rocks in the form of molecular fossils. Yet the surface of Mars is continuously exposed to intense UV radiation detrimental to the preservation of organics. Because the payload of the next rovers going to Mars to seek traces of life will comprise Raman spectroscopy tools, laboratory simulations that document the effect of UV radiation on the Raman signal of organics appear critically needed. The experiments conducted here evidence that UV radiation is directly responsible for the increase of disorder and for the creation of electronic defects and radicals within the molecular structure of S-rich organics such as cystine, enhancing the contribution of light diffusion processes to the Raman signal. The present results suggest that long exposure to UV radiation would ultimately be responsible for the total degradation of the Raman signal of cystine. Yet because the degradation induced by UV is not instantaneous, it should be possible to detect freshly excavated S-rich organics with the Raman instruments on board the rovers. Alternatively, given the very short lifetime of organic fluorescence (nanoseconds) compared to most mineral luminescence (micro- to milliseconds), exploiting fluorescence signals might allow the detection of S-rich organics on Mars. In any case, as illustrated here, we should not expect to detect pristine S-rich organic compounds on Mars, but rather by-products of their degradation.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15494)
+
+10.1089/ast.2020.2340
+
+---
+
+## Mars’ surface is not universally biocidal
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15494)
+
+---
+
+## Draft Genome Sequences and Antimicrobial Profiles of Three Staphylococcus epidermidis Strains from Neonatal Blood Samples.
+ 02.04.2021, _I Afeke, A Moustafa, M Hirose, M Becker, H Busch, A Kuenstner, A Faehnrich, AS Ablordey, C Haertel, KH Amega-Aho, MT Badr, J Rupp, S Ibrahim_
+
+
+Data on molecular characterization of coagulase-negative staphylococci causing neonatal sepsis in low-income countries are highly limited. This report highlights the isolation of three Staphylococcus epidermidis non-genome assembly strains (NGASs) from blood samples from neonates with unknown transmission sources. Pathogenic factors and sources of transmission of these strains warrant further investigation.
+
+[Source](https://mra.asm.org/content/10/13/e00170-21)
+
+10.1128/MRA.00170-21
+
+---
+
+## CoCoNet: An Efficient Deep Learning Tool for Viral Metagenome Binning.
+ 06.04.2021, _CG Arisdakessian, O Nigro, G Steward, G Poisson, M Belcaid_
+
+
+Metagenomic approaches hold the potential to characterize microbial communities and unravel the intricate link between the microbiome and biological processes. Assembly is one of the most critical steps in metagenomics experiments. It consists of transforming overlapping DNA sequencing reads into sufficiently accurate representations of the community's genomes. This process is computationally difficult and commonly results in genomes fragmented across many contigs. Computational binning methods are used to mitigate fragmentation by partitioning contigs based on their sequence composition, abundance, or chromosome organization into bins representing the community's genomes. Existing binning methods have been principally tuned for bacterial genomes and do not perform favorably on viral metagenomes.
+
+[Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab213/6211156)
+
+10.1093/bioinformatics/btab213
+
+---
+
+## Discovering multiple types of DNA methylation from bacteria and microbiome using nanopore sequencing.
+ 06.04.2021, _A Tourancheau, EA Mead, XS Zhang, G Fang_
+
+
+Bacterial DNA methylation occurs at diverse sequence contexts and plays important functional roles in cellular defense and gene regulation. Existing methods for detecting DNA modification from nanopore sequencing data do not effectively support de novo study of unknown bacterial methylomes. In this work, we observed that a nanopore sequencing signal displays complex heterogeneity across methylation events of the same type. To enable nanopore sequencing for broadly applicable methylation discovery, we generated a training dataset from an assortment of bacterial species and developed a method, named nanodisco ( https://github.com/fanglab/nanodisco ), that couples the identification and fine mapping of the three forms of methylation into a multi-label classification framework. We applied it to individual bacteria and the mouse gut microbiome for reliable methylation discovery. In addition, we demonstrated the use of DNA methylation for binning metagenomic contigs, associating mobile genetic elements with their host genomes and identifying misassembled metagenomic contigs.
+
+[Source](https://www.nature.com/articles/s41592-021-01109-3)
+
+10.1038/s41592-021-01109-3
 
 ---
 
