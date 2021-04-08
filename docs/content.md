@@ -17,7 +17,7 @@ Incorporation of microbiome data has recently become important for prevention, d
 ---
 
 ## A method for detection of SARS-CoV-2 RNA in healthy human stool: a validation study.
- 06.04.2021, _MP Coryell, M Iakiviak, N Pereira, PP Murugkar, J Rippe, DB Williams, T Heald-Sargent, LN Sanchez-Pinto, J Chavez, JL Hastie, RL Sava, CZ Lien, TT Wang, WJ Muller, MA Fischbach, PE Carlson_
+ 07.04.2021, _MP Coryell, M Iakiviak, N Pereira, PP Murugkar, J Rippe, DB Williams, T Heald-Sargent, LN Sanchez-Pinto, J Chavez, JL Hastie, RL Sava, CZ Lien, TT Wang, WJ Muller, MA Fischbach, PE Carlson_
 
 
 Faecal shedding of SARS-CoV-2 has raised concerns about transmission through faecal microbiota transplantation procedures. Validation parameters of authorised tests for SARS-CoV-2 RNA detection in respiratory samples are described in product labelling, whereas the published methods for SARS-CoV-2 detection from faecal samples have not permitted a robust description of the assay parameters. We aimed to develop and validate a test specifically for detection of SARS-CoV-2 in human stool.
