@@ -100,15 +100,15 @@ Little is comprehensively known or understood about giant panda fecal and serum 
 
 ---
 
-## Water Activities of Acid Brine Lakes Approach the Limit for Life.
- 05.04.2021, _KC Benison, WK O'Neill, D Blain, JE Hallsworth_
+## Quantifying Preservation Potential: Lipid Degradation in a Mars-Analog Circumneutral Iron Deposit.
+ 09.04.2021, _JSW Tan, MA Sephton_
 
 
-Water activity is an important characteristic for describing unusual waters and is a determinant of habitability for microorganisms. However, few empirical studies of water activity have been done for natural waters exhibiting an extreme chemistry. Here, we investigate water activity for acid brines from Western Australia and Chile with pH as low as 1.4, salinities as high as 32% total dissolved solids, and complex chemical compositions. These acid brines host diverse communities of extremophilic microorganisms, including archaea, bacteria, algae, and fungi, according to metagenomic analyses. For the most extreme brine, its water activity (0.714) was considerably lower than that of saturated (pure) NaCl brine. This study provides a thermodynamic insight into life within end-member natural waters that lie at, or possibly beyond, the very edge of habitable space on Earth.
+Comparisons between the preservation potential of Mars-analog environments have historically been qualitative rather than quantitative. Recently, however, laboratory-based artificial maturation combined with kinetic modeling techniques have emerged as a potential means by which the preservation potential of solvent-soluble organic matter can be quantified in various Mars-analog environments. These methods consider how elevated temperatures, pressures, and organic-inorganic interactions influence the degradation of organic biomarkers post-burial. We used these techniques to investigate the preservation potential of deposits from a circumneutral iron-rich groundwater system. These deposits are composed of ferrihydrite (Fe5HO8 · 4H2O), an amorphous iron hydroxide mineral that is a common constituent of rocks found in ancient lacustrine environments on Mars, such as those observed in Gale Crater. Both natural and synthetic ferrihydrite samples were subjected to hydrous pyrolysis to observe the effects of long-term burial on the mineralogy and organic content of the samples. Our experiments revealed that organic-inorganic interactions in the samples are dominated by the transformation of iron minerals. As amorphous ferrihydrite transforms into more crystalline species, the decrease in surface area results in the desorption of organic matter, potentially rendering them more susceptible to degradation. We also find that circumneutral iron-rich deposits provide unfavorable conditions for the preservation of solvent-soluble organic matter. Quantitative comparisons between preservation potentials as calculated when using kinetic parameters show that circumneutral iron-rich deposits are ∼25 times less likely to preserve solvent-soluble organic matter compared with acidic, iron-rich environments. Our results suggest that circumneutral iron-rich deposits should be deprioritized in favor of acidic iron- and sulfur-rich deposits when searching for evidence of life with solvent extraction techniques.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15499)
 
-10.1089/ast.2020.2334
+10.1089/ast.2020.2344
 
 ---
 
