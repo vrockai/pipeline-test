@@ -117,7 +117,7 @@ Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection can progr
 ---
 
 ## Comparison of Argentinean microbiota with other geographical populations reveals different taxonomic and functional signatures associated with obesity.
- 09.04.2021, _SA Pesoa, N Portela, E Fernández, O Elbarcha, M Gotteland, F Magne_
+ 11.04.2021, _SA Pesoa, N Portela, E Fernández, O Elbarcha, M Gotteland, F Magne_
 
 
 Accumulating evidence suggests that various genetic and environmental factors contribute to the development of obesity. Among the latter, the gut microbiota has emerged as a critical player in the regulation of human metabolism and health and the development of non-communicable chronic diseases. Considering that no information on this matter is available in Argentina, our aim was to identify the microorganisms associated with obesity as well as their potential functionality. Using high throughput sequencing of 16SrRNA bacterial gene and diverse bioinformatics tools, we observed that the gut microbiota of obese and overweight individuals differs qualitatively and quantitatively from that from their lean counterparts. The comparison of the gut microbiota composition in obese subjects from Argentina, US and UK showed that the beta diversity significantly differs among the three countries, indicating that obesity-associated microbiota composition changes according to the geographical origin of the individuals. Moreover, four distinct microbiotypes were identified in obese individuals, whose prevalence and metabolic pathway signature differed according to the country, indicating that obesity associated dysbiosis would comprise several structures. In summary, identification of distinct taxonomic signatures associated with obesity might be a novel promising tool to stratify patients based on their microbiome configuration to design strategies for managing obesity.
@@ -230,7 +230,7 @@ Equine pastern dermatitis (EPD), a multifactorial syndrome, manifests as skin le
 ---
 
 ## Association between aging-dependent gut microbiome dysbiosis and dry eye severity in C57BL/6 male mouse model: a pilot study.
- 09.04.2021, _CH Yoon, JS Ryu, J Moon, MK Kim_
+ 11.04.2021, _CH Yoon, JS Ryu, J Moon, MK Kim_
 
 
 While aging is a potent risk factor of dry eye disease, age-related gut dysbiosis is associated with inflammation and chronic geriatric diseases. Emerging evidence have demonstrated that gut dysbiosis contributes to the pathophysiology or exacerbation of ocular diseases including dry eye disease. However, the relationship between aging-related changes in gut microbiota and dry eye disease has not been elucidated. In this pilot study, we investigated the association between aging-dependent microbiome changes and dry eye severity in C57BL/6 male mice.
