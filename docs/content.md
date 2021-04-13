@@ -1,5 +1,5 @@
 ## Faecalibacterium prausnitzii increases following fecal microbiota transplantation in recurrent Clostridioides difficile infection.
- 09.04.2021, _O Björkqvist, I Rangel, L Serrander, C Magnusson, J Halfvarson, T Norén, M Bergman-Jungeström_
+ 12.04.2021, _O Björkqvist, I Rangel, L Serrander, C Magnusson, J Halfvarson, T Norén, M Bergman-Jungeström_
 
 
 Fecal microbiota transplantation (FMT) is a highly effective treatment for Clostridioides difficile infection (CDI). However, the fecal transplant's causal components translating into clearance of the CDI are yet to be identified. The commensal bacteria Faecalibacterium prausnitzii may be of great interest in this context, since it is one of the most common species of the healthy gut microbiota and produces metabolites with anti-inflammatory properties. Although there is mounting evidence that F. prausnitzii is an important regulator of intestinal homeostasis, data about its role in CDI and FMT are relatively scarce.
@@ -11,7 +11,7 @@ Fecal microbiota transplantation (FMT) is a highly effective treatment for Clost
 ---
 
 ## Comprehensive profiling of the gut microbiota in patients with chronic obstructive pulmonary disease of varying severity.
- 09.04.2021, _YC Chiu, SW Lee, CW Liu, RC Lin, YC Huang, TY Lan, LS Wu_
+ 12.04.2021, _YC Chiu, SW Lee, CW Liu, RC Lin, YC Huang, TY Lan, LS Wu_
 
 
 Chronic obstructive pulmonary disease (COPD) is a chronic respiratory disease that reduces lung and respiratory function, with a high mortality rate. Severe and acute deterioration of COPD can easily lead to respiratory failure, resulting in personal, social, and medical burden. Recent studies have shown a high correlation between the gut microbiota and lung inflammation. In this study, we investigated the relationship between gut microbiota and COPD severity. A total of 60 COPD patients with varying severity according to GOLD guidelines were enrolled in this study. DNA was extracted from patients' stool and 16S rRNA data analysis conducted using high-throughput sequencing followed by bioinformatics analysis. The richness of the gut microbiota was not associated with COPD severity. The gut microbiome is more similar in stage 1 and 2 COPD than stage 3+4 COPD. Fusobacterium and Aerococcus were more abundant in stage 3+4 COPD. Ruminococcaceae NK4A214 group and Lachnoclostridium were less abundant in stage 2-4, and Tyzzerella 4 and Dialister were less abundant in stage 1. However, the abundance of a Bacteroides was associated with blood eosinophils and lung function. This study suggests that no distinctive gut microbiota pattern is associated with the severity of COPD. The gut microbiome could affect COPD by gut inflammation shaping the host immune system.
@@ -34,9 +34,10 @@ Chronic obstructive pulmonary disease (COPD) is a chronic respiratory disease th
 ---
 
 ## From "Leaky Gut" to Impaired Glia-Neuron Communication in Depression.
- 09.04.2021, _L Rudzki, M Maes_
+ 12.04.2021, _L Rudzki, M Maes_
 
 
+_Communication, Depression, Depressive Disorder, Major, Gastrointestinal Microbiome, Humans, Neuroglia, Neurons_
 In the last three decades, the robust scientific data emerged, demonstrating that the immune-inflammatory response is a fundamental component of the pathophysiology of major depressive disorder (MDD). Psychological stress and various inflammatory comorbidities contribute to such immune activation. Still, this is not uncommon that patients with depression do not have defined inflammatory comorbidities, and alternative mechanisms of immune activation need to take place. The gastrointestinal (GI) tract, along with gut-associated lymphoid tissue (GALT), constitutes the largest lymphatic organ in the human body and forms the biggest surface of contact with the external environment. It is also the most significant source of bacterial and food-derived antigenic material. There is a broad range of reciprocal interactions between the GI tract, intestinal microbiota, increased intestinal permeability, activation of immune-inflammatory response, and the CNS that has crucial implications in brain function and mental health. This intercommunication takes place within the microbiota-gut-immune-glia (MGIG) axis, and glial cells are the main orchestrator of this communication. A broad range of factors, including psychological stress, inflammation, dysbiosis, may compromise the permeability of this barrier. This leads to excessive bacterial translocation and the excessive influx of food-derived antigenic material that contributes to activation of the immune-inflammatory response and depressive psychopathology. This chapter summarizes the role of increased intestinal permeability in MDD and mechanisms of how the "leaky gut" may contribute to immune-inflammatory response in this disorder.
 
 [Source](https://doi.org/10.1007/978-981-33-6044-0_9)
@@ -188,7 +189,7 @@ Faecal sample collection is crucial for gut microbiome research and its clinical
 ---
 
 ## Microbiome research in general and business newspapers: How many microbiome articles are published and which study designs make the news the most?
- 09.04.2021, _A Prados-Bo, G Casino_
+ 12.04.2021, _A Prados-Bo, G Casino_
 
 
 The microbiome is a matter of interest for science, consumers and business. Our objective is to quantify that interest in academic journals and newspapers, both quantitatively and by study design. We calculated the number of articles on the microbiome from the total number of biomedicine articles featured in both PubMed and Spanish science news agency SINC, from 2008 to 2018. We used the Factiva database to identify news stories on microbiome papers in three general newspapers (The New York Times, The Times and El País) and three business newspapers (The Wall Street Journal, the Financial Times and Expansión), from 2007 to 2019. Then, we compared news stories with microbiome papers in PubMed, while also analyzing the frequencies of five study design types, both in the newspapers and in the papers themselves. Microbiome papers represented 0.8% of biomedicine papers in PubMed from 2008 to 2018 (increasing from 0.4% to 1.4%), while microbiome news published by SINC represented 1.6% of total biomedical news stories during the same period (increasing from 0.2% to 2.2%). The number of news stories on microbiome papers correlated with the number of microbiome papers (0.91, p &lt; 0.001) featured in general newspapers, but not in business ones. News stories on microbiome papers represented 78.9% and 42.7% of all microbiome articles in general and business newspapers, respectively. Both media outlet types tended to over-report observational studies in humans while under-reporting environmental studies, while the representation of systematic reviews of randomized controlled trials, randomized controlled trials and animal/laboratory studies was similar when comparing newspapers and PubMed. The microbiome is receiving increasing attention in academic journals and newspapers. News stories on the microbiome in general and business newspapers are mostly based on research findings and are more interested in observational studies in humans and less in environmental studies compared to PubMed.
