@@ -207,7 +207,7 @@ The microbiome is a matter of interest for science, consumers and business. Our 
 ---
 
 ## The rumen eukaryotome is a source of novel antimicrobial peptides with therapeutic potential.
- 09.04.2021, _LA Onime, LB Oyama, BJ Thomas, J Gani, P Alexander, KE Waddams, A Cookson, N Fernandez-Fuentes, CJ Creevey, SA Huws_
+ 13.04.2021, _LA Onime, LB Oyama, BJ Thomas, J Gani, P Alexander, KE Waddams, A Cookson, N Fernandez-Fuentes, CJ Creevey, SA Huws_
 
 
 The rise of microbial antibiotic resistance is a leading threat to the health of the human population. As such, finding new approaches to tackle these microbes, including development of novel antibiotics is vital.
@@ -339,7 +339,7 @@ The gut microbiome generates numerous metabolites that exert local effects and e
 ---
 
 ## Metaproteomic sample preparation methods bias the recovery of host and microbial proteins according to taxa and cellular compartment.
- 08.04.2021, _PG Gavin, J Wong, D Loo, D Zipris, MM Hill, EE Hamilton-Williams_
+ 13.04.2021, _PG Gavin, J Wong, D Loo, D Zipris, MM Hill, EE Hamilton-Williams_
 
 
 Faecal proteomics studies have focussed on identification of microbial proteins, however; stool represents a valuable resource to interrogate the host interactions with the microbiota without the need for invasive intestinal biopsies. As the widely used enrichment method (differential centrifugation, DC) enriches for microbial proteins, we compared two other methods for enrichment of host proteins, termed 'host enriched' (HE) and ALL (all proteins). The HE and ALL protocols identified 1.8-fold more host proteins than DC while detecting a similar number of microbial proteins, but the methods had limited overlap in the specific microbial proteins detected. To maximize identification of both host and microbial proteins, samples were subjected to HE and the remaining material was used to perform DC. These two fractions displayed large differences in relative taxonomic abundance and cellular compartmentalization, with proteins from Bacteroidales and extracellular vesicles were enriched in the soluble HE component. The combination of data generated from these two fractions may allow identification of more distinct proteins than simply performing samples in duplicate or more complex fractionation techniques, or a single fraction could be chosen to suit the experimental hypothesis. SIGNIFICANCE: We compared how different stool protein preparation methods influenced the taxonomic and functional characteristics of microbial and host proteins identified. Surprisingly, a method designed to enrich for host proteins recovered a similar number of microbial protein groups to the method that specifically enriched intact bacterial cells. However, the taxonomic and subcellular origin of the microbial proteins differed considerably between the methods. By implementing a two-step method, we could maximize recovery of both host and microbial proteins derived from different cellular compartments and taxa.
