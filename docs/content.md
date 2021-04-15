@@ -88,6 +88,18 @@ It is essential to reveal the associations between various omics data for a comp
 
 ---
 
+## Seafloor incubation experiment with deep-sea hydrothermal vent fluid reveals effect of pressure and lag time on autotrophic microbial communities.
+ 20.02.2021, _CS Fortunato, DA Butterfield, B Larson, N Lawrence-Slavas, CK Algar, L Zeigler Allen, JF Holden, G Proskurowski, E Reddington, LC Stewart, BD Topçuoğlu, JJ Vallino, JA Huber_
+
+
+Depressurization and sample processing delays may impact the outcome of shipboard microbial incubations of samples collected from the deep sea. To address this knowledge gap, we developed an ROV-powered incubator instrument to carry out and compare results from in situ and shipboard RNA Stable Isotope Probing (RNA-SIP) experiments to identify the key chemolithoautotrophic microbes and metabolisms in diffuse, low-temperature venting fluids from Axial Seamount. All the incubations showed microbial uptake of labeled bicarbonate primarily by thermophilic autotrophic Epsilonbacteraeota that oxidized hydrogen coupled with nitrate reduction. However, the in situ seafloor incubations showed higher abundances of transcripts annotated for aerobic processes suggesting that oxygen was lost from the hydrothermal fluid samples prior to shipboard analysis. Furthermore, transcripts for thermal stress proteins such as heat shock chaperones and proteases were significantly more abundant in the shipboard incubations suggesting that depressurization induced thermal stress in the metabolically active microbes in these incubations. Together, results indicate that while the autotrophic microbial communities in the shipboard and seafloor experiments behaved similarly, there were distinct differences that provide new insight into the activities of natural microbial assemblages under near-native conditions in the ocean.Importance: Diverse microbial communities drive biogeochemical cycles in Earth's ocean, yet studying these organisms and processes is often limited by technological capabilities, especially in the deep ocean. In this study, we used a novel marine microbial incubator instrument capable of in situ experimentation to investigate microbial primary producers at deep-sea hydrothermal vents. We carried out identical stable isotope probing experiments coupled to RNA sequencing both on the seafloor and on the ship to examine thermophilic, microbial autotrophs in venting fluids from an active submarine volcano. Our results indicate that microbial communities were significantly impacted by the effects of depressurization and sample processing delay, with shipboard microbial communities more stressed compared to seafloor incubations. Differences in metabolism were also apparent and are likely linked to the chemistry of the fluid at the beginning of the experiment. Microbial experimentation in the natural habitat provides new insights into understanding microbial activities in the ocean.
+
+[Source](https://aem.asm.org/content/87/9/e00078-21)
+
+10.1128/AEM.00078-21
+
+---
+
 ## Seafloor Incubation Experiment with Deep-Sea Hydrothermal Vent Fluid Reveals Effect of Pressure and Lag Time on Autotrophic Microbial Communities
 
 [Source](https://aem.asm.org/content/87/9/e00078-21)
