@@ -48,20 +48,38 @@ Bacillus cereus is widely distributed in the environment and is responsible for 
 ---
 
 ## Microbiome research in general and business newspapers: How many microbiome articles are published and which study designs make the news the most?
+ 12.04.2021, _A Prados-Bo, G Casino_
+
+
+The microbiome is a matter of interest for science, consumers and business. Our objective is to quantify that interest in academic journals and newspapers, both quantitatively and by study design. We calculated the number of articles on the microbiome from the total number of biomedicine articles featured in both PubMed and Spanish science news agency SINC, from 2008 to 2018. We used the Factiva database to identify news stories on microbiome papers in three general newspapers (The New York Times, The Times and El País) and three business newspapers (The Wall Street Journal, the Financial Times and Expansión), from 2007 to 2019. Then, we compared news stories with microbiome papers in PubMed, while also analyzing the frequencies of five study design types, both in the newspapers and in the papers themselves. Microbiome papers represented 0.8% of biomedicine papers in PubMed from 2008 to 2018 (increasing from 0.4% to 1.4%), while microbiome news published by SINC represented 1.6% of total biomedical news stories during the same period (increasing from 0.2% to 2.2%). The number of news stories on microbiome papers correlated with the number of microbiome papers (0.91, p &lt; 0.001) featured in general newspapers, but not in business ones. News stories on microbiome papers represented 78.9% and 42.7% of all microbiome articles in general and business newspapers, respectively. Both media outlet types tended to over-report observational studies in humans while under-reporting environmental studies, while the representation of systematic reviews of randomized controlled trials, randomized controlled trials and animal/laboratory studies was similar when comparing newspapers and PubMed. The microbiome is receiving increasing attention in academic journals and newspapers. News stories on the microbiome in general and business newspapers are mostly based on research findings and are more interested in observational studies in humans and less in environmental studies compared to PubMed.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249835)
 
+10.1371/journal.pone.0249835
+
 ---
 
-## Prokaryotic taxonomy and nomenclature in the age of big sequence data
+## Prokaryotic taxonomy and nomenclature in the age of big sequence data.
+ 07.04.2021, _P Hugenholtz, M Chuvochina, A Oren, DH Parks, RM Soo_
+
+
+The classification of life forms into a hierarchical system (taxonomy) and the application of names to this hierarchy (nomenclature) is at a turning point in microbiology. The unprecedented availability of genome sequences means that a taxonomy can be built upon a comprehensive evolutionary framework, a longstanding goal of taxonomists. However, there is resistance to adopting a single framework to preserve taxonomic freedom, and ever increasing numbers of genomes derived from uncultured prokaryotes threaten to overwhelm current nomenclatural practices, which are based on characterised isolates. The challenge ahead then is to reach a consensus on the taxonomic framework and to adapt and scale the existing nomenclatural code, or create a new code, to systematically incorporate uncultured taxa into the chosen framework.
 
 [Source](https://www.nature.com/articles/s41396-021-00941-x)
 
+10.1038/s41396-021-00941-x
+
 ---
 
-## The metabolic network of the last bacterial common ancestor
+## The metabolic network of the last bacterial common ancestor.
+ 29.03.2021, _JC Xavier, RE Gerhards, JLE Wimmer, J Brueckner, FDK Tria, WF Martin_
+
+
+Bacteria are the most abundant cells on Earth. They are generally regarded as ancient, but due to striking diversity in their metabolic capacities and widespread lateral gene transfer, the physiology of the first bacteria is unknown. From 1089 reference genomes of bacterial anaerobes, we identified 146 protein families that trace to the last bacterial common ancestor, LBCA, and form the conserved predicted core of its metabolic network, which requires only nine genes to encompass all universal metabolites. Our results indicate that LBCA performed gluconeogenesis towards cell wall synthesis, and had numerous RNA modifications and multifunctional enzymes that permitted life with low gene content. In accordance with recent findings for LUCA and LACA, analyses of thousands of individual gene trees indicate that LBCA was rod-shaped and the first lineage to diverge from the ancestral bacterial stem was most similar to modern Clostridia, followed by other autotrophs that harbor the acetyl-CoA pathway.
 
 [Source](https://www.nature.com/articles/s42003-021-01918-4)
+
+10.1038/s42003-021-01918-4
 
 ---
 
@@ -71,15 +89,27 @@ Bacillus cereus is widely distributed in the environment and is responsible for 
 
 ---
 
-## Genome-Based Targeted Sequencing as a Reproducible Microbial Community Profiling Assay 
+## Genome-Based Targeted Sequencing as a Reproducible Microbial Community Profiling Assay.
+ 08.04.2021, _J Benjamino, B Leopold, D Phillips, MD Adams_
+
+
+Current sequencing-based methods for profiling microbial communities rely on marker gene (e.g., 16S rRNA) or metagenome shotgun sequencing (mWGS) analysis. We present an approach based on a single-primer extension reaction using a highly multiplexed oligonucleotide probe pool. This approach, termed MA-GenTA (microbial abundances from genome tagged analysis), enables quantitative, straightforward, cost-effective microbiome profiling that combines desirable features of both 16S rRNA and mWGS strategies. The use of multiple probes per target genome and rigorous probe design criteria enabled robust determination of relative abundance. To test the utility of the MA-GenTA assay, probes were designed for 830 genome sequences representing bacteria present in mouse stool specimens. Comparison of the MA-GenTA data with mWGS data demonstrated excellent correlation down to 0.01% relative abundance and a similar number of organisms detected per sample. Despite the incompleteness of the reference database, nonmetric multidimensional scaling (NMDS) clustering based on the Bray-Curtis dissimilarity metric of sample groups was consistent between MA-GenTA, mWGS, and 16S rRNA data sets. MA-GenTA represents a potentially useful new method for microbiome community profiling based on reference genomes.IMPORTANCE New methods for profiling the microbial communities can create new approaches to understanding the composition and function of those communities. In this study, we combined bacterial genome-specific probe design with a highly multiplexed single primer extension reaction as a new method to profile microbial communities, using stool from various mouse strains as a test case. This method, termed MA-GenTA, was benchmarked against 16S rRNA gene sequencing and metagenome sequencing methods and delivered similar relative abundance and clustering data. Since the probes were generated from reference genomes, MA-GenTA was also able to provide functional pathway data for the stool microbiome in the assayed samples. The method is more informative than 16S rRNA analysis while being less costly than metagenome shotgun sequencing.
 
 [Source](https://msphere.asm.org/content/msph/6/2/e01325-20.full.pdf)
 
+10.1128/mSphere.01325-20
+
 ---
 
-## Microbial ACBP/DBI-like genes are rare in the human gut microbiome and show no links with obesity
+## Microbial ACBP/DBI-like genes are rare in the human gut microbiome and show no links with obesity.
+ 10.04.2021, _AM Thomas, F Asnicar, G Kroemer, N Segata_
+
+
+Acyl coenzyme A (CoA) binding protein (ACBP), also called diazepam-binding inhibitor (DBI) is a phylogenetically conserved protein that is expressed by all eukaryotic species as well as by some bacteria. Since elevated ACBP/DBI levels play a major role in the inhibition of autophagy, increase in appetite and lipoanabolism that accompany obesity, we wondered whether ACBP/DBI produced by the human microbiome might affect host weight. We found that the genomes of bacterial commensals rarely contain ACBP/DBI homologues, which are rather encoded by genomes of some pathogenic or environmental taxa that were not prevalent in human feces. Exhaustive bioinformatic analyses of 1,899 gut samples from healthy individuals refuted the hypothesis that bacterial ACBP/DBI might affect the BMI in a physiological context. Thus, the physiological regulation of BMI is unlikely to be affected by microbial ACBP/DBI-like proteins. However, at the speculative level, it remains possible that ACBP/DBI produced by potential pathogenic bacteria might enhance their virulence by inhibiting autophagy and hence subverting innate immune responses.ImportanceAcyl coenzyme A (CoA) binding protein (ACBP) can be encoded by several organisms across the domains of life, including microbes, and has shown to play major roles in human metabolic processes. However, little is known about its presence in the human gut microbiome and whether its microbial counterpart could also play a role in human metabolism. In the present study, we found that microbial ACBP/DBI sequences were rarely present in the gut microbiome across multiple metagenomic datasets. Microbes that carried ACBP/DBI in the human gut microbiome included Saccharomyces cerevisiae, Lautropia mirabilis and Comamonas kerstersii, but these microorganisms were not associated with body-mass index, further indicating an unconvincing role for microbial ACBP/DBI in human metabolism.
 
 [Source](https://aem.asm.org/content/early/2021/04/05/AEM.00471-21)
+
+10.1128/AEM.00471-21
 
 ---
 
@@ -95,9 +125,15 @@ Bacillus cereus is widely distributed in the environment and is responsible for 
 
 ---
 
-## The human urobiome
+## The human urobiome.
+ 02.03.2021, _L Brubaker, C Putonti, Q Dong, AJ Wolfe_
+
+
+Traditionally, the healthy urinary bladder has been considered to be sterile. Several teams have used metagenomic (DNA-dependent) and metaculturomic (culture-dependent) methods to debunk this longstanding dogma. In fact, resident microbial communities (urobiome) have been detected in both adult females and males. Although the field is young, several observations have been made. For example, the urobiome differs between men and women, likely due to anatomical and hormonal differences. Importantly, the urobiome has been associated with a variety of lower urinary tract disorders, including overactive bladder and post-operative urinary tract infection, raising the possibility that clinicians might one day treat symptoms by modifying the urobiome instead of killing the suspected uropathogen. Little is known concerning the relationship between the urobiome and host genetics; so far, only a single paper has reported such a study. However, major efforts have gone into understanding the genomics of the urobiome itself, a process facilitated by the fact that many urobiome studies have used metaculturomic methods to detect and identify microbes. In this narrative review, we will introduce the urobiome with separate sections on the female and male urobiomes, discuss challenges specific to the urobiome, describe newly discovered associations between the urobiome and lower urinary tract symptoms, and highlight the one study that has attempted to relate host genetics and the urobiome. We will finish with a section on how metagenomic surveys and whole genome sequencing of bacterial isolates are improving our understanding of the urobiome and its relationship to lower urinary tract health and disorders.
 
 [Source](https://link.springer.com/article/10.1007/s00335-021-09862-8)
+
+10.1007/s00335-021-09862-8
 
 ---
 
@@ -245,6 +281,18 @@ Microorganisms play crucial roles in water recycling, pollution removal and reso
 
 ---
 
+## First reports of Phytophthora ramorum clonal lineages NA1 and EU1 causing Sudden Oak Death on tanoaks in Del Norte County, California.
+ 19.01.2021, _M Garbelotto, F Dovana, D Schmidt, C Chee, C Lee, V Fieland, NJ Grünwald, Y Valachovic_
+
+
+A year of forest health surveys has led to the first detection of Phytophthora ramorum in Del Norte County followed by the first wildland detection of the EU1 clonal lineage (Grunwald et al. 2009) of this pathogen in California. In July 2019, leaves were sampled from two tanoaks (Notholithocarpus densiflorus) and 16 California bay laurels (Umbellularia californica) in Jedediah Smith State Park in Del Norte County, the northernmost coastal County of California. Leaves displayed lesions normally associated with Sudden Oak Death (SOD) caused by P. ramorum and were discovered during the citizen science-based survey known as SOD Blitz (Meentemeyer et al. 2015). Samples were surface sterilized using 75% Ethanol and plated on PARPH-V8 agar (Jeffers and Martin 1986). After plating, DNA was extracted and amplified using two P. ramorum-specific assays (Hayden et al. 2006, Kroon et al. 2004). Leaves from two tanoaks exhibiting twig die-back had typical SOD lesions along the midvein, gave positive PCR results and yielded cultures with colony morphology, sporangia and chlamydospores typical of the NA1 lineage of P. ramorum originally isolated in California from tanoaks and coast live oaks (Quercus agrifolia) (Rizzo et al. 2002). The ITS locus and a portion of the Cox-1 locus were sequenced from DNA extracts of each culture using primers DC6-ITS4 (Bonants et al. 2004) and COXF4N-COXR4N (Kroon et al. 2004), respectively. ITS sequences (GB MN540639-40) were typical of P. ramorum and Cox-1 sequences (GB MN540142-3) perfectly matched the Cox-1 sequence of the NA1 lineage (GB DQ832718) (Kroon et al. 2004). Microsatellite alleles were generated as described in Croucher et al. (2013) for the two Del Norte cultures and for eight P. ramorum cultures, representative of the four main multilocus genotypes (MLGs) present in California, namely c1 (Santa Cruz/Commercial Nurseries), c3 (San Francisco Bay Area), c2 (Monterey County), and c4 (Humboldt County) (Croucher et al. 2013). The two Del Norte MLGs were identical to one another and most similar to MLG c1, with a single repeat difference at a single locus. SSR results suggest the inoculum source may not be from Humboldt County, neighboring to the South, but from a yet unidentified outbreak, possibly associated with ornamental plants. Jedediah Smith State Park was surveyed for 12 months following the initial detection, however the pathogen has yet to be re-isolated in that location. In July 2020, SOD symptomatic leaves from two tanoak trees exhibiting twig cankers were collected 8 Km north of Jedediah Smith State Park, where three additional tanoak trees displayed rapidly browned dead canopies consistent with late stage SOD. Leaves were processed as above. Colonies from these samples produced chlamydospores and sporangia typical of P. ramorum on PARPH-V8 agar, but displayed a growth rate faster than that of NA1 genotypes and were characterized by aerial hyphae, overall resembling the morphology of EU1 lineage colonies (Brasier 2003). The EU1 lineage was confirmed by the perfect match of the sequence of a portion of the Cox-1 gene (GB MW349116-7) with the Cox-1 sequence of EU1 genotypes (GB EU124926). The EU1 clonal lineage has been previously isolated from tanoaks in Oregon forests, approximately 55 Km to the North (Grünwald et al. 2016), but this is the first report for California wildlands and will require containment and government regulations. It is unknown whether the EU1 strains in Del Norte County originated from Oregon forests or elsewhere.
+
+[Source](https://www.eventbrite.com/e/berkeley-lab-live-science-exploring-earth-tickets-150785558665)
+
+10.1094/PDIS-12-20-2633-PDN
+
+---
+
 ## Berkeley Lab Live Science
 
 [Source](https://www.eventbrite.com/e/berkeley-lab-live-science-exploring-earth-tickets-150785558665)
@@ -254,6 +302,18 @@ Microorganisms play crucial roles in water recycling, pollution removal and reso
 ## ISAPP 2021 Virtual Annual Meeting 
 
 [Source](https://isappscience.org/for-scientists/annual-meeting/2021-annual-meeting-open-registration/)
+
+---
+
+## Online incidental statistical learning of audiovisual word sequences in adults: a registered report.
+ 01.10.2020, _S Kuppuraj, M Duta, P Thompson, D Bishop_
+
+
+Statistical learning has been proposed as a key mechanism in language learning. Our main goal was to examine whether adults are capable of simultaneously extracting statistical dependencies in a task where stimuli include a range of structures amenable to statistical learning within a single paradigm. We devised an online statistical learning task using real word auditory-picture sequences that vary in two dimensions: (i) predictability and (ii) adjacency of dependent elements. This task was followed by an offline recall task to probe learning of each sequence type. We registered three hypotheses with specific predictions. First, adults would extract regular patterns from continuous stream (effect of grammaticality). Second, within grammatical conditions, they would show differential speeding up for each condition as a factor of statistical complexity of the condition and exposure. Third, our novel approach to measure online statistical learning would be reliable in showing individual differences in statistical learning ability. Further, we explored the relation between statistical learning and a measure of verbal short-term memory (STM). Forty-two participants were tested and retested after an interval of at least 3 days on our novel statistical learning task. We analysed the reaction time data using a novel regression discontinuity approach. Consistent with prediction, participants showed a grammaticality effect, agreeing with the predicted order of difficulty for learning different statistical structures. Furthermore, a learning index from the task showed acceptable test-retest reliability (r = 0.67). However, STM did not correlate with statistical learning. We discuss the findings noting the benefits of online measures in tracking the learning process.
+
+[Source](https://www.wvbauer.com/doku.php/live_streams)
+
+10.1098/rsos.171678
 
 ---
 
