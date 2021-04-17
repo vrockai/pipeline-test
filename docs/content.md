@@ -203,9 +203,15 @@ Acyl coenzyme A (CoA) binding protein (ACBP), also called diazepam-binding inhib
 
 ---
 
-## Connecting structure to function with the recovery of over 1000 high-quality metagenome-assembled genomes from activated sludge using long-read sequencing
+## Connecting structure to function with the recovery of over 1000 high-quality metagenome-assembled genomes from activated sludge using long-read sequencing.
+ 06.04.2021, _CM Singleton, F Petriglieri, JM Kristensen, RH Kirkegaard, TY Michaelsen, MH Andersen, Z Kondrotaite, SM Karst, MS Dueholm, PH Nielsen, M Albertsen_
+
+
+Microorganisms play crucial roles in water recycling, pollution removal and resource recovery in the wastewater industry. The structure of these microbial communities is increasingly understood based on 16S rRNA amplicon sequencing data. However, such data cannot be linked to functional potential in the absence of high-quality metagenome-assembled genomes (MAGs) for nearly all species. Here, we use long-read and short-read sequencing to recover 1083 high-quality MAGs, including 57 closed circular genomes, from 23 Danish full-scale wastewater treatment plants. The MAGs account for ~30% of the community based on relative abundance, and meet the stringent MIMAG high-quality draft requirements including full-length rRNA genes. We use the information provided by these MAGs in combination with &gt;13 years of 16S rRNA amplicon sequencing data, as well as Raman microspectroscopy and fluorescence in situ hybridisation, to uncover abundant undescribed lineages belonging to important functional groups.
 
 [Source](https://www.nature.com/articles/s41467-021-22203-2)
+
+10.1038/s41467-021-22203-2
 
 ---
 
