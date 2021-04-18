@@ -41,18 +41,6 @@ Bacillus cereus is widely distributed in the environment and is responsible for 
 
 ---
 
-## In situ novel environment assay reveals acoustic exploration as a repeatable behavioral response in migratory bats.
- 17.04.2021, _T Schabacker, O Lindecke, S Rizzi, L Marggraf, G Pētersons, CC Voigt, L Snijders_
-
-
-Integrating information on species-specific sensory perception with spatial activity provides a high-resolution understanding of how animals explore environments, yet frequently used exploration assays commonly ignore sensory acquisition as a measure for exploration. Echolocation is an active sensing system used by hundreds of mammal species, primarily bats. As echolocation call activity can be reliably quantified, bats present an excellent model system to investigate intraspecific variation in environmental cue sampling. Here, we developed an in situ roost-like novel environment assay for tree-roosting bats. We repeatedly tested 52 individuals of the migratory bat species, Pipistrellus nathusii, across 24 h, to examine the role of echolocation when crawling through a maze-type arena and test for consistent intraspecific variation in sensory-based exploration. We reveal a strong correlation between echolocation call activity and spatial activity. Moreover, we show that during the exploration of the maze, individuals consistently differed in spatial activity as well as echolocation call activity, given their spatial activity, a behavioral response we term 'acoustic exploration'. Acoustic exploration was correlated with other exploratory behaviors, but not with emergence latency. We here present a relevant new measure for exploration behavior and provide evidence for consistent (short-term) intra-specific variation in the level at which wild bats collect information from a novel environment.
-
-[Source](https://nsurp.org/)
-
-10.1038/s41598-021-87588-y
-
----
-
 ## <strong>OPEN #NSURP2021 CALL</strong>
 
 [Source](https://nsurp.org/)
@@ -60,38 +48,20 @@ Integrating information on species-specific sensory perception with spatial acti
 ---
 
 ## Microbiome research in general and business newspapers: How many microbiome articles are published and which study designs make the news the most?
- 12.04.2021, _A Prados-Bo, G Casino_
-
-
-The microbiome is a matter of interest for science, consumers and business. Our objective is to quantify that interest in academic journals and newspapers, both quantitatively and by study design. We calculated the number of articles on the microbiome from the total number of biomedicine articles featured in both PubMed and Spanish science news agency SINC, from 2008 to 2018. We used the Factiva database to identify news stories on microbiome papers in three general newspapers (The New York Times, The Times and El País) and three business newspapers (The Wall Street Journal, the Financial Times and Expansión), from 2007 to 2019. Then, we compared news stories with microbiome papers in PubMed, while also analyzing the frequencies of five study design types, both in the newspapers and in the papers themselves. Microbiome papers represented 0.8% of biomedicine papers in PubMed from 2008 to 2018 (increasing from 0.4% to 1.4%), while microbiome news published by SINC represented 1.6% of total biomedical news stories during the same period (increasing from 0.2% to 2.2%). The number of news stories on microbiome papers correlated with the number of microbiome papers (0.91, p &lt; 0.001) featured in general newspapers, but not in business ones. News stories on microbiome papers represented 78.9% and 42.7% of all microbiome articles in general and business newspapers, respectively. Both media outlet types tended to over-report observational studies in humans while under-reporting environmental studies, while the representation of systematic reviews of randomized controlled trials, randomized controlled trials and animal/laboratory studies was similar when comparing newspapers and PubMed. The microbiome is receiving increasing attention in academic journals and newspapers. News stories on the microbiome in general and business newspapers are mostly based on research findings and are more interested in observational studies in humans and less in environmental studies compared to PubMed.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249835)
 
-10.1371/journal.pone.0249835
-
 ---
 
-## Prokaryotic taxonomy and nomenclature in the age of big sequence data.
- 07.04.2021, _P Hugenholtz, M Chuvochina, A Oren, DH Parks, RM Soo_
-
-
-The classification of life forms into a hierarchical system (taxonomy) and the application of names to this hierarchy (nomenclature) is at a turning point in microbiology. The unprecedented availability of genome sequences means that a taxonomy can be built upon a comprehensive evolutionary framework, a longstanding goal of taxonomists. However, there is resistance to adopting a single framework to preserve taxonomic freedom, and ever increasing numbers of genomes derived from uncultured prokaryotes threaten to overwhelm current nomenclatural practices, which are based on characterised isolates. The challenge ahead then is to reach a consensus on the taxonomic framework and to adapt and scale the existing nomenclatural code, or create a new code, to systematically incorporate uncultured taxa into the chosen framework.
+## Prokaryotic taxonomy and nomenclature in the age of big sequence data
 
 [Source](https://www.nature.com/articles/s41396-021-00941-x)
 
-10.1038/s41396-021-00941-x
-
 ---
 
-## The metabolic network of the last bacterial common ancestor.
- 17.04.2021, _JC Xavier, RE Gerhards, JLE Wimmer, J Brueckner, FDK Tria, WF Martin_
-
-
-Bacteria are the most abundant cells on Earth. They are generally regarded as ancient, but due to striking diversity in their metabolic capacities and widespread lateral gene transfer, the physiology of the first bacteria is unknown. From 1089 reference genomes of bacterial anaerobes, we identified 146 protein families that trace to the last bacterial common ancestor, LBCA, and form the conserved predicted core of its metabolic network, which requires only nine genes to encompass all universal metabolites. Our results indicate that LBCA performed gluconeogenesis towards cell wall synthesis, and had numerous RNA modifications and multifunctional enzymes that permitted life with low gene content. In accordance with recent findings for LUCA and LACA, analyses of thousands of individual gene trees indicate that LBCA was rod-shaped and the first lineage to diverge from the ancestral bacterial stem was most similar to modern Clostridia, followed by other autotrophs that harbor the acetyl-CoA pathway.
+## The metabolic network of the last bacterial common ancestor
 
 [Source](https://www.nature.com/articles/s42003-021-01918-4)
-
-10.1038/s42003-021-01918-4
 
 ---
 
@@ -101,27 +71,15 @@ Bacteria are the most abundant cells on Earth. They are generally regarded as an
 
 ---
 
-## Genome-Based Targeted Sequencing as a Reproducible Microbial Community Profiling Assay.
- 08.04.2021, _J Benjamino, B Leopold, D Phillips, MD Adams_
-
-
-Current sequencing-based methods for profiling microbial communities rely on marker gene (e.g., 16S rRNA) or metagenome shotgun sequencing (mWGS) analysis. We present an approach based on a single-primer extension reaction using a highly multiplexed oligonucleotide probe pool. This approach, termed MA-GenTA (microbial abundances from genome tagged analysis), enables quantitative, straightforward, cost-effective microbiome profiling that combines desirable features of both 16S rRNA and mWGS strategies. The use of multiple probes per target genome and rigorous probe design criteria enabled robust determination of relative abundance. To test the utility of the MA-GenTA assay, probes were designed for 830 genome sequences representing bacteria present in mouse stool specimens. Comparison of the MA-GenTA data with mWGS data demonstrated excellent correlation down to 0.01% relative abundance and a similar number of organisms detected per sample. Despite the incompleteness of the reference database, nonmetric multidimensional scaling (NMDS) clustering based on the Bray-Curtis dissimilarity metric of sample groups was consistent between MA-GenTA, mWGS, and 16S rRNA data sets. MA-GenTA represents a potentially useful new method for microbiome community profiling based on reference genomes.IMPORTANCE New methods for profiling the microbial communities can create new approaches to understanding the composition and function of those communities. In this study, we combined bacterial genome-specific probe design with a highly multiplexed single primer extension reaction as a new method to profile microbial communities, using stool from various mouse strains as a test case. This method, termed MA-GenTA, was benchmarked against 16S rRNA gene sequencing and metagenome sequencing methods and delivered similar relative abundance and clustering data. Since the probes were generated from reference genomes, MA-GenTA was also able to provide functional pathway data for the stool microbiome in the assayed samples. The method is more informative than 16S rRNA analysis while being less costly than metagenome shotgun sequencing.
+## Genome-Based Targeted Sequencing as a Reproducible Microbial Community Profiling Assay 
 
 [Source](https://msphere.asm.org/content/msph/6/2/e01325-20.full.pdf)
 
-10.1128/mSphere.01325-20
-
 ---
 
-## Microbial ACBP/DBI-like genes are rare in the human gut microbiome and show no links with obesity.
- 10.04.2021, _AM Thomas, F Asnicar, G Kroemer, N Segata_
-
-
-Acyl coenzyme A (CoA) binding protein (ACBP), also called diazepam-binding inhibitor (DBI) is a phylogenetically conserved protein that is expressed by all eukaryotic species as well as by some bacteria. Since elevated ACBP/DBI levels play a major role in the inhibition of autophagy, increase in appetite and lipoanabolism that accompany obesity, we wondered whether ACBP/DBI produced by the human microbiome might affect host weight. We found that the genomes of bacterial commensals rarely contain ACBP/DBI homologues, which are rather encoded by genomes of some pathogenic or environmental taxa that were not prevalent in human feces. Exhaustive bioinformatic analyses of 1,899 gut samples from healthy individuals refuted the hypothesis that bacterial ACBP/DBI might affect the BMI in a physiological context. Thus, the physiological regulation of BMI is unlikely to be affected by microbial ACBP/DBI-like proteins. However, at the speculative level, it remains possible that ACBP/DBI produced by potential pathogenic bacteria might enhance their virulence by inhibiting autophagy and hence subverting innate immune responses.ImportanceAcyl coenzyme A (CoA) binding protein (ACBP) can be encoded by several organisms across the domains of life, including microbes, and has shown to play major roles in human metabolic processes. However, little is known about its presence in the human gut microbiome and whether its microbial counterpart could also play a role in human metabolism. In the present study, we found that microbial ACBP/DBI sequences were rarely present in the gut microbiome across multiple metagenomic datasets. Microbes that carried ACBP/DBI in the human gut microbiome included Saccharomyces cerevisiae, Lautropia mirabilis and Comamonas kerstersii, but these microorganisms were not associated with body-mass index, further indicating an unconvincing role for microbial ACBP/DBI in human metabolism.
+## Microbial ACBP/DBI-like genes are rare in the human gut microbiome and show no links with obesity
 
 [Source](https://aem.asm.org/content/early/2021/04/05/AEM.00471-21)
-
-10.1128/AEM.00471-21
 
 ---
 
@@ -203,9 +161,15 @@ Acyl coenzyme A (CoA) binding protein (ACBP), also called diazepam-binding inhib
 
 ---
 
-## Connecting structure to function with the recovery of over 1000 high-quality metagenome-assembled genomes from activated sludge using long-read sequencing
+## Connecting structure to function with the recovery of over 1000 high-quality metagenome-assembled genomes from activated sludge using long-read sequencing.
+ 06.04.2021, _CM Singleton, F Petriglieri, JM Kristensen, RH Kirkegaard, TY Michaelsen, MH Andersen, Z Kondrotaite, SM Karst, MS Dueholm, PH Nielsen, M Albertsen_
+
+
+Microorganisms play crucial roles in water recycling, pollution removal and resource recovery in the wastewater industry. The structure of these microbial communities is increasingly understood based on 16S rRNA amplicon sequencing data. However, such data cannot be linked to functional potential in the absence of high-quality metagenome-assembled genomes (MAGs) for nearly all species. Here, we use long-read and short-read sequencing to recover 1083 high-quality MAGs, including 57 closed circular genomes, from 23 Danish full-scale wastewater treatment plants. The MAGs account for ~30% of the community based on relative abundance, and meet the stringent MIMAG high-quality draft requirements including full-length rRNA genes. We use the information provided by these MAGs in combination with &gt;13 years of 16S rRNA amplicon sequencing data, as well as Raman microspectroscopy and fluorescence in situ hybridisation, to uncover abundant undescribed lineages belonging to important functional groups.
 
 [Source](https://www.nature.com/articles/s41467-021-22203-2)
+
+10.1038/s41467-021-22203-2
 
 ---
 
@@ -215,9 +179,27 @@ Acyl coenzyme A (CoA) binding protein (ACBP), also called diazepam-binding inhib
 
 ---
 
-## Democratising deep learning for microscopy with ZeroCostDL4Mic
+## Democratising deep learning for microscopy with ZeroCostDL4Mic.
+ 16.04.2021, _L von Chamier, RF Laine, J Jukkala, C Spahn, D Krentzel, E Nehme, M Lerche, S Hernández-Pérez, PK Mattila, E Karinou, S Holden, AC Solak, A Krull, TO Buchholz, ML Jones, LA Royer, C Leterrier, Y Shechtman, F Jug, M Heilemann, G Jacquemet, R Henriques_
+
+
+Deep Learning (DL) methods are powerful analytical tools for microscopy and can outperform conventional image processing pipelines. Despite the enthusiasm and innovations fuelled by DL technology, the need to access powerful and compatible resources to train DL networks leads to an accessibility barrier that novice users often find difficult to overcome. Here, we present ZeroCostDL4Mic, an entry-level platform simplifying DL access by leveraging the free, cloud-based computational resources of Google Colab. ZeroCostDL4Mic allows researchers with no coding expertise to train and apply key DL networks to perform tasks including segmentation (using U-Net and StarDist), object detection (using YOLOv2), denoising (using CARE and Noise2Void), super-resolution microscopy (using Deep-STORM), and image-to-image translation (using Label-free prediction - fnet, pix2pix and CycleGAN). Importantly, we provide suitable quantitative tools for each network to evaluate model performance, allowing model optimisation. We demonstrate the application of the platform to study multiple biological processes.
 
 [Source](https://www.nature.com/articles/s41467-021-22518-0)
+
+10.1038/s41467-021-22518-0
+
+---
+
+## Derivation of Induced Pluripotent Stem Cell (iPSC) Lines from Patient-Specific Peripheral Blood Mononuclear Cells (PBMC) Using Episomal Vectors.
+ 27.03.2021, _VBR Konala, S Nandakumar, H Surendran, R Pal_
+
+
+Inherited retinal diseases (IRDs) are a diverse group of rare eye disorders, resulting in vision loss or blindness. The underlying reason is mutation in one or more than 250 different genes associated with the development and normal physiology of retina largely comprising of rod/cone photoreceptors and retinal pigment epithelium. Interestingly, the sub retinal region of an eye has been shown to be immune privileged, broadening the scope of cell-replacement therapies for patients suffering from retinal degeneration. Several groups around the globe, including ours, have demonstrated safety and efficacy in preclinical studies by employing various approaches of retinal cell therapy. This had largely been possible with the advent of induced pluripotent stem cells (iPSC)-reprogrammed from adult somatic cells, that serves as a starting material for generating retinal cells de novo. Here, we describe a detailed procedure for reprogramming peripheral blood mononuclear cells (PBMC) into iPSC using episomal vectors without any physical disruption in the host genome. The lines thus created were tested for sterility, cytogenetic stability, identity, absence of episomal plasmids and further authenticated for pluripotency and tri-lineage differentiation capacity by embryoid body formation and immunocytochemistry. We believe that this feeder-cell free, animal-product free and gene-insertion free protocol would help people to develop and bank patient-specific cell lines for autologous cell therapies for incurable rare diseases.
+
+[Source](http://www.plasmidbiologysociety.org/plasmids-around-the-globe-2021/)
+
+10.1007/7651_2021_385
 
 ---
 
