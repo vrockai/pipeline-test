@@ -5,7 +5,7 @@
 ---
 
 ## A Microbiota-Directed Food Intervention for Undernourished Children.
- 11.04.2021, _RY Chen, I Mostafa, MC Hibberd, S Das, M Mahfuz, NN Naila, MM Islam, S Huq, MA Alam, MU Zaman, AS Raman, D Webber, C Zhou, V Sundaresan, K Ahsan, MF Meier, MJ Barratt, T Ahmed, JI Gordon_
+ 21.04.2021, _RY Chen, I Mostafa, MC Hibberd, S Das, M Mahfuz, NN Naila, MM Islam, S Huq, MA Alam, MU Zaman, AS Raman, D Webber, C Zhou, V Sundaresan, K Ahsan, MF Meier, MJ Barratt, T Ahmed, JI Gordon_
 
 
 More than 30 million children worldwide have moderate acute malnutrition. Current treatments have limited effectiveness, and much remains unknown about the pathogenesis of this condition. Children with moderate acute malnutrition have perturbed development of their gut microbiota.
@@ -124,15 +124,9 @@ The health benefits of carefully restricting the energy intake in a strategic ma
 
 ---
 
-## Microbiome reduction and endosymbiont gain from a switch in sea urchin life history.
- 15.04.2021, _TJ Carrier, BA Leigh, DJ Deaker, HR Devens, GA Wray, SR Bordenstein, M Byrne, AM Reitzel_
-
-
-Animal gastrointestinal tracts harbor a microbiome that is integral to host function, yet species from diverse phyla have evolved a reduced digestive system or lost it completely. Whether such changes are associated with alterations in the diversity and/or abundance of the microbiome remains an untested hypothesis in evolutionary symbiosis. Here, using the life history transition from planktotrophy (feeding) to lecithotrophy (nonfeeding) in the sea urchin Heliocidaris, we demonstrate that the lack of a functional gut corresponds with a reduction in microbial community diversity and abundance as well as the association with a diet-specific microbiome. We also determine that the lecithotroph vertically transmits a Rickettsiales that may complement host nutrition through amino acid biosynthesis and influence host reproduction. Our results indicate that the evolutionary loss of a functional gut correlates with a reduction in the microbiome and the association with an endosymbiont. Symbiotic transitions can therefore accompany life history transitions in the evolution of developmental strategies.
+## Microbiome reduction and endosymbiont gain from a switch in sea urchin life history
 
 [Source](https://www.pnas.org/content/118/16/e2022023118)
-
-10.1073/pnas.2022023118
 
 ---
 
@@ -142,27 +136,9 @@ Animal gastrointestinal tracts harbor a microbiome that is integral to host func
 
 ---
 
-## Diversity structure of the microbial communities in the guts of four neotropical termite species.
- 19.04.2021, _S Vikram, JD Arneodo, J Calcagno, M Ortiz, ML Mon, C Etcheverry, DA Cowan, P Talia_
-
-
-The termite gut microbiome is dominated by lignocellulose degrading microorganisms. This study describes the intestinal microbiota of four Argentinian higher termite species with different feeding habits: Microcerotermes strunckii (hardwood), Nasutitermes corniger (softwood), Termes riograndensis (soil organic matter/grass) and Cornitermes cumulans (grass) by deep sequencing of amplified 16S rRNA and ITS genes. In addition, we have performed a taxonomic and gut community structure comparison incorporating into the analysis the previously reported microbiomes of additional termite species with varied diets. The bacterial phylum Spirochaetes was dominant in the guts of M. strunckii, N. corniger and C. cumulans, whereas Firmicutes predominated in the T. riograndensis gut microbiome. A single bacterial genus, Treponema (Spirochaetes), was dominant in all termite species, except for T. riograndensis. Both in our own sequenced samples and in the broader comparison, prokaryotic α-diversity was higher in the soil/grass feeders than in the wood feeders. Meanwhile, the β-diversity of prokaryotes and fungi was highly dissimilar among strict wood-feeders, whereas that of soil- and grass-feeders grouped more closely. Ascomycota and Basidiomycota were the only fungal phyla that could be identified in all gut samples, because of the lack of reference sequences in public databases. In summary, higher microbial diversity was recorded in termites with more versatile feeding sources, providing further evidence that diet, along with other factors (e.g., host taxonomy), influences the microbial community assembly in the termite gut.
+## Diversity structure of the microbial communities in the guts of four neotropical termite species
 
 [Source](https://peerj.com/articles/10959/)
-
-10.7717/peerj.10959
-
----
-
-## Effect of antibiotic-induced intestinal dysbacteriosis on bronchopulmonary dysplasia and related mechanisms.
- 20.04.2021, _X Ran, Y He, Q Ai, Y Shi_
-
-
-Modification of the gut microbiota by antibiotics may influence the disease susceptibility and immunological responses. Infants in the neonatal intensive care unit (NICU) subjected to frequent antibiotics and oxygen therapies, which may give rise to local and systemic inflammatory reactions and progression of bronchopulmonary dysplasia (BPD). This study aimed to investigate the role of intestinal dysbacteriosis by antibiotic therapy before hyperoxia exposure in the progression of BPD.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/jeb.13791)
-
-10.1186/s12967-021-02794-6
 
 ---
 
@@ -172,15 +148,9 @@ Modification of the gut microbiota by antibiotics may influence the disease susc
 
 ---
 
-## The effects of vegetable pickling conditions on the dynamics of microbiota and metabolites.
- 19.04.2021, _K Sawada, H Koyano, N Yamamoto, T Yamada_
-
-
-Salting is a traditional procedure for producing pickled vegetables. Salting can be used as a pretreatment, for safe lactic acid fermentation and for salt stock preparation. This study aimed to provide valuable knowledge to improve pickle production by investigating the dynamics of microbiota and metabolites during the pretreatment and salt stock preparation processes, which have previously been overlooked. The differences in these process conditions would be expected to change the microbiota and consequently influence the content of metabolites in pickles.
+## The effects of vegetable pickling conditions on the dynamics of microbiota and metabolites
 
 [Source](https://peerj.com/articles/11123/)
-
-10.7717/peerj.11123
 
 ---
 
