@@ -5,7 +5,7 @@
 ---
 
 ## A Microbiota-Directed Food Intervention for Undernourished Children.
- 21.04.2021, _RY Chen, I Mostafa, MC Hibberd, S Das, M Mahfuz, NN Naila, MM Islam, S Huq, MA Alam, MU Zaman, AS Raman, D Webber, C Zhou, V Sundaresan, K Ahsan, MF Meier, MJ Barratt, T Ahmed, JI Gordon_
+ 22.04.2021, _RY Chen, I Mostafa, MC Hibberd, S Das, M Mahfuz, NN Naila, MM Islam, S Huq, MA Alam, MU Zaman, AS Raman, D Webber, C Zhou, V Sundaresan, K Ahsan, MF Meier, MJ Barratt, T Ahmed, JI Gordon_
 
 
 More than 30 million children worldwide have moderate acute malnutrition. Current treatments have limited effectiveness, and much remains unknown about the pathogenesis of this condition. Children with moderate acute malnutrition have perturbed development of their gut microbiota.
@@ -89,7 +89,7 @@ Regulation of emotions is generally associated exclusively with the brain. Howev
 ---
 
 ## The gut microbiota is associated with clinical response to statin treatment in patients with coronary artery disease.
- 20.04.2021, _L Wang, W Zhou, M Guo, Y Hua, B Zhou, X Li, X Zhang, J Dong, X Yang, Y Wang, Y Wu, J She, J Mu_
+ 22.04.2021, _L Wang, W Zhou, M Guo, Y Hua, B Zhou, X Li, X Zhang, J Dong, X Yang, Y Wang, Y Wu, J She, J Mu_
 
 
 The structure and composition of the gut microbiota influence patients' response to therapeutic interventions. It is also known that the response to statin treatment can vary greatly from one patient to another, suggesting a possible connection between microbiome composition and response to statins. In the present study, we aim to explore the influence of the microbiome composition on the response to statin treatment among patients with coronary artery disease (CAD).
@@ -101,7 +101,7 @@ The structure and composition of the gut microbiota influence patients' response
 ---
 
 ## Dietary restrictions modulate the gut microbiota: Implications for health and disease.
- 20.04.2021, _NS Schmidt, A Lorentz_
+ 22.04.2021, _NS Schmidt, A Lorentz_
 
 
 The health benefits of carefully restricting the energy intake in a strategic manner whilst avoiding malnutrition are widely discussed. In the recent years, the great impact of the gut microbiota on its host has been clarified more and more. Since the gut microbiota produces a number of metabolites and molecules that can affect host metabolism, modulating it with dietary restriction can influence the health and the progression of disease of its host on various levels. This review comprises 15 studies investigating the effect of different variants of fasting and caloric restriction on the gastrointestinal microbiome and its metabolites. The data suggest that changing the gut microbiota composition by dietary restriction has the potential to positively influence the progression of several diseases such as obesity, diabetes, neurological diseases or inflammatory bowel disease. Finally, the relevance of the findings for clinical practice is evaluated and approaches for future research are proposed.
