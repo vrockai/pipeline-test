@@ -136,9 +136,15 @@ The microbiome plays a fundamental role in the maturation, function, and regulat
 
 ---
 
-## Supervised extraction of near-complete genomes from metagenomic samples: A new service in PATRIC
+## Supervised extraction of near-complete genomes from metagenomic samples: A new service in PATRIC.
+ 22.04.2021, _B Parrello, R Butler, P Chlenski, GD Pusch, R Overbeek_
+
+
+Large amounts of metagenomically-derived data are submitted to PATRIC for analysis. In the future, we expect even more jobs submitted to PATRIC will use metagenomic data. One in-demand use case is the extraction of near-complete draft genomes from assembled contigs of metagenomic origin. The PATRIC metagenome binning service utilizes the PATRIC database to furnish a large, diverse set of reference genomes. We provide a new service for supervised extraction and annotation of high-quality, near-complete genomes from metagenomically-derived contigs. Reference genomes are assigned to putative draft genome bins based on the presence of single-copy universal marker roles in the sample, and contigs are sorted into these bins by their similarity to reference genomes in PATRIC. Each set of binned contigs represents a draft genome that will be annotated by RASTtk in PATRIC. A structured-language binning report is provided containing quality measurements and taxonomic information about the contig bins. The PATRIC metagenome binning service emphasizes extraction of high-quality genomes for downstream analysis using other PATRIC tools and services. Due to its supervised nature, the binning service is not appropriate for mining novel or extremely low-coverage genomes from metagenomic samples.
 
 [Source](https://doi.org/10.1371/journal.pone.0250092)
+
+10.1371/journal.pone.0250092
 
 ---
 
