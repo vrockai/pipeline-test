@@ -1,102 +1,78 @@
-## Gut microbiota diversity and C-Reactive Protein are predictors of disease severity in COVID-19 patients
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.04.20.440658v1.full)
-
----
-
-## HPV infection and bacterial microbiota in the semen from healthy men.
- 24.04.2021, _H Tuominen, J Rautava, K Kero, S Syrjänen, MC Collado, S Rautava_
+## Spatiotemporal variation in near-surface CH4 concentrations in China over the last two decades.
+ 23.04.2021, _J Xu, Q Liu, K Wang, Q Wang, L Wang, Y Liu, M Li_
 
 
-Aberrant microbiota composition has been linked to disease development at numerous anatomical sites. Microbiota changes in reaction to viral infections, such as human papillomavirus (HPV), have been investigated almost exclusively in the female reproductive tract. However, HPV infection may also affect male health by reducing semen quality and fertility. The aim of this study was to investigate whether present HPV DNA is associated with detectable changes in semen bacterial microbiota composition and diversity.
+Methane is one of the main greenhouse trace gases and seriously affects the radiation balance of Earth systems due to its strong heat absorption capacity and long atmospheric retention time. Based on the methane stratification data simulated by the community atmospheric model with chemistry (CAM-chem), near-surface methane concentrations were estimated by utilizing the Gaussian function, and the spatiotemporal variation in the near-surface methane concentration in China from 2001 to 2019 was discussed in this research. The results show that (1) based on the methane stratification concentration data simulated by the atmospheric chemical model, the near-surface CH4 concentration estimated by Gaussian function model is reliable, which provides a new method to estimate the near-surface CH4 concentration over China; (2) from 2001 to 2019, the near-surface methane concentration in China showed an increasing trend with an annual growth rate of 7.20±0.23 ppb·a-1. The annual maximum near-surface methane concentration was measured in winter, and the minimum was measured in summer; (3) the spatial distribution differences are obvious: the methane concentration in the east was higher than that in the west, and the methane concentration in the north was higher than that in the south. Moreover, the distributions of methane in the east and west are consistent with the division of Hu Huanyong population line.
 
-[Source](https://link.springer.com/article/10.1186/s12879-021-06029-3#Sec2)
+[Source](https://nsurp.org/)
 
-10.1186/s12879-021-06029-3
+10.1007/s11356-021-14007-0
 
 ---
 
-## Gastrointestinal dysfunction in Parkinson's disease: molecular pathology and implications of gut microbiome, probiotics, and fecal microbiota transplantation.
- 21.04.2021, _V Metta, V Leta, KR Mrudula, LK Prashanth, V Goyal, R Borgohain, G Chung-Faye, KR Chaudhuri_
+## National Summer Undergraduate Research Project 
 
-
-Gastrointestinal symptoms and gut dysbiosis may occur before the onset of motor symptoms in Parkinson's disease (PD). Prediagnostic and prodromal features, such as constipation and α-synuclein pathology, can be detected several years before the clinical diagnosis of PD and have the potential to develop as early PD biomarkers. Environmental toxins and gut dysbiosis may trigger oxidative stress and mucosal inflammation, and initiate α-synuclein accumulation in the enteric nervous system, early in PD. Chronic gut inflammation can lead to a leaky gut and systemic inflammation, neuro inflammation, and neuro degeneration via gut-vagus-brain signaling or through blood-brain barrier permeability. Concepts regarding the gut-brain signaling in PD pathogenesis are changing rapidly and more investigation is required. The gut microbiota interacts with the human body by modulating the enteric and central nervous systems, and immune activity. Understanding the immune responses between gut microbiota and human body might help in elucidating the PD pathogenesis. As changes in gut microbiota composition might be associated with different clinical phenotypes of PD, gut microbiota-modulating interventions, such as probiotics and fecal microbiota transplantation (FMT), have the potential to restore the gut dysbiosis, reduce inflammation, and possibly modulate the clinical PD phenotype.
-
-[Source](https://link.springer.com/article/10.1007/s00415-021-10567-w)
-
-10.1007/s00415-021-10567-w
+[Source](https://nsurp.org/)
 
 ---
 
-## Gut flora and metabolism are altered in epilepsy and partially restored after ketogenic diets.
- 24.04.2021, _X Gong, Q Cai, X Liu, D An, D Zhou, R Luo, R Peng, Z Hong_
+## Contrast-enhanced ultrasound using SonoVue mixed with oral gastrointestinal contrast agent to evaluate esophageal hiatal hernia: Report of three cases and a literature review.
+ 24.04.2021, _JY Wang, Y Luo, WY Wang, SC Zheng, L He, CY Xie, L Peng_
 
 
-The aim of this study was to investigate the composition of the intestinal microbiota and its association with fecal short chain fatty acids (SCFAs) in children with drug refractory epilepsy (DRE) before and after treatment with a ketogenic diet (KD).
+Due to a thicker abdominal wall in some patients, ultrasound artifacts from gastrointestinal gas and surrounding tissues can interfere with routine ultrasound examination, precluding its ability to display or clearly show the structure of a hernial sac (HS) and thereby diminishing diagnostic performance for esophageal hiatal hernia (EHH). Contrast-enhanced ultrasound (CEUS) imaging using an oral agent mixture allows for clear and intuitive identification of an EHH sac and dynamic observation of esophageal reflux.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0882401021001716?casa_token=-JpoiVJUym8AAAAA:6J4k1ZkoF7vJ0zfA-JciLGispGR3rdWDli598sngLTh28VBG_m584t7cZojs8YEf77e5vDde4fg#bib4)
+[Source](https://uarizona.co1.qualtrics.com/jfe/form/SV_2bDpGoHem0N5GRw)
 
-10.1016/j.micpath.2021.104899
-
----
-
-## Oral administration of Lactobacillus crispatus M247 to papillomavirus-infected women: results of a preliminary, uncontrolled, open trial
- 22.04.2021, _F Di Pierro, AA Criscuolo, A Dei Giudici, R Senatori, F Sesti, M Ciotti, E Piccione_
-
-
-Vaginal microbiotas can be clustered into five different possible categories (CST I to V), according to their bacterial dominance. In CST I, the dominance of Lactobacillus crispatus seems to correlate with better vaginal health and with a lower incidence of sine causa infertility, preterm delivery, bacterial vaginosis, and viral (including human papillomavirus; HPV) infection. According to the same method of classifying the vaginal microbiome, CST IV (non-Lactobacillusdominated) demonstrates a higher incidence of disorders.
-
-[Source](https://pubmed.ncbi.nlm.nih.gov/33876901/)
-
-10.23736/S2724-606X.21.04752-7
+10.12998/wjcc.v9.i11.2679
 
 ---
 
-## Bugs R Us: Restoring sociability with microbiota in autism
+## Sign up here!
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2666379121000720)
-
----
-
-## Anti-aging effects of a functional food via the action of gut microbiota and metabolites in aging mice.
- 20.04.2021, _J Zhang, Z Chen, H Yu, Y Lu, W Yu, M Miao, H Shi_
-
-
-Wushen (WS) is a mixed food containing 55 natural products that is beneficial to human health. This study aimed to reveal the preventive effect of WS on aging via a combined analysis of gut microbiome and metabolome. Senescence-accelerated mouse prone 8 (SAMP8) mice were used as aging model and senescence-accelerated mouse resistant 1 (SAMR1) mice as control. The mice were fed four diet types; control diet (for SAMR1 mice), standard diet (for SAMP8 mice, as SD group), WS diet, and fecal microbiota transplantation (FMT; transplanted from aging-WS mice). Our results showed that the weight, food intake, neurological function, and general physical conditions significantly improved in WS-fed mice compared to those fed with SD. The CA1 hippocampal region in WS-fed aged mice showed fewer shriveled neurons and increased neuronal layers compared to that of the SD group. WS-fed mice showed a decrease in malondialdehyde and an increase in superoxide dismutase levels in the brain; additionally, IL-6 and TNF-α levels significantly decreased, whereas IL-2 levels and the proportion of lymphocytes, CD3+CD8+ T, and CD4+IFNγ+T cells increased in WS-fed mice. After fed with WS, the abundance of Ruminococcus and Butyrivibrio markedly increased, whereas Lachnoclostridium and Ruminiclostridium significantly decreased in the aging mice. In addition, 887 differentially expressed metabolites were identified in fecal samples, among these, Butyrivibrio was positively correlated with D-glucuronic acid and Ruminococcus was positively associated with 5-acetamidovalerate. These findings provide mechanistic insight into the impact of WS on aging, and WS may be a valuable diet for preventing aging.
-
-[Source](https://www.aging-us.com/article/202873/text)
-
-10.18632/aging.202873
+[Source](https://uarizona.co1.qualtrics.com/jfe/form/SV_2bDpGoHem0N5GRw)
 
 ---
 
-## Dynamics of rumen gene expression, microbiome colonization, and their interplay in goats.
- 24.04.2021, _X Pan, Z Li, B Li, C Zhao, Y Wang, Y Chen, Y Jiang_
+## A panel of diverse <em>Pseudomonas aeruginosa </em>clinical isolates for research and development – Lebreton et al.
 
-
-Preweaned rumen development is vital for animal health and efficient fermentation. In this study, we integrated ruminal transcriptomic and metagenomic data to explore the dynamics of rumen functions, microbial colonization, and their functional interactions during the first 8 weeks of life in goats.
-
-[Source](https://link.springer.com/article/10.1186/s12864-021-07595-1)
-
-10.1186/s12864-021-07595-1
+[Source](https://doi.org/10.1101/2021.04.23.441230)
 
 ---
 
-## Evolution of rumen and oral microbiota in calves is influenced by age and time of weaning.
- 24.04.2021, _N Amin, S Schwarzkopf, A Kinoshita, J Tröscher-Mußotter, S Dänicke, A Camarinha-Silva, K Huber, J Frahm, J Seifert_
+## Diet potentially drives the differentiation of eating behaviours via alterations to the gut microbiome in infants 
 
-
-The rumen bacterial communities are changing dynamically throughout the first year of calf's life including the weaning period as a critical event. Rumen microbiome analysis is often limited to invasive rumen sampling procedures but the oral cavity of ruminants is expected to harbour rumen microbes due to regurgitation activity. The present study used buccal swab samples to define the rumen core microbiome and characterize the shifts in rumen and oral microbial communities occurring as result of calf's age as well as time of weaning.
-
-[Source](https://link.springer.com/article/10.1186/s42523-021-00095-3)
-
-10.1186/s42523-021-00095-3
+[Source](https://doi.org/10.1101/2021.04.24.438478)
 
 ---
 
-## Impacts of wildfire on soil microbiome in Boreal environments
+## An atlas of the tissue and blood metagenome in cancer reveals novel links between bacteria, viruses and cancer 
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2468584421000301)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01039-4)
+
+---
+
+## Transcription of macromolecular N degrading genes provides a window into organic nitrogen decomposition in soil
+
+[Source](https://doi.org/10.1101/2020.12.14.422732)
+
+---
+
+## Microbial biomass, composition, and functions are responsible for the differential removal of trace organic chemicals in biofiltration systems 
+
+[Source](https://doi.org/10.1101/2021.04.22.440850)
+
+---
+
+## Fluoroquinolone-resistant <em>Escherichia coli </em>originating on dairy farms are an infrequent cause of bacteriuria in humans living in the same geographical region
+
+[Source](https://doi.org/10.1101/2021.04.24.441264)
+
+---
+
+## Optimized protocol for Cyanobacterial 16S rRNA analysis in Danube Delta lakes
+
+[Source](https://doi.org/10.1101/2021.04.23.441086)
 
 ---
 
