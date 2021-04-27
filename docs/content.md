@@ -16,18 +16,6 @@ Methane is one of the main greenhouse trace gases and seriously affects the radi
 
 ---
 
-## Contrast-enhanced ultrasound using SonoVue mixed with oral gastrointestinal contrast agent to evaluate esophageal hiatal hernia: Report of three cases and a literature review.
- 24.04.2021, _JY Wang, Y Luo, WY Wang, SC Zheng, L He, CY Xie, L Peng_
-
-
-Due to a thicker abdominal wall in some patients, ultrasound artifacts from gastrointestinal gas and surrounding tissues can interfere with routine ultrasound examination, precluding its ability to display or clearly show the structure of a hernial sac (HS) and thereby diminishing diagnostic performance for esophageal hiatal hernia (EHH). Contrast-enhanced ultrasound (CEUS) imaging using an oral agent mixture allows for clear and intuitive identification of an EHH sac and dynamic observation of esophageal reflux.
-
-[Source](https://uarizona.co1.qualtrics.com/jfe/form/SV_2bDpGoHem0N5GRw)
-
-10.12998/wjcc.v9.i11.2679
-
----
-
 ## Sign up here!
 
 [Source](https://uarizona.co1.qualtrics.com/jfe/form/SV_2bDpGoHem0N5GRw)
