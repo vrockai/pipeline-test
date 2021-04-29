@@ -147,27 +147,15 @@ Environmental impacts of the 1986 Chernobyl Nuclear Power Plant accident are muc
 
 ---
 
-## The microbiome of the Black Sea water column analyzed by shotgun and genome centric metagenomics.
- 27.04.2021, _PJ Cabello-Yeves, C Callieri, A Picazo, M Mehrshad, JM Haro-Moreno, JJ Roda-Garcia, N Dzhembekova, V Slabakova, N Slabakova, S Moncheva, F Rodriguez-Valera_
-
-
-The Black Sea is the largest brackish water body in the world, although it is connected to the Mediterranean Sea and presents an upper water layer similar to some regions of the former, albeit with lower salinity and temperature. Despite its well-known hydrology and physicochemical features, this enormous water mass remains poorly studied at the microbial genomics level.
+## The microbiome of the Black Sea water column analyzed by shotgun and genome centric metagenomics
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-021-00374-1)
 
-10.1186/s40793-021-00374-1
-
 ---
 
-## Obtaining deeper insights into microbiome diversity using a simple method to block host and non-targets in amplicon sequencing.
- 27.04.2021, _T Mayer, A Mari, J Almario, M Murillo-Roos, HSM Abdullah, N Dombrowski, S Hacquard, EM Kemen, MT Agler_
-
-
-Profiling diverse microbiomes is revolutionizing our understanding of biological mechanisms and ecologically relevant problems, including metaorganism (host+microbiome) assembly, functions and adaptation. Amplicon sequencing of multiple conserved, phylogenetically informative loci has therefore become an instrumental tool for many researchers. Investigations in many systems are hindered, however, since essential sequencing depth can be lost by amplification of non-target DNA from hosts or overabundant microorganisms. Here, we introduce "blocking oligos", a low-cost and flexible method using standard oligonucleotides to block amplification of diverse non-targets and software to aid their design. We apply them primarily in leaves, where exceptional challenges with host amplification prevail. A. thaliana-specific blocking oligos applied in eight different target loci reduce undesirable host amplification by up to 90%. To expand applicability, we designed "universal" 16S and 18S rRNA gene plant blocking oligos for targets that are conserved in diverse plant species and demonstrate that they efficiently block five plant species from five orders spanning monocots and dicots (Bromus erectus, Plantago lanceolata, Lotus corniculatus, Amaranth spec., Arabidopsis thaliana). These can increase alpha diversity discovery without biasing beta diversity patterns and do not compromise microbial load information inherent to plant-derived 16S rRNA gene amplicon sequencing data. Finally, we designed and tested blocking oligos to avoid amplification of 18S rRNA genes of a sporulating oomycete pathogen, demonstrating their effectiveness in applications well beyond plants. Using these tools, we generated a survey of the A. thaliana leaf microbiome based on eight loci targeting bacterial, fungal, oomycete and other eukaryotic microorganisms and discuss complementarity of commonly used amplicon sequencing regions for describing leaf microbiota. This approach has potential to make questions in a variety of study systems more tractable by making amplicon sequencing more targeted, leading to deeper, systems-based insights into microbial discovery. For fast and easy design for blocking oligos for any non-target DNA in other study systems, we developed a publicly available R package.
+## Obtaining deeper insights into microbiome diversity using a simple method to block host and non‐targets in amplicon sequencing
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13408)
-
-10.1111/1755-0998.13408
 
 ---
 
