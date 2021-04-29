@@ -17,7 +17,7 @@ Microbiota play critical roles in regulating colitis and colorectal cancer (CRC)
 ---
 
 ## Impact of Maternal Nutritional Supplementation during Pregnancy and Lactation on the Infant Gut or Breastmilk Microbiota: A Systematic Review.
- 26.04.2021, _AZ Zaidi, SE Moore, SG Okala_
+ 28.04.2021, _AZ Zaidi, SE Moore, SG Okala_
 
 
 Recent evidence indicates that maternal dietary intake, including dietary supplements, during pregnancy and lactation may alter the infant gut or breastmilk microbiota, with implications for health outcomes in both the mother and infant. To review the effects of maternal nutritional supplementation during pregnancy and lactation on the infant gut or breastmilk microbiota a systematic literature search was conducted. A total of 967 studies published until February 2020 were found, 31 were eligible and 29 randomized control trials were included in the qualitative synthesis. There were 23 studies that investigated the effects of probiotic supplementation, with the remaining studies investigating vitamin D, prebiotics or lipid-based nutrient supplements (LNS). The effects of maternal nutritional supplementation on the infant gut microbiota or breastmilk microbiota were examined in 21 and 12 studies, respectively. Maternal probiotic supplementation during pregnancy and lactation generally resulted in the probiotic colonization of the infant gut microbiota, and although most studies also reported alterations in the infant gut bacterial loads, there was limited evidence of effects on bacterial diversity. The data available show that maternal probiotic supplementation during pregnancy or lactation results in probiotic colonization of the breastmilk microbiota. There were no observed effects between probiotic supplementation and breastmilk bacterial counts of healthy women, however, administration of Lactobacillus probiotic to nursing women affected by mastitis was associated with significant reductions in breastmilk Staphylococcal loads. Maternal LNS supplementation during pregnancy and lactation increased bacterial diversity in the infant gut, whilst vitamin D and prebiotic supplementation did not alter either infant gut bacterial diversity or counts. Heterogeneity in study design precludes any firm conclusions on the effects of maternal nutritional supplementation during pregnancy and lactation on the infant gut or breastmilk microbiota, warranting further research.
@@ -52,7 +52,7 @@ Growing up on traditional, single-family farms is associated with protection aga
 ---
 
 ## Multi-omics study reveals that statin therapy is associated with restoration of gut microbiota homeostasis and improvement in outcomes in patients with acute coronary syndrome.
- 26.04.2021, _X Hu, H Li, X Zhao, R Zhou, H Liu, Y Sun, Y Fan, Y Shi, S Qiao, S Liu, H Liu, S Zhang_
+ 28.04.2021, _X Hu, H Li, X Zhao, R Zhou, H Liu, Y Sun, Y Fan, Y Shi, S Qiao, S Liu, H Liu, S Zhang_
 
 
 Rationale: Prior chronic treatment with statins has been shown to be associated with more favorable outcomes in patients with acute coronary syndrome (ACS). Specific changes in the gut microbiota and microbial metabolites have been shown to influence the progression of coronary artery disease. However, the critical microbial and metabolomic changes associated with the cardiovascular protective effects of statins in ACS remain elusive. Methods: In the present study, we performed 16S rRNA sequencing and serum metabolomic analysis in 36 ACS patients who had received chronic statin treatment, 67 ACS patients who had not, and 30 healthy volunteers. A follow-up study was conducted. Metagenomic functional prediction of important bacterial taxa was achieved using PICRUSt2. Results: Statins modulated the gut microbiome of ACS patients towards a healthier status, i.e., reducing potentially pathogenic bacteria such as Parabacteroides merdae but increasing beneficial bacteria such as Bifidobacterium longum subsp. longum, Anaerostipes hadrus and Ruminococcus obeum. Moreover, prior chronic statin therapy was associated with improved outcome in ACS patients. Multi-omics analysis revealed that specific changes in bacterial taxa were associated with disease severity or outcomes either directly or by mediating metabolites such as fatty acids and prenol lipids. Finally, we discovered that important taxa associated with statins were correlated with fatty acid- and isoprenoid-related pathways that were predicted by PICRUSt2. Conclusions: Our study suggests that statin treatment might benefit ACS patients by modulating the composition and function of the gut microbiome, which might result in improved circulating metabolites and reduced metabolic risk. Our findings provide new insights for understanding the heterogenic roles of statins in ACS patients through host gut microbiota metabolic interactions.
@@ -147,15 +147,27 @@ Environmental impacts of the 1986 Chernobyl Nuclear Power Plant accident are muc
 
 ---
 
-## The microbiome of the Black Sea water column analyzed by shotgun and genome centric metagenomics
+## The microbiome of the Black Sea water column analyzed by shotgun and genome centric metagenomics.
+ 27.04.2021, _PJ Cabello-Yeves, C Callieri, A Picazo, M Mehrshad, JM Haro-Moreno, JJ Roda-Garcia, N Dzhembekova, V Slabakova, N Slabakova, S Moncheva, F Rodriguez-Valera_
+
+
+The Black Sea is the largest brackish water body in the world, although it is connected to the Mediterranean Sea and presents an upper water layer similar to some regions of the former, albeit with lower salinity and temperature. Despite its well-known hydrology and physicochemical features, this enormous water mass remains poorly studied at the microbial genomics level.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-021-00374-1)
 
+10.1186/s40793-021-00374-1
+
 ---
 
-## Obtaining deeper insights into microbiome diversity using a simple method to block host and non‐targets in amplicon sequencing
+## Obtaining deeper insights into microbiome diversity using a simple method to block host and non-targets in amplicon sequencing.
+ 27.04.2021, _T Mayer, A Mari, J Almario, M Murillo-Roos, HSM Abdullah, N Dombrowski, S Hacquard, EM Kemen, MT Agler_
+
+
+Profiling diverse microbiomes is revolutionizing our understanding of biological mechanisms and ecologically relevant problems, including metaorganism (host+microbiome) assembly, functions and adaptation. Amplicon sequencing of multiple conserved, phylogenetically informative loci has therefore become an instrumental tool for many researchers. Investigations in many systems are hindered, however, since essential sequencing depth can be lost by amplification of non-target DNA from hosts or overabundant microorganisms. Here, we introduce "blocking oligos", a low-cost and flexible method using standard oligonucleotides to block amplification of diverse non-targets and software to aid their design. We apply them primarily in leaves, where exceptional challenges with host amplification prevail. A. thaliana-specific blocking oligos applied in eight different target loci reduce undesirable host amplification by up to 90%. To expand applicability, we designed "universal" 16S and 18S rRNA gene plant blocking oligos for targets that are conserved in diverse plant species and demonstrate that they efficiently block five plant species from five orders spanning monocots and dicots (Bromus erectus, Plantago lanceolata, Lotus corniculatus, Amaranth spec., Arabidopsis thaliana). These can increase alpha diversity discovery without biasing beta diversity patterns and do not compromise microbial load information inherent to plant-derived 16S rRNA gene amplicon sequencing data. Finally, we designed and tested blocking oligos to avoid amplification of 18S rRNA genes of a sporulating oomycete pathogen, demonstrating their effectiveness in applications well beyond plants. Using these tools, we generated a survey of the A. thaliana leaf microbiome based on eight loci targeting bacterial, fungal, oomycete and other eukaryotic microorganisms and discuss complementarity of commonly used amplicon sequencing regions for describing leaf microbiota. This approach has potential to make questions in a variety of study systems more tractable by making amplicon sequencing more targeted, leading to deeper, systems-based insights into microbial discovery. For fast and easy design for blocking oligos for any non-target DNA in other study systems, we developed a publicly available R package.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13408)
+
+10.1111/1755-0998.13408
 
 ---
 
