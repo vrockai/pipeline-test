@@ -1,161 +1,240 @@
-## Microbiota regulate innate immune signaling and protective immunity against cancer.
- 24.04.2021, _C Xing, M Wang, AA Ajibade, P Tan, C Fu, L Chen, M Zhu, ZZ Hao, J Chu, X Yu, B Yin, J Zhu, WJ Shen, T Duan, HY Wang, RF Wang_
+## The Functional Significance of Bacterial Predators.
+ 28.04.2021, _BA Hungate, JC Marks, ME Power, E Schwartz, KJ van Groenigen, SJ Blazewicz, P Chuckran, P Dijkstra, BK Finley, MK Firestone, M Foley, A Greenlon, M Hayer, KS Hofmockel, BJ Koch, MC Mack, RL Mau, SN Miller, EM Morrissey, JR Propster, AM Purcell, E Sieradzki, EP Starr, BWG Stone, C Terrer, J Pett-Ridge_
 
 
-Microbiota play critical roles in regulating colitis and colorectal cancer (CRC). However, it is unclear how the microbiota generate protective immunity against these disease states. Here, we find that loss of the innate and adaptive immune signaling molecule, TAK1, in myeloid cells (Tak1ΔM/ΔM) yields complete resistance to chemical-induced colitis and CRC through microbiome alterations that drive protective immunity. Tak1ΔM/ΔM mice exhibit altered microbiota that are critical for resistance, with antibiotic-mediated disruption ablating protection and Tak1ΔM/ΔM microbiota transfer conferring protection against colitis or CRC. The altered microbiota of Tak1ΔM/ΔM mice promote IL-1β and IL-6 signaling pathways, which are required for induction of protective intestinal Th17 cells and resistance. Specifically, Odoribacter splanchnicus is abundant in Tak1ΔM/ΔM mice and sufficient to induce intestinal Th17 cell development and confer resistance against colitis and CRC in wild-type mice. These findings identify specific microbiota strains and immune mechanisms that protect against colitis and CRC.
+Predation structures food webs, influences energy flow, and alters rates and pathways of nutrient cycling through ecosystems, effects that are well documented for macroscopic predators. In the microbial world, predatory bacteria are common, yet little is known about their rates of growth and roles in energy flows through microbial food webs, in part because these are difficult to quantify. Here, we show that growth and carbon uptake were higher in predatory bacteria compared to nonpredatory bacteria, a finding across 15 sites, synthesizing 82 experiments and over 100,000 taxon-specific measurements of element flow into newly synthesized bacterial DNA. Obligate predatory bacteria grew 36% faster and assimilated carbon at rates 211% higher than nonpredatory bacteria. These differences were less pronounced for facultative predators (6% higher growth rates, 17% higher carbon assimilation rates), though high growth and carbon assimilation rates were observed for some facultative predators, such as members of the genera Lysobacter and Cytophaga, both capable of gliding motility and wolf-pack hunting behavior. Added carbon substrates disproportionately stimulated growth of obligate predators, with responses 63% higher than those of nonpredators for the Bdellovibrionales and 81% higher for the Vampirovibrionales, whereas responses of facultative predators to substrate addition were no different from those of nonpredators. This finding supports the ecological theory that higher productivity increases predator control of lower trophic levels. These findings also indicate that the functional significance of bacterial predators increases with energy flow and that predatory bacteria influence element flow through microbial food webs.IMPORTANCE The word "predator" may conjure images of leopards killing and eating impala on the African savannah or of great white sharks attacking elephant seals off the coast of California. But microorganisms are also predators, including bacteria that kill and eat other bacteria. While predatory bacteria have been found in many environments, it has been challenging to document their importance in nature. This study quantified the growth of predatory and nonpredatory bacteria in soils (and one stream) by tracking isotopically labeled substrates into newly synthesized DNA. Predatory bacteria were more active than nonpredators, and obligate predators, such as Bdellovibrionales and Vampirovibrionales, increased in growth rate in response to added substrates at the base of the food chain, strong evidence of trophic control. This work provides quantitative measures of predator activity and suggests that predatory bacteria-along with protists, nematodes, and phages-are active and important in microbial food webs.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S193131282100144X)
+[Source](https://mbio.asm.org/content/12/2/e00466-21)
 
-10.1016/j.chom.2021.03.016
-
----
-
-## Diet Potentially Drives the Differentiation of Eating Behaviours via Alterations to the Gut Microbiome in Infants
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.04.24.438478v2.abstract)
+10.1128/mBio.00466-21
 
 ---
 
-## Impact of Maternal Nutritional Supplementation during Pregnancy and Lactation on the Infant Gut or Breastmilk Microbiota: A Systematic Review.
- 28.04.2021, _AZ Zaidi, SE Moore, SG Okala_
+## Anaerobic Microbial Metabolism of Dichloroacetate.
+ 28.04.2021, _G Chen, N Jiang, MI Villalobos Solis, F Kara Murdoch, RW Murdoch, Y Xie, CM Swift, RL Hettich, FE Löffler_
 
 
-Recent evidence indicates that maternal dietary intake, including dietary supplements, during pregnancy and lactation may alter the infant gut or breastmilk microbiota, with implications for health outcomes in both the mother and infant. To review the effects of maternal nutritional supplementation during pregnancy and lactation on the infant gut or breastmilk microbiota a systematic literature search was conducted. A total of 967 studies published until February 2020 were found, 31 were eligible and 29 randomized control trials were included in the qualitative synthesis. There were 23 studies that investigated the effects of probiotic supplementation, with the remaining studies investigating vitamin D, prebiotics or lipid-based nutrient supplements (LNS). The effects of maternal nutritional supplementation on the infant gut microbiota or breastmilk microbiota were examined in 21 and 12 studies, respectively. Maternal probiotic supplementation during pregnancy and lactation generally resulted in the probiotic colonization of the infant gut microbiota, and although most studies also reported alterations in the infant gut bacterial loads, there was limited evidence of effects on bacterial diversity. The data available show that maternal probiotic supplementation during pregnancy or lactation results in probiotic colonization of the breastmilk microbiota. There were no observed effects between probiotic supplementation and breastmilk bacterial counts of healthy women, however, administration of Lactobacillus probiotic to nursing women affected by mastitis was associated with significant reductions in breastmilk Staphylococcal loads. Maternal LNS supplementation during pregnancy and lactation increased bacterial diversity in the infant gut, whilst vitamin D and prebiotic supplementation did not alter either infant gut bacterial diversity or counts. Heterogeneity in study design precludes any firm conclusions on the effects of maternal nutritional supplementation during pregnancy and lactation on the infant gut or breastmilk microbiota, warranting further research.
+Dichloroacetate (DCA) commonly occurs in the environment due to natural production and anthropogenic releases, but its fate under anoxic conditions is uncertain. Mixed culture RM comprising "Candidatus Dichloromethanomonas elyunquensis" strain RM utilizes DCA as an energy source, and the transient formation of formate, H2, and carbon monoxide (CO) was observed during growth. Only about half of the DCA was recovered as acetate, suggesting a fermentative catabolic route rather than a reductive dechlorination pathway. Sequencing of 16S rRNA gene amplicons and 16S rRNA gene-targeted quantitative real-time PCR (qPCR) implicated "Candidatus Dichloromethanomonas elyunquensis" strain RM in DCA degradation. An (S)-2-haloacid dehalogenase (HAD) encoded on the genome of strain RM was heterologously expressed, and the purified HAD demonstrated the cofactor-independent stoichiometric conversion of DCA to glyoxylate at a rate of 90 ± 4.6 nkat mg-1 protein. Differential protein expression analysis identified enzymes catalyzing the conversion of DCA to acetyl coenzyme A (acetyl-CoA) via glyoxylate as well as enzymes of the Wood-Ljungdahl pathway. Glyoxylate carboligase, which catalyzes the condensation of two molecules of glyoxylate to form tartronate semialdehyde, was highly abundant in DCA-grown cells. The physiological, biochemical, and proteogenomic data demonstrate the involvement of an HAD and the Wood-Ljungdahl pathway in the anaerobic fermentation of DCA, which has implications for DCA turnover in natural and engineered environments, as well as the metabolism of the cancer drug DCA by gut microbiota.IMPORTANCE Dichloroacetate (DCA) is ubiquitous in the environment due to natural formation via biological and abiotic chlorination processes and the turnover of chlorinated organic materials (e.g., humic substances). Additional sources include DCA usage as a chemical feedstock and cancer drug and its unintentional formation during drinking water disinfection by chlorination. Despite the ubiquitous presence of DCA, its fate under anoxic conditions has remained obscure. We discovered an anaerobic bacterium capable of metabolizing DCA, identified the enzyme responsible for DCA dehalogenation, and elucidated a novel DCA fermentation pathway. The findings have implications for the turnover of DCA and the carbon and electron flow in electron acceptor-depleted environments and the human gastrointestinal tract.
 
-[Source](https://www.mdpi.com/2072-6643/13/4/1137)
+[Source](https://mbio.asm.org/content/12/2/e00537-21)
 
-10.3390/nu13041137
-
----
-
-## Infant Gut Microbiome Is Enriched with Bifidobacteria longumssp. infantisin Old Order Mennoniteswith Traditional Farming Lifestyle.
- 27.04.2021, _AE Seppo, K Bu, M Jumabaeva, J Thakar, R Choudhury, C Yonemitsu, L Bode, CA Martina, M Allen, S Tamburini, E Piras, DS Wallach, RJ Looney, JC Clemente, KM Järvinen_
-
-
-Growing up on traditional, single-family farms is associated with protection against asthma in school-age, but the mechanisms against early manifestations of atopic disease are largely unknown. We sought determine the gut microbiome and metabolome composition in rural Old Order Mennonite (OOM) infants at low risk and Rochester, NY urban/suburban infants at high risk for atopic diseases.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/all.14877)
-
-10.1111/all.14877
+10.1128/mBio.00537-21
 
 ---
 
-## Can antibiotic-induced changes in the composition of the hair follicle microbiome regulate human hair growth?
- 27.04.2021, _MB Lousada, J Edelkamp, T Lachnit, H Erdmann, R Paus_
+## [Fecal microbiome change in patients with ulcerative colitis after fecal microbiota transplantation].
+ 04.03.2021, _АЮ Тикунов, ВВ Морозов, АН Швалов, АВ Бардашева, ЕВ Шрайнер, ОА Максимова, ИО Волошина, ВВ Морозова, ВВ Власов, НВ Тикунова_
 
 
+Intestinal human microbiota is a dynamic system that is under the pressures of its host organism and external factors. Microbiota disruption caused by these factors can lead to severe diseases including inflammatory and oncological diseases of the gastrointestinal tract. One of the possible approaches in managing the intestinal microbiota is fecal microbiota transplantation (FT) - transfer of the microbiota from the stool of a healthy donor to the intestinal tract of a recipient patient. Currently, this procedure is recognized as an efficacious method to normalize the intestinal microbiota mainly in inflammatory diseases of the gastrointestinal tract. In Russia, pilot studies of the effectiveness of FT in patients with ulcerative colitis have been conducted for several years, and these studies were started in Novosibirsk. The aim of this study was to assess the change of intestinal microbiome in 20 patients with ulcerative colitis after a single FT procedure. The main method is a comparative analysis of 16S ribosomal RNA sequence libraries constructed using fecal samples obtained from patients with ulcerative colitis before and after FT and sequenced on the Illumina MiSeq platform. The obtained results showed that FT led to an increase in average biodiversity in samples after FT compared to samples before FT; however, the difference was not significant. In the samples studied, the proportion of Firmicutes sequences, the major gastrointestinal microbiota of healthy people, was decreased (~32 % vs. &gt;70 %), while the proportion of Proteobacteria sequences was increased (&gt;9 % vs. &lt;5 %). In some samples collected before FT, sequences of pathogenic Firmicutes and Proteobacteria were detected, including Acinetobacter spp., Enterococcus spp., Klebsiella pneumoniae, Proteus mirabilis, Staphylococcus aureus, Stenotrophomonas maltophylia, Streptococcus spp. In most cases, the proportion of such sequences after FT substantially decreased in appropriate samples. The exception was the Clostridium difficile sequences, which accounted for &lt;0.5 % of the sequences in samples from almost half of the patients and after FT, the share of such C. difficile sequences was significantly reduced only in samples from three patients. It should be noted that the proportion of Lactobacillus spp. increased ten-fold and their species composition significantly expanded. According to the obtained results, a preliminary conclusion can be made that even a single FT procedure can lead to an increase in the biodiversity of the gastrointestinal microbiota in patients and to the optimization of the taxonomic composition of the microbiota.
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/exd.14364)
+[Source](https://www.nature.com/articles/s41575-021-00441-5)
 
-10.1111/exd.14364
-
----
-
-## Multi-omics study reveals that statin therapy is associated with restoration of gut microbiota homeostasis and improvement in outcomes in patients with acute coronary syndrome.
- 28.04.2021, _X Hu, H Li, X Zhao, R Zhou, H Liu, Y Sun, Y Fan, Y Shi, S Qiao, S Liu, H Liu, S Zhang_
-
-
-Rationale: Prior chronic treatment with statins has been shown to be associated with more favorable outcomes in patients with acute coronary syndrome (ACS). Specific changes in the gut microbiota and microbial metabolites have been shown to influence the progression of coronary artery disease. However, the critical microbial and metabolomic changes associated with the cardiovascular protective effects of statins in ACS remain elusive. Methods: In the present study, we performed 16S rRNA sequencing and serum metabolomic analysis in 36 ACS patients who had received chronic statin treatment, 67 ACS patients who had not, and 30 healthy volunteers. A follow-up study was conducted. Metagenomic functional prediction of important bacterial taxa was achieved using PICRUSt2. Results: Statins modulated the gut microbiome of ACS patients towards a healthier status, i.e., reducing potentially pathogenic bacteria such as Parabacteroides merdae but increasing beneficial bacteria such as Bifidobacterium longum subsp. longum, Anaerostipes hadrus and Ruminococcus obeum. Moreover, prior chronic statin therapy was associated with improved outcome in ACS patients. Multi-omics analysis revealed that specific changes in bacterial taxa were associated with disease severity or outcomes either directly or by mediating metabolites such as fatty acids and prenol lipids. Finally, we discovered that important taxa associated with statins were correlated with fatty acid- and isoprenoid-related pathways that were predicted by PICRUSt2. Conclusions: Our study suggests that statin treatment might benefit ACS patients by modulating the composition and function of the gut microbiome, which might result in improved circulating metabolites and reduced metabolic risk. Our findings provide new insights for understanding the heterogenic roles of statins in ACS patients through host gut microbiota metabolic interactions.
-
-[Source](https://www.thno.org/v11p5778.htm)
-
-10.7150/thno.55946
+10.18699/VJ20.610
 
 ---
 
-## Alteration of gut microbial profile in patients with diabetic nephropathy.
- 27.04.2021, _X Du, J Liu, Y Xue, X Kong, C Lv, Z Li, Y Huang, B Wang_
+## Recipient factors in faecal microbiota transplantation: one stool does not fit all
 
-
-Investigations show that 30-40% of patients with diabetes develop diabetic nephropathy (DN). The gut microbiome has become lively field research in diabetes mellitus and chronic kidney disease. The gut microbial profile in DN (stage-3 or 4) patients and healthy controls were systematically analyzed, the discrepancies on microbial profiles in different disease stages, gender, and BMI in DN were also described.
-
-[Source](https://link.springer.com/article/10.1007%2Fs12020-021-02721-1)
-
-10.1007/s12020-021-02721-1
+[Source](https://www.nature.com/articles/s41575-021-00441-5)
 
 ---
 
-## Sargassum fusiforme fucoidan modifies gut microbiota and intestinal metabolites during alleviation of hyperglycemia in type 2 diabetic mice.
- 27.04.2021, _Q Wu, S Wu, Y Cheng, Z Zhang, G Mao, S Li, Y Yang, X Zhang, M Wu, H Tong_
+## Evaluation of the Effect of Storage Methods on Fecal, Saliva, and Skin Microbiome Composition.
+ 28.04.2021, _C Marotz, KJ Cavagnero, SJ Song, D McDonald, S Wandro, G Humphrey, M Bryant, G Ackermann, E Diaz, R Knight_
 
 
-Type 2 diabetic mellitus (T2DM) is a complicated metabolic disorder that is now considered as a major global public health problem. Fucoidan exhibits diverse biological activities, especially prevention of metabolic diseases. In this regard, we herein aimed to reveal the beneficial effect of Sargassum fusiforme fucoidan (SFF) on high-fat diet (HFD) and streptozotocin (STZ) induced T2DM mice. We noted that on the one hand, SFF significantly decreased fasting blood glucose, diet and water intake, and hyperlipidemia, while on the other hand, it improved glucose tolerance. Furthermore, SFF reduced epididymal fat deposition, attenuated the pathological changes in heart and liver tissues, and decreased oxidative stress in diabetic mice. To explore the underlying mechanisms of these ameliorative effects, the gut microbiota was analyzed. Notably, SFF highly enriched benign microbes including Bacteroides, Faecalibacterium and Blautia, as well as increased levels of (R)-carnitine and choline in the colon of diabetic mice. This may be a potential mechanism for alleviating T2DM, thus implying the benefits of SFF as an adjuvant agent for T2DM treatment. Taken together, this study demonstrated a promising application of fucoidan as one of the adjuvant agents for the management of T2DM in the future.
+As the number of human microbiome studies expand, it is increasingly important to identify cost-effective, practical preservatives that allow for room temperature sample storage. Here, we reanalyzed 16S rRNA gene amplicon sequencing data from a large sample storage study published in 2016 and performed shotgun metagenomic sequencing on remnant DNA from this experiment. Both results support the initial findings that 95% ethanol, a nontoxic, cost-effective preservative, is effective at preserving samples at room temperature for weeks. We expanded on this analysis by collecting a new set of fecal, saliva, and skin samples to determine the optimal ratio of 95% ethanol to sample. We identified optimal collection protocols for fecal samples (storing a fecal swab in 95% ethanol) and saliva samples (storing unstimulated saliva in 95% ethanol at a ratio of 1:2). Storing skin swabs in 95% ethanol reduced microbial biomass and disrupted community composition, highlighting the difficulties of low biomass sample preservation. The results from this study identify practical solutions for large-scale analyses of fecal and oral microbial communities.IMPORTANCE Expanding our knowledge of microbial communities across diverse environments includes collecting samples in places far from the laboratory. Identifying cost-effective preservatives that will enable room temperature storage of microbial communities for sequencing analysis is crucial to enabling microbiome analyses across diverse populations. Here, we validate findings that 95% ethanol efficiently preserves microbial composition at room temperature for weeks. We also identified the optimal ratio of 95% ethanol to sample for stool and saliva to preserve both microbial load and composition. These results provide rationale for an accessible, nontoxic, cost-effective solution that will enable crowdsourcing microbiome studies, such as The Microsetta Initiative, and lower the barrier for collecting diverse samples.
 
-[Source](https://pubs.rsc.org/en/content/articlelanding/2021/FO/D0FO03329D)
+[Source](https://msystems.asm.org/content/6/2/e01329-20)
 
-10.1039/d0fo03329d
-
----
-
-## Bidirectional interaction of nobiletin and gut microbiota in mice fed with a high-fat diet.
- 27.04.2021, _M Zhang, X Zhang, J Zhu, DG Zhao, YY Ma, D Li, CT Ho, Q Huang_
-
-
-Nobiletin is abundant in citrus peels and demonstrates good anti-obesity bioactivity. However, its anti-obesity mechanisms still remain unclear. This study aims to explore the bidirectional interaction between nobiletin and gut microbiota in mice fed with a high-fat diet. For the colonic bioconversion, more demethylated metabolites with higher biological activity were found in feces than nobiletin in the 48 h excretion study and 8 week consecutive dosing study. Moreover, long-term oral intake of nobiletin would modify the gut microbiota with improved demethylation ability and enhanced production of short chain fatty acids. The comparison of metabolite profiles in mouse liver and feces indicated that gut microbiota might have a higher biotransformation activity on nobiletin than the host. Two bacteria at the genus level, Allobaculum and Roseburia, remained enriched by nobiletin after the 4- and 8-week feedings. They might correlate with the enhanced nobiletin biotransformation and actively contribute to the health benefits of nobiletin in vivo. These results suggested that the bidirectional interaction of nobiletin and gut microbiota played an important role on the anti-obesity effect of nobiletin.
-
-[Source](https://pubs.rsc.org/en/content/articlelanding/2021/FO/D1FO00126D)
-
-10.1039/d1fo00126d
+10.1128/mSystems.01329-20
 
 ---
 
-## Reshaping of the gastrointestinal microbiome alters atherosclerotic plaque inflammation resolution in mice.
- 27.04.2021, _MS Garshick, C Nikain, M Tawil, S Pena, TJ Barrett, BG Wu, Z Gao, MJ Blaser, EA Fisher_
+## Diet-Microbiota-Brain Axis in Alzheimer's Disease.
+ 27.04.2021, _HJ Kincaid, R Nagpal, H Yadav_
 
 
-Since alterations in the intestinal microbiota may induce systemic inflammation and polarization of macrophages to the M1 state, the microbiome role in atherosclerosis, an M1-driven disease, requires evaluation. We aimed to determine if antibiotic (Abx) induced alterations to the intestinal microbiota interferes with atherosclerotic plaque inflammation resolution after lipid-lowering in mice. Hyperlipidemic Apoe-/- mice were fed a western diet to develop aortic atherosclerosis with aortas then transplanted into normolipidemic wild-type (WT) mice to model clinically aggressive lipid management and promote atherosclerosis inflammation resolution. Gut microbial composition pre and post-transplant was altered via an enteral antibiotic or not. Post aortic transplant, after Abx treatment, while plaque size did not differ, compared to Apoe-/- mice, Abx- WT recipient mice had a 32% reduction in CD68-expressing cells (p = 0.02) vs. a non-significant 12% reduction in Abx+ WT mice. A trend toward an M1 plaque CD68-expresing cell phenotype was noted in Abx+ mice. By 16S rRNA sequence analysis, the Abx+ mice had reduced alpha diversity and increased Firmicutes/Bacteroidetes relative abundance ratio with a correlation between gut Firmicutes abundance and plaque CD68-expressing cell content (p &lt; 0.05). These results indicate that in a murine atherosclerotic plaque inflammation resolution model, antibiotic-induced microbiome perturbation may blunt the effectiveness of lipid-lowering to reduce the content of plaque inflammatory CD68-expressing cells.
+Alzheimer's disease (AD) is the most common form of dementia, particularly in older adults, with clinical manifestations of progressive cognitive decline and functional impairment. The prevalence of AD and related dementia is mounting worldwide, but its etiology remains unresolved, with no available preventative or ameliorative therapy. Emerging evidence suggests that the gut microbiota of patients with AD is different from cognitively normal counterparts.
 
-[Source](https://www.nature.com/articles/s41598-021-88479-y)
+[Source](https://www.karger.com/Article/FullText/515700)
 
-10.1038/s41598-021-88479-y
-
----
-
-## Gut bacterial communities across 12 Ensifera (Orthoptera) at different feeding habits and its prediction for the insect with contrasting feeding habits.
- 26.04.2021, _X Zheng, Q Zhu, Z Zhou, F Wu, L Chen, Q Cao, F Shi_
-
-
-Insect microbial symbioses play a critical role in insect lifecycle, and insect gut microbiome could be influenced by many factors. Studies have shown that host diet and taxonomy have a strong influence on insect gut microbial community. In this study, we performed sequencing of V3-V4 region of 16S rRNA gene to compare the composition and diversity of 12 Ensifera from 6 provinces of China. Moreover, the influences of feeding habits and taxonomic status of insects on their gut bacterial community were evaluated, which might provide reference for further application research. The results showed that Proteobacteria (45.66%), Firmicutes (34.25%) and Cyanobacteria (7.7%) were the predominant bacterial phyla in Ensifera. Moreover, the gut bacterial community composition of samples with different feeding habits was significantly different, which was irrespective of their taxa. The highest diversity of gut bacteria was found in the omnivorous Ensifera. Furthermore, common and unique bacteria with biomarkers were found based on the dietary characteristics of the samples. However, the bacterial community structure of the Ensifera samples was significantly different from that of Caelifera. Therefore, we concluded that feeding habits and taxonomic status jointly affect the gut bacterial community composition of the samples from Orthoptera. However, the influence of feeding habit dominates when taxonomy category below the suborder level. In addition, the dominant, common and unique bacterial community structure could be used to predict the contrastic feeding habits of insects belonging to Ensifera.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250675)
-
-10.1371/journal.pone.0250675
+10.1159/000515700
 
 ---
 
-## Impacts of radiation exposure on the bacterial and fungal microbiome of small mammals in the Chernobyl Exclusion Zone.
- 26.04.2021, _RE Antwis, NA Beresford, JA Jackson, R Fawkes, CL Barnett, E Potter, L Walker, S Gaschak, MD Wood_
+## The significance of the gut microbiome in children with functional constipation.
+ 28.04.2021, _M Kwiatkowska, A Krogulska_
 
 
-Environmental impacts of the 1986 Chernobyl Nuclear Power Plant accident are much debated, but the effects of radiation on host microbiomes have received little attention to date. We present the first analysis of small mammal gut microbiome from the Chernobyl Exclusion Zone in relation to total absorbed dose rate and including caecum as well as faeces sample. We provide novel evidence that host species determines fungal community composition, and that associations between microbiome (both bacterial and fungal) communities and radiation exposure varies between host species. Using ambient versus total weighted absorbed dose rates in analyses produced different results, with the latter more robust for interpreting microbiome changes at the individual level. We found considerable variation between results for faecal and gut samples of bank voles, suggesting faecal samples are not an accurate indicator of gut composition. Associations between radiation exposure and microbiome composition of gut samples were not robust against geographical variation, although we identified families of bacteria (Lachnospiraceae and Muribaculaceae) and fungi (Steccherinaceae and Strophariaceae) in the guts of bank voles that may serve as biomarkers of radiation exposure. Further studies considering a range of small mammal species are needed to establish the robustness of these potential biomarkers.
+Constipation is a widespread problem in pediatric practice, affecting almost 30% of pediatric population. As much as 90-95% of constipation cases have a functional basis, and although the pathogenesis of functional constipation remains unclear, its etiology is considered to be multifactorial. Its growing prevalence has been attributed to the occurrence of disorders in the homeostasis of gastrointestinal microbiota. In humans, the best known microbiome is that of the intestines, which has been the subject of a number of studies based on recognition of the 16S rRNA gene sequence. Microbiota are believed to influence the pathogenesis of functional constipation by affecting peristalsis, relationship with diet, and physical activity. The paper evaluates the role of intestinal microbiota in functional constipation and describes its contribution to the onset of disease. Determining the importance of the microbiome in the pathogenesis of functional constipation creates hope for the development of new prevention and treatment methods.
 
-[Source](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13507)
+[Source](https://www.advances.umed.wroc.pl/ahead-of-print/131215.pdf)
 
-10.1111/1365-2656.13507
-
----
-
-## A Scenic River in Rural Ohio Shows Elevated Antibiotic Resistance Genes, Including Acinetobacter Tetracycline and Macrolide Resistance, Downstream of Wastewater Treatment Plant Effluent
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.04.26.441562v1.abstract)
+10.17219/acem/131215
 
 ---
 
-## Diversity of free-living prokaryotes on terrestrial and marine Antarctic habitats
+## Focus on the cariogenic process: microbial and biochemical interactions with teeth and oral environment.
+ 27.04.2021, _G Dipalma, AD Inchingolo, F Inchingolo, IA Charitos, M Di Cosola, AP Cazzolla_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.04.27.441673v1.abstract)
+
+This paper aims to describe the biochemical interactions between teeth and the oral environment that occur during the caries process, hence it covers all the steps related to physico-chemical reactions, including the most up-to-date theoretical basis in the clinical application for the prevention and treatment of caries. The terms 'demineralization' and 'remineralization' that characterise this process were analysed, as well as the role of the microbiota in its interaction with the hard surface of the teeth. The biochemical mechanisms that lead to the onset of carious lesions and those that occur during the healing and repair of such lesions are listed.
+
+[Source](https://www.biolifesas.org/biolife/2021/03/24/focus-on-the-cariogenic-process-microbial-and-biochemical-interactions-with-teeth-and-oral-environment/)
+
+10.23812/20-747-A
 
 ---
 
-## The microbiome of the Black Sea water column analyzed by shotgun and genome centric metagenomics
+## A scoping review of longitudinal airway microbiota studies.
+ 28.04.2021, _T Yin, JH Jeong, TF Hardcastle, K Biswas, RG Douglas_
 
-[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-021-00374-1)
+
+The role of the microbiota in inflammatory airway diseases is unclear. Antimicrobial therapies have predominantly been guided by culture results. However, molecular sequencing has shown that the airway microbiota is much more complex and accurate modeling requires longitudinal analysis.
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/17476348.2021.1924061)
+
+10.1080/17476348.2021.1924061
 
 ---
 
-## Obtaining deeper insights into microbiome diversity using a simple method to block host and non‐targets in amplicon sequencing
+## Longitudinal Profiling of the Macaque Vaginal Microbiome Reveals Similarities to Diverse Human Vaginal Communities.
+ 28.04.2021, _NS Rhoades, SM Hendrickson, DR Gerken, K Martinez, OD Slayden, MK Slifka, I Messaoudi_
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13408)
+
+The vaginal microbiota plays an important role in women's reproductive and urogenital health. It is now well accepted that a "healthy" vaginal microbiome is dominated by Lactobacillus species. Disturbances in this microbial community can lead to several adverse outcomes, including pelvic inflammatory disease and bacterial vaginosis (BV), as well as increased susceptibility to sexually transmitted infections, miscarriage, and preterm births. However, vaginal communities, especially those of women in the developing world, can be comprised of a diverse set of microorganisms in the absence of overt clinical symptoms. The implications of these diverse vaginal microbiomes for women's health remain poorly understood. Rhesus macaques are an excellent translational animal model to address these questions due to significant physiological and genetic homology with humans. In this study, we performed a longitudinal analysis of clinical and microbiome data from 16 reproductive-age female rhesus macaques. At both the taxonomic and functional levels, the rhesus macaque vaginal microbiome was most similar to that of women who harbor a diverse vaginal community associated with asymptomatic/symptomatic bacterial vaginosis. Specifically, rhesus macaque vaginal microbiomes harbored a diverse set of anaerobic Gram-negative bacteria, including Sneathia, Prevotella, Porphyromonas, and Mobiluncus Interestingly, some animals were transiently colonized by Lactobacillus and some with Gardnerella Our in-depth and comprehensive analysis highlights the importance of the model to understand the health implications of a diverse vaginal microbiome and test interventions for manipulating this community.IMPORTANCE It is widely accepted that the "healthy" vaginal microbiome of women in the developed world is dominated by Lactobacillus species. However, in the developing world, many asymptomatic women harbor diverse vaginal microbial communities that are typically associated with bacterial vaginosis. Many questions remain about the drivers and health implications of a diverse vaginal microbial community. Rhesus macaques provide an excellent translational model to address these questions due to significant physiological and genetic homology with humans. In this study, we performed a longitudinal analysis of clinical and microbiome data from a large cohort of reproductive-age rhesus macaques. At the taxonomic, genomic, and functional levels, the rhesus macaque vaginal microbiome was most similar to that of humans, who harbor a diverse vaginal community associated with asymptomatic/symptomatic bacterial vaginosis. Our in-depth and comprehensive analysis highlights the utility of macaques as a model to study diverse vaginal community state types and test interventions for manipulating the vaginal microbiome.
+
+[Source](https://msystems.asm.org/content/6/2/e01322-20)
+
+10.1128/mSystems.01322-20
+
+---
+
+## Association of Vaginal Microbiota with Signs and Symptoms of the Genitourinary Syndrome of Menopause across Reproductive Stages.
+ 27.04.2021, _M Shardell, PE Gravitt, AE Burke, J Ravel, RM Brotman_
+
+
+The genitourinary syndrome of menopause (GSM) describes signs and symptoms resulting from effects of estrogen deficiency on the female genitourinary tract, including the vagina, labia, urethra, and bladder. Signs/symptoms associated with GSM may occur during any reproductive stage from multiple etiologies but are most common during menopause due to low estrogen. Vaginal microbiota, particularly Lactobacillus spp., are beneficial to the female genital tract; however, their abundance declines during menopause. We aimed to longitudinally assess vaginal microbiota characterized by 16S rRNA gene amplicon sequencing and GSM-associated endpoints across reproductive stages. In a two-year cohort study of 750 women aged 35-60 years at enrollment and 2,111 semiannual person-visits, low-Lactobacillus vaginal microbiota communities were observed at 21.2% (169/798), 22.9% (137/597), and 49.7% (356/716) of person-visits among pre-, peri-, and postmenopausal women, respectively (p&lt;.001). Compared to communities that have high Gardnerella vaginalis relative abundance and diverse anaerobes, the following communities were associated with a lower covariate-adjusted odds of vaginal atrophy: L. crispatus-dominated communities among postmenopausal women (odds ratio[OR]=0.25; 95% confidence interval[CI], 0.08, 0.81), L. gasseri/L. jensenii (OR=0.21; 95%CI, 0.05, 0.94) and L. iners (OR=0.21; 95%CI, 0.05, 0.85) among perimenopausal women, and L. iners-dominated communities (OR=0.18; 95%CI, 0.04, 0.76) among premenopausal women. Postmenopausal women with L. gasseri/L. jensenii-dominated communities had the lowest odds of vaginal dryness (OR=0.36; 95%CI, 0.12, 1.06) and low libido (OR=0.28; 95%CI, 0.10, 0.74). Findings for urinary incontinence were inconsistent. Associations of vaginal microbiota with GSM signs/symptoms are most evident after menopause, suggesting an avenue for treatment and prevention.
+
+[Source](https://academic.oup.com/biomedgerontology/advance-article-abstract/doi/10.1093/gerona/glab120/6254382?redirectedFrom=fulltext)
+
+10.1093/gerona/glab120
+
+---
+
+## Targeted Delivery of Probiotics: Perspectives on Research and Commercialization.
+ 27.04.2021, _KS Yoha, S Nida, S Dutta, JA Moses, C Anandharamakrishnan_
+
+
+Considering the significance of the gut microbiota on human health, there has been ever-growing research and commercial interest in various aspects of probiotic functional foods and drugs. A probiotic food requires cautious consideration in terms of strain selection, appropriate process and storage conditions, cell viability and functionality, and effective delivery at the targeted site. To address these challenges, several technologies have been explored and some of them have been adopted for industrial applicability. Encapsulation of probiotics has been recognized as an effective way to stabilize them in their dried form. By conferring a physical barrier to protect them from adverse conditions, the encapsulation approach renders direct benefits on stability, delivery, and functionality. Various techniques have been explored to encapsulate probiotics, but it is noteworthy that the encapsulation method itself influences surface morphology, viability, and survivability of probiotics. This review focuses on the need to encapsulate probiotics, trends in various encapsulation techniques, current research and challenges in targeted delivery, the market status of encapsulated probiotics, and future directions. Specific focus has been given on various in vitro methods that have been explored to better understand their delivery and performance.
+
+[Source](https://link.springer.com/article/10.1007%2Fs12602-021-09791-7)
+
+10.1007/s12602-021-09791-7
+
+---
+
+## A Single Microbiome Gene Alters Murine Susceptibility to Acute Arsenic Exposure.
+ 28.04.2021, _Q Wang, TR McDermott, ST Walk_
+
+
+Environmental toxicant exposure contributes to morbidity and mortality of many human diseases. With respect to arsenic, microbially driven chemical transformations dictate its toxicity and mobility in virtually every environment yet studied, so a general hypothesis is that the human gut microbiome determines disease outcome following exposure. However, the complex nature of the gut microbiome and the myriad of potential interactions with human cells/tissues make it challenging to quantify the influence of specific arsenic-active functions-a requisite step in developing effective disease prevention and/or clinical intervention strategies. To control both mammalian and microbial function during toxicant exposure, we genetically defined the gut microbiome of mice using only Escherichia coli strain, AW3110 (▵arsRBC), or the same strain carrying a single genome copy of the Fucus vesiculosus metallothionein gene (AW3110::fmt); a cysteine-rich peptide that complexes with arsenite, facilitating bioaccumulation and reducing its toxic effects. AW3110::fmt bioaccumulated significantly more arsenic and gnotobiotic mice colonized by this strain excreted significantly more arsenic in stool and accumulated significantly less arsenic in organs. Moreover, AW3110::fmt gnotobiotic mice were protected from acute toxicity exposure (20 ppm AsIII) relative to controls. This study demonstrates-in a highly controlled fashion-that a single microbiome function (arsenic bioaccumulation) encoded by a single gene in a single human gut microbiome bacterium significantly alters mammalian host arsenic exposure. The experimental model described herein allows for a highly controlled and directed assessment of microbiome functions, and is useful to quantify the influence of specific microbiome-arsenic interactions that help mitigate human disease.
+
+[Source](https://academic.oup.com/toxsci/article-abstract/181/1/105/6131697)
+
+10.1093/toxsci/kfab017
+
+---
+
+## Lipocalin 2 modulates dendritic cell activity and shapes immunity to influenza in a microbiome dependent manner
+
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009487)
+
+---
+
+## <em>Macrobdella decora</em>: Old World Leech Gut Microbial Community Structure Conserved in a New World Leech
+
+[Source](https://aem.asm.org/content/87/10/e02082-20)
+
+---
+
+## Influence of&nbsp;<em>Anacardium occidentale</em>&nbsp;leaf supplementation in broiler chicken diet on performance, caecal microbiota, blood chemistry, immune status, carcass, and meat quality
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/00071668.2021.1894321)
+
+---
+
+## Effects of three different mannans on obesity and gut microbiota in high-fat diet-fed C57BL/6J mice
+
+[Source](https://pubs.rsc.org/en/Content/ArticleLanding/2021/FO/D0FO03331F#!divAbstract)
+
+---
+
+## The fecal microbiota of piglets during weaning transition and its association with piglet growth across various farm environments
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250655)
+
+---
+
+## Species-specific but not phylosymbiotic gut microbiomes of New Guinean passerine birds are shaped by diet and flight-associated gut modifications
+
+[Source](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0446)
+
+---
+
+## Perturbation of gut microbiota plays an important role in micro/nanoplastics-induced gut barrier dysfunction
+
+[Source](https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR00038A#!divAbstract)
+
+---
+
+## Ameliorative Effect of Dietary Tryptophan on Neurodegeneration and Inflammation in&nbsp;d-Galactose-Induced Aging Mice with the Potential Mechanism Relying on AMPK/SIRT1/PGC-1α Pathway and Gut Microbiot
+
+[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c00706)
+
+---
+
+## Soybean Root Nodule and Rhizosphere Microbiome: Distribution of Rhizobial and Nonrhizobial Endophytes
+
+[Source](https://aem.asm.org/content/87/10/e02884-20)
+
+---
+
+## Hyperlocal Variation in Soil Iron and the Rhizosphere Bacterial Community Determines Dollar Spot Development in Amenity Turfgrass.
+ 28.04.2021, _MY Chou, S Shrestha, R Rioux, P Koch_
+
+
+Dollar spot, caused by the fungal pathogen Clarireedia spp., is an economically important foliar disease of amenity turfgrass in temperate climates worldwide. This disease often occurs in a highly variable manner, even on a local scale with relatively uniform environmental conditions. The objective of this study was to investigate mechanisms behind this local variation, focusing on contributions of the soil and rhizosphere microbiome. Turfgrass, rhizosphere, and bulk soil samples were collected from within a 256-m2 area of healthy turfgrass, transported to a controlled environment chamber, and inoculated with Clarireedia jacksonii Bacterial communities were profiled by targeting the 16S rRNA gene, and 16 different soil chemical properties were assessed. Despite their initial uniform appearance, the samples differentiated into highly susceptible and moderately susceptible groups following inoculation in the controlled environment chamber. The highly susceptible samples harbored a unique rhizosphere microbiome with suggestively lower relative abundance of putative antibiotic-producing bacterial taxa and higher predicted abundance of genes associated with xenobiotic biodegradation pathways. In addition, stepwise regression revealed that bulk soil iron content was the only significant soil characteristic that positively regressed with decreased dollar spot susceptibility during the peak disease development stage. These findings suggest that localized variation in soil iron induces the plant to select for a particular rhizosphere microbiome that alters the disease outcome. More broadly, further research in this area may indicate how plot-scale variability in soil properties can drive variable plant disease development through alterations in the rhizosphere microbiome.IMPORTANCE Dollar spot is the most economically important disease of amenity turfgrass, and more fungicides are applied targeting dollar spot than any other turfgrass disease. Dollar spot symptoms are small (3 to 5 cm), circular patches that develop in a highly variable manner within plot scale even under seemingly uniform conditions. The mechanism behind this variable development is unknown. This study observed that differences in dollar spot development over a 256-m2 area were associated with differences in bulk soil iron concentration and correlated with a particular rhizosphere microbiome. These findings provide interesting avenues for future research to further characterize the mechanisms behind the highly variable development of dollar spot, which may inform innovative control strategies. Additionally, these results suggest that small changes in soil properties can alter plant activity and hence the plant-associated microbial community, which has important implications for a broad array of agricultural and horticultural plant pathosystems.
+
+[Source](https://aem.asm.org/content/87/10/e00149-21)
+
+10.1128/AEM.00149-21
+
+---
+
+## Manure-Based Amendments Influence Surface-Associated Bacteria and Markers of Antibiotic Resistance on Radishes Grown in Soils with Different Textures.
+ 28.04.2021, _GKP Guron, C Chen, P Du, A Pruden, MA Ponder_
+
+
+A controlled greenhouse study was performed to determine the effect of manure or compost amendments, derived during or in the absence of antibiotic treatment of beef and dairy cattle, on radish taproot-associated microbiota and indicators of antibiotic resistance when grown in different soil textures. Bacterial beta diversity, determined by 16S rRNA gene amplicon sequencing, bifurcated according to soil texture (P &lt; 0.001, R = 0.501). There was a striking cross-effect in which raw manure from antibiotic-treated and antibiotic-free beef and dairy cattle added to loamy sand (LS) elevated relative (16S rRNA gene-normalized) (by 0.9 to 1.9 log10) and absolute (per-radish) (by 1.1 to 3.0 log10) abundances of intI1 (an integrase gene and indicator of mobile multiantibiotic resistance) on radishes at harvest compared to chemical fertilizer-only control conditions (P &lt; 0.001). Radishes tended to carry fewer copies of intI1 and sul1 when grown in silty clay loam than LS. Composting reduced relative abundance of intI1 on LS-grown radishes (0.6 to 2.4 log10 decrease versus corresponding raw manure; P &lt; 0.001). Effects of antibiotic use were rarely discernible. Heterotrophic plate count bacteria capable of growth on media containing tetracycline, vancomycin, sulfamethazine, or erythromycin tended to increase on radishes grown in turned composted antibiotic-treated dairy or beef control (no antibiotics) manures relative to the corresponding raw manure in LS (0.8- to 2.3-log10 increase; P &lt; 0.001), suggesting that composting sometimes enriches cultivable bacteria with phenotypic resistance. This study demonstrates that combined effects of soil texture and manure-based amendments influence the microbiota of radish surfaces and markers of antibiotic resistance, illuminating future research directions for reducing agricultural sources of antibiotic resistance.IMPORTANCE In working toward a comprehensive strategy to combat the spread of antibiotic resistance, potential farm-to-fork routes of dissemination are gaining attention. The effects of preharvest factors on the microbiota and corresponding antibiotic resistance indicators on the surfaces of produce commonly eaten raw is of special interest. Here, we conducted a controlled greenhouse study, using radishes as a root vegetable grown in direct contact with soil, and compared the effects of manure-based soil amendments, antibiotic use in the cattle from which the manure was sourced, composting of the manure, and soil texture, with chemical fertilizer only as a control. We noted significant effects of amendment type and soil texture on the composition of the microbiota and genes used as indicators of antibiotic resistance on radish surfaces. The findings take a step toward identifying agricultural practices that aid in reducing carriage of antibiotic resistance and corresponding risks to consumers.
+
+[Source](https://aem.asm.org/content/87/10/e02753-20)
+
+10.1128/AEM.02753-20
+
+---
+
+## Human- and Infrastructure-associated Bacteria in Greywater.
+ 27.04.2021, _M Nagarkar, SP Keely, NE Brinkman, JL Garland_
+
+
+Greywater, the wastewater from sinks, showers, and laundry, is an understudied environment for bacterial communities. Most greywater studies focus on quantifying pathogens, often via proxies used in other wastewater, like fecal indicator bacteria; there is a need to identify more greywater-appropriate surrogates, like Staphylococcus sp. Sequencing-based studies have revealed distinct communities in different types of greywater as well as in different parts of greywater infrastructure, including biofilms on pipes, holding tanks, and filtration systems. The use of metagenomic sequencing provides high resolution on both the taxa and genes present, which may be of interest in cases like identifying pathogens and surrogates relevant to different matrices, monitoring antibiotic resistance genes, and understanding metabolic processes occurring in the system. Here we review what is known about bacterial communities in different types of greywater and its infrastructure. We suggest that wider adoption of environmental sequencing in greywater research is important because it can describe the entire bacterial community along with its metabolic capabilities, including pathways for removal of nutrients and organic materials. We briefly describe a metagenomic dataset comparing different types of greywater samples in a college dormitory building to highlight the type of questions these methods can address. Metagenomic sequencing can help further the understanding of greywater treatment for reuse because it allows for identification of new pathogens or genes of concern.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/jam.15118)
+
+10.1111/jam.15118
 
 ---
 
