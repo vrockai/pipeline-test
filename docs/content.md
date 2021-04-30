@@ -202,9 +202,15 @@ Environmental toxicant exposure contributes to morbidity and mortality of many h
 
 ---
 
-## Hyperlocal Variation in Soil Iron and the Rhizosphere Bacterial Community Determines Dollar Spot Development in Amenity Turfgrass
+## Hyperlocal Variation in Soil Iron and the Rhizosphere Bacterial Community Determines Dollar Spot Development in Amenity Turfgrass.
+ 28.04.2021, _MY Chou, S Shrestha, R Rioux, P Koch_
+
+
+Dollar spot, caused by the fungal pathogen Clarireedia spp., is an economically important foliar disease of amenity turfgrass in temperate climates worldwide. This disease often occurs in a highly variable manner, even on a local scale with relatively uniform environmental conditions. The objective of this study was to investigate mechanisms behind this local variation, focusing on contributions of the soil and rhizosphere microbiome. Turfgrass, rhizosphere, and bulk soil samples were collected from within a 256-m2 area of healthy turfgrass, transported to a controlled environment chamber, and inoculated with Clarireedia jacksonii Bacterial communities were profiled by targeting the 16S rRNA gene, and 16 different soil chemical properties were assessed. Despite their initial uniform appearance, the samples differentiated into highly susceptible and moderately susceptible groups following inoculation in the controlled environment chamber. The highly susceptible samples harbored a unique rhizosphere microbiome with suggestively lower relative abundance of putative antibiotic-producing bacterial taxa and higher predicted abundance of genes associated with xenobiotic biodegradation pathways. In addition, stepwise regression revealed that bulk soil iron content was the only significant soil characteristic that positively regressed with decreased dollar spot susceptibility during the peak disease development stage. These findings suggest that localized variation in soil iron induces the plant to select for a particular rhizosphere microbiome that alters the disease outcome. More broadly, further research in this area may indicate how plot-scale variability in soil properties can drive variable plant disease development through alterations in the rhizosphere microbiome.IMPORTANCE Dollar spot is the most economically important disease of amenity turfgrass, and more fungicides are applied targeting dollar spot than any other turfgrass disease. Dollar spot symptoms are small (3 to 5 cm), circular patches that develop in a highly variable manner within plot scale even under seemingly uniform conditions. The mechanism behind this variable development is unknown. This study observed that differences in dollar spot development over a 256-m2 area were associated with differences in bulk soil iron concentration and correlated with a particular rhizosphere microbiome. These findings provide interesting avenues for future research to further characterize the mechanisms behind the highly variable development of dollar spot, which may inform innovative control strategies. Additionally, these results suggest that small changes in soil properties can alter plant activity and hence the plant-associated microbial community, which has important implications for a broad array of agricultural and horticultural plant pathosystems.
 
 [Source](https://aem.asm.org/content/87/10/e00149-21)
+
+10.1128/AEM.00149-21
 
 ---
 
