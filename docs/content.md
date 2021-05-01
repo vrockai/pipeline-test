@@ -166,39 +166,15 @@ Environmental toxicant exposure contributes to morbidity and mortality of many h
 
 ---
 
-## Effects of three different mannans on obesity and gut microbiota in high-fat diet-fed C57BL/6J mice.
- 28.04.2021, _Y Song, H Shen, T Liu, B Pan, S De Alwis, W Zhang, X Luo, Z Li, N Wang, W Ma, T Zhang_
-
-
-To compare the effects of three mannans, Konjac glucomannan (KGM), guar gum (GG) and locust bean gum (LBG), on obesity and obesity-related metabolic disorders in mice fed with high-fat diet (HFD), and to investigate the potential modulation of gut microbiota, we performed a 14 week study on C57BL/6J mice fed a HFD with/without mannan supplementation. The results showed that supplementing 8% KGM, GG, and LBG to a HFD dramatically reduced the body weight gain and adipose accumulation, attenuated liver injury, and antagonized glycolipid metabolism and inflammation-related parameters of HFD-fed mice in different degrees. However, only LBG had such roles when the supplement dose was reduced to 2%. In addition, it was found that LBG required more time to exert its impacts on weight control and lipid metabolism. Furthermore, 16S rRNA gene sequencing of gut microbiota indicated that mannans with different structures and supplement doses affected the overall structure of the gut microbiota to a varying extent and specifically changed the abundance of some OTUs. Moreover, several OTUs belonging to the genera Muribaculum, Staphylococcus, [Eubacterium] fissicatena group, and Christensenella had a high correlation with obesity and obesity-related metabolic disorders of the host. In summary, all the three mannans had the potential to be used as alternative dietary supplements or functional foods to prevent obesity and obesity-related metabolic disorders induced by a HFD, but the effects of the dose and time varied, and the functions of the mannans were associated with their ability to regulate the gut microbiota.
+## Effects of three different mannans on obesity and gut microbiota in high-fat diet-fed C57BL/6J mice
 
 [Source](https://pubs.rsc.org/en/Content/ArticleLanding/2021/FO/D0FO03331F#!divAbstract)
 
-10.1039/d0fo03331f
-
 ---
 
-## The fecal microbiota of piglets during weaning transition and its association with piglet growth across various farm environments.
- 27.04.2021, _D Luise, M Le Sciellour, A Buchet, R Resmond, C Clement, MN Rossignol, D Jardet, O Zemb, C Belloc, E Merlot_
-
-
-This study describes the fecal microbiota from piglets reared in different living environments during the weaning transition, and presents the characteristics of microbiota associated with good growth of piglets after weaning. Fecal samples were collected pre- (d26) and post-weaning (d35) from 288 male piglets in 16 conventional indoor commercial farms located in the West of France. The changes one week after weaning on the most abundant microbial families was roughly the same in all farms: alpha diversity increased, the relative abundance of Bacteroidaceae (-61%), Christensenellaceae (-35%), Enterobacteriaceae (-42%), and Clostridiaceae (-32%) decreased, while the relative abundance of Prevotellaceae (+143%) and Lachnospiraceae (+21%) increased. Among all the collected samples, four enterotypes that were ubiquitous in all farms were identified. They could be discriminated by their respective relative abundances of Prevotella, Faecalibacterium, Roseburia, and Lachnospira, and likely corresponded to a gradual maturational shift from pre- to post-weaning microbiota. The rearing environment influenced the frequency of enterotypes, as well as the relative abundance of 6 families at d26 (including Christensenellaceae and Lactobacillaceae), and of 21 families at d35. In all farms, piglets showing the highest relative growth rate during the first three weeks after weaning, which were characterized as more robust, had a higher relative abundance of Bacteroidetes, a lower relative abundance of Proteobacteria, and showed a greater increase in Prevotella, Coprococcus, and Lachnospira in the post-weaning period. This study revealed the presence of ubiquitous enterotypes among the farms of this study, reflecting maturational stages of microbiota from a young suckling to an older cereal-eating profile. Despite significant variation in the microbial profile between farms, piglets whose growth after weaning was less disrupted were, those who had reached the more mature phenotype characterized by Prevotella the fastest.
+## The fecal microbiota of piglets during weaning transition and its association with piglet growth across various farm environments
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250655)
-
-10.1371/journal.pone.0250655
-
----
-
-## Epigenetic regulation during human cortical development: seq-ing answers from the brain to the organoid.
- 29.04.2021, _EMA Lewis, K Kaushik, LA Sandoval, I Antony, S Dietmann, KL Kroll_
-
-
-Epigenetic regulation plays an important role in controlling gene expression during complex processes, such as development of the human brain. Mutations in genes encoding chromatin modifying proteins and in the non-protein coding sequences of the genome can potentially alter transcription factor binding or chromatin accessibility. Such mutations can frequently cause neurodevelopmental disorders, therefore understanding how epigenetic regulation shapes brain development is of particular interest. While epigenetic regulation of neural development has been extensively studied in murine models, significant species-specific differences in both the genome sequence and in brain development necessitate human models. However, access to human fetal material is limited and these tissues cannot be grown or experimentally manipulated ex vivo. Therefore, models that recapitulate particular aspects of human fetal brain development, such as the in vitro differentiation of human pluripotent stem cells (hPSCs), are instrumental for studying the epigenetic regulation of human neural development. Here, we examine recent studies that have defined changes in the epigenomic landscape during fetal brain development. We compare these studies with analogous data derived by in vitro differentiation of hPSCs into specific neuronal cell types or as three-dimensional cerebral organoids. Such comparisons can be informative regarding which aspects of fetal brain development are faithfully recapitulated by in vitro differentiation models and provide a foundation for using experimentally tractable in vitro models of human brain development to study neural gene regulation and the basis of its disruption to cause neurodevelopmental disorders.
-
-[Source](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.0446)
-
-10.1016/j.neuint.2021.105039
 
 ---
 
@@ -208,15 +184,9 @@ Epigenetic regulation plays an important role in controlling gene expression dur
 
 ---
 
-## Perturbation of gut microbiota plays an important role in micro/nanoplastics-induced gut barrier dysfunction.
- 27.04.2021, _J Qiao, R Chen, M Wang, R Bai, X Cui, Y Liu, C Wu, C Chen_
-
-
-The widespread occurrence of microplastics (MPLs) and nanoplastics (NPLs), collectively abbreviated as M/NPLs, has markedly affected the ecosystem and has become a global threat to human health. Multiple investigations have shown that the chronic ingestion of M/NPLs negatively affects gut barrier function but the mechanism remains unclear. Herein, this research has investigated the toxic effects of pristine polystyrene (PS) M/NPLs, negatively charged carboxylated polystyrene M/NPLs (PS-COOH) and positively charged aminated polystyrene M/NPLs (PS-NH2) of two sizes (70 nm and 5 μm in diameter) in mice. Gavage of these PS M/NPLs for 28 days caused obvious injuries to the gut tract, leading to the decreased expression of tight junction proteins. The toxicity of the M/NPLs was ranked as PS-NH2 &gt; PS-COOH &gt; pristine PS. Oral administration of these M/NPLs resulted in marked gut microbiota dysbiosis. The M/NPLs-enriched genera generally contained opportunistic pathogens which are accompanied by a deteriorated intestinal barrier function, while most M/NPLs-decreased bacteria were beneficial microbes with known tight junction-promoting functions, implicating an important indirect toxic effect of gut microbiota dysbiosis in M/NPLs-induced gut barrier dysfunction. In conclusion, this research highlights the importance of gut microbiota in the toxicity of M/NPLs exposure on gut barrier function, providing novel insights into the adverse effects of M/NPLs exposure on human health.
+## Perturbation of gut microbiota plays an important role in micro/nanoplastics-induced gut barrier dysfunction
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2021/NR/D1NR00038A#!divAbstract)
-
-10.1039/d1nr00038a
 
 ---
 
@@ -226,51 +196,27 @@ The widespread occurrence of microplastics (MPLs) and nanoplastics (NPLs), colle
 
 ---
 
-## Soybean Root Nodule and Rhizosphere Microbiome: Distribution of Rhizobial and Nonrhizobial Endophytes.
- 28.04.2021, _P Mayhood, BS Mirza_
-
-
-Soybean root nodules are known to contain a high diversity of both rhizobial endophytes and nonrhizobial endophytes (NREs). Nevertheless, the variation of these bacteria among different root nodules within single plants has not been reported. So far, it is unclear whether the selection of NREs among different root nodules within single plants is a random process or is strictly controlled by the host plant to favor a few specific NREs based on their beneficial influence on plant growth. As well, it is also unknown if the relative frequency of NREs within different root nodules is consistent or if it varies based on the location or size of a root nodule. We assessed the microbiomes of 193 individual soybean root nodules from nine plants using high-throughput DNA sequencing. Bradyrhizobium japonicum strains occurred in high abundance in all root nodules despite the presence of other soybean-compatible rhizobia, such as Ensifer, Mesorhizobium, and other species of Bradyrhizobium in soil. Nitrobacter and Tardiphaga were the two nonrhizobial genera that were uniformly detected within almost all root nodules, though they were in low abundance. DNA sequences related to other NREs that have frequently been reported, such as Bacillus, Pseudomonas, Flavobacterium, and Variovorax species, were detected in a few nodules. Unlike for Bradyrhizobium, the low abundance and inconsistent occurrence of previously reported NREs among different root nodules within single plants suggest that these microbes are not preferentially selected as endophytes by host plants and most likely play a limited part in plant growth as endophytes.IMPORTANCE Soybean (Glycine max L.) is a valuable food crop that also contributes significantly to soil nitrogen by developing a symbiotic association with nitrogen-fixing rhizobia. Bacterial endophytes (both rhizobial and nonrhizobial) are considered critical for the growth and resilience of the legume host. In the past, several studies have suggested that the selection of bacterial endophytes within root nodules can be influenced by factors such as soil pH, nutrient availability, host plant genotype, and bacterial diversity in soil. However, the influence of size or location of root nodules on the selection of bacterial endophytes within soybean roots is unknown. It is also unclear whether the selection of nonrhizobial endophytes within different root nodules of a single plant is a random process or is strictly regulated by the host. This information can be useful in identifying potential bacterial species for developing bioinoculants that can enhance plant growth and soil nitrogen.
+## Soybean Root Nodule and Rhizosphere Microbiome: Distribution of Rhizobial and Nonrhizobial Endophytes
 
 [Source](https://aem.asm.org/content/87/10/e02884-20)
 
-10.1128/AEM.02884-20
-
 ---
 
-## Hyperlocal Variation in Soil Iron and the Rhizosphere Bacterial Community Determines Dollar Spot Development in Amenity Turfgrass.
- 28.04.2021, _MY Chou, S Shrestha, R Rioux, P Koch_
-
-
-Dollar spot, caused by the fungal pathogen Clarireedia spp., is an economically important foliar disease of amenity turfgrass in temperate climates worldwide. This disease often occurs in a highly variable manner, even on a local scale with relatively uniform environmental conditions. The objective of this study was to investigate mechanisms behind this local variation, focusing on contributions of the soil and rhizosphere microbiome. Turfgrass, rhizosphere, and bulk soil samples were collected from within a 256-m2 area of healthy turfgrass, transported to a controlled environment chamber, and inoculated with Clarireedia jacksonii Bacterial communities were profiled by targeting the 16S rRNA gene, and 16 different soil chemical properties were assessed. Despite their initial uniform appearance, the samples differentiated into highly susceptible and moderately susceptible groups following inoculation in the controlled environment chamber. The highly susceptible samples harbored a unique rhizosphere microbiome with suggestively lower relative abundance of putative antibiotic-producing bacterial taxa and higher predicted abundance of genes associated with xenobiotic biodegradation pathways. In addition, stepwise regression revealed that bulk soil iron content was the only significant soil characteristic that positively regressed with decreased dollar spot susceptibility during the peak disease development stage. These findings suggest that localized variation in soil iron induces the plant to select for a particular rhizosphere microbiome that alters the disease outcome. More broadly, further research in this area may indicate how plot-scale variability in soil properties can drive variable plant disease development through alterations in the rhizosphere microbiome.IMPORTANCE Dollar spot is the most economically important disease of amenity turfgrass, and more fungicides are applied targeting dollar spot than any other turfgrass disease. Dollar spot symptoms are small (3 to 5 cm), circular patches that develop in a highly variable manner within plot scale even under seemingly uniform conditions. The mechanism behind this variable development is unknown. This study observed that differences in dollar spot development over a 256-m2 area were associated with differences in bulk soil iron concentration and correlated with a particular rhizosphere microbiome. These findings provide interesting avenues for future research to further characterize the mechanisms behind the highly variable development of dollar spot, which may inform innovative control strategies. Additionally, these results suggest that small changes in soil properties can alter plant activity and hence the plant-associated microbial community, which has important implications for a broad array of agricultural and horticultural plant pathosystems.
+## Hyperlocal Variation in Soil Iron and the Rhizosphere Bacterial Community Determines Dollar Spot Development in Amenity Turfgrass
 
 [Source](https://aem.asm.org/content/87/10/e00149-21)
 
-10.1128/AEM.00149-21
-
 ---
 
-## Manure-Based Amendments Influence Surface-Associated Bacteria and Markers of Antibiotic Resistance on Radishes Grown in Soils with Different Textures.
- 28.04.2021, _GKP Guron, C Chen, P Du, A Pruden, MA Ponder_
-
-
-A controlled greenhouse study was performed to determine the effect of manure or compost amendments, derived during or in the absence of antibiotic treatment of beef and dairy cattle, on radish taproot-associated microbiota and indicators of antibiotic resistance when grown in different soil textures. Bacterial beta diversity, determined by 16S rRNA gene amplicon sequencing, bifurcated according to soil texture (P &lt; 0.001, R = 0.501). There was a striking cross-effect in which raw manure from antibiotic-treated and antibiotic-free beef and dairy cattle added to loamy sand (LS) elevated relative (16S rRNA gene-normalized) (by 0.9 to 1.9 log10) and absolute (per-radish) (by 1.1 to 3.0 log10) abundances of intI1 (an integrase gene and indicator of mobile multiantibiotic resistance) on radishes at harvest compared to chemical fertilizer-only control conditions (P &lt; 0.001). Radishes tended to carry fewer copies of intI1 and sul1 when grown in silty clay loam than LS. Composting reduced relative abundance of intI1 on LS-grown radishes (0.6 to 2.4 log10 decrease versus corresponding raw manure; P &lt; 0.001). Effects of antibiotic use were rarely discernible. Heterotrophic plate count bacteria capable of growth on media containing tetracycline, vancomycin, sulfamethazine, or erythromycin tended to increase on radishes grown in turned composted antibiotic-treated dairy or beef control (no antibiotics) manures relative to the corresponding raw manure in LS (0.8- to 2.3-log10 increase; P &lt; 0.001), suggesting that composting sometimes enriches cultivable bacteria with phenotypic resistance. This study demonstrates that combined effects of soil texture and manure-based amendments influence the microbiota of radish surfaces and markers of antibiotic resistance, illuminating future research directions for reducing agricultural sources of antibiotic resistance.IMPORTANCE In working toward a comprehensive strategy to combat the spread of antibiotic resistance, potential farm-to-fork routes of dissemination are gaining attention. The effects of preharvest factors on the microbiota and corresponding antibiotic resistance indicators on the surfaces of produce commonly eaten raw is of special interest. Here, we conducted a controlled greenhouse study, using radishes as a root vegetable grown in direct contact with soil, and compared the effects of manure-based soil amendments, antibiotic use in the cattle from which the manure was sourced, composting of the manure, and soil texture, with chemical fertilizer only as a control. We noted significant effects of amendment type and soil texture on the composition of the microbiota and genes used as indicators of antibiotic resistance on radish surfaces. The findings take a step toward identifying agricultural practices that aid in reducing carriage of antibiotic resistance and corresponding risks to consumers.
+## Manure-Based Amendments Influence Surface-Associated Bacteria and Markers of Antibiotic Resistance on Radishes Grown in Soils with Different Textures 
 
 [Source](https://aem.asm.org/content/87/10/e02753-20)
 
-10.1128/AEM.02753-20
-
 ---
 
-## Human- and Infrastructure-associated Bacteria in Greywater.
- 27.04.2021, _M Nagarkar, SP Keely, NE Brinkman, JL Garland_
-
-
-Greywater, the wastewater from sinks, showers, and laundry, is an understudied environment for bacterial communities. Most greywater studies focus on quantifying pathogens, often via proxies used in other wastewater, like fecal indicator bacteria; there is a need to identify more greywater-appropriate surrogates, like Staphylococcus sp. Sequencing-based studies have revealed distinct communities in different types of greywater as well as in different parts of greywater infrastructure, including biofilms on pipes, holding tanks, and filtration systems. The use of metagenomic sequencing provides high resolution on both the taxa and genes present, which may be of interest in cases like identifying pathogens and surrogates relevant to different matrices, monitoring antibiotic resistance genes, and understanding metabolic processes occurring in the system. Here we review what is known about bacterial communities in different types of greywater and its infrastructure. We suggest that wider adoption of environmental sequencing in greywater research is important because it can describe the entire bacterial community along with its metabolic capabilities, including pathways for removal of nutrients and organic materials. We briefly describe a metagenomic dataset comparing different types of greywater samples in a college dormitory building to highlight the type of questions these methods can address. Metagenomic sequencing can help further the understanding of greywater treatment for reuse because it allows for identification of new pathogens or genes of concern.
+## Human‐ and Infrastructure‐associated Bacteria in Greywater
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/jam.15118)
-
-10.1111/jam.15118
 
 ---
 
