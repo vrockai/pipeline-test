@@ -136,7 +136,7 @@ Previous studies have suggested acute effects of ambient fine particulate matter
 ---
 
 ## Nutritional immunity: the impact of metals on lung immune cells and the airway microbiome during chronic respiratory disease.
- 30.04.2021, _C Healy, N Munoz-Wolf, J Strydom, L Faherty, NC Williams, S Kenny, SC Donnelly, SM Cloonan_
+ 02.05.2021, _C Healy, N Munoz-Wolf, J Strydom, L Faherty, NC Williams, S Kenny, SC Donnelly, SM Cloonan_
 
 
 Nutritional immunity is the sequestration of bioavailable trace metals such as iron, zinc and copper by the host to limit pathogenicity by invading microorganisms. As one of the most conserved activities of the innate immune system, limiting the availability of free trace metals by cells of the immune system serves not only to conceal these vital nutrients from invading bacteria but also operates to tightly regulate host immune cell responses and function. In the setting of chronic lung disease, the regulation of trace metals by the host is often disrupted, leading to the altered availability of these nutrients to commensal and invading opportunistic pathogenic microbes. Similarly, alterations in the uptake, secretion, turnover and redox activity of these vitally important metals has significant repercussions for immune cell function including the response to and resolution of infection. This review will discuss the intricate role of nutritional immunity in host immune cells of the lung and how changes in this fundamental process as a result of chronic lung disease may alter the airway microbiome, disease progression and the response to infection.
@@ -148,7 +148,7 @@ Nutritional immunity is the sequestration of bioavailable trace metals such as i
 ---
 
 ## Gut bacterial profile in Indian children of varying nutritional status: a comparative pilot study.
- 30.04.2021, _C Balasubramaniam, RH Mallappa, DK Singh, P Chaudhary, B Bharti, SK Muniyappa, S Grover_
+ 02.05.2021, _C Balasubramaniam, RH Mallappa, DK Singh, P Chaudhary, B Bharti, SK Muniyappa, S Grover_
 
 
 Childhood malnutrition is a multifactorial disease, responsible for nearly half of all deaths in children under five. Lately, the probable association of a dysbiotic gut to malnutrition is also being eagerly investigated. The current study is an attempt to investigate this purported association through assessing the abundance of major gut bacterial phyla (Firmicutes, Bacteroidetes, Actinobacteria and Proteobacteria), probionts (Bifidobacteria and Lactobacillus), butyrogens (Faecalibacterium and Roseburia) and pathogens (Escherichia and Klebsiella).
@@ -244,7 +244,7 @@ The Oligo-Mouse-Microbiota (OMM12) gnotobiotic murine model is an increasingly p
 ---
 
 ## OTUs and ASVs Produce Comparable Taxonomic and Diversity from Shrimp Microbiota 16S Profiles Using Tailored Abundance Filters.
- 30.04.2021, _R García-López, F Cornejo-Granados, AA Lopez-Zavala, A Cota-Huízar, RR Sotelo-Mundo, B Gómez-Gil, A Ochoa-Leyva_
+ 02.05.2021, _R García-López, F Cornejo-Granados, AA Lopez-Zavala, A Cota-Huízar, RR Sotelo-Mundo, B Gómez-Gil, A Ochoa-Leyva_
 
 
 The interplay between shrimp immune system, its environment, and microbiota contributes to the organism's homeostasis and optimal production. The metagenomic composition is typically studied using 16S rDNA profiling by clustering amplicon sequences into operational taxonomic units (OTUs) and, more recently, amplicon sequence variants (ASVs). Establish the compatibility of the taxonomy, α, and β diversity described by both methods is necessary to compare past and future shrimp microbiota studies. Here, we used identical sequences to survey the V3 16S hypervariable-region using 97% and 99% OTUs and ASVs to assess the hepatopancreas and intestine microbiota of L. vannamei from two ponds under standardized rearing conditions. We found that applying filters to retain clusters &gt;0.1% of the total abundance per sample enabled a consistent taxonomy comparison while preserving &gt;94% of the total reads. The three sets turned comparable at the family level, whereas the 97% identity OTU set produced divergent genus and species profiles. Interestingly, the detection of organ and pond variations was robust to the clustering method's choice, producing comparable α and β-diversity profiles. For comparisons on shrimp microbiota between past and future studies, we strongly recommend that ASVs be compared at the family level to 97% identity OTUs or use 99% identity OTUs, both using tailored frequency filters.
@@ -256,7 +256,7 @@ The interplay between shrimp immune system, its environment, and microbiota cont
 ---
 
 ## Impact of pesticide/fertilizer mixtures on the rhizosphere microbial community of field-grown sugarcane.
- 30.04.2021, _W Huang, Y Lu, L Chen, D Sun, Y An_
+ 02.05.2021, _W Huang, Y Lu, L Chen, D Sun, Y An_
 
 
 The rhizosphere microbial community is important for plant health and is shaped by numerous environmental factors. This study aimed to unravel the effects of a pesticide/fertilizer mixture on the soil rhizosphere microbiome of field-grown sugarcane. A field trial on sugarcane was conducted in Zhanjian City, Guangdong Province, China, and soil samples from the rhizosphere were collected after clothianidin pesticide and/or organic fertilizer treatments. The effects of pesticide and/or organic fertilizer treatments on the composition, diversity, and predictive function of the rhizosphere microbial communities were examined using 16S rRNA gene and ITS1 amplicon sequencing. Compared with the controls (no pesticide or fertilizer used), the microbial community that resulted from treatment with the pesticide/fertilizer mixture (SPF) had a higher relative bacterial diversity and fungal richness, and contributed more beneficial functions to sugarcane, including xenobiotics biodegradation and metabolism of amino acids. The bacterial and fungal compositions at various taxonomic levels were not significantly different in SPF and SP (pesticide only) treatments compared to treatments without the pesticide, suggesting that the clothianidin addition did not cause a detrimental impact on the soil microbiome. Moreover, five bacterial genera, including Dyella, Sphingomonas, Catenulispora, Mucilaginibacter, and Tumebacillus, were significantly more abundant in the SPF and SP treatments, which could be associated with the pesticide addition. With the addition of organic fertilizers in SPF, the abundances of some soil-beneficial bacteria Bacillus, Paenibacillus, and Brevibacillus were highly increased. Our study provides insights into the interactions between the rhizosphere soil microbiome and pesticide-fertilizer integration, which may help improve the application of pesticide-fertilizer to sugarcane fields.
@@ -280,7 +280,7 @@ The aspiration these days is to apply rapid methods for parallel analysis of bac
 ---
 
 ## Sources and Assembly of Microbial Communities in Vineyards as a Functional Component of Winegrowing.
- 30.04.2021, _RG Griggs, KL Steenwerth, DA Mills, D Cantu, NA Bokulich_
+ 02.05.2021, _RG Griggs, KL Steenwerth, DA Mills, D Cantu, NA Bokulich_
 
 
 Microbiomes are integral to viticulture and winemaking - collectively termed winegrowing - where diverse fungi and bacteria can exert positive and negative effects on grape health and wine quality. Wine is a fermented natural product, and the vineyard serves as a key point of entry for quality-modulating microbiota, particularly in wine fermentations that are conducted without the addition of exogenous yeasts. Thus, the sources and persistence of wine-relevant microbiota in vineyards critically impact its quality. Site-specific variations in microbiota within and between vineyards may contribute to regional wine characteristics. This includes distinctions in microbiomes and microbiota at the strain level, which can contribute to wine flavor and aroma, supporting the role of microbes in the accepted notion of terroir as a biological phenomenon. Little is known about the factors driving microbial biodiversity within and between vineyards, or those that influence annual assembly of the fruit microbiome. Fruit is a seasonally ephemeral, yet annually recurrent product of vineyards, and as such, understanding the sources of microbiota in vineyards is critical to the assessment of whether or not microbial terroir persists with inter-annual stability, and is a key factor in regional wine character, as stable as the geographic distances between vineyards. This review examines the potential sources and vectors of microbiota within vineyards, general rules governing plant microbiome assembly, and how these factors combine to influence plant-microbe interactions relevant to winemaking.
