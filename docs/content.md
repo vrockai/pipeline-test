@@ -1,72 +1,138 @@
-## Insights into the microbial diversity and structure in a full-scale municipal wastewater treatment plant with particular regard to Archaea
+## Microbiome Scientific Researcher, Computational (Cancer Immunology)
 
-[Source](https://doi.org/10.1371/journal.pone.0250514)
-
----
-
-## From the Andes to the desert: 16S rRNA metabarcoding characterization of aquatic bacterial communities in the Rimac river, the main source of water for Lima, Peru.
- 22.04.2021, _PE Romero, E Calla-Quispe, C Castillo-Vilcahuaman, M Yokoo, HL Fuentes-Rivera, JL Ramirez, A Ampuero, AJ Ibáñez, P Wong_
-
-
-The Rimac river is the main source of water for Lima, Peru's capital megacity. The river is constantly affected by different types of contamination including mine tailings in the Andes and urban sewage in the metropolitan area. In this work, we aim to produce the first characterization of aquatic bacterial communities in the Rimac river using a 16S rRNA metabarcoding approach which would be useful to identify bacterial diversity and potential understudied pathogens. We report a lower diversity in bacterial communities from the Lower Rimac (Metropolitan zone) in comparison to other sub-basins. Samples were generally grouped according to their geographical location. Bacterial classes Alphaproteobacteria, Bacteroidia, Campylobacteria, Fusobacteriia, and Gammaproteobacteria were the most frequent along the river. Arcobacter cryaerophilus (Campylobacteria) was the most frequent species in the Lower Rimac while Flavobacterium succinicans (Bacteroidia) and Hypnocyclicus (Fusobacteriia) were the most predominant in the Upper Rimac. Predicted metabolic functions in the microbiota include bacterial motility and quorum sensing. Additional metabolomic analyses showed the presence of some insecticides and herbicides in the Parac-Upper Rimac and Santa Eulalia-Parac sub-basins. The dominance in the Metropolitan area of Arcobacter cryaerophilus, an emergent pathogen associated with fecal contamination and antibiotic multiresistance, that is not usually reported in traditional microbiological quality assessments, highlights the necessity to apply next-generation sequencing tools to improve pathogen surveillance. We believe that our study will encourage the integration of omics sciences in Peru and its application on current environmental and public health issues.
-
-[Source](https://doi.org/10.1371/journal.pone.0250401)
-
-10.1371/journal.pone.0250401
+[Source](https://www.gene.com/careers/detail/202104-110572/Microbiome-Scientific-Researcher-Computational-Cancer-Immunology)
 
 ---
 
-## Distribution and diversity of eukaryotic microalgae in Kuwait waters assessed using 18S rRNA gene sequencing.
- 26.04.2021, _V Kumar, S Al Momin, VV Kumar, J Ahmed, L Al-Musallam, AB Shajan, H Al-Aqeel, H Al-Mansour, WM Al-Zakri_
+## Endothelium-gut communication: IGF-1Rs crosstalk with microbiota.
+ 03.05.2021, _Z Bouman Chen, N Kaur Malhi_
 
 
-The microbial communities play a crucial role in ecosystem functioning through interactions among individuals and taxonomic groups in a highly dynamic marine ecosystem. The structure and functioning of the microbial communities are often influenced by the changes in the surrounding environment. Monitoring the microbial diversity of the marine ecosystem helps to understand spatial patterns of microbial community and changes due to season, climate, and various drivers of biological diversity. Kuwait is characterized by an arid environment with a high degree of temperature variation during summer and winter. Our understanding of spatial distribution patterns of microbial communities, their diversity, and the influence of human activities on the degree of changes in the diversity of the microbial community in Kuwait territorial waters remain unclear. In this study, we employed 18S rRNA sequencing to explore marine microalgal community composition and dynamics in seawater samples collected from Kuwait waters over two seasonal cycles across six locations. A total of 448,184 sequences across 36 replicates corresponding to 12 samples from six stations were obtained. The quality-filtered sequences were clustered into 1,293 representative sequences, which were then classified into different eukaryotic taxa. This study reveals that the phytoplankton community in Kuwait waters is diverse and shows significant variations among different taxa during summer and winter. Dinoflagellates and diatoms were the most abundant season-dependent microalgae taxa in Kuwait waters. Alexandrium and Pyrophacus were abundant in summer, whereas Gonyaulax was abundant during the winter. The abundance of Coscinodiscus and Navicula, of the diatom genera, were also dependent upon both seasonal and possible anthropogenic factors. Our results demonstrate the effectiveness of a sequencing-based approach, which could be used to improve the accuracy of quantitative eukaryotic microbial community profiles.
+The gut, with its extensive microbiota, plays a fundamental role in metabolism. While alterations of the gut microbiota can induce dysfunction of the endothelium, it remains unclear whether the endothelium can directly impact the gut microbiota. To answer this question, in this issue of EMBO Reports Haywood and colleagues deployed a murine model with endothelial-specific overexpression of human insulin-like growth factor-1 receptor (IGF-1R), termed hIGFREO mice (Haywood et al, 2021). When fed a high-fat diet, hIGFREO mice gained less weight and adiposity, with improved glucose tolerance, as compared to their wild-type littermates. Such protection was attributed to the difference in gut microbiota, exemplified by an increase in the beneficial genus Akkermansia. Furthermore, depletion of microbiota through broad-spectrum antibiotics nullified the advantageous metabolic phenotype observed. Collectively, these findings demonstrate a novel communication axis between the endothelium and the gut wall, specifically through endothelial IGF-1R modulation of gut microbiota, that promotes whole body metabolic homeostasis.
 
-[Source](https://doi.org/10.1371/journal.pone.0250645)
+[Source](https://www.embopress.org/doi/full/10.15252/embr.202152896)
 
-10.1371/journal.pone.0250645
-
----
-
-## Toward understanding microbiota homeostasis in the plant kingdom.
- 22.04.2021, _BC Paasch, SY He_
-
-
-A diverse community of microorganisms inhabits various parts of a plant. Recent findings indicate that perturbations to the normal microbiota can be associated with positive and negative effects on plant health. In this review, we discuss these findings in the context of understanding how microbiota homeostasis is regulated in plants for promoting health and/or for preventing dysbiosis.
-
-[Source](https://doi.org/10.1371/journal.ppat.1009472)
-
-10.1371/journal.ppat.1009472
+10.15252/embr.202152896
 
 ---
 
-## Seasonal dynamics of diet-gut microbiota interaction in adaptation of yaks to life at high altitude.
- 21.04.2021, _N Guo, Q Wu, F Shi, J Niu, T Zhang, AA Degen, Q Fang, L Ding, Z Shang, Z Zhang, R Long_
+## Recent advances in marine algae oligosaccharides: structure, analysis, and potential prebiotic activities.
+ 03.05.2021, _XT Xie, KL Cheong_
 
 
-Dietary selection and intake affect the survival and health of mammals under extreme environmental conditions. It has been suggested that dietary composition is a key driver of gut microbiota variation; however, how gut microbiota respond to seasonal dietary changes under extreme natural conditions remains poorly understood. Sequencing plant trnL (UAA) region and 16S rRNA gene analysis were employed to determine dietary composition and gut microbiota in freely grazing yaks on the Tibetan plateau. Dietary composition was more diverse in winter than in summer, while Gramineae and Rosaceae were consumed frequently all year. Turnover of seasonal diet and gut microbiota composition occurred consistently. Yaks shifted enterotypes in response to dietary change between warm and cold seasons to best utilize nitrogen and energy, in particular in the harsh cold season. Our findings provide insights into understanding seasonal changes of diet-microbiota linkages in the adaptation of mammals to high altitudes.
+Marine algae contain abundant polysaccharides that support a range of health-promoting activities; however, the high molecular weight, high viscosity, and low solubility of marine algae polysaccharides (MAPs) limit their application in food, agriculture and medicine. Thus, as the degradation products of MAPs, marine algae oligosaccharides (MAOs) have drawn increasing attention. Most MAOs are non-digestible by digestive enzyme in the human gastrointestinal tract, but are fermented by bacteria in the gut and converted into short-chain fatty acids (SCFAs). MAOs can selectively enhance the activities of some populations of beneficial bacteria and stimulate a series of prebiotic effects, such as anti-oxidant, anti-diabetic, anti-tumour. However, the exact structures of MAOs and their prebiotic activities are, to a large extent, unexplored. This review summarizes recent advances in the sources, categories, and structure analysis methods of MAOs, emphasizing their effects on gut microbiota and its metabolite SCFAs as well as the resulting range of probiotic activities.
 
-[Source](https://doi.org/10.1038/s41522-021-00207-6)
+[Source](https://www.tandfonline.com/doi/full/10.1080/10408398.2021.1916736)
 
-10.1038/s41522-021-00207-6
-
----
-
-## Experimental parameters defining ultra-low biomass bioaerosol analysis.
- 19.04.2021, _I Luhung, A Uchida, SBY Lim, NE Gaultier, C Kee, KJX Lau, ES Gusareva, CE Heinle, A Wong, BNV Premkrishnan, RW Purbojati, E Acerbi, HL Kim, ACM Junqueira, S Longford, SR Lohar, ZH Yap, D Panicker, Y Koh, KK Kushwaha, PN Ang, A Putra, DI Drautz-Moses, SC Schuster_
-
-
-Investigation of the microbial ecology of terrestrial, aquatic and atmospheric ecosystems requires specific sampling and analytical technologies, owing to vastly different biomass densities typically encountered. In particular, the ultra-low biomass nature of air presents an inherent analytical challenge that is confounded by temporal fluctuations in community structure. Our ultra-low biomass pipeline advances the field of bioaerosol research by significantly reducing sampling times from days/weeks/months to minutes/hours, while maintaining the ability to perform species-level identification through direct metagenomic sequencing. The study further addresses all experimental factors contributing to analysis outcome, such as amassment, storage and extraction, as well as factors that impact on nucleic acid analysis. Quantity and quality of nucleic acid extracts from each optimisation step are evaluated using fluorometry, qPCR and sequencing. Both metagenomics and marker gene amplification-based (16S and ITS) sequencing are assessed with regard to their taxonomic resolution and inter-comparability. The pipeline is robust across a wide range of climatic settings, ranging from arctic to desert to tropical environments. Ultimately, the pipeline can be adapted to environmental settings, such as dust and surfaces, which also require ultra-low biomass analytics.
-
-[Source](https://doi.org/10.1038/s41522-021-00209-4)
-
-10.1038/s41522-021-00209-4
+10.1080/10408398.2021.1916736
 
 ---
 
-## A rich meconium metabolome in human infants is associated with early-life gut microbiota composition and reduced allergic sensitization
+## Interplay between diet and gut microbiome, and circulating concentrations of trimethylamine N-oxide: findings from a longitudinal cohort of US men.
+ 30.04.2021, _J Li, Y Li, KL Ivey, DD Wang, JE Wilkinson, A Franke, KH Lee, A Chan, C Huttenhower, FB Hu, EB Rimm, Q Sun_
 
-[Source](https://doi.org/10.1016/j.xcrm.2021.100260)
+
+Gut-produced trimethylamine N-oxide (TMAO) is postulated as a possible link between red meat intake and poor cardiometabolic health. We investigated whether gut microbiome could modify associations of dietary precursors with TMAO concentrations and cardiometabolic risk markers among free-living individuals.
+
+[Source](https://gut.bmj.com/content/early/2021/04/28/gutjnl-2020-322473)
+
+10.1136/gutjnl-2020-322473
+
+---
+
+## Gut Dysbiosis Associated with Antibiotics and Disease Severity and Its Relation to Mortality in Critically Ill Patients.
+ 03.05.2021, _M Ojima, K Shimizu, D Motooka, T Ishihara, S Nakamura, A Shintani, H Ogura, T Iida, K Yoshiya, T Shimazu_
+
+
+The gut microbiota are reported to be altered in critical illness. The pattern and impact of dysbiosis on prognosis has not been thoroughly investigated in the ICU setting.
+
+[Source](https://link.springer.com/article/10.1007%2Fs10620-021-07000-7)
+
+10.1007/s10620-021-07000-7
+
+---
+
+## Effects of Totum-63 on glucose homeostasis and post-prandial glycemia: a translational study.
+ 03.05.2021, _V Chavanelle, YF Otero, F Le Joubioux, D Ripoche, M Bargetto, A Vluggens, C Montaurier, G Pickering, G Ducheix, C Dubray, C Dualé, S Boulliau, N Macian, G Marceau, V Sapin, F Dutheil, B Guigas, T Maugard, N Boisseau, M Cazaubiel, SL Peltier, P Sirvent_
+
+
+Global prevalence of type 2 diabetes (T2D) is rising and may affect 700 million people by 2045. Totum-63 is a polyphenol-rich natural composition developed to reduce the risk of T2D. We first investigated the effects of Totum-63 supplementation in high-fat diet (HFD)-fed mice for up to 16 weeks, and thereafter assessed its safety and efficacy (2.5 g or 5 g per day) in 14 overweight men (mean age 51.5 years, BMI 27.6 kg.m-2) for 4 weeks. In HFD-fed mice, Totum-63 reduced body weight and fat mass gain while lean mass was unchanged. Moreover, fecal energy excretion was higher in Totum-63 supplemented mice, suggesting a reduction of calorie absorption in the digestive tract. In the gut, metagenomic analyses of fecal microbiota revealed a partial restoration of HFD-induced microbial imbalance, as shown by PCoA analysis of microbiota composition. HFD-induced increase in HOMA-IR score was delayed in supplemented mice, and insulin response to an OGTT was significantly reduced, suggesting that Totum-63 may prevent HFD-related impairments in glucose homeostasis. Interestingly, these improvements could be linked to restored insulin signaling in subcutaneous adipose tissue and soleus muscle. In the liver, HFD-induced steatosis was reduced by 40% (as shown by triglyceride content). In the subsequent study in men, Totum-63 (5g.day-1) improved glucose and insulin responses to a high-carbohydrate breakfast test (84% kcal carbohydrates). It was well tolerated, with no clinically significant adverse events reported. Collectively, these data suggest that Totum-63 could improve glucose homeostasis in both HFD-fed mice and overweight individuals, presumably through a multi-targeted action on different metabolic organs.
+
+[Source](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00629.2020)
+
+10.1152/ajpendo.00629.2020
+
+---
+
+## Impact of a fermented soy beverage supplemented with acerola by-product on the gut microbiota from lean and obese subjects using an in vitro model of the human colon
+
+[Source](https://link.springer.com/article/10.1007%2Fs00253-021-11252-8)
+
+---
+
+## <span style="color:#046844;" class="has-inline-color">Decoding the matrix: multiomics reveals host-microbe biomarker for inflammatory bowel disease </span>
+
+[Source](https://www.jci.org/articles/view/148902)
+
+---
+
+## <span style="color:#036c46;" class="has-inline-color">C. difficile exploits a host metabolite produced during toxin-mediated disease</span>
+
+[Source](https://www.nature.com/articles/s41586-021-03502-6)
+
+---
+
+## In vivo commensal control of Clostridioides difficile virulence 
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2021/05/03/2020.01.04.894915.full.pdf?%3Fcollection=)
+
+---
+
+## Description and comparison of the skin and ear canal microbiota of non-allergic and allergic German shepherd dogs using next generation sequencing
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250695)
+
+---
+
+## <span style="color:#04613c;" class="has-inline-color">Adaptive differentiation and rapid evolution of a soil bacterium along a climate gradient</span>
+
+[Source](https://www.pnas.org/content/118/18/e2101254118)
+
+---
+
+## Soils and sediments host novel archaea with divergent monooxygenases implicated in ammonia oxidation
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.03.442362v1)
+
+---
+
+## Metabolic flexibility allows bacterial habitat generalists to become dominant in a frequently disturbed ecosystem 
+
+[Source](https://www.nature.com/articles/s41396-021-00988-w)
+
+---
+
+## Comprehensive single‐PCR 16S and 18S rRNA community analysis validated with mock communities, and estimation of sequencing bias against 18S 
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15553)
+
+---
+
+## Completion of the gut microbial epi-bile acid pathway
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1907271)
+
+---
+
+## Possible effects of Porphyromonas gingivalis on the blood-brain barrier in Alzheimer’s disease
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/14787210.2021.1925540)
+
+---
+
+## Population genomics provides insights into the evolution and adaptation to humans of the waterborne pathogen Mycobacterium kansasii
+
+[Source](https://www.nature.com/articles/s41467-021-22760-6?utm_source=dlvr.it&utm_medium=twitter)
 
 ---
 
