@@ -23,15 +23,15 @@ Food allergy is a global health problem, particularly in developed countries. It
 
 ---
 
-## Cancer Treatment-Induced Bone Loss in Hormone-Sensitive Cancer: The Paradigm of Cancer Survivor Bone Health Management.
- 04.05.2021, _N Fortunati, F Gatti, F Felicetti, E Brignardello_
+## Irisin ameliorates endoplasmic reticulum stress and liver fibrosis through inhibiting PERK-mediated destabilization of HNRNPA1 in hepatic stellate cells.
+ 05.05.2021, _X Liao, W Zhan, R Li, T Tian, L Yu, Q Yang_
 
 
-Cancer therapy-induced bone loss (CTIBL), occurring especially in hormone-treated breast and prostate cancer patients, is a noteworthy long-term consequence of cancer treatments. Because of its negative impact on the quality life of cancer survivors, it deserves much attention. We here summarize the pathophysiology of CTIBL in breast and prostate cancer, its clinical presentation, management, and treatment.
+Liver fibrosis is a common consequence of chronic liver diseases involved with the activation of hepatic stellate cells (HSCs) and endoplasmic reticulum (ER) stress. Irisin is a small polypeptide hormone that shows beneficial effects on metabolic disorders. The current study aimed to investigate the biological function of irisin on hepatic fibrosis. A mouse model of carbon tetrachloride (CCl4)-induced hepatic fibrosis was established. CCl4-treated mice showed elevated serum levels of AST and ALT, increased collagen accumulation, induced ER stress, and upregulated expressions of pro-fibrotic proteins in the liver compared to the controls. The administration of irisin, however, ameliorated CCl4-induced hepatic fibrosis in both cultured HSCs and mice. PKR-like ER kinase (PERK) is a key component of the ER stress-associated signaling pathway. We found that irisin treatment improved the stability of heterogeneous nuclear ribonucleoprotein A1 (HNRNPA1) via regulating the phosphorylation of PERK in mouse livers and isolated HSCs. Also, the knockdown of HNRNPA1 eliminated the hepatoprotective effects of irisin on hepatic fibrosis and ER stress. In summary, this study showed that irisin alleviated ER stress and hepatic fibrosis by inhibiting PERK-mediated HNRNPA1 destabilization, suggesting that irisin may represent a promising therapeutic strategy for patients with liver fibrosis.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.650893/full)
 
-10.1159/000514692
+10.1515/hsz-2020-0251
 
 ---
 
