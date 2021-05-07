@@ -120,9 +120,10 @@ Culture-independent analyses of microbial communities have progressed dramatical
 ---
 
 ## Validation and standardization of DNA extraction and library construction methods for metagenomics-based human fecal microbiome measurements.
- 04.05.2021, _DM Tourlousse, K Narita, T Miura, M Sakamoto, A Ohashi, K Shiina, M Matsuda, D Miura, M Shimamura, Y Ohyama, A Yamazoe, Y Uchino, K Kameyama, S Arioka, J Kataoka, T Hisada, K Fujii, S Takahashi, M Kuroiwa, M Rokushima, M Nishiyama, Y Tanaka, T Fuchikami, H Aoki, S Kira, R Koyanagi, T Naito, M Nishiwaki, H Kumagai, M Konda, K Kasahara, M Ohkuma, H Kawasaki, Y Sekiguchi, J Terauchi_
+ 06.05.2021, _DM Tourlousse, K Narita, T Miura, M Sakamoto, A Ohashi, K Shiina, M Matsuda, D Miura, M Shimamura, Y Ohyama, A Yamazoe, Y Uchino, K Kameyama, S Arioka, J Kataoka, T Hisada, K Fujii, S Takahashi, M Kuroiwa, M Rokushima, M Nishiyama, Y Tanaka, T Fuchikami, H Aoki, S Kira, R Koyanagi, T Naito, M Nishiwaki, H Kumagai, M Konda, K Kasahara, M Ohkuma, H Kawasaki, Y Sekiguchi, J Terauchi_
 
 
+_DNA, Humans, Metagenomics, Microbiota, Reference Standards, Reproducibility of Results, Sequence Analysis, DNA_
 Validation and standardization of methodologies for microbial community measurements by high-throughput sequencing are needed to support human microbiome research and its industrialization. This study set out to establish standards-based solutions to improve the accuracy and reproducibility of metagenomics-based microbiome profiling of human fecal samples.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01048-3https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01048-3)
