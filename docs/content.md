@@ -23,15 +23,15 @@ Food allergy is a global health problem, particularly in developed countries. It
 
 ---
 
-## Irisin ameliorates endoplasmic reticulum stress and liver fibrosis through inhibiting PERK-mediated destabilization of HNRNPA1 in hepatic stellate cells.
- 05.05.2021, _X Liao, W Zhan, R Li, T Tian, L Yu, Q Yang_
+## [The conservative emergency room - care of acutely critically ill non-trauma patients].
+ 06.05.2021, _T Özkan, T Lindner, M Möckel_
 
 
-Liver fibrosis is a common consequence of chronic liver diseases involved with the activation of hepatic stellate cells (HSCs) and endoplasmic reticulum (ER) stress. Irisin is a small polypeptide hormone that shows beneficial effects on metabolic disorders. The current study aimed to investigate the biological function of irisin on hepatic fibrosis. A mouse model of carbon tetrachloride (CCl4)-induced hepatic fibrosis was established. CCl4-treated mice showed elevated serum levels of AST and ALT, increased collagen accumulation, induced ER stress, and upregulated expressions of pro-fibrotic proteins in the liver compared to the controls. The administration of irisin, however, ameliorated CCl4-induced hepatic fibrosis in both cultured HSCs and mice. PKR-like ER kinase (PERK) is a key component of the ER stress-associated signaling pathway. We found that irisin treatment improved the stability of heterogeneous nuclear ribonucleoprotein A1 (HNRNPA1) via regulating the phosphorylation of PERK in mouse livers and isolated HSCs. Also, the knockdown of HNRNPA1 eliminated the hepatoprotective effects of irisin on hepatic fibrosis and ER stress. In summary, this study showed that irisin alleviated ER stress and hepatic fibrosis by inhibiting PERK-mediated HNRNPA1 destabilization, suggesting that irisin may represent a promising therapeutic strategy for patients with liver fibrosis.
+Treatment of critically ill non-trauma patients is challenging, due to the broad spectrum of underlying diseases in this clinical setting. It has been shown that outcome in these patients is poor due to high age, comorbidities and severeness of acute disease. In most cases it is crucial to establish diagnosis and start specific treatment immediately to improve patients' outcome. In contrast to the management of severely injured patients, general guidelines for the initial diagnostic and therapeutic approaches in these patients have been lacking until now. As a consequence, little is known about both: patients' characteristics and outcome. This article provides an overview of the current information available on this group of patients.All critically ill patients should first be managed in the resuscitation room, as it is necessary to provide the optimal infrastructure, including material and personal resources, to maintain high quality care. For non-trauma patients, indication can be defined using the ABCDE approach. Expertise in emergency ultrasound as a key diagnostic tool, profound knowledge of intensive care treatment and of diagnostic and therapeutic approaches according to current specific guidelines are required. These requirements can be implemented by assembling nursery and medical staff trained in emergency care, supported by accredited continued professional development and regular simulation trainings.The best transition from preclinical to in-hospital care is achieved through detailed preparation and the use of standardized handover tools. Subsequent patient management can be organized using the primary and secondary survey. These aim to detect and treat life threatening pathologies first and, within a second step, to expand the diagnosis and therapy according to the individual case. Special focus should be put on communication, using crew resource management training, and on the provision on an open and constructive approach to making mistakes.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.650893/full)
 
-10.1515/hsz-2020-0251
+10.1055/a-1226-8117
 
 ---
 
