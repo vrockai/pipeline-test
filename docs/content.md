@@ -1,115 +1,109 @@
-## Androgen-induced gut dysbiosis disrupts glucolipid metabolism and endocrinal functions in polycystic ovary syndrome.
- 07.05.2021, _Q Han, J Wang, W Li, ZJ Chen, Y Du_
+## Systematic Review: The Gut Microbiome and Its Potential Clinical Application in Inflammatory Bowel Disease.
+ 05.05.2021, _L Aldars-García, M Chaparro, JP Gisbert_
 
 
-The characteristics of polycystic ovary syndrome (PCOS), a common reproductive endocrinal disorder, are high incidence, complicated aetiology and poor therapeutic effects. PCOS patients frequently exhibit gut dysbiosis; however, its roles in the regulation of metabolic and endocrinal balances in PCOS pathophysiology are not clear.
+Inflammatory bowel disease (IBD) is a chronic relapsing-remitting systemic disease of the gastrointestinal tract. It is well established that the gut microbiome has a profound impact on IBD pathogenesis. Our aim was to systematically review the literature on the IBD gut microbiome and its usefulness to provide microbiome-based biomarkers. A systematic search of the online bibliographic database PubMed from inception to August 2020 with screening in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines was conducted. One-hundred and forty-four papers were eligible for inclusion. There was a wide heterogeneity in microbiome analysis methods or experimental design. The IBD intestinal microbiome was generally characterized by reduced species richness and diversity, and lower temporal stability, while changes in the gut microbiome seemed to play a pivotal role in determining the onset of IBD. Multiple studies have identified certain microbial taxa that are enriched or depleted in IBD, including bacteria, fungi, viruses, and archaea. The two main features in this sense are the decrease in beneficial bacteria and the increase in pathogenic bacteria. Significant differences were also present between remission and relapse IBD status. Shifts in gut microbial community composition and abundance have proven to be valuable as diagnostic biomarkers. The gut microbiome plays a major role in IBD, yet studies need to go from casualty to causality. Longitudinal designs including newly diagnosed treatment-naïve patients are needed to provide insights into the role of microbes in the onset of intestinal inflammation. A better understanding of the human gut microbiome could provide innovative targets for diagnosis, prognosis, treatment and even cure of this relevant disease.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01046-5)
+[Source](https://doi.org/10.3390/microorganisms9050977)
 
-10.1186/s40168-021-01046-5
-
----
-
-## Diet, obesity, and the gut microbiome as determinants modulating metabolic outcomes in a non-human primate model 
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01069-y)
+10.3390/microorganisms9050977
 
 ---
 
-## Metagenomic Analysis of Common Intestinal Diseases Reveals Relationships among Microbial Signatures and Powers Multidisease Diagnostic Models.
- 05.05.2021, _P Jiang, S Wu, Q Luo, XM Zhao, WH Chen_
+## Millet-based supplement restored gut microbial diversity of acute malnourished pigs.
+ 07.05.2021, _X Li, Y Hui, B Leng, J Ren, Y Song, L Che, X Peng, B Huang, S Liu, L Li, DS Nielsen, Y Li, X Dai, S Zhao_
 
 
-Common intestinal diseases such as Crohn's disease (CD), ulcerative colitis (UC), and colorectal cancer (CRC) share clinical symptoms and altered gut microbes, necessitating cross-disease comparisons and the use of multidisease models. Here, we performed meta-analyses on 13 fecal metagenome data sets of the three diseases. We identified 87 species and 65 pathway markers that were consistently changed in multiple data sets of the same diseases. According to their overall trends, we grouped the disease-enriched marker species into disease-specific and disease-common clusters and revealed their distinct phylogenetic relationships; species in the CD-specific cluster were phylogenetically related, while those in the CRC-specific cluster were more distant. Strikingly, UC-specific species were phylogenetically closer to CRC, likely because UC patients have higher risk of CRC. Consistent with their phylogenetic relationships, marker species had similar within-cluster and different between-cluster metabolic preferences. A portion of marker species and pathways correlated with an indicator of leaky gut, suggesting a link between gut dysbiosis and human-derived contents. Marker species showed more coordinated changes and tighter inner-connections in cases than the controls, suggesting that the diseased gut may represent a stressed environment and pose stronger selection on gut microbes. With the marker species and pathways, we constructed four high-performance (including multidisease) models with an area under the receiver operating characteristic curve (AUROC) of 0.87 and true-positive rates up to 90%, and explained their putative clinical applications. We identified consistent microbial alterations in common intestinal diseases, revealed metabolic capacities and the relationships among marker bacteria in distinct states, and supported the feasibility of metagenome-derived multidisease diagnosis.IMPORTANCE Gut microbes have been identified as potential markers in distinguishing patients from controls in colorectal cancer, ulcerative colitis, and Crohn's disease individually, whereas there lacks a systematic analysis to investigate the exclusive microbial shifts of these enteropathies with similar clinical symptoms. Our meta-analysis and cross-disease comparisons identified consistent microbial alterations in each enteropathy, revealed microbial ecosystems among marker bacteria in distinct states, and demonstrated the necessity and feasibility of metagenome-based multidisease classifications. To the best of our knowledge, this is the first study to construct multiclass models for these common intestinal diseases.
+The tight association between malnutrition and gut microbiota (GM) dysbiosis enables microbiota-targeting intervention to be a promising strategy. Thus, we used a malnourished pig model to investigate the host response and GM alterations under different diet supplementation strategies. Pigs at age of 4 weeks were fed with pure maize diet to induce malnutrition symptoms, and followed by continuous feeding with maize (Maize, n = 8) or re-feeding using either corn-soy-blend (CSB+, n = 10) or millet-soy-blend based (MSB+, n = 10) supplementary food for 3 weeks. Meanwhile, 8 pigs were fed on a standard formulated ration as control (Ref). The effect of nutritional supplementation was assessed by the growth status, blood chemistry, gastrointestinal pathology, mucosal microbiota composition and colon production of short-chain fatty acids. Compared with purely maize-fed pigs, both CSB+ and MSB+ elevated the concentrations of total protein and globulin in blood. These pigs still showed most malnutrition symptoms after the food intervention period. MSB+ had superior influence on the GM development, exhibiting better performance in both structural and functional aspects. MSB+ pigs were colonized by less Proteobacteria but more Bacteroidetes, Firmicutes and Lachnospira spp. Pearson's correlation analysis indicated a strong correlation between the abundance of mucosal e.g., Faecalibacterium and Lachnospira spp. and body weight, crown-rump length and total serum protein. In conclusion, the malnutrition symptoms were accompanied by an aberrant GM, and millet-based nutritional supplementation showed promising potentials to restore the reduced GM diversity implicated in pig malnutrition.
 
-[Source](https://msystems.asm.org/content/6/3/e00112-21)
+[Source](https://doi.org/10.1371/journal.pone.0250423)
 
-10.1128/mSystems.00112-21
-
----
-
-## Individuals at risk for rheumatoid arthritis harbor differential intestinal bacteriophage communities with distinct metabolic potential.
- 06.05.2021, _MR Mangalea, D Paez-Espino, K Kieft, A Chatterjee, ME Chriswell, JA Seifert, ML Feser, MK Demoruelle, A Sakatos, K Anantharaman, KD Deane, KA Kuhn, VM Holers, BA Duerkop_
-
-
-Rheumatoid arthritis (RA) is an autoimmune disease characterized in seropositive individuals by the presence of anti-cyclic citrullinated protein (CCP) antibodies. RA is linked to the intestinal microbiota, yet the association of microbes with CCP serology and their contribution to RA is unclear. We describe intestinal phage communities of individuals at risk for developing RA, with or without anti-CCP antibodies, whose first-degree relatives have been diagnosed with RA. We show that at-risk individuals harbor intestinal phage compositions that diverge based on CCP serology, are dominated by Streptococcaceae, Bacteroidaceae, and Lachnospiraceae phages, and may originate from disparate ecosystems. These phages encode unique repertoires of auxiliary metabolic genes, which associate with anti-CCP status, suggesting that these phages directly influence the metabolic and immunomodulatory capability of the microbiota. This work sets the stage for the use of phages as preclinical biomarkers and provides insight into a possible microbial-based causation of RA disease development.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00148-7)
-
-10.1016/j.chom.2021.03.020
+10.1371/journal.pone.0250423
 
 ---
 
-## Integrative microbiomics in bronchiectasis exacerbations.
- 06.05.2021, _M Mac Aogáin, JK Narayana, PY Tiew, NABM Ali, VFL Yong, TK Jaggi, AYH Lim, HR Keir, AJ Dicker, KX Thng, A Tsang, FX Ivan, ME Poh, M Oriano, S Aliberti, F Blasi, TB Low, TH Ong, B Oliver, YH Giam, A Tee, MS Koh, JA Abisheganaden, K Tsaneva-Atanasova, JD Chalmers, SH Chotirmall_
+## A mixture of quebracho and chestnut tannins drives butyrate-producing bacteria populations shift in the gut microbiota of weaned piglets.
+ 07.05.2021, _F Miragoli, V Patrone, A Prandini, S Sigolo, M Dell'Anno, L Rossi, M Barbato, A Senizza, L Morelli, ML Callegari_
 
 
-Bronchiectasis, a progressive chronic airway disease, is characterized by microbial colonization and infection. We present an approach to the multi-biome that integrates bacterial, viral and fungal communities in bronchiectasis through weighted similarity network fusion ( https://integrative-microbiomics.ntu.edu.sg ). Patients at greatest risk of exacerbation have less complex microbial co-occurrence networks, reduced diversity and a higher degree of antagonistic interactions in their airway microbiome. Furthermore, longitudinal interactome dynamics reveals microbial antagonism during exacerbation, which resolves following treatment in an otherwise stable multi-biome. Assessment of the Pseudomonas interactome shows that interaction networks, rather than abundance alone, are associated with exacerbation risk, and that incorporation of microbial interaction data improves clinical prediction models. Shotgun metagenomic sequencing of an independent cohort validated the multi-biome interactions detected in targeted analysis and confirmed the association with exacerbation. Integrative microbiomics captures microbial interactions to determine exacerbation risk, which cannot be appreciated by the study of a single microbial group. Antibiotic strategies probably target the interaction networks rather than individual microbes, providing a fresh approach to the understanding of respiratory infection.
+Weaning is a critical period for piglets, in which unbalanced gut microbiota and/or pathogen colonisation can contribute to diseases that interfere with animal performance. Tannins are natural compounds that could be used as functional ingredients to improve gut health in pig farming thanks to their antibacterial, antioxidant, and antidiarrhoeal properties. In this study, a mixture of quebracho and chestnut tannins (1.25%) was evaluated for its efficacy in reducing the negative weaning effects on piglet growth. Microbiota composition was assessed by Illumina MiSeq 16S rRNA gene sequencing of DNA extracted from stools at the end of the trial. Sequence analysis revealed an increase in the genera Shuttleworthia, Pseudobutyrivibrio, Peptococcus, Anaerostipes, and Solobacterium in the tannin-supplemented group. Conversely, this dietary intervention reduced the abundance of the genera Syntrophococcus, Atopobium, Mitsuokella, Sharpea, and Prevotella. The populations of butyrate-producing bacteria were modulated by tannin, and higher butyrate concentrations in stools were detected in the tannin-fed pigs. Co-occurrence analysis revealed that the operational taxonomic units (OTUs) belonging to the families Veillonellaceae, Lachnospiraceae, and Coriobacteriaceae occupied the central part of the network in both the control and the tannin-fed animals. Instead, in the tannin group, the OTUs belonging to the families Acidaminococcaceae, Alcaligenaceae, and Spirochaetaceae characterised its network, whereas Family XIII Incertae Sedis occupied a more central position than in the control group. Conversely, the presence of Desulfovibrionaceae characterised the network of the control group, and this family was not present in the network of the tannin group. Moreover, the prediction of metabolic pathways revealed that the gut microbiome of the tannin group possessed an enhanced potential for carbohydrate transport and metabolism, as well as a lower abundance of pathways related to cell wall/membrane/envelope biogenesis and inorganic ion transport. In conclusion, the tested tannins seem to modulate the gut microbiota, favouring groups of butyrate-producing bacteria.
 
-[Source](https://www.nature.com/articles/s41591-021-01289-7)
+[Source](https://doi.org/10.1371/journal.pone.0250874)
 
-10.1038/s41591-021-01289-7
-
----
-
-## The International Scientific Association of Probiotics and Prebiotics (ISAPP) consensus statement on the definition and scope of postbiotics.
- 05.05.2021, _S Salminen, MC Collado, A Endo, C Hill, S Lebeer, EMM Quigley, ME Sanders, R Shamir, JR Swann, H Szajewska, G Vinderola_
-
-
-In 2019, the International Scientific Association for Probiotics and Prebiotics (ISAPP) convened a panel of experts specializing in nutrition, microbial physiology, gastroenterology, paediatrics, food science and microbiology to review the definition and scope of postbiotics. The term 'postbiotics' is increasingly found in the scientific literature and on commercial products, yet is inconsistently used and lacks a clear definition. The purpose of this panel was to consider the scientific, commercial and regulatory parameters encompassing this emerging term, propose a useful definition and thereby establish a foundation for future developments. The panel defined a postbiotic as a "preparation of inanimate microorganisms and/or their components that confers a health benefit on the host". Effective postbiotics must contain inactivated microbial cells or cell components, with or without metabolites, that contribute to observed health benefits. The panel also discussed existing evidence of health-promoting effects of postbiotics, potential mechanisms of action, levels of evidence required to meet the stated definition, safety and implications for stakeholders. The panel determined that a definition of postbiotics is useful so that scientists, clinical triallists, industry, regulators and consumers have common ground for future activity in this area. A generally accepted definition will hopefully lead to regulatory clarity and promote innovation and the development of new postbiotic products.
-
-[Source](https://www.nature.com/articles/s41575-021-00440-6)
-
-10.1038/s41575-021-00440-6
+10.1371/journal.pone.0250874
 
 ---
 
-## Fungal taxonomy and sequence-based nomenclature.
- 29.04.2021, _R Lücking, MC Aime, B Robbertse, AN Miller, T Aoki, HA Ariyawansa, G Cardinali, PW Crous, IS Druzhinina, DM Geiser, DL Hawksworth, KD Hyde, L Irinyi, R Jeewon, PR Johnston, PM Kirk, E Malosso, TW May, W Meyer, HR Nilsson, M Öpik, V Robert, M Stadler, M Thines, D Vu, AM Yurkov, N Zhang, CL Schoch_
+## Dynamic changes occur in the DNA gut virome of female cynomolgus macaques during aging
 
-
-The identification and proper naming of microfungi, in particular plant, animal and human pathogens, remains challenging. Molecular identification is becoming the default approach for many fungal groups, and environmental metabarcoding is contributing an increasing amount of sequence data documenting fungal diversity on a global scale. This includes lineages represented only by sequence data. At present, these taxa cannot be formally described under the current nomenclature rules. By considering approaches used in bacterial taxonomy, we propose solutions for the nomenclature of taxa known only from sequences to facilitate consistent reporting and communication in the literature and public sequence repositories.
-
-[Source](https://www.nature.com/articles/s41564-021-00888-x)
-
-10.1038/s41564-021-00888-x
+[Source](https://doi.org/10.1002/mbo3.1186)
 
 ---
 
-## A Streptococcus Quorum Sensing System Enables Suppression of Innate Immunity.
- 07.05.2021, _KM Rahbari, JC Chang, MJ Federle_
+## Virome Diversity among Mosquito Populations in a Sub-Urban Region of Marseille, France
 
-
-Some bacterial pathogens utilize cell-cell communication systems, such as quorum sensing (QS), to coordinate genetic programs during host colonization and infection. The human-restricted pathosymbiont Streptococcus pyogenes (group A streptococcus [GAS]) uses the Rgg2/Rgg3 QS system to modify the bacterial surface, enabling biofilm formation and lysozyme resistance. Here, we demonstrate that innate immune cell responses to GAS are substantially altered by the QS status of the bacteria. We found that macrophage activation, stimulated by multiple agonists and assessed by cytokine production and NF-κB activity, was substantially suppressed upon interaction with QS-active GAS but not QS-inactive bacteria. Neither macrophage viability nor bacterial adherence, internalization, or survival were altered by the QS activation status, yet tumor necrosis factor alpha (TNF-α), interleukin 6 (IL-6), and interferon beta (IFN-β) levels and NF-κB reporter activity were drastically lower following infection with QS-active GAS. Suppression required contact between viable bacteria and macrophages. A QS-regulated biosynthetic gene cluster (BGC) in the GAS genome, encoding several putative enzymes, was also required for macrophage modulation. Our findings suggest a model wherein upon contact with macrophages, QS-active GAS produce a BGC-derived factor capable of suppressing inflammatory responses. The suppressive capability of QS-active GAS is abolished after treatment with a specific QS inhibitor. These observations suggest that interfering with the ability of bacteria to collaborate via QS can serve as a strategy to counteract microbial efforts to manipulate host defenses.IMPORTANCEStreptococcus pyogenes is restricted to human hosts and commonly causes superficial diseases such as pharyngitis; it can also cause severe and deadly manifestations including necrotizing skin disease or severe postinfectious sequelae like rheumatic heart disease. Understanding the complex mechanisms used by this pathogen to manipulate host defenses could aid in developing new therapeutics to treat infections. Here, we examine the impact of a bacterial cell-cell communication system, which is highly conserved across S. pyogenes, on host innate immune responses. We find that S. pyogenes uses this system to suppress macrophage proinflammatory cytokine responses in vitro Interference with this communication system could serve as a strategy to disarm bacteria and maintain an effective immune response.
-
-[Source](https://mbio.asm.org/content/12/3/e03400-20)
-
-10.1128/mBio.03400-20
+[Source](https://doi.org/10.3390/v13050768)
 
 ---
 
-## Tamock: simulation of habitat-specific benchmark data in metagenomics.
- 07.05.2021, _SM Gerner, AB Graf, T Rattei_
+## Mapping the microbial diversity and natural resistome of north Antarctica soils
 
-
-_Algorithms, Benchmarking, Metagenome, Metagenomics, Sequence Analysis, DNA, Software_
-Simulated metagenomic reads are widely used to benchmark software and workflows for metagenome interpretation. The results of metagenomic benchmarks depend on the assumptions about their underlying ecosystems. Conclusions from benchmark studies are therefore limited to the ecosystems they mimic. Ideally, simulations are therefore based on genomes, which resemble particular metagenomic communities realistically.
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04154-z)
-
-10.1186/s12859-021-04154-z
+[Source](https://doi.org/10.1101/2021.05.05.442734)
 
 ---
 
-## Whole lung tissue is the preferred sampling method for amplicon-based characterization of murine lung microbiota.
- 06.05.2021, _JM Baker, KJ Hinkle, RA McDonald, CA Brown, NR Falkowski, GB Huffnagle, RP Dickson_
+## Community dynamics in rhizosphere microorganisms at different development stages of wheat growing in confined isolation environments
+
+[Source](https://doi.org/10.1007/s00253-021-11283-1)
+
+---
+
+## Bioprospecting Extreme Ecosystems Before They Vanish: The (Poorly Studied) Microbiology of Tropical Glaciers
+
+[Source](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429343452-1/bioprospecting-extreme-ecosystems-vanish-poorly-studied-microbiology-tropical-glaciers-luis-andr%C3%A9s-yarz%C3%A1bal)
+
+---
+
+## Investigating variability in microbial community composition in replicate environmental DNA samples down lake sediment cores
+
+[Source](https://doi.org/10.1371/journal.pone.0250783)
+
+---
+
+## Benchmarking metagenomics classifiers on ancient viral DNA: a simulation study
+
+[Source](https://doi.org/10.1101/2021.04.30.442132)
+
+---
+
+## Network analysis methods for studying microbial communities: A mini review
+
+[Source](https://doi.org/10.1016/j.csbj.2021.05.001)
+
+---
+
+## Improving metagenomic binning results with overlapped bins using assembly graphs
+
+[Source](https://doi.org/10.1186/s13015-021-00185-6)
+
+---
+
+## Considerations for mosquito microbiome research from the Mosquito Microbiome Consortium.
+ 06.04.2021, _N Dada, N Jupatanakul, G Minard, SM Short, J Akorli, LM Villegas_
 
 
-Low-biomass microbiome studies (such as those of the lungs, placenta, and skin) are vulnerable to contamination and sequencing stochasticity, which obscure legitimate microbial signal. While human lung microbiome studies have rigorously identified sampling strategies that reliably capture microbial signal from these low-biomass microbial communities, the optimal sampling strategy for characterizing murine lung microbiota has not been empirically determined. Performing accurate, reliable characterization of murine lung microbiota and distinguishing true microbial signal from noise in these samples will be critical for further mechanistic microbiome studies in mice.
+_Animals, Culicidae, Metagenomics, Microbiota, Reproducibility of Results, Research_
+In the past decade, there has been increasing interest in mosquito microbiome research, leading to large amounts of data on different mosquito species, with various underlying physiological characteristics, and from diverse geographical locations. However, guidelines and standardized methods for conducting mosquito microbiome research are lacking. To streamline methods in mosquito microbiome research and optimize data quality, reproducibility, and comparability, as well as facilitate data curation in a centralized location, we are establishing the Mosquito Microbiome Consortium, a collaborative initiative for the advancement of mosquito microbiome research. Our overall goal is to collectively work on unraveling the role of the mosquito microbiome in mosquito biology, while critically evaluating its potential for mosquito-borne disease control. This perspective serves to introduce the consortium and invite broader participation. It highlights the issues we view as most pressing to the community and proposes guidelines for conducting mosquito microbiome research. We focus on four broad areas in this piece: (1) sampling/experimental design for field, semi-field, or laboratory studies; (2) metadata collection; (3) sample processing, sequencing, and use of appropriate controls; and (4) data handling and analysis. We finally summarize current challenges and highlight future directions in mosquito microbiome research. We hope that this piece will spark discussions around this area of disease vector biology, as well as encourage careful considerations in the design and implementation of mosquito microbiome research. Video Abstract.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01055-4)
+[Source](https://doi.org/10.1101/2021.05.05.442781)
 
-10.1186/s40168-021-01055-4
+10.1186/s40168-020-00987-7
+
+---
+
+## Current challenges in microbiome metadata collection
+
+[Source](https://doi.org/10.1101/2021.05.05.442781)
 
 ---
 
