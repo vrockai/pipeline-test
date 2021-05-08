@@ -52,9 +52,15 @@
 
 ---
 
-## Whole lung tissue is the preferred sampling method for amplicon-based characterization of murine lung microbiota
+## Whole lung tissue is the preferred sampling method for amplicon-based characterization of murine lung microbiota.
+ 06.05.2021, _JM Baker, KJ Hinkle, RA McDonald, CA Brown, NR Falkowski, GB Huffnagle, RP Dickson_
+
+
+Low-biomass microbiome studies (such as those of the lungs, placenta, and skin) are vulnerable to contamination and sequencing stochasticity, which obscure legitimate microbial signal. While human lung microbiome studies have rigorously identified sampling strategies that reliably capture microbial signal from these low-biomass microbial communities, the optimal sampling strategy for characterizing murine lung microbiota has not been empirically determined. Performing accurate, reliable characterization of murine lung microbiota and distinguishing true microbial signal from noise in these samples will be critical for further mechanistic microbiome studies in mice.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01055-4)
+
+10.1186/s40168-021-01055-4
 
 ---
 
