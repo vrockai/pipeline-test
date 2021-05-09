@@ -88,19 +88,6 @@ Weaning is a critical period for piglets, in which unbalanced gut microbiota and
 
 ---
 
-## Considerations for mosquito microbiome research from the Mosquito Microbiome Consortium.
- 06.04.2021, _N Dada, N Jupatanakul, G Minard, SM Short, J Akorli, LM Villegas_
-
-
-_Animals, Culicidae, Metagenomics, Microbiota, Reproducibility of Results, Research_
-In the past decade, there has been increasing interest in mosquito microbiome research, leading to large amounts of data on different mosquito species, with various underlying physiological characteristics, and from diverse geographical locations. However, guidelines and standardized methods for conducting mosquito microbiome research are lacking. To streamline methods in mosquito microbiome research and optimize data quality, reproducibility, and comparability, as well as facilitate data curation in a centralized location, we are establishing the Mosquito Microbiome Consortium, a collaborative initiative for the advancement of mosquito microbiome research. Our overall goal is to collectively work on unraveling the role of the mosquito microbiome in mosquito biology, while critically evaluating its potential for mosquito-borne disease control. This perspective serves to introduce the consortium and invite broader participation. It highlights the issues we view as most pressing to the community and proposes guidelines for conducting mosquito microbiome research. We focus on four broad areas in this piece: (1) sampling/experimental design for field, semi-field, or laboratory studies; (2) metadata collection; (3) sample processing, sequencing, and use of appropriate controls; and (4) data handling and analysis. We finally summarize current challenges and highlight future directions in mosquito microbiome research. We hope that this piece will spark discussions around this area of disease vector biology, as well as encourage careful considerations in the design and implementation of mosquito microbiome research. Video Abstract.
-
-[Source](https://doi.org/10.1101/2021.05.05.442781)
-
-10.1186/s40168-020-00987-7
-
----
-
 ## Current challenges in microbiome metadata collection
 
 [Source](https://doi.org/10.1101/2021.05.05.442781)
