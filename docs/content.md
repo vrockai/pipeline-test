@@ -1,96 +1,102 @@
-## Systematic Review: The Gut Microbiome and Its Potential Clinical Application in Inflammatory Bowel Disease.
- 05.05.2021, _L Aldars-García, M Chaparro, JP Gisbert_
+## Iron status influences non-alcoholic fatty liver disease in obesity through the gut microbiome.
+ 08.05.2021, _J Mayneris-Perxachs, M Cardellini, L Hoyles, J Latorre, F Davato, JM Moreno-Navarrete, M Arnoriaga-Rodríguez, M Serino, J Abbott, RH Barton, J Puig, X Fernández-Real, W Ricart, C Tomlinson, M Woodbridge, P Gentileschi, SA Butcher, E Holmes, JK Nicholson, V Pérez-Brocal, A Moya, DM Clain, R Burcelin, ME Dumas, M Federici, JM Fernández-Real_
 
 
-Inflammatory bowel disease (IBD) is a chronic relapsing-remitting systemic disease of the gastrointestinal tract. It is well established that the gut microbiome has a profound impact on IBD pathogenesis. Our aim was to systematically review the literature on the IBD gut microbiome and its usefulness to provide microbiome-based biomarkers. A systematic search of the online bibliographic database PubMed from inception to August 2020 with screening in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines was conducted. One-hundred and forty-four papers were eligible for inclusion. There was a wide heterogeneity in microbiome analysis methods or experimental design. The IBD intestinal microbiome was generally characterized by reduced species richness and diversity, and lower temporal stability, while changes in the gut microbiome seemed to play a pivotal role in determining the onset of IBD. Multiple studies have identified certain microbial taxa that are enriched or depleted in IBD, including bacteria, fungi, viruses, and archaea. The two main features in this sense are the decrease in beneficial bacteria and the increase in pathogenic bacteria. Significant differences were also present between remission and relapse IBD status. Shifts in gut microbial community composition and abundance have proven to be valuable as diagnostic biomarkers. The gut microbiome plays a major role in IBD, yet studies need to go from casualty to causality. Longitudinal designs including newly diagnosed treatment-naïve patients are needed to provide insights into the role of microbes in the onset of intestinal inflammation. A better understanding of the human gut microbiome could provide innovative targets for diagnosis, prognosis, treatment and even cure of this relevant disease.
+The gut microbiome and iron status are known to play a role in the pathophysiology of non-alcoholic fatty liver disease (NAFLD), although their complex interaction remains unclear.
 
-[Source](https://doi.org/10.3390/microorganisms9050977)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01052-7)
 
-10.3390/microorganisms9050977
-
----
-
-## Millet-based supplement restored gut microbial diversity of acute malnourished pigs.
- 07.05.2021, _X Li, Y Hui, B Leng, J Ren, Y Song, L Che, X Peng, B Huang, S Liu, L Li, DS Nielsen, Y Li, X Dai, S Zhao_
-
-
-The tight association between malnutrition and gut microbiota (GM) dysbiosis enables microbiota-targeting intervention to be a promising strategy. Thus, we used a malnourished pig model to investigate the host response and GM alterations under different diet supplementation strategies. Pigs at age of 4 weeks were fed with pure maize diet to induce malnutrition symptoms, and followed by continuous feeding with maize (Maize, n = 8) or re-feeding using either corn-soy-blend (CSB+, n = 10) or millet-soy-blend based (MSB+, n = 10) supplementary food for 3 weeks. Meanwhile, 8 pigs were fed on a standard formulated ration as control (Ref). The effect of nutritional supplementation was assessed by the growth status, blood chemistry, gastrointestinal pathology, mucosal microbiota composition and colon production of short-chain fatty acids. Compared with purely maize-fed pigs, both CSB+ and MSB+ elevated the concentrations of total protein and globulin in blood. These pigs still showed most malnutrition symptoms after the food intervention period. MSB+ had superior influence on the GM development, exhibiting better performance in both structural and functional aspects. MSB+ pigs were colonized by less Proteobacteria but more Bacteroidetes, Firmicutes and Lachnospira spp. Pearson's correlation analysis indicated a strong correlation between the abundance of mucosal e.g., Faecalibacterium and Lachnospira spp. and body weight, crown-rump length and total serum protein. In conclusion, the malnutrition symptoms were accompanied by an aberrant GM, and millet-based nutritional supplementation showed promising potentials to restore the reduced GM diversity implicated in pig malnutrition.
-
-[Source](https://doi.org/10.1371/journal.pone.0250423)
-
-10.1371/journal.pone.0250423
+10.1186/s40168-021-01052-7
 
 ---
 
-## A mixture of quebracho and chestnut tannins drives butyrate-producing bacteria populations shift in the gut microbiota of weaned piglets.
- 07.05.2021, _F Miragoli, V Patrone, A Prandini, S Sigolo, M Dell'Anno, L Rossi, M Barbato, A Senizza, L Morelli, ML Callegari_
+## Ecological and network analyses identify four microbial species with potential significance for the diagnosis/treatment of ulcerative colitis (UC)
 
-
-Weaning is a critical period for piglets, in which unbalanced gut microbiota and/or pathogen colonisation can contribute to diseases that interfere with animal performance. Tannins are natural compounds that could be used as functional ingredients to improve gut health in pig farming thanks to their antibacterial, antioxidant, and antidiarrhoeal properties. In this study, a mixture of quebracho and chestnut tannins (1.25%) was evaluated for its efficacy in reducing the negative weaning effects on piglet growth. Microbiota composition was assessed by Illumina MiSeq 16S rRNA gene sequencing of DNA extracted from stools at the end of the trial. Sequence analysis revealed an increase in the genera Shuttleworthia, Pseudobutyrivibrio, Peptococcus, Anaerostipes, and Solobacterium in the tannin-supplemented group. Conversely, this dietary intervention reduced the abundance of the genera Syntrophococcus, Atopobium, Mitsuokella, Sharpea, and Prevotella. The populations of butyrate-producing bacteria were modulated by tannin, and higher butyrate concentrations in stools were detected in the tannin-fed pigs. Co-occurrence analysis revealed that the operational taxonomic units (OTUs) belonging to the families Veillonellaceae, Lachnospiraceae, and Coriobacteriaceae occupied the central part of the network in both the control and the tannin-fed animals. Instead, in the tannin group, the OTUs belonging to the families Acidaminococcaceae, Alcaligenaceae, and Spirochaetaceae characterised its network, whereas Family XIII Incertae Sedis occupied a more central position than in the control group. Conversely, the presence of Desulfovibrionaceae characterised the network of the control group, and this family was not present in the network of the tannin group. Moreover, the prediction of metabolic pathways revealed that the gut microbiome of the tannin group possessed an enhanced potential for carbohydrate transport and metabolism, as well as a lower abundance of pathways related to cell wall/membrane/envelope biogenesis and inorganic ion transport. In conclusion, the tested tannins seem to modulate the gut microbiota, favouring groups of butyrate-producing bacteria.
-
-[Source](https://doi.org/10.1371/journal.pone.0250874)
-
-10.1371/journal.pone.0250874
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02201-6)
 
 ---
 
-## Dynamic changes occur in the DNA gut virome of female cynomolgus macaques during aging
+## A Meta-analysis of Gut Microbiota in Children with Autism.
+ 05.05.2021, _P Andreo-Martínez, M Rubio-Aparicio, J Sánchez-Meca, A Veas, AE Martínez-González_
 
-[Source](https://doi.org/10.1002/mbo3.1186)
 
----
+Previous studies have reported dysbiosis in the gut microbiota (GM) of children with autism spectrum disorders (ASD), which may be a determining factor on child development through the microbiota-gut-brain axis. However, it is not clear if there is a specific group of dysbiotic bacteria in ASD. The aim of this study was to carry out a meta-analysis on the studies that analyze GM in children with ASD. 18 studies fulfilled our selection criteria. Our results showed a lower relative abundance of Streptococcus (SMD+ = - 0.999; 95% CI - 1.549, - 0.449) and Bifidobacterium genera (SMD+ = - 0.513; 95% CI - 0.953, - 0.073) in children with ASD. Overall, the Bifidobacterium genera is involved. However, differences found between studies are attributed to factors such as reporting bias.
 
-## Virome Diversity among Mosquito Populations in a Sub-Urban Region of Marseille, France
+[Source](https://link.springer.com/article/10.1007/s10803-021-05002-y)
 
-[Source](https://doi.org/10.3390/v13050768)
-
----
-
-## Mapping the microbial diversity and natural resistome of north Antarctica soils
-
-[Source](https://doi.org/10.1101/2021.05.05.442734)
+10.1007/s10803-021-05002-y
 
 ---
 
-## Community dynamics in rhizosphere microorganisms at different development stages of wheat growing in confined isolation environments
+## A meta-analysis of Gut Microbiota in Children with Autism. Andreo-Martinéz et al.
 
-[Source](https://doi.org/10.1007/s00253-021-11283-1)
-
----
-
-## Bioprospecting Extreme Ecosystems Before They Vanish: The (Poorly Studied) Microbiology of Tropical Glaciers
-
-[Source](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429343452-1/bioprospecting-extreme-ecosystems-vanish-poorly-studied-microbiology-tropical-glaciers-luis-andr%C3%A9s-yarz%C3%A1bal)
+[Source](https://link.springer.com/article/10.1007/s10803-021-05002-y)
 
 ---
 
-## Investigating variability in microbial community composition in replicate environmental DNA samples down lake sediment cores
+## Deviations in the gut microbiota of neonates affected by maternal group B Streptococcus colonization.
+ 09.05.2021, _YF Li, XL Gong, SX Chen, K Wang, YH Jiang_
 
-[Source](https://doi.org/10.1371/journal.pone.0250783)
 
----
+Group B Streptococcus (GBS) infection is the leading cause of septicemia, meningitis, and pneumonia in neonates. Aberrant gut colonization in early life may predispose children to various diseases in adulthood. However, the associations between gut microbial changes and GBS colonization is still unclear.
 
-## Benchmarking metagenomics classifiers on ancient viral DNA: a simulation study
+[Source](https://link.springer.com/article/10.1186/s12866-021-02204-3)
 
-[Source](https://doi.org/10.1101/2021.04.30.442132)
-
----
-
-## Network analysis methods for studying microbial communities: A mini review
-
-[Source](https://doi.org/10.1016/j.csbj.2021.05.001)
+10.1186/s12866-021-02204-3
 
 ---
 
-## Improving metagenomic binning results with overlapped bins using assembly graphs
+## Longitudinal changes in diet cause repeatable and largely reversible shifts in gut microbial communities of laboratory mice and are observed across segments of the entire intestinal tract
 
-[Source](https://doi.org/10.1186/s13015-021-00185-6)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.06.443038v1.abstract?%3Fcollection=)
 
 ---
 
-## Current challenges in microbiome metadata collection
+## Cage environment regulates gut microbiota independent of toll-like receptors.
+ 04.05.2021, _JH Lipinski, X Zhou, SJ Gurczynski, JR Erb-Downward, RP Dickson, GB Huffnagle, BB Moore, DN O'Dwyer_
 
-[Source](https://doi.org/10.1101/2021.05.05.442781)
+
+The gut microbiome orchestrates epithelial homeostasis and both local and remote immunological responses. Critical to these regulatory interactions are innate immune receptors termed toll-like receptors. Studies to date have implicated innate immunity and toll-like receptors in shaping key features of the gut microbiome. However, a variety of biological and environmental variables are also implicated in determining gut microbiota composition. In this report, we hypothesized that co-housing and environment dominated the regulation of gut microbiota in animal models independent of innate immunity. To determine the importance of these variables, innate immunity or environment in shaping gut microbiota, we used a randomized co-housing strategy and transgenic TLR-deficient mice. We have found that mice co-housed together by genotype exhibited limited changes over time in the composition of gut microbiota. However, in mice randomized to cage, we report extensive changes in gut microbiota, independent of TLR function whereby the fecal microbiota of TLR-deficient mice converge with wild type. TLR5-deficient mice in these experiments exhibit a greater susceptibility for comparative changes in microbiota to other TLR-deficient mice and wild type mice. Our work has broad implications for the study of innate immunity and host-microbiota interactions. Given the profound impact that gut dysbiosis may have on immunity, this report highlights the potential impact of co-housing on gut microbiota and indices of inflammation as outcomes in biological models of infectious or inflammatory disease.
+
+[Source](https://iai.asm.org/content/early/2021/04/21/IAI.00187-21.abstract?casa_token=0FapB7nBH1cAAAAA:kVZErwtNu5Y9dz-Z6gXMcXUpjuTCUQf9FwTq43eFlfzBniKTt0wfWH0VTpOhD1kdQ0vV52aL61z3rm-9nqae)
+
+10.1128/IAI.00187-21
+
+---
+
+## Changes of gut microbiome composition and metabolites associated with hypertensive heart failure rats.
+ 09.05.2021, _L Li, SJ Zhong, SY Hu, B Cheng, H Qiu, ZX Hu_
+
+
+The potential role of the gut microbiome (GM) in heart failure (HF) had recently been revealed. However, the underlying mechanisms of the GM and fecal metabolome in HF have not been characterized. The Dahl salt-sensitive rat model of hypertensive heart failure (H-HF) was used to study the clinical symptoms and characteristics. To elucidate the pathogenesis of HF, we combined 16S rRNA gene sequencing and metabolomics to analyze gut microbial compositions and fecal metabolomic profiles of rats with H-HF.
+
+[Source](https://link.springer.com/article/10.1186/s12866-021-02202-5)
+
+10.1186/s12866-021-02202-5
+
+---
+
+## Specific and conserved patterns of microbiota-structuring by maize benzoxazinoids in the field.
+ 08.05.2021, _S Cadot, H Guan, M Bigalke, JC Walser, G Jander, M Erb, MGA van der Heijden, K Schlaeppi_
+
+
+Plants influence their root and rhizosphere microbial communities through the secretion of root exudates. However, how specific classes of root exudate compounds impact the assembly of root-associated microbiotas is not well understood, especially not under realistic field conditions. Maize roots secrete benzoxazinoids (BXs), a class of indole-derived defense compounds, and thereby impact the assembly of their microbiota. Here, we investigated the broader impacts of BX exudation on root and rhizosphere microbiotas of adult maize plants grown under natural conditions at different field locations in Europe and the USA. We examined the microbiotas of BX-producing and multiple BX-defective lines in two genetic backgrounds across three soils with different properties.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01049-2)
+
+10.1186/s40168-021-01049-2
+
+---
+
+## A metagenomic view of novel microbial and metabolic diversity found within the deep terrestrial biosphere
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.06.442964v1.abstract?%3Fcollection=)
+
+---
+
+## <em>geneshot</em>: gene-level metagenomics identifies genome islands associated with immunotherapy response
+
+[Source](gene-level metagenomics identifies genome islands associated with immunotherapy response)
 
 ---
 
