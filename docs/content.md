@@ -1,5 +1,5 @@
 ## Iron status influences non-alcoholic fatty liver disease in obesity through the gut microbiome.
- 08.05.2021, _J Mayneris-Perxachs, M Cardellini, L Hoyles, J Latorre, F Davato, JM Moreno-Navarrete, M Arnoriaga-Rodríguez, M Serino, J Abbott, RH Barton, J Puig, X Fernández-Real, W Ricart, C Tomlinson, M Woodbridge, P Gentileschi, SA Butcher, E Holmes, JK Nicholson, V Pérez-Brocal, A Moya, DM Clain, R Burcelin, ME Dumas, M Federici, JM Fernández-Real_
+ 10.05.2021, _J Mayneris-Perxachs, M Cardellini, L Hoyles, J Latorre, F Davato, JM Moreno-Navarrete, M Arnoriaga-Rodríguez, M Serino, J Abbott, RH Barton, J Puig, X Fernández-Real, W Ricart, C Tomlinson, M Woodbridge, P Gentileschi, SA Butcher, E Holmes, JK Nicholson, V Pérez-Brocal, A Moya, DM Clain, R Burcelin, ME Dumas, M Federici, JM Fernández-Real_
 
 
 The gut microbiome and iron status are known to play a role in the pathophysiology of non-alcoholic fatty liver disease (NAFLD), although their complex interaction remains unclear.
@@ -77,7 +77,7 @@ The potential role of the gut microbiome (GM) in heart failure (HF) had recently
 ---
 
 ## Specific and conserved patterns of microbiota-structuring by maize benzoxazinoids in the field.
- 08.05.2021, _S Cadot, H Guan, M Bigalke, JC Walser, G Jander, M Erb, MGA van der Heijden, K Schlaeppi_
+ 10.05.2021, _S Cadot, H Guan, M Bigalke, JC Walser, G Jander, M Erb, MGA van der Heijden, K Schlaeppi_
 
 
 Plants influence their root and rhizosphere microbial communities through the secretion of root exudates. However, how specific classes of root exudate compounds impact the assembly of root-associated microbiotas is not well understood, especially not under realistic field conditions. Maize roots secrete benzoxazinoids (BXs), a class of indole-derived defense compounds, and thereby impact the assembly of their microbiota. Here, we investigated the broader impacts of BX exudation on root and rhizosphere microbiotas of adult maize plants grown under natural conditions at different field locations in Europe and the USA. We examined the microbiotas of BX-producing and multiple BX-defective lines in two genetic backgrounds across three soils with different properties.
