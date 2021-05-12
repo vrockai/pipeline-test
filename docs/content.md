@@ -1,5 +1,5 @@
 ## Iron status influences non-alcoholic fatty liver disease in obesity through the gut microbiome.
- 10.05.2021, _J Mayneris-Perxachs, M Cardellini, L Hoyles, J Latorre, F Davato, JM Moreno-Navarrete, M Arnoriaga-Rodríguez, M Serino, J Abbott, RH Barton, J Puig, X Fernández-Real, W Ricart, C Tomlinson, M Woodbridge, P Gentileschi, SA Butcher, E Holmes, JK Nicholson, V Pérez-Brocal, A Moya, DM Clain, R Burcelin, ME Dumas, M Federici, JM Fernández-Real_
+ 11.05.2021, _J Mayneris-Perxachs, M Cardellini, L Hoyles, J Latorre, F Davato, JM Moreno-Navarrete, M Arnoriaga-Rodríguez, M Serino, J Abbott, RH Barton, J Puig, X Fernández-Real, W Ricart, C Tomlinson, M Woodbridge, P Gentileschi, SA Butcher, E Holmes, JK Nicholson, V Pérez-Brocal, A Moya, DM Clain, R Burcelin, ME Dumas, M Federici, JM Fernández-Real_
 
 
 The gut microbiome and iron status are known to play a role in the pathophysiology of non-alcoholic fatty liver disease (NAFLD), although their complex interaction remains unclear.
