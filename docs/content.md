@@ -11,7 +11,7 @@ Emerging evidence indicates maternal microbiota as one major reservoir for pione
 ---
 
 ## Intratumour microbiome associated with the infiltration of cytotoxic CD8+ T cells and patient survival in cutaneous melanoma.
- 11.05.2021, _G Zhu, H Su, CH Johnson, SA Khan, H Kluger, L Lu_
+ 12.05.2021, _G Zhu, H Su, CH Johnson, SA Khan, H Kluger, L Lu_
 
 
 The gut microbiome plays an important role in systemic inflammation and immune response. Microbes can translocate and reside in tumour niches. However, it is unclear how the intratumour microbiome affects immunity in human cancer. The purpose of this study was to investigate the association between intratumour bacteria, infiltrating CD8+ T cells and patient survival in cutaneous melanoma.
@@ -167,7 +167,7 @@ Understanding the functions carried out by rhizosphere microbiomes will further 
 ---
 
 ## Meta-transcriptomic profiling of functional variation of freshwater microbial communities induced by an antidepressant sertraline hydrochloride.
- 11.05.2021, _H Cui, W Zhou, Y Deng, B Zheng, Q Zhang, Z Zhang, T Lu, H Qian_
+ 12.05.2021, _H Cui, W Zhou, Y Deng, B Zheng, Q Zhang, Z Zhang, T Lu, H Qian_
 
 
 Sertraline hydrochloride (Ser-HCl) is an effective and commonly used antidepressant drug, which is also frequently detected in aquatic environments. Our previous research showed that Ser-HCl changes the community composition of aquatic microbiome, but the understanding of the expression of functional pathways in microbial communities is still incomplete; to address this knowledge gap, we used meta-transcriptomics analysis to evaluate the toxicity of Ser-HCl to natural aquatic microbial communities cultured in laboratory microcosms. Meta-transcriptomic results show that a 15-day exposure to 50 μg/L Ser-HCl significantly changed the functional expression activity of aquatic microbial communities. Pathways related to lipid metabolism, energy metabolism, membrane transport function, and genetic information processing in the aquatic microbial community were severely inhibited under Ser-HCl treatment, but metabolism of cofactors and vitamins to alleviate biological toxicity after Ser-HCl exposure was enhanced. Our study thus reveals details of the effects of sertraline on the functioning of aquatic microbiome. Due to the extensive use of Ser-HCl and its strong biological activity, it should not continue to be an overlooked pollutant. Therefore, more attention should be paid to the negative effects of such biologically active drugs on the expression of aquatic microbiome.
