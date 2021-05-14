@@ -154,16 +154,9 @@ To create a longitudinal near-peer mentorship program for medical students apply
 
 ---
 
-## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces.
- 12.05.2021, _A Cuscó, D Pérez, J Viñes, N Fàbregas, O Francino_
-
-
-_Animals, Burkholderiales, Dogs, Feces, Genome, Bacterial, Metagenome, Metagenomics, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
-Long-read sequencing in metagenomics facilitates the assembly of complete genomes out of complex microbial communities. These genomes include essential biologic information such as the ribosomal genes or the mobile genetic elements, which are usually missed with short-reads. We applied long-read metagenomics with Nanopore sequencing to retrieve high-quality metagenome-assembled genomes (HQ MAGs) from a dog fecal sample.
+## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces
 
 [Source](https://link.springer.com/epdf/10.1186/s12864-021-07607-0)
-
-10.1186/s12864-021-07607-0
 
 ---
 
