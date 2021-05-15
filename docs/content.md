@@ -1,12 +1,12 @@
-## Trout-like multifunctional piezoelectric robotic fish and energy harvester.
- 13.05.2021, _D Tan, YC Wang, E Kohtanen, A Erturk_
+## Massive advancing non-exudative type 1 choroidal neovascularization in CTRP5 Late Onset Retinal Degeneration: longitudinal findings on multimodal imaging and implications for age-related macular degeneration.
+ 14.05.2021, _TDL Keenan, EK Vanderford, T de Silva, PA Sieving, CA Cukras_
 
 
-This work presents our experimental studies on a trout-inspired multifunctional robotic fish as an underwater swimmer and energy harvester. Fiber-based flexible piezoelectric composites with interdigitated electrodes, specifically Macro-Fiber Composite (MFC) structures, strike a balance between the deformation and actuation force capabilities to generate hydrodynamic propulsion without requiring additional mechanisms for motion amplification. A pair of MFC laminates bracketing a passive fin functions like artificial muscle when driven out of phase to expand and contract on each side to create bending. The trout-like robotic fish design explored in this work was tested for both unconstrained swimming in a quiescent water tank and under imposed flow in a water tunnel to estimate the maximum swimming speed, which exceeded 0.25 m/s, i.e., 0.8 body length per second. Hydrodynamic thrust characterization was also performed in a quiescent water setting, and it was found that the fin can easily produce tens of mN thrust, similar to its biological counterpart for similar swimming speeds. Overall, the prototype presented here generates thrust levels higher than other smart material-based concepts (such as soft polymeric material-based actuators which provide large deformation but low force), while offering simple design, geometric scalability, and silent operation unlike motor-based robotic fish (which use bulky actuators and complex mechanisms). Additionally, energy harvesting experiments were performed to convert flow-induced vibrations at the wake of a cylindrical bluff body (for different diameters) in a water tunnel. The shed vortex frequency range for a set of bluff body diameters covered the first vibration mode of the tail, yielding an average electrical power of 120 μW at resonance for a flow speed around 0.3 m/s and a bluff body diameter of 28.6 mm. Such low-power electricity can find applications to power small sensors of the robotic fish in scenarios such as ecological monitoring, among others.
+To describe longitudinal multimodal imaging findings of non-exudative choroidal neovascularization (CNV) in CTRP5 late-onset retinal degeneration (CTRP5-LORD).
 
 [Source](https://nsurp.org/)
 
-10.1088/1748-3190/ac011e
+10.1097/IAE.0000000000003205
 
 ---
 
@@ -16,15 +16,15 @@ This work presents our experimental studies on a trout-inspired multifunctional 
 
 ---
 
-## Improving Medical and Nurse Practitioner Student Confidence and Clinical Skill in Advance Care Plan Development: A Multidisciplinary Mentorship Model.
- 13.05.2021, _AC Coogan, MM Shifrin, MT Williams, J Alverio, VJ Periyakoil, MB Karlekar_
+## Enhancing supports to children of incarcerated parents: Introducing trauma informed training to church mentors.
+ 14.05.2021, _K Hays, K Flores-Carter, J Costello, R Ellis_
 
 
-Advance care planning (ACP) is an integral aspect of patient-centered care, however medical (MD) and Adult-Gerontology Acute Care Nurse Practitioner (AGACNP) students receive minimal education on how to facilitate ACP discussions and ultimately feel uncomfortable having these discussions with patients.1-4 The aim of this project was to increase MD and AGACNP students' perceived ability and confidence in leading ACP conversations through an ACP educational program called the Letter Project Pilot (LPP).
+A child who has a parent incarcerated is likely to experience a number of life challenges including school failure, poverty, substance abuse, and justice system involvement. The negative outcomes associated with having a parent incarcerated disproportionately expose children to adverse childhood events (ACE's) which have been associated with higher morbidity and mortality. However, engagement with caring adults who can provide both practical and spiritual mentorship can increase a child's resilience and buffer the impact of these negative outcomes. Church-based mentors have the capacity to provide support to this population when adequately trained in trauma-informed responses. This study describes Camp Agape California (CAC), a church-based mentoring program for children with an incarcerated parent. Specifically, this study describes the development and implementation of a trauma focused mentorship training purposed to equip church members to better meet the needs of this vulnerable population. Seventy-six volunteer mentors from various churches participated in the training and completed the post-training survey. Results suggest that the trauma informed training was effective at increasing knowledge and self-efficacy and was identified as being relevant to the mentor role. Implications for the utility of church-based mentorship for vulnerable populations are explored.
 
 [Source](https://docs.google.com/forms/d/e/1FAIpQLSd8ptyxVUBYEbIAxP_63KDeJAZ4CxieZWgN9vdtxNsgqMVJpg/viewform)
 
-10.1177/10499091211017871
+10.1080/10852352.2021.1924594
 
 ---
 
@@ -154,28 +154,15 @@ Advance care planning (ACP) is an integral aspect of patient-centered care, howe
 
 ---
 
-## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces.
- 12.05.2021, _A Cuscó, D Pérez, J Viñes, N Fàbregas, O Francino_
-
-
-_Animals, Burkholderiales, Dogs, Feces, Genome, Bacterial, Metagenome, Metagenomics, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
-Long-read sequencing in metagenomics facilitates the assembly of complete genomes out of complex microbial communities. These genomes include essential biologic information such as the ribosomal genes or the mobile genetic elements, which are usually missed with short-reads. We applied long-read metagenomics with Nanopore sequencing to retrieve high-quality metagenome-assembled genomes (HQ MAGs) from a dog fecal sample.
+## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces
 
 [Source](https://link.springer.com/epdf/10.1186/s12864-021-07607-0)
 
-10.1186/s12864-021-07607-0
-
 ---
 
-## Perinatal exposure to tetracycline contributes to lasting developmental effects on offspring.
- 14.05.2021, _EM Hill, CD Howard, TL Bale, E Jašarević_
-
-
-For more than 30 years, the tetracycline on/off system of inducible gene expression has been leveraged to study disease mechanisms across many research areas, especially that of metabolism and neuroscience. This system requires acute or chronic exposure to tetracycline derivatives, such as doxycycline, to manipulate gene expression in a temporal and tissue-specific manner, with exposure often being restricted to gestational and early developmental windows. Despite evidence showing that early life antibiotic exposure has adverse effects on gut microbiota, metabolism, physiology, immunity and behavior, little is known regarding the lasting impact of doxycycline treatment on relevant outcomes in experimental offspring.
+## Perinatal exposure to tetracycline contributes to lasting developmental effects on offspring
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00099-z)
-
-10.1186/s42523-021-00099-z
 
 ---
 
@@ -427,7 +414,7 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=150c41d903)
+[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=2eb4ef9eae)
 
 ---
 
