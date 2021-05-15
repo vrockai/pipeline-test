@@ -161,7 +161,7 @@ Advance care planning (ACP) is an integral aspect of patient-centered care, howe
 ---
 
 ## Perinatal exposure to tetracycline contributes to lasting developmental effects on offspring.
- 12.05.2021, _EM Hill, CD Howard, TL Bale, E Jašarević_
+ 14.05.2021, _EM Hill, CD Howard, TL Bale, E Jašarević_
 
 
 For more than 30 years, the tetracycline on/off system of inducible gene expression has been leveraged to study disease mechanisms across many research areas, especially that of metabolism and neuroscience. This system requires acute or chronic exposure to tetracycline derivatives, such as doxycycline, to manipulate gene expression in a temporal and tissue-specific manner, with exposure often being restricted to gestational and early developmental windows. Despite evidence showing that early life antibiotic exposure has adverse effects on gut microbiota, metabolism, physiology, immunity and behavior, little is known regarding the lasting impact of doxycycline treatment on relevant outcomes in experimental offspring.
@@ -420,7 +420,7 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=7bacaebb0d)
+[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=150c41d903)
 
 ---
 
