@@ -52,6 +52,18 @@ A child who has a parent incarcerated is likely to experience a number of life c
 
 ---
 
+## Processing of trigeminocervical nociceptive afferent input by neuronal circuity in the upper cervical lamina I.
+ 14.05.2021, _EC Fernandes, J Carlos-Ferreira, LL Luz, E Kokai, Z Meszar, P Szucs, BV Safronov_
+
+
+Afferents from the C2 spinal nerve (SN) and trigeminal nerve (TN) innervate neighboring cranial territories and their convergence on the upper cervical dorsal horn neurons represents neural substrate of pain referral in primary headache disorders. Unfortunately, little is known about trigeminocervical input to the major spinal nociceptive-projection area lamina I. Here we used ex-vivo brainstem-cervical cord preparation for the visually-guided whole-cell recording from the upper cervical lamina I neurons. We show that 50% of them receive convergent monosynaptic input from both nerves, whereas 35% and 11% of neurons receive specific supply from the C2 SN and TN, respectively. Altogether, ten distinct patterns of synaptic input from the C2 SN and TN to lamina I neurons could be identified. Although stimulation of both nerves evoked excitatory/inhibitory responses, more numerous pure inhibitory inputs arose from the TN. We show that cervical and trigeminal nociceptors converge on to lamina I projection and inhibitory neurons. Thus, trigeminocervical input in lamina I is processed in both nerve-specific and convergent circuitries. Afferent convergence on to inhibitory interneurons serves as a feedforward mechanism balancing excitatory drive to projection neurons. Disruption of this balance may cause pain in primary headache syndromes.
+
+[Source](https://twitter.com/merenbey/status/1391950554398605315?ref_src=twsrc%5Etfw)
+
+10.1097/j.pain.0000000000002342
+
+---
+
 ## May 11, 2021
 
 [Source](https://twitter.com/merenbey/status/1391950554398605315?ref_src=twsrc%5Etfw)
@@ -573,7 +585,7 @@ Elective rhinoplasty surgeons' fees vary considerably and are influenced by geog
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=2eb4ef9eae)
+[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=13df2920d3)
 
 ---
 
