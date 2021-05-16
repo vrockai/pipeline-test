@@ -1,12 +1,12 @@
-## Massive advancing non-exudative type 1 choroidal neovascularization in CTRP5 Late Onset Retinal Degeneration: longitudinal findings on multimodal imaging and implications for age-related macular degeneration.
- 14.05.2021, _TDL Keenan, EK Vanderford, T de Silva, PA Sieving, CA Cukras_
+## Effects of Tourniquet Application on Faster Recovery after Surgery and Ischemia-Reperfusion Post-Total Knee Arthroplasty, Cementation through Closure versus Full-Course and Nontourniquet Group.
+ 15.05.2021, _Q Cao, Q Wu, Y Liu, Z He, Y Cong, J Meng, J Zhao, N Bao_
 
 
-To describe longitudinal multimodal imaging findings of non-exudative choroidal neovascularization (CNV) in CTRP5 late-onset retinal degeneration (CTRP5-LORD).
+Pneumatic tourniquets are used in total knee arthroplasty (TKA) for surgical field visualization and improved cementation; however, their use is controversial. This study aimed to assess the effects of tourniquet application on faster recovery post-TKA. Our hypothesis was that inflammation and limb function would be similar with different tourniquet applications. A prospective randomized double-blinded trial assessed tourniquets effects on postoperative pain, swelling, and early outcome in TKA. In present study, 50 TKAs were enrolled in each group as follows: full course (FC), cementation through closure (CTC), and no tourniquet (NT), CTC as treatment group while FC and NT as control groups. Topical blood samples of 3 mL from the joint cavity and drainage bags were obtained at special time point. At last, all samples such as tumor necrosis factor-a (TNF-a), C-C motif chemokine ligand 2 (CCL2), pentraxin 3 (PTX3), prostaglandin E2 (PGE2), superoxide dismutase 1 (SOD1), and myoglobin (Mb) were detected by ELISA. Active and passive range of motion (ROM) values, pain score by the visual analog scale (VAS), change of thigh circumference were recorded at special time point as well. In topical blood, the change of inflammatory factors, such as TNF-a, PTX3, CCL2, PGE2, SOD1, and Mb, was lower in CTC and NT groups than in FC group (p &lt; 0.01 and 0.05). Although VAS and ROM were comparable preoperatively in three groups (p &gt; 0.05), the perimeter growth rate was lower, pain scores (VAS) were reduced, and ROM values were improved in CTC and NT groups compared with FC group at T4, T5, and T6 postoperatively (p &lt; 0.01 and 0.05). Improved therapeutic outcome was observed in the CTC group, indicating patients should routinely undergo TKA with cementation through closure tourniquet application.
 
 [Source](https://nsurp.org/)
 
-10.1097/IAE.0000000000003205
+10.1055/s-0041-1728814
 
 ---
 
@@ -64,9 +64,27 @@ A child who has a parent incarcerated is likely to experience a number of life c
 
 ---
 
-## Human and preclinical studies of the host–gut microbiome co-metabolite hippurate as a marker and mediator of metabolic health
+## Human and preclinical studies of the host-gut microbiome co-metabolite hippurate as a marker and mediator of metabolic health.
+ 12.05.2021, _F Brial, J Chilloux, T Nielsen, S Vieira-Silva, G Falony, P Andrikopoulos, M Olanipekun, L Hoyles, F Djouadi, AL Neves, A Rodriguez-Martinez, GI Mouawad, N Pons, S Forslund, E Le-Chatelier, A Le Lay, J Nicholson, T Hansen, T Hyötyläinen, K Clément, M Oresic, P Bork, SD Ehrlich, J Raes, OB Pedersen, D Gauguier, ME Dumas_
+
+
+Gut microbial products are involved in regulation of host metabolism. In human and experimental studies, we explored the potential role of hippurate, a hepatic phase 2 conjugation product of microbial benzoate, as a marker and mediator of metabolic health.
 
 [Source](https://gut.bmj.com/content/gutjnl/early/2021/05/11/gutjnl-2020-323314.full.pdf)
+
+10.1136/gutjnl-2020-323314
+
+---
+
+## The therapeutic role of lactobacillus and montelukast in combination with metformin in diabetes mellitus complications through modulation of gut microbiota and suppression of oxidative stress.
+ 15.05.2021, _AM El-Baz, A Shata, HM Hassan, MMA El-Sokkary, AE Khodir_
+
+
+Male reproductive dysfunction is one of the overlooked findings of diabetes mellitus (DM) that deserves greater scientific attention. This study is designed to explore the therapeutic potential of metformin and montelukast, in combination with Lactobacillus, for modulation of intestinal flora and suppression of oxidative stress in testicular and liver damage in diabetic male rats. A DM model was induced by streptozotocin (STZ)which caused functional, biochemical, and inflammatory injuries to the testicular and liver tissues. The experimental panel included nine rat groups: normal control, normal control plus metformin, normal control plus montelukast, DM control, DM plus montelukast, DM plus a combination of metformin and Lactobacillus, DM plus a combination of montelukast and Lactobacillus, and DM plus a combination of metformin and montelukast. In parallel, clinical evaluation of microscopic examination scoring, and hepatic and testicular injuries, were evaluated. Biochemical markers including glucose level, lipid profile, inflammatory markers (tumor necrosis factor- (TNF-α) and interleukin-17 (IL-17), Caspase-3, and Bax proteins expressions were measured. The change in the microbiota abundance was investigated using conventional and real-time PCR. The current study revealed a significant difference in the relative abundance of microbiota, where DM is associated with an enormous increase of Bacteroides spp., Clostridium spp., E. coli, and Fusobacterium spp., and a significant decrease in Bifidobacteria spp., and Lactobacillus spp., in contrast with normal control. Metformin and montelukast, in combination with Lactobacillus, significantly reversed the testicular and liver damage caused by STZ. Moreover, the drugs significantly reduced the oxidative, inflammatory, and apoptotic activities induced by STZ.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.intimp.2021.107757
 
 ---
 
@@ -112,21 +130,45 @@ A child who has a parent incarcerated is likely to experience a number of life c
 
 ---
 
+## Effect of Posterior Tibial Slope Change on Postoperative Range of Motion and Clinical Outcomes after Posterior Cruciate-Substituting Total Knee Arthroplasty.
+ 15.05.2021, _OS Lee, J Lee, MC Lee, HS Han_
+
+
+The posterior tibial slope (PTS) is usually adjusted by less than 5 degrees, without considering its individual difference, during posterior cruciate-substituting (PS) total knee arthroplasty (TKA). The effect of these individual changes of PTS would be important because clinical results depending on postoperative PTS were reported conflictingly. We investigated the effect of the change in PTS on the postoperative range of motion (ROM) and clinical scores after PS TKA. We retrospectively reviewed 164 knees from 107 patients who underwent PS TKA with a 2-year follow-up. We analyzed the preoperative and postoperative PTS, ROM, visual analog scale pain scale, Western Ontario and McMaster University Index (WOMAC), Hospital for Special Surgery Knee Score, Knee Society Score, and Forgotten Joint Score (FJS). The association of the absolute change in PTS with ROM and clinical scores was analyzed using correlation analysis and multiple regression analysis. As a result, the mean PTS and mean ROM changed from 9.6 ± 3.4 and 120.1 ± 15.4 degrees preoperatively to 2.0 ± 1.3 and 128.4 ± 9.3 degrees postoperatively, and the mean PTS change was 7.6 ± 3.5 degrees. The PTS change had no statistically significant association with the postoperative ROM and clinical scoring systems, although it did have a weak positive correlation with WOMAC function, No 10 (difficulty in rising from sitting) (correlation coefficient = 0.342, p = 0.041), and moderate positive correlation with the FJS, No. 6 (awareness when climbing stairs) (correlation coefficient = 0.470, p = 0.001). The authors concluded that the amount of change in PTS did not affect the postoperative ROM and clinical scores, although proximal tibial resection with a constant target of PTS resulted in individually different changes in the PTS after PS TKA.
+
+[Source](https://twitter.com/Will_Johnston97/status/1390626216680509441?ref_src=twsrc%5Etfw)
+
+10.1055/s-0041-1729967
+
+---
+
 ## May 7, 2021
 
 [Source](https://twitter.com/Will_Johnston97/status/1390626216680509441?ref_src=twsrc%5Etfw)
 
 ---
 
-## Mechanical biofilm disruption causes microbial and immunological shifts in periodontitis patients
+## Mechanical biofilm disruption causes microbial and immunological shifts in periodontitis patients.
+ 11.05.2021, _W Johnston, BT Rosier, A Artacho, M Paterson, K Piela, C Delaney, JL Brown, G Ramage, A Mira, S Culshaw_
+
+
+Periodontitis is characterized by subgingival biofilm dysbiosis, inflammation and tissue destruction. Current treatment involves mechanical biofilm disruption known as non-surgical periodontal therapy (NSPT). This study sought to characterise the impact of treatment on microbial diversity and overall community, and the parallel impact on host inflammation in the oral cavity. Fourty-two periodontitis patients were included in this study, with periodontal clinical parameters, subgingival plaque and saliva samples collected at baseline and 90 days after treatment. Salivary cytokines were quantified, and subgingival plaque was analysed using 16S rRNA sequencing. After treatment, there were marked health-associated alterations in microbial composition and diversity, including differential abundance of 42 genera and 61 species. These changes were accompanied by substantial clinical improvement (pockets ≥ 5 mm, 27.50% to 9.00%, p &lt; 0.001) and a decrease in salivary IL-1β (p &lt; 0.001)-a putative marker of periodontal inflammation. Despite significant reductions in disease associated anaerobes, several genera (Fusobacterium, Prevotella, Tanenerella, Treponema) remained present and formed a distinct subnetwork associated with residual disease. Collectively, this study shows that current periodontal treatment results in partial restoration of a healthy microbial ecosystem, but features of biofilm dysbiosis and host inflammation remain in some patients, which were surprisingly independent of clinical response.
 
 [Source](https://www.nature.com/articles/s41598-021-89002-z)
 
+10.1038/s41598-021-89002-z
+
 ---
 
-## The Complex Link between the Female Genital Microbiota, Genital Infections, and Inflammation
+## The Complex Link between the Female Genital Microbiota, Genital Infections, and Inflammation.
+ 04.05.2021, _S Dabee, JS Passmore, R Heffron, HB Jaspan_
+
+
+The female genital tract microbiota is part of a complex ecosystem influenced by several physiological, genetic, and behavioral factors. It is uniquely linked to a woman's mucosal immunity and plays a critical role in the regulation of genital inflammation. A vaginal microbiota characterized by a high abundance of lactobacilli and low overall bacterial diversity is associated with lower inflammation. On the other hand, a more diverse microbiota is linked to high mucosal inflammation levels, a compromised genital epithelial barrier, and an increased risk of sexually transmitted infections and other conditions. Several bacterial taxa such as Gardnerella spp., Prevotella spp., Sneathia spp., and Atopobium spp. are well known to have adverse effects; however, the definitive cause of this microbial dysbiosis is yet to be fully elucidated. The aim of this review is to discuss the multiple ways in which the microbiota influences the overall genital inflammatory milieu and to explore the causes and consequences of this inflammatory response. While there is abundant evidence linking a diverse genital microbiota to elevated inflammation, understanding the risk factors and mechanisms through which it affects genital health is essential. A robust appreciation of these factors is important for identifying effective prevention and treatment strategies.
 
 [Source](https://iai.asm.org/content/iai/89/5/e00487-20.full.pdf)
+
+10.1128/IAI.00487-20
 
 ---
 
@@ -142,21 +184,40 @@ A child who has a parent incarcerated is likely to experience a number of life c
 
 ---
 
-## Urinary prostaglandin E2 as a biomarker for recurrent UTI in postmenopausal women
+## Urinary prostaglandin E2 as a biomarker for recurrent UTI in postmenopausal women.
+ 11.05.2021, _T Ebrahimzadeh, A Kuprasertkul, ML Neugent, KC Lutz, JL Fuentes, J Gadhvi, F Khan, C Zhang, BM Sharon, K Orth, Q Li, PE Zimmern, NJ De Nisco_
+
+
+Urinary tract infection (UTI) is one of the most common adult bacterial infections and exhibits high recurrence rates, especially in postmenopausal women. Studies in mouse models suggest that cyclooxygenase-2 (COX-2)-mediated inflammation sensitizes the bladder to recurrent UTI (rUTI). However, COX-2-mediated inflammation has not been robustly studied in human rUTI. We used human cohorts to assess urothelial COX-2 production and evaluate its product, PGE2, as a biomarker for rUTI in postmenopausal women. We found that the percentage of COX-2-positive cells was elevated in inflamed versus uninflamed bladder regions. We analyzed the performance of urinary PGE2 as a biomarker for rUTI in a controlled cohort of 92 postmenopausal women and PGE2 consistently outperformed all other tested clinical variables as a predictor of rUTI status. Furthermore, time-to-relapse analysis indicated that the risk of rUTI relapse was 3.6 times higher in women with above median urinary PGE2 levels than with below median levels. Taken together, these data suggest that urinary PGE2 may be a clinically useful diagnostic and prognostic biomarker for rUTI in postmenopausal women.
 
 [Source](https://www.life-science-alliance.org/content/4/7/e202000948)
 
+10.26508/lsa.202000948
+
 ---
 
-## Impact of Vaginal Estrogen on the Urobiome in Postmenopausal Women With Recurrent Urinary Tract Infection
+## Impact of Vaginal Estrogen on the Urobiome in Postmenopausal Women With Recurrent Urinary Tract Infection.
+ 14.05.2021, _CE Jung, M Estaki, J Chopyk, BC Taylor, A Gonzalez, D McDonald, J Shin, K Ferrante, E Wasenda, Q Lippmann, R Knight, D Pride, ES Lukacz_
+
+
+The aim of this study was to describe effects of vaginal estrogen (VE) on the urogenital microbiome in postmenopausal women with recurrent urinary tract infections (rUTIs).
 
 [Source](https://journals.lww.com/fpmrs/Abstract/9000/Impact_of_Vaginal_Estrogen_on_the_Urobiome_in.99232.aspx)
 
+10.1097/SPV.0000000000001051
+
 ---
 
-## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces
+## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces.
+ 12.05.2021, _A Cuscó, D Pérez, J Viñes, N Fàbregas, O Francino_
+
+
+_Animals, Burkholderiales, Dogs, Feces, Genome, Bacterial, Metagenome, Metagenomics, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
+Long-read sequencing in metagenomics facilitates the assembly of complete genomes out of complex microbial communities. These genomes include essential biologic information such as the ribosomal genes or the mobile genetic elements, which are usually missed with short-reads. We applied long-read metagenomics with Nanopore sequencing to retrieve high-quality metagenome-assembled genomes (HQ MAGs) from a dog fecal sample.
 
 [Source](https://link.springer.com/epdf/10.1186/s12864-021-07607-0)
+
+10.1186/s12864-021-07607-0
 
 ---
 
@@ -214,6 +275,18 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ---
 
+## Impact of Preoperative Opioid Use on Patient-Reported Outcomes after Revision Total Knee Arthroplasty: A Propensity Matched Analysis.
+ 15.05.2021, _E Ingall, C Klemt, CM Melnic, WB Cohen-Levy, V Tirumala, YM Kwon_
+
+
+This is a retrospective study. Prior studies have characterized the deleterious effects of narcotic use in patients undergoing primary total knee arthroplasty (TKA). While there is an increasing revision arthroplasty burden, data on the effect of narcotic use in the revision surgery setting remain limited. Our aim was to characterize the effect of active narcotic use at the time of revision TKA on patient-reported outcome measures (PROMs). A total of 330 consecutive patients who underwent revision TKA and completed both pre- and postoperative PROMs was identified. Due to differences in baseline characteristics, 99 opioid users were matched to 198 nonusers using the nearest-neighbor propensity score matching. Pre- and postoperative knee disability and osteoarthritis outcome score physical function (KOOS-PS), patient reported outcomes measurement information system short form (PROMIS SF) physical, PROMIS SF mental, and physical SF 10A scores were evaluated. Opioid use was identified by the medication reconciliation on the day of surgery. Propensity score-matched opioid users had significantly lower preoperative PROMs than the nonuser for KOOS-PS (45.2 vs. 53.8, p &lt; 0.01), PROMIS SF physical (37.2 vs. 42.5, p &lt; 0.01), PROMIS SF mental (44.2 vs. 51.3, p &lt; 0.01), and physical SF 10A (34.1 vs. 36.8, p &lt; 0.01). Postoperatively, opioid-users demonstrated significantly lower scores across all PROMs: KOOS-PS (59.2 vs. 67.2, p &lt; 0.001), PROMIS SF physical (43.2 vs. 52.4, p &lt; 0.001), PROMIS SF mental (47.5 vs. 58.9, p &lt; 0.001), and physical SF 10A (40.5 vs. 49.4, p &lt; 0.001). Propensity score-matched opioid-users demonstrated a significantly smaller absolute increase in scores for PROMIS SF Physical (p = 0.03) and Physical SF 10A (p &lt; 0.01), as well as an increased hospital length of stay (p = 0.04). Patients who are actively taking opioids at the time of revision TKA report significantly lower preoperative and postoperative outcome scores. These patients are more likely to have longer hospital stays. The apparent negative effect on patient reported outcomes after revision TKA provides clinically useful data for surgeons in engaging patients in a preoperative counseling regarding narcotic use prior to revision TKA to optimize outcomes.
+
+[Source](https://twitter.com/watermicrobe/status/1391089152368775168?ref_src=twsrc%5Etfw)
+
+10.1055/s-0041-1729966
+
+---
+
 ## May 8, 2021
 
 [Source](https://twitter.com/watermicrobe/status/1391089152368775168?ref_src=twsrc%5Etfw)
@@ -250,21 +323,39 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ---
 
-## Improving metagenomic binning results with overlapped bins using assembly graphs
+## Improving metagenomic binning results with overlapped bins using assembly graphs.
+ 08.05.2021, _VG Mallawaarachchi, AS Wickramarachchi, Y Lin_
+
+
+Metagenomic sequencing allows us to study the structure, diversity and ecology in microbial communities without the necessity of obtaining pure cultures. In many metagenomics studies, the reads obtained from metagenomics sequencing are first assembled into longer contigs and these contigs are then binned into clusters of contigs where contigs in a cluster are expected to come from the same species. As different species may share common sequences in their genomes, one assembled contig may belong to multiple species. However, existing tools for binning contigs only support non-overlapped binning, i.e., each contig is assigned to at most one bin (species).
 
 [Source](https://almob.biomedcentral.com/articles/10.1186/s13015-021-00185-6)
 
+10.1186/s13015-021-00185-6
+
 ---
 
-## A method for achieving complete microbial genomes and improving bins from metagenomics data
+## A method for achieving complete microbial genomes and improving bins from metagenomics data.
+ 07.05.2021, _LM Lui, TN Nielsen, AP Arkin_
+
+
+Metagenomics facilitates the study of the genetic information from uncultured microbes and complex microbial communities. Assembling complete genomes from metagenomics data is difficult because most samples have high organismal complexity and strain diversity. Some studies have attempted to extract complete bacterial, archaeal, and viral genomes and often focus on species with circular genomes so they can help confirm completeness with circularity. However, less than 100 circularized bacterial and archaeal genomes have been assembled and published from metagenomics data despite the thousands of datasets that are available. Circularized genomes are important for (1) building a reference collection as scaffolds for future assemblies, (2) providing complete gene content of a genome, (3) confirming little or no contamination of a genome, (4) studying the genomic context and synteny of genes, and (5) linking protein coding genes to ribosomal RNA genes to aid metabolic inference in 16S rRNA gene sequencing studies. We developed a semi-automated method called Jorg to help circularize small bacterial, archaeal, and viral genomes using iterative assembly, binning, and read mapping. In addition, this method exposes potential misassemblies from k-mer based assemblies. We chose species of the Candidate Phyla Radiation (CPR) to focus our initial efforts because they have small genomes and are only known to have one ribosomal RNA operon. In addition to 34 circular CPR genomes, we present one circular Margulisbacteria genome, one circular Chloroflexi genome, and two circular megaphage genomes from 19 public and published datasets. We demonstrate findings that would likely be difficult without circularizing genomes, including that ribosomal genes are likely not operonic in the majority of CPR, and that some CPR harbor diverged forms of RNase P RNA. Code and a tutorial for this method is available at https://github.com/lmlui/Jorg and is available on the DOE Systems Biology KnowledgeBase as a beta app.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008972)
 
+10.1371/journal.pcbi.1008972
+
 ---
 
-## Taxonomic annotation of 16S rRNA sequences of pig intestinal samples using MG-RAST and QIIME2 generated different microbiota compositions
+## Taxonomic annotation of 16S rRNA sequences of pig intestinal samples using MG-RAST and QIIME2 generated different microbiota compositions.
+ 11.05.2021, _J Lima, T Manning, KM Rutherford, ET Baima, RJ Dewhurst, P Walsh, R Roehe_
+
+
+Environmental microbiome studies rely on fast and accurate bioinformatics tools to characterize the taxonomic composition of samples based on the 16S rRNA gene. MetaGenome Rapid Annotation using Subsystem Technology (MG-RAST) and Quantitative Insights Into Microbial Ecology 2 (QIIME2) are two of the most popular tools available to perform this task. Their underlying algorithms differ in many aspects, and therefore the comparison of the pipelines provides insights into their best use and interpretation of the outcomes. Both of these bioinformatics tools are based on several specialized algorithms pipelined together, but whereas MG-RAST is a user-friendly webserver that clusters rRNA sequences based on their similarity to create Operational Taxonomic Units (OTU), QIIME2 employs DADA2 in the construction of Amplicon Sequence Variants (ASV) by applying an error model that considers the abundance of each sequence and its similarity to other sequences. Taxonomic compositions obtained from the analyses of amplicon sequences of DNA from swine intestinal gut and faecal microbiota samples using MG-RAST and QIIME2 were compared at domain-, phylum-, family- and genus-levels in terms of richness, relative abundance and diversity. We found significant differences between the microbiota profiles obtained from each pipeline. At domain level, bacteria were relatively more abundant using QIIME2 than MG-RAST; at phylum level, seven taxa were identified exclusively by QIIME2; at family level, samples processed in QIIME2 showed higher evenness and richness (assessed by Shannon and Simpson indices). The genus-level compositions obtained from each pipeline were used in partial least squares-discriminant analyses (PLS-DA) to discriminate between sample collection sites (caecum, colon and faeces). The results showed that different genera were found to be significant for the models, based on the Variable Importance in Projection, e.g. when using sequencing data processed by MG-RAST, the three most important genera were Acetitomaculum, Ruminococcus and Methanosphaera, whereas when data was processed using QIIME2, these were Candidatus Methanomethylophilus, Sphaerochaeta and Anaerorhabdus. Furthermore, the application of differential filtering procedures before the PLS-DA revealed higher accuracy when using non-restricted datasets obtained from MG-RAST, whereas datasets obtained from QIIME2 resulted in more accurate discrimination of sample collection sites after removing genera with low relative abundances (&lt;1%) from the datasets. Our results highlight the differences in taxonomic compositions of samples obtained from the two separate pipelines, while underlining the impact on downstream analyses, such as biomarkers identification.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0167701221001032)
+
+10.1016/j.mimet.2021.106235
 
 ---
 
@@ -289,6 +380,18 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 ## pic.twitter.com/RAtt9EKVOS
 
 [Source](https://t.co/RAtt9EKVOS)
+
+---
+
+## Effect of Posterior Tibial Slope Change on Postoperative Range of Motion and Clinical Outcomes after Posterior Cruciate-Substituting Total Knee Arthroplasty.
+ 15.05.2021, _OS Lee, J Lee, MC Lee, HS Han_
+
+
+The posterior tibial slope (PTS) is usually adjusted by less than 5 degrees, without considering its individual difference, during posterior cruciate-substituting (PS) total knee arthroplasty (TKA). The effect of these individual changes of PTS would be important because clinical results depending on postoperative PTS were reported conflictingly. We investigated the effect of the change in PTS on the postoperative range of motion (ROM) and clinical scores after PS TKA. We retrospectively reviewed 164 knees from 107 patients who underwent PS TKA with a 2-year follow-up. We analyzed the preoperative and postoperative PTS, ROM, visual analog scale pain scale, Western Ontario and McMaster University Index (WOMAC), Hospital for Special Surgery Knee Score, Knee Society Score, and Forgotten Joint Score (FJS). The association of the absolute change in PTS with ROM and clinical scores was analyzed using correlation analysis and multiple regression analysis. As a result, the mean PTS and mean ROM changed from 9.6 ± 3.4 and 120.1 ± 15.4 degrees preoperatively to 2.0 ± 1.3 and 128.4 ± 9.3 degrees postoperatively, and the mean PTS change was 7.6 ± 3.5 degrees. The PTS change had no statistically significant association with the postoperative ROM and clinical scoring systems, although it did have a weak positive correlation with WOMAC function, No 10 (difficulty in rising from sitting) (correlation coefficient = 0.342, p = 0.041), and moderate positive correlation with the FJS, No. 6 (awareness when climbing stairs) (correlation coefficient = 0.470, p = 0.001). The authors concluded that the amount of change in PTS did not affect the postoperative ROM and clinical scores, although proximal tibial resection with a constant target of PTS resulted in individually different changes in the PTS after PS TKA.
+
+[Source](https://twitter.com/EMBARK_JPIAMR/status/1390605559330705410?ref_src=twsrc%5Etfw)
+
+10.1055/s-0041-1729967
 
 ---
 
@@ -346,9 +449,35 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ---
 
+## Adult Age Estimation of CT Image Reconstruction of the Laryngeal Cartilages and Hyoid Bone Based on Data Mining.
+ 31.03.2021, _F Fan, XH Dai, MJ Zhan, Y Li, K Zhang, ZH Deng_
+
+
+_Adolescent, Adult, Bayes Theorem, Child, Data Mining, Female, Humans, Hyoid Bone, Image Processing, Computer-Assisted, Laryngeal Cartilages, Male, Tomography, X-Ray Computed_
+Objective To explore the feasibility of the CT image reconstruction of laryngeal cartilage and hyoid bone in adult age estimation using data mining methods. Methods The neck thin slice CT scans of 413 individuals aged 18 to &lt;80 years were collected and divided into test set and train set, randomly. According to grading methods such as TURK et al., all samples were graded comprehensively. The process of thyroid cartilage ossification was divided into 6 stages, the process of cricoid cartilage ossification was divided into 5 stages, and the synosteosis between the greater horn of hyoid and hyoid body was divided into 3 stages. Multiple linear regression model, support vector regression model, and Bayesian ridge regression model were developed for adult age estimation by scikit-learn 0.17 machine learning kit （Python language）. Leave-one-out cross-validation and the test set were used to further evaluate performance of the models. Results All indicators were moderately or poorly associated with age. The model with the highest accuracy in male age estimation was the support vector regression model, with a mean absolute error of 8.67 years, much higher than the other two models. The model with the highest accuracy in female adult age estimation was the support vector regression model, with a mean absolute error of 12.69 years, but its accuracy differences with the other two models had no statistical significance. Conclusion Data mining technology can improve the accuracy of adult age estimation, but the accuracy of adult age estimation based on laryngeal cartilage and hyoid bone is still not satisfactory, so it should be combined with other indicators in practice.
+
+[Source](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+
+10.12116/j.issn.1004-5619.2020.200318
+
+---
+
 ## Machine learning in Python with scikit-learn
 
 [Source](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+
+---
+
+## Migrating from partial least squares discriminant analysis to artificial neural networks: a comparison of functionally equivalent visualisation and feature contribution tools using jupyter notebooks.
+ 30.12.2020, _KM Mendez, DI Broadhurst, SN Reinke_
+
+
+_Discriminant Analysis, Least-Squares Analysis, Metabolomics, Neural Networks, Computer, Software_
+Metabolomics data is commonly modelled multivariately using partial least squares discriminant analysis (PLS-DA). Its success is primarily due to ease of interpretation, through projection to latent structures, and transparent assessment of feature importance using regression coefficients and Variable Importance in Projection scores. In recent years several non-linear machine learning (ML) methods have grown in popularity but with limited uptake essentially due to convoluted optimisation and interpretation. Artificial neural networks (ANNs) are a non-linear projection-based ML method that share a structural equivalence with PLS, and as such should be amenable to equivalent optimisation and interpretation methods.
+
+[Source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+
+10.1007/s11306-020-1640-0
 
 ---
 
@@ -358,9 +487,33 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ---
 
+## DNA methylation and gene expression integration in cardiovascular disease.
+ 14.04.2021, _G Palou-Márquez, I Subirana, L Nonell, A Fernández-Sanlés, R Elosua_
+
+
+The integration of different layers of omics information is an opportunity to tackle the complexity of cardiovascular diseases (CVD) and to identify new predictive biomarkers and potential therapeutic targets. Our aim was to integrate DNA methylation and gene expression data in an effort to identify biomarkers related to cardiovascular disease risk in a community-based population. We accessed data from the Framingham Offspring Study, a cohort study with data on DNA methylation (Infinium HumanMethylation450 BeadChip; Illumina) and gene expression (Human Exon 1.0 ST Array; Affymetrix). Using the MOFA2 R package, we integrated these data to identify biomarkers related to the risk of presenting a cardiovascular event.
+
+[Source](https://training.vib.be/all-trainings/using-mofa-integration-omics-data-online-0)
+
+10.1186/s13148-021-01064-y
+
+---
+
 ## Using MOFA for integration of omics data
 
 [Source](https://training.vib.be/all-trainings/using-mofa-integration-omics-data-online-0)
+
+---
+
+## Prediction of Dermal Exposure to Chemical Substances Using a Fluorescence Method within the SysDEA Project.
+ 15.05.2021, _R Franken, J Turkenburg, KM Kasiotis, N Shandilya, J Baan, AN Tsakirakis, I Chartzala, P Anastasiadou, K Machera, D Rother, M Roitzsch, U Poppek, J Meyer, U Schlüter, RM Gerritsen-Ebben, S Spaan_
+
+
+Dermal exposure is an important exposure route for occupational exposure and risk assessment. A fluorescence method has been developed to quantify occupational dermal exposure based on a visualization technique, using Tinopal SWN as a fluorescent tracer. The method was developed within the framework of a large experimental study, the SysDEA project. In SysDEA, dermal exposure was measured with different methods for 10 simulated exposure situations by sampling powder and liquid formulations containing Tinopal SWN on coveralls and patches and subsequently chemically analysing them. For the fluorescence method, photographs of exposed volunteers who performed the experiments were taken inside a room which consisted of an optimized arrangement of several UV irradiating tube light brackets, reflective and non-reflective backgrounds for maximum light diffusion and a camera. Image processing analysis software processed these photographs to obtain corresponding light intensity in terms of summed pixel values. To be able to estimate the amount of Tinopal SWN, 25% of the measured data from the SysDEA experiments were used to calibrate by correlating the summed pixel values from the photographs to actual measured exposure values using a second order regression model. For spraying both high and low viscosity liquids, showing uniformly distributed exposure patterns, strong Pearson correlation coefficients (R &gt; 0.77) were observed. In contrast, the correlations were either inconsistently poor (R = -0.17 to 0.28 for pouring, rolling high viscosity liquid, manually handling objects immersed in low viscosity liquid and handling objects contaminated with powder), moderate (R = 0.73 for dumping of powder), or strong (R = 0.83 and 0.77 for rolling low viscosity liquid and manually handling objects immersed in high viscosity liquid). A model for spraying was developed and calibrated using 25% of the available experimental data for spraying and validated using the remaining 75%. Under given experimental conditions, the fluorescence method shows promising results and can be used for the quantification of dermal exposure for different body parts (excluding hands) for spraying-like scenarios that have a more uniform exposure pattern, but more research is needed for exposure scenarios with less uniform exposure patterns. For the estimation of exposure levels, the surface loading limit should be lower than 1.5░µg/cm2 (a lower limit could not be quantified based on experiments conducted in this study) on a large surface, like a coverall, which should be ideally perpendicular to the camera.
+
+[Source](https://datavizs21.classes.andrewheiss.com/)
+
+10.1093/annweh/wxaa118
 
 ---
 
@@ -373,6 +526,18 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 ## pic.twitter.com/DEchWECamq
 
 [Source](https://t.co/DEchWECamq)
+
+---
+
+## Zein based-nanoparticles loaded botanical pesticides in pest control: An enzyme stimuli-responsive approach aiming sustainable agriculture.
+ 15.05.2021, _RA Monteiro, MC Camara, JL de Oliveira, EVR Campos, LB Carvalho, PLF Proença, M Guilger-Casagrande, R Lima, J do Nascimento, KC Gonçalves, RA Polanczyk, LF Fraceto_
+
+
+Nanoencapsulation of biopesticides is an important strategy to increase the efficiency of these compounds, reducing losses and adverse effects on non-target organisms. This study describes the preparation and characterisation of zein nanoparticles containing the botanical compounds limonene and carvacrol, responsive to proteolytic enzymes present in the insects guts. The spherical nanoparticles, prepared by the anti-solvent precipitation method, presented in the nanoparticle tracking analysis (NTA) a concentration of 4.7 × 1012 ± 1.3 × 1011 particles.mL-1 and an average size of 125 ± 2 nm. The formulations showed stability over time, in addition to not being phytotoxic to Phaseolus vulgaris plants. In vivo tests demonstrated that formulations of zein nanoparticles containing botanical compounds showed higher mortality to Spodoptera frugiperda larvae. In addition, the FTIC probe (fluorescein isothiocyanate) showed wide distribution in the larvae midgut, as well as being identified in the feces. The trypsin enzyme, as well as the enzymatic extract from insects midgut, was effective in the degradation of nanoparticles containing the mixture of botanical compounds, significantly reducing the concentration of nanoparticles and the changes in size distribution. The zein degradation was confirmed by the disappearance of the protein band in the electrophoresis gel, by the formation of the lower molecular weight fragments and also by the greater release of FTIC after enzymes incubation. In this context, the synthesis of responsive nanoparticles has great potential for application in pest management, increasing the selectivity and specificity of the system and contributing to a more sustainable agriculture.
+
+[Source](https://twitter.com/dinoman_j/status/1392447824374161411?ref_src=twsrc%5Etfw)
+
+10.1016/j.jhazmat.2021.126004
 
 ---
 
@@ -420,7 +585,7 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=13df2920d3)
+[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=9053237018)
 
 ---
 
