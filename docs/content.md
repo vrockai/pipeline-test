@@ -58,9 +58,15 @@ A child who has a parent incarcerated is likely to experience a number of life c
 
 ---
 
-## Reconstruction of ancient microbial genomes from the human gut
+## Reconstruction of ancient microbial genomes from the human gut.
+ 13.05.2021, _MC Wibowo, Z Yang, M Borry, A Hübner, KD Huang, BT Tierney, S Zimmerman, F Barajas-Olmos, C Contreras-Cubas, H García-Ortiz, A Martínez-Hernández, JM Luber, P Kirstahler, T Blohm, FE Smiley, R Arnold, SA Ballal, SJ Pamp, J Russ, F Maixner, O Rota-Stabelli, N Segata, K Reinhard, L Orozco, C Warinner, M Snow, S LeBlanc, AD Kostic_
+
+
+Loss of gut microbial diversity1-6 in industrial populations is associated with chronic diseases7, underscoring the importance of studying our ancestral gut microbiome. However, relatively little is known about the composition of pre-industrial gut microbiomes. Here we performed a large-scale de novo assembly of microbial genomes from palaeofaeces. From eight authenticated human palaeofaeces samples (1,000-2,000 years old) with well-preserved DNA from southwestern USA and Mexico, we reconstructed 498 medium- and high-quality microbial genomes. Among the 181 genomes with the strongest evidence of being ancient and of human gut origin, 39% represent previously undescribed species-level genome bins. Tip dating suggests an approximate diversification timeline for the key human symbiont Methanobrevibacter smithii. In comparison to 789 present-day human gut microbiome samples from eight countries, the palaeofaeces samples are more similar to non-industrialized than industrialized human gut microbiomes. Functional profiling of the palaeofaeces samples reveals a markedly lower abundance of antibiotic-resistance and mucin-degrading genes, as well as enrichment of mobile genetic elements relative to industrial gut microbiomes. This study facilitates the discovery and characterization of previously undescribed gut microorganisms from ancient microbiomes and the investigation of the evolutionary history of the human gut microbiota through genome reconstruction from palaeofaeces.
 
 [Source](https://www.nature.com/articles/s41586-021-03532-0)
+
+10.1038/s41586-021-03532-0
 
 ---
 
@@ -263,18 +269,6 @@ For more than 30 years, the tetracycline on/off system of inducible gene express
 
 ---
 
-## Impact of Preoperative Opioid Use on Patient-Reported Outcomes after Revision Total Knee Arthroplasty: A Propensity Matched Analysis.
- 15.05.2021, _E Ingall, C Klemt, CM Melnic, WB Cohen-Levy, V Tirumala, YM Kwon_
-
-
-This is a retrospective study. Prior studies have characterized the deleterious effects of narcotic use in patients undergoing primary total knee arthroplasty (TKA). While there is an increasing revision arthroplasty burden, data on the effect of narcotic use in the revision surgery setting remain limited. Our aim was to characterize the effect of active narcotic use at the time of revision TKA on patient-reported outcome measures (PROMs). A total of 330 consecutive patients who underwent revision TKA and completed both pre- and postoperative PROMs was identified. Due to differences in baseline characteristics, 99 opioid users were matched to 198 nonusers using the nearest-neighbor propensity score matching. Pre- and postoperative knee disability and osteoarthritis outcome score physical function (KOOS-PS), patient reported outcomes measurement information system short form (PROMIS SF) physical, PROMIS SF mental, and physical SF 10A scores were evaluated. Opioid use was identified by the medication reconciliation on the day of surgery. Propensity score-matched opioid users had significantly lower preoperative PROMs than the nonuser for KOOS-PS (45.2 vs. 53.8, p &lt; 0.01), PROMIS SF physical (37.2 vs. 42.5, p &lt; 0.01), PROMIS SF mental (44.2 vs. 51.3, p &lt; 0.01), and physical SF 10A (34.1 vs. 36.8, p &lt; 0.01). Postoperatively, opioid-users demonstrated significantly lower scores across all PROMs: KOOS-PS (59.2 vs. 67.2, p &lt; 0.001), PROMIS SF physical (43.2 vs. 52.4, p &lt; 0.001), PROMIS SF mental (47.5 vs. 58.9, p &lt; 0.001), and physical SF 10A (40.5 vs. 49.4, p &lt; 0.001). Propensity score-matched opioid-users demonstrated a significantly smaller absolute increase in scores for PROMIS SF Physical (p = 0.03) and Physical SF 10A (p &lt; 0.01), as well as an increased hospital length of stay (p = 0.04). Patients who are actively taking opioids at the time of revision TKA report significantly lower preoperative and postoperative outcome scores. These patients are more likely to have longer hospital stays. The apparent negative effect on patient reported outcomes after revision TKA provides clinically useful data for surgeons in engaging patients in a preoperative counseling regarding narcotic use prior to revision TKA to optimize outcomes.
-
-[Source](https://twitter.com/watermicrobe/status/1391089152368775168?ref_src=twsrc%5Etfw)
-
-10.1055/s-0041-1729966
-
----
-
 ## May 8, 2021
 
 [Source](https://twitter.com/watermicrobe/status/1391089152368775168?ref_src=twsrc%5Etfw)
@@ -311,9 +305,15 @@ This is a retrospective study. Prior studies have characterized the deleterious 
 
 ---
 
-## Improving metagenomic binning results with overlapped bins using assembly graphs
+## Improving metagenomic binning results with overlapped bins using assembly graphs.
+ 08.05.2021, _VG Mallawaarachchi, AS Wickramarachchi, Y Lin_
+
+
+Metagenomic sequencing allows us to study the structure, diversity and ecology in microbial communities without the necessity of obtaining pure cultures. In many metagenomics studies, the reads obtained from metagenomics sequencing are first assembled into longer contigs and these contigs are then binned into clusters of contigs where contigs in a cluster are expected to come from the same species. As different species may share common sequences in their genomes, one assembled contig may belong to multiple species. However, existing tools for binning contigs only support non-overlapped binning, i.e., each contig is assigned to at most one bin (species).
 
 [Source](https://almob.biomedcentral.com/articles/10.1186/s13015-021-00185-6)
+
+10.1186/s13015-021-00185-6
 
 ---
 
@@ -362,18 +362,6 @@ Environmental microbiome studies rely on fast and accurate bioinformatics tools 
 ## pic.twitter.com/RAtt9EKVOS
 
 [Source](https://t.co/RAtt9EKVOS)
-
----
-
-## Effect of Posterior Tibial Slope Change on Postoperative Range of Motion and Clinical Outcomes after Posterior Cruciate-Substituting Total Knee Arthroplasty.
- 15.05.2021, _OS Lee, J Lee, MC Lee, HS Han_
-
-
-The posterior tibial slope (PTS) is usually adjusted by less than 5 degrees, without considering its individual difference, during posterior cruciate-substituting (PS) total knee arthroplasty (TKA). The effect of these individual changes of PTS would be important because clinical results depending on postoperative PTS were reported conflictingly. We investigated the effect of the change in PTS on the postoperative range of motion (ROM) and clinical scores after PS TKA. We retrospectively reviewed 164 knees from 107 patients who underwent PS TKA with a 2-year follow-up. We analyzed the preoperative and postoperative PTS, ROM, visual analog scale pain scale, Western Ontario and McMaster University Index (WOMAC), Hospital for Special Surgery Knee Score, Knee Society Score, and Forgotten Joint Score (FJS). The association of the absolute change in PTS with ROM and clinical scores was analyzed using correlation analysis and multiple regression analysis. As a result, the mean PTS and mean ROM changed from 9.6 ± 3.4 and 120.1 ± 15.4 degrees preoperatively to 2.0 ± 1.3 and 128.4 ± 9.3 degrees postoperatively, and the mean PTS change was 7.6 ± 3.5 degrees. The PTS change had no statistically significant association with the postoperative ROM and clinical scoring systems, although it did have a weak positive correlation with WOMAC function, No 10 (difficulty in rising from sitting) (correlation coefficient = 0.342, p = 0.041), and moderate positive correlation with the FJS, No. 6 (awareness when climbing stairs) (correlation coefficient = 0.470, p = 0.001). The authors concluded that the amount of change in PTS did not affect the postoperative ROM and clinical scores, although proximal tibial resection with a constant target of PTS resulted in individually different changes in the PTS after PS TKA.
-
-[Source](https://twitter.com/EMBARK_JPIAMR/status/1390605559330705410?ref_src=twsrc%5Etfw)
-
-10.1055/s-0041-1729967
 
 ---
 
@@ -562,6 +550,18 @@ Nanoencapsulation of biopesticides is an important strategy to increase the effi
 ## The microbiome: Delicious food and solutions to the climate crisis with Lene Lange
 
 [Source](https://www.sciencestories.dk/en/articles/microbiome-delicious-food-and-solutions-climate-crisis)
+
+---
+
+## Sulfurized Polyacrylonitrile for High-Performance Lithium-Sulfur Batteries: In-Depth Computational Approach Revealing Multiple Sulfur's Reduction Pathways and Hidden Li+ Storage Mechanisms for Extra Discharge Capacity.
+ 14.01.2021, _S Perez Beltran, PB Balbuena_
+
+
+Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon (SPAN) promises improved electrochemical performance for lithium-sulfur batteries, based on its compatibility with carbonate solvents and ability to prevent self-discharge and shuttle effect. However, a complete understanding of the SPAN's lithiation mechanism is still missing because its structural features vary widely with synthesis conditions, and its electrochemical performance deviates from elemental sulfur. This study continues our research on the elucidation of the SPAN's structural characteristics and lithiation mechanisms via computational approaches. Our models reproduce most experimental data regarding carbon's graphitization level and conjugated ordering, sulfur-carbon covalent bonding, sulfur loading, and elemental composition. Our simulations emulate the discharge voltage observed in experiments for the first discharge, which reveals that sulfur follows multiple reduction pathways based on its interaction with the carbon backbone. Sulfur reduction takes place above 1.0 V vs Li/Li+ mostly in the SPAN-like material, with no long-chain lithium polysulfide formation. Below 1.0 V vs Li/Li+, the backbone's electrochemical activity occurs via multiple C-Li and N-Li interactions, mostly with edge carbon atoms and pyridinic nitrogen. Moreover, we identify Li+ binding sites throughout the graphitized backbone that might lead to prohibited energy costs for Li+ deintercalation, which may explain the irreversible capacity loss between the first and second discharges. This work improves understanding of lithiation mechanisms in sulfurized carbon, which is useful for rationally designing SPAN synthesis pathways tailored to increase sulfur loading and enhanced electrochemical performance.
+
+[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=45e6f6977e)
+
+10.1021/acsami.0c17537
 
 ---
 
