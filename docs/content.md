@@ -1,438 +1,108 @@
-## Effects of Tourniquet Application on Faster Recovery after Surgery and Ischemia-Reperfusion Post-Total Knee Arthroplasty, Cementation through Closure versus Full-Course and Nontourniquet Group.
- 15.05.2021, _Q Cao, Q Wu, Y Liu, Z He, Y Cong, J Meng, J Zhao, N Bao_
+## Fresh extension of <em>Vibrio cholerae</em> competence type IV pili predisposes them for motor-independent retraction
 
+[Source](https://pubmed.ncbi.nlm.nih.gov/33990308/)
 
-Pneumatic tourniquets are used in total knee arthroplasty (TKA) for surgical field visualization and improved cementation; however, their use is controversial. This study aimed to assess the effects of tourniquet application on faster recovery post-TKA. Our hypothesis was that inflammation and limb function would be similar with different tourniquet applications. A prospective randomized double-blinded trial assessed tourniquets effects on postoperative pain, swelling, and early outcome in TKA. In present study, 50 TKAs were enrolled in each group as follows: full course (FC), cementation through closure (CTC), and no tourniquet (NT), CTC as treatment group while FC and NT as control groups. Topical blood samples of 3 mL from the joint cavity and drainage bags were obtained at special time point. At last, all samples such as tumor necrosis factor-a (TNF-a), C-C motif chemokine ligand 2 (CCL2), pentraxin 3 (PTX3), prostaglandin E2 (PGE2), superoxide dismutase 1 (SOD1), and myoglobin (Mb) were detected by ELISA. Active and passive range of motion (ROM) values, pain score by the visual analog scale (VAS), change of thigh circumference were recorded at special time point as well. In topical blood, the change of inflammatory factors, such as TNF-a, PTX3, CCL2, PGE2, SOD1, and Mb, was lower in CTC and NT groups than in FC group (p &lt; 0.01 and 0.05). Although VAS and ROM were comparable preoperatively in three groups (p &gt; 0.05), the perimeter growth rate was lower, pain scores (VAS) were reduced, and ROM values were improved in CTC and NT groups compared with FC group at T4, T5, and T6 postoperatively (p &lt; 0.01 and 0.05). Improved therapeutic outcome was observed in the CTC group, indicating patients should routinely undergo TKA with cementation through closure tourniquet application.
-
-[Source](https://nsurp.org/)
-
-10.1055/s-0041-1728814
-
----
-
-## #NSURP2021 applications
-
-[Source](https://nsurp.org/)
-
----
-
-## Enhancing supports to children of incarcerated parents: Introducing trauma informed training to church mentors.
- 14.05.2021, _K Hays, K Flores-Carter, J Costello, R Ellis_
-
-
-A child who has a parent incarcerated is likely to experience a number of life challenges including school failure, poverty, substance abuse, and justice system involvement. The negative outcomes associated with having a parent incarcerated disproportionately expose children to adverse childhood events (ACE's) which have been associated with higher morbidity and mortality. However, engagement with caring adults who can provide both practical and spiritual mentorship can increase a child's resilience and buffer the impact of these negative outcomes. Church-based mentors have the capacity to provide support to this population when adequately trained in trauma-informed responses. This study describes Camp Agape California (CAC), a church-based mentoring program for children with an incarcerated parent. Specifically, this study describes the development and implementation of a trauma focused mentorship training purposed to equip church members to better meet the needs of this vulnerable population. Seventy-six volunteer mentors from various churches participated in the training and completed the post-training survey. Results suggest that the trauma informed training was effective at increasing knowledge and self-efficacy and was identified as being relevant to the mentor role. Implications for the utility of church-based mentorship for vulnerable populations are explored.
-
-[Source](https://docs.google.com/forms/d/e/1FAIpQLSd8ptyxVUBYEbIAxP_63KDeJAZ4CxieZWgN9vdtxNsgqMVJpg/viewform)
-
-10.1080/10852352.2021.1924594
-
----
-
-## survey on mentorship
-
-[Source](https://docs.google.com/forms/d/e/1FAIpQLSd8ptyxVUBYEbIAxP_63KDeJAZ4CxieZWgN9vdtxNsgqMVJpg/viewform)
-
----
-
-## #AcademicTwitter
-
-[Source](https://twitter.com/hashtag/AcademicTwitter?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #AcademicChatter
-
-[Source](https://twitter.com/hashtag/AcademicChatter?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/xSFc8uD8l5
-
-[Source](https://t.co/xSFc8uD8l5)
-
----
-
-## May 11, 2021
-
-[Source](https://twitter.com/merenbey/status/1391950554398605315?ref_src=twsrc%5Etfw)
-
----
-
-## Reconstruction of ancient microbial genomes from the human gut
-
-[Source](https://www.nature.com/articles/s41586-021-03532-0)
-
----
-
-## Human and preclinical studies of the host–gut microbiome co-metabolite hippurate as a marker and mediator of metabolic health
-
-[Source](https://gut.bmj.com/content/gutjnl/early/2021/05/11/gutjnl-2020-323314.full.pdf)
-
----
-
-## #microbiome
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## @DentalCRF
-
-[Source](https://twitter.com/DentalCRF?ref_src=twsrc%5Etfw)
-
----
-
-## @UofGDental
-
-[Source](https://twitter.com/UofGDental?ref_src=twsrc%5Etfw)
-
----
-
-## @GlasgowBiofilms
-
-[Source](https://twitter.com/GlasgowBiofilms?ref_src=twsrc%5Etfw)
-
----
-
-## @GVAfisabio
-
-[Source](https://twitter.com/GVAfisabio?ref_src=twsrc%5Etfw)
-
----
-
-## @OralMicrobioLab
-
-[Source](https://twitter.com/OralMicrobioLab?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/XMv7zYmnQ5
-
-[Source](https://t.co/XMv7zYmnQ5)
-
----
-
-## May 7, 2021
-
-[Source](https://twitter.com/Will_Johnston97/status/1390626216680509441?ref_src=twsrc%5Etfw)
-
----
-
-## Mechanical biofilm disruption causes microbial and immunological shifts in periodontitis patients
-
-[Source](https://www.nature.com/articles/s41598-021-89002-z)
-
----
-
-## The Complex Link between the Female Genital Microbiota, Genital Infections, and Inflammation
-
-[Source](https://iai.asm.org/content/iai/89/5/e00487-20.full.pdf)
-
----
-
-## The glycobiology of uropathogenic <em>E. coli </em>infection: the sweet and bitter role of sugars in urinary tract immunity 
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/imm.13330)
-
----
-
-## The Good and the Bad: Ecological Interaction Measurements Between the Urinary Microbiota and Uropathogens
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2021.659450/full)
-
----
-
-## Urinary prostaglandin E2 as a biomarker for recurrent UTI in postmenopausal women
-
-[Source](https://www.life-science-alliance.org/content/4/7/e202000948)
-
----
-
-## Impact of Vaginal Estrogen on the Urobiome in Postmenopausal Women With Recurrent Urinary Tract Infection
-
-[Source](https://journals.lww.com/fpmrs/Abstract/9000/Impact_of_Vaginal_Estrogen_on_the_Urobiome_in.99232.aspx)
-
----
-
-## Long-read metagenomics retrieves complete single-contig bacterial genomes from canine feces
-
-[Source](https://link.springer.com/epdf/10.1186/s12864-021-07607-0)
-
----
-
-## Perinatal exposure to tetracycline contributes to lasting developmental effects on offspring.
- 14.05.2021, _EM Hill, CD Howard, TL Bale, E Jašarević_
-
-
-For more than 30 years, the tetracycline on/off system of inducible gene expression has been leveraged to study disease mechanisms across many research areas, especially that of metabolism and neuroscience. This system requires acute or chronic exposure to tetracycline derivatives, such as doxycycline, to manipulate gene expression in a temporal and tissue-specific manner, with exposure often being restricted to gestational and early developmental windows. Despite evidence showing that early life antibiotic exposure has adverse effects on gut microbiota, metabolism, physiology, immunity and behavior, little is known regarding the lasting impact of doxycycline treatment on relevant outcomes in experimental offspring.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00099-z)
-
-10.1186/s42523-021-00099-z
-
----
-
-## @biorxivpreprint
-
-[Source](https://twitter.com/biorxivpreprint?ref_src=twsrc%5Etfw)
-
----
-
-## @Katy_sevi
-
-[Source](https://twitter.com/katy_sevi?ref_src=twsrc%5Etfw)
-
----
-
-## #H2Omicrobiome
-
-[Source](https://twitter.com/hashtag/H2Omicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #HurricaneMaria
-
-[Source](https://twitter.com/hashtag/HurricaneMaria?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #1440funded
-
-[Source](https://twitter.com/hashtag/1440funded?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/HJF7RRT0Nf
-
-[Source](https://t.co/HJF7RRT0Nf)
-
----
-
-## pic.twitter.com/ioekR7l5JA
-
-[Source](https://t.co/ioekR7l5JA)
-
----
-
-## May 8, 2021
-
-[Source](https://twitter.com/watermicrobe/status/1391089152368775168?ref_src=twsrc%5Etfw)
-
----
-
-## <strong>*</strong>Spatial-temporal targeted and non-targeted surveys to assess microbiological composition of drinking water in Puerto Rico following Hurricane Maria
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.07.442998v1)
-
----
-
-## Predicting the presence and abundance of bacterial taxa in environmental communities through flow cytometric fingerprinting
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.05.442872v1)
-
----
-
-## Critical evaluation of faecal microbiome preservation using metagenomic analysis
-
-[Source](https://www.nature.com/articles/s43705-021-00014-2)
-
----
-
-## Emu: Species-Level Microbial Community Profiling for Full-Length Nanopore 16S Reads
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.02.442339v1)
-
----
-
-## Microbiome differential abundance methods produce disturbingly different results across 38 datasets
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.10.443486v1.full.pdf)
-
----
-
-## Improving metagenomic binning results with overlapped bins using assembly graphs
-
-[Source](https://almob.biomedcentral.com/articles/10.1186/s13015-021-00185-6)
-
----
-
-## A method for achieving complete microbial genomes and improving bins from metagenomics data
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008972)
-
----
-
-## Taxonomic annotation of 16S rRNA sequences of pig intestinal samples using MG-RAST and QIIME2 generated different microbiota compositions
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0167701221001032)
-
----
-
-## #EMBARK2021
-
-[Source](https://twitter.com/hashtag/EMBARK2021?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## @RuppeEtienne
-
-[Source](https://twitter.com/RuppeEtienne?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/XgtjRCbjD2
-
-[Source](https://t.co/XgtjRCbjD2)
-
----
-
-## pic.twitter.com/RAtt9EKVOS
-
-[Source](https://t.co/RAtt9EKVOS)
-
----
-
-## May 7, 2021
-
-[Source](https://twitter.com/EMBARK_JPIAMR/status/1390605559330705410?ref_src=twsrc%5Etfw)
-
----
-
-## here
-
-[Source](https://gu-se.zoom.us/webinar/register/WN_RguYOfgaSAef9oLRddGGCQ)
-
----
-
-## here
-
-[Source](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)
-
----
-
-## here
-
-[Source](https://us02web.zoom.us/webinar/register/WN_XqHiPNvhR_mUTNQijOCW4w)
-
----
-
-## here
-
-[Source](https://www.bismis.net/index6702.html)
-
----
-
-## Women in Data Science 2021 – Perspectives in Industry and Academia
-
-[Source](https://www.denbi.de/events/1226-women-in-data-science-2021-perspectives-in-industry-and-academia)
-
----
-
-## The dark side os science: misconduct in biomedical research
-
-[Source](https://www.youtube.com/channel/UCJjOxs6OSYRZuYpnClLlBxA)
-
 ---
 
-## mSystems Thinking Series
+## Coordination of gene expression with cell size enables <em>Escherichia coli </em>to efficiently maintain motility across conditions
 
-[Source](https://asm.org/Webinars/mSystems-Webinar-Series)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443892v1)
 
 ---
 
-## Riffomonas Project 
+## Archival influenza virus genomes from Europe reveal genomic and phenotypic variability during the 1918 pandemic
 
-[Source](https://www.youtube.com/c/RiffomonasProject/featured)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444134v1.abstract)
 
 ---
 
-## Machine learning in Python with scikit-learn
+## Fluorescent protein expression as a proxy of bacterial fitness in a high throughput assay
 
-[Source](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.01.399113v2)
 
 ---
 
-## Introduction to Computer Science and Programming in Python
+## Nanopore sequencing provides rapid and reliable insight into microbial profiles of Intensive Care Units
 
-[Source](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444165v1)
 
 ---
 
-## Using MOFA for integration of omics data
+## Anatomy promotes neutral coexistence of strains in the human skin microbiome
 
-[Source](https://training.vib.be/all-trainings/using-mofa-integration-omics-data-online-0)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443817v1)
 
 ---
 
-## Data Visualization
+## Gene- and genome-centric dynamics shape the diversity of oral bacterial populations
 
-[Source](https://datavizs21.classes.andrewheiss.com/)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444208v1.abstract)
 
 ---
 
-## pic.twitter.com/DEchWECamq
+## Two microbiota subtypes identified in Irritable Bowel Syndrome with distinct responses to the low-FODMAP diet
 
-[Source](https://t.co/DEchWECamq)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444142v1.abstract)
 
 ---
 
-## May 12, 2021
+## Strain engraftment competition and functional augmentation in a multi-donor fecal microbiota transplantation trial for obesity
 
-[Source](https://twitter.com/dinoman_j/status/1392447824374161411?ref_src=twsrc%5Etfw)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01060-7)
 
 ---
 
-## 1st Young AMICI Symposium 
+## Soil origin and plant genotype structure distinct microbiome compartments in the model legume <em>Medicago truncatula</em>
 
-[Source](http://amici.csb.univie.ac.at/de/content/1st-young-amici-symposium)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00915-9)
 
 ---
 
-## Microbes, Social Equity, and Rural Health
+## A novel dual enrichment strategy provides soil- and digestate-competent N2O-respiring bacteria for mitigating climate forcing in agriculture
 
-[Source](https://sueishaqlab.org/outreach/microbes-and-social-equity-working-group/microbes-and-social-equity-symposium-2021/)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.11.443593v2)
 
 ---
 
-## Differential gene expression and DESeq2 with Michael Love 
+## Temporal dynamics of microbial transcription in wetted hyperarid desert soils
 
-[Source](https://bioinformatics.chat/deseq2)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443739v1)
 
 ---
 
-## The Fake Science Detectives with David Sanders and Elisabeth Bik
+## Metagenomic sequencing for rapid identification of <em>Xylella fastidiosa</em> from leaf samples
 
-[Source](https://podcasts.apple.com/us/podcast/20-the-fake-science-detectives/id1545378409?i=1000519434357)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443947v1)
 
 ---
 
-## Research, networking and public perception of science with Linda J Kenney 
+## <em>Pseudomonas arenae</em> sp. nov., <em>Pseudomonas glycinis</em> sp. nov. and <em>Pseudomonas harudinis </em>sp. nov., three novel bacterial species and plant endophytes
 
-[Source](https://open.spotify.com/episode/2Q3RnMruRf6fu4STboyDFZ)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.13.444027v1.abstract)
 
 ---
 
-## The microbiome: Delicious food and solutions to the climate crisis with Lene Lange
+## Phage-resistant bacteria reveal a role for potassium in root colonization
 
-[Source](https://www.sciencestories.dk/en/articles/microbiome-delicious-food-and-solutions-climate-crisis)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443821v1.abstract)
 
 ---
 
-## <span>Like</span>
+## Metagenomic analysis reveals the shared and distinct features of the soil resistome across tundra, temperate prairie, and tropical ecosystems
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=6d6001f29e)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01047-4)
 
 ---
 
-## 1 person
+## Potential and expression of carbohydrate utilization by marine fungi in the global ocean
 
-[Source](#)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01063-4)
 
 ---
 
-## <span>Like</span>
+##  Syntrophic H2 production enhances the performance of primarily acetate-supplemented reactors treating sulphate contaminated solutions
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27573&_wpnonce=3f268ba5d3)
+[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443249v1.abstract)
 
 ---
 
