@@ -130,18 +130,6 @@ Male reproductive dysfunction is one of the overlooked findings of diabetes mell
 
 ---
 
-## Effect of Posterior Tibial Slope Change on Postoperative Range of Motion and Clinical Outcomes after Posterior Cruciate-Substituting Total Knee Arthroplasty.
- 15.05.2021, _OS Lee, J Lee, MC Lee, HS Han_
-
-
-The posterior tibial slope (PTS) is usually adjusted by less than 5 degrees, without considering its individual difference, during posterior cruciate-substituting (PS) total knee arthroplasty (TKA). The effect of these individual changes of PTS would be important because clinical results depending on postoperative PTS were reported conflictingly. We investigated the effect of the change in PTS on the postoperative range of motion (ROM) and clinical scores after PS TKA. We retrospectively reviewed 164 knees from 107 patients who underwent PS TKA with a 2-year follow-up. We analyzed the preoperative and postoperative PTS, ROM, visual analog scale pain scale, Western Ontario and McMaster University Index (WOMAC), Hospital for Special Surgery Knee Score, Knee Society Score, and Forgotten Joint Score (FJS). The association of the absolute change in PTS with ROM and clinical scores was analyzed using correlation analysis and multiple regression analysis. As a result, the mean PTS and mean ROM changed from 9.6 ± 3.4 and 120.1 ± 15.4 degrees preoperatively to 2.0 ± 1.3 and 128.4 ± 9.3 degrees postoperatively, and the mean PTS change was 7.6 ± 3.5 degrees. The PTS change had no statistically significant association with the postoperative ROM and clinical scoring systems, although it did have a weak positive correlation with WOMAC function, No 10 (difficulty in rising from sitting) (correlation coefficient = 0.342, p = 0.041), and moderate positive correlation with the FJS, No. 6 (awareness when climbing stairs) (correlation coefficient = 0.470, p = 0.001). The authors concluded that the amount of change in PTS did not affect the postoperative ROM and clinical scores, although proximal tibial resection with a constant target of PTS resulted in individually different changes in the PTS after PS TKA.
-
-[Source](https://twitter.com/Will_Johnston97/status/1390626216680509441?ref_src=twsrc%5Etfw)
-
-10.1055/s-0041-1729967
-
----
-
 ## May 7, 2021
 
 [Source](https://twitter.com/Will_Johnston97/status/1390626216680509441?ref_src=twsrc%5Etfw)
@@ -323,15 +311,9 @@ This is a retrospective study. Prior studies have characterized the deleterious 
 
 ---
 
-## Improving metagenomic binning results with overlapped bins using assembly graphs.
- 08.05.2021, _VG Mallawaarachchi, AS Wickramarachchi, Y Lin_
-
-
-Metagenomic sequencing allows us to study the structure, diversity and ecology in microbial communities without the necessity of obtaining pure cultures. In many metagenomics studies, the reads obtained from metagenomics sequencing are first assembled into longer contigs and these contigs are then binned into clusters of contigs where contigs in a cluster are expected to come from the same species. As different species may share common sequences in their genomes, one assembled contig may belong to multiple species. However, existing tools for binning contigs only support non-overlapped binning, i.e., each contig is assigned to at most one bin (species).
+## Improving metagenomic binning results with overlapped bins using assembly graphs
 
 [Source](https://almob.biomedcentral.com/articles/10.1186/s13015-021-00185-6)
-
-10.1186/s13015-021-00185-6
 
 ---
 
@@ -585,7 +567,7 @@ Nanoencapsulation of biopesticides is an important strategy to increase the effi
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=9053237018)
+[Source](https://microbiomedigest.com/2021/05/13/may-14-2021/?like_comment=27563&_wpnonce=45e6f6977e)
 
 ---
 
