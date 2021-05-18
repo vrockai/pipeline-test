@@ -88,27 +88,15 @@
 
 ---
 
-## Metagenomic analysis reveals the shared and distinct features of the soil resistome across tundra, temperate prairie, and tropical ecosystems.
- 15.05.2021, _X Qian, S Gunturu, J Guo, B Chai, JR Cole, J Gu, JM Tiedje_
-
-
-Soil is an important reservoir of antibiotic resistance genes (ARGs), but their potential risk in different ecosystems as well as response to anthropogenic land use change is unknown. We used a metagenomic approach and datasets with well-characterized metadata to investigate ARG types and amounts in soil DNA of three native ecosystems: Alaskan tundra, US Midwestern prairie, and Amazon rainforest, as well as the effect of conversion of the latter two to agriculture and pasture, respectively.
+## Metagenomic analysis reveals the shared and distinct features of the soil resistome across tundra, temperate prairie, and tropical ecosystems
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01047-4)
 
-10.1186/s40168-021-01047-4
-
 ---
 
-## Potential and expression of carbohydrate utilization by marine fungi in the global ocean.
- 15.05.2021, _F Baltar, Z Zhao, GJ Herndl_
-
-
-Most of the research on the cycling of carbon in the open-ocean has focused on heterotrophic prokaryotes and eukaryotic phytoplankton, but the role of pelagic fungi remains largely enigmatic.
+## Potential and expression of carbohydrate utilization by marine fungi in the global ocean
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01063-4)
-
-10.1186/s40168-021-01063-4
 
 ---
 
