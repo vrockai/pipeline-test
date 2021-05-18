@@ -1,108 +1,108 @@
-## Fresh extension of <em>Vibrio cholerae</em> competence type IV pili predisposes them for motor-independent retraction
+## Gut microbiota as a transducer of dietary cues to regulate host circadian rhythms and metabolism
 
-[Source](https://pubmed.ncbi.nlm.nih.gov/33990308/)
-
----
-
-## Coordination of gene expression with cell size enables <em>Escherichia coli </em>to efficiently maintain motility across conditions
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443892v1)
+[Source](https://www.nature.com/articles/s41575-021-00452-2?utm_source=dlvr.it&utm_medium=twitter)
 
 ---
 
-## Archival influenza virus genomes from Europe reveal genomic and phenotypic variability during the 1918 pandemic
+## SnapShot: Microbiota effects on host physiology.
+ 14.05.2021, _JH Hill, JL Round_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444134v1.abstract)
+
+Microbes can play both pathogenic and commensal roles, and it is common to label them as either detrimental or beneficial. However, the lines between good and bad can be blurred. This graphical summary attempts to illustrate the complexity of host-microbe interactions, with outcomes for human health being highly context specific. To view this SnapShot, open or download the PDF.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867421005067#!)
+
+10.1016/j.cell.2021.04.026
 
 ---
 
-## Fluorescent protein expression as a proxy of bacterial fitness in a high throughput assay
+## Microbiota effects on host physiology 
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.01.399113v2)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867421005067#!)
 
 ---
 
-## Nanopore sequencing provides rapid and reliable insight into microbial profiles of Intensive Care Units
+## Roles for the gut microbiota in regulating neuronal feeding circuits 
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444165v1)
+[Source](https://www.jci.org/articles/view/143772)
+
+---
+
+## Gut-brain communication and obesity: understanding functions of the vagus nerve
+
+[Source](https://www.jci.org/articles/view/143770)
+
+---
+
+## Exploiting unique features of the gut-brain interface to combat gastrointestinal cancer
+
+[Source](https://www.jci.org/articles/view/143776)
+
+---
+
+## Evaluation of saliva as a source of accurate whole‐genome and microbiome sequencing data 
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22386)
+
+---
+
+## The effects of nondigestible fermentable carbohydrates on adults with overweight or obesity: a meta-analysis of randomized controlled trials
+
+[Source](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuab018/6276600)
+
+---
+
+## Altered gut microbiota correlates with cognitive impairment in Chinese children with Down’s syndrome
+
+[Source](https://link.springer.com/article/10.1007/s00787-021-01799-2)
+
+---
+
+## A synthetic consortium of 100 gut commensals modulates the composition and function in a colon model of the microbiome of elderly subjects
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1919464)
+
+---
+
+## The rumen microbiome: balancing food security and environmental impacts.
+ 13.05.2021, _I Mizrahi, RJ Wallace, S Moraïs_
+
+
+Ruminants produce edible products and contribute to food security. They house a complex rumen microbial community that enables the host to digest their plant feed through microbial-mediated fermentation. However, the rumen microbiome is also responsible for the production of one of the most potent greenhouse gases, methane, and contributes about 18% of its total anthropogenic emissions. Conventional methods to lower methane production by ruminants have proved successful, but to a limited and often temporary extent. An increased understanding of the host-microbiome interactions has led to the development of new mitigation strategies. In this Review we describe the composition, ecology and metabolism of the rumen microbiome, and the impact on host physiology and the environment. We also discuss the most pertinent methane mitigation strategies that emerged to balance food security and environmental impacts.
+
+[Source](https://www.nature.com/articles/s41579-021-00543-6)
+
+10.1038/s41579-021-00543-6
+
+---
+
+## Components of the Gut Microbiome that Influence Bone Tissue‐Level Strength
+
+[Source](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4341)
+
+---
+
+## Characterization of growth phenotypes and gastrointestinal tract microbiota in sheep fed with caragana
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/jam.15138)
+
+---
+
+## ‘GutFeel’: an in silico method for predicting gut health status based on the metabolic functional capabilities of the resident microbiome 
+
+[Source](https://febs.onlinelibrary.wiley.com/doi/10.1002/1873-3468.14107)
+
+---
+
+## MiMeNet: Exploring microbiome-metabolome relationships using neural networks
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009021)
 
 ---
 
 ## Anatomy promotes neutral coexistence of strains in the human skin microbiome
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443817v1)
-
----
-
-## Gene- and genome-centric dynamics shape the diversity of oral bacterial populations
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444208v1.abstract)
-
----
-
-## Two microbiota subtypes identified in Irritable Bowel Syndrome with distinct responses to the low-FODMAP diet
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.14.444142v1.abstract)
-
----
-
-## Strain engraftment competition and functional augmentation in a multi-donor fecal microbiota transplantation trial for obesity
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01060-7)
-
----
-
-## Soil origin and plant genotype structure distinct microbiome compartments in the model legume <em>Medicago truncatula</em>
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00915-9)
-
----
-
-## A novel dual enrichment strategy provides soil- and digestate-competent N2O-respiring bacteria for mitigating climate forcing in agriculture
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.11.443593v2)
-
----
-
-## Temporal dynamics of microbial transcription in wetted hyperarid desert soils
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443739v1)
-
----
-
-## Metagenomic sequencing for rapid identification of <em>Xylella fastidiosa</em> from leaf samples
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443947v1)
-
----
-
-## <em>Pseudomonas arenae</em> sp. nov., <em>Pseudomonas glycinis</em> sp. nov. and <em>Pseudomonas harudinis </em>sp. nov., three novel bacterial species and plant endophytes
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.13.444027v1.abstract)
-
----
-
-## Phage-resistant bacteria reveal a role for potassium in root colonization
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443821v1.abstract)
-
----
-
-## Metagenomic analysis reveals the shared and distinct features of the soil resistome across tundra, temperate prairie, and tropical ecosystems
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01047-4)
-
----
-
-## Potential and expression of carbohydrate utilization by marine fungi in the global ocean
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01063-4)
-
----
-
-##  Syntrophic H2 production enhances the performance of primarily acetate-supplemented reactors treating sulphate contaminated solutions
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.05.12.443249v1.abstract)
 
 ---
 
