@@ -64,15 +64,9 @@ Microbes can play both pathogenic and commensal roles, and it is common to label
 
 ---
 
-## The rumen microbiome: balancing food security and environmental impacts.
- 13.05.2021, _I Mizrahi, RJ Wallace, S Moraïs_
-
-
-Ruminants produce edible products and contribute to food security. They house a complex rumen microbial community that enables the host to digest their plant feed through microbial-mediated fermentation. However, the rumen microbiome is also responsible for the production of one of the most potent greenhouse gases, methane, and contributes about 18% of its total anthropogenic emissions. Conventional methods to lower methane production by ruminants have proved successful, but to a limited and often temporary extent. An increased understanding of the host-microbiome interactions has led to the development of new mitigation strategies. In this Review we describe the composition, ecology and metabolism of the rumen microbiome, and the impact on host physiology and the environment. We also discuss the most pertinent methane mitigation strategies that emerged to balance food security and environmental impacts.
+## The rumen microbiome: balancing food security and environmental impacts 
 
 [Source](https://www.nature.com/articles/s41579-021-00543-6)
-
-10.1038/s41579-021-00543-6
 
 ---
 
