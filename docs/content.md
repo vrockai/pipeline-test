@@ -4,18 +4,6 @@
 
 ---
 
-## SnapShot: Microbiota effects on host physiology.
- 14.05.2021, _JH Hill, JL Round_
-
-
-Microbes can play both pathogenic and commensal roles, and it is common to label them as either detrimental or beneficial. However, the lines between good and bad can be blurred. This graphical summary attempts to illustrate the complexity of host-microbe interactions, with outcomes for human health being highly context specific. To view this SnapShot, open or download the PDF.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867421005067#!)
-
-10.1016/j.cell.2021.04.026
-
----
-
 ## Microbiota effects on host physiology 
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867421005067#!)
