@@ -29,7 +29,7 @@ Microbes can play both pathogenic and commensal roles, and it is common to label
 ---
 
 ## Roles for the gut microbiota in regulating neuronal feeding circuits.
- 17.05.2021, _KB Yu, EY Hsiao_
+ 20.05.2021, _KB Yu, EY Hsiao_
 
 
 The gut microbiota has the capacity to affect host appetite via intestinal satiety pathways, as well as complex feeding behaviors. In this Review, we highlight recent evidence that the gut microbiota can modulate food preference across model organisms. We discuss effects of the gut microbiota on the vagus nerve and brain regions including the hypothalamus, mesolimbic system, and prefrontal cortex, which play key roles in regulating feeding behavior. Crosstalk between commensal bacteria and the central and peripheral nervous systems is associated with alterations in signaling of neurotransmitters and neuropeptides such as dopamine, brain-derived neurotrophic factor (BDNF), and glucagon-like peptide-1 (GLP-1). We further consider areas for future research on mechanisms by which gut microbes may influence feeding behavior involving these neural pathways. Understanding roles for the gut microbiota in feeding regulation will be important for informing therapeutic strategies to treat metabolic and eating disorders.
@@ -41,7 +41,7 @@ The gut microbiota has the capacity to affect host appetite via intestinal satie
 ---
 
 ## Gut-brain communication and obesity: understanding functions of the vagus nerve.
- 17.05.2021, _HR Berthoud, VL Albaugh, WL Neuhuber_
+ 20.05.2021, _HR Berthoud, VL Albaugh, WL Neuhuber_
 
 
 Given the crucial role of the gastrointestinal tract and associated organs in handling nutrient assimilation and metabolism, it has long been known that its communication with the brain is important for the control of ingestive behavior and body weight regulation. It is also clear that gut-brain communication is bidirectional and utilizes both rapid neural and slower humoral mechanisms and pathways. However, progress in understanding these mechanisms and leveraging them for the treatment of obesity and metabolic disease has been hindered by the enormous dimension of the gut mucosa, the complexity of the signaling systems, and lack of specific tools. With the ascent of modern neurobiological technology, our understanding of the role of vagal afferents in gut-brain communication has begun to change. The first function-specific populations of vagal afferents providing nutritional feedback as well as feed-forward signals have been identified with genetics-guided methodology, and it is hoped that extension of the methodology to other neural communication pathways will follow soon. Currently, efficient clinical leveraging of gut-brain communication to treat obesity and metabolic disease is limited to a few gut hormones, but a more complete understanding of function-specific and projection-specific neuronal populations should make it possible to develop selective and more effective neuromodulation approaches.
@@ -53,7 +53,7 @@ Given the crucial role of the gastrointestinal tract and associated organs in ha
 ---
 
 ## Exploiting unique features of the gut-brain interface to combat gastrointestinal cancer.
- 17.05.2021, _A Schledwitz, G Xie, JP Raufman_
+ 20.05.2021, _A Schledwitz, G Xie, JP Raufman_
 
 
 The gastrointestinal tract comprises a complex ecosystem with extensive opportunities for functional interactions between neoplastic epithelial cells and stromal, immune, neuronal, glial, and other cell types, as well as microorganisms and metabolites within the gut lumen. In this Review, we focus on interactions between gastrointestinal cancers and elements of the central and enteric nervous systems. This previously understudied but rapidly emerging area of investigation has blossomed in recent years, particularly with respect to improved understanding of neural contributions to the development and progression of esophageal, gastric, pancreatic, and colon neoplasia. Cancer neuroscience offers great promise to advance our understanding of how neural-cancer interactions promote alimentary tract neoplasia. The resulting mechanistic insights can be leveraged to identify diagnostic and prognostic biomarkers, and to develop novel therapeutic interventions.
@@ -65,7 +65,7 @@ The gastrointestinal tract comprises a complex ecosystem with extensive opportun
 ---
 
 ## Evaluation of saliva as a source of accurate whole-genome and microbiome sequencing data.
- 17.05.2021, _AF Herzig, L Velo-Suárez, G Le Folgoc, A Boland, H Blanché, R Olaso, L Le Roux, C Delmas, M Goldberg, M Zins, F Lethimonnier, JF Deleuze, E Génin_
+ 20.05.2021, _AF Herzig, L Velo-Suárez, G Le Folgoc, A Boland, H Blanché, R Olaso, L Le Roux, C Delmas, M Goldberg, M Zins, F Lethimonnier, JF Deleuze, E Génin_
 
 
 This study sets out to establish the suitability of saliva-based whole-genome sequencing (WGS) through a comparison against blood-based WGS. To fully appraise the observed differences, we developed a novel technique of pseudo-replication. We also investigated the potential of characterizing individual salivary microbiomes from non-human DNA fragments found in saliva. We observed that the majority of discordant genotype calls between blood and saliva fell into known regions of the human genome that are typically sequenced with low confidence; and could be identified by quality control measures. Pseudo-replication demonstrated that the levels of discordance between blood- and saliva-derived WGS data were entirely similar to what one would expect between technical replicates if an individual's blood or saliva had been sequenced twice. Finally, we successfully sequenced salivary microbiomes in parallel to human genomes as demonstrated by a comparison against the Human Microbiome Project.
