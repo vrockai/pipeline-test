@@ -76,15 +76,15 @@ This study sets out to establish the suitability of saliva-based whole-genome se
 
 ---
 
-## Exercise attenuates bone mineral density loss during diet-induced weight loss in adults with overweight and obesity: A systematic review and meta-analysis.
- 18.05.2021, _J Mesinovic, P Jansons, A Zengin, B de Courten, AJ Rodriguez, RM Daly, PR Ebeling, D Scott_
+## Effectiveness of dietary interventions on weight outcomes in childhood: a systematic review meta-analysis of randomized controlled trials.
+ 20.05.2021, _Q Long, T Zhang, F Chen, W Wang, X Chen, M Ma_
 
 
-Weight-loss-induced fat loss improves cardiometabolic health in individuals with overweight and obesity, however, weight loss can also result in bone loss and increased fracture risk. Weight-loss-induced bone loss may be attenuated with exercise. Our aim was to compare changes in bone mineral density (BMD) in adults with overweight and obesity who undertook diet-induced weight loss alone, or in combination with exercise.
+Rapid growth and elevated weight in childhood are significantly associated with obesity in later life, but evidence regarding dietary interventions and weight outcomes is lacking. This study aimed to determine the effectiveness of dietary interventions on body mass index (BMI) and BMI z-score in childhood.
 
 [Source](https://academic.oup.com/nutritionreviews/advance-article/doi/10.1093/nutrit/nuab018/6276600)
 
-10.1016/j.jshs.2021.05.001
+10.21037/tp-20-183
 
 ---
 
