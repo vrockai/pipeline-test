@@ -11,7 +11,7 @@ Based on the available data, it can be assumed that microbiota is an integral pa
 ---
 
 ## Restoration of dysbiotic human gut microbiome for homeostasis.
- 21.05.2021, _K Dixit, D Chaudhari, D Dhotre, Y Shouche, S Saroj_
+ 22.05.2021, _K Dixit, D Chaudhari, D Dhotre, Y Shouche, S Saroj_
 
 
 The human microbiome is a complex and dynamic ecosystem, and the imbalance of its microbial community structure from the normal state is termed dysbiosis. The dysbiotic gut microbiome has been proved to be related to several pathological conditions like Inflammatory Bowel Disease (IBD), Irritable Bowel Syndrome (IBS), Colorectal Cancer (CRC), etc., and several other extra-intestinal conditions like Type 1 &amp; 2 diabetes, obesity, etc. The complex gut microbial ecosystem starts to build before the birth of an individual. It is known to get affected by several factors such as birth mode, individual lifestyle, dietary practices, medications, and antibiotics. A dysbiotic microbiome can potentially hamper host homeostasis due to its role in immune modulation, metabolism, nutrient synthesis, etc. Restoration of the dysbiotic gut microbiome has emerged as a promising aid and a better therapeutic approach. Several approaches have been investigated to achieve this goal, including prebiotics and probiotics, Fecal Microbiota Transplantation (FMT), extracellular vesicles, immune modulation, microbial metabolites, dietary interventions, and phages. This review discusses the various factors that influence the human microbiome with respect to their cause-effect relationship and the effect of gut microbiome compositional changes on the brain through the gut-brain axis. We also discuss the practices used globally for gut microbiome restoration purposes, along with their effectiveness.
@@ -282,7 +282,7 @@ This study aimed to evaluate the effects of ingestion of live (9 log CFU mL-1) a
 ---
 
 ## Glycan-based shaping of the microbiota during primate evolution.
- 20.05.2021, _S Singh, P Bastos-Amador, JA Thompson, M Truglio, B Yilmaz, S Cardoso, D Sobral, MP Soares_
+ 22.05.2021, _S Singh, P Bastos-Amador, JA Thompson, M Truglio, B Yilmaz, S Cardoso, D Sobral, MP Soares_
 
 
 Genes encoding glycosyltransferases can be under relatively high selection pressure, likely due to the involvement of the glycans synthesized in host-microbe interactions. Here, we used mice as an experimental model system to investigate whether loss of α-1,3-galactosyltransferase gene (GGTA1) function and Galα1-3Galβ1-4GlcNAcβ1-R (αGal) glycan expression affects host-microbiota interactions, as might have occurred during primate evolution. We found that Ggta1 deletion shaped the composition of the gut microbiota. This occurred via an immunoglobulin (Ig)-dependent mechanism, associated with targeting of αGal-expressing bacteria by IgA. Systemic infection with an Ig-shaped microbiota inoculum elicited a less severe form of sepsis compared to infection with non-Ig-shaped microbiota. This suggests that in the absence of host αGal, antibodies can shape the microbiota towards lower pathogenicity. Given the fitness cost imposed by bacterial sepsis, we infer that the observed reduction in microbiota pathogenicity upon Ggta1 deletion in mice may have contributed to increase the frequency of GGTA1 loss-of-function mutations in ancestral primates that gave rise to humans.
@@ -348,7 +348,7 @@ Viruses play an essential role in shaping microbial community structures and ser
 ---
 
 ## Identifying biases and their potential solutions in human microbiome studies.
- 20.05.2021, _JT Nearing, AM Comeau, MGI Langille_
+ 22.05.2021, _JT Nearing, AM Comeau, MGI Langille_
 
 
 Advances in DNA sequencing technology have vastly improved the ability of researchers to explore the microbial inhabitants of the human body. Unfortunately, while these studies have uncovered the importance of these microbial communities to our health, they often do not result in similar findings. One possible reason for the disagreement in these results is due to the multitude of systemic biases that are introduced during sequence-based microbiome studies. These biases begin with sample collection and continue to be introduced throughout the entire experiment leading to an observed community that is significantly altered from the true underlying microbial composition. In this review, we will highlight the various steps in typical sequence-based human microbiome studies where significant bias can be introduced, and we will review the current efforts within the field that aim to reduce the impact of these biases. Video abstract.
@@ -360,7 +360,7 @@ Advances in DNA sequencing technology have vastly improved the ability of resear
 ---
 
 ## Application of Machine Learning in Translational Medicine: Current Status and Future Opportunities.
- 19.05.2021, _N Terranova, K Venkatakrishnan, LJ Benincosa_
+ 22.05.2021, _N Terranova, K Venkatakrishnan, LJ Benincosa_
 
 
 The exponential increase in our ability to harness multi-dimensional biological and clinical data from experimental to real-world settings has transformed pharmaceutical research and development in recent years, with increasing applications of artificial intelligence (AI) and machine learning (ML). Patient-centered iterative forward and reverse translation is at the heart of precision medicine discovery and development across the continuum from target validation to optimization of pharmacotherapy. Integration of advanced analytics into the practice of Translational Medicine is now a fundamental enabler to fully exploit information contained in diverse sources of big data sets such as "omics" data, as illustrated by deep characterizations of the genome, transcriptome, proteome, metabolome, microbiome, and exposome. In this commentary, we provide an overview of ML applications in drug discovery and development, aligned with the three strategic pillars of Translational Medicine (target, patient, dose) and offer perspectives on their potential to transform the science and practice of the discipline. Opportunities for integrating ML approaches into the discipline of Pharmacometrics are discussed and will revolutionize the practice of model-informed drug discovery and development. Finally, we posit that joint efforts of Clinical Pharmacology, Bioinformatics, and Biomarker Technology experts are vital in cross-functional team settings to realize the promise of AI/ML-enabled Translational and Precision Medicine.
