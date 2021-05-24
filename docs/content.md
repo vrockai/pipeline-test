@@ -245,7 +245,7 @@ Humans and non-human primates (NHPs) harbor complex gut microbial communities th
 ---
 
 ## The symbiotic relationship between Caenorhabditis elegans and members of its microbiome contributes to worm fitness and lifespan extension.
- 21.05.2021, _O Haçariz, C Viau, F Karimian, J Xia_
+ 23.05.2021, _O Haçariz, C Viau, F Karimian, J Xia_
 
 
 _Animals, Caenorhabditis elegans, Caenorhabditis elegans Proteins, Longevity, Microbiota, Oxidative Stress, Silicon Dioxide_
@@ -396,7 +396,7 @@ The human microbiome plays an important role in our health and identifying facto
 ---
 
 ## The potential and effects of saline-alkali alfalfa microbiota under salt stress on the fermentation quality and microbial.
- 20.05.2021, _DW Sa, Q Lu, Z Wang, G Ge, L Sun, Y Jia_
+ 23.05.2021, _DW Sa, Q Lu, Z Wang, G Ge, L Sun, Y Jia_
 
 
 The objective of this study was to evaluate the chemical compositions and microbial communities of salt-tolerant alfalfa silage. Salt-tolerant alfalfa was ensiled with no additive control, and cellulase for 30 and 60 to 90 days. In this study, the dry matter (DM) content of the raw material was 29.9% DM, and the crude protein (CP) content of the alfalfa was 21.9% CP.
