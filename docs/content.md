@@ -11,7 +11,7 @@ Based on the available data, it can be assumed that microbiota is an integral pa
 ---
 
 ## Restoration of dysbiotic human gut microbiome for homeostasis.
- 23.05.2021, _K Dixit, D Chaudhari, D Dhotre, Y Shouche, S Saroj_
+ 24.05.2021, _K Dixit, D Chaudhari, D Dhotre, Y Shouche, S Saroj_
 
 
 The human microbiome is a complex and dynamic ecosystem, and the imbalance of its microbial community structure from the normal state is termed dysbiosis. The dysbiotic gut microbiome has been proved to be related to several pathological conditions like Inflammatory Bowel Disease (IBD), Irritable Bowel Syndrome (IBS), Colorectal Cancer (CRC), etc., and several other extra-intestinal conditions like Type 1 &amp; 2 diabetes, obesity, etc. The complex gut microbial ecosystem starts to build before the birth of an individual. It is known to get affected by several factors such as birth mode, individual lifestyle, dietary practices, medications, and antibiotics. A dysbiotic microbiome can potentially hamper host homeostasis due to its role in immune modulation, metabolism, nutrient synthesis, etc. Restoration of the dysbiotic gut microbiome has emerged as a promising aid and a better therapeutic approach. Several approaches have been investigated to achieve this goal, including prebiotics and probiotics, Fecal Microbiota Transplantation (FMT), extracellular vesicles, immune modulation, microbial metabolites, dietary interventions, and phages. This review discusses the various factors that influence the human microbiome with respect to their cause-effect relationship and the effect of gut microbiome compositional changes on the brain through the gut-brain axis. We also discuss the practices used globally for gut microbiome restoration purposes, along with their effectiveness.
@@ -348,9 +348,10 @@ Viruses play an essential role in shaping microbial community structures and ser
 ---
 
 ## Identifying biases and their potential solutions in human microbiome studies.
- 22.05.2021, _JT Nearing, AM Comeau, MGI Langille_
+ 24.05.2021, _JT Nearing, AM Comeau, MGI Langille_
 
 
+_Bias, Humans, Metagenomics, Microbiota, Sequence Analysis, DNA, Specimen Handling_
 Advances in DNA sequencing technology have vastly improved the ability of researchers to explore the microbial inhabitants of the human body. Unfortunately, while these studies have uncovered the importance of these microbial communities to our health, they often do not result in similar findings. One possible reason for the disagreement in these results is due to the multitude of systemic biases that are introduced during sequence-based microbiome studies. These biases begin with sample collection and continue to be introduced throughout the entire experiment leading to an observed community that is significantly altered from the true underlying microbial composition. In this review, we will highlight the various steps in typical sequence-based human microbiome studies where significant bias can be introduced, and we will review the current efforts within the field that aim to reduce the impact of these biases. Video abstract.
 
 [Source](https://doi.org/10.1186/s40168-021-01059-0)
