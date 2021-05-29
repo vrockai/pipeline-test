@@ -4,15 +4,9 @@
 
 ---
 
-## Ecology and molecular targets of hypermutation in the global microbiome.
- 25.05.2021, _S Roux, BG Paul, SC Bagby, S Nayfach, MA Allen, G Attwood, R Cavicchioli, L Chistoserdova, RJ Gruninger, SJ Hallam, ME Hernandez, M Hess, WT Liu, TA McAllister, MA O'Malley, X Peng, VI Rich, SR Saleska, EA Eloe-Fadrosh_
-
-
-Changes in the sequence of an organism's genome, i.e., mutations, are the raw material of evolution. The frequency and location of mutations can be constrained by specific molecular mechanisms, such as diversity-generating retroelements (DGRs). DGRs have been characterized from cultivated bacteria and bacteriophages, and perform error-prone reverse transcription leading to mutations being introduced in specific target genes. DGR loci were also identified in several metagenomes, but the ecological roles and evolutionary drivers of these DGRs remain poorly understood. Here, we analyze a dataset of &gt;30,000 DGRs from public metagenomes, establish six major lineages of DGRs including three primarily encoded by phages and seemingly used to diversify host attachment proteins, and demonstrate that DGRs are broadly active and responsible for &gt;10% of all amino acid changes in some organisms. Overall, these results highlight the constraints under which DGRs evolve, and elucidate several distinct roles these elements play in natural communities.
+## Ecology and molecular targets of hypermutation in the global microbiome
 
 [Source](https://doi.org/10.1038/s41467-021-23402-7)
-
-10.1038/s41467-021-23402-7
 
 ---
 
@@ -22,15 +16,9 @@ Changes in the sequence of an organism's genome, i.e., mutations, are the raw ma
 
 ---
 
-## Composition of cutaneous bacterial microbiome in seborrheic dermatitis patients: A cross-sectional study.
- 24.05.2021, _MGH Sanders, T Nijsten, J Verlouw, R Kraaij, LM Pardo_
-
-
-Seborrheic dermatitis (SD) is a chronic inflammatory skin disease with a multifactorial aetiology. Malassezia yeasts have been associated with the disease but the role of bacterial composition in SD has not been thoroughly investigated.
+## Composition of cutaneous bacterial microbiome in seborrheic dermatitis patients: A cross-sectional study
 
 [Source](https://doi.org/10.1371/journal.pone.0251136)
-
-10.1371/journal.pone.0251136
 
 ---
 
