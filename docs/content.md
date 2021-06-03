@@ -94,15 +94,9 @@ Anthropogenic nitrogen (N) addition has increased soil nutrient availability, th
 
 ---
 
-## Integrating Viral Metagenomics into an Ecological Framework.
- 25.05.2021, _P Sommers, A Chatterjee, A Varsani, G Trubl_
-
-
-Viral metagenomics has expanded our knowledge of the ecology of uncultured viruses, within both environmental (e.g., terrestrial and aquatic) and host-associated (e.g., plants and animals, including humans) contexts. Here, we emphasize the implementation of an ecological framework in viral metagenomic studies to address questions in virology rarely considered ecological, which can change our perception of viruses and how they interact with their surroundings. An ecological framework explicitly considers diverse variants of viruses in populations that make up communities of interacting viruses, with ecosystem-level effects. It provides a structure for the study of the diversity, distributions, dynamics, and interactions of viruses with one another, hosts, and the ecosystem, including interactions with abiotic factors. An ecological framework in viral metagenomics stands poised to broadly expand our knowledge in basic and applied virology. We highlight specific fundamental research needs to capitalize on its potential and advance the field. Expected final online publication date for the Annual Review of Virology, Volume 8 is September 2021. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+## Integrating Viral Metagenomics into an Ecological Framework
 
 [Source](https://www.annualreviews.org/doi/10.1146/annurev-virology-010421-053015)
-
-10.1146/annurev-virology-010421-053015
 
 ---
 
