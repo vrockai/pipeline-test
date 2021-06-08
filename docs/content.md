@@ -1,72 +1,78 @@
-## Impact of the Gut Microbiota Balance on the Health–DiseaseRelationship: The Importance of Consuming Probioticsand Prebiotics
+## Long-term dietary patterns are associated with pro-inflammatory and anti-inflammatory features of the gut microbiome.
+ 03.04.2021, _LA Bolte, A Vich Vila, F Imhann, V Collij, R Gacesa, V Peters, C Wijmenga, A Kurilshikov, MJE Campmans-Kuijpers, J Fu, G Dijkstra, A Zhernakova, RK Weersma_
 
-[Source](https://doi.org/10.3390/foods10061261)
 
----
+The microbiome directly affects the balance of pro-inflammatory and anti-inflammatory responses in the gut. As microbes thrive on dietary substrates, the question arises whether we can nourish an anti-inflammatory gut ecosystem. We aim to unravel interactions between diet, gut microbiota and their functional ability to induce intestinal inflammation.
 
-## Fecal microbiota transplantationin human metabolic diseases:From a murky past to a bright future?
+[Source](https://gut.bmj.com/content/70/7/1287)
 
-[Source](https://doi.org/10.1016/j.cmet.2021.05.005)
-
----
-
-## Short- and long-term effects of amoxicillin/clavulanic acid or doxycycline on the gastrointestinal microbiome of growing cats
-
-[Source](https://doi.org/10.1101/2021.05.28.446115)
+10.1136/gutjnl-2020-322670
 
 ---
 
-## Deep-rooted plant species recruit distinct bacterial communities in 3 m deep subsoil
+## Ginseng polysaccharides alter the gut microbiota and kynurenine/tryptophan ratio, potentiating the antitumour effect of antiprogrammed cell death 1/programmed cell death ligand 1 (anti-PD-1/PD-L1) immunotherapy.
+ 19.05.2021, _J Huang, D Liu, Y Wang, L Liu, J Li, J Yuan, Z Jiang, Z Jiang, WW Hsiao, H Liu, I Khan, Y Xie, J Wu, Y Xie, Y Zhang, Y Fu, J Liao, W Wang, H Lai, A Shi, J Cai, L Luo, R Li, X Yao, X Fan, Q Wu, Z Liu, P Yan, J Lu, M Yang, L Wang, Y Cao, H Wei, EL Leung_
 
-[Source](https://doi.org/10.1101/2021.06.02.446747)
 
----
+Programmed death 1 and its ligand 1 (PD-1/PD-L1) immunotherapy is promising for late-stage lung cancer treatment, however, the response rate needs to be improved. Gut microbiota plays a crucial role in immunotherapy sensitisation and Panax ginseng has been shown to possess immunomodulatory potential. In this study, we aimed to investigate whether the combination treatment of ginseng polysaccharides (GPs) and αPD-1 monoclonal antibody (mAb) could sensitise the response by modulating gut microbiota.
 
-## Single seed microbiota: assembly and transmission from parent plant to seedling
+[Source](https://gut.bmj.com/content/early/2021/05/18/gutjnl-2020-321031)
 
-[Source](https://doi.org/10.1101/2021.05.31.446402)
-
----
-
-## Reconstruction of metagenome-assembled genomes from aquaria
-
-[Source](https://doi.org/10.1101/2021.05.28.446213)
+10.1136/gutjnl-2020-321031
 
 ---
 
-## Viruses roam the wheat phyllosphere
+## Diurnal variation in the human skin microbiome affects accuracy of forensic microbiome matching.
+ 06.06.2021, _D Wilkins, X Tong, MHY Leung, CE Mason, PKH Lee_
 
-[Source](https://doi.org/10.1101/2021.05.31.446456)
 
----
+The human skin microbiome has been recently investigated as a potential forensic tool, as people leave traces of their potentially unique microbiomes on objects and surfaces with which they interact. In this metagenomic study of four people in Hong Kong, their homes, and public surfaces in their neighbourhoods, we investigated the stability and identifiability of these microbiota traces on a timescale of hours to days.
 
-## <span style="color:#ff6600;">Characteristics of genetically diverse Antarctic sea ice bacteriophages allow adaptation to changing environmental conditions</span>
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01082-1)
 
-[Source](https://doi.org/10.1101/2021.05.28.446129)
-
----
-
-## PGfinder, a novel analysis pipeline for the consistent, reproducible and high-resolution structural analysis of bacterial peptidoglycans
-
-[Source](https://doi.org/10.1101/2021.06.01.446515)
+10.1186/s40168-021-01082-1
 
 ---
 
-## Computational Viromics: Applications of the Computational Biology in Viromics Studies
+## Host Species and Geography Differentiate Honeybee Gut Bacterial Communities by Changing the Relative Contribution of Community Assembly Processes.
+ 01.06.2021, _Y Ge, Z Jing, Q Diao, JZ He, YJ Liu_
 
-[Source](https://doi.org/10.1007/s12250-021-00395-7)
+
+Honeybee gut microbiota modulates the health and fitness of honeybees, the ecologically and economically important pollinators and honey producers. However, which processes drive the assembly and shift of honeybee gut microbiota remains unknown. To explore the patterns of honeybee gut bacterial communities across host species and geographical sites and the relative contribution of different processes (i.e., homogeneous selection, variable selection, homogeneous dispersal, dispersal limitation, and an undominated process) in driving the patterns, two honeybee species (Apis cerana and Apis mellifera) were sampled from five geographically distant sites along a latitudinal gradient, followed by gut bacterial 16S rRNA gene sequencing. The gut bacterial communities differed significantly between A. cerana and A. mellifera, which was driven by the interhost dispersal limitation associated with the long-term coevolution between hosts and their prokaryotic symbionts. A. mellifera harbored more diverse but less varied gut bacterial communities than A. cerana due to the dominant role of homogeneous selection in converging A. mellifera intestinal communities. For each honeybee species, the gut bacterial communities differed across geographical sites, with individuals from lower latitudes harboring higher diversity; also, there was significant decay of gut community similarity against geographic distance. The geographical variation of honeybee gut bacterial communities was mainly driven by an undominated process (e.g., stochastic drift) rather than variable selection or dispersal limitation. This study elucidates that variations in host and geography alter the relative contribution of different processes in assembling honeybee gut microbiota and, thus, provides insights into the mechanisms underlying honeybee gut microbial shifts across evolutionary time. IMPORTANCE Honeybees provide crucial pollination services and valuable apiarian products. The symbiotic intestinal communities facilitate honeybee health and fitness by promoting nutrient assimilation, detoxifying toxins, and resisting pathogens. Thus, understanding the processes that govern honeybee gut bacterial communities is imperative for better managing gut microbiota to improve honeybee health. However, little is known about the processes driving the assembly and shift of honeybee gut bacterial communities. This study quantitatively deciphers the relative importance of selection, dispersal, and undominated processes in governing the assembly of honeybee gut bacterial communities and explores how their relative importance varies across biological and spatial scales. Our study provides new insights into the mechanisms underlying the maintenance and shift of honeybee gut microbiota.
+
+[Source](https://journals.asm.org/doi/10.1128/mBio.00751-21)
+
+10.1128/mBio.00751-21
 
 ---
 
-## Detecting the hosts of bacteriophages using GCN-Based semi-supervised learning
+## Dysbiosis exacerbates colitis by promoting ubiquitination and accumulation of the innate immune adaptor STING in myeloid cells.
+ 29.05.2021, _L Shmuel-Galia, F Humphries, X Lei, S Ceglia, R Wilson, Z Jiang, N Ketelut-Carneiro, SE Foley, S Pechhold, J Houghton, K Muneeruddin, SA Shaffer, BA McCormick, A Reboldi, D Ward, A Marshak-Rothstein, KA Fitzgerald_
 
-[Source](https://arxiv.org/abs/2105.13570v1)
+
+Alterations in the cGAS-STING DNA-sensing pathway affect intestinal homeostasis. We sought to delineate the functional role of STING in intestinal inflammation. Increased STING expression was a feature of intestinal inflammation in mice with colitis and in humans afflicted with inflammatory bowel disease. Mice bearing an allele rendering STING constitutively active exhibited spontaneous colitis and dysbiosis, as well as progressive chronic intestinal inflammation and fibrosis. Bone marrow chimera experiments revealed STING accumulation in intestinal macrophages and monocytes as the initial driver of inflammation. Depletion of Gram-negative bacteria prevented STING accumulation in these cells and alleviated intestinal inflammation. STING accumulation occurred at the protein rather than transcript level, suggesting post-translational stabilization. We found that STING was ubiquitinated in myeloid cells, and this K63-linked ubiquitination could be elicited by bacterial products, including cyclic di-GMP. Our findings suggest a positive feedback loop wherein dysbiosis foments the accumulation of STING in intestinal myeloid cells, driving intestinal inflammation.
+
+[Source](https://www.cell.com/immunity/fulltext/S1074-7613(21)00214-4)
+
+10.1016/j.immuni.2021.05.008
 
 ---
 
-## Naming of human diseases on the wrong side of history
+## Low shifts in salinity determined assembly processes and network stability of microeukaryotic plankton communities in a subtropical urban reservoir
 
-[Source](https://doi.org/10.1101/2021.05.01.442270)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01079-w)
+
+---
+
+## A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases
+
+[Source](https://pubmed.ncbi.nlm.nih.gov/34083435/)
+
+---
+
+## A Critique of Differential Abundance Analysis, and Advocacy for an Alternative
+
+[Source](https://arxiv.org/abs/2104.07266)
 
 ---
 
