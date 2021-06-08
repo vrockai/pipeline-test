@@ -52,14 +52,9 @@
 
 ---
 
-## Computational Viromics: Applications of the Computational Biology in Viromics Studies.
- 04.06.2021, _C Lu, Y Peng_
-
-
+## Computational Viromics: Applications of the Computational Biology in Viromics Studies
 
 [Source](https://doi.org/10.1007/s12250-021-00395-7)
-
-10.1007/s12250-021-00395-7
 
 ---
 
