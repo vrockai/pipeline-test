@@ -1,5 +1,5 @@
 ## Long-term dietary patterns are associated with pro-inflammatory and anti-inflammatory features of the gut microbiome.
- 03.04.2021, _LA Bolte, A Vich Vila, F Imhann, V Collij, R Gacesa, V Peters, C Wijmenga, A Kurilshikov, MJE Campmans-Kuijpers, J Fu, G Dijkstra, A Zhernakova, RK Weersma_
+ 08.06.2021, _LA Bolte, A Vich Vila, F Imhann, V Collij, R Gacesa, V Peters, C Wijmenga, A Kurilshikov, MJE Campmans-Kuijpers, J Fu, G Dijkstra, A Zhernakova, RK Weersma_
 
 
 The microbiome directly affects the balance of pro-inflammatory and anti-inflammatory responses in the gut. As microbes thrive on dietary substrates, the question arises whether we can nourish an anti-inflammatory gut ecosystem. We aim to unravel interactions between diet, gut microbiota and their functional ability to induce intestinal inflammation.
@@ -64,9 +64,15 @@ Alterations in the cGAS-STING DNA-sensing pathway affect intestinal homeostasis.
 
 ---
 
-## A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases
+## A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases.
+ 04.06.2021, _MJ Tisza, CB Buck_
+
+
+Despite remarkable strides in microbiome research, the viral component of the microbiome has generally presented a more challenging target than the bacteriome. This gap persists, even though many thousands of shotgun sequencing runs from human metagenomic samples exist in public databases, and all of them encompass large amounts of viral sequence data. The lack of a comprehensive database for human-associated viruses has historically stymied efforts to interrogate the impact of the virome on human health. This study probes thousands of datasets to uncover sequences from over 45,000 unique virus taxa, with historically high per-genome completeness. Large publicly available case-control studies are reanalyzed, and over 2,200 strong virus-disease associations are found.
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34083435/)
+
+10.1073/pnas.2023202118
 
 ---
 
