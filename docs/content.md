@@ -23,7 +23,7 @@ Programmed death 1 and its ligand 1 (PD-1/PD-L1) immunotherapy is promising for 
 ---
 
 ## Diurnal variation in the human skin microbiome affects accuracy of forensic microbiome matching.
- 06.06.2021, _D Wilkins, X Tong, MHY Leung, CE Mason, PKH Lee_
+ 10.06.2021, _D Wilkins, X Tong, MHY Leung, CE Mason, PKH Lee_
 
 
 The human skin microbiome has been recently investigated as a potential forensic tool, as people leave traces of their potentially unique microbiomes on objects and surfaces with which they interact. In this metagenomic study of four people in Hong Kong, their homes, and public surfaces in their neighbourhoods, we investigated the stability and identifiability of these microbiota traces on a timescale of hours to days.
@@ -47,7 +47,7 @@ Honeybee gut microbiota modulates the health and fitness of honeybees, the ecolo
 ---
 
 ## Dysbiosis exacerbates colitis by promoting ubiquitination and accumulation of the innate immune adaptor STING in myeloid cells.
- 09.06.2021, _L Shmuel-Galia, F Humphries, X Lei, S Ceglia, R Wilson, Z Jiang, N Ketelut-Carneiro, SE Foley, S Pechhold, J Houghton, K Muneeruddin, SA Shaffer, BA McCormick, A Reboldi, D Ward, A Marshak-Rothstein, KA Fitzgerald_
+ 10.06.2021, _L Shmuel-Galia, F Humphries, X Lei, S Ceglia, R Wilson, Z Jiang, N Ketelut-Carneiro, SE Foley, S Pechhold, J Houghton, K Muneeruddin, SA Shaffer, BA McCormick, A Reboldi, D Ward, A Marshak-Rothstein, KA Fitzgerald_
 
 
 Alterations in the cGAS-STING DNA-sensing pathway affect intestinal homeostasis. We sought to delineate the functional role of STING in intestinal inflammation. Increased STING expression was a feature of intestinal inflammation in mice with colitis and in humans afflicted with inflammatory bowel disease. Mice bearing an allele rendering STING constitutively active exhibited spontaneous colitis and dysbiosis, as well as progressive chronic intestinal inflammation and fibrosis. Bone marrow chimera experiments revealed STING accumulation in intestinal macrophages and monocytes as the initial driver of inflammation. Depletion of Gram-negative bacteria prevented STING accumulation in these cells and alleviated intestinal inflammation. STING accumulation occurred at the protein rather than transcript level, suggesting post-translational stabilization. We found that STING was ubiquitinated in myeloid cells, and this K63-linked ubiquitination could be elicited by bacterial products, including cyclic di-GMP. Our findings suggest a positive feedback loop wherein dysbiosis foments the accumulation of STING in intestinal myeloid cells, driving intestinal inflammation.
