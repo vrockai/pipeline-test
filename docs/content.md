@@ -1,12 +1,30 @@
+## Autoinflammatory keratinitzation diseases (AIKDs.
+ 12.06.2021, _A Peña-Rosado, N Riera-Martí, V Expósito-Serrano, J Romaní_
+
+
+Autoinflammatory keratinization disease (AiKD) is a novel clinical concept encompassing diseases with a genetic background and mixed pathogenic mechanisms of autoinflammation and autoimmunity, leading to an aberrant keratinization of the skin. Recent advances in medical genetics have revealed genetic causes and/or predisposing factors for a number of AiKD's, such as mutations in IL36RN related with pustular psoriasis, acrodermatitis continua and hidradenitis suppurativa, in CARD14 in pityriasis rubra pilaris type V and some forms of pustular psoriasis, and in NLRP1 related with familial keratosis lichenoides chronica (KLC). It is suspected that AiKD pathophysiology would also be involved in non-monogenic disorders. The bidirectional relationship between inflammation and keratinization should be understood in order to outline optimal management, and new drug development should take both targets into account. We assume that new inflammatory keratinization diseases may be recognized as AiKDs in the coming years.
+
+[Source](https://doi.org/10.1038/s41584-021-00625-y)
+
+10.1016/j.ad.2021.05.015
+
+---
+
 ## Ankylosing Spondylitis: An Autoimmune Or Autoinflammatory Disease?
 
 [Source](https://doi.org/10.1038/s41584-021-00625-y)
 
 ---
 
-## Updated Treatment For Acne: Targeted Therapy Based On Pathogenesis
+## Updated Treatment for Acne: Targeted Therapy Based on Pathogenesis.
+ 11.06.2021, _I Kurokawa, AM Layton, R Ogawa_
+
+
+Previous approaches to acne management have focused on the four main factors implicated in acne, namely, androgen-mediated sebogenesis (considered integral to acne), hyperkeratinization, colonization with Cutibacterium acnes, and inflammation related to both innate and adaptive mechanisms. Recent advances have facilitated potential novel approaches to acne management, as the pathophysiology and the immunological aspects related to acne and wound healing have evolved. Particular targets that have been shown to be closely involved in acne pathophysiology and wound healing include interleukin (IL)-1β, IL-17, IL-23, and tumor necrosis factor alpha (TNFα). Biological antibodies targeting IL-1β, IL-17, IL-23, and TNFα could provide novel approaches for treating severe acne and related disorders. Acne is primarily a disease associated with sebogenesis. Monosaturated free acids are important components. Insulin growth factor 1 (IGF-1) promotes the proliferation and differentiation of sebocytes and IL-1β. Research into the microbiome may also provide insights into potential future therapeutic options for acne. Scars, both atrophic and hypertrophic, are common sequelae to acne. Risk factors associated with the development of acne scars include genetic, systemic, local, and lifestyle factors. Pro-inflammatory cytokines have been shown to play a crucial role in the development of acne-induced hypertrophic scars. Treatment for extensive inflammatory keloid scarring is limited. Surgery and postoperative radiotherapy are two possible options. Transforming growth factor-β (TGFβ), IL-6, matrix metalloproteinase (MMP), IGF-1, and B cells are found in keloid or hypertrophic scar tissues. Biological antibodies targeting these cytokines may be a potential strategy for the prevention and treatment of this type of scar in the future. Future treatment for acne should embrace approaches that target the main etiological factors of acne. In particular, specific emphasis on aggressive treatment in the acute inflammatory phase to reduce the likelihood of scarring and other clinical sequelae, such as pigmentary changes would be highly desirable. Treatment for established acne-induced sequelae should also be considered.
 
 [Source](https://doi.org/10.1007/s13555-021-00552-6)
+
+10.1007/s13555-021-00552-6
 
 ---
 
@@ -16,15 +34,32 @@
 
 ---
 
+## Cellular and molecular mediators of lymphangiogenesis in inflammatory bowel disease.
+ 11.06.2021, _DKW Ocansey, B Pei, X Xu, L Zhang, CV Olovo, F Mao_
+
+
+Recent studies reporting the intricate crosstalk between cellular and molecular mediators and the lymphatic endothelium in the development of inflammatory bowel diseases (IBD) suggest altered inflammatory cell drainage and lymphatic vasculature, implicating the lymphatic system as a player in the occurrence, development, and recurrence of intestinal diseases. This article aims to review recent data on the modulatory functions of cellular and molecular components of the IBD microenvironment on the lymphatic system, particularly lymphangiogenesis. It serves as a promising therapeutic target for IBD management and treatment. The interaction with gut microbiota is also explored.
+
+[Source](https://doi.org/10.1186/s12967-021-02922-2)
+
+10.1186/s12967-021-02922-2
+
+---
+
 ## Cellular And Molecular Mediators Of Lymphangiogenesis In Inflammatory Bowel Disease
 
 [Source](https://doi.org/10.1186/s12967-021-02922-2)
 
 ---
 
-## Microbiome Test Spots Oral Cancers
+## Microbiome test spots oral cancers.
+ 11.06.2021, __
+
+
 
 [Source](https://doi.org/10.1038/s41587-021-00964-x)
+
+10.1038/s41587-021-00964-x
 
 ---
 
@@ -40,9 +75,34 @@
 
 ---
 
+## SARS-CoV-2 detection status associates with bacterial community composition in patients and the hospital environment.
+ 12.06.2021, _C Marotz, P Belda-Ferre, F Ali, P Das, S Huang, K Cantrell, L Jiang, C Martino, RE Diner, G Rahman, D McDonald, G Armstrong, S Kodera, S Donato, G Ecklu-Mensah, N Gottel, MC Salas Garcia, LY Chiang, RA Salido, JP Shaffer, MK Bryant, K Sanders, G Humphrey, G Ackermann, N Haiminen, KL Beck, HC Kim, AP Carrieri, L Parida, Y Vázquez-Baeza, FJ Torriani, R Knight, J Gilbert, DA Sweeney, SM Allard_
+
+
+_COVID-19, Hospitals, Humans, Pandemics, Phylogeny, RNA, Ribosomal, 16S, RNA, Viral, SARS-CoV-2_
+SARS-CoV-2 is an RNA virus responsible for the coronavirus disease 2019 (COVID-19) pandemic. Viruses exist in complex microbial environments, and recent studies have revealed both synergistic and antagonistic effects of specific bacterial taxa on viral prevalence and infectivity. We set out to test whether specific bacterial communities predict SARS-CoV-2 occurrence in a hospital setting.
+
+[Source](https://doi.org/10.1186/s40168-021-01083-0)
+
+10.1186/s40168-021-01083-0
+
+---
+
 ## SARS-CoV-2 Detection Status Associates With Bacterial Community Composition In patients and the hospital environment
 
 [Source](https://doi.org/10.1186/s40168-021-01083-0)
+
+---
+
+## Assessing the involvement of the placental microbiome and virome in preeclampsia using non coding RNA sequencing.
+ 11.06.2021, _L Yoffe, AA Kuperman, O Isakov, D Haguel, AL Polsky, L Farberov, N Pillar, V Gurevich, I Haviv, N Shomron_
+
+
+Preeclampsia is a dangerous pregnancy complication. The source of preeclampsia is unknown, though the placenta is believed to have a central role in its pathogenesis. An association between maternal infection and preeclampsia has been demonstrated, yet the involvement of the placental microbiome in the etiology of preeclampsia has not been determined. In this study, we examined whether preeclampsia is associated with an imbalanced microorganism composition in the placenta.
+
+[Source](https://doi.org/10.1515/jpm-2021-0006)
+
+10.1515/jpm-2021-0006
 
 ---
 
@@ -52,9 +112,33 @@
 
 ---
 
+## An emerging role of Prevotella histicola on estrogen deficiency-induced bone loss through the gut microbiota-bone axis in postmenopausal women and in ovariectomized mice.
+ 11.06.2021, _Z Wang, K Chen, C Wu, J Chen, H Pan, Y Liu, P Wu, J Yuan, F Huang, J Lang, J Du, J Xu, K Jin, L Chen_
+
+
+The gut microbiota (GM)-bone axis has emerged as a crucial mediator of bone homeostasis. Estrogen deficiency-induced bone loss is closely associated with an altered GM. However, the underlying mechanisms remain unclear.
+
+[Source](https://doi.org/10.1093/ajcn/nqab194)
+
+10.1093/ajcn/nqab194
+
+---
+
 ## An Emerging Role Of Prevotella Histicola On Estrogen Deficiency-induced Bone Loss through the gut microbiota-bone axis in postmenopausal women and in ovariectomized mice
 
 [Source](https://doi.org/10.1093/ajcn/nqab194)
+
+---
+
+## Supplier-origin mouse microbiomes significantly influence locomotor and anxiety-related behavior, body morphology, and metabolism.
+ 11.06.2021, _AC Ericsson, ML Hart, J Kwan, L Lanoue, LR Bower, R Araiza, KC Kent Lloyd, CL Franklin_
+
+
+The mouse is the most commonly used model species in biomedical research. Just as human physical and mental health are influenced by the commensal gut bacteria, mouse models of disease are influenced by the fecal microbiome (FM). The source of mice represents one of the strongest influences on the FM and can influence the phenotype of disease models. The FM influences behavior in mice leading to the hypothesis that mice of the same genetic background from different vendors, will have different behavioral phenotypes. To test this hypothesis, colonies of CD-1 mice, rederived via embryo transfer into surrogate dams from four different suppliers, were subjected to phenotyping assays assessing behavior and physiological parameters. Significant differences in behavior, growth rate, metabolism, and hematological parameters were observed. Collectively, these findings show the profound influence of supplier-origin FMs on host behavior and physiology in healthy, genetically similar, wild-type mice maintained in identical environments.
+
+[Source](https://doi.org/10.1038/s42003-021-02249-0)
+
+10.1038/s42003-021-02249-0
 
 ---
 
@@ -64,15 +148,51 @@
 
 ---
 
+## Microbial interaction: Prevotella spp. reduce P. aeruginosa induced inflammation in cystic fibrosis bronchial epithelial cells.
+ 11.06.2021, _A Bertelsen, JS Elborn, BC Schock_
+
+
+In Cystic Fibrosis (CF) airways, the dehydrated, thick mucus promotes the establishment of persistent polymicrobial infections and drives chronic airways inflammation. This also predisposes the airways to further infections, the vicious, self-perpetuating cycle causing lung damage and progressive lung function decline. The airways are a poly-microbial environment, containing both aerobic and anaerobic bacterial species. Pseudomonas aeruginosa (P. aeruginosa) infections contribute to the excessive inflammatory response in CF, but the role of anaerobic Prevotella spp., frequently found in CF airways, is not known.
+
+[Source](https://doi.org/10.1016/j.jcf.2021.04.012)
+
+10.1016/j.jcf.2021.04.012
+
+---
+
 ## Microbial Interaction: Prevotella Spp. Reduce P. Aeruginosa Induced Inflammation In cystic fibrosis bronchial epithelial cells
 
 [Source](https://doi.org/10.1016/j.jcf.2021.04.012)
 
 ---
 
+## Extra-skeletal effects of dietary calcium: Impact on the cardiovascular system, obesity, and cancer.
+ 11.06.2021, _DK Daley, SB Myrie_
+
+
+Calcium is well known to be integral to bone and muscle health, with deleterious effects such as osteoporosis associated with inadequate calcium intake. Recent studies have also highlighted the significant effects of calcium in extra-musculoskeletal functioning, including the cardiovascular system, obesity, and cancer. Calcium impacts the cardiovascular system as an antagonist associated with a reduction in hypertension, increase vasodilation, and improvement in blood vessel function when obtained in the diet as an organic source, through food. However, the inorganic source of calcium, found in supplements, may be negatively associated with the cardiovascular system due to plaque deposits and atherogenesis when taken in excess. Some studies suggest that calcium intake may impact obesity by regulation of adipogenesis and reducing fat deposits with resulting weight loss. The pathogenesis of calcium for reducing obesity is thought to be related in part to its impact on gut microbiota profile, with the suggestion that calcium may have prebiotic properties. Animal and some human studies propose that calcium may also have a role in cancer prevention and/or treatment due to its function in the cell proliferation process and the impact on hormonal regulation, and thus warrants more investigations in the human population. Some prospective and small clinical studies suggest that calcium may be beneficial for colorectal cancer. Overall, emerging research in various areas continues to highlight the essentiality of dietary calcium for functioning at the molecular and biochemical level toward improvement in health and some chronic disease conditions.
+
+[Source](https://doi.org/10.1016/bs.afnr.2021.02.012)
+
+10.1016/bs.afnr.2021.02.012
+
+---
+
 ## Extra-skeletal Effects Of Dietary Calcium: Impact On The Cardiovascular System, obesity, and cancer
 
 [Source](https://doi.org/10.1016/bs.afnr.2021.02.012)
+
+---
+
+## The association between bacteria colonizing the upper respiratory tract and lower respiratory tract infection in young children: a systematic review and meta-analysis.
+ 10.06.2021, _S Claassen-Weitz, KY Lim, C Mullally, HJ Zar, MP Nicol_
+
+
+Bacteria colonizing the upper respiratory tract (URT) of young children play a key role in the pathogenesis of lower respiratory tract infection (LRTI).
+
+[Source](https://doi.org/10.1016/j.cmi.2021.05.034)
+
+10.1016/j.cmi.2021.05.034
 
 ---
 
