@@ -35,7 +35,7 @@ Previous approaches to acne management have focused on the four main factors imp
 ---
 
 ## Cellular and molecular mediators of lymphangiogenesis in inflammatory bowel disease.
- 13.06.2021, _DKW Ocansey, B Pei, X Xu, L Zhang, CV Olovo, F Mao_
+ 14.06.2021, _DKW Ocansey, B Pei, X Xu, L Zhang, CV Olovo, F Mao_
 
 
 Recent studies reporting the intricate crosstalk between cellular and molecular mediators and the lymphatic endothelium in the development of inflammatory bowel diseases (IBD) suggest altered inflammatory cell drainage and lymphatic vasculature, implicating the lymphatic system as a player in the occurrence, development, and recurrence of intestinal diseases. This article aims to review recent data on the modulatory functions of cellular and molecular components of the IBD microenvironment on the lymphatic system, particularly lymphangiogenesis. It serves as a promising therapeutic target for IBD management and treatment. The interaction with gut microbiota is also explored.
