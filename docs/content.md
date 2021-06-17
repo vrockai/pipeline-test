@@ -111,9 +111,33 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
+## The association between bacteria colonizing the upper respiratory tract and lower respiratory tract infection in young children: a systematic review and meta-analysis.
+ 10.06.2021, _S Claassen-Weitz, KY Lim, C Mullally, HJ Zar, MP Nicol_
+
+
+Bacteria colonizing the upper respiratory tract (URT) of young children play a key role in the pathogenesis of lower respiratory tract infection (LRTI).
+
+[Source](https://doi.org/10.1016/j.cmi.2021.05.034)
+
+10.1016/j.cmi.2021.05.034
+
+---
+
 ## The Association Between Bacteria Colonizing The Upper Respiratory Tract And Lower respiratory tract infection in young children: a systematic review and meta-analysis
 
 [Source](https://doi.org/10.1016/j.cmi.2021.05.034)
+
+---
+
+## Exploring the microbiota-Alzheimer's Disease linkage using short-term antibiotic treatment followed by fecal microbiota transplantation.
+ 10.06.2021, _M Wang, J Cao, C Gong, W Kwame Amakye, M Yao, J Ren_
+
+
+Gut microbiota is proven to be involved in the development of beta amyloid (Aβ) pathology in Alzheimer's disease (AD). Since there are difficulties in translating microbiota findings based on germ-free mice into clinical practice, here, we used short-term antibiotic cocktail treatment to develop a novel model with a near-germ-free status and without impacting Aβ pathology. Three months old APPSWE/PS1ΔE9 mice were fed with antibiotic cocktails for two weeks by gavage to obtain a near "germ-free" status, and then received the donor fecal matter from the 16 months old APP/PS1 mice for 7 consecutive days. Fecal pellets were collected prior to antibiotics treatment, following antibiotic exposure, prior to and following fecal microbiota transplantation for gut microbiota analysis. Also, Aβ pathology, astrocyte and microglia morphology were further explored. Pre-antibiotic-treated mice successfully allowed engraftment of gut microbiota following 7 consecutive days gavage with aged APP/PS1 mice microbiota. Microbiota reconstitution by transplantation was largely attributable to the donor source (e.g. g_Coriobacteriaceae and g_Clostridium) and led to a significant increase in Aβ plaques. Surprisingly, astrocyte activation around Aβ plaques was suppressed rather than microglia, the well-recognized plaque phagocytic cell type in Aβ clearance, following microbiota engraftment. Our findings provide a novel framework for understanding the mechanisms of AD through the gut-brain axis and the translation of gut microbiota manipulation from bench to clinical practice.
+
+[Source](https://doi.org/10.1016/j.bbi.2021.06.003)
+
+10.1016/j.bbi.2021.06.003
 
 ---
 
@@ -123,15 +147,51 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
+## Dispersal strategies shape persistence and evolution of human gut bacteria.
+ 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
+
+
+Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
+
+[Source](https://doi.org/10.1016/j.chom.2021.05.008)
+
+10.1016/j.chom.2021.05.008
+
+---
+
 ## Dispersal Strategies Shape Persistence And Evolution Of Human Gut Bacteria
 
 [Source](https://doi.org/10.1016/j.chom.2021.05.008)
 
 ---
 
+## The impact of the female genital tract microbiome in women health and reproduction: a review.
+ 10.06.2021, _P Punzón-Jiménez, E Labarta_
+
+
+The aim of this review is to gather the available research focusing on female genital tract (FGT) microbiome. Research question focuses in decipher which is the role of FGT microbiota in eubiosis, assisted reproduction techniques (ARTs), and gynaecological disorders, and how microbiome could be utilised to improve reproduction outcomes and to treat fertility issues.
+
+[Source](https://doi.org/10.1007/s10815-021-02247-5)
+
+10.1007/s10815-021-02247-5
+
+---
+
 ## The Impact Of The Female Genital Tract Microbiome In Women Health And Reproduction: a review
 
 [Source](https://doi.org/10.1007/s10815-021-02247-5)
+
+---
+
+## Dysosmobacter welbionis is a newly isolated human commensal bacterium preventing diet-induced obesity and metabolic disorders in mice.
+ 10.06.2021, _T Le Roy, E Moens de Hase, M Van Hul, A Paquot, R Pelicaen, M Régnier, C Depommier, C Druart, A Everard, D Maiter, NM Delzenne, LB Bindels, M de Barsy, A Loumaye, MP Hermans, JP Thissen, S Vieira-Silva, G Falony, J Raes, GG Muccioli, PD Cani_
+
+
+To investigate the abundance and the prevalence of Dysosmobacter welbionis J115T, a novel butyrate-producing bacterium isolated from the human gut both in the general population and in subjects with metabolic syndrome. To study the impact of this bacterium on host metabolism using diet-induced obese and diabetic mice.
+
+[Source](https://doi.org/10.1136/gutjnl-2020-323778)
+
+10.1136/gutjnl-2020-323778
 
 ---
 
@@ -147,21 +207,57 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
-## Legume Consumption And Gut Microbiome In Elderly Chinese Men And Women
+## Legume Consumption and Gut Microbiome in Elderly Chinese Men and Women.
+ 11.06.2021, _C Wang, Y Yang, W Xu, D Yu, J Wu, Q Cai, J Long, W Zheng, XO Shu_
+
+
+Legumes, important components of a healthy diet, may exert their health benefits through the influence of the gut microbiome. However, this hypothesis has not been well investigated.
 
 [Source](https://doi.org/10.1093/jn/nxab139)
 
+10.1093/jn/nxab139
+
 ---
 
-## Gut Health Function Of Instant Dehydrated Rice Sticks Substituted With Resistant Starch Types 2 and 4
+## Gut Health Function of Instant Dehydrated Rice Sticks Substituted with Resistant Starch Types 2 and 4.
+ 11.06.2021, _N Alfilasari, P Sirivongpaisal, S Wichienchot_
+
+
+The purpose of this study was to analyze the effects of instant dehydrated rice sticks (IDRS) which were substituted with resistant starch (RS) types 2 and 4 whose gut health function targets gut microbiota. IDRS are a type of rice noodles that were developed by two formulations. The first formulation had substitution of rice flour with 20% RS type 2 and 0.15% carboxymethyl cellulose (CMC) (RSc-2), and the second formulation had 25% RS type 4 and 0.15% CMC (RSc-4). RSc-2 and RSc-4 were investigated for gut health function by human fecal fermentation in a pH-controlled batch culture. The results of gut microbiota enumeration by fluorescent in situ hybridization confirmed that significantly (P &lt; 0.05) higher numbers of bifidobacteria were obtained with RSc-2 (10.06 ± 0.09 log cells/mL) and RSc-4 (10.00 ± 0.06 log cells/mL) compared to the control (100% rice flour formula) at 24 h fermentation. Additionally, the prebiotic indexes of RSc-2 and RSc-4 were 3.8 and 2.8 -fold higher than that of the control at 24 h fermentation. The short-chained fatty acids, acetic, propionic and butyric acid were analyzed by gas chromatography-flame ionization detector. The butyric acids were significantly (P &lt; 0.05) higher with RSc-2 (43.56 ± 0.01 mM) and RSc-4 (43.63 ± 0.07 mM) compared to the control at 24 h. Thus, RSc-2 and RSc-4 showed butyrogenic, bifidogenic and prebiotic potential to support gut health and could aid in prevention of colon cancer.
 
 [Source](https://doi.org/10.1007/s00284-021-02564-z)
+
+10.1007/s00284-021-02564-z
+
+---
+
+## Microalgae as feed ingredients: recent developments on their role in immunomodulation and gut microbiota of aquaculture species.
+ 11.06.2021, _US Sagaram, MS Gaikwad, R Nandru, S Dasgupta_
+
+
+Microalgae are rapidly evolving alternative ingredients in food and feed. Desirable nutritional and functional qualities make them high potential sources of feed ingredients. Certain microalgae species are known to accumulate large amounts of protein, containing all essential amino acids while some species contain essential fatty acids and bioactive compounds hence offering several possible health benefits. However, successful inclusion of microalgae-based products in feed requires a clear understanding of physiological responses and microbiota of animals receiving microalgae diets. In this review, key microalgae-based feed ingredients and their effect on gut microbiome and immunomodulatory responses of microalgae fed animals, with a focus on aquatic species will be discussed.
+
+[Source](https://doi.org/10.1093/femsle/fnab071)
+
+10.1093/femsle/fnab071
 
 ---
 
 ## Microalgae As Feed Ingredients: Recent Developments On Their Role In immunomodulation and gut microbiota of aquaculture species
 
 [Source](https://doi.org/10.1093/femsle/fnab071)
+
+---
+
+## Plant-Based Diet Index and Metabolic Risk in Men: Exploring the Role of the Gut Microbiome.
+ 11.06.2021, _Y Li, DD Wang, A Satija, KL Ivey, J Li, JE Wilkinson, R Li, M Baden, AT Chan, C Huttenhower, EB Rimm, FB Hu, Q Sun_
+
+
+Healthy plant-based diet index (hPDI) is associated with a lower risk of cardiometabolic conditions, but its association as well as interactions with microbiome have not been elucidated.
+
+[Source](https://doi.org/10.1093/jn/nxab175)
+
+10.1093/jn/nxab175
 
 ---
 
@@ -177,9 +273,33 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
+## Lactobacillus paracasei modulates the gut microbiota and improves inflammation in type 2 diabetic rats.
+ 11.06.2021, _Z Zeng, X Guo, J Zhang, Q Yuan, S Chen_
+
+
+This study aimed to investigate the effects of probiotic Lactobacillus paracasei NL41 on inflammation and the gut microbiota of type 2 diabetic (T2D) rats induced by high-fat diet (HFD) and low-dose streptozotocin (STZ). A T2D rat model was established by inducing Sprague-Dawley rats with HFD/STZ, followed by 12-weeks L. paracasei NL41 gavage. The blood, colonic tissues, and feces samples of these rats were collected for inflammation, histology, and intestinal microbiota profiling. L. paracasei NL41 treatment induced remarkable improvement in the inflammatory status by decreasing the levels of serum lipopolysaccharides (LPS), free fatty acids (FFA), tumor necrosis factor-α (TNF-α), interleukin (IL)-6, and IL-8 and increasing the level of IL-10. Gut barrier function was significantly protected in NL41-treated rats. Moreover, the strain NL41 induced changes in the microbiota structure and influenced the relative abundance of the key species. Specifically, Bacteroides, Clostridia (specifically, Ruminococcus torques), and Parasutterella were significantly reduced, while some beneficial microorganisms (Bacteroidales_S24-7_group and the families Lachnospiraceae and Ruminococcaceae) were enriched by NL41. The correlational analyses indicated that L. paracasei NL41 ameliorating inflammation was closely related to the key species of the gut microbiota. The present study indicates that probiotic L. paracasei NL41 decreases LPS-induced inflammation by improving the gut microbiota and preserving intestinal integrity.
+
+[Source](https://doi.org/10.1039/d1fo00515d)
+
+10.1039/d1fo00515d
+
+---
+
 ## Lactobacillus Paracasei Modulates The Gut Microbiota And Improves Inflammation In type 2 diabetic rats
 
 [Source](https://doi.org/10.1039/d1fo00515d)
+
+---
+
+## Mixture of probiotics reduces inflammatory biomarkers and improves the oxidative/nitrosative profile in people with rheumatoid arthritis.
+ 14.06.2021, _LAT Cannarella, NL Mari, CC Alcântara, TMV Iryioda, NT Costa, SR Oliveira, MAB Lozovoy, EMV Reiche, I Dichi, ANC Simão_
+
+
+Studies have demonstrated that the gut microbiota of people with rheumatoid arthritis (RA) is different from that of healthy individuals and could influence inflammation and oxidative stress. In this study, we sought to evaluate the effects of supplementation with a mixture of probiotics on cytokine plasma levels, inflammatory biomarkers, oxidative/nitrosative stress profile, and Disease Activity Score-28 in people with RA.
+
+[Source](https://doi.org/10.1016/j.nut.2021.111282)
+
+10.1016/j.nut.2021.111282
 
 ---
 
@@ -195,15 +315,51 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
+## Lactobacillus rhamnosus GG orchestrates an anti-tumor immune response.
+ 10.06.2021, _JA Owens, BJ Saeedi, CR Naudin, S Hunter-Chang, ME Barbian, RU Eboka, L Askew, TM Darby, BS Robinson, RM Jones_
+
+
+In colorectal cancer, about 95% of patients are refractory to immunotherapy due to low anti-tumor immune responses. Therefore, these is an exigent need to develop treatments that increase anti-tumor immune responses and decrease tumor burden to enhance immunotherapy.
+
+[Source](https://doi.org/10.1016/j.jcmgh.2021.06.001)
+
+10.1016/j.jcmgh.2021.06.001
+
+---
+
 ## Lactobacillus Rhamnosus GG Orchestrates An Anti-tumor Immune Response
 
 [Source](https://doi.org/10.1016/j.jcmgh.2021.06.001)
 
 ---
 
+## Lactobacillus strains derived from human gut ameliorate metabolic disorders via modulation of gut microbiota composition and short-chain fatty acids metabolism.
+ 14.06.2021, _G Wang, G Zhu, C Chen, Y Zheng, F Ma, J Zhao, YK Lee, H Zhang, W Chen_
+
+
+Regulation on gut microbiota and short-chain fatty acids (SCFAs) are believed to be a pathway to suppress the development of metabolic syndrome. In this study, three Lactobacillus strains derived from the human gut were investigated for their effects on alleviation of metabolic disorders. These strains were individually administered to metabolic disorder rats induced by high-fat-high-sucrose (HFHS) diet. Each strain exhibited its own characteristics in attenuating the impaired glucose-insulin homeostasis, hepatic oxidative damage and steatosis. Correlation analysis between SCFAs and host metabolic parameters suggested that Lactobacillus protective effects on metabolic disorders are partly mediated by recovery of SCFAs production, especially the faecal acetic acid. Correspondingly, it indicated that probiotics restore the gut microbiota dysbiosis in different extent, thereby protect against metabolic disorders in a manner that is associated with microbiota, but not totally reverse the changed composition of microbiota to the normal state. Thus, Lactobacillus strains partly protect against diet-induced metabolic syndrome by microbiota modulation and acetate elevation.
+
+[Source](https://doi.org/10.3920/BM2020.0148)
+
+10.3920/BM2020.0148
+
+---
+
 ## Lactobacillus Strains Derived From Human Gut Ameliorate Metabolic Disorders Via modulation of gut microbiota composition and short-chain fatty acids metabolism
 
 [Source](https://doi.org/10.3920/BM2020.0148)
+
+---
+
+## The Specification and Function of Enteroendocrine Cells in Drosophila and Mammals: A Comparative Review.
+ 11.06.2021, _X Guo, J Lv, R Xi_
+
+
+Enteroendocrine cells (EECs) in both invertebrates and vertebrates derive from intestinal stem cells (ISCs) and are scattered along the digestive tract, where they function in sensing various environmental stimuli and subsequently secrete neurotransmitters or neuropeptides to regulate diverse biological and physiological processes. To fulfill these functions, EECs are specified into multiple subtypes that occupy specific gut regions. With advances in single-cell technology, organoid culture experimental systems, and CRISPR/Cas9 mediated genomic editing, rapid progress has been made towards characterization of EEC subtypes in mammals. Additionally, studies of genetic model organisms-especially Drosophila melanogaster-have also provided insights about the molecular processes underlying EEC specification from ISCs and about the establishment of diverse EEC subtypes. In this review we compare the regulation of EEC specification and function in mammals and Drosophila, with a focus on EEC subtype characterization, on how internal and external regulators mediate EEC subtype specification, and on how EEC-mediated intra- and inter-organ communications affect gastrointestinal physiology and pathology.
+
+[Source](https://doi.org/10.1111/febs.16067)
+
+10.1111/febs.16067
 
 ---
 
