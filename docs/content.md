@@ -75,34 +75,9 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
-## SARS-CoV-2 detection status associates with bacterial community composition in patients and the hospital environment.
- 12.06.2021, _C Marotz, P Belda-Ferre, F Ali, P Das, S Huang, K Cantrell, L Jiang, C Martino, RE Diner, G Rahman, D McDonald, G Armstrong, S Kodera, S Donato, G Ecklu-Mensah, N Gottel, MC Salas Garcia, LY Chiang, RA Salido, JP Shaffer, MK Bryant, K Sanders, G Humphrey, G Ackermann, N Haiminen, KL Beck, HC Kim, AP Carrieri, L Parida, Y Vázquez-Baeza, FJ Torriani, R Knight, J Gilbert, DA Sweeney, SM Allard_
-
-
-_COVID-19, Hospitals, Humans, Pandemics, Phylogeny, RNA, Ribosomal, 16S, RNA, Viral, SARS-CoV-2_
-SARS-CoV-2 is an RNA virus responsible for the coronavirus disease 2019 (COVID-19) pandemic. Viruses exist in complex microbial environments, and recent studies have revealed both synergistic and antagonistic effects of specific bacterial taxa on viral prevalence and infectivity. We set out to test whether specific bacterial communities predict SARS-CoV-2 occurrence in a hospital setting.
-
-[Source](https://doi.org/10.1186/s40168-021-01083-0)
-
-10.1186/s40168-021-01083-0
-
----
-
 ## SARS-CoV-2 Detection Status Associates With Bacterial Community Composition In patients and the hospital environment
 
 [Source](https://doi.org/10.1186/s40168-021-01083-0)
-
----
-
-## Assessing the involvement of the placental microbiome and virome in preeclampsia using non coding RNA sequencing.
- 11.06.2021, _L Yoffe, AA Kuperman, O Isakov, D Haguel, AL Polsky, L Farberov, N Pillar, V Gurevich, I Haviv, N Shomron_
-
-
-Preeclampsia is a dangerous pregnancy complication. The source of preeclampsia is unknown, though the placenta is believed to have a central role in its pathogenesis. An association between maternal infection and preeclampsia has been demonstrated, yet the involvement of the placental microbiome in the etiology of preeclampsia has not been determined. In this study, we examined whether preeclampsia is associated with an imbalanced microorganism composition in the placenta.
-
-[Source](https://doi.org/10.1515/jpm-2021-0006)
-
-10.1515/jpm-2021-0006
 
 ---
 
@@ -112,33 +87,9 @@ Preeclampsia is a dangerous pregnancy complication. The source of preeclampsia i
 
 ---
 
-## An emerging role of Prevotella histicola on estrogen deficiency-induced bone loss through the gut microbiota-bone axis in postmenopausal women and in ovariectomized mice.
- 11.06.2021, _Z Wang, K Chen, C Wu, J Chen, H Pan, Y Liu, P Wu, J Yuan, F Huang, J Lang, J Du, J Xu, K Jin, L Chen_
-
-
-The gut microbiota (GM)-bone axis has emerged as a crucial mediator of bone homeostasis. Estrogen deficiency-induced bone loss is closely associated with an altered GM. However, the underlying mechanisms remain unclear.
-
-[Source](https://doi.org/10.1093/ajcn/nqab194)
-
-10.1093/ajcn/nqab194
-
----
-
 ## An Emerging Role Of Prevotella Histicola On Estrogen Deficiency-induced Bone Loss through the gut microbiota-bone axis in postmenopausal women and in ovariectomized mice
 
 [Source](https://doi.org/10.1093/ajcn/nqab194)
-
----
-
-## Supplier-origin mouse microbiomes significantly influence locomotor and anxiety-related behavior, body morphology, and metabolism.
- 11.06.2021, _AC Ericsson, ML Hart, J Kwan, L Lanoue, LR Bower, R Araiza, KC Kent Lloyd, CL Franklin_
-
-
-The mouse is the most commonly used model species in biomedical research. Just as human physical and mental health are influenced by the commensal gut bacteria, mouse models of disease are influenced by the fecal microbiome (FM). The source of mice represents one of the strongest influences on the FM and can influence the phenotype of disease models. The FM influences behavior in mice leading to the hypothesis that mice of the same genetic background from different vendors, will have different behavioral phenotypes. To test this hypothesis, colonies of CD-1 mice, rederived via embryo transfer into surrogate dams from four different suppliers, were subjected to phenotyping assays assessing behavior and physiological parameters. Significant differences in behavior, growth rate, metabolism, and hematological parameters were observed. Collectively, these findings show the profound influence of supplier-origin FMs on host behavior and physiology in healthy, genetically similar, wild-type mice maintained in identical environments.
-
-[Source](https://doi.org/10.1038/s42003-021-02249-0)
-
-10.1038/s42003-021-02249-0
 
 ---
 
@@ -148,33 +99,9 @@ The mouse is the most commonly used model species in biomedical research. Just a
 
 ---
 
-## Microbial interaction: Prevotella spp. reduce P. aeruginosa induced inflammation in cystic fibrosis bronchial epithelial cells.
- 11.06.2021, _A Bertelsen, JS Elborn, BC Schock_
-
-
-In Cystic Fibrosis (CF) airways, the dehydrated, thick mucus promotes the establishment of persistent polymicrobial infections and drives chronic airways inflammation. This also predisposes the airways to further infections, the vicious, self-perpetuating cycle causing lung damage and progressive lung function decline. The airways are a poly-microbial environment, containing both aerobic and anaerobic bacterial species. Pseudomonas aeruginosa (P. aeruginosa) infections contribute to the excessive inflammatory response in CF, but the role of anaerobic Prevotella spp., frequently found in CF airways, is not known.
-
-[Source](https://doi.org/10.1016/j.jcf.2021.04.012)
-
-10.1016/j.jcf.2021.04.012
-
----
-
 ## Microbial Interaction: Prevotella Spp. Reduce P. Aeruginosa Induced Inflammation In cystic fibrosis bronchial epithelial cells
 
 [Source](https://doi.org/10.1016/j.jcf.2021.04.012)
-
----
-
-## Extra-skeletal effects of dietary calcium: Impact on the cardiovascular system, obesity, and cancer.
- 11.06.2021, _DK Daley, SB Myrie_
-
-
-Calcium is well known to be integral to bone and muscle health, with deleterious effects such as osteoporosis associated with inadequate calcium intake. Recent studies have also highlighted the significant effects of calcium in extra-musculoskeletal functioning, including the cardiovascular system, obesity, and cancer. Calcium impacts the cardiovascular system as an antagonist associated with a reduction in hypertension, increase vasodilation, and improvement in blood vessel function when obtained in the diet as an organic source, through food. However, the inorganic source of calcium, found in supplements, may be negatively associated with the cardiovascular system due to plaque deposits and atherogenesis when taken in excess. Some studies suggest that calcium intake may impact obesity by regulation of adipogenesis and reducing fat deposits with resulting weight loss. The pathogenesis of calcium for reducing obesity is thought to be related in part to its impact on gut microbiota profile, with the suggestion that calcium may have prebiotic properties. Animal and some human studies propose that calcium may also have a role in cancer prevention and/or treatment due to its function in the cell proliferation process and the impact on hormonal regulation, and thus warrants more investigations in the human population. Some prospective and small clinical studies suggest that calcium may be beneficial for colorectal cancer. Overall, emerging research in various areas continues to highlight the essentiality of dietary calcium for functioning at the molecular and biochemical level toward improvement in health and some chronic disease conditions.
-
-[Source](https://doi.org/10.1016/bs.afnr.2021.02.012)
-
-10.1016/bs.afnr.2021.02.012
 
 ---
 
@@ -184,33 +111,9 @@ Calcium is well known to be integral to bone and muscle health, with deleterious
 
 ---
 
-## The association between bacteria colonizing the upper respiratory tract and lower respiratory tract infection in young children: a systematic review and meta-analysis.
- 10.06.2021, _S Claassen-Weitz, KY Lim, C Mullally, HJ Zar, MP Nicol_
-
-
-Bacteria colonizing the upper respiratory tract (URT) of young children play a key role in the pathogenesis of lower respiratory tract infection (LRTI).
-
-[Source](https://doi.org/10.1016/j.cmi.2021.05.034)
-
-10.1016/j.cmi.2021.05.034
-
----
-
 ## The Association Between Bacteria Colonizing The Upper Respiratory Tract And Lower respiratory tract infection in young children: a systematic review and meta-analysis
 
 [Source](https://doi.org/10.1016/j.cmi.2021.05.034)
-
----
-
-## Exploring the microbiota-Alzheimer's Disease linkage using short-term antibiotic treatment followed by fecal microbiota transplantation.
- 10.06.2021, _M Wang, J Cao, C Gong, W Kwame Amakye, M Yao, J Ren_
-
-
-Gut microbiota is proven to be involved in the development of beta amyloid (Aβ) pathology in Alzheimer's disease (AD). Since there are difficulties in translating microbiota findings based on germ-free mice into clinical practice, here, we used short-term antibiotic cocktail treatment to develop a novel model with a near-germ-free status and without impacting Aβ pathology. Three months old APPSWE/PS1ΔE9 mice were fed with antibiotic cocktails for two weeks by gavage to obtain a near "germ-free" status, and then received the donor fecal matter from the 16 months old APP/PS1 mice for 7 consecutive days. Fecal pellets were collected prior to antibiotics treatment, following antibiotic exposure, prior to and following fecal microbiota transplantation for gut microbiota analysis. Also, Aβ pathology, astrocyte and microglia morphology were further explored. Pre-antibiotic-treated mice successfully allowed engraftment of gut microbiota following 7 consecutive days gavage with aged APP/PS1 mice microbiota. Microbiota reconstitution by transplantation was largely attributable to the donor source (e.g. g_Coriobacteriaceae and g_Clostridium) and led to a significant increase in Aβ plaques. Surprisingly, astrocyte activation around Aβ plaques was suppressed rather than microglia, the well-recognized plaque phagocytic cell type in Aβ clearance, following microbiota engraftment. Our findings provide a novel framework for understanding the mechanisms of AD through the gut-brain axis and the translation of gut microbiota manipulation from bench to clinical practice.
-
-[Source](https://doi.org/10.1016/j.bbi.2021.06.003)
-
-10.1016/j.bbi.2021.06.003
 
 ---
 
@@ -220,51 +123,15 @@ Gut microbiota is proven to be involved in the development of beta amyloid (Aβ)
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria.
- 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
-
-
-Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
-
-[Source](https://doi.org/10.1016/j.chom.2021.05.008)
-
-10.1016/j.chom.2021.05.008
-
----
-
 ## Dispersal Strategies Shape Persistence And Evolution Of Human Gut Bacteria
 
 [Source](https://doi.org/10.1016/j.chom.2021.05.008)
 
 ---
 
-## The impact of the female genital tract microbiome in women health and reproduction: a review.
- 10.06.2021, _P Punzón-Jiménez, E Labarta_
-
-
-The aim of this review is to gather the available research focusing on female genital tract (FGT) microbiome. Research question focuses in decipher which is the role of FGT microbiota in eubiosis, assisted reproduction techniques (ARTs), and gynaecological disorders, and how microbiome could be utilised to improve reproduction outcomes and to treat fertility issues.
-
-[Source](https://doi.org/10.1007/s10815-021-02247-5)
-
-10.1007/s10815-021-02247-5
-
----
-
 ## The Impact Of The Female Genital Tract Microbiome In Women Health And Reproduction: a review
 
 [Source](https://doi.org/10.1007/s10815-021-02247-5)
-
----
-
-## Dysosmobacter welbionis is a newly isolated human commensal bacterium preventing diet-induced obesity and metabolic disorders in mice.
- 10.06.2021, _T Le Roy, E Moens de Hase, M Van Hul, A Paquot, R Pelicaen, M Régnier, C Depommier, C Druart, A Everard, D Maiter, NM Delzenne, LB Bindels, M de Barsy, A Loumaye, MP Hermans, JP Thissen, S Vieira-Silva, G Falony, J Raes, GG Muccioli, PD Cani_
-
-
-To investigate the abundance and the prevalence of Dysosmobacter welbionis J115T, a novel butyrate-producing bacterium isolated from the human gut both in the general population and in subjects with metabolic syndrome. To study the impact of this bacterium on host metabolism using diet-induced obese and diabetic mice.
-
-[Source](https://doi.org/10.1136/gutjnl-2020-323778)
-
-10.1136/gutjnl-2020-323778
 
 ---
 
@@ -280,15 +147,9 @@ To investigate the abundance and the prevalence of Dysosmobacter welbionis J115T
 
 ---
 
-## Legume Consumption and Gut Microbiome in Elderly Chinese Men and Women.
- 11.06.2021, _C Wang, Y Yang, W Xu, D Yu, J Wu, Q Cai, J Long, W Zheng, XO Shu_
-
-
-Legumes, important components of a healthy diet, may exert their health benefits through the influence of the gut microbiome. However, this hypothesis has not been well investigated.
+## Legume Consumption And Gut Microbiome In Elderly Chinese Men And Women
 
 [Source](https://doi.org/10.1093/jn/nxab139)
-
-10.1093/jn/nxab139
 
 ---
 
@@ -635,7 +496,7 @@ Matched-set data arise frequently in microbiome studies. For example, we may col
 ---
 
 ## Interrogating the bovine reproductive tract metagenomes using culture-independent approaches: a systematic review.
- 10.06.2021, _CT Ong, C Turni, PJ Blackall, G Boe-Hansen, BJ Hayes, AE Tabor_
+ 16.06.2021, _CT Ong, C Turni, PJ Blackall, G Boe-Hansen, BJ Hayes, AE Tabor_
 
 
 Undesirable microbial infiltration into the female bovine reproductive tracts, for example during calving or mating, is likely to disturb the commensal microflora. Persistent establishment and overgrowth of certain pathogens induce reproductive diseases, render the female bovine reproductive tract unfavourable for pregnancy or can result in transmission to the foetus, leading to death and abortion or birth abnormalities. This review of culture-independent metagenomics studies revealed that normal microflora in the female bovine reproductive tract is reasonably consistently dominated by bacteria from the phyla Bacteroidetes, Firmicutes, Proteobacteria, following by Actinobacteria, Fusobacteria and Tenericutes. Reproductive disease development in the female bovine reproductive tract was demonstrated across multiple studies to be associated with high relative abundances of bacteria from the phyla Bacteroidetes and Fusobacteria. Reduced bacterial diversity in the reproductive tract microbiome in some studies of cows diagnosed with reproductive diseases also indicated an association between dysbiosis and bovine reproductive health. Nonetheless, the bovine genital tract microbiome remains underexplored, and this is especially true for the male genital tract. Future research should focus on the functional aspects of the bovine reproductive tract microbiomes, for example their contributions to cattle fertility and susceptibility towards reproductive diseases.
@@ -701,7 +562,7 @@ The important and diverse roles of the gut microbiota in human health and diseas
 ---
 
 ## Silicon dioxide nanoparticles induced neurobehavioral impairments by disrupting microbiota-gut-brain axis.
- 11.06.2021, _J Diao, Y Xia, X Jiang, J Qiu, S Cheng, J Su, X Duan, M Gao, X Qin, J Zhang, J Fan, Z Zou, C Chen_
+ 16.06.2021, _J Diao, Y Xia, X Jiang, J Qiu, S Cheng, J Su, X Duan, M Gao, X Qin, J Zhang, J Fan, Z Zou, C Chen_
 
 
 Silicon dioxide nanoparticles (SiO2NPs) are widely used as additive in the food industry with controversial health risk. Gut microbiota is a new and hot topic in the field of nanotoxicity. It also contributes a novel and insightful view to understand the potential health risk of food-grade SiO2NPs in children, who are susceptible to the toxic effects of nanoparticles.
@@ -719,7 +580,7 @@ Silicon dioxide nanoparticles (SiO2NPs) are widely used as additive in the food 
 ---
 
 ## Decay of infectious SARS-CoV-2 and surrogates in aquatic environments.
- 15.06.2021, _L Sala-Comorera, LJ Reynolds, NA Martin, JJ O'Sullivan, WG Meijer, NF Fletcher_
+ 16.06.2021, _L Sala-Comorera, LJ Reynolds, NA Martin, JJ O'Sullivan, WG Meijer, NF Fletcher_
 
 
 The introduction of SARS-CoV-2 containing human stool and sewage into water bodies may raise public health concerns. However, assessment of public health risks by faecally contaminated water is limited by a lack of knowledge regarding the persistence of infectious SARS-CoV-2 in water. In the present study the decay rates of viable infectious SARS-CoV-2 and SARS-CoV-2 RNA were determined in river and seawater at 4 and 20°C. These decay rates were compared to S. typhimurium bacteriophage MS2 and pepper mild mottle virus (PMMoV). Persistence of viable SARS-CoV-2 was temperature dependent, remaining infectious for significantly longer periods of time in both freshwater and seawater at 4°C than at 20°C. T90 for infectious SARS-CoV-2 in river water was 2.3 days and 3.8 days at 20°C and 4°C, respectively. The T90 values were 1.1 days and 2.2 days in seawater at 20°C and 4°C, respectively. In contrast to the rapid inactivation of infectious SARS-CoV-2 in river and sea water, viral RNA was relatively stable. The RNA decay rates were increased in non-sterilised river and seawater, presumably due to the presence of microbiota. The decay rates of infectious MS2, MS2 RNA and PMMoV RNA differed significantly from the decay rate of SARS-CoV-2 RNA, suggesting that their use as surrogate markers for the persistence of SARS-CoV-2 in the environment is limited.
