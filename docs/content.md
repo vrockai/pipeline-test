@@ -177,33 +177,9 @@ Recent studies reporting the intricate crosstalk between cellular and molecular 
 
 ---
 
-## Lactobacillus paracasei modulates the gut microbiota and improves inflammation in type 2 diabetic rats.
- 11.06.2021, _Z Zeng, X Guo, J Zhang, Q Yuan, S Chen_
-
-
-This study aimed to investigate the effects of probiotic Lactobacillus paracasei NL41 on inflammation and the gut microbiota of type 2 diabetic (T2D) rats induced by high-fat diet (HFD) and low-dose streptozotocin (STZ). A T2D rat model was established by inducing Sprague-Dawley rats with HFD/STZ, followed by 12-weeks L. paracasei NL41 gavage. The blood, colonic tissues, and feces samples of these rats were collected for inflammation, histology, and intestinal microbiota profiling. L. paracasei NL41 treatment induced remarkable improvement in the inflammatory status by decreasing the levels of serum lipopolysaccharides (LPS), free fatty acids (FFA), tumor necrosis factor-α (TNF-α), interleukin (IL)-6, and IL-8 and increasing the level of IL-10. Gut barrier function was significantly protected in NL41-treated rats. Moreover, the strain NL41 induced changes in the microbiota structure and influenced the relative abundance of the key species. Specifically, Bacteroides, Clostridia (specifically, Ruminococcus torques), and Parasutterella were significantly reduced, while some beneficial microorganisms (Bacteroidales_S24-7_group and the families Lachnospiraceae and Ruminococcaceae) were enriched by NL41. The correlational analyses indicated that L. paracasei NL41 ameliorating inflammation was closely related to the key species of the gut microbiota. The present study indicates that probiotic L. paracasei NL41 decreases LPS-induced inflammation by improving the gut microbiota and preserving intestinal integrity.
-
-[Source](https://doi.org/10.1039/d1fo00515d)
-
-10.1039/d1fo00515d
-
----
-
 ## Lactobacillus Paracasei Modulates The Gut Microbiota And Improves Inflammation In type 2 diabetic rats
 
 [Source](https://doi.org/10.1039/d1fo00515d)
-
----
-
-## Mixture of probiotics reduces inflammatory biomarkers and improves the oxidative/nitrosative profile in people with rheumatoid arthritis.
- 14.06.2021, _LAT Cannarella, NL Mari, CC Alcântara, TMV Iryioda, NT Costa, SR Oliveira, MAB Lozovoy, EMV Reiche, I Dichi, ANC Simão_
-
-
-Studies have demonstrated that the gut microbiota of people with rheumatoid arthritis (RA) is different from that of healthy individuals and could influence inflammation and oxidative stress. In this study, we sought to evaluate the effects of supplementation with a mixture of probiotics on cytokine plasma levels, inflammatory biomarkers, oxidative/nitrosative stress profile, and Disease Activity Score-28 in people with RA.
-
-[Source](https://doi.org/10.1016/j.nut.2021.111282)
-
-10.1016/j.nut.2021.111282
 
 ---
 
@@ -216,18 +192,6 @@ Studies have demonstrated that the gut microbiota of people with rheumatoid arth
 ## Xiao-Chai-Hu-Tang Ameliorates Tumor Growth In Cancer Comorbid Depressive Symptoms via modulating gut microbiota-mediated TLR4/MyD88/NF-kB signaling pathway
 
 [Source](https://doi.org/10.1016/j.phymed.2021.153606)
-
----
-
-## Lactobacillus rhamnosus GG orchestrates an anti-tumor immune response.
- 10.06.2021, _JA Owens, BJ Saeedi, CR Naudin, S Hunter-Chang, ME Barbian, RU Eboka, L Askew, TM Darby, BS Robinson, RM Jones_
-
-
-In colorectal cancer, about 95% of patients are refractory to immunotherapy due to low anti-tumor immune responses. Therefore, these is an exigent need to develop treatments that increase anti-tumor immune responses and decrease tumor burden to enhance immunotherapy.
-
-[Source](https://doi.org/10.1016/j.jcmgh.2021.06.001)
-
-10.1016/j.jcmgh.2021.06.001
 
 ---
 
