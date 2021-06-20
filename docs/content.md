@@ -228,15 +228,33 @@ It is understudied whether the posed association of oral antibiotics with colore
 
 ---
 
+## The lung microbiome in lung transplantation.
+ 14.06.2021, _JE McGinniss, SA Whiteside, A Simon-Soro, JM Diamond, JD Christie, FD Bushman, RG Collman_
+
+
+Culture-independent study of the lower respiratory tract after lung transplantation has enabled an understanding of the microbiome - that is, the collection of bacteria, fungi, and viruses, and their respective gene complement - in this niche. The lung has unique features as a microbial environment, with balanced entry from the upper respiratory tract, clearance, and local replication. There are many pressures impacting the microbiome after transplantation, including donor allograft factors, recipient host factors such as underlying disease and ongoing exposure to the microbe-rich upper respiratory tract, and transplantation-related immunosuppression, antimicrobials, and postsurgical changes. To date, we understand that the lung microbiome after transplant is dysbiotic; that is, it has higher biomass and altered composition compared to a healthy lung. Emerging data suggest that specific microbiome features may be linked to host responses, both immune and non-immune, and clinical outcomes such as chronic lung allograft dysfunction (CLAD), but many questions remain. The goal of this review is to put into context our burgeoning understanding of the lung microbiome in the postlung transplant patient, the interactions between microbiome and host, the role the microbiome may play in post-transplant complications, and critical outstanding research questions.
+
+[Source](https://doi.org/10.1016/j.healun.2021.04.014)
+
+10.1016/j.healun.2021.04.014
+
+---
+
 ## The Lung Microbiome In Lung Transplantation
 
 [Source](https://doi.org/10.1016/j.healun.2021.04.014)
 
 ---
 
-## Vaginal Microbiome: Normalcy Vs Dysbiosis
+## Vaginal microbiome: normalcy vs dysbiosis.
+ 13.06.2021, _VS Saraf, SA Sheikh, A Ahmad, PM Gillevet, H Bokhari, S Javed_
+
+
+It has been long understood that the vaginal microflora is crucial in maintaining a normal physiological environment for the host and its involvement is deemed indispensable for reproductive success. A global concept of normalcy vs. dysbiosis of vaginal microbiome is debatable as women of different races have a unique vaginal microflora with regional variations. Vaginal microflora is a dynamic microenvironment affected by gestational status, menstrual cycle, sexual activity, age, and contraceptive use. Normal vaginal flora is dominated by lactobacilli especially in women of European descent vs. African American women. These microbes confer the host vagina protection from potentially pathogenic microbes that may lead to urinary tract infections and sexually transmitted diseases. Changes in the vaginal microbiota including reduced lactobacilli abundance and increased facultative and anaerobic organism populations result in bacterial vaginosis, that predisposes the host to several conditions like low birth weight and increased risk of contracting bacterial infections. On the other hand, the vaginal microbiome is also reshaped during pregnancy, with less microbial diversity with a dominance of Lactobacillus species. However, an altered vaginal microbiota with low lactobacilli abundance especially during pregnancy may result in induction of excessive inflammation and pre-term labor. Since the vaginal microbiome plays an important role during embryo implantation, it is not surprising that bacterial vaginosis is more common in infertile women and associated with reduced rates of conception. Probiotic has great success in treating bacterial vaginosis and restoring the normal microbiome in recent. This report, reviewed the relationships between the vaginal microbiome and women's reproductive health.
 
 [Source](https://doi.org/10.1007/s00203-021-02414-3)
+
+10.1007/s00203-021-02414-3
 
 ---
 
@@ -309,6 +327,18 @@ It is understudied whether the posed association of oral antibiotics with colore
 ## The Gut Microbiome Of The Sunda Pangolin (<em>Manis javanica</em>) Reveals Its Adaptation To specialized myrmecophagy
 
 [Source](https://doi.org/10.7717/peerj.11490)
+
+---
+
+## A rise in Proteobacteria is an indicator of gut-liver axis-mediated nonalcoholic fatty liver disease in high-fructose-fed adult mice.
+ 18.06.2021, _IML Vasques-Monteiro, FM Silva-Veiga, CS Miranda, ÉCB de Andrade Gonçalves, JB Daleprane, V Souza-Mello_
+
+
+Current evidence suggests that high fructose intake results in gut dysbiosis, leading to endotoxemia and NAFLD onset. Thus, the hypothesis of the study was that an enhanced Proteobacteria proportion in the cecal microbiota could be the most prominent trigger of NAFLD through enhanced endotoxin (LPS) in adult high-fructose-fed C57BL/6 mice. Male C57BL/6 mice received a control diet (n = 10, C: 76% of energy as carbohydrates, 0% as fructose) or high-fructose diet (n = 10, HFRU: 76% of energy as carbohydrate, 50% as fructose) for 12 weeks. Outcomes included biochemical analyses, 16S rDNA PCR amplification, hepatic stereology, and RT-qPCR. The groups showed similar body masses during the whole experiment. However, the HFRU group showed greater water intake and blood pressure than the C group. The HFRU group showed a significantly lower amount of Bacteroidetes and a predominant rise in Proteobacteria, implying increased LPS. The HFRU group also showed enhanced de novo lipogenesis (Chrebp expression), while beta-oxidation was decreased (Ppar-alpha expression). These results agree with the deposition of fat droplets within hepatocytes and the enhanced hepatic triacylglycerol concentrations, as observed in the photomicrographs, where the HFRU group had a higher volume density of steatosis than the C group. Thus, we confirmed that a rise in the Proteobacteria phylum proportion was the most prominent alteration in gut-liver axis-induced hepatic steatosis in HFRU-fed C57BL/6 mice. Gut dysbiosis and fatty liver were observed even in the absence of overweight in this dietary adult mouse model.
+
+[Source](https://doi.org/10.1016/j.nutres.2021.04.008)
+
+10.1016/j.nutres.2021.04.008
 
 ---
 
