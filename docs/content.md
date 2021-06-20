@@ -1,515 +1,438 @@
-## The joint involvement in adult onset Still's disease is characterised by a peculiar magnetic resonance imaging and a specific transcriptomic profile.
- 18.06.2021, _P Ruscitti, A Barile, O Berardicurti, S Iafrate, P Di Benedetto, A Vitale, F Caso, L Costa, F Bruno, F Ursini, L Navarini, F Sensini, R Scarpa, B Frediani, L Cantarini, C Masciocchi, R Giacomelli, P Cipriani_
+## NG-meta-profiler: fast processing of metagenomes using NGLess, a domain-specific language.
+ 07.05.2020, _LP Coelho, R Alves, P Monteiro, J Huerta-Cepas, AT Freitas, P Bork_
 
 
-Adult onset Still's disease (AOSD) is a rare systemic autoinflammatory disease, characterised by fever, arthritis, and skin rash, and joint involvement is one of its clinical manifestations. The aims of this work were to assess joint involvement, to describe main patterns of involvement, and associated clinical characteristics. In this work, we aimed at assessing the joint involvement in AOSD by using MRI, to describe main patterns and associated clinical characteristics. In addition, we aimed at assessing the global transcriptomic profile of synovial tissues in AOSD to elucidate possible pathogenic pathways involved. We also evaluated the global transcriptomic profile of synovial tissues to elucidate possible pathogenic pathways involved in the disease. Thus, AOSD patients, who underwent to MRI exam on joints, were assessed to describe patterns of joint involvement and associated clinical characteristics. Some synovial tissues were collected for RNA-sequencing purposes. The most common MRI finding was the presence of synovitis on 60.5%, mainly in peripheral affected joints, with low to intermediate signal intensity on T1-weighted images and intermediate to high signal intensity on T2-fat-saturated weighted and STIR images. Bone oedema and MRI-bone erosions were reported on 34.9% and 25.6% MRI exams, respectively. Patients with MRI-bone erosions showed a higher prevalence of splenomegaly, a more frequent chronic disease course, lower levels of erythrocyte sedimentation rate, and ferritin. In AOSD synovial tissues, a hyper-expression of interleukin (IL)-1, IL-6, and TNF pathways was shown together with ferritin genes. In conclusion, in AOSD patients, the most common MRI-finding was the presence of synovitis, characterised by intermediate to high signal intensity on T2-fat-saturated weighted and STIR images. MRI-bone erosions and bone oedema were also observed. In AOSD synovial tissues, IL-1, IL-6, and TNF pathways together with ferritin genes resulted to be hyper-expressed.
+_Algorithms, Computational Biology, High-Throughput Nucleotide Sequencing, Metagenome, Metagenomics, Programming Languages, Reproducibility of Results, Sequence Analysis, DNA_
+Shotgun metagenomes contain a sample of all the genomic material in an environment, allowing for the characterization of a microbial community. In order to understand these communities, bioinformatics methods are crucial. A common first step in processing metagenomes is to compute abundance estimates of different taxonomic or functional groups from the raw sequencing data. Given the breadth of the field, computational solutions need to be flexible and extensible, enabling the combination of different tools into a larger pipeline.
 
-[Source](https://doi.org/10.1038/s41584-021-00625-y)
+[Source](https://ngless.embl.de/)
 
-10.1038/s41598-021-91613-5
+10.1186/s40168-019-0684-8
 
 ---
 
-## Ankylosing Spondylitis: An Autoimmune Or Autoinflammatory Disease?
+## NGLess 
 
-[Source](https://doi.org/10.1038/s41584-021-00625-y)
+[Source](https://ngless.embl.de/)
 
 ---
 
-## Updated Treatment for Acne: Targeted Therapy Based on Pathogenesis.
- 11.06.2021, _I Kurokawa, AM Layton, R Ogawa_
+## https://docs.google.com/forms/d/e/1FAIpQLSebHvVFknM4Sy3ztMQbwQVxJ441VgRjJDPgCAPD4opse4znhQ/viewform
 
+[Source](https://docs.google.com/forms/d/e/1FAIpQLSebHvVFknM4Sy3ztMQbwQVxJ441VgRjJDPgCAPD4opse4znhQ/viewform)
 
-Previous approaches to acne management have focused on the four main factors implicated in acne, namely, androgen-mediated sebogenesis (considered integral to acne), hyperkeratinization, colonization with Cutibacterium acnes, and inflammation related to both innate and adaptive mechanisms. Recent advances have facilitated potential novel approaches to acne management, as the pathophysiology and the immunological aspects related to acne and wound healing have evolved. Particular targets that have been shown to be closely involved in acne pathophysiology and wound healing include interleukin (IL)-1β, IL-17, IL-23, and tumor necrosis factor alpha (TNFα). Biological antibodies targeting IL-1β, IL-17, IL-23, and TNFα could provide novel approaches for treating severe acne and related disorders. Acne is primarily a disease associated with sebogenesis. Monosaturated free acids are important components. Insulin growth factor 1 (IGF-1) promotes the proliferation and differentiation of sebocytes and IL-1β. Research into the microbiome may also provide insights into potential future therapeutic options for acne. Scars, both atrophic and hypertrophic, are common sequelae to acne. Risk factors associated with the development of acne scars include genetic, systemic, local, and lifestyle factors. Pro-inflammatory cytokines have been shown to play a crucial role in the development of acne-induced hypertrophic scars. Treatment for extensive inflammatory keloid scarring is limited. Surgery and postoperative radiotherapy are two possible options. Transforming growth factor-β (TGFβ), IL-6, matrix metalloproteinase (MMP), IGF-1, and B cells are found in keloid or hypertrophic scar tissues. Biological antibodies targeting these cytokines may be a potential strategy for the prevention and treatment of this type of scar in the future. Future treatment for acne should embrace approaches that target the main etiological factors of acne. In particular, specific emphasis on aggressive treatment in the acute inflammatory phase to reduce the likelihood of scarring and other clinical sequelae, such as pigmentary changes would be highly desirable. Treatment for established acne-induced sequelae should also be considered.
-
-[Source](https://doi.org/10.1007/s13555-021-00552-6)
-
-10.1007/s13555-021-00552-6
-
 ---
 
-## Impact Of Intrapartum Antibiotic Prophylaxis For Group B Streptococcus On The Term Infant Gut Microbiome: A State of the Science Review 
+## The Bacterial Microbiota Of Hunner Lesion Interstitial Cystitis/Bladder Pain Syndrome
 
-[Source](https://doi.org/10.1111/jmwh.13245)
+[Source](https://doi.org/10.1111/bju.15519)
 
 ---
-
-## Cellular and molecular mediators of lymphangiogenesis in inflammatory bowel disease.
- 14.06.2021, _DKW Ocansey, B Pei, X Xu, L Zhang, CV Olovo, F Mao_
-
 
-Recent studies reporting the intricate crosstalk between cellular and molecular mediators and the lymphatic endothelium in the development of inflammatory bowel diseases (IBD) suggest altered inflammatory cell drainage and lymphatic vasculature, implicating the lymphatic system as a player in the occurrence, development, and recurrence of intestinal diseases. This article aims to review recent data on the modulatory functions of cellular and molecular components of the IBD microenvironment on the lymphatic system, particularly lymphangiogenesis. It serves as a promising therapeutic target for IBD management and treatment. The interaction with gut microbiota is also explored.
+## Microbiome-encoded Bile Acid Metabolism Modulates Colonic Transit Times
 
-[Source](https://doi.org/10.1186/s12967-021-02922-2)
+[Source](https://doi.org/10.1016/j.isci.2021.102508)
 
-10.1186/s12967-021-02922-2
-
 ---
 
-## Cellular And Molecular Mediators Of Lymphangiogenesis In Inflammatory Bowel Disease
+## Psychobiotics For Patients With Chronic Gastrointestinal Disorders Having Anxiety Or Depression Symptoms
 
-[Source](https://doi.org/10.1186/s12967-021-02922-2)
+[Source](https://doi.org/10.2147/JMDH.S312316)
 
 ---
-
-## Microbiome test spots oral cancers.
- 11.06.2021, __
-
 
+## Homeostasis Of Mucosal Glial Cells In Human Gut Is Independent Of Microbiota
 
-[Source](https://doi.org/10.1038/s41587-021-00964-x)
+[Source](https://doi.org/10.1038/s41598-021-92384-9)
 
-10.1038/s41587-021-00964-x
-
 ---
 
-## Disruption Of The Pro-inflammatory, Anti-inflammatory Cytokines And Tight Junction proteins expression, associated with changes of the composition of the gut&nbsp; microbiota in patients with irritable bowel syndrome
+## Yearly Changes In The Composition Of Gut Microbiota In The Elderly, And The Effect of lactobacilli intake on these changes
 
-[Source](https://doi.org/10.1371/journal.pone.0252930)
+[Source](https://doi.org/10.1038/s41598-021-91917-6)
 
 ---
 
-## The Effect Of The Combined Use Of Silver Diamine Fluoride And Potassium Iodide In disrupting the plaque biofilm microbiome and alleviating tooth discoloration: A&nbsp; systematic review
+## Don’t Worry, Heavy Moms; Just Eat Your Broccoli(or Kimchi)! Co-diet Of High-fiber and high-fat helps give birth to healthy offspring through gut microbiota-to-brain signaling
 
-[Source](https://doi.org/10.1371/journal.pone.0252734)
+[Source](https://doi.org/10.14348/molcells.2021.0118)
 
 ---
 
-## SARS-CoV-2 Detection Status Associates With Bacterial Community Composition In patients and the hospital environment
+## Dietary Fiber Intake, The Gut Microbiome, And Chronic Systemic Inflammation In A cohort of adult men
 
-[Source](https://doi.org/10.1186/s40168-021-01083-0)
+[Source](https://doi.org/10.1186/s13073-021-00921-y)
 
 ---
 
-## Assessing The Involvement Of The Placental Microbiome And Virome In Preeclampsia using non coding RNA sequencing
+## The Role Of The Microbiome In Inflammation During Tuberculosis 
 
-[Source](https://doi.org/10.1515/jpm-2021-0006)
+[Source](https://doi.org/10.1016/j.ebiom.2021.103435)
 
 ---
 
-## An Emerging Role Of Prevotella Histicola On Estrogen Deficiency-induced Bone Loss through the gut microbiota-bone axis in postmenopausal women and in ovariectomized mice
+## Vaginal Bacterial Load In The Second Trimester Is Associated With Early Preterm birth recurrence: a nested case-control study
 
-[Source](https://doi.org/10.1093/ajcn/nqab194)
+[Source](https://doi.org/10.1111/1471-0528.16816)
 
 ---
 
-## Supplier-origin Mouse Microbiomes Significantly Influence Locomotor And anxiety-related behavior, body morphology, and metabolism
+## Bacteria-Mediated Synergistic Cancer Therapy: Small Microbiome Has A Big Hope
 
-[Source](https://doi.org/10.1038/s42003-021-02249-0)
+[Source](https://doi.org/10.1007/s40820-020-00560-9)
 
 ---
 
-## Microbial Interaction: Prevotella Spp. Reduce P. Aeruginosa Induced Inflammation In cystic fibrosis bronchial epithelial cells
+## Spatial Heterogeneity Analysis Of The Human Virome With Taylor’s Power Law
 
-[Source](https://doi.org/10.1016/j.jcf.2021.04.012)
+[Source](https://doi.org/10.1016/j.csbj.2021.04.069)
 
 ---
 
-## Extra-skeletal Effects Of Dietary Calcium: Impact On The Cardiovascular System, obesity, and cancer
+## The Influence Of Nutritional Factors On Immunological Outcomes
 
-[Source](https://doi.org/10.1016/bs.afnr.2021.02.012)
+[Source](https://doi.org/10.3389/fimmu.2021.665968)
 
 ---
 
-## The Association Between Bacteria Colonizing The Upper Respiratory Tract And Lower respiratory tract infection in young children: a systematic review and meta-analysis
+## Gut Microbial SNPs Induced By High-Fiber Diet Dominate Nutrition Metabolism And Environmental Adaption of Faecalibacterium prausnitzii in Obese Children
 
-[Source](https://doi.org/10.1016/j.cmi.2021.05.034)
+[Source](https://doi.org/10.3389/fmicb.2021.683714)
 
 ---
 
-## Exploring The Microbiota-Alzheimer’s Disease Linkage Using Short-term Antibiotic treatment followed by fecal microbiota transplantation
+## Gut Microbiota Regulate Gut-Lung Axis Inflammatory Responses By Mediating ILC2 Compartmental Migration
 
-[Source](https://doi.org/10.1016/j.bbi.2021.06.003)
+[Source](https://doi.org/10.4049/jimmunol.2001304)
 
 ---
 
-## Dispersal Strategies Shape Persistence And Evolution Of Human Gut Bacteria
+## Effects Of Cat Ownership On The Gut Microbiota Of Owners
 
-[Source](https://doi.org/10.1016/j.chom.2021.05.008)
+[Source](https://doi.org/10.1371/journal.pone.0253133)
 
 ---
 
-## The Impact Of The Female Genital Tract Microbiome In Women Health And Reproduction: a review
+## Effect Of COVID-19 Precautions On The Gut Microbiota And Nosocomial Infections 
 
-[Source](https://doi.org/10.1007/s10815-021-02247-5)
+[Source](https://doi.org/10.1080/19490976.2021.1936378)
 
 ---
 
-## Dysosmobacter Welbionis Is A Newly Isolated Human Commensal Bacterium Preventing diet-induced obesity and metabolic disorders in mice
+## Association Between Oral Microflora And Gastrointestinal Tumors (Review)
 
-[Source](https://doi.org/10.1136/gutjnl-2020-323778)
+[Source](https://doi.org/10.3892/or.2021.8111)
 
 ---
 
-## Citizen-science Based Study Of The Oral Microbiome In Cystic Fibrosis And Matched controls reveals major differences in diversity and abundance of bacterial and&nbsp; fungal species
+## <em>Bacteroides</em>-dominant Gut Microbiome Of Late Infancy Is Associated With Enhanced neurodevelopment
 
-[Source](https://doi.org/10.1080/20002297.2021.1897328)
+[Source](https://doi.org/10.1080/19490976.2021.1930875)
 
 ---
 
-## Legume Consumption And Gut Microbiome In Elderly Chinese Men And Women
+## Proteome-wide Prediction Of Bacterial Carbohydrate-binding Proteins As A Tool For understanding commensal and pathogen colonisation of the vaginal microbiome
 
-[Source](https://doi.org/10.1093/jn/nxab139)
+[Source](https://doi.org/10.1038/s41522-021-00220-9)
 
 ---
 
-## Gut Health Function Of Instant Dehydrated Rice Sticks Substituted With Resistant Starch Types 2 and 4
+## Investigating The Origin Of The Fetal Gut And Placenta Microbiome In Twins
 
-[Source](https://doi.org/10.1007/s00284-021-02564-z)
+[Source](https://doi.org/10.1080/14767058.2021.1936487)
 
 ---
 
-## Microalgae As Feed Ingredients: Recent Developments On Their Role In immunomodulation and gut microbiota of aquaculture species
+## Levels Of Trimethylamine N-Oxide Remain Elevated Long Term After Left Ventricular Assist Device and Heart Transplantation and Are Independent From Measures of&nbsp; Inflammation and Gut Dysbiosis
 
-[Source](https://doi.org/10.1093/femsle/fnab071)
+[Source](https://doi.org/10.1161/CIRCHEARTFAILURE.120.007909)
 
 ---
 
-## Plant-Based Diet Index And Metabolic Risk In Men: Exploring The Role Of The Gut Microbiome
+## The Impact Of Device-assisted Therapies On The Gut Microbiome In Parkinson’s disease
 
-[Source](https://doi.org/10.1093/jn/nxab175)
+[Source](https://doi.org/10.1007/s00415-021-10657-9)
 
 ---
 
-## The Effects Of Limosilactobacillus Reuteri LR-99 Supplementation On Body Mass Index, Social Communication, Fine Motor Function, and Gut Microbiome Composition in&nbsp; Individuals with Prader-Willi Syndrome: a Randomized Double-Blinded&nbsp; Placebo-Controlled Trial
+## Alterations In Microbiome Composition And Metabolic Byproducts Drive Behavioral And transcriptional responses to morphine
 
-[Source](https://doi.org/10.1007/s12602-021-09800-9)
+[Source](https://doi.org/10.1038/s41386-021-01043-0)
 
 ---
 
-## Lactobacillus Paracasei Modulates The Gut Microbiota And Improves Inflammation In type 2 diabetic rats
+## Structural Specificities Of Cell Surface Beta-glucan Polysaccharides Determine commensal yeast mediated immuno-modulatory activities
 
-[Source](https://doi.org/10.1039/d1fo00515d)
+[Source](https://doi.org/10.1038/s41467-021-23929-9)
 
 ---
 
-## Mixture Of Probiotics Reduces Inflammatory Biomarkers And Improves The oxidative/nitrosative profile in people with rheumatoid arthritis
+## Integrated Omics Endotyping Of Infants With Respiratory Syncytial Virus bronchiolitis and risk of childhood asthma
 
-[Source](https://doi.org/10.1016/j.nut.2021.111282)
+[Source](https://doi.org/10.1038/s41467-021-23859-6)
 
 ---
 
-## Xiao-Chai-Hu-Tang Ameliorates Tumor Growth In Cancer Comorbid Depressive Symptoms via modulating gut microbiota-mediated TLR4/MyD88/NF-kB signaling pathway
+## Fecal Short-chain Fatty Acids And Obesity In A Community-based Japanese Population: The DOSANCO Health Study
 
-[Source](https://doi.org/10.1016/j.phymed.2021.153606)
+[Source](https://doi.org/10.1016/j.orcp.2021.06.003)
 
 ---
 
-## Lactobacillus Rhamnosus GG Orchestrates An Anti-tumor Immune Response
+## Anaerobic Microbiota Derived From The Upper Airways Impact Staphylococcus Aureus physiology
 
-[Source](https://doi.org/10.1016/j.jcmgh.2021.06.001)
+[Source](https://doi.org/10.1128/IAI.00153-21)
 
 ---
 
-## Lactobacillus Strains Derived From Human Gut Ameliorate Metabolic Disorders Via modulation of gut microbiota composition and short-chain fatty acids metabolism
+## A New Biological Triangle In Cancer: Intestinal Microbiota, Immune Checkpoint inhibitors and antibiotics
 
-[Source](https://doi.org/10.3920/BM2020.0148)
+[Source](https://doi.org/10.1007/s12094-021-02659-w)
 
 ---
 
-## The Specification And Function Of Enteroendocrine Cells In Drosophila And Mammals: A Comparative
+## The Microbiome and Gynecologic Cancer: Current Evidence and Future Opportunities.
+ 15.06.2021, _LM Chambers, P Bussies, R Vargas, E Esakov, S Tewari, O Reizes, C Michener_
 
-[Source](https://doi.org/10.1111/febs.16067)
 
----
+We review the emerging evidence regarding the relationship between the microbiota of the gastrointestinal and female reproductive tracts and gynecologic cancer.
 
-## Enterocins As Novel Feed Additives In Rabbit Diet: Enterocin Ent M And Durancin Ent ED26E/7, Their Combination, and Effects on Microbiota, Caecal Fermentation, and&nbsp; Enzymatic Activity
+[Source](https://doi.org/10.1007/s11912-021-01079-x)
 
-[Source](https://doi.org/10.1007/s12602-021-09809-0)
+10.1007/s11912-021-01079-x
 
 ---
-
-## The effect of lipid metabolism regulator anthocyanins from Aronia melanocarpa on 3T3-L1 preadipocytes and C57BL/6 mice via activating AMPK signaling and gut microbiota.
- 11.06.2021, _C Chen, X Yang, S Liu, M Zhang, C Wang, X Xia, Y Lou, H Xu_
 
+## Increased Bacterial Proteolytic Activity Detected Before Diagnosis of Ulcerative Colitis.
+ 14.06.2021, _HJ Galipeau, A Caminero, EF Verdu_
 
-This study investigated lipid metabolism regulation by anthocyanins from Aronia melanocarpa (AAM) in 3T3-L1 preadipocytes and high fat diet (HFD) mice. Ultra-performance liquid chromatography/ion mobility quadrupole time-of-flight mass spectrometry analysis identified the constituents of AAM, which decreased lipid content and inflammation in 3T3-L1 cells without cytotoxicity. Meanwhile, taking normal diet and orlistat mice as references, AAM supplementation improved blood lipid levels and adipocyte degeneration, promoted beneficial gut microbial growth, and maintained lipid metabolism in HFD mice. Furthermore, AAM activated the AMP-activated protein kinase (AMPK) signaling pathway, accompanied by the regulation of adipogenic transcription factors and their target genes in vitro and in vivo. Collectively, our data demonstrated that AAM exhibits anti-adipogenic activities that were partially mediated by the AMPK pathway and gut microbiota regulation. This study provides new insight into the regulation of lipid metabolism by AAM and suggests that AAM has potential therapeutic effects on hyperlipidemia.
 
-[Source](https://doi.org/10.1039/d1fo00907a)
 
-10.1039/d1fo00907a
+[Source](https://doi.org/10.1093/ibd/izab144)
 
----
-
-## The Effect Of Lipid Metabolism Regulator Anthocyanins From Aronia Melanocarpa On 3T3-L1 preadipocytes and C57BL/6 mice via activating AMPK signaling and gut microbiota
+10.1093/ibd/izab144
 
-[Source](https://doi.org/10.1039/d1fo00907a)
-
 ---
 
-## A Probiotic Has Differential Effects On Allergic Airway Inflammation In A/J And C57BL/6 mice and is correlated with the gut microbiome
+## Characterization Of An Alpha-glucosidase Enzyme Conserved In <em>Gardnerella</em> spp. Isolated from the human vaginal microbiome
 
-[Source](https://doi.org/10.1186/s40168-021-01081-2)
+[Source](https://doi.org/10.1128/JB.00213-21)
 
 ---
 
-## 16S rRNA Gene Amplicon Sequencing of Gut Microbiota from Naked Carp (Gymnocypris przewalskii) in Qinghai Lake, China.
- 11.06.2021, _F Wang, Y Liu, G Li, X Yang, Q Gao_
+## Catechin Metabolites along with Curcumin Inhibit Proliferation and Induce Apoptosis in Cervical Cancer Cells by Regulating VEGF Expression In-Vitro.
+ 14.06.2021, _E Khojaste, C Ahmadizadeh_
 
 
-Naked carp (Gymnocypris przewalskii) is a second-grade animal under state protection of China. We report 16S rRNA gene amplicon analysis of the gut microbiota of Gymnocypris przewalskii. The three most abundant phyla are Tenericutes, Proteobacteria, and Fusobacteria, and the six most abundant genera are Aeromonas, Clostridium, Cetobacterium, Shewanella, Prochlorococcus, and Vibrio.
+Cervical cancer is the fourth most common cancer and the second cause of cancer-related death among women. Over the past two decades, green tea catechins and curcumin have received much attention for their role in preventing carcinogenesis. In this study, we evaluated the effects of the catechin metabolites and curcumin on cervical cancer cell proliferation and apoptosis. For this aim, the Ca Ski cell line was treated with different doses of catechin metabolites and curcumin. MTT assay and Flow cytometry were employed to investigate the cytotoxic effects of catechin metabolites and curcumin on the Ca Ski cell line. Real-time PCR and western blot were performed to evaluate the VEGF expression. Also, Real-Time PCR was performed to determine the expression level of microRNAs. Results showed that catechin metabolites along with curcumin reduce the VEGF expression. Further, miR-210 and miR-21 as oncogenic microRNAs were down-regulated, while it was reverse for miR-126 as a tumor-suppressor microRNA. Besides, MTT and Flow cytometry results showed that after using catechin metabolites with curcumin, cell survival was reduced by inducing apoptosis. In conclusion, catechin metabolites produced by intestinal microbiota besides the curcumin could serve as a promising therapeutic approach for women with cervical cancer.
 
-[Source](https://doi.org/10.1128/MRA.00374-21)
+[Source](https://doi.org/10.1080/01635581.2021.1936082)
 
-10.1128/MRA.00374-21
+10.1080/01635581.2021.1936082
 
 ---
-
-## Sulfated modification enhances the modulatory effect of yam polysaccharide on gut microbiota in cyclophosphamide-treated mice.
- 11.06.2021, _R Huang, J Xie, X Liu, M Shen_
-
 
-Our previous study has demonstrated that sulfated yam polysaccharide (SCYP) had a stronger immunomodulatory activity than yam polysaccharide (CYP). In order to investigate how the sulfated modification influence the immunological activity of CYP, this research was mainly focused on the study of gut microbiotal. The results showed that SCYP treatment could increase the digestive enzyme activities of colon contents and restore the production of short-chain fatty acids (SCFAs) in mice that were decreased by cyclophosphamide (Cy) treatment. Furthermore, SCYP treatment could modulate the structure of the gut microbiota, which was mainly manifest in the result of an increased abundances of Lactobacillus, Bacteroidetes and Akkermansia, and the decrease of the proportion of Proteobacteria and Verrucomicrobia in the microbial community. Diversity and overall structure of microbial community were also improved by SCYP treatment based on alpha-diversity and beta-diversity analysis results. The biomarkers of the gut microbial that were regulated by SCYP have been identified by linear discriminant analysis (LDA) effect size (LEfSe). These findings further indicate that there is great potential for SCYP to be developed into prebiotics or functional foods.
+## The lung microbiome in lung transplantation.
+ 14.06.2021, _JE McGinniss, SA Whiteside, A Simon-Soro, JM Diamond, JD Christie, FD Bushman, RG Collman_
 
-[Source](https://doi.org/10.1016/j.foodres.2021.110393)
 
-10.1016/j.foodres.2021.110393
+Culture-independent study of the lower respiratory tract after lung transplantation has enabled an understanding of the microbiome - that is, the collection of bacteria, fungi, and viruses, and their respective gene complement - in this niche. The lung has unique features as a microbial environment, with balanced entry from the upper respiratory tract, clearance, and local replication. There are many pressures impacting the microbiome after transplantation, including donor allograft factors, recipient host factors such as underlying disease and ongoing exposure to the microbe-rich upper respiratory tract, and transplantation-related immunosuppression, antimicrobials, and postsurgical changes. To date, we understand that the lung microbiome after transplant is dysbiotic; that is, it has higher biomass and altered composition compared to a healthy lung. Emerging data suggest that specific microbiome features may be linked to host responses, both immune and non-immune, and clinical outcomes such as chronic lung allograft dysfunction (CLAD), but many questions remain. The goal of this review is to put into context our burgeoning understanding of the lung microbiome in the postlung transplant patient, the interactions between microbiome and host, the role the microbiome may play in post-transplant complications, and critical outstanding research questions.
 
----
+[Source](https://doi.org/10.1016/j.healun.2021.04.014)
 
-## Sulfated Modification Enhances The Modulatory Effect Of Yam Polysaccharide On Gut microbiota in cyclophosphamide-treated mice
+10.1016/j.healun.2021.04.014
 
-[Source](https://doi.org/10.1016/j.foodres.2021.110393)
-
 ---
 
-## Diversity And Interactions Among Triatomine Bugs, Their Blood Feeding Sources, Gut microbiota and Trypanosoma cruzi in the Sierra Nevada de Santa Marta in Colombia
+## The Lung Microbiome In Lung Transplantation
 
-[Source](https://doi.org/10.1038/s41598-021-91783-2)
+[Source](https://doi.org/10.1016/j.healun.2021.04.014)
 
 ---
 
-## Rumen Microbiota of Tibetan Sheep (Ovis aries) Adaptation to Extremely Cold Season on the Qinghai-Tibetan Plateau.
- 12.06.2021, _Q Fan, X Cui, Z Wang, S Chang, M Wanapat, T Yan, F Hou_
+## Vaginal microbiome: normalcy vs dysbiosis.
+ 13.06.2021, _VS Saraf, SA Sheikh, A Ahmad, PM Gillevet, H Bokhari, S Javed_
 
 
-The Qinghai-Tibet Plateau is characterized by low temperatures and hypoxia, and this feature is more obvious in the winter. However, it is not clear how Tibetan sheep adapt to extreme cold climates. To address this, we used physiological methods combined with next-generation sequencing technology to explore the differences in growth performance, forage nutrient digestion, serum biochemical indexes, and rumen microbial communities of Tibetan sheep (Ovis aries) between the summer and winter. In the summer, owing to the high nutritional quality of the forage, the Tibetan sheep showed enhanced forage degradation and fermentation though increased counts of important bacteria in the rumen, such as Bacteroidetes, Prevotella_1, Prevotellaceae_UCG-003, Ruminococcus_1, Saccharofermentans, and Ruminococcaceae_UCG-014, to improve the growth performance and increase serum immunity and antioxidant status. In the winter, owing to the low nutritional quality of the forage, the Tibetan sheep presented low values of forage degradation and fermentation indicators. The relative abundance of Firmicutes, the Firmicutes/Bacteroidetes ratio, microbial diversity, interactive activity between microorganisms, and metabolism were significantly increased, implying that the rumen microbiota could promote the decomposition of forage biomass and the maintenance of energy when forage nutritional value was insufficient in the winter. Our study helps in elucidating the mechanism by which Tibetan sheep adapt to the high-altitude harsh environments, from the perspective of the rumen microbiota.
+It has been long understood that the vaginal microflora is crucial in maintaining a normal physiological environment for the host and its involvement is deemed indispensable for reproductive success. A global concept of normalcy vs. dysbiosis of vaginal microbiome is debatable as women of different races have a unique vaginal microflora with regional variations. Vaginal microflora is a dynamic microenvironment affected by gestational status, menstrual cycle, sexual activity, age, and contraceptive use. Normal vaginal flora is dominated by lactobacilli especially in women of European descent vs. African American women. These microbes confer the host vagina protection from potentially pathogenic microbes that may lead to urinary tract infections and sexually transmitted diseases. Changes in the vaginal microbiota including reduced lactobacilli abundance and increased facultative and anaerobic organism populations result in bacterial vaginosis, that predisposes the host to several conditions like low birth weight and increased risk of contracting bacterial infections. On the other hand, the vaginal microbiome is also reshaped during pregnancy, with less microbial diversity with a dominance of Lactobacillus species. However, an altered vaginal microbiota with low lactobacilli abundance especially during pregnancy may result in induction of excessive inflammation and pre-term labor. Since the vaginal microbiome plays an important role during embryo implantation, it is not surprising that bacterial vaginosis is more common in infertile women and associated with reduced rates of conception. Probiotic has great success in treating bacterial vaginosis and restoring the normal microbiome in recent. This report, reviewed the relationships between the vaginal microbiome and women's reproductive health.
 
-[Source](https://doi.org/10.3389/fvets.2021.673822)
+[Source](https://doi.org/10.1007/s00203-021-02414-3)
 
-10.3389/fvets.2021.673822
+10.1007/s00203-021-02414-3
 
 ---
-
-## Phytohormones selectively affect plant parasitic nematodes associated with Arabidopsis roots.
- 11.06.2021, _MM Sikder, M Vestergård, T Kyndt, EN Kudjordjie, M Nicolaisen_
 
+## <em>Lactobacillus acidophilus</em> LA14 Alleviates Liver Injury
 
-Phytohormones may affect plant-nematode interactions directly as chemo-attractants or -repellents, or indirectly through the root-associated microbiome or through host defense mechanisms. However, the exact roles of phytohormones in these complex plant-soil-nematode interactions are not well understood. We used Arabidopsis thaliana mutants impaired in phytohormone synthesis or sensitivity to elucidate their role in root-nematode interactions. As root-associated microorganisms may modulate these interactions, we explored correlations between the relative abundances of root-associated nematodes, and bacteria and fungi using amplicon sequencing. We found distinct shifts in relative abundances of a range of nematode taxa in the Arabidopsis thaliana phytohormone mutants. The root knot nematode Meloidogyne hapla, a sedentary endoparasitic species that is in intimate contact with the host, was highly enriched in jasmonate, salicylic acid and strigolactone impaired lines, and in an ethylene insensitive line. Positive or negative correlations between specific microbial and nematode taxa were observed, but, as the inference of causal relationships between microbiome responses and effects on nematode communities is premature, this should be studied in detail in future studies. In conclusion, genetic derailment of hormonal balances generally rendered plants vulnerable to endoparasitic nematode attack. Furthermore, preliminary data suggest that this effect may be partially modulated by the associated microbiome.
+[Source](https://doi.org/10.1128/mSystems.00384-21)
 
-[Source](https://doi.org/10.1111/nph.17549)
-
-10.1111/nph.17549
-
 ---
 
-## Phytohormones Selectively Affect Plant Parasitic Nematodes Associated With Arabidopsis roots
+## <em>Desulfovibrio vulgaris</em>, A Potent Acetic Acid-producing Bacterium, Attenuates nonalcoholic fatty liver disease in mice
 
-[Source](https://doi.org/10.1111/nph.17549)
+[Source](https://doi.org/10.1080/19490976.2021.1930874)
 
 ---
-
-## Bacterial Community Structure and the Dominant Species in Imported Pollens for Artificial Pollination.
- 18.06.2021, _SH Kim, H Do, G Cho, DR Kim, YS Kwak_
 
+## The Interaction Of <em>Akkermansia muciniphila</em> With Host-derived Substances, Bacteria and diets
 
-Pollination is an essential process for plants to carry on their generation. Pollination is carried out in various ways depending on the type of plant species. Among them, pollination by insect pollinator accounts for the most common. However, these pollinators have be decreasing in population density due to environmental factors. Therefore, use of artificial pollination is increasing. However, there is a lack of information on microorganisms present in the artificial pollens. We showed the composition of bacteria structure present in the artificial pollens of apple, kiwifruit, peach and pear, and contamination of high-risk pathogens was investigated. Acidovorax spp., Pantoea spp., Erwinia spp., Pseudomonas spp., and Xanthomonas spp., which are classified as potential high-risk pathogens, have been identified in imported pollens. This study presented the pollen-associated bacterial community structure, and the results are expected to be foundation for strengthening biosecurity in orchard industry.
+[Source](https://doi.org/10.1007/s00253-021-11362-3)
 
-[Source](https://doi.org/10.5423/PPJ.NT.02.2021.0029)
-
-10.5423/PPJ.NT.02.2021.0029
-
 ---
-
-## Structure and variation of root-associated bacterial communities of Cyperus rotundus L. in the contaminated soils around Pb/Zn mine sites.
- 11.06.2021, _P Gao, B Song, R Xu, X Sun, H Lin, F Xu, B Li, W Sun_
-
-
-Soil contamination due to mining activities is a great concern in China. Although the effects of mining pollution resulting in changes of soil characteristics and the microbiome have been documented, studies on the responses of plant root-associated microbial assemblages remain scarce. In this work, we collected bulk soil, rhizosphere soil, and root endosphere samples of Cyperus rotundus L (Cyp) plants from two Pb/Zn mines, of which, one was abandoned (SL) and the other was active (GD), to investigate the bacterial community responses across different site contamination levels and Cyp plant compartments. For comparison, one unpolluted site (SD) was included. Results revealed that soils from the SL and GD sites were seriously contaminated by metal(loid)s, including Pb, Zn, As, and Sb. Bacterial richness and diversity depended on the sampling site and plant compartment. All sample types from the SL site had the lowest bacterial diversities and their bacterial communities also exhibited distinct patterns compared to GD and SD samples. As for the specific sampling site, bacterial communities from the root endosphere exhibited different patterns from those in bulk and rhizosphere soil. Compared to the GD and SD sites, the root endosphere and the rhizosphere soil from the SL site shared core microbes, including Halomonas, Pelagibacterium, and Chelativorans, suggesting that they play key roles in Cyp plant survival in such harsh environments.
 
-[Source](https://doi.org/10.1007/s11356-021-14595-x)
+## <em>Ganoderma lucidum</em> Polysaccharide Modulates Gut Microbiota And Immune Cell Function to inhibit inflammation and tumorigenesis in colon
 
-10.1007/s11356-021-14595-x
+[Source](https://doi.org/10.1016/j.carbpol.2021.118231)
 
 ---
 
-## Structure And Variation Of Root-associated Bacterial Communities Of Cyperus Rotundus L. in the contaminated soils around Pb/Zn mine sites
+## The Outer Membrane Protein Amuc_1100 Of <em>Akkermansia muciniphila</em> Alleviates The depression-like behavior of depressed mice induced by chronic stress
 
-[Source](https://doi.org/10.1007/s11356-021-14595-x)
+[Source](https://doi.org/10.1016/j.bbrc.2021.06.018)
 
 ---
 
-## Antibiotic Resistance Gene-Carrying Plasmid Spreads into the Plant Endophytic Bacteria using Soil Bacteria as Carriers.
- 11.06.2021, _H Xu, Z Chen, R Huang, Y Cui, Q Li, Y Zhao, X Wang, D Mao, Y Luo, H Ren_
+## JianpiQinghua Granule Reduced PPI Dosage In Patients With Nonerosive Reflux Disease: A multicenter, randomized, double-blind, double-dummy, noninferiority study
 
+[Source](https://doi.org/10.1016/j.phymed.2021.153584)
 
-Applications of animal manure and treated wastewater could enrich antibiotic-resistant bacteria (ARB) and antibiotic resistance genes (ARGs) in the plant microbiome. However, the mechanistic studies of the transmission of ARB and ARGs from the environment to plant endophytic bacteria were few. Herein, a genetically engineered fluorescent Escherichia coli harboring a conjugative RP4 plasmid that carries three ARGs was used to trace its spread into Arabidopsis thaliana interior in a tetracycline-amended hydroponic system in the absence or presence of a simulated soil bacterial community. Confocal microscope observation demonstrated that E. coli was internalized into plant tissues and the carried RP4 plasmid was transferred into plant endophytic bacteria. More importantly, we observed that soil bacteria inhibited the internalization of E. coli but substantially promoted RP4 plasmid spread into the plant microbiome. The altered RP4-carrying bacterial community composition in the plant microbiome and the increased core-shared RP4-carrying bacteria number between plant interior and exterior in the presence of soil bacteria collectively confirmed that soil bacteria, especially Proteobacteria, might capture RP4 from E. coli and then translocate into plant microbiome, resulting in the increased RP4 plasmid spread in the plant endophytes. Overall, our findings provided important insights into the dissemination of ARB and ARGs from the environment to the plant microbiome.
-
-[Source](https://doi.org/10.1021/acs.est.1c01615)
-
-10.1021/acs.est.1c01615
-
 ---
-
-## Flavonoids and saponins in plant rhizospheres: roles, dynamics, and the potential for agriculture.
- 11.06.2021, _A Sugiyama_
-
-
-Plants are in constant interaction with a myriad of soil microorganisms in the rhizosphere, an area of soil in close contact with plant roots. Recent research has highlighted the importance of plant specialized metabolites (PSMs) in shaping and modulating the rhizosphere microbiota; however, the molecular mechanisms underlying the establishment and function of the microbiota mostly remain unaddressed. Flavonoids and saponins are a group of PSMs whose biosynthetic pathways have largely been revealed. Although these PSMs are abundantly secreted into the rhizosphere and exert various functions, the secretion mechanisms have not been clarified. This review summarizes the roles of flavonoids and saponins in the rhizosphere with a special focus on interactions between plants and the rhizosphere microbiota. Furthermore, this review introduces recent advancements in the dynamics of these metabolites in the rhizosphere and indicates potential applications of PSMs for crop production and discusses perspectives in this emerging research field.
 
-[Source](https://doi.org/10.1093/bbb/zbab106)
+## Circadian Disruption-induced Metabolic Syndrome In Mice Is Ameliorated By Oat Beta-glucan mediated by gut microbiota
 
-10.1093/bbb/zbab106
+[Source](https://doi.org/10.1016/j.carbpol.2021.118216)
 
 ---
 
-## Flavonoids And Saponins In Plant Rhizospheres: Roles, Dynamics, And The Potential for agriculture
+## Effects Of Mediterranean Diet On Plasma Metabolites And Their Relationship With insulin resistance and gut microbiota composition in a crossover randomized clinical trial
 
-[Source](https://doi.org/10.1093/bbb/zbab106)
+[Source](https://doi.org/10.1016/j.clnu.2021.04.028)
 
 ---
 
-## Host specific endophytic microbiome diversity and associated functions in three varieties of scented black rice are dependent on growth stage.
- 15.06.2021, _KM Singha, B Singh, P Pandey_
+## Calorie Restriction Conferred Improvement Effect On Long-term Rehabilitation Of ischemic stroke via gut microbiota
 
+[Source](https://doi.org/10.1016/j.phrs.2021.105726)
 
-The compositional and functional role of the endophytic bacterial community, associated with black scented rice, in correlation with its antioxidant property has been elucidated. Community dissimilarity analysis confirmed the overlapping of community in shoot and root tissues at the young stage, but not in mature plants. Proteobacteria was the most abundant phylum, in which Agrobacterium, Pleomorphomonas, Bradyrhizobium, Novasphingobium, Caulobacter were the most abundant genera, followed by Cyanobacteria and Planctomycetes in all three different varieties of the black rice. The antioxidant activity of mature plants was found to be higher in comparison to young plants. Intrinsically, the relative abundance of Pleomorphomonas and Streptomyces was positively correlated with total phenol content, while Gemmata, unclassified Pirellulaceae, unclassified Stramenopiles positively correlated with total flavonoid content and negatively correlated with Free radical scavenging activity. Accordingly, functional metagenome analysis of the endophytic microbiome revealed that naringenin -3-dioxygenase and anthocyanidin 3-O-glucosyltransferase for phenylpropanoid (flavonoid and anthocyanin) synthesis were abundant in the endophytic microbiome of mature plants. Specific enrichment of the antioxidant producing genes in the mature plant endophytic microbiome was assigned to some bacteria such as Streptomyces, Pantoea which might have contributed to the common pathway of flavonoid synthesis. The genomes of endophytic isolates Kluyvera sp.PO2S7, Bacillus subtilis AMR1 and Enterobacter sp. SES19 were sequenced and annotated, and were found to have genes for phenylpropanoid synthesis in their genomes.
-
-[Source](https://doi.org/10.1038/s41598-021-91452-4)
-
-10.1038/s41598-021-91452-4
-
 ---
 
-## Host Specific Endophytic Microbiome Diversity And Associated Functions In Three varieties of scented black rice are dependent on growth stage
+## <em>Holdemanella biformis</em> Improves Glucose Tolerance And Regulates GLP-1 Signaling In obese mice
 
-[Source](https://doi.org/10.1038/s41598-021-91452-4)
+[Source](https://doi.org/10.1096/fj.202100126R)
 
 ---
-
-## Constraining PERMANOVA and LDM to within-set comparisons by projection improves the efficiency of analyses of matched sets of microbiome data.
- 13.06.2021, _Z Zhu, GA Satten, C Mitchell, YJ Hu_
-
-
-Matched-set data arise frequently in microbiome studies. For example, we may collect pre- and post-treatment samples from a set of individuals, or use important confounding variables to match data from case participants to one or more control participants. Thus, there is a need for statistical methods for data comprised of matched sets, to test hypotheses against traits of interest (e.g., clinical outcomes or environmental factors) at the community level and/or the operational taxonomic unit (OTU) level. Optimally, these methods should accommodate complex data such as those with unequal sample sizes across sets, confounders varying within sets, and continuous traits of interest.
 
-[Source](https://doi.org/10.1186/s40168-021-01034-9)
+## Gut Microbiota Composition Affects Procyanidin A2-Attenuated Atherosclerosis In ApoE(-/-) Mice by Modulating the Bioavailability of Its Microbial Metabolites
 
-10.1186/s40168-021-01034-9
+[Source](https://doi.org/10.1021/acs.jafc.1c00430)
 
 ---
 
-## Constraining PERMANOVA And LDM To Within-set Comparisons By Projection Improves The efficiency of analyses of matched sets of microbiome data
+## The Gut Microbiome Of The Sunda Pangolin (<em>Manis javanica</em>) Reveals Its Adaptation To specialized myrmecophagy
 
-[Source](https://doi.org/10.1186/s40168-021-01034-9)
+[Source](https://doi.org/10.7717/peerj.11490)
 
 ---
 
-## Interrogating the bovine reproductive tract metagenomes using culture-independent approaches: a systematic review.
- 16.06.2021, _CT Ong, C Turni, PJ Blackall, G Boe-Hansen, BJ Hayes, AE Tabor_
+## A Rise In Proteobacteria Is An Indicator Of Gut-liver Axis-mediated Nonalcoholic fatty liver disease in high-fructose-fed adult mice.
 
+[Source](https://doi.org/10.1016/j.nutres.2021.04.008)
 
-Undesirable microbial infiltration into the female bovine reproductive tracts, for example during calving or mating, is likely to disturb the commensal microflora. Persistent establishment and overgrowth of certain pathogens induce reproductive diseases, render the female bovine reproductive tract unfavourable for pregnancy or can result in transmission to the foetus, leading to death and abortion or birth abnormalities. This review of culture-independent metagenomics studies revealed that normal microflora in the female bovine reproductive tract is reasonably consistently dominated by bacteria from the phyla Bacteroidetes, Firmicutes, Proteobacteria, following by Actinobacteria, Fusobacteria and Tenericutes. Reproductive disease development in the female bovine reproductive tract was demonstrated across multiple studies to be associated with high relative abundances of bacteria from the phyla Bacteroidetes and Fusobacteria. Reduced bacterial diversity in the reproductive tract microbiome in some studies of cows diagnosed with reproductive diseases also indicated an association between dysbiosis and bovine reproductive health. Nonetheless, the bovine genital tract microbiome remains underexplored, and this is especially true for the male genital tract. Future research should focus on the functional aspects of the bovine reproductive tract microbiomes, for example their contributions to cattle fertility and susceptibility towards reproductive diseases.
-
-[Source](https://doi.org/10.1186/s42523-021-00106-3)
-
-10.1186/s42523-021-00106-3
-
 ---
 
-## Interrogating The Bovine Reproductive Tract Metagenomes Using Culture-independent approaches: a systematic review
+## Extension Of Plant Phenotypes By The Foliar Microbiome
 
-[Source](https://doi.org/10.1186/s42523-021-00106-3)
+[Source](https://doi.org/10.1146/annurev-arplant-080620-114342)
 
 ---
 
-## Laboratory Aspects Of Donor Screening For Fecal Microbiota Transplantation At A Korean Fecal Microbiota Bank
+## Plant Genetics As A Tool For Manipulating Crop Microbiomes: Opportunities And Challenges
 
-[Source](https://doi.org/10.3343/alm.2021.41.6.612)
+[Source](https://doi.org/10.3389/fbioe.2021.567548)
 
 ---
 
-## Profiling system of oral microbiota utilizing polymerase chain reaction-restriction fragment length polymorphism analysis.
- 10.06.2021, _H Sano, A Wakui, M Kawachi, J Washio, Y Abiko, G Mayanagi, K Yamaki, K Tanaka, N Takahashi, T Sato_
+## Development of an inexpensive matrix-assisted laser desorption-time of flight mass spectrometry method for the identification of endophytes and rhizobacteria cultured from the microbiome associated with maize.
+ 15.06.2021, _MG LaMontagne, PL Tran, A Benavidez, LD Morano_
 
 
-Profiling of oral microbiota has traditionally been performed using conventional methods. These methods are relatively time-consuming and labor-intensive. Metagenomic analysis of oral microbiota using high-speed next-generation sequencing is a highly promising technology. However, it is expensive. This study sought to develop a simple and cost-effective profiling method for oral microbiota using 16S rRNA gene polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) analysis of PCR-amplified 16S ribosomal RNA genes.
+Many endophytes and rhizobacteria associated with plants support the growth and health of their hosts. The vast majority of these potentially beneficial bacteria have yet to be characterized, in part because of the cost of identifying bacterial isolates. Matrix-assisted laser desorption-time of flight (MALDI-TOF) has enabled culturomic studies of host-associated microbiomes but analysis of mass spectra generated from plant-associated bacteria requires optimization. In this study, we aligned mass spectra generated from endophytes and rhizobacteria isolated from heritage and sweet varieties of Zea mays. Multiple iterations of alignment attempts identified a set of parameters that sorted 114 isolates into 60 coherent MALDI-TOF taxonomic units (MTUs). These MTUs corresponded to strains with practically identical (&gt;99%) 16S rRNA gene sequences. Mass spectra were used to train a machine learning algorithm that classified 100% of the isolates into 60 MTUs. These MTUs provided &gt;70% coverage of aerobic, heterotrophic bacteria readily cultured with nutrient rich media from the maize microbiome and allowed prediction of the total diversity recoverable with that particular cultivation method. Acidovorax sp., Pseudomonas sp. and Cellulosimicrobium sp. dominated the library generated from the rhizoplane. Relative to the sweet variety, the heritage variety c ontained a high number of MTUs. The ability to detect these differences in libraries, suggests a rapid and inexpensive method of describing the diversity of bacteria cultured from the endosphere and rhizosphere of maize.
 
-[Source](https://doi.org/10.1016/j.job.2021.05.003)
+[Source](https://doi.org/10.7717/peerj.11359)
 
-10.1016/j.job.2021.05.003
+10.7717/peerj.11359
 
 ---
 
-## Profiling System Of Oral Microbiota Utilizing Polymerase Chain Reaction-restriction fragment length polymorphism analysis
+## Development Of An Inexpensive Matrix-assisted Laser Desorption-time Of Flight Mass spectrometry method for the identification of endophytes and rhizobacteria cultured from the microbiome associated with maize
 
-[Source](https://doi.org/10.1016/j.job.2021.05.003)
+[Source](https://doi.org/10.7717/peerj.11359)
 
 ---
 
-## Organoids and organs-on-chips: Insights into human gut-microbe interactions.
- 11.06.2021, _J Puschhof, C Pleguezuelos-Manzano, H Clevers_
+## Assessing the potential to harness the microbiome through plant genetics.
+ 16.06.2021, _J Bergelson, B Brachi, F Roux, F Vailleau_
 
 
-The important and diverse roles of the gut microbiota in human health and disease are increasingly recognized. The difficulty of inferring causation from metagenomic microbiome sequencing studies and from mouse-human interspecies differences has prompted the development of sophisticated in vitro models of human gut-microbe interactions. Here, we review recent advances in the co-culture of microbes with intestinal and colonic epithelia, comparing the rapidly developing fields of organoids and organs-on-chips with other standard models. We describe how specific individual processes by which microbes and epithelia interact can be recapitulated in vitro. Using examples of bacterial, viral, and parasitic infections, we highlight the advantages of each culture model and discuss current trends and future possibilities to build more complex co-cultures.
+Microbial communities are influenced by a complex system of host effects, including traits involved in physical barriers, immunity, hormones, metabolisms and nutrient homeostasis. Variation of host control within species is governed by many genes of small effect and is sensitive to biotic and abiotic environments. On the flip side, these host impacts seem targeted on particular microbial species, with that impact percolating through the microbial community. There is not yet evidence that the nature and strength of these interactions differs between fungal and bacterial communities, or among different compartments of the plant. The challenge of deciphering how systems of host traits impact systems of microbial associates is vast but holds promise for developing novel strategies to improve plant health.
 
-[Source](https://doi.org/10.1016/j.chom.2021.04.002)
+[Source](https://doi.org/10.1016/j.copbio.2021.05.007)
 
-10.1016/j.chom.2021.04.002
+10.1016/j.copbio.2021.05.007
 
 ---
 
-## Organoids And Organs-on-chips: Insights Into Human Gut-microbe Interactions
+## Assessing The Potential To Harness The Microbiome Through Plant Genetics
 
-[Source](https://doi.org/10.1016/j.chom.2021.04.002)
+[Source](https://doi.org/10.1016/j.copbio.2021.05.007)
 
 ---
 
-## Development Of A Time-series Shotgun Metagenomics Database For Monitoring Microbial communities at the Pacific coast of Japan
+## An integrated gene catalog and over 10,000 metagenome-assembled genomes from the gastrointestinal microbiome of ruminants.
+ 18.06.2021, _F Xie, W Jin, H Si, Y Yuan, Y Tao, J Liu, X Wang, C Yang, Q Li, X Yan, L Lin, Q Jiang, L Zhang, C Guo, C Greening, R Heller, LL Guan, PB Pope, Z Tan, W Zhu, M Wang, Q Qiu, Z Li, S Mao_
 
-[Source](https://doi.org/10.1038/s41598-021-91615-3)
 
----
+Gastrointestinal tract (GIT) microbiomes in ruminants play major roles in host health and thus animal production. However, we lack an integrated understanding of microbial community structure and function as prior studies. are predominantly biased towards the rumen. Therefore, to acquire a microbiota inventory of the discrete GIT compartments, In this study, we used shotgun metagenomics to profile the microbiota of 370 samples that represent 10 GIT regions of seven ruminant species.
 
-## Silicon dioxide nanoparticles induced neurobehavioral impairments by disrupting microbiota-gut-brain axis.
- 16.06.2021, _J Diao, Y Xia, X Jiang, J Qiu, S Cheng, J Su, X Duan, M Gao, X Qin, J Zhang, J Fan, Z Zou, C Chen_
+[Source](https://doi.org/10.1186/s40168-021-01078-x)
 
+10.1186/s40168-021-01078-x
 
-Silicon dioxide nanoparticles (SiO2NPs) are widely used as additive in the food industry with controversial health risk. Gut microbiota is a new and hot topic in the field of nanotoxicity. It also contributes a novel and insightful view to understand the potential health risk of food-grade SiO2NPs in children, who are susceptible to the toxic effects of nanoparticles.
+---
 
-[Source](https://doi.org/10.1186/s12951-021-00916-2)
+## An Integrated Gene Catalog And Over 10,000 Metagenome-assembled Genomes From The gastrointestinal microbiome of ruminants
 
-10.1186/s12951-021-00916-2
+[Source](https://doi.org/10.1186/s40168-021-01078-x)
 
 ---
 
-## Silicon Dioxide Nanoparticles Induced Neurobehavioral Impairments By Disrupting microbiota-gut-brain axis
+## Antibiotic Resistance: Time Of Synthesis In A Post-genomic Age
 
-[Source](https://doi.org/10.1186/s12951-021-00916-2)
+[Source](https://doi.org/10.1016/j.csbj.2021.05.034)
 
 ---
 
-## Decay of infectious SARS-CoV-2 and surrogates in aquatic environments.
- 18.06.2021, _L Sala-Comorera, LJ Reynolds, NA Martin, JJ O'Sullivan, WG Meijer, NF Fletcher_
+## Efam: An Expanded, Metaproteome-supported HMM Profile Database Of Viral Protein families
 
+[Source](https://doi.org/10.1093/bioinformatics/btab451)
 
-The introduction of SARS-CoV-2 containing human stool and sewage into water bodies may raise public health concerns. However, assessment of public health risks by faecally contaminated water is limited by a lack of knowledge regarding the persistence of infectious SARS-CoV-2 in water. In the present study the decay rates of viable infectious SARS-CoV-2 and SARS-CoV-2 RNA were determined in river and seawater at 4 and 20°C. These decay rates were compared to S. typhimurium bacteriophage MS2 and pepper mild mottle virus (PMMoV). Persistence of viable SARS-CoV-2 was temperature dependent, remaining infectious for significantly longer periods of time in both freshwater and seawater at 4°C than at 20°C. T90 for infectious SARS-CoV-2 in river water was 2.3 days and 3.8 days at 20°C and 4°C, respectively. The T90 values were 1.1 days and 2.2 days in seawater at 20°C and 4°C, respectively. In contrast to the rapid inactivation of infectious SARS-CoV-2 in river and sea water, viral RNA was relatively stable. The RNA decay rates were increased in non-sterilised river and seawater, presumably due to the presence of microbiota. The decay rates of infectious MS2, MS2 RNA and PMMoV RNA differed significantly from the decay rate of SARS-CoV-2 RNA, suggesting that their use as surrogate markers for the persistence of SARS-CoV-2 in the environment is limited.
+---
 
-[Source](https://doi.org/10.1016/j.watres.2021.117090)
+## The Future Of Microbial Ecological Niche Theory And Modeling
 
-10.1016/j.watres.2021.117090
+[Source](https://doi.org/10.1111/nph.17373)
 
 ---
 
-## Decay Of Infectious SARS-CoV-2 And Surrogates In Aquatic Environments
+## DNA Extraction And Host Depletion Methods Significantly Impact And Potentially Bias Bacterial Detection in a Biological Fluid
 
-[Source](https://doi.org/10.1016/j.watres.2021.117090)
+[Source](https://doi.org/10.1128/mSystems.00619-21)
 
 ---
 
-## The Efficacy And Effect On Gut Microbiota Of An Aflatoxin Binder And A Fumonisin esterase using an in vitro simulator of the human intestinal microbial ecosystem&nbsp; (SHIME®)
+## Electrical Conductivity As A Driver Of Biological And Geological Spatial heterogeneity in the Puquios, Salar de Llamara, Atacama Desert, Chile
 
-[Source](https://doi.org/10.1016/j.foodres.2021.110395)
+[Source](https://doi.org/10.1038/s41598-021-92105-2)
 
 ---
 
