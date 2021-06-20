@@ -330,18 +330,6 @@ It has been long understood that the vaginal microflora is crucial in maintainin
 
 ---
 
-## A rise in Proteobacteria is an indicator of gut-liver axis-mediated nonalcoholic fatty liver disease in high-fructose-fed adult mice.
- 18.06.2021, _IML Vasques-Monteiro, FM Silva-Veiga, CS Miranda, ÉCB de Andrade Gonçalves, JB Daleprane, V Souza-Mello_
-
-
-Current evidence suggests that high fructose intake results in gut dysbiosis, leading to endotoxemia and NAFLD onset. Thus, the hypothesis of the study was that an enhanced Proteobacteria proportion in the cecal microbiota could be the most prominent trigger of NAFLD through enhanced endotoxin (LPS) in adult high-fructose-fed C57BL/6 mice. Male C57BL/6 mice received a control diet (n = 10, C: 76% of energy as carbohydrates, 0% as fructose) or high-fructose diet (n = 10, HFRU: 76% of energy as carbohydrate, 50% as fructose) for 12 weeks. Outcomes included biochemical analyses, 16S rDNA PCR amplification, hepatic stereology, and RT-qPCR. The groups showed similar body masses during the whole experiment. However, the HFRU group showed greater water intake and blood pressure than the C group. The HFRU group showed a significantly lower amount of Bacteroidetes and a predominant rise in Proteobacteria, implying increased LPS. The HFRU group also showed enhanced de novo lipogenesis (Chrebp expression), while beta-oxidation was decreased (Ppar-alpha expression). These results agree with the deposition of fat droplets within hepatocytes and the enhanced hepatic triacylglycerol concentrations, as observed in the photomicrographs, where the HFRU group had a higher volume density of steatosis than the C group. Thus, we confirmed that a rise in the Proteobacteria phylum proportion was the most prominent alteration in gut-liver axis-induced hepatic steatosis in HFRU-fed C57BL/6 mice. Gut dysbiosis and fatty liver were observed even in the absence of overweight in this dietary adult mouse model.
-
-[Source](https://doi.org/10.1016/j.nutres.2021.04.008)
-
-10.1016/j.nutres.2021.04.008
-
----
-
 ## A Rise In Proteobacteria Is An Indicator Of Gut-liver Axis-mediated Nonalcoholic fatty liver disease in high-fructose-fed adult mice.
 
 [Source](https://doi.org/10.1016/j.nutres.2021.04.008)
@@ -360,15 +348,51 @@ Current evidence suggests that high fructose intake results in gut dysbiosis, le
 
 ---
 
+## Development of an inexpensive matrix-assisted laser desorption-time of flight mass spectrometry method for the identification of endophytes and rhizobacteria cultured from the microbiome associated with maize.
+ 15.06.2021, _MG LaMontagne, PL Tran, A Benavidez, LD Morano_
+
+
+Many endophytes and rhizobacteria associated with plants support the growth and health of their hosts. The vast majority of these potentially beneficial bacteria have yet to be characterized, in part because of the cost of identifying bacterial isolates. Matrix-assisted laser desorption-time of flight (MALDI-TOF) has enabled culturomic studies of host-associated microbiomes but analysis of mass spectra generated from plant-associated bacteria requires optimization. In this study, we aligned mass spectra generated from endophytes and rhizobacteria isolated from heritage and sweet varieties of Zea mays. Multiple iterations of alignment attempts identified a set of parameters that sorted 114 isolates into 60 coherent MALDI-TOF taxonomic units (MTUs). These MTUs corresponded to strains with practically identical (&gt;99%) 16S rRNA gene sequences. Mass spectra were used to train a machine learning algorithm that classified 100% of the isolates into 60 MTUs. These MTUs provided &gt;70% coverage of aerobic, heterotrophic bacteria readily cultured with nutrient rich media from the maize microbiome and allowed prediction of the total diversity recoverable with that particular cultivation method. Acidovorax sp., Pseudomonas sp. and Cellulosimicrobium sp. dominated the library generated from the rhizoplane. Relative to the sweet variety, the heritage variety c ontained a high number of MTUs. The ability to detect these differences in libraries, suggests a rapid and inexpensive method of describing the diversity of bacteria cultured from the endosphere and rhizosphere of maize.
+
+[Source](https://doi.org/10.7717/peerj.11359)
+
+10.7717/peerj.11359
+
+---
+
 ## Development Of An Inexpensive Matrix-assisted Laser Desorption-time Of Flight Mass spectrometry method for the identification of endophytes and rhizobacteria cultured from the microbiome associated with maize
 
 [Source](https://doi.org/10.7717/peerj.11359)
 
 ---
 
+## Assessing the potential to harness the microbiome through plant genetics.
+ 16.06.2021, _J Bergelson, B Brachi, F Roux, F Vailleau_
+
+
+Microbial communities are influenced by a complex system of host effects, including traits involved in physical barriers, immunity, hormones, metabolisms and nutrient homeostasis. Variation of host control within species is governed by many genes of small effect and is sensitive to biotic and abiotic environments. On the flip side, these host impacts seem targeted on particular microbial species, with that impact percolating through the microbial community. There is not yet evidence that the nature and strength of these interactions differs between fungal and bacterial communities, or among different compartments of the plant. The challenge of deciphering how systems of host traits impact systems of microbial associates is vast but holds promise for developing novel strategies to improve plant health.
+
+[Source](https://doi.org/10.1016/j.copbio.2021.05.007)
+
+10.1016/j.copbio.2021.05.007
+
+---
+
 ## Assessing The Potential To Harness The Microbiome Through Plant Genetics
 
 [Source](https://doi.org/10.1016/j.copbio.2021.05.007)
+
+---
+
+## An integrated gene catalog and over 10,000 metagenome-assembled genomes from the gastrointestinal microbiome of ruminants.
+ 18.06.2021, _F Xie, W Jin, H Si, Y Yuan, Y Tao, J Liu, X Wang, C Yang, Q Li, X Yan, L Lin, Q Jiang, L Zhang, C Guo, C Greening, R Heller, LL Guan, PB Pope, Z Tan, W Zhu, M Wang, Q Qiu, Z Li, S Mao_
+
+
+Gastrointestinal tract (GIT) microbiomes in ruminants play major roles in host health and thus animal production. However, we lack an integrated understanding of microbial community structure and function as prior studies. are predominantly biased towards the rumen. Therefore, to acquire a microbiota inventory of the discrete GIT compartments, In this study, we used shotgun metagenomics to profile the microbiota of 370 samples that represent 10 GIT regions of seven ruminant species.
+
+[Source](https://doi.org/10.1186/s40168-021-01078-x)
+
+10.1186/s40168-021-01078-x
 
 ---
 
