@@ -149,33 +149,9 @@ Shotgun metagenomes contain a sample of all the genomic material in an environme
 
 ---
 
-## The impact of device-assisted therapies on the gut microbiome in Parkinson's disease.
- 15.06.2021, _M Lubomski, X Xu, AJ Holmes, JYH Yang, CM Sue, RL Davis_
-
-
-Microbiome feedbacks are proposed to influence Parkinson's disease (PD) pathophysiology. A number of studies have evaluated the impact of oral medication on the gut microbiome (GM) in PD. However, the influence of PD device-assisted therapies (DATs) on the GM remains to be investigated.
-
-[Source](https://doi.org/10.1007/s00415-021-10657-9)
-
-10.1007/s00415-021-10657-9
-
----
-
 ## The Impact Of Device-assisted Therapies On The Gut Microbiome In Parkinson’s disease
 
 [Source](https://doi.org/10.1007/s00415-021-10657-9)
-
----
-
-## Alterations in microbiome composition and metabolic byproducts drive behavioral and transcriptional responses to morphine.
- 15.06.2021, _RS Hofford, NL Mervosh, TJ Euston, KR Meckel, AT Orr, DD Kiraly_
-
-
-Recent evidence has demonstrated that the gut microbiome has marked effects on neuronal function and behavior. Disturbances to microbial populations within the gut have been linked to myriad models of neuropsychiatric disorders. However, the role of the microbiome in substance use disorders remains understudied. Here we show that male mice with their gut microbiome depleted by nonabsorbable antibiotics (Abx) exhibit decreased formation of morphine conditioned place preference across a range of doses (2.5-15 mg/kg), have decreased locomotor sensitization to morphine, and demonstrate marked changes in gene expression within the nucleus accumbens (NAc) in response to high-dose morphine (20 mg/kg × 7 days). Replacement of short-chain fatty acid (SCFA) metabolites, which are reduced by microbiome knockdown, reversed the behavioral and transcriptional effects of microbiome depletion. This identifies SCFA as the crucial mediators of microbiome-brain communication responsible for the effects on morphine reward caused by microbiome knockdown. These studies add important new behavioral, molecular, and mechanistic insight to the role of gut-brain signaling in substance use disorders.
-
-[Source](https://doi.org/10.1038/s41386-021-01043-0)
-
-10.1038/s41386-021-01043-0
 
 ---
 
@@ -185,33 +161,9 @@ Recent evidence has demonstrated that the gut microbiome has marked effects on n
 
 ---
 
-## Structural specificities of cell surface β-glucan polysaccharides determine commensal yeast mediated immuno-modulatory activities.
- 16.06.2021, _C Lee, R Verma, S Byun, EJ Jeun, GC Kim, S Lee, HJ Kang, CJ Kim, G Sharma, A Lahiri, S Paul, KS Kim, DS Hwang, Y Iwakura, I Speciale, A Molinaro, C De Castro, D Rudra, SH Im_
-
-
-Yeast is an integral part of mammalian microbiome, and like commensal bacteria, has the potential of being harnessed to influence immunity in clinical settings. However, functional specificities of yeast-derived immunoregulatory molecules remain elusive. Here we find that while under steady state, β-1,3-glucan-containing polysaccharides potentiate pro-inflammatory properties, a relatively less abundant class of cell surface polysaccharides, dubbed mannan/β-1,6-glucan-containing polysaccharides (MGCP), is capable of exerting potent anti-inflammatory effects to the immune system. MGCP, in contrast to previously identified microbial cell surface polysaccharides, through a Dectin1-Cox2 signaling axis in dendritic cells, facilitates regulatory T (Treg) cell induction from naïve T cells. Furthermore, through a TLR2-dependent mechanism, it restrains Th1 differentiation of effector T cells by suppressing IFN-γ expression. As a result, administration of MGCP display robust suppressive capacity towards experimental inflammatory disease models of colitis and experimental autoimmune encephalomyelitis (EAE) in mice, thereby highlighting its potential therapeutic utility against clinically relevant autoimmune diseases.
-
-[Source](https://doi.org/10.1038/s41467-021-23929-9)
-
-10.1038/s41467-021-23929-9
-
----
-
 ## Structural Specificities Of Cell Surface Beta-glucan Polysaccharides Determine commensal yeast mediated immuno-modulatory activities
 
 [Source](https://doi.org/10.1038/s41467-021-23929-9)
-
----
-
-## Integrated omics endotyping of infants with respiratory syncytial virus bronchiolitis and risk of childhood asthma.
- 16.06.2021, _Y Raita, M Pérez-Losada, RJ Freishtat, B Harmon, JM Mansbach, PA Piedra, Z Zhu, CA Camargo, K Hasegawa_
-
-
-Respiratory syncytial virus (RSV) bronchiolitis is not only the leading cause of hospitalization in U.S. infants, but also a major risk factor for asthma development. While emerging evidence suggests clinical heterogeneity within RSV bronchiolitis, little is known about its biologically-distinct endotypes. Here, we integrated clinical, virus, airway microbiome (species-level), transcriptome, and metabolome data of 221 infants hospitalized with RSV bronchiolitis in a multicentre prospective cohort study. We identified four biologically- and clinically-meaningful endotypes: A) clinicalclassicmicrobiomeM. nonliquefaciensinflammationIFN-intermediate, B) clinicalatopicmicrobiomeS. pneumoniae/M. catarrhalisinflammationIFN-high, C) clinicalseveremicrobiomemixedinflammationIFN-low, and D) clinicalnon-atopicmicrobiomeM.catarrhalisinflammationIL-6. Particularly, compared with endotype A infants, endotype B infants-who are characterized by a high proportion of IgE sensitization and rhinovirus coinfection, S. pneumoniae/M. catarrhalis codominance, and high IFN-α and -γ response-had a significantly higher risk for developing asthma (9% vs. 38%; OR, 6.00: 95%CI, 2.08-21.9; P = 0.002). Our findings provide an evidence base for the early identification of high-risk children during a critical period of airway development.
-
-[Source](https://doi.org/10.1038/s41467-021-23859-6)
-
-10.1038/s41467-021-23859-6
 
 ---
 
@@ -227,33 +179,9 @@ Respiratory syncytial virus (RSV) bronchiolitis is not only the leading cause of
 
 ---
 
-## Anaerobic microbiota derived from the upper airways impact Staphylococcus aureus physiology.
- 14.06.2021, _SK Lucas, AR Villarreal, M Ahmad, A Itabiyi, E Feddema, HC Boyer, RC Hunter_
-
-
-Staphylococcus aureus is associated with the development of persistent and severe inflammatory diseases of the upper airways. Yet, S. aureus is also carried asymptomatically in the sinonasal cavity of ∼50% of healthy adults. The cause(s) of this duality and host and microbial factors that tip the balance between S. aureus pathogenesis and commensalism are poorly understood. We have shown that by degrading mucins, anaerobic microbiota support the growth of airway pathogens by liberating metabolites that are otherwise unavailable. Given the widely reported culture-based detection of anaerobes from individuals with chronic rhinosinusitis (CRS), here we tested our hypothesis that CRS microbiota is characterized by a mucin degrading phenotype that alters S. aureus physiology. Using 16S rRNA gene sequencing, we indeed observed an increased prevalence and abundance of anaerobes in CRS relative to non-CRS controls. PICRUSt2-based functional predictions suggested increased mucin degradation potential among CRS microbiota that was confirmed by direct enrichment culturing. Prevotella, Fusobacterium, and Streptococcus comprised a core mucin-degrading community across CRS subjects which generated a nutrient pool that augmented S. aureus growth on mucin as a carbon source. Finally, using RNAseq, we observed that S. aureus transcription is profoundly altered in the presence of mucin-derived metabolites, though expression of several key metabolism- and virulence-associated pathways varied between CRS-derived bacterial communities. Together, these data support a model in which S. aureus metabolism and virulence in the upper airways is dependent upon the composition of co-colonizing microbiota and the metabolites they exchange.
-
-[Source](https://doi.org/10.1128/IAI.00153-21)
-
-10.1128/IAI.00153-21
-
----
-
 ## Anaerobic Microbiota Derived From The Upper Airways Impact Staphylococcus Aureus physiology
 
 [Source](https://doi.org/10.1128/IAI.00153-21)
-
----
-
-## A new biological triangle in cancer: intestinal microbiota, immune checkpoint inhibitors and antibiotics.
- 14.06.2021, _J Zhang, Z Dai, C Yan, W Zhang, D Wang, D Tang_
-
-
-Cancer immunotherapy has revolutionized the treatment of many malignant tumors. Although immune checkpoint inhibitors (ICIs) can reactivate the anti-tumor activity of immune cells, sensitivity to immune checkpoint inhibitor therapy depends on the complex tumor immune processes. In recent years, numerous researches have demonstrated the role of intestinal microbiota in immunity and metabolism of the tumor microenvironment, as well as the efficacy of immunotherapy. Epidemiological studies have further demonstrated the efficacy of antibiotic therapy on the probability of patients' response to ICIs and predictability of the short-term survival of cancer patients. Disturbance to the intestinal microbiota significantly affects ICIs-mediated immune reconstitution and is considered a possible mechanism underlying the development of adverse effects during antibiotic-based ICIs treatment. Intestinal microbiota, antibiotics, and ICIs have gradually become important considerations for the titer of immunotherapy. In the case of immunotherapy, the rational use of antibiotics and intestinal microbiota is expected to yield a better prognosis for patients with malignant tumors.
-
-[Source](https://doi.org/10.1007/s12094-021-02659-w)
-
-10.1007/s12094-021-02659-w
 
 ---
 
@@ -424,15 +352,51 @@ It has been long understood that the vaginal microflora is crucial in maintainin
 
 ---
 
+## Development of an inexpensive matrix-assisted laser desorption-time of flight mass spectrometry method for the identification of endophytes and rhizobacteria cultured from the microbiome associated with maize.
+ 15.06.2021, _MG LaMontagne, PL Tran, A Benavidez, LD Morano_
+
+
+Many endophytes and rhizobacteria associated with plants support the growth and health of their hosts. The vast majority of these potentially beneficial bacteria have yet to be characterized, in part because of the cost of identifying bacterial isolates. Matrix-assisted laser desorption-time of flight (MALDI-TOF) has enabled culturomic studies of host-associated microbiomes but analysis of mass spectra generated from plant-associated bacteria requires optimization. In this study, we aligned mass spectra generated from endophytes and rhizobacteria isolated from heritage and sweet varieties of Zea mays. Multiple iterations of alignment attempts identified a set of parameters that sorted 114 isolates into 60 coherent MALDI-TOF taxonomic units (MTUs). These MTUs corresponded to strains with practically identical (&gt;99%) 16S rRNA gene sequences. Mass spectra were used to train a machine learning algorithm that classified 100% of the isolates into 60 MTUs. These MTUs provided &gt;70% coverage of aerobic, heterotrophic bacteria readily cultured with nutrient rich media from the maize microbiome and allowed prediction of the total diversity recoverable with that particular cultivation method. Acidovorax sp., Pseudomonas sp. and Cellulosimicrobium sp. dominated the library generated from the rhizoplane. Relative to the sweet variety, the heritage variety c ontained a high number of MTUs. The ability to detect these differences in libraries, suggests a rapid and inexpensive method of describing the diversity of bacteria cultured from the endosphere and rhizosphere of maize.
+
+[Source](https://doi.org/10.7717/peerj.11359)
+
+10.7717/peerj.11359
+
+---
+
 ## Development Of An Inexpensive Matrix-assisted Laser Desorption-time Of Flight Mass spectrometry method for the identification of endophytes and rhizobacteria cultured from the microbiome associated with maize
 
 [Source](https://doi.org/10.7717/peerj.11359)
 
 ---
 
+## Assessing the potential to harness the microbiome through plant genetics.
+ 16.06.2021, _J Bergelson, B Brachi, F Roux, F Vailleau_
+
+
+Microbial communities are influenced by a complex system of host effects, including traits involved in physical barriers, immunity, hormones, metabolisms and nutrient homeostasis. Variation of host control within species is governed by many genes of small effect and is sensitive to biotic and abiotic environments. On the flip side, these host impacts seem targeted on particular microbial species, with that impact percolating through the microbial community. There is not yet evidence that the nature and strength of these interactions differs between fungal and bacterial communities, or among different compartments of the plant. The challenge of deciphering how systems of host traits impact systems of microbial associates is vast but holds promise for developing novel strategies to improve plant health.
+
+[Source](https://doi.org/10.1016/j.copbio.2021.05.007)
+
+10.1016/j.copbio.2021.05.007
+
+---
+
 ## Assessing The Potential To Harness The Microbiome Through Plant Genetics
 
 [Source](https://doi.org/10.1016/j.copbio.2021.05.007)
+
+---
+
+## An integrated gene catalog and over 10,000 metagenome-assembled genomes from the gastrointestinal microbiome of ruminants.
+ 18.06.2021, _F Xie, W Jin, H Si, Y Yuan, Y Tao, J Liu, X Wang, C Yang, Q Li, X Yan, L Lin, Q Jiang, L Zhang, C Guo, C Greening, R Heller, LL Guan, PB Pope, Z Tan, W Zhu, M Wang, Q Qiu, Z Li, S Mao_
+
+
+Gastrointestinal tract (GIT) microbiomes in ruminants play major roles in host health and thus animal production. However, we lack an integrated understanding of microbial community structure and function as prior studies. are predominantly biased towards the rumen. Therefore, to acquire a microbiota inventory of the discrete GIT compartments, In this study, we used shotgun metagenomics to profile the microbiota of 370 samples that represent 10 GIT regions of seven ruminant species.
+
+[Source](https://doi.org/10.1186/s40168-021-01078-x)
+
+10.1186/s40168-021-01078-x
 
 ---
 
