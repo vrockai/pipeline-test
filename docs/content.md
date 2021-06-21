@@ -119,6 +119,19 @@ Shotgun metagenomes contain a sample of all the genomic material in an environme
 
 ---
 
+## Antibiotic use and risk of colorectal cancer: a systematic review and dose-response meta-analysis.
+ 02.04.2021, _J Simin, R Fornes, Q Liu, RS Olsen, S Callens, L Engstrand, N Brusselaers_
+
+
+_Anti-Bacterial Agents, Colonic Neoplasms, Colorectal Neoplasms, Confidence Intervals, Databases as Topic, Dose-Response Relationship, Drug, Gastrointestinal Microbiome, Humans, Rectal Neoplasms, Risk Factors_
+It is understudied whether the posed association of oral antibiotics with colorectal cancer (CRC) varies between antibiotic spectrums, colorectal continuum, and if a non-linear dose-dependent relationship is present.
+
+[Source](https://doi.org/10.3892/or.2021.8111)
+
+10.1038/s41416-020-01082-2
+
+---
+
 ## Association Between Oral Microflora And Gastrointestinal Tumors (Review)
 
 [Source](https://doi.org/10.3892/or.2021.8111)
@@ -191,26 +204,15 @@ Shotgun metagenomes contain a sample of all the genomic material in an environme
 
 ---
 
-## The Microbiome and Gynecologic Cancer: Current Evidence and Future Opportunities.
- 15.06.2021, _LM Chambers, P Bussies, R Vargas, E Esakov, S Tewari, O Reizes, C Michener_
-
-
-We review the emerging evidence regarding the relationship between the microbiota of the gastrointestinal and female reproductive tracts and gynecologic cancer.
+## The Microbiome And Gynecologic Cancer: Current Evidence And Future Opportunities
 
 [Source](https://doi.org/10.1007/s11912-021-01079-x)
 
-10.1007/s11912-021-01079-x
-
 ---
 
-## Increased Bacterial Proteolytic Activity Detected Before Diagnosis of Ulcerative Colitis.
- 14.06.2021, _HJ Galipeau, A Caminero, EF Verdu_
-
-
+## Increased Bacterial Proteolytic Activity Detected Before Diagnosis Of Ulcerative Colitis
 
 [Source](https://doi.org/10.1093/ibd/izab144)
-
-10.1093/ibd/izab144
 
 ---
 
@@ -220,27 +222,9 @@ We review the emerging evidence regarding the relationship between the microbiot
 
 ---
 
-## Catechin Metabolites along with Curcumin Inhibit Proliferation and Induce Apoptosis in Cervical Cancer Cells by Regulating VEGF Expression In-Vitro.
- 14.06.2021, _E Khojaste, C Ahmadizadeh_
-
-
-Cervical cancer is the fourth most common cancer and the second cause of cancer-related death among women. Over the past two decades, green tea catechins and curcumin have received much attention for their role in preventing carcinogenesis. In this study, we evaluated the effects of the catechin metabolites and curcumin on cervical cancer cell proliferation and apoptosis. For this aim, the Ca Ski cell line was treated with different doses of catechin metabolites and curcumin. MTT assay and Flow cytometry were employed to investigate the cytotoxic effects of catechin metabolites and curcumin on the Ca Ski cell line. Real-time PCR and western blot were performed to evaluate the VEGF expression. Also, Real-Time PCR was performed to determine the expression level of microRNAs. Results showed that catechin metabolites along with curcumin reduce the VEGF expression. Further, miR-210 and miR-21 as oncogenic microRNAs were down-regulated, while it was reverse for miR-126 as a tumor-suppressor microRNA. Besides, MTT and Flow cytometry results showed that after using catechin metabolites with curcumin, cell survival was reduced by inducing apoptosis. In conclusion, catechin metabolites produced by intestinal microbiota besides the curcumin could serve as a promising therapeutic approach for women with cervical cancer.
+## Catechin Metabolites Along With Curcumin Inhibit Proliferation And Induce Apoptosis in Cervical Cancer Cells by Regulating VEGF Expression In-Vitro
 
 [Source](https://doi.org/10.1080/01635581.2021.1936082)
-
-10.1080/01635581.2021.1936082
-
----
-
-## The lung microbiome in lung transplantation.
- 14.06.2021, _JE McGinniss, SA Whiteside, A Simon-Soro, JM Diamond, JD Christie, FD Bushman, RG Collman_
-
-
-Culture-independent study of the lower respiratory tract after lung transplantation has enabled an understanding of the microbiome - that is, the collection of bacteria, fungi, and viruses, and their respective gene complement - in this niche. The lung has unique features as a microbial environment, with balanced entry from the upper respiratory tract, clearance, and local replication. There are many pressures impacting the microbiome after transplantation, including donor allograft factors, recipient host factors such as underlying disease and ongoing exposure to the microbe-rich upper respiratory tract, and transplantation-related immunosuppression, antimicrobials, and postsurgical changes. To date, we understand that the lung microbiome after transplant is dysbiotic; that is, it has higher biomass and altered composition compared to a healthy lung. Emerging data suggest that specific microbiome features may be linked to host responses, both immune and non-immune, and clinical outcomes such as chronic lung allograft dysfunction (CLAD), but many questions remain. The goal of this review is to put into context our burgeoning understanding of the lung microbiome in the postlung transplant patient, the interactions between microbiome and host, the role the microbiome may play in post-transplant complications, and critical outstanding research questions.
-
-[Source](https://doi.org/10.1016/j.healun.2021.04.014)
-
-10.1016/j.healun.2021.04.014
 
 ---
 
@@ -250,15 +234,9 @@ Culture-independent study of the lower respiratory tract after lung transplantat
 
 ---
 
-## Vaginal microbiome: normalcy vs dysbiosis.
- 13.06.2021, _VS Saraf, SA Sheikh, A Ahmad, PM Gillevet, H Bokhari, S Javed_
-
-
-It has been long understood that the vaginal microflora is crucial in maintaining a normal physiological environment for the host and its involvement is deemed indispensable for reproductive success. A global concept of normalcy vs. dysbiosis of vaginal microbiome is debatable as women of different races have a unique vaginal microflora with regional variations. Vaginal microflora is a dynamic microenvironment affected by gestational status, menstrual cycle, sexual activity, age, and contraceptive use. Normal vaginal flora is dominated by lactobacilli especially in women of European descent vs. African American women. These microbes confer the host vagina protection from potentially pathogenic microbes that may lead to urinary tract infections and sexually transmitted diseases. Changes in the vaginal microbiota including reduced lactobacilli abundance and increased facultative and anaerobic organism populations result in bacterial vaginosis, that predisposes the host to several conditions like low birth weight and increased risk of contracting bacterial infections. On the other hand, the vaginal microbiome is also reshaped during pregnancy, with less microbial diversity with a dominance of Lactobacillus species. However, an altered vaginal microbiota with low lactobacilli abundance especially during pregnancy may result in induction of excessive inflammation and pre-term labor. Since the vaginal microbiome plays an important role during embryo implantation, it is not surprising that bacterial vaginosis is more common in infertile women and associated with reduced rates of conception. Probiotic has great success in treating bacterial vaginosis and restoring the normal microbiome in recent. This report, reviewed the relationships between the vaginal microbiome and women's reproductive health.
+## Vaginal Microbiome: Normalcy Vs Dysbiosis
 
 [Source](https://doi.org/10.1007/s00203-021-02414-3)
-
-10.1007/s00203-021-02414-3
 
 ---
 
