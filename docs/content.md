@@ -149,6 +149,18 @@ Shotgun metagenomes contain a sample of all the genomic material in an environme
 
 ---
 
+## The impact of device-assisted therapies on the gut microbiome in Parkinson's disease.
+ 15.06.2021, _M Lubomski, X Xu, AJ Holmes, JYH Yang, CM Sue, RL Davis_
+
+
+Microbiome feedbacks are proposed to influence Parkinson's disease (PD) pathophysiology. A number of studies have evaluated the impact of oral medication on the gut microbiome (GM) in PD. However, the influence of PD device-assisted therapies (DATs) on the GM remains to be investigated.
+
+[Source](https://doi.org/10.1007/s00415-021-10657-9)
+
+10.1007/s00415-021-10657-9
+
+---
+
 ## The Impact Of Device-assisted Therapies On The Gut Microbiome In Parkinson’s disease
 
 [Source](https://doi.org/10.1007/s00415-021-10657-9)
