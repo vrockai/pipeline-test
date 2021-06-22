@@ -405,9 +405,33 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ---
 
+## The potential application of probiotics and prebiotics for the prevention and treatment of COVID-19.
+ 22.10.2020, _AN Olaimat, I Aolymat, M Al-Holy, M Ayyash, M Abu Ghoush, AA Al-Nabulsi, T Osaili, V Apostolopoulos, SQ Liu, NP Shah_
+
+
+COVID-19 is a pandemic disease caused by the novel coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). This new viral infection was first identified in China in December 2019, and it has subsequently spread globally. The lack of a vaccine or curative treatment for COVID-19 necessitates a focus on other strategies to prevent and treat the infection. Probiotics consist of single or mixed cultures of live microorganisms that can beneficially affect the host by maintaining the intestinal or lung microbiota that play a major role in human health. At present, good scientific evidence exists to support the ability of probiotics to boost human immunity, thereby preventing colonization by pathogens and reducing the incidence and severity of infections. Herein, we present clinical studies of the use of probiotic supplementation to prevent or treat respiratory tract infections. These data lead to promising benefits of probiotics in reducing the risk of COVID-19. Further studies should be conducted to assess the ability of probiotics to combat COVID-19.
+
+[Source](https://doi.org/10.1038/s41538-020-00078-9)
+
+10.1038/s41538-020-00078-9
+
+---
+
 ## The Potential Application Of Probiotics And Prebiotics For The Prevention And treatment of COVID-19
 
 [Source](https://doi.org/10.1038/s41538-020-00078-9)
+
+---
+
+## The gut microbiome: an under-recognised contributor to the COVID-19 pandemic?
+ 08.12.2020, _JP Segal, JWY Mak, BH Mullish, JL Alexander, SC Ng, JR Marchesi_
+
+
+The novel coronavirus infection (COVID-19) caused by the SARS-CoV-2 virus has spread rapidly across the globe, culminating in major global morbidity and mortality. As such, there has been a rapid escalation in scientific and clinical activity aimed at increasing our comprehension of this virus. This volume of work has led to early insights into risk factors associated with severity of disease, and mechanisms that underpin the virulence and dynamics involved in viral transmission. These insights ultimately may help guide potential therapeutics to reduce the human, economic and social impact of this pandemic. Importantly, the gastrointestinal (GI) tract has emerged as an important organ influencing propensity to, and potentially severity of, COVID-19 infection. Furthermore, the gut microbiome has been linked to a variety of risk factors for COVID-19 infection, and manipulation of the gut microbiome is an attractive potential therapeutic target for a number of diseases. While data profiling the gut microbiome in COVID-19 infection to date are limited, they support the possibility of several routes of interaction between COVID-19, the gut microbiome, angiotensin converting enzyme 2 (ACE-2) expression in the small bowel and colon and gut inflammation. This article will explore the evidence that implicates the gut microbiome as a contributing factor to the pathogenesis, severity and disease course of COVID-19, and speculate about the gut microbiome's capability as a therapeutic avenue against COVID-19.
+
+[Source](https://doi.org/10.1177/1756284820974914)
+
+10.1177/1756284820974914
 
 ---
 
@@ -417,9 +441,15 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ---
 
-## Is Gut Microbiota Dysbiosis A Predictor Of Increased Susceptibility To Poor Outcome of COVID-19 Patients? An Update
+## Is Gut Microbiota Dysbiosis a Predictor of Increased Susceptibility to Poor Outcome of COVID-19 Patients? An Update.
+ 26.01.2021, _C Ferreira, SD Viana, F Reis_
+
+
+The scientific knowledge already attained regarding the way severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infects human cells and the clinical manifestations and consequences for Coronavirus Disease 2019 (COVID-19) patients, especially the most severe cases, brought gut microbiota into the discussion. It has been suggested that intestinal microflora composition plays a role in this disease because of the following: (i) its relevance to an efficient immune system response; (ii) the fact that 5-10% of the patients present gastrointestinal symptoms; and (iii) because it is modulated by intestinal angiotensin-converting enzyme 2 (ACE2) (which is the virus receptor). In addition, it is known that the most severely affected patients (those who stay longer in hospital, who require intensive care, and who eventually die) are older people with pre-existing cardiovascular, metabolic, renal, and pulmonary diseases, the same people in which the prevalence of gut microflora dysbiosis is higher. The COVID-19 patients presenting poor outcomes are also those in which the immune system's hyperresponsiveness and a severe inflammatory condition (collectively referred as "cytokine storm") are particularly evident, and have been associated with impaired microbiota phenotype. In this article, we present the evidence existing thus far that may suggest an association between intestinal microbiota composition and the susceptibility of some patients to progress to severe stages of the disease.
 
 [Source](https://doi.org/10.3390/microorganisms90100530)
+
+10.3390/microorganisms9010053
 
 ---
 
@@ -429,15 +459,48 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ---
 
+## The microbiome of bat guano: for what is this knowledge important?
+ 22.02.2021, _I Dimkić, D Fira, T Janakiev, J Kabić, M Stupar, M Nenadić, N Unković, ML Grbić_
+
+
+_Animals, Biodiversity, Chiroptera, Communicable Diseases, Emerging, Conservation of Natural Resources, Disease Reservoirs, Feces, Humans, Microbiota_
+Bats as flying mammals are potent vectors and natural reservoir hosts for many infectious viruses, bacteria, and fungi, also detected in their excreta such as guano. Accelerated deforestation, urbanization, and anthropization hastily lead to overpopulation of the bats in urban areas allowing easy interaction with other animals, expansion, and emergence of new zoonotic disease outbreaks potentially harmful to humans. Therefore, getting new insights in the microbiome of bat guano from different places represents an imperative for the future. Furthermore, the use of novel high-throughput sequencing technologies allows better insight in guano microbiome and potentially indicated that some species could be typical guano-dwelling members. Bats are well known as a natural reservoir of many zoonotic viruses such as Ebola, Nipah, Marburg, lyssaviruses, rabies, henipaviruses, and many coronaviruses which caused a high number of outbreaks including ongoing COVID-19 pandemic. Additionally, many bacterial and fungal pathogens were identified as common guano residents. Thus, the presence of multi-drug-resistant bacteria as environmental reservoirs of extended spectrum β-lactamases and carbapenemase-producing strains has been confirmed. Bat guano is the most suitable substrate for fungal reproduction and dissemination, including pathogenic yeasts and keratinophilic and dimorphic human pathogenic fungi known as notorious causative agents of severe endemic mycoses like histoplasmosis and fatal cryptococcosis, especially deadly in immunocompromised individuals. This review provides an overview of bat guano microbiota diversity and the significance of autochthonous and pathogenic taxa for humans and the environment, highlighting better understanding in preventing emerging diseases. KEY POINTS: Bat guano as reservoir and source for spreading of autochthonous and pathogenic microbiota Bat guano vs. novel zoonotic disease outbreaks Destruction of bat natural habitats urgently demands increased human awareness.
+
+[Source](https://doi.org/10.1007/s00253-021-11143-y)
+
+10.1007/s00253-021-11143-y
+
+---
+
 ## The Microbiome Of Bat Guano: For What Is This Knowledge Important?
 
 [Source](https://doi.org/10.1007/s00253-021-11143-y)
 
 ---
 
-## Microbiota Modulation Of The Gut-Lung Axis In COVID-19
+## Microbiota Modulation of the Gut-Lung Axis in COVID-19.
+ 18.03.2021, _GLV de Oliveira, CNS Oliveira, CF Pinzan, LVV de Salis, CRB Cardoso_
+
+
+_COVID-19, Dysbiosis, Gastrointestinal Microbiome, Humans, Intestines, Lung, Probiotics, SARS-CoV-2_
+COVID-19 is an infectious disease caused by the Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), and according to the World Health Organization (WHO), to date, SARS-CoV-2 has already infected more than 91.8 million people worldwide with 1,986,871 deaths. This virus affects mainly the respiratory system, but the gastrointestinal tract (GIT) is also a target, meanwhile SARS-CoV-2 was already detected in oesophagus, stomach, duodenum, rectum, and in fecal samples from COVID-19 patients. Prolonged GIT manifestations in COVID-19, mainly the diarrhea, were correlated with decreased richness and diversity of the gut microbiota, immune deregulation and delayed SARS-CoV-2 clearance. So, the bidirectional interactions between the respiratory mucosa and the gut microbiota, known as gut-lung axis, are supposed to be involved in the healthy or pathologic immune responses to SARS-CoV-2. In accordance, the intestinal dysbiosis is associated with increased mortality in other respiratory infections, due to an exacerbated inflammation and decreased regulatory or anti-inflammatory mechanisms in the lungs and in the gut, pointing to this important relationship between both mucosal compartments. Therefore, since the mucous membranes from the respiratory and gastrointestinal tracts are affected, in addition to dysbiosis and inflammation, it is plausible to assume that adjunctive therapies based on the modulation of the gut microbiota and re-establishment of eubiosis conditions could be an important therapeutic approach for constraining the harmful consequences of COVID-19. Then, in this review, we summarized studies showing the persistence of SARS-CoV-2 in the gastrointestinal system and the related digestive COVID-19 manifestations, in addition to the literature demonstrating nasopharyngeal, pulmonary and intestinal dysbiosis in COVID-19 patients. Lastly, we showed the potential beneficial role of probiotic administration in other respiratory infections, and discuss the possible role of probiotics as an adjunctive therapy in SARS-CoV-2 infection.
 
 [Source](https://doi.org/10.3389/fimmu.2021.635471)
+
+10.3389/fimmu.2021.635471
+
+---
+
+## Longitudinal Peripheral Blood Transcriptional Analysis Reveals Molecular Signatures of Disease Progression in COVID-19 Patients.
+ 03.05.2021, _Q Yan, P Li, X Ye, X Huang, B Feng, T Ji, Z Chen, F Li, Y Zhang, K Luo, F Chen, X Mo, J Wang, L Feng, F Hu, C Lei, L Qu, L Chen_
+
+
+_Adult, Aged, COVID-19, Cytokines, Disease Progression, Female, Gene Expression Regulation, Humans, Inflammation Mediators, Leukocytes, Mononuclear, Longitudinal Studies, Male, Middle Aged, RNA-Seq, SARS-CoV-2_
+Coronavirus disease 2019 (COVID-19) is caused by a novel coronavirus named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), with some patients developing severe illness or even death. Disease severity has been associated with increased levels of proinflammatory cytokines and lymphopenia. To elucidate the atlas of peripheral immune response and pathways that might lead to immunopathology during COVID-19 disease course, we performed a peripheral blood RNA sequencing analysis of the same patient's samples collected from symptom onset to full recovery. We found that PBMCs at different disease stages exhibited unique transcriptome characteristics. We observed that SARS-CoV-2 infection caused excessive release of inflammatory cytokines and lipid mediators as well as an aberrant increase of low-density neutrophils. Further analysis revealed an increased expression of RNA sensors and robust IFN-stimulated genes expression but a repressed type I IFN production. SARS-CoV-2 infection activated T and B cell responses during the early onset but resulted in transient adaptive immunosuppression during severe disease state. Activation of apoptotic pathways and functional exhaustion may contribute to the reduction of lymphocytes and dysfunction of adaptive immunity, whereas increase in IL2, IL7, and IL15 may facilitate the recovery of the number and function of lymphocytes. Our study provides comprehensive transcriptional signatures of peripheral blood response in patients with moderate COVID-19.
+
+[Source](https://doi.org/10.3389/fcimb.2021.632490)
+
+10.4049/jimmunol.2001325
 
 ---
 
@@ -447,9 +510,15 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ---
 
-## Metagenomics Approaches To Investigate The Gut Microbiome Of COVID-19 Patients
+## Metagenomics Approaches to Investigate the Gut Microbiome of COVID-19 Patients.
+ 02.04.2021, _S Sehli, I Allali, R Chahboune, Y Bakri, N Al Idrissi, S Hamdi, C Nejjari, S Amzazi, H Ghazal_
+
+
+Over the last decade, it has become increasingly apparent that the microbiome is a central component in human well-being and illness. However, to establish innovative therapeutic methods, it is crucial to learn more about the microbiota. Thereby, the area of metagenomics and associated bioinformatics methods and tools has become considerable in the study of the human microbiome biodiversity. The application of these metagenomics approaches to studying the gut microbiome in COVID-19 patients could be one of the promising areas of research in the fight against the SARS-CoV-2 infection and disparity. Therefore, understanding how the gut microbiome is affected by or could affect the SARS-CoV-2 is very important. Herein, we present an overview of approaches and methods used in the current published studies on COVID-19 patients and the gut microbiome. The accuracy of these researches depends on the appropriate choice and the optimal use of the metagenomics bioinformatics platforms and tools. Interestingly, most studies reported that COVID-19 patients' microbiota are enriched with opportunistic microorganisms. The choice and use of appropriate computational tools and techniques to accurately investigate the gut microbiota is therefore critical in determining the appropriate microbiome profile for diagnosis and the most reliable antiviral or preventive microbial composition.
 
 [Source](https://doi.org/10.1177/1177932221999428)
+
+10.1177/1177932221999428
 
 ---
 
@@ -509,7 +578,7 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27894&_wpnonce=97d5896303)
+[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27894&_wpnonce=02168e6f44)
 
 ---
 
@@ -521,7 +590,7 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27895&_wpnonce=e540da44f5)
+[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27895&_wpnonce=29e67beadf)
 
 ---
 
