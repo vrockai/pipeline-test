@@ -453,3 +453,75 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ---
 
+## https://www.frontiersin.org/articles/10.3389/fmicb.2020.01388/full
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2020.01388/full)
+
+---
+
+## https://www.frontiersin.org/articles/10.3389/fcimb.2020.576551/full
+
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2020.576551/full)
+
+---
+
+## https://www.sciencedirect.com/science/article/pii/S0306987720333673
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0306987720333673)
+
+---
+
+## https://www.dldjournalonline.com/article/S1590-8658(20)30474-6/fulltext
+
+[Source](https://www.dldjournalonline.com/article/S1590-8658(20)30474-6/fulltext)
+
+---
+
+## https://theconversation.com/a-healthy-microbiome-builds-a-strong-immune-system-that-could-help-defeat-covid-19-145668
+
+[Source](https://theconversation.com/a-healthy-microbiome-builds-a-strong-immune-system-that-could-help-defeat-covid-19-145668)
+
+---
+
+## https://www.medrxiv.org/content/10.1101/2021.01.05.20249061v1
+
+[Source](https://www.medrxiv.org/content/10.1101/2021.01.05.20249061v1)
+
+---
+
+## https://www.newsweek.com/gut-microbes-could-predict-how-seriously-ill-covid-19-patient-might-get-preliminary-study-suggests-1500568
+
+[Source](https://www.newsweek.com/gut-microbes-could-predict-how-seriously-ill-covid-19-patient-might-get-preliminary-study-suggests-1500568)
+
+---
+
+## https://theconversation.com/gut-reaction-how-the-gut-microbiome-may-influence-the-severity-of-covid-19-139094
+
+[Source](https://theconversation.com/gut-reaction-how-the-gut-microbiome-may-influence-the-severity-of-covid-19-139094)
+
+---
+
+## https://www.frontiersin.org/articles/10.3389/fmed.2021.652464/full
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmed.2021.652464/full)
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27894&_wpnonce=97d5896303)
+
+---
+
+## https://www.frontiersin.org/articles/10.3389/fmicb.2021.637430/full
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2021.637430/full)
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27895&_wpnonce=e540da44f5)
+
+---
+
