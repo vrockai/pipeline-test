@@ -351,29 +351,9 @@ Although SARS-CoV-2 can invade the intestine, though its effect on digestion and
 
 ---
 
-## Investigation of Nasal/Oropharyngeal Microbial Community of COVID-19 Patients by 16S rDNA Sequencing.
- 12.03.2021, _M Rueca, A Fontana, B Bartolini, P Piselli, A Mazzarelli, M Copetti, E Binda, F Perri, CEM Gruber, E Nicastri, L Marchioni, G Ippolito, MR Capobianchi, A Di Caro, V Pazienza_
-
-
-_Adult, Aged, Bacteria, COVID-19, Female, Humans, Male, Microbiota, Middle Aged, Nose, Oropharynx, RNA, Ribosomal, 16S, Young Adult_
-Since December 2019, SARS-CoV-2 infection has been still rapidly spreading, resulting in a pandemic, followed by an increasing number of cases in countries throughout the world. The severity of the disease depends on the patient's overall medical condition but no appropriate markers are available to establish the prognosis of the patients. We performed a 16S rRNA gene sequencing, revealing an altered composition of the nasal/oropharyngeal (NOP) microbiota in 21 patients affected by COVID-19, paucisymptomatic or in an Intensive Care Unit (ICU), as compared to 10 controls negative for COVID-19 or eight affected by a different Human Coronavirus (HKU, NL63 and OC43). A significant decrease in Chao1 index was observed when patients affected by COVID-19 (in ICU) were compared to paucisymptomatic. Furthermore, patients who were in ICU, paucisymptomatic or affected by other Coronaviruses all displayed a decrease in the Chao1 index when compared to controls, while Shannon index significantly decreased only in patients under ICU as compared to controls and paucisymptomatic patients. At the phylum level, Deinococcus-Thermus was present only in controls as compared to SARS-CoV-2 patients admitted to ICU, paucisymptomatic or affected by other coronaviruses. Candidatus Saccharibacteria (formerly known as TM7) was strongly increased in negative controls and SARS-CoV-2 paucisymptomatic patients as compared to SARS-CoV-2 ICU patients. Other modifications were observed at a lower taxonomy level. Complete depletion of Bifidobacterium and Clostridium was exclusively observed in ICU SARS-CoV-2 patients, which was the only group characterized by the presence of Salmonella, Scardovia, Serratia and Pectobacteriaceae. In conclusion, our preliminary results showed that nasal/oropharyngeal microbiota profiles of patients affected with SARS-CoV-2 may provide valuable information in order to facilitate the stratification of patients and may open the way to new interventional strategies in order to ameliorate the outcome of the patients.
+## Investigation Of Nasal/Oropharyngeal Microbial Community Of COVID-19 Patients By 16S rDNA Sequencing
 
 [Source](https://doi.org/10.3390/ijerph18042174)
-
-10.3390/ijerph18042174
-
----
-
-## Integrated gut virome and bacteriome dynamics in COVID-19 patients.
- 28.04.2021, _J Cao, C Wang, Y Zhang, G Lei, K Xu, N Zhao, J Lu, F Meng, L Yu, J Yan, C Bai, S Zhang, N Zhang, Y Gong, Y Bi, Y Shi, Z Chen, L Dai, J Wang, P Yang_
-
-
-_Adolescent, Adult, Aged, Aged, 80 and over, Animals, Anti-Bacterial Agents, COVID-19, Case-Control Studies, China, Disease Models, Animal, Dysbiosis, Female, Gastrointestinal Microbiome, Genome, Viral, Humans, Male, Mice, Mice, Inbred C57BL, MicroRNAs, Middle Aged, Transcriptome, Virome_
-SARS-CoV-2 is the cause of the current global pandemic of COVID-19; this virus infects multiple organs, such as the lungs and gastrointestinal tract. The microbiome in these organs, including the bacteriome and virome, responds to infection and might also influence disease progression and treatment outcome. In a cohort of 13 COVID-19 patients in Beijing, China, we observed that the gut virome and bacteriome in the COVID-19 patients were notably different from those of five healthy controls. We identified a bacterial dysbiosis signature by observing reduced diversity and viral shifts in patients, and among the patients, the bacterial/viral compositions were different between patients of different severities, although these differences are not entirely distinguishable from the effect of antibiotics. Severe cases of COVID-19 exhibited a greater abundance of opportunistic pathogens but were depleted for butyrate-producing groups of bacteria compared with mild to moderate cases. We replicated our findings in a mouse COVID-19 model, confirmed virome differences and bacteriome dysbiosis due to SARS-CoV-2 infection, and observed that immune/infection-related genes were differentially expressed in gut epithelial cells during infection, possibly explaining the virome and bacteriome dynamics. Our results suggest that the components of the microbiome, including the bacteriome and virome, are affected by SARS-CoV-2 infections, while their compositional signatures could reflect or even contribute to disease severity and recovery processes.
-
-[Source](https://doi.org/10.1080/19490976.2021.1887722)
-
-10.1080/19490976.2021.1887722
 
 ---
 
@@ -383,33 +363,9 @@ SARS-CoV-2 is the cause of the current global pandemic of COVID-19; this virus i
 
 ---
 
-## Six-month follow-up of gut microbiota richness in patients with COVID-19.
- 09.04.2021, _Y Chen, S Gu, Y Chen, H Lu, D Shi, J Guo, WR Wu, Y Yang, Y Li, KJ Xu, C Ding, R Luo, C Huang, L Yu, M Xu, P Yi, J Liu, JJ Tao, H Zhang, L Lv, B Wang, J Sheng, L Li_
-
-
-
-[Source](https://doi.org/10.1136/gutjnl-2021-324090)
-
-10.1136/gutjnl-2021-324090
-
----
-
 ## Six-month Follow-up Of Gut Microbiota Richness In Patients With COVID-19
 
 [Source](https://doi.org/10.1136/gutjnl-2021-324090)
-
----
-
-## Gut mycobiota alterations in patients with COVID-19 and H1N1 infections and their associations with clinical features.
- 10.05.2021, _L Lv, S Gu, H Jiang, R Yan, Y Chen, Y Chen, R Luo, C Huang, H Lu, B Zheng, H Zhang, J Xia, L Tang, G Sheng, L Li_
-
-
-_Adult, Aged, Bacteria, COVID-19, Dysbiosis, Feces, Female, Fungi, Gastrointestinal Microbiome, Humans, Influenza A Virus, H1N1 Subtype, Influenza, Human, Male, Middle Aged, SARS-CoV-2, Sequence Analysis, DNA_
-The relationship between gut microbes and COVID-19 or H1N1 infections is not fully understood. Here, we compared the gut mycobiota of 67 COVID-19 patients, 35 H1N1-infected patients and 48 healthy controls (HCs) using internal transcribed spacer (ITS) 3-ITS4 sequencing and analysed their associations with clinical features and the bacterial microbiota. Compared to HCs, the fungal burden was higher. Fungal mycobiota dysbiosis in both COVID-19 and H1N1-infected patients was mainly characterized by the depletion of fungi such as Aspergillus and Penicillium, but several fungi, including Candida glabrata, were enriched in H1N1-infected patients. The gut mycobiota profiles in COVID-19 patients with mild and severe symptoms were similar. Hospitalization had no apparent additional effects. In COVID-19 patients, Mucoromycota was positively correlated with Fusicatenibacter, Aspergillus niger was positively correlated with diarrhoea, and Penicillium citrinum was negatively correlated with C-reactive protein (CRP). In H1N1-infected patients, Aspergillus penicilloides was positively correlated with Lachnospiraceae members, Aspergillus was positively correlated with CRP, and Mucoromycota was negatively correlated with procalcitonin. Therefore, gut mycobiota dysbiosis occurs in both COVID-19 patients and H1N1-infected patients and does not improve until the patients are discharged and no longer require medical attention.
-
-[Source](https://doi.org/10.1038/s42003-021-02036-x)
-
-10.1038/s42003-021-02036-x
 
 ---
 
@@ -419,51 +375,15 @@ The relationship between gut microbes and COVID-19 or H1N1 infections is not ful
 
 ---
 
-## Gut microbiome and resistome changes during the first wave of the COVID-19 pandemic in comparison with pre-pandemic travel-related changes.
- 22.05.2021, _Y Peng, D Zhang, T Chen, Y Xia, P Wu, WK Seto, AL Kozyrskyj, BJ Cowling, J Zhao, HM Tun_
-
-
-
-[Source](https://doi.org/10.1093/jtm/taab067)
-
-10.1093/jtm/taab067
-
----
-
 ## Gut Microbiome And Resistome Changes During The First Wave Of The COVID-19 Pandemic in comparison with pre-pandemic travel-related changes
 
 [Source](https://doi.org/10.1093/jtm/taab067)
 
 ---
 
-## Bacterial communities in the rumen and feces of lactating Holstein dairy cows are not affected when fed reduced-fat dried distillers' grains with solubles.
- 21.06.2021, _AS Dankwa, U Humagain, SL Ishaq, CJ Yeoman, S Clark, DC Beitz, ED Testroet_
-
-
-Reduced-fat dried distillers' grains with solubles (RF-DDGSs) are co-products of ethanol production and contain less fat than traditional distillers' grains. The fat in corn is ~91% unsaturated, and it is toxic to rumen microorganisms so it could influence the composition of the rumen microbiome. It has been demonstrated that RF-DDGS is a suitable ration ingredient to support the high-producing dairy cow, and this feedstuff is a promising alternative protein source for lactating dairy cows. The current study aims to better understand the effect of RF-DDGS on the rumen and fecal bacterial composition in lactating dairy cows. Thirty-six multiparous (two or three), mid-lactation Holstein cows (BW = 680 ± 11 kg; 106 ± 27 DIM) were randomly assigned to two groups which were fed a control diet made up of corn, corn silage, and alfalfa hay supplemented with expeller soybean meal or with added RF-DDGS (20% of the DM) containing approximately 6.0% fat. Whole rumen contents (rumen fluid and digesta; esophageal tubing method) and feces (free-catch method) were collected on day 35 of the experimental period, after the 14-d acclimation period. Rumen contents and feces from each cow were used for DNA extraction. The bacterial community composition in rumen and fecal samples was assessed via the 16S rRNA gene by using the Illumina MiSeq sequencing platform. Bacteroidetes, Actinobacteria, and Firmicutes were the most abundant phyla in rumen contents. The fecal microbiota was dominated by the phyla Firmicutes and Bacteroidetes, as well as Actinobacteria and Chloroflexi. RF-DGGS increased bacterial richness, evenness, and Shannon diversity in both rumen and fecal samples and was associated with several taxa that had different abundance in treatment versus control comparisons. The RF-DGGS, however, did not significantly alter the bacterial community in the rumen or feces. In general, these findings demonstrated that dietary inclusion of RF-DDGS did not impose any serious short-term (within 30 days) health or production consequences, as would be expected. With this study, we present further evidence that inclusion of 20% (DM basis) RF-DDGS in the diet of lactating dairy cows can be done without consequence on the microbiome of the rumen.
-
-[Source](https://doi.org/10.3389/fnut.2021.638825)
-
-10.1016/j.animal.2021.100281
-
----
-
 ## Gut Microbiota May Not Be Fully Restored In Recovered COVID-19 Patients After 3-Month Recovery
 
 [Source](https://doi.org/10.3389/fnut.2021.638825)
-
----
-
-## The gut microbiome of COVID-19 recovered patients returns to uninfected status in a minority-dominated United States cohort.
- 21.06.2021, _RC Newsome, J Gauthier, MC Hernandez, GE Abraham, TO Robinson, HB Williams, M Sloan, A Owings, H Laird, T Christian, Y Pride, KJ Wilson, M Hasan, A Parker, M Senitko, SC Glover, RZ Gharaibeh, C Jobin_
-
-
-_Aged, Bacteria, COVID-19, Cohort Studies, Feces, Female, Gastrointestinal Microbiome, Humans, Male, Middle Aged, RNA, Ribosomal, 16S, RNA, Viral, SARS-CoV-2, Severity of Illness Index, United States_
-To investigate the relationship between intestinal microbiota and SARS-CoV-2-mediated pathogenicity in a United States, majority African American cohort. We prospectively collected fecal samples from 50 SARS-CoV-2 infected patients, 9 SARS-CoV-2 recovered patients, and 34 uninfected subjects seen by the hospital with unrelated respiratory medical conditions (controls). 16S rRNA sequencing and qPCR analysis was performed on fecal DNA/RNA. The fecal microbial composition was found to be significantly different between SARS-CoV-2 patients and controls (PERMANOVA FDR-P = .004), independent of antibiotic exposure. Peptoniphilus, Corynebacterium and Campylobacter were identified as the three most significantly enriched genera in COVID-19 patients compared to controls. Actively infected patients were also found to have a different gut microbiota than recovered patients (PERMANOVA FDR-P = .003), and the most enriched genus in infected patients was Campylobacter, with Agathobacter and Faecalibacterium being enriched in the recovered patients. No difference in microbial community structure between recovered patients and uninfected controls was observed, nor a difference in alpha diversity between the three groups. 24 of the 50 COVID-19 patients (48%) tested positive via RT-qPCR for fecal SARS-CoV-2 RNA. A significant difference in gut microbial composition between SARS-CoV-2 positive and negative samples was observed, with Klebsiella and Agathobacter being enriched in the positive cohort. No significant associations between microbiome composition and disease severity was found. The intestinal microbiota is sensitive to the presence of SARS-CoV-2, with increased relative abundance of genera (Campylobacter, Klebsiella) associated with gastrointestinal (GI) disease. Further studies are needed to investigate the functional impact of SARS-CoV-2 on GI health.
-
-[Source](https://doi.org/10.1053/j.gastro.2021.05.006)
-
-10.1080/19490976.2021.1926840
 
 ---
 
@@ -645,18 +565,6 @@ Over the last decade, it has become increasingly apparent that the microbiome is
 
 ---
 
-## The COVID-19 Vaccine and the Black Community: Addressing the Justified Questions.
- 18.06.2021, _CT Laurencin, H Valantine, C Yancy, CP Jones, C Bright_
-
-
-Established in 2019, the Roundtable on Black Men and Black Women in STEM convenes a broad array of stakeholders that focus on the barriers and opportunities encountered by Black men and Black women as they navigate the pathways from K-12 and postsecondary education to careers in science, engineering, and medicine. Through meetings, public workshops, and publications, the Roundtable advances discussions that raise awareness and/or highlight promising practices for increasing the representation, retention, and inclusiveness of Black men and Black women in STEM. In keeping with the charge of the Roundtable, Roundtable leadership and leaders of the COVID-19 action group conducted an informational video in January 2021 to provide an in-depth discussion around common, justified questions in the Black community pertaining to the COVID-19 vaccine. The manuscript addresses selected questions and answers relating to the different types of COVID-19 vaccines and their development, administration, and effectiveness. Discussion focuses on addressing vaccine misconceptions, misinformation, mistrust, and hesitancy; challenges in prioritizing vaccinations in diverse populations and communities; dealing with racism in medicine and public health; optimizing communication and health education; and offering practical strategies and recommendations for improving vaccine acceptance by clinicians, health care workers, and the Black community. This manuscript summarizes the content in the YouTube video ( https://www.youtube.com/watch?v=wdEC9c48A_k ).
-
-[Source](https://www.medrxiv.org/content/10.1101/2021.01.05.20249061v1)
-
-10.1007/s40615-021-01082-9
-
----
-
 ## https://www.medrxiv.org/content/10.1101/2021.01.05.20249061v1
 
 [Source](https://www.medrxiv.org/content/10.1101/2021.01.05.20249061v1)
@@ -683,7 +591,7 @@ Established in 2019, the Roundtable on Black Men and Black Women in STEM convene
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27894&_wpnonce=02168e6f44)
+[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27894&_wpnonce=7c6d7910a2)
 
 ---
 
@@ -693,21 +601,9 @@ Established in 2019, the Roundtable on Black Men and Black Women in STEM convene
 
 ---
 
-## Sulfurized Polyacrylonitrile for High-Performance Lithium-Sulfur Batteries: In-Depth Computational Approach Revealing Multiple Sulfur's Reduction Pathways and Hidden Li+ Storage Mechanisms for Extra Discharge Capacity.
- 14.01.2021, _S Perez Beltran, PB Balbuena_
-
-
-Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon (SPAN) promises improved electrochemical performance for lithium-sulfur batteries, based on its compatibility with carbonate solvents and ability to prevent self-discharge and shuttle effect. However, a complete understanding of the SPAN's lithiation mechanism is still missing because its structural features vary widely with synthesis conditions, and its electrochemical performance deviates from elemental sulfur. This study continues our research on the elucidation of the SPAN's structural characteristics and lithiation mechanisms via computational approaches. Our models reproduce most experimental data regarding carbon's graphitization level and conjugated ordering, sulfur-carbon covalent bonding, sulfur loading, and elemental composition. Our simulations emulate the discharge voltage observed in experiments for the first discharge, which reveals that sulfur follows multiple reduction pathways based on its interaction with the carbon backbone. Sulfur reduction takes place above 1.0 V vs Li/Li+ mostly in the SPAN-like material, with no long-chain lithium polysulfide formation. Below 1.0 V vs Li/Li+, the backbone's electrochemical activity occurs via multiple C-Li and N-Li interactions, mostly with edge carbon atoms and pyridinic nitrogen. Moreover, we identify Li+ binding sites throughout the graphitized backbone that might lead to prohibited energy costs for Li+ deintercalation, which may explain the irreversible capacity loss between the first and second discharges. This work improves understanding of lithiation mechanisms in sulfurized carbon, which is useful for rationally designing SPAN synthesis pathways tailored to increase sulfur loading and enhanced electrochemical performance.
-
-[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27895&_wpnonce=29e67beadf)
-
-10.1021/acsami.0c17537
-
----
-
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27895&_wpnonce=29e67beadf)
+[Source](https://microbiomedigest.com/2021/06/21/microbiome-and-covid19-some-research-highlights/?like_comment=27895&_wpnonce=9f21138a25)
 
 ---
 
