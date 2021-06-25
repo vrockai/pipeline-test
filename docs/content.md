@@ -100,18 +100,6 @@
 
 ---
 
-## A newly identified protein from Akkermansia muciniphila stimulates GLP-1 secretion.
- 02.06.2021, _PD Cani, C Knauf_
-
-
-Akkermansia muciniphila is a gut commensal known to improve host metabolism. The outer membrane protein Amuc_1100 has been shown to partially replicate these beneficial effects. Here, Yoon et al. (2021) have identified a novel protein (P9) secreted by A. muciniphila that stimulates GLP-1 secretion, thereby adding new insight to the biomolecule era to treat metabolic diseases.
-
-[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
-
-10.1016/j.cmet.2021.05.004
-
----
-
 ## A newly identified protein from <em>Akkermansia muciniphila </em>stimulates GLP-1 secretion 
 
 [Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
@@ -124,27 +112,9 @@ Akkermansia muciniphila is a gut commensal known to improve host metabolism. The
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria.
- 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
-
-
-Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
+## Dispersal strategies shape persistence and evolution of human gut bacteria
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312821002365)
-
-10.1016/j.chom.2021.05.008
-
----
-
-## Urinary Microbiome: Yin and Yang of the Urinary Tract.
- 05.06.2021, _V Perez-Carrasco, A Soriano-Lerma, M Soriano, J Gutiérrez-Fernández, JA Garcia-Salcedo_
-
-
-The application of next generation sequencing techniques has allowed the characterization of the urinary tract microbiome and has led to the rejection of the pre-established concept of sterility in the urinary bladder. Not only have microbial communities in the urinary tract been implicated in the maintenance of health but alterations in their composition have also been associated with different urinary pathologies, such as urinary tract infections (UTI). Therefore, the study of the urinary microbiome in healthy individuals, as well as its involvement in disease through the proliferation of opportunistic pathogens, could open a potential field of study, leading to new insights into prevention, diagnosis and treatment strategies for urinary pathologies. In this review we present an overview of the current state of knowledge about the urinary microbiome in health and disease, as well as its involvement in the development of new therapeutic strategies.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.617002/full)
-
-10.3389/fcimb.2021.617002
 
 ---
 
@@ -220,9 +190,15 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Microbiomes attached to fresh perennial ryegrass are temporally resilient and adapt to changing ecological niches 
+## Microbiomes attached to fresh perennial ryegrass are temporally resilient and adapt to changing ecological niches.
+ 24.06.2021, _SA Huws, JE Edwards, W Lin, F Rubino, M Alston, D Swarbreck, S Caim, PR Stevens, J Pachebat, MY Won, LB Oyama, CJ Creevey, AH Kingston-Smith_
+
+
+Gut microbiomes, such as the rumen, greatly influence host nutrition due to their feed energy-harvesting capacity. We investigated temporal ecological interactions facilitating energy harvesting at the fresh perennial ryegrass (PRG)-biofilm interface in the rumen using an in sacco approach and prokaryotic metatranscriptomic profiling.
 
 [Source](https://link.springer.com/epdf/10.1186/s40168-021-01087-w)
+
+10.1186/s40168-021-01087-w
 
 ---
 
@@ -232,9 +208,15 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## GUNC: detection of chimerism and contamination in prokaryotic genomes
+## GUNC: detection of chimerism and contamination in prokaryotic genomes.
+ 18.06.2021, _A Orakov, A Fullam, LP Coelho, S Khedkar, D Szklarczyk, DR Mende, TSB Schmidt, P Bork_
+
+
+Genomes are critical units in microbiology, yet ascertaining quality in prokaryotic genome assemblies remains a formidable challenge. We present GUNC (the Genome UNClutterer), a tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome's full complement of genes. GUNC complements existing approaches by targeting previously underdetected types of contamination: we conservatively estimate that 5.7% of genomes in GenBank, 5.2% in RefSeq, and 15-30% of pre-filtered "high-quality" metagenome-assembled genomes in recent studies are undetected chimeras. GUNC provides a fast and robust tool to substantially improve prokaryotic genome quality.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0)
+
+10.1186/s13059-021-02393-0
 
 ---
 
@@ -244,9 +226,15 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Open challenges for microbial network construction and analysis
+## Open challenges for microbial network construction and analysis.
+ 10.06.2021, _K Faust_
+
+
+Microbial network construction is a popular explorative data analysis technique in microbiome research. Although a large number of microbial network construction tools has been developed to date, there are several issues concerning the construction and interpretation of microbial networks that have received less attention. The purpose of this perspective is to draw attention to these underexplored challenges of microbial network construction and analysis.
 
 [Source](https://www.nature.com/articles/s41396-021-01027-4)
+
+10.1038/s41396-021-01027-4
 
 ---
 
