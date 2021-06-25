@@ -112,15 +112,9 @@
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria.
- 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
-
-
-Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
+## Dispersal strategies shape persistence and evolution of human gut bacteria
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312821002365)
-
-10.1016/j.chom.2021.05.008
 
 ---
 
@@ -220,15 +214,9 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## GUNC: detection of chimerism and contamination in prokaryotic genomes.
- 18.06.2021, _A Orakov, A Fullam, LP Coelho, S Khedkar, D Szklarczyk, DR Mende, TSB Schmidt, P Bork_
-
-
-Genomes are critical units in microbiology, yet ascertaining quality in prokaryotic genome assemblies remains a formidable challenge. We present GUNC (the Genome UNClutterer), a tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome's full complement of genes. GUNC complements existing approaches by targeting previously underdetected types of contamination: we conservatively estimate that 5.7% of genomes in GenBank, 5.2% in RefSeq, and 15-30% of pre-filtered "high-quality" metagenome-assembled genomes in recent studies are undetected chimeras. GUNC provides a fast and robust tool to substantially improve prokaryotic genome quality.
+## GUNC: detection of chimerism and contamination in prokaryotic genomes
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0)
-
-10.1186/s13059-021-02393-0
 
 ---
 
@@ -238,15 +226,9 @@ Genomes are critical units in microbiology, yet ascertaining quality in prokaryo
 
 ---
 
-## Open challenges for microbial network construction and analysis.
- 10.06.2021, _K Faust_
-
-
-Microbial network construction is a popular explorative data analysis technique in microbiome research. Although a large number of microbial network construction tools has been developed to date, there are several issues concerning the construction and interpretation of microbial networks that have received less attention. The purpose of this perspective is to draw attention to these underexplored challenges of microbial network construction and analysis.
+## Open challenges for microbial network construction and analysis
 
 [Source](https://www.nature.com/articles/s41396-021-01027-4)
-
-10.1038/s41396-021-01027-4
 
 ---
 
