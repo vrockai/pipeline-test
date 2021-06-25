@@ -100,6 +100,18 @@
 
 ---
 
+## A newly identified protein from Akkermansia muciniphila stimulates GLP-1 secretion.
+ 02.06.2021, _PD Cani, C Knauf_
+
+
+Akkermansia muciniphila is a gut commensal known to improve host metabolism. The outer membrane protein Amuc_1100 has been shown to partially replicate these beneficial effects. Here, Yoon et al. (2021) have identified a novel protein (P9) secreted by A. muciniphila that stimulates GLP-1 secretion, thereby adding new insight to the biomolecule era to treat metabolic diseases.
+
+[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
+
+10.1016/j.cmet.2021.05.004
+
+---
+
 ## A newly identified protein from <em>Akkermansia muciniphila </em>stimulates GLP-1 secretion 
 
 [Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
@@ -112,9 +124,15 @@
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria
+## Dispersal strategies shape persistence and evolution of human gut bacteria.
+ 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
+
+
+Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312821002365)
+
+10.1016/j.chom.2021.05.008
 
 ---
 
