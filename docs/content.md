@@ -370,6 +370,18 @@ Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at t
 
 ---
 
+## New evaluation methods of read mapping by 17 aligners on simulated and empirical NGS data: an updated comparison of DNA- and RNA-Seq data from Illumina and Ion Torrent technologies.
+ 23.06.2021, _L Donato, C Scimone, C Rinaldi, R D'Angelo, A Sidoti_
+
+
+During the last (15) years, improved omics sequencing technologies have expanded the scale and resolution of various biological applications, generating high-throughput datasets that require carefully chosen software tools to be processed. Therefore, following the sequencing development, bioinformatics researchers have been challenged to implement alignment algorithms for next-generation sequencing reads. However, nowadays selection of aligners based on genome characteristics is poorly studied, so our benchmarking study extended the "state of art" comparing 17 different aligners. The chosen tools were assessed on empirical human DNA- and RNA-Seq data, as well as on simulated datasets in human and mouse, evaluating a set of parameters previously not considered in such kind of benchmarks. As expected, we found that each tool was the best in specific conditions. For Ion Torrent single-end RNA-Seq samples, the most suitable aligners were CLC and BWA-MEM, which reached the best results in terms of efficiency, accuracy, duplication rate, saturation profile and running time. About Illumina paired-end osteomyelitis transcriptomics data, instead, the best performer algorithm, together with the already cited CLC, resulted Novoalign, which excelled in accuracy and saturation analyses. Segemehl and DNASTAR performed the best on both DNA-Seq data, with Segemehl particularly suitable for exome data. In conclusion, our study could guide users in the selection of a suitable aligner based on genome and transcriptome characteristics. However, several other aspects, emerged from our work, should be considered in the evolution of alignment research area, such as the involvement of artificial intelligence to support cloud computing and mapping to multiple genomes.
+
+[Source](https://biata2021.spbu.ru/)
+
+10.1007/s00521-021-06188-z
+
+---
+
 ## BiATA2021 Bioinformatics: from Algorithms to Applications
 
 [Source](https://biata2021.spbu.ru/)
@@ -439,18 +451,6 @@ The way health professionals consume that informal professional education is cha
 ## #SciArt
 
 [Source](https://twitter.com/hashtag/SciArt?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## EPIDEMIOLOGIC AND PUBLIC HEALTH SIGNIFICANCE OF TOXOPLASMA GONDII INFECTIONS IN BEARS (URSUS SPP.): A 50 YEAR REVIEW INCLUDING RECENT GENETIC EVIDENCE.
- 24.06.2021, _JP Dubey, FHA Murata, CK Cerqueira-Cézar, OCH Kwok, C Su_
-
-
-Toxoplasma gondii infections are common in humans and animals worldwide. The present review summarizes worldwide information on the prevalence of clinical and subclinical infections, epidemiology, and genetic diversity of T. gondii infections in bears. Seroprevalence estimates of T. gondii in black bears (Ursus americanus) are one of the highest of all animals. In Pennsylvania, seroprevalence is around 80% and has remained stable for the past 4 decades. Approximately 3,500 bears are hunted yearly in Pennsylvania alone. The validity of different serological tests is discussed based on bioassay and serological comparisons. Seroprevalence in grizzly bears (Ursus arctos) is lower than that in black bears. Even polar bears (Ursus maritimus) are infected; infections in these animals are ecologically interesting because of the absence of felids in the Arctic. Clinical toxoplasmosis in bears is rare and not documented in adult animals. The few reports of fatal toxoplasmosis in young bears need confirmation. Viable T. gondii has been isolated from black bears and a grizzly bear. The genetic diversity of isolates based on DNA from viable T. gondii isolates is discussed. Genetic typing of a total of 26 T. gondii samples from bears using 10 PCR-RFLP markers revealed 8 PCR-RFLP ToxoDB genotypes: #1 (clonal type II) in 3 samples, #2 (clonal type III) in 8 samples, #4 (haplogroup 12) in 3 samples, #5 (haplogroup 12) in 3 samples, #74 in 5 samples, #90 in 1 sample, #147 in 1 sample, and #216 in 2 samples. These results suggest relatively high genetic diversity of T. gondii in bears. Overall, T. gondii isolates in bears range from those circulating in a domestic cycle (genotypes #1 and #2) to those mainly associated with wildlife (such as genotypes #4 and #5, together known as haplogroup 12). A patient who acquired clinical Trichinella spiralis infection after eating undercooked bear meat also acquired T. gondii infection. Freezing of infected meat kills T. gondii, including the strains isolated from bears.
-
-[Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
-
-10.1645/21-16
 
 ---
 
