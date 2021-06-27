@@ -100,18 +100,6 @@
 
 ---
 
-## A newly identified protein from Akkermansia muciniphila stimulates GLP-1 secretion.
- 02.06.2021, _PD Cani, C Knauf_
-
-
-Akkermansia muciniphila is a gut commensal known to improve host metabolism. The outer membrane protein Amuc_1100 has been shown to partially replicate these beneficial effects. Here, Yoon et al. (2021) have identified a novel protein (P9) secreted by A. muciniphila that stimulates GLP-1 secretion, thereby adding new insight to the biomolecule era to treat metabolic diseases.
-
-[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
-
-10.1016/j.cmet.2021.05.004
-
----
-
 ## A newly identified protein from <em>Akkermansia muciniphila </em>stimulates GLP-1 secretion 
 
 [Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
@@ -274,32 +262,9 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Safety and Feasibility of a Protocolized Daily Assessment of Readiness for Liberation from Venovenous Extracorporeal Membrane Oxygenation.
- 24.06.2021, _WD Gannon, JW Stokes, S Bloom, W Sherrill, M Bacchetta, TW Rice, MW Semler, JD Casey_
-
-
-Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at the earliest and safest possible time may improve outcomes and reduce cost. Yet, there are no prospective studies comparing weaning strategies for liberation from ECMO.
-
-[Source](https://twitter.com/svetlana_up/status/1404769552551104514?ref_src=twsrc%5Etfw)
-
-10.1016/j.chest.2021.05.066
-
----
-
 ## June 15, 2021
 
 [Source](https://twitter.com/svetlana_up/status/1404769552551104514?ref_src=twsrc%5Etfw)
-
----
-
-## XXXIIIrd International Workshop on Helicobacter &amp; Microbiota in Inflammation &amp; Cancer, Virtual Conference, 12 September 2020.
- 15.09.2020, __
-
-
-
-[Source](https://www.microbiome-vif.org/)
-
-10.1111/hel.12745
 
 ---
 
