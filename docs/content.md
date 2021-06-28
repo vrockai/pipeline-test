@@ -28,18 +28,6 @@
 
 ---
 
-## Addressing ethnic disparities in imaging utilization and clinical outcomes for COVID-19.
- 26.06.2021, _LH Larsen, B Desai, SY Cen, D Stahl, X Lei, A Gholamrezanezhad, M Yamashita_
-
-
-Racial and ethnic disparities have exacerbated during the COVID-19 pandemic as the healthcare system is overwhelmed. While Hispanics are disproportionately affected by COVID-19, little is known about ethnic disparities in the hospital settings. This study investigates imaging utilization and clinical outcomes between Hispanic and non-Hispanic COVID-19 patients in the Emergency Department (ED) and during hospitalization.
-
-[Source](https://twitter.com/merenbey/status/1407337780800364546?ref_src=twsrc%5Etfw)
-
-10.1016/j.clinimag.2021.06.018
-
----
-
 ## June 22, 2021
 
 [Source](https://twitter.com/merenbey/status/1407337780800364546?ref_src=twsrc%5Etfw)
@@ -109,18 +97,6 @@ Racial and ethnic disparities have exacerbated during the COVID-19 pandemic as t
 ## June 10, 2021
 
 [Source](https://twitter.com/Falk_tw/status/1402886861908021248?ref_src=twsrc%5Etfw)
-
----
-
-## A newly identified protein from Akkermansia muciniphila stimulates GLP-1 secretion.
- 02.06.2021, _PD Cani, C Knauf_
-
-
-Akkermansia muciniphila is a gut commensal known to improve host metabolism. The outer membrane protein Amuc_1100 has been shown to partially replicate these beneficial effects. Here, Yoon et al. (2021) have identified a novel protein (P9) secreted by A. muciniphila that stimulates GLP-1 secretion, thereby adding new insight to the biomolecule era to treat metabolic diseases.
-
-[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
-
-10.1016/j.cmet.2021.05.004
 
 ---
 
@@ -379,18 +355,6 @@ Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at t
 ## here
 
 [Source](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
-
----
-
-## New evaluation methods of read mapping by 17 aligners on simulated and empirical NGS data: an updated comparison of DNA- and RNA-Seq data from Illumina and Ion Torrent technologies.
- 23.06.2021, _L Donato, C Scimone, C Rinaldi, R D'Angelo, A Sidoti_
-
-
-During the last (15) years, improved omics sequencing technologies have expanded the scale and resolution of various biological applications, generating high-throughput datasets that require carefully chosen software tools to be processed. Therefore, following the sequencing development, bioinformatics researchers have been challenged to implement alignment algorithms for next-generation sequencing reads. However, nowadays selection of aligners based on genome characteristics is poorly studied, so our benchmarking study extended the "state of art" comparing 17 different aligners. The chosen tools were assessed on empirical human DNA- and RNA-Seq data, as well as on simulated datasets in human and mouse, evaluating a set of parameters previously not considered in such kind of benchmarks. As expected, we found that each tool was the best in specific conditions. For Ion Torrent single-end RNA-Seq samples, the most suitable aligners were CLC and BWA-MEM, which reached the best results in terms of efficiency, accuracy, duplication rate, saturation profile and running time. About Illumina paired-end osteomyelitis transcriptomics data, instead, the best performer algorithm, together with the already cited CLC, resulted Novoalign, which excelled in accuracy and saturation analyses. Segemehl and DNASTAR performed the best on both DNA-Seq data, with Segemehl particularly suitable for exome data. In conclusion, our study could guide users in the selection of a suitable aligner based on genome and transcriptome characteristics. However, several other aspects, emerged from our work, should be considered in the evolution of alignment research area, such as the involvement of artificial intelligence to support cloud computing and mapping to multiple genomes.
-
-[Source](https://biata2021.spbu.ru/)
-
-10.1007/s00521-021-06188-z
 
 ---
 
