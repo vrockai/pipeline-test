@@ -166,18 +166,6 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Safety and Feasibility of a Protocolized Daily Assessment of Readiness for Liberation from Venovenous Extracorporeal Membrane Oxygenation.
- 24.06.2021, _WD Gannon, JW Stokes, S Bloom, W Sherrill, M Bacchetta, TW Rice, MW Semler, JD Casey_
-
-
-Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at the earliest and safest possible time may improve outcomes and reduce cost. Yet, there are no prospective studies comparing weaning strategies for liberation from ECMO.
-
-[Source](https://twitter.com/SarahLebeer/status/1408056897198985223?ref_src=twsrc%5Etfw)
-
-10.1016/j.chest.2021.05.066
-
----
-
 ## June 24, 2021
 
 [Source](https://twitter.com/SarahLebeer/status/1408056897198985223?ref_src=twsrc%5Etfw)
@@ -190,39 +178,21 @@ Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at t
 
 ---
 
-## Life History Recorded in the Vagino-cervical Microbiome Along with Multi-omics.
- 12.06.2021, _Z Jie, C Chen, L Hao, F Li, L Song, X Zhang, J Zhu, L Tian, X Tong, K Cai, Z Zhang, Y Ju, X Yu, Y Li, H Zhou, H Lu, X Qiu, Q Li, Y Liao, D Zhou, H Lian, Y Zuo, X Chen, W Rao, Y Ren, Y Wang, J Zi, R Wang, N Liu, J Wu, W Zhang, X Liu, Y Zong, W Liu, L Xiao, Y Hou, X Xu, H Yang, J Wang, K Kristiansen, H Jia_
-
-
-The vagina contains at least a billion microbial cells, dominated by lactobacilli. Here we perform metagenomic shotgun sequencing on cervical and fecal samples from a cohort of 516 Chinese women of reproductive age, and cervical, fecal, and salivary samples from a second cohort of 632 women. Factors such as pregnancy, delivery histories, cesarean section, and breast-feeding were all more important than menstrual cycle in shaping the microbiome, and such information would be necessary before trying to interpret differences between vagino-cervical microbiome data. Greater proportion of Bifidobacterium breve was seen with older age at sexual debut. The relative abundance of lactobacilli especially Lactobacillus crispatus was negatively associated with pregnancy history. Potential markers for lack of menstrual regularity, heavy flow, dysmenorrhea, and contraceptives were also identified. Lactobacilli were rare during breast-feeding or post-menopause. Other features such as mood fluctuations and facial speckles could potentially be predicted from the vagino-cervical microbiome. Gut and salivary microbiome, plasma vitamins, metals, amino acids, and hormones showed associations with the vagino-cervical microbiome. Our results offer an unprecedented glimpse into the microbiota of the female reproductive tract and call for international collaborations to better understand its long-term health impact other than in the settings of infection or pre-term birth.
+## Life History Recorded in the Vagino-cervical Microbiome Along with Multi-omics
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1672022921000991)
 
-10.1016/j.gpb.2021.01.005
-
 ---
 
-## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection.
- 21.06.2021, _H Onywera, J Anejo-Okopi, LM Mwapagha, J Okendo, AL Williamson_
-
-
-Mounting evidence suggests that Lactobacillus species may not necessarily be the sine qua non of healthy cervicovaginal microbiota (CVM), especially among reproductive-age African women. A majority of African women have high-diversity non-Lactobacillus-dominated CVM whose bacterial functions remain poorly characterized. Functional profiling of the CVM is vital for investigating human host-microbiota interactions in health and disease. Here, we investigated the functional potential of L. iners-dominated and high-diversity non-Lactobacillus-dominated CVM of 75 African women with and without bacterial vaginosis (BV) and high-risk human papillomavirus (HR-HPV) infection. Functional contents were predicted using PICRUSt. Microbial taxonomic diversity, BV, and HR-HPV infection statuses were correlated with the inferred functional composition of the CVM. Differentially abundant inferred functional categories were identified using linear discriminant analysis (LDA) effect size (LEfSe) (p-value &lt;0.05 and logarithmic LDA score &gt;2.0). Of the 75 women, 56 (74.7%), 35 (46.7%), and 29 (38.7%) had high-diversity non-Lactobacillus-dominated CVM, BV, and HR-HPV infection, respectively. Alpha diversity of the inferred functional contents (as measured by Shannon diversity index) was significantly higher in women with high-diversity non-Lactobacillus-dominated CVM and BV than their respective counterparts (H statistic ≥11.5, q-value &lt;0.001). Ordination of the predicted functional metagenome content (using Bray-Curtis distances) showed that the samples segregated according to the extent of microbial taxonomic diversity and BV (pseudo-F statistic ≥19.6, q-value = 0.001) but not HR-HPV status (pseudo-F statistic = 1.7, q-value = 0.159). LEfSe analysis of the inferred functional categories revealed that transport systems (including ABC transporters) and transcription factors were enriched in high-diversity CVM. Interestingly, transcription factors and sporulation functional categories were uniquely associated with high-diversity CVM, BV, and HR-HPV infection. Our predictive functional analysis reveals features unique to high-diversity CVM, BV and HR-HPV infections. Such features may represent important biomarkers of BV and HR-HPV infection. Our findings require proof-of-concept functional studies to examine the relevance of these potential biomarkers in women's reproductive health and disease.
+## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34143825/)
 
-10.1371/journal.pone.0253218
-
 ---
 
-## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis.
- 22.06.2021, _D Ruiz-Perez, MS Coudray, B Colbert, K Krupp, H Kumari, V Stebliankin, K Mathee, RL Cook, J Schwebke, G Narasimhan, P Madhivanan_
-
-
-Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to as bacterial vaginosis (BV). The dysbiosis is associated with an increased risk for acquisition of sexually transmitted infections. Women with symptomatic BV are treated with oral metronidazole (MET), but its effectiveness remains to be elucidated. This study used whole-genome sequencing (WGS) to determine the changes in the microbiota among women treated with MET. WGS was conducted on DNA obtained from 20 vaginal swabs collected at four time points over 12 months from five randomly selected African American (AA) women. The baseline visit included all women who were diagnosed with asymptomatic BV and were untreated. All subjects were tested subsequently once every 2 months and received a course of MET for each BV episode during the 12 months. The BV status was classified according to Nugent scores (NSs) of vaginal smears. The microbial and resistome profiles were analysed along with the sociodemographic metadata. Despite treatment, none of the five participants reverted to normal vaginal flora - two were consistently positive for BV, and the rest experienced episodic cases of BV. WGS analyses showed Gardnerella spp. as the most abundant organism. After treatment with MET, there was an observed decline of Lactobacillus and Prevotella species. One participant had a healthy vaginal microbiota based on NS at one follow-up time point. Resistance genes including tetM and lscA were detected. Though limited in subjects, this study shows specific microbiota changes with treatment, presence of many resistant genes in their microbiota, and recurrence and persistence of BV despite MET treatment. Thus, MET may not be an effective treatment option for asymptomatic BV, and whole metagenome sequence would better inform the choice of antibiotics.
+## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis
 
 [Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000226)
-
-10.1099/acmi.0.000226
 
 ---
 
@@ -238,16 +208,9 @@ Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to 
 
 ---
 
-## Microbiomes attached to fresh perennial ryegrass are temporally resilient and adapt to changing ecological niches.
- 25.06.2021, _SA Huws, JE Edwards, W Lin, F Rubino, M Alston, D Swarbreck, S Caim, PR Stevens, J Pachebat, MY Won, LB Oyama, CJ Creevey, AH Kingston-Smith_
-
-
-_Animals, Gastrointestinal Microbiome, Humans, Lolium, Microbiota, Plant Breeding, Rumen_
-Gut microbiomes, such as the rumen, greatly influence host nutrition due to their feed energy-harvesting capacity. We investigated temporal ecological interactions facilitating energy harvesting at the fresh perennial ryegrass (PRG)-biofilm interface in the rumen using an in sacco approach and prokaryotic metatranscriptomic profiling.
+## Microbiomes attached to fresh perennial ryegrass are temporally resilient and adapt to changing ecological niches 
 
 [Source](https://link.springer.com/epdf/10.1186/s40168-021-01087-w)
-
-10.1186/s40168-021-01087-w
 
 ---
 
@@ -257,15 +220,9 @@ Gut microbiomes, such as the rumen, greatly influence host nutrition due to thei
 
 ---
 
-## GUNC: detection of chimerism and contamination in prokaryotic genomes.
- 18.06.2021, _A Orakov, A Fullam, LP Coelho, S Khedkar, D Szklarczyk, DR Mende, TSB Schmidt, P Bork_
-
-
-Genomes are critical units in microbiology, yet ascertaining quality in prokaryotic genome assemblies remains a formidable challenge. We present GUNC (the Genome UNClutterer), a tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome's full complement of genes. GUNC complements existing approaches by targeting previously underdetected types of contamination: we conservatively estimate that 5.7% of genomes in GenBank, 5.2% in RefSeq, and 15-30% of pre-filtered "high-quality" metagenome-assembled genomes in recent studies are undetected chimeras. GUNC provides a fast and robust tool to substantially improve prokaryotic genome quality.
+## GUNC: detection of chimerism and contamination in prokaryotic genomes
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0)
-
-10.1186/s13059-021-02393-0
 
 ---
 
@@ -275,15 +232,9 @@ Genomes are critical units in microbiology, yet ascertaining quality in prokaryo
 
 ---
 
-## Open challenges for microbial network construction and analysis.
- 10.06.2021, _K Faust_
-
-
-Microbial network construction is a popular explorative data analysis technique in microbiome research. Although a large number of microbial network construction tools has been developed to date, there are several issues concerning the construction and interpretation of microbial networks that have received less attention. The purpose of this perspective is to draw attention to these underexplored challenges of microbial network construction and analysis.
+## Open challenges for microbial network construction and analysis
 
 [Source](https://www.nature.com/articles/s41396-021-01027-4)
-
-10.1038/s41396-021-01027-4
 
 ---
 
@@ -311,32 +262,9 @@ Microbial network construction is a popular explorative data analysis technique 
 
 ---
 
-## Safety and Feasibility of a Protocolized Daily Assessment of Readiness for Liberation from Venovenous Extracorporeal Membrane Oxygenation.
- 24.06.2021, _WD Gannon, JW Stokes, S Bloom, W Sherrill, M Bacchetta, TW Rice, MW Semler, JD Casey_
-
-
-Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at the earliest and safest possible time may improve outcomes and reduce cost. Yet, there are no prospective studies comparing weaning strategies for liberation from ECMO.
-
-[Source](https://twitter.com/svetlana_up/status/1404769552551104514?ref_src=twsrc%5Etfw)
-
-10.1016/j.chest.2021.05.066
-
----
-
 ## June 15, 2021
 
 [Source](https://twitter.com/svetlana_up/status/1404769552551104514?ref_src=twsrc%5Etfw)
-
----
-
-## XXXIIIrd International Workshop on Helicobacter &amp; Microbiota in Inflammation &amp; Cancer, Virtual Conference, 12 September 2020.
- 15.09.2020, __
-
-
-
-[Source](https://www.microbiome-vif.org/)
-
-10.1111/hel.12745
 
 ---
 
@@ -370,19 +298,6 @@ Decannulation from venovenous extracorporeal membrane oxygenation (VV-ECMO) at t
 
 ---
 
-## What electronic information resources do physiotherapists prefer to use to support their CPD?
- 27.04.2021, _NJ Clode, B Darlow, J Rouse, M Perry_
-
-
-_Cross-Sectional Studies, Electronics, Humans, New Zealand, Physical Therapists, Surveys and Questionnaires_
-The way health professionals consume that informal professional education is changing. Physiotherapists are relying more on using electronic sources of information, including social media, to answer clinical questions. This study aims to identify the sources of electronic information physiotherapists in New Zealand use within their informal professional education.
-
-[Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
-
-10.1002/pri.1881
-
----
-
 ## EMBARK Webinars
 
 [Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
@@ -392,17 +307,6 @@ The way health professionals consume that informal professional education is cha
 ## Writing and Publishing Scientific Papers: A Primer for the Non-English Speaker
 
 [Source](https://www.openbookpublishers.com/10.11647/OBP.0235.pdf)
-
----
-
-## From Surgeon-Scientist, to Mentor, to Department Chair: 10 Years after Receiving the Jacobson Promising Investigator Award.
- 24.06.2021, _JB Dimick_
-
-
-
-[Source](https://lifeology.io/from-scientist-to-sciartist/)
-
-10.1016/j.jamcollsurg.2021.06.008
 
 ---
 
@@ -430,18 +334,6 @@ The way health professionals consume that informal professional education is cha
 
 ---
 
-## EPIDEMIOLOGIC AND PUBLIC HEALTH SIGNIFICANCE OF TOXOPLASMA GONDII INFECTIONS IN BEARS (URSUS SPP.): A 50 YEAR REVIEW INCLUDING RECENT GENETIC EVIDENCE.
- 24.06.2021, _JP Dubey, FHA Murata, CK Cerqueira-Cézar, OCH Kwok, C Su_
-
-
-Toxoplasma gondii infections are common in humans and animals worldwide. The present review summarizes worldwide information on the prevalence of clinical and subclinical infections, epidemiology, and genetic diversity of T. gondii infections in bears. Seroprevalence estimates of T. gondii in black bears (Ursus americanus) are one of the highest of all animals. In Pennsylvania, seroprevalence is around 80% and has remained stable for the past 4 decades. Approximately 3,500 bears are hunted yearly in Pennsylvania alone. The validity of different serological tests is discussed based on bioassay and serological comparisons. Seroprevalence in grizzly bears (Ursus arctos) is lower than that in black bears. Even polar bears (Ursus maritimus) are infected; infections in these animals are ecologically interesting because of the absence of felids in the Arctic. Clinical toxoplasmosis in bears is rare and not documented in adult animals. The few reports of fatal toxoplasmosis in young bears need confirmation. Viable T. gondii has been isolated from black bears and a grizzly bear. The genetic diversity of isolates based on DNA from viable T. gondii isolates is discussed. Genetic typing of a total of 26 T. gondii samples from bears using 10 PCR-RFLP markers revealed 8 PCR-RFLP ToxoDB genotypes: #1 (clonal type II) in 3 samples, #2 (clonal type III) in 8 samples, #4 (haplogroup 12) in 3 samples, #5 (haplogroup 12) in 3 samples, #74 in 5 samples, #90 in 1 sample, #147 in 1 sample, and #216 in 2 samples. These results suggest relatively high genetic diversity of T. gondii in bears. Overall, T. gondii isolates in bears range from those circulating in a domestic cycle (genotypes #1 and #2) to those mainly associated with wildlife (such as genotypes #4 and #5, together known as haplogroup 12). A patient who acquired clinical Trichinella spiralis infection after eating undercooked bear meat also acquired T. gondii infection. Freezing of infected meat kills T. gondii, including the strains isolated from bears.
-
-[Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
-
-10.1645/21-16
-
----
-
 ## #microbiology
 
 [Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
@@ -451,18 +343,6 @@ Toxoplasma gondii infections are common in humans and animals worldwide. The pre
 ## pic.twitter.com/WGbYC8FMys
 
 [Source](https://t.co/WGbYC8FMys)
-
----
-
-## Intra-arterial therapy for unresectable colorectal liver metastases: A meta-analysis.
- 24.06.2021, _JJ Zhao, E Tan, R Sultana, N Syn, K Da Zhuang, L Sum, DWM Tai, TC Wei_
-
-
-To evaluate the efficacy of hepatic arterial infusion (HAI), conventional trans-arterial chemoembolization (cTACE), drug-eluting embolic trans-arterial chemoembolization (DEE-TACE), trans-arterial radioembolization (TARE) and their combinations with systemic chemotherapy (SCT) for unresectable colorectal liver metastases.
-
-[Source](https://twitter.com/eliza_coli/status/1407675983059161091?ref_src=twsrc%5Etfw)
-
-10.1016/j.jvir.2021.05.032
 
 ---
 
