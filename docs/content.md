@@ -100,6 +100,18 @@
 
 ---
 
+## A newly identified protein from Akkermansia muciniphila stimulates GLP-1 secretion.
+ 02.06.2021, _PD Cani, C Knauf_
+
+
+Akkermansia muciniphila is a gut commensal known to improve host metabolism. The outer membrane protein Amuc_1100 has been shown to partially replicate these beneficial effects. Here, Yoon et al. (2021) have identified a novel protein (P9) secreted by A. muciniphila that stimulates GLP-1 secretion, thereby adding new insight to the biomolecule era to treat metabolic diseases.
+
+[Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
+
+10.1016/j.cmet.2021.05.004
+
+---
+
 ## A newly identified protein from <em>Akkermansia muciniphila </em>stimulates GLP-1 secretion 
 
 [Source](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(21)00221-7)
@@ -166,6 +178,18 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
+## First report of cucurbit yellow stunting disorder virus and cucurbit chlorotic yellows virus in cucurbit crops in Alabama.
+ 28.06.2021, _S Mondal, LL Jenkins Hladky, RA Melanson, R Singh, E Sikora, WM Wintermantel_
+
+
+During the summer and fall of 2020, foliar yellowing symptoms, including leaf mottle and interveinal yellowing with green veins were observed on several melon, squash, and cucumber plants in commercial fields in Alabama, USA. These foliar symptoms were similar to those caused by the whitefly-transmitted yellowing viruses, cucurbit chlorotic yellows virus (CCYV) and cucurbit yellow stunting disorder virus (CYSDV) (both genus Crinivirus, Closteroviridae). A total of 231 leaf samples showing yellowing, interveinal chlorosis, and mottling (e-Xtra 1, 2) were collected from individual plants from 25 commercial fields in Alabama (70 watermelon, 52 melon, 34 pumpkin, 50 squash, and 25 cucumber) during two sampling periods, June (spring/summer season) and October (fall season) 2020. Total RNA, extracted as described in Tamang et al. (2021), was used in reverse transcription polymerase chain reaction (RT-PCR) with primer sets designed to amplify portions of the CCYV and CYSDV RNA-dependent RNA polymerase (RdRp) genes encoded on RNA1 of these viruses (Mondal et al. 2021, submitted; Kavalappara et al., 2021). Single infections of either CYSDV or CCYV were found in 53 of 57 infected cucurbit samples (of 231 total plants), whereas both viruses were detected in four samples, all squash. In June 2020 near the end of the spring season, CYSDV was identified from 20 of 114 total cucurbit plants tested (17.5%), but CCYV was not identified from any plants. During the fall season, 37 of 117 plants (32%) tested positive for the presence of one or both criniviruses. Of the 37 virus-positive samples from the fall season, 26 were singly infected with CCYV (70%), seven were singly infected with CYSDV (19%), and four were infected with both CYSDV and CCYV (11%). The RdRp amplicon was sequenced from three CCYV-infected plants (2 squash; GenBank Accession No. MZ073347, MZ073348; 1 cucumber, MZ073349) and one CYSDV-infected plant (melon, MZ073350); the 857 nt sequenced portion of the CCYV RdRp gene was found to share 99% identity with the same sequence of CCYV RNA1 isolates from Israel (MH477611.1) and California (MW680157), whereas the 494 nt CYSDV amplicon shared 100% sequence identity with the comparable sequence from RNA1 of a CYSDV isolate from Arizona (EF547827.1). In addition, all of the CYSDV and CCYV infections were confirmed using a second set of primers that amplified 394 and 372 nt sections of the coat protein gene of each virus, respectively (Wintermantel et al., 2009; 2019), encoded on RNA2 of each viral genome. Furthermore, a recently developed multiplex RT-qPCR method (Mondal et al. 2021, submitted) was used to confirm four representative CYSDV and CCYV infections each. This is the first report of CYSDV and CCYV in cucurbit crops from Alabama. Surprisingly, CYSDV was only found in melon plants (20 of 52, 38%), whereas CCYV was only found in squash, pumpkin, and cucumber (26 of 109, 24%); no watermelon plants were infected with either virus, even though watermelon is a known host of both viruses. The identification of CCYV and CYSDV in Alabama, along with a recent report of both criniviruses from nearby Georgia (Kavalappara et al., 2021) illustrates the need for a more thorough sampling of cucurbit crops, further monitoring of the whitefly vector, Bemisia tabaci, and the identification of alternate hosts of these viruses to better understand the epidemiology of these viruses in Alabama and throughout the Gulf Coast region.
+
+[Source](https://twitter.com/SarahLebeer/status/1408056897198985223?ref_src=twsrc%5Etfw)
+
+10.1094/PDIS-05-21-0922-PDN
+
+---
+
 ## June 24, 2021
 
 [Source](https://twitter.com/SarahLebeer/status/1408056897198985223?ref_src=twsrc%5Etfw)
@@ -178,21 +202,39 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Life History Recorded in the Vagino-cervical Microbiome Along with Multi-omics
+## Life History Recorded in the Vagino-cervical Microbiome Along with Multi-omics.
+ 12.06.2021, _Z Jie, C Chen, L Hao, F Li, L Song, X Zhang, J Zhu, L Tian, X Tong, K Cai, Z Zhang, Y Ju, X Yu, Y Li, H Zhou, H Lu, X Qiu, Q Li, Y Liao, D Zhou, H Lian, Y Zuo, X Chen, W Rao, Y Ren, Y Wang, J Zi, R Wang, N Liu, J Wu, W Zhang, X Liu, Y Zong, W Liu, L Xiao, Y Hou, X Xu, H Yang, J Wang, K Kristiansen, H Jia_
+
+
+The vagina contains at least a billion microbial cells, dominated by lactobacilli. Here we perform metagenomic shotgun sequencing on cervical and fecal samples from a cohort of 516 Chinese women of reproductive age, and cervical, fecal, and salivary samples from a second cohort of 632 women. Factors such as pregnancy, delivery histories, cesarean section, and breast-feeding were all more important than menstrual cycle in shaping the microbiome, and such information would be necessary before trying to interpret differences between vagino-cervical microbiome data. Greater proportion of Bifidobacterium breve was seen with older age at sexual debut. The relative abundance of lactobacilli especially Lactobacillus crispatus was negatively associated with pregnancy history. Potential markers for lack of menstrual regularity, heavy flow, dysmenorrhea, and contraceptives were also identified. Lactobacilli were rare during breast-feeding or post-menopause. Other features such as mood fluctuations and facial speckles could potentially be predicted from the vagino-cervical microbiome. Gut and salivary microbiome, plasma vitamins, metals, amino acids, and hormones showed associations with the vagino-cervical microbiome. Our results offer an unprecedented glimpse into the microbiota of the female reproductive tract and call for international collaborations to better understand its long-term health impact other than in the settings of infection or pre-term birth.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1672022921000991)
 
+10.1016/j.gpb.2021.01.005
+
 ---
 
-## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection
+## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection.
+ 21.06.2021, _H Onywera, J Anejo-Okopi, LM Mwapagha, J Okendo, AL Williamson_
+
+
+Mounting evidence suggests that Lactobacillus species may not necessarily be the sine qua non of healthy cervicovaginal microbiota (CVM), especially among reproductive-age African women. A majority of African women have high-diversity non-Lactobacillus-dominated CVM whose bacterial functions remain poorly characterized. Functional profiling of the CVM is vital for investigating human host-microbiota interactions in health and disease. Here, we investigated the functional potential of L. iners-dominated and high-diversity non-Lactobacillus-dominated CVM of 75 African women with and without bacterial vaginosis (BV) and high-risk human papillomavirus (HR-HPV) infection. Functional contents were predicted using PICRUSt. Microbial taxonomic diversity, BV, and HR-HPV infection statuses were correlated with the inferred functional composition of the CVM. Differentially abundant inferred functional categories were identified using linear discriminant analysis (LDA) effect size (LEfSe) (p-value &lt;0.05 and logarithmic LDA score &gt;2.0). Of the 75 women, 56 (74.7%), 35 (46.7%), and 29 (38.7%) had high-diversity non-Lactobacillus-dominated CVM, BV, and HR-HPV infection, respectively. Alpha diversity of the inferred functional contents (as measured by Shannon diversity index) was significantly higher in women with high-diversity non-Lactobacillus-dominated CVM and BV than their respective counterparts (H statistic ≥11.5, q-value &lt;0.001). Ordination of the predicted functional metagenome content (using Bray-Curtis distances) showed that the samples segregated according to the extent of microbial taxonomic diversity and BV (pseudo-F statistic ≥19.6, q-value = 0.001) but not HR-HPV status (pseudo-F statistic = 1.7, q-value = 0.159). LEfSe analysis of the inferred functional categories revealed that transport systems (including ABC transporters) and transcription factors were enriched in high-diversity CVM. Interestingly, transcription factors and sporulation functional categories were uniquely associated with high-diversity CVM, BV, and HR-HPV infection. Our predictive functional analysis reveals features unique to high-diversity CVM, BV and HR-HPV infections. Such features may represent important biomarkers of BV and HR-HPV infection. Our findings require proof-of-concept functional studies to examine the relevance of these potential biomarkers in women's reproductive health and disease.
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34143825/)
 
+10.1371/journal.pone.0253218
+
 ---
 
-## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis
+## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis.
+ 22.06.2021, _D Ruiz-Perez, MS Coudray, B Colbert, K Krupp, H Kumari, V Stebliankin, K Mathee, RL Cook, J Schwebke, G Narasimhan, P Madhivanan_
+
+
+Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to as bacterial vaginosis (BV). The dysbiosis is associated with an increased risk for acquisition of sexually transmitted infections. Women with symptomatic BV are treated with oral metronidazole (MET), but its effectiveness remains to be elucidated. This study used whole-genome sequencing (WGS) to determine the changes in the microbiota among women treated with MET. WGS was conducted on DNA obtained from 20 vaginal swabs collected at four time points over 12 months from five randomly selected African American (AA) women. The baseline visit included all women who were diagnosed with asymptomatic BV and were untreated. All subjects were tested subsequently once every 2 months and received a course of MET for each BV episode during the 12 months. The BV status was classified according to Nugent scores (NSs) of vaginal smears. The microbial and resistome profiles were analysed along with the sociodemographic metadata. Despite treatment, none of the five participants reverted to normal vaginal flora - two were consistently positive for BV, and the rest experienced episodic cases of BV. WGS analyses showed Gardnerella spp. as the most abundant organism. After treatment with MET, there was an observed decline of Lactobacillus and Prevotella species. One participant had a healthy vaginal microbiota based on NS at one follow-up time point. Resistance genes including tetM and lscA were detected. Though limited in subjects, this study shows specific microbiota changes with treatment, presence of many resistant genes in their microbiota, and recurrence and persistence of BV despite MET treatment. Thus, MET may not be an effective treatment option for asymptomatic BV, and whole metagenome sequence would better inform the choice of antibiotics.
 
 [Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000226)
+
+10.1099/acmi.0.000226
 
 ---
 
@@ -208,9 +250,16 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Microbiomes attached to fresh perennial ryegrass are temporally resilient and adapt to changing ecological niches 
+## Microbiomes attached to fresh perennial ryegrass are temporally resilient and adapt to changing ecological niches.
+ 25.06.2021, _SA Huws, JE Edwards, W Lin, F Rubino, M Alston, D Swarbreck, S Caim, PR Stevens, J Pachebat, MY Won, LB Oyama, CJ Creevey, AH Kingston-Smith_
+
+
+_Animals, Gastrointestinal Microbiome, Humans, Lolium, Microbiota, Plant Breeding, Rumen_
+Gut microbiomes, such as the rumen, greatly influence host nutrition due to their feed energy-harvesting capacity. We investigated temporal ecological interactions facilitating energy harvesting at the fresh perennial ryegrass (PRG)-biofilm interface in the rumen using an in sacco approach and prokaryotic metatranscriptomic profiling.
 
 [Source](https://link.springer.com/epdf/10.1186/s40168-021-01087-w)
+
+10.1186/s40168-021-01087-w
 
 ---
 
@@ -220,9 +269,15 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## GUNC: detection of chimerism and contamination in prokaryotic genomes
+## GUNC: detection of chimerism and contamination in prokaryotic genomes.
+ 18.06.2021, _A Orakov, A Fullam, LP Coelho, S Khedkar, D Szklarczyk, DR Mende, TSB Schmidt, P Bork_
+
+
+Genomes are critical units in microbiology, yet ascertaining quality in prokaryotic genome assemblies remains a formidable challenge. We present GUNC (the Genome UNClutterer), a tool that accurately detects and quantifies genome chimerism based on the lineage homogeneity of individual contigs using a genome's full complement of genes. GUNC complements existing approaches by targeting previously underdetected types of contamination: we conservatively estimate that 5.7% of genomes in GenBank, 5.2% in RefSeq, and 15-30% of pre-filtered "high-quality" metagenome-assembled genomes in recent studies are undetected chimeras. GUNC provides a fast and robust tool to substantially improve prokaryotic genome quality.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02393-0)
+
+10.1186/s13059-021-02393-0
 
 ---
 
@@ -232,9 +287,15 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Open challenges for microbial network construction and analysis
+## Open challenges for microbial network construction and analysis.
+ 10.06.2021, _K Faust_
+
+
+Microbial network construction is a popular explorative data analysis technique in microbiome research. Although a large number of microbial network construction tools has been developed to date, there are several issues concerning the construction and interpretation of microbial networks that have received less attention. The purpose of this perspective is to draw attention to these underexplored challenges of microbial network construction and analysis.
 
 [Source](https://www.nature.com/articles/s41396-021-01027-4)
+
+10.1038/s41396-021-01027-4
 
 ---
 
@@ -262,9 +323,32 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
+## Objectively assessed physical activity and sedentary behavior and global cognitive function in older adults: a systematic review.
+ 28.06.2021, _AGM Rojer, KA Ramsey, ES Amaral Gomes, L D'Andrea, C Chen, C Szoeke, CGM Meskers, EM Reijnierse, AB Maier_
+
+
+Both physical activity (PA) and sedentary behavior (SB) are important factors for healthy ageing. This systematic review aimed to determine the association of objectively assessed (instrumented) PA and SB with global cognitive function in older adults.
+
+[Source](https://twitter.com/svetlana_up/status/1404769552551104514?ref_src=twsrc%5Etfw)
+
+10.1016/j.mad.2021.111524
+
+---
+
 ## June 15, 2021
 
 [Source](https://twitter.com/svetlana_up/status/1404769552551104514?ref_src=twsrc%5Etfw)
+
+---
+
+## XXXIIIrd International Workshop on Helicobacter &amp; Microbiota in Inflammation &amp; Cancer, Virtual Conference, 12 September 2020.
+ 15.09.2020, __
+
+
+
+[Source](https://www.microbiome-vif.org/)
+
+10.1111/hel.12745
 
 ---
 
@@ -298,6 +382,19 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
+## What electronic information resources do physiotherapists prefer to use to support their CPD?
+ 27.04.2021, _NJ Clode, B Darlow, J Rouse, M Perry_
+
+
+_Cross-Sectional Studies, Electronics, Humans, New Zealand, Physical Therapists, Surveys and Questionnaires_
+The way health professionals consume that informal professional education is changing. Physiotherapists are relying more on using electronic sources of information, including social media, to answer clinical questions. This study aims to identify the sources of electronic information physiotherapists in New Zealand use within their informal professional education.
+
+[Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
+
+10.1002/pri.1881
+
+---
+
 ## EMBARK Webinars
 
 [Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
@@ -307,6 +404,18 @@ The application of next generation sequencing techniques has allowed the charact
 ## Writing and Publishing Scientific Papers: A Primer for the Non-English Speaker
 
 [Source](https://www.openbookpublishers.com/10.11647/OBP.0235.pdf)
+
+---
+
+## The Use of Drug-Eluting Stents in Patients With Critical Limb Ischemia and Infrapopliteal Arterial Disease A Real World Single Center Experience.
+ 28.06.2021, _AF AbuRahma, M Beasley, M Davis, E Adams, A Lee, J Shapiro, LS Dean, E Davis_
+
+
+Although there is no drug-eluting stent (DES) approved by the FDA for the use in infrapopliteal arterial disease, several industry sponsored trials reported the outcome of the use of paclitaxel or sirolimus DES. There is only one study to date reported on the use of everolimus DES in this location. Our present study analyzed the clinical outcome using everolimus DES from real world single center.
+
+[Source](https://lifeology.io/from-scientist-to-sciartist/)
+
+10.1016/j.jvs.2021.06.019
 
 ---
 
@@ -334,6 +443,18 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
+## Contributions of the international plant science community to the fight against human infectious diseases - part 1: epidemic and pandemic diseases.
+ 28.06.2021, _M Lobato Gómez, X Huang, D Alvarez, W He, C Baysal, C Zhu, V Armario-Najera, A Blanco Perera, P Cerda Bennasser, A Saba-Mayoral, G Sobrino-Mengual, A Vargheese, R Abranches, IA Abreu, S Balamurugan, R Bock, JF Buyel, NB da Cunha, H Daniell, R Faller, A Folgado, I Gowtham, S Häkkinen, K Shashi, S Kumar Ramalingam, C Lacorte, GP Lomonossoff, IM Luís, JK Ma, KA McDonald, A Murad, S Nandi, B O'Keef, KM Oksman-Caldentey, S Parthiban, M Paul, D Ponndorf, E Rech, JCM Rodrigues, S Ruf, S Schillberg, J Schwestka, PS Shah, R Singh, E Stoger, RM Twyman, IP Varghese, GR Vianna, G Webster, RHP Wilbers, T Capell, P Christou_
+
+
+Infectious diseases, also known as transmissible or communicable diseases, are caused by pathogens or parasites that spread in communities by direct contact with infected individuals or contaminated materials, through droplets and aerosols, or via vectors such as insects. Such diseases cause ~17% of all human deaths and their management and control places an immense burden on healthcare systems worldwide. Traditional approaches for the prevention and control of infectious diseases include vaccination programs, hygiene measures, and drugs that suppress the pathogen, treat the disease symptoms, or attenuate aggressive reactions of the host immune system. The provision of vaccines and biologic drugs such as antibodies is hampered by the high cost and limited scalability of traditional manufacturing platforms based on microbial and animal cells, particularly in developing countries where infectious diseases are prevalent and poorly controlled. Molecular farming, which uses plants for protein expression, is a promising strategy to address the drawbacks of current manufacturing platforms. In this review article, we consider the potential of molecular farming to address healthcare demands for the most prevalent and important epidemic and pandemic diseases, focusing on recent outbreaks of high-mortality coronavirus infections and diseases that disproportionately affect the developing world.
+
+[Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/pbi.13657
+
+---
+
 ## #microbiology
 
 [Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
@@ -343,6 +464,18 @@ The application of next generation sequencing techniques has allowed the charact
 ## pic.twitter.com/WGbYC8FMys
 
 [Source](https://t.co/WGbYC8FMys)
+
+---
+
+## Interventions among Pregnant Women in the Field of Music Therapy: A Systematic Review.
+ 28.06.2021, _BMO Shimada, MDSOMD Santos, MA Cabral, VO Silva, GC Vagetti_
+
+
+To investigate in the literature the studies on the benefits of music therapy interventions among pregnant women in the prenatal, delivery and postpartum periods.
+
+[Source](https://twitter.com/eliza_coli/status/1407675983059161091?ref_src=twsrc%5Etfw)
+
+10.1055/s-0041-1731924
 
 ---
 
