@@ -40,6 +40,12 @@
 
 ---
 
+## Hierarchical control of microbial community assembly
+
+[Source](https://www.biorxiv.org/content/biorxiv/early/2021/06/22/2021.06.22.449372.full.pdf)
+
+---
+
 ## L-form switching confers antibiotic, phage and stress tolerance in pathogenic <em>Escherichia coli</em>
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.06.21.449206v1)
@@ -112,9 +118,15 @@
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria
+## Dispersal strategies shape persistence and evolution of human gut bacteria.
+ 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
+
+
+Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312821002365)
+
+10.1016/j.chom.2021.05.008
 
 ---
 
@@ -244,12 +256,6 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Hierarchical control of microbial community assembly
-
-[Source](https://www.biorxiv.org/content/biorxiv/early/2021/06/22/2021.06.22.449372.full.pdf)
-
----
-
 ## https://t.co/tv6GM1emjy
 
 [Source](https://t.co/tv6GM1emjy)
@@ -280,6 +286,18 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
+## Evaluation of Twenty Genes in Prognosis of Patients with Ovarian Cancer Using Four Different Clustering Methods.
+ 29.06.2021, _S Pourahmad, S Foroozani, M Nourelahi, A Hosseini, M Razmkhah_
+
+
+Comparison of gene expression algorithms may be beneficial for obtaining disease pattern or grouping patients based on the gene expression profile. The current study aimed to investigate whether the knowledge within these data is able to group the ovarian cancer patients with similar disease pattern.
+
+[Source](https://biata2021.spbu.ru/)
+
+10.31557/APJCP.2021.22.6.1781
+
+---
+
 ## BiATA2021 Bioinformatics: from Algorithms to Applications
 
 [Source](https://biata2021.spbu.ru/)
@@ -292,6 +310,19 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
+## What electronic information resources do physiotherapists prefer to use to support their CPD?
+ 27.04.2021, _NJ Clode, B Darlow, J Rouse, M Perry_
+
+
+_Cross-Sectional Studies, Electronics, Humans, New Zealand, Physical Therapists, Surveys and Questionnaires_
+The way health professionals consume that informal professional education is changing. Physiotherapists are relying more on using electronic sources of information, including social media, to answer clinical questions. This study aims to identify the sources of electronic information physiotherapists in New Zealand use within their informal professional education.
+
+[Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
+
+10.1002/pri.1881
+
+---
+
 ## EMBARK Webinars
 
 [Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
@@ -301,6 +332,18 @@ The application of next generation sequencing techniques has allowed the charact
 ## Writing and Publishing Scientific Papers: A Primer for the Non-English Speaker
 
 [Source](https://www.openbookpublishers.com/10.11647/OBP.0235.pdf)
+
+---
+
+## HAI-1 is an independent predictor of lung cancer mortality and is required for M1 macrophage polarization.
+ 29.06.2021, _S Borowicz, DR Principe, MJ Dorman, AJ McHenry, G Sondarva, S Kumar, V Ananthanarayanan, PE Simms, A Hess, A Rana_
+
+
+Non-small cell lung cancer (NSCLC) is the leading cause of cancer-related death worldwide. Though immune checkpoint inhibitors (ICIs) have revolutionized lung cancer therapy in recent years, there are several factors limiting the therapeutic efficacy of ICI-based immunotherapy in lung cancer. Recent evidence suggests that one such mechanism is the phenotypic shift of tumor-infiltrating macrophages away from an anti-tumor M1 phenotype and towards an anti-inflammatory and tumor-permissive M2 phenotype. Though this phenomenon is well documented, the means through which the lung tumor microenvironment (TME) usurps macrophage function are poorly described. Hepatocyte growth factor (HGF) is a known driver of both lung cancer pathobiology as well as M2 polarization, and its signaling is antagonized by the tumor suppressor gene HAI-1 (SPINT1). Using a combination of genomic databases, primary NSCLC specimens, and in vitro models, we determined that patients with loss of HAI-1 have a particularly poor prognosis, hallmarked by increased HGF expression and an M2-dominant immune infiltrate. Similarly, conditioned media from HAI-1-deficient tumor cells led to a loss of M1 and increased M2 polarization in vitro, and patient NSCLC tissues with loss of HAI-1 showed a similar loss of M1 macrophages. Combined, these results suggest that loss of HAI-1 is a potential means through which tumors acquire an immunosuppressive, M2-dominated TME, potentially through impaired M1 macrophage polarization. Hence, HAI-1 status may be informative when stratifying patients that may benefit from therapies targeting the HGF pathway, particularly as an adjuvant to ICI-based immunotherapy.
+
+[Source](https://lifeology.io/from-scientist-to-sciartist/)
+
+10.1371/journal.pone.0252197
 
 ---
 
