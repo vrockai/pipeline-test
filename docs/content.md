@@ -118,18 +118,6 @@
 
 ---
 
-## Urinary Microbiome: Yin and Yang of the Urinary Tract.
- 05.06.2021, _V Perez-Carrasco, A Soriano-Lerma, M Soriano, J Gutiérrez-Fernández, JA Garcia-Salcedo_
-
-
-The application of next generation sequencing techniques has allowed the characterization of the urinary tract microbiome and has led to the rejection of the pre-established concept of sterility in the urinary bladder. Not only have microbial communities in the urinary tract been implicated in the maintenance of health but alterations in their composition have also been associated with different urinary pathologies, such as urinary tract infections (UTI). Therefore, the study of the urinary microbiome in healthy individuals, as well as its involvement in disease through the proliferation of opportunistic pathogens, could open a potential field of study, leading to new insights into prevention, diagnosis and treatment strategies for urinary pathologies. In this review we present an overview of the current state of knowledge about the urinary microbiome in health and disease, as well as its involvement in the development of new therapeutic strategies.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.617002/full)
-
-10.3389/fcimb.2021.617002
-
----
-
 ## Review: Urinary Microbiome: Yin and Yang of the Urinary Tract
 
 [Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.617002/full)
