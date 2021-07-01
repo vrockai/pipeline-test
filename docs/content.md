@@ -172,15 +172,9 @@
 
 ---
 
-## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection.
- 30.06.2021, _H Onywera, J Anejo-Okopi, LM Mwapagha, J Okendo, AL Williamson_
-
-
-Mounting evidence suggests that Lactobacillus species may not necessarily be the sine qua non of healthy cervicovaginal microbiota (CVM), especially among reproductive-age African women. A majority of African women have high-diversity non-Lactobacillus-dominated CVM whose bacterial functions remain poorly characterized. Functional profiling of the CVM is vital for investigating human host-microbiota interactions in health and disease. Here, we investigated the functional potential of L. iners-dominated and high-diversity non-Lactobacillus-dominated CVM of 75 African women with and without bacterial vaginosis (BV) and high-risk human papillomavirus (HR-HPV) infection. Functional contents were predicted using PICRUSt. Microbial taxonomic diversity, BV, and HR-HPV infection statuses were correlated with the inferred functional composition of the CVM. Differentially abundant inferred functional categories were identified using linear discriminant analysis (LDA) effect size (LEfSe) (p-value &lt;0.05 and logarithmic LDA score &gt;2.0). Of the 75 women, 56 (74.7%), 35 (46.7%), and 29 (38.7%) had high-diversity non-Lactobacillus-dominated CVM, BV, and HR-HPV infection, respectively. Alpha diversity of the inferred functional contents (as measured by Shannon diversity index) was significantly higher in women with high-diversity non-Lactobacillus-dominated CVM and BV than their respective counterparts (H statistic ≥11.5, q-value &lt;0.001). Ordination of the predicted functional metagenome content (using Bray-Curtis distances) showed that the samples segregated according to the extent of microbial taxonomic diversity and BV (pseudo-F statistic ≥19.6, q-value = 0.001) but not HR-HPV status (pseudo-F statistic = 1.7, q-value = 0.159). LEfSe analysis of the inferred functional categories revealed that transport systems (including ABC transporters) and transcription factors were enriched in high-diversity CVM. Interestingly, transcription factors and sporulation functional categories were uniquely associated with high-diversity CVM, BV, and HR-HPV infection. Our predictive functional analysis reveals features unique to high-diversity CVM, BV and HR-HPV infections. Such features may represent important biomarkers of BV and HR-HPV infection. Our findings require proof-of-concept functional studies to examine the relevance of these potential biomarkers in women's reproductive health and disease.
+## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34143825/)
-
-10.1371/journal.pone.0253218
 
 ---
 
@@ -343,6 +337,12 @@ Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to 
 ## June 23, 2021
 
 [Source](https://twitter.com/eliza_coli/status/1407675983059161091?ref_src=twsrc%5Etfw)
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=7980142447)
 
 ---
 
