@@ -178,15 +178,9 @@
 
 ---
 
-## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis.
- 22.06.2021, _D Ruiz-Perez, MS Coudray, B Colbert, K Krupp, H Kumari, V Stebliankin, K Mathee, RL Cook, J Schwebke, G Narasimhan, P Madhivanan_
-
-
-Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to as bacterial vaginosis (BV). The dysbiosis is associated with an increased risk for acquisition of sexually transmitted infections. Women with symptomatic BV are treated with oral metronidazole (MET), but its effectiveness remains to be elucidated. This study used whole-genome sequencing (WGS) to determine the changes in the microbiota among women treated with MET. WGS was conducted on DNA obtained from 20 vaginal swabs collected at four time points over 12 months from five randomly selected African American (AA) women. The baseline visit included all women who were diagnosed with asymptomatic BV and were untreated. All subjects were tested subsequently once every 2 months and received a course of MET for each BV episode during the 12 months. The BV status was classified according to Nugent scores (NSs) of vaginal smears. The microbial and resistome profiles were analysed along with the sociodemographic metadata. Despite treatment, none of the five participants reverted to normal vaginal flora - two were consistently positive for BV, and the rest experienced episodic cases of BV. WGS analyses showed Gardnerella spp. as the most abundant organism. After treatment with MET, there was an observed decline of Lactobacillus and Prevotella species. One participant had a healthy vaginal microbiota based on NS at one follow-up time point. Resistance genes including tetM and lscA were detected. Though limited in subjects, this study shows specific microbiota changes with treatment, presence of many resistant genes in their microbiota, and recurrence and persistence of BV despite MET treatment. Thus, MET may not be an effective treatment option for asymptomatic BV, and whole metagenome sequence would better inform the choice of antibiotics.
+## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis
 
 [Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000226)
-
-10.1099/acmi.0.000226
 
 ---
 
@@ -342,7 +336,7 @@ Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to 
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=7980142447)
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=e7e712eb91)
 
 ---
 
