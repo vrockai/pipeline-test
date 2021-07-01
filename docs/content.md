@@ -118,27 +118,9 @@
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria.
- 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
-
-
-Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
+## Dispersal strategies shape persistence and evolution of human gut bacteria
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312821002365)
-
-10.1016/j.chom.2021.05.008
-
----
-
-## Urinary Microbiome: Yin and Yang of the Urinary Tract.
- 05.06.2021, _V Perez-Carrasco, A Soriano-Lerma, M Soriano, J Gutiérrez-Fernández, JA Garcia-Salcedo_
-
-
-The application of next generation sequencing techniques has allowed the characterization of the urinary tract microbiome and has led to the rejection of the pre-established concept of sterility in the urinary bladder. Not only have microbial communities in the urinary tract been implicated in the maintenance of health but alterations in their composition have also been associated with different urinary pathologies, such as urinary tract infections (UTI). Therefore, the study of the urinary microbiome in healthy individuals, as well as its involvement in disease through the proliferation of opportunistic pathogens, could open a potential field of study, leading to new insights into prevention, diagnosis and treatment strategies for urinary pathologies. In this review we present an overview of the current state of knowledge about the urinary microbiome in health and disease, as well as its involvement in the development of new therapeutic strategies.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.617002/full)
-
-10.3389/fcimb.2021.617002
 
 ---
 
@@ -190,15 +172,27 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection
+## Predictive functional analysis reveals inferred features unique to cervicovaginal microbiota of African women with bacterial vaginosis and high-risk human papillomavirus infection.
+ 30.06.2021, _H Onywera, J Anejo-Okopi, LM Mwapagha, J Okendo, AL Williamson_
+
+
+Mounting evidence suggests that Lactobacillus species may not necessarily be the sine qua non of healthy cervicovaginal microbiota (CVM), especially among reproductive-age African women. A majority of African women have high-diversity non-Lactobacillus-dominated CVM whose bacterial functions remain poorly characterized. Functional profiling of the CVM is vital for investigating human host-microbiota interactions in health and disease. Here, we investigated the functional potential of L. iners-dominated and high-diversity non-Lactobacillus-dominated CVM of 75 African women with and without bacterial vaginosis (BV) and high-risk human papillomavirus (HR-HPV) infection. Functional contents were predicted using PICRUSt. Microbial taxonomic diversity, BV, and HR-HPV infection statuses were correlated with the inferred functional composition of the CVM. Differentially abundant inferred functional categories were identified using linear discriminant analysis (LDA) effect size (LEfSe) (p-value &lt;0.05 and logarithmic LDA score &gt;2.0). Of the 75 women, 56 (74.7%), 35 (46.7%), and 29 (38.7%) had high-diversity non-Lactobacillus-dominated CVM, BV, and HR-HPV infection, respectively. Alpha diversity of the inferred functional contents (as measured by Shannon diversity index) was significantly higher in women with high-diversity non-Lactobacillus-dominated CVM and BV than their respective counterparts (H statistic ≥11.5, q-value &lt;0.001). Ordination of the predicted functional metagenome content (using Bray-Curtis distances) showed that the samples segregated according to the extent of microbial taxonomic diversity and BV (pseudo-F statistic ≥19.6, q-value = 0.001) but not HR-HPV status (pseudo-F statistic = 1.7, q-value = 0.159). LEfSe analysis of the inferred functional categories revealed that transport systems (including ABC transporters) and transcription factors were enriched in high-diversity CVM. Interestingly, transcription factors and sporulation functional categories were uniquely associated with high-diversity CVM, BV, and HR-HPV infection. Our predictive functional analysis reveals features unique to high-diversity CVM, BV and HR-HPV infections. Such features may represent important biomarkers of BV and HR-HPV infection. Our findings require proof-of-concept functional studies to examine the relevance of these potential biomarkers in women's reproductive health and disease.
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34143825/)
 
+10.1371/journal.pone.0253218
+
 ---
 
-## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis
+## Effect of metronidazole on vaginal microbiota associated with asymptomatic bacterial vaginosis.
+ 22.06.2021, _D Ruiz-Perez, MS Coudray, B Colbert, K Krupp, H Kumari, V Stebliankin, K Mathee, RL Cook, J Schwebke, G Narasimhan, P Madhivanan_
+
+
+Vaginal dysbiosis-induced by an overgrowth of anaerobic bacteria is referred to as bacterial vaginosis (BV). The dysbiosis is associated with an increased risk for acquisition of sexually transmitted infections. Women with symptomatic BV are treated with oral metronidazole (MET), but its effectiveness remains to be elucidated. This study used whole-genome sequencing (WGS) to determine the changes in the microbiota among women treated with MET. WGS was conducted on DNA obtained from 20 vaginal swabs collected at four time points over 12 months from five randomly selected African American (AA) women. The baseline visit included all women who were diagnosed with asymptomatic BV and were untreated. All subjects were tested subsequently once every 2 months and received a course of MET for each BV episode during the 12 months. The BV status was classified according to Nugent scores (NSs) of vaginal smears. The microbial and resistome profiles were analysed along with the sociodemographic metadata. Despite treatment, none of the five participants reverted to normal vaginal flora - two were consistently positive for BV, and the rest experienced episodic cases of BV. WGS analyses showed Gardnerella spp. as the most abundant organism. After treatment with MET, there was an observed decline of Lactobacillus and Prevotella species. One participant had a healthy vaginal microbiota based on NS at one follow-up time point. Resistance genes including tetM and lscA were detected. Though limited in subjects, this study shows specific microbiota changes with treatment, presence of many resistant genes in their microbiota, and recurrence and persistence of BV despite MET treatment. Thus, MET may not be an effective treatment option for asymptomatic BV, and whole metagenome sequence would better inform the choice of antibiotics.
 
 [Source](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.0.000226)
+
+10.1099/acmi.0.000226
 
 ---
 
@@ -286,18 +280,6 @@ The application of next generation sequencing techniques has allowed the charact
 
 ---
 
-## Evaluation of Twenty Genes in Prognosis of Patients with Ovarian Cancer Using Four Different Clustering Methods.
- 29.06.2021, _S Pourahmad, S Foroozani, M Nourelahi, A Hosseini, M Razmkhah_
-
-
-Comparison of gene expression algorithms may be beneficial for obtaining disease pattern or grouping patients based on the gene expression profile. The current study aimed to investigate whether the knowledge within these data is able to group the ovarian cancer patients with similar disease pattern.
-
-[Source](https://biata2021.spbu.ru/)
-
-10.31557/APJCP.2021.22.6.1781
-
----
-
 ## BiATA2021 Bioinformatics: from Algorithms to Applications
 
 [Source](https://biata2021.spbu.ru/)
@@ -310,19 +292,6 @@ Comparison of gene expression algorithms may be beneficial for obtaining disease
 
 ---
 
-## What electronic information resources do physiotherapists prefer to use to support their CPD?
- 27.04.2021, _NJ Clode, B Darlow, J Rouse, M Perry_
-
-
-_Cross-Sectional Studies, Electronics, Humans, New Zealand, Physical Therapists, Surveys and Questionnaires_
-The way health professionals consume that informal professional education is changing. Physiotherapists are relying more on using electronic sources of information, including social media, to answer clinical questions. This study aims to identify the sources of electronic information physiotherapists in New Zealand use within their informal professional education.
-
-[Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
-
-10.1002/pri.1881
-
----
-
 ## EMBARK Webinars
 
 [Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
@@ -332,18 +301,6 @@ The way health professionals consume that informal professional education is cha
 ## Writing and Publishing Scientific Papers: A Primer for the Non-English Speaker
 
 [Source](https://www.openbookpublishers.com/10.11647/OBP.0235.pdf)
-
----
-
-## HAI-1 is an independent predictor of lung cancer mortality and is required for M1 macrophage polarization.
- 29.06.2021, _S Borowicz, DR Principe, MJ Dorman, AJ McHenry, G Sondarva, S Kumar, V Ananthanarayanan, PE Simms, A Hess, A Rana_
-
-
-Non-small cell lung cancer (NSCLC) is the leading cause of cancer-related death worldwide. Though immune checkpoint inhibitors (ICIs) have revolutionized lung cancer therapy in recent years, there are several factors limiting the therapeutic efficacy of ICI-based immunotherapy in lung cancer. Recent evidence suggests that one such mechanism is the phenotypic shift of tumor-infiltrating macrophages away from an anti-tumor M1 phenotype and towards an anti-inflammatory and tumor-permissive M2 phenotype. Though this phenomenon is well documented, the means through which the lung tumor microenvironment (TME) usurps macrophage function are poorly described. Hepatocyte growth factor (HGF) is a known driver of both lung cancer pathobiology as well as M2 polarization, and its signaling is antagonized by the tumor suppressor gene HAI-1 (SPINT1). Using a combination of genomic databases, primary NSCLC specimens, and in vitro models, we determined that patients with loss of HAI-1 have a particularly poor prognosis, hallmarked by increased HGF expression and an M2-dominant immune infiltrate. Similarly, conditioned media from HAI-1-deficient tumor cells led to a loss of M1 and increased M2 polarization in vitro, and patient NSCLC tissues with loss of HAI-1 showed a similar loss of M1 macrophages. Combined, these results suggest that loss of HAI-1 is a potential means through which tumors acquire an immunosuppressive, M2-dominated TME, potentially through impaired M1 macrophage polarization. Hence, HAI-1 status may be informative when stratifying patients that may benefit from therapies targeting the HGF pathway, particularly as an adjuvant to ICI-based immunotherapy.
-
-[Source](https://lifeology.io/from-scientist-to-sciartist/)
-
-10.1371/journal.pone.0252197
 
 ---
 
