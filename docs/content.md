@@ -118,9 +118,27 @@
 
 ---
 
-## Dispersal strategies shape persistence and evolution of human gut bacteria
+## Dispersal strategies shape persistence and evolution of human gut bacteria.
+ 10.06.2021, _F Hildebrand, TI Gossmann, C Frioux, E Özkurt, PN Myers, P Ferretti, M Kuhn, M Bahram, HB Nielsen, P Bork_
+
+
+Human gut bacterial strains can co-exist with their hosts for decades, but little is known about how these microbes persist and disperse, and evolve thereby. Here, we examined these processes in 5,278 adult and infant fecal metagenomes, longitudinally sampled in individuals and families. Our analyses revealed that a subset of gut species is extremely persistent in individuals, families, and geographic regions, represented often by locally successful strains of the phylum Bacteroidota. These "tenacious" bacteria show high levels of genetic adaptation to the human host but a high probability of loss upon antibiotic interventions. By contrast, heredipersistent bacteria, notably Firmicutes, often rely on dispersal strategies with weak phylogeographic patterns but strong family transmissions, likely related to sporulation. These analyses describe how different dispersal strategies can lead to the long-term persistence of human gut microbes with implications for gut flora modulations.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312821002365)
+
+10.1016/j.chom.2021.05.008
+
+---
+
+## Urinary Microbiome: Yin and Yang of the Urinary Tract.
+ 05.06.2021, _V Perez-Carrasco, A Soriano-Lerma, M Soriano, J Gutiérrez-Fernández, JA Garcia-Salcedo_
+
+
+The application of next generation sequencing techniques has allowed the characterization of the urinary tract microbiome and has led to the rejection of the pre-established concept of sterility in the urinary bladder. Not only have microbial communities in the urinary tract been implicated in the maintenance of health but alterations in their composition have also been associated with different urinary pathologies, such as urinary tract infections (UTI). Therefore, the study of the urinary microbiome in healthy individuals, as well as its involvement in disease through the proliferation of opportunistic pathogens, could open a potential field of study, leading to new insights into prevention, diagnosis and treatment strategies for urinary pathologies. In this review we present an overview of the current state of knowledge about the urinary microbiome in health and disease, as well as its involvement in the development of new therapeutic strategies.
+
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.617002/full)
+
+10.3389/fcimb.2021.617002
 
 ---
 
@@ -337,6 +355,18 @@
 ## <span>Like</span>
 
 [Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=e7e712eb91)
+
+---
+
+## 1 person
+
+[Source](#)
+
+---
+
+## <span>Like</span>
+
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=1e008d2597)
 
 ---
 
