@@ -131,7 +131,7 @@ Human gut bacterial strains can co-exist with their hosts for decades, but littl
 ---
 
 ## Urinary Microbiome: Yin and Yang of the Urinary Tract.
- 05.06.2021, _V Perez-Carrasco, A Soriano-Lerma, M Soriano, J Gutiérrez-Fernández, JA Garcia-Salcedo_
+ 01.07.2021, _V Perez-Carrasco, A Soriano-Lerma, M Soriano, J Gutiérrez-Fernández, JA Garcia-Salcedo_
 
 
 The application of next generation sequencing techniques has allowed the characterization of the urinary tract microbiome and has led to the rejection of the pre-established concept of sterility in the urinary bladder. Not only have microbial communities in the urinary tract been implicated in the maintenance of health but alterations in their composition have also been associated with different urinary pathologies, such as urinary tract infections (UTI). Therefore, the study of the urinary microbiome in healthy individuals, as well as its involvement in disease through the proliferation of opportunistic pathogens, could open a potential field of study, leading to new insights into prevention, diagnosis and treatment strategies for urinary pathologies. In this review we present an overview of the current state of knowledge about the urinary microbiome in health and disease, as well as its involvement in the development of new therapeutic strategies.
@@ -354,7 +354,7 @@ The application of next generation sequencing techniques has allowed the charact
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=e7e712eb91)
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=cfe4d32260)
 
 ---
 
@@ -366,7 +366,7 @@ The application of next generation sequencing techniques has allowed the charact
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=1e008d2597)
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=4dcdb3a2b9)
 
 ---
 
