@@ -100,18 +100,6 @@
 
 ---
 
-## Effect of sodium-chloride ion difference on pH regulation.
- 01.07.2021, _H Nozawa, N Tsuboi, R Nariai, N Nishimura, S Nakagawa_
-
-
-In the Stewart approach, the difference between the cation and anion concentrations, especially between sodium, accounting for the majority of cations, and chloride, comprising the majority of anions, is an important factor in pH regulation. This study investigated the effect of sodium-chloride ion difference (SCD) on pH regulation comparing with those of PaCO2 and lactate.
-
-[Source](https://twitter.com/Falk_tw/status/1402886861908021248?ref_src=twsrc%5Etfw)
-
-10.1016/j.clinbiochem.2021.06.005
-
----
-
 ## June 10, 2021
 
 [Source](https://twitter.com/Falk_tw/status/1402886861908021248?ref_src=twsrc%5Etfw)
@@ -382,6 +370,19 @@ Microbial network construction is a popular explorative data analysis technique 
 
 ---
 
+## What electronic information resources do physiotherapists prefer to use to support their CPD?
+ 27.04.2021, _NJ Clode, B Darlow, J Rouse, M Perry_
+
+
+_Cross-Sectional Studies, Electronics, Humans, New Zealand, Physical Therapists, Surveys and Questionnaires_
+The way health professionals consume that informal professional education is changing. Physiotherapists are relying more on using electronic sources of information, including social media, to answer clinical questions. This study aims to identify the sources of electronic information physiotherapists in New Zealand use within their informal professional education.
+
+[Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
+
+10.1002/pri.1881
+
+---
+
 ## EMBARK Webinars
 
 [Source](https://gu-se.zoom.us/webinar/register/WN__8pjR_iXTM-66IepDgHZyw)
@@ -430,17 +431,6 @@ Foodborne diseases remain a global public health challenge worldwide. The Europe
 
 ---
 
-## Editorial for Article Collection on "Bacterial Survival Strategies".
- 01.07.2021, _K Forchhammer_
-
-
-
-[Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
-
-10.1159/000517629
-
----
-
 ## #microbiology
 
 [Source](https://twitter.com/hashtag/microbiology?src=hash&ref_src=twsrc%5Etfw)
@@ -461,7 +451,7 @@ Foodborne diseases remain a global public health challenge worldwide. The Europe
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=cfe4d32260)
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27916&_wpnonce=18427b6a06)
 
 ---
 
@@ -489,7 +479,7 @@ The existential crisis of nihilism in schizophrenia has been reported since the 
 
 Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon (SPAN) promises improved electrochemical performance for lithium-sulfur batteries, based on its compatibility with carbonate solvents and ability to prevent self-discharge and shuttle effect. However, a complete understanding of the SPAN's lithiation mechanism is still missing because its structural features vary widely with synthesis conditions, and its electrochemical performance deviates from elemental sulfur. This study continues our research on the elucidation of the SPAN's structural characteristics and lithiation mechanisms via computational approaches. Our models reproduce most experimental data regarding carbon's graphitization level and conjugated ordering, sulfur-carbon covalent bonding, sulfur loading, and elemental composition. Our simulations emulate the discharge voltage observed in experiments for the first discharge, which reveals that sulfur follows multiple reduction pathways based on its interaction with the carbon backbone. Sulfur reduction takes place above 1.0 V vs Li/Li+ mostly in the SPAN-like material, with no long-chain lithium polysulfide formation. Below 1.0 V vs Li/Li+, the backbone's electrochemical activity occurs via multiple C-Li and N-Li interactions, mostly with edge carbon atoms and pyridinic nitrogen. Moreover, we identify Li+ binding sites throughout the graphitized backbone that might lead to prohibited energy costs for Li+ deintercalation, which may explain the irreversible capacity loss between the first and second discharges. This work improves understanding of lithiation mechanisms in sulfurized carbon, which is useful for rationally designing SPAN synthesis pathways tailored to increase sulfur loading and enhanced electrochemical performance.
 
-[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=4dcdb3a2b9)
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=9aa6d00c81)
 
 10.1021/acsami.0c17537
 
@@ -497,7 +487,7 @@ Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon 
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=4dcdb3a2b9)
+[Source](https://microbiomedigest.com/2021/06/24/june-25-2021/?like_comment=27918&_wpnonce=9aa6d00c81)
 
 ---
 
