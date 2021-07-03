@@ -1,7 +1,8 @@
 ## The human microbiome and COVID-19: A systematic review.
- 25.06.2021, _S Yamamoto, M Saito, A Tamura, D Prawisuda, T Mizutani, H Yotsuyanagi_
+ 02.07.2021, _S Yamamoto, M Saito, A Tamura, D Prawisuda, T Mizutani, H Yotsuyanagi_
 
 
+_Bronchoalveolar Lavage Fluid, COVID-19, Dysbiosis, Feces, Gastrointestinal Microbiome, Humans, Microbiota, Nasopharynx_
 Human microbiotas are communities of microorganisms living in symbiosis with humans. They play an important role in the host immune response to respiratory viral infection. However, evidence on the human microbiome and coronavirus disease (COVID-19) relationship is insufficient. The aim of this systematic literature review was to evaluate existing evidence on the association between the microbiome and COVID-19 in humans and summarize these data in the pandemic era.
 
 [Source](https://doi.org/10.1371/journal.pone.0253293)
