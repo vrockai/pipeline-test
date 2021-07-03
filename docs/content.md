@@ -35,15 +35,15 @@ The gut microbiome may play a role in inflammation associated with type 2 diabet
 
 ---
 
-## Fetal abdominal tumors and cysts.
- 01.07.2021, _DL Cass_
+## The association between placenta-associated circulating biomarkers and composite adverse delivery outcome of a likely placental cause in healthy post-date pregnancies.
+ 02.07.2021, _S Bowe, B Mitlid-Mork, A Georgieva, JM Gran, CWG Redman, AC Staff, M Sugulle_
 
 
-This article reviews the contemporary diagnosis and management of the most common abdominal neoplasms and cystic lesions diagnosed in the fetus. Fetal tumors discussed include teratomas (sacrococcygeal, cervical or mediastinal), mesoblastic nephroma, nephroblastoma (Wilms' tumor), neuroblastoma, and hepatoblastoma. Fetal abdominal cystic lesions discussed include ovarian cyst, choledochal cyst, intestinal duplication cyst, mesenteric cyst, simple hepatic cyst, and meconium pseudocyst. We discuss the rare indications for fetal intervention or fetal surgery and other perinatal management, including prenatal interventions and fetal surgery for sacrococcygeal teratoma. The lesions reviewed are detected by widespread use of screening ultrasonography during pregnancy. Work-up for these abnormalities may include fetal MRI which enhances the diagnostic accuracy of abdominal tumors and cystic lesions and can aid in characterization of the lesion in relationship to surrounding anatomic structures. Accurate prenatal diagnosis of such lesions permits recommendations for optimal location and timing of delivery, and inclusion of appropriate caregivers and expertise to facilitate postnatal management. Perinatal management of the fetus with a neoplasm requires consideration of the optimal timing and mode of delivery, and pediatric oncology and surgical specialty care. The majority of tumors diagnosed antenatally have good prognosis with current multimodality treatment.
+Post-date pregnancies have an increased risk of adverse delivery outcome. Our aim was to explore the association between placenta-associated circulating biomarkers and composite adverse delivery outcome of a likely placental cause in clinically healthy post-date pregnancies.
 
 [Source](https://doi.org/10.1038/s41564-021-00904-0)
 
-10.21037/tp-20-440
+10.1111/aogs.14223
 
 ---
 
@@ -124,9 +124,15 @@ Metagenomic analysis of food is becoming more routine and can provide important 
 
 ---
 
-## Metagenomic compendium of 189,680 DNA viruses from the human gut microbiome
+## Metagenomic compendium of 189,680 DNA viruses from the human gut microbiome.
+ 30.06.2021, _S Nayfach, D Páez-Espino, L Call, SJ Low, H Sberro, NN Ivanova, AD Proal, MA Fischbach, AS Bhatt, P Hugenholtz, NC Kyrpides_
+
+
+Bacteriophages have important roles in the ecology of the human gut microbiome but are under-represented in reference databases. To address this problem, we assembled the Metagenomic Gut Virus catalogue that comprises 189,680 viral genomes from 11,810 publicly available human stool metagenomes. Over 75% of genomes represent double-stranded DNA phages that infect members of the Bacteroidia and Clostridia classes. Based on sequence clustering we identified 54,118 candidate viral species, 92% of which were not found in existing databases. The Metagenomic Gut Virus catalogue improves detection of viruses in stool metagenomes and accounts for nearly 40% of CRISPR spacers found in human gut Bacteria and Archaea. We also produced a catalogue of 459,375 viral protein clusters to explore the functional potential of the gut virome. This revealed tens of thousands of diversity-generating retroelements, which use error-prone reverse transcription to mutate target genes and may be involved in the molecular arms race between phages and their bacterial hosts.
 
 [Source](https://doi.org/10.1038/s41564-021-00928-6)
+
+10.1038/s41564-021-00928-6
 
 ---
 
