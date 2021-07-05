@@ -340,3 +340,9 @@ It has been shown that gut dysbiosis can be associated with the development of t
 
 ---
 
+## Joint Modeling Of Zero-inflated Longitudinal Proportions And Time-to-event Data With application to a gut microbiome study.
+
+[Source](https://doi.org/10.1111/biom.13515)
+
+---
+
