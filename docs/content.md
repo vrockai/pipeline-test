@@ -10,8 +10,8 @@ Many recent studies have shown that the gut microbiome plays important roles in 
 
 ---
 
-## Exploring the Role of Respiratory Microbiome in Lung Cancer: a Systematic Review.
- 02.07.2021, _F Perrone, L Belluomini, M Mazzotta, M Bianconi, V Di Noia, F Meacci, M Montrone, D Pignataro, A Prelaj, S Rinaldi, M Russano, G Sartori, P Bironzo, F Facchinetti, J Menis, M Tiseo, D Galetta, S Novello, S Pilotto_
+## Exploring the role of respiratory microbiome in lung cancer: A systematic review.
+ 05.07.2021, _F Perrone, L Belluomini, M Mazzotta, M Bianconi, V Di Noia, F Meacci, M Montrone, D Pignataro, A Prelaj, S Rinaldi, M Russano, G Sartori, P Bironzo, F Facchinetti, J Menis, M Tiseo, D Galetta, S Novello, S Pilotto_
 
 
 Giving the potential contribute in cancer initiation and progression, lung microbiota represents a promising topic in cancer research, although still unexplored. We performed a systematic literature search to identify clinical studies evaluating lung microbiota composition, its correlation with lung cancer patients' clinico-pathological features and prognosis. Of the identified 370 studies, 21 were eligible and included. Although studies were heterogeneous, lung cancer resulted to be enriched in peculiar microbial communities, with differences in composition and diversity according to clinico-pathological parameters. Few studies explored how lung microbiota influences cancer outcome. In light of these findings and borrowing the suggestions coming from gut microbiota, we speculate that respiratory microbiome may influence pathogenesis, progression and outcome of lung cancer. Taking advantage of the experience of chronical lung diseases, prospective studies should be designed to evaluate lung microbiota changes throughout any phase of lung cancer course, particularly with the advent of immunotherapy as pivotal treatment.
@@ -19,6 +19,12 @@ Giving the potential contribute in cancer initiation and progression, lung micro
 [Source](https://doi.org/10.1016/j.critrevonc.2021.103404)
 
 10.1016/j.critrevonc.2021.103404
+
+---
+
+## Exploring The Role Of Respiratory Microbiome In Lung Cancer: A Systematic Review
+
+[Source](https://doi.org/10.1016/j.critrevonc.2021.103404)
 
 ---
 
@@ -59,7 +65,7 @@ While modulatory effects of gut microbes on neurological phenotypes have been re
 ---
 
 ## Mucosa-associated gut microbiota reflects clinical course of ulcerative colitis.
- 03.07.2021, _Y Nishihara, H Ogino, M Tanaka, E Ihara, K Fukaura, K Nishioka, T Chinen, Y Tanaka, J Nakayama, D Kang, Y Ogawa_
+ 05.07.2021, _Y Nishihara, H Ogino, M Tanaka, E Ihara, K Fukaura, K Nishioka, T Chinen, Y Tanaka, J Nakayama, D Kang, Y Ogawa_
 
 
 This longitudinal study was designed to elucidate whether gut microbiota is associated with relapse and treatment response in ulcerative colitis (UC) patients. Fifty-one patients with UC were enrolled between 2012 and 2017, and followed up through 2020. Colon mucosal biopsy were obtained at enrollment, and 16S ribosomal RNA sequencing was performed using extracted RNA. Of the 51 patients, 24 were in remission and 27 had active UC at enrollment. Of the 24 patients in remission, 17 maintained remission and 7 developed relapse during follow-up. The 7 patients with relapse showed lower diversity, with a lower proportion of Clostridiales (p = 0.0043), and a higher proportion of Bacteroides (p = 0.047) at enrollment than those without relapse. The 27 patients with active UC were classified into response (n = 6), refractory (n = 13), and non-response (n = 8) groups according to their treatment response in 6 months. The refractory and non-response groups showed lower diversity with a lower proportion of Prevotella (p = 0.048 and 0.043) at enrollment than the response group. This study is the first demonstration that reduced diversity and particular microbes are associated with the later clinical course of relapse events and treatment response in UC.
@@ -77,7 +83,7 @@ This longitudinal study was designed to elucidate whether gut microbiota is asso
 ---
 
 ## Helicobacter pylori infection-induced changes in the intestinal microbiota of 14-year-old or 15-year-old Japanese adolescents: a cross-sectional study.
- 03.07.2021, _T Kakiuchi, Y Tanaka, H Ohno, M Matsuo, K Fujimoto_
+ 05.07.2021, _T Kakiuchi, Y Tanaka, H Ohno, M Matsuo, K Fujimoto_
 
 
 The relationship between Helicobacter pylori and the intestinal microbiota has not yet been clearly demonstrated in children and adolescents. The present study aimed at evaluating how H. pylori infection could affect the intestinal microbiota in adolescents using genetic analysis.
@@ -131,7 +137,7 @@ Gut microbiota, especially human pathogens, has been shown to be involved in the
 ---
 
 ## Vaginal Lactobacilli and Vaginal Dysbiosis-Associated Bacteria Differently Affect Cervical Epithelial and Immune Homeostasis and Anti-Viral Defenses.
- 02.07.2021, _S Nicolò, M Tanturli, G Mattiuz, A Antonelli, I Baccani, C Bonaiuto, S Baldi, G Nannini, M Menicatti, G Bartolucci, GM Rossolini, A Amedei, MG Torcia_
+ 05.07.2021, _S Nicolò, M Tanturli, G Mattiuz, A Antonelli, I Baccani, C Bonaiuto, S Baldi, G Nannini, M Menicatti, G Bartolucci, GM Rossolini, A Amedei, MG Torcia_
 
 
 Persistent infection with High Risk-Human Papilloma Viruses (HR-HPVs) is a primary cause of cervical cancer worldwide. Vaginal-dysbiosis-associated bacteria were correlated with the persistence of HR-HPVs infection and with increased cancer risk. We obtained strains of the most represented bacterial species in vaginal microbiota and evaluated their effects on the survival of cervical epithelial cells and immune homeostasis. The contribution of each species to supporting the antiviral response was also studied. Epithelial cell viability was affected by culture supernatants of most vaginal-dysbiosis bacteria, whereas Lactobacillus gasseri or Lactobacillus jensenii resulted in the best stimulus to induce interferon-γ (IFN-γ) production by human mononuclear cells from peripheral blood (PBMCs). Although vaginal-dysbiosis-associated bacteria induced the IFN-γ production, they were also optimal stimuli to interleukin-17 (IL-17) production. A positive correlation between IL-17 and IFN-γ secretion was observed in cultures of PBMCs with all vaginal-dysbiosis-associated bacteria suggesting that the adaptive immune response induced by these strains is not dominated by TH1 differentiation with reduced availability of IFN-γ, cytokine most effective in supporting virus clearance. Based on these results, we suggest that a vaginal microbiota dominated by lactobacilli, especially by L. gasseri or L. jensenii, may be able to assist immune cells with clearing HPV infection, bypasses the viral escape and restores immune homeostasis.
@@ -143,7 +149,7 @@ Persistent infection with High Risk-Human Papilloma Viruses (HR-HPVs) is a prima
 ---
 
 ## Finding a Balance in the Vaginal Microbiome: How Do We Treat and Prevent the Occurrence of Bacterial Vaginosis?
- 02.07.2021, _RJ Joseph, HL Ser, YH Kuai, LT Tan, VJT Arasoo, V Letchumanan, L Wang, P Pusparajah, BH Goh, NS Ab Mutalib, KG Chan, LH Lee_
+ 05.07.2021, _RJ Joseph, HL Ser, YH Kuai, LT Tan, VJT Arasoo, V Letchumanan, L Wang, P Pusparajah, BH Goh, NS Ab Mutalib, KG Chan, LH Lee_
 
 
 Bacterial vaginosis (BV) has been reported in one-third of women worldwide at different life stages, due to the complex balance in the ecology of the vaginal microbiota. It is a common cause of abnormal vaginal discharge and is associated with other health issues. Since the first description of anaerobic microbes associated with BV like Gardnerella vaginalis in the 1950s, researchers have stepped up the game by incorporating advanced molecular tools to monitor and evaluate the extent of dysbiosis within the vaginal microbiome, particularly on how specific microbial population changes compared to a healthy state. Moreover, treatment failure and BV recurrence rate remain high despite the standard antibiotic treatment. Consequently, researchers have been probing into alternative or adjunct treatments, including probiotics or even vaginal microbiota transplants, to ensure successful treatment outcomes and reduce the colonization by pathogenic microbes of the female reproductive tract. The current review summarizes the latest findings in probiotics use for BV and explores the potential of vaginal microbiota transplants in restoring vaginal health.
@@ -167,7 +173,7 @@ To date, most researchhas focused on the bacterial composition of the human micr
 ---
 
 ## Characterizing the Effects of Calcium and Prebiotic Fiber on Human Gut Microbiota Composition and Function Using a Randomized Crossover Design-A Feasibility Study.
- 02.07.2021, _LS Yoon, KB Michels_
+ 05.07.2021, _LS Yoon, KB Michels_
 
 
 Consumption of prebiotic inulin has been found to increase calcium absorption, which may protect against gut diseases such as colorectal cancer. This dietary relation may be modulated by compositional changes in the gut microbiota; however, no human study has addressed this hypothesis. We determined the feasibility of a randomized crossover trial to evaluate the effect of three interventions (combined calcium and inulin supplementation, calcium supplementation alone, and inulin supplementation alone) on the intestinal microbiota composition and function. We conducted a 16-week pilot study in 12 healthy adults who consumed the three interventions in a random sequence. Participants provided fecal and blood samples before and after each intervention. Each intervention period lasted four weeks and was flanked by one-week washout periods. 16S ribosomal RNA sequencing and quantification of short chain fatty acids (SCFA) was determined in fecal samples. Systemic lipopolysaccharide binding protein (LBP) was quantified in serum. Of the 12 individuals assigned to an intervention sequence, seven completed the study. Reasons for dropout included time (n = 3), gastrointestinal discomfort (n = 1), and moving (n = 1). Overall, participants reported positive attitudes towards the protocol (n = 9) but were unsatisfied by the practicalities of supplement consumption (44%) and experienced digestive discomfort (56%). We found no appreciable differences in microbial composition, SCFA concentration, nor LBP concentrations when comparing intervention periods. In conclusion, an intervention study using a randomized crossover design with calcium and a prebiotic fiber is feasible. Improvements of our study design include using a lower dose prebiotic fiber supplement and a larger sample size.
@@ -179,7 +185,7 @@ Consumption of prebiotic inulin has been found to increase calcium absorption, w
 ---
 
 ## Gut Microbiota Profile and Its Association with Clinical Variables and Dietary Intake in Overweight/Obese and Lean Subjects: A Cross-Sectional Study.
- 02.07.2021, _J Companys, MJ Gosalbes, L Pla-Pagà, L Calderón-Pérez, E Llauradó, A Pedret, RM Valls, N Jiménez-Hernández, BA Sandoval-Ramirez, JM Del Bas, A Caimari, L Rubió, R Solà_
+ 05.07.2021, _J Companys, MJ Gosalbes, L Pla-Pagà, L Calderón-Pérez, E Llauradó, A Pedret, RM Valls, N Jiménez-Hernández, BA Sandoval-Ramirez, JM Del Bas, A Caimari, L Rubió, R Solà_
 
 
 We aimed to differentiate gut microbiota composition of overweight/obese and lean subjects and to determine its association with clinical variables and dietary intake. A cross-sectional study was performed with 96 overweight/obese subjects and 32 lean subjects. Anthropometric parameters were positively associated with Collinsella aerofaciens, Dorea formicigenerans and Dorea longicatena, which had higher abundance the overweight/obese subjects. Moreover, different genera of Lachnospiraceae were negatively associated with body fat, LDL and total cholesterol. Saturated fatty acids (SFAs) were negatively associated with the genus Intestinimonas, a biomarker of the overweight/obese group, whereas SFAs were positively associated with Roseburia, a biomarker for the lean group. In conclusion, Dorea formicigenerans, Dorea longicatena and Collinsella aerofaciens could be considered obesity biomarkers, Lachnospiraceae is associated with lipid cardiovascular risk factors. SFAs exhibited opposite association profiles with butyrate-producing bacteria depending on the BMI. Thus, the relationship between diet and microbiota opens new tools for the management of obesity.
@@ -221,7 +227,7 @@ Recently, much attention has been paid to the COVID-19 pandemic. Yet bacterial r
 ---
 
 ## Reversion of Gut Microbiota during the Recovery Phase in Patients with Asymptomatic or Mild COVID-19: Longitudinal Study.
- 02.07.2021, _HN Kim, EJ Joo, CW Lee, KS Ahn, HL Kim, DI Park, SK Park_
+ 05.07.2021, _HN Kim, EJ Joo, CW Lee, KS Ahn, HL Kim, DI Park, SK Park_
 
 
 Patients with COVID-19 have been reported to experience gastrointestinal symptoms as well as respiratory symptoms, but the effects of COVID-19 on the gut microbiota are poorly understood. We explored gut microbiome profiles associated with the respiratory infection of SARS-CoV-2 during the recovery phase in patients with asymptomatic or mild COVID-19. A longitudinal analysis was performed using the same patients to determine whether the gut microbiota changed after recovery from COVID-19. We applied 16S rRNA amplicon sequencing to analyze two paired fecal samples from 12 patients with asymptomatic or mild COVID-19. Fecal samples were selected at two time points: during SARS-CoV-2 infection (infected state) and after negative conversion of the viral RNA (recovered state). We also compared the microbiome data with those from 36 healthy controls. Microbial evenness of the recovered state was significantly increased compared with the infected state. SARS-CoV-2 infection induced the depletion of Bacteroidetes, while an abundance was observed with a tendency to rapidly reverse in the recovered state. The Firmicutes/Bacteroidetes ratio in the infected state was markedly higher than that in the recovered state. Gut dysbiosis was observed after infection even in patients with asymptomatic or mild COVID-19, while the composition of the gut microbiota was recovered after negative conversion of SARS-CoV-2 RNA. Modifying intestinal microbes in response to COVID-19 might be a useful therapeutic alternative.
@@ -341,9 +347,10 @@ Antimicrobial resistance poses super challenges in both human health and livesto
 ---
 
 ## Leaf metabolic influence of glyphosate and nanotubes on the Arabidopsis thaliana phyllosphere.
- 02.07.2021, _M Ke, Y Ye, Y Li, Z Zhou, N Xu, L Feng, J Zhang, T Lu, Z Cai, H Qian_
+ 05.07.2021, _M Ke, Y Ye, Y Li, Z Zhou, N Xu, L Feng, J Zhang, T Lu, Z Cai, H Qian_
 
 
+_Arabidopsis, Glycine, Microbiota, Nanotubes, Carbon, Plant Leaves_
 Chemical exposure can indirectly affect leaf microbiota communities, but the mechanism driving this phenomenon remains largely unknown. Results revealed that the co-exposure of glyphosate and multi-carbon nanotubes (CNTs) caused a synergistic inhibitory effect on the growth and metabolism of Arabidopsis thaliana shoots. However, only a slight inhibitory effect was induced by nanotubes or glyphosate alone at the tested concentrations. Several intermediate metabolites of nitrogen metabolism and fatty acid synthesis pathways were upregulated under the combined treatment, which increased the amount of energy required to alleviate the disruption caused by the combined treatment. Additionally, compared with the two individual treatments, the glyphosate/nanotube combination treatment induced greater fluctuations in the phyllosphere bacterial community members with low abundance (relative abundance (RA) &lt;1%) at both the family and genus levels, and among these bacteria some plant growth promotion and nutrient supplement related bacteria were markable increased. Strikingly, strong correlations between phyllosphere bacterial diversity and metabolites suggested a potential role of leaf metabolism, particularly nitrogen and carbohydrate metabolism, in restricting the range of leaf microbial taxa. These correlations between phyllosphere bacterial diversity and leaf metabolism will improve our understanding of plant-microbe interactions and the extent of their drivers of variation and the underlying causes of variability in bacterial community composition.
 
 [Source](https://doi.org/10.1016/j.jes.2021.01.002)
