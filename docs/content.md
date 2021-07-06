@@ -298,18 +298,6 @@ It has been shown that gut dysbiosis can be associated with the development of t
 
 ---
 
-## Metagenomics analysis revealed the distinctive ruminal microbiome and resistive profiles in dairy buffaloes.
- 02.07.2021, _HZ Sun, KL Peng, MY Xue, JX Liu_
-
-
-Antimicrobial resistance poses super challenges in both human health and livestock production. Rumen microbiota is a large reservoir of antibiotic resistance genes (ARGs), which show significant varations in different host species and lifestyles. To compare the microbiome and resistome between dairy cows and dairy buffaloes, the microbial composition, functions and harbored ARGs of rumen microbiota were explored between 16 dairy cows (3.93 ± 1.34 years old) and 15 dairy buffaloes (4.80 ± 3.49 years old) using metagenomics.
-
-[Source](https://doi.org/10.1186/s42523-021-00103-6)
-
-10.1186/s42523-021-00103-6
-
----
-
 ## Metagenomics Analysis Revealed The Distinctive Ruminal Microbiome And Resistive profiles in dairy buffaloes
 
 [Source](https://doi.org/10.1186/s42523-021-00103-6)
@@ -322,18 +310,6 @@ Antimicrobial resistance poses super challenges in both human health and livesto
 
 ---
 
-## Microbiome-mediated effects of habitat fragmentation on native plant performance.
- 02.07.2021, _KN Kiesewetter, ME Afkhami_
-
-
-●Habitat fragmentation is a leading cause of biodiversity and ecosystem function loss in the Anthropocene. Despite the importance of plant-microbiome interactions to ecosystem productivity, we have limited knowledge of how fragmentation affects microbiomes and even less knowledge of its consequences for microbial interactions with plants. ●Combining field surveys, microbiome sequencing, manipulative experiments, and random forest models, we (1) investigated fragmentation legacy effects on soil microbiomes in imperiled Pine Rocklands, (2) tested how compositional shifts across 14 fragmentation-altered soil microbiomes affected performance and resource allocation of three native plant species, and (3) identified fragmentation-responding microbial families underpinning plant performance. ●Legacies of habitat fragmentation were associated with significant changes in microbial diversity and composition (across three of four community axes). Experiments showed plants often strongly benefited from the microbiome's presence, but fragmentation-associated changes in microbiome composition also significantly affected plant performance and resource allocation across all seven metrics examined. Finally, random forest models identified ten fungal and six bacterial families important for plant performance that changed significantly with fragmentation. ●Our findings not only support the existence of significant fragmentation effects on natural microbiomes, but also demonstrate for the first time that fragmentation-associated changes in microbiomes can have meaningful consequences for native plant performance and investment.
-
-[Source](https://doi.org/10.1111/nph.17595)
-
-10.1111/nph.17595
-
----
-
 ## Microbiome-mediated Effects Of Habitat Fragmentation On Native Plant Performance
 
 [Source](https://doi.org/10.1111/nph.17595)
@@ -343,19 +319,6 @@ Antimicrobial resistance poses super challenges in both human health and livesto
 ## Improvement Of Soil Microbial Diversity Through Sustainable Agricultural Practices and Its Evaluation by -Omics Approaches: A Perspective for the Environment, Food&nbsp; Quality and Human Safety
 
 [Source](https://doi.org/10.3390/microorganisms9071400)
-
----
-
-## Leaf metabolic influence of glyphosate and nanotubes on the Arabidopsis thaliana phyllosphere.
- 05.07.2021, _M Ke, Y Ye, Y Li, Z Zhou, N Xu, L Feng, J Zhang, T Lu, Z Cai, H Qian_
-
-
-_Arabidopsis, Glycine, Microbiota, Nanotubes, Carbon, Plant Leaves_
-Chemical exposure can indirectly affect leaf microbiota communities, but the mechanism driving this phenomenon remains largely unknown. Results revealed that the co-exposure of glyphosate and multi-carbon nanotubes (CNTs) caused a synergistic inhibitory effect on the growth and metabolism of Arabidopsis thaliana shoots. However, only a slight inhibitory effect was induced by nanotubes or glyphosate alone at the tested concentrations. Several intermediate metabolites of nitrogen metabolism and fatty acid synthesis pathways were upregulated under the combined treatment, which increased the amount of energy required to alleviate the disruption caused by the combined treatment. Additionally, compared with the two individual treatments, the glyphosate/nanotube combination treatment induced greater fluctuations in the phyllosphere bacterial community members with low abundance (relative abundance (RA) &lt;1%) at both the family and genus levels, and among these bacteria some plant growth promotion and nutrient supplement related bacteria were markable increased. Strikingly, strong correlations between phyllosphere bacterial diversity and metabolites suggested a potential role of leaf metabolism, particularly nitrogen and carbohydrate metabolism, in restricting the range of leaf microbial taxa. These correlations between phyllosphere bacterial diversity and leaf metabolism will improve our understanding of plant-microbe interactions and the extent of their drivers of variation and the underlying causes of variability in bacterial community composition.
-
-[Source](https://doi.org/10.1016/j.jes.2021.01.002)
-
-10.1016/j.jes.2021.01.002
 
 ---
 
@@ -377,33 +340,9 @@ Chemical exposure can indirectly affect leaf microbiota communities, but the mec
 
 ---
 
-## phyLoSTM: a novel deep learning model on disease prediction from longitudinal microbiome data.
- 02.07.2021, _D Sharma, W Xu_
-
-
-Research shows that human microbiome is highly dynamic on longitudinal timescales, changing dynamically with diet, or due to medical interventions. In this paper, we propose a novel deep learning framework "phyLoSTM", using a combination of Convolutional Neural Networks and Long Short Term Memory Networks (LSTM) for feature extraction and analysis of temporal dependency in longitudinal microbiome sequencing data along with host's environmental factors for disease prediction. Additional novelty in terms of handling variable timepoints in subjects through LSTMs, as well as, weight balancing between imbalanced cases and controls is proposed.
-
-[Source](https://doi.org/10.1093/bioinformatics/btab482)
-
-10.1093/bioinformatics/btab482
-
----
-
 ## PhyLoSTM: A Novel Deep Learning Model On Disease Prediction From Longitudinal microbiome data
 
 [Source](https://doi.org/10.1093/bioinformatics/btab482)
-
----
-
-## Joint modeling of zero-inflated longitudinal proportions and time-to-event data with application to a gut microbiome study.
- 02.07.2021, _J Hu, C Wang, MJ Blaser, H Li_
-
-
-Recent studies have suggested that the temporal dynamics of the human microbiome may have associations with human health and disease. An increasing number of longitudinal microbiome studies, which record time to disease onset, aim to identify candidate microbes as biomarkers for prognosis. Owing to the ultra-skewness and sparsity of microbiome proportion (relative abundance) data, directly applying traditional statistical methods may result in substantial power loss or spurious inferences. We propose a novel joint modeling framework [JointMM], which is comprised of two sub-models: a longitudinal sub-model called zero-inflated scaled-Beta generalized linear mixed-effects regression to depict the temporal structure of microbial proportions among subjects; and a survival sub-model to characterize the occurrence of an event and its relationship with the longitudinal microbiome proportions. JointMM is specifically designed to handle the zero-inflated and highly skewed longitudinal microbial proportion data and examine whether the temporal pattern of microbial presence and/or the non-zero microbial proportions are associated with differences in the time to an event. The longitudinal sub-model of JointMM also provides the capacity to investigate how the (time-varying) covariates are related to the temporal microbial presence/absence patterns and/or the changing trend in non-zero proportions. Comprehensive simulations and real data analyses are used to assess the statistical efficiency and interpretability of JointMM. This article is protected by copyright. All rights reserved.
-
-[Source](https://doi.org/10.1111/biom.13515)
-
-10.1111/biom.13515
 
 ---
 
