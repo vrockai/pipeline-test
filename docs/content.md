@@ -1,126 +1,144 @@
-## Microbiota regulate social behaviour via stress response neurons in the brain.
- 01.07.2021, _WL Wu, MD Adame, CW Liou, JT Barlow, TT Lai, G Sharon, CE Schretter, BD Needham, MI Wang, W Tang, J Ousey, YY Lin, TH Yao, R Abdel-Haq, K Beadle, V Gradinaru, RF Ismagilov, SK Mazmanian_
+## Cross-Scale Analyses of Animal and Human Gut Microbiome Assemblies from Metacommunity to Global Landscape.
+ 06.07.2021, _ZS Ma_
 
 
-Social interactions among animals mediate essential behaviours, including mating, nurturing, and defence1,2. The gut microbiota contribute to social activity in mice3,4, but the gut-brain connections that regulate this complex behaviour and its underlying neural basis are unclear5,6. Here we show that the microbiome modulates neuronal activity in specific brain regions of male mice to regulate canonical stress responses and social behaviours. Social deviation in germ-free and antibiotic-treated mice is associated with elevated levels of the stress hormone corticosterone, which is primarily produced by activation of the hypothalamus-pituitary-adrenal (HPA) axis. Adrenalectomy, antagonism of glucocorticoid receptors, or pharmacological inhibition of corticosterone synthesis effectively corrects social deficits following microbiome depletion. Genetic ablation of glucocorticoid receptors in specific brain regions or chemogenetic inactivation of neurons in the paraventricular nucleus of the hypothalamus that produce corticotrophin-releasing hormone (CRH) reverse social impairments in antibiotic-treated mice. Conversely, specific activation of CRH-expressing neurons in the paraventricular nucleus induces social deficits in mice with a normal microbiome. Via microbiome profiling and in vivo selection, we identify a bacterial species, Enterococcus faecalis, that promotes social activity and reduces corticosterone levels in mice following social stress. These studies suggest that specific gut bacteria can restrain the activation of the HPA axis, and show that the microbiome can affect social behaviours through discrete neuronal circuits that mediate stress responses in the brain.
+Animal (human) gut microbiomes have been coevolving with their hosts for many millions of years. Understanding how the coevolution shapes the processes of microbiome assembly and diversity maintenance is important but rather challenging. An effort may start with the understanding of how and why animals and humans may differ in their microbiome neutrality (stochasticity) levels. Here, we attempted to perform layered comparative stochasticity analyses across animal species (including humans), class, and kingdom scales, corresponding to microbial metacommunity, landscape, and global-landscape scales. By analyzing 4,903 microbiome samples from 274 animal species covering 4 major invertebrate classes and all 6 vertebrate classes and including 1,787 human gut microbiome samples, we discovered the following: (i) at the microbial metacommunity (animal species) scale, although the general trend of stochasticity (measured in the relationships between fundamental biodiversity/dispersal numbers of Hubbell's neutral theory and host species phylogenetic timeline) seems continuous, there seems to be a turning point from animals to humans in the passing rate of neutrality tests (12% to 45% versus 100%). We postulate that it should be the human experiences from agricultural/industrial activities (e.g., diet effects) and frequent social/familial contacts that are responsible for the dramatically rising stochastic neutrality in human gut microbiomes. (ii) At the microbial landscape (animal class) and global landscape (animal kingdom) scales, neutrality is not detectable, suggesting that the landscape is niche differentiated-animal species may possess "home niches" for their coadapted microbiomes. We further analyze the reliabilities of our findings by using variable P value thresholds (type I error) and performing power analysis (type II error) of neutrality tests. IMPORTANCE Understanding how the coevolution (evolutionary time scale) and/or the interactions (ecological time scale) between animal (human) gut microbiomes and their hosts shape the processes of the microbiome assembly and diversity maintenance is important but rather challenging. An effort may start with the understanding of how and why animals and humans may differ in their microbiome neutrality (stochasticity) levels. Here, we attempted to perform layered comparative stochasticity analyses across animal species (including humans), class, and kingdom scales, corresponding to microbial metacommunity, landscape, and global-landscape scales by analyzing 4,903 microbiome samples from 274 animal species covering 4 major invertebrate classes and all 6 vertebrate classes, and including 1,787 human gut microbiome samples. The analyses were implemented by fitting the multisite neutral model and further augmented by checking false-positive and false-negative errors, respectively. It appears that there is a turning (tipping) point in the neutrality level from animal to human microbiomes.
 
-[Source](https://www.nature.com/articles/s41586-021-03669-y)
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00633-21)
 
-10.1038/s41586-021-03669-y
-
----
-
-## Defining the resilience of the human salivary microbiota by a 520-day longitudinal study in a confined environment: the Mars500 mission
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01070-5)
+10.1128/mSystems.00633-21
 
 ---
 
-## A MicroRNA Gene Panel Predicts the Vaginal Microbiota Composition.
- 05.05.2021, _L Cheng, D Kaźmierczak, J Norenhag, M Hamsten, E Fransson, I Schuppe-Koistinen, M Olovsson, L Engstrand, P Hydbring, J Du_
+## Microbiota long-term dynamics and prediction of acute graft-versus-host disease in pediatric allogeneic stem cell transplantation.
+ 02.07.2021, _AC Ingham, K Kielsen, H Mordhorst, M Ifversen, FM Aarestrup, KG Müller, SJ Pamp_
 
 
-The vaginal microbiota plays an essential role in vaginal health. The vaginas of many reproductive-age women are dominated by one of the Lactobacillus species. However, the vaginas of a large number of women are characterized by the colonization of several other anaerobes. Notably, some women with the non-Lactobacillus-dominated vaginal microbiota develop bacterial vaginosis, which has been correlated with sexually transmitted infections and other adverse outcomes. However, interactions and mechanisms linking the vaginal microbiota to host response are still under investigation. There are studies suggesting a link between human microRNAs and gut microbiota, but limited analysis has been carried out on the interplay of microRNAs and vaginal microbiota. In this study, we performed a microRNA expression array profiling on 67 vaginal samples from young Swedish women. MicroRNAs were clustered into distinct groups according to vaginal microbiota composition. Interestingly, 182 microRNAs were significantly elevated in their expression in the non-Lactobacillus-dominated community, suggesting an antagonistic relationship between Lactobacillus and microRNAs. Of the elevated microRNAs, 10 microRNAs displayed excellent diagnostic potential, visualized by receiver operating characteristics analysis. We further validated our findings in 34 independent samples where expression of top microRNA candidates strongly separated the Lactobacillus-dominated community from the non-Lactobacillus-dominated community in the vaginal microbiota. Notably, the Lactobacillus crispatus-dominated community showed the most profound differential microRNA expression compared with the non-Lactobacillus-dominated community. In conclusion, we demonstrate a strong relationship between the vaginal microbiota and numerous genital microRNAs, which may facilitate a deeper mechanistic interplay in this biological niche.IMPORTANCE Vaginal microbiota is correlated with women's health, where a non-Lactobacillus-dominated community predisposes women to a higher risk of disease, including human papillomavirus (HPV). However, the molecular relationship between the vaginal microbiota and host is largely unexplored. In this study, we investigated a link between the vaginal microbiota and host microRNAs in a group of young women. We uncovered an inverse correlation of the expression of microRNAs with the abundance of Lactobacillus species in the vaginal microbiota. Particularly, the expression of microRNA miR-23a-3p and miR-130a-3p, displaying significantly elevated levels in non-Lactobacillus-dominated communities, predicted the bacterial composition of the vaginal microbiota in an independent validation group. Since targeting of microRNAs is explored in the clinical setting, our results warrant investigation of whether microRNA modulation could be used for treating vaginosis recurrence and vaginosis-related diseases. Conversely, commensal bacteria could be used for treating diseases with microRNA aberrations.
+Patients undergoing allogeneic hematopoietic stem cell transplantation (HSCT) exhibit changes in their gut microbiota and are experiencing a range of complications, including acute graft-versus-host disease (aGvHD). It is unknown if, when, and under which conditions a re-establishment of microbial and immunological homeostasis occurs. It is also unclear whether microbiota long-term dynamics occur at other body sites than the gut such as the mouth or nose. Moreover, it is not known whether the patients' microbiota prior to HSCT holds clues to whether the patient would suffer from severe complications subsequent to HSCT. Here, we take a holobiont perspective and performed an integrated host-microbiota analysis of the gut, oral, and nasal microbiota in 29 children undergoing allo-HSCT.
 
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00175-21)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01100-2)
 
-10.1128/mSystems.00175-21
-
----
-
-## Gut microbiota mediate the FGF21 adaptive stress response to chronic dietary protein-restriction in mice.
- 28.06.2021, _A Martin, G Ecklu-Mensah, CWY Ha, G Hendrick, DK Layman, J Gilbert, S Devkota_
-
-
-Chronic dietary protein-restriction can create essential amino acid deficiencies and induce metabolic adaptation through the hepatic FGF21 pathway which serves to maintain host fitness during prolonged states of nutritional imbalance. Similarly, the gut microbiome undergoes metabolic adaptations when dietary nutrients are added or withdrawn. Here we confirm previous reports that dietary protein-restriction triggers the hepatic FGF21 adaptive metabolic pathway and further demonstrate that this response is mediated by the gut microbiome and can be tuned through dietary supplementation of fibers that alter the gut microbiome. In the absence of a gut microbiome, we discover that FGF21 is de-sensitized to the effect of protein-restriction. These data suggest that host-intrinsic adaptive pathways to chronic dietary protein-restriction, such as the hepatic FGF21 pathway, may in-fact be responding first to adaptive metabolic changes in the gut microbiome.
-
-[Source](https://www.nature.com/articles/s41467-021-24074-z)
-
-10.1038/s41467-021-24074-z
+10.1186/s40168-021-01100-2
 
 ---
 
-## Gut microbes impact stroke severity via the trimethylamine N-oxide pathway.
- 17.06.2021, _W Zhu, KA Romano, L Li, JA Buffa, N Sangwan, P Prakash, AN Tittle, XS Li, X Fu, C Androjna, AJ DiDonato, K Brinson, BD Trapp, MA Fischbach, FE Rey, AM Hajjar, JA DiDonato, SL Hazen_
+## Early melanoma invasivity correlates with gut fungal and bacterial profiles.
+ 06.07.2021, _F Vitali, R Colucci, M Di Paola, M Pindo, C De Filippo, S Moretti, D Cavalieri_
 
 
-Clinical studies have demonstrated associations between circulating levels of the gut-microbiota-derived metabolite trimethylamine-N-oxide (TMAO) and stroke incident risk. However, a causal role of gut microbes in stroke has not yet been demonstrated. Herein we show that gut microbes, through dietary choline and TMAO generation, directly impact cerebral infarct size and adverse outcomes following stroke. Fecal microbial transplantation from low- versus high-TMAO-producing human subjects into germ-free mice shows that both TMAO generation and stroke severity are transmissible traits. Furthermore, employing multiple murine stroke models and transplantation of defined microbial communities with genetically engineered human commensals into germ-free mice, we demonstrate that the microbial cutC gene (an enzymatic source of choline-to-TMA transformation) is sufficient to transmit TMA/TMAO production, heighten cerebral infarct size, and lead to functional impairment. We thus reveal that gut microbiota in general, specifically the metaorganismal TMAO pathway, directly contributes to stroke severity.
+The microbiome is emerging as a crucial player of the immune checkpoint in cancer. Melanoma is a highly immunogenic tumour, and the gut microbiome composition has been correlated to prognosis and evolution of advanced melanoma and proposed as biomarker for immune checkpoint therapy.
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00230-4)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20626)
 
-10.1016/j.chom.2021.05.002
-
----
-
-## Dietary Fiber Hierarchical Specificity: the Missing Link for Predictable and Strong Shifts in Gut Bacterial Communities.
- 29.06.2021, _TM Cantu-Jungles, N Bulut, E Chambry, A Ruthes, M Iacomini, A Keshavarzian, TA Johnson, BR Hamaker_
-
-
-Most dietary fibers used to shape the gut microbiota present different and unpredictable responses, presumably due to the diverse microbial communities of people. Recently, we proposed that fibers can be classified in a hierarchical way where fibers of high specificity (i.e., structurally complex and utilized by a narrow group of gut bacteria) could have more similar interindividual responses than those of low specificity (i.e., structurally simple and utilized by many gut bacteria). To test this hypothesis, we evaluated microbiota fermentation of fibers tentatively classified as low (fructooligosaccharides), low-to-intermediate (type 2 resistant starch), intermediate (pectin), and high (insoluble β-1,3-glucan) specificity, utilizing fecal inoculum from distinct subjects, regarding interindividual similarity/dissimilarity in fiber responses. Individual shifts in target bacteria (as determined by linear discriminant analysis) confirmed that divergent fiber responses occur when utilizing both of the low-specificity dietary fibers, but fibers of intermediate and high specificity lead to more similar responses across subjects in support of targeted bacteria. The high-specificity insoluble β-glucan promoted a large increase of the target bacteria (from 0.3 to 16.5% average for Anaerostipes sp. and 2.5 to 17.9% average for Bacteroides uniformis), which were associated with increases in ratios of related metabolites (butyrate and propionate, respectively) in every microbial community in which these bacteria were present. Also, high-specificity dietary fibers promoted more dramatic changes in microbial community structure than low-specificity ones relative to the initial microbial communities. IMPORTANCE In the face of interindividual variability and complexity of gut microbial communities, prediction of outcomes from a given fiber utilized by many microbes would require a sophisticated comprehension of all competitive interactions that occur in the gut. Results presented here suggest that high-specificity fibers potentially circumvent the competitive scope in the gut for fiber utilization, providing a promising path to targeted and predictable microbial shifts in different individuals. These findings are the first to indicate that fiber specificity is related to similarity and intensity of response in distinct human gut microbiota communities.
-
-[Source](https://journals.asm.org/doi/10.1128/mBio.01028-21)
-
-10.1128/mBio.01028-21
+10.1111/bjd.20626
 
 ---
 
-## Bifidobacteria-mediated immune system imprinting early in life.
- 18.06.2021, _BM Henrick, L Rodriguez, T Lakshmikanth, C Pou, E Henckel, A Arzoomand, A Olin, J Wang, J Mikes, Z Tan, Y Chen, AM Ehrlich, AK Bernhardsson, CH Mugabo, Y Ambrosiani, A Gustafsson, S Chew, HK Brown, J Prambs, K Bohlin, RD Mitchell, MA Underwood, JT Smilowitz, JB German, SA Frese, P Brodin_
+## The Interplay between fasting, gut microbiota, and lipid profile.
+ 06.07.2021, _A Mohammadzadeh, N Roshanravan, N Mesri Alamdari, A Safaiyan, E Mosharkesh, A Hadi, M Barati, A Ostadrahimi_
 
 
-Immune-microbe interactions early in life influence the risk of allergies, asthma, and other inflammatory diseases. Breastfeeding guides healthier immune-microbe relationships by providing nutrients to specialized microbes that in turn benefit the host's immune system. Such bacteria have co-evolved with humans but are now increasingly rare in modern societies. Here we show that a lack of bifidobacteria, and in particular depletion of genes required for human milk oligosaccharide (HMO) utilization from the metagenome, is associated with systemic inflammation and immune dysregulation early in life. In breastfed infants given Bifidobacterium infantis EVC001, which expresses all HMO-utilization genes, intestinal T helper 2 (Th2) and Th17 cytokines were silenced and interferon β (IFNβ) was induced. Fecal water from EVC001-supplemented infants contains abundant indolelactate and B. infantis-derived indole-3-lactic acid (ILA) upregulated immunoregulatory galectin-1 in Th2 and Th17 cells during polarization, providing a functional link between beneficial microbes and immunoregulation during the first months of life.
+This study aimed to investigate the consequence of Ramadan fasting on gut bacterium (Bacteroides and Firmicutes), serum concentration for butyrate, and lipid profile. Thirty healthy subjects were enlisted and investigated two times (before and at the end of Ramadan). Fasting blood samples were obtained for measuring fasting blood sugar (FBS) and lipid profile and serum butyrate concentration. Anthropometrics variables were measured before and after Ramadan for all 30 subjects. Quantitative real-time PCR analysis, targeting the genome of Bacteroides and Firmicutes was performed to determine its presence in the stool samples. Food intake was assessed by a 3-day food record before and after Ramadan. Statistical analysis was performed by SPSS ver.13 and Minitab ver.17. P&lt;0.05 considered the level of significance. The study results showed that serum levels of butyrate significantly increase during the month from 0.23 ± 0.02 mM to 0.46 ±0.03 mM (P&lt;0.05). The gut Bacteroides and Firmicutes increased by 21 and 13 percent after Ramadan compared to before (P&lt;0.05). The increment in Bacteroides occurred in both sexes, but Firmicutes significantly increased only in women. Food intake was decreased during Ramadan. Ramadan fasting caused significant reduction in BMI from 25.72± 0.58 kg/m2 to 25.25± 0.55 kg/m2 (P&lt;0.05). Serum levels of LDL, HDL, LDL/HDL ratio, and total cholesterol significantly decreased during Ramadan (P&lt;0.05). However, the decrease in FBS and TG level were not statistically significant (P&gt;0.05). It can be stated that the promotion of Bacteroides and Firmicutes in the gut might play a crucial role in health promotion. However, more research is needed to achieve a definite conclusion.
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00660-7)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/ijcp.14591)
 
-10.1016/j.cell.2021.05.030
-
----
-
-## Temporal patterns in Ixodes ricinus microbial communities: an insight into tick-borne microbe interactions.
- 04.07.2021, _E Lejal, J Chiquet, J Aubert, S Robin, A Estrada-Peña, O Rue, C Midoux, M Mariadassou, X Bailly, A Cougoul, P Gasqui, JF Cosson, K Chalvet-Monfray, M Vayssier-Taussat, T Pollet_
-
-
-Ticks transmit pathogens of medical and veterinary importance and are an increasing threat to human and animal health. Assessing disease risk and developing new control strategies requires identifying members of the tick-borne microbiota as well as their temporal dynamics and interactions.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01051-8)
-
-10.1186/s40168-021-01051-8
+10.1111/ijcp.14591
 
 ---
 
-## Microbiome diversity and host immune functions influence survivorship of sponge holobionts under future ocean conditions.
- 04.07.2021, _N Posadas, JIP Baquiran, MAL Nada, M Kelly, C Conaco_
+## Effect of Differences in the Microbiome of Cyp17a1-Deficient Mice on Atherosclerotic Background.
+ 26.06.2021, _A Künstner, R Aherrahrou, M Hirose, P Bruse, SM Ibrahim, H Busch, J Erdmann, Z Aherrahrou_
 
 
-The sponge-associated microbial community contributes to the overall health and adaptive capacity of the sponge holobiont. This community is regulated by the environment and the immune system of the host. However, little is known about the effect of environmental stress on the regulation of host immune functions and how this may, in turn, affect sponge-microbe interactions. In this study, we compared the bacterial diversity and immune repertoire of the demosponge, Neopetrosia compacta, and the calcareous sponge, Leucetta chagosensis, under varying levels of acidification and warming stress based on climate scenarios predicted for 2100. Neopetrosia compacta harbors a diverse microbial community and possesses a rich repertoire of scavenger receptors while L. chagosensis has a less diverse microbiome and an expanded range of pattern recognition receptors and immune response-related genes. Upon exposure to RCP 8.5 conditions, the microbiome composition and host transcriptome of N. compacta remained stable, which correlated with high survival (75%). In contrast, tissue necrosis and low survival (25%) of L. chagosensis was accompanied by microbial community shifts and downregulation of host immune-related pathways. Meta-analysis of microbiome diversity and immunological repertoire across poriferan classes further highlights the importance of host-microbe interactions in predicting the fate of sponges under future ocean conditions.
+CYP17A1 is a cytochrome P450 enzyme that has 17-alpha-hydroxylase and C17,20-lyase activities. Cyp17a11 deficiency is associated with high body mass and visceral fat deposition in atherosclerotic female ApoE knockout (KO, d/d or -/-) mice. In the present study, we aimed to investigate the effects of diet and Cyp17a1 genotype on the gut microbiome. Female Cyp17a1 (d/d) × ApoE (d/d) (DKO) and ApoE (d/d) (controls) were fed either standard chow or a Western-type diet (WTD), and we demonstrated the effects of genetics and diet on the body mass of the mice and composition of their gut microbiome. We found a significantly lower alpha diversity after accounting for the ecological network structure in DKO mice and WTD-fed mice compared with chow-fed ApoE(d/d). Furthermore, we found a strong significant positive association of the Firmicutes vs. Bacteroidota ratio with body mass and the circulating total cholesterol and triglyceride concentrations of the mice when feeding the WTD, independent of the Cyp17a1 genotype. Further pathway enrichment and network analyses revealed a substantial effect of Cyp17a1 genotype on associated cardiovascular and obesity-related pathways involving aspartate and L-arginine. Future studies are required to validate these findings and further investigate the role of aspartate/L-arginine pathways in the obesity and body fat distribution in our mouse model.
 
-[Source](https://www.nature.com/articles/s41396-021-01050-5)
+[Source](https://www.mdpi.com/2073-4409/10/6/1292)
 
-10.1038/s41396-021-01050-5
-
----
-
-## A Community Effort: Combining Functional Amplicon Sequencing and Metagenomics Reveals Potential Biosynthetic Gene Clusters Associated with Protective Phenotypes in Rhizosphere Microbiomes.
- 30.06.2021, _JM Winter_
-
-
-Soil-dwelling microorganisms associated with plant roots carry out essential processes that promote plant growth and productivity. In addition to these beneficial functions, the rhizosphere microbiome also serves as the first line of defense against many plant pathogens. While many rhizobacteria are capable of producing antifungal natural products, fungal pathogens, such as those belonging to the genus Fusarium, continue to be a major threat to agricultural crops worldwide. In this issue, Tracanna and coworkers (V. Tracanna, A. Ossowicki, M. L. C. Petrus, S. Overduin, et al., mSystems 6:e01116-20, 2021, https://doi.org/10.1128/mSystems.01116-20) implement a targeted amplicon sequencing approach to identify conserved domains and specific metabolic pathways shared among soil samples with antagonistic activities against Fusarium culmorum. They also introduce dom2BGC, an open-source annotation platform that builds co-occurrence networks of natural product-associated domains across samples and aids in putative gene cluster reconstruction. When coupled with metagenomics, functional amplicon sequencing and the dom2BGC pipeline can aid in identifying mechanisms and potential metabolites associated with particular microbiome-associated phenotypes.
-
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00587-21)
-
-10.1128/mSystems.00587-21
+10.3390/cells10061292
 
 ---
 
-## METAnnotatorX2: a Comprehensive Tool for Deep and Shallow Metagenomic Data Set Analyses.
- 29.06.2021, _C Milani, GA Lugli, F Fontana, L Mancabelli, G Alessandri, G Longhi, R Anzalone, A Viappiani, F Turroni, D van Sinderen, M Ventura_
+## Telmisartan induces a specific gut microbiota signature which may mediate its antiobesity effect.
+ 04.07.2021, _L Beckmann, A Künstner, ML Freschi, G Huber, I Stölting, SM Ibrahim, M Hirose, M Freitag, EA Langan, U Matschl, CE Galuska, B Fuchs, JK Knobloch, H Busch, W Raasch_
 
 
-The use of bioinformatic tools for read-based taxonomic and functional analyses of metagenomic data sets, including their assembly and management, is rather fragmentary due to the absence of an accepted gold standard. Moreover, most currently available software tools need input of millions of reads and rely on approximations in data analysis in order to reduce computing times. These issues result in suboptimal results in terms of accuracy, sensitivity, and specificity when used either for the reconstruction of taxonomic or functional profiles through read analysis or analysis of genomes reconstructed by metagenomic assembly. Moreover, the recent introduction of novel DNA sequencing technologies that generate long reads, such as Nanopore and PacBio, represent a valuable data resource that still suffers from a lack of dedicated tools to perform integrated hybrid analysis alongside short read data. In order to overcome these limitations, here we describe a comprehensive bioinformatic platform, METAnnotatorX2, aimed at providing an optimized user-friendly resource which maximizes output quality, while also allowing user-specific adaptation of the pipeline and straightforward integrated analysis of both short and long read data. To further improve performance quality and accuracy of taxonomic assignment of reads and contigs, custom preprocessed and taxonomically revised genomic databases for viruses, prokaryotes, and various eukaryotes were developed. The performance of METAnnotatorX2 was tested by analysis of artificial data sets encompassing viral, archaeal, bacterial, and eukaryotic (fungal) sequence reads that simulate different biological matrices. Moreover, real biological samples were employed to validate in silico results. IMPORTANCE We developed a novel tool, i.e., METAnnotatorX2, that includes a number of new advanced features for analysis of deep and shallow metagenomic data sets and is accompanied by (regularly updated) customized databases for archaea, bacteria, fungi, protists, and viruses. Both software and databases were developed so as to maximize sensitivity and specificity while including support for shallow metagenomic data sets. Through extensive tests performed on Illumina and Nanopore artificial data sets, we demonstrated the high performance of the software to not only extract taxonomic and functional information from sequence reads but also to assemble and process genomes from metagenomic data. The robustness of these functionalities was validated using "real-life" data sets obtained from Illumina and Nanopore sequencing of biological samples. Furthermore, the performance of METAnnotatorX2 was compared to other available software tools for analysis of shotgun metagenomics data.
+Telmisartan prevents diet-induced obesity (DIO) in rodents. Given that the precise underlying mechanism is not known, we examined whether a gut-related mechanism might be involved. Sprague-Dawley rats received cafeteria diet (CD) for 3 months to develop DIO and were administered either telmisartan (8 mg/kgbw) or vehicle. In addition, pair-fed (PF) rats received CD adjusted to TEL and control rats (CON) only received chow. Stool samples were analysed by 16 S rRNA gene amplicon sequencing. CD-fed rats became obese while TEL, PF and CON rats remained lean. Alpha diversity analyses indicated that bacterial diversity was similar before the study but changed over time. Beta diversity revealed a time-, CD- and telmisartan-dependent effect. The Firmicutes/Bacteroidetes ratio and the abundance of Blautia, Allobaculum and Parasutterella were higher in DIO and PF than in CON, but not in TEL. Enterotype (ET)-like clustering analyses, Kleinberg's hub network scoring and random forest analyses also indicated that telmisartan induced a specific signature of gut microbiota. In response to stool transfer from telmisartan-pre-treated donor to high-fat fed acceptor mice, body weight gain was slightly attenuated. We attribute the anti-obesity action of telmisartan treatment to diet-independent alterations in gut microbiota as the microbiota from telmisartan-treated, CD-fed rats clearly differed from those of DIO and PF rats. ET-like clustering network, random forest classification and the higher stability in bacterial co-occurrence network analyses indicate that there is more than one indicator species for telmisartan's specific signature, which is further strengthened by the fact that we cannot identify a single indicator species.
 
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00583-21)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S104366182100308X)
 
-10.1128/mSystems.00583-21
+10.1016/j.phrs.2021.105724
+
+---
+
+## Novel insights into the genetically obese (ob/ob) and diabetic (db/db) mice: two sides of the same coin.
+ 02.07.2021, _F Suriano, S Vieira-Silva, G Falony, M Roumain, A Paquot, R Pelicaen, M Régnier, NM Delzenne, J Raes, GG Muccioli, M Van Hul, PD Cani_
+
+
+Leptin-deficient ob/ob mice and leptin receptor-deficient db/db mice are commonly used mice models mimicking the conditions of obesity and type 2 diabetes development. However, although ob/ob and db/db mice are similarly gaining weight and developing massive obesity, db/db mice are more diabetic than ob/ob mice. It remains still unclear why targeting the same pathway-leptin signaling-leads to the development of two different phenotypes. Given that gut microbes dialogue with the host via different metabolites (e.g., short-chain fatty acids) but also contribute to the regulation of bile acids metabolism, we investigated whether inflammatory markers, bacterial components, bile acids, short-chain fatty acids, and gut microbes could contribute to explain the specific phenotype discriminating the onset of an obese and/or a diabetic state in ob/ob and db/db mice.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01097-8)
+
+10.1186/s40168-021-01097-8
+
+---
+
+## Shades of grey: host phenotype dependent effect of urbanization on the bacterial microbiome of a wild mammal.
+ 06.07.2021, _MR Stothart, AEM Newman_
+
+
+Host-associated microbiota are integral to the ecology of their host and may help wildlife species cope with rapid environmental change. Urbanization is a globally replicated form of severe environmental change which we can leverage to better understand wildlife microbiomes. Does the colonization of separate cities result in parallel changes in the intestinal microbiome of wildlife, and if so, does within-city habitat heterogeneity matter? Using 16S rRNA gene amplicon sequencing, we quantified the effect of urbanization (across three cities) on the microbiome of eastern grey squirrels (Sciurus carolinensis). Grey squirrels are ubiquitous in rural and urban environments throughout their native range, across which they display an apparent coat colour polymorphism (agouti, black, intermediate).
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00105-4)
+
+10.1186/s42523-021-00105-4
+
+---
+
+## Untargeted fecal metabolome analysis in obese dogs after weight loss achieved by feeding a high-fiber-high-protein diet.
+ 06.07.2021, _S Bermudez Sanchez, R Pilla, B Sarawichitr, A Gramenzi, F Marsilio, JM Steiner, JA Lidbury, GRT Woods, JS Suchodolski, AJ German_
+
+
+In humans and companion animals, obesity is accompanied by metabolic derangements. Studies have revealed differences in the composition of the fecal microbiome between obese dogs and those with an ideal body weight.
+
+[Source](https://link.springer.com/article/10.1007%2Fs11306-021-01815-1)
+
+10.1007/s11306-021-01815-1
+
+---
+
+## Holocene life and microbiome profiling in ancient tropical Lake Chalco, Mexico.
+ 06.07.2021, _B Moguel, L Pérez, LD Alcaraz, J Blaz, M Caballero, I Muñoz-Velasco, A Becerra, JP Laclette, B Ortega-Guerrero, CS Romero-Oliva, L Herrera-Estrella, S Lozano-García_
+
+
+Metagenomic and traditional paleolimnological approaches are suitable to infer past biological and environmental changes, however, they are often applied independently, especially in tropical regions. We combined both approaches to investigate Holocene Prokaryote and Eukaryote diversity and microbial metabolic pathways in ancient Lake Chalco, Mexico. Here, we report on diversity among a large number of lineages (36,722 OTUs) and functional diversity (27,636,243 non-clustered predicted proteins, and 6,144 annotated protein-family genes). The most abundant domain is Bacteria (81%), followed by Archaea (15%) and Eukarya (3%). We also determined the diversity of protein families and their relationship to metabolic pathways. The early Holocene (&gt; 11,000 cal years BP) lake was characterized by cool, freshwater conditions, which later became warmer and hyposaline (11,000-6,000 cal years BP). We found high abundances of cyanobacteria, and fungi groups associated with mature forests in these sediments. Bacteria and Archaea include mainly anaerobes and extremophiles that are involved in the sulfur, nitrogen, and carbon cycles. We found evidence for early human impacts, including landscape modifications and lake eutrophication, which began ~ 6,000 cal years BP. Subsaline, temperate conditions were inferred for the past 5,000 years. Finally, we found nitrogen-fixing bacteria and protein-family genes that are linked to contaminated environments, as well as several fungal pathogens of crops in near-surface sediments.
+
+[Source](https://www.nature.com/articles/s41598-021-92981-8)
+
+10.1038/s41598-021-92981-8
+
+---
+
+## ORFograph: search for novel insecticidal protein genes in genomic and metagenomic assembly graphs.
+ 02.07.2021, _T Dvorkina, A Bankevich, A Sorokin, F Yang, B Adu-Oppong, R Williams, K Turner, PA Pevzner_
+
+
+Since the prolonged use of insecticidal proteins has led to toxin resistance, it is important to search for novel insecticidal protein genes (IPGs) that are effective in controlling resistant insect populations. IPGs are usually encoded in the genomes of entomopathogenic bacteria, especially in large plasmids in strains of the ubiquitous soil bacteria, Bacillus thuringiensis (Bt). Since there are often multiple similar IPGs encoded by such plasmids, their assemblies are typically fragmented and many IPGs are scattered through multiple contigs. As a result, existing gene prediction tools (that analyze individual contigs) typically predict partial rather than complete IPGs, making it difficult to conduct downstream IPG engineering efforts in agricultural genomics.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01092-z)
+
+10.1186/s40168-021-01092-z
+
+---
+
+## Measuring and mitigating PCR bias in microbiota datasets.
+ 06.07.2021, _JD Silverman, RJ Bloom, S Jiang, HK Durand, E Dallow, S Mukherjee, LA David_
+
+
+PCR amplification plays an integral role in the measurement of mixed microbial communities via high-throughput DNA sequencing of the 16S ribosomal RNA (rRNA) gene. Yet PCR is also known to introduce multiple forms of bias in 16S rRNA studies. Here we present a paired modeling and experimental approach to characterize and mitigate PCR NPM-bias (PCR bias from non-primer-mismatch sources) in microbiota surveys. We use experimental data from mock bacterial communities to validate our approach and human gut microbiota samples to characterize PCR NPM-bias under real-world conditions. Our results suggest that PCR NPM-bias can skew estimates of microbial relative abundances by a factor of 4 or more, but that this bias can be mitigated using log-ratio linear models.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009113)
+
+10.1371/journal.pcbi.1009113
 
 ---
 
