@@ -59,7 +59,7 @@ CYP17A1 is a cytochrome P450 enzyme that has 17-alpha-hydroxylase and C17,20-lya
 ---
 
 ## Telmisartan induces a specific gut microbiota signature which may mediate its antiobesity effect.
- 04.07.2021, _L Beckmann, A Künstner, ML Freschi, G Huber, I Stölting, SM Ibrahim, M Hirose, M Freitag, EA Langan, U Matschl, CE Galuska, B Fuchs, JK Knobloch, H Busch, W Raasch_
+ 07.07.2021, _L Beckmann, A Künstner, ML Freschi, G Huber, I Stölting, SM Ibrahim, M Hirose, M Freitag, EA Langan, U Matschl, CE Galuska, B Fuchs, JK Knobloch, H Busch, W Raasch_
 
 
 Telmisartan prevents diet-induced obesity (DIO) in rodents. Given that the precise underlying mechanism is not known, we examined whether a gut-related mechanism might be involved. Sprague-Dawley rats received cafeteria diet (CD) for 3 months to develop DIO and were administered either telmisartan (8 mg/kgbw) or vehicle. In addition, pair-fed (PF) rats received CD adjusted to TEL and control rats (CON) only received chow. Stool samples were analysed by 16 S rRNA gene amplicon sequencing. CD-fed rats became obese while TEL, PF and CON rats remained lean. Alpha diversity analyses indicated that bacterial diversity was similar before the study but changed over time. Beta diversity revealed a time-, CD- and telmisartan-dependent effect. The Firmicutes/Bacteroidetes ratio and the abundance of Blautia, Allobaculum and Parasutterella were higher in DIO and PF than in CON, but not in TEL. Enterotype (ET)-like clustering analyses, Kleinberg's hub network scoring and random forest analyses also indicated that telmisartan induced a specific signature of gut microbiota. In response to stool transfer from telmisartan-pre-treated donor to high-fat fed acceptor mice, body weight gain was slightly attenuated. We attribute the anti-obesity action of telmisartan treatment to diet-independent alterations in gut microbiota as the microbiota from telmisartan-treated, CD-fed rats clearly differed from those of DIO and PF rats. ET-like clustering network, random forest classification and the higher stability in bacterial co-occurrence network analyses indicate that there is more than one indicator species for telmisartan's specific signature, which is further strengthened by the fact that we cannot identify a single indicator species.
@@ -95,7 +95,7 @@ Host-associated microbiota are integral to the ecology of their host and may hel
 ---
 
 ## Untargeted fecal metabolome analysis in obese dogs after weight loss achieved by feeding a high-fiber-high-protein diet.
- 06.07.2021, _S Bermudez Sanchez, R Pilla, B Sarawichitr, A Gramenzi, F Marsilio, JM Steiner, JA Lidbury, GRT Woods, JS Suchodolski, AJ German_
+ 07.07.2021, _S Bermudez Sanchez, R Pilla, B Sarawichitr, A Gramenzi, F Marsilio, JM Steiner, JA Lidbury, GRT Woods, JS Suchodolski, AJ German_
 
 
 In humans and companion animals, obesity is accompanied by metabolic derangements. Studies have revealed differences in the composition of the fecal microbiome between obese dogs and those with an ideal body weight.
