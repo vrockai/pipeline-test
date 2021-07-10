@@ -82,9 +82,15 @@
 
 ---
 
-## Current And Future Biomarkers In Alcoholic Hepatitis
+## Current and Future Biomarkers in Alcoholic Hepatitis.
+ 07.07.2021, _SM Rutledge, GY Im_
+
+
+Alcoholic hepatitis (AH) is a clinical syndrome of jaundice, abdominal pain, and anorexia due to prolonged heavy alcohol intake, and is associated with alterations in gene expression, cytokines, immune response, and the gut microbiome. Currently, we have limited biomarkers to diagnose and prognosticate in AH, but there are many novel noninvasive biomarkers under development. We evaluate the currently used algorithms to risk-stratify in AH (such as the Maddrey modified discriminant function), and discuss novel biomarkers in development, such as breath biomarkers, microRNAs, cytokeratin-18 fragments, and the AshTest. We also review the characteristics of an ideal biomarker in AH.
 
 [Source](https://doi.org/10.1016/j.cld.2021.03.010)
+
+10.1016/j.cld.2021.03.010
 
 ---
 
