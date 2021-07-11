@@ -88,9 +88,33 @@
 
 ---
 
+## Role of bile acids in inflammatory liver diseases.
+ 08.07.2021, _I Evangelakos, J Heeren, E Verkade, F Kuipers_
+
+
+Bile acids and their signaling pathways are increasingly recognized as potential therapeutic targets for cholestatic and metabolic liver diseases. This review summarizes new insights in bile acid physiology, focusing on regulatory roles of bile acids in the control of immune regulation and on effects of pharmacological modulators of bile acid signaling pathways in human liver disease. Recent mouse studies have highlighted the importance of the interactions between bile acids and gut microbiome. Interfering with microbiome composition may be beneficial for cholestatic and metabolic liver diseases by modulating formation of secondary bile acids, as different bile acid species have different signaling functions. Bile acid receptors such as FXR, VDR, and TGR5 are expressed in a variety of cells involved in innate as well as adaptive immunity, and specific microbial bile acid metabolites positively modulate immune responses of the host. Identification of Cyp2c70 as the enzyme responsible for the generation of hydrophilic mouse/rat-specific muricholic acids has allowed the generation of murine models with a human-like bile acid composition. These novel mouse models will aid to accelerate translational research on the (patho)physiological roles of bile acids in human liver diseases .
+
+[Source](https://doi.org/10.1007/s00281-021-00869-6)
+
+10.1007/s00281-021-00869-6
+
+---
+
 ## Role Of Bile Acids In Inflammatory Liver Diseases
 
 [Source](https://doi.org/10.1007/s00281-021-00869-6)
+
+---
+
+## Interference of dietary polyphenols with potentially toxic amino acid metabolites derived from the colonic microbiota.
+ 08.07.2021, _N Gasaly, M Gotteland_
+
+
+Each day, varying amounts of undigested or partially digested proteins reach the colon where they are metabolized by the microbiota, resulting in the formation of compounds such as ammonia, p-cresol, skatole, phenol, indole, and hydrogen sulfide (H2S). In farm animals, the excessive production of these metabolites can affect the quality of meat and milk and is a source of contaminating emissions from animal manure. In humans, their accumulation is potentially harmful, and it has been proposed that they could be involved in the development of pathologies such as colorectal cancer and ulcerative colitis, among others. This review assesses the evidence supporting the use of dietary polyphenols to reduce the production of these metabolites. Most studies have used condensed (proanthocyanidins) or hydrolyzable (ellagitannins and gallotannins) tannins, and have been carried out in farm animals. Several show that the administration of tannins in pigs, chicken, and ruminants decreases the levels of ammonia, p-cresol, skatole, and/or H2S, improving meat/milk quality and reducing manure odor. Direct application of tannins to manure also decreases ammonia emissions. Few studies were carried out in rats and humans and their results confirm, to a lesser extent, those reported in farm animals. These effects would be due to the capacity of tannins to trap ammonia and H2S, and to modify the composition of the microbiota, reducing the bacterial populations producing metabolites. In addition, PACs prevent p-cresol and H2S-induced alterations on intestinal cells in vitro. Tannins, therefore, appear as an interesting tool for improving the quality of animal products, human health, and the harmful emissions associated with breeding.
+
+[Source](https://doi.org/10.1007/s00726-021-03034-3)
+
+10.1007/s00726-021-03034-3
 
 ---
 
@@ -100,9 +124,33 @@
 
 ---
 
+## Suppressed inflammation in obese children induced by a high-fiber diet is associated with the attenuation of gut microbial virulence factor genes.
+ 08.07.2021, _H Li, G Wu, L Zhao, M Zhang_
+
+
+In our previous study, a gut microbiota-targeted dietary intervention with a high-fiber diet improved the immune status of both genetically obese (Prader-Willi Syndrome, PWS) and simple obese (SO) children. However, PWS children had higher inflammation levels than SO children throughout the trial, the gut microbiota of the two cohorts was similar. As some virulence factors (VFs) produced by the gut microbiota play a role in triggering host inflammation, this study compared the characteristics and changes of gut microbial VF genes of the two cohorts before and after the intervention using a fecal metagenomic dataset. We found that in both cohorts, the high-fiber diet reduced the abundance of VF, and particularly pathogen-specific, genes. The composition of VF genes was also modulated, especially for offensive and defensive VF genes. Furthermore, genes belonging to invasion, T3SS (type III secretion system), and adherence classes were suppressed. Co-occurrence network analysis detected VF gene clusters closely related to host inflammation in each cohort. Though these cohort-specific clusters varied in VF gene combinations and cascade reactions affecting inflammation, they mainly contained VFs belonging to iron uptake, T3SS, and invasion classes. The PWS group had a lower abundance of VF genes before the trial, which suggested that other factors could also be responsible for the increased inflammation in this cohort. This study provides insight into the modulation of VF gene structure in the gut microbiota by a high-fiber diet, with respect to reduced inflammation in obese children, and differences in VF genes between these two cohorts.
+
+[Source](https://doi.org/10.1080/21505594.2021.1948252)
+
+10.1080/21505594.2021.1948252
+
+---
+
 ## Suppressed Inflammation In Obese Children Induced By A High-fiber Diet Is Associated with the attenuation of gut microbial virulence factor genes.
 
 [Source](https://doi.org/10.1080/21505594.2021.1948252)
+
+---
+
+## Technological and environmental features determine the uniqueness of the lambic beer microbiota and production process.
+ 07.07.2021, _D Bongaerts, J De Roos, L De Vuyst_
+
+
+Lambic beers are beers produced through spontaneous fermentation and maturation in wooden barrels. The production process of lambic beers differs from the production processes of lagers and ales in process technology, environmental parameters, and the use of specific raw materials. Moreover, every lambic beer production process is unique in terms of microbiology and flavour formation because of its dependence on the spontaneous inoculation of microorganisms coming from the environmental air (contacting the open coolship and other brewery equipment) and the inner surfaces of the barrels. Several factors influence the inter- and intraspecies microbial successions during lambic beer wort fermentation and maturation and determine the final quality of the end-products. The possibility to manually acidify the wort, the presence of species-specific metabolic traits, the environmental temperature, the co-occurrence of lactic acid bacteria and acetic acid bacteria, as well as yeasts, and the quality of the wooden barrels all determine the progress and outcome of the lambic beer production process. Further alterations in quality and flavour of lambic beers can be achieved by blending practices and additional bottle re-fermentations. This results in a vast array of lambic-derived beer products (e.g., gueuze) with complex taste and aroma profiles and specific characteristics, which separates them from most other commercially available beers.
+
+[Source](https://doi.org/10.1128/AEM.00612-21)
+
+10.1128/AEM.00612-21
 
 ---
 
@@ -112,9 +160,33 @@
 
 ---
 
+## Role of dietary fiber in safeguarding intestinal health after pelvic radiotherapy.
+ 07.07.2021, _C Bull, S Devarakonda, R Ahlin_
+
+
+Damage to healthy bowel tissue during pelvic radiotherapy can produce devastating and life-long changes in bowel function. The surging interest in microbiota and its importance for our wellbeing has generated a bulk of research highlighting how the food we consume impacts bowel health and disease. Dietary fiber is known to promote bowel health, yet there is a limited number of studies on dietary fiber in connection to pelvic radiotherapy. Here, we review some of the literature on the subject and present the most recent publications in the field.
+
+[Source](https://doi.org/10.1097/SPC.0000000000000559)
+
+10.1097/SPC.0000000000000559
+
+---
+
 ## Role Of Dietary Fiber In Safeguarding Intestinal Health After Pelvic Radiotherapy
 
 [Source](https://doi.org/10.1097/SPC.0000000000000559)
+
+---
+
+## Captivity reduces diversity and shifts composition of the Brown Kiwi microbiome.
+ 09.07.2021, _PA San Juan, I Castro, MK Dhami_
+
+
+Captive rearing is often critical for animals that are vulnerable to extinction in the wild. However, few studies have investigated the extent to which captivity impacts hosts and their gut microbiota, despite mounting evidence indicating that host health is affected by gut microbes. We assessed the influence of captivity on the gut microbiome of the Brown Kiwi (Apteryx mantelli), a flightless bird endemic to New Zealand. We collected wild (n = 68) and captive (n = 38) kiwi feces at seven sites on the north island of New Zealand.
+
+[Source](https://doi.org/10.1186/s42523-021-00109-0)
+
+10.1186/s42523-021-00109-0
 
 ---
 
