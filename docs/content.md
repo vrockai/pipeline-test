@@ -88,18 +88,6 @@
 
 ---
 
-## Role of bile acids in inflammatory liver diseases.
- 08.07.2021, _I Evangelakos, J Heeren, E Verkade, F Kuipers_
-
-
-Bile acids and their signaling pathways are increasingly recognized as potential therapeutic targets for cholestatic and metabolic liver diseases. This review summarizes new insights in bile acid physiology, focusing on regulatory roles of bile acids in the control of immune regulation and on effects of pharmacological modulators of bile acid signaling pathways in human liver disease. Recent mouse studies have highlighted the importance of the interactions between bile acids and gut microbiome. Interfering with microbiome composition may be beneficial for cholestatic and metabolic liver diseases by modulating formation of secondary bile acids, as different bile acid species have different signaling functions. Bile acid receptors such as FXR, VDR, and TGR5 are expressed in a variety of cells involved in innate as well as adaptive immunity, and specific microbial bile acid metabolites positively modulate immune responses of the host. Identification of Cyp2c70 as the enzyme responsible for the generation of hydrophilic mouse/rat-specific muricholic acids has allowed the generation of murine models with a human-like bile acid composition. These novel mouse models will aid to accelerate translational research on the (patho)physiological roles of bile acids in human liver diseases .
-
-[Source](https://doi.org/10.1007/s00281-021-00869-6)
-
-10.1007/s00281-021-00869-6
-
----
-
 ## Role Of Bile Acids In Inflammatory Liver Diseases
 
 [Source](https://doi.org/10.1007/s00281-021-00869-6)
