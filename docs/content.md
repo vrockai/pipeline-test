@@ -152,15 +152,9 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Insights into the Endophytic Bacterial Microbiome of Crocus sativus: Functional Characterization Leads to Potential Agents that Enhance the Plant Growth, Productivity, and Key Metabolite Content.
- 09.07.2021, _T Ahmad, S Farooq, DN Mirza, A Kumar, RA Mir, S Riyaz-Ul-Hassan_
-
-
-The study was undertaken to unravel the culturable endophytic bacterial microbiome of Crocus sativus L. (saffron crocus) and consequently obtain potential leads to develop plant growth-promoting and biocontrol agents for increased productivity and sustainable cultivation. The endophytes formed 47 different operational taxonomic units (OTUs), spanning over 28 genera. The host was preferentially colonized by the genus Bacillus, followed by Burkholderia and Pantoea, respectively. Several endophytes possessed potential plant growth-promoting properties and inhibitory activities against the specific fungal pathogens of saffron. The endophytes, except for Microbacterium oxydans, did not cause any disease symptoms in the pot experiments. The selected cultures, Burkholderia gladioli, Streptomyces achromogenes, and three species of Bacillus, enhanced the host plant growth significantly. Based on the pot experiment results, two isolates, Bacillus mojavensis CS4EB32 and Burkholderia gladioli E39CS3, were selected for the field experiments. We obtained an increase of 67.5%, 69.8%, and 68.3% in the production of flowers with the individual and collective treatments, respectively. The treatments also enhanced the biomass of the plant and the length and weight of stigmas significantly. The endophyte treatments induced the expression of the pathway genes, resulting in a marked increase in the concentration of apocarotenoids. The study indicates that the dominant endophytes support plant growth and development in nature and present an opportunity for developing microbial formulations for the sustainability of saffron cultivation.
+## nsights into the Endophytic Bacterial Microbiome of Crocus sativus: Functional Characterization Leads to Potential Agents that Enhance the Plant Growth, Productivity, and Key Metabolite Content 
 
 [Source](https://link.springer.com/article/10.1007%2Fs00248-021-01810-y)
-
-10.1007/s00248-021-01810-y
 
 ---
 
