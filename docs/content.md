@@ -158,65 +158,33 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Using a high-throughput sequencing technology to evaluate the various forage source epiphytic microbiota and their effect on fermentation quality and microbial diversity of Napier grass.
- 09.07.2021, _N Ali, S Wang, J Zhao, Z Dong, J Li, M Nazar, T Shao_
-
-
-Napier grass (Pennisetum purpureum) is well-known due to its high biomass production. The epiphytic microbiota was prepared from Napier, alfalfa, and red clover grass and served as an inoculum. The chopped sterilized Napier grass was inoculated with reconstituted epiphytic microbiota, and treatments were designed as: distilled water (N0); Napier grass epiphytic microbiota (NP); alfalfa epiphytic microbiota (AL); and red clover epiphytic microbiota (RC). The results reveal that the reconstituted epiphytic microbiota bacteria efficiently adapted in Napier grass silage, improved fermentation, and produced lactic acid. The alfalfa-grass inoculum rapidly dropped pH and enhanced the lactic acid (LA) and the ratio of lactic acid-to-acetic acid (LA/AA) during the entire ensiling process. However, red clover attains high lactic acid, while Napier grass produces high acetic acid-type fermentation at terminal silage. After day 60 of ensiling, Lactobacillus proportion was higher in AL (85.45%), and RC (59.44%), inocula as compared with NP (36.41%), inoculum. The NP inoculum terminal silage was diverse than AL and RC inocula and dominated by Enterobacter (16.32%) and Enterobacteriaceae (10.16%) and also significantly (p &lt; 0.05) higher in acetic acid. The present study concluded that AL and RC epiphytic microbiota successfully develop and more efficient than Napier grass microbiota. It is suggested that abundant microbiota isolate from alfala and red clover and develop more economical and efficient inocula for quality fermentation of Napier grass silage in practice.
+## Using a high-throughput sequencing technology to evaluate the various forage source epiphytic microbiota and their effect on fermentation quality and microbial diversity of Napier grass
 
 [Source](https://link.springer.com/article/10.1007%2Fs00203-021-02296-5)
 
-10.1007/s00203-021-02296-5
-
 ---
 
-## Global homogenization of the structure and function in the soil microbiome of urban greenspaces.
- 10.07.2021, _M Delgado-Baquerizo, DJ Eldridge, YR Liu, B Sokoya, JT Wang, HW Hu, JZ He, F Bastida, JL Moreno, AR Bamigboye, JL Blanco-Pastor, C Cano-Díaz, JG Illán, TP Makhalanyane, C Siebe, P Trivedi, E Zaady, JP Verma, L Wang, J Wang, T Grebenc, GF Peñaloza-Bojacá, TU Nahberger, AL Teixido, XQ Zhou, M Berdugo, J Duran, A Rodríguez, X Zhou, F Alfaro, S Abades, C Plaza, A Rey, BK Singh, L Tedersoo, N Fierer_
-
-
-The structure and function of the soil microbiome of urban greenspaces remain largely undetermined. We conducted a global field survey in urban greenspaces and neighboring natural ecosystems across 56 cities from six continents, and found that urban soils are important hotspots for soil bacterial, protist and functional gene diversity, but support highly homogenized microbial communities worldwide. Urban greenspaces had a greater proportion of fast-growing bacteria, algae, amoebae, and fungal pathogens, but a lower proportion of ectomycorrhizal fungi than natural ecosystems. These urban ecosystems also showed higher proportions of genes associated with human pathogens, greenhouse gas emissions, faster nutrient cycling, and more intense abiotic stress than natural environments. City affluence, management practices, and climate were fundamental drivers of urban soil communities. Our work paves the way toward a more comprehensive global-scale perspective on urban greenspaces, which is integral to managing the health of these ecosystems and the well-being of human populations.
+## Global homogenization of the structure and function in the soil microbiome of urban greenspaces
 
 [Source](https://advances.sciencemag.org/content/7/28/eabg5809)
 
-10.1126/sciadv.abg5809
-
 ---
 
-## Anaerobic fermentation of hydrothermal liquefaction wastewater of dewatered sewage sludge for volatile fatty acids production with focuses on the degradation of organic components and microbial community compositions.
- 28.05.2021, _Z Chen, Y Rao, M Usman, H Chen, A Białowiec, S Zhang, G Luo_
-
-
-_Anaerobiosis, Bioreactors, Fatty Acids, Volatile, Fermentation, Hydrogen-Ion Concentration, Microbiota, Sewage, Waste Water_
-Hydrothermal conversion (HTC) is a promising technology for the treatment of dewatered sewage sludge to produce bio-fuels including bio-oil and hydrochar. At the same time, a huge amount of wastewater (HTCWW) was produced. The present study investigated the organic compositions of HTCWW obtained at different HTC temperatures (170-320 °C) and volatile fatty acids (VFAs) yields through anaerobic fermentation. Results showed that the highest VFAs yield of 0.59 gCODVFA/gCOD was obtained from HTCWW obtained at 170 °C (HTCWW 170). Higher amount of easily biodegradable organics including proteins and carbohydrates were present in HTCWW 170 °C, which resulted in the highest VFAs yields. With the increase of HTC temperature, recalcitrant organic compounds were produced as revealed by 3D-EEM and GC-MS analysis, which resulted in lower VFAs yields. Furthermore, microbial analysis showed that different compositions in the HTCWW led to the enrichment of different microbial communities, which affected the VFAs yields.
+## Anaerobic fermentation of hydrothermal liquefaction wastewater of dewatered sewage sludge for volatile fatty acids production with focuses on the degradation of organic components and microbial community compositions
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S004896972101144X?via%3Dihub)
 
-10.1016/j.scitotenv.2021.146077
-
 ---
 
-## Robust covariance estimation for high-dimensional compositional data with application to microbial communities analysis.
- 29.06.2021, _Y He, P Liu, X Zhang, W Zhou_
-
-
-_Computer Simulation, High-Throughput Nucleotide Sequencing, Humans, Microbiota_
-Microbial communities analysis is drawing growing attention due to the rapid development fire of high-throughput sequencing techniques nowadays. The observed data has the following typical characteristics: it is high-dimensional, compositional (lying in a simplex) and even would be leptokurtic and highly skewed due to the existence of overly abundant taxa, which makes the conventional correlation analysis infeasible to study the co-occurrence and co-exclusion relationship between microbial taxa. In this article, we address the challenges of covariance estimation for this kind of data. Assuming the basis covariance matrix lying in a well-recognized class of sparse covariance matrices, we adopt a proxy matrix known as centered log-ratio covariance matrix in the literature. We construct a Median-of-Means estimator for the centered log-ratio covariance matrix and propose a thresholding procedure that is adaptive to the variability of individual entries. By imposing a much weaker finite fourth moment condition compared with the sub-Gaussianity condition in the literature, we derive the optimal rate of convergence under the spectral norm. In addition, we also provide theoretical guarantee on support recovery. The adaptive thresholding procedure of the MOM estimator is easy to implement and gains robustness when outliers or heavy-tailedness exist. Thorough simulation studies are conducted to show the advantages of the proposed procedure over some state-of-the-arts methods. At last, we apply the proposed method to analyze a microbiome dataset in human gut.
+## Robust covariance estimation for high-dimensional compositional data with application to microbial communities analysis
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/sim.8979)
 
-10.1002/sim.8979
-
 ---
 
-## A new pipeline for structural characterization and classification of RNA-Seq microbiome data.
- 10.07.2021, _S Racedo, I Portnoy, JI Vélez, H San-Juan-Vergara, M Sanjuan, E Zurek_
-
-
-High-throughput sequencing enables the analysis of the composition of numerous biological systems, such as microbial communities. The identification of dependencies within these systems requires the analysis and assimilation of the underlying interaction patterns between all the variables that make up that system. However, this task poses a challenge when considering the compositional nature of the data coming from DNA-sequencing experiments because traditional interaction metrics (e.g., correlation) produce unreliable results when analyzing relative fractions instead of absolute abundances. The compositionality-associated challenges extend to the classification task, as it usually involves the characterization of the interactions between the principal descriptive variables of the datasets. The classification of new samples/patients into binary categories corresponding to dissimilar biological settings or phenotypes (e.g., control and cases) could help researchers in the development of treatments/drugs.
+## A new pipeline for structural characterization and classification of RNA-Seq microbiome data
 
 [Source](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-021-00266-7)
-
-10.1186/s13040-021-00266-7
 
 ---
 
@@ -226,27 +194,15 @@ High-throughput sequencing enables the analysis of the composition of numerous b
 
 ---
 
-## Taxonomic analysis of metagenomic data with kASA.
- 10.07.2021, _S Weging, A Gogol-Döring, I Grosse_
-
-
-The taxonomic analysis of sequencing data has become important in many areas of life sciences. However, currently available tools for that purpose either consume large amounts of RAM or yield insufficient quality and robustness. Here, we present kASA, a k-mer based tool capable of identifying and profiling metagenomic DNA or protein sequences with high computational efficiency and a user-definable memory footprint. We ensure both high sensitivity and precision by using an amino acid-like encoding of k-mers together with a range of multiple k's. Custom algorithms and data structures optimized for external memory storage enable a full-scale taxonomic analysis without compromise on laptop, desktop, and HPCC.
+## Taxonomic analysis of metagenomic data with kASA
 
 [Source](https://academic.oup.com/nar/article/49/12/e68/6204649)
 
-10.1093/nar/gkab200
-
 ---
 
-## Rapid and simultaneous determination of histidine metabolism intermediates in human and mouse microbiota and biomatrices.
- 10.07.2021, _I Acuña, A Ruiz, T Cerdó, S Cantarero, A López-Moreno, M Aguilera, C Campoy, A Suárez_
-
-
-Histidine metabolism is a key pathway physiologically involved in satiety, recognition memory, skin, and neural protection and allergic diseases. Microbiologically-produced imidazole propionate induces type II diabetes and interferes with glucose lowering drugs. Despite their determinant health implications, no single method simultaneously assesses histidine metabolites in urine, feces, and microbiota. The aim of this study was to develop a simple, rapid, and sensitive method for the determination of histidine and its major bioactive metabolites histamine, N-acetylhistamine, imidazole-4-acetate, cis-urocanate, trans-urocanate, glutamate and imidazole propionate, using ultrahigh-performance liquid chromatography with electrospray ionization tandem mass spectrometry. An innovative simple extraction method from small aliquots of human and mice urine, feces and microbial cell extracts was coupled to separation in a 6.5 min chromatographic run. The successful performance allowed accurate and precise quantification of all metabolites in mouse feces, suggesting broad exchange of histidine metabolites between the gut and mice. Higher urine histamine, histamine to histidine ratio, and imidazole-4-acetate pointed to an underlying inflammatory or allergic process in mice compared to human subjects. N-acetylhistamine and imidazole propionate were detected in human and mouse feces, confirming its origin from gut microbial metabolism. Our novel and robust analytical method captured histidine metabolism in a single assay that will facilitate broad and deep histidine metabolic phenotyping assessing the impact of microbiota on host health in large-scale human observational and interventional studies.
+## Rapid and simultaneous determination of histidine metabolism intermediates in human and mouse microbiota and biomatrices
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34245620/)
-
-10.1002/biof.1766
 
 ---
 
