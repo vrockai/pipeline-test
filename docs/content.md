@@ -23,7 +23,7 @@ Fc receptors (FcRs) and the microbiome are both known to have an effect on the d
 ---
 
 ## Evaluating extraction methods to study canine urine microbiota.
- 09.07.2021, _R Mrofchak, C Madden, MV Evans, VL Hale_
+ 12.07.2021, _R Mrofchak, C Madden, MV Evans, VL Hale_
 
 
 The urinary microbiota is the collection of microbes present in urine that may play a role in host health. Studies of urine microbiota have traditionally relied upon culturing methods aimed at identifying pathogens. However, recent culture-free sequencing studies of the urine microbiota have determined that a diverse array of microbes is present in health and disease. To study these microbes and their potential role in diseases like bladder cancer or interstitial cystitis, consistent extraction and detection of bacterial DNA from urine is critical. However, urine is a low biomass substrate, requiring sensitive methods to capture DNA and making the risk of contamination high. To address this challenge, we collected urine samples from ten healthy dogs and extracted DNA from each sample using five different commercially available extraction methods. Extraction methods were compared based on total and bacterial DNA concentrations and bacterial community composition and diversity assessed through 16S rRNA gene sequencing. Significant differences in the urinary microbiota were observed by dog and sex but not extraction method. The Bacteremia Kit yielded the highest total DNA concentrations (Kruskal-Wallis, p = 0.165, not significant) and the highest bacterial DNA concentrations (Kruskal-Wallis, p = 0.044). Bacteremia also extracted bacterial DNA from the greatest number of samples. Taken together, these results suggest that the Bacteremia kit is an effective option for studying the urine microbiota. This work lays the foundation to study the urine microbiome in a wide range of urogenital diseases in dogs and other species.
@@ -48,7 +48,7 @@ Butyrate is an important mediator of human health and disease. The mechanisms of
 ---
 
 ## Gut microbiome heritability is nearly universal but environmentally contingent.
- 10.07.2021, _L Grieneisen, M Dasari, TJ Gould, JR Björk, JC Grenier, V Yotova, D Jansen, N Gottel, JB Gordon, NH Learn, LR Gesquiere, TL Wango, RS Mututua, JK Warutere, L Siodi, JA Gilbert, LB Barreiro, SC Alberts, J Tung, EA Archie, R Blekhman_
+ 12.07.2021, _L Grieneisen, M Dasari, TJ Gould, JR Björk, JC Grenier, V Yotova, D Jansen, N Gottel, JB Gordon, NH Learn, LR Gesquiere, TL Wango, RS Mututua, JK Warutere, L Siodi, JA Gilbert, LB Barreiro, SC Alberts, J Tung, EA Archie, R Blekhman_
 
 
 Relatives have more similar gut microbiomes than nonrelatives, but the degree to which this similarity results from shared genotypes versus shared environments has been controversial. Here, we leveraged 16,234 gut microbiome profiles, collected over 14 years from 585 wild baboons, to reveal that host genetic effects on the gut microbiome are nearly universal. Controlling for diet, age, and socioecological variation, 97% of microbiome phenotypes were significantly heritable, including several reported as heritable in humans. Heritability was typically low (mean = 0.068) but was systematically greater in the dry season, with low diet diversity, and in older hosts. We show that longitudinal profiles and large sample sizes are crucial to quantifying microbiome heritability, and indicate scope for selection on microbiome characteristics as a host phenotype.
@@ -60,7 +60,7 @@ Relatives have more similar gut microbiomes than nonrelatives, but the degree to
 ---
 
 ## Host genetics influence the gut microbiome.
- 10.07.2021, _L Cortes-Ortiz, KR Amato_
+ 12.07.2021, _L Cortes-Ortiz, KR Amato_
 
 
 
@@ -71,7 +71,7 @@ Relatives have more similar gut microbiomes than nonrelatives, but the degree to
 ---
 
 ## Isoflavone diet ameliorates experimental autoimmune encephalomyelitis through modulation of gut bacteria depleted in patients with multiple sclerosis.
- 10.07.2021, _SN Jensen, NM Cady, SK Shahi, SR Peterson, A Gupta, KN Gibson-Corley, AK Mangalam_
+ 12.07.2021, _SN Jensen, NM Cady, SK Shahi, SR Peterson, A Gupta, KN Gibson-Corley, AK Mangalam_
 
 
 The gut microbiota is a potential environmental factor that influences the development of multiple sclerosis (MS). We and others have demonstrated that patients with MS and healthy individuals have distinct gut microbiomes. However, the pathogenic relevance of these differences remains unclear. Previously, we showed that bacteria that metabolize isoflavones are less abundant in patients with MS, suggesting that isoflavone-metabolizing bacteria might provide protection against MS. Here, using a mouse model of MS, we report that an isoflavone diet provides protection against disease, which is dependent on the presence of isoflavone-metabolizing bacteria and their metabolite equol. Notably, the composition of the gut microbiome in mice fed an isoflavone diet exhibited parallels to healthy human donors, whereas the composition in those fed an isoflavone-free diet exhibited parallels to patients with MS. Collectively, our study provides evidence that dietary-induced gut microbial changes alleviate disease severity and may contribute to MS pathogenesis.
@@ -184,7 +184,7 @@ Napier grass (Pennisetum purpureum) is well-known due to its high biomass produc
 ---
 
 ## Global homogenization of the structure and function in the soil microbiome of urban greenspaces.
- 10.07.2021, _M Delgado-Baquerizo, DJ Eldridge, YR Liu, B Sokoya, JT Wang, HW Hu, JZ He, F Bastida, JL Moreno, AR Bamigboye, JL Blanco-Pastor, C Cano-Díaz, JG Illán, TP Makhalanyane, C Siebe, P Trivedi, E Zaady, JP Verma, L Wang, J Wang, T Grebenc, GF Peñaloza-Bojacá, TU Nahberger, AL Teixido, XQ Zhou, M Berdugo, J Duran, A Rodríguez, X Zhou, F Alfaro, S Abades, C Plaza, A Rey, BK Singh, L Tedersoo, N Fierer_
+ 12.07.2021, _M Delgado-Baquerizo, DJ Eldridge, YR Liu, B Sokoya, JT Wang, HW Hu, JZ He, F Bastida, JL Moreno, AR Bamigboye, JL Blanco-Pastor, C Cano-Díaz, JG Illán, TP Makhalanyane, C Siebe, P Trivedi, E Zaady, JP Verma, L Wang, J Wang, T Grebenc, GF Peñaloza-Bojacá, TU Nahberger, AL Teixido, XQ Zhou, M Berdugo, J Duran, A Rodríguez, X Zhou, F Alfaro, S Abades, C Plaza, A Rey, BK Singh, L Tedersoo, N Fierer_
 
 
 The structure and function of the soil microbiome of urban greenspaces remain largely undetermined. We conducted a global field survey in urban greenspaces and neighboring natural ecosystems across 56 cities from six continents, and found that urban soils are important hotspots for soil bacterial, protist and functional gene diversity, but support highly homogenized microbial communities worldwide. Urban greenspaces had a greater proportion of fast-growing bacteria, algae, amoebae, and fungal pathogens, but a lower proportion of ectomycorrhizal fungi than natural ecosystems. These urban ecosystems also showed higher proportions of genes associated with human pathogens, greenhouse gas emissions, faster nutrient cycling, and more intense abiotic stress than natural environments. City affluence, management practices, and climate were fundamental drivers of urban soil communities. Our work paves the way toward a more comprehensive global-scale perspective on urban greenspaces, which is integral to managing the health of these ecosystems and the well-being of human populations.
@@ -222,7 +222,7 @@ Microbial communities analysis is drawing growing attention due to the rapid dev
 ---
 
 ## A new pipeline for structural characterization and classification of RNA-Seq microbiome data.
- 10.07.2021, _S Racedo, I Portnoy, JI Vélez, H San-Juan-Vergara, M Sanjuan, E Zurek_
+ 12.07.2021, _S Racedo, I Portnoy, JI Vélez, H San-Juan-Vergara, M Sanjuan, E Zurek_
 
 
 High-throughput sequencing enables the analysis of the composition of numerous biological systems, such as microbial communities. The identification of dependencies within these systems requires the analysis and assimilation of the underlying interaction patterns between all the variables that make up that system. However, this task poses a challenge when considering the compositional nature of the data coming from DNA-sequencing experiments because traditional interaction metrics (e.g., correlation) produce unreliable results when analyzing relative fractions instead of absolute abundances. The compositionality-associated challenges extend to the classification task, as it usually involves the characterization of the interactions between the principal descriptive variables of the datasets. The classification of new samples/patients into binary categories corresponding to dissimilar biological settings or phenotypes (e.g., control and cases) could help researchers in the development of treatments/drugs.
