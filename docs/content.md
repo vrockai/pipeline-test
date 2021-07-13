@@ -128,9 +128,15 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Punicic acid ameliorates obesity and liver steatosis by regulating gut microbiota composition in mice
+## Punicic acid ameliorates obesity and liver steatosis by regulating gut microbiota composition in mice.
+ 09.07.2021, _G Yuan, M Tan, X Chen_
+
+
+This study aimed to elucidate the effect of punicic acid (PUA, cis9,trans11,cis13-18 : 3) on obesity and liver steatosis in mice induced by high-fat diet (HFD), and to explore the possible mechanism. Mice were fed with either a HFD or a control diet for 8 weeks. Half of HFD-mice received daily supplementation of PUA. Supplementation with PUA ameliorated the liver steatosis and obesity in mice fed by HFD, as demonstrated by the decreased hepatic triglyceride accumulation, body weight gain and fat weight. A HFD increased the ratio of Firmicutes to Bacteroidetes, whereas supplementation with PUA effectively restored it. PUA supplementation counteracted the upregulation in family Desulfovibrionaceae and Helicobacteraceae, and the downregulation in Muribaculaceae and Bacteroidaceae induced by HFD. Correspondingly, the family of Desulfovibrionaceae was positively related, whereas Muribaculaceae was negatively related to the amount of epididymal and perirenal fat, and the level of liver triglyceride and total cholesterol. The family Helicobacteraceae was also positively related to the amount of epididymal and perirenal fat. Moreover, PUA supplementation counteracted the increase in the population of Anaerotruncus, Faecalibaculim, Mucispirillum, and the decrease in the population of Lactobacillus, Roseburia, Oscillibacter at the genus level induced by HFD. These results demonstrated that PUA can at least in part ameliorate obesity and liver steatosis in mice induced by HFD by regulating gut microbiota composition.
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2021/FO/D1FO01152A#!divAbstract)
+
+10.1039/d1fo01152a
 
 ---
 
@@ -140,39 +146,77 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Diversity and Interactomics of Bacterial Communities Associated with Dominant Trees During Tropical Forest Recovery
+## Diversity and Interactomics of Bacterial Communities Associated with Dominant Trees During Tropical Forest Recovery.
+ 10.07.2021, _AA Becerra-Lucio, NY Labrín-Sotomayor, PA Becerra-Lucio, FI Trujillo-Elisea, AT Chávez-Bárcenas, S Machkour-M'Rabet, YJ Peña-Ramírez_
+
+
+Bacterial communities have been identified as functional key members in soil ecology. A deep relation with these communities maintains forest coverture. Trees harbor particular bacteriomes in the rhizosphere, endosphere, or phyllosphere, different from bulk-soil representatives. Moreover, the plant microbiome appears to be specific for the plant-hosting species, varies through season, and responsive to several environmental factors. This work reports the changes in bacterial communities associated with dominant pioneer trees [Tabebuia rosea and Handroanthus chrysanthus [(Bignoniaceae)] during tropical forest recovery chronosequence in the Mayan forest in Campeche, Mexico. Massive 16S sequencing approach leads to identifying phylotypes associated with rhizosphere, bulk-soil, or recovery stage. Lotka-Volterra interactome modeling suggests the presence of putative regulatory roles of some phylotypes over the rest of the community. Our results may indicate that bacterial communities associated with pioneer trees may establish more complex regulatory networks than those found in bulk-soil. Moreover, modeled regulatory networks predicted from rhizosphere samples resulted in a higher number of nodes and interactions than those found in the analysis of bulk-soil samples.
 
 [Source](https://link.springer.com/article/10.1007%2Fs00284-021-02603-9)
 
+10.1007/s00284-021-02603-9
+
 ---
 
-## Land-use types shape soil microbial compositions under rapid urbanization in the Xiong’an New Area, China
+## Land-use types shape soil microbial compositions under rapid urbanization in the Xiong'an New Area, China.
+ 28.05.2021, _C Wang, A Masoudi, M Wang, J Yang, Z Yu, J Liu_
+
+
+_China, Humans, RNA, Ribosomal, 16S, Soil, Soil Microbiology, Urbanization_
+For urban planning and infrastructural projects, considerable attention has been paid to the relationship between soil biota, especially protists, and edaphic conditions in various land-use types having different plant species in the Xiong'an New Area of China. To elucidate this relationship, we assessed edaphic variables and soil biota compositions and compared them among 5 habitat types: human-made forests, crop cultivations, arid rivers, Baiyangdian (BYD) Lake, and around oil wells. In all, 12 experimental plots from terrestrial and aquatic ecosystems were assessed using high-throughput sequencing of environmental DNA, targeting the V3-V4 region of the 16S rRNA gene, internal transcribed spacer 1, and V4 region of the 18S rRNA gene for bacteria, fungi, and protists, respectively. The abundance of bacterial and protist communities was higher than fungi, possibly because fungi prefer acidic soil conditions and likely have greater susceptibility to anthropogenic activities. Across all experimental plots, land-use types contributed the most to the β-diversity of soil biota, followed by soil moisture. Diversity and richness were significantly higher at aquatic habitats than at terrestrial habitats. Predictive metagenomic analysis of trophic groups predicted relatively high frequency of functional genes from bacterial metabolism pathways (carbohydrate and amino acid); contrary to expectation, phototrophic protists, but not fungal symbionts and protistan consumers, were the dominant group at the BYD Lake. Geographical coordinates showed significant (P &lt; 0.05) relationships with all microbiome taxa (nodes at network) from all land-use types. Moreover, soil-microbiome relationships were more complex and more intense at crop habitats. Links between protist and fungal taxa were the highest at the petroleum-contaminated sampling sites, indicating the importance of these two soil microbiomes in polluted soil. Thus, our findings suggest that human manipulation and land-use types are crucial factors for soil biota structure and composition across our sampling sites.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969721010433?via%3Dihub)
 
+10.1016/j.scitotenv.2021.145976
+
 ---
 
-## nsights into the Endophytic Bacterial Microbiome of Crocus sativus: Functional Characterization Leads to Potential Agents that Enhance the Plant Growth, Productivity, and Key Metabolite Content 
+## Insights into the Endophytic Bacterial Microbiome of Crocus sativus: Functional Characterization Leads to Potential Agents that Enhance the Plant Growth, Productivity, and Key Metabolite Content.
+ 09.07.2021, _T Ahmad, S Farooq, DN Mirza, A Kumar, RA Mir, S Riyaz-Ul-Hassan_
+
+
+The study was undertaken to unravel the culturable endophytic bacterial microbiome of Crocus sativus L. (saffron crocus) and consequently obtain potential leads to develop plant growth-promoting and biocontrol agents for increased productivity and sustainable cultivation. The endophytes formed 47 different operational taxonomic units (OTUs), spanning over 28 genera. The host was preferentially colonized by the genus Bacillus, followed by Burkholderia and Pantoea, respectively. Several endophytes possessed potential plant growth-promoting properties and inhibitory activities against the specific fungal pathogens of saffron. The endophytes, except for Microbacterium oxydans, did not cause any disease symptoms in the pot experiments. The selected cultures, Burkholderia gladioli, Streptomyces achromogenes, and three species of Bacillus, enhanced the host plant growth significantly. Based on the pot experiment results, two isolates, Bacillus mojavensis CS4EB32 and Burkholderia gladioli E39CS3, were selected for the field experiments. We obtained an increase of 67.5%, 69.8%, and 68.3% in the production of flowers with the individual and collective treatments, respectively. The treatments also enhanced the biomass of the plant and the length and weight of stigmas significantly. The endophyte treatments induced the expression of the pathway genes, resulting in a marked increase in the concentration of apocarotenoids. The study indicates that the dominant endophytes support plant growth and development in nature and present an opportunity for developing microbial formulations for the sustainability of saffron cultivation.
 
 [Source](https://link.springer.com/article/10.1007%2Fs00248-021-01810-y)
 
+10.1007/s00248-021-01810-y
+
 ---
 
-## Using a high-throughput sequencing technology to evaluate the various forage source epiphytic microbiota and their effect on fermentation quality and microbial diversity of Napier grass
+## Using a high-throughput sequencing technology to evaluate the various forage source epiphytic microbiota and their effect on fermentation quality and microbial diversity of Napier grass.
+ 09.07.2021, _N Ali, S Wang, J Zhao, Z Dong, J Li, M Nazar, T Shao_
+
+
+Napier grass (Pennisetum purpureum) is well-known due to its high biomass production. The epiphytic microbiota was prepared from Napier, alfalfa, and red clover grass and served as an inoculum. The chopped sterilized Napier grass was inoculated with reconstituted epiphytic microbiota, and treatments were designed as: distilled water (N0); Napier grass epiphytic microbiota (NP); alfalfa epiphytic microbiota (AL); and red clover epiphytic microbiota (RC). The results reveal that the reconstituted epiphytic microbiota bacteria efficiently adapted in Napier grass silage, improved fermentation, and produced lactic acid. The alfalfa-grass inoculum rapidly dropped pH and enhanced the lactic acid (LA) and the ratio of lactic acid-to-acetic acid (LA/AA) during the entire ensiling process. However, red clover attains high lactic acid, while Napier grass produces high acetic acid-type fermentation at terminal silage. After day 60 of ensiling, Lactobacillus proportion was higher in AL (85.45%), and RC (59.44%), inocula as compared with NP (36.41%), inoculum. The NP inoculum terminal silage was diverse than AL and RC inocula and dominated by Enterobacter (16.32%) and Enterobacteriaceae (10.16%) and also significantly (p &lt; 0.05) higher in acetic acid. The present study concluded that AL and RC epiphytic microbiota successfully develop and more efficient than Napier grass microbiota. It is suggested that abundant microbiota isolate from alfala and red clover and develop more economical and efficient inocula for quality fermentation of Napier grass silage in practice.
 
 [Source](https://link.springer.com/article/10.1007%2Fs00203-021-02296-5)
 
+10.1007/s00203-021-02296-5
+
 ---
 
-## Global homogenization of the structure and function in the soil microbiome of urban greenspaces
+## Global homogenization of the structure and function in the soil microbiome of urban greenspaces.
+ 10.07.2021, _M Delgado-Baquerizo, DJ Eldridge, YR Liu, B Sokoya, JT Wang, HW Hu, JZ He, F Bastida, JL Moreno, AR Bamigboye, JL Blanco-Pastor, C Cano-Díaz, JG Illán, TP Makhalanyane, C Siebe, P Trivedi, E Zaady, JP Verma, L Wang, J Wang, T Grebenc, GF Peñaloza-Bojacá, TU Nahberger, AL Teixido, XQ Zhou, M Berdugo, J Duran, A Rodríguez, X Zhou, F Alfaro, S Abades, C Plaza, A Rey, BK Singh, L Tedersoo, N Fierer_
+
+
+The structure and function of the soil microbiome of urban greenspaces remain largely undetermined. We conducted a global field survey in urban greenspaces and neighboring natural ecosystems across 56 cities from six continents, and found that urban soils are important hotspots for soil bacterial, protist and functional gene diversity, but support highly homogenized microbial communities worldwide. Urban greenspaces had a greater proportion of fast-growing bacteria, algae, amoebae, and fungal pathogens, but a lower proportion of ectomycorrhizal fungi than natural ecosystems. These urban ecosystems also showed higher proportions of genes associated with human pathogens, greenhouse gas emissions, faster nutrient cycling, and more intense abiotic stress than natural environments. City affluence, management practices, and climate were fundamental drivers of urban soil communities. Our work paves the way toward a more comprehensive global-scale perspective on urban greenspaces, which is integral to managing the health of these ecosystems and the well-being of human populations.
 
 [Source](https://advances.sciencemag.org/content/7/28/eabg5809)
 
+10.1126/sciadv.abg5809
+
 ---
 
-## Anaerobic fermentation of hydrothermal liquefaction wastewater of dewatered sewage sludge for volatile fatty acids production with focuses on the degradation of organic components and microbial community compositions
+## Anaerobic fermentation of hydrothermal liquefaction wastewater of dewatered sewage sludge for volatile fatty acids production with focuses on the degradation of organic components and microbial community compositions.
+ 28.05.2021, _Z Chen, Y Rao, M Usman, H Chen, A Białowiec, S Zhang, G Luo_
+
+
+_Anaerobiosis, Bioreactors, Fatty Acids, Volatile, Fermentation, Hydrogen-Ion Concentration, Microbiota, Sewage, Waste Water_
+Hydrothermal conversion (HTC) is a promising technology for the treatment of dewatered sewage sludge to produce bio-fuels including bio-oil and hydrochar. At the same time, a huge amount of wastewater (HTCWW) was produced. The present study investigated the organic compositions of HTCWW obtained at different HTC temperatures (170-320 °C) and volatile fatty acids (VFAs) yields through anaerobic fermentation. Results showed that the highest VFAs yield of 0.59 gCODVFA/gCOD was obtained from HTCWW obtained at 170 °C (HTCWW 170). Higher amount of easily biodegradable organics including proteins and carbohydrates were present in HTCWW 170 °C, which resulted in the highest VFAs yields. With the increase of HTC temperature, recalcitrant organic compounds were produced as revealed by 3D-EEM and GC-MS analysis, which resulted in lower VFAs yields. Furthermore, microbial analysis showed that different compositions in the HTCWW led to the enrichment of different microbial communities, which affected the VFAs yields.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S004896972101144X?via%3Dihub)
+
+10.1016/j.scitotenv.2021.146077
 
 ---
 
