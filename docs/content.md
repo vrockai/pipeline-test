@@ -128,15 +128,9 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Punicic acid ameliorates obesity and liver steatosis by regulating gut microbiota composition in mice.
- 09.07.2021, _G Yuan, M Tan, X Chen_
-
-
-This study aimed to elucidate the effect of punicic acid (PUA, cis9,trans11,cis13-18 : 3) on obesity and liver steatosis in mice induced by high-fat diet (HFD), and to explore the possible mechanism. Mice were fed with either a HFD or a control diet for 8 weeks. Half of HFD-mice received daily supplementation of PUA. Supplementation with PUA ameliorated the liver steatosis and obesity in mice fed by HFD, as demonstrated by the decreased hepatic triglyceride accumulation, body weight gain and fat weight. A HFD increased the ratio of Firmicutes to Bacteroidetes, whereas supplementation with PUA effectively restored it. PUA supplementation counteracted the upregulation in family Desulfovibrionaceae and Helicobacteraceae, and the downregulation in Muribaculaceae and Bacteroidaceae induced by HFD. Correspondingly, the family of Desulfovibrionaceae was positively related, whereas Muribaculaceae was negatively related to the amount of epididymal and perirenal fat, and the level of liver triglyceride and total cholesterol. The family Helicobacteraceae was also positively related to the amount of epididymal and perirenal fat. Moreover, PUA supplementation counteracted the increase in the population of Anaerotruncus, Faecalibaculim, Mucispirillum, and the decrease in the population of Lactobacillus, Roseburia, Oscillibacter at the genus level induced by HFD. These results demonstrated that PUA can at least in part ameliorate obesity and liver steatosis in mice induced by HFD by regulating gut microbiota composition.
+## Punicic acid ameliorates obesity and liver steatosis by regulating gut microbiota composition in mice
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2021/FO/D1FO01152A#!divAbstract)
-
-10.1039/d1fo01152a
 
 ---
 
@@ -146,15 +140,9 @@ This study aimed to elucidate the effect of punicic acid (PUA, cis9,trans11,cis1
 
 ---
 
-## Diversity and Interactomics of Bacterial Communities Associated with Dominant Trees During Tropical Forest Recovery.
- 10.07.2021, _AA Becerra-Lucio, NY Labrín-Sotomayor, PA Becerra-Lucio, FI Trujillo-Elisea, AT Chávez-Bárcenas, S Machkour-M'Rabet, YJ Peña-Ramírez_
-
-
-Bacterial communities have been identified as functional key members in soil ecology. A deep relation with these communities maintains forest coverture. Trees harbor particular bacteriomes in the rhizosphere, endosphere, or phyllosphere, different from bulk-soil representatives. Moreover, the plant microbiome appears to be specific for the plant-hosting species, varies through season, and responsive to several environmental factors. This work reports the changes in bacterial communities associated with dominant pioneer trees [Tabebuia rosea and Handroanthus chrysanthus [(Bignoniaceae)] during tropical forest recovery chronosequence in the Mayan forest in Campeche, Mexico. Massive 16S sequencing approach leads to identifying phylotypes associated with rhizosphere, bulk-soil, or recovery stage. Lotka-Volterra interactome modeling suggests the presence of putative regulatory roles of some phylotypes over the rest of the community. Our results may indicate that bacterial communities associated with pioneer trees may establish more complex regulatory networks than those found in bulk-soil. Moreover, modeled regulatory networks predicted from rhizosphere samples resulted in a higher number of nodes and interactions than those found in the analysis of bulk-soil samples.
+## Diversity and Interactomics of Bacterial Communities Associated with Dominant Trees During Tropical Forest Recovery
 
 [Source](https://link.springer.com/article/10.1007%2Fs00284-021-02603-9)
-
-10.1007/s00284-021-02603-9
 
 ---
 
