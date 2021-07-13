@@ -176,15 +176,28 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Robust covariance estimation for high-dimensional compositional data with application to microbial communities analysis
+## Robust covariance estimation for high-dimensional compositional data with application to microbial communities analysis.
+ 29.06.2021, _Y He, P Liu, X Zhang, W Zhou_
+
+
+_Computer Simulation, High-Throughput Nucleotide Sequencing, Humans, Microbiota_
+Microbial communities analysis is drawing growing attention due to the rapid development fire of high-throughput sequencing techniques nowadays. The observed data has the following typical characteristics: it is high-dimensional, compositional (lying in a simplex) and even would be leptokurtic and highly skewed due to the existence of overly abundant taxa, which makes the conventional correlation analysis infeasible to study the co-occurrence and co-exclusion relationship between microbial taxa. In this article, we address the challenges of covariance estimation for this kind of data. Assuming the basis covariance matrix lying in a well-recognized class of sparse covariance matrices, we adopt a proxy matrix known as centered log-ratio covariance matrix in the literature. We construct a Median-of-Means estimator for the centered log-ratio covariance matrix and propose a thresholding procedure that is adaptive to the variability of individual entries. By imposing a much weaker finite fourth moment condition compared with the sub-Gaussianity condition in the literature, we derive the optimal rate of convergence under the spectral norm. In addition, we also provide theoretical guarantee on support recovery. The adaptive thresholding procedure of the MOM estimator is easy to implement and gains robustness when outliers or heavy-tailedness exist. Thorough simulation studies are conducted to show the advantages of the proposed procedure over some state-of-the-arts methods. At last, we apply the proposed method to analyze a microbiome dataset in human gut.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/sim.8979)
 
+10.1002/sim.8979
+
 ---
 
-## A new pipeline for structural characterization and classification of RNA-Seq microbiome data
+## A new pipeline for structural characterization and classification of RNA-Seq microbiome data.
+ 10.07.2021, _S Racedo, I Portnoy, JI Vélez, H San-Juan-Vergara, M Sanjuan, E Zurek_
+
+
+High-throughput sequencing enables the analysis of the composition of numerous biological systems, such as microbial communities. The identification of dependencies within these systems requires the analysis and assimilation of the underlying interaction patterns between all the variables that make up that system. However, this task poses a challenge when considering the compositional nature of the data coming from DNA-sequencing experiments because traditional interaction metrics (e.g., correlation) produce unreliable results when analyzing relative fractions instead of absolute abundances. The compositionality-associated challenges extend to the classification task, as it usually involves the characterization of the interactions between the principal descriptive variables of the datasets. The classification of new samples/patients into binary categories corresponding to dissimilar biological settings or phenotypes (e.g., control and cases) could help researchers in the development of treatments/drugs.
 
 [Source](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-021-00266-7)
+
+10.1186/s13040-021-00266-7
 
 ---
 
@@ -194,15 +207,27 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Taxonomic analysis of metagenomic data with kASA
+## Taxonomic analysis of metagenomic data with kASA.
+ 10.07.2021, _S Weging, A Gogol-Döring, I Grosse_
+
+
+The taxonomic analysis of sequencing data has become important in many areas of life sciences. However, currently available tools for that purpose either consume large amounts of RAM or yield insufficient quality and robustness. Here, we present kASA, a k-mer based tool capable of identifying and profiling metagenomic DNA or protein sequences with high computational efficiency and a user-definable memory footprint. We ensure both high sensitivity and precision by using an amino acid-like encoding of k-mers together with a range of multiple k's. Custom algorithms and data structures optimized for external memory storage enable a full-scale taxonomic analysis without compromise on laptop, desktop, and HPCC.
 
 [Source](https://academic.oup.com/nar/article/49/12/e68/6204649)
 
+10.1093/nar/gkab200
+
 ---
 
-## Rapid and simultaneous determination of histidine metabolism intermediates in human and mouse microbiota and biomatrices
+## Rapid and simultaneous determination of histidine metabolism intermediates in human and mouse microbiota and biomatrices.
+ 10.07.2021, _I Acuña, A Ruiz, T Cerdó, S Cantarero, A López-Moreno, M Aguilera, C Campoy, A Suárez_
+
+
+Histidine metabolism is a key pathway physiologically involved in satiety, recognition memory, skin, and neural protection and allergic diseases. Microbiologically-produced imidazole propionate induces type II diabetes and interferes with glucose lowering drugs. Despite their determinant health implications, no single method simultaneously assesses histidine metabolites in urine, feces, and microbiota. The aim of this study was to develop a simple, rapid, and sensitive method for the determination of histidine and its major bioactive metabolites histamine, N-acetylhistamine, imidazole-4-acetate, cis-urocanate, trans-urocanate, glutamate and imidazole propionate, using ultrahigh-performance liquid chromatography with electrospray ionization tandem mass spectrometry. An innovative simple extraction method from small aliquots of human and mice urine, feces and microbial cell extracts was coupled to separation in a 6.5 min chromatographic run. The successful performance allowed accurate and precise quantification of all metabolites in mouse feces, suggesting broad exchange of histidine metabolites between the gut and mice. Higher urine histamine, histamine to histidine ratio, and imidazole-4-acetate pointed to an underlying inflammatory or allergic process in mice compared to human subjects. N-acetylhistamine and imidazole propionate were detected in human and mouse feces, confirming its origin from gut microbial metabolism. Our novel and robust analytical method captured histidine metabolism in a single assay that will facilitate broad and deep histidine metabolic phenotyping assessing the impact of microbiota on host health in large-scale human observational and interventional studies.
 
 [Source](https://pubmed.ncbi.nlm.nih.gov/34245620/)
+
+10.1002/biof.1766
 
 ---
 
