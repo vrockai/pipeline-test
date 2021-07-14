@@ -130,9 +130,15 @@ Bacteria and their viruses (bacteriophages or phages) interact antagonistically 
 
 ---
 
-## Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model
+## Umibato: estimation of time-varying microbial interaction using continuous-time regression hidden Markov model.
+ 13.07.2021, _S Hosoda, T Fukunaga, M Hamada_
+
+
+Accumulating evidence has highlighted the importance of microbial interaction networks. Methods have been developed for estimating microbial interaction networks, of which the generalized Lotka-Volterra equation (gLVE)-based method can estimate a directed interaction network. The previous gLVE-based method for estimating microbial interaction networks did not consider time-varying interactions.
 
 [Source](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i16/6319692)
+
+10.1093/bioinformatics/btab287
 
 ---
 
@@ -142,33 +148,64 @@ Bacteria and their viruses (bacteriophages or phages) interact antagonistically 
 
 ---
 
-## Characterizing Microbiomes via Sequencing of Marker Loci: Techniques To Improve Throughput, Account for Cross-Contamination, and Reduce Cost
+## Characterizing Microbiomes via Sequencing of Marker Loci: Techniques To Improve Throughput, Account for Cross-Contamination, and Reduce Cost.
+ 13.07.2021, _JG Harrison, GD Randolph, CA Buerkle_
+
+
+New approaches to characterizing microbiomes via high-throughput sequencing provide impressive gains in efficiency and cost reduction compared to approaches that were standard just a few years ago. However, the speed of method development has been such that staying abreast of the latest technological advances is challenging. Moreover, shifting laboratory protocols to include new methods can be expensive and time consuming. To facilitate adoption of new techniques, we provide a guide and review of recent advances that are relevant for single-locus sequence-based study of microbiomes-from extraction to library preparation-including a primer regarding the use of liquid-handling automation in small-scale academic settings. Additionally, we describe several amendments to published techniques to improve throughput, track contamination, and reduce cost. Notably, we suggest adding synthetic DNA molecules to each sample during nucleic acid extraction, thus providing a method of documenting incidences of cross-contamination. We also describe a dual-indexing scheme for Illumina sequencers that allows multiplexing of many thousands of samples with minimal PhiX input. Collectively, the techniques that we describe demonstrate that laboratory technology need not impose strict limitations on the scale of molecular microbial ecology studies. IMPORTANCE New methods to characterize microbiomes reduce technology-imposed limitations to study design, but many new approaches have not been widely adopted. Here, we present techniques to increase throughput and reduce contamination alongside a thorough review of current best practices.
 
 [Source](https://journals.asm.org/doi/10.1128/mSystems.00294-21)
 
+10.1128/mSystems.00294-21
+
 ---
 
-## Two-Target Quantitative PCR To Predict Library Composition for Shallow Shotgun Sequencing
+## Two-Target Quantitative PCR To Predict Library Composition for Shallow Shotgun Sequencing.
+ 13.07.2021, _MY Cho, M Oliva, A Spreafico, B Chen, X Wei, Y Choi, R Kaul, LL Siu, B Coburn, PHH Schneeberger_
+
+
+When determining human microbiota composition, shotgun sequencing is a powerful tool that can generate high-resolution taxonomic and functional information at once. However, the technique is limited by missing information about host-to-microbe ratios observed in different body compartments. This limitation makes it difficult to plan shotgun sequencing assays, especially in the context of high sample multiplexing and limited sequencing output and is of particular importance for studies employing the recently described shallow shotgun sequencing technique. In this study, we evaluated the use of a quantitative PCR (qPCR)-based assay to predict host-to-microbe ratio prior to sequencing. Combining a two-target assay involving the bacterial 16S rRNA gene and the human beta-actin gene, we derived a model to predict human-to-microbe ratios from two sample types, including stool samples and oropharyngeal swabs. We then validated it on two independently collected sample types, including rectal swabs and vaginal secretion samples. This assay enabled accurate prediction in the validation set in a range of sample compositions between 4% and 98% nonhuman reads and observed proportions varied between -18.8% and +19.2% from the expected values. We hope that this easy-to-use assay will help researchers to plan their shotgun sequencing experiments in a more efficient way. IMPORTANCE When determining human microbiota composition, shotgun sequencing is a powerful tool that can generate large amounts of data. However, in sample compositions with low or variable microbial density, shallowing sequencing can negatively affect microbial community metrics. Here, we show that variable sequencing depth decreases measured alpha diversity at differing rates based on community composition. We then derived a model that can determine sample composition prior to sequencing using quantitative PCR (qPCR) data and validated the model using a separate sample set. We have included a tool that uses this model to be available for researchers to use when gauging shallow sequencing viability of samples.
 
 [Source](https://journals.asm.org/doi/10.1128/mSystems.00552-21)
 
+10.1128/mSystems.00552-21
+
 ---
 
-## Statistical approaches for differential expression analysis in metatranscriptomics
+## Statistical approaches for differential expression analysis in metatranscriptomics.
+ 13.07.2021, _Y Zhang, KN Thompson, C Huttenhower, EA Franzosa_
+
+
+Metatranscriptomics (MTX) has become an increasingly practical way to profile the functional activity of microbial communities in situ. However, MTX remains underutilized due to experimental and computational limitations. The latter are complicated by non-independent changes in both RNA transcript levels and their underlying genomic DNA copies (as microbes simultaneously change their overall abundance in the population and regulate individual transcripts), genetic plasticity (as whole loci are frequently gained and lost in microbial lineages) and measurement compositionality and zero-inflation. Here, we present a systematic evaluation of and recommendations for differential expression (DE) analysis in MTX.
 
 [Source](https://academic.oup.com/bioinformatics/article/37/Supplement_1/i34/6319701)
 
+10.1093/bioinformatics/btab327
+
 ---
 
-## Benchmark of 16S rRNA gene amplicon sequencing using Japanese gut microbiome data from the V1–V2 and V3–V4 primer sets
+## Benchmark of 16S rRNA gene amplicon sequencing using Japanese gut microbiome data from the V1-V2 and V3-V4 primer sets.
+ 13.07.2021, _S Kameoka, D Motooka, S Watanabe, R Kubo, N Jung, Y Midorikawa, NO Shinozaki, Y Sawai, AK Takeda, S Nakamura_
+
+
+_Benchmarking, Gastrointestinal Microbiome, Genes, rRNA, High-Throughput Nucleotide Sequencing, Humans, Japan, RNA, Ribosomal, 16S_
+16S rRNA gene amplicon sequencing (16S analysis) is widely used to analyze microbiota with next-generation sequencing technologies. Here, we compared fecal 16S analysis data from 192 Japanese volunteers using the modified V1-V2 (V12) and the standard V3-V4 primer (V34) sets to optimize the gut microbiota analysis protocol.
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07746-4)
 
+10.1186/s12864-021-07746-4
+
 ---
 
-## In vitro models of gut digestion across childhood: current developments, challenges and future trends
+## In vitro models of gut digestion across childhood: current developments, challenges and future trends.
+ 12.07.2021, _E Fournier, C Roussel, A Dominicis, D Ley, MA Peyron, V Collado, M Mercier-Bonin, C Lacroix, M Alric, T Van de Wiele, C Chassard, L Etienne-Mesmin, S Blanquet-Diot_
+
+
+The human digestion is a multi-step and multi-compartment process essential for human health, at the heart of many issues raised by academics, the medical world and industrials from the food, nutrition and pharma fields. In the first years of life, major dietary changes occur and are concomitant with an evolution of the whole child digestive tract anatomy and physiology, including colonization of gut microbiota. All these phenomena are influenced by child exposure to environmental compounds, such as drugs (especially antibiotics) and food pollutants, but also childhood infections. Due to obvious ethical, regulatory and technical limitations, in vivo approaches in animal and human are more and more restricted to favor complementary in vitro approaches. This review summarizes current knowledge on the evolution of child gut physiology from birth to 3 years old regarding physicochemical, mechanical and microbial parameters. Then, all the available in vitro models of the child digestive tract are described, ranging from the simplest static mono-compartmental systems to the most sophisticated dynamic and multi-compartmental models, and mimicking from the oral phase to the colon compartment. Lastly, we detail the main applications of child gut models in nutritional, pharmaceutical and microbiological studies and discuss the limitations and challenges facing this field of research.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0734975021001026)
+
+10.1016/j.biotechadv.2021.107796
 
 ---
 
