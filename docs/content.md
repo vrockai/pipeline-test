@@ -48,7 +48,7 @@ Butyrate is an important mediator of human health and disease. The mechanisms of
 ---
 
 ## Gut microbiome heritability is nearly universal but environmentally contingent.
- 12.07.2021, _L Grieneisen, M Dasari, TJ Gould, JR Björk, JC Grenier, V Yotova, D Jansen, N Gottel, JB Gordon, NH Learn, LR Gesquiere, TL Wango, RS Mututua, JK Warutere, L Siodi, JA Gilbert, LB Barreiro, SC Alberts, J Tung, EA Archie, R Blekhman_
+ 13.07.2021, _L Grieneisen, M Dasari, TJ Gould, JR Björk, JC Grenier, V Yotova, D Jansen, N Gottel, JB Gordon, NH Learn, LR Gesquiere, TL Wango, RS Mututua, JK Warutere, L Siodi, JA Gilbert, LB Barreiro, SC Alberts, J Tung, EA Archie, R Blekhman_
 
 
 Relatives have more similar gut microbiomes than nonrelatives, but the degree to which this similarity results from shared genotypes versus shared environments has been controversial. Here, we leveraged 16,234 gut microbiome profiles, collected over 14 years from 585 wild baboons, to reveal that host genetic effects on the gut microbiome are nearly universal. Controlling for diet, age, and socioecological variation, 97% of microbiome phenotypes were significantly heritable, including several reported as heritable in humans. Heritability was typically low (mean = 0.068) but was systematically greater in the dry season, with low diet diversity, and in older hosts. We show that longitudinal profiles and large sample sizes are crucial to quantifying microbiome heritability, and indicate scope for selection on microbiome characteristics as a host phenotype.
@@ -60,7 +60,7 @@ Relatives have more similar gut microbiomes than nonrelatives, but the degree to
 ---
 
 ## Host genetics influence the gut microbiome.
- 12.07.2021, _L Cortes-Ortiz, KR Amato_
+ 13.07.2021, _L Cortes-Ortiz, KR Amato_
 
 
 
@@ -146,28 +146,15 @@ The gut microbiota is a potential environmental factor that influences the devel
 
 ---
 
-## Land-use types shape soil microbial compositions under rapid urbanization in the Xiong'an New Area, China.
- 28.05.2021, _C Wang, A Masoudi, M Wang, J Yang, Z Yu, J Liu_
-
-
-_China, Humans, RNA, Ribosomal, 16S, Soil, Soil Microbiology, Urbanization_
-For urban planning and infrastructural projects, considerable attention has been paid to the relationship between soil biota, especially protists, and edaphic conditions in various land-use types having different plant species in the Xiong'an New Area of China. To elucidate this relationship, we assessed edaphic variables and soil biota compositions and compared them among 5 habitat types: human-made forests, crop cultivations, arid rivers, Baiyangdian (BYD) Lake, and around oil wells. In all, 12 experimental plots from terrestrial and aquatic ecosystems were assessed using high-throughput sequencing of environmental DNA, targeting the V3-V4 region of the 16S rRNA gene, internal transcribed spacer 1, and V4 region of the 18S rRNA gene for bacteria, fungi, and protists, respectively. The abundance of bacterial and protist communities was higher than fungi, possibly because fungi prefer acidic soil conditions and likely have greater susceptibility to anthropogenic activities. Across all experimental plots, land-use types contributed the most to the β-diversity of soil biota, followed by soil moisture. Diversity and richness were significantly higher at aquatic habitats than at terrestrial habitats. Predictive metagenomic analysis of trophic groups predicted relatively high frequency of functional genes from bacterial metabolism pathways (carbohydrate and amino acid); contrary to expectation, phototrophic protists, but not fungal symbionts and protistan consumers, were the dominant group at the BYD Lake. Geographical coordinates showed significant (P &lt; 0.05) relationships with all microbiome taxa (nodes at network) from all land-use types. Moreover, soil-microbiome relationships were more complex and more intense at crop habitats. Links between protist and fungal taxa were the highest at the petroleum-contaminated sampling sites, indicating the importance of these two soil microbiomes in polluted soil. Thus, our findings suggest that human manipulation and land-use types are crucial factors for soil biota structure and composition across our sampling sites.
+## Land-use types shape soil microbial compositions under rapid urbanization in the Xiong’an New Area, China
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969721010433?via%3Dihub)
 
-10.1016/j.scitotenv.2021.145976
-
 ---
 
-## Insights into the Endophytic Bacterial Microbiome of Crocus sativus: Functional Characterization Leads to Potential Agents that Enhance the Plant Growth, Productivity, and Key Metabolite Content.
- 09.07.2021, _T Ahmad, S Farooq, DN Mirza, A Kumar, RA Mir, S Riyaz-Ul-Hassan_
-
-
-The study was undertaken to unravel the culturable endophytic bacterial microbiome of Crocus sativus L. (saffron crocus) and consequently obtain potential leads to develop plant growth-promoting and biocontrol agents for increased productivity and sustainable cultivation. The endophytes formed 47 different operational taxonomic units (OTUs), spanning over 28 genera. The host was preferentially colonized by the genus Bacillus, followed by Burkholderia and Pantoea, respectively. Several endophytes possessed potential plant growth-promoting properties and inhibitory activities against the specific fungal pathogens of saffron. The endophytes, except for Microbacterium oxydans, did not cause any disease symptoms in the pot experiments. The selected cultures, Burkholderia gladioli, Streptomyces achromogenes, and three species of Bacillus, enhanced the host plant growth significantly. Based on the pot experiment results, two isolates, Bacillus mojavensis CS4EB32 and Burkholderia gladioli E39CS3, were selected for the field experiments. We obtained an increase of 67.5%, 69.8%, and 68.3% in the production of flowers with the individual and collective treatments, respectively. The treatments also enhanced the biomass of the plant and the length and weight of stigmas significantly. The endophyte treatments induced the expression of the pathway genes, resulting in a marked increase in the concentration of apocarotenoids. The study indicates that the dominant endophytes support plant growth and development in nature and present an opportunity for developing microbial formulations for the sustainability of saffron cultivation.
+## nsights into the Endophytic Bacterial Microbiome of Crocus sativus: Functional Characterization Leads to Potential Agents that Enhance the Plant Growth, Productivity, and Key Metabolite Content 
 
 [Source](https://link.springer.com/article/10.1007%2Fs00248-021-01810-y)
-
-10.1007/s00248-021-01810-y
 
 ---
 
@@ -222,7 +209,7 @@ Microbial communities analysis is drawing growing attention due to the rapid dev
 ---
 
 ## A new pipeline for structural characterization and classification of RNA-Seq microbiome data.
- 12.07.2021, _S Racedo, I Portnoy, JI Vélez, H San-Juan-Vergara, M Sanjuan, E Zurek_
+ 13.07.2021, _S Racedo, I Portnoy, JI Vélez, H San-Juan-Vergara, M Sanjuan, E Zurek_
 
 
 High-throughput sequencing enables the analysis of the composition of numerous biological systems, such as microbial communities. The identification of dependencies within these systems requires the analysis and assimilation of the underlying interaction patterns between all the variables that make up that system. However, this task poses a challenge when considering the compositional nature of the data coming from DNA-sequencing experiments because traditional interaction metrics (e.g., correlation) produce unreliable results when analyzing relative fractions instead of absolute abundances. The compositionality-associated challenges extend to the classification task, as it usually involves the characterization of the interactions between the principal descriptive variables of the datasets. The classification of new samples/patients into binary categories corresponding to dissimilar biological settings or phenotypes (e.g., control and cases) could help researchers in the development of treatments/drugs.
