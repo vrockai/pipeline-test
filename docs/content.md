@@ -22,18 +22,6 @@ Bacteria and their viruses (bacteriophages or phages) interact antagonistically 
 
 ---
 
-## Early-life gut microbiota and its connection to metabolic health in children: Perspective on ecological drivers and need for quantitative approach.
- 13.07.2021, _C Jian, N Carpén, O Helve, WM de Vos, K Korpela, A Salonen_
-
-
-The colonisation and development of the gut microbiota has been implicated in paediatric metabolic disorders via its powerful effect on host metabolic and immune homeostasis. Here we summarise the evidence from human studies on the early gut microbiota and paediatric overweight and obesity. Manipulation of the early gut microbiota may represent a promising target for countering the burgeoning metabolic disorders in the paediatric population, provided the assembly patterns of microbiota and their health consequences can be decoded. Therefore, in this review, we pay particular attention to the important ecological drivers affecting the community dynamics of the early gut microbiota. We then discuss the knowledge gaps in commonly studied exposures linking the gut microbiota to metabolic disorders, especially regarding maternal factors and antibiotic use. This review also attempts to give directions for future studies aiming to identify predictive and corrective measures for paediatric metabolic disorders based on the gut microbiota. Gut microbiota; Metabolism; Paediatric overweight and obesity; Ecological driver; Dynamics; Infants.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2352396421002681)
-
-10.1016/j.ebiom.2021.103475
-
----
-
 ## [REVIEW][Early-life gut microbiota and its connection to metabolic health in children: Perspective on ecological drivers and need for quantitative approach
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2352396421002681)
@@ -46,87 +34,45 @@ The colonisation and development of the gut microbiota has been implicated in pa
 
 ---
 
-## Multi-omics profiling predicts allograft function after lung transplantation.
- 10.07.2021, _ML Watzenböck, AD Gorki, F Quattrone, R Gawish, S Schwarz, C Lambers, P Jaksch, K Lakovits, S Zahalka, N Rahimi, P Starkl, D Symmank, T Artner, C Pattaroni, N Fortelny, K Klavins, F Frommlet, BJ Marsland, K Hoetzenecker, S Widder, S Knapp_
-
-
-Lung transplantation is the ultimate treatment option for patients with end-stage respiratory diseases but bears the highest mortality rate among all solid organ transplantations due to chronic lung allograft dysfunction (CLAD). The mechanisms leading to CLAD remain elusive due to insufficient understanding of the complex post-transplant adaptation processes.
+## Multi-omics profiling predicts allograft function after lung transplantation
 
 [Source](https://erj.ersjournals.com/content/early/2021/06/10/13993003.03292-2020)
 
-10.1183/13993003.03292-2020
-
 ---
 
-## Metagenomic Analysis Reveals A Possible Association Between Respiratory Infection and Periodontitis.
- 12.07.2021, _Z Liu, T Zhang, K Wu, Z Li, X Chen, S Jiang, L Du, S Lu, C Lin, J Wu, X Wang_
-
-
-Periodontitis is an inflammatory disease which is characterized by progressive destruction of the periodontium and causes tooth loss in adults. Periodontitis is known to be associated with dysbiosis of the oral microflora which is often linked to various diseases. However, the complexity of plaque microbial communities of periodontitis, antibiotic resistance, and enhanced virulence make this disease difficult to treat. Therefore, we used metagenomic shotgun sequencing in this study to investigate the etiology, antibiotic-resistant genes (ARGs), and virulence genes (VirGs) of periodontitis. We revealed a significant shift in the composition of oral microbiota as well as several functional pathways that were represented significantly more abundant in periodontitis patients than in controls. In addition, we observed several positively selected ARGs and VirGs with the Ka/Ks ratio &gt; 1 by analyzing our data and a previous periodontitis dataset, indicating that ARGs and VirGs in oral microbiota may suffer from positive selection. Moreover, 5 of 12 positively selected ARGs and VirGs in periodontitis patients were found in the genomes of respiratory tract pathogens. Of note, 91.8% of the background VirGs with at least one non-synonymous single-nucleotide polymorphism for natural selection were also from respiratory tract pathogens. These observations suggest a potential association between periodontitis and respiratory infection at the gene level. Our study enriches the knowledge of pathogens and functional pathways as well as the positive selection of antibiotic resistance and pathogen virulence in periodontitis patients, and provides evidence from the gene level for an association between periodontitis and respiratory infection.
+## Metagenomic Analysis Reveals A Possible Association Between Respiratory Infection and Periodontitis
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1672022921001443)
 
-10.1016/j.gpb.2021.07.001
-
 ---
 
-## Novel mechanisms of microbial crosstalk with skin innate immunity.
- 12.07.2021, _M Chinnappan, TA Harris-Tryon_
-
-
-Skin is an organ with a dynamic ecosystem that harbors pathogenic and commensal microbes, which constantly communicate amongst each other and with the host immune system. Evolutionarily, skin and its microbiota have evolved to remain in homeostasis. However, frequently this homeostatic relationship is disturbed by a variety of factors such as environmental stress, diet, genetic mutations, and the microbiome itself. Commensal microbes also play a major role in the maintenance of microbial homeostasis. In addition to their ability to limit pathogens, many skin commensals such as Staphylococcus epidermidis and Cutibacterium acnes have recently been implicated in disease pathogenesis either by directly modulating the host immune components or by supporting the expansion of other pathogenic microbes. Likewise, opportunistic skin pathogens such as Staphylococcus aureus and Staphylococcus lugdunensis are able to breach the skin and cause disease. Though much has been established about the microbiota's function in skin immunity, we are in a time where newer mechanistic insights rapidly redefine our understanding of the host/microbial interface in the skin. In this review, we provide a concise summary of recent advances in our understanding of the interplay between host defense strategies and the skin microbiota.
+## Novel mechanisms of microbial crosstalk with skin innate immunity
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/exd.14429)
 
-10.1111/exd.14429
-
 ---
 
-## Shifts in the skin bacterial and fungal communities of healthy children transitioning through puberty.
- 12.07.2021, _J Park, NH Schwardt, JH Jo, Z Zhang, V Pillai, S Phang, SM Brady, JA Portillo, MA MacGibeny, H Liang, M Pensler, SJ Soldin, JA Yanovski, JA Segre, HH Kong_
-
-
-Previous cross-sectional studies have shown that skin microbiomes in adults are distinct from children. However, the human skin microbiome in individuals as they sexually mature has not been studied as extensively. We performed a prospective, longitudinal study to investigate puberty-associated shifts in skin microbiota. Twelve healthy children were evaluated every 6-18 months for up to 6 years. Using 16S rRNA (V1-V3) and ITS1 amplicon sequencing analyzed with DADA2, we characterized the bacterial and fungal communities of 5 different skin and nares sites. We identified significant alterations in the composition of skin microbial communities, transitioning towards a more 'adult' microbiome, during puberty. The microbial shifts were associated with Tanner stages (classification method for degree of sexual maturation) and showed noticeable sex-specific differences. Over time, female children demonstrated predominance of Cutibacterium with decreasing diversity. Among fungi, Malassezia predominated at most skin sites in more sexually mature subjects, which was more pronounced in female children. The higher relative abundances of these lipophilic taxa, Cutibacterium acnes and Malassezia restricta, were strongly associated with serum sex hormone concentrations with known influence on sebaceous gland activity. Taken together, our results support the relationship between sexual maturation, skin physiology, and the skin microbiome.
+## Shifts in the skin bacterial and fungal communities of healthy children transitioning through puberty
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0022202X21014214)
 
-10.1016/j.jid.2021.04.034
-
 ---
 
-## Gut-microbiota-targeted diets modulate human immune status.
- 13.07.2021, _HC Wastyk, GK Fragiadakis, D Perelman, D Dahan, BD Merrill, FB Yu, M Topf, CG Gonzalez, W Van Treuren, S Han, JL Robinson, JE Elias, ED Sonnenburg, CD Gardner, JL Sonnenburg_
-
-
-Diet modulates the gut microbiome, which in turn can impact the immune system. Here, we determined how two microbiota-targeted dietary interventions, plant-based fiber and fermented foods, influence the human microbiome and immune system in healthy adults. Using a 17-week randomized, prospective study (n = 18/arm) combined with -omics measurements of microbiome and host, including extensive immune profiling, we found diet-specific effects. The high-fiber diet increased microbiome-encoded glycan-degrading carbohydrate active enzymes (CAZymes) despite stable microbial community diversity. Although cytokine response score (primary outcome) was unchanged, three distinct immunological trajectories in high-fiber consumers corresponded to baseline microbiota diversity. Alternatively, the high-fermented-food diet steadily increased microbiota diversity and decreased inflammatory markers. The data highlight how coupling dietary interventions to deep and longitudinal immune and microbiome profiling can provide individualized and population-wide insight. Fermented foods may be valuable in countering the decreased microbiome diversity and increased inflammation pervasive in industrialized society.
+## Gut-microbiota-targeted diets modulate human immune status
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867421007546)
 
-10.1016/j.cell.2021.06.019
-
 ---
 
-## Silent hypoxia in COVID-19: a gut microbiota connection.
- 13.07.2021, _AB Gopal, S Chakraborty, PK Padhan, A Barik, P Dixit, D Chakraborty, I Poirah, S Samal, A Sarkar, A Bhattacharyya_
-
-
-Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection has triggered the COVID-19 pandemic. Several factors induce hypoxia in COVID-19. Despite being hypoxic, some SARS-CoV-2-infected individuals do not experience any respiratory distress, a phenomenon termed "silent/happy hypoxia". Prolonged undetected hypoxia is dangerous, sometimes leading to death. A few studies attempted to unravel what causes silent hypoxia, however, the exact mechanisms are still elusive. Here, we aim to understand how SARS-CoV-2 causes silent hypoxia.
+## Silent hypoxia in COVID-19: a gut microbiota connection
 
 [Source](https://www.sciencedirect.com/science/article/pii/S246886732100081X)
 
-10.1016/j.cophys.2021.06.010
-
 ---
 
-## The Athlete and Gut Microbiome: Short-chain Fatty Acids as Potential Ergogenic Aids for Exercise and Training.
- 13.07.2021, _T Bongiovanni, MOL Yin, L Heaney_
-
-
-Short-chain fatty acids (SCFAs) are metabolites produced in the gut via microbial fermentation of dietary fibers referred to as microbiota-accessible carbohydrates (MACs). Acetate, propionate, and butyrate have been observed to regulate host dietary nutrient metabolism, energy balance, and local and systemic immune functions. In vitro and in vivo experiments have shown links between the presence of bacteria-derived SCFAs and host health through the blunting of inflammatory processes, as well as purported protection from the development of illness associated with respiratory infections. This bank of evidence suggests that SCFAs could be beneficial to enhance the athlete's immunity, as well as act to improve exercise recovery via anti-inflammatory activity and to provide additional energy substrates for exercise performance. However, the mechanistic basis and applied evidence for these relationships in humans have yet to be fully established. In this narrative review, we explore the existing knowledge of SCFA synthesis and the functional importance of the gut microbiome composition to induce SCFA production. Further, changes in gut microbiota associated with exercise and various dietary MACs are described. Finally, we provide suggestions for future research and practical applications, including how these metabolites could be manipulated through dietary fiber intake to optimize immunity and energy metabolism.
+## The Athlete and Gut Microbiome: Short-chain Fatty Acids as Potential Ergogenic Aids for Exercise and Training
 
 [Source](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/a-1524-2095)
-
-10.1055/a-1524-2095
 
 ---
 
