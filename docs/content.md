@@ -28,15 +28,9 @@ Short chain fatty acids (SCFAs) derived from the human gut microbiota, and in pa
 
 ---
 
-## Time outweighs the effect of host developmental stage on microbial community composition.
- 14.07.2021, _RR Dibner, AM Weaver, MT Brock, GF Custer, HG Morrison, L Maignien, C Weinig_
-
-
-Thousands of microbial taxa in the soil form symbioses with host plants, and due to their contribution to plant performance, these microbes are often considered an extension of the host genome. Given microbial effects on host performance, it is important to understand factors that govern microbial community assembly. Host developmental stage could affect rhizosphere microbial diversity while, alternatively, microbial assemblages could change simply as a consequence of time and the opportunity for microbial succession. Previous studies suggest that rhizosphere microbial assemblages shift across plant developmental stages, but time since germination is confounded with developmental stage. We asked how elapsed time and potential microbial succession relative to host development affected microbial diversity in the rhizosphere using monogenic flowering-time mutants of Arabidopsis thaliana. Under our experimental design, different developmental stages were present among host genotypes after the same amount of time following germination, e.g. at 76 days following germination some host genotypes were flowering while others were fruiting or senescing. We found that elapsed time was a strong predictor of microbial diversity whereas there were few differences among developmental stages. Our results support the idea that time and, likely, microbial succession more strongly affect microbial community assembly than host developmental stage.
+## Time outweighs the effect of host developmental stage on microbial community composition
 
 [Source](https://academic.oup.com/femsec/advance-article-abstract/doi/10.1093/femsec/fiab102/6321163)
-
-10.1093/femsec/fiab102
 
 ---
 
