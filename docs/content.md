@@ -100,34 +100,9 @@
 
 ---
 
-## Gut microbial characteristics of adult patients with allergy rhinitis.
- 04.06.2021, _L Zhu, F Xu, W Wan, B Yu, L Tang, Y Yang, Y Du, Z Chen, H Xu_
-
-
-_Adult, Biodiversity, China, Feces, Female, Gastrointestinal Microbiome, Genome, Bacterial, Humans, Male, Metagenome, Quality of Life, RNA, Ribosomal, 16S, Rhinitis, Allergic, Severity of Illness Index, Surveys and Questionnaires, Young Adult_
-Although recent studies have indicated that intestinal microbiota dweller are involved in the pathogenesis of allergy rhinitis (AR), the influence of gut microbiota on AR adult has not been fully elucidated yet. Hence, we carried out this study to uncover the distinctive bacterial taxa that differentiate allergy rhinitis patients from healthy individuals. Feces samples from thirty three AR patients and thirty one healthy individuals were analyzed by 16S rRNA gene sequencing.
-
-[Source](https://www.readcube.com/articles/10.3389/fmicb.2021.670336)
-
-10.1186/s12934-020-01430-0
-
----
-
 ## Comparative Analysis of 16S rRNA Gene and Metagenome Sequencing in Pediatric Gut Microbiomes 
 
 [Source](https://www.readcube.com/articles/10.3389/fmicb.2021.670336)
-
----
-
-## Learner Drawing and Sculpting in Surgical Education: A Systematic Review.
- 15.07.2021, _EB Card, JT Mauch, IC Lin_
-
-
-Historically, surgery was developed through the visual work of artist-scientists, yet visual art in modern surgical education is rare. The aim of this review is to evaluate the existing literature of learner creation of visual art as an educational tool in surgery and to discuss its potential in augmenting surgical learning.
-
-[Source](https://twitter.com/hashtag/drawing?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.jss.2021.05.036
 
 ---
 
