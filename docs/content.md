@@ -118,9 +118,32 @@
 
 ---
 
+## Altering the gut microbiome to potentially modulate behavioral manifestations in autism spectrum disorders: A systematic review.
+ 16.07.2021, _C Davies, D Mishra, RS Eshraghi, J Mittal, R Sinha, E Bulut, R Mittal, AA Eshraghi_
+
+
+There is a potential association between gastrointestinal (GI) symptoms and the severity of autism spectrum disorder (ASD). Given this correlation, the possible impact of probiotics and prebiotics have been explored in research studies to modify the gut microbiome and ameliorate behavioral manifestations of ASD via modulating the gut-brain-microbiome axis. This systematic review focuses on the interplay between these factors in altering the behavioral manifestations of ASD. Probiotic supplementation tended to mitigate some of the behavioral manifestations of ASD, with less of a discernible trend on the microbiome level. Studies supplementing multiple probiotic species, such as microbiota transfer therapy, or including prebiotics performed better than single strain supplementation. Our analysis suggests that gut dysbiosis may increase intestinal permeability, leading to more severe GI symptoms and a systemic inflammatory response, which can alter permeability across the blood-brain barrier and synaptogenesis in the brain. Future studies are warranted to understand the precise contribution of altering gut microbiome on clinical manifestations of ASD that will open up avenues to develop preventive and treatment modalities.
+
+[Source](https://twitter.com/hashtag/gut?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.neubiorev.2021.07.001
+
+---
+
 ## #gut
 
 [Source](https://twitter.com/hashtag/gut?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
+ 22.03.2021, _JL Steenwyk_
+
+
+
+[Source](https://twitter.com/hashtag/sciart?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/yea.3518
 
 ---
 
