@@ -112,33 +112,9 @@
 
 ---
 
-## Monascin and monascinol, azaphilonoid pigments from Mortierella polycephala AM1: in silico and in vitro targeting of the angiogenic VEGFR2 kinase.
- 15.07.2021, _M Shaaban, M Magdy El-Metwally, AAI Mekawey, AB Abdelwahab, MM Soltan_
-
-
-The fungus, Mortierella polycephala is one of the most productive sources of anticancer bioactive compounds namely those of pigment nature. During our investigation of the produced bioactive metabolites by the terrestrial M. polycephala AM1 isolated from Egyptian poultry feather waste, two main azaphilonoid pigments, monascin (1) and monascinol (2) were obtained as major products; their structures were identified by 1D (1H&amp;13C) and 2D (1H-1H COSY, HMBC) NMR and HRESI-MS spectroscopic data. Biologically, cytotoxic activities of these compounds were broadly studied compared with the fungal extract. To predict the biological target for the presumed antitumor activity, an in silico study was run toward three proteins, topoisomerase IIα, topoisomerase IIβ, and VEGFR2 kinase. Monascinol (2) was expected to be moderately active against VEGFR2 kinase without any anticipated inhibition toward topo II isoforms. The in vitro study confirmed the docked investigation consistently and introduced monascinol (2) rather than its counterpart (1) as a potent inhibitor to the tested VEGFR2 kinase. Taxonomically, the fungus was identified using morphological and genetic assessments.
-
-[Source](https://twitter.com/hashtag/bacteria?src=hash&ref_src=twsrc%5Etfw)
-
-10.1515/znc-2021-0095
-
----
-
 ## #bacteria
 
 [Source](https://twitter.com/hashtag/bacteria?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Effects of cadmium on organ function, gut microbiota and its metabolomics profile in adolescent rats.
- 15.07.2021, _J Yang, W Chen, Y Sun, J Liu, W Zhang_
-
-
-Cadmium (Cd) exposure in adult animals can result in multi-organ damages and gut microbiota disturbance. However, Cd's consequences on health and gut microbiota during adolescence are obscure. In the present study, three-week-old SD rats were exposed to Cd at doses of 0, 0.25, 1, and 4 mg/kg body weight for eight weeks, and the changes of liver, kidney, and ovary function, as well as gut microbiota and its metabolomics profile, were analyzed. After transplantation of fecal bacteria from the 4 mg/kg Cd-treated group into age-matched rats (4 mg/kg-Cd recipients), the organ function and inflammatory reaction were evaluated. The results indicated that Cd perturbed gut microbiota composition, significantly decreased the abundance of Prevotella and Lachnoclostridium but increased Escherichia coli_Shigella. The fecal metabolome profile was altered and was closely correlated with some specific genera. These changes were accompanied by the inflammatory response, dyslipidemia, kidney dysfunction, and abnormal estrogen level. In 4 mg/kg-Cd recipients, the serum triglyceride (TG), lipopolysaccharide (LPS), and inflammatory cytokines were increased with the expressions of IL-1β, IL-6, TNF-α genes up-regulated in liver and kidney. Overall, this study demonstrated that Cd exposure during adolescence could cause disturbance of gut microbiota, dysfunction of liver, kidney, and ovary, which may be correlated with the activation of Cd-induced inflammatory response.
-
-[Source](https://twitter.com/hashtag/gut?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.ecoenv.2021.112501
 
 ---
 
