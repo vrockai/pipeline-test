@@ -22,15 +22,15 @@
 
 ---
 
-## COVID-19 Pandemic and Mental Health: Digital Trainings to Support Psychosomatic Rehabilitation Patients.
- 16.07.2021, _FM Keller, A Dahmen, C Derksen, L Kötting, S Lippke_
+## Association of varying clinical manifestations and positive anti-SARS-CoV-2 IgG antibodies: a cross-sectional observational study.
+ 17.07.2021, _JI Silverberg, I Zyskind, H Naiditch, J Zimmerman, AE Glatt, A Pinter, ES Theel, MJ Joyner, DA Hill, MR Lieberman, E Bigajer, D Stok, E Frank, AZ Rosenberg_
 
 
-The COVID-19 pandemic has largely affected people's mental health and psychological well-being. Specifically, individuals with a pre-existing mental health disorder seem more impaired by lockdown measures posing as major stress factors. Medical rehabilitation treatment can help to cope with these stressors. The internet and digital applications provide a platform to contribute to regular treatment and to conduct research on this topic.
+The complex relationship between clinical manifestations of SARS-CoV-2 and individual immune responses is not fully elucidated.
 
 [Source](https://twitter.com/Prokaryota/status/1415343343278690304?ref_src=twsrc%5Etfw)
 
-10.2196/30610
+10.1016/j.jaip.2021.06.046
 
 ---
 
@@ -100,6 +100,18 @@ Though the gut microbiome has been associated with efficacy of immunotherapy (IC
 
 ---
 
+## The impact of COVID-19 on nursing workload and planning of nursing staff on the Intensive Care: A prospective descriptive multicenter study.
+ 17.07.2021, _ME Hoogendoorn, S Brinkman, RJ Bosman, J Haringman, NF de Keizer, JJ Spijkstra_
+
+
+The impact of the care for COVID-19 patients on nursing workload and planning nursing staff on the Intensive Care Unit has been huge. Nurses were confronted with a high workload and an increase in the number of patients per nurse they had to take care of.
+
+[Source](https://twitter.com/Elinav_Lab/status/1412078883680272384?ref_src=twsrc%5Etfw)
+
+10.1016/j.ijnurstu.2021.104005
+
+---
+
 ## July 5, 2021
 
 [Source](https://twitter.com/Elinav_Lab/status/1412078883680272384?ref_src=twsrc%5Etfw)
@@ -143,15 +155,15 @@ Although recent studies have indicated that intestinal microbiota dweller are in
 
 ---
 
-## A sociological autopsy lens on older adult suicide in rural Australia: Addressing health, psychosocial factors and care practices at the intersection of policies and institutions.
- 16.07.2021, _SJ Fitzpatrick, D Read, BK Brew, D Perkins_
+## Interpretive voices: coproducing creative enquiry in the time of COVID-19.
+ 17.07.2021, _L Younie, F Elliott, R Buckland_
 
 
-This paper examines the interrelationship between suicide, health, socioeconomic, and psychosocial factors in contributing to suicide in older adults in rural Australia. Drawing on a coronial dataset of suicide cases and a mixed methods sociological autopsy approach, our study integrated a quantitative analysis of 792 suicide cases with a qualitative analysis of medico-legal reports from 30 cases. The sociological autopsy provided novel insights into the entanglement of policy and service provision at the state-level with individual end-of-life decisions. Particular attention is drawn to age and gendered dimensions of suicide, especially in relation to health and social issues. The study showed a continuity between suicide and the patterning of an individual's life course, including experiences and consequences of inequality and marginality; a desire to meet culturally-normative ideals of autonomy; and a fragmented, under-funded, and intimidating social care system that offered limited options.
+The objective of the study is the development of a virtual pilot of student and clinician creative enquiry during the COVID-19 pandemic lockdown.
 
 [Source](https://twitter.com/hashtag/drawing?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.socscimed.2021.114196
+10.1016/j.puhe.2021.05.031
 
 ---
 
@@ -161,15 +173,15 @@ This paper examines the interrelationship between suicide, health, socioeconomic
 
 ---
 
-## Investigating components of pranayama for effects on heart rate variability.
- 16.07.2021, _E Sharpe, A Lacombe, A Sadowski, J Phipps, R Heer, S Rajurkar, D Hanes, RD Jindal, R Bradley_
+## Bacterial spectrum analysis and antimicrobial susceptibility study of osteoradionecrosis of the jaw in Southern China.
+ 17.07.2021, _Y Zhu, J Liang, F Wang, J Li, C Wang, J Hou_
 
 
-Traditional Indian breath control practices of Pranayama have been shown to increase indices of heart rate variability (HRV) that are generally held to reflect parasympathetic nervous system (PNS) tone. To our knowledge, individual components of pranayama have not been separately evaluated for impact on HRV. The objective of this study was to isolate five components of a pranayama practice and evaluate their impact on HRV.
+Osteoradionecrosis of the jaw (ORNJ) is one of the most common and serious complications after radiotherapy of head and neck malignancies due to the high incidence of nasopharyngeal cancer in Southern China. Clinicians lack understanding and consensus on anti-infective treatment in ORNJ lesions. This research aims to provide evidence for rational use of antibiotics by reviewing the bacterial spectrums and antimicrobial susceptibility test of ORNJ patients.
 
 [Source](https://twitter.com/hashtag/bacteria?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.jpsychores.2021.110569
+10.1111/odi.13968
 
 ---
 
@@ -179,15 +191,15 @@ Traditional Indian breath control practices of Pranayama have been shown to incr
 
 ---
 
-## Altering the gut microbiome to potentially modulate behavioral manifestations in autism spectrum disorders: A systematic review.
- 17.07.2021, _C Davies, D Mishra, RS Eshraghi, J Mittal, R Sinha, E Bulut, R Mittal, AA Eshraghi_
+## Chlortetracycline alters microbiota of gut or faeces in pigs and leads to accumulation and migration of antibiotic resistance genes.
+ 17.07.2021, _X Ma, Z Yang, T Xu, M Qian, X Jiang, X Zhan, X Han_
 
 
-There is a potential association between gastrointestinal (GI) symptoms and the severity of autism spectrum disorder (ASD). Given this correlation, the possible impact of probiotics and prebiotics have been explored in research studies to modify the gut microbiome and ameliorate behavioral manifestations of ASD via modulating the gut-brain-microbiome axis. This systematic review focuses on the interplay between these factors in altering the behavioral manifestations of ASD. Probiotic supplementation tended to mitigate some of the behavioral manifestations of ASD, with less of a discernible trend on the microbiome level. Studies supplementing multiple probiotic species, such as microbiota transfer therapy, or including prebiotics performed better than single strain supplementation. Our analysis suggests that gut dysbiosis may increase intestinal permeability, leading to more severe GI symptoms and a systemic inflammatory response, which can alter permeability across the blood-brain barrier and synaptogenesis in the brain. Future studies are warranted to understand the precise contribution of altering gut microbiome on clinical manifestations of ASD that will open up avenues to develop preventive and treatment modalities.
+In this study, we investigated the effect of long-term use of chlortetracycline (CTC) on the gut microbiota composition and metabolism profiles in pigs, and the variation of antibiotic resistance genes (ARGs) and microbial communities in faeces and manure during aerobic composting (AC) and anaerobic digestion (AD). The pigs were fed the same basal diet supplemented with or without 75 mg/kg CTC, and fresh faeces of 30-, 60-, 90-, and 120-day-old pigs were collected from the CTC group. The results showed that CTC reduced the diversity of the gut microbiota significantly and changed its structure. Metabolomics analysis of intestinal contents revealed 23 differentially abundant metabolites, mainly organic acids, carbohydrates, and amino acids. Metabolic pathways, such as the TCA cycle, propionate metabolism, and pyruvate metabolism, were changed. From 30 to 120 days of age, the amount of CTC residues in faeces and the abundance of 3 tetracycline resistance genes increased significantly, and it was positively correlated with tetC, tetG, tetW, sul1 and intI2. CTC residue levels and ARGs abundance gradually decreased with fermentation time, and AC was better than AD at reducing ARGs abundance. The results suggest that in-feed CTC can reduce the diversity of the gut microbiota, change the structure, function and metabolism of the bacterial community, and increase the abundance of ARGs in faeces.
 
 [Source](https://twitter.com/hashtag/gut?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.neubiorev.2021.07.001
+10.1016/j.scitotenv.2021.148976
 
 ---
 
@@ -217,18 +229,6 @@ There is a potential association between gastrointestinal (GI) symptoms and the 
 ## https://t.co/A6yBV0RCfY
 
 [Source](https://t.co/A6yBV0RCfY)
-
----
-
-## Rapid spread of the SARS-CoV-2 Delta variant in some French regions, June 2021.
- 16.07.2021, _S Alizon, S Haim-Boukobza, V Foulongne, L Verdurme, S Trombert-Paolantoni, E Lecorche, B Roquebert, MT Sofonea_
-
-
-We analysed 9,030 variant-specific RT-PCR tests performed on SARS-CoV-2-positive samples collected in France between 31 May and 21 June 2021. This analysis revealed rapid growth of the Delta variant in three of the 13 metropolitan French regions and estimated a +79% (95% confidence interval: 52-110%) transmission advantage compared with the Alpha variant. The next weeks will prove decisive and the magnitude of the estimated transmission advantages of the Delta variant could represent a major challenge for public health authorities.
-
-[Source](https://twitter.com/enigrox/status/1409533734173528064?ref_src=twsrc%5Etfw)
-
-10.2807/1560-7917.ES.2021.26.28.2100573
 
 ---
 
@@ -354,15 +354,15 @@ The ocean microbiota modulates global biogeochemical cycles and changes in its c
 
 ---
 
-## COVID-19 Pandemic and Mental Health: Digital Trainings to Support Psychosomatic Rehabilitation Patients.
- 16.07.2021, _FM Keller, A Dahmen, C Derksen, L Kötting, S Lippke_
+## Association of varying clinical manifestations and positive anti-SARS-CoV-2 IgG antibodies: a cross-sectional observational study.
+ 17.07.2021, _JI Silverberg, I Zyskind, H Naiditch, J Zimmerman, AE Glatt, A Pinter, ES Theel, MJ Joyner, DA Hill, MR Lieberman, E Bigajer, D Stok, E Frank, AZ Rosenberg_
 
 
-The COVID-19 pandemic has largely affected people's mental health and psychological well-being. Specifically, individuals with a pre-existing mental health disorder seem more impaired by lockdown measures posing as major stress factors. Medical rehabilitation treatment can help to cope with these stressors. The internet and digital applications provide a platform to contribute to regular treatment and to conduct research on this topic.
+The complex relationship between clinical manifestations of SARS-CoV-2 and individual immune responses is not fully elucidated.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1415218080016330752?ref_src=twsrc%5Etfw)
 
-10.2196/30610
+10.1016/j.jaip.2021.06.046
 
 ---
 
