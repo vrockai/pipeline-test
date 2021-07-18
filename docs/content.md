@@ -100,18 +100,6 @@ Though the gut microbiome has been associated with efficacy of immunotherapy (IC
 
 ---
 
-## The impact of COVID-19 on nursing workload and planning of nursing staff on the Intensive Care: A prospective descriptive multicenter study.
- 17.07.2021, _ME Hoogendoorn, S Brinkman, RJ Bosman, J Haringman, NF de Keizer, JJ Spijkstra_
-
-
-The impact of the care for COVID-19 patients on nursing workload and planning nursing staff on the Intensive Care Unit has been huge. Nurses were confronted with a high workload and an increase in the number of patients per nurse they had to take care of.
-
-[Source](https://twitter.com/Elinav_Lab/status/1412078883680272384?ref_src=twsrc%5Etfw)
-
-10.1016/j.ijnurstu.2021.104005
-
----
-
 ## July 5, 2021
 
 [Source](https://twitter.com/Elinav_Lab/status/1412078883680272384?ref_src=twsrc%5Etfw)
@@ -229,6 +217,18 @@ In this study, we investigated the effect of long-term use of chlortetracycline 
 ## https://t.co/A6yBV0RCfY
 
 [Source](https://t.co/A6yBV0RCfY)
+
+---
+
+## The impact of radiation therapy on vaginal biomechanical properties.
+ 17.07.2021, _E Matanes, R Linder, R Lauterbach, I Mick, J Matanis, R Abdah-Bortnyak, A Reiss, A Amit, L Lowenstein_
+
+
+In women with cervical cancer (CC), treatment with radiation causes changes in vaginal biomechanical properties, anatomy and function. The aims of the current study were to objectively assess effects of radiotherapy (RT) on vaginal elasticity, wall mobility and contraction strength; and to evaluate associations of these changes with sexual function.
+
+[Source](https://twitter.com/enigrox/status/1409533734173528064?ref_src=twsrc%5Etfw)
+
+10.1016/j.ejogrb.2021.06.046
 
 ---
 
