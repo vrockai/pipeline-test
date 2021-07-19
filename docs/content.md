@@ -166,15 +166,9 @@
 
 ---
 
-## Assessing the relationship between the rumen microbiota and feed efficiency in Nellore steers.
- 18.07.2021, _DRG Lopes, M de Souza Duarte, AJ La Reau, IZ Chaves, TA de Oliveira Mendes, E Detmann, CBP Bento, MEZ Mercadante, SFM Bonilha, G Suen, HC Mantovani_
-
-
-Ruminants rely upon a complex community of microbes in their rumen to convert host-indigestible feed into nutrients. However, little is known about the association between the rumen microbiota and feed efficiency traits in Nellore (Bos indicus) cattle, a breed of major economic importance to the global beef market. Here, we compare the composition of the bacterial, archaeal and fungal communities in the rumen of Nellore steers with high and low feed efficiency (FE) phenotypes, as measured by residual feed intake (RFI).
+## Assessing the relationship between the rumen microbiota and feed efficiency in Nellore steers
 
 [Source](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-021-00599-7)
-
-10.1186/s40104-021-00599-7
 
 ---
 
@@ -184,35 +178,9 @@ Ruminants rely upon a complex community of microbes in their rumen to convert ho
 
 ---
 
-## Tutorial: assessing metagenomics software with the CAMI benchmarking toolkit.
- 18.05.2021, _F Meyer, TR Lesker, D Koslicki, A Fritz, A Gurevich, AE Darling, A Sczyrba, A Bremges, AC McHardy_
-
-
-_Animals, Benchmarking, Computer Simulation, Databases, Genetic, Gastrointestinal Microbiome, Metagenome, Metagenomics, Mice, Phylogeny, Reference Standards, Reproducibility of Results, Software_
-Computational methods are key in microbiome research, and obtaining a quantitative and unbiased performance estimate is important for method developers and applied researchers. For meaningful comparisons between methods, to identify best practices and common use cases, and to reduce overhead in benchmarking, it is necessary to have standardized datasets, procedures and metrics for evaluation. In this tutorial, we describe emerging standards in computational meta-omics benchmarking derived and agreed upon by a larger community of researchers. Specifically, we outline recent efforts by the Critical Assessment of Metagenome Interpretation (CAMI) initiative, which supplies method developers and applied researchers with exhaustive quantitative data about software performance in realistic scenarios and organizes community-driven benchmarking challenges. We explain the most relevant evaluation metrics for assessing metagenome assembly, binning and profiling results, and provide step-by-step instructions on how to generate them. The instructions use simulated mouse gut metagenome data released in preparation for the second round of CAMI challenges and showcase the use of a repository of tool results for CAMI datasets. This tutorial will serve as a reference for the community and facilitate informative and reproducible benchmarking in microbiome research.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.12.451567v1)
-
-10.1038/s41596-020-00480-3
-
----
-
 ## Critical Assessment of Metagenome Interpretation – the second round of challenges
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.07.12.451567v1)
-
----
-
-## Disentangling the mechanisms shaping the surface ocean microbiota.
- 04.02.2021, _R Logares, IM Deutschmann, PC Junger, CR Giner, AK Krabberød, TSB Schmidt, L Rubinat-Ripoll, M Mestre, G Salazar, C Ruiz-González, M Sebastián, C de Vargas, SG Acinas, CM Duarte, JM Gasol, R Massana_
-
-
-_Archaea, Bacteria, Eukaryota, Microbiota, Oceans and Seas, Phylogeography, Plankton, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Spatial Analysis, Temperature, Water Microbiology_
-The ocean microbiota modulates global biogeochemical cycles and changes in its configuration may have large-scale consequences. Yet, the underlying ecological mechanisms structuring it are unclear. Here, we investigate how fundamental ecological mechanisms (selection, dispersal and ecological drift) shape the smallest members of the tropical and subtropical surface-ocean microbiota: prokaryotes and minute eukaryotes (picoeukaryotes). Furthermore, we investigate the agents exerting abiotic selection on this assemblage as well as the spatial patterns emerging from the action of ecological mechanisms. To explore this, we analysed the composition of surface-ocean prokaryotic and picoeukaryotic communities using DNA-sequence data (16S- and 18S-rRNA genes) collected during the circumglobal expeditions Malaspina-2010 and TARA-Oceans.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.13.452182v1)
-
-10.1186/s40168-020-00827-8
 
 ---
 
