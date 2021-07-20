@@ -94,29 +94,9 @@
 
 ---
 
-## Differences in the individual curative effect of acupuncture for obese women with polycystic ovary syndrome based on metagenomic analysis: study protocol for a randomized controlled trial.
- 19.07.2021, _H Fan, X Hong, J Zeng, X Wang, J Chen_
-
-
-_Acupuncture Therapy, Clomiphene, Female, Humans, Menstruation, Obesity, Polycystic Ovary Syndrome, Randomized Controlled Trials as Topic_
-Polycystic ovary syndrome is a common cause of infertility and shows a high incidence in women of reproductive age. Acupuncture is an appropriate adjunctive treatment for PCOS. However, the add-on effect of acupuncture as an adjunctive treatment for obese women with PCOS has not been studied, and previous studies indicate that there are individual differences in the curative effect of acupuncture, while deeper research on the mechanism of differences in the individual curative effect of acupuncture for obese women with PCOS is still lacking. This trial aims to assess the add-on treatment efficacy of acupuncture for obese women with PCOS and to explore the role of the gut microbiome on the differences in the individual curative effect of acupuncture based on metagenomic analysis.
+## Differences in the individual curative effect of acupuncture for obese women with polycystic ovary syndrome based on metagenomic analysis: study protocol for a randomized controlled trial 
 
 [Source](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05426-y)
-
-10.1186/s13063-021-05426-y
-
----
-
-## Gut microbial characteristics of adult patients with allergy rhinitis.
- 04.06.2021, _L Zhu, F Xu, W Wan, B Yu, L Tang, Y Yang, Y Du, Z Chen, H Xu_
-
-
-_Adult, Biodiversity, China, Feces, Female, Gastrointestinal Microbiome, Genome, Bacterial, Humans, Male, Metagenome, Quality of Life, RNA, Ribosomal, 16S, Rhinitis, Allergic, Severity of Illness Index, Surveys and Questionnaires, Young Adult_
-Although recent studies have indicated that intestinal microbiota dweller are involved in the pathogenesis of allergy rhinitis (AR), the influence of gut microbiota on AR adult has not been fully elucidated yet. Hence, we carried out this study to uncover the distinctive bacterial taxa that differentiate allergy rhinitis patients from healthy individuals. Feces samples from thirty three AR patients and thirty one healthy individuals were analyzed by 16S rRNA gene sequencing.
-
-[Source](https://www.readcube.com/articles/10.3389/fmicb.2021.670336)
-
-10.1186/s12934-020-01430-0
 
 ---
 
@@ -126,33 +106,9 @@ Although recent studies have indicated that intestinal microbiota dweller are in
 
 ---
 
-## The Multiple Lenses on the Community Health System: Implications for Policy, Practice and Research.
- 18.07.2021, _H Schneider, J Olivier, M Orgill, L Brady, E Whyle, J Zulu, MS Sebastian, A George_
-
-
-Community health systems (CHSs) have historically been approached from multiple perspectives, with different purposes and methodological and disciplinary orientations. The terrain is, on the one hand, vast and diverse. On the other hand, under the banner of universal health coverage (UHC) and the Sustainable Development Goals (SDGs), a streamlined version of 'community health' is increasingly being consolidated in global health and donor communities. With the view to informing debate and practice, this paper seeks to synthesise approaches to the CHS into a set of 'lenses,' drawing on the collective and multi-disciplinary knowledge (both formal and experiential) of the authors, a collaborative network of 23 researchers from seven institutions across six countries (spanning low, middle and high income). With a common view of the CHS as a complex adaptive system, we propose four key lenses, referred to as programmatic, relational, collective action and critical lenses. The lenses represent different positionalities in community health, encompassing macro-level policy-maker, front-line and community vantage points, and purposes ranging from social justice to instrumental goals. We define and describe the main elements of each lens and their implications for thinking about policy, practice and research. Distilling a set of key lenses offers a way to make sense of a complex terrain, but also counters what may emerge as a dominant, single narrative on the CHS in global health. By making explicit and bringing together different lenses on the CHS, the limits and possibilities of each may be better appreciated, while promoting integrative, systems thinking in policy, practice and research.
-
-[Source](https://twitter.com/hashtag/drawing?src=hash&ref_src=twsrc%5Etfw)
-
-10.34172/ijhpm.2021.73
-
----
-
 ## #drawing
 
 [Source](https://twitter.com/hashtag/drawing?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Bacterial spectrum analysis and antimicrobial susceptibility study of osteoradionecrosis of the jaw in Southern China.
- 17.07.2021, _Y Zhu, J Liang, F Wang, J Li, C Wang, J Hou_
-
-
-Osteoradionecrosis of the jaw (ORNJ) is one of the most common and serious complications after radiotherapy of head and neck malignancies due to the high incidence of nasopharyngeal cancer in Southern China. Clinicians lack understanding and consensus on anti-infective treatment in ORNJ lesions. This research aims to provide evidence for rational use of antibiotics by reviewing the bacterial spectrums and antimicrobial susceptibility test of ORNJ patients.
-
-[Source](https://twitter.com/hashtag/bacteria?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/odi.13968
 
 ---
 
@@ -162,32 +118,9 @@ Osteoradionecrosis of the jaw (ORNJ) is one of the most common and serious compl
 
 ---
 
-## Chlortetracycline alters microbiota of gut or faeces in pigs and leads to accumulation and migration of antibiotic resistance genes.
- 19.07.2021, _X Ma, Z Yang, T Xu, M Qian, X Jiang, X Zhan, X Han_
-
-
-In this study, we investigated the effect of long-term use of chlortetracycline (CTC) on the gut microbiota composition and metabolism profiles in pigs, and the variation of antibiotic resistance genes (ARGs) and microbial communities in faeces and manure during aerobic composting (AC) and anaerobic digestion (AD). The pigs were fed the same basal diet supplemented with or without 75 mg/kg CTC, and fresh faeces of 30-, 60-, 90-, and 120-day-old pigs were collected from the CTC group. The results showed that CTC reduced the diversity of the gut microbiota significantly and changed its structure. Metabolomics analysis of intestinal contents revealed 23 differentially abundant metabolites, mainly organic acids, carbohydrates, and amino acids. Metabolic pathways, such as the TCA cycle, propionate metabolism, and pyruvate metabolism, were changed. From 30 to 120 days of age, the amount of CTC residues in faeces and the abundance of 3 tetracycline resistance genes increased significantly, and it was positively correlated with tetC, tetG, tetW, sul1 and intI2. CTC residue levels and ARGs abundance gradually decreased with fermentation time, and AC was better than AD at reducing ARGs abundance. The results suggest that in-feed CTC can reduce the diversity of the gut microbiota, change the structure, function and metabolism of the bacterial community, and increase the abundance of ARGs in faeces.
-
-[Source](https://twitter.com/hashtag/gut?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.scitotenv.2021.148976
-
----
-
 ## #gut
 
 [Source](https://twitter.com/hashtag/gut?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
- 22.03.2021, _JL Steenwyk_
-
-
-
-[Source](https://twitter.com/hashtag/sciart?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/yea.3518
 
 ---
 
@@ -245,9 +178,35 @@ In this study, we investigated the effect of long-term use of chlortetracycline 
 
 ---
 
+## Tutorial: assessing metagenomics software with the CAMI benchmarking toolkit.
+ 18.05.2021, _F Meyer, TR Lesker, D Koslicki, A Fritz, A Gurevich, AE Darling, A Sczyrba, A Bremges, AC McHardy_
+
+
+_Animals, Benchmarking, Computer Simulation, Databases, Genetic, Gastrointestinal Microbiome, Metagenome, Metagenomics, Mice, Phylogeny, Reference Standards, Reproducibility of Results, Software_
+Computational methods are key in microbiome research, and obtaining a quantitative and unbiased performance estimate is important for method developers and applied researchers. For meaningful comparisons between methods, to identify best practices and common use cases, and to reduce overhead in benchmarking, it is necessary to have standardized datasets, procedures and metrics for evaluation. In this tutorial, we describe emerging standards in computational meta-omics benchmarking derived and agreed upon by a larger community of researchers. Specifically, we outline recent efforts by the Critical Assessment of Metagenome Interpretation (CAMI) initiative, which supplies method developers and applied researchers with exhaustive quantitative data about software performance in realistic scenarios and organizes community-driven benchmarking challenges. We explain the most relevant evaluation metrics for assessing metagenome assembly, binning and profiling results, and provide step-by-step instructions on how to generate them. The instructions use simulated mouse gut metagenome data released in preparation for the second round of CAMI challenges and showcase the use of a repository of tool results for CAMI datasets. This tutorial will serve as a reference for the community and facilitate informative and reproducible benchmarking in microbiome research.
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.07.12.451567v1)
+
+10.1038/s41596-020-00480-3
+
+---
+
 ## Critical Assessment of Metagenome Interpretation – the second round of challenges
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.07.12.451567v1)
+
+---
+
+## Disentangling the mechanisms shaping the surface ocean microbiota.
+ 04.02.2021, _R Logares, IM Deutschmann, PC Junger, CR Giner, AK Krabberød, TSB Schmidt, L Rubinat-Ripoll, M Mestre, G Salazar, C Ruiz-González, M Sebastián, C de Vargas, SG Acinas, CM Duarte, JM Gasol, R Massana_
+
+
+_Archaea, Bacteria, Eukaryota, Microbiota, Oceans and Seas, Phylogeography, Plankton, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Spatial Analysis, Temperature, Water Microbiology_
+The ocean microbiota modulates global biogeochemical cycles and changes in its configuration may have large-scale consequences. Yet, the underlying ecological mechanisms structuring it are unclear. Here, we investigate how fundamental ecological mechanisms (selection, dispersal and ecological drift) shape the smallest members of the tropical and subtropical surface-ocean microbiota: prokaryotes and minute eukaryotes (picoeukaryotes). Furthermore, we investigate the agents exerting abiotic selection on this assemblage as well as the spatial patterns emerging from the action of ecological mechanisms. To explore this, we analysed the composition of surface-ocean prokaryotic and picoeukaryotic communities using DNA-sequence data (16S- and 18S-rRNA genes) collected during the circumglobal expeditions Malaspina-2010 and TARA-Oceans.
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.07.13.452182v1)
+
+10.1186/s40168-020-00827-8
 
 ---
 
