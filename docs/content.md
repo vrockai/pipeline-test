@@ -166,34 +166,15 @@
 
 ---
 
-## Assessing the relationship between the rumen microbiota and feed efficiency in Nellore steers.
- 18.07.2021, _DRG Lopes, M de Souza Duarte, AJ La Reau, IZ Chaves, TA de Oliveira Mendes, E Detmann, CBP Bento, MEZ Mercadante, SFM Bonilha, G Suen, HC Mantovani_
-
-
-Ruminants rely upon a complex community of microbes in their rumen to convert host-indigestible feed into nutrients. However, little is known about the association between the rumen microbiota and feed efficiency traits in Nellore (Bos indicus) cattle, a breed of major economic importance to the global beef market. Here, we compare the composition of the bacterial, archaeal and fungal communities in the rumen of Nellore steers with high and low feed efficiency (FE) phenotypes, as measured by residual feed intake (RFI).
+## Assessing the relationship between the rumen microbiota and feed efficiency in Nellore steers
 
 [Source](https://jasbsci.biomedcentral.com/articles/10.1186/s40104-021-00599-7)
-
-10.1186/s40104-021-00599-7
 
 ---
 
 ## An osmotic laxative renders mice susceptible to prolonged <em>Clostridioides difficile </em>colonization and hinders clearance
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.07.13.452287v1)
-
----
-
-## Tutorial: assessing metagenomics software with the CAMI benchmarking toolkit.
- 18.05.2021, _F Meyer, TR Lesker, D Koslicki, A Fritz, A Gurevich, AE Darling, A Sczyrba, A Bremges, AC McHardy_
-
-
-_Animals, Benchmarking, Computer Simulation, Databases, Genetic, Gastrointestinal Microbiome, Metagenome, Metagenomics, Mice, Phylogeny, Reference Standards, Reproducibility of Results, Software_
-Computational methods are key in microbiome research, and obtaining a quantitative and unbiased performance estimate is important for method developers and applied researchers. For meaningful comparisons between methods, to identify best practices and common use cases, and to reduce overhead in benchmarking, it is necessary to have standardized datasets, procedures and metrics for evaluation. In this tutorial, we describe emerging standards in computational meta-omics benchmarking derived and agreed upon by a larger community of researchers. Specifically, we outline recent efforts by the Critical Assessment of Metagenome Interpretation (CAMI) initiative, which supplies method developers and applied researchers with exhaustive quantitative data about software performance in realistic scenarios and organizes community-driven benchmarking challenges. We explain the most relevant evaluation metrics for assessing metagenome assembly, binning and profiling results, and provide step-by-step instructions on how to generate them. The instructions use simulated mouse gut metagenome data released in preparation for the second round of CAMI challenges and showcase the use of a repository of tool results for CAMI datasets. This tutorial will serve as a reference for the community and facilitate informative and reproducible benchmarking in microbiome research.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.12.451567v1)
-
-10.1038/s41596-020-00480-3
 
 ---
 
