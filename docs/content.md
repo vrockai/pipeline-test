@@ -184,19 +184,6 @@
 
 ---
 
-## Disentangling the mechanisms shaping the surface ocean microbiota.
- 04.02.2021, _R Logares, IM Deutschmann, PC Junger, CR Giner, AK Krabberød, TSB Schmidt, L Rubinat-Ripoll, M Mestre, G Salazar, C Ruiz-González, M Sebastián, C de Vargas, SG Acinas, CM Duarte, JM Gasol, R Massana_
-
-
-_Archaea, Bacteria, Eukaryota, Microbiota, Oceans and Seas, Phylogeography, Plankton, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Spatial Analysis, Temperature, Water Microbiology_
-The ocean microbiota modulates global biogeochemical cycles and changes in its configuration may have large-scale consequences. Yet, the underlying ecological mechanisms structuring it are unclear. Here, we investigate how fundamental ecological mechanisms (selection, dispersal and ecological drift) shape the smallest members of the tropical and subtropical surface-ocean microbiota: prokaryotes and minute eukaryotes (picoeukaryotes). Furthermore, we investigate the agents exerting abiotic selection on this assemblage as well as the spatial patterns emerging from the action of ecological mechanisms. To explore this, we analysed the composition of surface-ocean prokaryotic and picoeukaryotic communities using DNA-sequence data (16S- and 18S-rRNA genes) collected during the circumglobal expeditions Malaspina-2010 and TARA-Oceans.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.13.452182v1)
-
-10.1186/s40168-020-00827-8
-
----
-
 ## Disentangling environmental effects in microbial association networks
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.07.13.452182v1)
