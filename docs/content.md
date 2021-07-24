@@ -82,15 +82,9 @@ Spiders being one of the most diverse group in phylum arthropod are of great imp
 
 ---
 
-## Simple mapping-based quantification of a mock microbial community using total RNA-seq data.
- 19.07.2021, _S Moriya_
-
-
-Most microbes in the natural environment are difficult to cultivate. Thus, culture-independent analysis for microbial community structure is important for the understanding of its ecological functions. An immense ribosomal RNA sequence collection is available from phylogenetic research on organisms in all domains. These sequences are available for use in genetic research. However, the amplicon-seq process using PCR requires the construction of a sequence library. Construction can introduce bias into quantitative analyses, and each domain of species needs its own primer set. Total RNA sequencing has the advantage of analyzing an entire microbial community, including bacteria, archea, and eukaryote, at once. Such analysis yields large amounts of ribosomal RNA sequences that can be used for analysis without PCR bias. Evaluation using total RNA-seq for quantitative analysis of microbial communities and comparison with amplicon-seq is still rare. In the present study, we developed a mapping-based total RNA-seq analysis to obtain quantitative information on microbial community structure and compared our results with ordinary amplicon-seq methods. We read total RNA sequences from a commercially available mock community (ATCC MSA-2003) and divided reads into small subunit ribosomal RNA (ssrRNA) origin reads and others, such as mRNA origin reads. We then mapped ssrRNA origin reads on annotated assembled contigs and obtained quantitative results under several analysis strategies. Removal of low complexity sequences, sorting ssrRNA with paired-in mode, and performing homology-based taxonomical assignments (BLAST+ or vsearch) showed superior outcomes to other strategies. Results with this approach showed a median relative abundance among ten mock community members of ~10%; ordinary amplicon-seq showed a much lower percentage. Thus, total RNA-seq can be a powerful tool for analyzing microbial community structure and is not limited to analyzing gene expression profiling of microbiomes.
+## Simple mapping-based quantification of a mock microbial community using total RNA-seq data
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254556)
-
-10.1371/journal.pone.0254556
 
 ---
 
