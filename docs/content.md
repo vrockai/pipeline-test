@@ -1,96 +1,138 @@
-## Phenotypic and genomic diversification in complex carbohydrate degrading human gut bacteria
+## Multi-omics reveal microbial determinants impacting responses to biologic therapies in inflammatory bowel disease
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.15.452266v1.abstract?%3Fcollection=)
-
----
-
-## Effect of biochanin A on the rumen microbial community of Holstein steers consuming a high fiber diet and subjected to a subacute acidosis challenge.
- 21.07.2021, _BE Harlow, MD Flythe, JL Klotz, DL Harmon, GE Aiken_
-
-
-Subacute rumen acidosis (SARA) occurs when highly fermentable carbohydrates are introduced into the diet, decreasing pH and disturbing the microbial ecology of the rumen. Rumen amylolytic bacteria rapidly catabolize starch, fermentation acids accumulate in the rumen and reduce environmental pH. Historically, antibiotics (e.g., monensin, MON) have been used in the prevention and treatment of SARA. Biochanin A (BCA), an isoflavone produced by red clover (Trifolium pratense), mitigates changes associated with starch fermentation ex vivo. The objective of the study was to determine the effect of BCA on amylolytic bacteria and rumen pH during a SARA challenge. Twelve rumen fistulated steers were assigned to 1 of 4 treatments: HF CON (high fiber control), SARA CON, MON (200 mg d-1), or BCA (6 g d-1). The basal diet consisted of corn silage and dried distiller's grains ad libitum. The study consisted of a 2-wk adaptation, a 1-wk HF period, and an 8-d SARA challenge (d 1-4: 40% corn; d 5-8: 70% cracked corn). Samples for pH and enumeration were taken on the last day of each period (4 h). Amylolytic, cellulolytic, and amino acid/peptide-fermenting bacteria (APB) were enumerated. Enumeration data were normalized by log transformation and data were analyzed by repeated measures ANOVA using the MIXED procedure of SAS. The SARA challenge increased total amylolytics and APB, but decreased pH, cellulolytics, and in situ DMD of hay (P &lt; 0.05). BCA treatment counteracted the pH, microbiological, and fermentative changes associated with SARA challenge (P &lt; 0.05). Similar results were also observed with MON (P &lt; 0.05). These results indicate that BCA may be an effective alternative to antibiotics for mitigating SARA in cattle production systems.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253754)
-
-10.1371/journal.pone.0253754
+[Source](https://doi.org/10.1016/j.chom.2021.06.019)
 
 ---
 
-## Ear wound healing in MRL/MpJ mice is associated with gut microbiome composition and is transferable to non-healer mice via microbiome transplantation.
- 20.07.2021, _C Velasco, C Dunn, C Sturdy, V Izda, J Martin, A Rivas, J McNaughton, MA Jeffries_
+## Gut Microbiota-generated Metabolite, Trimethylamine-N-oxide, And Subclinical myocardial damage: a multicenter study from Thailand
 
-
-Adult elastic cartilage has limited repair capacity. MRL/MpJ (MRL) mice, by contrast, are capable of spontaneously healing ear punctures. This study was undertaken to characterize microbiome differences between healer and non-healer mice and to evaluate whether this healing phenotype can be transferred via gut microbiome transplantation.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248322)
-
-10.1371/journal.pone.0248322
+[Source](https://doi.org/10.1038/s41598-021-93803-7)
 
 ---
 
-## Increased microbial diversity and decreased prevalence of common pathogens in the gut microbiomes of wild turkeys compared to domestic turkeys
+## Association Between The Urogenital Microbiome And Surgical Treatment Response In Women Undergoing Mid-urethral Sling Surgery for Mixed Urinary Incontinence
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.16.452759v1.abstract?%3Fcollection=)
-
----
-
-## Interspecific variation and functional traits of the gut microbiome in spiders from the wild: The largest effort so far.
- 21.07.2021, _K Tyagi, I Tyagi, V Kumar_
-
-
-Spiders being one of the most diverse group in phylum arthropod are of great importance due to their role as predators, silk producer, and in medicinal applications. Spiders in prey-predator relationships play a crucial role in balancing the food-chain of any ecosystem; therefore it is essential to characterize the gut microbiota of spiders collected from natural environments. In the present work, the largest effort so far has been made to characterize the gut microbiota of 35 spider species belonging to four different families using 16S amplicon targeting sequencing. Further, we compared the gut microbiota composition including endosymbiont abundance in spider species collected from different geographical locations. The results obtained revealed the presence of genera like Acinetobacter (15%), V7clade (9%), Wolbachia (8%), Pseudomonas (5%), Bacillus (6%). Although comparative analysis revealed that the gut bacterial composition in all the spider families has a similar pattern, in terms of community richness and evenness. The bacterial diversity in the spider family, Lycosidae are more diverse than in Salticidae, Tetragnathidae and Araneidae. Furthermore, it was observed that the abundance of endosymbiont genera, i.e. Wolbachia and Rickettsia, leads to shift in the abundance of other bacterial taxa and may cause sexual alterations in spider species. Moreover, predicted functional analysis based on PICRUSt2 reveals that gut microbiota of spider species were involved in functions like metabolism of carbohydrates, cofactors and vitamins, amino acids; biosynthesis of organic compounds, fatty acids, lipids etc. Based on the results obtained, it can be said that different locations do not correlate with community composition of gut microbiota in spider species collected from natural environments.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251790)
-
-10.1371/journal.pone.0251790
+[Source](https://doi.org/10.1016/j.ajog.2021.07.008)
 
 ---
 
-## Tillage intensity and plant rhizosphere selection shape bacterial-archaeal assemblage diversity and nitrogen cycling genes
+## Personalized Approach To Childhood Obesity: Lessons From Gut Microbiota And Omics studies. Narrative review and insights from the 29th European childhood obesity congress
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.16.452714v1.abstract?%3Fcollection=)
-
----
-
-## An Ohio State Scenic River Shows Elevated Antibiotic Resistance Genes, Including Acinetobacter Tetracycline and Macrolide Resistance, Downstream of Wastewater Treatment Plant Effluent
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.04.26.441562v3.abstract?%3Fcollection=)
+[Source](https://doi.org/10.1111/ijpo.12835)
 
 ---
 
-## Biogeochemistry of the Antrim Shale Natural Gas Reservoir
+## The complex interplay of gut microbiota with the five most common cancer types: from carcinogenesis to therapeutics to prognosis
 
-[Source](https://pubs.acs.org/doi/full/10.1021/acsearthspacechem.1c00087)
-
----
-
-## Novel municipal sewage-associated bacterial genomes and their potential in source tracking
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.15.452399v1.abstract?%3Fcollection=)
+[Source](https://doi.org/10.1016/j.critrevonc.2021.103429)
 
 ---
 
-## Structure of bacterial communities in Japanese-style bathrooms: Comparative sequencing of bacteria in shower water and showerhead biofilms using a portable nanopore sequencer
+## <em>Clostridium culturomicium</em> sp. nov. and <em>Clostridium jeddahitimonense</em> sp. nov., Novel members of the <em>Clostridium</em> genus isolated from the stool of an obese Saudi Arabian.
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.14.452346v1.abstract?%3Fcollection=)
-
----
-
-## Dynamic surveillance of mosquitoes and their viromes in Wuhan during 2020
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.17.452774v1.abstract?%3Fcollection=)
+[Source](https://doi.org/10.1007/s00284-021-02616-4)
 
 ---
 
-## Simple mapping-based quantification of a mock microbial community using total RNA-seq data
+## Effect Of Intestinal Microbiota Imbalance Associated With Chronic Hepatitis&nbsp;B Virus infection on the expression of microRNA‑192 and GLP‑1
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254556)
+[Source](https://doi.org/10.3892/mmr.2021.12301)
 
 ---
 
-## Evaluation of DNA extraction protocols from liquid-based cytology specimens for studying cervical microbiota
+## Variations In The Oral Microbiome Are Associated With Depression In Young Adults
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.01.27.921619v3.abstract?%3Fcollection=)
+[Source](https://doi.org/10.1038/s41598-021-94498-6)
+
+---
+
+## Comparative Analysis Of The Bronchoalveolar Microbiome In Portuguese Patients With different chronic lung disorders
+
+[Source](https://doi.org/10.1038/s41598-021-94468-y)
+
+---
+
+## Recent Advance Of ACE2 And Microbiota Dysfunction In COVID-19 Pathogenesis
+
+[Source](https://doi.org/10.1016/j.heliyon.2021.e07548)
+
+---
+
+## T Cell Subsets And Environmental Factors In <em>Citrobacter rodentium</em> Infection
+
+[Source](https://doi.org/10.1016/j.mib.2021.06.006)
+
+---
+
+## <em>Chitinibacter bivalviorum </em>sp. nov., Isolated From The Gut Of The Freshwater Mussel <em>Anodonta arcaeformis</em>
+
+[Source](https://doi.org/10.1099/ijsem.0.004909)
+
+---
+
+## Nanocapsule-mediated Sustained H<sub>2</sub> Release In The Gut Ameliorates Metabolic dysfunction-associated fatty liver disease
+
+[Source](https://doi.org/10.1016/j.biomaterials.2021.121030)
+
+---
+
+## Aryl Hydrocarbon Receptor Activation By <em>Lactobacillus reuteri</em> Tryptophan Metabolism alleviates<em> Escherichia coli</em>-induced mastitis in mice
+
+[Source](https://doi.org/10.1371/journal.ppat.1009774)
+
+---
+
+## Grape Seed Proanthocyanidins Reduced The Overweight Of C57BL/6J Mice through modulating adipose thermogenesis and gut microbiota.
+
+[Source](https://doi.org/10.1039/d1fo01361k)
+
+---
+
+## Distribution Of The Potential Pathogenic <em>Alternaria</em> On Plant Leaves Determines foliar fungal communities around the disease spot
+
+[Source](https://doi.org/10.1016/j.envres.2021.111715)
+
+---
+
+## Prolonged Drought Imparts Lasting Compositional Changes To The Rice Root Microbiome
+
+[Source](https://doi.org/10.1038/s41477-021-00967-1)
+
+---
+
+## Drought Dampens Microbiome Development
+
+[Source](https://doi.org/10.1038/s41477-021-00977-z)
+
+---
+
+## Factors Associated With Elevated Levels Of Antibiotic Resistance Genes In Sewer sediments and wastewater
+
+[Source](https://doi.org/10.1039/d0ew00230e)
+
+---
+
+## A Novel, Scalable, And Modular Bioreactor Design For Dynamic Simulation Of The digestive tract
+
+[Source](https://doi.org/10.1002/bit.27902)
+
+---
+
+## Assessment Of Biolog Ecoplate(TM) Method For Functional Metabolic Diversity Of aerotolerant pig fecal microbiota
+
+[Source](https://doi.org/10.1007/s00253-021-11449-x)
+
+---
+
+## Structural Identifiability Of The Generalized Lotka-Volterra Model For Microbiome studies
+
+[Source](https://doi.org/10.1098/rsos.201378)
+
+---
+
+## Validation Of The MYChrOme™ Culture Plate For Detection And Differentiation Of Rapid-Growing Nontuberculous Mycobacteria in potable and non-potable water: AOAC&nbsp; Performance Tested Method<sup>SM</sup> 062101
+
+[Source](https://doi.org/10.1093/jaoacint/qsab093)
 
 ---
 
