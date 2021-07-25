@@ -22,15 +22,9 @@
 
 ---
 
-## The complex interplay of gut microbiota with the five most common cancer types: From carcinogenesis to therapeutics to prognosis.
- 22.07.2021, _K Jaye, CG Li, DJ Bhuyan_
-
-
-The association between human gut microbiota and cancers has been an evolving field of biomedical research in recent years. The gut microbiota is composed of the microorganisms residing in the gastrointestinal system that interact with the host to regulate behaviours and biochemical processes within the gut. This symbiotic physiological interaction between the gut and the microbiota plays a significant role in the modulation of gut homeostasis, in which perturbations to the microbiota, also known as dysbiosis can lead to the onset of diseases, including cancer. In this review, we analysed the current literature to understand the role of gut microbiota in the five most prevalent cancer types, namely colon (colorectal), lung, breast, prostate, and stomach cancers. Recent studies have observed the immunomodulatory and anti-tumoural effects of gut microbiota in cancers. Furthermore, gut microbial dysbiosis can induce the release of toxic metabolites and exhibit pro-tumoural effects in the host. The gut microbiota was observed to have clinical implications in each cancer type in addition to regulating the efficacy of standard chemotherapy and natural anticancer agents. However, further research is warranted to understand the complex role of gut microbiota in the prevention, diagnosis, treatment, and prognosis of cancer.
+## The complex interplay of gut microbiota with the five most common cancer types: from carcinogenesis to therapeutics to prognosis
 
 [Source](https://doi.org/10.1016/j.critrevonc.2021.103429)
-
-10.1016/j.critrevonc.2021.103429
 
 ---
 
