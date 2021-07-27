@@ -1,144 +1,391 @@
-## Multi-omics reveal microbial determinants impacting responses to biologic therapies in inflammatory bowel disease
+## Characteristics and outcomes of family-practice patients with coronavirus disease 2019: a case series.
+ 24.07.2021, _S Dzieciolowska, O Ravi, R Grad_
 
-[Source](https://doi.org/10.1016/j.chom.2021.06.019)
 
----
+_Adolescent, Adult, Aged, Aged, 80 and over, COVID-19, Child, Family Practice, Hospitalization, Humans, Middle Aged, Pandemics, SARS-CoV-2, United States, Young Adult_
+The clinical history and outcomes of coronavirus disease 2019 among people not hospitalized is not yet well characterized. To better inform clinical evaluation, we set out to characterize the natural history of coronavirus disease 2019 in primary health care.
 
-## Gut Microbiota-generated Metabolite, Trimethylamine-N-oxide, And Subclinical myocardial damage: a multicenter study from Thailand
+[Source](https://ismelat2021.uniandes.edu.co/index.php/en/)
 
-[Source](https://doi.org/10.1038/s41598-021-93803-7)
-
----
-
-## Association Between The Urogenital Microbiome And Surgical Treatment Response In Women Undergoing Mid-urethral Sling Surgery for Mixed Urinary Incontinence
-
-[Source](https://doi.org/10.1016/j.ajog.2021.07.008)
+10.1186/s13256-021-02963-7
 
 ---
 
-## Personalized Approach To Childhood Obesity: Lessons From Gut Microbiota And Omics studies. Narrative review and insights from the 29th European childhood obesity congress
+##  the ISME-LatinAmerica 2021 meeting will start.
 
-[Source](https://doi.org/10.1111/ijpo.12835)
-
----
-
-## The complex interplay of gut microbiota with the five most common cancer types: From carcinogenesis to therapeutics to prognoses.
- 26.07.2021, _K Jaye, CG Li, DJ Bhuyan_
-
-
-The association between human gut microbiota and cancers has been an evolving field of biomedical research in recent years. The gut microbiota is composed of the microorganisms residing in the gastrointestinal system that interact with the host to regulate behaviours and biochemical processes within the gut. This symbiotic physiological interaction between the gut and the microbiota plays a significant role in the modulation of gut homeostasis, in which perturbations to the microbiota, also known as dysbiosis can lead to the onset of diseases, including cancer. In this review, we analysed the current literature to understand the role of gut microbiota in the five most prevalent cancer types, namely colon (colorectal), lung, breast, prostate, and stomach cancers. Recent studies have observed the immunomodulatory and anti-tumoural effects of gut microbiota in cancers. Furthermore, gut microbial dysbiosis can induce the release of toxic metabolites and exhibit pro-tumoural effects in the host. The gut microbiota was observed to have clinical implications in each cancer type in addition to regulating the efficacy of standard chemotherapy and natural anticancer agents. However, further research is warranted to understand the complex role of gut microbiota in the prevention, diagnosis, treatment, and prognoses of cancer.
-
-[Source](https://doi.org/10.1016/j.critrevonc.2021.103429)
-
-10.1016/j.critrevonc.2021.103429
+[Source](https://ismelat2021.uniandes.edu.co/index.php/en/)
 
 ---
 
-## <em>Clostridium culturomicium</em> sp. nov. and <em>Clostridium jeddahitimonense</em> sp. nov., Novel members of the <em>Clostridium</em> genus isolated from the stool of an obese Saudi Arabian.
+##  Call from the Institut Pasteur for the creation of new groups
 
-[Source](https://doi.org/10.1007/s00284-021-02616-4)
-
----
-
-## Effect Of Intestinal Microbiota Imbalance Associated With Chronic Hepatitis&nbsp;B Virus infection on the expression of microRNA‑192 and GLP‑1
-
-[Source](https://doi.org/10.3892/mmr.2021.12301)
+[Source](https://research.pasteur.fr/fr/call/creation-of-new-research-groups-at-institut-pasteur/)
 
 ---
 
-## Variations In The Oral Microbiome Are Associated With Depression In Young Adults
+## Discovery and mining of enzymes from the human gut microbiome.
+ 26.07.2021, _B Jia, X Han, KH Kim, CO Jeon_
 
-[Source](https://doi.org/10.1038/s41598-021-94498-6)
 
----
+Advances in technological and bioinformatics approaches have led to the generation of a plethora of human gut metagenomic datasets. Metabolomics has also provided substantial data regarding the small metabolites produced and modified by the microbiota. Comparatively, the microbial enzymes mediating the transformation of metabolites have not been intensively investigated. Here, we discuss the recent efforts and technologies used for discovering and mining enzymes from the human gut microbiota. The wealth of knowledge on metabolites, reactions, genome sequences, and structures of proteins, may drive the development of strategies for enzyme mining. Ongoing efforts to annotate gut microbiota enzymes will explain catalytic mechanisms that may guide the clinical applications of the gut microbiome for diagnostic and therapeutic purposes.
 
-## Comparative Analysis Of The Bronchoalveolar Microbiome In Portuguese Patients With different chronic lung disorders
+[Source](https://doi.org/10.1016/j.tibtech.2021.06.008)
 
-[Source](https://doi.org/10.1038/s41598-021-94468-y)
-
----
-
-## Recent Advance Of ACE2 And Microbiota Dysfunction In COVID-19 Pathogenesis
-
-[Source](https://doi.org/10.1016/j.heliyon.2021.e07548)
+10.1016/j.tibtech.2021.06.008
 
 ---
 
-## T Cell Subsets And Environmental Factors In <em>Citrobacter rodentium</em> Infection
+## Antimicrobial peptides and proteins: Interaction with the skin microbiota.
+ 26.07.2021, _F Rademacher, R Gläser, J Harder_
 
-[Source](https://doi.org/10.1016/j.mib.2021.06.006)
 
----
+The cutaneous microbiota comprises all living skin microorganisms. There is increasing evidence that the microbiota plays a crucial role in skin homeostasis. Accordingly, a dysbiosis of the microbiota may trigger cutaneous inflammation. The need for a balanced microbiota requires specific regulatory mechanisms that control and shape the microbiota. In this review we highlight the present knowledge suggesting that antimicrobial peptides (AMPs) may exert a substantial influence on the microbiota by controlling their growth. This is supported by own data showing the differential influence of principal skin-derived AMPs on commensal staphylococci. Vice versa we also illuminate how the cutaneous microbiota interacts with skin-derived AMPs by modulating AMP expression and how microbiota members protect themselves from the antimicrobial activity of AMPs. Taken together, the current picture suggests that a fine-tuned and well-balanced AMP-microbiota interplay on the skin surface may be crucial for skin health.
 
-## <em>Chitinibacter bivalviorum </em>sp. nov., Isolated From The Gut Of The Freshwater Mussel <em>Anodonta arcaeformis</em>
+[Source](https://doi.org/10.1111/exd.14433)
 
-[Source](https://doi.org/10.1099/ijsem.0.004909)
-
----
-
-## Nanocapsule-mediated Sustained H<sub>2</sub> Release In The Gut Ameliorates Metabolic dysfunction-associated fatty liver disease
-
-[Source](https://doi.org/10.1016/j.biomaterials.2021.121030)
+10.1111/exd.14433
 
 ---
 
-## Aryl Hydrocarbon Receptor Activation By <em>Lactobacillus reuteri</em> Tryptophan Metabolism alleviates<em> Escherichia coli</em>-induced mastitis in mice
+## Malnutrition and the microbiome as modifiers of early neurodevelopment.
+ 25.07.2021, _EJL Coley, EY Hsiao_
 
-[Source](https://doi.org/10.1371/journal.ppat.1009774)
 
----
+Malnutrition refers to a dearth, excess, or altered differential ratios of calories, macronutrients, or micronutrients. Malnutrition, particularly during early life, is a pressing global health and socioeconomic burden that is increasingly associated with neurodevelopmental impairments. Understanding how perinatal malnutrition influences brain development is crucial to uncovering fundamental mechanisms for establishing behavioral neurocircuits, with the potential to inform public policy and clinical interventions for neurodevelopmental conditions. Recent studies reveal that the gut microbiome can mediate dietary effects on host physiology and that the microbiome modulates the development and function of the nervous system. This review discusses evidence that perinatal malnutrition alters brain development and examines the maternal and neonatal microbiome as a potential contributing factor.
 
-## Grape Seed Proanthocyanidins Reduced The Overweight Of C57BL/6J Mice through modulating adipose thermogenesis and gut microbiota.
+[Source](https://doi.org/10.1016/j.tins.2021.06.004)
 
-[Source](https://doi.org/10.1039/d1fo01361k)
-
----
-
-## Distribution Of The Potential Pathogenic <em>Alternaria</em> On Plant Leaves Determines foliar fungal communities around the disease spot
-
-[Source](https://doi.org/10.1016/j.envres.2021.111715)
+10.1016/j.tins.2021.06.004
 
 ---
 
-## Prolonged Drought Imparts Lasting Compositional Changes To The Rice Root Microbiome
+## Predictors of multidrug resistant <em>Pseudomonas aeruginosa</em> involvement in bloodstream infections
 
-[Source](https://doi.org/10.1038/s41477-021-00967-1)
-
----
-
-## Drought Dampens Microbiome Development
-
-[Source](https://doi.org/10.1038/s41477-021-00977-z)
+[Source](https://doi.org/10.1097/QCO.0000000000000768)
 
 ---
 
-## Factors Associated With Elevated Levels Of Antibiotic Resistance Genes In Sewer sediments and wastewater
+## Diet Interventions for Irritable Bowel Syndrome: Separating the Wheat from the Chafe.
+ 26.07.2021, _E Haller, K Scarlata_
 
-[Source](https://doi.org/10.1039/d0ew00230e)
 
----
+Patients with irritable bowel syndrome (IBS) frequently perceive eating food as a trigger to their gastrointestinal (GI) distress. Several factors involved in driving GI symptoms include malabsorption and fermentation of food substrates, gut microbiota alterations, nocebo and placebo response, and mast cell activation. Nutritional interventions require individualization based on the heterogeneity of symptoms as well as the risk for maladaptive eating patterns that present in those with IBS. Despite the variety of interventions marketed to individuals with IBS, the low Fermentable, Oligo-, Di-Mono-saccharide, and Polyol diet has the most evidence for efficacy in symptom management.
 
-## A Novel, Scalable, And Modular Bioreactor Design For Dynamic Simulation Of The digestive tract
+[Source](https://doi.org/10.1016/j.gtc.2021.03.005)
 
-[Source](https://doi.org/10.1002/bit.27902)
-
----
-
-## Assessment Of Biolog Ecoplate(TM) Method For Functional Metabolic Diversity Of aerotolerant pig fecal microbiota
-
-[Source](https://doi.org/10.1007/s00253-021-11449-x)
+10.1016/j.gtc.2021.03.005
 
 ---
 
-## Structural Identifiability Of The Generalized Lotka-Volterra Model For Microbiome studies
+## Emerging Role of the Gut Microbiome in Irritable Bowel Syndrome.
+ 26.07.2021, _P Singh, A Lembo_
 
-[Source](https://doi.org/10.1098/rsos.201378)
+
+Advances in bioinformatics have facilitated investigation of the role of gut microbiota in patients with irritable bowel syndrome (IBS). This article describes the evidence from epidemiologic and clinical observational studies highlighting the link between IBS and gut microbiome by investigating postinfection IBS, small intestinal bacterial overgrowth, and microbial dysbiosis. It highlights the effects of gut microbiota on mechanisms implicated in the pathophysiology of IBS, including gut-brain axis, visceral hypersensitivity, motility, epithelial barrier, and immune activation. In addition, it summarizes the current evidence on microbiome-guided therapies in IBS, including probiotics, antibiotics, diet, and fecal microbiota transplant.
+
+[Source](https://doi.org/10.1016/j.gtc.2021.03.003)
+
+10.1016/j.gtc.2021.03.003
 
 ---
 
-## Validation Of The MYChrOme™ Culture Plate For Detection And Differentiation Of Rapid-Growing Nontuberculous Mycobacteria in potable and non-potable water: AOAC&nbsp; Performance Tested Method<sup>SM</sup> 062101
+## The Types and Proportions of Commensal Microbiota Have a Predictive Value in Coronary Heart Disease.
+ 26.07.2021, _L Chen, T Ishigami, H Doi, K Arakawa, K Tamura_
 
-[Source](https://doi.org/10.1093/jaoacint/qsab093)
+
+Previous clinical studies have suggested that commensal microbiota play an important role in atherosclerotic cardiovascular disease; however, a synthetic analysis of coronary heart disease (CHD) has yet to be performed. Therefore, we aimed to investigate the specific types of commensal microbiota associated with CHD by performing a systematic review of prospective observational studies that have assessed associations between commensal microbiota and CHD. Of the 544 published articles identified in the initial search, 16 publications with data from 16 cohort studies (2210 patients) were included in the analysis. The combined data showed that Bacteroides and Prevotella were commonly identified among nine articles (n = 13) in the fecal samples of patients with CHD, while seven articles commonly identified Firmicutes. Moreover, several types of commensal microbiota were common to atherosclerotic plaque and blood or gut samples in 16 cohort studies. For example, Veillonella, Proteobacteria, and Streptococcus were identified among the plaque and fecal samples, whereas Clostridium was commonly identified among blood and fecal samples of patients with CHD. Collectively, our findings suggest that several types of commensal microbiota are associated with CHD, and their presence may correlate with disease markers of CHD.
+
+[Source](https://doi.org/10.3390/jcm10143120)
+
+10.3390/jcm10143120
+
+---
+
+## Association of Microbiome with Oral Squamous Cell Carcinoma: A Systematic Review of the Metagenomic Studies.
+ 26.07.2021, _L Su Mun, S Wye Lum, G Kong Yuiin Sze, C Hock Yoong, K Ching Yung, L Kah Lok, D Gopinath_
+
+
+The past decade has witnessed a surge in epidemiological studies that have explored the relationship between the oral microbiome and oral cancer. Owing to the diversity of the published data, a comprehensive systematic overview of the currently available evidence is critical. This review summarises the current evidence on the metagenomic studies on the oral microbiome in oral cancer. A systematic search was conducted in Medline and Embase databases to identify original studies examining the differences in the oral microbiome of oral cancer cases and controls. A total of twenty-six studies were identified that reported differences in microbial abundance between oral squamous cell carcinoma (OSCC) and controls. Although almost all the studies identified microbial dysbiosis to be associated with oral cancer, the detailed qualitative analysis did not reveal the presence/abundance of any individual bacteria or a consortium to be consistently enriched in OSCC samples across the studies. Interestingly, few studies reported a surge of periodontopathogenic taxa, especially Fusobacteria, whereas others demonstrated a depletion of commensal taxa Streptococci. Considerable heterogeneity could be identified in the parameters used for designing the studies as well as reporting the microbial data. If microbiome data needs to be translated in the future, to complement the clinical parameters for diagnosis and prognosis of oral cancer, further studies with the integration of clinical variables, adequate statistical power, reproducible methods, and models are required.
+
+[Source](https://doi.org/10.3390/ijerph18147224)
+
+10.3390/ijerph18147224
+
+---
+
+## Dietary Fibre Intake Is Associated with Serum Levels of Uraemic Toxins in Children with Chronic Kidney Disease.
+ 30.06.2021, _A El Amouri, E Snauwaert, A Foulon, C Vande Moortel, M Van Dyck, K Van Hoeck, N Godefroid, G Glorieux, W Van Biesen, J Vande Walle, A Raes, S Eloot_
+
+
+_Adolescent, Age Factors, Bacteria, Belgium, Child, Child, Preschool, Dietary Fiber, Dysbiosis, Female, Gastrointestinal Microbiome, Humans, Infant, Intestines, Longitudinal Studies, Male, Prognosis, Prospective Studies, Renal Insufficiency, Chronic, Toxins, Biological, Uremia_
+Imbalanced colonic microbial metabolism plays a pivotal role in generating protein-bound uraemic toxins (PBUTs), which accumulate with deteriorating kidney function and contribute to the uraemic burden of children with chronic kidney disease (CKD). Dietary choices impact the gut microbiome and metabolism. The aim of this study was to investigate the relation between dietary fibre and gut-derived PBUTs in paediatric CKD. Sixty-one (44 male) CKD children (9 ± 5 years) were prospectively followed for two years. Dietary fibre intake was evaluated by either 24-h recalls (73%) or 3-day food records (27%) at the same time of blood sampling for assessment of total and free serum levels of different PBUTs using liquid chromatography. We used linear mixed models to assess associations between fibre intake and PBUT levels. We found an inverse association between increase in fibre consumption (g/day) and serum concentrations of free indoxyl sulfate (-3.1% (-5.9%; -0.3%) (p = 0.035)), free p-cresyl sulfate (-2.5% (-4.7%; -0.3%) (p = 0.034)), total indole acetic acid (IAA) (-1.6% (-3.0%; -0.3%) (p = 0.020)), free IAA (-6.6% (-9.3%; -3.7%) (p &lt; 0.001)), total serum p-cresyl glucuronide (pCG) (-3.0% (-5.6%; -0.5%) (p = 0.021)) and free pCG levels (-3.3% (-5.8%; -0.8%) (p = 0.010)). The observed associations between dietary fibre intake and the investigated PBUTs highlight potential benefits of fibre intake for the paediatric CKD population. The present observational findings should inform and guide adaptations of dietary prescriptions in children with CKD.
+
+[Source](https://doi.org/10.1007/978-981-16-0991-6_4)
+
+10.3390/toxins13030225
+
+---
+
+## The Role of H(2)S in the Gastrointestinal Tract and Microbiota
+
+[Source](https://doi.org/10.1007/978-981-16-0991-6_4)
+
+---
+
+## CNMa-CNMa receptor at microbiome-gut-brain axis: novel target to regulate feeding decision.
+ 26.07.2021, _L Peng, HY Yin, C Huang_
+
+
+
+[Source](https://doi.org/10.1038/s41392-021-00708-y)
+
+10.1038/s41392-021-00708-y
+
+---
+
+## Household environmental microbiota influences early-life eczema development.
+ 26.07.2021, _LDH Ta, CJX Tay, C Lay, PF de Sessions, PTC Tan, MJY Tay, HX Lau, AB Zulkifli, GC Yap, EHW Tham, EXP Ho, AEN Goh, KM Godfrey, JG Eriksson, J Knol, PD Gluckman, YS Chong, JKY Chan, KH Tan, KW Chong, SH Goh, ZR Cheng, BW Lee, L Shek, EXL Loo_
+
+
+Exposure to a diverse microbial environment during pregnancy and early postnatal period is important in determining predisposition towards allergy. However, the effect of environmental microbiota exposure on allergy during preconception, pregnancy and postnatal life on development of allergy in the child has not been investigated so far. In the S-PRESTO (Singapore PREconception Study of long Term maternal and child Outcomes) cohort, we collected house dust during all three critical window periods and analysed microbial composition using 16S rRNA gene sequencing. At 6 and 18 months, the child was assessed for eczema by clinicians. In the eczema group, household environmental microbiota was characterized by presence of human-associated bacteria Actinomyces, Anaerococcus, Finegoldia, Micrococcus, Prevotella and Propionibacterium at all time points, suggesting their possible contributions to regulating host immunity and increasing the susceptibility to eczema. In the home environment of the control group, putative protective effect of an environmental microbe Planomicrobium (Planococcaceae family) was observed to be significantly higher than that in the eczema group. Network correlation analysis demonstrated inverse relationships between beneficial Planomicrobium and human associated bacteria (Actinomyces, Anaerococcus, Finegoldia, Micrococcus, Prevotella and Propionibacterium). Exposure to natural environmental microbiota may be beneficial to modulate shed human associated microbiota in an indoor environment. This article is protected by copyright. All rights reserved.
+
+[Source](https://doi.org/10.1111/1462-2920.15684)
+
+10.1111/1462-2920.15684
+
+---
+
+## Longitudinal linked-read sequencing reveals ecological and evolutionary responses of a human gut microbiome during antibiotic treatment.
+ 24.07.2021, _M Roodgar, BH Good, NR Garud, S Martis, M Avula, W Zhou, SM Lancaster, H Lee, A Babveyh, S Nesamoney, KS Pollard, MP Snyder_
+
+
+Gut microbial communities can respond to antibiotic perturbations by rapidly altering their taxonomic and functional composition. However, little is known about the strain-level processes that drive this collective response. Here, we characterize the gut microbiome of a single individual at high temporal and genetic resolution through a period of health, disease, antibiotic treatment, and recovery. We used deep, linked-read metagenomic sequencing to track the longitudinal trajectories of thousands of single nucleotide variants within 36 species, which allowed us to contrast these genetic dynamics with the ecological fluctuations at the species level. We found that antibiotics can drive rapid shifts in the genetic composition of individual species, often involving incomplete genome-wide sweeps of pre-existing variants. These genetic changes were frequently observed in species without obvious changes in species abundance, emphasizing the importance of monitoring diversity below the species level. We also found that many sweeping variants quickly reverted to their baseline levels once antibiotic treatment had concluded, demonstrating that the ecological resilience of the microbiota can sometimes extend all the way down to the genetic level. Our results provide new insights into the population genetic forces that shape individual microbiomes on therapeutically relevant timescales, with potential implications for personalized health and disease.
+
+[Source](https://doi.org/10.1101/gr.265058.120)
+
+10.1101/gr.265058.120
+
+---
+
+## Combined mechanical and oral antibiotic bowel preparation is associated with prolonged recurrence-free survival following surgery for colorectal cancer.
+ 26.07.2021, _LM Zhang, D Schuitevoerder, MG White, S Feldt, P Krishnan, N Hyman, BD Shogan_
+
+
+Recent studies suggest that bacteria influence the pathogenesis of primary colorectal cancer (CRC), yet their role in recurrence after resection is largely unknown. We have discovered that collagenase-producing bacteria promote cancer recurrence in mice, and that antibiotic bowel decontamination decreases colonization of these same organisms in humans. We hypothesized that preoperative combined mechanical and oral antibiotic bowel preparation would improve disease-free survival (DFS) in patients undergoing surgery for CRC.
+
+[Source](https://doi.org/10.1002/jso.26619)
+
+10.1002/jso.26619
+
+---
+
+## Field evaluation of the gut microbiome composition of pre-school and school-aged children in Tha Song Yang, Thailand, following oral MDA for STH infections.
+
+[Source](https://doi.org/10.1371/journal.pntd.0009597)
+
+---
+
+## Characteristics of the bacterial microbiota in the upper respiratory tract of children.
+ 25.07.2021, _W Cao, Y Sun, N Zhao, J Song, N Zhang, L Liu, Q Liu_
+
+
+The respiratory tract microbiota are deemed as the gatekeeper to health. Consequently, microbiota dysbiosis can lead to the development of diseases. To identify the exact origins of the localized pathogenic bacteria, we investigated bacterial composition in the upper airway tract.
+
+[Source](https://doi.org/10.1007/s00405-021-07013-y)
+
+10.1007/s00405-021-07013-y
+
+---
+
+## Exploring Gut Microbiota in Patients with Colorectal Disease Based on 16S rRNA Gene Amplicon and Shallow Metagenomic Sequencing.
+ 26.07.2021, _Y Liu, X Li, Y Yang, Y Liu, S Wang, B Ji, Y Wei_
+
+
+The gastrointestinal tract, the largest human microbial reservoir, is highly dynamic. The gut microbes play essential roles in causing colorectal diseases. In the present study, we explored potential keystone taxa during the development of colorectal diseases in central China. Fecal samples of some patients were collected and were allocated to the adenoma (Group A), colorectal cancer (Group C), and hemorrhoid (Group H) groups. The 16S rRNA amplicon and shallow metagenomic sequencing (SMS) strategies were used to recover the gut microbiota. Microbial diversities obtained from 16S rRNA amplicon and SMS data were similar. Group C had the highest diversity, although no significant difference in diversity was observed among the groups. The most dominant phyla in the gut microbiota of patients with colorectal diseases were Bacteroidetes, Firmicutes, and Proteobacteria, accounting for &gt;95% of microbes in the samples. The most abundant genera in the samples were Bacteroides, Prevotella, and Escherichia/Shigella, and further species-level and network analyses identified certain potential keystone taxa in each group. Some of the dominant species, such as Prevotella copri, Bacteroides dorei, and Bacteroides vulgatus, could be responsible for causing colorectal diseases. The SMS data recovered diverse antibiotic resistance genes of tetracycline, macrolide, and beta-lactam, which could be a result of antibiotic overuse. This study explored the gut microbiota of patients with three different types of colorectal diseases, and the microbial diversity results obtained from 16S rRNA amplicon sequencing and SMS data were found to be similar. However, the findings of this study are based on a limited sample size, which warrants further large-scale studies. The recovery of gut microbiota profiles in patients with colorectal diseases could be beneficial for future diagnosis and treatment with modulation of the gut microbiota. Moreover, SMS data can provide accurate species- and gene-level information, and it is economical. It can therefore be widely applied in future clinical metagenomic studies.
+
+[Source](https://doi.org/10.3389/fmolb.2021.703638)
+
+10.3389/fmolb.2021.703638
+
+---
+
+## The Intestinal Microbiome Predicts Weight Loss on a Calorie-Restricted Diet and Is Associated With Improved Hepatic Steatosis.
+ 26.07.2021, _TS Dong, K Luu, V Lagishetty, F Sedighian, SL Woo, BW Dreskin, W Katzka, C Chang, Y Zhou, N Arias-Jayo, J Yang, AI Ahdoot, J Ye, Z Li, JR Pisegna, JP Jacobs_
+
+
+Background: The microbiome has been shown in pre-clinical and epidemiological studies to be important in both the development and treatment of obesity and metabolic associated fatty liver disease (MAFLD). However, few studies have examined the role of the microbiome in the clinical response to calorie restriction. To explore this area, we performed a prospective study examining the association of the intestinal microbiome with weight loss and change in hepatic steatosis on a calorie-restricted diet. Methods: A prospective dietary intervention study of 80 overweight and obese participants was performed at the Greater West Los Angeles Veterans Affair Hospital. Patients were placed on a macronutrient standardized diet for 16 weeks, including 14 weeks of calorie restriction (500 calorie deficit). Body composition analysis by impedance, plasma lipid measurements, and ultrasound elastography to measure hepatic steatosis were performed at baseline and week 16. Intestinal microbiome composition was assessed using 16S rRNA gene sequencing. A per protocol analysis was performed on all subjects completing the trial (n = 46). Results: Study completers showed significant reduction in weight, body mass index, total cholesterol, low density lipoprotein, and triglyceride. Subjects who lost at least 5% of their body weight had significantly greater reduction in serum triglyceride and hepatic steatosis than those with &lt;5% body weight loss. Enterococcus and Klebsiella were reduced at the end of the trial while Coprococcus and Collinsella were increased. There were also significant baseline microbiome differences between patients who had at least 5% weight loss as compared to those that did not. Lachnoclostridium was positively associated with hepatic steatosis and Actinomyces was positively associated with hepatic steatosis and weight. Baseline microbiome profiles were able to predict which patients lost at least 5% of their body weight with an AUROC of 0.80. Conclusion: Calorie restriction alters the intestinal microbiome and improves hepatic steatosis in those who experience significant weight loss. Baseline microbiome differences predict weight loss on a calorie-restricted diet and are associated with improvement in hepatic steatosis, suggesting a role of the gut microbiome in mediating the clinical response to calorie restriction.
+
+[Source](https://doi.org/10.3389/fnut.2021.718661)
+
+10.3389/fnut.2021.718661
+
+---
+
+## 16S rRNA gene amplicon sequencing of gut microbiota in gestational diabetes mellitus and their correlation with disease risk factors.
+ 24.07.2021, _J Wei, Y Qing, H Zhou, J Liu, C Qi, J Gao_
+
+
+Although the gut microbiota (GM) are associated with various diseases, their role in gestational diabetes mellitus (GDM) remains uncharacterized. Further study is urgently needed to expose the real relationship between GM and GDM.
+
+[Source](https://doi.org/10.1007/s40618-021-01595-4)
+
+10.1007/s40618-021-01595-4
+
+---
+
+## Analyses of publicly available Hungatella hathewayi genomes revealed genetic distances indicating they belong to more than one species.
+ 26.07.2021, _LE Hernández-Juárez, M Camorlinga, A Méndez-Tenorio, JF Calderón, BC Huang, DDR Bandoy, BC Weimer, J Torres_
+
+
+Hungatella hathewayi has been observed to be a member of the gut microbiome. Unfortunately, little is known about this organism in spite of being associated with human fatalities; it is important to understand virulence mechanisms and epidemiological prospective to cause disease. In this study, a patient with chronic neurologic symptoms presented to the clinic with subsequent isolation of a strain with phenotypic characteristics suggestive of Clostridium difficile. However, whole-genome sequence found the organism to be H. hathewayi. Analysis including publicly available Hungatella genomes found substantial genomic differences as compared to the type strain, indicating this isolate was not C. difficile. We examined the whole-genome of Hungatella species and related genera, using comparative genomics to fully examine species identification and toxin production. Orthogonal phylogenetic using the 16S rRNA gene and entire genome analyses that included genome distance analyses using Genome-to-Genome Distance (GGDC), Average Nucleotide Identity (ANI), and a pan-genome analysis with inclusion of available public genomes determined the speciation to be Hungatella. Two clearly differentiated groups were identified, one including a reference H. hathewayi genome (strain DSM-13,479) and a second group that was determined to be H. effluvii, which included our clinical isolate. Also, some genomes reported as H. hathewayi were found to belong to other genera, including Clostridium and Faecalicatena. We show that the Hungatella species have an open pan-genome reflecting high genomic diversity. This study highlights the importance of correctly assigning taxonomic identification, particularly in disease-associated strains, to better understand virulence and therapeutic options.
+
+[Source](https://doi.org/10.1080/21505594.2021.1950955)
+
+10.1080/21505594.2021.1950955
+
+---
+
+## Analyses of publicly available <em>Hungatella hathewayi </em>genomes revealed genetic distances indicating they belong to more than one species
+
+[Source](https://doi.org/10.1080/21505594.2021.1950955)
+
+---
+
+## Estrogen-related receptor alpha (ERRα) is a key regulator of intestinal homeostasis and protects against colitis.
+ 26.07.2021, _A Tran, C Scholtes, M Songane, C Champagne, L Galarneau, MP Levasseur, N Fodil, CR Dufour, V Giguère, M Saleh_
+
+
+The estrogen-related receptor alpha (ERRα) is a primary regulator of mitochondrial energy metabolism, function and dynamics, and has been implicated in autophagy and immune regulation. ERRα is abundantly expressed in the intestine and in cells of the immune system. However, its role in inflammatory bowel disease (IBD) remains unknown. Here, we report a protective role of ERRα in the intestine. We found that mice deficient in ERRα were susceptible to experimental colitis, exhibiting increased colon inflammation and tissue damage. This phenotype was mediated by impaired compensatory proliferation of intestinal epithelial cells (IEC) following injury, enhanced IEC apoptosis and necrosis and reduced mucus-producing goblet cell counts. Longitudinal analysis of the microbiota demonstrated that loss of ERRα lead to a reduction in microbiome α-diversity and depletion of healthy gut bacterial constituents. Mechanistically, ERRα mediated its protective effects by acting within the radio-resistant compartment of the intestine. It promoted disease tolerance through transcriptional control of key genes involved in intestinal tissue homeostasis and repair. These findings provide new insights on the role of ERRα in the gut and extends our current knowledge of nuclear receptors implicated in IBD.
+
+[Source](https://doi.org/10.1038/s41598-021-94499-5)
+
+10.1038/s41598-021-94499-5
+
+---
+
+## Predicting dental caries increment using salivary biomarkers in a remote Indigenous Australian child population
+
+[Source](https://doi.org/10.1186/s12903-021-01702-0)
+
+---
+
+## Human milk oligosaccharide 2'-fucosyllactose supplementation improves gut barrier function and signaling in the vagal afferent pathway in mice.
+ 26.07.2021, _S Lee, ML Goodson, W Vang, J Rutkowsky, K Kalanetra, M Bhattacharya, D Barile, HE Raybould_
+
+
+2'-Fucosyllactose (2'-FL) is one of the predominant oligosaccharides found in human milk and has several well-established beneficial effects in the host. It has previously been shown that 2'-FL can improve the metabolic phenotype in high-fat (HF)-fed mice. Here we investigated whether dietary supplementation with 2'-FL was associated with improved intestinal barrier integrity, signaling in the vagal afferent pathway and cognitive function. Mice were fed either a low-fat (LF, 10% fat per kcal) or HF (45% fat per kcal) diet with or without supplementation of 2'-FL (10% w/w) in the diet for 8 weeks. Body weight, energy intake, fat and lean mass, intestinal permeability (ex vivo in Ussing chambers), lipid profiles, gut microbiome and microbial metabolites, and cognitive functions were measured. Vagal afferent activity was measured via immunohistochemical detection of c-Fos protein in the brainstem in response to peripheral administration of cholecystokinin (CCK). 2'-FL significantly attenuated the HF-induced increase in fat mass and energy intake. 2'-FL significantly reduced intestinal permeability and significantly increased expression of interleukin (IL)-22, a cytokine known for its protective role in the intestine. Additionally, 2'-FL led to changes in the gut microbiota composition and in the associated microbial metabolites. Signaling in the vagal afferent pathway was improved but there was no effect on cognitive function. In conclusion, 2'-FL supplementation improved the metabolic profiles, gut barrier integrity, lipid metabolism and signaling in the vagal afferent pathway. These findings support the utility of 2'-FL in the control of gut barrier function and metabolic homeostasis under a metabolic challenge.
+
+[Source](https://doi.org/10.1039/d1fo00658d)
+
+10.1039/d1fo00658d
+
+---
+
+## <em>Lactobacillus casei</em> LC89 exerts antidiabetic effects through regulating hepatic glucagon response and gut microbiota in type 2 diabetic mice
+
+[Source](https://doi.org/10.1039/d1fo00882j)
+
+---
+
+## The roles of different <em>Bacteroides fragilis</em> strains in protecting against DSS-induced ulcerative colitis and related functional genes
+
+[Source](https://doi.org/10.1039/d1fo00875g)
+
+---
+
+## Probiotics Fermentation Technology, a Novel Kefir Product, Ameliorates Cognitive Impairment in Streptozotocin-Induced Sporadic Alzheimer’s Disease in Mice
+
+[Source](https://doi.org/10.1155/2021/5525306)
+
+---
+
+## Vaccarin enhances intestinal barrier function in type 2 diabetic mice
+
+[Source](https://doi.org/10.1016/j.ejphar.2021.174375)
+
+---
+
+## Personalized Postprandial Glucose Response-Targeting Diet Versus Mediterranean Diet for Glycemic Control in Prediabetes
+
+[Source](https://doi.org/10.2337/dc21-0162)
+
+---
+
+## Dietary supplementation of alpha-lipoic acid mitigates the negative effects of heat stress in broilers
+
+[Source](https://doi.org/10.1371/journal.pone.0254936)
+
+---
+
+## On the move: sloths and their epibionts as model mobile ecosystems
+
+[Source](https://doi.org/10.1111/brv.12773)
+
+---
+
+## The discovery of pivotal fungus and major determinant factor shaping soil microbial community composition associated with rot root of American ginseng.
+
+[Source](https://doi.org/10.1080/15592324.2021.1952372)
+
+---
+
+## Description of Microbial Communities of Phosphate Mine Wastes in Morocco, a Semi-Arid Climate, Using High-Throughput Sequencing and Functional Prediction.
+
+[Source](https://doi.org/10.3389/fmicb.2021.666936)
+
+---
+
+## Characterization of eukaryotic microbiome and associated bacteria communities in a drinking water treatment plant
+
+[Source](https://doi.org/10.1016/j.scitotenv.2021.149070)
+
+---
+
+## Dynamics of bacterial and archaeal communities along the composting of tannery sludge
+
+[Source](https://doi.org/10.1007/s11356-021-15585-9)
+
+---
+
+## Prioritization of potential drug targets and antigenic vaccine candidates against <em>Klebsiella aerogenes</em> using the computational subtractive proteome-driven approach.
+
+[Source](https://doi.org/10.1007/s42485-021-00068-9)
+
+---
+
+## Genomic evolution of antimicrobial resistance in <em>Escherichia coli</em>
+
+[Source](https://doi.org/10.1038/s41598-021-93970-7)
+
+---
+
+## Strainberry: automated strain separation in low-complexity metagenomes using long reads.
+
+[Source](https://doi.org/10.1038/s41467-021-24515-9)
+
+---
+
+## Visualization of Gut Microbiota-host Interactions via Fluorescence In Situ Hybridization, Lectin Staining, and Imaging
+
+[Source](https://doi.org/10.3791/62646)
+
+---
+
+## A newly developed PCR-based method revealed distinct <em>Fusobacterium nucleatum</em> subspecies infection patterns in colorectal cancer
+
+[Source](https://doi.org/10.1111/1751-7915.13900)
+
+---
+
+## A protocol for characterization of extremely preterm infant gut microbiota in double-blind clinical trials
+
+[Source](https://doi.org/10.1016/j.xpro.2021.100652)
+
+---
+
+## Transformation and differential abundance analysis of microbiome data incorporating phylogeny
+
+[Source](https://doi.org/10.1093/bioinformatics/btab543)
 
 ---
 
