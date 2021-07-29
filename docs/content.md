@@ -293,21 +293,39 @@ The estrogen-related receptor alpha (ERRα) is a primary regulator of mitochondr
 
 ---
 
-## Probiotics Fermentation Technology, a Novel Kefir Product, Ameliorates Cognitive Impairment in Streptozotocin-Induced Sporadic Alzheimer’s Disease in Mice
+## Probiotics Fermentation Technology, a Novel Kefir Product, Ameliorates Cognitive Impairment in Streptozotocin-Induced Sporadic Alzheimer's Disease in Mice.
+ 27.07.2021, _NS El Sayed, EA Kandil, MH Ghoneum_
+
+
+Alzheimer's disease (AD) is a neurodegenerative disease characterized by cognitive impairment. Gut microbiota dysfunction (dysbiosis) is implicated in the pathology of AD and is associated with several detrimental consequences, including neurotransmitter depletion, oxidative stress, inflammation, apoptosis, and insulin resistance, which all contribute to the onset of AD. The objective of this study was to assess the effectiveness of Probiotics Fermentation Technology (PFT), a kefir product, in alleviating AD symptoms via regulation of the gut microbiota using a streptozotocin- (STZ-) induced AD mouse model and to compare its activity with simvastatin, which has been proven to effectively treat AD. Mice received one intracerebroventricular injection of STZ (3 mg/kg). PFT (100, 300, 600 mg/kg) and simvastatin (20 mg/kg) were administered orally for 3 weeks. PFT supplementation mitigated STZ-induced neuronal degeneration in the cortex and hippocampus, restored hippocampal acetylcholine levels, and improved cognition in a dose-dependent manner. These effects were accompanied by reductions in oxidative damage, proinflammatory cytokine expression, apoptosis, and tau hyperphosphorylation. Moreover, PFT hindered amyloid plaque accumulation via the enhancement of insulin-degrading enzyme. These beneficial effects were comparable to those produced by simvastatin. The results suggest that PFT can alleviate AD symptoms by regulating the gut microbiota and by inhibiting AD-related pathological events.
 
 [Source](https://doi.org/10.1155/2021/5525306)
 
+10.1155/2021/5525306
+
 ---
 
-## Vaccarin enhances intestinal barrier function in type 2 diabetic mice
+## Vaccarin enhances intestinal barrier function in type 2 diabetic mice.
+ 25.07.2021, _JN Sun, XY Yu, B Hou, M Ai, MT Qi, XY Ma, MJ Cai, M Gao, WW Cai, LL Ni, F Xu, YT Zhou, LY Qiu_
+
+
+Hyperglycemia and insulin resistance drive intestinal barrier dysfunction in type 2 diabetes (T2DM). Vaccarin, the main active component in the semen of traditional Chinese medicine Vaccaria has a definite effect on T2DM mice. The purpose of this study was to investigate whether vaccarin can enhance the intestinal barrier function in T2DM.
 
 [Source](https://doi.org/10.1016/j.ejphar.2021.174375)
 
+10.1016/j.ejphar.2021.174375
+
 ---
 
-## Personalized Postprandial Glucose Response-Targeting Diet Versus Mediterranean Diet for Glycemic Control in Prediabetes
+## Personalized Postprandial Glucose Response-Targeting Diet Versus Mediterranean Diet for Glycemic Control in Prediabetes.
+ 24.07.2021, _O Ben-Yacov, A Godneva, M Rein, S Shilo, D Kolobkov, N Koren, N Cohen Dolev, T Travinsky Shmul, BC Wolf, N Kosower, K Sagiv, M Lotan-Pompan, N Zmora, A Weinberger, E Elinav, E Segal_
+
+
+To compare the clinical effects of a personalized postprandial-targeting (PPT) diet versus a Mediterranean (MED) diet on glycemic control and metabolic health in prediabetes.
 
 [Source](https://doi.org/10.2337/dc21-0162)
+
+10.2337/dc21-0162
 
 ---
 
