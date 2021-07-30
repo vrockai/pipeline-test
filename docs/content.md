@@ -324,14 +324,26 @@ The estrogen-related receptor alpha (ERRα) is a primary regulator of mitochondr
 ---
 
 ## The discovery of pivotal fungus and major determinant factor shaping soil microbial community composition associated with rot root of American ginseng.
+ 26.07.2021, _L Tian, J Ou, X Sun, Y Miao, J Pei, L Zhao, L Huang_
+
+
+American ginseng, a valuable medicinal and food plant, is threatened by rot root, which affects its yield and quality. However, limited studies have investigated the changes in soil microbial community and physiochemical properties between healthy and rot root American ginseng. Here, high-throughput sequencing and soil physiochemical properties were used to characterize these changes. The soil physiochemical properties showed significance differences between the soil of healthy and rot root, in which the pH, available potassium, available phosphorus, soil organic carbon and soil organic matter were significantly higher in healthy root soil. Besides, fungal α-diversity was also higher in healthy root soil than that in rot root. Importantly, the dominant fungal genera differed between soils of healthy and rot root of American ginseng, and LEfSe further indicated that six fungal genera (Devriesia, Chrysosporium, Dichotomopilus, Pseudeurotium, Acaulium and Scedosporium) were significantly enriched in the soil of healthy plants, whereas six fungal genera (Gibellulopsis, Fusarium, Plectosphaerella, Tetracladium, Gibberella and Ilyonectri) were significantly enriched in the soil of rot root, suggesting that an increase in the relative abundance of these pathogenic fungi (Fusarium, Plectosphaerella, and Ilyonectri) may be associated with ginseng rot root. Notably, this study is the first to report that an increase in the relative abundances of Gibellulopsis and Gibberella in the rot root soil of American ginseng may be associated with the onset of rot root symptoms in this plant. The functional profile prediction showed that the there was a significantly Pathotrophs increase in the rot root soil compared with healthy root soil and Saprotrophs were more abundant in the healthy root soil. Finally, correlation analyses revealed that soil cation exchange capacity was an important factors affecting the composition of rot root of American ginseng soil microbial communities. This study not only used a new approach to explore the new fungal associated with rot root in American ginseng but also excavated the major soil physiochemical properties affecting the microbiome diversity, providing foundation for developing biocontrol strategies against rot root.
 
 [Source](https://doi.org/10.1080/15592324.2021.1952372)
+
+10.1080/15592324.2021.1952372
 
 ---
 
 ## Description of Microbial Communities of Phosphate Mine Wastes in Morocco, a Semi-Arid Climate, Using High-Throughput Sequencing and Functional Prediction.
+ 27.07.2021, _N Mghazli, L Sbabou, R Hakkou, A Ouhammou, M El Adnani, O Bruneel_
+
+
+Soil microbiota are vital for successful revegetation, as they play a critical role in nutrient cycles, soil functions, and plant growth and health. A rehabilitation scenario of the abandoned Kettara mine (Morocco) includes covering acidic tailings with alkaline phosphate mine wastes to limit water infiltration and hence acid mine drainage. Revegetation of phosphate wastes is the final step to this rehabilitation plan. However, revegetation is hard on this type of waste in semi-arid areas and only a few plants managed to grow naturally after 5 years on the store-and-release cover. As we know that belowground biodiversity is a key component for aboveground functioning, we sought to know if any structural problem in phosphate waste communities could explain the almost absence of plants. To test this hypothesis, bacterial and archaeal communities present in these wastes were assessed by 16S rRNA metabarcoding. Exploration of taxonomic composition revealed a quite diversified community assigned to 19 Bacterial and two Archaeal phyla, similar to other studies, that do not appear to raise any particular issues of structural problems. The dominant sequences belonged to Proteobacteria, Bacteroidetes, Actinobacteria, and Gemmatimonadetes and to the genera Massilia, Sphingomonas, and Adhaeribacter. LEfSe analysis identified 19 key genera, and metagenomic functional prediction revealed a broader phylogenetic range of taxa than expected, with all identified genera possessing at least one plant growth-promoting trait. Around 47% of the sequences were also related to genera possessing strains that facilitate plant development under biotic and environmental stress conditions, such as drought and heat.
 
 [Source](https://doi.org/10.3389/fmicb.2021.666936)
+
+10.3389/fmicb.2021.666936
 
 ---
 
@@ -341,15 +353,34 @@ The estrogen-related receptor alpha (ERRα) is a primary regulator of mitochondr
 
 ---
 
-## Dynamics of bacterial and archaeal communities along the composting of tannery sludge
+## Dynamics of bacterial and archaeal communities along the composting of tannery sludge.
+ 25.07.2021, _ASF Araujo, APA de Pereira, JEL Antunes, LMS Oliveira, WJ de Melo, SMB Rocha, MR do Amorim, FF Araujo, VMM Melo, LW Mendes_
+
+
+The process of composting has been proposed as a biological alternative to improve the quality of tannery sludge (TS) by the action of microbial communities. However, there is limited knowledge about the dynamic of these microbial communities during the composting process. This study assessed the responses of bacterial and archaeal communities during TS composting using the 16S rRNA sequencing. The composting process occurred within 90 days, and samples of compost were collected on day 7 (d7; mesophilic stage), 30 (d30; thermophilic stage), 60 (d60; cooling stage), and 90 (d90; maturation stage). The results showed a succession of microbial phyla during the composting with enrichment of Synergistetes, WS1, and Euryarchaeota at the mesophilic stage, while at the thermophilic stage, there was an enrichment of Hydrogenedentes, WPS-2, Chloroflexi, and Deinococcus-Thermus. At the cooling stage, there was an enrichment of Kiritimatiellaeota, and at the maturation stage, there was an enrichment of Entotheonellaeota, Dadabacteria, Nitrospirae, Dependiatiae, and Fibrobacteres. When analyzing the drivers influencing microbial communities, Cr and pH presented more negative correlations with general phyla. In contrast, S, C, K, temperature, and N presented more positive correlations, while Ni, Cd, and P showed fewer correlations. According to niche occupancy, we observed a decreased proportion of generalists with a consequently increased proportion of specialists following the composting process. This study showed that different stages of the composting present a specific microbial community structure and dynamics, which are related to some specific composting characteristics.
 
 [Source](https://doi.org/10.1007/s11356-021-15585-9)
+
+10.1007/s11356-021-15585-9
 
 ---
 
 ## Prioritization of potential drug targets and antigenic vaccine candidates against <em>Klebsiella aerogenes</em> using the computational subtractive proteome-driven approach.
 
 [Source](https://doi.org/10.1007/s42485-021-00068-9)
+
+---
+
+## Phylogenetic Diversity and Antimicrobial Resistance of Campylobacter coli from Humans and Animals in Japan.
+ 25.02.2020, _H Asakura, J Sakata, H Nakamura, S Yamamoto, S Murakami_
+
+
+_Animals, Anti-Bacterial Agents, Campylobacter Infections, Campylobacter coli, Cattle, DNA, Bacterial, Drug Resistance, Bacterial, Genes, Bacterial, Genetic Variation, Genotype, Humans, Japan, Microbial Sensitivity Tests, Multilocus Sequence Typing, Phylogeny, Poultry, Sequence Analysis, DNA, Swine_
+The phylogenetic diversity and antimicrobial resistance (AMR) of Campylobacter coli from humans and animals in Japan between 2008 and 2014 were investigated. A total of 338 foodborne campylobacterioses were reported in Osaka, and C. coli was isolated from 38 cases (11.2%). In the present study, 119 C. coli strains (42 from humans, 25 each from poultry, cattle, and swine, and 2 from wild mallard) were examined by multilocus sequence typing (MLST). MLST assigned 36 sequence types (STs), including 14 novel STs; all human strains and 91% of animal strains (70/77) were assigned to the ST-828 clonal complex. The predominant human ST was ST-860 (18/42, 43%), followed by ST-1068 (8/42, 19%); these STs were also predominant in poultry (ST-860, 9/25, 36%) and cattle (ST-1068, 18/25, 72%). ST-1562 was only predominant in swine (11/25, 44.0%). Swine strains showed the greatest resistance to erythromycin (EM; 92.0%), while EM resistance was only found in 2 out of the 42 human strains examined (4.8%). All EM-resistant swine strains (n=15) exhibited a common point mutation in the 23S rRNA sequence (A2085G), and the tetO gene was detected in 22 out of the 23 TET-resistant swine strains. A whole genome sequencing analysis of four representative swine ST-1562 strains revealed abundant AMR-associated gene clusters in their genomes, suggesting horizontal gene transfer events during host adaptation. This is the first study to demonstrate the phylogenetic diversity and AMR profiles of C. coli in Japan. The present results suggest that poultry and cattle are major reservoirs, improving our knowledge on the epidemiological and ecological traits of this pathogen.
+
+[Source](https://doi.org/10.1038/s41598-021-93970-7)
+
+10.1264/jsme2.ME18115
 
 ---
 
@@ -360,8 +391,14 @@ The estrogen-related receptor alpha (ERRα) is a primary regulator of mitochondr
 ---
 
 ## Strainberry: automated strain separation in low-complexity metagenomes using long reads.
+ 26.07.2021, _R Vicedomini, C Quince, AE Darling, R Chikhi_
+
+
+High-throughput short-read metagenomics has enabled large-scale species-level analysis and functional characterization of microbial communities. Microbiomes often contain multiple strains of the same species, and different strains have been shown to have important differences in their functional roles. Recent advances on long-read based methods enabled accurate assembly of bacterial genomes from complex microbiomes and an as-yet-unrealized opportunity to resolve strains. Here we present Strainberry, a metagenome assembly pipeline that performs strain separation in single-sample low-complexity metagenomes and that relies uniquely on long-read data. We benchmarked Strainberry on mock communities for which it produces strain-resolved assemblies with near-complete reference coverage and 99.9% base accuracy. We also applied Strainberry on real datasets for which it improved assemblies generating 20-118% additional genomic material than conventional metagenome assemblies on individual strain genomes. We show that Strainberry is also able to refine microbial diversity in a complex microbiome, with complete separation of strain genomes. We anticipate this work to be a starting point for further methodological improvements on strain-resolved metagenome assembly in environments of higher complexities.
 
 [Source](https://doi.org/10.1038/s41467-021-24515-9)
+
+10.1038/s41467-021-24515-9
 
 ---
 
