@@ -324,14 +324,8 @@ The estrogen-related receptor alpha (ERRα) is a primary regulator of mitochondr
 ---
 
 ## The discovery of pivotal fungus and major determinant factor shaping soil microbial community composition associated with rot root of American ginseng.
- 26.07.2021, _L Tian, J Ou, X Sun, Y Miao, J Pei, L Zhao, L Huang_
-
-
-American ginseng, a valuable medicinal and food plant, is threatened by rot root, which affects its yield and quality. However, limited studies have investigated the changes in soil microbial community and physiochemical properties between healthy and rot root American ginseng. Here, high-throughput sequencing and soil physiochemical properties were used to characterize these changes. The soil physiochemical properties showed significance differences between the soil of healthy and rot root, in which the pH, available potassium, available phosphorus, soil organic carbon and soil organic matter were significantly higher in healthy root soil. Besides, fungal α-diversity was also higher in healthy root soil than that in rot root. Importantly, the dominant fungal genera differed between soils of healthy and rot root of American ginseng, and LEfSe further indicated that six fungal genera (Devriesia, Chrysosporium, Dichotomopilus, Pseudeurotium, Acaulium and Scedosporium) were significantly enriched in the soil of healthy plants, whereas six fungal genera (Gibellulopsis, Fusarium, Plectosphaerella, Tetracladium, Gibberella and Ilyonectri) were significantly enriched in the soil of rot root, suggesting that an increase in the relative abundance of these pathogenic fungi (Fusarium, Plectosphaerella, and Ilyonectri) may be associated with ginseng rot root. Notably, this study is the first to report that an increase in the relative abundances of Gibellulopsis and Gibberella in the rot root soil of American ginseng may be associated with the onset of rot root symptoms in this plant. The functional profile prediction showed that the there was a significantly Pathotrophs increase in the rot root soil compared with healthy root soil and Saprotrophs were more abundant in the healthy root soil. Finally, correlation analyses revealed that soil cation exchange capacity was an important factors affecting the composition of rot root of American ginseng soil microbial communities. This study not only used a new approach to explore the new fungal associated with rot root in American ginseng but also excavated the major soil physiochemical properties affecting the microbiome diversity, providing foundation for developing biocontrol strategies against rot root.
 
 [Source](https://doi.org/10.1080/15592324.2021.1952372)
-
-10.1080/15592324.2021.1952372
 
 ---
 
