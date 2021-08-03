@@ -28,9 +28,15 @@ Cervicovaginal bacterial communities composed of diverse anaerobes with low Lact
 
 ---
 
-## The forgotten oral microbial transplantation for improving the outcomes of COVID-19
+## The forgotten oral microbial transplantation for improving the outcomes of COVID-19.
+ 02.08.2021, _A AbdelMassih, M Gadalla, E Hussein, M Elahmady, N Zahra, MA Eid, M Hussein, AA Hassan, AS Abou-Zeid, A Hassan, N El Nahhas, N Emad, N Aboushadi, N Ibrahim, S Mokhtar, N El-Husseiny, A Kamel, R Hozaien, E Menshawey, HA Ismail, M Mokhles, R Menshawey, R Fouda_
+
+
+Ever since the uncovering of the severe discrepancy of COVID-19 manifestations, irrespective of viral load, scientists have raced to locate and manage factors contributing to the genesis of a critical state. Recent evidence delineates the role of oral dysbiosis in the development of low-grade inflammation, characterized by the increase of inflammatory cytokines common to those fundamental to the development of severe COVID. Furthermore, high periodontopathic bacteria were recorded in severe acute respiratory syndrome in COVID patients as well as its common provoking comorbidities such as diabetes and hypertension. This can be explained by the immigration and elimination of oral bacteria into the airways, which, in the context of an injured lung, allows for their preferential overgrowth familiar to that causing the progression to advanced lung diseases. This is why we indicate the promising usage of oral microbiome transplantation as a treatment of the oral microbial dysbiosis, not only associated with worst outcomes of COVID-19 but also in other disorders of low-grade inflammation.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2052297521000871)
+
+10.1016/j.nmni.2021.100923
 
 ---
 
