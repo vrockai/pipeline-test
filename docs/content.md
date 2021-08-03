@@ -17,7 +17,7 @@ Metabolomic data processing pipelines have been improving in recent years, allow
 ---
 
 ## Modeling the temporal dynamics of cervicovaginal microbiota identifies targets that may promote reproductive health.
- 30.07.2021, _A Munoz, MR Hayward, SM Bloom, M Rocafort, S Ngcapu, NA Mafunda, J Xu, N Xulu, M Dong, KL Dong, N Ismail, T Ndung'u, MS Ghebermichael, DS Kwon_
+ 02.08.2021, _A Munoz, MR Hayward, SM Bloom, M Rocafort, S Ngcapu, NA Mafunda, J Xu, N Xulu, M Dong, KL Dong, N Ismail, T Ndung'u, MS Ghebermichael, DS Kwon_
 
 
 Cervicovaginal bacterial communities composed of diverse anaerobes with low Lactobacillus abundance are associated with poor reproductive outcomes such as preterm birth, infertility, cervicitis, and risk of sexually transmitted infections (STIs), including human immunodeficiency virus (HIV). Women in sub-Saharan Africa have a higher prevalence of these high-risk bacterial communities when compared to Western populations. However, the transition of cervicovaginal communities between high- and low-risk community states over time is not well described in African populations.
