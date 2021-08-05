@@ -88,27 +88,51 @@ Cystic Fibrosis (CF) is a heritable, multi-organ disease that impacts all tissue
 
 ---
 
-## Contrasting heat stress response patterns of coral holobionts across the Red Sea suggest distinct mechanisms of thermal tolerance
+## Contrasting heat stress response patterns of coral holobionts across the Red Sea suggest distinct mechanisms of thermal tolerance.
+ 03.08.2021, _CR Voolstra, JJ Valenzuela, S Turkarslan, A Cárdenas, BCC Hume, G Perna, C Buitrago-López, K Rowe, MV Orellana, NS Baliga, S Paranjape, G Banc-Prandi, J Bellworthy, M Fine, S Frias-Torres, DJ Barshis_
+
+
+Corals from the northern Red Sea, in particular the Gulf of Aqaba (GoA), have exceptionally high bleaching thresholds approaching &gt;5℃ above their maximum monthly mean (MMM) temperatures. These elevated thresholds are thought to be due to historical selection, as corals passed through the warmer Southern Red Sea during recolonization from the Arabian Sea. To test this hypothesis, we determined thermal tolerance thresholds of GoA versus central Red Sea (CRS) Stylophora pistillata corals using multi-temperature acute thermal stress assays to determine thermal thresholds. Relative thermal thresholds of GoA and CRS corals were indeed similar and exceptionally high (~7℃ above MMM). However, absolute thermal thresholds of CRS corals were on average 3℃ above those of GoA corals. To explore the molecular underpinnings, we determined gene expression and microbiome response of the coral holobiont. Transcriptomic responses differed markedly, with a strong response to the thermal stress in GoA corals and their symbiotic algae versus a remarkably muted response in CRS colonies. Concomitant to this, coral and algal genes showed temperature-induced expression in GoA corals, while exhibiting fixed high expression (front-loading) in CRS corals. Bacterial community composition of GoA corals changed dramatically under heat stress, whereas CRS corals displayed stable assemblages. We interpret the response of GoA corals as that of a resilient population approaching a tipping point in contrast to a pattern of consistently elevated thermal resistance in CRS corals that cannot further attune. Such response differences suggest distinct thermal tolerance mechanisms that may affect the response of coral populations to ocean warming.
 
 [Source](https://doi.org/10.1111/mec.16064)
 
+10.1111/mec.16064
+
 ---
 
-## Site and Organ-Specific Culture-Dependent Endophytic Diversity of Crocus sativus L (Saffron) in Kashmir Himalaya, India.
+## Site and Organ-Specific Culture-Dependent Endophytic Diversity of Crocus sativus L. (Saffron) in Kashmir Himalaya, India.
+ 03.08.2021, _B Jan, ZA Reshi, FA Mohiddin_
+
+
+The endophytic diversity of a host plant has been shown to vary across various spatio-temporal scales and between different organs of a plant, but no such study has been carried out on the economically important plant Crocus sativus (saffron). To fill this knowledge gap, the present study was undertaken to document the diversity of culturable bacterial, actinomycete and fungal endophytes at multiple sites from vegetative and reproductive organs of C. sativus. A total of 1170 culturable endophytic isolates were recovered from 6480 tissue segments of C. sativus collected from six different study sites in Pampore region of Kashmir valley in India. These isolates were identified using 16S and ITS (internal transcribed spacer) rDNA barcode sequence analysis and were classified into 84 operational taxonomic units (OTUs), including 52 bacterial OTUs, 7 actinomycete OTUs and 25 fungal OTUs. The phylogenetic analysis of sequences separated them into four phyla, namely, Firmicutes (46%), Ascomycota (30%), Proteobacteria (16%) and Actinobacteria (8%). Significant differences were observed in the diversity of endophytic assemblages across various study sites and different plant organs (P ≤ 0.001). Species richness was highest at the Baroosa site and lowest at the Chandhar site while the Shannon index was highest at the Baroosa site and lowest at the Letpur site. Among organs, species richness was highest in stigma and lowest in leaf. Similarly, Shannon index was highest for root and lowest for leaf. Further, 15 culturable endophytic OTUs showed organ specificity. The present study is the first comprehensive report that not only brings out differences in the diversity of endophytes associated with different organs and at different sites but also highlights the complexity of host-endophyte interaction at multiple scales.
 
 [Source](https://doi.org/10.1007/s00248-021-01817-5)
 
+10.1007/s00248-021-01817-5
+
 ---
 
-## Biodegradation of metoprolol in oxic and anoxic hyporheic zone sediments: unexpected effects on microbial communities
+## Biodegradation of metoprolol in oxic and anoxic hyporheic zone sediments: unexpected effects on microbial communities.
+ 02.08.2021, _C Rutere, M Posselt, A Ho, MA Horn_
+
+
+Metoprolol is widely used as a beta-blocker and considered an emerging contaminant of environmental concern due to pseudo persistence in wastewater effluents that poses a potential ecotoxicological threat to aquatic ecosystems. Microbial removal of metoprolol in the redox-delineated hyporheic zone (HZ) was investigated using streambed sediments supplemented with 15 or 150 μM metoprolol in a laboratory microcosm incubation under oxic and anoxic conditions. Metoprolol disappeared from the aqueous phase under oxic and anoxic conditions within 65 and 72 days, respectively. Metoprolol was refed twice after initial depletion resulting in accelerated disappearance under both conditions. Metoprolol disappearance was marginal in sterile control microcosms with autoclaved sediment. Metoprolol was transformed mainly to metoprolol acid in oxic microcosms, while metoprolol acid and α-hydroxymetoprolol were formed in anoxic microcosms. Transformation products were transient and disappeared within 30 days under both conditions. Effects of metoprolol on the HZ bacterial community were evaluated using DNA- and RNA-based time-resolved amplicon Illumina MiSeq sequencing targeting the 16S rRNA gene and 16S rRNA, respectively, and were prominent on 16S rRNA rather than 16S rRNA gene level suggesting moderate metoprolol-induced activity-level changes. A positive impact of metoprolol on Sphingomonadaceae and Enterobacteriaceae under oxic and anoxic conditions, respectively, was observed. Nitrifiers were impaired by metoprolol under oxic and anoxic conditions. Collectively, our findings revealed high metoprolol biodegradation potentials in the hyporheic zone under contrasting redox conditions associated with changes in the active microbial communities, thus contributing to the attenuation of micropollutants. KEY POINTS: • High biotic oxic and anoxic metoprolol degradation potentials in the hyporheic zone. • Key metoprolol-associated taxa included Sphingomonadaceae, Enterobacteraceae, and Promicromonosporaceae. • Negative impact of metoprolol on nitrifiers.
 
 [Source](https://doi.org/10.1007/s00253-021-11466-w)
 
+10.1007/s00253-021-11466-w
+
 ---
 
-## Microbial assemblages and methanogenesis pathways impact methane production and foaming in manure deep-pit storages
+## Microbial assemblages and methanogenesis pathways impact methane production and foaming in manure deep-pit storages.
+ 03.08.2021, _F Yang, DS Andersen, S Trabue, AD Kent, LM Pepple, RS Gates, AS Howe_
+
+
+Foam accumulation in swine manure deep-pits has been linked to explosions and flash fires that pose devastating threats to humans and livestock. It is clear that methane accumulation within these pits is the fuel for the fire; it is not understood what microbial drivers cause the accumulation and stabilization of methane. Here, we conducted a 13-month field study to survey the physical, chemical, and biological changes of pit-manure across 46 farms in Iowa. Our results showed that an increased methane production rate was associated with less digestible feed ingredients, suggesting that diet influences the storage pit's microbiome. Targeted sequencing of the bacterial 16S rRNA and archaeal mcrA genes was used to identify microbial communities' role and influence. We found that microbial communities in foaming and non-foaming manure were significantly different, and that the bacterial communities of foaming manure were more stable than those of non-foaming manure. Foaming manure methanogen communities were enriched with uncharacterized methanogens whose presence strongly correlated with high methane production rates. We also observed strong correlations between feed ration, manure characteristics, and the relative abundance of specific taxa, suggesting that manure foaming is linked to microbial community assemblage driven by efficient free long-chain fatty acid degradation by hydrogenotrophic methanogenesis.
 
 [Source](https://doi.org/10.1371/journal.pone.0254730)
+
+10.1371/journal.pone.0254730
 
 ---
 
