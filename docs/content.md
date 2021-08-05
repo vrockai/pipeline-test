@@ -70,9 +70,15 @@ Cystic Fibrosis (CF) is a heritable, multi-organ disease that impacts all tissue
 
 ---
 
-## Protein supplementation during an energy-restricted diet induces visceral fat loss and gut microbiota amino acid metabolism activation: a randomized trial
+## Protein supplementation during an energy-restricted diet induces visceral fat loss and gut microbiota amino acid metabolism activation: a randomized trial.
+ 03.08.2021, _P Bel Lassen, E Belda, E Prifti, MC Dao, F Specque, C Henegar, L Rinaldi, X Wang, SP Kennedy, JD Zucker, W Calame, B Lamarche, SP Claus, K Clément_
+
+
+Interactions between diet and gut microbiota are critical regulators of energy metabolism. The effects of fibre intake have been deeply studied but little is known about the impact of proteins. Here, we investigated the effects of high protein supplementation (Investigational Product, IP) in a double blind, randomised placebo-controled intervention study (NCT01755104) where 107 participants received the IP or an isocaloric normoproteic comparator (CP) alongside a mild caloric restriction. Gut microbiota profiles were explored in a patient subset (n = 53) using shotgun metagenomic sequencing. Visceral fat decreased in both groups (IP group: - 20.8 ± 23.2 cm2; CP group: - 14.5 ± 24.3 cm2) with a greater reduction (p &lt; 0.05) with the IP supplementation in the Per Protocol population. Microbial diversity increased in individuals with a baseline low gene count (p &lt; 0.05). The decrease in weight, fat mass and visceral fat mass significantly correlated with the increase in microbial diversity (p &lt; 0.05). Protein supplementation had little effects on bacteria composition but major differences were seen at functional level. Protein supplementation stimulated bacterial amino acid metabolism (90% amino-acid synthesis functions enriched with IP versus 13% in CP group (p &lt; 0.01)). Protein supplementation alongside a mild energy restriction induces visceral fat mass loss and an activation of gut microbiota amino-acid metabolism.Clinical trial registration: NCT01755104 (24/12/2012). https://clinicaltrials.gov/ct2/show/record/NCT01755104?term=NCT01755104&amp;draw=2&amp;rank=1 .
 
 [Source](https://doi.org/10.1038/s41598-021-94916-9)
+
+10.1038/s41598-021-94916-9
 
 ---
 
