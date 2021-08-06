@@ -1,204 +1,368 @@
-## <em>Clostridioides difficile</em> Infection in Pediatric Inflammatory Bowel Disease: A Clinician’s Dilemma
-
-[Source](https://doi.org/10.1093/jpids/piab069)
-
----
-
-## The Gut-Lung Axis in Cystic Fibrosis.
- 02.08.2021, _CE Price, GA O'Toole_
+## The Future of Biological Therapies in COPD.
+ 18.05.2021, _J Gea_
 
 
-Cystic Fibrosis (CF) is a heritable, multi-organ disease that impacts all tissues that normally express CFTR protein. While importance of the airway microbiota has long been recognized, the intestinal microbiota has only recently been recognized as an important player in both intestinal and lung health outcomes for persons with CF (pwCF). Here, we summarize current literature related to the gut-lung axis in CF, with a particular focus on three key ideas: Mechanisms through which microbes influence the gut-lung axis, drivers of microbiota alterations, and the potential for intestinal microbiota remediation.
+_Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity, Asthma, Biological Therapy, Cytokines, Humans, I-kappa B Kinase, Inflammation Mediators, Microbiota, Molecular Targeted Therapy, NF-kappa B, Pulmonary Disease, Chronic Obstructive, Th1 Cells_
 
-[Source](https://doi.org/10.1128/JB.00311-21)
+[Source](https://github.com/SvetlanaUP/Microbiome-etc-Podcasts)
 
-10.1128/JB.00311-21
+10.1016/j.arbres.2017.11.004
 
 ---
 
-## Comprehensive Strain-Level Analysis of the Gut Microbe <em>Faecalibacterium prausnitzii</em> in Patients with Liver Cirrhosis
+## microbiome podcasts
 
-[Source](https://doi.org/10.1128/mSystems.00775-21)
-
----
-
-## Gut Microbiome Structure and Association with Host Factors in a Korean Population
-
-[Source](https://doi.org/10.1128/mSystems.00179-21)
+[Source](https://github.com/SvetlanaUP/Microbiome-etc-Podcasts)
 
 ---
 
-## Pilot trial of vitamin D3 and calcifediol in healthy vitamin D deficient adults: does it change the fecal microbiome?
- 03.08.2021, _A Shieh, SM Lee, V Lagishetty, C Gottleib, JP Jacobs, JS Adams_
+## https://t.co/69XMQZvU2r
 
-
-To determine whether correcting vitamin D deficiency with cholecalciferol (vitamin D3, D3) or calcifediol (25-hydroxyvitamin D3, 25(OH)D3) changes gut microbiome composition.
-
-[Source](https://doi.org/10.1210/clinem/dgab573)
-
-10.1210/clinem/dgab573
+[Source](https://t.co/69XMQZvU2r)
 
 ---
 
-## Deciphering the role of skin surface microbiome in skin health: an integrative multi-omics approach reveals three distinct metabolite-microbe clusters.
- 03.08.2021, _PF Roux, T Oddos, G Stamatas_
+## August 2, 2021
 
-
-The advent of 16S RNA profiling and shotgun metagenomics has enabled a holistic approach to the study of the skin microbiome composition. Despite the interesting findings in this rapidly developing scientific area, the big question remains: What role does the microbiome play in skin physiology? To begin answering this question, we employed an integrative methodology for microbiome and metabolome analysis of skin surface samples collected from the volar forearm of healthy 3 to 6-month-old infants. While the infant skin metabolome was dominated by amino acids, lipids, and xenobiotics, the primary phyla of the microbiome were Firmicutes, Actinobacteria, and Proteobacteria. Zooming in on the species level revealed a large contribution of commensals belonging to the Cutibacterium and Staphylococcus genera, including Cutibacterium acnes, Staphylococcus epidermidis, and Staphylococcus aureus. This heterogeneity was further highlighted when combining the microbiome with metabolome data. Integrative analyses delineated the co-existence of three distinct metabolite-microbe clusters: one dominated by Cutibacterium linked to hydrophobic elements of the skin barrier, one associating Staphylococcus genus with amino acids relevant to the water holding capacity and pH regulation of the skin surface and one characterized by Streptococcus and independent of any particular metabolomic profile.
-
-[Source](https://doi.org/10.1016/j.jid.2021.07.159)
-
-10.1016/j.jid.2021.07.159
+[Source](https://twitter.com/guardian/status/1422273692491567104?ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut microbiome dysbiosis during COVID-19 is associated with increased risk for bacteremia and microbial translocation.
- 03.08.2021, _M Venzon, L Bernard-Raichon, J Klein, J Axelrad, G Hussey, A Sullivan, A Casanovas-Massana, M Noval, A Valero-Jimenez, J Gago, E Wilder, YIR Team, A Iwasaki, L Thorpe, D Littman, M Dittmann, K Stapleford, B Shopsin, V Torres, A Ko, K Cadwell, J Schluter_
+## <strong>Microbiome Virtual International Forum</strong>
 
-
-The microbial populations in the gut microbiome have recently been associated with COVID-19 disease severity. However, a causal impact of the gut microbiome on COVID-19 patient health has not been established. Here we provide evidence that gut microbiome dysbiosis is associated with translocation of bacteria into the blood during COVID-19, causing life-threatening secondary infections. Antibiotics and other treatments during COVID-19 can potentially confound microbiome associations. We therefore first demonstrate that the gut microbiome is directly affected by SARS-CoV-2 infection in a dose-dependent manner in a mouse model, causally linking viral infection and gut microbiome dysbiosis. Comparison with stool samples collected from 97 COVID-19 patients at two different clinical sites also revealed substantial gut microbiome dysbiosis, paralleling our observations in the animal model. Specifically, we observed blooms of opportunistic pathogenic bacterial genera known to include antimicrobial-resistant species in hospitalized COVID-19 patients. Analysis of blood culture results testing for secondary microbial bloodstream infections with paired microbiome data obtained from these patients suggest that bacteria translocate from the gut into the systemic circulation of COVID-19 patients. These results are consistent with a direct role for gut microbiome dysbiosis in enabling dangerous secondary infections during COVID 19.
-
-[Source](https://doi.org/10.21203/rs.3.rs-726620/v1)
-
-10.21203/rs.3.rs-726620/v1
+[Source](https://www.microbiome-vif.org/)
 
 ---
 
-## Novel microbiota-related gene set enrichment analysis identified osteoporosis associated gut microbiota from autoimmune diseases.
- 02.08.2021, _RR Cao, P He, SF Lei_
+## #MVIF
 
-
-Gut microbiota is now considered to be a hidden organ that interacts bidirectionally with cellular responses in numerous organs belonged to the immune, bone, and nervous systems. Here, we aimed to investigate the relationships between gut microbiota and complex diseases by utilizing multiple publicly available genome-wide association.
-
-[Source](https://doi.org/10.1007/s00774-021-01247-w)
-
-10.1007/s00774-021-01247-w
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Sulfation of Arabinogalactan Proteins Confers Privileged Nutrient Status to <em>Bacteroides plebeius</em>
+## https://t.co/PHH4kUu0S9
 
-[Source](https://doi.org/10.1128/mBio.01368-21)
-
----
-
-## <em>Bifidobacterium longum</em>: Protection against Inflammatory Bowel Disease
-
-[Source](https://doi.org/10.1155/2021/8030297)
+[Source](https://t.co/PHH4kUu0S9)
 
 ---
 
-## Gluten-free diet can ameliorate the symptoms of non-celiac autoimmune diseases.
- 02.08.2021, _A Lerner, J Freire de Carvalho, A Kotrova, Y Shoenfeld_
+## July 30, 2021
 
-
-A gluten-free diet (GFD) is the recommended treatment for gluten-dependent disease. In addition, gluten withdrawal is popular and occasionally is suggested as a treatment for other autoimmune diseases (ADs).
-
-[Source](https://doi.org/10.1093/nutrit/nuab039)
-
-10.1093/nutrit/nuab039
+[Source](https://twitter.com/MicrobiomeVIF/status/1421064120531628032?ref_src=twsrc%5Etfw)
 
 ---
 
-## Protein supplementation during an energy-restricted diet induces visceral fat loss and gut microbiota amino acid metabolism activation: a randomized trial.
- 03.08.2021, _P Bel Lassen, E Belda, E Prifti, MC Dao, F Specque, C Henegar, L Rinaldi, X Wang, SP Kennedy, JD Zucker, W Calame, B Lamarche, SP Claus, K Clément_
+## <strong>here</strong>
 
-
-Interactions between diet and gut microbiota are critical regulators of energy metabolism. The effects of fibre intake have been deeply studied but little is known about the impact of proteins. Here, we investigated the effects of high protein supplementation (Investigational Product, IP) in a double blind, randomised placebo-controled intervention study (NCT01755104) where 107 participants received the IP or an isocaloric normoproteic comparator (CP) alongside a mild caloric restriction. Gut microbiota profiles were explored in a patient subset (n = 53) using shotgun metagenomic sequencing. Visceral fat decreased in both groups (IP group: - 20.8 ± 23.2 cm2; CP group: - 14.5 ± 24.3 cm2) with a greater reduction (p &lt; 0.05) with the IP supplementation in the Per Protocol population. Microbial diversity increased in individuals with a baseline low gene count (p &lt; 0.05). The decrease in weight, fat mass and visceral fat mass significantly correlated with the increase in microbial diversity (p &lt; 0.05). Protein supplementation had little effects on bacteria composition but major differences were seen at functional level. Protein supplementation stimulated bacterial amino acid metabolism (90% amino-acid synthesis functions enriched with IP versus 13% in CP group (p &lt; 0.01)). Protein supplementation alongside a mild energy restriction induces visceral fat mass loss and an activation of gut microbiota amino-acid metabolism.Clinical trial registration: NCT01755104 (24/12/2012). https://clinicaltrials.gov/ct2/show/record/NCT01755104?term=NCT01755104&amp;draw=2&amp;rank=1 .
-
-[Source](https://doi.org/10.1038/s41598-021-94916-9)
-
-10.1038/s41598-021-94916-9
+[Source](https://nsurp.org/projects-presentations/)
 
 ---
 
-## Metabolic Features of Ganjang (a Korean Traditional Soy Sauce) Fermentation Revealed by Genome-Centered Metatranscriptomics.
- 03.08.2021, _BH Chun, DM Han, HM Kim, D Park, DM Jeong, HA Kang, CO Jeon_
+## https://t.co/JDVBfMjC58
 
-
-The taste and quality of soy sauce, a fermented liquid condiment popular worldwide, is greatly influenced by microbial metabolism during fermentation. To investigate the fermentative features of ganjang (a Korean traditional soy sauce), ganjang batches using meju (fermented soybean) bricks and solar salts were prepared, and organic compounds, microbial communities, metagenomes, and metatranscriptomes of ganjang were quantitively analyzed during fermentation. Polymeric compound analysis in the ganjang treated with/without microbial inhibitors revealed that indigenous enzymes of meju bricks might be primarily responsible for degrading polymeric compounds. Through metagenome binning and microbe sequencing, 17 high-quality genome sequences representing all major ganjang microbiota were obtained, and their transcriptional expressions were quantitatively analyzed by mapping metatranscriptome reads normalized by spike-in RNA sequencing to the 17 genomes, which revealed that microbial metabolism might primarily occur while meju bricks are in the ganjang solution and decrease significantly after the removal of meju bricks. Metabolic pathways for carbohydrates, proteins, and lipids of the major ganjang microbiota were reconstructed, and their metabolic genes were transcriptionally analyzed, revealing that facultative lactic acid fermentation by Tetragenococcus was the major fermentation process active in the ganjang fermentation and that aerobic respiration by facultatively aerobic bacteria such as Chromohalobacter, Halomonas, and Marinobacter was also an important metabolic process during fermentation. Although the abundances of Fungi and the corresponding transcriptional expression levels were generally much lower than those of Bacteria, our analysis suggests that yeasts such as Debaryomyces and Wickerhamomyces might be in large part responsible for producing biogenic amines and flavors. IMPORTANCE The taste and quality of soy sauce, a popular fermented liquid condiment worldwide, is greatly influenced by microbial metabolism during fermentation. Spontaneous fermentation of ganjang (a Korean traditional soy sauce) in a nonsterile environment leads to the growth of diverse bacteria and fungi during fermentation, making it difficult to understand the mechanism of ganjang fermentation. Genome-centered metatranscriptomic analysis, combined with organic compound analysis, quantitative metagenome and metatranscriptome analyses, and metabolic pathway reconstruction and expressional analysis of the major ganjang microbiota during fermentation, would provide comprehensive insights into the metabolic features of ganjang fermentation.
-
-[Source](https://doi.org/10.1128/mSystems.00441-21)
-
-10.1128/mSystems.00441-21
+[Source](https://t.co/JDVBfMjC58)
 
 ---
 
-## Variation in Microbial Exposure at the Human-Animal Interface and the Implications for Microbiome-Mediated Health Outcome.
+## #NSURP2021
 
-[Source](https://doi.org/10.1128/mSystems.00567-21)
-
----
-
-## Contrasting heat stress response patterns of coral holobionts across the Red Sea suggest distinct mechanisms of thermal tolerance.
- 03.08.2021, _CR Voolstra, JJ Valenzuela, S Turkarslan, A Cárdenas, BCC Hume, G Perna, C Buitrago-López, K Rowe, MV Orellana, NS Baliga, S Paranjape, G Banc-Prandi, J Bellworthy, M Fine, S Frias-Torres, DJ Barshis_
-
-
-Corals from the northern Red Sea, in particular the Gulf of Aqaba (GoA), have exceptionally high bleaching thresholds approaching &gt;5℃ above their maximum monthly mean (MMM) temperatures. These elevated thresholds are thought to be due to historical selection, as corals passed through the warmer Southern Red Sea during recolonization from the Arabian Sea. To test this hypothesis, we determined thermal tolerance thresholds of GoA versus central Red Sea (CRS) Stylophora pistillata corals using multi-temperature acute thermal stress assays to determine thermal thresholds. Relative thermal thresholds of GoA and CRS corals were indeed similar and exceptionally high (~7℃ above MMM). However, absolute thermal thresholds of CRS corals were on average 3℃ above those of GoA corals. To explore the molecular underpinnings, we determined gene expression and microbiome response of the coral holobiont. Transcriptomic responses differed markedly, with a strong response to the thermal stress in GoA corals and their symbiotic algae versus a remarkably muted response in CRS colonies. Concomitant to this, coral and algal genes showed temperature-induced expression in GoA corals, while exhibiting fixed high expression (front-loading) in CRS corals. Bacterial community composition of GoA corals changed dramatically under heat stress, whereas CRS corals displayed stable assemblages. We interpret the response of GoA corals as that of a resilient population approaching a tipping point in contrast to a pattern of consistently elevated thermal resistance in CRS corals that cannot further attune. Such response differences suggest distinct thermal tolerance mechanisms that may affect the response of coral populations to ocean warming.
-
-[Source](https://doi.org/10.1111/mec.16064)
-
-10.1111/mec.16064
+[Source](https://twitter.com/hashtag/NSURP2021?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Site and Organ-Specific Culture-Dependent Endophytic Diversity of Crocus sativus L. (Saffron) in Kashmir Himalaya, India.
- 03.08.2021, _B Jan, ZA Reshi, FA Mohiddin_
+## August 5, 2021
 
-
-The endophytic diversity of a host plant has been shown to vary across various spatio-temporal scales and between different organs of a plant, but no such study has been carried out on the economically important plant Crocus sativus (saffron). To fill this knowledge gap, the present study was undertaken to document the diversity of culturable bacterial, actinomycete and fungal endophytes at multiple sites from vegetative and reproductive organs of C. sativus. A total of 1170 culturable endophytic isolates were recovered from 6480 tissue segments of C. sativus collected from six different study sites in Pampore region of Kashmir valley in India. These isolates were identified using 16S and ITS (internal transcribed spacer) rDNA barcode sequence analysis and were classified into 84 operational taxonomic units (OTUs), including 52 bacterial OTUs, 7 actinomycete OTUs and 25 fungal OTUs. The phylogenetic analysis of sequences separated them into four phyla, namely, Firmicutes (46%), Ascomycota (30%), Proteobacteria (16%) and Actinobacteria (8%). Significant differences were observed in the diversity of endophytic assemblages across various study sites and different plant organs (P ≤ 0.001). Species richness was highest at the Baroosa site and lowest at the Chandhar site while the Shannon index was highest at the Baroosa site and lowest at the Letpur site. Among organs, species richness was highest in stigma and lowest in leaf. Similarly, Shannon index was highest for root and lowest for leaf. Further, 15 culturable endophytic OTUs showed organ specificity. The present study is the first comprehensive report that not only brings out differences in the diversity of endophytes associated with different organs and at different sites but also highlights the complexity of host-endophyte interaction at multiple scales.
-
-[Source](https://doi.org/10.1007/s00248-021-01817-5)
-
-10.1007/s00248-021-01817-5
+[Source](https://twitter.com/NSURPorg/status/1423165833920933896?ref_src=twsrc%5Etfw)
 
 ---
 
-## Biodegradation of metoprolol in oxic and anoxic hyporheic zone sediments: unexpected effects on microbial communities.
- 02.08.2021, _C Rutere, M Posselt, A Ho, MA Horn_
+## A Scale-Free, Fully Connected Global Transition Network Underlies Known Microbiome Diversity
 
-
-Metoprolol is widely used as a beta-blocker and considered an emerging contaminant of environmental concern due to pseudo persistence in wastewater effluents that poses a potential ecotoxicological threat to aquatic ecosystems. Microbial removal of metoprolol in the redox-delineated hyporheic zone (HZ) was investigated using streambed sediments supplemented with 15 or 150 μM metoprolol in a laboratory microcosm incubation under oxic and anoxic conditions. Metoprolol disappeared from the aqueous phase under oxic and anoxic conditions within 65 and 72 days, respectively. Metoprolol was refed twice after initial depletion resulting in accelerated disappearance under both conditions. Metoprolol disappearance was marginal in sterile control microcosms with autoclaved sediment. Metoprolol was transformed mainly to metoprolol acid in oxic microcosms, while metoprolol acid and α-hydroxymetoprolol were formed in anoxic microcosms. Transformation products were transient and disappeared within 30 days under both conditions. Effects of metoprolol on the HZ bacterial community were evaluated using DNA- and RNA-based time-resolved amplicon Illumina MiSeq sequencing targeting the 16S rRNA gene and 16S rRNA, respectively, and were prominent on 16S rRNA rather than 16S rRNA gene level suggesting moderate metoprolol-induced activity-level changes. A positive impact of metoprolol on Sphingomonadaceae and Enterobacteriaceae under oxic and anoxic conditions, respectively, was observed. Nitrifiers were impaired by metoprolol under oxic and anoxic conditions. Collectively, our findings revealed high metoprolol biodegradation potentials in the hyporheic zone under contrasting redox conditions associated with changes in the active microbial communities, thus contributing to the attenuation of micropollutants. KEY POINTS: • High biotic oxic and anoxic metoprolol degradation potentials in the hyporheic zone. • Key metoprolol-associated taxa included Sphingomonadaceae, Enterobacteraceae, and Promicromonosporaceae. • Negative impact of metoprolol on nitrifiers.
-
-[Source](https://doi.org/10.1007/s00253-021-11466-w)
-
-10.1007/s00253-021-11466-w
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00394-21)
 
 ---
 
-## Microbial assemblages and methanogenesis pathways impact methane production and foaming in manure deep-pit storages.
- 03.08.2021, _F Yang, DS Andersen, S Trabue, AD Kent, LM Pepple, RS Gates, AS Howe_
+## Perspective: Crosstalk between γδ T cells and the microbiota
 
-
-Foam accumulation in swine manure deep-pits has been linked to explosions and flash fires that pose devastating threats to humans and livestock. It is clear that methane accumulation within these pits is the fuel for the fire; it is not understood what microbial drivers cause the accumulation and stabilization of methane. Here, we conducted a 13-month field study to survey the physical, chemical, and biological changes of pit-manure across 46 farms in Iowa. Our results showed that an increased methane production rate was associated with less digestible feed ingredients, suggesting that diet influences the storage pit's microbiome. Targeted sequencing of the bacterial 16S rRNA and archaeal mcrA genes was used to identify microbial communities' role and influence. We found that microbial communities in foaming and non-foaming manure were significantly different, and that the bacterial communities of foaming manure were more stable than those of non-foaming manure. Foaming manure methanogen communities were enriched with uncharacterized methanogens whose presence strongly correlated with high methane production rates. We also observed strong correlations between feed ration, manure characteristics, and the relative abundance of specific taxa, suggesting that manure foaming is linked to microbial community assemblage driven by efficient free long-chain fatty acid degradation by hydrogenotrophic methanogenesis.
-
-[Source](https://doi.org/10.1371/journal.pone.0254730)
-
-10.1371/journal.pone.0254730
+[Source](https://www.nature.com/articles/s41564-021-00948-2)
 
 ---
 
-## Multi-plasmid clash in a bacterial community: plasmid viability depends on the ecological setting of hosts
+## Opinion: Microbiota and sleep: awakening the gut feeling
 
-[Source](https://doi.org/10.1101/2021.08.02.454727)
-
----
-
-## Genomic remnants of ancestral hydrogen and methane metabolism in Archaea drive anaerobic carbon cycling
-
-[Source](http://www.biorxiv.org/cgi/content/abstract/2021.08.02.454722v1)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1471491421001854)
 
 ---
 
-## "Touch microbiome" as a potential tool for forensic investigation: A pilot study.
- 05.08.2021, _N Procopio, F Lovisolo, G Sguazzi, S Ghignone, S Voyron, M Migliario, F Renò, F Sellitto, G D'Angiolella, P Tozzo, L Caenazzo, S Gino_
+## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction 
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255651)
+
+---
+
+## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02428-6)
+
+---
+
+## Recurrent Urinary Tract Infections: Unraveling the Complicated Environment of Uncomplicated rUTIs
+
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.562525/full)
+
+---
+
+## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women
+
+[Source](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.16843)
+
+---
+
+## Maternal microbiota <em>Bifidobacterium </em>promotes placental vascularization, nutrient transport and fetal growth in mice
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.07.23.453407v1.full.pdf)
+
+---
+
+## @hall_lab
+
+[Source](https://twitter.com/hall_lab?ref_src=twsrc%5Etfw)
+
+---
+
+## @PerriLab
+
+[Source](https://twitter.com/PerriLab?ref_src=twsrc%5Etfw)
+
+---
+
+## @PDN_Cambridge
+
+[Source](https://twitter.com/PDN_Cambridge?ref_src=twsrc%5Etfw)
+
+---
+
+## @TheQuadram
+
+[Source](https://twitter.com/TheQuadram?ref_src=twsrc%5Etfw)
+
+---
+
+## @CTR_Cambridge
+
+[Source](https://twitter.com/CTR_Cambridge?ref_src=twsrc%5Etfw)
+
+---
+
+## Molecular identification and in vitro evaluation of probiotic functional properties of some Egyptian lactic acid bacteria and yeasts.
+ 05.08.2021, _AI Ahmed, GM El Moghazy, TR Elsayed, HAL Goda, GM Khalafalla_
 
 
-Human skin hosts a variety of microbes that can be transferred to surfaces ("touch microbiome"). These microorganisms can be considered as forensic markers similarly to "touch DNA". With this pilot study, we wanted to evaluate the transferability and persistence of the "touch microbiome" on a surface after the deposition of a fingerprint and its exposure for 30 days at room temperature. Eleven volunteers were enrolled in the study. Skin microbiome samples were collected by swabbing the palm of their hands; additionally, donors were asked to touch a glass microscope slide to deposit their fingerprints, that were then swabbed. Both human and microbial DNA was isolated and quantified. Amelogenin locus and 16 human STRs were amplified, whereas the V4 region of 16 S rRNA gene was sequenced using Illumina MiSeq platform. STR profiles were successfully typed for 5 out of 22 "touch DNA" samples, while a microbiome profile was obtained for 20 out of 22 "touch microbiome" samples. Six skin core microbiome taxa were identified, as well as unique donor characterizing taxa. These unique taxa may have relevance for personal identification studies and may be useful to provide forensic intelligence information also when "touch DNA" fails. Additional future studies including greater datasets, additional time points and a greater number of surfaces may clarify the applicability of "touch microbiome" studies to real forensic contexts.
+The health-promoting effects along with global economic importance of consuming food products supplemented with probiotic microorganisms encouraged the researchers to discover new probiotics.
 
-[Source](https://doi.org/10.1016/j.jflm.2021.102223)
+[Source](https://twitter.com/hashtag/Probiotics?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.jflm.2021.102223
+10.1186/s43141-021-00212-4
+
+---
+
+## #Probiotics
+
+[Source](https://twitter.com/hashtag/Probiotics?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## The management of breast implant-associated anaplastic large cell lymphoma in the setting of pregnancy: seeking for clinical practice guidelines.
+ 05.08.2021, _R Elia, M Maruccia, A De Pascale, A Di Napoli, G Ingravallo, G Giudice_
+
+
+Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL) is a recently described form of T-cell non-Hodgkin lymphoma now formally recognized by the World Health Organization classification of lymphoid neoplasms. The aim of this paper is to report the first case of BIA-ALCL diagnosed in a pregnant patient. It is well known that BIA-ALCL appears as an indolent lymphoma with a good prognosis when diag-nosed at early stages and clinical guidelines for its management have been clearly published. Nevertheless, they lack a standardized approach for BIA-ALCL during pregnancy. With limited experience in our case, treatment has been safely postponed after term without affecting patient's overall prognosis and without fetal complication. The fact that the disease was diagnosed at an early stage (stage I) undoubtedly influenced the course of treatment. A multidisciplinary approach weighing the risks and benefits of treatment is of paramount importance in order to ensure the best possible outcome for both the mother and her child and clinical update guidelines should be issued.
+
+[Source](https://twitter.com/hashtag/pregnancy?src=hash&ref_src=twsrc%5Etfw)
+
+10.5999/aps.2021.00185
+
+---
+
+## #pregnancy
+
+[Source](https://twitter.com/hashtag/pregnancy?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/ae0rnyp2JY
+
+[Source](https://t.co/ae0rnyp2JY)
+
+---
+
+## July 24, 2021
+
+[Source](https://twitter.com/JLopTello/status/1419002689950785540?ref_src=twsrc%5Etfw)
+
+---
+
+## Early invasion of the bladder wall by solitary bacteria protects UPEC from antibiotics and neutrophil swarms in an organoid model
+
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00727-0)
+
+---
+
+## Prolonged drought imparts lasting compositional changes to the rice root microbiome
+
+[Source](https://www.nature.com/articles/s41477-021-00967-1)
+
+---
+
+## @NaturePlants
+
+[Source](https://twitter.com/NaturePlants?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/VaGBrTI01o
+
+[Source](https://t.co/VaGBrTI01o)
+
+---
+
+## pic.twitter.com/KdiYHqOgm8
+
+[Source](https://t.co/KdiYHqOgm8)
+
+---
+
+## July 22, 2021
+
+[Source](https://twitter.com/cmsantosm/status/1418239535381573636?ref_src=twsrc%5Etfw)
+
+---
+
+## COPLA, a taxonomic classifier of plasmids
+
+[Source](https://link.springer.com/epdf/10.1186/s12859-021-04299-x)
+
+---
+
+## Strainberry: automated strain separation in low-complexity metagenomes using long reads
+
+[Source](https://www.nature.com/articles/s41467-021-24515-9)
+
+---
+
+## STRONG: metagenomics strain resolution on assembly graphs.
+ 30.07.2021, _C Quince, S Nurk, S Raguideau, R James, OS Soyer, JK Summers, A Limasset, AM Eren, R Chikhi, AE Darling_
+
+
+We introduce STrain Resolution ON assembly Graphs (STRONG), which identifies strains de novo, from multiple metagenome samples. STRONG performs coassembly, and binning into metagenome assembled genomes (MAGs), and stores the coassembly graph prior to variant simplification. This enables the subgraphs and their unitig per-sample coverages, for individual single-copy core genes (SCGs) in each MAG, to be extracted. A Bayesian algorithm, BayesPaths, determines the number of strains present, their haplotypes or sequences on the SCGs, and abundances. STRONG is validated using synthetic communities and for a real anaerobic digestor time series generates haplotypes that match those observed from long Nanopore reads.
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02419-7)
+
+10.1186/s13059-021-02419-7
+
+---
+
+## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data.
+ 04.08.2021, _P Hiseni, K Rudi, RC Wilson, FT Hegge, L Snipen_
+
+
+_Gastrointestinal Microbiome, Genome, Human, Humans, Metagenome, Metagenomics_
+A major bottleneck in the use of metagenome sequencing for human gut microbiome studies has been the lack of a comprehensive genome collection to be used as a reference database. Several recent efforts have been made to re-construct genomes from human gut metagenome data, resulting in a huge increase in the number of relevant genomes. In this work, we aimed to create a collection of the most prevalent healthy human gut prokaryotic genomes, to be used as a reference database, including both MAGs from the human gut and ordinary RefSeq genomes.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01114-w)
+
+10.1186/s40168-021-01114-w
+
+---
+
+## Protocol for development of a reporting guideline (TRIPOD-AI) and risk of bias tool (PROBAST-AI) for diagnostic and prognostic prediction model studies based on artificial intelligence.
+ 04.08.2021, _GS Collins, P Dhiman, CL Andaur Navarro, J Ma, L Hooft, JB Reitsma, P Logullo, AL Beam, L Peng, B Van Calster, M van Smeden, RD Riley, KG Moons_
+
+
+_Artificial Intelligence, Bias, Checklist, Humans, Prognosis, Research Design, Risk Assessment_
+The Transparent Reporting of a multivariable prediction model of Individual Prognosis Or Diagnosis (TRIPOD) statement and the Prediction model Risk Of Bias ASsessment Tool (PROBAST) were both published to improve the reporting and critical appraisal of prediction model studies for diagnosis and prognosis. This paper describes the processes and methods that will be used to develop an extension to the TRIPOD statement (TRIPOD-artificial intelligence, AI) and the PROBAST (PROBAST-AI) tool for prediction model studies that applied machine learning techniques.
+
+[Source](https://www.youtube.com/watch?v=HrInkiETiHE)
+
+10.1136/bmjopen-2020-048008
+
+---
+
+## How to Critically Evaluate Machine Learning Methods 
+
+[Source](https://www.youtube.com/watch?v=HrInkiETiHE)
+
+---
+
+## #ForTheCulture
+
+[Source](https://twitter.com/hashtag/ForTheCulture?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #BlackInMicro2021
+
+[Source](https://twitter.com/hashtag/BlackInMicro2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/LQkfJ2TFzk
+
+[Source](https://t.co/LQkfJ2TFzk)
+
+---
+
+## August 2, 2021
+
+[Source](https://twitter.com/BlackInMicro/status/1422305958127038470?ref_src=twsrc%5Etfw)
+
+---
+
+## Microbiome Virtual International Conference #MVIF
+
+[Source](https://www.microbiome-vif.org/)
+
+---
+
+## Petabyte-Scale Sequence Search: Metagenomics Benchmarking Codeathon
+
+[Source](https://datascience.nih.gov/news/petabyte-scale-sequence-search-metagenomics-benchmarking-codeathon)
+
+---
+
+## Microbiome Superheroes Connect
+
+[Source](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect)
+
+---
+
+## EMBARK Fall Webinars
+
+[Source](https://antimicrobialresistance.eu/2021/06/30/embark-fall-webinars/)
+
+---
+
+## EMBARK members
+
+[Source](https://twitter.com/EMBARK_JPIAMR)
+
+---
+
+## HERE
+
+[Source](https://github.com/SvetlanaUP/Microbiome-conferences-c)
+
+---
+
+## https://t.co/FlnfJvf6R6
+
+[Source](https://t.co/FlnfJvf6R6)
+
+---
+
+## July 21, 2021
+
+[Source](https://twitter.com/svetlana_up/status/1417778643804332035?ref_src=twsrc%5Etfw)
 
 ---
 
