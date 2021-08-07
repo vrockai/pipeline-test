@@ -238,16 +238,9 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 
 ---
 
-## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data.
- 04.08.2021, _P Hiseni, K Rudi, RC Wilson, FT Hegge, L Snipen_
-
-
-_Gastrointestinal Microbiome, Genome, Human, Humans, Metagenome, Metagenomics_
-A major bottleneck in the use of metagenome sequencing for human gut microbiome studies has been the lack of a comprehensive genome collection to be used as a reference database. Several recent efforts have been made to re-construct genomes from human gut metagenome data, resulting in a huge increase in the number of relevant genomes. In this work, we aimed to create a collection of the most prevalent healthy human gut prokaryotic genomes, to be used as a reference database, including both MAGs from the human gut and ordinary RefSeq genomes.
+## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01114-w)
-
-10.1186/s40168-021-01114-w
 
 ---
 
