@@ -112,9 +112,15 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women
+## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women.
+ 03.08.2021, _X Hong, J Zhao, X Zhu, Q Dai, H Zhang, Y Xuan, J Yin, Y Zhang, X Yang, S Fang, Q Wang, H Shen, Y Zhang, D Yan, Y Wang, Z Peng, Y Zhang, B Wang, X Ma_
+
+
+To evaluate the association between the vaginal microenvironment and fecundability among women.
 
 [Source](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.16843)
+
+10.1111/1471-0528.16843
 
 ---
 
@@ -220,27 +226,15 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## Strainberry: automated strain separation in low-complexity metagenomes using long reads.
- 27.07.2021, _R Vicedomini, C Quince, AE Darling, R Chikhi_
-
-
-High-throughput short-read metagenomics has enabled large-scale species-level analysis and functional characterization of microbial communities. Microbiomes often contain multiple strains of the same species, and different strains have been shown to have important differences in their functional roles. Recent advances on long-read based methods enabled accurate assembly of bacterial genomes from complex microbiomes and an as-yet-unrealized opportunity to resolve strains. Here we present Strainberry, a metagenome assembly pipeline that performs strain separation in single-sample low-complexity metagenomes and that relies uniquely on long-read data. We benchmarked Strainberry on mock communities for which it produces strain-resolved assemblies with near-complete reference coverage and 99.9% base accuracy. We also applied Strainberry on real datasets for which it improved assemblies generating 20-118% additional genomic material than conventional metagenome assemblies on individual strain genomes. We show that Strainberry is also able to refine microbial diversity in a complex microbiome, with complete separation of strain genomes. We anticipate this work to be a starting point for further methodological improvements on strain-resolved metagenome assembly in environments of higher complexities.
+## Strainberry: automated strain separation in low-complexity metagenomes using long reads
 
 [Source](https://www.nature.com/articles/s41467-021-24515-9)
 
-10.1038/s41467-021-24515-9
-
 ---
 
-## STRONG: metagenomics strain resolution on assembly graphs.
- 30.07.2021, _C Quince, S Nurk, S Raguideau, R James, OS Soyer, JK Summers, A Limasset, AM Eren, R Chikhi, AE Darling_
-
-
-We introduce STrain Resolution ON assembly Graphs (STRONG), which identifies strains de novo, from multiple metagenome samples. STRONG performs coassembly, and binning into metagenome assembled genomes (MAGs), and stores the coassembly graph prior to variant simplification. This enables the subgraphs and their unitig per-sample coverages, for individual single-copy core genes (SCGs) in each MAG, to be extracted. A Bayesian algorithm, BayesPaths, determines the number of strains present, their haplotypes or sequences on the SCGs, and abundances. STRONG is validated using synthetic communities and for a real anaerobic digestor time series generates haplotypes that match those observed from long Nanopore reads.
+## STRONG: metagenomics strain resolution on assembly graphs
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02419-7)
-
-10.1186/s13059-021-02419-7
 
 ---
 
