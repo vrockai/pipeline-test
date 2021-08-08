@@ -112,15 +112,9 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women.
- 03.08.2021, _X Hong, J Zhao, X Zhu, Q Dai, H Zhang, Y Xuan, J Yin, Y Zhang, X Yang, S Fang, Q Wang, H Shen, Y Zhang, D Yan, Y Wang, Z Peng, Y Zhang, B Wang, X Ma_
-
-
-To evaluate the association between the vaginal microenvironment and fecundability among women.
+## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women
 
 [Source](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.16843)
-
-10.1111/1471-0528.16843
 
 ---
 
@@ -163,6 +157,18 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 ## #Probiotics
 
 [Source](https://twitter.com/hashtag/Probiotics?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## BMI in childhood and adolescence is associated with impaired reproductive function-a population-based cohort study from birth to age 50 years.
+ 07.08.2021, _J Laru, R Nedelec, E Koivuaho, M Ojaniemi, MR Järvelin, JS Tapanainen, S Franks, M Tolvanen, TT Piltonen, S Sebert, L Morin-Papunen_
+
+
+What is the association between childhood and adolescent BMI and reproductive capacity in women?
+
+[Source](https://twitter.com/hashtag/pregnancy?src=hash&ref_src=twsrc%5Etfw)
+
+10.1093/humrep/deab164
 
 ---
 
