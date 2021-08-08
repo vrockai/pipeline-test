@@ -94,15 +94,9 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction.
- 07.08.2021, _J Mo, L Gao, N Zhang, J Xie, D Li, T Shan, L Fan_
-
-
-To investigate structural and quantitative alterations of gut microbiota in an experimental model of small bowel obstruction.
+## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255651)
-
-10.1371/journal.pone.0255651
 
 ---
 
@@ -256,19 +250,6 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 
 ---
 
-## Protocol for development of a reporting guideline (TRIPOD-AI) and risk of bias tool (PROBAST-AI) for diagnostic and prognostic prediction model studies based on artificial intelligence.
- 04.08.2021, _GS Collins, P Dhiman, CL Andaur Navarro, J Ma, L Hooft, JB Reitsma, P Logullo, AL Beam, L Peng, B Van Calster, M van Smeden, RD Riley, KG Moons_
-
-
-_Artificial Intelligence, Bias, Checklist, Humans, Prognosis, Research Design, Risk Assessment_
-The Transparent Reporting of a multivariable prediction model of Individual Prognosis Or Diagnosis (TRIPOD) statement and the Prediction model Risk Of Bias ASsessment Tool (PROBAST) were both published to improve the reporting and critical appraisal of prediction model studies for diagnosis and prognosis. This paper describes the processes and methods that will be used to develop an extension to the TRIPOD statement (TRIPOD-artificial intelligence, AI) and the PROBAST (PROBAST-AI) tool for prediction model studies that applied machine learning techniques.
-
-[Source](https://www.youtube.com/watch?v=HrInkiETiHE)
-
-10.1136/bmjopen-2020-048008
-
----
-
 ## How to Critically Evaluate Machine Learning Methods 
 
 [Source](https://www.youtube.com/watch?v=HrInkiETiHE)
@@ -338,6 +319,18 @@ The Transparent Reporting of a multivariable prediction model of Individual Prog
 ## https://t.co/FlnfJvf6R6
 
 [Source](https://t.co/FlnfJvf6R6)
+
+---
+
+## COVID-19 knowledge, attitude and frequent hand hygiene practices among taxi drivers and associated factors in urban areas of Ethiopia.
+ 06.08.2021, _T Natnael, M Adane, Y Alemnew, A Andualem, F Hailu_
+
+
+Although several studies have been conducted on COVID-19 knowledge, attitude and prevention practices among healthcare workers and the general population, there has not been any study among taxi drivers in Ethiopia, including Dessie City and Kombolcha Town, the lack of which hinders providing evidence-based interventions to this target group. Thus, this study was designed to contribute to proper planning of COVID-19 intervention measures among taxi drivers in Dessie City and Kombolcha Town, Ethiopia.
+
+[Source](https://twitter.com/svetlana_up/status/1417778643804332035?ref_src=twsrc%5Etfw)
+
+10.1371/journal.pone.0253452
 
 ---
 
