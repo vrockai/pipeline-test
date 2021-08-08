@@ -100,15 +100,9 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle.
- 05.08.2021, _HP Browne, A Almeida, N Kumar, K Vervier, AT Adoum, E Viciani, NJR Dawson, SC Forster, C Cormie, D Goulding, TD Lawley_
-
-
-Human-to-human transmission of symbiotic, anaerobic bacteria is a fundamental evolutionary adaptation essential for membership of the human gut microbiota. However, despite its importance, the genomic and biological adaptations underpinning symbiont transmission remain poorly understood. The Firmicutes are a dominant phylum within the intestinal microbiota that are capable of producing resistant endospores that maintain viability within the environment and germinate within the intestine to facilitate transmission. However, the impact of host transmission on the evolutionary and adaptive processes within the intestinal microbiota remains unknown.
+## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02428-6)
-
-10.1186/s13059-021-02428-6
 
 ---
 
@@ -244,9 +238,29 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 
 ---
 
-## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data
+## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data.
+ 04.08.2021, _P Hiseni, K Rudi, RC Wilson, FT Hegge, L Snipen_
+
+
+_Gastrointestinal Microbiome, Genome, Human, Humans, Metagenome, Metagenomics_
+A major bottleneck in the use of metagenome sequencing for human gut microbiome studies has been the lack of a comprehensive genome collection to be used as a reference database. Several recent efforts have been made to re-construct genomes from human gut metagenome data, resulting in a huge increase in the number of relevant genomes. In this work, we aimed to create a collection of the most prevalent healthy human gut prokaryotic genomes, to be used as a reference database, including both MAGs from the human gut and ordinary RefSeq genomes.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01114-w)
+
+10.1186/s40168-021-01114-w
+
+---
+
+## Protocol for development of a reporting guideline (TRIPOD-AI) and risk of bias tool (PROBAST-AI) for diagnostic and prognostic prediction model studies based on artificial intelligence.
+ 04.08.2021, _GS Collins, P Dhiman, CL Andaur Navarro, J Ma, L Hooft, JB Reitsma, P Logullo, AL Beam, L Peng, B Van Calster, M van Smeden, RD Riley, KG Moons_
+
+
+_Artificial Intelligence, Bias, Checklist, Humans, Prognosis, Research Design, Risk Assessment_
+The Transparent Reporting of a multivariable prediction model of Individual Prognosis Or Diagnosis (TRIPOD) statement and the Prediction model Risk Of Bias ASsessment Tool (PROBAST) were both published to improve the reporting and critical appraisal of prediction model studies for diagnosis and prognosis. This paper describes the processes and methods that will be used to develop an extension to the TRIPOD statement (TRIPOD-artificial intelligence, AI) and the PROBAST (PROBAST-AI) tool for prediction model studies that applied machine learning techniques.
+
+[Source](https://www.youtube.com/watch?v=HrInkiETiHE)
+
+10.1136/bmjopen-2020-048008
 
 ---
 
@@ -319,18 +333,6 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 ## https://t.co/FlnfJvf6R6
 
 [Source](https://t.co/FlnfJvf6R6)
-
----
-
-## COVID-19 knowledge, attitude and frequent hand hygiene practices among taxi drivers and associated factors in urban areas of Ethiopia.
- 06.08.2021, _T Natnael, M Adane, Y Alemnew, A Andualem, F Hailu_
-
-
-Although several studies have been conducted on COVID-19 knowledge, attitude and prevention practices among healthcare workers and the general population, there has not been any study among taxi drivers in Ethiopia, including Dessie City and Kombolcha Town, the lack of which hinders providing evidence-based interventions to this target group. Thus, this study was designed to contribute to proper planning of COVID-19 intervention measures among taxi drivers in Dessie City and Kombolcha Town, Ethiopia.
-
-[Source](https://twitter.com/svetlana_up/status/1417778643804332035?ref_src=twsrc%5Etfw)
-
-10.1371/journal.pone.0253452
 
 ---
 
