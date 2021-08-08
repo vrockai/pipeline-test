@@ -94,15 +94,27 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction 
+## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction.
+ 07.08.2021, _J Mo, L Gao, N Zhang, J Xie, D Li, T Shan, L Fan_
+
+
+To investigate structural and quantitative alterations of gut microbiota in an experimental model of small bowel obstruction.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255651)
 
+10.1371/journal.pone.0255651
+
 ---
 
-## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle
+## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle.
+ 05.08.2021, _HP Browne, A Almeida, N Kumar, K Vervier, AT Adoum, E Viciani, NJR Dawson, SC Forster, C Cormie, D Goulding, TD Lawley_
+
+
+Human-to-human transmission of symbiotic, anaerobic bacteria is a fundamental evolutionary adaptation essential for membership of the human gut microbiota. However, despite its importance, the genomic and biological adaptations underpinning symbiont transmission remain poorly understood. The Firmicutes are a dominant phylum within the intestinal microbiota that are capable of producing resistant endospores that maintain viability within the environment and germinate within the intestine to facilitate transmission. However, the impact of host transmission on the evolutionary and adaptive processes within the intestinal microbiota remains unknown.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02428-6)
+
+10.1186/s13059-021-02428-6
 
 ---
 
