@@ -22,6 +22,18 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
+## Atmospheric black carbon in urban and traffic areas in Shanghai: Temporal variations, source characteristics, and population exposure.
+ 07.08.2021, _H Jia, J Pan, J Huo, Q Fu, Y Duan, Y Lin, X Hu, J Cheng_
+
+
+Black carbon (BC) measurements were performed at Pudong (PD) urban supersite and Gonghexin (GH) roadside station from December 1, 2017 to August 10, 2020 to investigate the variations, source characteristics, and population exposure levels of BC in traffic and urban areas in Shanghai, China. The BC median concentration at GH was more than two-fold that at PD. Absorption Ångström exponent (AAE) values were 1.27 ± 0.17 and 1.31 ± 0.17 at PD and GH, respectively, suggesting the dominance of liquid fossil fuel combustion sources (i.e., traffic exhaust) at these stations. The higher BC and AAE values in winter at PD indicated the relatively increasing contribution of solid fuels (i.e., biomass burning) to BC concentration in urban Shanghai. The diurnal variation in BC showed similar twin-peak patterns at PD and GH, implying that traffic emission mainly contributed to ambient BC concentration in urban Shanghai. The estimated daily intakes (EDIs) of BC were generally higher in males than in females at both PD and GH. The highest BC EDIs at PD were found in age subgroups 1-&lt;2 and 2-&lt;3 years. In contrast, the BC EDIs at GH were observed in age subgroups 6-&lt;9, 12-&lt;15, and 15-&lt;18 years, which were higher than those determined at PD, indicating that more attention must be paid to BC exposure of the population in these age subgroups. These results provide scientific insights into variations, source characteristics, and population exposure levels of BC in urban and traffic areas and could help in the development of BC control strategies in Shanghai.
+
+[Source](https://twitter.com/guardian/status/1422273692491567104?ref_src=twsrc%5Etfw)
+
+10.1016/j.envpol.2021.117868
+
+---
+
 ## August 2, 2021
 
 [Source](https://twitter.com/guardian/status/1422273692491567104?ref_src=twsrc%5Etfw)
@@ -31,6 +43,19 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 ## <strong>Microbiome Virtual International Forum</strong>
 
 [Source](https://www.microbiome-vif.org/)
+
+---
+
+## Reproducibility of muscle fibre conduction velocity during linearly increasing force contractions.
+ 09.11.2020, _A Casolo, S Nuccio, I Bazzucchi, F Felici, A Del Vecchio_
+
+
+_Adult, Electromyography, Humans, Isometric Contraction, Male, Muscle Fibers, Skeletal, Muscle, Skeletal, Neural Conduction, Reproducibility of Results, Young Adult_
+Muscle fibre conduction velocity (MFCV) is a basic physiological parameter biophysically related to the diameter of muscle fibres and properties of the sarcolemma. The aim of this study was to assess the intersession reproducibility of the relation between voluntary force and estimates of average muscle fibre conduction velocity (MFCV) from multichannel high-density surface electromyographic recordings (HDsEMG). Ten healthy men performed six linearly increasing isometric ankle dorsiflexions on two separate experimental sessions, 4 weeks apart. Each session involved the recordings of voluntary force during maximal isometric (MViF) and submaximal ramp contractions at 35-50-70% of MViF. Concurrently, the HDsEMG activity was detected from the tibialis anterior muscle and MFCV estimates were derived in 250-ms epochs. Absolute and relative reproducibility of MFCV initial value (intercept) and rate of change (regression slope) as a function of force were assessed by within-subject coefficient of correlation (CVw) and with intraclass correlation coefficient (ICC). MFCV was positively correlated with voluntary force (R2 = 0.75 ± 0.12) in all individuals and test conditions (P &lt; 0.001). Average CVw for MFCV intercept and slope were of 2.6 ± 2.0% and 11.9 ± 3.2% and ICC values of 0.96 and 0.94, respectively. Overall, MFCV regression coefficients showed a high degree of intersession reproducibility in both absolute and relative terms. These results may have important practical implications in the tracking of training-induced neuromuscular changes and/or in the monitoring of the progress of neuromuscular disorders when a full sEMG signal decomposition is problematic or not possible.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.jelekin.2020.102439
 
 ---
 
@@ -94,15 +119,27 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction 
+## Structural and quantitative alterations of gut microbiota in experimental small bowel obstruction.
+ 07.08.2021, _J Mo, L Gao, N Zhang, J Xie, D Li, T Shan, L Fan_
+
+
+To investigate structural and quantitative alterations of gut microbiota in an experimental model of small bowel obstruction.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255651)
 
+10.1371/journal.pone.0255651
+
 ---
 
-## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle
+## Host adaptation in gut Firmicutes is associated with sporulation loss and altered transmission cycle.
+ 08.08.2021, _HP Browne, A Almeida, N Kumar, K Vervier, AT Adoum, E Viciani, NJR Dawson, SC Forster, C Cormie, D Goulding, TD Lawley_
+
+
+Human-to-human transmission of symbiotic, anaerobic bacteria is a fundamental evolutionary adaptation essential for membership of the human gut microbiota. However, despite its importance, the genomic and biological adaptations underpinning symbiont transmission remain poorly understood. The Firmicutes are a dominant phylum within the intestinal microbiota that are capable of producing resistant endospores that maintain viability within the environment and germinate within the intestine to facilitate transmission. However, the impact of host transmission on the evolutionary and adaptive processes within the intestinal microbiota remains unknown.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02428-6)
+
+10.1186/s13059-021-02428-6
 
 ---
 
@@ -112,9 +149,15 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women
+## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women.
+ 03.08.2021, _X Hong, J Zhao, X Zhu, Q Dai, H Zhang, Y Xuan, J Yin, Y Zhang, X Yang, S Fang, Q Wang, H Shen, Y Zhang, D Yan, Y Wang, Z Peng, Y Zhang, B Wang, X Ma_
+
+
+To evaluate the association between the vaginal microenvironment and fecundability among women.
 
 [Source](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.16843)
+
+10.1111/1471-0528.16843
 
 ---
 
@@ -232,9 +275,16 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data
+## HumGut: a comprehensive human gut prokaryotic genomes collection filtered by metagenome data.
+ 04.08.2021, _P Hiseni, K Rudi, RC Wilson, FT Hegge, L Snipen_
+
+
+_Gastrointestinal Microbiome, Genome, Human, Humans, Metagenome, Metagenomics_
+A major bottleneck in the use of metagenome sequencing for human gut microbiome studies has been the lack of a comprehensive genome collection to be used as a reference database. Several recent efforts have been made to re-construct genomes from human gut metagenome data, resulting in a huge increase in the number of relevant genomes. In this work, we aimed to create a collection of the most prevalent healthy human gut prokaryotic genomes, to be used as a reference database, including both MAGs from the human gut and ordinary RefSeq genomes.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01114-w)
+
+10.1186/s40168-021-01114-w
 
 ---
 
