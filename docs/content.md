@@ -112,15 +112,9 @@ _Antibodies, Monoclonal, Antibodies, Monoclonal, Humanized, Antibody Specificity
 
 ---
 
-## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women.
- 03.08.2021, _X Hong, J Zhao, X Zhu, Q Dai, H Zhang, Y Xuan, J Yin, Y Zhang, X Yang, S Fang, Q Wang, H Shen, Y Zhang, D Yan, Y Wang, Z Peng, Y Zhang, B Wang, X Ma_
-
-
-To evaluate the association between the vaginal microenvironment and fecundability among women.
+## The association between the vaginal microenvironment and fecundability: a register-based cohort study among Chinese women
 
 [Source](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.16843)
-
-10.1111/1471-0528.16843
 
 ---
 
@@ -268,6 +262,18 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 
 ---
 
+## A meta-analysis of the effect and safety of platinum-based neoadjuvant chemotherapy in treatment of resectable triple-negative breast cancer.
+ 09.08.2021, _W Feng, Y He, J Xu, H Zhang, Y Si, J Xu, S Li_
+
+
+Triple-negative breast cancer (TNBC) is the most aggressive and fatal subtype of breast cancer. The effectiveness of platinum-based neoadjuvant chemotherapy in treatment of cancer has many divergent opinions.
+
+[Source](https://twitter.com/BlackInMicro/status/1422305958127038470?ref_src=twsrc%5Etfw)
+
+10.1097/CAD.0000000000001196
+
+---
+
 ## August 2, 2021
 
 [Source](https://twitter.com/BlackInMicro/status/1422305958127038470?ref_src=twsrc%5Etfw)
@@ -295,18 +301,6 @@ To evaluate the association between the vaginal microenvironment and fecundabili
 ## EMBARK Fall Webinars
 
 [Source](https://antimicrobialresistance.eu/2021/06/30/embark-fall-webinars/)
-
----
-
-## SARS-Cov-2 viral and serological screening of staff in 31 European fertility units.
- 01.06.2021, _SM Nelson, S Ehnert, PS Gromski, T Child, G Trew_
-
-
-What is the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral presence and seroconversion in staff members in European fertility units prior to recommencement of clinical activity?
-
-[Source](https://twitter.com/EMBARK_JPIAMR)
-
-10.1093/hropen/hoaa056
 
 ---
 
