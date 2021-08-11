@@ -70,9 +70,15 @@
 
 ---
 
-## Effects of dietary rosemary extract supplementation on growth performance, nutrient digestibility, antioxidant capacity, intestinal morphology and microbiota of weaning pigs
+## Effects of dietary rosemary extract supplementation on growth performance, nutrient digestibility, antioxidant capacity, intestinal morphology and microbiota of weaning pigs.
+ 09.08.2021, _M Yang, Y Yin, F Wang, X Bao, L Long, B Tan, Y Yin, J Chen_
+
+
+Rosemary (Rosmarinus officinalis L.) extract (RE) has multiple pharmacological and biological activities, including use as a food additive and medicine. This study was conducted to investigate the effects of dietary RE supplementation on the growth performance, nutrient digestibility, antioxidant capacity, intestinal morphology and microbiota of weaning piglets. A total of 192 crossbred weaned piglets [Duroc × (Large White × Landrace)] (initial body weight = 6.65 ± 0.33 kg, weaned days = 23 ± 1 d) were group housed (six pigs per pen; n = 8 pens/treatment). Pigs were fed a corn-soybean meal-based control diet or the basal diet supplemented with 100, 200 or 400 mg/kg RE. Pigs were allowed ad libitum access to fed for 21-d. The growth performance and apparent total tract digestibility of nutrients, and intestinal morphology and antioxidant status were evaluated. The components of the microbial microflora were also determined in the cecal samples. Compared with the control, dietary supplementation with RE increased the final body weight, average daily gain and average daily feed intake (linear, P = 0.038, 0.016, and 0.009, respectively), and decreased the diarrhea ratio in piglets (linear, P &lt; 0.05). The digestibility of crude protein (linear, P = 0.034) and gross energy (linear, P = 0.046) increased with treatment with RE. Piglets fed RE showed longer villus height (linear, P = 0.037 and 0.028, respectively) and villus height/crypt depth (linear, P = 0.004 and 0.012; quadratic, P = 0.023 and 0.036, respectively) in the jejunum and ileum, in addition to a lesser crypt depth in the jejunum (linear, P = 0.019) and ileum (quadratic, P = 0.042). The addition of RE increased the activity of superoxide dismutase (linear, P = 0.035 and 0.008 respectively) and glutathione peroxidase activity (linear, P = 0.027 and 0.039 respectively), and decreased the content of malondialdehyde (linear, P = 0.041 and 0.013; quadratic, P = 0.023 and 0.005 respectively) in the serum and liver. Dietary RE supplementation, compared with the control, increased the number of Bifidobacterium (linear, P = 0.034) and Bacteroidetes (linear, P = 0.029), while decreased Escherichia coli (linear, P = 0.008; quadratic, P = 0.014) in the cecal contents. Thus, dietary RE supplementation can improve growth performance, nutrient digestibility, antioxidant capacity, intestinal morphology and the microbiota in weaned piglets, and 200 mg/kg may be considered the optimum dosage.
 
 [Source](https://academic.oup.com/jas/advance-article-abstract/doi/10.1093/jas/skab237/6346706?)
+
+10.1093/jas/skab237
 
 ---
 
