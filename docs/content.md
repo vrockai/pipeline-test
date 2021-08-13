@@ -76,15 +76,9 @@
 
 ---
 
-## Changes in the gut microbiota: a possible factor influencing peripheral blood immune indexes in non-obese diabetic mice.
- 09.08.2021, _Y Wu, Q You, J Fei, J Wu_
-
-
-Intestinal flora changes were found in patients and animals with type 1 diabetes (T1D). However, few studies have provided any explicit clues of changes in highly disease related commensal microbiota before disease onset and their relationships with disordered peripheral immune cells. We conducted 16S rRNA microbiota analysis of non-obese diabetic (NOD) mice from weaning to diabetes onset to identify highly disease related microbes and performed Spearman correlation analysis between anomalous flora and peripheral immune cells. We found NOD mice had increased exclusive bacteria and decreased community richness or diversity, besides, with the features of decreased abundance of Bacteroidetes and increased abundance of Firmicutes, Proteobacteria or Deferribacteres and remarkable fluctuations of genus relative abundance. Furthermore, kinds of highly T1D related genus and their strong correlations with peripheral immune cells, especially neutrophils, were discovered. Microbial changes in NOD mice differed from that of ICR mice and highly disease associated microbes have strong correlations with the peripheral neutrophil ratio, which provide evidence that neutrophils are possibly involved in the pathogenesis of T1D.
+## Changes in the gut microbiota: a possible factor influencing peripheral blood immune indexes in non-obese diabetic mice
 
 [Source](https://link.springer.com/article/10.1007%2Fs10482-021-01632-5)
-
-10.1007/s10482-021-01632-5
 
 ---
 
@@ -94,15 +88,9 @@ Intestinal flora changes were found in patients and animals with type 1 diabetes
 
 ---
 
-## Fishing for the Virome of Tropical Tuna.
- 10.08.2021, _E Gadoin, C Desnues, S Monteil-Bouchard, T Bouvier, JC Auguet, E Roque d'Orbcastel, Y Bettarel_
-
-
-While planktonic viruses have received much attention in recent decades, knowledge of the virome of marine organisms, especially fish, still remains rudimentary. This is notably the case with tuna, which are among the most consumed fish worldwide and represent considerable economic, social and nutritional value. Yet the composition of the tuna virome and its biological and environmental determinants remain unknown. To begin to address this gap, we investigated the taxonomic diversity of viral communities inhabiting the skin mucus, gut and liver of two major tropical tuna species (skipjack and yellowfin) in individuals fished in the Atlantic and Indian Oceans. While we found significant differences in the virome composition between the organs, this was totally independent of the tuna species or sex. The tuna virome was mainly dominated by eukaryotic viruses in the digestive organs (gut and liver), while bacteriophages were predominant in the mucus. We observed the presence of specific viral families in each organ, some previously identified as fish or human pathogens (e.g., Iridoviridae, Parvoviridae, Alloherpesviridae, Papillomaviridae). Interestingly, we also detected a 'core virome' that was shared by all the organs and was mainly composed of Caudovirales, Microviridae and Circoviridae. These results show that tuna host a mosaic of viral niches, whose establishment, role and circulation remain to be elucidated.
+## Fishing for the Virome of Tropical Tuna
 
 [Source](https://www.mdpi.com/1999-4915/13/7/1291)
-
-10.3390/v13071291
 
 ---
 
