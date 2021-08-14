@@ -64,9 +64,15 @@
 
 ---
 
-## Post-weaning shifts in microbiome composition and metabolism revealed by over 25 000 pig gut metagenome-assembled genomes
+## Post-weaning shifts in microbiome composition and metabolism revealed by over 25 000 pig gut metagenome-assembled genomes.
+ 09.08.2021, _D Gaio, MZ DeMaere, K Anantanawat, TA Chapman, SP Djordjevic, AE Darling_
+
+
+Using a previously described metagenomics dataset of 27 billion reads, we reconstructed over 50 000 metagenome-assembled genomes (MAGs) of organisms resident in the porcine gut, 46.5 % of which were classified as &gt;70 % complete with a &lt;10 % contamination rate, and 24.4 % were nearly complete genomes. Here, we describe the generation and analysis of those MAGs using time-series samples. The gut microbial communities of piglets appear to follow a highly structured developmental programme in the weeks following weaning, and this development is robust to treatments including an intramuscular antibiotic treatment and two probiotic treatments. The high resolution we obtained allowed us to identify specific taxonomic 'signatures' that characterize the gut microbial development immediately after weaning. Additionally, we characterized the carbohydrate repertoire of the organisms resident in the porcine gut. We tracked the abundance shifts of 294 carbohydrate active enzymes, and identified the species and higher-level taxonomic groups carrying each of these enzymes in their MAGs. This knowledge can contribute to the design of probiotics and prebiotic interventions as a means to modify the piglet gut microbiome.
 
 [Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000501)
+
+10.1099/mgen.0.000501
 
 ---
 
@@ -101,7 +107,7 @@ Intestinal flora changes were found in patients and animals with type 1 diabetes
 ---
 
 ## Fishing for the Virome of Tropical Tuna.
- 10.08.2021, _E Gadoin, C Desnues, S Monteil-Bouchard, T Bouvier, JC Auguet, E Roque d'Orbcastel, Y Bettarel_
+ 13.08.2021, _E Gadoin, C Desnues, S Monteil-Bouchard, T Bouvier, JC Auguet, E Roque d'Orbcastel, Y Bettarel_
 
 
 While planktonic viruses have received much attention in recent decades, knowledge of the virome of marine organisms, especially fish, still remains rudimentary. This is notably the case with tuna, which are among the most consumed fish worldwide and represent considerable economic, social and nutritional value. Yet the composition of the tuna virome and its biological and environmental determinants remain unknown. To begin to address this gap, we investigated the taxonomic diversity of viral communities inhabiting the skin mucus, gut and liver of two major tropical tuna species (skipjack and yellowfin) in individuals fished in the Atlantic and Indian Oceans. While we found significant differences in the virome composition between the organs, this was totally independent of the tuna species or sex. The tuna virome was mainly dominated by eukaryotic viruses in the digestive organs (gut and liver), while bacteriophages were predominant in the mucus. We observed the presence of specific viral families in each organ, some previously identified as fish or human pathogens (e.g., Iridoviridae, Parvoviridae, Alloherpesviridae, Papillomaviridae). Interestingly, we also detected a 'core virome' that was shared by all the organs and was mainly composed of Caudovirales, Microviridae and Circoviridae. These results show that tuna host a mosaic of viral niches, whose establishment, role and circulation remain to be elucidated.
