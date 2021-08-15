@@ -76,15 +76,9 @@
 
 ---
 
-## Changes in the gut microbiota: a possible factor influencing peripheral blood immune indexes in non-obese diabetic mice.
- 09.08.2021, _Y Wu, Q You, J Fei, J Wu_
-
-
-Intestinal flora changes were found in patients and animals with type 1 diabetes (T1D). However, few studies have provided any explicit clues of changes in highly disease related commensal microbiota before disease onset and their relationships with disordered peripheral immune cells. We conducted 16S rRNA microbiota analysis of non-obese diabetic (NOD) mice from weaning to diabetes onset to identify highly disease related microbes and performed Spearman correlation analysis between anomalous flora and peripheral immune cells. We found NOD mice had increased exclusive bacteria and decreased community richness or diversity, besides, with the features of decreased abundance of Bacteroidetes and increased abundance of Firmicutes, Proteobacteria or Deferribacteres and remarkable fluctuations of genus relative abundance. Furthermore, kinds of highly T1D related genus and their strong correlations with peripheral immune cells, especially neutrophils, were discovered. Microbial changes in NOD mice differed from that of ICR mice and highly disease associated microbes have strong correlations with the peripheral neutrophil ratio, which provide evidence that neutrophils are possibly involved in the pathogenesis of T1D.
+## Changes in the gut microbiota: a possible factor influencing peripheral blood immune indexes in non-obese diabetic mice
 
 [Source](https://link.springer.com/article/10.1007%2Fs10482-021-01632-5)
-
-10.1007/s10482-021-01632-5
 
 ---
 
