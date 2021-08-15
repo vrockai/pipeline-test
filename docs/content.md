@@ -88,27 +88,15 @@
 
 ---
 
-## Fishing for the Virome of Tropical Tuna.
- 13.08.2021, _E Gadoin, C Desnues, S Monteil-Bouchard, T Bouvier, JC Auguet, E Roque d'Orbcastel, Y Bettarel_
-
-
-While planktonic viruses have received much attention in recent decades, knowledge of the virome of marine organisms, especially fish, still remains rudimentary. This is notably the case with tuna, which are among the most consumed fish worldwide and represent considerable economic, social and nutritional value. Yet the composition of the tuna virome and its biological and environmental determinants remain unknown. To begin to address this gap, we investigated the taxonomic diversity of viral communities inhabiting the skin mucus, gut and liver of two major tropical tuna species (skipjack and yellowfin) in individuals fished in the Atlantic and Indian Oceans. While we found significant differences in the virome composition between the organs, this was totally independent of the tuna species or sex. The tuna virome was mainly dominated by eukaryotic viruses in the digestive organs (gut and liver), while bacteriophages were predominant in the mucus. We observed the presence of specific viral families in each organ, some previously identified as fish or human pathogens (e.g., Iridoviridae, Parvoviridae, Alloherpesviridae, Papillomaviridae). Interestingly, we also detected a 'core virome' that was shared by all the organs and was mainly composed of Caudovirales, Microviridae and Circoviridae. These results show that tuna host a mosaic of viral niches, whose establishment, role and circulation remain to be elucidated.
+## Fishing for the Virome of Tropical Tuna
 
 [Source](https://www.mdpi.com/1999-4915/13/7/1291)
 
-10.3390/v13071291
-
 ---
 
-## Colonization by the Red Imported Fire Ant, Solenopsis invicta, Modifies Soil Bacterial Communities.
- 09.08.2021, _NV Travanty, EL Vargo, CS Apperson, L Ponnusamy_
-
-
-The long-standing association between insects and microorganisms has been especially crucial to the evolutionary and ecological success of social insect groups. Notably, research on the interaction of the two social forms (monogyne and polygyne) of the red imported fire ant (RIFA), Solenopsis invicta Buren, with microbes in its soil habitat is presently limited. In this study, we characterized bacterial microbiomes associated with RIFA nest soils and native (RIFA-negative) soils to better understand the effects of colonization of RIFA on soil microbial communities. Bacterial community fingerprints of 16S rRNA amplicons using denaturing gradient gel electrophoresis revealed significant differences in the structure of the bacterial communities between RIFA-positive and RIFA-negative soils at 0 and 10 cm depths. Illumina sequencing of 16S rRNA amplicons provided fine-scale analysis to test for effects of RIFA colonization, RIFA social form, and soil depth on the composition of the bacterial microbiomes of the soil and RIFA workers. Our results showed the bacterial community structure of RIFA-colonized soils to be significantly different from native soil communities and to evidence elevated abundances of several taxa, including Actinobacteria. Colony social form was not found to be a significant factor in nest or RIFA worker microbiome compositions. RIFA workers and nest soils were determined to have markedly different bacterial communities, with RIFA worker microbiomes being characterized by high abundances of a Bartonella-like endosymbiont and Entomoplasmataceae. Cloning and sequencing of the 16S rRNA gene revealed the Bartonella sp. to be a novel bacterium.
+## Colonization by the Red Imported Fire Ant, Solenopsis invicta, Modifies Soil Bacterial Communities
 
 [Source](https://link.springer.com/article/10.1007%2Fs00248-021-01826-4)
-
-10.1007/s00248-021-01826-4
 
 ---
 
