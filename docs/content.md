@@ -34,39 +34,75 @@
 
 ---
 
-## The link between the gut microbiota and Parkinson’s Disease: A systematic mechanism review with focus on α-synuclein transport
+## The link between the gut microbiota and Parkinson's Disease: A systematic mechanism review with focus on α-synuclein transport.
+ 09.08.2021, _SD Nielsen, NM Pearson, K Seidler_
+
+
+Research has suggested a link between the gut microbiota and Parkinson's Disease (PD), and an early involvement of gastrointestinal dysfunction has been reported in patients. A mechanism review was performed to investigate whether the neurodegenerative cascade begins in the gut; mediated by gut dysbiosis and retrograde transport of α-synuclein. This review provides a summary of microbiome composition associated with PD, and evaluates pathophysiological mechanisms from animal and in vitro models of PD.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0006899321004662)
 
+10.1016/j.brainres.2021.147609
+
 ---
 
-## Gut brain axis: an insight into microbiota role in Parkinson’s disease
+## Gut brain axis: an insight into microbiota role in Parkinson's disease.
+ 09.08.2021, _SA Moustafa, S Mohamed, A Dawood, J Azar, E Elmorsy, NAM Rizk, M Salama_
+
+
+Parkinson's disease (PD) is one of the most common progressive neurodegenerative diseases. It is characterized neuropathologically by the presence of alpha-synuclein containing Lewy Bodies in the substantia nigra of the brain with loss of dopaminergic neurons in the pars compacta of the substantia nigra. The presence of alpha-synuclein aggregates in the substantia nigra and the enteric nervous system (ENS) drew attention to the possibility of a correlation between the gut microbiota and Parkinson's disease. The gut-brain axis is a two-way communication system, which explains how through the vagus nerve, the gut microbiota can affect the central nervous system (CNS), including brain functions related to the ENS, as well as how CNS can alter various gut secretions and immune responses. As a result, this dysbiosis or alteration in gut microbiota can be an early sign of PD with reported changes in short chain fatty acids, bile acids, and lipids. This gave rise to the use of probiotics and faecal microbiota transplantation as alternative approaches to improve the symptoms of patients with PD. The aim of this review is to discuss investigations that have been done to explore the gastrointestinal involvement in Parkinson's disease, the effect of dysbiosis, and potential therapeutic strategies for PD.
 
 [Source](https://link.springer.com/article/10.1007%2Fs11011-021-00808-2)
 
+10.1007/s11011-021-00808-2
+
 ---
 
-## Describing the intestinal microbiota of Holstein Fasciola-positive and -negative cattle from a hyperendemic area of fascioliasis in central Colombia
+## Describing the intestinal microbiota of Holstein Fasciola-positive and -negative cattle from a hyperendemic area of fascioliasis in central Colombia.
+ 09.08.2021, _AL Ramírez, G Herrera, M Muñoz, L Vega, L Cruz-Saavedra, D García-Corredor, M Pulido-Medellín, DM Bulla-Castañeda, JC Giraldo, MC Bernal, J Fernández-Manrique, LR Vásquez-Arteaga, JD Ramírez_
+
+
+The ability to identify compositional changes in the intestinal microbiota of parasitized hosts is important for understanding the physiological processes that may affect animal productivity. Within the field of host-parasite interactions, many studies have suggested that helminths can influence the microbial composition of their hosts via their immunomodulatory effects. Bovine fascioliasis is a helminthiasis widely studied by immunologists, but with little information available regarding gut microbial communities. Thus, we aimed to describe the composition of the intestinal microbiota of Holstein Fasciola-positive and -negative cattle using parasitological methods and ELISA (enzyme-linked immunosorbent assay). Bovine fecal samples (n = 65) were obtained from livestock slaughter plants in the Cundi-Boyacense Colombian highlands (a hyperendemic region for bovine fascioliasis) and studied by amplicon-based next-generation 16S-rRNA and 18S-rRNA gene sequencing. From these samples, 35 were Fasciola hepatica-negative and, 30 were F. hepatica-positive in our detection analysis. Our results showed a reduction in the relative abundance of Bacteroidetes and Ascomycota in the Fasciola-positive samples, along with decreased relative abundances of the commensal taxa previously associated with fermentation and digestion processes. However, metabolomic approaches and functional analyzes of the intestinal microbiota are necessary to support this hypothesis. These findings are a small first step in the development of research aimed at understanding how microbial populations in bovines are modulated in liver helminth infections.
 
 [Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009658)
 
+10.1371/journal.pntd.0009658
+
 ---
 
-## The gut microbiome of healthy Vietnamese adults and children is a major reservoir for resistance genes against critical antimicrobials
+## The gut microbiome of healthy Vietnamese adults and children is a major reservoir for resistance genes against critical antimicrobials.
+ 10.08.2021, _J Pereira-Dias, C Nguyen Ngoc Minh, C Tran Thi Hong, T Nguyen Thi Nguyen, T Ha Thanh, C Zellmer, H Chung The, L Pike, EE Higginson, S Baker_
+
+
+Antimicrobials are a key group of therapeutic agents. Given the animal/human population density and high antimicrobial consumption rate in Southeast Asia, the region is a focal area for monitoring antimicrobial resistance (AMR). Hypothesizing that the gastrointestinal tract of healthy individuals in Vietnam is a major source of AMR genes that may be transferred to pathogens, we performed shotgun metagenomic sequencing on fecal samples from 42 healthy Vietnamese people (21 children and 21 adults). We compared their microbiome profiles by age group and determined the composition of AMR genes. An analysis of the taxonomic profiles in the gut microbiome showed a clear differentiation by age, with young children (age &lt;2 years) exhibiting a unique structure in comparison to adults and older children. We identified a total of 132 unique AMR genes, with MLS class resistance genes (ermB and lnuC) and tetracycline resistance genes being the almost ubiquitous across the study population. Notably, samples from younger children were significantly associated with a greater number of AMR genes than other age groups, including key signature genes associated with AMR pathogens (e.g., blaCTX-M, mphA). Our data suggest that the gut microbiome of those living in Vietnam, particularly young children, is a substantial reservoir of AMR genes, which can be transferred to circulating enteric pathogens. Our data supports the generation of longitudinal cohort studies of those living in urban and rural areas of developing countries to understand the behavior of these AMR reservoirs and their role in generating MDR and XDR pathogens.
 
 [Source](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiab398/6347305)
 
+10.1093/infdis/jiab398
+
 ---
 
-## Characteristics of gut microbiota in people with obesity
+## Characteristics of gut microbiota in people with obesity.
+ 13.08.2021, _M Duan, Y Wang, Q Zhang, R Zou, M Guo, H Zheng_
+
+
+Obesity is the cause of cardiovascular diseases and other diseases, leading to increased medical costs, and causing a great burden to individuals, families and society. The prevalence of obesity is increasing and has become a global health problem. There is growing evidence that gut microbiota plays an important role in obesity. In this article, we revealed the differences in the gut microbiota between 21 people with obesity and 21 control subjects, and predicted the functional potential changes by 16S rRNA sequencing of the fecal bacteria of the subjects.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255446)
 
+10.1371/journal.pone.0255446
+
 ---
 
-## Post-weaning shifts in microbiome composition and metabolism revealed by over 25 000 pig gut metagenome-assembled genomes
+## Post-weaning shifts in microbiome composition and metabolism revealed by over 25 000 pig gut metagenome-assembled genomes.
+ 09.08.2021, _D Gaio, MZ DeMaere, K Anantanawat, TA Chapman, SP Djordjevic, AE Darling_
+
+
+Using a previously described metagenomics dataset of 27 billion reads, we reconstructed over 50 000 metagenome-assembled genomes (MAGs) of organisms resident in the porcine gut, 46.5 % of which were classified as &gt;70 % complete with a &lt;10 % contamination rate, and 24.4 % were nearly complete genomes. Here, we describe the generation and analysis of those MAGs using time-series samples. The gut microbial communities of piglets appear to follow a highly structured developmental programme in the weeks following weaning, and this development is robust to treatments including an intramuscular antibiotic treatment and two probiotic treatments. The high resolution we obtained allowed us to identify specific taxonomic 'signatures' that characterize the gut microbial development immediately after weaning. Additionally, we characterized the carbohydrate repertoire of the organisms resident in the porcine gut. We tracked the abundance shifts of 294 carbohydrate active enzymes, and identified the species and higher-level taxonomic groups carrying each of these enzymes in their MAGs. This knowledge can contribute to the design of probiotics and prebiotic interventions as a means to modify the piglet gut microbiome.
 
 [Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000501)
+
+10.1099/mgen.0.000501
 
 ---
 
