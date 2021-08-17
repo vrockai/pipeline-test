@@ -316,33 +316,9 @@ Though small intestinal bacterial overgrowth (SIBO) is known in inflammatory bow
 
 ---
 
-## Impaired skeletal muscle hypertrophy signaling and amino acid deprivation response in Apoe knockout mice with an unhealthy lipoprotein distribution.
- 16.08.2021, _J Agergaard, MCF Zillmer, JL Castro-Mejía, K Mertz, W Kot, G Højfeldt, G van Hall, DS Nielsen, P Schjerling, L Holm_
-
-
-This study explores if unhealthy lipoprotein distribution (LPD) impairs the anabolic and amino acid sensing responses to whey-protein feeding. Thus, if impairment of such anabolic response to protein consumption is seen by the LPD this may negatively affect the skeletal muscle mass. Muscle protein synthesis (MPS) was measured by puromycin labeling in Apolipoprotein E knockout (Apoe KO), characterized by an unhealthy LPD, and wild type mice post-absorptive at 10 and 20 weeks, and post-prandial after whey-protein feeding at 20 weeks. Hypertrophy signaling and amino acid sensing mechanisms were studied and gut microbiome diversity explored. Surprisingly, whey-protein feeding did not affect MPS. p-mTOR and p-4E-BP1 was increased 2 h after whey-protein feeding in both genotypes, but with general lower levels in Apoe KO compared to wild type. At 20 weeks of age, Apoe KO had a greater mRNA-expression for SNAT2, CD98, ATF4 and GCN2 compared to wild type. These responses were not associated with gut microbiota compositional differences. Regardless of LPD status, MPS was similar in Apoe KO and wild type. Surprisingly, whey-protein did not stimulate MPS. However, Apoe KO had lower levels of hypertrophy signaling, was amino acid deprived, and had impaired amino acid sensing mechanisms.
-
-[Source](https://doi.org/10.1038/s41598-021-96000-8)
-
-10.1038/s41598-021-96000-8
-
----
-
 ## Impaired Skeletal Muscle Hypertrophy Signaling And Amino Acid Deprivation Response In ApoE Knockout Mice With An Unhealthy Lipoprotein Distribution
 
 [Source](https://doi.org/10.1038/s41598-021-96000-8)
-
----
-
-## Effect of black ginseng and silkworm supplementation on obesity, the transcriptome, and the gut microbiome of diet-induced overweight dogs.
- 15.08.2021, _M Park, KH Kim, V Jaiswal, J Choi, JL Chun, KM Seo, MJ Lee, HJ Lee_
-
-
-Like humans, weight control in overweight dogs is associated with a longer life expectancy and a healthier life. Dietary supplements are one of the best strategies for controlling obesity and obesity-associated diseases. This study was conducted to assess the potential of black ginseng (BG) and silkworm (SW) as supplements for weight control in diet-induced overweight beagle dogs. To investigate the changes that occur in dogs administered the supplements, different obesity-related parameters, such as body condition score (BCS), blood fatty acid profile, transcriptome, and microbiome, were assessed in high energy diet (HD) and HD with BG + SW supplementation (HDT) groups of test animals. After 12 weeks of BG + SW supplementation, total cholesterol and triglyceride levels were reduced in the HDT group. In the transcriptome analysis, nine genes (NUGGC, EFR3B, RTP4, ACAN, HOXC4, IL17RB, SOX13, SLC18A2, and SOX4) that are known to be associated with obesity were found to be differentially expressed between the ND (normal diet) and HD groups as well as the HD and HDT groups. Significant changes in some taxa were observed between the HD and ND groups. These data suggest that the BG + SW supplement could be developed as dietary interventions against diet-induced obesity, and obesity-related differential genes could be important candidates in the mechanism of the anti-obesity effects of the BG + SW supplement.
-
-[Source](https://doi.org/10.1038/s41598-021-95789-8)
-
-10.1038/s41598-021-95789-8
 
 ---
 
