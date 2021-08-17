@@ -442,7 +442,7 @@ Ribosome profiling enables sequencing of ribosome-bound fragments of RNA, reveal
 
 Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon (SPAN) promises improved electrochemical performance for lithium-sulfur batteries, based on its compatibility with carbonate solvents and ability to prevent self-discharge and shuttle effect. However, a complete understanding of the SPAN's lithiation mechanism is still missing because its structural features vary widely with synthesis conditions, and its electrochemical performance deviates from elemental sulfur. This study continues our research on the elucidation of the SPAN's structural characteristics and lithiation mechanisms via computational approaches. Our models reproduce most experimental data regarding carbon's graphitization level and conjugated ordering, sulfur-carbon covalent bonding, sulfur loading, and elemental composition. Our simulations emulate the discharge voltage observed in experiments for the first discharge, which reveals that sulfur follows multiple reduction pathways based on its interaction with the carbon backbone. Sulfur reduction takes place above 1.0 V vs Li/Li+ mostly in the SPAN-like material, with no long-chain lithium polysulfide formation. Below 1.0 V vs Li/Li+, the backbone's electrochemical activity occurs via multiple C-Li and N-Li interactions, mostly with edge carbon atoms and pyridinic nitrogen. Moreover, we identify Li+ binding sites throughout the graphitized backbone that might lead to prohibited energy costs for Li+ deintercalation, which may explain the irreversible capacity loss between the first and second discharges. This work improves understanding of lithiation mechanisms in sulfurized carbon, which is useful for rationally designing SPAN synthesis pathways tailored to increase sulfur loading and enhanced electrochemical performance.
 
-[Source](https://microbiomedigest.com/2021/08/15/august-15-2021/?like_comment=28209&_wpnonce=dcd3c76a31)
+[Source](https://microbiomedigest.com/2021/08/15/august-15-2021/?like_comment=28209&_wpnonce=9e8f24bc36)
 
 10.1021/acsami.0c17537
 
@@ -450,7 +450,7 @@ Like no other sulfur host material, polyacrylonitrile-derived sulfurized carbon 
 
 ## <span>Like</span>
 
-[Source](https://microbiomedigest.com/2021/08/15/august-15-2021/?like_comment=28209&_wpnonce=dcd3c76a31)
+[Source](https://microbiomedigest.com/2021/08/15/august-15-2021/?like_comment=28209&_wpnonce=9e8f24bc36)
 
 ---
 
