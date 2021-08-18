@@ -1,30 +1,73 @@
-## No evidence of human genome integration of SARS-CoV-2 found by long-read DNA sequencing.
- 13.08.2021, _N Smits, J Rasmussen, GO Bodea, AA Amarilla, P Gerdes, FJ Sanchez-Luque, P Ajjikuttira, N Modhiran, B Liang, J Faivre, IW Deveson, AA Khromykh, D Watterson, AD Ewing, GJ Faulkner_
+## Induction of interferon response by high viral loads at early stage infection may protect against severe outcomes in COVID-19 patients.
+ 12.08.2021, _EC Rouchka, JH Chariker, B Alejandro, RS Adcock, R Singhal, J Ramirez, KE Palmer, AB Lasnik, R Carrico, FW Arnold, S Furmanek, M Zhang, LA Wolf, S Waigel, W Zacharias, J Bordon, D Chung_
 
 
-A recent study proposed that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) hijacks the LINE-1 (L1) retrotransposition machinery to integrate into the DNA of infected cells. If confirmed, this finding could have significant clinical implications. Here, we apply deep (&gt;50×) long-read Oxford Nanopore Technologies (ONT) sequencing to HEK293T cells infected with SARS-CoV-2 and do not find the virus integrated into the genome. By examining ONT data from separate HEK293T cultivars, we completely resolve 78 L1 insertions arising in vitro in the absence of L1 overexpression systems. ONT sequencing applied to hepatitis B virus (HBV)-positive liver cancer tissues located a single HBV insertion. These experiments demonstrate reliable resolution of retrotransposon and exogenous virus insertions by ONT sequencing. That we find no evidence of SARS-CoV-2 integration suggests that such events are, at most, extremely rare in vivo and therefore are unlikely to drive oncogenesis or explain post-recovery detection of the virus.
+_Adult, Aged, COVID-19, Dysbiosis, Female, Humans, Interferons, Male, Metagenomics, Microbiota, Middle Aged, Nasopharynx, RNA, Viral, Real-Time Polymerase Chain Reaction, Respiratory System, SARS-CoV-2, Severity of Illness Index, Transcriptome, Up-Regulation, Viral Load_
+Key elements for viral pathogenesis include viral strains, viral load, co-infection, and host responses. Several studies analyzing these factors in the function of disease severity of have been published; however, no studies have shown how all of these factors interplay within a defined cohort. To address this important question, we sought to understand how these four key components interplay in a cohort of COVID-19 patients. We determined the viral loads and gene expression using high throughput sequencing and various virological methods. We found that viral loads in the upper respiratory tract in COVID-19 patients at an early phase of infection vary widely. While the majority of nasopharyngeal (NP) samples have a viral load lower than the limit of detection of infectious viruses, there are samples with an extraordinary amount of SARS-CoV-2 RNA and a high viral titer. No specific viral factors were identified that are associated with high viral loads. Host gene expression analysis showed that viral loads were strongly correlated with cellular antiviral responses. Interestingly, however, COVID-19 patients who experience mild symptoms have a higher viral load than those with severe complications, indicating that naso-pharyngeal viral load may not be a key factor of the clinical outcomes of COVID-19. The metagenomics analysis revealed that the microflora in the upper respiratory tract of COVID-19 patients with high viral loads were dominated by SARS-CoV-2, with a high degree of dysbiosis. Finally, we found a strong inverse correlation between upregulation of interferon responses and disease severity. Overall our study suggests that a high viral load in the upper respiratory tract may not be a critical factor for severe symptoms; rather, dampened antiviral responses may be a critical factor for a severe outcome from the infection.
 
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00961-X)
+[Source](https://www.mdpi.com/journal/cells/special_issues/Microbiome_Cells)
 
-10.1016/j.celrep.2021.109530
-
----
-
-## Ultrapotent antibodies against diverse and highly transmissible SARS-CoV-2 variants.
- 13.08.2021, _L Wang, T Zhou, Y Zhang, ES Yang, CA Schramm, W Shi, A Pegu, OK Oloniniyi, AR Henry, S Darko, SR Narpala, C Hatcher, DR Martinez, Y Tsybovsky, E Phung, OM Abiona, A Antia, EM Cale, LA Chang, M Choe, KS Corbett, RL Davis, AT DiPiazza, IJ Gordon, SH Hait, T Hermanus, P Kgagudi, F Laboune, K Leung, T Liu, RD Mason, AF Nazzari, L Novik, S O'Connell, S O'Dell, AS Olia, SD Schmidt, T Stephens, CD Stringham, CA Talana, IT Teng, DA Wagner, AT Widge, B Zhang, M Roederer, JE Ledgerwood, TJ Ruckwardt, MR Gaudinski, PL Moore, NA Doria-Rose, RS Baric, BS Graham, AB McDermott, DC Douek, PD Kwong, JR Mascola, NJ Sullivan, J Misasi_
-
-
-The emergence of highly transmissible SARS-CoV-2 variants of concern (VOCs) that are resistant to therapeutic antibodies highlights the need for continuing discovery of broadly reactive antibodies. We identified four receptor binding domain-targeting antibodies from three early-outbreak convalescent donors with potent neutralizing activity against 23 variants, including the B.1.1.7, B.1.351, P.1, B.1.429, B.1.526, and B.1.617 VOCs. Two antibodies are ultrapotent, with subnanomolar neutralization titers [half-maximal inhibitory concentration (IC50) 0.3 to 11.1 nanograms per milliliter; IC80 1.5 to 34.5 nanograms per milliliter). We define the structural and functional determinants of binding for all four VOC-targeting antibodies and show that combinations of two antibodies decrease the in vitro generation of escape mutants, suggesting their potential in mitigating resistance development.
-
-[Source](https://science.sciencemag.org/content/373/6556/eabh1766)
-
-10.1126/science.abh1766
+10.1038/s41598-021-95197-y
 
 ---
 
-## Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection
+## “Interplay of Gene Expression Regulation and Microbiome”
 
-[Source](https://www.medrxiv.org/content/10.1101/2021.07.30.21261234v1)
+[Source](https://www.mdpi.com/journal/cells/special_issues/Microbiome_Cells)
+
+---
+
+## The Cancer Microbiome: Recent Highlights and Knowledge Gaps.
+ 17.08.2021, _RJ Knippel, JL Drewes, CL Sears_
+
+
+knowledge of the human microbiome, which is likely a critical factor in the initiation, progression, and prognosis of multiple forms of cancer, is rapidly expanding. In this review, we focus on recent investigations to discern putative, causative microbial species and the microbiome composition and structure currently associated with procarcinogenesis and tumorigenesis at select body sites. We specifically highlight forms of cancer, gastrointestinal and nongastrointestinal, that have significant bacterial associations and well-defined experimental evidence with the aim of generating directions for future experimental and translational investigations to develop a clearer understanding of the multifaceted mechanisms by which microbiota affect cancer formation. SIGNIFICANCE: Emerging and, for some cancers, strong experimental and translational data support the contribution of the microbiome to cancer biology and disease progression. Disrupting microbiome features and pathways contributing to cancer may provide new approaches to improving cancer outcomes in patients.
+
+[Source](https://cancerdiscovery.aacrjournals.org/content/early/2021/08/14/2159-8290.CD-21-0324)
+
+10.1158/2159-8290.CD-21-0324
+
+---
+
+## Local vibration therapy increases oxygen re-saturation rate and maintains muscle strength following exercise-induced muscle damage.
+ 17.08.2021, _S Percival, DT Sims, GK Stebbings_
+
+
+Exercise induced muscle damage (EIMD) is associated with transient reductions in strength and athletic performance. Studies conclude aetiology is due in part to muscle micro vascular damage and disruption of blood flow. Previous research on vibration therapy reports modulation in muscle blood flow, oxygenation and strength.
+
+[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
+
+10.4085/1062-6050-0064.21
+
+---
+
+## Healthy Patients Are Not the Best Controls for Microbiome-Based Clinical Studies: Example of Sjögren’s Syndrome in a Systematic Review
+
+[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
+
+---
+
+## The varying effects of antibiotics on gut microbiota.
+ 17.08.2021, _L Yang, O Bajinka, PO Jarju, Y Tan, AM Taal, G Ozdemir_
+
+
+Antibiotics are lifesaving therapeutic drugs that have been used by human for decades. They are used both in the fight against bacterial pathogens for both human and for animal feeding. However, of recent, their effects on the gut microbial compositions and diversities have attracted much attention. Existing literature have established the dysbiosis (reduced diversity) in the gut microbiota in association with antibiotic and antibiotic drug doses. In the light of spelling out the varying effects of antibiotic use on gut microbiota, this review aimed at given an account on the degree of gut microbial alteration caused by common antibiotics. While some common antibiotics are found to destroy the common phyla, other debilitating effects were observed. The effects can be attributed to the mode of mechanism, the class of antibiotic, the degree of resistance of the antibiotic used, the dosage used during the treatment, the route of administration, the pharmacokinetic and pharmacodynamics properties and the spectrum of the antibiotic agent. Health status, stress or the type of diet an individual feeds on could be a great proportion as confounding factors. While it is understood that only the bacterial communities are explored in the quest to establishing the role of gut in health, other gut microbial species are somehow contributing to the dysbiosis status of the gut microbiota. Until now, long term natural fluctuations like diseases outbreaks and mutations of the strain might as well rendered alteration to the gut independent of antibiotic treatments.
+
+[Source](https://amb-express.springeropen.com/articles/10.1186/s13568-021-01274-w)
+
+10.1186/s13568-021-01274-w
+
+---
+
+## Prevotella diversity, niches and interactions with the human host.
+ 12.08.2021, _A Tett, E Pasolli, G Masetti, D Ercolini, N Segata_
+
+
+The genus Prevotella includes more than 50 characterized species that occur in varied natural habitats, although most Prevotella spp. are associated with humans. In the human microbiome, Prevotella spp. are highly abundant in various body sites, where they are key players in the balance between health and disease. Host factors related to diet, lifestyle and geography are fundamental in affecting the diversity and prevalence of Prevotella species and strains in the human microbiome. These factors, along with the ecological relationship of Prevotella with other members of the microbiome, likely determine the extent of the contribution of Prevotella to human metabolism and health. Here we review the diversity, prevalence and potential connection of Prevotella spp. in the human host, highlighting how genomic methods and analysis have improved and should further help in framing their ecological role. We also provide suggestions for future research to improve understanding of the possible functions of Prevotella spp. and the effects of the Western lifestyle and diet on the host-Prevotella symbiotic relationship in the context of maintaining human health.
+
+[Source](https://www.nature.com/articles/s41579-021-00559-y)
+
+10.1038/s41579-021-00559-y
 
 ---
 
@@ -40,99 +83,93 @@ Humans spend the bulk of their time in indoor environments. This space is shared
 
 ---
 
-## Acute SARS-CoV-2 infection is associated with an expansion of bacteria pathogens in the nose including Pseudomonas Aeruginosa.
- 25.05.2021, _NS Rhoades, A Pinski, AN Monsibais, A Jankeel, BM Doratt, IR Cinco, I Ibraim, I Messaoudi_
+## Long-term biodiversity intervention shapes health-associated commensal microbiota among urban day-care children
 
-
-Much of the research conducted on SARS-CoV-2 and COVID-19 has focused on the systemic host response, especially that generated by severely ill patients. Very few studies have investigated the impact of acute SARS-CoV-2 within the nasopharynx, the site of initial infection and viral replication. In this study we profiled changes in the nasal microbial communities as well as in host transcriptional profile during acute SARS-CoV-2 infection using 16S amplicon sequencing and RNA sequencing. These analyses were coupled to viral genome sequencing. Our microbiome analysis revealed that the nasal microbiome of COVID patients was unique and was marked by an expansion of bacterial pathogens. Some of these microbes (i.e. Acinetobacter ) were shared with COVID negative health care providers from the same medical center but absent in COVID negative outpatients seeking care at the same institutions suggesting acquisition of nosocomial respiratory pathogens. Specifically, we report a distinct increase in the prevalence and abundance of the pathogen Pseudomonas aeruginosa in COVID patients that correlated with viral RNA load. These data suggest that the inflammatory environment caused by SARS-CoV-2 infection and potentially exposure to the hospital environment leads to an expansion of bacterial pathogens in the nasal cavity that could contribute to increased incidence of secondary bacterial infections. Additionally, we observed a robust host transcriptional response in the nasal epithelia of COVID patients, indicative of an antiviral innate immune repones and neuronal damage. Finally, analysis of viral genomes did not reveal an association between viral loads and viral sequences.
-
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01080-9)
-
-10.1101/2021.05.20.445008
+[Source](https://www.sciencedirect.com/science/article/pii/S0160412021004360)
 
 ---
 
-## Acute SARS-CoV-2 infection is associated with an increased abundance of bacterial pathogens, including Pseudomonas aeruginosa in the nose
+## Different responses of the oral, nasal and lung microbiomes to cigarette smoke
 
-[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01080-9)
-
----
-
-## Meta-analysis of Clinical Microbiome Studies in Urolithiasis Reveal Age, Stone Composition, and Study Location as the Predominant Factors in Urolithiasis-Associated Microbiome Composition.
- 10.08.2021, _N Kachroo, D Lange, KL Penniston, J Stern, G Tasian, P Bajic, AJ Wolfe, M Suryavanshi, A Ticinesi, T Meschi, M Monga, AW Miller_
-
-
-To determine whether functionally relevant questions associated with the urinary or gut microbiome and urinary stone disease (USD) can be answered from metagenome-wide association studies (MWAS), we performed the most comprehensive meta-analysis of published clinical MWAS in USD to date, using publicly available data published prior to April 2021. Six relevant studies met inclusion criteria. For alpha-diversity, significant differences were noted between USD status, stone composition, sample type, study location, age, diet, and sex. For beta-diversity, significant differences were noted by USD status, stone composition, sample type, study location, antibiotic use (30 days and 12 months before sampling), sex, hypertension, water intake, body habitus, and age. Prevotella and Lactobacillus in the gut and urinary tract, respectively, were associated with healthy individuals, while Enterobacteriaceae was associated with USD in the urine and stones. Paradoxically, other Prevotella strains were also strongly associated with USD in the gut microbiome. When data were analyzed together, USD status, stone composition, age group, and study location were the predominant factors associated with microbiome composition. Meta-analysis showed significant microbiome differences based on USD status, stone composition, age group or study location. However, analyses were limited by a lack of public data from published studies, metadata collected, and differing study protocols. Results highlight the need for field-specific standardization of experimental protocols in terms of sample collection procedures and the anatomical niches to assess, as well as in defining clinically relevant metadata and subphenotypes such as stone composition. IMPORTANCE Studies focused on the microbiome broadly support the hypothesis that the microbiome influences the onset of chronic diseases such as urinary stone disease. However, it is unclear what environmental factors shape the microbiome in ways that increase the risk for chronic disease. In addition, it is unclear how differences in study methodology can impact the results of clinical metagenome-wide association studies. In the current meta-analysis, we show that age, stone composition, and study location are the predominant factors that associate with the microbiome and USD status. Furthermore, we reveal differences in results based on specific analytical protocols, which impacts the interpretation of any microbiome study.
-
-[Source](https://journals.asm.org/doi/10.1128/mBio.02007-21)
-
-10.1128/mBio.02007-21
+[Source](https://thorax.bmj.com/content/early/2021/08/13/thoraxjnl-2020-216153)
 
 ---
 
-## The fecal microbiome and rotavirus vaccine immunogenicity in rural Zimbabwean infants
+## The power and potential of BIOMAP to elucidate host-microbiome interplay in skin inflammatory diseases
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0264410X21009816)
-
----
-
-## Gut microbiome ADP-ribosyltransferases are widespread phage-encoded fitness factors
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00344-9)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/exd.14446)
 
 ---
 
-## Maternal γδ T Cells Shape Offspring Pulmonary Type-2 Immunity In A Microbiota-Dependent Manner
+## Bacterial DNA on the skin surface overrepresents the viable skin microbiome
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.08.13.456265v1)
-
----
-
-## Functional strain redundancy and persistent phage infection in Swiss hard cheese starter cultures
-
-[Source](https://www.nature.com/articles/s41396-021-01071-0)
+[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.455933v1.abstract)
 
 ---
 
-## Ecogenomics and Adaptation Strategies of Southern Ocean Viral Communities
+## The role of oral bacteria in inflammatory bowel disease
 
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00396-21)
-
----
-
-## Bog ecosystems as a playground for plant–microbe coevolution: bryophytes and vascular plants harbour functionally adapted bacteria
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01117-7)
+[Source](https://www.nature.com/articles/s41575-021-00488-4)
 
 ---
 
-## HoPhage: an ab initio tool for identifying hosts of phage fragments from metaviromes
+## Inflammation-type dysbiosis of the oral microbiome associates with the duration of COVID-19 symptoms and long-COVID
 
-[Source](https://academic.oup.com/bioinformatics/advance-articles)
-
----
-
-## Sparse least trimmed squares regression with compositional covariates for high dimensional data.
-
-[Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab572/6343442)
+[Source](https://insight.jci.org/articles/view/152346)
 
 ---
 
-## Ribovore: ribosomal RNA sequence analysis for GenBank submissions and database curation
+## Phage Diversity in the Human Gut Microbiome: a Taxonomist’s Perspective
 
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04316-z)
-
----
-
-## Daily energy expenditure through the human life course
-
-[Source](https://science.sciencemag.org/content/373/6556/808)
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00799-21)
 
 ---
 
-## Analysis of scientific society honors reveals disparities
+## IL-10 Deficiency Accelerates Type 1 Diabetes Development via Modulation of Innate and Adaptive Immune Cells and Gut Microbiota in BDC2.5 NOD Mice
 
-[Source](https://www.cell.com/cell-systems/fulltext/S2405-4712(21)00285-4)
+[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.702955/full)
+
+---
+
+## Genetically determined hypertensive phenotype affects gut microbiota composition, but not vice versa
+
+[Source](https://journals.lww.com/jhypertension/Abstract/2021/09000/Genetically_determined_hypertensive_phenotype.7.aspx)
+
+---
+
+## Plant developmental stage drives the differentiation in ecological role of the maize microbiome
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01118-6)
+
+---
+
+## ZWA: Viral genome assembly and characterization hindrances from virus-host chimeric reads; a refining approach.
+ 09.08.2021, _N Dovrolis, K Kassela, K Konstantinidis, A Kouvela, S Veletza, I Karakasiliotis_
+
+
+Viral metagenomics, also known as virome studies, have yielded an unprecedented number of novel sequences, essential in recognizing and characterizing the etiological agent and the origin of emerging infectious diseases. Several tools and pipelines have been developed, to date, for the identification and assembly of viral genomes. Assembly pipelines often result in viral genomes contaminated with host genetic material, some of which are currently deposited into public databases. In the current report, we present a group of deposited sequences that encompass ribosomal RNA (rRNA) contamination. We highlight the detrimental role of chimeric next generation sequencing reads, between host rRNA sequences and viral sequences, in virus genome assembly and we present the hindrances these reads may pose to current methodologies. We have further developed a refining pipeline, the Zero Waste Algorithm (ZWA) that assists in the assembly of low abundance viral genomes. ZWA performs context-depended trimming of chimeric reads, precisely removing their rRNA moiety. These, otherwise discarded, reads were fed to the assembly pipeline and assisted in the construction of larger and cleaner contigs making a substantial impact on current assembly methodologies. ZWA pipeline may significantly enhance virus genome assembly from low abundance samples and virus metagenomics approaches in which a small number of reads determine genome quality and integrity.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009304)
+
+10.1371/journal.pcbi.1009304
+
+---
+
+## SemiBin: Incorporating information from reference genomes with semi-supervised deep learning leads to better metagenomic assembled genomes (MAGs)
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.456517v1)
+
+---
+
+## Network analysis of ten thousand genomes shed light on Pseudomonas diversity and classification
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.456539v1.abstract)
+
+---
+
+## The clinical utility of two high-throughput 16S rRNA gene sequencing workflows for taxonomic assignment of unidentifiable bacterial pathogens in MALDI-TOF MS
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.456588v1.abstract)
 
 ---
 
