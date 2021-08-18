@@ -29,7 +29,7 @@ The emergence of highly transmissible SARS-CoV-2 variants of concern (VOCs) that
 ---
 
 ## Bacterial colonization dynamics and antibiotic resistance gene dissemination in the hospital environment after first patient occupancy: a longitudinal metagenetic study.
- 12.08.2021, _TE Klassert, R Leistner, C Zubiria-Barrera, M Stock, M López, R Neubert, D Driesch, P Gastmeier, H Slevogt_
+ 17.08.2021, _TE Klassert, R Leistner, C Zubiria-Barrera, M Stock, M López, R Neubert, D Driesch, P Gastmeier, H Slevogt_
 
 
 Humans spend the bulk of their time in indoor environments. This space is shared with an indoor ecosystem of microorganisms, which are in continuous exchange with the human inhabitants. In the particular case of hospitals, the environmental microorganisms may influence patient recovery and outcome. An understanding of the bacterial community structure in the hospital environment is pivotal for the prevention of hospital-acquired infections and the dissemination of antibiotic resistance genes. In this study, we performed a longitudinal metagenetic approach in a newly opened ward at the Charité Hospital (Berlin) to characterize the dynamics of the bacterial colonization process in the hospital environment after first patient occupancy.
@@ -100,52 +100,27 @@ To determine whether functionally relevant questions associated with the urinary
 
 ---
 
-## Bog ecosystems as a playground for plant-microbe coevolution: bryophytes and vascular plants harbour functionally adapted bacteria.
- 12.08.2021, _WA Wicaksono, T Cernava, C Berg, G Berg_
-
-
-Bogs are unique ecosystems inhabited by distinctive, coevolved assemblages of organisms, which play a global role for carbon storage, climate stability, water quality and biodiversity. To understand ecology and plant-microbe co-occurrence in bogs, we selected 12 representative species of bryophytes and vascular plants and subjected them to a shotgun metagenomic sequencing approach. We explored specific plant-microbe associations as well as functional implications of the respective communities on their host plants and the bog ecosystem.
+## Bog ecosystems as a playground for plant–microbe coevolution: bryophytes and vascular plants harbour functionally adapted bacteria
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01117-7)
 
-10.1186/s40168-021-01117-7
-
 ---
 
-## HoPhage: an ab initio tool for identifying hosts of phage fragments from metaviromes.
- 12.08.2021, _J Tan, Z Fang, S Wu, Q Guo, X Jiang, H Zhu_
-
-
-We present HoPhage (Host of Phage) to identify the host of a given phage fragment from metavirome data at the genus level. HoPhage integrates two modules using a deep learning algorithm and a Markov chain model, respectively. HoPhage achieves 47.90% and 82.47% mean accuracy at the genus and phylum levels for ∼1 kb-long artificial phage fragments when predicting host among 50 genera, representing 7.54%-20.22% and 13.55%-24.31% improvement, respectively. By testing on three real virome samples, HoPhage yields 81.11% mean accuracy at the genus level within a much broader candidate host range.
+## HoPhage: an ab initio tool for identifying hosts of phage fragments from metaviromes
 
 [Source](https://academic.oup.com/bioinformatics/advance-articles)
-
-10.1093/bioinformatics/btab585
 
 ---
 
 ## Sparse least trimmed squares regression with compositional covariates for high dimensional data.
- 06.08.2021, _GS Monti, P Filzmoser_
-
-
-High-throughput sequencing technologies generate a huge amount of data, permitting the quantification of microbiome compositions. The obtained data are essentially sparse compositional data vectors, namely vectors of bacterial gene proportions which compose the microbiome. Subsequently, the need for statistical and computational methods that consider the special nature of microbiome data has increased. A critical aspect in microbiome research is to identify microbes associated with a clinical outcome. Another crucial aspect with high-dimensional data is the detection of outlying observations, whose presence affects seriously the prediction accuracy.
 
 [Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab572/6343442)
 
-10.1093/bioinformatics/btab572
-
 ---
 
-## Ribovore: ribosomal RNA sequence analysis for GenBank submissions and database curation.
- 16.08.2021, _AA Schäffer, R McVeigh, B Robbertse, CL Schoch, A Johnston, BA Underwood, I Karsch-Mizrachi, EP Nawrocki_
-
-
-_DNA, Ribosomal, Databases, Nucleic Acid, Phylogeny, RNA, Ribosomal, RNA, Ribosomal, 16S, RNA, Ribosomal, 18S, Sequence Analysis, RNA_
-The DNA sequences encoding ribosomal RNA genes (rRNAs) are commonly used as markers to identify species, including in metagenomics samples that may combine many organismal communities. The 16S small subunit ribosomal RNA (SSU rRNA) gene is typically used to identify bacterial and archaeal species. The nuclear 18S SSU rRNA gene, and 28S large subunit (LSU) rRNA gene have been used as DNA barcodes and for phylogenetic studies in different eukaryote taxonomic groups. Because of their popularity, the National Center for Biotechnology Information (NCBI) receives a disproportionate number of rRNA sequence submissions and BLAST queries. These sequences vary in quality, length, origin (nuclear, mitochondria, plastid), and organism source and can represent any region of the ribosomal cistron.
+## Ribovore: ribosomal RNA sequence analysis for GenBank submissions and database curation
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04316-z)
-
-10.1186/s12859-021-04316-z
 
 ---
 
