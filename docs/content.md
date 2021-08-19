@@ -1,13 +1,12 @@
-## Induction of interferon response by high viral loads at early stage infection may protect against severe outcomes in COVID-19 patients.
- 12.08.2021, _EC Rouchka, JH Chariker, B Alejandro, RS Adcock, R Singhal, J Ramirez, KE Palmer, AB Lasnik, R Carrico, FW Arnold, S Furmanek, M Zhang, LA Wolf, S Waigel, W Zacharias, J Bordon, D Chung_
+## Modulating host gene expression via gut microbiome-microRNA interplay to treat human diseases.
+ 18.08.2021, _D Mody, V Verma, V Rani_
 
 
-_Adult, Aged, COVID-19, Dysbiosis, Female, Humans, Interferons, Male, Metagenomics, Microbiota, Middle Aged, Nasopharynx, RNA, Viral, Real-Time Polymerase Chain Reaction, Respiratory System, SARS-CoV-2, Severity of Illness Index, Transcriptome, Up-Regulation, Viral Load_
-Key elements for viral pathogenesis include viral strains, viral load, co-infection, and host responses. Several studies analyzing these factors in the function of disease severity of have been published; however, no studies have shown how all of these factors interplay within a defined cohort. To address this important question, we sought to understand how these four key components interplay in a cohort of COVID-19 patients. We determined the viral loads and gene expression using high throughput sequencing and various virological methods. We found that viral loads in the upper respiratory tract in COVID-19 patients at an early phase of infection vary widely. While the majority of nasopharyngeal (NP) samples have a viral load lower than the limit of detection of infectious viruses, there are samples with an extraordinary amount of SARS-CoV-2 RNA and a high viral titer. No specific viral factors were identified that are associated with high viral loads. Host gene expression analysis showed that viral loads were strongly correlated with cellular antiviral responses. Interestingly, however, COVID-19 patients who experience mild symptoms have a higher viral load than those with severe complications, indicating that naso-pharyngeal viral load may not be a key factor of the clinical outcomes of COVID-19. The metagenomics analysis revealed that the microflora in the upper respiratory tract of COVID-19 patients with high viral loads were dominated by SARS-CoV-2, with a high degree of dysbiosis. Finally, we found a strong inverse correlation between upregulation of interferon responses and disease severity. Overall our study suggests that a high viral load in the upper respiratory tract may not be a critical factor for severe symptoms; rather, dampened antiviral responses may be a critical factor for a severe outcome from the infection.
+The human gastrointestinal (GI) tract hosts trillions of microbial inhabitants involved in maintaining intestinal homeostasis, dysbiosis of which provokes a motley of pathogenic and autoimmune disorders. While the mechanisms by which the microbiota modulates human health are manifold, their liberated metabolites from ingested dietary supplements play a crucial role by bidirectionally regulating the expression of micro-ribonucleic acids (miRNAs). miRNAs are small endogenous non-coding RNAs (ncRNAs) that have been confirmed to be involved in an interplay with microbiota to regulate host gene expression. This comprehensive review focuses on key principles of miRNAs, their regulation, and crosstalk with gut microbiota to influence host gene expression in various human disorders, by bringing together important recent findings centric around miRNA-microbiota interactions in diseases along various axis of the gut with other organs. We also attempt to lay emphasis on exploiting the avenues of gut-directed miRNA therapeutics using rudimentary dietary supplements to regulate abnormal host gene expression in diseases, opening doors to an accessible and economical therapeutic strategy.
 
 [Source](https://www.mdpi.com/journal/cells/special_issues/Microbiome_Cells)
 
-10.1038/s41598-021-95197-y
+10.1080/1040841X.2021.1907739
 
 ---
 
@@ -29,15 +28,15 @@ knowledge of the human microbiome, which is likely a critical factor in the init
 
 ---
 
-## Local vibration therapy increases oxygen re-saturation rate and maintains muscle strength following exercise-induced muscle damage.
- 17.08.2021, _S Percival, DT Sims, GK Stebbings_
+## Prolonged fasting induced hyperketosis, hypoglycaemia and impaired fat oxidation in child and adult patients with spinal muscular atrophy type II.
+ 18.08.2021, _MC Ørngreen, AG Andersen, AS Eisum, EJ Hald, DE Raaschou-Pedersen, N Løkken, CE Høi-Hansen, J Vissing, AP Born, G van Hall_
 
 
-Exercise induced muscle damage (EIMD) is associated with transient reductions in strength and athletic performance. Studies conclude aetiology is due in part to muscle micro vascular damage and disruption of blood flow. Previous research on vibration therapy reports modulation in muscle blood flow, oxygenation and strength.
+This study explored hypoglycaemia and metabolic crises, including hyperketosis, in patients with spinal muscular atrophy (SMA).
 
 [Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
 
-10.4085/1062-6050-0064.21
+10.1111/apa.16074
 
 ---
 
