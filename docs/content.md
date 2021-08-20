@@ -112,9 +112,15 @@ knowledge of the human microbiome, which is likely a critical factor in the init
 
 ---
 
-## ZWA: Viral genome assembly and characterization hindrances from virus-host chimeric reads; a refining approach
+## ZWA: Viral genome assembly and characterization hindrances from virus-host chimeric reads; a refining approach.
+ 19.08.2021, _N Dovrolis, K Kassela, K Konstantinidis, A Kouvela, S Veletza, I Karakasiliotis_
+
+
+Viral metagenomics, also known as virome studies, have yielded an unprecedented number of novel sequences, essential in recognizing and characterizing the etiological agent and the origin of emerging infectious diseases. Several tools and pipelines have been developed, to date, for the identification and assembly of viral genomes. Assembly pipelines often result in viral genomes contaminated with host genetic material, some of which are currently deposited into public databases. In the current report, we present a group of deposited sequences that encompass ribosomal RNA (rRNA) contamination. We highlight the detrimental role of chimeric next generation sequencing reads, between host rRNA sequences and viral sequences, in virus genome assembly and we present the hindrances these reads may pose to current methodologies. We have further developed a refining pipeline, the Zero Waste Algorithm (ZWA) that assists in the assembly of low abundance viral genomes. ZWA performs context-depended trimming of chimeric reads, precisely removing their rRNA moiety. These, otherwise discarded, reads were fed to the assembly pipeline and assisted in the construction of larger and cleaner contigs making a substantial impact on current assembly methodologies. ZWA pipeline may significantly enhance virus genome assembly from low abundance samples and virus metagenomics approaches in which a small number of reads determine genome quality and integrity.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009304)
+
+10.1371/journal.pcbi.1009304
 
 ---
 
