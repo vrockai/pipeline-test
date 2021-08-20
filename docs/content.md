@@ -106,9 +106,15 @@ knowledge of the human microbiome, which is likely a critical factor in the init
 
 ---
 
-## Plant developmental stage drives the differentiation in ecological role of the maize microbiome
+## Plant developmental stage drives the differentiation in ecological role of the maize microbiome.
+ 18.08.2021, _C Xiong, BK Singh, JZ He, YL Han, PP Li, LH Wan, GZ Meng, SY Liu, JT Wang, CF Wu, AH Ge, LM Zhang_
+
+
+Plants live with diverse microbial communities which profoundly affect multiple facets of host performance, but if and how host development impacts the assembly, functions and microbial interactions of crop microbiomes are poorly understood. Here we examined both bacterial and fungal communities across soils, epiphytic and endophytic niches of leaf and root, and plastic leaf of fake plant (representing environment-originating microbes) at three developmental stages of maize at two contrasting sites, and further explored the potential function of phylloplane microbiomes based on metagenomics.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01118-6)
+
+10.1186/s40168-021-01118-6
 
 ---
 
