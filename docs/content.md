@@ -28,27 +28,57 @@ knowledge of the human microbiome, which is likely a critical factor in the init
 
 ---
 
+## Comparison of hemodynamic stress in healthy vessels after parent artery occlusion and flow diverter stent treatment for internal carotid artery aneurysm.
+ 20.08.2021, _T Tsukada, T Izumi, H Isoda, M Nishihori, AE Kropp, T Mizuno, T Wakabayashi_
+
+
+De novo aneurysms generally develop in healthy vessels after parent artery occlusion for large internal carotid artery (ICA) aneurysm, possibly owing to increased hemodynamic stress in the remaining vessels. In recent years, there has been a shift toward flow diverter stent treatment. However, there is a lack of direct evidence and data that prove this change in hemodynamic stress in healthy vessels after parent artery occlusion and flow diverter stent treatment. The authors compared hemodynamic stress in healthy-side vessels before and after parent artery occlusion and flow diverter treatments.
+
+[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
+
+10.3171/2021.2.JNS204185
+
+---
+
 ## Healthy Patients Are Not the Best Controls for Microbiome-Based Clinical Studies: Example of Sjögren’s Syndrome in a Systematic Review
 
 [Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
 
 ---
 
-## The varying effects of antibiotics on gut microbiota
+## The varying effects of antibiotics on gut microbiota.
+ 17.08.2021, _L Yang, O Bajinka, PO Jarju, Y Tan, AM Taal, G Ozdemir_
+
+
+Antibiotics are lifesaving therapeutic drugs that have been used by human for decades. They are used both in the fight against bacterial pathogens for both human and for animal feeding. However, of recent, their effects on the gut microbial compositions and diversities have attracted much attention. Existing literature have established the dysbiosis (reduced diversity) in the gut microbiota in association with antibiotic and antibiotic drug doses. In the light of spelling out the varying effects of antibiotic use on gut microbiota, this review aimed at given an account on the degree of gut microbial alteration caused by common antibiotics. While some common antibiotics are found to destroy the common phyla, other debilitating effects were observed. The effects can be attributed to the mode of mechanism, the class of antibiotic, the degree of resistance of the antibiotic used, the dosage used during the treatment, the route of administration, the pharmacokinetic and pharmacodynamics properties and the spectrum of the antibiotic agent. Health status, stress or the type of diet an individual feeds on could be a great proportion as confounding factors. While it is understood that only the bacterial communities are explored in the quest to establishing the role of gut in health, other gut microbial species are somehow contributing to the dysbiosis status of the gut microbiota. Until now, long term natural fluctuations like diseases outbreaks and mutations of the strain might as well rendered alteration to the gut independent of antibiotic treatments.
 
 [Source](https://amb-express.springeropen.com/articles/10.1186/s13568-021-01274-w)
 
+10.1186/s13568-021-01274-w
+
 ---
 
-## Prevotella diversity, niches and interactions with the human host
+## Prevotella diversity, niches and interactions with the human host.
+ 12.08.2021, _A Tett, E Pasolli, G Masetti, D Ercolini, N Segata_
+
+
+The genus Prevotella includes more than 50 characterized species that occur in varied natural habitats, although most Prevotella spp. are associated with humans. In the human microbiome, Prevotella spp. are highly abundant in various body sites, where they are key players in the balance between health and disease. Host factors related to diet, lifestyle and geography are fundamental in affecting the diversity and prevalence of Prevotella species and strains in the human microbiome. These factors, along with the ecological relationship of Prevotella with other members of the microbiome, likely determine the extent of the contribution of Prevotella to human metabolism and health. Here we review the diversity, prevalence and potential connection of Prevotella spp. in the human host, highlighting how genomic methods and analysis have improved and should further help in framing their ecological role. We also provide suggestions for future research to improve understanding of the possible functions of Prevotella spp. and the effects of the Western lifestyle and diet on the host-Prevotella symbiotic relationship in the context of maintaining human health.
 
 [Source](https://www.nature.com/articles/s41579-021-00559-y)
 
+10.1038/s41579-021-00559-y
+
 ---
 
-## Bacterial colonization dynamics and antibiotic resistance gene dissemination in the hospital environment after first patient occupancy: a longitudinal metagenetic study
+## Bacterial colonization dynamics and antibiotic resistance gene dissemination in the hospital environment after first patient occupancy: a longitudinal metagenetic study.
+ 17.08.2021, _TE Klassert, R Leistner, C Zubiria-Barrera, M Stock, M López, R Neubert, D Driesch, P Gastmeier, H Slevogt_
+
+
+Humans spend the bulk of their time in indoor environments. This space is shared with an indoor ecosystem of microorganisms, which are in continuous exchange with the human inhabitants. In the particular case of hospitals, the environmental microorganisms may influence patient recovery and outcome. An understanding of the bacterial community structure in the hospital environment is pivotal for the prevention of hospital-acquired infections and the dissemination of antibiotic resistance genes. In this study, we performed a longitudinal metagenetic approach in a newly opened ward at the Charité Hospital (Berlin) to characterize the dynamics of the bacterial colonization process in the hospital environment after first patient occupancy.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01109-7)
+
+10.1186/s40168-021-01109-7
 
 ---
 
@@ -106,27 +136,15 @@ knowledge of the human microbiome, which is likely a critical factor in the init
 
 ---
 
-## Plant developmental stage drives the differentiation in ecological role of the maize microbiome.
- 18.08.2021, _C Xiong, BK Singh, JZ He, YL Han, PP Li, LH Wan, GZ Meng, SY Liu, JT Wang, CF Wu, AH Ge, LM Zhang_
-
-
-Plants live with diverse microbial communities which profoundly affect multiple facets of host performance, but if and how host development impacts the assembly, functions and microbial interactions of crop microbiomes are poorly understood. Here we examined both bacterial and fungal communities across soils, epiphytic and endophytic niches of leaf and root, and plastic leaf of fake plant (representing environment-originating microbes) at three developmental stages of maize at two contrasting sites, and further explored the potential function of phylloplane microbiomes based on metagenomics.
+## Plant developmental stage drives the differentiation in ecological role of the maize microbiome
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01118-6)
 
-10.1186/s40168-021-01118-6
-
 ---
 
-## ZWA: Viral genome assembly and characterization hindrances from virus-host chimeric reads; a refining approach.
- 20.08.2021, _N Dovrolis, K Kassela, K Konstantinidis, A Kouvela, S Veletza, I Karakasiliotis_
-
-
-Viral metagenomics, also known as virome studies, have yielded an unprecedented number of novel sequences, essential in recognizing and characterizing the etiological agent and the origin of emerging infectious diseases. Several tools and pipelines have been developed, to date, for the identification and assembly of viral genomes. Assembly pipelines often result in viral genomes contaminated with host genetic material, some of which are currently deposited into public databases. In the current report, we present a group of deposited sequences that encompass ribosomal RNA (rRNA) contamination. We highlight the detrimental role of chimeric next generation sequencing reads, between host rRNA sequences and viral sequences, in virus genome assembly and we present the hindrances these reads may pose to current methodologies. We have further developed a refining pipeline, the Zero Waste Algorithm (ZWA) that assists in the assembly of low abundance viral genomes. ZWA performs context-depended trimming of chimeric reads, precisely removing their rRNA moiety. These, otherwise discarded, reads were fed to the assembly pipeline and assisted in the construction of larger and cleaner contigs making a substantial impact on current assembly methodologies. ZWA pipeline may significantly enhance virus genome assembly from low abundance samples and virus metagenomics approaches in which a small number of reads determine genome quality and integrity.
+## ZWA: Viral genome assembly and characterization hindrances from virus-host chimeric reads; a refining approach
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009304)
-
-10.1371/journal.pcbi.1009304
 
 ---
 
