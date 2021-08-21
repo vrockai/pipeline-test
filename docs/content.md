@@ -1,168 +1,162 @@
-## Modulating host gene expression via gut microbiome-microRNA interplay to treat human diseases.
- 18.08.2021, _D Mody, V Verma, V Rani_
+## A genomic perspective across Earth’s microbiomes reveals that genome size in Archaea and Bacteria is linked to ecosystem type and trophic strategy
 
-
-The human gastrointestinal (GI) tract hosts trillions of microbial inhabitants involved in maintaining intestinal homeostasis, dysbiosis of which provokes a motley of pathogenic and autoimmune disorders. While the mechanisms by which the microbiota modulates human health are manifold, their liberated metabolites from ingested dietary supplements play a crucial role by bidirectionally regulating the expression of micro-ribonucleic acids (miRNAs). miRNAs are small endogenous non-coding RNAs (ncRNAs) that have been confirmed to be involved in an interplay with microbiota to regulate host gene expression. This comprehensive review focuses on key principles of miRNAs, their regulation, and crosstalk with gut microbiota to influence host gene expression in various human disorders, by bringing together important recent findings centric around miRNA-microbiota interactions in diseases along various axis of the gut with other organs. We also attempt to lay emphasis on exploiting the avenues of gut-directed miRNA therapeutics using rudimentary dietary supplements to regulate abnormal host gene expression in diseases, opening doors to an accessible and economical therapeutic strategy.
-
-[Source](https://www.mdpi.com/journal/cells/special_issues/Microbiome_Cells)
-
-10.1080/1040841X.2021.1907739
+[Source](https://doi.org/10.1101/2021.01.18.427069)
 
 ---
 
-## “Interplay of Gene Expression Regulation and Microbiome”
-
-[Source](https://www.mdpi.com/journal/cells/special_issues/Microbiome_Cells)
-
----
-
-## The Cancer Microbiome: Recent Highlights and Knowledge Gaps.
- 17.08.2021, _RJ Knippel, JL Drewes, CL Sears_
+## Host-Microbe Metagenomics: a Lens To Refocus Our Perspective on Infectious and Inflammatory Diseases.
+ 17.08.2021, _KL Kalantar, CR Langelier_
 
 
-knowledge of the human microbiome, which is likely a critical factor in the initiation, progression, and prognosis of multiple forms of cancer, is rapidly expanding. In this review, we focus on recent investigations to discern putative, causative microbial species and the microbiome composition and structure currently associated with procarcinogenesis and tumorigenesis at select body sites. We specifically highlight forms of cancer, gastrointestinal and nongastrointestinal, that have significant bacterial associations and well-defined experimental evidence with the aim of generating directions for future experimental and translational investigations to develop a clearer understanding of the multifaceted mechanisms by which microbiota affect cancer formation. SIGNIFICANCE: Emerging and, for some cancers, strong experimental and translational data support the contribution of the microbiome to cancer biology and disease progression. Disrupting microbiome features and pathways contributing to cancer may provide new approaches to improving cancer outcomes in patients.
+A dynamic relationship involving pathogen, host immune response, and microbiome characterizes the biological framework of many infectious and inflammatory diseases. Combined host/microbe metagenomics (mNGS) enables simultaneous assessment of all three features, enabling the study and diagnosis of diverse infectious and inflammatory processes ranging from pneumonia to sepsis to inflammatory diseases such as rheumatoid arthritis. Host/microbe mNGS holds promise for new mechanistic insights, diagnostic approaches, and precision medicine interventions.
 
-[Source](https://cancerdiscovery.aacrjournals.org/content/early/2021/08/14/2159-8290.CD-21-0324)
+[Source](https://doi.org/10.1128/mSystems.00404-21)
 
-10.1158/2159-8290.CD-21-0324
+10.1128/mSystems.00404-21
 
 ---
 
-## Comparison of hemodynamic stress in healthy vessels after parent artery occlusion and flow diverter stent treatment for internal carotid artery aneurysm.
- 20.08.2021, _T Tsukada, T Izumi, H Isoda, M Nishihori, AE Kropp, T Mizuno, T Wakabayashi_
+## Host-Microbe Metagenomics: a Lens To Refocus Our Perspective
 
-
-De novo aneurysms generally develop in healthy vessels after parent artery occlusion for large internal carotid artery (ICA) aneurysm, possibly owing to increased hemodynamic stress in the remaining vessels. In recent years, there has been a shift toward flow diverter stent treatment. However, there is a lack of direct evidence and data that prove this change in hemodynamic stress in healthy vessels after parent artery occlusion and flow diverter stent treatment. The authors compared hemodynamic stress in healthy-side vessels before and after parent artery occlusion and flow diverter treatments.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
-
-10.3171/2021.2.JNS204185
+[Source](https://doi.org/10.1128/mSystems.00404-21)
 
 ---
 
-## Healthy Patients Are Not the Best Controls for Microbiome-Based Clinical Studies: Example of Sjögren’s Syndrome in a Systematic Review
+## Rectal bacteriome and virome signatures and clinical outcomes in community-acquired pneumonia: An exploratory study
 
-[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.699011/full)
-
----
-
-## The varying effects of antibiotics on gut microbiota.
- 17.08.2021, _L Yang, O Bajinka, PO Jarju, Y Tan, AM Taal, G Ozdemir_
-
-
-Antibiotics are lifesaving therapeutic drugs that have been used by human for decades. They are used both in the fight against bacterial pathogens for both human and for animal feeding. However, of recent, their effects on the gut microbial compositions and diversities have attracted much attention. Existing literature have established the dysbiosis (reduced diversity) in the gut microbiota in association with antibiotic and antibiotic drug doses. In the light of spelling out the varying effects of antibiotic use on gut microbiota, this review aimed at given an account on the degree of gut microbial alteration caused by common antibiotics. While some common antibiotics are found to destroy the common phyla, other debilitating effects were observed. The effects can be attributed to the mode of mechanism, the class of antibiotic, the degree of resistance of the antibiotic used, the dosage used during the treatment, the route of administration, the pharmacokinetic and pharmacodynamics properties and the spectrum of the antibiotic agent. Health status, stress or the type of diet an individual feeds on could be a great proportion as confounding factors. While it is understood that only the bacterial communities are explored in the quest to establishing the role of gut in health, other gut microbial species are somehow contributing to the dysbiosis status of the gut microbiota. Until now, long term natural fluctuations like diseases outbreaks and mutations of the strain might as well rendered alteration to the gut independent of antibiotic treatments.
-
-[Source](https://amb-express.springeropen.com/articles/10.1186/s13568-021-01274-w)
-
-10.1186/s13568-021-01274-w
+[Source](https://doi.org/10.1016/j.eclinm.2021.101074)
 
 ---
 
-## Prevotella diversity, niches and interactions with the human host.
- 12.08.2021, _A Tett, E Pasolli, G Masetti, D Ercolini, N Segata_
+## The important role of fungi in inflammatory bowel diseases.
+ 16.08.2021, _S Wang, YR Zhang, YB Yu_
 
 
-The genus Prevotella includes more than 50 characterized species that occur in varied natural habitats, although most Prevotella spp. are associated with humans. In the human microbiome, Prevotella spp. are highly abundant in various body sites, where they are key players in the balance between health and disease. Host factors related to diet, lifestyle and geography are fundamental in affecting the diversity and prevalence of Prevotella species and strains in the human microbiome. These factors, along with the ecological relationship of Prevotella with other members of the microbiome, likely determine the extent of the contribution of Prevotella to human metabolism and health. Here we review the diversity, prevalence and potential connection of Prevotella spp. in the human host, highlighting how genomic methods and analysis have improved and should further help in framing their ecological role. We also provide suggestions for future research to improve understanding of the possible functions of Prevotella spp. and the effects of the Western lifestyle and diet on the host-Prevotella symbiotic relationship in the context of maintaining human health.
+Inflammatory bowel disease (IBD) is a life-threatening and chronic inflammatory disease of gastrointestinal tissue, with complex pathogenesis. Current research on IBD has mainly focused on bacteria; however, the role of fungi in IBD is largely unknown due to the incomplete annotation of fungi in current genomic databases. With the development of molecular techniques, the gut mycobiome has been found to have great diversity. In addition, increasing evidence has shown intestinal mycobiome plays an important role in the physiological and pathological processes of IBD. In this review, we will systemically introduce the recent knowledge about multi-dimensional fungal dysbiosis associated with IBD, the interactions between fungus and bacteria, the role of fungi in inflammation in IBD, and highlight recent advances in the potential therapeutic role of fungus in IBD, which may hold the keys to develop new predictive, therapeutic or prognostic approaches in IBD.
 
-[Source](https://www.nature.com/articles/s41579-021-00559-y)
+[Source](https://doi.org/10.1080/00365521.2021.1963838)
 
-10.1038/s41579-021-00559-y
-
----
-
-## Bacterial colonization dynamics and antibiotic resistance gene dissemination in the hospital environment after first patient occupancy: a longitudinal metagenetic study.
- 17.08.2021, _TE Klassert, R Leistner, C Zubiria-Barrera, M Stock, M López, R Neubert, D Driesch, P Gastmeier, H Slevogt_
-
-
-Humans spend the bulk of their time in indoor environments. This space is shared with an indoor ecosystem of microorganisms, which are in continuous exchange with the human inhabitants. In the particular case of hospitals, the environmental microorganisms may influence patient recovery and outcome. An understanding of the bacterial community structure in the hospital environment is pivotal for the prevention of hospital-acquired infections and the dissemination of antibiotic resistance genes. In this study, we performed a longitudinal metagenetic approach in a newly opened ward at the Charité Hospital (Berlin) to characterize the dynamics of the bacterial colonization process in the hospital environment after first patient occupancy.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01109-7)
-
-10.1186/s40168-021-01109-7
+10.1080/00365521.2021.1963838
 
 ---
 
-## Long-term biodiversity intervention shapes health-associated commensal microbiota among urban day-care children
+## A bacterial genome and culture collection of gut microbial in weanling piglet
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0160412021004360)
-
----
-
-## Different responses of the oral, nasal and lung microbiomes to cigarette smoke
-
-[Source](https://thorax.bmj.com/content/early/2021/08/13/thoraxjnl-2020-216153)
+[Source](https://doi.org/10.1101/2021.08.18.456900)
 
 ---
 
-## The power and potential of BIOMAP to elucidate host-microbiome interplay in skin inflammatory diseases
+## Characterization of the fecal microbiota of sows and their offspring from German commercial pig farms.
+ 19.08.2021, _A Lührmann, K Ovadenko, J Hellmich, C Sudendey, V Belik, J Zentek, W Vahjen_
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/exd.14446)
 
----
+Strategies to combat microbiota-associated health problems are of high interest in pig production. Successful intervention strategies with beneficial long-term effects are still missing. Most studies on pig microbiota have been conducted under standardized experimental conditions, but the situation in commercial farms differs dramatically. This study describes the fecal microbiota in German commercial pig farms under practical conditions. The study is part of the larger project "Optibiom" that aims to use bacterial composition and farm metadata to formulate tailor-made solutions for farm-specific health maintenance strategies. Special consideration is given to the sow-piglet relationship. Fecal samples from sows and their piglets were collected at two time points each in 20 different farms (sows ante- and postpartum and piglets before and after weaning). The extracted DNA was sequenced with Illumina 16S rDNA sequencing. For data analysis and visualization, differential abundance analyses, as well as hierarchical clustering and nonmetric multidimensional scaling (NMDS) were performed. A new "family unit" was implemented to compare farms based on the association between the microbiota in sows and their offspring. There are distinct changes in the microbial communities in sows before and after birth as well as in suckling and post-weaning piglets. The suckling pig microbiota is particularly different from all other groups and shows a lower bacterial diversity. While dominant genera in antepartum sows further displace the abundance of non-dominant genera postpartum, the opposite was true for piglets, where non-dominant bacteria in the suckling phase became dominant after weaning. The family unit for sows and their piglets led to separate cluster formation for some farms. The results indicate that the sow-piglet relationship is one driving force for the observed differences of the pig farms. The next step in the analysis will be the combination of metadata (feeding, housing and management practices) to find farm-specific differences that can be exploited to formulate a farm-specific health maintenance strategy.
 
-## Bacterial DNA on the skin surface overrepresents the viable skin microbiome
+[Source](https://doi.org/10.1371/journal.pone.0256112)
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.455933v1.abstract)
-
----
-
-## The role of oral bacteria in inflammatory bowel disease
-
-[Source](https://www.nature.com/articles/s41575-021-00488-4)
+10.1371/journal.pone.0256112
 
 ---
 
-## Inflammation-type dysbiosis of the oral microbiome associates with the duration of COVID-19 symptoms and long-COVID
+## Plant Growth-Promoting Rhizobacteria HN6 Induced the Change and Reorganization of Fusarium Microflora in the Rhizosphere of Banana Seedlings to Construct a Healthy Banana Microflora.
+ 07.08.2021, _D Yang, L Wang, T Wang, Y Zhang, S Zhang, Y Luo_
 
-[Source](https://insight.jci.org/articles/view/152346)
 
----
+Streptomyces aureoverticillatus HN6 was isolated in our previous study and effectively controlled banana Fusarium wilt. We explored the role of HN6 in constructing a healthy rhizosphere microflora of banana seedlings. The method of antibiotic resistance was used to determine the colonization ability of HN6. The effect of HN6 on the rhizosphere microbial communities was assessed using culture-dependent and high-throughput sequencing. The effect of HN6 on the infection process of the pathogen was evaluated using a pot experiment and confocal laser scanning microscopy. The results showed that HN6 could prevent pathogen infection; it increased the nutrient content and diversity of the bacterial community in the rhizosphere, promoted plant growth, and decreased the mycotoxin fusaric acid content and abundance of pathogens in the banana rhizosphere. Thus, HN6 decreased the relative abundance of Fusarium species, increased the diversity of fungi, and increased the relative abundance of bacteria in the rhizosphere. HN6 induced the change and reorganization of the microbial community dominated by Fusarium in the rhizosphere of banana seedlings, and it evolved into a community dominated that was not conducive to the occurrence of diseases, shaping the rhizosphere microflora and promoting the growth of banana.
 
-## Phage Diversity in the Human Gut Microbiome: a Taxonomist’s Perspective
+[Source](https://doi.org/10.1101/2021.08.18.456889)
 
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00799-21)
-
----
-
-## IL-10 Deficiency Accelerates Type 1 Diabetes Development via Modulation of Innate and Adaptive Immune Cells and Gut Microbiota in BDC2.5 NOD Mice
-
-[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.702955/full)
+10.3389/fmicb.2021.685408
 
 ---
 
-## Genetically determined hypertensive phenotype affects gut microbiota composition, but not vice versa
+## Does plant diversity determine the diversity of the rhizosphere microbial community?
 
-[Source](https://journals.lww.com/jhypertension/Abstract/2021/09000/Genetically_determined_hypertensive_phenotype.7.aspx)
-
----
-
-## Plant developmental stage drives the differentiation in ecological role of the maize microbiome
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01118-6)
+[Source](https://doi.org/10.1101/2021.08.18.456889)
 
 ---
 
-## ZWA: Viral genome assembly and characterization hindrances from virus-host chimeric reads; a refining approach
+## <span style="color:#ff6600;">Playing with FiRE: A genome resolved view of the soil microbiome responses to high severity forest wildfire</span>
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009304)
-
----
-
-## SemiBin: Incorporating information from reference genomes with semi-supervised deep learning leads to better metagenomic assembled genomes (MAGs)
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.456517v1)
+[Source](https://doi.org/10.1101/2021.08.17.456416)
 
 ---
 
-## Network analysis of ten thousand genomes shed light on Pseudomonas diversity and classification
+## Peatland microbial community responses to plant functional group and drought are depth-dependent.
+ 17.08.2021, _LJ Lamit, KJ Romanowicz, LR Potvin, JT Lennon, SG Tringe, RA Chimner, RK Kolka, ES Kane, EA Lilleskov_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.456539v1.abstract)
+
+Peatlands store one-third of Earth's soil carbon, the stability of which is uncertain due to climate change-driven shifts in hydrology and vegetation, and consequent impacts on microbial communities that mediate decomposition. Peatland carbon cycling varies over steep physicochemical gradients characterizing vertical peat profiles. However, it is unclear how drought-mediated changes in plant functional groups (PFGs) and water table (WT) levels affect microbial communities at different depths. We combined a multi-year mesocosm experiment with community sequencing across a 70 cm depth gradient, to test the hypotheses that vascular PFGs (Ericaceae vs. sedges) and WT (high vs. low) structure peatland microbial communities in depth-dependent ways. Several key results emerged. 1) Both fungal and prokaryote (bacteria and archaea) community structure shifted with WT and PFG manipulation, but fungi were much more sensitive to PFG whereas prokaryotes were much more sensitive to WT. 2) PFG effects were largely driven by Ericaceae, although sedge effects were evident in specific cases (e.g., methanotrophs). 3) Treatment effects varied with depth: the influence of PFG was strongest in shallow peat (0-10, 10-20 cm), whereas WT effects were strongest at the surface and middle depths (0-10, 30-40 cm), and all treatment effects waned in the deepest peat (60-70 cm). Our results underscore the depth-dependent and taxon-specific ways that plant communities and hydrologic variability shape peatland microbial communities, pointing to the importance of understanding how these factors integrate across soil profiles when examining peatland responses to climate change.
+
+[Source](https://doi.org/10.1111/mec.16125)
+
+10.1111/mec.16125
 
 ---
 
-## The clinical utility of two high-throughput 16S rRNA gene sequencing workflows for taxonomic assignment of unidentifiable bacterial pathogens in MALDI-TOF MS
+## Soil pH determines bacterial distribution and assembly processes in natural mountain forests of eastern China
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.08.16.456588v1.abstract)
+[Source](https://doi.org/10.1111/geb.13373)
+
+---
+
+## The OceanDNA MAG catalog contains over 50,000 prokaryotic genomes originated from various marine environments
+
+[Source](https://doi.org/10.1101/2021.08.18.456858)
+
+---
+
+## Mixed culture metagenomics of the microbes making sour beer
+
+[Source](https://doi.org/10.1101/2021.07.21.453094)
+
+---
+
+## Insights into the nutritional properties and microbiome diversity in sweet and sour yogurt manufactured in Bangladesh
+
+[Source](https://doi.org/10.1101/2021.08.15.456382)
+
+---
+
+## Microbial communities in retail draft beers and the biofilms they produce
+
+[Source](https://doi.org/10.1101/2021.08.18.456920)
+
+---
+
+## MMDIT: A tool for the deconvolution and interpretation of mitochondrial DNA mixtures.
+ 20.08.2021, _SN Mandape, U Smart, JL King, M Muenzler, KB Kapema, B Budowle, AE Woerner_
+
+
+Short tandem repeats of the nuclear genome have been the preferred markers for analyzing forensic DNA mixtures. However, when nuclear DNA in a sample is degraded or limited, mitochondrial DNA (mtDNA) markers provide a powerful alternative. Though historically considered challenging, the interpretation and analysis of mtDNA mixtures have recently seen renewed interest with the advent of massively parallel sequencing. However, there are only a few software tools available for mtDNA mixture interpretation. To address this gap, the Mitochondrial Mixture Deconvolution and Interpretation Tool (MMDIT) was developed. MMDIT is an interactive application complete with a graphical user interface that allows users to deconvolve mtDNA (whole or partial genomes) mixtures into constituent donor haplotypes and estimate random match probabilities on these resultant haplotypes. In cases where deconvolution might not be feasible, the software allows mixture analysis directly within a binary framework (i.e. qualitatively, only using data on allele presence/absence). This paper explains the functionality of MMDIT, using an example of an in vitro two-person mtDNA mixture with a ratio of 1:4. The uniqueness of MMDIT lies in its ability to resolve mixtures into complete donor haplotypes using a statistical phasing framework before mixture analysis and evaluating statistical weights employing a novel graph algorithm approach. MMDIT is the first available open-source software that can automate mtDNA mixture deconvolution and analysis. The MMDIT web application can be accessed online at https://www.unthsc.edu/mmdit/. The source code is available at https://github.com/SammedMandape/MMDIT_UI and archived on zenodo (https://doi.org/10.5281/zenodo.4770184).
+
+[Source](https://doi.org/10.1007/978-981-33-6191-1_2)
+
+10.1016/j.fsigen.2021.102568
+
+---
+
+## Bioinformatics Tools and Software
+
+[Source](https://doi.org/10.1007/978-981-33-6191-1_2)
+
+---
+
+## MiDSystem: A comprehensive online system for de novo assembly and analysis of microbial genomes
+
+[Source](https://doi.org/10.1016/j.nbt.2021.08.002)
+
+---
+
+## Ten simple rules for organizing a bioinformatics training c<span style="color:#ff6600;">ourse in low</span>
+
+[Source](https://doi.org/10.1371/journal.pcbi.1009218)
+
+---
+
+##  and middle-income countries
+
+[Source](https://doi.org/10.1371/journal.pcbi.1009218)
 
 ---
 
