@@ -124,6 +124,18 @@ Peatlands store one-third of Earth's soil carbon, the stability of which is unce
 
 ---
 
+## MMDIT: A tool for the deconvolution and interpretation of mitochondrial DNA mixtures.
+ 20.08.2021, _SN Mandape, U Smart, JL King, M Muenzler, KB Kapema, B Budowle, AE Woerner_
+
+
+Short tandem repeats of the nuclear genome have been the preferred markers for analyzing forensic DNA mixtures. However, when nuclear DNA in a sample is degraded or limited, mitochondrial DNA (mtDNA) markers provide a powerful alternative. Though historically considered challenging, the interpretation and analysis of mtDNA mixtures have recently seen renewed interest with the advent of massively parallel sequencing. However, there are only a few software tools available for mtDNA mixture interpretation. To address this gap, the Mitochondrial Mixture Deconvolution and Interpretation Tool (MMDIT) was developed. MMDIT is an interactive application complete with a graphical user interface that allows users to deconvolve mtDNA (whole or partial genomes) mixtures into constituent donor haplotypes and estimate random match probabilities on these resultant haplotypes. In cases where deconvolution might not be feasible, the software allows mixture analysis directly within a binary framework (i.e. qualitatively, only using data on allele presence/absence). This paper explains the functionality of MMDIT, using an example of an in vitro two-person mtDNA mixture with a ratio of 1:4. The uniqueness of MMDIT lies in its ability to resolve mixtures into complete donor haplotypes using a statistical phasing framework before mixture analysis and evaluating statistical weights employing a novel graph algorithm approach. MMDIT is the first available open-source software that can automate mtDNA mixture deconvolution and analysis. The MMDIT web application can be accessed online at https://www.unthsc.edu/mmdit/. The source code is available at https://github.com/SammedMandape/MMDIT_UI and archived on zenodo (https://doi.org/10.5281/zenodo.4770184).
+
+[Source](https://doi.org/10.1007/978-981-33-6191-1_2)
+
+10.1016/j.fsigen.2021.102568
+
+---
+
 ## Bioinformatics Tools and Software
 
 [Source](https://doi.org/10.1007/978-981-33-6191-1_2)
