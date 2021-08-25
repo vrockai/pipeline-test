@@ -118,9 +118,15 @@ Despite substantial evidence on the contribution of the diversity of the gut mic
 
 ---
 
-## Comprehensive Wet-Bench and Bioinformatics Workflow for Complex Microbiota Using Oxford Nanopore Technologies
+## Comprehensive Wet-Bench and Bioinformatics Workflow for Complex Microbiota Using Oxford Nanopore Technologies.
+ 24.08.2021, _C Ammer-Herrmenau, N Pfisterer, T van den Berg, I Gavrilova, A Amanzada, SK Singh, A Khalil, R Alili, E Belda, K Clement, A Abd El Wahed, EE Gady, M Haubrock, T Beißbarth, V Ellenrieder, A Neesse_
+
+
+The advent of high-throughput sequencing techniques has recently provided an astonishing insight into the composition and function of the human microbiome. Next-generation sequencing (NGS) has become the gold standard for advanced microbiome analysis; however, 3rd generation real-time sequencing, such as Oxford Nanopore Technologies (ONT), enables rapid sequencing from several kilobases to &gt;2 Mb with high resolution. Despite the wide availability and the enormous potential for clinical and translational applications, ONT is poorly standardized in terms of sampling and storage conditions, DNA extraction, library creation, and bioinformatic classification. Here, we present a comprehensive analysis pipeline with sampling, storage, DNA extraction, library preparation, and bioinformatic evaluation for complex microbiomes sequenced with ONT. Our findings from buccal and rectal swabs and DNA extraction experiments indicate that methods that were approved for NGS microbiome analysis cannot be simply adapted to ONT. We recommend using swabs and DNA extractions protocols with extended washing steps. Both 16S rRNA and metagenomic sequencing achieved reliable and reproducible results. Our benchmarking experiments reveal thresholds for analysis parameters that achieved excellent precision, recall, and area under the precision recall values and is superior to existing classifiers (Kraken2, Kaiju, and MetaMaps). Hence, our workflow provides an experimental and bioinformatic pipeline to perform a highly accurate analysis of complex microbial structures from buccal and rectal swabs. IMPORTANCE Advanced microbiome analysis relies on sequencing of short DNA fragments from microorganisms like bacteria, fungi, and viruses. More recently, long fragment DNA sequencing of 3rd generation sequencing has gained increasing importance and can be rapidly conducted within a few hours due to its potential real-time sequencing. However, the analysis and correct identification of the microbiome relies on a multitude of factors, such as the method of sampling, DNA extraction, sequencing, and bioinformatic analysis. Scientists have used different protocols in the past that do not allow us to compare results across different studies and research fields. Here, we provide a comprehensive workflow from DNA extraction, sequencing, and bioinformatic workflow that allows rapid and accurate analysis of human buccal and rectal swabs with reproducible protocols. This workflow can be readily applied by many scientists from various research fields that aim to use long-fragment microbiome sequencing.
 
 [Source](https://journals.asm.org/doi/10.1128/mSystems.00750-21)
+
+10.1128/mSystems.00750-21
 
 ---
 
