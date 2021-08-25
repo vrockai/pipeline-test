@@ -1,150 +1,126 @@
-## A genomic perspective across Earth’s microbiomes reveals that genome size in Archaea and Bacteria is linked to ecosystem type and trophic strategy
-
-[Source](https://doi.org/10.1101/2021.01.18.427069)
-
----
-
-## Host-Microbe Metagenomics: a Lens To Refocus Our Perspective on Infectious and Inflammatory Diseases.
- 17.08.2021, _KL Kalantar, CR Langelier_
+## The longitudinal and cross-sectional heterogeneity of the intestinal microbiota.
+ 24.08.2021, _BM Miller, MJ Liou, JY Lee, AJ Bäumler_
 
 
-A dynamic relationship involving pathogen, host immune response, and microbiome characterizes the biological framework of many infectious and inflammatory diseases. Combined host/microbe metagenomics (mNGS) enables simultaneous assessment of all three features, enabling the study and diagnosis of diverse infectious and inflammatory processes ranging from pneumonia to sepsis to inflammatory diseases such as rheumatoid arthritis. Host/microbe mNGS holds promise for new mechanistic insights, diagnostic approaches, and precision medicine interventions.
+A central goal of microbiome research is to understand the factors that balance gut-associated microbial communities, thereby creating longitudinal and cross-sectional heterogeneity in their composition and density. Whereas the diet dictates taxa dominance, microbial communities are linked intimately to host physiology through digestive and absorptive functions that generate longitudinal heterogeneity in nutrient availability. Additionally, the host differentially controls the access to electron acceptors along the longitudinal axis of the intestine to drive the development of microbial communities that are dominated by facultatively anaerobic bacteria in the small intestine or obligately anaerobic bacteria in the large intestine. By secreting mucus and antimicrobials, the host further constructs microhabitats that generate cross-sectional heterogeneity in the colonic microbiota composition. Here we will review how understanding the host factors involved in generating longitudinal and cross-sectional microbiota heterogeneity helps define physiological states that are characteristic of or appropriate to a homeostatic microbiome.
 
-[Source](https://doi.org/10.1128/mSystems.00404-21)
+[Source](https://www.sciencedirect.com/science/article/pii/S1369527421001089)
 
-10.1128/mSystems.00404-21
+10.1016/j.mib.2021.08.004
 
 ---
 
-## Host-Microbe Metagenomics: a Lens To Refocus Our Perspective
+## [REVIEW]The longitudinal and cross-sectional heterogeneity of the intestinal microbiota
 
-[Source](https://doi.org/10.1128/mSystems.00404-21)
-
----
-
-## Rectal bacteriome and virome signatures and clinical outcomes in community-acquired pneumonia: An exploratory study
-
-[Source](https://doi.org/10.1016/j.eclinm.2021.101074)
+[Source](https://www.sciencedirect.com/science/article/pii/S1369527421001089)
 
 ---
 
-## The important role of fungi in inflammatory bowel diseases.
- 16.08.2021, _S Wang, YR Zhang, YB Yu_
+## Early life gut microbiota is associated with rapid infant growth in Hispanics from Southern California.
+ 23.08.2021, _TL Alderete, RB Jones, JP Shaffer, EA Holzhausen, WB Patterson, E Kazemian, L Chatzi, R Knight, JF Plows, PK Berger, MI Goran_
 
 
-Inflammatory bowel disease (IBD) is a life-threatening and chronic inflammatory disease of gastrointestinal tissue, with complex pathogenesis. Current research on IBD has mainly focused on bacteria; however, the role of fungi in IBD is largely unknown due to the incomplete annotation of fungi in current genomic databases. With the development of molecular techniques, the gut mycobiome has been found to have great diversity. In addition, increasing evidence has shown intestinal mycobiome plays an important role in the physiological and pathological processes of IBD. In this review, we will systemically introduce the recent knowledge about multi-dimensional fungal dysbiosis associated with IBD, the interactions between fungus and bacteria, the role of fungi in inflammation in IBD, and highlight recent advances in the potential therapeutic role of fungus in IBD, which may hold the keys to develop new predictive, therapeutic or prognostic approaches in IBD.
+We aimed to determine if the newborn gut microbiota is an underlying determinant of early life growth trajectories. 132 Hispanic infants were recruited at 1-month postpartum. The infant gut microbiome was characterized using 16S rRNA amplicon sequencing. Rapid infant growth was defined as a weight-for-age z-score (WAZ) change greater than 0.67 between birth and 12-months of age. Measures of infant growth included change in WAZ, weight-for-length z-score (WLZ), and body mass index (BMI) z-scores from birth to 12-months and infant anthropometrics at 12-months (weight, skinfold thickness). Of the 132 infants, 40% had rapid growth in the first year of life. Multiple metrics of alpha-diversity predicted rapid infant growth, including a higher Shannon diversity (OR = 1.83; 95% CI: 1.07-3.29; p = .03), Faith's phylogenic diversity (OR = 1.41, 95% CI: 1.05-1.94; p = .03), and richness (OR = 1.04, 95% CI: 1.01-1.08; p = .02). Many of these alpha-diversity metrics were also positively associated with increases in WAZ, WLZ, and BMI z-scores from birth to 12-months (pall&lt;0.05). Importantly, we identified subsets of microbial consortia whose abundance were correlated with these same measures of infant growth. We also found that rapid growers were enriched in multiple taxa belonging to genera such as Acinetobacter, Collinsella, Enterococcus, Neisseria, and Parabacteroides. Moreover, measures of the newborn gut microbiota explained up to an additional 5% of the variance in rapid growth beyond known clinical predictors (R2 = 0.37 vs. 0.32, p &lt; .01). These findings indicate that a more mature gut microbiota, characterized by increased alpha-diversity, at as early as 1-month of age, may influence infant growth trajectories in the first year of life.
 
-[Source](https://doi.org/10.1080/00365521.2021.1963838)
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1961203)
 
-10.1080/00365521.2021.1963838
-
----
-
-## A bacterial genome and culture collection of gut microbial in weanling piglet
-
-[Source](https://doi.org/10.1101/2021.08.18.456900)
+10.1080/19490976.2021.1961203
 
 ---
 
-## Characterization of the fecal microbiota of sows and their offspring from German commercial pig farms.
- 19.08.2021, _A Lührmann, K Ovadenko, J Hellmich, C Sudendey, V Belik, J Zentek, W Vahjen_
+## Characterization of the Human Oropharyngeal Microbiomes in SARS-CoV-2 Infection and Recovery Patients.
+ 23.08.2021, _M Gao, H Wang, H Luo, Y Sun, L Wang, S Ding, H Ren, J Gang, B Rao, S Liu, X Wang, X Gao, M Li, Y Zou, C Liu, C Yuan, J Sun, G Cui, Z Ren_
 
 
-Strategies to combat microbiota-associated health problems are of high interest in pig production. Successful intervention strategies with beneficial long-term effects are still missing. Most studies on pig microbiota have been conducted under standardized experimental conditions, but the situation in commercial farms differs dramatically. This study describes the fecal microbiota in German commercial pig farms under practical conditions. The study is part of the larger project "Optibiom" that aims to use bacterial composition and farm metadata to formulate tailor-made solutions for farm-specific health maintenance strategies. Special consideration is given to the sow-piglet relationship. Fecal samples from sows and their piglets were collected at two time points each in 20 different farms (sows ante- and postpartum and piglets before and after weaning). The extracted DNA was sequenced with Illumina 16S rDNA sequencing. For data analysis and visualization, differential abundance analyses, as well as hierarchical clustering and nonmetric multidimensional scaling (NMDS) were performed. A new "family unit" was implemented to compare farms based on the association between the microbiota in sows and their offspring. There are distinct changes in the microbial communities in sows before and after birth as well as in suckling and post-weaning piglets. The suckling pig microbiota is particularly different from all other groups and shows a lower bacterial diversity. While dominant genera in antepartum sows further displace the abundance of non-dominant genera postpartum, the opposite was true for piglets, where non-dominant bacteria in the suckling phase became dominant after weaning. The family unit for sows and their piglets led to separate cluster formation for some farms. The results indicate that the sow-piglet relationship is one driving force for the observed differences of the pig farms. The next step in the analysis will be the combination of metadata (feeding, housing and management practices) to find farm-specific differences that can be exploited to formulate a farm-specific health maintenance strategy.
+Respiratory tract microbiome is closely related to respiratory tract infections, while characterization of oropharyngeal microbiome in recovered coronavirus disease 2019 (COVID-19) patients is not studied. Herein, oropharyngeal swabs are collected from confirmed cases (CCs) with COVID-19 (73 subjects), suspected cases (SCs) (36), confirmed cases who recovered (21), suspected cases who recovered (36), and healthy controls (Hs) (140) and then completed MiSeq sequencing. Oropharyngeal microbial α-diversity is markedly reduced in CCs versus Hs. Opportunistic pathogens are increased, while butyrate-producing genera are decreased in CCs versus Hs. The classifier based on eight optimal microbial markers is constructed through a random forest model and reached great diagnostic efficacy in both discovery and validation cohorts. Notably, the classifier successfully diagnosed SCs with positive IgG antibody as CCs and is demonstrated from the perspective of the microbiome. Importantly, several genera with significant differences gradually increase and decrease along with recovery from COVID-19. Forty-four oropharyngeal operational taxonomy units (OTUs) are closely correlated with 11 clinical indicators of SARS-CoV-2 infection and Hs based on Spearman correlation analysis. Together, this research is the first to characterize oropharyngeal microbiota in recovered COVID-19 cases and suspected cases, to successfully construct and validate the diagnostic model for COVID-19 and to depict the correlations between microbial OTUs and clinical indicators.
 
-[Source](https://doi.org/10.1371/journal.pone.0256112)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/advs.202102785)
 
-10.1371/journal.pone.0256112
-
----
-
-## Plant Growth-Promoting Rhizobacteria HN6 Induced the Change and Reorganization of Fusarium Microflora in the Rhizosphere of Banana Seedlings to Construct a Healthy Banana Microflora.
- 07.08.2021, _D Yang, L Wang, T Wang, Y Zhang, S Zhang, Y Luo_
-
-
-Streptomyces aureoverticillatus HN6 was isolated in our previous study and effectively controlled banana Fusarium wilt. We explored the role of HN6 in constructing a healthy rhizosphere microflora of banana seedlings. The method of antibiotic resistance was used to determine the colonization ability of HN6. The effect of HN6 on the rhizosphere microbial communities was assessed using culture-dependent and high-throughput sequencing. The effect of HN6 on the infection process of the pathogen was evaluated using a pot experiment and confocal laser scanning microscopy. The results showed that HN6 could prevent pathogen infection; it increased the nutrient content and diversity of the bacterial community in the rhizosphere, promoted plant growth, and decreased the mycotoxin fusaric acid content and abundance of pathogens in the banana rhizosphere. Thus, HN6 decreased the relative abundance of Fusarium species, increased the diversity of fungi, and increased the relative abundance of bacteria in the rhizosphere. HN6 induced the change and reorganization of the microbial community dominated by Fusarium in the rhizosphere of banana seedlings, and it evolved into a community dominated that was not conducive to the occurrence of diseases, shaping the rhizosphere microflora and promoting the growth of banana.
-
-[Source](https://doi.org/10.1101/2021.08.18.456889)
-
-10.3389/fmicb.2021.685408
+10.1002/advs.202102785
 
 ---
 
-## Does plant diversity determine the diversity of the rhizosphere microbial community?
-
-[Source](https://doi.org/10.1101/2021.08.18.456889)
-
----
-
-## <span style="color:#ff6600;">Playing with FiRE: A genome resolved view of the soil microbiome responses to high severity forest wildfire</span>
-
-[Source](https://doi.org/10.1101/2021.08.17.456416)
-
----
-
-## Peatland microbial community responses to plant functional group and drought are depth-dependent.
- 17.08.2021, _LJ Lamit, KJ Romanowicz, LR Potvin, JT Lennon, SG Tringe, RA Chimner, RK Kolka, ES Kane, EA Lilleskov_
+## Metagenome-wide association study revealed disease-specific landscape of the gut microbiome of systemic lupus erythematosus in Japanese.
+ 24.08.2021, _Y Tomofuji, Y Maeda, E Oguro-Igashira, T Kishikawa, K Yamamoto, K Sonehara, D Motooka, Y Matsumoto, H Matsuoka, M Yoshimura, M Yagita, T Nii, S Ohshima, S Nakamura, H Inohara, K Takeda, A Kumanogoh, Y Okada_
 
 
-Peatlands store one-third of Earth's soil carbon, the stability of which is uncertain due to climate change-driven shifts in hydrology and vegetation, and consequent impacts on microbial communities that mediate decomposition. Peatland carbon cycling varies over steep physicochemical gradients characterizing vertical peat profiles. However, it is unclear how drought-mediated changes in plant functional groups (PFGs) and water table (WT) levels affect microbial communities at different depths. We combined a multi-year mesocosm experiment with community sequencing across a 70 cm depth gradient, to test the hypotheses that vascular PFGs (Ericaceae vs. sedges) and WT (high vs. low) structure peatland microbial communities in depth-dependent ways. Several key results emerged. 1) Both fungal and prokaryote (bacteria and archaea) community structure shifted with WT and PFG manipulation, but fungi were much more sensitive to PFG whereas prokaryotes were much more sensitive to WT. 2) PFG effects were largely driven by Ericaceae, although sedge effects were evident in specific cases (e.g., methanotrophs). 3) Treatment effects varied with depth: the influence of PFG was strongest in shallow peat (0-10, 10-20 cm), whereas WT effects were strongest at the surface and middle depths (0-10, 30-40 cm), and all treatment effects waned in the deepest peat (60-70 cm). Our results underscore the depth-dependent and taxon-specific ways that plant communities and hydrologic variability shape peatland microbial communities, pointing to the importance of understanding how these factors integrate across soil profiles when examining peatland responses to climate change.
+Alteration of the gut microbiome has been linked to the pathogenesis of systemic lupus erythematosus (SLE). However, a comprehensive view of the gut microbiome in SLE and its interaction with the host remains to be revealed. This study aimed to reveal SLE-associated changes in the gut microbiome and its interaction with the host by a comprehensive metagenome-wide association study (MWAS) followed by integrative analysis.
 
-[Source](https://doi.org/10.1111/mec.16125)
+[Source](https://ard.bmj.com/content/early/2021/08/17/annrheumdis-2021-220687)
 
-10.1111/mec.16125
+10.1136/annrheumdis-2021-220687
 
 ---
 
-## Soil pH determines bacterial distribution and assembly processes in natural mountain forests of eastern China
+## Gut microbes participate in food preference alterations during obesity.
+ 23.08.2021, _A de Wouters d'Oplinter, M Rastelli, M Van Hul, NM Delzenne, PD Cani, A Everard_
 
-[Source](https://doi.org/10.1111/geb.13373)
 
----
+Hypothalamic regulations of food intake are altered during obesity. The dopaminergic mesocorticolimbic system, responsible for the hedonic response to food intake, is also affected. Gut microbes are other key players involved in obesity. Therefore, we investigated whether the gut microbiota plays a causal role in hedonic food intake alterations contributing to obesity. We transferred fecal material from lean or diet-induced obese mice into recipient mice and evaluated the hedonic food intake using a food preference test comparing the intake of control and palatable diets (HFHS, High-Fat High-Sucrose) in donor and recipient mice. Obese mice ate 58% less HFHS during the food preference test (p &lt; 0.0001) than the lean donors, suggesting a dysregulation of the hedonic food intake during obesity. Strikingly, the reduction of the pleasure induced by eating during obesity was transferable through gut microbiota transplantation since obese gut microbiota recipient mice exhibited similar reduction in HFHS intake during the food preference test (40% reduction as compared to lean gut microbiota recipient mice, p &lt; 0.01). This effect was associated with a consistent trend in modifications of dopaminergic markers expression in the striatum. We also pinpointed a highly positive correlation between HFHS intake and Parabacteroides (p &lt; 0.0001), which could represent a potential actor involved in hedonic feeding probably through the gut-to-brain axis. We further demonstrated the key roles played by gut microbes in this paradigm since depletion of gut microbiota using broad-spectrum antibiotics also altered HFHS intake during food preference test in lean mice. In conclusion, we discovered that gut microbes regulate hedonic aspects of food intake. Our data demonstrate that gut microbiota modifications associated with obesity participate in dysregulations of the reward and hedonic components of the food intake. These data provide evidence that gut microbes could be an interesting therapeutic target to tackle hedonic disorders related to obesity.
 
-## The OceanDNA MAG catalog contains over 50,000 prokaryotic genomes originated from various marine environments
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1959242)
 
-[Source](https://doi.org/10.1101/2021.08.18.456858)
-
----
-
-## Mixed culture metagenomics of the microbes making sour beer
-
-[Source](https://doi.org/10.1101/2021.07.21.453094)
+10.1080/19490976.2021.1959242
 
 ---
 
-## Insights into the nutritional properties and microbiome diversity in sweet and sour yogurt manufactured in Bangladesh
+## Altered gut microbiome compositions are associated with the severity of asthma.
+ 24.08.2021, _Z Wang, Z Lai, X Zhang, P Huang, J Xie, Q Jiang, Q Zhang, KF Chung_
 
-[Source](https://doi.org/10.1101/2021.08.15.456382)
 
----
+Despite substantial evidence on the contribution of the diversity of the gut microbiome to the pathogenesis of asthma and allergic diseases, little is known about their relationship with asthma severity and/or clinical phenotypes. We analyzed the difference in composition of the gut microbiome between subjects with asthma and healthy subjects and explored its role in the development of asthma.
 
-## Microbial communities in retail draft beers and the biofilms they produce
+[Source](https://jtd.amegroups.com/article/view/54245/html)
 
-[Source](https://doi.org/10.1101/2021.08.18.456920)
-
----
-
-## Bioinformatics Tools and Software
-
-[Source](https://doi.org/10.1007/978-981-33-6191-1_2)
+10.21037/jtd-20-2189
 
 ---
 
-## MiDSystem: A comprehensive online system for de novo assembly and analysis of microbial genomes
+## Evolution in a Community Context: towards Understanding the Causes and Consequences of Adaptive Evolution in the Human Gut Microbiota over Short Time Scales
 
-[Source](https://doi.org/10.1016/j.nbt.2021.08.002)
-
----
-
-## Ten simple rules for organizing a bioinformatics training c<span style="color:#ff6600;">ourse in low</span>
-
-[Source](https://doi.org/10.1371/journal.pcbi.1009218)
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00832-21)
 
 ---
 
-##  and middle-income countries
+## Propamocarb exposure has the potential to accelerate the formation of atherosclerosis in both WT and ApoE−/− mice accompanied by gut microbiota dysbiosis
 
-[Source](https://doi.org/10.1371/journal.pcbi.1009218)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969721046775)
+
+---
+
+## Inflammation-relevant microbiome signature of the stroke brain, gut, spleen, and thymus and the impact of exercise
+
+[Source](https://journals.sagepub.com/doi/10.1177/0271678X211039598)
+
+---
+
+## Comparative Analysis of Skin Bacterial Diversity and Its Potential Antifungal Function Between Desert and Pine Forest Populations of Boreal Toads Anaxyrus boreas
+
+[Source](https://link.springer.com/article/10.1007%2Fs00248-021-01845-1)
+
+---
+
+## Herbivory shapes the rhizosphere bacterial microbiota in potato plants
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.12998)
+
+---
+
+## Teasing apart the host-related, nutrient-related and temperature-related effects shaping the phenology and microbiome of the tropical seagrass Halophila stipulacea
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.08.21.457214v1.abstract)
+
+---
+
+## The Effect of Common Viral Inactivation Techniques on 16S rRNA Amplicon-Based Analysis of the Gut Microbiota
+
+[Source](https://www.mdpi.com/2076-2607/9/8/1755)
+
+---
+
+## Comprehensive Wet-Bench and Bioinformatics Workflow for Complex Microbiota Using Oxford Nanopore Technologies
+
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00750-21)
 
 ---
 
