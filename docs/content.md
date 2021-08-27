@@ -88,39 +88,21 @@ Despite substantial evidence on the contribution of the diversity of the gut mic
 
 ---
 
-## Inflammation-relevant microbiome signature of the stroke brain, gut, spleen, and thymus and the impact of exercise.
- 24.08.2021, _C Kingsbury, A Shear, M Heyck, N Sadanandan, H Zhang, B Gonzales-Portillo, B Cozene, M Sheyner, L Navarro-Torres, J García-Sánchez, JY Lee, CV Borlongan_
-
-
-Stroke remains a significant unmet need in the clinic with few therapeutic options. We, and others, have implicated the role of inflammatory microbiota in stroke secondary cell death. Elucidating this inflammation microbiome as a biomarker may improve stroke diagnosis and treatment. Here, adult Sprague-Dawley rats performed 30 minutes of exercise on a motorized treadmill for 3 consecutive days prior to transient middle cerebral artery occlusion (MCAO). Stroke animals that underwent exercise showed 1) robust behavioral improvements, 2) significantly smaller infarct sizes and increased peri-infarct cell survival and 3) decreasing trends of inflammatory microbiota BAC303, EREC482, and LAB158 coupled with significantly reduced levels of inflammatory markers ionized calcium binding adaptor molecule 1, tumor necrosis factor alpha, and mouse monoclonal MHC Class II RT1B in the brain, gut, spleen, and thymus compared to non-exercised stroke rats. These results suggest that a specific set of inflammatory microbiota exists in central and peripheral organs and can serve as a disease biomarker and a therapeutic target for stroke.
+## Inflammation-relevant microbiome signature of the stroke brain, gut, spleen, and thymus and the impact of exercise
 
 [Source](https://journals.sagepub.com/doi/10.1177/0271678X211039598)
 
-10.1177/0271678X211039598
-
 ---
 
-## Comparative Analysis of Skin Bacterial Diversity and Its Potential Antifungal Function Between Desert and Pine Forest Populations of Boreal Toads Anaxyrus boreas.
- 24.08.2021, _MD Basanta, EA Rebollar, MG García-Castillo, G Parra Olea_
-
-
-The skin microbiome in amphibians has gained a lot of attention as some of its members play a protective role against pathogens such as the fungus Batrachochytrium dendrobatidis (Bd). The composition of skin bacterial communities has been suggested as one of the factors explaining differences in susceptibility to Bd among amphibian species and populations. The boreal toad Anaxyrus boreas is known to be susceptible to Bd, and severe population declines in its southeastern range have been documented. However, throughout A. boreas distribution, populations present differences in susceptibility to Bd infections which may be associated with differences in skin microbial diversity. This study compared the skin bacterial diversity and Bd infection levels of A. boreas in one desert population and one pine forest population from Baja California, Mexico. We found that desert and pine forest toad populations exhibit differences in skin bacterial community structure but show similar Bd infection levels. Using a predictive method, we found that the abundance of bacteria with potential Bd-inhibitory properties differed between uninfected and infected individuals but not between populations. Our data suggest that several bacteria in the skin community may be offering protection from Bd infections in these A. boreas populations. This study provides foundational evidence for future studies seeking to understand the skin-microbial variation among boreal toads' populations and its relation with Bd susceptibility.
+## Comparative Analysis of Skin Bacterial Diversity and Its Potential Antifungal Function Between Desert and Pine Forest Populations of Boreal Toads Anaxyrus boreas
 
 [Source](https://link.springer.com/article/10.1007%2Fs00248-021-01845-1)
 
-10.1007/s00248-021-01845-1
-
 ---
 
-## Herbivory shapes the rhizosphere bacterial microbiota in potato plants.
- 24.08.2021, _A Malacrinò, M Wang, S Caul, AJ Karley, AE Bennett_
-
-
-Plant-associated microbiomes assist their host in a variety of activities, spanning from nutrition to defence against herbivores and diseases. Previous research showed that plant-associated microbiomes shift their composition when plants are exposed to stressors, including herbivory. However, existing studies explored only single herbivore-plant combinations, whereas plants are often attacked by several different herbivores, but the effects of multiple herbivore types on the plant microbiome remain to be determined. Here, we first tested whether feeding by different herbivores (aphids, nematodes and slugs) produces a shift in the rhizosphere bacterial microbiota associated with potato plants. Then, we expanded this question asking whether the identity of the herbivore produces different effects on the rhizosphere microbial community. While we found shifts in microbial diversity and structure due to herbivory, we observed that the herbivore identity does not influence the diversity or community structure of bacteria thriving in the rhizosphere. However, a deeper analysis revealed that the herbivores differentially affected the structure of the network of microbial co-occurrences. Our results have the potential to increase our ability to predict how plant microbiomes assemble and aid our understanding of the role of plant microbiome in plant responses to biotic stress.
+## Herbivory shapes the rhizosphere bacterial microbiota in potato plants
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.12998)
-
-10.1111/1758-2229.12998
 
 ---
 
@@ -136,15 +118,9 @@ Plant-associated microbiomes assist their host in a variety of activities, spann
 
 ---
 
-## Comprehensive Wet-Bench and Bioinformatics Workflow for Complex Microbiota Using Oxford Nanopore Technologies.
- 24.08.2021, _C Ammer-Herrmenau, N Pfisterer, T van den Berg, I Gavrilova, A Amanzada, SK Singh, A Khalil, R Alili, E Belda, K Clement, A Abd El Wahed, EE Gady, M Haubrock, T Beißbarth, V Ellenrieder, A Neesse_
-
-
-The advent of high-throughput sequencing techniques has recently provided an astonishing insight into the composition and function of the human microbiome. Next-generation sequencing (NGS) has become the gold standard for advanced microbiome analysis; however, 3rd generation real-time sequencing, such as Oxford Nanopore Technologies (ONT), enables rapid sequencing from several kilobases to &gt;2 Mb with high resolution. Despite the wide availability and the enormous potential for clinical and translational applications, ONT is poorly standardized in terms of sampling and storage conditions, DNA extraction, library creation, and bioinformatic classification. Here, we present a comprehensive analysis pipeline with sampling, storage, DNA extraction, library preparation, and bioinformatic evaluation for complex microbiomes sequenced with ONT. Our findings from buccal and rectal swabs and DNA extraction experiments indicate that methods that were approved for NGS microbiome analysis cannot be simply adapted to ONT. We recommend using swabs and DNA extractions protocols with extended washing steps. Both 16S rRNA and metagenomic sequencing achieved reliable and reproducible results. Our benchmarking experiments reveal thresholds for analysis parameters that achieved excellent precision, recall, and area under the precision recall values and is superior to existing classifiers (Kraken2, Kaiju, and MetaMaps). Hence, our workflow provides an experimental and bioinformatic pipeline to perform a highly accurate analysis of complex microbial structures from buccal and rectal swabs. IMPORTANCE Advanced microbiome analysis relies on sequencing of short DNA fragments from microorganisms like bacteria, fungi, and viruses. More recently, long fragment DNA sequencing of 3rd generation sequencing has gained increasing importance and can be rapidly conducted within a few hours due to its potential real-time sequencing. However, the analysis and correct identification of the microbiome relies on a multitude of factors, such as the method of sampling, DNA extraction, sequencing, and bioinformatic analysis. Scientists have used different protocols in the past that do not allow us to compare results across different studies and research fields. Here, we provide a comprehensive workflow from DNA extraction, sequencing, and bioinformatic workflow that allows rapid and accurate analysis of human buccal and rectal swabs with reproducible protocols. This workflow can be readily applied by many scientists from various research fields that aim to use long-fragment microbiome sequencing.
+## Comprehensive Wet-Bench and Bioinformatics Workflow for Complex Microbiota Using Oxford Nanopore Technologies
 
 [Source](https://journals.asm.org/doi/10.1128/mSystems.00750-21)
-
-10.1128/mSystems.00750-21
 
 ---
 
