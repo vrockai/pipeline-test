@@ -82,20 +82,14 @@
 
 ---
 
-## Alterations in microbiota and their metabolites are associated with beneficial effects of bile acid sequestrant on icteric primary biliary Cholangitis.
- 26.08.2021, _B Li, J Zhang, Y Chen, Q Wang, L Yan, R Wang, Y Wei, Z You, Y Li, Q Miao, X Xiao, M Lian, W Chen, D Qiu, J Fang, ME Gershwin, R Tang, X Ma_
-
-
-Background: Increasing data suggests an interaction between bile acids and intestinal microbiota in the pathogenesis of primary biliary cholangitis (PBC). Bile acid sequestrants are widely used to bind bile acids in the intestinal lumen and are therefore posited to impact gut bacteria. Herein we aimed to investigate the effects of cholestyramine on the bile acid profile and gut microbiome in a cohort of icteric PBC patients.Results: Thirty-three PBC patients were treated with cholestyramine, serum and stool samples were collected at baseline, 4 and 16 weeks. Shotgun metagenomic sequencing and targeted metabolomic profiling were performed. Following cholestyramine administration, patients exhibited a high interpersonal variability in remission of cholestasis, and were therefore dichotomized according to the decrease of total bilirubin. Gut microbial co-abundance networks showed distinct taxa interactions between subjects with superior remission (SR) and those with inferior remission (IR) at baseline. After treatment, compositional shifts of the microbiome in the SR group were characterized with enrichment of two Lachnospiraceae species, typically producing short-chain fatty acids (SCFAs). In contrast, Klebsiella pneumonia, a commensal pathobiont, was only increased in the IR group. Correspondingly, metabolome analysis demonstrated that patients with SR, but not IR, were marked by elevations of SCFAs including valeric acid and caproic acid. Finally, integrative analysis identified robust associations between the variations of microbiota, metabolites, and inflammatory cytokines in SR group, indicating potential mechanistic links.Conclusions: Beneficial responses caused by cholestyramine were closely related with compositional and functional alterations in gut commensal, highlighting the possibility of exploring bile acid-microbiota interactions for treating PBC.
+## Alterations in microbiota and their metabolites are associated with beneficial effects of bile acid sequestrant on icteric primary biliary Cholangitis
 
 [Source](https://doi.org/10.1080/19490976.2021.1946366)
-
-10.1080/19490976.2021.1946366
 
 ---
 
 ## The gut microbiome in sickle cell disease: Characterization and potential implications.
- 25.08.2021, _H Brim, J Taylor, M Abbas, K Vilmenay, M Daremipouran, S Varma, E Lee, B Pace, WL Song-Naba, K Gupta, S Nekhai, P O'Neil, H Ashktorab_
+ 28.08.2021, _H Brim, J Taylor, M Abbas, K Vilmenay, M Daremipouran, S Varma, E Lee, B Pace, WL Song-Naba, K Gupta, S Nekhai, P O'Neil, H Ashktorab_
 
 
 Sickle Cell Disease (SCD) is an inherited blood disorder that leads to hemolytic anemia, pain, organ damage and early mortality. It is characterized by polymerized deoxygenated hemoglobin, rigid sickle red blood cells and vaso-occlusive crises (VOC). Recurrent hypoxia-reperfusion injury in the gut of SCD patients could increase tissue injury, permeability, and bacterial translocation. In this context, the gut microbiome, a major player in health and disease, might have significant impact. This study sought to characterize the gut microbiome in SCD.
@@ -143,7 +137,7 @@ The human axilla is colonized by a wide array of microorganisms that contribute 
 ---
 
 ## Fecal Bacteria as Non-Invasive Biomarkers for Colorectal Adenocarcinoma.
- 27.08.2021, _B Yuan, B Ma, J Yu, Q Meng, T Du, H Li, Y Zhu, Z Sun, S Ma, C Song_
+ 28.08.2021, _B Yuan, B Ma, J Yu, Q Meng, T Du, H Li, Y Zhu, Z Sun, S Ma, C Song_
 
 
 Colorectal adenocarcinoma (CRC) ranks one of the five most lethal malignant tumors both in China and worldwide. Early diagnosis and treatment of CRC could substantially increase the survival rate. Emerging evidence has revealed the importance of gut microbiome on CRC, thus fecal microbial community could be termed as a potential screen for non-invasive diagnosis. Importantly, few numbers of bacteria genus as non-invasive biomarkers with high sensitivity and specificity causing less cost would be benefitted more in clinical compared with the whole microbial community analysis. Here we analyzed the gut microbiome between CRC patients and healthy people using 16s rRNA sequencing showing the divergence of microbial composition between case and control. Furthermore, ExtraTrees classifier was performed for the classification of CRC gut microbiome and heathy control, and 13 bacteria were screened as biomarkers for CRC. In addition, 13 biomarkers including 12 bacteria genera and FOBT showed an outstanding sensitivity and specificity for discrimination of CRC patients from healthy controls. This method could be used as a non-invasive method for CRC early diagnosis.
