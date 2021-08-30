@@ -10,9 +10,14 @@
 
 ---
 
-## The gut microbiome in feast and famine
+## The gut microbiome in feast and famine.
+ 25.08.2021, _HD Holscher_
+
+
 
 [Source](https://doi.org/10.1038/s41575-021-00514-5)
+
+10.1038/s41575-021-00514-5
 
 ---
 
@@ -22,15 +27,27 @@
 
 ---
 
-## Compositional profile of mucosal bacteriome of smokers and smokeless tobacco users
+## Compositional profile of mucosal bacteriome of smokers and smokeless tobacco users.
+ 26.08.2021, _D Gopinath, CC Wie, M Banerjee, L Thangavelu, P Kumar R, D Nallaswamy, MG Botelho, NW Johnson_
+
+
+Smoked, and especially smokeless, tobacco are major causes of oral cancer globally. Here, we examine the oral bacteriome of smokers and of smokeless tobacco users, in comparison to healthy controls, using 16S rRNA gene sequencing.
 
 [Source](https://doi.org/10.1007/s00784-021-04137-7)
 
+10.1007/s00784-021-04137-7
+
 ---
 
-## Cross-sectional comparisons of subgingival microbiome and gingival fluid inflammatory cytokines in periodontally healthy vegetarians versus non-vegetarians
+## Cross-sectional comparisons of subgingival microbiome and gingival fluid inflammatory cytokines in periodontally healthy vegetarians versus non-vegetarians.
+ 27.08.2021, _A Khocht, M Orlich, B Paster, D Bellinger, L Lenoir, C Irani, G Fraser_
+
+
+Vegetarian diets are known to reduce inflammation. The objective of this study was to test the hypothesis that reduced inflammation associated with a vegetarian diet would promote a more commensal subgingival bacterial profile.
 
 [Source](https://doi.org/10.1111/jre.12922)
+
+10.1111/jre.12922
 
 ---
 
@@ -46,33 +63,75 @@
 
 ---
 
-## Microbe defines the efficacy of chemotherapeutic drug: A complete paradigm
+## Microbe defines the efficacy of chemotherapeutic drug: A complete paradigm.
+ 27.08.2021, _P Dalal, D Sharma_
+
+
+The human body harbors a diverse microbiome that regulates host physiology and disease development. Several studies have also been reported where the human microbiome interferes with the efficacy of chemotherapeutics. Reports have also suggested the use of microbes in specific targeting and drug delivery. This review mainly focuses on the alteration in the efficacy of the drug by human microbiota. We have also discussed how the diversity in microbes can determine the therapeutic outcomes of a particular drug. The pathways involved in the alteration are also focused, with some highlights on microbes being used in cancer therapy.
 
 [Source](https://doi.org/10.1093/femsle/fnab116)
 
+10.1093/femsle/fnab116
+
 ---
 
-## Gut Microbiota Profiles in Early- and Late-Onset Colorectal Cancer: A Potential Diagnostic Biomarker in the Future
+## Gut Microbiota Profiles in Early- and Late-Onset Colorectal Cancer: A Potential Diagnostic Biomarker in the Future.
+ 25.08.2021, _M Abdullah, N Sukartini, SA Nursyirwan, RR Pribadi, H Maulahela, AP Utari, VN Muzellina, A Wiraatmadja, K Renaldi_
+
+
+Researchers believe the role of gut microbiota dysbiosis in the raised incidence of early-onset colorectal cancer (EOCRC). The development of EOCRC may be associated with microbiota dysbiosis either dependently or independently (combined with other risk factors).
 
 [Source](https://doi.org/10.1159/000516689)
+
+10.1159/000516689
 
 ---
 
 ## Manipulating the neonatal gut microbiome: current understanding and future perspectives.
+ 26.08.2021, _E Wong, K Lui, AS Day, ST Leach_
+
+
+The development of a healthy intestinal microbiome following birth contributes to the overall health of the infant during childhood and into adulthood. However, modern birth practices such as caesarean delivery, feeding, antibiotic exposure as well as maternal factors have the potential to greatly impact infant microbiome development. Aberrant microbiome development may be a key factor in the increasing incidence of inflammatory and gut diseases. This review will summarise the current understanding of how modern birth practices may contribute to deficiencies in neonatal gut microbiome development and will also present potential methods of microbiome engineering that aim to ensure the development of a healthy and robust microbiome to protect the host from disease throughout their life.
 
 [Source](https://doi.org/10.1136/archdischild-2021-321922)
 
+10.1136/archdischild-2021-321922
+
 ---
 
-## Dietary advanced glycation end-products elicit toxicological effects by disrupting gut microbiome and immune homeostasis
+## Dietary advanced glycation end-products elicit toxicological effects by disrupting gut microbiome and immune homeostasis.
+ 28.08.2021, _Y Chen, TL Guo_
+
+
+The aging immune system is characterized by a low-grade chronic systemic inflammatory state ("inflammaging") marked by elevated serum levels of inflammatory molecules such as interleukin (IL)-6 and C-reactive protein (CRP). These inflammatory markers were also reported to be strong predictors for the development/severity of Type 2 diabetes, obesity, and COVID-19. The levels of these markers have been positively associated with those of advanced glycation end-products (AGEs) generated via non-enzymatic glycation and oxidation of proteins and lipids during normal aging and metabolism. Based on the above observations, it is clinically important to elucidate how dietary AGEs modulate inflammation and might thus increase the risk for aging-exacerbated diseases. The present narrative review discusses the potential pro-inflammatory properties of dietary AGEs with a focus on the inflammatory mediators CRP, IL-6 and ferritin, and their relations to aging in general and Type 2 diabetes in particular. In addition, underlying mechanisms - including those related to gut microbiota and the receptors for AGEs, and the roles AGEs might play in affecting physiologies of the healthy elderly, obese individuals, and diabetics are discussed in regard to any greater susceptibility to COVID-19.
 
 [Source](https://doi.org/10.1080/1547691X.2021.1959677)
 
+10.1080/1547691X.2021.1959677
+
 ---
 
-## The microbiome extends host evolutionary potential
+## The microbiome extends host evolutionary potential.
+ 27.08.2021, _LP Henry, M Bruijning, SKG Forsberg, JF Ayroles_
+
+
+The microbiome shapes many host traits, yet the biology of microbiomes challenges traditional evolutionary models. Here, we illustrate how integrating the microbiome into quantitative genetics can help untangle complexities of host-microbiome evolution. We describe two general ways in which the microbiome may affect host evolutionary potential: by shifting the mean host phenotype and by changing the variance in host phenotype in the population. We synthesize the literature across diverse taxa and discuss how these scenarios could shape the host response to selection. We conclude by outlining key avenues of research to improve our understanding of the complex interplay between hosts and microbiomes.
 
 [Source](https://doi.org/10.1038/s41467-021-25315-x)
+
+10.1038/s41467-021-25315-x
+
+---
+
+## Enterococcus peptidoglycan remodeling promotes checkpoint inhibitor cancer immunotherapy.
+ 27.08.2021, _ME Griffin, J Espinosa, JL Becker, JD Luo, TS Carroll, JK Jha, GR Fanger, HC Hang_
+
+
+The antitumor efficacy of cancer immunotherapy can correlate with the presence of certain bacterial species within the gut microbiome. However, many of the molecular mechanisms that influence host response to immunotherapy remain elusive. In this study, we show that members of the bacterial genus Enterococcus improve checkpoint inhibitor immunotherapy in mouse tumor models. Active enterococci express and secrete orthologs of the NlpC/p60 peptidoglycan hydrolase SagA that generate immune-active muropeptides. Expression of SagA in nonprotective E. faecalis was sufficient to promote immunotherapy response, and its activity required the peptidoglycan sensor NOD2. Notably, SagA-engineered probiotics or synthetic muropeptides also augmented anti-PD-L1 antitumor efficacy. Taken together, our data suggest that microbiota species with specialized peptidoglycan remodeling activity and muropeptide-based therapeutics may enhance cancer immunotherapy and could be leveraged as next-generation adjuvants.
+
+[Source](https://doi.org/10.1126/science.abl3656)
+
+10.1126/science.abc9113
 
 ---
 
@@ -82,9 +141,15 @@
 
 ---
 
-## Alterations in microbiota and their metabolites are associated with beneficial effects of bile acid sequestrant on icteric primary biliary Cholangitis
+## Alterations in microbiota and their metabolites are associated with beneficial effects of bile acid sequestrant on icteric primary biliary Cholangitis.
+ 26.08.2021, _B Li, J Zhang, Y Chen, Q Wang, L Yan, R Wang, Y Wei, Z You, Y Li, Q Miao, X Xiao, M Lian, W Chen, D Qiu, J Fang, ME Gershwin, R Tang, X Ma_
+
+
+Background: Increasing data suggests an interaction between bile acids and intestinal microbiota in the pathogenesis of primary biliary cholangitis (PBC). Bile acid sequestrants are widely used to bind bile acids in the intestinal lumen and are therefore posited to impact gut bacteria. Herein we aimed to investigate the effects of cholestyramine on the bile acid profile and gut microbiome in a cohort of icteric PBC patients.Results: Thirty-three PBC patients were treated with cholestyramine, serum and stool samples were collected at baseline, 4 and 16 weeks. Shotgun metagenomic sequencing and targeted metabolomic profiling were performed. Following cholestyramine administration, patients exhibited a high interpersonal variability in remission of cholestasis, and were therefore dichotomized according to the decrease of total bilirubin. Gut microbial co-abundance networks showed distinct taxa interactions between subjects with superior remission (SR) and those with inferior remission (IR) at baseline. After treatment, compositional shifts of the microbiome in the SR group were characterized with enrichment of two Lachnospiraceae species, typically producing short-chain fatty acids (SCFAs). In contrast, Klebsiella pneumonia, a commensal pathobiont, was only increased in the IR group. Correspondingly, metabolome analysis demonstrated that patients with SR, but not IR, were marked by elevations of SCFAs including valeric acid and caproic acid. Finally, integrative analysis identified robust associations between the variations of microbiota, metabolites, and inflammatory cytokines in SR group, indicating potential mechanistic links.Conclusions: Beneficial responses caused by cholestyramine were closely related with compositional and functional alterations in gut commensal, highlighting the possibility of exploring bile acid-microbiota interactions for treating PBC.
 
 [Source](https://doi.org/10.1080/19490976.2021.1946366)
+
+10.1080/19490976.2021.1946366
 
 ---
 
@@ -209,44 +274,86 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 ---
 
 ## A role for bacterial experimental evolution in coral bleaching mitigation?
+ 25.08.2021, _J Maire, MJH van Oppen_
+
+
+Coral reefs are rapidly declining because of widespread mass coral bleaching causing extensive coral mortality. Elevated seawater temperatures are the main drivers of coral bleaching, and climate change is increasing the frequency and severity of destructive marine heatwaves. Efforts to enhance coral thermal bleaching tolerance can be targeted at the coral host or at coral-associated microorganisms (e.g., dinoflagellate endosymbionts and bacteria). The literature on experimental evolution of bacteria suggests that it has value as a tool to increase coral climate resilience. We provide a workflow on how to experimentally evolve coral-associated bacteria to confer thermal tolerance to coral hosts and emphasize the value of implementing this approach in coral reef conservation and restoration efforts.
 
 [Source](https://doi.org/10.1016/j.tim.2021.07.006)
 
+10.1016/j.tim.2021.07.006
+
 ---
 
-## Microbial bioindicators of Stony Coral Tissue Loss Disease identified in corals and overlying waters using a rapid field-based sequencing approach
+## Microbial bioindicators of Stony Coral Tissue Loss Disease identified in corals and overlying waters using a rapid field-based sequencing approach.
+ 25.08.2021, _CC Becker, M Brandt, CA Miller, A Apprill_
+
+
+Stony Coral Tissue Loss Disease (SCTLD) is a devastating disease. Since 2014, it has spread along the entire Florida Reef Tract and into the greater Caribbean. It was first detected in the United States Virgin Islands in January 2019. To more quickly identify microbial bioindicators of disease, we developed a rapid pipeline for microbiome sequencing. Over a span of 10 days we collected, processed, and sequenced coral and near-coral seawater microbiomes from diseased and apparently healthy Colpophyllia natans, Montastraea cavernosa, Meandrina meandrites and Orbicella franksi. Analysis of bacterial and archaeal 16S ribosomal RNA gene sequences revealed 25 bioindicator amplicon sequence variants (ASVs) enriched in diseased corals. These bioindicator ASVs were additionally recovered in near-coral seawater (&lt;5 cm of coral surface), a potential reservoir for pathogens. Phylogenetic analysis of microbial bioindicators with sequences from the Coral Microbiome Database revealed that Vibrio, Arcobacter, Rhizobiaceae, and Rhodobacteraceae sequences were related to disease-associated coral bacteria and lineages novel to corals. Additionally, four ASVs (Algicola, Cohaesibacter, Thalassobius and Vibrio) were matches to microbes previously associated with SCTLD that should be targets for future research. Overall, this work suggests that a rapid sequencing framework paired with specialized databases facilitates identification of microbial disease bioindicators. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/1462-2920.15718)
 
+10.1111/1462-2920.15718
+
 ---
 
-## Assessing age, breeding stage, and mating activity as drivers of variation in the reproductive microbiome of female tree swallows
+## Assessing age, breeding stage, and mating activity as drivers of variation in the reproductive microbiome of female tree swallows.
+ 26.08.2021, _J Hernandez, C Hucul, E Reasor, T Smith, JW McGlothlin, DC Haak, LK Belden, IT Moore_
+
+
+Sexually transmitted microbes are hypothesized to influence the evolution of reproductive strategies. Though frequently discussed in this context, our understanding of the reproductive microbiome is quite nascent. Indeed, testing this hypothesis first requires establishing a baseline understanding of the temporal dynamics of the reproductive microbiome and of how individual variation in reproductive behavior and age influence the assembly and maintenance of the reproductive microbiome as a whole. Here, we ask how mating activity, breeding stage, and age influence the reproductive microbiome. We use observational and experimental approaches to explain variation in the cloacal microbiome of free-living, female tree swallows (Tachycineta bicolor). Using microsatellite-based parentage analyses, we determined the number of sires per brood (a proxy for female mating activity). We experimentally increased female sexual activity by administering exogenous 17ß-estradiol. Lastly, we used bacterial 16S rRNA amplicon sequencing to characterize the cloacal microbiome. Neither the number of sires per brood nor the increased sexual activity of females significantly influenced female cloacal microbiome richness or community structure. Female age, however, was positively correlated with cloacal microbiome richness and influenced overall community structure. A hypothesis to explain these patterns is that the effect of sexual activity and the number of mates on variation in the cloacal microbiome manifests over an individual's lifetime. Additionally, we found that cloacal microbiome alpha diversity (Shannon Index, Faith's phylogenetic distance) decreased and community structure shifted between breeding stages. This is one of few studies to document within-individual changes and age-related differences in the cloacal microbiome across successive breeding stages. More broadly, our results contribute to our understanding of the role that host life history and behavior play in shaping the cloacal microbiomes of wild birds.
 
 [Source](https://doi.org/10.1002/ece3.7929)
 
+10.1002/ece3.7929
+
 ---
 
-## Activation of innate immunity during development induces unresolved dysbiotic inflammatory gut and shortens lifespan
+## Activation of innate immunity during development induces unresolved dysbiotic inflammatory gut and shortens lifespan.
+ 27.08.2021, _K Yamashita, A Oi, H Kosakamoto, T Yamauchi, H Kadoguchi, T Kuraishi, M Miura, F Obata_
+
+
+An early-life inflammatory response is associated with risks of age-related pathologies. How transient immune signalling activity during animal development influences life-long fitness is not well understood. Using Drosophila as a model, we find that activation of innate immune pathway Immune deficiency (Imd) signalling in the developing larvae increases adult starvation resistance, decreases food intake and shortens organismal lifespan. Interestingly, lifespan is shortened by Imd activation in the larval gut and fat body, whereas starvation resistance and food intake are altered by that in neurons. The adult flies that developed with Imd activation show sustained Imd activity in the gut, despite complete tissue renewal during metamorphosis. The larval Imd activation increases an immunostimulative bacterial species, Gluconobacter sp., in the gut microbiome, and this dysbiosis is persistent to adulthood. Removal of gut microbiota by antibiotics in the adult fly mitigates intestinal immune activation and rescues the shortened lifespan. This study demonstrates that early-life immune activation triggers long-term physiological changes, highlighted as an irreversible alteration in gut microbiota, prolonged inflammatory intestine and concomitant shortening of the organismal lifespan.
 
 [Source](https://doi.org/10.1242/dmm.049103)
 
+10.1242/dmm.049103
+
 ---
 
-## The composition of the gut microbiota following early-life antibiotic exposure affects host health and longevity in later life
+## The composition of the gut microbiota following early-life antibiotic exposure affects host health and longevity in later life.
+ 25.08.2021, _MA Lynn, G Eden, FJ Ryan, J Bensalem, X Wang, SJ Blake, JM Choo, YT Chern, A Sribnaia, J James, SC Benson, L Sandeman, J Xie, S Hassiotis, EW Sun, AM Martin, MD Keller, DJ Keating, TJ Sargeant, CG Proud, SL Wesselingh, GB Rogers, DJ Lynn_
+
+
+Studies investigating whether there is a causative link between the gut microbiota and lifespan have largely been restricted to invertebrates or to mice with a reduced lifespan because of a genetic deficiency. We investigate the effect of early-life antibiotic exposure on otherwise healthy, normal chow-fed, wild-type mice, monitoring these mice for more than 700 days in comparison with untreated control mice. We demonstrate the emergence of two different low-diversity community types, post-antibiotic microbiota (PAM) I and PAM II, following antibiotic exposure. PAM II but not PAM I mice have impaired immunity, increased insulin resistance, and evidence of increased inflammaging in later life as well as a reduced lifespan. Our data suggest that differences in the composition of the gut microbiota following antibiotic exposure differentially affect host health and longevity in later life.
 
 [Source](https://doi.org/10.1016/j.celrep.2021.109564)
 
+10.1016/j.celrep.2021.109564
+
 ---
 
-## Redundant cytokine requirement for intestinal microbiota-induced Th17 cell differentiation in draining lymph nodes
+## Redundant cytokine requirement for intestinal microbiota-induced Th17 cell differentiation in draining lymph nodes.
+ 25.08.2021, _T Sano, T Kageyama, V Fang, R Kedmi, CS Martinez, J Talbot, A Chen, I Cabrera, O Gorshko, R Kurakake, Y Yang, C Ng, SR Schwab, DR Littman_
+
+
+Differentiation of intestinal T helper 17 (Th17) cells, which contribute to mucosal barrier protection from invasive pathogens, is dependent on colonization with distinct commensal bacteria. Segmented filamentous bacteria (SFB) are sufficient to support Th17 cell differentiation in mouse, but the molecular and cellular requirements for this process remain incompletely characterized. Here, we show that intestine-draining mesenteric lymph nodes (MLNs), not intestine proper, are the dominant site of SFB-induced intestinal Th17 cell differentiation. Subsequent migration of these cells to the intestinal lamina propria is dependent on their upregulation of integrin β7. Stat3-dependent induction of RORγt, the Th17 cell-specifying transcription factor, largely depends on IL-6, but signaling through the receptors for IL-21 and IL-23 can compensate for absence of IL-6 to promote SFB-directed Th17 cell differentiation. These results indicate that redundant cytokine signals guide commensal microbe-dependent Th17 cell differentiation in the MLNs and accumulation of the cells in the lamina propria.
 
 [Source](https://doi.org/10.1016/j.celrep.2021.109608)
+
+10.1016/j.celrep.2021.109608
 
 ---
 
 ## Honeybee intestines retain low yeast titers, but no bacterial mutualists, at emergence.
+ 26.08.2021, _JP Tauber, D McMahon, EV Ryabov, M Kunat, A Ptaszynska, JD Evans_
+
+
+Honeybee symbionts, predominantly bacteria, play important roles in honeybee health, nutrition and pathogen protection, thereby supporting colony health. On the other hand, fungi are often considered indicators of poor bee health and honeybee microbiome studies generally exclude fungi and yeasts. We hypothesized that yeasts may be an important aspect of early honeybee biology and if yeasts provide a mutual benefit to their hosts, then honeybees could provide a refuge during metamorphosis to ensure the presence of yeasts at emergence. We surveyed for yeast and fungi during pupal development and metamorphosis in worker bees using fungal-specific qPCR, next-generation sequencing and standard microbiological culturing. Based on yeast presence in three distinct apiaries and multiple developmental stages, we conclude that yeasts can survive through metamorphosis and in naïve worker bees, albeit at relatively low levels. In comparison, known bacterial mutualists, like Gilliamella and Snodgrassella, were generally not found in pre-eclosed adult bees. Whether yeasts are actively retained as an important part of the bee microbiota or are passively propagating in the colony remains unknown. Our demonstration of the constancy of yeasts throughout development provides a framework to further understand the honeybee microbiota.
 
 [Source](https://doi.org/10.1002/yea.3665)
+
+10.1002/yea.3665
 
 ---
 
@@ -280,9 +387,15 @@ Following the advent of industrial-scale antibiotic production in the 1940s,1 an
 
 ---
 
-## Wolves, dogs and humans in regular contact can mutually impact each other’s skin microbiota.
+## Wolves, dogs and humans in regular contact can mutually impact each other's skin microbiota.
+ 25.08.2021, _SU Wetzels, CR Strachan, B Conrady, M Wagner, IA Burgener, Z Virányi, E Selberherr_
+
+
+In contrast to humans and dogs, the skin microbiota of wolves is yet to be described. Here, we investigated the skin microbiota of dogs and wolves kept in outdoor packs at the Wolf Science Center (WSC) via 16S rRNA gene amplicon sequencing. Skin swab samples were also collected from human care takers and their pet dogs. When comparing the three canine groups, representing different degrees of human contact to the care takers and each other, the pet dogs showed the highest level of diversity. Additionally, while human skin was dominated by a few abundant phylotypes, the skin microbiota of the care takers who had particularly close contact with the WSC animals was more similar to the microbiota of dogs and wolves compared to the humans who had less contact with these animals. Our results suggest that domestication may have an impact on the diversity of the skin microbiota, and that the canine skin microbiota can be shared with humans, depending on the level of interaction.
 
 [Source](https://doi.org/10.1038/s41598-021-96160-7)
+
+10.1038/s41598-021-96160-7
 
 ---
 
@@ -298,15 +411,27 @@ Following the advent of industrial-scale antibiotic production in the 1940s,1 an
 
 ---
 
-## A review of root exudates and rhizosphere microbiome for crop production
+## A review of root exudates and rhizosphere microbiome for crop production.
+ 25.08.2021, _H Sun, S Jiang, C Jiang, C Wu, M Gao, Q Wang_
+
+
+Increasing crop yields and ensuring food security is a major global challenge. In order to increase crop production, chemical fertilizers and pesticides are excessively used. However, the significance of root exudates is understudied. Beneficial interactions between plant and rhizosphere microbiome are critical for plant fitness and health. In this review, we discuss the application and progress of current research methods and technologies in terms of root exudates and rhizosphere microbiome. We summarize how root exudates promote plant access to nitrogen, phosphorus, and iron, and how root exudates strengthen plant immunity to cope with biotic stress by regulating the rhizosphere microbiome, and thereby reducing dependence on fertilizers and pesticides. Optimizing these interactions to increase plant nutrient uptake and resistance to biotic stresses offers one of the few untapped opportunities to confront sustainability issues in food security. To overcome the limitations of current research, combination of multi-omics, imaging technology together with synthetic communities has the potential to uncover the interaction mechanisms and to fill the knowledge gap for their applications in agriculture to achieve sustainable development.
 
 [Source](https://doi.org/10.1007/s11356-021-15838-7)
 
+10.1007/s11356-021-15838-7
+
 ---
 
-## The biodiversity effect of reduced tillage on soil microbiota
+## The biodiversity effect of reduced tillage on soil microbiota.
+ 27.08.2021, _TG Frøslev, IB Nielsen, SS Santos, CJ Barnes, HH Bruun, R Ejrnæs_
+
+
+The conversion of natural habitats into farmland has been a leading cause of species loss worldwide. Here, we investigated to what extent less intensive soil disturbance can mitigate this loss. Specifically, we examined whether reduced soil disturbance by tillage in agricultural fields could contribute to soil microbial biodiversity by providing a habitat for species that are limited by conventional tillage. To do so, we studied the diversity of soil biotas from three agricultural practices representing conventional tillage, reduced tillage and no tillage. Study fields were sampled by taking a bulk soil sample at the centre and edge of each field. The soil communities were recorded with environmental DNA metabarcoding using three molecular markers targeting bacteria, fungi and eukaryotes. While these three markers represent the vast majority of biotic variation in the soil, they will inevitably be dominated by the megadiverse microbiota of bacteria, microfungi and protists. We found a significant differentiation in community composition related to the intensity of tillage. Richness was weakly correlated to tillage, and more influenced by whether the sample was taken in the center or the edge of the field. Despite the significant effect of tillage on composition, comparisons with natural ecosystems revealed that all 30 study fields were much more similar in composition to other rotational fields than to more natural habitats, oldfields and leys. Despite a slightly higher similarity to oldfields and semi-natural grasslands, the contribution of no-till soil communities to biodiversity conservation is negligible, and our results indicate that restoration on set aside land may contribute more to conservation.
 
 [Source](https://doi.org/10.1007/s13280-021-01611-0)
+
+10.1007/s13280-021-01611-0
 
 ---
 
