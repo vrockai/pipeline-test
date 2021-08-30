@@ -328,27 +328,51 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## Benchmarking laboratory processes to characterise low-biomass respiratory microbiota
+## Benchmarking laboratory processes to characterise low-biomass respiratory microbiota.
+ 26.08.2021, _R Hasrat, J Kool, WAA de Steenhuijsen Piters, MLJN Chu, S Kuiling, JA Groot, EM van Logchem, S Fuentes, E Franz, D Bogaert, T Bosch_
+
+
+The low biomass of respiratory samples makes it difficult to accurately characterise the microbial community composition. PCR conditions and contaminating microbial DNA can alter the biological profile. The objective of this study was to benchmark the currently available laboratory protocols to accurately analyse the microbial community of low biomass samples. To study the effect of PCR conditions on the microbial community profile, we amplified the 16S rRNA gene of respiratory samples using various bacterial loads and different number of PCR cycles. Libraries were purified by gel electrophoresis or AMPure XP and sequenced by V2 or V3 MiSeq reagent kits by Illumina sequencing. The positive control was diluted in different solvents. PCR conditions had no significant influence on the microbial community profile of low biomass samples. Purification methods and MiSeq reagent kits provided nearly similar microbiota profiles (paired Bray-Curtis dissimilarity median: 0.03 and 0.05, respectively). While profiles of positive controls were significantly influenced by the type of dilution solvent, the theoretical profile of the Zymo mock was most accurately analysed when the Zymo mock was diluted in elution buffer (difference compared to the theoretical Zymo mock: 21.6% for elution buffer, 29.2% for Milli-Q, and 79.6% for DNA/RNA shield). Microbiota profiles of DNA blanks formed a distinct cluster compared to low biomass samples, demonstrating that low biomass samples can accurately be distinguished from DNA blanks. In summary, to accurately characterise the microbial community composition we recommend 1. amplification of the obtained microbial DNA with 30 PCR cycles, 2. purifying amplicon pools by two consecutive AMPure XP steps and 3. sequence the pooled amplicons by V3 MiSeq reagent kit. The benchmarked standardized laboratory workflow presented here ensures comparability of results within and between low biomass microbiome studies.
 
 [Source](https://doi.org/10.1038/s41598-021-96556-5)
 
+10.1038/s41598-021-96556-5
+
 ---
 
-## Simultaneous feature selection and outlier detection with optimality guarantees
+## Simultaneous feature selection and outlier detection with optimality guarantees.
+ 26.08.2021, _L Insolia, A Kenney, F Chiaromonte, G Felici_
+
+
+Biomedical research is increasingly data rich, with studies comprising ever growing numbers of features. The larger a study, the higher the likelihood that a substantial portion of the features may be redundant and/or contain contamination (outlying values). This poses serious challenges, which are exacerbated in cases where the sample sizes are relatively small. Effective and efficient approaches to perform sparse estimation in the presence of outliers are critical for these studies, and have received considerable attention in the last decade. We contribute to this area considering high-dimensional regressions contaminated by multiple mean-shift outliers affecting both the response and the design matrix. We develop a general framework and use mixed-integer programming to simultaneously perform feature selection and outlier detection with provably optimal guarantees. We prove theoretical properties for our approach, i.e., a necessary and sufficient condition for the robustly strong oracle property, where the number of features can increase exponentially with the sample size; the optimal estimation of parameters; and the breakdown point of the resulting estimates. Moreover, we provide computationally efficient procedures to tune integer constraints and warm-start the algorithm. We show the superior performance of our proposal compared to existing heuristic methods through simulations and use it to study the relationships between childhood obesity and the human microbiome. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/biom.13553)
 
+10.1111/biom.13553
+
 ---
 
-## SMDI: An Index for Measuring Subgingival Microbial Dysbiosis
+## SMDI: An Index for Measuring Subgingival Microbial Dysbiosis.
+ 25.08.2021, _T Chen, PD Marsh, NN Al-Hebshi_
+
+
+An intuitive, clinically relevant index of microbial dysbiosis as a summary statistic of subgingival microbiome profiles is needed. Here, we describe a subgingival microbial dysbiosis index (SMDI) based on machine learning analysis of published periodontitis/health 16S microbiome data. The raw sequencing data, split into training and test sets, were quality filtered, taxonomically assigned to the species level, and centered log-ratio transformed. The training data set was subject to random forest analysis to identify discriminating species (DS) between periodontitis and health. DS lists, compiled by various "Gini" importance score cutoffs, were used to compute the SMDI for samples in the training and test data sets as the mean centered log-ratio abundance of periodontitis-associated species subtracted by that of health-associated ones. Diagnostic accuracy was assessed with receiver operating characteristic analysis. An SMDI based on 49 DS provided the highest accuracy with areas under the curve of 0.96 and 0.92 in the training and test data sets, respectively, and ranged from -6 (most normobiotic) to 5 (most dysbiotic) with a value around zero discriminating most of the periodontitis and healthy samples. The top periodontitis-associated DS were Treponema denticola, Mogibacterium timidum, Fretibacterium spp., and Tannerella forsythia, while Actinomyces naeslundii and Streptococcus sanguinis were the top health-associated DS. The index was highly reproducible by hypervariable region. Applying the index to additional test data sets in which nitrate had been used to modulate the microbiome demonstrated that nitrate has dysbiosis-lowering properties in vitro and in vivo. Finally, 3 genera (Treponema, Fretibacterium, and Actinomyces) were identified that could be used for calculation of a simplified SMDI with comparable accuracy. In conclusion, we have developed a nonbiased, reproducible, and easy-to-interpret index that can be used to identify patients/sites at risk of periodontitis, to assess the microbial response to treatment, and, importantly, as a quantitative tool in microbiome modulation studies.
 
 [Source](https://doi.org/10.1177/00220345211035775)
 
+10.1177/00220345211035775
+
 ---
 
-## Trends in inflammatory bowel disease treatment in the past two decades-a high-level text mining analysis of PubMed publications
+## Trends in inflammatory bowel disease treatment in the past two decades-a high-level text mining analysis of PubMed publications.
+ 25.08.2021, _E Klang, Y Barash, S Soffer, E Shachar, A Lahat_
+
+
+Many therapeutic options for inflammatory bowel disease (IBD) emerged during the last 2 decades, along with the rise in disease prevalence and incidence. We aimed at assessing the published literature on different treatment options in that period. Special attention was attributed to specific medication mechanisms and geographic diversity.
 
 [Source](https://doi.org/10.1002/ueg2.12138)
+
+10.1002/ueg2.12138
 
 ---
 
