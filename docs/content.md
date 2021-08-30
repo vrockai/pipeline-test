@@ -250,9 +250,15 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans
+## The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans.
+ 26.08.2021, _JC Brealey, HG Leitão, T Hofstede, DC Kalthoff, K Guschanski_
+
+
+Following the advent of industrial-scale antibiotic production in the 1940s,1 antimicrobial resistance (AMR) has been on the rise and now poses a major global health threat in terms of mortality, morbidity, and economic burden.2,3 Because AMR can be exchanged between humans, livestock, and wildlife, wild animals can be used as indicators of human-associated AMR contamination of the environment.4 However, AMR is a normal function of natural environments and is present in host-associated microbiomes, which makes it challenging to distinguish between anthropogenic and natural sources.4,5 One way to overcome this difficulty is to use historical samples that span the period from before the mass production of antibiotics to today. We used shotgun metagenomic sequencing of dental calculus, the calcified form of the oral microbial biofilm, to determine the abundance and repertoire of AMR genes in the oral microbiome of Swedish brown bears collected over the last 180 years. Our temporal metagenomics approach allowed us to establish a baseline of natural AMR in the pre-antibiotics era and to quantify a significant increase in total AMR load and diversity of AMR genes that is consistent with patterns of national human antibiotic use. We also demonstrated a significant decrease in total AMR load in bears in the last two decades, which coincides with Swedish strategies to mitigate AMR. Our study suggests that public health policies can be effective in limiting human-associated AMR contamination of the environment and wildlife.
 
 [Source](https://doi.org/10.1016/j.cub.2021.08.010)
+
+10.1016/j.cub.2021.08.010
 
 ---
 
@@ -304,9 +310,15 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## Microbiome-mediated response to pulse fire disturbance outweighs the effects of fire legacy on plant performance
+## Microbiome-mediated response to pulse fire disturbance outweighs the effects of fire legacy on plant performance.
+ 25.08.2021, _D Revillini, AS David, ES Menges, KN Main, ME Afkhami, CA Searcy_
+
+
+Fire plays a major role in structuring plant communities across the globe. Interactions with soil microbes impact plant fitness, scaling up to influence plant populations and distributions. Here we present the first factorial manipulation of both fire and soil microbiome presence to investigate their interactive effects on plant performance across a suite of plant species with varying life history traits. We conducted fully-factorial experiments on each of 11 species from the Florida scrub ecosystem to test plant performance responses to soils with varying fire histories (36 soil sources), the presence/absence of a microbiome, and exposure to an experimental burn. Results revealed interactive 'pulse' effects between fire and the soil microbiome on plant performance. On average, post-fire soil microbiomes strongly reduced plant productivity compared to unburned or sterilized soils. Interestingly, longer-term fire 'legacy' effects had minor impacts on plant performance and were unrelated to soil microbiomes. While pulse fire effects on plant-microbiome interactions are short-term, they could have long-term consequences for plant communities by establishing differential microbiome-mediated priority effects during post-disturbance succession. The prominence of pulse fire effects on plant-microbe interactions has even greater import due to expected increases in fire disturbances resulting from anthropogenic climate change.
 
 [Source](https://doi.org/10.1111/nph.17689)
+
+10.1111/nph.17689
 
 ---
 
@@ -316,9 +328,15 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## Temporal and Spatial Signaling Mediating the Balance of the Plankton Microbiome
+## Temporal and Spatial Signaling Mediating the Balance of the Plankton Microbiome.
+ 26.08.2021, _Y Deng, M Vallet, G Pohnert_
+
+
+The annual patterns of plankton succession in the ocean determine ecological and biogeochemical cycles. The temporally fluctuating interplay between photosynthetic eukaryotes and the associated microbiota balances the composition of aquatic planktonic ecosystems. In addition to nutrients and abiotic factors, chemical signaling determines the outcome of interactions between phytoplankton and their associated microbiomes. Chemical mediators control essential processes, such as the development of key morphological, physiological, behavioral, and life-history traits during algal growth. These molecules thus impact species succession and community composition across time and space in processes that are highlighted in this review. We focus on spatial, seasonal, and physiological dynamics that occur during the early association of algae with bacteria, the exponential growth of a bloom, and also during its decline and recycling. We also discuss how patterns from field data and global surveys might be linked to the actions of metabolic markers in natural phytoplankton assemblages. Expected final online publication date for the Annual Review of Marine Science, Volume 14 is January 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-marine-042021-012353)
+
+10.1146/annurev-marine-042021-012353
 
 ---
 
