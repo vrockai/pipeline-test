@@ -28,9 +28,15 @@
 
 ---
 
-## Cross-sectional comparisons of subgingival microbiome and gingival fluid inflammatory cytokines in periodontally healthy vegetarians versus non-vegetarians
+## Cross-sectional comparisons of subgingival microbiome and gingival fluid inflammatory cytokines in periodontally healthy vegetarians versus non-vegetarians.
+ 27.08.2021, _A Khocht, M Orlich, B Paster, D Bellinger, L Lenoir, C Irani, G Fraser_
+
+
+Vegetarian diets are known to reduce inflammation. The objective of this study was to test the hypothesis that reduced inflammation associated with a vegetarian diet would promote a more commensal subgingival bacterial profile.
 
 [Source](https://doi.org/10.1111/jre.12922)
+
+10.1111/jre.12922
 
 ---
 
@@ -40,51 +46,27 @@
 
 ---
 
-## The Gut Microbiome, Metformin, and Aging.
- 27.08.2021, _SNR Induri, P Kansara, SC Thomas, F Xu, D Saxena, X Li_
-
-
-Metformin has been extensively used for the treatment of type 2 diabetes, and it may also promote healthy aging. Despite its widespread use and versatility, metformin's mechanisms of action remain elusive. The gut typically harbors thousands of bacterial species, and as the concentration of metformin is much higher in the gut as compared to plasma, it is plausible that microbiome-drug-host interactions may influence the functions of metformin. Detrimental perturbations in the aging gut microbiome lead to the activation of the innate immune response concomitant with chronic low-grade inflammation. With the effectiveness of metformin in diabetes and antiaging varying among individuals, there is reason to believe that the gut microbiome plays a role in the efficacy of metformin. Metformin has been implicated in the promotion and maintenance of a healthy gut microbiome and reduces many age-related degenerative pathologies. Mechanistic understanding of metformin in the promotion of a healthy gut microbiome and aging will require a systems-level approach. Expected final online publication date for the Annual Review of Pharmacology and Toxicology, Volume 62 is January 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+## The Gut Microbiome, Metformin, and Aging
 
 [Source](https://doi.org/10.1146/annurev-pharmtox-051920-093829)
 
-10.1146/annurev-pharmtox-051920-093829
-
 ---
 
-## Microbe defines the efficacy of chemotherapeutic drug: A complete paradigm.
- 27.08.2021, _P Dalal, D Sharma_
-
-
-The human body harbors a diverse microbiome that regulates host physiology and disease development. Several studies have also been reported where the human microbiome interferes with the efficacy of chemotherapeutics. Reports have also suggested the use of microbes in specific targeting and drug delivery. This review mainly focuses on the alteration in the efficacy of the drug by human microbiota. We have also discussed how the diversity in microbes can determine the therapeutic outcomes of a particular drug. The pathways involved in the alteration are also focused, with some highlights on microbes being used in cancer therapy.
+## Microbe defines the efficacy of chemotherapeutic drug: A complete paradigm
 
 [Source](https://doi.org/10.1093/femsle/fnab116)
 
-10.1093/femsle/fnab116
-
 ---
 
-## Gut Microbiota Profiles in Early- and Late-Onset Colorectal Cancer: A Potential Diagnostic Biomarker in the Future.
- 25.08.2021, _M Abdullah, N Sukartini, SA Nursyirwan, RR Pribadi, H Maulahela, AP Utari, VN Muzellina, A Wiraatmadja, K Renaldi_
-
-
-Researchers believe the role of gut microbiota dysbiosis in the raised incidence of early-onset colorectal cancer (EOCRC). The development of EOCRC may be associated with microbiota dysbiosis either dependently or independently (combined with other risk factors).
+## Gut Microbiota Profiles in Early- and Late-Onset Colorectal Cancer: A Potential Diagnostic Biomarker in the Future
 
 [Source](https://doi.org/10.1159/000516689)
-
-10.1159/000516689
 
 ---
 
 ## Manipulating the neonatal gut microbiome: current understanding and future perspectives.
- 26.08.2021, _E Wong, K Lui, AS Day, ST Leach_
-
-
-The development of a healthy intestinal microbiome following birth contributes to the overall health of the infant during childhood and into adulthood. However, modern birth practices such as caesarean delivery, feeding, antibiotic exposure as well as maternal factors have the potential to greatly impact infant microbiome development. Aberrant microbiome development may be a key factor in the increasing incidence of inflammatory and gut diseases. This review will summarise the current understanding of how modern birth practices may contribute to deficiencies in neonatal gut microbiome development and will also present potential methods of microbiome engineering that aim to ensure the development of a healthy and robust microbiome to protect the host from disease throughout their life.
 
 [Source](https://doi.org/10.1136/archdischild-2021-321922)
-
-10.1136/archdischild-2021-321922
 
 ---
 
@@ -346,21 +328,39 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## A review of root exudates and rhizosphere microbiome for crop production
+## A review of root exudates and rhizosphere microbiome for crop production.
+ 25.08.2021, _H Sun, S Jiang, C Jiang, C Wu, M Gao, Q Wang_
+
+
+Increasing crop yields and ensuring food security is a major global challenge. In order to increase crop production, chemical fertilizers and pesticides are excessively used. However, the significance of root exudates is understudied. Beneficial interactions between plant and rhizosphere microbiome are critical for plant fitness and health. In this review, we discuss the application and progress of current research methods and technologies in terms of root exudates and rhizosphere microbiome. We summarize how root exudates promote plant access to nitrogen, phosphorus, and iron, and how root exudates strengthen plant immunity to cope with biotic stress by regulating the rhizosphere microbiome, and thereby reducing dependence on fertilizers and pesticides. Optimizing these interactions to increase plant nutrient uptake and resistance to biotic stresses offers one of the few untapped opportunities to confront sustainability issues in food security. To overcome the limitations of current research, combination of multi-omics, imaging technology together with synthetic communities has the potential to uncover the interaction mechanisms and to fill the knowledge gap for their applications in agriculture to achieve sustainable development.
 
 [Source](https://doi.org/10.1007/s11356-021-15838-7)
 
+10.1007/s11356-021-15838-7
+
 ---
 
-## The biodiversity effect of reduced tillage on soil microbiota
+## The biodiversity effect of reduced tillage on soil microbiota.
+ 27.08.2021, _TG Frøslev, IB Nielsen, SS Santos, CJ Barnes, HH Bruun, R Ejrnæs_
+
+
+The conversion of natural habitats into farmland has been a leading cause of species loss worldwide. Here, we investigated to what extent less intensive soil disturbance can mitigate this loss. Specifically, we examined whether reduced soil disturbance by tillage in agricultural fields could contribute to soil microbial biodiversity by providing a habitat for species that are limited by conventional tillage. To do so, we studied the diversity of soil biotas from three agricultural practices representing conventional tillage, reduced tillage and no tillage. Study fields were sampled by taking a bulk soil sample at the centre and edge of each field. The soil communities were recorded with environmental DNA metabarcoding using three molecular markers targeting bacteria, fungi and eukaryotes. While these three markers represent the vast majority of biotic variation in the soil, they will inevitably be dominated by the megadiverse microbiota of bacteria, microfungi and protists. We found a significant differentiation in community composition related to the intensity of tillage. Richness was weakly correlated to tillage, and more influenced by whether the sample was taken in the center or the edge of the field. Despite the significant effect of tillage on composition, comparisons with natural ecosystems revealed that all 30 study fields were much more similar in composition to other rotational fields than to more natural habitats, oldfields and leys. Despite a slightly higher similarity to oldfields and semi-natural grasslands, the contribution of no-till soil communities to biodiversity conservation is negligible, and our results indicate that restoration on set aside land may contribute more to conservation.
 
 [Source](https://doi.org/10.1007/s13280-021-01611-0)
 
+10.1007/s13280-021-01611-0
+
 ---
 
-## Microbiome-mediated response to pulse fire disturbance outweighs the effects of fire legacy on plant performance
+## Microbiome-mediated response to pulse fire disturbance outweighs the effects of fire legacy on plant performance.
+ 25.08.2021, _D Revillini, AS David, ES Menges, KN Main, ME Afkhami, CA Searcy_
+
+
+Fire plays a major role in structuring plant communities across the globe. Interactions with soil microbes impact plant fitness, scaling up to influence plant populations and distributions. Here we present the first factorial manipulation of both fire and soil microbiome presence to investigate their interactive effects on plant performance across a suite of plant species with varying life history traits. We conducted fully-factorial experiments on each of 11 species from the Florida scrub ecosystem to test plant performance responses to soils with varying fire histories (36 soil sources), the presence/absence of a microbiome, and exposure to an experimental burn. Results revealed interactive 'pulse' effects between fire and the soil microbiome on plant performance. On average, post-fire soil microbiomes strongly reduced plant productivity compared to unburned or sterilized soils. Interestingly, longer-term fire 'legacy' effects had minor impacts on plant performance and were unrelated to soil microbiomes. While pulse fire effects on plant-microbiome interactions are short-term, they could have long-term consequences for plant communities by establishing differential microbiome-mediated priority effects during post-disturbance succession. The prominence of pulse fire effects on plant-microbe interactions has even greater import due to expected increases in fire disturbances resulting from anthropogenic climate change.
 
 [Source](https://doi.org/10.1111/nph.17689)
+
+10.1111/nph.17689
 
 ---
 
@@ -370,9 +370,15 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## Temporal and Spatial Signaling Mediating the Balance of the Plankton Microbiome
+## Temporal and Spatial Signaling Mediating the Balance of the Plankton Microbiome.
+ 26.08.2021, _Y Deng, M Vallet, G Pohnert_
+
+
+The annual patterns of plankton succession in the ocean determine ecological and biogeochemical cycles. The temporally fluctuating interplay between photosynthetic eukaryotes and the associated microbiota balances the composition of aquatic planktonic ecosystems. In addition to nutrients and abiotic factors, chemical signaling determines the outcome of interactions between phytoplankton and their associated microbiomes. Chemical mediators control essential processes, such as the development of key morphological, physiological, behavioral, and life-history traits during algal growth. These molecules thus impact species succession and community composition across time and space in processes that are highlighted in this review. We focus on spatial, seasonal, and physiological dynamics that occur during the early association of algae with bacteria, the exponential growth of a bloom, and also during its decline and recycling. We also discuss how patterns from field data and global surveys might be linked to the actions of metabolic markers in natural phytoplankton assemblages. Expected final online publication date for the Annual Review of Marine Science, Volume 14 is January 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-marine-042021-012353)
+
+10.1146/annurev-marine-042021-012353
 
 ---
 
@@ -382,27 +388,51 @@ Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable
 
 ---
 
-## Benchmarking laboratory processes to characterise low-biomass respiratory microbiota
+## Benchmarking laboratory processes to characterise low-biomass respiratory microbiota.
+ 26.08.2021, _R Hasrat, J Kool, WAA de Steenhuijsen Piters, MLJN Chu, S Kuiling, JA Groot, EM van Logchem, S Fuentes, E Franz, D Bogaert, T Bosch_
+
+
+The low biomass of respiratory samples makes it difficult to accurately characterise the microbial community composition. PCR conditions and contaminating microbial DNA can alter the biological profile. The objective of this study was to benchmark the currently available laboratory protocols to accurately analyse the microbial community of low biomass samples. To study the effect of PCR conditions on the microbial community profile, we amplified the 16S rRNA gene of respiratory samples using various bacterial loads and different number of PCR cycles. Libraries were purified by gel electrophoresis or AMPure XP and sequenced by V2 or V3 MiSeq reagent kits by Illumina sequencing. The positive control was diluted in different solvents. PCR conditions had no significant influence on the microbial community profile of low biomass samples. Purification methods and MiSeq reagent kits provided nearly similar microbiota profiles (paired Bray-Curtis dissimilarity median: 0.03 and 0.05, respectively). While profiles of positive controls were significantly influenced by the type of dilution solvent, the theoretical profile of the Zymo mock was most accurately analysed when the Zymo mock was diluted in elution buffer (difference compared to the theoretical Zymo mock: 21.6% for elution buffer, 29.2% for Milli-Q, and 79.6% for DNA/RNA shield). Microbiota profiles of DNA blanks formed a distinct cluster compared to low biomass samples, demonstrating that low biomass samples can accurately be distinguished from DNA blanks. In summary, to accurately characterise the microbial community composition we recommend 1. amplification of the obtained microbial DNA with 30 PCR cycles, 2. purifying amplicon pools by two consecutive AMPure XP steps and 3. sequence the pooled amplicons by V3 MiSeq reagent kit. The benchmarked standardized laboratory workflow presented here ensures comparability of results within and between low biomass microbiome studies.
 
 [Source](https://doi.org/10.1038/s41598-021-96556-5)
 
+10.1038/s41598-021-96556-5
+
 ---
 
-## Simultaneous feature selection and outlier detection with optimality guarantees
+## Simultaneous feature selection and outlier detection with optimality guarantees.
+ 26.08.2021, _L Insolia, A Kenney, F Chiaromonte, G Felici_
+
+
+Biomedical research is increasingly data rich, with studies comprising ever growing numbers of features. The larger a study, the higher the likelihood that a substantial portion of the features may be redundant and/or contain contamination (outlying values). This poses serious challenges, which are exacerbated in cases where the sample sizes are relatively small. Effective and efficient approaches to perform sparse estimation in the presence of outliers are critical for these studies, and have received considerable attention in the last decade. We contribute to this area considering high-dimensional regressions contaminated by multiple mean-shift outliers affecting both the response and the design matrix. We develop a general framework and use mixed-integer programming to simultaneously perform feature selection and outlier detection with provably optimal guarantees. We prove theoretical properties for our approach, i.e., a necessary and sufficient condition for the robustly strong oracle property, where the number of features can increase exponentially with the sample size; the optimal estimation of parameters; and the breakdown point of the resulting estimates. Moreover, we provide computationally efficient procedures to tune integer constraints and warm-start the algorithm. We show the superior performance of our proposal compared to existing heuristic methods through simulations and use it to study the relationships between childhood obesity and the human microbiome. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/biom.13553)
 
+10.1111/biom.13553
+
 ---
 
-## SMDI: An Index for Measuring Subgingival Microbial Dysbiosis
+## SMDI: An Index for Measuring Subgingival Microbial Dysbiosis.
+ 25.08.2021, _T Chen, PD Marsh, NN Al-Hebshi_
+
+
+An intuitive, clinically relevant index of microbial dysbiosis as a summary statistic of subgingival microbiome profiles is needed. Here, we describe a subgingival microbial dysbiosis index (SMDI) based on machine learning analysis of published periodontitis/health 16S microbiome data. The raw sequencing data, split into training and test sets, were quality filtered, taxonomically assigned to the species level, and centered log-ratio transformed. The training data set was subject to random forest analysis to identify discriminating species (DS) between periodontitis and health. DS lists, compiled by various "Gini" importance score cutoffs, were used to compute the SMDI for samples in the training and test data sets as the mean centered log-ratio abundance of periodontitis-associated species subtracted by that of health-associated ones. Diagnostic accuracy was assessed with receiver operating characteristic analysis. An SMDI based on 49 DS provided the highest accuracy with areas under the curve of 0.96 and 0.92 in the training and test data sets, respectively, and ranged from -6 (most normobiotic) to 5 (most dysbiotic) with a value around zero discriminating most of the periodontitis and healthy samples. The top periodontitis-associated DS were Treponema denticola, Mogibacterium timidum, Fretibacterium spp., and Tannerella forsythia, while Actinomyces naeslundii and Streptococcus sanguinis were the top health-associated DS. The index was highly reproducible by hypervariable region. Applying the index to additional test data sets in which nitrate had been used to modulate the microbiome demonstrated that nitrate has dysbiosis-lowering properties in vitro and in vivo. Finally, 3 genera (Treponema, Fretibacterium, and Actinomyces) were identified that could be used for calculation of a simplified SMDI with comparable accuracy. In conclusion, we have developed a nonbiased, reproducible, and easy-to-interpret index that can be used to identify patients/sites at risk of periodontitis, to assess the microbial response to treatment, and, importantly, as a quantitative tool in microbiome modulation studies.
 
 [Source](https://doi.org/10.1177/00220345211035775)
 
+10.1177/00220345211035775
+
 ---
 
-## Trends in inflammatory bowel disease treatment in the past two decades-a high-level text mining analysis of PubMed publications
+## Trends in inflammatory bowel disease treatment in the past two decades-a high-level text mining analysis of PubMed publications.
+ 25.08.2021, _E Klang, Y Barash, S Soffer, E Shachar, A Lahat_
+
+
+Many therapeutic options for inflammatory bowel disease (IBD) emerged during the last 2 decades, along with the rise in disease prevalence and incidence. We aimed at assessing the published literature on different treatment options in that period. Special attention was attributed to specific medication mechanisms and geographic diversity.
 
 [Source](https://doi.org/10.1002/ueg2.12138)
+
+10.1002/ueg2.12138
 
 ---
 
