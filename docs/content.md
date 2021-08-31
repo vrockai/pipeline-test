@@ -10,9 +10,14 @@
 
 ---
 
-## The gut microbiome in feast and famine
+## The gut microbiome in feast and famine.
+ 25.08.2021, _HD Holscher_
+
+
 
 [Source](https://doi.org/10.1038/s41575-021-00514-5)
+
+10.1038/s41575-021-00514-5
 
 ---
 
@@ -22,15 +27,27 @@
 
 ---
 
-## Compositional profile of mucosal bacteriome of smokers and smokeless tobacco users
+## Compositional profile of mucosal bacteriome of smokers and smokeless tobacco users.
+ 26.08.2021, _D Gopinath, CC Wie, M Banerjee, L Thangavelu, P Kumar R, D Nallaswamy, MG Botelho, NW Johnson_
+
+
+Smoked, and especially smokeless, tobacco are major causes of oral cancer globally. Here, we examine the oral bacteriome of smokers and of smokeless tobacco users, in comparison to healthy controls, using 16S rRNA gene sequencing.
 
 [Source](https://doi.org/10.1007/s00784-021-04137-7)
 
+10.1007/s00784-021-04137-7
+
 ---
 
-## Cross-sectional comparisons of subgingival microbiome and gingival fluid inflammatory cytokines in periodontally healthy vegetarians versus non-vegetarians
+## Cross-sectional comparisons of subgingival microbiome and gingival fluid inflammatory cytokines in periodontally healthy vegetarians versus non-vegetarians.
+ 27.08.2021, _A Khocht, M Orlich, B Paster, D Bellinger, L Lenoir, C Irani, G Fraser_
+
+
+Vegetarian diets are known to reduce inflammation. The objective of this study was to test the hypothesis that reduced inflammation associated with a vegetarian diet would promote a more commensal subgingival bacterial profile.
 
 [Source](https://doi.org/10.1111/jre.12922)
+
+10.1111/jre.12922
 
 ---
 
@@ -124,21 +141,39 @@
 
 ---
 
-## The effect of probiotic supplementation on the gut microbiota of preterm infants
+## The effect of probiotic supplementation on the gut microbiota of preterm infants.
+ 26.08.2021, _EL Plummer, JA Danielewski, SM Garland, J Su, SE Jacobs, GL Murray_
+
+
+Introduction. Probiotic supplementation of preterm infants may prevent serious morbidities associated with prematurity.Aim. To investigate the impact of probiotic supplementation on the gut microbiota and determine factors associated with detection of probiotic species in the infant gut.Hypothesis/Gap Statement. Probiotic supplementation increases the long-term colonization of probiotic species in the gut of preterm infants.Methodology. Longitudinal stool samples were collected from a cohort of very preterm infants participating in a blinded randomized controlled trial investigating the impact of probiotic supplementation (containing Bifidobacterium longum subsp. infantis BB-02, Bifidobacterium animalis subsp. lactis BB-12 and Streptococcus thermophilus TH-4) for prevention of late-onset sepsis. The presence of B. longum subsp. infantis, B. animalis subsp. lactis and S. thermophilus was determined for up to 23 months after supplementation ended using real-time PCR. Logistic regression was used to investigate the impact of probiotic supplementation on the presence of each species.Results. Detection of B. longum subsp. infantis [odds ratio (OR): 53.1; 95 % confidence interval (CI): 35.6-79.1; P &lt; 0.001], B. animalis subsp. lactis (OR: 89.1; 95 % CI: 59.0-134.5; P &lt; 0.001) and S. thermophilus (OR: 5.66; 95 % CI: 4.35-7.37; P &lt; 0.001) was increased during the supplementation period in infants receiving probiotic supplementation. Post-supplementation, probiotic-supplemented infants had increased detection of B. longum subsp. infantis (OR: 2.53; 95 % CI: 1.64-3.90; P &lt; 0.001) and B. animalis subsp. lactis (OR: 1.59; 95 % CI: 1.05-2.41; P=0.030). Commencing probiotic supplementation before 5 days from birth was associated with increased detection of the probiotic species over the study period (B. longum subsp. infantis, OR: 1.20; B. animalis subsp. lactis, OR: 1.28; S. thermophilus, OR: 1.45).Conclusion. Probiotic supplementation with B. longum subsp. infantis BB-02, B. animalis subsp. lactis BB-12 and S. thermophilus TH-4 enhances the presence of probiotic species in the gut microbiota of very preterm infants during and after supplementation. Commencing probiotic supplementation shortly after birth may be important for improving the long-term colonization of probiotic species.
 
 [Source](https://doi.org/10.1099/jmm.0.001403)
 
+10.1099/jmm.0.001403
+
 ---
 
-## Noni (Morinda citrifolia L.) Fruit Polysaccharides Regulated IBD Mice Via Targeting Gut Microbiota: Association of JNK/ERK/NF-κB Signaling Pathways
+## Noni (Morinda citrifolia L.) Fruit Polysaccharides Regulated IBD Mice Via Targeting Gut Microbiota: Association of JNK/ERK/NF-κB Signaling Pathways.
+ 25.08.2021, _MY Jin, XY Wu, MY Li, XT Li, RM Huang, YM Sun, ZL Xu_
+
+
+Inflammatory bowel disease (IBD) is a disease characterized by intestinal inflammation with immune dysregulation and intestinal microecological imbalance. In a dextran sulfate sodium salt (DSS)-induced IBD mouse model, noni (Morinda citrifolia L.) fruit polysaccharides (NFP) with homogalacturonan and rhamnogalacturonan-I domain decreased the concentration of serum LPS, TNF-α, and IL-17 by 84, 42, and 65%, respectively. It was abolished when intestinal microbiota were depleted by antibiotics. Sequencing analysis of gut microbiota showed an attenuated disruption of the microbial composition in the DSS+NFP group. Targeted metabolomic analysis revealed that NFP upregulated the content of acetic acid, propionic acid, and butyric acid by onefold but reduced isobutyric acid and isovaleric acid contents. NFP also inhibited JNK, ERK, and NF-κB phosphorylation of IBD mice. Taken together, the mechanism of NFP alleviating IBD is related to the intestinal microecological balance to inhibit inflammatory signaling pathways. This study provides a basis for NFP as a cheap intervention for the prevention and treatment of IBD patients.
 
 [Source](https://doi.org/10.1021/acs.jafc.1c03833)
 
+10.1021/acs.jafc.1c03833
+
 ---
 
-## Long-term personalized low FODMAP diet improves symptoms and maintains luminal Bifidobacteria abundance in irritable bowel syndrome
+## Long-term personalized low FODMAP diet improves symptoms and maintains luminal Bifidobacteria abundance in irritable bowel syndrome.
+ 25.08.2021, _HM Staudacher, M Rossi, T Kaminski, E Dimidi, FSE Ralph, B Wilson, LD Martin, P Louis, MCE Lomer, PM Irving, K Whelan_
+
+
+Short-term trials demonstrate the low FODMAP diet improves symptoms of irritable bowel syndrome (IBS) but impacts nutrient intake and the gastrointestinal microbiota. The aim of this study was to investigate clinical symptoms, nutrient intake, and microbiota of patients with IBS 12 months after starting a low FODMAP diet.
 
 [Source](https://doi.org/10.1111/nmo.14241)
+
+10.1111/nmo.14241
 
 ---
 
@@ -184,21 +219,39 @@
 
 ---
 
-## Redundant cytokine requirement for intestinal microbiota-induced Th17 cell differentiation in draining lymph nodes
+## Redundant cytokine requirement for intestinal microbiota-induced Th17 cell differentiation in draining lymph nodes.
+ 25.08.2021, _T Sano, T Kageyama, V Fang, R Kedmi, CS Martinez, J Talbot, A Chen, I Cabrera, O Gorshko, R Kurakake, Y Yang, C Ng, SR Schwab, DR Littman_
+
+
+Differentiation of intestinal T helper 17 (Th17) cells, which contribute to mucosal barrier protection from invasive pathogens, is dependent on colonization with distinct commensal bacteria. Segmented filamentous bacteria (SFB) are sufficient to support Th17 cell differentiation in mouse, but the molecular and cellular requirements for this process remain incompletely characterized. Here, we show that intestine-draining mesenteric lymph nodes (MLNs), not intestine proper, are the dominant site of SFB-induced intestinal Th17 cell differentiation. Subsequent migration of these cells to the intestinal lamina propria is dependent on their upregulation of integrin β7. Stat3-dependent induction of RORγt, the Th17 cell-specifying transcription factor, largely depends on IL-6, but signaling through the receptors for IL-21 and IL-23 can compensate for absence of IL-6 to promote SFB-directed Th17 cell differentiation. These results indicate that redundant cytokine signals guide commensal microbe-dependent Th17 cell differentiation in the MLNs and accumulation of the cells in the lamina propria.
 
 [Source](https://doi.org/10.1016/j.celrep.2021.109608)
+
+10.1016/j.celrep.2021.109608
 
 ---
 
 ## Honeybee intestines retain low yeast titers, but no bacterial mutualists, at emergence.
+ 26.08.2021, _JP Tauber, D McMahon, EV Ryabov, M Kunat, A Ptaszynska, JD Evans_
+
+
+Honeybee symbionts, predominantly bacteria, play important roles in honeybee health, nutrition and pathogen protection, thereby supporting colony health. On the other hand, fungi are often considered indicators of poor bee health and honeybee microbiome studies generally exclude fungi and yeasts. We hypothesized that yeasts may be an important aspect of early honeybee biology and if yeasts provide a mutual benefit to their hosts, then honeybees could provide a refuge during metamorphosis to ensure the presence of yeasts at emergence. We surveyed for yeast and fungi during pupal development and metamorphosis in worker bees using fungal-specific qPCR, next-generation sequencing and standard microbiological culturing. Based on yeast presence in three distinct apiaries and multiple developmental stages, we conclude that yeasts can survive through metamorphosis and in naïve worker bees, albeit at relatively low levels. In comparison, known bacterial mutualists, like Gilliamella and Snodgrassella, were generally not found in pre-eclosed adult bees. Whether yeasts are actively retained as an important part of the bee microbiota or are passively propagating in the colony remains unknown. Our demonstration of the constancy of yeasts throughout development provides a framework to further understand the honeybee microbiota.
 
 [Source](https://doi.org/10.1002/yea.3665)
 
+10.1002/yea.3665
+
 ---
 
-## The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans
+## The oral microbiota of wild bears in Sweden reflects the history of antibiotic use by humans.
+ 26.08.2021, _JC Brealey, HG Leitão, T Hofstede, DC Kalthoff, K Guschanski_
+
+
+Following the advent of industrial-scale antibiotic production in the 1940s,1 antimicrobial resistance (AMR) has been on the rise and now poses a major global health threat in terms of mortality, morbidity, and economic burden.2,3 Because AMR can be exchanged between humans, livestock, and wildlife, wild animals can be used as indicators of human-associated AMR contamination of the environment.4 However, AMR is a normal function of natural environments and is present in host-associated microbiomes, which makes it challenging to distinguish between anthropogenic and natural sources.4,5 One way to overcome this difficulty is to use historical samples that span the period from before the mass production of antibiotics to today. We used shotgun metagenomic sequencing of dental calculus, the calcified form of the oral microbial biofilm, to determine the abundance and repertoire of AMR genes in the oral microbiome of Swedish brown bears collected over the last 180 years. Our temporal metagenomics approach allowed us to establish a baseline of natural AMR in the pre-antibiotics era and to quantify a significant increase in total AMR load and diversity of AMR genes that is consistent with patterns of national human antibiotic use. We also demonstrated a significant decrease in total AMR load in bears in the last two decades, which coincides with Swedish strategies to mitigate AMR. Our study suggests that public health policies can be effective in limiting human-associated AMR contamination of the environment and wildlife.
 
 [Source](https://doi.org/10.1016/j.cub.2021.08.010)
+
+10.1016/j.cub.2021.08.010
 
 ---
 
@@ -244,27 +297,15 @@
 
 ---
 
-## The biodiversity effect of reduced tillage on soil microbiota.
- 27.08.2021, _TG Frøslev, IB Nielsen, SS Santos, CJ Barnes, HH Bruun, R Ejrnæs_
-
-
-The conversion of natural habitats into farmland has been a leading cause of species loss worldwide. Here, we investigated to what extent less intensive soil disturbance can mitigate this loss. Specifically, we examined whether reduced soil disturbance by tillage in agricultural fields could contribute to soil microbial biodiversity by providing a habitat for species that are limited by conventional tillage. To do so, we studied the diversity of soil biotas from three agricultural practices representing conventional tillage, reduced tillage and no tillage. Study fields were sampled by taking a bulk soil sample at the centre and edge of each field. The soil communities were recorded with environmental DNA metabarcoding using three molecular markers targeting bacteria, fungi and eukaryotes. While these three markers represent the vast majority of biotic variation in the soil, they will inevitably be dominated by the megadiverse microbiota of bacteria, microfungi and protists. We found a significant differentiation in community composition related to the intensity of tillage. Richness was weakly correlated to tillage, and more influenced by whether the sample was taken in the center or the edge of the field. Despite the significant effect of tillage on composition, comparisons with natural ecosystems revealed that all 30 study fields were much more similar in composition to other rotational fields than to more natural habitats, oldfields and leys. Despite a slightly higher similarity to oldfields and semi-natural grasslands, the contribution of no-till soil communities to biodiversity conservation is negligible, and our results indicate that restoration on set aside land may contribute more to conservation.
+## The biodiversity effect of reduced tillage on soil microbiota
 
 [Source](https://doi.org/10.1007/s13280-021-01611-0)
 
-10.1007/s13280-021-01611-0
-
 ---
 
-## Microbiome-mediated response to pulse fire disturbance outweighs the effects of fire legacy on plant performance.
- 25.08.2021, _D Revillini, AS David, ES Menges, KN Main, ME Afkhami, CA Searcy_
-
-
-Fire plays a major role in structuring plant communities across the globe. Interactions with soil microbes impact plant fitness, scaling up to influence plant populations and distributions. Here we present the first factorial manipulation of both fire and soil microbiome presence to investigate their interactive effects on plant performance across a suite of plant species with varying life history traits. We conducted fully-factorial experiments on each of 11 species from the Florida scrub ecosystem to test plant performance responses to soils with varying fire histories (36 soil sources), the presence/absence of a microbiome, and exposure to an experimental burn. Results revealed interactive 'pulse' effects between fire and the soil microbiome on plant performance. On average, post-fire soil microbiomes strongly reduced plant productivity compared to unburned or sterilized soils. Interestingly, longer-term fire 'legacy' effects had minor impacts on plant performance and were unrelated to soil microbiomes. While pulse fire effects on plant-microbiome interactions are short-term, they could have long-term consequences for plant communities by establishing differential microbiome-mediated priority effects during post-disturbance succession. The prominence of pulse fire effects on plant-microbe interactions has even greater import due to expected increases in fire disturbances resulting from anthropogenic climate change.
+## Microbiome-mediated response to pulse fire disturbance outweighs the effects of fire legacy on plant performance
 
 [Source](https://doi.org/10.1111/nph.17689)
-
-10.1111/nph.17689
 
 ---
 
@@ -274,15 +315,9 @@ Fire plays a major role in structuring plant communities across the globe. Inter
 
 ---
 
-## Temporal and Spatial Signaling Mediating the Balance of the Plankton Microbiome.
- 26.08.2021, _Y Deng, M Vallet, G Pohnert_
-
-
-The annual patterns of plankton succession in the ocean determine ecological and biogeochemical cycles. The temporally fluctuating interplay between photosynthetic eukaryotes and the associated microbiota balances the composition of aquatic planktonic ecosystems. In addition to nutrients and abiotic factors, chemical signaling determines the outcome of interactions between phytoplankton and their associated microbiomes. Chemical mediators control essential processes, such as the development of key morphological, physiological, behavioral, and life-history traits during algal growth. These molecules thus impact species succession and community composition across time and space in processes that are highlighted in this review. We focus on spatial, seasonal, and physiological dynamics that occur during the early association of algae with bacteria, the exponential growth of a bloom, and also during its decline and recycling. We also discuss how patterns from field data and global surveys might be linked to the actions of metabolic markers in natural phytoplankton assemblages. Expected final online publication date for the Annual Review of Marine Science, Volume 14 is January 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+## Temporal and Spatial Signaling Mediating the Balance of the Plankton Microbiome
 
 [Source](https://doi.org/10.1146/annurev-marine-042021-012353)
-
-10.1146/annurev-marine-042021-012353
 
 ---
 
@@ -292,51 +327,27 @@ The annual patterns of plankton succession in the ocean determine ecological and
 
 ---
 
-## Benchmarking laboratory processes to characterise low-biomass respiratory microbiota.
- 26.08.2021, _R Hasrat, J Kool, WAA de Steenhuijsen Piters, MLJN Chu, S Kuiling, JA Groot, EM van Logchem, S Fuentes, E Franz, D Bogaert, T Bosch_
-
-
-The low biomass of respiratory samples makes it difficult to accurately characterise the microbial community composition. PCR conditions and contaminating microbial DNA can alter the biological profile. The objective of this study was to benchmark the currently available laboratory protocols to accurately analyse the microbial community of low biomass samples. To study the effect of PCR conditions on the microbial community profile, we amplified the 16S rRNA gene of respiratory samples using various bacterial loads and different number of PCR cycles. Libraries were purified by gel electrophoresis or AMPure XP and sequenced by V2 or V3 MiSeq reagent kits by Illumina sequencing. The positive control was diluted in different solvents. PCR conditions had no significant influence on the microbial community profile of low biomass samples. Purification methods and MiSeq reagent kits provided nearly similar microbiota profiles (paired Bray-Curtis dissimilarity median: 0.03 and 0.05, respectively). While profiles of positive controls were significantly influenced by the type of dilution solvent, the theoretical profile of the Zymo mock was most accurately analysed when the Zymo mock was diluted in elution buffer (difference compared to the theoretical Zymo mock: 21.6% for elution buffer, 29.2% for Milli-Q, and 79.6% for DNA/RNA shield). Microbiota profiles of DNA blanks formed a distinct cluster compared to low biomass samples, demonstrating that low biomass samples can accurately be distinguished from DNA blanks. In summary, to accurately characterise the microbial community composition we recommend 1. amplification of the obtained microbial DNA with 30 PCR cycles, 2. purifying amplicon pools by two consecutive AMPure XP steps and 3. sequence the pooled amplicons by V3 MiSeq reagent kit. The benchmarked standardized laboratory workflow presented here ensures comparability of results within and between low biomass microbiome studies.
+## Benchmarking laboratory processes to characterise low-biomass respiratory microbiota
 
 [Source](https://doi.org/10.1038/s41598-021-96556-5)
 
-10.1038/s41598-021-96556-5
-
 ---
 
-## Simultaneous feature selection and outlier detection with optimality guarantees.
- 26.08.2021, _L Insolia, A Kenney, F Chiaromonte, G Felici_
-
-
-Biomedical research is increasingly data rich, with studies comprising ever growing numbers of features. The larger a study, the higher the likelihood that a substantial portion of the features may be redundant and/or contain contamination (outlying values). This poses serious challenges, which are exacerbated in cases where the sample sizes are relatively small. Effective and efficient approaches to perform sparse estimation in the presence of outliers are critical for these studies, and have received considerable attention in the last decade. We contribute to this area considering high-dimensional regressions contaminated by multiple mean-shift outliers affecting both the response and the design matrix. We develop a general framework and use mixed-integer programming to simultaneously perform feature selection and outlier detection with provably optimal guarantees. We prove theoretical properties for our approach, i.e., a necessary and sufficient condition for the robustly strong oracle property, where the number of features can increase exponentially with the sample size; the optimal estimation of parameters; and the breakdown point of the resulting estimates. Moreover, we provide computationally efficient procedures to tune integer constraints and warm-start the algorithm. We show the superior performance of our proposal compared to existing heuristic methods through simulations and use it to study the relationships between childhood obesity and the human microbiome. This article is protected by copyright. All rights reserved.
+## Simultaneous feature selection and outlier detection with optimality guarantees
 
 [Source](https://doi.org/10.1111/biom.13553)
 
-10.1111/biom.13553
-
 ---
 
-## SMDI: An Index for Measuring Subgingival Microbial Dysbiosis.
- 25.08.2021, _T Chen, PD Marsh, NN Al-Hebshi_
-
-
-An intuitive, clinically relevant index of microbial dysbiosis as a summary statistic of subgingival microbiome profiles is needed. Here, we describe a subgingival microbial dysbiosis index (SMDI) based on machine learning analysis of published periodontitis/health 16S microbiome data. The raw sequencing data, split into training and test sets, were quality filtered, taxonomically assigned to the species level, and centered log-ratio transformed. The training data set was subject to random forest analysis to identify discriminating species (DS) between periodontitis and health. DS lists, compiled by various "Gini" importance score cutoffs, were used to compute the SMDI for samples in the training and test data sets as the mean centered log-ratio abundance of periodontitis-associated species subtracted by that of health-associated ones. Diagnostic accuracy was assessed with receiver operating characteristic analysis. An SMDI based on 49 DS provided the highest accuracy with areas under the curve of 0.96 and 0.92 in the training and test data sets, respectively, and ranged from -6 (most normobiotic) to 5 (most dysbiotic) with a value around zero discriminating most of the periodontitis and healthy samples. The top periodontitis-associated DS were Treponema denticola, Mogibacterium timidum, Fretibacterium spp., and Tannerella forsythia, while Actinomyces naeslundii and Streptococcus sanguinis were the top health-associated DS. The index was highly reproducible by hypervariable region. Applying the index to additional test data sets in which nitrate had been used to modulate the microbiome demonstrated that nitrate has dysbiosis-lowering properties in vitro and in vivo. Finally, 3 genera (Treponema, Fretibacterium, and Actinomyces) were identified that could be used for calculation of a simplified SMDI with comparable accuracy. In conclusion, we have developed a nonbiased, reproducible, and easy-to-interpret index that can be used to identify patients/sites at risk of periodontitis, to assess the microbial response to treatment, and, importantly, as a quantitative tool in microbiome modulation studies.
+## SMDI: An Index for Measuring Subgingival Microbial Dysbiosis
 
 [Source](https://doi.org/10.1177/00220345211035775)
 
-10.1177/00220345211035775
-
 ---
 
-## Trends in inflammatory bowel disease treatment in the past two decades-a high-level text mining analysis of PubMed publications.
- 25.08.2021, _E Klang, Y Barash, S Soffer, E Shachar, A Lahat_
-
-
-Many therapeutic options for inflammatory bowel disease (IBD) emerged during the last 2 decades, along with the rise in disease prevalence and incidence. We aimed at assessing the published literature on different treatment options in that period. Special attention was attributed to specific medication mechanisms and geographic diversity.
+## Trends in inflammatory bowel disease treatment in the past two decades-a high-level text mining analysis of PubMed publications
 
 [Source](https://doi.org/10.1002/ueg2.12138)
-
-10.1002/ueg2.12138
 
 ---
 
