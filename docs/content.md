@@ -58,57 +58,111 @@ The succession of the gut microbiota during the first few years plays a vital ro
 
 ---
 
-## Association between metabolic syndrome and periodontitis: The role of lipids, inflammatory cytokines, altered host response, and the microbiome
+## Association between metabolic syndrome and periodontitis: The role of lipids, inflammatory cytokines, altered host response, and the microbiome.
+ 31.08.2021, _FQ Pirih, S Monajemzadeh, N Singh, RS Sinacola, JM Shin, T Chen, JC Fenno, P Kamarajan, AH Rickard, S Travan, BJ Paster, Y Kapila_
+
+
+Periodontitis has been associated with many systemic diseases and conditions, including metabolic syndrome. Metabolic syndrome is a cluster of conditions that occur concomitantly and together they increase the risk of cardiovascular disease and double the risk of type 2 diabetes. In this review, we focus on the association between metabolic syndrome and periodontitis; however, we also include information on diabetes mellitus and cardiovascular disease, since these two conditions are significantly intertwined with metabolic syndrome. With regard to periodontitis and metabolic syndrome, to date, the vast majority of studies point to an association between these two conditions and also demonstrate that periodontitis can contribute to the development of, or can worsen, metabolic syndrome. Evaluating the effect of metabolic syndrome on the salivary microbiome, data presented herein support the hypothesis that the salivary bacterial profile is altered in metabolic syndrome patients compared with healthy patients. Considering periodontitis and these three conditions, the vast majority of human and animal studies point to an association between periodontitis and metabolic syndrome, diabetes, and cardiovascular disease. Moreover, there is evidence to suggest that metabolic syndrome and diabetes can alter the oral microbiome. However, more studies are needed to fully understand the influence these conditions have on each other.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12379)
 
+10.1111/prd.12379
+
 ---
 
-## Fungal diseases: Oral dysbiosis in susceptible hosts
+## Fungal diseases: Oral dysbiosis in susceptible hosts.
+ 31.08.2021, _CC Villar, A Dongari-Bagtzoglou_
+
+
+The oral cavity is colonized by a large number of microorganisms that are referred to collectively as the oral microbiota. These indigenous microorganisms have evolved in symbiotic relationships with the oral mucosal immune system and are involved in maintaining homeostasis in the oral cavity. Although Candida species are commonly found in the healthy oral cavity without causing infection, these fungi can become pathogenic. Recents advances indicate that the development of oral candidiasis is driven both by Candida albicans overgrowth in a dysbiotic microbiome and by disturbances in the host's immune system. Perturbation of the oral microbiota triggered by host-extrinsic (ie, medications), host-intrinsic (ie, host genetics), and microbiome-intrinsic (ie, microbial interactions) factors may increase the risk of oral candidiasis. In this review, we provide an overview of the oral mycobiome, with a particular focus on the interactions of Candida albicans with some of the most common oral bacteria and the oral mucosal immune system. Also, we present a summary of our current knowledge of the host-intrinsic and host-extrinsic factors that can predispose to oral candidiasis.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12378)
 
+10.1111/prd.12378
+
 ---
 
-## The oral microbiome: Role of key organisms and complex networks in oral health and disease
+## The oral microbiome: Role of key organisms and complex networks in oral health and disease.
+ 31.08.2021, _L Sedghi, V DiMassa, A Harrington, SV Lynch, YL Kapila_
+
+
+States of oral health and disease reflect the compositional and functional capacities of, as well as the interspecies interactions within, the oral microbiota. The oral cavity exists as a highly dynamic microbial environment that harbors many distinct substrata and microenvironments that house diverse microbial communities. Specific to the oral cavity, the nonshedding dental surfaces facilitate the development of highly complex polymicrobial biofilm communities, characterized not only by the distinct microbes comprising them, but cumulatively by their activities. Adding to this complexity, the oral cavity faces near-constant environmental challenges, including those from host diet, salivary flow, masticatory forces, and introduction of exogenous microbes. The composition of the oral microbiome is shaped throughout life by factors including host genetics, maternal transmission, as well as environmental factors, such as dietary habits, oral hygiene practice, medications, and systemic factors. This dynamic ecosystem presents opportunities for oral microbial dysbiosis and the development of dental and periodontal diseases. The application of both in vitro and culture-independent approaches has broadened the mechanistic understandings of complex polymicrobial communities within the oral cavity, as well as the environmental, local, and systemic underpinnings that influence the dynamics of the oral microbiome. Here, we review the present knowledge and current understanding of microbial communities within the oral cavity and the influences and challenges upon this system that encourage homeostasis or provoke microbiome perturbation, and thus contribute to states of oral health or disease.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12393)
 
+10.1111/prd.12393
+
 ---
 
-## Human reference gut microbiome catalog including newly assembled genomes from under-represented Asian metagenomes
+## Human reference gut microbiome catalog including newly assembled genomes from under-represented Asian metagenomes.
+ 31.08.2021, _CY Kim, M Lee, S Yang, K Kim, D Yong, HR Kim, I Lee_
+
+
+Metagenome sampling bias for geographical location and lifestyle is partially responsible for the incomplete catalog of reference genomes of gut microbial species. Thus, genome assembly from currently under-represented populations may effectively expand the reference gut microbiome and improve taxonomic and functional profiling.
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-021-00950-7)
 
+10.1186/s13073-021-00950-7
+
 ---
 
-## The promise of the gut microbiome as part of individualized treatment strategies
+## The promise of the gut microbiome as part of individualized treatment strategies.
+ 28.08.2021, _DA Schupack, RAT Mars, DH Voelker, JP Abeykoon, PC Kashyap_
+
+
+Variability in disease presentation, progression and treatment response has been a central challenge in medicine. Although variability in host factors and genetics are important, it has become evident that the gut microbiome, with its vast genetic and metabolic diversity, must be considered in moving towards individualized treatment. In this Review, we discuss six broad disease groups: infectious disease, cancer, metabolic disease, cardiovascular disease, autoimmune or inflammatory disease, and allergic and atopic diseases. We highlight current knowledge on the gut microbiome in disease pathogenesis and prognosis, efficacy, and treatment-related adverse events and its promise for stratifying existing treatments and as a source of novel therapies. The Review is not meant to be comprehensive for each disease state but rather highlights the potential implications of the microbiome as a tool to individualize treatment strategies in clinical practice. Although early, the outlook is optimistic but challenges need to be overcome before clinical implementation, including improved understanding of underlying mechanisms, longitudinal studies with multiple data layers reflecting gut microbiome and host response, standardized approaches to testing and reporting, and validation in larger cohorts. Given progress in the microbiome field with concurrent basic and clinical studies, the microbiome will likely become an integral part of clinical care within the next decade.
 
 [Source](https://www.nature.com/articles/s41575-021-00499-1)
 
+10.1038/s41575-021-00499-1
+
 ---
 
-## The gut microbiome and efficacy of cancer immunotherapy
+## The gut microbiome and efficacy of cancer immunotherapy.
+ 28.08.2021, _G Roviello, LF Iannone, M Bersanelli, E Mini, M Catalano_
+
+
+Cancer treatment has been deeply changed by immunotherapy, achieving unprecedented improvement in overall and progression-free survival in several advanced and metastatic cancers. Currently, immune checkpoint inhibitor (ICI) antibodies against cytotoxic T-lymphocyte antigen (CTLA-4) and programmed death/ligand 1 (PD-1/PD-L1) are being tested and approved for different tumors, ranging from melanoma to lung carcinoma. However, only a subgroup of patients can reach treatment benefits and long-term responses, and reliable biomarkers that can accurately predict clinical responses to immunotherapy are still unidentified. In the last decade, accumulating evidence seems to suggest the gut microbiota as one of the modulators that can alter the efficacy and toxicity of immunotherapy drugs (as well as chemotherapeutics), mainly acting through the local and systemic immune system. Herein, we reviewed the highly dynamic and complex microbiome-immune system interface, its bidirectional relationship with cancer immunotherapies, and explored the future possibilities and risks in manipulating the gut microbiome.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0163725821001753)
 
+10.1016/j.pharmthera.2021.107973
+
 ---
 
-## Integrated analysis of the faecal metagenome and serum metabolome reveals the role of gut microbiome-associated metabolites in the detection of colorectal cancer and adenoma
+## Integrated analysis of the faecal metagenome and serum metabolome reveals the role of gut microbiome-associated metabolites in the detection of colorectal cancer and adenoma.
+ 31.08.2021, _F Chen, X Dai, CC Zhou, KX Li, YJ Zhang, XY Lou, YM Zhu, YL Sun, BX Peng, W Cui_
+
+
+To profile gut microbiome-associated metabolites in serum and investigate whether these metabolites could distinguish individuals with colorectal cancer (CRC) or adenoma from normal healthy individuals.
 
 [Source](https://gut.bmj.com/content/early/2021/08/29/gutjnl-2020-323476)
 
+10.1136/gutjnl-2020-323476
+
 ---
 
-## Longitudinal study on the effects of growth-promoting and therapeutic antibiotics on the dynamics of chicken cloacal and litter microbiomes and resistomes
+## Longitudinal study on the effects of growth-promoting and therapeutic antibiotics on the dynamics of chicken cloacal and litter microbiomes and resistomes.
+ 29.08.2021, _CL Gupta, SE Blum, K Kattusamy, T Daniel, S Druyan, R Shapira, O Krifucks, YG Zhu, XY Zhou, JQ Su, E Cytryn_
+
+
+Therapeutic and growth-promoting antibiotics are frequently used in broiler production. Indirect evidence indicates that these practices are linked to the proliferation of antimicrobial resistance (AMR), the spread of antibiotic-resistant bacteria from food animals to humans, and the environment, but there is a lack of comprehensive experimental data supporting this. We investigated the effects of growth promotor (bacitracin) and therapeutic (enrofloxacin) antibiotic administration on AMR in broilers for the duration of a production cycle, using a holistic approach that integrated both culture-dependent and culture-independent methods. We specifically focused on pathogen-harboring families (Enterobacteriaceae, Enterococcaceae, and Staphylococcaceae).
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01136-4)
 
+10.1186/s40168-021-01136-4
+
 ---
 
-## Social networks strongly predict the gut microbiota of wild mice
+## Social networks strongly predict the gut microbiota of wild mice.
+ 30.08.2021, _A Raulo, BE Allen, T Troitsky, A Husby, JA Firth, T Coulson, SCL Knowles_
+
+
+The mammalian gut teems with microbes, yet how hosts acquire these symbionts remains poorly understood. Research in primates suggests that microbes can be picked up via social contact, but the role of social interactions in non-group-living species remains underexplored. Here, we use a passive tracking system to collect high resolution spatiotemporal activity data from wild mice (Apodemus sylvaticus). Social network analysis revealed social association strength to be the strongest predictor of microbiota similarity among individuals, controlling for factors including spatial proximity and kinship, which had far smaller or nonsignificant effects. This social effect was limited to interactions involving males (male-male and male-female), implicating sex-dependent behaviours as driving processes. Social network position also predicted microbiota richness, with well-connected individuals having the most diverse microbiotas. Overall, these findings suggest social contact provides a key transmission pathway for gut symbionts even in relatively asocial mammals, that strongly shapes the adult gut microbiota. This work underlines the potential for individuals to pick up beneficial symbionts as well as pathogens from social interactions.
 
 [Source](https://www.nature.com/articles/s41396-021-00949-3)
+
+10.1038/s41396-021-00949-3
 
 ---
 
@@ -124,15 +178,27 @@ The succession of the gut microbiota during the first few years plays a vital ro
 
 ---
 
-## Predicting spatial patterns of soil bacteria under current and future environmental conditions
+## Predicting spatial patterns of soil bacteria under current and future environmental conditions.
+ 30.08.2021, _HK Mod, A Buri, E Yashiro, N Guex, L Malard, E Pinto-Figueroa, M Pagni, H Niculita-Hirzel, JR van der Meer, A Guisan_
+
+
+Soil bacteria are largely missing from future biodiversity assessments hindering comprehensive forecasts of ecosystem changes. Soil bacterial communities are expected to be more strongly driven by pH and less by other edaphic and climatic factors. Thus, alkalinisation or acidification along with climate change may influence soil bacteria, with subsequent influences for example on nutrient cycling and vegetation. Future forecasts of soil bacteria are therefore needed. We applied species distribution modelling (SDM) to quantify the roles of environmental factors in governing spatial abundance distribution of soil bacterial OTUs and to predict how future changes in these factors may change bacterial communities in a temperate mountain area. Models indicated that factors related to soil (especially pH), climate and/or topography explain and predict part of the abundance distribution of most OTUs. This supports the expectations that microorganisms have specific environmental requirements (i.e., niches/envelopes) and that they should accordingly respond to environmental changes. Our predictions indicate a stronger role of pH over other predictors (e.g. climate) in governing distributions of bacteria, yet the predicted future changes in bacteria communities are smaller than their current variation across space. The extent of bacterial community change predictions varies as a function of elevation, but in general, deviations from neutral soil pH are expected to decrease abundances and diversity of bacteria. Our findings highlight the need to account for edaphic changes, along with climate changes, in future forecasts of soil bacteria.
 
 [Source](https://www.nature.com/articles/s41396-021-00947-5)
 
+10.1038/s41396-021-00947-5
+
 ---
 
-## Persistent microbiome members in the common bean rhizosphere: an integrated analysis of space, time, and plant genotype
+## Persistent microbiome members in the common bean rhizosphere: an integrated analysis of space, time, and plant genotype.
+ 30.08.2021, _N Stopnisek, A Shade_
+
+
+The full potential of managing microbial communities to support plant health is yet-unrealized, in part because it remains difficult to ascertain which members are most important for the plant. However, microbes that consistently associate with a plant species across varied field conditions and over plant development likely engage with the host or host environment. Here, we applied abundance-occupancy concepts from macroecology to quantify the core membership of bacterial/archaeal and fungal communities in the rhizosphere of the common bean (Phaseolus vulgaris). Our study investigated the microbiome membership that persisted over multiple dimensions important for plant agriculture, including major U.S. growing regions (Michigan, Nebraska, Colorado, and Washington), plant development, annual plantings, and divergent genotypes, and also included re-analysis of public data from beans grown in Colombia. We found 48 core bacterial taxa that were consistently detected in all samples, inclusive of all datasets and dimensions. This suggests reliable enrichment of these taxa to the plant environment and time-independence of their association with the plant. More generally, the breadth of ecologically important dimensions included in this work (space, time, host genotype, and management) provides an example of how to systematically identify the most stably-associated microbiome members, and can be applied to other hosts or systems.
 
 [Source](https://www.nature.com/articles/s41396-021-00955-5)
+
+10.1038/s41396-021-00955-5
 
 ---
 
