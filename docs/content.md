@@ -1,5 +1,5 @@
 ## Circulating microbiome DNA: An emerging paradigm for cancer liquid biopsy.
- 30.08.2021, _H Chen, Y Ma, Z Liu, J Li, X Li, F Yang, M Qiu_
+ 02.09.2021, _H Chen, Y Ma, Z Liu, J Li, X Li, F Yang, M Qiu_
 
 
 Dysbiosis of the human microbiome has long been reported to be closely associated with various cancers. Accumulating studies have shown that microbial dysbiosis can accelerate tumorigenesis through tumor-promoting inflammation, DNA damage, and inducing immune evasion. Differential composition of microbiome could be novel biomarkers for cancer detection or biomarkers of successful immunotherapy. More importantly, emerging evidence demonstrates that alterations of circulating microbiome DNA (cmDNA) could serve as promising noninvasive biomarkers for cancer detection. It has been reported that distinct circulating bacterial DNA could distinguish prostate cancer, lung cancer, and melanoma patients from healthy populations. Therefore, in this review, we summarized current literature on microbial biomarkers for cancer detection and unraveled the potential of cmDNA as a promising cancer detection tool.
