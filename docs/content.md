@@ -10,9 +10,15 @@ Microbiomes play essential roles in the health and function of animal and plant 
 
 ---
 
-## Effects of antibiotic duration on the intestinal microbiota and resistome: The PIRATE RESISTANCE project, a cohort study nested within a randomized trial
+## Effects of antibiotic duration on the intestinal microbiota and resistome: The PIRATE RESISTANCE project, a cohort study nested within a randomized trial.
+ 07.09.2021, _S Leo, V Lazarevic, E von Dach, L Kaiser, V Prendki, J Schrenzel, BD Huttner, A Huttner_
+
+
+Shortening antibiotic-treatment durations is a key recommendation of antibiotic-stewardship programmes, yet it is based on weak evidence. We investigated whether halving antibiotic courses would reduce antibiotic-resistance genes (ARG) in the intestinal microbiomes of patients treated for gram-negative bacteraemia.
 
 [Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00359-5/fulltext)
+
+10.1016/j.ebiom.2021.103566
 
 ---
 
