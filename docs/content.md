@@ -184,33 +184,15 @@
 
 ---
 
-## Propensity Score-Matched Analysis of 1-Year Outcomes of Transcarotid Revascularization with Dynamic Flow Reversal, Carotid Endarterectomy, and Transfemoral Carotid Artery Stenting.
- 09.09.2021, _MB Malas, N Elsayed, I Naazie, H Dakour-Aridi, KS Yei, ML Schermerhorn_
-
-
-Initial studies showed no significant differences in perioperative stroke or death between transcarotid artery revascularization (TCAR) and carotid endarterectomy (CEA) and lower stroke/death rates after TCAR compared with transfemoral carotid artery stenting (TFCAS). This study focuses on the one-year outcomes of ipsilateral stroke or death after TCAR, CEA, and TFCAS.
-
-[Source](https://twitter.com/David__Emms/status/1433733573304070169?ref_src=twsrc%5Etfw)
-
-10.1016/j.jvs.2021.07.242
-
----
-
 ## September 3, 2021
 
 [Source](https://twitter.com/David__Emms/status/1433733573304070169?ref_src=twsrc%5Etfw)
 
 ---
 
-## Ultra-resolution Metagenomics: When Enough Is Not Enough.
- 31.08.2021, _F Hildebrand_
-
-
-Technological advances in community sequencing have steadily increased the taxonomic resolution at which microbes can be delineated. In high-resolution metagenomics, bacterial strains can now be resolved, enhancing medical microbiology and the description of microbial evolution in vivo. In the Hildebrand lab, we are researching novel approaches to further increase the phylogenetic resolution of metagenomics. I propose that ultra-resolution metagenomics will be the next qualitative level of community sequencing, classified by the accurate resolution of ultra-rare genetic events, such as subclonal mutations present in all populations of evolving cells. This will be used to quantify evolutionary processes at ecologically relevant scales, monitor the progress of infections within a patient, and accurately track pathogens in food and infection chains. However, to develop this next metagenomic generation, we first need to understand the currently imposed limits of sequencing technologies, metagenomic strain delineation, and genome reconstructions.
+## Ultra-resolution Metagenomics: When Enough Is Not Enough
 
 [Source](https://journals.asm.org/doi/full/10.1128/mSystems.00881-21)
-
-10.1128/mSystems.00881-21
 
 ---
 
