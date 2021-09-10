@@ -11,7 +11,7 @@ Microbiomes play essential roles in the health and function of animal and plant 
 ---
 
 ## Effects of antibiotic duration on the intestinal microbiota and resistome: The PIRATE RESISTANCE project, a cohort study nested within a randomized trial.
- 07.09.2021, _S Leo, V Lazarevic, E von Dach, L Kaiser, V Prendki, J Schrenzel, BD Huttner, A Huttner_
+ 09.09.2021, _S Leo, V Lazarevic, E von Dach, L Kaiser, V Prendki, J Schrenzel, BD Huttner, A Huttner_
 
 
 Shortening antibiotic-treatment durations is a key recommendation of antibiotic-stewardship programmes, yet it is based on weak evidence. We investigated whether halving antibiotic courses would reduce antibiotic-resistance genes (ARG) in the intestinal microbiomes of patients treated for gram-negative bacteraemia.
@@ -70,15 +70,9 @@ Studies investigating whether there is a causative link between the gut microbio
 
 ---
 
-## Stable-Isotope-Informed, Genome-Resolved Metagenomics Uncovers Potential Cross-Kingdom Interactions in Rhizosphere Soil.
- 01.09.2021, _EP Starr, S Shi, SJ Blazewicz, BJ Koch, AJ Probst, BA Hungate, J Pett-Ridge, MK Firestone, JF Banfield_
-
-
-The functioning, health, and productivity of soil are intimately tied to a complex network of interactions, particularly in plant root-associated rhizosphere soil. We conducted a stable-isotope-informed, genome-resolved metagenomic study to trace carbon from Avena fatua grown in a 13CO2 atmosphere into soil. We collected paired rhizosphere and nonrhizosphere soil at 6 and 9 weeks of plant growth and extracted DNA that was then separated by density using ultracentrifugation. Thirty-two fractions from each of five samples were grouped by density, sequenced, assembled, and binned to generate 55 unique bacterial genomes that were ≥70% complete. We also identified complete 18S rRNA sequences of several 13C-enriched microeukaryotic bacterivores and fungi. We generated 10 circularized bacteriophage (phage) genomes, some of which were the most labeled entities in the rhizosphere, suggesting that phage may be important agents of turnover of plant-derived C in soil. CRISPR locus targeting connected one of these phage to a Burkholderiales host predicted to be a plant pathogen. Another highly labeled phage is predicted to replicate in a Catenulispora sp., a possible plant growth-promoting bacterium. We searched the genome bins for traits known to be used in interactions involving bacteria, microeukaryotes, and plant roots and found DNA from heavily 13C-labeled bacterial genes thought to be involved in modulating plant signaling hormones, plant pathogenicity, and defense against microeukaryote grazing. Stable-isotope-informed, genome-resolved metagenomics indicated that phage can be important agents of turnover of plant-derived carbon in soil. IMPORTANCE Plants grow in intimate association with soil microbial communities; these microbes can facilitate the availability of essential resources to plants. Thus, plant productivity commonly depends on interactions with rhizosphere bacteria, viruses, and eukaryotes. Our work is significant because we identified the organisms that took up plant-derived organic C in rhizosphere soil and determined that many of the active bacteria are plant pathogens or can impact plant growth via hormone modulation. Further, by showing that bacteriophage accumulate CO2-derived carbon, we demonstrated their vital roles in redistribution of plant-derived C into the soil environment through bacterial cell lysis. The use of stable-isotope probing (SIP) to identify consumption (or lack thereof) of root-derived C by key microbial community members within highly complex microbial communities opens the way for assessing manipulations of bacteria and phage with potentially beneficial and detrimental traits, ultimately providing a path to improved plant health and soil carbon storage.
+## Stable-Isotope-Informed, Genome-Resolved Metagenomics Uncovers Potential Cross-Kingdom Interactions in Rhizosphere Soil 
 
 [Source](https://journals.asm.org/doi/10.1128/mSphere.00085-21)
-
-10.1128/mSphere.00085-21
 
 ---
 
@@ -88,26 +82,15 @@ The functioning, health, and productivity of soil are intimately tied to a compl
 
 ---
 
-## Ancient and modern genomes unravel the evolutionary history of the rhinoceros family.
- 25.08.2021, _S Liu, MV Westbury, N Dussex, KJ Mitchell, MS Sinding, PD Heintzman, DA Duchêne, JD Kapp, J von Seth, H Heiniger, F Sánchez-Barreiro, A Margaryan, R André-Olsen, B De Cahsan, G Meng, C Yang, L Chen, T van der Valk, Y Moodley, K Rookmaaker, MW Bruford, O Ryder, C Steiner, LGR Bruins-van Sonsbeek, S Vartanyan, C Guo, A Cooper, P Kosintsev, I Kirillova, AM Lister, T Marques-Bonet, S Gopalakrishnan, RR Dunn, ED Lorenzen, B Shapiro, G Zhang, PO Antoine, L Dalén, MTP Gilbert_
-
-
-Only five species of the once-diverse Rhinocerotidae remain, making the reconstruction of their evolutionary history a challenge to biologists since Darwin. We sequenced genomes from five rhinoceros species (three extinct and two living), which we compared to existing data from the remaining three living species and a range of outgroups. We identify an early divergence between extant African and Eurasian lineages, resolving a key debate regarding the phylogeny of extant rhinoceroses. This early Miocene (∼16 million years ago [mya]) split post-dates the land bridge formation between the Afro-Arabian and Eurasian landmasses. Our analyses also show that while rhinoceros genomes in general exhibit low levels of genome-wide diversity, heterozygosity is lowest and inbreeding is highest in the modern species. These results suggest that while low genetic diversity is a long-term feature of the family, it has been particularly exacerbated recently, likely reflecting recent anthropogenic-driven population declines.
+## Ancient and modern genomes unravel the evolutionary history of the rhinoceros family
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(21)00891-6)
 
-10.1016/j.cell.2021.07.032
-
 ---
 
-## Five keys to writing a reproducible lab protocol.
- 07.09.2021, _M Baker_
-
-
+## Five keys to writing a reproducible lab protocol
 
 [Source](https://www.nature.com/articles/d41586-021-02428-3)
-
-10.1038/d41586-021-02428-3
 
 ---
 
