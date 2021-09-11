@@ -100,6 +100,18 @@
 
 ---
 
+## Outcomes of Transfemoral Carotid Artery Stenting and Transcarotid Artery Revascularization for Restenosis after Prior Ipsilateral Carotid Endarterectomy.
+ 10.09.2021, _H Chang, CB Rockman, FJ Veith, VS Kashyap, GR Jacobowitz, M Sadek, K Garg, TS Maldonado_
+
+
+Restenosis after carotid endarterectomy (CEA) poses unique therapeutic challenges, with no specific guidelines on operative approach. Traditionally, transfemoral carotid artery stenting (TfCAS) has been regarded as the preferred approach to treating restenosis after CEA. Recently, transcarotid artery revascularization with a flow-reversal neuroprotection system (TCAR) has gained popularity as an effective alternative treatment modality for de novo carotid artery stenosis. The aim of the study is to compare the contemporary perioperative outcomes of TfCAS and TCAR in patients with prior ipsilateral CEA.
+
+[Source](https://twitter.com/ClareLou9/status/1354459984751280129?ref_src=twsrc%5Etfw)
+
+10.1016/j.jvs.2021.07.245
+
+---
+
 ## January 27, 2021
 
 [Source](https://twitter.com/ClareLou9/status/1354459984751280129?ref_src=twsrc%5Etfw)
@@ -184,56 +196,27 @@
 
 ---
 
-## Propensity Score-Matched Analysis of 1-Year Outcomes of Transcarotid Revascularization with Dynamic Flow Reversal, Carotid Endarterectomy, and Transfemoral Carotid Artery Stenting.
- 09.09.2021, _MB Malas, N Elsayed, I Naazie, H Dakour-Aridi, KS Yei, ML Schermerhorn_
-
-
-Initial studies showed no significant differences in perioperative stroke or death between transcarotid artery revascularization (TCAR) and carotid endarterectomy (CEA) and lower stroke/death rates after TCAR compared with transfemoral carotid artery stenting (TFCAS). This study focuses on the one-year outcomes of ipsilateral stroke or death after TCAR, CEA, and TFCAS.
-
-[Source](https://twitter.com/David__Emms/status/1433733573304070169?ref_src=twsrc%5Etfw)
-
-10.1016/j.jvs.2021.07.242
-
----
-
 ## September 3, 2021
 
 [Source](https://twitter.com/David__Emms/status/1433733573304070169?ref_src=twsrc%5Etfw)
 
 ---
 
-## Ultra-resolution Metagenomics: When Enough Is Not Enough.
- 31.08.2021, _F Hildebrand_
-
-
-Technological advances in community sequencing have steadily increased the taxonomic resolution at which microbes can be delineated. In high-resolution metagenomics, bacterial strains can now be resolved, enhancing medical microbiology and the description of microbial evolution in vivo. In the Hildebrand lab, we are researching novel approaches to further increase the phylogenetic resolution of metagenomics. I propose that ultra-resolution metagenomics will be the next qualitative level of community sequencing, classified by the accurate resolution of ultra-rare genetic events, such as subclonal mutations present in all populations of evolving cells. This will be used to quantify evolutionary processes at ecologically relevant scales, monitor the progress of infections within a patient, and accurately track pathogens in food and infection chains. However, to develop this next metagenomic generation, we first need to understand the currently imposed limits of sequencing technologies, metagenomic strain delineation, and genome reconstructions.
+## Ultra-resolution Metagenomics: When Enough Is Not Enough
 
 [Source](https://journals.asm.org/doi/full/10.1128/mSystems.00881-21)
 
-10.1128/mSystems.00881-21
-
 ---
 
-## Computational challenges and opportunities in spatially resolved transcriptomic data analysis.
- 07.09.2021, _L Atta, J Fan_
-
-
+## Computational challenges and opportunities in spatially resolved transcriptomic data analysis
 
 [Source](https://www.nature.com/articles/s41467-021-25557-9)
 
-10.1038/s41467-021-25557-9
-
 ---
 
-## BEEM-Static: Accurate inference of ecological interactions from cross-sectional microbiome data.
- 08.09.2021, _C Li, TV Av-Shalom, JWG Tan, JS Kwah, KR Chng, N Nagarajan_
-
-
-BEEM-Static provides new opportunities for mining ecologically interpretable interactions and systems insights from the growing corpus of microbiome data.
+## BEEM-Static: Accurate inference of ecological interactions from cross-sectional microbiome data
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009343)
-
-10.1371/journal.pcbi.1009343
 
 ---
 
@@ -294,6 +277,18 @@ BEEM-Static provides new opportunities for mining ecologically interpretable int
 ## HERE
 
 [Source](https://github.com/SvetlanaUP/Microbiome-conferences-c)
+
+---
+
+## Modified ICH score was superior to original ICH score for assessment of 30-day mortality and good outcome of non-traumatic intracerebral hemorrhage.
+ 10.09.2021, _IPE Widyadharma, A Krishna, A Soejitno, AAAP Laksmidewi, K Tini, IBK Putra, IGN Budiarsa, IAS Indrayani_
+
+
+Intracerebral hemorrhage (ICH) score has been widely used as a consistent and reliable clinical grading scale for predicting mortality. However, ICH score had not been used to predict good outcome or significant disability for those who were alive. We intended to address whether any modifications would increase prediction accuracy for mortality as well as the extent of morbidity for those who survived.
+
+[Source](https://twitter.com/svetlana_up/status/1433010607595343872?ref_src=twsrc%5Etfw)
+
+10.1016/j.clineuro.2021.106913
 
 ---
 
