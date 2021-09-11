@@ -100,18 +100,6 @@
 
 ---
 
-## Outcomes of Transfemoral Carotid Artery Stenting and Transcarotid Artery Revascularization for Restenosis after Prior Ipsilateral Carotid Endarterectomy.
- 10.09.2021, _H Chang, CB Rockman, FJ Veith, VS Kashyap, GR Jacobowitz, M Sadek, K Garg, TS Maldonado_
-
-
-Restenosis after carotid endarterectomy (CEA) poses unique therapeutic challenges, with no specific guidelines on operative approach. Traditionally, transfemoral carotid artery stenting (TfCAS) has been regarded as the preferred approach to treating restenosis after CEA. Recently, transcarotid artery revascularization with a flow-reversal neuroprotection system (TCAR) has gained popularity as an effective alternative treatment modality for de novo carotid artery stenosis. The aim of the study is to compare the contemporary perioperative outcomes of TfCAS and TCAR in patients with prior ipsilateral CEA.
-
-[Source](https://twitter.com/ClareLou9/status/1354459984751280129?ref_src=twsrc%5Etfw)
-
-10.1016/j.jvs.2021.07.245
-
----
-
 ## January 27, 2021
 
 [Source](https://twitter.com/ClareLou9/status/1354459984751280129?ref_src=twsrc%5Etfw)
@@ -127,6 +115,18 @@ Restenosis after carotid endarterectomy (CEA) poses unique therapeutic challenge
 ## The fall and rise of group B <em>Streptococcus</em> in dairy cattle: reintroduction due to human-to-cattle host jumps? 
 
 [Source](https://www.microbiologyresearch.org/docserver/fulltext/mgen/7/9/mgen000648.pdf)
+
+---
+
+## Allergic rhinitis and COVID-19: friends or foes?
+ 10.09.2021, _F Gani, M Cottini, M Landi, A Berti, P Comberiati, D Peroni, G Senna, C Lombardi_
+
+
+Allergic rhinitis (AR) is a common disease affecting up to 40% of the general population worldwide. In the Coronavirus 2019 (COVID-19) pandemic era, many observational studies analysing the effect of asthma and chronic obstructive pulmonary disease on the risk of developing COVID-19 were conducted, while data on AR are limited.In this paper, we review the risk of developing SARS-Cov-2 infection carried by AR patients, the outcomes of those with COVID-19 disease, and the COVID-19 influence on the allergic and nasal symptoms and the psychological status of AR patients, in both adult and paediatric populations.AR patients seem to be protected from COVID 19 infection. Even if data about the influence of AR on the severity of COVID-19 disease are still not conclusive, it seems that being an AR patient does not increase the risk of poor COVID-19 prognoses. The clinical manifestation of AR can be distinguished by COVID-19 symptoms. Treating AR adequately is also strongly recommended, especially during pandemic.
+
+[Source](https://www.mdpi.com/1999-4915/13/9/1732)
+
+10.23822/EurAnnACI.1764-1489.234
 
 ---
 
@@ -277,18 +277,6 @@ Restenosis after carotid endarterectomy (CEA) poses unique therapeutic challenge
 ## HERE
 
 [Source](https://github.com/SvetlanaUP/Microbiome-conferences-c)
-
----
-
-## Modified ICH score was superior to original ICH score for assessment of 30-day mortality and good outcome of non-traumatic intracerebral hemorrhage.
- 10.09.2021, _IPE Widyadharma, A Krishna, A Soejitno, AAAP Laksmidewi, K Tini, IBK Putra, IGN Budiarsa, IAS Indrayani_
-
-
-Intracerebral hemorrhage (ICH) score has been widely used as a consistent and reliable clinical grading scale for predicting mortality. However, ICH score had not been used to predict good outcome or significant disability for those who were alive. We intended to address whether any modifications would increase prediction accuracy for mortality as well as the extent of morbidity for those who survived.
-
-[Source](https://twitter.com/svetlana_up/status/1433010607595343872?ref_src=twsrc%5Etfw)
-
-10.1016/j.clineuro.2021.106913
 
 ---
 
