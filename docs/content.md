@@ -23,7 +23,7 @@ Permafrost microbes may be metabolically active in microscopic layers of liquid 
 ---
 
 ## Analysis the Link between Periodontal Diseases and Alzheimer's Disease: A Systematic Review.
- 10.09.2021, _L Borsa, M Dubois, G Sacco, L Lupi_
+ 12.09.2021, _L Borsa, M Dubois, G Sacco, L Lupi_
 
 
 The hypothesis of an infectious connection from the oro-pharyngeal sphere to the brain underlines the interest in analyzing the link between periodontal disease and Alzheimer's disease. The aim of this systematic review was to examine the link between Alzheimer's disease and periodontal disease in patients aged 65 and over. Databases (PubMed (MEDLINE), the Cochrane Library, and Embase) were analyzed for relevant references up to 21 June 2021. The authors independently selected the studies and extracted the data. The quality of included studies was checked using the National Institutes of Health's quality assessment tools. Five studies were included. The selected studies described in their results an increase in F. nucleatum in Alzheimer's disease patients (adjusted p = 0.02), and its incidence was linked to C. rectus and P. gingivalis (adjusted HR = 1.22 (1.04-1.43), p = 0.012) as well as A. naeslundii (crude HR = 2.0 (1.1-3.8)). The presence of periodontitis at baseline was associated with a six-fold increase in the rate of cognitive decline over a 6-month follow-up period (ADAS-Cog mean change = 2.9 ± 6.6). The current review suggests an association between periodontal disease and Alzheimer's disease. The treatment of periodontal disease could be a way to explore Alzheimer's disease prevention.
