@@ -51,27 +51,9 @@ Live-pathogenic bacteria, which were identified inside tumors hundreds year ago,
 
 ---
 
-## Vaginal microbiome topic modeling of laboring Ugandan women with and without fever.
- 14.09.2021, _M Movassagh, LM Bebell, K Burgoine, C Hehnly, L Zhang, K Moran, K Sheldon, SA Sinnar, E Mbabazi-Kabachelor, E Kumbakumba, J Bazira, M Ochora, R Mulondo, BK Nsubuga, AD Weeks, M Gladstone, P Olupot-Olupot, J Ngonzi, DJ Roberts, FA Meier, RA Irizarry, JR Broach, SJ Schiff, JN Paulson_
-
-
-The composition of the maternal vaginal microbiome influences the duration of pregnancy, onset of labor, and even neonatal outcomes. Maternal microbiome research in sub-Saharan Africa has focused on non-pregnant and postpartum composition of the vaginal microbiome. Here we aimed to illustrate the relationship between the vaginal microbiome of 99 laboring Ugandan women and intrapartum fever using routine microbiology and 16S ribosomal RNA gene sequencing from two hypervariable regions (V1-V2 and V3-V4). To describe the vaginal microbes associated with vaginal microbial communities, we pursued two approaches: hierarchical clustering methods and a novel Grades of Membership (GoM) modeling approach for vaginal microbiome characterization. Leveraging GoM models, we created a basis composed of a preassigned number of microbial topics whose linear combination optimally represents each patient yielding more comprehensive associations and characterization between maternal clinical features and the microbial communities. Using a random forest model, we showed that by including microbial topic models we improved upon clinical variables to predict maternal fever. Overall, we found a higher prevalence of Granulicatella, Streptococcus, Fusobacterium, Anaerococcus, Sneathia, Clostridium, Gemella, Mobiluncus, and Veillonella genera in febrile mothers, and higher prevalence of Lactobacillus genera (in particular L. crispatus and L. jensenii), Acinobacter, Aerococcus, and Prevotella species in afebrile mothers. By including clinical variables with microbial topics in this model, we observed young maternal age, fever reported earlier in the pregnancy, longer labor duration, and microbial communities with reduced Lactobacillus diversity were associated with intrapartum fever. These results better defined relationships between the presence or absence of intrapartum fever, demographics, peripartum course, and vaginal microbial topics, and expanded our understanding of the impact of the microbiome on maternal and potentially neonatal outcome risk.
+## Vaginal microbiome topic modeling of laboring Ugandan women with and without fever
 
 [Source](https://www.nature.com/articles/s41522-021-00244-1)
-
-10.1038/s41522-021-00244-1
-
----
-
-## Plasma metagenomic sequencing to detect and quantify bacterial DNA in ICU patients suspected of sepsis: a proof-of-principle study.
- 12.09.2021, _MT Kisat, A Odenheimer-Bergman, H Markus, B Joseph, SN Srivatsan, T Contente-Cuomo, Z Khalpey, P Keim, T O'Keeffe, R Askari, A Salim, P Rhee, M Murtaza_
-
-
-Timely recognition of sepsis and identification of pathogens can improve outcomes in critical care patients but microbial cultures have low accuracy and long turnaround times. In this proof-of-principle study, we describe metagenomic sequencing and analysis of non-human DNA in plasma. We hypothesized that quantitative analysis of bacterial DNA (bDNA) levels in plasma can enable detection and monitoring of pathogens.
-
-[Source](https://journals.lww.com/jtrauma/Abstract/9000/Plasma_metagenomic_sequencing_to_detect_and.97305.aspx)
-
-10.1097/TA.0000000000003396
 
 ---
 
