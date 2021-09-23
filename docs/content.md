@@ -102,9 +102,10 @@ The plant microbiome is an integral part of the host and increasingly recognized
 ---
 
 ## Diversity and distribution of viruses inhabiting the deepest ocean on Earth.
- 20.09.2021, _H Jian, Y Yi, J Wang, Y Hao, M Zhang, S Wang, C Meng, Y Zhang, H Jing, Y Wang, X Xiao_
+ 22.09.2021, _H Jian, Y Yi, J Wang, Y Hao, M Zhang, S Wang, C Meng, Y Zhang, H Jing, Y Wang, X Xiao_
 
 
+_Archaea, Ecosystem, Oceans and Seas, Seawater, Viruses_
 As the most abundant biological entities on the planet, viruses significantly influence the overall functioning of marine ecosystems. The abundance, distribution, and biodiversity of viral communities in the upper ocean have been relatively well studied, but our understanding of viruses in the hadal biosphere remains poor. Here, we established the oceanic trench viral genome dataset (OTVGD) by analysing 19 microbial metagenomes derived from seawater and sediment samples of the Mariana, Yap, and Kermadec Trenches. The trench viral communities harbored remarkably high novelty, and they were predicted to infect ecologically important microbial clades, including Thaumarchaeota and Oleibacter. Significant inter-trench and intra-trench exchange of viral communities was proposed. Moreover, viral communities in different habitats (seawater/sediment and depth-stratified ocean zones) exhibited distinct niche-dependent distribution patterns and genomic properties. Notably, microbes and viruses in the hadopelagic seawater seemed to preferably adopt lysogenic lifestyles compared to those in the upper ocean. Furthermore, niche-specific auxiliary metabolic genes were identified in the hadal viral genomes, and a novel viral D-amino acid oxidase was functionally and phylogenetically characterized, suggesting the contribution of these genes in the utilization of refractory organic matter. Together, these findings highlight the genomic novelty, dynamic movement, and environment-driven diversification of viral communities in oceanic trenches, and suggest that viruses may influence the hadal ecosystem by reprogramming the metabolism of their hosts and modulating the community of keystone microbes.
 
 [Source](https://www.nature.com/articles/s41396-021-00994-y)
@@ -114,9 +115,10 @@ As the most abundant biological entities on the planet, viruses significantly in
 ---
 
 ## Deep-sea shipwrecks represent island-like ecosystems for marine microbiomes.
- 20.09.2021, _LJ Hamdan, JJ Hampel, RD Moseley, RL Mugge, A Ray, JL Salerno, M Damour_
+ 22.09.2021, _LJ Hamdan, JJ Hampel, RD Moseley, RL Mugge, A Ray, JL Salerno, M Damour_
 
 
+_Biodiversity, Ecosystem, Gulf of Mexico, Microbiota_
 Biogeography of macro- and micro-organisms in the deep sea is, in part, shaped by naturally occurring heterogeneous habitat features of geological and biological origin such as seeps, vents, seamounts, whale and wood-falls. Artificial features including shipwrecks and energy infrastructure shape the biogeographic patterns of macro-organisms; how they influence microorganisms is unclear. Shipwrecks may function as islands of biodiversity for microbiomes, creating a patchwork of habitats with influence radiating out into the seabed. Here we show microbiome richness and diversity increase as a function of proximity to the historic deep-sea shipwreck Anona in the Gulf of Mexico. Diversity and richness extinction plots provide evidence of an island effect on microbiomes. A halo of core taxa on the seabed was observed up to 200 m away from the wreck indicative of the transition zone from shipwreck habitat to the surrounding environment. Transition zones around natural habitat features are often small in area compared to what was observed at Anona indicating shipwrecks may exert a large sphere of influence on seabed microbiomes. Historic shipwrecks are abundant, isolated habitats with global distribution, providing a means to explore contemporary processes shaping biogeography on the seafloor. This work is a case study for how built environments impact microbial biodiversity and provides new information on how arrival of material to the seafloor shapes benthic microbiomes.
 
 [Source](https://www.nature.com/articles/s41396-021-00978-y)
