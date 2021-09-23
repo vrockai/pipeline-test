@@ -1,12 +1,12 @@
-## Patterns of extrasellar invasive growth of pituitary adenomas with normal sellar cavity size.
- 21.09.2021, _G Sharifi, M Sabahi, A Amin, NA Dilmaghani, AM Nejad, Z Davoudi, M Mohajeri-Tehrani, O Rezaei, H Borghei-Razavi_
+## Portion size can be used strategically to increase intake of vegetables and fruits in young children over multiple days: a cluster-randomized crossover trial.
+ 22.09.2021, _LS Roe, CE Sanchez, AD Smethers, KL Keller, BJ Rolls_
 
 
-Pituitary adenomas (PAs) are among the most common brain tumors which characteristically become symptomatic due to the mass effect on surrounding structures and/or hormonal imbalances. This study describes 28 cases of PAs with an extrasellar invasive growth (EIG) at the early stage of tumor growth with normal sellar cavity size.
+Although dietary guidelines recommend that vegetables and fruits make up half the diet, it is unclear whether serving vegetables and fruits in larger portions will have sustained effects on children's intake over multiple days.
 
 [Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
 
-10.1016/j.clineuro.2021.106942
+10.1093/ajcn/nqab321
 
 ---
 
