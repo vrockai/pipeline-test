@@ -1,12 +1,12 @@
-## Portion size can be used strategically to increase intake of vegetables and fruits in young children over multiple days: a cluster-randomized crossover trial.
- 22.09.2021, _LS Roe, CE Sanchez, AD Smethers, KL Keller, BJ Rolls_
+## The Systems Biology Simulation Core Library.
+ 23.09.2021, _H Panchiwala, S Shah, H Planatscher, M Zakharchuk, M König, A Dräger_
 
 
-Although dietary guidelines recommend that vegetables and fruits make up half the diet, it is unclear whether serving vegetables and fruits in larger portions will have sustained effects on children's intake over multiple days.
+Studying biological systems generally relies on computational modelling and simulation, e.g., model-driven discovery and hypothesis testing. Progress in standardisation efforts led to the development of interrelated file formats to exchange and reuse models in systems biology, such as SBML, the Simulation Experiment Description Markup Language (SED-ML), or the Open Modeling EXchange format (OMEX). Conducting simulation experiments based on these formats requires efficient and reusable implementations to make them accessible to the broader scientific community and to ensure the reproducibility of the results. The Systems Biology Simulation Core Library (SBSCL) provides interpreters and solvers for these standards as a versatile open-source API in JavaTM. The library simulates even complex bio-models and supports deterministic Ordinary Differential Equations (ODEs); Stochastic Differential Equations (SDEs); constraint-based analyses; recent SBML and SED-ML versions; exchange of results, and visualisation of in silico experiments; open modelling exchange formats (COMBINE archives); hierarchically structured models; and compatibility with standard testing systems, including the Systems Biology Test Suite and published models from the BioModels and BiGG databases.
 
 [Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
 
-10.1093/ajcn/nqab321
+10.1093/bioinformatics/btab669
 
 ---
 
