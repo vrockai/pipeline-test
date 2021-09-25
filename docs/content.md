@@ -1,171 +1,312 @@
-## Discovering pesticides and their TPs in Luxembourg waters using open cheminformatics approaches.
- 24.09.2021, _J Krier, RR Singh, T Kondić, A Lai, P Diderich, J Zhang, PA Thiessen, EE Bolton, EL Schymanski_
+## Bacterial Translocation as Inflammatory Driver in Crohn's Disease.
+ 24.09.2021, _R Linares, R Francés, A Gutiérrez, O Juanola_
 
 
-The diversity of hundreds of thousands of potential organic pollutants and the lack of (publicly available) information about many of them is a huge challenge for environmental sciences, engineering, and regulation. Suspect screening based on high-resolution liquid chromatography-mass spectrometry (LC-HRMS) has enormous potential to help characterize the presence of these chemicals in our environment, enabling the detection of known and newly emerging pollutants, as well as their potential transformation products (TPs). Here, suspect list creation (focusing on pesticides relevant for Luxembourg, incorporating data sources in 4 languages) was coupled to an automated retrieval of related TPs from PubChem based on high confidence suspect hits, to screen for pesticides and their TPs in Luxembourgish river samples. A computational workflow was established to combine LC-HRMS analysis and pre-screening of the suspects (including automated quality control steps), with spectral annotation to determine which pesticides and, in a second step, their related TPs may be present in the samples. The data analysis with Shinyscreen (https://gitlab.lcsb.uni.lu/eci/shinyscreen/), an open source software developed in house, coupled with custom-made scripts, revealed the presence of 162 potential pesticide masses and 96 potential TP masses in the samples. Further identification of these mass matches was performed using the open source approach MetFrag (https://msbi.ipb-halle.de/MetFrag/). Eventual target analysis of 36 suspects resulted in 31 pesticides and TPs confirmed at Level-1 (highest confidence), and five pesticides and TPs not confirmed due to different retention times. Spatio-temporal analysis of the results showed that TPs and pesticides followed similar trends, with a maximum number of potential detections in July. The highest detections were in the rivers Alzette and Mess and the lowest in the Sûre and Eisch. This study (a) added pesticides, classification information and related TPs into the open domain, (b) developed automated open source retrieval methods - both enhancing FAIRness (Findability, Accessibility, Interoperability and Reusability) of the data and methods; and (c) will directly support "L'Administration de la Gestion de l'Eau" on further monitoring steps in Luxembourg.
+Crohn's disease (CD) is a chronic inflammatory disorder of the gastrointestinal tract responsible for intestinal lesions. The multifactorial etiology attributed to CD includes a combination of environmental and host susceptibility factors, which result in an impaired host-microbe gut interaction. Bacterial overgrowth and dysbiosis, increased intestinal barrier permeability, and altered inflammatory responses in patients with CD have been described in the past. Those events explain the pathogenesis of luminal translocation of bacteria or its products into the blood, a frequent event in CD, which, in turn, favors a sustained inflammatory response in these patients. In this review, we navigate through the interaction between bacterial antigen translocation, permeability of the intestinal barrier, immunologic response of the host, and genetic predisposition as a combined effect on the inflammatory response observed in CD. Several lines of evidence support that translocation of bacterial products leads to uncontrolled inflammation in CD patients, and as a matter of fact, the presence of gut bacterial genomic fragments at a systemic level constitutes a marker for increased risk of relapse among CD patients. Also, the significant percentage of CD patients who lose response to biologic therapies may be influenced by the translocation of bacterial products, which are well-known drivers of proinflammatory cytokine production by host immune cells. Further mechanistic studies evaluating cellular and humoral immune responses, gut microbiota alterations, and genetic predisposition will help clinicians to better control and personalize the management of CD patients in the future.
 
-[Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
+[Source](https://doi.org/10.3389/fcell.2021.703310)
 
-10.1016/j.envint.2021.106885
-
----
-
-## https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa
-
-[Source](https://www.biocodexmicrobiotafoundation.com/national-call-projects/usa)
+10.3389/fcell.2021.703310
 
 ---
 
-## Food for thought: does host diet affect skin microbes?
- 20.09.2021, _AM Schneider, AM Nelson_
+## TNF-α synergises with IFN-γ to induce caspase-8-JAK1/2-STAT1-dependent death of intestinal epithelial cells.
+ 24.09.2021, _JA Woznicki, N Saini, P Flood, S Rajaram, CM Lee, P Stamou, A Skowyra, M Bustamante-Garrido, K Regazzoni, N Crawford, SS McDade, DB Longley, P Aza-Blanc, F Shanahan, SA Zulquernain, J McCarthy, S Melgar, BL McRae, K Nally_
 
 
-_Diet, Gastrointestinal Microbiome, Humans_
+Rewiring of host cytokine networks is a key feature of inflammatory bowel diseases (IBD) such as Crohn's disease (CD). Th1-type cytokines-IFN-γ and TNF-α-occupy critical nodes within these networks and both are associated with disruption of gut epithelial barrier function. This may be due to their ability to synergistically trigger the death of intestinal epithelial cells (IECs) via largely unknown mechanisms. In this study, through unbiased kinome RNAi and drug repurposing screens we identified JAK1/2 kinases as the principal and nonredundant drivers of the synergistic killing of human IECs by IFN-γ/TNF-α. Sensitivity to IFN-γ/TNF-α-mediated synergistic IEC death was retained in primary patient-derived intestinal organoids. Dependence on JAK1/2 was confirmed using genetic loss-of-function studies and JAK inhibitors (JAKinibs). Despite the presence of biochemical features consistent with canonical TNFR1-mediated apoptosis and necroptosis, IFN-γ/TNF-α-induced IEC death was independent of RIPK1/3, ZBP1, MLKL or caspase activity. Instead, it involved sustained activation of JAK1/2-STAT1 signalling, which required a nonenzymatic scaffold function of caspase-8 (CASP8). Further modelling in gut mucosal biopsies revealed an intercorrelated induction of the lethal CASP8-JAK1/2-STAT1 module during ex vivo stimulation of T cells. Functional studies in CD-derived organoids using inhibitors of apoptosis, necroptosis and JAKinibs confirmed the causative role of JAK1/2-STAT1 in cytokine-induced death of primary IECs. Collectively, we demonstrate that TNF-α synergises with IFN-γ to kill IECs via the CASP8-JAK1/2-STAT1 module independently of canonical TNFR1 and cell death signalling. This non-canonical cell death pathway may underpin immunopathology driven by IFN-γ/TNF-α in diverse autoinflammatory diseases such as IBD, and its inhibition may contribute to the therapeutic efficacy of anti-TNFs and JAKinibs.
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20573)
+[Source](https://doi.org/10.1146/annurev-med-042320-021020)
 
-10.1111/bjd.20573
-
----
-
-## Host traits, lifestyle and environment are associated with human skin bacteria.
- 20.09.2021, _L Moitinho-Silva, N Boraczynski, H Emmert, H Baurecht, S Szymczak, H Schulz, D Haller, J Linseisen, C Gieger, A Peters, L Tittmann, W Lieb, C Bang, A Franke, E Rodriguez, S Weidinger_
-
-
-_Bacteria, Cross-Sectional Studies, Humans, Life Style, Microbiota, RNA, Ribosomal, 16S_
-The human skin offers diverse ecosystems for microbial symbionts. However, the factors shaping skin-microbiome interactions are still insufficiently characterized. This contrasts with the broader knowledge about factors influencing gut microbiota.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20072)
-
-10.1111/bjd.20072
+10.1038/s41419-021-04151-3
 
 ---
 
-## Deciphering the low abundance microbiota of presumed aseptic hip and knee implants.
- 17.09.2021, _C Carr, H Wilcox, JP Burton, S Menon, KF Al, D O'Gorman, BA Lanting, EM Vasarhelyi, M Neufeld, MG Teeter_
+## The Gut Microbiome and Inflammatory Bowel Diseases
 
-
-16S rRNA gene sequencing of DNA extracted from clinically uninfected hip and knee implant samples has revealed polymicrobial populations. However, previous studies assessed 16S rRNA gene sequencing as a technique for the diagnosis of periprosthetic joint infections, leaving the microbiota of presumed aseptic hip and knee implants largely unstudied. These communities of microorganisms might play important roles in aspects of host health, such as aseptic loosening. Therefore, this study sought to characterize the bacterial composition of presumed aseptic joint implant microbiota using next generation 16S rRNA gene sequencing, and it evaluated this method for future investigations. 248 samples were collected from implants of 41 patients undergoing total hip or knee arthroplasty revision for presumed aseptic failure. DNA was extracted using two methodologies-one optimized for high throughput and the other for human samples-and amplicons of the V4 region of the 16S rRNA gene were sequenced. Sequencing data were analyzed and compared with ancillary specific PCR and microbiological culture. Computational tools (SourceTracker and decontam) were used to detect and compensate for environmental and processing contaminants. Microbial diversity of patient samples was higher than that of open-air controls and differentially abundant taxa were detected between these conditions, possibly reflecting a true microbiota that is present in clinically uninfected joint implants. However, positive control-associated artifacts and DNA extraction methodology significantly affected sequencing results. As well, sequencing failed to identify Cutibacterium acnes in most culture- and PCR-positive samples. These challenges limited characterization of bacteria in presumed aseptic implants, but genera were identified for further investigation. In all, we provide further support for the hypothesis that there is likely a microbiota present in clinically uninfected joint implants, and we show that methods other than 16S rRNA gene sequencing may be ideal for its characterization. This work has illuminated the importance of further study of microbiota of clinically uninfected joint implants with novel molecular and computational tools to further eliminate contaminants and artifacts that arise in low bacterial abundance samples.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257471)
-
-10.1371/journal.pone.0257471
+[Source](https://doi.org/10.1146/annurev-med-042320-021020)
 
 ---
 
-## Next Generation Microbiome Research: Identification of Keystone Species in the Metabolic Regulation of Host-Gut Microbiota Interplay.
- 21.09.2021, _H Tudela, SP Claus, M Saleh_
+## Vegan vs. omnivore diets paradox: A whole-metagenomic approach for defining metabolic networks during the race in ultra-marathoners- a before and after study&nbsp; design
 
-
-The community of the diverse microorganisms residing in the gastrointestinal tract, known as the gut microbiota, is exceedingly being studied for its impact on health and disease. This community plays a major role in nutrient metabolism, maintenance of the intestinal epithelial barrier but also in local and systemic immunomodulation. A dysbiosis of the gut microbiota, characterized by an unbalanced microbial ecology, often leads to a loss of essential functions that may be associated with proinflammatory conditions. Specifically, some key microbes that are depleted in dysbiotic ecosystems, called keystone species, carry unique functions that are essential for the balance of the microbiota. In this review, we discuss current understanding of reported keystone species and their proposed functions in health. We also elaborate on current and future bioinformatics tools needed to identify missing functions in the gut carried by keystone species. We propose that the identification of such keystone species functions is a major step for the understanding of microbiome dynamics in disease and toward the development of microbiome-based therapeutics.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcell.2021.719072/full)
-
-10.3389/fcell.2021.719072
+[Source](https://doi.org/10.1371/journal.pone.0255952)
 
 ---
 
-## Commensal microbe-derived acetate suppresses NAFLD/NASH development via hepatic FFAR2 signalling in mice.
- 21.09.2021, _R Aoki, M Onuki, K Hattori, M Ito, T Yamada, K Kamikado, YG Kim, N Nakamoto, I Kimura, JM Clarke, T Kanai, K Hase_
+## The Prebiotic Potential of Inulin-type Fructans: A Systematic Review.
+ 23.09.2021, _RL Hughes, DA Alvarado, KS Swanson, HD Holscher_
 
 
-Non-alcoholic liver disease (NAFLD) is the hepatic manifestation of metabolic syndrome, and it can progress to non-alcoholic steatohepatitis (NASH). Alterations in the gut microbiome have been implicated in the development of NAFLD/NASH, although the underlying mechanisms remain unclear.
+Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS), oligofructose, and inulin, are commonly used fibers that are widely regarded as prebiotic for their ability to be selectively utilized by the intestinal microbiota to confer a health benefit. However, the literature thus far lacks a thorough discussion of the evidence from human clinical trials for the prebiotic effect of ITF, including both effects on the intestinal microbiota composition as well as the intestinal and extraintestinal (e.g., glucose homeostasis, lipids, mineral absorption and bone health, appetite and satiety, inflammation and immune function, and body composition) benefits. Additionally, there is a lack of discussion regarding aspects such as the effect of ITF chain length on its intestinal and extraintestinal effects. The overall objective of this systematic review was to summarize the prebiotic potential of ITF based on the results of human clinical trials in healthy adult populations. Evidence from studies included in the current review suggest that ITF have a prebiotic effect on the intestinal microbiota, promoting the abundances of Bifidobacterium, Lactobacillus, and Faecalibacterium prausnitzii. Beneficial health effects reported following ITF intake include improved intestinal barrier function, improved laxation, increased insulin sensitivity, decreased triglycerides and an improved lipid profile, increased absorption of calcium and magnesium, and increased satiety. While there is some evidence for differing effects of ITF based on chain length, lack of direct comparisons and detailed descriptions of physicochemical properties limit the ability to draw conclusions from human clinical studies. Future research should focus on elucidating the mechanisms by which the intestinal microbiota mediates or modifies the effects of ITF on human health and the contribution of individual factors such as age and metabolic health to move towards personalization of prebiotic application.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01125-7)
+[Source](https://doi.org/10.1093/advances/nmab119)
 
-10.1186/s40168-021-01125-7
-
----
-
-## 16 S rRNA gene diversity and gut microbial composition of the Indian white shrimp (Penaeus indicus).
- 18.09.2021, _PK Patil, TN Vinay, SD Ghate, V Baskaran, S Avunje_
-
-
-The endemic Indian white shrimp (Penaeus indicus) is an economically important crustacean species, distributed in the Indo-West Pacific region. Knowledge of its gut microbial composition helps in dietary interventions to ensure improved health and production. Here we analyzed V3-V4 hypervariable regions of the 16 S rRNA gene to examine intestinal microbiota in wild and domesticated farmed P. indicus. The study revealed that Proteobacteria, Fusobacteria, Tenericutes, and Bacteroidetes, were the dominant phyla in both the groups although there were differences in relative abundance. The dominant genera in case of the wild group were Photobacterium (29.5 %) followed by Propionigenium (13.9 %), Hypnocyclicus (13.7 %) and Vibrio (11.1 %); while Vibrio (46.5 %), Catenococcus (14 %), Propionigenium (10.3 %) and Photobacterium (8.7 %) were dominant in the farmed group. The results of the study suggest the role of environment on the relative abundance of gut bacteria. This is the first report characterizing gut microbial diversity in P. indicus, which can be used to understand the role of gut microbiota in health, nutrition, reproduction, and growth.
-
-[Source](https://link.springer.com/article/10.1007%2Fs10482-021-01658-9)
-
-10.1007/s10482-021-01658-9
+10.1093/advances/nmab119
 
 ---
 
-## Disease-induced changes in plant microbiome assembly and functional adaptation.
- 19.09.2021, _M Gao, C Xiong, C Gao, CKM Tsui, MM Wang, X Zhou, AM Zhang, L Cai_
+## Next-generation prebiotic promotes selective growth of bifidobacteria, suppressing <em>Clostridioides difficile</em>
 
-
-The plant microbiome is an integral part of the host and increasingly recognized as playing fundamental roles in plant growth and health. Increasing evidence indicates that plant rhizosphere recruits beneficial microbes to the plant to suppress soil-borne pathogens. However, the ecological processes that govern plant microbiome assembly and functions in the below- and aboveground compartments under pathogen invasion are not fully understood. Here, we studied the bacterial and fungal communities associated with 12 compartments (e.g., soils, roots, stems, and fruits) of chili pepper (Capsicum annuum L.) using amplicons (16S and ITS) and metagenomics approaches at the main pepper production sites in China and investigated how Fusarium wilt disease (FWD) affects the assembly, co-occurrence patterns, and ecological functions of plant-associated microbiomes.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01138-2)
-
-10.1186/s40168-021-01138-2
+[Source](https://doi.org/10.1080/19490976.2021.1973835)
 
 ---
 
-## Diversity and distribution of viruses inhabiting the deepest ocean on Earth.
- 22.09.2021, _H Jian, Y Yi, J Wang, Y Hao, M Zhang, S Wang, C Meng, Y Zhang, H Jing, Y Wang, X Xiao_
+## timeOmics: an R package for longitudinal multi-omics data integration
 
-
-_Archaea, Ecosystem, Oceans and Seas, Seawater, Viruses_
-As the most abundant biological entities on the planet, viruses significantly influence the overall functioning of marine ecosystems. The abundance, distribution, and biodiversity of viral communities in the upper ocean have been relatively well studied, but our understanding of viruses in the hadal biosphere remains poor. Here, we established the oceanic trench viral genome dataset (OTVGD) by analysing 19 microbial metagenomes derived from seawater and sediment samples of the Mariana, Yap, and Kermadec Trenches. The trench viral communities harbored remarkably high novelty, and they were predicted to infect ecologically important microbial clades, including Thaumarchaeota and Oleibacter. Significant inter-trench and intra-trench exchange of viral communities was proposed. Moreover, viral communities in different habitats (seawater/sediment and depth-stratified ocean zones) exhibited distinct niche-dependent distribution patterns and genomic properties. Notably, microbes and viruses in the hadopelagic seawater seemed to preferably adopt lysogenic lifestyles compared to those in the upper ocean. Furthermore, niche-specific auxiliary metabolic genes were identified in the hadal viral genomes, and a novel viral D-amino acid oxidase was functionally and phylogenetically characterized, suggesting the contribution of these genes in the utilization of refractory organic matter. Together, these findings highlight the genomic novelty, dynamic movement, and environment-driven diversification of viral communities in oceanic trenches, and suggest that viruses may influence the hadal ecosystem by reprogramming the metabolism of their hosts and modulating the community of keystone microbes.
-
-[Source](https://www.nature.com/articles/s41396-021-00994-y)
-
-10.1038/s41396-021-00994-y
+[Source](https://doi.org/10.1093/bioinformatics/btab664)
 
 ---
 
-## Deep-sea shipwrecks represent island-like ecosystems for marine microbiomes.
- 22.09.2021, _LJ Hamdan, JJ Hampel, RD Moseley, RL Mugge, A Ray, JL Salerno, M Damour_
+## Automation of QIIME2 Metagenomic Analysis Platform
 
-
-_Biodiversity, Ecosystem, Gulf of Mexico, Microbiota_
-Biogeography of macro- and micro-organisms in the deep sea is, in part, shaped by naturally occurring heterogeneous habitat features of geological and biological origin such as seeps, vents, seamounts, whale and wood-falls. Artificial features including shipwrecks and energy infrastructure shape the biogeographic patterns of macro-organisms; how they influence microorganisms is unclear. Shipwrecks may function as islands of biodiversity for microbiomes, creating a patchwork of habitats with influence radiating out into the seabed. Here we show microbiome richness and diversity increase as a function of proximity to the historic deep-sea shipwreck Anona in the Gulf of Mexico. Diversity and richness extinction plots provide evidence of an island effect on microbiomes. A halo of core taxa on the seabed was observed up to 200 m away from the wreck indicative of the transition zone from shipwreck habitat to the surrounding environment. Transition zones around natural habitat features are often small in area compared to what was observed at Anona indicating shipwrecks may exert a large sphere of influence on seabed microbiomes. Historic shipwrecks are abundant, isolated habitats with global distribution, providing a means to explore contemporary processes shaping biogeography on the seafloor. This work is a case study for how built environments impact microbial biodiversity and provides new information on how arrival of material to the seafloor shapes benthic microbiomes.
-
-[Source](https://www.nature.com/articles/s41396-021-00978-y)
-
-10.1038/s41396-021-00978-y
+[Source](https://doi.org/10.1002/cpz1.254)
 
 ---
 
-## The biogeographic differentiation of algal microbiomes in the upper ocean from pole to pole.
- 17.09.2021, _K Martin, K Schmidt, A Toseland, CA Boulton, K Barry, B Beszteri, CPD Brussaard, A Clum, CG Daum, E Eloe-Fadrosh, A Fong, B Foster, B Foster, M Ginzburg, M Huntemann, NN Ivanova, NC Kyrpides, E Lindquist, S Mukherjee, K Palaniappan, TBK Reddy, MR Rizkallah, S Roux, K Timmermans, SG Tringe, WH van de Poll, N Varghese, KU Valentin, TM Lenton, IV Grigoriev, RM Leggett, V Moulton, T Mock_
+## Persistence of functional microbiota composition across generations
 
-
-Eukaryotic phytoplankton are responsible for at least 20% of annual global carbon fixation. Their diversity and activity are shaped by interactions with prokaryotes as part of complex microbiomes. Although differences in their local species diversity have been estimated, we still have a limited understanding of environmental conditions responsible for compositional differences between local species communities on a large scale from pole to pole. Here, we show, based on pole-to-pole phytoplankton metatranscriptomes and microbial rDNA sequencing, that environmental differences between polar and non-polar upper oceans most strongly impact the large-scale spatial pattern of biodiversity and gene activity in algal microbiomes. The geographic differentiation of co-occurring microbes in algal microbiomes can be well explained by the latitudinal temperature gradient and associated break points in their beta diversity, with an average breakpoint at 14 °C ± 4.3, separating cold and warm upper oceans. As global warming impacts upper ocean temperatures, we project that break points of beta diversity move markedly pole-wards. Hence, abrupt regime shifts in algal microbiomes could be caused by anthropogenic climate change.
-
-[Source](https://www.nature.com/articles/s41467-021-25646-9)
-
-10.1038/s41467-021-25646-9
+[Source](https://www.nature.com/articles/s41598-021-98097-3)
 
 ---
 
-## A 2021 taxonomy update for the family Smacoviridae.
- 21.09.2021, _M Krupovic, A Varsani_
+## Gastric microbiota in patients with <em>Helicobacter pylori</em>-negative gastric MALT lymphoma.
 
-
-The family Smacoviridae (order Cremevirales, class Arfiviricetes, phylum Cressdnaviricota) is comprised of viruses with small circular single-stranded DNA genomes of ~2.3-3 kb in length that have primarily been identified in fecal sample of various animals. Smacovirus genomes carry two genes in ambisense orientation encoding a capsid protein and a rolling-circle replication initiation protein, respectively. We have revised the taxonomy of the family by assigning 138 new genomic sequences deposited in GenBank to already established taxa as well as 41 new species and six new genera. Furthermore, we have adopted binomial species nomenclature, conforming to the "Genus + freeform epithet" format for all 84 species from 12 genera. The updated Smacoviridae taxonomy presented in this article has been ratified by the International Committee on Taxonomy of Viruses (ICTV).
-
-[Source](https://link.springer.com/article/10.1007%2Fs00705-021-05224-6)
-
-10.1007/s00705-021-05224-6
+[Source](https://doi.org/10.1097/MD.0000000000027287)
 
 ---
 
-## MIMOSA2: A metabolic network-based tool for inferring mechanism-supported relationships in microbiome-metabolome data
+## <em>Lachnospira</em> is a signature of antihistamine efficacy in chronic spontaneous urticarial
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.09.14.459910v1.abstract)
+[Source](https://doi.org/10.1111/exd.14460)
 
 ---
 
-## Identifying indicator species in ecological habitats using Deep Optimal Feature Learning.
- 14.09.2021, _Y Tsai, SA Baldwin, B Gopaluni_
+## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women
+
+[Source](https://doi.org/10.1093/ofid/ofab438)
+
+---
+
+## Gut <em>Lactobacillus</em> Level Is a Predictive Marker for Coronary Atherosclerotic Lesions Progress and Prognosis in Patients With Acute Coronary Syndrome
+
+[Source](https://doi.org/10.3389/fcimb.2021.687827)
+
+---
+
+## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study
+
+[Source](https://doi.org/10.3389/fimmu.2021.667097)
+
+---
+
+## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study
+
+[Source](https://doi.org/10.1038/s41598-021-98587-4)
+
+---
+
+## Genital mycoplasma infection and spontaneous preterm birth outcome: a prospective cohort study.
+
+[Source](https://doi.org/10.1111/1471-0528.16949)
+
+---
+
+## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls
+
+[Source](https://doi.org/10.1038/s41598-021-98380-3)
+
+---
+
+## Periodontitis associates with species-specific gene expression of the oral microbiota
+
+[Source](https://doi.org/10.1038/s41522-021-00247-y)
+
+---
+
+## Interplay and cooperation of <em>Helicobacter pylori </em>and gut microbiota in gastric carcinogenesis
+
+[Source](https://doi.org/10.1186/s12866-021-02315-x)
+
+---
+
+## Comparative Analyses of the Transport Proteins Encoded within the Genomes of nine <em>Bifidobacterium</em> Species
+
+[Source](https://doi.org/10.1159/000518954)
+
+---
+
+## Mass spectrometry-based metabolomics in microbiome investigations
+
+[Source](https://doi.org/10.1038/s41579-021-00621-9)
+
+---
+
+## Gut microbiota depletion exacerbates cholestatic liver injury via loss of FXR signalling.
+ 23.09.2021, _KM Schneider, LS Candels, JR Hov, M Myllys, R Hassan, CV Schneider, A Wahlström, A Mohs, S Zühlke, L Liao, C Elfers, K Kilic, M Henricsson, A Molinaro, M Hatting, A Zaza, D Drasdo, M Frissen, AS Devlin, EJC Gálvez, T Strowig, TH Karlsen, JG Hengstler, HU Marschall, A Ghallab, C Trautwein_
 
 
-Much of the current research on supervised modelling is focused on maximizing outcome prediction accuracy. However, in engineering disciplines, an arguably more important goal is that of feature extraction, the identification of relevant features associated with the various outcomes. For instance, in microbial communities, the identification of keystone species can often lead to improved prediction of future behavioral shifts. This paper proposes a novel feature extractor based on Deep Learning, which is largely agnostic to underlying assumptions regarding the training data. Starting from a collection of microbial species abundance counts, the Deep Learning model first trains itself to classify the selected distinct habitats. It then identifies indicator species associated with the habitats. The results are then compared and contrasted with those obtained by traditional statistical techniques. The indicator species are similar when compared at top taxonomic levels such as Domain and Phylum, despite visible differences in lower levels such as Class and Order. More importantly, when our estimated indicators are used to predict final habitat labels using simpler models (such as Support Vector Machines and traditional Artificial Neural Networks), the prediction accuracy is improved. Overall, this study serves as a preliminary step that bridges modern, black-box Machine Learning models with traditional, domain expertise-rich techniques.
+Primary sclerosing cholangitis (PSC) is a chronic cholestatic liver disease of unknown aetiology for which there are no approved therapeutic options. Patients with PSC display changes in gut microbiota and in bile acid (BA) composition; however, the contribution of these alterations to disease pathogenesis remains controversial. Here we identify a role for microbiota-dependent changes in BA synthesis that modulates PSC pathophysiology. In a genetic mouse model of PSC, we show that loss of microbiota-mediated negative feedback control of BA synthesis results in increased hepatic BA concentrations, disruption of bile duct barrier function and, consequently, fatal liver injury. We further show that these changes are dependent on decreased BA signalling to the farnesoid X receptor, which modulates the activity of the rate-limiting enzyme in BA synthesis, CYP7A1. Moreover, patients with advanced stages of PSC show suppressed BA synthesis as measured by serum C4 levels, which is associated with poor disease prognosis. Our preclinical data highlight the microbiota-dependent dynamics of BA metabolism in cholestatic liver disease, which could be important for future therapies targeting BA and gut microbiome interactions, and identify C4 as a potential biomarker to functionally stratify patients with PSC and predict disease outcomes.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0256782)
+[Source](https://www.nature.com/articles/s42255-021-00452-1)
 
-10.1371/journal.pone.0256782
+10.1038/s42255-021-00452-1
+
+---
+
+## Chains of evidence from correlations to causal molecules in microbiome-linked diseases.
+ 24.09.2021, _SN Chaudhari, MD McCurry, AS Devlin_
+
+
+Human-associated microorganisms play a vital role in human health, and microbial imbalance has been linked to a wide range of disease states. In this Review, we explore recent efforts to progress from correlative studies that identify microorganisms associated with human disease to experiments that establish causal relationships between microbial products and host phenotypes. We propose that successful efforts to uncover phenotypes often follow a chain of evidence that proceeds from (1) association studies; to (2) observations in germ-free animals and antibiotic-treated animals and humans; to (3) fecal microbiota transplants (FMTs); to (4) identification of strains; and then (5) molecules that elicit a phenotype. Using this experimental 'funnel' as our guide, we explore how the microbiota contributes to metabolic disorders and hypertension, infections, and neurological conditions. We discuss the potential to use FMTs and microbiota-inspired therapies to treat human disease as well as the limitations of these approaches.
+
+[Source](https://doi.org/10.1038/s41589-021-00861-z)
+
+10.1038/s41589-021-00861-z
+
+---
+
+## Host and microbiota metabolic signals in aging and longevity.
+ 24.09.2021, _Y Zhou, G Hu, MC Wang_
+
+
+Aging is an inevitable biochemical process that adversely affects personal health and poses ever-increasing challenges to society. Recent research has revealed the crucial role of metabolism in regulating aging and longevity. During diverse metabolic processes, the host organism and their symbiotic partners-the microbiota-produce thousands of chemical products (metabolites). Emerging studies have uncovered specific metabolites that act as signaling molecules to actively regulate longevity. Here we review the latest progress in understanding the molecular mechanisms by which metabolites from the host and/or microbiota promote longevity. We also highlight state-of-the-art technologies for discovering, profiling and imaging aging- and longevity-regulating metabolites and for deciphering the molecular basis of their actions. The broad application of these technologies in aging research, together with future advances, will foster the systematic discovery of aging- and longevity-regulating metabolites and their signaling pathways. These metabolite signals should provide promising targets for developing new interventions to promote longevity and healthy aging.
+
+[Source](https://doi.org/10.1038/s41589-021-00837-z)
+
+10.1038/s41589-021-00837-z
+
+---
+
+## Fecal filtrate transplantation protects against necrotizing enterocolitis.
+ 23.09.2021, _A Brunse, L Deng, X Pan, Y Hui, JL Castro-Mejía, W Kot, DN Nguyen, JB Secher, DS Nielsen, T Thymann_
+
+
+Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder afflicting preterm infants, which is currently unpreventable. Fecal microbiota transplantation (FMT) is a promising preventive therapy, but the transfer of pathogenic microbes or toxic compounds raise concern. Removal of bacteria from donor feces by micropore filtering may reduce this risk of bacterial infection, while residual bacteriophages could maintain the NEC-preventive effects. We aimed to assess preclinical efficacy and safety of fecal filtrate transplantation (FFT). Using fecal material from healthy suckling piglets, we compared rectal FMT administration (FMT, n = 16) with cognate FFT by either rectal (FFTr, n = 14) or oro-gastric administration (FFTo, n = 13) and saline (CON, n = 16) in preterm, cesarean-delivered piglets as models for preterm infants. We assessed gut pathology and analyzed mucosal and luminal bacterial and viral composition using 16S rRNA gene amplicon and meta-virome sequencing. Finally, we used isolated ileal mucosa, coupled with RNA-Seq, to gauge the host response to the different treatments. Oro-gastric FFT completely prevented NEC, which was confirmed by microscopy, whereas FMT did not perform better than control. Oro-gastric FFT increased viral diversity and reduced Proteobacteria relative abundance in the ileal mucosa relative to control. An induction of mucosal immunity was observed in response to FMT but not FFT. As preterm infants are extremely vulnerable to infections, rational NEC-preventive strategies need incontestable safety profiles. We show in a clinically relevant animal model that FFT, as opposed to FMT, efficiently prevents NEC without any recognizable side effects.
+
+[Source](https://doi.org/10.1038/s41396-021-01107-5)
+
+10.1038/s41396-021-01107-5
+
+---
+
+## High-fat diet increases the severity of <em>Giardia infection</em> in association with low-grade inflammation and gut microbiota dysbiosis
+
+[Source](https://doi.org/10.1038/s41598-021-98262-8)
+
+---
+
+## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in-vitro fecal fermentation
+
+[Source](https://doi.org/10.1016/j.carbpol.2021.118546)
+
+---
+
+## Interactions between dietary polyphenols and aging gut microbiota: A review
+
+[Source](https://doi.org/10.1002/biof.1785)
+
+---
+
+## Safety and efficacy of using heat-killed <em>Lactobacillus plantarum </em>L-137: High-dose and long-term use effects on immune-related safety and intestinal bacterial flora
+
+[Source](https://doi.org/10.1080/1547691X.2021.1979698)
+
+---
+
+## <em>Faecalibacterium prausnitzii </em>Attenuates DSS-Induced Colitis by Inhibiting the Colonization and Pathogenicity of <em>Candida albicans</em>
+
+[Source](https://doi.org/10.1002/mnfr.202100433)
+
+---
+
+## Probiotics, Prebiotics, and Synbiotics for the Prevention of Necrotizing Enterocolitis.
+
+[Source](https://doi.org/10.3389/fnut.2021.667188)
+
+---
+
+## Main drivers of (poly)phenol effects on human health: metabolite production and/or gut microbiota-associated metabotypes?
+
+[Source](https://doi.org/10.1039/d1fo02033a)
+
+---
+
+## Inhibitory effects of<em> Lactobacillus casei</em> Shirota against both <em>Candida auris</em> and <em>Candida </em>spp. isolates that cause vulvovaginal candidiasis and are resistant to antifungals
+
+[Source](https://doi.org/10.1186/s12906-021-03405-z)
+
+---
+
+## Fructooligosaccharides: From Breast Milk Components to Potential Supplements. A Systematic Review
+
+[Source](https://doi.org/10.1093/advances/nmab102)
+
+---
+
+## Effects of Microbiota-Driven Therapy on Circulating Trimethylamine-N-Oxide Metabolism: A Systematic Review and Meta-Analysis
+
+[Source](https://doi.org/10.3389/fcvm.2021.710567)
+
+---
+
+## The spleen bacteriome of wild rodents and shrews from Marigat, Baringo County, Kenya.
+
+[Source](https://doi.org/10.7717/peerj.12067)
+
+---
+
+## Marked Seasonal Variation in Structure and Function of Gut Microbiota in Forest and Alpine Musk Deer
+
+[Source](https://doi.org/10.3389/fmicb.2021.699797)
+
+---
+
+## Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes
+
+[Source](https://doi.org/10.1111/mec.16193)
+
+---
+
+## Association of female reproductive tract microbiota with egg production in layer chickens
+
+[Source](https://doi.org/10.1093/gigascience/giab067)
+
+---
+
+## <em>Bacillus subtilis</em> Colonization of <em>Arabidopsis thaliana</em> Roots Induces Multiple Biosynthetic Clusters for Antibiotic Production
+
+[Source](https://doi.org/10.3389/fcimb.2021.722778)
+
+---
+
+## Prospects for multi-omics in the microbial ecology of water engineering
+
+[Source](https://doi.org/10.1016/j.watres.2021.117608)
+
+---
+
+## QSDB-a graphical Quorum Sensing Database
+
+[Source](https://academic.oup.com/database/article/doi/10.1093/database/baab058/6375033)
+
+---
+
+## Testing microbiome association using integrated quantile regression models
+
+[Source](https://doi.org/10.1093/bioinformatics/btab668)
+
+---
+
+## timeOmics: an R package for longitudinal multi-omics data integration
+
+[Source](https://doi.org/10.1093/bioinformatics/btab664)
+
+---
+
+## Automation of QIIME2 Metagenomic Analysis Platform
+
+[Source](https://doi.org/10.1002/cpz1.254)
 
 ---
 
