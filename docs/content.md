@@ -58,15 +58,27 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Automation of QIIME2 Metagenomic Analysis Platform
+## Automation of QIIME2 Metagenomic Analysis Platform.
+ 24.09.2021, _C Fung, M Rusling, T Lampeter, C Love, A Karim, C Bongiorno, LL Yuan_
+
+
+QIIME is a widely used, open-source microbiome analysis software package that converts raw sequence data into interpretable visualizations and statistical results. QIIME2 has recently succeeded QIIME1, becoming the most updated platform. The protocols in this article describe our effort in automating core functions of QIIME2, using datasets available at docs.qiime2.org. While these specific examples are microbial 16S rRNA gene sequences, our automation can be easily applied to other types of QIIME2 analysis. © 2021 Wiley Periodicals LLC. Basic Protocol 1: Preparing files and folders Support Protocol 1: Preparing your data for QAP Support Protocol 2: Understanding automated options Basic Protocol 2: Importing into QIIME Basic Protocol 3: DADA2: Filtering, trimming, merging pairs Basic Protocol 4: Performing core metrics Basic Protocol 5: Sample filtering by metadata Basic Protocol 6: Alpha diversity metrics Basic Protocol 7: Cross-sectional beta diversity Basic Protocol 8: Longitudinal feature volatility Basic Protocol 9: Sample classification.
 
 [Source](https://doi.org/10.1002/cpz1.254)
 
+10.1002/cpz1.254
+
 ---
 
-## Persistence of functional microbiota composition across generations
+## Persistence of functional microbiota composition across generations.
+ 25.09.2021, _C Ramos, M Calus, D Schokker_
+
+
+Holobionts are defined as a host and its microbiota, however, only a fraction of the bacteria are inherited vertically and thus coevolve with the host. The "it's the song, not the singer" theory proposes that functional traits, instead of taxonomical microbiota composition, could be preserved across generations if interspecies interaction patterns perpetuate themselves. We tested conservation of functional composition across generations using zooplankton, mosquito, and plant datasets. Then, we tested if there is a change of functional microbiota composition over time within a generation in human datasets. Finally, we simulated microbiota communities to investigate if (pairwise) interactions can lead to multiple stable community compositions. Our results suggest that the vertically transmitted microbiota starts a predictable change of functions performed by the microbiota over time, whose robustness depends on the arrival of diverse migrants. This succession culminates in a stable functional composition state. The results suggest that the host-microbiota interaction and higher order interactions in general have an important contribution to the robustness of the final community. If the proposed mechanism proves to be valid for a diverse array of host species, this would support the concept of holobionts being used as units of selection, including animal breeding, suggesting this has a wider applicability.
 
 [Source](https://www.nature.com/articles/s41598-021-98097-3)
+
+10.1038/s41598-021-98097-3
 
 ---
 
@@ -82,9 +94,15 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women
+## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women.
+ 25.09.2021, _AS Sturt, EL Webb, L Himschoot, CR Phiri, J Mapani, M Mudenda, EF Kjetland, T Mweene, B Levecke, GJ van Dam, PLAM Corstjens, H Ayles, RJ Hayes, L van Lieshout, I Hansingo, SC Francis, P Cools, AL Bustinduy_
+
+
+The cervicovaginal microbiota, including sexually transmitted infections (STIs), have not been well described in female genital schistosomiasis (FGS).
 
 [Source](https://doi.org/10.1093/ofid/ofab438)
+
+10.1093/ofid/ofab438
 
 ---
 
@@ -94,33 +112,63 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study
+## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study.
+ 25.09.2021, _K Xiang, P Wang, Z Xu, YQ Hu, YS He, Y Chen, YT Feng, KJ Yin, JX Huang, J Wang, ZD Wu, XK Yang, DG Wang, DQ Ye, HF Pan_
+
+
+The observational association between gut microbiome and systemic lupus erythematosus (SLE) has been well documented. However, whether the association is causal remains unclear. The present study used publicly available genome-wide association study (GWAS) summary data to perform two-sample Mendelian randomization (MR), aiming to examine the causal links between gut microbiome and SLE. Two sets of MR analyses were conducted. A group of single nucleotide polymorphisms (SNPs) that less than the genome-wide statistical significance threshold (5 × 10-8) served as instrumental variables. To obtain a comprehensive conclusion, the other group where SNPs were smaller than the locus-wide significance level (1 × 10-5) were selected as instrumental variables. Based on the locus-wide significance level, the results indicated that there were causal effects of gut microbiome components on SLE risk. The inverse variance weighted (IVW) method suggested that Bacilli and Lactobacillales were positively correlated with the risk of SLE and Bacillales, Coprobacter and Lachnospira were negatively correlated with SLE risk. The results of weighted median method supported that Bacilli, Lactobacillales, and Eggerthella were risk factors for SLE and Bacillales and Coprobacter served as protective factors for SLE. The estimates of MR Egger suggested that genetically predicted Ruminiclostridium6 was negatively associated with SLE. Based on the genome-wide statistical significance threshold, the results showed that Actinobacteria might reduce the SLE risk. However, Mendelian randomization pleiotropy residual sum and outlier (MR-PRESSO) detected significant horizontal pleiotropy between the instrumental variables of Ruminiclostridium6 and outcome. This study support that there are beneficial or detrimental causal effects of gut microbiome components on SLE risk.
 
 [Source](https://doi.org/10.3389/fimmu.2021.667097)
 
+10.3389/fimmu.2021.667097
+
 ---
 
-## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study
+## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study.
+ 24.09.2021, _D Urushiyama, E Ohnishi, W Suda, M Kurakazu, C Kiyoshima, T Hirakawa, K Miyata, F Yotsumoto, K Nabeshima, T Setoue, S Nagamitsu, M Hattori, K Hata, S Miyamoto_
+
+
+Intra-amniotic infection (IAI) is a major cause of preterm birth with a poor perinatal prognosis. We aimed to determine whether analyzing vaginal microbiota can evaluate the risk of chorioamnionitis (CAM) in preterm labor cases. Vaginal discharge samples were collected from 83 pregnant women admitted for preterm labor. Based on Blanc's classification, the participants were divided into CAM (stage ≥ II; n = 46) and non-CAM (stage ≤ I; n = 37) groups. The 16S rDNA amplicons (V1-V2) from vaginal samples were sequenced and analyzed. Using a random forest algorithm, the bacterial species associated with CAM were identified, and a predictive CAM (PCAM) scoring method was developed. The α diversity was significantly higher in the CAM than in the non-CAM group (P &lt; 0.001). The area under the curve was 0.849 (95% confidence interval 0.765-0.934) using the PCAM score. Among patients at &lt; 35 weeks of gestation, the PCAM group (n = 22) had a significantly shorter extended gestational period than the non-PCAM group (n = 25; P = 0.022). Multivariate analysis revealed a significant difference in the frequency of developmental disorders in 3-year-old infants (PCAM, 28%, non-PCAM, 4%; P = 0.022). Analyzing vaginal microbiota can evaluate the risk of IAI. Future studies should establish appropriate interventions for IAI high-risk patients to improve perinatal prognosis.
 
 [Source](https://doi.org/10.1038/s41598-021-98587-4)
+
+10.1038/s41598-021-98587-4
 
 ---
 
 ## Genital mycoplasma infection and spontaneous preterm birth outcome: a prospective cohort study.
+ 24.09.2021, _GKP Cunha, LB Bastos, SF de Freitas, R Cavalli, SM Quintana_
+
+
+To assess the risk of spontaneous preterm birth (sPTB) associated with genital mycoplasma infection asymptomatic women.
 
 [Source](https://doi.org/10.1111/1471-0528.16949)
 
+10.1111/1471-0528.16949
+
 ---
 
-## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls
+## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls.
+ 24.09.2021, _JM Wessels, MA Domínguez, NA Leyland, SK Agarwal, WG Foster_
+
+
+Endometriosis is a chronic, estrogen-dependent gynecological condition affecting approximately 10% of reproductive age women. The most widely accepted theory of its etiology includes retrograde menstruation. Recent reports suggest the uterus is not sterile. Thus, the refluxed menstrual effluent may carry bacteria, and contribute to inflammation, the establishment and growth of endometriotic lesions. Here, we compared and contrasted uterine bacteria (endometrial microbiota) in people with surgically confirmed presence (N = 12) or absence of endometriosis (N = 9) using next-generation 16S rRNA gene sequencing. We obtained an average of &gt; 9000 sequence reads per endometrial biopsy, and found the endometrial microbiota of people with endometriosis was more diverse (greater Shannon Diversity Index and proportion of 'Other' taxa) than symptomatic controls (with pelvic pain, surgically confirmed absence of endometriosis; diagnosed with other benign gynecological conditions). The relative abundance of bacterial taxa enriched in the endometrial microbiota of people with endometriosis belonged to the Actinobacteria phylum (Gram-positive), Oxalobacteraceae (Gram-negative) and Streptococcaceae (Gram-positive) families, and Tepidimonas (Gram-negative) genus, while those enriched in the symptomatic controls belonged to the Burkholderiaceae (Gram-negative) family, and Ralstonia (Gram-negative) genus. Taken together, results suggest the endometrial microbiota is perturbed in people with endometriosis.
 
 [Source](https://doi.org/10.1038/s41598-021-98380-3)
 
+10.1038/s41598-021-98380-3
+
 ---
 
-## Periodontitis associates with species-specific gene expression of the oral microbiota
+## Periodontitis associates with species-specific gene expression of the oral microbiota.
+ 24.09.2021, _D Belstrøm, F Constancias, DI Drautz-Moses, SC Schuster, M Veleba, F Mahé, M Givskov_
+
+
+The purpose of the present investigation was to characterize species-specific bacterial activity of the oral microbiota in periodontitis. We tested the hypotheses that chronic inflammation, i.e., periodontitis, associates with bacterial gene expression of the oral microbiota. Oral microbial samples were collected from three oral sites-subgingival plaque, tongue, and saliva from patients with periodontitis and healthy controls. Paired metagenomics and metatranscriptomics were used to perform concomitant characterization of taxonomic composition and to determine species-specific bacterial activity as expressed by the ratio of specific messenger RNA reads to their corresponding genomic DNA reads. Here, we show the association of periodontitis with bacterial gene expression of the oral microbiota. While oral site was the main determinant of taxonomic composition as well as bacterial gene expression, periodontitis was significantly associated with a reduction of carbohydrate metabolism of the oral microbiota at three oral sites (subgingival plaque, tongue, and saliva). Data from the present study revealed the association of periodontitis with bacterial gene expression of the oral microbiota. Conditions of periodontitis was associated with bacterial activity of local subgingival plaque, but also on tongue and the salivary microbiota. Collectively, data suggest that periodontitis associates with impaired carbohydrate metabolism of the oral microbiota. Future longitudinal and interventional studies are warranted to evaluate the potential pathogenic role of impaired bacterial carbohydrate metabolism not only in periodontitis but also in other diseases with low-grade inflammation, such as type 2 diabetes mellitus.
 
 [Source](https://doi.org/10.1038/s41522-021-00247-y)
+
+10.1038/s41522-021-00247-y
 
 ---
 
@@ -202,15 +250,39 @@ Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder 
 
 ---
 
-## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in-vitro fecal fermentation
+## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in vitro fecal fermentation.
+ 25.09.2021, _YH Mao, YX Xu, YH Li, J Cao, FL Song, D Zhao, Y Zhao, ZM Wang, Y Yang_
+
+
+This study investigated the effect of konjac glucomannan (KGM) of different molecular weight on fecal microflora against antibiotic disturbance. KGM (~1.8 × 107 Da) was partially hydrolysed with trifluoroacetic acid (TFA) for 10 and 60 min to KGM1 (~2.1 × 104 Da) and KGM2 (7413 Da), respectively. The acid treatment caused significant reduction of intrinsic viscosity, average molecular weight (MW) and particle size of KGM, but brought limited change to the molecular structure. Low-MW KGM2 showed the most significant effect on fecal microflora in the presence of two common antibiotics (ampicillin and clindamycin), by increasing the relative abundance of Bifidobacteriaceae while decreasing the proportion of Enterobacteriaceae. Additionally, both the native and acid-treated KGM counteracted the adverse influence of antibiotics on the production of short chain fatty acids. The results have demonstrated the effect of KGM on gut microbiota with antibiotic disturbance.
 
 [Source](https://doi.org/10.1016/j.carbpol.2021.118546)
 
+10.1016/j.carbpol.2021.118546
+
 ---
 
-## Interactions between dietary polyphenols and aging gut microbiota: A review
+## Interactions between dietary polyphenols and aging gut microbiota: A review.
+ 24.09.2021, _S Davinelli, G Scapagnini_
+
+
+Aging induces significant shifts in the composition of gut microbiota associated with decreased microbial diversity. Age-related changes in gut microbiota include a loss of commensals and an increase in disease-associated pathobionts. These alterations are accelerated by lifestyle factors, such as poor nutritional habits, physical inactivity, and medications. Given that diet is one of the main drivers shaping the gut microbiota, nutritional interventions for restoring gut homeostasis are of great importance to the overall health of older adults. Polyphenols, ubiquitously present in fruits and vegetables, have emerged as promising anti-aging candidates because of their ability to modulate some of the common denominators of aging, including gut dysbiosis. These compounds can influence the composition of the gut microbiota, and gut bacteria metabolize polyphenols into bioactive compounds that produce relevant health effects. Although the role of polyphenols on the aging gut has not been fully characterized, accumulating evidence suggests that these compounds exert selective effects on the gut microbial community. Here, we discuss the reciprocal interactions between polyphenols and gut microbiota and summarize the latest findings on the effects of polyphenols on modulating intestinal bacteria during aging.
 
 [Source](https://doi.org/10.1002/biof.1785)
+
+10.1002/biof.1785
+
+---
+
+## Safety and efficacy of using heat-killed Lactobacillus plantarum L-137: High-dose and long-term use effects on immune-related safety and intestinal bacterial flora.
+ 24.09.2021, _H Nakai, S Murosaki, Y Yamamoto, M Furutani, R Matsuoka, Y Hirose_
+
+
+Heat-killed Lactobacillus plantarum L-137 (HK L-137) promotes immune function in animals. In healthy people, T-cell proliferation was shown to be enhanced by taking 10 mg HK L-137 daily for 12 weeks. However, the safety and efficacy of higher doses or longer treatments have not yet been investigated in humans. To investigate the high-dose and long-term use effects of HK L-137 on immune-related safety and on host intestinal bacterial flora, 15 healthy volunteers took a daily HK L-137 (50 mg) preparation for 4 weeks. An additional 29 participants who regularly visited a clinic for health care took HK L-137 (10 mg) daily for 12 months. Measures for anthropometrics, hematology, biochemistry, and urinalysis were taken at scheduled timepoints for all participants. Stool and blood samples were also collected and evaluated for microbes and short-chain fatty acids (SCFA); isolated T-cells were assessed for levels of proliferation induced by phytohemagglutinin in the long-term study. Adverse events or shifts in clinical measures from normal ranges due to the dietary intervention were not observed in the high-dose or long-term studies. Long-term intake also did not result in immune exhaustion due to any chronic immunostimulation; ex vivo T-cell proliferation was significantly greater at 12 months than at baseline (p &lt; 0.01). In addition, the Firmicutes/Bacteroidetes ratio in stool samples was significantly lower at 12 months than at baseline (p &lt; 0.05) due to the long-term intake of the HK L-137. Lastly, fecal SCFA concentrations were significantly greater (p &lt; 0.05) at 6 months than at baseline. From these data, it can be concluded that the efficacy of HK L-137 is maintained with no overt adverse effects as a result of high-dose and/or long-term consumption.
+
+[Source](https://doi.org/10.1080/1547691X.2021.1979698)
+
+10.1080/1547691X.2021.1979698
 
 ---
 
@@ -227,14 +299,26 @@ Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder 
 ---
 
 ## Probiotics, Prebiotics, and Synbiotics for the Prevention of Necrotizing Enterocolitis.
+ 25.09.2021, _K Murphy, RP Ross, CA Ryan, EM Dempsey, C Stanton_
+
+
+Necrotizing enterocolitis (NEC) is a major cause of morbidity and mortality in preterm infants. The exact mechanism by which NEC develops is poorly understood however there is growing evidence to suggest that perturbations in the early-life gut microbiota composition increase the risk for NEC. Modulation of the gut microbiota with probiotics, prebiotics, or in combination (synbiotics) is an area which has attracted intense interest in recent years. In this narrative review, we present an overview of the role of the gut microbiota in the pathogenesis of NEC. We also examine the evidence currently available from randomized controlled trials, observational studies, systematic reviews, and meta-analysis examining the role of probiotics, prebiotics, and synbiotics in reducing the risk of or preventing NEC. Current clinical practice guidelines with recommendations on the routine administration of probiotics to preterm infants for NEC are also explored.
 
 [Source](https://doi.org/10.3389/fnut.2021.667188)
+
+10.3389/fnut.2021.667188
 
 ---
 
 ## Main drivers of (poly)phenol effects on human health: metabolite production and/or gut microbiota-associated metabotypes?
+ 24.09.2021, _CE Iglesias-Aguirre, A Cortés-Martín, MÁ Ávila-Gálvez, JA Giménez-Bastida, MV Selma, A González-Sarrías, JC Espín_
+
+
+Despite the high human interindividual variability in response to (poly)phenol consumption, the cause-and-effect relationship between some dietary (poly)phenols (flavanols and olive oil phenolics) and health effects (endothelial function and prevention of LDL oxidation, respectively) has been well established. Most of the variables affecting this interindividual variability have been identified (food matrix, gut microbiota, single-nucleotide-polymorphisms, etc.). However, the final drivers for the health effects of (poly)phenol consumption have not been fully identified. At least partially, these drivers could be (i) the (poly)phenols ingested that exert their effect in the gastrointestinal tract, (ii) the bioavailable metabolites that exert their effects systemically and/or (iii) the gut microbial ecology associated with (poly)phenol metabolism (i.e., gut microbiota-associated metabotypes). However, statistical associations between health effects and the occurrence of circulating and/or excreted metabolites, as well as cross-sectional studies that correlate gut microbial ecologies and health, do not prove a causal role unequivocally. We provide a critical overview and perspective on the possible main drivers of the effects of (poly)phenols on human health and suggest possible actions to identify the putative actors responsible for the effects.
 
 [Source](https://doi.org/10.1039/d1fo02033a)
+
+10.1039/d1fo02033a
 
 ---
 
@@ -244,39 +328,75 @@ Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder 
 
 ---
 
-## Fructooligosaccharides: From Breast Milk Components to Potential Supplements. A Systematic Review
+## Fructooligosaccharides: From Breast Milk Components to Potential Supplements. A Systematic Review.
+ 23.09.2021, _V De Cosmi, A Mazzocchi, C Agostoni, F Visioli_
+
+
+Breast milk is the optimal food choice for infant growth and development. Among breast milk components, fructooligosaccharides (FOSs) are being actively studied because of their role in microbiota development. In particular, 2'-fucosyllactose is being proposed as a potential supplement/nutraceutical or component of infant formula. In this systematic review, we critically summarize the available information on FOSs and we discuss their future use in infant nutrition. We searched the main electronic databases (PubMed, Embase, and Scopus), with a final check in May 2021. Search terms were inserted individually and using the Boolean tools AND and OR. Relevant articles were identified using the following words: ("fructooligosaccharides" OR "FOS") AND ("human milk" OR "breast milk" OR "donor milk" OR "bank milk"). The search retrieved 1814 articles. After removal of duplicates, we screened 1591 articles based on title, abstract, and exclusive use of the English language. We included articles describing the concentration of FOSs in human milk and assessed the relevant ones. We excluded reviews, studies on animals, and studies exclusively carried out on adults. Also, we excluded studies that have not reported evidence either on FOSs or on galactooligosaccharides from human milk. The resulting publications were reviewed, and 10 studies were included in the systematic review. We conclude that human milk FOSs are, indeed, crucial to infant gut development and their addition to infant formula is safe, well-tolerated, and might provide immune benefits to newborns. However, we would like to underscore the scantiness of human data and the need to avoid the immediate translation of infant research to the commercialization of supplements marketed to adults.
 
 [Source](https://doi.org/10.1093/advances/nmab102)
 
+10.1093/advances/nmab102
+
 ---
 
-## Effects of Microbiota-Driven Therapy on Circulating Trimethylamine-N-Oxide Metabolism: A Systematic Review and Meta-Analysis
+## Effects of Microbiota-Driven Therapy on Circulating Trimethylamine-N-Oxide Metabolism: A Systematic Review and Meta-Analysis.
+ 25.09.2021, _L Miao, J Du, Z Chen, D Shi, H Qu_
+
+
+Aim: This study was designed to systematically evaluate the effects of microbiota-driven therapy on decreasing TMAO and its related metabolites. Methods and Results: PubMed, EMBASE and Cochrane Library databases were searched (up to July 2021). Randomized controlled trials (RCTs), compared microbiota-driven therapy (prebiotics, probiotics, or synbiotics) with placebo on decreasing TMAO and its related metabolites, were eligible. Two researchers extracted the data independently and the disagreement was resolved by a third researcher. The risk of bias of included study was evaluated using Cochrane tool (RoB 2.0). Meta-analysis, meta-regression analysis and publication bias analysis were performed by RevMan 5.3 or Stata 12.0 software. Ten studies (12 arms) involving 342 patients (168 patients in the intervention group and 174 patients in the control group) were included. Compared with the control group, microbiota-driven therapy did not reduce circulating TMAO [SMD = -0.05, 95% CI (-0.36, 0.26), P = 0.749], choline [SMD = -0.34, 95% CI (-1.09, 0.41), P = 0.373], betaine aldehyde [SMD = -0.704, 95% CI (-1.789, 0.382), P = 0.204], and L-carnatine [SMD = -0.06, 95% CI (-0.38, 0.25), P = 0.692]. Conclusion: Current evidence does not support that microbiota-driven treatment reduce circulating levels of TMAO, choline, betaine aldehyde, and L-carnitine. However, given the small sample size, this conclusion needs to be proved in the future. Systematic Review Registration: PROSPERO:CRD42019119107.
 
 [Source](https://doi.org/10.3389/fcvm.2021.710567)
+
+10.3389/fcvm.2021.710567
 
 ---
 
 ## The spleen bacteriome of wild rodents and shrews from Marigat, Baringo County, Kenya.
+ 25.09.2021, _R Liyai, G Kimita, C Masakhwe, D Abuom, B Mutai, DM Onyango, J Waitumbi_
+
+
+There is a global increase in reports of emerging diseases, some of which have emerged as spillover events from wild animals. The spleen is a major phagocytic organ and can therefore be probed for systemic microbiome. This study assessed bacterial diversity in the spleen of wild caught small mammals so as to evaluate their utility as surveillance tools for monitoring bacteria in an ecosystem shared with humans.
 
 [Source](https://doi.org/10.7717/peerj.12067)
 
+10.7717/peerj.12067
+
 ---
 
-## Marked Seasonal Variation in Structure and Function of Gut Microbiota in Forest and Alpine Musk Deer
+## Marked Seasonal Variation in Structure and Function of Gut Microbiota in Forest and Alpine Musk Deer.
+ 25.09.2021, _F Jiang, H Gao, W Qin, P Song, H Wang, J Zhang, D Liu, D Wang, T Zhang_
+
+
+Musk deer (Moschus spp.) is a globally endangered species due to excessive hunting and habitat fragmentation. Captive breeding of musk deer can efficiently relieve the hunting pressure and contribute to the conservation of the wild population and musk supply. However, its effect on the gut microbiota of musk deer is unclear. Recent studies have indicated that gut microbiota is associated with host health and its environmental adaption, influenced by many factors. Herein, high-throughput sequencing of the 16S rRNA gene was used based on 262 fecal samples from forest musk deer (M. berezovskii) (FMD) and 90 samples from alpine musk deer (M. chrysogaster) (AMD). We sought to determine whether seasonal variation can affect the structure and function of gut microbiota in musk deer. The results demonstrated that FMD and AMD had higher α-diversity of gut microbiota in the cold season than in the warm season, suggesting that season change can affect gut microbiota diversity in musk deer. Principal coordinate analysis (PCoA) also revealed significant seasonal differences in the structure and function of gut microbiota in AMD and FMD. Particularly, phyla Firmicutes and Bacteroidetes significantly dominated the 352 fecal samples from captive FMD and AMD. The relative abundance of Firmicutes and the ratio of Firmicutes to Bacteroidetes were significantly decreased in summer than in spring and substantially increased in winter than in summer. In contrast, the relative abundance of Bacteroidetes showed opposite results. Furthermore, dominant bacterial genera and main metabolic functions of gut microbiota in musk deer showed significant seasonal differences. Overall, the abundance of main gut microbiota metabolic functions in FMD was significantly higher in the cold season. WGCNA analysis indicated that OTU6606, OTU5027, OTU7522, and OTU3787 were at the core of the network and significantly related with the seasonal variation. These results indicated that the structure and function in the gut microbiota of captive musk deer vary with seasons, which is beneficial to the environmental adaptation and the digestion and metabolism of food. This study provides valuable insights into the healthy captive breeding of musk deer and future reintroduction programs to recover wild populations.
 
 [Source](https://doi.org/10.3389/fmicb.2021.699797)
 
+10.3389/fmicb.2021.699797
+
 ---
 
-## Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes
+## Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes.
+ 24.09.2021, _AC Perofsky, L Ancel Meyers, LA Abondano, A Di Fiore, RJ Lewis_
+
+
+Primates acquire gut microbiota from conspecifics through direct social contact and shared environmental exposures. Host behavior is a prominent force in structuring gut microbial communities, yet the extent to which group or individual-level forces shape the long-term dynamics of gut microbiota is poorly understood. We investigated the effects of three aspects of host sociality (social groupings, dyadic interactions, and individual dispersal between groups) on gut microbiome composition and plasticity in 58 wild Verreaux's sifaka (Propithecus verreauxi) from six social groups. Over the course of three dry seasons in a five-year period, the six social groups maintained distinct gut microbial signatures, with the taxonomic composition of individual communities changing in tandem among co-residing group members. Samples collected from group members during each season were more similar than samples collected from single individuals across different years. In addition, new immigrants and individuals with less stable social ties exhibited elevated rates of microbiome turnover across seasons. Our results suggest that permanent social groupings shape the changing composition of commensal and mutualistic gut microbial communities and thus may be important drivers of health and resilience in wild primate populations.
 
 [Source](https://doi.org/10.1111/mec.16193)
 
+10.1111/mec.16193
+
 ---
 
-## Association of female reproductive tract microbiota with egg production in layer chickens
+## Association of female reproductive tract microbiota with egg production in layer chickens.
+ 23.09.2021, _Y Su, S Tian, D Li, W Zhu, T Wang, SK Mishra, R Wei, Z Xu, M He, X Zhao, H Yin, X Fan, B Zeng, M Yang, D Yang, Q Ni, Y Li, M Zhang, Q Zhu, M Li_
+
+
+The microbiota of the female reproductive tract is increasingly recognized as playing fundamental roles in animal reproduction. To explore the relative contribution of reproductive tract microbiomes to egg production in chickens, we investigated the microbiota in multiple reproductive and digestive tract sites from 128 female layer (egg-producing) chickens in comparable environments.
 
 [Source](https://doi.org/10.1093/gigascience/giab067)
+
+10.1093/gigascience/giab067
 
 ---
 
@@ -286,21 +406,39 @@ Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder 
 
 ---
 
-## Prospects for multi-omics in the microbial ecology of water engineering
+## Prospects for multi-omics in the microbial ecology of water engineering.
+ 23.09.2021, _EA McDaniel, SA Wahl, S Ishii, A Pinto, R Ziels, PH Nielsen, KD McMahon, RBH Williams_
+
+
+Advances in high-throughput sequencing technologies and bioinformatics approaches over almost the last three decades have substantially increased our ability to explore microorganisms and their functions - including those that have yet to be cultivated in pure isolation. Genome-resolved metagenomic approaches have enabled linking powerful functional predictions to specific taxonomical groups with increasing fidelity. Additionally, related developments in both whole community gene expression surveys and metabolite profiling have permitted for direct surveys of community-scale functions in specific environmental settings. These advances have allowed for a shift in microbiome science away from descriptive studies and towards mechanistic and predictive frameworks for designing and harnessing microbial communities for desired beneficial outcomes. Water engineers, microbiologists, and microbial ecologists studying activated sludge, anaerobic digestion, and drinking water distribution systems have applied various (meta)omics techniques for connecting microbial community dynamics and physiologies to overall process parameters and system performance. However, the rapid pace at which new omics-based approaches are developed can appear daunting to those looking to apply these state-of-the-art practices for the first time. Here, we review how modern genome-resolved metagenomic approaches have been applied to a variety of water engineering applications from lab-scale bioreactors to full-scale systems. We describe integrated omics analysis across engineered water systems and the foundations for pairing these insights with modeling approaches. Lastly, we summarize emerging omics-based technologies that we believe will be powerful tools for water engineering applications. Overall, we provide a framework for microbial ecologists specializing in water engineering to apply cutting-edge omics approaches to their research questions to achieve novel functional insights. Successful adoption of predictive frameworks in engineered water systems could enable more economically and environmentally sustainable bioprocesses as demand for water and energy resources increases.
 
 [Source](https://doi.org/10.1016/j.watres.2021.117608)
 
+10.1016/j.watres.2021.117608
+
 ---
 
-## QSDB-a graphical Quorum Sensing Database
+## QSDB-a graphical Quorum Sensing Database.
+ 24.09.2021, _K Klein, D Garkov, S Rütschlin, T Böttcher, F Schreiber_
+
+
+The human microbiome is largely shaped by the chemical interactions of its microbial members, which includes cross-talk via shared signals or quenching of the signalling of other species. Quorum sensing is a process that allows microbes to coordinate their behaviour in dependence of their population density and to adjust gene expression accordingly. We present the Quorum Sensing Database (QSDB), a comprehensive database of all published sensing and quenching relations between organisms and signalling molecules of the human microbiome, as well as an interactive web interface that allows browsing the database, provides graphical depictions of sensing mechanisms as Systems Biology Graphical Notation diagrams and links to other databases. Database URL: QSDB (Quorum Sensing DataBase) is freely available via an interactive web interface and as a downloadable csv file at http://qsdb.org.
 
 [Source](https://academic.oup.com/database/article/doi/10.1093/database/baab058/6375033)
 
+10.1093/database/baab058
+
 ---
 
-## Testing microbiome association using integrated quantile regression models
+## Testing microbiome association using integrated quantile regression models.
+ 23.09.2021, _T Wang, W Ling, AM Plantinga, MC Wu, X Zhan_
+
+
+Most existing microbiome association analyses focus on the association between microbiome and conditional mean of health or disease-related outcomes, and within this vein, vast computational tools and methods have been devised for standard binary or continuous outcomes. However, these methods tend to be limited either when the underlying microbiome-outcome association occurs somewhere other than the mean level, or when distribution of the outcome variable is irregular (e.g., zero-inflated or mixtures) such that conditional outcome mean is less meaningful. We address this gap by investigating association analysis between microbiome compositions and conditional outcome quantiles.
 
 [Source](https://doi.org/10.1093/bioinformatics/btab668)
+
+10.1093/bioinformatics/btab668
 
 ---
 
@@ -310,9 +448,15 @@ Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder 
 
 ---
 
-## Automation of QIIME2 Metagenomic Analysis Platform
+## Automation of QIIME2 Metagenomic Analysis Platform.
+ 24.09.2021, _C Fung, M Rusling, T Lampeter, C Love, A Karim, C Bongiorno, LL Yuan_
+
+
+QIIME is a widely used, open-source microbiome analysis software package that converts raw sequence data into interpretable visualizations and statistical results. QIIME2 has recently succeeded QIIME1, becoming the most updated platform. The protocols in this article describe our effort in automating core functions of QIIME2, using datasets available at docs.qiime2.org. While these specific examples are microbial 16S rRNA gene sequences, our automation can be easily applied to other types of QIIME2 analysis. © 2021 Wiley Periodicals LLC. Basic Protocol 1: Preparing files and folders Support Protocol 1: Preparing your data for QAP Support Protocol 2: Understanding automated options Basic Protocol 2: Importing into QIIME Basic Protocol 3: DADA2: Filtering, trimming, merging pairs Basic Protocol 4: Performing core metrics Basic Protocol 5: Sample filtering by metadata Basic Protocol 6: Alpha diversity metrics Basic Protocol 7: Cross-sectional beta diversity Basic Protocol 8: Longitudinal feature volatility Basic Protocol 9: Sample classification.
 
 [Source](https://doi.org/10.1002/cpz1.254)
+
+10.1002/cpz1.254
 
 ---
 
