@@ -1,5 +1,5 @@
 ## Bacterial Translocation as Inflammatory Driver in Crohn's Disease.
- 24.09.2021, _R Linares, R Francés, A Gutiérrez, O Juanola_
+ 25.09.2021, _R Linares, R Francés, A Gutiérrez, O Juanola_
 
 
 Crohn's disease (CD) is a chronic inflammatory disorder of the gastrointestinal tract responsible for intestinal lesions. The multifactorial etiology attributed to CD includes a combination of environmental and host susceptibility factors, which result in an impaired host-microbe gut interaction. Bacterial overgrowth and dysbiosis, increased intestinal barrier permeability, and altered inflammatory responses in patients with CD have been described in the past. Those events explain the pathogenesis of luminal translocation of bacteria or its products into the blood, a frequent event in CD, which, in turn, favors a sustained inflammatory response in these patients. In this review, we navigate through the interaction between bacterial antigen translocation, permeability of the intestinal barrier, immunologic response of the host, and genetic predisposition as a combined effect on the inflammatory response observed in CD. Several lines of evidence support that translocation of bacterial products leads to uncontrolled inflammation in CD patients, and as a matter of fact, the presence of gut bacterial genomic fragments at a systemic level constitutes a marker for increased risk of relapse among CD patients. Also, the significant percentage of CD patients who lose response to biologic therapies may be influenced by the translocation of bacterial products, which are well-known drivers of proinflammatory cytokine production by host immune cells. Further mechanistic studies evaluating cellular and humoral immune responses, gut microbiota alterations, and genetic predisposition will help clinicians to better control and personalize the management of CD patients in the future.
@@ -136,9 +136,15 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Mass spectrometry-based metabolomics in microbiome investigations
+## Mass spectrometry-based metabolomics in microbiome investigations.
+ 23.09.2021, _A Bauermeister, H Mannochio-Russo, LV Costa-Lotufo, AK Jarmusch, PC Dorrestein_
+
+
+Microbiotas are a malleable part of ecosystems, including the human ecosystem. Microorganisms affect not only the chemistry of their specific niche, such as the human gut, but also the chemistry of distant environments, such as other parts of the body. Mass spectrometry-based metabolomics is one of the key technologies to detect and identify the small molecules produced by the human microbiota, and to understand the functional role of these microbial metabolites. This Review provides a foundational introduction to common forms of untargeted mass spectrometry and the types of data that can be obtained in the context of microbiome analysis. Data analysis remains an obstacle; therefore, the emphasis is placed on data analysis approaches and integrative analysis, including the integration of microbiome sequencing data.
 
 [Source](https://doi.org/10.1038/s41579-021-00621-9)
+
+10.1038/s41579-021-00621-9
 
 ---
 
