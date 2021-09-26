@@ -58,27 +58,15 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Automation of QIIME2 Metagenomic Analysis Platform.
- 24.09.2021, _C Fung, M Rusling, T Lampeter, C Love, A Karim, C Bongiorno, LL Yuan_
-
-
-QIIME is a widely used, open-source microbiome analysis software package that converts raw sequence data into interpretable visualizations and statistical results. QIIME2 has recently succeeded QIIME1, becoming the most updated platform. The protocols in this article describe our effort in automating core functions of QIIME2, using datasets available at docs.qiime2.org. While these specific examples are microbial 16S rRNA gene sequences, our automation can be easily applied to other types of QIIME2 analysis. © 2021 Wiley Periodicals LLC. Basic Protocol 1: Preparing files and folders Support Protocol 1: Preparing your data for QAP Support Protocol 2: Understanding automated options Basic Protocol 2: Importing into QIIME Basic Protocol 3: DADA2: Filtering, trimming, merging pairs Basic Protocol 4: Performing core metrics Basic Protocol 5: Sample filtering by metadata Basic Protocol 6: Alpha diversity metrics Basic Protocol 7: Cross-sectional beta diversity Basic Protocol 8: Longitudinal feature volatility Basic Protocol 9: Sample classification.
+## Automation of QIIME2 Metagenomic Analysis Platform
 
 [Source](https://doi.org/10.1002/cpz1.254)
 
-10.1002/cpz1.254
-
 ---
 
-## Persistence of functional microbiota composition across generations.
- 25.09.2021, _C Ramos, M Calus, D Schokker_
-
-
-Holobionts are defined as a host and its microbiota, however, only a fraction of the bacteria are inherited vertically and thus coevolve with the host. The "it's the song, not the singer" theory proposes that functional traits, instead of taxonomical microbiota composition, could be preserved across generations if interspecies interaction patterns perpetuate themselves. We tested conservation of functional composition across generations using zooplankton, mosquito, and plant datasets. Then, we tested if there is a change of functional microbiota composition over time within a generation in human datasets. Finally, we simulated microbiota communities to investigate if (pairwise) interactions can lead to multiple stable community compositions. Our results suggest that the vertically transmitted microbiota starts a predictable change of functions performed by the microbiota over time, whose robustness depends on the arrival of diverse migrants. This succession culminates in a stable functional composition state. The results suggest that the host-microbiota interaction and higher order interactions in general have an important contribution to the robustness of the final community. If the proposed mechanism proves to be valid for a diverse array of host species, this would support the concept of holobionts being used as units of selection, including animal breeding, suggesting this has a wider applicability.
+## Persistence of functional microbiota composition across generations
 
 [Source](https://www.nature.com/articles/s41598-021-98097-3)
-
-10.1038/s41598-021-98097-3
 
 ---
 
@@ -130,15 +118,9 @@ Holobionts are defined as a host and its microbiota, however, only a fraction of
 
 ---
 
-## Periodontitis associates with species-specific gene expression of the oral microbiota.
- 24.09.2021, _D Belstrøm, F Constancias, DI Drautz-Moses, SC Schuster, M Veleba, F Mahé, M Givskov_
-
-
-The purpose of the present investigation was to characterize species-specific bacterial activity of the oral microbiota in periodontitis. We tested the hypotheses that chronic inflammation, i.e., periodontitis, associates with bacterial gene expression of the oral microbiota. Oral microbial samples were collected from three oral sites-subgingival plaque, tongue, and saliva from patients with periodontitis and healthy controls. Paired metagenomics and metatranscriptomics were used to perform concomitant characterization of taxonomic composition and to determine species-specific bacterial activity as expressed by the ratio of specific messenger RNA reads to their corresponding genomic DNA reads. Here, we show the association of periodontitis with bacterial gene expression of the oral microbiota. While oral site was the main determinant of taxonomic composition as well as bacterial gene expression, periodontitis was significantly associated with a reduction of carbohydrate metabolism of the oral microbiota at three oral sites (subgingival plaque, tongue, and saliva). Data from the present study revealed the association of periodontitis with bacterial gene expression of the oral microbiota. Conditions of periodontitis was associated with bacterial activity of local subgingival plaque, but also on tongue and the salivary microbiota. Collectively, data suggest that periodontitis associates with impaired carbohydrate metabolism of the oral microbiota. Future longitudinal and interventional studies are warranted to evaluate the potential pathogenic role of impaired bacterial carbohydrate metabolism not only in periodontitis but also in other diseases with low-grade inflammation, such as type 2 diabetes mellitus.
+## Periodontitis associates with species-specific gene expression of the oral microbiota
 
 [Source](https://doi.org/10.1038/s41522-021-00247-y)
-
-10.1038/s41522-021-00247-y
 
 ---
 
