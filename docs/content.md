@@ -142,27 +142,51 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Gut microbiota depletion exacerbates cholestatic liver injury via loss of FXR signalling
+## Gut microbiota depletion exacerbates cholestatic liver injury via loss of FXR signalling.
+ 23.09.2021, _KM Schneider, LS Candels, JR Hov, M Myllys, R Hassan, CV Schneider, A Wahlström, A Mohs, S Zühlke, L Liao, C Elfers, K Kilic, M Henricsson, A Molinaro, M Hatting, A Zaza, D Drasdo, M Frissen, AS Devlin, EJC Gálvez, T Strowig, TH Karlsen, JG Hengstler, HU Marschall, A Ghallab, C Trautwein_
+
+
+Primary sclerosing cholangitis (PSC) is a chronic cholestatic liver disease of unknown aetiology for which there are no approved therapeutic options. Patients with PSC display changes in gut microbiota and in bile acid (BA) composition; however, the contribution of these alterations to disease pathogenesis remains controversial. Here we identify a role for microbiota-dependent changes in BA synthesis that modulates PSC pathophysiology. In a genetic mouse model of PSC, we show that loss of microbiota-mediated negative feedback control of BA synthesis results in increased hepatic BA concentrations, disruption of bile duct barrier function and, consequently, fatal liver injury. We further show that these changes are dependent on decreased BA signalling to the farnesoid X receptor, which modulates the activity of the rate-limiting enzyme in BA synthesis, CYP7A1. Moreover, patients with advanced stages of PSC show suppressed BA synthesis as measured by serum C4 levels, which is associated with poor disease prognosis. Our preclinical data highlight the microbiota-dependent dynamics of BA metabolism in cholestatic liver disease, which could be important for future therapies targeting BA and gut microbiome interactions, and identify C4 as a potential biomarker to functionally stratify patients with PSC and predict disease outcomes.
 
 [Source](https://www.nature.com/articles/s42255-021-00452-1)
+
+10.1038/s42255-021-00452-1
 
 ---
 
 ## Chains of evidence from correlations to causal molecules in microbiome-linked diseases.
+ 24.09.2021, _SN Chaudhari, MD McCurry, AS Devlin_
+
+
+Human-associated microorganisms play a vital role in human health, and microbial imbalance has been linked to a wide range of disease states. In this Review, we explore recent efforts to progress from correlative studies that identify microorganisms associated with human disease to experiments that establish causal relationships between microbial products and host phenotypes. We propose that successful efforts to uncover phenotypes often follow a chain of evidence that proceeds from (1) association studies; to (2) observations in germ-free animals and antibiotic-treated animals and humans; to (3) fecal microbiota transplants (FMTs); to (4) identification of strains; and then (5) molecules that elicit a phenotype. Using this experimental 'funnel' as our guide, we explore how the microbiota contributes to metabolic disorders and hypertension, infections, and neurological conditions. We discuss the potential to use FMTs and microbiota-inspired therapies to treat human disease as well as the limitations of these approaches.
 
 [Source](https://doi.org/10.1038/s41589-021-00861-z)
 
+10.1038/s41589-021-00861-z
+
 ---
 
-## Host and microbiota metabolic signals in aging and longevity
+## Host and microbiota metabolic signals in aging and longevity.
+ 24.09.2021, _Y Zhou, G Hu, MC Wang_
+
+
+Aging is an inevitable biochemical process that adversely affects personal health and poses ever-increasing challenges to society. Recent research has revealed the crucial role of metabolism in regulating aging and longevity. During diverse metabolic processes, the host organism and their symbiotic partners-the microbiota-produce thousands of chemical products (metabolites). Emerging studies have uncovered specific metabolites that act as signaling molecules to actively regulate longevity. Here we review the latest progress in understanding the molecular mechanisms by which metabolites from the host and/or microbiota promote longevity. We also highlight state-of-the-art technologies for discovering, profiling and imaging aging- and longevity-regulating metabolites and for deciphering the molecular basis of their actions. The broad application of these technologies in aging research, together with future advances, will foster the systematic discovery of aging- and longevity-regulating metabolites and their signaling pathways. These metabolite signals should provide promising targets for developing new interventions to promote longevity and healthy aging.
 
 [Source](https://doi.org/10.1038/s41589-021-00837-z)
 
+10.1038/s41589-021-00837-z
+
 ---
 
-## Fecal filtrate transplantation protects against necrotizing enterocolitis
+## Fecal filtrate transplantation protects against necrotizing enterocolitis.
+ 23.09.2021, _A Brunse, L Deng, X Pan, Y Hui, JL Castro-Mejía, W Kot, DN Nguyen, JB Secher, DS Nielsen, T Thymann_
+
+
+Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder afflicting preterm infants, which is currently unpreventable. Fecal microbiota transplantation (FMT) is a promising preventive therapy, but the transfer of pathogenic microbes or toxic compounds raise concern. Removal of bacteria from donor feces by micropore filtering may reduce this risk of bacterial infection, while residual bacteriophages could maintain the NEC-preventive effects. We aimed to assess preclinical efficacy and safety of fecal filtrate transplantation (FFT). Using fecal material from healthy suckling piglets, we compared rectal FMT administration (FMT, n = 16) with cognate FFT by either rectal (FFTr, n = 14) or oro-gastric administration (FFTo, n = 13) and saline (CON, n = 16) in preterm, cesarean-delivered piglets as models for preterm infants. We assessed gut pathology and analyzed mucosal and luminal bacterial and viral composition using 16S rRNA gene amplicon and meta-virome sequencing. Finally, we used isolated ileal mucosa, coupled with RNA-Seq, to gauge the host response to the different treatments. Oro-gastric FFT completely prevented NEC, which was confirmed by microscopy, whereas FMT did not perform better than control. Oro-gastric FFT increased viral diversity and reduced Proteobacteria relative abundance in the ileal mucosa relative to control. An induction of mucosal immunity was observed in response to FMT but not FFT. As preterm infants are extremely vulnerable to infections, rational NEC-preventive strategies need incontestable safety profiles. We show in a clinically relevant animal model that FFT, as opposed to FMT, efficiently prevents NEC without any recognizable side effects.
 
 [Source](https://doi.org/10.1038/s41396-021-01107-5)
+
+10.1038/s41396-021-01107-5
 
 ---
 
@@ -172,15 +196,39 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in-vitro fecal fermentation
+## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in vitro fecal fermentation.
+ 25.09.2021, _YH Mao, YX Xu, YH Li, J Cao, FL Song, D Zhao, Y Zhao, ZM Wang, Y Yang_
+
+
+This study investigated the effect of konjac glucomannan (KGM) of different molecular weight on fecal microflora against antibiotic disturbance. KGM (~1.8 × 107 Da) was partially hydrolysed with trifluoroacetic acid (TFA) for 10 and 60 min to KGM1 (~2.1 × 104 Da) and KGM2 (7413 Da), respectively. The acid treatment caused significant reduction of intrinsic viscosity, average molecular weight (MW) and particle size of KGM, but brought limited change to the molecular structure. Low-MW KGM2 showed the most significant effect on fecal microflora in the presence of two common antibiotics (ampicillin and clindamycin), by increasing the relative abundance of Bifidobacteriaceae while decreasing the proportion of Enterobacteriaceae. Additionally, both the native and acid-treated KGM counteracted the adverse influence of antibiotics on the production of short chain fatty acids. The results have demonstrated the effect of KGM on gut microbiota with antibiotic disturbance.
 
 [Source](https://doi.org/10.1016/j.carbpol.2021.118546)
 
+10.1016/j.carbpol.2021.118546
+
 ---
 
-## Interactions between dietary polyphenols and aging gut microbiota: A review
+## Interactions between dietary polyphenols and aging gut microbiota: A review.
+ 24.09.2021, _S Davinelli, G Scapagnini_
+
+
+Aging induces significant shifts in the composition of gut microbiota associated with decreased microbial diversity. Age-related changes in gut microbiota include a loss of commensals and an increase in disease-associated pathobionts. These alterations are accelerated by lifestyle factors, such as poor nutritional habits, physical inactivity, and medications. Given that diet is one of the main drivers shaping the gut microbiota, nutritional interventions for restoring gut homeostasis are of great importance to the overall health of older adults. Polyphenols, ubiquitously present in fruits and vegetables, have emerged as promising anti-aging candidates because of their ability to modulate some of the common denominators of aging, including gut dysbiosis. These compounds can influence the composition of the gut microbiota, and gut bacteria metabolize polyphenols into bioactive compounds that produce relevant health effects. Although the role of polyphenols on the aging gut has not been fully characterized, accumulating evidence suggests that these compounds exert selective effects on the gut microbial community. Here, we discuss the reciprocal interactions between polyphenols and gut microbiota and summarize the latest findings on the effects of polyphenols on modulating intestinal bacteria during aging.
 
 [Source](https://doi.org/10.1002/biof.1785)
+
+10.1002/biof.1785
+
+---
+
+## Safety and efficacy of using heat-killed Lactobacillus plantarum L-137: High-dose and long-term use effects on immune-related safety and intestinal bacterial flora.
+ 24.09.2021, _H Nakai, S Murosaki, Y Yamamoto, M Furutani, R Matsuoka, Y Hirose_
+
+
+Heat-killed Lactobacillus plantarum L-137 (HK L-137) promotes immune function in animals. In healthy people, T-cell proliferation was shown to be enhanced by taking 10 mg HK L-137 daily for 12 weeks. However, the safety and efficacy of higher doses or longer treatments have not yet been investigated in humans. To investigate the high-dose and long-term use effects of HK L-137 on immune-related safety and on host intestinal bacterial flora, 15 healthy volunteers took a daily HK L-137 (50 mg) preparation for 4 weeks. An additional 29 participants who regularly visited a clinic for health care took HK L-137 (10 mg) daily for 12 months. Measures for anthropometrics, hematology, biochemistry, and urinalysis were taken at scheduled timepoints for all participants. Stool and blood samples were also collected and evaluated for microbes and short-chain fatty acids (SCFA); isolated T-cells were assessed for levels of proliferation induced by phytohemagglutinin in the long-term study. Adverse events or shifts in clinical measures from normal ranges due to the dietary intervention were not observed in the high-dose or long-term studies. Long-term intake also did not result in immune exhaustion due to any chronic immunostimulation; ex vivo T-cell proliferation was significantly greater at 12 months than at baseline (p &lt; 0.01). In addition, the Firmicutes/Bacteroidetes ratio in stool samples was significantly lower at 12 months than at baseline (p &lt; 0.05) due to the long-term intake of the HK L-137. Lastly, fecal SCFA concentrations were significantly greater (p &lt; 0.05) at 6 months than at baseline. From these data, it can be concluded that the efficacy of HK L-137 is maintained with no overt adverse effects as a result of high-dose and/or long-term consumption.
+
+[Source](https://doi.org/10.1080/1547691X.2021.1979698)
+
+10.1080/1547691X.2021.1979698
 
 ---
 
@@ -287,7 +335,7 @@ Primates acquire gut microbiota from conspecifics through direct social contact 
 ---
 
 ## Association of female reproductive tract microbiota with egg production in layer chickens.
- 23.09.2021, _Y Su, S Tian, D Li, W Zhu, T Wang, SK Mishra, R Wei, Z Xu, M He, X Zhao, H Yin, X Fan, B Zeng, M Yang, D Yang, Q Ni, Y Li, M Zhang, Q Zhu, M Li_
+ 26.09.2021, _Y Su, S Tian, D Li, W Zhu, T Wang, SK Mishra, R Wei, Z Xu, M He, X Zhao, H Yin, X Fan, B Zeng, M Yang, D Yang, Q Ni, Y Li, M Zhang, Q Zhu, M Li_
 
 
 The microbiota of the female reproductive tract is increasingly recognized as playing fundamental roles in animal reproduction. To explore the relative contribution of reproductive tract microbiomes to egg production in chickens, we investigated the microbiota in multiple reproductive and digestive tract sites from 128 female layer (egg-producing) chickens in comparable environments.
