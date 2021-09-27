@@ -64,15 +64,9 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Persistence of functional microbiota composition across generations.
- 25.09.2021, _C Ramos, M Calus, D Schokker_
-
-
-Holobionts are defined as a host and its microbiota, however, only a fraction of the bacteria are inherited vertically and thus coevolve with the host. The "it's the song, not the singer" theory proposes that functional traits, instead of taxonomical microbiota composition, could be preserved across generations if interspecies interaction patterns perpetuate themselves. We tested conservation of functional composition across generations using zooplankton, mosquito, and plant datasets. Then, we tested if there is a change of functional microbiota composition over time within a generation in human datasets. Finally, we simulated microbiota communities to investigate if (pairwise) interactions can lead to multiple stable community compositions. Our results suggest that the vertically transmitted microbiota starts a predictable change of functions performed by the microbiota over time, whose robustness depends on the arrival of diverse migrants. This succession culminates in a stable functional composition state. The results suggest that the host-microbiota interaction and higher order interactions in general have an important contribution to the robustness of the final community. If the proposed mechanism proves to be valid for a diverse array of host species, this would support the concept of holobionts being used as units of selection, including animal breeding, suggesting this has a wider applicability.
+## Persistence of functional microbiota composition across generations
 
 [Source](https://www.nature.com/articles/s41598-021-98097-3)
-
-10.1038/s41598-021-98097-3
 
 ---
 
@@ -88,15 +82,9 @@ Holobionts are defined as a host and its microbiota, however, only a fraction of
 
 ---
 
-## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women.
- 25.09.2021, _AS Sturt, EL Webb, L Himschoot, CR Phiri, J Mapani, M Mudenda, EF Kjetland, T Mweene, B Levecke, GJ van Dam, PLAM Corstjens, H Ayles, RJ Hayes, L van Lieshout, I Hansingo, SC Francis, P Cools, AL Bustinduy_
-
-
-The cervicovaginal microbiota, including sexually transmitted infections (STIs), have not been well described in female genital schistosomiasis (FGS).
+## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women
 
 [Source](https://doi.org/10.1093/ofid/ofab438)
-
-10.1093/ofid/ofab438
 
 ---
 
@@ -106,63 +94,33 @@ The cervicovaginal microbiota, including sexually transmitted infections (STIs),
 
 ---
 
-## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study.
- 25.09.2021, _K Xiang, P Wang, Z Xu, YQ Hu, YS He, Y Chen, YT Feng, KJ Yin, JX Huang, J Wang, ZD Wu, XK Yang, DG Wang, DQ Ye, HF Pan_
-
-
-The observational association between gut microbiome and systemic lupus erythematosus (SLE) has been well documented. However, whether the association is causal remains unclear. The present study used publicly available genome-wide association study (GWAS) summary data to perform two-sample Mendelian randomization (MR), aiming to examine the causal links between gut microbiome and SLE. Two sets of MR analyses were conducted. A group of single nucleotide polymorphisms (SNPs) that less than the genome-wide statistical significance threshold (5 × 10-8) served as instrumental variables. To obtain a comprehensive conclusion, the other group where SNPs were smaller than the locus-wide significance level (1 × 10-5) were selected as instrumental variables. Based on the locus-wide significance level, the results indicated that there were causal effects of gut microbiome components on SLE risk. The inverse variance weighted (IVW) method suggested that Bacilli and Lactobacillales were positively correlated with the risk of SLE and Bacillales, Coprobacter and Lachnospira were negatively correlated with SLE risk. The results of weighted median method supported that Bacilli, Lactobacillales, and Eggerthella were risk factors for SLE and Bacillales and Coprobacter served as protective factors for SLE. The estimates of MR Egger suggested that genetically predicted Ruminiclostridium6 was negatively associated with SLE. Based on the genome-wide statistical significance threshold, the results showed that Actinobacteria might reduce the SLE risk. However, Mendelian randomization pleiotropy residual sum and outlier (MR-PRESSO) detected significant horizontal pleiotropy between the instrumental variables of Ruminiclostridium6 and outcome. This study support that there are beneficial or detrimental causal effects of gut microbiome components on SLE risk.
+## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study
 
 [Source](https://doi.org/10.3389/fimmu.2021.667097)
 
-10.3389/fimmu.2021.667097
-
 ---
 
-## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study.
- 24.09.2021, _D Urushiyama, E Ohnishi, W Suda, M Kurakazu, C Kiyoshima, T Hirakawa, K Miyata, F Yotsumoto, K Nabeshima, T Setoue, S Nagamitsu, M Hattori, K Hata, S Miyamoto_
-
-
-Intra-amniotic infection (IAI) is a major cause of preterm birth with a poor perinatal prognosis. We aimed to determine whether analyzing vaginal microbiota can evaluate the risk of chorioamnionitis (CAM) in preterm labor cases. Vaginal discharge samples were collected from 83 pregnant women admitted for preterm labor. Based on Blanc's classification, the participants were divided into CAM (stage ≥ II; n = 46) and non-CAM (stage ≤ I; n = 37) groups. The 16S rDNA amplicons (V1-V2) from vaginal samples were sequenced and analyzed. Using a random forest algorithm, the bacterial species associated with CAM were identified, and a predictive CAM (PCAM) scoring method was developed. The α diversity was significantly higher in the CAM than in the non-CAM group (P &lt; 0.001). The area under the curve was 0.849 (95% confidence interval 0.765-0.934) using the PCAM score. Among patients at &lt; 35 weeks of gestation, the PCAM group (n = 22) had a significantly shorter extended gestational period than the non-PCAM group (n = 25; P = 0.022). Multivariate analysis revealed a significant difference in the frequency of developmental disorders in 3-year-old infants (PCAM, 28%, non-PCAM, 4%; P = 0.022). Analyzing vaginal microbiota can evaluate the risk of IAI. Future studies should establish appropriate interventions for IAI high-risk patients to improve perinatal prognosis.
+## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study
 
 [Source](https://doi.org/10.1038/s41598-021-98587-4)
-
-10.1038/s41598-021-98587-4
 
 ---
 
 ## Genital mycoplasma infection and spontaneous preterm birth outcome: a prospective cohort study.
- 24.09.2021, _GKP Cunha, LB Bastos, SF de Freitas, R Cavalli, SM Quintana_
-
-
-To assess the risk of spontaneous preterm birth (sPTB) associated with genital mycoplasma infection asymptomatic women.
 
 [Source](https://doi.org/10.1111/1471-0528.16949)
 
-10.1111/1471-0528.16949
-
 ---
 
-## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls.
- 24.09.2021, _JM Wessels, MA Domínguez, NA Leyland, SK Agarwal, WG Foster_
-
-
-Endometriosis is a chronic, estrogen-dependent gynecological condition affecting approximately 10% of reproductive age women. The most widely accepted theory of its etiology includes retrograde menstruation. Recent reports suggest the uterus is not sterile. Thus, the refluxed menstrual effluent may carry bacteria, and contribute to inflammation, the establishment and growth of endometriotic lesions. Here, we compared and contrasted uterine bacteria (endometrial microbiota) in people with surgically confirmed presence (N = 12) or absence of endometriosis (N = 9) using next-generation 16S rRNA gene sequencing. We obtained an average of &gt; 9000 sequence reads per endometrial biopsy, and found the endometrial microbiota of people with endometriosis was more diverse (greater Shannon Diversity Index and proportion of 'Other' taxa) than symptomatic controls (with pelvic pain, surgically confirmed absence of endometriosis; diagnosed with other benign gynecological conditions). The relative abundance of bacterial taxa enriched in the endometrial microbiota of people with endometriosis belonged to the Actinobacteria phylum (Gram-positive), Oxalobacteraceae (Gram-negative) and Streptococcaceae (Gram-positive) families, and Tepidimonas (Gram-negative) genus, while those enriched in the symptomatic controls belonged to the Burkholderiaceae (Gram-negative) family, and Ralstonia (Gram-negative) genus. Taken together, results suggest the endometrial microbiota is perturbed in people with endometriosis.
+## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls
 
 [Source](https://doi.org/10.1038/s41598-021-98380-3)
 
-10.1038/s41598-021-98380-3
-
 ---
 
-## Periodontitis associates with species-specific gene expression of the oral microbiota.
- 24.09.2021, _D Belstrøm, F Constancias, DI Drautz-Moses, SC Schuster, M Veleba, F Mahé, M Givskov_
-
-
-The purpose of the present investigation was to characterize species-specific bacterial activity of the oral microbiota in periodontitis. We tested the hypotheses that chronic inflammation, i.e., periodontitis, associates with bacterial gene expression of the oral microbiota. Oral microbial samples were collected from three oral sites-subgingival plaque, tongue, and saliva from patients with periodontitis and healthy controls. Paired metagenomics and metatranscriptomics were used to perform concomitant characterization of taxonomic composition and to determine species-specific bacterial activity as expressed by the ratio of specific messenger RNA reads to their corresponding genomic DNA reads. Here, we show the association of periodontitis with bacterial gene expression of the oral microbiota. While oral site was the main determinant of taxonomic composition as well as bacterial gene expression, periodontitis was significantly associated with a reduction of carbohydrate metabolism of the oral microbiota at three oral sites (subgingival plaque, tongue, and saliva). Data from the present study revealed the association of periodontitis with bacterial gene expression of the oral microbiota. Conditions of periodontitis was associated with bacterial activity of local subgingival plaque, but also on tongue and the salivary microbiota. Collectively, data suggest that periodontitis associates with impaired carbohydrate metabolism of the oral microbiota. Future longitudinal and interventional studies are warranted to evaluate the potential pathogenic role of impaired bacterial carbohydrate metabolism not only in periodontitis but also in other diseases with low-grade inflammation, such as type 2 diabetes mellitus.
+## Periodontitis associates with species-specific gene expression of the oral microbiota
 
 [Source](https://doi.org/10.1038/s41522-021-00247-y)
-
-10.1038/s41522-021-00247-y
 
 ---
 
@@ -178,63 +136,33 @@ The purpose of the present investigation was to characterize species-specific ba
 
 ---
 
-## Mass spectrometry-based metabolomics in microbiome investigations.
- 23.09.2021, _A Bauermeister, H Mannochio-Russo, LV Costa-Lotufo, AK Jarmusch, PC Dorrestein_
-
-
-Microbiotas are a malleable part of ecosystems, including the human ecosystem. Microorganisms affect not only the chemistry of their specific niche, such as the human gut, but also the chemistry of distant environments, such as other parts of the body. Mass spectrometry-based metabolomics is one of the key technologies to detect and identify the small molecules produced by the human microbiota, and to understand the functional role of these microbial metabolites. This Review provides a foundational introduction to common forms of untargeted mass spectrometry and the types of data that can be obtained in the context of microbiome analysis. Data analysis remains an obstacle; therefore, the emphasis is placed on data analysis approaches and integrative analysis, including the integration of microbiome sequencing data.
+## Mass spectrometry-based metabolomics in microbiome investigations
 
 [Source](https://doi.org/10.1038/s41579-021-00621-9)
 
-10.1038/s41579-021-00621-9
-
 ---
 
-## Gut microbiota depletion exacerbates cholestatic liver injury via loss of FXR signalling.
- 23.09.2021, _KM Schneider, LS Candels, JR Hov, M Myllys, R Hassan, CV Schneider, A Wahlström, A Mohs, S Zühlke, L Liao, C Elfers, K Kilic, M Henricsson, A Molinaro, M Hatting, A Zaza, D Drasdo, M Frissen, AS Devlin, EJC Gálvez, T Strowig, TH Karlsen, JG Hengstler, HU Marschall, A Ghallab, C Trautwein_
-
-
-Primary sclerosing cholangitis (PSC) is a chronic cholestatic liver disease of unknown aetiology for which there are no approved therapeutic options. Patients with PSC display changes in gut microbiota and in bile acid (BA) composition; however, the contribution of these alterations to disease pathogenesis remains controversial. Here we identify a role for microbiota-dependent changes in BA synthesis that modulates PSC pathophysiology. In a genetic mouse model of PSC, we show that loss of microbiota-mediated negative feedback control of BA synthesis results in increased hepatic BA concentrations, disruption of bile duct barrier function and, consequently, fatal liver injury. We further show that these changes are dependent on decreased BA signalling to the farnesoid X receptor, which modulates the activity of the rate-limiting enzyme in BA synthesis, CYP7A1. Moreover, patients with advanced stages of PSC show suppressed BA synthesis as measured by serum C4 levels, which is associated with poor disease prognosis. Our preclinical data highlight the microbiota-dependent dynamics of BA metabolism in cholestatic liver disease, which could be important for future therapies targeting BA and gut microbiome interactions, and identify C4 as a potential biomarker to functionally stratify patients with PSC and predict disease outcomes.
+## Gut microbiota depletion exacerbates cholestatic liver injury via loss of FXR signalling
 
 [Source](https://www.nature.com/articles/s42255-021-00452-1)
-
-10.1038/s42255-021-00452-1
 
 ---
 
 ## Chains of evidence from correlations to causal molecules in microbiome-linked diseases.
- 24.09.2021, _SN Chaudhari, MD McCurry, AS Devlin_
-
-
-Human-associated microorganisms play a vital role in human health, and microbial imbalance has been linked to a wide range of disease states. In this Review, we explore recent efforts to progress from correlative studies that identify microorganisms associated with human disease to experiments that establish causal relationships between microbial products and host phenotypes. We propose that successful efforts to uncover phenotypes often follow a chain of evidence that proceeds from (1) association studies; to (2) observations in germ-free animals and antibiotic-treated animals and humans; to (3) fecal microbiota transplants (FMTs); to (4) identification of strains; and then (5) molecules that elicit a phenotype. Using this experimental 'funnel' as our guide, we explore how the microbiota contributes to metabolic disorders and hypertension, infections, and neurological conditions. We discuss the potential to use FMTs and microbiota-inspired therapies to treat human disease as well as the limitations of these approaches.
 
 [Source](https://doi.org/10.1038/s41589-021-00861-z)
 
-10.1038/s41589-021-00861-z
-
 ---
 
-## Host and microbiota metabolic signals in aging and longevity.
- 24.09.2021, _Y Zhou, G Hu, MC Wang_
-
-
-Aging is an inevitable biochemical process that adversely affects personal health and poses ever-increasing challenges to society. Recent research has revealed the crucial role of metabolism in regulating aging and longevity. During diverse metabolic processes, the host organism and their symbiotic partners-the microbiota-produce thousands of chemical products (metabolites). Emerging studies have uncovered specific metabolites that act as signaling molecules to actively regulate longevity. Here we review the latest progress in understanding the molecular mechanisms by which metabolites from the host and/or microbiota promote longevity. We also highlight state-of-the-art technologies for discovering, profiling and imaging aging- and longevity-regulating metabolites and for deciphering the molecular basis of their actions. The broad application of these technologies in aging research, together with future advances, will foster the systematic discovery of aging- and longevity-regulating metabolites and their signaling pathways. These metabolite signals should provide promising targets for developing new interventions to promote longevity and healthy aging.
+## Host and microbiota metabolic signals in aging and longevity
 
 [Source](https://doi.org/10.1038/s41589-021-00837-z)
 
-10.1038/s41589-021-00837-z
-
 ---
 
-## Fecal filtrate transplantation protects against necrotizing enterocolitis.
- 23.09.2021, _A Brunse, L Deng, X Pan, Y Hui, JL Castro-Mejía, W Kot, DN Nguyen, JB Secher, DS Nielsen, T Thymann_
-
-
-Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder afflicting preterm infants, which is currently unpreventable. Fecal microbiota transplantation (FMT) is a promising preventive therapy, but the transfer of pathogenic microbes or toxic compounds raise concern. Removal of bacteria from donor feces by micropore filtering may reduce this risk of bacterial infection, while residual bacteriophages could maintain the NEC-preventive effects. We aimed to assess preclinical efficacy and safety of fecal filtrate transplantation (FFT). Using fecal material from healthy suckling piglets, we compared rectal FMT administration (FMT, n = 16) with cognate FFT by either rectal (FFTr, n = 14) or oro-gastric administration (FFTo, n = 13) and saline (CON, n = 16) in preterm, cesarean-delivered piglets as models for preterm infants. We assessed gut pathology and analyzed mucosal and luminal bacterial and viral composition using 16S rRNA gene amplicon and meta-virome sequencing. Finally, we used isolated ileal mucosa, coupled with RNA-Seq, to gauge the host response to the different treatments. Oro-gastric FFT completely prevented NEC, which was confirmed by microscopy, whereas FMT did not perform better than control. Oro-gastric FFT increased viral diversity and reduced Proteobacteria relative abundance in the ileal mucosa relative to control. An induction of mucosal immunity was observed in response to FMT but not FFT. As preterm infants are extremely vulnerable to infections, rational NEC-preventive strategies need incontestable safety profiles. We show in a clinically relevant animal model that FFT, as opposed to FMT, efficiently prevents NEC without any recognizable side effects.
+## Fecal filtrate transplantation protects against necrotizing enterocolitis
 
 [Source](https://doi.org/10.1038/s41396-021-01107-5)
-
-10.1038/s41396-021-01107-5
 
 ---
 
@@ -244,39 +172,15 @@ Necrotizing enterocolitis (NEC) is a life-threatening gastrointestinal disorder 
 
 ---
 
-## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in vitro fecal fermentation.
- 25.09.2021, _YH Mao, YX Xu, YH Li, J Cao, FL Song, D Zhao, Y Zhao, ZM Wang, Y Yang_
-
-
-This study investigated the effect of konjac glucomannan (KGM) of different molecular weight on fecal microflora against antibiotic disturbance. KGM (~1.8 × 107 Da) was partially hydrolysed with trifluoroacetic acid (TFA) for 10 and 60 min to KGM1 (~2.1 × 104 Da) and KGM2 (7413 Da), respectively. The acid treatment caused significant reduction of intrinsic viscosity, average molecular weight (MW) and particle size of KGM, but brought limited change to the molecular structure. Low-MW KGM2 showed the most significant effect on fecal microflora in the presence of two common antibiotics (ampicillin and clindamycin), by increasing the relative abundance of Bifidobacteriaceae while decreasing the proportion of Enterobacteriaceae. Additionally, both the native and acid-treated KGM counteracted the adverse influence of antibiotics on the production of short chain fatty acids. The results have demonstrated the effect of KGM on gut microbiota with antibiotic disturbance.
+## Effects of konjac glucomannan with different molecular weights on gut microflora with antibiotic perturbance in in-vitro fecal fermentation
 
 [Source](https://doi.org/10.1016/j.carbpol.2021.118546)
 
-10.1016/j.carbpol.2021.118546
-
 ---
 
-## Interactions between dietary polyphenols and aging gut microbiota: A review.
- 24.09.2021, _S Davinelli, G Scapagnini_
-
-
-Aging induces significant shifts in the composition of gut microbiota associated with decreased microbial diversity. Age-related changes in gut microbiota include a loss of commensals and an increase in disease-associated pathobionts. These alterations are accelerated by lifestyle factors, such as poor nutritional habits, physical inactivity, and medications. Given that diet is one of the main drivers shaping the gut microbiota, nutritional interventions for restoring gut homeostasis are of great importance to the overall health of older adults. Polyphenols, ubiquitously present in fruits and vegetables, have emerged as promising anti-aging candidates because of their ability to modulate some of the common denominators of aging, including gut dysbiosis. These compounds can influence the composition of the gut microbiota, and gut bacteria metabolize polyphenols into bioactive compounds that produce relevant health effects. Although the role of polyphenols on the aging gut has not been fully characterized, accumulating evidence suggests that these compounds exert selective effects on the gut microbial community. Here, we discuss the reciprocal interactions between polyphenols and gut microbiota and summarize the latest findings on the effects of polyphenols on modulating intestinal bacteria during aging.
+## Interactions between dietary polyphenols and aging gut microbiota: A review
 
 [Source](https://doi.org/10.1002/biof.1785)
-
-10.1002/biof.1785
-
----
-
-## Safety and efficacy of using heat-killed Lactobacillus plantarum L-137: High-dose and long-term use effects on immune-related safety and intestinal bacterial flora.
- 24.09.2021, _H Nakai, S Murosaki, Y Yamamoto, M Furutani, R Matsuoka, Y Hirose_
-
-
-Heat-killed Lactobacillus plantarum L-137 (HK L-137) promotes immune function in animals. In healthy people, T-cell proliferation was shown to be enhanced by taking 10 mg HK L-137 daily for 12 weeks. However, the safety and efficacy of higher doses or longer treatments have not yet been investigated in humans. To investigate the high-dose and long-term use effects of HK L-137 on immune-related safety and on host intestinal bacterial flora, 15 healthy volunteers took a daily HK L-137 (50 mg) preparation for 4 weeks. An additional 29 participants who regularly visited a clinic for health care took HK L-137 (10 mg) daily for 12 months. Measures for anthropometrics, hematology, biochemistry, and urinalysis were taken at scheduled timepoints for all participants. Stool and blood samples were also collected and evaluated for microbes and short-chain fatty acids (SCFA); isolated T-cells were assessed for levels of proliferation induced by phytohemagglutinin in the long-term study. Adverse events or shifts in clinical measures from normal ranges due to the dietary intervention were not observed in the high-dose or long-term studies. Long-term intake also did not result in immune exhaustion due to any chronic immunostimulation; ex vivo T-cell proliferation was significantly greater at 12 months than at baseline (p &lt; 0.01). In addition, the Firmicutes/Bacteroidetes ratio in stool samples was significantly lower at 12 months than at baseline (p &lt; 0.05) due to the long-term intake of the HK L-137. Lastly, fecal SCFA concentrations were significantly greater (p &lt; 0.05) at 6 months than at baseline. From these data, it can be concluded that the efficacy of HK L-137 is maintained with no overt adverse effects as a result of high-dose and/or long-term consumption.
-
-[Source](https://doi.org/10.1080/1547691X.2021.1979698)
-
-10.1080/1547691X.2021.1979698
 
 ---
 
