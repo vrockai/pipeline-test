@@ -64,9 +64,15 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Persistence of functional microbiota composition across generations
+## Persistence of functional microbiota composition across generations.
+ 25.09.2021, _C Ramos, M Calus, D Schokker_
+
+
+Holobionts are defined as a host and its microbiota, however, only a fraction of the bacteria are inherited vertically and thus coevolve with the host. The "it's the song, not the singer" theory proposes that functional traits, instead of taxonomical microbiota composition, could be preserved across generations if interspecies interaction patterns perpetuate themselves. We tested conservation of functional composition across generations using zooplankton, mosquito, and plant datasets. Then, we tested if there is a change of functional microbiota composition over time within a generation in human datasets. Finally, we simulated microbiota communities to investigate if (pairwise) interactions can lead to multiple stable community compositions. Our results suggest that the vertically transmitted microbiota starts a predictable change of functions performed by the microbiota over time, whose robustness depends on the arrival of diverse migrants. This succession culminates in a stable functional composition state. The results suggest that the host-microbiota interaction and higher order interactions in general have an important contribution to the robustness of the final community. If the proposed mechanism proves to be valid for a diverse array of host species, this would support the concept of holobionts being used as units of selection, including animal breeding, suggesting this has a wider applicability.
 
 [Source](https://www.nature.com/articles/s41598-021-98097-3)
+
+10.1038/s41598-021-98097-3
 
 ---
 
@@ -82,9 +88,15 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women
+## Association of Female Genital Schistosomiasis With the Cervicovaginal Microbiota and Sexually Transmitted Infections in Zambian Women.
+ 25.09.2021, _AS Sturt, EL Webb, L Himschoot, CR Phiri, J Mapani, M Mudenda, EF Kjetland, T Mweene, B Levecke, GJ van Dam, PLAM Corstjens, H Ayles, RJ Hayes, L van Lieshout, I Hansingo, SC Francis, P Cools, AL Bustinduy_
+
+
+The cervicovaginal microbiota, including sexually transmitted infections (STIs), have not been well described in female genital schistosomiasis (FGS).
 
 [Source](https://doi.org/10.1093/ofid/ofab438)
+
+10.1093/ofid/ofab438
 
 ---
 
@@ -94,33 +106,63 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study
+## Causal Effects of Gut Microbiome on Systemic Lupus Erythematosus: A Two-Sample Mendelian Randomization Study.
+ 25.09.2021, _K Xiang, P Wang, Z Xu, YQ Hu, YS He, Y Chen, YT Feng, KJ Yin, JX Huang, J Wang, ZD Wu, XK Yang, DG Wang, DQ Ye, HF Pan_
+
+
+The observational association between gut microbiome and systemic lupus erythematosus (SLE) has been well documented. However, whether the association is causal remains unclear. The present study used publicly available genome-wide association study (GWAS) summary data to perform two-sample Mendelian randomization (MR), aiming to examine the causal links between gut microbiome and SLE. Two sets of MR analyses were conducted. A group of single nucleotide polymorphisms (SNPs) that less than the genome-wide statistical significance threshold (5 × 10-8) served as instrumental variables. To obtain a comprehensive conclusion, the other group where SNPs were smaller than the locus-wide significance level (1 × 10-5) were selected as instrumental variables. Based on the locus-wide significance level, the results indicated that there were causal effects of gut microbiome components on SLE risk. The inverse variance weighted (IVW) method suggested that Bacilli and Lactobacillales were positively correlated with the risk of SLE and Bacillales, Coprobacter and Lachnospira were negatively correlated with SLE risk. The results of weighted median method supported that Bacilli, Lactobacillales, and Eggerthella were risk factors for SLE and Bacillales and Coprobacter served as protective factors for SLE. The estimates of MR Egger suggested that genetically predicted Ruminiclostridium6 was negatively associated with SLE. Based on the genome-wide statistical significance threshold, the results showed that Actinobacteria might reduce the SLE risk. However, Mendelian randomization pleiotropy residual sum and outlier (MR-PRESSO) detected significant horizontal pleiotropy between the instrumental variables of Ruminiclostridium6 and outcome. This study support that there are beneficial or detrimental causal effects of gut microbiome components on SLE risk.
 
 [Source](https://doi.org/10.3389/fimmu.2021.667097)
 
+10.3389/fimmu.2021.667097
+
 ---
 
-## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study
+## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study.
+ 24.09.2021, _D Urushiyama, E Ohnishi, W Suda, M Kurakazu, C Kiyoshima, T Hirakawa, K Miyata, F Yotsumoto, K Nabeshima, T Setoue, S Nagamitsu, M Hattori, K Hata, S Miyamoto_
+
+
+Intra-amniotic infection (IAI) is a major cause of preterm birth with a poor perinatal prognosis. We aimed to determine whether analyzing vaginal microbiota can evaluate the risk of chorioamnionitis (CAM) in preterm labor cases. Vaginal discharge samples were collected from 83 pregnant women admitted for preterm labor. Based on Blanc's classification, the participants were divided into CAM (stage ≥ II; n = 46) and non-CAM (stage ≤ I; n = 37) groups. The 16S rDNA amplicons (V1-V2) from vaginal samples were sequenced and analyzed. Using a random forest algorithm, the bacterial species associated with CAM were identified, and a predictive CAM (PCAM) scoring method was developed. The α diversity was significantly higher in the CAM than in the non-CAM group (P &lt; 0.001). The area under the curve was 0.849 (95% confidence interval 0.765-0.934) using the PCAM score. Among patients at &lt; 35 weeks of gestation, the PCAM group (n = 22) had a significantly shorter extended gestational period than the non-PCAM group (n = 25; P = 0.022). Multivariate analysis revealed a significant difference in the frequency of developmental disorders in 3-year-old infants (PCAM, 28%, non-PCAM, 4%; P = 0.022). Analyzing vaginal microbiota can evaluate the risk of IAI. Future studies should establish appropriate interventions for IAI high-risk patients to improve perinatal prognosis.
 
 [Source](https://doi.org/10.1038/s41598-021-98587-4)
+
+10.1038/s41598-021-98587-4
 
 ---
 
 ## Genital mycoplasma infection and spontaneous preterm birth outcome: a prospective cohort study.
+ 24.09.2021, _GKP Cunha, LB Bastos, SF de Freitas, R Cavalli, SM Quintana_
+
+
+To assess the risk of spontaneous preterm birth (sPTB) associated with genital mycoplasma infection asymptomatic women.
 
 [Source](https://doi.org/10.1111/1471-0528.16949)
 
+10.1111/1471-0528.16949
+
 ---
 
-## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls
+## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls.
+ 24.09.2021, _JM Wessels, MA Domínguez, NA Leyland, SK Agarwal, WG Foster_
+
+
+Endometriosis is a chronic, estrogen-dependent gynecological condition affecting approximately 10% of reproductive age women. The most widely accepted theory of its etiology includes retrograde menstruation. Recent reports suggest the uterus is not sterile. Thus, the refluxed menstrual effluent may carry bacteria, and contribute to inflammation, the establishment and growth of endometriotic lesions. Here, we compared and contrasted uterine bacteria (endometrial microbiota) in people with surgically confirmed presence (N = 12) or absence of endometriosis (N = 9) using next-generation 16S rRNA gene sequencing. We obtained an average of &gt; 9000 sequence reads per endometrial biopsy, and found the endometrial microbiota of people with endometriosis was more diverse (greater Shannon Diversity Index and proportion of 'Other' taxa) than symptomatic controls (with pelvic pain, surgically confirmed absence of endometriosis; diagnosed with other benign gynecological conditions). The relative abundance of bacterial taxa enriched in the endometrial microbiota of people with endometriosis belonged to the Actinobacteria phylum (Gram-positive), Oxalobacteraceae (Gram-negative) and Streptococcaceae (Gram-positive) families, and Tepidimonas (Gram-negative) genus, while those enriched in the symptomatic controls belonged to the Burkholderiaceae (Gram-negative) family, and Ralstonia (Gram-negative) genus. Taken together, results suggest the endometrial microbiota is perturbed in people with endometriosis.
 
 [Source](https://doi.org/10.1038/s41598-021-98380-3)
 
+10.1038/s41598-021-98380-3
+
 ---
 
-## Periodontitis associates with species-specific gene expression of the oral microbiota
+## Periodontitis associates with species-specific gene expression of the oral microbiota.
+ 24.09.2021, _D Belstrøm, F Constancias, DI Drautz-Moses, SC Schuster, M Veleba, F Mahé, M Givskov_
+
+
+The purpose of the present investigation was to characterize species-specific bacterial activity of the oral microbiota in periodontitis. We tested the hypotheses that chronic inflammation, i.e., periodontitis, associates with bacterial gene expression of the oral microbiota. Oral microbial samples were collected from three oral sites-subgingival plaque, tongue, and saliva from patients with periodontitis and healthy controls. Paired metagenomics and metatranscriptomics were used to perform concomitant characterization of taxonomic composition and to determine species-specific bacterial activity as expressed by the ratio of specific messenger RNA reads to their corresponding genomic DNA reads. Here, we show the association of periodontitis with bacterial gene expression of the oral microbiota. While oral site was the main determinant of taxonomic composition as well as bacterial gene expression, periodontitis was significantly associated with a reduction of carbohydrate metabolism of the oral microbiota at three oral sites (subgingival plaque, tongue, and saliva). Data from the present study revealed the association of periodontitis with bacterial gene expression of the oral microbiota. Conditions of periodontitis was associated with bacterial activity of local subgingival plaque, but also on tongue and the salivary microbiota. Collectively, data suggest that periodontitis associates with impaired carbohydrate metabolism of the oral microbiota. Future longitudinal and interventional studies are warranted to evaluate the potential pathogenic role of impaired bacterial carbohydrate metabolism not only in periodontitis but also in other diseases with low-grade inflammation, such as type 2 diabetes mellitus.
 
 [Source](https://doi.org/10.1038/s41522-021-00247-y)
+
+10.1038/s41522-021-00247-y
 
 ---
 
@@ -136,9 +178,15 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Mass spectrometry-based metabolomics in microbiome investigations
+## Mass spectrometry-based metabolomics in microbiome investigations.
+ 23.09.2021, _A Bauermeister, H Mannochio-Russo, LV Costa-Lotufo, AK Jarmusch, PC Dorrestein_
+
+
+Microbiotas are a malleable part of ecosystems, including the human ecosystem. Microorganisms affect not only the chemistry of their specific niche, such as the human gut, but also the chemistry of distant environments, such as other parts of the body. Mass spectrometry-based metabolomics is one of the key technologies to detect and identify the small molecules produced by the human microbiota, and to understand the functional role of these microbial metabolites. This Review provides a foundational introduction to common forms of untargeted mass spectrometry and the types of data that can be obtained in the context of microbiome analysis. Data analysis remains an obstacle; therefore, the emphasis is placed on data analysis approaches and integrative analysis, including the integration of microbiome sequencing data.
 
 [Source](https://doi.org/10.1038/s41579-021-00621-9)
+
+10.1038/s41579-021-00621-9
 
 ---
 
