@@ -118,51 +118,27 @@ Hibernation represents a state of fasting because hibernators cease eating in th
 
 ---
 
-## Genomic signatures of Lake Erie bacteria suggest interaction in the Microcystis phycosphere.
- 25.09.2021, _AK Hoke, G Reynoso, MR Smith, MI Gardner, DJ Lockwood, NE Gilbert, SW Wilhelm, IR Becker, GJ Brennan, KE Crider, SR Farnan, V Mendoza, AC Poole, ZP Zimmerman, LK Utz, LL Wurch, MM Steffen_
-
-
-Microbial interactions in harmful algal bloom (HAB) communities have been examined in marine systems, but are poorly studied in fresh waters. To investigate HAB-microbe interactions, we isolated bacteria with close associations to bloom-forming cyanobacteria, Microcystis spp., during a 2017 bloom in the western basin of Lake Erie. The genomes of five isolates (Exiguobacterium sp. JMULE1, Enterobacter sp. JMULE2, Deinococcus sp. JMULE3, Paenibacillus sp. JMULE4, and Acidovorax sp. JMULE5.) were sequenced on a PacBio Sequel system. These genomes ranged in size from 3.1 Mbp (Exiguobacterium sp. JMULE1) to 5.7 Mbp (Enterobacter sp. JMULE2). The genomes were analyzed for genes relating to critical metabolic functions, including nitrogen reduction and carbon utilization. All five of the sequenced genomes contained genes that could be used in potential signaling and nutrient exchange between the bacteria and cyanobacteria such as Microcystis. Gene expression signatures of algal-derived carbon utilization for two isolates were identified in Microcystis blooms in Lake Erie and Lake Tai (Taihu) at low levels, suggesting these organisms are active and may have a functional role during Microcystis blooms in aggregates, but were largely missing from whole water samples. These findings build on the growing evidence that the bacterial microbiome associated with bloom-forming algae have the functional potential to contribute to nutrient exchange within bloom communities and interact with important bloom formers like Microcystis.
+## Genomic signatures of Lake Erie bacteria suggest interaction in the Microcystis phycosphere
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257017)
 
-10.1371/journal.pone.0257017
-
 ---
 
-## Microbial river-to-sea continuum: gradients in benthic and planktonic diversity, osmoregulation and nutrient cycling.
- 24.09.2021, _HS Tee, D Waite, G Lear, KM Handley_
-
-
-Coastal aquatic ecosystems include chemically distinct, but highly interconnected environments. Across a freshwater-to-marine transect, aquatic communities are exposed to large variations in salinity and nutrient availability as tidal cycles create periodic fluctuations in local conditions. These factors are predicted to strongly influence the resident microbial community structure and functioning, and alter the structure of aquatic food webs and biogeochemical cycles. Nevertheless, little is known about the spatial distribution of metabolic properties across salinity gradients, and no study has simultaneously surveyed the sediment and water environments. Here, we determined patterns and drivers of benthic and planktonic prokaryotic and microeukaryotic community assembly across a river and tidal lagoon system by collecting sediments and planktonic biomass at nine shallow subtidal sites in the summer. Genomic and transcriptomic analyses, alongside a suite of complementary geochemical data, were used to determine patterns in the distribution of taxa, mechanisms of salt tolerance, and nutrient cycling.
+## Microbial river-to-sea continuum: gradients in benthic and planktonic diversity, osmoregulation and nutrient cycling
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01145-3)
 
-10.1186/s40168-021-01145-3
-
 ---
 
-## Response and oil degradation activities of a northeast Atlantic bacterial community to biogenic and synthetic surfactants.
- 25.09.2021, _CN Nikolova, UZ Ijaz, C Magill, S Kleindienst, SB Joye, T Gutierrez_
-
-
-Biosurfactants are naturally derived products that play a similar role to synthetic dispersants in oil spill response but are easily biodegradable and less toxic. Using a combination of analytical chemistry, 16S rRNA amplicon sequencing and simulation-based approaches, this study investigated the microbial community dynamics, ecological drivers, functional diversity and robustness, and oil biodegradation potential of a northeast Atlantic marine microbial community to crude oil when exposed to rhamnolipid or synthetic dispersant Finasol OSR52.
+## Response and oil degradation activities of a northeast Atlantic bacterial community to biogenic and synthetic surfactants
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01143-5)
 
-10.1186/s40168-021-01143-5
-
 ---
 
-## The short-term effect of residential home energy retrofits on indoor air quality and microbial exposure: A case-control study.
- 23.09.2021, _M Nguyen, EC Holmes, LT Angenent_
-
-
-Weatherization of residential homes is a widespread procedure to retrofit older homes to improve the energy efficiency by reducing building leakage. Several studies have evaluated the effect of weatherization on indoor pollutants, such as formaldehyde, radon, and indoor particulates, but few studies have evaluated the effect of weatherization on indoor microbial exposure. Here, we monitored indoor pollutants and bacterial communities during reductions in building leakage for weatherized single-family residential homes in New York State and compared the data to non-weatherized homes. Nine weatherized and eleven non-weatherized single-family homes in Tompkins County, New York were sampled twice: before and after the weatherization procedures for case homes, and at least 3 months apart for control homes that were not weatherized. We found that weatherization efforts led to a significant increase in radon levels, a shift in indoor microbial community, and a warmer and less humid indoor environment. In addition, we found that changes in indoor airborne bacterial load after weatherization were more sensitive to shifts in season, whereas indoor radon levels were more sensitive to ventilation rates.
+## The short-term effect of residential home energy retrofits on indoor air quality and microbial exposure: A case-control study
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230700)
-
-10.1371/journal.pone.0230700
 
 ---
 
