@@ -11,7 +11,7 @@ Crohn's disease (CD) is a chronic inflammatory disorder of the gastrointestinal 
 ---
 
 ## TNF-α synergises with IFN-γ to induce caspase-8-JAK1/2-STAT1-dependent death of intestinal epithelial cells.
- 24.09.2021, _JA Woznicki, N Saini, P Flood, S Rajaram, CM Lee, P Stamou, A Skowyra, M Bustamante-Garrido, K Regazzoni, N Crawford, SS McDade, DB Longley, P Aza-Blanc, F Shanahan, SA Zulquernain, J McCarthy, S Melgar, BL McRae, K Nally_
+ 27.09.2021, _JA Woznicki, N Saini, P Flood, S Rajaram, CM Lee, P Stamou, A Skowyra, M Bustamante-Garrido, K Regazzoni, N Crawford, SS McDade, DB Longley, P Aza-Blanc, F Shanahan, SA Zulquernain, J McCarthy, S Melgar, BL McRae, K Nally_
 
 
 Rewiring of host cytokine networks is a key feature of inflammatory bowel diseases (IBD) such as Crohn's disease (CD). Th1-type cytokines-IFN-γ and TNF-α-occupy critical nodes within these networks and both are associated with disruption of gut epithelial barrier function. This may be due to their ability to synergistically trigger the death of intestinal epithelial cells (IECs) via largely unknown mechanisms. In this study, through unbiased kinome RNAi and drug repurposing screens we identified JAK1/2 kinases as the principal and nonredundant drivers of the synergistic killing of human IECs by IFN-γ/TNF-α. Sensitivity to IFN-γ/TNF-α-mediated synergistic IEC death was retained in primary patient-derived intestinal organoids. Dependence on JAK1/2 was confirmed using genetic loss-of-function studies and JAK inhibitors (JAKinibs). Despite the presence of biochemical features consistent with canonical TNFR1-mediated apoptosis and necroptosis, IFN-γ/TNF-α-induced IEC death was independent of RIPK1/3, ZBP1, MLKL or caspase activity. Instead, it involved sustained activation of JAK1/2-STAT1 signalling, which required a nonenzymatic scaffold function of caspase-8 (CASP8). Further modelling in gut mucosal biopsies revealed an intercorrelated induction of the lethal CASP8-JAK1/2-STAT1 module during ex vivo stimulation of T cells. Functional studies in CD-derived organoids using inhibitors of apoptosis, necroptosis and JAKinibs confirmed the causative role of JAK1/2-STAT1 in cytokine-induced death of primary IECs. Collectively, we demonstrate that TNF-α synergises with IFN-γ to kill IECs via the CASP8-JAK1/2-STAT1 module independently of canonical TNFR1 and cell death signalling. This non-canonical cell death pathway may underpin immunopathology driven by IFN-γ/TNF-α in diverse autoinflammatory diseases such as IBD, and its inhibition may contribute to the therapeutic efficacy of anti-TNFs and JAKinibs.
@@ -100,27 +100,51 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 
 ---
 
-## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study
+## Vaginal microbiome as a tool for prediction of chorioamnionitis in preterm labor: a pilot study.
+ 27.09.2021, _D Urushiyama, E Ohnishi, W Suda, M Kurakazu, C Kiyoshima, T Hirakawa, K Miyata, F Yotsumoto, K Nabeshima, T Setoue, S Nagamitsu, M Hattori, K Hata, S Miyamoto_
+
+
+Intra-amniotic infection (IAI) is a major cause of preterm birth with a poor perinatal prognosis. We aimed to determine whether analyzing vaginal microbiota can evaluate the risk of chorioamnionitis (CAM) in preterm labor cases. Vaginal discharge samples were collected from 83 pregnant women admitted for preterm labor. Based on Blanc's classification, the participants were divided into CAM (stage ≥ II; n = 46) and non-CAM (stage ≤ I; n = 37) groups. The 16S rDNA amplicons (V1-V2) from vaginal samples were sequenced and analyzed. Using a random forest algorithm, the bacterial species associated with CAM were identified, and a predictive CAM (PCAM) scoring method was developed. The α diversity was significantly higher in the CAM than in the non-CAM group (P &lt; 0.001). The area under the curve was 0.849 (95% confidence interval 0.765-0.934) using the PCAM score. Among patients at &lt; 35 weeks of gestation, the PCAM group (n = 22) had a significantly shorter extended gestational period than the non-PCAM group (n = 25; P = 0.022). Multivariate analysis revealed a significant difference in the frequency of developmental disorders in 3-year-old infants (PCAM, 28%, non-PCAM, 4%; P = 0.022). Analyzing vaginal microbiota can evaluate the risk of IAI. Future studies should establish appropriate interventions for IAI high-risk patients to improve perinatal prognosis.
 
 [Source](https://doi.org/10.1038/s41598-021-98587-4)
+
+10.1038/s41598-021-98587-4
 
 ---
 
 ## Genital mycoplasma infection and spontaneous preterm birth outcome: a prospective cohort study.
+ 24.09.2021, _GKP Cunha, LB Bastos, SF de Freitas, R Cavalli, SM Quintana_
+
+
+To assess the risk of spontaneous preterm birth (sPTB) associated with genital mycoplasma infection asymptomatic women.
 
 [Source](https://doi.org/10.1111/1471-0528.16949)
 
+10.1111/1471-0528.16949
+
 ---
 
-## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls
+## Endometrial microbiota is more diverse in people with endometriosis than symptomatic controls.
+ 24.09.2021, _JM Wessels, MA Domínguez, NA Leyland, SK Agarwal, WG Foster_
+
+
+Endometriosis is a chronic, estrogen-dependent gynecological condition affecting approximately 10% of reproductive age women. The most widely accepted theory of its etiology includes retrograde menstruation. Recent reports suggest the uterus is not sterile. Thus, the refluxed menstrual effluent may carry bacteria, and contribute to inflammation, the establishment and growth of endometriotic lesions. Here, we compared and contrasted uterine bacteria (endometrial microbiota) in people with surgically confirmed presence (N = 12) or absence of endometriosis (N = 9) using next-generation 16S rRNA gene sequencing. We obtained an average of &gt; 9000 sequence reads per endometrial biopsy, and found the endometrial microbiota of people with endometriosis was more diverse (greater Shannon Diversity Index and proportion of 'Other' taxa) than symptomatic controls (with pelvic pain, surgically confirmed absence of endometriosis; diagnosed with other benign gynecological conditions). The relative abundance of bacterial taxa enriched in the endometrial microbiota of people with endometriosis belonged to the Actinobacteria phylum (Gram-positive), Oxalobacteraceae (Gram-negative) and Streptococcaceae (Gram-positive) families, and Tepidimonas (Gram-negative) genus, while those enriched in the symptomatic controls belonged to the Burkholderiaceae (Gram-negative) family, and Ralstonia (Gram-negative) genus. Taken together, results suggest the endometrial microbiota is perturbed in people with endometriosis.
 
 [Source](https://doi.org/10.1038/s41598-021-98380-3)
 
+10.1038/s41598-021-98380-3
+
 ---
 
-## Periodontitis associates with species-specific gene expression of the oral microbiota
+## Periodontitis associates with species-specific gene expression of the oral microbiota.
+ 24.09.2021, _D Belstrøm, F Constancias, DI Drautz-Moses, SC Schuster, M Veleba, F Mahé, M Givskov_
+
+
+The purpose of the present investigation was to characterize species-specific bacterial activity of the oral microbiota in periodontitis. We tested the hypotheses that chronic inflammation, i.e., periodontitis, associates with bacterial gene expression of the oral microbiota. Oral microbial samples were collected from three oral sites-subgingival plaque, tongue, and saliva from patients with periodontitis and healthy controls. Paired metagenomics and metatranscriptomics were used to perform concomitant characterization of taxonomic composition and to determine species-specific bacterial activity as expressed by the ratio of specific messenger RNA reads to their corresponding genomic DNA reads. Here, we show the association of periodontitis with bacterial gene expression of the oral microbiota. While oral site was the main determinant of taxonomic composition as well as bacterial gene expression, periodontitis was significantly associated with a reduction of carbohydrate metabolism of the oral microbiota at three oral sites (subgingival plaque, tongue, and saliva). Data from the present study revealed the association of periodontitis with bacterial gene expression of the oral microbiota. Conditions of periodontitis was associated with bacterial activity of local subgingival plaque, but also on tongue and the salivary microbiota. Collectively, data suggest that periodontitis associates with impaired carbohydrate metabolism of the oral microbiota. Future longitudinal and interventional studies are warranted to evaluate the potential pathogenic role of impaired bacterial carbohydrate metabolism not only in periodontitis but also in other diseases with low-grade inflammation, such as type 2 diabetes mellitus.
 
 [Source](https://doi.org/10.1038/s41522-021-00247-y)
+
+10.1038/s41522-021-00247-y
 
 ---
 
@@ -197,14 +221,8 @@ Inulin-type fructans (ITF), including short-chain fructooligosaccharides (scFOS)
 ---
 
 ## Probiotics, Prebiotics, and Synbiotics for the Prevention of Necrotizing Enterocolitis.
- 25.09.2021, _K Murphy, RP Ross, CA Ryan, EM Dempsey, C Stanton_
-
-
-Necrotizing enterocolitis (NEC) is a major cause of morbidity and mortality in preterm infants. The exact mechanism by which NEC develops is poorly understood however there is growing evidence to suggest that perturbations in the early-life gut microbiota composition increase the risk for NEC. Modulation of the gut microbiota with probiotics, prebiotics, or in combination (synbiotics) is an area which has attracted intense interest in recent years. In this narrative review, we present an overview of the role of the gut microbiota in the pathogenesis of NEC. We also examine the evidence currently available from randomized controlled trials, observational studies, systematic reviews, and meta-analysis examining the role of probiotics, prebiotics, and synbiotics in reducing the risk of or preventing NEC. Current clinical practice guidelines with recommendations on the routine administration of probiotics to preterm infants for NEC are also explored.
 
 [Source](https://doi.org/10.3389/fnut.2021.667188)
-
-10.3389/fnut.2021.667188
 
 ---
 
@@ -317,7 +335,7 @@ Advances in high-throughput sequencing technologies and bioinformatics approache
 ---
 
 ## QSDB-a graphical Quorum Sensing Database.
- 24.09.2021, _K Klein, D Garkov, S Rütschlin, T Böttcher, F Schreiber_
+ 27.09.2021, _K Klein, D Garkov, S Rütschlin, T Böttcher, F Schreiber_
 
 
 The human microbiome is largely shaped by the chemical interactions of its microbial members, which includes cross-talk via shared signals or quenching of the signalling of other species. Quorum sensing is a process that allows microbes to coordinate their behaviour in dependence of their population density and to adjust gene expression accordingly. We present the Quorum Sensing Database (QSDB), a comprehensive database of all published sensing and quenching relations between organisms and signalling molecules of the human microbiome, as well as an interactive web interface that allows browsing the database, provides graphical depictions of sensing mechanisms as Systems Biology Graphical Notation diagrams and links to other databases. Database URL: QSDB (Quorum Sensing DataBase) is freely available via an interactive web interface and as a downloadable csv file at http://qsdb.org.
@@ -347,9 +365,10 @@ Most existing microbiome association analyses focus on the association between m
 ---
 
 ## Automation of QIIME2 Metagenomic Analysis Platform.
- 24.09.2021, _C Fung, M Rusling, T Lampeter, C Love, A Karim, C Bongiorno, LL Yuan_
+ 27.09.2021, _C Fung, M Rusling, T Lampeter, C Love, A Karim, C Bongiorno, LL Yuan_
 
 
+_Adenosine Deaminase, Automation, Cross-Sectional Studies, High-Throughput Nucleotide Sequencing, Intercellular Signaling Peptides and Proteins, RNA, Ribosomal, 16S_
 QIIME is a widely used, open-source microbiome analysis software package that converts raw sequence data into interpretable visualizations and statistical results. QIIME2 has recently succeeded QIIME1, becoming the most updated platform. The protocols in this article describe our effort in automating core functions of QIIME2, using datasets available at docs.qiime2.org. While these specific examples are microbial 16S rRNA gene sequences, our automation can be easily applied to other types of QIIME2 analysis. © 2021 Wiley Periodicals LLC. Basic Protocol 1: Preparing files and folders Support Protocol 1: Preparing your data for QAP Support Protocol 2: Understanding automated options Basic Protocol 2: Importing into QIIME Basic Protocol 3: DADA2: Filtering, trimming, merging pairs Basic Protocol 4: Performing core metrics Basic Protocol 5: Sample filtering by metadata Basic Protocol 6: Alpha diversity metrics Basic Protocol 7: Cross-sectional beta diversity Basic Protocol 8: Longitudinal feature volatility Basic Protocol 9: Sample classification.
 
 [Source](https://doi.org/10.1002/cpz1.254)
