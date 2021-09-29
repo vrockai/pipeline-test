@@ -1,6 +1,11 @@
-## Retraction Note: IspH inhibitors kill Gram-negative bacteria and mobilize immune clearance
+## Retraction Note: IspH inhibitors kill Gram-negative bacteria and mobilize immune clearance.
+ 28.09.2021, _KS Singh, R Sharma, PAN Reddy, P Vonteddu, M Good, A Sundarrajan, H Choi, K Muthumani, A Kossenkov, AR Goldman, HY Tang, M Totrov, J Cassel, ME Murphy, R Somasundaram, M Herlyn, JM Salvino, F Dotiwala_
+
+
 
 [Source](https://www.nature.com/articles/s41586-021-03961-x)
+
+10.1038/s41586-021-03961-x
 
 ---
 
