@@ -10,7 +10,7 @@
 ---
 
 ## Oral Microbiota Profile of Individuals Who Abuse Methamphetamine.
- 27.09.2021, _Y Yang, X Yu, X Yang, K Zeng, G Liu, W Hao, S Zhang, G Wang_
+ 29.09.2021, _Y Yang, X Yu, X Yang, K Zeng, G Liu, W Hao, S Zhang, G Wang_
 
 
 The poor oral health condition of individuals who abuse methamphetamine (MA) is well known. The roles of the oral and fecal microbiomes in addiction and nervous system diseases have been the focus of many studies. However, changes in the microbiota composition of MA users have not been reported. This was addressed in the present study in 20 MA users and 14 sex-matched healthy subjects. Saliva samples were collected and high-throughput 16S rRNA sequencing and bioinformatic analysis were performed to evaluate oral microbiome profiles. The results showed that species richness was significantly lower in the MA group than in the control group. Bacterial taxa that are known to be related to oral diseases such as Negativicutes, Veillonellaceae, Veillonella, and Selenomonadales had higher relative abundance in the MA group than in the control group, and the relative abundance of Prevotella melaninogenica-a putative etiologic agent of periodontal disease-was also higher. Avoiding MA use and improving oral hygiene practices over a short term (i.e., during hospitalization for 2 weeks) did not alter the oral microbiota composition of MA users. Although the causal relationship between changes in oral microbiome profile and MA abuse remains to be determined, our results suggest that oral disease prevention and treatment strategies are important for MA users.
@@ -34,7 +34,7 @@ Among oral squamous cell carcinoma (OSCC) patients who receive docetaxel, cispla
 ---
 
 ## Gut microbiome in people living with HIV is associated with impaired thiamine and folate syntheses.
- 28.09.2021, _SY Park, G Faraci, S Nanda, S Ter-Saakyan, TMT Love, WJ Mack, MP Dubé, HY Lee_
+ 29.09.2021, _SY Park, G Faraci, S Nanda, S Ter-Saakyan, TMT Love, WJ Mack, MP Dubé, HY Lee_
 
 
 People living with HIV have a high incidence of cardiovascular and neurological diseases as comorbid disorders that are commonly linked to inflammation. While microbial translocation can augment inflammation during HIV infection, functional microbiome shifts that may increase pro-inflammatory responses have not been fully characterized. In addition, defining HIV-induced microbiome changes has been complicated by high variability among individuals. Here we conducted functional annotation of previously-published 16S ribosomal RNA gene sequences of 305 HIV positive and 249 negative individuals, with adjustment for geographic region, sex, sexual behavior, and age. Metagenome profiles were inferred from these individuals' 16S data. HIV infection was associated with impaired microbial vitamin B synthesis; around half of the gene families in thiamine and folate biosynthesis pathways were significantly less abundant in the HIV positive group than the negative control. These results are consistent with the high prevalence of thiamine and folate deficiencies in HIV infections. These HIV-induced microbiota shifts have the potential to influence cardiovascular and neurocognitive diseases, given the documented associations between B-vitamin deficiencies, inflammation, and these diseases. We also observed that most essential amino acid biosynthesis pathways were downregulated in the microbiome of HIV-infected individuals. Microbial vitamin B and amino acid synthesis pathways were not significantly recovered by antiretroviral treatment when we compared 262 ART positive and 184 ART negative individuals. Our meta-analysis provides a new outlook for understanding vitamin B and amino acid deficiencies in HIV patients, suggesting that interventions for reversing HIV-induced microbiome shifts may aid in lessening the burdens of HIV comorbidities.
@@ -58,7 +58,7 @@ Pelvic radiotherapy is the key treatment for pelvic malignancies, usually includ
 ---
 
 ## Gut Microbiota-Mediated Modulation of Cancer Progression and Therapy Efficacy.
- 27.09.2021, _P Cheng, P Shen, Y Shan, Y Yang, R Deng, W Chen, Y Lu, Z Wei_
+ 29.09.2021, _P Cheng, P Shen, Y Shan, Y Yang, R Deng, W Chen, Y Lu, Z Wei_
 
 
 The role of gut microbiota in the development of various tumors has been a rising topic of public interest, and in recent years, many studies have reported a close relationship between microbial groups and tumor development. Gut microbiota play a role in host metabolism, and the positive and negative alterations of these microbiota have an effect on tumor treatment. The microbiota directly promote, eliminate, and coordinate the efficacy of chemotherapy drugs and the toxicity of adjuvant drugs, and enhance the ability of patients to respond to tumors in adjuvant immunotherapy. In this review, we outline the significance of gut microbiota in tumor development, reveal its impacts on chemotherapy and immunotherapy, and discover various potential mechanisms whereby they influence tumor treatment. This review demonstrates the importance of intestinal microbiota-related research for clinical tumor treatment and provides additional strategy for clinical assistance in cancer treatment.
