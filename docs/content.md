@@ -1,149 +1,90 @@
-## Retraction Note: IspH inhibitors kill Gram-negative bacteria and mobilize immune clearance.
- 28.09.2021, _KS Singh, R Sharma, PAN Reddy, P Vonteddu, M Good, A Sundarrajan, H Choi, K Muthumani, A Kossenkov, AR Goldman, HY Tang, M Totrov, J Cassel, ME Murphy, R Somasundaram, M Herlyn, JM Salvino, F Dotiwala_
+## Genomic population structure associated with repeated escape of <em>Salmonella enterica </em>ATCC14028s from the laboratory into nature
 
-
-
-[Source](https://www.nature.com/articles/s41586-021-03961-x)
-
-10.1038/s41586-021-03961-x
+[Source](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009820)
 
 ---
 
-## Oral Microbiota Profile of Individuals Who Abuse Methamphetamine.
- 29.09.2021, _Y Yang, X Yu, X Yang, K Zeng, G Liu, W Hao, S Zhang, G Wang_
+## Role of the mobilome in the global dissemination of the carbapenem resistance gene blaNDM 
 
-
-The poor oral health condition of individuals who abuse methamphetamine (MA) is well known. The roles of the oral and fecal microbiomes in addiction and nervous system diseases have been the focus of many studies. However, changes in the microbiota composition of MA users have not been reported. This was addressed in the present study in 20 MA users and 14 sex-matched healthy subjects. Saliva samples were collected and high-throughput 16S rRNA sequencing and bioinformatic analysis were performed to evaluate oral microbiome profiles. The results showed that species richness was significantly lower in the MA group than in the control group. Bacterial taxa that are known to be related to oral diseases such as Negativicutes, Veillonellaceae, Veillonella, and Selenomonadales had higher relative abundance in the MA group than in the control group, and the relative abundance of Prevotella melaninogenica-a putative etiologic agent of periodontal disease-was also higher. Avoiding MA use and improving oral hygiene practices over a short term (i.e., during hospitalization for 2 weeks) did not alter the oral microbiota composition of MA users. Although the causal relationship between changes in oral microbiome profile and MA abuse remains to be determined, our results suggest that oral disease prevention and treatment strategies are important for MA users.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.706961/full)
-
-10.3389/fcimb.2021.706961
+[Source](https://www.biorxiv.org/content/10.1101/2021.01.14.426698v2.abstract?%3Fcollection=)
 
 ---
 
-## The baseline oral microbiota predicts the response of locally advanced oral squamous cell carcinoma patients to induction chemotherapy: A prospective longitudinal study.
- 27.09.2021, _M Rui, X Zhang, J Huang, D Wei, Z Li, Z Shao, H Ju, G Ren_
+## Existence of log-phase <em>Escherichia coli</em> persisters and lasting memory of a starvation pulse
 
-
-Among oral squamous cell carcinoma (OSCC) patients who receive docetaxel, cisplatin, and 5-fluorouracil (TPF) induction chemotherapy, those with a favorable pathological response tend to obtain satisfactory clinical outcomes, while the total population exhibit no survival benefit. Thus, there is an urgent need to improve the therapeutic effect of TPF by applying personalized treatment according to distinct biomarkers.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0167814021067360)
-
-10.1016/j.radonc.2021.09.013
+[Source](https://www.biorxiv.org/content/10.1101/2020.09.17.301598v3.abstract?%3Fcollection=)
 
 ---
 
-## Gut microbiome in people living with HIV is associated with impaired thiamine and folate syntheses.
- 29.09.2021, _SY Park, G Faraci, S Nanda, S Ter-Saakyan, TMT Love, WJ Mack, MP Dubé, HY Lee_
+## Precise quantification of bacterial strains after fecal microbiota transplantation delineates long-term engraftment and explains outcomes.
+ 29.09.2021, _V Aggarwala, I Mogno, Z Li, C Yang, GJ Britton, A Chen-Liaw, J Mitcham, G Bongers, D Gevers, JC Clemente, JF Colombel, A Grinspan, J Faith_
 
 
-People living with HIV have a high incidence of cardiovascular and neurological diseases as comorbid disorders that are commonly linked to inflammation. While microbial translocation can augment inflammation during HIV infection, functional microbiome shifts that may increase pro-inflammatory responses have not been fully characterized. In addition, defining HIV-induced microbiome changes has been complicated by high variability among individuals. Here we conducted functional annotation of previously-published 16S ribosomal RNA gene sequences of 305 HIV positive and 249 negative individuals, with adjustment for geographic region, sex, sexual behavior, and age. Metagenome profiles were inferred from these individuals' 16S data. HIV infection was associated with impaired microbial vitamin B synthesis; around half of the gene families in thiamine and folate biosynthesis pathways were significantly less abundant in the HIV positive group than the negative control. These results are consistent with the high prevalence of thiamine and folate deficiencies in HIV infections. These HIV-induced microbiota shifts have the potential to influence cardiovascular and neurocognitive diseases, given the documented associations between B-vitamin deficiencies, inflammation, and these diseases. We also observed that most essential amino acid biosynthesis pathways were downregulated in the microbiome of HIV-infected individuals. Microbial vitamin B and amino acid synthesis pathways were not significantly recovered by antiretroviral treatment when we compared 262 ART positive and 184 ART negative individuals. Our meta-analysis provides a new outlook for understanding vitamin B and amino acid deficiencies in HIV patients, suggesting that interventions for reversing HIV-induced microbiome shifts may aid in lessening the burdens of HIV comorbidities.
+Fecal microbiota transplantation (FMT) has been successfully applied to treat recurrent Clostridium difficile infection in humans, but a precise method to measure which bacterial strains stably engraft in recipients and evaluate their association with clinical outcomes is lacking. We assembled a collection of &gt;1,000 different bacterial strains that were cultured from the fecal samples of 22 FMT donors and recipients. Using our strain collection combined with metagenomic sequencing data from the same samples, we developed a statistical approach named Strainer for the detection and tracking of bacterial strains from metagenomic sequencing data. We applied Strainer to evaluate a cohort of 13 FMT longitudinal clinical interventions and detected stable engraftment of 71% of donor microbiota strains in recipients up to 5 years post-FMT. We found that 80% of recipient gut bacterial strains pre-FMT were eliminated by FMT and that post-FMT the strains present persisted up to 5 years later, together with environmentally acquired strains. Quantification of donor bacterial strain engraftment in recipients independently explained (precision 100%, recall 95%) the clinical outcomes (relapse or success) after initial and repeat FMT. We report a compendium of bacterial species and strains that consistently engraft in recipients over time that could be used in defined live biotherapeutic products as an alternative to FMT. Our analytical framework and Strainer can be applied to systematically evaluate either FMT or defined live bacterial therapeutic studies by quantification of strain engraftment in recipients.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401021004836)
+[Source](https://www.nature.com/articles/s41564-021-00966-0)
 
-10.1016/j.micpath.2021.105209
-
----
-
-## The impact of pelvic radiotherapy on the gut microbiome and its role in radiation-induced diarrhoea: a systematic review.
- 26.09.2021, _L Wang, X Wang, G Zhang, Y Ma, Q Zhang, Z Li, J Ran, X Hou, Y Geng, Z Yang, S Feng, C Li, X Zhao_
-
-
-Pelvic radiotherapy is the key treatment for pelvic malignancies, usually including pelvic primary tumour lesions and lymphatic drainage areas in the pelvic region. Therefore, the intestinal tract in the radiation field is inevitably damaged, a phenomenon clinically referred to as radiation enteritis, and diarrhoea is the most common clinical symptom of radiation enteritis. Therefore, it is necessary to study the mechanism of radiation-induced diarrhoea. It has been found that the gut microbiome plays an important role in the development of diarrhoea in response to pelvic radiotherapy, and the species and distribution of intestinal microbiota are significantly altered in patients after pelvic radiotherapy. In this study, we searched for articles indexed in the Cochrane Library, Web of Science, EMBASE and PubMed databases in English and CNKI, Wanfang data and SINOMED in Chinese from their inception dates through 13 March 2020 to collect studies on the gut microbiome in pelvic radiotherapy patients. Eventually, we included eight studies: one study report on prostatic carcinoma, five studies on gynaecological carcinoma and two papers on pelvic carcinomas. All studies were designed as self-controlled studies, except for one that compared toxicity to nontoxicity. The results from all the studies showed that the diversity of intestinal flora decreased during and after pelvic radiotherapy, and the diversity of intestinal flora decreased significantly in patients with diarrhoea after radiotherapy. Five studies observed that the community composition of the gut microbiota changed at the phylum, order or genus level before, during, and after pelvic radiotherapy at different time points. In addition, the composition of the gut microbiota before radiotherapy was different between patients with postradiotherapy diarrhoea and those without diarrhoea in five studies. However, relevant studies have not reached consistent results regarding the changes in microbiota composition. Changes in the intestinal flora induced by pelvic radiotherapy and their relationship between changes in intestinal flora and the occurrence of radiation-induced diarrhoea (RID) are discussed in this study, providing a theoretical basis for the causes of RID after pelvic radiotherapy.
-
-[Source](https://ro-journal.biomedcentral.com/articles/10.1186/s13014-021-01899-y)
-
-10.1186/s13014-021-01899-y
+10.1038/s41564-021-00966-0
 
 ---
 
-## Gut Microbiota-Mediated Modulation of Cancer Progression and Therapy Efficacy.
- 29.09.2021, _P Cheng, P Shen, Y Shan, Y Yang, R Deng, W Chen, Y Lu, Z Wei_
+## A role for arthropods as vectors of multidrug-resistant Enterobacterales in surgical site infections from South Asia.
+ 29.09.2021, _B Hassan, M Ijaz, A Khan, K Sands, GI Serfas, L Clayfield, MM El-Bouseary, G Lai, E Portal, A Khan, WJ Watkins, J Parkhill, TR Walsh_
 
 
-The role of gut microbiota in the development of various tumors has been a rising topic of public interest, and in recent years, many studies have reported a close relationship between microbial groups and tumor development. Gut microbiota play a role in host metabolism, and the positive and negative alterations of these microbiota have an effect on tumor treatment. The microbiota directly promote, eliminate, and coordinate the efficacy of chemotherapy drugs and the toxicity of adjuvant drugs, and enhance the ability of patients to respond to tumors in adjuvant immunotherapy. In this review, we outline the significance of gut microbiota in tumor development, reveal its impacts on chemotherapy and immunotherapy, and discover various potential mechanisms whereby they influence tumor treatment. This review demonstrates the importance of intestinal microbiota-related research for clinical tumor treatment and provides additional strategy for clinical assistance in cancer treatment.
+Understanding how multidrug-resistant Enterobacterales (MDRE) are transmitted in low- and middle-income countries (LMICs) is critical for implementing robust policies to curb the increasing burden of antimicrobial resistance (AMR). Here, we analysed samples from surgical site infections (SSIs), hospital surfaces (HSs) and arthropods (summer and winter 2016) to investigate the incidence and transmission of MDRE in a public hospital in Pakistan. We investigated Enterobacterales containing resistance genes (blaCTX-M-15, blaNDM and blaOXA-48-like) for identification, antimicrobial susceptibility testing and whole-genome sequencing. Genotypes, phylogenetic relationships and transmission events for isolates from different sources were investigated using single-nucleotide polymorphism (SNP) analysis with a cut-off of ≤20 SNPs. Escherichia coli (14.3%), Klebsiella pneumoniae (10.9%) and Enterobacter cloacae (16.3%) were the main MDRE species isolated. The carbapenemase gene blaNDM was most commonly detected, with 15.5%, 15.1% and 13.3% of samples positive in SSIs, HSs and arthropods, respectively. SNP (≤20) and spatiotemporal analysis revealed linkages in bacteria between SSIs, HSs and arthropods supporting the One Health approach to underpin infection control policies across LMICs and control AMR.
 
-[Source](https://www.frontiersin.org/articles/10.3389/fcell.2021.626045/full)
+[Source](https://www.nature.com/articles/s41564-021-00965-1)
 
-10.3389/fcell.2021.626045
-
----
-
-## Xylanase impact beyond performance: A microbiome approach in laying hens.
- 23.09.2021, _V Van Hoeck, I Somers, A Abdelqader, AL Wealleans, S Van de Craen, D Morisset_
-
-
-Anti-nutritional compounds such as non-starch polysaccharides (NSP) are present in viscous cereals used in feed for poultry. Therefore, exogenous carbohydrases are commonly added to monogastric feed to degrade these NSP. Our hypothesis is that xylanase not only improves laying hen performance and digestibility, but also induces a significant shift in microbial composition within the intestinal tract and thereby might exert a prebiotic effect. In this context, a better understanding on whether and how the chicken gut microbial population can be modulated by xylanase is required. To do so, the effects of dietary supplementation of xylanase on performance, apparent total tract digestibility (ATTD) and cecal microbiome in laying hens were evaluated in the present study. A total of 96 HiSex laying hens were used in this experiment (3 diets and 16 replicates of 2 hens). Xylanase was added to the diets at concentrations of 0, 45,000 (15 g/t XygestTM HT) and 90,000 U/kg (30 g/t Xygest HT). The diets were based on wheat (~55%), soybean and sunflower meal. The lowest dosage, 45,000 U/kg, significantly increased average egg weight and improved feed efficiency compared to the control treatment (P&lt;0.05). Egg quality parameters were significantly improved in the experiment in response to the xylanase addition. For example, during the last 28 days of the trial, birds receiving the 45,000 U/kg and the 90,000 U/kg treatments exhibited an increase in Haugh units and albumin heights (P&lt;0.05). Compared with the control, the ATTD of organic matter and crude protein were drastically improved in the 45,000 U/kg treatment group (P&lt;0.05). Furthermore, gross energy and the ATTD of crude fat were improved significantly for birds fed 90,000 U/kg group compared to the control. Importantly, 16S rRNA gene analysis revealed that xylanase at 45,000 U/kg dosage can exert a change in the cecal microbiome. A significant increase in beneficial bacteria (Bacilli class; Enterococcaceae and Lactobacillales orders; Merdibacter, Enterococcus and Nocardiopsis genera; Enterococcus casseliflavus species) was documented when adding 45,000 U/kg xylanase to the diet of laying hens. In conclusion, dietary supplementation of xylanase 45,000 U/kg significantly improved laying hen performance and digestibility. Furthermore, microbiome data suggest that xylanase modulates the laying hen bacterial population beneficially, thus potentially exerting a prebiotic effect.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257681)
-
-10.1371/journal.pone.0257681
+10.1038/s41564-021-00965-1
 
 ---
 
-## Dysbiosis of the gut microbiome impairs mouse skeletal muscle adaptation to exercise.
- 27.09.2021, _TR Valentino, IJ Vechetti, CB Mobley, CM Dungan, L Golden, J Goh, JJ McCarthy_
+## Response of soil microbiome structure and its network profiles to four soil amendments in monocropping strawberry greenhouse.
+ 29.09.2021, _S Liu, MH Khan, Z Yuan, S Hussain, H Cao, Y Liu_
 
 
-Dysbiosis of the gut microbiome caused by continuous antibiotic treatment did not affect running activity. Continuous treatment with antibiotics did not result in systemic inflammation as indicated by serum cytokine levels. Gut microbiome dysbiosis was associated with blunted fiber-type specific hypertrophy in the soleus and plantaris muscles in response to progressive weighted wheel running (PoWeR). Gut microbiome dysbiosis was associated with impaired PoWeR-induced fiber-type shift in the plantaris muscle. Gut microbiome dysbiosis was associated with a loss of PoWeR-induced myonuclei accretion in the plantaris muscle.
+With the constant surge of strawberry cultivation and human demand, widespread concern has been expressed about the severe soil and plant health problems caused by continuous strawberry cropping, particularly monocropping in greenhouses. Effective microorganisms (EM) and Bacillus subtilis (BS) have been extensively commercialized as biological control agents (BCAs) to promote plant growth and yield enhancement. However, their effects on soil microbes are obscure. To regulate the microbial community in continuous cropping strawberry soils, we developed four soil amendments based on these two BCAs by adding low and high contents of compost. The amplicon sequencing of bacterial and fungal ribosomal markers was applied to study the response of the soil microbiome structure. We noticed a sharp increase in bacterial diversity after adding EM-treated high compost and BS-treated low compost, while there was no significant change in fungal diversity among treatments. Through taxonomic classification and FUNGuild analysis, we found that the application of soil amendments resulted in a significant decline in the relative abundance of fungal plant pathogens (Rhizopus, Penicillium and Fusarium) in the soils; accordingly, the metabolic functions of a range of detrimental fungi were inhibited. Correlation analysis indicated that soil microbial community was indirectly driven by soil physicochemical properties. Co-occurrence networks revealed that soil amendments contributed to the connectivity of bacterial network, and EM-treated with high compost was the most complex and balanced. Collectively, EM-treated high compost and BS-treated low compost can well regulate the microbial community structure and thus maintain soil health.
 
-[Source](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP281788)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245180)
 
-10.1113/JP281788
-
----
-
-## Alteration of Gut Microbiota of a Food-Storing Hibernator, Siberian Chipmunk Tamias sibiricus.
- 25.09.2021, _J Zhou, M Wang, X Yi_
-
-
-Hibernation represents a state of fasting because hibernators cease eating in the torpid periods. Therefore, food deprivation during hibernation is expected to modify the gut microbiota of host. However, there are few reports of gut microbiota in food-storing hibernators that feed during the interbout arousals. Here we collected fecal samples of Siberian chipmunk T. sibiricus to character and examine changes in the gut microbiota at various stages relative to hibernation: pre-hibernation, early-hibernation, mid-hibernation, late-hibernation, and post-hibernation. Compared to the pre-hibernation state, alpha-diversity of gut microbiota was significantly increased during the interbout arousal periods. In addition, beta-diversity of the fecal communities from pre-hibernation and interbout arousal periods grouped together, and post-hibernation gut microbiota resembled the counterpart at late-hibernation. Hibernation significantly decreased the relative abundance of Firmicutes but increased Bacteroidetes, reflecting a shift of microbiota toward taxa in favor of host-derived substrates. The increased abundance of Ruminococcaceae_UCG-014, Lactobacillus, and Christensenellaceae_R-7_group in gut microbiota may help the chipmunks reduce intestinal inflammation and then maintain healthy bowel during hibernation. KEGG pathway indicated that hibernation altered the metabolic function of gut microflora of T. sibiricus. Our study provides evidence that the gut microbiota of food-storing hibernators, despite feeding during the interbout arousals, shows similar response to hibernation that has well documented in fat-storing counterparts, suggesting the potential for a core gut microbiota during hibernation of mammals. Importantly, these results will broaden our understanding of the effects of hibernation on gut microbiota of mammal hibernators.
-
-[Source](https://link.springer.com/article/10.1007%2Fs00248-021-01877-7)
-
-10.1007/s00248-021-01877-7
+10.1371/journal.pone.0245180
 
 ---
 
-## Bacterial community dynamics during embryonic development of the little skate (Leucoraja erinacea)
+## Truncated denitrifiers dominate the denitrification pathway in tundra soil metagenomes
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.30.424594v3.abstract)
-
----
-
-## Multi-omics reveals the positive leverage of plant secondary metabolites on the gut microbiota in a non-model mammal
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01142-6)
+[Source](https://www.biorxiv.org/content/10.1101/2020.12.21.419267v3.abstract?%3Fcollection=)
 
 ---
 
-## Trophic level drives the host microbiome of soil invertebrates at a continental scale
+## Response of <em>Endozoicomonas montiporae</em> to heat stress and coral host lysates
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01144-4)
-
----
-
-## Genomic signatures of Lake Erie bacteria suggest interaction in the Microcystis phycosphere
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257017)
+[Source](https://www.biorxiv.org/content/10.1101/2021.09.27.461970v1.abstract?%3Fcollection=)
 
 ---
 
-## Microbial river-to-sea continuum: gradients in benthic and planktonic diversity, osmoregulation and nutrient cycling
+## Enhanced copper-resistance gene repertoire in <em>Alteromonas macleodii</em> strains isolated from copper-treated marine coatings
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01145-3)
-
----
-
-## Response and oil degradation activities of a northeast Atlantic bacterial community to biogenic and synthetic surfactants
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01143-5)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257800)
 
 ---
 
-## The short-term effect of residential home energy retrofits on indoor air quality and microbial exposure: A case-control study
+## Bacterial community structure of early-stage biofilms is dictated by temporal succession rather than substrate types in the southern coastal seawater of India.
+ 27.09.2021, _TJ Sushmitha, M Rajeev, P Sriyutha Murthy, S Ganesh, SR Toleti, S Karutha Pandian_
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230700)
+
+Bacterial communities colonized on submerged substrata are recognized as a key factor in the formation of complex biofouling phenomenon in the marine environment. Despite massive maritime activities and a large industrial sector in the nearshore of the Laccadive Sea, studies describing pioneer bacterial colonizers and community succession during the early-stage biofilm are scarce. We investigated the biofilm-forming bacterial community succession on three substrata viz. stainless steel, high-density polyethylene, and titanium over 15 days of immersion in the seawater intake area of a power plant, located in the southern coastal region of India. The bacterial community composition of biofilms and peripheral seawater were analyzed by Illumina MiSeq sequenced 16S rRNA gene amplicons. The obtained metataxonomic results indicated a profound influence of temporal succession over substrate type on the early-stage biofilm-forming microbiota. Bacterial communities showed vivid temporal dynamics that involved variations in abundant bacterial groups. The proportion of dominant phyla viz. Proteobacteria decreased over biofilm succession days, while Bacteroidetes increased, suggesting their role as initial and late colonizers, respectively. A rapid fluctuation in the proportion of two bacterial orders viz. Alteromonadales and Vibrionales were observed throughout the successional stages. LEfSe analysis identified specific bacterial groups at all stages of biofilm development, whereas no substrata type-specific groups were observed. Furthermore, the results of PCoA and UPGMA hierarchical clustering demonstrated that the biofilm-forming community varied considerably from the planktonic community. Phylum Proteobacteria preponderated the biofilm-forming community, while the Bacteroidetes, Cyanobacteria, and Actinobacteria dominated the planktonic community. Overall, our results refute the common assumption that substrate material has a decisive impact on biofilm formation; rather, it portrayed that the temporal succession overshadowed the influence of the substrate material. Our findings provide a scientific understanding of the factors shaping initial biofilm development in the marine environment and will help in designing efficient site-specific anti-biofouling strategies.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257961)
+
+10.1371/journal.pone.0257961
+
+---
+
+## Ecological stochasticity and phage induction diversify bacterioplankton communities at the microscale
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.09.27.461956v1.abstract?%3Fcollection=)
 
 ---
 
