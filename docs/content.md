@@ -70,15 +70,9 @@ With the constant surge of strawberry cultivation and human demand, widespread c
 
 ---
 
-## Bacterial community structure of early-stage biofilms is dictated by temporal succession rather than substrate types in the southern coastal seawater of India.
- 27.09.2021, _TJ Sushmitha, M Rajeev, P Sriyutha Murthy, S Ganesh, SR Toleti, S Karutha Pandian_
-
-
-Bacterial communities colonized on submerged substrata are recognized as a key factor in the formation of complex biofouling phenomenon in the marine environment. Despite massive maritime activities and a large industrial sector in the nearshore of the Laccadive Sea, studies describing pioneer bacterial colonizers and community succession during the early-stage biofilm are scarce. We investigated the biofilm-forming bacterial community succession on three substrata viz. stainless steel, high-density polyethylene, and titanium over 15 days of immersion in the seawater intake area of a power plant, located in the southern coastal region of India. The bacterial community composition of biofilms and peripheral seawater were analyzed by Illumina MiSeq sequenced 16S rRNA gene amplicons. The obtained metataxonomic results indicated a profound influence of temporal succession over substrate type on the early-stage biofilm-forming microbiota. Bacterial communities showed vivid temporal dynamics that involved variations in abundant bacterial groups. The proportion of dominant phyla viz. Proteobacteria decreased over biofilm succession days, while Bacteroidetes increased, suggesting their role as initial and late colonizers, respectively. A rapid fluctuation in the proportion of two bacterial orders viz. Alteromonadales and Vibrionales were observed throughout the successional stages. LEfSe analysis identified specific bacterial groups at all stages of biofilm development, whereas no substrata type-specific groups were observed. Furthermore, the results of PCoA and UPGMA hierarchical clustering demonstrated that the biofilm-forming community varied considerably from the planktonic community. Phylum Proteobacteria preponderated the biofilm-forming community, while the Bacteroidetes, Cyanobacteria, and Actinobacteria dominated the planktonic community. Overall, our results refute the common assumption that substrate material has a decisive impact on biofilm formation; rather, it portrayed that the temporal succession overshadowed the influence of the substrate material. Our findings provide a scientific understanding of the factors shaping initial biofilm development in the marine environment and will help in designing efficient site-specific anti-biofouling strategies.
+## Bacterial community structure of early-stage biofilms is dictated by temporal succession rather than substrate types in the southern coastal seawater of India
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257961)
-
-10.1371/journal.pone.0257961
 
 ---
 
