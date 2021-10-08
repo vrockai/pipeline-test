@@ -142,15 +142,9 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 
 ---
 
-## Effects of prebiotic oligofructose-enriched inulin on gut-derived uremic toxins and disease progression in rats with adenine-induced chronic kidney disease.
- 06.10.2021, _E Melekoglu, MA Cetinkaya, SE Kepekci-Tekkeli, O Kul, G Samur_
-
-
-Recent studies suggest that dysbiosis in chronic kidney disease (CKD) increases gut-derived uremic toxins (GDUT) generation, leads to systemic inflammation, reactive oxygen species generation, and poor prognosis. This study aimed to investigate the effect of oligofructose-enriched inulin supplementation on GDUT levels, inflammatory and antioxidant parameters, renal damage, and intestinal barrier function in adenine-induced CKD rats. Male Sprague-Dawley rats were divided into control group (CTL, n = 12) fed with standard diet; and CKD group (n = 16) given adenine (200 mg/kg/day) by oral gavage for 3-weeks to induce CKD. At the 4th week, CKD rats were subdivided into prebiotic supplementation (5g/kg/day) for four consecutive weeks (CKD-Pre, n = 8). Also, the control group was subdivided into two subgroups; prebiotic supplemented (CTL-Pre, n = 6) and non-supplemented group (CTL, n = 6). Results showed that prebiotic oligofructose-enriched inulin supplementation did not significantly reduce serum indoxyl sulfate (IS) but did significantly reduce serum p-Cresyl sulfate (PCS) (p = 0.002) in CKD rats. Prebiotic supplementation also reduced serum urea (p = 0.008) and interleukin (IL)-6 levels (p = 0.001), ameliorated renal injury, and enhanced antioxidant enzyme activity of glutathione peroxidase (GPx) (p = 0.002) and superoxide dismutase (SOD) (p = 0.001) in renal tissues of CKD rats. No significant changes were observed in colonic epithelial tight junction proteins claudin-1 and occludin in the CKD-Pre group. In adenine-induced CKD rats, oligofructose-enriched inulin supplementation resulted in a reduction in serum urea and PCS levels, enhancement of the antioxidant activity in the renal tissues, and retardation of the disease progression.
+## Effects of prebiotic oligofructose-enriched inulin on gut-derived uremic toxins and disease progression in rats with adenine-induced chronic kidney disease
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258145)
-
-10.1371/journal.pone.0258145
 
 ---
 
@@ -247,6 +241,19 @@ Metagenomic analyses of microbial communities have revealed a large degree of in
 ## EMBARK Fall Webinars
 
 [Source](https://antimicrobialresistance.eu/category/webinars/)
+
+---
+
+## Phasor-based hyperspectral snapshot microscopy allows fast imaging of live, three-dimensional tissues for biomedical applications.
+ 10.08.2021, _PN Hedde, R Cinco, L Malacrida, A Kamaid, E Gratton_
+
+
+_Animals, Colon, Hyperspectral Imaging, Imaging, Three-Dimensional, Mice, Mice, Inbred C57BL, Microscopy, NIH 3T3 Cells, Organelles, Retina, Zebrafish_
+Hyperspectral imaging is highly sought after in many fields including mineralogy and geology, environment and agriculture, astronomy and, importantly, biomedical imaging and biological fluorescence. We developed ultrafast phasor-based hyperspectral snapshot microscopy based on sine/cosine interference filters for biomedical imaging not feasible with conventional hyperspectral detection methods. Current approaches rely on slow spatial or spectral scanning limiting their application in living biological tissues, while faster snapshot methods such as image mapping spectrometry and multispectral interferometry are limited in spatial and/or spectral resolution, are computationally demanding, and imaging devices are very expensive to manufacture. Leveraging light sheet microscopy, phasor-based hyperspectral snapshot microscopy improved imaging speed 10-100 fold which, combined with minimal light exposure and high detection efficiency, enabled hyperspectral metabolic imaging of live, three-dimensional mouse tissues not feasible with other methods. As a fit-free method that does not require any a priori information often unavailable in complex and evolving biological systems, the rule of linear combinations of the phasor could spectrally resolve subtle differences between cell types in the developing zebrafish retina and spectrally separate and track multiple organelles in 3D cultured cells over time. The sine/cosine snapshot method is adaptable to any microscope or imaging device thus making hyperspectral imaging and fit-free analysis based on linear combinations broadly available to researchers and the public.
+
+[Source](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology)
+
+10.1038/s42003-021-02266-z
 
 ---
 
@@ -367,6 +374,18 @@ Metagenomic analyses of microbial communities have revealed a large degree of in
 ## #Inktober2021
 
 [Source](https://twitter.com/hashtag/Inktober2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
+ 22.09.2021, _JL Steenwyk_
+
+
+_Art, Female, Humans, Laboratory Personnel, Life Cycle Stages, Saccharomyces cerevisiae, Saccharomycetales_
+
+[Source](https://twitter.com/hashtag/SciArt?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/yea.3518
 
 ---
 
