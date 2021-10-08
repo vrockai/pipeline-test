@@ -1,150 +1,395 @@
-## The intestinal 3M (microbiota, metabolism, metabolome) Zeitgeist - from fundamentals to future challenges.
- 05.10.2021, _P Dey, SR Chaudhuri, T Efferth, S Pal_
+## RibDif
 
-
-The role of the intestine in human health and disease has historically been neglected and was mostly attributed to digestive and absorptive functions. In the past two decades, however, discoveries related to human nutrition and intestinal host-microbe reciprocal interaction have established the essential role of intestinal health in the pathogenesis of chronic diseases and the overall wellbeing. That transfer of gut microbiota could be a means of disease phenotype transfer has revolutionized our understanding of chronic disease pathogenesis. This narrative review highlights the major concepts related to intestinal microbiota, metabolism, and metabolome (3M) that have facilitated our fundamental understanding of the association between the intestine and human health and disease. In line with increased interest of microbiota-dependent modulation of human health by dietary phytochemicals, we have also discussed the emerging concepts beyond the phytochemical bioactivities which emphasizes the integral role of microbial metabolites of parent phytochemicals at extraintestinal tissues. Finally, this review concludes with challenges and future prospects in defining the 3 M interactions and has emphasized the fact that, it takes 'guts' to stay healthy.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0891584921007462)
-
-10.1016/j.freeradbiomed.2021.09.026
+[Source](https://github.com/mikaells/RibDif)
 
 ---
 
-## Gut microbiota changes in preeclampsia, abnormal placental growth and healthy pregnant women.
- 05.10.2021, _L Huang, M Cai, L Li, X Zhang, Y Xu, J Xiao, Q Huang, G Luo, Z Zeng, C Jin, Y Jin, J He, W Yang_
+## Going to extremes - a metagenomic journey into the dark matter of life.
+ 14.07.2021, _A Aevarsson, AK Kaczorowska, BT Adalsteinsson, J Ahlqvist, S Al-Karadaghi, J Altenbuchner, H Arsin, ÚÁ Átlasson, D Brandt, M Cichowicz-Cieślak, KAS Cornish, J Courtin, S Dabrowski, H Dahle, S Djeffane, S Dorawa, J Dusaucy, F Enault, AE Fedøy, S Freitag-Pohl, OH Fridjonsson, C Galiez, E Glomsaker, M Guérin, SE Gundesø, EE Gudmundsdóttir, H Gudmundsson, M Håkansson, C Henke, A Helleux, JR Henriksen, S Hjörleifdóttir, GO Hreggvidsson, A Jasilionis, A Jochheim, I Jónsdóttir, LB Jónsdóttir, A Jurczak-Kurek, T Kaczorowski, J Kalinowski, LP Kozlowski, M Krupovic, K Kwiatkowska-Semrau, O Lanes, J Lange, J Lebrat, J Linares-Pastén, Y Liu, SA Lorentsen, T Lutterman, T Mas, W Merré, M Mirdita, A Morzywołek, EO Ndela, EN Karlsson, E Olgudóttir, C Pedersen, F Perler, SK Pétursdóttir, M Plotka, E Pohl, D Prangishvili, JL Ray, B Reynisson, T Róbertsdóttir, RA Sandaa, A Sczyrba, S Skírnisdóttir, J Söding, T Solstad, IH Steen, SK Stefánsson, M Steinegger, KS Overå, B Striberny, A Svensson, M Szadkowska, EJ Tarrant, P Terzian, M Tourigny, TVD Bergh, J Vanhalst, J Vincent, B Vroling, B Walse, L Wang, H Watzlawick, M Welin, O Werbowy, E Wons, R Zhang_
 
 
-Preeclampsia (PE) is a condition of high blood pressure that is usually concurrent with proteinuria in pregnancy. PE complicates the management of both maternal and fetal health and contributes to most adverse pregnancy outcomes, but the mechanism underlying the development of PE remains unclear. In this study, we performed a case-control study to compare the gut microbiota of PE (n = 26), abnormal placental growth (APG, n = 25) and healthy pregnant women (n = 28) and analyzed the potential pathogenic role of gut microbiota in PE progression.
+The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific expedition to explore and exploit uncharted territory of genetic diversity in extreme natural environments such as geothermal hot springs and deep-sea ocean ecosystems. Specifically, the project was set to analyse and exploit viral metagenomes with the ultimate goal of developing new gene products with high innovation value for applications in biotechnology, pharmaceutical, medical, and the life science sectors. Viral gene pool analysis is also essential to obtain fundamental insight into ecosystem dynamics and to investigate how viruses influence the evolution of microbes and multicellular organisms. The Virus-X Consortium, established in 2016, included experts from eight European countries. The unique approach based on high throughput bioinformatics technologies combined with structural and functional studies resulted in the development of a biodiscovery pipeline of significant capacity and scale. The activities within the Virus-X consortium cover the entire range from bioprospecting and methods development in bioinformatics to protein production and characterisation, with the final goal of translating our results into new products for the bioeconomy. The significant impact the consortium made in all of these areas was possible due to the successful cooperation between expert teams that worked together to solve a complex scientific problem using state-of-the-art technologies as well as developing novel tools to explore the virosphere, widely considered as the last great frontier of life.
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02327-7)
+[Source](https://academic.oup.com/femsle/pages/educating-pandemic-beyond)
 
-10.1186/s12866-021-02327-7
-
----
-
-## Refinement of microbiota analysis of specimens from patients with respiratory infections using next-generation sequencing.
- 05.10.2021, _H Ikegami, S Noguchi, K Fukuda, K Akata, K Yamasaki, T Kawanami, H Mukae, K Yatera_
-
-
-Next-generation sequencing (NGS) technologies have been applied in bacterial flora analysis. However, there is no standardized protocol, and the optimal clustering threshold for estimating bacterial species in respiratory infection specimens is unknown. This study was conducted to investigate the optimal threshold for clustering 16S ribosomal RNA gene sequences into operational taxonomic units (OTUs) by comparing the results of NGS technology with those of the Sanger method, which has a higher accuracy of sequence per single read than NGS technology. This study included 45 patients with pneumonia with aspiration risks and 35 patients with lung abscess. Compared to Sanger method, the concordance rates of NGS technology (clustered at 100%, 99%, and 97% homology) with the predominant phylotype were 78.8%, 71.3%, and 65.0%, respectively. With respect to the specimens dominated by the Streptococcus mitis group, containing several important causative agents of pneumonia, Bray Curtis dissimilarity revealed that the OTUs obtained at 100% clustering threshold (versus those obtained at 99% and 97% thresholds; medians of 0.35, 0.69, and 0.71, respectively) were more similar to those obtained by the Sanger method, with statistical significance (p &lt; 0.05). Clustering with 100% sequence identity is necessary when analyzing the microbiota of respiratory infections using NGS technology.
-
-[Source](https://www.nature.com/articles/s41598-021-98985-8)
-
-10.1038/s41598-021-98985-8
+10.1093/femsle/fnab067
 
 ---
 
-## Experimental Dermatology Special Issue with Focus on ‘Skin microbiome and antimicrobial peptides’
+## a new FEMS Microbiology Letters collection 
 
-[Source](https://onlinelibrary.wiley.com/toc/16000625/2021/30/10)
-
----
-
-## Gut microbiome in pediatric acute leukemia: from predisposition to cure.
- 05.10.2021, _R Masetti, E Muratore, D Leardini, D Zama, S Turroni, P Brigidi, S Esposito, A Pession_
-
-
-The gut microbiome (GM) has emerged as a key factor in the genesis and progression of many diseases. The intestinal bacterial composition is also able to influence treatment-related side effects and even efficacy of oncological therapies. Acute leukemia (AL) is the most common cancer among children and the most frequent cause of death from cancer during childhood. Outcome has improved considerably over the past four decades, with the current long-term survival for acute lymphoblastic leukemia being approximately 90%. However, several acute toxicities and long-term sequela are associated with the multimodal therapy-protocols applied in these patients. Specific GM configurations could contribute in the multistep developmental hypothesis for leukemogenesis. Moreover, GM alterations occur during the AL therapeutic course and are associated with treatment-related complications, especially during hematopoietic stem cell transplantation. The GM perturbation could last even after the removal of microbiome-modifying factors, like antibiotics, chemotherapeutic drugs or allo-immune reactions, contributing to several health-related issues in AL survivors. The aim of this paper is to provide a comprehensive review of the chronological changes of GM in children with AL, from predisposition to cure. The underpinning biological processes and the potential interventions to modulate the GM towards a potentially health-promoting configuration are also highlighted.
-
-[Source](https://ashpublications.org/bloodadvances/article/doi/10.1182/bloodadvances.2021005129/477172/Gut-microbiome-in-pediatric-acute-leukemia-from)
-
-10.1182/bloodadvances.2021005129
+[Source](https://academic.oup.com/femsle/pages/educating-pandemic-beyond)
 
 ---
 
-## Effects of moderate exercise on hepatic amino acid and fatty acid composition, liver transcriptome, and intestinal microbiota in channel catfish (Ictalurus punctatus).
- 04.10.2021, _L Zhang, Y Yu, L Dong, J Gan, T Mao, T Liu, X Li, L He_
+## the second 🌎 Microbiome Virtual International Forum
 
-
-Previous research on swimming exercise in fish has focused on muscle building and quality of flesh. However, the effects of hepatic amino acid and fatty acid composition, liver gene expression profile, and intestinal microbiota are poorly understood. In this study, channel catfish (Ictalurus punctatus) were subjected to a 4-week swimming exercise, and liver transcriptome and intestinal microbiota analyses were performed to broaden our understanding of fish under exercise. When compared to non-exercised channel catfish (N-EXF), exercised channel catfish (EXF) had improved arachidonic acid (C20:4n6; ARA), docosahexaenoic acid (C22:6n3; DHA), aspartic acid (Asp) and glycine (Gly). The liver transcriptome analysis revealed 2912 differentially expressed genes and numerous enriched signaling pathways including those involved in nutrient synthesis, such as biosynthesis of unsaturated fatty acids and amino acids; glucose metabolism, such as glycolysis/gluconeogenesis, insulin signaling, and AMPK signaling pathways; and oxygen transport, such as HIF-1, PI3K-Akt, and MAPK signaling pathways. In addition, bacterial 16S rRNA gene sequencing data revealed that long-term exercise increased bacterial diversity and richness, and changed the intestinal microbial composition in channel catfish. In summary, this study provides insights into hepatic metabolic pathways, candidate genes, and intestinal microbiota underlying the long-term exercised channel catfish.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1744117X21001337)
-
-10.1016/j.cbd.2021.100921
+[Source](https://www.microbiome-vif.org/)
 
 ---
 
-## Metagenomic Sequencing Reveals that High-Grain Feeding Alters the Composition and Metabolism of Cecal Microbiota and Induces Cecal Mucosal Injury in Sheep.
- 05.10.2021, _F Xie, L Xu, Y Wang, S Mao_
+## 🌏
 
-
-The cecum serves as an additional fermentation site for ruminants, but it lacks buffering capacity and has a relatively simple epithelial structure compared to the rumen. The role of high-grain (HG) diets in manipulating the rumen microbiome has been well elucidated, yet the microbial response to such diets in the cecum and the subsequent microbe-host interactions remain largely unexplored. Here, we describe the modification of the cecal microbiome and host epithelial gene expression based on data from 20 sheep grouped to feed an HG diet for 7, 14, and 28 days. Our data indicate that the alteration of cecal microbial fermentation was manifested by a decrease in luminal pH and an increase in acetate and butyrate concentrations following the diet change to HG. We further demonstrate that the alteration of the microbiome was driven by microbes that are likely acetate producers (e.g., Blautia spp. and Akkermansia spp.) and butyrate producers (e.g., Anaerostipes spp. and Roseburia spp.). Moreover, the core microbiota in the cecal microbiome was predominantly maintained after HG diet feeding, while the specific populations of the cecal microbiomes adaptively varied at the species and genomic levels time dependently. Association analysis suggests that the perturbations of the cecal microbiome under the HG diet were closely linked to the variations in the two key enzymes that catalyze the conversion of pyruvate to acetyl-CoA and urease enzymes that hydrolyze urea into ammonia, alongside mucosal inflammatory responses. Overall, our findings here provide novel insights into understanding microbiome-host interactions in the hindgut of ruminants. IMPORTANCE High-grain (HG) diets are known to alter the rumen microbiome. However, the responses of the hindgut microbiota and its epithelial function need further investigation in ruminants. Using 20 sheep as the experimental model, we found that the microbial fermentation pattern of the cecum changed after switching to the HG diet. The taxa of the acetate and butyrate producers increased with the feeding time. Moreover, enzymes engaged in carbon and nitrogen metabolisms of the cecal microbiome are altered. The expression of epithelial genes related to volatile fatty acid (VFA) absorption and metabolism, cytokines, and tight junction proteins, alongside light microscopy visualization of epithelial tissue, suggested that the HG diet may induce cecal mucosal inflammatory responses. Our findings reveal cecal microbial and metabolic perturbations in response to HG diets in sheep and provide a new reference for the research on hindgut microbial homeostasis and host health in ruminants.
-
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00915-21)
-
-10.1128/mSystems.00915-21
+[Source](https://www.microbiome-vif.org/)
 
 ---
 
-## Biodegradable and conventional microplastics exhibit distinct microbiome, functionality, and metabolome changes in soil.
- 04.10.2021, _Y Sun, C Duan, N Cao, C Ding, Y Huang, J Wang_
+## here
 
-
-Environmental concerns with liberal petroleum-based plastic use have led to demand for sustainable biodegradable alternatives. However, the inadequate end-of-life treatment of plastics may emit microplastics, either conventional or biodegradable, to the terrestrial environment. It is essential to evaluate the possible effects of conventional and biodegradable microplastics on the composition and function of soil microbial communities. Therefore, we conducted a soil microcosm experiment with polyethylene (PE), polystyrene (PS), polylactide (PLA), or polybutylene succinate (PBS) microplastics. The soil microbiome and metabolome were evaluated via 16S rRNA gene sequencing, metagenomics, and untargeted metabolomics. We reported that the presence of conventional or biodegradable microplastics can significantly alter soil microbial community composition. Compared to the control soils, the microbiome in PBS and PLA amended soils exhibited higher potential for uptake of exogenous carbohydrates and amino acids, but a reduced capacity for related metabolic function, potentially due to catabolite repression. No differences in soil metabolome can be observed between conventional microplastic treatments and the control. The potential reason may be that the functional diversity was unaffected by PE and PS microplastics, while the biodegradable particles promoted the soil microbial multifunctionality. Our findings systematically shed light on the influence of conventional and biodegradable microplastics on soil microorganisms, facilitating microplastic regulation.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0304389421022500)
-
-10.1016/j.jhazmat.2021.127282
+[Source](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured)
 
 ---
 
-## Soil microbiota and microarthropod communities in oil contaminated sites in the European Subarctic.
- 05.10.2021, _EN Melekhina, ES Belykh, MY Markarova, AA Taskaeva, EE Rasova, OA Baturina, MR Kabilov, IO Velegzhaninov_
+## <strong>#Microber2021</strong>
 
-
-The present comprehensive study aimed to estimate the aftermath of oil contamination and the efficacy of removing the upper level of polluted soil under the conditions of the extreme northern taiga of northeastern European Russia. Soil samples from three sites were studied. Two sites were contaminated with the contents of a nearby sludge collector five years prior to sampling. The highly contaminated upper soil level was removed from one of them. The other was left for self-restoration. A chemical analysis of the soils was conducted, and changes in the composition of the soil zoocoenosis and bacterial and fungal microbiota were investigated. At both contaminated sites, a decrease in the abundance and taxonomic diversity of indicator groups of soil fauna, oribatid mites and collembolans compared to the background site were found. The pioneer eurytopic species Oppiella nova, Proisotoma minima and Xenyllodes armatus formed the basis of the microarthropod populations in the contaminated soil. A complete change in the composition of dominant taxonomic units was observed in the microbiota, both the bacterial and fungal communities. There was an increase in the proportion of representatives of Proteobacteria and Actinobacteria in polluted soils compared to the background community. Hydrocarbon-degrading bacteria-Alcanivorax, Rhodanobacter ginsengisoli, Acidobacterium capsulatum, and Acidocella-and fungi-Amorphotheca resinae abundances greatly increased in oil-contaminated soil. Moreover, among both bacteria and fungi, a sharp increase in the abundance of uncultivated organisms that deserve additional attention as potential oil degraders or organisms with a high resistance to oil contamination were observed. The removal of the upper soil level was partly effective in terms of decreasing the oil product concentration (from approximately 21 to 2.6 g/kg of soil) and preventing a decrease in taxonomic richness but did not prevent alterations in the composition of the microbiota or zoocoenosis.
-
-[Source](https://www.nature.com/articles/s41598-021-98680-8)
-
-10.1038/s41598-021-98680-8
+[Source](https://twitter.com/hashtag/Microber2021)
 
 ---
 
-## Fast and persistent responses of alpine permafrost microbial communities to in situ warming.
- 05.10.2021, _C Perez-Mon, B Stierli, M Plötze, B Frey_
+## #Microber2021
 
-
-Global warming in mid-latitude alpine regions results in permafrost thawing, together with greater availability of carbon and nutrients in soils and frequent freeze-thaw cycles. Yet it is unclear how these multifactorial changes will shape the 1 m-deep permafrost microbiome in the future, and how this will in turn modulate microbially-mediated feedbacks between mountain soils and climate (e.g. soil CO2 emissions). To unravel the responses of the alpine permafrost microbiome to in situ warming, we established a three-year experiment in a permafrost monitoring summit in the Alps. Specifically, we simulated conditions of warming by transplanting permafrost soils from a depth of 160 cm either to the active-layer topsoils in the north-facing slope or in the warmer south-facing slope, near the summit. qPCR-based and amplicon sequencing analyses indicated an augmented microbial abundance in the transplanted permafrost, driven by the increase in copiotrophic prokaryotic taxa (e.g. Noviherbaspirillum and Massilia) and metabolically versatile psychrotrophs (e.g. Tundrisphaera and Granulicella); which acclimatized to the changing environment and potentially benefited from substrates released upon thawing. Metabolically restricted Patescibacteria lineages vastly decreased with warming, as reflected in the loss of α-diversity in the transplanted soils. Ascomycetous sapro-pathotrophs (e.g. Tetracladium) and a few lichenized fungi (e.g. Aspicilia) expanded in the transplanted permafrost, particularly in soils transplanted to the warmer south-facing slope, replacing basidiomycetous yeasts (e.g. Glaciozyma). The transplantation-induced loosening of microbial association networks in the permafrost could potentially indicate lesser cooperative interactions between neighboring microorganisms. Broader substrate-use microbial activities measured in the transplanted permafrost could relate to altered soil C dynamics. The three-year simulated warming did not, however, enhance heterotrophic respiration, which was limited by the carbon-depleted permafrost conditions. Collectively, our quantitative findings suggest the vulnerability of the alpine permafrost microbiome to warming, which might improve predictions on microbially-modulated transformations of mountain soil ecosystems under the future climate.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969721057983)
-
-10.1016/j.scitotenv.2021.150720
+[Source](https://twitter.com/hashtag/Microber2021?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Environmental dynamics of hospital microbiome upon transfer from a major hospital to a new facility.
- 04.10.2021, _A Ashokan, JM Choo, SL Taylor, D Lagana, DR Shaw, MS Warner, SL Wesselingh, GB Rogers_
+## pic.twitter.com/uJquc19Ku8
 
-
-Infection control is critical to safe hospital care. However, how bacteria within nosocomial environments relate to space utilisation and occupancy remains poorly understood. Our aim was to characterise the hospital microbiome in the context of the closure of a tertiary hospital and the opening of a new facility.
-
-[Source](https://www.journalofinfection.com/article/S0163-4453(21)00490-4/fulltext)
-
-10.1016/j.jinf.2021.09.020
+[Source](https://t.co/uJquc19Ku8)
 
 ---
 
-## Predicting Microbiome Metabolism and Interactions through Integrating Multidisciplinary Principles.
- 05.10.2021, _CM Schmidt, P Ghadermazi, SHJ Chan_
+## October 5, 2021
 
-
-In this Commentary, we will discuss some of the current trends and challenges in modeling microbiome metabolism. A focus will be the state of the art in the integration of metabolic networks, ecological and evolutionary principles, and spatiotemporal considerations, followed by envisioning integrated frameworks incorporating different principles and data to generate predictive models in the future.
-
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00768-21)
-
-10.1128/mSystems.00768-21
+[Source](https://twitter.com/LizahvdAart/status/1445350335686582272?ref_src=twsrc%5Etfw)
 
 ---
 
-## Uniform Manifold Approximation and Projection (UMAP) Reveals Composite Patterns and Resolves Visualization Artifacts in Microbiome Data.
- 05.10.2021, _G Armstrong, C Martino, G Rahman, A Gonzalez, Y Vázquez-Baeza, G Mishne, R Knight_
+## Cultivating Healthy Connections: Exploring and Engineering the Microbial Flow That Shapes Microbiomes
+
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00863-21)
+
+---
+
+## Presence of distinctive microbiome in the first-pass meconium of newborn infants
+
+[Source](https://www.nature.com/articles/s41598-021-98951-4)
+
+---
+
+## Divergence of bacterial communities in the lower airways of CF patients in early childhood 
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257838)
+
+---
+
+## Drivers and Determinants of Strain Dynamics Following Faecal Microbiota Transplantation
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.09.30.462010v1)
+
+---
+
+## #FMT
+
+[Source](https://twitter.com/hashtag/FMT?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## @biorxivpreprint
+
+[Source](https://twitter.com/biorxivpreprint?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/h0mxPRAJje
+
+[Source](https://t.co/h0mxPRAJje)
+
+---
+
+## October 1, 2021
+
+[Source](https://twitter.com/TSBSchm/status/1443848216131350558?ref_src=twsrc%5Etfw)
+
+---
+
+## Western and non-western gut microbiomes reveal new roles of<em> Prevotella</em> in carbohydrate metabolism and mouth–gut axis
+
+[Source](https://www.nature.com/articles/s41522-021-00248-x)
+
+---
+
+## Phylogenetic systematics of <em>Butyrivibrio</em> and <em>Pseudobutyrivibrio</em> genomes illustrate vast taxonomic diversity, open genomes and an abundance of carbohydrate-active enzyme family isoforms
+
+[Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000638)
+
+---
+
+## Metabolic modulation of tumours with engineered bacteria for immunotherapy
+
+[Source](https://www.nature.com/articles/s41586-021-04003-2)
+
+---
+
+## <em>Citrobacter amalonaticus</em> Inhibits the Growth of<em> Citrobacter rodentium</em> in the Gut Lumen
+
+[Source](https://journals.asm.org/doi/10.1128/mBio.02410-21)
+
+---
+
+## Regulation of blood–brain barrier integrity by microbiome-associated methylamines and cognition by trimethylamine N-oxide
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.01.28.428430v2.full.pdf)
+
+---
+
+## Effects of prebiotic oligofructose-enriched inulin on gut-derived uremic toxins and disease progression in rats with adenine-induced chronic kidney disease.
+ 06.10.2021, _E Melekoglu, MA Cetinkaya, SE Kepekci-Tekkeli, O Kul, G Samur_
 
 
-Microbiome data are sparse and high dimensional, so effective visualization of these data requires dimensionality reduction. To date, the most commonly used method for dimensionality reduction in the microbiome is calculation of between-sample microbial differences (beta diversity), followed by principal-coordinate analysis (PCoA). Uniform Manifold Approximation and Projection (UMAP) is an alternative method that can reduce the dimensionality of beta diversity distance matrices. Here, we demonstrate the benefits and limitations of using UMAP for dimensionality reduction on microbiome data. Using real data, we demonstrate that UMAP can improve the representation of clusters, especially when the clusters are composed of multiple subgroups. Additionally, we show that UMAP provides improved correlation of biological variation along a gradient with a reduced number of coordinates of the resulting embedding. Finally, we provide parameter recommendations that emphasize the preservation of global geometry. We therefore conclude that UMAP should be routinely used as a complementary visualization method for microbiome beta diversity studies. IMPORTANCE UMAP provides an additional method to visualize microbiome data. The method is extensible to any beta diversity metric used with PCoA, and our results demonstrate that UMAP can indeed improve visualization quality and correspondence with biological and technical variables of interest. The software to perform this analysis is available under an open-source license and can be obtained at https://github.com/knightlab-analyses/umap-microbiome-benchmarking; additionally, we have provided a QIIME 2 plugin for UMAP at https://github.com/biocore/q2-umap.
+Recent studies suggest that dysbiosis in chronic kidney disease (CKD) increases gut-derived uremic toxins (GDUT) generation, leads to systemic inflammation, reactive oxygen species generation, and poor prognosis. This study aimed to investigate the effect of oligofructose-enriched inulin supplementation on GDUT levels, inflammatory and antioxidant parameters, renal damage, and intestinal barrier function in adenine-induced CKD rats. Male Sprague-Dawley rats were divided into control group (CTL, n = 12) fed with standard diet; and CKD group (n = 16) given adenine (200 mg/kg/day) by oral gavage for 3-weeks to induce CKD. At the 4th week, CKD rats were subdivided into prebiotic supplementation (5g/kg/day) for four consecutive weeks (CKD-Pre, n = 8). Also, the control group was subdivided into two subgroups; prebiotic supplemented (CTL-Pre, n = 6) and non-supplemented group (CTL, n = 6). Results showed that prebiotic oligofructose-enriched inulin supplementation did not significantly reduce serum indoxyl sulfate (IS) but did significantly reduce serum p-Cresyl sulfate (PCS) (p = 0.002) in CKD rats. Prebiotic supplementation also reduced serum urea (p = 0.008) and interleukin (IL)-6 levels (p = 0.001), ameliorated renal injury, and enhanced antioxidant enzyme activity of glutathione peroxidase (GPx) (p = 0.002) and superoxide dismutase (SOD) (p = 0.001) in renal tissues of CKD rats. No significant changes were observed in colonic epithelial tight junction proteins claudin-1 and occludin in the CKD-Pre group. In adenine-induced CKD rats, oligofructose-enriched inulin supplementation resulted in a reduction in serum urea and PCS levels, enhancement of the antioxidant activity in the renal tissues, and retardation of the disease progression.
 
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00691-21)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258145)
 
-10.1128/mSystems.00691-21
+10.1371/journal.pone.0258145
+
+---
+
+## Prevalence and Specificity of Chemoreceptor Profiles in Plant-Associated Bacteria.
+ 21.09.2021, _C Sanchis-López, JP Cerna-Vargas, S Santamaría-Hernando, C Ramos, T Krell, P Rodríguez-Palenzuela, E López-Solanilla, J Huerta-Cepas, JJ Rodríguez-Herva_
+
+
+Chemosensory pathways are among the most abundant prokaryotic signal transduction systems, allowing bacteria to sense and respond to environmental stimuli. Signaling is typically initiated by the binding of specific molecules to the ligand binding domain (LBD) of chemoreceptor proteins (CRs). Although CRs play a central role in plant-microbiome interactions such as colonization and infection, little is known about their phylogenetic and ecological specificity. Here, we analyzed 82,277 CR sequences from 11,806 representative microbial species covering the whole prokaryotic phylogeny, and we classified them according to their LBD type using a de novo homology clustering method. Through phylogenomic analysis, we identified hundreds of LBDs that are found predominantly in plant-associated bacteria, including several LBDs specific to phytopathogens and plant symbionts. Functional annotation of our catalogue showed that many of the LBD clusters identified might constitute unknown types of LBDs. Moreover, we found that the taxonomic distribution of most LBD types that are specific to plant-associated bacteria is only partially explained by phylogeny, suggesting that lifestyle and niche adaptation are important factors in their selection. Finally, our results show that the profile of LBD types in a given genome is related to the lifestyle specialization, with plant symbionts and phytopathogens showing the highest number of niche-specific LBDs. The LBD catalogue and information on how to profile novel genomes are available at https://github.com/compgenomicslab/CRs. IMPORTANCE Considering the enormous variety of LBDs at sensor proteins, an important question resides in establishing the forces that have driven their evolution and selection. We present here the first clear demonstration that environmental factors play an important role in the selection and evolution of LBDs. We were able to demonstrate the existence of LBD families that are highly enriched in plant-associated bacteria but show a wide phylogenetic spread. These findings offer a number of research opportunities in the field of single transduction, such as the exploration of similar relationships in chemoreceptors of bacteria with a different lifestyle, like those inhabiting or infecting the human intestine. Similarly, our results raise the question whether similar LBD types might be shared by members of different sensor protein families. Lastly, we provide a comprehensive catalogue of CRs classified by their LBD region that includes a large number of putative new LBD types.
+
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00951-21)
+
+10.1128/mSystems.00951-21
+
+---
+
+## Bacteriocinogenic lactic acid bacteria in the traditional cereal-based beverage Boza: a genomic and functional approach
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.10.05.463085v1)
+
+---
+
+## metaGEM: reconstruction of genome scale metabolic models directly from metagenomes.
+ 06.10.2021, _F Zorrilla, F Buric, KR Patil, A Zelezniak_
+
+
+Metagenomic analyses of microbial communities have revealed a large degree of interspecies and intraspecies genetic diversity through the reconstruction of metagenome assembled genomes (MAGs). Yet, metabolic modeling efforts mainly rely on reference genomes as the starting point for reconstruction and simulation of genome scale metabolic models (GEMs), neglecting the immense intra- and inter-species diversity present in microbial communities. Here, we present metaGEM (https://github.com/franciscozorrilla/metaGEM), an end-to-end pipeline enabling metabolic modeling of multi-species communities directly from metagenomes. The pipeline automates all steps from the extraction of context-specific prokaryotic GEMs from MAGs to community level flux balance analysis (FBA) simulations. To demonstrate the capabilities of metaGEM, we analyzed 483 samples spanning lab culture, human gut, plant-associated, soil, and ocean metagenomes, reconstructing over 14,000 GEMs. We show that GEMs reconstructed from metagenomes have fully represented metabolism comparable to isolated genomes. We demonstrate that metagenomic GEMs capture intraspecies metabolic diversity and identify potential differences in the progression of type 2 diabetes at the level of gut bacterial metabolic exchanges. Overall, metaGEM enables FBA-ready metabolic model reconstruction directly from metagenomes, provides a resource of metabolic models, and showcases community-level modeling of microbiomes associated with disease conditions allowing generation of mechanistic hypotheses.
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab815/6382386)
+
+10.1093/nar/gkab815
+
+---
+
+## RibDif: can individual species be differentiated by 16S sequencing?
+
+[Source](https://academic.oup.com/bioinformaticsadvances/article/1/1/vbab020/6364919)
+
+---
+
+## eggNOG-mapper v2: Functional Annotation, Orthology Assignments, and Domain Prediction at the Metagenomic Scale
+
+[Source](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab293/6379734)
+
+---
+
+## Sequencing DNA with nanopores: Troubles and biases – Clara Delahaye and Jacques Nicolas
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257521)
+
+---
+
+## Microbiome Virtual International Conference #MVIF
+
+[Source](https://www.microbiome-vif.org/)
+
+---
+
+## @BanfieldJill
+
+[Source](https://twitter.com/BanfieldJill?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/nDsTCUkj17
+
+[Source](https://t.co/nDsTCUkj17)
+
+---
+
+## pic.twitter.com/5fTkbjokQE
+
+[Source](https://t.co/5fTkbjokQE)
+
+---
+
+## September 27, 2021
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1442406999002472451?ref_src=twsrc%5Etfw)
+
+---
+
+## EMBARK Fall Webinars
+
+[Source](https://antimicrobialresistance.eu/category/webinars/)
+
+---
+
+## Microscopy Live! – Geology
+
+[Source](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology)
+
+---
+
+## HERE
+
+[Source](https://github.com/SvetlanaUP/Microbiome-conferences-c)
+
+---
+
+## #Microber2021
+
+[Source](https://twitter.com/hashtag/Microber2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## @LizahvdAart
+
+[Source](https://twitter.com/LizahvdAart?ref_src=twsrc%5Etfw)
+
+---
+
+## #Inktober
+
+[Source](https://twitter.com/hashtag/Inktober?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/o6M2owjaxb
+
+[Source](https://t.co/o6M2owjaxb)
+
+---
+
+## October 1, 2021
+
+[Source](https://twitter.com/AliciaPCV/status/1443995722500739086?ref_src=twsrc%5Etfw)
+
+---
+
+## #inktober
+
+[Source](https://twitter.com/hashtag/inktober?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #inktober2021
+
+[Source](https://twitter.com/hashtag/inktober2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #microber2021
+
+[Source](https://twitter.com/hashtag/microber2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/vyAstfQF2h
+
+[Source](https://t.co/vyAstfQF2h)
+
+---
+
+## October 4, 2021
+
+[Source](https://twitter.com/GalataValentina/status/1445080025263452171?ref_src=twsrc%5Etfw)
+
+---
+
+## #Microber2021
+
+[Source](https://twitter.com/hashtag/Microber2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #sciart
+
+[Source](https://twitter.com/hashtag/sciart?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #lysis
+
+[Source](https://twitter.com/hashtag/lysis?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/Xq3yysG9kh
+
+[Source](https://t.co/Xq3yysG9kh)
+
+---
+
+## October 5, 2021
+
+[Source](https://twitter.com/Sci_Sez/status/1445310357111644165?ref_src=twsrc%5Etfw)
+
+---
+
+## #Microber2021
+
+[Source](https://twitter.com/hashtag/Microber2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #phage
+
+[Source](https://twitter.com/hashtag/phage?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #Inktober2021
+
+[Source](https://twitter.com/hashtag/Inktober2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #SciArt
+
+[Source](https://twitter.com/hashtag/SciArt?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #PathogenPortraits
+
+[Source](https://twitter.com/hashtag/PathogenPortraits?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/nCSfvaNcSu
+
+[Source](https://t.co/nCSfvaNcSu)
+
+---
+
+## The 11th International Congress of Diabetes and Metabolism and the 13th AASD Scientific Meeting, 7-9 October 2021.
+ 06.10.2021, __
+
+
+
+[Source](https://twitter.com/eliza_coli/status/1446066234597027841?ref_src=twsrc%5Etfw)
+
+10.1111/jdi.13684
+
+---
+
+## October 7, 2021
+
+[Source](https://twitter.com/eliza_coli/status/1446066234597027841?ref_src=twsrc%5Etfw)
 
 ---
 
