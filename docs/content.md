@@ -64,57 +64,27 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 
 ---
 
-## Cultivating Healthy Connections: Exploring and Engineering the Microbial Flow That Shapes Microbiomes.
- 05.10.2021, _TJ Wiles_
-
-
-Our view of the microbial world has undergone a radical transformation over the past decade. For most of the 20th century, medical microbiological research was focused on understanding the virulent nature of disease-causing pathogens. More recently, advances in DNA sequencing methodologies have exposed a wider diversity of microscopic wildlife that associate with our bodies and the environments around us, and the unexpected roles they play in supporting our health. Our expanding view of the microbial world is now motivating therapeutic interventions that are based not just on the elimination of nefarious pathogens but the nurturing of beneficial microbiomes. In this Commentary, I consider how our historically pathogen-based view of host-microbe interactions may be limiting the scope of new and alternative strategies for engineering microbiomes. I suggest that recognizing the therapeutic potential of the ongoing microbial transmission that connects microbiomes could illuminate unexplored opportunities for cultivating healthy host-microbe relationships.
+## Cultivating Healthy Connections: Exploring and Engineering the Microbial Flow That Shapes Microbiomes
 
 [Source](https://journals.asm.org/doi/10.1128/mSystems.00863-21)
 
-10.1128/mSystems.00863-21
-
 ---
 
-## Presence of distinctive microbiome in the first-pass meconium of newborn infants.
- 05.10.2021, _J Turunen, MV Tejesvi, N Paalanne, J Hekkala, O Lindgren, M Kaakinen, T Pokka, A Kaisanlahti, J Reunanen, T Tapiainen_
-
-
-We critically evaluated the fetal microbiome concept in 44 neonates with placenta, amniotic fluid, and first-pass meconium samples. Placental histology showed no signs of inflammation. Meconium samples were more often bacterial culture positive after vaginal delivery. In next-generation sequencing of the bacterial 16S gene, before and after removal of extracellular and PCR contaminant DNA, the median number of reads was low in placenta (48) and amniotic fluid (46) and high in meconium samples (14,556 C-section, 24,860 vaginal). In electron microscopy, meconium samples showed extracellular vesicles. Utilizing the analysis of composition of microbiomes (ANCOM) against water, meconium samples had a higher relative abundance of Firmicutes, Lactobacillus, Streptococcus, and Escherichia-Shigella. Our results did not support the existence of the placenta and amniotic fluid microbiota in healthy pregnancies. The first-pass meconium samples, formed in utero, appeared to harbor a microbiome that may be explained by perinatal colonization or intrauterine colonization via bacterial extracellular vesicles.
+## Presence of distinctive microbiome in the first-pass meconium of newborn infants
 
 [Source](https://www.nature.com/articles/s41598-021-98951-4)
 
-10.1038/s41598-021-98951-4
-
 ---
 
-## Divergence of bacterial communities in the lower airways of CF patients in early childhood.
- 06.10.2021, _JB O'Connor, MM Mottlowitz, BD Wagner, KL Boyne, MJ Stevens, CE Robertson, JK Harris, TA Laguna_
-
-
-Chronic airway infection and inflammation resulting in progressive, obstructive lung disease is the leading cause of morbidity and mortality in cystic fibrosis. Understanding the lower airway microbiota across the ages can provide valuable insight and potential therapeutic targets.
+## Divergence of bacterial communities in the lower airways of CF patients in early childhood 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257838)
-
-10.1371/journal.pone.0257838
 
 ---
 
 ## Drivers and Determinants of Strain Dynamics Following Faecal Microbiota Transplantation
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.09.30.462010v1)
-
----
-
-## Effects of X-ray, electron beam and gamma irradiation on PE/EVOH/PE multilayer film properties.
- 05.10.2021, _N Girard-Perier, M Claeys-Bruno, SRA Marque, N Dupuy, F Gaston, S Dorey_
-
-
-To increase sterilization capacity, X-ray and e-beam irradiation modalities are more and more attractive for the indutrial sterilization of heathcare products (medical devices and biopharmaceutical goods). However, no study comparing these different techniques are available concerning multi-layer films. Thus, with the PE/EVOH/PE multilayer film as a model, we show that, whatever the modality of irradiation, the thermal properties are not significantly changed as shown by DSC, and, as such, the physical and mechanical properties of this material are also expected to behave similarly. On the other hand, chemical properties such as oxidation ability are strikingly modified, i.e., the same oxidation level for X-ray and γ-irradiation and twice weaker for e-beam irradiation.
-
-[Source](https://twitter.com/hashtag/FMT?src=hash&ref_src=twsrc%5Etfw)
-
-10.1039/d1cc02871e
 
 ---
 
@@ -136,18 +106,6 @@ To increase sterilization capacity, X-ray and e-beam irradiation modalities are 
 
 ---
 
-## Transfusion Preparedness in the Labor and Delivery Unit: An Initiative to Improve Safety and Cost.
- 07.10.2021, _AE Benson, RA Metcalf, K Cail, MD Rollins, CM Warrick, D Falkner, EAS Clark, RE Nelson, BD Einerson_
-
-
-To evaluate patient safety, resource utilization, and transfusion-related cost after a policy change from universal type and screen to selective type and screen on admission to labor and delivery.
-
-[Source](https://twitter.com/TSBSchm/status/1443848216131350558?ref_src=twsrc%5Etfw)
-
-10.1097/AOG.0000000000004571
-
----
-
 ## October 1, 2021
 
 [Source](https://twitter.com/TSBSchm/status/1443848216131350558?ref_src=twsrc%5Etfw)
@@ -166,15 +124,9 @@ To evaluate patient safety, resource utilization, and transfusion-related cost a
 
 ---
 
-## Metabolic modulation of tumours with engineered bacteria for immunotherapy.
- 07.10.2021, _FP Canale, C Basso, G Antonini, M Perotti, N Li, A Sokolovska, J Neumann, MJ James, S Geiger, W Jin, JP Theurillat, KA West, DS Leventhal, JM Lora, F Sallusto, R Geiger_
-
-
-The availability of L-arginine in tumours is a key determinant of an efficient anti-tumour T cell response1-4. Consequently, increases of typically low L-arginine concentrations within the tumour may greatly potentiate the anti-tumour responses of immune checkpoint inhibitors, such as programmed death-ligand 1 (PD-L1)-blocking antibodies5. However, currently no means are available to locally increase intratumoural L-arginine levels. Here we used a synthetic biology approach to develop an engineered probiotic Escherichia coli Nissle 1917 strain that colonizes tumours and continuously converts ammonia, a metabolic waste product that accumulates in tumours6, to L-arginine. Colonization of tumours with these bacteria increased intratumoural L-arginine concentrations, increased the number of tumour-infiltrating T cells and had marked synergistic effects with PD-L1 blocking antibodies in the clearance of tumours. The anti-tumour effect of these bacteria was mediated by L-arginine and was dependent on T cells. These results show that engineered microbial therapies enable metabolic modulation of the tumour microenvironment leading to enhanced efficacy of immunotherapies.
+## Metabolic modulation of tumours with engineered bacteria for immunotherapy
 
 [Source](https://www.nature.com/articles/s41586-021-04003-2)
-
-10.1038/s41586-021-04003-2
 
 ---
 
@@ -298,19 +250,6 @@ Metagenomic analyses of microbial communities have revealed a large degree of in
 
 ---
 
-## Phasor-based hyperspectral snapshot microscopy allows fast imaging of live, three-dimensional tissues for biomedical applications.
- 10.08.2021, _PN Hedde, R Cinco, L Malacrida, A Kamaid, E Gratton_
-
-
-_Animals, Colon, Hyperspectral Imaging, Imaging, Three-Dimensional, Mice, Mice, Inbred C57BL, Microscopy, NIH 3T3 Cells, Organelles, Retina, Zebrafish_
-Hyperspectral imaging is highly sought after in many fields including mineralogy and geology, environment and agriculture, astronomy and, importantly, biomedical imaging and biological fluorescence. We developed ultrafast phasor-based hyperspectral snapshot microscopy based on sine/cosine interference filters for biomedical imaging not feasible with conventional hyperspectral detection methods. Current approaches rely on slow spatial or spectral scanning limiting their application in living biological tissues, while faster snapshot methods such as image mapping spectrometry and multispectral interferometry are limited in spatial and/or spectral resolution, are computationally demanding, and imaging devices are very expensive to manufacture. Leveraging light sheet microscopy, phasor-based hyperspectral snapshot microscopy improved imaging speed 10-100 fold which, combined with minimal light exposure and high detection efficiency, enabled hyperspectral metabolic imaging of live, three-dimensional mouse tissues not feasible with other methods. As a fit-free method that does not require any a priori information often unavailable in complex and evolving biological systems, the rule of linear combinations of the phasor could spectrally resolve subtle differences between cell types in the developing zebrafish retina and spectrally separate and track multiple organelles in 3D cultured cells over time. The sine/cosine snapshot method is adaptable to any microscope or imaging device thus making hyperspectral imaging and fit-free analysis based on linear combinations broadly available to researchers and the public.
-
-[Source](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology)
-
-10.1038/s42003-021-02266-z
-
----
-
 ## Microscopy Live! – Geology
 
 [Source](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology)
@@ -347,18 +286,6 @@ Hyperspectral imaging is highly sought after in many fields including mineralogy
 
 ---
 
-## Transfusion Preparedness in the Labor and Delivery Unit: An Initiative to Improve Safety and Cost.
- 07.10.2021, _AE Benson, RA Metcalf, K Cail, MD Rollins, CM Warrick, D Falkner, EAS Clark, RE Nelson, BD Einerson_
-
-
-To evaluate patient safety, resource utilization, and transfusion-related cost after a policy change from universal type and screen to selective type and screen on admission to labor and delivery.
-
-[Source](https://twitter.com/AliciaPCV/status/1443995722500739086?ref_src=twsrc%5Etfw)
-
-10.1097/AOG.0000000000004571
-
----
-
 ## October 1, 2021
 
 [Source](https://twitter.com/AliciaPCV/status/1443995722500739086?ref_src=twsrc%5Etfw)
@@ -389,18 +316,6 @@ To evaluate patient safety, resource utilization, and transfusion-related cost a
 
 ---
 
-## Transfusion Preparedness in the Labor and Delivery Unit: An Initiative to Improve Safety and Cost.
- 07.10.2021, _AE Benson, RA Metcalf, K Cail, MD Rollins, CM Warrick, D Falkner, EAS Clark, RE Nelson, BD Einerson_
-
-
-To evaluate patient safety, resource utilization, and transfusion-related cost after a policy change from universal type and screen to selective type and screen on admission to labor and delivery.
-
-[Source](https://twitter.com/GalataValentina/status/1445080025263452171?ref_src=twsrc%5Etfw)
-
-10.1097/AOG.0000000000004571
-
----
-
 ## October 4, 2021
 
 [Source](https://twitter.com/GalataValentina/status/1445080025263452171?ref_src=twsrc%5Etfw)
@@ -413,33 +328,9 @@ To evaluate patient safety, resource utilization, and transfusion-related cost a
 
 ---
 
-## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
- 22.09.2021, _JL Steenwyk_
-
-
-_Art, Female, Humans, Laboratory Personnel, Life Cycle Stages, Saccharomyces cerevisiae, Saccharomycetales_
-
-[Source](https://twitter.com/hashtag/sciart?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/yea.3518
-
----
-
 ## #sciart
 
 [Source](https://twitter.com/hashtag/sciart?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Antithrombotic Study and Identification of Metabolites in Leaf Extracts of Chaya [Cnidoscolus aconitifolius (Mill.) I.M. Johnst.].
- 07.10.2021, _JP Quintal-Martínez, IG Quintal-Ortiz, LG Alonzo-Salomón, D Muñoz-Rodríguez, MR Segura-Campos_
-
-
-In Mexico, Cnidoscolus aconitifolius (chaya) has been used to treat cardiovascular diseases (CVD). Because CVD are the number one cause of mortality, chaya use has become a health strategy. The aim of this study was to evaluate the antithrombotic activity and identify the metabolites in the most active extract. Aqueous (Aq), ethanolic (EtOH), acetonic (An), ethyl acetate (AcOEt), diethyl ether (Et2O), and hexanic (Hx) extracts were obtained. Platelet aggregation, phospholipase A2, prothrombin time (PT), activated partial thromboplastin time (aPTT), and clot lysis were evaluated. Metabolites were identified by gas chromatography-mass spectrometry (GC-MS). EtOH showed the greatest inhibition of platelet aggregation and phospholipase A2. Ac had the greatest effect on PT and aPTT. AcOEt had the greatest effect on clot lysis. EtOH, with the highest potential, was analyzed by GC-MS; fatty acids and triterpenes were identified. Thus, EtOH showed greater antiplatelet activity and other extracts showed moderate activity. This is a preliminary antithrombotic study. Future research will allow the development of nutraceuticals or functional ingredients for the prevention and treatment of thrombosis.
-
-[Source](https://twitter.com/hashtag/lysis?src=hash&ref_src=twsrc%5Etfw)
-
-10.1089/jmf.2021.0008
 
 ---
 
@@ -455,18 +346,6 @@ In Mexico, Cnidoscolus aconitifolius (chaya) has been used to treat cardiovascul
 
 ---
 
-## Breech Presentation in Twins as a Risk Factor for Developmental Dysplasia of the Hip.
- 07.10.2021, _EJ Oh, JJ Min, SS Kwon, SB Kim, CW Choi, YH Jung, KJ Oh, JY Park, MS Park_
-
-
-Identifying risk factors associated with developmental dysplasia of the hip (DDH) is essential for early diagnosis and treatment. Breech presentation is a major DDH risk factor, possibly because of crowding of the fetus within the uterus. In multifetal pregnancy, fetuses are generally smaller than singletons, which may obscure the effect of breech presentation on fetal hips. Only a few studies have investigated the occurrence of DDH in multifetal pregnancies. In this study, we aimed to evaluate whether the breech presentation is a major risk factor of DDH in twin pregnancies.
-
-[Source](https://twitter.com/Sci_Sez/status/1445310357111644165?ref_src=twsrc%5Etfw)
-
-10.1097/BPO.0000000000001982
-
----
-
 ## October 5, 2021
 
 [Source](https://twitter.com/Sci_Sez/status/1445310357111644165?ref_src=twsrc%5Etfw)
@@ -479,18 +358,6 @@ Identifying risk factors associated with developmental dysplasia of the hip (DDH
 
 ---
 
-## The remarkable viral portal vertex: structure and a plausible model for mechanism.
- 07.10.2021, _VB Rao, A Fokine, Q Fang_
-
-
-Many icosahedral viruses including tailed bacteriophages and herpes viruses have a unique portal vertex where a dodecameric protein ring is associated with a fivefold capsid shell. While the peripheral regions of the portal ring are involved in capsid assembly, its central channel is used to transport DNA into and out of capsid during genome packaging and infection. Though the atomic structure of this highly conserved, turbine-shaped, portal is known for nearly two decades, its molecular mechanism remains a mystery. Recent high-resolution in situ structures reveal various conformational states of the portal and the asymmetric interactions between the 12-fold portal and the fivefold capsid. These lead to a valve-like mechanism for this symmetry-mismatched portal vertex that regulates DNA flow through the channel, a critical function for high fidelity assembly of an infectious virion.
-
-[Source](https://twitter.com/hashtag/phage?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.coviro.2021.09.004
-
----
-
 ## #phage
 
 [Source](https://twitter.com/hashtag/phage?src=hash&ref_src=twsrc%5Etfw)
@@ -500,18 +367,6 @@ Many icosahedral viruses including tailed bacteriophages and herpes viruses have
 ## #Inktober2021
 
 [Source](https://twitter.com/hashtag/Inktober2021?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
- 22.09.2021, _JL Steenwyk_
-
-
-_Art, Female, Humans, Laboratory Personnel, Life Cycle Stages, Saccharomyces cerevisiae, Saccharomycetales_
-
-[Source](https://twitter.com/hashtag/SciArt?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/yea.3518
 
 ---
 
