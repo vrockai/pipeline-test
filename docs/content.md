@@ -76,15 +76,33 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 
 ---
 
-## Divergence of bacterial communities in the lower airways of CF patients in early childhood 
+## Divergence of bacterial communities in the lower airways of CF patients in early childhood.
+ 06.10.2021, _JB O'Connor, MM Mottlowitz, BD Wagner, KL Boyne, MJ Stevens, CE Robertson, JK Harris, TA Laguna_
+
+
+Chronic airway infection and inflammation resulting in progressive, obstructive lung disease is the leading cause of morbidity and mortality in cystic fibrosis. Understanding the lower airway microbiota across the ages can provide valuable insight and potential therapeutic targets.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257838)
+
+10.1371/journal.pone.0257838
 
 ---
 
 ## Drivers and Determinants of Strain Dynamics Following Faecal Microbiota Transplantation
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.09.30.462010v1)
+
+---
+
+## Generalized tonic-clonic seizures are accompanied by changes of interrelations within the autonomic nervous system.
+ 08.10.2021, _S Vieluf, T Hasija, PJ Schreier, R El Atrache, S Hammond, F Mohammadpour Touserkani, RA Sarkis, T Loddenkemper, C Reinsberger_
+
+
+A seizure is a strong central stimulus that affects multiple subsystems of the autonomic nervous system (ANS), and results in different interactions across ANS modalities. Here, we aimed to evaluate whether multimodal peripheral ANS measures demonstrate interactions before and after seizures as compared to controls to provide the basis for seizure detection and forecasting based on peripheral ANS signals.
+
+[Source](https://twitter.com/hashtag/FMT?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.yebeh.2021.108321
 
 ---
 
@@ -316,6 +334,18 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 
 ---
 
+## New Insights in Coagulation and Fibrinolysis in Patients with Primary Brain Cancer: A Systematic Review.
+ 08.10.2021, _A Winther-Larsen, B Sandfeld-Paulsen, AM Hvas_
+
+
+Patients with primary brain tumors have a high incidence of thrombosis and hemorrhage. The underlying mechanism is believed to be derangement of their hemostatic system. To get nearer a clarification of this, we aimed to systematically review the existing literature regarding primary and secondary hemostasis as well as fibrinolysis in patients with primary brain tumor. The review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The databases PubMed, Embase, and Web of Science were searched on December 15, 2020, without time restrictions. Studies were included if they evaluated at least one blood coagulation and/or fibrinolysis parameter in patients with primary brain cancer. In total, 26 articles including 3,288 patients were included. Overall, increased activity of secondary hemostasis was observed as increased prothrombin fragment 1 + 2 and endogenous thrombin generation levels were found in glioma patients compared with controls. Furthermore, data showed a state of hypofibrinolysis with increased plasminogen activator inhibitor 1 and prolonged clot lysis time in glioma patients. In contrast, no consistent increase in the primary hemostasis was identified; however, data suggested that increased sP-selectin could be a biomarker of increased venous thromboembolism risk and that increased platelet count may be prognostic for survival. Lastly, data indicated that fibrinogen and D-dimer could hold prognostic value. In conclusion, this review indicates that an increased activity of secondary hemostasis and impaired fibrinolysis could be important players in the pathogeneses behind the high risk of thromboembolisms observed in brain cancer patients. Thus, long-term thromboprophylaxis may be beneficial and additional studies addressing this issue are wanted.
+
+[Source](https://twitter.com/hashtag/lysis?src=hash&ref_src=twsrc%5Etfw)
+
+10.1055/s-0041-1733961
+
+---
+
 ## #lysis
 
 [Source](https://twitter.com/hashtag/lysis?src=hash&ref_src=twsrc%5Etfw)
@@ -325,6 +355,18 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 ## pic.twitter.com/Xq3yysG9kh
 
 [Source](https://t.co/Xq3yysG9kh)
+
+---
+
+## Comparison of Frailty Index to Pneumonia Severity Measures in Older Patients With Pneumonia.
+ 08.10.2021, _CM Park, W Kim, ES Lee, H Chang Rhim, KH Cho, JH Kim, DH Kim_
+
+
+Risk stratification tools are useful to provide appropriate clinical care for older patients with pneumonia. This study aimed to compare a Frailty Index (FI) with pneumonia severity measures, CURB-65, and the Pneumonia Severity Index (PSI), for predicting mortality and persistent disability after pneumonia.
+
+[Source](https://twitter.com/Sci_Sez/status/1445310357111644165?ref_src=twsrc%5Etfw)
+
+10.1016/j.jamda.2021.08.044
 
 ---
 
@@ -340,6 +382,18 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 
 ---
 
+## Adaptation of the polony technique to quantify Gokushovirinae, a diverse group of single-stranded DNA phage.
+ 08.10.2021, _NA Sawaya, N Baran, S Mahank, A Varsani, D Lindell, M Breitbart_
+
+
+Advances in metagenomics have revealed the ubiquity of single-stranded DNA (ssDNA) phage belonging to the subfamily Gokushovirinae in the oceans; however, the abundance and ecological roles of this group are unknown. Here we quantify gokushoviruses through adaptation of the polony method, in which viral template DNA is immobilized in a gel, amplified by PCR, and subsequently detected by hybridization. Primers and probes for this assay were designed based on PCR amplicon diversity of gokushovirus major capsid protein gene sequences from a depth profile in the Gulf of Aqaba, Red Sea sampled in September 2015. At ≥95% identity, these 87 gokushovirus sequences formed 14 discrete clusters with the largest clades showing distinct depth distributions. The application of the polony method enabled the first quantification of gokushoviruses in any environment. The gokushoviruses were most abundant in the upper 40 m of the stratified water column, with a subsurface peak in abundance of 1.26 x 105 viruses ml-1 . These findings suggest that discrete gokushovirus genotypes infect bacterial hosts that differentially partition in the water column. Since the designed primers and probe are conserved across marine ecosystems, this polony method can be applied broadly for the quantification of gokushoviruses throughout the global oceans. This article is protected by copyright. All rights reserved.
+
+[Source](https://twitter.com/hashtag/phage?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/1462-2920.15805
+
+---
+
 ## #phage
 
 [Source](https://twitter.com/hashtag/phage?src=hash&ref_src=twsrc%5Etfw)
@@ -349,6 +403,18 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 ## #Inktober2021
 
 [Source](https://twitter.com/hashtag/Inktober2021?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
+ 22.09.2021, _JL Steenwyk_
+
+
+_Art, Female, Humans, Laboratory Personnel, Life Cycle Stages, Saccharomyces cerevisiae, Saccharomycetales_
+
+[Source](https://twitter.com/hashtag/SciArt?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/yea.3518
 
 ---
 
