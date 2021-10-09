@@ -148,15 +148,9 @@ The Virus-X-Viral Metagenomics for Innovation Value-project was a scientific exp
 
 ---
 
-## Prevalence and Specificity of Chemoreceptor Profiles in Plant-Associated Bacteria.
- 21.09.2021, _C Sanchis-López, JP Cerna-Vargas, S Santamaría-Hernando, C Ramos, T Krell, P Rodríguez-Palenzuela, E López-Solanilla, J Huerta-Cepas, JJ Rodríguez-Herva_
-
-
-Chemosensory pathways are among the most abundant prokaryotic signal transduction systems, allowing bacteria to sense and respond to environmental stimuli. Signaling is typically initiated by the binding of specific molecules to the ligand binding domain (LBD) of chemoreceptor proteins (CRs). Although CRs play a central role in plant-microbiome interactions such as colonization and infection, little is known about their phylogenetic and ecological specificity. Here, we analyzed 82,277 CR sequences from 11,806 representative microbial species covering the whole prokaryotic phylogeny, and we classified them according to their LBD type using a de novo homology clustering method. Through phylogenomic analysis, we identified hundreds of LBDs that are found predominantly in plant-associated bacteria, including several LBDs specific to phytopathogens and plant symbionts. Functional annotation of our catalogue showed that many of the LBD clusters identified might constitute unknown types of LBDs. Moreover, we found that the taxonomic distribution of most LBD types that are specific to plant-associated bacteria is only partially explained by phylogeny, suggesting that lifestyle and niche adaptation are important factors in their selection. Finally, our results show that the profile of LBD types in a given genome is related to the lifestyle specialization, with plant symbionts and phytopathogens showing the highest number of niche-specific LBDs. The LBD catalogue and information on how to profile novel genomes are available at https://github.com/compgenomicslab/CRs. IMPORTANCE Considering the enormous variety of LBDs at sensor proteins, an important question resides in establishing the forces that have driven their evolution and selection. We present here the first clear demonstration that environmental factors play an important role in the selection and evolution of LBDs. We were able to demonstrate the existence of LBD families that are highly enriched in plant-associated bacteria but show a wide phylogenetic spread. These findings offer a number of research opportunities in the field of single transduction, such as the exploration of similar relationships in chemoreceptors of bacteria with a different lifestyle, like those inhabiting or infecting the human intestine. Similarly, our results raise the question whether similar LBD types might be shared by members of different sensor protein families. Lastly, we provide a comprehensive catalogue of CRs classified by their LBD region that includes a large number of putative new LBD types.
+## Prevalence and Specificity of Chemoreceptor Profiles in Plant-Associated Bacteria 
 
 [Source](https://journals.asm.org/doi/10.1128/mSystems.00951-21)
-
-10.1128/mSystems.00951-21
 
 ---
 
@@ -241,19 +235,6 @@ Metagenomic analyses of microbial communities have revealed a large degree of in
 ## EMBARK Fall Webinars
 
 [Source](https://antimicrobialresistance.eu/category/webinars/)
-
----
-
-## Phasor-based hyperspectral snapshot microscopy allows fast imaging of live, three-dimensional tissues for biomedical applications.
- 10.08.2021, _PN Hedde, R Cinco, L Malacrida, A Kamaid, E Gratton_
-
-
-_Animals, Colon, Hyperspectral Imaging, Imaging, Three-Dimensional, Mice, Mice, Inbred C57BL, Microscopy, NIH 3T3 Cells, Organelles, Retina, Zebrafish_
-Hyperspectral imaging is highly sought after in many fields including mineralogy and geology, environment and agriculture, astronomy and, importantly, biomedical imaging and biological fluorescence. We developed ultrafast phasor-based hyperspectral snapshot microscopy based on sine/cosine interference filters for biomedical imaging not feasible with conventional hyperspectral detection methods. Current approaches rely on slow spatial or spectral scanning limiting their application in living biological tissues, while faster snapshot methods such as image mapping spectrometry and multispectral interferometry are limited in spatial and/or spectral resolution, are computationally demanding, and imaging devices are very expensive to manufacture. Leveraging light sheet microscopy, phasor-based hyperspectral snapshot microscopy improved imaging speed 10-100 fold which, combined with minimal light exposure and high detection efficiency, enabled hyperspectral metabolic imaging of live, three-dimensional mouse tissues not feasible with other methods. As a fit-free method that does not require any a priori information often unavailable in complex and evolving biological systems, the rule of linear combinations of the phasor could spectrally resolve subtle differences between cell types in the developing zebrafish retina and spectrally separate and track multiple organelles in 3D cultured cells over time. The sine/cosine snapshot method is adaptable to any microscope or imaging device thus making hyperspectral imaging and fit-free analysis based on linear combinations broadly available to researchers and the public.
-
-[Source](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology)
-
-10.1038/s42003-021-02266-z
 
 ---
 
@@ -374,18 +355,6 @@ Hyperspectral imaging is highly sought after in many fields including mineralogy
 ## #Inktober2021
 
 [Source](https://twitter.com/hashtag/Inktober2021?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## A portrait of budding yeasts: A symbol of the arts, sciences and a whole greater than the sum of its parts.
- 22.09.2021, _JL Steenwyk_
-
-
-_Art, Female, Humans, Laboratory Personnel, Life Cycle Stages, Saccharomyces cerevisiae, Saccharomycetales_
-
-[Source](https://twitter.com/hashtag/SciArt?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/yea.3518
 
 ---
 
