@@ -23,26 +23,14 @@ The immune cells of the central nervous system (CNS) comprise parenchymal microg
 ---
 
 ## How can probiotic improve irritable bowel syndrome symptoms?
- 09.10.2021, _I Benjak Horvat, I Gobin, A Kresović, G Hauser_
-
-
-The onset and manifestations of irritable bowel syndrome (IBS) is associated with several factors, and the pathophysiology involves various central and peripheral mechanisms. Most studies indicate that the management of gut microbiota could significantly affect the improvement of subjective disorders in patients with IBS. Numerous clinical trials have assessed the efficacy of probiotics for IBS with controversial conclusions. Several clinical trials have suggested that probiotics can improve global IBS symptoms, while others only improve individual IBS symptoms, such as bloating scores and abdominal pain scores. Only a few clinical trials have found no apparent effect of probiotics on IBS symptoms. Generally, probiotics appear to be safe for patients with IBS. However, the question of which probiotics should be used for certain IBS subtypes remains unresolved. In everyday practice, the dose of the recommended probiotic remains questionable, as well as how long the probiotic should be used in therapy. The use of probiotics in the M subtype and non-classified IBS is particularly problematic, in which combination therapy should be recommended due to the change in symptoms. Therefore, new approaches are needed in the design of clinical studies that should address certain subtypes of IBS.
 
 [Source](https://doi.org/10.4240/wjgs.v13.i9.923)
 
-10.4240/wjgs.v13.i9.923
-
 ---
 
-## Meta-Analysis of the Composition of Human Intestinal Gases.
- 08.10.2021, _A Modesto, NR Cameron, C Varghese, N Peters, B Stokes, A Phillips, I Bissett, G O'Grady_
-
-
-Understanding intestinal gases volume and composition may contribute to diagnosing digestive diseases and the microbiome's status. This meta-analysis aimed to define the composition of human intestinal gases and changes associated with diet.
+## Meta-Analysis of the Composition of Human Intestinal Gases 
 
 [Source](https://link.springer.com/article/10.1007/s10620-021-07254-1)
-
-10.1007/s10620-021-07254-1
 
 ---
 
