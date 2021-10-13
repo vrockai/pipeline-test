@@ -35,7 +35,7 @@ Gut microbiota modulate age-associated changes in metabolism, innate immune resp
 ---
 
 ## The microbiome-shaping roles of bacteriocins.
- 02.06.2021, _S Heilbronner, B Krismer, H Brötz-Oesterhelt, A Peschel_
+ 12.10.2021, _S Heilbronner, B Krismer, H Brötz-Oesterhelt, A Peschel_
 
 
 The microbiomes on human body surfaces affect health in multiple ways. They include not only commensal or mutualistic bacteria but also potentially pathogenic bacteria, which can enter sterile tissues to cause invasive infection. Many commensal bacteria produce small antibacterial molecules termed bacteriocins that have the capacity to eliminate specific colonizing pathogens; as such, bacteriocins have attracted increased attention as potential microbiome-editing tools. Metagenome-based and activity-based screening approaches have strongly expanded our knowledge of the abundance and diversity of bacteriocin biosynthetic gene clusters and the properties of a continuously growing list of bacteriocin classes. The dynamic acquisition, diversification or loss of bacteriocin genes can shape the fitness of a bacterial strain that is in competition with bacteriocin-susceptible bacteria. However, a bacteriocin can only provide a competitive advantage if its fitness benefit exceeds the metabolic cost of production, if it spares crucial mutualistic partner strains and if major competitors cannot develop resistance. In contrast to most currently available antibiotics, many bacteriocins have only narrow activity ranges and could be attractive agents for precision therapy and prevention of infections. A common scientific strategy involving multiple disciplines is needed to uncover the immense potential of microbiome-shaping bacteriocins.
