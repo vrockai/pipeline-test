@@ -100,15 +100,9 @@ Increasing occurrence of harmful algal blooms across the land-water interface po
 
 ---
 
-## A field guide to cultivating computational biology.
- 07.10.2021, _GP Way, CS Greene, P Carninci, BS Carvalho, M de Hoon, S Finley, SJC Gosline, KA Lȇ Cao, JSH Lee, L Marchionni, N Robine, SS Sindi, FJ Theis, JYH Yang, AE Carpenter, EJ Fertig_
-
-
-Evolving in sync with the computation revolution over the past 30 years, computational biology has emerged as a mature scientific field. While the field has made major contributions toward improving scientific knowledge and human health, individual computational biology practitioners at various institutions often languish in career development. As optimistic biologists passionate about the future of our field, we propose solutions for both eager and reluctant individual scientists, institutions, publishers, funding agencies, and educators to fully embrace computational biology. We believe that in order to pave the way for the next generation of discoveries, we need to improve recognition for computational biologists and better align pathways of career success with pathways of scientific progress. With 10 outlined steps, we call on all adjacent fields to move away from the traditional individual, single-discipline investigator research model and embrace multidisciplinary, data-driven, team science.
+## A field guide to cultivating computational biology
 
 [Source](https://doi.org/10.1371/journal.pbio.3001419)
-
-10.1371/journal.pbio.3001419
 
 ---
 
