@@ -70,15 +70,9 @@ The microbiomes on human body surfaces affect health in multiple ways. They incl
 
 ---
 
-## A novel random forest approach to revealing interactions and controls on chlorophyll concentration and bacterial communities during coastal phytoplankton blooms.
- 11.10.2021, _Y Cheng, VN Bhoot, K Kumbier, MP Sison-Mangus, JB Brown, R Kudela, ME Newcomer_
-
-
-Increasing occurrence of harmful algal blooms across the land-water interface poses significant risks to coastal ecosystem structure and human health. Defining significant drivers and their interactive impacts on blooms allows for more effective analysis and identification of specific conditions supporting phytoplankton growth. A novel iterative Random Forests (iRF) machine-learning model was developed and applied to two example cases along the California coast to identify key stable interactions: (1) phytoplankton abundance in response to various drivers due to coastal conditions and land-sea nutrient fluxes, (2) microbial community structure during algal blooms. In Example 1, watershed derived nutrients were identified as the least significant interacting variable associated with Monterey Bay phytoplankton abundance. In Example 2, through iRF analysis of field-based 16S OTU bacterial community and algae datasets, we independently found stable interactions of prokaryote abundance patterns associated with phytoplankton abundance that have been previously identified in laboratory-based studies. Our study represents the first iRF application to marine algal blooms that helps to identify ocean, microbial, and terrestrial conditions that are considered dominant causal factors on bloom dynamics.
+## A novel random forest approach to revealing interactions and controls on chlorophyll concentration and bacterial communities during coastal phytoplankton blooms
 
 [Source](https://doi.org/10.1038/s41598-021-98110-9)
-
-10.1038/s41598-021-98110-9
 
 ---
 
@@ -100,15 +94,9 @@ Increasing occurrence of harmful algal blooms across the land-water interface po
 
 ---
 
-## A field guide to cultivating computational biology.
- 07.10.2021, _GP Way, CS Greene, P Carninci, BS Carvalho, M de Hoon, S Finley, SJC Gosline, KA Lȇ Cao, JSH Lee, L Marchionni, N Robine, SS Sindi, FJ Theis, JYH Yang, AE Carpenter, EJ Fertig_
-
-
-Evolving in sync with the computation revolution over the past 30 years, computational biology has emerged as a mature scientific field. While the field has made major contributions toward improving scientific knowledge and human health, individual computational biology practitioners at various institutions often languish in career development. As optimistic biologists passionate about the future of our field, we propose solutions for both eager and reluctant individual scientists, institutions, publishers, funding agencies, and educators to fully embrace computational biology. We believe that in order to pave the way for the next generation of discoveries, we need to improve recognition for computational biologists and better align pathways of career success with pathways of scientific progress. With 10 outlined steps, we call on all adjacent fields to move away from the traditional individual, single-discipline investigator research model and embrace multidisciplinary, data-driven, team science.
+## A field guide to cultivating computational biology
 
 [Source](https://doi.org/10.1371/journal.pbio.3001419)
-
-10.1371/journal.pbio.3001419
 
 ---
 
