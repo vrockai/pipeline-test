@@ -148,15 +148,9 @@ Enterococcus spp. is a common commensal microorganism, however, some strains can
 
 ---
 
-## Effect of chewing betel nut on the gut microbiota of Hainanese.
- 14.10.2021, _L Ying, Y Yang, J Zhou, H Huang, G Du_
-
-
-Betel nut chewing (BNC) is prevalent in South Asia and Southeast Asia. BNC can affect host health by modulating the gut microbiota. The aim of this study is to evaluate the effect of BNC on the gut microbiota of the host. Feces samples were obtained from 34 BNC individuals from Ledong and Lingshui, Hainan, China. The microbiota was analyzed by 16S rRNA gene sequencing. BNC decreased the microbial α-diversity. Firmicutes, Bacteroidetes, Actinobacteria, and Proteobacteria were the predominant phyla, accounting for 99.35% of the BNC group. The Firmicutes-to-Bacteroidetes ratio was significantly increased in the BNC group compared to a control group. The abundances of the families Aerococcaceae, Neisseriaceae, Moraxellaceae, Porphyromonadaceae, and Planococcaceae were decreased in the BNC/BNC_Male/BNC_Female groups compared to the control group, whereas the abundances of Coriobacteriaceae, Streptococcaceae, Micrococcaceae, Xanthomonadaceae, Coxiellaceae, Nocardioidaceae, Rhodobacteraceae, and Succinivibrionaceae were increased. In general, the gut microbiome profiles suggest that BNC may have positive effects, such as an increase in the abundance of beneficial microbes and a reduction in the abundance of disease-related microbes. However, BNC may also produce an increase in the abundance of disease-related microbes. Therefore, extraction of prebiotic components could increase the beneficial value of betel nut.
+## Effect of chewing betel nut on the gut microbiota of Hainanese
 
 [Source](https://doi.org/10.1371/journal.pone.0258489)
-
-10.1371/journal.pone.0258489
 
 ---
 
@@ -172,15 +166,9 @@ Betel nut chewing (BNC) is prevalent in South Asia and Southeast Asia. BNC can a
 
 ---
 
-## Gut microbiota dysbiosis of type 2 diabetic mice impairs the intestinal daily rhythms of GLP-1 sensitivity.
- 14.10.2021, _E Grasset, A Puel, J Charpentier, P Klopp, JE Christensen, B Lelouvier, F Servant, V Blasco-Baque, F Tercé, R Burcelin_
-
-
-The gut-brain-beta cell glucagon-like peptide-1 (GLP-1)-dependent axis and the clock genes both control insulin secretion. Evidence shows that a keystone of this molecular interaction could be the gut microbiota. We analyzed in mice the circadian profile of GLP-1 sensitivity on insulin secretion and the impact of the autonomic neuropathy, antibiotic treated in different diabetic mouse models and in germ-free colonized mice. We show that GLP-1sensitivity is maximal during the dark feeding period, i.e., the postprandial state. Coincidently, the ileum expression of GLP-1 receptor and peripherin is increased and tightly correlated with a subset of clock gene. Since both are markers of enteric neurons, it suggests a role in the gut-brain-beta cell GLP-1-dependent axis. We evaluated the importance of gut microbiota dysbiosis and found that the abundance of ileum bacteria, particularly Ruminococcaceae and Lachnospiraceae, oscillated diurnally, with a maximum during the dark period, along with expression patterns of a subset of clock genes. This diurnal pattern of circadian gene expression and Lachnospiraceae abundance was also observed in two separate mouse models of gut microbiota dysbiosis and of autonomic neuropathy with impaired GLP-1 sensitivity (1.high-fat diet-fed type 2 diabetic, 2.antibiotic-treated/germ-free mice). Our data show that GLP-1 sensitivity relies on specific pattern of intestinal clock gene expression and specific gut bacteria. This new statement opens opportunities to treat diabetic patient with GLP-1-based therapies by using on a possible pre/probiotic co-treatment to improve the time-dependent efficiency of these therapies.
+## Gut microbiota dysbiosis of type 2 diabetic mice impairs the intestinal daily rhythms of GLP-1 sensitivity
 
 [Source](https://doi.org/10.1007/s00592-021-01790-y)
-
-10.1007/s00592-021-01790-y
 
 ---
 
@@ -202,15 +190,9 @@ The gut-brain-beta cell glucagon-like peptide-1 (GLP-1)-dependent axis and the c
 
 ---
 
-## Does probiotics work for bacterial vaginosis and vulvovaginal candidiasis.
- 14.10.2021, _Y Han, QL Ren_
-
-
-The different Lactobacillus strains of probiotics have been applied to the treatment and prevention of bacterial vaginosis and vulvovaginal candidiasis. The experimental data demonstrated that it works well via reducing the number of harmful bacteria, maintaining the acidic microenvironment, inhibiting the immune response, and so on, to restore the vaginal microecology. However, the clinical data indicated that it is not sufficient to support the use of probiotics in the intervention of vulvovaginal candidiasis rather than bacterial vaginosis. Hunting for novel probiotic strains and uncovering the precise mechanism of probiotics, especially with the new concept gut-vagina axis, to maintain the homeostasis of vaginal microbiota should be a great challenge in the future.
+## Does probiotics work for bacterial vaginosis and vulvovaginal candidiasis
 
 [Source](https://doi.org/10.1016/j.coph.2021.09.004)
-
-10.1016/j.coph.2021.09.004
 
 ---
 
@@ -244,15 +226,9 @@ The different Lactobacillus strains of probiotics have been applied to the treat
 
 ---
 
-## PBK model-based prediction of intestinal microbial and host metabolism of zearalenone and consequences for its estrogenicity.
- 14.10.2021, _DM Mendez-Catala, Q Wang, IMCM Rietjens_
-
-
-The aim of the present study was to develop physiologically-based kinetic (PBK) models for rat and human that include intestinal microbial and hepatic metabolism of zearalenone (ZEN) in order to predict systemic concentrations of ZEN and to obtain insight in the contribution of metabolism by the intestinal microbiota to the overall metabolism of ZEN.
+## PBK model-based prediction of intestinal microbial and host metabolism of zearalenone and consequences for its estrogenicity
 
 [Source](https://doi.org/10.1002/mnfr.202100443)
-
-10.1002/mnfr.202100443
 
 ---
 
