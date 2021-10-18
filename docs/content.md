@@ -166,9 +166,15 @@ Enterococcus spp. is a common commensal microorganism, however, some strains can
 
 ---
 
-## Gut microbiota dysbiosis of type 2 diabetic mice impairs the intestinal daily rhythms of GLP-1 sensitivity
+## Gut microbiota dysbiosis of type 2 diabetic mice impairs the intestinal daily rhythms of GLP-1 sensitivity.
+ 14.10.2021, _E Grasset, A Puel, J Charpentier, P Klopp, JE Christensen, B Lelouvier, F Servant, V Blasco-Baque, F Tercé, R Burcelin_
+
+
+The gut-brain-beta cell glucagon-like peptide-1 (GLP-1)-dependent axis and the clock genes both control insulin secretion. Evidence shows that a keystone of this molecular interaction could be the gut microbiota. We analyzed in mice the circadian profile of GLP-1 sensitivity on insulin secretion and the impact of the autonomic neuropathy, antibiotic treated in different diabetic mouse models and in germ-free colonized mice. We show that GLP-1sensitivity is maximal during the dark feeding period, i.e., the postprandial state. Coincidently, the ileum expression of GLP-1 receptor and peripherin is increased and tightly correlated with a subset of clock gene. Since both are markers of enteric neurons, it suggests a role in the gut-brain-beta cell GLP-1-dependent axis. We evaluated the importance of gut microbiota dysbiosis and found that the abundance of ileum bacteria, particularly Ruminococcaceae and Lachnospiraceae, oscillated diurnally, with a maximum during the dark period, along with expression patterns of a subset of clock genes. This diurnal pattern of circadian gene expression and Lachnospiraceae abundance was also observed in two separate mouse models of gut microbiota dysbiosis and of autonomic neuropathy with impaired GLP-1 sensitivity (1.high-fat diet-fed type 2 diabetic, 2.antibiotic-treated/germ-free mice). Our data show that GLP-1 sensitivity relies on specific pattern of intestinal clock gene expression and specific gut bacteria. This new statement opens opportunities to treat diabetic patient with GLP-1-based therapies by using on a possible pre/probiotic co-treatment to improve the time-dependent efficiency of these therapies.
 
 [Source](https://doi.org/10.1007/s00592-021-01790-y)
+
+10.1007/s00592-021-01790-y
 
 ---
 
