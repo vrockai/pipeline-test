@@ -112,15 +112,15 @@ Patients with Crohn's disease frequently develop oral health problems and show a
 
 ---
 
-## Novel lytic bacteriophage vB_GEC_EfS_9 against Enterococcus faecium.
- 14.10.2021, _S Rigvava, I Kusradze, I Tchgkonia, N Karumimdze, T Dvalidze, M Goderdzishvili_
+## Gram-negative bacteria as a cause of mediastinitis after cardiac surgery.
+ 15.10.2021, _M Peghin, E Pompei, I Vendramin, C Tascini_
 
 
-Enterococcus spp. is a common commensal microorganism, however, some strains can cause opportunistic infections in humans. Treatment of Enterococcus faecium-related endocarditis, urinary and genital tract infections, meningitis, septicemia, and even neonatal sepsis is often complicated by antibiotic resistance. The spread of multi-resistant bacterial strains has renewed interest in phage therapy, which has many advantages: Its advantages include a much lower frequency of resistance development compared to antibiotics and strict specificity, which allows affecting of only their target microbes without disturbing necessary microbiome. We isolated and characterized a virulent bacteriophage which is active against Enterococcus faecium clinical strains. The phage, which was designated as vB_GEC_EfS_9 was studied in terms of its growth pattern and adsorption rate, as well as its host range. The whole genome of the phage was sequenced and analyzed. Obtained results indicate that phage vB_GEC_EfS_9 is a virulent phage which has a very good potential for therapeutic use against strains of E. faecium. Sequence analysis revealed that this phage is lytic and therefore has a good therapeutic potential.
+Poststernotomy mediastinitis (PSM) remains a serious infection and is significantly associated with high morbidity, short-term and long-term mortality. Gram-negative bacteria (GNB) are an underestimated cause of PSM, and there is little information on the risk factors, prevention, diagnosis and management of GNB PSM.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/ueg2.12164)
 
-10.1016/j.virusres.2021.198599
+10.1097/QCO.0000000000000785
 
 ---
 
@@ -220,15 +220,27 @@ Enterococcus spp. is a common commensal microorganism, however, some strains can
 
 ---
 
-## Charting the complexity of the activated sludge microbiome through a hybrid sequencing strategy
+## Charting the complexity of the activated sludge microbiome through a hybrid sequencing strategy.
+ 15.10.2021, _L Liu, Y Wang, Y Yang, D Wang, SH Cheng, C Zheng, T Zhang_
+
+
+Long-read sequencing has shown its tremendous potential to address genome assembly challenges, e.g., achieving the first telomere-to-telomere assembly of a gapless human chromosome. However, many issues remain unresolved when leveraging error-prone long reads to characterize high-complexity metagenomes, for instance, complete/high-quality genome reconstruction from highly complex systems.
 
 [Source](https://doi.org/10.1186/s40168-021-01155-1)
 
+10.1186/s40168-021-01155-1
+
 ---
 
-## PBK model-based prediction of intestinal microbial and host metabolism of zearalenone and consequences for its estrogenicity
+## PBK model-based prediction of intestinal microbial and host metabolism of zearalenone and consequences for its estrogenicity.
+ 14.10.2021, _DM Mendez-Catala, Q Wang, IMCM Rietjens_
+
+
+The aim of the present study was to develop physiologically-based kinetic (PBK) models for rat and human that include intestinal microbial and hepatic metabolism of zearalenone (ZEN) in order to predict systemic concentrations of ZEN and to obtain insight in the contribution of metabolism by the intestinal microbiota to the overall metabolism of ZEN.
 
 [Source](https://doi.org/10.1002/mnfr.202100443)
+
+10.1002/mnfr.202100443
 
 ---
 
