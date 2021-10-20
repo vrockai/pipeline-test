@@ -101,9 +101,10 @@ The development of colorectal cancer has been predicted to inolve the enteric mi
 ---
 
 ## Metagenomic Analysis of Saliva Reveals Disease-Associated Microbiotas in Patients With Periodontitis and Crohn's Disease-Associated Periodontitis.
- 18.10.2021, _B Sun, B Liu, X Gao, K Xing, L Xie, T Guo_
+ 19.10.2021, _B Sun, B Liu, X Gao, K Xing, L Xie, T Guo_
 
 
+_Corynebacterium, Crohn Disease, Dental Caries, Humans, Microbiota, Periodontitis, Prevotella, RNA, Ribosomal, 16S, Saliva_
 Patients with Crohn's disease frequently develop oral health problems and show a higher prevalence of oral manifestations, such as dental caries and periodontitis, than healthy individuals do. In this study, a metagenomic analysis was carried out to characterize the salivary microbiota in patients with either periodontitis or Crohn's disease-associated periodontitis. Saliva samples were collected from six patients with both Crohn's disease and periodontitis (Cm group), six patients with periodontitis alone (Pm group), and six healthy individuals (Hm group). Genomic DNA was collected from these samples for high-throughput Illumina HiSeq metagenomic sequencing. The composition of the bacterial communities and their metabolic pathways and gene functions were characterized and compared among the three study groups. The salivary microbial communities were significantly different among the three groups, with Firmicutes, Actinobacteria, and Bacteroidetes showing the most significant differences. The Cm and Pm groups had higher abundances of Bacteroides fragilis, Prevotella baroniae, Prevotella enoeca, and Prevotella dentasini than the Hm group. The Cm and Pm groups also showed differences in their salivary microbial communities, in that the Cm group had relatively high abundances of Firmicutes and Proteobacteria, whereas the Pm group had relatively high abundances of Actinobacteria, Bacteroidetes, and Fusobacteria. In total, 34 Pm-associated (e.g., Fusobacteria and Corynebacterium matruchotii), 18 Cm-associated (e.g., Capnocytophaga and Streptococcus oralis), and 18 Hm-associated (e.g., Streptococcus and Bacillales) predominant microbial species were identified. Most genes were involved in carbohydrate and amino acid metabolism, with those of the Cm and Pm groups showing more similarity to one another but significant differences from those of the Hm group. Most of the antibiotic resistance genes were found in the Pm group. In conclusion, the salivary microbial community structure and abundance were distinct among patients with Crohn's disease-associated periodontitis, patients with periodontitis, and healthy individuals. Further studies are needed to evaluate the potential value of these microbiota and microbiome differences in the clinical diagnosis and treatment of oral diseases.
 
 [Source](https://doi.org/10.3389/fcimb.2021.719411)
@@ -142,45 +143,87 @@ Poststernotomy mediastinitis (PSM) remains a serious infection and is significan
 
 ---
 
-## Cultivation of common bacterial species and strains from human skin, oral, and gut microbiota
+## Cultivation of common bacterial species and strains from human skin, oral, and gut microbiota.
+ 15.10.2021, _E Fleming, V Pabst, Z Scholar, R Xiong, AY Voigt, W Zhou, A Hoyt, R Hardy, A Peterson, R Beach, Y Ondouah-Nzutchi, J Dong, L Bateman, SD Vernon, J Oh_
+
+
+Genomics-driven discoveries of microbial species have provided extraordinary insights into the biodiversity of human microbiota. In addition, a significant portion of genetic variation between microbiota exists at the subspecies, or strain, level. High-resolution genomics to investigate species- and strain-level diversity and mechanistic studies, however, rely on the availability of individual microbes from a complex microbial consortia. High-throughput approaches are needed to acquire and identify the significant species- and strain-level diversity present in the oral, skin, and gut microbiome. Here, we describe and validate a streamlined workflow for cultivating dominant bacterial species and strains from the skin, oral, and gut microbiota, informed by metagenomic sequencing, mass spectrometry, and strain profiling.
 
 [Source](https://doi.org/10.1186/s12866-021-02314-y)
 
+10.1186/s12866-021-02314-y
+
 ---
 
-## Effect of chewing betel nut on the gut microbiota of Hainanese
+## Effect of chewing betel nut on the gut microbiota of Hainanese.
+ 14.10.2021, _L Ying, Y Yang, J Zhou, H Huang, G Du_
+
+
+Betel nut chewing (BNC) is prevalent in South Asia and Southeast Asia. BNC can affect host health by modulating the gut microbiota. The aim of this study is to evaluate the effect of BNC on the gut microbiota of the host. Feces samples were obtained from 34 BNC individuals from Ledong and Lingshui, Hainan, China. The microbiota was analyzed by 16S rRNA gene sequencing. BNC decreased the microbial α-diversity. Firmicutes, Bacteroidetes, Actinobacteria, and Proteobacteria were the predominant phyla, accounting for 99.35% of the BNC group. The Firmicutes-to-Bacteroidetes ratio was significantly increased in the BNC group compared to a control group. The abundances of the families Aerococcaceae, Neisseriaceae, Moraxellaceae, Porphyromonadaceae, and Planococcaceae were decreased in the BNC/BNC_Male/BNC_Female groups compared to the control group, whereas the abundances of Coriobacteriaceae, Streptococcaceae, Micrococcaceae, Xanthomonadaceae, Coxiellaceae, Nocardioidaceae, Rhodobacteraceae, and Succinivibrionaceae were increased. In general, the gut microbiome profiles suggest that BNC may have positive effects, such as an increase in the abundance of beneficial microbes and a reduction in the abundance of disease-related microbes. However, BNC may also produce an increase in the abundance of disease-related microbes. Therefore, extraction of prebiotic components could increase the beneficial value of betel nut.
 
 [Source](https://doi.org/10.1371/journal.pone.0258489)
 
+10.1371/journal.pone.0258489
+
 ---
 
-## Transplantation of fecal microbiota from patients with inflammatory bowel disease and depression alters immune response and behavior in recipient mice
+## Transplantation of fecal microbiota from patients with inflammatory bowel disease and depression alters immune response and behavior in recipient mice.
+ 15.10.2021, _HM Jang, JK Kim, MK Joo, YJ Shin, CK Lee, HJ Kim, DH Kim_
+
+
+Gut dysbiosis is closely associated with the occurrence of inflammatory bowel disease (IBD) and psychiatric disorder. Here, to understand the difference of gut microbiota composition and physiological effect between IBD patients with (IBD/D+) or without depression (IBD/D-), we analyzed the fecal microbiota composition of patients with IBD with (/D+) or without depression (/D-) and healthy volunteers (HVs) and examined the effects of these fecal microbiota transplantations (FMTs) on the occurrence of systemic inflammation and anxiety/depression in mice. FMTs from patients with IBD/D+ or IBD/D- caused IBD-like colitis in the transplanted mice: they increased the myeloperoxidase activity, IL-1β and IL-6 expression, and NF-κB+/CD11c+ cell population in the colon. Transplantation of the IBD/D+ patient feces (IBD/D+-F) caused IBD-like colitis more strongly than that of IBD/D--F. FMTs from patients with IBD/D+ also caused anxiety-/depression-like behaviors, increased the NF-κB+/Iba1+ and lipopolysaccharide (LPS)+/Iba1+ cell populations, and decreased the BDNF+/NeuN+ cell population in the hippocampus. They increased LPS levels in the blood. FMTs from patients with IBD/D- caused anxiety-like, but not depression-like, behaviors. α-/β-diversities and composition of gut microbiota in IBD-F were different from those of HV feces (HV-F). The Enterobacteriaceae and Enterococcaceae populations and LPS levels were higher in the IBD-F than in the HV-F. The Enterococcaceae population was higher in IBD/D+-F vs. IBD/D--F. However, the transplantation of HV-F into mice previously transplanted with IBD/D+-F significantly reduced depression-like behaviors, NF-κB+/Iba1+ and LPS+/Iba1+ cell populations in the hippocampus, LPS levels in the feces and blood, and IL-1β expression in the colon. These findings suggest that the outbreak of depression/anxiety may be dependent on the systemic inflammation with a leaky gut through the gut dysbiosis-attributable overproduction of bacterial LPS and suppression of tight junction protein expression in patients with IBD.
 
 [Source](https://doi.org/10.1038/s41598-021-00088-x)
 
+10.1038/s41598-021-00088-x
+
 ---
 
-## Temporal relationship between alterations in the gut microbiome and the development of polycystic ovary syndrome-like phenotypes in prenatally androgenized female mice
+## Temporal relationship between alterations in the gut microbiome and the development of polycystic ovary syndrome-like phenotypes in prenatally androgenized female mice.
+ 18.10.2021, _A Kusamoto, M Harada, JMK Azhary, C Kunitomi, E Nose, H Koike, Z Xu, Y Urata, T Kaku, N Takahashi, O Wada-Hiraike, Y Hirota, K Koga, T Fujii, Y Osuga_
+
+
+It has been recently recognized that prenatal androgen exposure is involved in the development of polycystic ovary syndrome (PCOS) in adulthood. In addition, the gut microbiome in adult patients and rodents with PCOS differs from that of healthy individuals. Moreover, recent studies have suggested that the gut microbiome may play a causative role in the pathogenesis of PCOS. We wondered whether prenatal androgen exposure induces gut microbial dysbiosis early in life and is associated with the development of PCOS in later life. To test this hypothesis, we studied the development of PCOS-like phenotypes in prenatally androgenized (PNA) female mice and compared the gut microbiome of PNA and control offspring from 4 to 16 weeks of age. PNA offspring showed a reproductive phenotype from 6 weeks and a metabolic phenotype from 12 weeks of age. The α-diversity of the gut microbiome of the PNA group was higher at 8 weeks and lower at 12 and 16 weeks of age, and the β-diversity differed from control at 8 weeks. However, a significant difference in the composition of gut microbiome between the PNA and control groups was already apparent at 4 weeks. Allobaculum and Roseburia were less abundant in PNA offspring, and may therefore be targets for future interventional studies. In conclusion, abnormalities in the gut microbiome appear as early as or even before PCOS-like phenotypes develop in PNA mice. Thus, the gut microbiome in early life is a potential target for the prevention of PCOS in later life.
 
 [Source](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202101051R)
 
+10.1096/fj.202101051R
+
 ---
 
-## Gut microbiota dysbiosis of type 2 diabetic mice impairs the intestinal daily rhythms of GLP-1 sensitivity
+## Gut microbiota dysbiosis of type 2 diabetic mice impairs the intestinal daily rhythms of GLP-1 sensitivity.
+ 14.10.2021, _E Grasset, A Puel, J Charpentier, P Klopp, JE Christensen, B Lelouvier, F Servant, V Blasco-Baque, F Tercé, R Burcelin_
+
+
+The gut-brain-beta cell glucagon-like peptide-1 (GLP-1)-dependent axis and the clock genes both control insulin secretion. Evidence shows that a keystone of this molecular interaction could be the gut microbiota. We analyzed in mice the circadian profile of GLP-1 sensitivity on insulin secretion and the impact of the autonomic neuropathy, antibiotic treated in different diabetic mouse models and in germ-free colonized mice. We show that GLP-1sensitivity is maximal during the dark feeding period, i.e., the postprandial state. Coincidently, the ileum expression of GLP-1 receptor and peripherin is increased and tightly correlated with a subset of clock gene. Since both are markers of enteric neurons, it suggests a role in the gut-brain-beta cell GLP-1-dependent axis. We evaluated the importance of gut microbiota dysbiosis and found that the abundance of ileum bacteria, particularly Ruminococcaceae and Lachnospiraceae, oscillated diurnally, with a maximum during the dark period, along with expression patterns of a subset of clock genes. This diurnal pattern of circadian gene expression and Lachnospiraceae abundance was also observed in two separate mouse models of gut microbiota dysbiosis and of autonomic neuropathy with impaired GLP-1 sensitivity (1.high-fat diet-fed type 2 diabetic, 2.antibiotic-treated/germ-free mice). Our data show that GLP-1 sensitivity relies on specific pattern of intestinal clock gene expression and specific gut bacteria. This new statement opens opportunities to treat diabetic patient with GLP-1-based therapies by using on a possible pre/probiotic co-treatment to improve the time-dependent efficiency of these therapies.
 
 [Source](https://doi.org/10.1007/s00592-021-01790-y)
 
+10.1007/s00592-021-01790-y
+
 ---
 
-## Diurnal oscillations in gut bacterial load and composition eclipse seasonal and lifetime dynamics in wild meerkats
+## Diurnal oscillations in gut bacterial load and composition eclipse seasonal and lifetime dynamics in wild meerkats.
+ 15.10.2021, _A Risely, K Wilhelm, T Clutton-Brock, MB Manser, S Sommer_
+
+
+Circadian rhythms in gut microbiota composition are crucial for metabolic function, yet the extent to which they govern microbial dynamics compared to seasonal and lifetime processes remains unknown. Here, we investigate gut bacterial dynamics in wild meerkats (Suricata suricatta) over a 20-year period to compare diurnal, seasonal, and lifetime processes in concert, applying ratios of absolute abundance. We found that diurnal oscillations in bacterial load and composition eclipsed seasonal and lifetime dynamics. Diurnal oscillations were characterised by a peak in Clostridium abundance at dawn, were associated with temperature-constrained foraging schedules, and did not decay with age. Some genera exhibited seasonal fluctuations, whilst others developed with age, although we found little support for microbial senescence in very old meerkats. Strong microbial circadian rhythms in this species may reflect the extreme daily temperature fluctuations typical of arid-zone climates. Our findings demonstrate that accounting for circadian rhythms is essential for future gut microbiome research.
 
 [Source](https://doi.org/10.1038/s41467-021-26298-5)
 
+10.1038/s41467-021-26298-5
+
 ---
 
-## Diet diversity and environment determine the intestinal microbiome and bacterial pathogen load of fire salamanders
+## Diet diversity and environment determine the intestinal microbiome and bacterial pathogen load of fire salamanders.
+ 15.10.2021, _Y Wang, HK Smith, E Goossens, L Hertzog, MC Bletz, D Bonte, K Verheyen, L Lens, M Vences, F Pasmans, A Martel_
+
+
+Diverse communities of symbiotic microbes inhabit the digestive systems of vertebrates and play a crucial role in animal health, and host diet plays a major role in shaping the composition and diversity of these communities. Here, we characterized diet and gut microbiome of fire salamander populations from three Belgian forests. We carried out DNA metabarcoding on fecal samples, targeting eukaryotic 18S rRNA of potential dietary prey items, and bacterial 16S rRNA of the concomitant gut microbiome. Our results demonstrated an abundance of soft-bodied prey in the diet of fire salamanders, and a significant difference in the diet composition between males and females. This sex-dependent effect on diet was also reflected in the gut microbiome diversity, which is higher in males than female animals. Proximity to human activities was associated with increased intestinal pathogen loads. Collectively, the data supports a relationship between diet, environment and intestinal microbiome in fire salamanders, with potential health implications.
 
 [Source](https://doi.org/10.1038/s41598-021-98995-6)
+
+10.1038/s41598-021-98995-6
 
 ---
 
@@ -190,9 +233,27 @@ Poststernotomy mediastinitis (PSM) remains a serious infection and is significan
 
 ---
 
-## Does probiotics work for bacterial vaginosis and vulvovaginal candidiasis
+## Does probiotics work for bacterial vaginosis and vulvovaginal candidiasis.
+ 14.10.2021, _Y Han, QL Ren_
+
+
+The different Lactobacillus strains of probiotics have been applied to the treatment and prevention of bacterial vaginosis and vulvovaginal candidiasis. The experimental data demonstrated that it works well via reducing the number of harmful bacteria, maintaining the acidic microenvironment, inhibiting the immune response, and so on, to restore the vaginal microecology. However, the clinical data indicated that it is not sufficient to support the use of probiotics in the intervention of vulvovaginal candidiasis rather than bacterial vaginosis. Hunting for novel probiotic strains and uncovering the precise mechanism of probiotics, especially with the new concept gut-vagina axis, to maintain the homeostasis of vaginal microbiota should be a great challenge in the future.
 
 [Source](https://doi.org/10.1016/j.coph.2021.09.004)
+
+10.1016/j.coph.2021.09.004
+
+---
+
+## Characterization of a new bacteriocin-like inhibitory peptide produced by Lactobacillus sakei B-RKM 0559.
+ 15.10.2021, _GK Abitayeva, MS Urazova, AS Abilkhadirov, ZS Sarmurzina, SM Shaikhin_
+
+
+The biopreservation strategy allows extending the shelf life and food safety through the use of indigenous or controlled microbiota and their antimicrobial compounds. The aim of this work was to characterize an inhibitory substance with bacteriocin-like activity (Sak-59) produced by the potentially probiotic L. sakei strain from artisanal traditional Kazakh horse meat product Kazy. The maximum production of Sak-59 occurred at the stationary phase of the L. sakei growth. Sak-59 showed inhibitory activity against gram-positive meat spoilage bacteria strains of Listeria monocytogenes, Staphylococcus aureus, and pathogenic gram-negative bacteria strains of Serratia marcescens and Escherichia coli, but not against the tested Lactobacilli strains. Sak-59 activity, as measured by diffusion assay in agar wells, was completely suppressed after treatment with proteolytic enzymes and remained stable after treatment with α-amylase and lipase, indicating that Sak-59 is a peptide and most likely not glycosylated or lipidated. It was concluded that Sak-59 is a potential new bacteriocin with a characteristic activity spectrum, which can be useful in the food and feed industries.
+
+[Source](https://doi.org/10.1007/s10529-021-03193-z)
+
+10.1007/s10529-021-03193-z
 
 ---
 
@@ -202,9 +263,15 @@ Poststernotomy mediastinitis (PSM) remains a serious infection and is significan
 
 ---
 
-## Probiotic Interventions Alleviate Food Allergy Symptoms Correlated With Cesarean Section: A Murine Model
+## Probiotic Interventions Alleviate Food Allergy Symptoms Correlated With Cesarean Section: A Murine Model.
+ 16.10.2021, _BY Jin, Z Li, YN Xia, LX Li, ZX Zhao, XY Li, Y Li, B Li, RC Zhou, SC Fu, SY Li, YQ Li_
+
+
+Delivery by cesarean section (CS) is linked to an increased incidence of food allergies in children and affects early gut microbiota colonization. Furthermore, emerging evidence has connected disordered intestinal microbiota to food allergies. Here, we investigated the impact of CS on a rat model for food allergy to ovalbumin (OVA). Rats delivered by CS were found to be more responsive to OVA sensitization than vaginally born ones, displaying a greater reduction in rectal temperature upon challenge, worse diarrhea, and higher levels of OVA-specific antibodies and histamine. 16S rRNA sequencing of feces revealed reduced levels of Lactobacillus and Bifidobacterium in the CS rats. Preventative supplementation with a probiotic combination containing Lactobacillus and Bifidobacterium could protect CS rats against an allergic response to OVA, indicating that the microbiota dysbiosis contributes to CS-related response. Additionally, probiotic intervention early in life might help to rebuild aberrant Th2 responses and tight junction proteins, both of which have been linked to CS-related high allergic reactions. Taken together, this study shows that disordered intestinal microbiota plays an essential role in the pathogenesis of food allergy mediated by CS. More importantly, interventions that modulate the microbiota composition in early life are therapeutically relevant for CS-related food allergies.
 
 [Source](https://doi.org/10.3389/fimmu.2021.741371)
+
+10.3389/fimmu.2021.741371
 
 ---
 
