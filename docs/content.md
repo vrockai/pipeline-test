@@ -40,9 +40,15 @@ We observed high rates of bloodstream infections (BSIs) following fecal microbio
 
 ---
 
-## Probiotic consumption influences universal adaptive mutations in indigenous human and mouse gut microbiota
+## Probiotic consumption influences universal adaptive mutations in indigenous human and mouse gut microbiota.
+ 19.10.2021, _C Ma, C Zhang, D Chen, S Jiang, S Shen, D Huo, S Huang, Q Zhai, J Zhang_
+
+
+The adaptive evolution in indigenous intestinal microbes derived from probiotics is critical to safety and efficacy evaluation of probiotics, yet it is still largely underexplored. Here, through 11 publicly accessible datasets, we demonstrated that probiotic consumption can lead to widespread single-nucleotide variants (SNVs) in the native microbiota. Interestingly, the same probiotic strains introduced far more SNVs in mouse gut than humans. Furthermore, the pattern of probiotics-induced SNVs was highly probiotic-strain specific, and 17 common SNVs in Faecalibacterium prausnitzii genome were identified cross studies, which might lead to changes in bacterial protein structure. Further, nearly 50% of F. prausnitzii SNVs can be inherited for six months in an independent human cohort, whereas the other half only transiently occurred. Collectively, our study substantially extended our understanding of co-evolution of the probiotics and the indigenous gut microbiota, highlighting the importance of assessment of probiotics efficacy and safety in an integrated manner.
 
 [Source](https://www.nature.com/articles/s42003-021-02724-8)
+
+10.1038/s42003-021-02724-8
 
 ---
 
@@ -143,9 +149,15 @@ The trillions of microbes living in the gut-the gut microbiota-play an important
 
 ---
 
-## Response to PD-1-Based Immunotherapy for Non-Small Cell Lung Cancer Altered by Gut Microbiota
+## Response to PD-1-Based Immunotherapy for Non-Small Cell Lung Cancer Altered by Gut Microbiota.
+ 19.10.2021, _D He, X Li, R An, L Wang, Y Wang, S Zheng, X Chen, X Wang_
+
+
+This study was designed to identify a group of bacteria in the human gut microbiota with specific effects on PD-1-based immunotherapy for patients with non-small cell lung cancer (NSCLC).
 
 [Source](https://link.springer.com/article/10.1007%2Fs40487-021-00171-3)
+
+10.1007/s40487-021-00171-3
 
 ---
 
@@ -179,15 +191,27 @@ The bacillus Calmette-Guérin (BCG) vaccine protects against tuberculosis and he
 
 ---
 
-## Sandalwood seed oil improves insulin sensitivity in high-fat/high-sucrose diet-fed rats associated with altered intestinal microbiota and its metabolites
+## Sandalwood seed oil improves insulin sensitivity in high-fat/high-sucrose diet-fed rats associated with altered intestinal microbiota and its metabolites.
+ 19.10.2021, _X Gao, H Zhang, K Li, Y Shi, X Guo, L Wang, D Li_
+
+
+Sandalwood seed oil (SSO), rich in ximenynic acid, is extracted from the seed kernels of Santalum spicatum. The current work aimed to clarify the potential mechanisms of SSO in preventing insulin resistance (IR) by investigating the intestinal microbiota and its metabolites. Fifty male Sprague-Dawley rats were randomly divided into a standard chow group (N), and four high-fat/high-sucrose (HFHS) diet-fed groups plus 7% of SSO, fish oil (FO), linseed oil (LO) or sunflower oil (SO), respectively. After 12 weeks, the feces were collected and subsequently the rats were sacrificed for collecting blood and tissues. The results indicated that the SSO, FO and LO groups had a lower ratio of Firmicutes to Bacteroidetes (F/B) and lower levels of Actinobacteria phylum in their feces compared to the SO group. HOMA-IR was positively correlated with F/B (r = 0.63) and Actinobacteria (r = 0.64). At the genus level, beneficial bacteria, including Oscillospira, Clostridium, Turicibacter, Ruminococcus and Coprococcus, were more abundant, while destructive bacteria, such as Collinsella, were less abundant in the SSO group than in the SO group. The concentrations of fecal short-chain fatty acids (SCFAs) were higher, and the serum LPS and trimethylamine N-oxide (TMAO) were lower in the SSO, FO and LO groups than the SO group. In addition, SCFAs were negatively (r: -0.45 to -0.82), and LPS (r: 0.12 to 0.42) and TMAO (r: 0.32 to 0.49) were positively correlated with HOMA-IR and serum IL-1β, IL-6 and TNF-α. In summary, the prevention effect of SSO on HFHS induced IR was associated with altered intestinal microbiota composition and the production of microbial metabolites.
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2021/FO/D1FO02239C)
 
+10.1039/d1fo02239c
+
 ---
 
-## Active virus-host interactions at sub-freezing temperatures in Arctic peat soil
+## Active virus-host interactions at sub-freezing temperatures in Arctic peat soil.
+ 20.10.2021, _G Trubl, JA Kimbrel, J Liquet-Gonzalez, EE Nuccio, PK Weber, J Pett-Ridge, JK Jansson, MP Waldrop, SJ Blazewicz_
+
+
+Winter carbon loss in northern ecosystems is estimated to be greater than the average growing season carbon uptake and is primarily driven by microbial decomposers. Viruses modulate microbial carbon cycling via induced mortality and metabolic controls, but it is unknown whether viruses are active under winter conditions (anoxic and sub-freezing temperatures).
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01154-2)
+
+10.1186/s40168-021-01154-2
 
 ---
 
@@ -239,9 +263,15 @@ Ultrasound is one of the most promising non-thermal an emerging technique in foo
 
 ---
 
-## Effect of roasting conditions on cocoa bioactivity and gut microbiota modulation
+## Effect of roasting conditions on cocoa bioactivity and gut microbiota modulation.
+ 19.10.2021, _LY Maldonado-Mateus, S Perez-Burillo, A Lerma-Aguilera, D Hinojosa-Nogueira, S Ruíz-Pérez, MJ Gosalbes, MP Francino, JÁ Rufián-Henares, S Pastoriza de la Cueva_
+
+
+Cocoa is a highly consumed food with beneficial effects on human health. Cocoa roasting has an important influence on its sensory and nutritional characteristics; therefore, roasting could also play a role in cocoa bioactivity. Thus, the aim of this paper is to unravel the effect of cocoa roasting conditions on its antioxidant capacity and modifications of gut microbiota after in vitro digestion-fermentation. HMF and furfural, chemical markers of non-enzymatic browning, were analyzed in unroasted and roasted cocoa powder at different temperatures, as well as different chocolates. The antioxidant capacity decreased with roasting, most probably due to the loss of phenolic compounds during heating. In the case of the evaluated chocolates, the antioxidant capacity was 2-3 times higher in the fermented fraction. On the other hand, HMF and furfural content increased during roasting due to increasing temperatures. Moreover, unroasted and roasted cocoa powder have different effects on gut microbial communities. Roasted cocoa favored butyrate production, whereas unroasted cocoa favored acetate and propionate production in a significant manner. In addition, unroasted and roasted cocoa produced significantly different gut microbial communities in terms of composition. Although many bacteria were affected, Veillonella and Faecalibacterium were some of the most discriminant ones; whereas the former is a propionate producer, the latter is a butyrate producer that has also been linked to positive effects on the inflammatory health of the gut and the immune system. Therefore, unroasted and roasted cocoa (regardless of the roasting temperature) promote different bacteria and a different SCFA production.
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2021/FO/D1FO01155C)
+
+10.1039/d1fo01155c
 
 ---
 
