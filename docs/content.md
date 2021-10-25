@@ -34,21 +34,39 @@ The mammalian gut harbors a complex and dynamic microbial ecosystem: the microbi
 
 ---
 
-## Analysis of gut microbiota and metabolites in patients with rheumatoid arthritis and identification of potential biomarkers
+## Analysis of gut microbiota and metabolites in patients with rheumatoid arthritis and identification of potential biomarkers.
+ 21.10.2021, _Y Chen, C Ma, L Liu, J He, C Zhu, F Zheng, W Dai, X Hong, D Liu, D Tang, Y Dai_
+
+
+Rheumatoid arthritis (RA) is an autoimmune disease described by joint destruction, synovitis and pannus formation. The gut microbiota acts as an environmental factor that plays an important role in RA, but little research regarding the etiopathogenic mechanisms of the microbiome in RA has been carried out. We used an integrated approach of 16S rRNA gene sequencing and ultrahigh-performance liquid chromatography-mass spectrometry-based metabolomics to analyze the structure and diversity of the intestinal flora and metabolites of the gut microbiota in RA patients compared with healthy subjects. In this study, α-diversity analysis of the gut microbiota showed that there was no significant difference between the healthy control (HC) and RA groups. However, β-diversity analysis showed that there was a significant difference between the two groups. Further analysis of alteration of the gut microbiota revealed that at the phylum level, the relative abundance of p_Bacteroidetes was significantly decreased in the RA group, while that of Verrucomicrobia and Proteobacteria was significantly increased in the RA group. At the genus level, Bacteroides, Faecalibacterium and some probiotics were decreased in the RA group, while 97 genera, including Lactobacillus, Streptococcus and Akkermansia, were increased in the RA group. Seventy-four differentially abundant metabolites were identified between the HC and RA groups, and we identified two potential biomarkers (9,12-octadecadiynoic acid and 10Z-nonadecenoic acid) in RA.
 
 [Source](https://doi.org/10.18632/aging.203641)
 
+10.18632/aging.203641
+
 ---
 
-## Gut-microbiota-microglia-brain interactions in Alzheimer’s disease: knowledge-based, multi-dimensional characterization
+## Gut-microbiota-microglia-brain interactions in Alzheimer's disease: knowledge-based, multi-dimensional characterization.
+ 21.10.2021, _Q Wang, PB Davis, X Qi, SG Chen, ME Gurney, G Perry, PM Doraiswamy, R Xu_
+
+
+Interactions between the gut microbiota, microglia, and aging may modulate Alzheimer's disease (AD) pathogenesis but the precise nature of such interactions is not known.
 
 [Source](https://doi.org/10.1186/s13195-021-00917-1)
 
+10.1186/s13195-021-00917-1
+
 ---
 
-## Alterations in the oral microbiome in HIV infection: causes, effects and potential interventions
+## Alterations in the oral microbiome in HIV infection: causes, effects and potential interventions.
+ 22.10.2021, _S Li, B Su, QS He, H Wu, T Zhang_
+
+
+A massive depletion of CD4+ T lymphocytes has been described in early and acute human immunodeficiency virus (HIV) infection, leading to an imbalance between the human microbiome and immune responses. In recent years, a growing interest in the alterations in gut microbiota in HIV infection has led to many studies; however, only few studies have been conducted to explore the importance of oral microbiome in HIV-infected individuals. Evidence has indicated the dysbiosis of oral microbiota in people living with HIV (PLWH). Potential mechanisms might be related to the immunodeficiency in the oral cavity of HIV-infected individuals, including changes in secretory components such as reduced levels of enzymes and proteins in saliva and altered cellular components involved in the reduction and dysfunction of innate and adaptive immune cells. As a result, disrupted oral immunity in HIV-infected individuals leads to an imbalance between the oral microbiome and local immune responses, which may contribute to the development of HIV-related diseases and HIV-associated non-acquired immunodeficiency syndrome comorbidities. Although the introduction of antiretroviral therapy (ART) has led to a significant decrease in occurrence of the opportunistic oral infections in HIV-infected individuals, the dysbiosis in oral microbiome persists. Furthermore, several studies with the aim to investigate the ability of probiotics to regulate the dysbiosis of oral microbiota in HIV-infected individuals are ongoing. However, the effects of ART and probiotics on oral microbiome in HIV-infected individuals remain unclear. In this article, we review the composition of the oral microbiome in healthy and HIV-infected individuals and the possible effect of oral microbiome on HIV-associated oral diseases. We also discuss how ART and probiotics influence the oral microbiome in HIV infection. We believe that a deeper understanding of composition and function of the oral microbiome is critical for the development of effective preventive and therapeutic strategies for HIV infection.
 
 [Source](https://doi.org/10.1097/CM9.0000000000001825)
+
+10.1097/CM9.0000000000001825
 
 ---
 
@@ -58,15 +76,39 @@ The mammalian gut harbors a complex and dynamic microbial ecosystem: the microbi
 
 ---
 
-## Upper Respiratory Tract Microbiome of Australian Aboriginal and Torres Strait Islander Children in Ear and Nose Health and Disease
+## Upper Respiratory Tract Microbiome of Australian Aboriginal and Torres Strait Islander Children in Ear and Nose Health and Disease.
+ 20.10.2021, _A Coleman, J Zaugg, A Wood, K Cottrell, EG Håkansson, J Adams, M Brown, A Cervin, S Bialasiewicz_
+
+
+The objective of this study was to examine the nasal microbiota in relation to otitis media (OM) status and nose health in Indigenous Australian children. Children 2 to 7 years of age were recruited from two northern Australian (Queensland) communities. Clinical histories were obtained through parent interviews and reviews of the medical records. Nasal cavity swab samples were obtained, and the children's ears, nose, and throat were examined. DNA was extracted and analyzed by 16S rRNA amplicon next-generation sequencing of the V3/V4 region, in combination with previously generated culture data. A total of 103 children were recruited (mean age, 4.7 years); 17 (16.8%) were healthy, i.e., normal examination results and no history of OM. The nasal microbiota differed significantly in relation to OM status and nose health. Children with historical OM had greater relative abundance of Moraxella, compared to healthy children, despite both having healthy ears at the time of swabbing. Children with healthy noses had greater relative abundance of Staphylococcus aureus, compared to those with rhinorrhea. Dolosigranulum was correlated with Corynebacterium in healthy children. Haemophilus and Streptococcus were correlated across phenotypes. Ornithobacterium was absent or was present with low relative abundance in healthy children and clustered around otopathogens. It correlated with Helcococcus and Dichelobacter. Dolosigranulum and Corynebacterium form a synergism that promotes upper respiratory tract (URT)/ear health in Indigenous Australian children. Ornithobacterium likely represents "Candidatus Ornithobacterium hominis" and in this population is correlated with a novel bacterium that appears to be related to poor URT/ear health. IMPORTANCE Recurring and chronic infections of the ear (OM) are disproportionately prevalent in disadvantaged communities across the globe and, in particular, within Indigenous communities. Despite numerous intervention strategies, OM persists as a major health issue and is the leading cause of preventable hearing loss. In disadvantaged communities, this hearing loss is associated with negative educational and social development outcomes, and consequently, poorer employment prospects and increased contact with the justice system in adulthood. Thus, a better understanding of the microbial ecology is needed in order to identify new targets to treat, as well as to prevent the infections. This study used a powerful combination of 16S rRNA gene sequencing and extended culturomics to show that Dolosigranulum pigrum, a bacterium previously identified as a candidate protective species, may require cocolonization with Corynebacterium pseudodiphtheriticum in order to prevent OM. Additionally, emerging and potentially novel pathogens and bacteria were identified.
 
 [Source](https://journals.asm.org/doi/10.1128/Spectrum.00367-21)
 
+10.1128/Spectrum.00367-21
+
 ---
 
-## The Human Microbiome in immunobullous disorders and lichen planus
+## The Human Microbiome in immunobullous disorders and lichen planus.
+ 20.10.2021, _M Karimova, D Moyes, M Ide, J Setterfield_
+
+
+For several decades, there has been a significant growth in the incidence of autoimmune diseases. Studies indicate that genetic factors may not be the only trigger for disease development and that dysbiosis of the microbiome may be another mechanism involved in the pathogenesis of autoimmune diseases. The role of the microbiome in the development of common skin disorders such as psoriasis, atopic dermatitis, acne, and rosacea is increasingly well understood. However, few studies have focused on lichen planus and the rare acquired immunobullous diseases (AIBD), both mucocutaneous groups of disorders linked to skin, oral and gut microbiomes. This review provides an insight into the current understanding of how the microbiome may contribute to the development of autoimmunity as well as themaintenance and exacerbation of acquired immunobullous and lichenoid diseases. These mechanisms may have implications for future preventive and therapeutic approaches.
 
 [Source](https://doi.org/10.1111/ced.14987)
+
+10.1111/ced.14987
+
+---
+
+## Targeting Probiotics in Rheumatoid Arthritis.
+ 23.10.2021, _SG Bungau, T Behl, A Singh, A Sehgal, S Singh, S Chigurupati, S Vijayabalan, S Das, VR Palanimuthu_
+
+
+Rheumatoid arthritis (RA) is a progressive inflammatory disorder characterized by swollen joints, discomfort, tightness, bone degeneration and frailty. Genetic, agamogenetic and sex-specific variables, Prevotella, diet, oral health and gut microbiota imbalance are all likely causes of the onset or development of RA, perhaps the specific pathways remain unknown. Lactobacillus spp. probiotics are often utilized as relief or dietary supplements to treat bowel diseases, build a strong immune system and sustain the immune system. At present, the action mechanism of Lactobacillus spp. towards RA remains unknown. Therefore, researchers conclude the latest analysis to effectively comprehend the ultimate pathogenicity of rheumatoid arthritis, as well as the functions of probiotics, specifically Lactobacillus casei or Lactobacillus acidophilus, in the treatment of RA in therapeutic and diagnostic reports. RA is a chronic inflammation immunological illness wherein the gut microbiota is affected. Probiotics are organisms that can regulate gut microbiota, which may assist to relieve RA manifestations. Over the last two decades, there has been a surge in the use of probiotics. However, just a few research have considered the effect of probiotic administration on the treatment and prevention of arthritis. Randomized regulated experimental trials have shown that particular probiotics supplement has anti-inflammatory benefits, helps people with RA enhance daily activities and alleviates symptoms. As a result, utilizing probiotic microorganisms as therapeutics could be a potential possibility for arthritis treatment. This review highlights the known data on the therapeutic and preventative effects of probiotics in RA, as well as their interactions.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jgh.15716)
+
+10.3390/nu13103376
 
 ---
 
@@ -76,9 +118,15 @@ The mammalian gut harbors a complex and dynamic microbial ecosystem: the microbi
 
 ---
 
-## Isolation and Identification of Potential Probiotic Bacteria from Human Milk
+## Isolation and Identification of Potential Probiotic Bacteria from Human Milk.
+ 21.10.2021, _QS Damaceno, B Gallotti, IMM Reis, YCP Totte, GB Assis, HC Figueiredo, TF Silva, V Azevedo, JR Nicoli, FS Martins_
+
+
+Breast milk was long considered a sterile environment, but now it is known to harbor many bacteria that will shape the newborn microbiota. The benefits of breastfeeding to newborn health are, on some level, related to the presence of beneficial bacteria in human milk. Therefore, this study aims to investigate and isolate potential probiotics present in human milk that might be associated with improved health in infants, being potential candidates to be used in simulated human milk formula. Milk samples of 24 healthy mothers were collected at three time points: 30 min (colostrum), 5-9 days (transitional milk), and 25-30 days (mature milk) postpartum. Samples were evaluated by culturing, and the isolated bacteria were identified by MALDI-TOF MS and 16S DNA sequencing. In vitro screening for probiotics properties was performed, and the potential probiotics were mono-associated with germ-free mice to evaluate their ability to colonize the gastrointestinal tract. The microorganisms were submitted to the spray-drying process to check their viability for a potential simulated milk formula production. Seventy-seven bacteria were isolated from breast milk pertaining to four bacterial genera (Staphylococcus, Streptococcus, Leuconostoc, and Lacticaseibacillus). Four potential probiotics were selected: Lacticaseibacillus rhamnosus (n = 2) and Leuconostoc mesenteroides (n = 2). Isolates were able to colonize the gastrointestinal tract of germ-free mice and remained viable after the spray-drying process. In conclusion, breast milk harbors a unique microbiota with beneficial microorganisms that will impact the newborn gut colonization, being an essential source of probiotic candidates to be used in a formula of simulated maternal milk.
 
 [Source](https://doi.org/10.1007/s12602-021-09866-5)
+
+10.1007/s12602-021-09866-5
 
 ---
 
@@ -142,9 +190,15 @@ The mammalian gut harbors a complex and dynamic microbial ecosystem: the microbi
 
 ---
 
-## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches
+## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches.
+ 20.10.2021, _SH Youseif, FH Abd El-Megeed, EA Humm, M Maymon, AH Mohamed, SA Saleh, AM Hirsch_
+
+
+Rhizosphere and root-associated bacteria are key components of crop production and sustainable agriculture. However, utilization of these beneficial bacteria is often limited by conventional culture techniques because a majority of soil microorganisms cannot be cultured using standard laboratory media. Therefore, the purpose of this study was to improve culturability and investigate the diversity of the bacterial communities from the wheat rhizosphere microbiome collected from three locations in Egypt with contrasting soil characteristics by using metagenomic analysis and improved culture-based methods. The improved strategies of the culture-dependent approach included replacing the agar in the medium with gellan gums and modifying its preparation by autoclaving the phosphate and gelling agents separately. Compared to the total operational taxonomic units (OTUs) observed from the metagenomic data sets derived from the three analyzed soils, 1.86 to 2.52% of the bacteria were recovered using the modified cultivation strategies, whereas less than 1% were obtained employing the standard cultivation protocols. Twenty-one percent of the cultivable isolates exhibited multiple plant growth-promoting (PGP) properties, including P solubilization activity and siderophore production. From the metagenomic analysis, the most abundant phyla were Proteobacteria, Actinobacteria, Chloroflexi, Bacteroidetes, and Firmicutes. Moreover, the relative abundance of the specific bacterial taxa was correlated with the soil characteristics, demonstrating the effect of the soil in modulating the plant rhizosphere microbiome. IMPORTANCE Bacteria colonizing the rhizosphere, a narrow zone of soil surrounding the root system, are known to have beneficial effects in improving the growth and stress tolerance of plants. However, most bacteria in natural environments, especially those in rhizosphere soils, are recalcitrant to cultivation using traditional techniques, and thus their roles in soil health and plant growth remain unexplored. Hence, investigating new culture media and culture conditions to bring "not-yet-cultured" species into cultivation and to identify new functions is still an important task for all microbiologists. To this end, we describe improved cultivation protocols that increase the number and diversity of cultured bacteria from the rhizosphere of wheat plants. Using such approaches will lead to new insights into culturing more beneficial bacteria that live in the plant rhizosphere, in so doing creating greater opportunities not only for field application but also for promoting sustainability.
 
 [Source](https://journals.asm.org/doi/10.1128/Spectrum.00678-21)
+
+10.1128/Spectrum.00678-21
 
 ---
 
