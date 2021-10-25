@@ -88,15 +88,9 @@ The objective of this study was to examine the nasal microbiota in relation to o
 
 ---
 
-## The Human Microbiome in immunobullous disorders and lichen planus.
- 20.10.2021, _M Karimova, D Moyes, M Ide, J Setterfield_
-
-
-For several decades, there has been a significant growth in the incidence of autoimmune diseases. Studies indicate that genetic factors may not be the only trigger for disease development and that dysbiosis of the microbiome may be another mechanism involved in the pathogenesis of autoimmune diseases. The role of the microbiome in the development of common skin disorders such as psoriasis, atopic dermatitis, acne, and rosacea is increasingly well understood. However, few studies have focused on lichen planus and the rare acquired immunobullous diseases (AIBD), both mucocutaneous groups of disorders linked to skin, oral and gut microbiomes. This review provides an insight into the current understanding of how the microbiome may contribute to the development of autoimmunity as well as themaintenance and exacerbation of acquired immunobullous and lichenoid diseases. These mechanisms may have implications for future preventive and therapeutic approaches.
+## The Human Microbiome in immunobullous disorders and lichen planus
 
 [Source](https://doi.org/10.1111/ced.14987)
-
-10.1111/ced.14987
 
 ---
 
@@ -190,15 +184,9 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches.
- 20.10.2021, _SH Youseif, FH Abd El-Megeed, EA Humm, M Maymon, AH Mohamed, SA Saleh, AM Hirsch_
-
-
-Rhizosphere and root-associated bacteria are key components of crop production and sustainable agriculture. However, utilization of these beneficial bacteria is often limited by conventional culture techniques because a majority of soil microorganisms cannot be cultured using standard laboratory media. Therefore, the purpose of this study was to improve culturability and investigate the diversity of the bacterial communities from the wheat rhizosphere microbiome collected from three locations in Egypt with contrasting soil characteristics by using metagenomic analysis and improved culture-based methods. The improved strategies of the culture-dependent approach included replacing the agar in the medium with gellan gums and modifying its preparation by autoclaving the phosphate and gelling agents separately. Compared to the total operational taxonomic units (OTUs) observed from the metagenomic data sets derived from the three analyzed soils, 1.86 to 2.52% of the bacteria were recovered using the modified cultivation strategies, whereas less than 1% were obtained employing the standard cultivation protocols. Twenty-one percent of the cultivable isolates exhibited multiple plant growth-promoting (PGP) properties, including P solubilization activity and siderophore production. From the metagenomic analysis, the most abundant phyla were Proteobacteria, Actinobacteria, Chloroflexi, Bacteroidetes, and Firmicutes. Moreover, the relative abundance of the specific bacterial taxa was correlated with the soil characteristics, demonstrating the effect of the soil in modulating the plant rhizosphere microbiome. IMPORTANCE Bacteria colonizing the rhizosphere, a narrow zone of soil surrounding the root system, are known to have beneficial effects in improving the growth and stress tolerance of plants. However, most bacteria in natural environments, especially those in rhizosphere soils, are recalcitrant to cultivation using traditional techniques, and thus their roles in soil health and plant growth remain unexplored. Hence, investigating new culture media and culture conditions to bring "not-yet-cultured" species into cultivation and to identify new functions is still an important task for all microbiologists. To this end, we describe improved cultivation protocols that increase the number and diversity of cultured bacteria from the rhizosphere of wheat plants. Using such approaches will lead to new insights into culturing more beneficial bacteria that live in the plant rhizosphere, in so doing creating greater opportunities not only for field application but also for promoting sustainability.
+## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches
 
 [Source](https://journals.asm.org/doi/10.1128/Spectrum.00678-21)
-
-10.1128/Spectrum.00678-21
 
 ---
 
