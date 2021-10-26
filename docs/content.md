@@ -88,14 +88,20 @@ The objective of this study was to examine the nasal microbiota in relation to o
 
 ---
 
-## The Human Microbiome in immunobullous disorders and lichen planus
+## The Human Microbiome in immunobullous disorders and lichen planus.
+ 20.10.2021, _M Karimova, D Moyes, M Ide, J Setterfield_
+
+
+For several decades, there has been a significant growth in the incidence of autoimmune diseases. Studies indicate that genetic factors may not be the only trigger for disease development and that dysbiosis of the microbiome may be another mechanism involved in the pathogenesis of autoimmune diseases. The role of the microbiome in the development of common skin disorders such as psoriasis, atopic dermatitis, acne, and rosacea is increasingly well understood. However, few studies have focused on lichen planus and the rare acquired immunobullous diseases (AIBD), both mucocutaneous groups of disorders linked to skin, oral and gut microbiomes. This review provides an insight into the current understanding of how the microbiome may contribute to the development of autoimmunity as well as themaintenance and exacerbation of acquired immunobullous and lichenoid diseases. These mechanisms may have implications for future preventive and therapeutic approaches.
 
 [Source](https://doi.org/10.1111/ced.14987)
+
+10.1111/ced.14987
 
 ---
 
 ## Targeting Probiotics in Rheumatoid Arthritis.
- 23.10.2021, _SG Bungau, T Behl, A Singh, A Sehgal, S Singh, S Chigurupati, S Vijayabalan, S Das, VR Palanimuthu_
+ 25.10.2021, _SG Bungau, T Behl, A Singh, A Sehgal, S Singh, S Chigurupati, S Vijayabalan, S Das, VR Palanimuthu_
 
 
 Rheumatoid arthritis (RA) is a progressive inflammatory disorder characterized by swollen joints, discomfort, tightness, bone degeneration and frailty. Genetic, agamogenetic and sex-specific variables, Prevotella, diet, oral health and gut microbiota imbalance are all likely causes of the onset or development of RA, perhaps the specific pathways remain unknown. Lactobacillus spp. probiotics are often utilized as relief or dietary supplements to treat bowel diseases, build a strong immune system and sustain the immune system. At present, the action mechanism of Lactobacillus spp. towards RA remains unknown. Therefore, researchers conclude the latest analysis to effectively comprehend the ultimate pathogenicity of rheumatoid arthritis, as well as the functions of probiotics, specifically Lactobacillus casei or Lactobacillus acidophilus, in the treatment of RA in therapeutic and diagnostic reports. RA is a chronic inflammation immunological illness wherein the gut microbiota is affected. Probiotics are organisms that can regulate gut microbiota, which may assist to relieve RA manifestations. Over the last two decades, there has been a surge in the use of probiotics. However, just a few research have considered the effect of probiotic administration on the treatment and prevention of arthritis. Randomized regulated experimental trials have shown that particular probiotics supplement has anti-inflammatory benefits, helps people with RA enhance daily activities and alleviates symptoms. As a result, utilizing probiotic microorganisms as therapeutics could be a potential possibility for arthritis treatment. This review highlights the known data on the therapeutic and preventative effects of probiotics in RA, as well as their interactions.
@@ -142,9 +148,15 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## Interaction between four galactans with different structural characteristics and gut microbiota
+## Interaction between four galactans with different structural characteristics and gut microbiota.
+ 20.10.2021, _S Li, J Hu, H Yao, F Geng, S Nie_
+
+
+Human gut microbiota played a key role in maintaining and regulating host health. Gut microbiota composition could be altered by daily diet and related nutrients. Diet polysaccharide, an important dietary nutrient, was one kind of biological macromolecules linked by the glycosidic bonds. Galactans were widely used in foods due to their gelling, thickening and stabilizing properties. Recently, effects of different galactans on gut microbiota have attracted much attention. This review described the structural characteristics of 4 kinds of galactans, including porphyran, agarose, carrageenan, and arabinogalactan, along with the effects of different galactans on gut microbiota and production of short-chain fatty acids. The ability of gut microbiota to utilize galactans with different structural characteristics and related degradation mechanism were also summarized. All these four galactans could be used by gut Bacteroides. Besides, the porphyran could be utilized by Lactobacillus and Bifidobacterium, while the arabinogalactan could be utilized by Lactobacillus, Bifidobacterium and Roseburia. Four galactans with significant difference in molecular weight/degree of polymerization, glycosidic linkage, esterification, branching and monosaccharide composition required gut microbes which could utilize them have corresponding genes encoding the corresponding enzymes for decomposition. This review could help to understand the relationship between galactans with different structural characteristics and gut microbiota, and provide information for potential use of galactans as functional foods.
 
 [Source](https://doi.org/10.1080/10408398.2021.1992605)
+
+10.1080/10408398.2021.1992605
 
 ---
 
@@ -154,9 +166,15 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## The Microbial Composition of Penaeid Shrimps’ Hepatopancreas Is Modulated by Hemocyanin
+## The Microbial Composition of Penaeid Shrimps' Hepatopancreas Is Modulated by Hemocyanin.
+ 21.10.2021, _Z Zheng, JJ Aweya, S Bao, D Yao, S Li, NT Tran, H Ma, Y Zhang_
+
+
+Aquatic organisms have to produce proteins or factors that help maintain a stable relationship with microbiota and prevent colonization by pathogenic microorganisms. In crustaceans and other aquatic invertebrates, relatively few of these host factors have been characterized. In this study, we show that the respiratory glycoprotein hemocyanin is a crucial host factor that modulates microbial composition and diversity in the hepatopancreas of penaeid shrimp. Diseased penaeid shrimp (Penaeus vannamei), had an empty gastrointestinal tract with atrophied hepatopancreas, expressed low hemocyanin, and high total bacterial abundance, with Vibrio as the dominant bacteria. Similarly, shrimp depleted of hemocyanin had mitochondrial depolarization, increased reactive oxygen species (ROS) levels, and dysregulation of several energy metabolism-related genes. Hemocyanin silencing together with ROS scavenger (N-acetylcysteine) treatment improved microbial diversity and decreased Vibrio dominance in the hepatopancreas. However, fecal microbiota transplantation after hemocyanin knockdown could not restore the microbial composition in the hepatopancreas. Collectively, our data provide, to our knowledge, new insight into the pivotal role of hemocyanin in modulating microbial composition in penaeid shrimp hepatopancreas via its effect on mitochondrial integrity, energy metabolism, and ROS production.
 
 [Source](https://doi.org/10.4049/jimmunol.2100746)
+
+10.4049/jimmunol.2100746
 
 ---
 
