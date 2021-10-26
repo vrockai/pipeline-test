@@ -202,9 +202,15 @@ Aquatic organisms have to produce proteins or factors that help maintain a stabl
 
 ---
 
-## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches
+## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches.
+ 20.10.2021, _SH Youseif, FH Abd El-Megeed, EA Humm, M Maymon, AH Mohamed, SA Saleh, AM Hirsch_
+
+
+Rhizosphere and root-associated bacteria are key components of crop production and sustainable agriculture. However, utilization of these beneficial bacteria is often limited by conventional culture techniques because a majority of soil microorganisms cannot be cultured using standard laboratory media. Therefore, the purpose of this study was to improve culturability and investigate the diversity of the bacterial communities from the wheat rhizosphere microbiome collected from three locations in Egypt with contrasting soil characteristics by using metagenomic analysis and improved culture-based methods. The improved strategies of the culture-dependent approach included replacing the agar in the medium with gellan gums and modifying its preparation by autoclaving the phosphate and gelling agents separately. Compared to the total operational taxonomic units (OTUs) observed from the metagenomic data sets derived from the three analyzed soils, 1.86 to 2.52% of the bacteria were recovered using the modified cultivation strategies, whereas less than 1% were obtained employing the standard cultivation protocols. Twenty-one percent of the cultivable isolates exhibited multiple plant growth-promoting (PGP) properties, including P solubilization activity and siderophore production. From the metagenomic analysis, the most abundant phyla were Proteobacteria, Actinobacteria, Chloroflexi, Bacteroidetes, and Firmicutes. Moreover, the relative abundance of the specific bacterial taxa was correlated with the soil characteristics, demonstrating the effect of the soil in modulating the plant rhizosphere microbiome. IMPORTANCE Bacteria colonizing the rhizosphere, a narrow zone of soil surrounding the root system, are known to have beneficial effects in improving the growth and stress tolerance of plants. However, most bacteria in natural environments, especially those in rhizosphere soils, are recalcitrant to cultivation using traditional techniques, and thus their roles in soil health and plant growth remain unexplored. Hence, investigating new culture media and culture conditions to bring "not-yet-cultured" species into cultivation and to identify new functions is still an important task for all microbiologists. To this end, we describe improved cultivation protocols that increase the number and diversity of cultured bacteria from the rhizosphere of wheat plants. Using such approaches will lead to new insights into culturing more beneficial bacteria that live in the plant rhizosphere, in so doing creating greater opportunities not only for field application but also for promoting sustainability.
 
 [Source](https://journals.asm.org/doi/10.1128/Spectrum.00678-21)
+
+10.1128/Spectrum.00678-21
 
 ---
 
