@@ -47,7 +47,7 @@ Rheumatoid arthritis (RA) is an autoimmune disease described by joint destructio
 ---
 
 ## Gut-microbiota-microglia-brain interactions in Alzheimer's disease: knowledge-based, multi-dimensional characterization.
- 21.10.2021, _Q Wang, PB Davis, X Qi, SG Chen, ME Gurney, G Perry, PM Doraiswamy, R Xu_
+ 26.10.2021, _Q Wang, PB Davis, X Qi, SG Chen, ME Gurney, G Perry, PM Doraiswamy, R Xu_
 
 
 Interactions between the gut microbiota, microglia, and aging may modulate Alzheimer's disease (AD) pathogenesis but the precise nature of such interactions is not known.
@@ -148,9 +148,15 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## Interaction between four galactans with different structural characteristics and gut microbiota
+## Interaction between four galactans with different structural characteristics and gut microbiota.
+ 20.10.2021, _S Li, J Hu, H Yao, F Geng, S Nie_
+
+
+Human gut microbiota played a key role in maintaining and regulating host health. Gut microbiota composition could be altered by daily diet and related nutrients. Diet polysaccharide, an important dietary nutrient, was one kind of biological macromolecules linked by the glycosidic bonds. Galactans were widely used in foods due to their gelling, thickening and stabilizing properties. Recently, effects of different galactans on gut microbiota have attracted much attention. This review described the structural characteristics of 4 kinds of galactans, including porphyran, agarose, carrageenan, and arabinogalactan, along with the effects of different galactans on gut microbiota and production of short-chain fatty acids. The ability of gut microbiota to utilize galactans with different structural characteristics and related degradation mechanism were also summarized. All these four galactans could be used by gut Bacteroides. Besides, the porphyran could be utilized by Lactobacillus and Bifidobacterium, while the arabinogalactan could be utilized by Lactobacillus, Bifidobacterium and Roseburia. Four galactans with significant difference in molecular weight/degree of polymerization, glycosidic linkage, esterification, branching and monosaccharide composition required gut microbes which could utilize them have corresponding genes encoding the corresponding enzymes for decomposition. This review could help to understand the relationship between galactans with different structural characteristics and gut microbiota, and provide information for potential use of galactans as functional foods.
 
 [Source](https://doi.org/10.1080/10408398.2021.1992605)
+
+10.1080/10408398.2021.1992605
 
 ---
 
@@ -160,9 +166,15 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## The Microbial Composition of Penaeid Shrimps’ Hepatopancreas Is Modulated by Hemocyanin
+## The Microbial Composition of Penaeid Shrimps' Hepatopancreas Is Modulated by Hemocyanin.
+ 21.10.2021, _Z Zheng, JJ Aweya, S Bao, D Yao, S Li, NT Tran, H Ma, Y Zhang_
+
+
+Aquatic organisms have to produce proteins or factors that help maintain a stable relationship with microbiota and prevent colonization by pathogenic microorganisms. In crustaceans and other aquatic invertebrates, relatively few of these host factors have been characterized. In this study, we show that the respiratory glycoprotein hemocyanin is a crucial host factor that modulates microbial composition and diversity in the hepatopancreas of penaeid shrimp. Diseased penaeid shrimp (Penaeus vannamei), had an empty gastrointestinal tract with atrophied hepatopancreas, expressed low hemocyanin, and high total bacterial abundance, with Vibrio as the dominant bacteria. Similarly, shrimp depleted of hemocyanin had mitochondrial depolarization, increased reactive oxygen species (ROS) levels, and dysregulation of several energy metabolism-related genes. Hemocyanin silencing together with ROS scavenger (N-acetylcysteine) treatment improved microbial diversity and decreased Vibrio dominance in the hepatopancreas. However, fecal microbiota transplantation after hemocyanin knockdown could not restore the microbial composition in the hepatopancreas. Collectively, our data provide, to our knowledge, new insight into the pivotal role of hemocyanin in modulating microbial composition in penaeid shrimp hepatopancreas via its effect on mitochondrial integrity, energy metabolism, and ROS production.
 
 [Source](https://doi.org/10.4049/jimmunol.2100746)
+
+10.4049/jimmunol.2100746
 
 ---
 
@@ -190,9 +202,15 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches
+## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches.
+ 20.10.2021, _SH Youseif, FH Abd El-Megeed, EA Humm, M Maymon, AH Mohamed, SA Saleh, AM Hirsch_
+
+
+Rhizosphere and root-associated bacteria are key components of crop production and sustainable agriculture. However, utilization of these beneficial bacteria is often limited by conventional culture techniques because a majority of soil microorganisms cannot be cultured using standard laboratory media. Therefore, the purpose of this study was to improve culturability and investigate the diversity of the bacterial communities from the wheat rhizosphere microbiome collected from three locations in Egypt with contrasting soil characteristics by using metagenomic analysis and improved culture-based methods. The improved strategies of the culture-dependent approach included replacing the agar in the medium with gellan gums and modifying its preparation by autoclaving the phosphate and gelling agents separately. Compared to the total operational taxonomic units (OTUs) observed from the metagenomic data sets derived from the three analyzed soils, 1.86 to 2.52% of the bacteria were recovered using the modified cultivation strategies, whereas less than 1% were obtained employing the standard cultivation protocols. Twenty-one percent of the cultivable isolates exhibited multiple plant growth-promoting (PGP) properties, including P solubilization activity and siderophore production. From the metagenomic analysis, the most abundant phyla were Proteobacteria, Actinobacteria, Chloroflexi, Bacteroidetes, and Firmicutes. Moreover, the relative abundance of the specific bacterial taxa was correlated with the soil characteristics, demonstrating the effect of the soil in modulating the plant rhizosphere microbiome. IMPORTANCE Bacteria colonizing the rhizosphere, a narrow zone of soil surrounding the root system, are known to have beneficial effects in improving the growth and stress tolerance of plants. However, most bacteria in natural environments, especially those in rhizosphere soils, are recalcitrant to cultivation using traditional techniques, and thus their roles in soil health and plant growth remain unexplored. Hence, investigating new culture media and culture conditions to bring "not-yet-cultured" species into cultivation and to identify new functions is still an important task for all microbiologists. To this end, we describe improved cultivation protocols that increase the number and diversity of cultured bacteria from the rhizosphere of wheat plants. Using such approaches will lead to new insights into culturing more beneficial bacteria that live in the plant rhizosphere, in so doing creating greater opportunities not only for field application but also for promoting sustainability.
 
 [Source](https://journals.asm.org/doi/10.1128/Spectrum.00678-21)
+
+10.1128/Spectrum.00678-21
 
 ---
 
