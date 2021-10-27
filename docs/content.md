@@ -100,33 +100,15 @@ For several decades, there has been a significant growth in the incidence of aut
 
 ---
 
-## Emerging cellular and molecular interactions between the lung microbiota and lung diseases.
- 25.10.2021, _L Xiang, X Meng_
-
-
-With the discovery of the lung microbiota, its study in both pulmonary health and disease has become a vibrant area of emerging research interest. Thus far, most studies have described the lung microbiota composition in lung disease quite well, and some of these studies indicated alterations in lung microbial communities related to the onset and development of lung disease and vice versa. However, the underlying mechanisms, particularly the cellular and molecular links, are still largely unknown. In this review, we highlight the current progress in the complex cellular and molecular mechanisms by which the lung microbiome interacts with immune homeostasis and pulmonary disease pathogenesis to advance our understanding of the elaborate function of the lung microbiota in lung disease. We hope that this work can attract more attention to this still-young yet very promising field to facilitate the identification of new therapeutic targets and provide more innovative therapies. Additional accurate standard-based methodologies and technological breakthroughs are critical to propel the field forward to ultimately achieve the goal of maintaining respiratory health.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/jgh.15716)
-
-10.1080/1040841X.2021.1992345
-
----
-
 ## What is unknown in using Microbiota as a Therapeutic?
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/jgh.15716)
 
 ---
 
-## Isolation and Identification of Potential Probiotic Bacteria from Human Milk.
- 21.10.2021, _QS Damaceno, B Gallotti, IMM Reis, YCP Totte, GB Assis, HC Figueiredo, TF Silva, V Azevedo, JR Nicoli, FS Martins_
-
-
-Breast milk was long considered a sterile environment, but now it is known to harbor many bacteria that will shape the newborn microbiota. The benefits of breastfeeding to newborn health are, on some level, related to the presence of beneficial bacteria in human milk. Therefore, this study aims to investigate and isolate potential probiotics present in human milk that might be associated with improved health in infants, being potential candidates to be used in simulated human milk formula. Milk samples of 24 healthy mothers were collected at three time points: 30 min (colostrum), 5-9 days (transitional milk), and 25-30 days (mature milk) postpartum. Samples were evaluated by culturing, and the isolated bacteria were identified by MALDI-TOF MS and 16S DNA sequencing. In vitro screening for probiotics properties was performed, and the potential probiotics were mono-associated with germ-free mice to evaluate their ability to colonize the gastrointestinal tract. The microorganisms were submitted to the spray-drying process to check their viability for a potential simulated milk formula production. Seventy-seven bacteria were isolated from breast milk pertaining to four bacterial genera (Staphylococcus, Streptococcus, Leuconostoc, and Lacticaseibacillus). Four potential probiotics were selected: Lacticaseibacillus rhamnosus (n = 2) and Leuconostoc mesenteroides (n = 2). Isolates were able to colonize the gastrointestinal tract of germ-free mice and remained viable after the spray-drying process. In conclusion, breast milk harbors a unique microbiota with beneficial microorganisms that will impact the newborn gut colonization, being an essential source of probiotic candidates to be used in a formula of simulated maternal milk.
+## Isolation and Identification of Potential Probiotic Bacteria from Human Milk
 
 [Source](https://doi.org/10.1007/s12602-021-09866-5)
-
-10.1007/s12602-021-09866-5
 
 ---
 
@@ -148,15 +130,9 @@ Breast milk was long considered a sterile environment, but now it is known to ha
 
 ---
 
-## Interaction between four galactans with different structural characteristics and gut microbiota.
- 20.10.2021, _S Li, J Hu, H Yao, F Geng, S Nie_
-
-
-Human gut microbiota played a key role in maintaining and regulating host health. Gut microbiota composition could be altered by daily diet and related nutrients. Diet polysaccharide, an important dietary nutrient, was one kind of biological macromolecules linked by the glycosidic bonds. Galactans were widely used in foods due to their gelling, thickening and stabilizing properties. Recently, effects of different galactans on gut microbiota have attracted much attention. This review described the structural characteristics of 4 kinds of galactans, including porphyran, agarose, carrageenan, and arabinogalactan, along with the effects of different galactans on gut microbiota and production of short-chain fatty acids. The ability of gut microbiota to utilize galactans with different structural characteristics and related degradation mechanism were also summarized. All these four galactans could be used by gut Bacteroides. Besides, the porphyran could be utilized by Lactobacillus and Bifidobacterium, while the arabinogalactan could be utilized by Lactobacillus, Bifidobacterium and Roseburia. Four galactans with significant difference in molecular weight/degree of polymerization, glycosidic linkage, esterification, branching and monosaccharide composition required gut microbes which could utilize them have corresponding genes encoding the corresponding enzymes for decomposition. This review could help to understand the relationship between galactans with different structural characteristics and gut microbiota, and provide information for potential use of galactans as functional foods.
+## Interaction between four galactans with different structural characteristics and gut microbiota
 
 [Source](https://doi.org/10.1080/10408398.2021.1992605)
-
-10.1080/10408398.2021.1992605
 
 ---
 
@@ -166,15 +142,9 @@ Human gut microbiota played a key role in maintaining and regulating host health
 
 ---
 
-## The Microbial Composition of Penaeid Shrimps' Hepatopancreas Is Modulated by Hemocyanin.
- 21.10.2021, _Z Zheng, JJ Aweya, S Bao, D Yao, S Li, NT Tran, H Ma, Y Zhang_
-
-
-Aquatic organisms have to produce proteins or factors that help maintain a stable relationship with microbiota and prevent colonization by pathogenic microorganisms. In crustaceans and other aquatic invertebrates, relatively few of these host factors have been characterized. In this study, we show that the respiratory glycoprotein hemocyanin is a crucial host factor that modulates microbial composition and diversity in the hepatopancreas of penaeid shrimp. Diseased penaeid shrimp (Penaeus vannamei), had an empty gastrointestinal tract with atrophied hepatopancreas, expressed low hemocyanin, and high total bacterial abundance, with Vibrio as the dominant bacteria. Similarly, shrimp depleted of hemocyanin had mitochondrial depolarization, increased reactive oxygen species (ROS) levels, and dysregulation of several energy metabolism-related genes. Hemocyanin silencing together with ROS scavenger (N-acetylcysteine) treatment improved microbial diversity and decreased Vibrio dominance in the hepatopancreas. However, fecal microbiota transplantation after hemocyanin knockdown could not restore the microbial composition in the hepatopancreas. Collectively, our data provide, to our knowledge, new insight into the pivotal role of hemocyanin in modulating microbial composition in penaeid shrimp hepatopancreas via its effect on mitochondrial integrity, energy metabolism, and ROS production.
+## The Microbial Composition of Penaeid Shrimps’ Hepatopancreas Is Modulated by Hemocyanin
 
 [Source](https://doi.org/10.4049/jimmunol.2100746)
-
-10.4049/jimmunol.2100746
 
 ---
 
@@ -202,15 +172,9 @@ Aquatic organisms have to produce proteins or factors that help maintain a stabl
 
 ---
 
-## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches.
- 20.10.2021, _SH Youseif, FH Abd El-Megeed, EA Humm, M Maymon, AH Mohamed, SA Saleh, AM Hirsch_
-
-
-Rhizosphere and root-associated bacteria are key components of crop production and sustainable agriculture. However, utilization of these beneficial bacteria is often limited by conventional culture techniques because a majority of soil microorganisms cannot be cultured using standard laboratory media. Therefore, the purpose of this study was to improve culturability and investigate the diversity of the bacterial communities from the wheat rhizosphere microbiome collected from three locations in Egypt with contrasting soil characteristics by using metagenomic analysis and improved culture-based methods. The improved strategies of the culture-dependent approach included replacing the agar in the medium with gellan gums and modifying its preparation by autoclaving the phosphate and gelling agents separately. Compared to the total operational taxonomic units (OTUs) observed from the metagenomic data sets derived from the three analyzed soils, 1.86 to 2.52% of the bacteria were recovered using the modified cultivation strategies, whereas less than 1% were obtained employing the standard cultivation protocols. Twenty-one percent of the cultivable isolates exhibited multiple plant growth-promoting (PGP) properties, including P solubilization activity and siderophore production. From the metagenomic analysis, the most abundant phyla were Proteobacteria, Actinobacteria, Chloroflexi, Bacteroidetes, and Firmicutes. Moreover, the relative abundance of the specific bacterial taxa was correlated with the soil characteristics, demonstrating the effect of the soil in modulating the plant rhizosphere microbiome. IMPORTANCE Bacteria colonizing the rhizosphere, a narrow zone of soil surrounding the root system, are known to have beneficial effects in improving the growth and stress tolerance of plants. However, most bacteria in natural environments, especially those in rhizosphere soils, are recalcitrant to cultivation using traditional techniques, and thus their roles in soil health and plant growth remain unexplored. Hence, investigating new culture media and culture conditions to bring "not-yet-cultured" species into cultivation and to identify new functions is still an important task for all microbiologists. To this end, we describe improved cultivation protocols that increase the number and diversity of cultured bacteria from the rhizosphere of wheat plants. Using such approaches will lead to new insights into culturing more beneficial bacteria that live in the plant rhizosphere, in so doing creating greater opportunities not only for field application but also for promoting sustainability.
+## Comparative Analysis of the Cultured and Total Bacterial Community in the Wheat Rhizosphere Microbiome Using Culture-Dependent and Culture-Independent Approaches
 
 [Source](https://journals.asm.org/doi/10.1128/Spectrum.00678-21)
-
-10.1128/Spectrum.00678-21
 
 ---
 
