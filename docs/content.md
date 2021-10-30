@@ -102,7 +102,7 @@ Commonly used 16S rRNA gene primers do not detect the full range of archaeal div
 ---
 
 ## Gut microbiota dysbiosis contributes to the development of chronic obstructive pulmonary disease.
- 26.10.2021, _N Li, Z Dai, Z Wang, Z Deng, J Zhang, J Pu, W Cao, T Pan, Y Zhou, Z Yang, J Li, B Li, P Ran_
+ 29.10.2021, _N Li, Z Dai, Z Wang, Z Deng, J Zhang, J Pu, W Cao, T Pan, Y Zhou, Z Yang, J Li, B Li, P Ran_
 
 
 Dysbiosis of the gut microbiome is involved in the pathogenesis of various diseases, but the contribution of gut microbes to the progression of chronic obstructive pulmonary disease (COPD) is still poorly understood.
@@ -162,7 +162,7 @@ The intestinal microbiota plays an important role in regulating gastrointestinal
 ---
 
 ## Phage Treatment Trial to Eradicate LA-MRSA from Healthy Carrier Pigs.
- 26.10.2021, _H Tuomala, M Verkola, A Meller, J Van der Auwera, S Patpatia, A Järvinen, M Skurnik, A Heikinheimo, S Kiljunen_
+ 29.10.2021, _H Tuomala, M Verkola, A Meller, J Van der Auwera, S Patpatia, A Järvinen, M Skurnik, A Heikinheimo, S Kiljunen_
 
 
 The increase of livestock-associated methicillin-resistant Staphylococcus aureus (LA-MRSA) causes a threat to human health. LA-MRSA can be transmitted from animals to animal caretakers, which may further spread MRSA to communities and health care facilities. The objective of this work was to study the efficacy of phage treatment in the eradication of LA-MRSA from healthy carrier pigs. A total of 19 MRSA -positive weanling pigs were assigned to a test (n = 10) and a control group (n = 9). A phage cocktail containing three Staphylococcus phages, or a control buffer was administered to the nares and skin of the pigs three times every two days, after which the phage and MRSA levels in nasal and skin swab samples were monitored for a three-week period. The sensitivity of the strains isolated during the follow-up period to the phage cocktail and each phage individually was analyzed and the pig sera were tested for antibodies against the phages used in the cocktail. The phage treatment did not cause any side effects to the pigs. Phages were found in the skin and nasal samples on the days following the phage applications, but there was no reduction in the MRSA levels in the sampled animals. Phage-resistant strains or phage-specific antibodies were not detected during the experiment. The MRSA load in these healthy carrier animals was only 10-100 CFU/swab or nasal sample, which was likely below the replication threshold of phages. The effectiveness of phage treatment to eradicate MRSA from the pigs could thus not be (reliably) determined.
