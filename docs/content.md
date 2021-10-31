@@ -11,7 +11,7 @@ The fungus Candida albicans is an opportunistic pathogen that can exploit imbala
 ---
 
 ## Bifidobacterium species associated with breastfeeding produce aromatic lactic acids in the infant gut.
- 22.10.2021, _MF Laursen, M Sakanaka, N von Burg, U Mörbe, D Andersen, JM Moll, CT Pekmez, A Rivollier, KF Michaelsen, C Mølgaard, MV Lind, LO Dragsted, T Katayama, HL Frandsen, AM Vinggaard, MI Bahl, S Brix, W Agace, TR Licht, HM Roager_
+ 30.10.2021, _MF Laursen, M Sakanaka, N von Burg, U Mörbe, D Andersen, JM Moll, CT Pekmez, A Rivollier, KF Michaelsen, C Mølgaard, MV Lind, LO Dragsted, T Katayama, HL Frandsen, AM Vinggaard, MI Bahl, S Brix, W Agace, TR Licht, HM Roager_
 
 
 Breastfeeding profoundly shapes the infant gut microbiota, which is critical for early life immune development, and the gut microbiota can impact host physiology in various ways, such as through the production of metabolites. However, few breastmilk-dependent microbial metabolites mediating host-microbiota interactions are currently known. Here, we demonstrate that breastmilk-promoted Bifidobacterium species convert aromatic amino acids (tryptophan, phenylalanine and tyrosine) into their respective aromatic lactic acids (indolelactic acid, phenyllactic acid and 4-hydroxyphenyllactic acid) via a previously unrecognized aromatic lactate dehydrogenase (ALDH). The ability of Bifidobacterium species to convert aromatic amino acids to their lactic acid derivatives was confirmed using monocolonized mice. Longitudinal profiling of the faecal microbiota composition and metabolome of Danish infants (n = 25), from birth until 6 months of age, showed that faecal concentrations of aromatic lactic acids are correlated positively with the abundance of human milk oligosaccharide-degrading Bifidobacterium species containing the ALDH, including Bifidobacterium longum, B. breve and B. bifidum. We further demonstrate that faecal concentrations of Bifidobacterium-derived indolelactic acid are associated with the capacity of these samples to activate in vitro the aryl hydrocarbon receptor (AhR), a receptor important for controlling intestinal homoeostasis and immune responses. Finally, we show that indolelactic acid modulates ex vivo immune responses of human CD4+ T cells and monocytes in a dose-dependent manner by acting as an agonist of both the AhR and hydroxycarboxylic acid receptor 3 (HCA3). Our findings reveal that breastmilk-promoted Bifidobacterium species produce aromatic lactic acids in the gut of infants and suggest that these microbial metabolites may impact immune function in early life.
@@ -23,7 +23,7 @@ Breastfeeding profoundly shapes the infant gut microbiota, which is critical for
 ---
 
 ## Bifidobacterium catabolism of human milk oligosaccharides overrides endogenous competitive exclusion driving colonization and protection.
- 27.10.2021, _BE Heiss, AM Ehrlich, MX Maldonado-Gomez, DH Taft, JA Larke, ML Goodson, CM Slupsky, DJ Tancredi, HE Raybould, DA Mills_
+ 30.10.2021, _BE Heiss, AM Ehrlich, MX Maldonado-Gomez, DH Taft, JA Larke, ML Goodson, CM Slupsky, DJ Tancredi, HE Raybould, DA Mills_
 
 
 Understanding how exogenous microbes stably colonize the animal gut is essential to reveal mechanisms of action and tailor effective probiotic treatments. Bifidobacterium species are naturally enriched in the gastrointestinal tract of breast-fed infants. Human milk oligosaccharides (HMOs) are associated with this enrichment. However, direct mechanistic proof of the importance of HMOs in this colonization is lacking given milk contains additional factors that impact the gut microbiota. This study examined mice supplemented with the HMO 2'fucosyllactose (2'FL) together with a 2'FL-consuming strain, Bifidobacterium pseudocatenulatum MP80. 2'FL supplementation creates a niche for high levels of B.p. MP80 persistence, similar to Bifidobacterium levels seen in breast-fed infants. This synergism impacted gut microbiota composition, activated anti-inflammatory pathways and protected against chemically-induced colitis. These results demonstrate that bacterial-milk glycan interactions alone drive enrichment of beneficial Bifidobacterium and provide a model for tunable colonization thus facilitating insight into mechanisms of health promotion by bifidobacteriain neonates.
@@ -90,7 +90,7 @@ _Aged, Aged, 80 and over, Androgen Antagonists, Androgens, Animals, Anti-Bacteri
 ---
 
 ## Vertebrate host phylogeny influences gut archaeal diversity.
- 27.10.2021, _ND Youngblut, GH Reischer, S Dauser, S Maisch, C Walzer, G Stalder, AH Farnleitner, RE Ley_
+ 30.10.2021, _ND Youngblut, GH Reischer, S Dauser, S Maisch, C Walzer, G Stalder, AH Farnleitner, RE Ley_
 
 
 Commonly used 16S rRNA gene primers do not detect the full range of archaeal diversity present in the vertebrate gut. As a result, several questions regarding the archaeal component of the gut microbiota remain, including which Archaea are host-associated, the specificities of such associations and the major factors influencing archaeal diversity. Using 16S rRNA gene amplicon sequencing with primers that specifically target Archaea, we obtained sufficient sequence data from 185 gastrointestinal samples collected from 110 vertebrate species that span five taxonomic classes (Mammalia, Aves, Reptilia, Amphibia and Actinopterygii), of which the majority were wild. We provide evidence for previously undescribed Archaea-host associations, including Bathyarchaeia and Methanothermobacter, the latter of which was prevalent among Aves and relatively abundant in species with higher body temperatures, although this association could not be decoupled from host phylogeny. Host phylogeny explained archaeal diversity more strongly than diet, while specific taxa were associated with both factors, and cophylogeny was significant and strongest for mammalian herbivores. Methanobacteria was the only class predicted to be present in the last common ancestors of mammals and all host species. Further analysis indicated that Archaea-Bacteria interactions have a limited effect on archaeal diversity. These findings expand our current understanding of Archaea-vertebrate associations.
@@ -144,7 +144,7 @@ Interactions between the microbiota and mammalian host are essential for defense
 ---
 
 ## Intestinal microbiota shapes gut physiology and regulates enteric neurons and glia.
- 28.10.2021, _FA Vicentini, CM Keenan, LE Wallace, C Woods, JB Cavin, AR Flockton, WB Macklin, J Belkind-Gerson, SA Hirota, KA Sharkey_
+ 30.10.2021, _FA Vicentini, CM Keenan, LE Wallace, C Woods, JB Cavin, AR Flockton, WB Macklin, J Belkind-Gerson, SA Hirota, KA Sharkey_
 
 
 The intestinal microbiota plays an important role in regulating gastrointestinal (GI) physiology in part through interactions with the enteric nervous system (ENS). Alterations in the gut microbiome frequently occur together with disturbances in enteric neural control in pathophysiological conditions. However, the mechanisms by which the microbiota regulates GI function and the structure of the ENS are incompletely understood. Using a mouse model of antibiotic (Abx)-induced bacterial depletion, we sought to determine the molecular mechanisms of microbial regulation of intestinal function and the integrity of the ENS. Spontaneous reconstitution of the Abx-depleted microbiota was used to assess the plasticity of structure and function of the GI tract and ENS. Microbiota-dependent molecular mechanisms of ENS neuronal survival and neurogenesis were also assessed.
@@ -204,7 +204,7 @@ Biodegradation is a plausible route toward sustainable management of the million
 ---
 
 ## Acrylate protects a marine bacterium from grazing by a ciliate predator.
- 26.10.2021, _ZJ Teng, P Wang, XL Chen, R Guillonneau, CY Li, SB Zou, J Gong, KW Xu, L Han, C Wang, DJ Scanlan, Y Chen, YZ Zhang_
+ 30.10.2021, _ZJ Teng, P Wang, XL Chen, R Guillonneau, CY Li, SB Zou, J Gong, KW Xu, L Han, C Wang, DJ Scanlan, Y Chen, YZ Zhang_
 
 
 Cleavage of dimethylsulfoniopropionate (DMSP) can deter herbivores in DMSP-producing eukaryotic algae; however, it is unclear whether a parallel defence mechanism operates in marine bacteria. Here we demonstrate that the marine bacterium Puniceibacterium antarcticum SM1211, which does not use DMSP as a carbon source, has a membrane-associated DMSP lyase, DddL. At high concentrations of DMSP, DddL causes an accumulation of acrylate around cells through the degradation of DMSP, which protects against predation by the marine ciliate Uronema marinum. The presence of acrylate can alter the grazing preference of U. marinum to other bacteria in the community, thereby influencing community structure.
