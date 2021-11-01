@@ -23,7 +23,7 @@ Breastfeeding profoundly shapes the infant gut microbiota, which is critical for
 ---
 
 ## Bifidobacterium catabolism of human milk oligosaccharides overrides endogenous competitive exclusion driving colonization and protection.
- 30.10.2021, _BE Heiss, AM Ehrlich, MX Maldonado-Gomez, DH Taft, JA Larke, ML Goodson, CM Slupsky, DJ Tancredi, HE Raybould, DA Mills_
+ 31.10.2021, _BE Heiss, AM Ehrlich, MX Maldonado-Gomez, DH Taft, JA Larke, ML Goodson, CM Slupsky, DJ Tancredi, HE Raybould, DA Mills_
 
 
 Understanding how exogenous microbes stably colonize the animal gut is essential to reveal mechanisms of action and tailor effective probiotic treatments. Bifidobacterium species are naturally enriched in the gastrointestinal tract of breast-fed infants. Human milk oligosaccharides (HMOs) are associated with this enrichment. However, direct mechanistic proof of the importance of HMOs in this colonization is lacking given milk contains additional factors that impact the gut microbiota. This study examined mice supplemented with the HMO 2'fucosyllactose (2'FL) together with a 2'FL-consuming strain, Bifidobacterium pseudocatenulatum MP80. 2'FL supplementation creates a niche for high levels of B.p. MP80 persistence, similar to Bifidobacterium levels seen in breast-fed infants. This synergism impacted gut microbiota composition, activated anti-inflammatory pathways and protected against chemically-induced colitis. These results demonstrate that bacterial-milk glycan interactions alone drive enrichment of beneficial Bifidobacterium and provide a model for tunable colonization thus facilitating insight into mechanisms of health promotion by bifidobacteriain neonates.
