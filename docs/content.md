@@ -144,14 +144,8 @@ Interactions between the microbiota and mammalian host are essential for defense
 ---
 
 ## Intestinal microbiota shapes gut physiology and regulates enteric neurons and glia.
- 30.10.2021, _FA Vicentini, CM Keenan, LE Wallace, C Woods, JB Cavin, AR Flockton, WB Macklin, J Belkind-Gerson, SA Hirota, KA Sharkey_
-
-
-The intestinal microbiota plays an important role in regulating gastrointestinal (GI) physiology in part through interactions with the enteric nervous system (ENS). Alterations in the gut microbiome frequently occur together with disturbances in enteric neural control in pathophysiological conditions. However, the mechanisms by which the microbiota regulates GI function and the structure of the ENS are incompletely understood. Using a mouse model of antibiotic (Abx)-induced bacterial depletion, we sought to determine the molecular mechanisms of microbial regulation of intestinal function and the integrity of the ENS. Spontaneous reconstitution of the Abx-depleted microbiota was used to assess the plasticity of structure and function of the GI tract and ENS. Microbiota-dependent molecular mechanisms of ENS neuronal survival and neurogenesis were also assessed.
 
 [Source](https://doi.org/10.1186/s40168-021-01165-z)
-
-10.1186/s40168-021-01165-z
 
 ---
 
