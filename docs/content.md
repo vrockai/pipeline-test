@@ -384,7 +384,7 @@ Microbial acquisition and development of the gut microbiota impact the establish
 ---
 
 ## Social convergence of gut microbiomes in vampire bats.
- 03.11.2021, _K Yarlagadda, I Razik, RS Malhi, GG Carter_
+ 06.11.2021, _K Yarlagadda, I Razik, RS Malhi, GG Carter_
 
 
 The 'social microbiome' can fundamentally shape the costs and benefits of group-living, but understanding social transmission of microbes in free-living animals is challenging due to confounding effects of kinship and shared environments (e.g. highly associated individuals often share the same spaces, food and water). Here, we report evidence for convergence towards a social microbiome among introduced common vampire bats, Desmodus rotundus, a highly social species in which adults feed only on blood, and engage in both mouth-to-body allogrooming and mouth-to-mouth regurgitated food sharing. Shotgun sequencing of samples from six zoos in the USA, 15 wild-caught bats from a colony in Belize and 31 bats from three colonies in Panama showed that faecal microbiomes were more similar within colonies than between colonies. To assess microbial transmission, we created an experimentally merged group of the Panama bats from the three distant sites by housing these bats together for four months. In this merged colony, we found evidence that dyadic gut microbiome similarity increased with both clustering and oral contact, leading to microbiome convergence among introduced bats. Our findings demonstrate that social interactions shape microbiome similarity even when controlling for past social history, kinship, environment and diet.
