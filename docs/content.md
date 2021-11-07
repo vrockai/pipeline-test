@@ -167,15 +167,15 @@ Zinc (Zn) imbalance is a common single-nutrient disorder worldwide, but little i
 
 ---
 
-## Amelioration of enteric dysbiosis by polyoxotungstates in mice gut.
- 05.11.2021, _K Chen, Y Liu, M Li, L Liu, Q Yu, L Wu_
+## Metagenomic and network analysis revealed wide distribution of antibiotic resistance genes in monkey gut microbiota.
+ 06.11.2021, _Y Yan, H Li, A Fayyaz, Y Gai_
 
 
-Here we show that Preyssler-type polyoxotungstates (Preyssler-type POTs, [NaP5W30O110]-14) complexed with peptides can prevent the dysbiotic expansion of anaerobic bacteria of the Enterobacteriaceae family. In a dextran sulfate sodium (DSS)-induced colitis model, symptom remission of C57BL/6 J mice with colitis is achieved by orally treated with POT complexes. Ten days of daily administration of POT complexes reduces 5% body weight loss and the mRNA levels of proinflammatory markers (77% reduction for Il6, 73% reduction for Tnf, 91% reduction for Cxcl1) in the caecum and proximal colon. Bacterial population analysis reveals that these Enterobacteriaceae population in the caecal content decline by one order of magnitude after administration of POT complexes. POT complexes exert anti-inflammatory effects indirectly on the host immune system by inhibition of malignant expansion of anaerobic Enterobacteriaceae during gut inflammation. Furthermore, POTs show negligible effect on bacterial growth in vitro, healthy mice and their microbiota composition under homeostatic conditions. Rationally designed POT complexes will provide distinctive approach to improve enteric bacteria dysbiosis-associated gut inflammation by balancing bacterial communities.
+The emergence and spread of drug-resistant microorganisms that have acquired new resistance mechanisms, leading to antibiotic resistance, continue to threaten the health of humans and animals worldwide. Non-human primates (NHPs), as close living relatives of human beings in the world, have a high degree of genetic and physiological similarity to humans. However, despite its importance, we lack a comprehensive characterization or understanding of the similarities and differences of the antibiotic resistance genes of the gut microbiome carried by non-human primates and humans. In the present study, the diversity and abundance of antibiotic resistance genes carried by the gut microbiota of cynomolgus monkeys (Macaca fascicularis) were investigated by metagenomic analysis. In total, 60 resistance types conferring resistance to 11 categories of antibiotics were identified in the gut microbiome of cynomolgus monkeys. Interestingly, the composition and abundance of ARGs carried by the gut microbiota of cynomolgus monkeys can be significantly affected by dietary changes. Moreover, we found that all ARG types carried by humans are also present in cynomolgus monkeys. The tetracycline resistance gene tet(37) is evolutionarily conserved and highly homologous. Taken together, our study provides a comprehensive overview of the diversity and richness of ARGs in the gut microbiota of cynomolgus monkeys and underlines the potentially crucial role of diet in the gut health of monkeys and humans.
 
 [Source](https://doi.org/10.1128/mSystems.00717-21)
 
-10.1016/j.jinorgbio.2021.111654
+10.1016/j.micres.2021.126895
 
 ---
 
