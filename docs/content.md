@@ -497,9 +497,15 @@ Coral microbiomes are critical to holobiont functioning, but much remains to be 
 
 ---
 
-## Evaluation of the effect of antibiotics on gut microbiota in early life based on culturomics, SMRT sequencing and metagenomics sequencing methods
+## Evaluation of the effect of antibiotics on gut microbiota in early life based on culturomics, SMRT sequencing and metagenomics sequencing methods.
+ 02.11.2021, _L Wang, J Zhang, M Zhou, Q Chen, X Yang, Y Hou, M Huang, C Man, Y Jiang_
+
+
+Symbiotic gut microbiota in early life plays a vital role in human health, and changes in its communication and function are associated with various complex disorders. In this study, we analyzed the gut flora communication of 6 infants at 4 months of age and determined the disturbances related to antibiotic treatment. By the culturomics and Single Molecule Real-time sequencing methods, a total of 6234 strains were divided into 16 genera and 45 species. The alpha diversity of culturable microorganisms in amoxicillin-treated infants was significantly less than that in healthy infants (p &lt;0.05), as indicated by Chao 1, observed species and Faith's PD index. According to metagenomics, the dominant genus and species were Bifidobacterium and B. longum in the healthy group. After treatment with amoxicillin, the dominant genus and species shifted to Enterococcus and E. faecium. Based on the functional annotation of metagenomics, amoxicillin affected the metabolic function of the gut microbiome by activating carbohydrate and lipid metabolism and inhibiting amino acid metabolism. Besides, the intake of antibiotics in early life increased the risk of neurodegenerative disease, virus infectious disease and antimicrobial resistance. The Antibiotic Resistance Genes Database annotation result indicated that the abundance of drug-resistance genes in the antibiotic group was higher than that in the healthy group. These genes were associated with resistance to bacitracin, most of which were associated with K. pneumonia. These findings can provide guidance in the clinic on the proper usage of antibiotics.
 
 [Source](https://doi.org/10.1039/d1ay01106e)
+
+10.1039/d1ay01106e
 
 ---
 
