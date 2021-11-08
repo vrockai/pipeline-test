@@ -491,15 +491,9 @@ Coral microbiomes are critical to holobiont functioning, but much remains to be 
 
 ---
 
-## Evaluating de Novo Assembly and Binning Strategies for Time Series Drinking Water Metagenomes.
- 03.11.2021, _S Vosloo, L Huo, CL Anderson, Z Dai, M Sevillano, A Pinto_
-
-
-Reconstructing microbial genomes from metagenomic short-read data can be challenging due to the unknown and uneven complexity of microbial communities. This complexity encompasses highly diverse populations, which often includes strain variants. Reconstructing high-quality genomes is a crucial part of the metagenomic workflow, as subsequent ecological and metabolic inferences depend on their accuracy, quality, and completeness. In contrast to microbial communities in other ecosystems, there has been no systematic assessment of genome-centric metagenomic workflows for drinking water microbiomes. In this study, we assessed the performance of a combination of assembly and binning strategies for time series drinking water metagenomes that were collected over 6 months. The goal of this study was to identify the combination of assembly and binning approaches that result in high-quality and -quantity metagenome-assembled genomes (MAGs), representing most of the sequenced metagenome. Our findings suggest that the metaSPAdes coassembly strategies had the best performance, as they resulted in larger and less fragmented assemblies, with at least 85% of the sequence data mapping to contigs greater than 1 kbp. Furthermore, a combination of metaSPAdes coassembly strategies and MetaBAT2 produced the highest number of medium-quality MAGs while capturing at least 70% of the metagenomes based on read recruitment. Utilizing different assembly/binning approaches also assists in the reconstruction of unique MAGs from closely related species that would have otherwise collapsed into a single MAG using a single workflow. Overall, our study suggests that leveraging multiple binning approaches with different metaSPAdes coassembly strategies may be required to maximize the recovery of good-quality MAGs. IMPORTANCE Drinking water contains phylogenetic diverse groups of bacteria, archaea, and eukarya that affect the esthetic quality of water, water infrastructure, and public health. Taxonomic, metabolic, and ecological inferences of the drinking water microbiome depend on the accuracy, quality, and completeness of genomes that are reconstructed through the application of genome-resolved metagenomics. Using time series metagenomic data, we present reproducible genome-centric metagenomic workflows that result in high-quality and -quantity genomes, which more accurately signifies the sequenced drinking water microbiome. These genome-centric metagenomic workflows will allow for improved taxonomic and functional potential analysis that offers enhanced insights into the stability and dynamics of drinking water microbial communities.
+## Evaluating de Novo Assembly and Binning Strategies for Time Series Drinking Water Metagenomes
 
 [Source](https://doi.org/10.1128/Spectrum.01434-21)
-
-10.1128/Spectrum.01434-21
 
 ---
 
