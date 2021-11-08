@@ -89,7 +89,7 @@ Complex polymicrobial biofilm communities are abundant in nature particularly in
 ---
 
 ## Epigenetic adaptations of the masticatory mucosa to periodontal inflammation.
- 04.11.2021, _GM Richter, J Kruppa, HG Keceli, ET Ataman-Duruel, C Graetz, N Pischon, G Wagner, C Rendenbach, Y Jockel-Schneider, O Martins, C Bruckmann, I Staufenbiel, A Franke, RM Nohutcu, S Jepsen, H Dommisch, AS Schaefer_
+ 07.11.2021, _GM Richter, J Kruppa, HG Keceli, ET Ataman-Duruel, C Graetz, N Pischon, G Wagner, C Rendenbach, Y Jockel-Schneider, O Martins, C Bruckmann, I Staufenbiel, A Franke, RM Nohutcu, S Jepsen, H Dommisch, AS Schaefer_
 
 
 In mucosal barrier interfaces, flexible responses of gene expression to long-term environmental changes allow adaptation and fine-tuning for the balance of host defense and uncontrolled not-resolving inflammation. Epigenetic modifications of the chromatin confer plasticity to the genetic information and give insight into how tissues use the genetic information to adapt to environmental factors. The oral mucosa is particularly exposed to environmental stressors such as a variable microbiota. Likewise, persistent oral inflammation is the most important intrinsic risk factor for the oral inflammatory disease periodontitis and has strong potential to alter DNA-methylation patterns. The aim of the current study was to identify epigenetic changes of the oral masticatory mucosa in response to long-term inflammation that resulted in periodontitis.
@@ -306,7 +306,7 @@ The urinary tract likely plays a role in the development of various urinary dise
 ---
 
 ## Utilizing a reductionist model to study host-microbe interactions in intestinal inflammation.
- 04.11.2021, _AM Tsou, JA Goettel, B Bao, A Biswas, YH Kang, NS Redhu, K Peng, GG Putzel, J Saltzman, R Kelly, J Gringauz, J Barends, M Hatazaki, SM Frei, R Emani, Y Huang, Z Shen, JG Fox, JN Glickman, BH Horwitz, SB Snapper_
+ 07.11.2021, _AM Tsou, JA Goettel, B Bao, A Biswas, YH Kang, NS Redhu, K Peng, GG Putzel, J Saltzman, R Kelly, J Gringauz, J Barends, M Hatazaki, SM Frei, R Emani, Y Huang, Z Shen, JG Fox, JN Glickman, BH Horwitz, SB Snapper_
 
 
 The gut microbiome is altered in patients with inflammatory bowel disease, yet how these alterations contribute to intestinal inflammation is poorly understood. Murine models have demonstrated the importance of the microbiome in colitis since colitis fails to develop in many genetically susceptible animal models when re-derived into germ-free environments. We have previously shown that Wiskott-Aldrich syndrome protein (WASP)-deficient mice (Was-/-) develop spontaneous colitis, similar to human patients with loss-of-function mutations in WAS. Furthermore, we showed that the development of colitis in Was-/- mice is Helicobacter dependent. Here, we utilized a reductionist model coupled with multi-omics approaches to study the role of host-microbe interactions in intestinal inflammation.
@@ -372,7 +372,7 @@ When facing a food shortage, generalist herbivores can respond by expanding thei
 ---
 
 ## Strain-level analysis reveals the vertical microbial transmission during the life cycle of bumblebee.
- 04.11.2021, _Q Su, Q Wang, X Mu, H Chen, Y Meng, X Zhang, L Zheng, X Hu, Y Zhai, H Zheng_
+ 07.11.2021, _Q Su, Q Wang, X Mu, H Chen, Y Meng, X Zhang, L Zheng, X Hu, Y Zhai, H Zheng_
 
 
 Microbial acquisition and development of the gut microbiota impact the establishment of a healthy host-microbes symbiosis. Compared with other animals, the eusocial bumblebees and honeybees possess a simple, recurring, and similar set of gut microbiota. However, all bee gut phylotypes have high strain-level diversity. Gut communities of different bee species are composed of host-specific groups of strains. The variable genomic regions among strains of the same species often confer critical functional differences, such as carbon source utilization, essential for the natural selection of specific strains. The annual bumblebee colony founded by solitary queens enables tracking the transmission routes of gut bacteria during development stages.
