@@ -167,15 +167,15 @@ Zinc (Zn) imbalance is a common single-nutrient disorder worldwide, but little i
 
 ---
 
-## Metagenomic and network analysis revealed wide distribution of antibiotic resistance genes in monkey gut microbiota.
- 06.11.2021, _Y Yan, H Li, A Fayyaz, Y Gai_
+## The Impact of a Mediterranean Diet on the Gut Microbiome in Healthy Human Subjects: A Pilot Study.
+ 08.11.2021, _JJ Rejeski, FM Wilson, R Nagpal, H Yadav, RB Weinberg_
 
 
-The emergence and spread of drug-resistant microorganisms that have acquired new resistance mechanisms, leading to antibiotic resistance, continue to threaten the health of humans and animals worldwide. Non-human primates (NHPs), as close living relatives of human beings in the world, have a high degree of genetic and physiological similarity to humans. However, despite its importance, we lack a comprehensive characterization or understanding of the similarities and differences of the antibiotic resistance genes of the gut microbiome carried by non-human primates and humans. In the present study, the diversity and abundance of antibiotic resistance genes carried by the gut microbiota of cynomolgus monkeys (Macaca fascicularis) were investigated by metagenomic analysis. In total, 60 resistance types conferring resistance to 11 categories of antibiotics were identified in the gut microbiome of cynomolgus monkeys. Interestingly, the composition and abundance of ARGs carried by the gut microbiota of cynomolgus monkeys can be significantly affected by dietary changes. Moreover, we found that all ARG types carried by humans are also present in cynomolgus monkeys. The tetracycline resistance gene tet(37) is evolutionarily conserved and highly homologous. Taken together, our study provides a comprehensive overview of the diversity and richness of ARGs in the gut microbiota of cynomolgus monkeys and underlines the potentially crucial role of diet in the gut health of monkeys and humans.
+Despite the reported salutary benefits of a Mediterranean diet (MD) on a wide variety of health conditions, the specific microbial changes associated with an MD within the gastrointestinal (GI) tract are not well studied. Specifically, although population and survey-based studies have shown microbial changes, there are no published data on how an MD alters the gut flora in a controlled setting.
 
 [Source](https://doi.org/10.1128/mSystems.00717-21)
 
-10.1016/j.micres.2021.126895
+10.1159/000519445
 
 ---
 
@@ -497,9 +497,15 @@ Coral microbiomes are critical to holobiont functioning, but much remains to be 
 
 ---
 
-## Evaluation of the effect of antibiotics on gut microbiota in early life based on culturomics, SMRT sequencing and metagenomics sequencing methods
+## Evaluation of the effect of antibiotics on gut microbiota in early life based on culturomics, SMRT sequencing and metagenomics sequencing methods.
+ 02.11.2021, _L Wang, J Zhang, M Zhou, Q Chen, X Yang, Y Hou, M Huang, C Man, Y Jiang_
+
+
+Symbiotic gut microbiota in early life plays a vital role in human health, and changes in its communication and function are associated with various complex disorders. In this study, we analyzed the gut flora communication of 6 infants at 4 months of age and determined the disturbances related to antibiotic treatment. By the culturomics and Single Molecule Real-time sequencing methods, a total of 6234 strains were divided into 16 genera and 45 species. The alpha diversity of culturable microorganisms in amoxicillin-treated infants was significantly less than that in healthy infants (p &lt;0.05), as indicated by Chao 1, observed species and Faith's PD index. According to metagenomics, the dominant genus and species were Bifidobacterium and B. longum in the healthy group. After treatment with amoxicillin, the dominant genus and species shifted to Enterococcus and E. faecium. Based on the functional annotation of metagenomics, amoxicillin affected the metabolic function of the gut microbiome by activating carbohydrate and lipid metabolism and inhibiting amino acid metabolism. Besides, the intake of antibiotics in early life increased the risk of neurodegenerative disease, virus infectious disease and antimicrobial resistance. The Antibiotic Resistance Genes Database annotation result indicated that the abundance of drug-resistance genes in the antibiotic group was higher than that in the healthy group. These genes were associated with resistance to bacitracin, most of which were associated with K. pneumonia. These findings can provide guidance in the clinic on the proper usage of antibiotics.
 
 [Source](https://doi.org/10.1039/d1ay01106e)
+
+10.1039/d1ay01106e
 
 ---
 
