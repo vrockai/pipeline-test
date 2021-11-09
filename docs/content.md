@@ -425,9 +425,15 @@ Coral microbiomes are critical to holobiont functioning, but much remains to be 
 
 ---
 
-## Microbiome Studies in Non-human Primates
+## Microbiome Studies in Non-human Primates.
+ 06.11.2021, _JM Brenchley, AM Ortiz_
+
+
+Observations of differing bacterial, intestinal microbiomes in people living with HIV have propelled interest in contributions of the microbiome to HIV disease. Non-human primate (NHP) models of HIV infection provide a controlled setting for assessing contributions of the microbiome by standardizing environmental confounders. We provide an overview of the findings of microbiome contributions to aspects of HIV disease derived from these animal models.
 
 [Source](https://doi.org/10.1007/s11904-021-00584-9)
+
+10.1007/s11904-021-00584-9
 
 ---
 
@@ -437,15 +443,27 @@ Coral microbiomes are critical to holobiont functioning, but much remains to be 
 
 ---
 
-## Dietary calcium phosphate strongly impacts gut microbiome changes elicited by inulin and galacto-oligosaccharides consumption
+## Dietary calcium phosphate strongly impacts gut microbiome changes elicited by inulin and galacto-oligosaccharides consumption.
+ 07.11.2021, _J Fuhren, M Schwalbe, J Boekhorst, C Rösch, HA Schols, M Kleerebezem_
+
+
+Fructo-oligosaccharides (FOS), inulin, and galacto-oligosaccharides (GOS) are widely recognized prebiotics that profoundly affect the intestinal microbiota, including stimulation of bifidobacteria and lactobacilli, and are reported to elicit several health benefits. The combination of dietary FOS and inulin with calcium phosphate was reported to stimulate commensal Lactobacillus populations and protect the host against pathogenic Enterobacteriaceae, but little is known about the effects of GOS in diets with a different level of calcium phosphate.
 
 [Source](https://doi.org/10.1186/s40168-021-01148-0)
 
+10.1186/s40168-021-01148-0
+
 ---
 
-## Effects of growth promoting microorganisms on tomato seedlings growing in different media conditions
+## Effects of growth promoting microorganisms on tomato seedlings growing in different media conditions.
+ 06.11.2021, _R Pokluda, L Ragasová, M Jurica, A Kalisz, M Komorowska, M Niemiec, A Sekara_
+
+
+Plant growth-promoting microbes (PGPM) play vital roles in maintaining crop fitness and soil health in stressed environments. Research have included analysis-based cultivation of soil-microbial-plant relationships to clarify microbiota potential. The goal of the research was to (i) evaluate the symbiotic microorganism effects on tomato seedling fitness under stressed conditions simulating a fragile soil susceptible to degradation; (ii) compare the plant-microbial interactions after inoculation with microbial isolates and fungi-bacteria consortia; (iii) develop an effective crop-microbial network, which improves soil and plant status. The experimental design included non-inoculated treatments with peat and sand at ratios of 50:50, 70:30, 100:0 (v:v), inoculated treatments with arbuscular mycorrhizal fungi (AMF) and Azospirillum brasilense (AZ) using the aforementioned peat:sand ratios; and treatment with peat co-inoculated with AMF and Saccharothrix tamanrassetensis (S). AMF + AZ increased root fresh weight in peat substrate compared to the control (4.4 to 3.3 g plant-1). An increase in shoot fresh weight was detected in the AMF + AZ treatment with a 50:50 peat:sand ratio (10.1 to 8.5 g plant-1). AMF + AZ reduced antioxidant activity (DPPH) (18-34%) in leaves, whereas AMF + S had the highest DPPH in leaves and roots (45%). Total leaf phenolic content was higher in control with a decreased proportion of peat. Peroxidase activity was enhanced in AMF + AZ and AMF + S treatments, except for AMF + AZ in peat. Microscopic root assays revealed the ability of AMF to establish strong fungal-tomato symbiosis; the colonization rate was 78-89%. AMF + AZ accelerated K and Mg accumulation in tomato leaves in treatments reflecting soil stress. To date, there has been no relevant information regarding the successful AMF and Saccharothrix co-inoculation relationship. This study confirmed that AMF + S could increase the P, S, and Fe status of seedlings under high organic C content conditions. The improved tomato growth and nutrient acquisition demonstrated the potential of PGPM colonization under degraded soil conditions.
 
 [Source](https://doi.org/10.1371/journal.pone.0259380)
+
+10.1371/journal.pone.0259380
 
 ---
 
@@ -455,45 +473,87 @@ Coral microbiomes are critical to holobiont functioning, but much remains to be 
 
 ---
 
-## City-Scale Meta-Analysis of Indoor Airborne Microbiota Reveals that Taxonomic and Functional Compositions Vary with Building Types
+## City-Scale Meta-Analysis of Indoor Airborne Microbiota Reveals that Taxonomic and Functional Compositions Vary with Building Types.
+ 05.11.2021, _Y Zhou, MHY Leung, X Tong, JYY Lee, PKH Lee_
+
+
+Currently, there is a lack of understanding on the variations of the indoor airborne microbiotas of different building types within a city, and how operational taxonomic unit (OTU)- and amplicon sequence variant (ASV)-based analyses of the 16S rRNA gene sequences affect interpretation of the indoor airborne microbiota results. Therefore, in this study, the indoor airborne bacterial microbiotas between commercial buildings, residences, and subways within the same city were compared using both OTU- and ASV-based analytic methods. Our findings suggested that indoor airborne bacterial microbiota compositions were significantly different between building types regardless of the bioinformatics method used. The processes of ecological drift and random dispersal consistently played significant roles in the assembly of the indoor microbiota across building types. Abundant taxa tended to be more centralized in the correlation network of each building type, highlighting their importance. Taxonomic changes between the microbiotas of different building types were also linked to changes in their inferred metabolic function capabilities. Overall, the results imply that customized strategies are necessary to manage indoor airborne bacterial microbiotas for each building type or even within each specific building.
 
 [Source](https://doi.org/10.1021/acs.est.1c03941)
 
+10.1021/acs.est.1c03941
+
 ---
 
-## Heavy metals and microbiome are negligible drivers than mobile genetic elements in determining particle-attached and free-living resistomes in the Yellow River
+## Heavy metals and microbiome are negligible drivers than mobile genetic elements in determining particle-attached and free-living resistomes in the Yellow River.
+ 04.11.2021, _Q Yu, J Yang, W Su, T Li, T Feng, H Li_
+
+
+Suspended particles in water can shelter both microorganisms and contaminants. However, the emerging pollutants antibiotic resistance genes (ARGs) in free-living (FL) or particle-attached (PA) bacteria in aquatic environments are less explored. In this study, we compared the free-living and particle-attached ARGs during four seasons in the Yellow River using high-throughput quantitative PCR techniques and 16S rRNA gene sequencing. Our results demonstrated that both the free-living water and particles were dominated by tetracycline and beta-lactamase resistance genes. The PA-ARGs had a higher absolute abundance than FL-ARGs in the Yellow River, regardless of the season. Both PA-ARGs and FL-ARGs had the highest absolute abundance and diversity during winter. Mobile genetic elements (MGEs) were the dominant driver for both size-fractionated ARGs. However, the microbiome had less influence on PA-ARG profiles than the FL-ARG profiles, while the effects of the heavy metals on ARGs were negligible. The community assembly of both FL-ARG and PA-ARG can be explained by neutral processes. Several opportunistic pathogens (e.g., Escherichia coli) associated with human health exhibited a higher relative abundance in the particles than during a free-living lifestyle. Parts of these pathogens were potential ARG hosts. As such, it is important to monitor the ARGs and opportunistic pathogens from size-fractionated bacteria and develop targeted strategies to manage ARG dissemination and opportunistic pathogens to ensure public health.
 
 [Source](https://doi.org/10.1016/j.jhazmat.2021.127564)
 
+10.1016/j.jhazmat.2021.127564
+
 ---
 
-## Assessment of the link between evidence and crime scene through soil bacterial and fungal microbiome: A mock case in forensic study
+## Assessment of the link between evidence and crime scene through soil bacterial and fungal microbiome: A mock case in forensic study.
+ 04.11.2021, _S Karadayı_
+
+
+In forensic studies, soil traces can be used to find clues to the origin of an unknown sample or the relationship between a crime scene and a suspect and can provide invaluable evidence as they frequently adhere to objects, with high persistence. In this study, it was aimed to investigate the potential of the bacterial and fungal microbiome diversity of the soil to be used as legitimate evidence in the resolution of homicide cases. Within the scope of a mock homicide case scenario, a total of 12 soil samples were collected, including two evidence samples, three crime scene samples and seven non-crime scene related control samples. Both bacterial and fungal microbiome profiles of these samples were analysed using Illumina NovaSeq platform. The resulting sequences were analysed using QIIME 2 microbiome bioinformatics platform. Beta diversity analysis was performed to determine the difference between samples. In bacterial community analyses, it has been observed that it is difficult to distinguish evidence samples and crime scene samples from control samples at phylum and class level, whereas differentiation could be made at genus and species level. Fungal community analyses allowed to distinguish evidence samples and crime scene samples from control samples at both phylum and class and genus and species level. Principal coordinate analysis (PCoA) results showed that distance between evidence samples and crime scene reference samples was closer to each other than non-crime scene related control samples. The results of this study showed that bacterial and especially fungal DNA in soil has the potential to contribute effectively to the resolution of forensic cases. Thus, it has been understood that it is possible to establish a relationship between the case and the crime scene with the help of microbiome analyses on soil samples obtained in homicide cases.
 
 [Source](https://doi.org/10.1016/j.forsciint.2021.111060)
 
+10.1016/j.forsciint.2021.111060
+
 ---
 
-## Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification
+## Bakta: rapid and standardized annotation of bacterial genomes via alignment-free sequence identification.
+ 05.11.2021, _O Schwengers, L Jelonek, MA Dieckmann, S Beyvers, J Blom, A Goesmann_
+
+
+Command-line annotation software tools have continuously gained popularity compared to centralized online services due to the worldwide increase of sequenced bacterial genomes. However, results of existing command-line software pipelines heavily depend on taxon-specific databases or sufficiently well annotated reference genomes. Here, we introduce Bakta, a new command-line software tool for the robust, taxon-independent, thorough and, nonetheless, fast annotation of bacterial genomes. Bakta conducts a comprehensive annotation workflow including the detection of small proteins taking into account replicon metadata. The annotation of coding sequences is accelerated via an alignment-free sequence identification approach that in addition facilitates the precise assignment of public database cross-references. Annotation results are exported in GFF3 and International Nucleotide Sequence Database Collaboration (INSDC)-compliant flat files, as well as comprehensive JSON files, facilitating automated downstream analysis. We compared Bakta to other rapid contemporary command-line annotation software tools in both targeted and taxonomically broad benchmarks including isolates and metagenomic-assembled genomes. We demonstrated that Bakta outperforms other tools in terms of functional annotations, the assignment of functional categories and database cross-references, whilst providing comparable wall-clock runtimes. Bakta is implemented in Python 3 and runs on MacOS and Linux systems. It is freely available under a GPLv3 license at https://github.com/oschwengers/bakta. An accompanying web version is available at https://bakta.computational.bio.
 
 [Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000685)
 
+10.1099/mgen.0.000685
+
 ---
 
-## Compositional Data Analysis of Microbiome and Any-Omics Datasets: A Validation of the Additive Logratio Transformation
+## Compositional Data Analysis of Microbiome and Any-Omics Datasets: A Validation of the Additive Logratio Transformation.
+ 06.11.2021, _M Greenacre, M Martínez-Álvaro, A Blasco_
+
+
+Microbiome and omics datasets are, by their intrinsic biological nature, of high dimensionality, characterized by counts of large numbers of components (microbial genes, operational taxonomic units, RNA transcripts, etc.). These data are generally regarded as compositional since the total number of counts identified within a sample is irrelevant. The central concept in compositional data analysis is the logratio transformation, the simplest being the additive logratios with respect to a fixed reference component. A full set of additive logratios is not isometric, that is they do not reproduce the geometry of all pairwise logratios exactly, but their lack of isometry can be measured by the Procrustes correlation. The reference component can be chosen to maximize the Procrustes correlation between the additive logratio geometry and the exact logratio geometry, and for high-dimensional data there are many potential references. As a secondary criterion, minimizing the variance of the reference component's log-transformed relative abundance values makes the subsequent interpretation of the logratios even easier. On each of three high-dimensional omics datasets the additive logratio transformation was performed, using references that were identified according to the abovementioned criteria. For each dataset the compositional data structure was successfully reproduced, that is the additive logratios were very close to being isometric. The Procrustes correlations achieved for these datasets were 0.9991, 0.9974, and 0.9902, respectively. We thus demonstrate, for high-dimensional compositional data, that additive logratios can provide a valid choice as transformed variables, which (a) are subcompositionally coherent, (b) explain 100% of the total logratio variance and (c) come measurably very close to being isometric. The interpretation of additive logratios is much simpler than the complex isometric alternatives and, when the variance of the log-transformed reference is very low, it is even simpler since each additive logratio can be identified with a corresponding compositional component.
 
 [Source](https://doi.org/10.3389/fmicb.2021.727398)
 
+10.3389/fmicb.2021.727398
+
 ---
 
-## Machine Learning Based Metagenomic Prediction of Inflammatory Bowel Disease
+## Machine Learning Based Metagenomic Prediction of Inflammatory Bowel Disease.
+ 05.11.2021, _A Mihajlović, K Mladenović, T Lončar-Turukalo, S Brdar_
+
+
+In this study, we investigate faecal microbiota composition, in an attempt to evaluate performance of classification algorithms in identifying Inflammatory Bowel Disease (IBD) and its two types: Crohn's disease (CD) and ulcerative colitis (UC). From many investigated algorithms, a random forest (RF) classifier was selected for detailed evaluation in three-class (CD versus UC versus nonIBD) classification task and two binary (nonIBD versus IBD and CD versus UC) classification tasks. We dealt with class imbalance, performed extensive parameter search, dimensionality reduction and two-level classification. In three-class classification, our best model reaches F1 score of 91% in average, which confirms the strong connection of IBD and gastrointestinal microbiome. Among most important features in three-class classification are species Staphylococcus hominis, Porphyromonas endodontalis, Slackia piriformis and genus Bacteroidetes.
 
 [Source](https://doi.org/10.3233/SHTI210591)
 
+10.3233/SHTI210591
+
 ---
 
-## Evaluating de Novo Assembly and Binning Strategies for Time Series Drinking Water Metagenomes
+## Evaluating de Novo Assembly and Binning Strategies for Time Series Drinking Water Metagenomes.
+ 03.11.2021, _S Vosloo, L Huo, CL Anderson, Z Dai, M Sevillano, A Pinto_
+
+
+Reconstructing microbial genomes from metagenomic short-read data can be challenging due to the unknown and uneven complexity of microbial communities. This complexity encompasses highly diverse populations, which often includes strain variants. Reconstructing high-quality genomes is a crucial part of the metagenomic workflow, as subsequent ecological and metabolic inferences depend on their accuracy, quality, and completeness. In contrast to microbial communities in other ecosystems, there has been no systematic assessment of genome-centric metagenomic workflows for drinking water microbiomes. In this study, we assessed the performance of a combination of assembly and binning strategies for time series drinking water metagenomes that were collected over 6 months. The goal of this study was to identify the combination of assembly and binning approaches that result in high-quality and -quantity metagenome-assembled genomes (MAGs), representing most of the sequenced metagenome. Our findings suggest that the metaSPAdes coassembly strategies had the best performance, as they resulted in larger and less fragmented assemblies, with at least 85% of the sequence data mapping to contigs greater than 1 kbp. Furthermore, a combination of metaSPAdes coassembly strategies and MetaBAT2 produced the highest number of medium-quality MAGs while capturing at least 70% of the metagenomes based on read recruitment. Utilizing different assembly/binning approaches also assists in the reconstruction of unique MAGs from closely related species that would have otherwise collapsed into a single MAG using a single workflow. Overall, our study suggests that leveraging multiple binning approaches with different metaSPAdes coassembly strategies may be required to maximize the recovery of good-quality MAGs. IMPORTANCE Drinking water contains phylogenetic diverse groups of bacteria, archaea, and eukarya that affect the esthetic quality of water, water infrastructure, and public health. Taxonomic, metabolic, and ecological inferences of the drinking water microbiome depend on the accuracy, quality, and completeness of genomes that are reconstructed through the application of genome-resolved metagenomics. Using time series metagenomic data, we present reproducible genome-centric metagenomic workflows that result in high-quality and -quantity genomes, which more accurately signifies the sequenced drinking water microbiome. These genome-centric metagenomic workflows will allow for improved taxonomic and functional potential analysis that offers enhanced insights into the stability and dynamics of drinking water microbial communities.
 
 [Source](https://doi.org/10.1128/Spectrum.01434-21)
+
+10.1128/Spectrum.01434-21
 
 ---
 
