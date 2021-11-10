@@ -40,15 +40,9 @@ The interrelationships among the gut microbiome, the MedDiet and a clinical endp
 
 ---
 
-## Identification of a novel cancer microbiome signature for predicting prognosis of human breast cancer patients.
- 06.11.2021, _AW Mao, H Barck, J Young, A Paley, J- Mao, H Chang_
-
-
-Prognosis of breast cancer (BC) patients differs considerably and identifying reliable prognostic biomarker(s) is imperative. With evidence that the microbiome plays a critical role in the response to cancer therapies, we aimed to identify a cancer microbiome signature for predicting the prognosis of BC patients.
+## Identification of a novel cancer microbiome signature for predicting prognosis of human breast cancer patients
 
 [Source](https://doi.org/10.1007/s12094-021-02725-3)
-
-10.1007/s12094-021-02725-3
 
 ---
 
@@ -58,27 +52,15 @@ Prognosis of breast cancer (BC) patients differs considerably and identifying re
 
 ---
 
-## Effects of fecal microbiota transplant on DNA methylation in subjects with metabolic syndrome.
- 08.11.2021, _EWJ van der Vossen, D Bastos, D Stols-Gonçalves, MC de Goffau, M Davids, JPB Pereira, AYF Li Yim, P Henneman, MG Netea, WM de Vos, W de Jonge, AK Groen, M Nieuwdorp, E Levin_
-
-
-Accumulating evidence shows that microbes with their theater of activity residing within the human intestinal tract (i.e., the gut microbiome) influence host metabolism. Some of the strongest results come from recent fecal microbial transplant (FMT) studies that relate changes in intestinal microbiota to various markers of metabolism as well as the pathophysiology of insulin resistance. Despite these developments, there is still a limited understanding of the multitude of effects associated with FMT on the general physiology of the host, beyond changes in gut microbiome composition. We examined the effect of either allogenic (lean donor) or autologous FMTs on the gut microbiome, plasma metabolome, and epigenomic (DNA methylation) reprogramming in peripheral blood mononuclear cells in individuals with metabolic syndrome measured at baseline (pre-FMT) and after 6 weeks (post-FMT). Insulin sensitivity was determined with a stable isotope-based 2 step hyperinsulinemic clamp and multivariate machine learning methodology was used to uncover discriminative microbes, metabolites, and DNA methylation loci. A larger gut microbiota shift was associated with an allogenic than with autologous FMT. Furthemore, the data results of the the allogenic FMT group data indicates that the introduction of new species can potentially modulate the plasma metabolome and (as a result) the epigenome. Most notably, the introduction of Prevotella ASVs directly correlated with methylation of AFAP1, a gene involved in mitochondrial function, insulin sensitivity, and peripheral insulin resistance (Rd, rate of glucose disappearance). FMT was found to have notable effects on the gut microbiome but also on the host plasma metabolome and the epigenome of immune cells providing new avenues of inquiry in the context of metabolic syndrome treatment for the manipulation of host physiology to achieve improved insulin sensitivity.
+## Effects of fecal microbiota transplant on DNA methylation in subjects with metabolic syndrome
 
 [Source](https://doi.org/10.1080/19490976.2021.1993513)
 
-10.1080/19490976.2021.1993513
-
 ---
 
-## The Mucosally-Adherent Rectal Microbiota Contains Features Unique to Alcohol-Related Cirrhosis.
- 08.11.2021, _TD Shen, SG Daniel, S Patel, E Kaplan, L Phung, K Lemelle-Thomas, L Chau, L Herman, C Trisolini, A Stonelake, E Toal, V Khungar, K Bittinger, KR Reddy, GD Wu_
-
-
-Most studies examining correlations between the gut microbiota and disease states focus on fecal samples due to ease of collection, yet there are distinct differences when compared to samples collected from the colonic mucosa. Although fecal microbiota has been reported to be altered in cirrhosis, correlation with mucosal microbiota characterized via rectal swab has not been previously described in this patient population. We conducted a cross-sectional analysis using 39 stool and 39 rectal swabs from adult patients with cirrhosis of different etiologies and performed shotgun metagenomic sequencing. Bacterial growth studies were performed with Escherichia coli. Two asaccharolytic bacterial taxa, Finegoldia magna and Porphyromonas asaccharolytica, were increased in rectal swabs relative to stool (FDR &lt; 0.01). Genomic analysis of the microbiome revealed 58 genes and 16 pathways that differed between stool and rectal swabs (FDR &lt; 0.05), where rectal swabs were enriched for pathways associated with protein synthesis and cellular proliferation but decreased in carbohydrate metabolism. Although no features in the fecal microbiome differentiated cirrhosis etiologies, the mucosal microbiome revealed decreased abundances of E. coli and Enterobacteriaceae in alcohol-related cirrhosis relative to non-alcohol related cirrhosis (FDR &lt; 0.05). In vitro bacterial culture studies showed that physiological concentrations of ethanol and its oxidative metabolites inhibited E. coli growth in a pH- and concentration-dependent manner. Characterization of the mucosally associated gut microbiome via rectal swab revealed findings consistent with amino acid/nitrogen abundance versus carbohydrate limitation in the mucosal microenvironment as well as unique features of alcohol-related cirrhosis possibly consistent with the influence of host-derived metabolites on the composition of mucosally adherent microbiota.
+## The Mucosally-Adherent Rectal Microbiota Contains Features Unique to Alcohol-Related Cirrhosis
 
 [Source](https://doi.org/10.1080/19490976.2021.1987781)
-
-10.1080/19490976.2021.1987781
 
 ---
 
@@ -281,51 +263,27 @@ Over the last few years, advances in massively parallel sequencing technologies 
 
 ---
 
-## The impact of a low-calorie, low-glycemic diet on systemic lupus erythematosus: a systematic review.
- 07.11.2021, _AM Imoto, LB Gottems, AL Salomon, HECE Silva, IL Júnior, MS Peccin, FF Amorim, LA Santana_
-
-
-Diet plays a critical role in Systemic Lupus Erythematosus (SLE) patients, impacting on the microbiota composition and, consequently, on the immune response. The objective was to analyze and verify the diet effect on SLE patients.
+## The impact of a low-calorie, low-glycemic diet on systemic lupus erythematosus: a systematic review
 
 [Source](https://doi.org/10.1186/s42358-021-00224-1)
 
-10.1186/s42358-021-00224-1
-
 ---
 
-## Recent advances in the concept of paraprobiotics: Nutraceutical/functional properties for promoting children health.
- 08.11.2021, _H Kumar, F Schütz, K Bhardwaj, R Sharma, E Nepovimova, DS Dhanjal, R Verma, D Kumar, K Kuča, N Cruz-Martins_
-
-
-Probiotics consumption has been associated with various health promoting benefits, including disease prevention and even treatment by modulating gut microbiota. Contrary to this, probiotics may also overstimulate the immune system, trigger systemic infections, harmful metabolic activities, and promote gene transfer. In children, the fragile immune system and impaired intestinal barrier may boost the occurrence of adverse effects following probiotics' consumption. To overcome these health challenges, the key focus has been shifted toward non-viable probiotics, also called paraprobiotics. Cell wall polysaccharides, peptidoglycans, surface proteins and teichoic acid present on cell's surface are involved in the interaction of paraprobiotics with the host, ultimately providing health benefits. Among other benefits, paraprobiotics possess the ability to regulate innate and adaptive immunity, exert anti-adhesion, anti-biofilm, anti-hypertensive, anti-inflammatory, antioxidant, anti-proliferative, and antagonistic effects against pathogens, while also enhance clinical impact and general safety when administered in children in comparison to probiotics. Clinical evidence have underlined the paraprobiotics impact in children and young infants against atopic dermatitis, respiratory and gastrointestinal infections, in addition to be useful for immunocompromised individuals. Therefore, this review focuses on probiotics-related issues in children's health and also discusses the Lactobacillus and Bifidobacterium spp. qualities for qualifying as paraprobiotics and their role in promoting the children's health.
+## Recent advances in the concept of paraprobiotics: Nutraceutical/functional properties for promoting children health
 
 [Source](https://doi.org/10.1080/10408398.2021.1996327)
 
-10.1080/10408398.2021.1996327
-
 ---
 
-## Breastfeeding Contributes to Physiological Immune Programming in the Newborn.
- 08.11.2021, _A Camacho-Morales, M Caba, M García-Juárez, MD Caba-Flores, R Viveros-Contreras, C Martínez-Valenzuela_
-
-
-The first 1,000 days in the life of a human being are a vulnerable stage where early stimuli may program adverse health outcomes in future life. Proper maternal nutrition before and during pregnancy modulates the development of the fetus, a physiological process known as fetal programming. Defective programming promotes non-communicable chronic diseases in the newborn which might be prevented by postnatal interventions such as breastfeeding. Breast milk provides distinct bioactive molecules that contribute to immune maturation, organ development, and healthy microbial gut colonization, and also secures a proper immunological response that protects against infection and inflammation in the newborn. The gut microbiome provides the most critical immune microbial stimulation in the newborn in early life, allowing a well-trained immune system and efficient metabolic settings in healthy subjects. Conversely, negative fetal programming by exposing mothers to diets rich in fat and sugar has profound effects on breast milk composition and alters the immune profiles in the newborn. At this new stage, newborns become vulnerable to immune compromise, favoring susceptibility to defective microbial gut colonization and immune response. This review will focus on the importance of breastfeeding and its immunological biocomponents that allow physiological immune programming in the newborn. We will highlight the importance of immunological settings by breastfeeding, allowing proper microbial gut colonization in the newborn as a window of opportunity to secure effective immunological response.
+## Breastfeeding Contributes to Physiological Immune Programming in the Newborn
 
 [Source](https://doi.org/10.3389/fped.2021.744104)
 
-10.3389/fped.2021.744104
-
 ---
 
-## Electroacupuncture could balance the gut microbiota and improve the learning and memory abilities of Alzheimer's disease animal model.
- 08.11.2021, _J Jiang, H Liu, Z Wang, H Tian, S Wang, J Yang, J Ren_
-
-
-Alzheimer's disease (AD), as one of most common dementia, mainly affects older people from the worldwide. In this study, we intended to explore the possible mechanism of improving cognitive function and protecting the neuron effect by electroacupuncture.
+## Electroacupuncture could balance the gut microbiota and improve the learning and memory abilities of Alzheimer’s disease animal model
 
 [Source](https://doi.org/10.1371/journal.pone.0259530)
-
-10.1371/journal.pone.0259530
 
 ---
 
@@ -341,15 +299,9 @@ Alzheimer's disease (AD), as one of most common dementia, mainly affects older p
 
 ---
 
-## Metagenomic and network analysis revealed wide distribution of antibiotic resistance genes in monkey gut microbiota.
- 06.11.2021, _Y Yan, H Li, A Fayyaz, Y Gai_
-
-
-The emergence and spread of drug-resistant microorganisms that have acquired new resistance mechanisms, leading to antibiotic resistance, continue to threaten the health of humans and animals worldwide. Non-human primates (NHPs), as close living relatives of human beings in the world, have a high degree of genetic and physiological similarity to humans. However, despite its importance, we lack a comprehensive characterization or understanding of the similarities and differences of the antibiotic resistance genes of the gut microbiome carried by non-human primates and humans. In the present study, the diversity and abundance of antibiotic resistance genes carried by the gut microbiota of cynomolgus monkeys (Macaca fascicularis) were investigated by metagenomic analysis. In total, 60 resistance types conferring resistance to 11 categories of antibiotics were identified in the gut microbiome of cynomolgus monkeys. Interestingly, the composition and abundance of ARGs carried by the gut microbiota of cynomolgus monkeys can be significantly affected by dietary changes. Moreover, we found that all ARG types carried by humans are also present in cynomolgus monkeys. The tetracycline resistance gene tet(37) is evolutionarily conserved and highly homologous. Taken together, our study provides a comprehensive overview of the diversity and richness of ARGs in the gut microbiota of cynomolgus monkeys and underlines the potentially crucial role of diet in the gut health of monkeys and humans.
+## Metagenomic and network analysis revealed wide distribution of antibiotic resistance genes in monkey gut microbiota
 
 [Source](https://doi.org/10.1016/j.micres.2021.126895)
-
-10.1016/j.micres.2021.126895
 
 ---
 
@@ -359,15 +311,9 @@ The emergence and spread of drug-resistant microorganisms that have acquired new
 
 ---
 
-## Bacterial Communities of Lab and Field Northern House Mosquitoes (Diptera: Culicidae) Throughout Diapause.
- 08.11.2021, _EM Didion, M Doyle, JB Benoit_
-
-
-Diapause is a hormonally driven response which is triggered by environmental cues that signal impending adverse conditions and prompts metabolic, developmental, and behavioral changes to allow survival until the return of favorable conditions. Microbial symbionts have been shown to influence the metabolism, development, and behavior of their host organisms, all of which are common diapause-associated characteristics. Surveys of bacterial components in relation to diapause have been examined in few systems, of which the species are usually inactive during dormancy, such as eggs or pupae. This is specifically intriguing as adult female diapause in Culex pipiens (Diptera: Culicidae) can last between 4 and 7 mo and females remain mobile within their hibernacula. Furthermore, it is unknown how microbiota changes associated with prolonged dormancy are different between the lab and field for insect systems. This study aims to characterize how the microbiota of C. pipiens changes throughout diapause under both field and lab settings when provided identical food and water resources. Based on these studies, C. pipiens microbiota shifts as diapause progresses and there are considerable differences between field and lab individuals even when provided the same carbohydrate and water sources. Specific bacterial communities have more association with different periods of diapause, field and lab rearing conditions, and nutritional reserve levels. These studies highlight that diapausing mosquito microbiota studies ideally should occur in field mesocosms and at multiple locations, to increase applicability to wild C. pipiens as prolonged exposure to artificial rearing conditions could impact metrics related to diapause-microbiome interactions. Additionally, these findings suggest that it would be worthwhile to establish if the microbiota shift during diapause impacts host physiology and whether this shift is critical to diapause success.
+## Bacterial Communities of Lab and Field Northern House Mosquitoes (Diptera: Culicidae) Throughout Diapause
 
 [Source](https://doi.org/10.1093/jme/tjab184)
-
-10.1093/jme/tjab184
 
 ---
 
@@ -389,18 +335,6 @@ Diapause is a hormonally driven response which is triggered by environmental cue
 
 ---
 
-## Identification of bacterial communities in extreme sites of Pakistan using high throughput barcoded amplicon sequencing.
- 08.11.2021, _A Fariq, A Yasmin, JC Blazier, S Jannat_
-
-
-Microorganisms thrive nearly everywhere including extreme environments where few other forms of life can exist. Geochemistry of extreme sites plays a major role in shaping these microbial communities and microbes thriving in such harsh conditions are untapped sources of novel biomolecules. To understand the structure and composition of such microbial communities, culture-independent bacterial diversity was characterised for two extreme sites in Pakistan, Khewra salt range and Murtazaabad hot spring. Barcoded amplicon sequencing technique was used to study the microbial communities. Physicochemical analysis of these sites was also conducted to study the dynamics of microbial communities under stressed conditions. Metagenomic sequencing of salt range soil samples yielded of 40,433 16S rRNA sequences, while hot spring sediments produced 76,449 16S rRNA sequence reads. Proteobacteria were predominant in saline soil while Firmicutes were most abundant in hot spring sediment. The taxonomic analysis of saline samples revealed 914 operational taxonomic units (OTUs) while that of hot spring sequences were clustered into 726 distinct OTUs. OTUs from genus Alkalibacillus were most abundant in hot spring sediments, whereas Haloarcula were more prevalent in saline soil. Some unidentified sequences were also present at each taxonomic level. Multivariate analysis indicated that electrical conductivity and pH are the major environmental factors involved in modelling microbial communities. This study revealed a poly-extremophilic microbial community in the Murtazaabad hot spring and characterised the unexplored halophilic microbial diversity of saline soil of Pakistan.
-
-[Source](https://www.nature.com/articles/s41579-021-00648-y)
-
-10.3897/BDJ.9.e68929
-
----
-
 ## Microbial diversity in extreme environments
 
 [Source](https://www.nature.com/articles/s41579-021-00648-y)
@@ -413,51 +347,27 @@ Microorganisms thrive nearly everywhere including extreme environments where few
 
 ---
 
-## Bacterial Community Structure and Metabolic Function Succession During the Composting of Distilled Grain Waste.
- 08.11.2021, _SP Wang, ZY Sun, ST Wang, HW Yuan, MZ An, ZY Xia, YQ Tang, CH Shen, K Kida_
-
-
-Distilled grain waste (DGW) can be converted to organic fertilizer via aerobic composting process without inoculating exogenous microorganisms. To illustrate the material conversion mechanism, this study investigated the dynamic changes of bacterial community structure and metabolic function involved in DGW composting. Results showed that a significant increase in microbial community alpha diversity was observed during DGW composting. Moreover, unique community structures occurred at each composting stage. The dominant phyla were Firmicutes, Proteobacteria, Actinobacteriota, Bacteroidota, Myxococcota, and Chloroflexi, whose abundance varied according to different composting stages. Keystone microbes can be selected as biomarkers for each stage, and Microbispora, Chryseolinea, Steroidobacter, Truepera, and Luteimonas indicating compost maturity. Co-occurrence network analysis revealed a significant relationship between keystone microbes and environmental factors. The carbohydrate and amino acid metabolism were confirmed as the primary metabolic pathways by metabolic function profiles. Furthermore, nitrogen metabolism pathway analysis indicated that denitrification and NH3 volatilization induced higher nitrogen loss during DGW composting. This study can provide new understanding of the microbiota for organic matter and nitrogen conversion in the composting process of DGW.
+## Bacterial Community Structure and Metabolic Function Succession During the Composting of Distilled Grain Waste
 
 [Source](https://doi.org/10.1007/s12010-021-03731-5)
 
-10.1007/s12010-021-03731-5
-
 ---
 
-## AMDB: a database of animal gut microbial communities with manually curated metadata.
- 08.11.2021, _J Yang, J Park, Y Jung, J Chun_
-
-
-Variations in gut microbiota can be explained by animal host characteristics, including host phylogeny and diet. However, there are currently no databases that allow for easy exploration of the relationship between gut microbiota and diverse animal hosts. The Animal Microbiome Database (AMDB) is the first database to provide taxonomic profiles of the gut microbiota in various animal species. AMDB contains 2530 amplicon data from 34 projects with manually curated metadata. The total data represent 467 animal species and contain 10 478 bacterial taxa. This novel database provides information regarding gut microbiota structures and the distribution of gut bacteria in animals, with an easy-to-use interface. Interactive visualizations are also available, enabling effective investigation of the relationship between the gut microbiota and animal hosts. AMDB will contribute to a better understanding of the gut microbiota of animals. AMDB is publicly available without login requirements at http://leb.snu.ac.kr/amdb.
+## AMDB: a database of animal gut microbial communities with manually curated metadata
 
 [Source](https://doi.org/10.1093/nar/gkab1009)
 
-10.1093/nar/gkab1009
-
 ---
 
-## RESCRIPt: Reproducible sequence taxonomy reference database management.
- 08.11.2021, _MS Robeson, DR O'Rourke, BD Kaehler, M Ziemski, MR Dillon, JT Foster, NA Bokulich_
-
-
-Nucleotide sequence and taxonomy reference databases are critical resources for widespread applications including marker-gene and metagenome sequencing for microbiome analysis, diet metabarcoding, and environmental DNA (eDNA) surveys. Reproducibly generating, managing, using, and evaluating nucleotide sequence and taxonomy reference databases creates a significant bottleneck for researchers aiming to generate custom sequence databases. Furthermore, database composition drastically influences results, and lack of standardization limits cross-study comparisons. To address these challenges, we developed RESCRIPt, a Python 3 software package and QIIME 2 plugin for reproducible generation and management of reference sequence taxonomy databases, including dedicated functions that streamline creating databases from popular sources, and functions for evaluating, comparing, and interactively exploring qualitative and quantitative characteristics across reference databases. To highlight the breadth and capabilities of RESCRIPt, we provide several examples for working with popular databases for microbiome profiling (SILVA, Greengenes, NCBI-RefSeq, GTDB), eDNA and diet metabarcoding surveys (BOLD, GenBank), as well as for genome comparison. We show that bigger is not always better, and reference databases with standardized taxonomies and those that focus on type strains have quantitative advantages, though may not be appropriate for all use cases. Most databases appear to benefit from some curation (quality filtering), though sequence clustering appears detrimental to database quality. Finally, we demonstrate the breadth and extensibility of RESCRIPt for reproducible workflows with a comparison of global hepatitis genomes. RESCRIPt provides tools to democratize the process of reference database acquisition and management, enabling researchers to reproducibly and transparently create reference materials for diverse research applications. RESCRIPt is released under a permissive BSD-3 license at https://github.com/bokulich-lab/RESCRIPt.
+## RESCRIPt: Reproducible sequence taxonomy reference database management
 
 [Source](https://doi.org/10.1371/journal.pcbi.1009581)
 
-10.1371/journal.pcbi.1009581
-
 ---
 
-## Reprocessing 16S rRNA Gene Amplicon Sequencing Studies: (Meta)Data Issues, Robustness, and Reproducibility.
- 08.11.2021, _X Kang, DM Deng, W Crielaard, BW Brandt_
-
-
-High-throughput sequencing technology provides an efficient method for evaluating microbial ecology. Different bioinformatics pipelines can be used to convert 16S ribosomal RNA gene amplicon sequencing data into an operational taxonomic unit (OTU) table that is used to analyze microbial communities. It is important to assess the robustness of these pipelines, each with specific algorithms and/or parameters, and their influence on the outcome of statistical tests. Articles with publicly available datasets on the oral microbiome were searched for, and five datasets were retrieved. These were from studies on changes in microbiota related to smoking, oral cancer, caries, diabetes, or periodontitis. Next, the data was processed with four pipelines based on VSEARCH, USEARCH, mothur, and UNOISE3. OTU tables were rarefied, and differences in α-diversity and β-diversity were tested for different groups in a dataset. Finally, these results were checked for consistency among these example pipelines. Of articles that deposited data, only 57% made all sequencing and metadata available. When processing the datasets, issues were encountered, caused by read characteristics and differences between tools and their defaults in combination with a lack of detail in the methodology of the articles. In general, the four mainstream pipelines provided similar results, but importantly, P-values sometimes differed between pipelines beyond the significance threshold. Our results indicated that for published articles, the description of bioinformatics methods and data deposition should be improved, and regarding reproducibility, that analysis of multiple subsamples is required when using rarefying as library-size normalization method.
+## Reprocessing 16S rRNA Gene Amplicon Sequencing Studies: (Meta)Data Issues, Robustness, and Reproducibility
 
 [Source](https://doi.org/10.3389/fcimb.2021.720637)
-
-10.3389/fcimb.2021.720637
 
 ---
 
