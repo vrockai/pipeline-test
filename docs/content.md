@@ -64,63 +64,33 @@ The interrelationships among the gut microbiome, the MedDiet and a clinical endp
 
 ---
 
-## Multiple bacterial virulence factors focused on adherence and biofilm formation associate with outcomes in cirrhosis.
- 08.11.2021, _JS Bajaj, A Shamsaddini, C Acharya, A Fagan, M Sikaroodi, E Gavis, S McGeorge, A Khoruts, M Fuchs, RK Sterling, H Lee, PM Gillevet_
-
-
-Altered gut microbiota is associated with poor outcomes in cirrhosis, including infections and hepatic encephalopathy (HE). However, the role of bacterial virulence factors (VFs) is unclear. Aim: Define association of VFs with cirrhosis severity and infections, their linkage with outcomes, and impact of fecal microbiota transplant (FMT).
+## Multiple bacterial virulence factors focused on adherence and biofilm formation associate with outcomes in cirrhosis
 
 [Source](https://doi.org/10.1080/19490976.2021.1993584)
 
-10.1080/19490976.2021.1993584
-
 ---
 
-## Long-term dynamics of the human oral microbiome during clinical disease progression.
- 07.11.2021, _A Duran-Pinedo, J Solbiati, F Teles, R Teles, Y Zang, J Frias-Lopez_
-
-
-Oral microbiome dysbiosis is linked to overt inflammation of tooth-supporting tissues, leading to periodontitis, an oral condition that can cause tooth and bone loss. Microbiome dysbiosis has been described as a disruption in the symbiotic microbiota composition's stability that could adversely affect the host's health status. However, the precise microbiome dynamics that lead to dysbiosis and the progression of the disease are largely unknown. The objective of our study was to investigate the long-term dynamics of periodontitis progression and its connection to dysbiosis.
+## Long-term dynamics of the human oral microbiome during clinical disease progression
 
 [Source](https://doi.org/10.1186/s12915-021-01169-z)
 
-10.1186/s12915-021-01169-z
-
 ---
 
-## Microbiome characteristics and the key biochemical reactions identified on stone world cultural heritage under different climate conditions.
- 06.11.2021, _X Ding, W Lan, A Yan, Y Li, Y Katayama, JD Gu_
-
-
-The surfaces of historical stone monuments are visibly covered with a layer of colonizing microorganisms and their degradation products. In this study, a metadata analysis was conducted using the microbial sequencing data available from NCBI database to determine the diversity, biodeterioration potential and functionality of the stone microbiome on important world cultural heritage sites under four different climatic conditions. The retrieved stone microbial community composition in these metagenomes shows a clear association between climate types of the historical monuments and the diversity and taxonomic composition of the stone microbiomes. Shannon diversity values showed that microbial communities on stone monuments exposed to dry climate were more diverse than those under humid ones. In particular, functions associated with photosynthesis and UV resistance were identified from geographical locations under different climate types. The distribution of key microbial determinants responsible for stone deterioration was linked to survival under extreme environmental conditions and biochemical capabilities and reactions. Among them, biochemical reactions of the microbial nitrogen and sulfur cycles were most predominant. These stone-dwelling microbiomes on historical stone monuments were highly diverse and self-sustaining driven by energy metabolism and biomass accumulation. And metabolic products of the internal geomicrobiological nitrogen cycling on these ancient monuments play a unique role in the biodeterioration of stone monuments. These results highlight the significance of identifying the essential microbial biochemical reactions to advance the understanding of stone biodeterioration for protection management.
+## Microbiome characteristics and the key biochemical reactions identified on stone world cultural heritage under different climate conditions
 
 [Source](https://doi.org/10.1016/j.jenvman.2021.114041)
 
-10.1016/j.jenvman.2021.114041
-
 ---
 
-## Fecal biomarkers of environmental enteric dysfunction and the gut microbiota of rural Malawian children: An observational study.
- 08.11.2021, _D Chaima, H Pickering, JD Hart, SE Burr, KM Maleta, K Kalua, RL Bailey, MJ Holland_
-
-
-Environmental enteric dysfunction (EED) is a subclinical condition of the gut characterized by changes in morphology and function with underlying chronic inflammatory responses. This study characterized composition and diversity of the gut microbiota in rural Malawian children with and without signs of EED. Fecal samples were collected from children aged 1-59 months. Neopterin, myeloperoxidase and alpha-1 antitrypsin concentrations were quantified by ELISA and combined to form a composite EED score using principal component analysis. DNA was extracted from fecal samples and V4-16S rRNA gene sequencing was used to characterize the gut microbiota. The concentrations of all three biomarkers decreased with increasing age, which is consistent with other studies of children living in similar low-income settings. Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria were the dominant phyla while Faecalibacterium and Bifidobacterium were the most prevalent genera. Increased alpha diversity was associated with a reduction in neopterin concentration. Microbiota composition was different between fecal samples with low and high composite EED scores; increased abundance of Succinivibrio was associated with reduced composite EED scores.
+## Fecal biomarkers of environmental enteric dysfunction and the gut microbiota of rural Malawian children: An observational study
 
 [Source](https://doi.org/10.1016/j.heliyon.2021.e08194)
 
-10.1016/j.heliyon.2021.e08194
-
 ---
 
-## The Evolving Role of Consensus Molecular Subtypes: a Step Beyond Inpatient Selection for Treatment of Colorectal Cancer.
- 08.11.2021, _J Ros, I Baraibar, G Martini, F Salvà, N Saoudi, JL Cuadra-Urteaga, R Dienstmann, J Tabernero, E Élez_
-
-
-The heterogenous nature of colorectal cancer (CRC) renders it a major clinical challenge. Increasing genomic understanding of CRC has improved our knowledge of this heterogeneity and the main cancer drivers, with significant improvements in clinical outcomes. Comprehensive molecular characterization has allowed clinicians a more precise range of treatment options based on biomarker selection. Furthermore, this deep molecular understanding likely extends therapeutic options to a larger number of patients. The biological associations of consensus molecular subtypes (CMS) with clinical outcomes in localized CRC have been validated in retrospective clinical trials. The prognostic role of CMS has also been confirmed in the metastatic setting, with CMS2 having the best prognosis, whereas CMS1 tumors are associated with a higher risk of progression and death after chemotherapy. Similarly, according to mesenchymal features and immunosuppressive molecules, CMS1 responds to immunotherapy, whereas CMS4 has a poorer prognosis, suggesting that a CMS1 signature could identify patients who may benefit from immune checkpoint inhibitors regardless of microsatellite instability (MSI) status. The main goal of these comprehensive analyses is to switch from "one marker-one drug" to "multi-marker drug combinations" allowing oncologists to give "the right drug to the right patient." Despite the revealing data from transcriptomic analyses, the high rate of intra-tumoral heterogeneity across the different CMS subgroups limits its incorporation as a predictive biomarker. In clinical practice, when feasible, comprehensive genomic tests should be performed to identify potentially targetable alterations, particularly in RAS/BRAF wild-type, MSI, and right-sided tumors. Furthermore, CMS has not only been associated with clinical outcomes and specific tumor and patient phenotypes but also with specific microbiome patterns. Future steps will include the integration of clinical features, genomics, transcriptomics, and microbiota to select the most accurate biomarkers to identify optimal treatments, improving individual clinical outcomes. In summary, CMS is context specific, identifies a level of heterogeneity beyond standard genomic biomarkers, and offers a means of maximizing personalized therapy.
+## The Evolving Role of Consensus Molecular Subtypes: a Step Beyond Inpatient Selection for Treatment of Colorectal Cancer
 
 [Source](https://doi.org/10.1007/s11864-021-00913-5)
-
-10.1007/s11864-021-00913-5
 
 ---
 
@@ -222,7 +192,7 @@ Despite an increasing appreciation in the importance of host-microbe interaction
 ---
 
 ## Progress and prospects of the healthy human gut virome.
- 06.11.2021, _SR Stockdale, C Hill_
+ 09.11.2021, _SR Stockdale, C Hill_
 
 
 Not all viruses associated with humans cause disease. Non-pathogenic human-infecting viruses are predicted as important for immune system induction and preparation. Phages that infect bacteria are the most abundant predators of the human microbial ecosystem, promoting and maintaining bacterial diversity. Metagenomic analyses of the human gut virome and microbiome are unravelling the intricate predator-prey dynamics of phage-bacteria co-existence, co-evolution, and their interplay with the human host. While most adults harbour a distinctly individualistic and persistent community of virulent phages, new-borns are dominated by temperate phages heavily influenced by environmental exposures. The future development of microbiome-based interventions, therapeutics, and manipulation, will require a greater understanding of the human microbiome and the virome.
@@ -234,7 +204,7 @@ Not all viruses associated with humans cause disease. Non-pathogenic human-infec
 ---
 
 ## Integrating the human microbiome in the forensic toolkit: Current bottlenecks and future solutions.
- 06.11.2021, _C Díez López, A Vidaki, M Kayser_
+ 09.11.2021, _C Díez López, A Vidaki, M Kayser_
 
 
 Over the last few years, advances in massively parallel sequencing technologies (also referred to next generation sequencing) and bioinformatics analysis tools have boosted our knowledge on the human microbiome. Such insights have brought new perspectives and possibilities to apply human microbiome analysis in many areas, particularly in medicine. In the forensic field, the use of microbial DNA obtained from human materials is still in its infancy but has been suggested as a potential alternative in situations when other human (non-microbial) approaches present limitations. More specifically, DNA analysis of a wide variety of microorganisms that live in and on the human body offers promises to answer various forensically relevant questions, such as post-mortem interval estimation, individual identification, and tissue/body fluid identification, among others. However, human microbiome analysis currently faces significant challenges that need to be considered and overcome via future forensically oriented human microbiome research to provide the necessary solutions. In this perspective article, we discuss the most relevant biological, technical and data-related issues and propose future solutions that will pave the way towards the integration of human microbiome analysis in the forensic toolkit.
