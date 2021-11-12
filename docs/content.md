@@ -100,6 +100,18 @@
 
 ---
 
+## [The preventive effect of four drugs on acute mountain sickness: a Bayesian network meta-analysis].
+ 10.11.2021, _HL Yang, MJ Deng, W Zhang, S Huang_
+
+
+Objective: To compare and predict the preventive effects of acetazolamide and other drugs on acute mountain sickness(AMS). Methods: Following the retrieval strategy of PRISMA statement of systematic review and meta-analysis, we searched the databases of PubMed, Embase, Cochrane Library, Web of Science, CNKI, Wanfang, etc. from January 1, 1980 to November 30, 2020, and randomized controlled trials (RCT) consistent with drug prevention of AMS were conducted. Using R and other statistical software, Markov chain-Monte Carlo method was carried out for network meta-analysis under Bayesian framework, and node separation method was performed to check the consistency of closed-loop research. Results: Twenty-three literatures (25 studies) were included to compare the preventive effects of 4 drugs on AMS. Bayesian network meta-analysis showed that the incidence of AMS in acetazolamide group (ACE), dexamethasone group (DEX), ginkgo biloba extract group (GBE) and rhodiola group (RHO) was lower than that in placebo group (PLA). In the comparison of drug groups, the incidence of AMS in ACE, DEX and RHO was lower than that in GBE. There was no statistically significant difference in the incidence of AMS among ACE, DEX and RHO groups. Eight of these studies reported the effects of two drugs on pulse oxygen saturation (SpO2) in people entering the target altitude. Bayesian network meta-analysis showed that SpO2 in RHO was higher than that in ACE and PLA, but there was no statistically significant difference in SpO2 between ACE and PLA. The probability ranking of prevention AMS effect grade showed that the rank 5th probability of AMS in ACE, DEX, GBE, RHO and PLA was 45.72%, 48.80%, 0, 5.48% and 0, respectively. The probability ranking of improving the SpO2 level of the target altitude population showed that the probability of the ACE, RHO and PLA ranking 1st in improving the SpO2 effect at the target altitude was 2.27%, 97.66% and 0.07%, respectively; the results of direct comparison were in good agreement with those of Bayesian prediction model indirectly, and there was no statistical difference. Conclusions: Acetazolamide and dexamethasone can effectively prevent AMS, and should be the first choice for related supplementary research in the future. Rhodiola not only improves the SpO2 of people entering high altitude, but also reduces the incidence of AMS, which needs more attention. Ginkgo biloba extract is not as effective as the above three drugs in preventing AMS and should be used depending on clinical situations.
+
+[Source](https://twitter.com/doyouseewhy/status/1458883923476312078?ref_src=twsrc%5Etfw)
+
+10.3760/cma.j.cn112147-20210330-00211
+
+---
+
 ## November 11, 2021
 
 [Source](https://twitter.com/doyouseewhy/status/1458883923476312078?ref_src=twsrc%5Etfw)
