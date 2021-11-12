@@ -1,126 +1,234 @@
-## Recurrent urinary tract infection and estrogen shape the taxonomic ecology and functional potential of the postmenopausal urobiome
+## @MicrobiomDigest
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.11.06.467345v1.abstract)
-
----
-
-## The Impact of a Mediterranean Diet on the Gut Microbiome in Healthy Human Subjects: A Pilot Study.
- 08.11.2021, _JJ Rejeski, FM Wilson, R Nagpal, H Yadav, RB Weinberg_
-
-
-Despite the reported salutary benefits of a Mediterranean diet (MD) on a wide variety of health conditions, the specific microbial changes associated with an MD within the gastrointestinal (GI) tract are not well studied. Specifically, although population and survey-based studies have shown microbial changes, there are no published data on how an MD alters the gut flora in a controlled setting.
-
-[Source](https://www.karger.com/Article/Abstract/519445)
-
-10.1159/000519445
+[Source](https://twitter.com/MicrobiomDigest?ref_src=twsrc%5Etfw)
 
 ---
 
-## Altered diversity and composition of gut microbiota in patients with allergic rhinitis.
- 09.11.2021, _MS Zhou, B Zhang, ZL Gao, RP Zheng, DFHM Marcellin, A Saro, J Pan, L Chu, TS Wang, JF Huang_
+## https://t.co/SSByQwycex
 
-
-Recently, multiple studies have suggested an association between gut dysbiosis and allergic rhinitis (AR) development. However, the role of gut microbiota in AR development remains obscure.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401021005465)
-
-10.1016/j.micpath.2021.105272
+[Source](https://t.co/SSByQwycex)
 
 ---
 
-## Fecal Microbiome Transplantation for Recurrent Clostridioides difficile Infection: Treatment Efficacy, Short and Long-term Follow-up Results from Consecutive Case Series
+## @MicrobiomeVIF
 
-[Source](https://www.jgld.ro/jgld/index.php/jgld/article/view/3800)
-
----
-
-## Donor screening for fecal microbiota transplantation in China: Evaluation of 8,483 candidates
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0016508521037264)
+[Source](https://twitter.com/MicrobiomeVIF?ref_src=twsrc%5Etfw)
 
 ---
 
-## Faecal microbial biomarkers in early diagnosis of colorectal cancer
+## #MVIF
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/jcmm.17010)
-
----
-
-## Hepatocellular Cancer and Gut Microbiome: Time to Untie Gordian’s Knot
-
-[Source](https://link.springer.com/article/10.1007%2Fs12029-021-00736-5)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Cinnamic acid suppresses bone loss via induction of osteoblast differentiation with alteration of gut microbiota
+## https://t.co/3cAiq0fclZ
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S095528632100320X)
-
----
-
-## Gut microbiome affects the metabolism of metronidazole in mice through regulation of hepatic cytochromes P450 expression
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259643)
+[Source](https://t.co/3cAiq0fclZ)
 
 ---
 
-## Maternal effects on early-life gut microbiome maturation in a wild nonhuman primate
+## @neuroeldin
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.11.06.467515v1.abstract)
-
----
-
-## Evidence of MHC class I and II influencing viral and helminth infection via the microbiome in a non-human primate
-
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009675)
+[Source](https://twitter.com/neuroeldin?ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut Microbiome of Wild Baltic Salmon (Salmo salar L.) Parr
+## https://t.co/iA6Htup8gw
 
-[Source](https://link.springer.com/article/10.1007%2Fs00248-021-01910-9)
-
----
-
-## Artificial selection of stable rhizosphere microbiota leads to heritable plant phenotype changes
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/ele.13916)
+[Source](https://t.co/iA6Htup8gw)
 
 ---
 
-## Plastic mulch debris in rhizosphere: Interactions with soil-microbe-plant systems
+## November 10, 2021
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S004896972106513X)
-
----
-
-## Urbanization promotes specific bacteria in freshwater microbiomes including potential pathogens
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.06.26.173328v2.abstract)
+[Source](https://twitter.com/svetlana_up/status/1458268875863117826?ref_src=twsrc%5Etfw)
 
 ---
 
-## specificity : an R package for generalized specificity analysis, with example analyses of Hawaiian foliar endophytic Fungi, human gut microbiome bacteria, and Antarctic glacier bacteria
+## The composition of lung microbiome in lung cancer: a systematic review and meta-analysis
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.11.06.467582v1.abstract)
-
----
-
-## Unifying the known and unknown microbial coding sequence space
-
-[Source](https://www.biorxiv.org/content/10.1101/2020.06.30.180448v6.abstract)
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02375-z)
 
 ---
 
-## Identifying prognostic pairwise relationships among bacterial species in microbiome studies
+## Charting host-microbe co-metabolism in skin aging and application to metagenomics data
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009501)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258960)
 
 ---
 
-## HashSeq: a Simple, Scalable, and Conservative De Novo Variant Caller for 16S rRNA Gene Data Sets
+## The Spanish gut microbiome reveals links between microorganisms and Mediterranean diet
 
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00697-21)
+[Source](https://www.nature.com/articles/s41598-021-01002-1)
+
+---
+
+## Autism-related dietary preferences mediate autism-gut microbiome associations
+
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)01231-9)
+
+---
+
+## #autism
+
+[Source](https://twitter.com/hashtag/autism?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #microbiome
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## @CellCellPress
+
+[Source](https://twitter.com/CellCellPress?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/ZJpQ2Tkr44
+
+[Source](https://t.co/ZJpQ2Tkr44)
+
+---
+
+## pic.twitter.com/rK40M018nb
+
+[Source](https://t.co/rK40M018nb)
+
+---
+
+## November 11, 2021
+
+[Source](https://twitter.com/doyouseewhy/status/1458883923476312078?ref_src=twsrc%5Etfw)
+
+---
+
+## 16S rRNA metabarcoding unearths responses of rare gut microbiome of fathead minnows exposed to benzo[a]pyrene
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969721061386)
+
+---
+
+## Sampling the fish gill microbiome: a comparison of tissue biopsies and swabs
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02374-0)
+
+---
+
+## Rabbit microbiota across the whole body revealed by 16S rRNA gene amplicon sequencing
+
+[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02377-x)
+
+---
+
+## The composition of human vaginal microbiota transferred at birth affects offspring health in a mouse model
+
+[Source](https://www.nature.com/articles/s41467-021-26634-9)
+
+---
+
+## Polyamine metabolism links gut microbiota and testicular dysfunction
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01157-z)
+
+---
+
+## A fiber-deprived diet causes cognitive impairment and hippocampal microglia-mediated synaptic loss through the gut microbiota and metabolites
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01172-0)
+
+---
+
+## Microbial population genomes from the Amazon River reveal possible modulation of the organic matter degradation process in tropical freshwaters
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16222)
+
+---
+
+## https://t.co/GiVZMdfcHO
+
+[Source](https://t.co/GiVZMdfcHO)
+
+---
+
+## @ramalok
+
+[Source](https://twitter.com/ramalok?ref_src=twsrc%5Etfw)
+
+---
+
+## @BigDataBiology
+
+[Source](https://twitter.com/BigDataBiology?ref_src=twsrc%5Etfw)
+
+---
+
+## @ICMCSIC
+
+[Source](https://twitter.com/ICMCSIC?ref_src=twsrc%5Etfw)
+
+---
+
+## #AmazonRiver
+
+[Source](https://twitter.com/hashtag/AmazonRiver?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #TeOM
+
+[Source](https://twitter.com/hashtag/TeOM?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #paper
+
+[Source](https://twitter.com/hashtag/paper?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## November 8, 2021
+
+[Source](https://twitter.com/celiodiasjunior/status/1457843994361225218?ref_src=twsrc%5Etfw)
+
+---
+
+## Nanopore sequencing technology, bioinformatics and applications
+
+[Source](https://www.nature.com/articles/s41587-021-01108-x)
+
+---
+
+## mBodyMap: a curated database for microbes across human body and their associations with health and diseases
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab973/6413603)
+
+---
+
+## Density-based binning of gene clusters to infer function or evolutionary history using GeneGrouper 
+
+[Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab752/6420696)
+
+---
+
+## OptiFit: an improved method for fitting amplicon sequences to existing OTUs
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.11.09.468000v1)
+
+---
+
+## https://t.co/aWGacWxSd5
+
+[Source](https://t.co/aWGacWxSd5)
+
+---
+
+## October 29, 2021
+
+[Source](https://twitter.com/hoogenboom_lab/status/1454215634452205577?ref_src=twsrc%5Etfw)
 
 ---
 
