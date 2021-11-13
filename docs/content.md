@@ -250,18 +250,6 @@ Rivers connect the carbon cycle in land with that in aquatic ecosystems by trans
 
 ---
 
-## Microbial population genomes from the Amazon River reveal possible modulation of the organic matter degradation process in tropical freshwaters.
- 26.10.2021, _CD Santos-Júnior, R Logares, F Henrique-Silva_
-
-
-Rivers connect the carbon cycle in land with that in aquatic ecosystems by transporting and transforming terrestrial organic matter (TeOM). The Amazon River receives huge loads of TeOM from the surrounding rainforest, promoting a substantial microbial heterotrophic activity and consequently, CO2 outgassing. In the Amazon River, microbes degrade up to 55% of the lignin present in the TeOM. Yet, the main microbial genomes involved in TeOM degradation were unknown. Here, we characterize 51 population genomes (PGs) representing some of the most abundant microbes in the Amazon River deriving from 106 metagenomes. The 51 reconstructed PGs are among the most abundant microbes in the Amazon River, and 53% of them are not able to degrade TeOM. Among the PGs capable of degrading TeOM, 20% were exclusively cellulolytic, while the others could also oxidize lignin. The transport and consumption of lignin oxidation byproducts seemed to be decoupled from the oxidation process, being apparently performed by different groups of microorganisms. By connecting the genomic features of abundant microbes in the Amazon River with the degradation machinery of TeOM, we suggest that a complex microbial consortium could explain the quick turnover of TeOM previously observed in this ecosystem.
-
-[Source](https://twitter.com/hashtag/TeOM?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/mec.16222
-
----
-
 ## #TeOM
 
 [Source](https://twitter.com/hashtag/TeOM?src=hash&ref_src=twsrc%5Etfw)
