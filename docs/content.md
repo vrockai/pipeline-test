@@ -1,259 +1,126 @@
-## @MicrobiomDigest
+## Visualized analysis of trends and hotspots in global oral microbiome research: A bibliometric study
 
-[Source](https://twitter.com/MicrobiomDigest?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/SSByQwycex
-
-[Source](https://t.co/SSByQwycex)
+[Source](https://doi.org/10.1002/mco2.47)
 
 ---
 
-## @MicrobiomeVIF
+## A low abundance of genus<em> Bacteroides</em> in gut microbiota is negatively correlated with blood phenylalanine levels in Uygur patients with phenylketonuria
 
-[Source](https://twitter.com/MicrobiomeVIF?ref_src=twsrc%5Etfw)
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.21037/tp-21-426)
 
 ---
 
-## https://t.co/3cAiq0fclZ
+## Haematopoietic cell transplantation outcomes are linked to intestinal mycobiota dynamics and an expansion of <em>Candida parapsilosis</em> complex species
 
-[Source](https://t.co/3cAiq0fclZ)
-
----
-
-## @neuroeldin
-
-[Source](https://twitter.com/neuroeldin?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/iA6Htup8gw
-
-[Source](https://t.co/iA6Htup8gw)
-
----
-
-## November 10, 2021
-
-[Source](https://twitter.com/svetlana_up/status/1458268875863117826?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41564-021-00989-7)
 
 ---
 
 ## The composition of lung microbiome in lung cancer: a systematic review and meta-analysis
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02375-z)
+[Source](https://doi.org/10.1186/s12866-021-02375-z)
 
 ---
 
-## Charting host-microbe co-metabolism in skin aging and application to metagenomics data
+## A metaproteomic-based gut microbiota profiling in children affected by autism spectrum disorders
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0258960)
-
----
-
-## The Spanish gut microbiome reveals links between microorganisms and Mediterranean diet
-
-[Source](https://www.nature.com/articles/s41598-021-01002-1)
+[Source](https://doi.org/10.1016/j.jprot.2021.104407)
 
 ---
 
-## Autism-related dietary preferences mediate autism-gut microbiome associations
+## Is there an association between the vaginal microbiome and first trimester miscarriage? A prospective observational study
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)01231-9)
-
----
-
-## #autism
-
-[Source](https://twitter.com/hashtag/autism?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1111/jog.15086)
 
 ---
 
-## #microbiome
+## Gut microbiota and vitamin status in persons with obesity: A key interplay
 
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## @CellCellPress
-
-[Source](https://twitter.com/CellCellPress?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1111/obr.13377)
 
 ---
 
-## https://t.co/ZJpQ2Tkr44
+## Insights into the role of vaginal microbiome in women’s health
 
-[Source](https://t.co/ZJpQ2Tkr44)
-
----
-
-## pic.twitter.com/rK40M018nb
-
-[Source](https://t.co/rK40M018nb)
+[Source](https://doi.org/10.1002/jobm.202100421)
 
 ---
 
-## [The preventive effect of four drugs on acute mountain sickness: a Bayesian network meta-analysis].
- 12.11.2021, _HL Yang, MJ Deng, W Zhang, S Huang_
+## The gut virome in inflammatory bowel diseases
 
-
-_Acetazolamide, Acute Disease, Altitude, Altitude Sickness, Chronic Disease, Humans, Network Meta-Analysis_
-Objective: To compare and predict the preventive effects of acetazolamide and other drugs on acute mountain sickness(AMS). Methods: Following the retrieval strategy of PRISMA statement of systematic review and meta-analysis, we searched the databases of PubMed, Embase, Cochrane Library, Web of Science, CNKI, Wanfang, etc. from January 1, 1980 to November 30, 2020, and randomized controlled trials (RCT) consistent with drug prevention of AMS were conducted. Using R and other statistical software, Markov chain-Monte Carlo method was carried out for network meta-analysis under Bayesian framework, and node separation method was performed to check the consistency of closed-loop research. Results: Twenty-three literatures (25 studies) were included to compare the preventive effects of 4 drugs on AMS. Bayesian network meta-analysis showed that the incidence of AMS in acetazolamide group (ACE), dexamethasone group (DEX), ginkgo biloba extract group (GBE) and rhodiola group (RHO) was lower than that in placebo group (PLA). In the comparison of drug groups, the incidence of AMS in ACE, DEX and RHO was lower than that in GBE. There was no statistically significant difference in the incidence of AMS among ACE, DEX and RHO groups. Eight of these studies reported the effects of two drugs on pulse oxygen saturation (SpO2) in people entering the target altitude. Bayesian network meta-analysis showed that SpO2 in RHO was higher than that in ACE and PLA, but there was no statistically significant difference in SpO2 between ACE and PLA. The probability ranking of prevention AMS effect grade showed that the rank 5th probability of AMS in ACE, DEX, GBE, RHO and PLA was 45.72%, 48.80%, 0, 5.48% and 0, respectively. The probability ranking of improving the SpO2 level of the target altitude population showed that the probability of the ACE, RHO and PLA ranking 1st in improving the SpO2 effect at the target altitude was 2.27%, 97.66% and 0.07%, respectively; the results of direct comparison were in good agreement with those of Bayesian prediction model indirectly, and there was no statistical difference. Conclusions: Acetazolamide and dexamethasone can effectively prevent AMS, and should be the first choice for related supplementary research in the future. Rhodiola not only improves the SpO2 of people entering high altitude, but also reduces the incidence of AMS, which needs more attention. Ginkgo biloba extract is not as effective as the above three drugs in preventing AMS and should be used depending on clinical situations.
-
-[Source](https://twitter.com/doyouseewhy/status/1458883923476312078?ref_src=twsrc%5Etfw)
-
-10.3760/cma.j.cn112147-20210330-00211
+[Source](https://doi.org/10.1016/j.coviro.2021.10.005)
 
 ---
 
-## November 11, 2021
+## Tuber flours improve intestinal health and modulate gut microbiota composition
 
-[Source](https://twitter.com/doyouseewhy/status/1458883923476312078?ref_src=twsrc%5Etfw)
-
----
-
-## 16S rRNA metabarcoding unearths responses of rare gut microbiome of fathead minnows exposed to benzo[a]pyrene
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969721061386)
+[Source](https://doi.org/10.1016/j.fochx.2021.100145)
 
 ---
 
-## Sampling the fish gill microbiome: a comparison of tissue biopsies and swabs
+## Effects of red ginseng on gut, microbiota, and brain in a mouse model of post-infectious irritable bowel syndrome
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02374-0)
-
----
-
-## Rabbit microbiota across the whole body revealed by 16S rRNA gene amplicon sequencing
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-021-02377-x)
+[Source](https://doi.org/10.1016/j.jgr.2021.03.008)
 
 ---
 
-## The composition of human vaginal microbiota transferred at birth affects offspring health in a mouse model
+## The inconsistent microbiota of Budu, the Malaysian fermented anchovy sauce, revealed through 16S amplicon sequencing
 
-[Source](https://www.nature.com/articles/s41467-021-26634-9)
-
----
-
-## Polyamine metabolism links gut microbiota and testicular dysfunction
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01157-z)
+[Source](https://doi.org/10.7717/peerj.12345)
 
 ---
 
-## A fiber-deprived diet causes cognitive impairment and hippocampal microglia-mediated synaptic loss through the gut microbiota and metabolites
+## Seasonal diet and microbiome shifts in wild rhesus macaques are better correlated at the level of nutrient components than food items
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01172-0)
-
----
-
-## Microbial population genomes from the Amazon River reveal possible modulation of the organic matter degradation process in tropical freshwaters
-
-[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16222)
+[Source](https://doi.org/10.1111/1749-4877.12601)
 
 ---
 
-## https://t.co/GiVZMdfcHO
+## Wild gut microbiomes reveal individuals, species, and location as drivers of variation in two critically endangered Hawaiian honeycreepers
 
-[Source](https://t.co/GiVZMdfcHO)
-
----
-
-## @ramalok
-
-[Source](https://twitter.com/ramalok?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.7717/peerj.12291)
 
 ---
 
-## @BigDataBiology
+## The end of hunger: fertilizers, microbes and plant productivity
 
-[Source](https://twitter.com/BigDataBiology?ref_src=twsrc%5Etfw)
-
----
-
-## @ICMCSIC
-
-[Source](https://twitter.com/ICMCSIC?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1111/1751-7915.13973)
 
 ---
 
-## #AmazonRiver
+## Enrichment of beneficial rhizosphere microbes in Chinese wheat yellow mosaic virus-resistant cultivars
 
-[Source](https://twitter.com/hashtag/AmazonRiver?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #TeOM
-
-[Source](https://twitter.com/hashtag/TeOM?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1007/s00253-021-11666-4)
 
 ---
 
-## #paper
+## Unexpected diversity among small-scale sample replicates of defined plant root compartments
 
-[Source](https://twitter.com/hashtag/paper?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## November 8, 2021
-
-[Source](https://twitter.com/celiodiasjunior/status/1457843994361225218?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41396-021-01094-7)
 
 ---
 
-## Nanopore sequencing technology, bioinformatics and applications
+## Microbial enrichment and storage for metagenomics of vaginal, skin, and saliva samples
 
-[Source](https://www.nature.com/articles/s41587-021-01108-x)
-
----
-
-## mBodyMap: a curated database for microbes across human body and their associations with health and diseases.
- 31.10.2021, _H Jin, G Hu, C Sun, Y Duan, Z Zhang, Z Liu, XM Zhao, WH Chen_
-
-
-mBodyMap is a curated database for microbes across the human body and their associations with health and diseases. Its primary aim is to promote the reusability of human-associated metagenomic data and assist with the identification of disease-associated microbes by consistently annotating the microbial contents of collected samples using state-of-the-art toolsets and manually curating the meta-data of corresponding human hosts. mBodyMap organizes collected samples based on their association with human diseases and body sites to enable cross-dataset integration and comparison. To help users find microbes of interest and visualize and compare their distributions and abundances/prevalence within different body sites and various diseases, the mBodyMap database is equipped with an intuitive interface and extensive graphical representations of the collected data. So far, it contains a total of 63 148 runs, including 14 401 metagenomes and 48 747 amplicons related to health and 56 human diseases, from within 22 human body sites across 136 projects. Also available in the database are pre-computed abundances and prevalence of 6247 species (belonging to 1645 genera) stratified by body sites and diseases. mBodyMap can be accessed at: https://mbodymap.microbiome.cloud.
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkab973/6413603)
-
-10.1093/nar/gkab973
+[Source](https://doi.org/10.1016/j.isci.2021.103306)
 
 ---
 
-## Density-based binning of gene clusters to infer function or evolutionary history using GeneGrouper.
- 04.11.2021, _AG McFarland, NW Kennedy, CE Mills, D Tullman-Ercek, C Huttenhower, EM Hartmann_
+## An integrated workflow for enhanced taxonomic and functional coverage of the mouse fecal metaproteome
 
-
-Identifying variant forms of gene clusters of interest in phylogenetically proximate and distant taxa can help to infer their evolutionary histories and functions. Conserved gene clusters may differ by only a few genes, but these small differences can in turn induce substantial phenotypes, such as by the formation of pseudogenes or insertions interrupting regulation. Particularly as microbial genomes and metagenomic assemblies become increasingly abundant, unsupervised grouping of similar, but not necessarily identical, gene clusters into consistent bins can provide a population-level understanding of their gene content variation and functional homology.
-
-[Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab752/6420696)
-
-10.1093/bioinformatics/btab752
+[Source](https://doi.org/10.1080/19490976.2021.1994836)
 
 ---
 
-## OptiFit: an improved method for fitting amplicon sequences to existing OTUs
+## Improved Metabolite Prediction Using Microbiome Data-Based Elastic Net Models
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.11.09.468000v1)
-
----
-
-## https://t.co/aWGacWxSd5
-
-[Source](https://t.co/aWGacWxSd5)
+[Source](https://doi.org/10.3389/fcimb.2021.734416)
 
 ---
 
-## October 29, 2021
+## Evaluation of Effects of Laboratory Disinfectants on Mouse Gut Microbiota
 
-[Source](https://twitter.com/hoogenboom_lab/status/1454215634452205577?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.30802/AALAS-CM-21-000051)
 
 ---
 
