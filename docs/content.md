@@ -41,16 +41,9 @@ In diagnosing bacterial infection, rapid bacterial identification (ID) and antim
 
 ---
 
-## Toxic effects of shale gas fracturing flowback fluid on microbial communities in polluted soil.
- 11.11.2021, _X Mei, F Zeng, F Xu, H Su_
-
-
-_Environmental Monitoring, Hydraulic Fracking, Microbiota, Natural Gas, Soil, Waste Water_
-A large amount of shale gas fracturing flowback fluid (FFBF) from the process of shale gas exploitation causes obvious ecological harm to health of soil and water. However, biological hazard of soil microbial populations by fracturing flowback fluid remains rarely reported. In this study, the microbiological compositions were assessed via analyzing diversity of microbial populations. The results showed significant differences between polluted soil by fracturing flowback fluid and unpolluted soil in different pH and temperature conditions. And then, the microbe-index of biological integrity (M-IBI) was used to evaluate the toxicity of the fracturing flowback fluid based on analysis of microbial integrity. The results showed that polluted soil lacks key microbial species known to be beneficial to soil health, including denitrifying bacteria and cellulose-decomposing bacteria, and 35 °C is a critical value for estimating poor and sub-healthy level of damage to microbial integrity by fracturing flowback fluid. Our results provide a valuable reference for the evaluation of soil damage by fracturing flowback fluid.
+## Toxic effects of shale gas fracturing flowback fluid on microbial communities in polluted soil
 
 [Source](https://link.springer.com/article/10.1007%2Fs10661-021-09544-7)
-
-10.1007/s10661-021-09544-7
 
 ---
 
@@ -69,18 +62,6 @@ A large amount of shale gas fracturing flowback fluid (FFBF) from the process of
 ## Biosorption potential and molecular characterization of metal resistant autochthonous microbes from tannery solid waste
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.11.12.468455v1.abstract?%3Fcollection=)
-
----
-
-## The effects of physical decontamination methods on zirconia implant surfaces: a systematic review.
- 10.11.2021, _NCP Tan, A Khan, E Antunes, CM Miller, D Sharma_
-
-
-Peri-implantitis therapy and implant maintenance are fundamental practices to enhance the longevity of zirconia implants. However, the use of physical decontamination methods, including hand instruments, polishing devices, ultrasonic scalers, and laser systems, might damage the implant surfaces. The aim of this systematic review was to evaluate the effects of physical decontamination methods on zirconia implant surfaces.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.10.27.466057v2.abstract?%3Fcollection=)
-
-10.5051/jpis.2005080254
 
 ---
 
