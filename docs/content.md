@@ -41,9 +41,16 @@ In diagnosing bacterial infection, rapid bacterial identification (ID) and antim
 
 ---
 
-## Toxic effects of shale gas fracturing flowback fluid on microbial communities in polluted soil
+## Toxic effects of shale gas fracturing flowback fluid on microbial communities in polluted soil.
+ 11.11.2021, _X Mei, F Zeng, F Xu, H Su_
+
+
+_Environmental Monitoring, Hydraulic Fracking, Microbiota, Natural Gas, Soil, Waste Water_
+A large amount of shale gas fracturing flowback fluid (FFBF) from the process of shale gas exploitation causes obvious ecological harm to health of soil and water. However, biological hazard of soil microbial populations by fracturing flowback fluid remains rarely reported. In this study, the microbiological compositions were assessed via analyzing diversity of microbial populations. The results showed significant differences between polluted soil by fracturing flowback fluid and unpolluted soil in different pH and temperature conditions. And then, the microbe-index of biological integrity (M-IBI) was used to evaluate the toxicity of the fracturing flowback fluid based on analysis of microbial integrity. The results showed that polluted soil lacks key microbial species known to be beneficial to soil health, including denitrifying bacteria and cellulose-decomposing bacteria, and 35 °C is a critical value for estimating poor and sub-healthy level of damage to microbial integrity by fracturing flowback fluid. Our results provide a valuable reference for the evaluation of soil damage by fracturing flowback fluid.
 
 [Source](https://link.springer.com/article/10.1007%2Fs10661-021-09544-7)
+
+10.1007/s10661-021-09544-7
 
 ---
 
@@ -62,6 +69,18 @@ In diagnosing bacterial infection, rapid bacterial identification (ID) and antim
 ## Biosorption potential and molecular characterization of metal resistant autochthonous microbes from tannery solid waste
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.11.12.468455v1.abstract?%3Fcollection=)
+
+---
+
+## Plasma Electrolytic Polishing of Nitinol: Investigation of Functional Properties.
+ 15.11.2021, _K Navickaitė, L Ianniciello, J Tušek, K Engelbrecht, CRH Bahl, M Penzel, K Nestler, F Böttger-Hiller, H Zeidler_
+
+
+A novel, environmentally friendly, fast, and flexible polishing process for Nitinol parts is presented in this study. Nitinol samples with both superelastic and shape memory properties at room temperature were investigated. The chemical contamination and surface roughness of superelastic Nitinol plates were examined before and after plasma electrolytic polishing. The shift in phase transformation temperature and tensile strength before and after the polishing process were analysed using Nitinol wire with shape memory properties. The obtained experimental results were compared to the data obtained on reference samples examined in the as-received condition. It was found that plasma electrolytic polishing, when the right process parameters are applied, is capable of delivering Nitinol parts with extremely high surface quality. Moreover, it was experimentally proven that plasma electrolytic polishing does not have a negative impact on functionality or mechanical properties of polished parts.
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.10.27.466057v2.abstract?%3Fcollection=)
+
+10.3390/ma14216450
 
 ---
 
