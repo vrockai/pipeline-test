@@ -1,144 +1,301 @@
-## Macrophages in Microbial Pathogenesis: Commonalities of Defense Evasion Mechanisms.
- 15.11.2021, _S Pandey, S Kant, M Khawary, D Tripathi_
+## Reporting guidelines for human microbiome research: the STORMS checklist
 
-
-Macrophages are key arsenals of the immune system against invaders. After compartmental isolation of a pathogen in phagosomes, the host immune response attempts to neutralize the pathogen. However, pathogens possess the ability to subvert these assaults and can also convert macrophages into their replicative niche. The multiple host defense evasion mechanisms employed by these pathogens like phagosome maturation arrest, molecular mimicry through secretory antigens, interference with host signaling, active radical neutralization, inhibition of phagosome acidification, alteration of programmed cell death and many other mechanisms. Macrophage biology as a part of the host-pathogen interaction has expanded rapidly in the past decade. The present review aims to shed some light upon the macrophage defense evasion strategies employed by infecting pathogens. We have also incorporated recent knowledge in the field of macrophage dynamics during infection and evolutionary perspectives of macrophage dynamics.
-
-[Source](https://journals.asm.org/doi/10.1128/IAI.00291-21)
-
-10.1128/IAI.00291-21
+[Source](https://doi.org/10.1038/s41591-021-01552-x)
 
 ---
 
-## The Influence of FUT2 and FUT3 Polymorphisms and Nasopharyngeal Microbiome on Respiratory Infections in Breastfed Bangladeshi Infants from the Microbiota and Health Study.
- 13.11.2021, _A Binia, L Siegwald, S Sultana, M Shevlyakova, G Lefebvre, F Foata, S Combremont, A Charpagne, K Vidal, N Sprenger, M Rahman, A Palleja, AC Eklund, HB Nielsen, H Brüssow, SA Sarker, O Sakwinska_
+## Honey bee genetics shape the strain-level structure of gut microbiota in social transmission
 
-
-Acute respiratory infections (ARIs) are one of the most common causes of morbidity and mortality in young children. The aim of our study was to examine whether variation in maternal FUT2 (α1,2-fucosyltransferase 2) and FUT3 (α1,3/4-fucosyltransferase 3) genes, which shape fucosylated human milk oligosaccharides (HMOs) in breast milk, are associated with the occurrence of ARIs in breastfed infants as well as the influence of the nasopharyngeal microbiome on ARI risk. Occurrences of ARIs were prospectively recorded in a cohort of 240 breastfed Bangladeshi infants from birth to 2 years. Secretor and Lewis status was established by sequencing of FUT2/3 genes. The nasopharyngeal microbiome was characterized by shotgun metagenomics, complemented by specific detection of respiratory pathogens; 88.6% of mothers and 91% of infants were identified as secretors. Maternal secretor status was associated with reduced ARI incidence among these infants in the period from birth to 6 months (incidence rate ratio [IRR], 0.66; 95% confidence interval [CI], 0.47 to 0.94; P = 0.020), but not at later time periods. The nasopharyngeal microbiome, despite precise characterization to the species level, was not predictive of subsequent ARIs. The observed risk reduction of ARIs among infants of secretor mothers during the predominant breastfeeding period is consistent with the hypothesis that fucosylated oligosaccharides in human milk contribute to protection against respiratory infections. However, we found no evidence that modulation of the nasopharyngeal microbiome influenced ARI risk. IMPORTANCE The observed risk reduction of acute respiratory infections (ARIs) among infants of secretor mothers during the predominant breastfeeding period is consistent with the hypothesis that fucosylated oligosaccharides in human milk contribute to protection against respiratory infections. Respiratory pathogens were only weak modulators of risk, and the nasopharyngeal microbiome did not influence ARI risk, suggesting that the associated protective effects of human milk oligosaccharides (HMOs) are not conveyed via changes in the nasopharyngeal microbiome. Our observations add to the evidence for a role of fucosylated HMOs in protection against respiratory infections in exclusively or predominantly breastfed infants in low-resource settings. There is no indication that the nasopharyngeal microbiome substantially modulates the risk of subsequent mild ARIs. Larger studies are needed to provide mechanistic insights on links between secretor status, HMOs, and risk of respiratory infections.
-
-[Source](https://journals.asm.org/doi/10.1128/mSphere.00686-21)
-
-10.1128/mSphere.00686-21
+[Source](https://doi.org/10.1186/s40168-021-01174-y)
 
 ---
 
-## Fecal Microbiota Transplantation Commonly Failed in Children with Co-Morbidities.
- 11.11.2021, _R Kellermayer, Q Wu, D Nagy-Szakal, K Queliza, FD Ihekweazu, CE Bocchini, AR Magee, N Oezguen, JK Spinler, EB Hollister, RJ Shulman, J Versalovic, RA Luna, TC Savidge_
+## Metatranscriptomics to characterize respiratory virome, microbiome, and host response directly from clinical samples
 
-
-Fecal microbiota transplantation (FMT) is arguably the most effective treatment for recurrent Clostridioides difficile infection (rCDI). Clinical reports on pediatric FMT have not systematically evaluated microbiome restoration in patients with co-morbidities. Here we determined whether FMT recipient age and underlying co-morbidity influenced clinical outcomes and microbiome restoration when treated from shared fecal donor sources.
-
-[Source](https://journals.lww.com/jpgn/Abstract/9000/Fecal_Microbiota_Transplantation_Commonly_Failed.95495.aspx)
-
-10.1097/MPG.0000000000003336
+[Source](https://doi.org/10.1016/j.crmeth.2021.100091)
 
 ---
 
-## Current and future applications of fecal microbiota transplantation for children.
- 15.11.2021, _CC Chen, CH Chiu_
+## Response of Lung Microbiota to Changes of Pulmonary Innate Immunity Under Healthy Conditions
 
-
-Fecal microbiota transplantation (FMT) is a new and adequate route to modify the microbial ecosystem in gastrointestinal tract of the hosts. Intestinal microbiota is highly associated with human health and disease. According to the reports of human clinical trials or case series, the application of FMT ranged from Clostridiodes difficile infection (CDI), inflammatory bowel disease (IBD), irritable bowel syndrome, refractory diarrhea, diabetes mellitus, metabolic syndrome, and even neurologic diseases, including Parkinson disease, and neuropsychiatric disorder (autism spectrum disorder, ASD). Although the current allowed indication of FMT is CDI in Taiwan, more application and development are expectable in the future. There is a relative rare data available for children in application of fecal microbiota transplantation. Thus, we review previous published research inspecting FMT in children, and address particular considerations when conducting FMT in pediatric patients.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2319417021001530)
-
-10.1016/j.bj.2021.11.004
+[Source](https://doi.org/10.1164/rccm.202109-2187LE)
 
 ---
 
-## Microbial influences on gut development and gut-brain communication.
- 10.11.2021, _L Ye, JF Rawls_
+## Small intestinal bacterial overgrowth in Alzheimer’s disease
 
-
-The developmental programs that build and sustain animal forms also encode the capacity to sense and adapt to the microbial world within which they evolved. This is abundantly apparent in the development of the digestive tract, which typically harbors the densest microbial communities of the body. Here, we review studies in human, mouse, zebrafish and Drosophila that are revealing how the microbiota impacts the development of the gut and its communication with the nervous system, highlighting important implications for human and animal health.
-
-[Source](https://journals.biologists.com/dev/article-abstract/148/21/dev194936/273402/Microbial-influences-on-gut-development-and-gut?redirectedFrom=fulltext)
-
-10.1242/dev.194936
+[Source](https://doi.org/10.1007/s00702-021-02440-x)
 
 ---
 
-## Characterization and predictive functional profiles on metagenomic 16S rRNA data of liver transplant recipients: A longitudinal study.
- 15.11.2021, _S Sivaraj, JK Copeland, A Malik, E Pasini, M Angeli, A Azhie, S Husain, D Kumar, J Allard, DS Guttman, A Humar, M Bhat_
+## Periodontitis Salivary Microbiota Worsens Colitis
 
-
-Long-term survival after Liver Transplantation (LT) is often compromised by infectious and metabolic complications. We aimed to delineate alterations in intestinal microbiome (IM) over time that could contribute to medical complications compromising long-term survival following LT. Fecal samples from LT recipients were collected at 3 months (3M) and 6 months (6M) post-LT. The bacterial DNA was extracted using E.Z.N.A.® Stool DNA Kit and 16S rRNA gene sequencing at V4 hypervariable region was performed. DADA2 and Phyloseq was implemented to analyze the taxonomic composition. Differentially abundant taxa were identified by metagenomeSeq and LEfSe. Piphillin, an Inferred functional metagenomic analysis tool was used to study the bacterial functional content. For comparison, healthy samples were extracted from NCBI and analyzed similarly. The taxonomic &amp; functional profiles of LT recipients were validated with metagenomic sequencing data from animals exposed to immunosuppressants using Venny. Our findings provide a new perspective on longitudinal increase in specific IM communities post-LT along with an increase in bacterial genes associated with metabolic and infectious disease. This article is protected by copyright. All rights reserved.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/ctr.14534)
-
-10.1111/ctr.14534
+[Source](https://doi.org/10.1177/00220345211049781)
 
 ---
 
-## Changes to human faecal microbiota after international travel.
- 15.11.2021, _C Kampmann, J Dicksved, L Engstrand, H Rautelin_
+## The Effects of Moderate Alcohol Consumption on Circulating Metabolites and Gut Microbiota in Patients With Coronary Artery Disease
 
-
-The aim was to investigate whether travelling to less-resourced destinations influences the composition of faecal microbiota in generally healthy adults.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1477893921002404)
-
-10.1016/j.tmaid.2021.102199
+[Source](https://doi.org/10.3389/fcvm.2021.767692)
 
 ---
 
-## Cognate recognition of microbial antigens defines constricted CD4+ T cell receptor repertoires in the inflamed colon.
- 11.11.2021, _M Muschaweck, L Kopplin, F Ticconi, A Schippers, A Iljazovic, EJC Gálvez, AT Abdallah, N Wagner, IG Costa, T Strowig, O Pabst_
+## Integrative Analysis of LGR5/6 Gene Variants, Gut Microbiota Composition and Osteoporosis Risk in Elderly Population
 
-
-Key aspects of intestinal T cells, including their antigen specificity and their selection by the microbiota and other intestinal antigens, as well as the contribution of individual T cell clones to regulatory and effector functions, remain unresolved. Here we tracked adoptively transferred T cell populations to specify the interrelation of T cell receptor repertoire and the gut antigenic environment. We show that dominant TCRα clonotypes were shared between interferon-γ- and interleukin-17-producing but not regulatory Foxp3+ T cells. Identical TCRα clonotypes accumulated in the colon of different individuals, whereas antibiotics or defined colonization correlated with the expansion of distinct expanded T cell clonotypes. Our results demonstrate key aspects of intestinal CD4+ T cell activation and suggest that few microbial species exert a dominant effect on the intestinal T cell repertoire during colitis. We speculate that dominant proinflammatory T cell clones might provide a therapeutic target in human inflammatory bowel disease.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1074761321003460)
-
-10.1016/j.immuni.2021.08.014
+[Source](https://doi.org/10.3389/fmicb.2021.765008)
 
 ---
 
-## An aniline-substituted bile salt analog protects both mice and hamsters from multiple Clostridioides difficile strains.
- 15.11.2021, _JR Phan, DM Do, MC Truong, C Ngo, JH Phan, SK Sharma, A Schilke, CC Mefferd, JV Villarama, D Lai, A Consul, BP Hedlund, SM Firestine, E Abel-Santos_
+## Comparison of the Gut Microbiota in Patients with Benign and Malignant Breast Tumors: A Pilot Study
 
-
-Clostridioides difficile infection (CDI) is the major identifiable cause of antibiotic-associated diarrhea. The emergence of hypervirulent C. difficile strains has led to increases in both hospital- and community-acquired CDI. Furthermore, CDI relapse from hypervirulent strains can reach up to 25%. Thus, standard treatments are rendered less effective, making new methods of prevention and treatment more critical. Previously, the bile salt analog CamSA was shown to inhibit spore germination in vitro and protect mice and hamsters from C. difficile strain 630. Here, we show that CamSA was less active at preventing spore germination of other C. difficile ribotypes, including the hypervirulent strain R20291. Strain-specific in vitro germination activity of CamSA correlated with its ability to prevent CDI in mice. Additional bile salt analogs were screened for in vitro germination inhibition activity against strain R20291, and the most active compounds were tested against other strains. An aniline-substituted bile salt analog, (CaPA), was found to be a better anti-germinant than CamSA against eight different C. difficile strains. In addition, CaPA was capable of reducing, delaying, or preventing murine CDI signs in all strains tested. CaPA-treated mice showed no obvious toxicity and showed minor effects on their gut microbiome. CaPA's efficacy was further confirmed by its ability to prevent CDI in hamsters infected with strain 630. These data suggest that C. difficile spores respond to germination inhibitors in a strain-dependent manner. However, careful screening can identify anti-germinants with broad CDI prophylaxis activity.
-
-[Source](https://journals.asm.org/doi/10.1128/AAC.01435-21)
-
-10.1128/AAC.01435-21
+[Source](https://doi.org/10.1177/11769343211057573)
 
 ---
 
-## Analysis of Cow-Calf Microbiome Transfer Routes and Microbiome Diversity in the Newborn Holstein Dairy Calf Hindgut.
- 12.11.2021, _H Zhu, M Yang, JJ Loor, A Elolimy, L Li, C Xu, W Wang, S Yin, Y Qu_
+## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research
 
-
-Hindgut microorganisms in newborn calves play an important role in the development of immunity and metabolism, and optimization of performance. However, knowledge of the extent to which microbiome colonization of the calf intestine is dependent on maternal characteristics is limited. In this study, placenta, umbilical cord, amniotic fluid, colostrum, cow feces, and calf meconium samples were collected from 6 Holstein cow-calf pairs. Microbial composition was analyzed by 16S rRNA gene high-throughput sequencing, and maternal transfer characteristics assessed using SourceTracker based on Gibbs sampling to fit the joint distribution using the mean proportions of each sample with meconium as the "sink" and other sample types as different "sources." Alpha and beta diversity analyses revealed sample type-specific microbiome features: microbial composition of the placenta, umbilical cord, amniotic fluid, colostrum, and calf feces were similar, but differed from cow feces (p &lt; 0.05). Compared with profiles of meconium vs. placenta, meconium vs. umbilical cord, and meconium vs. colostrum, differences between the meconium and amniotic fluid were most obvious. SourceTracker analysis revealed that 23.8 ± 2.21% of the meconium OTUs matched those of umbilical cord samples, followed by the meconium-placenta pair (15.57 ± 2.2%), meconium-colostrum pair (14.4 ± 1.9%), and meconium-amniotic fluid pair (11.2 ± 1.7%). The matching ratio between meconium and cow feces was the smallest (10.5 ± 1%). Overall, our data indicated that the composition of the meconium microflora was similar compared with multiple maternal sites including umbilical cord, placenta, colostrum, and amniotic fluid. The umbilical cord microflora seemed to contribute the most to colonization of the fecal microflora of calves. Bacteria with digestive functions such as cellulose decomposition and rumen fermentation were mainly transmitted during the maternal transfer process.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fnut.2021.736270/full)
-
-10.3389/fnut.2021.736270
+[Source](https://doi.org/10.1038/s41467-021-27098-7)
 
 ---
 
-## Multi-omic evaluation of metabolic alterations in multiple sclerosis identifies shifts in aromatic amino acid metabolism.
- 11.11.2021, _KC Fitzgerald, MD Smith, S Kim, ES Sotirchos, MD Kornberg, M Douglas, B Nourbakhsh, J Graves, R Rattan, L Poisson, M Cerghet, EM Mowry, E Waubant, S Giri, PA Calabresi, P Bhargava_
+## Association between Parkinson’s disease and the faecal eukaryotic microbiota
 
-
-The circulating metabolome provides unique insights into multiple sclerosis (MS) pathophysiology, but existing studies are relatively small or characterized limited metabolites. We test for differences in the metabolome between people with MS (PwMS; n = 637 samples) and healthy controls (HC; n = 317 samples) and assess the association between metabolomic profiles and disability in PwMS. We then assess whether metabolic differences correlate with changes in cellular gene expression using publicly available scRNA-seq data and whether identified metabolites affect human immune cell function. In PwMS, we identify striking abnormalities in aromatic amino acid (AAA) metabolites (p = 2.77E-18) that are also strongly associated with disability (p = 1.01E-4). Analysis of scRNA-seq data demonstrates altered AAA metabolism in CSF and blood-derived monocyte cell populations in PwMS. Treatment with AAA-derived metabolites in vitro alters monocytic endocytosis and pro-inflammatory cytokine production. We identify shifts in AAA metabolism resulting in the reduced production of immunomodulatory metabolites and increased production of metabotoxins in PwMS.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S266637912100286X)
-
-10.1016/j.xcrm.2021.100424
+[Source](https://doi.org/10.1038/s41531-021-00244-0)
 
 ---
 
-## It takes guts to learn: machine learning techniques for disease detection from the gut microbiome.
- 15.11.2021, _KD Curry, MG Nute, TJ Treangen_
+## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut
+
+[Source](https://doi.org/10.1038/s41467-021-27010-3)
+
+---
+
+## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness
+
+[Source](https://doi.org/10.1080/19490976.2021.1993598)
+
+---
+
+## Efficacy and Outcomes of Fecal Microbiota Transplantation for Recurrent<em> Clostridioides difficile </em>Infection in Children with Inflammatory Bowel Disease
+
+[Source](https://doi.org/10.1093/ecco-jcc/jjab202)
+
+---
+
+## The anti-inflammatory effect of bacterial short chain fatty acids is partially mediated by endocannabinoids.
+ 18.11.2021, _A Vijay, A Kouraki, S Gohir, J Turnbull, A Kelly, V Chapman, DA Barrett, WJ Bulsiewicz, AM Valdes_
 
 
-Associations between the human gut microbiome and expression of host illness have been noted in a variety of conditions ranging from gastrointestinal dysfunctions to neurological deficits. Machine learning (ML) methods have generated promising results for disease prediction from gut metagenomic information for diseases including liver cirrhosis and irritable bowel disease, but have lacked efficacy when predicting other illnesses. Here, we review current ML methods designed for disease classification from microbiome data. We highlight the computational challenges these methods have effectively overcome and discuss the biological components that have been overlooked to offer perspectives on future work in this area.
+The endocannabinoid (EC) system has pleiotropic functions in the body. It plays a key role in energy homeostasis and the development of metabolic disorders being a mediator in the relationship between the gut microbiota and host metabolism. In the current study we explore the functional interactions between the endocannabinoid system and the gut microbiome in modulating inflammatory markers. Using data from a 6 week exercise intervention (treatment n = 38 control n = 40) and a cross sectional validation cohort (n = 35), we measured the associations of 2-arachidonoylglycerol (2-AG), anandamide (AEA), N-oleoylethanolamine (OEA) and N-palmitoylethanolamine (PEA) with gut microbiome composition, gut derived metabolites (SCFAs) and inflammatory markers both cross-sectionally and longitudinally. At baseline AEA and OEA were positively associated with alpha diversity (β(SE) = .32 (.06), P = .002; .44 (.04), P &lt; .001) and with SCFA producing bacteria such as Bifidobacterium (2-AG β(SE) = .21 (.10), P &lt; .01; PEA β(SE) = .23 (.08), P &lt; .01), Coprococcus 3 and Faecalibacterium (PEA β(SE) = .29 (.11), P = .01; .25 (.09), P &lt; .01) and negatively associated with Collinsella (AEA β(SE) = -.31 (.12), P = .004). Additionally, we found AEA to be positively associated with SCFA Butyrate (β(SE) = .34 (.15), P = .01). AEA, OEA and PEA all increased significantly with the exercise intervention but remained constant in the control group. Changes in AEA correlated with SCFA butyrate and increases in AEA and PEA correlated with decreases in TNF-ɑ and IL-6 statistically mediating one third of the effect of SCFAs on these cytokines. Our data show that the anti-inflammatory effects of SCFAs are partly mediated by the EC system suggesting that there may be other pathways involved in the modulation of the immune system via the gut microbiome.
 
-[Source](https://portlandpress.com/emergtoplifesci/article/doi/10.1042/ETLS20210213/230242/It-takes-guts-to-learn-machine-learning-techniques)
+[Source](https://doi.org/10.1080/19490976.2021.1997559)
 
-10.1042/ETLS20210213
+10.1080/19490976.2021.1997559
+
+---
+
+## Bile acids as regulatory molecules and potential targets in metabolic diseases.
+ 18.11.2021, _AJ Xie, CT Mai, YZ Zhu, XC Liu, Y Xie_
+
+
+Bile acids are important hydroxylated steroids that are synthesized in the liver from cholesterol for intestinal absorption of lipids and other fatty-nutrient. They also display remarkable and immense functions such as regulating immune responses, managing the apoptosis of cells, participating in glucose metabolism, and so on. Some bile acids were used for the treatment or prevention of diseases such as gallstones, primary biliary cirrhosis, and colorectal cancer. Meanwhile, the accumulation of toxic bile acids leads to apoptosis, necrosis, and inflammation. Alteration of bile acids metabolism, as well as the gut microbiota that interacted with bile acids, contributes to the pathogenesis of metabolic diseases. Therefore, the purpose of this review is to summarize the current functions and pre-clinical or clinical applications of bile acids, and to further discuss the alteration of bile acids in metabolic disorders as well as the manipulation of bile acids metabolism as potential therapeutic targets.
+
+[Source](https://doi.org/10.1016/j.lfs.2021.120152)
+
+10.1016/j.lfs.2021.120152
+
+---
+
+## Renaissance for Phage-Based Bacterial Control.
+ 18.11.2021, _C Schwarz, J Mathieu, JA Laverde Gomez, P Yu, PJJ Alvarez_
+
+
+Bacteriophages (phages) are an underutilized biological resource with vast potential for pathogen control and microbiome editing. Phage research and commercialization have increased rapidly in biomedical and agricultural industries, but adoption has been limited elsewhere. Nevertheless, converging advances in DNA sequencing, bioinformatics, microbial ecology, and synthetic biology are now poised to broaden phage applications beyond pathogen control toward the manipulation of microbial communities for defined functional improvements. Enhancements in sequencing combined with network analysis make it now feasible to identify and disrupt microbial associations to elicit desirable shifts in community structure or function, indirectly modulate species abundance, and target hub or keystone species to achieve broad functional shifts. Sequencing and bioinformatic advancements are also facilitating the use of temperate phages for safe gene delivery applications. Finally, integration of synthetic biology stands to create novel phage chassis and modular genetic components. While some fundamental, regulatory, and commercialization barriers to widespread phage use remain, many major challenges that have impeded the field now have workable solutions. Thus, a new dawn for phage-based (chemical-free) precise biocontrol and microbiome editing is on the horizon to enhance, suppress, or modulate microbial activities important for public health, food security, and more sustainable energy production and water reuse.
+
+[Source](https://doi.org/10.1021/acs.est.1c06232)
+
+10.1021/acs.est.1c06232
+
+---
+
+## Sulphur metabolism in colon cancer tissues: a case report and literature review.
+ 18.11.2021, _H Fukuoka, T Andou, T Moriya, K Narita, K Kasahara, D Miura, Y Sekiguchi, S Suzuki, K Nakagawa, M Ozawa, A Ishibe, I Endo_
+
+
+_Aged, Chromatography, Liquid, Colonic Neoplasms, Female, Humans, Intestinal Mucosa, Sulfur, Tandem Mass Spectrometry_
+Sulphur-containing compounds have been linked to colorectal cancer by factors such as the presence of methyl mercaptan in intestinal gas and long-term dietary intake associated with sulphur-metabolizing microbiota. Therefore, this current case report hypothesized that active sulphur metabolism in colorectal cancer results in the formation of sulphur compounds in the intestine and, thus, examined sulphur metabolites possibly associated with sulphur respiration in colon cancer tissues. The patient was a 73-year-old female that underwent laparoscopic right hemicolectomy for ascending colon cancer. During the surgery, colon cancer tissues and normal intestinal mucosa samples were collected. After optimizing the sample concentrations for homogenization (pre-treatment), the samples were stabilized using a hydroxyphenyl-containing derivative and the relevant metabolites were quantified using liquid chromatography with tandem mass spectrometry. The results showed that cysteine persulfide and cysteine trisulfide levels were higher in colon cancer tissues than in normal mucosal tissues. Thus, sulphur metabolism, possibly sulphur respiration, is enhanced in colon cancer tissues.
+
+[Source](https://doi.org/10.1177/03000605211059936)
+
+10.1177/03000605211059936
+
+---
+
+## Dietary fatty acids in gut health: Absorption, metabolism and function.
+ 18.11.2021, _E Xu, C Chen, J Fu, L Zhu, J Shu, M Jin, Y Wang, X Zong_
+
+
+In biological responses, fatty acids (FA) are absorbed and metabolized in the form of substrates for energy production. The molecular structures (number of double bonds and chain length) and composition of dietary FA impact digestion, absorption and metabolism, and the biological roles of FA. Recently, increasing evidence indicates that FA are essentially utilized as an energy source and are signaling molecules that exert physiological activity of gut microbiota and immune responses. In addition, FA could serve as natural ligands for orphan G protein-coupled receptors (GPCR), also called free fatty acid receptors (FFAR), which intertwine metabolic and immune systems via multiple mechanisms. The present review explores the recent findings on FA absorption and its impact on gut health, particularly addressing the mechanism by which dietary FA potentially influences intestinal microbiota and epithelial functions. Also, this work attempts to uncover research ideas for devising future strategies for manipulating the composition of dietary FA to regulate gut health and support a normal immune system for metabolic and immune disorders.
+
+[Source](https://doi.org/10.1016/j.aninu.2021.09.010)
+
+10.1016/j.aninu.2021.09.010
+
+---
+
+## The search for aliens within us: a review of evidence and theory regarding the foetal microbiome.
+ 17.11.2021, _R Cariño, L Takayasu, W Suda, H Masuoka, K Hirayama, S Konishi, M Umezaki_
+
+
+The microbiome is believed to be established during the birthing process through exposure to the maternal microbiome and immediate external environment. The absence of a microbiome prior to birth is based on the sterile womb hypothesis, which was formulated at the beginning of the 20th century and is supported primarily by the culture-based approach in microbiological studies.Findings of bacterial presence in products of fertilization such as the placenta, amniotic fluid, foetal membranes, and umbilical cord blood in studies using next-generation DNA sequencing technologies began to challenge the sterile nature of the intrauterine environment during gestation. These studies have been mainly criticized by their approach to contamination and inconclusive evidence of viability. The implications of bacterial presence in utero are far reaching in medicine and basic sciences. If commensal bacteria exist in the foetus, antibiotic therapies in pregnancy particularly for asymptomatic cases will need to be re-evaluated. Experimental studies utilizing gnotobiology may also be impacted by a realignment of theory.This review of existing literature aims to provide insight into the existence of bacteria in utero, specifically the foetal microbiome through analysis of experimental evidence and theoretical concepts, and to suggest approaches that may further provide clarity into this inquiry.
+
+[Source](https://doi.org/10.1080/1040841X.2021.1999903)
+
+10.1080/1040841X.2021.1999903
+
+---
+
+## Human immune diversity: from evolution to modernity
+
+[Source](https://doi.org/10.1038/s41590-021-01058-1)
+
+---
+
+## Human Milk Oligosaccharides as a Missing Piece in Combating Nutritional Issues during Exclusive Breastfeeding
+
+[Source](https://doi.org/10.5223/pghn.2021.24.6.501)
+
+---
+
+## Advancements in the Pharmaceutical Applications of Probiotics: Dosage Forms and Formulation Technology
+
+[Source](https://doi.org/10.2147/IJN.S337427)
+
+---
+
+## <em>Lactobacillus rhamnosus </em>strain LRH05 intervention ameliorated body weight gain and adipose inflammation via modulating the gut microbiota in high-fat diet-induced obese mice
+
+[Source](https://doi.org/10.1002/mnfr.202100348)
+
+---
+
+## <em>Bifidobacterium infantis </em>Maintains Genome Stability in Ulcerative Colitis via Regulating Anaphase-Promoting Complex Subunit 7
+
+[Source](https://doi.org/10.3389/fmicb.2021.761113)
+
+---
+
+## Galacto-oligosaccharide Supplementation Modulates Pathogen-Commensal Competition between <em>Streptococcus agalactiae</em> and <em>Streptococcus salivarius</em>
+
+[Source](https://doi.org/10.1002/cbic.202100559)
+
+---
+
+## Metagenome-assembled genomes and gene catalog from the chicken gut microbiome aid in deciphering antibiotic resistomes
+
+[Source](https://doi.org/10.1038/s42003-021-02827-2)
+
+---
+
+## Contrasting microbiome dynamics of putative denitrifying bacteria in two octocoral species exposed to dissolved organic carbon (DOC) and warming
+
+[Source](https://doi.org/10.1128/AEM.01886-21)
+
+---
+
+## Emergent bacterial community properties induce enhanced drought tolerance in <em>Arabidopsis</em>
+
+[Source](https://doi.org/10.1038/s41522-021-00253-0)
+
+---
+
+## Drops join to make a stream: high-throughput nanoscale cultivation to grasp the lettuce root microbiome
+
+[Source](https://doi.org/10.1111/1758-2229.13014)
+
+---
+
+## Pan-genome analysis identifies intersecting roles for <em>Pseudomonas</em> specialized metabolites in potato pathogen inhibition
+
+[Source](https://doi.org/10.7554/eLife.71900)
+
+---
+
+## Small-scale agricultural grassland management can affect soil fungal community structure as much as continental scale geographic patterns
+
+[Source](https://doi.org/10.1093/femsec/fiab148)
+
+---
+
+## Geographic and position-based variations in phyllospheric bacterial communities present on flue-cured tobacco
+
+[Source](https://doi.org/10.1007/s00253-021-11671-7)
+
+---
+
+## Improved quantitative microbiome profiling for environmental antibiotic resistance surveillance
+
+[Source](https://doi.org/10.1186/s40793-021-00391-0)
+
+---
+
+## Sediment Microbiota in Response to Circuitry of Sediment Microbial Fuel Cells, Revealed by 16S rRNA Gene Amplicon Sequencing
+
+[Source](https://doi.org/10.1128/MRA.00984-21)
+
+---
+
+## Bacterial response to spatial gradients of algal-derived nutrients in a porous microplate
+
+[Source](https://doi.org/10.1038/s41396-021-01147-x)
+
+---
+
+## Microbial ecology of tourist Paleolithic caves
+
+[Source](https://doi.org/10.1016/j.scitotenv.2021.151492)
+
+---
+
+## Multivariate statistical monitoring system for microbial population dynamics
+
+[Source](https://doi.org/10.1088/1478-3975/ac3ad6)
+
+---
+
+## GMrepo v2: a curated human gut microbiome database with special focus on disease markers and cross-dataset comparison
+
+[Source](https://doi.org/10.1093/nar/gkab1019)
+
+---
+
+## metaSNV v2: detection of SNVs and subspecies in prokaryotic metagenomes
+
+[Source](https://doi.org/10.1093/bioinformatics/btab789)
+
+---
+
+## Assessing saliva microbiome collection and processing methods
+
+[Source](https://doi.org/10.1038/s41522-021-00254-z)
+
+---
+
+## Analysing microbiome intervention design studies: Comparison of alternative multivariate statistical methods
+
+[Source](https://doi.org/10.1371/journal.pone.0259973)
+
+---
+
+## Technical note: overcoming host contamination in bovine vaginal metagenomic samples with Nanopore adaptive sequencing
+
+[Source](https://doi.org/10.1093/jas/skab344)
+
+---
+
+## Mian: Interactive Web-Based Microbiome Data Table Visualization and Machine Learning Platform
+
+[Source](https://doi.org/10.1093/bioinformatics/btab754)
 
 ---
 
