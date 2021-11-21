@@ -64,15 +64,27 @@
 
 ---
 
-## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut
+## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut.
+ 19.11.2021, _A Popovic, C Bourdon, PW Wang, DS Guttman, S Soofi, ZA Bhutta, RHJ Bandsma, J Parkinson, LG Pell_
+
+
+Supplementation with micronutrients, including vitamins, iron and zinc, is a key strategy to alleviate child malnutrition. However, association of gastrointestinal disorders with iron has led to ongoing debate over their administration. To better understand their impact on gut microbiota, we analyse the bacterial, protozoal, fungal and helminth communities of stool samples collected from a subset of 80 children at 12 and 24 months of age, previously enrolled into a large cluster randomized controlled trial of micronutrient supplementation in Pakistan (ClinicalTrials.gov identifier NCT00705445). We show that while bacterial diversity is reduced in supplemented children, vitamins and iron (as well as residence in a rural setting) may promote colonization with distinct protozoa and mucormycetes, whereas the addition of zinc appears to ameliorate this effect. We suggest that the risks and benefits of micronutrient interventions may depend on eukaryotic communities, potentially exacerbated by exposure to a rural setting. Larger studies are needed to evaluate the clinical significance of these findings and their impact on health outcomes.
 
 [Source](https://doi.org/10.1038/s41467-021-27010-3)
 
+10.1038/s41467-021-27010-3
+
 ---
 
-## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness
+## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness.
+ 20.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
+
+
+Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several studies showed that the impact of antibiotics to prevent infection, multi-organ failure, and death in the ICU is less clear than their benefit on course of infection in the absence of organ dysfunction. We characterized here the compositional and metabolic changes of the gut microbiome induced by critical illness and antibiotics in a cohort of 75 individuals in conjunction with 2,180 gut microbiome samples representing 16 different diseases. We revealed an "infection-vulnerable" gut microbiome environment present only in critically ill treated with antibiotics (ICU+). Feeding of Caenorhabditis elegans with Bifidobacterium animalis and Lactobacillus crispatus, species that expanded in ICU+ patients, revealed a significant negative impact of these microbes on host viability and developmental homeostasis. These results suggest that antibiotic administration can dramatically impact essential functional activities in the gut related to immune responses more than critical illness itself, which might explain in part untoward effects of antibiotics in the critically ill.
 
 [Source](https://doi.org/10.1080/19490976.2021.1993598)
+
+10.1080/19490976.2021.1993598
 
 ---
 
