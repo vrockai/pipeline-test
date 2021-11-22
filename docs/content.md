@@ -4,110 +4,57 @@
 
 ---
 
-## Honey bee genetics shape the strain-level structure of gut microbiota in social transmission.
- 20.11.2021, _J Wu, H Lang, X Mu, Z Zhang, Q Su, X Hu, H Zheng_
-
-
-Honey bee gut microbiota transmitted via social interactions are beneficial to the host health. Although the microbial community is relatively stable, individual variations and high strain-level diversity have been detected across honey bees. Although the bee gut microbiota structure is influenced by environmental factors, the heritability of the gut members and the contribution of the host genetics remains elusive. Considering bees within a colony are not readily genetically identical due to the polyandry of the queen, we hypothesize that the microbiota structure can be shaped by host genetics.
+## Honey bee genetics shape the strain-level structure of gut microbiota in social transmission
 
 [Source](https://doi.org/10.1186/s40168-021-01174-y)
 
-10.1186/s40168-021-01174-y
-
 ---
 
-## Metatranscriptomics to characterize respiratory virome, microbiome, and host response directly from clinical samples.
- 20.11.2021, _SV Rajagopala, NG Bakhoum, SB Pakala, MH Shilts, C Rosas-Salazar, A Mai, HH Boone, R McHenry, S Yooseph, N Halasa, SR Das_
-
-
-We developed a metatranscriptomics method that can simultaneously capture the respiratory virome, microbiome, and host response directly from low biomass samples. Using nasal swab samples, we capture RNA virome with sufficient sequencing depth required to assemble complete genomes. We find a surprisingly high frequency of respiratory syncytial virus (RSV) and coronavirus (CoV) in healthy children, and a high frequency of RSV-A and RSV-B co-detections in children with symptomatic RSV. In addition, we have identified commensal and pathogenic bacteria and fungi at the species level. Functional analysis revealed that H. influenzae was highly active in symptomatic RSV subjects. The host nasal transcriptome reveled upregulation of the innate immune system, anti-viral response and inflammasome pathway, and downregulation of fatty acid pathways in children with symptomatic RSV. Overall, we demonstrate that our method is broadly applicable to infer the transcriptome landscape of an infected system, surveil respiratory infections, and to sequence RNA viruses directly from clinical samples.
+## Metatranscriptomics to characterize respiratory virome, microbiome, and host response directly from clinical samples
 
 [Source](https://doi.org/10.1016/j.crmeth.2021.100091)
 
-10.1016/j.crmeth.2021.100091
-
 ---
 
-## Response of Lung Microbiota to Changes of Pulmonary Innate Immunity Under Healthy Conditions.
- 19.11.2021, _T Yasuma, CN D'Alessandro-Gabazza, H Fujimoto, T Kobayashi, EC Gabazza_
-
-
+## Response of Lung Microbiota to Changes of Pulmonary Innate Immunity Under Healthy Conditions
 
 [Source](https://doi.org/10.1164/rccm.202109-2187LE)
 
-10.1164/rccm.202109-2187LE
-
 ---
 
-## Small intestinal bacterial overgrowth in Alzheimer's disease.
- 19.11.2021, _K Kowalski, A Mulak_
-
-
-The results of animal studies and clinical data support the gut microbiota contribution to the pathogenesis of Alzheimer's disease (AD). The aim of this pilot study was to evaluate the prevalence of small intestinal bacterial overgrowth (SIBO) and fecal markers of intestinal inflammation and permeability in AD patients. The study was conducted in 45 AD patients and 27 controls. Data on comorbidities, pharmacotherapy, and gastrointestinal symptoms were acquired from medical records and a questionnaire. SIBO was evaluated using lactulose hydrogen breath test. Fecal calprotectin and zonulin levels were assessed by ELISA assays. The positive result of SIBO breath test was found in 49% of the AD patients and 22% of the controls (p = 0.025). The comparative analysis between SIBO-positive and SIBO-negative AD patients with respect to the degree of cognitive impairment, comorbidities and used medications did not reveal any statistically significant difference, except for less common heartburn in SIBO-positive AD patients than in SIBO-negative ones (9 vs 35%, p = 0.038). The median fecal calprotectin and zonulin levels in the AD group compared to the control group amounted to 43.1 vs 64.2 µg/g (p = 0.846) and 73.5 vs 49.0 ng/ml (p = 0.177), respectively. In the AD patients there was no association between the presence of SIBO and fecal calprotectin level. Patients with AD are characterized by higher prevalence of SIBO not associated with increased fecal calprotectin level that may be related to anti-inflammatory effect of cholinergic drugs used in the treatment of AD.
+## Small intestinal bacterial overgrowth in Alzheimer’s disease
 
 [Source](https://doi.org/10.1007/s00702-021-02440-x)
 
-10.1007/s00702-021-02440-x
-
 ---
 
-## Periodontitis Salivary Microbiota Worsens Colitis.
- 19.11.2021, _J Qian, J Lu, Y Huang, M Wang, B Chen, J Bao, L Wang, D Cui, B Luo, F Yan_
-
-
-Evidence suggests that periodontitis contributes to the pathogenesis of inflammatory bowel disease, including Crohn's disease and ulcerative colitis. However, few studies have examined the role of swallowing and saliva in the pathogenesis of gastrointestinal diseases. Saliva contains an enormous number of oral bacteria and is swallowed directly into the intestine. Here, we explored the influence of periodontitis salivary microbiota on colonic inflammation and possible mechanisms in dextran sulfate sodium (DSS)-induced colitis. The salivary microbiota was collected from healthy individuals and those with periodontitis and gavaged to C57BL/6 mice. Periodontitis colitis was induced by DSS for 5 d and ligature for 1 wk. The degree of colon inflammation was evaluated through hematoxylin and eosin staining, ELISA, and quantitative real-time polymerase chain reaction. Immune parameters were measured with quantitative real-time polymerase chain reaction, flow cytometry, and immunofluorescence. The gut microbiota and metabolome analyses were performed via 16S rRNA gene sequencing and liquid chromatography-mass spectrometry. Although no significant colitis-associated phenotypic changes were found under physiologic conditions, periodontitis salivary microbiota exacerbated colitis in a periodontitis colitis model after DSS induction. The immune response more closely resembled the pathology of ulcerative colitis, including aggravated macrophage M2 polarization and Th2 cell induction (T helper 2). Inflammatory bowel disease-associated microbiota, such as Blautia, Helicobacter, and Ruminococcus, were changed in DSS-induced colitis after periodontitis salivary microbiota gavage. Periodontitis salivary microbiota decreased unsaturated fatty acid levels and increased arachidonic acid metabolism in DSS-induced colitis, which was positively correlated with Aerococcus and Ruminococcus, suggesting the key role of these metabolic events and microbes in the exacerbating effect of periodontitis salivary microbiota on experimental colitis. Our study demonstrated that periodontitis contributes to the pathogenesis of colitis through the swallowing of salivary microbiota, confirming the role of periodontitis in systemic disease and providing new insights into the etiology of gastrointestinal inflammatory diseases.
+## Periodontitis Salivary Microbiota Worsens Colitis
 
 [Source](https://doi.org/10.1177/00220345211049781)
 
-10.1177/00220345211049781
-
 ---
 
-## The Effects of Moderate Alcohol Consumption on Circulating Metabolites and Gut Microbiota in Patients With Coronary Artery Disease.
- 20.11.2021, _X Zhao, R Zhou, H Li, Y Fan, Y Sun, X Hu, S Zhang_
-
-
-Background: Epidemiological studies confirmed that moderate alcohol consumption was associated with a reduced risk of adverse cardiovascular events. It is increasingly recognized that the composition of gut microbiota and metabolites is involved in modulating the cardiovascular health of the host. However, the association of moderate alcohol consumption with serum metabolites and gut microbiome and its impact on coronary artery disease (CAD) is not fully investigated. Method: Serum untargeted metabolomics analysis and fecal 16S rRNA sequencing were performed on 72 male patients with CAD having various alcohol consumption (36 non-drinkers, 18 moderate drinkers, and 18 heavy drinkers) and 17 matched healthy controls. MetaboAnalyst and PICRUSt2 were utilized to analyze the possible involved metabolic pathways. Multi-omics analysis was achieved by Spearman correlation to reveal the interactions of alcohol consumption with gut microbiome and serum metabolites in patients with CAD. Results: We noted distinct differences between patients with CAD, with varying levels of alcohol consumption and healthy controls in aspects of serum metabolome and the gut microbiome. Moderate alcohol consumption significantly changed the lipidomic profiles, including reductions of sphingolipids and glycerophospholipids in moderate drinkers with CAD when compared with non and heavy drinkers with CAD. Moreover, we also found the reduction of microbial-derived metabolites in moderate drinkers with CAD, such as 2-phenylacetamide and mevalonic acid. To be noted, the gut microbiota of moderate drinkers with CAD tended to resemble that of healthy controls. Compared with non-drinkers, the relative abundance of genus Paraprevotella, Lysinibacillus was significantly elevated in moderate drinkers with CAD, while the genus Bifidobacterium, Megasphaera, and Streptococcus were significantly reduced in moderate drinkers with CAD. Multi-omics analysis revealed that specific metabolites and microbes associated with moderate alcohol consumption were correlated with the severity of CAD. Conclusions: Our study revealed that the impact of moderate alcohol consumption on serum metabolites and gut microbiota in patients with CAD seemed to be separated from that of heavy and non-alcohol consumption. Moderate drinking tended to have more positive effects on metabolic profiles and commensal flora, which may explain its beneficial effects on cardiovascular health. Overall, our study provides a novel insight into the effects of moderate alcohol consumption in patients with CAD.
+## The Effects of Moderate Alcohol Consumption on Circulating Metabolites and Gut Microbiota in Patients With Coronary Artery Disease
 
 [Source](https://doi.org/10.3389/fcvm.2021.767692)
 
-10.3389/fcvm.2021.767692
-
 ---
 
-## Integrative Analysis of LGR5/6 Gene Variants, Gut Microbiota Composition and Osteoporosis Risk in Elderly Population.
- 20.11.2021, _DS Di, C Li, Y Dai, MH Wei, SS Wang, WJ Song, HL Zhou, Y Cui, RY Zhang, Q Huang, Q Wang_
-
-
-Objective: This study aimed to explore the relationships between the common variants of R-spondin/Wnt signaling genes, gut microbiota composition, and osteoporosis (OP) risk in elderly Chinese Han population. Design: Dual-energy X-ray absorptiometry was used to obtain the OP-associated measurements at multiple skeleton sites among all 1,168 participants. Genotyping data was obtained by using the next-generation sequencing in the discovery stage (n = 400, 228 OP patients) and SNPscan technology in the replication stage (n = 768, 356 OP patients). Bioinformatic analysis was performed to provide more evidence for the genotype-OP associations. The 16S ribosomal RNA gene high-throughput sequencing technology was adopted to explore OP-associated gut microbiota variations. Results: The genetic variants of rs10920362 in the LGR6 gene (P-FDR = 1.19 × 10-6) and rs11178860 in the LGR5 gene (P-FDR = 1.51 × 10-4) were found to associate with OP risk significantly. Several microbial taxa were associated with the BMDs and T-scores at multiple skeleton sites. The associations between rs10920362 and BMD-associated microbiota maintained significance after adjusting confounders. The rs10920362 CT/TT genotype associated with a decreased relative abundance of Actinobacteria (β = -1.32, P &lt; 0.001), Bifidobacteriaceae (β = -1.70, P &lt; 0.001), and Bifidobacterium (β = -1.70, P &lt; 0.001) compared to the CC genotype. Conclusion: Our findings suggested that the variants loci of LGR6 may be associate with OP pathogenesis via gut microbiota modifications. The relationship between host genetics and gut microbiome provides new perspectives about OP prevention and treatment.
+## Integrative Analysis of LGR5/6 Gene Variants, Gut Microbiota Composition and Osteoporosis Risk in Elderly Population
 
 [Source](https://doi.org/10.3389/fmicb.2021.765008)
 
-10.3389/fmicb.2021.765008
-
 ---
 
-## Comparison of the Gut Microbiota in Patients with Benign and Malignant Breast Tumors: A Pilot Study.
- 20.11.2021, _P Yang, Z Wang, Q Peng, W Lian, D Chen_
-
-
-The microbiome plays diverse roles in many diseases and can potentially contribute to cancer development. Breast cancer is the most commonly diagnosed cancer in women worldwide. Thus, we investigated whether the gut microbiota differs between patients with breast carcinoma and those with benign tumors. The DNA of the fecal microbiota community was detected by Illumina sequencing and the taxonomy of 16S rRNA genes. The α-diversity and β-diversity analyses were used to determine richness and evenness of the gut microbiota. Gene function prediction of the microbiota in patients with benign and malignant carcinoma was performed using PICRUSt. There was no significant difference in the α-diversity between patients with benign and malignant tumors (P = 3.15e-1 for the Chao index and P = 3.1e-1 for the ACE index). The microbiota composition was different between the 2 groups, although no statistical difference was observed in β-diversity. Of the 31 different genera compared between the 2 groups, level of only Citrobacter was significantly higher in the malignant tumor group than that in benign tumor group. The metabolic pathways of the gut microbiome in the malignant tumor group were significantly different from those in benign tumor group. Furthermore, the study establishes the distinct richness of the gut microbiome in patients with breast cancer with different clinicopathological factors, including ER, PR, Ki-67 level, Her2 status, and tumor grade. These findings suggest that the gut microbiome may be useful for the diagnosis and treatment of malignant breast carcinoma.
+## Comparison of the Gut Microbiota in Patients with Benign and Malignant Breast Tumors: A Pilot Study
 
 [Source](https://doi.org/10.1177/11769343211057573)
 
-10.1177/11769343211057573
-
 ---
 
-## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research.
- 19.11.2021, _D Vandeputte, L De Commer, RY Tito, G Kathagen, J Sabino, S Vermeire, K Faust, J Raes_
-
-
-While clinical gut microbiota research is ever-expanding, extending reference knowledge of healthy between- and within-subject gut microbiota variation and its drivers remains essential; in particular, temporal variability is under-explored, and a comparison with cross-sectional variation is missing. Here, we perform daily quantitative microbiome profiling on 713 fecal samples from 20 Belgian women over six weeks, combined with extensive anthropometric measurements, blood panels, dietary data, and stool characteristics. We show substantial temporal variation for most major gut genera; we find that for 78% of microbial genera, day-to-day absolute abundance variation is substantially larger within than between individuals, with up to 100-fold shifts over the study period. Diversity, and especially evenness indicators also fluctuate substantially. Relative abundance profiles show similar but less pronounced temporal variation. Stool moisture, and to a lesser extent diet, are the only significant host covariates of temporal microbiota variation, while menstrual cycle parameters did not show significant effects. We find that the dysbiotic Bact2 enterotype shows increased between- and within-subject compositional variability. Our results suggest that to increase diagnostic as well as target discovery power, studies could adopt a repeated measurement design and/or focus analysis on community-wide microbiome descriptors and indices.
+## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research
 
 [Source](https://doi.org/10.1038/s41467-021-27098-7)
-
-10.1038/s41467-021-27098-7
 
 ---
 
@@ -136,7 +83,7 @@ Supplementation with micronutrients, including vitamins, iron and zinc, is a key
 ---
 
 ## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness.
- 20.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
+ 21.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
 
 
 Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several studies showed that the impact of antibiotics to prevent infection, multi-organ failure, and death in the ICU is less clear than their benefit on course of infection in the absence of organ dysfunction. We characterized here the compositional and metabolic changes of the gut microbiome induced by critical illness and antibiotics in a cohort of 75 individuals in conjunction with 2,180 gut microbiome samples representing 16 different diseases. We revealed an "infection-vulnerable" gut microbiome environment present only in critically ill treated with antibiotics (ICU+). Feeding of Caenorhabditis elegans with Bifidobacterium animalis and Lactobacillus crispatus, species that expanded in ICU+ patients, revealed a significant negative impact of these microbes on host viability and developmental homeostasis. These results suggest that antibiotic administration can dramatically impact essential functional activities in the gut related to immune responses more than critical illness itself, which might explain in part untoward effects of antibiotics in the critically ill.
@@ -154,7 +101,7 @@ Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several
 ---
 
 ## The anti-inflammatory effect of bacterial short chain fatty acids is partially mediated by endocannabinoids.
- 20.11.2021, _A Vijay, A Kouraki, S Gohir, J Turnbull, A Kelly, V Chapman, DA Barrett, WJ Bulsiewicz, AM Valdes_
+ 21.11.2021, _A Vijay, A Kouraki, S Gohir, J Turnbull, A Kelly, V Chapman, DA Barrett, WJ Bulsiewicz, AM Valdes_
 
 
 The endocannabinoid (EC) system has pleiotropic functions in the body. It plays a key role in energy homeostasis and the development of metabolic disorders being a mediator in the relationship between the gut microbiota and host metabolism. In the current study we explore the functional interactions between the endocannabinoid system and the gut microbiome in modulating inflammatory markers. Using data from a 6 week exercise intervention (treatment n = 38 control n = 40) and a cross sectional validation cohort (n = 35), we measured the associations of 2-arachidonoylglycerol (2-AG), anandamide (AEA), N-oleoylethanolamine (OEA) and N-palmitoylethanolamine (PEA) with gut microbiome composition, gut derived metabolites (SCFAs) and inflammatory markers both cross-sectionally and longitudinally. At baseline AEA and OEA were positively associated with alpha diversity (β(SE) = .32 (.06), P = .002; .44 (.04), P &lt; .001) and with SCFA producing bacteria such as Bifidobacterium (2-AG β(SE) = .21 (.10), P &lt; .01; PEA β(SE) = .23 (.08), P &lt; .01), Coprococcus 3 and Faecalibacterium (PEA β(SE) = .29 (.11), P = .01; .25 (.09), P &lt; .01) and negatively associated with Collinsella (AEA β(SE) = -.31 (.12), P = .004). Additionally, we found AEA to be positively associated with SCFA Butyrate (β(SE) = .34 (.15), P = .01). AEA, OEA and PEA all increased significantly with the exercise intervention but remained constant in the control group. Changes in AEA correlated with SCFA butyrate and increases in AEA and PEA correlated with decreases in TNF-ɑ and IL-6 statistically mediating one third of the effect of SCFAs on these cytokines. Our data show that the anti-inflammatory effects of SCFAs are partly mediated by the EC system suggesting that there may be other pathways involved in the modulation of the immune system via the gut microbiome.
@@ -455,7 +402,7 @@ The oral microbiome has been connected with lung health and may be of significan
 ---
 
 ## Analysing microbiome intervention design studies: Comparison of alternative multivariate statistical methods.
- 18.11.2021, _M Khomich, I Måge, I Rud, I Berget_
+ 21.11.2021, _M Khomich, I Måge, I Rud, I Berget_
 
 
 The diet plays a major role in shaping gut microbiome composition and function in both humans and animals, and dietary intervention trials are often used to investigate and understand these effects. A plethora of statistical methods for analysing the differential abundance of microbial taxa exists, and new methods are constantly being developed, but there is a lack of benchmarking studies and clear consensus on the best multivariate statistical practices. This makes it hard for a biologist to decide which method to use. We compared the outcomes of generic multivariate ANOVA (ASCA and FFMANOVA) against statistical methods commonly used for community analyses (PERMANOVA and SIMPER) and methods designed for analysis of count data from high-throughput sequencing experiments (ALDEx2, ANCOM and DESeq2). The comparison is based on both simulated data and five published dietary intervention trials representing different subjects and study designs. We found that the methods testing differences at the community level were in agreement regarding both effect size and statistical significance. However, the methods that provided ranking and identification of differentially abundant operational taxonomic units (OTUs) gave incongruent results, implying that the choice of method is likely to influence the biological interpretations. The generic multivariate ANOVA tools have the flexibility needed for analysing multifactorial experiments and provide outputs at both the community and OTU levels; good performance in the simulation studies suggests that these statistical tools are also suitable for microbiome data sets.
