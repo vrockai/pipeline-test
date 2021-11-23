@@ -70,15 +70,9 @@
 
 ---
 
-## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness.
- 21.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
-
-
-Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several studies showed that the impact of antibiotics to prevent infection, multi-organ failure, and death in the ICU is less clear than their benefit on course of infection in the absence of organ dysfunction. We characterized here the compositional and metabolic changes of the gut microbiome induced by critical illness and antibiotics in a cohort of 75 individuals in conjunction with 2,180 gut microbiome samples representing 16 different diseases. We revealed an "infection-vulnerable" gut microbiome environment present only in critically ill treated with antibiotics (ICU+). Feeding of Caenorhabditis elegans with Bifidobacterium animalis and Lactobacillus crispatus, species that expanded in ICU+ patients, revealed a significant negative impact of these microbes on host viability and developmental homeostasis. These results suggest that antibiotic administration can dramatically impact essential functional activities in the gut related to immune responses more than critical illness itself, which might explain in part untoward effects of antibiotics in the critically ill.
+## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness
 
 [Source](https://doi.org/10.1080/19490976.2021.1993598)
-
-10.1080/19490976.2021.1993598
 
 ---
 
@@ -113,7 +107,7 @@ Bile acids are important hydroxylated steroids that are synthesized in the liver
 ---
 
 ## Renaissance for Phage-Based Bacterial Control.
- 18.11.2021, _C Schwarz, J Mathieu, JA Laverde Gomez, P Yu, PJJ Alvarez_
+ 22.11.2021, _C Schwarz, J Mathieu, JA Laverde Gomez, P Yu, PJJ Alvarez_
 
 
 Bacteriophages (phages) are an underutilized biological resource with vast potential for pathogen control and microbiome editing. Phage research and commercialization have increased rapidly in biomedical and agricultural industries, but adoption has been limited elsewhere. Nevertheless, converging advances in DNA sequencing, bioinformatics, microbial ecology, and synthetic biology are now poised to broaden phage applications beyond pathogen control toward the manipulation of microbial communities for defined functional improvements. Enhancements in sequencing combined with network analysis make it now feasible to identify and disrupt microbial associations to elicit desirable shifts in community structure or function, indirectly modulate species abundance, and target hub or keystone species to achieve broad functional shifts. Sequencing and bioinformatic advancements are also facilitating the use of temperate phages for safe gene delivery applications. Finally, integration of synthetic biology stands to create novel phage chassis and modular genetic components. While some fundamental, regulatory, and commercialization barriers to widespread phage use remain, many major challenges that have impeded the field now have workable solutions. Thus, a new dawn for phage-based (chemical-free) precise biocontrol and microbiome editing is on the horizon to enhance, suppress, or modulate microbial activities important for public health, food security, and more sustainable energy production and water reuse.
@@ -300,7 +294,7 @@ Although tobacco leaves (TLs) contain abundant bacteria, how the geography and l
 ---
 
 ## Improved quantitative microbiome profiling for environmental antibiotic resistance surveillance.
- 19.11.2021, _A Ott, M Quintela-Baluja, AM Zealand, G O'Donnell, MRM Haniffah, DW Graham_
+ 22.11.2021, _A Ott, M Quintela-Baluja, AM Zealand, G O'Donnell, MRM Haniffah, DW Graham_
 
 
 Understanding environmental microbiomes and antibiotic resistance (AR) is hindered by over reliance on relative abundance data from next-generation sequencing. Relative data limits our ability to quantify changes in microbiomes and resistomes over space and time because sequencing depth is not considered and makes data less suitable for Quantitative Microbial Risk Assessments (QMRA), critical in quantifying environmental AR exposure and transmission risks.
@@ -378,7 +372,7 @@ Taxonomic analysis of microbial communities is well supported at the level of sp
 ---
 
 ## Assessing saliva microbiome collection and processing methods.
- 19.11.2021, _AJS Armstrong, V Parmar, MJ Blaser_
+ 22.11.2021, _AJS Armstrong, V Parmar, MJ Blaser_
 
 
 The oral microbiome has been connected with lung health and may be of significance in the progression of SARS-CoV-2 infection. Saliva-based SARS-CoV-2 tests provide the opportunity to leverage stored samples for assessing the oral microbiome. However, these collection kits have not been tested for their accuracy in measuring the oral microbiome. Saliva is highly enriched with human DNA and reducing it prior to shotgun sequencing may increase the depth of bacterial reads. We examined both the effect of saliva collection method and sequence processing on measurement of microbiome depth and diversity by 16S rRNA gene amplicon and shotgun metagenomics. We collected 56 samples from 22 subjects. Each subject provided saliva samples with and without preservative, and a subset provided a second set of samples the following day. 16S rRNA gene (V4) sequencing was performed on all samples, and shotgun metagenomics was performed on a subset of samples collected with preservative with and without human DNA depletion before sequencing. We observed that the beta diversity distances within subjects over time was smaller than between unrelated subjects, and distances within subjects were smaller in samples collected with preservative. Samples collected with preservative had higher alpha diversity measuring both richness and evenness. Human DNA depletion before extraction and shotgun sequencing yielded higher total and relative reads mapping to bacterial sequences. We conclude that collecting saliva with preservative may provide more consistent measures of the oral microbiome and depleting human DNA increases yield of bacterial sequences.
