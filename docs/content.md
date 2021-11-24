@@ -64,9 +64,15 @@
 
 ---
 
-## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut
+## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut.
+ 19.11.2021, _A Popovic, C Bourdon, PW Wang, DS Guttman, S Soofi, ZA Bhutta, RHJ Bandsma, J Parkinson, LG Pell_
+
+
+Supplementation with micronutrients, including vitamins, iron and zinc, is a key strategy to alleviate child malnutrition. However, association of gastrointestinal disorders with iron has led to ongoing debate over their administration. To better understand their impact on gut microbiota, we analyse the bacterial, protozoal, fungal and helminth communities of stool samples collected from a subset of 80 children at 12 and 24 months of age, previously enrolled into a large cluster randomized controlled trial of micronutrient supplementation in Pakistan (ClinicalTrials.gov identifier NCT00705445). We show that while bacterial diversity is reduced in supplemented children, vitamins and iron (as well as residence in a rural setting) may promote colonization with distinct protozoa and mucormycetes, whereas the addition of zinc appears to ameliorate this effect. We suggest that the risks and benefits of micronutrient interventions may depend on eukaryotic communities, potentially exacerbated by exposure to a rural setting. Larger studies are needed to evaluate the clinical significance of these findings and their impact on health outcomes.
 
 [Source](https://doi.org/10.1038/s41467-021-27010-3)
+
+10.1038/s41467-021-27010-3
 
 ---
 
