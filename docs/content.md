@@ -112,39 +112,21 @@
 
 ---
 
-## The search for aliens within us: a review of evidence and theory regarding the foetal microbiome.
- 17.11.2021, _R Cariño, L Takayasu, W Suda, H Masuoka, K Hirayama, S Konishi, M Umezaki_
-
-
-The microbiome is believed to be established during the birthing process through exposure to the maternal microbiome and immediate external environment. The absence of a microbiome prior to birth is based on the sterile womb hypothesis, which was formulated at the beginning of the 20th century and is supported primarily by the culture-based approach in microbiological studies.Findings of bacterial presence in products of fertilization such as the placenta, amniotic fluid, foetal membranes, and umbilical cord blood in studies using next-generation DNA sequencing technologies began to challenge the sterile nature of the intrauterine environment during gestation. These studies have been mainly criticized by their approach to contamination and inconclusive evidence of viability. The implications of bacterial presence in utero are far reaching in medicine and basic sciences. If commensal bacteria exist in the foetus, antibiotic therapies in pregnancy particularly for asymptomatic cases will need to be re-evaluated. Experimental studies utilizing gnotobiology may also be impacted by a realignment of theory.This review of existing literature aims to provide insight into the existence of bacteria in utero, specifically the foetal microbiome through analysis of experimental evidence and theoretical concepts, and to suggest approaches that may further provide clarity into this inquiry.
+## The search for aliens within us: a review of evidence and theory regarding the foetal microbiome
 
 [Source](https://doi.org/10.1080/1040841X.2021.1999903)
 
-10.1080/1040841X.2021.1999903
-
 ---
 
-## Human immune diversity: from evolution to modernity.
- 19.11.2021, _A Liston, S Humblet-Baron, D Duffy, A Goris_
-
-
-The extreme diversity of the human immune system, forged and maintained throughout evolutionary history, provides a potent defense against opportunistic pathogens. At the same time, this immune variation is the substrate upon which a plethora of immune-associated diseases develop. Genetic analysis suggests that thousands of individually weak loci together drive up to half of the observed immune variation. Intense selection maintains this genetic diversity, even selecting for the introgressed Neanderthal or Denisovan alleles that have reintroduced variation lost during the out-of-Africa migration. Variations in age, sex, diet, environmental exposure, and microbiome each potentially explain the residual variation, with proof-of-concept studies demonstrating both plausible mechanisms and correlative associations. The confounding interaction of many of these variables currently makes it difficult to assign definitive contributions. Here, we review the current state of play in the field, identify the key unknowns in the causality of immune variation, and identify the multidisciplinary pathways toward an improved understanding.
+## Human immune diversity: from evolution to modernity
 
 [Source](https://doi.org/10.1038/s41590-021-01058-1)
 
-10.1038/s41590-021-01058-1
-
 ---
 
-## Human Milk Oligosaccharides as a Missing Piece in Combating Nutritional Issues during Exclusive Breastfeeding.
- 20.11.2021, _V Sudarma, B Hegar, A Hidayat, R Agustina_
-
-
-Extensive studies have shown that breast milk is the best source of nutrition for infants, especially during the first six months, because it fulfills almost all of their nutritional needs. Among the many functional building blocks in breast milk, human milk oligosaccharides (HMOs) have been receiving more attention recently. Furthermore, it is the third most common group of compounds in human milk, and studies have demonstrated the health benefits it provides for infants, including improved nutritional status. HMOs were previously known as the 'bifidus factor' due to their 'bifidogenic' or prebiotic effects, which enabled the nourishment of the gastrointestinal microbiota. Healthy gastrointestinal microbiota are intestinal health substrates that increase nutrient absorption and reduce the incidence of diarrhea. In addition, HMOs, directly and indirectly, protect infants against infections and strengthen their immune system, leading to a positive energy balance and promoting normal growth. Non-modifiable factors, such as genetics, and modifiable factors (e.g., maternal health, diet, nutritional status, environment) can influence the HMO profile. This review provides an overview of the current understanding of how HMOs can contribute to the prevention and treatment of nutritional issues during exclusive breastfeeding.
+## Human Milk Oligosaccharides as a Missing Piece in Combating Nutritional Issues during Exclusive Breastfeeding
 
 [Source](https://doi.org/10.5223/pghn.2021.24.6.501)
-
-10.5223/pghn.2021.24.6.501
 
 ---
 
