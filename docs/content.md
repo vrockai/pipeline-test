@@ -52,51 +52,27 @@
 
 ---
 
-## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research.
- 22.11.2021, _D Vandeputte, L De Commer, RY Tito, G Kathagen, J Sabino, S Vermeire, K Faust, J Raes_
-
-
-While clinical gut microbiota research is ever-expanding, extending reference knowledge of healthy between- and within-subject gut microbiota variation and its drivers remains essential; in particular, temporal variability is under-explored, and a comparison with cross-sectional variation is missing. Here, we perform daily quantitative microbiome profiling on 713 fecal samples from 20 Belgian women over six weeks, combined with extensive anthropometric measurements, blood panels, dietary data, and stool characteristics. We show substantial temporal variation for most major gut genera; we find that for 78% of microbial genera, day-to-day absolute abundance variation is substantially larger within than between individuals, with up to 100-fold shifts over the study period. Diversity, and especially evenness indicators also fluctuate substantially. Relative abundance profiles show similar but less pronounced temporal variation. Stool moisture, and to a lesser extent diet, are the only significant host covariates of temporal microbiota variation, while menstrual cycle parameters did not show significant effects. We find that the dysbiotic Bact2 enterotype shows increased between- and within-subject compositional variability. Our results suggest that to increase diagnostic as well as target discovery power, studies could adopt a repeated measurement design and/or focus analysis on community-wide microbiome descriptors and indices.
+## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research
 
 [Source](https://doi.org/10.1038/s41467-021-27098-7)
 
-10.1038/s41467-021-27098-7
-
 ---
 
-## Association between Parkinson's disease and the faecal eukaryotic microbiota.
- 19.11.2021, _S Weis, A Meisner, A Schwiertz, MM Unger, A Becker, K Faßbender, S Schnell, KH Schäfer, M Egert_
-
-
-Parkinson's disease (PD) is one of the most common neurodegenerative disease, and is so far not considered curable. PD patients suffer from several motor and non-motor symptoms, including gastrointestinal dysfunctions and alterations of the enteric nervous system. Constipation and additional intestinal affections can precede the classical motor symptoms by several years. Recently, we reported effects of PD and related medications on the faecal bacterial community of 34 German PD patients and 25 age-matched controls. Here, we used the same collective and analysed the V6 and V7 hypervariable region of PCR-amplified, eukaryotic 18S rRNA genes using an Illumina MiSeq platform. In all, 53% (18) of the PD samples and 72% (18) of the control samples yielded sufficient amplicons for downstream community analyses. The PD samples showed a significantly lower alpha and a different beta eukaryotic diversity than the controls. Most strikingly, we observed a significantly higher relative abundance of sequence affiliated with the Geotrichum genus in the PD samples (39.7%), when compared to the control samples (0.05%). In addition, we observed lower relative abundances of sequences affiliated with Aspergillus/Penicillium, Charophyta/Linum, unidentified Opisthokonta and three genera of minor abundant zooflagellates in the PD samples. Our data add knowledge to the small body of data about the eukaryotic microbiota of PD patients and suggest a potential association of certain gut eukaryotes and PD.
+## Association between Parkinson’s disease and the faecal eukaryotic microbiota
 
 [Source](https://doi.org/10.1038/s41531-021-00244-0)
 
-10.1038/s41531-021-00244-0
-
 ---
 
-## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut.
- 19.11.2021, _A Popovic, C Bourdon, PW Wang, DS Guttman, S Soofi, ZA Bhutta, RHJ Bandsma, J Parkinson, LG Pell_
-
-
-Supplementation with micronutrients, including vitamins, iron and zinc, is a key strategy to alleviate child malnutrition. However, association of gastrointestinal disorders with iron has led to ongoing debate over their administration. To better understand their impact on gut microbiota, we analyse the bacterial, protozoal, fungal and helminth communities of stool samples collected from a subset of 80 children at 12 and 24 months of age, previously enrolled into a large cluster randomized controlled trial of micronutrient supplementation in Pakistan (ClinicalTrials.gov identifier NCT00705445). We show that while bacterial diversity is reduced in supplemented children, vitamins and iron (as well as residence in a rural setting) may promote colonization with distinct protozoa and mucormycetes, whereas the addition of zinc appears to ameliorate this effect. We suggest that the risks and benefits of micronutrient interventions may depend on eukaryotic communities, potentially exacerbated by exposure to a rural setting. Larger studies are needed to evaluate the clinical significance of these findings and their impact on health outcomes.
+## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut
 
 [Source](https://doi.org/10.1038/s41467-021-27010-3)
 
-10.1038/s41467-021-27010-3
-
 ---
 
-## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness.
- 23.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
-
-
-Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several studies showed that the impact of antibiotics to prevent infection, multi-organ failure, and death in the ICU is less clear than their benefit on course of infection in the absence of organ dysfunction. We characterized here the compositional and metabolic changes of the gut microbiome induced by critical illness and antibiotics in a cohort of 75 individuals in conjunction with 2,180 gut microbiome samples representing 16 different diseases. We revealed an "infection-vulnerable" gut microbiome environment present only in critically ill treated with antibiotics (ICU+). Feeding of Caenorhabditis elegans with Bifidobacterium animalis and Lactobacillus crispatus, species that expanded in ICU+ patients, revealed a significant negative impact of these microbes on host viability and developmental homeostasis. These results suggest that antibiotic administration can dramatically impact essential functional activities in the gut related to immune responses more than critical illness itself, which might explain in part untoward effects of antibiotics in the critically ill.
+## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness
 
 [Source](https://doi.org/10.1080/19490976.2021.1993598)
-
-10.1080/19490976.2021.1993598
 
 ---
 
@@ -106,64 +82,33 @@ Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several
 
 ---
 
-## The anti-inflammatory effect of bacterial short chain fatty acids is partially mediated by endocannabinoids.
- 23.11.2021, _A Vijay, A Kouraki, S Gohir, J Turnbull, A Kelly, V Chapman, DA Barrett, WJ Bulsiewicz, AM Valdes_
-
-
-The endocannabinoid (EC) system has pleiotropic functions in the body. It plays a key role in energy homeostasis and the development of metabolic disorders being a mediator in the relationship between the gut microbiota and host metabolism. In the current study we explore the functional interactions between the endocannabinoid system and the gut microbiome in modulating inflammatory markers. Using data from a 6 week exercise intervention (treatment n = 38 control n = 40) and a cross sectional validation cohort (n = 35), we measured the associations of 2-arachidonoylglycerol (2-AG), anandamide (AEA), N-oleoylethanolamine (OEA) and N-palmitoylethanolamine (PEA) with gut microbiome composition, gut derived metabolites (SCFAs) and inflammatory markers both cross-sectionally and longitudinally. At baseline AEA and OEA were positively associated with alpha diversity (β(SE) = .32 (.06), P = .002; .44 (.04), P &lt; .001) and with SCFA producing bacteria such as Bifidobacterium (2-AG β(SE) = .21 (.10), P &lt; .01; PEA β(SE) = .23 (.08), P &lt; .01), Coprococcus 3 and Faecalibacterium (PEA β(SE) = .29 (.11), P = .01; .25 (.09), P &lt; .01) and negatively associated with Collinsella (AEA β(SE) = -.31 (.12), P = .004). Additionally, we found AEA to be positively associated with SCFA Butyrate (β(SE) = .34 (.15), P = .01). AEA, OEA and PEA all increased significantly with the exercise intervention but remained constant in the control group. Changes in AEA correlated with SCFA butyrate and increases in AEA and PEA correlated with decreases in TNF-ɑ and IL-6 statistically mediating one third of the effect of SCFAs on these cytokines. Our data show that the anti-inflammatory effects of SCFAs are partly mediated by the EC system suggesting that there may be other pathways involved in the modulation of the immune system via the gut microbiome.
+## The anti-inflammatory effect of bacterial short chain fatty acids is partially mediated by endocannabinoids
 
 [Source](https://doi.org/10.1080/19490976.2021.1997559)
 
-10.1080/19490976.2021.1997559
-
 ---
 
-## Bile acids as regulatory molecules and potential targets in metabolic diseases.
- 21.11.2021, _AJ Xie, CT Mai, YZ Zhu, XC Liu, Y Xie_
-
-
-Bile acids are important hydroxylated steroids that are synthesized in the liver from cholesterol for intestinal absorption of lipids and other fatty-nutrient. They also display remarkable and immense functions such as regulating immune responses, managing the apoptosis of cells, participating in glucose metabolism, and so on. Some bile acids were used for the treatment or prevention of diseases such as gallstones, primary biliary cirrhosis, and colorectal cancer. Meanwhile, the accumulation of toxic bile acids leads to apoptosis, necrosis, and inflammation. Alteration of bile acids metabolism, as well as the gut microbiota that interacted with bile acids, contributes to the pathogenesis of metabolic diseases. Therefore, the purpose of this review is to summarize the current functions and pre-clinical or clinical applications of bile acids, and to further discuss the alteration of bile acids in metabolic disorders as well as the manipulation of bile acids metabolism as potential therapeutic targets.
+## Bile acids as regulatory molecules and potential targets in metabolic diseases
 
 [Source](https://doi.org/10.1016/j.lfs.2021.120152)
 
-10.1016/j.lfs.2021.120152
-
 ---
 
-## Renaissance for Phage-Based Bacterial Control.
- 22.11.2021, _C Schwarz, J Mathieu, JA Laverde Gomez, P Yu, PJJ Alvarez_
-
-
-Bacteriophages (phages) are an underutilized biological resource with vast potential for pathogen control and microbiome editing. Phage research and commercialization have increased rapidly in biomedical and agricultural industries, but adoption has been limited elsewhere. Nevertheless, converging advances in DNA sequencing, bioinformatics, microbial ecology, and synthetic biology are now poised to broaden phage applications beyond pathogen control toward the manipulation of microbial communities for defined functional improvements. Enhancements in sequencing combined with network analysis make it now feasible to identify and disrupt microbial associations to elicit desirable shifts in community structure or function, indirectly modulate species abundance, and target hub or keystone species to achieve broad functional shifts. Sequencing and bioinformatic advancements are also facilitating the use of temperate phages for safe gene delivery applications. Finally, integration of synthetic biology stands to create novel phage chassis and modular genetic components. While some fundamental, regulatory, and commercialization barriers to widespread phage use remain, many major challenges that have impeded the field now have workable solutions. Thus, a new dawn for phage-based (chemical-free) precise biocontrol and microbiome editing is on the horizon to enhance, suppress, or modulate microbial activities important for public health, food security, and more sustainable energy production and water reuse.
+## Renaissance for Phage-Based Bacterial Control
 
 [Source](https://doi.org/10.1021/acs.est.1c06232)
 
-10.1021/acs.est.1c06232
-
 ---
 
-## Sulphur metabolism in colon cancer tissues: a case report and literature review.
- 23.11.2021, _H Fukuoka, T Andou, T Moriya, K Narita, K Kasahara, D Miura, Y Sekiguchi, S Suzuki, K Nakagawa, M Ozawa, A Ishibe, I Endo_
-
-
-_Aged, Chromatography, Liquid, Colonic Neoplasms, Female, Humans, Intestinal Mucosa, Sulfur, Tandem Mass Spectrometry_
-Sulphur-containing compounds have been linked to colorectal cancer by factors such as the presence of methyl mercaptan in intestinal gas and long-term dietary intake associated with sulphur-metabolizing microbiota. Therefore, this current case report hypothesized that active sulphur metabolism in colorectal cancer results in the formation of sulphur compounds in the intestine and, thus, examined sulphur metabolites possibly associated with sulphur respiration in colon cancer tissues. The patient was a 73-year-old female that underwent laparoscopic right hemicolectomy for ascending colon cancer. During the surgery, colon cancer tissues and normal intestinal mucosa samples were collected. After optimizing the sample concentrations for homogenization (pre-treatment), the samples were stabilized using a hydroxyphenyl-containing derivative and the relevant metabolites were quantified using liquid chromatography with tandem mass spectrometry. The results showed that cysteine persulfide and cysteine trisulfide levels were higher in colon cancer tissues than in normal mucosal tissues. Thus, sulphur metabolism, possibly sulphur respiration, is enhanced in colon cancer tissues.
+## Sulphur metabolism in colon cancer tissues: a case report and literature review
 
 [Source](https://doi.org/10.1177/03000605211059936)
 
-10.1177/03000605211059936
-
 ---
 
-## Dietary fatty acids in gut health: Absorption, metabolism and function.
- 18.11.2021, _E Xu, C Chen, J Fu, L Zhu, J Shu, M Jin, Y Wang, X Zong_
-
-
-In biological responses, fatty acids (FA) are absorbed and metabolized in the form of substrates for energy production. The molecular structures (number of double bonds and chain length) and composition of dietary FA impact digestion, absorption and metabolism, and the biological roles of FA. Recently, increasing evidence indicates that FA are essentially utilized as an energy source and are signaling molecules that exert physiological activity of gut microbiota and immune responses. In addition, FA could serve as natural ligands for orphan G protein-coupled receptors (GPCR), also called free fatty acid receptors (FFAR), which intertwine metabolic and immune systems via multiple mechanisms. The present review explores the recent findings on FA absorption and its impact on gut health, particularly addressing the mechanism by which dietary FA potentially influences intestinal microbiota and epithelial functions. Also, this work attempts to uncover research ideas for devising future strategies for manipulating the composition of dietary FA to regulate gut health and support a normal immune system for metabolic and immune disorders.
+## Dietary fatty acids in gut health: Absorption, metabolism and function
 
 [Source](https://doi.org/10.1016/j.aninu.2021.09.010)
-
-10.1016/j.aninu.2021.09.010
 
 ---
 
