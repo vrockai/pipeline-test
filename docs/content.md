@@ -52,15 +52,27 @@
 
 ---
 
-## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research
+## Temporal variability in quantitative human gut microbiome profiles and implications for clinical research.
+ 22.11.2021, _D Vandeputte, L De Commer, RY Tito, G Kathagen, J Sabino, S Vermeire, K Faust, J Raes_
+
+
+While clinical gut microbiota research is ever-expanding, extending reference knowledge of healthy between- and within-subject gut microbiota variation and its drivers remains essential; in particular, temporal variability is under-explored, and a comparison with cross-sectional variation is missing. Here, we perform daily quantitative microbiome profiling on 713 fecal samples from 20 Belgian women over six weeks, combined with extensive anthropometric measurements, blood panels, dietary data, and stool characteristics. We show substantial temporal variation for most major gut genera; we find that for 78% of microbial genera, day-to-day absolute abundance variation is substantially larger within than between individuals, with up to 100-fold shifts over the study period. Diversity, and especially evenness indicators also fluctuate substantially. Relative abundance profiles show similar but less pronounced temporal variation. Stool moisture, and to a lesser extent diet, are the only significant host covariates of temporal microbiota variation, while menstrual cycle parameters did not show significant effects. We find that the dysbiotic Bact2 enterotype shows increased between- and within-subject compositional variability. Our results suggest that to increase diagnostic as well as target discovery power, studies could adopt a repeated measurement design and/or focus analysis on community-wide microbiome descriptors and indices.
 
 [Source](https://doi.org/10.1038/s41467-021-27098-7)
 
+10.1038/s41467-021-27098-7
+
 ---
 
-## Association between Parkinson’s disease and the faecal eukaryotic microbiota
+## Association between Parkinson's disease and the faecal eukaryotic microbiota.
+ 19.11.2021, _S Weis, A Meisner, A Schwiertz, MM Unger, A Becker, K Faßbender, S Schnell, KH Schäfer, M Egert_
+
+
+Parkinson's disease (PD) is one of the most common neurodegenerative disease, and is so far not considered curable. PD patients suffer from several motor and non-motor symptoms, including gastrointestinal dysfunctions and alterations of the enteric nervous system. Constipation and additional intestinal affections can precede the classical motor symptoms by several years. Recently, we reported effects of PD and related medications on the faecal bacterial community of 34 German PD patients and 25 age-matched controls. Here, we used the same collective and analysed the V6 and V7 hypervariable region of PCR-amplified, eukaryotic 18S rRNA genes using an Illumina MiSeq platform. In all, 53% (18) of the PD samples and 72% (18) of the control samples yielded sufficient amplicons for downstream community analyses. The PD samples showed a significantly lower alpha and a different beta eukaryotic diversity than the controls. Most strikingly, we observed a significantly higher relative abundance of sequence affiliated with the Geotrichum genus in the PD samples (39.7%), when compared to the control samples (0.05%). In addition, we observed lower relative abundances of sequences affiliated with Aspergillus/Penicillium, Charophyta/Linum, unidentified Opisthokonta and three genera of minor abundant zooflagellates in the PD samples. Our data add knowledge to the small body of data about the eukaryotic microbiota of PD patients and suggest a potential association of certain gut eukaryotes and PD.
 
 [Source](https://doi.org/10.1038/s41531-021-00244-0)
+
+10.1038/s41531-021-00244-0
 
 ---
 
@@ -77,7 +89,7 @@ Supplementation with micronutrients, including vitamins, iron and zinc, is a key
 ---
 
 ## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness.
- 21.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
+ 23.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
 
 
 Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several studies showed that the impact of antibiotics to prevent infection, multi-organ failure, and death in the ICU is less clear than their benefit on course of infection in the absence of organ dysfunction. We characterized here the compositional and metabolic changes of the gut microbiome induced by critical illness and antibiotics in a cohort of 75 individuals in conjunction with 2,180 gut microbiome samples representing 16 different diseases. We revealed an "infection-vulnerable" gut microbiome environment present only in critically ill treated with antibiotics (ICU+). Feeding of Caenorhabditis elegans with Bifidobacterium animalis and Lactobacillus crispatus, species that expanded in ICU+ patients, revealed a significant negative impact of these microbes on host viability and developmental homeostasis. These results suggest that antibiotic administration can dramatically impact essential functional activities in the gut related to immune responses more than critical illness itself, which might explain in part untoward effects of antibiotics in the critically ill.
@@ -95,7 +107,7 @@ Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several
 ---
 
 ## The anti-inflammatory effect of bacterial short chain fatty acids is partially mediated by endocannabinoids.
- 21.11.2021, _A Vijay, A Kouraki, S Gohir, J Turnbull, A Kelly, V Chapman, DA Barrett, WJ Bulsiewicz, AM Valdes_
+ 23.11.2021, _A Vijay, A Kouraki, S Gohir, J Turnbull, A Kelly, V Chapman, DA Barrett, WJ Bulsiewicz, AM Valdes_
 
 
 The endocannabinoid (EC) system has pleiotropic functions in the body. It plays a key role in energy homeostasis and the development of metabolic disorders being a mediator in the relationship between the gut microbiota and host metabolism. In the current study we explore the functional interactions between the endocannabinoid system and the gut microbiome in modulating inflammatory markers. Using data from a 6 week exercise intervention (treatment n = 38 control n = 40) and a cross sectional validation cohort (n = 35), we measured the associations of 2-arachidonoylglycerol (2-AG), anandamide (AEA), N-oleoylethanolamine (OEA) and N-palmitoylethanolamine (PEA) with gut microbiome composition, gut derived metabolites (SCFAs) and inflammatory markers both cross-sectionally and longitudinally. At baseline AEA and OEA were positively associated with alpha diversity (β(SE) = .32 (.06), P = .002; .44 (.04), P &lt; .001) and with SCFA producing bacteria such as Bifidobacterium (2-AG β(SE) = .21 (.10), P &lt; .01; PEA β(SE) = .23 (.08), P &lt; .01), Coprococcus 3 and Faecalibacterium (PEA β(SE) = .29 (.11), P = .01; .25 (.09), P &lt; .01) and negatively associated with Collinsella (AEA β(SE) = -.31 (.12), P = .004). Additionally, we found AEA to be positively associated with SCFA Butyrate (β(SE) = .34 (.15), P = .01). AEA, OEA and PEA all increased significantly with the exercise intervention but remained constant in the control group. Changes in AEA correlated with SCFA butyrate and increases in AEA and PEA correlated with decreases in TNF-ɑ and IL-6 statistically mediating one third of the effect of SCFAs on these cytokines. Our data show that the anti-inflammatory effects of SCFAs are partly mediated by the EC system suggesting that there may be other pathways involved in the modulation of the immune system via the gut microbiome.
@@ -131,7 +143,7 @@ Bacteriophages (phages) are an underutilized biological resource with vast poten
 ---
 
 ## Sulphur metabolism in colon cancer tissues: a case report and literature review.
- 18.11.2021, _H Fukuoka, T Andou, T Moriya, K Narita, K Kasahara, D Miura, Y Sekiguchi, S Suzuki, K Nakagawa, M Ozawa, A Ishibe, I Endo_
+ 23.11.2021, _H Fukuoka, T Andou, T Moriya, K Narita, K Kasahara, D Miura, Y Sekiguchi, S Suzuki, K Nakagawa, M Ozawa, A Ishibe, I Endo_
 
 
 _Aged, Chromatography, Liquid, Colonic Neoplasms, Female, Humans, Intestinal Mucosa, Sulfur, Tandem Mass Spectrometry_
