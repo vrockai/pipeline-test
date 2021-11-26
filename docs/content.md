@@ -58,39 +58,21 @@
 
 ---
 
-## Association between Parkinson's disease and the faecal eukaryotic microbiota.
- 19.11.2021, _S Weis, A Meisner, A Schwiertz, MM Unger, A Becker, K Faßbender, S Schnell, KH Schäfer, M Egert_
-
-
-Parkinson's disease (PD) is one of the most common neurodegenerative disease, and is so far not considered curable. PD patients suffer from several motor and non-motor symptoms, including gastrointestinal dysfunctions and alterations of the enteric nervous system. Constipation and additional intestinal affections can precede the classical motor symptoms by several years. Recently, we reported effects of PD and related medications on the faecal bacterial community of 34 German PD patients and 25 age-matched controls. Here, we used the same collective and analysed the V6 and V7 hypervariable region of PCR-amplified, eukaryotic 18S rRNA genes using an Illumina MiSeq platform. In all, 53% (18) of the PD samples and 72% (18) of the control samples yielded sufficient amplicons for downstream community analyses. The PD samples showed a significantly lower alpha and a different beta eukaryotic diversity than the controls. Most strikingly, we observed a significantly higher relative abundance of sequence affiliated with the Geotrichum genus in the PD samples (39.7%), when compared to the control samples (0.05%). In addition, we observed lower relative abundances of sequences affiliated with Aspergillus/Penicillium, Charophyta/Linum, unidentified Opisthokonta and three genera of minor abundant zooflagellates in the PD samples. Our data add knowledge to the small body of data about the eukaryotic microbiota of PD patients and suggest a potential association of certain gut eukaryotes and PD.
+## Association between Parkinson’s disease and the faecal eukaryotic microbiota
 
 [Source](https://doi.org/10.1038/s41531-021-00244-0)
 
-10.1038/s41531-021-00244-0
-
 ---
 
-## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut.
- 19.11.2021, _A Popovic, C Bourdon, PW Wang, DS Guttman, S Soofi, ZA Bhutta, RHJ Bandsma, J Parkinson, LG Pell_
-
-
-Supplementation with micronutrients, including vitamins, iron and zinc, is a key strategy to alleviate child malnutrition. However, association of gastrointestinal disorders with iron has led to ongoing debate over their administration. To better understand their impact on gut microbiota, we analyse the bacterial, protozoal, fungal and helminth communities of stool samples collected from a subset of 80 children at 12 and 24 months of age, previously enrolled into a large cluster randomized controlled trial of micronutrient supplementation in Pakistan (ClinicalTrials.gov identifier NCT00705445). We show that while bacterial diversity is reduced in supplemented children, vitamins and iron (as well as residence in a rural setting) may promote colonization with distinct protozoa and mucormycetes, whereas the addition of zinc appears to ameliorate this effect. We suggest that the risks and benefits of micronutrient interventions may depend on eukaryotic communities, potentially exacerbated by exposure to a rural setting. Larger studies are needed to evaluate the clinical significance of these findings and their impact on health outcomes.
+## Micronutrient supplements can promote disruptive protozoan and fungal communities in the developing infant gut
 
 [Source](https://doi.org/10.1038/s41467-021-27010-3)
 
-10.1038/s41467-021-27010-3
-
 ---
 
-## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness.
- 23.11.2021, _A Marfil-Sánchez, L Zhang, P Alonso-Pernas, M Mirhakkak, M Mueller, B Seelbinder, Y Ni, R Santhanam, A Busch, C Beemelmanns, M Ermolaeva, M Bauer, G Panagiotou_
-
-
-Antibiotics are commonly used in the Intensive Care Unit (ICU); however, several studies showed that the impact of antibiotics to prevent infection, multi-organ failure, and death in the ICU is less clear than their benefit on course of infection in the absence of organ dysfunction. We characterized here the compositional and metabolic changes of the gut microbiome induced by critical illness and antibiotics in a cohort of 75 individuals in conjunction with 2,180 gut microbiome samples representing 16 different diseases. We revealed an "infection-vulnerable" gut microbiome environment present only in critically ill treated with antibiotics (ICU+). Feeding of Caenorhabditis elegans with Bifidobacterium animalis and Lactobacillus crispatus, species that expanded in ICU+ patients, revealed a significant negative impact of these microbes on host viability and developmental homeostasis. These results suggest that antibiotic administration can dramatically impact essential functional activities in the gut related to immune responses more than critical illness itself, which might explain in part untoward effects of antibiotics in the critically ill.
+## An integrative understanding of the large metabolic shifts induced by antibiotics in critical illness
 
 [Source](https://doi.org/10.1080/19490976.2021.1993598)
-
-10.1080/19490976.2021.1993598
 
 ---
 
