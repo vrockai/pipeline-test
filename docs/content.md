@@ -155,7 +155,7 @@ Honey bee gut microbiota transmitted via social interactions are beneficial to t
 ---
 
 ## Evidence for host-microbiome co-evolution in apple.
- 25.11.2021, _A Abdelfattah, AJM Tack, B Wasserman, J Liu, G Berg, J Norelli, S Droby, M Wisniewski_
+ 30.11.2021, _A Abdelfattah, AJM Tack, B Wasserman, J Liu, G Berg, J Norelli, S Droby, M Wisniewski_
 
 
 Plants evolved in association with a diverse community of microorganisms. The effect of plant phylogeny and domestication on host-microbiome co-evolutionary dynamics are poorly understood. Here we examined the effect of domestication and plant lineage on the composition of the endophytic microbiome of 11 Malus species, representing three major groups: domesticated apple (M. domestica), wild apple progenitors, and wild Malus species. The endophytic community of M. domestica and its wild progenitors showed higher microbial diversity and abundance than wild Malus species. Heirloom and modern cultivars harbored a distinct community composition, though the difference was not significant. A community-wide Bayesian model revealed that the endophytic microbiome of domesticated apple is an admixture of its wild progenitors, with clear evidence for microbiome introgression, especially for the bacterial community. We observed a significant correlation between the evolutionary distance of Malus species and their microbiome. This study supports co-evolution between Malus species and their microbiome during domestication. This finding has major implications for future breeding programs and our understanding of the evolution of plants and their microbiomes.
@@ -191,7 +191,7 @@ Drought severely restricts plant production and global warming is further increa
 ---
 
 ## Cross-regional scale pollution of freshwater biofilms unveiled by antibiotic resistance genes.
- 25.11.2021, _Y Yao, Z Liu, KK Yip, Y Pu, W Cheng, M Li, O Habimana_
+ 30.11.2021, _Y Yao, Z Liu, KK Yip, Y Pu, W Cheng, M Li, O Habimana_
 
 
 A comprehensive global profile of the distribution of ARGs in freshwater biofilms is lacking. We utilized metagenomic approaches to reveal the diversity, abundance, transferability and hosts of ARGs in 96 freshwater biofilm samples from 38 sampling sites across four countries. The abundant ARGs were associated with bacitracin, multidrug, polymyxin macrolide-lincosamide-streptogramin (MLS) aminoglycoside, β-lactam, chloramphenicol, sulfonamide and tetracycline resistance, consistent with the spectrum of antibiotics commonly used in human or veterinary medicine. As expected, the resistome in freshwater biofilm habitats was significantly influenced by geographical location and human footprint. Based on the co-occurrence pattern revealed by network analysis, mdtC, kdpE, and emrB were proposed as ARG indicators in freshwater biofilms that can be used to evaluate the abundance of 46 other co-occurring ARG subtypes quantitatively. Metagenomic assembly analysis revealed that the identified ARGs were hosted by more than 46 bacterial phyla, including various pathogens, which greatly expands the knowledge of resistome diversity in freshwater biofilms. Our study points to the central roles of biofilms in harbouring ARGs. The results could enhance understanding the distribution of ARGs in freshwater habitats, thereby strengthening the global environmental risk assessment and management of ARGs.
@@ -221,9 +221,10 @@ It is challenging to associate features such as human health outcomes, diet, env
 ---
 
 ## Assessing saliva microbiome collection and processing methods.
- 22.11.2021, _AJS Armstrong, V Parmar, MJ Blaser_
+ 30.11.2021, _AJS Armstrong, V Parmar, MJ Blaser_
 
 
+_Adult, Bacteria, COVID-19, DNA, DNA, Bacterial, Female, Humans, Male, Metagenome, Metagenomics, Microbiota, Middle Aged, RNA, Ribosomal, 16S, SARS-CoV-2, Saliva, Sequence Analysis, DNA_
 The oral microbiome has been connected with lung health and may be of significance in the progression of SARS-CoV-2 infection. Saliva-based SARS-CoV-2 tests provide the opportunity to leverage stored samples for assessing the oral microbiome. However, these collection kits have not been tested for their accuracy in measuring the oral microbiome. Saliva is highly enriched with human DNA and reducing it prior to shotgun sequencing may increase the depth of bacterial reads. We examined both the effect of saliva collection method and sequence processing on measurement of microbiome depth and diversity by 16S rRNA gene amplicon and shotgun metagenomics. We collected 56 samples from 22 subjects. Each subject provided saliva samples with and without preservative, and a subset provided a second set of samples the following day. 16S rRNA gene (V4) sequencing was performed on all samples, and shotgun metagenomics was performed on a subset of samples collected with preservative with and without human DNA depletion before sequencing. We observed that the beta diversity distances within subjects over time was smaller than between unrelated subjects, and distances within subjects were smaller in samples collected with preservative. Samples collected with preservative had higher alpha diversity measuring both richness and evenness. Human DNA depletion before extraction and shotgun sequencing yielded higher total and relative reads mapping to bacterial sequences. We conclude that collecting saliva with preservative may provide more consistent measures of the oral microbiome and depleting human DNA increases yield of bacterial sequences.
 
 [Source](https://www.nature.com/articles/s41522-021-00254-z)
