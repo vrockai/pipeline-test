@@ -156,7 +156,7 @@ We develop a method to artificially select for rhizosphere microbiomes that conf
 ---
 
 ## Minnesota peat viromes reveal terrestrial and aquatic niche partitioning for local and global viral populations.
- 29.11.2021, _AM Ter Horst, C Santos-Medellín, JW Sorensen, LA Zinke, RM Wilson, ER Johnston, GG Trubl, J Pett-Ridge, SJ Blazewicz, PJ Hanson, JP Chanton, CW Schadt, JE Kostka, JB Emerson_
+ 01.12.2021, _AM Ter Horst, C Santos-Medellín, JW Sorensen, LA Zinke, RM Wilson, ER Johnston, GG Trubl, J Pett-Ridge, SJ Blazewicz, PJ Hanson, JP Chanton, CW Schadt, JE Kostka, JB Emerson_
 
 
 Peatlands are expected to experience sustained yet fluctuating higher temperatures due to climate change, leading to increased microbial activity and greenhouse gas emissions. Despite mounting evidence for viral contributions to these processes in peatlands underlain with permafrost, little is known about viruses in other peatlands. More generally, soil viral biogeography and its potential drivers are poorly understood at both local and global scales. Here, 87 metagenomes and five viral size-fraction metagenomes (viromes) from a boreal peatland in northern Minnesota (the SPRUCE whole-ecosystem warming experiment and surrounding bog) were analyzed for dsDNA viral community ecological patterns, and the recovered viral populations (vOTUs) were compared with our curated PIGEON database of 266,125 vOTUs from diverse ecosystems.
