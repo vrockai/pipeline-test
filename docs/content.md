@@ -76,9 +76,15 @@ Researcher teams around the globe including the "Project Lightspeed" are intensi
 
 ---
 
-## Transparency in peer review: Exploring the content and tone of reviewers’ confidential comments to editors
+## Transparency in peer review: Exploring the content and tone of reviewers' confidential comments to editors.
+ 29.11.2021, _BC O'Brien, AR Artino, JA Costello, E Driessen, LA Maggio_
+
+
+Recent calls to improve transparency in peer review have prompted examination of many aspects of the peer-review process. Peer-review systems often allow confidential comments to editors that could reduce transparency to authors, yet this option has escaped scrutiny. Our study explores 1) how reviewers use the confidential comments section and 2) alignment between comments to the editor and comments to authors with respect to content and tone.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260558)
+
+10.1371/journal.pone.0260558
 
 ---
 
