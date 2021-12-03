@@ -1,12 +1,18 @@
-## To vaccinate or not to vaccinate!? Predictors of willingness to receive Covid-19 vaccination in Europe, the U.S., and China.
- 01.12.2021, _J Brailovskaia, S Schneider, J Margraf_
+## HPV vaccination hesitancy in Reunion Island.
+ 02.12.2021, _TP Lien, A Bruneteaux, G Lazaro, B Antoine, B Malik_
 
 
-Researcher teams around the globe including the "Project Lightspeed" are intensively working on vaccines to fight the Covid-19 pandemic. However, the availability of effective vaccines does not guarantee the vaccination willingness among the population. In spring 2021, we investigated the vaccination willingness and its potential predictors in representative online samples in nine countries (China, France, Germany, Poland, Russia, Spain, Sweden, U.K., U.S.). Of the 9,264 participants, 79.9% revealed Covid-19 vaccination willingness. The highest willingness was in the U.K., followed by Spain and China, the lowest in Russia. In most countries, the perception of governmental Covid-19 measures as useful and the use of television reports as Covid-19 information source positively predicted the willingness. Further factors such as demographic variables, mental and physical health status, evaluation of governmental communication, social media use, and general adherence to Covid-19 measures showed a country-specific predictive pattern. Recommendations how to increase the vaccination willingness are provided.
+In Reunion Island (RUN), cervical cancer is the 4th most common cancer in women and standardized mortality rate is 4.8 for 100 000 women. It is preventable by HPV vaccination, yet only 8.1% of girls aged &lt;16 years old are fully vaccinated.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260230)
 
-10.1371/journal.pone.0260230
+10.1016/j.jogoh.2021.102277
+
+---
+
+## To vaccinate or not to vaccinate!? Predictors of willingness to receive Covid-19 vaccination in Europe, the U.S., and China
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260230)
 
 ---
 
@@ -22,9 +28,15 @@ Researcher teams around the globe including the "Project Lightspeed" are intensi
 
 ---
 
-## Development and characterization of an oral microbiome transplant among Australians for the treatment of dental caries and periodontal disease: A study protocol 
+## Development and characterization of an oral microbiome transplant among Australians for the treatment of dental caries and periodontal disease: A study protocol.
+ 29.11.2021, _S Nath, P Zilm, L Jamieson, K Kapellas, N Goswami, K Ketagoda, LS Weyrich_
+
+
+Oral microbiome transplantation (OMT) is a novel concept of introducing health-associated oral microbiota into the oral cavity of a diseased patient. The premise is to reverse the state of oral dysbiosis, and restore the ecological balance to maintain a stable homeostasis with the host immune system. This study will assess the effectiveness, feasibility, and safety of OMT using an interdisciplinary approach.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260433)
+
+10.1371/journal.pone.0260433
 
 ---
 
@@ -76,15 +88,9 @@ Researcher teams around the globe including the "Project Lightspeed" are intensi
 
 ---
 
-## Transparency in peer review: Exploring the content and tone of reviewers' confidential comments to editors.
- 29.11.2021, _BC O'Brien, AR Artino, JA Costello, E Driessen, LA Maggio_
-
-
-Recent calls to improve transparency in peer review have prompted examination of many aspects of the peer-review process. Peer-review systems often allow confidential comments to editors that could reduce transparency to authors, yet this option has escaped scrutiny. Our study explores 1) how reviewers use the confidential comments section and 2) alignment between comments to the editor and comments to authors with respect to content and tone.
+## Transparency in peer review: Exploring the content and tone of reviewers’ confidential comments to editors
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260558)
-
-10.1371/journal.pone.0260558
 
 ---
 
