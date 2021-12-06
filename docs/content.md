@@ -1,48 +1,24 @@
-## Multivariate associative patterns between the gut microbiota and large-scale brain network connectivity.
- 03.12.2021, _N Kohn, J Szopinska-Tokov, A Llera Arenas, CF Beckmann, A Arias-Vasquez, E Aarts_
-
-
-Research on the gut-brain axis has accelerated substantially over the course of the last years. Many reviews have outlined the important implications of understanding the relation of the gut microbiota with human brain function and behavior. One substantial drawback in integrating gut microbiome and brain data is the lack of integrative multivariate approaches that enable capturing variance in both modalities simultaneously. To address this issue, we applied a linked independent component analysis (LICA) to microbiota and brain connectivity data.We analyzed data from 58 healthy females (mean age = 21.5 years). Magnetic Resonance Imaging data were acquired using resting state functional imaging data. The assessment of gut microbial composition from feces was based on sequencing of the V4 16S rRNA gene region. We used the LICA model to simultaneously factorize the subjects' large-scale brain networks and microbiome relative abundance data into 10 independent components of spatial and abundance variation.LICA decomposition resulted in four components with non-marginal contribution of the microbiota data. The default mode network featured strongly in three components, whereas the two-lateralized fronto-parietal attention networks contributed to one component. The executive-control (with the default mode) network was associated to another component. We found that the abundance of Prevotella genus was associated with the strength of expression of all networks, whereas Bifidobacterium was associated with the default mode and frontoparietal-attention networks.We provide the first exploratory evidence for multivariate associative patterns between the gut microbiota and brain network connectivity in healthy humans considering the complexity of both systems.
+## Multivariate associative patterns between the gut microbiota and large-scale brain network connectivity
 
 [Source](https://doi.org/10.1080/19490976.2021.2006586)
 
-10.1080/19490976.2021.2006586
-
 ---
 
-## Cervicovaginal levels of human beta defensins during bacterial vaginosis.
- 02.12.2021, _NM Noda-Nicolau, MC Silva, GFC Bento, JSB Ferreira, J Novak, JAP Morales, JA Tronco, AN Bolpetti, GVS Pinto, J Polettini, C Marconi, MGD Silva_
-
-
-To compare the cervicovaginal levels of human beta defensin (hBD)-1, 2 and 3 of women according to the status of Nugent-defined bacterial vaginosis (BV).
+## Cervicovaginal levels of human beta defensins during bacterial vaginosis
 
 [Source](https://doi.org/10.1371/journal.pone.0260753)
 
-10.1371/journal.pone.0260753
-
 ---
 
-## Multiomics and digital monitoring during lifestyle changes reveal independent dimensions of human biology and health.
- 02.12.2021, _F Marabita, T James, A Karhu, H Virtanen, K Kettunen, H Stenlund, F Boulund, C Hellström, M Neiman, R Mills, T Perheentupa, H Laivuori, P Helkkula, M Byrne, I Jokinen, H Honko, A Kallonen, M Ermes, H Similä, M Lindholm, E Widén, S Ripatti, M Perälä-Heape, L Engstrand, P Nilsson, T Moritz, T Miettinen, R Sallinen, O Kallioniemi_
-
-
-We explored opportunities for personalized and predictive health care by collecting serial clinical measurements, health surveys, genomics, proteomics, autoantibodies, metabolomics, and gut microbiome data from 96 individuals who participated in a data-driven health coaching program over a 16-month period with continuous digital monitoring of activity and sleep. We generated a resource of &gt;20,000 biological samples from this study and a compendium of &gt;53 million primary data points for 558,032 distinct features. Multiomics factor analysis revealed distinct and independent molecular factors linked to obesity, diabetes, liver function, cardiovascular disease, inflammation, immunity, exercise, diet, and hormonal effects. For example, ethinyl estradiol, a common oral contraceptive, produced characteristic molecular and physiological effects, including increased levels of inflammation and impact on thyroid, cortisol levels, and pulse, that were distinct from other sources of variability observed in our study. In total, this work illustrates the value of combining deep molecular and digital monitoring of human health. A record of this paper's transparent peer review process is included in the supplemental information.
+## Multiomics and digital monitoring during lifestyle changes reveal independent dimensions of human biology and health
 
 [Source](https://doi.org/10.1016/j.cels.2021.11.001)
 
-10.1016/j.cels.2021.11.001
-
 ---
 
-## A specific structure and high richness characterize intestinal microbiota of HIV-exposed seronegative individuals.
- 02.12.2021, _TJ Lopera, JA Lujan, E Zurek, W Zapata, JC Hernandez, MA Toro, JF Alzate, NA Taborda, MT Rugeles, W Aguilar-Jimenez_
-
-
-Intestinal microbiota facilitates food breakdown for energy metabolism and influences the immune response, maintaining mucosal homeostasis. Overall, HIV infection is associated with intestinal dysbiosis and immune activation, which has been related to seroconversion in HIV-exposed individuals. However, it is unclear whether microbiota dysbiosis is the cause or the effect of immune alterations and disease progression or if it could modulate the risk of acquiring the HIV infection. We characterize the intestinal microbiota and determine its association with immune regulation in HIV-exposed seronegative individuals (HESN), HIV-infected progressors (HIV+), and healthy control (HC) subjects. For this, feces and blood were collected. The microbiota composition of HESN showed a significantly higher alpha (p = 0.040) and beta diversity (p = 0.006) compared to HC, but no differences were found compared to HIV+. A lower Treg percentage was observed in HESN (1.77%) than HC (2.98%) and HIV+ (4.02%), with enrichment of the genus Butyrivibrio (p = 0.029) being characteristic of this profile. Moreover, we found that Megasphaera (p = 0.017) and Victivallis (p = 0.0029) also are enriched in the microbiota composition in HESN compared to HC and HIV+ subjects. Interestingly, an increase in Succinivibrio and Prevotella, and a reduction in Bacteroides genus, which is typical of HIV-infected individuals, were observed in both HESN and HIV+, compared to HC. Thus, HESNs have a microbiota profile, similar to that observed in HIV+, most likely because HESN are cohabiting with their HIV+ partners.
+## A specific structure and high richness characterize intestinal microbiota of HIV-exposed seronegative individuals
 
 [Source](https://doi.org/10.1371/journal.pone.0260729)
-
-10.1371/journal.pone.0260729
 
 ---
 
@@ -94,9 +70,15 @@ Intestinal microbiota facilitates food breakdown for energy metabolism and influ
 
 ---
 
-## Altered cervicovaginal microbiota in premenopausal ovarian cancer patients
+## Altered cervicovaginal microbiota in premenopausal ovarian cancer patients.
+ 02.12.2021, _A Morikawa, A Kawabata, K Shirahige, T Akiyama, A Okamoto, T Sutani_
+
+
+Nearly three hundred thousand female patients are diagnosed with ovarian cancer in the world annually, and this number shows an increasing trend. However, characteristic symptoms caused by ovarian cancer are so few that early diagnosis remains challenging, and an effective screening method has not yet been established. Here, we conducted a case-control study in Japan to analyze the association between cervicovaginal microbiome and ovarian cancer, using 16S rRNA amplicon sequencing. Analysis of DNA extracted from cervical smear samples revealed Lactobacillus-dominant and Lactobacillus-deficient, highly-diversified bacterial communities in premenopausal and postmenopausal healthy controls, respectively, as reported for vaginal microbiota previously. We found that cervicovaginal microbiota in ovarian cancer patients, regardless of their menopausal status, were frequently a diversified community and similar to those in healthy subjects at postmenopausal ages. The diverse microbiota was associated with the major histotypes of epithelial ovarian cancer, including serous ovarian cancer and ovarian clear cell cancer. The present study implies the potential of a cervicovaginal microbiome biomarker in screening ovarian cancer in premenopausal women.
 
 [Source](https://doi.org/10.1016/j.gene.2021.146083)
+
+10.1016/j.gene.2021.146083
 
 ---
 
@@ -112,63 +94,33 @@ Intestinal microbiota facilitates food breakdown for energy metabolism and influ
 
 ---
 
-## Metagenomics studies for the diagnosis and treatment of prostate cancer.
- 02.12.2021, _A Zarei, H Javid, S Sanjarian, S Senemar, H Zarei_
-
-
-Mutation occurs in the prostate cell genes, leading to abnormal prostate proliferation and ultimately cancer. Prostate cancer (PC) is one of the most common cancers amongst men, and its prevalence worldwide increases relative to men's age. About 16% of the world's cancers are the result of microbes in the human body. Impaired population balance of symbiosis microbes in the human reproductive system is linked to PC development.
+## Metagenomics studies for the diagnosis and treatment of prostate cancer
 
 [Source](https://doi.org/10.1002/pros.24276)
 
-10.1002/pros.24276
-
 ---
 
-## Regulation of common neurological disorders by gut microbial metabolites.
- 03.12.2021, _J Park, CH Kim_
-
-
-The gut is connected to the CNS by immunological mediators, lymphocytes, neurotransmitters, microbes and microbial metabolites. A mounting body of evidence indicates that the microbiome exerts significant effects on immune cells and CNS cells. These effects frequently result in the suppression or exacerbation of inflammatory responses, the latter of which can lead to severe tissue damage, altered synapse formation and disrupted maintenance of the CNS. Herein, we review recent progress in research on the microbial regulation of CNS diseases with a focus on major gut microbial metabolites, such as short-chain fatty acids, tryptophan metabolites, and secondary bile acids. Pathological changes in the CNS are associated with dysbiosis and altered levels of microbial metabolites, which can further exacerbate various neurological disorders. The cellular and molecular mechanisms by which these gut microbial metabolites regulate inflammatory diseases in the CNS are discussed. We highlight the similarities and differences in the impact on four major CNS diseases, i.e., multiple sclerosis, Parkinson's disease, Alzheimer's disease, and autism spectrum disorder, to identify common cellular and molecular networks governing the regulation of cellular constituents and pathogenesis in the CNS by microbial metabolites.
+## Regulation of common neurological disorders by gut microbial metabolites
 
 [Source](https://doi.org/10.1038/s12276-021-00703-x)
 
-10.1038/s12276-021-00703-x
-
 ---
 
-## The gut microbiota in retinal diseases.
- 02.12.2021, _MA Bringer, PH Gabrielle, AM Bron, C Creuzot-Garcher, N Acar_
-
-
-The gut microbiota is a complex ecosystem that inhabits the gastrointestinal tract and consists of archaea, fungi, viruses, and bacteria, with bacteria being dominant. From birth onwards, it coevolves dynamically together with the host. The composition of the gut microbiota is under the influence of a complex interplay between both host and environmental factors. Scientific advances in the past few decades have shown that it is essential in maintaining homeostasis and tipping the balance between health and disease. In addition to its role in food digestion, the gut microbiota is implicated in regulating multiple physiological processes in the host gut mucosa and in distant organs such as the brain. Persistent imbalance between gut microbial communities, termed "dysbiosis," has been associated with several inflammatory and metabolic diseases as well as with central nervous system disorders. In this review, we present the state of the art of current knowledge on an emerging concept, the microbiota-retina axis, and the potential role of its disturbance in the development of retinopathies. We also describe several microbiota-targeting strategies that could constitute preventive and therapeutic tools for retinopathies.
+## The gut microbiota in retinal diseases
 
 [Source](https://doi.org/10.1016/j.exer.2021.108867)
 
-10.1016/j.exer.2021.108867
-
 ---
 
-## Microbe-based management for colorectal cancer.
- 02.12.2021, _ZY Gao, Z Cui, YQ Yan, LJ Ning, ZH Wang, J Hong_
-
-
-Colorectal cancer (CRC) is one of the most prevalent, most lethal cancers in the world. Increasing evidence suggests that the intestinal microbiota is closely related to the pathogenesis and prognosis of CRC. The normal microbiota plays an essential role in maintaining gut barrier function and the immune microenvironment. Recent studies have identified carcinogenic bacteria such as enterotoxigenic Bacteroides fragilis (ETBF) and Streptococcus gallolyticus (S. gallolyticus), as well as protective bacterial such as Akkermansia muciniphila (A. muciniphila), as potential targets of CRC treatment. Gut microbiota modulation aims to restore gut dysbiosis, regulate the intestinal immune system and prevent from pathogen invasion, all of which are beneficial for CRC prevention and prognosis. The utility of probiotics, prebiotics, postbiotics, fecal microbiota transplantation and dietary inventions to treat CRC makes them novel microbe-based management tools. In this review, we describe the mechanisms involved in bacteria-derived colorectal carcinogenesis and summarized novel bacteria-related therapies for CRC. In summary, we hope to facilitate clinical applications of intestinal bacteria for preventing and treating CRC.
+## Microbe-based management for colorectal cancer
 
 [Source](https://doi.org/10.1097/CM9.0000000000001887)
 
-10.1097/CM9.0000000000001887
-
 ---
 
-## Novel Strategies for Inhibition of Bacterial Biofilm in Chronic Rhinosinusitis.
- 02.12.2021, _A Shariati, S Vesal, A Khoshbayan, P Goudarzi, D Darban-Sarokhali, S Razavi, M Didehdar, Z Chegini_
-
-
-An important role has been recently reported for bacterial biofilm in the pathophysiology of chronic diseases, such as Chronic Rhinosinusitis (CRS). CRS, affecting sinonasal mucosa, is a persistent inflammatory condition with a high prevalence around the world. Although the exact pathological mechanism of this disease has not been elicited yet, biofilm formation is known to lead to a more significant symptom burden and major objective clinical indicators. The high prevalence of multidrug-resistant bacteria has severely restricted the application of antibiotics in recent years. Furthermore, systemic antibiotic therapy, on top of its insufficient concentration to eradicate bacteria in the sinonasal biofilm, often causes toxicity, antibiotic resistance, and an effect on the natural microbiota, in patients. Thus, coming up with alternative therapeutic options instead of systemic antibiotic therapy is emphasized in the treatment of bacterial biofilm in CRS patients. The use of topical antibiotic therapy and antibiotic eluting sinus stents that induce higher antibiotic concentration, and decrease side effects could be helpful. Besides, recent research recognized that various natural products, nitric oxide, and bacteriophage therapy, in addition to the hindered biofilm formation, could degrade the established bacterial biofilm. However, despite these improvements, new antibacterial agents and CRS biofilm interactions are complicated and need extensive research. Finally, most studies were performed in vitro, and more preclinical animal models and human studies are required to confirm the collected data. The present review is specifically discussing potential therapeutic strategies for the treatment of bacterial biofilm in CRS patients.
+## Novel Strategies for Inhibition of Bacterial Biofilm in Chronic Rhinosinusitis
 
 [Source](https://doi.org/10.1111/jam.15398)
-
-10.1111/jam.15398
 
 ---
 
@@ -220,15 +172,27 @@ An important role has been recently reported for bacterial biofilm in the pathop
 
 ---
 
-## Studies and Application of Sialylated Milk Components on Regulating Neonatal Gut Microbiota and Health
+## Studies and Application of Sialylated Milk Components on Regulating Neonatal Gut Microbiota and Health.
+ 04.12.2021, _Y Wang, X Ze, B Rui, X Li, N Zeng, J Yuan, W Li, J Yan, M Li_
+
+
+Breast milk is rich in sialic acids (SA), which are commonly combined with milk oligosaccharides and glycoconjugates. As a functional nutrient component, SA-containing milk components have received increasing attention in recent years. Sialylated human milk oligosaccharides (HMOs) have been demonstrated to promote the growth and metabolism of beneficial gut microbiota in infants, bringing positive outcomes to intestinal health and immune function. They also exhibit antiviral and bacteriostatic activities in the intestinal mucosa of new-borns, thereby inhibiting the adhesion of pathogens to host cells. These properties play a pivotal role in regulating the intestinal microbial ecosystem and preventing the occurrence of neonatal inflammatory diseases. In addition, some recent studies also support the promoting effects of sialylated HMOs on neonatal bone and brain development. In addition to HMOs, sialylated glycoproteins and glycolipids are abundant in milk, and are also critical to neonatal health. This article reviews the current research progress in the regulation of sialylated milk oligosaccharides and glycoconjugates on neonatal gut microbiota and health.
 
 [Source](https://doi.org/10.3389/fnut.2021.766606)
 
+10.3389/fnut.2021.766606
+
 ---
 
-## The highly diverse Antarctic Peninsula soil microbiota as a source of novel resistance genes
+## The highly diverse Antarctic Peninsula soil microbiota as a source of novel resistance genes.
+ 02.12.2021, _AE Marcoleta, P Arros, MA Varas, J Costa, J Rojas-Salgado, C Berríos-Pastén, S Tapia-Fuentes, D Silva, J Fierro, N Canales, FP Chávez, A Gaete, M González, ML Allende, R Lagos_
+
+
+The rise of multiresistant bacterial pathogens is currently one of the most critical threats to global health, encouraging a better understanding of the evolution and spread of antimicrobial resistance. In this regard, the role of the environment as a source of resistance mechanisms remains poorly understood. Moreover, we still know a minimal part of the microbial diversity and resistome present in remote and extreme environments, hosting microbes that evolved to resist harsh conditions and thus a potentially rich source of novel resistance genes. This work demonstrated that the Antarctic Peninsula soils host a remarkable microbial diversity and a widespread presence of autochthonous antibiotic-resistant bacteria and resistance genes. We observed resistance to a wide array of antibiotics among isolates, including Pseudomonas resisting ten or more different compounds, with an overall increased resistance in bacteria from non-intervened areas. In addition, genome analysis of selected isolates showed several genes encoding efflux pumps, as well as a lack of known resistance genes for some of the resisted antibiotics, including colistin, suggesting novel uncharacterized mechanisms. By combining metagenomic approaches based on analyzing raw reads, assembled contigs, and metagenome-assembled genomes, we found hundreds of widely distributed genes potentially conferring resistance to different antibiotics (including an outstanding variety of inactivation enzymes), metals, and biocides, hosted mainly by Polaromonas, Pseudomonas, Streptomyces, Variovorax, and Burkholderia. Furthermore, a proportion of these genes were found inside predicted plasmids and other mobile elements, including a putative OXA-like carbapenemase from Polaromonas harboring conserved key residues and predicted structural features. All this evidence indicates that the Antarctic Peninsula soil microbiota has a broad natural resistome, part of which could be transferred horizontally to pathogenic bacteria, acting as a potential source of novel resistance genes.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2021.152003)
+
+10.1016/j.scitotenv.2021.152003
 
 ---
 
