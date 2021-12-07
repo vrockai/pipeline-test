@@ -303,15 +303,9 @@ An important role has been recently reported for bacterial biofilm in the pathop
 
 ---
 
-## Seed inhabiting bacterial endophytes of maize promote seedling establishment and provide protection against fungal disease.
- 02.12.2021, _G Pal, K Kumar, A Verma, SK Verma_
-
-
-Bacteria from different crops and plant varieties have been shown to possess enormous growth promotional attributes. The study aimed to investigate the role of the endophytic microbiome of seeds of corn in improving the growth of seedlings of two different varieties of maize crops (K-25 and baby corn). Furthermore, the study also assessed the role of these bacteria in the protection of seedlings from fungal pathogens. Total twenty-three endophytic bacterial strains were isolated from maize seeds and identified using 16S rDNA sequencing. Most of the isolates had the ability to synthesize auxin (70 %) and solubilize phosphate (74 %), while all the isolates showed nitrogen fixation ability. Some isolates also showed antagonistic activity against phytopathogenic fungi including Rhizoctonia solani and Fusarium sp. suggesting their biocontrol potential. The presence of different lipopeptide genes including bacillomycin D, fengycin, iturin A and surfactin was confirmed in some of the isolates. We observed that treating seeds with an antibiotic compromised the seedlings' growth; however, re-inoculation with endophytic isolates (ZM1/Lysinibacillus sp. and ZM2/Paenibacillus dendritiformis) restored the growth of the seedlings in terms of improved root and shoot development in comparison to non-inoculated controls. The colonization of inoculated bacteria on the root surface was visualized using fluorescent microscopy. Seedling protection assay showed that treated seeds (with ZMW8/ Bacillus velezensis) were protected from fungal infestation (Fusarium verticillioides) even after 12 days of inoculation in comparison to the uninoculated control. The study concludes that indigenous seed-associated bacteria of maize play a major role during seed germination, seedling formation and protect them from phytopathogens.
+## Seed inhabiting bacterial endophytes of maize promote seedling establishment and provide protection against fungal disease
 
 [Source](https://doi.org/10.1016/j.micres.2021.126926)
-
-10.1016/j.micres.2021.126926
 
 ---
 
