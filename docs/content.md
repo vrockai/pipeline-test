@@ -47,7 +47,7 @@ Intestinal microbiota facilitates food breakdown for energy metabolism and influ
 ---
 
 ## Central role of intestinal epithelial glucocorticoid receptor in alcohol- and corticosterone-induced gut permeability and systemic response.
- 06.12.2021, _PK Shukla, AS Meena, JF Pierre, R Rao_
+ 07.12.2021, _PK Shukla, AS Meena, JF Pierre, R Rao_
 
 
 Corticosterone, the stress hormone, exacerbates alcohol-associated tissue injury, but the mechanism involved is unknown. We examined the role of the glucocorticoid receptor (GR) in corticosterone-mediated potentiation of alcohol-induced gut barrier dysfunction and systemic response. Hepatocyte-specific GR-deficient (GRΔHC ) and intestinal epithelial-specific GR-deficient (GRΔIEC ) mice were fed ethanol, combined with corticosterone treatment. Intestinal epithelial tight junction integrity, mucosal barrier function, microbiota dysbiosis, endotoxemia, systemic inflammation, liver damage, and neuroinflammation were assessed. Corticosterone potentiated ethanol-induced epithelial tight junction disruption, mucosal permeability, and inflammatory response in GRΔHC mouse colon; these effects of ethanol and corticosterone were absent in GRΔIEC mice. Gut microbiota compositions in ethanol-fed GRΔHC and GRΔIEC mice were similar to each other. However, corticosterone treatment in ethanol-fed mice shifted the microbiota composition to distinctly different directions in GRΔHC and GRΔIEC mice. Ethanol and corticosterone synergistically elevated the abundance of Enterobacteriaceae and Escherichia coli and reduced the abundance of Lactobacillus in GRΔHC mice but not in GRΔIEC mice. In GRΔHC mice, corticosterone potentiated ethanol-induced endotoxemia and systemic inflammation, but these effects were absent in GRΔIEC mice. Interestingly, ethanol-induced liver damage and its potentiation by corticosterone were observed in GRΔHC mice but not in GRΔIEC mice. GRΔIEC mice were also resistant to ethanol- and corticosterone-induced inflammatory response in the hypothalamus. These data indicate that the intestinal epithelial GR plays a central role in alcohol- and corticosterone-induced gut barrier dysfunction, microbiota dysbiosis, endotoxemia, systemic inflammation, liver damage, and neuroinflammation. This study identifies a novel target for potential therapeutic for alcohol-associated tissue injury.
@@ -113,7 +113,7 @@ The gut microbial dysbiosis and gender differences in the pathogenesis of acne v
 ---
 
 ## Gut microbiota-driven brain Aβ amyloidosis in mice requires microglia.
- 03.12.2021, _HB Dodiya, HL Lutz, IQ Weigle, P Patel, J Michalkiewicz, CJ Roman-Santiago, CM Zhang, Y Liang, A Srinath, X Zhang, J Xia, M Olszewski, X Zhang, MJ Schipma, EB Chang, RE Tanzi, JA Gilbert, SS Sisodia_
+ 07.12.2021, _HB Dodiya, HL Lutz, IQ Weigle, P Patel, J Michalkiewicz, CJ Roman-Santiago, CM Zhang, Y Liang, A Srinath, X Zhang, J Xia, M Olszewski, X Zhang, MJ Schipma, EB Chang, RE Tanzi, JA Gilbert, SS Sisodia_
 
 
 We previously demonstrated that lifelong antibiotic (ABX) perturbations of the gut microbiome in male APPPS1-21 mice lead to reductions in amyloid β (Aβ) plaque pathology and altered phenotypes of plaque-associated microglia. Here, we show that a short, 7-d treatment of preweaned male mice with high-dose ABX is associated with reductions of Aβ amyloidosis, plaque-localized microglia morphologies, and Aβ-associated degenerative changes at 9 wk of age in male mice only. More importantly, fecal microbiota transplantation (FMT) from transgenic (Tg) or WT male donors into ABX-treated male mice completely restored Aβ amyloidosis, plaque-localized microglia morphologies, and Aβ-associated degenerative changes. Transcriptomic studies revealed significant differences between vehicle versus ABX-treated male mice and FMT from Tg mice into ABX-treated mice largely restored the transcriptome profiles to that of the Tg donor animals. Finally, colony-stimulating factor 1 receptor (CSF1R) inhibitor-mediated depletion of microglia in ABX-treated male mice failed to reduce cerebral Aβ amyloidosis. Thus, microglia play a critical role in driving gut microbiome-mediated alterations of cerebral Aβ deposition.
@@ -131,7 +131,7 @@ We previously demonstrated that lifelong antibiotic (ABX) perturbations of the g
 ---
 
 ## Altered cervicovaginal microbiota in premenopausal ovarian cancer patients.
- 06.12.2021, _A Morikawa, A Kawabata, K Shirahige, T Akiyama, A Okamoto, T Sutani_
+ 07.12.2021, _A Morikawa, A Kawabata, K Shirahige, T Akiyama, A Okamoto, T Sutani_
 
 
 Nearly three hundred thousand female patients are diagnosed with ovarian cancer in the world annually, and this number shows an increasing trend. However, characteristic symptoms caused by ovarian cancer are so few that early diagnosis remains challenging, and an effective screening method has not yet been established. Here, we conducted a case-control study in Japan to analyze the association between cervicovaginal microbiome and ovarian cancer, using 16S rRNA amplicon sequencing. Analysis of DNA extracted from cervical smear samples revealed Lactobacillus-dominant and Lactobacillus-deficient, highly-diversified bacterial communities in premenopausal and postmenopausal healthy controls, respectively, as reported for vaginal microbiota previously. We found that cervicovaginal microbiota in ovarian cancer patients, regardless of their menopausal status, were frequently a diversified community and similar to those in healthy subjects at postmenopausal ages. The diverse microbiota was associated with the major histotypes of epithelial ovarian cancer, including serous ovarian cancer and ovarian clear cell cancer. The present study implies the potential of a cervicovaginal microbiome biomarker in screening ovarian cancer in premenopausal women.
@@ -190,7 +190,7 @@ The gut is connected to the CNS by immunological mediators, lymphocytes, neurotr
 ---
 
 ## The gut microbiota in retinal diseases.
- 06.12.2021, _MA Bringer, PH Gabrielle, AM Bron, C Creuzot-Garcher, N Acar_
+ 07.12.2021, _MA Bringer, PH Gabrielle, AM Bron, C Creuzot-Garcher, N Acar_
 
 
 The gut microbiota is a complex ecosystem that inhabits the gastrointestinal tract and consists of archaea, fungi, viruses, and bacteria, with bacteria being dominant. From birth onwards, it coevolves dynamically together with the host. The composition of the gut microbiota is under the influence of a complex interplay between both host and environmental factors. Scientific advances in the past few decades have shown that it is essential in maintaining homeostasis and tipping the balance between health and disease. In addition to its role in food digestion, the gut microbiota is implicated in regulating multiple physiological processes in the host gut mucosa and in distant organs such as the brain. Persistent imbalance between gut microbial communities, termed "dysbiosis," has been associated with several inflammatory and metabolic diseases as well as with central nervous system disorders. In this review, we present the state of the art of current knowledge on an emerging concept, the microbiota-retina axis, and the potential role of its disturbance in the development of retinopathies. We also describe several microbiota-targeting strategies that could constitute preventive and therapeutic tools for retinopathies.
@@ -297,15 +297,27 @@ An important role has been recently reported for bacterial biofilm in the pathop
 
 ---
 
-## An ancient antimicrobial protein co-opted by a fungal plant pathogen for in planta mycobiome manipulation
+## An ancient antimicrobial protein co-opted by a fungal plant pathogen for in planta mycobiome manipulation.
+ 02.12.2021, _NC Snelders, GC Petti, GCM van den Berg, MF Seidl, BPHJ Thomma_
+
+
+Microbes typically secrete a plethora of molecules to promote niche colonization. Soil-dwelling microbes are well-known producers of antimicrobials that are exploited to outcompete microbial coinhabitants. Also, plant pathogenic microbes secrete a diversity of molecules into their environment for niche establishment. Upon plant colonization, microbial pathogens secrete so-called effector proteins that promote disease development. While such effectors are typically considered to exclusively act through direct host manipulation, we recently reported that the soil-borne, fungal, xylem-colonizing vascular wilt pathogen Verticillium dahliae exploits effector proteins with antibacterial properties to promote host colonization through the manipulation of beneficial host microbiota. Since fungal evolution preceded land plant evolution, we now speculate that a subset of the pathogen effectors involved in host microbiota manipulation evolved from ancient antimicrobial proteins of terrestrial fungal ancestors that served in microbial competition prior to the evolution of plant pathogenicity. Here, we show that V. dahliae has co-opted an ancient antimicrobial protein as effector, named VdAMP3, for mycobiome manipulation in planta. We show that VdAMP3 is specifically expressed to ward off fungal niche competitors during resting structure formation in senescing mesophyll tissues. Our findings indicate that effector-mediated microbiome manipulation by plant pathogenic microbes extends beyond bacteria and also concerns eukaryotic members of the plant microbiome. Finally, we demonstrate that fungal pathogens can exploit plant microbiome-manipulating effectors in a life stage-specific manner and that a subset of these effectors has evolved from ancient antimicrobial proteins of fungal ancestors that likely originally functioned in manipulation of terrestrial biota.
 
 [Source](https://doi.org/10.1073/pnas.2110968118)
 
+10.1073/pnas.2110968118
+
 ---
 
-## Seed inhabiting bacterial endophytes of maize promote seedling establishment and provide protection against fungal disease
+## Seed inhabiting bacterial endophytes of maize promote seedling establishment and provide protection against fungal disease.
+ 06.12.2021, _G Pal, K Kumar, A Verma, SK Verma_
+
+
+Bacteria from different crops and plant varieties have been shown to possess enormous growth promotional attributes. The study aimed to investigate the role of the endophytic microbiome of seeds of corn in improving the growth of seedlings of two different varieties of maize crops (K-25 and baby corn). Furthermore, the study also assessed the role of these bacteria in the protection of seedlings from fungal pathogens. Total twenty-three endophytic bacterial strains were isolated from maize seeds and identified using 16S rDNA sequencing. Most of the isolates had the ability to synthesize auxin (70 %) and solubilize phosphate (74 %), while all the isolates showed nitrogen fixation ability. Some isolates also showed antagonistic activity against phytopathogenic fungi including Rhizoctonia solani and Fusarium sp. suggesting their biocontrol potential. The presence of different lipopeptide genes including bacillomycin D, fengycin, iturin A and surfactin was confirmed in some of the isolates. We observed that treating seeds with an antibiotic compromised the seedlings' growth; however, re-inoculation with endophytic isolates (ZM1/Lysinibacillus sp. and ZM2/Paenibacillus dendritiformis) restored the growth of the seedlings in terms of improved root and shoot development in comparison to non-inoculated controls. The colonization of inoculated bacteria on the root surface was visualized using fluorescent microscopy. Seedling protection assay showed that treated seeds (with ZMW8/ Bacillus velezensis) were protected from fungal infestation (Fusarium verticillioides) even after 12 days of inoculation in comparison to the uninoculated control. The study concludes that indigenous seed-associated bacteria of maize play a major role during seed germination, seedling formation and protect them from phytopathogens.
 
 [Source](https://doi.org/10.1016/j.micres.2021.126926)
+
+10.1016/j.micres.2021.126926
 
 ---
 
