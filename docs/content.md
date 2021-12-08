@@ -1,323 +1,229 @@
-## Multivariate associative patterns between the gut microbiota and large-scale brain network connectivity.
- 03.12.2021, _N Kohn, J Szopinska-Tokov, A Llera Arenas, CF Beckmann, A Arias-Vasquez, E Aarts_
+## Clinical medicine journals lag behind science journals with regards to "microbiota sequence" data availability.
+ 07.12.2021, _J Pryor, GD Eslick, NJ Talley, K Duncanson, S Keely, EC Hoedt_
 
 
-Research on the gut-brain axis has accelerated substantially over the course of the last years. Many reviews have outlined the important implications of understanding the relation of the gut microbiota with human brain function and behavior. One substantial drawback in integrating gut microbiome and brain data is the lack of integrative multivariate approaches that enable capturing variance in both modalities simultaneously. To address this issue, we applied a linked independent component analysis (LICA) to microbiota and brain connectivity data.We analyzed data from 58 healthy females (mean age = 21.5 years). Magnetic Resonance Imaging data were acquired using resting state functional imaging data. The assessment of gut microbial composition from feces was based on sequencing of the V4 16S rRNA gene region. We used the LICA model to simultaneously factorize the subjects' large-scale brain networks and microbiome relative abundance data into 10 independent components of spatial and abundance variation.LICA decomposition resulted in four components with non-marginal contribution of the microbiota data. The default mode network featured strongly in three components, whereas the two-lateralized fronto-parietal attention networks contributed to one component. The executive-control (with the default mode) network was associated to another component. We found that the abundance of Prevotella genus was associated with the strength of expression of all networks, whereas Bifidobacterium was associated with the default mode and frontoparietal-attention networks.We provide the first exploratory evidence for multivariate associative patterns between the gut microbiota and brain network connectivity in healthy humans considering the complexity of both systems.
 
-[Source](https://doi.org/10.1080/19490976.2021.2006586)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.656)
 
-10.1080/19490976.2021.2006586
-
----
-
-## Cervicovaginal levels of human beta defensins during bacterial vaginosis.
- 06.12.2021, _NM Noda-Nicolau, MC Silva, GFC Bento, JSB Ferreira, J Novak, JAP Morales, JA Tronco, AN Bolpetti, GVS Pinto, J Polettini, C Marconi, MGD Silva_
-
-
-To compare the cervicovaginal levels of human beta defensin (hBD)-1, 2 and 3 of women according to the status of Nugent-defined bacterial vaginosis (BV).
-
-[Source](https://doi.org/10.1371/journal.pone.0260753)
-
-10.1371/journal.pone.0260753
+10.1002/ctm2.656
 
 ---
 
-## Multiomics and digital monitoring during lifestyle changes reveal independent dimensions of human biology and health.
- 02.12.2021, _F Marabita, T James, A Karhu, H Virtanen, K Kettunen, H Stenlund, F Boulund, C Hellström, M Neiman, R Mills, T Perheentupa, H Laivuori, P Helkkula, M Byrne, I Jokinen, H Honko, A Kallonen, M Ermes, H Similä, M Lindholm, E Widén, S Ripatti, M Perälä-Heape, L Engstrand, P Nilsson, T Moritz, T Miettinen, R Sallinen, O Kallioniemi_
+## Role of the Microbiome in Regulating Bone Metabolism and Susceptibility to Osteoporosis.
+ 06.12.2021, _O Cronin, SA Lanham-New, BM Corfe, CL Gregson, AL Darling, KR Ahmadi, PS Gibson, JH Tobias, KA Ward, MH Traka, M Rossi, C Williams, NC Harvey, C Cooper, K Whelan, AG Uitterlinden, PW O'Toole, C Ohlsson, JE Compston, SH Ralston_
 
 
-We explored opportunities for personalized and predictive health care by collecting serial clinical measurements, health surveys, genomics, proteomics, autoantibodies, metabolomics, and gut microbiome data from 96 individuals who participated in a data-driven health coaching program over a 16-month period with continuous digital monitoring of activity and sleep. We generated a resource of &gt;20,000 biological samples from this study and a compendium of &gt;53 million primary data points for 558,032 distinct features. Multiomics factor analysis revealed distinct and independent molecular factors linked to obesity, diabetes, liver function, cardiovascular disease, inflammation, immunity, exercise, diet, and hormonal effects. For example, ethinyl estradiol, a common oral contraceptive, produced characteristic molecular and physiological effects, including increased levels of inflammation and impact on thyroid, cortisol levels, and pulse, that were distinct from other sources of variability observed in our study. In total, this work illustrates the value of combining deep molecular and digital monitoring of human health. A record of this paper's transparent peer review process is included in the supplemental information.
+The human microbiota functions at the interface between diet, medication-use, lifestyle, host immune development and health. It is therefore closely aligned with many of the recognised modifiable factors that influence bone mass accrual in the young, and bone maintenance and skeletal decline in older populations. While understanding of the relationship between micro-organisms and bone health is still in its infancy, two decades of broader microbiome research and discovery supports a role of the human gut microbiome in the regulation of bone metabolism and pathogenesis of osteoporosis as well as its prevention and treatment. Pre-clinical research has demonstrated biological interactions between the microbiome and bone metabolism. Furthermore, observational studies and randomized clinical trials have indicated that therapeutic manipulation of the microbiota by oral administration of probiotics may influence bone turnover and prevent bone loss in humans. In this paper, we summarize the content, discussion and conclusions of a workshop held by the Osteoporosis and Bone Research Academy of the Royal Osteoporosis Society in October, 2020. We provide a detailed review of the literature examining the relationship between the microbiota and bone health in animal models and in humans, as well as formulating the agenda for key research priorities required to advance this field. We also underscore the potential pitfalls in this research field that should be avoided and provide methodological recommendations to facilitate bridging the gap from promising concept to a potential cause and intervention target for osteoporosis.
 
-[Source](https://doi.org/10.1016/j.cels.2021.11.001)
+[Source](https://link.springer.com/article/10.1007%2Fs00223-021-00924-2)
 
-10.1016/j.cels.2021.11.001
-
----
-
-## A specific structure and high richness characterize intestinal microbiota of HIV-exposed seronegative individuals.
- 06.12.2021, _TJ Lopera, JA Lujan, E Zurek, W Zapata, JC Hernandez, MA Toro, JF Alzate, NA Taborda, MT Rugeles, W Aguilar-Jimenez_
-
-
-Intestinal microbiota facilitates food breakdown for energy metabolism and influences the immune response, maintaining mucosal homeostasis. Overall, HIV infection is associated with intestinal dysbiosis and immune activation, which has been related to seroconversion in HIV-exposed individuals. However, it is unclear whether microbiota dysbiosis is the cause or the effect of immune alterations and disease progression or if it could modulate the risk of acquiring the HIV infection. We characterize the intestinal microbiota and determine its association with immune regulation in HIV-exposed seronegative individuals (HESN), HIV-infected progressors (HIV+), and healthy control (HC) subjects. For this, feces and blood were collected. The microbiota composition of HESN showed a significantly higher alpha (p = 0.040) and beta diversity (p = 0.006) compared to HC, but no differences were found compared to HIV+. A lower Treg percentage was observed in HESN (1.77%) than HC (2.98%) and HIV+ (4.02%), with enrichment of the genus Butyrivibrio (p = 0.029) being characteristic of this profile. Moreover, we found that Megasphaera (p = 0.017) and Victivallis (p = 0.0029) also are enriched in the microbiota composition in HESN compared to HC and HIV+ subjects. Interestingly, an increase in Succinivibrio and Prevotella, and a reduction in Bacteroides genus, which is typical of HIV-infected individuals, were observed in both HESN and HIV+, compared to HC. Thus, HESNs have a microbiota profile, similar to that observed in HIV+, most likely because HESN are cohabiting with their HIV+ partners.
-
-[Source](https://doi.org/10.1371/journal.pone.0260729)
-
-10.1371/journal.pone.0260729
+10.1007/s00223-021-00924-2
 
 ---
 
-## Central role of intestinal epithelial glucocorticoid receptor in alcohol- and corticosterone-induced gut permeability and systemic response.
- 07.12.2021, _PK Shukla, AS Meena, JF Pierre, R Rao_
+## Defining and quantifying the core microbiome: Challenges and prospects.
+ 06.12.2021, _AT Neu, EE Allen, K Roy_
 
 
-Corticosterone, the stress hormone, exacerbates alcohol-associated tissue injury, but the mechanism involved is unknown. We examined the role of the glucocorticoid receptor (GR) in corticosterone-mediated potentiation of alcohol-induced gut barrier dysfunction and systemic response. Hepatocyte-specific GR-deficient (GRΔHC ) and intestinal epithelial-specific GR-deficient (GRΔIEC ) mice were fed ethanol, combined with corticosterone treatment. Intestinal epithelial tight junction integrity, mucosal barrier function, microbiota dysbiosis, endotoxemia, systemic inflammation, liver damage, and neuroinflammation were assessed. Corticosterone potentiated ethanol-induced epithelial tight junction disruption, mucosal permeability, and inflammatory response in GRΔHC mouse colon; these effects of ethanol and corticosterone were absent in GRΔIEC mice. Gut microbiota compositions in ethanol-fed GRΔHC and GRΔIEC mice were similar to each other. However, corticosterone treatment in ethanol-fed mice shifted the microbiota composition to distinctly different directions in GRΔHC and GRΔIEC mice. Ethanol and corticosterone synergistically elevated the abundance of Enterobacteriaceae and Escherichia coli and reduced the abundance of Lactobacillus in GRΔHC mice but not in GRΔIEC mice. In GRΔHC mice, corticosterone potentiated ethanol-induced endotoxemia and systemic inflammation, but these effects were absent in GRΔIEC mice. Interestingly, ethanol-induced liver damage and its potentiation by corticosterone were observed in GRΔHC mice but not in GRΔIEC mice. GRΔIEC mice were also resistant to ethanol- and corticosterone-induced inflammatory response in the hypothalamus. These data indicate that the intestinal epithelial GR plays a central role in alcohol- and corticosterone-induced gut barrier dysfunction, microbiota dysbiosis, endotoxemia, systemic inflammation, liver damage, and neuroinflammation. This study identifies a novel target for potential therapeutic for alcohol-associated tissue injury.
+The term "core microbiome" has become widely used in microbial ecology over the last decade. Broadly, the core microbiome refers to any set of microbial taxa, or the genomic and functional attributes associated with those taxa, that are characteristic of a host or environment of interest. Most commonly, core microbiomes are measured as the microbial taxa shared among two or more samples from a particular host or environment. Despite the popularity of this term and its growing use, there is little consensus about how a core microbiome should be quantified in practice. Here, we present a brief history of the core microbiome concept and use a representative sample of the literature to review the different metrics commonly used for quantifying the core. Empirical analyses have used a wide range of metrics for quantifying the core microbiome, including arbitrary occurrence and abundance cutoff values, with the focal taxonomic level of the core ranging from phyla to amplicon sequence variants. However, many of these metrics are susceptible to sampling and other biases. Developing a standardized set of metrics for quantifying the core that accounts for such biases is necessary for testing specific hypotheses about the functional and ecological roles of core microbiomes.
 
-[Source](https://doi.org/10.1096/fj.202101424R)
+[Source](https://www.pnas.org/content/118/51/e2104429118)
 
-10.1096/fj.202101424R
-
----
-
-## Proof-of-principle demonstration of endogenous circadian system and circadian misalignment effects on human oral microbiota.
- 06.12.2021, _SL Chellappa, PA Engen, A Naqib, J Qian, N Vujovic, N Rahman, SJ Green, M Garaulet, A Keshavarzian, FAJL Scheer_
-
-
-Circadian misalignment-the misalignment between the central circadian "clock" and behavioral and environmental cycles (including sleep/wake, fasting/eating, dark/light)-results in adverse cardiovascular and metabolic effects. Potential underlying mechanisms for these adverse effects include alterations in the orogastrointestinal microbiota. However, it remains unknown whether human oral microbiota has endogenous circadian rhythms (i.e., independent of sleep/wake, fasting/eating, and dark/light cycles) and whether circadian misalignment influences oral microbiota community composition. Healthy young individuals [27.3 ± 2.3 years (18-35 years), 4 men and 2 women, body-mass index range: 18-28 kg/m2 ] were enrolled in a stringently controlled 14-day circadian laboratory protocol. This included a 32-h constant routine (CR) protocol (endogenous circadian baseline assessment), a forced desynchrony protocol with four 28-h "days" under ~3 lx to induce circadian misalignment, and a post-misalignment 40-h CR protocol. Microbiota assessments were performed on saliva samples collected every 4 h throughout both CR protocols. Total DNA was extracted and processed using high-throughput 16S ribosomal RNA gene amplicon sequencing. The relative abundance of specific oral microbiota populations, i.e., one of the five dominant phyla, and three of the fourteen dominant genera, exhibited significant endogenous circadian rhythms. Importantly, circadian misalignment dramatically altered the oral microbiota landscape, such that four of the five dominant phyla and eight of the fourteen dominant genera exhibited significant circadian misalignment effects. Moreover, circadian misalignment significantly affected the metagenome functional content of oral microbiota (inferred gene content analysis), as indicated by changes in specific functional pathways associated with metabolic control and immunity. Collectively, our proof-of-concept study provides evidence for endogenous circadian rhythms in human oral microbiota and show that even relatively short-term experimental circadian misalignment can dramatically affect microbiota community composition and functional pathways involved in metabolism and immune function. These proof-of-principle findings have translational relevance to individuals typically exposed to circadian misalignment, including night shift workers and frequent flyers.
-
-[Source](https://doi.org/10.1096/fj.202101153R)
-
-10.1096/fj.202101153R
+10.1073/pnas.2104429118
 
 ---
 
-## Gender Variations in the Oral Microbiomes of Elderly Patients with Initial Periodontitis.
- 04.12.2021, _J Zhao, YH Zhou, YQ Zhao, Y Feng, F Yan, ZR Gao, Q Ye, Y Chen, Q Liu, L Tan, SH Zhang, J Hu, MA Dusenge, YZ Feng, Y Guo_
+## Clean room microbiome complexity impacts planetary protection bioburden.
+ 07.12.2021, _R Hendrickson, C Urbaniak, JJ Minich, HS Aronson, C Martino, R Stepanauskas, R Knight, K Venkateswaran_
 
 
-Periodontitis is a globally prevalent disease that imposes a functional and aesthetic burden on patients. The oral microbiome influences human health. The aim of this study was at assessing gender variation in the subgingival bacterial microbiome of elderly patients with initial periodontitis and to determine the causes of this variation. Twelve males and twenty females (range 50-68 years old) with initial periodontitis provided subgingival plaque samples. 16S rRNA gene sequencing, QIIME-based data processing, and statistical analyses were carried out using several different analytical approaches to detect differences in the oral microbiome between the two groups. Males had higher Chao1 index, observed species, and phylogenetic diversity whole tree values than females. Analysis of β-diversity indicated that the samples were reasonably divided by the gender. The linear discriminant analysis effect size showed that the most representative biomarkers were the genus Haemophilus in males, whereas the dominant bacteria in females were Campylobacter. Kyoto Encyclopedia of Genes and Genomes analysis showed that predicting changes in the female oral microbiota may be related to the immune system and immune system diseases are the main factor in males. These data suggest that gender may be a differentiating factor in the microbial composition of subgingival plaques in elderly patients with initial periodontitis. These results could deepen our understanding of the role of gender in the oral microbiota present during initial periodontitis.
+The Spacecraft Assembly Facility (SAF) at the NASA's Jet Propulsion Laboratory is the primary cleanroom facility used in the construction of some of the planetary protection (PP)-sensitive missions developed by NASA, including the Mars 2020 Perseverance Rover that launched in July 2020. SAF floor samples (n=98) were collected, over a 6-month period in 2016 prior to the construction of the Mars rover subsystems, to better understand the temporal and spatial distribution of bacterial populations (total, viable, cultivable, and spore) in this unique cleanroom.
 
-[Source](https://doi.org/10.1155/2021/7403042)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01159-x)
 
-10.1155/2021/7403042
-
----
-
-## Characterization of Esophageal Microbiota in Patients With Esophagitis and Esophageal Squamous Cell Carcinoma.
- 04.12.2021, _Z Jiang, J Wang, Z Shen, Z Zhang, S Wang_
-
-
-Microbial imbalances have been well elucidated in esophageal adenocarcinoma. However, few studies address the microbiota in esophageal squamous cell carcinoma (ESCC) and esophagitis (ES). We aimed to explore the association of esophageal microbiota with these patients. Esophageal tissues were obtained from healthy controls and ES and ESCC patients undergoing upper endoscopy. 16S rRNA gene sequencing was applied to analyze the microbiome. The α and β diversity differences were tested by Tukey test and partial least squares-discriminant analysis (PLS-DA), respectively. Linear discriminant analysis effect size (LEfSe) analysis was performed to assess taxonomic differences between groups. A total of 68 individuals were enrolled (control = 21, ES = 15, ESCC = 32). Microbial diversity was significantly different between the ESCC patients and healthy controls by Chao1 index, Shannon index, and PLS-DA. Firmicutes, Proteobacteria, Bacteroidetes, Actinobacteria, and Fusobacteria were the five dominant bacterial phyla among the three groups. Megamonas, Collinsella, Roseburia, and Ruminococcus_2 showed a significantly continuous decreasing trend from the control group to the ESCC group at the genus level. When compared with the control group, decreased Fusobacteria at phylum level and Faecalibacterium, Bacteroides, Curvibacter, and Blautia at genus level were detected. ESCC samples also displayed a striking reduction of Bacteroidetes, Faecalibacterium, Bacteroides, and Blautia in comparison with the ES patients. LEfSe analysis indicated a greater abundance of Streptococcus, Actinobacillus, Peptostreptococcus, Fusobacterium, and Prevotella in the ESCC group. Our study suggests a potential association between esophageal microbiome dysbiosis and ESCC and provides insights into potential screening markers for esophageal cancer.
-
-[Source](https://doi.org/10.3389/fcimb.2021.774330)
-
-10.3389/fcimb.2021.774330
+10.1186/s40168-021-01159-x
 
 ---
 
-## Gender-Specific Differences in Gut Microbiota Composition Associated with Microbial Metabolites for Patients with Acne Vulgaris.
- 04.12.2021, _Y Huang, L Liu, L Chen, L Zhou, X Xiong, Y Deng_
+## Community Composition of Bacteria Isolated from Swiss Banknotes Varies Depending on Collection Environment
 
-
-The gut microbial dysbiosis and gender differences in the pathogenesis of acne vulgaris have long been postulated respectively. However, there was no data about a gender-related discrepancy in gut microbiota and microbial metabolism in acne.
-
-[Source](https://doi.org/10.5021/ad.2021.33.6.531)
-
-10.5021/ad.2021.33.6.531
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.01.470750v2.abstract)
 
 ---
 
-## Gut microbiota develop towards an adult profile in a sex-specific manner during puberty
+## Microbiota and stress: a loop that impacts memory
 
-[Source](https://doi.org/10.1038/s41598-021-02375-z)
-
----
-
-## Gut microbiota-driven brain Aβ amyloidosis in mice requires microglia.
- 07.12.2021, _HB Dodiya, HL Lutz, IQ Weigle, P Patel, J Michalkiewicz, CJ Roman-Santiago, CM Zhang, Y Liang, A Srinath, X Zhang, J Xia, M Olszewski, X Zhang, MJ Schipma, EB Chang, RE Tanzi, JA Gilbert, SS Sisodia_
-
-
-We previously demonstrated that lifelong antibiotic (ABX) perturbations of the gut microbiome in male APPPS1-21 mice lead to reductions in amyloid β (Aβ) plaque pathology and altered phenotypes of plaque-associated microglia. Here, we show that a short, 7-d treatment of preweaned male mice with high-dose ABX is associated with reductions of Aβ amyloidosis, plaque-localized microglia morphologies, and Aβ-associated degenerative changes at 9 wk of age in male mice only. More importantly, fecal microbiota transplantation (FMT) from transgenic (Tg) or WT male donors into ABX-treated male mice completely restored Aβ amyloidosis, plaque-localized microglia morphologies, and Aβ-associated degenerative changes. Transcriptomic studies revealed significant differences between vehicle versus ABX-treated male mice and FMT from Tg mice into ABX-treated mice largely restored the transcriptome profiles to that of the Tg donor animals. Finally, colony-stimulating factor 1 receptor (CSF1R) inhibitor-mediated depletion of microglia in ABX-treated male mice failed to reduce cerebral Aβ amyloidosis. Thus, microglia play a critical role in driving gut microbiome-mediated alterations of cerebral Aβ deposition.
-
-[Source](https://doi.org/10.1084/jem.20200895)
-
-10.1084/jem.20200895
+[Source](https://www.sciencedirect.com/science/article/pii/S0306453021004686)
 
 ---
 
-## Associations of the oral microbiota and <em>Candida</em> with taste, smell, appetite and undernutrition in older adults
+## Species- and site-specific genome editing in complex bacterial communities
 
-[Source](https://doi.org/10.1038/s41598-021-02558-8)
-
----
-
-## Altered cervicovaginal microbiota in premenopausal ovarian cancer patients.
- 07.12.2021, _A Morikawa, A Kawabata, K Shirahige, T Akiyama, A Okamoto, T Sutani_
-
-
-Nearly three hundred thousand female patients are diagnosed with ovarian cancer in the world annually, and this number shows an increasing trend. However, characteristic symptoms caused by ovarian cancer are so few that early diagnosis remains challenging, and an effective screening method has not yet been established. Here, we conducted a case-control study in Japan to analyze the association between cervicovaginal microbiome and ovarian cancer, using 16S rRNA amplicon sequencing. Analysis of DNA extracted from cervical smear samples revealed Lactobacillus-dominant and Lactobacillus-deficient, highly-diversified bacterial communities in premenopausal and postmenopausal healthy controls, respectively, as reported for vaginal microbiota previously. We found that cervicovaginal microbiota in ovarian cancer patients, regardless of their menopausal status, were frequently a diversified community and similar to those in healthy subjects at postmenopausal ages. The diverse microbiota was associated with the major histotypes of epithelial ovarian cancer, including serous ovarian cancer and ovarian clear cell cancer. The present study implies the potential of a cervicovaginal microbiome biomarker in screening ovarian cancer in premenopausal women.
-
-[Source](https://doi.org/10.1016/j.gene.2021.146083)
-
-10.1016/j.gene.2021.146083
+[Source](https://www.nature.com/articles/s41564-021-01014-7)
 
 ---
 
-## Social overcrowding impacts gut microbiota, promoting stress, inflammation, and dysglycemia.
- 03.12.2021, _C Delaroque, M Chervy, AT Gewirtz, B Chassaing_
+## Integrated metabolic and microbial analysis reveals host-microbial interactions in IgE-mediated childhood asthma.
+ 07.12.2021, _CY Chiu, ML Cheng, MH Chiang, CJ Wang, MH Tsai, G Lin_
 
 
-An array of chronic inflammatory diseases, including metabolic diseases such as obesity and diabetes, are thought to be promoted by disturbance of the intestinal microbiota. Such diseases disproportionately impact low-income communities, which are frequently afflicted by chronic stress and increased density housing. Hence, we hypothesized that overcrowded housing might promote stress, microbiota dysbiosis, inflammation, and, consequently, metabolic diseases. We tested this hypothesis in a tractable murine model of social overcrowding (SOC), in which mice were housed at twice normal density. SOC moderately impacted behavior in some widely used assays (Open Field, Elevated Plus Maze and Light/Dark tests) and resulted in a stark increase in corticosterone levels. Such indices of stress were associated with mild chronic gut inflammation, hyperglycemia, elevations in colonic cytokines, and alterations in gut microbiota composition. All of these consequences of SOC were eliminated by broad spectrum antibiotics, while some (inflammation and hyperglycemia) were transmitted by microbiota transplantation from SOC mice to germfree mice housed at normal density. Altogether, these results suggest a central role for intestinal microbiota in driving stress, inflammation, and chronic diseases that are promoted by overcrowded housing.
+A metabolomics-based approach to address the molecular mechanism of childhood asthma with immunoglobulin E (IgE) or allergen sensitization related to microbiome in the airways remains lacking. Fifty-three children with lowly sensitized non-atopic asthma (n = 15), highly sensitized atopic asthma (n = 13), and healthy controls (n = 25) were enrolled. Blood metabolomic analysis with 1H-nuclear magnetic resonance (NMR) spectroscopy and airway microbiome composition analysis by bacterial 16S rRNA sequencing were performed. An integrative analysis of their associations with allergen-specific IgE levels for lowly and highly sensitized asthma was also assessed. Four metabolites including tyrosine, isovalerate, glycine, and histidine were uniquely associated with lowly sensitized asthma, whereas one metabolite, acetic acid, was strongly associated with highly sensitized asthma. Metabolites associated with highly sensitized asthma (valine, isobutyric acid, and acetic acid) and lowly sensitized asthma (isovalerate, tyrosine, and histidine) were strongly correlated each other (P &lt; 0.01). Highly sensitized asthma associated metabolites were mainly enriched in pyruvate and acetyl-CoA metabolisms. Metabolites associated with highly sensitized atopic asthma were mostly correlated with microbiota in the airways. Acetic acid, a short-chain fatty acid (SCFA), was negatively correlated with the genus Atopobium (P &lt; 0.01), but positively correlated with the genus Fusobacterium (P &lt; 0.05). In conclusion, metabolomics reveals microbes-related metabolic pathways associated with IgE responses to house dust mite allergens in childhood asthma. A strong correlation of metabolites related to highly sensitized atopic asthma with airway microbiota provides linkages between the host-microbial interactions and asthma endotypes.
 
-[Source](https://doi.org/10.1080/19490976.2021.2000275)
+[Source](https://www.nature.com/articles/s41598-021-02925-5)
 
-10.1080/19490976.2021.2000275
-
----
-
-## Gut microbiome and autism spectrum disorder.
- 03.12.2021, _E Kotsiliti_
-
-
-
-[Source](https://doi.org/10.1038/s41575-021-00564-9)
-
-10.1038/s41575-021-00564-9
+10.1038/s41598-021-02925-5
 
 ---
 
-## Metagenomics studies for the diagnosis and treatment of prostate cancer.
- 02.12.2021, _A Zarei, H Javid, S Sanjarian, S Senemar, H Zarei_
+## Longitudinal Study of Oral Microbiome Variation in Twins.
+ 14.05.2021, _M Freire, A Moustafa, DM Harkins, MG Torralba, Y Zhang, P Leong, R Saffery, M Bockmann, C Kuelbs, T Hughes, JM Craig, KE Nelson_
 
 
-Mutation occurs in the prostate cell genes, leading to abnormal prostate proliferation and ultimately cancer. Prostate cancer (PC) is one of the most common cancers amongst men, and its prevalence worldwide increases relative to men's age. About 16% of the world's cancers are the result of microbes in the human body. Impaired population balance of symbiosis microbes in the human reproductive system is linked to PC development.
+_Aging, Child, Female, Habits, Humans, Longitudinal Studies, Male, Microbiota, Mouth, Oral Hygiene, Twins_
+Humans are host to a multitude of microorganisms that rapidly populate the body at birth, subject to a complex interplay that is dependent on host genetics, lifestyle, and environment. The host-associated microbiome, including the oral microbiome, presents itself in a complex ecosystem important to health and disease. As the most common chronic disease globally, dental caries is induced by host-microbial dysbiosis in children and adults. Multiple biological and environmental factors are likely to impact disease predisposition, onset, progression, and severity, yet longitudinal studies able to capture these influences are missing. To investigate how host genetics and environment influenced the oral microbial communities over time, we profiled supragingival plaque microbiomes of dizygotic and monozygotic twins during 3 visits over 12-months. Dental plaque DNA samples were amplified by targeting the 16S rRNA gene V4 region, and microbial findings were correlated with clinical, diet and genetic metadata. We observed that the oral microbiome variances were shaped primarily by the environment when compared to host genetics. Among the environmental factors shaping microbial changes of our subjects, significant metadata included age of the subject, and the age by which subjects initiated brushing habits, and the types of actions post-brushing. Relevant heritability of the microbiome included Actinomyces and Capnocytophaga in monozygotic twins and Kingella in dizygotic twins. Corynebacterium and Veillonella abundances were associated with age, whereas Aggregatibacter was associated with younger subjects. Streptococcus abundance showed an inverse association over time, and Selenomonas abundances increased with brushing frequency per day. Unraveling the exact biological mechanisms in caries has the potential to reveal novel host-microbial biomarkers, pathways, and targets important to effective preventive measures, and early disease control in children.
 
-[Source](https://doi.org/10.1002/pros.24276)
+[Source](https://www.nature.com/articles/s41421-021-00356-0)
 
-10.1002/pros.24276
-
----
-
-## Regulation of common neurological disorders by gut microbial metabolites.
- 03.12.2021, _J Park, CH Kim_
-
-
-The gut is connected to the CNS by immunological mediators, lymphocytes, neurotransmitters, microbes and microbial metabolites. A mounting body of evidence indicates that the microbiome exerts significant effects on immune cells and CNS cells. These effects frequently result in the suppression or exacerbation of inflammatory responses, the latter of which can lead to severe tissue damage, altered synapse formation and disrupted maintenance of the CNS. Herein, we review recent progress in research on the microbial regulation of CNS diseases with a focus on major gut microbial metabolites, such as short-chain fatty acids, tryptophan metabolites, and secondary bile acids. Pathological changes in the CNS are associated with dysbiosis and altered levels of microbial metabolites, which can further exacerbate various neurological disorders. The cellular and molecular mechanisms by which these gut microbial metabolites regulate inflammatory diseases in the CNS are discussed. We highlight the similarities and differences in the impact on four major CNS diseases, i.e., multiple sclerosis, Parkinson's disease, Alzheimer's disease, and autism spectrum disorder, to identify common cellular and molecular networks governing the regulation of cellular constituents and pathogenesis in the CNS by microbial metabolites.
-
-[Source](https://doi.org/10.1038/s12276-021-00703-x)
-
-10.1038/s12276-021-00703-x
+10.1038/s41598-020-64747-1
 
 ---
 
-## The gut microbiota in retinal diseases.
- 07.12.2021, _MA Bringer, PH Gabrielle, AM Bron, C Creuzot-Garcher, N Acar_
+## Metagenome-genome-wide association studies reveal human genetic impact on the oral microbiome
 
-
-The gut microbiota is a complex ecosystem that inhabits the gastrointestinal tract and consists of archaea, fungi, viruses, and bacteria, with bacteria being dominant. From birth onwards, it coevolves dynamically together with the host. The composition of the gut microbiota is under the influence of a complex interplay between both host and environmental factors. Scientific advances in the past few decades have shown that it is essential in maintaining homeostasis and tipping the balance between health and disease. In addition to its role in food digestion, the gut microbiota is implicated in regulating multiple physiological processes in the host gut mucosa and in distant organs such as the brain. Persistent imbalance between gut microbial communities, termed "dysbiosis," has been associated with several inflammatory and metabolic diseases as well as with central nervous system disorders. In this review, we present the state of the art of current knowledge on an emerging concept, the microbiota-retina axis, and the potential role of its disturbance in the development of retinopathies. We also describe several microbiota-targeting strategies that could constitute preventive and therapeutic tools for retinopathies.
-
-[Source](https://doi.org/10.1016/j.exer.2021.108867)
-
-10.1016/j.exer.2021.108867
+[Source](https://www.nature.com/articles/s41421-021-00356-0)
 
 ---
 
-## Microbe-based management for colorectal cancer.
- 03.12.2021, _ZY Gao, Z Cui, YQ Yan, LJ Ning, ZH Wang, J Hong_
+## Interaction Between Intestinal Microbiota, Immunology Molecular Mimicry, and AID
 
-
-Colorectal cancer (CRC) is one of the most prevalent, most lethal cancers in the world. Increasing evidence suggests that the intestinal microbiota is closely related to the pathogenesis and prognosis of CRC. The normal microbiota plays an essential role in maintaining gut barrier function and the immune microenvironment. Recent studies have identified carcinogenic bacteria such as enterotoxigenic Bacteroides fragilis (ETBF) and Streptococcus gallolyticus (S. gallolyticus), as well as protective bacterial such as Akkermansia muciniphila (A. muciniphila), as potential targets of CRC treatment. Gut microbiota modulation aims to restore gut dysbiosis, regulate the intestinal immune system and prevent from pathogen invasion, all of which are beneficial for CRC prevention and prognosis. The utility of probiotics, prebiotics, postbiotics, fecal microbiota transplantation and dietary inventions to treat CRC makes them novel microbe-based management tools. In this review, we describe the mechanisms involved in bacteria-derived colorectal carcinogenesis and summarized novel bacteria-related therapies for CRC. In summary, we hope to facilitate clinical applications of intestinal bacteria for preventing and treating CRC.
-
-[Source](https://doi.org/10.1097/CM9.0000000000001887)
-
-10.1097/CM9.0000000000001887
+[Source](https://www.hindawi.com/journals/jir/2021/5578958/)
 
 ---
 
-## Novel Strategies for Inhibition of Bacterial Biofilm in Chronic Rhinosinusitis.
- 02.12.2021, _A Shariati, S Vesal, A Khoshbayan, P Goudarzi, D Darban-Sarokhali, S Razavi, M Didehdar, Z Chegini_
+## The Gut Microbiome and Hepatocellular Carcinoma.
+ 06.12.2021, _H Akkız_
 
 
-An important role has been recently reported for bacterial biofilm in the pathophysiology of chronic diseases, such as Chronic Rhinosinusitis (CRS). CRS, affecting sinonasal mucosa, is a persistent inflammatory condition with a high prevalence around the world. Although the exact pathological mechanism of this disease has not been elicited yet, biofilm formation is known to lead to a more significant symptom burden and major objective clinical indicators. The high prevalence of multidrug-resistant bacteria has severely restricted the application of antibiotics in recent years. Furthermore, systemic antibiotic therapy, on top of its insufficient concentration to eradicate bacteria in the sinonasal biofilm, often causes toxicity, antibiotic resistance, and an effect on the natural microbiota, in patients. Thus, coming up with alternative therapeutic options instead of systemic antibiotic therapy is emphasized in the treatment of bacterial biofilm in CRS patients. The use of topical antibiotic therapy and antibiotic eluting sinus stents that induce higher antibiotic concentration, and decrease side effects could be helpful. Besides, recent research recognized that various natural products, nitric oxide, and bacteriophage therapy, in addition to the hindered biofilm formation, could degrade the established bacterial biofilm. However, despite these improvements, new antibacterial agents and CRS biofilm interactions are complicated and need extensive research. Finally, most studies were performed in vitro, and more preclinical animal models and human studies are required to confirm the collected data. The present review is specifically discussing potential therapeutic strategies for the treatment of bacterial biofilm in CRS patients.
+The microbiome modulates key processes in metabolism, inflammation, and immunity and plays pivotal roles in many gastrointestinal and liver diseases. Recent experimental studies have demonstrated a key role of the microbiome in hepatocarcinogenesis. Dysfunctions of the gut bacterial flora have a significant effect on liver disease. Dysbiosis is found to be associated with chronic liver diseases. Hepatocellular carcinoma (HCC) is the sixth most common cancer and the third leading cause of cancer-related mortality. The majority of HCC develops in patients with chronic liver disease, caused by chronic viral hepatitis, nonalcoholic fatty liver disease (NAFLD), and alcohol-related fatty liver disease. This review discusses molecular mechanisms of gut microbiome-related hepatocarcinogenesis and the impact of dysbiosis on chronic liver disease progression.
 
-[Source](https://doi.org/10.1111/jam.15398)
+[Source](https://link.springer.com/article/10.1007%2Fs12029-021-00748-1)
 
-10.1111/jam.15398
-
----
-
-## Regulation of para-cresol production in <em>Clostridioides difficile</em>
-
-[Source](https://doi.org/10.1016/j.mib.2021.11.005)
+10.1007/s12029-021-00748-1
 
 ---
 
-## Gut microbiome and metabolome in a non-human primate model of chronic excessive alcohol drinking
+## Anaerostipes hominis sp. nov., a novel butyrate-producing bacteria isolated from faeces of a patient with Crohn's disease.
+ 07.12.2021, _JY Lee, W Kang, NR Shin, DW Hyun, PS Kim, HS Kim, JY Lee, EJ Tak, H Sung, JW Bae_
 
-[Source](https://doi.org/10.1038/s41398-021-01728-6)
 
----
+Cultivation and isolation of gut bacteria are necessary for understanding their role in the intestinal ecosystem. We isolated a novel bacterium, designated strain BG01T, from the faeces of a patient with Crohn's disease. Strain BG01T was a strictly anaerobic, rod-shaped, Gram-variable and endospore-forming bacterium. Strain BG01T possessed C12 : 0, C18 : 0 dimethyl aldehyde (DMA) and C18 : 1  ω9c DMA as predominant cellular fatty acids and meso-diaminopimelic acid as a diagnostic diamino acid. Strain BG01T grew at 15-45 °C (optimum, 37 °C), with 0-4 % (w/v) NaCl (optimum, 0-1 %), at pH 6-10 (optimum, pH 7) and was resistant to bile salt, but not to ampicillin, metronidazole, vancomycin and cefoperazone. Butyrate, propionate, oxalacetate and fumarate were produced as fermentation end products from Gifu anaerobic medium broth. Strain BG01T showed 97.7 % 16S rRNA gene sequence similarity, and 92.0 and 48.5 % of average nucleotide identity and digital DNA-DNA hybridization values, respectively, with Anaerostipes caccae KCTC 15019T. Genomic analysis indicated that strain BG01T had a butyrate-producing pathway. The genomic G+C content of the strain was 43.5 mol%. Results of the phenotypic, phylogenetic and genotypic analyses indicated that strain BG01T represents a novel butyrate-producing species of the genus Anaerostipes, for which the name Anaerostipes hominis sp. nov. is proposed. The type strain is BG01T (=KCTC 15617T=JCM 32275T).
 
-## A holobiont view of island biogeography: unraveling patterns driving the nascent diversification of a Hawaiian spider and its microbial associates
+[Source](https://www.microbiologyresearch.org/content/journal/ijsem/10.1099/ijsem.0.005129)
 
-[Source](https://doi.org/10.1111/mec.16301)
-
----
-
-## Interactions of Muscovy duck reovirus, gut microbiota, and host innate immunity: Transcriptome and gut microbiota analysis
-
-[Source](https://doi.org/10.1016/j.vetmic.2021.109286)
+10.1099/ijsem.0.005129
 
 ---
 
-## Antibiotics, antibiotic resistance genes and microbial community in grouper mariculture
+## Gut microbiome is associated with the clinical response to anti-PD-1 based immunotherapy in hepatobiliary cancers
 
-[Source](https://doi.org/10.1016/j.scitotenv.2021.152042)
-
----
-
-## <em>Lactobacillus</em> alleviated obesity induced by high-fat diet in mice
-
-[Source](https://doi.org/10.1111/1750-3841.15971)
+[Source](https://jitc.bmj.com/content/9/12/e003334)
 
 ---
 
-## Effect of prophylactic dextrose gel on the neonatal gut microbiome
+## Time-restricted feeding induces Lactobacillus- and Akkermansia-specific functional changes in the rat fecal microbiota.
+ 06.12.2021, _A Palomba, A Tanca, M Abbondio, R Sau, M Serra, F Marongiu, C Fraumene, D Pagnozzi, E Laconi, S Uzzau_
 
-[Source](https://doi.org/10.1136/archdischild-2021-322757)
 
----
+Diet is a key factor influencing gut microbiota (GM) composition and functions, which in turn affect host health. Among dietary regimens, time-restricted (TR) feeding has been associated to numerous health benefits. The impact of TR feeding on the GM composition has been mostly explored by means of metagenomic sequencing. To date, however, little is known about the modulation of GM functions by this dietary regimen. Here, we analyzed the effects of TR feeding on GM functions by evaluating protein expression changes in a rat model through a metaproteomic approach. We observed that TR feeding has a relevant impact on GM functions, specifically leading to an increased abundance of several enzymes involved in carbohydrate and protein metabolism and expressed by Lactobacillus spp. and Akkermansia muciniphila. Taken together, these results contribute to deepening our knowledge about the key relationship between diet, GM, and health.
 
-## Polydextrose with and without <em>Bifidobacterium animalis</em> ssp.<em> lactis</em> 420 drives the prevalence of <em>Akkermansia</em> and improves liver health in a multi-compartmental obesogenic mice study
+[Source](https://www.nature.com/articles/s41522-021-00256-x)
 
-[Source](https://doi.org/10.1371/journal.pone.0260765)
-
----
-
-## Studies and Application of Sialylated Milk Components on Regulating Neonatal Gut Microbiota and Health
-
-[Source](https://doi.org/10.3389/fnut.2021.766606)
+10.1038/s41522-021-00256-x
 
 ---
 
-## The highly diverse Antarctic Peninsula soil microbiota as a source of novel resistance genes
+## Diet-driven mercury contamination is associated with polar bear gut microbiota.
+ 07.12.2021, _SE Watson, MA McKinney, M Pindo, MJ Bull, TC Atwood, HC Hauffe, SE Perkins_
 
-[Source](https://doi.org/10.1016/j.scitotenv.2021.152003)
 
----
+The gut microbiota may modulate the disposition and toxicity of environmental contaminants within a host but, conversely, contaminants may also impact gut bacteria. Such contaminant-gut microbial connections, which could lead to alteration of host health, remain poorly known and are rarely studied in free-ranging wildlife. The polar bear (Ursus maritimus) is a long-lived, wide-ranging apex predator that feeds on a variety of high trophic position seal and cetacean species and, as such, is exposed to among the highest levels of biomagnifying contaminants of all Arctic species. Here, we investigate associations between mercury (THg; a key Arctic contaminant), diet, and the diversity and composition of the gut microbiota of polar bears inhabiting the southern Beaufort Sea, while accounting for host sex, age class and body condition. Bacterial diversity was negatively associated with seal consumption and mercury, a pattern seen for both Shannon and Inverse Simpson alpha diversity indices (adjusted R2 = 0.35, F1,18 = 8.00, P = 0.013 and adjusted R2 = 0.26, F1,18 = 6.04, P = 0.027, respectively). No association was found with sex, age class or body condition of polar bears. Bacteria known to either be involved in THg methylation or considered to be highly contaminant resistant, including Lactobacillales, Bacillales and Aeromonadales, were significantly more abundant in individuals that had higher THg concentrations. Conversely, individuals with higher THg concentrations showed a significantly lower abundance of Bacteroidales, a bacterial order that typically plays an important role in supporting host immune function by stimulating intraepithelial lymphocytes within the epithelial barrier. These associations between diet-acquired mercury and microbiota illustrate a potentially overlooked outcome of mercury accumulation in polar bears.
 
-## In vitro interaction network of a synthetic gut bacterial community
+[Source](https://www.nature.com/articles/s41598-021-02657-6)
 
-[Source](https://doi.org/10.1038/s41396-021-01153-z)
-
----
-
-## Tryptophan metabolism and bacterial commensals prevent fungal dysbiosis in <em>Arabidopsis </em>roots
-
-[Source](https://doi.org/10.1073/pnas.2111521118)
+10.1038/s41598-021-02657-6
 
 ---
 
-## An ancient antimicrobial protein co-opted by a fungal plant pathogen for in planta mycobiome manipulation.
- 02.12.2021, _NC Snelders, GC Petti, GCM van den Berg, MF Seidl, BPHJ Thomma_
+## Maternal inheritance of the koala gut microbiome and its compositional and functional maturation during juvenile development.
+ 04.12.2021, _MDJ Blyton, RM Soo, P Hugenholtz, BD Moore_
 
 
-Microbes typically secrete a plethora of molecules to promote niche colonization. Soil-dwelling microbes are well-known producers of antimicrobials that are exploited to outcompete microbial coinhabitants. Also, plant pathogenic microbes secrete a diversity of molecules into their environment for niche establishment. Upon plant colonization, microbial pathogens secrete so-called effector proteins that promote disease development. While such effectors are typically considered to exclusively act through direct host manipulation, we recently reported that the soil-borne, fungal, xylem-colonizing vascular wilt pathogen Verticillium dahliae exploits effector proteins with antibacterial properties to promote host colonization through the manipulation of beneficial host microbiota. Since fungal evolution preceded land plant evolution, we now speculate that a subset of the pathogen effectors involved in host microbiota manipulation evolved from ancient antimicrobial proteins of terrestrial fungal ancestors that served in microbial competition prior to the evolution of plant pathogenicity. Here, we show that V. dahliae has co-opted an ancient antimicrobial protein as effector, named VdAMP3, for mycobiome manipulation in planta. We show that VdAMP3 is specifically expressed to ward off fungal niche competitors during resting structure formation in senescing mesophyll tissues. Our findings indicate that effector-mediated microbiome manipulation by plant pathogenic microbes extends beyond bacteria and also concerns eukaryotic members of the plant microbiome. Finally, we demonstrate that fungal pathogens can exploit plant microbiome-manipulating effectors in a life stage-specific manner and that a subset of these effectors has evolved from ancient antimicrobial proteins of fungal ancestors that likely originally functioned in manipulation of terrestrial biota.
+The acquisition and maturation of the gastrointestinal microbiome is a crucial aspect of mammalian development, particularly for specialist herbivores such as the koala (Phascolarctos cinereus). Joey koalas are thought to be inoculated with microorganisms by feeding on specialised maternal faeces (pap). We found that compared to faeces, pap has higher microbial density, higher microbial evenness and a higher proportion of rare taxa, which may facilitate the establishment of those taxa in joey koalas. We show that the microbiomes of captive joey koalas were on average more similar to those of their mothers than to other koalas, indicating strong maternal inheritance of the faecal microbiome, which can lead to intergenerational gut dysbiosis when the mother is ill. Directly after pap feeding, the joey koalas' microbiomes were enriched for milk-associated bacteria including Bacteroides fragilis, suggesting a conserved role for this species across mammalian taxa. The joeys' microbiomes then changed slowly over five months to resemble those of adults by one year of age. The relative abundance of fibrolytic bacteria and genes involved in the degradation of plant cell walls also increased in the infants over this time, likely in response to an increased proportion of Eucalyptus leaves in their diets. This article is protected by copyright. All rights reserved.
 
-[Source](https://doi.org/10.1073/pnas.2110968118)
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15858)
 
-10.1073/pnas.2110968118
+10.1111/1462-2920.15858
 
 ---
 
-## Seed inhabiting bacterial endophytes of maize promote seedling establishment and provide protection against fungal disease.
- 06.12.2021, _G Pal, K Kumar, A Verma, SK Verma_
+## Relationships between pond water and tilapia skin microbiomes in aquaculture ponds in Malawi
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.06.470702v1.abstract)
+
+---
+
+## Age-Based Variations in the Gut Microbiome of the Shennongjia (Hubei) Golden Snub-Nosed Monkey (Rhinopithecus roxellana hubeiensis).
+ 26.05.2021, _L Yao, X Li, Z Zhou, D Shi, Z Li, S Li, H Yao, J Yang, H Yu, Y Xiao_
 
 
-Bacteria from different crops and plant varieties have been shown to possess enormous growth promotional attributes. The study aimed to investigate the role of the endophytic microbiome of seeds of corn in improving the growth of seedlings of two different varieties of maize crops (K-25 and baby corn). Furthermore, the study also assessed the role of these bacteria in the protection of seedlings from fungal pathogens. Total twenty-three endophytic bacterial strains were isolated from maize seeds and identified using 16S rDNA sequencing. Most of the isolates had the ability to synthesize auxin (70 %) and solubilize phosphate (74 %), while all the isolates showed nitrogen fixation ability. Some isolates also showed antagonistic activity against phytopathogenic fungi including Rhizoctonia solani and Fusarium sp. suggesting their biocontrol potential. The presence of different lipopeptide genes including bacillomycin D, fengycin, iturin A and surfactin was confirmed in some of the isolates. We observed that treating seeds with an antibiotic compromised the seedlings' growth; however, re-inoculation with endophytic isolates (ZM1/Lysinibacillus sp. and ZM2/Paenibacillus dendritiformis) restored the growth of the seedlings in terms of improved root and shoot development in comparison to non-inoculated controls. The colonization of inoculated bacteria on the root surface was visualized using fluorescent microscopy. Seedling protection assay showed that treated seeds (with ZMW8/ Bacillus velezensis) were protected from fungal infestation (Fusarium verticillioides) even after 12 days of inoculation in comparison to the uninoculated control. The study concludes that indigenous seed-associated bacteria of maize play a major role during seed germination, seedling formation and protect them from phytopathogens.
+_Aging, Bacteria, Colobinae, Gastrointestinal Microbiome_
+The gut microbiota represents a source of genetic and metabolic diversity of a complex polymicrobial ecosystem within its host. To investigate age-based variations of the gut microbiota among Shennongjia golden snub-nosed monkeys (Rhinopithecus roxellana hubeiensis), we characterized the microbial species in fecal samples from 18 Shennongjia golden snub-nosed monkeys evenly pooled into 3 aged groups (Group 1, 1-3 years; Group 2, 5-8 years; Group 3, above 12 years) in Shennongjia, Hubei Province, China. Genomic DNA was extracted from fecal samples, and the 16S rRNA gene V4 region was sequenced using the Illumina high-throughput MiSeq platform PE250. A total of 28 microbial phyla were identified in the gut microbiome of these monkeys with the ten most abundant phyla (i.e., Firmicutes, Bacteroidetes, Verrucomicrobia, Spirochaetes, Tenericutes, Proteobacteria, Planctomycetes, Fibrobacteres, Cyanobacteria, and Euryarchaeota). A total of 1,469 (of 16 phyla and 166 genera), 1,381 (of 16 phyla and 157 genera), and 1,931 (of 19 phyla and 190 genera) operational taxonomic units (OTUs) were revealed in Groups 1, 2, and 3, respectively, with Group 3 containing the most diverse groups of OTUs as revealed by the species relative abundance clustering analysis. These results suggest that the gut microbiota in these monkeys maintain a dynamic status, starting from the early developmental stages of life with the species relative abundance increasing with age. This is the first study to comprehensively characterize the gut microbiota and provide valuable information for monitoring the health and nutritional needs of this endangered primate at different ages.
 
-[Source](https://doi.org/10.1016/j.micres.2021.126926)
+[Source](https://www.hindawi.com/journals/bmri/2021/6667715/)
 
-10.1016/j.micres.2021.126926
+10.1155/2021/6667715
+
+---
+
+## Looking through the FOG: microbiome characterization and lipolytic bacteria isolation from a fatberg site.
+ 07.12.2021, _EK Court, RR Chaudhuri, RV Kapoore, RX Villa, J Pandhal, CA Biggs, GP Stafford_
+
+
+Sewer systems are complex physical, chemical and microbial ecosystems where fats, oils and grease (FOG) present a major problem for sewer management. Their accumulation can lead to blockages ('Fatbergs'), sewer overflows and disruption of downstream wastewater treatment. Further advancements of biological FOG treatments need to be tailored to degrade the FOG, and operate successfully within the sewer environment. In this study we developed a pipeline for isolation of lipolytic strains directly from two FOG blockage sites in the UK, and isolated a range of highly lipolytic bacteria. We selected the five most lipolytic strains using Rhodamine B agar plates and pNP-Fatty acid substrates, with two Serratia spp., two Klebsiella spp. and an environmental Acinetobacter strain that all have the capacity to grow on FOG-based carbon sources. Their genome sequences identified the genetic capacity for fatty acid harvesting (lipases), catabolism and utilization (Fad genes). Furthermore, we performed a preliminary molecular characterization of the microbial community at these sites, showing a diverse community of environmental bacteria at each site, but which did include evidence of sequences related to our isolates. This study provides proof of concept to isolation strategies targeting Fatberg sites to yield candidate strains with bioremediation potential for FOG in the wastewater network. Our work sets the foundation for development of novel bioadditions tailored to the environment with non-pathogenic Acinetobacter identified as a candidate for this purpose.
+
+[Source](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001117)
+
+10.1099/mic.0.001117
+
+---
+
+## The Baltic Sea methane pockmark microbiome: The new insights into the patterns of relative abundance and ANME niche separation
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0141113621002890)
+
+---
+
+## 3MCor: an integrative web server for metabolome-microbiome-metadata correlation analysis
+
+[Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab818/6454942)
+
+---
+
+## Microbiome Methods in Experimental Autoimmune Encephalomyelitis.
+ 07.12.2021, _DP Daberkow, K Hoffman, HM Kohl, T Long, TO Kirby, J Ochoa-Repáraz_
+
+
+Microbiome composition studies are increasingly shedding light on animal models of disease. This paper describes a protocol for analyzing the gut microbiome composition prior to and after the induction of mice to experimental autoimmune encephalomyelitis (EAE), the principal animal model of the human neuroinflammatory demyelinating disease multiple sclerosis (MS). We also address and provide data assessing the impact of mice reared in different animal facilities on EAE induction. Furthermore, we discuss potential regulators of the gut-microbiome-brain axis (GMBA) in relation to neuroinflammation and implications on demyelinating disease states. Our results suggest that mice reared in different animal facilities produce different levels of EAE induction. These results highlight the importance of accounting for consistent environmental conditions when inducing EAE and other animal models of disease. © 2021 Wiley Periodicals LLC. Basic Protocol 1: Study of the composition of the gut microbiome in the neuroinflammatory model of experimental autoimmune encephalomyelitis Basic Protocol 2: Experimental procedures for DNA extraction and microbiome analysis.
+
+[Source](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.314)
+
+10.1002/cpz1.314
+
+---
+
+## A wipe-based stool collection and preservation kit for microbiome community profiling
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.03.471072v1.abstract)
 
 ---
 
