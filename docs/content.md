@@ -52,7 +52,7 @@ The Spacecraft Assembly Facility (SAF) at the NASA's Jet Propulsion Laboratory i
 ---
 
 ## Microbiota and stress: a loop that impacts memory.
- 07.12.2021, _N Kraimi, F Lormant, L Calandreau, F Kempf, O Zemb, J Lemarchand, P Constantin, C Parias, K Germain, S Rabot, C Philippe, A Foury, MP Moisan, AV Carvalho, V Coustham, H Dardente, P Velge, T Chaumeil, C Leterrier_
+ 09.12.2021, _N Kraimi, F Lormant, L Calandreau, F Kempf, O Zemb, J Lemarchand, P Constantin, C Parias, K Germain, S Rabot, C Philippe, A Foury, MP Moisan, AV Carvalho, V Coustham, H Dardente, P Velge, T Chaumeil, C Leterrier_
 
 
 Chronic stress and the gut microbiota appear to comprise a feed-forward loop, which contributes to the development of depressive disorders. Evidence suggests that memory can also be impaired by either chronic stress or microbiota imbalance. However, it remains to be established whether these could be a part of an integrated loop model and be responsible for memory impairments. To shed light on this, we used a two-pronged approach in Japanese quail: first stress-induced alterations in gut microbiota were characterized, then we tested whether this altered microbiota could affect brain and memory function when transferred to a germ-free host. The cecal microbiota of chronically stressed quails was found to be significantly different from that of unstressed individuals with lower α and β diversities and increased Bacteroidetes abundance largely represented by the Alistipes genus, a well-known stress target in rodents and humans. The transfer of this altered microbiota into germ-free quails decreased their spatial and cue-based memory abilities as previously demonstrated in the stressed donors. The recipients also displayed increased anxiety-like behavior, reduced basal plasma corticosterone levels and differential gene expression in the brain. Furthermore, cecal microbiota transfer from a chronically stressed individual was sufficient to mimic the adverse impact of chronic stress on memory in recipient hosts and this action may be related to the Alistipes genus. Our results provide evidence of a feed-forward loop system linking the microbiota-gut-brain axis to stress and memory function and suggest that maintaining a healthy microbiota could help alleviate memory impairments linked to chronic stress.
@@ -105,15 +105,15 @@ The oral microbiota contains billions of microbial cells, which could contribute
 
 ---
 
-## Antibiotic Therapy is Associated with Worse Outcome in Patients with Hepatocellular Carcinoma Treated with Sorafenib.
- 08.12.2021, _K Pomej, L Balcar, B Scheiner, G Semmler, T Meischl, M Mandorfer, T Reiberger, C Müller, M Trauner, M Pinter_
+## Overview of the microbiota in the gut-liver axis in viral B and C hepatitis.
+ 11.12.2021, _MA Neag, AO Mitre, A Catinean, AD Buzoianu_
 
 
-Antibiotic treatment (ABT) affects the outcome of cancer patients treated with immune checkpoint inhibitors (ICIs) and chemotherapy, possibly by altering the gut microbiome. We investigated the impact of ABT on overall survival (OS) and progression-free survival (PFS) in patients with advanced HCC treated with sorafenib.
+Viral B and C hepatitis are a major current health issue, both diseases having a chronic damaging effect on the liver and its functions. Chronic liver disease can lead to even more severe and life-threatening conditions, such as liver cirrhosis and hepatocellular carcinoma. Recent years have uncovered an important interplay between the liver and the gut microbiome: the gut-liver axis. Hepatitis B and C infections often cause alterations in the gut microbiota by lowering the levels of 'protective' gut microorganisms and, by doing so, hinder the microbiota ability to boost the immune response. Treatments aimed at restoring the gut microbiota balance may provide a valuable addition to current practice therapies and may help limit the chronic changes observed in the liver of hepatitis B and C patients. This review aims to summarize the current knowledge on the anato-functional axis between the gut and liver and to highlight the influence that hepatitis B and C viruses have on the microbiota balance, as well as the influence of treatments aimed at restoring the gut microbiota on infected livers and disease progression.
 
 [Source](https://link.springer.com/article/10.1007%2Fs12029-021-00748-1)
 
-10.2147/JHC.S317957
+10.3748/wjg.v27.i43.7446
 
 ---
 
@@ -172,10 +172,10 @@ The gut microbiota may modulate the disposition and toxicity of environmental co
 ---
 
 ## Maternal inheritance of the koala gut microbiome and its compositional and functional maturation during juvenile development.
- 04.12.2021, _MDJ Blyton, RM Soo, P Hugenholtz, BD Moore_
+ 10.12.2021, _MDJ Blyton, RM Soo, P Hugenholtz, BD Moore_
 
 
-The acquisition and maturation of the gastrointestinal microbiome is a crucial aspect of mammalian development, particularly for specialist herbivores such as the koala (Phascolarctos cinereus). Joey koalas are thought to be inoculated with microorganisms by feeding on specialised maternal faeces (pap). We found that compared to faeces, pap has higher microbial density, higher microbial evenness and a higher proportion of rare taxa, which may facilitate the establishment of those taxa in joey koalas. We show that the microbiomes of captive joey koalas were on average more similar to those of their mothers than to other koalas, indicating strong maternal inheritance of the faecal microbiome, which can lead to intergenerational gut dysbiosis when the mother is ill. Directly after pap feeding, the joey koalas' microbiomes were enriched for milk-associated bacteria including Bacteroides fragilis, suggesting a conserved role for this species across mammalian taxa. The joeys' microbiomes then changed slowly over five months to resemble those of adults by one year of age. The relative abundance of fibrolytic bacteria and genes involved in the degradation of plant cell walls also increased in the infants over this time, likely in response to an increased proportion of Eucalyptus leaves in their diets. This article is protected by copyright. All rights reserved.
+The acquisition and maturation of the gastrointestinal microbiome is a crucial aspect of mammalian development, particularly for specialist herbivores such as the koala (Phascolarctos cinereus). Joey koalas are thought to be inoculated with microorganisms by feeding on specialized maternal faeces (pap). We found that compared to faeces, pap has higher microbial density, higher microbial evenness and a higher proportion of rare taxa, which may facilitate the establishment of those taxa in joey koalas. We show that the microbiomes of captive joey koalas were on average more similar to those of their mothers than to other koalas, indicating strong maternal inheritance of the faecal microbiome, which can lead to intergenerational gut dysbiosis when the mother is ill. Directly after pap feeding, the joey koalas' microbiomes were enriched for milk-associated bacteria including Bacteroides fragilis, suggesting a conserved role for this species across mammalian taxa. The joeys' microbiomes then changed slowly over 5 months to resemble those of adults by 1 year of age. The relative abundance of fibrolytic bacteria and genes involved in the degradation of plant cell walls also increased in the infants over this time, likely in response to an increased proportion of Eucalyptus leaves in their diets.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15858)
 
@@ -215,7 +215,7 @@ Sewer systems are complex physical, chemical and microbial ecosystems where fats
 ---
 
 ## The Baltic Sea methane pockmark microbiome: The new insights into the patterns of relative abundance and ANME niche separation.
- 07.12.2021, _TR Iasakov, TA Kanapatskiy, SV Toshchakov, AA Korzhenkov, MO Ulyanova, NV Pimenov_
+ 10.12.2021, _TR Iasakov, TA Kanapatskiy, SV Toshchakov, AA Korzhenkov, MO Ulyanova, NV Pimenov_
 
 
 Pockmarks are important "pumps", which are believed to play a significant role in the global methane cycling and harboring a unique assemblage of very diverse prokaryotes. This study reports the results of massive sequencing of the 16S rRNA gene V4 hypervariable regions for the samples from thirteen pockmark horizons (the Baltic Sea) collected at depths from 0 to 280 cm below seafloor (cmbsf) and the rates of microbially mediated anaerobic oxidation of methane (AOM) and sulfate reduction (SR). Altogether, 76 bacterial and 12 archaeal phyla were identified, 23 of which were candidate divisions. Of the total obtained in the pockmark sequences, 84.3% of them were classified as Bacteria and 12.4% as Archaea; 3.3% of the sequences were assigned to unknown operational taxonomic units (OTUs). Members of the phyla Planctomycetota, Chloroflexota, Desulfobacterota, Caldatribacteriota, Acidobacteriota and Proteobacteria predominated across all horizons, comprising 58.5% of the total prokaryotic community. These phyla showed different types of patterns of relative abundance. Analysis of AOM-SR-mediated prokaryotes abundance and biogeochemical measurements revealed that ANME-2a-2b subcluster was predominant in sulfate-rich upper horizons (including sulfate-methane transition zone (SMTZ)) and together with sulfate-reducing bacterial group SEEP-SRB1 had a primary role in AOM coupled to SR. At deeper sulfate-depleted horizons ANME-2a-2b shifted to ANME-1a and ANME-1b which alone mediated AOM or switch to methanogenic metabolism. Shifting of the ANME subclusters depending on depth reflect a tendency for niche separation in these groups. It was shown that the abundance of Caldatribacteriota and organohalide-respiring Dehalococcoidia (Chloroflexota) exhibited a strong correlation with AOM rates. This is the first detailed study of depth profiles of prokaryotic diversity, patterns of relative abundance, and ANME niche separation in the Baltic Sea pockmark microbiomes sheds light on assembly of prokaryotes in a pockmark.
