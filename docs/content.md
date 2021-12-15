@@ -1,120 +1,114 @@
-## Fast and flexible analysis of linked microbiome data with mako.
- 10.12.2021, _L Röttjers, K Faust_
+## Deep nasal sinus cavity microbiota dysbiosis in Parkinson's disease.
+ 09.12.2021, _G Pal, V Ramirez, PA Engen, A Naqib, CB Forsyth, SJ Green, M Mahdavinia, PS Batra, BA Tajudeen, A Keshavarzian_
 
 
-Mako is a software tool that converts microbiome data and networks into a graph database and visualizes query results, thus allowing users without programming knowledge to carry out network-based queries. Mako is accompanied by a database compiled from 60 microbiome studies that is easily extended with the user's own data. We illustrate mako's strengths by enumerating association partners linked to propionate production and comparing frequencies of different network motifs across habitat types.
+Olfactory dysfunction is a pre-motor symptom of Parkinson's disease (PD) that appears years prior to diagnosis and can affect quality of life in PD. Changes in microbiota community in deep nasal cavity near the olfactory bulb may trigger the olfactory bulb-mediated neuroinflammatory cascade and eventual dopamine loss in PD. To determine if the deep nasal cavity microbiota of PD is significantly altered in comparison to healthy controls, we characterized the microbiota of the deep nasal cavity using 16S rRNA gene amplicon sequencing in PD subjects and compared it to that of spousal and non-spousal healthy controls. Correlations between microbial taxa and PD symptom severity were also explored. Olfactory microbial communities of PD individuals were more similar to those of their spousal controls than to non-household controls. In direct comparison of PD and spousal controls and of PD and non-spousal controls, significantly differently abundant taxa were identified, and this included increased relative abundance of putative opportunistic-pathobiont species such as Moraxella catarrhalis. M. catarrhalis was also significantly correlated with more severe motor scores in PD subjects. This proof-of-concept study provides evidence that potential pathobionts are detected in the olfactory bulb and that a subset of changes in the PD microbiota community could be a consequence of unique environmental factors associated with PD living. We hypothesize that an altered deep nasal microbiota, characterized by a putative pro-inflammatory microbial community, could trigger neuroinflammation in PD.
 
-[Source](https://www.nature.com/articles/s41592-021-01335-9)
+[Source](https://www.nature.com/articles/s41531-021-00254-y)
 
-10.1038/s41592-021-01335-9
-
----
-
-## Combinatorial, additive and dose-dependent drug–microbiome associations
-
-[Source](https://www.nature.com/articles/s41586-021-04177-9)
+10.1038/s41531-021-00254-y
 
 ---
 
-## Mammalian gut metabolomes mirror microbiome composition and host phylogeny
-
-[Source](https://www.nature.com/articles/s41396-021-01152-0)
-
----
-
-## Microbial co-occurrence complicates associations of gut microbiome with US immigration, dietary intake and obesity.
- 14.12.2021, _Z Wang, M Usyk, Y Vázquez-Baeza, GC Chen, CR Isasi, JS Williams-Nguyen, S Hua, D McDonald, B Thyagarajan, ML Daviglus, J Cai, KE North, T Wang, R Knight, RD Burk, RC Kaplan, Q Qi_
+## Influence of Family Integrated Care on the Intestinal Microbiome of Preterm Infants With Necrotizing Enterocolitis and Enterostomy: A Preliminary Study.
+ 13.12.2021, _M Yang, J Du, Q Yang, W Dou, M Jiang, M Hei_
 
 
-Obesity and related comorbidities are major health concerns among many US immigrant populations. Emerging evidence suggests a potential involvement of the gut microbiome. Here, we evaluated gut microbiome features and their associations with immigration, dietary intake, and obesity in 2640 individuals from a population-based study of US Hispanics/Latinos.
+The aim of this study was to investigate the influence of family integrated care (FICare) on the intestinal microbiome of preterm infants with necrotizing enterocolitis and enterostomy. This was a prospective pilot study at Beijing Children's Hospital. Premature infants with an enterostomy who met the enrollment criteria were divided into the 2-week FICare and non-FICare groups (non-randomly). We collected their fecal samples and subjected the intestinal microbiomes to 16S rRNA gene sequencing. Operational taxonomic units (OTU) were analyzed to assess the intestinal microbiome richness, and we then carried out α-diversity, β-diversity, and species clustering analyses and a linear discriminant analysis (LDA) effect size (LEfSe) analysis to identify the differences in the microbial communities between the two groups. There were 12 patients enrolled in the study (FICare, n = 7; non-FICare, n = 5). There were no significant between-group differences in demographic characteristics, or in the relative abundances of phyla and genera. The major bacterial phyla were Proteobacteria, Firmicutes, and Actinobacteria, and Serratia, Enterococcus, Cronobacter, and Bifidobacterium dominated at the genus level. The α-diversity analysis indicated that the intestinal flora was more diverse in the non-FICare group than the FICare group (p &lt; 0.05). However, most of the other indicators did not suggest a difference between the two groups. There was a high proportion of shared OTUs between the two groups, and the PCoA and clustering analyses indicated that the two groups were difficult to distinguish, indicating that the intestinal microbiomes were relatively similar between the groups. In summary, short-term FICare had no significant positive effect on the establishment of intestinal flora diversity in premature infants with necrotizing enterocolitis and enterostomy. The trial was registered in the Chinese Clinical Trial Registry (ChiCTR-OPN-17011801).
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02559-w)
+[Source](https://www.frontiersin.org/articles/10.3389/fped.2021.678254/full)
 
-10.1186/s13059-021-02559-w
+10.3389/fped.2021.678254
 
 ---
 
-## Signature changes in gut microbiome are associated with increased susceptibility to HIV-1 infection in MSM.
- 12.12.2021, _Y Chen, H Lin, M Cole, A Morris, J Martinson, H Mckay, M Mimiaga, J Margolick, A Fitch, B Methe, VR Srinivas, S Peddada, CR Rinaldo_
+## Alternations of fecal microbes and lung tissue microbes in Lung Cancer patients is more consistent than that of sputum
 
-
-Men who have sex with men (MSM) have been disproportionately affected by HIV-1 since the beginning of the AIDS pandemic, particularly in the USA and Europe. Compared to men who have sex with women (MSW), MSM have a distinct fecal microbiome regardless of HIV-1 infection. However, it is unclear whether the MSM-associated gut microbiome affects the susceptibility and progression of HIV-1 infection. We studied fecal microbiome profiles, short-chain fatty acids, and blood plasma inflammatory cytokines of 109 HIV-1 seroconverters (SC) from the early, 1984-1985 phase of the HIV-1 pandemic in the Multicenter AIDS Cohort Study (MACS) before and after HIV-1 infection compared to 156 HIV-1-negative MACS MSM (negative controls [NC]).
-
-[Source](https://link.springer.com/article/10.1186/s40168-021-01168-w)
-
-10.1186/s40168-021-01168-w
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.472428v1.abstract)
 
 ---
 
-## Cognitive behavioral therapy for irritable bowel syndrome induces bidirectional alterations in the brain-gut-microbiome axis associated with gastrointestinal symptom improvement.
- 07.12.2021, _JP Jacobs, A Gupta, RR Bhatt, J Brawer, K Gao, K Tillisch, V Lagishetty, R Firth, GD Gudleski, BM Ellingson, JS Labus, BD Naliboff, JM Lackner, EA Mayer_
+## A core salivary microbiome shows the high prevalence of bacterial members yet variability across human populations
 
-
-There is growing recognition that bidirectional signaling between the digestive tract and the brain contributes to irritable bowel syndrome (IBS). We recently showed in a large randomized controlled trial that cognitive behavioral therapy (CBT) reduces IBS symptom severity. This study investigated whether baseline brain and gut microbiome parameters predict CBT response and whether response is associated with changes in the brain-gut-microbiome (BGM) axis.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01188-6)
-
-10.1186/s40168-021-01188-6
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.471511v1.abstract)
 
 ---
 
-## Impact of sleep on the microbiome of oral biofilms.
- 12.12.2021, _M Sotozono, N Kuriki, Y Asahi, Y Noiri, M Hayashi, D Motooka, S Nakamura, M Yamaguchi, T Iida, S Ebisu_
+## Metagenomic Analysis Reveals the Heterogeneity of Conjunctival Microbiota Dysbiosis in Dry Eye Disease
 
-
-Dysbiosis of the oral microbiome is associated with diseases such as periodontitis and dental caries. Because the bacterial counts in saliva increase markedly during sleep, it is broadly accepted that the mouth should be cleaned before sleep to help prevent these diseases. However, this practice does not consider oral biofilms, including the dental biofilm. This study aimed to investigate sleep-related changes in the microbiome of oral biofilms by using 16S rRNA gene sequence analysis. Two experimental schedules-post-sleep and pre-sleep biofilm collection-were applied to 10 healthy subjects. Subjects had their teeth and oral mucosa professionally cleaned 7 days and 24 h before sample collection. Samples were collected from several locations in the oral cavity: the buccal mucosa, hard palate, tongue dorsum, gingival mucosa, tooth surface, and saliva. Prevotella and Corynebacterium had higher relative abundance on awakening than before sleep in all locations of the oral cavity, whereas fluctuations in Rothia levels differed depending on location. The microbiome in different locations in the oral cavity is affected by sleep, and changes in the microbiome composition depend on characteristics of the surfaces on which oral biofilms form.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259850)
-
-10.1371/journal.pone.0259850
+[Source](https://www.frontiersin.org/articles/10.3389/fcell.2021.731867/full)
 
 ---
 
-## Functional screening of a human saliva metagenomic DNA reveal novel resistance genes against sodium hypochlorite and chlorhexidine.
- 14.12.2021, _J Wigand, S Tansirichaiya, E Winje, M Al-Haroni_
+## Beyond bacterial vaginosis: vaginal lactobacilli and HIV risk
 
-
-Many sections of the health care system are facing a major challenge making infectious disease problematic to treat; antimicrobial resistance (AMR). Identification and surveillance of the resistome have been highlighted as one of the strategies to overcome the problem. This study aimed to screen for AMR genes in an oral microbiota, a complex microbial system continuously exposed to antimicrobial agents commonly used in dental practice.
-
-[Source](https://link.springer.com/article/10.1186/s12903-021-02000-5)
-
-10.1186/s12903-021-02000-5
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01183-x)
 
 ---
 
-## Per- and Polyfluoroalkyl Substances (PFASs) in Airborne Particulate Matter (PM2.0) Emitted During Floor Waxing: A Pilot Study.
- 13.12.2021, _J Zhou, K Baumann, N Chang, G Morrison, W Bodnar, Z Zhang, JM Atkin, JD Surratt, BJ Turpin_
+## The fecal mycobiome in non-alcoholic fatty liver disease
 
-
-Per- and polyfluoroalkyl substances (PFASs), with their water- and heat-resistant properties, have been widely used in industrial and consumer products, including floor waxes. Adverse health effects are associated with PFAS exposures (e.g., increased risk of cancer and immunotoxicity); however, exposures resulting from the use of PFAS-containing products are poorly understood. This study examines PFAS emissions during professional floor stripping/waxing and their potential for occupational exposures. We measured PFASs in dust and airborne particulate matter (PM2.0, aerodynamic diameter ≤ 2.0 μm) before, during, and after floor stripping/waxing activities in three rooms in a university building. PM2.0 samples were analyzed for 34 targeted PFASs by ultra-high performance liquid chromatography coupled to electrospray ionization triple quadrupole mass spectrometer (UHPLC/ESI-MS/MS). In total, ten PFASs were detected in PM2.0 collected during floor waxing. Five were consistently higher during floor stripping/waxing compared to before (two with 95% confidence interval): perfluoro-2-methoxyacetic acid, perfluorobutanoic acid, perfluorohexanoic acid, perfluoroheptanoic acid, and perfluorooctane sulfonic acid. For these five, estimated exposures during floor stripping were 80.6, 320.5, 83.8, 29.6, and 157.7 pg m-3 per hour of floor stripping, respectively, one order of magnitude greater than typical residential indoor and two orders of magnitude greater than ambient outdoor concentrations. Estimated emission rates were 3.0, 9.6, 3.4, 1.5, and 6.5 ng h-1m-2, respectively (34.6% uncertainty). Inhalation occupational exposures were in the range of 9.42-23.2 pg per kg body weight per hour of floor stripping across the five PFASs.
-
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00336-0)
-
-10.1016/j.atmosenv.2021.118845
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0168827821022388)
 
 ---
 
-## The immunotoxicity, but not anti-tumor efficacy, of anti-CD40 and anti-CD137 immunotherapies is dependent on the gut microbiota
+## Intermittent Fasting Reshapes the Gut Microbiota and Metabolome and Reduces Weight Gain More Effectively Than Melatonin in Mice
 
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00336-0)
-
----
-
-## Colonization of gut microbiota by plasmid-carrying bacteria is facilitated by evolutionary adaptation to antibiotic treatment
-
-[Source](https://www.nature.com/articles/s41396-021-01171-x)
+[Source](https://www.frontiersin.org/articles/10.3389/fnut.2021.784681/full)
 
 ---
 
-## Sexual dimorphism in glucose metabolism is shaped by androgen-driven gut microbiome.
- 07.12.2021, _A Gao, J Su, R Liu, S Zhao, W Li, X Xu, D Li, J Shi, B Gu, J Zhang, Q Li, X Wang, Y Zhang, Y Xu, J Lu, G Ning, J Hong, Y Bi, W Gu, J Wang, W Wang_
+## Analyzing gut microbiota composition in individual Anopheles mosquitoes after experimental treatment
 
+[Source](https://www.sciencedirect.com/science/article/pii/S2589004221013870)
 
-Males are generally more susceptible to impaired glucose metabolism and type 2 diabetes (T2D) than females. However, the underlying mechanisms remain to be determined. Here, we revealed that gut microbiome depletion abolished sexual dimorphism in glucose metabolism. The transfer of male donor microbiota into antibiotics-treated female mice led the recipients to be more insulin resistant. Depleting androgen via castration changed the gut microbiome of male mice to be more similar to that of females and improved glucose metabolism, while reintroducing dihydrotestosterone (DHT) reversed these alterations. More importantly, the effects of androgen on glucose metabolism were largely abolished when the gut microbiome was depleted. Next, we demonstrated that androgen modulated circulating glutamine and glutamine/glutamate (Gln/Glu) ratio partially depending on the gut microbiome, and glutamine supplementation increases insulin sensitivity in vitro. Our study identifies the effects of androgen in deteriorating glucose homeostasis partially by modulating the gut microbiome and circulating glutamine and Gln/Glu ratio, thereby contributing to the difference in glucose metabolism between the two sexes.
+---
 
-[Source](https://www.nature.com/articles/s41467-021-27187-7)
+## Microbial interaction-driven community differences as revealed by network analysis
 
-10.1038/s41467-021-27187-7
+[Source](https://www.sciencedirect.com/science/article/pii/S2001037021004578)
+
+---
+
+## Metabolic reconstitution by a gnotobiotic microbiota varies over the circadian cycle
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.09.08.456534v3.abstract)
+
+---
+
+## Single cell genome sequencing of laboratory mouse microbiota improves taxonomic and functional resolution of this model microbial community
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.472402v1.abstract)
+
+---
+
+## Gut microbiota modulates weight gain in mice after discontinued smoke exposure
+
+[Source](https://www.nature.com/articles/s41586-021-04194-8)
+
+---
+
+## Stratified microbial communities are highly sensitive towards multiple combined global change factors, revealing antagonistic and synergistic effects
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.472339v1.abstract)
+
+---
+
+## Cow Rumen v1.0
+
+[Source](https://www.ebi.ac.uk/metagenomics/genome-catalogues/cow-rumen-v1-0)
+
+---
+
+## A review of computational tools for generating metagenome-assembled genomes from metagenomic sequencing data
+
+[Source](https://www.sciencedirect.com/science/article/pii/S2001037021004931)
+
+---
+
+## The Microbiome Facts, Not the Hype
+
+[Source](https://twitter.com/bykriscampbell/status/1470985237244960770)
 
 ---
 
