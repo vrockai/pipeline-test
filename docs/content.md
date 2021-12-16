@@ -1,114 +1,102 @@
-## Deep nasal sinus cavity microbiota dysbiosis in Parkinson's disease.
- 09.12.2021, _G Pal, V Ramirez, PA Engen, A Naqib, CB Forsyth, SJ Green, M Mahdavinia, PS Batra, BA Tajudeen, A Keshavarzian_
+## the Global Microbial Gene Catalog
 
-
-Olfactory dysfunction is a pre-motor symptom of Parkinson's disease (PD) that appears years prior to diagnosis and can affect quality of life in PD. Changes in microbiota community in deep nasal cavity near the olfactory bulb may trigger the olfactory bulb-mediated neuroinflammatory cascade and eventual dopamine loss in PD. To determine if the deep nasal cavity microbiota of PD is significantly altered in comparison to healthy controls, we characterized the microbiota of the deep nasal cavity using 16S rRNA gene amplicon sequencing in PD subjects and compared it to that of spousal and non-spousal healthy controls. Correlations between microbial taxa and PD symptom severity were also explored. Olfactory microbial communities of PD individuals were more similar to those of their spousal controls than to non-household controls. In direct comparison of PD and spousal controls and of PD and non-spousal controls, significantly differently abundant taxa were identified, and this included increased relative abundance of putative opportunistic-pathobiont species such as Moraxella catarrhalis. M. catarrhalis was also significantly correlated with more severe motor scores in PD subjects. This proof-of-concept study provides evidence that potential pathobionts are detected in the olfactory bulb and that a subset of changes in the PD microbiota community could be a consequence of unique environmental factors associated with PD living. We hypothesize that an altered deep nasal microbiota, characterized by a putative pro-inflammatory microbial community, could trigger neuroinflammation in PD.
-
-[Source](https://www.nature.com/articles/s41531-021-00254-y)
-
-10.1038/s41531-021-00254-y
+[Source](https://gmgc.embl.de/)
 
 ---
 
-## Influence of Family Integrated Care on the Intestinal Microbiome of Preterm Infants With Necrotizing Enterocolitis and Enterostomy: A Preliminary Study.
- 13.12.2021, _M Yang, J Du, Q Yang, W Dou, M Jiang, M Hei_
+## Microbiome Virtual International Forum
 
-
-The aim of this study was to investigate the influence of family integrated care (FICare) on the intestinal microbiome of preterm infants with necrotizing enterocolitis and enterostomy. This was a prospective pilot study at Beijing Children's Hospital. Premature infants with an enterostomy who met the enrollment criteria were divided into the 2-week FICare and non-FICare groups (non-randomly). We collected their fecal samples and subjected the intestinal microbiomes to 16S rRNA gene sequencing. Operational taxonomic units (OTU) were analyzed to assess the intestinal microbiome richness, and we then carried out α-diversity, β-diversity, and species clustering analyses and a linear discriminant analysis (LDA) effect size (LEfSe) analysis to identify the differences in the microbial communities between the two groups. There were 12 patients enrolled in the study (FICare, n = 7; non-FICare, n = 5). There were no significant between-group differences in demographic characteristics, or in the relative abundances of phyla and genera. The major bacterial phyla were Proteobacteria, Firmicutes, and Actinobacteria, and Serratia, Enterococcus, Cronobacter, and Bifidobacterium dominated at the genus level. The α-diversity analysis indicated that the intestinal flora was more diverse in the non-FICare group than the FICare group (p &lt; 0.05). However, most of the other indicators did not suggest a difference between the two groups. There was a high proportion of shared OTUs between the two groups, and the PCoA and clustering analyses indicated that the two groups were difficult to distinguish, indicating that the intestinal microbiomes were relatively similar between the groups. In summary, short-term FICare had no significant positive effect on the establishment of intestinal flora diversity in premature infants with necrotizing enterocolitis and enterostomy. The trial was registered in the Chinese Clinical Trial Registry (ChiCTR-OPN-17011801).
-
-[Source](https://www.frontiersin.org/articles/10.3389/fped.2021.678254/full)
-
-10.3389/fped.2021.678254
+[Source](https://www.microbiome-vif.org/)
 
 ---
 
-## Alternations of fecal microbes and lung tissue microbes in Lung Cancer patients is more consistent than that of sputum
+## here
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.472428v1.abstract)
-
----
-
-## A core salivary microbiome shows the high prevalence of bacterial members yet variability across human populations
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.471511v1.abstract)
+[Source](https://www.youtube.com/playlist?list=PLLOHGJKpTq6qdmHmgcOWDP_W0WVQi75NH)
 
 ---
 
-## Metagenomic Analysis Reveals the Heterogeneity of Conjunctival Microbiota Dysbiosis in Dry Eye Disease
+## open
 
-[Source](https://www.frontiersin.org/articles/10.3389/fcell.2021.731867/full)
-
----
-
-## Beyond bacterial vaginosis: vaginal lactobacilli and HIV risk
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01183-x)
+[Source](https://hopin.com/events/microbiome-vif-n-5)
 
 ---
 
-## The fecal mycobiome in non-alcoholic fatty liver disease
+## open
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0168827821022388)
-
----
-
-## Intermittent Fasting Reshapes the Gut Microbiota and Metabolome and Reduces Weight Gain More Effectively Than Melatonin in Mice
-
-[Source](https://www.frontiersin.org/articles/10.3389/fnut.2021.784681/full)
+[Source](https://openreview.net/group?id=Microbiome-VIF.org/2022/Forum/Round6)
 
 ---
 
-## Analyzing gut microbiota composition in individual Anopheles mosquitoes after experimental treatment
+## Towards the biogeography of prokaryotic genes
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2589004221013870)
-
----
-
-## Microbial interaction-driven community differences as revealed by network analysis
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2001037021004578)
+[Source](https://www.nature.com/articles/s41586-021-04233-4)
 
 ---
 
-## Metabolic reconstitution by a gnotobiotic microbiota varies over the circadian cycle
+## @Nature
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.09.08.456534v3.abstract)
-
----
-
-## Single cell genome sequencing of laboratory mouse microbiota improves taxonomic and functional resolution of this model microbial community
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.472402v1.abstract)
+[Source](https://twitter.com/Nature?ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut microbiota modulates weight gain in mice after discontinued smoke exposure
+## https://t.co/jr3as488fI
 
-[Source](https://www.nature.com/articles/s41586-021-04194-8)
-
----
-
-## Stratified microbial communities are highly sensitive towards multiple combined global change factors, revealing antagonistic and synergistic effects
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.13.472339v1.abstract)
+[Source](https://t.co/jr3as488fI)
 
 ---
 
-## Cow Rumen v1.0
+## December 15, 2021
 
-[Source](https://www.ebi.ac.uk/metagenomics/genome-catalogues/cow-rumen-v1-0)
-
----
-
-## A review of computational tools for generating metagenome-assembled genomes from metagenomic sequencing data
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2001037021004931)
+[Source](https://twitter.com/luispedrocoelho/status/1471149228844101645?ref_src=twsrc%5Etfw)
 
 ---
 
-## The Microbiome Facts, Not the Hype
+## Human microbiota research in Africa: a systematic review reveals gaps and priorities for future research 
 
-[Source](https://twitter.com/bykriscampbell/status/1470985237244960770)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01195-7)
+
+---
+
+## Factors influencing the microbial composition of human milk
+
+[Source](https://www.sciencedirect.com/science/article/pii/S014600052100121X)
+
+---
+
+## Group B <em>Streptococcus</em> CAMP Factor Does Not Contribute to Interactions with the Vaginal Epithelium and Is Dispensable for Vaginal Colonization in Mice
+
+[Source](https://journals.asm.org/doi/full/10.1128/Spectrum.01058-21)
+
+---
+
+## Ageing and rejuvenation models reveal changes in key microbial communities associated with healthy ageing 
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01189-5)
+
+---
+
+## The economical lifestyle of CPR bacteria in groundwater allows little preference for environmental drivers
+
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-021-00395-w)
+
+---
+
+## https://www.biorxiv.org/content/10.1101/2021.01.29.428751v2
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.01.29.428751v2)
+
+---
+
+## https://t.co/Ah39exLz1p
+
+[Source](https://t.co/Ah39exLz1p)
+
+---
+
+## December 13, 2021
+
+[Source](https://twitter.com/bykriscampbell/status/1470252045244399617?ref_src=twsrc%5Etfw)
 
 ---
 
