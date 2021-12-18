@@ -11,9 +11,10 @@ Endometriosis is an estrogen dependent gynecological disease associated with alt
 ---
 
 ## Gut Microbiome in Probable Intestinal Tuberculosis and Changes following Anti-Tuberculosis Treatment.
- 16.12.2021, _H Yoon, YS Park, CM Shin, N Kim, DH Lee_
+ 17.12.2021, _H Yoon, YS Park, CM Shin, N Kim, DH Lee_
 
 
+_Antitubercular Agents, Feces, Gastrointestinal Microbiome, Humans, RNA, Ribosomal, 16S, Tuberculosis_
 Information on the gut microbiome in patients with intestinal tuberculosis (ITB) and changes therein following anti-tuberculosis treatment (ATT) is lacking. We aimed to elucidate differences in stool microbiome between ITB patients and controls and to evaluate stool microbiome changes after ATT.
 
 [Source](https://doi.org/10.3349/ymj.2022.63.1.34)
@@ -23,7 +24,7 @@ Information on the gut microbiome in patients with intestinal tuberculosis (ITB)
 ---
 
 ## Uncovering the Role of Gut Microbiota in Amino Acid Metabolic Disturbances in Heart Failure Through Metagenomic Analysis.
- 16.12.2021, _T Hayashi, T Yamashita, T Takahashi, T Tabata, H Watanabe, Y Gotoh, M Shinohara, K Kami, H Tanaka, K Matsumoto, T Hayashi, T Yamada, KI Hirata_
+ 17.12.2021, _T Hayashi, T Yamashita, T Takahashi, T Tabata, H Watanabe, Y Gotoh, M Shinohara, K Kami, H Tanaka, K Matsumoto, T Hayashi, T Yamada, KI Hirata_
 
 
 Aims: Circulating amino acid (AA) abnormalities serve as predictors of adverse outcomes in patients with heart failure (HF). However, the role of the gut microbiota in AA disturbances remains unknown. Thus, we investigated gut microbial functions and their associations with AA metabolic alterations in patients with HF. Methods and Results: We performed whole-genome shotgun sequencing of fecal samples and mass spectrometry-based profiling of AAs in patients with compensated HF. Plasma levels of total essential AAs (EAAs) and histidine were significantly lower in patients with HF than in control subjects. HF patients also displayed increased and decreased abundance of gut microbial genes involved in the degradation and biosynthesis, respectively, of EAAs, including branched-chain AAs (BCAAs) and histidine. Importantly, a significant positive correlation was observed between the abundance of microbial genes involved in BCAA biosynthesis and plasma BCAA levels in patients with HF, but not in controls. Moreover, network analysis revealed that the depletion of Eubacterium and Prevotella, which harbor genes for BCAA and histidine biosynthesis, contributed to decreased abundance of microbial genes involved in the biosynthesis of those EAAs in patients with HF. Conclusions: The present study demonstrated the relationship between gut microbiota and AA metabolic disturbances in patients with HF.
@@ -101,7 +102,7 @@ Bacterial vaginosis (BV) is an enigmatic polymicrobial condition characterized b
 ---
 
 ## Acute malnutrition and its determinants of preschool children in Bangladesh: gender differentiation.
- 14.12.2021, _MR Karim, ASM Al Mamun, MM Rana, RA Mahumud, NN Shoma, D Dutt, P Bharati, MG Hossain_
+ 17.12.2021, _MR Karim, ASM Al Mamun, MM Rana, RA Mahumud, NN Shoma, D Dutt, P Bharati, MG Hossain_
 
 
 Children acute malnutrition (AM) is a global public health concern, especially in low and middle income countries. AM is associated with multiple physiological vulnerabilities, including immune dysfunction, enteric barrier disruption, gut microbiome dysbiosis, and essential nutrient deficits. This study aimed to determine the prevalence of AM and its associated factors among preschool children in Rajshahi district, Bangladesh.
@@ -113,7 +114,7 @@ Children acute malnutrition (AM) is a global public health concern, especially i
 ---
 
 ## SARS-CoV-2 infection reduces human nasopharyngeal commensal microbiome with inclusion of pathobionts.
- 16.12.2021, _MN Hoque, MMH Sarkar, MS Rahman, S Akter, TA Banu, B Goswami, I Jahan, MS Hossain, AKM Shamsuzzaman, T Nafisa, MMA Molla, M Yeasmin, AK Ghosh, E Osman, SKS Alam, MS Uzzaman, MA Habib, ASM Mahmud, KA Crandall, T Islam, MS Khan_
+ 17.12.2021, _MN Hoque, MMH Sarkar, MS Rahman, S Akter, TA Banu, B Goswami, I Jahan, MS Hossain, AKM Shamsuzzaman, T Nafisa, MMA Molla, M Yeasmin, AK Ghosh, E Osman, SKS Alam, MS Uzzaman, MA Habib, ASM Mahmud, KA Crandall, T Islam, MS Khan_
 
 
 The microbiota of the nasopharyngeal tract (NT) play a role in host immunity against respiratory infectious diseases. However, scant information is available on interactions of SARS-CoV-2 with the nasopharyngeal microbiome. This study characterizes the effects of SARS-CoV-2 infection on human nasopharyngeal microbiomes and their relevant metabolic functions. Twenty-two (n = 22) nasopharyngeal swab samples (including COVID-19 patients = 8, recovered humans = 7, and healthy people = 7) were collected, and underwent to RNAseq-based metagenomic investigation. Our RNAseq data mapped to 2281 bacterial species (including 1477, 919 and 676 in healthy, COVID-19 and recovered metagenomes, respectively) indicating a distinct microbiome dysbiosis. The COVID-19 and recovered samples included 67% and 77% opportunistic bacterial species, respectively compared to healthy controls. Notably, 79% commensal bacterial species found in healthy controls were not detected in COVID-19 and recovered people. Similar dysbiosis was also found in viral and archaeal fraction of the nasopharyngeal microbiomes. We also detected several altered metabolic pathways and functional genes in the progression and pathophysiology of COVID-19. The nasopharyngeal microbiome dysbiosis and their genomic features determined by our RNAseq analyses shed light on early interactions of SARS-CoV-2 with the nasopharyngeal resident microbiota that might be helpful for developing microbiome-based diagnostics and therapeutics for this novel pandemic disease.
@@ -125,7 +126,7 @@ The microbiota of the nasopharyngeal tract (NT) play a role in host immunity aga
 ---
 
 ## Gut Mycobiota Dysbiosis in Pulmonary Tuberculosis Patients Undergoing Anti-Tuberculosis Treatment.
- 15.12.2021, _D Cao, W Liu, N Lyu, B Li, W Song, Y Yang, J Zhu, Z Zhang, B Zhu_
+ 17.12.2021, _D Cao, W Liu, N Lyu, B Li, W Song, Y Yang, J Zhu, Z Zhang, B Zhu_
 
 
 Patients with pulmonary tuberculosis (TB) undergoing anti-tuberculosis (anti-TB) treatment were previously reported to present gut bacterial microbiota dysbiosis, but the role of the mycobiota has not been reported. Here, we conducted a follow-up study of 29 naive TB patients who received first-line anti-TB drug treatment; we collected their fecal samples at different time points, as well as 22 fecal samples from healthy subjects. Fungal ITS2 and bacterial 16S rRNA amplicon sequencing were used to analyze the effects of active TB and anti-TB treatment on the gut microbiota. We found that naive TB patients had bacterial and fungal dysbiosis with altered community composition and a decreased density of the transkingdom correlation network. Anti-TB drug treatment significantly decreased the diversity of bacteria and fungi with altered composition. Notably, we observed that the abundance of Purpureocillium lilacinum tended to decrease and Nakaseomyces spp. tended to increase in the anti-TB treatment, and all of them had increased proportions in the three TB groups compared with healthy subjects. We found that the fungal-bacterial transkingdom network was severely altered in TB patients after 2 months of treatment, and new fungal-enriched connections that were not observed in other groups after 6 months of treatment. This study provides the first detailed analysis of dysbiosis of the gut mycobiota due to active TB and anti-TB treatment. The results suggest that fungi play an important role in the balance of the gut microbiota and may be associated with the progression of TB, influencing the microbiota and immunity homeostasis in those receiving anti-TB treatment. IMPORTANCE Numerous studies have shown that the gut bacterial microbiota is altered in active TB patients and that anti-TB drugs have profound and long-term impacts. However, as an integral part of the microbiota, fungi have rarely been studied. The need to investigate both the bacterial and fungal microbiota, as well as the relationship between them is apparent. The significance of our study is in our examination of the changes in the bacterial and fungal microbiota simultaneously in both active TB and patients receiving anti-TB treatment. We found that fungi play an important role in the bacterial-fungal transkingdom network, especially during the anti-TB therapy. These findings underscore the importance of fungi in gut microbiota dysbiosis during active TB and anti-TB treatment processes. In addition, our findings suggest it is meaningful to research potential adjunctive therapies that reduce fungal expansion and increase commensal bacterial abundance after anti-TB treatment, which would help the recovery of TB patients.
@@ -256,7 +257,7 @@ The long-term management of irritable bowel syndrome (IBS) poses many challenges
 ---
 
 ## Effect of dietary selenium intake on gut microbiota in older population in Enshi region.
- 14.12.2021, _ZX Zhang, H Xiang, GG Sun, YH Yang, C Chen, T Li_
+ 17.12.2021, _ZX Zhang, H Xiang, GG Sun, YH Yang, C Chen, T Li_
 
 
 The microbial ecosystem in the human gut varies between individuals with differences in diet. Selenium is one of most common trace elements in everyday diet, and selenium intake affects the human gut microbiota. We studied the effect of selenium intake on the gut microbiota in regions of Enshi with different distributions of selenium.
