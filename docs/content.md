@@ -328,9 +328,15 @@ The microbial ecosystem in the human gut varies between individuals with differe
 
 ---
 
-## Enhancing Microbiome Research through Genome-Scale Metabolic Modeling
+## Enhancing Microbiome Research through Genome-Scale Metabolic Modeling.
+ 14.12.2021, _NYD Ankrah, DB Bernstein, M Biggs, M Carey, M Engevik, B García-Jiménez, M Lakshmanan, AR Pacheco, S Sulheim, GL Medlock_
+
+
+Construction and analysis of genome-scale metabolic models (GEMs) is a well-established systems biology approach that can be used to predict metabolic and growth phenotypes. The ability of GEMs to produce mechanistic insight into microbial ecological processes makes them appealing tools that can open a range of exciting opportunities in microbiome research. Here, we briefly outline these opportunities, present current rate-limiting challenges for the trustworthy application of GEMs to microbiome research, and suggest approaches for moving the field forward.
 
 [Source](https://doi.org/10.1128/mSystems.00599-21)
+
+10.1128/mSystems.00599-21
 
 ---
 
