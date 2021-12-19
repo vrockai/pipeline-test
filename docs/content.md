@@ -54,7 +54,7 @@ Postdural puncture headache (PDPH) develops due to puncture of the dura mater. T
 ---
 
 ## Stability of healthy subgingival microbiome across space and time.
- 15.12.2021, _R Tamashiro, L Strange, K Schnackenberg, J Santos, H Gadalla, L Zhao, EC Li, E Hill, B Hill, G Sidhu, M Kirst, C Walker, GP Wang_
+ 18.12.2021, _R Tamashiro, L Strange, K Schnackenberg, J Santos, H Gadalla, L Zhao, EC Li, E Hill, B Hill, G Sidhu, M Kirst, C Walker, GP Wang_
 
 
 The subgingival microbiome is one of the most stable microbial ecosystems in the human body. Alterations in the subgingival microbiome have been associated with periodontal disease, but their variations over time and between different subgingival sites in periodontally healthy individuals have not been well described. We performed extensive, longitudinal sampling of the subgingival microbiome from five periodontally healthy individuals to define baseline spatial and temporal variations. A total of 251 subgingival samples from 5 subjects were collected over 6-12 months and deep sequenced. The overall microbial diversity and composition differed significantly between individuals. Within each individual, we observed considerable differences in microbiome composition between different subgingival sites. However, for a given site, the microbiome was remarkably stable over time, and this stability was associated with increased microbial diversity but was inversely correlated with the enrichment of putative periodontal pathogens. In contrast to microbiome composition, the predicted functional metagenome was similar across space and time, suggesting that periodontal health is associated with shared gene functions encoded by different microbiome consortia that are individualized. To our knowledge, this is one of the most detailed longitudinal analysis of the healthy subgingival microbiome to date that examined the longitudinal variability of different subgingival sites within individuals. These results suggest that a single measurement of the healthy subgingival microbiome at a given site can provide long term information of the microbial composition and functional potential, but sampling of each site is necessary to define the composition and community structure at individual subgingival sites.
@@ -168,7 +168,7 @@ Traditional laboratory markers, such as white blood cell count, C-reactive prote
 ---
 
 ## The role of anaerobic bacteria in the development and prevention of colorectal cancer: A review study.
- 15.12.2021, _M Mohammadi, H Mirzaei, M Motallebi_
+ 18.12.2021, _M Mohammadi, H Mirzaei, M Motallebi_
 
 
 Colorectal cancer (CRC) is the third most frequently diagnosed cancer in both males and females in the Unites States. Colonoscopy is considered a safe method for screening this disorder; however, it can be challenging for patients. As research on microbiota, especially anaerobic microbiota, has expanded substantially, new links have been determined between anaerobic bacteria and CRC progression. These associations can be useful in screening CRC in the near future. This review discusses current research investigating the presence of anaerobic bacteria, including Bacteroides fragilis, Peptostreptococcus anaerobius, Clostridium septicum, Porphyromonas gingivalis, Fusobacterium nucleatum, and Parvimonas micra in CRC and presents an overview about their mechanisms of action. We also discuss the current anaerobic probiotics used for the treatment and prevention of CRC.
@@ -192,7 +192,7 @@ To review recent data on the microbiome of the lungs and how it changes with the
 ---
 
 ## Gut microbiota modulation as a possible mediating mechanism for fasting-induced alleviation of metabolic complications: a systematic review.
- 15.12.2021, _P Angoorani, HS Ejtahed, S Hasani-Ranjbar, SD Siadat, AR Soroush, B Larijani_
+ 18.12.2021, _P Angoorani, HS Ejtahed, S Hasani-Ranjbar, SD Siadat, AR Soroush, B Larijani_
 
 
 Intermittent fasting has been reported to have positive effects on obesity, diabetes, cardiovascular diseases, hypertension, and several neurodegenerative diseases through different mechanisms such as alteration in the gut microbiota. This systematic review was conducted with the aim of providing an overview of the existing animal and human literature regarding the gut microbiota alterations in various fasting regimens.
@@ -280,9 +280,15 @@ The microbial ecosystem in the human gut varies between individuals with differe
 
 ---
 
-## You are more than what you eat: potentially adaptive enrichment of microbiome functions across bat dietary niches
+## You are more than what you eat: potentially adaptive enrichment of microbiome functions across bat dietary niches.
+ 17.12.2021, _MR Ingala, NB Simmons, M Dunbar, C Wultsch, K Krampis, SL Perkins_
+
+
+Animals evolved in a microbial world, and their gut microbial symbionts have played a role in their ecological diversification. While many recent studies report patterns of phylosymbiosis between hosts and their gut bacteria, fewer studies examine the potentially adaptive functional contributions of these microbes to the dietary habits of their hosts. In this study, we examined predicted metabolic pathways in the gut bacteria of more than 500 individual bats belonging to 60 species and compare the enrichment of these functions across hosts with distinct dietary ecologies.
 
 [Source](https://doi.org/10.1186/s42523-021-00139-8)
+
+10.1186/s42523-021-00139-8
 
 ---
 
@@ -292,9 +298,15 @@ The microbial ecosystem in the human gut varies between individuals with differe
 
 ---
 
-## The Edible Plant Microbiome represents a diverse genetic reservoir with functional potential in the human host
+## The Edible Plant Microbiome represents a diverse genetic reservoir with functional potential in the human host.
+ 16.12.2021, _MJ Soto-Giron, JN Kim, E Schott, C Tahmin, T Ishoey, TJ Mincer, J DeWalt, G Toledo_
+
+
+Plant microbiomes have been extensively studied for their agricultural relevance on growth promotion and pathogenesis, but little is known about their role as part of the diet when fresh fruits and vegetables are consumed raw. Most studies describing these communities are based on 16S rRNA gene amplicon surveys, limiting our understanding of the taxonomic resolution at the species level and functional capabilities. In this study, we characterized microbes colonizing tomatoes, spinach, brined olives, and dried figs using shotgun metagenomics. We recovered metagenome-assembled genomes of novel lactic acid bacteria from green olives and identified high intra- and inter-specific diversity of Pseudomonas in tomatoes. All samples were colonized by Pseudomonas, consistent with other reports with distinct community structure. Functional characterization showed the presence of enzymes involved in vitamin and short chain fatty acid metabolism and degradation of diverse carbohydrate substrates including plant fibers. The dominant bacterial members were isolated, sequenced, and mapped to its metagenome confirming their identity and indicating the microbiota is culturable. Our results reveal high genetic diversity, previously uncultured genera, and specific functions reflecting a likely plant host association. This study highlights the potential that plant microbes can play when consumed as part of our diet and proposes these as transient contributors to the gut microbiome.
 
 [Source](https://doi.org/10.1038/s41598-021-03334-4)
+
+10.1038/s41598-021-03334-4
 
 ---
 
@@ -304,9 +316,15 @@ The microbial ecosystem in the human gut varies between individuals with differe
 
 ---
 
-## Multitrophic Interactions Between Arbuscular Mycorrhizal Fungi, Foliar Endophytic Fungi and Aphids
+## Multitrophic Interactions Between Arbuscular Mycorrhizal Fungi, Foliar Endophytic Fungi and Aphids.
+ 14.12.2021, _NA Razak, AC Gange_
+
+
+Almost all living plants can be simultaneously colonised by arbuscular mycorrhizal fungi in the roots and endophytes in the shoots, while also being attacked by insect herbivores. However, to date, no study has ever examined the multitrophic interactions between these two different fungal groups and insects on any species of forb. Here, we examined the effects of two commercial species mixtures of arbuscular mycorrhizal fungi (AMF) and two foliar endophytes (Colletotrichum acutatum and Cladosporium oxysporum) on the growth of an invasive weed, Impatiens glandulifera, and the aphids that attack it. AMF reduced plant biomass, which was most evident when C. oxysporum was inoculated. Mycorrhizal fungi had few effects on aphids, and these depended on the identity of the endophytes present. Meanwhile, endophytes tended to increase aphid numbers, but this depended on the identity of the AMF inoculum. Throughout, there were differences in the responses of the plant to the two mycorrhizal mixtures, demonstrating clear AMF specificity in this plant. These specific effects were also strongly affected by the endophytes, with a greater number of interactions found between the AMF and endophytes than between the endophytes themselves. In particular, AMF reduced infection levels by the endophytes, while some endophyte inoculations reduced mycorrhizal colonisation. We suggest that both AMF and endophytes could play an important part in future biological control programmes of weeds, but further multitrophic experiments are required to unravel the complexity of interactions between spatially separated parts of the plant microbiome.
 
 [Source](https://doi.org/10.1007/s00248-021-01937-y)
+
+10.1007/s00248-021-01937-y
 
 ---
 
@@ -316,21 +334,39 @@ The microbial ecosystem in the human gut varies between individuals with differe
 
 ---
 
-## Evaluation of Sample Preservation and Storage Methods for Metaproteomics Analysis of Intestinal Microbiomes
+## Evaluation of Sample Preservation and Storage Methods for Metaproteomics Analysis of Intestinal Microbiomes.
+ 18.12.2021, _A Mordant, M Kleiner_
+
+
+A critical step in studies of the intestinal microbiome using meta-omics approaches is the preservation of samples before analysis. Preservation is essential for approaches that measure gene expression, such as metaproteomics, which is used to identify and quantify proteins in microbiomes. Intestinal microbiome samples are typically stored by flash-freezing and storage at -80°C, but some experimental setups do not allow for immediate freezing of samples. In this study, we evaluated methods to preserve fecal microbiome samples for metaproteomics analyses when flash-freezing is not possible. We collected fecal samples from C57BL/6 mice and stored them for 1 and 4 weeks using the following methods: flash-freezing in liquid nitrogen, immersion in RNAlater, immersion in 95% ethanol, immersion in a RNAlater-like buffer, and combinations of these methods. After storage, we extracted protein and prepared peptides for liquid chromatography with tandem mass spectrometry (LC-MS/MS) analysis to identify and quantify peptides and proteins. All samples produced highly similar metaproteomes, except for ethanol-preserved samples that were distinct from all other samples in terms of protein identifications and protein abundance profiles. Flash-freezing and RNAlater (or RNAlater-like treatments) produced metaproteomes that differed only slightly, with less than 0.7% of identified proteins differing in abundance. In contrast, ethanol preservation resulted in an average of 9.5% of the identified proteins differing in abundance between ethanol and the other treatments. Our results suggest that preservation at room temperature in RNAlater or an RNAlater-like solution performs as well as freezing for the preservation of intestinal microbiome samples before metaproteomics analyses. IMPORTANCE Metaproteomics is a powerful tool to study the intestinal microbiome. By identifying and quantifying a large number of microbial, dietary, and host proteins in microbiome samples, metaproteomics provides direct evidence of the activities and functions of microbial community members. A critical step for metaproteomics workflows is preserving samples before analysis because protein profiles are susceptible to fast changes in response to changes in environmental conditions (air exposure, temperature changes, etc.). This study evaluated the effects of different preservation treatments on the metaproteomes of intestinal microbiome samples. In contrast to prior work on preservation of fecal samples for metaproteomics analyses, we ensured that all steps of sample preservation were identical so that all differences could be attributed to the preservation method.
 
 [Source](https://doi.org/10.1128/Spectrum.01877-21)
 
+10.1128/Spectrum.01877-21
+
 ---
 
-## Sample Processing for Metaproteomic Analysis of Human Gut Microbiota
+## Sample Processing for Metaproteomic Analysis of Human Gut Microbiota.
+ 15.12.2021, _C García-Durán, R Martínez-López, L Monteoliva, C Gil_
+
+
+Human gut microbiota can be studied through the characterization of microorganisms present in feces. Metaproteomics has arisen as a good approach to investigate this vast community. However, the processing of fecal samples in order to obtain the largest number of proteins from gut microbiota to be subsequently analyzed by means of metaproteomics is a challenge. Here we describe a protocol to approach this task. It includes two main steps: the first step of humectation and dispersion of the feces, followed by the separation of microorganisms from other fecal components such as roughage and food debris, and the second step in which microbial cells are broken up and microbiota proteins recovered for MS analysis. Detailed procedures for sample preparation, protein extraction, trypsin digestion, and mass spectrometry analysis for gut microbiota samples are provided.
 
 [Source](https://doi.org/10.1007/978-1-0716-1936-0_5)
 
+10.1007/978-1-0716-1936-0_5
+
 ---
 
-## Enhancing Microbiome Research through Genome-Scale Metabolic Modeling
+## Enhancing Microbiome Research through Genome-Scale Metabolic Modeling.
+ 14.12.2021, _NYD Ankrah, DB Bernstein, M Biggs, M Carey, M Engevik, B García-Jiménez, M Lakshmanan, AR Pacheco, S Sulheim, GL Medlock_
+
+
+Construction and analysis of genome-scale metabolic models (GEMs) is a well-established systems biology approach that can be used to predict metabolic and growth phenotypes. The ability of GEMs to produce mechanistic insight into microbial ecological processes makes them appealing tools that can open a range of exciting opportunities in microbiome research. Here, we briefly outline these opportunities, present current rate-limiting challenges for the trustworthy application of GEMs to microbiome research, and suggest approaches for moving the field forward.
 
 [Source](https://doi.org/10.1128/mSystems.00599-21)
+
+10.1128/mSystems.00599-21
 
 ---
 
