@@ -100,9 +100,15 @@
 
 ---
 
-## Divergence together with microbes: A comparative study of the associated microbiomes in the closely related Littorina species
+## Divergence together with microbes: A comparative study of the associated microbiomes in the closely related Littorina species.
+ 21.12.2021, _AL Maltseva, MA Varfolomeeva, ER Gafarova, MAZ Panova, NA Mikhailova, AI Granovitch_
+
+
+Any multicellular organism during its life is involved in relatively stable interactions with microorganisms. The organism and its microbiome make up a holobiont, possessing a unique set of characteristics and evolving as a whole system. This study aimed to evaluate the degree of the conservativeness of microbiomes associated with intertidal gastropods. We studied the composition and the geographic and phylogenetic variability of the gut and body surface microbiomes of five closely related sympatric Littorina (Neritrema) spp. and a more distant species, L. littorea, from the sister subgenus Littorina (Littorina). Although snail-associated microbiomes included many lineages (207-603), they were dominated by a small number of OTUs of the genera Psychromonas, Vibrio, and Psychrilyobacter. The geographic variability was greater than the interspecific differences at the same collection site. While the microbiomes of the six Littorina spp. did not differ at the high taxonomic level, the OTU composition differed between groups of cryptic species and subgenera. A few species-specific OTUs were detected within the collection sites; notably, such OTUs never dominated microbiomes. We conclude that the composition of the high-rank taxa of the associated microbiome ("scaffolding enterotype") is more evolutionarily conserved than the composition of the low-rank individual OTUs, which may be site- and / or species-specific.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260792)
+
+10.1371/journal.pone.0260792
 
 ---
 
