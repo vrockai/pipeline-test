@@ -100,9 +100,15 @@
 
 ---
 
-## Divergence together with microbes: A comparative study of the associated microbiomes in the closely related Littorina species
+## Divergence together with microbes: A comparative study of the associated microbiomes in the closely related Littorina species.
+ 23.12.2021, _AL Maltseva, MA Varfolomeeva, ER Gafarova, MAZ Panova, NA Mikhailova, AI Granovitch_
+
+
+Any multicellular organism during its life is involved in relatively stable interactions with microorganisms. The organism and its microbiome make up a holobiont, possessing a unique set of characteristics and evolving as a whole system. This study aimed to evaluate the degree of the conservativeness of microbiomes associated with intertidal gastropods. We studied the composition and the geographic and phylogenetic variability of the gut and body surface microbiomes of five closely related sympatric Littorina (Neritrema) spp. and a more distant species, L. littorea, from the sister subgenus Littorina (Littorina). Although snail-associated microbiomes included many lineages (207-603), they were dominated by a small number of OTUs of the genera Psychromonas, Vibrio, and Psychrilyobacter. The geographic variability was greater than the interspecific differences at the same collection site. While the microbiomes of the six Littorina spp. did not differ at the high taxonomic level, the OTU composition differed between groups of cryptic species and subgenera. A few species-specific OTUs were detected within the collection sites; notably, such OTUs never dominated microbiomes. We conclude that the composition of the high-rank taxa of the associated microbiome ("scaffolding enterotype") is more evolutionarily conserved than the composition of the low-rank individual OTUs, which may be site- and / or species-specific.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260792)
+
+10.1371/journal.pone.0260792
 
 ---
 
@@ -125,7 +131,7 @@ We tested the hypothesis that dietary pomegranate extract (PomX) supplementation
 ---
 
 ## Clinical health issues, reproductive hormones, and metabolic hormones associated with gut microbiome structure in African and Asian elephants.
- 21.12.2021, _MM Keady, N Prado, HC Lim, J Brown, S Paris, CR Muletz-Wolz_
+ 23.12.2021, _MM Keady, N Prado, HC Lim, J Brown, S Paris, CR Muletz-Wolz_
 
 
 The gut microbiome is important to immune health, metabolism, and hormone regulation. Understanding host-microbiome relationships in captive animals may lead to mediating long term health issues common in captive animals. For instance, zoo managed African elephants (Loxodonta africana) and Asian elephants (Elephas maximus) experience low reproductive rates, high body condition, and gastrointestinal (GI) issues. We leveraged an extensive collection of fecal samples and health records from the Elephant Welfare Study conducted across North American zoos in 2012 to examine the link between gut microbiota and clinical health issues, reproductive hormones, and metabolic hormones in captive elephants. We quantified gut microbiomes of 69 African and 48 Asian elephants from across 50 zoos using Illumina sequencing of the 16S rRNA bacterial gene.
@@ -137,7 +143,7 @@ The gut microbiome is important to immune health, metabolism, and hormone regula
 ---
 
 ## Early life skin microbial trajectory as a function of vertical and environmental transmission in Bornean foam-nesting frogs.
- 21.12.2021, _S McGrath-Blaser, M Steffen, TU Grafe, M Torres-Sánchez, DS McLeod, CR Muletz-Wolz_
+ 23.12.2021, _S McGrath-Blaser, M Steffen, TU Grafe, M Torres-Sánchez, DS McLeod, CR Muletz-Wolz_
 
 
 The amphibian skin microbiome is an important mediator of host health and serves as a potential source of undiscovered scientifically significant compounds. However, the underlying modalities of how amphibian hosts obtain their initial skin-associated microbiome remains unclear. Here, we explore microbial transmission patterns in foam-nest breeding tree frogs from Southeast Asia (Genus: Polypedates) whose specialized breeding strategy allows for better delineation between vertically and environmentally derived microbes. To facilitate this, we analyzed samples associated with adult frog pairs taken after mating-including adults of each sex, their foam nests, environments, and tadpoles before and after environmental interaction-for the bacterial communities using DNA metabarcoding data (16S rRNA). Samples were collected from frogs in-situ in Brunei, Borneo, a previously unsampled region for amphibian-related microbial diversity.
