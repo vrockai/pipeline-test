@@ -1,156 +1,174 @@
-## Unconstrained coevolution of bacterial size and the latent period of plastic phage
+## Dietary fiber and probiotics influence the gut microbiome and melanoma immunotherapy response.
+ 23.12.2021, _CN Spencer, JL McQuade, V Gopalakrishnan, JA McCulloch, M Vetizou, AP Cogdill, MAW Khan, X Zhang, MG White, CB Peterson, MC Wong, G Morad, T Rodgers, JH Badger, BA Helmink, MC Andrews, RR Rodrigues, A Morgun, YS Kim, J Roszik, KL Hoffman, J Zheng, Y Zhou, YB Medik, LM Kahn, S Johnson, CW Hudgens, K Wani, PO Gaudreau, AL Harris, MA Jamal, EN Baruch, E Perez-Guijarro, CP Day, G Merlino, B Pazdrak, BS Lochmann, RA Szczepaniak-Sloane, R Arora, J Anderson, CM Zobniw, E Posada, E Sirmans, J Simon, LE Haydu, EM Burton, L Wang, M Dang, K Clise-Dwyer, S Schneider, T Chapman, NAS Anang, S Duncan, J Toker, JC Malke, IC Glitza, RN Amaria, HA Tawbi, A Diab, MK Wong, SP Patel, SE Woodman, MA Davies, MI Ross, JE Gershenwald, JE Lee, P Hwu, V Jensen, Y Samuels, R Straussman, NJ Ajami, KC Nelson, L Nezi, JF Petrosino, PA Futreal, AJ Lazar, J Hu, RR Jenq, MT Tetzlaff, Y Yan, WS Garrett, C Huttenhower, P Sharma, SS Watowich, JP Allison, L Cohen, G Trinchieri, CR Daniel, JA Wargo_
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.19.473366v1.abstract)
 
----
+[Figure: see text].
 
-## Not a ‘they’ but a ‘we’: the microbiome helps promote our well-being
+[Source](https://doi.org/10.1126/science.aaz7015)
 
-[Source](https://www.jbc.org/article/S0021-9258(21)01321-1/fulltext)
-
----
-
-## Microbial metabolite delta-valerobetaine is a diet-dependent obesogen
-
-[Source](https://www.nature.com/articles/s42255-021-00502-8)
+10.1126/science.aaz7015
 
 ---
 
-## 5 years of microbial biotechnology: the time has come to think big—and act soon
+## Association of the gut microbiota and fecal short-chain fatty acids with skeletal muscle mass and strength in children.
+ 23.12.2021, _F Chen, Q Li, Y Chen, Y Wei, J Liang, Y Song, L Shi, J Wang, L Mao, B Zhang, Z Zhang_
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.13993)
 
----
+We aimed to investigate whether the gut microbiota and fecal short-chain fatty acids (SCFAs) are associated with skeletal muscle mass and strength in healthy Chinese children aged 6-9 years. In this study, 412 children were enrolled. 16S rRNA gene sequencing was used to characterize the gut microbiota compositions. Fecal SCFAs were quantified using high-performance liquid chromatography. Dual X-ray absorptiometry was used to measure the total body lean soft tissue mass (TSM), total body fat mass (TBF), appendicular skeletal muscle mass (ASM), and appendicular fat mass (AFM). TSM/height2 (TSMI), ASM/height2 (ASMI), TSM/weight (TSMR), ASM/weight (ASMR), and the ratio of TSM/TBF and ASM/AFM were calculated. Handgrip strength (HGS) was measured using the Jamar® Plus+ Hand Dynamometer. A multiple regression analysis after adjustment for covariates and multiple test correction showed some operational taxonomic units in partial least squares models identified by Multivariate methods with Unbiased Variable selection analysis such as genera of Faecalibacterium, Lachnospira, Lachnospiraceae_ND3007_group, and Lachnospiraceae_UCG-004 were positively correlated with at least one measure of TSM, TSMI, ASM, ASMI, and ASMI Z-score (β: 0.103-0.143, pFDR : .008-.032) but negatively correlated with at least one measure of TSMR, TSM/TBF, ASMR, ASM/AFM, and ASMR Z-score (β: -0.185 to 0.124, pFDR = .008-.045). Children with higher fecal butyric acid, acetic acid, and total SCFA levels exhibited higher TSM, ASM, TSMI, ASMI, and ASMI Z-score and lower TSM/TBF, ASM/AFM, TSMR, ASMR, and ASMR Z-score. However, after additional adjustment for TBF or body mass index, only the associations for Faecalitalea and Pyramidobacter still existed. Mediation analysis suggested that total body fat significantly mediated 66.3%-95.3% of the estimated association of microbiota and SCFAs with TSM, ASM, and ASMI Z-score. Our results suggest that the associations of gut microbiota and SCFAs with skeletal muscle quality in children may largely depend upon on total body fat content.
 
-## Microbial community networks across body sites are associated with susceptibility to respiratory infections in infants
+[Source](https://doi.org/10.1096/fj.202002697RRR)
 
-[Source](https://www.nature.com/articles/s42003-021-02755-1)
-
----
-
-## Profiling the oral microbiomes in patients with Alzheimer’s disease
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/odi.14110)
+10.1096/fj.202002697RRR
 
 ---
 
-## Human Skin Microbiota in Health and Disease
+## Characteristics of Fecal Microbiota and Machine Learning Strategy for Fecal Invasive Biomarkers in Pediatric Inflammatory Bowel Disease
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/apm.13201)
-
----
-
-## Human implantation: The complex interplay between endometrial receptivity, inflammation, and the microbiome
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0143400421006640)
+[Source](https://doi.org/10.3389/fcimb.2021.711884)
 
 ---
 
-## Large-scale characterisation of the pregnancy vaginal microbiome and sialidase activity in a low-risk Chinese population
+## The microbial <em>gbu</em> gene cluster links cardiovascular disease risk associated with red meat consumption to microbiota L-carnitine catabolism
 
-[Source](https://www.nature.com/articles/s41522-021-00261-0)
-
----
-
-## The potential of gut microbiome as a non-invasive predictive biomarker for early detection of pancreatic cancer and hepatocellular carcinoma
-
-[Source](https://www.europeanreview.org/article/27421)
+[Source](https://doi.org/10.1038/s41564-021-01010-x)
 
 ---
 
-## The effect of antibiotics on the human microbiome: a systematic review
+## Gut Microbiota Exceeds Cervical Microbiota for Early Diagnosis of Endometriosis
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0924857921013431)
-
----
-
-## Non-alcoholic fatty liver disease: the interplay between metabolism, microbes and immunity
-
-[Source](https://www.nature.com/articles/s42255-021-00501-9)
+[Source](https://doi.org/10.3389/fcimb.2021.788836)
 
 ---
 
-## Clinical efficacy of fecal microbial transplantation treatment in adults with moderate-to-severe atopic dermatitis
+## Natural selection for imprecise vertical transmission in host-microbiota systems
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/iid3.570)
-
----
-
-## Deviated and early unsustainable stunted development of gut microbiota in children with autism spectrum disorder
-
-[Source](https://gut.bmj.com/content/early/2021/12/20/gutjnl-2021-325115)
+[Source](https://doi.org/10.1038/s41559-021-01593-y)
 
 ---
 
-## Oat Fiber Modulates Hepatic Circadian Clock via Promoting Gut Microbiota-Derived Short Chain Fatty Acids
+## Comparison of the airway microbiota in children with chronic suppurative lung disease
 
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c06130)
-
----
-
-## Effects of sublethal azadirachtin on the immune response and midgut microbiome of Apis cerana cerana (Hymenoptera: Apidae)
-
-[Source](https://www.sciencedirect.com/science/article/pii/S014765132101201X)
+[Source](https://doi.org/10.1136/bmjresp-2021-001106)
 
 ---
 
-## Analysis of the microbial diversity in the fecal material of the critically endangered African wild dog, Lycaon pictus
+## VicRK and CovR polymorphisms in <em>Streptococcus mutans</em> strains associated with cardiovascular infections
 
-[Source](https://link.springer.com/article/10.1007%2Fs00203-021-02678-9)
-
----
-
-## Divergence together with microbes: A comparative study of the associated microbiomes in the closely related Littorina species
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260792)
+[Source](https://doi.org/10.1099/jmm.0.001457)
 
 ---
 
-## Gut microbiome composition, not alpha diversity, is associated with survival in a natural vertebrate population
+## Oral Colonization by <em>Entamoeba gingivalis</em> and <em>Trichomonas tenax</em>: A PCR-Based Study in Health, Gingivitis, and Periodontitis
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00149-6)
-
----
-
-## Clinical health issues, reproductive hormones, and metabolic hormones associated with gut microbiome structure in African and Asian elephants
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00146-9)
+[Source](https://doi.org/10.3389/fcimb.2021.782805)
 
 ---
 
-## Early life skin microbial trajectory as a function of vertical and environmental transmission in Bornean foam-nesting frogs
+## Probiotics Evaluation in Oncological Surgery: A Systematic Review of 36 Randomized Controlled Trials Assessing 21 Diverse Formulations
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00147-8)
-
----
-
-## [PRERPINT]Disentangling the genetic basis of rhizosphere microbiome assembly in tomato
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.20.473370v1.abstract)
+[Source](https://doi.org/10.3390/curroncol28060435)
 
 ---
 
-## Amino acid availability determines plant immune homeostasis in the rhizosphere microbiome
+## Untangling human milk oligosaccharides and infant gut microbiome
 
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.20.473424v1.abstract)
-
----
-
-## Ancient Metagenomic Studies: Considerations for the Wider Scientific Community
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.01315-21)
+[Source](https://doi.org/10.1016/j.isci.2021.103542)
 
 ---
 
-## Assessing the impact of storage time on the stability of stool microbiota richness, diversity, and composition.
- 21.12.2021, _EA Holzhausen, M Nikodemova, CL Deblois, JH Barnet, PE Peppard, G Suen, KM Malecki_
+## Periodontal Disease: The Good, The Bad, and The Unknown
+
+[Source](https://doi.org/10.3389/fcimb.2021.766944)
+
+---
+
+## Clinical implications of preterm infant gut microbiome development
+
+[Source](https://doi.org/10.1038/s41564-021-01025-4)
+
+---
+
+## Genomic characterization of the dominating Beta variant carrying vaccinated (Oxford-AstraZeneca) and non-vaccinated COVID-19 patient samples in Bangladesh: A metagenomics and whole genome approach.
+ 23.12.2021, _MM Rahaman, MMH Sarkar, MS Rahman, MR Islam, I Islam, O Saha, S Akter, TA Banu, I Jahan, MA Habib, B Goswami, L Bari, MA Malek, MS Khan_
 
 
-New technologies like next-generation sequencing have led to a proliferation of studies investigating the role of the gut microbiome in human health, particularly population-based studies that rely upon participant self-collection of samples. However, the impact of methodological differences in sample shipping, storage, and processing are not well-characterized for these types of studies, especially when transit times may exceed 24 h. The aim of this study was to experimentally assess microbiota stability in stool samples stored at 4 °C for durations of 6, 24, 48, 72, and 96 h with no additives to better understand effects of variable shipping times in population-based studies. These data were compared to a baseline sample that was immediately stored at - 80 °C after stool production.
+Bangladesh experiences a second wave of COVID-19 since March 2021, despite the nationwide vaccination drive with ChAdOx1 (Oxford-AstraZeneca) vaccine from early February 2021. Here, we characterized 19 nasopharyngeal swab (NPS) samples from COVID-19 suspect patients using genomic and metagenomic approach. Screening for SARS-CoV-2 by RT-PCR and metagenomic sequencing revealed 17 samples of COVID-19 positive (vaccinated=10, non-vaccinated=7) and 2 samples of COVID-19 negative. We did not find any significant correlation between associated factors including vaccination status, age or sex of the patients, diversity or abundance of the co-infected organisms/pathogens, and the abundance of SARS-CoV-2. Though the first wave of the pandemic was dominated by clade 20B, Beta,V2 (South African variant) dominated the second wave (January 2021 to May 2021), while the third wave (May 2021 to September 2021) was responsible for Delta variants of the epidemic in Bangladesh including both vaccinated and unvaccinated infections. Noteworthy, the RBD region of S protein of all the isolates harbored similar substitutions including K417N, E484K and N501Y that signify the Beta, while D614G, D215G, D80A, A67V, L18F and A701V substitutions were commonly found in the non-RBD region of Spike proteins. ORF7b and ORF3a genes underwent a positive selection (dN/dS ratio 1.77 and 1.24, respectively), while the overall S protein of the Bangladeshi SARS-CoV-2 isolates underwent negative selection pressure (dN/dS=0.621). Furthermore, we found different bacterial co-infection like Streptococcus agalactiae, Neisseria meningitidis, Elizabethkingia anophelis, Stenotrophomonas maltophilia, Klebsiella pneumoni and Pseudomonas plecoglossicida, expressing a number of antibiotic resistance genes such as tetA and tetM. Overall, this approach provides valuable insights on the SARS-CoV-2 genomes and microbiome composition from both vaccinated and non-vaccinated patients in Bangladesh. This article is protected by copyright. All rights reserved.
 
-[Source](https://gutpathogens.biomedcentral.com/articles/10.1186/s13099-021-00470-0)
+[Source](https://doi.org/10.1002/jmv.27537)
 
-10.1186/s13099-021-00470-0
+10.1002/jmv.27537
+
+---
+
+## Concepts and Consequences of a Core Gut Microbiota for Animal Growth and Development.
+ 23.12.2021, _D Perlman, M Martínez-Álvaro, S Moraïs, I Altshuler, LH Hagen, E Jami, R Roehe, PB Pope, I Mizrahi_
+
+
+Animal microbiomes are occasionally considered as an extension of host anatomy, physiology, and even their genomic architecture. Their compositions encompass variable and constant portions when examined across multiple hosts. The latter, termed the core microbiome, is viewed as more accommodated to its host environment and suggested to benefit host fitness. Nevertheless, discrepancies in its definitions, characteristics, and importance to its hosts exist across studies. We survey studies that characterize the core microbiome, detail its current definitions and available methods to identify it, and emphasize the crucial need to upgrade and standardize the methodologies among studies. We highlight ruminants as a case study and discuss the link between the core microbiome and host physiology and genetics, as well as potential factors that shape it. We conclude with main directives of action to better understand the host-core microbiome axis and acquire the necessary insights into its controlled modulation. Expected final online publication date for the Annual Review of Animal Biosciences, Volume 10 is February 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+[Source](https://doi.org/10.1146/annurev-animal-013020-020412)
+
+10.1146/annurev-animal-013020-020412
+
+---
+
+## Playing by their own rules: the vertebrate archaeome
+
+[Source](https://doi.org/10.1016/j.tim.2021.12.002)
+
+---
+
+## Integration of whole genome sequencing and transcriptomics reveals a complex picture of the reestablishment of insecticide resistance in the major malaria vector <em>Anopheles coluzzii</em>
+
+[Source](https://doi.org/10.1371/journal.pgen.1009970)
+
+---
+
+## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species
+
+[Source](https://doi.org/10.3389/fmicb.2021.760266)
+
+---
+
+## Captivity Influences the Gut Microbiome of <em>Rhinopithecus roxellana</em>
+
+[Source](https://doi.org/10.3389/fmicb.2021.763022)
+
+---
+
+## Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease
+
+[Source](https://doi.org/10.3390/vetsci8120291)
+
+---
+
+## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic
+
+[Source](https://doi.org/10.3390/cimb43030148)
+
+---
+
+## <em>Lactobacillus rhamnosus</em> attenuates Thai chili extracts induced gut inflammation and dysbiosis despite capsaicin bactericidal effect against the probiotics, a possible toxicity of high dose capsaicin
+
+[Source](https://doi.org/10.1371/journal.pone.0261189)
+
+---
+
+## May the dark be with roots: A perspective on how root illumination may bias <em>in vitro</em> research on plant-environment interactions
+
+[Source](https://doi.org/10.1111/nph.17936)
+
+---
+
+## Site and land-use associations of soil bacteria and fungi define core and indicative taxa
+
+[Source](https://doi.org/10.1093/femsec/fiab165)
+
+---
+
+## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data
+
+[Source](https://doi.org/10.3389/fgene.2021.766405)
 
 ---
 
