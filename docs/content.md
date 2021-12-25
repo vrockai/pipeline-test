@@ -11,7 +11,7 @@
 ---
 
 ## Association of the gut microbiota and fecal short-chain fatty acids with skeletal muscle mass and strength in children.
- 23.12.2021, _F Chen, Q Li, Y Chen, Y Wei, J Liang, Y Song, L Shi, J Wang, L Mao, B Zhang, Z Zhang_
+ 24.12.2021, _F Chen, Q Li, Y Chen, Y Wei, J Liang, Y Song, L Shi, J Wang, L Mao, B Zhang, Z Zhang_
 
 
 We aimed to investigate whether the gut microbiota and fecal short-chain fatty acids (SCFAs) are associated with skeletal muscle mass and strength in healthy Chinese children aged 6-9 years. In this study, 412 children were enrolled. 16S rRNA gene sequencing was used to characterize the gut microbiota compositions. Fecal SCFAs were quantified using high-performance liquid chromatography. Dual X-ray absorptiometry was used to measure the total body lean soft tissue mass (TSM), total body fat mass (TBF), appendicular skeletal muscle mass (ASM), and appendicular fat mass (AFM). TSM/height2 (TSMI), ASM/height2 (ASMI), TSM/weight (TSMR), ASM/weight (ASMR), and the ratio of TSM/TBF and ASM/AFM were calculated. Handgrip strength (HGS) was measured using the Jamar® Plus+ Hand Dynamometer. A multiple regression analysis after adjustment for covariates and multiple test correction showed some operational taxonomic units in partial least squares models identified by Multivariate methods with Unbiased Variable selection analysis such as genera of Faecalibacterium, Lachnospira, Lachnospiraceae_ND3007_group, and Lachnospiraceae_UCG-004 were positively correlated with at least one measure of TSM, TSMI, ASM, ASMI, and ASMI Z-score (β: 0.103-0.143, pFDR : .008-.032) but negatively correlated with at least one measure of TSMR, TSM/TBF, ASMR, ASM/AFM, and ASMR Z-score (β: -0.185 to 0.124, pFDR = .008-.045). Children with higher fecal butyric acid, acetic acid, and total SCFA levels exhibited higher TSM, ASM, TSMI, ASMI, and ASMI Z-score and lower TSM/TBF, ASM/AFM, TSMR, ASMR, and ASMR Z-score. However, after additional adjustment for TBF or body mass index, only the associations for Faecalitalea and Pyramidobacter still existed. Mediation analysis suggested that total body fat significantly mediated 66.3%-95.3% of the estimated association of microbiota and SCFAs with TSM, ASM, and ASMI Z-score. Our results suggest that the associations of gut microbiota and SCFAs with skeletal muscle quality in children may largely depend upon on total body fat content.
@@ -64,15 +64,9 @@ We aimed to investigate whether the gut microbiota and fecal short-chain fatty a
 
 ---
 
-## Probiotics Evaluation in Oncological Surgery: A Systematic Review of 36 Randomized Controlled Trials Assessing 21 Diverse Formulations.
- 23.12.2021, _E Cogo, M Elsayed, V Liang, K Cooley, C Guerin, A Psihogios, P Papadogianis_
-
-
-Objectives were to evaluate probiotics safety and efficacy in oncological surgery.
+## Probiotics Evaluation in Oncological Surgery: A Systematic Review of 36 Randomized Controlled Trials Assessing 21 Diverse Formulations
 
 [Source](https://doi.org/10.3390/curroncol28060435)
-
-10.3390/curroncol28060435
 
 ---
 
