@@ -88,15 +88,27 @@ We aimed to investigate whether the gut microbiota and fecal short-chain fatty a
 
 ---
 
-## Genomic characterization of the dominating Beta variant carrying vaccinated (Oxford-AstraZeneca) and non-vaccinated COVID-19 patient samples in Bangladesh: A metagenomics and whole genome approach
+## Genomic characterization of the dominating Beta variant carrying vaccinated (Oxford-AstraZeneca) and non-vaccinated COVID-19 patient samples in Bangladesh: A metagenomics and whole genome approach.
+ 23.12.2021, _MM Rahaman, MMH Sarkar, MS Rahman, MR Islam, I Islam, O Saha, S Akter, TA Banu, I Jahan, MA Habib, B Goswami, L Bari, MA Malek, MS Khan_
+
+
+Bangladesh experiences a second wave of COVID-19 since March 2021, despite the nationwide vaccination drive with ChAdOx1 (Oxford-AstraZeneca) vaccine from early February 2021. Here, we characterized 19 nasopharyngeal swab (NPS) samples from COVID-19 suspect patients using genomic and metagenomic approach. Screening for SARS-CoV-2 by RT-PCR and metagenomic sequencing revealed 17 samples of COVID-19 positive (vaccinated=10, non-vaccinated=7) and 2 samples of COVID-19 negative. We did not find any significant correlation between associated factors including vaccination status, age or sex of the patients, diversity or abundance of the co-infected organisms/pathogens, and the abundance of SARS-CoV-2. Though the first wave of the pandemic was dominated by clade 20B, Beta,V2 (South African variant) dominated the second wave (January 2021 to May 2021), while the third wave (May 2021 to September 2021) was responsible for Delta variants of the epidemic in Bangladesh including both vaccinated and unvaccinated infections. Noteworthy, the RBD region of S protein of all the isolates harbored similar substitutions including K417N, E484K and N501Y that signify the Beta, while D614G, D215G, D80A, A67V, L18F and A701V substitutions were commonly found in the non-RBD region of Spike proteins. ORF7b and ORF3a genes underwent a positive selection (dN/dS ratio 1.77 and 1.24, respectively), while the overall S protein of the Bangladeshi SARS-CoV-2 isolates underwent negative selection pressure (dN/dS=0.621). Furthermore, we found different bacterial co-infection like Streptococcus agalactiae, Neisseria meningitidis, Elizabethkingia anophelis, Stenotrophomonas maltophilia, Klebsiella pneumoni and Pseudomonas plecoglossicida, expressing a number of antibiotic resistance genes such as tetA and tetM. Overall, this approach provides valuable insights on the SARS-CoV-2 genomes and microbiome composition from both vaccinated and non-vaccinated patients in Bangladesh. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1002/jmv.27537)
 
+10.1002/jmv.27537
+
 ---
 
-## Concepts and Consequences of a Core Gut Microbiota for Animal Growth and Development
+## Concepts and Consequences of a Core Gut Microbiota for Animal Growth and Development.
+ 23.12.2021, _D Perlman, M Martínez-Álvaro, S Moraïs, I Altshuler, LH Hagen, E Jami, R Roehe, PB Pope, I Mizrahi_
+
+
+Animal microbiomes are occasionally considered as an extension of host anatomy, physiology, and even their genomic architecture. Their compositions encompass variable and constant portions when examined across multiple hosts. The latter, termed the core microbiome, is viewed as more accommodated to its host environment and suggested to benefit host fitness. Nevertheless, discrepancies in its definitions, characteristics, and importance to its hosts exist across studies. We survey studies that characterize the core microbiome, detail its current definitions and available methods to identify it, and emphasize the crucial need to upgrade and standardize the methodologies among studies. We highlight ruminants as a case study and discuss the link between the core microbiome and host physiology and genetics, as well as potential factors that shape it. We conclude with main directives of action to better understand the host-core microbiome axis and acquire the necessary insights into its controlled modulation. Expected final online publication date for the Annual Review of Animal Biosciences, Volume 10 is February 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-animal-013020-020412)
+
+10.1146/annurev-animal-013020-020412
 
 ---
 
