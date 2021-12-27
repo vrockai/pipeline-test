@@ -22,9 +22,15 @@ We aimed to investigate whether the gut microbiota and fecal short-chain fatty a
 
 ---
 
-## Characteristics of Fecal Microbiota and Machine Learning Strategy for Fecal Invasive Biomarkers in Pediatric Inflammatory Bowel Disease
+## Characteristics of Fecal Microbiota and Machine Learning Strategy for Fecal Invasive Biomarkers in Pediatric Inflammatory Bowel Disease.
+ 25.12.2021, _X Wang, Y Xiao, X Xu, L Guo, Y Yu, N Li, C Xu_
+
+
+Early diagnosis and treatment of pediatric Inflammatory bowel disease (PIBD) is challenging due to the complexity of the disease and lack of disease specific biomarkers. The novel machine learning (ML) technique may be a useful tool to provide a new route for the identification of early biomarkers for the diagnosis of PIBD.
 
 [Source](https://doi.org/10.3389/fcimb.2021.711884)
+
+10.3389/fcimb.2021.711884
 
 ---
 
@@ -34,21 +40,39 @@ We aimed to investigate whether the gut microbiota and fecal short-chain fatty a
 
 ---
 
-## Gut Microbiota Exceeds Cervical Microbiota for Early Diagnosis of Endometriosis
+## Gut Microbiota Exceeds Cervical Microbiota for Early Diagnosis of Endometriosis.
+ 25.12.2021, _L Huang, B Liu, Z Liu, W Feng, M Liu, Y Wang, D Peng, X Fu, H Zhu, Z Cui, L Xie, Y Ma_
+
+
+The diagnosis of endometriosis is typically delayed by years for the unexclusive symptom and the traumatic diagnostic method. Several studies have demonstrated that gut microbiota and cervical mucus potentially can be used as auxiliary diagnostic biomarkers. However, none of the previous studies has compared the robustness of endometriosis classifiers based on microbiota of different body sites or demonstrated the correlation among microbiota of gut, cervical mucus, and peritoneal fluid of endometriosis, searching for alternative diagnostic approaches. Herein, we enrolled 41 women (control, n = 20; endometriosis, n = 21) and collected 122 well-matched samples, derived from feces, cervical mucus, and peritoneal fluid, to explore the nature of microbiome of endometriosis patients. Our results indicated that microbial composition is remarkably distinguished between three body sites, with 19 overlapped taxa. Moreover, endometriosis patients harbor distinct microbial communities versus control group especially in feces and peritoneal fluid, with increased abundance of pathogens in peritoneal fluid and depletion of protective microbes in feces. Particularly, genera of Ruminococcus and Pseudomonas were identified as potential biomarkers in gut and peritoneal fluid, respectively. Furthermore, novel endometriosis classifiers were constructed based on taxa selected by a robust machine learning method. These results demonstrated that gut microbiota exceeds cervical microbiota in diagnosing endometriosis. Collectively, this study reveals important insights into the microbial profiling in different body sites of endometriosis, which warrant future exploration into the role of microbiota in endometriosis and highlighted values on gut microbiota in early diagnosis of endometriosis.
 
 [Source](https://doi.org/10.3389/fcimb.2021.788836)
 
+10.3389/fcimb.2021.788836
+
 ---
 
-## Natural selection for imprecise vertical transmission in host-microbiota systems
+## Natural selection for imprecise vertical transmission in host-microbiota systems.
+ 24.12.2021, _M Bruijning, LP Henry, SKG Forsberg, CJE Metcalf, JF Ayroles_
+
+
+How and when the microbiome modulates host adaptation remains an evolutionary puzzle, despite evidence that the extended genetic repertoire of the microbiome can shape host phenotypes and fitness. One complicating factor is that the microbiome is often transmitted imperfectly across host generations, leading to questions about the degree to which the microbiome contributes to host adaptation. Here, using an evolutionary model, we demonstrate that decreasing vertical transmission fidelity can increase microbiome variation, and thus phenotypic variation, across hosts. When the most beneficial microbial genotypes change unpredictably from one generation to the next (for example, in variable environments), hosts can maximize fitness by increasing the microbiome variation among offspring, as this improves the chance of there being an offspring with the right microbial combination for the next generation. Imperfect vertical transmission can therefore be adaptive in varying environments. We characterize how selection on vertical transmission is shaped by environmental conditions, microbiome changes during host development and the contribution of other factors to trait variation. We illustrate how environmentally dependent microbial effects can favour intermediate transmission and set our results in the context of examples from natural systems. We also suggest research avenues to empirically test our predictions. Our model provides a basis to understand the evolutionary pathways that potentially led to the wide diversity of microbe transmission patterns found in nature.
 
 [Source](https://doi.org/10.1038/s41559-021-01593-y)
 
+10.1038/s41559-021-01593-y
+
 ---
 
-## Comparison of the airway microbiota in children with chronic suppurative lung disease
+## Comparison of the airway microbiota in children with chronic suppurative lung disease.
+ 24.12.2021, _B Ahmed, MJ Cox, L Cuthbertson, P James, L Gardner, W Cookson, J Davies, M Moffatt, A Bush_
+
+
+The airway microbiota is important in chronic suppurative lung diseases, such as primary ciliary dyskinesia (PCD) and cystic fibrosis (CF). This comparison has not previously been described but is important because difference between the two diseases may relate to the differing prognoses and lead to pathological insights and potentially, new treatments.
 
 [Source](https://doi.org/10.1136/bmjresp-2021-001106)
+
+10.1136/bmjresp-2021-001106
 
 ---
 
@@ -76,34 +100,39 @@ Objectives were to evaluate probiotics safety and efficacy in oncological surger
 
 ---
 
-## Untangling human milk oligosaccharides and infant gut microbiome
+## Untangling human milk oligosaccharides and infant gut microbiome.
+ 25.12.2021, _AC Masi, CJ Stewart_
+
+
+The developing gut microbiome in infancy plays a key role in shaping the host immune system and metabolic state, and human milk is the main factor influencing its composition. Human milk does not only serve to feed the baby, but also to help the new-born adapt to its new environment and microbial exposures. Human milk protects the infant by providing multiple bioactive molecules, including human milk oligosaccharides (HMOs), which are the third most abundant solid component after lipids and lactose. The infant is unable to digest HMOs, so they reach the small and large intestines intact where they have many roles, including acting as prebiotics. Bifidobacterium spp. are the main, but not the only, commensals equipped with genes for HMO degradation. In this review we will outline the HMOs structures and functions, list the genes needed for their digestion, and describe the main strategies adopted by bacteria for their utilization.
 
 [Source](https://doi.org/10.1016/j.isci.2021.103542)
 
+10.1016/j.isci.2021.103542
+
 ---
 
-## Periodontal Disease: The Good, The Bad, and The Unknown
+## Periodontal Disease: The Good, The Bad, and The Unknown.
+ 25.12.2021, _LM Sedghi, M Bacino, YL Kapila_
+
+
+Periodontal disease is classically characterized by progressive destruction of the soft and hard tissues of the periodontal complex, mediated by an interplay between dysbiotic microbial communities and aberrant immune responses within gingival and periodontal tissues. Putative periodontal pathogens are enriched as the resident oral microbiota becomes dysbiotic and inflammatory responses evoke tissue destruction, thus inducing an unremitting positive feedback loop of proteolysis, inflammation, and enrichment for periodontal pathogens. Keystone microbial pathogens and sustained gingival inflammation are critical to periodontal disease progression. However, recent studies have revealed the importance of previously unidentified microbes involved in disease progression, including various viruses, phages and bacterial species. Moreover, newly identified immunological and genetic mechanisms, as well as environmental host factors, including diet and lifestyle, have been discerned in recent years as further contributory factors in periodontitis. These factors have collectively expanded the established narrative of periodontal disease progression. In line with this, new ideologies related to maintaining periodontal health and treating existing disease have been explored, such as the application of oral probiotics, to limit and attenuate disease progression. The role of systemic host pathologies, such as autoimmune disorders and diabetes, in periodontal disease pathogenesis has been well noted. Recent studies have additionally identified the reciprocated importance of periodontal disease in potentiating systemic disease states at distal sites, such as in Alzheimer's disease, inflammatory bowel diseases, and oral cancer, further highlighting the importance of the oral cavity in systemic health. Here we review long-standing knowledge of periodontal disease progression while integrating novel research concepts that have broadened our understanding of periodontal health and disease. Further, we delve into innovative hypotheses that may evolve to address significant gaps in the foundational knowledge of periodontal disease.
 
 [Source](https://doi.org/10.3389/fcimb.2021.766944)
 
----
-
-## Determinants of the Very Low-Birth-Weight Infant's Intestinal Microbiome: A Systematic Review.
- 02.07.2021, _K Desorcy-Scherer, MM Bendixen, LA Parker_
-
-
-_Enteral Nutrition, Female, Gastrointestinal Microbiome, Humans, Infant, Extremely Low Birth Weight, Infant, Premature, Milk, Human, Parenteral Nutrition, Pregnancy_
-The intestinal microbiome is the genetic material from microorganisms residing in the intestinal tract. Very low-birth-weight infants (VLBW; birth weight ≤1500 g) are a physiologically compromised population undergoing a unique period of initial intestinal microbiome establishment. Evidence supports a connection between the intestinal microbiome and gastrointestinal illness that disproportionately affects VLBW infants. Necrotizing enterocolitis, an inflammatory and often necrotic condition of the intestine, and late-onset sepsis, a bloodstream infection occurring after 3 days of life, are thought to be associated with delayed or abnormal intestinal microbiome development. Here, we review the determinants, or factors, that influence the VLBW infant's intestinal microbiome and discuss clinical implications. PubMed, Web of Science, EMBASE, and CINAHL were systematically searched for publications addressing factors with the potential to affect the intestinal microbiome of VLBW infants. Results indicate that infant's age and weight, mode of delivery, antibiotic exposure, medication use, feeding regime, environment, and perinatal-/infant-associated factors may be important determinants of the microbiome in this vulnerable population. Clinicians have opportunities to support positive development of the VLBW infant's intestinal microbiome through antibiotic stewardship, support of human milk feeding, and hygienic care practices.
-
-[Source](https://doi.org/10.1038/s41564-021-01025-4)
-
-10.1097/JPN.0000000000000506
+10.3389/fcimb.2021.766944
 
 ---
 
-## Clinical implications of preterm infant gut microbiome development
+## Clinical implications of preterm infant gut microbiome development.
+ 24.12.2021, _DB Healy, CA Ryan, RP Ross, C Stanton, EM Dempsey_
+
+
+Perturbations to the infant gut microbiome during the first weeks to months of life affect growth, development and health. In particular, assembly of an altered intestinal microbiota during infant development results in an increased risk of immune and metabolic diseases that can persist into childhood and potentially into adulthood. Most research into gut microbiome development has focused on full-term babies, but health-related outcomes are also important for preterm babies. The systemic physiological immaturity of very preterm gestation babies (born earlier than 32 weeks gestation) results in numerous other microbiome-organ interactions, the mechanisms of which have yet to be fully elucidated or in some cases even considered. In this Perspective, we compare assembly of the intestinal microbiome in preterm and term infants. We focus in particular on the clinical implications of preterm infant gut microbiome composition and discuss the prospects for microbiome diagnostics and interventions to improve the health of preterm babies.
 
 [Source](https://doi.org/10.1038/s41564-021-01025-4)
+
+10.1038/s41564-021-01025-4
 
 ---
 
@@ -131,9 +160,15 @@ Animal microbiomes are occasionally considered as an extension of host anatomy, 
 
 ---
 
-## Playing by their own rules: the vertebrate archaeome
+## Playing by their own rules: the vertebrate archaeome.
+ 24.12.2021, _SM Hird_
+
+
+In a recent paper, Youngblut et al. used comparative methods to study the archaeal component of the vertebrate microbiome. This study showed that the vertebrate archaeome contains abundant variation, differs from the vertebrate bacteriome and lays a foundation for future comparative studies.
 
 [Source](https://doi.org/10.1016/j.tim.2021.12.002)
+
+10.1016/j.tim.2021.12.002
 
 ---
 
@@ -143,9 +178,15 @@ Animal microbiomes are occasionally considered as an extension of host anatomy, 
 
 ---
 
-## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species
+## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species.
+ 25.12.2021, _T Ofek, M Lalzar, S Laviad-Shitrit, I Izhaki, M Halpern_
+
+
+Intensive freshwater aquaculture in the Spring Valley, Israel, is implemented mainly in earthen fishponds and reservoirs that are stocked with a variety of edible fish species. Here we sampled six different healthy fish species from these intensive aquacultures. The fish were hybrid striped bass, European bass, red drum (all carnivores), hybrid tilapia, flathead grey mullet (both herbivores), and common carp (an omnivore). Significant differences were found among the intestinal microbiota of the six studied fish species. The microbiota composition diversity was strongly related to the trophic level of the fish, such that there was a significant difference between the carnivore and the herbivore species, while the omnivore species was not significantly different from either group. The most abundant genus in the majority of the fishes' intestinal microbiota was Cetobacterium. Furthermore, we found that beside Cetobacterium, a unique combination of taxa with relative abundance &gt;10% characterized the intestine microbiota of each fish species: unclassified Mycoplasmataceae, Aeromonas, and Vibrio (hybrid striped bass); Turicibacter and Clostridiaceae 1 (European bass); Vibrio (red drum); ZOR0006-Firmicutes (hybrid tilapia); unclassified Mycoplasmataceae and unclassified Vibrionaceae (flathead grey mullet); and Aeromonas (common carp). We conclude that each fish species has a specific bacterial genera combination that characterizes it. Moreover, diet and the trophic level of the fish have a major influence on the gut microbiota of healthy fish that grow in intensive freshwater aquaculture.
 
 [Source](https://doi.org/10.3389/fmicb.2021.760266)
+
+10.3389/fmicb.2021.760266
 
 ---
 
@@ -203,9 +244,15 @@ Soil microbial diversity has major influences on ecosystem functions and service
 
 ---
 
-## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data
+## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data.
+ 25.12.2021, _J Ostner, S Carcy, CL Müller_
+
+
+Accurate generative statistical modeling of count data is of critical relevance for the analysis of biological datasets from high-throughput sequencing technologies. Important instances include the modeling of microbiome compositions from amplicon sequencing surveys and the analysis of cell type compositions derived from single-cell RNA sequencing. Microbial and cell type abundance data share remarkably similar statistical features, including their inherent compositionality and a natural hierarchical ordering of the individual components from taxonomic or cell lineage tree information, respectively. To this end, we introduce a Bayesian model for tree-aggregated amplicon and single-cell compositional data analysis (tascCODA) that seamlessly integrates hierarchical information and experimental covariate data into the generative modeling of compositional count data. By combining latent parameters based on the tree structure with spike-and-slab Lasso penalization, tascCODA can determine covariate effects across different levels of the population hierarchy in a data-driven parsimonious way. In the context of differential abundance testing, we validate tascCODA's excellent performance on a comprehensive set of synthetic benchmark scenarios. Our analyses on human single-cell RNA-seq data from ulcerative colitis patients and amplicon data from patients with irritable bowel syndrome, respectively, identified aggregated cell type and taxon compositional changes that were more predictive and parsimonious than those proposed by other schemes. We posit that tascCODA constitutes a valuable addition to the growing statistical toolbox for generative modeling and analysis of compositional changes in microbial or cell population data.
 
 [Source](https://doi.org/10.3389/fgene.2021.766405)
+
+10.3389/fgene.2021.766405
 
 ---
 
