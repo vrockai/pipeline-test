@@ -148,15 +148,27 @@ The airway microbiota is important in chronic suppurative lung diseases, such as
 
 ---
 
-## Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease
+## Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease.
+ 26.12.2021, _R Santibáñez, C Rodríguez-Salas, C Flores-Yáñez, D Garrido, P Thomson_
+
+
+The oral microbiome in dogs is a complex community. Under some circumstances, it contributes to periodontal disease, a prevalent inflammatory disease characterized by a complex interaction between oral microbes and the immune system. Porphyromonas and Tannerella spp. are usually dominant in this disease. How the oral microbiome community is altered in periodontal disease, especially sub-dominant microbial populations is unclear. Moreover, how microbiome functions are altered in this disease has not been studied. In this study, we compared the composition and the predicted functions of the microbiome of the cavity of healthy dogs to those with from periodontal disease. The microbiome of both groups clustered separately, indicating important differences. Periodontal disease resulted in a significant increase in Bacteroidetes and reductions in Actinobacteria and Proteobacteria. Porphyromonas abundance increased 2.7 times in periodontal disease, accompanied by increases in Bacteroides and Fusobacterium. It was predicted that aerobic respiratory processes are decreased in periodontal disease. Enrichment in fermentative processes and anaerobic glycolysis were suggestive of an anaerobic environment, also characterized by higher lipopolysaccharide biosynthesis. This study contributes to a better understanding of how periodontal disease modifies the oral microbiome and makes a prediction of the metabolic pathways that contribute to the inflammatory process observed in periodontal disease.
 
 [Source](https://doi.org/10.3390/vetsci8120291)
 
+10.3390/vetsci8120291
+
 ---
 
-## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic
+## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic.
+ 24.12.2021, _MA Ghannoum, TS McCormick, M Retuerto, G Bebek, S Cousineau, L Hartman, C Barth, K Schrom_
+
+
+Gastrointestinal microbiome dysbiosis may result in harmful effects on the host, including those caused by inflammatory bowel diseases (IBD). The novel probiotic BIOHM, consisting of Bifidobacterium breve, Saccharomyces boulardii, Lactobacillus acidophilus, L. rhamnosus, and amylase, was developed to rebalance the bacterial-fungal gut microbiome, with the goal of reducing inflammation and maintaining a healthy gut population. To test the effect of BIOHM on human subjects, we enrolled a cohort of 49 volunteers in collaboration with the Fermentation Festival group (Santa Barbara, CA, USA). The profiles of gut bacterial and fungal communities were assessed via stool samples collected at baseline and following 4 weeks of once-a-day BIOHM consumption. Mycobiome analysis following probiotic consumption revealed an increase in Ascomycota levels in enrolled individuals and a reduction in Zygomycota levels (p value &lt; 0.01). No statistically significant difference in Basidiomycota was detected between pre- and post-BIOHM samples and control abundance profiles (p &gt; 0.05). BIOHM consumption led to a significant reduction in the abundance of Candida genus in tested subjects (p value &lt; 0.013), while the abundance of C. albicans also trended lower than before BIOHM use, albeit not reaching statistical significance. A reduction in the abundance of Firmicutes at the phylum level was observed following BIOHM use, which approached levels reported for control individuals reported in the Human Microbiome Project data. The preliminary results from this clinical study suggest that BIOHM is capable of significantly rebalancing the bacteriome and mycobiome in the gut of healthy individuals, suggesting that further trials examining the utility of the BIOHM probiotic in individuals with gastrointestinal symptoms, where dysbiosis is considered a source driving pathogenesis, are warranted.
 
 [Source](https://doi.org/10.3390/cimb43030148)
+
+10.3390/cimb43030148
 
 ---
 
@@ -172,27 +184,15 @@ The airway microbiota is important in chronic suppurative lung diseases, such as
 
 ---
 
-## Site and land-use associations of soil bacteria and fungi define core and indicative taxa.
- 23.12.2021, _G Florian, H Martin, M Johanna, H Anna-Sofia, E Jürg, G Andreas, M Reto G, F Beat, W Franco_
-
-
-Soil microbial diversity has major influences on ecosystem functions and services. However, due to its complexity and uneven distribution of abundant and rare taxa, quantification of soil microbial diversity remains challenging and thereby impeding its integration into long-term monitoring programs. Using metabarcoding, we analyzed soil bacterial and fungal communities at thirty long-term soil monitoring sites from the three land-use types arable land, permanent grassland, and forest with a yearly sampling between snowmelt and first fertilization over five years. Unlike soil microbial biomass and alpha-diversity, microbial community compositions and structures were site- and land-use-specific with CAP reclassification success rates of 100%. The temporally stable site core communities included 38.5% of bacterial and 33.1% of fungal OTUs covering 95.9% and 93.2% of relative abundances. We characterized bacterial and fungal core communities and their land-use associations at the family-level. In general, fungal families revealed stronger land-use associations as compared to bacteria. This is likely due to a stronger vegetation effect on fungal core taxa, while bacterial core taxa were stronger related to soil properties. The assessment of core communities can be used to form cultivation-independent reference lists of microbial taxa, which may facilitate the development of microbial indicators for soil quality and the use of soil microbiota for long-term soil biomonitoring.
+## Site and land-use associations of soil bacteria and fungi define core and indicative taxa
 
 [Source](https://doi.org/10.1093/femsec/fiab165)
 
-10.1093/femsec/fiab165
-
 ---
 
-## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data.
- 25.12.2021, _J Ostner, S Carcy, CL Müller_
-
-
-Accurate generative statistical modeling of count data is of critical relevance for the analysis of biological datasets from high-throughput sequencing technologies. Important instances include the modeling of microbiome compositions from amplicon sequencing surveys and the analysis of cell type compositions derived from single-cell RNA sequencing. Microbial and cell type abundance data share remarkably similar statistical features, including their inherent compositionality and a natural hierarchical ordering of the individual components from taxonomic or cell lineage tree information, respectively. To this end, we introduce a Bayesian model for tree-aggregated amplicon and single-cell compositional data analysis (tascCODA) that seamlessly integrates hierarchical information and experimental covariate data into the generative modeling of compositional count data. By combining latent parameters based on the tree structure with spike-and-slab Lasso penalization, tascCODA can determine covariate effects across different levels of the population hierarchy in a data-driven parsimonious way. In the context of differential abundance testing, we validate tascCODA's excellent performance on a comprehensive set of synthetic benchmark scenarios. Our analyses on human single-cell RNA-seq data from ulcerative colitis patients and amplicon data from patients with irritable bowel syndrome, respectively, identified aggregated cell type and taxon compositional changes that were more predictive and parsimonious than those proposed by other schemes. We posit that tascCODA constitutes a valuable addition to the growing statistical toolbox for generative modeling and analysis of compositional changes in microbial or cell population data.
+## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data
 
 [Source](https://doi.org/10.3389/fgene.2021.766405)
-
-10.3389/fgene.2021.766405
 
 ---
 
