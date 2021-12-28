@@ -88,87 +88,45 @@ The airway microbiota is important in chronic suppurative lung diseases, such as
 
 ---
 
-## Probiotics Evaluation in Oncological Surgery: A Systematic Review of 36 Randomized Controlled Trials Assessing 21 Diverse Formulations.
- 26.12.2021, _E Cogo, M Elsayed, V Liang, K Cooley, C Guerin, A Psihogios, P Papadogianis_
-
-
-Objectives were to evaluate probiotics safety and efficacy in oncological surgery.
+## Probiotics Evaluation in Oncological Surgery: A Systematic Review of 36 Randomized Controlled Trials Assessing 21 Diverse Formulations
 
 [Source](https://doi.org/10.3390/curroncol28060435)
 
-10.3390/curroncol28060435
-
 ---
 
-## Untangling human milk oligosaccharides and infant gut microbiome.
- 25.12.2021, _AC Masi, CJ Stewart_
-
-
-The developing gut microbiome in infancy plays a key role in shaping the host immune system and metabolic state, and human milk is the main factor influencing its composition. Human milk does not only serve to feed the baby, but also to help the new-born adapt to its new environment and microbial exposures. Human milk protects the infant by providing multiple bioactive molecules, including human milk oligosaccharides (HMOs), which are the third most abundant solid component after lipids and lactose. The infant is unable to digest HMOs, so they reach the small and large intestines intact where they have many roles, including acting as prebiotics. Bifidobacterium spp. are the main, but not the only, commensals equipped with genes for HMO degradation. In this review we will outline the HMOs structures and functions, list the genes needed for their digestion, and describe the main strategies adopted by bacteria for their utilization.
+## Untangling human milk oligosaccharides and infant gut microbiome
 
 [Source](https://doi.org/10.1016/j.isci.2021.103542)
 
-10.1016/j.isci.2021.103542
-
 ---
 
-## Periodontal Disease: The Good, The Bad, and The Unknown.
- 25.12.2021, _LM Sedghi, M Bacino, YL Kapila_
-
-
-Periodontal disease is classically characterized by progressive destruction of the soft and hard tissues of the periodontal complex, mediated by an interplay between dysbiotic microbial communities and aberrant immune responses within gingival and periodontal tissues. Putative periodontal pathogens are enriched as the resident oral microbiota becomes dysbiotic and inflammatory responses evoke tissue destruction, thus inducing an unremitting positive feedback loop of proteolysis, inflammation, and enrichment for periodontal pathogens. Keystone microbial pathogens and sustained gingival inflammation are critical to periodontal disease progression. However, recent studies have revealed the importance of previously unidentified microbes involved in disease progression, including various viruses, phages and bacterial species. Moreover, newly identified immunological and genetic mechanisms, as well as environmental host factors, including diet and lifestyle, have been discerned in recent years as further contributory factors in periodontitis. These factors have collectively expanded the established narrative of periodontal disease progression. In line with this, new ideologies related to maintaining periodontal health and treating existing disease have been explored, such as the application of oral probiotics, to limit and attenuate disease progression. The role of systemic host pathologies, such as autoimmune disorders and diabetes, in periodontal disease pathogenesis has been well noted. Recent studies have additionally identified the reciprocated importance of periodontal disease in potentiating systemic disease states at distal sites, such as in Alzheimer's disease, inflammatory bowel diseases, and oral cancer, further highlighting the importance of the oral cavity in systemic health. Here we review long-standing knowledge of periodontal disease progression while integrating novel research concepts that have broadened our understanding of periodontal health and disease. Further, we delve into innovative hypotheses that may evolve to address significant gaps in the foundational knowledge of periodontal disease.
+## Periodontal Disease: The Good, The Bad, and The Unknown
 
 [Source](https://doi.org/10.3389/fcimb.2021.766944)
 
-10.3389/fcimb.2021.766944
-
 ---
 
-## Clinical implications of preterm infant gut microbiome development.
- 24.12.2021, _DB Healy, CA Ryan, RP Ross, C Stanton, EM Dempsey_
-
-
-Perturbations to the infant gut microbiome during the first weeks to months of life affect growth, development and health. In particular, assembly of an altered intestinal microbiota during infant development results in an increased risk of immune and metabolic diseases that can persist into childhood and potentially into adulthood. Most research into gut microbiome development has focused on full-term babies, but health-related outcomes are also important for preterm babies. The systemic physiological immaturity of very preterm gestation babies (born earlier than 32 weeks gestation) results in numerous other microbiome-organ interactions, the mechanisms of which have yet to be fully elucidated or in some cases even considered. In this Perspective, we compare assembly of the intestinal microbiome in preterm and term infants. We focus in particular on the clinical implications of preterm infant gut microbiome composition and discuss the prospects for microbiome diagnostics and interventions to improve the health of preterm babies.
+## Clinical implications of preterm infant gut microbiome development
 
 [Source](https://doi.org/10.1038/s41564-021-01025-4)
 
-10.1038/s41564-021-01025-4
-
 ---
 
-## Genomic characterization of the dominating Beta variant carrying vaccinated (Oxford-AstraZeneca) and non-vaccinated COVID-19 patient samples in Bangladesh: A metagenomics and whole genome approach.
- 23.12.2021, _MM Rahaman, MMH Sarkar, MS Rahman, MR Islam, I Islam, O Saha, S Akter, TA Banu, I Jahan, MA Habib, B Goswami, L Bari, MA Malek, MS Khan_
-
-
-Bangladesh experiences a second wave of COVID-19 since March 2021, despite the nationwide vaccination drive with ChAdOx1 (Oxford-AstraZeneca) vaccine from early February 2021. Here, we characterized 19 nasopharyngeal swab (NPS) samples from COVID-19 suspect patients using genomic and metagenomic approach. Screening for SARS-CoV-2 by RT-PCR and metagenomic sequencing revealed 17 samples of COVID-19 positive (vaccinated=10, non-vaccinated=7) and 2 samples of COVID-19 negative. We did not find any significant correlation between associated factors including vaccination status, age or sex of the patients, diversity or abundance of the co-infected organisms/pathogens, and the abundance of SARS-CoV-2. Though the first wave of the pandemic was dominated by clade 20B, Beta,V2 (South African variant) dominated the second wave (January 2021 to May 2021), while the third wave (May 2021 to September 2021) was responsible for Delta variants of the epidemic in Bangladesh including both vaccinated and unvaccinated infections. Noteworthy, the RBD region of S protein of all the isolates harbored similar substitutions including K417N, E484K and N501Y that signify the Beta, while D614G, D215G, D80A, A67V, L18F and A701V substitutions were commonly found in the non-RBD region of Spike proteins. ORF7b and ORF3a genes underwent a positive selection (dN/dS ratio 1.77 and 1.24, respectively), while the overall S protein of the Bangladeshi SARS-CoV-2 isolates underwent negative selection pressure (dN/dS=0.621). Furthermore, we found different bacterial co-infection like Streptococcus agalactiae, Neisseria meningitidis, Elizabethkingia anophelis, Stenotrophomonas maltophilia, Klebsiella pneumoni and Pseudomonas plecoglossicida, expressing a number of antibiotic resistance genes such as tetA and tetM. Overall, this approach provides valuable insights on the SARS-CoV-2 genomes and microbiome composition from both vaccinated and non-vaccinated patients in Bangladesh. This article is protected by copyright. All rights reserved.
+## Genomic characterization of the dominating Beta variant carrying vaccinated (Oxford-AstraZeneca) and non-vaccinated COVID-19 patient samples in Bangladesh: A metagenomics and whole genome approach
 
 [Source](https://doi.org/10.1002/jmv.27537)
 
-10.1002/jmv.27537
-
 ---
 
-## Concepts and Consequences of a Core Gut Microbiota for Animal Growth and Development.
- 23.12.2021, _D Perlman, M Martínez-Álvaro, S Moraïs, I Altshuler, LH Hagen, E Jami, R Roehe, PB Pope, I Mizrahi_
-
-
-Animal microbiomes are occasionally considered as an extension of host anatomy, physiology, and even their genomic architecture. Their compositions encompass variable and constant portions when examined across multiple hosts. The latter, termed the core microbiome, is viewed as more accommodated to its host environment and suggested to benefit host fitness. Nevertheless, discrepancies in its definitions, characteristics, and importance to its hosts exist across studies. We survey studies that characterize the core microbiome, detail its current definitions and available methods to identify it, and emphasize the crucial need to upgrade and standardize the methodologies among studies. We highlight ruminants as a case study and discuss the link between the core microbiome and host physiology and genetics, as well as potential factors that shape it. We conclude with main directives of action to better understand the host-core microbiome axis and acquire the necessary insights into its controlled modulation. Expected final online publication date for the Annual Review of Animal Biosciences, Volume 10 is February 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+## Concepts and Consequences of a Core Gut Microbiota for Animal Growth and Development
 
 [Source](https://doi.org/10.1146/annurev-animal-013020-020412)
 
-10.1146/annurev-animal-013020-020412
-
 ---
 
-## Playing by their own rules: the vertebrate archaeome.
- 24.12.2021, _SM Hird_
-
-
-In a recent paper, Youngblut et al. used comparative methods to study the archaeal component of the vertebrate microbiome. This study showed that the vertebrate archaeome contains abundant variation, differs from the vertebrate bacteriome and lays a foundation for future comparative studies.
+## Playing by their own rules: the vertebrate archaeome
 
 [Source](https://doi.org/10.1016/j.tim.2021.12.002)
-
-10.1016/j.tim.2021.12.002
 
 ---
 
@@ -178,15 +136,9 @@ In a recent paper, Youngblut et al. used comparative methods to study the archae
 
 ---
 
-## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species.
- 25.12.2021, _T Ofek, M Lalzar, S Laviad-Shitrit, I Izhaki, M Halpern_
-
-
-Intensive freshwater aquaculture in the Spring Valley, Israel, is implemented mainly in earthen fishponds and reservoirs that are stocked with a variety of edible fish species. Here we sampled six different healthy fish species from these intensive aquacultures. The fish were hybrid striped bass, European bass, red drum (all carnivores), hybrid tilapia, flathead grey mullet (both herbivores), and common carp (an omnivore). Significant differences were found among the intestinal microbiota of the six studied fish species. The microbiota composition diversity was strongly related to the trophic level of the fish, such that there was a significant difference between the carnivore and the herbivore species, while the omnivore species was not significantly different from either group. The most abundant genus in the majority of the fishes' intestinal microbiota was Cetobacterium. Furthermore, we found that beside Cetobacterium, a unique combination of taxa with relative abundance &gt;10% characterized the intestine microbiota of each fish species: unclassified Mycoplasmataceae, Aeromonas, and Vibrio (hybrid striped bass); Turicibacter and Clostridiaceae 1 (European bass); Vibrio (red drum); ZOR0006-Firmicutes (hybrid tilapia); unclassified Mycoplasmataceae and unclassified Vibrionaceae (flathead grey mullet); and Aeromonas (common carp). We conclude that each fish species has a specific bacterial genera combination that characterizes it. Moreover, diet and the trophic level of the fish have a major influence on the gut microbiota of healthy fish that grow in intensive freshwater aquaculture.
+## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species
 
 [Source](https://doi.org/10.3389/fmicb.2021.760266)
-
-10.3389/fmicb.2021.760266
 
 ---
 
@@ -196,27 +148,15 @@ Intensive freshwater aquaculture in the Spring Valley, Israel, is implemented ma
 
 ---
 
-## Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease.
- 26.12.2021, _R Santibáñez, C Rodríguez-Salas, C Flores-Yáñez, D Garrido, P Thomson_
-
-
-The oral microbiome in dogs is a complex community. Under some circumstances, it contributes to periodontal disease, a prevalent inflammatory disease characterized by a complex interaction between oral microbes and the immune system. Porphyromonas and Tannerella spp. are usually dominant in this disease. How the oral microbiome community is altered in periodontal disease, especially sub-dominant microbial populations is unclear. Moreover, how microbiome functions are altered in this disease has not been studied. In this study, we compared the composition and the predicted functions of the microbiome of the cavity of healthy dogs to those with from periodontal disease. The microbiome of both groups clustered separately, indicating important differences. Periodontal disease resulted in a significant increase in Bacteroidetes and reductions in Actinobacteria and Proteobacteria. Porphyromonas abundance increased 2.7 times in periodontal disease, accompanied by increases in Bacteroides and Fusobacterium. It was predicted that aerobic respiratory processes are decreased in periodontal disease. Enrichment in fermentative processes and anaerobic glycolysis were suggestive of an anaerobic environment, also characterized by higher lipopolysaccharide biosynthesis. This study contributes to a better understanding of how periodontal disease modifies the oral microbiome and makes a prediction of the metabolic pathways that contribute to the inflammatory process observed in periodontal disease.
+## Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease
 
 [Source](https://doi.org/10.3390/vetsci8120291)
 
-10.3390/vetsci8120291
-
 ---
 
-## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic.
- 24.12.2021, _MA Ghannoum, TS McCormick, M Retuerto, G Bebek, S Cousineau, L Hartman, C Barth, K Schrom_
-
-
-Gastrointestinal microbiome dysbiosis may result in harmful effects on the host, including those caused by inflammatory bowel diseases (IBD). The novel probiotic BIOHM, consisting of Bifidobacterium breve, Saccharomyces boulardii, Lactobacillus acidophilus, L. rhamnosus, and amylase, was developed to rebalance the bacterial-fungal gut microbiome, with the goal of reducing inflammation and maintaining a healthy gut population. To test the effect of BIOHM on human subjects, we enrolled a cohort of 49 volunteers in collaboration with the Fermentation Festival group (Santa Barbara, CA, USA). The profiles of gut bacterial and fungal communities were assessed via stool samples collected at baseline and following 4 weeks of once-a-day BIOHM consumption. Mycobiome analysis following probiotic consumption revealed an increase in Ascomycota levels in enrolled individuals and a reduction in Zygomycota levels (p value &lt; 0.01). No statistically significant difference in Basidiomycota was detected between pre- and post-BIOHM samples and control abundance profiles (p &gt; 0.05). BIOHM consumption led to a significant reduction in the abundance of Candida genus in tested subjects (p value &lt; 0.013), while the abundance of C. albicans also trended lower than before BIOHM use, albeit not reaching statistical significance. A reduction in the abundance of Firmicutes at the phylum level was observed following BIOHM use, which approached levels reported for control individuals reported in the Human Microbiome Project data. The preliminary results from this clinical study suggest that BIOHM is capable of significantly rebalancing the bacteriome and mycobiome in the gut of healthy individuals, suggesting that further trials examining the utility of the BIOHM probiotic in individuals with gastrointestinal symptoms, where dysbiosis is considered a source driving pathogenesis, are warranted.
+## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic
 
 [Source](https://doi.org/10.3390/cimb43030148)
-
-10.3390/cimb43030148
 
 ---
 
