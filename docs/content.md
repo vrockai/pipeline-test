@@ -154,9 +154,15 @@ The airway microbiota is important in chronic suppurative lung diseases, such as
 
 ---
 
-## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic
+## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic.
+ 24.12.2021, _MA Ghannoum, TS McCormick, M Retuerto, G Bebek, S Cousineau, L Hartman, C Barth, K Schrom_
+
+
+Gastrointestinal microbiome dysbiosis may result in harmful effects on the host, including those caused by inflammatory bowel diseases (IBD). The novel probiotic BIOHM, consisting of Bifidobacterium breve, Saccharomyces boulardii, Lactobacillus acidophilus, L. rhamnosus, and amylase, was developed to rebalance the bacterial-fungal gut microbiome, with the goal of reducing inflammation and maintaining a healthy gut population. To test the effect of BIOHM on human subjects, we enrolled a cohort of 49 volunteers in collaboration with the Fermentation Festival group (Santa Barbara, CA, USA). The profiles of gut bacterial and fungal communities were assessed via stool samples collected at baseline and following 4 weeks of once-a-day BIOHM consumption. Mycobiome analysis following probiotic consumption revealed an increase in Ascomycota levels in enrolled individuals and a reduction in Zygomycota levels (p value &lt; 0.01). No statistically significant difference in Basidiomycota was detected between pre- and post-BIOHM samples and control abundance profiles (p &gt; 0.05). BIOHM consumption led to a significant reduction in the abundance of Candida genus in tested subjects (p value &lt; 0.013), while the abundance of C. albicans also trended lower than before BIOHM use, albeit not reaching statistical significance. A reduction in the abundance of Firmicutes at the phylum level was observed following BIOHM use, which approached levels reported for control individuals reported in the Human Microbiome Project data. The preliminary results from this clinical study suggest that BIOHM is capable of significantly rebalancing the bacteriome and mycobiome in the gut of healthy individuals, suggesting that further trials examining the utility of the BIOHM probiotic in individuals with gastrointestinal symptoms, where dysbiosis is considered a source driving pathogenesis, are warranted.
 
 [Source](https://doi.org/10.3390/cimb43030148)
+
+10.3390/cimb43030148
 
 ---
 
