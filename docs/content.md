@@ -172,27 +172,15 @@ The airway microbiota is important in chronic suppurative lung diseases, such as
 
 ---
 
-## Site and land-use associations of soil bacteria and fungi define core and indicative taxa.
- 23.12.2021, _G Florian, H Martin, M Johanna, H Anna-Sofia, E Jürg, G Andreas, M Reto G, F Beat, W Franco_
-
-
-Soil microbial diversity has major influences on ecosystem functions and services. However, due to its complexity and uneven distribution of abundant and rare taxa, quantification of soil microbial diversity remains challenging and thereby impeding its integration into long-term monitoring programs. Using metabarcoding, we analyzed soil bacterial and fungal communities at thirty long-term soil monitoring sites from the three land-use types arable land, permanent grassland, and forest with a yearly sampling between snowmelt and first fertilization over five years. Unlike soil microbial biomass and alpha-diversity, microbial community compositions and structures were site- and land-use-specific with CAP reclassification success rates of 100%. The temporally stable site core communities included 38.5% of bacterial and 33.1% of fungal OTUs covering 95.9% and 93.2% of relative abundances. We characterized bacterial and fungal core communities and their land-use associations at the family-level. In general, fungal families revealed stronger land-use associations as compared to bacteria. This is likely due to a stronger vegetation effect on fungal core taxa, while bacterial core taxa were stronger related to soil properties. The assessment of core communities can be used to form cultivation-independent reference lists of microbial taxa, which may facilitate the development of microbial indicators for soil quality and the use of soil microbiota for long-term soil biomonitoring.
+## Site and land-use associations of soil bacteria and fungi define core and indicative taxa
 
 [Source](https://doi.org/10.1093/femsec/fiab165)
 
-10.1093/femsec/fiab165
-
 ---
 
-## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data.
- 25.12.2021, _J Ostner, S Carcy, CL Müller_
-
-
-Accurate generative statistical modeling of count data is of critical relevance for the analysis of biological datasets from high-throughput sequencing technologies. Important instances include the modeling of microbiome compositions from amplicon sequencing surveys and the analysis of cell type compositions derived from single-cell RNA sequencing. Microbial and cell type abundance data share remarkably similar statistical features, including their inherent compositionality and a natural hierarchical ordering of the individual components from taxonomic or cell lineage tree information, respectively. To this end, we introduce a Bayesian model for tree-aggregated amplicon and single-cell compositional data analysis (tascCODA) that seamlessly integrates hierarchical information and experimental covariate data into the generative modeling of compositional count data. By combining latent parameters based on the tree structure with spike-and-slab Lasso penalization, tascCODA can determine covariate effects across different levels of the population hierarchy in a data-driven parsimonious way. In the context of differential abundance testing, we validate tascCODA's excellent performance on a comprehensive set of synthetic benchmark scenarios. Our analyses on human single-cell RNA-seq data from ulcerative colitis patients and amplicon data from patients with irritable bowel syndrome, respectively, identified aggregated cell type and taxon compositional changes that were more predictive and parsimonious than those proposed by other schemes. We posit that tascCODA constitutes a valuable addition to the growing statistical toolbox for generative modeling and analysis of compositional changes in microbial or cell population data.
+## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data
 
 [Source](https://doi.org/10.3389/fgene.2021.766405)
-
-10.3389/fgene.2021.766405
 
 ---
 
