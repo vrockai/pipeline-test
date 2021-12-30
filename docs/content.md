@@ -65,7 +65,7 @@ How and when the microbiome modulates host adaptation remains an evolutionary pu
 ---
 
 ## Comparison of the airway microbiota in children with chronic suppurative lung disease.
- 24.12.2021, _B Ahmed, MJ Cox, L Cuthbertson, P James, L Gardner, W Cookson, J Davies, M Moffatt, A Bush_
+ 29.12.2021, _B Ahmed, MJ Cox, L Cuthbertson, P James, L Gardner, W Cookson, J Davies, M Moffatt, A Bush_
 
 
 The airway microbiota is important in chronic suppurative lung diseases, such as primary ciliary dyskinesia (PCD) and cystic fibrosis (CF). This comparison has not previously been described but is important because difference between the two diseases may relate to the differing prognoses and lead to pathological insights and potentially, new treatments.
@@ -136,9 +136,15 @@ The airway microbiota is important in chronic suppurative lung diseases, such as
 
 ---
 
-## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species
+## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species.
+ 25.12.2021, _T Ofek, M Lalzar, S Laviad-Shitrit, I Izhaki, M Halpern_
+
+
+Intensive freshwater aquaculture in the Spring Valley, Israel, is implemented mainly in earthen fishponds and reservoirs that are stocked with a variety of edible fish species. Here we sampled six different healthy fish species from these intensive aquacultures. The fish were hybrid striped bass, European bass, red drum (all carnivores), hybrid tilapia, flathead grey mullet (both herbivores), and common carp (an omnivore). Significant differences were found among the intestinal microbiota of the six studied fish species. The microbiota composition diversity was strongly related to the trophic level of the fish, such that there was a significant difference between the carnivore and the herbivore species, while the omnivore species was not significantly different from either group. The most abundant genus in the majority of the fishes' intestinal microbiota was Cetobacterium. Furthermore, we found that beside Cetobacterium, a unique combination of taxa with relative abundance &gt;10% characterized the intestine microbiota of each fish species: unclassified Mycoplasmataceae, Aeromonas, and Vibrio (hybrid striped bass); Turicibacter and Clostridiaceae 1 (European bass); Vibrio (red drum); ZOR0006-Firmicutes (hybrid tilapia); unclassified Mycoplasmataceae and unclassified Vibrionaceae (flathead grey mullet); and Aeromonas (common carp). We conclude that each fish species has a specific bacterial genera combination that characterizes it. Moreover, diet and the trophic level of the fish have a major influence on the gut microbiota of healthy fish that grow in intensive freshwater aquaculture.
 
 [Source](https://doi.org/10.3389/fmicb.2021.760266)
+
+10.3389/fmicb.2021.760266
 
 ---
 
