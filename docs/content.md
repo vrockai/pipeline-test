@@ -1,150 +1,223 @@
-## Dietary fiber and probiotics influence the gut microbiome and melanoma immunotherapy response
+## The Metaproteomics Initiative: a coordinated approach for propelling the functional characterization of microbiomes.
+ 24.12.2021, _T Van Den Bossche, MØ Arntzen, D Becher, D Benndorf, VGH Eijsink, C Henry, PD Jagtap, N Jehmlich, C Juste, BJ Kunath, B Mesuere, T Muth, PB Pope, J Seifert, A Tanca, S Uzzau, P Wilmes, RL Hettich, J Armengaud_
 
-[Source](https://doi.org/10.1126/science.aaz7015)
 
----
+Through connecting genomic and metabolic information, metaproteomics is an essential approach for understanding how microbiomes function in space and time. The international metaproteomics community is delighted to announce the launch of the Metaproteomics Initiative (www.metaproteomics.org), the goal of which is to promote dissemination of metaproteomics fundamentals, advancements, and applications through collaborative networking in microbiome research. The Initiative aims to be the central information hub and open meeting place where newcomers and experts interact to communicate, standardize, and accelerate experimental and bioinformatic methodologies in this field. We invite the entire microbiome community to join and discuss potential synergies at the interfaces with other disciplines, and to collectively promote innovative approaches to gain deeper insights into microbiome functions and dynamics. Video Abstract.
 
-## Association of the gut microbiota and fecal short-chain fatty acids with skeletal muscle mass and strength in children
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01176-w)
 
-[Source](https://doi.org/10.1096/fj.202002697RRR)
-
----
-
-## Characteristics of Fecal Microbiota and Machine Learning Strategy for Fecal Invasive Biomarkers in Pediatric Inflammatory Bowel Disease
-
-[Source](https://doi.org/10.3389/fcimb.2021.711884)
+10.1186/s40168-021-01176-w
 
 ---
 
-## The microbial <em>gbu</em> gene cluster links cardiovascular disease risk associated with red meat consumption to microbiota L-carnitine catabolism
+## Directional Gaussian Mixture Models of the Gut Microbiome Elucidate Microbial Spatial Structure.
+ 22.12.2021, _AP Pasarkar, TA Joseph, I Pe'er_
 
-[Source](https://doi.org/10.1038/s41564-021-01010-x)
 
----
+The gut microbiome is spatially heterogeneous, with environmental niches contributing to the distribution and composition of microbial populations. A recently developed mapping technology, MaPS-seq, aims to characterize the spatial organization of the gut microbiome by providing data about local microbial populations. However, information about the global arrangement of these populations is lost by MaPS-seq. To address this, we propose a class of Gaussian mixture models (GMM) with spatial dependencies between mixture components in order to computationally recover the relative spatial arrangement of microbial communities. We demonstrate on synthetic data that our spatial models can identify global spatial dynamics, accurately cluster data, and improve parameter inference over a naive GMM. We applied our model to three MaPS-seq data sets taken from various regions of the mouse intestine. On cecal and distal colon data sets, we find our model accurately recapitulates known spatial behaviors of the gut microbiome, including compositional differences between mucus and lumen-associated populations. Our model also seems to capture the role of a pH gradient on microbial populations in the mouse ileum and proposes new behaviors as well. IMPORTANCE The spatial arrangement of the microbes in the gut microbiome is a defining characteristic of its behavior. Various experimental studies have attempted to provide glimpses into the mechanisms that contribute to microbial arrangements. However, many of these descriptions are qualitative. We developed a computational method that takes microbial spatial data and learns many of the experimentally validated spatial factors. We can then use our model to propose previously unknown spatial behaviors. Our results demonstrate that the gut microbiome, while exceptionally large, has predictable spatial patterns that can be used to help us understand its role in health and disease.
 
-## Gut Microbiota Exceeds Cervical Microbiota for Early Diagnosis of Endometriosis
+[Source](https://journals.asm.org/doi/10.1128/mSystems.00817-21)
 
-[Source](https://doi.org/10.3389/fcimb.2021.788836)
-
----
-
-## Natural selection for imprecise vertical transmission in host-microbiota systems
-
-[Source](https://doi.org/10.1038/s41559-021-01593-y)
+10.1128/mSystems.00817-21
 
 ---
 
-## Comparison of the airway microbiota in children with chronic suppurative lung disease
+## Human gut-microbiome-derived propionate coordinates proteasomal degradation via HECTD2 upregulation to target EHMT2 in colorectal cancer.
+ 01.01.2022, _TY Ryu, K Kim, TS Han, MO Lee, J Lee, J Choi, KB Jung, EJ Jeong, DM An, CR Jung, JH Lim, J Jung, K Park, MS Lee, MY Kim, SJ Oh, K Hur, R Hamamoto, DS Park, DS Kim, MY Son, HS Cho_
 
-[Source](https://doi.org/10.1136/bmjresp-2021-001106)
 
----
+The human microbiome plays an essential role in the human immune system, food digestion, and protection from harmful bacteria by colonizing the human intestine. Recently, although the human microbiome affects colorectal cancer (CRC) treatment, the mode of action between the microbiome and CRC remains unclear. This study showed that propionate suppressed CRC growth by promoting the proteasomal degradation of euchromatic histone-lysine N-methyltransferase 2 (EHMT2) through HECT domain E3 ubiquitin protein ligase 2 (HECTD2) upregulation. In addition, EHMT2 downregulation reduced the H3K9me2 level on the promoter region of tumor necrosis factor α-induced protein 1 (TNFAIP1) as a novel direct target of EHMT2. Subsequently, TNFAIP1 upregulation induced the apoptosis of CRC cells. Furthermore, using Bacteroides thetaiotaomicron culture medium, we confirmed EHMT2 downregulation via upregulation of HECTD2 and TNFAIP1 upregulation. Finally, we observed the synergistic effect of propionate and an EHMT2 inhibitor (BIX01294) in 3D spheroid culture models. Thus, we suggest the anticancer effects of propionate and EHMT2 as therapeutic targets for colon cancer treatment and may provide the possibility for the synergistic effects of an EHMT2 inhibitor and microbiome in CRC treatment.
 
-## VicRK and CovR polymorphisms in <em>Streptococcus mutans</em> strains associated with cardiovascular infections
+[Source](https://www.nature.com/articles/s41396-021-01119-1)
 
-[Source](https://doi.org/10.1099/jmm.0.001457)
-
----
-
-## Oral Colonization by <em>Entamoeba gingivalis</em> and <em>Trichomonas tenax</em>: A PCR-Based Study in Health, Gingivitis, and Periodontitis
-
-[Source](https://doi.org/10.3389/fcimb.2021.782805)
+10.1038/s41396-021-01119-1
 
 ---
 
-## Probiotics Evaluation in Oncological Surgery: A Systematic Review of 36 Randomized Controlled Trials Assessing 21 Diverse Formulations
+## Gut microbiomes from Gambian infants reveal the development of a non-industrialized Prevotella-based trophic network.
+ 01.01.2022, _MC de Goffau, AT Jallow, C Sanyang, AM Prentice, N Meagher, DJ Price, PA Revill, J Parkhill, DIA Pereira, J Wagner_
 
-[Source](https://doi.org/10.3390/curroncol28060435)
 
----
+Distinct bacterial trophic networks exist in the gut microbiota of individuals in industrialized and non-industrialized countries. In particular, non-industrialized gut microbiomes tend to be enriched with Prevotella species. To study the development of these Prevotella-rich compositions, we investigated the gut microbiota of children aged between 7 and 37 months living in rural Gambia (616 children, 1,389 stool samples, stratified by 3-month age groups). These infants, who typically eat a high-fibre, low-protein diet, were part of a double-blind, randomized iron intervention trial (NCT02941081) and here we report the secondary outcome. We found that child age was the largest discriminating factor between samples and that anthropometric indices (collection time points, season, geographic collection site, and iron supplementation) did not significantly influence the gut microbiome. Prevotella copri, Faecalibacterium prausnitzii and Prevotella stercorea were, on average, the most abundant species in these 1,389 samples (35%, 11% and 7%, respectively). Distinct bacterial trophic network clusters were identified, centred around either P. stercorea or F. prausnitzii and were found to develop steadily with age, whereas P. copri, independently of other species, rapidly became dominant after weaning. This dataset, set within a critical gut microbial developmental time frame, provides insights into the development of Prevotella-rich gut microbiomes, which are typically understudied and are underrepresented in western populations.
 
-## Untangling human milk oligosaccharides and infant gut microbiome
+[Source](https://www.nature.com/articles/s41564-021-01023-6)
 
-[Source](https://doi.org/10.1016/j.isci.2021.103542)
-
----
-
-## Periodontal Disease: The Good, The Bad, and The Unknown
-
-[Source](https://doi.org/10.3389/fcimb.2021.766944)
+10.1038/s41564-021-01023-6
 
 ---
 
-## Clinical implications of preterm infant gut microbiome development
+## Reuterin in the healthy gut microbiome suppresses colorectal cancer growth through altering redox balance.
+ 24.12.2021, _HN Bell, RJ Rebernick, J Goyert, R Singhal, M Kuljanin, SA Kerk, W Huang, NK Das, A Andren, S Solanki, SL Miller, PK Todd, ER Fearon, CA Lyssiotis, SP Gygi, JD Mancias, YM Shah_
 
-[Source](https://doi.org/10.1038/s41564-021-01025-4)
 
----
+Microbial dysbiosis is a colorectal cancer (CRC) hallmark and contributes to inflammation, tumor growth, and therapy response. Gut microbes signal via metabolites, but how the metabolites impact CRC is largely unknown. We interrogated fecal metabolites associated with mouse models of colon tumorigenesis with varying mutational load. We find that microbial metabolites from healthy mice or humans are growth-repressive, and this response is attenuated in mice and patients with CRC. Microbial profiling reveals that Lactobacillus reuteri and its metabolite, reuterin, are downregulated in mouse and human CRC. Reuterin alters redox balance, and reduces proliferation and survival in colon cancer cells. Reuterin induces selective protein oxidation and inhibits ribosomal biogenesis and protein translation. Exogenous Lactobacillus reuteri restricts colon tumor growth, increases tumor reactive oxygen species, and decreases protein translation in vivo. Our findings indicate that a healthy microbiome and specifically, Lactobacillus reuteri, is protective against CRC through microbial metabolite exchange.
 
-## Genomic characterization of the dominating Beta variant carrying vaccinated (Oxford-AstraZeneca) and non-vaccinated COVID-19 patient samples in Bangladesh: A metagenomics and whole genome approach
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1535610821006139)
 
-[Source](https://doi.org/10.1002/jmv.27537)
-
----
-
-## Concepts and Consequences of a Core Gut Microbiota for Animal Growth and Development
-
-[Source](https://doi.org/10.1146/annurev-animal-013020-020412)
+10.1016/j.ccell.2021.12.001
 
 ---
 
-## Playing by their own rules: the vertebrate archaeome
+## Population study of the gut microbiome: associations with diet, lifestyle, and cardiometabolic disease.
+ 22.12.2021, _RL Walker, H Vlamakis, JWJ Lee, LA Besse, V Xanthakis, RS Vasan, SY Shaw, RJ Xavier_
 
-[Source](https://doi.org/10.1016/j.tim.2021.12.002)
 
----
+The human gut harbors trillions of microbes that play dynamic roles in health. While the microbiome contributes to many cardiometabolic traits by modulating host inflammation and metabolism, there is an incomplete understanding regarding the extent that and mechanisms by which individual microbes impact risk and development of cardiovascular disease (CVD). The Framingham Heart Study (FHS) is a multi-generational observational study following participants over decades to identify risk factors for CVD by correlating genetic and phenotypic factors with clinical outcomes. As a large-scale population-based cohort with extensive clinical phenotyping, FHS provides a rich landscape to explore the relationships between the gut microbiome and cardiometabolic traits.
 
-## Integration of whole genome sequencing and transcriptomics reveals a complex picture of the reestablishment of insecticide resistance in the major malaria vector <em>Anopheles coluzzii</em>
+[Source](https://link.springer.com/article/10.1186/s13073-021-01007-5)
 
-[Source](https://doi.org/10.1371/journal.pgen.1009970)
-
----
-
-## Comparative Study of Intestinal Microbiota Composition of Six Edible Fish Species
-
-[Source](https://doi.org/10.3389/fmicb.2021.760266)
+10.1186/s13073-021-01007-5
 
 ---
 
-## Captivity Influences the Gut Microbiome of <em>Rhinopithecus roxellana</em>
+## Enteric virome negatively affects seroconversion following oral rotavirus vaccination in a longitudinally sampled cohort of Ghanaian infants
 
-[Source](https://doi.org/10.3389/fmicb.2021.763022)
-
----
-
-## Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease
-
-[Source](https://doi.org/10.3390/vetsci8120291)
+[Source](https://www.sciencedirect.com/science/article/pii/S1931312821005679)
 
 ---
 
-## Evaluation of Microbiome Alterations Following Consumption of BIOHM, a Novel Probiotic
+## Maternal gut bacteria drive intestinal inflammation in offspring with neurodevelopmental disorders by altering the chromatin landscape of CD4+ T cells.
+ 08.12.2021, _E Kim, D Paik, RN Ramirez, DG Biggs, Y Park, HK Kwon, GB Choi, JR Huh_
 
-[Source](https://doi.org/10.3390/cimb43030148)
 
----
+Children with autism spectrum disorders often display dysregulated immune responses and related gastrointestinal symptoms. However, the underlying mechanisms leading to the development of both phenotypes have not been elucidated. Here, we show that mouse offspring exhibiting autism-like phenotypes due to prenatal exposure to maternal inflammation were more susceptible to developing intestinal inflammation following challenges later in life. In contrast to its prenatal role in neurodevelopmental phenotypes, interleukin-17A (IL-17A) generated immune-primed phenotypes in offspring through changes in the maternal gut microbiota that led to postnatal alterations in the chromatin landscape of naive CD4+ T cells. The transfer of stool samples from pregnant mice with enhanced IL-17A responses into germ-free dams produced immune-primed phenotypes in offspring. Our study provides mechanistic insights into why children exposed to heightened inflammation in the womb might have an increased risk of developing inflammatory diseases in addition to neurodevelopmental disorders.
 
-## <em>Lactobacillus rhamnosus</em> attenuates Thai chili extracts induced gut inflammation and dysbiosis despite capsaicin bactericidal effect against the probiotics, a possible toxicity of high dose capsaicin
+[Source](https://www.cell.com/immunity/fulltext/S1074-7613(21)00496-9)
 
-[Source](https://doi.org/10.1371/journal.pone.0261189)
-
----
-
-## May the dark be with roots: A perspective on how root illumination may bias <em>in vitro</em> research on plant-environment interactions
-
-[Source](https://doi.org/10.1111/nph.17936)
+10.1016/j.immuni.2021.11.005
 
 ---
 
-## Site and land-use associations of soil bacteria and fungi define core and indicative taxa
+## Lactobacillus gallinarum modulates the gut microbiota and produces anti-cancer metabolites to protect against colorectal tumourigenesis.
+ 23.12.2021, _N Sugimura, Q Li, ESH Chu, HCH Lau, W Fong, W Liu, C Liang, G Nakatsu, ACY Su, OO Coker, WKK Wu, FKL Chan, J Yu_
 
-[Source](https://doi.org/10.1093/femsec/fiab165)
+
+Using faecal shotgun metagenomic sequencing, we identified the depletion of Lactobacillus gallinarum in patients with colorectal cancer (CRC). We aimed to determine the potential antitumourigenic role of L. gallinarum in colorectal tumourigenesis.
+
+[Source](https://gut.bmj.com/content/early/2021/12/21/gutjnl-2020-323951)
+
+10.1136/gutjnl-2020-323951
 
 ---
 
-## tascCODA: Bayesian Tree-Aggregated Analysis of Compositional Amplicon and Single-Cell Data
+## A catalogue of 1,167 genomes from the human gut archaeome.
+ 31.12.2021, _CM Chibani, A Mahnert, G Borrel, A Almeida, A Werner, JF Brugère, S Gribaldo, RD Finn, RA Schmitz, C Moissl-Eichinger_
 
-[Source](https://doi.org/10.3389/fgene.2021.766405)
+
+The human gut microbiome plays an important role in health, but its archaeal diversity remains largely unexplored. In the present study, we report the analysis of 1,167 nonredundant archaeal genomes (608 high-quality genomes) recovered from human gastrointestinal tract, sampled across 24 countries and rural and urban populations. We identified previously undescribed taxa including 3 genera, 15 species and 52 strains. Based on distinct genomic features, we justify the split of the Methanobrevibacter smithii clade into two separate species, with one represented by the previously undescribed 'Candidatus Methanobrevibacter intestini'. Patterns derived from 28,581 protein clusters showed significant associations with sociodemographic characteristics such as age groups and lifestyle. We additionally show that archaea are characterized by specific genomic and functional adaptations to the host and carry a complex virome. Our work expands our current understanding of the human archaeome and provides a large genome catalogue for future analyses to decipher its impact on human physiology.
+
+[Source](https://www.nature.com/articles/s41564-021-01020-9)
+
+10.1038/s41564-021-01020-9
+
+---
+
+## Variation and transmission of the human gut microbiota across multiple familial generations.
+ 31.12.2021, _M Valles-Colomer, R Bacigalupe, S Vieira-Silva, S Suzuki, Y Darzi, RY Tito, T Yamada, N Segata, J Raes, G Falony_
+
+
+Although the composition and functional potential of the human gut microbiota evolve over the lifespan, kinship has been identified as a key covariate of microbial community diversification. However, to date, sharing of microbiota features within families has mostly been assessed between parents and their direct offspring. Here we investigate the potential transmission and persistence of familial microbiome patterns and microbial genotypes in a family cohort (n = 102) spanning 3 to 5 generations over the same female bloodline. We observe microbiome community composition associated with kinship, with seven low abundant genera displaying familial distribution patterns. While kinship and current cohabitation emerge as closely entangled variables, our explorative analyses of microbial genotype distribution and transmission estimates point at the latter as a key covariate of strain dissemination. Highest potential transmission rates are estimated between sisters and mother-daughter pairs, decreasing with increasing daughter's age and being higher among cohabiting pairs than those living apart. Although rare, we detect potential transmission events spanning three and four generations, primarily involving species of the genera Alistipes and Bacteroides. Overall, while our analyses confirm the existence of family-bound microbiome community profiles, transmission or co-acquisition of bacterial strains appears to be strongly linked to cohabitation.
+
+[Source](https://www.nature.com/articles/s41564-021-01021-8)
+
+10.1038/s41564-021-01021-8
+
+---
+
+## The Mouse Gastrointestinal Bacteria Catalogue enables translation between the mouse and human gut microbiotas via functional mapping.
+ 31.12.2021, _BS Beresford-Jones, SC Forster, MD Stares, G Notley, E Viciani, HP Browne, DJ Boehmler, AT Soderholm, N Kumar, K Vervier, JR Cross, A Almeida, TD Lawley, VA Pedicord_
+
+
+Human health and disease have increasingly been shown to be impacted by the gut microbiota, and mouse models are essential for investigating these effects. However, the compositions of human and mouse gut microbiotas are distinct, limiting translation of microbiota research between these hosts. To address this, we constructed the Mouse Gastrointestinal Bacteria Catalogue (MGBC), a repository of 26,640 high-quality mouse microbiota-derived bacterial genomes. This catalog enables species-level analyses for mapping functions of interest and identifying functionally equivalent taxa between the microbiotas of humans and mice. We have complemented this with a publicly deposited collection of 223 bacterial isolates, including 62 previously uncultured species, to facilitate experimental investigation of individual commensal bacteria functions in vitro and in vivo. Together, these resources provide the ability to identify and test functionally equivalent members of the host-specific gut microbiotas of humans and mice and support the informed use of mouse models in human microbiota research.
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00568-0#secsectitle0040)
+
+10.1016/j.chom.2021.12.003
+
+---
+
+## Integrating cultivation and metagenomics for a multi-kingdom view of skin microbiome diversity and functions
+
+[Source](https://www.nature.com/articles/s41564-021-01011-w)
+
+---
+
+## Alterations of human skin microbiome and expansion of antimicrobial resistance after systemic antibiotics
+
+[Source](https://www.science.org/doi/10.1126/scitranslmed.abd8077)
+
+---
+
+## Microbiome-mediated incapacitation of interferon lambda production in the oral mucosa.
+ 31.12.2021, _CJ Rodriguez-Hernandez, KJ Sokoloski, KS Stocke, H Dukka, S Jin, MA Metzler, K Zaitsev, B Shpak, D Shen, DP Miller, MN Artyomov, RJ Lamont, J Bagaitkar_
+
+
+Here, we show that Porphyromonas gingivalis (Pg), an endogenous oral pathogen, dampens all aspects of interferon (IFN) signaling in a manner that is strikingly similar to IFN suppression employed by multiple viral pathogens. Pg suppressed IFN production by down-regulating several IFN regulatory factors (IRFs 1, 3, 7, and 9), proteolytically degrading STAT1 and suppressing the nuclear translocation of the ISGF3 complex, resulting in profound and systemic repression of multiple interferon-stimulated genes. Pg-induced IFN paralysis was not limited to murine models but was also observed in the oral tissues of human periodontal disease patients, where overabundance of Pg correlated with suppressed IFN generation. Mechanistically, multiple virulence factors and secreted proteases produced by Pg transcriptionally suppressed IFN promoters and also cleaved IFN receptors, making cells refractory to exogenous IFN and inducing a state of broad IFN paralysis. Thus, our data show a bacterial pathogen with equivalence to viruses in the down-regulation of host IFN signaling.
+
+[Source](https://www.pnas.org/content/118/51/e2105170118.short)
+
+10.1073/pnas.2105170118
+
+---
+
+## Glutamic acid reshapes the plant microbiota to protect plants against pathogens.
+ 24.12.2021, _DR Kim, CW Jeon, G Cho, LS Thomashow, DM Weller, MJ Paik, YB Lee, YS Kwak_
+
+
+Plants in nature interact with other species, among which are mutualistic microorganisms that affect plant health. The co-existence of microbial symbionts with the host contributes to host fitness in a natural context. In turn, the composition of the plant microbiota responds to the environment and the state of the host, raising the possibility that it can be engineered to benefit the plant. However, technology for engineering the structure of the plant microbiome is not yet available.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01186-8)
+
+10.1186/s40168-021-01186-8
+
+---
+
+## Metagenomics of Antarctic Marine Sediment Reveals Potential for Diverse Chemolithoautotrophy.
+ 24.12.2021, _AI Garber, JR Zehnpfennig, CS Sheik, MW Henson, GA Ramírez, AR Mahon, KM Halanych, DR Learman_
+
+
+The microbial biogeochemical processes occurring in marine sediment in Antarctica remain underexplored due to limited access. Further, these polar habitats are unique, as they are being exposed to significant changes in their climate. To explore how microbes drive biogeochemistry in these sediments, we performed a shotgun metagenomic survey of marine surficial sediment (0 to 3 cm of the seafloor) collected from 13 locations in western Antarctica and assembled 16 high-quality metagenome assembled genomes for focused interrogation of the lifestyles of some abundant lineages. We observe an abundance of genes from pathways for the utilization of reduced carbon, sulfur, and nitrogen sources. Although organotrophy is pervasive, nitrification and sulfide oxidation are the dominant lithotrophic pathways and likely fuel carbon fixation via the reverse tricarboxylic acid and Calvin cycles. Oxygen-dependent terminal oxidases are common, and genes for reduction of oxidized nitrogen are sporadically present in our samples. Our results suggest that the underlying benthic communities are well primed for the utilization of settling organic matter, which is consistent with findings from highly productive surface water. Despite the genetic potential for nitrate reduction, the net catabolic pathway in our samples remains aerobic respiration, likely coupled to the oxidation of sulfur and nitrogen imported from the highly productive Antarctic water column above. IMPORTANCE The impacts of climate change in polar regions, like Antarctica, have the potential to alter numerous ecosystems and biogeochemical cycles. Increasing temperature and freshwater runoff from melting ice can have profound impacts on the cycling of organic and inorganic nutrients between the pelagic and benthic ecosystems. Within the benthos, sediment microbial communities play a critical role in carbon mineralization and the cycles of essential nutrients like nitrogen and sulfur. Metagenomic data collected from sediment samples from the continental shelf of western Antarctica help to examine this unique system and document the metagenomic potential for lithotrophic metabolisms and the cycles of both nitrogen and sulfur, which support not only benthic microbes but also life in the pelagic zone.
+
+[Source](https://journals.asm.org/doi/10.1128/mSphere.00770-21)
+
+10.1128/mSphere.00770-21
+
+---
+
+## Dissecting the dominant hot spring microbial populations based on community-wide sampling at single-cell genomic resolution.
+ 31.12.2021, _RM Bowers, S Nayfach, F Schulz, SP Jungbluth, IA Ruhl, A Sheremet, J Lee, D Goudeau, EA Eloe-Fadrosh, R Stepanauskas, RR Malmstrom, NC Kyrpides, PF Dunfield, T Woyke_
+
+
+With advances in DNA sequencing and miniaturized molecular biology workflows, rapid and affordable sequencing of single-cell genomes has become a reality. Compared to 16S rRNA gene surveys and shotgun metagenomics, large-scale application of single-cell genomics to whole microbial communities provides an integrated snapshot of community composition and function, directly links mobile elements to their hosts, and enables analysis of population heterogeneity of the dominant community members. To that end, we sequenced nearly 500 single-cell genomes from a low diversity hot spring sediment sample from Dewar Creek, British Columbia, and compared this approach to 16S rRNA gene amplicon and shotgun metagenomics applied to the same sample. We found that the broad taxonomic profiles were similar across the three sequencing approaches, though several lineages were missing from the 16S rRNA gene amplicon dataset, likely the result of primer mismatches. At the functional level, we detected a large array of mobile genetic elements present in the single-cell genomes but absent from the corresponding same species metagenome-assembled genomes. Moreover, we performed a single-cell population genomic analysis of the three most abundant community members, revealing differences in population structure based on mutation and recombination profiles. While the average pairwise nucleotide identities were similar across the dominant species-level lineages, we observed differences in the extent of recombination between these dominant populations. Most intriguingly, the creek's Hydrogenobacter sp. population appeared to be so recombinogenic that it more closely resembled a sexual species than a clonally evolving microbe. Together, this work demonstrates that a randomized single-cell approach can be useful for the exploration of previously uncultivated microbes from community composition to population structure.
+
+[Source](https://www.nature.com/articles/s41396-021-01178-4)
+
+10.1038/s41396-021-01178-4
+
+---
+
+## Fast and accurate metagenotyping of the human gut microbiome with GT-Pro.
+ 24.12.2021, _ZJ Shi, B Dimitrov, C Zhao, S Nayfach, KS Pollard_
+
+
+Single nucleotide polymorphisms (SNPs) in metagenomics are used to quantify population structure, track strains and identify genetic determinants of microbial phenotypes. However, existing alignment-based approaches for metagenomic SNP detection require high-performance computing and enough read coverage to distinguish SNPs from sequencing errors. To address these issues, we developed the GenoTyper for Prokaryotes (GT-Pro), a suite of methods to catalog SNPs from genomes and use unique k-mers to rapidly genotype these SNPs from metagenomes. Compared to methods that use read alignment, GT-Pro is more accurate and two orders of magnitude faster. Using high-quality genomes, we constructed a catalog of 104 million SNPs in 909 human gut species and used unique k-mers targeting this catalog to characterize the global population structure of gut microbes from 7,459 samples. GT-Pro enables fast and memory-efficient metagenotyping of millions of SNPs on a personal computer.
+
+[Source](https://www.nature.com/articles/s41587-021-01102-3)
+
+10.1038/s41587-021-01102-3
+
+---
+
+## Rapid screening and identification of viral pathogens in metagenomic data.
+ 27.12.2021, _S Song, L Ma, X Xu, H Shi, X Li, Y Liu, P Hao_
+
+
+_Algorithms, Animals, Automation, COVID-19, COVID-19 Testing, Computational Biology, Coronavirus Infections, Genome, Viral, Genomics, High-Throughput Nucleotide Sequencing, Humans, Mass Screening, Metagenomics, Pandemics, Pangolins, Reference Values, SARS-CoV-2, Software, Transcriptome, Workflow_
+Virus screening and viral genome reconstruction are urgent and crucial for the rapid identification of viral pathogens, i.e., tracing the source and understanding the pathogenesis when a viral outbreak occurs. Next-generation sequencing (NGS) provides an efficient and unbiased way to identify viral pathogens in host-associated and environmental samples without prior knowledge. Despite the availability of software, data analysis still requires human operations. A mature pipeline is urgently needed when thousands of viral pathogen and viral genome reconstruction samples need to be rapidly identified.
+
+[Source](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-021-01138-z)
+
+10.1186/s12920-021-01138-z
 
 ---
 
