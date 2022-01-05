@@ -148,76 +148,39 @@ Human health and disease have increasingly been shown to be impacted by the gut 
 
 ---
 
-## Microbiome-mediated incapacitation of interferon lambda production in the oral mucosa.
- 31.12.2021, _CJ Rodriguez-Hernandez, KJ Sokoloski, KS Stocke, H Dukka, S Jin, MA Metzler, K Zaitsev, B Shpak, D Shen, DP Miller, MN Artyomov, RJ Lamont, J Bagaitkar_
-
-
-Here, we show that Porphyromonas gingivalis (Pg), an endogenous oral pathogen, dampens all aspects of interferon (IFN) signaling in a manner that is strikingly similar to IFN suppression employed by multiple viral pathogens. Pg suppressed IFN production by down-regulating several IFN regulatory factors (IRFs 1, 3, 7, and 9), proteolytically degrading STAT1 and suppressing the nuclear translocation of the ISGF3 complex, resulting in profound and systemic repression of multiple interferon-stimulated genes. Pg-induced IFN paralysis was not limited to murine models but was also observed in the oral tissues of human periodontal disease patients, where overabundance of Pg correlated with suppressed IFN generation. Mechanistically, multiple virulence factors and secreted proteases produced by Pg transcriptionally suppressed IFN promoters and also cleaved IFN receptors, making cells refractory to exogenous IFN and inducing a state of broad IFN paralysis. Thus, our data show a bacterial pathogen with equivalence to viruses in the down-regulation of host IFN signaling.
+## Microbiome-mediated incapacitation of interferon lambda production in the oral mucosa
 
 [Source](https://www.pnas.org/content/118/51/e2105170118.short)
 
-10.1073/pnas.2105170118
-
 ---
 
-## Glutamic acid reshapes the plant microbiota to protect plants against pathogens.
- 24.12.2021, _DR Kim, CW Jeon, G Cho, LS Thomashow, DM Weller, MJ Paik, YB Lee, YS Kwak_
-
-
-Plants in nature interact with other species, among which are mutualistic microorganisms that affect plant health. The co-existence of microbial symbionts with the host contributes to host fitness in a natural context. In turn, the composition of the plant microbiota responds to the environment and the state of the host, raising the possibility that it can be engineered to benefit the plant. However, technology for engineering the structure of the plant microbiome is not yet available.
+## Glutamic acid reshapes the plant microbiota to protect plants against pathogens 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01186-8)
 
-10.1186/s40168-021-01186-8
-
 ---
 
-## Metagenomics of Antarctic Marine Sediment Reveals Potential for Diverse Chemolithoautotrophy.
- 24.12.2021, _AI Garber, JR Zehnpfennig, CS Sheik, MW Henson, GA Ramírez, AR Mahon, KM Halanych, DR Learman_
-
-
-The microbial biogeochemical processes occurring in marine sediment in Antarctica remain underexplored due to limited access. Further, these polar habitats are unique, as they are being exposed to significant changes in their climate. To explore how microbes drive biogeochemistry in these sediments, we performed a shotgun metagenomic survey of marine surficial sediment (0 to 3 cm of the seafloor) collected from 13 locations in western Antarctica and assembled 16 high-quality metagenome assembled genomes for focused interrogation of the lifestyles of some abundant lineages. We observe an abundance of genes from pathways for the utilization of reduced carbon, sulfur, and nitrogen sources. Although organotrophy is pervasive, nitrification and sulfide oxidation are the dominant lithotrophic pathways and likely fuel carbon fixation via the reverse tricarboxylic acid and Calvin cycles. Oxygen-dependent terminal oxidases are common, and genes for reduction of oxidized nitrogen are sporadically present in our samples. Our results suggest that the underlying benthic communities are well primed for the utilization of settling organic matter, which is consistent with findings from highly productive surface water. Despite the genetic potential for nitrate reduction, the net catabolic pathway in our samples remains aerobic respiration, likely coupled to the oxidation of sulfur and nitrogen imported from the highly productive Antarctic water column above. IMPORTANCE The impacts of climate change in polar regions, like Antarctica, have the potential to alter numerous ecosystems and biogeochemical cycles. Increasing temperature and freshwater runoff from melting ice can have profound impacts on the cycling of organic and inorganic nutrients between the pelagic and benthic ecosystems. Within the benthos, sediment microbial communities play a critical role in carbon mineralization and the cycles of essential nutrients like nitrogen and sulfur. Metagenomic data collected from sediment samples from the continental shelf of western Antarctica help to examine this unique system and document the metagenomic potential for lithotrophic metabolisms and the cycles of both nitrogen and sulfur, which support not only benthic microbes but also life in the pelagic zone.
+## Metagenomics of Antarctic Marine Sediment Reveals Potential for Diverse Chemolithoautotrophy
 
 [Source](https://journals.asm.org/doi/10.1128/mSphere.00770-21)
 
-10.1128/mSphere.00770-21
-
 ---
 
-## Dissecting the dominant hot spring microbial populations based on community-wide sampling at single-cell genomic resolution.
- 31.12.2021, _RM Bowers, S Nayfach, F Schulz, SP Jungbluth, IA Ruhl, A Sheremet, J Lee, D Goudeau, EA Eloe-Fadrosh, R Stepanauskas, RR Malmstrom, NC Kyrpides, PF Dunfield, T Woyke_
-
-
-With advances in DNA sequencing and miniaturized molecular biology workflows, rapid and affordable sequencing of single-cell genomes has become a reality. Compared to 16S rRNA gene surveys and shotgun metagenomics, large-scale application of single-cell genomics to whole microbial communities provides an integrated snapshot of community composition and function, directly links mobile elements to their hosts, and enables analysis of population heterogeneity of the dominant community members. To that end, we sequenced nearly 500 single-cell genomes from a low diversity hot spring sediment sample from Dewar Creek, British Columbia, and compared this approach to 16S rRNA gene amplicon and shotgun metagenomics applied to the same sample. We found that the broad taxonomic profiles were similar across the three sequencing approaches, though several lineages were missing from the 16S rRNA gene amplicon dataset, likely the result of primer mismatches. At the functional level, we detected a large array of mobile genetic elements present in the single-cell genomes but absent from the corresponding same species metagenome-assembled genomes. Moreover, we performed a single-cell population genomic analysis of the three most abundant community members, revealing differences in population structure based on mutation and recombination profiles. While the average pairwise nucleotide identities were similar across the dominant species-level lineages, we observed differences in the extent of recombination between these dominant populations. Most intriguingly, the creek's Hydrogenobacter sp. population appeared to be so recombinogenic that it more closely resembled a sexual species than a clonally evolving microbe. Together, this work demonstrates that a randomized single-cell approach can be useful for the exploration of previously uncultivated microbes from community composition to population structure.
+## Dissecting the dominant hot spring microbial populations based on community-wide sampling at single-cell genomic resolutio
 
 [Source](https://www.nature.com/articles/s41396-021-01178-4)
 
-10.1038/s41396-021-01178-4
-
 ---
 
-## Fast and accurate metagenotyping of the human gut microbiome with GT-Pro.
- 24.12.2021, _ZJ Shi, B Dimitrov, C Zhao, S Nayfach, KS Pollard_
-
-
-Single nucleotide polymorphisms (SNPs) in metagenomics are used to quantify population structure, track strains and identify genetic determinants of microbial phenotypes. However, existing alignment-based approaches for metagenomic SNP detection require high-performance computing and enough read coverage to distinguish SNPs from sequencing errors. To address these issues, we developed the GenoTyper for Prokaryotes (GT-Pro), a suite of methods to catalog SNPs from genomes and use unique k-mers to rapidly genotype these SNPs from metagenomes. Compared to methods that use read alignment, GT-Pro is more accurate and two orders of magnitude faster. Using high-quality genomes, we constructed a catalog of 104 million SNPs in 909 human gut species and used unique k-mers targeting this catalog to characterize the global population structure of gut microbes from 7,459 samples. GT-Pro enables fast and memory-efficient metagenotyping of millions of SNPs on a personal computer.
+## Fast and accurate metagenotyping of the human gut microbiome with GT-Pro
 
 [Source](https://www.nature.com/articles/s41587-021-01102-3)
 
-10.1038/s41587-021-01102-3
-
 ---
 
-## Rapid screening and identification of viral pathogens in metagenomic data.
- 27.12.2021, _S Song, L Ma, X Xu, H Shi, X Li, Y Liu, P Hao_
-
-
-_Algorithms, Animals, Automation, COVID-19, COVID-19 Testing, Computational Biology, Coronavirus Infections, Genome, Viral, Genomics, High-Throughput Nucleotide Sequencing, Humans, Mass Screening, Metagenomics, Pandemics, Pangolins, Reference Values, SARS-CoV-2, Software, Transcriptome, Workflow_
-Virus screening and viral genome reconstruction are urgent and crucial for the rapid identification of viral pathogens, i.e., tracing the source and understanding the pathogenesis when a viral outbreak occurs. Next-generation sequencing (NGS) provides an efficient and unbiased way to identify viral pathogens in host-associated and environmental samples without prior knowledge. Despite the availability of software, data analysis still requires human operations. A mature pipeline is urgently needed when thousands of viral pathogen and viral genome reconstruction samples need to be rapidly identified.
+## Rapid screening and identification of viral pathogens in metagenomic data
 
 [Source](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-021-01138-z)
-
-10.1186/s12920-021-01138-z
 
 ---
 
