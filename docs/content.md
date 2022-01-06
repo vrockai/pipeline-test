@@ -1,186 +1,276 @@
-## The Metaproteomics Initiative: a coordinated approach for propelling the functional characterization of microbiomes.
- 24.12.2021, _T Van Den Bossche, MØ Arntzen, D Becher, D Benndorf, VGH Eijsink, C Henry, PD Jagtap, N Jehmlich, C Juste, BJ Kunath, B Mesuere, T Muth, PB Pope, J Seifert, A Tanca, S Uzzau, P Wilmes, RL Hettich, J Armengaud_
+## Mendelian randomization analyses support causal relationships between blood metabolites and the gut microbiome.
+ 04.01.2022, _X Liu, X Tong, Y Zou, X Lin, H Zhao, L Tian, Z Jie, Q Wang, Z Zhang, H Lu, L Xiao, X Qiu, J Zi, R Wang, X Xu, H Yang, J Wang, Y Zong, W Liu, Y Hou, S Zhu, H Jia, T Zhang_
 
 
-Through connecting genomic and metabolic information, metaproteomics is an essential approach for understanding how microbiomes function in space and time. The international metaproteomics community is delighted to announce the launch of the Metaproteomics Initiative (www.metaproteomics.org), the goal of which is to promote dissemination of metaproteomics fundamentals, advancements, and applications through collaborative networking in microbiome research. The Initiative aims to be the central information hub and open meeting place where newcomers and experts interact to communicate, standardize, and accelerate experimental and bioinformatic methodologies in this field. We invite the entire microbiome community to join and discuss potential synergies at the interfaces with other disciplines, and to collectively promote innovative approaches to gain deeper insights into microbiome functions and dynamics. Video Abstract.
+The gut microbiome has been implicated in a variety of physiological states, but controversy over causality remains unresolved. Here, we performed bidirectional Mendelian randomization analyses on 3,432 Chinese individuals with whole-genome, whole-metagenome, anthropometric and blood metabolic trait data. We identified 58 causal relationships between the gut microbiome and blood metabolites, and replicated 43 of them. Increased relative abundances of fecal Oscillibacter and Alistipes were causally linked to decreased triglyceride concentration. Conversely, blood metabolites such as glutamic acid appeared to decrease fecal Oxalobacter, and members of Proteobacteria were influenced by metabolites such as 5-methyltetrahydrofolic acid, alanine, glutamate and selenium. Two-sample Mendelian randomization with data from Biobank Japan partly corroborated results with triglyceride and with uric acid, and also provided causal support for published fecal bacterial markers for cancer and cardiovascular diseases. This study illustrates the value of human genetic information to help prioritize gut microbial features for mechanistic and clinical studies.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01176-w)
+[Source](https://doi.org/10.1038/s41588-021-00968-y)
 
-10.1186/s40168-021-01176-w
-
----
-
-## Directional Gaussian Mixture Models of the Gut Microbiome Elucidate Microbial Spatial Structure.
- 22.12.2021, _AP Pasarkar, TA Joseph, I Pe'er_
-
-
-The gut microbiome is spatially heterogeneous, with environmental niches contributing to the distribution and composition of microbial populations. A recently developed mapping technology, MaPS-seq, aims to characterize the spatial organization of the gut microbiome by providing data about local microbial populations. However, information about the global arrangement of these populations is lost by MaPS-seq. To address this, we propose a class of Gaussian mixture models (GMM) with spatial dependencies between mixture components in order to computationally recover the relative spatial arrangement of microbial communities. We demonstrate on synthetic data that our spatial models can identify global spatial dynamics, accurately cluster data, and improve parameter inference over a naive GMM. We applied our model to three MaPS-seq data sets taken from various regions of the mouse intestine. On cecal and distal colon data sets, we find our model accurately recapitulates known spatial behaviors of the gut microbiome, including compositional differences between mucus and lumen-associated populations. Our model also seems to capture the role of a pH gradient on microbial populations in the mouse ileum and proposes new behaviors as well. IMPORTANCE The spatial arrangement of the microbes in the gut microbiome is a defining characteristic of its behavior. Various experimental studies have attempted to provide glimpses into the mechanisms that contribute to microbial arrangements. However, many of these descriptions are qualitative. We developed a computational method that takes microbial spatial data and learns many of the experimentally validated spatial factors. We can then use our model to propose previously unknown spatial behaviors. Our results demonstrate that the gut microbiome, while exceptionally large, has predictable spatial patterns that can be used to help us understand its role in health and disease.
-
-[Source](https://journals.asm.org/doi/10.1128/mSystems.00817-21)
-
-10.1128/mSystems.00817-21
+10.1038/s41588-021-00968-y
 
 ---
 
-## Human gut-microbiome-derived propionate coordinates proteasomal degradation via HECTD2 upregulation to target EHMT2 in colorectal cancer.
- 01.01.2022, _TY Ryu, K Kim, TS Han, MO Lee, J Lee, J Choi, KB Jung, EJ Jeong, DM An, CR Jung, JH Lim, J Jung, K Park, MS Lee, MY Kim, SJ Oh, K Hur, R Hamamoto, DS Park, DS Kim, MY Son, HS Cho_
+## Determine independent gut microbiota-diseases association by eliminating the effects of human lifestyle factors.
+ 04.01.2022, _C Zhu, X Wang, J Li, R Jiang, H Chen, T Chen, Y Yang_
 
 
-The human microbiome plays an essential role in the human immune system, food digestion, and protection from harmful bacteria by colonizing the human intestine. Recently, although the human microbiome affects colorectal cancer (CRC) treatment, the mode of action between the microbiome and CRC remains unclear. This study showed that propionate suppressed CRC growth by promoting the proteasomal degradation of euchromatic histone-lysine N-methyltransferase 2 (EHMT2) through HECT domain E3 ubiquitin protein ligase 2 (HECTD2) upregulation. In addition, EHMT2 downregulation reduced the H3K9me2 level on the promoter region of tumor necrosis factor α-induced protein 1 (TNFAIP1) as a novel direct target of EHMT2. Subsequently, TNFAIP1 upregulation induced the apoptosis of CRC cells. Furthermore, using Bacteroides thetaiotaomicron culture medium, we confirmed EHMT2 downregulation via upregulation of HECTD2 and TNFAIP1 upregulation. Finally, we observed the synergistic effect of propionate and an EHMT2 inhibitor (BIX01294) in 3D spheroid culture models. Thus, we suggest the anticancer effects of propionate and EHMT2 as therapeutic targets for colon cancer treatment and may provide the possibility for the synergistic effects of an EHMT2 inhibitor and microbiome in CRC treatment.
+Lifestyle and physiological variables on human disease risk have been revealed to be mediated by gut microbiota. Low concordance between case-control studies for detecting disease-associated microbe existed due to limited sample size and population-wide bias in lifestyle and physiological variables. To infer gut microbiota-disease associations accurately, we propose to build machine learning models by including both human variables and gut microbiota. When the model's performance with both gut microbiota and human variables is better than the model with just human variables, the independent gut microbiota -disease associations will be confirmed. By building models on the American Gut Project dataset, we found that gut microbiota showed distinct association strengths with different diseases. Adding gut microbiota into human variables enhanced the classification performance of IBD significantly; independent associations between occurrence information of gut microbiota and irritable bowel syndrome, C. difficile infection, and unhealthy status were found; adding gut microbiota showed no improvement on models' performance for diabetes, small intestinal bacterial overgrowth, lactose intolerance, cardiovascular disease. Our results suggested that although gut microbiota was reported to be associated with many diseases, a considerable proportion of these associations may be very weak. We proposed a list of microbes as biomarkers to classify IBD and unhealthy status. Further functional investigations of these microbes will improve understanding of the molecular mechanism of human diseases.
 
-[Source](https://www.nature.com/articles/s41396-021-01119-1)
+[Source](https://doi.org/10.1186/s12866-021-02414-9)
 
-10.1038/s41396-021-01119-1
-
----
-
-## Gut microbiomes from Gambian infants reveal the development of a non-industrialized Prevotella-based trophic network.
- 05.01.2022, _MC de Goffau, AT Jallow, C Sanyang, AM Prentice, N Meagher, DJ Price, PA Revill, J Parkhill, DIA Pereira, J Wagner_
-
-
-Distinct bacterial trophic networks exist in the gut microbiota of individuals in industrialized and non-industrialized countries. In particular, non-industrialized gut microbiomes tend to be enriched with Prevotella species. To study the development of these Prevotella-rich compositions, we investigated the gut microbiota of children aged between 7 and 37 months living in rural Gambia (616 children, 1,389 stool samples, stratified by 3-month age groups). These infants, who typically eat a high-fibre, low-protein diet, were part of a double-blind, randomized iron intervention trial (NCT02941081) and here we report the secondary outcome. We found that child age was the largest discriminating factor between samples and that anthropometric indices (collection time points, season, geographic collection site, and iron supplementation) did not significantly influence the gut microbiome. Prevotella copri, Faecalibacterium prausnitzii and Prevotella stercorea were, on average, the most abundant species in these 1,389 samples (35%, 11% and 7%, respectively). Distinct bacterial trophic network clusters were identified, centred around either P. stercorea or F. prausnitzii and were found to develop steadily with age, whereas P. copri, independently of other species, rapidly became dominant after weaning. This dataset, set within a critical gut microbial developmental time frame, provides insights into the development of Prevotella-rich gut microbiomes, which are typically understudied and are underrepresented in western populations.
-
-[Source](https://www.nature.com/articles/s41564-021-01023-6)
-
-10.1038/s41564-021-01023-6
+10.1186/s12866-021-02414-9
 
 ---
 
-## Reuterin in the healthy gut microbiome suppresses colorectal cancer growth through altering redox balance.
- 24.12.2021, _HN Bell, RJ Rebernick, J Goyert, R Singhal, M Kuljanin, SA Kerk, W Huang, NK Das, A Andren, S Solanki, SL Miller, PK Todd, ER Fearon, CA Lyssiotis, SP Gygi, JD Mancias, YM Shah_
+## Comparing Published Gut Microbiome Taxonomic Data Across Multinational Studies.
+ 05.01.2022, _BK Meeks, KA Maki, NJ Ames, JJ Barb_
 
 
-Microbial dysbiosis is a colorectal cancer (CRC) hallmark and contributes to inflammation, tumor growth, and therapy response. Gut microbes signal via metabolites, but how the metabolites impact CRC is largely unknown. We interrogated fecal metabolites associated with mouse models of colon tumorigenesis with varying mutational load. We find that microbial metabolites from healthy mice or humans are growth-repressive, and this response is attenuated in mice and patients with CRC. Microbial profiling reveals that Lactobacillus reuteri and its metabolite, reuterin, are downregulated in mouse and human CRC. Reuterin alters redox balance, and reduces proliferation and survival in colon cancer cells. Reuterin induces selective protein oxidation and inhibits ribosomal biogenesis and protein translation. Exogenous Lactobacillus reuteri restricts colon tumor growth, increases tumor reactive oxygen species, and decreases protein translation in vivo. Our findings indicate that a healthy microbiome and specifically, Lactobacillus reuteri, is protective against CRC through microbial metabolite exchange.
+Nurse researchers are well poised to study the connection of the microbiome to health and disease. Evaluating published microbiome results can assist with study design and hypothesis generation.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1535610821006139)
+[Source](https://doi.org/10.1097/NNR.0000000000000557)
 
-10.1016/j.ccell.2021.12.001
-
----
-
-## Population study of the gut microbiome: associations with diet, lifestyle, and cardiometabolic disease.
- 22.12.2021, _RL Walker, H Vlamakis, JWJ Lee, LA Besse, V Xanthakis, RS Vasan, SY Shaw, RJ Xavier_
-
-
-The human gut harbors trillions of microbes that play dynamic roles in health. While the microbiome contributes to many cardiometabolic traits by modulating host inflammation and metabolism, there is an incomplete understanding regarding the extent that and mechanisms by which individual microbes impact risk and development of cardiovascular disease (CVD). The Framingham Heart Study (FHS) is a multi-generational observational study following participants over decades to identify risk factors for CVD by correlating genetic and phenotypic factors with clinical outcomes. As a large-scale population-based cohort with extensive clinical phenotyping, FHS provides a rich landscape to explore the relationships between the gut microbiome and cardiometabolic traits.
-
-[Source](https://link.springer.com/article/10.1186/s13073-021-01007-5)
-
-10.1186/s13073-021-01007-5
+10.1097/NNR.0000000000000557
 
 ---
 
-## Enteric virome negatively affects seroconversion following oral rotavirus vaccination in a longitudinally sampled cohort of Ghanaian infants
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1931312821005679)
-
----
-
-## Maternal gut bacteria drive intestinal inflammation in offspring with neurodevelopmental disorders by altering the chromatin landscape of CD4+ T cells.
- 08.12.2021, _E Kim, D Paik, RN Ramirez, DG Biggs, Y Park, HK Kwon, GB Choi, JR Huh_
+## A Comprehensive Review on the Role of the Gut Microbiome in Human Neurological Disorders.
+ 05.01.2022, _SG Sorboni, HS Moghaddam, R Jafarzadeh-Esfehani, S Soleimanpour_
 
 
-Children with autism spectrum disorders often display dysregulated immune responses and related gastrointestinal symptoms. However, the underlying mechanisms leading to the development of both phenotypes have not been elucidated. Here, we show that mouse offspring exhibiting autism-like phenotypes due to prenatal exposure to maternal inflammation were more susceptible to developing intestinal inflammation following challenges later in life. In contrast to its prenatal role in neurodevelopmental phenotypes, interleukin-17A (IL-17A) generated immune-primed phenotypes in offspring through changes in the maternal gut microbiota that led to postnatal alterations in the chromatin landscape of naive CD4+ T cells. The transfer of stool samples from pregnant mice with enhanced IL-17A responses into germ-free dams produced immune-primed phenotypes in offspring. Our study provides mechanistic insights into why children exposed to heightened inflammation in the womb might have an increased risk of developing inflammatory diseases in addition to neurodevelopmental disorders.
+The human body is full of an extensive number of commensal microbes, consisting of bacteria, viruses, and fungi, collectively termed the human microbiome. The initial acquisition of microbiota occurs from both the external and maternal environments, and the vast majority of them colonize the gastrointestinal tract (GIT). These microbial communities play a central role in the maturation and development of the immune system, the central nervous system, and the GIT system and are also responsible for essential metabolic pathways. Various factors, including host genetic predisposition, environmental factors, lifestyle, diet, antibiotic or nonantibiotic drug use, etc., affect the composition of the gut microbiota. Recent publications have highlighted that an imbalance in the gut microflora, known as dysbiosis, is associated with the onset and progression of neurological disorders. Moreover, characterization of the microbiome-host cross talk pathways provides insight into novel therapeutic strategies. Novel preclinical and clinical research on interventions related to the gut microbiome for treating neurological conditions, including autism spectrum disorders, Parkinson's disease, schizophrenia, multiple sclerosis, Alzheimer's disease, epilepsy, and stroke, hold significant promise. This review aims to present a comprehensive overview of the potential involvement of the human gut microbiome in the pathogenesis of neurological disorders, with a particular emphasis on the potential of microbe-based therapies and/or diagnostic microbial biomarkers. This review also discusses the potential health benefits of the administration of probiotics, prebiotics, postbiotics, and synbiotics and fecal microbiota transplantation in neurological disorders.
 
-[Source](https://www.cell.com/immunity/fulltext/S1074-7613(21)00496-9)
+[Source](https://doi.org/10.1128/CMR.00338-20)
 
-10.1016/j.immuni.2021.11.005
+10.1128/CMR.00338-20
 
 ---
 
-## Lactobacillus gallinarum modulates the gut microbiota and produces anti-cancer metabolites to protect against colorectal tumourigenesis.
- 23.12.2021, _N Sugimura, Q Li, ESH Chu, HCH Lau, W Fong, W Liu, C Liang, G Nakatsu, ACY Su, OO Coker, WKK Wu, FKL Chan, J Yu_
+## <em>Lactobacillus casei </em>Zhang exerts anti-obesity effect to obese glut1 and gut-specific-<em>glut1</em> knockout mice via gut microbiota modulation mediated different metagenomic pathways
 
-
-Using faecal shotgun metagenomic sequencing, we identified the depletion of Lactobacillus gallinarum in patients with colorectal cancer (CRC). We aimed to determine the potential antitumourigenic role of L. gallinarum in colorectal tumourigenesis.
-
-[Source](https://gut.bmj.com/content/early/2021/12/21/gutjnl-2020-323951)
-
-10.1136/gutjnl-2020-323951
+[Source](https://doi.org/10.1007/s00394-021-02764-0)
 
 ---
 
-## A catalogue of 1,167 genomes from the human gut archaeome.
- 05.01.2022, _CM Chibani, A Mahnert, G Borrel, A Almeida, A Werner, JF Brugère, S Gribaldo, RD Finn, RA Schmitz, C Moissl-Eichinger_
+## Administration of Human Derived Upper gut Commensal <em>Prevotella histicola</em> delays the onset of type 1 diabetes in NOD mice
 
-
-The human gut microbiome plays an important role in health, but its archaeal diversity remains largely unexplored. In the present study, we report the analysis of 1,167 nonredundant archaeal genomes (608 high-quality genomes) recovered from human gastrointestinal tract, sampled across 24 countries and rural and urban populations. We identified previously undescribed taxa including 3 genera, 15 species and 52 strains. Based on distinct genomic features, we justify the split of the Methanobrevibacter smithii clade into two separate species, with one represented by the previously undescribed 'Candidatus Methanobrevibacter intestini'. Patterns derived from 28,581 protein clusters showed significant associations with sociodemographic characteristics such as age groups and lifestyle. We additionally show that archaea are characterized by specific genomic and functional adaptations to the host and carry a complex virome. Our work expands our current understanding of the human archaeome and provides a large genome catalogue for future analyses to decipher its impact on human physiology.
-
-[Source](https://www.nature.com/articles/s41564-021-01020-9)
-
-10.1038/s41564-021-01020-9
+[Source](https://doi.org/10.1186/s12866-021-02406-9)
 
 ---
 
-## Variation and transmission of the human gut microbiota across multiple familial generations.
- 05.01.2022, _M Valles-Colomer, R Bacigalupe, S Vieira-Silva, S Suzuki, Y Darzi, RY Tito, T Yamada, N Segata, J Raes, G Falony_
+## Probiotic supplementation in neonates with congenital gastrointestinal surgical conditions: a pilot randomised controlled trial
 
-
-Although the composition and functional potential of the human gut microbiota evolve over the lifespan, kinship has been identified as a key covariate of microbial community diversification. However, to date, sharing of microbiota features within families has mostly been assessed between parents and their direct offspring. Here we investigate the potential transmission and persistence of familial microbiome patterns and microbial genotypes in a family cohort (n = 102) spanning 3 to 5 generations over the same female bloodline. We observe microbiome community composition associated with kinship, with seven low abundant genera displaying familial distribution patterns. While kinship and current cohabitation emerge as closely entangled variables, our explorative analyses of microbial genotype distribution and transmission estimates point at the latter as a key covariate of strain dissemination. Highest potential transmission rates are estimated between sisters and mother-daughter pairs, decreasing with increasing daughter's age and being higher among cohabiting pairs than those living apart. Although rare, we detect potential transmission events spanning three and four generations, primarily involving species of the genera Alistipes and Bacteroides. Overall, while our analyses confirm the existence of family-bound microbiome community profiles, transmission or co-acquisition of bacterial strains appears to be strongly linked to cohabitation.
-
-[Source](https://www.nature.com/articles/s41564-021-01021-8)
-
-10.1038/s41564-021-01021-8
+[Source](https://doi.org/10.1038/s41390-021-01884-x)
 
 ---
 
-## The Mouse Gastrointestinal Bacteria Catalogue enables translation between the mouse and human gut microbiotas via functional mapping.
- 31.12.2021, _BS Beresford-Jones, SC Forster, MD Stares, G Notley, E Viciani, HP Browne, DJ Boehmler, AT Soderholm, N Kumar, K Vervier, JR Cross, A Almeida, TD Lawley, VA Pedicord_
+## Dietary supplementation with low-dose xylooligosaccharide promotes the anti-<em>Salmonella</em> activity of probiotic <em>Lactiplantibacillus plantarum </em>ZS2058 in a murine model
 
-
-Human health and disease have increasingly been shown to be impacted by the gut microbiota, and mouse models are essential for investigating these effects. However, the compositions of human and mouse gut microbiotas are distinct, limiting translation of microbiota research between these hosts. To address this, we constructed the Mouse Gastrointestinal Bacteria Catalogue (MGBC), a repository of 26,640 high-quality mouse microbiota-derived bacterial genomes. This catalog enables species-level analyses for mapping functions of interest and identifying functionally equivalent taxa between the microbiotas of humans and mice. We have complemented this with a publicly deposited collection of 223 bacterial isolates, including 62 previously uncultured species, to facilitate experimental investigation of individual commensal bacteria functions in vitro and in vivo. Together, these resources provide the ability to identify and test functionally equivalent members of the host-specific gut microbiotas of humans and mice and support the informed use of mouse models in human microbiota research.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00568-0#secsectitle0040)
-
-10.1016/j.chom.2021.12.003
+[Source](https://doi.org/10.1016/j.foodres.2021.110858)
 
 ---
 
-## Integrating cultivation and metagenomics for a multi-kingdom view of skin microbiome diversity and functions
+## <em> </em>Recent understanding of human milk oligosaccharides in establishing infant gut microbiome and roles in immune system
 
-[Source](https://www.nature.com/articles/s41564-021-01011-w)
-
----
-
-## Alterations of human skin microbiome and expansion of antimicrobial resistance after systemic antibiotics
-
-[Source](https://www.science.org/doi/10.1126/scitranslmed.abd8077)
+[Source](https://doi.org/10.1016/j.foodres.2021.110884)
 
 ---
 
-## Microbiome-mediated incapacitation of interferon lambda production in the oral mucosa
+## Gut Microbiota Diversity and Overweight/Obesity in Infancy: Results from a Nested Case-control Study
 
-[Source](https://www.pnas.org/content/118/51/e2105170118.short)
-
----
-
-## Glutamic acid reshapes the plant microbiota to protect plants against pathogens 
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01186-8)
+[Source](https://doi.org/10.1007/s11596-021-2476-1)
 
 ---
 
-## Metagenomics of Antarctic Marine Sediment Reveals Potential for Diverse Chemolithoautotrophy
+## Microbiome composition indicate dysbiosis and lower richness in tumor breast tissues compared to healthy adjacent paired tissue, within the same women.
+ 04.01.2022, _MV Esposito, B Fosso, M Nunziato, G Casaburi, V D'Argenio, A Calabrese, M D'Aiuto, G Botti, G Pesole, F Salvatore_
 
-[Source](https://journals.asm.org/doi/10.1128/mSphere.00770-21)
 
----
+Breast cancer (BC) is the most common malignancy in women, in whom it reaches 20% of the total neoplasia incidence. Most BCs are considered sporadic and a number of factors, including familiarity, age, hormonal cycles and diet, have been reported to be BC risk factors. Also the gut microbiota plays a role in breast cancer development. In fact, its imbalance has been associated to various human diseases including cancer although a consequential cause-effect phenomenon has never been proven.
 
-## Dissecting the dominant hot spring microbial populations based on community-wide sampling at single-cell genomic resolutio
+[Source](https://doi.org/10.1186/s12885-021-09074-y)
 
-[Source](https://www.nature.com/articles/s41396-021-01178-4)
-
----
-
-## Fast and accurate metagenotyping of the human gut microbiome with GT-Pro
-
-[Source](https://www.nature.com/articles/s41587-021-01102-3)
+10.1186/s12885-021-09074-y
 
 ---
 
-## Rapid screening and identification of viral pathogens in metagenomic data
+## Changes in the gut bacterial communities in colon cancer surgery patients: an observational study.
+ 05.01.2022, _M Abbas, N Gaïa, NC Buchs, V Delaune, M Girard, DO Andrey, J Meyer, J Schrenzel, F Ris, S Harbarth, V Lazarevic_
 
-[Source](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-021-01138-z)
+
+Colon surgery has been shown to modulate the intestinal microbiota. Our objective was to characterize these changes using state-of-the-art next generation sequencing techniques.
+
+[Source](https://doi.org/10.1186/s13099-021-00477-7)
+
+10.1186/s13099-021-00477-7
+
+---
+
+## Endometrial microbiota composition is associated with reproductive outcome in infertile patients.
+ 04.01.2022, _I Moreno, I Garcia-Grau, D Perez-Villaroya, M Gonzalez-Monfort, M Bahçeci, MJ Barrionuevo, S Taguchi, E Puente, M Dimattina, MW Lim, G Meneghini, M Aubuchon, M Leondires, A Izquierdo, M Perez-Olgiati, A Chavez, K Seethram, D Bau, C Gomez, D Valbuena, F Vilella, C Simon_
+
+
+Previous evidence indicates associations between the female reproductive tract microbiome composition and reproductive outcome in infertile patients undergoing assisted reproduction. We aimed to determine whether the endometrial microbiota composition is associated with reproductive outcomes of live birth, biochemical pregnancy, clinical miscarriage or no pregnancy.
+
+[Source](https://doi.org/10.1186/s40168-021-01184-w)
+
+10.1186/s40168-021-01184-w
+
+---
+
+## Dysbiosis of vaginal microbiota associated with persistent high-risk human papilloma virus infection.
+ 04.01.2022, _L Mei, T Wang, Y Chen, D Wei, Y Zhang, T Cui, J Meng, X Zhang, Y Liu, L Ding, X Niu_
+
+
+The status of vaginal microbiota in persistent high-risk human papilloma virus (HR-HPV) infection is unclear. The present work aimed to identify the vaginal microbiota of persistent HPV infection and explore the possible underlying microbiota factors.
+
+[Source](https://doi.org/10.1186/s12967-021-03201-w)
+
+10.1186/s12967-021-03201-w
+
+---
+
+## Urogenital Microbiota:Potentially Important Determinant of PD-L1 Expression in Male Patients with Non-muscle Invasive Bladder Cancer.
+ 05.01.2022, _C Chen, Z Huang, P Huang, K Li, J Zeng, Y Wen, B Li, J Zhao, P Wu_
+
+
+Urogenital microbiota may be associated with the recurrence of bladder cancer, but the underlying mechanism remains unclear. The notion that microbiota can upregulate PD-L1 expression in certain epithelial tumors to promote immune escape has been demonstrated. Thus, we hypothesized that the urogenital microbiota may be involved in the recurrence and progression of non-muscle invasive bladder cancer (NMIBC) by upregulating the PD-L1 expression. To test this hypothesis, we investigated the relationship between urogenital microbial community and PD-L1 expression in male patients with NMIBC.
+
+[Source](https://doi.org/10.1186/s12866-021-02407-8)
+
+10.1186/s12866-021-02407-8
+
+---
+
+## Destabilization of the Bacterial Interactome Identifies Nutrient Restriction-Induced Dysbiosis in Insect Guts.
+ 05.01.2022, _R Marasco, M Fusi, M Callegari, C Jucker, F Mapelli, S Borin, S Savoldelli, D Daffonchio, E Crotti_
+
+
+Stress-associated dysbiosis of microbiome can have several configurations that, under an energy landscape conceptual framework, can change from one configuration to another due to different alternating selective forces. It has been proposed-according to the Anna Karenina Principle-that in stressed individuals the microbiome are more dispersed (i.e., with a higher within-beta diversity), evidencing the grade of dispersion as indicator of microbiome dysbiosis. We hypothesize that although dysbiosis leads to different microbial communities in terms of beta diversity, these are not necessarily differently dispersed (within-beta diversity), but they form disrupted networks that make them less resilient to stress. To test our hypothesis, we select nutrient restriction (NR) stress that impairs host fitness but does not introduce overt microbiome selectors, such as toxic compounds and pathogens. We fed the polyphagous black soldier fly, Hermetia illucens, with two NR diets and a control full-nutrient (FN) diet. NR diets were dysbiotic because they strongly affected insect growth and development, inducing significant microscale changes in physiochemical conditions of the gut compartments. NR diets established new configurations of the gut microbiome compared to FN-fed guts but with similar dispersion. However, these new configurations driven by the deterministic changes induced by NR diets were reflected in rarefied, less structured, and less connected bacterial interactomes. These results suggested that while the dispersion cannot be considered a consistent indicator of the unhealthy state of dysbiotic microbiomes, the capacity of the community members to maintain network connections and stability can be an indicator of the microbial dysbiotic conditions and their incapacity to sustain the holobiont resilience and host homeostasis. IMPORTANCE Changes in diet play a role in reshaping the gut microbiome in animals, inducing dysbiotic configurations of the associated microbiome. Although studies have reported on the effects of specific nutrient contents on the diet, studies regarding the conditions altering the microbiome configurations and networking in response to diet changes are limited. Our results showed that nutrient poor diets determine dysbiotic states of the host with reduction of insect weight and size, and increase of the times for developmental stage. Moreover, the poor nutrient diets lead to changes in the compositional diversity and network interaction properties of the gut microbial communities. Our study adds a new component to the understanding of the ecological processes associated with dysbiosis, by disentangling consequences of diets on microbiome dysbiosis that is manifested with the disruption of microbiome networking properties rather than changes in microbiome dispersion and beta diversity.
+
+[Source](https://doi.org/10.1128/spectrum.01580-21)
+
+10.1128/spectrum.01580-21
+
+---
+
+## Specific Strains of Honeybee Gut <em>Lactobacillus</em> Stimulate Host Immune System to Protect against Pathogenic <em>Hafnia alvei</em>
+
+[Source](https://doi.org/10.1128/spectrum.01896-21)
+
+---
+
+## Characterization of captive and wild 13-lined ground squirrel cecal microbiotas using Illumina-based sequencing.
+ 04.01.2022, _E Chiang, CL Deblois, HV Carey, G Suen_
+
+
+Hibernating animals experience extreme changes in diet that make them useful systems for understanding host-microbial symbioses. However, most of our current knowledge about the hibernator gut microbiota is derived from studies using captive animals. Given that there are substantial differences between captive and wild environments, conclusions drawn from studies with captive hibernators may not reflect the gut microbiota's role in the physiology of wild animals. To address this, we used Illumina-based sequencing of the 16S rRNA gene to compare the bacterial cecal microbiotas of captive and wild 13-lined ground squirrels (TLGS) in the summer. As the first study to use Illumina-based technology to compare the microbiotas of an obligate rodent hibernator across the year, we also reported changes in captive TLGS microbiotas in summer, winter, and spring.
+
+[Source](https://doi.org/10.1186/s42523-021-00154-9)
+
+10.1186/s42523-021-00154-9
+
+---
+
+## Metagenomic and metatranscriptomic analyses reveal minor-yet-crucial roles of gut microbiome in deep-sea hydrothermal vent snail.
+ 04.01.2022, _Y Yang, J Sun, C Chen, Y Zhou, CL Van Dover, C Wang, JW Qiu, PY Qian_
+
+
+Marine animals often exhibit complex symbiotic relationship with gut microbes to attain better use of the available resources. Many animals endemic to deep-sea chemosynthetic ecosystems host chemoautotrophic bacteria endocellularly, and they are thought to rely entirely on these symbionts for energy and nutrition. Numerous investigations have been conducted on the interdependence between these animal hosts and their chemoautotrophic symbionts. The provannid snail Alviniconcha marisindica from the Indian Ocean hydrothermal vent fields hosts a Campylobacterial endosymbiont in its gill. Unlike many other chemosymbiotic animals, the gut of A. marisindica is reduced but remains functional; yet the contribution of gut microbiomes and their interactions with the host remain poorly characterised.
+
+[Source](https://doi.org/10.1186/s42523-021-00150-z)
+
+10.1186/s42523-021-00150-z
+
+---
+
+## Host, microbiome, and complex space: applying population and landscape genetic approaches to gut microbiome research in wild populations.
+ 04.01.2022, _CE Couch, CW Epps_
+
+
+In recent years, emerging sequencing technologies and computational tools have driven a tidal wave of research on host-associated microbiomes, particularly the gut microbiome. These studies demonstrate numerous connections between the gut microbiome and vital host functions, primarily in humans, model organisms, and domestic animals. As the adaptive importance of the gut microbiome becomes clearer, interest in studying the gut microbiomes of wild populations has increased, in part due to the potential for discovering conservation applications. The study of wildlife gut microbiomes holds many new challenges and opportunities due to the complex genetic, spatial, and environmental structure of wild host populations, and the potential for these factors to interact with the microbiome. The emerging picture of adaptive coevolution in host-microbiome relationships highlights the importance of understanding microbiome variation in the context of host population genetics and landscape heterogeneity across a wide range of host populations. We propose a conceptual framework for understanding wildlife gut microbiomes in relation to landscape variables and host population genetics, including the potential of approaches derived from landscape genetics. We use this framework to review current research, synthesize important trends, highlight implications for conservation, and recommend future directions for research. Specifically, we focus on how spatial structure and environmental variation interact with host population genetics and microbiome variation in natural populations, and what we can learn from how these patterns of covariation differ depending on host ecological and evolutionary traits.
+
+[Source](https://doi.org/10.1093/jhered/esab078)
+
+10.1093/jhered/esab078
+
+---
+
+## Antibiotic resistance and potential bacterial pathogens identified in red deer's faecal DNA.
+ 04.01.2022, _D Dias, A Cruz, C Fonseca, S Mendo, TS Caetano_
+
+
+In the last decades, the wildlife-human interface has been increasing due to several anthropogenic factors. Therefore, it is crucial to be aware of the impact of these new dynamics on the health of wild animals and its associated zoonotic disease risks. This study aimed to characterise the faecal microbiota of two populations of red deer (Cervus elaphus) by metabarcoding, with a particular focus on potential human and veterinary pathogens, and to perform an assessment of antibiotic resistance genes (ARGs) ocorrence. The faecal microbiota of red deer was assessed by metabarcoding using the 16S rRNA marker, and OTUs of the genera Treponema, Yersinia, Clostridium, Mycobacterium and Rickettsia were identified. Two of them affiliated with species more commonly regarded as pathogens (Clostridium piliforme and Yersinia enterocolitica). The quantification of ARGs was performed by quantitative real-time PCR, using a metagenomic approach, and the most abundant genes were found to be blaTEM , sul1, tetracycline resistance genes (tetW, tetO and tetQ) and ermF. From these, tetO and tetW are rank II ARGs, which were recently considered future threats for human health. Our results suggest the need for screening programs for the occurrence of pathogens and ARGs in wildlife and particularly in game species. This article is protected by copyright. All rights reserved.
+
+[Source](https://doi.org/10.1111/tbed.14448)
+
+10.1111/tbed.14448
+
+---
+
+## <em> </em>Gut microbiome-immune system interaction in reptiles
+
+[Source](https://doi.org/10.1111/jam.15438)
+
+---
+
+## Contrasting Effects of Local Environmental and Biogeographic Factors on the Composition and Structure of Bacterial Communities in Arid Monospecific Mangrove Soils.
+ 05.01.2022, _T Thomson, M Fusi, MF Bennett-Smith, N Prinz, E Aylagas, S Carvalho, CE Lovelock, BH Jones, JI Ellis_
+
+
+Mangrove forests are important biotic sinks of atmospheric CO2 and play an integral role in nutrient-cycling and decontamination of coastal waters, thereby mitigating climatic and anthropogenic stressors. These services are primarily regulated by the activity of the soil microbiome. To understand how environmental changes may affect this vital part of the ecosystem, it is key to understand the patterns that drive microbial community assembly in mangrove forest soils. High-throughput amplicon sequencing (16S rRNA) was applied on samples from arid Avicennia marina forests across different spatial scales from local to regional. Alongside conventional analyses of community ecology, microbial co-occurrence networks were assessed to investigate differences in composition and structure of the bacterial community. The bacterial community composition varied more strongly along an intertidal gradient within each mangrove forest, than between forests in different geographic regions (Australia/Saudi Arabia). In contrast, co-occurrence networks differed primarily between geographic regions, illustrating that the structure of the bacterial community is not necessarily linked to its composition. The local diversity in mangrove forest soils may have important implications for the quantification of biogeochemical processes and is important to consider when planning restoration activities. IMPORTANCE Mangrove ecosystems are increasingly being recognized for their potential to sequester atmospheric carbon, thereby mitigating the effects of anthropogenically driven greenhouse gas emissions. The bacterial community in the soils plays an important role in the breakdown and recycling of carbon and other nutrients. To assess and predict changes in carbon storage, it is important to understand how the bacterial community is shaped by its environment. Here, we compared the bacterial communities of mangrove forests on different spatial scales, from local within-forest to biogeographic comparisons. The bacterial community composition differed more between distinct intertidal zones of the same forest than between forests in distant geographic regions. The calculated network structure of theoretically interacting bacteria, however, differed most between the geographic regions. Our findings highlight the importance of local environmental factors in shaping the microbial soil community in mangroves and highlight a disconnect between community composition and structure in microbial soil assemblages.
+
+[Source](https://doi.org/10.1128/spectrum.00903-21)
+
+10.1128/spectrum.00903-21
+
+---
+
+## Endophytic Microbiota of Rice and Their Collective Impact on Host Fitness.
+ 05.01.2022, _SK Jana, MM Islam, S Mandal_
+
+
+Endophytic microbiota mainly includes positive modulator of plant growth, productivity, stress tolerance and ability to control the phytopathogens. Rice endophytes colonize in different parts like roots, shoots, leaves, seeds, flowers, ovules, etc. The diversity and colonization of endophytes depend on several factors like host specificity, environment specificity, chemotaxis, motility, etc. A mutualistic relationship between rice plant and their endophytes improves the host health. Several crucial activities of rice plants are influenced by the presence of endophytes as they endorse plant growth by producing different phytohormones, solubilized minerals, or mitigating various environmental adverse conditions. Endophytes also protect rice plants from various phytopathogen by the production of secondary metabolites, lytic enzymes, antibiotics and induced systemic acquired resistance. Furthermore, the endophytes from rice and major crops are recently been shown useful in environmental waste management and also for the synthesis of green nanoparticles. This study highlights the beneficial interaction between rice plants and their endophytic microbiota with special emphasis on highlighting their application for sustainable agricultural and environmental practices in order to enhance the agro-economy in an eco-friendly manner.
+
+[Source](https://doi.org/10.1007/s00284-021-02737-w)
+
+10.1007/s00284-021-02737-w
+
+---
+
+## Spaceflight Virology: What Do We Know about Viral Threats in the Spaceflight Environment?
+ 04.01.2022, _B Pavletić, K Runzheimer, K Siems, S Koch, M Cortesão, A Ramos-Nascimento, R Moeller_
+
+
+Viruses constitute a significant part of the human microbiome, so wherever humans go, viruses are brought with them, even on space missions. In this mini review, we focus on the International Space Station (ISS) as the only current human habitat in space that has a diverse range of viral genera that infect microorganisms from bacteria to eukaryotes. Thus, we have reviewed the literature on the physical conditions of space habitats that have an impact on both virus transmissibility and interaction with their host, which include UV radiation, ionizing radiation, humidity, and microgravity. Also, we briefly comment on the practices used on space missions that reduce virus spread, that is, use of antimicrobial surfaces, spacecraft sterilization practices, and air filtration. Finally, we turn our attention to the health threats that viruses pose to space travel. Overall, even though efforts are taken to ensure safe conditions during human space travel, for example, preflight quarantines of astronauts, we reflect on the potential risks humans might be exposed to and how those risks might be aggravated in extraterrestrial habitats.
+
+[Source](https://doi.org/10.1089/ast.2021.0009)
+
+10.1089/ast.2021.0009
+
+---
+
+## Cell-Free Paper-Based Analysis of Gut Microbiota and Host Biomarkers.
+ 05.01.2022, _MK Takahashi, X Tan, AJ Dy_
+
+
+The gut microbiome and its interactions with the host have been shown to affect several aspects of human health and disease. Investigations to elucidate these mechanisms typically involve sequence analysis of fecal samples. To support these studies, we present methods to design RNA toehold switch sensors to detect microbial and host transcripts. The sensors are embedded in paper-based, cell-free reactions that enable affordable and rapid analysis of microbiome samples.
+
+[Source](https://doi.org/10.1007/978-1-0716-1998-8_22)
+
+10.1007/978-1-0716-1998-8_22
+
+---
+
+## CACONET: a novel classification framework for microbial correlation networks.
+ 04.01.2022, _Y Xu, K Nash, A Acharjee, GV Gkoutos_
+
+
+Existing microbiome-based disease prediction relies on the ability of machine learning methods to differentiate disease from healthy subjects based on the observed taxa abundance across samples. Despite numerous microbes have been implicated as potential biomarkers, challenges remain due to not only the statistical nature of microbiome data, but also the lack of understanding of microbial interactions which can be indicative of the disease.
+
+[Source](https://doi.org/10.1093/bioinformatics/btab879)
+
+10.1093/bioinformatics/btab879
 
 ---
 
