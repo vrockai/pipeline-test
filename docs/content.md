@@ -154,63 +154,33 @@ The human body is full of an extensive number of commensal microbes, consisting 
 
 ---
 
-## Contrasting Effects of Local Environmental and Biogeographic Factors on the Composition and Structure of Bacterial Communities in Arid Monospecific Mangrove Soils.
- 05.01.2022, _T Thomson, M Fusi, MF Bennett-Smith, N Prinz, E Aylagas, S Carvalho, CE Lovelock, BH Jones, JI Ellis_
-
-
-Mangrove forests are important biotic sinks of atmospheric CO2 and play an integral role in nutrient-cycling and decontamination of coastal waters, thereby mitigating climatic and anthropogenic stressors. These services are primarily regulated by the activity of the soil microbiome. To understand how environmental changes may affect this vital part of the ecosystem, it is key to understand the patterns that drive microbial community assembly in mangrove forest soils. High-throughput amplicon sequencing (16S rRNA) was applied on samples from arid Avicennia marina forests across different spatial scales from local to regional. Alongside conventional analyses of community ecology, microbial co-occurrence networks were assessed to investigate differences in composition and structure of the bacterial community. The bacterial community composition varied more strongly along an intertidal gradient within each mangrove forest, than between forests in different geographic regions (Australia/Saudi Arabia). In contrast, co-occurrence networks differed primarily between geographic regions, illustrating that the structure of the bacterial community is not necessarily linked to its composition. The local diversity in mangrove forest soils may have important implications for the quantification of biogeochemical processes and is important to consider when planning restoration activities. IMPORTANCE Mangrove ecosystems are increasingly being recognized for their potential to sequester atmospheric carbon, thereby mitigating the effects of anthropogenically driven greenhouse gas emissions. The bacterial community in the soils plays an important role in the breakdown and recycling of carbon and other nutrients. To assess and predict changes in carbon storage, it is important to understand how the bacterial community is shaped by its environment. Here, we compared the bacterial communities of mangrove forests on different spatial scales, from local within-forest to biogeographic comparisons. The bacterial community composition differed more between distinct intertidal zones of the same forest than between forests in distant geographic regions. The calculated network structure of theoretically interacting bacteria, however, differed most between the geographic regions. Our findings highlight the importance of local environmental factors in shaping the microbial soil community in mangroves and highlight a disconnect between community composition and structure in microbial soil assemblages.
+## Contrasting Effects of Local Environmental and Biogeographic Factors on the Composition and Structure of Bacterial Communities in Arid Monospecific Mangrove Soils
 
 [Source](https://doi.org/10.1128/spectrum.00903-21)
 
-10.1128/spectrum.00903-21
-
 ---
 
-## Endophytic Microbiota of Rice and Their Collective Impact on Host Fitness.
- 05.01.2022, _SK Jana, MM Islam, S Mandal_
-
-
-Endophytic microbiota mainly includes positive modulator of plant growth, productivity, stress tolerance and ability to control the phytopathogens. Rice endophytes colonize in different parts like roots, shoots, leaves, seeds, flowers, ovules, etc. The diversity and colonization of endophytes depend on several factors like host specificity, environment specificity, chemotaxis, motility, etc. A mutualistic relationship between rice plant and their endophytes improves the host health. Several crucial activities of rice plants are influenced by the presence of endophytes as they endorse plant growth by producing different phytohormones, solubilized minerals, or mitigating various environmental adverse conditions. Endophytes also protect rice plants from various phytopathogen by the production of secondary metabolites, lytic enzymes, antibiotics and induced systemic acquired resistance. Furthermore, the endophytes from rice and major crops are recently been shown useful in environmental waste management and also for the synthesis of green nanoparticles. This study highlights the beneficial interaction between rice plants and their endophytic microbiota with special emphasis on highlighting their application for sustainable agricultural and environmental practices in order to enhance the agro-economy in an eco-friendly manner.
+## Endophytic Microbiota of Rice and Their Collective Impact on Host Fitness
 
 [Source](https://doi.org/10.1007/s00284-021-02737-w)
-
-10.1007/s00284-021-02737-w
 
 ---
 
 ## Spaceflight Virology: What Do We Know about Viral Threats in the Spaceflight Environment?
- 04.01.2022, _B Pavletić, K Runzheimer, K Siems, S Koch, M Cortesão, A Ramos-Nascimento, R Moeller_
-
-
-Viruses constitute a significant part of the human microbiome, so wherever humans go, viruses are brought with them, even on space missions. In this mini review, we focus on the International Space Station (ISS) as the only current human habitat in space that has a diverse range of viral genera that infect microorganisms from bacteria to eukaryotes. Thus, we have reviewed the literature on the physical conditions of space habitats that have an impact on both virus transmissibility and interaction with their host, which include UV radiation, ionizing radiation, humidity, and microgravity. Also, we briefly comment on the practices used on space missions that reduce virus spread, that is, use of antimicrobial surfaces, spacecraft sterilization practices, and air filtration. Finally, we turn our attention to the health threats that viruses pose to space travel. Overall, even though efforts are taken to ensure safe conditions during human space travel, for example, preflight quarantines of astronauts, we reflect on the potential risks humans might be exposed to and how those risks might be aggravated in extraterrestrial habitats.
 
 [Source](https://doi.org/10.1089/ast.2021.0009)
 
-10.1089/ast.2021.0009
-
 ---
 
-## Cell-Free Paper-Based Analysis of Gut Microbiota and Host Biomarkers.
- 05.01.2022, _MK Takahashi, X Tan, AJ Dy_
-
-
-The gut microbiome and its interactions with the host have been shown to affect several aspects of human health and disease. Investigations to elucidate these mechanisms typically involve sequence analysis of fecal samples. To support these studies, we present methods to design RNA toehold switch sensors to detect microbial and host transcripts. The sensors are embedded in paper-based, cell-free reactions that enable affordable and rapid analysis of microbiome samples.
+## Cell-Free Paper-Based Analysis of Gut Microbiota and Host Biomarkers
 
 [Source](https://doi.org/10.1007/978-1-0716-1998-8_22)
 
-10.1007/978-1-0716-1998-8_22
-
 ---
 
-## CACONET: a novel classification framework for microbial correlation networks.
- 04.01.2022, _Y Xu, K Nash, A Acharjee, GV Gkoutos_
-
-
-Existing microbiome-based disease prediction relies on the ability of machine learning methods to differentiate disease from healthy subjects based on the observed taxa abundance across samples. Despite numerous microbes have been implicated as potential biomarkers, challenges remain due to not only the statistical nature of microbiome data, but also the lack of understanding of microbial interactions which can be indicative of the disease.
+## CACONET: a novel classification framework for microbial correlation networks
 
 [Source](https://doi.org/10.1093/bioinformatics/btab879)
-
-10.1093/bioinformatics/btab879
 
 ---
 
