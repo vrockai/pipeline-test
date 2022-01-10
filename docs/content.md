@@ -1,60 +1,294 @@
-## Controlled spatial organization of bacterial growth reveals key role of cell filamentation preceding <em>Xylella fastidiosa</em> biofilm formation
+## #SGBUG
 
-[Source](https://www.nature.com/articles/s41522-021-00258-9)
-
----
-
-## Bacteria can be selected to help beneficial plasmids spread.
- 24.12.2021, _T Dimitriu, D Misevic, AB Lindner, F Taddei, SP Brown_
-
-
-A recent commentary raised concerns about aspects of the model and assumptions used in a previous study which demonstrated that selection can favor chromosomal alleles that confer higher plasmid donation rates. Here, the authors of that previous study respond to the concerns raised.
-
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001489)
-
-10.1371/journal.pbio.3001489
+[Source](https://twitter.com/hashtag/SGBUG?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Genome-wide gene expression noise in <em>Escherichia coli</em> is condition-dependent and determined by propagation of noise through the regulatory network
+## @JchenLab
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001491)
-
----
-
-## Detection of <em>Pneumocystis jirovecii</em> and <em>Toxoplasma gondii </em>in patients with lung infections by a duplex qPCR assay
-
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010025)
+[Source](https://twitter.com/JchenLab?ref_src=twsrc%5Etfw)
 
 ---
 
-## Barcoded <em>Asaia </em>bacteria enable mosquito in vivo screens and identify novel systemic insecticides and inhibitors of malaria transmission
+## @MicrobiomDigest
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001426)
-
----
-
-## Molecular phylogeny of heritable symbionts and microbiota diversity analysis in phlebotominae sand flies and <em>Culex nigripalpus</em> from Colombia
-
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009942)
+[Source](https://twitter.com/MicrobiomDigest?ref_src=twsrc%5Etfw)
 
 ---
 
-## Shotgun sequence-based metataxonomic and predictive functional profiles of <em>Pe poke</em>, a naturally fermented soybean food of Myanmar
+## @MicrobiomeVIF
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260777)
-
----
-
-## Flooding and ecological restoration promote wetland microbial communities and soil functions on former cranberry farmland
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260933)
+[Source](https://twitter.com/MicrobiomeVIF?ref_src=twsrc%5Etfw)
 
 ---
 
-## Coral reef biofilm bacterial diversity and successional trajectories are structured by reef benthic organisms and shift under chronic nutrient enrichment
+## @EranElinav
 
-[Source](https://www.nature.com/articles/s41522-021-00252-1)
+[Source](https://twitter.com/EranElinav?ref_src=twsrc%5Etfw)
+
+---
+
+## #GloMiNe
+
+[Source](https://twitter.com/hashtag/GloMiNe?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## @IGCiencia
+
+[Source](https://twitter.com/IGCiencia?ref_src=twsrc%5Etfw)
+
+---
+
+## #microbiotavault
+
+[Source](https://twitter.com/hashtag/microbiotavault?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## January 3, 2022
+
+[Source](https://twitter.com/svetlana_up/status/1477867080200626177?ref_src=twsrc%5Etfw)
+
+---
+
+## Review: The role of the microbiota in the management of intensive care patients
+
+[Source](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-021-00976-5)
+
+---
+
+## Review: The Gut Microbiome in Myalgic Encephalomyelitis (ME)/Chronic Fatigue Syndrome (CFS)
+
+[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2021.628741/full)
+
+---
+
+## Review: Opioid Use, Gut Dysbiosis, Inflammation, and the Nervous System
+
+[Source](https://link.springer.com/article/10.1007%2Fs11481-021-10046-z)
+
+---
+
+## *A Semi-Quantitative Assay to Measure Glycosaminoglycan Degradation by the Urinary Microbiota
+
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2021.803409/full)
+
+---
+
+## @NicoleDeNisco
+
+[Source](https://twitter.com/NicoleDeNisco?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/fTbPrO1QH6
+
+[Source](https://t.co/fTbPrO1QH6)
+
+---
+
+## January 3, 2022
+
+[Source](https://twitter.com/viviannguyenH/status/1478041386792460292?ref_src=twsrc%5Etfw)
+
+---
+
+## Composition and Stability of the Vaginal Microbiota of Pregnant Women With Inflammatory Bowel Disease 
+
+[Source](https://academic.oup.com/ibdjournal/advance-article/doi/10.1093/ibd/izab314/6468817)
+
+---
+
+## *Anatomy promotes neutral coexistence of strains in the human skin microbiome
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1931312821005783)
+
+---
+
+## https://t.co/VpSv7d6aNA
+
+[Source](https://t.co/VpSv7d6aNA)
+
+---
+
+## pic.twitter.com/VtbL3NKx7e
+
+[Source](https://t.co/VtbL3NKx7e)
+
+---
+
+## January 6, 2022
+
+[Source](https://twitter.com/arolynconwill/status/1479133400845807616?ref_src=twsrc%5Etfw)
+
+---
+
+## Tenets of a Holistic Approach to Drinking Water-Associated Pathogen Research, Management, and Communication
+
+[Source](https://www.sciencedirect.com/science/article/pii/S004313542101191X)
+
+---
+
+## Possibilities and limits for using the gut microbiome to improve captive animal health.
+ 07.01.2022, _J Diaz, AT Reese_
+
+
+Because of its potential to modulate host health, the gut microbiome of captive animals has become an increasingly important area of research. In this paper, we review the current literature comparing the gut microbiomes of wild and captive animals, as well as experiments tracking the microbiome when animals are moved between wild and captive environments. As a whole, these studies report highly idiosyncratic results with significant differences in the effect of captivity on the gut microbiome between host species. While a few studies have analyzed the functional capacity of captive microbiomes, there has been little research directly addressing the health consequences of captive microbiomes. Therefore, the current body of literature cannot broadly answer what costs, if any, arise from having a captive microbiome in captivity. Addressing this outstanding question will be critical to determining whether it is worth pursuing microbial manipulations as a conservation tool. To stimulate the next wave of research which can tie the captive microbiome to functional and health impacts, we outline a wide range of tools that can be used to manipulate the microbiome in captivity and suggest a variety of methods for measuring the impact of such manipulation preceding therapeutic use. Altogether, we caution researchers against generalizing results between host species given the variability in gut community responses to captivity and highlight the need to understand what role the gut microbiome plays in captive animal health before putting microbiome manipulations broadly into practice.
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00155-8)
+
+10.1186/s42523-021-00155-8
+
+---
+
+## Review: Possibilities and limits for using the gut microbiome to improve captive animal health
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00155-8)
+
+---
+
+## The mosquito microbiome includes habitat-specific but rare symbionts
+
+[Source](https://www.sciencedirect.com/science/article/pii/S2001037021005286)
+
+---
+
+## Resistance and Vulnerability of Honeybee (Apis mellifera) Gut Bacteria to Commonly Used Pesticides.
+ 21.09.2021, _A Cuesta-Maté, J Renelies-Hamilton, P Kryger, AB Jensen, VM Sinotte, M Poulsen_
+
+
+Agricultural and apicultural practices expose honeybees to a range of pesticides that have the potential to negatively affect their physiology, neurobiology, and behavior. Accumulating evidence suggests that these effects extend to the honeybee gut microbiome, which serves important functions for honeybee health. Here we test the potential effects of the pesticides thiacloprid, acetamiprid, and oxalic acid on the gut microbiota of honeybees, first in direct in vitro inhibition assays and secondly in an in vivo caged bee experiment to test if exposure leads to gut microbiota community changes. We found that thiacloprid did not inhibit the honeybee core gut bacteria in vitro, nor did it affect overall community composition or richness in vivo. Acetamiprid did also not inhibit bacterial growth in vitro, but it did affect community structure within bees. The eight bacterial genera tested showed variable levels of susceptibility to oxalic acid in vitro. In vivo, treatment with this pesticide reduced amplicon sequence variant (ASV) richness and affected gut microbiome composition, with most marked impact on the common crop bacteria Lactobacillus kunkeei and the genus Bombella. We conducted network analyses which captured known associations between bacterial members and illustrated the sensitivity of the microbiome to environmental stressors. Our findings point to risks of honeybee exposure to oxalic acid, which has been deemed safe for use in treatment against Varroa mites in honeybee colonies, and we advocate for more extensive assessment of the long-term effects that it may have on honeybee health.
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.31.474534v1)
+
+10.3389/fmicb.2021.717990
+
+---
+
+## *The gut microbiota affects the social network of honeybees
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.31.474534v1)
+
+---
+
+## @JoanitoLiberti
+
+[Source](https://twitter.com/JoanitoLiberti?ref_src=twsrc%5Etfw)
+
+---
+
+## @KellerLab_Ants
+
+[Source](https://twitter.com/KellerLab_Ants?ref_src=twsrc%5Etfw)
+
+---
+
+## @DEE_UNIL
+
+[Source](https://twitter.com/DEE_UNIL?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/phOwLSNS23
+
+[Source](https://t.co/phOwLSNS23)
+
+---
+
+## January 3, 2022
+
+[Source](https://twitter.com/PEngellab/status/1477945088491802628?ref_src=twsrc%5Etfw)
+
+---
+
+## Combined assembly of long and short sequencing reads improve the efficiency of exploring the soil metagenome
+
+[Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08260-3)
+
+---
+
+## Enrichment of gut microbiome strains for cultivation-free genome sequencing using droplet microfluidics 
+
+[Source](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00206-X)
+
+---
+
+## When to suspect contamination rather than colonization – lessons from a putative fetal sheep microbiome
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.2005751)
+
+---
+
+## *Microvolume DNA extraction methods for microscale amplicon and metagenomic studies
+
+[Source](https://www.nature.com/articles/s43705-021-00079-z)
+
+---
+
+## @PhilHugenholtz
+
+[Source](https://twitter.com/PhilHugenholtz?ref_src=twsrc%5Etfw)
+
+---
+
+## #microvolumes
+
+[Source](https://twitter.com/hashtag/microvolumes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/MhH6offxGB
+
+[Source](https://t.co/MhH6offxGB)
+
+---
+
+## December 17, 2021
+
+[Source](https://twitter.com/ChristianRinke/status/1471816641197477898?ref_src=twsrc%5Etfw)
+
+---
+
+## *LotuS2: An ultrafast and highly accurate tool for amplicon sequencing analysis
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.24.474111v1)
+
+---
+
+## Generating lineage-resolved, complete metagenome-assembled genomes from complex microbial communities
+
+[Source](https://www.nature.com/articles/s41587-021-01130-z)
+
+---
+
+## @AcademicChatter
+
+[Source](https://twitter.com/AcademicChatter?ref_src=twsrc%5Etfw)
+
+---
+
+## #AcademicTwitter
+
+[Source](https://twitter.com/hashtag/AcademicTwitter?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## @OpenAcademics
+
+[Source](https://twitter.com/OpenAcademics?ref_src=twsrc%5Etfw)
+
+---
+
+## #PhDchat
+
+[Source](https://twitter.com/hashtag/PhDchat?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## December 30, 2021
+
+[Source](https://twitter.com/rodriguesjm6/status/1476580189316562953?ref_src=twsrc%5Etfw)
 
 ---
 
