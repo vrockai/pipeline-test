@@ -130,6 +130,18 @@
 
 ---
 
+## Possibilities and limits for using the gut microbiome to improve captive animal health.
+ 07.01.2022, _J Diaz, AT Reese_
+
+
+Because of its potential to modulate host health, the gut microbiome of captive animals has become an increasingly important area of research. In this paper, we review the current literature comparing the gut microbiomes of wild and captive animals, as well as experiments tracking the microbiome when animals are moved between wild and captive environments. As a whole, these studies report highly idiosyncratic results with significant differences in the effect of captivity on the gut microbiome between host species. While a few studies have analyzed the functional capacity of captive microbiomes, there has been little research directly addressing the health consequences of captive microbiomes. Therefore, the current body of literature cannot broadly answer what costs, if any, arise from having a captive microbiome in captivity. Addressing this outstanding question will be critical to determining whether it is worth pursuing microbial manipulations as a conservation tool. To stimulate the next wave of research which can tie the captive microbiome to functional and health impacts, we outline a wide range of tools that can be used to manipulate the microbiome in captivity and suggest a variety of methods for measuring the impact of such manipulation preceding therapeutic use. Altogether, we caution researchers against generalizing results between host species given the variability in gut community responses to captivity and highlight the need to understand what role the gut microbiome plays in captive animal health before putting microbiome manipulations broadly into practice.
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00155-8)
+
+10.1186/s42523-021-00155-8
+
+---
+
 ## Review: Possibilities and limits for using the gut microbiome to improve captive animal health
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00155-8)
@@ -139,6 +151,18 @@
 ## The mosquito microbiome includes habitat-specific but rare symbionts
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2001037021005286)
+
+---
+
+## Resistance and Vulnerability of Honeybee (Apis mellifera) Gut Bacteria to Commonly Used Pesticides.
+ 21.09.2021, _A Cuesta-Maté, J Renelies-Hamilton, P Kryger, AB Jensen, VM Sinotte, M Poulsen_
+
+
+Agricultural and apicultural practices expose honeybees to a range of pesticides that have the potential to negatively affect their physiology, neurobiology, and behavior. Accumulating evidence suggests that these effects extend to the honeybee gut microbiome, which serves important functions for honeybee health. Here we test the potential effects of the pesticides thiacloprid, acetamiprid, and oxalic acid on the gut microbiota of honeybees, first in direct in vitro inhibition assays and secondly in an in vivo caged bee experiment to test if exposure leads to gut microbiota community changes. We found that thiacloprid did not inhibit the honeybee core gut bacteria in vitro, nor did it affect overall community composition or richness in vivo. Acetamiprid did also not inhibit bacterial growth in vitro, but it did affect community structure within bees. The eight bacterial genera tested showed variable levels of susceptibility to oxalic acid in vitro. In vivo, treatment with this pesticide reduced amplicon sequence variant (ASV) richness and affected gut microbiome composition, with most marked impact on the common crop bacteria Lactobacillus kunkeei and the genus Bombella. We conducted network analyses which captured known associations between bacterial members and illustrated the sensitivity of the microbiome to environmental stressors. Our findings point to risks of honeybee exposure to oxalic acid, which has been deemed safe for use in treatment against Varroa mites in honeybee colonies, and we advocate for more extensive assessment of the long-term effects that it may have on honeybee health.
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.31.474534v1)
+
+10.3389/fmicb.2021.717990
 
 ---
 
