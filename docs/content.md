@@ -178,15 +178,9 @@
 
 ---
 
-## Combined assembly of long and short sequencing reads improve the efficiency of exploring the soil metagenome.
- 10.01.2022, _G Xu, L Zhang, X Liu, F Guan, Y Xu, H Yue, JQ Huang, J Chen, N Wu, J Tian_
-
-
-Advances in DNA sequencing technologies have transformed our capacity to perform life science research, decipher the dynamics of complex soil microbial communities and exploit them for plant disease management. However, soil is a complex conglomerate, which makes functional metagenomics studies very challenging.
+## Combined assembly of long and short sequencing reads improve the efficiency of exploring the soil metagenome
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08260-3)
-
-10.1186/s12864-021-08260-3
 
 ---
 
