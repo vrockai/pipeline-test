@@ -130,18 +130,6 @@
 
 ---
 
-## Possibilities and limits for using the gut microbiome to improve captive animal health.
- 07.01.2022, _J Diaz, AT Reese_
-
-
-Because of its potential to modulate host health, the gut microbiome of captive animals has become an increasingly important area of research. In this paper, we review the current literature comparing the gut microbiomes of wild and captive animals, as well as experiments tracking the microbiome when animals are moved between wild and captive environments. As a whole, these studies report highly idiosyncratic results with significant differences in the effect of captivity on the gut microbiome between host species. While a few studies have analyzed the functional capacity of captive microbiomes, there has been little research directly addressing the health consequences of captive microbiomes. Therefore, the current body of literature cannot broadly answer what costs, if any, arise from having a captive microbiome in captivity. Addressing this outstanding question will be critical to determining whether it is worth pursuing microbial manipulations as a conservation tool. To stimulate the next wave of research which can tie the captive microbiome to functional and health impacts, we outline a wide range of tools that can be used to manipulate the microbiome in captivity and suggest a variety of methods for measuring the impact of such manipulation preceding therapeutic use. Altogether, we caution researchers against generalizing results between host species given the variability in gut community responses to captivity and highlight the need to understand what role the gut microbiome plays in captive animal health before putting microbiome manipulations broadly into practice.
-
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00155-8)
-
-10.1186/s42523-021-00155-8
-
----
-
 ## Review: Possibilities and limits for using the gut microbiome to improve captive animal health
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00155-8)
@@ -151,18 +139,6 @@ Because of its potential to modulate host health, the gut microbiome of captive 
 ## The mosquito microbiome includes habitat-specific but rare symbionts
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2001037021005286)
-
----
-
-## Resistance and Vulnerability of Honeybee (Apis mellifera) Gut Bacteria to Commonly Used Pesticides.
- 21.09.2021, _A Cuesta-Maté, J Renelies-Hamilton, P Kryger, AB Jensen, VM Sinotte, M Poulsen_
-
-
-Agricultural and apicultural practices expose honeybees to a range of pesticides that have the potential to negatively affect their physiology, neurobiology, and behavior. Accumulating evidence suggests that these effects extend to the honeybee gut microbiome, which serves important functions for honeybee health. Here we test the potential effects of the pesticides thiacloprid, acetamiprid, and oxalic acid on the gut microbiota of honeybees, first in direct in vitro inhibition assays and secondly in an in vivo caged bee experiment to test if exposure leads to gut microbiota community changes. We found that thiacloprid did not inhibit the honeybee core gut bacteria in vitro, nor did it affect overall community composition or richness in vivo. Acetamiprid did also not inhibit bacterial growth in vitro, but it did affect community structure within bees. The eight bacterial genera tested showed variable levels of susceptibility to oxalic acid in vitro. In vivo, treatment with this pesticide reduced amplicon sequence variant (ASV) richness and affected gut microbiome composition, with most marked impact on the common crop bacteria Lactobacillus kunkeei and the genus Bombella. We conducted network analyses which captured known associations between bacterial members and illustrated the sensitivity of the microbiome to environmental stressors. Our findings point to risks of honeybee exposure to oxalic acid, which has been deemed safe for use in treatment against Varroa mites in honeybee colonies, and we advocate for more extensive assessment of the long-term effects that it may have on honeybee health.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.31.474534v1)
-
-10.3389/fmicb.2021.717990
 
 ---
 
@@ -214,9 +190,15 @@ Agricultural and apicultural practices expose honeybees to a range of pesticides
 
 ---
 
-## When to suspect contamination rather than colonization – lessons from a putative fetal sheep microbiome
+## When to suspect contamination rather than colonization - lessons from a putative fetal sheep microbiome.
+ 07.01.2022, _S Bihl, M de Goffau, D Podlesny, N Segata, F Shanahan, J Walter, WF Fricke_
+
+
+There is an ongoing controversy around the existence of a prenatal, fetal microbiome in humans, livestock, and other animals. The 'in utero microbial colonization' hypothesis challenges the clinical paradigm of the 'sterile womb' but has been criticized for its reliance on DNA-based evidence to detect microbiomes and the failure to conciliate the routine experimental derivation of germ-free animals from surgically resected embryos with a thriving fetal microbiome. In order to avoid the propagation of misinformation in the scientific literature, a critical assessment and careful review of newly published studies, particularly those that challenge the convincing current clinical dogma of the sterile womb, is of critical importance.We read with interest a recent publication that postulated the presence of a fetal microbiome in sheep, but questioned the plausibility of the reported findings and their meaningfulness to prove "microbial colonisation of the fetal gut […] in utero". We reanalyzed the published metagenomic and metatranscriptomic sequence data from the original publication and identified evidence for different types of contamination that affected all samples alike and could explain the reported findings without requiring the existence of a fetal microbiome.Our reanalysis challenges the reported findings as supportive of a prenatal fetal lamb microbiome. The shortcomings of the original analysis and data interpretation highlight common problems of low-biomass microbiome projects. We propose genomic independence of separate biological samples, i.e. distinctive profiles at the microbial strain level, as a potential new microbiome marker to increase confidence in metagenomics analyses of controversial low-biomass microbiomes.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.2005751)
+
+10.1080/19490976.2021.2005751
 
 ---
 
