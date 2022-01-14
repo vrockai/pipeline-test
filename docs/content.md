@@ -71,7 +71,7 @@ Current evidence suggests that bacteria contribute to the development of certain
 ---
 
 ## Age-Associated Gut Dysbiosis, Marked by Loss of Butyrogenic Potential, Correlates With Altered Plasma Tryptophan Metabolites in Older People Living With HIV.
- 11.01.2022, _S Ghare, R Singhal, V Bryant, S Gautam, CC Tirumala, PK Srisailam, A Reyes-Vega, D Ghooray, CJ McClain, K Hoffman, J Petrosino, K Bryant, V Govind, R Cohen, RL Cook, S Barve_
+ 13.01.2022, _S Ghare, R Singhal, V Bryant, S Gautam, CC Tirumala, PK Srisailam, A Reyes-Vega, D Ghooray, CJ McClain, K Hoffman, J Petrosino, K Bryant, V Govind, R Cohen, RL Cook, S Barve_
 
 
 Imbalance in tryptophan (TRP) metabolism and its neuroactive metabolites, serotonin and kynurenine (KYN), is a known pathogenic mechanism underlying neurocognitive impairment. Gut microbiota plays an important role in TRP metabolism, and the production of these neuroactive molecules affects neurocognitive function. Although both HIV infection and normal aging independently induce gut dysbiosis and influence TRP metabolism, their interactive effects on compositional/functional changes in gut microbiota and consequent alterations in TRP metabolites remain largely undetermined.
@@ -107,7 +107,7 @@ In ecology, population density is a key feature of community analysis. Yet in st
 ---
 
 ## Consistent changes in the intestinal microbiota of Atlantic salmon fed insect meal diets.
- 11.01.2022, _Y Li, K Gajardo, A Jaramillo-Torres, TM Kortner, Å Krogdahl_
+ 13.01.2022, _Y Li, K Gajardo, A Jaramillo-Torres, TM Kortner, Å Krogdahl_
 
 
 Being part of fish's natural diets, insects have become a practical alternative feed ingredient for aquaculture. While nutritional values of insects have been extensively studied in various fish species, their impact on the fish microbiota remains to be fully explored. In an 8-week freshwater feeding trial, Atlantic salmon (Salmo salar) were fed either a commercially relevant reference diet or an insect meal diet wherein black soldier fly (Hermetia illucens) larvae meal comprised 60% of total ingredients. Microbiota of digesta and mucosa origin from the proximal and distal intestine were collected and profiled along with feed and water samples.
