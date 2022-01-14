@@ -1,227 +1,289 @@
-## It's the Economy, Stupid: Applying (Micro)economic Principles to Microbiome Science.
- 11.01.2022, _N Kashtan, B Bushong, JHJ Leveau_
+## Innate lymphoid cells regulate intestinal epithelial cell glycosylation.
+ 21.10.2021, _Y Goto, T Obata, J Kunisawa, S Sato, II Ivanov, A Lamichhane, N Takeyama, M Kamioka, M Sakamoto, T Matsuki, H Setoyama, A Imaoka, S Uematsu, S Akira, SE Domino, P Kulig, B Becher, JC Renauld, C Sasakawa, Y Umesaki, Y Benno, H Kiyono_
 
 
-A key challenge in microbiome science is the scale mismatch problem, which arises when the scale at which microbial communities are sampled, interrogated, and averaged is different from the scale at which individual microorganisms within those communities interact with each other and with their environment. Profiling the microbial communities in a teaspoon of soil, from a scoop of fecal matter, or along a plant leaf surface represents a scale mismatch of multiple orders of magnitude, which may limit our ability to interpret or predict species interactions and community assembly within such samples. In this Perspective, we explore how economists, who are historically and topically split along the lines of micro- and macroeconomics, deal with the scale mismatch problem, and how taking clues from (micro)economists could benefit the field of microbiomics.
+_Animals, Base Sequence, Disease Models, Animal, Fucose, Fucosyltransferases, Germ-Free Life, Glycosylation, Goblet Cells, Ileum, Immunity, Innate, Interleukins, Intestinal Mucosa, Lymphocytes, Mice, Mice, Inbred BALB C, Mice, Inbred C57BL, Mice, Mutant Strains, Microbiota, Molecular Sequence Data, Paneth Cells, Salmonella Infections, Salmonella typhimurium_
+Fucosylation of intestinal epithelial cells, catalyzed by fucosyltransferase 2 (Fut2), is a major glycosylation mechanism of host-microbiota symbiosis. Commensal bacteria induce epithelial fucosylation, and epithelial fucose is used as a dietary carbohydrate by many of these bacteria. However, the molecular and cellular mechanisms that regulate the induction of epithelial fucosylation are unknown. Here, we show that type 3 innate lymphoid cells (ILC3) induced intestinal epithelial Fut2 expression and fucosylation in mice. This induction required the cytokines interleukin-22 and lymphotoxin in a commensal bacteria-dependent and -independent manner, respectively. Disruption of intestinal fucosylation led to increased susceptibility to infection by Salmonella typhimurium. Our data reveal a role for ILC3 in shaping the gut microenvironment through the regulation of epithelial glycosylation.
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.01033-21)
+[Source](https://doi.org/10.1073/pnas.2115230119)
 
-10.1128/msystems.01033-21
-
----
-
-## Conceptual Exchanges for Understanding Free-Living and Host-Associated Microbiomes.
- 11.01.2022, _CA Pfister, SH Light, B Bohannan, T Schmidt, A Martiny, NA Hynson, S Devkota, L David, K Whiteson_
-
-
-Whether a microbe is free-living or associated with a host from across the tree of life, its existence depends on a limited number of elements and electron donors and acceptors. Yet divergent approaches have been used by investigators from different fields. The "environment first" research tradition emphasizes thermodynamics and biogeochemical principles, including the quantification of redox environments and elemental stoichiometry to identify transformations and thus an underlying microbe. The increasingly common "microbe first" research approach benefits from culturing and/or DNA sequencing methods to first identify a microbe and encoded metabolic functions. Here, the microbe itself serves as an indicator for environmental conditions and transformations. We illustrate the application of both approaches to the study of microbiomes and emphasize how both can reveal the selection of microbial metabolisms across diverse environments, anticipate alterations to microbiomes in host health, and understand the implications of a changing climate for microbial function.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.01374-21)
-
-10.1128/msystems.01374-21
+10.1126/science.1254009
 
 ---
 
-## Endometrial microbiota composition is associated with reproductive outcome in infertile patients.
- 07.01.2022, _I Moreno, I Garcia-Grau, D Perez-Villaroya, M Gonzalez-Monfort, M Bahçeci, MJ Barrionuevo, S Taguchi, E Puente, M Dimattina, MW Lim, G Meneghini, M Aubuchon, M Leondires, A Izquierdo, M Perez-Olgiati, A Chavez, K Seethram, D Bau, C Gomez, D Valbuena, F Vilella, C Simon_
+## Intestinal commensal microbiota and cytokines regulate Fut2(+) Paneth cells for gut defense
 
-
-Previous evidence indicates associations between the female reproductive tract microbiome composition and reproductive outcome in infertile patients undergoing assisted reproduction. We aimed to determine whether the endometrial microbiota composition is associated with reproductive outcomes of live birth, biochemical pregnancy, clinical miscarriage or no pregnancy.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01184-w)
-
-10.1186/s40168-021-01184-w
+[Source](https://doi.org/10.1073/pnas.2115230119)
 
 ---
 
-## Temporal development of the infant oral microbiome.
- 11.01.2022, _J Blum, M Silva, SJ Byrne, CA Butler, GG Adams, EC Reynolds, SG Dashper_
+## Gut microbiota promotes cholesterol gallstone formation by modulating bile acid composition and biliary cholesterol secretion.
+ 12.01.2022, _H Hu, W Shao, Q Liu, N Liu, Q Wang, J Xu, X Zhang, Z Weng, Q Lu, L Jiao, C Chen, H Sun, Z Jiang, X Zhang, A Gu_
 
 
-The human oral microbiome is becoming recognized as playing roles in health and disease well beyond the oral cavity over the lifetime of the individual. The oral microbiome is hypothesized to result from specific colonization events followed by a reproducible and ordered development of complex bacterial communities. Colonization events, proliferation, succession and subsequent community development are dependent on a range of host and environmental factors, most notably the neonate diet. It is now becoming apparent that early childhood and prenatal influences can have long term effects on the development of human oral microbiomes. In this review, the temporal development of the infant human oral microbiome is examined, with the effects of prenatal and postnatal influences and the roles of specific bacteria. Dietary and environmental factors, especially breastfeeding, have a significant influence on the development of the infant oral microbiome. The evidence available regarding the roles and functions of early colonizing bacteria is still limited, and gaps in knowledge where further research is needed to elucidate these specific roles in relation to health and disease still exist.
+Cholesterol gallstone disease is a worldwide common disease. Cholesterol supersaturation in gallbladder bile is the prerequisite for its pathogenesis, while the mechanism is not completely understood. In this study, we find enrichment of gut microbiota (especially Desulfovibrionales) in patients with gallstone disease. Fecal transplantation of gut microbiota from gallstone patients to gallstone-resistant strain of mice can induce gallstone formation. Carrying Desulfovibrionales is associated with enhanced cecal secondary bile acids production and increase of bile acid hydrophobicity facilitating intestinal cholesterol absorption. Meanwhile, the metabolic product of Desulfovibrionales, H2S increase and is shown to induce hepatic FXR and inhibit CYP7A1 expression. Mice carrying Desulfovibrionales present induction of hepatic expression of cholesterol transporters Abcg5/g8 to promote biliary secretion of cholesterol as well. Our study demonstrates the role of gut microbiota, Desulfovibrionales, as an environmental regulator contributing to gallstone formation through its influence on bile acid and cholesterol metabolism.
 
-[Source](https://www.tandfonline.com/doi/abs/10.1080/1040841X.2021.2025042?journalCode=imby20)
+[Source](https://doi.org/10.1038/s41467-021-27758-8)
 
-10.1080/1040841X.2021.2025042
-
----
-
-## Effect of antibiotic pretreatment on bacterial engraftment after Fecal Microbiota Transplant (FMT) in IBS-D.
- 11.01.2022, _P Singh, EJ Alm, JM Kelley, V Cheng, M Smith, Z Kassam, J Nee, J Iturrino, A Lembo_
-
-
-Fecal microbiota transplantation (FMT) is an attractive strategy to correct microbial dysbiosis in diarrhea-predominant irritable bowel syndrome (IBS-D). Although the mechanism of FMT is thought to be bacterial engraftment, the best approach to achieve engraftment after FMT in IBS-D (and other diseases) is not clear. We evaluated the effect of FMT (with or without pretreatment with antibiotics) on gut microbiome and symptoms in patients with IBS-D. In this randomized, placebo-controlled, single-center study, 44 patients with IBS-D with a least moderate severity (IBS severity scoring system, i.e., IBS-SSS, ≥175) were randomly assigned to one of four groups: single-dose oral FMT alone, single-dose oral FMT following a 7-day pretreatment course of Ciprofloxacin and Metronidazole (CM-FMT) or Rifaximin (R-FMT), or Placebo FMT. Primary endpoint was engraftment post-FMT and secondary endpoints were changes in IBS-SSS, and IBS-quality of life (IBS-QOL) at week 10. Median engraftment was significantly different among the three FMT groups (P = .013). Engraftment post-FMT was significantly higher in the FMT alone arm (15.5%) compared to that in R-FMT group (5%, P = .04) and CM-FMT group (2.4%, P = .002). The mean change in IBS-SSS and IBS-QOL from baseline were not significantly different among the four groups or between the three FMT groups combined vs. placebo at week 10. In summary, antibiotic pretreatment significantly reduced bacterial engraftment after FMT in patients with IBS-D.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.2020067)
-
-10.1080/19490976.2021.2020067
+10.1038/s41467-021-27758-8
 
 ---
 
-## The gut microbiota can orchestrate the signaling pathways in colorectal cancer.
- 10.01.2022, _ALB Bennedsen, S Furbo, T Bjarnsholt, H Raskov, I Gögenur, L Kvich_
+## Non-typeable <em>Haemophilus influenzae</em>–<em>Moraxella catarrhalis</em> vaccine for the prevention of exacerbations in chronic obstructive pulmonary disease: a multicentre, randomised, placebo-controlled, observer-blinded, proof-of-concept, phase 2b trial
 
-
-Current evidence suggests that bacteria contribute to the development of certain cancers, such as colorectal cancer (CRC), partly by stimulating chronic inflammation. However, little is known about the bacterial impact on molecular pathways in CRC. Recent studies have demonstrated how specific bacteria can influence the major CRC-related pathways, i.e., Wnt, PI3K-Akt, MAPK, TGF-β, EGFR, mTOR, and p53. In order to advance the current understanding and facilitate the choice of pathways to investigate, we have systematically collected and summarized the current knowledge within bacterial-altered major pathways in CRC. Several pro-tumorigenic and anti-tumorigenic bacterial species and their respective metabolites interfere with the major signaling pathways addressed in this review. Not surprisingly, some of these studies investigated known CRC drivers, such as Escherichia coli, Fusobacterium nucleatum, and Bacteroides fragilis. Interestingly, some metabolites produced by bacterial species typically considered pathogenic, ex Vibrio cholera, displayed anti-tumorigenic activities, emphasizing the caution needed when classifying healthy and unhealthy microorganisms. The results collectively emphasize the complexity of the relationship between the microbiota and the tumorigenesis of CRC, and future studies should verify these findings in more realistic models, such as organoids, which constitute a promising platform. Moreover, future trials should investigate the clinical potential of preventive modulation of the gut microbiota regarding CRC development.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/apm.13206)
-
-10.1111/apm.13206
+[Source](https://doi.org/10.1016/S2213-2600(21)00502-6)
 
 ---
 
-## Age-Associated Gut Dysbiosis, Marked by Loss of Butyrogenic Potential, Correlates With Altered Plasma Tryptophan Metabolites in Older People Living With HIV.
- 13.01.2022, _S Ghare, R Singhal, V Bryant, S Gautam, CC Tirumala, PK Srisailam, A Reyes-Vega, D Ghooray, CJ McClain, K Hoffman, J Petrosino, K Bryant, V Govind, R Cohen, RL Cook, S Barve_
+## PET microplastics affect human gut microbiota communities during simulated gastrointestinal digestion, first evidence of plausible polymer biodegradation during human digestion.
+ 12.01.2022, _A Tamargo, N Molinero, JJ Reinosa, V Alcolea-Rodriguez, R Portela, MA Bañares, JF Fernández, MV Moreno-Arribas_
 
 
-Imbalance in tryptophan (TRP) metabolism and its neuroactive metabolites, serotonin and kynurenine (KYN), is a known pathogenic mechanism underlying neurocognitive impairment. Gut microbiota plays an important role in TRP metabolism, and the production of these neuroactive molecules affects neurocognitive function. Although both HIV infection and normal aging independently induce gut dysbiosis and influence TRP metabolism, their interactive effects on compositional/functional changes in gut microbiota and consequent alterations in TRP metabolites remain largely undetermined.
+Microplastics (MPs) are a widely recognized global problem due to their prevalence in natural environments and the food chain. However, the impact of microplastics on human microbiota and their possible biotransformation in the gastrointestinal tract have not been well reported. To evaluate the potential risks of microplastics at the digestive level, completely passing a single dose of polyethylene terephthalate (PET) through the gastrointestinal tract was simulated by combining a harmonized static model and the dynamic gastrointestinal simgi model, which recreates the different regions of the digestive tract in physiological conditions. PET MPs started several biotransformations in the gastrointestinal tract and, at the colon, appeared to be structurally different from the original particles. We report that the feeding with microplastics alters human microbial colonic community composition and hypothesize that some members of the colonic microbiota could adhere to MPs surface promoting the formation of biofilms. The work presented here indicates that microplastics are indeed capable of digestive-level health effects. Considering this evidence and the increasing exposure to microplastics in consumer foods and beverages, the impact of plastics on the functionality of the gut microbiome and their potential biodegradation through digestion and intestinal bacteria merits critical investigation.
 
-[Source](https://journals.lww.com/jaids/Fulltext/2022/02011/Age_Associated_Gut_Dysbiosis,_Marked_by_Loss_of.9.aspx)
+[Source](https://doi.org/10.1038/s41598-021-04489-w)
 
-10.1097/QAI.0000000000002866
-
----
-
-## Intestinal Microbiota and Host Cooperate for Adaptation as a Hologenome.
- 11.01.2022, _H Zhou, L Yang, J Ding, R Dai, C He, K Xu, L Luo, L Xiao, Y Zheng, C Han, FT Akinyemi, CF Honaker, Y Zhang, PB Siegel, H Meng_
-
-
-Multiomic analyses reported here involved two lines of chickens, from a common founder population, that had undergone long-term selection for high (HWS) or low (LWS) 56-day body weight. In these lines that differ by around 15-fold in body weight, we observed different compositions of intestinal microbiota in the holobionts and variation in DNA methylation, mRNA expression, and microRNA profiles in the ceca. Insulin-like growth factor 2 mRNA-binding protein 1 (IGF2BP1) was the most upregulated gene in HWS ceca with its expression likely affected by the upregulation of expression of gga-miR-2128 and a methylated region near its transcription start site (388 bp). Correlation analysis showed that IGF2BP1 expression was associated with an abundance of microbes, such as Lactobacillus and Methanocorpusculum. These findings suggest that IGF2BP1 was regulated in the hologenome in adapting to long-term artificial selection for body weight. Our study provides evidence that adaptation of the holobiont can occur in the microbiome as well as in the epigenetic profile of the host. IMPORTANCE The hologenome concept has broadened our perspectives for studying host-microbe coevolution. The multiomic analyses reported here involved two lines of chickens, from a common founder population, that had undergone long-term selection for high (HWS) or low (LWS) 56-day body weight. In these lines that differ by around 15-fold in body weight, we observed different compositions of intestinal microbiota in the holobionts, and variation in DNA methylation, mRNA expression, and microRNA profiles in ceca. The insulin-like growth factor 2 mRNA-binding protein 1 (IGF2BP1) was the most upregulated gene in HWS ceca with its expression likely affected by a methylated region near its transcription start site and the upregulation of expression of gga-miR-2128. Correlation analysis also showed that IGF2BP1 expression was associated with the abundance of microbes, such as Lactobacillus and Methanocorpusculum. These findings suggest that IGF2BP1 was regulated in the hologenome in response to long-term artificial selection for body weight. Our study shows that the holobiont may adapt in both the microbiome and the host's epigenetic profile.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.01261-21)
-
-10.1128/msystems.01261-21
+10.1038/s41598-021-04489-w
 
 ---
 
-## The bacterial density of clinical rectal swabs is highly variable, correlates with sequencing contamination, and predicts patient risk of extraintestinal infection.
- 10.01.2022, _R Chanderraj, CA Brown, K Hinkle, N Falkowski, RJ Woods, RP Dickson_
+## Ear microbiota and middle ear disease: a longitudinal pilot study of Aboriginal children in a remote south Australian setting
 
-
-In ecology, population density is a key feature of community analysis. Yet in studies of the gut microbiome, bacterial density is rarely reported. Studies of hospitalized patients commonly use rectal swabs for microbiome analysis, yet variation in their bacterial density-and the clinical and methodologic significance of this variation-remains undetermined. We used an ultra-sensitive quantification approach-droplet digital PCR (ddPCR)-to quantify bacterial density in rectal swabs from 118 hospitalized patients. We compared bacterial density with bacterial community composition (via 16S rRNA amplicon sequencing) and clinical data to determine if variation in bacterial density has methodological, clinical, and prognostic significance.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01190-y)
-
-10.1186/s40168-021-01190-y
+[Source](https://doi.org/10.1186/s12866-022-02436-x)
 
 ---
 
-## Consistent changes in the intestinal microbiota of Atlantic salmon fed insect meal diets.
- 13.01.2022, _Y Li, K Gajardo, A Jaramillo-Torres, TM Kortner, Å Krogdahl_
+## Comparative analysis of DNA extraction and PCR product purification methods for cervicovaginal microbiome analysis using cpn60 microbial profiling.
+ 13.01.2022, _E Shvartsman, MEI Richmond, JJ Schellenberg, A Lamont, C Perciani, JNH Russell, V Poliquin, A Burgener, W Jaoko, P Sandstrom, KS MacDonald_
 
 
-Being part of fish's natural diets, insects have become a practical alternative feed ingredient for aquaculture. While nutritional values of insects have been extensively studied in various fish species, their impact on the fish microbiota remains to be fully explored. In an 8-week freshwater feeding trial, Atlantic salmon (Salmo salar) were fed either a commercially relevant reference diet or an insect meal diet wherein black soldier fly (Hermetia illucens) larvae meal comprised 60% of total ingredients. Microbiota of digesta and mucosa origin from the proximal and distal intestine were collected and profiled along with feed and water samples.
+The microbiota of the lower female genital tract plays an important role in women's health. Microbial profiling using the chaperonin60 (cpn60) universal target (UT) improves resolution of vaginal species associated with negative health outcomes compared to the more commonly used 16S ribosomal DNA target. However, the choice of DNA extraction and PCR product purification methods may bias sequencing-based microbial studies and should be optimized for the sample type and molecular target used. In this study, we compared two commercial DNA extraction kits and two commercial PCR product purification kits for the microbial profiling of cervicovaginal samples using the cpn60 UT.
 
-[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-021-00159-4)
+[Source](https://doi.org/10.1371/journal.pone.0262355)
 
-10.1186/s42523-021-00159-4
-
----
-
-## Maternal regulation of biliary disease in neonates via gut microbial metabolites.
- 11.01.2022, _JJ Jee, L Yang, P Shivakumar, PP Xu, R Mourya, U Thanekar, P Yu, Y Zhu, Y Pan, H Wang, X Duan, Y Ye, B Wang, Z Jin, Y Liu, Z Cao, M Watanabe-Chailland, LE Romick-Rosendale, M Wagner, L Fei, Z Luo, NJ Ollberding, ST Tang, JA Bezerra_
-
-
-Maternal seeding of the microbiome in neonates promotes a long-lasting biological footprint, but how it impacts disease susceptibility in early life remains unknown. We hypothesized that feeding butyrate to pregnant mice influences the newborn's susceptibility to biliary atresia, a severe cholangiopathy of neonates. Here, we show that butyrate administration to mothers renders newborn mice resistant to inflammation and injury of bile ducts and improves survival. The prevention of hepatic immune cell activation and survival trait is linked to fecal signatures of Bacteroidetes and Clostridia and increases glutamate/glutamine and hypoxanthine in stool metabolites of newborn mice. In human neonates with biliary atresia, the fecal microbiome signature of these bacteria is under-represented, with suppression of glutamate/glutamine and increased hypoxanthine pathways. The direct administration of butyrate or glutamine to newborn mice attenuates the disease phenotype, but only glutamine renders bile duct epithelial cells resistant to cytotoxicity by natural killer cells. Thus, maternal intake of butyrate influences the fecal microbial population and metabolites in newborn mice and the phenotypic expression of experimental biliary atresia, with glutamine promoting survival of bile duct epithelial cells.
-
-[Source](https://www.nature.com/articles/s41467-021-27689-4)
-
-10.1038/s41467-021-27689-4
+10.1371/journal.pone.0262355
 
 ---
 
-## Reduced calorie diet combined with NNMT inhibition establishes a distinct microbiome in DIO mice.
- 11.01.2022, _A Dimet-Wiley, Q Wu, JT Wiley, A Eswar, H Neelakantan, T Savidge, S Watowich_
+## Microbial hydrogen economy alleviates colitis by reprogramming colonocyte metabolism and reinforcing intestinal barrier.
+ 13.01.2022, _L Ge, J Qi, B Shao, Z Ruan, Y Ren, S Sui, X Wu, X Sun, S Liu, S Li, C Xu, W Song_
 
 
-Treatment with a nicotinamide N-methyltransferase inhibitor (NNMTi; 5-amino-1-methylquinolinium) combined with low-fat diet (LD) promoted dramatic whole-body adiposity and weight loss in diet-induced obese (DIO) mice, rapidly normalizing these measures to age-matched lean animals, while LD switch alone was unable to restore these measures to age-matched controls in the same time frame. Since mouse microbiome profiles often highly correlate with body weight and fat composition, this study was designed to test whether the cecal microbiomes of DIO mice treated with NNMTi and LD were comparable to the microbiomes of age-matched lean counterparts and distinct from microbiomes of DIO mice maintained on a high-fat Western diet (WD) or subjected to LD switch alone. There were minimal microbiome differences between lean and obese controls, suggesting that diet composition and adiposity had limited effects. However, DIO mice switched from an obesity-promoting WD to an LD (regardless of treatment status) displayed several genera and phyla differences compared to obese and lean controls. While alpha diversity measures did not significantly differ between groups, beta diversity principal coordinates analyses suggested that mice from the same treatment group were the most similar. K-means clustering analysis of amplicon sequence variants by animal demonstrated that NNMTi-treated DIO mice switched to LD had a distinct microbiome pattern that was highlighted by decreased Erysipelatoclostridium and increased Lactobacillus relative abundances compared to vehicle counterparts; these genera are tied to body weight and metabolic regulation. Additionally, Parasutterella relative abundance, which was increased in both the vehicle- and NNMTi-treated LD-switched groups relative to the controls, significantly correlated with several adipose tissue metabolites' abundances. Collectively, these results provide a novel foundation for future investigations.
+With the rapid development and high therapeutic efficiency and biosafety of gas-involving theranostics, hydrogen medicine has been particularly outstanding because hydrogen gas (H2), a microbial-derived gas, has potent anti-oxidative, anti-apoptotic, and anti-inflammatory activities in many disease models. Studies have suggested that H2-enriched saline/water alleviates colitis in murine models; however, the underlying mechanism remains poorly understood. Despite evidence demonstrating the importance of the microbial hydrogen economy, which reflects the balance between H2-producing (hydrogenogenic) and H2-utilizing (hydrogenotrophic) microbes in maintaining colonic mucosal ecosystems, minimal efforts have been exerted to manipulate relevant H2-microbe interactions for colonic health. Consistent with previous studies, we found that administration of hydrogen-rich saline (HS) ameliorated dextran sulfate sodium-induced acute colitis in a mouse model. Furthermore, we demonstrated that HS administration can increase the abundance of intestinal-specific short-chain fatty acid (SCFA)-producing bacteria and SCFA production, thereby activating the intracellular butyrate sensor peroxisome proliferator-activated receptor γ signaling and decreasing the epithelial expression of Nos2, consequently promoting the recovery of the colonic anaerobic environment. Our results also indicated that HS administration ameliorated disrupted intestinal barrier functions by modulating specific mucosa-associated mucolytic bacteria, leading to substantial inhibition of opportunistic pathogenic Escherichia coli expansion as well as a significant increase in the expression of interepithelial tight junction proteins and a decrease in intestinal barrier permeability in mice with colitis. Exogenous H2 reprograms colonocyte metabolism by regulating the H2-gut microbiota-SCFAs axis and strengthens the intestinal barrier by modulating specific mucosa-associated mucolytic bacteria, wherein improved microbial hydrogen economy alleviates colitis.
 
-[Source](https://www.nature.com/articles/s41598-021-03670-5)
+[Source](https://doi.org/10.1080/19490976.2021.2013764)
 
-10.1038/s41598-021-03670-5
-
----
-
-## Comparison of Gut Microbiota and Metabolic Status of Sows With Different Litter Sizes During Pregnancy.
- 11.01.2022, _J Chen, F Li, W Yang, S Jiang, Y Li_
-
-
-The experiment was conducted to compare the differences of gut microbiota and metabolic status of sows with different litter sizes on days 30 and 110 of gestation, and uncover the relationship between the composition of maternal gut microbiota during gestation and sow reproductive performance. Twenty-six Large White × Landrace crossbred multiparous sows (2nd parity) with similar back fat thickness and body weight were assigned to two groups [high-reproductive performance group (HP group) and low-reproductive performance group (LP group)] according to their litter sizes and fed a common gestation diet. Results showed that compared with LP sows, HP sows had significantly lower plasma levels of triglyceride (TG) on gestation d 30 (P &lt; 0.05), but had significantly higher plasma levels of TG, non-esterified fatty acid, tumor necrosis factor-α, and immunoglobulin M on gestation d 110 (P &lt; 0.05). Consistently, HP sows revealed increased alpha diversity and butyrate-producing genera, as well as fecal butyrate concentration, on gestation d 30; HP sows showed significantly different microbiota community structure with LP sows (P &lt; 0.05) and had markedly higher abundance of Firmicutes (genera Christensenellaceae_R-7_group and Terrisporobacter) which were positively related with litter size on gestation d 110 than LP sows (P &lt; 0.05). In addition, plasma biochemical parameters, plasma cytokines, and fecal microbiota shifted dramatically from gestation d 30 to d 110. Therefore, our findings demonstrated that microbial abundances and community structures differed significantly between sows with different litter sizes and gestation stages, which was associated with changes in plasma biochemical parameters, inflammatory factors, and immunoglobulin. Moreover, these findings revealed that there was a significant correlation between litter size and gut microbiota of sows, and provided a microbial perspective to improve sow reproductive performance in pig production.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fvets.2021.793174/full)
-
-10.3389/fvets.2021.793174
+10.1080/19490976.2021.2013764
 
 ---
 
-## Modulation of gut microbiota impacts diet-induced and drug-induced alopecia in mice.
- 06.01.2022, _S Lam, J Zhang, K Yang, LC Chu, W Zhu, W Tang, FKL Chan, PKS Chan, WKK Wu, SC Ng_
+## Single-gene long-read sequencing illuminates <em>Escherichia coli</em> strain dynamics in the human intestinal microbiome
 
-
-
-[Source](https://gut.bmj.com/content/early/2022/01/05/gutjnl-2021-326320)
-
-10.1136/gutjnl-2021-326320
+[Source](https://doi.org/10.1016/j.celrep.2021.110239)
 
 ---
 
-## Sex-specific differences in the gut microbiota and fecal metabolites in an adolescent valproic acid-induced rat autism model
+## Draft Genome Sequence of <em>Bifidobacterium adolescentis</em> 4-2, Isolated from Healthy Human Feces
 
-[Source](https://imrpress.com/journal/FBL/26/12/10.52586/5051)
-
----
-
-## Host tp53 mutation induces gut dysbiosis eliciting inflammation through disturbed sialic acid metabolism.
- 10.01.2022, _JG Lee, S Lee, J Jeon, HG Kong, HJ Cho, JH Kim, SY Kim, MJ Oh, D Lee, N Seo, KH Park, K Yu, HJ An, CM Ryu, JS Lee_
-
-
-Host tp53 mutations are frequently found during the early stages of colitis-associated colorectal cancer (CAC), but whether such mutations induce gut microbiota dysbiosis and chronic intestinal inflammation that contributes to the development of CAC, remains unknown.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01191-x)
-
-10.1186/s40168-021-01191-x
+[Source](https://doi.org/10.1128/mra.00846-21)
 
 ---
 
-## Whole-Genome Duplication and Host Genotype Affect Rhizosphere Microbial Communities.
- 11.01.2022, _JCB Ponsford, CJ Hubbard, JG Harrison, L Maignien, CA Buerkle, C Weinig_
+## Diet, microbe, and autism: Cause or consequence?
 
-
-The composition of microbial communities found in association with plants is influenced by host phenotype and genotype. However, the ways in which specific genetic architectures of host plants shape microbiomes are unknown. Genome duplication events are common in the evolutionary history of plants and influence many important plant traits, and thus, they may affect associated microbial communities. Using experimentally induced whole-genome duplication (WGD), we tested the effect of WGD on rhizosphere bacterial communities in Arabidopsis thaliana. We performed 16S rRNA amplicon sequencing to characterize differences between microbiomes associated with specific host genetic backgrounds (Columbia versus Landsberg) and ploidy levels (diploid versus tetraploid). We modeled relative abundances of bacterial taxa using a hierarchical Bayesian approach. We found that host genetic background and ploidy level affected rhizosphere community composition. We then tested to what extent microbiomes derived from a specific genetic background or ploidy level affected plant performance by inoculating sterile seedlings with microbial communities harvested from a prior generation. We found a negative effect of the tetraploid Columbia microbiome on growth of all four plant genetic backgrounds. These findings suggest an interplay between host genetic background and ploidy level and bacterial community assembly with potential ramifications for host fitness. Given the prevalence of ploidy-level variation in both wild and managed plant populations, the effects on microbiomes of this aspect of host genetic architecture could be a widespread driver of differences in plant microbiomes. IMPORTANCE Plants influence the composition of their associated microbial communities, yet the underlying host-associated genetic determinants are typically unknown. Genome duplication events are common in the evolutionary history of plants and affect many plant traits. Using Arabidopsis thaliana, we characterized how whole-genome duplication affected the composition of rhizosphere bacterial communities and how bacterial communities associated with two host plant genetic backgrounds and ploidy levels affected subsequent plant growth. We observed an interaction between ploidy level and genetic background that affected both bacterial community composition and function. This research reveals how genome duplication, a widespread genetic feature of both wild and crop plant species, influences bacterial assemblages and affects plant growth.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00973-21)
-
-10.1128/msystems.00973-21
+[Source](https://doi.org/10.1016/j.chom.2021.12.018)
 
 ---
 
-## A Goldilocks Principle for the Gut Microbiome: Taxonomic Resolution Matters for Microbiome-Based Classification of Colorectal Cancer.
- 11.01.2022, _CR Armour, BD Topçuoğlu, A Garretto, PD Schloss_
+## Gut microbiota in patients with Alzheimer’s disease spectrum: a systematic review and meta-analysis
 
-
-Colorectal cancer is a common and deadly disease in the United States accounting for over 50,000 deaths in 2020. This progressive disease is highly preventable with early detection and treatment, but many people do not comply with the recommended screening guidelines. The gut microbiome has emerged as a promising target for noninvasive detection of colorectal cancer. Most microbiome-based classification efforts utilize taxonomic abundance data from operational taxonomic units (OTUs) or amplicon sequence variants (ASVs) with the goal of increasing taxonomic resolution. However, it is unknown which taxonomic resolution is optimal for microbiome-based classification of colorectal cancer. To address this question, we used a reproducible machine learning framework to quantify classification performance of models based on data annotated to phylum, class, order, family, genus, OTU, and ASV levels. We found that model performance increased with increasing taxonomic resolution, up to the family level where performance was equal (P &gt; 0.05) among family (mean area under the receiver operating characteristic curve [AUROC], 0.689), genus (mean AUROC, 0.690), and OTU (mean AUROC, 0.693) levels before decreasing at the ASV level (P &lt; 0.05; mean AUROC, 0.676). These results demonstrate a trade-off between taxonomic resolution and prediction performance, where coarse taxonomic resolution (e.g., phylum) is not distinct enough, but fine resolution (e.g., ASV) is too individualized to accurately classify samples. Similar to the story of Goldilocks and the three bears (L. B. Cauley, Goldilocks and the Three Bears, 1981), mid-range resolution (i.e., family, genus, and OTU) is "just right" for optimal prediction of colorectal cancer from microbiome data. IMPORTANCE Despite being highly preventable, colorectal cancer remains a leading cause of cancer-related death in the United States. Low-cost, noninvasive detection methods could greatly improve our ability to identify and treat early stages of disease. The microbiome has shown promise as a resource for detection of colorectal cancer. Research on the gut microbiome tends to focus on improving our ability to profile species and strain level taxonomic resolution. However, we found that finer resolution impedes the ability to predict colorectal cancer based on the gut microbiome. These results highlight the need for consideration of the appropriate taxonomic resolution for microbiome analyses and that finer resolution is not always more informative.
-
-[Source](https://journals.asm.org/doi/10.1128/mbio.03161-21)
-
-10.1128/mbio.03161-21
+[Source](https://doi.org/10.18632/aging.203826)
 
 ---
 
-## Towards a metagenomics machine learning interpretable model for understanding the transition from adenoma to colorectal cancer.
- 11.01.2022, _CS Casimiro-Soriguer, C Loucera, M Peña-Chilet, J Dopazo_
+## Characteristics of the gut microbiome in women with gestational diabetes mellitus: A systematic review
 
-
-Gut microbiome is gaining interest because of its links with several diseases, including colorectal cancer (CRC), as well as the possibility of being used to obtain non-intrusive predictive disease biomarkers. Here we performed a meta-analysis of 1042 fecal metagenomic samples from seven publicly available studies. We used an interpretable machine learning approach based on functional profiles, instead of the conventional taxonomic profiles, to produce a highly accurate predictor of CRC with better precision than those of previous proposals. Moreover, this approach is also able to discriminate samples with adenoma, which makes this approach very promising for CRC prevention by detecting early stages in which intervention is easier and more effective. In addition, interpretable machine learning methods allow extracting features relevant for the classification, which reveals basic molecular mechanisms accounting for the changes undergone by the microbiome functional landscape in the transition from healthy gut to adenoma and CRC conditions. Functional profiles have demonstrated superior accuracy in predicting CRC and adenoma conditions than taxonomic profiles and additionally, in a context of explainable machine learning, provide useful hints on the molecular mechanisms operating in the microbiota behind these conditions.
-
-[Source](https://www.nature.com/articles/s41598-021-04182-y)
-
-10.1038/s41598-021-04182-y
+[Source](https://doi.org/10.1371/journal.pone.0262618)
 
 ---
 
-## Library Preparation and Sequencing Platform Introduce Bias in Metagenomic-Based Characterizations of Microbiomes
+## Respiratory tract infections and gut microbiome modifications: A systematic review
 
-[Source](https://www.biorxiv.org/content/10.1101/592154v2.abstract)
+[Source](https://doi.org/10.1371/journal.pone.0262057)
+
+---
+
+## Repercussions of intermittent fasting on the intestinal microbiota community and body composition: a systematic review
+
+[Source](https://doi.org/10.1093/nutrit/nuab108)
+
+---
+
+## Skin Deep: The Role of the Microbiota in Cutaneous Autoimmunity
+
+[Source](https://doi.org/10.1016/j.jid.2021.12.005)
+
+---
+
+## Current advances in the anti-inflammatory effects and mechanisms of natural polysaccharides
+
+[Source](https://doi.org/10.1080/10408398.2022.2025535)
+
+---
+
+## The gut microbiota of environmentally enriched mice regulates visual cortical plasticity
+
+[Source](https://doi.org/10.1016/j.celrep.2021.110212)
+
+---
+
+## Characterization of the juvenile koala gut microbiome across wild populations
+
+[Source](https://doi.org/10.1111/1462-2920.15884)
+
+---
+
+## Specific gut bacterial responses to natural diets of tropical birds
+
+[Source](https://doi.org/10.1038/s41598-022-04808-9)
+
+---
+
+## Effect of dietary supplementation of lauric acid on growth performance, antioxidative capacity, intestinal development and gut microbiota on black sea bream (<em>Acanthopagrus schlegelii</em>)
+
+[Source](https://doi.org/10.1371/journal.pone.0262427)
+
+---
+
+## Establishment and resilience of transplanted gut microbiota in aged mice
+
+[Source](https://doi.org/10.1016/j.isci.2021.103654)
+
+---
+
+## Identification of Gut Bacteria such as <em>Lactobacillus johnsonii</em> that Disseminate to Systemic Tissues of Wild Type and MyD88-/- Mice
+
+[Source](https://doi.org/10.1080/19490976.2021.2007743)
+
+---
+
+## Responsive changes of rumen microbiome and metabolome in dairy cows with different susceptibility to subacute ruminal acidosis.
+ 13.01.2022, _T Zhang, Y Mu, R Zhang, Y Xue, C Guo, W Qi, J Zhang, S Mao_
+
+
+Subacute ruminal acidosis (SARA) represents one of the most important digestive disorders in intensive dairy farms, and dairy cows are individually different in the severity of SARA risk. The objectives of the current study were to investigate differences in the ruminal bacterial community and metabolome in dairy cattle with different susceptibility to SARA. In the present study, 12 cows were initially enrolled in the experiment. Based on average ruminal pH, 4 cows with the lowest ruminal pH were assigned to the susceptible group (SUS, pH = 5.76, n = 4) and 4 cows with the highest ruminal pH assigned to the tolerant group (TOL, pH = 6.10, n = 4). Rumen contents from susceptible (SUS, n = 4) and tolerant (TOL, n = 4) dairy cows were collected through rumen fistula to systematically reveal the rumen microbial and metabolic alterations of dairy cows with different susceptibility to SARA using multi-omics approaches (16S and 18S rRNA gene sequencing and metabolome). The results showed that despite being fed the same diet, SUS cows had lower ruminal pH and higher concentrations of total volatile fatty acids (VFA) and propionate than TOL cows (P &lt; 0.05). No significant differences were observed in dry matter intake, milk yield, and other milk compositions between the SUS and TOL groups (P &gt; 0.05). The principal coordinates analysis based on the analysis of molecular variance indicated a significant difference in bacterial composition between the two groups (P = 0.01). More specifically, the relative abundance of starch-degrading bacteria (Prevotella spp.) was greater (P &lt; 0.05), while the proportion of fiber-degrading bacteria (unclassified Ruminococcaceae spp., Ruminococcus spp., Papillibacter, and unclassified Family_XIII) was lower in the rumen of SUS cows compared with TOL cows (P &lt; 0.05). Community analysis of protozoa showed that there were no significant differences in the diversity, richness, and community structure (P &gt; 0.05). Metabolomics analysis revealed that the concentrations of organic acids (such as lactic acid), biogenic amines (such as histamine), and bacterial degradation products (such as hypoxanthine) were significantly higher in the SUS group compared to the TOL group (P &lt; 0.05). These findings revealed that the higher proportion of starch-degrading bacteria/lower fiber-degrading bacteria in the rumen of SUS cows resulted in higher VFA-producing capacity, in particular propionate. This caused a disruption in metabolic homeostasis in the rumen which might be the reason for the higher susceptibility to SARA. Overall, these findings enhanced our understanding of the ruminal microbiome and metabolic changes in cows susceptible to SARA.
+
+[Source](https://doi.org/10.1016/j.aninu.2021.10.009)
+
+10.1016/j.aninu.2021.10.009
+
+---
+
+## Torula yeast in the diet of Atlantic salmon Salmo salar and the impact on growth performance and gut microbiome.
+ 13.01.2022, _A Leeper, R Ekmay, S Knobloch, S Skírnisdóttir, M Varunjikar, M Dubois, BÖ Smárason, J Árnason, W Koppe, D Benhaïm_
+
+
+Atlantic salmon aquaculture is expanding, and with it, the need to find suitable replacements for conventional protein sources used in formulated feeds. Torula yeast (Cyberlindnera jadinii), has been identified as a promising alternative protein for feed and can be sustainably cultivated on lignocellulosic biomasses. The present study investigated the impact of torula yeast on the growth performance and gut microbiome of freshwater Atlantic salmon. A marine protein base diet and a mixed marine and plant protein base diet were tested, where conventional proteins were replaced with increasing inclusion levels of torula yeast, (0%, 10%, 20%). This study demonstrated that 20% torula yeast can replace fish meal without alteration to growth performance while leading to potential benefits for the gut microbiome by increasing the presence of bacteria positively associated with the host. However, when torula yeast replaced plant meal in a mixed protein diet, results suggested that 10% inclusion of yeast produced the best growth performance results but at the 20% inclusion level of yeast, potentially negative changes were observed in the gut microbial community, such as a decrease in lactic acid bacteria. This study supports the continued investigation of torula yeast for Atlantic salmon as a partial replacement for conventional proteins.
+
+[Source](https://doi.org/10.1038/s41598-021-04413-2)
+
+10.1038/s41598-021-04413-2
+
+---
+
+## Distinct gut microbiomes in two polar bear subpopulations inhabiting different sea ice ecoregions.
+ 12.01.2022, _M Franz, L Whyte, TC Atwood, KL Laidre, D Roy, SE Watson, E Góngora, MA McKinney_
+
+
+Gut microbiomes were analyzed by 16S rRNA gene metabarcoding for polar bears (Ursus maritimus) from the southern Beaufort Sea (SB), where sea ice loss has led to increased use of land-based food resources by bears, and from East Greenland (EG), where persistent sea ice has allowed hunting of ice-associated prey nearly year-round. SB polar bears showed a higher number of total (940 vs. 742) and unique (387 vs. 189) amplicon sequence variants and higher inter-individual variation compared to EG polar bears. Gut microbiome composition differed significantly between the two subpopulations and among sex/age classes, likely driven by diet variation and ontogenetic shifts in the gut microbiome. Dietary tracer analysis using fatty acid signatures for SB polar bears showed that diet explained more intrapopulation variation in gut microbiome composition and diversity than other tested variables, i.e., sex/age class, body condition, and capture year. Substantial differences in the SB gut microbiome relative to EG polar bears, and associations between SB gut microbiome and diet, suggest that the shifting foraging habits of SB polar bears tied to sea ice loss may be altering their gut microbiome, with potential consequences for nutrition and physiology.
+
+[Source](https://doi.org/10.1038/s41598-021-04340-2)
+
+10.1038/s41598-021-04340-2
+
+---
+
+## Microbiome Resilience despite a Profound Loss of Minority Microbiota following Clindamycin Challenge in Humanized Gnotobiotic Mice.
+ 12.01.2022, _L Liu, ME Kirst, L Zhao, E Li, GP Wang_
+
+
+Antibiotics are known to induce gut dysbiosis and increase the risk of antibiotic resistance. While antibiotic exposure is a known risk factor leading to compromised colonization resistance against enteric pathogens such as Clostridioides difficile, the extent and consequences of antibiotic perturbation on the human gut microbiome remain poorly understood. Human studies on impacts of antibiotics are complicated by the tremendous variability of gut microbiome among individuals, even between identical twins. Furthermore, antibiotic challenge experiments cannot be replicated in human subjects for a given gut microbiome. Here, we transplanted feces from three unrelated human donors into groups of identical germfree (GF) Swiss-Webster mice, and examined the temporal responses of the transplanted microbiome to oral clindamycin challenge in gnotobiotic isolators over 7 weeks. Analysis of 177 longitudinal fecal samples revealed that 59% to 81% of human microbiota established a stable configuration rapidly and stably in GF mice. Microbiome responses to clindamycin challenge was highly reproducible and microbiome-dependent. A short course of clindamycin was sufficient to induce a profound loss (∼one third) of the microbiota by disproportionally eliminating minority members of the transplanted microbiota. However, it was inadequate to disrupt the global microbial community structure or function, which rebounded rapidly to resemble its pre-treatment state after clindamycin discontinuation. Furthermore, the response of individual microbes was community-dependent. Taken together, these results suggest that the overall gut microbiome structure is resilient to antibiotic perturbation, the functional consequences of which warrant further investigation. IMPORTANCE Antibiotics cause imbalance of gut microbiota, which in turn increase our susceptibility to gastrointestinal infections. However, how antibiotics disrupt gut bacterial communities is not well understood, and exposing healthy volunteers to unnecessary antibiotics for research purposes carries clinical and ethical concerns. In this study, we used genetically identical mice transplanted with the same human gut microbiota to control for both genetic and environmental variables. We found that a short course of oral clindamycin was sufficient to eliminate one third of the gut bacteria by disproportionally eliminating minority members of the transplanted microbiota, but it was inadequate to disrupt the overall microbial community structure and function, which rebounded rapidly to its pre-treatment state. These results suggest that gut microbiome is highly resilient to antibiotic challenge and degradation of the human gut ecosystem may require repeated or prolonged antibiotic exposure.
+
+[Source](https://doi.org/10.1128/spectrum.01960-21)
+
+10.1128/spectrum.01960-21
+
+---
+
+## Bovine respiratory microbiota of feedlot cattle and its association with disease.
+ 13.01.2022, _J Chai, SF Capik, B Kegley, JT Richeson, JG Powell, J Zhao_
+
+
+Bovine respiratory disease (BRD), as one of the most common and costly diseases in the beef cattle industry, has significant adverse impacts on global food security and the economic stability of the industry. The bovine respiratory microbiome is strongly associated with health and disease and may provide insights for alternative therapy when treating BRD. The niche-specific microbiome communities that colonize the inter-surface of the upper and the lower respiratory tract consist of a dynamic and complex ecological system. The correlation between the disequilibrium in the respiratory ecosystem and BRD has become a hot research topic. Hence, we summarize the pathogenesis and clinical signs of BRD and the alteration of the respiratory microbiota. Current research techniques and the biogeography of the microbiome in the healthy respiratory tract are also reviewed. We discuss the process of resident microbiota and pathogen colonization as well as the host immune response. Although associations between the microbiota and BRD have been revealed to some extent, interpreting the development of BRD in relation to respiratory microbial dysbiosis will likely be the direction for upcoming studies, which will allow us to better understand the importance of the airway microbiome and its contributions to animal health and performance.
+
+[Source](https://doi.org/10.1186/s13567-021-01020-x)
+
+10.1186/s13567-021-01020-x
+
+---
+
+## Plant neighborhood shapes diversity and reduces interspecific variation of the phyllosphere microbiome.
+ 13.01.2022, _KM Meyer, R Porch, IE Muscettola, ALS Vasconcelos, JK Sherman, CJE Metcalf, SE Lindow, B Koskella_
+
+
+Microbial communities associated with plant leaf surfaces (i.e., the phyllosphere) are increasingly recognized for their role in plant health. While accumulating evidence suggests a role for host filtering of its microbiota, far less is known about how community composition is shaped by dispersal, including from neighboring plants. We experimentally manipulated the local plant neighborhood within which tomato, pepper, or bean plants were grown in a 3-month field trial. Focal plants were grown in the presence of con- or hetero-specific neighbors (or no neighbors) in a fully factorial combination. At 30-day intervals, focal plants were harvested and replaced with a new age- and species-matched cohort while allowing neighborhood plants to continue growing. Bacterial community profiling revealed that the strength of host filtering effects (i.e., interspecific differences in composition) decreased over time. In contrast, the strength of neighborhood effects increased over time, suggesting dispersal from neighboring plants becomes more important as neighboring plant biomass increases. We next implemented a cross-inoculation study in the greenhouse using inoculum generated from the field plants to directly test host filtering of microbiomes while controlling for directionality and source of dispersal. This experiment further demonstrated that focal host species, the host from which the microbiome came, and in one case the donor hosts' neighbors, contribute to variation in phyllosphere bacterial composition. Overall, our results suggest that local dispersal is a key factor in phyllosphere assembly, and that demographic factors such as nearby neighbor identity and biomass or age are important determinants of phyllosphere microbiome diversity.
+
+[Source](https://doi.org/10.1038/s41396-021-01184-6)
+
+10.1038/s41396-021-01184-6
+
+---
+
+## Sulfate-dependant microbially induced corrosion of mild steel in the deep sea: a 10-year microbiome study
+
+[Source](https://doi.org/10.1186/s40168-021-01196-6)
+
+---
+
+## Microbial community composition and glyphosate degraders of two soils under the influence of temperature, total organic carbon and pH.
+ 13.01.2022, _AM Muskus, A Miltner, U Hamer, KM Nowak_
+
+
+Glyphosate can be degraded by soil microorganisms rapidly and is impacted by temperature and soil properties. Enhanced temperature and total organic carbon (TOC) as well as reduced pH increased the rate of 13C315N-glyphosate conversion to CO2 and biogenic non-extractable residues (bioNERs) in a Haplic Chernozem (Muskus et al., 2019) and in a Humic Cambisol (Muskus et al., 2020). To date; however, the combined effect of temperature and TOC or pH on microbial community composition and glyphosate degraders in these two soils has not been investigated. Phospholipid fatty acid [PLFA] biomarker analysis combined with 13C labeling was employed to investigate the effect of two soil properties (pH, TOC) and of three temperatures (10 °C, 20 °C, 30 °C) on soil microorganisms. Before incubation, the properties of a Haplic Chernozem and a Humic Cambisol were adjusted to obtain five treatments: (a) Control (Haplic Chernozem: 2.1% TOC and pH 6.6; Humic Cambisol: 3% TOC and pH 7.0), (b) 3% TOC (Haplic Chernozem) or 4% TOC (Humic Cambisol), (c) 4% TOC (Haplic Chernozem) or 5% TOC (Humic Cambisol), (d) pH 6.0 (Haplic Chernozem) or pH 6.5 (Humic Cambisol), and (e) pH 5.5 for both soils. All treatments were amended with 50 mg kg-1 glyphosate and incubated at 10 °C, 20 °C or 30 °C. We observed an increase in respiration, microbial biomass and glyphosate mineralization with incubation temperature. Although respiration and microbial biomass in the Humic Cambisol was higher, the microorganisms in the Haplic Chernozem were more active in glyphosate degradation. Increased TOC shifted the microbiome and the 13C-glyphosate degraders towards Gram-positive bacteria in both soils. However, the abundance of 13C-PLFAs indicative for the starvation of Gram-negative bacteria increased with increasing TOC or decreasing pH at higher temperatures. Gram-negative bacteria thus may have been involved in earlier stages of glyphosate degradation.
+
+[Source](https://doi.org/10.1016/j.envpol.2022.118790)
+
+10.1016/j.envpol.2022.118790
+
+---
+
+## Increased Tea Saponin Content Influences the Diversity and Function of Plantation Soil Microbiomes.
+ 12.01.2022, _S Zhang, J Kong, L Chen, K Guo, X Zhou_
+
+
+Plant secondary metabolites (PSMs) can affect the structures and functions of soil microbiomes. However, the core bacteria associated with PSMs, and their corresponding functions have not been explored extensively. In this study, soil physicochemical properties, tea saponin (TS) contents, microbial community compositions, and microbial community functions of different-age Camellia oleifera plantation soils from representative regions were analyzed. We evaluated the effects of plantation age increase on PSM accumulation, and the subsequent consequences on the structures and functions of soil microbiomes. Plantation ages increase positively correlated with accumulated TS contents, negative effects on soil physicochemical properties, and soil microbiome structures and functions. Clearly, the core functions of soil microbiomes transitioned to those associated with PSM metabolisms, while microbial pathways involved in cellulose degradation were inhibited. Our study systematically explored the influences of PSMs on soil microbiomes via the investigation of key bacterial populations and their functional pathways. With the increase in planting years, increased TS content simplified soil microbiome diversity, inhibited the degradation of organic matter, and enriched the genes related to the degradation of TS. These findings significantly advance our understanding on PSMs-microbiome interactions and could provide fundamental and important data for sustainable management of Camellia plantations. IMPORTANCE Plant secondary metabolites (PSMs) contained in plant litter will be released into soil with the decomposition process, which will affect the diversity and function of soil microbiomes. The response of soil microbiomes to PSMs in terms of diversity and function can provide an important theoretical basis for plantations to put forward rational soil ecological management measures. The effects of planting years on PSM content, soil physicochemical properties, microbial diversity, and function, as well as the interaction between each index in Camellia oleifera plantation soil are still unclear. We found that, with planting years increased, the accumulation of tea saponin (TS) led to drastic changes in the diversity and function of soil microbiomes, which hindered the decomposition of organic matter and enriched many genes related to PSM degradation. We first found that soil bacteria, represented by Acinetobacter, were significantly associated with TS degradation. Our results provide important data for proposing rational soil management measures for pure forest plantations.
+
+[Source](https://doi.org/10.1128/spectrum.02324-21)
+
+10.1128/spectrum.02324-21
+
+---
+
+## Identifying temporal and spatial patterns of variation from multimodal data using MEFISTO
+
+[Source](https://doi.org/10.1038/s41592-021-01343-9)
+
+---
+
+## Inferring microbiota functions from taxonomic genes: a review.
+ 13.01.2022, _C Djemiel, PA Maron, S Terrat, S Dequiedt, A Cottin, L Ranjard_
+
+
+Deciphering microbiota functions is crucial to predict ecosystem sustainability in response to global change. High-throughput sequencing at the individual or community level has revolutionized our understanding of microbial ecology, leading to the big data era and improving our ability to link microbial diversity with microbial functions. Recent advances in bioinformatics have been key for developing functional prediction tools based on DNA metabarcoding data and using taxonomic gene information. This cheaper approach in every aspect serves as an alternative to shotgun sequencing. Although these tools are increasingly used by ecologists, an objective evaluation of their modularity, portability, and robustness is lacking. Here, we reviewed 100 scientific papers on functional inference and ecological trait assignment to rank the advantages, specificities, and drawbacks of these tools, using a scientific benchmarking. To date, inference tools have been mainly devoted to bacterial functions, and ecological trait assignment tools, to fungal functions. A major limitation is the lack of reference genomes-compared with the human microbiota-especially for complex ecosystems such as soils. Finally, we explore applied research prospects. These tools are promising and already provide relevant information on ecosystem functioning, but standardized indicators and corresponding repositories are still lacking that would enable them to be used for operational diagnosis.
+
+[Source](https://doi.org/10.1093/gigascience/giab090)
+
+10.1093/gigascience/giab090
 
 ---
 
