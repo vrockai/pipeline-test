@@ -1,19 +1,12 @@
-## Innate lymphoid cells regulate intestinal epithelial cell glycosylation.
- 21.10.2021, _Y Goto, T Obata, J Kunisawa, S Sato, II Ivanov, A Lamichhane, N Takeyama, M Kamioka, M Sakamoto, T Matsuki, H Setoyama, A Imaoka, S Uematsu, S Akira, SE Domino, P Kulig, B Becher, JC Renauld, C Sasakawa, Y Umesaki, Y Benno, H Kiyono_
+## Intestinal commensal microbiota and cytokines regulate Fut2+ Paneth cells for gut defense.
+ 14.01.2022, _M Kamioka, Y Goto, K Nakamura, Y Yokoi, R Sugimoto, S Ohira, Y Kurashima, S Umemoto, S Sato, J Kunisawa, Y Takahashi, SE Domino, JC Renauld, S Nakae, Y Iwakura, PB Ernst, T Ayabe, H Kiyono_
 
 
-_Animals, Base Sequence, Disease Models, Animal, Fucose, Fucosyltransferases, Germ-Free Life, Glycosylation, Goblet Cells, Ileum, Immunity, Innate, Interleukins, Intestinal Mucosa, Lymphocytes, Mice, Mice, Inbred BALB C, Mice, Inbred C57BL, Mice, Mutant Strains, Microbiota, Molecular Sequence Data, Paneth Cells, Salmonella Infections, Salmonella typhimurium_
-Fucosylation of intestinal epithelial cells, catalyzed by fucosyltransferase 2 (Fut2), is a major glycosylation mechanism of host-microbiota symbiosis. Commensal bacteria induce epithelial fucosylation, and epithelial fucose is used as a dietary carbohydrate by many of these bacteria. However, the molecular and cellular mechanisms that regulate the induction of epithelial fucosylation are unknown. Here, we show that type 3 innate lymphoid cells (ILC3) induced intestinal epithelial Fut2 expression and fucosylation in mice. This induction required the cytokines interleukin-22 and lymphotoxin in a commensal bacteria-dependent and -independent manner, respectively. Disruption of intestinal fucosylation led to increased susceptibility to infection by Salmonella typhimurium. Our data reveal a role for ILC3 in shaping the gut microenvironment through the regulation of epithelial glycosylation.
-
-[Source](https://doi.org/10.1073/pnas.2115230119)
-
-10.1126/science.1254009
-
----
-
-## Intestinal commensal microbiota and cytokines regulate Fut2(+) Paneth cells for gut defense
+Paneth cells are intestinal epithelial cells that release antimicrobial peptides, such as α-defensin as part of host defense. Together with mesenchymal cells, Paneth cells provide niche factors for epithelial stem cell homeostasis. Here, we report two subtypes of murine Paneth cells, differentiated by their production and utilization of fucosyltransferase 2 (Fut2), which regulates α(1,2)fucosylation to create cohabitation niches for commensal bacteria and prevent invasion of the intestine by pathogenic bacteria. The majority of Fut2- Paneth cells were localized in the duodenum, whereas the majority of Fut2+ Paneth cells were in the ileum. Fut2+ Paneth cells showed higher granularity and structural complexity than did Fut2- Paneth cells, suggesting that Fut2+ Paneth cells are involved in host defense. Signaling by the commensal bacteria, together with interleukin 22 (IL-22), induced the development of Fut2+ Paneth cells. IL-22 was found to affect the α-defensin secretion system via modulation of Fut2 expression, and IL-17a was found to increase the production of α-defensin in the intestinal tract. Thus, these intestinal cytokines regulate the development and function of Fut2+ Paneth cells as part of gut defense.
 
 [Source](https://doi.org/10.1073/pnas.2115230119)
+
+10.1073/pnas.2115230119
 
 ---
 
@@ -89,63 +82,129 @@ With the rapid development and high therapeutic efficiency and biosafety of gas-
 
 ---
 
+## Ecological Validity, External Validity, and Mundane Realism in Hearing Science.
+ 14.01.2022, _T Beechey_
+
+
+Tests of hearing function are typically conducted in conditions very different from those in which people need to hear and communicate. Even when test conditions are more similar, they cannot represent the diversity of situations that may be encountered by individuals in daily life. As a consequence, it is necessary to consider external validity: the extent to which findings are likely to generalize to conditions beyond those in which data are collected. External validity has long been a concern in many fields and has led to the development of theories and methods aimed at improving generalizability of laboratory findings. Within hearing science, along with related fields, efforts to address generalizability have come to focus heavily on realism: the extent to which laboratory conditions are similar to conditions found in everyday settings of interest. In fact, it seems that realism is now tacitly equated with generalizability. The term that has recently been applied to this approach by many researchers is ecological validity. Recent usage of the term ecological validity within hearing science, as well as other fields, is problematic for three related reasons: (i) it encourages the conflation of the separate concepts of realism and validity; (ii) it diverts attention from the need for methods of quantifying generalization directly; and (iii) it masks a useful longstanding definition of ecological validity within the field of ecological psychology. The definition of ecological validity first used within ecological psychology-the correlation between cues received at the peripheral nervous system and the identity of distant objects or events in the environment-is entirely different from its current usage in hearing science and many related fields. However, as part of an experimental approach known as representative design, the original concept of ecological validity can play a valuable role in facilitating generalizability. This paper will argue that separate existing terms should be used when referring to realism and generalizability, and that the definition of ecological validity provided by the Lens Model may be a valuable conceptual tool within hearing science.
+
+[Source](https://doi.org/10.1016/j.chom.2021.12.018)
+
+10.1097/AUD.0000000000001202
+
+---
+
 ## Diet, microbe, and autism: Cause or consequence?
 
 [Source](https://doi.org/10.1016/j.chom.2021.12.018)
 
 ---
 
-## Gut microbiota in patients with Alzheimer’s disease spectrum: a systematic review and meta-analysis
+## Gut microbiota in patients with Alzheimer's disease spectrum: a systematic review and meta-analysis.
+ 14.01.2022, _CC Hung, CC Chang, CW Huang, R Nouchi, CH Cheng_
+
+
+Gut dysbiosis has been proposed as one of pathologies in patients with Alzheimer's disease (AD) spectrum. Despite such enthusiasm, the relevant results remain substantially controversial.
 
 [Source](https://doi.org/10.18632/aging.203826)
 
+10.18632/aging.203826
+
 ---
 
-## Characteristics of the gut microbiome in women with gestational diabetes mellitus: A systematic review
+## Characteristics of the gut microbiome in women with gestational diabetes mellitus: A systematic review.
+ 13.01.2022, _LS Rold, C Bundgaard-Nielsen, J Niemann Holm-Jacobsen, P Glud Ovesen, P Leutscher, S Hagstrøm, S Sørensen_
+
+
+The incidence of women developing gestational diabetes mellitus (GDM) is increasing, which is associated with an increased risk of type 2 diabetes mellitus (T2DM) for both mother and child. Gut microbiota dysbiosis may contribute to the pathogenesis of both GDM and the accompanying risk of T2DM. Thus, a better understanding of the microbial communities associated with GDM could offer a potential target for intervention and treatment in the future. Therefore, we performed a systematic review to investigate if the GDM women have a distinct gut microbiota composition compared to non-GDM women.
 
 [Source](https://doi.org/10.1371/journal.pone.0262618)
 
+10.1371/journal.pone.0262618
+
 ---
 
-## Respiratory tract infections and gut microbiome modifications: A systematic review
+## Respiratory tract infections and gut microbiome modifications: A systematic review.
+ 13.01.2022, _CA Woodall, LJ McGeoch, AD Hay, A Hammond_
+
+
+Respiratory tract infections (RTIs) are extremely common and can cause gastrointestinal tract symptoms and changes to the gut microbiota, yet these effects are poorly understood. We conducted a systematic review to evaluate the reported evidence of gut microbiome alterations in patients with a RTI compared to healthy controls (PROSPERO: CRD42019138853). We systematically searched Medline, Embase, Web of Science, Cochrane and the Clinical Trial Database for studies published between January 2015 and June 2021. Studies were eligible for inclusion if they were human cohorts describing the gut microbiome in patients with an RTI compared to healthy controls and the infection was caused by a viral or bacterial pathogen. Dual data screening and extraction with narrative synthesis was performed. We identified 1,593 articles and assessed 11 full texts for inclusion. Included studies (some nested) reported gut microbiome changes in the context of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) (n = 5), influenza (H1N1 and H7N9) (n = 2), Tuberculosis (TB) (n = 4), Community-Acquired Pneumonia CAP (n = 2) and recurrent RTIs (rRTI) (n = 1) infections. We found studies of patients with an RTI compared to controls reported a decrease in gut microbiome diversity (Shannon) of 1.45 units (95% CI, 0.15-2.50 [p, &lt;0.0001]) and a lower abundance of taxa (p, 0.0086). Meta-analysis of the Shannon value showed considerable heterogeneity between studies (I2, 94.42). Unbiased analysis displayed as a funnel plot revealed a depletion of Lachnospiraceae, Ruminococcaceae and Ruminococcus and enrichment of Enterococcus. There was an important absence in the lack of cohort studies reporting gut microbiome changes and high heterogeneity between studies may be explained by variations in microbiome methods and confounder effects. Further human cohort studies are needed to understand RTI-induced gut microbiome changes to better understand interplay between microbes and respiratory health.
 
 [Source](https://doi.org/10.1371/journal.pone.0262057)
 
+10.1371/journal.pone.0262057
+
 ---
 
-## Repercussions of intermittent fasting on the intestinal microbiota community and body composition: a systematic review
+## Repercussions of intermittent fasting on the intestinal microbiota community and body composition: a systematic review.
+ 12.01.2022, _FCS Pinto, AAM Silva, SL Souza_
+
+
+Several therapies have been tested for combating weight gain and obesity-related metabolic diseases, and among these therapies, intermittent fasting (IF) has gained a great deal of interest.
 
 [Source](https://doi.org/10.1093/nutrit/nuab108)
 
+10.1093/nutrit/nuab108
+
 ---
 
-## Skin Deep: The Role of the Microbiota in Cutaneous Autoimmunity
+## Skin Deep: The Role of the Microbiota in Cutaneous Autoimmunity.
+ 14.01.2022, _MS Pereira, S Redanz, MA Kriegel_
+
+
+The skin microbiota is thought to possibly contribute to the pathogenesis of skin autoimmune diseases. The gut microbiota affects systemically the development and function of the immune system, thereby potentially influencing cutaneous autoimmunity as well. In this paper, we review the role of the gut and skin microbiota in cutaneous autoimmune diseases. Besides direct inflammatory effects at the skin barrier, microbiota may contribute to the pathogenesis of skin autoimmune diseases by metabolites, recall immune cell responses, and permeation of antigens to the subepidermal space. Skin and gut barrier dysfunction may represent a common pathophysiologic process allowing microbiota or its particles to promote autoimmune diseases at barrier surfaces.
 
 [Source](https://doi.org/10.1016/j.jid.2021.12.005)
 
+10.1016/j.jid.2021.12.005
+
 ---
 
-## Current advances in the anti-inflammatory effects and mechanisms of natural polysaccharides
+## Current advances in the anti-inflammatory effects and mechanisms of natural polysaccharides.
+ 13.01.2022, _D Yuan, C Li, Q Huang, X Fu, H Dong_
+
+
+Inflammatory bowel disease (IBD) is a chronic, multifactorial and inflammatory disease occurring in the colon tract. Bioactive polysaccharides from natural resources have attracted extensive attention due to their safety, accessibility and good bioactivities. In recent years, a variety of natural bioactive polysaccharides have been proven to possess anti-inflammatory effects on treating acute colitis. The objective of this review was to give an up-to-date review on the anti-inflammatory effects and mechanisms of natural polysaccharides on acute colitis. The anti-inflammatory effects of natural polysaccharides on acute colitis concerning clinical symptoms amelioration, colon tissue repairment, anti-oxidative stress alleviation, anti-inflammation, immune regulation, and gut microbiota modulation were comprehensively summarized. In addition, inducible murine models for assessing the anti-inflammatory effects of natural polysaccharides on acute colitis were also concluded. This review will offer the comprehensive understanding of anti-inflammatory mechanisms of natural polysaccharides in acute colitis, and render theoretical basis for the development and application of natural polysaccharides in drug and functional food.
 
 [Source](https://doi.org/10.1080/10408398.2022.2025535)
 
+10.1080/10408398.2022.2025535
+
 ---
 
-## The gut microbiota of environmentally enriched mice regulates visual cortical plasticity
+## The gut microbiota of environmentally enriched mice regulates visual cortical plasticity.
+ 12.01.2022, _L Lupori, S Cornuti, R Mazziotti, E Borghi, E Ottaviano, MD Cas, G Sagona, T Pizzorusso, P Tognini_
+
+
+Exposing animals to an enriched environment (EE) has dramatic effects on brain structure, function, and plasticity. The poorly known "EE-derived signals'' mediating the EE effects are thought to be generated within the central nervous system. Here, we shift the focus to the body periphery, revealing that gut microbiota signals are crucial for EE-driven plasticity. Developmental analysis reveals striking differences in intestinal bacteria composition between EE and standard rearing (ST) mice, as well as enhanced levels of short-chain fatty acids (SCFA) in EE mice. Depleting the microbiota of EE mice with antibiotics strongly decreases SCFA and prevents activation of adult ocular dominance plasticity, spine dynamics, and microglia rearrangement. SCFA treatment in ST mice mimics EE induction of ocular dominance plasticity and microglial remodeling. Remarkably, transferring the microbiota of EE mice to ST recipients activates adult ocular dominance plasticity. Thus, experience-dependent changes in gut microbiota regulate brain plasticity.
 
 [Source](https://doi.org/10.1016/j.celrep.2021.110212)
 
+10.1016/j.celrep.2021.110212
+
 ---
 
-## Characterization of the juvenile koala gut microbiome across wild populations
+## Characterization of the juvenile koala gut microbiome across wild populations.
+ 12.01.2022, _MDJ Blyton, RM Soo, P Hugenholtz, BD Moore_
+
+
+In this study we compared the faecal microbiomes of wild joey koalas (Phascolarctos cinereus) to those of adults, including their mothers, to establish whether gut microbiome maturation and inheritance in the wild is comparable to that seen in captivity. Our findings suggest that joey koala microbiomes slowly shift towards an adult assemblage between 6 and 12 months of age, as the microbiomes of 9-month-old joeys were more similar to those of adults than those of 7-month-olds, but still distinct. At the phylum level, differences between joeys and adults were broadly consistent with those in captivity, with Firmicutes increasing in relative abundance over the joeys' development and Proteobacteria decreasing. Of the fibre-degrading genes that increased in abundance over the development of captive joeys, those involved in hemicellulose and cellulose degradation, but not pectin degradation, were also generally found in higher abundance in adult wild koalas compared to 7-month-olds. Greater maternal inheritance of the faecal microbiome was seen in wild than in captive koalas, presumably due to the more solitary nature of wild koalas. This strong maternal inheritance of the gut microbiome could contribute to the development of localized differences in microbiome composition, population health and diet through spatial clustering of relatives.
 
 [Source](https://doi.org/10.1111/1462-2920.15884)
 
+10.1111/1462-2920.15884
+
 ---
 
-## Specific gut bacterial responses to natural diets of tropical birds
+## Specific gut bacterial responses to natural diets of tropical birds.
+ 14.01.2022, _KH Bodawatta, I Klečková, J Klečka, K Pužejová, B Koane, M Poulsen, KA Jønsson, K Sam_
+
+
+The composition of gut bacterial communities is strongly influenced by the host diet in many animal taxa. For birds, the effect of diet on the microbiomes has been documented through diet manipulation studies. However, for wild birds, most studies have drawn on literature-based information to decipher the dietary effects, thereby, overlooking individual variation in dietary intake. Here we examine how naturally consumed diets influence the composition of the crop and cloacal microbiomes of twenty-one tropical bird species, using visual and metabarcoding-based identification of consumed diets and bacterial 16S rRNA microbiome sequencing. We show that diet intakes vary markedly between individuals of the same species and that literature-based dietary guilds grossly underestimate intraspecific diet variability. Furthermore, despite an effect of literature-based dietary guild assignment of host taxa, the composition of natural diets does not align with crop and cloacal microbiome similarity. However, host-taxon specific gut bacterial lineages are positively correlated with specific diet items, indicating that certain microbes associate with different diet components in specific avian hosts. Consequently, microbiome composition is not congruent with the overall consumed diet composition of species, but specific components of a consumed diet lead to host-specific effects on gut bacterial taxa.
 
 [Source](https://doi.org/10.1038/s41598-022-04808-9)
+
+10.1038/s41598-022-04808-9
 
 ---
 
@@ -245,9 +304,15 @@ Microbial communities associated with plant leaf surfaces (i.e., the phyllospher
 
 ---
 
-## Sulfate-dependant microbially induced corrosion of mild steel in the deep sea: a 10-year microbiome study
+## Sulfate-dependant microbially induced corrosion of mild steel in the deep sea: a 10-year microbiome study.
+ 14.01.2022, _P Rajala, DQ Cheng, SA Rice, FM Lauro_
+
+
+Metal corrosion in seawater has been extensively studied in surface and shallow waters. However, infrastructure is increasingly being installed in deep-sea environments, where extremes of temperature, salinity, and high hydrostatic pressure increase the costs and logistical challenges associated with monitoring corrosion. Moreover, there is currently only a rudimentary understanding of the role of microbially induced corrosion, which has rarely been studied in the deep-sea. We report here an integrative study of the biofilms growing on the surface of corroding mooring chain links that had been deployed for 10 years at ~2 km depth and developed a model of microbially induced corrosion based on flux-balance analysis.
 
 [Source](https://doi.org/10.1186/s40168-021-01196-6)
+
+10.1186/s40168-021-01196-6
 
 ---
 
@@ -275,9 +340,15 @@ Plant secondary metabolites (PSMs) can affect the structures and functions of so
 
 ---
 
-## Identifying temporal and spatial patterns of variation from multimodal data using MEFISTO
+## Identifying temporal and spatial patterns of variation from multimodal data using MEFISTO.
+ 14.01.2022, _B Velten, JM Braunger, R Argelaguet, D Arnol, J Wirbel, D Bredikhin, G Zeller, O Stegle_
+
+
+Factor analysis is a widely used method for dimensionality reduction in genome biology, with applications from personalized health to single-cell biology. Existing factor analysis models assume independence of the observed samples, an assumption that fails in spatio-temporal profiling studies. Here we present MEFISTO, a flexible and versatile toolbox for modeling high-dimensional data when spatial or temporal dependencies between the samples are known. MEFISTO maintains the established benefits of factor analysis for multimodal data, but enables the performance of spatio-temporally informed dimensionality reduction, interpolation, and separation of smooth from non-smooth patterns of variation. Moreover, MEFISTO can integrate multiple related datasets by simultaneously identifying and aligning the underlying patterns of variation in a data-driven manner. To illustrate MEFISTO, we apply the model to different datasets with spatial or temporal resolution, including an evolutionary atlas of organ development, a longitudinal microbiome study, a single-cell multi-omics atlas of mouse gastrulation and spatially resolved transcriptomics.
 
 [Source](https://doi.org/10.1038/s41592-021-01343-9)
+
+10.1038/s41592-021-01343-9
 
 ---
 
