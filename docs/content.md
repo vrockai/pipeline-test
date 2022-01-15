@@ -155,9 +155,15 @@ With the rapid development and high therapeutic efficiency and biosafety of gas-
 
 ---
 
-## Establishment and resilience of transplanted gut microbiota in aged mice
+## Establishment and resilience of transplanted gut microbiota in aged mice.
+ 14.01.2022, _Y Wang, J Tang, Q Lv, Y Tan, X Dong, H Liu, N Zhao, Z He, Y Kou, Y Tan, XA Liu, L Wang, YY Liu, L Dai_
+
+
+The maintenance of healthy and resilient gut microbiota is critical for the life quality and healthspan of the elderly. Fecal microbiota transplantation (FMT) has been increasingly used to restore healthy gut microbiota. We systemically studied the establishment and resilience of transplanted microbiota after autologous versus heterologous FMT in aged recipients. Gut microbiota of aged mice (20 months old) failed to restore their original diversity and composition over 8 weeks via spontaneous recovery after antibiotics treatment; in contrast, FMT using either autologous or heterologous (2 months old from a different vendor) donors facilitated the recovery successfully, established donor-like microbiota states, and affected host gene expression profile. Furthermore, the transplanted microbiota established by heterologous FMT is not resilient during chemical-induced colonic inflammation, in contrast to that of autologous FMT. Our findings highlighted the need to monitor the long-term stability of transplanted gut microbiota and to perform multiple FMT when necessary.
 
 [Source](https://doi.org/10.1016/j.isci.2021.103654)
+
+10.1016/j.isci.2021.103654
 
 ---
 
@@ -168,7 +174,7 @@ With the rapid development and high therapeutic efficiency and biosafety of gas-
 ---
 
 ## Responsive changes of rumen microbiome and metabolome in dairy cows with different susceptibility to subacute ruminal acidosis.
- 13.01.2022, _T Zhang, Y Mu, R Zhang, Y Xue, C Guo, W Qi, J Zhang, S Mao_
+ 14.01.2022, _T Zhang, Y Mu, R Zhang, Y Xue, C Guo, W Qi, J Zhang, S Mao_
 
 
 Subacute ruminal acidosis (SARA) represents one of the most important digestive disorders in intensive dairy farms, and dairy cows are individually different in the severity of SARA risk. The objectives of the current study were to investigate differences in the ruminal bacterial community and metabolome in dairy cattle with different susceptibility to SARA. In the present study, 12 cows were initially enrolled in the experiment. Based on average ruminal pH, 4 cows with the lowest ruminal pH were assigned to the susceptible group (SUS, pH = 5.76, n = 4) and 4 cows with the highest ruminal pH assigned to the tolerant group (TOL, pH = 6.10, n = 4). Rumen contents from susceptible (SUS, n = 4) and tolerant (TOL, n = 4) dairy cows were collected through rumen fistula to systematically reveal the rumen microbial and metabolic alterations of dairy cows with different susceptibility to SARA using multi-omics approaches (16S and 18S rRNA gene sequencing and metabolome). The results showed that despite being fed the same diet, SUS cows had lower ruminal pH and higher concentrations of total volatile fatty acids (VFA) and propionate than TOL cows (P &lt; 0.05). No significant differences were observed in dry matter intake, milk yield, and other milk compositions between the SUS and TOL groups (P &gt; 0.05). The principal coordinates analysis based on the analysis of molecular variance indicated a significant difference in bacterial composition between the two groups (P = 0.01). More specifically, the relative abundance of starch-degrading bacteria (Prevotella spp.) was greater (P &lt; 0.05), while the proportion of fiber-degrading bacteria (unclassified Ruminococcaceae spp., Ruminococcus spp., Papillibacter, and unclassified Family_XIII) was lower in the rumen of SUS cows compared with TOL cows (P &lt; 0.05). Community analysis of protozoa showed that there were no significant differences in the diversity, richness, and community structure (P &gt; 0.05). Metabolomics analysis revealed that the concentrations of organic acids (such as lactic acid), biogenic amines (such as histamine), and bacterial degradation products (such as hypoxanthine) were significantly higher in the SUS group compared to the TOL group (P &lt; 0.05). These findings revealed that the higher proportion of starch-degrading bacteria/lower fiber-degrading bacteria in the rumen of SUS cows resulted in higher VFA-producing capacity, in particular propionate. This caused a disruption in metabolic homeostasis in the rumen which might be the reason for the higher susceptibility to SARA. Overall, these findings enhanced our understanding of the ruminal microbiome and metabolic changes in cows susceptible to SARA.
@@ -246,7 +252,7 @@ Microbial communities associated with plant leaf surfaces (i.e., the phyllospher
 ---
 
 ## Microbial community composition and glyphosate degraders of two soils under the influence of temperature, total organic carbon and pH.
- 13.01.2022, _AM Muskus, A Miltner, U Hamer, KM Nowak_
+ 14.01.2022, _AM Muskus, A Miltner, U Hamer, KM Nowak_
 
 
 Glyphosate can be degraded by soil microorganisms rapidly and is impacted by temperature and soil properties. Enhanced temperature and total organic carbon (TOC) as well as reduced pH increased the rate of 13C315N-glyphosate conversion to CO2 and biogenic non-extractable residues (bioNERs) in a Haplic Chernozem (Muskus et al., 2019) and in a Humic Cambisol (Muskus et al., 2020). To date; however, the combined effect of temperature and TOC or pH on microbial community composition and glyphosate degraders in these two soils has not been investigated. Phospholipid fatty acid [PLFA] biomarker analysis combined with 13C labeling was employed to investigate the effect of two soil properties (pH, TOC) and of three temperatures (10 °C, 20 °C, 30 °C) on soil microorganisms. Before incubation, the properties of a Haplic Chernozem and a Humic Cambisol were adjusted to obtain five treatments: (a) Control (Haplic Chernozem: 2.1% TOC and pH 6.6; Humic Cambisol: 3% TOC and pH 7.0), (b) 3% TOC (Haplic Chernozem) or 4% TOC (Humic Cambisol), (c) 4% TOC (Haplic Chernozem) or 5% TOC (Humic Cambisol), (d) pH 6.0 (Haplic Chernozem) or pH 6.5 (Humic Cambisol), and (e) pH 5.5 for both soils. All treatments were amended with 50 mg kg-1 glyphosate and incubated at 10 °C, 20 °C or 30 °C. We observed an increase in respiration, microbial biomass and glyphosate mineralization with incubation temperature. Although respiration and microbial biomass in the Humic Cambisol was higher, the microorganisms in the Haplic Chernozem were more active in glyphosate degradation. Increased TOC shifted the microbiome and the 13C-glyphosate degraders towards Gram-positive bacteria in both soils. However, the abundance of 13C-PLFAs indicative for the starvation of Gram-negative bacteria increased with increasing TOC or decreasing pH at higher temperatures. Gram-negative bacteria thus may have been involved in earlier stages of glyphosate degradation.
