@@ -1,201 +1,168 @@
-## Substantial overlap between symptomatic and asymptomatic genitourinary microbiota states
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01204-9)
-
----
-
-## Gut Ruminococcaceae levels at baseline correlate with risk of antibiotic-associated diarrhea.
- 11.01.2022, _X Gu, JXY Sim, WL Lee, L Cui, YFZ Chan, ED Chang, YE Teh, AN Zhang, F Armas, F Chandra, H Chen, S Zhao, Z Lee, JR Thompson, EE Ooi, JG Low, EJ Alm, S Kalimuddin_
+## Oral HPV associated with differences in oral microbiota beta diversity and microbiota abundance.
+ 17.01.2022, _Y Zhang, G D'Souza, C Fakhry, EO Bigelow, M Usyk, RD Burk, N Zhao_
 
 
-Antibiotic-associated diarrhea (AAD) affects a significant proportion of patients receiving antibiotics. We sought to understand if differences in the gut microbiome would influence the development of AAD. We administered a 3-day course of amoxicillin-clavulanate to 30 healthy adult volunteers, and analyzed their stool microbiome, using 16S rRNA gene sequencing, at baseline and up to 4 weeks post antibiotic administration. Lower levels of gut Ruminococcaceae were significantly and consistently observed from baseline until day 7 in participants who developed AAD. Overall, participants who developed AAD experienced a greater decrease in microbial diversity. The probability of AAD could be predicted based on qPCR-derived levels of Faecalibacterium prausnitzii at baseline. Our findings suggest that a lack of gut Ruminococcaceae influences development of AAD. Quantification of F. prausnitzii in stool prior to antibiotic administration may help identify patients at risk of AAD, and aid clinicians in devising individualized treatment regimens to minimize such adverse effects.
+While cervicovaginal microbiome has been associated with cervical human papillomavirus (HPV) infection, little is known regarding the association of oral microbiome with oral HPV, a cause of oropharyngeal cancer.
 
-[Source](https://www.cell.com/iscience/fulltext/S2589-0042(21)01614-X)
+[Source](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiac010/6509880)
 
-10.1016/j.isci.2021.103644
+10.1093/infdis/jiac010
 
 ---
 
-## [Progress in diagnosis and treatment of fibular fracture in ankle fracture].
- 17.01.2022, _Y Tang, X Liang, H Zhao, Y Zhang_
+## The Skin and Nose Microbiome and Its Association with Filaggrin Gene Mutations in Pediatric Atopic Dermatitis.
+ 18.01.2022, _MMF van Mierlo, LM Pardo, KB Fieten, TJ van den Broek, FHJ Schuren, M van Geel, SGMA Pasmans_
 
 
-To summarize the diagnosis and treatment of fibular fracture in ankle fracture.
+Interactions between the skin barrier, immune system, and microbiome underlie the development of atopic dermatitis (AD).
 
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00355-4/fulltext)
+[Source](https://www.karger.com/Article/FullText/520978)
 
-10.7507/1002-1892.202108091
-
----
-
-## Home or hospital birth: the neonatal microbiota perspective
-
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00355-4/fulltext)
+10.1159/000520978
 
 ---
 
-## A pilot exploration of multi-omics research of gut microbiome in major depressive disorders.
- 11.01.2022, _H Zhao, K Jin, C Jiang, F Pan, J Wu, H Luan, Z Zhao, J Chen, T Mou, Z Wang, J Lu, S Lu, S Hu, Y Xu, M Huang_
+## Associations of Childhood and Perinatal Blood Metals with Children’s Gut Microbiomes in a Canadian Gestation Cohort
 
-
-The pathophysiology of major depressive disorder (MDD) remains obscure. Recently, the microbiota-gut-brain (MGB) axis's role in MDD has an increasing attention. However, the specific mechanism of the multi-level effects of gut microbiota on host metabolism, immunity, and brain structure is unclear. Multi-omics approaches based on the analysis of different body fluids and tissues using a variety of analytical platforms have the potential to provide a deeper understanding of MGB axis disorders. Therefore, the data of metagenomics, metabolomic, inflammatory factors, and MRI scanning are collected from the two groups including 24 drug-naïve MDD patients and 26 healthy controls (HCs). Then, the correlation analysis is performed in all omics. The results confirmed that there are many markedly altered differences, such as elevated Actinobacteria abundance, plasma IL-1β concentration, lipid, vitamin, and carbohydrate metabolism disorder, and diminished grey matter volume (GMV) of inferior frontal gyrus (IFG) in the MDD patients. Notably, three kinds of discriminative bacteria, Ruminococcus bromii, Lactococcus chungangensis, and Streptococcus gallolyticus have an extensive correlation with metabolome, immunology, GMV, and clinical symptoms. All three microbiota are closely related to IL-1β and lipids (as an example, phosphoethanolamine (PEA)). Besides, Lactococcus chungangensis is negatively related to the GMV of left IFG. Overall, this study demonstrate that the effects of gut microbiome exert in MDD is multifactorial.
-
-[Source](https://www.nature.com/articles/s41398-021-01769-x)
-
-10.1038/s41398-021-01769-x
+[Source](https://ehp.niehs.nih.gov/doi/10.1289/EHP9674)
 
 ---
 
-## Post-ischemic protein restriction induces sustained neuroprotection, neurological recovery, brain remodeling, and gut microbiota rebalancing.
- 17.01.2022, _T Silva de Carvalho, V Singh, A Mohamud Yusuf, J Wang, AR Schultz Moreira, EH Sanchez-Mendoza, M Sardari, LM Nascentes Melo, TR Doeppner, J Kehrmann, R Scholtysik, L Hitpass, M Gunzer, DM Hermann_
+## Patient knowledge of gut microbiota and acceptability of fecal microbiota transplantation in various diseases.
+ 17.01.2022, _N Benech, P Legendre, L Radoszycki, P Varriale, H Sokol_
 
 
-Moderate dietary protein restriction confers neuroprotection when applied before ischemic stroke. How a moderately protein-reduced diet influences stroke recovery when administered after stroke, is a clinically relevant question. This question has not yet been investigated.
+Fecal microbiota transplantation (FMT) is now evaluated in various diseases. However, large-scale population treatment may encounter feasibility issues in terms of acceptance. We aim to evaluate patient knowledge of gut microbiota and the acceptability of FMT in various diseases.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0889159121006127)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/nmo.14320)
 
-10.1016/j.bbi.2021.11.016
-
----
-
-## Bifidobacterium breve CCFM1025 attenuates major depression disorder via regulating gut microbiome and tryptophan metabolism: A randomized clinical trial.
- 17.01.2022, _P Tian, Y Chen, H Zhu, L Wang, X Qian, R Zou, J Zhao, H Zhang, L Qian, Q Wang, G Wang, W Chen_
-
-
-Psychobiotics, as a novel class of probiotics mainly acting on the gut-brain axis, have shown promising prospects in treating psychiatric disorders. Bifidobacterium breve CCFM1025 was validated to have an antidepressant-like effect in mice. This study aims to assess its psychotropic potential in managing major depression disorder (MDD) and unravel the underlying mechanisms.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159121006267)
-
-10.1016/j.bbi.2021.11.023
+10.1111/nmo.14320
 
 ---
 
-## Gestational insulin resistance is mediated by the gut microbiome-indoleamine 2,3-dioxygenase axis.
- 15.01.2022, _M Priyadarshini, G Navarro, DJ Reiman, A Sharma, K Xu, K Lednovich, CR Manzella, MW Khan, MS Garcia, S Allard, B Wicksteed, GE Chlipala, B Szynal, BP Bernabe, PM Maki, RK Gill, GH Perdew, J Gilbert, Y Dai, BT Layden_
+## Comprehensive assessment of functional effects of commonly used sweeteners on ex vivo human gut microbiome
 
-
-Normal gestation involves reprogramming of maternal gut microbiome (GM) that contributes to maternal metabolic changes by unclear mechanisms. This study aimed to understand the mechanistic underpinnings of GM - maternal metabolism interaction.
-
-[Source](https://www.gastrojournal.org/article/S0016-5085(22)00016-6/fulltext)
-
-10.1053/j.gastro.2022.01.008
+[Source](https://www.biorxiv.org/content/10.1101/2022.01.15.474735v1.abstract)
 
 ---
 
-## A natural polyphenol exerts antitumor activity and circumvents anti-PD-1 resistance through effects on the gut microbiota.
- 15.01.2022, _M Messaoudene, R Pidgeon, C Richard, M Ponce, K Diop, M Benlaifaoui, A Nolin-Lapalme, F Cauchois, J Malo, W Belkaid, S Isnard, Y Fradet, L Dridi, D Velin, P Oster, D Raoult, F Ghiringhelli, R Boidot, S Chevrier, DT Kysela, YV Brun, EL Falcone, G Pilon, F Plaza Onate, O Gitton-Quent, E Le Chatelier, S Durand, G Kroemer, A Elkrief, A Marette, B Castagner, B Routy_
+## Fusobacterium nucleatum and Bacteroides fragilis detection in colorectal tumours: Optimal target site and correlation with total bacterial load.
+ 10.01.2022, _MS Rye, KL Garrett, RA Holt, CF Platell, MJ McCoy_
 
 
-Several approaches to manipulate the gut microbiome for improving the activity of cancer immune checkpoint inhibitors (ICI) are currently under evaluation. Here, we show that oral supplementation with the polyphenol-rich berry camu-camu (CC, Myrciaria dubia) in mice shifted gut microbial composition, which translated into antitumor activity and a stronger anti-PD-1 response. We identified castalagin, an ellagitannin, as the active compound in CC. Oral administration of castalagin enriched for bacteria associated with efficient immunotherapeutic responses (Ruminococcaceae and Alistipes) and improved the CD8+/Foxp3+CD4+ ratio within the tumor microenvironment. Moreover, castalagin induced metabolic changes, resulting in an increase in taurine conjugated bile acids. Oral supplementation of castalagin following fecal microbiota transplantation from ICI-refractory patients into mice supported anti-PD-1 activity. Finally, we found that castalagin binds to Ruminococcus bromii and promoted an anticancer response. Altogether, our results identify castalagin as a polyphenol that acts as a prebiotic to circumvent anti-PD-1 resistance.
+Mucosal infiltration by certain bacterial species may contribute to the development and progression of colorectal cancer (CRC). There is considerable variation in reported detection rates in human CRC samples and the extent to which bacterial infiltration varies across regions of the primary tumour is unknown. This study aimed to determine if there is an optimal site for bacterial detection within CRC tumours.
 
-[Source](https://cancerdiscovery.aacrjournals.org/content/early/2022/01/13/2159-8290.CD-21-0808)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262416)
 
-10.1158/2159-8290.CD-21-0808
-
----
-
-## Virome holds back a vaccine
-
-[Source](https://www.nature.com/articles/s41579-022-00685-1)
+10.1371/journal.pone.0262416
 
 ---
 
-## Genome-Resolved Metagenomics Reveals Distinct Phosphorus Acquisition Strategies between Soil Microbiomes.
- 11.01.2022, _X Wu, C Rensing, D Han, KQ Xiao, Y Dai, Z Tang, W Liesack, J Peng, Z Cui, F Zhang_
+## Human gut microbiome aging clocks based on taxonomic and functional signatures through multi-view learning.
+ 18.01.2022, _Y Chen, H Wang, W Lu, T Wu, W Yuan, J Zhu, YK Lee, J Zhao, H Zhang, W Chen_
 
 
-Enhancing soil phosphate solubilization is a promising strategy for agricultural sustainability, while little is known about the mechanisms of how microorganisms cope with differing phosphorus availability. Using a combination of genome-resolved metagenomics and amplicon sequencing, we investigated the microbial mechanisms involved in phosphorus cycling under three agricultural treatments in a wheat-maize rotation system and two natural reforestation treatments. Available soil phosphorus was the key factor shaping bacterial and fungal community composition and function across our agricultural and reforestation sites. Membrane-bound quinoprotein glucose dehydrogenase (PQQGDH) and exopolyphosphatases (PPX) governed microbial phosphate solubilization in agroecosystems. In contrast, genes encoding glycerol-3-phosphate transporters (ugpB, ugpC, and ugpQ) displayed a significantly greater abundance in the reforestation soils. The gcd gene encoding PQQGDH was found to be the best determinant for bioavailable soil phosphorus. Metagenome-assembled genomes (MAGs) affiliated with Cyclobacteriaceae and Vicinamibacterales were obtained from agricultural soils. Their MAGs harbored not only gcd but also the pit gene encoding low-affinity phosphate transporters. MAGs obtained from reforestation soils were affiliated with Microtrichales and Burkholderiales. These contain ugp genes but no gcd, and thereby are indicative of a phosphate transporter strategy. Our study demonstrates that knowledge of distinct microbial phosphorus acquisition strategies between agricultural and reforestation soils could help in linking microbial processes with phosphorus cycling. IMPORTANCE The soil microbiome is the key player regulating phosphorus cycling processes. Identifying phosphate-solubilizing bacteria and utilizing them for release of recalcitrant phosphate that is bound to rocks or minerals have implications for improving crop nutrient acquisition and crop productivity. In this study, we combined functional metagenomics and amplicon sequencing to analyze microbial phosphorus cycling processes in natural reforestation and agricultural soils. We found that the phosphorus acquisition strategies significantly differed between these two ecosystems. A microbial phosphorus solubilization strategy dominated in the agricultural soils, while a microbial phosphate transporter strategy was observed in the reforestation soils. We further identified microbial taxa that contributed to enhanced phosphate solubilization in the agroecosystem. These microbes are predicted to be beneficial for the increase in phosphate bioavailability through agricultural practices.
+The human gut microbiome is a complex ecosystem that is closely related to the aging process. However, there is currently no reliable method to make full use of the metagenomics data of the gut microbiome to determine the age of the host. In this study, we considered the influence of geographical factors on the gut microbiome, and a total of 2604 filtered metagenomics data from the gut microbiome were used to construct an age prediction model. Then, we developed an ensemble model with multiple heterogeneous algorithms and combined species and pathway profiles for multi-view learning. By integrating gut microbiome metagenomics data and adjusting host confounding factors, the model showed high accuracy (R2 = 0.599, mean absolute error = 8.33 years). Besides, we further interpreted the model and identify potential biomarkers for the aging process. Among these identified biomarkers, we found that Finegoldia magna, Bifidobacterium dentium, and Clostridium clostridioforme had increased abundance in the elderly. Moreover, the utilization of amino acids by the gut microbiome undergoes substantial changes with increasing age which have been reported as the risk factors for age-associated malnutrition and inflammation. This model will be helpful for the comprehensive utilization of multiple omics data, and will allow greater understanding of the interaction between microorganisms and age to realize the targeted intervention of aging.
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.01107-21)
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.2025016)
 
-10.1128/msystems.01107-21
-
----
-
-## M&amp;Ms: a versatile software for building microbial mock communities
-
-[Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab882/6505202)
+10.1080/19490976.2021.2025016
 
 ---
 
-## GraphOmics: an interactive platform to explore and integrate multi-omics data.
- 23.12.2021, _J Wandy, R Daly_
+## Comparative analysis of gut microbial composition and potential functions in captive forest and alpine musk deer
 
-
-_Animals, COVID-19, Humans, Metabolomics, Proteomics, SARS-CoV-2, Zebrafish_
-An increasing number of studies now produce multiple omics measurements that require using sophisticated computational methods for analysis. While each omics data can be examined separately, jointly integrating multiple omics data allows for deeper understanding and insights to be gained from the study. In particular, data integration can be performed horizontally, where biological entities from multiple omics measurements are mapped to common reactions and pathways. However, data integration remains a challenge due to the complexity of the data and the difficulty in interpreting analysis results.
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04500-1)
-
-10.1186/s12859-021-04500-1
+[Source](https://link.springer.com/article/10.1007%2Fs00253-022-11775-8)
 
 ---
 
-## Aristotle: stratified causal discovery for omics data.
- 18.01.2022, _M Mansouri, S Khakabimamaghani, L Chindelevitch, M Ester_
+## Effects of dietary antimicrobial peptides on intestinal morphology, antioxidant status, immune responses, microbiota and pathogen disease resistance in grass carp Ctenopharyngodon idellus.
+ 15.01.2022, _S Liu, S Wang, X Liu, L Wen, J Zou_
 
 
-_Genomics, Humans, Metabolomics, Precision Medicine, Proteomics, Transcriptome_
-There has been a simultaneous increase in demand and accessibility across genomics, transcriptomics, proteomics and metabolomics data, known as omics data. This has encouraged widespread application of omics data in life sciences, from personalized medicine to the discovery of underlying pathophysiology of diseases. Causal analysis of omics data may provide important insight into the underlying biological mechanisms. Existing causal analysis methods yield promising results when identifying potential general causes of an observed outcome based on omics data. However, they may fail to discover the causes specific to a particular stratum of individuals and missing from others.
+This study aims to highlight the effects (8 weeks) of dietary antimicrobial peptides (AMPs, a compound of 6kDa and 5kDa from intestine) on intestinal morphological functions and health status in grass carp (Ctenopharyngodon idellus). Fish were supplemented with various gradient concentrations of AMPs, including M0 (0 mg/kg), M1 (100 mg/kg), M2 (200 mg/kg), M3 (400 mg/kg), M4 (800 mg/kg) and M5 (1600 mg/kg). Our results showed that amylase, lipase, chymotrypsin enzymatic levels, and total antioxidant capacity (T-AOC) were significantly increased (p &lt; 0.05), while malondialdehyde (MDA) content was significantly decreased in the intestines of the AMP treated groups compared to the M0. Histological analysis revealed villus height and crypt depth of foregut and midgut in the M4 group were significantly different (p &lt; 0.05) compared to the M0. In the M3 group, the gene expression levels of IL-1β were significantly up-regulated, while levels of IL10 and TGF-β were significantly down-regulated than other treated and control groups. The abundance of Firmicutes was significantly increased (p &lt; 0.05), while the Planctomycetes abundance was decreased at phylum level in M1-M5 groups. Subsequent to the AMP treatment, fish were injected with Aeromonas. hydrophila to assess disease resistant potential. In A. hydrophila injected M3-group, the gene expressions of IL-1β, IL8, and TNF-α were significantly down-regulated while that of TGF-β was significantly up-regulated, and IL10 showed no significant difference compared to the control. Further, AMPs also increased the abundance of the Acidobacteria, Proteobacteria, and Patescibacteria, and decreased the abundance of the Fusobacteria and Firmicutes. Therefore, dietary AMPs (400-800 mg/kg) boosted intestinal health by promoting intestinal morphology, digestive and antioxidant capacities, immunity, and intestinal microbiota in C. idellus.
 
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04521-w)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0882401021006604)
 
-10.1186/s12859-021-04521-w
-
----
-
-## Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection.
- 14.01.2022, _C Phetsouphanh, DR Darley, DB Wilson, A Howe, CML Munier, SK Patel, JA Juno, LM Burrell, SJ Kent, GJ Dore, AD Kelleher, GV Matthews_
-
-
-A proportion of patients surviving acute coronavirus disease 2019 (COVID-19) infection develop post-acute COVID syndrome (long COVID (LC)) lasting longer than 12 weeks. Here, we studied individuals with LC compared to age- and gender-matched recovered individuals without LC, unexposed donors and individuals infected with other coronaviruses. Patients with LC had highly activated innate immune cells, lacked naive T and B cells and showed elevated expression of type I IFN (IFN-β) and type III IFN (IFN-λ1) that remained persistently high at 8 months after infection. Using a log-linear classification model, we defined an optimal set of analytes that had the strongest association with LC among the 28 analytes measured. Combinations of the inflammatory mediators IFN-β, PTX3, IFN-γ, IFN-λ2/3 and IL-6 associated with LC with 78.5-81.6% accuracy. This work defines immunological parameters associated with LC and suggests future opportunities for prevention and treatment.
-
-[Source](https://www.nature.com/articles/s41590-021-01113-x)
-
-10.1038/s41590-021-01113-x
+10.1016/j.micpath.2021.105386
 
 ---
 
-## Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection.
- 18.01.2022, _FJ Ryan, CM Hope, MG Masavuli, MA Lynn, ZA Mekonnen, AEL Yeow, P Garcia-Valtanen, Z Al-Delfi, J Gummow, C Ferguson, S O'Connor, BAJ Reddi, P Hissaria, D Shaw, C Kok-Lim, JM Gleadle, MR Beard, SC Barry, B Grubor-Bauk, DJ Lynn_
+## Microbiomes of hadal fishes contain similar taxa, obligate symbionts, and known piezophiles across trench habitats
 
-
-Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly infectious respiratory virus which is responsible for the coronavirus disease 2019 (COVID-19) pandemic. It is increasingly clear that recovered individuals, even those who had mild COVID-19, can suffer from persistent symptoms for many months after infection, a condition referred to as "long COVID", post-acute sequelae of COVID-19 (PASC), post-acute COVID-19 syndrome, or post COVID-19 condition. However, despite the plethora of research on COVID-19, relatively little is known about the molecular underpinnings of these long-term effects.
-
-[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02228-6)
-
-10.1186/s12916-021-02228-6
+[Source](https://www.biorxiv.org/content/10.1101/2022.01.15.476391v1.abstract)
 
 ---
 
-## Post-acute neurological consequences of COVID-19: an unequal burden
-
-[Source](https://www.nature.com/articles/s41591-021-01647-5)
-
----
-
-## Reasons in favour of universal vaccination campaign against COVID-19 in the pediatric population.
- 14.01.2022, _N Principi, S Esposito_
+## Association of human disturbance and gastrointestinal parasite infection of yellow baboons in western Tanzania.
+ 15.01.2022, _B Mason, AK Piel, D Modrý, KJ Petrželková, FA Stewart, B Pafčo_
 
 
-_Adolescent, Age Factors, COVID-19, COVID-19 Vaccines, Child, Hospitalization, Humans, Immunization Programs, Mandatory Programs, Risk Assessment_
-Despite the growing evidence of the extreme efficacy of COVID-19 vaccines in adults and the elderly, the administration of the same prophylactic measures to pediatric subjects is debated by some parents and by a number of researchers. The aim of this manuscript is to explain the reasons for overcoming hesitancy towards COVID-19 vaccination in children and adolescents and to highlight the importance of universal COVID-19 vaccination in the pediatric population.
+Human disturbance is an ongoing threat to many wildlife species, manifesting as habitat destruction, resource overuse, or increased disease exposure, among others. With increasing human: non-human primate (NHP) encounters, NHPs are increasingly susceptible to human-introduced diseases, including those with parasitic origins. As such, epidemiology of parasitic disease is becoming an important consideration for NHP conservation strategies. To investigate the relationship between parasite infections and human disturbance we studied yellow baboons (Papio cynocephalus) living outside of national park boundaries in western Tanzania, collecting 135 fresh faecal samples from nine troops occupying areas with varying levels of human disturbance. We fixed all samples in 10% formalin and later evaluated parasite prevalence and abundance (of isotrichid ciliates and Strongylida). We identified seven protozoan and four helminth taxa. Taxa showed varied relationships with human disturbance, baboon troop size and host age. In four taxa, we found a positive association between prevalence and troop size. We also report a trend towards higher parasite prevalence of two taxa in less disturbed areas. To the contrary, high levels of human disturbance predicted increased abundance of isotrichid ciliates, although no relationship was found between disturbance and Strongylida abundance. Our results provide mixed evidence that human disturbance is associated with NHP parasite infections, highlighting the need to consider monitoring parasite infections when developing NHP conservation strategies.
 
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8673872/)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262481)
 
-10.1186/s13052-021-01192-4
+10.1371/journal.pone.0262481
 
 ---
 
-## Long COVID in children
+## Bacterial recognition by PGRP-SA and downstream signalling by Toll/DIF sustain commensal gut bacteria in Drosophila.
+ 10.01.2022, _S Bahuguna, M Atilano, M Glittenberg, D Lee, S Arora, L Wang, J Zhou, S Redhai, M Boutros, P Ligoxygakis_
 
-[Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8673872/)
+
+The gut sets the immune and metabolic parameters for the survival of commensal bacteria. We report that in Drosophila, deficiency in bacterial recognition upstream of Toll/NF-κB signalling resulted in reduced density and diversity of gut bacteria. Translational regulation factor 4E-BP, a transcriptional target of Toll/NF-κB, mediated this host-bacteriome interaction. In healthy flies, Toll activated 4E-BP, which enabled fat catabolism, which resulted in sustaining of the bacteriome. The presence of gut bacteria kept Toll signalling activity thus ensuring the feedback loop of their own preservation. When Toll activity was absent, TOR-mediated suppression of 4E-BP made fat resources inaccessible and this correlated with loss of intestinal bacterial density. This could be overcome by genetic or pharmacological inhibition of TOR, which restored bacterial density. Our results give insights into how an animal integrates immune sensing and metabolism to maintain indigenous bacteria in a healthy gut.
+
+[Source](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009992)
+
+10.1371/journal.pgen.1009992
 
 ---
 
-## I’m leading a long Covid trial – it’s clear Britain has underestimated its impact
+## Meta-analysis of the black soldier fly (Hermetia illucens) microbiota based on 16S rRNA gene amplicon sequencing
 
-[Source](https://www.theguardian.com/commentisfree/2022/jan/12/long-covid-trial-britain-short-term-virus)
+[Source](https://www.biorxiv.org/content/10.1101/2022.01.17.476578v1.abstract)
+
+---
+
+## Vertical stratification of microbial communities and isotope geochemistry tie groundwater denitrification to sampling location within a nitrate-contaminated aquifer.
+ 17.01.2022, _A Chakraborty, M Suchy, CRJ Hubert, MC Ryan_
+
+
+Nitrate pollution is a major threat to groundwater quality in agricultural areas. Natural attenuation of nitrate in contaminated aquifers is mediated by denitrifying microbial populations in anoxic environments. Vertical distribution of denitrifying microbial communities in aquifers is greatly influenced by groundwater redox conditions, local hydrogeological parameters, and seasonal variability in groundwater flow and recharge. In this study, we investigated groundwater geochemistry and the composition of bacterial and archaeal communities with increasing depth in a shallow nitrate-contaminated aquifer in British Columbia, Canada. High-resolution passive diffusion sampling was conducted to collect groundwater at 10-cm intervals from 4 to 20 m below ground surface (mbgs) in the aquifer. Geochemical analyses of major ions indicated a general shift in the groundwater chemistry below 16 mbgs including decreasing chloride concentrations that suggest two-end member mixing of shallow and deep groundwater with different chemistries. A redoxcline was further observed within a 2 m transition zone at 18-20 mbgs characterized by sharp declines in nitrate concentrations and increases in sulfate and total inorganic carbon. Excursions in δ15N-NO3- and δ18O-NO3- in the same depth interval are consistent with denitrification, and a concomitant decrease in δ34S-SO42- suggested that denitrification was coupled to sulfide or sulfur oxidation. Microbial communities within this depth interval were significantly dissimilar to those above and below, featuring putative lithotrophic denitrifying bacteria belonging to the genera Sulfurifustis, Sulfuritalea and Sulfuricella. These lineages were detected in greatest abundance at 19 mbgs while the abundances of putative heterotrophic sulfate-reducing bacteria belonging to the genus Desulfosporosinus were greatest at 20 mbgs. In addition to help distinguish denitrification from mixing-induced changes in groundwater chemistry, the above observed vertical stratification of the microbial key players connects nitrate removal to the locations of the aquifer sampled.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722001826)
+
+10.1016/j.scitotenv.2022.153092
+
+---
+
+## Microbiome differential abundance methods produce different results across 38 datasets.
+ 18.01.2022, _JT Nearing, GM Douglas, MG Hayes, J MacDonald, DK Desai, N Allward, CMA Jones, RJ Wright, AS Dhanani, AM Comeau, MGI Langille_
+
+
+Identifying differentially abundant microbes is a common goal of microbiome studies. Multiple methods are used interchangeably for this purpose in the literature. Yet, there are few large-scale studies systematically exploring the appropriateness of using these tools interchangeably, and the scale and significance of the differences between them. Here, we compare the performance of 14 differential abundance testing methods on 38 16S rRNA gene datasets with two sample groups. We test for differences in amplicon sequence variants and operational taxonomic units (ASVs) between these groups. Our findings confirm that these tools identified drastically different numbers and sets of significant ASVs, and that results depend on data pre-processing. For many tools the number of features identified correlate with aspects of the data, such as sample size, sequencing depth, and effect size of community differences. ALDEx2 and ANCOM-II produce the most consistent results across studies and agree best with the intersect of results from different approaches. Nevertheless, we recommend that researchers should use a consensus approach based on multiple differential abundance methods to help ensure robust biological interpretations.
+
+[Source](https://www.nature.com/articles/s41467-022-28034-z)
+
+10.1038/s41467-022-28034-z
+
+---
+
+## Using strain-resolved analysis to identify contamination in metagenomics data
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.01.16.476537v1.abstract)
+
+---
+
+## Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning.
+ 18.01.2022, _MM David, C Tataru, Q Pope, LJ Baker, MK English, HE Epstein, A Hammer, M Kent, MJ Sieler, RS Mueller, TJ Sharpton, F Tomas, R Vega Thurber, XZ Fern_
+
+
+A growing body of research has established that the microbiome can mediate the dynamics and functional capacities of diverse biological systems. Yet, we understand little about what governs the response of these microbial communities to host or environmental changes. Most efforts to model microbiomes focus on defining the relationships between the microbiome, host, and environmental features within a specified study system and therefore fail to capture those that may be evident across multiple systems. In parallel with these developments in microbiome research, computer scientists have developed a variety of machine learning tools that can identify subtle, but informative, patterns from complex data. Here, we recommend using deep transfer learning to resolve microbiome patterns that transcend study systems. By leveraging diverse public data sets in an unsupervised way, such models can learn contextual relationships between features and build on those patterns to perform subsequent tasks (e.g., classification) within specific biological contexts.
+
+[Source](https://journals.asm.org/doi/10.1128/msystems.01058-21)
+
+10.1128/msystems.01058-21
 
 ---
 
