@@ -70,9 +70,15 @@ The human gut microbiome is a complex ecosystem that is closely related to the a
 
 ---
 
-## Comparative analysis of gut microbial composition and potential functions in captive forest and alpine musk deer
+## Comparative analysis of gut microbial composition and potential functions in captive forest and alpine musk deer.
+ 17.01.2022, _F Jiang, P Song, H Wang, J Zhang, D Liu, Z Cai, H Gao, X Chi, T Zhang_
+
+
+Gut microbiota forms a unique microecosystem and performs various irreplaceable metabolic functions for ruminants. The gut microbiota is important for host health and provides new insight into endangered species conservation. Forest musk deer (FMD) and alpine musk deer (AMD) are typical small ruminants, globally endangered due to excessive hunting and habitat loss. Although nearly 60 years of captive musk deer breeding has reduced the hunting pressure in the wild, fatal gastrointestinal diseases restrict the growth of captive populations. In this study, 16S rRNA high-throughput sequencing revealed the differences in gut microbiota between FMD and AMD based on 166 fecal samples. The alpha diversity was higher in FMD than in AMD, probably helping FMD adapt to different and wider habitats. The ß-diversity was higher between adult FMD and AMD than juveniles and in winter than late spring. The phylum Firmicutes and the genera Christensenellaceae R7 group, Ruminococcus, Prevotellaceae UCG-004, and Monoglobus were significantly higher in abundance in FMD than in AMD. However, the phylum Bacteroidetes and genera Bacteroides, UCG-005, Rikenellaceae RC9 gut group, and Alistipes were significantly higher in AMD than FMD. The expression of metabolic functions was higher in AMD than in FMD, a beneficial pattern for AMD to maintain higher energy and substance metabolism. Captive AMD may be at higher risk of intestinal diseases than FMD, with higher relative abundances of most opportunistic pathogens and the expression of disease-related functions. These results provide valuable data for breeding healthy captive musk deer and assessing their adaptability in the wild. KEY POINTS: • Alpha diversity of gut microbiota was higher in FMD than that in AMD • Expression of metabolic and disease-related functions was higher in AMD than in FMD.
 
 [Source](https://link.springer.com/article/10.1007%2Fs00253-022-11775-8)
+
+10.1007/s00253-022-11775-8
 
 ---
 
