@@ -132,9 +132,10 @@ An increasing number of studies now produce multiple omics measurements that req
 ---
 
 ## Aristotle: stratified causal discovery for omics data.
- 16.01.2022, _M Mansouri, S Khakabimamaghani, L Chindelevitch, M Ester_
+ 18.01.2022, _M Mansouri, S Khakabimamaghani, L Chindelevitch, M Ester_
 
 
+_Genomics, Humans, Metabolomics, Precision Medicine, Proteomics, Transcriptome_
 There has been a simultaneous increase in demand and accessibility across genomics, transcriptomics, proteomics and metabolomics data, known as omics data. This has encouraged widespread application of omics data in life sciences, from personalized medicine to the discovery of underlying pathophysiology of diseases. Causal analysis of omics data may provide important insight into the underlying biological mechanisms. Existing causal analysis methods yield promising results when identifying potential general causes of an observed outcome based on omics data. However, they may fail to discover the causes specific to a particular stratum of individuals and missing from others.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04521-w)
@@ -156,7 +157,7 @@ A proportion of patients surviving acute coronavirus disease 2019 (COVID-19) inf
 ---
 
 ## Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection.
- 17.01.2022, _FJ Ryan, CM Hope, MG Masavuli, MA Lynn, ZA Mekonnen, AEL Yeow, P Garcia-Valtanen, Z Al-Delfi, J Gummow, C Ferguson, S O'Connor, BAJ Reddi, P Hissaria, D Shaw, C Kok-Lim, JM Gleadle, MR Beard, SC Barry, B Grubor-Bauk, DJ Lynn_
+ 18.01.2022, _FJ Ryan, CM Hope, MG Masavuli, MA Lynn, ZA Mekonnen, AEL Yeow, P Garcia-Valtanen, Z Al-Delfi, J Gummow, C Ferguson, S O'Connor, BAJ Reddi, P Hissaria, D Shaw, C Kok-Lim, JM Gleadle, MR Beard, SC Barry, B Grubor-Bauk, DJ Lynn_
 
 
 Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly infectious respiratory virus which is responsible for the coronavirus disease 2019 (COVID-19) pandemic. It is increasingly clear that recovered individuals, even those who had mild COVID-19, can suffer from persistent symptoms for many months after infection, a condition referred to as "long COVID", post-acute sequelae of COVID-19 (PASC), post-acute COVID-19 syndrome, or post COVID-19 condition. However, despite the plethora of research on COVID-19, relatively little is known about the molecular underpinnings of these long-term effects.
