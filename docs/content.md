@@ -29,7 +29,7 @@ Torquetenovirus (TTV) is a nonpathogenic endogenous virus whose abundance varies
 ---
 
 ## Can the Acid-formation Potential of Saliva Detect a Caries-related Shift in the Oral Microbiome?
- 20.01.2022, _C Frese, LS Reissfelder, S Kilian, A Felten, L Laurisch, K Schoilew, S Boutin_
+ 21.01.2022, _C Frese, LS Reissfelder, S Kilian, A Felten, L Laurisch, K Schoilew, S Boutin_
 
 
 To determine acid-formation potential of saliva and evaluate whether this method corresponds with microbiome composition of individuals with and without caries.
@@ -41,7 +41,7 @@ To determine acid-formation potential of saliva and evaluate whether this method
 ---
 
 ## Gut microbiome alterations and gut barrier dysfunction are associated with host immune homeostasis in COVID-19 patients.
- 20.01.2022, _Z Sun, ZG Song, C Liu, S Tan, S Lin, J Zhu, FH Dai, J Gao, JL She, Z Mei, T Lou, JJ Zheng, Y Liu, J He, Y Zheng, C Ding, F Qian, Y Zheng, YM Chen_
+ 21.01.2022, _Z Sun, ZG Song, C Liu, S Tan, S Lin, J Zhu, FH Dai, J Gao, JL She, Z Mei, T Lou, JJ Zheng, Y Liu, J He, Y Zheng, C Ding, F Qian, Y Zheng, YM Chen_
 
 
 COVID-19 is an infectious disease characterized by multiple respiratory and extrapulmonary manifestations, including gastrointestinal symptoms. Although recent studies have linked gut microbiota to infectious diseases such as influenza, little is known about the role of the gut microbiota in COVID-19 pathophysiology.
@@ -53,7 +53,7 @@ COVID-19 is an infectious disease characterized by multiple respiratory and extr
 ---
 
 ## Predicting Treatment Nonresponse in Hispanic/Latino Children Receiving Silver Diamine Fluoride for Caries Arrest: A Pilot Study Using Machine Learning.
- 20.01.2022, _RR Ruff, B Paul, MA Sierra, F Xu, X Li, YO Crystal, D Saxena_
+ 21.01.2022, _RR Ruff, B Paul, MA Sierra, F Xu, X Li, YO Crystal, D Saxena_
 
 
 Objectives: Silver diamine fluoride (SDF) is a nonsurgical therapy for the arrest and prevention of dental caries with demonstrated clinical efficacy. Approximately 20% of children receiving SDF fail to respond to treatment. The objective of this study was to develop a predictive model of treatment non-response using machine learning. Methods: An observational pilot study (N = 20) consisting of children with and without active decay and who did and did not respond to silver diamine fluoride provided salivary samples and plaque from infected and contralateral sites. 16S rRNA genes from samples were amplified and sequenced on an Illumina Miseq and analyzed using QIIME. The association between operational taxonomic units and treatment non-response was assessed using lasso regression and artificial neural networks. Results: Bivariate group comparisons of bacterial abundance indicate a number of genera were significantly different between non-responders and those who responded to SDF therapy. No differences were found between non-responders and caries-active subjects. Prevotella pallens and Veillonella denticariosi were retained in full lasso models and combined with clinical variables in a six-input multilayer perceptron. Discussion: The acidogenic and acid-tolerant nature of retained bacterial species may overcome the antimicrobial effects of SDF. Further research to validate the model in larger external samples is needed.
@@ -83,7 +83,7 @@ Previous studies have demonstrated an association between gut microbiota composi
 ---
 
 ## Frontiers in Oral Mucosal Immunity and the Microbiome.
- 20.01.2022, _GN Belibasakis, G Hajishengallis_
+ 21.01.2022, _GN Belibasakis, G Hajishengallis_
 
 
 The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OMIM) took place at the Grecotel Kos Imperial Hotel, Kos, Greece, between 25th and 30th September 2021, under the auspices of the Aegean Conferences. This has only been the second Aegean Conference of this thematic, the first one having taken place in 2018 in Crete, during the same period of the year. Given the hardships in travel and heightened infection transmission risks amid the COVID-19 pandemic, the Conference was well attended by 29 international speakers across the world. For many of the participants, this was the first conference travel in the post-pandemic era, and quite significant that it has taken place on the island of Hippocrates. Stringent regional health and safety regulations had to be followed to accomplish for this in-person Conference to take place. Frontiers in Oral Health has hosted papers from presentations of the Conference, whereas the present article serves as the proceedings of the Conference with summaries of the presentations.
@@ -196,86 +196,45 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Comparative Evaluation of the Effect of Metformin and Insulin on Gut Microbiota and Metabolome Profiles of Type 2 Diabetic Rats Induced by the Combination of Streptozotocin and High-Fat Diet.
- 20.01.2022, _N Hu, Q Zhang, H Wang, X Yang, Y Jiang, R Chen, L Wang_
-
-
-Lately, an increasing number of studies have investigated the relationship between metformin and gut microbiota, suggesting that metformin exerts part of its hypoglycemic effect through the microbes. However, its underlying mechanism remains largely undetermined. In the present study, we investigated the effects of metformin on gut microbiota and metabolome profiles in serum and compared it with insulin treatment in rats with type 2 diabetes mellitus (T2DM). Diabetic rats (DM group) were induced by a combination of streptozotocin and high-fat diet (HFD). After 7 days, DM rats were treated with metformin (MET group) or insulin (INS group) for 3 weeks. The 16S rRNA sequencing of the gut microbiota and non-targeted metabolomics analysis of serum were conducted. A total of 13 bile acids (BAs) in serum were further determined and compared among different groups. The rat model of T2DM was well established with the typical diabetic symptoms, showing significantly increased blood glucose, AUC of OGTT, HOMA-IR, TC, TG, LDL-C and TBA. Metformin or insulin treatment could ameliorate symptoms of diabetes and partly recover the abnormal biochemical indicators. Compared with DM rats, the relative abundances of 13 genera were significantly changed after metformin treatment, while only three genera were changed after insulin treatment. The metformin and insulin treatments also exhibited different serum metabolome profiles in T2DM rats. Moreover, 64 differential metabolites were identified between MET and DM groups, whereas 206 were identified between INS and DM groups. Insulin treatment showed greater influence on amino acids, glycerophospholipids/glycerolipids, and acylcarnitine compared with the metformin treatment, while metformin had an important impact on BAs. Furthermore, metformin could significantly decrease the serum levels of CA, GCA, UDCA, and GUDCA, but increase the level of TLCA in DM rats. Insulin treatment significantly decreased the levels of CA, UDCA, and CDCA. Besides, several metabolites in serum or microbiota were positively or negatively correlated with some bacteria. Collectively, our findings indicated that metformin had a stronger effect on gut microbiota than insulin, while insulin treatment showed greater influence on serum metabolites, which provided novel insights into the therapeutic effects of metformin on diabetes.
+## Comparative Evaluation of the Effect of Metformin and Insulin on Gut Microbiota and Metabolome Profiles of Type 2 Diabetic Rats Induced by the Combination of Streptozotocin and High-Fat Diet
 
 [Source](https://doi.org/10.3389/fphar.2021.794103)
 
-10.3389/fphar.2021.794103
-
 ---
 
-## Modulating the rhizosphere microbiome by altering the cocktail of root secretions.
- 20.01.2022, _W Zhang, GA Mason_
-
-
+## Modulating the rhizosphere microbiome by altering the cocktail of root secretions
 
 [Source](https://doi.org/10.1093/plphys/kiab480)
 
-10.1093/plphys/kiab480
-
 ---
 
-## Characterization of Tobacco Microbiome by Metagenomics Approach.
- 20.01.2022, _RS Kumar, N Mishra, A Kumar_
-
-
-Chronic consumption of tobacco in all forms, either smoked/smokeless forms, causes major health hazards to humans that include cancer, cardiovascular, lung diseases, diabetes, fertility issues, etc. Among tobacco-mediated cancers, the prominent one being the oral cancers are caused due to chronic tobacco chewing. The biochemicals present in tobacco are involved in carcinogenesis, and their presence is partly mediated by the existence of microbes in tobacco products. The microbial characterization has been evolved from classical microscopical observation to the recent development of 16S rRNA sequencing by next-generation sequencing methods. The metagenomics approach using 16S rRNA-based next-generation sequencing methods enables the detection and characterization of the complete microbial community of tobacco, including both cultivable and non-cultivable microorganisms. Identification of microbes will help in devising strategies to limit the carcinogenic compounds present in tobacco.
+## Characterization of Tobacco Microbiome by Metagenomics Approach
 
 [Source](https://doi.org/10.1007/978-1-0716-1896-7_22)
 
-10.1007/978-1-0716-1896-7_22
-
 ---
 
-## Incorporating genome-based phylogeny and functional similarity into diversity assessments helps to resolve a global collection of human gut metagenomes.
- 20.01.2022, _ND Youngblut, J de la Cuesta-Zuluaga, RE Ley_
-
-
-Tree-based diversity measures incorporate phylogenetic or functional relatedness into comparisons of microbial communities. This can improve the identification of explanatory factors compared to tree-agnostic diversity measures. However, applying tree-based diversity measures to metagenome data is more challenging than for single-locus sequencing (e.g., 16S rRNA gene). Utilizing the Genome Taxonomy Database (GTDB) for species-level metagenome profiling allows for functional diversity measures based on genomic content or traits inferred from it. Still, it is unclear how metagenome-based assessments of microbiome diversity benefit from incorporating phylogeny or function into measures of diversity. We assessed this by measuring phylogeny-based, function-based, and tree-agnostic diversity measures from a large, global collection of human gut metagenomes composed of 30 studies and 2943 samples. We found tree-based measures to explain phenotypic variation (e.g., westernization, disease status, and gender) better or equivalent to tree-agnostic measures. Ecophylogenetic and functional diversity measures provided unique insight into how microbiome diversity was partitioned by phenotype. Tree-based measures greatly improved machine learning model performance for predicting westernization, disease status, and gender, relative to models trained solely on tree-agnostic measures. Our findings illustrate the usefulness of tree- and function-based measures for metagenomic assessments of microbial diversity, which is a fundamental component of microbiome science. This article is protected by copyright. All rights reserved.
+## Incorporating genome-based phylogeny and functional similarity into diversity assessments helps to resolve a global collection of human gut metagenomes
 
 [Source](https://doi.org/10.1111/1462-2920.15910)
 
-10.1111/1462-2920.15910
-
 ---
 
-## Single-cell Microbiomics Unveils Distribution and Patterns of Microbial Symbioses in the Natural Environment.
- 20.01.2022, _V Boscaro, V Manassero, PJ Keeling, C Vannini_
-
-
-Protist-bacteria associations are extremely common. Among them, those involving ciliates of the genus Euplotes are emerging as models for symbioses between prokaryotes and eukaryotes, and a great deal of information is available from cultured representatives of this system. Even so, as for most known microbial symbioses, data on natural populations is lacking, and their ecology remains largely unexplored; how well lab cultures represent actual diversity is untested. Here, we describe a survey on natural populations of Euplotes based on a single-cell microbiomic approach, focusing on taxa that include known endosymbionts of this ciliate. The results reveal an unexpected variability in symbiotic communities, with individual hosts of the same population harboring different sets of bacterial endosymbionts. Co-occurring Euplotes individuals of the same population can even have different essential symbionts, Polynucleobacter and "Candidatus Protistobacter," which might suggest that replacement events could be more frequent in nature than previously hypothesized. Accessory symbionts are even more variable: some showed a strong affinity for one host species, some for a sampling site, and two ("Candidatus Cyrtobacter" and "Candidatus Anadelfobacter") displayed an unusual pattern of competitive exclusion. These data represent the first insight into the prevalence and patterns of bacterial symbionts in natural populations of free-living protists.
+## Single-cell Microbiomics Unveils Distribution and Patterns of Microbial Symbioses in the Natural Environment
 
 [Source](https://doi.org/10.1007/s00248-021-01938-x)
 
-10.1007/s00248-021-01938-x
-
 ---
 
-## Adaptive and powerful microbiome multivariate association analysis via feature selection.
- 20.01.2022, _K Banerjee, J Chen, X Zhan_
-
-
-The important role of human microbiome is being increasingly recognized in health and disease conditions. Since microbiome data is typically high dimensional, one popular mode of statistical association analysis for microbiome data is to pool individual microbial features into a group, and then conduct group-based multivariate association analysis. A corresponding challenge within this approach is to achieve adequate power to detect an association signal between a group of microbial features and the outcome of interest across a wide range of scenarios. Recognizing some existing methods' susceptibility to the adverse effects of noise accumulation, we introduce the Adaptive Microbiome Association Test (AMAT), a novel and powerful tool for multivariate microbiome association analysis, which unifies both blessings of feature selection in high-dimensional inference and robustness of adaptive statistical association testing. AMAT first alleviates the burden of noise accumulation via distance correlation learning, and then conducts a data-adaptive association test under the flexible generalized linear model framework. Extensive simulation studies and real data applications demonstrate that AMAT is highly robust and often more powerful than several existing methods, while preserving the correct type I error rate. A free implementation of AMAT in R computing environment is available at https://github.com/kzb193/AMAT.
+## Adaptive and powerful microbiome multivariate association analysis via feature selection
 
 [Source](https://doi.org/10.1093/nargab/lqab120)
 
-10.1093/nargab/lqab120
-
 ---
 
-## Metabolic modeling of host-microbe interactions for therapeutics in colorectal cancer.
- 20.01.2022, _P Bhalla, R Rengaswamy, D Karunagaran, GK Suraishkumar, S Sahoo_
-
-
-The onset of colorectal cancer (CRC) is often attributed to gut bacterial dysbiosis, and thus gut microbiota are highly relevant in devising treatment strategies. Certain gut microbes, like Enterococcus spp., exhibit remarkable anti-neoplastic and probiotic properties, which can aid in silver nanoparticle (AgNPs) induced reactive oxygen species (ROS)-based CRC treatment. However, the effects of AgNPs on gut microbial metabolism have not been reported thus far. In this study, a detailed systems-level understanding of ROS metabolism in Enterococcus durans (E. durans), a representative gut microbe, was gained using constraint-based modeling, wherein, the critical association between ROS and folate metabolism was established. Experimental studies involving low AgNP concentration treatment of E. durans cultures confirmed these modeling predictions (an increased extracellular folate concentration by 52%, at the 9th h of microbial growth, was observed). Besides, the computational studies established various metabolic pathways involving amino acids, energy metabolites, nucleotides, and SCFAs as the key players in elevating folate levels on ROS exposure. The anti-cancer potential of E. durans was also studied through MTT analysis of HCT 116 cells treated with microbial culture (AgNP treated) supernatant. A decrease in cell viability by 19% implicated the role of microbial metabolites (primarily folate) in causing cell death. The genome-scale modeling approach was then extended to extensively model CRC metabolism, as well as CRC-E. durans interactions in the context of CRC treatment, using tissue-specific metabolic models of CRC and healthy colon. These findings on further validation can facilitate the development of robust and effective cancer therapy.
+## Metabolic modeling of host-microbe interactions for therapeutics in colorectal cancer
 
 [Source](https://doi.org/10.1038/s41540-021-00210-9)
-
-10.1038/s41540-021-00210-9
 
 ---
 
