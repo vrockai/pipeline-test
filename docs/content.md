@@ -106,15 +106,9 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## The Role of Gut Microbiota-Brain Axis in Pathophysiology of ADHD: A Systematic Review.
- 20.01.2022, _S Shirvani-Rad, HS Ejtahed, F Ettehad Marvasti, M Taghavi, F Sharifi, SM Arzaghi, B Larijani_
-
-
-The main goal of this systematic review is to summarize evidences regarding alterations of microbial composition in ADHD cases and uncover underlying mechanisms.
+## The Role of Gut Microbiota-Brain Axis in Pathophysiology of ADHD: A Systematic Review
 
 [Source](https://doi.org/10.1177/10870547211073474)
-
-10.1177/10870547211073474
 
 ---
 
@@ -124,15 +118,9 @@ The main goal of this systematic review is to summarize evidences regarding alte
 
 ---
 
-## Peppermint oil effects on the gut microbiome in children with functional abdominal pain.
- 20.01.2022, _S Thapa, RA Luna, BP Chumpitazi, N Oezguen, SM Abdel-Rahman, U Garg, S Musaad, J Versalovic, GL Kearns, RJ Shulman_
-
-
-Peppermint oil (PMO) is effective in the treatment of functional abdominal pain disorders, but its mechanism of action is unclear. Evidence suggests PMO has microbicidal activity. We investigated the effect of three different doses of PMO on gut microbiome composition. Thirty children (7-12 years of age) with functional abdominal pain provided a baseline stool sample prior to randomization to 180, 360, or 540 mg of enteric coated PMO (10 participants per dose). They took their respective dose of PMO (180 mg once, 180 mg twice, or 180 mg thrice daily) for 1 week, after which the stool collection was repeated. Baseline and post-PMO stools were analyzed for microbiome composition. There was no difference in alpha diversity of the gut microbiome between the baseline and post-PMO treatment. Principal coordinate analysis revealed no significant difference in overall bacterial composition between baseline and post-PMO samples, as well as between the PMO dose groups. However, the very low abundant Collinsella genus and three operational taxonomic units (one belonging to Collinsella) were significantly different in samples before and after PMO treatment. The Firmicutes/Bacteroidetes ratio was lower in children who received 540 mg of PMO compared to the 180 mg and 360 mg dose groups (p = 0.04). Network analysis revealed separation between pre- and post-PMO fecal samples with the genus Collinsella driving the post-PMO clusters. PMO administration appeared to impact only low abundance bacteria. The 540 mg PMO dose differentially impacted the Firmicutes/Bacteroidetes ratio. A higher dose and/or longer duration of treatment might yield different results.
+## Peppermint oil effects on the gut microbiome in children with functional abdominal pain
 
 [Source](https://doi.org/10.1111/cts.13224)
-
-10.1111/cts.13224
 
 ---
 
