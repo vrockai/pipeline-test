@@ -136,15 +136,9 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Causal relationship between gut microbiota and serum vitamin D: evidence from genetic correlation and Mendelian randomization study.
- 20.01.2022, _X Yang, Q Zhu, L Zhang, Y Pei, X Xu, X Liu, G Lu, J Pan, Y Wang_
-
-
-The gastrointestinal microbiota is emerging as an important mediator in intestinal metabolism, such as vitamin D absorption.
+## Causal relationship between gut microbiota and serum vitamin D: evidence from genetic correlation and Mendelian randomization study
 
 [Source](https://doi.org/10.1038/s41430-021-01065-3)
-
-10.1038/s41430-021-01065-3
 
 ---
 
