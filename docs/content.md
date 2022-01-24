@@ -106,15 +106,9 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## The Role of Gut Microbiota-Brain Axis in Pathophysiology of ADHD: A Systematic Review.
- 20.01.2022, _S Shirvani-Rad, HS Ejtahed, F Ettehad Marvasti, M Taghavi, F Sharifi, SM Arzaghi, B Larijani_
-
-
-The main goal of this systematic review is to summarize evidences regarding alterations of microbial composition in ADHD cases and uncover underlying mechanisms.
+## The Role of Gut Microbiota-Brain Axis in Pathophysiology of ADHD: A Systematic Review
 
 [Source](https://doi.org/10.1177/10870547211073474)
-
-10.1177/10870547211073474
 
 ---
 
@@ -148,39 +142,21 @@ Peppermint oil (PMO) is effective in the treatment of functional abdominal pain 
 
 ---
 
-## Causal relationship between gut microbiota and serum vitamin D: evidence from genetic correlation and Mendelian randomization study.
- 20.01.2022, _X Yang, Q Zhu, L Zhang, Y Pei, X Xu, X Liu, G Lu, J Pan, Y Wang_
-
-
-The gastrointestinal microbiota is emerging as an important mediator in intestinal metabolism, such as vitamin D absorption.
+## Causal relationship between gut microbiota and serum vitamin D: evidence from genetic correlation and Mendelian randomization study
 
 [Source](https://doi.org/10.1038/s41430-021-01065-3)
 
-10.1038/s41430-021-01065-3
-
 ---
 
-## Modulation of Gut Microbiota and Immune System by Probiotics, Pre-biotics, and Post-biotics.
- 21.01.2022, _Y Liu, J Wang, C Wu_
-
-
-The human gastrointestinal tract harbours a complex microbial community, which interacts with the mucosal immune system closely. Gut microbiota plays a significant role in maintaining host health, which could supply various nutrients, regulate energy balance, modulate the immune response, and defence against pathogens. Therefore, maintaining a favourable equilibrium of gut microbiota through modulating bacteria composition, diversity, and their activity is beneficial to host health. Several studies have shown that probiotics and pre-biotics could directly and indirectly regulate microbiota and immune response. In addition, post-biotics, such as the bioactive metabolites, produced by gut microbiota, and/or cell-wall components released by probiotics, also have been shown to inhibit pathogen growth, maintain microbiota balance, and regulate an immune response. This review summarises the studies concerning the impact of probiotics, pre-biotics, and post-biotics on gut microbiota and immune systems and also describes the underlying mechanisms of beneficial effects of these substances. Finally, the future and challenges of probiotics, pre-biotics, and post-biotics are proposed.
+## Modulation of Gut Microbiota and Immune System by Probiotics, Pre-biotics, and Post-biotics
 
 [Source](https://doi.org/10.3389/fnut.2021.634897)
 
-10.3389/fnut.2021.634897
-
 ---
 
-## Outlook on next-generation probiotics from the human gut.
- 19.01.2022, _F De Filippis, A Esposito, D Ercolini_
-
-
-Probiotics currently available on the market generally belong to a narrow range of microbial species. However, recent studies about the importance of the gut microbial commensals on human health highlighted that the gut microbiome is an unexplored reservoir of potentially beneficial microbes. For this reason, academic and industrial research is focused on identifying and testing novel microbial strains of gut origin for the development of next-generation probiotics. Although several of these are promising for the prevention and treatment of many chronic diseases, studies on human subjects are still scarce and approval from regulatory agencies is, therefore, rare. In addition, some issues need to be overcome before implementing their wide application on the market, such as the best methods for cultivation and storage of these oxygen-sensitive taxa. This review summarizes the most recent evidence related to NGPs and provides an outlook to the main issues that still limit their wide employment.
+## Outlook on next-generation probiotics from the human gut
 
 [Source](https://doi.org/10.1007/s00018-021-04080-6)
-
-10.1007/s00018-021-04080-6
 
 ---
 
