@@ -1,5 +1,5 @@
 ## Metabolite-based dietary supplementation in human type 1 diabetes is associated with microbiota and immune modulation.
- 20.01.2022, _KJ Bell, S Saad, BJ Tillett, HM McGuire, S Bordbar, YA Yap, LT Nguyen, MR Wilkins, S Corley, S Brodie, S Duong, CJ Wright, S Twigg, BF de St Groth, LC Harrison, CR Mackay, EN Gurzov, EE Hamilton-Williams, E Mariño_
+ 23.01.2022, _KJ Bell, S Saad, BJ Tillett, HM McGuire, S Bordbar, YA Yap, LT Nguyen, MR Wilkins, S Corley, S Brodie, S Duong, CJ Wright, S Twigg, BF de St Groth, LC Harrison, CR Mackay, EN Gurzov, EE Hamilton-Williams, E Mariño_
 
 
 Short-chain fatty acids (SCFAs) produced by the gut microbiota have beneficial anti-inflammatory and gut homeostasis effects and prevent type 1 diabetes (T1D) in mice. Reduced SCFA production indicates a loss of beneficial bacteria, commonly associated with chronic autoimmune and inflammatory diseases, including T1D and type 2 diabetes. Here, we addressed whether a metabolite-based dietary supplement has an impact on humans with T1D. We conducted a single-arm pilot-and-feasibility trial with high-amylose maize-resistant starch modified with acetate and butyrate (HAMSAB) to assess safety, while monitoring changes in the gut microbiota in alignment with modulation of the immune system status.
@@ -17,7 +17,7 @@ Short-chain fatty acids (SCFAs) produced by the gut microbiota have beneficial a
 ---
 
 ## The vaginal Torquetenovirus titer varies with vaginal microbiota composition in pregnant women.
- 20.01.2022, _TR Tozetto-Mendoza, MC Mendes-Correa, AF Moron, LJ Forney, IM Linhares, A Ribeiro da Silva, L Honorato, SS Witkin_
+ 23.01.2022, _TR Tozetto-Mendoza, MC Mendes-Correa, AF Moron, LJ Forney, IM Linhares, A Ribeiro da Silva, L Honorato, SS Witkin_
 
 
 Torquetenovirus (TTV) is a nonpathogenic endogenous virus whose abundance varies with the extent of immune system activation. We determined if the TTV titer in the vagina of pregnant women was associated with vaginal microbiota composition and levels of compounds in vaginal secretions. Vaginal TTV and microbiota composition in 494 second trimester pregnant women were identified by gene amplification and analysis. Vaginal matrix metalloproteinases (MMPs), tissue inhibitors of MMP (TIMP) and lactic acid isomers were measured by ELISA. Dominance was defined as the relative abundance of a specific bacterium or species at &gt;50% of the total number of bacteria identified. Clinical data were obtained by chart review. The median log10 TTV titer was lowest when Lactobacillus species other than L. iners were dominant (&lt;1.0) as compared to when L. iners (4.1, p = 0.0001), bacteria other than lactobacilli (4.5, p = 0.0016) or no bacterium (4.7, p = 0.0009) dominated. The TTV titer was inversely proportional to L. crispatus abundance (p&lt;0.0001) and directly proportional to levels of G. vaginalis (p = 0.0008) and L. iners (p = 0.0010). The TTV titer was proportional to TIMP-1, TIMP-2, MMP-8 and MMP-9 abundance (p≤0.0002) and inversely proportional to the level of D-lactic acid (p = 0.0024). We conclude that the association between variations in the TTV titer and the relative abundance of specific bacterial species and vaginal compounds indicates that local changes in immune status likely influence vaginal fluid composition.
@@ -41,7 +41,7 @@ To determine acid-formation potential of saliva and evaluate whether this method
 ---
 
 ## Gut microbiome alterations and gut barrier dysfunction are associated with host immune homeostasis in COVID-19 patients.
- 21.01.2022, _Z Sun, ZG Song, C Liu, S Tan, S Lin, J Zhu, FH Dai, J Gao, JL She, Z Mei, T Lou, JJ Zheng, Y Liu, J He, Y Zheng, C Ding, F Qian, Y Zheng, YM Chen_
+ 23.01.2022, _Z Sun, ZG Song, C Liu, S Tan, S Lin, J Zhu, FH Dai, J Gao, JL She, Z Mei, T Lou, JJ Zheng, Y Liu, J He, Y Zheng, C Ding, F Qian, Y Zheng, YM Chen_
 
 
 COVID-19 is an infectious disease characterized by multiple respiratory and extrapulmonary manifestations, including gastrointestinal symptoms. Although recent studies have linked gut microbiota to infectious diseases such as influenza, little is known about the role of the gut microbiota in COVID-19 pathophysiology.
@@ -118,15 +118,9 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Peppermint oil effects on the gut microbiome in children with functional abdominal pain.
- 20.01.2022, _S Thapa, RA Luna, BP Chumpitazi, N Oezguen, SM Abdel-Rahman, U Garg, S Musaad, J Versalovic, GL Kearns, RJ Shulman_
-
-
-Peppermint oil (PMO) is effective in the treatment of functional abdominal pain disorders, but its mechanism of action is unclear. Evidence suggests PMO has microbicidal activity. We investigated the effect of three different doses of PMO on gut microbiome composition. Thirty children (7-12 years of age) with functional abdominal pain provided a baseline stool sample prior to randomization to 180, 360, or 540 mg of enteric coated PMO (10 participants per dose). They took their respective dose of PMO (180 mg once, 180 mg twice, or 180 mg thrice daily) for 1 week, after which the stool collection was repeated. Baseline and post-PMO stools were analyzed for microbiome composition. There was no difference in alpha diversity of the gut microbiome between the baseline and post-PMO treatment. Principal coordinate analysis revealed no significant difference in overall bacterial composition between baseline and post-PMO samples, as well as between the PMO dose groups. However, the very low abundant Collinsella genus and three operational taxonomic units (one belonging to Collinsella) were significantly different in samples before and after PMO treatment. The Firmicutes/Bacteroidetes ratio was lower in children who received 540 mg of PMO compared to the 180 mg and 360 mg dose groups (p = 0.04). Network analysis revealed separation between pre- and post-PMO fecal samples with the genus Collinsella driving the post-PMO clusters. PMO administration appeared to impact only low abundance bacteria. The 540 mg PMO dose differentially impacted the Firmicutes/Bacteroidetes ratio. A higher dose and/or longer duration of treatment might yield different results.
+## Peppermint oil effects on the gut microbiome in children with functional abdominal pain
 
 [Source](https://doi.org/10.1111/cts.13224)
-
-10.1111/cts.13224
 
 ---
 
@@ -160,27 +154,15 @@ Peppermint oil (PMO) is effective in the treatment of functional abdominal pain 
 
 ---
 
-## Seasonal shift of the gut microbiome synchronizes host peripheral circadian rhythm for physiological adaptation to a low-fat diet in the giant panda.
- 19.01.2022, _G Huang, L Wang, J Li, R Hou, M Wang, Z Wang, Q Qu, W Zhou, Y Nie, Y Hu, Y Ma, L Yan, H Wei, F Wei_
-
-
-Characteristics of the gut microbiome vary synchronously with changes in host diet. However, the underlying effects of these fluctuations remain unclear. Here, we performed fecal microbiota transplantation (FMT) of diet-specific feces from an endangered mammal (the giant panda) into a germ-free mouse model. We demonstrated that the butyrate-producing bacterium Clostridium butyricum was more abundant during shoot-eating season than during the leaf-eating season, congruent with the significant increase in host body mass. Following season-specific FMT, the microbiota of the mouse model resembled that of the donor, and mice transplanted with the microbiota from the shoot-eating season grew faster and stored more fat. Mechanistic investigations revealed that butyrate extended the upregulation of hepatic circadian gene Per2, subsequently increasing phospholipid biosynthesis. Validation experiments further confirmed this causal relationship. This study demonstrated that seasonal shifts in the gut microbiome affect growth performance, facilitating a deeper understanding of host-microbe interactions in wild mammals.
+## Seasonal shift of the gut microbiome synchronizes host peripheral circadian rhythm for physiological adaptation to a low-fat diet in the giant panda
 
 [Source](https://doi.org/10.1016/j.celrep.2021.110203)
 
-10.1016/j.celrep.2021.110203
-
 ---
 
-## Seasonal variations in the composition and functional profiles of gut microbiota reflect dietary changes in plateau pikas.
- 20.01.2022, _C Fan, L Zhang, S Jia, X Tang, H Fu, W Li, C Liu, H Zhang, Q Cheng, Y Zhang_
-
-
-Seasonal variations in gut microbiota of small mammals and how it is influenced by environmental variables is relatively poorly understood. We sampled 162 wild plateau pikas (Ochotona curzoniae) in four seasons over two and a half years and recorded the air temperature, precipitation, and nutrient content in edible vegetation at the sampling site. After conducting 16S rRNA and shotgun metagenomic sequencing, we found that the highest alpha diversity, the relative abundance of Firmicutes, and the simplest co-occurrence network occurred in winter, whereas that the highest relative abundance of Proteobacteria and the most complex network structure was observed in spring. The highest relative abundance of Verrucomicrobiota and Spirochaetota were seen in summer and autumn, respectively. Air temperature, precipitation, and the contents of crude protein, crude fiber, and polysaccharide in vegetation had significant effects on the seasonal changes in gut microbiota. Diet contributed more to microbial variation than climatic factors. Metagenomic analysis revealed that the amino acid metabolism pathway and axillary activity enzymes were most abundant in summer, while abundance of carbohydrate-binding modules and carbohydrate esterases were highest in spring. These microbial variations were related to the changes in dietary nutrition, indicating that gut microbiota of plateau pika contribute to the efficient use of food resources. This study provides new evidence of how external environmental factors affect the intestinal environment of small mammals. This article is protected by copyright. All rights reserved.
+## Seasonal variations in the composition and functional profiles of gut microbiota reflect dietary changes in plateau pikas
 
 [Source](https://doi.org/10.1111/1749-4877.12630)
-
-10.1111/1749-4877.12630
 
 ---
 
@@ -190,15 +172,9 @@ Seasonal variations in gut microbiota of small mammals and how it is influenced 
 
 ---
 
-## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt.
- 20.01.2022, _AM Serag, MS Abdel-Sabour, M El-Hadidi, M Maged, M Magdy, MF Ramadan, MH Refaat_
-
-
-Nile tilapia, Oreochromis niloticus, is the principal fish bred in Egypt. A pilot study was designed to analyze the bacterial composition of the Nile tilapia fish guts from two saltwater lakes in Northern Egypt. Fish samples were obtained from two Delta lakes: Manzala (ML) and Borollus (BL). DNA was extracted, and the bacterial communities in the stomach content were classified (down to the species level) using the 16S rRNA-based analysis. From the two metagenomics libraries in this study, 1,426,740 reads of the amplicon sequence corresponding to 508 total taxonomic operational units were recorded. The most prevalent bacterial phyla were Proteobacteria, Firmicutes, Actinobacteria, and Synergistetes in all samples. Some of the strains identified belong to classes of pathogenic zoonotic bacteria. A notable difference was observed between gut bacteria of Nile tilapia fish obtained from BL and ML. There is a remarkable indication that Nile tilapia fish living in BL is heavily burdened with pathogenic microbes most remarkably those involved with methylation of mercury and its accumulation in fish organs. These pathogenic microbes could have clinical implications and correlated with many diseases. This result was also consistent with the metagenomic data's functional prediction that indicated that Nile tilapia species harboring these two Egyptian northern lakes may be exposed to numerous anthropogenic pollutants. The findings show that the host environment has a significant impact on the composition of its microbiota. The first step towards exploring the better management of this profit-making fish is recognizing the structure of the microbiome.
+## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt
 
 [Source](https://doi.org/10.1007/s12010-021-03750-2)
-
-10.1007/s12010-021-03750-2
 
 ---
 
@@ -245,7 +221,7 @@ Lately, an increasing number of studies have investigated the relationship betwe
 ---
 
 ## Modulating the rhizosphere microbiome by altering the cocktail of root secretions.
- 20.01.2022, _W Zhang, GA Mason_
+ 23.01.2022, _W Zhang, GA Mason_
 
 
 
