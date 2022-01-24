@@ -154,15 +154,27 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Seasonal shift of the gut microbiome synchronizes host peripheral circadian rhythm for physiological adaptation to a low-fat diet in the giant panda
+## Seasonal shift of the gut microbiome synchronizes host peripheral circadian rhythm for physiological adaptation to a low-fat diet in the giant panda.
+ 19.01.2022, _G Huang, L Wang, J Li, R Hou, M Wang, Z Wang, Q Qu, W Zhou, Y Nie, Y Hu, Y Ma, L Yan, H Wei, F Wei_
+
+
+Characteristics of the gut microbiome vary synchronously with changes in host diet. However, the underlying effects of these fluctuations remain unclear. Here, we performed fecal microbiota transplantation (FMT) of diet-specific feces from an endangered mammal (the giant panda) into a germ-free mouse model. We demonstrated that the butyrate-producing bacterium Clostridium butyricum was more abundant during shoot-eating season than during the leaf-eating season, congruent with the significant increase in host body mass. Following season-specific FMT, the microbiota of the mouse model resembled that of the donor, and mice transplanted with the microbiota from the shoot-eating season grew faster and stored more fat. Mechanistic investigations revealed that butyrate extended the upregulation of hepatic circadian gene Per2, subsequently increasing phospholipid biosynthesis. Validation experiments further confirmed this causal relationship. This study demonstrated that seasonal shifts in the gut microbiome affect growth performance, facilitating a deeper understanding of host-microbe interactions in wild mammals.
 
 [Source](https://doi.org/10.1016/j.celrep.2021.110203)
 
+10.1016/j.celrep.2021.110203
+
 ---
 
-## Seasonal variations in the composition and functional profiles of gut microbiota reflect dietary changes in plateau pikas
+## Seasonal variations in the composition and functional profiles of gut microbiota reflect dietary changes in plateau pikas.
+ 20.01.2022, _C Fan, L Zhang, S Jia, X Tang, H Fu, W Li, C Liu, H Zhang, Q Cheng, Y Zhang_
+
+
+Seasonal variations in gut microbiota of small mammals and how it is influenced by environmental variables is relatively poorly understood. We sampled 162 wild plateau pikas (Ochotona curzoniae) in four seasons over two and a half years and recorded the air temperature, precipitation, and nutrient content in edible vegetation at the sampling site. After conducting 16S rRNA and shotgun metagenomic sequencing, we found that the highest alpha diversity, the relative abundance of Firmicutes, and the simplest co-occurrence network occurred in winter, whereas that the highest relative abundance of Proteobacteria and the most complex network structure was observed in spring. The highest relative abundance of Verrucomicrobiota and Spirochaetota were seen in summer and autumn, respectively. Air temperature, precipitation, and the contents of crude protein, crude fiber, and polysaccharide in vegetation had significant effects on the seasonal changes in gut microbiota. Diet contributed more to microbial variation than climatic factors. Metagenomic analysis revealed that the amino acid metabolism pathway and axillary activity enzymes were most abundant in summer, while abundance of carbohydrate-binding modules and carbohydrate esterases were highest in spring. These microbial variations were related to the changes in dietary nutrition, indicating that gut microbiota of plateau pika contribute to the efficient use of food resources. This study provides new evidence of how external environmental factors affect the intestinal environment of small mammals. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/1749-4877.12630)
+
+10.1111/1749-4877.12630
 
 ---
 
@@ -172,9 +184,15 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt
+## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt.
+ 20.01.2022, _AM Serag, MS Abdel-Sabour, M El-Hadidi, M Maged, M Magdy, MF Ramadan, MH Refaat_
+
+
+Nile tilapia, Oreochromis niloticus, is the principal fish bred in Egypt. A pilot study was designed to analyze the bacterial composition of the Nile tilapia fish guts from two saltwater lakes in Northern Egypt. Fish samples were obtained from two Delta lakes: Manzala (ML) and Borollus (BL). DNA was extracted, and the bacterial communities in the stomach content were classified (down to the species level) using the 16S rRNA-based analysis. From the two metagenomics libraries in this study, 1,426,740 reads of the amplicon sequence corresponding to 508 total taxonomic operational units were recorded. The most prevalent bacterial phyla were Proteobacteria, Firmicutes, Actinobacteria, and Synergistetes in all samples. Some of the strains identified belong to classes of pathogenic zoonotic bacteria. A notable difference was observed between gut bacteria of Nile tilapia fish obtained from BL and ML. There is a remarkable indication that Nile tilapia fish living in BL is heavily burdened with pathogenic microbes most remarkably those involved with methylation of mercury and its accumulation in fish organs. These pathogenic microbes could have clinical implications and correlated with many diseases. This result was also consistent with the metagenomic data's functional prediction that indicated that Nile tilapia species harboring these two Egyptian northern lakes may be exposed to numerous anthropogenic pollutants. The findings show that the host environment has a significant impact on the composition of its microbiota. The first step towards exploring the better management of this profit-making fish is recognizing the structure of the microbiome.
 
 [Source](https://doi.org/10.1007/s12010-021-03750-2)
+
+10.1007/s12010-021-03750-2
 
 ---
 
