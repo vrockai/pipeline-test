@@ -174,27 +174,15 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt.
- 20.01.2022, _AM Serag, MS Abdel-Sabour, M El-Hadidi, M Maged, M Magdy, MF Ramadan, MH Refaat_
-
-
-Nile tilapia, Oreochromis niloticus, is the principal fish bred in Egypt. A pilot study was designed to analyze the bacterial composition of the Nile tilapia fish guts from two saltwater lakes in Northern Egypt. Fish samples were obtained from two Delta lakes: Manzala (ML) and Borollus (BL). DNA was extracted, and the bacterial communities in the stomach content were classified (down to the species level) using the 16S rRNA-based analysis. From the two metagenomics libraries in this study, 1,426,740 reads of the amplicon sequence corresponding to 508 total taxonomic operational units were recorded. The most prevalent bacterial phyla were Proteobacteria, Firmicutes, Actinobacteria, and Synergistetes in all samples. Some of the strains identified belong to classes of pathogenic zoonotic bacteria. A notable difference was observed between gut bacteria of Nile tilapia fish obtained from BL and ML. There is a remarkable indication that Nile tilapia fish living in BL is heavily burdened with pathogenic microbes most remarkably those involved with methylation of mercury and its accumulation in fish organs. These pathogenic microbes could have clinical implications and correlated with many diseases. This result was also consistent with the metagenomic data's functional prediction that indicated that Nile tilapia species harboring these two Egyptian northern lakes may be exposed to numerous anthropogenic pollutants. The findings show that the host environment has a significant impact on the composition of its microbiota. The first step towards exploring the better management of this profit-making fish is recognizing the structure of the microbiome.
+## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt
 
 [Source](https://doi.org/10.1007/s12010-021-03750-2)
 
-10.1007/s12010-021-03750-2
-
 ---
 
-## Diversity and Distribution of Microbial Communities Associated with Reef Corals of the Malay Peninsula.
- 19.01.2022, _DP Kanisan, ZBR Quek, RM Oh, L Afiq-Rosli, JN Lee, D Huang, BJ Wainwright_
-
-
-Coral-associated bacteria play critical roles in the regulation of coral health and function. Environmental perturbations that alter the bacterial community structure can render the coral holobiont more susceptible and less resilient to disease. Understanding the natural variation of the coral microbiome across space and host species provides a baseline that can be used to distinguish shifts in community structure. Using a 16S rRNA gene metabarcoding approach, this study examines bacterial community structure across three scleractinian coral hosts. Our results show that corals of three regions-eastern and western Peninsular Malaysia and Singapore-host distinct bacterial communities; despite these differences, we were able to identify a core microbiome shared across all three species. This core microbiome was also present in samples previously collected in Thailand, suggesting that these core microbes play an important role in promoting and maintaining host health. For example, several have been identified as dimethylsulfoniopropionate (DMSP) metabolizers that have roles in sulfur cycling and the suppression of bacterial pathogens. Pachyseris speciosa has the most variable microbiome, followed by Porites lutea, with the composition of the Diploastrea heliopora microbiome the least variable throughout all locations. Microbial taxa associated with each region or site are likely shaped by local environmental conditions. Taken together, host identity is a major driver of differences in microbial community structure, while environmental heterogeneity shapes communities at finer scales.
+## Diversity and Distribution of Microbial Communities Associated with Reef Corals of the Malay Peninsula
 
 [Source](https://doi.org/10.1007/s00248-022-01958-1)
-
-10.1007/s00248-022-01958-1
 
 ---
 
@@ -204,15 +192,9 @@ Coral-associated bacteria play critical roles in the regulation of coral health 
 
 ---
 
-## Increased microbial diversity and decreased prevalence of common pathogens in the gut microbiomes of wild turkeys compared to domestic turkeys.
- 19.01.2022, _J Craft, H Eddington, N Christman, W Pryor, JM Chaston, D Erickson, E Wilson_
-
-
-Turkeys (Meleagris gallopavo) provide a globally important source of protein and constitute the second most important source of poultry meat in the world. Bacterial diseases are common in commercial poultry production causing significant production losses for farmers. Due to the increasingly recognized problems associated with large-scale/indiscriminant antibiotic use in agricultural settings, poultry producers need alternative methods to control common bacterial pathogens. In this study we compared the cecal microbiota of wild and domestic turkeys, hypothesizing that environmental pressures faced by wild birds may select for a disease-resistant microbial community. Sequence analysis of 16S rRNA genes amplified from cecal samples indicate that free-roaming wild turkeys carry a rich and variable microbiota compared to domestic turkeys raised on large-scale poultry farms. Wild turkeys also had very low levels of Staphylococcus, Salmonella and E. coli when compared to domestic turkeys. E. coli strains isolated from wild or domestic turkey cecal samples also belong to distinct phylogenetic backgrounds and differ in their propensity to carry virulence genes. E. coli strains isolated from factory-raised turkeys were far more likely to carry genes for capsule (kpsII, kpsIII) or siderophore (iroN, fyuA) synthesis than those isolated from wild turkeys. These results suggest that the microbiota of wild turkeys may provide colonization resistance against common poultry pathogens. Importance Due to the increasingly recognized problems associated with antibiotic use in agricultural settings, poultry producers need alternative methods to control common bacterial pathogens. In this study we compare the microbiota of wild and domestic turkeys. Results suggest that free ranging wild turkeys carry a distinct microbiome when compared to farm raised turkeys. The microbiome of wild birds contains very low levels of poultry pathogens compared to farm raised birds. The microbiomes of wild turkeys may be used to guide development of new ways to control disease in large scale poultry production.
+## Increased microbial diversity and decreased prevalence of common pathogens in the gut microbiomes of wild turkeys compared to domestic turkeys
 
 [Source](https://doi.org/10.1128/AEM.01423-21)
-
-10.1128/AEM.01423-21
 
 ---
 
