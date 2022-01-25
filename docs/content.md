@@ -106,9 +106,15 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## The Role of Gut Microbiota-Brain Axis in Pathophysiology of ADHD: A Systematic Review
+## The Role of Gut Microbiota-Brain Axis in Pathophysiology of ADHD: A Systematic Review.
+ 20.01.2022, _S Shirvani-Rad, HS Ejtahed, F Ettehad Marvasti, M Taghavi, F Sharifi, SM Arzaghi, B Larijani_
+
+
+The main goal of this systematic review is to summarize evidences regarding alterations of microbial composition in ADHD cases and uncover underlying mechanisms.
 
 [Source](https://doi.org/10.1177/10870547211073474)
+
+10.1177/10870547211073474
 
 ---
 
@@ -118,9 +124,15 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Peppermint oil effects on the gut microbiome in children with functional abdominal pain
+## Peppermint oil effects on the gut microbiome in children with functional abdominal pain.
+ 20.01.2022, _S Thapa, RA Luna, BP Chumpitazi, N Oezguen, SM Abdel-Rahman, U Garg, S Musaad, J Versalovic, GL Kearns, RJ Shulman_
+
+
+Peppermint oil (PMO) is effective in the treatment of functional abdominal pain disorders, but its mechanism of action is unclear. Evidence suggests PMO has microbicidal activity. We investigated the effect of three different doses of PMO on gut microbiome composition. Thirty children (7-12 years of age) with functional abdominal pain provided a baseline stool sample prior to randomization to 180, 360, or 540 mg of enteric coated PMO (10 participants per dose). They took their respective dose of PMO (180 mg once, 180 mg twice, or 180 mg thrice daily) for 1 week, after which the stool collection was repeated. Baseline and post-PMO stools were analyzed for microbiome composition. There was no difference in alpha diversity of the gut microbiome between the baseline and post-PMO treatment. Principal coordinate analysis revealed no significant difference in overall bacterial composition between baseline and post-PMO samples, as well as between the PMO dose groups. However, the very low abundant Collinsella genus and three operational taxonomic units (one belonging to Collinsella) were significantly different in samples before and after PMO treatment. The Firmicutes/Bacteroidetes ratio was lower in children who received 540 mg of PMO compared to the 180 mg and 360 mg dose groups (p = 0.04). Network analysis revealed separation between pre- and post-PMO fecal samples with the genus Collinsella driving the post-PMO clusters. PMO administration appeared to impact only low abundance bacteria. The 540 mg PMO dose differentially impacted the Firmicutes/Bacteroidetes ratio. A higher dose and/or longer duration of treatment might yield different results.
 
 [Source](https://doi.org/10.1111/cts.13224)
+
+10.1111/cts.13224
 
 ---
 
@@ -136,33 +148,63 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Causal relationship between gut microbiota and serum vitamin D: evidence from genetic correlation and Mendelian randomization study
+## Causal relationship between gut microbiota and serum vitamin D: evidence from genetic correlation and Mendelian randomization study.
+ 20.01.2022, _X Yang, Q Zhu, L Zhang, Y Pei, X Xu, X Liu, G Lu, J Pan, Y Wang_
+
+
+The gastrointestinal microbiota is emerging as an important mediator in intestinal metabolism, such as vitamin D absorption.
 
 [Source](https://doi.org/10.1038/s41430-021-01065-3)
 
+10.1038/s41430-021-01065-3
+
 ---
 
-## Modulation of Gut Microbiota and Immune System by Probiotics, Pre-biotics, and Post-biotics
+## Modulation of Gut Microbiota and Immune System by Probiotics, Pre-biotics, and Post-biotics.
+ 21.01.2022, _Y Liu, J Wang, C Wu_
+
+
+The human gastrointestinal tract harbours a complex microbial community, which interacts with the mucosal immune system closely. Gut microbiota plays a significant role in maintaining host health, which could supply various nutrients, regulate energy balance, modulate the immune response, and defence against pathogens. Therefore, maintaining a favourable equilibrium of gut microbiota through modulating bacteria composition, diversity, and their activity is beneficial to host health. Several studies have shown that probiotics and pre-biotics could directly and indirectly regulate microbiota and immune response. In addition, post-biotics, such as the bioactive metabolites, produced by gut microbiota, and/or cell-wall components released by probiotics, also have been shown to inhibit pathogen growth, maintain microbiota balance, and regulate an immune response. This review summarises the studies concerning the impact of probiotics, pre-biotics, and post-biotics on gut microbiota and immune systems and also describes the underlying mechanisms of beneficial effects of these substances. Finally, the future and challenges of probiotics, pre-biotics, and post-biotics are proposed.
 
 [Source](https://doi.org/10.3389/fnut.2021.634897)
 
+10.3389/fnut.2021.634897
+
 ---
 
-## Outlook on next-generation probiotics from the human gut
+## Outlook on next-generation probiotics from the human gut.
+ 19.01.2022, _F De Filippis, A Esposito, D Ercolini_
+
+
+Probiotics currently available on the market generally belong to a narrow range of microbial species. However, recent studies about the importance of the gut microbial commensals on human health highlighted that the gut microbiome is an unexplored reservoir of potentially beneficial microbes. For this reason, academic and industrial research is focused on identifying and testing novel microbial strains of gut origin for the development of next-generation probiotics. Although several of these are promising for the prevention and treatment of many chronic diseases, studies on human subjects are still scarce and approval from regulatory agencies is, therefore, rare. In addition, some issues need to be overcome before implementing their wide application on the market, such as the best methods for cultivation and storage of these oxygen-sensitive taxa. This review summarizes the most recent evidence related to NGPs and provides an outlook to the main issues that still limit their wide employment.
 
 [Source](https://doi.org/10.1007/s00018-021-04080-6)
 
+10.1007/s00018-021-04080-6
+
 ---
 
-## Seasonal shift of the gut microbiome synchronizes host peripheral circadian rhythm for physiological adaptation to a low-fat diet in the giant panda
+## Seasonal shift of the gut microbiome synchronizes host peripheral circadian rhythm for physiological adaptation to a low-fat diet in the giant panda.
+ 19.01.2022, _G Huang, L Wang, J Li, R Hou, M Wang, Z Wang, Q Qu, W Zhou, Y Nie, Y Hu, Y Ma, L Yan, H Wei, F Wei_
+
+
+Characteristics of the gut microbiome vary synchronously with changes in host diet. However, the underlying effects of these fluctuations remain unclear. Here, we performed fecal microbiota transplantation (FMT) of diet-specific feces from an endangered mammal (the giant panda) into a germ-free mouse model. We demonstrated that the butyrate-producing bacterium Clostridium butyricum was more abundant during shoot-eating season than during the leaf-eating season, congruent with the significant increase in host body mass. Following season-specific FMT, the microbiota of the mouse model resembled that of the donor, and mice transplanted with the microbiota from the shoot-eating season grew faster and stored more fat. Mechanistic investigations revealed that butyrate extended the upregulation of hepatic circadian gene Per2, subsequently increasing phospholipid biosynthesis. Validation experiments further confirmed this causal relationship. This study demonstrated that seasonal shifts in the gut microbiome affect growth performance, facilitating a deeper understanding of host-microbe interactions in wild mammals.
 
 [Source](https://doi.org/10.1016/j.celrep.2021.110203)
 
+10.1016/j.celrep.2021.110203
+
 ---
 
-## Seasonal variations in the composition and functional profiles of gut microbiota reflect dietary changes in plateau pikas
+## Seasonal variations in the composition and functional profiles of gut microbiota reflect dietary changes in plateau pikas.
+ 20.01.2022, _C Fan, L Zhang, S Jia, X Tang, H Fu, W Li, C Liu, H Zhang, Q Cheng, Y Zhang_
+
+
+Seasonal variations in gut microbiota of small mammals and how it is influenced by environmental variables is relatively poorly understood. We sampled 162 wild plateau pikas (Ochotona curzoniae) in four seasons over two and a half years and recorded the air temperature, precipitation, and nutrient content in edible vegetation at the sampling site. After conducting 16S rRNA and shotgun metagenomic sequencing, we found that the highest alpha diversity, the relative abundance of Firmicutes, and the simplest co-occurrence network occurred in winter, whereas that the highest relative abundance of Proteobacteria and the most complex network structure was observed in spring. The highest relative abundance of Verrucomicrobiota and Spirochaetota were seen in summer and autumn, respectively. Air temperature, precipitation, and the contents of crude protein, crude fiber, and polysaccharide in vegetation had significant effects on the seasonal changes in gut microbiota. Diet contributed more to microbial variation than climatic factors. Metagenomic analysis revealed that the amino acid metabolism pathway and axillary activity enzymes were most abundant in summer, while abundance of carbohydrate-binding modules and carbohydrate esterases were highest in spring. These microbial variations were related to the changes in dietary nutrition, indicating that gut microbiota of plateau pika contribute to the efficient use of food resources. This study provides new evidence of how external environmental factors affect the intestinal environment of small mammals. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/1749-4877.12630)
+
+10.1111/1749-4877.12630
 
 ---
 
@@ -172,15 +214,27 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt
+## Comparative 16S Metabarcoding of Nile Tilapia Gut Microbiota from the Northern Lakes of Egypt.
+ 20.01.2022, _AM Serag, MS Abdel-Sabour, M El-Hadidi, M Maged, M Magdy, MF Ramadan, MH Refaat_
+
+
+Nile tilapia, Oreochromis niloticus, is the principal fish bred in Egypt. A pilot study was designed to analyze the bacterial composition of the Nile tilapia fish guts from two saltwater lakes in Northern Egypt. Fish samples were obtained from two Delta lakes: Manzala (ML) and Borollus (BL). DNA was extracted, and the bacterial communities in the stomach content were classified (down to the species level) using the 16S rRNA-based analysis. From the two metagenomics libraries in this study, 1,426,740 reads of the amplicon sequence corresponding to 508 total taxonomic operational units were recorded. The most prevalent bacterial phyla were Proteobacteria, Firmicutes, Actinobacteria, and Synergistetes in all samples. Some of the strains identified belong to classes of pathogenic zoonotic bacteria. A notable difference was observed between gut bacteria of Nile tilapia fish obtained from BL and ML. There is a remarkable indication that Nile tilapia fish living in BL is heavily burdened with pathogenic microbes most remarkably those involved with methylation of mercury and its accumulation in fish organs. These pathogenic microbes could have clinical implications and correlated with many diseases. This result was also consistent with the metagenomic data's functional prediction that indicated that Nile tilapia species harboring these two Egyptian northern lakes may be exposed to numerous anthropogenic pollutants. The findings show that the host environment has a significant impact on the composition of its microbiota. The first step towards exploring the better management of this profit-making fish is recognizing the structure of the microbiome.
 
 [Source](https://doi.org/10.1007/s12010-021-03750-2)
 
+10.1007/s12010-021-03750-2
+
 ---
 
-## Diversity and Distribution of Microbial Communities Associated with Reef Corals of the Malay Peninsula
+## Diversity and Distribution of Microbial Communities Associated with Reef Corals of the Malay Peninsula.
+ 19.01.2022, _DP Kanisan, ZBR Quek, RM Oh, L Afiq-Rosli, JN Lee, D Huang, BJ Wainwright_
+
+
+Coral-associated bacteria play critical roles in the regulation of coral health and function. Environmental perturbations that alter the bacterial community structure can render the coral holobiont more susceptible and less resilient to disease. Understanding the natural variation of the coral microbiome across space and host species provides a baseline that can be used to distinguish shifts in community structure. Using a 16S rRNA gene metabarcoding approach, this study examines bacterial community structure across three scleractinian coral hosts. Our results show that corals of three regions-eastern and western Peninsular Malaysia and Singapore-host distinct bacterial communities; despite these differences, we were able to identify a core microbiome shared across all three species. This core microbiome was also present in samples previously collected in Thailand, suggesting that these core microbes play an important role in promoting and maintaining host health. For example, several have been identified as dimethylsulfoniopropionate (DMSP) metabolizers that have roles in sulfur cycling and the suppression of bacterial pathogens. Pachyseris speciosa has the most variable microbiome, followed by Porites lutea, with the composition of the Diploastrea heliopora microbiome the least variable throughout all locations. Microbial taxa associated with each region or site are likely shaped by local environmental conditions. Taken together, host identity is a major driver of differences in microbial community structure, while environmental heterogeneity shapes communities at finer scales.
 
 [Source](https://doi.org/10.1007/s00248-022-01958-1)
+
+10.1007/s00248-022-01958-1
 
 ---
 
@@ -190,21 +244,38 @@ The 2nd International Conference on Oral Mucosal Immunity and the Microbiome (OM
 
 ---
 
-## Increased microbial diversity and decreased prevalence of common pathogens in the gut microbiomes of wild turkeys compared to domestic turkeys
+## Increased microbial diversity and decreased prevalence of common pathogens in the gut microbiomes of wild turkeys compared to domestic turkeys.
+ 19.01.2022, _J Craft, H Eddington, N Christman, W Pryor, JM Chaston, D Erickson, E Wilson_
+
+
+Turkeys (Meleagris gallopavo) provide a globally important source of protein and constitute the second most important source of poultry meat in the world. Bacterial diseases are common in commercial poultry production causing significant production losses for farmers. Due to the increasingly recognized problems associated with large-scale/indiscriminant antibiotic use in agricultural settings, poultry producers need alternative methods to control common bacterial pathogens. In this study we compared the cecal microbiota of wild and domestic turkeys, hypothesizing that environmental pressures faced by wild birds may select for a disease-resistant microbial community. Sequence analysis of 16S rRNA genes amplified from cecal samples indicate that free-roaming wild turkeys carry a rich and variable microbiota compared to domestic turkeys raised on large-scale poultry farms. Wild turkeys also had very low levels of Staphylococcus, Salmonella and E. coli when compared to domestic turkeys. E. coli strains isolated from wild or domestic turkey cecal samples also belong to distinct phylogenetic backgrounds and differ in their propensity to carry virulence genes. E. coli strains isolated from factory-raised turkeys were far more likely to carry genes for capsule (kpsII, kpsIII) or siderophore (iroN, fyuA) synthesis than those isolated from wild turkeys. These results suggest that the microbiota of wild turkeys may provide colonization resistance against common poultry pathogens. Importance Due to the increasingly recognized problems associated with antibiotic use in agricultural settings, poultry producers need alternative methods to control common bacterial pathogens. In this study we compare the microbiota of wild and domestic turkeys. Results suggest that free ranging wild turkeys carry a distinct microbiome when compared to farm raised turkeys. The microbiome of wild birds contains very low levels of poultry pathogens compared to farm raised birds. The microbiomes of wild turkeys may be used to guide development of new ways to control disease in large scale poultry production.
 
 [Source](https://doi.org/10.1128/AEM.01423-21)
 
+10.1128/AEM.01423-21
+
 ---
 
-## Comparative Evaluation of the Effect of Metformin and Insulin on Gut Microbiota and Metabolome Profiles of Type 2 Diabetic Rats Induced by the Combination of Streptozotocin and High-Fat Diet
+## Comparative Evaluation of the Effect of Metformin and Insulin on Gut Microbiota and Metabolome Profiles of Type 2 Diabetic Rats Induced by the Combination of Streptozotocin and High-Fat Diet.
+ 21.01.2022, _N Hu, Q Zhang, H Wang, X Yang, Y Jiang, R Chen, L Wang_
+
+
+Lately, an increasing number of studies have investigated the relationship between metformin and gut microbiota, suggesting that metformin exerts part of its hypoglycemic effect through the microbes. However, its underlying mechanism remains largely undetermined. In the present study, we investigated the effects of metformin on gut microbiota and metabolome profiles in serum and compared it with insulin treatment in rats with type 2 diabetes mellitus (T2DM). Diabetic rats (DM group) were induced by a combination of streptozotocin and high-fat diet (HFD). After 7 days, DM rats were treated with metformin (MET group) or insulin (INS group) for 3 weeks. The 16S rRNA sequencing of the gut microbiota and non-targeted metabolomics analysis of serum were conducted. A total of 13 bile acids (BAs) in serum were further determined and compared among different groups. The rat model of T2DM was well established with the typical diabetic symptoms, showing significantly increased blood glucose, AUC of OGTT, HOMA-IR, TC, TG, LDL-C and TBA. Metformin or insulin treatment could ameliorate symptoms of diabetes and partly recover the abnormal biochemical indicators. Compared with DM rats, the relative abundances of 13 genera were significantly changed after metformin treatment, while only three genera were changed after insulin treatment. The metformin and insulin treatments also exhibited different serum metabolome profiles in T2DM rats. Moreover, 64 differential metabolites were identified between MET and DM groups, whereas 206 were identified between INS and DM groups. Insulin treatment showed greater influence on amino acids, glycerophospholipids/glycerolipids, and acylcarnitine compared with the metformin treatment, while metformin had an important impact on BAs. Furthermore, metformin could significantly decrease the serum levels of CA, GCA, UDCA, and GUDCA, but increase the level of TLCA in DM rats. Insulin treatment significantly decreased the levels of CA, UDCA, and CDCA. Besides, several metabolites in serum or microbiota were positively or negatively correlated with some bacteria. Collectively, our findings indicated that metformin had a stronger effect on gut microbiota than insulin, while insulin treatment showed greater influence on serum metabolites, which provided novel insights into the therapeutic effects of metformin on diabetes.
 
 [Source](https://doi.org/10.3389/fphar.2021.794103)
 
+10.3389/fphar.2021.794103
+
 ---
 
-## Modulating the rhizosphere microbiome by altering the cocktail of root secretions
+## Modulating the rhizosphere microbiome by altering the cocktail of root secretions.
+ 23.01.2022, _W Zhang, GA Mason_
+
+
 
 [Source](https://doi.org/10.1093/plphys/kiab480)
+
+10.1093/plphys/kiab480
 
 ---
 
