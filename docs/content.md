@@ -70,15 +70,9 @@
 
 ---
 
-## Kaempferol acts on bile acid signaling and gut microbiota to attenuate the tumor burden in ApcMin/+ mice.
- 22.01.2022, _X Li, I Khan, G Huang, Y Lu, L Wang, Y Liu, L Lu, WLW Hsiao, Z Liu_
-
-
-Emerging evidence points to a strong association between the bile acid (BA)-gut microbiota (GM) axis, and the risk of colorectal cancer (CRC). Kaempferol, a common polyphenol in the daily diet, shows various pharmacological activities. However, it remains unclear about the effect of kaempferol on the CRC development and the BA-GM homeostasis. Here, we found kaempferol effectively reduced tumor burden, restored the damaged intestinal barrier and downregulated antigen Ki67 and leucine-rich repeat-containing G-protein coupled receptor 5 (LGR5) expressions in ApcMin/+ mice. For BA metabolism, kaempferol reversed the decreasing trend in chenodesoxycholic acid (CDCA) and 12α-hydroxylated BAs by increasing the sterol 27-hydroxylase (CYP27A1) and sterol 12α-hydroxylase (CYP8B1) expressions, and upregulated FXR expression. Importantly, molecular docking analysis revealed a direct interaction between kaempferol and farnesoid X receptor (FXR), the mater regulator of BA signaling. For GM analysis, we found higher abundances of species with anticancer properties and lower abundances of species associated with inflammation, obesity, and metabolic disorders in kaempferol-treated groups. Moreover, the gut of kaempferol-treated mice was predominantly colonized by short-chain fatty acid (SCFA) and lactic acid producing bacteria. Based on the PICRUSt-predicted pathways of our GM dataset, we demonstrated that kaempferol downregulated secondary BA synthesis pathways, increased G protein-coupled receptor activity and decreased NOD-like receptor activity, affecting cell differentiation, proliferation, survival, and apoptosis. Collectively, these results reveal that kaempferol effectively attenuates the tumor burden in ApcMin/+ mice by modulating the BA signaling and GM homeostasis.
+## Kaempferol acts on bile acid signaling and gut microbiota to attenuate the tumor burden in ApcMin/+ mice
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0014299922000346)
-
-10.1016/j.ejphar.2022.174773
 
 ---
 
