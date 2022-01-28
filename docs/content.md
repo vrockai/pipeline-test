@@ -10,21 +10,39 @@
 
 ---
 
-## Immune milieu and microbiome of the distal urethra in Ugandan men: impact of penile circumcision and implications for HIV susceptibility
+## Immune milieu and microbiome of the distal urethra in Ugandan men: impact of penile circumcision and implications for HIV susceptibility.
+ 22.01.2022, _RM Galiwango, DE Park, S Huibner, A Onos, M Aziz, K Roach, A Anok, J Nnamutete, Y Isabirye, JB Wasswa, D Male, G Kigozi, AAR Tobian, JL Prodger, CM Liu, R Kaul_
+
+
+Coronal sulcus (CS) anaerobe abundance and IL-8 levels are linked to HIV acquisition, and are dramatically reduced after penile circumcision (PC). The distal urethra may be the site of some HIV acquisition before PC, and presumably most acquisition post PC. We describe the immune milieu and microbiome of the distal urethra in uncircumcised Ugandan men, and define the impact of PC. Participants consisted of HIV-negative, genital symptom-free adult Ugandan men undergoing PC (n = 51). Urethral and coronal sulcus swabs were collected at baseline and at 6- and 12-months post-PC. Soluble immune factors were quantified by multiplex ELISA, and bacterial abundance assessed by 16S rRNA qPCR and sequencing.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01185-9)
 
+10.1186/s40168-021-01185-9
+
 ---
 
-## Substantial overlap between symptomatic and asymptomatic genitourinary microbiota states
+## Substantial overlap between symptomatic and asymptomatic genitourinary microbiota states.
+ 20.01.2022, _B Adu-Oppong, R Thänert, MA Wallace, CD Burnham, G Dantas_
+
+
+The lack of a definition of urinary microbiome health convolutes diagnosis of urinary tract infections (UTIs), especially when non-traditional uropathogens or paucity of bacteria are recovered from symptomatic patients in routine standard-of-care urine tests. Here, we used shotgun metagenomic sequencing to characterize the microbial composition of asymptomatic volunteers in a set of 30 longitudinally collected urine specimens. Using permutation tests, we established a range of asymptomatic microbiota states, and use these to contextualize the microbiota of 122 urine specimens collected from patients with suspected UTIs diagnostically categorized by standard-of-care urinalysis within that range. Finally, we used a standard-of-care culture protocol to evaluate the efficiency of culture-based recovery of the urinary microbiota.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01204-9)
 
+10.1186/s40168-021-01204-9
+
 ---
 
-## Longitudinal variability in the urinary microbiota of healthy premenopausal women and the relation to neighboring microbial communities: A pilot study
+## Longitudinal variability in the urinary microbiota of healthy premenopausal women and the relation to neighboring microbial communities: A pilot study.
+ 17.01.2022, _LM Biehl, F Farowski, C Hilpert, A Nowag, A Kretzschmar, N Jazmati, A Tsakmaklis, I Wieters, Y Khodamoradi, H Wisplinghoff, MJGT Vehreschild_
+
+
+The understanding of longitudinal changes in the urinary microbiota of healthy women and its relation to intestinal microbiota is limited.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262095)
+
+10.1371/journal.pone.0262095
 
 ---
 
@@ -40,15 +58,9 @@
 
 ---
 
-## Changes in the gut microbiota and risk of colonization by multidrug-resistant bacteria, infection and death in critical care patients.
- 23.01.2022, _E Rubio, A Vergara, F Aziz, S Narváez, G Cuesta, M Hernández, D Toapanta, F Marco, J Fernández, A Soriano, J Vila, C Casals-Pascual_
-
-
-To investigate if the diversity and composition of the intestinal microbiota determines the risk of multi-drug resistant organism (MDRO) acquisition, infection and mortality in patients admitted to a liver intensive care unit (ICU).
+## Changes in the gut microbiota and risk of colonization by multidrug-resistant bacteria, infection and death in critical care patients
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1198743X22000246)
-
-10.1016/j.cmi.2022.01.004
 
 ---
 
@@ -58,27 +70,15 @@ To investigate if the diversity and composition of the intestinal microbiota det
 
 ---
 
-## Assessing the joint effects of brain aging and gut microbiota on the risks of psychiatric disorders.
- 25.01.2022, _H Zhang, L Liu, S Cheng, Y Jia, Y Wen, X Yang, P Meng, C Li, C Pan, Y Chen, Z Zhang, J Zhang, F Zhang_
-
-
-We aim to explore the potential interaction effects of brain aging and gut microbiota on the risks of sleep, anxiety and depression disorders. The genome-wide association study (GWAS) datasets of brain aging (N = 21,407) and gut microbiota (N = 3,890) were obtained from published studies. Individual level genotype and phenotype data of psychiatric traits (including sleep, anxiety and depression) were all from the UK Biobank (N = 107,947-374,505). We first calculated the polygenic risk scores (PRS) of 62 brain aging modes and 114 gut microbiota taxa as the instrumental variables, and then constructed linear and logistic regression analyses to systematically explore the potential interaction effects of brain aging and gut microbiota on psychiatric disorders. We observed the interaction effects of brain aging and gut microbiota on sleep, anxiety and depression disorders, such as Putamen/caudate T2* vs. Rhodospirillales (β = -0.012, P = 8.4 × 10-4) was negatively associated with chronotype, Fornix MD vs. Holdemanella (β = -0.007, P = 1.76 × 10-2) was negatively related to general anxiety disorder (GAD) scores, and White matter lesions vs. Acidaminococcaceae (β = 0.019, P = 1.29 × 10-3) was positively correlated with self-reported depression. Interestingly, Putamen volume vs. Intestinibacter was associated with all three psychiatric disorders, including chronotype (negative correlation), GAD scores (positive correlation) and self-reported depression (positive correlation). Our study results suggest the significant impacts of brain aging and gut microbiota on the development of sleep, anxiety and depression disorders, providing new clues for clarifying the pathogenesis of these disorders.
+## Assessing the joint effects of brain aging and gut microbiota on the risks of psychiatric disorder
 
 [Source](https://link.springer.com/article/10.1007%2Fs11682-022-00630-z)
 
-10.1007/s11682-022-00630-z
-
 ---
 
-## Investigation of fiber utilization in the rumen of dairy cows based on metagenome-assembled genomes and single-cell RNA sequencing.
- 21.01.2022, _MY Xue, JJ Wu, YY Xie, SL Zhu, YF Zhong, JX Liu, HZ Sun_
-
-
-Dairy cows utilize human-inedible, low-value plant biomass to produce milk, a low-cost product with rich nutrients and high proteins. This process largely relies on rumen microbes that ferment lignocellulose and cellulose to produce volatile fatty acids (VFAs). The VFAs are absorbed and partly metabolized by the stratified squamous rumen epithelium, which is mediated by diverse cell types. Here, we applied a metagenomic binning approach to explore the individual microbes involved in fiber digestion and performed single-cell RNA sequencing on rumen epithelial cells to investigate the cell subtypes contributing to VFA absorption and metabolism.
+## Investigation of fiber utilization in the rumen of dairy cows based on metagenome-assembled genomes and single-cell RNA sequencing
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01211-w)
-
-10.1186/s40168-021-01211-w
 
 ---
 
