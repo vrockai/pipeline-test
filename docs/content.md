@@ -10,15 +10,27 @@
 
 ---
 
-## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes
+## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes.
+ 28.01.2022, _D Lund, N Kieffer, M Parras-Moltó, S Ebmeyer, F Berglund, A Johnning, DGJ Larsson, E Kristiansson_
+
+
+Macrolides are broad-spectrum antibiotics used to treat a range of infections. Resistance to macrolides is often conferred by mobile resistance genes encoding Erm methyltransferases or Mph phosphotransferases. New erm and mph genes keep being discovered in clinical settings but their origins remain unknown, as is the type of macrolide resistance genes that will appear in the future. In this study, we used optimized hidden Markov models to characterize the macrolide resistome. Over 16 terabases of genomic and metagenomic data, representing a large taxonomic diversity (11 030 species) and diverse environments (1944 metagenomic samples), were searched for the presence of erm and mph genes. From this data, we predicted 28 340 macrolide resistance genes encoding 2892 unique protein sequences, which were clustered into 663 gene families (&lt;70 % amino acid identity), of which 619 (94 %) were previously uncharacterized. This included six new resistance gene families, which were located on mobile genetic elements in pathogens. The function of ten predicted new resistance genes were experimentally validated in Escherichia coli using a growth assay. Among the ten tested genes, seven conferred increased resistance to erythromycin, with five genes additionally conferring increased resistance to azithromycin, showing that our models can be used to predict new functional resistance genes. Our analysis also showed that macrolide resistance genes have diverse origins and have transferred horizontally over large phylogenetic distances into human pathogens. This study expands the known macrolide resistome more than ten-fold, provides insights into its evolution, and demonstrates how computational screening can identify new resistance genes before they become a significant clinical problem.
 
 [Source](https://doi.org/10.1099/mgen.0.000770)
 
+10.1099/mgen.0.000770
+
 ---
 
-## The small bowel microbiome changes significantly with age and aspects of the ageing process
+## The small bowel microbiome changes significantly with age and aspects of the ageing process.
+ 27.01.2022, _G Leite, M Pimentel, GM Barlow, R Mathur_
+
+
+Gut microbiome changes have been associated with human ageing and implicated in age-related diseases including Alzheimer's disease and Parkinson's disease. However, studies to date have used stool samples, which do not represent the entire gut. Although more challenging to access, the small intestine plays critical roles in host metabolism and immune function. In this paper (Leite et al. (2021), Cell Reports, doi: 10.1016/j.celrep.2021.109765), we demonstrate significant differences in the small intestinal microbiome in older subjects, using duodenal aspirates from 251 subjects aged 18-80 years. Differences included significantly decreased microbial diversity in older subjects, driven by increased relative abundance of phylum Proteobacteria, particularly family Enterobacteriaceae and coliform genera Escherichia and Klebsiella. Moreover, while this decreased diversity was associated with the 'ageing process' (comprising chronologic age, number of medications, and number of concomitant diseases), changes in certain taxa were found to be associated with number of medications alone (Klebsiella), number of diseases alone (Clostridium, Bilophila), or chronologic age alone (Escherichia, Lactobacillus, Enterococcus). Lastly, many taxa associated with increasing chronologic age were anaerobes. These changes may contribute to changes in human health that occur during the ageing process.
 
 [Source](https://doi.org/10.15698/mic2022.01.768)
+
+10.15698/mic2022.01.768
 
 ---
 
@@ -28,33 +40,63 @@
 
 ---
 
-## Skin microbiome profile of healthy Cameroonians and Japanese
+## Skin microbiome profile of healthy Cameroonians and Japanese.
+ 26.01.2022, _K Ogai, BC Nana, YM Lloyd, JP Arios, B Jiyarom, H Awanakam, LF Esemu, A Hori, A Matsuoka, F Nainu, R Megnekou, RGF Leke, GL Ekali, S Okamoto, T Kuraishi_
+
+
+The commensal microbes of the skin have a significant impact on dermal physiology and pathophysiology. Racial and geographical differences in the skin microbiome are suggested and may play a role in the sensitivity to dermatological disorders, including infectious diseases. However, little is known about the skin microbiome profiles of people living in Central Africa, where severe tropical infectious diseases impose a burden on the inhabitants. This study provided the skin profiles of healthy Cameroonians in different body sites and compared them to healthy Japanese participants. The skin microbiome of Cameroonians was distinguishable from that of Japanese in all skin sites examined in this study. For example, Micrococcus was predominantly found in skin samples of Cameroonians but mostly absent in Japanese skin samples. Instead, the relative abundance of Cutibacterium species was significantly higher in healthy Japanese. Principal coordinate analysis of beta diversity showed that the skin microbiome of Cameroonians formed different clusters from Japanese, suggesting a substantial difference in the microbiome profiles between participants of both countries. In addition, the alpha diversity in skin microbes was higher in Cameroonians than Japanese participants. These data may offer insights into the determinant factors responsible for the distinctness of the skin microbiome of people living in Central Africa and Asia.
 
 [Source](https://doi.org/10.1038/s41598-022-05244-5)
 
+10.1038/s41598-022-05244-5
+
 ---
 
-## Interactions between human milk oligosaccharides, microbiota and immune factors in milk of women with and without mastitis
+## Interactions between human milk oligosaccharides, microbiota and immune factors in milk of women with and without mastitis.
+ 26.01.2022, _I Castro, C García-Carral, A Furst, S Khwajazada, J García, R Arroyo, L Ruiz, JM Rodríguez, L Bode, L Fernández_
+
+
+Lactational mastitis is an excellent target to study possible interactions between HMOs, immune factors and milk microbiota due to the infectious and inflammatory nature of this condition. In this work, microbiological, immunological and HMO profiles of milk samples from women with (MW) or without (HW) mastitis were compared. Secretor status in women (based on HMO profile) was not associated to mastitis. DFLNH, LNFP II and LSTb concentrations in milk were higher in samples from HW than from MW among Secretor women. Milk from HW was characterized by a low bacterial load (dominated by Staphylococcus epidermidis and streptococci), high prevalence of IL10 and IL13, and low sialylated HMO concentration. In contrast, high levels of staphylococci, streptococci, IFNγ and IL12 characterized milk from MW. A comparison between subacute (SAM) and acute (AM) mastitis cases revealed differences related to the etiological agent (S. epidermidis in SAM; Staphylococcus aureus in AM), milk immunological profile (high content of IL10 and IL13 in SAM and IL2 in AM) and milk HMOs profile (high content of 3FL in SAM and of LNT, LNnT, and LSTc in AM). These results suggest that microbiological, immunological and HMOs profiles of milk are related to mammary health of women.
 
 [Source](https://doi.org/10.1038/s41598-022-05250-7)
 
+10.1038/s41598-022-05250-7
+
 ---
 
-## Microbiota of the prostate tumor environment investigated by whole-transcriptome profiling
+## Microbiota of the prostate tumor environment investigated by whole-transcriptome profiling.
+ 26.01.2022, _PV Salachan, M Rasmussen, J Fredsøe, B Ulhøi, M Borre, KD Sørensen_
+
+
+With over 350,000 estimated deaths worldwide in 2018, prostate cancer (PCa) continues to be a major health concern and a significant cause of cancer-associated mortality among men. While cancer in general is considered a disease of the human genome, there is a growing body of evidence suggesting that changes to the healthy microbiota could play a vital role in cancer development, progression, and/or treatment outcome.
 
 [Source](https://doi.org/10.1186/s13073-022-01011-3)
 
+10.1186/s13073-022-01011-3
+
 ---
 
-## Microbiome engineering: Taming the untractable
+## Microbiome engineering: Taming the untractable.
+ 26.01.2022, _JW Marsh, RE Ley_
+
+
+In this issue of Cell, Jin et al. describe several innovative tools for microbiome engineering to enable in situ editing of complex communities. However, challenges remain to overcome the widespread genetic intractability of microbiome constituents.
 
 [Source](https://doi.org/10.1016/j.cell.2021.12.034)
 
+10.1016/j.cell.2021.12.034
+
 ---
 
-## Microbiomes in physiology: Insights into 21(st) century global medical challenges
+## Microbiomes in physiology: Insights into 21st century global medical challenges.
+ 26.01.2022, _E Shehata, A Parker, T Suzuki, JR Swann, J Suez, PA Kroon, P Day-Walsh_
+
+
+What is the topic of this review? This review summarises the role of the gut microbiome in physiology and how it can be targeted as an effective strategy against two of the most important global medical challenges of our time namely, metabolic diseases and antibacterial resistance. What advances does it highlight? We outline the critical roles of the microbiome in regulating host physiology and discuss how microbiome analysis is useful for disease stratification to enable informed clinical decisions and develop interventions such as faecal microbiota transplantation (FMT), prebiotics, and probiotics. We also discuss the limitations of microbiome modulation, including the potential for probiotics to enhance antimicrobial resistance gene reservoirs, and that currently a "healthy microbiome" that can be used as a biobank for transplantation is yet to be defined.
 
 [Source](https://doi.org/10.1113/EP090226)
+
+10.1113/EP090226
 
 ---
 
@@ -70,9 +112,15 @@
 
 ---
 
-## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling
+## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling.
+ 26.01.2022, _R Weiser, J Oakley, K Ronchetti, JD Tame, S Hoehn, TP Jurkowski, E Mahenthiralingam, JT Forton_
+
+
+Spatial topography of the cystic fibrosis (CF) lung microbiota is poorly understood in childhood. How best to sample the respiratory tract in children for microbiota analysis, and the utility of microbiota profiling in clinical management of early infection remains unclear. By comparison with bronchoalveolar lavage (BAL), we assessed the ability of induced sputum (IS) sampling to characterise the lower airway microbiota.
 
 [Source](https://doi.org/10.1016/j.jcf.2022.01.006)
+
+10.1016/j.jcf.2022.01.006
 
 ---
 
@@ -106,27 +154,52 @@ To investigate the clinical effects of a 10-strain probiotic on parameters of va
 
 ---
 
-## The probiotic properties and potential of vaginal Lactobacilli spp. isolated from healthy women against some vaginal pathogens
+## The probiotic properties and potential of vaginal Lactobacilli spp. isolated from healthy women against some vaginal pathogens.
+ 26.01.2022, _A Asadi, V Lohrasbi, M Abdi, S Mirkalantari, M Esghaei, M Kashanian, M Oshaghi, M Talebi_
+
+
+During the last decade, probiotic research has progressed considerably and significant advances have been made in the selection and characterization of specific probiotic strains. The most studied probiotics belong to Lactobacillus genera. In this study, eighty Lactobacillus isolated from healthy women tolerated low pH and were able to grow in the presence of bile salts. RAPD PCR technique resulted in thirty-eight different types. Then, these isolates were evaluated based on adhesion capacity, antibiotic susceptibility and tolerance in simulated gastrointestinal tract. Species specific PCR and detection of bacteriocin related genes were also examined. Among the isolates, five strains were identified as Lacticaseibacillus rhamnosus NO21, Lacticaseibacillus casei NO1, Lactiplantibacillus plantarum NO4, Lactobacillus acidophilus NO7 and Lactobacillus gasseri NO38 presented acceptable antibiotic susceptibility pattern. Further analysis showed antimicrobial activity of Lacticaseibacillus culture against various bacterial pathogens and real-time PCR showed all five strains were able to prevent the colonization of bacterial pathogens. All five selected strains produced organic acids, hydrogen peroxide and were resistant to the spermicide. In addition, they lacked hemolytic activity with the ability of hydrophobicity, auto-aggregation and co-aggregation with pathogens. These results suggest that the vaginal microbiome could be a good source for the isolation of probiotics and the strains of this study may be considered as good probiotics candidates.
 
 [Source](https://doi.org/10.1111/lam.13660)
 
+10.1111/lam.13660
+
 ---
 
-## Protective Effects of Natural Polysaccharides on Intestinal Barrier Injury: A Review
+## Protective Effects of Natural Polysaccharides on Intestinal Barrier Injury: A Review.
+ 27.01.2022, _J Huo, Z Wu, W Sun, Z Wang, J Wu, M Huang, B Wang, B Sun_
+
+
+_Humans, Intestinal Diseases, Intestinal Mucosa, Intestines, Polysaccharides, Tight Junction Proteins, Tight Junctions_
+Owing to their minimal side effects and effective protection from oxidative stress, inflammation, and malignant growth, natural polysaccharides (NPs) are a potential adjuvant therapy for several diseases caused by intestinal barrier injury (IBI). More studies are accumulating on the protective effects of NPs with respect to IBI, but the underlying mechanisms remain unclear. Thus, this review aims to represent current studies that investigate the protective effects of NPs on IBI by directly maintaining intestinal epithelial barrier integrity (inhibiting oxidative stress, regulating inflammatory cytokine expression, and increasing tight junction protein expression) and indirectly regulating intestinal immunity and microbiota. Furthermore, the mechanisms underlying IBI development are briefly introduced, and the structure-activity relationships of polysaccharides with intestinal barrier protection effects are discussed. Potential developments and challenges associated with NPs exhibiting protective effects against IBI have also been highlighted to guide the application of NPs in the treatment of intestinal diseases caused by IBI.
 
 [Source](https://doi.org/10.1021/acs.jafc.1c05966)
 
+10.1021/acs.jafc.1c05966
+
 ---
 
-## Nitrogen recycling via gut symbionts increases in ground squirrels over the hibernation season
+## Nitrogen recycling via gut symbionts increases in ground squirrels over the hibernation season.
+ 27.01.2022, _MD Regan, E Chiang, Y Liu, M Tonelli, KM Verdoorn, SR Gugel, G Suen, HV Carey, FM Assadi-Porter_
+
+
+Hibernation is a mammalian strategy that uses metabolic plasticity to reduce energy demands and enable long-term fasting. Fasting mitigates winter food scarcity but eliminates dietary nitrogen, jeopardizing body protein balance. Here, we reveal gut microbiome-mediated urea nitrogen recycling in hibernating thirteen-lined ground squirrels (Ictidomys tridecemlineatus). Ureolytic gut microbes incorporate urea nitrogen into metabolites that are absorbed by the host, with the nitrogen reincorporated into the squirrel's protein pool. Urea nitrogen recycling is greatest after prolonged fasting in late winter, when urea transporter abundance in gut tissue and urease gene abundance in the microbiome are highest. These results reveal a functional role for the gut microbiome during hibernation and suggest mechanisms by which urea nitrogen recycling may contribute to protein balance in other monogastric animals.
 
 [Source](https://doi.org/10.1126/science.abh2950)
 
+10.1126/science.abh2950
+
 ---
 
-## Robust host source tracking building on the divergent and non-stochastic assembly of gut microbiomes in wild and farmed large yellow croaker
+## Robust host source tracking building on the divergent and non-stochastic assembly of gut microbiomes in wild and farmed large yellow croaker.
+ 27.01.2022, _J Zhu, H Li, ZZ Jing, W Zheng, YR Luo, SX Chen, F Guo_
+
+
+Given the lack of genetic background, the source tracking unknown individuals of fish species with both farmed and wild populations often cannot be robustly achieved. The gut microbiome, which is shaped by both deterministic and stochastic processes, can serve as a molecular marker of fish host source tracking, particularly as an alternative to the yet-to-be-established host genetic marker. A candidate for testing the feasibility is the large yellow croaker, Larimichthys crocea, which is carnivorous and ranks the top mariculture fish in China. Wild resource of this fish was depleted decades ago and might have potential problematic estimation because of escaping of farmed individuals.
 
 [Source](https://doi.org/10.1186/s40168-021-01214-7)
+
+10.1186/s40168-021-01214-7
 
 ---
 
@@ -136,9 +209,15 @@ To investigate the clinical effects of a 10-strain probiotic on parameters of va
 
 ---
 
-## Gut Microbial Trimethylamine is Elevated in Alcohol-Associated Hepatitis and Contributes to Ethanol-Induced Liver Injury in Mice
+## Gut Microbial Trimethylamine is Elevated in Alcohol-Associated Hepatitis and Contributes to Ethanol-Induced Liver Injury in Mice.
+ 27.01.2022, _RN Helsley, T Miyata, A Kadam, V Venkateshwari, N Sangwan, EC Huang, R Banerjee, AL Brown, KK Fung, W Massey, C Neumann, O Danny, LJ Osborn, RC Schugar, MR McMullen, A Bellar, KL Poulsen, A Kim, V Pathak, M Mrdjen, JT Anderson, B Willard, CJ McClain, M Mitchell, AJ McCullough, S Radaeva, B Barton, G Szabo, S Dasarathy, JC Garcia-Garcia, DM Rotroff, DS Allende, Z Wang, SL Hazen, LE Nagy, JM Brown_
+
+
+There is mounting evidence that microbes resident in the human intestine contribute to diverse alcohol-associated liver diseases (ALD) including the most deadly form known as alcohol-associated hepatitis (AH). However, mechanisms by which gut microbes synergize with excessive alcohol intake to promote liver injury are poorly understood. Furthermore, whether drugs that selectively target gut microbial metabolism can improve ALD has never been tested. We used liquid chromatography tandem mass spectrometry to quantify the levels of microbe and host choline co-metabolites in healthy controls and AH patients, finding elevated levels of the microbial metabolite trimethylamine (TMA) in AH. In subsequent studies, we treated mice with non-lethal bacterial choline TMA lyase (CutC/D) inhibitors to blunt gut microbe-dependent production of TMA in the context of chronic ethanol administration. Indices of liver injury were quantified by complementary RNA sequencing, biochemical, and histological approaches. In addition, we examined the impact of ethanol consumption and TMA lyase inhibition on gut microbiome structure via 16S rRNA sequencing. We show the gut microbial choline metabolite trimethylamine (TMA) is elevated in AH patients and correlates with reduced hepatic expression of the TMA oxygenase flavin-containing monooxygenase 3 (FMO3). Provocatively, we find that small molecule inhibition of gut microbial CutC/D activity protects mice from ethanol-induced liver injury. CutC/D inhibitor-driven improvement in ethanol-induced liver injury is associated with distinct reorganization of the gut microbiome and host liver transcriptome. The microbial metabolite TMA is elevated in patients with AH, and inhibition of TMA production from gut microbes can protect mice from ethanol-induced liver injury.
 
 [Source](https://doi.org/10.7554/eLife.76554)
+
+10.7554/eLife.76554
 
 ---
 
