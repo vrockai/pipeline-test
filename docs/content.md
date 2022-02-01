@@ -148,6 +148,18 @@ To investigate the clinical effects of a 10-strain probiotic on parameters of va
 
 ---
 
+## Hospital Frailty Risk Score predicts adverse events in older patients with vertebral compression fractures: Analysis of data in a nationwide in-patient database in Japan.
+ 31.01.2022, _A Shimizu, K Maeda, I Fujishima, J Kayashita, N Mori, K Okada, C Uno, M Shimizu, R Momosaki_
+
+
+This study investigated the usefulness of frailty for predicting adverse events in patients with vertebral compression fractures (VCFs) during hospitalization using data obtained from the Japanese health insurance system.
+
+[Source](https://doi.org/10.1186/s12866-022-02446-9)
+
+10.1111/ggi.14356
+
+---
+
 ## To culture or not to culture: careful assessment of metabarcoding data is necessary when evaluating the microbiota of a modified-atmosphere-packaged vegetarian meat alternative throughout its shelf-life period
 
 [Source](https://doi.org/10.1186/s12866-022-02446-9)
