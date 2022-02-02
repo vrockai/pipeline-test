@@ -1,223 +1,101 @@
-## Diet leaves a genetic signature in a keystone member of the gut microbiota
+## Genomic structure predicts metabolite dynamics in microbial communities.
+ 27.01.2022, _K Gowda, D Ping, M Mani, S Kuehn_
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00038-5)
 
----
+The metabolic activities of microbial communities play a defining role in the evolution and persistence of life on Earth, driving redox reactions that give rise to global biogeochemical cycles. Community metabolism emerges from a hierarchy of processes, including gene expression, ecological interactions, and environmental factors. In wild communities, gene content is correlated with environmental context, but predicting metabolite dynamics from genomes remains elusive. Here, we show, for the process of denitrification, that metabolite dynamics of a community are predictable from the genes each member of the community possesses. A simple linear regression reveals a sparse and generalizable mapping from gene content to metabolite dynamics for genomically diverse bacteria. A consumer-resource model correctly predicts community metabolite dynamics from single-strain phenotypes. Our results demonstrate that the conserved impacts of metabolic genes can predict community metabolite dynamics, enabling the prediction of metabolite dynamics from metagenomes, designing denitrifying communities, and discovering how genome evolution impacts metabolism.
 
-## Multi-omics investigation of <em>Clostridioides difficile</em>-colonized patients reveals pathogen and commensal correlates of <em>C. difficile</em> pathogenesis
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(21)01542-7)
 
-[Source](https://doi.org/10.7554/eLife.72801)
-
----
-
-## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes
-
-[Source](https://doi.org/10.1099/mgen.0.000770)
+10.1016/j.cell.2021.12.036
 
 ---
 
-## The small bowel microbiome changes significantly with age and aspects of the ageing process
+## Inhalable antibiotic resistomes emitted from hospitals: metagenomic insights into bacterial hosts, clinical relevance, and environmental risks.
+ 28.01.2022, _D Wu, L Jin, J Xie, H Liu, J Zhao, D Ye, XD Li_
 
-[Source](https://doi.org/10.15698/mic2022.01.768)
 
----
+Threats of antimicrobial resistance (AMR) to human health are on the rise worldwide. Airborne fine particulate matter (PM2.5), especially those emitted from hospitals, could serve as a substantial yet lesser-known environmental medium of inhalable antibiotic resistomes. A genome-centric understanding of the hosting bacterial taxa, mobility potential, and consequent risks of the resistomes is needed to reveal the health relevance of PM2.5-associated AMR from clinical settings.
 
-## Intestinal microbiota profiles in a genetic model of colon tumorigenesis correlates with colon cancer biomarkers
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01197-5)
 
-[Source](https://doi.org/10.1038/s41598-022-05249-0)
-
----
-
-## Skin microbiome profile of healthy Cameroonians and Japanese
-
-[Source](https://doi.org/10.1038/s41598-022-05244-5)
+10.1186/s40168-021-01197-5
 
 ---
 
-## Interactions between human milk oligosaccharides, microbiota and immune factors in milk of women with and without mastitis
+## Long-read metagenomic sequencing reveals shifts in associations of antibiotic resistance genes with mobile genetic elements from sewage to activated sludge.
+ 30.01.2022, _D Dai, C Brown, H Bürgmann, DGJ Larsson, I Nambi, T Zhang, CF Flach, A Pruden, PJ Vikesland_
 
-[Source](https://doi.org/10.1038/s41598-022-05250-7)
 
----
+There is concern that the microbially rich activated sludge environment of wastewater treatment plants (WWTPs) may contribute to the dissemination of antibiotic resistance genes (ARGs). We applied long-read (nanopore) sequencing to profile ARGs and their neighboring genes to illuminate their fate in the activated sludge treatment by comparing their abundance, genetic locations, mobility potential, and bacterial hosts within activated sludge relative to those in influent sewage across five WWTPs from three continents.
 
-## Microbiota of the prostate tumor environment investigated by whole-transcriptome profiling
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01216-5)
 
-[Source](https://doi.org/10.1186/s13073-022-01011-3)
-
----
-
-## Microbiome engineering: Taming the untractable
-
-[Source](https://doi.org/10.1016/j.cell.2021.12.034)
+10.1186/s40168-021-01216-5
 
 ---
 
-## Microbiomes in physiology: Insights into 21(st) century global medical challenges
+## Understanding microbiome alterations in autism.
+ 21.01.2022, _K O'Leary_
 
-[Source](https://doi.org/10.1113/EP090226)
 
----
 
-## Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome
+[Source](https://www.nature.com/articles/d41591-022-00028-w)
 
-[Source](https://doi.org/10.1136/gutjnl-2021-325989)
-
----
-
-## Characteristics of Lung Microbiota in Children’s Refractory<em> Mycoplasma pneumoniae</em> Pneumonia Coinfected with Human Adenovirus B
-
-[Source](https://doi.org/10.1155/2022/7065890)
+10.1038/d41591-022-00028-w
 
 ---
 
-## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling
+## 3β-Hydroxysteroid dehydrogenase expressed by gut microbes degrades testosterone and is linked to depression in males 
 
-[Source](https://doi.org/10.1016/j.jcf.2022.01.006)
-
----
-
-## <em>Bifidobacterium animalis</em> subsp.<em> lactis</em> BB-12 Has Effect Against Obesity by Regulating Gut Microbiota in Two Phases in Human Microbiota-Associated Rats
-
-[Source](https://doi.org/10.3389/fnut.2021.811619)
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00037-3)
 
 ---
 
-## Effects of a 10-Strain Oral Probiotic on Parameters of Vaginal Health and Microbial Community: A Pilot Clinical Study
+## Early-life viral infections are associated with disadvantageous immune and microbiota profiles and recurrent respiratory infections.
+ 21.01.2022, _WAA de Steenhuijsen Piters, RL Watson, EM de Koff, R Hasrat, K Arp, MLJN Chu, PCM de Groot, MA van Houten, EAM Sanders, D Bogaert_
 
-[Source](https://doi.org/10.2147/IJWH.S341046)
 
----
+The respiratory tract is populated by a specialized microbial ecosystem, which is seeded during and directly following birth. Perturbed development of the respiratory microbial community in early-life has been associated with higher susceptibility to respiratory tract infections (RTIs). Given a consistent gap in time between first signs of aberrant microbial maturation and the observation of the first RTIs, we hypothesized that early-life host-microbe cross-talk plays a role in this process. We therefore investigated viral presence, gene expression profiles and nasopharyngeal microbiota from birth until 12 months of age in 114 healthy infants. We show that the strongest dynamics in gene expression profiles occurred within the first days of life, mostly involving Toll-like receptor (TLR) and inflammasome signalling. These gene expression dynamics coincided with rapid microbial niche differentiation. Early asymptomatic viral infection co-occurred with stronger interferon activity, which was related to specific microbiota dynamics following, including early enrichment of Moraxella and Haemophilus spp. These microbial trajectories were in turn related to a higher number of subsequent (viral) RTIs over the first year of life. Using a multi-omic approach, we found evidence for species-specific host-microbe interactions related to consecutive susceptibility to RTIs. Although further work will be needed to confirm causality of our findings, together these data indicate that early-life viral encounters could impact subsequent host-microbe cross-talk, which is linked to later-life infections.
 
-## A randomised, double-blind, placebo-controlled trial of <em>Bifidobacterium bifidum</em> CCFM16 for manipulation of the gut microbiota and relief from chronic constipation
+[Source](https://www.nature.com/articles/s41564-021-01043-2)
 
-[Source](https://doi.org/10.1039/d1fo03896f)
-
----
-
-## Vaginal states: detection of conversion processes in women using contraception and characterization of vaginal <em>Lactobacillus</em> species
-
-[Source](https://doi.org/10.2174/1871526522666220126154731)
+10.1038/s41564-021-01043-2
 
 ---
 
-## The probiotic properties and potential of vaginal Lactobacilli spp. isolated from healthy women against some vaginal pathogens
+## Meconium Microbiome of Very Preterm Infants across Germany 
 
-[Source](https://doi.org/10.1111/lam.13660)
-
----
-
-## Protective Effects of Natural Polysaccharides on Intestinal Barrier Injury: A Review.
- 27.01.2022, _J Huo, Z Wu, W Sun, Z Wang, J Wu, M Huang, B Wang, B Sun_
-
-
-_Humans, Intestinal Diseases, Intestinal Mucosa, Intestines, Polysaccharides, Tight Junction Proteins, Tight Junctions_
-Owing to their minimal side effects and effective protection from oxidative stress, inflammation, and malignant growth, natural polysaccharides (NPs) are a potential adjuvant therapy for several diseases caused by intestinal barrier injury (IBI). More studies are accumulating on the protective effects of NPs with respect to IBI, but the underlying mechanisms remain unclear. Thus, this review aims to represent current studies that investigate the protective effects of NPs on IBI by directly maintaining intestinal epithelial barrier integrity (inhibiting oxidative stress, regulating inflammatory cytokine expression, and increasing tight junction protein expression) and indirectly regulating intestinal immunity and microbiota. Furthermore, the mechanisms underlying IBI development are briefly introduced, and the structure-activity relationships of polysaccharides with intestinal barrier protection effects are discussed. Potential developments and challenges associated with NPs exhibiting protective effects against IBI have also been highlighted to guide the application of NPs in the treatment of intestinal diseases caused by IBI.
-
-[Source](https://doi.org/10.1021/acs.jafc.1c05966)
-
-10.1021/acs.jafc.1c05966
+[Source](https://journals.asm.org/doi/10.1128/msphere.00808-21)
 
 ---
 
-## Nitrogen recycling via gut symbionts increases in ground squirrels over the hibernation season.
- 01.02.2022, _MD Regan, E Chiang, Y Liu, M Tonelli, KM Verdoorn, SR Gugel, G Suen, HV Carey, FM Assadi-Porter_
+## Comparative metabolomic analysis reveals shared and unique chemical interactions in sponge holobionts
 
-
-Hibernation is a mammalian strategy that uses metabolic plasticity to reduce energy demands and enable long-term fasting. Fasting mitigates winter food scarcity but eliminates dietary nitrogen, jeopardizing body protein balance. Here, we reveal gut microbiome-mediated urea nitrogen recycling in hibernating thirteen-lined ground squirrels (Ictidomys tridecemlineatus). Ureolytic gut microbes incorporate urea nitrogen into metabolites that are absorbed by the host, with the nitrogen reincorporated into the squirrel's protein pool. Urea nitrogen recycling is greatest after prolonged fasting in late winter, when urea transporter abundance in gut tissue and urease gene abundance in the microbiome are highest. These results reveal a functional role for the gut microbiome during hibernation and suggest mechanisms by which urea nitrogen recycling may contribute to protein balance in other monogastric animals.
-
-[Source](https://doi.org/10.1126/science.abh2950)
-
-10.1126/science.abh2950
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01220-9)
 
 ---
 
-## Robust host source tracking building on the divergent and non-stochastic assembly of gut microbiomes in wild and farmed large yellow croaker.
- 30.01.2022, _J Zhu, H Li, ZZ Jing, W Zheng, YR Luo, SX Chen, F Guo_
+## A multi-omics approach unravels metagenomic and metabolic alterations of a probiotic and synbiotic additive in rainbow trout (Oncorhynchus mykiss).
+ 31.01.2022, _JA Rasmussen, KR Villumsen, M Ernst, M Hansen, T Forberg, S Gopalakrishnan, MTP Gilbert, AM Bojesen, K Kristiansen, MT Limborg_
 
 
-Given the lack of genetic background, the source tracking unknown individuals of fish species with both farmed and wild populations often cannot be robustly achieved. The gut microbiome, which is shaped by both deterministic and stochastic processes, can serve as a molecular marker of fish host source tracking, particularly as an alternative to the yet-to-be-established host genetic marker. A candidate for testing the feasibility is the large yellow croaker, Larimichthys crocea, which is carnivorous and ranks the top mariculture fish in China. Wild resource of this fish was depleted decades ago and might have potential problematic estimation because of escaping of farmed individuals.
+Animal protein production is increasingly looking towards microbiome-associated services such as the design of new and better probiotic solutions to further improve gut health and production sustainability. Here, we investigate the functional effects of bacteria-based pro- and synbiotic feed additives on microbiome-associated functions in relation to growth performance in the commercially important rainbow trout (Oncorhynchus mykiss). We combine complementary insights from multiple omics datasets from gut content samples, including 16S bacterial profiling, whole metagenomes, and untargeted metabolomics, to investigate bacterial metagenome-assembled genomes (MAGs) and their molecular interactions with host metabolism.
 
-[Source](https://doi.org/10.1186/s40168-021-01214-7)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01221-8)
 
-10.1186/s40168-021-01214-7
-
----
-
-## Evaluation of three <em>Bacillus</em> spp. isolated from the gut of giant freshwater prawn as potential probiotics against pathogens causing Vibriosis and Aeromonosis
-
-[Source](https://doi.org/10.1016/j.micpath.2022.105417)
+10.1186/s40168-021-01221-8
 
 ---
 
-## Gut Microbial Trimethylamine is Elevated in Alcohol-Associated Hepatitis and Contributes to Ethanol-Induced Liver Injury in Mice.
- 29.01.2022, _RN Helsley, T Miyata, A Kadam, V Venkateshwari, N Sangwan, EC Huang, R Banerjee, AL Brown, KK Fung, W Massey, C Neumann, O Danny, LJ Osborn, RC Schugar, MR McMullen, A Bellar, KL Poulsen, A Kim, V Pathak, M Mrdjen, JT Anderson, B Willard, CJ McClain, M Mitchell, AJ McCullough, S Radaeva, B Barton, G Szabo, S Dasarathy, JC Garcia-Garcia, DM Rotroff, DS Allende, Z Wang, SL Hazen, LE Nagy, JM Brown_
+## MUON: multimodal omics analysis framework
 
-
-There is mounting evidence that microbes resident in the human intestine contribute to diverse alcohol-associated liver diseases (ALD) including the most deadly form known as alcohol-associated hepatitis (AH). However, mechanisms by which gut microbes synergize with excessive alcohol intake to promote liver injury are poorly understood. Furthermore, whether drugs that selectively target gut microbial metabolism can improve ALD has never been tested. We used liquid chromatography tandem mass spectrometry to quantify the levels of microbe and host choline co-metabolites in healthy controls and AH patients, finding elevated levels of the microbial metabolite trimethylamine (TMA) in AH. In subsequent studies, we treated mice with non-lethal bacterial choline TMA lyase (CutC/D) inhibitors to blunt gut microbe-dependent production of TMA in the context of chronic ethanol administration. Indices of liver injury were quantified by complementary RNA sequencing, biochemical, and histological approaches. In addition, we examined the impact of ethanol consumption and TMA lyase inhibition on gut microbiome structure via 16S rRNA sequencing. We show the gut microbial choline metabolite trimethylamine (TMA) is elevated in AH patients and correlates with reduced hepatic expression of the TMA oxygenase flavin-containing monooxygenase 3 (FMO3). Provocatively, we find that small molecule inhibition of gut microbial CutC/D activity protects mice from ethanol-induced liver injury. CutC/D inhibitor-driven improvement in ethanol-induced liver injury is associated with distinct reorganization of the gut microbiome and host liver transcriptome. The microbial metabolite TMA is elevated in patients with AH, and inhibition of TMA production from gut microbes can protect mice from ethanol-induced liver injury.
-
-[Source](https://doi.org/10.7554/eLife.76554)
-
-10.7554/eLife.76554
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02577-8)
 
 ---
 
-## Intestinal gluconeogenesis shapes gut microbiota, fecal and urine metabolome in mice with gastric bypass surgery.
- 30.01.2022, _J Vily-Petit, A Barataud, C Zitoun, A Gautier-Stein, M Serino, G Mithieux_
+## A Toast to All the Rejects
 
-
-Intestinal gluconeogenesis (IGN), gastric bypass (GBP) and gut microbiota positively regulate glucose homeostasis and diet-induced dysmetabolism. GBP modulates gut microbiota, whether IGN could shape it has not been investigated. We studied gut microbiota and microbiome in wild type and IGN-deficient mice, undergoing GBP or not, and fed on either a normal chow (NC) or a high-fat/high-sucrose (HFHS) diet. We also studied fecal and urine metabolome in NC-fed mice. IGN and GBP had a different effect on the gut microbiota of mice fed with NC and HFHS diet. IGN inactivation increased abundance of Deltaproteobacteria on NC and of Proteobacteria such as Helicobacter on HFHS diet. GBP increased abundance of Firmicutes and Proteobacteria on NC-fed WT mice and of Firmicutes, Bacteroidetes and Proteobacteria on HFHS-fed WT mice. The combined effect of IGN inactivation and GBP increased abundance of Actinobacteria on NC and the abundance of Enterococcaceae and Enterobacteriaceae on HFHS diet. A reduction was observed in the amounf of short-chain fatty acids in fecal (by GBP) and in both fecal and urine (by IGN inactivation) metabolome. IGN and GBP, separately or combined, shape gut microbiota and microbiome on NC- and HFHS-fed mice, and modify fecal and urine metabolome.
-
-[Source](https://doi.org/10.1038/s41598-022-04902-y)
-
-10.1038/s41598-022-04902-y
-
----
-
-## To culture or not to culture: careful assessment of metabarcoding data is necessary when evaluating the microbiota of a modified-atmosphere-packaged vegetarian meat alternative throughout its shelf-life period
-
-[Source](https://doi.org/10.1186/s12866-022-02446-9)
-
----
-
-## Root Morphogenesis of <em>Arabidopsis thaliana </em>Tuned by Plant Growth-Promoting <em>Streptomyces</em> Isolated From Root-Associated Soil of <em>Artemisia annua</em>
-
-[Source](https://doi.org/10.3389/fpls.2021.802737)
-
----
-
-## Soil microbial community development across a 32-year coastal wetland restoration time series and the relative importance of environmental factors
-
-[Source](https://doi.org/10.1016/j.scitotenv.2022.153359)
-
----
-
-## Emerging frontiers in microbe mediated pesticide remediation: Unveiling role of omics and <em>In silico</em> approaches in engineered environment
-
-[Source](https://doi.org/10.1016/j.envpol.2022.118851)
-
----
-
-## Emerging investigator series: microplastic sources, fate, toxicity, detection, and interactions with micropollutants in aquatic ecosystems – a review of reviews
-
-[Source](https://doi.org/10.1039/d1em00443c)
-
----
-
-## Alternating Dual-Collision Energy Scanning Mass Spectrometry Approach: Discovery of Novel Microbial Bile-Acid Conjugates
-
-[Source](https://doi.org/10.1021/acs.analchem.1c05272)
-
----
-
-## Genetic tools for the redirection of the central carbon flow towards the production of lactate in the human gut bacterium <em>Phocaeicola</em> (<em>Bacteroides</em>) <em>vulgatus</em>
-
-[Source](https://doi.org/10.1007/s00253-022-11777-6)
-
----
-
-## Lipidomics Analysis of Outer Membrane Vesicles and Elucidation of the Inositol Phosphoceramide Biosynthetic Pathway in <em>Bacteroides thetaiotaomicron</em>
-
-[Source](https://doi.org/10.1128/spectrum.00634-21)
+[Source](https://www.theatlantic.com/family/archive/2022/01/celebrate-your-rejections-failures/621327/)
 
 ---
 
