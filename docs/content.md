@@ -10,15 +10,27 @@
 
 ---
 
-## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes
+## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes.
+ 28.01.2022, _D Lund, N Kieffer, M Parras-Moltó, S Ebmeyer, F Berglund, A Johnning, DGJ Larsson, E Kristiansson_
+
+
+Macrolides are broad-spectrum antibiotics used to treat a range of infections. Resistance to macrolides is often conferred by mobile resistance genes encoding Erm methyltransferases or Mph phosphotransferases. New erm and mph genes keep being discovered in clinical settings but their origins remain unknown, as is the type of macrolide resistance genes that will appear in the future. In this study, we used optimized hidden Markov models to characterize the macrolide resistome. Over 16 terabases of genomic and metagenomic data, representing a large taxonomic diversity (11 030 species) and diverse environments (1944 metagenomic samples), were searched for the presence of erm and mph genes. From this data, we predicted 28 340 macrolide resistance genes encoding 2892 unique protein sequences, which were clustered into 663 gene families (&lt;70 % amino acid identity), of which 619 (94 %) were previously uncharacterized. This included six new resistance gene families, which were located on mobile genetic elements in pathogens. The function of ten predicted new resistance genes were experimentally validated in Escherichia coli using a growth assay. Among the ten tested genes, seven conferred increased resistance to erythromycin, with five genes additionally conferring increased resistance to azithromycin, showing that our models can be used to predict new functional resistance genes. Our analysis also showed that macrolide resistance genes have diverse origins and have transferred horizontally over large phylogenetic distances into human pathogens. This study expands the known macrolide resistome more than ten-fold, provides insights into its evolution, and demonstrates how computational screening can identify new resistance genes before they become a significant clinical problem.
 
 [Source](https://doi.org/10.1099/mgen.0.000770)
 
+10.1099/mgen.0.000770
+
 ---
 
-## The small bowel microbiome changes significantly with age and aspects of the ageing process
+## The small bowel microbiome changes significantly with age and aspects of the ageing process.
+ 27.01.2022, _G Leite, M Pimentel, GM Barlow, R Mathur_
+
+
+Gut microbiome changes have been associated with human ageing and implicated in age-related diseases including Alzheimer's disease and Parkinson's disease. However, studies to date have used stool samples, which do not represent the entire gut. Although more challenging to access, the small intestine plays critical roles in host metabolism and immune function. In this paper (Leite et al. (2021), Cell Reports, doi: 10.1016/j.celrep.2021.109765), we demonstrate significant differences in the small intestinal microbiome in older subjects, using duodenal aspirates from 251 subjects aged 18-80 years. Differences included significantly decreased microbial diversity in older subjects, driven by increased relative abundance of phylum Proteobacteria, particularly family Enterobacteriaceae and coliform genera Escherichia and Klebsiella. Moreover, while this decreased diversity was associated with the 'ageing process' (comprising chronologic age, number of medications, and number of concomitant diseases), changes in certain taxa were found to be associated with number of medications alone (Klebsiella), number of diseases alone (Clostridium, Bilophila), or chronologic age alone (Escherichia, Lactobacillus, Enterococcus). Lastly, many taxa associated with increasing chronologic age were anaerobes. These changes may contribute to changes in human health that occur during the ageing process.
 
 [Source](https://doi.org/10.15698/mic2022.01.768)
+
+10.15698/mic2022.01.768
 
 ---
 
@@ -28,33 +40,63 @@
 
 ---
 
-## Skin microbiome profile of healthy Cameroonians and Japanese
+## Skin microbiome profile of healthy Cameroonians and Japanese.
+ 29.01.2022, _K Ogai, BC Nana, YM Lloyd, JP Arios, B Jiyarom, H Awanakam, LF Esemu, A Hori, A Matsuoka, F Nainu, R Megnekou, RGF Leke, GL Ekali, S Okamoto, T Kuraishi_
+
+
+The commensal microbes of the skin have a significant impact on dermal physiology and pathophysiology. Racial and geographical differences in the skin microbiome are suggested and may play a role in the sensitivity to dermatological disorders, including infectious diseases. However, little is known about the skin microbiome profiles of people living in Central Africa, where severe tropical infectious diseases impose a burden on the inhabitants. This study provided the skin profiles of healthy Cameroonians in different body sites and compared them to healthy Japanese participants. The skin microbiome of Cameroonians was distinguishable from that of Japanese in all skin sites examined in this study. For example, Micrococcus was predominantly found in skin samples of Cameroonians but mostly absent in Japanese skin samples. Instead, the relative abundance of Cutibacterium species was significantly higher in healthy Japanese. Principal coordinate analysis of beta diversity showed that the skin microbiome of Cameroonians formed different clusters from Japanese, suggesting a substantial difference in the microbiome profiles between participants of both countries. In addition, the alpha diversity in skin microbes was higher in Cameroonians than Japanese participants. These data may offer insights into the determinant factors responsible for the distinctness of the skin microbiome of people living in Central Africa and Asia.
 
 [Source](https://doi.org/10.1038/s41598-022-05244-5)
 
+10.1038/s41598-022-05244-5
+
 ---
 
-## Interactions between human milk oligosaccharides, microbiota and immune factors in milk of women with and without mastitis
+## Interactions between human milk oligosaccharides, microbiota and immune factors in milk of women with and without mastitis.
+ 29.01.2022, _I Castro, C García-Carral, A Furst, S Khwajazada, J García, R Arroyo, L Ruiz, JM Rodríguez, L Bode, L Fernández_
+
+
+Lactational mastitis is an excellent target to study possible interactions between HMOs, immune factors and milk microbiota due to the infectious and inflammatory nature of this condition. In this work, microbiological, immunological and HMO profiles of milk samples from women with (MW) or without (HW) mastitis were compared. Secretor status in women (based on HMO profile) was not associated to mastitis. DFLNH, LNFP II and LSTb concentrations in milk were higher in samples from HW than from MW among Secretor women. Milk from HW was characterized by a low bacterial load (dominated by Staphylococcus epidermidis and streptococci), high prevalence of IL10 and IL13, and low sialylated HMO concentration. In contrast, high levels of staphylococci, streptococci, IFNγ and IL12 characterized milk from MW. A comparison between subacute (SAM) and acute (AM) mastitis cases revealed differences related to the etiological agent (S. epidermidis in SAM; Staphylococcus aureus in AM), milk immunological profile (high content of IL10 and IL13 in SAM and IL2 in AM) and milk HMOs profile (high content of 3FL in SAM and of LNT, LNnT, and LSTc in AM). These results suggest that microbiological, immunological and HMOs profiles of milk are related to mammary health of women.
 
 [Source](https://doi.org/10.1038/s41598-022-05250-7)
 
+10.1038/s41598-022-05250-7
+
 ---
 
-## Microbiota of the prostate tumor environment investigated by whole-transcriptome profiling
+## Microbiota of the prostate tumor environment investigated by whole-transcriptome profiling.
+ 26.01.2022, _PV Salachan, M Rasmussen, J Fredsøe, B Ulhøi, M Borre, KD Sørensen_
+
+
+With over 350,000 estimated deaths worldwide in 2018, prostate cancer (PCa) continues to be a major health concern and a significant cause of cancer-associated mortality among men. While cancer in general is considered a disease of the human genome, there is a growing body of evidence suggesting that changes to the healthy microbiota could play a vital role in cancer development, progression, and/or treatment outcome.
 
 [Source](https://doi.org/10.1186/s13073-022-01011-3)
 
+10.1186/s13073-022-01011-3
+
 ---
 
-## Microbiome engineering: Taming the untractable
+## Microbiome engineering: Taming the untractable.
+ 26.01.2022, _JW Marsh, RE Ley_
+
+
+In this issue of Cell, Jin et al. describe several innovative tools for microbiome engineering to enable in situ editing of complex communities. However, challenges remain to overcome the widespread genetic intractability of microbiome constituents.
 
 [Source](https://doi.org/10.1016/j.cell.2021.12.034)
 
+10.1016/j.cell.2021.12.034
+
 ---
 
-## Microbiomes in physiology: Insights into 21(st) century global medical challenges
+## Microbiomes in physiology: Insights into 21st century global medical challenges.
+ 26.01.2022, _E Shehata, A Parker, T Suzuki, JR Swann, J Suez, PA Kroon, P Day-Walsh_
+
+
+What is the topic of this review? This review summarises the role of the gut microbiome in physiology and how it can be targeted as an effective strategy against two of the most important global medical challenges of our time namely, metabolic diseases and antibacterial resistance. What advances does it highlight? We outline the critical roles of the microbiome in regulating host physiology and discuss how microbiome analysis is useful for disease stratification to enable informed clinical decisions and develop interventions such as faecal microbiota transplantation (FMT), prebiotics, and probiotics. We also discuss the limitations of microbiome modulation, including the potential for probiotics to enhance antimicrobial resistance gene reservoirs, and that currently a "healthy microbiome" that can be used as a biobank for transplantation is yet to be defined.
 
 [Source](https://doi.org/10.1113/EP090226)
+
+10.1113/EP090226
 
 ---
 
@@ -70,9 +112,15 @@
 
 ---
 
-## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling
+## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling.
+ 26.01.2022, _R Weiser, J Oakley, K Ronchetti, JD Tame, S Hoehn, TP Jurkowski, E Mahenthiralingam, JT Forton_
+
+
+Spatial topography of the cystic fibrosis (CF) lung microbiota is poorly understood in childhood. How best to sample the respiratory tract in children for microbiota analysis, and the utility of microbiota profiling in clinical management of early infection remains unclear. By comparison with bronchoalveolar lavage (BAL), we assessed the ability of induced sputum (IS) sampling to characterise the lower airway microbiota.
 
 [Source](https://doi.org/10.1016/j.jcf.2022.01.006)
+
+10.1016/j.jcf.2022.01.006
 
 ---
 
@@ -82,9 +130,15 @@
 
 ---
 
-## Effects of a 10-Strain Oral Probiotic on Parameters of Vaginal Health and Microbial Community: A Pilot Clinical Study
+## Effects of a 10-Strain Oral Probiotic on Parameters of Vaginal Health and Microbial Community: A Pilot Clinical Study.
+ 28.01.2022, _CJ Martoni, AKS Frederiksen, A Damholt, G Leyer_
+
+
+To investigate the clinical effects of a 10-strain probiotic on parameters of vaginal health in a pilot, open label study in women with intermediate Nugent score (NS) or vaginal pH &gt;4.5.
 
 [Source](https://doi.org/10.2147/IJWH.S341046)
+
+10.2147/IJWH.S341046
 
 ---
 
@@ -203,15 +257,9 @@ This study investigated the usefulness of frailty for predicting adverse events 
 
 ---
 
-## Soil microbial community development across a 32-year coastal wetland restoration time series and the relative importance of environmental factors.
- 26.01.2022, _KM Abbott, T Quirk, LM Fultz_
-
-
-Soil microbes play key roles in ecosystem functioning through processes such as organic matter decomposition, nutrient and carbon cycling, and regulating vegetation structure and productivity. Coastal marshes are situated at the confluence of terrestrial and marine ecosystems; thus, their soils support abundant and diverse microbiota which facilitate globally important biogeochemical processes including nutrient cycling and greenhouse gas fluxes. With coastal marsh ecosystems threatened by relative sea level rise, subsidence, and development, mitigation for the loss of marshes is becoming commonplace. Despite the widespread implementation of marsh construction projects, little is known about the development and variability of microbial communities in created marshes. For this study, we tested the hypothesis that microbial community composition differs across created marshes of different ages and between created and natural marshes. We also hypothesized that the microbial community would be correlated with soil properties including soil organic carbon and nitrogen content, which were predicted to increase with marsh age. To test these hypotheses, we determined dominant microbial groups and environmental characteristics from six constructed marshes ranging in age from 0 to 32 years old, as well as an adjacent natural marsh. Our results revealed that microbial biomass estimates increased with marsh age except for the high elevation 20-year old marsh, yet each marsh contained a distinct microbial community composition. Across marshes, microbial community composition was significantly related to soil C:N ratio with an increase in total microbial abundance and actinomycetes and GM+ bacteria with an increase in soil C to N ratio. Additionally, shifts in dominant microbial groups were associated with differences in vegetation, elevation, and marsh age. The natural marsh community grouped more closely with younger rather than older marshes suggesting age is less important than environmental conditions. This study shows that microbial communities are not homogenized across restoration sites and do not necessarily converge to be similar to natural marshes over time. Local biotic and environmental conditions were correlated with microbial compositions, yet in seemingly similar conditions, microbial groups also differed. The effect of differences in microbial compositions on ecological functions are yet to be fully understood.
+## Soil microbial community development across a 32-year coastal wetland restoration time series and the relative importance of environmental factors
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.153359)
-
-10.1016/j.scitotenv.2022.153359
 
 ---
 
