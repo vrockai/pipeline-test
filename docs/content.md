@@ -10,15 +10,9 @@
 
 ---
 
-## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes.
- 28.01.2022, _D Lund, N Kieffer, M Parras-Moltó, S Ebmeyer, F Berglund, A Johnning, DGJ Larsson, E Kristiansson_
-
-
-Macrolides are broad-spectrum antibiotics used to treat a range of infections. Resistance to macrolides is often conferred by mobile resistance genes encoding Erm methyltransferases or Mph phosphotransferases. New erm and mph genes keep being discovered in clinical settings but their origins remain unknown, as is the type of macrolide resistance genes that will appear in the future. In this study, we used optimized hidden Markov models to characterize the macrolide resistome. Over 16 terabases of genomic and metagenomic data, representing a large taxonomic diversity (11 030 species) and diverse environments (1944 metagenomic samples), were searched for the presence of erm and mph genes. From this data, we predicted 28 340 macrolide resistance genes encoding 2892 unique protein sequences, which were clustered into 663 gene families (&lt;70 % amino acid identity), of which 619 (94 %) were previously uncharacterized. This included six new resistance gene families, which were located on mobile genetic elements in pathogens. The function of ten predicted new resistance genes were experimentally validated in Escherichia coli using a growth assay. Among the ten tested genes, seven conferred increased resistance to erythromycin, with five genes additionally conferring increased resistance to azithromycin, showing that our models can be used to predict new functional resistance genes. Our analysis also showed that macrolide resistance genes have diverse origins and have transferred horizontally over large phylogenetic distances into human pathogens. This study expands the known macrolide resistome more than ten-fold, provides insights into its evolution, and demonstrates how computational screening can identify new resistance genes before they become a significant clinical problem.
+## Large-scale characterization of the macrolide resistome reveals high diversity and several new pathogen-associated genes
 
 [Source](https://doi.org/10.1099/mgen.0.000770)
-
-10.1099/mgen.0.000770
 
 ---
 
@@ -112,15 +106,9 @@ What is the topic of this review? This review summarises the role of the gut mic
 
 ---
 
-## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling.
- 26.01.2022, _R Weiser, J Oakley, K Ronchetti, JD Tame, S Hoehn, TP Jurkowski, E Mahenthiralingam, JT Forton_
-
-
-Spatial topography of the cystic fibrosis (CF) lung microbiota is poorly understood in childhood. How best to sample the respiratory tract in children for microbiota analysis, and the utility of microbiota profiling in clinical management of early infection remains unclear. By comparison with bronchoalveolar lavage (BAL), we assessed the ability of induced sputum (IS) sampling to characterise the lower airway microbiota.
+## The lung microbiota in children with cystic fibrosis captured by induced sputum sampling
 
 [Source](https://doi.org/10.1016/j.jcf.2022.01.006)
-
-10.1016/j.jcf.2022.01.006
 
 ---
 
@@ -130,15 +118,9 @@ Spatial topography of the cystic fibrosis (CF) lung microbiota is poorly underst
 
 ---
 
-## Effects of a 10-Strain Oral Probiotic on Parameters of Vaginal Health and Microbial Community: A Pilot Clinical Study.
- 28.01.2022, _CJ Martoni, AKS Frederiksen, A Damholt, G Leyer_
-
-
-To investigate the clinical effects of a 10-strain probiotic on parameters of vaginal health in a pilot, open label study in women with intermediate Nugent score (NS) or vaginal pH &gt;4.5.
+## Effects of a 10-Strain Oral Probiotic on Parameters of Vaginal Health and Microbial Community: A Pilot Clinical Study
 
 [Source](https://doi.org/10.2147/IJWH.S341046)
-
-10.2147/IJWH.S341046
 
 ---
 
@@ -180,7 +162,7 @@ Owing to their minimal side effects and effective protection from oxidative stre
 ---
 
 ## Nitrogen recycling via gut symbionts increases in ground squirrels over the hibernation season.
- 27.01.2022, _MD Regan, E Chiang, Y Liu, M Tonelli, KM Verdoorn, SR Gugel, G Suen, HV Carey, FM Assadi-Porter_
+ 01.02.2022, _MD Regan, E Chiang, Y Liu, M Tonelli, KM Verdoorn, SR Gugel, G Suen, HV Carey, FM Assadi-Porter_
 
 
 Hibernation is a mammalian strategy that uses metabolic plasticity to reduce energy demands and enable long-term fasting. Fasting mitigates winter food scarcity but eliminates dietary nitrogen, jeopardizing body protein balance. Here, we reveal gut microbiome-mediated urea nitrogen recycling in hibernating thirteen-lined ground squirrels (Ictidomys tridecemlineatus). Ureolytic gut microbes incorporate urea nitrogen into metabolites that are absorbed by the host, with the nitrogen reincorporated into the squirrel's protein pool. Urea nitrogen recycling is greatest after prolonged fasting in late winter, when urea transporter abundance in gut tissue and urease gene abundance in the microbiome are highest. These results reveal a functional role for the gut microbiome during hibernation and suggest mechanisms by which urea nitrogen recycling may contribute to protein balance in other monogastric animals.
@@ -257,9 +239,15 @@ This study investigated the usefulness of frailty for predicting adverse events 
 
 ---
 
-## Soil microbial community development across a 32-year coastal wetland restoration time series and the relative importance of environmental factors
+## Soil microbial community development across a 32-year coastal wetland restoration time series and the relative importance of environmental factors.
+ 01.02.2022, _KM Abbott, T Quirk, LM Fultz_
+
+
+Soil microbes play key roles in ecosystem functioning through processes such as organic matter decomposition, nutrient and carbon cycling, and regulating vegetation structure and productivity. Coastal marshes are situated at the confluence of terrestrial and marine ecosystems; thus, their soils support abundant and diverse microbiota which facilitate globally important biogeochemical processes including nutrient cycling and greenhouse gas fluxes. With coastal marsh ecosystems threatened by relative sea level rise, subsidence, and development, mitigation for the loss of marshes is becoming commonplace. Despite the widespread implementation of marsh construction projects, little is known about the development and variability of microbial communities in created marshes. For this study, we tested the hypothesis that microbial community composition differs across created marshes of different ages and between created and natural marshes. We also hypothesized that the microbial community would be correlated with soil properties including soil organic carbon and nitrogen content, which were predicted to increase with marsh age. To test these hypotheses, we determined dominant microbial groups and environmental characteristics from six constructed marshes ranging in age from 0 to 32 years old, as well as an adjacent natural marsh. Our results revealed that microbial biomass estimates increased with marsh age except for the high elevation 20-year old marsh, yet each marsh contained a distinct microbial community composition. Across marshes, microbial community composition was significantly related to soil C:N ratio with an increase in total microbial abundance and actinomycetes and GM+ bacteria with an increase in soil C to N ratio. Additionally, shifts in dominant microbial groups were associated with differences in vegetation, elevation, and marsh age. The natural marsh community grouped more closely with younger rather than older marshes suggesting age is less important than environmental conditions. This study shows that microbial communities are not homogenized across restoration sites and do not necessarily converge to be similar to natural marshes over time. Local biotic and environmental conditions were correlated with microbial compositions, yet in seemingly similar conditions, microbial groups also differed. The effect of differences in microbial compositions on ecological functions are yet to be fully understood.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.153359)
+
+10.1016/j.scitotenv.2022.153359
 
 ---
 
