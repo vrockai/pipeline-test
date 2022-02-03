@@ -75,15 +75,9 @@ The respiratory tract is populated by a specialized microbial ecosystem, which i
 
 ---
 
-## A multi-omics approach unravels metagenomic and metabolic alterations of a probiotic and synbiotic additive in rainbow trout (Oncorhynchus mykiss).
- 31.01.2022, _JA Rasmussen, KR Villumsen, M Ernst, M Hansen, T Forberg, S Gopalakrishnan, MTP Gilbert, AM Bojesen, K Kristiansen, MT Limborg_
-
-
-Animal protein production is increasingly looking towards microbiome-associated services such as the design of new and better probiotic solutions to further improve gut health and production sustainability. Here, we investigate the functional effects of bacteria-based pro- and synbiotic feed additives on microbiome-associated functions in relation to growth performance in the commercially important rainbow trout (Oncorhynchus mykiss). We combine complementary insights from multiple omics datasets from gut content samples, including 16S bacterial profiling, whole metagenomes, and untargeted metabolomics, to investigate bacterial metagenome-assembled genomes (MAGs) and their molecular interactions with host metabolism.
+## A multi-omics approach unravels metagenomic and metabolic alterations of a probiotic and synbiotic additive in rainbow trout (Oncorhynchus mykiss) 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01221-8)
-
-10.1186/s40168-021-01221-8
 
 ---
 
