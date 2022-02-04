@@ -1,12 +1,12 @@
-## Genetic characterisation of an Iflavirus associated with a vomiting disease in the Indian Tropical tasar silkworm, Antheraea mylitta.
- 02.02.2022, _KM Ponnuvel, JR de Miranda, O Terenius, W Li, K Ito, D Khajje, G Shamitha, A Jagadish, H Dubey, RK Mishra_
+## Costs, benefits, and cost-benefit of Collaborative Assessment and Management of Suicidality versus enhanced treatment as usual.
+ 03.02.2022, _PK McCutchan, BT Yates, DA Jobes, AH Kerbrat, KA Comtois_
 
 
-Antheraea mylitta, the Tropical tasar silkworm, is frequently affected by a vomiting disease called Virosis by sericulturists although not confirmed being of viral origin. Based on the symptoms and the disease pattern, the causal agent is however suspected to be a virus. The condition involves a series of characteristic and progressive symptoms that generally culminates in the death of the larva. The disease is common in autumn season (Sep- Oct), with widespread distribution causing severe damage to the tasar silkworm industry. The leads for this study were obtained from a transcript identified in the EST database in a different study, which matched the positive strand of Iflavirus, an RNA virus known to infect insects. In the present study the genome of this novel Iflavirus was characterised and the full length of the genome was found to be 9728 nucleotides long encoding for a single large open reading frame (ORF) with flanking NTR regions at 5' and 3' ends and a natural poly A tail at the 3' end. The ORF encoded structural proteins at the N-terminal end and non-structural proteins at the C-terminal end with a predicted 2967 amino acid long polyprotein. The structural proteins consisted of 4 proteins (VP1-VP4) and the non-structural proteins consisted of helicase, RNA-dependent RNA polymerase and 3C-protease. The virus is found in various tissues (midgut, fatbody, trachea, Malpighian tubules and silk gland) and also has a vertical route of transmission, i.e., from gravid females to the offspring. Based on the available data, the virus is a new member of Iflaviridae for which we propose the name Antheraea mylitta Iflavirus (AmIV).
+Suicide rates have been steadily increasing in both the U.S. general population and military, with significant psychological and economic consequences. The purpose of the current study was to examine the economic costs and cost-benefit of the suicide-focused Collaborative Assessment and Management of Suicidality (CAMS) intervention versus enhanced treatment as usual (ETAU) in an active duty military sample using data from a recent randomized controlled trial of CAMS versus ETAU. The full intent-to-treat sample included 148 participants (mean age 26.8 years ± 5.9 SD years, 80% male, 53% White). Using a micro-costing approach, the cost of each condition was calculated at the individual level from a healthcare system perspective. Benefits were estimated at the individual level as cost savings in past-year healthcare expenditures based on direct care reimbursement rates. Cost-benefit was examined in the form of cost-benefit ratios and net benefit. Total costs, benefits, cost-benefit ratios, and net benefit were calculated and analyzed using general linear mixed modeling on multiply imputed datasets. Results indicated that treatment costs did not differ significantly between conditions; however, CAMS was found to produce significantly greater benefit in the form of decreased healthcare expenditures at 6-month follow-up. CAMS also demonstrated significantly greater cost-benefit ratios (i.e., benefit per dollar spent on treatment) and net-benefit (i.e., total benefit less the cost of treatment) at 12-month follow-up. The current study suggests that beyond its clinical effectiveness, CAMS may also convey potential economic advantages over usual care for the treatment of suicidal active duty service members. Our findings demonstrate cost savings in the form of reduced healthcare expenditures, which theoretically represent resources that can be reallocated toward other healthcare system needs, and thus lend support toward the overall value of CAMS.
 
 [Source](https://lebeerlab.com/the-story-behind-latilactobacillus-fragifolii-a-new-bacterial-species-isolated-in-our-lab/)
 
-10.1016/j.virusres.2022.198703
+10.1371/journal.pone.0262592
 
 ---
 
@@ -34,15 +34,15 @@ This paper examines the evidence behind the use and decline of insulin coma ther
 
 ---
 
-## Excessive daytime sleepiness: an emerging marker of cardiovascular risk.
- 01.02.2022, _J Bock, N Covassin, V Somers_
+## Obesity is associated with decreased risk of microscopic colitis in women.
+ 03.02.2022, _RS Sandler, TO Keku, JT Woosley, DP Sandler, JA Galanko, AF Peery_
 
 
-Excessive daytime sleepiness (EDS) is classically viewed as a consequence of insufficient sleep or a symptom of sleep disorders. Epidemiological and clinical evidence have shown that patients reporting EDS in tandem with sleep disorders (e.g., obstructive sleep apnoea) are at greater cardiovascular risk than non-sleepy patients. While this may simply be attributable to EDS being present in patients with a more severe condition, treatment of sleep disorders does not consistently alleviate EDS, indicating potential aetiological differences. Moreover, not all patients with sleep disorders report EDS, and daytime sleepiness may be present even in the absence of any identifiable sleep disorder; thus, EDS could represent an independent pathophysiology. The purpose of this review is twofold: first, to highlight evidence that EDS increases cardiovascular risk in the presence of sleep disorders such as obstructive sleep apnoea, narcolepsy and idiopathic hypersomnia and second, to propose the notion that EDS may also increase cardiovascular risk in the absence of known sleep disorders, as supported by some epidemiological and observational data. We further highlight preliminary evidence suggesting systemic inflammation, which could be attributable to dysfunction of the gut microbiome and adipose tissue, as well as deleterious epigenetic changes, may promote EDS while also increasing cardiovascular risk; however, these pathways may be reciprocal and/or circumstantial. Additionally, gaps within the literature are noted followed by directions for future research.
+Microscopic colitis is a leading cause of diarrhea in the older adults. There is limited information about risk factors. We hypothesized that obesity would be associated with microscopic colitis.
 
 [Source](https://oaepublish.com/mrr/journal/volume_issues_archive/2022/1/163)
 
-10.1136/heartjnl-2021-319596
+10.3748/wjg.v28.i2.230
 
 ---
 
@@ -74,18 +74,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## https://t.co/ue0WMYAmda
 
 [Source](https://t.co/ue0WMYAmda)
-
----
-
-## Outcomes of lung transplantation from organ donation after medical assistance in dying: First North American experience.
- 02.02.2022, _T Watanabe, M Kawashima, M Kohno, J Yeung, J Downar, A Healey, T Martinu, M Aversa, L Donahoe, A Pierre, M de Perrot, K Yasufuku, TK Waddell, S Keshavjee, M Cypel_
-
-
-Over 2.5% of deaths in Canada occur as a result from Medical Assisting in Dying (MAID), and a subset of these deaths result in organ donation. However, detailed outcomes of lung transplant recipients using these donors is lacking. This is a retrospective single center cohort study comparing lung transplantation outcomes after donation using MAID donors compared to neurologically determined death and controlled donation after circulatory death (NDD/cDCD) donors from February 2018 to July 2021. Thirty-three patients received lungs from MAID donors, and 560 patients received lungs from NDD/cDCD donors. The donor diagnoses leading to MAID provision were: degenerative neurological diseases (n=33), and end stage organ failure (n=5). MAID donors were significantly older than NDD/cDCD donors [56 (IQR 49-64) years vs. 48 (32-59); P = .0009]. Median ventilation period and 30 days mortality were not significantly different between MAID and NDD/cDCD lungs recipients (ventilation: 1 day (1-3) vs 2 days (1-3); p=.37, deaths 0% (0/33) vs. 2% (11/560), p=.99 respectively). Intermediate-term outcomes were also similar. In summary, lung transplantation using donors after MAID, recipient outcomes are excellent. Therefore, where this practice is permitted, donation after MAID should be strongly considered for lung transplantation as a way to respect donor wishes while substantially improving outcomes for recipients with end-stage lung disease.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1489279775105552386?ref_src=twsrc%5Etfw)
-
-10.1111/ajt.16971
 
 ---
 
