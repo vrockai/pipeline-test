@@ -137,15 +137,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Diagnostic performance of the fully automated Roche Elecsys SARS-CoV-2 antigen electrochemiluminescence immunoassay: a pooled analysis.
+ 03.02.2022, _G Lippi, BM Henry, K Adeli_
+
+
+Among the diagnostic tests that have recently become commercially available for diagnosing coronavirus disease 2019 (COVID-19), the fully-automated Roche Elecsys severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antigen electrochemiluminescence immunoassay (ECLIA) is one of the most widespread for its adaptability within a system of laboratory automation, rapidity and high-throughput. This article is aimed to provide the results of the first pooled analysis of its accuracy for diagnosing SARS-CoV-2 infections.
+
+[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
+
+10.1515/cclm-2022-0053
+
+---
+
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
+ 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
+
+
+Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
+
+10.1371/journal.pone.0262806
 
 ---
 
