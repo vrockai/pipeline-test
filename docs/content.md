@@ -137,33 +137,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Diagnostic performance of the fully automated Roche Elecsys SARS-CoV-2 antigen electrochemiluminescence immunoassay: a pooled analysis.
- 03.02.2022, _G Lippi, BM Henry, K Adeli_
-
-
-Among the diagnostic tests that have recently become commercially available for diagnosing coronavirus disease 2019 (COVID-19), the fully-automated Roche Elecsys severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antigen electrochemiluminescence immunoassay (ECLIA) is one of the most widespread for its adaptability within a system of laboratory automation, rapidity and high-throughput. This article is aimed to provide the results of the first pooled analysis of its accuracy for diagnosing SARS-CoV-2 infections.
-
-[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
-
-10.1515/cclm-2022-0053
-
----
-
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
- 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
-
-
-Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
-
-10.1371/journal.pone.0262806
 
 ---
 
@@ -347,15 +329,33 @@ Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As mos
 
 ---
 
+## Is Cell-free fetal DNA testing a safe option for women in a high-risk population after combined first-trimester testing?
+ 03.02.2022, _M Dap, L Caffin, E Perdriolle-Galet, C Bonnet, O Morel_
+
+
+Our study aimed to examine the relevance of cell-free fetal DNA (cfDNA) testing on the screening of chromosomal defects and the issue of pregnancies in patients with a risk over 1:50 after the first-trimester combined test.
+
+[Source](https://twitter.com/svetlana_up/status/1484325769505808387?ref_src=twsrc%5Etfw)
+
+10.1016/j.jogoh.2022.102329
+
+---
+
 ## January 21, 2022
 
 [Source](https://twitter.com/svetlana_up/status/1484325769505808387?ref_src=twsrc%5Etfw)
 
 ---
 
-## Phylogenetic analysis and antimicrobial susceptibility profile of uropathogens
+## Phylogenetic analysis and antimicrobial susceptibility profile of uropathogens.
+ 01.02.2022, _H Ullah, K Bashir, M Idrees, A Ullah, N Hassan, S Khan, B Nasir, T Nadeem, H Ahsan, MI Khan, Q Ali, S Muhammad, M Afzal_
+
+
+The uropathogens is the main cause of urinary tract infection (UTI). The aim of the study was to isolate bacteria from urine samples of UTI patients and find out the susceptibility of isolated bacteria. Bacteria were identified using both conventional and molecular methods. Sanger sequence procedure used for 16S ribosomal RNA and phylogenetic analysis was performed using Molecular Evolutionary Genetics Analysis (MEGA-7) software. In this study, Escherichia coli, Klebsiella pneumonia, Staphylococcus were reported as 58, 28 and 14.0% respectively. Phylogenetic tree revealed that 99% of sample No. Ai (05) is closely related to E. coli to (NR 114042.1 E. coli strain NBRC 102203). Aii (23) is 99% similar to K. pneumoniae to (NR 117686.1 K. pneumonia strain DSM 30104) and 90% Bi (48) is closely linked to S. aureus to (NR 113956.1 S. aureus strain NBRC 100910). The antibiotic susceptibility of E. coli recorded highest resistance towards ampicillin (90%) and least resistant to ofloxacin (14%). Some of the other antibiotics such amoxicillin, ciprofloxacin, gentamicin, ceftazidime, cefuroxime and nitrofurantoin resistance were observed 86, 62, 24, 55, 48 and 35% respectively. The cefuroxime showed the highest antibiotic resistance against K. pneumoniae with 85% followed by amoxicillin, ciprofloxacin, gentamicin, ceftazidime, ampicillin and nitrofurantoin resulted in 60, 45, 67, 70, 75 and 30% respectively. The resistance of S. aureus against erythromycin, cefuroxime and ampicillin were found with 72%. The resistance against amoxicillin, gentamicin, ceftazidime and ceftriaxone found 57, 43, 43 and 15% respectively. Phylogenetic analysis shows that sequences are closely related with the reference sequences and E. coli is the dominant bacteria among UTI patients and is resistant to the commercially available antibiotics.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262952)
+
+10.1371/journal.pone.0262952
 
 ---
 
