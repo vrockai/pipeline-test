@@ -1,12 +1,12 @@
-## Costs, benefits, and cost-benefit of Collaborative Assessment and Management of Suicidality versus enhanced treatment as usual.
- 03.02.2022, _PK McCutchan, BT Yates, DA Jobes, AH Kerbrat, KA Comtois_
+## The SAMBA tool uses long reads to improve the contiguity of genome assemblies.
+ 04.02.2022, _AV Zimin, SL Salzberg_
 
 
-Suicide rates have been steadily increasing in both the U.S. general population and military, with significant psychological and economic consequences. The purpose of the current study was to examine the economic costs and cost-benefit of the suicide-focused Collaborative Assessment and Management of Suicidality (CAMS) intervention versus enhanced treatment as usual (ETAU) in an active duty military sample using data from a recent randomized controlled trial of CAMS versus ETAU. The full intent-to-treat sample included 148 participants (mean age 26.8 years ± 5.9 SD years, 80% male, 53% White). Using a micro-costing approach, the cost of each condition was calculated at the individual level from a healthcare system perspective. Benefits were estimated at the individual level as cost savings in past-year healthcare expenditures based on direct care reimbursement rates. Cost-benefit was examined in the form of cost-benefit ratios and net benefit. Total costs, benefits, cost-benefit ratios, and net benefit were calculated and analyzed using general linear mixed modeling on multiply imputed datasets. Results indicated that treatment costs did not differ significantly between conditions; however, CAMS was found to produce significantly greater benefit in the form of decreased healthcare expenditures at 6-month follow-up. CAMS also demonstrated significantly greater cost-benefit ratios (i.e., benefit per dollar spent on treatment) and net-benefit (i.e., total benefit less the cost of treatment) at 12-month follow-up. The current study suggests that beyond its clinical effectiveness, CAMS may also convey potential economic advantages over usual care for the treatment of suicidal active duty service members. Our findings demonstrate cost savings in the form of reduced healthcare expenditures, which theoretically represent resources that can be reallocated toward other healthcare system needs, and thus lend support toward the overall value of CAMS.
+Third-generation sequencing technologies can generate very long reads with relatively high error rates. The lengths of the reads, which sometimes exceed one million bases, make them invaluable for resolving complex repeats that cannot be assembled using shorter reads. Many high-quality genome assemblies have already been produced, curated, and annotated using the previous generation of sequencing data, and full re-assembly of these genomes with long reads is not always practical or cost-effective. One strategy to upgrade existing assemblies is to generate additional coverage using long-read data, and add that to the previously assembled contigs. SAMBA is a tool that is designed to scaffold and gap-fill existing genome assemblies with additional long-read data, resulting in substantially greater contiguity. SAMBA is the only tool of its kind that also computes and fills in the sequence for all spanned gaps in the scaffolds, yielding much longer contigs. Here we compare SAMBA to several similar tools capable of re-scaffolding assemblies using long-read data, and we show that SAMBA yields better contiguity and introduces fewer errors than competing methods. SAMBA is open-source software that is distributed at https://github.com/alekseyzimin/masurca.
 
 [Source](https://lebeerlab.com/the-story-behind-latilactobacillus-fragifolii-a-new-bacterial-species-isolated-in-our-lab/)
 
-10.1371/journal.pone.0262592
+10.1371/journal.pcbi.1009860
 
 ---
 
@@ -34,16 +34,15 @@ This paper examines the evidence behind the use and decline of insulin coma ther
 
 ---
 
-## Obesity is associated with decreased risk of microscopic colitis in women.
- 04.02.2022, _RS Sandler, TO Keku, JT Woosley, DP Sandler, JA Galanko, AF Peery_
+## Does microbiome shift play a role in carcinogenesis? A systematic review.
+ 04.02.2022, _L Mallika, D Augustine, RS Rao, S Patil, AWH Alamir, KH Awan, SV Sowmya, VC Haragannavar, K Prasad_
 
 
-_Aged, Body Mass Index, Case-Control Studies, Colitis, Microscopic, Female, Humans, Male, Obesity, Risk Factors_
-Microscopic colitis is a leading cause of diarrhea in the older adults. There is limited information about risk factors. We hypothesized that obesity would be associated with microscopic colitis.
+Recent scientific advances have presented substantial evidence that there is a multifaceted relationship between the microbiome and cancer. Humans are hosts to multifarious microbial communities, and these resident microbes contribute to both health and disease. Circulating toxic metabolites from these resident microbes may contribute to the development and progression of cancer. The aim of this systematic review was to evaluate microbiome and microbial shift contribution to the development and progression of cancer. This systematic review provides an analytical presentation of the evidence linking various parts of the microbiota to cancer. Searches were performed in databases such as PubMed, Google Scholar, Scopus, EBSCO, E-Journals and Science Direct from the time of their establishment until May 2018 with the following search terms: cancer or human microbe or cancer and human microbiome AND shift in microbes in cancer. The merged data were assessed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Cochrane's Risk of Bias Tool was used to assess the bias. Initially, 2,691 articles were identified, out of which 60 full-text articles were screened and re-evaluated. Among them, 14 were excluded based on inclusion/exclusion criteria; eventually, 46 articles were included in the systematic review. The reports of 46 articles revealed that microbial shift involving Candida species, Fusobacterium nucleatum, Porphyromonas gingivalis, Helicobacter pylori and Human papilloma virus (HPV) 16 &amp; 18 were most commonly involved in various human cancers. In particular, organisms, such as Candida albicans, Fusobacterium nucleatum, Porphyromonas gingivalis and HPV-16 were found to be more prevalent in oral cancer. The present systematic review emphasizes that the role and diverse contributions of the microbiome in carcinogenesis will provide opportunities for the development of effective diagnostic and preventive methods.
 
 [Source](https://oaepublish.com/mrr/journal/volume_issues_archive/2022/1/163)
 
-10.3748/wjg.v28.i2.230
+10.21037/tcr.2020.02.11
 
 ---
 
@@ -138,33 +137,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Diagnostic performance of the fully automated Roche Elecsys SARS-CoV-2 antigen electrochemiluminescence immunoassay: a pooled analysis.
- 03.02.2022, _G Lippi, BM Henry, K Adeli_
-
-
-Among the diagnostic tests that have recently become commercially available for diagnosing coronavirus disease 2019 (COVID-19), the fully-automated Roche Elecsys severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) antigen electrochemiluminescence immunoassay (ECLIA) is one of the most widespread for its adaptability within a system of laboratory automation, rapidity and high-throughput. This article is aimed to provide the results of the first pooled analysis of its accuracy for diagnosing SARS-CoV-2 infections.
-
-[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
-
-10.1515/cclm-2022-0053
-
----
-
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
- 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
-
-
-Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
-
-10.1371/journal.pone.0262806
 
 ---
 
@@ -438,21 +419,45 @@ Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As mos
 
 ---
 
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
+ 28.01.2022, _ER Hyde, H Lozano, S Cox_
+
+
+Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261820)
 
+10.1371/journal.pone.0261820
+
 ---
 
-## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions
+## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions.
+ 04.02.2022, _S Bellais, M Nehlich, M Ania, A Duquenoy, W Mazier, G van den Engh, J Baijer, NS Treichel, T Clavel, I Belotserkovsky, V Thomas_
+
+
+There is a growing interest in using gut commensal bacteria as "next generation" probiotics. However, this approach is still hampered by the fact that there are few or no strains available for specific species that are difficult to cultivate. Our objective was to adapt flow cytometry and cell sorting to be able to detect, separate, isolate, and cultivate new strains of commensal species from fecal material. We focused on the extremely oxygen sensitive (EOS) species Faecalibacterium prausnitzii and the under-represented, health-associated keystone species Christensenella minuta as proof-of-concept.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01206-7)
+
+10.1186/s40168-021-01206-7
 
 ---
 
 ## Evaluation of taxonomic profiling methods for long-read shotgun metagenomic sequencing datasets
 
 [Source](https://www.biorxiv.org/content/10.1101/2022.01.31.478527v1)
+
+---
+
+## Interactions between strains govern the eco-evolutionary dynamics of microbial communities.
+ 04.02.2022, _A Goyal, LS Bittleston, GE Leventhal, L Lu, O Cordero_
+
+
+Genomic data has revealed that genotypic variants of the same species, i.e., strains, coexist and are abundant in natural microbial communities. However, it is not clear if strains are ecologically equivalent, and at what characteristic genetic distance they might exhibit distinct interactions and dynamics. Here, we address this problem by tracking 10 taxonomically diverse microbial communities from the pitcher plant Sarracenia purpurea in the laboratory for more than 300 generations. Using metagenomic sequencing, we reconstruct their dynamics over time and across scales, from distant phyla to closely related genotypes. We find that most strains are not ecologically equivalent and exhibit distinct dynamical patterns, often being significantly more correlated with strains from another species than their own. Although even a single mutation can affect laboratory strains, on average, natural strains typically decouple in their dynamics beyond a genetic distance of 100 base pairs. Using mathematical consumer-resource models, we show that these taxonomic patterns emerge naturally from ecological interactions between community members, but only if the interactions are coarse-grained at the level of strains, not species. Finally, by analyzing genomic differences between strains, we identify major functional hubs such as transporters, regulators, and carbohydrate-catabolizing enzymes, which might be the basis for strain-specific interactions. Our work suggests that fine-scale genetic differences in natural communities could be created and stabilized via the rapid diversification of ecological interactions between strains.
+
+[Source](https://twitter.com/hashtag/metagenomic?src=hash&ref_src=twsrc%5Etfw)
+
+10.7554/eLife.74987
 
 ---
 
@@ -465,6 +470,18 @@ Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As mos
 ## @PacBio
 
 [Source](https://twitter.com/PacBio?ref_src=twsrc%5Etfw)
+
+---
+
+## The roles of recombination and selection in shaping genomic divergence in an incipient ecological species complex.
+ 04.02.2022, _MJ Wersebe, RE Sherman, PD Jeyasingh, LJ Weider_
+
+
+Speciation genomic studies have revealed that genomes of diverging lineages are shaped jointly by the actions of gene flow and selection. These evolutionary forces acting in concert with processes such as recombination and genome features such as gene density shape a mosaic landscape of divergence. We investigated the roles of recombination and gene density in shaping the patterns of differentiation and divergence between the cyclically parthenogenetic ecological sister-taxa, Daphnia pulicaria and Daphnia pulex. First, we assembled a phased chromosome-scale genome assembly using trio-binning for D. pulicaria and constructed a genetic map using an F2-intercross panel to understand sex-specific recombination rate heterogeneity. Finally, we used a ddRADseq dataset with broad geographic sampling of D. pulicaria, D. pulex, and their hybrids to understand the patterns of genome-scale divergence and demographic parameters. Our study provides the first sex-specific estimates of recombination rates for a cyclical parthenogen, and unlike other eukaryotic species, we observed male-biased heterochiasmy in D. pulicaria, which may be related to this somewhat unique breeding mode. Additionally, regions of high gene density and recombination are generally more divergent than regions of suppressed recombination. Outlier analysis indicated that divergent genomic regions are likely driven by selection on D. pulicaria, the derived lineage colonizing a novel lake habitat. Together, our study supports a scenario of selection acting on genes related to local adaptation shaping genome-wide patterns of differentiation despite high local recombination rates in this species complex. Finally, we discuss the limitations of our data in light of demographic uncertainty.
+
+[Source](https://twitter.com/hashtag/HiFi?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/mec.16383
 
 ---
 
