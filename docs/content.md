@@ -137,33 +137,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Drug Combinations for Mood Disorders and Physical Comorbidities That Need Attention: A Cross-Sectional National Database Survey.
- 04.02.2022, _S Kuramochi, T Yatomi, T Uchida, H Takeuchi, M Mimura, H Uchida_
-
-
-This study investigated combined prescriptions of drugs for mood disorders and physical comorbidities that need special attention in the light of frequent physical comorbidities in patients with mood disorders.
-
-[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
-
-10.1055/a-1744-6582
-
----
-
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
- 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
-
-
-Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
-
-10.1371/journal.pone.0262806
 
 ---
 
@@ -263,33 +245,9 @@ Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As mos
 
 ---
 
-## Drug Combinations for Mood Disorders and Physical Comorbidities That Need Attention: A Cross-Sectional National Database Survey.
- 04.02.2022, _S Kuramochi, T Yatomi, T Uchida, H Takeuchi, M Mimura, H Uchida_
-
-
-This study investigated combined prescriptions of drugs for mood disorders and physical comorbidities that need special attention in the light of frequent physical comorbidities in patients with mood disorders.
-
-[Source](https://twitter.com/benjaminhgood/status/1488292593985146882?ref_src=twsrc%5Etfw)
-
-10.1055/a-1744-6582
-
----
-
 ## January 31, 2022
 
 [Source](https://twitter.com/benjaminhgood/status/1488292593985146882?ref_src=twsrc%5Etfw)
-
----
-
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
- 28.01.2022, _ER Hyde, H Lozano, S Cox_
-
-
-Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
-
-[Source](https://www.nature.com/articles/s41579-021-00667-9)
-
-10.1371/journal.pone.0261820
 
 ---
 
@@ -443,45 +401,21 @@ The gut microbiota is now considered as one of the key elements contributing to 
 
 ---
 
-## Treating Insulin Resistance With Metformin as a Strategy to Improve Clinical Outcomes in Treatment-Resistant Bipolar Depression (the TRIO-BD Study): A Randomized, Quadruple-Masked, Placebo-Controlled Clinical Trial.
- 04.02.2022, _CV Calkin, KNR Chengappa, K Cairns, J Cookey, J Gannon, M Alda, C O'Donovan, C Reardon, M Sanches, M Růzicková_
-
-
-Objective: Therapeutic options are limited for treatment-resistant bipolar depression (TRBD). Insulin resistance (IR) confers increased risk for TRBD. We investigated metformin, an insulin sensitizer, to reverse IR and improve clinical outcomes in TRBD.
-
-[Source](https://twitter.com/MalekMarian1/status/1488817503484751873?ref_src=twsrc%5Etfw)
-
-10.4088/JCP.21m14022
-
----
-
 ## February 2, 2022
 
 [Source](https://twitter.com/MalekMarian1/status/1488817503484751873?ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut microbiome of the largest living rodent harbors unprecedented enzymatic systems to degrade plant polysaccharides.
- 03.02.2022, _L Cabral, GF Persinoti, DAA Paixão, MP Martins, MAB Morais, M Chinaglia, MN Domingues, ML Sforca, RAS Pirolla, WC Generoso, CA Santos, LF Maciel, N Terrapon, V Lombard, B Henrissat, MT Murakami_
-
-
-The largest living rodent, capybara, can efficiently depolymerize and utilize lignocellulosic biomass through microbial symbiotic mechanisms yet elusive. Herein, we elucidate the microbial community composition, enzymatic systems and metabolic pathways involved in the conversion of dietary fibers into short-chain fatty acids, a main energy source for the host. In this microbiota, the unconventional enzymatic machinery from Fibrobacteres seems to drive cellulose degradation, whereas a diverse set of carbohydrate-active enzymes from Bacteroidetes, organized in polysaccharide utilization loci, are accounted to tackle complex hemicelluloses typically found in gramineous and aquatic plants. Exploring the genetic potential of this community, we discover a glycoside hydrolase family of β-galactosidases (named as GH173), and a carbohydrate-binding module family (named as CBM89) involved in xylan binding that establishes an unprecedented three-dimensional fold among associated modules to carbohydrate-active enzymes. Together, these results demonstrate how the capybara gut microbiota orchestrates the depolymerization and utilization of plant fibers, representing an untapped reservoir of enzymatic mechanisms to overcome the lignocellulose recalcitrance, a central challenge toward a sustainable and bio-based economy.
+## Gut microbiome of the largest living rodent harbors unprecedented enzymatic systems to degrade plant polysaccharides
 
 [Source](https://www.nature.com/articles/s41467-022-28310-y)
 
-10.1038/s41467-022-28310-y
-
 ---
 
-## Pesticide-induced disturbances of bee gut microbiotas.
- 02.02.2022, _MZ Hotchkiss, AJ Poulain, JRK Forrest_
-
-
-Social bee gut microbiotas play key roles in host health and performance. Worryingly, a growing body of literature shows that pesticide exposure can disturb these microbiotas. Most studies examine changes in taxonomic composition in Western honey bee (Apis mellifera) gut microbiotas caused by insecticide exposure. Core bee gut microbiota taxa shift in abundance after exposure but are rarely eliminated, with declines in Bifidobacteriales and Lactobacillus near melliventris abundance being the most common shifts. Pesticide concentration, exposure duration, season and concurrent stressors all influence whether and how bee gut microbiotas are disturbed. Also, the mechanism of disturbance-i.e. whether a pesticide directly affects microbial growth or indirectly affects the microbiota by altering host health-likely affects disturbance consistency. Despite growing interest in this topic, important questions remain unanswered. Specifically, metabolic shifts in bee gut microbiotas remain largely uninvestigated, as do effects of pesticide-disturbed gut microbiotas on bee host performance. Furthermore, few bee species have been studied other than A. mellifera, and few herbicides and fungicides have been examined. We call for these knowledge gaps to be addressed so that we may obtain a comprehensive picture of how pesticides alter bee gut microbiotas, and of the functional consequences of these changes.
+## Pesticide-induced disturbances of bee gut microbiotas 
 
 [Source](https://academic.oup.com/femsre/advance-article-abstract/doi/10.1093/femsre/fuab056/6517452)
-
-10.1093/femsre/fuab056
 
 ---
 
@@ -491,27 +425,15 @@ Social bee gut microbiotas play key roles in host health and performance. Worryi
 
 ---
 
-## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency.
- 02.02.2022, _L Liu, Q Fu, T Li, K Shao, X Zhu, Y Cong, X Zhao_
-
-
-The incidence of nonalcoholic fatty liver disease (NAFLD) in postmenopausal women has increased significantly. Estrogen plays a very important role in NAFLD, but whether NAFLD in premenopausal women was caused by estrogen deficiency was unknown. Thus, it is of great clinical significance to explore the mechanism of NAFLD in premenopausal women. Gut microbiota and its metabolites short chain fatty acids (SCFA) have been shown to play important roles in the development of NAFLD. In this study, we investigated the impact of gut microbiota and SCFA in NAFLD patients and mice caused by estrogen deficiency. We showed that premenopause NAFLD patients had much lower estrogen levels. Estrogen deficient mice, due to ovariectomy (OVX), suffered more severe liver steatosis with an elevated body weight, abdominal fat weight, serum triglycerides and deterioration in hepatic steatosis. Altered gut microbiota composition and decreased butyrate content were found in NAFLD patients and in OVX mice. Furthermore, fecal microbiota transplantation (FMT) or supplementing with butyrate alleviated NAFLD in OVX mice. The production of antimicrobial peptides (AMP) Reg3ɣ, β-defensins and the expression of intestinal epithelial tight junction, including ZO-1 and Occluding-5, were decreased in the OVX mice compared to control mice. Upregulation of PPAR-ɣ and VLDLR, downregulation of PPAR-ɑ indicated that OVX mice suffered from abnormal lipid metabolism. These data indicate that changes in the gut microbiota and SCFA caused by estrogen reduction, together with a disorder in AMP production and lipid metabolism, promote NAFLD, thus provide SCFAs derived from microbiota as new therapeutic targets for the clinical prevention and treatment of NAFLD.
+## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262855)
 
-10.1371/journal.pone.0262855
-
 ---
 
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
- 28.01.2022, _ER Hyde, H Lozano, S Cox_
-
-
-Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261820)
-
-10.1371/journal.pone.0261820
 
 ---
 
