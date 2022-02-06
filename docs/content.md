@@ -35,7 +35,7 @@ This paper examines the evidence behind the use and decline of insulin coma ther
 ---
 
 ## Does microbiome shift play a role in carcinogenesis? A systematic review.
- 04.02.2022, _L Mallika, D Augustine, RS Rao, S Patil, AWH Alamir, KH Awan, SV Sowmya, VC Haragannavar, K Prasad_
+ 05.02.2022, _L Mallika, D Augustine, RS Rao, S Patil, AWH Alamir, KH Awan, SV Sowmya, VC Haragannavar, K Prasad_
 
 
 Recent scientific advances have presented substantial evidence that there is a multifaceted relationship between the microbiome and cancer. Humans are hosts to multifarious microbial communities, and these resident microbes contribute to both health and disease. Circulating toxic metabolites from these resident microbes may contribute to the development and progression of cancer. The aim of this systematic review was to evaluate microbiome and microbial shift contribution to the development and progression of cancer. This systematic review provides an analytical presentation of the evidence linking various parts of the microbiota to cancer. Searches were performed in databases such as PubMed, Google Scholar, Scopus, EBSCO, E-Journals and Science Direct from the time of their establishment until May 2018 with the following search terms: cancer or human microbe or cancer and human microbiome AND shift in microbes in cancer. The merged data were assessed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Cochrane's Risk of Bias Tool was used to assess the bias. Initially, 2,691 articles were identified, out of which 60 full-text articles were screened and re-evaluated. Among them, 14 were excluded based on inclusion/exclusion criteria; eventually, 46 articles were included in the systematic review. The reports of 46 articles revealed that microbial shift involving Candida species, Fusobacterium nucleatum, Porphyromonas gingivalis, Helicobacter pylori and Human papilloma virus (HPV) 16 &amp; 18 were most commonly involved in various human cancers. In particular, organisms, such as Candida albicans, Fusobacterium nucleatum, Porphyromonas gingivalis and HPV-16 were found to be more prevalent in oral cancer. The present systematic review emphasizes that the role and diverse contributions of the microbiome in carcinogenesis will provide opportunities for the development of effective diagnostic and preventive methods.
@@ -257,27 +257,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Multimodal interactions of drugs, natural compounds and pollutants with the gut microbiota.
- 01.02.2022, _AE Lindell, M Zimmermann-Kogadeeva, KR Patil_
-
-
-The gut microbiota contributes to diverse aspects of host physiology, ranging from immunomodulation to drug metabolism. Changes in the gut microbiota composition are associated with various diseases as well as with the response to medications. It is therefore important to understand how different lifestyle and environmental factors shape gut microbiota composition. Beyond the commonly considered factor of diet, small-molecule drugs have recently been identified as major effectors of the microbiota composition. Other xenobiotics, such as environmental or chemical pollutants, can also impact gut bacterial communities. Here, we review the mechanisms of interactions between gut bacteria and antibiotics, host-targeted drugs, natural food compounds, food additives and environmental pollutants. While xenobiotics can impact bacterial growth and metabolism, bacteria in turn can bioaccumulate or chemically modify these compounds. These reciprocal interactions can manifest in complex xenobiotic-microbiota-host relationships. Our Review highlights the need to study mechanisms underlying interactions with pollutants and food additives towards deciphering the dynamics and evolution of the gut microbiota.
+## Multimodal interactions of drugs, natural compounds and pollutants with the gut microbiota
 
 [Source](https://www.nature.com/articles/s41579-022-00681-5.epdf)
 
-10.1038/s41579-022-00681-5
-
 ---
 
-## Gut microbiome and health: mechanistic insights.
- 02.02.2022, _WM de Vos, H Tilg, M Van Hul, PD Cani_
-
-
-The gut microbiota is now considered as one of the key elements contributing to the regulation of host health. Virtually all our body sites are colonised by microbes suggesting different types of crosstalk with our organs. Because of the development of molecular tools and techniques (ie, metagenomic, metabolomic, lipidomic, metatranscriptomic), the complex interactions occurring between the host and the different microorganisms are progressively being deciphered. Nowadays, gut microbiota deviations are linked with many diseases including obesity, type 2 diabetes, hepatic steatosis, intestinal bowel diseases (IBDs) and several types of cancer. Thus, suggesting that various pathways involved in immunity, energy, lipid and glucose metabolism are affected.In this review, specific attention is given to provide a critical evaluation of the current understanding in this field. Numerous molecular mechanisms explaining how gut bacteria might be causally linked with the protection or the onset of diseases are discussed. We examine well-established metabolites (ie, short-chain fatty acids, bile acids, trimethylamine N-oxide) and extend this to more recently identified molecular actors (ie, endocannabinoids, bioactive lipids, phenolic-derived compounds, advanced glycation end products and enterosynes) and their specific receptors such as peroxisome proliferator-activated receptor alpha (PPARα) and gamma (PPARγ), aryl hydrocarbon receptor (AhR), and G protein-coupled receptors (ie, GPR41, GPR43, GPR119, Takeda G protein-coupled receptor 5).Altogether, understanding the complexity and the molecular aspects linking gut microbes to health will help to set the basis for novel therapies that are already being developed.
+## Gut microbiome and health: mechanistic insights
 
 [Source](https://gut.bmj.com/content/gutjnl/early/2022/01/31/gutjnl-2021-326789.full.pdf)
-
-10.1136/gutjnl-2021-326789
 
 ---
 
@@ -437,33 +425,15 @@ The gut microbiota is now considered as one of the key elements contributing to 
 
 ---
 
-## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions.
- 04.02.2022, _S Bellais, M Nehlich, M Ania, A Duquenoy, W Mazier, G van den Engh, J Baijer, NS Treichel, T Clavel, I Belotserkovsky, V Thomas_
-
-
-There is a growing interest in using gut commensal bacteria as "next generation" probiotics. However, this approach is still hampered by the fact that there are few or no strains available for specific species that are difficult to cultivate. Our objective was to adapt flow cytometry and cell sorting to be able to detect, separate, isolate, and cultivate new strains of commensal species from fecal material. We focused on the extremely oxygen sensitive (EOS) species Faecalibacterium prausnitzii and the under-represented, health-associated keystone species Christensenella minuta as proof-of-concept.
+## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01206-7)
-
-10.1186/s40168-021-01206-7
 
 ---
 
 ## Evaluation of taxonomic profiling methods for long-read shotgun metagenomic sequencing datasets
 
 [Source](https://www.biorxiv.org/content/10.1101/2022.01.31.478527v1)
-
----
-
-## Interactions between strains govern the eco-evolutionary dynamics of microbial communities.
- 04.02.2022, _A Goyal, LS Bittleston, GE Leventhal, L Lu, O Cordero_
-
-
-Genomic data has revealed that genotypic variants of the same species, i.e., strains, coexist and are abundant in natural microbial communities. However, it is not clear if strains are ecologically equivalent, and at what characteristic genetic distance they might exhibit distinct interactions and dynamics. Here, we address this problem by tracking 10 taxonomically diverse microbial communities from the pitcher plant Sarracenia purpurea in the laboratory for more than 300 generations. Using metagenomic sequencing, we reconstruct their dynamics over time and across scales, from distant phyla to closely related genotypes. We find that most strains are not ecologically equivalent and exhibit distinct dynamical patterns, often being significantly more correlated with strains from another species than their own. Although even a single mutation can affect laboratory strains, on average, natural strains typically decouple in their dynamics beyond a genetic distance of 100 base pairs. Using mathematical consumer-resource models, we show that these taxonomic patterns emerge naturally from ecological interactions between community members, but only if the interactions are coarse-grained at the level of strains, not species. Finally, by analyzing genomic differences between strains, we identify major functional hubs such as transporters, regulators, and carbohydrate-catabolizing enzymes, which might be the basis for strain-specific interactions. Our work suggests that fine-scale genetic differences in natural communities could be created and stabilized via the rapid diversification of ecological interactions between strains.
-
-[Source](https://twitter.com/hashtag/metagenomic?src=hash&ref_src=twsrc%5Etfw)
-
-10.7554/eLife.74987
 
 ---
 
@@ -476,18 +446,6 @@ Genomic data has revealed that genotypic variants of the same species, i.e., str
 ## @PacBio
 
 [Source](https://twitter.com/PacBio?ref_src=twsrc%5Etfw)
-
----
-
-## The roles of recombination and selection in shaping genomic divergence in an incipient ecological species complex.
- 04.02.2022, _MJ Wersebe, RE Sherman, PD Jeyasingh, LJ Weider_
-
-
-Speciation genomic studies have revealed that genomes of diverging lineages are shaped jointly by the actions of gene flow and selection. These evolutionary forces acting in concert with processes such as recombination and genome features such as gene density shape a mosaic landscape of divergence. We investigated the roles of recombination and gene density in shaping the patterns of differentiation and divergence between the cyclically parthenogenetic ecological sister-taxa, Daphnia pulicaria and Daphnia pulex. First, we assembled a phased chromosome-scale genome assembly using trio-binning for D. pulicaria and constructed a genetic map using an F2-intercross panel to understand sex-specific recombination rate heterogeneity. Finally, we used a ddRADseq dataset with broad geographic sampling of D. pulicaria, D. pulex, and their hybrids to understand the patterns of genome-scale divergence and demographic parameters. Our study provides the first sex-specific estimates of recombination rates for a cyclical parthenogen, and unlike other eukaryotic species, we observed male-biased heterochiasmy in D. pulicaria, which may be related to this somewhat unique breeding mode. Additionally, regions of high gene density and recombination are generally more divergent than regions of suppressed recombination. Outlier analysis indicated that divergent genomic regions are likely driven by selection on D. pulicaria, the derived lineage colonizing a novel lake habitat. Together, our study supports a scenario of selection acting on genes related to local adaptation shaping genome-wide patterns of differentiation despite high local recombination rates in this species complex. Finally, we discuss the limitations of our data in light of demographic uncertainty.
-
-[Source](https://twitter.com/hashtag/HiFi?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/mec.16383
 
 ---
 
