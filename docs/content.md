@@ -407,9 +407,15 @@ The largest living rodent, capybara, can efficiently depolymerize and utilize li
 
 ---
 
-## Pesticide-induced disturbances of bee gut microbiotas 
+## Pesticide-induced disturbances of bee gut microbiotas.
+ 02.02.2022, _MZ Hotchkiss, AJ Poulain, JRK Forrest_
+
+
+Social bee gut microbiotas play key roles in host health and performance. Worryingly, a growing body of literature shows that pesticide exposure can disturb these microbiotas. Most studies examine changes in taxonomic composition in Western honey bee (Apis mellifera) gut microbiotas caused by insecticide exposure. Core bee gut microbiota taxa shift in abundance after exposure but are rarely eliminated, with declines in Bifidobacteriales and Lactobacillus near melliventris abundance being the most common shifts. Pesticide concentration, exposure duration, season and concurrent stressors all influence whether and how bee gut microbiotas are disturbed. Also, the mechanism of disturbance-i.e. whether a pesticide directly affects microbial growth or indirectly affects the microbiota by altering host health-likely affects disturbance consistency. Despite growing interest in this topic, important questions remain unanswered. Specifically, metabolic shifts in bee gut microbiotas remain largely uninvestigated, as do effects of pesticide-disturbed gut microbiotas on bee host performance. Furthermore, few bee species have been studied other than A. mellifera, and few herbicides and fungicides have been examined. We call for these knowledge gaps to be addressed so that we may obtain a comprehensive picture of how pesticides alter bee gut microbiotas, and of the functional consequences of these changes.
 
 [Source](https://academic.oup.com/femsre/advance-article-abstract/doi/10.1093/femsre/fuab056/6517452)
+
+10.1093/femsre/fuab056
 
 ---
 
