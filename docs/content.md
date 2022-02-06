@@ -34,15 +34,15 @@ This paper examines the evidence behind the use and decline of insulin coma ther
 
 ---
 
-## Does microbiome shift play a role in carcinogenesis? A systematic review.
- 05.02.2022, _L Mallika, D Augustine, RS Rao, S Patil, AWH Alamir, KH Awan, SV Sowmya, VC Haragannavar, K Prasad_
+## Dynamic of the human gut microbiome under infectious diarrhea.
+ 05.02.2022, _H Chung The, SH Le_
 
 
-Recent scientific advances have presented substantial evidence that there is a multifaceted relationship between the microbiome and cancer. Humans are hosts to multifarious microbial communities, and these resident microbes contribute to both health and disease. Circulating toxic metabolites from these resident microbes may contribute to the development and progression of cancer. The aim of this systematic review was to evaluate microbiome and microbial shift contribution to the development and progression of cancer. This systematic review provides an analytical presentation of the evidence linking various parts of the microbiota to cancer. Searches were performed in databases such as PubMed, Google Scholar, Scopus, EBSCO, E-Journals and Science Direct from the time of their establishment until May 2018 with the following search terms: cancer or human microbe or cancer and human microbiome AND shift in microbes in cancer. The merged data were assessed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Cochrane's Risk of Bias Tool was used to assess the bias. Initially, 2,691 articles were identified, out of which 60 full-text articles were screened and re-evaluated. Among them, 14 were excluded based on inclusion/exclusion criteria; eventually, 46 articles were included in the systematic review. The reports of 46 articles revealed that microbial shift involving Candida species, Fusobacterium nucleatum, Porphyromonas gingivalis, Helicobacter pylori and Human papilloma virus (HPV) 16 &amp; 18 were most commonly involved in various human cancers. In particular, organisms, such as Candida albicans, Fusobacterium nucleatum, Porphyromonas gingivalis and HPV-16 were found to be more prevalent in oral cancer. The present systematic review emphasizes that the role and diverse contributions of the microbiome in carcinogenesis will provide opportunities for the development of effective diagnostic and preventive methods.
+Despite the widespread implementation of sanitation, immunization and appropriate treatment, infectious diarrheal diseases still inflict a great health burden to children living in low resource settings. Conventional microbiology research in diarrhea have focused on the pathogen's biology and pathogenesis, but initial enteric infections could trigger subsequent perturbations in the gut microbiome, leading to short-term or long-term health effects. Conversely, such pre-existing perturbations could render children more vulnerable to enteropathogen colonization and diarrhea. Recent advances in DNA sequencing and bioinformatic analyses have been integrated in well-designed clinical and epidemiological studies, which allow us to track how the gut microbiome changes from disease onset to recovery. Here, we aim to summarize the current understanding on the diarrheal gut microbiome, stratified into different disease stages. Furthermore, we discuss how such perturbations could have impacts beyond an acute diarrhea episode, specifically on the child's nutritional status and the facilitation of antimicrobial resistance.
 
 [Source](https://oaepublish.com/mrr/journal/volume_issues_archive/2022/1/163)
 
-10.21037/tcr.2020.02.11
+10.1016/j.mib.2022.01.006
 
 ---
 
@@ -395,9 +395,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiome of the largest living rodent harbors unprecedented enzymatic systems to degrade plant polysaccharides
+## Gut microbiome of the largest living rodent harbors unprecedented enzymatic systems to degrade plant polysaccharides.
+ 03.02.2022, _L Cabral, GF Persinoti, DAA Paixão, MP Martins, MAB Morais, M Chinaglia, MN Domingues, ML Sforca, RAS Pirolla, WC Generoso, CA Santos, LF Maciel, N Terrapon, V Lombard, B Henrissat, MT Murakami_
+
+
+The largest living rodent, capybara, can efficiently depolymerize and utilize lignocellulosic biomass through microbial symbiotic mechanisms yet elusive. Herein, we elucidate the microbial community composition, enzymatic systems and metabolic pathways involved in the conversion of dietary fibers into short-chain fatty acids, a main energy source for the host. In this microbiota, the unconventional enzymatic machinery from Fibrobacteres seems to drive cellulose degradation, whereas a diverse set of carbohydrate-active enzymes from Bacteroidetes, organized in polysaccharide utilization loci, are accounted to tackle complex hemicelluloses typically found in gramineous and aquatic plants. Exploring the genetic potential of this community, we discover a glycoside hydrolase family of β-galactosidases (named as GH173), and a carbohydrate-binding module family (named as CBM89) involved in xylan binding that establishes an unprecedented three-dimensional fold among associated modules to carbohydrate-active enzymes. Together, these results demonstrate how the capybara gut microbiota orchestrates the depolymerization and utilization of plant fibers, representing an untapped reservoir of enzymatic mechanisms to overcome the lignocellulose recalcitrance, a central challenge toward a sustainable and bio-based economy.
 
 [Source](https://www.nature.com/articles/s41467-022-28310-y)
+
+10.1038/s41467-022-28310-y
 
 ---
 
@@ -413,27 +419,57 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency
+## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency.
+ 05.02.2022, _L Liu, Q Fu, T Li, K Shao, X Zhu, Y Cong, X Zhao_
+
+
+The incidence of nonalcoholic fatty liver disease (NAFLD) in postmenopausal women has increased significantly. Estrogen plays a very important role in NAFLD, but whether NAFLD in premenopausal women was caused by estrogen deficiency was unknown. Thus, it is of great clinical significance to explore the mechanism of NAFLD in premenopausal women. Gut microbiota and its metabolites short chain fatty acids (SCFA) have been shown to play important roles in the development of NAFLD. In this study, we investigated the impact of gut microbiota and SCFA in NAFLD patients and mice caused by estrogen deficiency. We showed that premenopause NAFLD patients had much lower estrogen levels. Estrogen deficient mice, due to ovariectomy (OVX), suffered more severe liver steatosis with an elevated body weight, abdominal fat weight, serum triglycerides and deterioration in hepatic steatosis. Altered gut microbiota composition and decreased butyrate content were found in NAFLD patients and in OVX mice. Furthermore, fecal microbiota transplantation (FMT) or supplementing with butyrate alleviated NAFLD in OVX mice. The production of antimicrobial peptides (AMP) Reg3ɣ, β-defensins and the expression of intestinal epithelial tight junction, including ZO-1 and Occluding-5, were decreased in the OVX mice compared to control mice. Upregulation of PPAR-ɣ and VLDLR, downregulation of PPAR-ɑ indicated that OVX mice suffered from abnormal lipid metabolism. These data indicate that changes in the gut microbiota and SCFA caused by estrogen reduction, together with a disorder in AMP production and lipid metabolism, promote NAFLD, thus provide SCFAs derived from microbiota as new therapeutic targets for the clinical prevention and treatment of NAFLD.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262855)
 
+10.1371/journal.pone.0262855
+
 ---
 
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
+ 28.01.2022, _ER Hyde, H Lozano, S Cox_
+
+
+Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261820)
 
+10.1371/journal.pone.0261820
+
 ---
 
-## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions
+## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions.
+ 04.02.2022, _S Bellais, M Nehlich, M Ania, A Duquenoy, W Mazier, G van den Engh, J Baijer, NS Treichel, T Clavel, I Belotserkovsky, V Thomas_
+
+
+There is a growing interest in using gut commensal bacteria as "next generation" probiotics. However, this approach is still hampered by the fact that there are few or no strains available for specific species that are difficult to cultivate. Our objective was to adapt flow cytometry and cell sorting to be able to detect, separate, isolate, and cultivate new strains of commensal species from fecal material. We focused on the extremely oxygen sensitive (EOS) species Faecalibacterium prausnitzii and the under-represented, health-associated keystone species Christensenella minuta as proof-of-concept.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01206-7)
+
+10.1186/s40168-021-01206-7
 
 ---
 
 ## Evaluation of taxonomic profiling methods for long-read shotgun metagenomic sequencing datasets
 
 [Source](https://www.biorxiv.org/content/10.1101/2022.01.31.478527v1)
+
+---
+
+## Panoramic Insights into Microevolution and Macroevolution of Prevotella copri-containing Lineage in Primate Guts.
+ 05.02.2022, _H Li, JP Meier-Kolthoff, C Hu, Z Wang, J Zhu, W Zheng, Y Tian, F Guo_
+
+
+Prevotella copri and related taxa are widely detected in mammalian gut microbiomes and have been linked with an enterotype in humans. However, their microevolution and macroevolution among hosts are poorly characterized. In this study, extensively collected marker genes and genomes were analyzed to trace their evolutionary history, host specificity, and biogeographic distribution. Investigations based on marker genes and genomes suggest that a P. copri-containing lineage (PCL) harbors diverse species in higher primates. Firstly, P. copri in the human gut consists of multiple groups exhibiting high genomic divergence and conspicuous but non-strict biogeographic patterns. Most African strains with high genomic divergence from other strains were phylogenetically located at the root of the species, indicating the co-evolutionary history of P. copri and Homo sapiens. Secondly, although long-term co-evolution between PCL and higher primates was revealed, sporadic signals of co-speciation and extensive host jumping of PCL members were suggested among higher primates. Metagenomic and phylogenetic analyses indicated that P. copri and other PCL species found in domesticated mammals had been recently transmitted from humans. Thirdly, strong evidence was found on the extensively horizontal transfer of genes (e.g., genes encoding carbohydrate-active enzymes) among sympatric P. copri groups and PCL species in the same primate host. Our study provides panoramic insights into the combined effects of vertical and horizontal transmission, and potential niche adaption on speciation, host, and biogeographical distribution spanning microevolutionary and macroevolutionary history for an enterotype-representative lineage.
+
+[Source](https://twitter.com/hashtag/metagenomic?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.gpb.2021.10.006
 
 ---
 
@@ -446,6 +482,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## @PacBio
 
 [Source](https://twitter.com/PacBio?ref_src=twsrc%5Etfw)
+
+---
+
+## The roles of recombination and selection in shaping genomic divergence in an incipient ecological species complex.
+ 04.02.2022, _MJ Wersebe, RE Sherman, PD Jeyasingh, LJ Weider_
+
+
+Speciation genomic studies have revealed that genomes of diverging lineages are shaped jointly by the actions of gene flow and selection. These evolutionary forces acting in concert with processes such as recombination and genome features such as gene density shape a mosaic landscape of divergence. We investigated the roles of recombination and gene density in shaping the patterns of differentiation and divergence between the cyclically parthenogenetic ecological sister-taxa, Daphnia pulicaria and Daphnia pulex. First, we assembled a phased chromosome-scale genome assembly using trio-binning for D. pulicaria and constructed a genetic map using an F2-intercross panel to understand sex-specific recombination rate heterogeneity. Finally, we used a ddRADseq dataset with broad geographic sampling of D. pulicaria, D. pulex, and their hybrids to understand the patterns of genome-scale divergence and demographic parameters. Our study provides the first sex-specific estimates of recombination rates for a cyclical parthenogen, and unlike other eukaryotic species, we observed male-biased heterochiasmy in D. pulicaria, which may be related to this somewhat unique breeding mode. Additionally, regions of high gene density and recombination are generally more divergent than regions of suppressed recombination. Outlier analysis indicated that divergent genomic regions are likely driven by selection on D. pulicaria, the derived lineage colonizing a novel lake habitat. Together, our study supports a scenario of selection acting on genes related to local adaptation shaping genome-wide patterns of differentiation despite high local recombination rates in this species complex. Finally, we discuss the limitations of our data in light of demographic uncertainty.
+
+[Source](https://twitter.com/hashtag/HiFi?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/mec.16383
 
 ---
 
