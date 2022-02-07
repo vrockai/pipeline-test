@@ -137,15 +137,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## A pilot feasibility study of a behavioral intervention for nicotine vaping cessation among young adults delivered via telehealth.
+ 05.02.2022, _AM Palmer, RL Tomko, LM Squeglia, KM Gray, MJ Carpenter, TT Smith, J Dahne, BA Toll, EA McClure_
+
+
+Nicotine vaping among youth has increased, warranting concern from tobacco control proponents. Many youth who vape indicate interest in quitting; however, few empirically supported vaping cessation interventions exist. This pilot feasibility study adapted an established behavioral intervention, contingency management (CM), delivered via telehealth to promote vaping cessation among young adults.
+
+[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
+
+10.1016/j.drugalcdep.2022.109311
+
+---
+
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
+ 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
+
+
+Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
+
+10.1371/journal.pone.0262806
 
 ---
 
@@ -353,9 +371,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Ecology and potential functions of plant-associated microbial communities in cold environments
+## Ecology and potential functions of plant-associated microbial communities in cold environments.
+ 27.01.2022, _M Marian, G Licciardello, B Vicelli, I Pertot, M Perazzolli_
+
+
+_Bacteria, Ecology, Fungi, Microbiota, Plants_
+Complex microbial communities are associated with plants and can improve their resilience under harsh environmental conditions. In particular, plants and their associated communities have developed complex adaptation strategies against cold stress. Although changes in plant-associated microbial community structure have been analysed in different cold regions, scarce information is available on possible common taxonomic and functional features of microbial communities across cold environments. In this review, we discuss recent advances in taxonomic and functional characterization of plant-associated microbial communities in three main cold regions, such as alpine, Arctic and Antarctica environments. Culture-independent and culture-dependent approaches are analysed, in order to highlight the main factors affecting the taxonomic structure of plant-associated communities in cold environments. Moreover, biotechnological applications of plant-associated microorganisms from cold environments are proposed for agriculture, industry and medicine, according to biological functions and cold adaptation strategies of bacteria and fungi. Although further functional studies may improve our knowledge, the existing literature suggest that plants growing in cold environments harbor complex, host-specific and cold-adapted microbial communities, which may play key functional roles in plant growth and survival under cold conditions.
 
 [Source](https://academic.oup.com/femsec/article/98/1/fiab161/6462900)
+
+10.1093/femsec/fiab161
 
 ---
 
@@ -365,9 +390,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Standardized universal pulse: A fast RF calibration approach to improve flip angle accuracy in parallel transmission.
+ 05.02.2022, _C Le Ster, F Mauconduit, A Massire, N Boulant, V Gras_
+
+
+In parallel transmission (pTX), subject-tailored RF pulses allow achieving excellent flip angle (FA) accuracy but often require computationally extensive online optimizations, precise characterization of the static field ( Δ B 0   ), and the transmit RF field ( B 1 +  ) distributions. This costs time and requires expertise from the MR user. Universal pulses (UPs) have been proposed to reduce this burden, yet, with a penalty in FA accuracy. This study introduces the concept of standardized universal pulses (SUPs), where pulses are designed offline and adjusted to the subject through a fast online calibration scan.
+
+[Source](https://twitter.com/hashtag/H2020?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/mrm.29180
+
+---
+
 ## #H2020
 
 [Source](https://twitter.com/hashtag/H2020?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Somatic PMK-1/p38 signaling links environmental stress to germ cell apoptosis and heritable euploidy.
+ 05.02.2022, _N Soltanmohammadi, S Wang, B Schumacher_
+
+
+Inheritance of stable and euploid genomes is a prerequisite for species maintenance. The DNA damage response in germ cells controls the integrity of heritable genomes. Whether and how somatic stress responses impact the quality control of germline genomes has remained unclear. Here, we show that PMK-1/p38-mediated stress signaling in intestinal cells is required for germ cell apoptosis amid ionizing radiation (IR)-induced or meiotic DNA double strand breaks (DSBs) in C. elegans. We demonstrate that intestinal PMK-1/p38 signaling regulates the germ cell death in response to environmental stress. The PMK-1/p38 target SYSM-1 is secreted from the intestine into the germline to trigger apoptosis of meiotic pachytene cells. Compromised PMK-1/p38 signaling in intestinal cells leads to stress-induced aneuploidy in the consequent generation. Our data suggest that somatic stress surveillance controls heritable genome integrity and euploidy.
+
+[Source](https://twitter.com/hashtag/MSCA?src=hash&ref_src=twsrc%5Etfw)
+
+10.1038/s41467-022-28225-8
 
 ---
 
@@ -413,57 +462,27 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency.
- 05.02.2022, _L Liu, Q Fu, T Li, K Shao, X Zhu, Y Cong, X Zhao_
-
-
-The incidence of nonalcoholic fatty liver disease (NAFLD) in postmenopausal women has increased significantly. Estrogen plays a very important role in NAFLD, but whether NAFLD in premenopausal women was caused by estrogen deficiency was unknown. Thus, it is of great clinical significance to explore the mechanism of NAFLD in premenopausal women. Gut microbiota and its metabolites short chain fatty acids (SCFA) have been shown to play important roles in the development of NAFLD. In this study, we investigated the impact of gut microbiota and SCFA in NAFLD patients and mice caused by estrogen deficiency. We showed that premenopause NAFLD patients had much lower estrogen levels. Estrogen deficient mice, due to ovariectomy (OVX), suffered more severe liver steatosis with an elevated body weight, abdominal fat weight, serum triglycerides and deterioration in hepatic steatosis. Altered gut microbiota composition and decreased butyrate content were found in NAFLD patients and in OVX mice. Furthermore, fecal microbiota transplantation (FMT) or supplementing with butyrate alleviated NAFLD in OVX mice. The production of antimicrobial peptides (AMP) Reg3ɣ, β-defensins and the expression of intestinal epithelial tight junction, including ZO-1 and Occluding-5, were decreased in the OVX mice compared to control mice. Upregulation of PPAR-ɣ and VLDLR, downregulation of PPAR-ɑ indicated that OVX mice suffered from abnormal lipid metabolism. These data indicate that changes in the gut microbiota and SCFA caused by estrogen reduction, together with a disorder in AMP production and lipid metabolism, promote NAFLD, thus provide SCFAs derived from microbiota as new therapeutic targets for the clinical prevention and treatment of NAFLD.
+## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262855)
 
-10.1371/journal.pone.0262855
-
 ---
 
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
- 28.01.2022, _ER Hyde, H Lozano, S Cox_
-
-
-Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261820)
 
-10.1371/journal.pone.0261820
-
 ---
 
-## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions.
- 04.02.2022, _S Bellais, M Nehlich, M Ania, A Duquenoy, W Mazier, G van den Engh, J Baijer, NS Treichel, T Clavel, I Belotserkovsky, V Thomas_
-
-
-There is a growing interest in using gut commensal bacteria as "next generation" probiotics. However, this approach is still hampered by the fact that there are few or no strains available for specific species that are difficult to cultivate. Our objective was to adapt flow cytometry and cell sorting to be able to detect, separate, isolate, and cultivate new strains of commensal species from fecal material. We focused on the extremely oxygen sensitive (EOS) species Faecalibacterium prausnitzii and the under-represented, health-associated keystone species Christensenella minuta as proof-of-concept.
+## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01206-7)
-
-10.1186/s40168-021-01206-7
 
 ---
 
 ## Evaluation of taxonomic profiling methods for long-read shotgun metagenomic sequencing datasets
 
 [Source](https://www.biorxiv.org/content/10.1101/2022.01.31.478527v1)
-
----
-
-## Panoramic Insights into Microevolution and Macroevolution of Prevotella copri-containing Lineage in Primate Guts.
- 05.02.2022, _H Li, JP Meier-Kolthoff, C Hu, Z Wang, J Zhu, W Zheng, Y Tian, F Guo_
-
-
-Prevotella copri and related taxa are widely detected in mammalian gut microbiomes and have been linked with an enterotype in humans. However, their microevolution and macroevolution among hosts are poorly characterized. In this study, extensively collected marker genes and genomes were analyzed to trace their evolutionary history, host specificity, and biogeographic distribution. Investigations based on marker genes and genomes suggest that a P. copri-containing lineage (PCL) harbors diverse species in higher primates. Firstly, P. copri in the human gut consists of multiple groups exhibiting high genomic divergence and conspicuous but non-strict biogeographic patterns. Most African strains with high genomic divergence from other strains were phylogenetically located at the root of the species, indicating the co-evolutionary history of P. copri and Homo sapiens. Secondly, although long-term co-evolution between PCL and higher primates was revealed, sporadic signals of co-speciation and extensive host jumping of PCL members were suggested among higher primates. Metagenomic and phylogenetic analyses indicated that P. copri and other PCL species found in domesticated mammals had been recently transmitted from humans. Thirdly, strong evidence was found on the extensively horizontal transfer of genes (e.g., genes encoding carbohydrate-active enzymes) among sympatric P. copri groups and PCL species in the same primate host. Our study provides panoramic insights into the combined effects of vertical and horizontal transmission, and potential niche adaption on speciation, host, and biogeographical distribution spanning microevolutionary and macroevolutionary history for an enterotype-representative lineage.
-
-[Source](https://twitter.com/hashtag/metagenomic?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.gpb.2021.10.006
 
 ---
 
@@ -476,18 +495,6 @@ Prevotella copri and related taxa are widely detected in mammalian gut microbiom
 ## @PacBio
 
 [Source](https://twitter.com/PacBio?ref_src=twsrc%5Etfw)
-
----
-
-## The roles of recombination and selection in shaping genomic divergence in an incipient ecological species complex.
- 04.02.2022, _MJ Wersebe, RE Sherman, PD Jeyasingh, LJ Weider_
-
-
-Speciation genomic studies have revealed that genomes of diverging lineages are shaped jointly by the actions of gene flow and selection. These evolutionary forces acting in concert with processes such as recombination and genome features such as gene density shape a mosaic landscape of divergence. We investigated the roles of recombination and gene density in shaping the patterns of differentiation and divergence between the cyclically parthenogenetic ecological sister-taxa, Daphnia pulicaria and Daphnia pulex. First, we assembled a phased chromosome-scale genome assembly using trio-binning for D. pulicaria and constructed a genetic map using an F2-intercross panel to understand sex-specific recombination rate heterogeneity. Finally, we used a ddRADseq dataset with broad geographic sampling of D. pulicaria, D. pulex, and their hybrids to understand the patterns of genome-scale divergence and demographic parameters. Our study provides the first sex-specific estimates of recombination rates for a cyclical parthenogen, and unlike other eukaryotic species, we observed male-biased heterochiasmy in D. pulicaria, which may be related to this somewhat unique breeding mode. Additionally, regions of high gene density and recombination are generally more divergent than regions of suppressed recombination. Outlier analysis indicated that divergent genomic regions are likely driven by selection on D. pulicaria, the derived lineage colonizing a novel lake habitat. Together, our study supports a scenario of selection acting on genes related to local adaptation shaping genome-wide patterns of differentiation despite high local recombination rates in this species complex. Finally, we discuss the limitations of our data in light of demographic uncertainty.
-
-[Source](https://twitter.com/hashtag/HiFi?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/mec.16383
 
 ---
 
@@ -533,9 +540,15 @@ Speciation genomic studies have revealed that genomes of diverging lineages are 
 
 ---
 
-## McComedy: A user-friendly tool for next-generation individual-based modeling of microbial consumer-resource systems
+## McComedy: A user-friendly tool for next-generation individual-based modeling of microbial consumer-resource systems.
+ 24.01.2022, _A Bogdanowski, K Frank, T Banitz, LK Muhsal, C Kost_
+
+
+Individual-based modeling is widely applied to investigate the ecological mechanisms driving microbial community dynamics. In such models, the population or community dynamics emerge from the behavior and interplay of individual entities, which are simulated according to a predefined set of rules. If the rules that govern the behavior of individuals are based on generic and mechanistically sound principles, the models are referred to as next-generation individual-based models. These models perform particularly well in recapitulating actual ecological dynamics. However, implementation of such models is time-consuming and requires proficiency in programming or in using specific software, which likely hinders a broader application of this powerful method. Here we present McComedy, a modeling tool designed to facilitate the development of next-generation individual-based models of microbial consumer-resource systems. This tool allows flexibly combining pre-implemented building blocks that represent physical and biological processes. The ability of McComedy to capture the essential dynamics of microbial consumer-resource systems is demonstrated by reproducing and furthermore adding to the results of two distinct studies from the literature. With this article, we provide a versatile tool for developing next-generation individual-based models that can foster understanding of microbial ecology in both research and education.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009777)
+
+10.1371/journal.pcbi.1009777
 
 ---
 
