@@ -77,6 +77,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Outstanding negative prediction performance of solid pulmonary nodule volume AI for ultra-LDCT baseline lung cancer screening risk stratification.
+ 05.02.2022, _HL Lancaster, S Zheng, OO Aleshina, D Yu, V Yu Chernina, MA Heuvelmans, GH de Bock, MD Dorrius, J Willem Gratama, SP Morozov, VA Gombolevskiy, M Silva, J Yi, M Oudkerk_
+
+
+To evaluate performance of AI as a standalone reader in ultra-low-dose CT lung cancer baseline screening, and compare it to that of experienced radiologists.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1489279775105552386?ref_src=twsrc%5Etfw)
+
+10.1016/j.lungcan.2022.01.002
+
+---
+
 ## February 3, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1489279775105552386?ref_src=twsrc%5Etfw)
@@ -137,15 +149,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## A pilot feasibility study of a behavioral intervention for nicotine vaping cessation among young adults delivered via telehealth.
+ 05.02.2022, _AM Palmer, RL Tomko, LM Squeglia, KM Gray, MJ Carpenter, TT Smith, J Dahne, BA Toll, EA McClure_
+
+
+Nicotine vaping among youth has increased, warranting concern from tobacco control proponents. Many youth who vape indicate interest in quitting; however, few empirically supported vaping cessation interventions exist. This pilot feasibility study adapted an established behavioral intervention, contingency management (CM), delivered via telehealth to promote vaping cessation among young adults.
+
+[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
+
+10.1016/j.drugalcdep.2022.109311
+
+---
+
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
+ 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
+
+
+Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
+
+10.1371/journal.pone.0262806
 
 ---
 
@@ -245,9 +275,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Nomogram for predicting the long-term outcomes of uterine artery embolization for adenomyosis.
+ 05.02.2022, _J WenTao, Z GuoFu, W TianPin, W ShiJia, Z HaiYan, L WenTao_
+
+
+The present study aimed to develop a nomogram to predict long-term outcomes of uterine artery embolisation (UAE) for treating adenomyosis.
+
+[Source](https://twitter.com/benjaminhgood/status/1488292593985146882?ref_src=twsrc%5Etfw)
+
+10.1016/j.ejrad.2022.110183
+
+---
+
 ## January 31, 2022
 
 [Source](https://twitter.com/benjaminhgood/status/1488292593985146882?ref_src=twsrc%5Etfw)
+
+---
+
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
+ 28.01.2022, _ER Hyde, H Lozano, S Cox_
+
+
+Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
+
+[Source](https://www.nature.com/articles/s41579-021-00667-9)
+
+10.1371/journal.pone.0261820
 
 ---
 
@@ -257,15 +311,27 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Multimodal interactions of drugs, natural compounds and pollutants with the gut microbiota
+## Multimodal interactions of drugs, natural compounds and pollutants with the gut microbiota.
+ 01.02.2022, _AE Lindell, M Zimmermann-Kogadeeva, KR Patil_
+
+
+The gut microbiota contributes to diverse aspects of host physiology, ranging from immunomodulation to drug metabolism. Changes in the gut microbiota composition are associated with various diseases as well as with the response to medications. It is therefore important to understand how different lifestyle and environmental factors shape gut microbiota composition. Beyond the commonly considered factor of diet, small-molecule drugs have recently been identified as major effectors of the microbiota composition. Other xenobiotics, such as environmental or chemical pollutants, can also impact gut bacterial communities. Here, we review the mechanisms of interactions between gut bacteria and antibiotics, host-targeted drugs, natural food compounds, food additives and environmental pollutants. While xenobiotics can impact bacterial growth and metabolism, bacteria in turn can bioaccumulate or chemically modify these compounds. These reciprocal interactions can manifest in complex xenobiotic-microbiota-host relationships. Our Review highlights the need to study mechanisms underlying interactions with pollutants and food additives towards deciphering the dynamics and evolution of the gut microbiota.
 
 [Source](https://www.nature.com/articles/s41579-022-00681-5.epdf)
 
+10.1038/s41579-022-00681-5
+
 ---
 
-## Gut microbiome and health: mechanistic insights
+## Gut microbiome and health: mechanistic insights.
+ 02.02.2022, _WM de Vos, H Tilg, M Van Hul, PD Cani_
+
+
+The gut microbiota is now considered as one of the key elements contributing to the regulation of host health. Virtually all our body sites are colonised by microbes suggesting different types of crosstalk with our organs. Because of the development of molecular tools and techniques (ie, metagenomic, metabolomic, lipidomic, metatranscriptomic), the complex interactions occurring between the host and the different microorganisms are progressively being deciphered. Nowadays, gut microbiota deviations are linked with many diseases including obesity, type 2 diabetes, hepatic steatosis, intestinal bowel diseases (IBDs) and several types of cancer. Thus, suggesting that various pathways involved in immunity, energy, lipid and glucose metabolism are affected.In this review, specific attention is given to provide a critical evaluation of the current understanding in this field. Numerous molecular mechanisms explaining how gut bacteria might be causally linked with the protection or the onset of diseases are discussed. We examine well-established metabolites (ie, short-chain fatty acids, bile acids, trimethylamine N-oxide) and extend this to more recently identified molecular actors (ie, endocannabinoids, bioactive lipids, phenolic-derived compounds, advanced glycation end products and enterosynes) and their specific receptors such as peroxisome proliferator-activated receptor alpha (PPARα) and gamma (PPARγ), aryl hydrocarbon receptor (AhR), and G protein-coupled receptors (ie, GPR41, GPR43, GPR119, Takeda G protein-coupled receptor 5).Altogether, understanding the complexity and the molecular aspects linking gut microbes to health will help to set the basis for novel therapies that are already being developed.
 
 [Source](https://gut.bmj.com/content/gutjnl/early/2022/01/31/gutjnl-2021-326789.full.pdf)
+
+10.1136/gutjnl-2021-326789
 
 ---
 
@@ -329,15 +395,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## A pilot feasibility study of a behavioral intervention for nicotine vaping cessation among young adults delivered via telehealth.
+ 05.02.2022, _AM Palmer, RL Tomko, LM Squeglia, KM Gray, MJ Carpenter, TT Smith, J Dahne, BA Toll, EA McClure_
+
+
+Nicotine vaping among youth has increased, warranting concern from tobacco control proponents. Many youth who vape indicate interest in quitting; however, few empirically supported vaping cessation interventions exist. This pilot feasibility study adapted an established behavioral intervention, contingency management (CM), delivered via telehealth to promote vaping cessation among young adults.
+
+[Source](https://twitter.com/svetlana_up/status/1484325769505808387?ref_src=twsrc%5Etfw)
+
+10.1016/j.drugalcdep.2022.109311
+
+---
+
 ## January 21, 2022
 
 [Source](https://twitter.com/svetlana_up/status/1484325769505808387?ref_src=twsrc%5Etfw)
 
 ---
 
-## Phylogenetic analysis and antimicrobial susceptibility profile of uropathogens
+## Phylogenetic analysis and antimicrobial susceptibility profile of uropathogens.
+ 01.02.2022, _H Ullah, K Bashir, M Idrees, A Ullah, N Hassan, S Khan, B Nasir, T Nadeem, H Ahsan, MI Khan, Q Ali, S Muhammad, M Afzal_
+
+
+The uropathogens is the main cause of urinary tract infection (UTI). The aim of the study was to isolate bacteria from urine samples of UTI patients and find out the susceptibility of isolated bacteria. Bacteria were identified using both conventional and molecular methods. Sanger sequence procedure used for 16S ribosomal RNA and phylogenetic analysis was performed using Molecular Evolutionary Genetics Analysis (MEGA-7) software. In this study, Escherichia coli, Klebsiella pneumonia, Staphylococcus were reported as 58, 28 and 14.0% respectively. Phylogenetic tree revealed that 99% of sample No. Ai (05) is closely related to E. coli to (NR 114042.1 E. coli strain NBRC 102203). Aii (23) is 99% similar to K. pneumoniae to (NR 117686.1 K. pneumonia strain DSM 30104) and 90% Bi (48) is closely linked to S. aureus to (NR 113956.1 S. aureus strain NBRC 100910). The antibiotic susceptibility of E. coli recorded highest resistance towards ampicillin (90%) and least resistant to ofloxacin (14%). Some of the other antibiotics such amoxicillin, ciprofloxacin, gentamicin, ceftazidime, cefuroxime and nitrofurantoin resistance were observed 86, 62, 24, 55, 48 and 35% respectively. The cefuroxime showed the highest antibiotic resistance against K. pneumoniae with 85% followed by amoxicillin, ciprofloxacin, gentamicin, ceftazidime, ampicillin and nitrofurantoin resulted in 60, 45, 67, 70, 75 and 30% respectively. The resistance of S. aureus against erythromycin, cefuroxime and ampicillin were found with 72%. The resistance against amoxicillin, gentamicin, ceftazidime and ceftriaxone found 57, 43, 43 and 15% respectively. Phylogenetic analysis shows that sequences are closely related with the reference sequences and E. coli is the dominant bacteria among UTI patients and is resistant to the commercially available antibiotics.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262952)
+
+10.1371/journal.pone.0262952
 
 ---
 
@@ -353,9 +437,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Ecology and potential functions of plant-associated microbial communities in cold environments
+## Ecology and potential functions of plant-associated microbial communities in cold environments.
+ 27.01.2022, _M Marian, G Licciardello, B Vicelli, I Pertot, M Perazzolli_
+
+
+_Bacteria, Ecology, Fungi, Microbiota, Plants_
+Complex microbial communities are associated with plants and can improve their resilience under harsh environmental conditions. In particular, plants and their associated communities have developed complex adaptation strategies against cold stress. Although changes in plant-associated microbial community structure have been analysed in different cold regions, scarce information is available on possible common taxonomic and functional features of microbial communities across cold environments. In this review, we discuss recent advances in taxonomic and functional characterization of plant-associated microbial communities in three main cold regions, such as alpine, Arctic and Antarctica environments. Culture-independent and culture-dependent approaches are analysed, in order to highlight the main factors affecting the taxonomic structure of plant-associated communities in cold environments. Moreover, biotechnological applications of plant-associated microorganisms from cold environments are proposed for agriculture, industry and medicine, according to biological functions and cold adaptation strategies of bacteria and fungi. Although further functional studies may improve our knowledge, the existing literature suggest that plants growing in cold environments harbor complex, host-specific and cold-adapted microbial communities, which may play key functional roles in plant growth and survival under cold conditions.
 
 [Source](https://academic.oup.com/femsec/article/98/1/fiab161/6462900)
+
+10.1093/femsec/fiab161
 
 ---
 
@@ -365,9 +456,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Standardized universal pulse: A fast RF calibration approach to improve flip angle accuracy in parallel transmission.
+ 05.02.2022, _C Le Ster, F Mauconduit, A Massire, N Boulant, V Gras_
+
+
+In parallel transmission (pTX), subject-tailored RF pulses allow achieving excellent flip angle (FA) accuracy but often require computationally extensive online optimizations, precise characterization of the static field ( Δ B 0   ), and the transmit RF field ( B 1 +  ) distributions. This costs time and requires expertise from the MR user. Universal pulses (UPs) have been proposed to reduce this burden, yet, with a penalty in FA accuracy. This study introduces the concept of standardized universal pulses (SUPs), where pulses are designed offline and adjusted to the subject through a fast online calibration scan.
+
+[Source](https://twitter.com/hashtag/H2020?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/mrm.29180
+
+---
+
 ## #H2020
 
 [Source](https://twitter.com/hashtag/H2020?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Somatic PMK-1/p38 signaling links environmental stress to germ cell apoptosis and heritable euploidy.
+ 05.02.2022, _N Soltanmohammadi, S Wang, B Schumacher_
+
+
+Inheritance of stable and euploid genomes is a prerequisite for species maintenance. The DNA damage response in germ cells controls the integrity of heritable genomes. Whether and how somatic stress responses impact the quality control of germline genomes has remained unclear. Here, we show that PMK-1/p38-mediated stress signaling in intestinal cells is required for germ cell apoptosis amid ionizing radiation (IR)-induced or meiotic DNA double strand breaks (DSBs) in C. elegans. We demonstrate that intestinal PMK-1/p38 signaling regulates the germ cell death in response to environmental stress. The PMK-1/p38 target SYSM-1 is secreted from the intestine into the germline to trigger apoptosis of meiotic pachytene cells. Compromised PMK-1/p38 signaling in intestinal cells leads to stress-induced aneuploidy in the consequent generation. Our data suggest that somatic stress surveillance controls heritable genome integrity and euploidy.
+
+[Source](https://twitter.com/hashtag/MSCA?src=hash&ref_src=twsrc%5Etfw)
+
+10.1038/s41467-022-28225-8
 
 ---
 
@@ -386,6 +501,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## https://t.co/7c8vm4Tai3
 
 [Source](https://t.co/7c8vm4Tai3)
+
+---
+
+## Outstanding negative prediction performance of solid pulmonary nodule volume AI for ultra-LDCT baseline lung cancer screening risk stratification.
+ 05.02.2022, _HL Lancaster, S Zheng, OO Aleshina, D Yu, V Yu Chernina, MA Heuvelmans, GH de Bock, MD Dorrius, J Willem Gratama, SP Morozov, VA Gombolevskiy, M Silva, J Yi, M Oudkerk_
+
+
+To evaluate performance of AI as a standalone reader in ultra-low-dose CT lung cancer baseline screening, and compare it to that of experienced radiologists.
+
+[Source](https://twitter.com/MalekMarian1/status/1488817503484751873?ref_src=twsrc%5Etfw)
+
+10.1016/j.lungcan.2022.01.002
 
 ---
 
@@ -533,21 +660,45 @@ Speciation genomic studies have revealed that genomes of diverging lineages are 
 
 ---
 
+## Outstanding negative prediction performance of solid pulmonary nodule volume AI for ultra-LDCT baseline lung cancer screening risk stratification.
+ 05.02.2022, _HL Lancaster, S Zheng, OO Aleshina, D Yu, V Yu Chernina, MA Heuvelmans, GH de Bock, MD Dorrius, J Willem Gratama, SP Morozov, VA Gombolevskiy, M Silva, J Yi, M Oudkerk_
+
+
+To evaluate performance of AI as a standalone reader in ultra-low-dose CT lung cancer baseline screening, and compare it to that of experienced radiologists.
+
+[Source](https://twitter.com/DPortik/status/1488965535505084419?ref_src=twsrc%5Etfw)
+
+10.1016/j.lungcan.2022.01.002
+
+---
+
 ## February 2, 2022
 
 [Source](https://twitter.com/DPortik/status/1488965535505084419?ref_src=twsrc%5Etfw)
 
 ---
 
-## AGAMEMNON: an Accurate metaGenomics And MEtatranscriptoMics quaNtificatiON analysis suite
+## AGAMEMNON: an Accurate metaGenomics And MEtatranscriptoMics quaNtificatiON analysis suite.
+ 04.02.2022, _G Skoufos, F Almodaresi, M Zakeri, JN Paulson, R Patro, AG Hatzigeorgiou, IS Vlachos_
+
+
+We introduce AGAMEMNON ( https://github.com/ivlachos/agamemnon ) for the acquisition of microbial abundances from shotgun metagenomics and metatranscriptomic samples, single-microbe sequencing experiments, or sequenced host samples. AGAMEMNON delivers accurate abundances at genus, species, and strain resolution. It incorporates a time and space-efficient indexing scheme for fast pattern matching, enabling indexing and analysis of vast datasets with widely available computational resources. Host-specific modules provide exceptional accuracy for microbial abundance quantification from tissue RNA/DNA sequencing, enabling the expansion of experiments lacking metagenomic/metatranscriptomic analyses. AGAMEMNON provides an R-Shiny application, permitting performance of investigations and visualizations from a graphics interface.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02610-4)
 
+10.1186/s13059-022-02610-4
+
 ---
 
-## McComedy: A user-friendly tool for next-generation individual-based modeling of microbial consumer-resource systems
+## McComedy: A user-friendly tool for next-generation individual-based modeling of microbial consumer-resource systems.
+ 24.01.2022, _A Bogdanowski, K Frank, T Banitz, LK Muhsal, C Kost_
+
+
+Individual-based modeling is widely applied to investigate the ecological mechanisms driving microbial community dynamics. In such models, the population or community dynamics emerge from the behavior and interplay of individual entities, which are simulated according to a predefined set of rules. If the rules that govern the behavior of individuals are based on generic and mechanistically sound principles, the models are referred to as next-generation individual-based models. These models perform particularly well in recapitulating actual ecological dynamics. However, implementation of such models is time-consuming and requires proficiency in programming or in using specific software, which likely hinders a broader application of this powerful method. Here we present McComedy, a modeling tool designed to facilitate the development of next-generation individual-based models of microbial consumer-resource systems. This tool allows flexibly combining pre-implemented building blocks that represent physical and biological processes. The ability of McComedy to capture the essential dynamics of microbial consumer-resource systems is demonstrated by reproducing and furthermore adding to the results of two distinct studies from the literature. With this article, we provide a versatile tool for developing next-generation individual-based models that can foster understanding of microbial ecology in both research and education.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009777)
+
+10.1371/journal.pcbi.1009777
 
 ---
 
@@ -572,6 +723,18 @@ Speciation genomic studies have revealed that genomes of diverging lineages are 
 ## https://t.co/8X2UI79CFo
 
 [Source](https://t.co/8X2UI79CFo)
+
+---
+
+## Outstanding negative prediction performance of solid pulmonary nodule volume AI for ultra-LDCT baseline lung cancer screening risk stratification.
+ 05.02.2022, _HL Lancaster, S Zheng, OO Aleshina, D Yu, V Yu Chernina, MA Heuvelmans, GH de Bock, MD Dorrius, J Willem Gratama, SP Morozov, VA Gombolevskiy, M Silva, J Yi, M Oudkerk_
+
+
+To evaluate performance of AI as a standalone reader in ultra-low-dose CT lung cancer baseline screening, and compare it to that of experienced radiologists.
+
+[Source](https://twitter.com/svetlana_up/status/1488722393212551173?ref_src=twsrc%5Etfw)
+
+10.1016/j.lungcan.2022.01.002
 
 ---
 
