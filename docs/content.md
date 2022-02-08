@@ -431,57 +431,27 @@ Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As mos
 
 ---
 
-## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency.
- 05.02.2022, _L Liu, Q Fu, T Li, K Shao, X Zhu, Y Cong, X Zhao_
-
-
-The incidence of nonalcoholic fatty liver disease (NAFLD) in postmenopausal women has increased significantly. Estrogen plays a very important role in NAFLD, but whether NAFLD in premenopausal women was caused by estrogen deficiency was unknown. Thus, it is of great clinical significance to explore the mechanism of NAFLD in premenopausal women. Gut microbiota and its metabolites short chain fatty acids (SCFA) have been shown to play important roles in the development of NAFLD. In this study, we investigated the impact of gut microbiota and SCFA in NAFLD patients and mice caused by estrogen deficiency. We showed that premenopause NAFLD patients had much lower estrogen levels. Estrogen deficient mice, due to ovariectomy (OVX), suffered more severe liver steatosis with an elevated body weight, abdominal fat weight, serum triglycerides and deterioration in hepatic steatosis. Altered gut microbiota composition and decreased butyrate content were found in NAFLD patients and in OVX mice. Furthermore, fecal microbiota transplantation (FMT) or supplementing with butyrate alleviated NAFLD in OVX mice. The production of antimicrobial peptides (AMP) Reg3ɣ, β-defensins and the expression of intestinal epithelial tight junction, including ZO-1 and Occluding-5, were decreased in the OVX mice compared to control mice. Upregulation of PPAR-ɣ and VLDLR, downregulation of PPAR-ɑ indicated that OVX mice suffered from abnormal lipid metabolism. These data indicate that changes in the gut microbiota and SCFA caused by estrogen reduction, together with a disorder in AMP production and lipid metabolism, promote NAFLD, thus provide SCFAs derived from microbiota as new therapeutic targets for the clinical prevention and treatment of NAFLD.
+## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262855)
 
-10.1371/journal.pone.0262855
-
 ---
 
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
- 28.01.2022, _ER Hyde, H Lozano, S Cox_
-
-
-Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261820)
 
-10.1371/journal.pone.0261820
-
 ---
 
-## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions.
- 04.02.2022, _S Bellais, M Nehlich, M Ania, A Duquenoy, W Mazier, G van den Engh, J Baijer, NS Treichel, T Clavel, I Belotserkovsky, V Thomas_
-
-
-There is a growing interest in using gut commensal bacteria as "next generation" probiotics. However, this approach is still hampered by the fact that there are few or no strains available for specific species that are difficult to cultivate. Our objective was to adapt flow cytometry and cell sorting to be able to detect, separate, isolate, and cultivate new strains of commensal species from fecal material. We focused on the extremely oxygen sensitive (EOS) species Faecalibacterium prausnitzii and the under-represented, health-associated keystone species Christensenella minuta as proof-of-concept.
+## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01206-7)
-
-10.1186/s40168-021-01206-7
 
 ---
 
 ## Evaluation of taxonomic profiling methods for long-read shotgun metagenomic sequencing datasets
 
 [Source](https://www.biorxiv.org/content/10.1101/2022.01.31.478527v1)
-
----
-
-## Evaluating supervised and unsupervised background noise correction in human gut microbiome data.
- 07.02.2022, _L Briscoe, B Balliu, S Sankararaman, E Halperin, NR Garud_
-
-
-The ability to predict human phenotypes and identify biomarkers of disease from metagenomic data is crucial for the development of therapeutics for microbiome-associated diseases. However, metagenomic data is commonly affected by technical variables unrelated to the phenotype of interest, such as sequencing protocol, which can make it difficult to predict phenotype and find biomarkers of disease. Supervised methods to correct for background noise, originally designed for gene expression and RNA-seq data, are commonly applied to microbiome data but may be limited because they cannot account for unmeasured sources of variation. Unsupervised approaches address this issue, but current methods are limited because they are ill-equipped to deal with the unique aspects of microbiome data, which is compositional, highly skewed, and sparse. We perform a comparative analysis of the ability of different denoising transformations in combination with supervised correction methods as well as an unsupervised principal component correction approach that is presently used in other domains but has not been applied to microbiome data to date. We find that the unsupervised principal component correction approach has comparable ability in reducing false discovery of biomarkers as the supervised approaches, with the added benefit of not needing to know the sources of variation apriori. However, in prediction tasks, it appears to only improve prediction when technical variables contribute to the majority of variance in the data. As new and larger metagenomic datasets become increasingly available, background noise correction will become essential for generating reproducible microbiome analyses.
-
-[Source](https://twitter.com/hashtag/metagenomic?src=hash&ref_src=twsrc%5Etfw)
-
-10.1371/journal.pcbi.1009838
 
 ---
 
@@ -494,18 +464,6 @@ The ability to predict human phenotypes and identify biomarkers of disease from 
 ## @PacBio
 
 [Source](https://twitter.com/PacBio?ref_src=twsrc%5Etfw)
-
----
-
-## The roles of recombination and selection in shaping genomic divergence in an incipient ecological species complex.
- 04.02.2022, _MJ Wersebe, RE Sherman, PD Jeyasingh, LJ Weider_
-
-
-Speciation genomic studies have revealed that genomes of diverging lineages are shaped jointly by the actions of gene flow and selection. These evolutionary forces acting in concert with processes such as recombination and genome features such as gene density shape a mosaic landscape of divergence. We investigated the roles of recombination and gene density in shaping the patterns of differentiation and divergence between the cyclically parthenogenetic ecological sister-taxa, Daphnia pulicaria and Daphnia pulex. First, we assembled a phased chromosome-scale genome assembly using trio-binning for D. pulicaria and constructed a genetic map using an F2-intercross panel to understand sex-specific recombination rate heterogeneity. Finally, we used a ddRADseq dataset with broad geographic sampling of D. pulicaria, D. pulex, and their hybrids to understand the patterns of genome-scale divergence and demographic parameters. Our study provides the first sex-specific estimates of recombination rates for a cyclical parthenogen, and unlike other eukaryotic species, we observed male-biased heterochiasmy in D. pulicaria, which may be related to this somewhat unique breeding mode. Additionally, regions of high gene density and recombination are generally more divergent than regions of suppressed recombination. Outlier analysis indicated that divergent genomic regions are likely driven by selection on D. pulicaria, the derived lineage colonizing a novel lake habitat. Together, our study supports a scenario of selection acting on genes related to local adaptation shaping genome-wide patterns of differentiation despite high local recombination rates in this species complex. Finally, we discuss the limitations of our data in light of demographic uncertainty.
-
-[Source](https://twitter.com/hashtag/HiFi?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/mec.16383
 
 ---
 
