@@ -419,15 +419,27 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery
+## BIOME-Preserve: A novel storage and transport medium for preserving anaerobic microbiota samples for culture recovery.
+ 28.01.2022, _ER Hyde, H Lozano, S Cox_
+
+
+Sequencing-based protocols for studying the human microbiome have unearthed a wealth of information about the relationship between the microbiome and human health. But these microbes cannot be leveraged as therapeutic targets without culture-based studies to phenotype species of interest and to establish culture collections for use in animal models. Traditional sample collection protocols are focused on preserving nucleic acids and metabolites and are largely inappropriate for preserving sensitive anaerobic bacteria for later culture recovery. Here we introduce a novel microbiome preservation kit (BIOME-Preserve) that facilitates recovery of anaerobic bacteria from human stool. Using a combination of culture recovery and shallow whole-genome shotgun sequencing, we characterized the anaerobes cultured from fresh human stool and from human stool held at room temperature in BIOME-Preserve for up to 120 hours. We recovered several species of interest to microbiome researchers, including Bifidobacterium spp., Bacteroides spp., Blautia spp., Eubacterium halii (now Anaerobutyricum hallii), Akkermansia muciniphila, and Faecalibacterium prausnitzii. We also demonstrated that freezing at -80°C did not adversely affect our ability to culture organisms from BIOME-Preserve, suggesting that it is appropriate both as a transport medium and as a medium for longer-term ultra-cold storage. Together, our results suggest BIOME-Preserve is practical for the collection, transport, and culture of anaerobic bacteria from human samples and can help enable researchers to better understand the link between the microbiome and human health and how to leverage that link through novel microbiome-based therapeutics.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261820)
 
+10.1371/journal.pone.0261820
+
 ---
 
-## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions
+## Species-targeted sorting and cultivation of commensal bacteria from the gut microbiome using flow cytometry under anaerobic conditions.
+ 04.02.2022, _S Bellais, M Nehlich, M Ania, A Duquenoy, W Mazier, G van den Engh, J Baijer, NS Treichel, T Clavel, I Belotserkovsky, V Thomas_
+
+
+There is a growing interest in using gut commensal bacteria as "next generation" probiotics. However, this approach is still hampered by the fact that there are few or no strains available for specific species that are difficult to cultivate. Our objective was to adapt flow cytometry and cell sorting to be able to detect, separate, isolate, and cultivate new strains of commensal species from fecal material. We focused on the extremely oxygen sensitive (EOS) species Faecalibacterium prausnitzii and the under-represented, health-associated keystone species Christensenella minuta as proof-of-concept.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01206-7)
+
+10.1186/s40168-021-01206-7
 
 ---
 
@@ -503,45 +515,21 @@ Speciation genomic studies have revealed that genomes of diverging lineages are 
 
 ---
 
-## Outstanding negative prediction performance of solid pulmonary nodule volume AI for ultra-LDCT baseline lung cancer screening risk stratification.
- 05.02.2022, _HL Lancaster, S Zheng, OO Aleshina, D Yu, V Yu Chernina, MA Heuvelmans, GH de Bock, MD Dorrius, J Willem Gratama, SP Morozov, VA Gombolevskiy, M Silva, J Yi, M Oudkerk_
-
-
-To evaluate performance of AI as a standalone reader in ultra-low-dose CT lung cancer baseline screening, and compare it to that of experienced radiologists.
-
-[Source](https://twitter.com/DPortik/status/1488965535505084419?ref_src=twsrc%5Etfw)
-
-10.1016/j.lungcan.2022.01.002
-
----
-
 ## February 2, 2022
 
 [Source](https://twitter.com/DPortik/status/1488965535505084419?ref_src=twsrc%5Etfw)
 
 ---
 
-## AGAMEMNON: an Accurate metaGenomics And MEtatranscriptoMics quaNtificatiON analysis suite.
- 04.02.2022, _G Skoufos, F Almodaresi, M Zakeri, JN Paulson, R Patro, AG Hatzigeorgiou, IS Vlachos_
-
-
-We introduce AGAMEMNON ( https://github.com/ivlachos/agamemnon ) for the acquisition of microbial abundances from shotgun metagenomics and metatranscriptomic samples, single-microbe sequencing experiments, or sequenced host samples. AGAMEMNON delivers accurate abundances at genus, species, and strain resolution. It incorporates a time and space-efficient indexing scheme for fast pattern matching, enabling indexing and analysis of vast datasets with widely available computational resources. Host-specific modules provide exceptional accuracy for microbial abundance quantification from tissue RNA/DNA sequencing, enabling the expansion of experiments lacking metagenomic/metatranscriptomic analyses. AGAMEMNON provides an R-Shiny application, permitting performance of investigations and visualizations from a graphics interface.
+## AGAMEMNON: an Accurate metaGenomics And MEtatranscriptoMics quaNtificatiON analysis suite
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02610-4)
 
-10.1186/s13059-022-02610-4
-
 ---
 
-## McComedy: A user-friendly tool for next-generation individual-based modeling of microbial consumer-resource systems.
- 24.01.2022, _A Bogdanowski, K Frank, T Banitz, LK Muhsal, C Kost_
-
-
-Individual-based modeling is widely applied to investigate the ecological mechanisms driving microbial community dynamics. In such models, the population or community dynamics emerge from the behavior and interplay of individual entities, which are simulated according to a predefined set of rules. If the rules that govern the behavior of individuals are based on generic and mechanistically sound principles, the models are referred to as next-generation individual-based models. These models perform particularly well in recapitulating actual ecological dynamics. However, implementation of such models is time-consuming and requires proficiency in programming or in using specific software, which likely hinders a broader application of this powerful method. Here we present McComedy, a modeling tool designed to facilitate the development of next-generation individual-based models of microbial consumer-resource systems. This tool allows flexibly combining pre-implemented building blocks that represent physical and biological processes. The ability of McComedy to capture the essential dynamics of microbial consumer-resource systems is demonstrated by reproducing and furthermore adding to the results of two distinct studies from the literature. With this article, we provide a versatile tool for developing next-generation individual-based models that can foster understanding of microbial ecology in both research and education.
+## McComedy: A user-friendly tool for next-generation individual-based modeling of microbial consumer-resource systems
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009777)
-
-10.1371/journal.pcbi.1009777
 
 ---
 
