@@ -1,12 +1,12 @@
-## The SAMBA tool uses long reads to improve the contiguity of genome assemblies.
- 04.02.2022, _AV Zimin, SL Salzberg_
+## EST-SSR Marker Development and Full-Length Transcriptome Sequence Analysis of Tiger Lily (Lilium lancifolium Thunb).
+ 07.02.2022, _M Sun, Y Zhao, X Shao, J Ge, X Tang, P Zhu, J Wang, T Zhao_
 
 
-Third-generation sequencing technologies can generate very long reads with relatively high error rates. The lengths of the reads, which sometimes exceed one million bases, make them invaluable for resolving complex repeats that cannot be assembled using shorter reads. Many high-quality genome assemblies have already been produced, curated, and annotated using the previous generation of sequencing data, and full re-assembly of these genomes with long reads is not always practical or cost-effective. One strategy to upgrade existing assemblies is to generate additional coverage using long-read data, and add that to the previously assembled contigs. SAMBA is a tool that is designed to scaffold and gap-fill existing genome assemblies with additional long-read data, resulting in substantially greater contiguity. SAMBA is the only tool of its kind that also computes and fills in the sequence for all spanned gaps in the scaffolds, yielding much longer contigs. Here we compare SAMBA to several similar tools capable of re-scaffolding assemblies using long-read data, and we show that SAMBA yields better contiguity and introduces fewer errors than competing methods. SAMBA is open-source software that is distributed at https://github.com/alekseyzimin/masurca.
+The fast advancement and deployment of sequencing technologies after the Human Genome Project have greatly increased our knowledge of the eukaryotic genome sequences. However, due to technological concerns, high-quality genomic data has been confined to a few key organisms. Moreover, our understanding of which portions of genomes make up genes and which transcript isoforms synthesize these genes is scarce. Therefore, the current study has been designed to explore the reliability of the tiger lily (Lilium lancifolium Thunb) transcriptome. The PacBio-SMRT was used for attaining the complete transcriptomic profile. We obtained a total of 815,624 CCS (Circular Consensus Sequence) reads with an average length of 1295 bp. The tiger lily transcriptome has been sequenced for the first time using third-generation long-read technology. Furthermore, unigenes (38,707), lncRNAs (6852), and TF members (768) were determined based on the transcriptome data, followed by evaluating SSRs (3319). It has also been revealed that 105 out of 128 primer pairs effectively amplified PCR products. Around 15,608 transcripts were allocated to 25 distinct KOG Clusters, and 10,706 unigenes were grouped into 52 functional categories in the annotated transcripts. Until now, no tiger lily lncRNAs have been discovered. Results of this study may serve as an extensive set of reference transcripts and help us learn more about the transcriptomes of tiger lilies and pave the path for further research.
 
 [Source](https://lebeerlab.com/the-story-behind-latilactobacillus-fragifolii-a-new-bacterial-species-isolated-in-our-lab/)
 
-10.1371/journal.pcbi.1009860
+10.1155/2022/7641048
 
 ---
 
@@ -34,15 +34,15 @@ This paper examines the evidence behind the use and decline of insulin coma ther
 
 ---
 
-## Dynamic of the human gut microbiome under infectious diarrhea.
- 05.02.2022, _H Chung The, SH Le_
+## Microbial community composition associated with early developmental stages of the Indian white shrimp, Penaeus indicus.
+ 07.02.2022, _TN Vinay, PK Patil, R Aravind, PSS Anand, V Baskaran, CP Balasubramanian_
 
 
-Despite the widespread implementation of sanitation, immunization and appropriate treatment, infectious diarrheal diseases still inflict a great health burden to children living in low resource settings. Conventional microbiology research in diarrhea have focused on the pathogen's biology and pathogenesis, but initial enteric infections could trigger subsequent perturbations in the gut microbiome, leading to short-term or long-term health effects. Conversely, such pre-existing perturbations could render children more vulnerable to enteropathogen colonization and diarrhea. Recent advances in DNA sequencing and bioinformatic analyses have been integrated in well-designed clinical and epidemiological studies, which allow us to track how the gut microbiome changes from disease onset to recovery. Here, we aim to summarize the current understanding on the diarrheal gut microbiome, stratified into different disease stages. Furthermore, we discuss how such perturbations could have impacts beyond an acute diarrhea episode, specifically on the child's nutritional status and the facilitation of antimicrobial resistance.
+Gut microbiota is known to influence the physiology, health, nutrient absorption, reproduction, and other metabolic activities of aquatic organisms. Microbial composition can influence intestinal immunity and are considered as health indicators. Information on gut microbial composition provides potential application possibilities to improve shrimp health and production. In the absence of such information for Penaeus indicus, the present study reports the microbial community structure associated with its early developmental stages. Bacterial community associated with the early developmental stages (egg, nauplii, zoea, mysis, PL1, PL6 and PL12) from two hatchery cycles were analysed employing 16S rRNA high throughput sequencing. Proteobacteria and Bacteroidetes, were the two dominant phyla in P. indicus development stages. Sequential sampling revealed the constant change in the bacterial composition at genus level. Alteromonas was dominant in egg and nauplii stage, whilst Ascidiaceihabitans (formerly Roseobacter) was the dominant genera in both PL6 and PL12. The bacterial composition was highly dynamic in early stages and our study suggests that the mysis stage is the critical phase in transforming the microbial composition and it gets stabilised by early post larval stages. This is the first report on the composition of microbiota in early developmental stages of P. indicus. Based on these results the formation of microbial composition seems to be influenced by feeding at early stages. The study provides valuable information to device intervention strategies for healthy seed production.
 
 [Source](https://oaepublish.com/mrr/journal/volume_issues_archive/2022/1/163)
 
-10.1016/j.mib.2022.01.006
+10.1007/s00438-022-01865-7
 
 ---
 
@@ -137,15 +137,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## [Modified Chevron osteotomy in the treatment of moderate and severe hallux valgus].
+ 07.02.2022, _JH Yu, TS Fang, T Song, M Wu, XF Li_
+
+
+To investigate the method and clinical effect of modified Chevron osteotomy of the distal end of the first metatarsal in the treatment of moderate and severe hallux valgus.
+
+[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
+
+10.12200/j.issn.1003-0034.2022.01.018
+
+---
+
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
+ 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
+
+
+Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
+
+10.1371/journal.pone.0262806
 
 ---
 
@@ -413,9 +431,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency
+## Gut microbiota and butyrate contribute to nonalcoholic fatty liver disease in premenopause due to estrogen deficiency.
+ 05.02.2022, _L Liu, Q Fu, T Li, K Shao, X Zhu, Y Cong, X Zhao_
+
+
+The incidence of nonalcoholic fatty liver disease (NAFLD) in postmenopausal women has increased significantly. Estrogen plays a very important role in NAFLD, but whether NAFLD in premenopausal women was caused by estrogen deficiency was unknown. Thus, it is of great clinical significance to explore the mechanism of NAFLD in premenopausal women. Gut microbiota and its metabolites short chain fatty acids (SCFA) have been shown to play important roles in the development of NAFLD. In this study, we investigated the impact of gut microbiota and SCFA in NAFLD patients and mice caused by estrogen deficiency. We showed that premenopause NAFLD patients had much lower estrogen levels. Estrogen deficient mice, due to ovariectomy (OVX), suffered more severe liver steatosis with an elevated body weight, abdominal fat weight, serum triglycerides and deterioration in hepatic steatosis. Altered gut microbiota composition and decreased butyrate content were found in NAFLD patients and in OVX mice. Furthermore, fecal microbiota transplantation (FMT) or supplementing with butyrate alleviated NAFLD in OVX mice. The production of antimicrobial peptides (AMP) Reg3ɣ, β-defensins and the expression of intestinal epithelial tight junction, including ZO-1 and Occluding-5, were decreased in the OVX mice compared to control mice. Upregulation of PPAR-ɣ and VLDLR, downregulation of PPAR-ɑ indicated that OVX mice suffered from abnormal lipid metabolism. These data indicate that changes in the gut microbiota and SCFA caused by estrogen reduction, together with a disorder in AMP production and lipid metabolism, promote NAFLD, thus provide SCFAs derived from microbiota as new therapeutic targets for the clinical prevention and treatment of NAFLD.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262855)
+
+10.1371/journal.pone.0262855
 
 ---
 
@@ -449,15 +473,15 @@ There is a growing interest in using gut commensal bacteria as "next generation"
 
 ---
 
-## Panoramic Insights into Microevolution and Macroevolution of Prevotella copri-containing Lineage in Primate Guts.
- 05.02.2022, _H Li, JP Meier-Kolthoff, C Hu, Z Wang, J Zhu, W Zheng, Y Tian, F Guo_
+## Evaluating supervised and unsupervised background noise correction in human gut microbiome data.
+ 07.02.2022, _L Briscoe, B Balliu, S Sankararaman, E Halperin, NR Garud_
 
 
-Prevotella copri and related taxa are widely detected in mammalian gut microbiomes and have been linked with an enterotype in humans. However, their microevolution and macroevolution among hosts are poorly characterized. In this study, extensively collected marker genes and genomes were analyzed to trace their evolutionary history, host specificity, and biogeographic distribution. Investigations based on marker genes and genomes suggest that a P. copri-containing lineage (PCL) harbors diverse species in higher primates. Firstly, P. copri in the human gut consists of multiple groups exhibiting high genomic divergence and conspicuous but non-strict biogeographic patterns. Most African strains with high genomic divergence from other strains were phylogenetically located at the root of the species, indicating the co-evolutionary history of P. copri and Homo sapiens. Secondly, although long-term co-evolution between PCL and higher primates was revealed, sporadic signals of co-speciation and extensive host jumping of PCL members were suggested among higher primates. Metagenomic and phylogenetic analyses indicated that P. copri and other PCL species found in domesticated mammals had been recently transmitted from humans. Thirdly, strong evidence was found on the extensively horizontal transfer of genes (e.g., genes encoding carbohydrate-active enzymes) among sympatric P. copri groups and PCL species in the same primate host. Our study provides panoramic insights into the combined effects of vertical and horizontal transmission, and potential niche adaption on speciation, host, and biogeographical distribution spanning microevolutionary and macroevolutionary history for an enterotype-representative lineage.
+The ability to predict human phenotypes and identify biomarkers of disease from metagenomic data is crucial for the development of therapeutics for microbiome-associated diseases. However, metagenomic data is commonly affected by technical variables unrelated to the phenotype of interest, such as sequencing protocol, which can make it difficult to predict phenotype and find biomarkers of disease. Supervised methods to correct for background noise, originally designed for gene expression and RNA-seq data, are commonly applied to microbiome data but may be limited because they cannot account for unmeasured sources of variation. Unsupervised approaches address this issue, but current methods are limited because they are ill-equipped to deal with the unique aspects of microbiome data, which is compositional, highly skewed, and sparse. We perform a comparative analysis of the ability of different denoising transformations in combination with supervised correction methods as well as an unsupervised principal component correction approach that is presently used in other domains but has not been applied to microbiome data to date. We find that the unsupervised principal component correction approach has comparable ability in reducing false discovery of biomarkers as the supervised approaches, with the added benefit of not needing to know the sources of variation apriori. However, in prediction tasks, it appears to only improve prediction when technical variables contribute to the majority of variance in the data. As new and larger metagenomic datasets become increasingly available, background noise correction will become essential for generating reproducible microbiome analyses.
 
 [Source](https://twitter.com/hashtag/metagenomic?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.gpb.2021.10.006
+10.1371/journal.pcbi.1009838
 
 ---
 
