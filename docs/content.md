@@ -16,52 +16,15 @@ The fast advancement and deployment of sequencing technologies after the Human G
 
 ---
 
-## 'A landmark in psychiatric progress'? The role of evidence in the rise and fall of insulin coma therapy.
- 22.12.2021, _R Freudenthal, J Moncrieff_
-
-
-This paper examines the evidence behind the use and decline of insulin coma therapy as a treatment for schizophrenia and how this was viewed by the psychiatric profession. The paper demonstrates that, from the time of its introduction, there was considerable debate regarding the evidence for insulin treatment, and scepticism about its purported benefits. The randomized trials conducted in the 1950s were the result, rather than the origins, of this debate. Although insulin treatment was subsequently abandoned, it was still regarded as a historic moment in the modernization of psychiatry. Then, as now, evidence does not speak for itself, and insulin continued to be incorporated into the story of psychiatric progress even after it was shown to be ineffective.
-
-[Source](https://lebeerlab.com/the-story-behind-latilactobacillus-fragifolii-a-new-bacterial-species-isolated-in-our-lab/)
-
-10.1177/0957154X211062538
-
----
-
 ## story behind the paper
 
 [Source](https://lebeerlab.com/the-story-behind-latilactobacillus-fragifolii-a-new-bacterial-species-isolated-in-our-lab/)
 
 ---
 
-## Microbial community composition associated with early developmental stages of the Indian white shrimp, Penaeus indicus.
- 07.02.2022, _TN Vinay, PK Patil, R Aravind, PSS Anand, V Baskaran, CP Balasubramanian_
-
-
-Gut microbiota is known to influence the physiology, health, nutrient absorption, reproduction, and other metabolic activities of aquatic organisms. Microbial composition can influence intestinal immunity and are considered as health indicators. Information on gut microbial composition provides potential application possibilities to improve shrimp health and production. In the absence of such information for Penaeus indicus, the present study reports the microbial community structure associated with its early developmental stages. Bacterial community associated with the early developmental stages (egg, nauplii, zoea, mysis, PL1, PL6 and PL12) from two hatchery cycles were analysed employing 16S rRNA high throughput sequencing. Proteobacteria and Bacteroidetes, were the two dominant phyla in P. indicus development stages. Sequential sampling revealed the constant change in the bacterial composition at genus level. Alteromonas was dominant in egg and nauplii stage, whilst Ascidiaceihabitans (formerly Roseobacter) was the dominant genera in both PL6 and PL12. The bacterial composition was highly dynamic in early stages and our study suggests that the mysis stage is the critical phase in transforming the microbial composition and it gets stabilised by early post larval stages. This is the first report on the composition of microbiota in early developmental stages of P. indicus. Based on these results the formation of microbial composition seems to be influenced by feeding at early stages. The study provides valuable information to device intervention strategies for healthy seed production.
-
-[Source](https://oaepublish.com/mrr/journal/volume_issues_archive/2022/1/163)
-
-10.1007/s00438-022-01865-7
-
----
-
 ## the Microbiome Research Reports
 
 [Source](https://oaepublish.com/mrr/journal/volume_issues_archive/2022/1/163)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
-
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
 
 ---
 
@@ -137,33 +100,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## [Modified Chevron osteotomy in the treatment of moderate and severe hallux valgus].
- 07.02.2022, _JH Yu, TS Fang, T Song, M Wu, XF Li_
-
-
-To investigate the method and clinical effect of modified Chevron osteotomy of the distal end of the first metatarsal in the treatment of moderate and severe hallux valgus.
-
-[Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
-
-10.12200/j.issn.1003-0034.2022.01.018
-
----
-
 ## January 28, 2022
 
 [Source](https://twitter.com/alvarordr/status/1487026445327155201?ref_src=twsrc%5Etfw)
 
 ---
 
-## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes.
- 28.01.2022, _M Burton, JA Krumbeck, G Wu, S Tang, A Prem, AK Gupta, TL Dawson_
-
-
-Otitis media (OM) and externa (OE) are painful, recurrent ear conditions. As most otitis publications focus on the bacterial content of childhood ears, there remains a dearth of information regarding the adult ear microbiome including both bacteria and fungi. This study compares the outer ear microbiome of healthy adults to adults affected by OE and OM using both intergenic-transcribed-spacer (ITS) and 16S-rDNA sequencing. The adult ear core microbiome consists of the prokaryote Cutibacterium acnes and the eukaryotic Malassezia arunalokei, M. globosa, and M. restricta. The healthy ear mycobiome is dominated by Malassezia and can be divided into two groups, one dominated by M. arunalokei, the other by M. restricta. Microbiome diversity and biomass varied significantly between healthy and diseased ears, and analyses reveal the presence of a potential mutualistic, protective effect of Malassezia species and C. acnes. The healthy ear core microbiome includes the bacteria Staphylococcus capitis and S. capitis/caprae, while the diseased ear core is composed of known bacterial and fungal pathogens including Aspergillus sp., Candida sp., Pseudomonas aeruginosa, S. aureus, and Corynebacterium jeikeium. The data presented highlight the need for early detection of the cause of otitis to direct more appropriate, efficient treatments. This will improve patient outcomes and promote improved antimicrobial stewardship.
+## The adult microbiome of healthy and otitis patients: Definition of the core healthy and diseased ear microbiomes
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262806)
-
-10.1371/journal.pone.0262806
 
 ---
 
