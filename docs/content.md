@@ -10,15 +10,9 @@
 
 ---
 
-## Response and resilience of anammox consortia to nutrient starvation.
- 05.02.2022, _D Wang, Y Wang, L Liu, Y Chen, C Wang, YY Li, T Zhang_
-
-
-It is of critical importance to understand how anammox consortia respond to disturbance events and fluctuations in the wastewater treatment reactors. Although the responses of anammox consortia to operational parameters (e.g., temperature, dissolved oxygen, nutrient concentrations) have frequently been reported in previous studies, less is known about their responses and resilience when they suffer from nutrient interruption.
+## Response and resilience of anammox consortia to nutrient starvation
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01212-9)
-
-10.1186/s40168-021-01212-9
 
 ---
 
