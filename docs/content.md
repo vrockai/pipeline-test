@@ -28,15 +28,27 @@ Coevolution between hosts and parasites is a major driver of rapid evolutionary 
 
 ---
 
-## Secreted Toxins From Staphylococcus aureus Strains Isolated From Keratinocyte Skin Cancers Mediate Pro-tumorigenic Inflammatory Responses in the Skin
+## Secreted Toxins From Staphylococcus aureus Strains Isolated From Keratinocyte Skin Cancers Mediate Pro-tumorigenic Inflammatory Responses in the Skin.
+ 12.02.2022, _A Krueger, J Zaugg, S Chisholm, R Linedale, N Lachner, SM Teoh, ZK Tuong, SW Lukowski, M Morrison, HP Soyer, P Hugenholtz, MM Hill, IH Frazer_
+
+
+Squamous cell carcinoma (SCC) is a common type of skin cancer that typically arises from premalignant precursor lesions named actinic keratoses (AK). Chronic inflammation is a well-known promoter of skin cancer progression. AK and SCC have been associated with an overabundance of the bacterium Staphylococcus aureus (S. aureus). Certain secreted products from S. aureus are known to promote cutaneous pro-inflammatory responses; however, not all S. aureus strains produce these. As inflammation plays a key role in SCC development, we investigated the pro-inflammatory potential and toxin secretion profiles of skin-cancer associated S. aureus. Sterile culture supernatants ("secretomes") of S. aureus clinical strains isolated from AK and SCC were applied to human keratinocytes in vitro. Some S. aureus secretomes induced keratinocytes to overexpress inflammatory mediators that have been linked to skin carcinogenesis, including IL-6, IL-8, and TNFα. A large phenotypic variation between the tested clinical strains was observed. Strains that are highly pro-inflammatory in vitro also caused more pronounced skin inflammation in mice. Proteomic characterization of S. aureus secretomes using mass spectrometry established that specific S. aureus enzymes and cytolytic toxins, including hemolysins, phenol-soluble modulins, and serine proteases, as well as currently uncharacterized proteins, correlate with the pro-inflammatory S. aureus phenotype. This study is the first to describe the toxin secretion profiles of AK and SCC-associated S. aureus, and their potential to induce a pro-inflammatory environment in the skin. Further studies are needed to establish whether these S. aureus products promote SCC development by mediating chronic inflammation.
 
 [Source](https://doi.org/10.3389/fmicb.2021.789042)
 
+10.3389/fmicb.2021.789042
+
 ---
 
-## Aged related human skin microbiome and mycobiome in Korean women
+## Aged related human skin microbiome and mycobiome in Korean women.
+ 14.02.2022, _HJ Kim, HN Oh, T Park, H Kim, HG Lee, S An, WJ Sul_
+
+
+We examined differences in the skin microbiome of two separate age groups to find key microbial and skin physiological indicators associated with aging. We recruited healthy Korean women 19-28 years old (Y-group) and 60-63 years old (O-group) and evaluated their cheek and forehead skin microbiome, including bacteria and fungi. The microbiome was significantly different by age group, with bacterial and fungal communities displaying higher alpha-diversity in the O-group than in the Y-group. We identified amplicon sequence variants affiliated with Cutibacterium and Lactobacillus and fungi Malassezia restricta as microbial biomarkers showing significant differences between the Y and O-group. There are more microbial communities and metabolic processes related to skin health in the Y-group than in the O-group, and there are more microbial interactions to increase the stability of the network structure of the skin. Skin physical metadata, including transepidermal water loss and sebum content, differed by two age groups. The crucial skin microbes, skin physical parameters, and microbial network found through this research will be useful key indicators in associating skin aging and skin microbiome research.
 
 [Source](https://doi.org/10.1038/s41598-022-06189-5)
+
+10.1038/s41598-022-06189-5
 
 ---
 
