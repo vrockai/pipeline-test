@@ -238,7 +238,7 @@ A growing awareness of role that microbiota can play in mediating the effects of
 
 The troposphere constitutes the final frontier of global ecosystem research due to technical challenges arising from its size, low biomass, and gaseous state. Using a vertical testing array comprising a meteorological tower and a research aircraft, we conducted synchronized measurements of meteorological parameters and airborne biomass (n = 480) in the vertical air column up to 3,500 m. The taxonomic analysis of metagenomic data revealed differing patterns of airborne microbial community composition with respect to time of day and height above ground. The temporal and spatial resolution of our study demonstrated that the diel cycle of airborne microorganisms is a ground-based phenomenon that is entirely absent at heights &gt;1,000 m. In an integrated analysis combining meteorological and biological data, we demonstrate that atmospheric turbulence, identified by potential temperature and high-frequency three-component wind measurements, is the key driver of bioaerosol dynamics in the lower troposphere. Multivariate regression analysis shows that at least 50% of identified airborne microbial taxa (n = ∼10,000) are associated with either ground or height, allowing for an understanding of dispersal patterns of microbial taxa in the vertical air column. Due to the interconnectedness of atmospheric turbulence and temperature, the dynamics of microbial dispersal are likely to be impacted by rising global temperatures, thereby also affecting ecosystems on the planetary surface.
 
-[Source](https://doi.org/ 10.1073/pnas.2117293119)
+[Source](https://doi.org/10.1073/pnas.2117293119)
 
 10.1073/pnas.2117293119
 
