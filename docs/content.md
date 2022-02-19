@@ -82,15 +82,9 @@ Coevolution between hosts and parasites is a major driver of rapid evolutionary 
 
 ---
 
-## Enteric nervous system modulation of luminal pH modifies the microbial environment to promote intestinal health.
- 18.02.2022, _MK Hamilton, ES Wall, CD Robinson, K Guillemin, JS Eisen_
-
-
-The enteric nervous system (ENS) controls many aspects of intestinal homeostasis, including parameters that shape the habitat of microbial residents. Previously we showed that zebrafish lacking an ENS, due to deficiency of the sox10 gene, develop intestinal inflammation and bacterial dysbiosis, with an expansion of proinflammatory Vibrio strains. To understand the primary defects resulting in dysbiosis in sox10 mutants, we investigated how the ENS shapes the intestinal environment in the absence of microbiota and associated inflammatory responses. We found that intestinal transit, intestinal permeability, and luminal pH regulation are all aberrant in sox10 mutants, independent of microbially induced inflammation. Treatment with the proton pump inhibitor, omeprazole, corrected the more acidic luminal pH of sox10 mutants to wild type levels. Omeprazole treatment also prevented overabundance of Vibrio and ameliorated inflammation in sox10 mutant intestines. Treatment with the carbonic anhydrase inhibitor, acetazolamide, caused wild type luminal pH to become more acidic, and increased both Vibrio abundance and intestinal inflammation. We conclude that a primary function of the ENS is to regulate luminal pH, which plays a critical role in shaping the resident microbial community and regulating intestinal inflammation.
+## Enteric nervous system modulation of luminal pH modifies the microbial environment to promote intestinal health
 
 [Source](https://doi.org/10.1371/journal.ppat.1009989)
-
-10.1371/journal.ppat.1009989
 
 ---
 
