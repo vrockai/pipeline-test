@@ -58,75 +58,39 @@ Coevolution between hosts and parasites is a major driver of rapid evolutionary 
 
 ---
 
-## Tryptophan-derived microbial metabolites activate the aryl hydrocarbon receptor in tumor-associated macrophages to suppress anti-tumor immunity.
- 09.02.2022, _K Hezaveh, RS Shinde, A Klötgen, MJ Halaby, S Lamorte, MT Ciudad, R Quevedo, L Neufeld, ZQ Liu, R Jin, BT Grünwald, EG Foerster, D Chaharlangi, M Guo, P Makhijani, X Zhang, TJ Pugh, DM Pinto, IL Co, AP McGuigan, GH Jang, R Khokha, PS Ohashi, GM O'Kane, S Gallinger, WW Navarre, H Maughan, DJ Philpott, DG Brooks, TL McGaha_
-
-
-The aryl hydrocarbon receptor (AhR) is a sensor of products of tryptophan metabolism and a potent modulator of immunity. Here, we examined the impact of AhR in tumor-associated macrophage (TAM) function in pancreatic ductal adenocarcinoma (PDAC). TAMs exhibited high AhR activity and Ahr-deficient macrophages developed an inflammatory phenotype. Deletion of Ahr in myeloid cells or pharmacologic inhibition of AhR reduced PDAC growth, improved efficacy of immune checkpoint blockade, and increased intra-tumoral frequencies of IFNγ+CD8+ T cells. Macrophage tryptophan metabolism was not required for this effect. Rather, macrophage AhR activity was dependent on Lactobacillus metabolization of dietary tryptophan to indoles. Removal of dietary tryptophan reduced TAM AhR activity and promoted intra-tumoral accumulation of TNFα+IFNγ+CD8+ T cells; provision of dietary indoles blocked this effect. In patients with PDAC, high AHR expression associated with rapid disease progression and mortality, as well as with an immune-suppressive TAM phenotype, suggesting conservation of this regulatory axis in human disease.
+## Tryptophan-derived microbial metabolites activate the aryl hydrocarbon receptor in tumor-associated macrophages to suppress anti-tumor immunity
 
 [Source](https://doi.org/10.1016/j.immuni.2022.01.006)
 
-10.1016/j.immuni.2022.01.006
-
 ---
 
-## Stochastic microbiome assembly depends on context.
- 09.02.2022, _EW Jones, JM Carlson, DA Sivak, WB Ludington_
-
-
-Observational studies reveal substantial variability in microbiome composition across individuals. Targeted studies in gnotobiotic animals underscore this variability by showing that some bacterial strains colonize deterministically, while others colonize stochastically. While some of this variability can be explained by external factors like environmental, dietary, and genetic differences between individuals, in this paper we show that for the model organism Drosophila melanogaster, interactions between bacteria can affect the microbiome assembly process, contributing to a baseline level of microbiome variability even among isogenic organisms that are identically reared, housed, and fed. In germ-free flies fed known combinations of bacterial species, we find that some species colonize more frequently than others even when fed at the same high concentration. We develop an ecological technique that infers the presence of interactions between bacterial species based on their colonization odds in different contexts, requiring only presence/absence data from two-species experiments. We use a progressive sequence of probabilistic models, in which the colonization of each bacterial species is treated as an independent stochastic process, to reproduce the empirical distributions of colonization outcomes across experiments. We find that incorporating context-dependent interactions substantially improves the performance of the models. Stochastic, context-dependent microbiome assembly underlies clinical therapies like fecal microbiota transplantation and probiotic administration and should inform the design of synthetic fecal transplants and dosing regimes.
+## Stochastic microbiome assembly depends on context
 
 [Source](https://doi.org/10.1073/pnas.2115877119)
 
-10.1073/pnas.2115877119
-
 ---
 
-## IBD-Associated Atg16L1T300A Polymorphism Regulates Commensal Microbiota of the Intestine.
- 16.02.2022, _H Liu, P Gao, B Jia, N Lu, B Zhu, F Zhang_
-
-
-The development of inflammatory bowel disease (IBD) is driven by the interaction among host genetics, microbiota, and the immune system of the entire digestive tract. Atg16L1T300A polymorphism is a genetic factor that confers increased risk for the pathogenesis of Crohn's disease. However, the exact contributions of Atg16L1T300A to intestinal mucosal homeostasis are not well understood. Here we show that Atg16L1T300A polymorphism impacts commensal bacterial flora in the intestine under a steady state. Analysis of intestinal bacteria from Atg16L1T300A/T300A mice showed that they harbored an altered microbiota in both the terminal ileum and colon compared to cohoused WT mice. Interestingly, Atg16L1T300A/T300A mice harbored a significant increase in the abundance of Tyzzerella, Mucispirillum, Ruminococcaceae, and Cyanobacteria which were known associated with IBD. Moreover, Akkermansia, a bacterium that is mucin-associated, was reduced greatly in Atg16L1T300A/T300A mice. Further analysis indicated that goblet cells of Atg16L1T300A/T300A mice had diminished mucin secretion that resulted from defective autophagy. Finally, Atg16L1T300A/T300A mice developed more severe inflammation in the DSS colitis model than in WT mice. These results indicate that the altered microbiota in Atg16L1T300A/T300A mice might be an important factor that contributed to the risk of Atg16L1T300A carriers to Crohn's disease and supports a multi-hit disease model involving specific gene-microbe interactions.
+## -Associated Atg16L1T300A Polymorphism Regulates Commensal Microbiota of the Intestine
 
 [Source](https://doi.org/10.3389/fimmu.2021.772189)
 
-10.3389/fimmu.2021.772189
-
 ---
 
-## Homeostatic interferon-lambda response to bacterial microbiota stimulates preemptive antiviral defense within discrete pockets of intestinal epithelium.
- 18.02.2022, _JA Van Winkle, ST Peterson, EA Kennedy, MJ Wheadon, H Ingle, C Desai, R Rodgers, DA Constant, AP Wright, L Li, MN Artyomov, S Lee, MT Baldridge, TJ Nice_
-
-
-Interferon-lambda (IFN-λ) protects intestinal epithelial cells (IECs) from enteric viruses by inducing expression of antiviral IFN-stimulated genes (ISGs). Here, we find that bacterial microbiota stimulate a homeostatic ISG signature in the intestine of specific pathogen-free mice. This homeostatic ISG expression is restricted to IECs, depends on IEC-intrinsic expression of IFN-λ receptor (Ifnlr1), and is associated with IFN-λ production by leukocytes. Strikingly, imaging of these homeostatic ISGs reveals localization to pockets of the epithelium and concentration in mature IECs. Correspondingly, a minority of mature IECs express these ISGs in public single-cell RNA sequencing datasets from mice and humans. Furthermore, we assessed the ability of orally administered bacterial components to restore localized ISGs in mice lacking bacterial microbiota. Lastly, we find that IECs lacking Ifnlr1 are hyper-susceptible to initiation of murine rotavirus infection. These observations indicate that bacterial microbiota stimulate ISGs in localized regions of the intestinal epithelium at homeostasis, thereby preemptively activating antiviral defenses in vulnerable IECs to improve host defense against enteric viruses.
+## A homeostatic interferon-lambda response to bacterial microbiota stimulates preemptive antiviral defense within discrete pockets of intestinal epithelium
 
 [Source](https://doi.org/10.7554/eLife.74072)
 
-10.7554/eLife.74072
-
 ---
 
-## Enteric nervous system modulation of luminal pH modifies the microbial environment to promote intestinal health.
- 18.02.2022, _MK Hamilton, ES Wall, CD Robinson, K Guillemin, JS Eisen_
-
-
-The enteric nervous system (ENS) controls many aspects of intestinal homeostasis, including parameters that shape the habitat of microbial residents. Previously we showed that zebrafish lacking an ENS, due to deficiency of the sox10 gene, develop intestinal inflammation and bacterial dysbiosis, with an expansion of proinflammatory Vibrio strains. To understand the primary defects resulting in dysbiosis in sox10 mutants, we investigated how the ENS shapes the intestinal environment in the absence of microbiota and associated inflammatory responses. We found that intestinal transit, intestinal permeability, and luminal pH regulation are all aberrant in sox10 mutants, independent of microbially induced inflammation. Treatment with the proton pump inhibitor, omeprazole, corrected the more acidic luminal pH of sox10 mutants to wild type levels. Omeprazole treatment also prevented overabundance of Vibrio and ameliorated inflammation in sox10 mutant intestines. Treatment with the carbonic anhydrase inhibitor, acetazolamide, caused wild type luminal pH to become more acidic, and increased both Vibrio abundance and intestinal inflammation. We conclude that a primary function of the ENS is to regulate luminal pH, which plays a critical role in shaping the resident microbial community and regulating intestinal inflammation.
+## Enteric nervous system modulation of luminal pH modifies the microbial environment to promote intestinal health
 
 [Source](https://doi.org/10.1371/journal.ppat.1009989)
 
-10.1371/journal.ppat.1009989
-
 ---
 
-## Characterization of the Gut Microbiome and Resistomes of Wild and Zoo-Captive Macaques.
- 11.02.2022, _T Jia, WS Chang, VR Marcelino, S Zhao, X Liu, Y You, EC Holmes, M Shi, C Zhang_
-
-
-Rhesus macaques (Macaca mulatta) are the most widely distributed species of Old World monkey and are frequently used as animal models to study human health and disease. Their gastrointestinal microbial community likely plays a major role in their physiology, ecology and evolution. Herein, we compared the fecal microbiome and antibiotic resistance genes in 15 free-ranging and 81 zoo-captive rhesus macaques sampled from two zoos in China, using both 16S amplicon sequencing and whole genome shotgun DNA sequencing approaches. Our data revealed similar levels of microbial diversity/richness among the three groups, although the composition of each group differed significantly and were particularly marked between the two zoo-captive and one wild groups. Zoo-captive animals also demonstrated a greater abundance and diversity of antibiotic genes. Through whole genome shotgun sequencing we also identified a mammalian (simian) associated adenovirus. Overall, this study provides a comprehensive analysis of resistomes and microbiomes in zoo-captive and free-ranging monkeys, revealing that semi-captive wildlife might harbor a higher diversity of antimicrobial resistant genes.
+## Characterization of the Gut Microbiome and Resistomes of Wild and Zoo-Captive Macaques
 
 [Source](https://doi.org/10.3389/fvets.2021.778556)
-
-10.3389/fvets.2021.778556
 
 ---
 
