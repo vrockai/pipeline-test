@@ -88,15 +88,9 @@ Coevolution between hosts and parasites is a major driver of rapid evolutionary 
 
 ---
 
-## Characterization of the Gut Microbiome and Resistomes of Wild and Zoo-Captive Macaques.
- 11.02.2022, _T Jia, WS Chang, VR Marcelino, S Zhao, X Liu, Y You, EC Holmes, M Shi, C Zhang_
-
-
-Rhesus macaques (Macaca mulatta) are the most widely distributed species of Old World monkey and are frequently used as animal models to study human health and disease. Their gastrointestinal microbial community likely plays a major role in their physiology, ecology and evolution. Herein, we compared the fecal microbiome and antibiotic resistance genes in 15 free-ranging and 81 zoo-captive rhesus macaques sampled from two zoos in China, using both 16S amplicon sequencing and whole genome shotgun DNA sequencing approaches. Our data revealed similar levels of microbial diversity/richness among the three groups, although the composition of each group differed significantly and were particularly marked between the two zoo-captive and one wild groups. Zoo-captive animals also demonstrated a greater abundance and diversity of antibiotic genes. Through whole genome shotgun sequencing we also identified a mammalian (simian) associated adenovirus. Overall, this study provides a comprehensive analysis of resistomes and microbiomes in zoo-captive and free-ranging monkeys, revealing that semi-captive wildlife might harbor a higher diversity of antimicrobial resistant genes.
+## Characterization of the Gut Microbiome and Resistomes of Wild and Zoo-Captive Macaques
 
 [Source](https://doi.org/10.3389/fvets.2021.778556)
-
-10.3389/fvets.2021.778556
 
 ---
 
