@@ -70,27 +70,15 @@ As the global population continues to grow, competition for resources between hu
 
 ---
 
-## Microeukaryotic gut parasites in wastewater treatment plants: diversity, activity, and removal.
- 16.02.2022, _J Freudenthal, F Ju, H Bürgmann, K Dumack_
-
-
-During wastewater treatment, the wastewater microbiome facilitates the degradation of organic matter, reduction of nutrients, and removal of gut parasites. While the latter function is essential to minimize public health risks, the range of parasites involved and how they are removed is still poorly understood.
+## Microeukaryotic gut parasites in wastewater treatment plants: diversity, activity, and removal
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01225-y)
 
-10.1186/s40168-022-01225-y
-
 ---
 
-## METABOLIC: high-throughput profiling of microbial genomes for functional traits, metabolism, biogeochemistry, and community-scale functional networks.
- 23.02.2022, _Z Zhou, PQ Tran, AM Breister, Y Liu, K Kieft, ES Cowley, U Karaoz, K Anantharaman_
-
-
-Advances in microbiome science are being driven in large part due to our ability to study and infer microbial ecology from genomes reconstructed from mixed microbial communities using metagenomics and single-cell genomics. Such omics-based techniques allow us to read genomic blueprints of microorganisms, decipher their functional capacities and activities, and reconstruct their roles in biogeochemical processes. Currently available tools for analyses of genomic data can annotate and depict metabolic functions to some extent; however, no standardized approaches are currently available for the comprehensive characterization of metabolic predictions, metabolite exchanges, microbial interactions, and microbial contributions to biogeochemical cycling.
+## METABOLIC: high-throughput profiling of microbial genomes for functional traits, metabolism, biogeochemistry, and community-scale functional networks
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01213-8)
-
-10.1186/s40168-021-01213-8
 
 ---
 
