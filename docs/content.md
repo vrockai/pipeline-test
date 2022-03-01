@@ -1,318 +1,216 @@
-## <em>Fusobacterium nucleatum</em> promotes colorectal cancer cells adhesion to endothelial cells and facilitates extravasation and metastasis by inducing ALPK1/NF-κB/ICAM1 axis
-
-[Source](https://doi.org/10.1080/19490976.2022.2038852)
-
----
-
-## Oral and Intestinal Bacterial Substances Associated with Disease Activities in Patients with Rheumatoid Arthritis: A Cross-Sectional Clinical Study.
- 28.02.2022, _K Kitamura, H Shionoya, S Suzuki, R Fukai, S Uda, C Abe, H Takemori, K Nishimura, H Baba, K Katayama, K Terato, T Waritani_
+## Phylogenomics, Epigenomics, Virulome, and Mobilome of Gram-negative Bacteria Co-resistant to Carbapenems and Polymyxins: A One-Health Systematic Review and Meta-analyses.
+ 07.02.2022, _WT Ramaloko, J Osei Sekyere_
 
 
-Intestinal bacterial compositions of rheumatoid arthritis (RA) patients have been reported to be different from those of healthy people. Dysbiosis, imbalance of the microbiota, is widely known to cause gut barrier damage, resulting in an influx of bacteria and their substances into host bloodstreams in animal studies. However, few studies have investigated the effect of bacterial substances on the pathophysiology of RA. In this study, eighty-seven active RA patients who had inadequate responses to conventional synthetic disease-modifying antirheumatic drugs or severe comorbidities were analyzed for correlations between many factors such as disease activities, disease biomarkers, intestinal bacterial counts, fecal and serum lipopolysaccharide (LPS), LPS-binding protein (LBP), endotoxin neutralizing capacity (ENC), and serum antibacterial substance IgG and IgA antibody levels by multiple regression analysis with consideration for demographic factors such as age, sex, smoking, and methotrexate treatment. Serum LBP levels, fecal LPS levels, total bacteria counts, serum anti-LPS from Porphyromonas gingivalis (Pg-LPS) IgG antibody levels, and serum anti-Pg-LPS IgA antibody levels were selected for multiple regression analysis using Spearman's correlation analysis. Serum LBP levels were correlated with disease biomarker levels, such as erythrocyte sedimentation rate (p &lt; 0.001), C-reactive protein (p &lt; 0.001), matrix metalloproteinase-3 (p &lt; 0.001), and IL-6 (p = 0.001), and were inversely correlated with hemoglobin (p = 0.005). Anti-Pg-LPS IgG antibody levels were inversely correlated with activity indices such as patient global assessments using visual analogue scale (VAS) (p = 0.002) and painVAS (p &lt; 0.001). Total bacteria counts were correlated with ENC (p &lt; 0.001), and inversely correlated with serum LPS (p &lt; 0.001) and anti-Pg-LPS IgA antibody levels (p &lt; 0.001). These results suggest that substances from oral and gut microbiota may influence disease activity in RA patients.
+Gram-negative bacteria (GNB) continue to develop resistance against important antibiotics including last-resort ones such as carbapenems and polymyxins. An analysis of GNB with co-resistance to carbapenems and polymyxins from a One Health perspective is presented. Data of species name, country, source of isolation, resistance genes (ARGs), plasmid type, clones, and mobile genetic elements (MGEs) were deduced from 129 articles from January 2016 to March 2021. Available genomes and plasmids were obtained from PATRIC and NCBI. Resistomes and methylomes were analysed using BAcWGSTdb and REBASE whilst Kaptive was used to predict capsule typing. Plasmids and other MEGs were identified using MGE Finder and ResFinder. Phylogenetic analyses were done using RAxML and annotated with MEGA 7. A total of 877 isolates, 32 genomes and 44 plasmid sequences were analysed. Most of these isolates were reported in Asian countries and were isolated from clinical, animal, and environmental sources. Colistin resistance was mostly mediated by mgrB inactivation (37%; n = 322) and mcr-1 (36%; n = 312), while OXA-48/181 was the most reported carbapenemase. IncX and IncI were the most common plasmids hosting carbapenemases and mcr genes. The isolates were co-resistant to other antibiotics, with floR (chloramphenicol) and fosA3 (fosfomycin) being common; E. coli ST156 and K. pneumoniae ST258 strains were common globally. Virulence genes and capsular KL-types were also detected. Type I, II, III and IV restriction modification systems were detected, comprising various MTases and restriction enzymes. The escalation of highly resistant isolates drains the economy due to untreatable bacterial infections, which leads to increasing global mortality rates and healthcare costs. This article is protected by copyright. All rights reserved.
 
-[Source](https://doi.org/10.1155/2022/6839356)
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15930)
 
-10.1155/2022/6839356
+10.1111/1462-2920.15930
 
 ---
 
-## Cervicovaginal Microbiota Predicts <em>Neisseria gonorrhoeae</em> Clinical Presentation
-
-[Source](https://doi.org/10.3389/fmicb.2021.790531)
-
----
-
-## Gut microbiota from Mexican patients with metabolic syndrome and HIV infection: an inflammatory profile.
- 26.02.2022, _F Amador-Lara, JF Andrade-Villanueva, N Vega-Magaña, M Peña-Rodríguez, M Alvarez-Zavala, K Sanchez-Reyes, M Toscano-Piña, AA Peregrina-Lucano, S Del Toro-Arreola, LA González-Hernández, MR Bueno-Topete_
+## Global diversity and distribution of mushroom-inhabiting bacteria.
+ 01.02.2022, _D Gohar, K Põldmaa, L Tedersoo, F Aslani, B Furneaux, TW Henkel, I Saar, ME Smith, M Bahram_
 
 
-A remarkable increase in metabolic syndrome (MetS) has occurred in HIV-infected subjects. Gut dysbiosis is involved in the pathogenesis of metabolic disorders. Therefore, the aim is to explore the profile of the gut microbiota in Mexican population with HIV infection and MetS.
+Mushroom-forming fungi are important sources of food and medicine in many regions of the world, and their development and health are known to depend on various microbes. Recent studies have examined the structure of mushroom-inhabiting bacterial (MIB) communities and their association with local environmental variables, but global-scale diversity and determinants of these communities remain poorly understood. Here we examined the MIB global diversity and community composition in relation to climate, soil and host factors. We found a core global mushroom microbiome, accounting for 30% of sequence reads, while comprising a few bacterial genera such as Halomonas, Serratia, Bacillus, Cutibacterium, Bradyrhizobium and Burkholderia. Our analysis further revealed an important role of host phylogeny in shaping the communities of MIB, whereas the effects of climate and soil factors remained negligible. The results suggest that the communities of MIB and free-living bacteria are structured by contrasting community assembly processes and that fungal-bacterial interactions are an important determinant of MIB community structure.
 
-[Source](https://doi.org/10.1111/jam.15505)
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13045)
 
-10.1111/jam.15505
+10.1111/1758-2229.13045
 
 ---
 
-## Dysbiosis of skin microbiome and gut microbiome in melanoma progression.
- 28.02.2022, _C Mekadim, HK Skalnikova, J Cizkova, V Cizkova, A Palanova, V Horak, J Mrazek_
+## Genomic Epidemiology Insights on NDM-Producing Pathogens Revealed the Pivotal Role of Plasmids on blaNDM Transmission.
+ 28.02.2022, _H Dong, Y Li, J Cheng, Z Xia, W Liu, T Yan, F Chen, Z Wang, R Li, J Shi, S Qin_
 
 
-The microbiome alterations are associated with cancer growth and may influence the immune system and response to therapy. Particularly, the gut microbiome has been recently shown to modulate response to melanoma immunotherapy. However, the role of the skin microbiome has not been well explored in the skin tumour microenvironment and the link between the gut microbiome and skin microbiome has not been investigated in melanoma progression. Therefore, the aim of the present study was to examine associations between dysbiosis in the skin and gut microbiome and the melanoma growth using MeLiM porcine model of melanoma progression and spontaneous regression.
+Incidences of nosocomial infections mediated by New Delhi metallo-β-lactamase (NDM) enzyme-producing Enterobacterales are increasing globally, resulting in a great burden to public health. The carbapenem-resistant Enterobacterales (CRE) were collected from Henan, China during 2013-2016. The blaNDM-positive strains were characterized using PCR, antimicrobial susceptibility testing, conjugation assay, S1 nuclease pulsed-field gel electrophoresis (S1-PFGE), Southern blot, whole-genome sequencing (WGS), and bioinformatics analysis. Eighty-one NDM-producing strains were identified among 391 nonduplicate CRE strains. Among them, four strains cocarried mcr and blaNDM genes, and two carried blaIMP-4 and blaNDM genes. The coexistence of blaNDM-5 and mcr-9 in Enterobacter hormaechei was found for the first time. In total, four blaNDM subtypes were identified. Among them, blaNDM-1 and blaNDM-5 were predominant. There was an obvious increasing trend in blaNDM-5 from 2013 to 2016. Thirteen different bacterial species were found among the 81 strains, and Escherichia coli was the dominant strain. blaNDM genes were located on nine different Inc-type plasmids, most of them on the IncX3 plasmids, except for the Pr-15-2-50 strain, which was located on the chromosome. We characterized two novel plasmids: the IncHI5-like plasmid carrying blaNDM-9 found in K. pneumonia, and the IncI1 blaNDM-5-positive plasmid. These findings provide the genomic basis for the widespread transmission of blaNDM and pave the way for the formulation of more effective monitoring and control methods. IMPORTANCE To control the emergence and transmission of CRE, it is important to perform retrospective genomic investigations. It is important to evaluate the plasmid diversity, genetic environment, and evolutionary relationships of the blaNDM-positive clinical strains in the early transmission stages. This study conducted an in-depth analysis of blaNDM-positive pathogens during a 4-year period using different methods for observing the high prevalence and active transmission of blaNDM-positive CRE. Moreover, we also explored the coexistence of the blaNDM and mcr, a clinically important mobile colistin resistance gene. This study shows that the prevalence of blaNDM-positive pathogens in Henan is high and the isolation rates increase each year. Moreover, plasmid-mediated horizontal transfer plays an important role in blaNDM dissemination. The co-occurrence of multiple resistance genes highlighted a long-lasting evolutionary pathway. Therefore, we have suggested the long-term continuous surveillance of clinical pathogens carrying blaNDM to learn the future transmission trend and curb the public health risk caused by CRE.
 
-[Source](https://doi.org/10.1186/s12866-022-02458-5)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.02156-21)
 
-10.1186/s12866-022-02458-5
-
----
-
-## Whole Genome Analysis of 335 New Bacterial Species from Human Microbiota Reveals a Huge Reservoir of Transferable Antibiotic Resistance Determinants.
- 28.02.2022, _S Khabthani, JM Rolain, V Merhej_
-
-
-The emergence and diffusion of strains of pathogenic bacteria resistant to antibiotics constitutes a real public health challenge. Antibiotic resistance genes (ARGs) can be carried by both pathogenic and non-pathogenic bacteria, including commensal bacteria from the human microbiota, which require special monitoring in the fight against antimicrobial resistance.
-
-[Source](https://doi.org/10.3390/ijms23042137)
-
-10.3390/ijms23042137
+10.1128/spectrum.02156-21
 
 ---
 
-## Dynamics of the Gut Bacteria and Fungi Accompanying Low-Carbohydrate Diet-Induced Weight Loss in Overweight and Obese Adults.
- 28.02.2022, _D Yu, L Xie, W Chen, J Qin, J Zhang, M Lei, Y Wang, H Tang, S Xue, X Liang, Z Miao, C Xiao, M Shang, J Lu, H Di, Y Fu_
+## Contributions of Human-Associated Archaeal Metabolites to Tumor Microenvironment and Carcinogenesis.
+ 28.02.2022, _M Cai, S Kandalai, X Tang, Q Zheng_
 
 
-Low-carbohydrate (e.g., Atkins) dietary pattern is one of the most effective diets for weight loss, but little is known about the characteristics of the gut microbiota accompanying low-carbohydrate diets-induced weight loss. This study aims to profile dynamics of gut bacteria and fungi accompanying modified Atkins diets-induced weight loss among overweight and obese adults.
+There is increasing awareness that archaea are interrelated with human diseases (including cancer). Archaea utilize unique metabolic pathways to produce a variety of metabolites that serve as a direct link to host-microbe interactions. However, knowledge on the diversity of human-associated archaea is still extremely limited, and less is known about the pathological effects of their metabolites to the tumor microenvironment and carcinogenesis. In the present study, we performed a large-scale analysis of archaea and their cancer-related metabolites across different body sites using &gt;44,000 contigs with length &gt;1,000 bp. Taxonomy annotation revealed that the occurrence and diversity of archaea are higher in two body sites, the gut and the oral cavity. Unlike other human-associated microbes, the nonmetric multidimensional scaling (NMDS) and permutational multivariate analysis of variance (PERMANOVA) analyses have shown no difference of archaeal compositions between Easterners and Westerners. Likewise, protein annotation suggests that genes encoding cancer-related metabolites (e.g., short-chain fatty acids and polyamines) are more prevalent and diverse in gut and oral samples. Archaea carrying these metabolites are restricted to Euryarchaeota and the TACK superphylum (Thaumarchaeota, Aigarchaeota, Crenarchaeota, and Korarchaeota), especially methanogenic archaea, such as Methanobacteria. IMPORTANCE More evidence suggests that archaea are associated with human disease, including cancer. Here, we present the first framework of the diversity and distribution of human-associated archaea across human body sites, such as gut and oral cavity, using long contigs. Furthermore, we unveiled the potential archaeal metabolites linking to different lineages that might influence the tumor microenvironment and carcinogenesis. These results could open a new door to the guidance of diagnosing cancer and developing new treatment strategies.
 
-[Source](https://doi.org/10.3389/fnut.2022.846378)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.02367-21)
 
-10.3389/fnut.2022.846378
-
----
-
-## The Gut Microbiome as a Biomarker of Cancer Progression Among Female Never-smokers With Lung Adenocarcinoma.
- 27.02.2022, _T Otoshi, T Nagano, J Park, K Hosomi, T Yamashita, M Tachihara, T Tabata, R Sekiya, Y Tanaka, K Kobayashi, K Mizuguchi, T Itoh, Y Maniwa, J Kunisawa, Y Nishimura_
-
-
-The gut microbiome plays an important role in the immune system and has attracted attention as a biomarker of several diseases, including cancer. In this study, we examined the relationship between the gut microbiome and lung cancer progression.
-
-[Source](https://doi.org/10.21873/anticanres.15633)
-
-10.21873/anticanres.15633
+10.1128/spectrum.02367-21
 
 ---
 
-## Impact Of The Ileal Microbiota On Surgical Site Infections In Crohn’s Disease: A Nationwide Prospective Cohort
-
-[Source](https://doi.org/10.1093/ecco-jcc/jjac026)
-
----
-
-## A multiple-dimension model for microbiota of patients with colorectal cancer from normal participants and other intestinal disorders.
- 26.02.2022, _J Shen, G Jin, Z Zhang, J Zhang, Y Sun, X Xie, T Ma, Y Zhu, Y Du, Y Niu, X Shi_
+## Early life inter-kingdom interactions shape the immunological environment of the airways.
+ 25.02.2022, _C Pattaroni, M Macowan, R Chatzis, C Daunt, A Custovic, MD Shields, UF Power, J Grigg, G Roberts, P Ghazal, J Schwarze, M Gore, S Turner, A Bush, S Saglani, CM Lloyd, BJ Marsland_
 
 
-Gut microbiota is a primary driver of inflammation in the colon and is linked to early colorectal cancer (CRC) development. Thus, a novel and noninvasive microbiome-based model could promote screening in patients at average risk for CRC. Nevertheless, the relevance and effectiveness of microbial biomarkers for noninvasive CRC screening remains unclear, and researchers lack the data to distinguish CRC-related gut microbiome biomarkers from those of other common gastrointestinal (GI) diseases. Microbiome-based classification distinguishes patients with CRC from normal participants and excludes other CRC-relevant diseases (e.g., GI bleed, adenoma, bowel diseases, and postoperative). The area under the receiver operator characteristic curve (AUC) was 92.2%. Known associations with oral pathogenic features, benefits-generated features, and functional features of CRC were confirmed using the model. Our optimised prediction model was established using large-scale experimental population-based data and other sequence-based faecal microbial community data. This model can be used to identify the high-risk groups and has the potential to become a novel screening method for CRC biomarkers because of its low false-positive rate (FPR) and good stability. KEY POINTS: • A total of 5744 CRC and non-CRC large-scale faecal samples were sequenced, and a model was constructed for CRC discrimination on the basis of the relative abundance of taxonomic and functional features. • This model could identify high-risk groups and become a novel screening method for CRC biomarkers because of its low FPR and good stability. • The association relationship of oral pathogenic features, benefits-generated features, and functional features in CRC was confirmed by the study.
+There is increasing evidence that the airway microbiome plays a key role in the establishment of respiratory health by interacting with the developing immune system early in life. While it has become clear that bacteria are involved in this process, there is a knowledge gap concerning the role of fungi. Moreover, the inter-kingdom interactions that influence immune development remain unknown. In this prospective exploratory human study, we aimed to determine early post-natal microbial and immunological features of the upper airways in 121 healthy newborns.
 
-[Source](https://doi.org/10.1007/s00253-022-11846-w)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01201-y)
 
-10.1007/s00253-022-11846-w
+10.1186/s40168-021-01201-y
 
 ---
 
-## Gut Microbiota Regulate Pancreatic Growth, Exocrine Function and Gut Hormones.
- 25.02.2022, _K Girdhar, M Soto, Q Huang, L Orliaguet, C Cederquist, B Sundaresh, J Hu, M Figura, A Raisingani, EE Canfora, E Dirice, S Fujisaka, GH Goossens, EE Blaak, RN Kulkarni, CR Kahn, E Altindis_
+## Altered gut metabolites and microbiota interactions are implicated in colorectal carcinogenesis and can be non-invasive diagnostic biomarkers.
+ 25.02.2022, _OO Coker, C Liu, WKK Wu, SH Wong, W Jia, JJY Sung, J Yu_
 
 
-Growing evidence indicates an important link between gut microbiota, obesity, and metabolic syndrome. Alterations in exocrine pancreatic function are also widely present in patients with diabetes and obesity. To examine this interaction, C57BL/6J mice were fed either a chow diet, high-fat diet (HFD) or HFD plus oral vancomycin or metronidazole to modify the gut microbiome. HFD alone leads to a 40% increase in pancreas weight, decreased glucagon-like peptide-1 and peptide YY levels, and increased glucose-dependent insulinotropic peptide in the plasma. Quantitative proteomics identified 138 host proteins in fecal samples of these mice, of which 32 were significantly changed by HFD. The most significant of these were the pancreatic enzymes. These changes in amylase and elastase were reversed by antibiotic treatment. These alterations could be reproduced by transferring gut microbiota from donor C57BL/6J mice to germ-free. By contrast, antibiotics had no effect on pancreatic size or exocrine function in C57BL/6J mice fed a chow diet. Further, one week vancomycin administration significantly increased amylase and elastase levels in obese prediabetic men. Thus, the alterations in gut microbiota in obesity can alter pancreatic growth, exocrine function and gut endocrine function, and may contribute to the alterations observed in patients with obesity and diabetes.
+Gut microbiota contributes to colorectal cancer (CRC) pathogenesis through microbes and their metabolites. The importance of microbiota-associated metabolites in colorectal carcinogenesis highlights the need to investigate the gut metabolome along the adenoma-carcinoma sequence to determine their mechanistic implications in the pathogenesis of CRC. To date, how and which microbes and metabolites interactively promote early events of CRC development are still largely unclear. We aim to determine gut microbiota-associated metabolites and their linkage to colorectal carcinogenesis.
 
-[Source](https://doi.org/10.2337/db21-0382)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01208-5)
 
-10.2337/db21-0382
-
----
-
-## Respiratory dysfunction three months after severe COVID-19 is associated with gut microbiota alterations.
- 25.02.2022, _B Vestad, T Ueland, TV Lerum, TB Dahl, K Holm, A Barratt-Due, T Kåsine, AM Dyrhol-Riise, B Stiksrud, K Tonby, H Hoel, IC Olsen, KN Henriksen, A Tveita, R Manotheepan, M Haugli, R Eiken, Å Berg, B Halvorsen, T Lekva, T Ranheim, AE Michelsen, AB Kildal, A Johannessen, L Thoresen, H Skudal, BR Kittang, RB Olsen, CM Ystrøm, NV Skei, R Hannula, S Aballi, R Kvåle, OH Skjønsberg, P Aukrust, JR Hov, M Trøseid_
-
-
-Although coronavirus disease 2019 (COVID-19) is primarily a respiratory infection, mounting evidence suggests that the gastrointestinal (GI) tract is involved in the disease, with gut barrier dysfunction and gut microbiota alterations being related to disease severity. Whether these alterations persist and are related to long-term respiratory dysfunction remains unknown.
-
-[Source](https://doi.org/10.1111/joim.13458)
-
-10.1111/joim.13458
+10.1186/s40168-021-01208-5
 
 ---
 
-## Gut microbiota and BMI throughout childhood: the role of firmicutes, bacteroidetes, and short-chain fatty acid producers.
- 28.02.2022, _TA Houtman, HA Eckermann, H Smidt, C de Weerth_
+## Development of a rational framework for the therapeutic efficacy of fecal microbiota transplantation for calf diarrhea treatment.
+ 24.02.2022, _J Islam, M Tanimizu, Y Shimizu, Y Goto, N Ohtani, K Sugiyama, E Tatezaki, M Sato, E Makino, T Shimada, C Ueda, A Matsuo, Y Suyama, Y Sakai, M Furukawa, K Usami, H Yoneyama, H Aso, H Tanaka, T Nochi_
 
 
-Childhood obesity is a risk factor for numerous health conditions. A critical factor in the etiology of obesity appears to be the gut microbiota, which is the microbial community that resides in the human gut. The ratio of the phyla Firmicutes and Bacteroidetes (F/B) and gut bacterial genera that produce short-chain fatty acids (SCFA) have been suggested to contribute to obesity. The current study investigated (1) whether differences in F/B ratio can be observed in infancy and childhood in relation to zBMI in healthy children, and (2) whether an innovative proxy measure adds evidence to a relationship between SCFA producers and the etiology of obesity. Stool samples were collected at five time points, and zBMI was assessed at eight time points throughout the first 12 years of life. Our confirmatory analyses with Bayesian multilevel models showed no relationship between the F/B ratio and zBMI. Also, a proxy measure constructed from known SCFA producers was unrelated to zBMI throughout the first 12 years of life. Exploratory analyses using multilevel and random forest models suggest that the relative abundances of Firmicutes and Bacteroidetes were independently negatively associated with zBMI from infancy through childhood, and the SCFA producing genera Subdoligranulum and Alistipes were negatively related to future BMI in childhood.
+Establishing fecal microbiota transplantation (FMT) to prevent multifactorial diarrhea in calves is challenging because of the differences in farm management practices, the lack of optimal donors, and recipient selection. In this study, the underlying factors of successful and unsuccessful FMT treatment cases are elucidated, and the potential markers for predicting successful FMT are identified using fecal metagenomics via 16S rRNA gene sequencing, fecal metabolomics via capillary electrophoresis time-of-flight mass spectrometry, and machine learning approaches.
 
-[Source](https://doi.org/10.1038/s41598-022-07176-6)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01217-4)
 
-10.1038/s41598-022-07176-6
-
----
-
-## Cross-reactivity between microbial and tumor antigens.
- 27.02.2022, _L Zitvogel, G Kroemer_
-
-
-The composition of the gut microbiota has a major impact on anticancer immunosurveillance. This effect is in part determined by systemic effects of bacterial or fungal metabolites, as well as by microbial ligands of pattern recognition receptors that modulate adjuvant signals and hence determine the general immune tonus. In addition, microbial antigens can elicit specific T lymphocyte responses that are cross-reactive with respect to tumor-associated antigens, hence inducing specific antitumor immune responses. Here, we discuss current evidence in favor of such cross-reactive anticancer/antimicrobial T cell response and delineate a methodology to demonstrate their actual importance for the immune control of malignant cells.
-
-[Source](https://doi.org/10.1016/j.coi.2022.102171)
-
-10.1016/j.coi.2022.102171
+10.1186/s40168-021-01217-4
 
 ---
 
-## The role of nutrition in inflammaging.
- 27.02.2022, _P Di Giosia, CA Stamerra, P Giorgini, T Jamialahamdi, AE Butler, A Sahebkar_
+## Comparative microbiome analysis of Diaphorina citri and its associated parasitoids Tamarixia radiata and Diaphorencyrtus aligarhensis reveals Wolbachia as a dominant endosymbiont
 
-
-Old age is characterized by a peculiar low-grade, chronic, and "sterile" inflammatory state, which has been termed "inflammaging." This is believed to substantially contribute to the pathogenesis of many age-related diseases and to the progression of the ageing process. An adequate nutritional status is of great importance for maintaining proper immune system functionality and preventing frailty in the elderly.
-
-[Source](https://doi.org/10.1016/j.arr.2022.101596)
-
-10.1016/j.arr.2022.101596
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15948)
 
 ---
 
-## Impact of antibiotics on the human microbiome and consequences for host health.
- 28.02.2022, _DV Patangia, C Anthony Ryan, E Dempsey, R Paul Ross, C Stanton_
+## Core arbuscular mycorrhizal fungi are predicted by their high abundance-occupancy relationship while host-specific taxa are rare and geographically structured.
+ 26.02.2022, _KT Kajihara, CP Egan, SOI Swift, CB Wall, CD Muir, NA Hynson_
 
 
-It is well established that the gut microbiota plays an important role in host health and is perturbed by several factors including antibiotics. Antibiotic-induced changes in microbial composition can have a negative impact on host health including reduced microbial diversity, changes in functional attributes of the microbiota, formation, and selection of antibiotic-resistant strains making hosts more susceptible to infection with pathogens such as Clostridioides difficile. Antibiotic resistance is a global crisis and the increased use of antibiotics over time warrants investigation into its effects on microbiota and health. In this review, we discuss the adverse effects of antibiotics on the gut microbiota and thus host health, and suggest alternative approaches to antibiotic use.
+Habitat restoration may depend on the recovery of plant microbial symbionts such as arbuscular mycorrhizal (AM) fungi, but this requires a better understanding of the rules that govern their community assembly. We examined the interactions of soil and host-associated AM fungal communities between remnant and restored patches of subtropical montane forests. While AM fungal richness did not differ between habitat types, community membership did and was influenced by geography, habitat and host. These differences were largely driven by rare host-specific AM fungi that displayed near-complete turnover between forest types, while core AM fungal taxa were highly abundant and ubiquitous. Remnant forest bipartite networks were more specialized and hosts more specific than in the restored forest. Host-associated AM fungal communities nested within soil communities in both habitats, but only significantly so in the restored forest. Our results provide evidence that restored and remnant forests harbor the same core fungal symbionts, while rare host-specific taxa differ, and that geography, host identity and taxonomic resolution strongly affect the observed distribution patterns of these fungi. We suggest that host-specific interactions with AM fungi as well as spatial processes should be explicitly considered to effectively reestablish target host and symbiont communities.
 
-[Source](https://doi.org/10.1002/mbo3.1260)
+[Source](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18058)
 
-10.1002/mbo3.1260
-
----
-
-## Randomized, Double-blind, Placebo-controlled Study to Assess the Effect of Two Probiotics on the Preterms' Gut Microbiota.
- 28.02.2022, _B Moreno-Sanz, MT Montes, S Manzano, I Espinosa-Martos, N Cárdenas, S Esteban, M Cruz, E Jiménez, M Sáenz de Pipaón_
-
-
-To evaluate the effect of a new probiotic strain combination, Ligilactobacillus salivarius PS11603 and Bifidobacterium longum PS10402, on gut bacterial colonization of preterm infants.
-
-[Source](https://doi.org/10.1097/MPG.0000000000003427)
-
-10.1097/MPG.0000000000003427
+10.1111/nph.18058
 
 ---
 
-## <em>Streptococcus</em> strain C17(T) as a potential probiotic candidate to modulate oral health
+## Embracing mountain microbiome and ecosystem functions under global change.
+ 25.02.2022, _J Wang, A Hu, F Meng, W Zhao, Y Yang, J Soininen, J Shen, J Zhou_
 
-[Source](https://doi.org/10.1111/lam.13680)
 
----
+Mountains are pivotal to maintaining habitat heterogeneity, global biodiversity, ecosystem functions and services to humans. They have provided classic model natural systems for plant and animal diversity gradient studies for over 250 years. In the recent decade, exploration of microorganisms on mountainsides has also achieved substantial progresses. Here, we review the literature on microbial diversity across taxonomic groups and ecosystem types on global mountains. Microbial community shows climatic zonation with orderly successions along elevational gradients, which are largely consistent with traditional climatic hypotheses. However, elevational patterns are complicated for species richness without general rules in terrestrial and aquatic environments and are driven mainly by deterministic processes caused by abiotic and biotic factors. We see a major shift from documenting patterns of biodiversity towards identifying the mechanisms that shape microbial biogeographical patterns and how these patterns vary under global change by inclusion of novel ecological theories, frameworks and approaches. We thus propose key questions and cutting-edge perspectives to advance future research in mountain microbial biogeography by focusing on biodiversity hypotheses, incorporating meta-ecosystem framework and novel key drivers, adapting recently developed approaches in trait-based ecology and manipulative field experiments, disentangling biodiversity-ecosystem functioning relationships, and finally modelling and predicting their global change responses.
 
-## Antimicrobial resistance profile of gram-positive isolates belonging to the microbiota of non-human primates
+[Source](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18051)
 
-[Source](https://doi.org/10.1111/jmp.12574)
-
----
-
-## Gut microbiota differences between paired intestinal wall and digesta samples in three small species of fish
-
-[Source](https://doi.org/10.7717/peerj.12992)
+10.1111/nph.18051
 
 ---
 
-## An experimental test of disease resistance function in the skin-associated bacterial communities of three tropical amphibian species.
- 25.02.2022, _MC Hughey, EA Rebollar, RN Harris, R Ibáñez, SC Loftus, LL House, KPC Minbiole, MC Bletz, D Medina, WR Shoemaker, MC Swartwout, LK Belden_
+## Nitrogen fertilization disrupts the temporal dynamics of arbuscular mycorrhizal fungal hyphae but not spore density and community composition in a wheat field.
+ 18.02.2022, _BJ Babalola, J Li, CE Willing, Y Zheng, YL Wang, HY Gan, XC Li, C Wang, CA Adams, C Gao, LD Guo_
 
 
-Variation in the structure of host-associated microbial communities has been correlated with the occurrence and severity of disease in diverse host taxa, suggesting a key role of the microbiome in pathogen defense. However, whether these correlations are typically a cause or consequence of pathogen exposure remains an open question, and requires experimental approaches to disentangle. In amphibians, infection by the fungal pathogen Batrachochytrium dendrobatidis (Bd) alters the skin microbial community in some host species, whereas in other species, the skin microbial community appears to mediate infection dynamics. In this study, we completed experimental Bd exposures in three species of tropical frogs (Agalychnis callidryas, Dendropsophus ebraccatus, Craugastor fitzingeri) that were sympatric with Bd at the time of the study. For all three species, we identified key taxa within the skin bacterial communities that were linked to Bd infection dynamics. We also measured higher Bd infection intensities in D. ebraccatus and C. fitzingeri that were associated with higher mortality in C. fitzingeri. Our findings indicate that microbially-mediated pathogen resistance is a complex trait that can vary within and across host species, and suggest that symbiont communities that have experienced prior selection for defensive microbes may be less likely to be disturbed by pathogen exposure.
+Elucidating the temporal dynamics of arbuscular mycorrhizal (AM) fungi is critical for understanding their functions. Furthermore, research investigating the temporal dynamics of AM fungi in response to agricultural practices remain in its infancy. We investigated the effect of nitrogen fertilization and watering reduction on the temporal dynamics of AM fungi, across the lifespan of wheat. Nitrogen fertilization decreased AM fungal spore density, extra-radical hyphal density, and intra-radical colonization rate in both watering conditions. Nitrogen fertilization affected AM fungal community composition in soil but not in roots, regardless of watering conditions. The temporal analysis revealed that AM fungal extra-radical hyphal density and intra-radical colonization rate were higher under conventional watering and lower under reduced watering in March than in other growth stages at low (≤ 70 kg N ha-1 yr-1 ) but not at high (≥ 140) nitrogen fertilization levels. AM fungal spore density was lower in June than in other growth stages and community composition varied with plant development at all nitrogen fertilization levels, regardless of watering conditions. This study demonstrates that high nitrogen fertilization levels disrupt the temporal dynamics of AM fungal hyphal growth but not sporulation and community composition.
 
-[Source](https://doi.org/10.1093/femsec/fiac023)
+[Source](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18043)
 
-10.1093/femsec/fiac023
-
----
-
-## Gut Microbiome Characteristics in feral and domesticated horses from different geographic locations.
- 28.02.2022, _L Ang, G Vinderola, A Endo, J Kantanen, C Jingfeng, A Binetti, P Burns, S Qingmiao, D Suying, Y Zujiang, D Rios-Covian, A Mantziari, S Beasley, C Gomez-Gallego, M Gueimonde, S Salminen_
-
-
-Domesticated horses live under different conditions compared with their extinct wild ancestors. While housed, medicated and kept on a restricted source of feed, the microbiota of domesticated horses is hypothesized to be altered. We assessed the fecal microbiome of 57 domestic and feral horses from different locations on three continents, observing geographical differences. A higher abundance of eukaryota (p &lt; 0.05) and viruses (p &lt; 0.05) and lower of archaea (p &lt; 0.05) were found in feral animals when compared with domestic ones. The abundance of genes coding for microbe-produced enzymes involved in the metabolism of carbohydrates was significantly higher (p &lt; 0.05) in feral animals regardless of the geographic origin. Differences in the fecal resistomes between both groups of animals were also noted. The domestic/captive horse microbiomes were enriched in genes conferring resistance to tetracycline, likely reflecting the use of this antibiotic in the management of these animals. Our data showed an impoverishment of the fecal microbiome in domestic horses with diet, antibiotic exposure and hygiene being likely drivers. The results offer a view of the intestinal microbiome of horses and the impact of domestication or captivity, which may uncover novel targets for modulating the microbiome of horses to enhance animal health and well-being.
-
-[Source](https://doi.org/10.1038/s42003-022-03116-2)
-
-10.1038/s42003-022-03116-2
+10.1111/nph.18043
 
 ---
 
-## Long-term effect of epigenetic modification in plant-microbe interactions: modification of DNA methylation induced by plant growth-promoting bacteria mediates promotion process.
- 25.02.2022, _C Chen, M Wang, J Zhu, Y Tang, H Zhang, Q Zhao, M Jing, Y Chen, X Xu, J Jiang, Z Shen_
+## Multiomics Reveals the Effect of Root Rot on Polygonati Rhizome and Identifies Pathogens and Biocontrol Strain.
+ 28.02.2022, _Z Pang, X Mao, Y Xia, J Xiao, X Wang, P Xu, G Liu_
 
 
-Soil microbiomes are considered a cornerstone of the next green revolution, and plant growth-promoting bacteria (PGPB) are critical for microbiome engineering. However, taking plant-beneficial microorganisms from discovery to agricultural application remains challenging, as the mechanisms underlying the interactions between beneficial strains and plants in native soils are still largely unknown. Increasing numbers of studies have indicated that strains introduced to manipulate microbiomes are usually eliminated in soils, while others have reported that application of PGPB as inocula significantly improves plant growth. This contradiction suggests the need for a deeper understanding of the mechanisms underlying microbe-induced growth promotion.
+Root (rhizome) rot of Polygonatum plants has received substantial attention because it threatens yield and sustainable utilization in the polygonati rhizome industry. However, the potential pathogens that cause rhizome rot as well as the direct and indirect (via root-associated microbes) strategies by which Polygonatum defends against pathogens remain largely unknown. Herein, we used integrated multiomics of plant-targeted metabolomics and transcriptomics, microbiome, and culture-based methods to systematically investigate the interactions between the Polygonatum cyrtonema Hua root-associated microbiota and pathogens. We found that root rot inhibited P. cyrtonema rhizome growth and that the fresh weight significantly decreased (P &lt; 0.001). The transcriptomic and metabonomic results showed that the expression of differentially expressed genes (DEGs) related to specialized metabolic and systemic resistance pathways, such as glycolysis/gluconeogenesis and flavonoid biosynthesis, cycloartenol synthase activity (related to saponin synthesis), mitogen-activated protein kinase (MAPK) signaling, and plant hormone signal transduction, was particularly increased in diseased rhizomes. Consistently, the contents of lactose, d-fructose, sarsasapogenin, asperulosidic acid, botulin, myricadoil, and other saponins, which are functional medicinal compounds present in P. cyrtonema rhizomes, were also increased in diseased plants infected with rhizome rot. The microbiome sequencing and culture results showed that root rot disrupted the P. cyrtonema bacterial and fungal communities and reduced the microbial diversity in the rhizomes and rhizosphere soil. We further found that a clear enrichment of Streptomyces violascens XTBG45 (HJB-XTBG45) in the healthy rhizosphere could control the root rot caused by Fusarium oxysporum and Colletotrichum spaethianum. Taken together, our results indicate that P. cyrtonema can modulate the plant immune system and metabolic processes and enrich beneficial root microbiota to defend against pathogens. IMPORTANCE Root (rhizome or tuber) reproduction is the main method for the agricultural cultivation of many important cash crops, and infected crop plants rot, exhibit retarded growth, and experience yield losses. While many studies have investigated medicinal plants and their functional medicinal compounds, the occurrence of root (rhizome) rot of plant and soil microbiota has received little attention. Therefore, we used integrated multiomics and culture-based methods to systematically study rhizome rot on the famous Chinese medicine Polygonatum cyrtonema and identify pathogens and beneficial microbiota of rhizome rot. Rhizome rot disrupted the Polygonatum-associated microbiota and reduced microbial diversity, and rhizome transcription and metabolic processes significantly changed. Our work provides evidence that rhizome rot not only changes rhizome transcription and functional metabolite contents but also impacts the microbial community diversity, assembly, and function of the rhizome and rhizosphere. This study provides a new friendly strategy for medicinal plant breeding and agricultural utilization.
 
-[Source](https://doi.org/10.1186/s40168-022-01236-9)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.02385-21)
 
-10.1186/s40168-022-01236-9
-
----
-
-## Changes in root microbiome during wheat evolution.
- 27.02.2022, _S Gholizadeh, SA Mohammadi, GH Salekdeh_
-
-
-Although coevolutionary signatures of host-microbe interactions are considered to engineer the healthy microbiome of humans, little is known about the changes in root-microbiome during plant evolution. To understand how the composition of the wheat and its ancestral species microbiome have changed over the evolutionary processes, we performed a 16S rRNA metagenomic analysis on rhizobacterial communities associated with a phylogenetic framework of four Triticum species T. urartu, T. turgidum, T. durum, and T. aestivum along with their ancestral species Aegilops speltoides, and Ae. tauschii during vegetative and reproductive stages.
-
-[Source](https://doi.org/10.1186/s12866-022-02467-4)
-
-10.1186/s12866-022-02467-4
+10.1128/spectrum.02385-21
 
 ---
 
-## Plant organ and sampling time point determine the taxonomic structure of microbial communities associated to apple plants in the orchard environment.
- 28.02.2022, _CMO Longa, L Antonielli, E Bozza, C Sicher, I Pertot, M Perazzolli_
+## Seed microbiota revealed by a large-scale meta-analysis including 50 plant species.
+ 17.02.2022, _M Simonin, M Briand, G Chesneau, A Rochefort, C Marais, A Sarniguet, M Barret_
 
 
-Plant-associated microbial communities interact with their host and are important components of the biodiversity of natural and agro-ecosystems. Scarce knowledge is available on the establishment of plant microbiota in perennial woody plants. In this work the variability in bacterial and fungal communities in aboveground organs was analysed in leaves, bark, flowers and fruits on three apple cultivars (Gala, Fuji and Golden), in order to understand changes of the microbiota community structure from orchard planting to the first year of fruit production. Our results indicate that Proteobacteria, Bacterioidetes, Actinobacteria and Firmiculites were the dominant bacterial phyla across all samples. The majority of fungal sequences were assigned to Ascomycota and Basidiomycota. The bacterial genera Pseudomonas and Sphingomonas, and the fungal genera Aureobasidium and Filobasidium, represented a major component of the aboveground microbiota. Different parts of the apple plant harboured a specific microbiota and the effect of plant organ on the bacterial and fungal taxonomic structure exceeded the influence of sampling time and plant genotype. This work highlights the specificity of the microbiota associated with aboveground apple organs, changes of the microbiota composition during the plant development from orchard planting to the first year of fruit production, and the negligible effects of apple cultivar.
+Seed microbiota constitutes a primary inoculum for plants that is gaining attention due to its role for plant health and productivity. Here, we performed a meta-analysis on 63 seed microbiota studies covering 50 plant species to synthesize knowledge on the diversity of this habitat. Seed microbiota are diverse and extremely variable, with taxa richness varying from one to thousands of taxa. Hence, seed microbiota presents a variable (i.e flexible) microbial fraction but we also identified a stable (i.e. core) fraction across samples. Around 30 bacterial and fungal taxa are present in most plant species and in samples from all over the world. Core taxa, such as Pantoea agglomerans, Pseudomonas viridiflava, P. fluorescens, Cladosporium perangustum and Alternaria sp., are dominant seed taxa. The characterization of the core and flexible seed microbiota provided here will help uncover seed microbiota roles for plant health and design effective microbiome engineering.
 
-[Source](https://doi.org/10.1016/j.micres.2022.126991)
+[Source](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18037)
 
-10.1016/j.micres.2022.126991
-
----
-
-## Commensal <em>Pseudomonas</em> strains facilitate protective response against pathogens in the host plant
-
-[Source](https://doi.org/10.1038/s41559-022-01673-7)
+10.1111/nph.18037
 
 ---
 
-## Major Biological Control Strategies for Plant Pathogens.
- 28.02.2022, _MA Pandit, J Kumar, S Gulati, N Bhandari, P Mehta, R Katyal, CD Rawat, V Mishra, J Kaur_
+## Plant–microbe eco-evolutionary dynamics in a changing world
 
-
-Food security has become a major concern worldwide in recent years due to ever increasing population. Providing food for the growing billions without disturbing environmental balance is incessantly required in the current scenario. In view of this, sustainable modes of agricultural practices offer better promise and hence are gaining prominence recently. Moreover, these methods have taken precedence currently over chemical-based methods of pest restriction and pathogen control. Adoption of Biological Control is one such crucial technique that is currently in the forefront. Over a period of time, various biocontrol strategies have been experimented with and some have exhibited great success and promise. This review highlights the different methods of plant-pathogen control, types of plant pathogens, their modus operandi and various biocontrol approaches employing a range of microorganisms and their byproducts. The study lays emphasis on the use of upcoming methodologies like microbiome management and engineering, phage cocktails, genetically modified biocontrol agents and microbial volatilome as available strategies to sustainable agricultural practices. More importantly, a critical analysis of the various methods enumerated in the paper indicates the need to amalgamate these techniques in order to improve the degree of biocontrol offered by them.
-
-[Source](https://doi.org/10.3390/pathogens11020273)
-
-10.3390/pathogens11020273
+[Source](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18015)
 
 ---
 
-## ADDAGMA: A database for domestic animal gut microbiome atlas.
- 28.02.2022, _Y Xu, B Lei, Q Zhang, Y Lei, C Li, X Li, R Yao, R Hu, K Liu, Y Wang, Y Cui, L Wang, J Dai, L Li, W Ni, P Zhou, ZX Liu, S Hu_
+## Stem traits, compartments, and tree species affect fungal communities on decaying wood
 
-
-Animal gut microbiomes play important roles in the health, diseases, and production of animal hosts. The volume of animal gut metagenomic data, including both 16S amplicon and metagenomic sequencing data, has been increasing exponentially in recent years, making it increasingly difficult for researchers to query, retrieve, and reanalyze experimental data and explore new hypotheses. We designed a database called the domestic animal gut microbiome atlas (ADDAGMA) to house all publicly available, high-throughput sequencing data for the gut microbiome in domestic animals. ADDAGMA enhances the availability and accessibility of the rapidly growing body of metagenomic data. We annotated microbial and metadata from four domestic animals (cattle, horse, pig, and chicken) from 356 published papers to construct a comprehensive database that is equipped with browse and search functions, enabling users to make customized, complicated, biologically relevant queries. Users can quickly and accurately obtain experimental information on sample types, conditions, and sequencing platforms, and experimental results including microbial relative abundances, microbial taxon-associated host phenotype, and P-values for gut microbes of interest. The current version of ADDAGMA includes 290,422 quantification events (changes in abundance) for 3215 microbial taxa associated with 48 phenotypes. ADDAGMA presently covers gut microbiota sequencing data from pig, cattle, horse, and chicken, but will be expanded to include other domestic animals. ADDAGMA is freely available at (http://addagma.omicsbio.info/).
-
-[Source](https://doi.org/10.1016/j.csbj.2022.02.003)
-
-10.1016/j.csbj.2022.02.003
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15953)
 
 ---
 
-## To rarefy or not to rarefy: robustness and efficiency trade-offs of rarefying microbiome data.
- 25.02.2022, _J Hong, U Karaoz, P de Valpine, W Fithian_
+## Microplastics reduce soil microbial network complexity and ecological deterministic selection
 
-
-Microbiome datasets provide rich information about microbial communities. However, vast library size variations across samples present great challenges for proper statistical comparisons. To deal with these challenges, rarefaction is often used in practice as a normalization technique, although there has been debate whether rarefaction should ever be used. Conventional wisdom and previous work suggested that rarefaction should never be used in practice, arguing that rarefying microbiome data is statistically inadmissible. These discussions, however, have been confined to particular parametric models and simulation studies.
-
-[Source](https://doi.org/10.1093/bioinformatics/btac127)
-
-10.1093/bioinformatics/btac127
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15955)
 
 ---
 
-## Human Stool Preservation Impacts Taxonomic Profiles in 16S Metagenomics Studies.
- 26.02.2022, _A Plauzolles, E Toumi, M Bonnet, G Pénaranda, G Bidaut, L Chiche, J Allardet-Servent, F Retornaz, B Goutorbe, P Halfon_
+## The core root microbiome of Spartina alterniflora is predominated by sulfur-oxidizing and sulfate-reducing bacteria in Georgia salt marshes, USA
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01187-7)
+
+---
+
+## "Boom-and-busted-dynamics" of phytoplankton-virus interactions explain the paradox of the plankton.
+ 18.02.2022, _KJ Flynn, A Mitra, WH Wilson, SA Kimmance, DR Clark, A Pelusi, L Polimene_
 
 
-Microbiotas play critical roles in human health, yet in most cases scientists lack standardized and reproducible methods from collection and preservation of samples, as well as the choice of omic analysis, up to the data processing. To date, stool sample preservation remains a source of technological bias in metagenomic sequencing, despite newly developed storage solutions. Here, we conducted a comparative study of 10 storage methods for human stool over a 14-day period of storage at fluctuating temperatures. We first compared the performance of each stabilizer with observed bacterial composition variation within the same specimen. Then, we identified the nature of the observed variations to determine which bacterial populations were more impacted by the stabilizer. We found that DNA stabilizers display various stabilizing efficacies and affect the recovered bacterial profiles thus highlighting that some solutions are more performant in preserving the true gut microbial community. Furthermore, our results showed that the bias associated with the stabilizers can be linked to the phenotypical traits of the bacterial populations present in the studied samples. Although newly developed storage solutions have improved our capacity to stabilize stool microbial content over time, they are nevertheless not devoid of biases hence requiring the implantation of standard operating procedures. Acknowledging the biases and limitations of the implemented method is key to better interpret and support true associated microbiome patterns that will then lead us towards personalized medicine, in which the microbiota profile could constitute a reliable tool for clinical practice.
+(1) Rapid virus proliferation can strongly control phytoplankton host populations, playing a significant role in marine biogeochemistry and ecology. We explore how marine lytic viruses impact phytoplankton succession affecting host and non-host populations. (2) Using an in silico food-web we conducted simulation experiments under a range of different abiotic and biotic conditions exploring the interplay between virus-host-grazer, with competition, allometry, motility and cyst cycles. (3) Interactions between virus-host, predator-prey and competitors generate bloom dynamics with a pronounced boom-and-busted-dynamic (BBeD) which sees suppression of erstwhile successful phytoplankton species. BBeD is decreased at low nutrient loading through distancing of phytoplankton hosts, while high sediment loading and non-host biomass decrease viruses through adsorption. Larger hosts are inherently more distanced but motility increases virus attack, while cyst cycles promote spatial and temporal distancing. (4) Virus control of phytoplankton bloom development appears more important than virus-induced termination of those blooms. This affects plankton succession, not only the growth of species infected by the virus, but also those others that compete for the same resource and are collectively subjected to common grazer control. The role of viruses in structuring plankton communities via BBeD can thus provide an explanation for the paradox of the plankton.
 
-[Source](https://doi.org/10.3389/fcimb.2022.722886)
+[Source](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18042)
 
-10.3389/fcimb.2022.722886
+10.1111/nph.18042
+
+---
+
+## Communality in microbial stress response and differential metabolic interactions revealed by time-series analysis of sponge symbionts
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15962)
+
+---
+
+## Global 16S rRNA diversity of provannid snail endosymbionts from Indo-Pacific deep-sea hydrothermal vents.
+ 16.02.2022, _C Breusing, J Castel, Y Yang, T Broquet, J Sun, D Jollivet, PY Qian, RA Beinart_
+
+
+Symbioses between invertebrate animals and chemosynthetic bacteria build the foundation of deep-sea hydrothermal ecosystems worldwide. Despite the importance of these symbioses for ecosystem functioning, the diversity of symbionts within and between host organisms and geographic regions is still poorly understood. In this study we used 16S rRNA amplicon sequencing to determine the diversity of gill endosymbionts in provannid snails of the genera Alviniconcha and Ifremeria, which are key species at deep-sea hydrothermal vents in the Indo-Pacific Ocean. Our analysis of 761 snail samples across the distributional range of these species confirms previous findings that symbiont lineages are strongly partitioned by host species and broad-scale geography. Less structuring was observed within geographic regions, probably due to insufficient strain resolution of the 16S rRNA gene. Symbiont richness in individual hosts appeared to be unrelated to host size, suggesting that provannid snails might acquire their symbionts only during a permissive time window in early developmental stages in contrast to other vent molluscs that obtain their symbionts throughout their lifetime. Despite the extent of our dataset, symbiont accumulation curves did not reach saturation, highlighting the need for increased sampling efforts to uncover the full diversity of symbionts within these and other hydrothermal vent species.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13051)
+
+10.1111/1758-2229.13051
+
+---
+
+## Sources of protein diet differentially stimulate the gut and water microbiota under freshwater crayfish, marron (Cherax cainii, Austin 2002) culture.
+ 07.02.2022, _MJ Foysal, TTT Dao, R Fotedar, SK Gupta, A Tay, MR Chaklader_
+
+
+To reduce the reliance on fishmeal (FM), other protein sources have been evaluated on cultured animals. In a 60-days feeding trial, marrons (Cherax cainii) were fed a FM diet and five test diets containing 100% of plant-based protein sources such as soybean, lupin and valorised animal-based proteins such as poultry-by-product, black soldier fly and tuna hydrolysate. At the end of the trial, DNA samples from marron gut and rearing water were investigated through DNA-based 16S rRNA gene sequencing. Plant-based diets increased abundance for Aeromonas, Flavobacterium and Vogesella, whereas animal and insect proteins influenced diverse bacterial groups in the gut linked to various metabolic activities. Insect meal in the water favoured the growth of Firmicutes and lactic acid bacteria, beneficial for the marron health. Aeromonas richness in the gut and reared water signified the ubiquitous nature of the genus in the environment. The higher bacterial diversity in the gut and water with PBP and BSF was further supported by qPCR quantification of the bacterial single-copy gene, rpoB. The overall results suggested that PBP and BSF can exhibit positive and influential effects on the gut and water microbial communities, hence can be used as sustainable ingredients for the crayfish aquaculture.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13049)
+
+10.1111/1758-2229.13049
 
 ---
 
