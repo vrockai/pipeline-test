@@ -16,15 +16,9 @@
 
 ---
 
-## Gut microbiota from Mexican patients with metabolic syndrome and HIV infection: an inflammatory profile.
- 26.02.2022, _F Amador-Lara, JF Andrade-Villanueva, N Vega-Magaña, M Peña-Rodríguez, M Alvarez-Zavala, K Sanchez-Reyes, M Toscano-Piña, AA Peregrina-Lucano, S Del Toro-Arreola, LA González-Hernández, MR Bueno-Topete_
-
-
-A remarkable increase in metabolic syndrome (MetS) has occurred in HIV-infected subjects. Gut dysbiosis is involved in the pathogenesis of metabolic disorders. Therefore, the aim is to explore the profile of the gut microbiota in Mexican population with HIV infection and MetS.
+## Gut microbiota from Mexican patients with metabolic syndrome and HIV infection: an inflammatory profile
 
 [Source](https://doi.org/10.1111/jam.15505)
-
-10.1111/jam.15505
 
 ---
 
