@@ -172,15 +172,9 @@ Seed microbiota constitutes a primary inoculum for plants that is gaining attent
 
 ---
 
-## "Boom-and-busted-dynamics" of phytoplankton-virus interactions explain the paradox of the plankton.
- 18.02.2022, _KJ Flynn, A Mitra, WH Wilson, SA Kimmance, DR Clark, A Pelusi, L Polimene_
-
-
-(1) Rapid virus proliferation can strongly control phytoplankton host populations, playing a significant role in marine biogeochemistry and ecology. We explore how marine lytic viruses impact phytoplankton succession affecting host and non-host populations. (2) Using an in silico food-web we conducted simulation experiments under a range of different abiotic and biotic conditions exploring the interplay between virus-host-grazer, with competition, allometry, motility and cyst cycles. (3) Interactions between virus-host, predator-prey and competitors generate bloom dynamics with a pronounced boom-and-busted-dynamic (BBeD) which sees suppression of erstwhile successful phytoplankton species. BBeD is decreased at low nutrient loading through distancing of phytoplankton hosts, while high sediment loading and non-host biomass decrease viruses through adsorption. Larger hosts are inherently more distanced but motility increases virus attack, while cyst cycles promote spatial and temporal distancing. (4) Virus control of phytoplankton bloom development appears more important than virus-induced termination of those blooms. This affects plankton succession, not only the growth of species infected by the virus, but also those others that compete for the same resource and are collectively subjected to common grazer control. The role of viruses in structuring plankton communities via BBeD can thus provide an explanation for the paradox of the plankton.
+## “Boom-and-busted-dynamics” of phytoplankton-virus interactions explain the paradox of the plankton
 
 [Source](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.18042)
-
-10.1111/nph.18042
 
 ---
 
@@ -190,27 +184,15 @@ Seed microbiota constitutes a primary inoculum for plants that is gaining attent
 
 ---
 
-## Global 16S rRNA diversity of provannid snail endosymbionts from Indo-Pacific deep-sea hydrothermal vents.
- 16.02.2022, _C Breusing, J Castel, Y Yang, T Broquet, J Sun, D Jollivet, PY Qian, RA Beinart_
-
-
-Symbioses between invertebrate animals and chemosynthetic bacteria build the foundation of deep-sea hydrothermal ecosystems worldwide. Despite the importance of these symbioses for ecosystem functioning, the diversity of symbionts within and between host organisms and geographic regions is still poorly understood. In this study we used 16S rRNA amplicon sequencing to determine the diversity of gill endosymbionts in provannid snails of the genera Alviniconcha and Ifremeria, which are key species at deep-sea hydrothermal vents in the Indo-Pacific Ocean. Our analysis of 761 snail samples across the distributional range of these species confirms previous findings that symbiont lineages are strongly partitioned by host species and broad-scale geography. Less structuring was observed within geographic regions, probably due to insufficient strain resolution of the 16S rRNA gene. Symbiont richness in individual hosts appeared to be unrelated to host size, suggesting that provannid snails might acquire their symbionts only during a permissive time window in early developmental stages in contrast to other vent molluscs that obtain their symbionts throughout their lifetime. Despite the extent of our dataset, symbiont accumulation curves did not reach saturation, highlighting the need for increased sampling efforts to uncover the full diversity of symbionts within these and other hydrothermal vent species.
+## Global 16S rRNA diversity of provannid snail endosymbionts from Indo-Pacific deep-sea hydrothermal vents
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13051)
 
-10.1111/1758-2229.13051
-
 ---
 
-## Sources of protein diet differentially stimulate the gut and water microbiota under freshwater crayfish, marron (Cherax cainii, Austin 2002) culture.
- 07.02.2022, _MJ Foysal, TTT Dao, R Fotedar, SK Gupta, A Tay, MR Chaklader_
-
-
-To reduce the reliance on fishmeal (FM), other protein sources have been evaluated on cultured animals. In a 60-days feeding trial, marrons (Cherax cainii) were fed a FM diet and five test diets containing 100% of plant-based protein sources such as soybean, lupin and valorised animal-based proteins such as poultry-by-product, black soldier fly and tuna hydrolysate. At the end of the trial, DNA samples from marron gut and rearing water were investigated through DNA-based 16S rRNA gene sequencing. Plant-based diets increased abundance for Aeromonas, Flavobacterium and Vogesella, whereas animal and insect proteins influenced diverse bacterial groups in the gut linked to various metabolic activities. Insect meal in the water favoured the growth of Firmicutes and lactic acid bacteria, beneficial for the marron health. Aeromonas richness in the gut and reared water signified the ubiquitous nature of the genus in the environment. The higher bacterial diversity in the gut and water with PBP and BSF was further supported by qPCR quantification of the bacterial single-copy gene, rpoB. The overall results suggested that PBP and BSF can exhibit positive and influential effects on the gut and water microbial communities, hence can be used as sustainable ingredients for the crayfish aquaculture.
+## Sources of protein diet differentially stimulate the gut and water microbiota under freshwater crayfish, marron (Cherax cainii, Austin 2002) culture
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13049)
-
-10.1111/1758-2229.13049
 
 ---
 
