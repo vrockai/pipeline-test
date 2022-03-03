@@ -155,27 +155,15 @@ Although Parkinson disease (PD) has traditionally been considered a disease of t
 
 ---
 
-## Multiomics Reveals the Effect of Root Rot on Polygonati Rhizome and Identifies Pathogens and Biocontrol Strain.
- 28.02.2022, _Z Pang, X Mao, Y Xia, J Xiao, X Wang, P Xu, G Liu_
-
-
-Root (rhizome) rot of Polygonatum plants has received substantial attention because it threatens yield and sustainable utilization in the polygonati rhizome industry. However, the potential pathogens that cause rhizome rot as well as the direct and indirect (via root-associated microbes) strategies by which Polygonatum defends against pathogens remain largely unknown. Herein, we used integrated multiomics of plant-targeted metabolomics and transcriptomics, microbiome, and culture-based methods to systematically investigate the interactions between the Polygonatum cyrtonema Hua root-associated microbiota and pathogens. We found that root rot inhibited P. cyrtonema rhizome growth and that the fresh weight significantly decreased (P &lt; 0.001). The transcriptomic and metabonomic results showed that the expression of differentially expressed genes (DEGs) related to specialized metabolic and systemic resistance pathways, such as glycolysis/gluconeogenesis and flavonoid biosynthesis, cycloartenol synthase activity (related to saponin synthesis), mitogen-activated protein kinase (MAPK) signaling, and plant hormone signal transduction, was particularly increased in diseased rhizomes. Consistently, the contents of lactose, d-fructose, sarsasapogenin, asperulosidic acid, botulin, myricadoil, and other saponins, which are functional medicinal compounds present in P. cyrtonema rhizomes, were also increased in diseased plants infected with rhizome rot. The microbiome sequencing and culture results showed that root rot disrupted the P. cyrtonema bacterial and fungal communities and reduced the microbial diversity in the rhizomes and rhizosphere soil. We further found that a clear enrichment of Streptomyces violascens XTBG45 (HJB-XTBG45) in the healthy rhizosphere could control the root rot caused by Fusarium oxysporum and Colletotrichum spaethianum. Taken together, our results indicate that P. cyrtonema can modulate the plant immune system and metabolic processes and enrich beneficial root microbiota to defend against pathogens. IMPORTANCE Root (rhizome or tuber) reproduction is the main method for the agricultural cultivation of many important cash crops, and infected crop plants rot, exhibit retarded growth, and experience yield losses. While many studies have investigated medicinal plants and their functional medicinal compounds, the occurrence of root (rhizome) rot of plant and soil microbiota has received little attention. Therefore, we used integrated multiomics and culture-based methods to systematically study rhizome rot on the famous Chinese medicine Polygonatum cyrtonema and identify pathogens and beneficial microbiota of rhizome rot. Rhizome rot disrupted the Polygonatum-associated microbiota and reduced microbial diversity, and rhizome transcription and metabolic processes significantly changed. Our work provides evidence that rhizome rot not only changes rhizome transcription and functional metabolite contents but also impacts the microbial community diversity, assembly, and function of the rhizome and rhizosphere. This study provides a new friendly strategy for medicinal plant breeding and agricultural utilization.
+## Multiomics Reveals the Effect of Root Rot on Polygonati Rhizome and Identifies Pathogens and Biocontrol Strain
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.02385-21)
 
-10.1128/spectrum.02385-21
-
 ---
 
-## Long-term effect of epigenetic modification in plant-microbe interactions: modification of DNA methylation induced by plant growth-promoting bacteria mediates promotion process.
- 01.03.2022, _C Chen, M Wang, J Zhu, Y Tang, H Zhang, Q Zhao, M Jing, Y Chen, X Xu, J Jiang, Z Shen_
-
-
-Soil microbiomes are considered a cornerstone of the next green revolution, and plant growth-promoting bacteria (PGPB) are critical for microbiome engineering. However, taking plant-beneficial microorganisms from discovery to agricultural application remains challenging, as the mechanisms underlying the interactions between beneficial strains and plants in native soils are still largely unknown. Increasing numbers of studies have indicated that strains introduced to manipulate microbiomes are usually eliminated in soils, while others have reported that application of PGPB as inocula significantly improves plant growth. This contradiction suggests the need for a deeper understanding of the mechanisms underlying microbe-induced growth promotion.
+## Long-term effect of epigenetic modification in plant–microbe interactions: modification of DNA methylation induced by plant growth-promoting bacteria mediates promotion process
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01236-9)
-
-10.1186/s40168-022-01236-9
 
 ---
 
