@@ -82,15 +82,9 @@ Resource patchiness and aqueous phase fragmentation in soil may induce large dif
 
 ---
 
-## Comprehensive health risk assessment of microbial indoor air quality in microenvironments.
- 03.03.2022, _P Kumar, AB Singh, R Singh_
-
-
-The higher airborne microbial concentration in indoor areas might be responsible for the adverse indoor air quality, which relates well with poor respiratory and general health effects in the form of Sick building syndromes. The current study aimed to isolate and characterize the seasonal (winter and spring) levels of culturable bio-aerosols from indoor air, implicating human health by using an epidemiological health survey. Microorganisms were identified by standard macro and microbiological methods, followed by biochemical testing and molecular techniques. Sampling results revealed the bacterial and fungal aerosol concentrations ranging between (300-3650 CFU/m3) and (300-4150 CFU/m3) respectively, in different microenvironments during the winter season (December-February). However, in spring (March-May), bacterial and fungal aerosol concentrations were monitored, ranging between (450-5150 CFU/m3) and (350-5070 CFU/m3) respectively. Interestingly, Aspergillus and Cladosporium were the majorly recorded fungi whereas, Staphylococcus, Streptobacillus, and Micrococcus found predominant bacterial genera among all the sites. Taken together, the elevated levels of bioaerosols are the foremost risk factor that can lead to various respiratory and general health issues in additional analysis, the questionnaire survey indicated the headache (28%) and allergy (20%) were significant indoor health concerns. This type of approach will serve as a foundation for assisting residents in taking preventative measures to avoid exposure to dangerous bioaerosols.
+## Comprehensive health risk assessment of microbial indoor air quality in microenvironments
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264226)
-
-10.1371/journal.pone.0264226
 
 ---
 
