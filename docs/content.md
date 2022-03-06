@@ -11,7 +11,7 @@ This study aimed to determine the prevalence of bacterial vaginosis (BV) and aer
 ---
 
 ## Systematically assessing microbiome-disease associations identifies drivers of inconsistency in metagenomic research.
- 02.03.2022, _BT Tierney, Y Tan, Z Yang, B Shui, MJ Walker, BM Kent, AD Kostic, CJ Patel_
+ 05.03.2022, _BT Tierney, Y Tan, Z Yang, B Shui, MJ Walker, BM Kent, AD Kostic, CJ Patel_
 
 
 Evaluating the relationship between the human gut microbiome and disease requires computing reliable statistical associations. Here, using millions of different association modeling strategies, we evaluated the consistency-or robustness-of microbiome-based disease indicators for 6 prevalent and well-studied phenotypes (across 15 public cohorts and 2,343 individuals). We were able to discriminate between analytically robust versus nonrobust results. In many cases, different models yielded contradictory associations for the same taxon-disease pairing, some showing positive correlations and others negative. When querying a subset of 581 microbe-disease associations that have been previously reported in the literature, 1 out of 3 taxa demonstrated substantial inconsistency in association sign. Notably, &gt;90% of published findings for type 1 diabetes (T1D) and type 2 diabetes (T2D) were particularly nonrobust in this regard. We additionally quantified how potential confounders-sequencing depth, glucose levels, cholesterol, and body mass index, for example-influenced associations, analyzing how these variables affect the ostensible correlation between Faecalibacterium prausnitzii abundance and a healthy gut. Overall, we propose our approach as a method to maximize confidence when prioritizing findings that emerge from microbiome association studies.
