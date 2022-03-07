@@ -202,9 +202,15 @@ Several reports suggest that the microbiome of the digestive system affects vacc
 
 ---
 
-## The Novel Interplay between Commensal Gut Bacteria and Metabolites in Diet-Induced Hyperlipidemic Rats Treated with Simvastatin
+## The Novel Interplay between Commensal Gut Bacteria and Metabolites in Diet-Induced Hyperlipidemic Rats Treated with Simvastatin.
+ 04.03.2022, _S Zhang, L Yuan, H Li, L Han, W Jing, X Wu, S Ullah, R Liu, Y Wu, J Xu_
+
+
+Hyperlipidemia is one kind of metabolic syndrome for which the treatment commonly includes simvastatin (SV). Individuals vary widely in statin responses, and growing evidence implicates gut microbiome involvement in this variability. However, the associated molecular mechanisms between metabolic improvement and microbiota composition following SV treatment are still not fully understood. In this study, combinatory approaches using ultrahigh-performance liquid chromatography coupled with hybrid triple quadrupole time-of-flight mass spectrometry (UHPLC-Q-TOF MS/MS)-based metabolomic profiling, PCR-denaturing gradient gel electrophoresis (PCR-DGGE), quantitative PCR (qPCR), and 16S rRNA gene sequencing-based gut microbiota profiling were performed to investigate the interplay of endogenous metabolites and the gut microbiota related to SV treatment. A total of 6 key differential endogenous metabolites were identified that affect the metabolism of amino acids (phenylalanine and tyrosine), unsaturated fatty acids (linoleic acid and 9-hydroxyoctadecadienoic acid (9-HODE)), and the functions of gut microbial metabolism. Moreover, a total of 22 differentially abundant taxa were obtained following SV treatment. Three bacterial taxa were identified to be involved in SV treatment, namely, Bacteroidaceae, Prevotellaceae, and Porphyromonadaceae. These findings suggested that the phenylalanine and tyrosine-associated amino acid metabolism pathways, as well as the linoleic acid and 9-HODE-associated unsaturated fatty acid metabolism pathways, which are involved in gut flora interactions, might be potential therapeutic targets for improvement in SV hypolipidemic efficacy. The mass spectrometric data have been deposited to MassIVE (https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp). Username: MSV000087842_reviewer. Password: hardworkingzsr.
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00252)
+
+10.1021/acs.jproteome.1c00252
 
 ---
 
@@ -214,15 +220,33 @@ Several reports suggest that the microbiome of the digestive system affects vacc
 
 ---
 
+## Novel Selenium Peptides Obtained from Selenium-Enriched Cordyceps militaris Alleviate Neuroinflammation and Gut Microbiota Dysbacteriosis in LPS-Injured Mice.
+ 03.03.2022, _S Wu, Q Wu, J Wang, Y Li, B Chen, Z Zhu, R Huang, M Chen, A Huang, Y Xie, C Jiao, Y Ding_
+
+
+Increasing attention focuses on the relationship between neuroinflammation and Alzheimer's disease (AD). The reports on the microbiota-gut-brain axis reveal that the regulation by gut microbiota is an effective way to intervene in neuroinflammation-related AD. In this study, two novel selenium peptides (Se-Ps), VPRKL(Se)M (Se-P1) and RYNA(Se)MNDYT (Se-P2), with neuroprotection effects were obtained from Se-enriched Cordyceps militaris. Se-P1 and Se-P2 pre-protection led to a 30 and 33% increase in the PC-12 cell viability compared to the damage group, respectively. Moreover, Se-Ps exhibited a significant pre-protection against LPS-induced inflammatory and oxidative stress in the colon and brain by inhibiting the production of pro-inflammatory mediators (p &lt; 0.05) and malondialdehyde, as well as promoting anti-inflammatory cytokine level and antioxidant enzyme activity (p &lt; 0.05), which may alleviate the cognitive impairment in LPS-injured mice (p &lt; 0.05). Se-Ps not only repaired the intestinal mucosa damage of LPS-injured mice but also had a positive effect on gut microbiota dysbacteriosis by increasing the abundance of Lactobacillus and Alistipes and decreasing the abundance of Akkermansia and Bacteroides. Collectively, the antioxidant, anti-inflammatory, and regulating properties on gut microflora of Se-Ps contribute to their neuroprotection, supporting that Se-Ps could be a promising dietary supplement in the prevention and/or treatment of AD.
+
+[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08393)
+
+10.1021/acs.jafc.1c08393
+
+---
+
 ## Novel Selenium Peptides Obtained from Selenium-Enriched&nbsp;<em>Cordyceps militaris</em>Alleviate Neuroinflammation and Gut Microbiota Dysbacteriosis in LPS-Injured Mice
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08393)
 
 ---
 
-## Microbiome-metabolomics analysis of the effects of decreasing dietary crude protein content on goat rumen mictobiota and metabolites
+## Microbiome-metabolomics analysis of the effects of decreasing dietary crude protein content on goat rumen mictobiota and metabolites.
+ 03.03.2022, _W Zhu, T Liu, J Deng, CC Wei, ZJ Zhang, DM Wang, XY Chen_
+
+
+The objective of this study was to investigate the effects of decreasing dietary crude protein content on rumen fermentation, mictobiota, and metabolites in goats.
 
 [Source](https://www.animbiosci.org/journal/view.php?doi=10.5713/ab.21.0411)
+
+10.5713/ab.21.0411
 
 ---
 
