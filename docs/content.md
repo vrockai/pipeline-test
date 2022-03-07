@@ -17,7 +17,7 @@ Host-microbe interactions are crucial for normal physiological and immune system
 ---
 
 ## tRNA modification dynamics from individual organisms to metaepitranscriptomics of microbiomes.
- 05.03.2022, _W Zhang, M Foo, AM Eren, T Pan_
+ 06.03.2022, _W Zhang, M Foo, AM Eren, T Pan_
 
 
 tRNA is the most extensively modified RNA in cells. On average, a bacterial tRNA contains 8 modifications per molecule and a eukaryotic tRNA contains 13 modifications per molecule. Recent studies reveal that tRNA modifications are highly dynamic and respond extensively to environmental conditions. Functions of tRNA modification dynamics include enhanced, on-demand decoding of specific codons in response genes and regulation of tRNA fragment biogenesis. This review summarizes recent advances in the studies of tRNA modification dynamics in biological processes, tRNA modification erasers, and human-associated bacteria. Furthermore, we use the term "metaepitranscriptomics" to describe the potential and approach of tRNA modification studies in natural biological communities such as microbiomes. tRNA is highly modified in cells, and tRNA modifications respond extensively to environmental conditions to enhance translation of specific genes and produce tRNA fragments on demand. We review recent advances in tRNA sequencing methods, tRNA modification dynamics in biological processes, and tRNA modification studies in natural communities such as the microbiomes.
