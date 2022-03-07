@@ -1,258 +1,234 @@
-## Host-microbiome protein-protein interactions capture disease-relevant pathways.
- 05.03.2022, _H Zhou, JF Beltrán, IL Brito_
+## @PeterFabianLab
 
-
-Host-microbe interactions are crucial for normal physiological and immune system development and are implicated in a variety of diseases, including inflammatory bowel disease (IBD), colorectal cancer (CRC), obesity, and type 2 diabetes (T2D). Despite large-scale case-control studies aimed at identifying microbial taxa or genes involved in pathogeneses, the mechanisms linking them to disease have thus far remained elusive.
-
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02643-9)
-
-10.1186/s13059-022-02643-9
+[Source](https://twitter.com/PeterFabianLab)
 
 ---
 
-## Periodontitis, chro
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/prd.12427)
-
----
-
-## tRNA modification dynamics from individual organisms to metaepitranscriptomics of microbiomes.
- 06.03.2022, _W Zhang, M Foo, AM Eren, T Pan_
+## Prevalence and Factors Associated With Gender-Affirming Surgery Among Transgender Women &amp; Transgender Men in a Community-Based Clinic in Metro Manila, Philippines: A Retrospective Study.
+ 05.03.2022, _PC Eustaquio, AV Castelo, YS Araña, JOL Corciega, JDT Rosadiño, RG Pagtakhan, ZJG Regencia, ES Baja_
 
 
-tRNA is the most extensively modified RNA in cells. On average, a bacterial tRNA contains 8 modifications per molecule and a eukaryotic tRNA contains 13 modifications per molecule. Recent studies reveal that tRNA modifications are highly dynamic and respond extensively to environmental conditions. Functions of tRNA modification dynamics include enhanced, on-demand decoding of specific codons in response genes and regulation of tRNA fragment biogenesis. This review summarizes recent advances in the studies of tRNA modification dynamics in biological processes, tRNA modification erasers, and human-associated bacteria. Furthermore, we use the term "metaepitranscriptomics" to describe the potential and approach of tRNA modification studies in natural biological communities such as microbiomes. tRNA is highly modified in cells, and tRNA modifications respond extensively to environmental conditions to enhance translation of specific genes and produce tRNA fragments on demand. We review recent advances in tRNA sequencing methods, tRNA modification dynamics in biological processes, and tRNA modification studies in natural communities such as the microbiomes.
+More information is needed about gender-affirming surgery (GAS) in the Philippines because of many self- or peer-prescribed gender-affirming procedures among transgender people.
 
-[Source](https://doi.org/10.1016/j.molcel.2021.12.007)
+[Source](https://twitter.com/PeterFabianLab/status/1499818919560769539)
 
-10.1016/j.molcel.2021.12.007
+10.1016/j.esxm.2022.100497
 
 ---
 
-## Socioeconomic disparities and household crowding in association with the fecal microbiome of school-age children.
- 04.03.2022, _Y Lapidot, L Reshef, M Maya, D Cohen, U Gophna, K Muhsen_
+## March 4, 2022
 
-
-The development of the gut microbiome occurs mainly during the first years of life; however, little is known on the role of environmental and socioeconomic exposures, particularly within the household, in shaping the microbial ecology through childhood. We characterized differences in the gut microbiome of school-age healthy children, in association with socioeconomic disparities and household crowding. Stool samples were analyzed from 176 Israeli Arab children aged six to nine years from three villages of different socioeconomic status (SES). Sociodemographic data were collected through interviews with the mothers. We used 16 S rRNA gene sequencing to characterize the gut microbiome, including an inferred analysis of metabolic pathways. Differential analysis was performed using the analysis of the composition of microbiomes (ANCOM), with adjustment for covariates. An analysis of inferred metagenome functions was performed implementing PICRUSt2. Gut microbiome composition differed across the villages, with the largest difference attributed to socioeconomic disparities, with household crowding index being a significant explanatory variable. Living in a low SES village and high household crowding were associated with increased bacterial richness and compositional differences, including an over-representation of Prevotella copri and depleted Bifidobacterium. Secondary bile acid synthesis, d-glutamine and d-glutamate metabolism and Biotin metabolism were decreased in the lower SES village. In summary, residential SES is a strong determinant of the gut microbiome in healthy school-age children, mediated by household crowding and characterized by increased bacterial richness and substantial taxonomic and metabolic differences. Further research is necessary to explore possible implications of SES-related microbiome differences on children's health and development.
-
-[Source](https://www.nature.com/articles/s41522-022-00271-6)
-
-10.1038/s41522-022-00271-6
+[Source](https://twitter.com/PeterFabianLab/status/1499818919560769539)
 
 ---
 
-## Oligofructose-Enriched Inulin Intake, Gut Microbiome Characteristics, and the V̇O<sub>2</sub>&nbsp;Peak Response to High-Intensity Interval Training in Healthy Inactive Adults
+## Microbial invasion of a toxic medium is facilitated by a resident community but inhibited as the community co-evolves
 
-[Source](https://academic.oup.com/jn/article-abstract/152/3/680/6462907?redirectedFrom=fulltext&login=false)
-
----
-
-## Helicobacter pylori infection affects the human gastric microbiome, as revealed by metagenomic sequencing.
- 04.03.2022, _D Wang, T Zhang, Y Lu, C Wang, Y Wu, J Li, Y Tao, L Deng, X Zhang, J Ma_
-
-
-Helicobacter pylori infection is a prevalent infectious disease, associated with many gastric diseases, including gastritis, gastric ulcer, and gastric cancer. To reveal the characteristics of the gastric microbiome in patients infected with H. pylori, we performed metagenomic shotgun sequencing of stomach swab samples from 96 patients, and then conducted metagenomic association analyses between alterations of the gastric microbiome and H. pylori infection status. The overall composition of the gastric microbiota in H. pylori-infected individuals was distinctly different from the negative controls; H. pylori became the dominant species after colonizing the human stomach, and significantly decreased the α-diversity of the gastric community (P&lt;0.05, Wilcoxon rank-sum test). We also identified 6 HPI-associated microbial species (FDR &lt; 0.05, Wilcoxon rank-sum test): Stenotrophomonas maltophilia, Stenotrophomonas unclassified, Chryseobacterium unclassified, Pedobacter unclassified, Variovorax unclassified, and Pseudomonas stutzeri. Furthermore, 55 gastric microbial pathways were enriched in the H. pylori-positive group, whereas only 2 pathways were more abundant in the H. pylori-negative group: dTDP-L-rhamnose biosynthesis and tetrapyrrole biosynthesis. (FDR&lt;0.05, Wilcoxon rank-sum test). Gastritis was not associated with non-H. pylori species in the stomach (P&gt;0.05, Wilcoxon rank-sum test). This study revealed alterations of gastric microbial taxa and function associated with HPI in the Chinese population, which provides an insight into gastric microbial interactions and their potential role in the pathological process of gastric diseases.
-
-[Source](https://febs.onlinelibrary.wiley.com/doi/10.1002/2211-5463.13390)
-
-10.1002/2211-5463.13390
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.03.482806v1)
 
 ---
 
-## Helicobacter pylori&nbsp;infection affects the human gastric microbiome, as revealed by metagenomic sequencing
+## @PhilippePiccar1
 
-[Source](https://febs.onlinelibrary.wiley.com/doi/10.1002/2211-5463.13390)
-
----
-
-## Microbiota dynamics in a randomized trial of gut decontamination during allogeneic hematopoietic cell transplantation
-
-[Source](https://insight.jci.org/articles/view/154344)
+[Source](https://twitter.com/PhilippePiccar1?ref_src=twsrc%5Etfw)
 
 ---
 
-## Direct and indirect mechanisms by which the gut microbiota influence host serotonin systems.
- 05.03.2022, _TB Legan, B Lavoie, GM Mawe_
+## https://t.co/rUKz4ApqoP
 
-
-Mounting evidence highlights the pivotal role of enteric microbes as a dynamic interface with the host. Indeed, the gut microbiota, located in the lumen of the gastrointestinal (GI) tract, influence many essential physiological processes that are evident in both healthy and pathological states. A key signaling molecule throughout the body is serotonin (5-hydroxytryptamine; 5-HT), which acts in the GI tract to regulate numerous gut functions including intestinal motility and secretion. The gut microbiota can modulate host 5-HT systems both directly and indirectly. Direct actions of gut microbes, evidenced by studies using germ-free animals or antibiotic administration, alter the expression of key 5-HT-related genes to promote 5-HT biosynthesis. Indirectly, the gut microbiota produce numerous microbial metabolites, whose actions can influence host serotonergic systems in a variety of ways. This review summarizes the current knowledge regarding mechanisms by which gut bacteria act to regulate host 5-HT and 5-HT-mediated gut functions, as well as implications for 5-HT in the microbiota-gut-brain axis.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/nmo.14346)
-
-10.1111/nmo.14346
+[Source](https://t.co/rUKz4ApqoP)
 
 ---
 
-## Tree-Based Analysis of Dietary Diversity Captures Associations Between Fiber Intake and Gut Microbiota Composition in a Healthy US Adult Cohort
+## March 4, 2022
 
-[Source](https://academic.oup.com/jn/article/152/3/779/6484803?login=false)
-
----
-
-## Spatial distribution of live gut microbiota and bile acid metabolism in various parts of human large intestine.
- 05.03.2022, _D Chinda, T Takada, T Mikami, K Shimizu, K Oana, T Arai, K Akitaya, H Sakuraba, M Katto, Y Nagara, H Makino, D Fujii, K Oishi, S Fukuda_
-
-
-Gut microbiomics is based on analysis of both live and dead cells in the stool. However, to understand the ecology of gut microbiota and their symbiotic relationships with hosts, spatial distribution of live bacteria must be examined. Here, we analyzed the live composition of luminal microbiota (LM) and mucosa-associated microbiota (MAM) in the ascending and descending colons and the rectums of 10 healthy adults and compared it with the total composition. The abundance of Lachnospiraceae in live LM decreased along the gut length and was significantly lower than that in total LM. Contrastingly, the abundance of Bacteroidaceae and Bifidobacteriaceae in live LM was higher than that in total LM, suggesting differences in death rate during gut migration. Live Enterobacteriaceae levels in MAM were significantly higher in rectum than in the ascending and descending colons and in LM. High-performance liquid chromatographic analysis of luminal bile acids revealed that 7α-dehydroxylation occurred towards the rectum. In live LM where a bile acid-inducible gene could be detected, 7α-dehydroxylation rates were higher than those in the group without the gene. Overall, we showed differences in live bacteria composition among three gut sites and between LM and MAM, highlighting the importance of understanding their spatial distribution.
-
-[Source](https://www.nature.com/articles/s41598-022-07594-6)
-
-10.1038/s41598-022-07594-6
+[Source](https://twitter.com/saramitri/status/1499672946046083075?ref_src=twsrc%5Etfw)
 
 ---
 
-## Understanding the mechanism underlying the anti-diabetic effect of dietary component: a focus on gut microbiota.
- 04.03.2022, _Y Zhao, M Li, Y Wang, R Geng, J Fang, Q Liu, SG Kang, WC Zeng, K Huang, T Tong_
+## Could a Focus on the “Why” of Taxonomy Help Taxonomy Better Respond to the Needs of Science and Society?
 
-
-Diabetes has become one of the biggest non-communicable diseases and threatens human health worldwide. The management of diabetes is a complex and multifaceted process including drug therapy and lifestyle interventions. Dietary components are essential for both diabetes management and health and survival of trillions of the gut microbiota (GM). Herein, we will discuss the relationship between diets and GM, the mechanism linking diabetes and gut dysbiosis, and the effects of dietary components (nutrients, phytochemicals, probiotics, food additives, etc.) on diabetes from the perspective of modulating GM. The GM of diabetic patients differs from that of health individuals and GM disorder contributes to the onset and maintenance of diabetes. Studies in humans and animal models consolidate that dietary component is a key regulator of diabetes and increasing evidence suggests that the alteration of GM plays a salient role in dietary interventions for diabetes. Given that diabetes is a major public health issue, especially that diabetes is linked with a high risk of mortality from COVID-19, this review provides compelling evidence for that targeting GM by dietary components is a promising strategy, and offers new insights into potential preventive or therapeutic approaches (dietary and pharmacological intervention) for the clinical management of diabetes.
-
-[Source](https://www.tandfonline.com/doi/abs/10.1080/10408398.2022.2045895?journalCode=bfsn20)
-
-10.1080/10408398.2022.2045895
+[Source](https://www.preprints.org/manuscript/202203.0069/v1)
 
 ---
 
-## Intestinal AMPK modulation of microbiota mediates crosstalk with brown fat to control thermogenesis.
- 04.03.2022, _E Zhang, L Jin, Y Wang, J Tu, R Zheng, L Ding, Z Fang, M Fan, I Al-Abdullah, R Natarajan, K Ma, Z Wang, AD Riggs, SC Shuck, L Yang, W Huang_
+## Cysteine dependence of<em> Lactobacillus iners</em> is a potential therapeutic target for vaginal microbiota modulation 
 
-
-The energy-dissipating capacity of brown adipose tissue through thermogenesis can be targeted to improve energy balance. Mammalian 5'-AMP-activated protein kinase, a key nutrient sensor for maintaining cellular energy status, is a known therapeutic target in Type II diabetes. Despite its well-established roles in regulating glucose metabolism in various tissues, the functions of AMPK in the intestine remain largely unexplored. Here we show that AMPKα1 deficiency in the intestine results in weight gain and impaired glucose tolerance under high fat diet feeding, while metformin administration fails to ameliorate these metabolic disorders in intestinal AMPKα1 knockout mice. Further, AMPKα1 in the intestine communicates with brown adipose tissue to promote thermogenesis. Mechanistically, we uncover a link between intestinal AMPKα1 activation and BAT thermogenic regulation through modulating anti-microbial peptide-controlled gut microbiota and the metabolites. Our findings identify AMPKα1-mediated mechanisms of intestine-BAT communication that may partially underlie the therapeutic effects of metformin.
-
-[Source](https://www.nature.com/articles/s41467-022-28743-5#Sec8)
-
-10.1038/s41467-022-28743-5
+[Source](https://www.nature.com/articles/s41564-022-01070-7)
 
 ---
 
-## Impact of wheat aleurone on biomarkers of cardiovascular disease, gut microbiota and metabolites in adults with high body mass index: a double-blind, placebo-controlled, randomized clinical trial.
- 05.03.2022, _F Fava, MM Ulaszewska, M Scholz, J Stanstrup, L Nissen, F Mattivi, J Vermeiren, D Bosscher, C Pedrolli, KM Tuohy_
+## Citizen-science map of the vaginal microbiome
 
-
-Aleurone is a cereal bran fraction containing a variety of beneficial nutrients including polyphenols, fibers, minerals and vitamins. Animal and human studies support the beneficial role of aleurone consumption in reducing cardiovascular disease (CVD) risk. Gut microbiota fiber fermentation, polyphenol metabolism and betaine/choline metabolism may in part contribute to the physiological effects of aleurone. As primary objective, this study evaluated whether wheat aleurone supplemented foods could modify plasma homocysteine. Secondary objectives included changes in CVD biomarkers, fecal microbiota composition and plasma/urine metabolite profiles.
-
-[Source](https://link.springer.com/article/10.1007/s00394-022-02836-9#Sec2)
-
-10.1007/s00394-022-02836-9
+[Source](https://www.researchsquare.com/article/rs-1350465/v1)
 
 ---
 
-## Alterations in the oral microbiome of individuals with a healthy oral environment following COVID-19 vaccination.
- 04.03.2022, _O Uehara, Y Abiko, T Nagasawa, T Morikawa, D Hiraki, F Harada, Y Kawano, S Toraya, H Matsuoka, D Paudel, S Shimizu, K Yoshida, M Asaka, Y Furuichi, H Miura_
+## Insight into the ecology of vaginal bacteria through integrative analyses of metagenomic and metatranscriptomic data
 
-
-Several reports suggest that the microbiome of the digestive system affects vaccine efficacy and that the severity of coronavirus disease (COVID-19) is associated with decreased diversity of the oral and/or intestinal microbiome. The present study examined the effects of a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) mRNA vaccine on the oral microbiome.
-
-[Source](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-022-02093-6)
-
-10.1186/s12903-022-02093-6
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02635-9)
 
 ---
 
-## Age-related changes in the nasopharyngeal microbiome are associated with SARS-CoV-2 infection and symptoms among children, adolescents, and young adults
+## #microbiome
 
-[Source](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac184/6542968?login=false)
-
----
-
-## Animal gut microbiome mediates the effects of antibiotic pollution on an artificial freshwater system
-
-[Source](https://www.sciencedirect.com/science/article/pii/S030438942102937X?via%3Dihub)
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Metagenomic analysis explores the interaction of aged microplastics and roxithromycin on gut microbiota and antibiotic resistance genes of&nbsp;<em>Carassius auratus</em>
+## #TheMarieProject
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0304389421027424?via%3Dihub)
-
----
-
-## Identification and functional expression of a new xylose isomerase from the goat rumen microbiome in&nbsp;<em>Saccharomyces cerevisiae</em>
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/lam.13689)
+[Source](https://twitter.com/hashtag/TheMarieProject?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Extensive metagenomic analysis of the porcine gut resistome to identify indicators reflecting antimicrobial resistance
+## #awareness
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01241-y)
-
----
-
-## Mucosal fungi promote gut barrier function and social behavior via Type 17 immunity
-
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(22)00075-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867422000757%3Fshowall%3Dtrue)
+[Source](https://twitter.com/hashtag/awareness?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut microbiota drives age-related oxidative stress and mitochondrial damage in microglia via the metabolite&nbsp;<em>N</em><sup>6</sup>-carboxymethyllysine
+## https://t.co/cjxTHtZggQ
 
-[Source](https://www.nature.com/articles/s41593-022-01027-3)
-
----
-
-## Kaempferol acts on bile acid signaling and gut microbiota to attenuate the tumor burden in&nbsp;<em>ApcMin/+</em>&nbsp;mice
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0014299922000346?via%3Dihub)
+[Source](https://t.co/cjxTHtZggQ)
 
 ---
 
-## Changes of gut microbiota in diabetic nephropathy and its effect on the progression of kidney injury
+## #WomensHealth
 
-[Source](https://link.springer.com/article/10.1007/s12020-022-03002-1)
-
----
-
-## The Novel Interplay between Commensal Gut Bacteria and Metabolites in Diet-Induced Hyperlipidemic Rats Treated with Simvastatin.
- 04.03.2022, _S Zhang, L Yuan, H Li, L Han, W Jing, X Wu, S Ullah, R Liu, Y Wu, J Xu_
-
-
-Hyperlipidemia is one kind of metabolic syndrome for which the treatment commonly includes simvastatin (SV). Individuals vary widely in statin responses, and growing evidence implicates gut microbiome involvement in this variability. However, the associated molecular mechanisms between metabolic improvement and microbiota composition following SV treatment are still not fully understood. In this study, combinatory approaches using ultrahigh-performance liquid chromatography coupled with hybrid triple quadrupole time-of-flight mass spectrometry (UHPLC-Q-TOF MS/MS)-based metabolomic profiling, PCR-denaturing gradient gel electrophoresis (PCR-DGGE), quantitative PCR (qPCR), and 16S rRNA gene sequencing-based gut microbiota profiling were performed to investigate the interplay of endogenous metabolites and the gut microbiota related to SV treatment. A total of 6 key differential endogenous metabolites were identified that affect the metabolism of amino acids (phenylalanine and tyrosine), unsaturated fatty acids (linoleic acid and 9-hydroxyoctadecadienoic acid (9-HODE)), and the functions of gut microbial metabolism. Moreover, a total of 22 differentially abundant taxa were obtained following SV treatment. Three bacterial taxa were identified to be involved in SV treatment, namely, Bacteroidaceae, Prevotellaceae, and Porphyromonadaceae. These findings suggested that the phenylalanine and tyrosine-associated amino acid metabolism pathways, as well as the linoleic acid and 9-HODE-associated unsaturated fatty acid metabolism pathways, which are involved in gut flora interactions, might be potential therapeutic targets for improvement in SV hypolipidemic efficacy. The mass spectrometric data have been deposited to MassIVE (https://massive.ucsd.edu/ProteoSAFe/static/massive.jsp). Username: MSV000087842_reviewer. Password: hardworkingzsr.
-
-[Source](https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00252)
-
-10.1021/acs.jproteome.1c00252
+[Source](https://twitter.com/hashtag/WomensHealth?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Changes to gut amino acid transporters and microbiome associated with increased E/I ratio in&nbsp;<em>Chd8</em><sup>+/−</sup>&nbsp;mouse model of ASD-like behavio
+## pic.twitter.com/B9MLNWF6Ex
 
-[Source](https://www.nature.com/articles/s41467-022-28746-2)
-
----
-
-## Novel Selenium Peptides Obtained from Selenium-Enriched Cordyceps militaris Alleviate Neuroinflammation and Gut Microbiota Dysbacteriosis in LPS-Injured Mice.
- 03.03.2022, _S Wu, Q Wu, J Wang, Y Li, B Chen, Z Zhu, R Huang, M Chen, A Huang, Y Xie, C Jiao, Y Ding_
-
-
-Increasing attention focuses on the relationship between neuroinflammation and Alzheimer's disease (AD). The reports on the microbiota-gut-brain axis reveal that the regulation by gut microbiota is an effective way to intervene in neuroinflammation-related AD. In this study, two novel selenium peptides (Se-Ps), VPRKL(Se)M (Se-P1) and RYNA(Se)MNDYT (Se-P2), with neuroprotection effects were obtained from Se-enriched Cordyceps militaris. Se-P1 and Se-P2 pre-protection led to a 30 and 33% increase in the PC-12 cell viability compared to the damage group, respectively. Moreover, Se-Ps exhibited a significant pre-protection against LPS-induced inflammatory and oxidative stress in the colon and brain by inhibiting the production of pro-inflammatory mediators (p &lt; 0.05) and malondialdehyde, as well as promoting anti-inflammatory cytokine level and antioxidant enzyme activity (p &lt; 0.05), which may alleviate the cognitive impairment in LPS-injured mice (p &lt; 0.05). Se-Ps not only repaired the intestinal mucosa damage of LPS-injured mice but also had a positive effect on gut microbiota dysbacteriosis by increasing the abundance of Lactobacillus and Alistipes and decreasing the abundance of Akkermansia and Bacteroides. Collectively, the antioxidant, anti-inflammatory, and regulating properties on gut microflora of Se-Ps contribute to their neuroprotection, supporting that Se-Ps could be a promising dietary supplement in the prevention and/or treatment of AD.
-
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08393)
-
-10.1021/acs.jafc.1c08393
+[Source](https://t.co/B9MLNWF6Ex)
 
 ---
 
-## Novel Selenium Peptides Obtained from Selenium-Enriched&nbsp;<em>Cordyceps militaris</em>Alleviate Neuroinflammation and Gut Microbiota Dysbacteriosis in LPS-Injured Mice
+## March 4, 2022
 
-[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c08393)
-
----
-
-## Microbiome-metabolomics analysis of the effects of decreasing dietary crude protein content on goat rumen mictobiota and metabolites.
- 03.03.2022, _W Zhu, T Liu, J Deng, CC Wei, ZJ Zhang, DM Wang, XY Chen_
-
-
-The objective of this study was to investigate the effects of decreasing dietary crude protein content on rumen fermentation, mictobiota, and metabolites in goats.
-
-[Source](https://www.animbiosci.org/journal/view.php?doi=10.5713/ab.21.0411)
-
-10.5713/ab.21.0411
+[Source](https://twitter.com/themarieprojec1/status/1499637011916886016?ref_src=twsrc%5Etfw)
 
 ---
 
-## Accurate prediction of metagenome-assembled genome completeness by MAGISTA, a random forest model built on alignment-free intra-bin statistics
+## The gut, vaginal, and urine microbiome in overactive bladder: a systematic review
 
-[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00403-7)
+[Source](https://link.springer.com/article/10.1007/s00192-022-05127-3)
+
+---
+
+## Identification of antimicrobial peptides from the human gut microbiome using deep learning
+
+[Source](https://www.nature.com/articles/s41587-022-01226-0)
+
+---
+
+## Microbiome risk profiles as biomarkers for inflammatory and metabolic disorders
+
+[Source](https://www.nature.com/articles/s41575-022-00581-2)
+
+---
+
+## Temporal variations shape the gut microbiome ecology of the moth<em> Brithys crini </em>
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.15952)
+
+---
+
+## Systematically assessing microbiome–disease associations identifies drivers of inconsistency in metagenomic research
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001556)
+
+---
+
+## @PLOSBiology
+
+[Source](https://twitter.com/PLOSBiology?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/MV5xvVQ2aF
+
+[Source](https://t.co/MV5xvVQ2aF)
+
+---
+
+## March 2, 2022
+
+[Source](https://twitter.com/BradenTierney/status/1499118231944151047?ref_src=twsrc%5Etfw)
+
+---
+
+## MultiBaC: An R package to remove batch effects in multi-omic experiments
+
+[Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac132/6541627)
+
+---
+
+## HiCBin: binning metagenomic contigs and recovering metagenome-assembled genomes using Hi-C contact maps
+
+[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02626-w)
+
+---
+
+## #microbiome
+
+[Source](https://twitter.com/hashtag/microbiome)
+
+---
+
+## #MVIF
+
+[Source](https://twitter.com/hashtag/MVIF)
+
+---
+
+## https://hopin.com/events/microbiome-vif-n-7
+
+[Source](https://hopin.com/events/microbiome-vif-n-7})
+
+---
+
+## The impact of wait time on patient outcomes in knee and hip replacement surgery: a scoping review protocol.
+ 05.03.2022, _E Dawson, ME Neufeld, E Schemitsch, A John-Baptiste_
+
+
+Total hip and total knee replacement surgery are in high demand, leading to long wait times for many patients. While on the waiting list, patients may experience worsening pain, reduced mobility, and deteriorating health. Given that long wait times are common for lower joint replacement surgery, it is important to understand how patient health changes during the wait period and whether this impacts patient outcomes after surgery. The aim of this scoping review will be to identify and describe the evidence regarding the impact of wait time on patient outcomes for patients who undergo total knee and total hip replacement surgery.
+
+[Source](https://www.microbiome-vif.org/program/})
+
+10.1186/s13643-022-01909-4
+
+---
+
+## https://www.microbiome-vif.org/program/
+
+[Source](https://www.microbiome-vif.org/program/})
+
+---
+
+## @MicrobiomeVIF
+
+[Source](https://twitter.com/MicrobiomeVIF)
+
+---
+
+## A review of ethical and legal aspects of gender-neutral human papillomavirus vaccination.
+ 05.03.2022, _M Logel, C Laurie, M El-Zein, J Guichon, EL Franco_
+
+
+While launching a campaign to eliminate cervical cancer, the World Health Organization called to halt human papillomavirus (HPV) gender-neutral vaccination (GNV) because of limited vaccine supply, raising ethical and legal questions about female-only vaccination versus GNV. We identified ethical and legal aspects of HPV GNV by searching MEDLINE for records up to February 19, 2021. We also provided an overview of HPV vaccines, the evolution of HPV vaccine recommendations in North America, and a timeline of male HPV vaccination introduction by searching PubMed, Google, and government websites. Four HPV vaccines are available: Cervarix®, Gardasil®, Gardasil®9, and Cecolin®. Vaccine recommendations in North America evolved from female only to eventually include males. Following the Food and Drug Administration's approval of the first HPV vaccine for males (2009), 35 countries began vaccinating males (2011-2020). Based on 56 eligible records out of 652, we identified the following constructs: lower male awareness of HPV and vaccination (n=13), limited economic resources (n=5), shared social responsibility (n=18), unprotected groups from female-only HPV vaccination (n=10), limited screening for HPV-associated noncervical cancers (n=6), consideration of ethical principles (n=17), and HPV vaccine mandates (n=5). Ethical and legal aspects must be considered when recommending vaccination for females only or GNV.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1494340672995966977)
+
+10.1158/1055-9965.EPI-21-1256
+
+---
+
+## February 17, 2022
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1494340672995966977)
 
 ---
 
