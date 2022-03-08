@@ -4,15 +4,15 @@
 
 ---
 
-## Prevalence and Factors Associated With Gender-Affirming Surgery Among Transgender Women &amp; Transgender Men in a Community-Based Clinic in Metro Manila, Philippines: A Retrospective Study.
- 05.03.2022, _PC Eustaquio, AV Castelo, YS Araña, JOL Corciega, JDT Rosadiño, RG Pagtakhan, ZJG Regencia, ES Baja_
+## Dynamization-Posterior Lumbar Interbody Fusion for Hemodialysis-Related Spondyloarthropathy: Evaluation of the Radiographic Outcomes and Reoperation Rate within 2 Years Postoperatively.
+ 07.03.2022, _T Yasukawa, J Ohya, N Kawamura, Y Yoshida, Y Onishi, K Kohata, Y Kakuta, S Nagatani, Y Kudo, T Shirahata, J Kunogi_
 
 
-More information is needed about gender-affirming surgery (GAS) in the Philippines because of many self- or peer-prescribed gender-affirming procedures among transgender people.
+Clinical case series.
 
 [Source](https://twitter.com/PeterFabianLab/status/1499818919560769539)
 
-10.1016/j.esxm.2022.100497
+10.31616/asj.2021.0312
 
 ---
 
