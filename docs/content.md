@@ -202,18 +202,6 @@ More information is needed about gender-affirming surgery (GAS) in the Philippin
 
 ---
 
-## A review of ethical and legal aspects of gender-neutral human papillomavirus vaccination.
- 05.03.2022, _M Logel, C Laurie, M El-Zein, J Guichon, EL Franco_
-
-
-While launching a campaign to eliminate cervical cancer, the World Health Organization called to halt human papillomavirus (HPV) gender-neutral vaccination (GNV) because of limited vaccine supply, raising ethical and legal questions about female-only vaccination versus GNV. We identified ethical and legal aspects of HPV GNV by searching MEDLINE for records up to February 19, 2021. We also provided an overview of HPV vaccines, the evolution of HPV vaccine recommendations in North America, and a timeline of male HPV vaccination introduction by searching PubMed, Google, and government websites. Four HPV vaccines are available: Cervarix®, Gardasil®, Gardasil®9, and Cecolin®. Vaccine recommendations in North America evolved from female only to eventually include males. Following the Food and Drug Administration's approval of the first HPV vaccine for males (2009), 35 countries began vaccinating males (2011-2020). Based on 56 eligible records out of 652, we identified the following constructs: lower male awareness of HPV and vaccination (n=13), limited economic resources (n=5), shared social responsibility (n=18), unprotected groups from female-only HPV vaccination (n=10), limited screening for HPV-associated noncervical cancers (n=6), consideration of ethical principles (n=17), and HPV vaccine mandates (n=5). Ethical and legal aspects must be considered when recommending vaccination for females only or GNV.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1494340672995966977)
-
-10.1158/1055-9965.EPI-21-1256
-
----
-
 ## February 17, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1494340672995966977)
