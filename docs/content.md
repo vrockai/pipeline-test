@@ -4,15 +4,15 @@
 
 ---
 
-## Dynamization-Posterior Lumbar Interbody Fusion for Hemodialysis-Related Spondyloarthropathy: Evaluation of the Radiographic Outcomes and Reoperation Rate within 2 Years Postoperatively.
- 07.03.2022, _T Yasukawa, J Ohya, N Kawamura, Y Yoshida, Y Onishi, K Kohata, Y Kakuta, S Nagatani, Y Kudo, T Shirahata, J Kunogi_
+## Impact of the COVID-19 pandemic on disease stage and treatment for patients with pancreatic adenocarcinoma: A French comprehensive multicentre ambispective observational cohort study (CAPANCOVID).
+ 08.03.2022, _M Brugel, L Letrillart, C Evrard, A Thierry, D Tougeron, M El Amrani, G Piessen, S Truant, A Turpin, C d'Engremont, G Roth, V Hautefeuille, JM Regimbeau, N Williet, L Schwarz, F Di Fiore, C Borg, A Doussot, A Lambert, V Moulin, H Trelohan, M Bolliet, A Topolscki, A Ayav, A Lopez, D Botsen, T Piardi, C Carlier, O Bouché_
 
 
-Clinical case series.
+The COVID-19 pandemic caused major oncology care pathway disruption. The CAPANCOVID study aimed to evaluate the impact on pancreatic adenocarcinoma (PA) - from diagnosis to treatment - of the reorganisation of the health care system during the first lockdown.
 
 [Source](https://twitter.com/PeterFabianLab/status/1499818919560769539)
 
-10.31616/asj.2021.0312
+10.1016/j.ejca.2022.01.040
 
 ---
 
