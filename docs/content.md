@@ -1,5 +1,5 @@
 ## Two-for-one: Dual host-microbe functions of S. epidermidis Sph.
- 10.03.2022, _MH Swaney, LR Kalan_
+ 16.03.2022, _MH Swaney, LR Kalan_
 
 
 The skin microbiome is essential for skin function, yet the mechanisms responsible are only beginning to be uncovered. In this issue of Cell Host &amp; Microbe, Zheng et al. demonstrate that a Staphylococcus epidermidis sphingomyelinase has a mutually beneficial role in supporting the skin barrier and promoting S. epidermidis colonization.
@@ -22,11 +22,11 @@ Microbial communities on and within the host contact environmental pollutants, t
 
 ---
 
-## Vaginal Microbiome and Cervical Cancer.
- 11.03.2022, _M Kyrgiou, AB Moscicki_
+## Vaginal microbiome and cervical cancer.
+ 16.03.2022, _M Kyrgiou, AB Moscicki_
 
 
-The female reproductive tract, similar to other mucosal sites, harbours a specific microbiome commonly dominated by Lactobacillus species (spp.), which has an essential role in maintaining health and homeostasis. Increasing evidence shows that genital tract dysbiosis and/or specific bacteria and cytokines might have an active role in the development and/or progression of HPV infection and cervical intra-epithelial neoplasia (CIN) and as a result cervical cancer. Cross-sectional and longitudinal studies reported that Lactobacillus spp. depletion increases with severity of CIN and that this may negatively affect disease regression rates. It is plausible that Lactobacillus deplete microbiome composition may lead to a pro-inflammatory environment that can increase malignant cell proliferation and HPV E6 and E7 oncogene expression. Future longitudinal cohorts and mechanistic experiments on HPV transfected cells models will further permit exploration of the impact of Lactobacillus spp. on HPV infection.
+The female reproductive tract, similar to other mucosal sites, harbors a specific microbiome commonly dominated by Lactobacillus species (spp.), which has an essential role in maintaining health and homeostasis. Increasing evidence shows that genital tract dysbiosis and/or specific bacteria and cytokines might have an active role in the development and/or progression of HPV infection and cervical intra-epithelial neoplasia (CIN) and as a result cervical cancer. Cross-sectional and longitudinal studies reported that Lactobacillus spp. depletion increases with severity of CIN and that this may negatively affect disease regression rates. It is plausible that Lactobacillus deplete microbiome composition may lead to a pro-inflammatory environment that can increase malignant cell proliferation and HPV E6 and E7 oncogene expression. Future longitudinal cohorts and mechanistic experiments on HPV transfected cells models will further permit exploration of the impact of Lactobacillus spp. on HPV infection.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1044579X2200061X)
 
@@ -41,9 +41,10 @@ The female reproductive tract, similar to other mucosal sites, harbours a specif
 ---
 
 ## Impact of Nutritional Profile on Gut Microbiota Diversity in Patients with Celiac Disease.
- 14.03.2022, _M Soheilian-Khorzoghi, S Rezasoltani, A Moheb-Alian, A Yadegar, M Rostami-Nejad, M Azizmohammad-Looha, AK Verma, A Haddadi, H Dabiri_
+ 16.03.2022, _M Soheilian-Khorzoghi, S Rezasoltani, A Moheb-Alian, A Yadegar, M Rostami-Nejad, M Azizmohammad-Looha, AK Verma, A Haddadi, H Dabiri_
 
 
+_Bifidobacterium, Celiac Disease, Feces, Gastrointestinal Microbiome, Humans, Microbiota_
 The pathogenesis of celiac disease (CD) is significantly influenced by gut microbiota. Daily nutritional profile influences the diversity of gut microbiota. This study was aimed to compare the abundance of gut microbiota in CD patients compared to normal control (NC), and to investigate the impact of nutritional factors on their fecal microbiota diversity. In this study, a selected panel of intestinal bacteria was assessed in 31 confirmed CD patients adhering to gluten-free diet (GFD) for more than 6 months and in 20 NC subjects. Stool samples were collected from each participant, DNA was extracted, and absolute quantitative real-time PCR (qPCR) was carried out. The gut microbiota including Bacteroidetes, Bifidobacterium, Clostridium, Staphylococcus, Enterobacteiaceae, Firmicutes, and Lactobacillus were assessed. The quantities of fruits, vegetables, meat, liquids, sugar and gluten-free candy/bread consumption were evaluated using a questionnaire. The proportion of Bifidobacterium, Firmicutes, and Lactobacillus in CD cases was significantly lower than NC (P &lt; 0.005). Significant correlation coefficients between Bifidobacterium and Lactobacillus (P &lt; 0.001), and also Firmicutes and Lactobacillus (P &lt; 0.001) were recorded. Moreover, a significant association between medium amount of meat and bean consumptions and low abundance of Lactobacillus and Firmicutes (P = 0.024 and P = 0.027, respectively), and also high amount of bean consumptions and low abundance of Lactobacillus (P = 0.027) in CD were observed. The results showed that meat and bean consumptions could reduce the beneficial bacteria including Firmicutes and Lactobacillus in CD patients. Therefore, changes in the gut microbiota abundance may contribute to dietary changes and unimproved CD symptoms.
 
 [Source](https://link.springer.com/article/10.1007/s00284-022-02820-w)
