@@ -1,7 +1,8 @@
 ## Two-for-one: Dual host-microbe functions of S. epidermidis Sph.
- 16.03.2022, _MH Swaney, LR Kalan_
+ 18.03.2022, _MH Swaney, LR Kalan_
 
 
+_Microbiota, Skin, Staphylococcus epidermidis_
 The skin microbiome is essential for skin function, yet the mechanisms responsible are only beginning to be uncovered. In this issue of Cell Host &amp; Microbe, Zheng et al. demonstrate that a Staphylococcus epidermidis sphingomyelinase has a mutually beneficial role in supporting the skin barrier and promoting S. epidermidis colonization.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S193131282200097X)
