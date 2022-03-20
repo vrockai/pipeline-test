@@ -55,7 +55,7 @@ The pathogenesis of celiac disease (CD) is significantly influenced by gut micro
 ---
 
 ## The effects of the Green-Mediterranean diet on cardiometabolic health are linked to gut microbiome modifications: a randomized controlled trial.
- 10.03.2022, _E Rinott, AY Meir, G Tsaban, H Zelicha, A Kaplan, D Knights, K Tuohy, MU Scholz, O Koren, MJ Stampfer, DD Wang, I Shai, I Youngster_
+ 19.03.2022, _E Rinott, AY Meir, G Tsaban, H Zelicha, A Kaplan, D Knights, K Tuohy, MU Scholz, O Koren, MJ Stampfer, DD Wang, I Shai, I Youngster_
 
 
 Previous studies have linked the Mediterranean diet (MED) with improved cardiometabolic health, showing preliminary evidence for a mediating role of the gut microbiome. We recently suggested the Green-Mediterranean (Green-MED) diet as an improved version of the healthy MED diet, with increased consumption of plant-based foods and reduced meat intake. Here, we investigated the effects of MED interventions on the gut microbiota and cardiometabolic markers, and the interplay between the two, during the initial weight loss phase of the DIRECT-PLUS trial.
@@ -91,7 +91,7 @@ Post-weaning diarrhea (PWD) in pigs has mainly an infectious basis and control s
 ---
 
 ## Microbiome function predicts amphibian chytridiomycosis disease dynamics.
- 11.03.2022, _KA Bates, U Sommer, KP Hopkins, JMG Shelton, C Wierzbicki, C Sergeant, B Tapley, CJ Michaels, DS Schmeller, A Loyau, J Bosch, MR Viant, XA Harrison, TWJ Garner, MC Fisher_
+ 19.03.2022, _KA Bates, U Sommer, KP Hopkins, JMG Shelton, C Wierzbicki, C Sergeant, B Tapley, CJ Michaels, DS Schmeller, A Loyau, J Bosch, MR Viant, XA Harrison, TWJ Garner, MC Fisher_
 
 
 The fungal pathogen Batrachochytrium dendrobatidis (Bd) threatens amphibian biodiversity and ecosystem stability worldwide. Amphibian skin microbial community structure has been linked to the clinical outcome of Bd infections, yet its overall functional importance is poorly understood.
@@ -103,7 +103,7 @@ The fungal pathogen Batrachochytrium dendrobatidis (Bd) threatens amphibian biod
 ---
 
 ## MetaDecoder: a novel method for clustering metagenomic contigs.
- 11.03.2022, _CC Liu, SS Dong, JB Chen, C Wang, P Ning, Y Guo, TL Yang_
+ 19.03.2022, _CC Liu, SS Dong, JB Chen, C Wang, P Ning, Y Guo, TL Yang_
 
 
 Clustering the metagenomic contigs into potential genomes is a key step to investigate the functional roles of microbial populations. Existing algorithms have achieved considerable success with simulated or real sequencing datasets. However, accurately classifying contigs from complex metagenomes is still a challenge.
