@@ -91,9 +91,10 @@ Post-weaning diarrhea (PWD) in pigs has mainly an infectious basis and control s
 ---
 
 ## Microbiome function predicts amphibian chytridiomycosis disease dynamics.
- 19.03.2022, _KA Bates, U Sommer, KP Hopkins, JMG Shelton, C Wierzbicki, C Sergeant, B Tapley, CJ Michaels, DS Schmeller, A Loyau, J Bosch, MR Viant, XA Harrison, TWJ Garner, MC Fisher_
+ 21.03.2022, _KA Bates, U Sommer, KP Hopkins, JMG Shelton, C Wierzbicki, C Sergeant, B Tapley, CJ Michaels, DS Schmeller, A Loyau, J Bosch, MR Viant, XA Harrison, TWJ Garner, MC Fisher_
 
 
+_Animals, Anura, Chytridiomycota, Microbiota, Mycoses, RNA, Ribosomal, 16S_
 The fungal pathogen Batrachochytrium dendrobatidis (Bd) threatens amphibian biodiversity and ecosystem stability worldwide. Amphibian skin microbial community structure has been linked to the clinical outcome of Bd infections, yet its overall functional importance is poorly understood.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01215-6)
@@ -103,9 +104,10 @@ The fungal pathogen Batrachochytrium dendrobatidis (Bd) threatens amphibian biod
 ---
 
 ## MetaDecoder: a novel method for clustering metagenomic contigs.
- 19.03.2022, _CC Liu, SS Dong, JB Chen, C Wang, P Ning, Y Guo, TL Yang_
+ 21.03.2022, _CC Liu, SS Dong, JB Chen, C Wang, P Ning, Y Guo, TL Yang_
 
 
+_Algorithms, Cluster Analysis, Metagenome, Metagenomics, Sequence Analysis, DNA_
 Clustering the metagenomic contigs into potential genomes is a key step to investigate the functional roles of microbial populations. Existing algorithms have achieved considerable success with simulated or real sequencing datasets. However, accurately classifying contigs from complex metagenomes is still a challenge.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01237-8)
