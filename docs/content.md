@@ -1,124 +1,199 @@
-## Two-for-one: Dual host-microbe functions of S. epidermidis Sph.
- 18.03.2022, _MH Swaney, LR Kalan_
+## Microbial communities form rich extracellular metabolomes that foster metabolic interactions and promote drug tolerance.
+ 22.03.2022, _JSL Yu, C Correia-Melo, F Zorrilla, L Herrera-Dominguez, MY Wu, J Hartl, K Campbell, S Blasche, M Kreidl, AS Egger, CB Messner, V Demichev, A Freiwald, M Mülleder, M Howell, J Berman, KR Patil, MT Alam, M Ralser_
 
 
-_Microbiota, Skin, Staphylococcus epidermidis_
-The skin microbiome is essential for skin function, yet the mechanisms responsible are only beginning to be uncovered. In this issue of Cell Host &amp; Microbe, Zheng et al. demonstrate that a Staphylococcus epidermidis sphingomyelinase has a mutually beneficial role in supporting the skin barrier and promoting S. epidermidis colonization.
+Microbial communities are composed of cells of varying metabolic capacity, and regularly include auxotrophs that lack essential metabolic pathways. Through analysis of auxotrophs for amino acid biosynthesis pathways in microbiome data derived from &gt;12,000 natural microbial communities obtained as part of the Earth Microbiome Project (EMP), and study of auxotrophic-prototrophic interactions in self-establishing metabolically cooperating yeast communities (SeMeCos), we reveal a metabolically imprinted mechanism that links the presence of auxotrophs to an increase in metabolic interactions and gains in antimicrobial drug tolerance. As a consequence of the metabolic adaptations necessary to uptake specific metabolites, auxotrophs obtain altered metabolic flux distributions, export more metabolites and, in this way, enrich community environments in metabolites. Moreover, increased efflux activities reduce intracellular drug concentrations, allowing cells to grow in the presence of drug levels above minimal inhibitory concentrations. For example, we show that the antifungal action of azoles is greatly diminished in yeast cells that uptake metabolites from a metabolically enriched environment. Our results hence provide a mechanism that explains why cells are more robust to drug exposure when they interact metabolically.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S193131282200097X)
+[Source](https://www.nature.com/articles/s41564-022-01072-5)
 
-10.1016/j.chom.2022.02.011
-
----
-
-## Multi-omics strategies for investigating the microbiome in toxicology research.
- 14.03.2022, _EW Morgan, GH Perdew, AD Patterson_
-
-
-Microbial communities on and within the host contact environmental pollutants, toxic compounds, and other xenobiotic compounds. These communities of bacteria, fungi, viruses, and archaea possess diverse metabolic potential to catabolize compounds and produce new metabolites. Microbes alter chemical disposition thus making the microbiome a natural subject of interest for toxicology. Sequencing and metabolomics technologies permits study of microbiomes altered by acute or long-term exposure to xenobiotics. These investigations have already contributed to and are helping to re-interpret traditional understandings of toxicology. The purpose of this review is to provide a survey of the current methods used to characterize microbes within the context of toxicology. This will include discussion of commonly used techniques for conducting omic-based experiments, their respective strengths and deficiencies, and how forward-looking techniques may address present shortcomings. Finally, a perspective will be provided regarding common assumptions that currently impede microbiome studies from producing causal explanations of toxicologic mechanisms.
-
-[Source](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac029/6548178)
-
-10.1093/toxsci/kfac029
+10.1038/s41564-022-01072-5
 
 ---
 
-## Vaginal microbiome and cervical cancer.
- 16.03.2022, _M Kyrgiou, AB Moscicki_
+## Skin microbiota diversity among genetically unrelated individuals of Indian origin.
+ 22.03.2022, _R Potbhare, A RaviKumar, E Munukka, L Lahti, R Ashma_
 
 
-The female reproductive tract, similar to other mucosal sites, harbors a specific microbiome commonly dominated by Lactobacillus species (spp.), which has an essential role in maintaining health and homeostasis. Increasing evidence shows that genital tract dysbiosis and/or specific bacteria and cytokines might have an active role in the development and/or progression of HPV infection and cervical intra-epithelial neoplasia (CIN) and as a result cervical cancer. Cross-sectional and longitudinal studies reported that Lactobacillus spp. depletion increases with severity of CIN and that this may negatively affect disease regression rates. It is plausible that Lactobacillus deplete microbiome composition may lead to a pro-inflammatory environment that can increase malignant cell proliferation and HPV E6 and E7 oncogene expression. Future longitudinal cohorts and mechanistic experiments on HPV transfected cells models will further permit exploration of the impact of Lactobacillus spp. on HPV infection.
+Human skin harbors complex transient and resident microbial communities that show intra- &amp; inter-individual variation due to various environmental and host-associated factors such as skin site, diet, age, gender, genetics, or the type and use of cosmetics. This variation remains largely uncharacterized in the Indian population; hence, the present study aims to characterize the variation in skin microbiota among individuals of Indian origin and quantify associations with age, diet, and geography.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1044579X2200061X)
+[Source](https://peerj.com/articles/13075/)
 
-10.1016/j.semcancer.2022.03.005
-
----
-
-## Multi-omic Analysis of the Gut Microbiome in Psoriasis Reveals Distinct Host-Microbe Associations
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2667026722000236)
+10.7717/peerj.13075
 
 ---
 
-## Impact of Nutritional Profile on Gut Microbiota Diversity in Patients with Celiac Disease.
- 16.03.2022, _M Soheilian-Khorzoghi, S Rezasoltani, A Moheb-Alian, A Yadegar, M Rostami-Nejad, M Azizmohammad-Looha, AK Verma, A Haddadi, H Dabiri_
+## Soil causes gut microbiota to flourish and total serum IgE levels to decrease in mice.
+ 22.03.2022, _D Zhou, N Li, F Yang, H Zhang, Z Bai, Y Dong, M Li, W Zhu, Z Fei, P Xiao, X Sun, Z Lu_
 
 
-_Bifidobacterium, Celiac Disease, Feces, Gastrointestinal Microbiome, Humans, Microbiota_
-The pathogenesis of celiac disease (CD) is significantly influenced by gut microbiota. Daily nutritional profile influences the diversity of gut microbiota. This study was aimed to compare the abundance of gut microbiota in CD patients compared to normal control (NC), and to investigate the impact of nutritional factors on their fecal microbiota diversity. In this study, a selected panel of intestinal bacteria was assessed in 31 confirmed CD patients adhering to gluten-free diet (GFD) for more than 6 months and in 20 NC subjects. Stool samples were collected from each participant, DNA was extracted, and absolute quantitative real-time PCR (qPCR) was carried out. The gut microbiota including Bacteroidetes, Bifidobacterium, Clostridium, Staphylococcus, Enterobacteiaceae, Firmicutes, and Lactobacillus were assessed. The quantities of fruits, vegetables, meat, liquids, sugar and gluten-free candy/bread consumption were evaluated using a questionnaire. The proportion of Bifidobacterium, Firmicutes, and Lactobacillus in CD cases was significantly lower than NC (P &lt; 0.005). Significant correlation coefficients between Bifidobacterium and Lactobacillus (P &lt; 0.001), and also Firmicutes and Lactobacillus (P &lt; 0.001) were recorded. Moreover, a significant association between medium amount of meat and bean consumptions and low abundance of Lactobacillus and Firmicutes (P = 0.024 and P = 0.027, respectively), and also high amount of bean consumptions and low abundance of Lactobacillus (P = 0.027) in CD were observed. The results showed that meat and bean consumptions could reduce the beneficial bacteria including Firmicutes and Lactobacillus in CD patients. Therefore, changes in the gut microbiota abundance may contribute to dietary changes and unimproved CD symptoms.
+Traditional farm environments induce protection from allergic diseases. In this study, farm environmental factors were classified into three categories, environmental microbes, soil, and organic matter. To explore the impact of soil and environmental microorganisms on gut microbiota and immune function, mice were fed sterilized soil and inhaling microbes, soil microbes, or non-sterilized soil. Metagenomic sequencing results showed the intake of sterile soil i.e. inhaling a small amount of soil microbes in the air increased gut microbial diversity and the abundance of type III secretion system (T3SS) genes, and decreased serum immune IgE levels induced by 2-4-dinitrofluorobenzene(DNFB). The intake of soil microbes increased the abundance of genes involved in the metabolism of short chain fatty acids and amino acid biosynthesis. Meanwhile, the intake of soil increased gut microbial diversity, the abundance of T3SS genes and related infectious elements, and genes associated with the metabolism of short chain fatty acids and amino acid biosynthesis, and decreased serum IgE levels. Therefore, soil may be useful as a potential "prebiotic" promoting the reproduction and growth of some intestinal microorganisms that harbor bacterial secretion system genes, especially those of T3SS, whose abundance was positively and significantly correlated with innate immune function of mice. This article is protected by copyright. All rights reserved.
 
-[Source](https://link.springer.com/article/10.1007/s00284-022-02820-w)
+[Source](https://www.sciencedirect.com/science/article/pii/S1323893022000120)
 
-10.1007/s00284-022-02820-w
-
----
-
-## The effects of the Green-Mediterranean diet on cardiometabolic health are linked to gut microbiome modifications: a randomized controlled trial.
- 19.03.2022, _E Rinott, AY Meir, G Tsaban, H Zelicha, A Kaplan, D Knights, K Tuohy, MU Scholz, O Koren, MJ Stampfer, DD Wang, I Shai, I Youngster_
-
-
-Previous studies have linked the Mediterranean diet (MED) with improved cardiometabolic health, showing preliminary evidence for a mediating role of the gut microbiome. We recently suggested the Green-Mediterranean (Green-MED) diet as an improved version of the healthy MED diet, with increased consumption of plant-based foods and reduced meat intake. Here, we investigated the effects of MED interventions on the gut microbiota and cardiometabolic markers, and the interplay between the two, during the initial weight loss phase of the DIRECT-PLUS trial.
-
-[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01015-z)
-
-10.1186/s13073-022-01015-z
+10.1111/1462-2920.15979
 
 ---
 
-## Analysis of the gut microbiota composition of myostatin mutant cattle prepared using CRISPR/Cas9.
- 07.03.2022, _T Wen, C Mao, L Gao_
+## Gut microbiota and allergic diseases in children
 
-
-Myostatin (MSTN) negatively regulates muscle development and positively regulates metabolism through various pathways. Although MSTN function in cattle has been widely studied, the changes in the gut microbiota due to MSTN mutation, which contribute to host health by regulating its metabolism, remain unclear. Here, high-throughput sequencing of the 16S rRNA gene was conducted to analyze the gut microbiota of wild-type (WT) and MSTN mutant (MT) cattle. A total of 925 operational taxonomic units (OTUs) were obtained, which were classified into 11 phyla and 168 genera. Alpha diversity results showed no significant differences between MT and WT cattle. Beta diversity analyses suggested that the microbial composition of WT and MT cattle was different. Three dominant phyla and 21 dominant genera were identified. The most abundant bacterial genus had a significant relationship with the host metabolism. Moreover, various bacteria beneficial for health were found in the intestines of MT cattle. Analysis of the correlation between dominant gut bacteria and serum metabolic factors affected by MSTN mutation indicated that MSTN mutation affected the metabolism mainly by three metabolism-related bacteria, Ruminococcaceae_UCG-013, Clostridium_sensu_stricto_1, and Ruminococcaceae_UCG-010. This study provides further insight into MSTN mutation regulating the host metabolism by gut microbes and provides evidence for the safety of gene-edited animals.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264849)
-
-10.1371/journal.pone.0264849
+[Source](https://www.sciencedirect.com/science/article/pii/S1323893022000120)
 
 ---
 
-## Gut microbiome modifications over time when removing in-feed antibiotics from the prophylaxis of post-weaning diarrhea in piglets.
- 10.03.2022, _P Cremonesi, F Biscarini, B Castiglioni, CA Sgoifo, R Compiani, P Moroni_
+## Gut microbiome: New biomarkers in early screening of colorectal cancer.
+ 21.03.2022, _P Zhou, D Yang, D Sun, Y Zhou_
 
 
-Post-weaning diarrhea (PWD) in pigs has mainly an infectious basis and control strategies are centred on antibiotics added to the diet. Given concerns on the spread of multi-resistant bacteria, it is necessary to develop alternative prophylactic approaches to control PWD in piglets. The most promising alternative strategies are based on substances that act indirectly on the bacteria by stimulating the immune system or by improving gut health. The aim of this study was to evaluate the effect on the gut microbiota of feed supplemented with a mixture of essential oils (garlic and oregano) in weaning piglets, compared to traditional PWD management (in-feed antibiotics) and to a control group without any diet supplementation. The study involved 197 piglets from 18 litters in a single farm. The piglets were followed from birth to day 58 of age and were weaned at day 26. During the experimental period, the animals were monitored for weight and growth, average daily gain, morbidity and mortality. For the metataxonomics analysis, rectal samples were collected from 17 piglets from the three experimental groups at 4 different time-points (days 1, 12, 26 and 58). Results revealed that the gut microbiota in pre- and post-weaning piglets was dominated by the phyla Firmicutes (51%), Bacteroidetes (25%) and Proteobacteria (16%), which together make up for over 90% of the entire piglet core gut microbiota. The core microbiota comprised 10 taxa before weaning and 43 taxa after weaning, with 7 taxa overlapping between timepoints: two of them (Prevotella 9, p-value = 0.00095; Solobacterium p-value = 0.00821) were significantly more abundant after weaning. All alpha diversity indexes were significantly different between pre- and post-weaning, while only Shannon and Simpson diversity and equitability were significantly different between treatments. Based on the matrix of Bray-Curtis dissimilarities, samples showed clear clustering per timepoint (before and after weaning, p-value &lt; 0.001) and between treatments by timepoint (p-value = 0.0086). The oil-diet group showed a consistently higher F:B ratio at all timepoints. These results show that the pig gut microbiota changes significantly with weaning, and suggest that the use of essential oils as feed supplementation to control PWD does not seem to alter sgnificantly the microbiota nor the growth parameters of piglets, however modifications of specific taxa may occur.
+Certain "star intestinal bacteria" have been found to act as a contributor to the development of colorectal cancer (CRC). Besides, given that the gut microbiome can be detected in a diverse range of samples (stool, tissue, blood, etc), it is categorized into fecal microbiome, blood microbiome, and tissue microbiome.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262199)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/jcla.24359)
 
-10.1371/journal.pone.0262199
-
----
-
-## Microbiome function predicts amphibian chytridiomycosis disease dynamics.
- 21.03.2022, _KA Bates, U Sommer, KP Hopkins, JMG Shelton, C Wierzbicki, C Sergeant, B Tapley, CJ Michaels, DS Schmeller, A Loyau, J Bosch, MR Viant, XA Harrison, TWJ Garner, MC Fisher_
-
-
-_Animals, Anura, Chytridiomycota, Microbiota, Mycoses, RNA, Ribosomal, 16S_
-The fungal pathogen Batrachochytrium dendrobatidis (Bd) threatens amphibian biodiversity and ecosystem stability worldwide. Amphibian skin microbial community structure has been linked to the clinical outcome of Bd infections, yet its overall functional importance is poorly understood.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01215-6)
-
-10.1186/s40168-021-01215-6
+10.1002/jcla.24359
 
 ---
 
-## MetaDecoder: a novel method for clustering metagenomic contigs.
- 21.03.2022, _CC Liu, SS Dong, JB Chen, C Wang, P Ning, Y Guo, TL Yang_
+## Can gut microbiota throughout the first 10 years of life predict executive functioning in childhood?
+ 22.03.2022, _HA Eckermann, Y Ou, L Lahti, C de Weerth_
 
 
-_Algorithms, Cluster Analysis, Metagenome, Metagenomics, Sequence Analysis, DNA_
-Clustering the metagenomic contigs into potential genomes is a key step to investigate the functional roles of microbial populations. Existing algorithms have achieved considerable success with simulated or real sequencing datasets. However, accurately classifying contigs from complex metagenomes is still a challenge.
+Animal models suggest that the gut microbiota can influence cognitive development and functioning via various pathways. In line with that, a first human study found associations between infant fecal microbiota composition and cognition at 2 years of age. This longitudinal study investigated whether fecal microbiota composition in infancy and childhood is associated with executive functioning in childhood. We followed healthy individuals from birth to their 10th year of life. Executive functioning was assessed using the Digit Span working memory test at 10 years of age and the ecologically valid Behavior Rating Inventory for executive functioning at 8 and 10 years. Stool samples were collected at month 1, 3 and 4 as well as at 6 and 10 years. The V4 region of the 16S ribosomal RNA was analyzed to determine microbial composition at the genus level. Using established statistical techniques for microbiota analysis, we did not find associations between fecal microbiota composition and executive functioning after accounting for breastfeeding, maternal education, child sex and age. Our study results are most compatible with the absence or only a weak relationship between infant and childhood fecal microbiota composition and executive functioning in childhood in healthy community children.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01237-8)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/dev.22226)
 
-10.1186/s40168-022-01237-8
+10.1002/dev.22226
 
 ---
 
-## Testing microbiome associations with censored survival outcomes at both the community and individual taxon levels
+## Meta-analysis of the autism gut microbiome identifies factors influencing study discrepancies and machine learning classification
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.03.11.483858v1)
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.18.484910v1.abstract)
+
+---
+
+## Changes of Intestinal Microflora in Colorectal Cancer Patients after Surgical Resection and Chemotherapy.
+ 21.03.2022, _R Huang, K He, X Duan, J Xiao, H Wang, G Xiang_
+
+
+_Aged, Antineoplastic Agents, Bacteria, Biodiversity, Colorectal Neoplasms, Combined Modality Therapy, Computational Biology, Female, Gastrointestinal Microbiome, Gene Ontology, Healthy Volunteers, Humans, Male, Middle Aged, Phylogeny, RNA, Ribosomal, 16S_
+The change of bacterial flora structure in colorectal cancer (CRC) patients after treatment is not clear. The aim of this study was to explore the change and function of intestinal microflora in CRC before and after treatment.
+
+[Source](https://www.hindawi.com/journals/cmmm/2022/1940846/)
+
+10.1155/2022/1940846
+
+---
+
+## Captivity and Animal Microbiomes: Potential Roles of Microbiota for Influencing Animal Conservation.
+ 22.03.2022, _JW Dallas, RW Warne_
+
+
+During the ongoing biodiversity crisis, captive conservation and breeding programs offer a refuge for species to persist and provide source populations for reintroduction efforts. Unfortunately, captive animals are at a higher disease risk and reintroduction efforts remain largely unsuccessful. One potential factor in these outcomes is the host microbiota which includes a large diversity and abundance of bacteria, fungi, and viruses that play an essential role in host physiology. Relative to wild populations, the generalized pattern of gut and skin microbiomes in captivity are reduced alpha diversity and they exhibit a significant shift in community composition and/or structure which often correlates with various physiological maladies. Many conditions of captivity (antibiotic exposure, altered diet composition, homogenous environment, increased stress, and altered intraspecific interactions) likely lead to changes in the host-associated microbiome. To minimize the problems arising from captivity, efforts can be taken to manipulate microbial diversity and composition to be comparable with wild populations through methods such as increasing dietary diversity, exposure to natural environmental reservoirs, or probiotics. For individuals destined for reintroduction, these strategies can prime the microbiota to buffer against novel pathogens and changes in diet and improve reintroduction success. The microbiome is a critical component of animal physiology and its role in species conservation should be expanded and included in the repertoire of future management practices.
+
+[Source](https://link.springer.com/article/10.1007/s00248-022-01991-0)
+
+10.1007/s00248-022-01991-0
+
+---
+
+## Changes in gut microbiota composition with age and correlations with gut inflammation in rats.
+ 18.03.2022, _C Meng, S Feng, Z Hao, C Dong, H Liu_
+
+
+Increasing evidences indicate that gut microbiota composition is associated with multiple inflammatory diseases. However, little is known about how gut microbiota changes with age and correlations with gut inflammation at sexual maturity stage of healthy individuals. Elucidating the dynamic changes of gut microbiota in healthy individuals at the sexual maturity stage and correlations with gut inflammation can provide clues for early risk assessment of gut diseases at the sexual maturity stage. Here, the shift in gut bacteria and its relationship with gut inflammation at the sexual maturity stage were explored. Sprague-Dawley rats at the sexual maturity stage were used in this study. 16S rRNA gene sequencing was performed to decipher gut bacteria shifts from the 7th week to the 9th week, and enzyme-linked immunosorbent assay (ELISA) was used to measure gut inflammation and gut barrier permeability. We found an increase in bacterial richness with age and a decrease in bacterial diversity with age. The gut bacteria were primarily dominated by the phyla Firmicutes and Bacteroides and the genus Prevotella. The relative abundance of Firmicutes increased with age, and the relative abundance of Bacteroides decreased with age. There was a positive correlation between body weight and the Firmicutes:Bacteroides ratio. More and more gut microbiota participated in the host gut inflammation and barrier permeability regulation with age. Ruminococcus was the only gut bacteria participated in gut inflammation and barrier permeability regulation both in the 7th week and the 15th week. These results provide a better understanding of the relationship between gut bacteria and gut inflammation in sexually mature rats and show that Ruminococcus may be a potential indicator for early risk assessment of gut inflammation.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265430)
+
+10.1371/journal.pone.0265430
+
+---
+
+## Translational multi-omics microbiome research for strategies to improve cattle production and health.
+ 21.03.2022, _Y Wang, LL Guan_
+
+
+Cattle microbiome plays a vital role in cattle growth and performance and affects many economically important traits such as feed efficiency, milk/meat yield and quality, methane emission, immunity and health. To date, most cattle microbiome research has focused on metataxonomic and metagenomic characterization to reveal who are there and what they may do, preventing the determination of the active functional dynamics in vivo and their causal relationships with the traits. Therefore, there is an urgent need to combine other advanced omics approaches to improve microbiome analysis to determine their mode of actions and host-microbiome interactions in vivo. This review will critically discuss the current multi-omics microbiome research in beef and dairy cattle, aiming to provide insights on how the information generated can be applied to future strategies to improve production efficiency, health and welfare, and environment-friendliness in cattle production through microbiome manipulations.
+
+[Source](https://portlandpress.com/emergtoplifesci/article-abstract/doi/10.1042/ETLS20210257/231061/Translational-multi-omics-microbiome-research-for)
+
+10.1042/ETLS20210257
+
+---
+
+## Multi-omics reveals host metabolism associated with the gut microbiota composition in mice with dietary ε-polylysine.
+ 22.03.2022, _X Zhang, Z Hou, X Tian, D Wu, Q Dai_
+
+
+This study aimed to assess the influence of dietary supplementation of ε-polylysine on the gut microbiota and host nutrient metabolism, which is not systematically discussed by multi-omics analysis. A total of 40 mice were randomly divided into two groups exposed to either a basal diet (AIN-76A) or a basal diet with 150 ppm ε-polylysine. Fecal samples were collected for gut bacteria identification. Liver and plasma samples were collected for metabolomic and proteomic analyses. The results showed that ε-polylysine decreased the body weight of mice and affected the presence of certain types of intestinal microorganisms. The richness of the microbiota and number of phyla increased with age. ε-Polylysine affected the presence of genera and species, and either regulated or took part in the metabolism of energy, nitrogen, amino acids, lipids, carbohydrates, glycans, cofactors, and vitamins. The metabolite profiling showed that lipid and lipid-like molecules metabolites occupied the majority percent of plasma and liver metabolites. Additionally, ε-polylysine regulated the key role of metabolites and related metabolic enzymes in the metabolic pathways, especially phospholipid metabolism. In conclusion, dietary ε-polylysine improved the immunity of growing mice, and had a greater effect on the anabolism of nutrients in adult mice.
+
+[Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D1FO04227K)
+
+10.1039/d1fo04227k
+
+---
+
+## Soil causes gut microbiota to flourish and total serum IgE levels to decrease in mice.
+ 22.03.2022, _D Zhou, N Li, F Yang, H Zhang, Z Bai, Y Dong, M Li, W Zhu, Z Fei, P Xiao, X Sun, Z Lu_
+
+
+Traditional farm environments induce protection from allergic diseases. In this study, farm environmental factors were classified into three categories, environmental microbes, soil, and organic matter. To explore the impact of soil and environmental microorganisms on gut microbiota and immune function, mice were fed sterilized soil and inhaling microbes, soil microbes, or non-sterilized soil. Metagenomic sequencing results showed the intake of sterile soil i.e. inhaling a small amount of soil microbes in the air increased gut microbial diversity and the abundance of type III secretion system (T3SS) genes, and decreased serum immune IgE levels induced by 2-4-dinitrofluorobenzene(DNFB). The intake of soil microbes increased the abundance of genes involved in the metabolism of short chain fatty acids and amino acid biosynthesis. Meanwhile, the intake of soil increased gut microbial diversity, the abundance of T3SS genes and related infectious elements, and genes associated with the metabolism of short chain fatty acids and amino acid biosynthesis, and decreased serum IgE levels. Therefore, soil may be useful as a potential "prebiotic" promoting the reproduction and growth of some intestinal microorganisms that harbor bacterial secretion system genes, especially those of T3SS, whose abundance was positively and significantly correlated with innate immune function of mice. This article is protected by copyright. All rights reserved.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15979)
+
+10.1111/1462-2920.15979
+
+---
+
+## Microbiome-metabolomics deciphers the effects of Cistanche deserticola polysaccharides on agedconstipated rats.
+ 22.03.2022, _X Liu, C Jian, M Li, F Wei, H Liu, X Qin_
+
+
+Chronic constipation is an extremely common gastrointestinal disorder that severely affects the life quality of the elderly. As an edible food and therapeutic medicine, Cistanche deserticola (CD) has been widely used not only as food in daily life, but also as a medicine to treat constipation. As the main component in CD, polysaccharide shows great potentials in improving constipation in the elderly. In this study, 16S rRNA analysis and fecal metabolomics were applied to investigate the impacts of constipation in an aged rat model, as well as the regulatory effects and the underlying mechanisms of CD polysaccharide (CDPS). Firstly, a classic constipation model of aged rats was constructed. The behavioral indicators of the rats were analyzed, providing behavioral correlations at the macro level. Meanwhile, the levels of SOD, GSH-Px, MDA, and CAT in serum samples of the rats were assessed. Additionally, the changes of gut microbiota, fecal metabolites and corresponding metabolic pathways in the aged constipated rats were demonstrated. On top of this, inter-and inner-layer networks of "behavioral indicators - intestinal bacteria - metabolites" were constructed to visually demonstrate the relationships among differential indicators. We found that CDPS significantly regulated the abnormalities of the behavioral indexes, the microbial richness and diversity, and the metabolite profiles that were induced by constipation in the aged rats. From the intestinal microbiological point of view, CDPS significantly increased the prevalence of beneficial bacteria while reducing the potentially pathogenic bacterial population. In terms of metabolomics, a total of 16 metabolites were finally identified as potential biomarkers of constipation in the aged rats. The mechanisms of CDPS were mainly involved in metabolic energy and the synthesis of amino acids. The current findings not only deepen our understanding about constipation in the elderly from the perspectives of microbiome and metabolomics, but also lay a solid foundation for the applications of polysaccharides in constipation in the elderly, the discovery of new medicines for constipation, and improving the life quality of the elderly.
+
+[Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D2FO00008C)
+
+10.1039/d2fo00008c
+
+---
+
+## Plant Virus Database: a resource for exploring the diversity of plant viruses and their interactions with hosts
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.20.485054v1.abstract)
+
+---
+
+## Identification of Microbial Flora and Isolation of Functional Strains Related to the Degradation of Domestic Waste
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.20.485016v1.abstract)
+
+---
+
+## Comprehensive characterization of the bacterial community structure and metabolite composition of food waste fermentation products via microbiome and metabolome analyses
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264234)
+
+---
+
+## MetaPop: a pipeline for macro- and microdiversity analyses and visualization of microbial and viral metagenome-derived populations
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01231-0)
+
+---
+
+## HAM-ART: An optimised culture-free Hi-C metagenomics pipeline for tracking antimicrobial resistance genes in complex microbial communities
+
+[Source](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009776)
+
+---
+
+## Vaginal microbiome-host interactions modeled in a human vagina-on-a-chip
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.20.485048v1.abstract)
+
+---
+
+## Florence tomb by Michelangelo restored with aid of bacteria
+
+[Source](https://www.theguardian.com/world/2022/mar/09/florence-tomb-by-michelangelo-restored-with-aid-of-bacteria)
 
 ---
 
