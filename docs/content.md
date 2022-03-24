@@ -11,7 +11,7 @@ Microbial communities are composed of cells of varying metabolic capacity, and r
 ---
 
 ## Skin microbiota diversity among genetically unrelated individuals of Indian origin.
- 22.03.2022, _R Potbhare, A RaviKumar, E Munukka, L Lahti, R Ashma_
+ 23.03.2022, _R Potbhare, A RaviKumar, E Munukka, L Lahti, R Ashma_
 
 
 Human skin harbors complex transient and resident microbial communities that show intra- &amp; inter-individual variation due to various environmental and host-associated factors such as skin site, diet, age, gender, genetics, or the type and use of cosmetics. This variation remains largely uncharacterized in the Indian population; hence, the present study aims to characterize the variation in skin microbiota among individuals of Indian origin and quantify associations with age, diet, and geography.
