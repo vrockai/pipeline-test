@@ -59,39 +59,75 @@ The link between the gut microbiota and social behavior has been demonstrated, h
 
 ---
 
-## Spatial organization of the kelp microbiome at micron scales
+## Spatial organization of the kelp microbiome at micron scales.
+ 25.03.2022, _ST Ramírez-Puebla, BL Weigel, L Jack, C Schlundt, CA Pfister, JL Mark Welch_
+
+
+Elucidating the spatial structure of host-associated microbial communities is essential for understanding taxon-taxon interactions within the microbiota and between microbiota and host. Macroalgae are colonized by complex microbial communities, suggesting intimate symbioses that likely play key roles in both macroalgal and bacterial biology, yet little is known about the spatial organization of microbes associated with macroalgae. Canopy-forming kelp are ecologically significant, fixing teragrams of carbon per year in coastal kelp forest ecosystems. We characterized the micron-scale spatial organization of bacterial communities on blades of the kelp Nereocystis luetkeana using fluorescence in situ hybridization and spectral imaging with a probe set combining phylum-, class-, and genus-level probes to localize and identify &gt; 90% of the microbial community.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01235-w)
 
+10.1186/s40168-022-01235-w
+
 ---
 
-## Metagenomics reveals global-scale contrasts in nitrogen cycling and cyanobacterial light-harvesting mechanisms in glacier cryoconite 
+## Metagenomics reveals global-scale contrasts in nitrogen cycling and cyanobacterial light-harvesting mechanisms in glacier cryoconite.
+ 23.03.2022, _T Murakami, N Takeuchi, H Mori, Y Hirose, A Edwards, T Irvine-Fynn, Z Li, S Ishii, T Segawa_
+
+
+Cryoconite granules are mineral-microbial aggregates found on glacier surfaces worldwide and are hotspots of biogeochemical reactions in glacier ecosystems. However, despite their importance within glacier ecosystems, the geographical diversity of taxonomic assemblages and metabolic potential of cryoconite communities around the globe remain unclear. In particular, the genomic content of cryoconite communities on Asia's high mountain glaciers, which represent a substantial portion of Earth's ice masses, has rarely been reported. Therefore, in this study, to elucidate the taxonomic and ecological diversities of cryoconite bacterial consortia on a global scale, we conducted shotgun metagenomic sequencing of cryoconite acquired from a range of geographical areas comprising Polar (Arctic and Antarctic) and Asian alpine regions.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01238-7)
 
+10.1186/s40168-022-01238-7
+
 ---
 
-## Phages and their satellites encode hotspots of antiviral systems
+## Phages and their satellites encode hotspots of antiviral systems.
+ 22.03.2022, _F Rousset, F Depardieu, S Miele, J Dowding, AL Laval, E Lieberman, D Garry, EPC Rocha, A Bernheim, D Bikard_
+
+
+Bacteria carry diverse genetic systems to defend against viral infection, some of which are found within prophages where they inhibit competing viruses. Phage satellites pose additional pressures on phages by hijacking key viral elements to their own benefit. Here, we show that E. coli P2-like phages and their parasitic P4-like satellites carry hotspots of genetic variation containing reservoirs of anti-phage systems. We validate the activity of diverse systems and describe PARIS, an abortive infection system triggered by a phage-encoded anti-restriction protein. Antiviral hotspots participate in inter-viral competition and shape dynamics between the bacterial host, P2-like phages, and P4-like satellites. Notably, the anti-phage activity of satellites can benefit the helper phage during competition with virulent phages, turning a parasitic relationship into a mutualistic one. Anti-phage hotspots are present across distant species and constitute a substantial source of systems that participate in the competition between mobile genetic elements.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00104-4)
 
+10.1016/j.chom.2022.02.018
+
 ---
 
-## Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity
+## Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity.
+ 22.03.2022, _DD Li, CV Jawale, C Zhou, L Lin, GJ Trevejo-Nunez, SA Rahman, SJ Mullet, J Das, SG Wendell, GM Delgoffe, MS Lionakis, SL Gaffen, PS Biswas_
+
+
+Combating fungal pathogens poses metabolic challenges for neutrophils, key innate cells in anti-Candida albicans immunity, yet how host-pathogen interactions cause remodeling of the neutrophil metabolism is unclear. We show that neutrophils mediate renal immunity to disseminated candidiasis by upregulating glucose uptake via selective expression of glucose transporter 1 (Glut1). Mechanistically, dectin-1-mediated recognition of β-glucan leads to activation of PKCδ, which triggers phosphorylation, localization, and early glucose transport by a pool of pre-formed Glut1 in neutrophils. These events are followed by increased Glut1 gene transcription, leading to more sustained Glut1 accumulation, which is also dependent on the β-glucan/dectin-1/CARD9 axis. Card9-deficient neutrophils show diminished glucose incorporation in candidiasis. Neutrophil-specific Glut1-ablated mice exhibit increased mortality in candidiasis caused by compromised neutrophil phagocytosis, reactive oxygen species (ROS), and neutrophil extracellular trap (NET) formation. In human neutrophils, β-glucan triggers metabolic remodeling and enhances candidacidal function. Our data show that the host-pathogen interface increases glycolytic activity in neutrophils by regulating Glut1 expression, localization, and function.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00103-2)
 
+10.1016/j.chom.2022.02.017
+
 ---
 
-## The primate gut mycobiome-bacteriome interface is impacted by environmental and subsistence factors
+## The primate gut mycobiome-bacteriome interface is impacted by environmental and subsistence factors.
+ 18.03.2022, _AK Sharma, S Davison, B Pafco, JB Clayton, JM Rothman, MR McLennan, M Cibot, T Fuh, R Vodicka, CJ Robinson, K Petrzelkova, A Gomez_
+
+
+The gut microbiome of primates is known to be influenced by both host genetic background and subsistence strategy. However, these inferences have been made mainly based on adaptations in bacterial composition - the bacteriome and have commonly overlooked the fungal fraction - the mycobiome. To further understand the factors that shape the gut mycobiome of primates and mycobiome-bacteriome interactions, we sequenced 16 S rRNA and ITS2 markers in fecal samples of four different nonhuman primate species and three human groups under different subsistence patterns (n = 149). The results show that gut mycobiome composition in primates is still largely unknown but highly plastic and weakly structured by primate phylogeny, compared with the bacteriome. We find significant gut mycobiome overlap between captive apes and human populations living under industrialized subsistence contexts; this is in contrast with contemporary hunter-gatherers and agriculturalists, who share more mycobiome traits with diverse wild-ranging nonhuman primates. In addition, mycobiome-bacteriome interactions were specific to each population, revealing that individual, lifestyle and intrinsic ecological factors affect structural correspondence, number, and kind of interactions between gut bacteria and fungi in primates. Our findings indicate a dominant effect of ecological niche, environmental factors, and diet over the phylogenetic background of the host, in shaping gut mycobiome composition and mycobiome-bacteriome interactions in primates.
 
 [Source](https://www.nature.com/articles/s41522-022-00274-3)
 
+10.1038/s41522-022-00274-3
+
 ---
 
-## Swapping Metagenomics Preprocessing Pipeline Components Offers Speed and Sensitivity Increases
+## Swapping Metagenomics Preprocessing Pipeline Components Offers Speed and Sensitivity Increases.
+ 16.03.2022, _G Armstrong, C Martino, J Morris, B Khaleghi, J Kang, J DeReus, Q Zhu, D Roush, D McDonald, A Gonazlez, JP Shaffer, C Carpenter, M Estaki, S Wandro, S Eilert, A Akel, J Eno, K Curewitz, AD Swafford, N Moshiri, T Rosing, R Knight_
+
+
+Increasing data volumes on high-throughput sequencing instruments such as the NovaSeq 6000 leads to long computational bottlenecks for common metagenomics data preprocessing tasks such as adaptor and primer trimming and host removal. Here, we test whether faster recently developed computational tools (Fastp and Minimap2) can replace widely used choices (Atropos and Bowtie2), obtaining dramatic accelerations with additional sensitivity and minimal loss of specificity for these tasks. Furthermore, the taxonomic tables resulting from downstream processing provide biologically comparable results. However, we demonstrate that for taxonomic assignment, Bowtie2's specificity is still required. We suggest that periodic reevaluation of pipeline components, together with improvements to standardized APIs to chain them together, will greatly enhance the efficiency of common bioinformatics tasks while also facilitating incorporation of further optimized steps running on GPUs, FPGAs, or other architectures. We also note that a detailed exploration of available algorithms and pipeline components is an important step that should be taken before optimization of less efficient algorithms on advanced or nonstandard hardware. IMPORTANCE In shotgun metagenomics studies that seek to relate changes in microbial DNA across samples, processing the data on a computer often takes longer than obtaining the data from the sequencing instrument. Recently developed software packages that perform individual steps in the pipeline of data processing in principle offer speed advantages, but in practice they may contain pitfalls that prevent their use, for example, they may make approximations that introduce unacceptable errors in the data. Here, we show that differences in choices of these components can speed up overall data processing by 5-fold or more on the same hardware while maintaining a high degree of correctness, greatly reducing the time taken to interpret results. This is an important step for using the data in clinical settings, where the time taken to obtain the results may be critical for guiding treatment.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.01378-21)
+
+10.1128/msystems.01378-21
 
 ---
 
