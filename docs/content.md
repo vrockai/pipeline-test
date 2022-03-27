@@ -72,7 +72,7 @@ Elucidating the spatial structure of host-associated microbial communities is es
 ---
 
 ## Metagenomics reveals global-scale contrasts in nitrogen cycling and cyanobacterial light-harvesting mechanisms in glacier cryoconite.
- 23.03.2022, _T Murakami, N Takeuchi, H Mori, Y Hirose, A Edwards, T Irvine-Fynn, Z Li, S Ishii, T Segawa_
+ 26.03.2022, _T Murakami, N Takeuchi, H Mori, Y Hirose, A Edwards, T Irvine-Fynn, Z Li, S Ishii, T Segawa_
 
 
 Cryoconite granules are mineral-microbial aggregates found on glacier surfaces worldwide and are hotspots of biogeochemical reactions in glacier ecosystems. However, despite their importance within glacier ecosystems, the geographical diversity of taxonomic assemblages and metabolic potential of cryoconite communities around the globe remain unclear. In particular, the genomic content of cryoconite communities on Asia's high mountain glaciers, which represent a substantial portion of Earth's ice masses, has rarely been reported. Therefore, in this study, to elucidate the taxonomic and ecological diversities of cryoconite bacterial consortia on a global scale, we conducted shotgun metagenomic sequencing of cryoconite acquired from a range of geographical areas comprising Polar (Arctic and Antarctic) and Asian alpine regions.
