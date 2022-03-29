@@ -60,7 +60,7 @@ The link between the gut microbiota and social behavior has been demonstrated, h
 ---
 
 ## Spatial organization of the kelp microbiome at micron scales.
- 25.03.2022, _ST Ramírez-Puebla, BL Weigel, L Jack, C Schlundt, CA Pfister, JL Mark Welch_
+ 28.03.2022, _ST Ramírez-Puebla, BL Weigel, L Jack, C Schlundt, CA Pfister, JL Mark Welch_
 
 
 Elucidating the spatial structure of host-associated microbial communities is essential for understanding taxon-taxon interactions within the microbiota and between microbiota and host. Macroalgae are colonized by complex microbial communities, suggesting intimate symbioses that likely play key roles in both macroalgal and bacterial biology, yet little is known about the spatial organization of microbes associated with macroalgae. Canopy-forming kelp are ecologically significant, fixing teragrams of carbon per year in coastal kelp forest ecosystems. We characterized the micron-scale spatial organization of bacterial communities on blades of the kelp Nereocystis luetkeana using fluorescence in situ hybridization and spectral imaging with a probe set combining phylum-, class-, and genus-level probes to localize and identify &gt; 90% of the microbial community.
