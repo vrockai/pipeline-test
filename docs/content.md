@@ -60,7 +60,7 @@ The link between the gut microbiota and social behavior has been demonstrated, h
 ---
 
 ## Spatial organization of the kelp microbiome at micron scales.
- 28.03.2022, _ST Ramírez-Puebla, BL Weigel, L Jack, C Schlundt, CA Pfister, JL Mark Welch_
+ 29.03.2022, _ST Ramírez-Puebla, BL Weigel, L Jack, C Schlundt, CA Pfister, JL Mark Welch_
 
 
 Elucidating the spatial structure of host-associated microbial communities is essential for understanding taxon-taxon interactions within the microbiota and between microbiota and host. Macroalgae are colonized by complex microbial communities, suggesting intimate symbioses that likely play key roles in both macroalgal and bacterial biology, yet little is known about the spatial organization of microbes associated with macroalgae. Canopy-forming kelp are ecologically significant, fixing teragrams of carbon per year in coastal kelp forest ecosystems. We characterized the micron-scale spatial organization of bacterial communities on blades of the kelp Nereocystis luetkeana using fluorescence in situ hybridization and spectral imaging with a probe set combining phylum-, class-, and genus-level probes to localize and identify &gt; 90% of the microbial community.
@@ -72,7 +72,7 @@ Elucidating the spatial structure of host-associated microbial communities is es
 ---
 
 ## Metagenomics reveals global-scale contrasts in nitrogen cycling and cyanobacterial light-harvesting mechanisms in glacier cryoconite.
- 26.03.2022, _T Murakami, N Takeuchi, H Mori, Y Hirose, A Edwards, T Irvine-Fynn, Z Li, S Ishii, T Segawa_
+ 29.03.2022, _T Murakami, N Takeuchi, H Mori, Y Hirose, A Edwards, T Irvine-Fynn, Z Li, S Ishii, T Segawa_
 
 
 Cryoconite granules are mineral-microbial aggregates found on glacier surfaces worldwide and are hotspots of biogeochemical reactions in glacier ecosystems. However, despite their importance within glacier ecosystems, the geographical diversity of taxonomic assemblages and metabolic potential of cryoconite communities around the globe remain unclear. In particular, the genomic content of cryoconite communities on Asia's high mountain glaciers, which represent a substantial portion of Earth's ice masses, has rarely been reported. Therefore, in this study, to elucidate the taxonomic and ecological diversities of cryoconite bacterial consortia on a global scale, we conducted shotgun metagenomic sequencing of cryoconite acquired from a range of geographical areas comprising Polar (Arctic and Antarctic) and Asian alpine regions.
@@ -95,9 +95,15 @@ Bacteria carry diverse genetic systems to defend against viral infection, some o
 
 ---
 
-## Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity
+## Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity.
+ 22.03.2022, _DD Li, CV Jawale, C Zhou, L Lin, GJ Trevejo-Nunez, SA Rahman, SJ Mullet, J Das, SG Wendell, GM Delgoffe, MS Lionakis, SL Gaffen, PS Biswas_
+
+
+Combating fungal pathogens poses metabolic challenges for neutrophils, key innate cells in anti-Candida albicans immunity, yet how host-pathogen interactions cause remodeling of the neutrophil metabolism is unclear. We show that neutrophils mediate renal immunity to disseminated candidiasis by upregulating glucose uptake via selective expression of glucose transporter 1 (Glut1). Mechanistically, dectin-1-mediated recognition of β-glucan leads to activation of PKCδ, which triggers phosphorylation, localization, and early glucose transport by a pool of pre-formed Glut1 in neutrophils. These events are followed by increased Glut1 gene transcription, leading to more sustained Glut1 accumulation, which is also dependent on the β-glucan/dectin-1/CARD9 axis. Card9-deficient neutrophils show diminished glucose incorporation in candidiasis. Neutrophil-specific Glut1-ablated mice exhibit increased mortality in candidiasis caused by compromised neutrophil phagocytosis, reactive oxygen species (ROS), and neutrophil extracellular trap (NET) formation. In human neutrophils, β-glucan triggers metabolic remodeling and enhances candidacidal function. Our data show that the host-pathogen interface increases glycolytic activity in neutrophils by regulating Glut1 expression, localization, and function.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00103-2)
+
+10.1016/j.chom.2022.02.017
 
 ---
 
