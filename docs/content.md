@@ -1,61 +1,204 @@
-## In Vitro and In Silico Based Approaches to Identify Potential Novel Bacteriocins from the Athlete Gut Microbiome of an Elite Athlete Cohort
-
-[Source](https://www.mdpi.com/2076-2607/10/4/701)
-
----
-
-## Cancer pharmacomicrobiomics: targeting microbiota to optimise cancer therapy outcomes.
- 12.03.2022, _NL Ting, HC Lau, J Yu_
+## Glycan processing in gut microbiomes.
+ 29.03.2022, _SL La Rosa, MP Ostrowski, A Vera-Ponce de León, LS McKee, J Larsbrink, VG Eijsink, EC Lowe, EC Martens, PB Pope_
 
 
-Despite the promising advances in novel cancer therapy such as immune checkpoint inhibitors (ICIs), limitations including therapeutic resistance and toxicity remain. In recent years, the relationship between gut microbiota and cancer has been extensively studied. Accumulating evidence reveals the role of microbiota in defining cancer therapeutic efficacy and toxicity. Unlike host genetics, microbiota can be easily modified via multiple strategies, including faecal microbiota transplantation (FMT), probiotics and antibiotics. Preclinical studies have identified the mechanisms on how microbes influence cancer treatment outcomes. Clinical trials have also demonstrated the potential of microbiota modulation in cancer treatments. Herein, we review the mechanistic insights of gut microbial interactions with chemotherapy and ICIs, particularly focusing on the interplay between gut bacteria and the pharmacokinetics (eg, metabolism, enzymatic degradation) or pharmacodynamics (eg, immunomodulation) of cancer treatment. The translational potential of basic findings in clinical settings is then explored, including using microbes as predictive biomarkers and microbial modulation by antibiotics, probiotics, prebiotics, dietary modulations and FMT. We further discuss the current limitations of gut microbiota modulation in patients with cancer and suggest essential directions for future study. In the era of personalised medicine, it is crucial to understand the microbiota and its interactions with cancer. Manipulating the gut microbiota to augment cancer therapeutic responses can provide new insights into cancer treatment.
+Microbiomes and their enzymes process many of the nutrients accessible in the gastrointestinal tract of bilaterians and play an essential role in host health and nutrition. In this review, we describe recent insights into nutrient processing in microbiomes across three exemplary yet contrasting gastrointestinal ecosystems (humans, ruminants and insects), with focus on bacterial mechanisms for the utilization of common and atypical dietary glycans as well as host-derived mucus glycans. In parallel, we discuss findings from multi-omic studies that have provided new perspectives on understanding glycan-dependent interactions and the complex food-webs of microbial populations in their natural habitat. Using key examples, we emphasize how increasing understanding of glycan processing by gut microbiomes can provide critical insights to assist 'microbiome reprogramming', a growing field that seeks to leverage diet to improve animal growth and host health.
 
-[Source](https://gut.bmj.com/content/early/2022/03/10/gutjnl-2021-326264)
+[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000200)
 
-10.1136/gutjnl-2021-326264
+10.1016/j.mib.2022.102143
 
 ---
 
-## Inhibition of lung microbiota-derived proapoptotic peptides ameliorates acute exacerbation of pulmonary fibrosis.
- 24.03.2022, _CN D'Alessandro-Gabazza, T Yasuma, T Kobayashi, M Toda, AM Abdel-Hamid, H Fujimoto, O Hataji, H Nakahara, A Takeshita, K Nishihama, T Okano, H Saiki, Y Okano, A Tomaru, V Fridman D'Alessandro, M Shiraishi, A Mizoguchi, R Ono, J Ohtsuka, M Fukumura, T Nosaka, X Mi, D Shukla, K Kataoka, Y Kondoh, M Hirose, T Arai, Y Inoue, Y Yano, RI Mackie, I Cann, EC Gabazza_
+## The Oral-Microbiome-Brain Axis and Neuropsychiatric Disorders: An Anthropological Perspective
 
-
-Idiopathic pulmonary fibrosis is an incurable disease of unknown etiology. Acute exacerbation of idiopathic pulmonary fibrosis is associated with high mortality. Excessive apoptosis of lung epithelial cells occurs in pulmonary fibrosis acute exacerbation. We recently identified corisin, a proapoptotic peptide that triggers acute exacerbation of pulmonary fibrosis. Here, we provide insights into the mechanism underlying the processing and release of corisin. Furthermore, we demonstrate that an anticorisin monoclonal antibody ameliorates lung fibrosis by significantly inhibiting acute exacerbation in the human transforming growth factorβ1 model and acute lung injury in the bleomycin model. By investigating the impact of the anticorisin monoclonal antibody in a general model of acute lung injury, we further unravel the potential of corisin to impact such diseases. These results underscore the role of corisin in the pathogenesis of acute exacerbation of pulmonary fibrosis and acute lung injury and provide a novel approach to treating this incurable disease.
-
-[Source](https://www.nature.com/articles/s41467-022-29064-3)
-
-10.1038/s41467-022-29064-3
+[Source](https://www.frontiersin.org/articles/10.3389/fpsyt.2022.810008/full)
 
 ---
 
-## Gut microbiota and fermentation-derived branched chain hydroxy acids mediate health benefits of yogurt consumption in obese mice.
- 16.03.2022, _N Daniel, RT Nachbar, TTT Tran, A Ouellette, TV Varin, A Cotillard, L Quinquis, A Gagné, P St-Pierre, J Trottier, B Marcotte, M Poirel, M Saccareau, MJ Dubois, P Joubert, O Barbier, H Koutnikova, A Marette_
+## Microbial and molecular differences according to the location of head and neck cancers
 
-
-Meta-analyses suggest that yogurt consumption reduces type 2 diabetes incidence in humans, but the molecular basis of these observations remains unknown. Here we show that dietary yogurt intake preserves whole-body glucose homeostasis and prevents hepatic insulin resistance and liver steatosis in a dietary mouse model of obesity-linked type 2 diabetes. Fecal microbiota transplantation studies reveal that these effects are partly linked to the gut microbiota. We further show that yogurt intake impacts the hepatic metabolome, notably maintaining the levels of branched chain hydroxy acids (BCHA) which correlate with improved metabolic parameters. These metabolites are generated upon milk fermentation and concentrated in yogurt. Remarkably, diet-induced obesity reduces plasma and tissue BCHA levels, and this is partly prevented by dietary yogurt intake. We further show that BCHA improve insulin action on glucose metabolism in liver and muscle cells, identifying BCHA as cell-autonomous metabolic regulators and potential mediators of yogurt's health effects.
-
-[Source](https://www.nature.com/articles/s41467-022-29005-0)
-
-10.1038/s41467-022-29005-0
+[Source](https://cancerci.biomedcentral.com/articles/10.1186/s12935-022-02554-6)
 
 ---
 
-## Gut microbiota determines the social behavior of mice and induces metabolic and inflammatory changes in their adipose tissue.
- 22.09.2021, _O Agranyoni, S Meninger-Mordechay, A Uzan, O Ziv, M Salmon-Divon, D Rodin, O Raz, I Koman, O Koren, A Pinhasov, S Navon-Venezia_
+## Microbial differences between active and remission peri-implantitis
 
-
-_Adipose Tissue, Animals, Bacteria, Behavior, Animal, Body Weight, Depression, Fecal Microbiota Transplantation, Female, Gastrointestinal Microbiome, Germ-Free Life, Male, Mice, Phylogeny, RNA, Ribosomal, 16S, Sequence Analysis, RNA, Social Behavior_
-The link between the gut microbiota and social behavior has been demonstrated, however the translational impact of a certain microbiota composition on stable behavioral patterns is yet to be elucidated. Here we employed an established social behavior mouse model of dominance (Dom) or submissiveness (Sub). A comprehensive 16S rRNA gene sequence analysis of Dom and Sub mice revealed a significantly different gut microbiota composition that clearly distinguishes between the two behavioral modes. Sub mice gut microbiota is significantly less diverse than that of Dom mice, and their taxa composition uniquely comprised the genera Mycoplasma and Anaeroplasma of the Tenericutes phylum, in addition to the Rikenellaceae and Clostridiaceae families. Conversely, the gut microbiota of Dom mice includes the genus Prevotella of the Bacteriodetes phylum, significantly less abundant in Sub mice. In addition, Sub mice show lower body weight from the age of 2 weeks and throughout their life span, accompanied with lower epididymis white adipose tissue (eWAT) mass and smaller adipocytes together with substantially elevated expression of inflammation and metabolic-related eWAT adipokines. Finally, fecal microbiota transplantation into germ-free mice show that Sub-transplanted mice acquired Sub microbiota and adopted their behavioral and physiological features, including depressive-like and anti-social behaviors alongside reduced eWAT mass, smaller adipocytes, and a Sub-like eWAT adipokine profile. Our findings demonstrate the critical role of the gut microbiome in determining dominance vs. submissiveness and suggest an association between gut microbiota, the eWAT metabolic and inflammatory profile, and the social behavior mode.
-
-[Source](https://www.nature.com/articles/s41522-021-00193-9)
-
-10.1038/s41522-021-00193-9
+[Source](https://www.nature.com/articles/s41598-022-09192-y)
 
 ---
 
-## The microbiota restrains neurodegenerative microglia in a model of amyotrophic lateral sclerosis
+## Dynamics of the normal gut microbiota: A longitudinal one-year population study in Sweden
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01232-z)
+[Source](https://www.sciencedirect.com/science/article/pii/S1931312822001317)
+
+---
+
+## Microbiota-microglia connections in age-related cognition decline
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/acel.13599)
+
+---
+
+## Patients with psoriasis have a dysbiotic taxonomic and functional gut microbiota
+
+[Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.21245)
+
+---
+
+## Distinct Colon Mucosa Microbiomes associated with Tubular Adenomas and Serrated Polyps – Avelar-Barragan
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.07.20.453135v2.abstract)
+
+---
+
+## Early prediction of incident liver disease using conventional risk factors and gut-microbiome-augmented gradient boosting
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1550413122000900)
+
+---
+
+## Insights from shotgun metagenomics into bacterial species and metabolic pathways associated with NAFLD in obese youth
+
+[Source](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep4.1944)
+
+---
+
+## Dietary Patterns and Gut Microbiota: the Crucial Actors in Inflammatory Bowel Disease
+
+[Source](https://academic.oup.com/advances/advance-article/doi/10.1093/advances/nmac029/6555023)
+
+---
+
+## A Guide to Dietary Pattern–Microbiome Data Integration
+
+[Source](https://academic.oup.com/jn/advance-article/doi/10.1093/jn/nxac033/6554377)
+
+---
+
+## Functional Significance of Different Milk Constituents in Modulating the Gut Microbiome and Infant Health
+
+[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.2c00335)
+
+---
+
+## The gut microbiome as mediator between diet and its impact on immune function
+
+[Source](https://www.nature.com/articles/s41598-022-08544-y)
+
+---
+
+## Differences in the intestinal microbiome associated with diarrhea during lenvatinib treatment for hepatocellular carcinoma
+
+[Source](https://www.karger.com/Article/Abstract/524298)
+
+---
+
+## 16S rDNA sequencing analyzes differences in intestinal flora of human immunodeficiency virus (HIV) patients and association with immune activation
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/21655979.2021.2019174)
+
+---
+
+## Profile of Gut Microbiota of Adults with Diabetes Mellitus Type 1: A Systematic Review
+
+[Source](https://www.eurekaselect.com/article/121948)
+
+---
+
+## Association between systemic lupus erythematosus and disruption of gut microbiota: a meta-analysis.
+ 29.03.2022, _S Xiang, Y Qu, S Qian, R Wang, Y Wang, Y Jin, J Li, X Ding_
+
+
+Recent studies reported that SLE is characterised by altered interactions between the microbiome and immune system. We performed a meta-analysis of publications on this topic.
+
+[Source](https://lupus.bmj.com/content/9/1/e000599)
+
+10.1136/lupus-2021-000599
+
+---
+
+## The Bridge Between Ischemic Stroke and Gut Microbes: Short-Chain Fatty Acids
+
+[Source](https://link.springer.com/article/10.1007/s10571-022-01209-4)
+
+---
+
+## Prophylactic effects of hyperforin on anhedonia-like phenotype in chronic restrain stress model: A role of gut microbiota.
+ 29.03.2022, _Z Zhang, C Yao, M Li, LC Wang, W Huang, QJ Chen_
+
+
+Anhedonia is the core symptom of depression, which largely reflects the therapeutic effect of depression. Hypericum perforatum is one of the most important antidepressant herb that has fewer side effects than traditional antidepressants. Considering the antibacterial effect of Hypericum perforatum, we verified whether this antidepressant activity was related to intestinal microbiomics. So we established anhedonia mouse model to explore the underlying treatment mechanism of hyperforin, the key antidepressant ingredient of Hypericum perforatum and to screen new psychobiotics based on hyperforin. It was found that hyperforin prevented anhedonia induced by chronic restraint stress in mice, and altered the richness and evenness of bacteria populations compared to stressed mice. Metastat analysis showed that Akkermansia muciniphila and Muribaculum intestinale were the bacterial species obviously affected by hyperforin, and their abundance in hyperforin treated group significantly increased. The results suggest that the effect of hyperforin on anhedonia may be partly assisted by Akkermansia muciniphila. These also indicate that Muribaculum intestinale may be another important intestinal bacteria involved in the pathogenesis of anhedonia symptom and depression.
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/lam.13710)
+
+10.1111/lam.13710
+
+---
+
+## Metabolome and microbiome multi-omics integration from a murine lung inflammation model of bronchopulmonary dysplasia.
+ 26.03.2022, _A El Saie, C Fu, SL Grimm, MJ Robertson, K Hoffman, V Putluri, CSR Ambati, N Putluri, B Shivanna, C Coarfa, M Pammi_
+
+
+Respiratory tract microbial dysbiosis can exacerbate inflammation and conversely inflammation may cause dysbiosis. Dysbiotic microbiome metabolites may lead to bronchopulmonary dysplasia (BPD). Hyperoxia and lipopolysaccharide (LPS) interaction alters lung microbiome and metabolome, mediating BPD lung injury sequence.
+
+[Source](https://www.nature.com/articles/s41390-022-02002-1)
+
+10.1038/s41390-022-02002-1
+
+---
+
+## Microbiome applications for laying hen performance and egg production.
+ 29.03.2022, _SC Ricke, DK Dittoe, EG Olson_
+
+
+Management of laying hens has undergone considerable changes in the commercial egg industry. Shifting commercial production from cage-based systems to cage-free has impacted the housing environment and created issues not previously encountered. Sources of microorganisms that become established in the early stages of layer chick development may originate from the hen and depend on the microbial ecology of the reproductive tract. Development of the layer hen GIT microbiota appears to occur in stages as the bird matures. Several factors can impact the development of the layer hen GIT, including pathogens, environment, and feed additives such as antibiotics. In this review, the current status of the laying hen GIT microbial consortia and factors that impact the development and function of these respective microbial populations will be discussed, as well as future research directions.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S003257912200092X)
+
+10.1016/j.psj.2022.101784
+
+---
+
+## The connection between the gut mycobiome community of natural black soldier fly populations and their environment
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.28.486161v1.abstract)
+
+---
+
+## Inhibitory Bacterial Diversity and Mucosome Function Differentiate Susceptibility of Appalachian Salamanders to Chytrid Fungal Infection.
+ 29.03.2022, _RR Jiménez, A Carfagno, L Linhoff, B Gratwicke, DC Woodhams, LS Chafran, MC Bletz, B Bishop, CR Muletz-Wolz_
+
+
+Mucosal defenses are crucial in animals for protection against pathogens and predators. Host defense peptides (antimicrobial peptides, AMPs) as well as skin-associated microbes are key components of mucosal immunity, particularly in amphibians. We integrate microbiology, molecular biology, network-thinking, and proteomics to understand how host and microbially derived products on amphibian skin (referred to as the mucosome) serve as pathogen defenses. We studied defense mechanisms against chytrid pathogens, Batrachochytrium dendrobatidis (Bd) and B. salamandrivorans (Bsal), in four salamander species with different Batrachochytrium susceptibilities. Bd infection was quantified using qPCR, mucosome function (i.e., ability to kill Bd or Bsal zoospores in vitro), skin bacterial communities using 16S rRNA gene amplicon sequencing, and the role of Bd-inhibitory bacteria in microbial networks across all species. We explored the presence of candidate-AMPs in eastern newts and red-backed salamanders. Eastern newts had the highest Bd prevalence and mucosome function, while red-back salamanders had the lowest Bd prevalence and mucosome function, and two-lined salamanders and seal salamanders were intermediates. Salamanders with highest Bd infection intensity showed greater mucosome function. Bd infection prevalence significantly decreased as putative Bd-inhibitory bacterial richness and relative abundance increased on hosts. In co-occurrence networks, some putative Bd-inhibitory bacteria were found as hub-taxa, with red-backs having the highest proportion of protective hubs and positive associations related to putative Bd-inhibitory hub bacteria. We found more AMP candidates on salamanders with lower Bd susceptibility. These findings suggest that salamanders possess distinct innate mechanisms that affect chytrid fungi. IMPORTANCE How host mucosal defenses interact, and influence disease outcome is critical in understanding host defenses against pathogens. A more detailed understanding is needed of the interactions between the host and the functioning of its mucosal defenses in pathogen defense. This study investigates the variability of chytrid susceptibility in salamanders and the innate defenses each species possesses to mediate pathogens, thus advancing the knowledge toward a deeper understanding of the microbial ecology of skin-associated bacteria and contributing to the development of bioaugmentation strategies to mediate pathogen infection and disease. This study improves the understanding of complex immune defense mechanisms in salamanders and highlights the potential role of the mucosome to reduce the probability of Bd disease development and that putative protective bacteria may reduce likelihood of Bd infecting skin.
+
+[Source](https://journals.asm.org/doi/10.1128/aem.01818-21)
+
+10.1128/aem.01818-21
+
+---
+
+## Composition and short-term stability of gut microbiota in lean and spontaneously overweight healthy Labrador retriever dogs.
+ 29.03.2022, _J Söder, S Wernersson, K Höglund, R Hagman, S Lindåse, J Dicksved_
+
+
+The gut microbiota and its metabolic end-products act in close collaboration with the nutrient metabolism of the animal. A relationship between excess adiposity and alterations in gut microbiota composition has been identified in humans and rodents, but data are scarce for overweight dogs. This study compared composition and temporal variations of gut microbiota in healthy lean and spontaneously overweight dogs. The analysis was based on three individual fresh faeces samples from each dog during a 10-day period. Twenty-seven healthy and intact male Labrador retriever dogs were included, 12 of which were classified as lean (body condition score (BCS) 4-5 on a 9-point scale) and 15 as overweight (BCS 6-8). Gut microbiota was analysed by Illumina sequencing of the V3-V4 region of the 16S rRNA gene.
+
+[Source](https://actavetscand.biomedcentral.com/articles/10.1186/s13028-022-00628-z)
+
+10.1186/s13028-022-00628-z
+
+---
+
+## Alterations in common marmoset gut microbiome associated with duodenal strictures.
+ 29.03.2022, _A Sheh, SC Artim, MA Burns, JA Molina-Mora, MA Lee, J Dzink-Fox, S Muthupalani, JG Fox_
+
+
+Chronic gastrointestinal (GI) diseases are the most common diseases in captive common marmosets (Callithrix jacchus). Despite standardized housing, diet and husbandry, a recently described gastrointestinal syndrome characterized by duodenal ulcers and strictures was observed in a subset of marmosets sourced from the New England Primate Research Center. As changes in the gut microbiome have been associated with GI diseases, the gut microbiome of 52 healthy, non-stricture marmosets (153 samples) were compared to the gut microbiome of 21 captive marmosets diagnosed with a duodenal ulcer/stricture (57 samples). No significant changes were observed using alpha diversity metrics, and while the community structure was significantly different when comparing beta diversity between healthy and stricture cases, the results were inconclusive due to differences observed in the dispersion of both datasets. Differences in the abundance of individual taxa using ANCOM, as stricture-associated dysbiosis was characterized by Anaerobiospirillum loss and Clostridium perfringens increases. To identify microbial and serum biomarkers that could help classify stricture cases, we developed models using machine learning algorithms (random forest, classification and regression trees, support vector machines and k-nearest neighbors) to classify microbiome, serum chemistry or complete blood count (CBC) data. Random forest (RF) models were the most accurate models and correctly classified strictures using either 9 ASVs (amplicon sequence variants), 4 serum chemistry tests or 6 CBC tests. Based on the RF model and ANCOM results, C. perfringens was identified as a potential causative agent associated with the development of strictures. Clostridium perfringens was also isolated by microbiological culture in 4 of 9 duodenum samples from marmosets with histologically confirmed strictures. Due to the enrichment of C. perfringens in situ, we analyzed frozen duodenal tissues using both 16S microbiome profiling and RNAseq. Microbiome analysis of the duodenal tissues of 29 marmosets from the MIT colony confirmed an increased abundance of Clostridium in stricture cases. Comparison of the duodenal gene expression from stricture and non-stricture marmosets found enrichment of genes associated with intestinal absorption, and lipid metabolism, localization, and transport in stricture cases. Using machine learning, we identified increased abundance of C. perfringens, as a potential causative agent of GI disease and intestinal strictures in marmosets.
+
+[Source](https://www.nature.com/articles/s41598-022-09268-9)
+
+10.1038/s41598-022-09268-9
 
 ---
 
@@ -83,51 +226,80 @@ Cryoconite granules are mineral-microbial aggregates found on glacier surfaces w
 
 ---
 
-## Phages and their satellites encode hotspots of antiviral systems.
- 22.03.2022, _F Rousset, F Depardieu, S Miele, J Dowding, AL Laval, E Lieberman, D Garry, EPC Rocha, A Bernheim, D Bikard_
+## Bacterial communities in surface and basal ice of a glacier terminus in the headwaters of Yangtze River on the Qinghai-Tibet Plateau.
+ 29.03.2022, _Z Ren, H Gao, W Luo, JJ Elser_
 
 
-Bacteria carry diverse genetic systems to defend against viral infection, some of which are found within prophages where they inhibit competing viruses. Phage satellites pose additional pressures on phages by hijacking key viral elements to their own benefit. Here, we show that E. coli P2-like phages and their parasitic P4-like satellites carry hotspots of genetic variation containing reservoirs of anti-phage systems. We validate the activity of diverse systems and describe PARIS, an abortive infection system triggered by a phage-encoded anti-restriction protein. Antiviral hotspots participate in inter-viral competition and shape dynamics between the bacterial host, P2-like phages, and P4-like satellites. Notably, the anti-phage activity of satellites can benefit the helper phage during competition with virulent phages, turning a parasitic relationship into a mutualistic one. Anti-phage hotspots are present across distant species and constitute a substantial source of systems that participate in the competition between mobile genetic elements.
+On the front lines of climate change, glacier termini play crucial roles in linking glaciers and downstream ecosystems during glacier retreat. However, we lack a clear understanding of biological processes that occur in surface and basal ice at glacier termini.
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00104-4)
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00408-2)
 
-10.1016/j.chom.2022.02.018
-
----
-
-## Fungal sensing enhances neutrophil metabolic fitness by regulating antifungal Glut1 activity.
- 22.03.2022, _DD Li, CV Jawale, C Zhou, L Lin, GJ Trevejo-Nunez, SA Rahman, SJ Mullet, J Das, SG Wendell, GM Delgoffe, MS Lionakis, SL Gaffen, PS Biswas_
-
-
-Combating fungal pathogens poses metabolic challenges for neutrophils, key innate cells in anti-Candida albicans immunity, yet how host-pathogen interactions cause remodeling of the neutrophil metabolism is unclear. We show that neutrophils mediate renal immunity to disseminated candidiasis by upregulating glucose uptake via selective expression of glucose transporter 1 (Glut1). Mechanistically, dectin-1-mediated recognition of β-glucan leads to activation of PKCδ, which triggers phosphorylation, localization, and early glucose transport by a pool of pre-formed Glut1 in neutrophils. These events are followed by increased Glut1 gene transcription, leading to more sustained Glut1 accumulation, which is also dependent on the β-glucan/dectin-1/CARD9 axis. Card9-deficient neutrophils show diminished glucose incorporation in candidiasis. Neutrophil-specific Glut1-ablated mice exhibit increased mortality in candidiasis caused by compromised neutrophil phagocytosis, reactive oxygen species (ROS), and neutrophil extracellular trap (NET) formation. In human neutrophils, β-glucan triggers metabolic remodeling and enhances candidacidal function. Our data show that the host-pathogen interface increases glycolytic activity in neutrophils by regulating Glut1 expression, localization, and function.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00103-2)
-
-10.1016/j.chom.2022.02.017
+10.1186/s40793-022-00408-2
 
 ---
 
-## The primate gut mycobiome-bacteriome interface is impacted by environmental and subsistence factors.
- 18.03.2022, _AK Sharma, S Davison, B Pafco, JB Clayton, JM Rothman, MR McLennan, M Cibot, T Fuh, R Vodicka, CJ Robinson, K Petrzelkova, A Gomez_
+## Multikingdom interactions govern the microbiome in subterranean cultural heritage sites.
+ 28.03.2022, _W Liu, X Zhou, T Jin, Y Li, B Wu, D Yu, Z Yu, B Su, R Chen, Y Feng, M Delgado-Baquerizo_
 
 
-The gut microbiome of primates is known to be influenced by both host genetic background and subsistence strategy. However, these inferences have been made mainly based on adaptations in bacterial composition - the bacteriome and have commonly overlooked the fungal fraction - the mycobiome. To further understand the factors that shape the gut mycobiome of primates and mycobiome-bacteriome interactions, we sequenced 16 S rRNA and ITS2 markers in fecal samples of four different nonhuman primate species and three human groups under different subsistence patterns (n = 149). The results show that gut mycobiome composition in primates is still largely unknown but highly plastic and weakly structured by primate phylogeny, compared with the bacteriome. We find significant gut mycobiome overlap between captive apes and human populations living under industrialized subsistence contexts; this is in contrast with contemporary hunter-gatherers and agriculturalists, who share more mycobiome traits with diverse wild-ranging nonhuman primates. In addition, mycobiome-bacteriome interactions were specific to each population, revealing that individual, lifestyle and intrinsic ecological factors affect structural correspondence, number, and kind of interactions between gut bacteria and fungi in primates. Our findings indicate a dominant effect of ecological niche, environmental factors, and diet over the phylogenetic background of the host, in shaping gut mycobiome composition and mycobiome-bacteriome interactions in primates.
+SignificanceThe conservation of historical relics against microbial biodeterioration is critical to preserving cultural heritages. One major challenge is our limited understanding of microorganisms' dispersal, colonization, and persistence on relics after excavation and opening to external environments. Here, we investigate the ecological and physiological profiles of the microbiome within and outside the Dahuting Han Dynasty Tomb with a 1,800-y history. Actinobacteria dominate the microbiome in this tomb. Via interkingdom signaling mutualism, springtails carry Actinobacteria as one possible source into the tomb from surrounding environments. Subsequently, Actinobacteria produce cellulases combined with antimicrobial substances, which helps them to colonize and thrive in the tomb via intrakingdom competition. Our findings unravel the ecology of the microbiomes colonizing historical relics and provide help for conservation practices.
 
-[Source](https://www.nature.com/articles/s41522-022-00274-3)
+[Source](https://www.pnas.org/doi/full/10.1073/pnas.2121141119)
 
-10.1038/s41522-022-00274-3
+10.1073/pnas.2121141119
 
 ---
 
-## Swapping Metagenomics Preprocessing Pipeline Components Offers Speed and Sensitivity Increases.
- 16.03.2022, _G Armstrong, C Martino, J Morris, B Khaleghi, J Kang, J DeReus, Q Zhu, D Roush, D McDonald, A Gonazlez, JP Shaffer, C Carpenter, M Estaki, S Wandro, S Eilert, A Akel, J Eno, K Curewitz, AD Swafford, N Moshiri, T Rosing, R Knight_
+## Indoor green can modify the indoor dust microbial communities.
+ 29.03.2022, _Y Dockx, M Täubel, EM Bijnens, K Witters, M Valkonen, B Jayaprakash, J Hogervorst, TS Nawrot, L Casas_
 
 
-Increasing data volumes on high-throughput sequencing instruments such as the NovaSeq 6000 leads to long computational bottlenecks for common metagenomics data preprocessing tasks such as adaptor and primer trimming and host removal. Here, we test whether faster recently developed computational tools (Fastp and Minimap2) can replace widely used choices (Atropos and Bowtie2), obtaining dramatic accelerations with additional sensitivity and minimal loss of specificity for these tasks. Furthermore, the taxonomic tables resulting from downstream processing provide biologically comparable results. However, we demonstrate that for taxonomic assignment, Bowtie2's specificity is still required. We suggest that periodic reevaluation of pipeline components, together with improvements to standardized APIs to chain them together, will greatly enhance the efficiency of common bioinformatics tasks while also facilitating incorporation of further optimized steps running on GPUs, FPGAs, or other architectures. We also note that a detailed exploration of available algorithms and pipeline components is an important step that should be taken before optimization of less efficient algorithms on advanced or nonstandard hardware. IMPORTANCE In shotgun metagenomics studies that seek to relate changes in microbial DNA across samples, processing the data on a computer often takes longer than obtaining the data from the sequencing instrument. Recently developed software packages that perform individual steps in the pipeline of data processing in principle offer speed advantages, but in practice they may contain pitfalls that prevent their use, for example, they may make approximations that introduce unacceptable errors in the data. Here, we show that differences in choices of these components can speed up overall data processing by 5-fold or more on the same hardware while maintaining a high degree of correctness, greatly reducing the time taken to interpret results. This is an important step for using the data in clinical settings, where the time taken to obtain the results may be critical for guiding treatment.
+Little is known about the potential role of indoor plants in shaping the indoor microbiota. Within the ENVIRONAGE birth cohort, we collected settled dust and performed 16S and ITS amplicon sequencing and qPCR measurements to characterize the indoor microbiota, including bacterial and fungal loads and Chao1 richness, Shannon, and Simpson diversity indices. For 155 households, we obtained information on the number of indoor plants. We performed linear regression models adjusted for several a priori chosen covariables. Overall, an increase in indoor plants and density was associated with increased microbial diversity, but not load. For example, we found an increase of 64 (95%CI:3;125) and 26 (95%CI:4;48) units of bacterial and fungal taxa richness, respectively, in households with more than three plants compared to no plants. Our results support the hypothesis that indoor plants can enrich indoor microbial diversity, while impacts on microbial loads are not obvious.
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.01378-21)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/ina.13011)
 
-10.1128/msystems.01378-21
+10.1111/ina.13011
+
+---
+
+## Microbial community succession of submerged bones in an aquatic habitat
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/1556-4029.15036)
+
+---
+
+## Metagenomic strain detection with SameStr: identification of a persisting core gut microbiota transferable by fecal transplantation.
+ 29.03.2022, _D Podlesny, C Arze, E Dörner, S Verma, S Dutta, J Walter, WF Fricke_
+
+
+The understanding of how microbiomes assemble, function, and evolve requires metagenomic tools that can resolve microbiota compositions at the strain level. However, the identification and tracking of microbial strains in fecal metagenomes is challenging and available tools variably classify subspecies lineages, which affects their applicability to infer microbial persistence and transfer.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01251-w)
+
+10.1186/s40168-022-01251-w
+
+---
+
+## Editorial: Enteric Unicellular Eukaryotic Parasites and Gut Microbiota: Mechanisms and Ecology.
+ 12.11.2021, _M Chabé, G Certad, SM Caccio_
+
+
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.27.485979v1.abstract)
+
+10.3389/fmicb.2021.779412
+
+---
+
+## Detection of Parasites in Microbiomes using Metagenomics
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.27.485979v1.abstract)
+
+---
+
+## Tryptophan Supplementation Increases the Production of Microbial-Derived AhR Agonists in an In Vitro Simulator of Intestinal Microbial Ecosystem
+
+[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.1c04145)
 
 ---
 
