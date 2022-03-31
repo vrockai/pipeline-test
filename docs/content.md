@@ -22,27 +22,51 @@ Microbiomes and their enzymes process many of the nutrients accessible in the ga
 
 ---
 
-## Microbial differences between active and remission peri-implantitis
+## Microbial differences between active and remission peri-implantitis.
+ 29.03.2022, _Y Hashimoto, S Okada, K Yasuda, M Kawagoe, M Kajiya, K Tsuga_
+
+
+Peri-implantitis has a polymicrobial etiology and is a major cause of dental implant loss. Various clinical protocols for its prevention and treatment have been proposed; however, some cases show a rapid progression with non-resolving clinical symptoms. To clear a means of differentiating between such cases, the implants with peri-implantitis in this study were categorized as the active group and the remission group and that two kinds of samples were obtained from the same subjects (n = 20). The microbiome was analyzed through pyrosequencing of the 16S rRNA gene. From LEfSe results, Porphyomonas, Fusobacterium, Treponema, Tannerella, and other periodontal pathogens were abundant in the active group, while lactic acid bacteria (Lactobacillales and Bifidobacterium) were abundant in the remission group.
 
 [Source](https://www.nature.com/articles/s41598-022-09192-y)
 
+10.1038/s41598-022-09192-y
+
 ---
 
-## Dynamics of the normal gut microbiota: A longitudinal one-year population study in Sweden
+## Dynamics of the normal gut microbiota: A longitudinal one-year population study in Sweden.
+ 29.03.2022, _LM Olsson, F Boulund, S Nilsson, MT Khan, A Gummesson, L Fagerberg, L Engstrand, R Perkins, M Uhlén, G Bergström, V Tremaroli, F Bäckhed_
+
+
+Temporal dynamics of the gut microbiota potentially limit the identification of microbial features associated with health status. Here, we used whole-genome metagenomic and 16S rRNA gene sequencing to characterize the intra- and inter-individual variations of gut microbiota composition and functional potential of a disease-free Swedish population (n = 75) over one year. We found that 23% of the total compositional variance was explained by intra-individual variation. The degree of intra-individual compositional variability was negatively associated with the abundance of Faecalibacterium prausnitzii (a butyrate producer) and two Bifidobacterium species. By contrast, the abundance of facultative anaerobes and aerotolerant bacteria such as Escherichia coli and Lactobacillus acidophilus varied extensively, independent of compositional stability. The contribution of intra-individual variance to the total variance was greater for functional pathways than for microbial species. Thus, reliable quantification of microbial features requires repeated samples to address the issue of intra-individual variations of the gut microbiota.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1931312822001317)
 
+10.1016/j.chom.2022.03.002
+
 ---
 
-## Microbiota-microglia connections in age-related cognition decline
+## Microbiota-microglia connections in age-related cognition decline.
+ 29.03.2022, _R Zhou, S Qian, WCS Cho, J Zhou, C Jin, Y Zhong, J Wang, X Zhang, Z Xu, M Tian, LWC Chan, H Zhang_
+
+
+Aging is an inevitable process that all individuals experience, of which the extent differs among individuals. It has been recognized as the risk factor of neurodegenerative diseases by affecting gut microbiota compositions, microglia, and cognition abilities. Aging-induced changes in gut microbiota compositions have a critical role in orchestrating the morphology and functions of microglia through the gut-brain axis. Gut microbiota communicates with microglia by its secreted metabolites and neurotransmitters. This is highly associated with age-related cognitive declines. Here, we review the main composition of microbiota in the aged individuals, outline the changes of the brain in age-related cognitive decline from a neuroinflammation perspective, especially the changes of morphology and functions of microglia, discuss the crosstalk between microbiota and microglia in the aged brain and further highlight the role of microbiota-microglia connections in neurodegenerative diseases (Alzheimer's disease and Parkinson's disease).
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/acel.13599)
 
+10.1111/acel.13599
+
 ---
 
-## Patients with psoriasis have a dysbiotic taxonomic and functional gut microbiota
+## Patients with psoriasis have a dysbiotic taxonomic and functional gut microbiota.
+ 15.03.2022, _T Todberg, A Egeberg, C Zachariae, N Sørensen, O Pedersen, L Skov_
+
+
+Accumulating evidence supports the findings of an altered gut microbiota in patients with autoimmune disease, however existing literature on the role of the gut microbiota in patients with psoriasis have demonstrated conflicting results and have mainly been based on 16s rRNA gene sequencing analysis OBJECTIVES: To examine whether the gut microbiota of patients with psoriasis was altered in composition and functional potentials compared with healthy controls and as a second approach compared with healthy cohabitant partners; further, to investigate relationships to disease severity and seasonal impact on the gut microbiota.
 
 [Source](https://onlinelibrary.wiley.com/doi/abs/10.1111/bjd.21245)
+
+10.1111/bjd.21245
 
 ---
 
@@ -58,51 +82,100 @@ Microbiomes and their enzymes process many of the nutrients accessible in the ga
 
 ---
 
-## Insights from shotgun metagenomics into bacterial species and metabolic pathways associated with NAFLD in obese youth
+## Insights from shotgun metagenomics into bacterial species and metabolic pathways associated with NAFLD in obese youth.
+ 28.03.2022, _T Testerman, Z Li, B Galuppo, J Graf, N Santoro_
+
+
+Nonalcoholic fatty liver disease (NAFLD) is the most common form of liver disease and is often the precursor for more serious liver conditions such as nonalcoholic steatohepatitis and cirrhosis. Although the gut microbiome has been implicated in the development of NAFLD, the strong association of obesity with NAFLD and its effect on microbiome structure has made interpreting study outcomes difficult. In the present study, we examined the taxonomic and functional differences between the microbiomes of youth with obesity and with and without NAFLD. Shotgun metagenome sequencing was performed to profile the microbiomes of 36 subjects, half of whom were diagnosed with NAFLD using abdominal magnetic resonance imaging. Beta diversity analysis showed community-wide differences between the groups (p = 0.002). Specific taxonomic differences included increased relative abundances of the species Fusicatenibacter saccharivorans (p = 0.042), Romboutsia ilealis (p = 0.046), and Actinomyces sp. ICM47 (p = 0.0009), and a decrease of Bacteroides thetaiotamicron (p = 0.0002), in the NAFLD group as compared with the non-NAFLD group. At the phylum level, Bacteroidetes (p &lt; 0.0001) was decreased in the NAFLD group. Functionally, branched-chain amino acid (p = 0.01343) and aromatic amino acid (p = 0.01343) synthesis pathways had increased relative abundances in the NAFLD group along with numerous energy use pathways, including pyruvate fermentation to acetate (p = 0.01318). Conclusion: Community-wide differences were noted based on NAFLD status, and individual bacterial species along with specific metabolic pathways were identified as potential drivers of these differences. The results of the present study support the idea that the NAFLD phenotype displays a differentiated microbial and functional signature from the obesity phenotype.
 
 [Source](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep4.1944)
 
+10.1002/hep4.1944
+
 ---
 
-## Dietary Patterns and Gut Microbiota: the Crucial Actors in Inflammatory Bowel Disease
+## Dietary Patterns and Gut Microbiota: the Crucial Actors in Inflammatory Bowel Disease.
+ 29.03.2022, _P He, L Yu, F Tian, H Zhang, W Chen, Q Zhai_
+
+
+It is widely believed that diet and the gut microbiota are strongly related to the occurrence and progression of inflammatory bowel disease (IBD), but the effects of the interaction between dietary patterns and the gut microbiota on IBD have not been well elucidated. In this paper, we aim to explore the complex relationship between dietary patterns, gut microbiota, and IBD. We first comprehensively summarize the dietary patterns associated with IBD and found that dietary patterns can modulate the occurrence and progression of IBD through various signaling pathways, including mammalian target of rapamycin (mTOR), mitogen-activated protein kinases (MAPKs), signal transducer and activator of transcription 3 (STAT3) and nuclear factor kappa B (NF-kappa B). Besides, the gut microbiota performs a vital role in the progression of IBD, which can affect the expression of IBD susceptibility genes, such as dual oxidase 2 (DUOX2) and apolipoprotein A1 (APOAI), the intestinal barrier (in particular, the expression of tight junction proteins), immune function (especially the homeostasis between effector and regulatory T cells) and the physiological metabolism, in particular, short chain fatty acids (SCFAs), bile acids (BAs) and tryptophan metabolisms. Finally, we review the current knowledge on the interaction between dietary patterns and the gut microbiota in IBD and found that dietary patterns modulate the onset and progression of IBD, which is partly attributed to the regulation of the gut microbiota (especially SCFAs-producing bacteria and Escherichia coli). Faecalibacteria as "microbiomarkers" of IBD could be used as a target for dietary interventions to alleviate IBD. A comprehensive understanding of the interplay between dietary intake, gut microbiota, and IBD, which will facilitate the development of personalized dietary strategies based on the regulation of the gut microbiota in IBD and to expedite the era of precision nutritional interventions for IBD.
 
 [Source](https://academic.oup.com/advances/advance-article/doi/10.1093/advances/nmac029/6555023)
 
+10.1093/advances/nmac029
+
 ---
 
-## A Guide to Dietary Pattern–Microbiome Data Integration
+## A Guide to Dietary Pattern-Microbiome Data Integration.
+ 29.03.2022, _Y Choi, SL Hoops, CJ Thoma, AJ Johnson_
+
+
+The human gut microbiome is linked to metabolic and cardiovascular disease risk. Dietary modulation of the human gut microbiome offers an attractive pathway to manipulate the microbiome to prevent microbiome-related disease. However, this promise has not been realized. The complex system of diet and microbiome interactions is poorly understood. Integrating observational human diet and microbiome data can help researchers and clinicians untangle the complex systems of interactions that predict how the microbiome will change in response to foods. The use of dietary patterns to assess diet-microbiome relations holds promise to identify interesting associations and result in findings that can directly translate into actionable dietary intake recommendations and eating plans. In this article, we first highlight the complexity inherent in both dietary and microbiome data and introduce the approaches generally used to explore diet and microbiome simultaneously in observational studies. Second, we review the food group and dietary pattern-microbiome literature focusing on dietary complexity-moving beyond nutrients. Our review identified a substantial and growing body of literature that explores links between the microbiome and dietary patterns. However, there was very little standardization of dietary collection and assessment methods across studies. The 54 studies identified in this review used ≥7 different methods to assess diet. Coupled with the variation in final dietary parameters calculated from dietary data (e.g., dietary indices, dietary patterns, food groups, etc.), few studies with shared methods and assessment techniques were available for comparison. Third, we highlight the similarities between dietary and microbiome data structures and present the possibility that multivariate and compositional methods, developed initially for microbiome data, could have utility when applied to dietary data. Finally, we summarize the current state of the art for diet-microbiome data integration and highlight ways dietary data could be paired with microbiome data in future studies to improve the detection of diet-microbiome signals.
 
 [Source](https://academic.oup.com/jn/advance-article/doi/10.1093/jn/nxac033/6554377)
 
+10.1093/jn/nxac033
+
 ---
 
-## Functional Significance of Different Milk Constituents in Modulating the Gut Microbiome and Infant Health
+## Functional Significance of Different Milk Constituents in Modulating the Gut Microbiome and Infant Health.
+ 24.03.2022, _M Yadav, A Kapoor, A Verma, K Ambatipudi_
+
+
+Human milk, the gold standard for optimal nourishment, controls the microbial composition of infants by either enhancing or limiting bacterial growth. The milk fat globule membrane has gained interest in gut-related functions and cognitive development. The membrane proteins can directly interact with probiotic bacteria, influencing their survival and adhesion through gastrointestinal transit, whereas membrane phospholipids increase the residence time of probiotic bacteria in the gut. The commensal bacteria in milk act as the initial inoculum in building up the gut colonization of an infant, whereas oligosaccharides promote proliferation of beneficial microorganisms. Interestingly, milk extracellular vesicles are also involved in influencing the microbiota composition but are not well-explored. This review highlights the contribution of different milk components in modulating the infant gut microbiota, particularly the fat globule membrane, and the complex interplay between host- and brain-gut microbiota signaling affecting infant and adult health positively.
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.jafc.2c00335)
 
+10.1021/acs.jafc.2c00335
+
 ---
 
-## The gut microbiome as mediator between diet and its impact on immune function
+## The gut microbiome as mediator between diet and its impact on immune function.
+ 29.03.2022, _H Shi, R Ter Horst, S Nielen, M Bloemendaal, M Jaeger, I Joosten, H Koenen, LAB Joosten, LJS Schweren, AA Vasquez, MG Netea, J Buitelaar_
+
+
+Dietary habits may affect inflammatory status in humans. Here we explore this interaction as well as the potential mediating role of the gut microbiome (GM), given that the GM is both involved in processing of dietary components and influences the immune system. A cross-sectional analysis of a sample of 482 healthy participants (207 males and 275 females) was performed. Dietary intake was assessed by a semiquantitative food questionnaire. Adipokines and soluble inflammatory mediators were assayed with multiple immunoassays and ELISA. Microbial DNA was extracted from frozen stool samples of 471 participants. Polychoric correlation analysis was used to establish dietary patterns, and joint multivariate associations between these dietary patterns and immune biomarkers were studied using regression analyses with adjustment for sex, age, BMI, smoking, education levels and physical exercise and other dietary patterns. Non-parametric entropy mediation was applied to investigate whether diet-immune relationships are mediated by abundance of microbial species. In this cohort, we identified three dietary patterns, characterized as "high-meat" (meat and sweetened drink), "prudent diet" (fish, fruit, legumes and vegetables) and "high alcohol" (higher alcohol consumption). Higher adherence to prudent diet was associated with a higher adiponectin level. The high alcohol pattern was associated with high concentrations of circulating concentrations of pro-inflammatory markers (CRP, IL-6, VEGF). Dialister invisus was found to mediate the relationship between a prudent dietary pattern and adiponectin, AAT, CRP, IL-6, and VEGF. In conclusion, a meat-based diet and a diet with high alcohol consumption were associated with high concentrations of biomarkers of chronic low-grade inflammation, and conversely, a prudent diet was associated with anti-inflammatory biomarkers. Diet-inflammation regulation may differ between sexes. Mediation analyses revealed that the association between prudent diet and immune function was partially mediated by the GM. The study adds to our understanding of the associations between diet, the immune system and the GM in a healthy population.
 
 [Source](https://www.nature.com/articles/s41598-022-08544-y)
 
+10.1038/s41598-022-08544-y
+
 ---
 
-## Differences in the intestinal microbiome associated with diarrhea during lenvatinib treatment for hepatocellular carcinoma
+## Differences in the intestinal microbiome associated with diarrhea during lenvatinib treatment for hepatocellular carcinoma.
+ 28.03.2022, _Y Inukai, K Yamamoto, T Honda, T Ito, N Imai, Y Ishizu, M Nakamura, H Kawashima, M Ishigami_
+
+
+Lenvatinib has been widely used for the treatment of advanced hepatocellular carcinoma (HCC). Some adverse events, including diarrhea, have been reported for lenvatinib. Diarrhea may be associated with the changes in the intestinal microbiome; however, the underlying mechanism have not been elucidated.
 
 [Source](https://www.karger.com/Article/Abstract/524298)
 
+10.1159/000524298
+
 ---
 
-## 16S rDNA sequencing analyzes differences in intestinal flora of human immunodeficiency virus (HIV) patients and association with immune activation
+## 16S rDNA sequencing analyzes differences in intestinal flora of human immunodeficiency virus (HIV) patients and association with immune activation.
+ 29.03.2022, _Z Mingjun, M Fei, X Zhousong, X Wei, X Jian, Y Yuanxue, S Youfeng, C Zhongping, L Yiqin, Z Xiaohong, C Ying, W Zhenbing, D Zehu, L Lanjuan_
+
+
+_CD4-Positive T-Lymphocytes, Case-Control Studies, Cytokines, DNA, Bacterial, Feces, Gastrointestinal Microbiome, HIV Infections, Humans, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
+To clarify the influence of HIV on the intestinal flora and the interrelationship with CD4 T cells, the present study collected stool specimens from 33 HIV patients and 28 healthy subjects to compare the differences in the intestinal flora and CD4 T cells in a 16S rDNA-sequencing approach. ELISA was used to detect the expressions of interleukin 2 (IL-2), IL-8, and tumor necrosis factor-α (TNF-α). Meanwhile, correlation analysis with the different bacterial populations in each group was carried out. The results revealed that Alpha diversity indices of the intestinal flora of HIV patients were markedly lower than that of the healthy group (p &lt; 0.05). The top five bacterial species in the HIV group were Bacteroides (23.453%), Prevotella (19.237%), Fusobacterium (12.408%), Lachnospira (3.811%), and Escherichia-Shigella (3.126%). Spearman correlation analysis results indicated that Fusobacterium_mortiferum, Fusobacterium, and Gammaproteobacteria were positively correlated with TNF-α (p &lt; 0.05), whereas Ruminococcaceae, Bacteroidales was negatively correlated with TNF-α (p &lt; 0.05). Additionally, Agathobacter was positively correlated with contents of IL-2 and IL-8 (p &lt; 0.05), whereas Prevotellaceae, and Prevotella were negatively correlated with IL-8 content (p &lt; 0.05). Furthermore, the top five strains in the CD4 high group (≥350/mm3) included Bacteroides (23.286%), Prevotella (21.943%), Fusobacterium (10.479%), Lachnospira (4.465%), and un_f_Lachnospiraceae (2.786%). Taken together, the present study identified that Fusobacterium and Escherichia-Shigella were specific and highly abundant in the HIV group and a correlation between the different bacterial flora and the contents of IL-2, IL-8, and TNF-α was revealed.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/21655979.2021.2019174)
 
+10.1080/21655979.2021.2019174
+
 ---
 
-## Profile of Gut Microbiota of Adults with Diabetes Mellitus Type 1: A Systematic Review
+## Profile of Gut Microbiota of Adults with Diabetes Mellitus Type 1: A Systematic Review.
+ 29.03.2022, _LAA Moreira, L da Paz Lima, M Aparecida de Oliveira Falcão, EL Rosado_
+
+
+Type 1 diabetes mellitus (T1DM) is a chronic disease of clinical importance, whose prevalence has increased in Brazil and worldwide. Among the possible factors involved in the genesis and control of the disease, the intestinal microbiota (IM) deserves to be highlighted, but studies that report differences between the IM of patients with T1DM and those who are healthy are still contradictory and scarce.
 
 [Source](https://www.eurekaselect.com/article/121948)
+
+10.2174/1573399818666220328150044
 
 ---
 
@@ -179,9 +252,10 @@ Mucosal defenses are crucial in animals for protection against pathogens and pre
 ---
 
 ## Composition and short-term stability of gut microbiota in lean and spontaneously overweight healthy Labrador retriever dogs.
- 29.03.2022, _J Söder, S Wernersson, K Höglund, R Hagman, S Lindåse, J Dicksved_
+ 30.03.2022, _J Söder, S Wernersson, K Höglund, R Hagman, S Lindåse, J Dicksved_
 
 
+_Animals, Dog Diseases, Dogs, Feces, Gastrointestinal Microbiome, Male, Obesity, Overweight, RNA, Ribosomal, 16S_
 The gut microbiota and its metabolic end-products act in close collaboration with the nutrient metabolism of the animal. A relationship between excess adiposity and alterations in gut microbiota composition has been identified in humans and rodents, but data are scarce for overweight dogs. This study compared composition and temporal variations of gut microbiota in healthy lean and spontaneously overweight dogs. The analysis was based on three individual fresh faeces samples from each dog during a 10-day period. Twenty-seven healthy and intact male Labrador retriever dogs were included, 12 of which were classified as lean (body condition score (BCS) 4-5 on a 9-point scale) and 15 as overweight (BCS 6-8). Gut microbiota was analysed by Illumina sequencing of the V3-V4 region of the 16S rRNA gene.
 
 [Source](https://actavetscand.biomedcentral.com/articles/10.1186/s13028-022-00628-z)
