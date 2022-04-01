@@ -29,7 +29,7 @@ To identify the specific microbial community compositions in saliva associated w
 ---
 
 ## Impact of Topical Interventions on the Vaginal Microbiota and Metabolome in Postmenopausal Women: A Secondary Analysis of a Randomized Clinical Trial.
- 30.03.2022, _S Srinivasan, X Hua, MC Wu, S Proll, DJ Valint, SD Reed, KA Guthrie, AZ LaCroix, JC Larson, R Pepin, S Bhasin, D Raftery, DN Fredricks, CM Mitchell_
+ 31.03.2022, _S Srinivasan, X Hua, MC Wu, S Proll, DJ Valint, SD Reed, KA Guthrie, AZ LaCroix, JC Larson, R Pepin, S Bhasin, D Raftery, DN Fredricks, CM Mitchell_
 
 
 Postmenopausal women with genitourinary symptoms of menopause are often prescribed vaginal estradiol or moisturizer for symptom improvement, but the impact of these treatments on the local microenvironment is poorly understood.
