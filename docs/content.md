@@ -29,9 +29,10 @@ To identify the specific microbial community compositions in saliva associated w
 ---
 
 ## Impact of Topical Interventions on the Vaginal Microbiota and Metabolome in Postmenopausal Women: A Secondary Analysis of a Randomized Clinical Trial.
- 31.03.2022, _S Srinivasan, X Hua, MC Wu, S Proll, DJ Valint, SD Reed, KA Guthrie, AZ LaCroix, JC Larson, R Pepin, S Bhasin, D Raftery, DN Fredricks, CM Mitchell_
+ 01.04.2022, _S Srinivasan, X Hua, MC Wu, S Proll, DJ Valint, SD Reed, KA Guthrie, AZ LaCroix, JC Larson, R Pepin, S Bhasin, D Raftery, DN Fredricks, CM Mitchell_
 
 
+_Double-Blind Method, Female, Humans, Metabolome, Microbiota, Middle Aged, Postmenopause, Vagina_
 Postmenopausal women with genitourinary symptoms of menopause are often prescribed vaginal estradiol or moisturizer for symptom improvement, but the impact of these treatments on the local microenvironment is poorly understood.
 
 [Source](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790503)
@@ -88,7 +89,7 @@ The antineoplastic effects of cannabis have been known since 1975. Since the ide
 ---
 
 ## Jejunoileal mucosal growth in mice with a limited microbiome.
- 29.03.2022, _MP Shaughnessy, CJ Park, PS Salvi, RA Cowles_
+ 01.04.2022, _MP Shaughnessy, CJ Park, PS Salvi, RA Cowles_
 
 
 Previous work demonstrated enhanced enterocyte proliferation and mucosal growth in gnotobiotic mice, suggesting that intestinal flora participate in mucosal homeostasis. Furthermore, broad-spectrum enteral antibiotics are known to induce near germ-free (GF) conditions in mice with conventional flora (CONV). We hypothesized that inducing near GF conditions with broad-spectrum enteral antibiotics would cause ordered small intestinal mucosal growth in CONV mice but would have no effect in GF mice with no inherent microbiome. C57BL/6J CONV and GF mice received either an antibiotic solution (Ampicillin, Ciprofloxacin, Metronidazole, Vancomycin, Meropenem) or a vehicle alone. After treatment, small intestinal villus height (VH), crypt depth (CD), mucosal surface area (MSA), crypt proliferation index (CPI), apoptosis, and villus and crypt cell types were assessed. Antibiotic-treated CONV (Abx-CONV) mice had taller villi, deeper crypts, increased CPI, increased apoptosis, and greater MSA compared to vehicle-treated CONV mice. Minor differences were noted in enterocyte and enterochromaffin cell proportions between groups, but goblet and Paneth cell proportions were unchanged in Abx-CONV mice compared to vehicle-treated CONV mice (p&gt;0.05). Antibiotics caused no significant changes in VH or MSA in GF mice when compared to vehicle-treated GF mice (p&gt;0.05). Enteral administration of broad-spectrum antibiotics to mice with a conventional microbiome stimulates ordered small intestinal mucosal growth. Mucosal growth was not seen in germ-free mice treated with antibiotics, implying that intestinal mucosal growth is associated with change in the microbiome in this model.
