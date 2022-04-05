@@ -22,9 +22,15 @@ Stromal and immune cell composition alterations in benign breast tissue associat
 
 ---
 
-## Intestinal virome in patients with alcohol use disorder and after abstinence
+## Intestinal virome in patients with alcohol use disorder and after abstinence.
+ 03.04.2022, _CL Hsu, X Zhang, L Jiang, S Lang, P Hartmann, D Pride, DE Fouts, P Stärkel, B Schnabl_
+
+
+Alcohol use is a leading cause of chronic liver disease worldwide, and changes in the microbiome associated with alcohol use contribute to patients' risk for liver disease progression. Less is known about the effects of alcohol use on the intestinal viral microbiome (virome) and interactions between bacteriophages and their target bacteria. We studied changes in the intestinal virome of 62 clinically well-characterized patients with alcohol use disorder (AUD) during active alcohol use and after 2 weeks of alcohol abstinence, by extracting virus-like particles and performing metagenomic sequencing. We observed decreased abundance of Propionibacterium, Lactobacillus, and Leuconostoc phages in patients with active AUD when compared with controls, whereas after 2 weeks of alcohol abstinence, patients with AUD demonstrated an increase in the abundance of Propionibacterium, Lactobacillus, and Leuconostoc phages. The intestinal virome signature was also significantly different in patients with AUD with progressive liver disease, with increased abundance of phages targeting Enterobacteria and Lactococcus species phages compared with patients with AUD with nonprogressive liver disease. By performing moderation analyses, we found that progressive liver disease is associated with changes in interactions between some bacteriophages and their respective target bacteria. In summary, active alcohol use and alcohol-associated progressive liver disease are associated with changes in the fecal virome, some of which are partially reversible after a short period of abstinence. Progression of alcohol-associated liver disease is associated with changes in bacteriophage-bacteria interactions.
 
 [Source](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep4.1947)
+
+10.1002/hep4.1947
 
 ---
 
