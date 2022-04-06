@@ -52,9 +52,10 @@ Alcohol use is a leading cause of chronic liver disease worldwide, and changes i
 ---
 
 ## Worms and bugs of the gut: the search for diagnostic signatures using barcoding, and metagenomics-metabolomics.
- 04.04.2022, _M Papaiakovou, DTJ Littlewood, SR Doyle, RB Gasser, C Cantacessi_
+ 05.04.2022, _M Papaiakovou, DTJ Littlewood, SR Doyle, RB Gasser, C Cantacessi_
 
 
+_Animals, Gastrointestinal Microbiome, Gastrointestinal Tract, Metabolomics, Metagenomics, Microbiota_
 Gastrointestinal (GI) helminth infections cause significant morbidity in both humans and animals worldwide. Specific and sensitive diagnosis is central to the surveillance of such infections and to determine the effectiveness of treatment strategies used to control them. In this article, we: (i) assess the strengths and limitations of existing methods applied to the diagnosis of GI helminth infections of humans and livestock; (ii) examine high-throughput sequencing approaches, such as targeted molecular barcoding and shotgun sequencing, as tools to define the taxonomic composition of helminth infections; and (iii) discuss the current understanding of the interactions between helminths and microbiota in the host gut. Stool-based diagnostics are likely to serve as an important tool well into the future; improved diagnostics of helminths and their environment in the gut may assist the identification of biomarkers with the potential to define the health/disease status of individuals and populations, and to identify existing or emerging anthelmintic resistance.
 
 [Source](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-022-05225-7)
@@ -64,7 +65,7 @@ Gastrointestinal (GI) helminth infections cause significant morbidity in both hu
 ---
 
 ## Connecting the Human Microbiome and Pancreatic Cancer.
- 02.04.2022, _RE Sexton, MH Uddin, S Bannoura, HY Khan, Y Mzannar, Y Li, A Aboukameel, MN Al-Hallak, B Al-Share, A Mohamed, B El-Rayes, AS Azmi_
+ 05.04.2022, _RE Sexton, MH Uddin, S Bannoura, HY Khan, Y Mzannar, Y Li, A Aboukameel, MN Al-Hallak, B Al-Share, A Mohamed, B El-Rayes, AS Azmi_
 
 
 Pancreatic cancer is a deadly disease that is increasing in incidence throughout the world. There are no clear causal factors associated with the incidence of pancreatic cancer; however, some correlation to smoking, diabetes and alcohol has been described. Recently, a few studies have linked the human microbiome (oral and gastrointestinal tract) to pancreatic cancer development. A perturbed microbiome has been shown to alter normal cells while promoting cancer-related processes such as increased cell signaling, immune system evasion and invasion. In this article, we will review in detail the alterations within the gut and oral microbiome that have been linked to pancreatic cancer and explore the ability of other microbiomes, such as the lung and skin microbiome, to contribute to disease development. Understanding ways to identify a perturbed microbiome can result in advancements in pancreatic cancer research and allow for prevention, earlier detection and alternative treatment strategies for patients.
@@ -76,9 +77,10 @@ Pancreatic cancer is a deadly disease that is increasing in incidence throughout
 ---
 
 ## Mechanistic insights into consumption of the food additive xanthan gum by the human gut microbiota.
- 04.04.2022, _MP Ostrowski, SL La Rosa, BJ Kunath, A Robertson, G Pereira, LH Hagen, NJ Varghese, L Qiu, T Yao, G Flint, J Li, SP McDonald, D Buttner, NA Pudlo, MK Schnizlein, VB Young, H Brumer, TM Schmidt, N Terrapon, V Lombard, B Henrissat, B Hamaker, EA Eloe-Fadrosh, A Tripathi, PB Pope, EC Martens_
+ 05.04.2022, _MP Ostrowski, SL La Rosa, BJ Kunath, A Robertson, G Pereira, LH Hagen, NJ Varghese, L Qiu, T Yao, G Flint, J Li, SP McDonald, D Buttner, NA Pudlo, MK Schnizlein, VB Young, H Brumer, TM Schmidt, N Terrapon, V Lombard, B Henrissat, B Hamaker, EA Eloe-Fadrosh, A Tripathi, PB Pope, EC Martens_
 
 
+_Animals, Dietary Fiber, Food Additives, Gastrointestinal Microbiome, Humans, Mice, Polysaccharides, Bacterial_
 Processed foods often include food additives such as xanthan gum, a complex polysaccharide with unique rheological properties, that has established widespread use as a stabilizer and thickening agent. Xanthan gum's chemical structure is distinct from those of host and dietary polysaccharides that are more commonly expected to transit the gastrointestinal tract, and little is known about its direct interaction with the gut microbiota, which plays a central role in digestion of other dietary fibre polysaccharides. Here we show that the ability to digest xanthan gum is common in human gut microbiomes from industrialized countries and appears contingent on a single uncultured bacterium in the family Ruminococcaceae. Our data reveal that this primary degrader cleaves the xanthan gum backbone before processing the released oligosaccharides using additional enzymes. Some individuals harbour Bacteroides intestinalis that is incapable of consuming polymeric xanthan gum but grows on oligosaccharide products generated by the Ruminococcaceae. Feeding xanthan gum to germfree mice colonized with a human microbiota containing the uncultured Ruminococcaceae supports the idea that the additive xanthan gum can drive expansion of the primary degrader Ruminococcaceae, along with exogenously introduced B. intestinalis. Our work demonstrates the existence of a potential xanthan gum food chain involving at least two members of different phyla of gut bacteria and provides an initial framework for understanding how widespread consumption of a recently introduced food additive influences human microbiomes.
 
 [Source](https://www.nature.com/articles/s41564-022-01093-0)
