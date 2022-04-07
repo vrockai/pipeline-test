@@ -149,9 +149,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Extensive metagenomic analysis of the porcine gut resistome to identify indicators reflecting antimicrobial resistance
+## Extensive metagenomic analysis of the porcine gut resistome to identify indicators reflecting antimicrobial resistance.
+ 21.03.2022, _Y Zhou, H Fu, H Yang, J Wu, Z Chen, H Jiang, M Liu, Q Liu, L Huang, J Gao, C Chen_
+
+
+_Animals, Anti-Bacterial Agents, Anti-Infective Agents, Drug Resistance, Bacterial, Genes, Bacterial, Metagenome, Metagenomics, Swine_
+Antimicrobial resistance (AMR) has been regarded as a major threat to global health. Pigs are considered an important source of antimicrobial resistance genes (ARGs). However, there is still a lack of large-scale quantitative data on the distribution of ARGs in the pig production industry. The bacterial species integrated ARGs in the gut microbiome have not been clarified.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01241-y)
+
+10.1186/s40168-022-01241-y
 
 ---
 
@@ -161,9 +168,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The phyllosphere microbiome shifts toward combating melanose pathogen
+## The phyllosphere microbiome shifts toward combating melanose pathogen.
+ 05.04.2022, _PD Li, ZR Zhu, Y Zhang, J Xu, H Wang, Z Wang, H Li_
+
+
+_Bacteria, Melanosis, Microbiota, Plant Leaves, Rhizosphere_
+Plants can recruit beneficial microbes to enhance their ability to defend against pathogens. However, in contrast to the intensively studied roles of the rhizosphere microbiome in suppressing plant pathogens, the collective community-level change and effect of the phyllosphere microbiome in response to pathogen invasion remains largely elusive.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01234-x)
+
+10.1186/s40168-022-01234-x
 
 ---
 
@@ -173,15 +187,41 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Next-generation sequencing: insights to advance clinical investigations of the microbiome
+## Next-generation sequencing: insights to advance clinical investigations of the microbiome.
+ 04.04.2022, _CR Wensel, JL Pluznick, SL Salzberg, CL Sears_
+
+
+_High-Throughput Nucleotide Sequencing, Humans, Metagenomics, Microbiota, RNA, Ribosomal, 16S, Sequence Analysis, RNA_
+Next-generation sequencing (NGS) technology has advanced our understanding of the human microbiome by allowing for the discovery and characterization of unculturable microbes with prediction of their function. Key NGS methods include 16S rRNA gene sequencing, shotgun metagenomic sequencing, and RNA sequencing. The choice of which NGS methodology to pursue for a given purpose is often unclear for clinicians and researchers. In this Review, we describe the fundamentals of NGS, with a focus on 16S rRNA and shotgun metagenomic sequencing. We also discuss pros and cons of each methodology as well as important concepts in data variability, study design, and clinical metadata collection. We further present examples of how NGS studies of the human microbiome have advanced our understanding of human disease pathophysiology across diverse clinical contexts, including the development of diagnostics and therapeutics. Finally, we share insights as to how NGS might further be integrated into and advance microbiome research and clinical care in the coming years.
 
 [Source](https://www.jci.org/articles/view/154944)
 
+10.1172/JCI154944
+
 ---
 
-## Metagenomics-enabled microbial surveillance
+## Metagenomics-enabled microbial surveillance.
+ 05.04.2022, _KKK Ko, KR Chng, N Nagarajan_
+
+
+_Animals, COVID-19, Humans, Metagenomics, Pandemics, Viruses, Zoonoses_
+Lessons learnt from the COVID-19 pandemic include increased awareness of the potential for zoonoses and emerging infectious diseases that can adversely affect human health. Although emergent viruses are currently in the spotlight, we must not forget the ongoing toll of morbidity and mortality owing to antimicrobial resistance in bacterial pathogens and to vector-borne, foodborne and waterborne diseases. Population growth, planetary change, international travel and medical tourism all contribute to the increasing frequency of infectious disease outbreaks. Surveillance is therefore of crucial importance, but the diversity of microbial pathogens, coupled with resource-intensive methods, compromises our ability to scale-up such efforts. Innovative technologies that are both easy to use and able to simultaneously identify diverse microorganisms (viral, bacterial or fungal) with precision are necessary to enable informed public health decisions. Metagenomics-enabled surveillance methods offer the opportunity to improve detection of both known and yet-to-emerge pathogens.
 
 [Source](https://www.nature.com/articles/s41564-022-01089-w)
+
+10.1038/s41564-022-01089-w
+
+---
+
+## Evolution, characterization, and immune response function of long-chain acyl-CoA synthetase genes in rainbow trout (Oncorhynchus mykiss) under hypoxic stress.
+ 06.04.2022, _F Ma, YZL Ma, RMX Chen_
+
+
+Long-chain acyl-CoA synthetases (Acsls), members of the acyl-activating enzyme superfamily, haves been systematically characterized in mammals and certain fishes, but the research on their involvement in reproductive development and hypoxic stress response in rainbow trout remains limited. In this study, we investigated the acsl gene structure and physical and chemical characteristics and the evolutionary relationship among acsl genes using the NCBI/Ensembl database. Using hypoxia treatment experiment, acsl gene expression in various organs and its regulation were investigated. A total of 11 acsl genes were identified in rainbow trout. Phylogenetic analyses found that acsl genes in rainbow trout were clustered into two clades: acsl3/4 and acsl1/2/5/6, and the additional gene duplication observed resulted from the third round of genome duplication unique to teleosts. Multiple sequence alignment and conserved motif analyses showed that the sequence of acsl proteins was highly conserved. Real-time quantitative PCR (RT-qPCR) showed that the acsl genes were highly expressed in immune tissues (liver and head kidney). Under hypoxia, the expression of acsl genes was upregulated, suggesting that they enhance the tolerance to hypoxia and are involved in the immune response in rainbow trout. Our study provides valuable insights into teleost evolution and effects of hypoxia on biological immunity and form a basis for further research on the functional characteristics of acsl genes.
+
+[Source](https://twitter.com/hashtag/bioinformatics?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.cbpb.2022.110737
 
 ---
 
@@ -191,9 +231,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## MicroRNAs as novel biomarkers for rivaroxaban therapeutic drug monitoring.
+ 06.04.2022, _E Rytkin, IV Bure, PO Bochkov, KA Akmalova, KB Mirzaev, MS Cherniaeva, OD Ostroumova, VV Smirnov, EA Grishina, AG Saribekian, IN Sychev, DA Sychev_
+
+
+The aim of this study is to assess micro-RNAs miR-142 and miR-39 as potential biomarkers for drug-monitoring of rivaroxaban among elderly patients with atrial fibrillation.
+
+[Source](https://twitter.com/hashtag/training?src=hash&ref_src=twsrc%5Etfw)
+
+10.1515/dmpt-2021-0118
+
+---
+
 ## #training
 
 [Source](https://twitter.com/hashtag/training?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Preclinical Safety Evaluation: Acute and Repeated-Dose Toxicity of a New Intranasal Recombinant Vector Vaccine TB/FLU-04L Against Tuberculosis.
+ 06.04.2022, _K Stosman, K Sivak, A Aleksandrov, Z Buzitskaya, T Rassokha, M Stukova_
+
+
+Vaccination against tuberculosis is one of the most successful medical measures to reduce morbidity and mortality. The BCG vaccine has been in use for more than 100 years, but its efficacy is still controversial. New vaccine candidates may offer better protection than available BCG vaccine. In this work, we studied the acute and the repeated-dose toxicity study of a new vector vaccine TB/Flu-04L against tuberculosis.
+
+[Source](https://twitter.com/hashtag/materials?src=hash&ref_src=twsrc%5Etfw)
+
+10.1055/a-1771-5985
 
 ---
 
@@ -206,6 +270,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## @ISBSIB
 
 [Source](https://twitter.com/ISBSIB?ref_src=twsrc%5Etfw)
+
+---
+
+## Breedbase: a digital ecosystem for modern plant breeding.
+ 06.04.2022, _N Morales, AC Ogbonna, BJ Ellerbrock, GJ Bauchet, T Tantikanjana, IY Tecle, AF Powell, D Lyon, N Menda, CC Simoes, S Saha, P Hosmani, M Flores, N Panitz, RS Preble, A Agbona, I Rabbi, P Kulakow, P Peteti, R Kawuki, W Esuma, M Kanaabi, DM Chelangat, E Uba, A Olojede, J Onyeka, T Shah, M Karanja, C Egesi, H Tufan, A Paterne, A Asfaw, JL Jannink, M Wolfe, CL Birkett, DJ Waring, JM Hershberger, MA Gore, KR Robbins, T Rife, C Courtney, J Poland, E Arnaud, MA Laporte, H Kulembeka, K Salum, E Mrema, A Brown, S Bayo, B Uwimana, V Akech, C Yencho, B de Boeck, H Campos, R Swennen, JD Edwards, LA Mueller_
+
+
+Modern breeding methods integrate next-generation sequencing (NGS) and phenomics to identify plants with the best characteristics and greatest genetic merit for use as parents in subsequent breeding cycles to ultimately create improved cultivars able to sustain high adoption rates by farmers. This data-driven approach hinges on strong foundations in data management, quality control, and analytics. Of crucial importance is a central database able to 1) track breeding materials, 2) store experimental evaluations, 3) record phenotypic measurements using consistent ontologies, 4) store genotypic information, and 5) implement algorithms for analysis, prediction and selection decisions. Because of the complexity of the breeding process, breeding databases also tend to be complex, difficult, and expensive to implement and maintain. Here, we present a breeding database system, Breedbase (https://breedbase.org/). Originally initiated as Cassavabase (https://cassavabase.org/) with the NextGen Cassava project (https://www.nextgencassava.org/), and later developed into a crop-agnostic system, it is presently used by dozens of different crops and projects. The system is web-based and is available as open source software. It is available on GitHub (https://github.com/solgenomics/) and packaged in a Docker image for deployment (https://dockerhub.com/breedbase/). The Breedbase system enables breeding programs to better manage and leverage their data for decision making within a fully integrated digital ecosystem.
+
+[Source](https://twitter.com/hashtag/github?src=hash&ref_src=twsrc%5Etfw)
+
+10.1093/g3journal/jkac078
 
 ---
 
@@ -239,9 +315,28 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Unifying the known and unknown microbial coding sequence space
+## Unifying the known and unknown microbial coding sequence space.
+ 31.03.2022, _C Vanni, MS Schechter, SG Acinas, A Barberán, PL Buttigieg, EO Casamayor, TO Delmont, CM Duarte, AM Eren, RD Finn, R Kottmann, A Mitchell, P Sánchez, K Siren, M Steinegger, FO Gloeckner, A Fernàndez-Guerra_
+
+
+Genes of unknown function are among the biggest challenges in molecular biology, especially in microbial systems, where 40%-60% of the predicted genes are unknown. Despite previous attempts, systematic approaches to include the unknown fraction into analytical workflows are still lacking. Here, we present a conceptual framework, its translation into the computational workflow AGNOSTOS and a demonstration on how we can bridge the known-unknown gap in genomes and metagenomes. By analyzing 415,971,742 genes predicted from 1,749 metagenomes and 28,941 bacterial and archaeal genomes, we quantify the extent of the unknown fraction, its diversity, and its relevance across multiple organisms and environments. The unknown sequence space is exceptionally diverse, phylogenetically more conserved than the known fraction and predominantly taxonomically restricted at the species level. From the 71M genes identified to be of unknown function, we compiled a collection of 283,874 lineage-specific genes of unknown function for Cand. Patescibacteria (also known as Candidate Phyla Radiation, CPR), which provides a significant resource to expand our understanding of their unusual biology. Finally, by identifying a target gene of unknown function for antibiotic resistance, we demonstrate how we can enable the generation of hypotheses that can be used to augment experimental data.
 
 [Source](https://elifesciences.org/articles/67667)
+
+10.7554/eLife.67667
+
+---
+
+## TDP-43 and Tau Oligomers in Alzheimer's Disease, Amyotrophic Lateral Sclerosis, and Frontotemporal Dementia.
+ 25.10.2021, _M Montalbano, S McAllen, FL Cascio, U Sengupta, S Garcia, N Bhatt, A Ellsworth, EA Heidelman, OD Johnson, S Doskocil, R Kayed_
+
+
+_Alzheimer Disease, Amyotrophic Lateral Sclerosis, DNA-Binding Proteins, Frontotemporal Dementia, Humans, Pick Disease of the Brain, Protein Aggregation, Pathological, RNA-Binding Proteins, tau Proteins_
+Proteinaceous aggregates are major hallmarks of several neurodegenerative diseases. Aggregates of post-translationally modified transactive response (TAR)-DNA binding protein 43 (TDP-43) in cytoplasmic inclusion bodies are characteristic features in frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS). Recent studies have also reported TDP-43 aggregation in Alzheimer's disease (AD). TDP-43 is an RNA/DNA binding protein (RBP) mainly present in the nucleus. In addition to several RBPs, TDP-43 has also been reported in stress granules in FTD and ALS pathologies. Despite knowledge of cytoplasmic mislocalization of TDP-43, the cellular effects of TDP-43 aggregates and their cytotoxic mechanism(s) remain to be clarified. We hypothesize that TDP-43 forms oligomeric assemblies that associate with tau, another key protein involved in ALS and FTD. However, no prior studies have investigated the interactions between TDP-43 oligomers and tau. It is therefore important to thoroughly investigate the cross-seeding properties and cellular localization of both TDP-43 and tau oligomers in neurodegenerative diseases. Here, we demonstrate the effect of tau on the cellular localization of TDP-43 in WT and P301L tau-inducible cell models (iHEK) and in WT HEK-293 cells treated exogenously with soluble human recombinant tau oligomers (Exo-rTauO). We observed cytoplasmic TDP-43 accumulation o in the presence of tau in these cell models. We also studied the occurrence of TDP-43 oligomers in AD, ALS, and FTD human brain tissue using novel antibodies generated against TDP-43 oligomers as well as generic TDP-43 antibodies. Finally, we examined the cross-seeding property of AD, ALS, and FTD brain-derived TDP-43 oligomers (BDT43Os) on tau aggregation using biochemical and biophysical assays. Our results allow us to speculate that TDP-43/tau interactions might play a role in AD, ALS, and FTD.
+
+[Source](https://nsurp.org/)
+
+10.1016/j.nbd.2020.105130
 
 ---
 
