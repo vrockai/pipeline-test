@@ -125,18 +125,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Higher Trimethylamine-N-Oxide Plasma Levels with Increasing Age Are Mediated by Diet and Trimethylamine-Forming Bacteria.
- 28.10.2021, _S Rath, K Rox, S Kleine Bardenhorst, U Schminke, M Dörr, J Mayerle, F Frost, MM Lerch, A Karch, M Brönstrup, DH Pieper, M Vital_
-
-
-The gut microbiota-dependent metabolite trimethylamine-N-oxide (TMAO) is linked to an increased risk for cardiovascular diseases. Trimethylamine (TMA), which is subsequently oxidized to TMAO in the liver, is formed by intestinal bacteria via distinct biochemical routes from dietary precursors that are enriched in animal product-based foods. To get a full picture of the entire process of the diet &gt; gut microbiota &gt; TMAO axis, we quantified potential TMA-forming gut bacteria and plasma metabolites using gene-targeted assays and targeted metabolomics on a subsample (n = 425) of a German population-based cohort study. We specifically compared persons reporting daily meat intake with those that rarely or never consume meat. While meat intake did not predict TMAO plasma levels in our study, two major bacterial TMA-forming pathways were linked to the metabolite's concentration. Furthermore, advancing age was strongly associated with TMAO. Construction of a structural equation model allowed us to disentangle the different routes that promote higher TMAO levels with increasing age, demonstrating, for the first time, a functional role of gut microbiota in the process, where specific food items augmented abundances of TMA-forming bacteria that were associated with higher TMAO plasma concentrations. Analyses stratified by age showed an association between carotid intima-media thickness and TMAO only in individuals &gt;65 of age, indicating that this group is particularly affected by the metabolite. IMPORTANCE Many cohort studies have investigated the link between diet and plasma TMAO levels, reporting incongruent results, while gut microbiota were only recently included into analyses. In these studies, taxonomic data were recorded that are not a good proxy for TMA formation, as specific members of various taxa exhibit genes catalyzing this reaction, demanding function-based technologies for accurate quantification of TMA-synthesizing bacteria. Using this approach, we demonstrated that abundances of the main components leading to TMAO formation, i.e., TMA precursors and TMA-forming bacteria, are uncoupled and not governed by the same (dietary) factors. Results emphasize that all levels leading to TMA(O) formation should be considered for accurate risk assessment, rejecting the simple view that diets rich in TMA precursors directly lead to increased plasma levels of this hazardous compound. The results can assist in developing strategies to reduce TMAO levels, specifically in the elderly, who are prone to TMAO-associated diseases.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S2001037022001039)
-
-10.1128/mSystems.00945-21
-
----
-
 ## Diet-gut microbiota interactions on cardiovascular disease
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2001037022001039)
@@ -185,15 +173,41 @@ The gut microbiota-dependent metabolite trimethylamine-N-oxide (TMAO) is linked 
 
 ---
 
-## Next-generation sequencing: insights to advance clinical investigations of the microbiome
+## Next-generation sequencing: insights to advance clinical investigations of the microbiome.
+ 04.04.2022, _CR Wensel, JL Pluznick, SL Salzberg, CL Sears_
+
+
+_High-Throughput Nucleotide Sequencing, Humans, Metagenomics, Microbiota, RNA, Ribosomal, 16S, Sequence Analysis, RNA_
+Next-generation sequencing (NGS) technology has advanced our understanding of the human microbiome by allowing for the discovery and characterization of unculturable microbes with prediction of their function. Key NGS methods include 16S rRNA gene sequencing, shotgun metagenomic sequencing, and RNA sequencing. The choice of which NGS methodology to pursue for a given purpose is often unclear for clinicians and researchers. In this Review, we describe the fundamentals of NGS, with a focus on 16S rRNA and shotgun metagenomic sequencing. We also discuss pros and cons of each methodology as well as important concepts in data variability, study design, and clinical metadata collection. We further present examples of how NGS studies of the human microbiome have advanced our understanding of human disease pathophysiology across diverse clinical contexts, including the development of diagnostics and therapeutics. Finally, we share insights as to how NGS might further be integrated into and advance microbiome research and clinical care in the coming years.
 
 [Source](https://www.jci.org/articles/view/154944)
 
+10.1172/JCI154944
+
 ---
 
-## Metagenomics-enabled microbial surveillance
+## Metagenomics-enabled microbial surveillance.
+ 05.04.2022, _KKK Ko, KR Chng, N Nagarajan_
+
+
+_Animals, COVID-19, Humans, Metagenomics, Pandemics, Viruses, Zoonoses_
+Lessons learnt from the COVID-19 pandemic include increased awareness of the potential for zoonoses and emerging infectious diseases that can adversely affect human health. Although emergent viruses are currently in the spotlight, we must not forget the ongoing toll of morbidity and mortality owing to antimicrobial resistance in bacterial pathogens and to vector-borne, foodborne and waterborne diseases. Population growth, planetary change, international travel and medical tourism all contribute to the increasing frequency of infectious disease outbreaks. Surveillance is therefore of crucial importance, but the diversity of microbial pathogens, coupled with resource-intensive methods, compromises our ability to scale-up such efforts. Innovative technologies that are both easy to use and able to simultaneously identify diverse microorganisms (viral, bacterial or fungal) with precision are necessary to enable informed public health decisions. Metagenomics-enabled surveillance methods offer the opportunity to improve detection of both known and yet-to-emerge pathogens.
 
 [Source](https://www.nature.com/articles/s41564-022-01089-w)
+
+10.1038/s41564-022-01089-w
+
+---
+
+## Bioinformatics Detection of Modulators Controlling Splicing Factor-Dependent Intron Retention in the Human Brain.
+ 07.04.2022, _SX Chen, E Simpson, JL Reiter, Y Liu_
+
+
+Alternative RNA splicing is an important means of genetic control and transcriptome diversity. However, when alternative splicing events are studied independently, coordinated splicing modulated by common factors is often not recognized. As a result, the molecular mechanisms of how splicing regulators promote or repress splice site recognition in a context-dependent manner are not well understood. The functional coupling between multiple gene regulatory layers suggests that splicing is modulated by additional genetic or epigenetic components. Here, we developed a bioinformatics approach to identify causal modulators of splicing activity based on the variation of gene expression in large RNA sequencing datasets. We applied this approach in a neurological context with hundreds of dorsolateral prefrontal cortex samples. Our model is strengthened with the incorporation of genetic variants to impute gene expression in a Mendelian randomization-based approach. We identified novel modulators of the splicing factor SRSF1, including UIMC1 and the long noncoding RNA CBR3-AS1, that function over dozens of SRSF1 intron retention splicing targets. This strategy can be widely used to identify modulators of RNA-binding proteins involved in tissue-specific alternative splicing. This article is protected by copyright. All rights reserved.
+
+[Source](https://twitter.com/hashtag/bioinformatics?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/humu.24379
 
 ---
 
@@ -203,9 +217,33 @@ The gut microbiota-dependent metabolite trimethylamine-N-oxide (TMAO) is linked 
 
 ---
 
+## Reimagining diversity in multiple myeloma clinical trials.
+ 07.04.2022, _D Habr, M Corsaro_
+
+
+Despite evidence that multiple myeloma disproportionately impacts ethnic minority groups and elderly patients, they remain underrepresented in therapeutic clinical trials. This commentary summarizes potential strategies that could be adopted by the pharmaceutical industry to ensure diversity in clinical trials of emerging therapies. These could include building trust through tailored education, optimizing awareness and exposure to clinical trial opportunities, ensuring access and extending outreach, and promoting clinical trial diversity by design. This article is protected by copyright. All rights reserved.
+
+[Source](https://twitter.com/hashtag/training?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/hon.2997
+
+---
+
 ## #training
 
 [Source](https://twitter.com/hashtag/training?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Nondestructive optical feedback systems for use during infrared laser sealing of blood vessels.
+ 07.04.2022, _NC Giglio, NM Fried_
+
+
+High-power infrared lasers are capable of sealing blood vessels during surgery. A real-time diagnostic feedback system utilizing diffuse optical transmission is characterized by nondestructive identification of vessel seals.
+
+[Source](https://twitter.com/hashtag/materials?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/lsm.23548
 
 ---
 
@@ -218,6 +256,18 @@ The gut microbiota-dependent metabolite trimethylamine-N-oxide (TMAO) is linked 
 ## @ISBSIB
 
 [Source](https://twitter.com/ISBSIB?ref_src=twsrc%5Etfw)
+
+---
+
+## GNN-Surrogate: A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations.
+ 07.04.2022, _N Shi, J Xu, SW Wurster, H Guo, J Woodring, LP Van Roekel, HW Shen_
+
+
+We propose GNN-Surrogate, a graph neural network-based surrogate model to explore the parameter space of ocean climate simulations. Parameter space exploration is important for domain scientists to understand the influence of input parameters (e.g., wind stress) on the simulation output (e.g., temperature). The exploration requires scientists to exhaust the complicated parameter space by running a batch of computationally expensive simulations. Our approach improves the efficiency of parameter space exploration with a surrogate model that predicts the simulation outputs accurately and efficiently. Specifically, GNN-Surrogate predicts the output field with given simulation parameters so scientists can explore the simulation parameter space with visualizations from user-specified visual mappings. Moreover, our graph-based techniques are designed for unstructured meshes, making the exploration of simulation outputs on irregular grids efficient. For efficient training, we generate hierarchical graphs and use adaptive resolutions. We give quantitative and qualitative evaluations on the MPAS-Ocean simulation to demonstrate the effectiveness and efficiency of GNN-Surrogate. Source code is publicly available at https://github.com/trainsn/GNN-Surrogate.
+
+[Source](https://twitter.com/hashtag/github?src=hash&ref_src=twsrc%5Etfw)
+
+10.1109/TVCG.2022.3165345
 
 ---
 
@@ -245,40 +295,15 @@ The gut microbiota-dependent metabolite trimethylamine-N-oxide (TMAO) is linked 
 
 ---
 
-## Machine Learning and Deep Learning Applications in Metagenomic Taxonomy and Functional Annotation.
- 02.04.2022, _A Mathieu, M Leclercq, M Sanabria, O Perin, A Droit_
-
-
-Shotgun sequencing of environmental DNA (i.e., metagenomics) has revolutionized the field of environmental microbiology, allowing the characterization of all microorganisms in a sequencing experiment. To identify the microbes in terms of taxonomy and biological activity, the sequenced reads must necessarily be aligned on known microbial genomes/genes. However, current alignment methods are limited in terms of speed and can produce a significant number of false positives when detecting bacterial species or false negatives in specific cases (virus, plasmids, and gene detection). Moreover, recent advances in metagenomics have enabled the reconstruction of new genomes using de novo binning strategies, but these genomes, not yet fully characterized, are not used in classic approaches, whereas machine and deep learning methods can use them as models. In this article, we attempted to review the different methods and their efficiency to improve the annotation of metagenomic sequences. Deep learning models have reached the performance of the widely used k-mer alignment-based tools, with better accuracy in certain cases; however, they still must demonstrate their robustness across the variety of environmental samples and across the rapid expansion of accessible genomes in databases.
+## Machine Learning and Deep Learning Applications in Metagenomic Taxonomy and Functional Annotation
 
 [Source](https://www.frontiersin.org/articles/10.3389/fmicb.2022.811495/full)
 
-10.3389/fmicb.2022.811495
-
 ---
 
-## Unifying the known and unknown microbial coding sequence space.
- 31.03.2022, _C Vanni, MS Schechter, SG Acinas, A Barberán, PL Buttigieg, EO Casamayor, TO Delmont, CM Duarte, AM Eren, RD Finn, R Kottmann, A Mitchell, P Sánchez, K Siren, M Steinegger, FO Gloeckner, A Fernàndez-Guerra_
-
-
-Genes of unknown function are among the biggest challenges in molecular biology, especially in microbial systems, where 40%-60% of the predicted genes are unknown. Despite previous attempts, systematic approaches to include the unknown fraction into analytical workflows are still lacking. Here, we present a conceptual framework, its translation into the computational workflow AGNOSTOS and a demonstration on how we can bridge the known-unknown gap in genomes and metagenomes. By analyzing 415,971,742 genes predicted from 1,749 metagenomes and 28,941 bacterial and archaeal genomes, we quantify the extent of the unknown fraction, its diversity, and its relevance across multiple organisms and environments. The unknown sequence space is exceptionally diverse, phylogenetically more conserved than the known fraction and predominantly taxonomically restricted at the species level. From the 71M genes identified to be of unknown function, we compiled a collection of 283,874 lineage-specific genes of unknown function for Cand. Patescibacteria (also known as Candidate Phyla Radiation, CPR), which provides a significant resource to expand our understanding of their unusual biology. Finally, by identifying a target gene of unknown function for antibiotic resistance, we demonstrate how we can enable the generation of hypotheses that can be used to augment experimental data.
+## Unifying the known and unknown microbial coding sequence space
 
 [Source](https://elifesciences.org/articles/67667)
-
-10.7554/eLife.67667
-
----
-
-## TDP-43 and Tau Oligomers in Alzheimer's Disease, Amyotrophic Lateral Sclerosis, and Frontotemporal Dementia.
- 25.10.2021, _M Montalbano, S McAllen, FL Cascio, U Sengupta, S Garcia, N Bhatt, A Ellsworth, EA Heidelman, OD Johnson, S Doskocil, R Kayed_
-
-
-_Alzheimer Disease, Amyotrophic Lateral Sclerosis, DNA-Binding Proteins, Frontotemporal Dementia, Humans, Pick Disease of the Brain, Protein Aggregation, Pathological, RNA-Binding Proteins, tau Proteins_
-Proteinaceous aggregates are major hallmarks of several neurodegenerative diseases. Aggregates of post-translationally modified transactive response (TAR)-DNA binding protein 43 (TDP-43) in cytoplasmic inclusion bodies are characteristic features in frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS). Recent studies have also reported TDP-43 aggregation in Alzheimer's disease (AD). TDP-43 is an RNA/DNA binding protein (RBP) mainly present in the nucleus. In addition to several RBPs, TDP-43 has also been reported in stress granules in FTD and ALS pathologies. Despite knowledge of cytoplasmic mislocalization of TDP-43, the cellular effects of TDP-43 aggregates and their cytotoxic mechanism(s) remain to be clarified. We hypothesize that TDP-43 forms oligomeric assemblies that associate with tau, another key protein involved in ALS and FTD. However, no prior studies have investigated the interactions between TDP-43 oligomers and tau. It is therefore important to thoroughly investigate the cross-seeding properties and cellular localization of both TDP-43 and tau oligomers in neurodegenerative diseases. Here, we demonstrate the effect of tau on the cellular localization of TDP-43 in WT and P301L tau-inducible cell models (iHEK) and in WT HEK-293 cells treated exogenously with soluble human recombinant tau oligomers (Exo-rTauO). We observed cytoplasmic TDP-43 accumulation o in the presence of tau in these cell models. We also studied the occurrence of TDP-43 oligomers in AD, ALS, and FTD human brain tissue using novel antibodies generated against TDP-43 oligomers as well as generic TDP-43 antibodies. Finally, we examined the cross-seeding property of AD, ALS, and FTD brain-derived TDP-43 oligomers (BDT43Os) on tau aggregation using biochemical and biophysical assays. Our results allow us to speculate that TDP-43/tau interactions might play a role in AD, ALS, and FTD.
-
-[Source](https://nsurp.org/)
-
-10.1016/j.nbd.2020.105130
 
 ---
 
