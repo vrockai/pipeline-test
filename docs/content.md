@@ -58,6 +58,18 @@
 
 ---
 
+## Processed ready-to-eat (RTE) foods sold in Yenagoa Nigeria were colonized by diarrheagenic Escherichia coli which constitute a probable hazard to human health.
+ 08.04.2022, _A Beshiru, AI Okoh, EO Igbinosa_
+
+
+The study aimed to recover diarrheagenic Escherichia coli strains from processed ready-to-eat (RTE) foods in Yenagoa, Nigeria and characterize them using culture-based and molecular methods. Three hundred RTE food samples were collected randomly from different food outlets between February 2021 and August 2021 and assessed for the occurrence of E. coli using standard bacteriological procedures. The virulence factor formation and antibiotic susceptibility profile of the isolates was carried out using standard microbiological procedures. Polymerase chain reaction (PCR) was used to confirm the identity of the isolates via specific primers and further used to assay the diarrheagenic determinants of the E. coli isolates. The prevalence of E. coli positive samples based on the proliferation of E. coli on Chromocult coliform agar forming purple to violet colonies was 80(26.7%). The population density of E. coli from the RTE foods ranged from 0-4.3 × 104 ± 1.47 CFU/g. The recovered E. coli isolates (n = 62) were resistant to antibiotics in different proportions such as ampicillin 62(100%), aztreonam 47(75.81%) and chloramphenicol 43(69.35%). All the recovered E. coli isolates were resistant to ≥ 2 antibiotics. The multiple antibiotic-resistant index (MARI) ranged from 0.13-0.94 with 47(75.8%) of isolates having MARI &gt;2. A total of 48(77.4%) of the isolates were multidrug-resistant (MDR). The proportion of extracellular virulence factor formation is as follows: protease 12(19.35%), curli 39(62.9%), cellulose 21(33.89%), ornithine decarboxylase 19(30.65%) and aesculin hydrolysis 14(22.58%). The overall proportion of diarrheagenic E. coli was 33/62(53.2%). The distributions of typical diarrheagenic E. coli includes: tETEC 9(14.5%), tEPEC 13(20.9%), tEAEC 6(9.7%), tEIEC 2(3.2%) and tEHEC 3(4.8%). The proportions of atypical strains include aETEC 10(16.1%), aEAEC 5(8.1%), aEPEC 1(1.6%) and aEIEC 3(4.8%). This study demonstrated that some RTE foods sold in Yenagoa, Nigeria, are contaminated and constitute a probable human health hazard. Thus, there is a need for intensive surveillance of this isolate in RTE foods variety to spot evolving AMR phenotypes and avert food-borne infections.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266059)
+
+10.1371/journal.pone.0266059
+
+---
+
 ## Processed ready-to-eat (RTE) foods sold in Yenagoa Nigeria were colonized by diarrheagenic <em>Escherichia coli </em>which constitute a probable hazard to human health
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266059)
@@ -70,9 +82,15 @@
 
 ---
 
-## An optimized approach for processing of frozen lung and lavage samples for microbiome studies
+## An optimized approach for processing of frozen lung and lavage samples for microbiome studies.
+ 08.04.2022, _R Wiscovitch-Russo, H Singh, LM Oldfield, AV Fedulov, N Gonzalez-Juarbe_
+
+
+The respiratory tract has a resident microbiome with low biomass and limited diversity. This results in difficulties with sample preparation for sequencing due to uneven bacteria-to-host DNA ratio, especially for small tissue samples such as mouse lungs. We compared effectiveness of current procedures used for DNA extraction in microbiome studies. Bronchoalveolar lavage fluid (BALF) and lung tissue samples were collected to test different forms of sample pre-treatment and extraction methods to increase bacterial DNA yield and optimize library preparation. DNA extraction using a pre-treatment method of mechanical lysis (lung tissue) and one-step centrifugation (BALF) increased DNA yield and bacterial content of samples. In contrast, a significant increase of environmental contamination was detected after phenol chloroform isoamyl alcohol (PCI) extraction and nested PCR. While PCI has been a standard procedure used in microbiome studies, our data suggests that it is not efficient for DNA extraction of frozen low biomass samples. Finally, a DNA Enrichment kit was tested and found to improve the 16S copy number of lung tissue with a minor shift in microbial composition. Overall, we present a standardized method to provide high yielding DNA and improve sequencing coverage of low microbial biomass frozen samples with minimal contamination.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265891)
+
+10.1371/journal.pone.0265891
 
 ---
 
