@@ -70,9 +70,16 @@
 
 ---
 
-## An optimized approach for processing of frozen lung and lavage samples for microbiome studies
+## An optimized approach for processing of frozen lung and lavage samples for microbiome studies.
+ 14.04.2022, _R Wiscovitch-Russo, H Singh, LM Oldfield, AV Fedulov, N Gonzalez-Juarbe_
+
+
+_Animals, DNA, DNA, Bacterial, Lung, Mice, Microbiota, RNA, Ribosomal, 16S, Therapeutic Irrigation_
+The respiratory tract has a resident microbiome with low biomass and limited diversity. This results in difficulties with sample preparation for sequencing due to uneven bacteria-to-host DNA ratio, especially for small tissue samples such as mouse lungs. We compared effectiveness of current procedures used for DNA extraction in microbiome studies. Bronchoalveolar lavage fluid (BALF) and lung tissue samples were collected to test different forms of sample pre-treatment and extraction methods to increase bacterial DNA yield and optimize library preparation. DNA extraction using a pre-treatment method of mechanical lysis (lung tissue) and one-step centrifugation (BALF) increased DNA yield and bacterial content of samples. In contrast, a significant increase of environmental contamination was detected after phenol chloroform isoamyl alcohol (PCI) extraction and nested PCR. While PCI has been a standard procedure used in microbiome studies, our data suggests that it is not efficient for DNA extraction of frozen low biomass samples. Finally, a DNA Enrichment kit was tested and found to improve the 16S copy number of lung tissue with a minor shift in microbial composition. Overall, we present a standardized method to provide high yielding DNA and improve sequencing coverage of low microbial biomass frozen samples with minimal contamination.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265891)
+
+10.1371/journal.pone.0265891
 
 ---
 
