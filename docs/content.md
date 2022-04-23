@@ -254,7 +254,7 @@ Mosquitoes harbor microbial communities that play important roles in their growt
 ---
 
 ## Gut microbiota promote biotransformation and bioaccumulation of arsenic in tilapia.
- 21.04.2022, _D Song, L Chen, S Zhu, L Zhang_
+ 22.04.2022, _D Song, L Chen, S Zhu, L Zhang_
 
 
 Aquatic organisms such as fish can accumulate high levels of arsenic (As) and transform toxic inorganic As (iAs) to non-toxic arsenobetaine (AsB). Whether the gut microbiota are involved in the process of As accumulation and transformation in fish is unclear. Herein, we subjected tilapia (Oreochromis mossambicus) to antibiotic treatment for 19 d to remove the gut microbiota, followed by the dietary exposure to arsenate (As(V)) for 16 d. The antibiotic-treated fish accumulated significantly less total As and AsB levels in the intestine and muscle than the fish in the control group. The gut contents (mixture of microbiota, digestive fluid, and diet debris) in the control fish metabolized As(V) to arsenite (As(III)) and organoarsenicals in vitro, while those in the antibiotic-treated fish lost this ability. As(V) exposure significantly changed the fish gut microbiota community. Stenotrophomonas maltophilia was found to be the dominant species (&gt;60% of total operational taxonomic unit (OTU) number) in the gut microbiota of As-treated fish. The isolated As-resistant strain S. maltophilia SCSIOOM owned a high capability to metabolize As(V) to As(III) and organoarsenicals. Overall, these results demonstrated that the gut microbiota, at least the As-resistant bacteria, were involved in As biotransformation pathways in fish.
