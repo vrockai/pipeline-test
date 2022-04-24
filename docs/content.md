@@ -65,9 +65,15 @@ Necrotizing enterocolitis (NEC) is a serious consequence of preterm birth and is
 
 ---
 
-## Alterations of mucosa-attached microbiome and epithelial cell numbers in the cystic fibrosis small intestine with implications for intestinal disease
+## Alterations of mucosa-attached microbiome and epithelial cell numbers in the cystic fibrosis small intestine with implications for intestinal disease.
+ 22.04.2022, _J Kelly, M Al-Rammahi, K Daly, PK Flanagan, A Urs, MC Cohen, G di Stefano, MJC Bijvelds, DN Sheppard, HR de Jonge, UE Seidler, SP Shirazi-Beechey_
+
+
+Cystic fibrosis (CF) is caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Defective CFTR leads to accumulation of dehydrated viscous mucus within the small intestine, luminal acidification and altered intestinal motility, resulting in blockage. These changes promote gut microbial dysbiosis, adversely influencing the normal proliferation and differentiation of intestinal epithelial cells. Using Illumina 16S rRNA gene sequencing and immunohistochemistry, we assessed changes in mucosa-attached microbiome and epithelial cell profile in the small intestine of CF mice and a CF patient compared to wild-type mice and non-CF humans. We found increased abundance of pro-inflammatory Escherichia and depletion of beneficial secondary bile-acid producing bacteria in the ileal mucosa-attached microbiome of CFTR-null mice. The ileal mucosa in a CF patient was dominated by a non-aeruginosa Pseudomonas species and lacked numerous beneficial anti-inflammatory and short-chain fatty acid-producing bacteria. In the ileum of both CF mice and a CF patient, the number of absorptive enterocytes, Paneth and glucagon-like peptide 1 and 2 secreting L-type enteroendocrine cells were decreased, whereas stem and goblet cell numbers were increased. These changes in mucosa-attached microbiome and epithelial cell profile suggest that microbiota-host interactions may contribute to intestinal CF disease development with implications for therapy.
 
 [Source](https://doi.org/10.1038/s41598-022-10328-3)
+
+10.1038/s41598-022-10328-3
 
 ---
 
@@ -83,39 +89,75 @@ Necrotizing enterocolitis (NEC) is a serious consequence of preterm birth and is
 
 ---
 
-## Plasma branched-chain and aromatic amino acids correlate with the gut microbiota and severity of Parkinson’s disease
+## Plasma branched-chain and aromatic amino acids correlate with the gut microbiota and severity of Parkinson's disease.
+ 22.04.2022, _Y Zhang, X He, Y Qian, S Xu, C Mo, Z Yan, X Yang, Q Xiao_
+
+
+Disturbances of circulating amino acids have been demonstrated in patients with Parkinson's disease (PD). However, there have been no consistent results for branched-chain amino acids (BCAAs) and aromatic amino acids (AAAs), and related factors have not been explored. We aimed to explore plasma BCAA and AAA profiles in PD patients, and identify their correlations with clinical characteristics and the gut microbiota. Plasma BCAA (leucine, isoleucine, and valine) and AAA (tyrosine and phenylalanine) levels were measured in 106 PD patients and 114 controls. Fecal samples were collected from PD patients for microbiota sequencing and functional analysis. We found that plasma BCAAs and tyrosine were decreased in PD patients. BCAAs and AAAs were correlated with clinical characteristics and microbial taxa, and, in particular, they were negatively correlated with the Hoehn and Yahr stage. Compared with early PD patients, BCAA and AAA levels were even lower, and microbial composition was altered in advanced PD patients. Predictive functional analysis indicated that predicted genes numbers involved in BCAA biosynthesis were lower in advanced PD patients. What's more, the fecal abundances of critical genes (ilvB, ilvC, ilvD, and ilvN) involved in BCAA biosynthesis were reduced and fecal BCAA concentrations were lower in advanced PD patients. In conclusion, the disturbances of plasma BCAAs and AAAs in PD patients may be related to the gut microbiota and exacerbated with PD severity. The microbial amino acid metabolism may serve as a potential mechanistic link.
 
 [Source](https://doi.org/10.1038/s41531-022-00312-z)
 
+10.1038/s41531-022-00312-z
+
 ---
 
-## Smallpox vaccination induces a substantial increase in commensal skin bacteria that promote pathology and influence the host response
+## Smallpox vaccination induces a substantial increase in commensal skin bacteria that promote pathology and influence the host response.
+ 21.04.2022, _EV Shmeleva, M Gomez de Agüero, J Wagner, AJ Enright, AJ Macpherson, BJ Ferguson, GL Smith_
+
+
+Interactions between pathogens, host microbiota and the immune system influence many physiological and pathological processes. In the 20th century, widespread dermal vaccination with vaccinia virus (VACV) led to the eradication of smallpox but how VACV interacts with the microbiota and whether this influences the efficacy of vaccination are largely unknown. Here we report that intradermal vaccination with VACV induces a large increase in the number of commensal bacteria in infected tissue, which enhance recruitment of inflammatory cells, promote tissue damage and influence the host response. Treatment of vaccinated specific-pathogen-free (SPF) mice with antibiotic, or infection of genetically-matched germ-free (GF) animals caused smaller lesions without alteration in virus titre. Tissue damage correlated with enhanced neutrophil and T cell infiltration and levels of pro-inflammatory tissue cytokines and chemokines. One month after vaccination, GF and both groups of SPF mice had equal numbers of VACV-specific CD8+ T cells and were protected from disease induced by VACV challenge, despite lower levels of VACV-neutralising antibodies observed in GF animals. Thus, skin microbiota may provide an adjuvant-like stimulus during vaccination with VACV and influence the host response to vaccination.
 
 [Source](https://doi.org/10.1371/journal.ppat.1009854)
 
+10.1371/journal.ppat.1009854
+
 ---
 
-## Integrated fecal microbiome-metabolome signatures reflect stress and serotonin metabolism in irritable bowel syndrome
+## Integrated fecal microbiome-metabolome signatures reflect stress and serotonin metabolism in irritable bowel syndrome.
+ 22.04.2022, _Z Mujagic, M Kasapi, DM Jonkers, I Garcia-Perez, L Vork, ZZRM Weerts, JI Serrano-Contreras, A Zhernakova, A Kurilshikov, J Scotcher, E Holmes, C Wijmenga, D Keszthelyi, JK Nicholson, JM Posma, AA Masclee_
+
+
+To gain insight into the complex microbiome-gut-brain axis in irritable bowel syndrome (IBS), several modalities of biological and clinical data must be combined. We aimed to identify profiles of fecal microbiota and metabolites associated with IBS and to delineate specific phenotypes of IBS that represent potential pathophysiological mechanisms. Fecal metabolites were measured using proton nuclear magnetic resonance (1H-NMR) spectroscopy and gut microbiome using shotgun metagenomic sequencing (MGS) in a combined dataset of 142 IBS patients and 120 healthy controls (HCs) with extensive clinical, biological and phenotype information. Data were analyzed using support vector classification and regression and kernel t-SNE. Microbiome and metabolome profiles could distinguish IBS and HC with an area-under-the-receiver-operator-curve of 77.3% and 79.5%, respectively, but this could be improved by combining microbiota and metabolites to 83.6%. No significant differences in predictive ability of the microbiome-metabolome data were observed between the three classical, stool pattern-based, IBS subtypes. However, unsupervised clustering showed distinct subsets of IBS patients based on fecal microbiome-metabolome data. These clusters could be related plasma levels of serotonin and its metabolite 5-hydroxyindoleacetate, effects of psychological stress on gastrointestinal (GI) symptoms, onset of IBS after stressful events, medical history of previous abdominal surgery, dietary caloric intake and IBS symptom duration. Furthermore, pathways in metabolic reaction networks were integrated with microbiota data, that reflect the host-microbiome interactions in IBS. The identified microbiome-metabolome signatures for IBS, associated with altered serotonin metabolism and unfavorable stress response related to GI symptoms, support the microbiota-gut-brain link in the pathogenesis of IBS.
 
 [Source](https://doi.org/10.1080/19490976.2022.2063016)
 
+10.1080/19490976.2022.2063016
+
 ---
 
-## Multi-omics analyses of serum metabolome, gut microbiome and brain function reveal dysregulated microbiota-gut-brain axis in bipolar depression
+## Multi-omics analyses of serum metabolome, gut microbiome and brain function reveal dysregulated microbiota-gut-brain axis in bipolar depression.
+ 22.04.2022, _Z Li, J Lai, P Zhang, J Ding, J Jiang, C Liu, H Huang, H Zhen, C Xi, Y Sun, L Wu, L Wang, X Gao, Y Li, Y Fu, Z Jie, S Li, D Zhang, Y Chen, Y Zhu, S Lu, J Lu, D Wang, H Zhou, X Yuan, X Li, L Pang, M Huang, H Yang, W Zhang, S Brix, K Kristiansen, X Song, C Nie, S Hu_
+
+
+The intricate processes of microbiota-gut-brain communication in modulating human cognition and emotion, especially in the context of mood disorders, have remained elusive. Here we performed faecal metagenomic, serum metabolomics and neuroimaging studies on a cohort of 109 unmedicated patients with depressed bipolar disorder (BD) patients and 40 healthy controls (HCs) to characterise the microbial-gut-brain axis in BD. Across over 12,000 measured metabolic features, we observed a large discrepancy (73.54%) in the serum metabolome between BD patients and HCs, spotting differentially abundant microbial-derived neuroactive metabolites including multiple B-vitamins, kynurenic acid, gamma-aminobutyric acid and short-chain fatty acids. These metabolites could be linked to the abundance of gut microbiota presented with corresponding biosynthetic potentials, including Akkermansia muciniphila, Citrobacter spp. (Citrobacter freundii and Citrobacter werkmanii), Phascolarctobacterium spp., Yersinia spp. (Yersinia frederiksenii and Yersinia aleksiciae), Enterobacter spp. (Enterobacter cloacae and Enterobacter kobei) and Flavobacterium spp. Based on functional neuroimaging, BD-related neuroactive microbes and metabolites were discovered as potential markers associated with BD-typical features of functional connectivity of brain networks, hinting at aberrant cognitive function, emotion regulation, and interoception. Our study combines gut microbiota and neuroactive metabolites with brain functional connectivity, thereby revealing potential signalling pathways from the microbiota to the gut and the brain, which may have a role in the pathophysiology of BD.
 
 [Source](https://doi.org/10.1038/s41380-022-01569-9)
 
+10.1038/s41380-022-01569-9
+
 ---
 
-## Abnormal gut microbiota and bile acids in patients with first-episode major depressive disorder and the correlation analysis
+## Abnormal gut microbiota and bile acids in patients with first-episode major depressive disorder and the correlation analysis.
+ 21.04.2022, _N Sun, J Zhang, J Wang, Z Liu, X Wang, P Kang, C Yang, P Liu, K Zhang_
+
+
+Gut microbiota and its metabolite bile acids may play a significant role in the occurrence and development of major depressive disorder (MDD). Therefore, this study analyzes gut microbiota and bile acids, as well as their correlation in patients.
 
 [Source](https://doi.org/10.1111/pcn.13368)
 
+10.1111/pcn.13368
+
 ---
 
-## Analysis of the Vulvar Skin Microbiota in Asymptomatic Women and Patients With Vulvar Lichen Sclerosus Based on 16S rRNA Sequencing
+## Analysis of the Vulvar Skin Microbiota in Asymptomatic Women and Patients With Vulvar Lichen Sclerosus Based on 16S rRNA Sequencing.
+ 23.04.2022, _X Liu, Y Zhuo, Y Zhou, J Hu, H Wen, C Xiao_
+
+
+Vulvar lichen sclerosus (VLS) is a chronic inflammatory skin disease that brings life-long and psychological distress to patients. It remains unclear whether this condition is related to changes in the skin microbial community. The aim of this study was to evaluate the compositional characteristics of the vulvar skin microbiota between VLS patients and asymptomatic postmenopausal women. We included 60 cases of postmenopausal patients in the outpatient vulvar clinic of Peking University First Hospital from August 2020 to October 2020. Thirty-one patients were diagnosed with VLS by vulvar skin biopsy (VLS group), while 29 women were asymptomatic volunteers (control group). DNA was extracted from vulvar skin swabs of the VLS and control groups. The V3-V4 fragments of 16S rRNA were targeted for high-throughput sequencing and gene sequence analysis. The sequencing results were analysed by α diversity, β diversity, species composition, LEfSe analysis to compare the compositional differences of the vulvar skin microbiota between the two groups. Our study revealed that at the phylum level, patients with VLS had a lower relative abundance of Firmicutes (p &lt; 0.0001) and a higher relative abundance of Proteobacteria than the control group (p &lt; 0.0001). At the genus level, Lactobacillus spp. accounted for the largest proportion of the microflora in the asymptomatic controls, while the proportion of Prevotella spp. in the VLS group was the highest. In the VLS group, the relative abundance of Finegoldia spp., Ralstonia spp., Peptoniphilus spp., Anaerococcus spp., Campylobacter spp., Providencia spp. Kelbsiella spp., Ezakiella spp., and Escherichia-Shigella spp. was significantly increased compared with the control group. Although there was no significant difference in the α diversity of the vulvar skin microbiota, the β diversity differed significantly between the two groups.
 
 [Source](https://doi.org/10.3389/fcell.2022.842031)
+
+10.3389/fcell.2022.842031
 
 ---
 
@@ -125,27 +167,52 @@ Necrotizing enterocolitis (NEC) is a serious consequence of preterm birth and is
 
 ---
 
-## Functional, transcriptional, and microbial shifts associated with healthy pulmonary aging in rhesus macaques
+## Functional, transcriptional, and microbial shifts associated with healthy pulmonary aging in rhesus macaques.
+ 22.04.2022, _NS Rhoades, M Davies, SA Lewis, IR Cinco, SG Kohama, LE Bermudez, KL Winthrop, C Fuss, JA Mattison, ER Spindel, I Messaoudi_
+
+
+_Aging, Animals, CD8-Positive T-Lymphocytes, Cross-Sectional Studies, Female, Lung, Macaca mulatta, Male_
+Older individuals are at increased risk of developing severe respiratory infections. However, our understanding of the impact of aging on the respiratory tract remains limited as samples from healthy humans are challenging to obtain and results can be confounded by variables such as smoking and diet. Here, we carry out a comprehensive cross-sectional study (n = 34 adult, n = 49 aged) to define the consequences of aging on the lung using the rhesus macaque model. Pulmonary function testing establishes similar age and sex differences as humans. Additionally, we report increased abundance of alveolar and infiltrating macrophages and a concomitant decrease in T cells were in aged animals. scRNAseq reveals shifts from GRZMB to IFN expressing CD8+ T cells in the lungs. These data provide insight into age-related changes in the lungs' functional, microbial, and immunological landscape that explain increased prevalence and severity of respiratory diseases in the elderly.
 
 [Source](https://doi.org/10.1016/j.celrep.2022.110725)
 
+10.1016/j.celrep.2022.110725
+
 ---
 
-## Characterisation of the symbionts in the Mediterranean fruit fly gut
+## Characterisation of the symbionts in the Mediterranean fruit fly gut.
+ 22.04.2022, _M Darrington, PT Leftwich, NA Holmes, LA Friend, NVE Clarke, SF Worsley, JT Margaritopolous, SA Hogenhout, MI Hutchings, T Chapman_
+
+
+Symbioses between bacteria and their insect hosts can range from loose associations through to obligate interdependence. While fundamental evolutionary insights have been gained from the in-depth study of obligate mutualisms, there is increasing interest in the evolutionary potential of flexible symbiotic associations between hosts and their gut microbiomes. Understanding relationships between microbes and hosts also offers the potential for exploitation for insect control. Here, we investigate the gut microbiome of a global agricultural pest, the Mediterranean fruit fly (Ceratitis capitata). We used 16S rRNA profiling to compare the gut microbiomes of laboratory and wild strains raised on different diets and from flies collected from various natural plant hosts. The results showed that medfly guts harbour a simple microbiome that is primarily determined by the larval diet. However, regardless of the laboratory diet or natural plant host on which flies were raised, Klebsiella spp. dominated medfly microbiomes and were resistant to removal by antibiotic treatment. We sequenced the genome of the dominant putative Klebsiella spp. ('Medkleb') isolated from the gut of the Toliman wild-type strain. Genome-wide ANI analysis placed Medkleb within the K. oxytoca / michiganensis group. Species level taxonomy for Medkleb was resolved using a mutli-locus phylogenetic approach - and molecular, sequence and phenotypic analyses all supported its identity as K. michiganensis. Medkleb has a genome size (5825435 bp) which is 1.6 standard deviations smaller than the mean genome size of free-living Klebsiella spp. Medkleb also lacks some genes involved in environmental sensing. Moreover, the Medkleb genome contains at least two recently acquired unique genomic islands as well as genes that encode pectinolytic enzymes capable of degrading plant cell walls. This may be advantageous given that the medfly diet includes unripe fruits containing high proportions of pectin. The results suggest that the medfly harbours a commensal gut bacterium that may have developed a mutualistic association with its host and provide nutritional benefits.
 
 [Source](https://doi.org/10.1099/mgen.0.000801)
 
+10.1099/mgen.0.000801
+
 ---
 
-## Stability of the Microbiome of the Sponge Mycale (Oxymycale) acerata in the Western Antarctic Peninsula
+## Stability of the Microbiome of the Sponge Mycale (Oxymycale) acerata in the Western Antarctic Peninsula.
+ 23.04.2022, _L Happel, R Rondon, A Font, M González-Aravena, CA Cárdenas_
+
+
+The sponge microbiome, especially in Low Microbial Abundance (LMA) species, is expected to be influenced by the local environment; however, contrasting results exist with evidence showing that host specificity is also important, hence suggesting that the microbiome is influenced by host-specific and environmental factors. Despite sponges being important members of Southern Ocean benthic communities, their relationships with the microbial communities they host remain poorly studied. Here, we studied the spatial and temporal patterns of the microbiota associated with the ecologically important LMA sponge M. acerata at sites along ∼400 km of the Western Antarctic Peninsula (WAP) to assess patterns in the core and variable microbial components of the symbiont communities of this sponge species. The analyses of 31 samples revealed that the microbiome of M. acerata is composed of 35 prokaryotic phyla (3 Archaea, 31 Bacteria, and one unaffiliated), being mainly dominated by Proteobacteria with Gammaproteobacteria as the most dominant class. The core community was composed of six prokaryotic OTUs, with gammaproteobacterial OTU (EC94 Family), showing a mean abundance over 65% of the total abundance. Despite some differences in rare OTUs, the core community did not show clear patterns in diversity and abundance associated with specific sites/environmental conditions, confirming a low variability in community structure of this species along the WAP. The analysis at small scale (Doumer Island, Palmer Archipelago) showed no differences in space and time in the microbiome M. acerata collected at sites around the island, sampled in three consecutive years (2016-2018). Our results highlight the existence of a low spatial and temporal variability in the microbiome of M. acerata, supporting previous suggestions based on limited studies on this and other Antarctic sponges.
 
 [Source](https://doi.org/10.3389/fmicb.2022.827863)
 
+10.3389/fmicb.2022.827863
+
 ---
 
-## Gut Microbiota-Testis Axis: FMT Mitigates High-Fat Diet-Diminished Male Fertility via Improving Systemic and Testicular Metabolome
+## Gut Microbiota-Testis Axis: FMT Mitigates High-Fat Diet-Diminished Male Fertility via Improving Systemic and Testicular Metabolome.
+ 21.04.2022, _Y Hao, Y Feng, X Yan, L Chen, X Ma, X Tang, R Zhong, Z Sun, M Agarwal, H Zhang, Y Zhao_
+
+
+High-fat diet (HFD)-induced obesity is known to be associated with reduced male fertility and decreased semen quality in humans. HFD-related male infertility is a growing issue worldwide, and it is crucial to overcome this problem to ameliorate the distress of infertile couples. For the first time, we discovered that fecal microbiota transplantation (FMT) of alginate oligosaccharide (AOS)-improved gut microbiota (A10-FMT) ameliorated HFD-decreased semen quality (sperm concentration: 286.1 ± 14.1 versus 217.9 ± 17.4 million/mL; sperm motility: 40.1 ± 0.7% versus 29.0 ± 0.9%), and male fertility (pregnancy rate: 87.4 ± 1.1% versus 70.2 ± 6.1%) by benefiting blood and testicular metabolome. A10-FMT improved HFD-disturbed gut microbiota by increasing gut Bacteroides (colon: 24.9 ± 1.1% versus 8.3 ± 0.6%; cecum: 10.2 ± 0.7% versus 3.6 ± 0.7%) and decreasing Mucispirillum (colon: 0.3 ± 0.1% versus 2.8 ± 0.4%; cecum: 2.3 ± 0.5% versus 6.6 ± 0.7%). A10-FMT benefited gut microbiota to improve liver function by adjusting lipid metabolism to produce n-3 polyunsaturated fatty acids, such as eicosapentaenoic acid (blood: 55.5 ± 18.7 versus 20.3 ± 2.4) and docosahexaenoic acid (testis: 121.2 ± 6.2 versus 89.4 ± 6.7), thus ameliorating HFD-impaired testicular microenvironment to rescue spermatogenesis and increase semen quality and fertility. The findings indicated that AOS-improved gut microbiota may be a promising strategy to treat obesity or metabolic issues-related male infertility in the future. IMPORTANCE HFD decreases male fertility via upsetting gut microbiota and transplantation of AOS-benefited gut microbiota (A10-FMT) improves gut microbiota to ameliorate HFD-reduced male fertility. Moreover, A10-FMT improved liver function to benefit the blood metabolome and simultaneously ameliorated the testicular microenvironment to turn the spermatogenesis process on. We demonstrated that AOS-benefited gut microbiota could be applied to treat infertile males with obesity and metabolic issues induced by HFD.
 
 [Source](https://doi.org/10.1128/spectrum.00028-22)
+
+10.1128/spectrum.00028-22
 
 ---
 
@@ -187,7 +254,7 @@ The root bacterial microbiome is important for the general health of the plant. 
 ---
 
 ## Chemotaxis shapes the microscale organization of the ocean's microbiome.
- 21.04.2022, _JB Raina, BS Lambert, DH Parks, C Rinke, N Siboni, A Bramucci, M Ostrowski, B Signal, A Lutz, H Mendis, F Rubino, VI Fernandez, R Stocker, P Hugenholtz, GW Tyson, JR Seymour_
+ 23.04.2022, _JB Raina, BS Lambert, DH Parks, C Rinke, N Siboni, A Bramucci, M Ostrowski, B Signal, A Lutz, H Mendis, F Rubino, VI Fernandez, R Stocker, P Hugenholtz, GW Tyson, JR Seymour_
 
 
 The capacity of planktonic marine microorganisms to actively seek out and exploit microscale chemical hotspots has been widely theorized to affect ocean-basin scale biogeochemistry1-3, but has never been examined comprehensively in situ among natural microbial communities. Here, using a field-based microfluidic platform to quantify the behavioural responses of marine bacteria and archaea, we observed significant levels of chemotaxis towards microscale hotspots of phytoplankton-derived dissolved organic matter (DOM) at a coastal field site across multiple deployments, spanning several months. Microscale metagenomics revealed that a wide diversity of marine prokaryotes, spanning 27 bacterial and 2 archaeal phyla, displayed chemotaxis towards microscale patches of DOM derived from ten globally distributed phytoplankton species. The distinct DOM composition of each phytoplankton species attracted phylogenetically and functionally discrete populations of bacteria and archaea, with 54% of chemotactic prokaryotes displaying highly specific responses to the DOM derived from only one or two phytoplankton species. Prokaryotes exhibiting chemotaxis towards phytoplankton-derived compounds were significantly enriched in the capacity to transport and metabolize specific phytoplankton-derived chemicals, and displayed enrichment in functions conducive to symbiotic relationships, including genes involved in the production of siderophores, B vitamins and growth-promoting hormones. Our findings demonstrate that the swimming behaviour of natural prokaryotic assemblages is governed by specific chemical cues, which dictate important biogeochemical transformation processes and the establishment of ecological interactions that structure the base of the marine food web.
@@ -242,7 +309,7 @@ Bacterial lineages that populate the human gut microbiota contend with spatial a
 ---
 
 ## Method for absolute quantification of short chain fatty acids via reverse phase chromatography mass spectrometry.
- 22.04.2022, _DG Bihan, T Rydzak, M Wyss, K Pittman, KD McCoy, IA Lewis_
+ 23.04.2022, _DG Bihan, T Rydzak, M Wyss, K Pittman, KD McCoy, IA Lewis_
 
 
 _Acetates, Chromatography, Liquid, Chromatography, Reverse-Phase, Fatty Acids, Volatile, Tandem Mass Spectrometry_
