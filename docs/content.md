@@ -89,15 +89,27 @@ Necrotizing enterocolitis (NEC) is a serious consequence of preterm birth and is
 
 ---
 
-## Smallpox vaccination induces a substantial increase in commensal skin bacteria that promote pathology and influence the host response
+## Smallpox vaccination induces a substantial increase in commensal skin bacteria that promote pathology and influence the host response.
+ 24.04.2022, _EV Shmeleva, M Gomez de Agüero, J Wagner, AJ Enright, AJ Macpherson, BJ Ferguson, GL Smith_
+
+
+Interactions between pathogens, host microbiota and the immune system influence many physiological and pathological processes. In the 20th century, widespread dermal vaccination with vaccinia virus (VACV) led to the eradication of smallpox but how VACV interacts with the microbiota and whether this influences the efficacy of vaccination are largely unknown. Here we report that intradermal vaccination with VACV induces a large increase in the number of commensal bacteria in infected tissue, which enhance recruitment of inflammatory cells, promote tissue damage and influence the host response. Treatment of vaccinated specific-pathogen-free (SPF) mice with antibiotic, or infection of genetically-matched germ-free (GF) animals caused smaller lesions without alteration in virus titre. Tissue damage correlated with enhanced neutrophil and T cell infiltration and levels of pro-inflammatory tissue cytokines and chemokines. One month after vaccination, GF and both groups of SPF mice had equal numbers of VACV-specific CD8+ T cells and were protected from disease induced by VACV challenge, despite lower levels of VACV-neutralising antibodies observed in GF animals. Thus, skin microbiota may provide an adjuvant-like stimulus during vaccination with VACV and influence the host response to vaccination.
 
 [Source](https://doi.org/10.1371/journal.ppat.1009854)
 
+10.1371/journal.ppat.1009854
+
 ---
 
-## Integrated fecal microbiome-metabolome signatures reflect stress and serotonin metabolism in irritable bowel syndrome
+## Integrated fecal microbiome-metabolome signatures reflect stress and serotonin metabolism in irritable bowel syndrome.
+ 22.04.2022, _Z Mujagic, M Kasapi, DM Jonkers, I Garcia-Perez, L Vork, ZZRM Weerts, JI Serrano-Contreras, A Zhernakova, A Kurilshikov, J Scotcher, E Holmes, C Wijmenga, D Keszthelyi, JK Nicholson, JM Posma, AA Masclee_
+
+
+To gain insight into the complex microbiome-gut-brain axis in irritable bowel syndrome (IBS), several modalities of biological and clinical data must be combined. We aimed to identify profiles of fecal microbiota and metabolites associated with IBS and to delineate specific phenotypes of IBS that represent potential pathophysiological mechanisms. Fecal metabolites were measured using proton nuclear magnetic resonance (1H-NMR) spectroscopy and gut microbiome using shotgun metagenomic sequencing (MGS) in a combined dataset of 142 IBS patients and 120 healthy controls (HCs) with extensive clinical, biological and phenotype information. Data were analyzed using support vector classification and regression and kernel t-SNE. Microbiome and metabolome profiles could distinguish IBS and HC with an area-under-the-receiver-operator-curve of 77.3% and 79.5%, respectively, but this could be improved by combining microbiota and metabolites to 83.6%. No significant differences in predictive ability of the microbiome-metabolome data were observed between the three classical, stool pattern-based, IBS subtypes. However, unsupervised clustering showed distinct subsets of IBS patients based on fecal microbiome-metabolome data. These clusters could be related plasma levels of serotonin and its metabolite 5-hydroxyindoleacetate, effects of psychological stress on gastrointestinal (GI) symptoms, onset of IBS after stressful events, medical history of previous abdominal surgery, dietary caloric intake and IBS symptom duration. Furthermore, pathways in metabolic reaction networks were integrated with microbiota data, that reflect the host-microbiome interactions in IBS. The identified microbiome-metabolome signatures for IBS, associated with altered serotonin metabolism and unfavorable stress response related to GI symptoms, support the microbiota-gut-brain link in the pathogenesis of IBS.
 
 [Source](https://doi.org/10.1080/19490976.2022.2063016)
+
+10.1080/19490976.2022.2063016
 
 ---
 
