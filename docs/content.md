@@ -36,7 +36,7 @@ There is emerging evidence that diet has a major modulatory influence on brain-g
 ---
 
 ## Longitudinal analysis of the impact of oral contraceptive use on the gut microbiome.
- 22.04.2022, _X Hua, Y Cao, DM Morgan, K Miller, SM Chin, D Bellavance, H Khalili_
+ 25.04.2022, _X Hua, Y Cao, DM Morgan, K Miller, SM Chin, D Bellavance, H Khalili_
 
 
 Introduction. Evidence has linked exogenous and endogenous sex hormones with the human microbiome.Hypothesis/Gap statement. The longitudinal effects of oral contraceptives (OC) on the human gut microbiome have not previously been studied.Aim. We sought to examine the longitudinal impact of OC use on the taxonomic composition and metabolic functions of the gut microbiota and endogenous sex steroid hormones after initiation of OC use.Methodology. We recruited ten healthy women who provided blood and stool samples prior to OC use, 1 month and 6 months after starting OC. We measured serum levels of sex hormones, including estradiol, progesterone, sex hormone-binding globulin (SHBG), and total testosterone. Shotgun metagenomic sequencing was performed on DNA extracted from faecal samples. Species and metabolic pathway abundances were determined using MetaPhlAn2 and HUMAnN2. Multivariate association with linear models was used to identify microbial species and metabolic pathways associated with OC use and endogenous levels of sex hormones.Results. The percentage variance of the microbial community explained by individual factors ranged from 9.9 % for age to 2.7 % for time since initiation of OC use. We observed no changes in the diversity or composition of the gut microbiome following OC initiation. However, the relative abundance of the biosynthesis pathways of peptidoglycan, amino acids (lysine, threonine, methionine, and tryptophan), and the NAD salvage pathway increased after OC initiation. In addition, serum levels of estradiol and SHBG were positively associated with Eubacterium ramulus, a flavonoid-degrading bacterium. Similarly, microbes involving biosynthesis of l-lysine, l-threonine, and l-methionine were significantly associated with lower estradiol, SHBG, and higher levels of total testosterone.Conclusion. Our study provides the first piece of evidence supporting the association between exogenous and endogenous sex hormones and gut microbiome composition and function.
@@ -65,15 +65,9 @@ Necrotizing enterocolitis (NEC) is a serious consequence of preterm birth and is
 
 ---
 
-## Alterations of mucosa-attached microbiome and epithelial cell numbers in the cystic fibrosis small intestine with implications for intestinal disease.
- 22.04.2022, _J Kelly, M Al-Rammahi, K Daly, PK Flanagan, A Urs, MC Cohen, G di Stefano, MJC Bijvelds, DN Sheppard, HR de Jonge, UE Seidler, SP Shirazi-Beechey_
-
-
-Cystic fibrosis (CF) is caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Defective CFTR leads to accumulation of dehydrated viscous mucus within the small intestine, luminal acidification and altered intestinal motility, resulting in blockage. These changes promote gut microbial dysbiosis, adversely influencing the normal proliferation and differentiation of intestinal epithelial cells. Using Illumina 16S rRNA gene sequencing and immunohistochemistry, we assessed changes in mucosa-attached microbiome and epithelial cell profile in the small intestine of CF mice and a CF patient compared to wild-type mice and non-CF humans. We found increased abundance of pro-inflammatory Escherichia and depletion of beneficial secondary bile-acid producing bacteria in the ileal mucosa-attached microbiome of CFTR-null mice. The ileal mucosa in a CF patient was dominated by a non-aeruginosa Pseudomonas species and lacked numerous beneficial anti-inflammatory and short-chain fatty acid-producing bacteria. In the ileum of both CF mice and a CF patient, the number of absorptive enterocytes, Paneth and glucagon-like peptide 1 and 2 secreting L-type enteroendocrine cells were decreased, whereas stem and goblet cell numbers were increased. These changes in mucosa-attached microbiome and epithelial cell profile suggest that microbiota-host interactions may contribute to intestinal CF disease development with implications for therapy.
+## Alterations of mucosa-attached microbiome and epithelial cell numbers in the cystic fibrosis small intestine with implications for intestinal disease
 
 [Source](https://doi.org/10.1038/s41598-022-10328-3)
-
-10.1038/s41598-022-10328-3
 
 ---
 
@@ -107,21 +101,39 @@ Cystic fibrosis (CF) is caused by mutations in the cystic fibrosis transmembrane
 
 ---
 
-## Multi-omics analyses of serum metabolome, gut microbiome and brain function reveal dysregulated microbiota-gut-brain axis in bipolar depression
+## Multi-omics analyses of serum metabolome, gut microbiome and brain function reveal dysregulated microbiota-gut-brain axis in bipolar depression.
+ 22.04.2022, _Z Li, J Lai, P Zhang, J Ding, J Jiang, C Liu, H Huang, H Zhen, C Xi, Y Sun, L Wu, L Wang, X Gao, Y Li, Y Fu, Z Jie, S Li, D Zhang, Y Chen, Y Zhu, S Lu, J Lu, D Wang, H Zhou, X Yuan, X Li, L Pang, M Huang, H Yang, W Zhang, S Brix, K Kristiansen, X Song, C Nie, S Hu_
+
+
+The intricate processes of microbiota-gut-brain communication in modulating human cognition and emotion, especially in the context of mood disorders, have remained elusive. Here we performed faecal metagenomic, serum metabolomics and neuroimaging studies on a cohort of 109 unmedicated patients with depressed bipolar disorder (BD) patients and 40 healthy controls (HCs) to characterise the microbial-gut-brain axis in BD. Across over 12,000 measured metabolic features, we observed a large discrepancy (73.54%) in the serum metabolome between BD patients and HCs, spotting differentially abundant microbial-derived neuroactive metabolites including multiple B-vitamins, kynurenic acid, gamma-aminobutyric acid and short-chain fatty acids. These metabolites could be linked to the abundance of gut microbiota presented with corresponding biosynthetic potentials, including Akkermansia muciniphila, Citrobacter spp. (Citrobacter freundii and Citrobacter werkmanii), Phascolarctobacterium spp., Yersinia spp. (Yersinia frederiksenii and Yersinia aleksiciae), Enterobacter spp. (Enterobacter cloacae and Enterobacter kobei) and Flavobacterium spp. Based on functional neuroimaging, BD-related neuroactive microbes and metabolites were discovered as potential markers associated with BD-typical features of functional connectivity of brain networks, hinting at aberrant cognitive function, emotion regulation, and interoception. Our study combines gut microbiota and neuroactive metabolites with brain functional connectivity, thereby revealing potential signalling pathways from the microbiota to the gut and the brain, which may have a role in the pathophysiology of BD.
 
 [Source](https://doi.org/10.1038/s41380-022-01569-9)
 
+10.1038/s41380-022-01569-9
+
 ---
 
-## Abnormal gut microbiota and bile acids in patients with first-episode major depressive disorder and the correlation analysis
+## Abnormal gut microbiota and bile acids in patients with first-episode major depressive disorder and the correlation analysis.
+ 21.04.2022, _N Sun, J Zhang, J Wang, Z Liu, X Wang, P Kang, C Yang, P Liu, K Zhang_
+
+
+Gut microbiota and its metabolite bile acids may play a significant role in the occurrence and development of major depressive disorder (MDD). Therefore, this study analyzes gut microbiota and bile acids, as well as their correlation in patients.
 
 [Source](https://doi.org/10.1111/pcn.13368)
 
+10.1111/pcn.13368
+
 ---
 
-## Analysis of the Vulvar Skin Microbiota in Asymptomatic Women and Patients With Vulvar Lichen Sclerosus Based on 16S rRNA Sequencing
+## Analysis of the Vulvar Skin Microbiota in Asymptomatic Women and Patients With Vulvar Lichen Sclerosus Based on 16S rRNA Sequencing.
+ 23.04.2022, _X Liu, Y Zhuo, Y Zhou, J Hu, H Wen, C Xiao_
+
+
+Vulvar lichen sclerosus (VLS) is a chronic inflammatory skin disease that brings life-long and psychological distress to patients. It remains unclear whether this condition is related to changes in the skin microbial community. The aim of this study was to evaluate the compositional characteristics of the vulvar skin microbiota between VLS patients and asymptomatic postmenopausal women. We included 60 cases of postmenopausal patients in the outpatient vulvar clinic of Peking University First Hospital from August 2020 to October 2020. Thirty-one patients were diagnosed with VLS by vulvar skin biopsy (VLS group), while 29 women were asymptomatic volunteers (control group). DNA was extracted from vulvar skin swabs of the VLS and control groups. The V3-V4 fragments of 16S rRNA were targeted for high-throughput sequencing and gene sequence analysis. The sequencing results were analysed by α diversity, β diversity, species composition, LEfSe analysis to compare the compositional differences of the vulvar skin microbiota between the two groups. Our study revealed that at the phylum level, patients with VLS had a lower relative abundance of Firmicutes (p &lt; 0.0001) and a higher relative abundance of Proteobacteria than the control group (p &lt; 0.0001). At the genus level, Lactobacillus spp. accounted for the largest proportion of the microflora in the asymptomatic controls, while the proportion of Prevotella spp. in the VLS group was the highest. In the VLS group, the relative abundance of Finegoldia spp., Ralstonia spp., Peptoniphilus spp., Anaerococcus spp., Campylobacter spp., Providencia spp. Kelbsiella spp., Ezakiella spp., and Escherichia-Shigella spp. was significantly increased compared with the control group. Although there was no significant difference in the α diversity of the vulvar skin microbiota, the β diversity differed significantly between the two groups.
 
 [Source](https://doi.org/10.3389/fcell.2022.842031)
+
+10.3389/fcell.2022.842031
 
 ---
 
@@ -131,21 +143,41 @@ Cystic fibrosis (CF) is caused by mutations in the cystic fibrosis transmembrane
 
 ---
 
-## Functional, transcriptional, and microbial shifts associated with healthy pulmonary aging in rhesus macaques
+## Functional, transcriptional, and microbial shifts associated with healthy pulmonary aging in rhesus macaques.
+ 22.04.2022, _NS Rhoades, M Davies, SA Lewis, IR Cinco, SG Kohama, LE Bermudez, KL Winthrop, C Fuss, JA Mattison, ER Spindel, I Messaoudi_
+
+
+_Aging, Animals, CD8-Positive T-Lymphocytes, Cross-Sectional Studies, Female, Lung, Macaca mulatta, Male_
+Older individuals are at increased risk of developing severe respiratory infections. However, our understanding of the impact of aging on the respiratory tract remains limited as samples from healthy humans are challenging to obtain and results can be confounded by variables such as smoking and diet. Here, we carry out a comprehensive cross-sectional study (n = 34 adult, n = 49 aged) to define the consequences of aging on the lung using the rhesus macaque model. Pulmonary function testing establishes similar age and sex differences as humans. Additionally, we report increased abundance of alveolar and infiltrating macrophages and a concomitant decrease in T cells were in aged animals. scRNAseq reveals shifts from GRZMB to IFN expressing CD8+ T cells in the lungs. These data provide insight into age-related changes in the lungs' functional, microbial, and immunological landscape that explain increased prevalence and severity of respiratory diseases in the elderly.
 
 [Source](https://doi.org/10.1016/j.celrep.2022.110725)
 
+10.1016/j.celrep.2022.110725
+
 ---
 
-## Characterisation of the symbionts in the Mediterranean fruit fly gut
+## Characterisation of the symbionts in the Mediterranean fruit fly gut.
+ 25.04.2022, _M Darrington, PT Leftwich, NA Holmes, LA Friend, NVE Clarke, SF Worsley, JT Margaritopolous, SA Hogenhout, MI Hutchings, T Chapman_
+
+
+_Animals, Bacteria, Ceratitis capitata, Klebsiella, Phylogeny, RNA, Ribosomal, 16S, Symbiosis_
+Symbioses between bacteria and their insect hosts can range from loose associations through to obligate interdependence. While fundamental evolutionary insights have been gained from the in-depth study of obligate mutualisms, there is increasing interest in the evolutionary potential of flexible symbiotic associations between hosts and their gut microbiomes. Understanding relationships between microbes and hosts also offers the potential for exploitation for insect control. Here, we investigate the gut microbiome of a global agricultural pest, the Mediterranean fruit fly (Ceratitis capitata). We used 16S rRNA profiling to compare the gut microbiomes of laboratory and wild strains raised on different diets and from flies collected from various natural plant hosts. The results showed that medfly guts harbour a simple microbiome that is primarily determined by the larval diet. However, regardless of the laboratory diet or natural plant host on which flies were raised, Klebsiella spp. dominated medfly microbiomes and were resistant to removal by antibiotic treatment. We sequenced the genome of the dominant putative Klebsiella spp. ('Medkleb') isolated from the gut of the Toliman wild-type strain. Genome-wide ANI analysis placed Medkleb within the K. oxytoca / michiganensis group. Species level taxonomy for Medkleb was resolved using a mutli-locus phylogenetic approach - and molecular, sequence and phenotypic analyses all supported its identity as K. michiganensis. Medkleb has a genome size (5825435 bp) which is 1.6 standard deviations smaller than the mean genome size of free-living Klebsiella spp. Medkleb also lacks some genes involved in environmental sensing. Moreover, the Medkleb genome contains at least two recently acquired unique genomic islands as well as genes that encode pectinolytic enzymes capable of degrading plant cell walls. This may be advantageous given that the medfly diet includes unripe fruits containing high proportions of pectin. The results suggest that the medfly harbours a commensal gut bacterium that may have developed a mutualistic association with its host and provide nutritional benefits.
 
 [Source](https://doi.org/10.1099/mgen.0.000801)
 
+10.1099/mgen.0.000801
+
 ---
 
-## Stability of the Microbiome of the Sponge Mycale (Oxymycale) acerata in the Western Antarctic Peninsula
+## Stability of the Microbiome of the Sponge Mycale (Oxymycale) acerata in the Western Antarctic Peninsula.
+ 23.04.2022, _L Happel, R Rondon, A Font, M González-Aravena, CA Cárdenas_
+
+
+The sponge microbiome, especially in Low Microbial Abundance (LMA) species, is expected to be influenced by the local environment; however, contrasting results exist with evidence showing that host specificity is also important, hence suggesting that the microbiome is influenced by host-specific and environmental factors. Despite sponges being important members of Southern Ocean benthic communities, their relationships with the microbial communities they host remain poorly studied. Here, we studied the spatial and temporal patterns of the microbiota associated with the ecologically important LMA sponge M. acerata at sites along ∼400 km of the Western Antarctic Peninsula (WAP) to assess patterns in the core and variable microbial components of the symbiont communities of this sponge species. The analyses of 31 samples revealed that the microbiome of M. acerata is composed of 35 prokaryotic phyla (3 Archaea, 31 Bacteria, and one unaffiliated), being mainly dominated by Proteobacteria with Gammaproteobacteria as the most dominant class. The core community was composed of six prokaryotic OTUs, with gammaproteobacterial OTU (EC94 Family), showing a mean abundance over 65% of the total abundance. Despite some differences in rare OTUs, the core community did not show clear patterns in diversity and abundance associated with specific sites/environmental conditions, confirming a low variability in community structure of this species along the WAP. The analysis at small scale (Doumer Island, Palmer Archipelago) showed no differences in space and time in the microbiome M. acerata collected at sites around the island, sampled in three consecutive years (2016-2018). Our results highlight the existence of a low spatial and temporal variability in the microbiome of M. acerata, supporting previous suggestions based on limited studies on this and other Antarctic sponges.
 
 [Source](https://doi.org/10.3389/fmicb.2022.827863)
+
+10.3389/fmicb.2022.827863
 
 ---
 
