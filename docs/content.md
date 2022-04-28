@@ -149,9 +149,10 @@ Growing evidences show a direct link between diarrhea and disorders of gut micro
 ---
 
 ## Shotgun metagenomic sequencing revealed the prebiotic potential of a grain-based diet in mice.
- 26.04.2022, _A Jangid, S Fukuda, Y Suzuki, TD Taylor, H Ohno, T Prakash_
+ 27.04.2022, _A Jangid, S Fukuda, Y Suzuki, TD Taylor, H Ohno, T Prakash_
 
 
+_Animals, Cellulose, Diet, Dietary Fiber, Edible Grain, Lactobacillus, Metagenome, Metagenomics, Mice, Prebiotics_
 In the present study, we elucidated the effect of grain-based (GB) diet containing both soluble and insoluble fibers and purified ingredients-based (PIB) diet containing only insoluble fiber, namely cellulose on mice gut microbiome using whole shotgun based metagenomic sequencing. Although the fiber content in both diet types is the same (5%) the presence of soluble fiber only in the GB diet differentiates it from the PIB diet. The taxonomic analysis of sequenced reads reveals a significantly higher enrichment of probiotic Lactobacilli in the GB group as compared to the PIB group. Further, the enhancement of energy expensive cellular processes namely, cell cycle control, cell division, chromosome partitioning, and transcription is observed in the GB group which could be due to the metabolization of the soluble fiber for faster energy production. In contrast, a higher abundance of cellulolytic bacterial community namely, the members of family Lachnospiraceae and Ruminococcaceae and the metabolism functions are found in the PIB group. The PIB group shows a significant increase in host-derived oligosaccharide metabolism functions indicating that they might first target the host-derived oligosaccharides and self-stored glycogen in addition to utilising the available cellulose. In addition to the beneficial microbial community variations, both the groups also exhibited an increased abundance of opportunistic pathobionts which could be due to an overall low amount of fiber in the diet. Furthermore, backtracing analysis identified probiotic members of Lactobacillus, viz., L. crispatus ST1, L. fermentum CECT 5716, L. gasseri ATCC 33323, L. johnsonii NCC 533 and L. reuteri 100-23 in the GB group, while Bilophila wadsworthia 3_1_6, Desulfovibrio piger ATCC 29098, Clostridium symbiosum WAL-14163, and Ruminococcaceae bacterium D16 in the PIB group. These data suggest that Lactobacilli, a probiotic community of microorganisms, are the predominant functional contributors in the gut of GB diet-fed mice, whereas pathobionts too coexisted with commensals in the gut microbiome of the PIB group. Thus at 5% fiber, GB modifies the gut microbial ecology more effectively than PIB and the inclusion of soluble fiber in the GB diet may be one of the primary factors responsible for this impact.
 
 [Source](https://www.nature.com/articles/s41598-022-10762-3)
@@ -192,9 +193,10 @@ Overweight and obesity are growing health problems in domestic cats, increasing 
 ---
 
 ## Species divergence in gut-restricted bacteria of social bees.
- 25.04.2022, _Y Li, SP Leonard, JE Powell, NA Moran_
+ 27.04.2022, _Y Li, SP Leonard, JE Powell, NA Moran_
 
 
+_Adaptation, Physiological, Animals, Bacteria, Bees, Gastrointestinal Microbiome, Host Specificity, Microbiota_
 SignificanceThe diversification of host-associated microbial communities depends on barriers to gene flow, imposed by confinement to different hosts or by niche partitioning within single hosts. However, most gut microbiomes are too complex to disentangle the diversification processes. Taking advantage of the simple gut microbiomes of social bees, we demonstrate that bee gut bacteria have diversified both between host species and within single host species through the acquisition of different ecological niches within the same gut. Our study further shows that gut microbiomes differ in spatial distributions within the same host, possibility due to adaptation to specified nutritional niches, such as urea utilization.
 
 [Source](https://www.pnas.org/doi/full/10.1073/pnas.2115013119)
