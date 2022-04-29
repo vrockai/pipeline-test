@@ -76,7 +76,7 @@ The objective of this study was to describe and compare the dynamic microbiota c
 ---
 
 ## A multi-omics machine learning framework in predicting the survival of colorectal cancer patients.
- 25.04.2022, _M Yang, H Yang, L Ji, X Hu, G Tian, B Wang, J Yang_
+ 28.04.2022, _M Yang, H Yang, L Ji, X Hu, G Tian, B Wang, J Yang_
 
 
 Colorectal cancer (CRC), the 3rd most universal cancer globally, accounts for approximately 10% of newly diagnosed cancer incidences each year. Identifying biomarkers associated with CRC survival and predicting the survival of CRC patients are critical for personalized therapy. Existing studies on CRC survival are mainly based on single omics, studies using multi-omics to predict CRC survival are still vacant. To fill in this gap, we aim to identify biomarkers associated with CRC survival at mRNA, miRNA and tissue microbiome levels, and to evaluate the accuracy of potential biomarkers in predicting CRC survival.
@@ -100,9 +100,10 @@ The gut microbiome is a contributory factor in ageing-related health loss and in
 ---
 
 ## Multiple sclerosis patients have an altered gut mycobiome and increased fungal to bacterial richness.
- 26.04.2022, _M Yadav, S Ali, RL Shrode, SK Shahi, SN Jensen, J Hoang, S Cassidy, H Olalde, N Guseva, M Paullus, C Cherwin, K Wang, T Cho, J Kamholz, AK Mangalam_
+ 28.04.2022, _M Yadav, S Ali, RL Shrode, SK Shahi, SN Jensen, J Hoang, S Cassidy, H Olalde, N Guseva, M Paullus, C Cherwin, K Wang, T Cho, J Kamholz, AK Mangalam_
 
 
+_Ascomycota, Bacteria, Dysbiosis, Fungi, Humans, Multiple Sclerosis, Mycobiome, RNA, Ribosomal, 16S_
 Trillions of microbes such as bacteria, fungi, and viruses exist in the healthy human gut microbiome. Although gut bacterial dysbiosis has been extensively studied in multiple sclerosis (MS), the significance of the fungal microbiome (mycobiome) is an understudied and neglected part of the intestinal microbiome in MS. The aim of this study was to characterize the gut mycobiome of patients with relapsing-remitting multiple sclerosis (RRMS), compare it to healthy controls, and examine its association with changes in the bacterial microbiome. We characterized and compared the mycobiome of 20 RRMS patients and 33 healthy controls (HC) using Internal Transcribed Spacer 2 (ITS2) and compared mycobiome interactions with the bacterial microbiome using 16S rRNA sequencing. Our results demonstrate an altered mycobiome in RRMS patients compared with HC. RRMS patients showed an increased abundance of Basidiomycota and decreased Ascomycota at the phylum level with an increased abundance of Candida and Epicoccum genera along with a decreased abundance of Saccharomyces compared to HC. We also observed an increased ITS2/16S ratio, altered fungal and bacterial associations, and altered fungal functional profiles in MS patients compared to HC. This study demonstrates that RRMS patients had a distinct mycobiome with associated changes in the bacterial microbiome compared to HC. There is an increased fungal to bacterial ratio as well as more diverse fungal-bacterial interactions in RRMS patients compared to HC. Our study is the first step towards future studies in delineating the mechanisms through which the fungal microbiome can influence MS disease.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264556)
