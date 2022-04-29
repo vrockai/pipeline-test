@@ -76,7 +76,7 @@ The objective of this study was to describe and compare the dynamic microbiota c
 ---
 
 ## A multi-omics machine learning framework in predicting the survival of colorectal cancer patients.
- 28.04.2022, _M Yang, H Yang, L Ji, X Hu, G Tian, B Wang, J Yang_
+ 29.04.2022, _M Yang, H Yang, L Ji, X Hu, G Tian, B Wang, J Yang_
 
 
 Colorectal cancer (CRC), the 3rd most universal cancer globally, accounts for approximately 10% of newly diagnosed cancer incidences each year. Identifying biomarkers associated with CRC survival and predicting the survival of CRC patients are critical for personalized therapy. Existing studies on CRC survival are mainly based on single omics, studies using multi-omics to predict CRC survival are still vacant. To fill in this gap, we aim to identify biomarkers associated with CRC survival at mRNA, miRNA and tissue microbiome levels, and to evaluate the accuracy of potential biomarkers in predicting CRC survival.
