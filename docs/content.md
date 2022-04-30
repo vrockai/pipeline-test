@@ -259,63 +259,33 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## DEPP: Deep Learning Enables Extending Species Trees using Single Genes.
- 29.04.2022, _Y Jiang, M Balaban, Q Zhu, S Mirarab_
-
-
-Placing new sequences onto reference phylogenies is increasingly used for analyzing environmental samples, especially microbiomes. Existing placement methods assume that query sequences have evolved under specific models directly on the reference phylogeny. For example, they assume single-gene data (e.g., 16S rRNA amplicons) have evolved under the GTR model on a gene tree. Placement, however, often has a more ambitious goal: extending a (genome-wide) species tree given data from individual genes without knowing the evolutionary model. Addressing this challenging problem requires new directions. Here, we introduce Deep-learning Enabled Phylogenetic Placement (DEPP), an algorithm that learns to extend species trees using single genes without pre-specified models. In simulations and on real data, we show that DEPP can match the accuracy of model-based methods without any prior knowledge of the model. We also show that DEPP can update the multi-locus microbial tree-of-life with single genes with high accuracy. We further demonstrate that DEPP can combine 16S and metagenomic data onto a single tree, enabling community structure analyses that take advantage of both sources of data.
+## DEPP: Deep Learning Enables Extending Species Trees using Single Genes
 
 [Source](https://doi.org/10.1093/sysbio/syac031)
 
-10.1093/sysbio/syac031
-
 ---
 
-## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments.
- 28.04.2022, _S Pan, C Zhu, XM Zhao, LP Coelho_
-
-
-Metagenomic binning is the step in building metagenome-assembled genomes (MAGs) when sequences predicted to originate from the same genome are automatically grouped together. The most widely-used methods for binning are reference-independent, operating de novo and enable the recovery of genomes from previously unsampled clades. However, they do not leverage the knowledge in existing databases. Here, we introduce SemiBin, an open source tool that uses deep siamese neural networks to implement a semi-supervised approach, i.e. SemiBin exploits the information in reference genomes, while retaining the capability of reconstructing high-quality bins that are outside the reference dataset. Using simulated and real microbiome datasets from several different habitats from GMGCv1 (Global Microbial Gene Catalog), including the human gut, non-human guts, and environmental habitats (ocean and soil), we show that SemiBin outperforms existing state-of-the-art binning methods. In particular, compared to other methods, SemiBin returns more high-quality bins with larger taxonomic diversity, including more distinct genera and species.
+## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments
 
 [Source](https://doi.org/10.1038/s41467-022-29843-y)
 
-10.1038/s41467-022-29843-y
-
 ---
 
-## Compositionally Aware Phylogenetic Beta-Diversity Measures Better Resolve Microbiomes Associated with Phenotype.
- 28.04.2022, _C Martino, D McDonald, K Cantrell, AH Dilmore, Y Vázquez-Baeza, L Shenhav, JP Shaffer, G Rahman, G Armstrong, C Allaband, SJ Song, R Knight_
-
-
-Microbiome data have several specific characteristics (sparsity and compositionality) that introduce challenges in data analysis. The integration of prior information regarding the data structure, such as phylogenetic structure and repeated-measure study designs, into analysis, is an effective approach for revealing robust patterns in microbiome data. Past methods have addressed some but not all of these challenges and features: for example, robust principal-component analysis (RPCA) addresses sparsity and compositionality; compositional tensor factorization (CTF) addresses sparsity, compositionality, and repeated measure study designs; and UniFrac incorporates phylogenetic information. Here we introduce a strategy of incorporating phylogenetic information into RPCA and CTF. The resulting methods, phylo-RPCA, and phylo-CTF, provide substantial improvements over state-of-the-art methods in terms of discriminatory power of underlying clustering ranging from the mode of delivery to adult human lifestyle. We demonstrate quantitatively that the addition of phylogenetic information improves effect size and classification accuracy in both data-driven simulated data and real microbiome data. IMPORTANCE Microbiome data analysis can be difficult because of particular data features, some unavoidable and some due to technical limitations of DNA sequencing instruments. The first step in many analyses that ultimately reveals patterns of similarities and differences among sets of samples (e.g., separating samples from sick and healthy people or samples from seawater versus soil) is calculating the difference between each pair of samples. We introduce two new methods to calculate these differences that combine features of past methods, specifically being able to take into account the principles that most types of microbes are not in most samples (sparsity), that abundances are relative rather than absolute (compositionality), and that all microbes have a shared evolutionary history (phylogeny). We show using simulated and real data that our new methods provide improved classification accuracy of ordinal sample clusters and increased effect size between sample groups on beta-diversity distances.
+## Compositionally Aware Phylogenetic Beta-Diversity Measures Better Resolve Microbiomes Associated with Phenotype
 
 [Source](https://doi.org/10.1128/msystems.00050-22)
 
-10.1128/msystems.00050-22
-
 ---
 
-## Could Artificial Intelligence/Machine Learning and Inclusion of Diet-Gut Microbiome Interactions Improve Disease Risk Prediction? Case Study: Coronary Artery Disease.
- 28.04.2022, _B Vilne, J Ķibilds, I Siksna, I Lazda, O Valciņa, A Krūmiņa_
-
-
-Coronary artery disease (CAD) is the most common cardiovascular disease (CVD) and the main leading cause of morbidity and mortality worldwide, posing a huge socio-economic burden to the society and health systems. Therefore, timely and precise identification of people at high risk of CAD is urgently required. Most current CAD risk prediction approaches are based on a small number of traditional risk factors (age, sex, diabetes, LDL and HDL cholesterol, smoking, systolic blood pressure) and are incompletely predictive across all patient groups, as CAD is a multi-factorial disease with complex etiology, considered to be driven by both genetic, as well as numerous environmental/lifestyle factors. Diet is one of the modifiable factors for improving lifestyle and disease prevention. However, the current rise in obesity, type 2 diabetes (T2D) and CVD/CAD indicates that the "one-size-fits-all" approach may not be efficient, due to significant variation in inter-individual responses. Recently, the gut microbiome has emerged as a potential and previously under-explored contributor to these variations. Hence, efficient integration of dietary and gut microbiome information alongside with genetic variations and clinical data holds a great promise to improve CAD risk prediction. Nevertheless, the highly complex nature of meals combined with the huge inter-individual variability of the gut microbiome poses several Big Data analytics challenges in modeling diet-gut microbiota interactions and integrating these within CAD risk prediction approaches for the development of personalized decision support systems (DSS). In this regard, the recent re-emergence of Artificial Intelligence (AI) / Machine Learning (ML) is opening intriguing perspectives, as these approaches are able to capture large and complex matrices of data, incorporating their interactions and identifying both linear and non-linear relationships. In this Mini-Review, we consider (1) the most used AI/ML approaches and their different use cases for CAD risk prediction (2) modeling of the content, choice and impact of dietary factors on CAD risk; (3) classification of individuals by their gut microbiome composition into CAD cases vs. controls and (4) modeling of the diet-gut microbiome interactions and their impact on CAD risk. Finally, we provide an outlook for putting it all together for improved CAD risk predictions.
+## Could Artificial Intelligence/Machine Learning and Inclusion of Diet-Gut Microbiome Interactions Improve Disease Risk Prediction? Case Study: Coronary Artery Disease
 
 [Source](https://doi.org/10.3389/fmicb.2022.627892)
 
-10.3389/fmicb.2022.627892
-
 ---
 
-## Microbial dark matter: from discovery to applications.
- 27.04.2022, _Y Zha, H Chong, P Yang, K Ning_
-
-
-With the rapid increase of the microbiome samples and sequencing data, more and more knowledge about microbial communities has been gained. However, there is still much more to learn about microbial communities, including billions of novel species and genes, as well as countless spatiotemporal dynamic patterns within the microbial communities, which together form the microbial dark matter. In this work, we summarized the dark matter in microbiome research and reviewed current data mining methods, especially artificial intelligence (AI) methods, for different types of knowledge discovery from microbial dark matter. We also provided case studies on using AI methods for microbiome data mining and knowledge discovery. In summary, we view microbial dark matter not as a problem to be solved but as an opportunity for AI methods to explore, with the goal of advancing our understanding of microbial communities, as well as developing better solutions to global concerns about human health and the environment.
+## Microbial dark matter: from discovery to applications
 
 [Source](https://doi.org/10.1016/j.gpb.2022.02.007)
-
-10.1016/j.gpb.2022.02.007
 
 ---
 
