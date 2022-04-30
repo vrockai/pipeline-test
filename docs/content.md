@@ -1,5 +1,5 @@
 ## Maternal breast milk microbiota and immune markers in relation to subsequent development of celiac disease in offspring.
- 26.04.2022, _J Štšepetova, K Simre, A Tagoma, O Uibo, A Peet, H Siljander, V Tillmann, M Knip, R Mändar, R Uibo_
+ 29.04.2022, _J Štšepetova, K Simre, A Tagoma, O Uibo, A Peet, H Siljander, V Tillmann, M Knip, R Mändar, R Uibo_
 
 
 _Bacteria, Celiac Disease, Child, Child, Preschool, Female, Humans, Lactobacillus reuteri, Lipopolysaccharide Receptors, Microbiota, Milk, Human_
@@ -12,7 +12,7 @@ The potential impact of the composition of maternal breast milk is poorly known 
 ---
 
 ## The gut fungal and bacterial microbiota in pediatric patients with inflammatory bowel disease introduced to treatment with anti-tumor necrosis factor-α.
- 26.04.2022, _R Ventin-Holmberg, M Höyhtyä, S Saqib, K Korpela, A Nikkonen, A Salonen, WM de Vos, KL Kolho_
+ 29.04.2022, _R Ventin-Holmberg, M Höyhtyä, S Saqib, K Korpela, A Nikkonen, A Salonen, WM de Vos, KL Kolho_
 
 
 _Bacteria, Child, Crohn Disease, Humans, Inflammatory Bowel Diseases, Infliximab, Leukocyte L1 Antigen Complex, Microbiota, Tumor Necrosis Factor-alpha_
@@ -25,7 +25,7 @@ Pediatric inflammatory bowel disease (PIBD) is a globally increasing chronic inf
 ---
 
 ## Integrated fecal microbiome-metabolome signatures reflect stress and serotonin metabolism in irritable bowel syndrome.
- 25.04.2022, _Z Mujagic, M Kasapi, DM Jonkers, I Garcia-Perez, L Vork, ZZRM Weerts, JI Serrano-Contreras, A Zhernakova, A Kurilshikov, J Scotcher, E Holmes, C Wijmenga, D Keszthelyi, JK Nicholson, JM Posma, AA Masclee_
+ 29.04.2022, _Z Mujagic, M Kasapi, DM Jonkers, I Garcia-Perez, L Vork, ZZRM Weerts, JI Serrano-Contreras, A Zhernakova, A Kurilshikov, J Scotcher, E Holmes, C Wijmenga, D Keszthelyi, JK Nicholson, JM Posma, AA Masclee_
 
 
 _Feces, Gastrointestinal Microbiome, Humans, Irritable Bowel Syndrome, Metabolome, Microbiota, Serotonin_
@@ -38,7 +38,7 @@ To gain insight into the complex microbiome-gut-brain axis in irritable bowel sy
 ---
 
 ## Diversity and distribution of sulfur metabolic genes in the human gut microbiome and their association with colorectal cancer.
- 23.04.2022, _PG Wolf, ES Cowley, A Breister, S Matatov, L Lucio, P Polak, JM Ridlon, HR Gaskins, K Anantharaman_
+ 29.04.2022, _PG Wolf, ES Cowley, A Breister, S Matatov, L Lucio, P Polak, JM Ridlon, HR Gaskins, K Anantharaman_
 
 
 _Bacteria, Carcinoma, Colorectal Neoplasms, Gastrointestinal Microbiome, Humans, Sulfates, Sulfur, Taurine_
@@ -88,7 +88,7 @@ Colorectal cancer (CRC), the 3rd most universal cancer globally, accounts for ap
 ---
 
 ## The gut microbiome as a modulator of healthy ageing.
- 26.04.2022, _TS Ghosh, F Shanahan, PW O'Toole_
+ 29.04.2022, _TS Ghosh, F Shanahan, PW O'Toole_
 
 
 The gut microbiome is a contributory factor in ageing-related health loss and in several non-communicable diseases in all age groups. Some age-linked and disease-linked compositional and functional changes overlap, while others are distinct. In this Review, we explore targeted studies of the gut microbiome of older individuals and general cohort studies across geographically distinct populations. We also address the promise of the targeted restoration of microorganisms associated with healthier ageing.
@@ -100,7 +100,7 @@ The gut microbiome is a contributory factor in ageing-related health loss and in
 ---
 
 ## Multiple sclerosis patients have an altered gut mycobiome and increased fungal to bacterial richness.
- 28.04.2022, _M Yadav, S Ali, RL Shrode, SK Shahi, SN Jensen, J Hoang, S Cassidy, H Olalde, N Guseva, M Paullus, C Cherwin, K Wang, T Cho, J Kamholz, AK Mangalam_
+ 29.04.2022, _M Yadav, S Ali, RL Shrode, SK Shahi, SN Jensen, J Hoang, S Cassidy, H Olalde, N Guseva, M Paullus, C Cherwin, K Wang, T Cho, J Kamholz, AK Mangalam_
 
 
 _Ascomycota, Bacteria, Dysbiosis, Fungi, Humans, Multiple Sclerosis, Mycobiome, RNA, Ribosomal, 16S_
@@ -150,7 +150,7 @@ Growing evidences show a direct link between diarrhea and disorders of gut micro
 ---
 
 ## Shotgun metagenomic sequencing revealed the prebiotic potential of a grain-based diet in mice.
- 27.04.2022, _A Jangid, S Fukuda, Y Suzuki, TD Taylor, H Ohno, T Prakash_
+ 29.04.2022, _A Jangid, S Fukuda, Y Suzuki, TD Taylor, H Ohno, T Prakash_
 
 
 _Animals, Cellulose, Diet, Dietary Fiber, Edible Grain, Lactobacillus, Metagenome, Metagenomics, Mice, Prebiotics_
