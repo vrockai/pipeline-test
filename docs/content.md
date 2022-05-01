@@ -134,7 +134,7 @@ Trillions of bacteria reside within our gastrointestinal tract, ideally forming 
 ---
 
 ## Adverse events in fecal microbiota transplantation: a systematic review and meta-analysis.
- 28.04.2022, _EA Rapoport, M Baig, SR Puli_
+ 30.04.2022, _EA Rapoport, M Baig, SR Puli_
 
 
 Fecal microbiota transplantation (FMT) is a highly efficacious procedure used most commonly for the treatment of recurrent Clostridioides difficile infection (CDI). Despite the high value of incorporating FMT into practice, there remain concerns about its safety. To the best of our knowledge, there has not been an updated meta-analysis reporting pooled rates of adverse events in FMT for CDI.
