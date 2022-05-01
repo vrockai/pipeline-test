@@ -235,15 +235,9 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## Insights into the microbiome assembly during different growth stages and storage of strawberry plants.
- 28.04.2022, _E Olimi, P Kusstatscher, WA Wicaksono, A Abdelfattah, T Cernava, G Berg_
-
-
-Microbiome assembly was identified as an important factor for plant growth and health, but this process is largely unknown, especially for the fruit microbiome. Therefore, we analyzed strawberry plants of two cultivars by focusing on microbiome tracking during the different growth stages and storage using amplicon sequencing, qPCR, and microscopic approaches.
+## Insights into the microbiome assembly during different growth stages and storage of strawberry plants
 
 [Source](https://doi.org/10.1186/s40793-022-00415-3)
-
-10.1186/s40793-022-00415-3
 
 ---
 
@@ -253,52 +247,27 @@ Microbiome assembly was identified as an important factor for plant growth and h
 
 ---
 
-## Type VI secretion systems of pathogenic and commensal bacteria mediate niche occupancy in the gut.
- 29.04.2022, _A Serapio-Palacios, SE Woodward, SL Vogt, W Deng, A Creus-Cuadros, KE Huus, M Cirstea, M Gerrie, W Barcik, H Yu, BB Finlay_
-
-
-_Animals, Bacteria, Escherichia coli, Gastrointestinal Tract, Humans, Mice, Symbiosis, Type VI Secretion Systems_
-The type VI secretion system (T6SS) is a contractile nanomachine widely distributed among pathogenic and commensal Gram-negative bacteria. The T6SS is used for inter-bacterial competition to directly kill competing species; however, its importance during bacterial infection in vivo remains poorly understood. We report that the murine pathogen Citrobacter rodentium, used as a model for human pathogenic Escherichia coli, harbors two functional T6SSs. C. rodentium employs its T6SS-1 to colonize the murine gastrointestinal tract by targeting commensal Enterobacteriaceae. We identify VgrG1 as a C. rodentium T6SS antibacterial effector, which exhibits toxicity in E. coli. Conversely, commensal prey species E. coli Mt1B1 employs two T6SSs of its own to counter C. rodentium colonization. Collectively, these data demonstrate that the T6SS is a potent weapon during bacterial competition and is used by both invading pathogens and resident microbiota to fight for a niche in the hostile gut environment.
+## Type VI secretion systems of pathogenic and commensal bacteria mediate niche occupancy in the gut
 
 [Source](https://doi.org/10.1016/j.celrep.2022.110731)
 
-10.1016/j.celrep.2022.110731
-
 ---
 
-## Utilization of glycosaminoglycans by the human gut microbiota: participating bacteria and their enzymatic machineries.
- 28.04.2022, _PS Rawat, AS Seyed Hameed, X Meng, W Liu_
-
-
-Glycosaminoglycans (GAGs) are consistently present in the human colon in free forms and as part of proteoglycans. Their utilization is critical for the colonization and proliferation of gut bacteria and also the health of hosts. Hence, it is essential to determine the GAG-degrading members of the gut bacteria and their enzymatic machinery for GAG depolymerization. In this review, we have summarized the reported GAG utilizers from Bacteroides and presented their polysaccharide utilization loci (PUL) and related enzymatic machineries for the degradation of chondroitin and heparin/heparan sulfate. Although similar comprehensive knowledge of GAG degradation is not available for other gut phyla, we have specified recently isolated GAG degraders from gut Firmicutes and Proteobacteria, and analyzed their genomes for the presence of putative GAG PULs. Deciphering the precise GAG utilization mechanism for various phyla will augment our understanding of their effects on human health.
+## Utilization of glycosaminoglycans by the human gut microbiota: participating bacteria and their enzymatic machineries
 
 [Source](https://doi.org/10.1080/19490976.2022.2068367)
 
-10.1080/19490976.2022.2068367
-
 ---
 
-## DEPP: Deep Learning Enables Extending Species Trees using Single Genes.
- 29.04.2022, _Y Jiang, M Balaban, Q Zhu, S Mirarab_
-
-
-Placing new sequences onto reference phylogenies is increasingly used for analyzing environmental samples, especially microbiomes. Existing placement methods assume that query sequences have evolved under specific models directly on the reference phylogeny. For example, they assume single-gene data (e.g., 16S rRNA amplicons) have evolved under the GTR model on a gene tree. Placement, however, often has a more ambitious goal: extending a (genome-wide) species tree given data from individual genes without knowing the evolutionary model. Addressing this challenging problem requires new directions. Here, we introduce Deep-learning Enabled Phylogenetic Placement (DEPP), an algorithm that learns to extend species trees using single genes without pre-specified models. In simulations and on real data, we show that DEPP can match the accuracy of model-based methods without any prior knowledge of the model. We also show that DEPP can update the multi-locus microbial tree-of-life with single genes with high accuracy. We further demonstrate that DEPP can combine 16S and metagenomic data onto a single tree, enabling community structure analyses that take advantage of both sources of data.
+## DEPP: Deep Learning Enables Extending Species Trees using Single Genes
 
 [Source](https://doi.org/10.1093/sysbio/syac031)
 
-10.1093/sysbio/syac031
-
 ---
 
-## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments.
- 28.04.2022, _S Pan, C Zhu, XM Zhao, LP Coelho_
-
-
-Metagenomic binning is the step in building metagenome-assembled genomes (MAGs) when sequences predicted to originate from the same genome are automatically grouped together. The most widely-used methods for binning are reference-independent, operating de novo and enable the recovery of genomes from previously unsampled clades. However, they do not leverage the knowledge in existing databases. Here, we introduce SemiBin, an open source tool that uses deep siamese neural networks to implement a semi-supervised approach, i.e. SemiBin exploits the information in reference genomes, while retaining the capability of reconstructing high-quality bins that are outside the reference dataset. Using simulated and real microbiome datasets from several different habitats from GMGCv1 (Global Microbial Gene Catalog), including the human gut, non-human guts, and environmental habitats (ocean and soil), we show that SemiBin outperforms existing state-of-the-art binning methods. In particular, compared to other methods, SemiBin returns more high-quality bins with larger taxonomic diversity, including more distinct genera and species.
+## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments
 
 [Source](https://doi.org/10.1038/s41467-022-29843-y)
-
-10.1038/s41467-022-29843-y
 
 ---
 
