@@ -24,7 +24,7 @@ Dietary fibers act through the microbiome to improve cardiovascular health and p
 ---
 
 ## Comprehensive human amniotic fluid metagenomics supports the sterile womb hypothesis.
- 29.04.2022, _H Wang, GX Yang, Y Hu, P Lam, K Sangha, D Siciliano, A Swenerton, R Miller, P Tilley, P Von Dadelszen, S Kalyan, P Tang, MS Patel_
+ 01.05.2022, _H Wang, GX Yang, Y Hu, P Lam, K Sangha, D Siciliano, A Swenerton, R Miller, P Tilley, P Von Dadelszen, S Kalyan, P Tang, MS Patel_
 
 
 _Amniotic Fluid, Female, Humans, Metagenomics, Microbiota, Nucleic Acids, Uterus_
@@ -97,7 +97,7 @@ Aging generates changes in the gut microbiota, affecting its functionality. Litt
 ---
 
 ## Bone marrow transplantation induces changes in the gut microbiota that chronically increase the cytokine response pattern of splenocytes.
- 29.04.2022, _S Katiraei, JA van Diepen, LP Tavares, LR Hoving, A Pronk, I Verschueren, PCN Rensen, JJ Zwaginga, S Kostidis, M Giera, M Teixera, KW van Dijk, MG Netea, JFP Berbée, V van Harmelen_
+ 01.05.2022, _S Katiraei, JA van Diepen, LP Tavares, LR Hoving, A Pronk, I Verschueren, PCN Rensen, JJ Zwaginga, S Kostidis, M Giera, M Teixera, KW van Dijk, MG Netea, JFP Berbée, V van Harmelen_
 
 
 _Animals, Bone Marrow Transplantation, Cytokines, Gastrointestinal Microbiome, Immune System, Mice, Spleen_
@@ -158,7 +158,7 @@ Sunlight is pivotal for our survival, and daily UV exposure has impacted the evo
 ---
 
 ## The huge clinical potential of microbiota in the treatment of pancreatic cancer: The next frontier.
- 28.04.2022, _Z Zhang, D Tang_
+ 01.05.2022, _Z Zhang, D Tang_
 
 
 Microbes and their metabolites are found in all body organs; their interaction with body organs can influence inflammation, immunity, and cancer development. Pancreatic cancer development is closely related to intestinal, intrapancreatic, and oral flora. The microbiota plays a regulatory role in pancreatic cancer's malignant progression and treatment resistance. Thus, the study of microbiota-host interactions has emerged as a new hot topic in pancreatic cancer treatment, with microbiota control demonstrating significant clinical potential. This review summarizes recent advances in the clinical diagnosis and treatment of pancreatic cancer, emphasizing the enormous potential for operating microbiota in pancreatic cancer treatment.
@@ -259,15 +259,27 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## DEPP: Deep Learning Enables Extending Species Trees using Single Genes
+## DEPP: Deep Learning Enables Extending Species Trees using Single Genes.
+ 29.04.2022, _Y Jiang, M Balaban, Q Zhu, S Mirarab_
+
+
+Placing new sequences onto reference phylogenies is increasingly used for analyzing environmental samples, especially microbiomes. Existing placement methods assume that query sequences have evolved under specific models directly on the reference phylogeny. For example, they assume single-gene data (e.g., 16S rRNA amplicons) have evolved under the GTR model on a gene tree. Placement, however, often has a more ambitious goal: extending a (genome-wide) species tree given data from individual genes without knowing the evolutionary model. Addressing this challenging problem requires new directions. Here, we introduce Deep-learning Enabled Phylogenetic Placement (DEPP), an algorithm that learns to extend species trees using single genes without pre-specified models. In simulations and on real data, we show that DEPP can match the accuracy of model-based methods without any prior knowledge of the model. We also show that DEPP can update the multi-locus microbial tree-of-life with single genes with high accuracy. We further demonstrate that DEPP can combine 16S and metagenomic data onto a single tree, enabling community structure analyses that take advantage of both sources of data.
 
 [Source](https://doi.org/10.1093/sysbio/syac031)
 
+10.1093/sysbio/syac031
+
 ---
 
-## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments
+## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments.
+ 28.04.2022, _S Pan, C Zhu, XM Zhao, LP Coelho_
+
+
+Metagenomic binning is the step in building metagenome-assembled genomes (MAGs) when sequences predicted to originate from the same genome are automatically grouped together. The most widely-used methods for binning are reference-independent, operating de novo and enable the recovery of genomes from previously unsampled clades. However, they do not leverage the knowledge in existing databases. Here, we introduce SemiBin, an open source tool that uses deep siamese neural networks to implement a semi-supervised approach, i.e. SemiBin exploits the information in reference genomes, while retaining the capability of reconstructing high-quality bins that are outside the reference dataset. Using simulated and real microbiome datasets from several different habitats from GMGCv1 (Global Microbial Gene Catalog), including the human gut, non-human guts, and environmental habitats (ocean and soil), we show that SemiBin outperforms existing state-of-the-art binning methods. In particular, compared to other methods, SemiBin returns more high-quality bins with larger taxonomic diversity, including more distinct genera and species.
 
 [Source](https://doi.org/10.1038/s41467-022-29843-y)
+
+10.1038/s41467-022-29843-y
 
 ---
 
