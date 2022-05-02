@@ -217,9 +217,16 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## Mechanisms of fungal community assembly in wild stoneflies moderated by host characteristics and local environment
+## Mechanisms of fungal community assembly in wild stoneflies moderated by host characteristics and local environment.
+ 01.05.2022, _YX Zhu, QB Huo, T Wen, XY Wang, MY Zhao, YZ Du_
+
+
+_Animals, China, Humans, Insecta, Microbiota, Mycobiome, Stochastic Processes_
+Deterministic and stochastic forces both drive microbiota assembly in animals, yet their relative contribution remains elusive, especially in wild aquatic-insect-associated fungal communities. Here, we applied amplicon sequencing to survey the assembly mechanisms of the fungal community in 155 wild stonefly individuals involving 44 species of 20 genera within eight families collected from multiple locations in China. Analysis showed that fungal diversity and network complexity differed significantly among the eight stonefly families, and that the fungal communities in stoneflies exhibited a significant distance-decay pattern across large spatial scales. Both a structural equation model and variance partitioning analysis revealed that environmental factors (e.g., geographical, climatic) outweigh host attributes in shaping the fungal community of stoneflies. Using neutral and null model analyses, we also find that deterministic processes play a larger role than stochasticity in driving the fungal community assembly. However, the relative contribution of ecological processes including dispersal, drift, and selection, varied strongly with host taxonomy. Furthermore, environmental conditions also significantly affect the strength of these ecological processes. Overall, our findings illustrate that variations in host attributes and environment factors may moderate the relative influence of deterministic and stochastic processes to fungal community composition in wild stoneflies, which provides new insights into mechanisms of microbial community assembly in aquatic arthropods.
 
 [Source](https://doi.org/10.1038/s41522-022-00298-9)
+
+10.1038/s41522-022-00298-9
 
 ---
 
@@ -229,15 +236,27 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## Comparative study on gut microbiota in three Anura frogs from a mountain stream
+## Comparative study on gut microbiota in three Anura frogs from a mountain stream.
+ 29.04.2022, _Z Chen, JQ Chen, Y Liu, J Zhang, XH Chen, YF Qu_
+
+
+Composition and diversity in gut microbiota are impacted by a wide variety of factors. The similarity of gut microbiota in related or sympatric species has been gaining recent traction. Here, 16S rRNA gene sequencing technology was employed to study the gut microbiota of three sympatric frog species, namely Odorrana tormota, O. graminea, and Amolops wuyiensis. In these three frog species, the most abundant phylum was Proteobacteria, followed by Bacteroidetes, Verrucomicrobia, and Firmicutes. The most abundant family was Burkholderiaceae in three species. The most dominant genera were Burkholderia, Caballeronia, and Paraburkholderia with the highest relative abundance in O. tormota, O. graminea, and A. wuyiensis, respectively. No differences were observed in alpha diversity indexes among the three frog species. However, bacterial similarity of gut microbiota was significantly different between O. tormota and A. wuyiensis and between O. graminea and A. wuyiensis. Metabolism-related gene function was predominantly enriched in the gut microbiota of the three evaluated frog species. From these findings, that the relative abundance of the gut microbiota and predicted gene functions differed in three species, we conclude that there were significant differences in the gut microbiota of the three species. Similar alpha diversity and interspecific bacterial similarity in the gut might be related to bacterial transmission among the three Anura frogs evaluated in this study.
 
 [Source](https://doi.org/10.1002/ece3.8854)
 
+10.1002/ece3.8854
+
 ---
 
-## Insights into the microbiome assembly during different growth stages and storage of strawberry plants
+## Insights into the microbiome assembly during different growth stages and storage of strawberry plants.
+ 28.04.2022, _E Olimi, P Kusstatscher, WA Wicaksono, A Abdelfattah, T Cernava, G Berg_
+
+
+Microbiome assembly was identified as an important factor for plant growth and health, but this process is largely unknown, especially for the fruit microbiome. Therefore, we analyzed strawberry plants of two cultivars by focusing on microbiome tracking during the different growth stages and storage using amplicon sequencing, qPCR, and microscopic approaches.
 
 [Source](https://doi.org/10.1186/s40793-022-00415-3)
+
+10.1186/s40793-022-00415-3
 
 ---
 
@@ -247,15 +266,28 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## Type VI secretion systems of pathogenic and commensal bacteria mediate niche occupancy in the gut
+## Type VI secretion systems of pathogenic and commensal bacteria mediate niche occupancy in the gut.
+ 29.04.2022, _A Serapio-Palacios, SE Woodward, SL Vogt, W Deng, A Creus-Cuadros, KE Huus, M Cirstea, M Gerrie, W Barcik, H Yu, BB Finlay_
+
+
+_Animals, Bacteria, Escherichia coli, Gastrointestinal Tract, Humans, Mice, Symbiosis, Type VI Secretion Systems_
+The type VI secretion system (T6SS) is a contractile nanomachine widely distributed among pathogenic and commensal Gram-negative bacteria. The T6SS is used for inter-bacterial competition to directly kill competing species; however, its importance during bacterial infection in vivo remains poorly understood. We report that the murine pathogen Citrobacter rodentium, used as a model for human pathogenic Escherichia coli, harbors two functional T6SSs. C. rodentium employs its T6SS-1 to colonize the murine gastrointestinal tract by targeting commensal Enterobacteriaceae. We identify VgrG1 as a C. rodentium T6SS antibacterial effector, which exhibits toxicity in E. coli. Conversely, commensal prey species E. coli Mt1B1 employs two T6SSs of its own to counter C. rodentium colonization. Collectively, these data demonstrate that the T6SS is a potent weapon during bacterial competition and is used by both invading pathogens and resident microbiota to fight for a niche in the hostile gut environment.
 
 [Source](https://doi.org/10.1016/j.celrep.2022.110731)
 
+10.1016/j.celrep.2022.110731
+
 ---
 
-## Utilization of glycosaminoglycans by the human gut microbiota: participating bacteria and their enzymatic machineries
+## Utilization of glycosaminoglycans by the human gut microbiota: participating bacteria and their enzymatic machineries.
+ 28.04.2022, _PS Rawat, AS Seyed Hameed, X Meng, W Liu_
+
+
+Glycosaminoglycans (GAGs) are consistently present in the human colon in free forms and as part of proteoglycans. Their utilization is critical for the colonization and proliferation of gut bacteria and also the health of hosts. Hence, it is essential to determine the GAG-degrading members of the gut bacteria and their enzymatic machinery for GAG depolymerization. In this review, we have summarized the reported GAG utilizers from Bacteroides and presented their polysaccharide utilization loci (PUL) and related enzymatic machineries for the degradation of chondroitin and heparin/heparan sulfate. Although similar comprehensive knowledge of GAG degradation is not available for other gut phyla, we have specified recently isolated GAG degraders from gut Firmicutes and Proteobacteria, and analyzed their genomes for the presence of putative GAG PULs. Deciphering the precise GAG utilization mechanism for various phyla will augment our understanding of their effects on human health.
 
 [Source](https://doi.org/10.1080/19490976.2022.2068367)
+
+10.1080/19490976.2022.2068367
 
 ---
 
