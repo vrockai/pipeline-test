@@ -37,9 +37,10 @@ As metagenomic approaches for detecting infectious agents have improved, each ti
 ---
 
 ## Disordered development of gut microbiome interferes with the establishment of the gut ecosystem during early childhood with atopic dermatitis.
- 29.04.2022, _MJ Lee, YM Park, B Kim, IH Tae, NE Kim, M Pranata, T Kim, S Won, NJ Kang, YK Lee, DW Lee, MH Nam, SJ Hong, BS Kim_
+ 02.05.2022, _MJ Lee, YM Park, B Kim, IH Tae, NE Kim, M Pranata, T Kim, S Won, NJ Kang, YK Lee, DW Lee, MH Nam, SJ Hong, BS Kim_
 
 
+_Animals, Butyrates, Dermatitis, Atopic, Fatty Acids, Volatile, Gastrointestinal Microbiome, Humans, Mice, Microbiota_
 The gut microbiome influences the development of allergic diseases during early childhood. However, there is a lack of comprehensive understanding of microbiome-host crosstalk. Here, we analyzed the influence of gut microbiome dynamics in early childhood on atopic dermatitis (AD) and the potential interactions between host and microbiome that control this homeostasis. We analyzed the gut microbiome in 346 fecal samples (6-36 months; 112 non-AD, 110 mild AD, and 124 moderate to severe AD) from the Longitudinal Cohort for Childhood Origin of Asthma and Allergic Disease birth cohort. The microbiome-host interactions were analyzed in animal and in vitro cell assays. Although the gut microbiome maturated with age in both AD and non-AD groups, its development was disordered in the AD group. Disordered colonization of short-chain fatty acids (SCFA) producers along with age led to abnormal SCFA production and increased IgE levels. A butyrate deficiency and downregulation of GPR109A and PPAR-γ genes were detected in AD-induced mice. Insufficient butyrate decreases the oxygen consumption rate of host cells, which can release oxygen to the gut and perturb the gut microbiome. The disordered gut microbiome development could aggravate balanced microbiome-host interactions, including immune responses during early childhood with AD.
 
 [Source](https://doi.org/10.1080/19490976.2022.2068366)
@@ -61,9 +62,10 @@ A randomized clinical trial with a starch- and sucrose-reduced diet (SSRD) in ir
 ---
 
 ## Alterations in intestinal microbiota in ultramarathon runners.
- 28.04.2022, _M Sato, Y Suzuki_
+ 02.05.2022, _M Sato, Y Suzuki_
 
 
+_Butyrates, Faecalibacterium prausnitzii, Gastrointestinal Microbiome, Humans_
 To date, only one study has reported changes in the gut microbiome of an ultramarathon runner before and after competing in the race. Herein we aimed to investigate changes in intestinal microbiota in nine ultramarathon runners. Eight of the nine participants ran 96.102 km (up 8062 m, down 6983 km) and one ran 99.12 km (up 8448 m, down 7369 m) within 38-44 h. Intestinal microbiota alterations were examined at three timepoints: before (Pre), after (Post), and 10 days after (Recovery) the race. The α- and β-diversity of intestinal microbiota were unaffected by the race. Six of the nine participants showed the B-type enterotype, while the remaining three showed the P-type enterotype; however, significant difference between enterotypes was not observed in the influence of the ultramarathon on intestinal microbiota. The abundance of mean Faecalibacterium prausnitzii, was significantly decreased from 2.9% (Pre) to 1.6% (Post), as well as other three butyrate producing bacteria. One participant with the largest decrease in F. prausnitzii abundance (- 85.7%) reported sluggishness and shallow sleep from Post to Recovery. Our findings revealed that the abundance of butyrate-producing bacteria is decreased in ultramarathon runners, which consequently decreases butyrate levels in the intestine and affects host immune function.
 
 [Source](https://doi.org/10.1038/s41598-022-10791-y)
@@ -73,9 +75,10 @@ To date, only one study has reported changes in the gut microbiome of an ultrama
 ---
 
 ## Lost microbes of COVID-19: Bifidobacterium, Faecalibacterium depletion and decreased microbiome diversity associated with SARS-CoV-2 infection severity.
- 28.04.2022, _S Hazan, N Stollman, HS Bozkurt, S Dave, AJ Papoutsis, J Daniels, BD Barrows, EM Quigley, TJ Borody_
+ 02.05.2022, _S Hazan, N Stollman, HS Bozkurt, S Dave, AJ Papoutsis, J Daniels, BD Barrows, EM Quigley, TJ Borody_
 
 
+_Bifidobacterium, COVID-19, Cross-Sectional Studies, Faecalibacterium, Humans, Microbiota, SARS-CoV-2_
 The study objective was to compare gut microbiome diversity and composition in SARS-CoV-2 PCR-positive patients whose symptoms ranged from asymptomatic to severe versus PCR-negative exposed controls.
 
 [Source](https://bmjopengastro.bmj.com/content/9/1/e000871)
@@ -85,9 +88,10 @@ The study objective was to compare gut microbiome diversity and composition in S
 ---
 
 ## Gut microbiota alterations in critically ill older patients: a multicenter study.
- 28.04.2022, _M Victoria, VB Elena, GN Amparo, JA María, GV Adriana, AC Irene, YM Alejandra, BB Janeth, AG María_
+ 02.05.2022, _M Victoria, VB Elena, GN Amparo, JA María, GV Adriana, AC Irene, YM Alejandra, BB Janeth, AG María_
 
 
+_Aged, Anti-Bacterial Agents, Critical Illness, Feces, Gastrointestinal Microbiome, Humans, Microbiota, Middle Aged, RNA, Ribosomal, 16S_
 Aging generates changes in the gut microbiota, affecting its functionality. Little is known about gut microbiota in critically ill older adults. The objective of this study was to describe the profile of gut microbiota in a cohort of critically ill older adults.
 
 [Source](https://doi.org/10.1186/s12877-022-02981-0)
@@ -122,9 +126,10 @@ Intestinal proteases mediate digestion and immune signalling, while increased gu
 ---
 
 ## Communication between the gut microbiota and peripheral nervous system in health and chronic disease.
- 28.04.2022, _TM Cook, V Mansuy-Aubert_
+ 02.05.2022, _TM Cook, V Mansuy-Aubert_
 
 
+_Chronic Disease, Diet, Gastrointestinal Microbiome, Gastrointestinal Tract, Humans, Peripheral Nervous System_
 Trillions of bacteria reside within our gastrointestinal tract, ideally forming a mutually beneficial relationship between us. However, persistent changes in diet and lifestyle in the western diet and lifestyle contribute to a damaging of the gut microbiota-host symbiosis leading to diseases such as obesity and irritable bowel syndrome. Many symptoms and comorbidities associated with these diseases stem from dysfunctional signaling in peripheral neurons. Our peripheral nervous system (PNS) is comprised of a variety of sensory, autonomic, and enteric neurons which coordinate key homeostatic functions such as gastrointestinal motility, digestion, immunity, feeding behavior, glucose and lipid homeostasis, and more. The composition and signaling of bacteria in our gut dramatically influences how our peripheral neurons regulate these functions, and we are just beginning to uncover the molecular mechanisms mediating this communication. In this review, we cover the general anatomy and function of the PNS, and then we discuss how the molecules secreted or stimulated by gut microbes signal through the PNS to alter host development and physiology. Finally, we discuss how leveraging the power of our gut microbes on peripheral nervous system signaling may offer effective therapies to counteract the rise in chronic diseases crippling the western world.
 
 [Source](https://doi.org/10.1080/19490976.2022.2068365)
@@ -146,7 +151,7 @@ Fecal microbiota transplantation (FMT) is a highly efficacious procedure used mo
 ---
 
 ## Eco-evolutionary impact of ultraviolet radiation (UVR) exposure on microorganisms, with a special focus on our skin microbiome.
- 28.04.2022, _S Rai, G Rai, A Kumar_
+ 02.05.2022, _S Rai, G Rai, A Kumar_
 
 
 Sunlight is pivotal for our survival, and daily UV exposure has impacted the evolutionary course of all forms of life, from microorganisms to humans. Deciphering the role of UVR in regulating the microbial dynamics of environmental and host-associated microbes is crucial. UVR may be responsible for affecting skin pathology by influencing the skin microbiome, both qualitatively and quantitatively, as evident in low-dose narrow-band UVB phototherapy. Some findings have suggested that the skin microbiome has immunomodulatory roles when exposed to UVR; however, its involvement in UV screening or protection has yet to be fully explored. Furthermore, numerous skin disorders are associated not only with an altered skin microbiome but also with an altered gut microbiome. Hence, the skin-gut axis needs to be in physiological homeostasis and immunological harmony. The purpose of this review is to examine the impact of natural UVR on human immunomodulatory mechanisms and the associated cutaneous microbiome, with an emphasis on interactions among UVR, skin homeostasis, vitamin D, and the related skin-gut axis. With the 'nature as an inspiration' approach, ongoing research is trying to decipher photoprotective secrets in several microbial-based natural compounds to be used as sunscreens or other topical formulations. In addition, various probiotics have also been shown to have significant antioxidant, antiwrinkle, and antiaging effects that ameliorate UV-induced cellular and molecular damage, as highlighted in the review. These cosmetics, nutricosmetics, and probiotaceuticals will undoubtedly be next-generation solutions against photoaging and maintaining skin health.
@@ -158,7 +163,7 @@ Sunlight is pivotal for our survival, and daily UV exposure has impacted the evo
 ---
 
 ## The huge clinical potential of microbiota in the treatment of pancreatic cancer: The next frontier.
- 01.05.2022, _Z Zhang, D Tang_
+ 02.05.2022, _Z Zhang, D Tang_
 
 
 Microbes and their metabolites are found in all body organs; their interaction with body organs can influence inflammation, immunity, and cancer development. Pancreatic cancer development is closely related to intestinal, intrapancreatic, and oral flora. The microbiota plays a regulatory role in pancreatic cancer's malignant progression and treatment resistance. Thus, the study of microbiota-host interactions has emerged as a new hot topic in pancreatic cancer treatment, with microbiota control demonstrating significant clinical potential. This review summarizes recent advances in the clinical diagnosis and treatment of pancreatic cancer, emphasizing the enormous potential for operating microbiota in pancreatic cancer treatment.
@@ -277,15 +282,27 @@ Gut microbiota are involved in many physiological functions such as metabolism, 
 
 ---
 
-## Could Artificial Intelligence/Machine Learning and Inclusion of Diet-Gut Microbiome Interactions Improve Disease Risk Prediction? Case Study: Coronary Artery Disease
+## Could Artificial Intelligence/Machine Learning and Inclusion of Diet-Gut Microbiome Interactions Improve Disease Risk Prediction? Case Study: Coronary Artery Disease.
+ 30.04.2022, _B Vilne, J Ķibilds, I Siksna, I Lazda, O Valciņa, A Krūmiņa_
+
+
+Coronary artery disease (CAD) is the most common cardiovascular disease (CVD) and the main leading cause of morbidity and mortality worldwide, posing a huge socio-economic burden to the society and health systems. Therefore, timely and precise identification of people at high risk of CAD is urgently required. Most current CAD risk prediction approaches are based on a small number of traditional risk factors (age, sex, diabetes, LDL and HDL cholesterol, smoking, systolic blood pressure) and are incompletely predictive across all patient groups, as CAD is a multi-factorial disease with complex etiology, considered to be driven by both genetic, as well as numerous environmental/lifestyle factors. Diet is one of the modifiable factors for improving lifestyle and disease prevention. However, the current rise in obesity, type 2 diabetes (T2D) and CVD/CAD indicates that the "one-size-fits-all" approach may not be efficient, due to significant variation in inter-individual responses. Recently, the gut microbiome has emerged as a potential and previously under-explored contributor to these variations. Hence, efficient integration of dietary and gut microbiome information alongside with genetic variations and clinical data holds a great promise to improve CAD risk prediction. Nevertheless, the highly complex nature of meals combined with the huge inter-individual variability of the gut microbiome poses several Big Data analytics challenges in modeling diet-gut microbiota interactions and integrating these within CAD risk prediction approaches for the development of personalized decision support systems (DSS). In this regard, the recent re-emergence of Artificial Intelligence (AI) / Machine Learning (ML) is opening intriguing perspectives, as these approaches are able to capture large and complex matrices of data, incorporating their interactions and identifying both linear and non-linear relationships. In this Mini-Review, we consider (1) the most used AI/ML approaches and their different use cases for CAD risk prediction (2) modeling of the content, choice and impact of dietary factors on CAD risk; (3) classification of individuals by their gut microbiome composition into CAD cases vs. controls and (4) modeling of the diet-gut microbiome interactions and their impact on CAD risk. Finally, we provide an outlook for putting it all together for improved CAD risk predictions.
 
 [Source](https://doi.org/10.3389/fmicb.2022.627892)
 
+10.3389/fmicb.2022.627892
+
 ---
 
-## Microbial dark matter: from discovery to applications
+## Microbial dark matter: from discovery to applications.
+ 27.04.2022, _Y Zha, H Chong, P Yang, K Ning_
+
+
+With the rapid increase of the microbiome samples and sequencing data, more and more knowledge about microbial communities has been gained. However, there is still much more to learn about microbial communities, including billions of novel species and genes, as well as countless spatiotemporal dynamic patterns within the microbial communities, which together form the microbial dark matter. In this work, we summarized the dark matter in microbiome research and reviewed current data mining methods, especially artificial intelligence (AI) methods, for different types of knowledge discovery from microbial dark matter. We also provided case studies on using AI methods for microbiome data mining and knowledge discovery. In summary, we view microbial dark matter not as a problem to be solved but as an opportunity for AI methods to explore, with the goal of advancing our understanding of microbial communities, as well as developing better solutions to global concerns about human health and the environment.
 
 [Source](https://doi.org/10.1016/j.gpb.2022.02.007)
+
+10.1016/j.gpb.2022.02.007
 
 ---
 
