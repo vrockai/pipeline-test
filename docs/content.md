@@ -72,7 +72,7 @@ The oral microbiota is enormously diverse, with over 700 microbial species ident
 ---
 
 ## Effects of 'Healthy' Fecal Microbiota Transplantation against the Deterioration of Depression in Fawn-Hooded Rats.
- 28.04.2022, _B Hu, P Das, X Lv, M Shi, J Aa, K Wang, L Duan, JA Gilbert, Y Nie, XL Wu_
+ 03.05.2022, _B Hu, P Das, X Lv, M Shi, J Aa, K Wang, L Duan, JA Gilbert, Y Nie, XL Wu_
 
 
 Depression is a recurrent, heterogeneous mood disorder occurring in more than 260 million people worldwide. Gut microbiome dysbiosis is associated with the development of depressive-like behaviors by modulating neuro-biochemical metabolism through the microbiome-gut-brain (MGB) axis. Fecal microbiota transplantation (FMT) has been proposed as a potential therapeutic solution for depression, but the therapeutic efficiency and mechanism are unknown. Here, we performed an FMT from Sprague-Dawley (SD) rats ('healthy' controls) to Fawn-hooded (FH) rats (depression model). Pre-FMT, the FH rats exhibited significantly elevated depressive-like behaviors and distinct neurotransmitter and cytokine levels compared with SD rats. Post-FMT, FH recipients receiving FH fecal microbiota (FH-FH rats) showed aggravated depressive-like behaviors, while the ones receiving SD microbiota (FH-SD rats) had significantly alleviated depressive symptoms, a significant increase in hippocampal neurotransmitters, and a significant decrease of some hippocampal cytokines than FH-FH rats. SD-FMT resulted in the FH-SD rats' gut microbiome resembling the SD donors, and a significant shift in the serum metabolome but not the hippocampal metabolome. Co-occurrence analysis suggests that SD-FMT prevented recipients' depression development via the significant decrease of gut microbial species such as Dialister sp., which led to the recipients' metabolic modulation in serum and hippocampus through the enteric nervous system, the intestinal barrier, and the blood-brain barrier. Our results provided new data pointing to multiple mechanisms of interaction for the impact of gut microbiome modulation on depression therapy. IMPORTANCE Depression is a chronic, recurrent mental disease, which could make the patients commit suicide in severe cases. Considering that gut microbiome dysbiosis could cause depressive symptoms in animals through the MGB axis, the modification of gut microbiota is expected to be a potential therapy for depression, but the daily administration of probiotics is invalid or transient. In this study, we demonstrated that the gut microbiome transferred from a healthy rat model to a depressive rat model could regulate the recipient's neurobiology and behavior via the systematic alternation of the depressive gut microbiota followed by the serum and hippocampal metabolism. These results underline the significance of understanding the impact of gut microbiota on mental disorders and suggest that 'healthy' microbiota transplantation with the function to solve the host's cerebral inflammation may serve as a novel therapeutic strategy for depression.
@@ -84,7 +84,7 @@ Depression is a recurrent, heterogeneous mood disorder occurring in more than 26
 ---
 
 ## Metagenome-assembled genomes of phytoplankton microbiomes from the Arctic and Atlantic Oceans.
- 02.05.2022, _A Duncan, K Barry, C Daum, E Eloe-Fadrosh, S Roux, K Schmidt, SG Tringe, KU Valentin, N Varghese, A Salamov, IV Grigoriev, RM Leggett, V Moulton, T Mock_
+ 03.05.2022, _A Duncan, K Barry, C Daum, E Eloe-Fadrosh, S Roux, K Schmidt, SG Tringe, KU Valentin, N Varghese, A Salamov, IV Grigoriev, RM Leggett, V Moulton, T Mock_
 
 
 _Atlantic Ocean, Chlorophyll A, Eukaryota, Metagenome, Microbiota, Phylogeny, Phytoplankton_
@@ -127,7 +127,7 @@ The availability of public genomics data has become essential for modern life sc
 ---
 
 ## Ancestry-inclusive dog genomics challenges popular breed stereotypes.
- 02.05.2022, _K Morrill, J Hekman, X Li, J McClure, B Logan, L Goodman, M Gao, Y Dong, M Alonso, E Carmichael, N Snyder-Mackler, J Alonso, HJ Noh, J Johnson, M Koltookian, C Lieu, K Megquier, R Swofford, J Turner-Maier, ME White, Z Weng, A Colubri, DP Genereux, KA Lord, EK Karlsson_
+ 03.05.2022, _K Morrill, J Hekman, X Li, J McClure, B Logan, L Goodman, M Gao, Y Dong, M Alonso, E Carmichael, N Snyder-Mackler, J Alonso, HJ Noh, J Johnson, M Koltookian, C Lieu, K Megquier, R Swofford, J Turner-Maier, ME White, Z Weng, A Colubri, DP Genereux, KA Lord, EK Karlsson_
 
 
 _Animals, Dogs, Genome-Wide Association Study, Genomics, Phenotype_
