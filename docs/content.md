@@ -82,15 +82,27 @@ Dietary patterns contribute to cancer risk. Separately, microbial factors influe
 
 ---
 
-## Geographical resistome profiling in the honeybee microbiome reveals resistance gene transfer conferred by mobilizable plasmids
+## Geographical resistome profiling in the honeybee microbiome reveals resistance gene transfer conferred by mobilizable plasmids.
+ 03.05.2022, _H Sun, X Mu, K Zhang, H Lang, Q Su, X Li, X Zhou, X Zhang, H Zheng_
+
+
+The spread of antibiotic resistance genes (ARGs) has been of global concern as one of the greatest environmental threats. The gut microbiome of animals has been found to be a large reservoir of ARGs, which is also an indicator of the environmental antibiotic spectrum. The conserved microbiota makes the honeybee a tractable and confined ecosystem for studying the maintenance and transfer of ARGs across gut bacteria. Although it has been found that honeybee gut bacteria harbor diverse sets of ARGs, the influences of environmental variables and the mechanism driving their distribution remain unclear.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01268-1)
 
+10.1186/s40168-022-01268-1
+
 ---
 
-## Phytobeneficial traits of rhizobacteria under the control of multiple molecular dialogues
+## Phytobeneficial traits of rhizobacteria under the control of multiple molecular dialogues.
+ 03.05.2022, _A Laveilhé, S Fochesato, D Lalaouna, T Heulin, W Achouak_
+
+
+Pseudomonads play crucial roles in plant growth promotion and control of plant diseases. However, under natural conditions, other microorganisms competing for the same nutrient resources in the rhizosphere may exert negative control over their phytobeneficial characteristics. We assessed the expression of phytobeneficial genes involved in biocontrol, biostimulation and iron regulation such as, phlD, hcnA, acdS, and iron-small regulatory RNAs prrF1 and prrF2 in Pseudomonas brassicacearum co-cultivated with three phytopathogenic fungi, and two rhizobacteria in the presence or absence of Brassica napus, and in relation to iron availability. We found that the antifungal activity of P. brassicacearum depends mostly on the production of DAPG and not on HCN whose production is suppressed by fungi. We have also shown that the two-competing bacterial strains modulate the plant growth promotion activity of P. brassicacearum by modifying the expression of phlD, hcnA and acdS according to iron availability. Overall, it allows us to better understand the complexity of the multiple molecular dialogues that take place underground between microorganisms and between plants and its rhizosphere microbiota and to show that synergy in favour of phytobeneficial gene expression may exist between different bacterial species.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14023)
+
+10.1111/1751-7915.14023
 
 ---
 
