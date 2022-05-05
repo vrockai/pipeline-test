@@ -1,7 +1,8 @@
 ## Associations between self-reported psychological symptom severity and gut microbiota: further support for the microgenderome.
- 03.05.2022, _M Ganci, E Suleyman, H Butt, M Ball_
+ 04.05.2022, _M Ganci, E Suleyman, H Butt, M Ball_
 
 
+_Anxiety, Cross-Sectional Studies, Female, Gastrointestinal Microbiome, Humans, Male, Retrospective Studies, Self Report_
 Research into the brain-gut-microbiota axis (BGMA) continues to reveal associations between gut microbiota (GM) and psychological symptom expression, inspiring new ways of conceptualising psychological disorders. However, before GM modulation can be touted as a possible auxiliary treatment option, more research is needed as inconsistencies in previous findings regarding these associations are prevalent. Additionally, the concept of the microgenderome, which proposes that GM may interact with sex hormones, has received limited attention in studies using human samples to date. However, such research has demonstrated sex specific associations between GM and psychological symptom expression.
 
 [Source](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03947-7)
@@ -11,9 +12,10 @@ Research into the brain-gut-microbiota axis (BGMA) continues to reveal associati
 ---
 
 ## Impacts of dietary exposure to pesticides on faecal microbiome metabolism in adult twins.
- 03.05.2022, _R Mesnage, RCE Bowyer, S El Balkhi, F Saint-Marcoux, A Gardere, QR Ducarmon, AR Geelen, RD Zwittink, D Tsoukalas, E Sarandi, EI Paramera, T Spector, CJ Steves, MN Antoniou_
+ 04.05.2022, _R Mesnage, RCE Bowyer, S El Balkhi, F Saint-Marcoux, A Gardere, QR Ducarmon, AR Geelen, RD Zwittink, D Tsoukalas, E Sarandi, EI Paramera, T Spector, CJ Steves, MN Antoniou_
 
 
+_Adult, Dietary Exposure, Herbicides, Humans, Insecticides, Microbiota, Organophosphorus Compounds, Pesticide Residues, Pesticides, Vegetables_
 Dietary habits have a profound influence on the metabolic activity of gut microorganisms and their influence on health. Concerns have been raised as to whether the consumption of foodstuffs contaminated with pesticides can contribute to the development of chronic disease by affecting the gut microbiome. We performed the first pesticide biomonitoring survey of the British population, and subsequently used the results to perform the first pesticide association study on gut microbiome composition and function from the TwinsUK registry.
 
 [Source](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-022-00860-0)
@@ -64,15 +66,27 @@ Dietary patterns contribute to cancer risk. Separately, microbial factors influe
 
 ---
 
-## Bacteria and Bellicosity: Photoperiodic Shifts in Gut Microbiota Drive Seasonal Aggressive Behavior in Male Siberian Hamsters
+## Bacteria and Bellicosity: Photoperiodic Shifts in Gut Microbiota Drive Seasonal Aggressive Behavior in Male Siberian Hamsters.
+ 03.05.2022, _EK Shor, SP Brown, DA Freeman_
+
+
+The existence of a microbiome-gut-brain axis has been established wherein gut microbiota significantly impacts host behavior and physiology, with increasing evidence suggesting a role for the gut microbiota in maintaining host homeostasis. Communication between the gut microbiota and the host is bidirectional, and shifts in the composition of the gut microbiota are dependent on both internal and external cues (host-derived signals, such as stress and immunity, and endocrine and environmental signals, such as photoperiod). Although there is host-driven seasonal variation in the composition of the microbiota, the mechanisms linking photoperiod, gut microbiota, and host behavior have not been characterized. The results of the present study suggest that seasonal changes in the gut microbiota drive seasonal changes in aggression. Implanting short-day Siberian hamsters (Phodopus sungorus) with fecal microbiota from long-day hamsters resulted in a reversal of seasonal aggression, whereby short-day hamsters displayed aggression levels typical of long-day hamsters. In addition, there are correlations between aggressive behavior and several bacterial taxa. These results implicate the gut microbiota as part of the photoperiodic mechanism regulating seasonal host behavior and contribute toward a more comprehensive understanding of the relationships between the microbiota, host, and environment.
 
 [Source](https://journals.sagepub.com/doi/10.1177/07487304221092105)
 
+10.1177/07487304221092105
+
 ---
 
-## Microbial DNA enrichment promotes liver steatosis and fibrosis in the course of non-alcoholic steatohepatitis
+## Microbial DNA enrichment promotes liver steatosis and fibrosis in the course of non-alcoholic steatohepatitis.
+ 02.05.2022, _Z Luo, Y Ji, D Zhang, H Gao, Z Jin, M Yang, W Ying_
+
+
+Low-grade inflammation is the hallmark of nonalcoholic fatty liver diseases (NAFLD) and nonalcoholic steatohepatitis (NASH). The leakage of microbiota-derived products can contribute to liver inflammation during NAFLD/NASH development. Here we assessed the roles of gut microbial DNA-containing extracellular vesicles (mEVs) in regulating liver cellular abnormalities in the course of NAFLD/NASH.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/apha.13827)
+
+10.1111/apha.13827
 
 ---
 
@@ -83,9 +97,10 @@ Dietary patterns contribute to cancer risk. Separately, microbial factors influe
 ---
 
 ## Geographical resistome profiling in the honeybee microbiome reveals resistance gene transfer conferred by mobilizable plasmids.
- 03.05.2022, _H Sun, X Mu, K Zhang, H Lang, Q Su, X Li, X Zhou, X Zhang, H Zheng_
+ 04.05.2022, _H Sun, X Mu, K Zhang, H Lang, Q Su, X Li, X Zhou, X Zhang, H Zheng_
 
 
+_Animals, Anti-Bacterial Agents, Bacteria, Bees, Drug Resistance, Bacterial, Gastrointestinal Microbiome, Microbiota, Plasmids_
 The spread of antibiotic resistance genes (ARGs) has been of global concern as one of the greatest environmental threats. The gut microbiome of animals has been found to be a large reservoir of ARGs, which is also an indicator of the environmental antibiotic spectrum. The conserved microbiota makes the honeybee a tractable and confined ecosystem for studying the maintenance and transfer of ARGs across gut bacteria. Although it has been found that honeybee gut bacteria harbor diverse sets of ARGs, the influences of environmental variables and the mechanism driving their distribution remain unclear.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01268-1)
