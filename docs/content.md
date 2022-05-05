@@ -120,9 +120,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Deciphering mechanisms and implications of bacterial translocation in human health and disease 
+## Deciphering mechanisms and implications of bacterial translocation in human health and disease.
+ 26.04.2022, _S Jin, D Wetzel, M Schirmer_
+
+
+Significant increases in potential microbial translocation, especially along the oral-gut axis, have been identified in many immune-related and inflammatory diseases, such as inflammatory bowel disease, colorectal cancer, rheumatoid arthritis, and liver cirrhosis, for which we currently have no cure or long-term treatment options. Recent advances in computational and experimental omics approaches now enable strain tracking, functional profiling, and strain isolation in unprecedented detail, which has the potential to elucidate the causes and consequences of microbial translocation. In this review, we discuss current evidence for the detection of bacterial translocation, examine different translocation axes with a primary focus on the oral-gut axis, and outline currently known translocation mechanisms and how they adversely affect the host in disease. Finally, we conclude with an overview of state-of-the-art computational and experimental tools for strain tracking and highlight the required next steps to elucidate the role of bacterial translocation in human health.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1369527422000303)
+
+10.1016/j.mib.2022.102147
 
 ---
 
@@ -228,16 +234,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments.
- 03.05.2022, _S Pan, C Zhu, XM Zhao, LP Coelho_
-
-
-_Algorithms, Metagenome, Metagenomics, Microbiota, Neural Networks, Computer_
-Metagenomic binning is the step in building metagenome-assembled genomes (MAGs) when sequences predicted to originate from the same genome are automatically grouped together. The most widely-used methods for binning are reference-independent, operating de novo and enable the recovery of genomes from previously unsampled clades. However, they do not leverage the knowledge in existing databases. Here, we introduce SemiBin, an open source tool that uses deep siamese neural networks to implement a semi-supervised approach, i.e. SemiBin exploits the information in reference genomes, while retaining the capability of reconstructing high-quality bins that are outside the reference dataset. Using simulated and real microbiome datasets from several different habitats from GMGCv1 (Global Microbial Gene Catalog), including the human gut, non-human guts, and environmental habitats (ocean and soil), we show that SemiBin outperforms existing state-of-the-art binning methods. In particular, compared to other methods, SemiBin returns more high-quality bins with larger taxonomic diversity, including more distinct genera and species.
+## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments
 
 [Source](https://www.nature.com/articles/s41467-022-29843-y)
-
-10.1038/s41467-022-29843-y
 
 ---
 
