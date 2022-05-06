@@ -1,291 +1,122 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## The making of the oral microbiome in Agta hunter-gatherers
 
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/search?q=%23mvif&src=typed_query&f=top)
-
-10.3390/ijerph19010099
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.03.490437v1.abstract?%3Fcollection=)
 
 ---
 
-## #MVIF
+## Microbial population dynamics decouple nutrient affinity from environmental concentration
 
-[Source](https://twitter.com/search?q=%23mvif&src=typed_query&f=top)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
-
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.04.490627v1.abstract?%3Fcollection=)
 
 ---
 
-## #MVIF
+## Beneath the surface: Amino acid variation underlying two decades of dengue virus antigenic dynamics in Bangkok, Thailand
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/eU5AT0aALi
-
-[Source](https://t.co/eU5AT0aALi)
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010500)
 
 ---
 
-## @theGarrettLab
+## Hunter-gatherer oral microbiomes are shaped by contact network structure
 
-[Source](https://twitter.com/theGarrettLab?ref_src=twsrc%5Etfw)
-
----
-
-## @KKrigul
-
-[Source](https://twitter.com/KKrigul?ref_src=twsrc%5Etfw)
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.03.489993v1.abstract?%3Fcollection=)
 
 ---
 
-## @oliveraasmets
+## Which vaccine attributes foster vaccine uptake? A cross-country conjoint experiment
 
-[Source](https://twitter.com/oliveraasmets?ref_src=twsrc%5Etfw)
-
----
-
-## @unitartu
-
-[Source](https://twitter.com/unitartu?ref_src=twsrc%5Etfw)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266003)
 
 ---
 
-## @ESTbiobank
+## Associations between microbial communities and key chemical constituents in U.S. domestic moist snuff 
 
-[Source](https://twitter.com/ESTbiobank?ref_src=twsrc%5Etfw)
-
----
-
-## @mult1fractal
-
-[Source](https://twitter.com/mult1fractal?ref_src=twsrc%5Etfw)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267104)
 
 ---
 
-## @pam_ferretti
+## <em>Mycobacterium tuberculosis</em> infection, immune activation, and risk of HIV acquisition
 
-[Source](https://twitter.com/pam_ferretti?ref_src=twsrc%5Etfw)
-
----
-
-## @ines_cim
-
-[Source](https://twitter.com/ines_cim?ref_src=twsrc%5Etfw)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267729)
 
 ---
 
-## April 28, 2022
+## The effects of antibiotic cycling and mixing on acquisition of antibiotic resistant bacteria in the ICU: A post-hoc individual patient analysis of a prospective cluster-randomized crossover study
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1519630321540608000?ref_src=twsrc%5Etfw)
-
----
-
-## Comprehensive human amniotic fluid metagenomics supports the sterile womb hypothesis
-
-[Source](https://www.nature.com/articles/s41598-022-10869-7)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265720)
 
 ---
 
-## <em>Lactobacillus acidophilus</em>,<em> L. plantarum</em>,<em> L. rhamnosus</em>, and <em>L. reuteri </em>Cell-Free Supernatants Inhibit Candida parapsilosis Pathogenic Potential upon Infection of Vaginal Epithelial Cells Monolayer and in a Transwell Coculture System In Vitro
+## Efficacy of laparotomy sponges to reduce bacterial contamination using an in vitro gastrointestinal surgery model 
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02696-21)
-
----
-
-## Probiotic Mixture Containing Lactobacillus helveticus, Bifidobacterium longum and Lactiplantibacillus plantarum Affects Brain Responses Toward an Emotional Task in Healthy Subjects: A Randomized Clinical Trial 
-
-[Source](https://www.frontiersin.org/articles/10.3389/fnut.2022.827182/full)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267293)
 
 ---
 
-## Identification and characterization of novel endolysins targeting <em>Gardnerella vaginalis</em> biofilms to treat bacterial vaginosis
+## Virulence and antimicrobial resistance gene profiles of <em>Staphylococcus aureus</em> associated with clinical mastitis in cattle
 
-[Source](https://www.nature.com/articles/s41522-022-00285-0)
-
----
-
-## Deciphering mechanisms and implications of bacterial translocation in human health and disease 
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000303)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0264762)
 
 ---
 
-## @ShenJin_AuAs
+## Preexisting <em>Trichinella spiralis</em> infection attenuates the severity of <em>Pseudomonas aeruginosa</em>-induced pneumonia
 
-[Source](https://twitter.com/ShenJin_AuAs?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/icxPbKifM6
-
-[Source](https://t.co/icxPbKifM6)
+[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010395)
 
 ---
 
-## April 28, 2022
+## Metagenomic analysis for taxonomic and functional potential of Polyaromatic hydrocarbons (PAHs) and Polychlorinated biphenyl (PCB) degrading bacterial communities in steel industrial soil.
+ 03.05.2022, _M Sandhu, AT Paul, PN Jha_
 
-[Source](https://twitter.com/schirmer_lab/status/1519676787126583296?ref_src=twsrc%5Etfw)
 
----
+_Bacteria, Polychlorinated Biphenyls, Soil, Soil Pollutants, Steel, Tandem Mass Spectrometry_
+Iron and steel industries are the major contributors to persistent organic pollutants (POPs). The microbial community present at such sites has the potential to remediate these contaminants. The present study highlights the metabolic potential of the resident bacterial community of PAHs and PCB contaminated soil nearby Bhilai steel plant, Chhattisgarh (India). The GC-MS/MS analysis of soil samples MGB-2 (sludge) and MGB-3 (dry soil) resulted in identification of different classes of POPs including PAHs {benzo[a]anthracene (nd; 17.69%), fluorene (15.89%, nd), pyrene (nd; 18.7%), benzo(b)fluoranthene (3.03%, nd), benzo(k)fluoranthene (11.29%; nd), perylene (5.23%; nd)} and PCBs (PCB-15, PCB-95, and PCB-136). Whole-genome metagenomic analysis by Oxford Nanopore GridION Technology revealed predominance of domain bacteria (97.4%; 97.5%) followed by eukaryote (1.4%; 1.5%), archaea (1.2%; 0.9%) and virus (0.02%; 0.04%) in MGB-2 and MGB-3 respectively. Proteobacteria (44.3%; 50.0%) to be the prominent phylum followed by Actinobacteria (22.1%; 19.5%) in MBG-2 and MBG-3, respectively. However, Eukaryota microbial communities showed a predominance of phylum Ascomycota (20.5%; 23.6%), Streptophyta (18.5%, 17.0%) and unclassified (derived from Eukaryota) (12.1%; 12.2%) in MGB-2 and MGB-3. The sample MGB-3 was richer in macronutrients (C, N, P), supporting high microbial diversity than MGB-2. The presence of reads for biphenyl degradation, dioxin degradation, PAH degradation pathways can be further correlated with the presence of PCB and PAH as detected in the MGB-2 and MGB-3 samples. Further, taxonomic vis-à-vis functional analysis identified Burkholderia, Bradyrhizobium, Mycobacterium, and Rhodopseudomonas as the keystone degrader of PAH and PCB. Overall, our results revealed the importance of metagenomic and physicochemical analysis of the contaminated site, which improves the understanding of metabolic potential and adaptation of bacteria growing under POP contaminated environments.
 
-## Two Competing Guilds as a Core Microbiome Signature for Chronic Diseases
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266808)
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.05.02.490290v1)
-
----
-
-## Neonatal Immune Challenge influences the Microbiota and Behaviour in a Sexually Dimorphic Manner 
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0889159122001210)
+10.1371/journal.pone.0266808
 
 ---
 
-## Diet- and microbiota-related metabolite, 5-aminovaleric acid betaine (5-AVAB), in health and disease 
+## Transcriptomic analysis of chloride tolerance in <em>Leptospirillum ferriphilum</em> DSM 14647 adapted to NaCl
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1043276022000613)
-
----
-
-## “Molding” immunity—modulation of mucosal and systemic immunity by the intestinal mycobiome in health and disease
-
-[Source](https://www.nature.com/articles/s41385-022-00515-w.epdf)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267316)
 
 ---
 
-## Evolution of the murine gut resistome following broad-spectrum antibiotic treatment
+## Sole and combined effect of foliar zinc and arbuscular mycorrhizae inoculation on basmati rice growth, productivity and grains nutrient.
+ 03.05.2022, _H Mehmood, MA Ali, S Hussain, KS Baig, H Sultan, SA Hasan Naqvi, MN Shahid, S Ali, EA Alhomaidi, R Datta_
 
-[Source](https://www.nature.com/articles/s41467-022-29919-9)
 
----
+_Fertilizers, Mycorrhizae, Nutrients, Oryza, Zinc_
+Mismanagement in foliar fertilizer application at different crop stages decreases the productivity of the crop. Likewise, higher application of phosphorus (P) beyond recommended application rates not only decrease zinc (Zn) uptake in rice but also increase fertilizer use cost. Inoculation of arbuscular mycorrhizae (AMF) may optimize the uptake of P and improve crops production via organic secretions. That's why the current study was conducted to examine the individual and coordinated effects of 0.5% Zn (0.5Zn) foliar spray (tillering (T) and/or panicle (P) initiation stage) and AMF application. Application of foliar 0.5Zn at tillering+panicle stage remained significantly better for significant enhancement in plant height, spike length, gas exchange attributes and total chlorophyll contents than control. A significant decrease in electrolyte leakage Also validated the effectiveness of treatment 0.5ZnT+P compared to control. Compared to control, the maximum increase in N (14.5 and 25.7%), P (42.1 and 33.3%), K (22.2 and 30.0%) and Zn (19.3 and 27.8%) accumulation was also found in 0.5ZnT+P, with and without AMF, respectively. In conclusion, 0.5ZnT+P with AMF is a better approach than sole application of Zn at tillering or panicle initiation stages. Nevertheless, more investigations are suggested at field level under variable climatic zones to confirm the effectiveness of 0.5ZnT+P with AMF for improvement in rice growth and production.
 
-## here
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266248)
 
-[Source](https://microbiologycommunity.nature.com/posts/antimicrobial-resistance-a-tale-of-silence-and-lessons)
-
----
-
-## https://t.co/imLMLaakZ2
-
-[Source](https://t.co/imLMLaakZ2)
+10.1371/journal.pone.0266248
 
 ---
 
-## April 28, 2022
+## Characterization and complete genome sequence analysis of a newly isolatedphage against Vibrio parahaemolyticus from sick shrimp in Qingdao, China.
+ 05.05.2022, _F Tian, J Li, Y Hu, F Zhao, H Ren, Q Pan, A Nazir, F Li, Y Tong_
 
-[Source](https://twitter.com/MicroSysEco/status/1519621113017511936?ref_src=twsrc%5Etfw)
 
----
+Foodborne diseases have become a serious havoc, where antimicrobial resistance is throwing significant challenges on daily basis. With the increase of drug-resistant bacteria and food-borne infection associated with Vibrio parahaemolyticus, new and effective strategies were needed to control the emergence of vibriosis. Lytic bacteriophages come up as a promising way to resist the pathogenic population in various applications. In this study, a V. parahaemolyticus specific phage vB_VpS_PG28 was isolated from sewage in the seafood market. Results showed vB_VpS_PG28, is strictly a lytic bacteriophage and has a relatively large burst size of 103 plaque-forming units per infected cell. Comparative genomic and bioinformatic analyses proved that vB_VpS_PG28 is a new bacteriophage that had a homologous relation with Vibrio phages of family Siphoviridae, especially with phage VH2_2019, but transmission electron microscopy of vB_VpS_PG28 morphology characterized its morphology is similar to that of Myoviridae family. In silico analysis indicated that the vB_VpS_PG28 genome consists of 82712 bp (48.08% GC content) encoding 114 putative ORFs without tRNA,and any gene associated with resistance or virulence factors has not been found. The bacteriophage in the present study has shown significant outcomes in order to control bacterial growth under in vitro conditions. Thus, we are suggesting a beneficiary agent against foodborne pathogens. Further, to ensure the safe usage of phage oral toxicity testing is recommended.
 
-## Sugars dominate the seagrass rhizosphere
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266683)
 
-[Source](https://www.nature.com/articles/s41559-022-01740-z.epdf)
-
----
-
-## @NatureEcoEvo
-
-[Source](https://twitter.com/NatureEcoEvo?ref_src=twsrc%5Etfw)
+10.1371/journal.pone.0266683
 
 ---
 
-## https://t.co/r8wvYtRIhh
-
-[Source](https://t.co/r8wvYtRIhh)
-
----
-
-## May 2, 2022
-
-[Source](https://twitter.com/MaggieSogin/status/1521183500535144448?ref_src=twsrc%5Etfw)
-
----
-
-## A snapshot of the global drinking water virome: Diversity and metabolic potential vary with residual disinfectant use.
- 03.05.2022, _B Hegarty, Z Dai, L Raskin, A Pinto, K Wigginton, M Duhaime_
+## Financial incentives to increase stool collection rates for microbiome studies in adult bone marrow transplant patients.
+ 05.05.2022, _JC Thompson, Y Ren, K Romero, M Lew, AT Bush, JA Messina, SH Jung, S Siamakpour-Reihani, J Miller, RR Jenq, JU Peled, MRM van den Brink, NJ Chao, MG Shrime, AD Sung_
 
 
-Viruses are important drivers of microbial community ecology and evolution, influencing microbial mortality, metabolism, and horizontal gene transfer. However, the effects of viruses remain largely unknown in many environments, including in drinking water systems. Drinking water metagenomic studies have offered a whole community perspective of bacterial impacts on water quality, but have not yet considered the influences of viruses. In this study, we address this gap by mining viral DNA sequences from publicly available drinking water metagenomes from distribution systems in six countries around the world. These datasets provide a snapshot of the taxonomic diversity and metabolic potential of the global drinking water virome; and provide an opportunity to investigate the effects of geography, climate, and drinking water treatment practices on viral diversity. Both environmental conditions and differences in sample processing were found to influence the viral composition. Using free chlorine as the residual disinfectant was associated with clear differences in viral taxonomic diversity and metabolic potential, with significantly fewer viral populations and less even viral community structures than observed in distribution systems without residual disinfectant. Additionally, drinking water viruses carry antibiotic resistance genes (ARGs), as well as genes to survive oxidative stress and nitrogen limitation. Through this study, we have demonstrated that viral communities are diverse across drinking water systems and vary with the use of residual disinfectant. Our findings offer directions for future research to develop a more robust understanding of how virus-bacteria interactions in drinking water distribution systems affect water quality.
+In order to study the role of the microbiome in hematopoietic stem cell transplantation (HCT), researchers collect stool samples from patients at various time points throughout HCT. However, stool collection requires active subject participation and may be limited by patient reluctance to handling stool.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422004389)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267974)
 
-10.1016/j.watres.2022.118484
-
----
-
-## Fast quantification of gut bacterial species in cocultures using flow cytometry and supervised classification
-
-[Source](https://www.nature.com/articles/s43705-022-00123-6)
-
----
-
-## A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments.
- 03.05.2022, _S Pan, C Zhu, XM Zhao, LP Coelho_
-
-
-_Algorithms, Metagenome, Metagenomics, Microbiota, Neural Networks, Computer_
-Metagenomic binning is the step in building metagenome-assembled genomes (MAGs) when sequences predicted to originate from the same genome are automatically grouped together. The most widely-used methods for binning are reference-independent, operating de novo and enable the recovery of genomes from previously unsampled clades. However, they do not leverage the knowledge in existing databases. Here, we introduce SemiBin, an open source tool that uses deep siamese neural networks to implement a semi-supervised approach, i.e. SemiBin exploits the information in reference genomes, while retaining the capability of reconstructing high-quality bins that are outside the reference dataset. Using simulated and real microbiome datasets from several different habitats from GMGCv1 (Global Microbial Gene Catalog), including the human gut, non-human guts, and environmental habitats (ocean and soil), we show that SemiBin outperforms existing state-of-the-art binning methods. In particular, compared to other methods, SemiBin returns more high-quality bins with larger taxonomic diversity, including more distinct genera and species.
-
-[Source](https://www.nature.com/articles/s41467-022-29843-y)
-
-10.1038/s41467-022-29843-y
-
----
-
-## https://t.co/eUXEeO2i5Q
-
-[Source](https://t.co/eUXEeO2i5Q)
-
----
-
-## April 28, 2022
-
-[Source](https://twitter.com/luispedrocoelho/status/1519649876816060422?ref_src=twsrc%5Etfw)
-
----
-
-## HiFine: integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs
-
-[Source](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac295/6575440)
-
----
-
-## happi: a Hierarchical Approach to Pangenomics Inference
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.04.26.489591v1)
-
----
-
-## Investigating the impact of database choice on the accuracy of metagenomic read classification for the rumen microbiome
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.04.26.489553v1)
-
----
-
-## TAMPA: interpretable analysis and visualization of metagenomics-based taxon abundance profiles
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.04.28.489926v1)
-
----
-
-## May 2, 2022
-
-[Source](https://twitter.com/Dani_M_Stevens/status/1521003532370857984?ref_src=twsrc%5Etfw)
+10.1371/journal.pone.0267974
 
 ---
 
