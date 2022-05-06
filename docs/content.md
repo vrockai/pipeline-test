@@ -210,15 +210,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Understanding links between maternal perinatal posttraumatic stress symptoms and infant socioemotional and physical health.
+ 05.05.2022, _L Huffhines, JL Coe, A Busuito, R Seifer, SH Parade_
+
+
+Maternal posttraumatic stress symptoms (PTSS) are associated with adverse consequences for older children, but very few studies have examined links between perinatal maternal PTSS and infant outcomes. Trauma exposure and psychopathology, including PTSS, is often heightened for women during pregnancy through 1 year postpartum. Therefore, the perinatal period may be a critical time for understanding the risk maternal PTSS and other mental health factors pose to the socioemotional and physical health of infants. The present study explored the relation between maternal PTSS and infant socioemotional and physical health problems in a sample of racially and ethnically diverse mother-infant dyads (N = 295) assessed prenatally and at 12 months postpartum. This study also examined whether there are: (1) moderating effects of maternal depressive symptoms and parenting stress on these associations and (2) indirect effects of PTSS on infant outcomes through observed maternal sensitivity. Results indicated that postpartum depressive symptoms and parenting stress, rather than PTSS, were associated with greater infant socioemotional health problems. However, prenatal PTSS were associated with greater infant physical health problems when mothers also reported clinically significant levels of postpartum depressive symptoms. Maternal sensitivity was not associated with maternal PTSS, depressive symptoms, or parenting stress, nor was it related to infant socioemotional and physical health; thus, maternal sensitivity was not tested as an intermediary mechanism linking maternal mental health with infant outcomes. Implications for promoting maternal mental health in the perinatal period to bolster socioemotional and physical health of infants are discussed.
+
+[Source](https://twitter.com/MaggieSogin/status/1521183500535144448?ref_src=twsrc%5Etfw)
+
+10.1002/imhj.21985
+
+---
+
 ## May 2, 2022
 
 [Source](https://twitter.com/MaggieSogin/status/1521183500535144448?ref_src=twsrc%5Etfw)
 
 ---
 
-## A snapshot of the global drinking water virome: Diversity and metabolic potential vary with residual disinfectant use
+## A snapshot of the global drinking water virome: Diversity and metabolic potential vary with residual disinfectant use.
+ 03.05.2022, _B Hegarty, Z Dai, L Raskin, A Pinto, K Wigginton, M Duhaime_
+
+
+Viruses are important drivers of microbial community ecology and evolution, influencing microbial mortality, metabolism, and horizontal gene transfer. However, the effects of viruses remain largely unknown in many environments, including in drinking water systems. Drinking water metagenomic studies have offered a whole community perspective of bacterial impacts on water quality, but have not yet considered the influences of viruses. In this study, we address this gap by mining viral DNA sequences from publicly available drinking water metagenomes from distribution systems in six countries around the world. These datasets provide a snapshot of the taxonomic diversity and metabolic potential of the global drinking water virome; and provide an opportunity to investigate the effects of geography, climate, and drinking water treatment practices on viral diversity. Both environmental conditions and differences in sample processing were found to influence the viral composition. Using free chlorine as the residual disinfectant was associated with clear differences in viral taxonomic diversity and metabolic potential, with significantly fewer viral populations and less even viral community structures than observed in distribution systems without residual disinfectant. Additionally, drinking water viruses carry antibiotic resistance genes (ARGs), as well as genes to survive oxidative stress and nitrogen limitation. Through this study, we have demonstrated that viral communities are diverse across drinking water systems and vary with the use of residual disinfectant. Our findings offer directions for future research to develop a more robust understanding of how virus-bacteria interactions in drinking water distribution systems affect water quality.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422004389)
+
+10.1016/j.watres.2022.118484
 
 ---
 
