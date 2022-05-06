@@ -210,18 +210,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Understanding links between maternal perinatal posttraumatic stress symptoms and infant socioemotional and physical health.
- 05.05.2022, _L Huffhines, JL Coe, A Busuito, R Seifer, SH Parade_
-
-
-Maternal posttraumatic stress symptoms (PTSS) are associated with adverse consequences for older children, but very few studies have examined links between perinatal maternal PTSS and infant outcomes. Trauma exposure and psychopathology, including PTSS, is often heightened for women during pregnancy through 1 year postpartum. Therefore, the perinatal period may be a critical time for understanding the risk maternal PTSS and other mental health factors pose to the socioemotional and physical health of infants. The present study explored the relation between maternal PTSS and infant socioemotional and physical health problems in a sample of racially and ethnically diverse mother-infant dyads (N = 295) assessed prenatally and at 12 months postpartum. This study also examined whether there are: (1) moderating effects of maternal depressive symptoms and parenting stress on these associations and (2) indirect effects of PTSS on infant outcomes through observed maternal sensitivity. Results indicated that postpartum depressive symptoms and parenting stress, rather than PTSS, were associated with greater infant socioemotional health problems. However, prenatal PTSS were associated with greater infant physical health problems when mothers also reported clinically significant levels of postpartum depressive symptoms. Maternal sensitivity was not associated with maternal PTSS, depressive symptoms, or parenting stress, nor was it related to infant socioemotional and physical health; thus, maternal sensitivity was not tested as an intermediary mechanism linking maternal mental health with infant outcomes. Implications for promoting maternal mental health in the perinatal period to bolster socioemotional and physical health of infants are discussed.
-
-[Source](https://twitter.com/MaggieSogin/status/1521183500535144448?ref_src=twsrc%5Etfw)
-
-10.1002/imhj.21985
-
----
-
 ## May 2, 2022
 
 [Source](https://twitter.com/MaggieSogin/status/1521183500535144448?ref_src=twsrc%5Etfw)
