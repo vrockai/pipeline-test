@@ -40,9 +40,16 @@
 
 ---
 
-## The effects of antibiotic cycling and mixing on acquisition of antibiotic resistant bacteria in the ICU: A post-hoc individual patient analysis of a prospective cluster-randomized crossover study
+## The effects of antibiotic cycling and mixing on acquisition of antibiotic resistant bacteria in the ICU: A post-hoc individual patient analysis of a prospective cluster-randomized crossover study.
+ 06.05.2022, _PJ van Duijn, W Verbrugghe, PG Jorens, F Spöhr, D Schedler, M Deja, A Rothbart, D Annane, C Lawrence, M Jereb, K Seme, F Šifrer, V Tomič, F Estevez, J Carneiro, S Harbarth, MJM Bonten_
+
+
+_Angiotensin Receptor Antagonists, Angiotensin-Converting Enzyme Inhibitors, Anti-Bacterial Agents, Carbapenems, Cephalosporins, Cross-Over Studies, Gram-Negative Bacteria, Humans, Intensive Care Units, Piperacillin, Prospective Studies, Pseudomonas aeruginosa, Tazobactam_
+Repeated rotation of empiric antibiotic treatment strategies is hypothesized to reduce antibiotic resistance. Clinical rotation studies failed to change unit-wide prevalence of antibiotic resistant bacteria (ARB) carriage, including an international cluster-randomized crossover study. Unit-wide effects may differ from individual effects due to "ecological fallacy". This post-hoc analysis of a cluster-randomized crossover study assesses differences between cycling and mixing rotation strategies in acquisition of carriage with Gram-negative ARB in individual patients.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265720)
+
+10.1371/journal.pone.0265720
 
 ---
 
@@ -76,42 +83,21 @@
 
 ---
 
-## Sole and combined effect of foliar zinc and arbuscular mycorrhizae inoculation on basmati rice growth, productivity and grains nutrient.
- 03.05.2022, _H Mehmood, MA Ali, S Hussain, KS Baig, H Sultan, SA Hasan Naqvi, MN Shahid, S Ali, EA Alhomaidi, R Datta_
-
-
-_Fertilizers, Mycorrhizae, Nutrients, Oryza, Zinc_
-Mismanagement in foliar fertilizer application at different crop stages decreases the productivity of the crop. Likewise, higher application of phosphorus (P) beyond recommended application rates not only decrease zinc (Zn) uptake in rice but also increase fertilizer use cost. Inoculation of arbuscular mycorrhizae (AMF) may optimize the uptake of P and improve crops production via organic secretions. That's why the current study was conducted to examine the individual and coordinated effects of 0.5% Zn (0.5Zn) foliar spray (tillering (T) and/or panicle (P) initiation stage) and AMF application. Application of foliar 0.5Zn at tillering+panicle stage remained significantly better for significant enhancement in plant height, spike length, gas exchange attributes and total chlorophyll contents than control. A significant decrease in electrolyte leakage Also validated the effectiveness of treatment 0.5ZnT+P compared to control. Compared to control, the maximum increase in N (14.5 and 25.7%), P (42.1 and 33.3%), K (22.2 and 30.0%) and Zn (19.3 and 27.8%) accumulation was also found in 0.5ZnT+P, with and without AMF, respectively. In conclusion, 0.5ZnT+P with AMF is a better approach than sole application of Zn at tillering or panicle initiation stages. Nevertheless, more investigations are suggested at field level under variable climatic zones to confirm the effectiveness of 0.5ZnT+P with AMF for improvement in rice growth and production.
+## Sole and combined effect of foliar zinc and arbuscular mycorrhizae inoculation on basmati rice growth, productivity and grains nutrient 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266248)
 
-10.1371/journal.pone.0266248
-
 ---
 
-## Characterization and complete genome sequence analysis of a newly isolatedphage against Vibrio parahaemolyticus from sick shrimp in Qingdao, China.
- 06.05.2022, _F Tian, J Li, Y Hu, F Zhao, H Ren, Q Pan, A Nazir, F Li, Y Tong_
-
-
-_Animals, Bacteriophages, Crustacea, Genome, Viral, Phylogeny, Seafood, Sequence Analysis, Vibrio parahaemolyticus_
-Foodborne diseases have become a serious havoc, where antimicrobial resistance is throwing significant challenges on daily basis. With the increase of drug-resistant bacteria and food-borne infection associated with Vibrio parahaemolyticus, new and effective strategies were needed to control the emergence of vibriosis. Lytic bacteriophages come up as a promising way to resist the pathogenic population in various applications. In this study, a V. parahaemolyticus specific phage vB_VpS_PG28 was isolated from sewage in the seafood market. Results showed vB_VpS_PG28, is strictly a lytic bacteriophage and has a relatively large burst size of 103 plaque-forming units per infected cell. Comparative genomic and bioinformatic analyses proved that vB_VpS_PG28 is a new bacteriophage that had a homologous relation with Vibrio phages of family Siphoviridae, especially with phage VH2_2019, but transmission electron microscopy of vB_VpS_PG28 morphology characterized its morphology is similar to that of Myoviridae family. In silico analysis indicated that the vB_VpS_PG28 genome consists of 82712 bp (48.08% GC content) encoding 114 putative ORFs without tRNA,and any gene associated with resistance or virulence factors has not been found. The bacteriophage in the present study has shown significant outcomes in order to control bacterial growth under in vitro conditions. Thus, we are suggesting a beneficiary agent against foodborne pathogens. Further, to ensure the safe usage of phage oral toxicity testing is recommended.
+## Characterization and complete genome sequence analysis of a newly isolated phage against Vibrio parahaemolyticus from sick shrimp in Qingdao, China
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266683)
 
-10.1371/journal.pone.0266683
-
 ---
 
-## Financial incentives to increase stool collection rates for microbiome studies in adult bone marrow transplant patients.
- 06.05.2022, _JC Thompson, Y Ren, K Romero, M Lew, AT Bush, JA Messina, SH Jung, S Siamakpour-Reihani, J Miller, RR Jenq, JU Peled, MRM van den Brink, NJ Chao, MG Shrime, AD Sung_
-
-
-_Adult, Bone Marrow Transplantation, Hematopoietic Stem Cell Transplantation, Humans, Microbiota, Motivation, Prospective Studies, Transplantation Conditioning, Transplantation, Autologous, Transplantation, Homologous_
-In order to study the role of the microbiome in hematopoietic stem cell transplantation (HCT), researchers collect stool samples from patients at various time points throughout HCT. However, stool collection requires active subject participation and may be limited by patient reluctance to handling stool.
+## Financial incentives to increase stool collection rates for microbiome studies in adult bone marrow transplant patients
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267974)
-
-10.1371/journal.pone.0267974
 
 ---
 
