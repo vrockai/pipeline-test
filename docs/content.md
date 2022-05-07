@@ -64,16 +64,9 @@
 
 ---
 
-## Metagenomic analysis for taxonomic and functional potential of Polyaromatic hydrocarbons (PAHs) and Polychlorinated biphenyl (PCB) degrading bacterial communities in steel industrial soil.
- 03.05.2022, _M Sandhu, AT Paul, PN Jha_
-
-
-_Bacteria, Polychlorinated Biphenyls, Soil, Soil Pollutants, Steel, Tandem Mass Spectrometry_
-Iron and steel industries are the major contributors to persistent organic pollutants (POPs). The microbial community present at such sites has the potential to remediate these contaminants. The present study highlights the metabolic potential of the resident bacterial community of PAHs and PCB contaminated soil nearby Bhilai steel plant, Chhattisgarh (India). The GC-MS/MS analysis of soil samples MGB-2 (sludge) and MGB-3 (dry soil) resulted in identification of different classes of POPs including PAHs {benzo[a]anthracene (nd; 17.69%), fluorene (15.89%, nd), pyrene (nd; 18.7%), benzo(b)fluoranthene (3.03%, nd), benzo(k)fluoranthene (11.29%; nd), perylene (5.23%; nd)} and PCBs (PCB-15, PCB-95, and PCB-136). Whole-genome metagenomic analysis by Oxford Nanopore GridION Technology revealed predominance of domain bacteria (97.4%; 97.5%) followed by eukaryote (1.4%; 1.5%), archaea (1.2%; 0.9%) and virus (0.02%; 0.04%) in MGB-2 and MGB-3 respectively. Proteobacteria (44.3%; 50.0%) to be the prominent phylum followed by Actinobacteria (22.1%; 19.5%) in MBG-2 and MBG-3, respectively. However, Eukaryota microbial communities showed a predominance of phylum Ascomycota (20.5%; 23.6%), Streptophyta (18.5%, 17.0%) and unclassified (derived from Eukaryota) (12.1%; 12.2%) in MGB-2 and MGB-3. The sample MGB-3 was richer in macronutrients (C, N, P), supporting high microbial diversity than MGB-2. The presence of reads for biphenyl degradation, dioxin degradation, PAH degradation pathways can be further correlated with the presence of PCB and PAH as detected in the MGB-2 and MGB-3 samples. Further, taxonomic vis-à-vis functional analysis identified Burkholderia, Bradyrhizobium, Mycobacterium, and Rhodopseudomonas as the keystone degrader of PAH and PCB. Overall, our results revealed the importance of metagenomic and physicochemical analysis of the contaminated site, which improves the understanding of metabolic potential and adaptation of bacteria growing under POP contaminated environments.
+## Metagenomic analysis for taxonomic and functional potential of Polyaromatic hydrocarbons (PAHs) and Polychlorinated biphenyl (PCB) degrading bacterial communities in steel industrial soil
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266808)
-
-10.1371/journal.pone.0266808
 
 ---
 
@@ -97,9 +90,10 @@ Mismanagement in foliar fertilizer application at different crop stages decrease
 ---
 
 ## Characterization and complete genome sequence analysis of a newly isolatedphage against Vibrio parahaemolyticus from sick shrimp in Qingdao, China.
- 05.05.2022, _F Tian, J Li, Y Hu, F Zhao, H Ren, Q Pan, A Nazir, F Li, Y Tong_
+ 06.05.2022, _F Tian, J Li, Y Hu, F Zhao, H Ren, Q Pan, A Nazir, F Li, Y Tong_
 
 
+_Animals, Bacteriophages, Crustacea, Genome, Viral, Phylogeny, Seafood, Sequence Analysis, Vibrio parahaemolyticus_
 Foodborne diseases have become a serious havoc, where antimicrobial resistance is throwing significant challenges on daily basis. With the increase of drug-resistant bacteria and food-borne infection associated with Vibrio parahaemolyticus, new and effective strategies were needed to control the emergence of vibriosis. Lytic bacteriophages come up as a promising way to resist the pathogenic population in various applications. In this study, a V. parahaemolyticus specific phage vB_VpS_PG28 was isolated from sewage in the seafood market. Results showed vB_VpS_PG28, is strictly a lytic bacteriophage and has a relatively large burst size of 103 plaque-forming units per infected cell. Comparative genomic and bioinformatic analyses proved that vB_VpS_PG28 is a new bacteriophage that had a homologous relation with Vibrio phages of family Siphoviridae, especially with phage VH2_2019, but transmission electron microscopy of vB_VpS_PG28 morphology characterized its morphology is similar to that of Myoviridae family. In silico analysis indicated that the vB_VpS_PG28 genome consists of 82712 bp (48.08% GC content) encoding 114 putative ORFs without tRNA,and any gene associated with resistance or virulence factors has not been found. The bacteriophage in the present study has shown significant outcomes in order to control bacterial growth under in vitro conditions. Thus, we are suggesting a beneficiary agent against foodborne pathogens. Further, to ensure the safe usage of phage oral toxicity testing is recommended.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266683)
@@ -109,9 +103,10 @@ Foodborne diseases have become a serious havoc, where antimicrobial resistance i
 ---
 
 ## Financial incentives to increase stool collection rates for microbiome studies in adult bone marrow transplant patients.
- 05.05.2022, _JC Thompson, Y Ren, K Romero, M Lew, AT Bush, JA Messina, SH Jung, S Siamakpour-Reihani, J Miller, RR Jenq, JU Peled, MRM van den Brink, NJ Chao, MG Shrime, AD Sung_
+ 06.05.2022, _JC Thompson, Y Ren, K Romero, M Lew, AT Bush, JA Messina, SH Jung, S Siamakpour-Reihani, J Miller, RR Jenq, JU Peled, MRM van den Brink, NJ Chao, MG Shrime, AD Sung_
 
 
+_Adult, Bone Marrow Transplantation, Hematopoietic Stem Cell Transplantation, Humans, Microbiota, Motivation, Prospective Studies, Transplantation Conditioning, Transplantation, Autologous, Transplantation, Homologous_
 In order to study the role of the microbiome in hematopoietic stem cell transplantation (HCT), researchers collect stool samples from patients at various time points throughout HCT. However, stool collection requires active subject participation and may be limited by patient reluctance to handling stool.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267974)
