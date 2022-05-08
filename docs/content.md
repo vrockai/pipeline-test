@@ -161,15 +161,9 @@ Growing evidence suggests that the gut microbiome is an important contributor to
 
 ---
 
-## Associations between bacterial communities and microplastics from surface seawater of the Northern Patagonian area of Chile.
- 05.05.2022, _P Aguila-Torres, M González, JE Maldonado, R Miranda, L Zhang, R González-Stegmaier, LA Rojas, A Gaete_
-
-
-The presence of microplastics in oceans and coastlines has increased during recent years due anthropogenic activities and represents a serious environmental problem. The establishment and assembly of microbial communities in these microplastics, specifically located near aquaculture activities, is not well understood. In this study, we analyzed unique and core members of bacterial communities attached to microplastics collected from three coastal environments of the South Pacific, which represent low, medium and high anthropogenic activity derived from the aquaculture industry. Microplastics were analyzed with Fourier-transform infrared spectroscopy, scanning electron microscopy, and next-generation sequencing to assess the prevailing microplastics types, and to characterize microbial communities attached to them. We identified four main types of microplastics (polypropylene, polyethylene, nylon and polystyrene) and 3102 Operational Taxonomic Units (OTUs) at the sampled sites, which were dominated by the phylum Cyanobacteria, Bacteroidetes and Proteobacteria (mainly Alpha and Gammaproteobacteria). Similarity index analysis showed that bacterial communities in microplastics differed from those found in the surrounding seawaters, and also that they varied among locations, suggesting a role of the environment and level of anthropogenic activities on the plastisphere taxa. Despite this difference, 222 bacterial OTUs were shared among the three sites representing between 34 and 51% of OTUs of each sampled site, and thus constituted a core microbiome of microplastics. Comparison of the core microbiome with bacterial communities of the surrounding seawater suggested that the plastisphere constituted a selective habitat for diverse microbial communities. Computational predictions also provided evidence of significantly enriched functions in the core microbiome. Co-occurrence networks revealed that putative ecological interactions among microplastics OTUs was dominated by positive correlations. To the best of our knowledge, this is the first study that evaluated the composition of microbial communities found in microplastics from the Patagonia region of the Southern Pacific Ocean.
+## Associations between bacterial communities and microplastics from surface seawater of the Northern Patagonian area of Chile
 
 [Source](https://doi.org/10.1016/j.envpol.2022.119313)
-
-10.1016/j.envpol.2022.119313
 
 ---
 
