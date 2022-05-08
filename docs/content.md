@@ -161,51 +161,99 @@ Growing evidence suggests that the gut microbiome is an important contributor to
 
 ---
 
-## Associations between bacterial communities and microplastics from surface seawater of the Northern Patagonian area of Chile
+## Associations between bacterial communities and microplastics from surface seawater of the Northern Patagonian area of Chile.
+ 05.05.2022, _P Aguila-Torres, M González, JE Maldonado, R Miranda, L Zhang, R González-Stegmaier, LA Rojas, A Gaete_
+
+
+The presence of microplastics in oceans and coastlines has increased during recent years due anthropogenic activities and represents a serious environmental problem. The establishment and assembly of microbial communities in these microplastics, specifically located near aquaculture activities, is not well understood. In this study, we analyzed unique and core members of bacterial communities attached to microplastics collected from three coastal environments of the South Pacific, which represent low, medium and high anthropogenic activity derived from the aquaculture industry. Microplastics were analyzed with Fourier-transform infrared spectroscopy, scanning electron microscopy, and next-generation sequencing to assess the prevailing microplastics types, and to characterize microbial communities attached to them. We identified four main types of microplastics (polypropylene, polyethylene, nylon and polystyrene) and 3102 Operational Taxonomic Units (OTUs) at the sampled sites, which were dominated by the phylum Cyanobacteria, Bacteroidetes and Proteobacteria (mainly Alpha and Gammaproteobacteria). Similarity index analysis showed that bacterial communities in microplastics differed from those found in the surrounding seawaters, and also that they varied among locations, suggesting a role of the environment and level of anthropogenic activities on the plastisphere taxa. Despite this difference, 222 bacterial OTUs were shared among the three sites representing between 34 and 51% of OTUs of each sampled site, and thus constituted a core microbiome of microplastics. Comparison of the core microbiome with bacterial communities of the surrounding seawater suggested that the plastisphere constituted a selective habitat for diverse microbial communities. Computational predictions also provided evidence of significantly enriched functions in the core microbiome. Co-occurrence networks revealed that putative ecological interactions among microplastics OTUs was dominated by positive correlations. To the best of our knowledge, this is the first study that evaluated the composition of microbial communities found in microplastics from the Patagonia region of the Southern Pacific Ocean.
 
 [Source](https://doi.org/10.1016/j.envpol.2022.119313)
 
+10.1016/j.envpol.2022.119313
+
 ---
 
-## Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons
+## Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons.
+ 06.05.2022, _M Qi, JC Berry, KW Veley, L O'Connor, OM Finkel, I Salas-González, M Kuhs, J Jupe, E Holcomb, T Glavina Del Rio, C Creech, P Liu, SG Tringe, JL Dangl, DP Schachtman, RS Bart_
+
+
+Drought is a major abiotic stress limiting agricultural productivity. Previous field-level experiments have demonstrated that drought decreases microbiome diversity in the root and rhizosphere. How these changes ultimately affect plant health remains elusive. Toward this end, we combined reductionist, transitional and ecological approaches, applied to the staple cereal crop sorghum to identify key root-associated microbes that robustly affect drought-stressed plant phenotypes. Fifty-three Arabidopsis-associated bacteria were applied to sorghum seeds and their effect on root growth was monitored. Two Arthrobacter strains caused root growth inhibition (RGI) in Arabidopsis and sorghum. In the context of synthetic communities, Variovorax strains were able to protect plants from Arthrobacter-caused RGI. As a transitional system, high-throughput phenotyping was used to test the synthetic communities. During drought stress, plants colonized by Arthrobacter had reduced growth and leaf water content. Plants colonized by both Arthrobacter and Variovorax performed as well or better than control plants. In parallel, we performed a field trial wherein sorghum was evaluated across drought conditions. By incorporating data on soil properties into the microbiome analysis, we accounted for experimental noise with a novel method and were able to observe the negative correlation between the abundance of Arthrobacter and plant growth. Having validated this approach, we cross-referenced datasets from the high-throughput phenotyping and field experiments and report a list of bacteria with high confidence that positively associated with plant growth under drought stress. In conclusion, a three-tiered experimental system successfully spanned the lab-to-field gap and identified beneficial and deleterious bacterial strains for sorghum under drought.
 
 [Source](https://doi.org/10.1038/s41396-022-01245-4)
 
+10.1038/s41396-022-01245-4
+
 ---
 
-## A metagenomic study of the bacteria in snow algae microbiomes
+## A metagenomic study of the bacteria in snow algae microbiomes.
+ 05.05.2022, _KM Yakimovich, LM Quarmby_
+
+
+The bacterial communities found in snow algae blooms have been described in terms of their 16S rRNA gene community profiles, but little information exists on their metabolic potential. Previously, we reported that several bacterial taxa are common across snow algae blooms in the southwestern mountains of the Coast Range in British Columbia, Canada. Here, we further this work by reporting a partial bacterial metagenome from the same snow algal microbiomes. Using shotgun metagenomic data, we constructed metagenomically assembled bacterial genomes (MAGs). Of the total 54 binned MAGs, 28 were bacterial and estimated to be at least 50% complete based on single copy core genes. The 28 MAGs fell into five Classes: Actinomycetia, Alphaproteobacteria, Bacteroidia, Betaproteobacteria and Gammaproteobacteria. All MAGs were assigned to a class, 27 to an order, 25 to family, 18 to genus, and none to species. MAGs showed the potential to support algal growth by synthesizing B-vitamins and growth hormones. There was also widespread adaptation to the low oxygen environment of biofilms, including synthesis of high-affinity terminal oxidases and anaerobic pathways for cobalamin synthesis. Also notable, was the absence of N2 fixation, and the presence of incomplete denitrification pathways suggestive of NO signalling within the microbiome.
 
 [Source](https://doi.org/10.1139/cjm-2021-0313)
 
+10.1139/cjm-2021-0313
+
 ---
 
-## Soil microbial diversity and functional profiling of a tropical rainforest of a highly dissected low hill from the upper Itaya river basin revealed by analysis of shotgun metagenomics sequencing data
+## Soil microbial diversity and functional profiling of a tropical rainforest of a highly dissected low hill from the upper Itaya river basin revealed by analysis of shotgun metagenomics sequencing data.
+ 07.05.2022, _M Cobos, SL Estela, HN Rodríguez, CG Castro, M Grandez, JC Castro_
+
+
+The tropical rainforest of a highly dissected low hill from the upper Itaya river basin belongs to the western Amazonia region. Some investigations on the biodiversity of these rainforests were more focused on animals and plants diversity. The soils of this region are composed of moderately fertile sediments deposited recently from the initiation of the Andean orogenesis in the Miocene until now. However, scientific information about the soil microbial and functional diversity is still missing. This report presents shotgun metagenomics sequencing data from soils of this rainforest type. A composite loamy soil sample was collected from a primary forest, and metagenomic DNA was purified with standardized methods. Furthermore, libraries were prepared and paired-end sequenced on the Illumina NextSeq 550 platform. Raw Illumina paired-end reads have been uploaded and analysed in the Metagenomics RAST server (MG-RAST). The raw sequence data in fastq format is available at NCBI's Sequence Read Archive (SRA) with accession number SRX12846710.
 
 [Source](https://doi.org/10.1016/j.dib.2022.108205)
 
+10.1016/j.dib.2022.108205
+
 ---
 
-## Accessible analysis of longitudinal data with linear mixed effects models
+## Accessible analysis of longitudinal data with linear mixed effects models.
+ 06.05.2022, _JI Murphy, NE Weaver, AE Hendricks_
+
+
+Longitudinal studies are commonly used to examine possible causal factors associated with human health and disease. However, the statistical models, such as two-way ANOVA, often applied in these studies do not appropriately model the experimental design, resulting in biased and imprecise results. Here, we describe the linear mixed effects (LME) model and how to use it for longitudinal studies. We re-analyze a dataset published by Blanton et al. in 2016 that modeled growth trajectories in mice after microbiome implantation from nourished or malnourished children. We compare the fit and stability of different parameterizations of ANOVA and LME models; most models found that the nourished versus malnourished growth trajectories differed significantly. We show through simulation that the results from the two-way ANOVA and LME models are not always consistent. Incorrectly modeling correlated data can result in increased rates of false positives or false negatives, supporting the need to model correlated data correctly. We provide an interactive Shiny App to enable accessible and appropriate analysis of longitudinal data using LME models.
 
 [Source](https://doi.org/10.1242/dmm.048025)
 
+10.1242/dmm.048025
+
 ---
 
-## Scalable in-memory processing of omics workflows
+## Scalable in-memory processing of omics workflows.
+ 07.05.2022, _V Elisseev, LJ Gardiner, R Krishna_
+
+
+We present a proof of concept implementation of the in-memory computing paradigm that we use to facilitate the analysis of metagenomic sequencing reads. In doing so we compare the performance of POSIX™file systems and key-value storage for omics data, and we show the potential for integrating high-performance computing (HPC) and cloud native technologies. We show that in-memory key-value storage offers possibilities for improved handling of omics data through more flexible and faster data processing. We envision fully containerized workflows and their deployment in portable micro-pipelines with multiple instances working concurrently with the same distributed in-memory storage. To highlight the potential usage of this technology for event driven and real-time data processing, we use a biological case study focused on the growing threat of antimicrobial resistance (AMR). We develop a workflow encompassing bioinformatics and explainable machine learning (ML) to predict life expectancy of a population based on the microbiome of its sewage while providing a description of AMR contribution to the prediction. We propose that in future, performing such analyses in 'real-time' would allow us to assess the potential risk to the population based on changes in the AMR profile of the community.
 
 [Source](https://doi.org/10.1016/j.csbj.2022.04.014)
 
+10.1016/j.csbj.2022.04.014
+
 ---
 
-## DBSCAN-SWA: An Integrated Tool for Rapid Prophage Detection and Annotation
+## DBSCAN-SWA: An Integrated Tool for Rapid Prophage Detection and Annotation.
+ 07.05.2022, _R Gan, F Zhou, Y Si, H Yang, C Chen, C Ren, J Wu, F Zhang_
+
+
+As an intracellular form of a bacteriophage in the bacterial host genome, a prophage usually integrates into bacterial DNA with high specificity and contributes to horizontal gene transfer (HGT). With the exponentially increasing number of microbial sequences uncovered in genomic or metagenomics studies, there is a massive demand for a tool that is capable of fast and accurate identification of prophages. Here, we introduce DBSCAN-SWA, a command line software tool developed to predict prophage regions in bacterial genomes. DBSCAN-SWA runs faster than any previous tools. Importantly, it has great detection power based on analysis using 184 manually curated prophages, with a recall of 85% compared with Phage_Finder (63%), VirSorter (74%), and PHASTER (82%) for (Multi-) FASTA sequences. Moreover, DBSCAN-SWA outperforms the existing standalone prophage prediction tools for high-throughput sequencing data based on the analysis of 19,989 contigs of 400 bacterial genomes collected from Human Microbiome Project (HMP) project. DBSCAN-SWA also provides user-friendly result visualizations including a circular prophage viewer and interactive DataTables. DBSCAN-SWA is implemented in Python3 and is available under an open source GPLv2 license from https://github.com/HIT-ImmunologyLab/DBSCAN-SWA/.
 
 [Source](https://doi.org/10.3389/fgene.2022.885048)
 
+10.3389/fgene.2022.885048
+
 ---
 
-## A New Approach to Testing Mediation of the Microbiome at Both the Community and Individual Taxon Levels
+## A New Approach to Testing Mediation of the Microbiome at Both the Community and Individual Taxon Levels.
+ 05.05.2022, _Y Yue, YJ Hu_
+
+
+Understanding whether and which microbes played a mediating role between an exposure and a disease outcome are essential for researchers to develop clinical interventions to treat the disease by modulating the microbes. Existing methods for mediation analysis of the microbiome are often limited to a global test of community-level mediation or selection of mediating microbes without control of the false discovery rate (FDR). Further, while the null hypothesis of no mediation at each microbe is a composite null that consists of three types of null, most existing methods treat the microbes as if they were all under the same type of null, leading to excessive false positive results.
 
 [Source](https://doi.org/10.1093/bioinformatics/btac310)
+
+10.1093/bioinformatics/btac310
 
 ---
 
