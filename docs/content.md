@@ -167,27 +167,15 @@ Growing evidence suggests that the gut microbiome is an important contributor to
 
 ---
 
-## Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons.
- 06.05.2022, _M Qi, JC Berry, KW Veley, L O'Connor, OM Finkel, I Salas-González, M Kuhs, J Jupe, E Holcomb, T Glavina Del Rio, C Creech, P Liu, SG Tringe, JL Dangl, DP Schachtman, RS Bart_
-
-
-Drought is a major abiotic stress limiting agricultural productivity. Previous field-level experiments have demonstrated that drought decreases microbiome diversity in the root and rhizosphere. How these changes ultimately affect plant health remains elusive. Toward this end, we combined reductionist, transitional and ecological approaches, applied to the staple cereal crop sorghum to identify key root-associated microbes that robustly affect drought-stressed plant phenotypes. Fifty-three Arabidopsis-associated bacteria were applied to sorghum seeds and their effect on root growth was monitored. Two Arthrobacter strains caused root growth inhibition (RGI) in Arabidopsis and sorghum. In the context of synthetic communities, Variovorax strains were able to protect plants from Arthrobacter-caused RGI. As a transitional system, high-throughput phenotyping was used to test the synthetic communities. During drought stress, plants colonized by Arthrobacter had reduced growth and leaf water content. Plants colonized by both Arthrobacter and Variovorax performed as well or better than control plants. In parallel, we performed a field trial wherein sorghum was evaluated across drought conditions. By incorporating data on soil properties into the microbiome analysis, we accounted for experimental noise with a novel method and were able to observe the negative correlation between the abundance of Arthrobacter and plant growth. Having validated this approach, we cross-referenced datasets from the high-throughput phenotyping and field experiments and report a list of bacteria with high confidence that positively associated with plant growth under drought stress. In conclusion, a three-tiered experimental system successfully spanned the lab-to-field gap and identified beneficial and deleterious bacterial strains for sorghum under drought.
+## Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons
 
 [Source](https://doi.org/10.1038/s41396-022-01245-4)
 
-10.1038/s41396-022-01245-4
-
 ---
 
-## A metagenomic study of the bacteria in snow algae microbiomes.
- 05.05.2022, _KM Yakimovich, LM Quarmby_
-
-
-The bacterial communities found in snow algae blooms have been described in terms of their 16S rRNA gene community profiles, but little information exists on their metabolic potential. Previously, we reported that several bacterial taxa are common across snow algae blooms in the southwestern mountains of the Coast Range in British Columbia, Canada. Here, we further this work by reporting a partial bacterial metagenome from the same snow algal microbiomes. Using shotgun metagenomic data, we constructed metagenomically assembled bacterial genomes (MAGs). Of the total 54 binned MAGs, 28 were bacterial and estimated to be at least 50% complete based on single copy core genes. The 28 MAGs fell into five Classes: Actinomycetia, Alphaproteobacteria, Bacteroidia, Betaproteobacteria and Gammaproteobacteria. All MAGs were assigned to a class, 27 to an order, 25 to family, 18 to genus, and none to species. MAGs showed the potential to support algal growth by synthesizing B-vitamins and growth hormones. There was also widespread adaptation to the low oxygen environment of biofilms, including synthesis of high-affinity terminal oxidases and anaerobic pathways for cobalamin synthesis. Also notable, was the absence of N2 fixation, and the presence of incomplete denitrification pathways suggestive of NO signalling within the microbiome.
+## A metagenomic study of the bacteria in snow algae microbiomes
 
 [Source](https://doi.org/10.1139/cjm-2021-0313)
-
-10.1139/cjm-2021-0313
 
 ---
 
