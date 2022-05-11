@@ -1,255 +1,164 @@
-## Signature of Alzheimer's Disease in Intestinal Microbiome: Results From the AlzBiom Study.
- 07.05.2022, _C Laske, S Müller, O Preische, V Ruschil, MHJ Munk, I Honold, S Peter, U Schoppmeier, M Willmann_
+## Cross-talk between the microbiome and chronic inflammation in esophageal cancer: potential driver of oncogenesis.
+ 05.05.2022, _T Sharma, A Gupta, R Chauhan, AA Bhat, S Nisar, S Hashem, S Akhtar, A Ahmad, M Haris, M Singh, S Uddin_
 
 
-Changes in intestinal microbiome composition have been described in animal models of Alzheimer's disease (AD) and AD patients. Here we investigated how well taxonomic and functional intestinal microbiome data and their combination with clinical data can be used to discriminate between amyloid-positive AD patients and cognitively healthy elderly controls.
+Esophageal cancer (EC) is frequently considered a lethal malignancy and is often identified at a later stage. It is one of the major causes of cancer-related deaths globally. The conventional treatment methods like chemotherapy, radiotherapy, and surgery offer limited efficacy and poor clinical outcome with a less than 25% 5-year survival rate. The poor prognosis of EC persists despite the growth in the development of diagnostic and therapeutic modalities to treat EC. This underlines the need to elucidate the complex molecular mechanisms that drive esophageal oncogenesis. Apart from the role of the tumor microenvironment and its structural and cellular components in tumorigenesis, mounting evidence points towards the involvement of the esophageal microbiome, inflammation, and their cross-talk in promoting esophageal cancer. The current review summarizes recent research that delineates the underlying molecular mechanisms by which the microbiota and inflammation promote the pathophysiology of esophageal cancer, thus unraveling targets for potential therapeutic intervention.
 
-[Source](https://doi.org/10.3389/fnins.2022.792996)
+[Source](https://link.springer.com/article/10.1007/s10555-022-10026-6)
 
-10.3389/fnins.2022.792996
-
----
-
-## The Fungal Gut Microbiome Exhibits Reduced Diversity and Increased Relative Abundance of Ascomycota in Severe COVID-19 Illness and Distinct Interconnected Communities in SARS-CoV-2 Positive Patients.
- 09.05.2022, _J Reinold, F Farahpour, AK Schoerding, C Fehring, S Dolff, M Konik, J Korth, L van Baal, J Buer, O Witzke, AM Westendorf, J Kehrmann_
-
-
-_Ascomycota, Bacteria, COVID-19, Dysbiosis, Gastrointestinal Microbiome, Humans, Mycobiome, SARS-CoV-2_
-Clinical and experimental studies indicate that the bacterial and fungal gut microbiota modulates immune responses in distant organs including the lungs. Immune dysregulation is associated with severe SARS-CoV-2 infection, and several groups have observed gut bacterial dysbiosis in SARS-CoV-2 infected patients, while the fungal gut microbiota remains poorly defined in these patients. We analyzed the fungal gut microbiome from rectal swabs taken prior to anti-infective treatment in 30 SARS-CoV-2 positive (21 non-severe COVID-19 and 9 developing severe/critical COVID-19 patients) and 23 SARS-CoV-2 negative patients by ITS2-sequencing. Pronounced but distinct interconnected fungal communities distinguished SARS-CoV-2 positive and negative patients. Fungal gut microbiota in severe/critical COVID-19 illness was characterized by a reduced diversity, richness and evenness and by an increase of the relative abundance of the Ascomycota phylum compared with non-severe COVID-19 illness. A dominance of a single fungal species with a relative abundance of &gt;75% was a frequent feature in severe/critical COVID-19. The dominating fungal species were highly variable between patients even within the groups. Several fungal taxa were depleted in patients with severe/critical COVID-19.The distinct compositional changes of the fungal gut microbiome in SARS-CoV-2 infection, especially in severe COVID-19 illness, illuminate the necessity of a broader approach to investigate whether the differences in the fungal gut microbiome are consequences of SARS-CoV-2 infection or a predisposing factor for critical illness.
-
-[Source](https://doi.org/10.3389/fcimb.2022.848650)
-
-10.3389/fcimb.2022.848650
+10.1007/s10555-022-10026-6
 
 ---
 
-## The associations between low abundance of <em>Mycoplasma hominis</em> and female fecundability: a pregnancy-planning cohort study
+## Systematic and quantitative view of the antiviral arsenal of prokaryotes
 
-[Source](https://doi.org/10.1186/s12866-022-02545-7)
-
----
-
-## Insights into the Profile of the Human Expiratory Microbiota and Its Associations with Indoor Microbiotas.
- 10.05.2022, _Y Zhang, F Shen, Y Yang, M Niu, D Chen, L Chen, S Wang, Y Zheng, Y Sun, F Zhou, H Qian, Y Wu, T Zhu_
-
-
-Microorganisms residing in the human respiratory tract can be exhaled, and they constitute a part of environmental microbiotas. However, the expiratory microbiota community and its associations with environmental microbiotas remain poorly understood. Here, expiratory bacteria and fungi and the corresponding microbiotas from the living environments were characterized by DNA amplicon sequencing of residents' exhaled breath condensate (EBC) and environmental samples collected from 14 residences in Nanjing, China. The microbiotas of EBC samples, with a substantial heterogeneity, were found to be as diverse as those of skin, floor dust, and airborne microbiotas. Model fitting results demonstrated the role of stochastic processes in the assembly of the expiratory microbiota. Using a fast expectation-maximization algorithm, microbial community analysis revealed that expiratory microbiotas were differentially associated with other types of microbiotas in a type-dependent and residence-specific manner. Importantly, the expiratory bacteria showed a composition similarity with airborne bacteria in the bathroom and kitchen environments with an average of 12.60%, while the expiratory fungi showed a 53.99% composition similarity with the floor dust fungi. These differential patterns indicate different relationships between expiratory microbiotas and the airborne microbiotas and floor dust microbiotas. The results here illustrated for the first time the associations between expiratory microbiotas and indoor microbiotas, showing a potential microbial exchange between the respiratory tract and indoor environment. Thus, improved hygiene and ventilation practices can be implemented to optimize the indoor microbial exposome, especially in indoor bathrooms and kitchens.
-
-[Source](https://doi.org/10.1021/acs.est.2c00688)
-
-10.1021/acs.est.2c00688
+[Source](https://www.nature.com/articles/s41467-022-30269-9)
 
 ---
 
-## Oral microbiome of Crohn's Disease patients with and without oral manifestations.
- 05.05.2022, _S Hu, J Mok, M Gowans, DEH Ong, JL Hartono, JWJ Lee_
+## A randomized controlled trial of the effects of whole grains versus refined grains diets on the microbiome in pregnancy.
+ 10.05.2022, _H Sun, P Yamada, A Paetow, M Chan, A Arslan, R Landberg, MG Dominguez-Bello, BK Young_
 
 
-Microbiome dysbiosis is associated with inflammatory destruction in Crohn's Disease (CD). Although gut microbiome dysbiosis is well-established in CD, the oral microbiome is comparatively under-studied. This study aims to characterize the oral microbiome of CD patients with/without oral manifestations.
+_Diet, Dietary Carbohydrates, Female, Gestational Weight Gain, Humans, Infant, Newborn, Male, Microbiota, Pregnancy, Whole Grains_
+Dietary whole grain consumption has been postulated to have metabolic benefits. The purpose of this study was to compare a pregnancy diet containing 75% of total carbohydrates as refined grains with a diet of 75% of total carbohydrates as whole grains for pregnancy outcomes and effects on the microbiome. Gestational weight gain, glucose tolerance and newborn outcomes were measured on 248 enrolled compliant women from whom a subset of 103 women consented to give 108 vaginal and 109 anal swabs. The data presented here are limited to the patients from whom the vaginal and anal swabs were obtained in order to study the microbiome. A microbiome-16SrRNA survey-was characterized in these samples. Samples and measurements were obtained at the first obstetrical visit, before beginning a prescribed diet (T1-baseline) and after 17-32 weeks on the prescribed diet (T3). Food frequency questionnaires and total plasma alkylresorcinols were used as a measure of whole grain consumption. There were no dietary differences in maternal weight gain, birth weight, or glucose tolerance test. Mothers consuming the whole grains diet showed a trend of gestational decrease in vaginal bacterial alpha diversity, with increasing Lactobacillus-dominance. No significant difference was observed for the anal microbiome. The results suggest that diet modulations of the vaginal microbiome during gestation may have important implications for maternal and neonatal health and in the intergenerational transfer of maternal microbiome. Trial registration: ClinicalTrials.gov Identifier: NCT03232762.
 
-[Source](https://doi.org/10.1093/ecco-jcc/jjac063)
+[Source](https://www.nature.com/articles/s41598-022-11571-4)
 
-10.1093/ecco-jcc/jjac063
-
----
-
-## Addressing virtual reality misclassification: A hardware-based qualification matrix for virtual reality technology.
- 25.11.2021, _M Takac, J Collett, R Conduit, A De Foe_
-
-
-_Humans, Reproducibility of Results, Technology, Virtual Reality, Virtual Reality Exposure Therapy_
-Through its unique sensory synchronized design, virtual reality (VR) provides a convincing, user-centred experience of highly controllable scenarios. Importantly, VR is a promising modality for healthcare, where treatment efficacy has been recognized for a range of conditions. It is equally valuable across wider research disciplines. However, there is a lack of suitable criteria and consistent terminology with which to define VR technology. A considerable number of studies have misclassified VR hardware (e.g. defining laptops as VR), hindering validity and research comparisons. This review addresses these limitations and establishes a standardized VR qualification framework. As a result of a comprehensive theoretical and literature review, the hardware-based VR qualification matrix is proposed. The matrix criteria consist of (1) three-dimensional (3D) synchronized sensory stimulation; (2) degrees of freedom tracking; and (3) visual suppression of physical stimuli. To validate the model and quantify the current scale/diversity of VR misclassification, a 2019 sectional review of health-related studies was conducted. Of the 115 studies examined against standardized criteria, 35.7% utilized VR, 31.3% misclassified VR, 18.3% were considered quasi-VR, and 14.8% omitted critical specifications. The proposed model demonstrates good validity and reliability for qualifying and classifying VR. Key Practitioner Messages Virtual reality (VR) therapy has gained rapid empirical support, although many practitioners do not understand the difference between genuine and less-realistic VR variations. That has resulted from an evident lack of suitable criteria to define VR across a range of studies and protocols. Our proposed hardware-based virtual reality qualification matrix addresses issues to do with misclassification, via the introduction of standardised criteria. Applying the matrix to existing literature has revealed that more than 30% of VR studies use hardware that does not fit the high standards of rigour required for immersion in a simulated space. The model is a practical tool researchers and practitioners can use to quality and verify VR standards across research studies.
-
-[Source](https://doi.org/10.1099/jmm.0.001520)
-
-10.1002/cpp.2624
+10.1038/s41598-022-11571-4
 
 ---
 
-## SARS-CoV-2 and <em>Prevotella</em> spp.: friend or foe? A systematic literature review
+## Should we modulate the neonatal microbiome and what should be the goal?
 
-[Source](https://doi.org/10.1099/jmm.0.001520)
-
----
-
-## The Game for Three: Salmonella-Host-Microbiota Interaction Models.
- 07.05.2022, _K Grzymajlo_
-
-
-Colonization of the gastrointestinal (GI) tract by enteric pathogens occurs in a context strongly determined by host-specific gut microbiota, which can significantly affect the outcome of infection. The complex gameplay between the trillions of microbes that inhabit the GI tract, the host, and the infecting pathogen defines a specific triangle of interaction; therefore, a complete model of infection should consider all of these elements. Many different infection models have been developed to explain the complexity of these interactions. This review sheds light on current knowledge, along with the strengths and limitations of in vitro and in vivo models utilized in the study of Salmonella-host-microbiome interactions. These models range from the simplest experiment simulating environmental conditions using dedicated growth media through in vitro interaction with cell lines and 3-D organoid structure, and sophisticated "gut on a chip" systems, ending in various animal models. Finally, the challenges facing this field of research and the important future directions are outlined.
-
-[Source](https://doi.org/10.3389/fmicb.2022.854112)
-
-10.3389/fmicb.2022.854112
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01281-4)
 
 ---
 
-## Host gene effects on gut microbiota in type 1 diabetes.
- 06.05.2022, _K Guo, J Huang, Z Zhou_
+## Space travel and early childhood gut microbiome: is space dirty enough to raise a child?
 
-
-Type 1 diabetes (T1D) is an organ-specific autoimmune disease characterized by progressive pancreatic β-cell loss. Both a predisposing genetic background, that may encompass mutations in several genes, as well as exposure to environmental factors can affect the progression of autoimmune responses to multiple pancreatic islet autoantigens. Many genetic variants that increase the risk of T1D are found in immunity genes involved in sensing and responding to microorganisms. Although increasing evidence indicates that the gut microbiome composition may promote or prevent T1D development, little is known about the link between gut microbiota and T1D susceptibility genes in patients with T1D. Recent studies in the inbred non-obese diabetic (NOD) mouse, a widely used model of T1D, have suggested that many genetic loci can influence gut microbiome composition to modulate islet autoimmunity. This review summarizes evidence that examines the effect of host genes on gut microbiota diversity and function during T1D development. Knowledge of the host gene-gut microbiota interactions at play during T1D progression may help us identify new diagnostic and prognostic tools and help also design effective strategies for disease treatment.
-
-[Source](https://doi.org/10.1042/BST20220004)
-
-10.1042/BST20220004
+[Source](https://www.futuremedicine.com/doi/10.2217/fmb-2022-0036)
 
 ---
 
-## Host-microbial interactions in metabolic diseases: from diet to immunity.
- 05.05.2022, _JH Lee, JH Park_
+## On-person adaptive evolution of Staphylococcus aureus during treatment for atopic dermatitis
 
-
-Growing evidence suggests that the gut microbiome is an important contributor to metabolic diseases. Alterations in microbial communities are associated with changes in lipid metabolism, glucose homeostasis, intestinal barrier functions, and chronic inflammation, all of which can lead to metabolic disorders. Therefore, the gut microbiome may represent a novel therapeutic target for obesity, type 2 diabetes, and nonalcoholic fatty liver disease. This review discusses how gut microbes and their products affect metabolic diseases and outlines potential treatment approaches via manipulation of the gut microbiome. Increasing our understanding of the interactions between the gut microbiome and host metabolism may help restore the healthy symbiotic relationship between them.
-
-[Source](https://doi.org/10.1007/s12275-022-2087-y)
-
-10.1007/s12275-022-2087-y
+[Source](https://www.biorxiv.org/content/10.1101/2021.03.24.436824v2.abstract)
 
 ---
 
-## Bacterial association with metals enables in vivo tracking of microbiota using magnetic resonance imaging
+## Oral microbiome of Crohn’s Disease patients with and without oral manifestations
 
-[Source](https://doi.org/10.1101/2022.05.05.490857)
-
----
-
-## Natural Garlic Organosulfur Compounds Prevent Metabolic Disorder of Lipid and Glucose by Increasing Gut Commensal <em>Bacteroides acidifaciens</em>
-
-[Source](https://doi.org/10.1021/acs.jafc.2c00555)
+[Source](https://academic.oup.com/ecco-jcc/advance-article/doi/10.1093/ecco-jcc/jjac063/6577053)
 
 ---
 
-## Circulating gut microbiota-related metabolites influence endothelium plaque lesion formation in ApoE knockout rats
+## Integrating the salivary microbiome in the forensic toolkit by 16S rRNA gene: potential application in body fluid identification and biogeographic inference
 
-[Source](https://doi.org/10.1371/journal.pone.0264934)
-
----
-
-## Depletion of the gut microbiota enhances the blood pressure-lowering effect of captopril: implication of the gut microbiota in resistant hypertension
-
-[Source](https://doi.org/10.1038/s41440-022-00921-4)
+[Source](https://link.springer.com/article/10.1007/s00414-022-02831-z)
 
 ---
 
-## Fecal microbiota and diets of muskox female adults and calves
+## An approach for evaluating the effects of dietary fiber polysaccharides on the human gut microbiome and plasma proteome
 
-[Source](https://doi.org/10.1002/ece3.8879)
-
----
-
-## Temporal Changes in Gut Microbiota Composition and Pollen Diet Associated with Colony Weakness of a Stingless Bee
-
-[Source](https://doi.org/10.1007/s00248-022-02027-3)
+[Source](https://www.pnas.org/doi/full/10.1073/pnas.2123411119)
 
 ---
 
-## Interaction between MHC diversity and constitution, gut microbiota and Astrovirus infections in a neotropical bat
+## A randomization-based causal inference framework for uncovering environmental exposure effects on human gut microbiota
 
-[Source](https://doi.org/10.1111/mec.16491)
-
----
-
-## Symbiont transmission in marine sponges: reproduction, development, and metamorphosis
-
-[Source](https://doi.org/10.1186/s12915-022-01291-6)
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010044)
 
 ---
 
-## A new microbiological weapon against lepidopteran pests
+## Microbiota and gastric cancer
 
-[Source](https://doi.org/10.1101/2022.05.06.490868)
-
----
-
-## Associations between bacterial communities and microplastics from surface seawater of the Northern Patagonian area of Chile
-
-[Source](https://doi.org/10.1016/j.envpol.2022.119313)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1044579X22001043)
 
 ---
 
-## Identification of beneficial and detrimental bacteria impacting sorghum responses to drought using multi-scale and multi-system microbiome comparisons.
- 06.05.2022, _M Qi, JC Berry, KW Veley, L O'Connor, OM Finkel, I Salas-González, M Kuhs, J Jupe, E Holcomb, T Glavina Del Rio, C Creech, P Liu, SG Tringe, JL Dangl, DP Schachtman, RS Bart_
+## Host—microbial interactions in metabolic diseases: from diet to immunity
 
-
-Drought is a major abiotic stress limiting agricultural productivity. Previous field-level experiments have demonstrated that drought decreases microbiome diversity in the root and rhizosphere. How these changes ultimately affect plant health remains elusive. Toward this end, we combined reductionist, transitional and ecological approaches, applied to the staple cereal crop sorghum to identify key root-associated microbes that robustly affect drought-stressed plant phenotypes. Fifty-three Arabidopsis-associated bacteria were applied to sorghum seeds and their effect on root growth was monitored. Two Arthrobacter strains caused root growth inhibition (RGI) in Arabidopsis and sorghum. In the context of synthetic communities, Variovorax strains were able to protect plants from Arthrobacter-caused RGI. As a transitional system, high-throughput phenotyping was used to test the synthetic communities. During drought stress, plants colonized by Arthrobacter had reduced growth and leaf water content. Plants colonized by both Arthrobacter and Variovorax performed as well or better than control plants. In parallel, we performed a field trial wherein sorghum was evaluated across drought conditions. By incorporating data on soil properties into the microbiome analysis, we accounted for experimental noise with a novel method and were able to observe the negative correlation between the abundance of Arthrobacter and plant growth. Having validated this approach, we cross-referenced datasets from the high-throughput phenotyping and field experiments and report a list of bacteria with high confidence that positively associated with plant growth under drought stress. In conclusion, a three-tiered experimental system successfully spanned the lab-to-field gap and identified beneficial and deleterious bacterial strains for sorghum under drought.
-
-[Source](https://doi.org/10.1038/s41396-022-01245-4)
-
-10.1038/s41396-022-01245-4
+[Source](https://link.springer.com/article/10.1007/s12275-022-2087-y)
 
 ---
 
-## A metagenomic study of the bacteria in snow algae microbiomes.
- 10.05.2022, _KM Yakimovich, LM Quarmby_
+## A randomized controlled trial for response of microbiome network to exercise and diet intervention in patients with nonalcoholic fatty liver disease
 
-
-The bacterial communities found in snow algae blooms have been described in terms of their 16S rRNA gene community profiles, but little information exists on their metabolic potential. Previously, we reported that several bacterial taxa are common across snow algae blooms in the southwestern mountains of the Coast Range in British Columbia, Canada. Here, we further this work by reporting a partial bacterial metagenome from the same snow algal microbiomes. Using shotgun metagenomic data, we constructed metagenomically assembled bacterial genomes (MAGs). Of the total 54 binned MAGs, 28 were bacterial and estimated to be at least 50% complete based on single copy core genes. The 28 MAGs fell into five Classes: Actinomycetia, Alphaproteobacteria, Bacteroidia, Betaproteobacteria and Gammaproteobacteria. All MAGs were assigned to a class, 27 to an order, 25 to family, 18 to genus, and none to species. MAGs showed the potential to support algal growth by synthesizing B-vitamins and growth hormones. There was also widespread adaptation to the low oxygen environment of biofilms, including synthesis of high-affinity terminal oxidases and anaerobic pathways for cobalamin synthesis. Also notable, was the absence of N2 fixation, and the presence of incomplete denitrification pathways suggestive of NO signalling within the microbiome.
-
-[Source](https://doi.org/10.1139/cjm-2021-0313)
-
-10.1139/cjm-2021-0313
+[Source](https://www.nature.com/articles/s41467-022-29968-0)
 
 ---
 
-## Soil microbial diversity and functional profiling of a tropical rainforest of a highly dissected low hill from the upper Itaya river basin revealed by analysis of shotgun metagenomics sequencing data.
- 07.05.2022, _M Cobos, SL Estela, HN Rodríguez, CG Castro, M Grandez, JC Castro_
+## Sex-dependent host-microbiome dynamics in zebrafish: Implications for toxicology and gastrointestinal physiology
 
-
-The tropical rainforest of a highly dissected low hill from the upper Itaya river basin belongs to the western Amazonia region. Some investigations on the biodiversity of these rainforests were more focused on animals and plants diversity. The soils of this region are composed of moderately fertile sediments deposited recently from the initiation of the Andean orogenesis in the Miocene until now. However, scientific information about the soil microbial and functional diversity is still missing. This report presents shotgun metagenomics sequencing data from soils of this rainforest type. A composite loamy soil sample was collected from a primary forest, and metagenomic DNA was purified with standardized methods. Furthermore, libraries were prepared and paired-end sequenced on the Illumina NextSeq 550 platform. Raw Illumina paired-end reads have been uploaded and analysed in the Metagenomics RAST server (MG-RAST). The raw sequence data in fastq format is available at NCBI's Sequence Read Archive (SRA) with accession number SRX12846710.
-
-[Source](https://doi.org/10.1016/j.dib.2022.108205)
-
-10.1016/j.dib.2022.108205
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1744117X22000351)
 
 ---
 
-## Accessible analysis of longitudinal data with linear mixed effects models.
- 09.05.2022, _JI Murphy, NE Weaver, AE Hendricks_
+## Comprehensive 16S rRNA and metagenomic data from the gut microbiome of aging and rejuvenation mouse models
 
-
-_Animals, Computer Simulation, Linear Models, Longitudinal Studies, Mice, Models, Statistical_
-Longitudinal studies are commonly used to examine possible causal factors associated with human health and disease. However, the statistical models, such as two-way ANOVA, often applied in these studies do not appropriately model the experimental design, resulting in biased and imprecise results. Here, we describe the linear mixed effects (LME) model and how to use it for longitudinal studies. We re-analyze a dataset published by Blanton et al. in 2016 that modeled growth trajectories in mice after microbiome implantation from nourished or malnourished children. We compare the fit and stability of different parameterizations of ANOVA and LME models; most models found that the nourished versus malnourished growth trajectories differed significantly. We show through simulation that the results from the two-way ANOVA and LME models are not always consistent. Incorrectly modeling correlated data can result in increased rates of false positives or false negatives, supporting the need to model correlated data correctly. We provide an interactive Shiny App to enable accessible and appropriate analysis of longitudinal data using LME models.
-
-[Source](https://doi.org/10.1242/dmm.048025)
-
-10.1242/dmm.048025
+[Source](https://www.nature.com/articles/s41597-022-01308-3)
 
 ---
 
-## Scalable in-memory processing of omics workflows.
- 07.05.2022, _V Elisseev, LJ Gardiner, R Krishna_
+## A total infectome approach to understand the etiology of infectious disease in pigs
 
-
-We present a proof of concept implementation of the in-memory computing paradigm that we use to facilitate the analysis of metagenomic sequencing reads. In doing so we compare the performance of POSIX™file systems and key-value storage for omics data, and we show the potential for integrating high-performance computing (HPC) and cloud native technologies. We show that in-memory key-value storage offers possibilities for improved handling of omics data through more flexible and faster data processing. We envision fully containerized workflows and their deployment in portable micro-pipelines with multiple instances working concurrently with the same distributed in-memory storage. To highlight the potential usage of this technology for event driven and real-time data processing, we use a biological case study focused on the growing threat of antimicrobial resistance (AMR). We develop a workflow encompassing bioinformatics and explainable machine learning (ML) to predict life expectancy of a population based on the microbiome of its sewage while providing a description of AMR contribution to the prediction. We propose that in future, performing such analyses in 'real-time' would allow us to assess the potential risk to the population based on changes in the AMR profile of the community.
-
-[Source](https://doi.org/10.1016/j.csbj.2022.04.014)
-
-10.1016/j.csbj.2022.04.014
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01265-4)
 
 ---
 
-## DBSCAN-SWA: An Integrated Tool for Rapid Prophage Detection and Annotation.
- 07.05.2022, _R Gan, F Zhou, Y Si, H Yang, C Chen, C Ren, J Wu, F Zhang_
+## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling.
+ 10.05.2022, _WS Lo, Z Han, H Witte, W Röseler, RJ Sommer_
 
 
-As an intracellular form of a bacteriophage in the bacterial host genome, a prophage usually integrates into bacterial DNA with high specificity and contributes to horizontal gene transfer (HGT). With the exponentially increasing number of microbial sequences uncovered in genomic or metagenomics studies, there is a massive demand for a tool that is capable of fast and accurate identification of prophages. Here, we introduce DBSCAN-SWA, a command line software tool developed to predict prophage regions in bacterial genomes. DBSCAN-SWA runs faster than any previous tools. Importantly, it has great detection power based on analysis using 184 manually curated prophages, with a recall of 85% compared with Phage_Finder (63%), VirSorter (74%), and PHASTER (82%) for (Multi-) FASTA sequences. Moreover, DBSCAN-SWA outperforms the existing standalone prophage prediction tools for high-throughput sequencing data based on the analysis of 19,989 contigs of 400 bacterial genomes collected from Human Microbiome Project (HMP) project. DBSCAN-SWA also provides user-friendly result visualizations including a circular prophage viewer and interactive DataTables. DBSCAN-SWA is implemented in Python3 and is available under an open source GPLv2 license from https://github.com/HIT-ImmunologyLab/DBSCAN-SWA/.
+Animals are associated with a diverse bacterial community that impacts host physiology. It is well known that nutrients and enzymes synthesized by bacteria largely expand host metabolic capacity. Bacteria also impact a wide range of animal physiology that solely depends on host genetics through direct interaction. However, studying the synergistic effects of the bacterial community remains challenging due to its complexity. The omnivorous nematode Pristionchus pacificus has limited digestive efficiency on bacteria. Therefore, we established a bacterial collection that represents the natural gut microbiota that are resistant to digestion. Using this collection, we show that the bacterium Lysinibacillus xylanilyticus by itself provides limited nutritional value, but in combination with Escherichia coli, it significantly promotes life-history traits of P. pacificus by regulating the neuroendocrine peptide in sensory neurons. This gut-to-brain communication depends on undigested L. xylanilyticus providing Pristionchus nematodes a specific fitness advantage to compete with nematodes that rupture bacteria efficiently. Using RNA-seq and CRISPR-induced mutants, we show that 1-h exposure to L. xylanilyticus is sufficient to stimulate the expression of daf-7-type TGF-β signaling ligands, which induce a global transcriptome change. In addition, several effects of L. xylanilyticus depend on TGF-β signaling, including olfaction, body size regulation, and a switch of energy allocation from lipid storage to reproduction. Our results reveal the beneficial effects of a gut bacterium to modify life-history traits and maximize nematode survival in natural habitats.
 
-[Source](https://doi.org/10.3389/fgene.2022.885048)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982222004900)
 
-10.3389/fgene.2022.885048
+10.1016/j.cub.2022.03.056
 
 ---
 
-## A New Approach to Testing Mediation of the Microbiome at Both the Community and Individual Taxon Levels.
- 05.05.2022, _Y Yue, YJ Hu_
+## Unraveling global and diazotrophic bacteriomes of boreal forest floor feather mosses and their environmental drivers at the ecosystem and at the plant scale in North America.
+ 09.05.2022, _M Renaudin, I Laforest-Lapointe, JP Bellenger_
 
 
-Understanding whether and which microbes played a mediating role between an exposure and a disease outcome are essential for researchers to develop clinical interventions to treat the disease by modulating the microbes. Existing methods for mediation analysis of the microbiome are often limited to a global test of community-level mediation or selection of mediating microbes without control of the false discovery rate (FDR). Further, while the null hypothesis of no mediation at each microbe is a composite null that consists of three types of null, most existing methods treat the microbes as if they were all under the same type of null, leading to excessive false positive results.
+Feather mosses are abundant cryptogams of the boreal forest floor and shelter a broad diversity of bacteria who have important ecological functions (e.g., decomposition, nutrient cycling). In particular, nitrogen (N2-) fixation performed by feather moss-associated diazotrophs constitutes an important entry of nitrogen in the boreal forest ecosystem. However, the composition of the feather moss bacteriome and its environmental drivers are still unclear. Using cDNA amplicon sequencing of the 16S rRNA and nifH genes and cyanobacterial biomass quantification, we explored the active global and diazotrophic bacterial communities of two dominant feather moss species (i) at the ecosystem scale, along a 500-km climatic and nutrient deposition gradient in the North American boreal forest, and (ii) at the plant scale, along the moss shoot senescence gradient. We found that cyanobacteria were major actors of the feather moss bacteriome, accounting for 33% of global bacterial communities and 65% of diazotrophic communities, and that several cyanobacterial and methanotrophic genera were contributing to N2-fixation. Moreover, we showed that bacteria were occupying ecological niches along the moss shoot, with phototrophs being dominant in the apical part and methanotrophs being dominant in the basal part. Finally, climate (temperature, precipitation), environmental variables (moss species, month, tree density) and nutrients (nitrogen, phosphorus, molybdenum, vanadium, iron) strongly shaped global and diazotrophic bacteriomes. In summary, this work presents evidence that the feather moss bacteriome plays crucial roles in supporting moss growth, health, and decomposition, as well as in the boreal forest carbon and nitrogen cycles. This study also highlights the substantial effects of climate and nutrients on the feather moss bacteriome, suggesting the importance of understanding the impacts of global change on moss-associated bacterial growth and activity.
 
-[Source](https://doi.org/10.1093/bioinformatics/btac310)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722028583)
 
-10.1093/bioinformatics/btac310
+10.1016/j.scitotenv.2022.155761
+
+---
+
+## Antimicrobial resistance in Antarctica: is it still a pristine environment?
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01250-x)
+
+---
+
+## Evaluating metagenomic assembly approaches for biome-specific gene catalogues.
+ 10.05.2022, _LF Delgado, AF Andersson_
+
+
+_Algorithms, Cluster Analysis, Ecosystem, Metagenome, Metagenomics_
+For many environments, biome-specific microbial gene catalogues are being recovered using shotgun metagenomics followed by assembly and gene calling on the assembled contigs. The assembly is typically conducted either by individually assembling each sample or by co-assembling reads from all the samples. The co-assembly approach can potentially recover genes that display too low abundance to be assembled from individual samples. On the other hand, combining samples increases the risk of mixing data from closely related strains, which can hamper the assembly process. In this respect, assembly on individual samples followed by clustering of (near) identical genes is preferable. Thus, both approaches have potential pros and cons, but it remains to be evaluated which assembly strategy is most effective. Here, we have evaluated three assembly strategies for generating gene catalogues from metagenomes using a dataset of 124 samples from the Baltic Sea: (1) assembly on individual samples followed by clustering of the resulting genes, (2) co-assembly on all samples, and (3) mix assembly, combining individual and co-assembly.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01259-2)
+
+10.1186/s40168-022-01259-2
+
+---
+
+## Compare the performance of multiple binary classification models in microbial high-throughput sequencing datasets.
+ 10.05.2022, _N Xu, Z Zhang, Y Shen, Q Zhang, Z Liu, Y Yu, Y Wang, C Lei, M Ke, D Qiu, T Lu, Y Chen, J Xiong, H Qian_
+
+
+The development of machine learning and deep learning provided solutions for predicting microbiota response on environmental change based on microbial high-throughput sequencing. However, there were few studies specifically clarifying the performance and practical of two types of binary classification models to find a better algorithm for the microbiota data analysis. Here, for the first time, we evaluated the performance, accuracy and running time of the binary classification models built by three machine learning methods - random forest (RF), support vector machine (SVM), logistic regression (LR), and one deep learning method - back propagation neural network (BPNN). The built models were based on the microbiota datasets that removed low-quality variables and solved the class imbalance problem. Additionally, we optimized the models by tuning. Our study demonstrated that dataset pre-processing was a necessary process for model construction. Among these 4 binary classification models, BPNN and RF were the most suitable methods for constructing microbiota binary classification models. Using these 4 models to predict multiple microbial datasets, BPNN showed the highest accuracy and the most robust performance, while the RF method was ranked second. We also constructed the optimal models by adjusting the epochs of BPNN and the n_estimators of RF for six times. The evaluation related to performances of models provided a road map for the application of artificial intelligence to assess microbial ecology.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722029047)
+
+10.1016/j.scitotenv.2022.155807
 
 ---
 
