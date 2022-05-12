@@ -100,63 +100,33 @@ Dietary whole grain consumption has been postulated to have metabolic benefits. 
 
 ---
 
-## Sex-dependent host-microbiome dynamics in zebrafish: Implications for toxicology and gastrointestinal physiology.
- 09.05.2022, _CJ Martyniuk, AN Buerger, H Vespalcova, B Rudzanova, SR Sohag, AT Hanlon, PE Ginn, SL Craft, S Smetanova, E Budinska, JH Bisesi, O Adamovsky_
-
-
-The physiology of males and females can be vastly different, complicating interpretation of toxicological and physiological data. The objectives of this study were to elucidate the sex differences in the microbiome-gastrointestinal (GI) transcriptome of adult zebrafish. We compared microbial composition and diversity in both males and females fed the same diet and housed in the same environment. There were no sex-specific differences in weight gain nor gastrointestinal morphology based on histopathology. There was no difference in gut microbial diversity, richness (Shannon and Chao1 index) nor predicted functional composition of the microbiome between males and females. Prior to post-hoc correction, male zebrafish showed higher abundance for the bacterial families Erythrobacteraceae and Lamiaceae, both belonging to the phyla Actinobacteria and Proteobacteria. At the genus level, Lamia and Altererythrobacter were more dominant in males and an unidentified genus in Bacteroidetes was more abundant in females. There were 16 unique differentially expressed transcripts in the gastrointestinal tissue between male and female zebrafish (FDR corrected, p &lt; 0.05). Relative to males, the mRNA expression for trim35-9, slc25a48, chchd3b, csad, and hsd17b3 were lower in female GI while cyp2k6, adra2c, and bckdk were higher in the female GI. Immune and lipid-related gene network expression differed between the sexes (i.e., cholesterol export and metabolism) as well as networks related to gastric motility, gastrointestinal system absorption and digestion. Such data provide clues as to putative differences in gastrointestinal physiology between male and female zebrafish. This study identifies host-transcriptome differences that can be considered when interpreting the microgenderome of zebrafish in studies investigating GI physiology and toxicology of fishes.
+## Sex-dependent host-microbiome dynamics in zebrafish: Implications for toxicology and gastrointestinal physiology
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1744117X22000351)
 
-10.1016/j.cbd.2022.100993
-
 ---
 
-## Comprehensive 16S rRNA and metagenomic data from the gut microbiome of aging and rejuvenation mouse models.
- 10.05.2022, _J Shin, JR Noh, D Choe, N Lee, Y Song, S Cho, EJ Kang, MJ Go, SK Ha, JH Kim, YH Kim, KS Kim, BC Kim, CH Lee, BK Cho_
-
-
-The gut microbiota is associated with the health and longevity of the host. A few methods, such as fecal microbiota transplantation and oral administration of probiotics, have been applied to alter the gut microbiome and promote healthy aging. The changes in host microbiomes still remain poorly understood. Here, we characterized both the changes in gut microbial communities and their functional potential derived from colon samples in mouse models during aging. We achieved this through four procedures including co-housing, serum injection, parabiosis, and oral administration of Akkermansia muciniphila as probiotics using bacterial 16 S rRNA sequencing and shotgun metagenomic sequencing. The dataset comprised 16 S rRNA sequencing (36,249,200 paired-end reads, 107 sequencing data) and metagenomic sequencing data (307,194,369 paired-end reads, 109 sequencing data), characterizing the taxonomy of bacterial communities and their functional potential during aging and rejuvenation. The generated data expand the resources of the gut microbiome related to aging and rejuvenation and provide a useful dataset for research on developing therapeutic strategies to achieve healthy active aging.
+## Comprehensive 16S rRNA and metagenomic data from the gut microbiome of aging and rejuvenation mouse models
 
 [Source](https://www.nature.com/articles/s41597-022-01308-3)
 
-10.1038/s41597-022-01308-3
-
 ---
 
-## A total infectome approach to understand the etiology of infectious disease in pigs.
- 10.05.2022, _X Huang, W Wu, X Tian, X Hou, X Cui, Y Xiao, Q Jiao, P Zhou, L Liu, W Shi, L Chen, Y Sun, Y Yang, J Chen, G Zhang, J Liu, EC Holmes, X Cai, T An, M Shi_
-
-
-The global pork industry is continuously affected by infectious diseases that can result in large-scale mortality, trade restrictions, and major reductions in production. Nevertheless, the cause of many infectious diseases in pigs remains unclear, largely because commonly used diagnostic tools fail to capture the full diversity of potential pathogens and because pathogen co-infection is common.
+## A total infectome approach to understand the etiology of infectious disease in pigs
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01265-4)
 
-10.1186/s40168-022-01265-4
-
 ---
 
-## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling.
- 11.05.2022, _WS Lo, Z Han, H Witte, W Röseler, RJ Sommer_
-
-
-Animals are associated with a diverse bacterial community that impacts host physiology. It is well known that nutrients and enzymes synthesized by bacteria largely expand host metabolic capacity. Bacteria also impact a wide range of animal physiology that solely depends on host genetics through direct interaction. However, studying the synergistic effects of the bacterial community remains challenging due to its complexity. The omnivorous nematode Pristionchus pacificus has limited digestive efficiency on bacteria. Therefore, we established a bacterial collection that represents the natural gut microbiota that are resistant to digestion. Using this collection, we show that the bacterium Lysinibacillus xylanilyticus by itself provides limited nutritional value, but in combination with Escherichia coli, it significantly promotes life-history traits of P. pacificus by regulating the neuroendocrine peptide in sensory neurons. This gut-to-brain communication depends on undigested L. xylanilyticus providing Pristionchus nematodes a specific fitness advantage to compete with nematodes that rupture bacteria efficiently. Using RNA-seq and CRISPR-induced mutants, we show that 1-h exposure to L. xylanilyticus is sufficient to stimulate the expression of daf-7-type TGF-β signaling ligands, which induce a global transcriptome change. In addition, several effects of L. xylanilyticus depend on TGF-β signaling, including olfaction, body size regulation, and a switch of energy allocation from lipid storage to reproduction. Our results reveal the beneficial effects of a gut bacterium to modify life-history traits and maximize nematode survival in natural habitats.
+## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982222004900)
 
-10.1016/j.cub.2022.03.056
-
 ---
 
-## Unraveling global and diazotrophic bacteriomes of boreal forest floor feather mosses and their environmental drivers at the ecosystem and at the plant scale in North America.
- 09.05.2022, _M Renaudin, I Laforest-Lapointe, JP Bellenger_
-
-
-Feather mosses are abundant cryptogams of the boreal forest floor and shelter a broad diversity of bacteria who have important ecological functions (e.g., decomposition, nutrient cycling). In particular, nitrogen (N2-) fixation performed by feather moss-associated diazotrophs constitutes an important entry of nitrogen in the boreal forest ecosystem. However, the composition of the feather moss bacteriome and its environmental drivers are still unclear. Using cDNA amplicon sequencing of the 16S rRNA and nifH genes and cyanobacterial biomass quantification, we explored the active global and diazotrophic bacterial communities of two dominant feather moss species (i) at the ecosystem scale, along a 500-km climatic and nutrient deposition gradient in the North American boreal forest, and (ii) at the plant scale, along the moss shoot senescence gradient. We found that cyanobacteria were major actors of the feather moss bacteriome, accounting for 33% of global bacterial communities and 65% of diazotrophic communities, and that several cyanobacterial and methanotrophic genera were contributing to N2-fixation. Moreover, we showed that bacteria were occupying ecological niches along the moss shoot, with phototrophs being dominant in the apical part and methanotrophs being dominant in the basal part. Finally, climate (temperature, precipitation), environmental variables (moss species, month, tree density) and nutrients (nitrogen, phosphorus, molybdenum, vanadium, iron) strongly shaped global and diazotrophic bacteriomes. In summary, this work presents evidence that the feather moss bacteriome plays crucial roles in supporting moss growth, health, and decomposition, as well as in the boreal forest carbon and nitrogen cycles. This study also highlights the substantial effects of climate and nutrients on the feather moss bacteriome, suggesting the importance of understanding the impacts of global change on moss-associated bacterial growth and activity.
+## Unraveling global and diazotrophic bacteriomes of boreal forest floor feather mosses and their environmental drivers at the ecosystem and at the plant scale in North America
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722028583)
-
-10.1016/j.scitotenv.2022.155761
 
 ---
 
@@ -166,28 +136,15 @@ Feather mosses are abundant cryptogams of the boreal forest floor and shelter a 
 
 ---
 
-## Evaluating metagenomic assembly approaches for biome-specific gene catalogues.
- 10.05.2022, _LF Delgado, AF Andersson_
-
-
-_Algorithms, Cluster Analysis, Ecosystem, Metagenome, Metagenomics_
-For many environments, biome-specific microbial gene catalogues are being recovered using shotgun metagenomics followed by assembly and gene calling on the assembled contigs. The assembly is typically conducted either by individually assembling each sample or by co-assembling reads from all the samples. The co-assembly approach can potentially recover genes that display too low abundance to be assembled from individual samples. On the other hand, combining samples increases the risk of mixing data from closely related strains, which can hamper the assembly process. In this respect, assembly on individual samples followed by clustering of (near) identical genes is preferable. Thus, both approaches have potential pros and cons, but it remains to be evaluated which assembly strategy is most effective. Here, we have evaluated three assembly strategies for generating gene catalogues from metagenomes using a dataset of 124 samples from the Baltic Sea: (1) assembly on individual samples followed by clustering of the resulting genes, (2) co-assembly on all samples, and (3) mix assembly, combining individual and co-assembly.
+## Evaluating metagenomic assembly approaches for biome-specific gene catalogues
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01259-2)
 
-10.1186/s40168-022-01259-2
-
 ---
 
-## Compare the performance of multiple binary classification models in microbial high-throughput sequencing datasets.
- 10.05.2022, _N Xu, Z Zhang, Y Shen, Q Zhang, Z Liu, Y Yu, Y Wang, C Lei, M Ke, D Qiu, T Lu, Y Chen, J Xiong, H Qian_
-
-
-The development of machine learning and deep learning provided solutions for predicting microbiota response on environmental change based on microbial high-throughput sequencing. However, there were few studies specifically clarifying the performance and practical of two types of binary classification models to find a better algorithm for the microbiota data analysis. Here, for the first time, we evaluated the performance, accuracy and running time of the binary classification models built by three machine learning methods - random forest (RF), support vector machine (SVM), logistic regression (LR), and one deep learning method - back propagation neural network (BPNN). The built models were based on the microbiota datasets that removed low-quality variables and solved the class imbalance problem. Additionally, we optimized the models by tuning. Our study demonstrated that dataset pre-processing was a necessary process for model construction. Among these 4 binary classification models, BPNN and RF were the most suitable methods for constructing microbiota binary classification models. Using these 4 models to predict multiple microbial datasets, BPNN showed the highest accuracy and the most robust performance, while the RF method was ranked second. We also constructed the optimal models by adjusting the epochs of BPNN and the n_estimators of RF for six times. The evaluation related to performances of models provided a road map for the application of artificial intelligence to assess microbial ecology.
+## Compare the performance of multiple binary classification models in microbial high-throughput sequencing datasets
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722029047)
-
-10.1016/j.scitotenv.2022.155807
 
 ---
 
