@@ -118,15 +118,27 @@ Dietary whole grain consumption has been postulated to have metabolic benefits. 
 
 ---
 
-## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling
+## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling.
+ 11.05.2022, _WS Lo, Z Han, H Witte, W Röseler, RJ Sommer_
+
+
+Animals are associated with a diverse bacterial community that impacts host physiology. It is well known that nutrients and enzymes synthesized by bacteria largely expand host metabolic capacity. Bacteria also impact a wide range of animal physiology that solely depends on host genetics through direct interaction. However, studying the synergistic effects of the bacterial community remains challenging due to its complexity. The omnivorous nematode Pristionchus pacificus has limited digestive efficiency on bacteria. Therefore, we established a bacterial collection that represents the natural gut microbiota that are resistant to digestion. Using this collection, we show that the bacterium Lysinibacillus xylanilyticus by itself provides limited nutritional value, but in combination with Escherichia coli, it significantly promotes life-history traits of P. pacificus by regulating the neuroendocrine peptide in sensory neurons. This gut-to-brain communication depends on undigested L. xylanilyticus providing Pristionchus nematodes a specific fitness advantage to compete with nematodes that rupture bacteria efficiently. Using RNA-seq and CRISPR-induced mutants, we show that 1-h exposure to L. xylanilyticus is sufficient to stimulate the expression of daf-7-type TGF-β signaling ligands, which induce a global transcriptome change. In addition, several effects of L. xylanilyticus depend on TGF-β signaling, including olfaction, body size regulation, and a switch of energy allocation from lipid storage to reproduction. Our results reveal the beneficial effects of a gut bacterium to modify life-history traits and maximize nematode survival in natural habitats.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982222004900)
 
+10.1016/j.cub.2022.03.056
+
 ---
 
-## Unraveling global and diazotrophic bacteriomes of boreal forest floor feather mosses and their environmental drivers at the ecosystem and at the plant scale in North America
+## Unraveling global and diazotrophic bacteriomes of boreal forest floor feather mosses and their environmental drivers at the ecosystem and at the plant scale in North America.
+ 09.05.2022, _M Renaudin, I Laforest-Lapointe, JP Bellenger_
+
+
+Feather mosses are abundant cryptogams of the boreal forest floor and shelter a broad diversity of bacteria who have important ecological functions (e.g., decomposition, nutrient cycling). In particular, nitrogen (N2-) fixation performed by feather moss-associated diazotrophs constitutes an important entry of nitrogen in the boreal forest ecosystem. However, the composition of the feather moss bacteriome and its environmental drivers are still unclear. Using cDNA amplicon sequencing of the 16S rRNA and nifH genes and cyanobacterial biomass quantification, we explored the active global and diazotrophic bacterial communities of two dominant feather moss species (i) at the ecosystem scale, along a 500-km climatic and nutrient deposition gradient in the North American boreal forest, and (ii) at the plant scale, along the moss shoot senescence gradient. We found that cyanobacteria were major actors of the feather moss bacteriome, accounting for 33% of global bacterial communities and 65% of diazotrophic communities, and that several cyanobacterial and methanotrophic genera were contributing to N2-fixation. Moreover, we showed that bacteria were occupying ecological niches along the moss shoot, with phototrophs being dominant in the apical part and methanotrophs being dominant in the basal part. Finally, climate (temperature, precipitation), environmental variables (moss species, month, tree density) and nutrients (nitrogen, phosphorus, molybdenum, vanadium, iron) strongly shaped global and diazotrophic bacteriomes. In summary, this work presents evidence that the feather moss bacteriome plays crucial roles in supporting moss growth, health, and decomposition, as well as in the boreal forest carbon and nitrogen cycles. This study also highlights the substantial effects of climate and nutrients on the feather moss bacteriome, suggesting the importance of understanding the impacts of global change on moss-associated bacterial growth and activity.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722028583)
+
+10.1016/j.scitotenv.2022.155761
 
 ---
 
@@ -136,15 +148,28 @@ Dietary whole grain consumption has been postulated to have metabolic benefits. 
 
 ---
 
-## Evaluating metagenomic assembly approaches for biome-specific gene catalogues
+## Evaluating metagenomic assembly approaches for biome-specific gene catalogues.
+ 10.05.2022, _LF Delgado, AF Andersson_
+
+
+_Algorithms, Cluster Analysis, Ecosystem, Metagenome, Metagenomics_
+For many environments, biome-specific microbial gene catalogues are being recovered using shotgun metagenomics followed by assembly and gene calling on the assembled contigs. The assembly is typically conducted either by individually assembling each sample or by co-assembling reads from all the samples. The co-assembly approach can potentially recover genes that display too low abundance to be assembled from individual samples. On the other hand, combining samples increases the risk of mixing data from closely related strains, which can hamper the assembly process. In this respect, assembly on individual samples followed by clustering of (near) identical genes is preferable. Thus, both approaches have potential pros and cons, but it remains to be evaluated which assembly strategy is most effective. Here, we have evaluated three assembly strategies for generating gene catalogues from metagenomes using a dataset of 124 samples from the Baltic Sea: (1) assembly on individual samples followed by clustering of the resulting genes, (2) co-assembly on all samples, and (3) mix assembly, combining individual and co-assembly.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01259-2)
 
+10.1186/s40168-022-01259-2
+
 ---
 
-## Compare the performance of multiple binary classification models in microbial high-throughput sequencing datasets
+## Compare the performance of multiple binary classification models in microbial high-throughput sequencing datasets.
+ 10.05.2022, _N Xu, Z Zhang, Y Shen, Q Zhang, Z Liu, Y Yu, Y Wang, C Lei, M Ke, D Qiu, T Lu, Y Chen, J Xiong, H Qian_
+
+
+The development of machine learning and deep learning provided solutions for predicting microbiota response on environmental change based on microbial high-throughput sequencing. However, there were few studies specifically clarifying the performance and practical of two types of binary classification models to find a better algorithm for the microbiota data analysis. Here, for the first time, we evaluated the performance, accuracy and running time of the binary classification models built by three machine learning methods - random forest (RF), support vector machine (SVM), logistic regression (LR), and one deep learning method - back propagation neural network (BPNN). The built models were based on the microbiota datasets that removed low-quality variables and solved the class imbalance problem. Additionally, we optimized the models by tuning. Our study demonstrated that dataset pre-processing was a necessary process for model construction. Among these 4 binary classification models, BPNN and RF were the most suitable methods for constructing microbiota binary classification models. Using these 4 models to predict multiple microbial datasets, BPNN showed the highest accuracy and the most robust performance, while the RF method was ranked second. We also constructed the optimal models by adjusting the epochs of BPNN and the n_estimators of RF for six times. The evaluation related to performances of models provided a road map for the application of artificial intelligence to assess microbial ecology.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722029047)
+
+10.1016/j.scitotenv.2022.155807
 
 ---
 
