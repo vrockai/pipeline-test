@@ -118,9 +118,15 @@ Dietary whole grain consumption has been postulated to have metabolic benefits. 
 
 ---
 
-## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling
+## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling.
+ 11.05.2022, _WS Lo, Z Han, H Witte, W Röseler, RJ Sommer_
+
+
+Animals are associated with a diverse bacterial community that impacts host physiology. It is well known that nutrients and enzymes synthesized by bacteria largely expand host metabolic capacity. Bacteria also impact a wide range of animal physiology that solely depends on host genetics through direct interaction. However, studying the synergistic effects of the bacterial community remains challenging due to its complexity. The omnivorous nematode Pristionchus pacificus has limited digestive efficiency on bacteria. Therefore, we established a bacterial collection that represents the natural gut microbiota that are resistant to digestion. Using this collection, we show that the bacterium Lysinibacillus xylanilyticus by itself provides limited nutritional value, but in combination with Escherichia coli, it significantly promotes life-history traits of P. pacificus by regulating the neuroendocrine peptide in sensory neurons. This gut-to-brain communication depends on undigested L. xylanilyticus providing Pristionchus nematodes a specific fitness advantage to compete with nematodes that rupture bacteria efficiently. Using RNA-seq and CRISPR-induced mutants, we show that 1-h exposure to L. xylanilyticus is sufficient to stimulate the expression of daf-7-type TGF-β signaling ligands, which induce a global transcriptome change. In addition, several effects of L. xylanilyticus depend on TGF-β signaling, including olfaction, body size regulation, and a switch of energy allocation from lipid storage to reproduction. Our results reveal the beneficial effects of a gut bacterium to modify life-history traits and maximize nematode survival in natural habitats.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982222004900)
+
+10.1016/j.cub.2022.03.056
 
 ---
 
