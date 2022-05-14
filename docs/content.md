@@ -11,9 +11,10 @@ Esophageal cancer (EC) is frequently considered a lethal malignancy and is often
 ---
 
 ## Systematic and quantitative view of the antiviral arsenal of prokaryotes.
- 10.05.2022, _F Tesson, A Hervé, E Mordret, M Touchon, C d'Humières, J Cury, A Bernheim_
+ 12.05.2022, _F Tesson, A Hervé, E Mordret, M Touchon, C d'Humières, J Cury, A Bernheim_
 
 
+_Antiviral Agents, Archaea, Bacteria, Genomics, Prokaryotic Cells_
 Bacteria and archaea have developed multiple antiviral mechanisms, and genomic evidence indicates that several of these antiviral systems co-occur in the same strain. Here, we introduce DefenseFinder, a tool that automatically detects known antiviral systems in prokaryotic genomes. We use DefenseFinder to analyse 21000 fully sequenced prokaryotic genomes, and find that antiviral strategies vary drastically between phyla, species and strains. Variations in composition of antiviral systems correlate with genome size, viral threat, and lifestyle traits. DefenseFinder will facilitate large-scale genomic analysis of antiviral defense systems and the study of host-virus interactions in prokaryotes.
 
 [Source](https://www.nature.com/articles/s41467-022-30269-9)
@@ -36,9 +37,10 @@ Dietary whole grain consumption has been postulated to have metabolic benefits. 
 ---
 
 ## Should we modulate the neonatal microbiome and what should be the goal?
- 10.05.2022, _N van Best, MG Dominguez-Bello, MW Hornef, E Jašarević, K Korpela, TD Lawley_
+ 12.05.2022, _N van Best, MG Dominguez-Bello, MW Hornef, E Jašarević, K Korpela, TD Lawley_
 
 
+_Gastrointestinal Microbiome, Goals, Microbiota_
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01281-4)
 
@@ -58,27 +60,15 @@ Dietary whole grain consumption has been postulated to have metabolic benefits. 
 
 ---
 
-## Oral microbiome of Crohn's Disease patients with and without oral manifestations.
- 05.05.2022, _S Hu, J Mok, M Gowans, DEH Ong, JL Hartono, JWJ Lee_
-
-
-Microbiome dysbiosis is associated with inflammatory destruction in Crohn's Disease (CD). Although gut microbiome dysbiosis is well-established in CD, the oral microbiome is comparatively under-studied. This study aims to characterize the oral microbiome of CD patients with/without oral manifestations.
+## Oral microbiome of Crohn’s Disease patients with and without oral manifestations
 
 [Source](https://academic.oup.com/ecco-jcc/advance-article/doi/10.1093/ecco-jcc/jjac063/6577053)
 
-10.1093/ecco-jcc/jjac063
-
 ---
 
-## Integrating the salivary microbiome in the forensic toolkit by 16S rRNA gene: potential application in body fluid identification and biogeographic inference.
- 10.05.2022, _X Liang, X Han, C Liu, W Du, P Zhong, L Huang, M Huang, L Fu, C Liu, L Chen_
-
-
-Saliva is a common body fluid with significant forensic value used to investigate criminal cases such as murder and assault. In the past, saliva identification often relied on the α-amylase test; however, this method has low specificity and is prone to false positives. Accordingly, forensic researchers have been working to find new specific molecular markers to refine the current saliva identification approach. At present, research on immunological methods, mRNA, microRNA, circRNA, and DNA methylation is still in the exploratory stage, and the application of these markers still has various limitations. It has been established that salivary microorganisms exhibit good specificity and stability. In this study, 16S rDNA sequencing technology was used to sequence the V3-V4 hypervariable regions in saliva samples from five regions to reveal the role of regional location on the heterogeneity in microbial profile information in saliva. Although the relative abundance of salivary flora was affected to a certain extent by geographical factors, the salivary flora of each sample was still dominated by Streptococcus, Neisseria, and Rothia. In addition, the microbial community in the saliva samples in this study was significantly different from that in the vaginal secretions, semen, and skin samples reported in our previous studies. Accordingly, saliva can be distinguished from the other three body fluids and tissues. Moreover, we established a prediction model based on the random forest algorithm that could distinguish saliva between different regions at the genus level even though the model has a certain probability of misjudgment which needs more in-depth research. Overall, the microbial community information in saliva stains might have prospects for potential application in body fluid identification and biogeographic inference.
+## Integrating the salivary microbiome in the forensic toolkit by 16S rRNA gene: potential application in body fluid identification and biogeographic inference
 
 [Source](https://link.springer.com/article/10.1007/s00414-022-02831-z)
-
-10.1007/s00414-022-02831-z
 
 ---
 
@@ -132,9 +122,10 @@ Growing evidence suggests that the gut microbiome is an important contributor to
 ---
 
 ## A randomized controlled trial for response of microbiome network to exercise and diet intervention in patients with nonalcoholic fatty liver disease.
- 10.05.2022, _R Cheng, L Wang, S Le, Y Yang, C Zhao, X Zhang, X Yang, T Xu, L Xu, P Wiklund, J Ge, D Lu, C Zhang, L Chen, S Cheng_
+ 12.05.2022, _R Cheng, L Wang, S Le, Y Yang, C Zhao, X Zhang, X Yang, T Xu, L Xu, P Wiklund, J Ge, D Lu, C Zhang, L Chen, S Cheng_
 
 
+_Diet, Exercise, Humans, Liver, Microbiota, Non-alcoholic Fatty Liver Disease, Prediabetic State_
 Exercise and diet are treatments for nonalcoholic fatty liver disease (NAFLD) and prediabetes, however, how exercise and diet interventions impact gut microbiota in patients is incompletely understood. We previously reported a 8.6-month, four-arm (Aerobic exercise, n = 29; Diet, n = 28; Aerobic exercise + Diet, n = 29; No intervention, n = 29) randomized, singe blinded (for researchers), and controlled intervention in patients with NAFLD and prediabetes to assess the effect of interventions on the primary outcomes of liver fat content and glucose metabolism. Here we report the third primary outcome of the trial-gut microbiota composition-in participants who completed the trial (22 in Aerobic exercise, 22 in Diet, 23 in Aerobic exercise + Diet, 18 in No Intervention). We show that combined aerobic exercise and diet intervention are associated with diversified and stabilized keystone taxa, while exercise and diet interventions alone increase network connectivity and robustness between taxa. No adverse effects were observed with the interventions. In addition, in exploratory ad-hoc analyses we find that not all subjects responded to the intervention in a similar manner, when using differentially altered gut microbe amplicon sequence variants abundance to classify the responders and low/non-responders. A personalized gut microbial network at baseline could predict the individual responses in liver fat to exercise intervention. Our findings suggest an avenue for developing personalized intervention strategies for treatment of NAFLD based on host-gut microbiome ecosystem interactions, however, future studies with large sample size are needed to validate these discoveries. The Trial Registration Number is ISRCTN 42622771.
 
 [Source](https://www.nature.com/articles/s41467-022-29968-0)
@@ -156,9 +147,10 @@ The physiology of males and females can be vastly different, complicating interp
 ---
 
 ## Comprehensive 16S rRNA and metagenomic data from the gut microbiome of aging and rejuvenation mouse models.
- 10.05.2022, _J Shin, JR Noh, D Choe, N Lee, Y Song, S Cho, EJ Kang, MJ Go, SK Ha, JH Kim, YH Kim, KS Kim, BC Kim, CH Lee, BK Cho_
+ 13.05.2022, _J Shin, JR Noh, D Choe, N Lee, Y Song, S Cho, EJ Kang, MJ Go, SK Ha, JH Kim, YH Kim, KS Kim, BC Kim, CH Lee, BK Cho_
 
 
+_Aging, Animals, Disease Models, Animal, Gastrointestinal Microbiome, Metagenomics, Mice, RNA, Ribosomal, 16S, Rejuvenation_
 The gut microbiota is associated with the health and longevity of the host. A few methods, such as fecal microbiota transplantation and oral administration of probiotics, have been applied to alter the gut microbiome and promote healthy aging. The changes in host microbiomes still remain poorly understood. Here, we characterized both the changes in gut microbial communities and their functional potential derived from colon samples in mouse models during aging. We achieved this through four procedures including co-housing, serum injection, parabiosis, and oral administration of Akkermansia muciniphila as probiotics using bacterial 16 S rRNA sequencing and shotgun metagenomic sequencing. The dataset comprised 16 S rRNA sequencing (36,249,200 paired-end reads, 107 sequencing data) and metagenomic sequencing data (307,194,369 paired-end reads, 109 sequencing data), characterizing the taxonomy of bacterial communities and their functional potential during aging and rejuvenation. The generated data expand the resources of the gut microbiome related to aging and rejuvenation and provide a useful dataset for research on developing therapeutic strategies to achieve healthy active aging.
 
 [Source](https://www.nature.com/articles/s41597-022-01308-3)
@@ -168,9 +160,10 @@ The gut microbiota is associated with the health and longevity of the host. A fe
 ---
 
 ## A total infectome approach to understand the etiology of infectious disease in pigs.
- 10.05.2022, _X Huang, W Wu, X Tian, X Hou, X Cui, Y Xiao, Q Jiao, P Zhou, L Liu, W Shi, L Chen, Y Sun, Y Yang, J Chen, G Zhang, J Liu, EC Holmes, X Cai, T An, M Shi_
+ 12.05.2022, _X Huang, W Wu, X Tian, X Hou, X Cui, Y Xiao, Q Jiao, P Zhou, L Liu, W Shi, L Chen, Y Sun, Y Yang, J Chen, G Zhang, J Liu, EC Holmes, X Cai, T An, M Shi_
 
 
+_Animals, Bacteria, Coinfection, Communicable Diseases, DNA Viruses, RNA Viruses, Swine_
 The global pork industry is continuously affected by infectious diseases that can result in large-scale mortality, trade restrictions, and major reductions in production. Nevertheless, the cause of many infectious diseases in pigs remains unclear, largely because commonly used diagnostic tools fail to capture the full diversity of potential pathogens and because pathogen co-infection is common.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01265-4)
@@ -180,9 +173,10 @@ The global pork industry is continuously affected by infectious diseases that ca
 ---
 
 ## Synergistic interaction of gut microbiota enhances the growth of nematode through neuroendocrine signaling.
- 11.05.2022, _WS Lo, Z Han, H Witte, W Röseler, RJ Sommer_
+ 12.05.2022, _WS Lo, Z Han, H Witte, W Röseler, RJ Sommer_
 
 
+_Animals, Bacteria, Caenorhabditis elegans, Gastrointestinal Microbiome, Nematoda, Rhabditida, Signal Transduction, Transforming Growth Factor beta_
 Animals are associated with a diverse bacterial community that impacts host physiology. It is well known that nutrients and enzymes synthesized by bacteria largely expand host metabolic capacity. Bacteria also impact a wide range of animal physiology that solely depends on host genetics through direct interaction. However, studying the synergistic effects of the bacterial community remains challenging due to its complexity. The omnivorous nematode Pristionchus pacificus has limited digestive efficiency on bacteria. Therefore, we established a bacterial collection that represents the natural gut microbiota that are resistant to digestion. Using this collection, we show that the bacterium Lysinibacillus xylanilyticus by itself provides limited nutritional value, but in combination with Escherichia coli, it significantly promotes life-history traits of P. pacificus by regulating the neuroendocrine peptide in sensory neurons. This gut-to-brain communication depends on undigested L. xylanilyticus providing Pristionchus nematodes a specific fitness advantage to compete with nematodes that rupture bacteria efficiently. Using RNA-seq and CRISPR-induced mutants, we show that 1-h exposure to L. xylanilyticus is sufficient to stimulate the expression of daf-7-type TGF-β signaling ligands, which induce a global transcriptome change. In addition, several effects of L. xylanilyticus depend on TGF-β signaling, including olfaction, body size regulation, and a switch of energy allocation from lipid storage to reproduction. Our results reveal the beneficial effects of a gut bacterium to modify life-history traits and maximize nematode survival in natural habitats.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0960982222004900)
