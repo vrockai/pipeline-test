@@ -346,51 +346,99 @@ The microbiome has been recognized as being highly impactful for cancer outcomes
 
 ---
 
-## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat
+## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat.
+ 13.05.2022, _K Hasebe, MD Kendig, NO Kaakoush, A Tajaddini, RF Westbrook, MJ Morris_
+
+
+Despite well-known effects of diet on gut microbiota diversity, relatively little is known about how maternal diet quality shapes the longitudinal maturation of gut microbiota in offspring. To investigate, we fed female rats standard chow (Chow) or a western-style, high-choice cafeteria diet (Caf) prior to and during mating, gestation and lactation. At weaning (3 weeks), male and female offspring were either maintained on their mother's diet (ChowChow, CafCaf groups) or switched to the other diet (ChowCaf, CafChow). Fecal microbial composition was assessed in dams and longitudinally in offspring at 3, 7 and 14 weeks of age.
 
 [Source](https://doi.org/10.1186/s42523-022-00185-w)
 
+10.1186/s42523-022-00185-w
+
 ---
 
-## Lactoferrin modulates gut microbiota and Toll-like receptors (TLRs) in mice with dysbiosis induced by antibiotics
+## Lactoferrin modulates gut microbiota and Toll-like receptors (TLRs) in mice with dysbiosis induced by antibiotics.
+ 12.05.2022, _A Bellés, D Aguirre-Ramírez, I Abad, M Parras-Moltó, L Sánchez, L Grasa_
+
+
+Background: Antibiotic administration can result in gut microbiota and immune system alterations that impact health. Bovine lactoferrin is a milk protein with anticancer, anti-inflammatory, antimicrobial and immune modulatory activities. The aim was to study the ability of native and iron-saturated lactoferrin to reverse the effects of clindamycin on gut microbiota and intestinal Toll-like receptor (TLR) expression in a murine model. Methods: Male C57BL/6 mice were treated with vehicle, clindamycin (Clin), native bovine lactoferrin (nLf), nLf + clindamycin (nLf_Clin), iron-saturated bovine lactoferrin (sLf) and sLf + clindamycin (sLf_Clin). Fecal samples of each group were collected, and bacterial DNA was extracted. Sequencing of 16s rRNA V4 hypervariable gene regions was conducted to assess the microbial composition. mRNA expression levels of TLRs (1-9) were determined in mouse colon by qPCR. Pearson's correlation test was carried out between bacteria showing differences in abundance among samples and TLR2, TLR8 and TLR9. Results: Beta-diversity analysis showed that the microbial community of the vehicle was different from the communities of Clin, nLf_Clin and sLf_Clin. At the family level, Bacteroidaceae, Prevotellaceae and Rikenellaceae decreased in the Clin group, and treatment with nLf or sLf reverted these effects. Clin reduced the expression of TLR2, TLR8 and TLR9 and sLf reverted the decrease in the expression of these receptors. Finally, TLR8 was positively correlated with Rikenellaceae abundance. Conclusion: In a situation of intestinal dysbiosis induced by clindamycin, lactoferrin restores the normal levels of some anti-inflammatory bacteria and TLRs and, therefore, could be a good ingredient to be added to functional foods.
 
 [Source](https://doi.org/10.1039/d2fo00287f)
 
+10.1039/d2fo00287f
+
 ---
 
-## Serotonin modulates insect gut bacterial community homeostasis
+## Serotonin modulates insect gut bacterial community homeostasis.
+ 13.05.2022, _T Zeng, HA Su, YL Liu, JF Li, DX Jiang, YY Lu, YX Qi_
+
+
+Metazoan guts are in permanent contact with microbial communities. However, the host mechanisms that have developed to manage the dynamic changes of these microorganisms and maintain homeostasis remain largely unknown.
 
 [Source](https://doi.org/10.1186/s12915-022-01319-x)
 
+10.1186/s12915-022-01319-x
+
 ---
 
-## Natural variation in root exudation of GABA and DIMBOA impacts the maize root endosphere and rhizosphere microbiomes
+## Natural variation in root exudation of GABA and DIMBOA impacts the maize root endosphere and rhizosphere microbiomes.
+ 13.05.2022, _P Wang, LD Lopes, MG Lopez-Guerrero, K van Dijk, S Alvarez, JJ Riethoven, DP Schachtman_
+
+
+Root exudates are important for shaping root-associated microbiomes. However, studies on a wider range of metabolites in exudates are required for a comprehensive understanding about their influence on microbial communities. We identified maize inbred lines that differ in exudate concentrations of DIMBOA and GABA using a semi-hydroponic system. These lines were grown in the field to determine the changes in microbial diversity and gene expression due to varying concentrations of DIMBOA and GABA in exudates using 16S rRNA amplicon sequencing and metatranscriptomics. Results showed individual and interaction effects of DIMBOA and GABA on the rhizosphere and root endosphere β-diversity, most strongly at the V10 growth stage. The main bacterial families affected by both compounds were Ktedonobacteraceae and Xanthomonadaceae. Higher concentrations of DIMBOA in exudates affected the rhizosphere metatranscriptome, enriching for KEGG pathways associated with plant disease. This study validated the use of natural variation within plant species as a powerful approach for understanding the role of root exudates on microbiome selection. We also showed that a semi-hydroponic system can be used to identify maize genotypes that differ in GABA and DIMBOA exudate concentrations under field conditions. The impact of GABA exudation on root-associated microbiomes was shown for the first time.
 
 [Source](https://doi.org/10.1093/jxb/erac202)
 
+10.1093/jxb/erac202
+
 ---
 
-## Beyond the snapshot: identification of the timeless, enduring indicator microbiome informing soil fertility and crop production in alkaline soils
+## Beyond the snapshot: identification of the timeless, enduring indicator microbiome informing soil fertility and crop production in alkaline soils.
+ 13.05.2022, _J Zhang, J Dolfing, W Liu, R Chen, J Zhang, X Lin, Y Feng_
+
+
+Microorganisms are known to be important drivers of biogeochemical cycling in soil and hence could act as a proxy informing on soil conditions in ecosystems. Identifying microbiomes indicative for soil fertility and crop production is important for the development of the next generation of sustainable agriculture. Earlier researches based on one-time sampling have revealed various indicator microbiomes for distinct agroecosystems and agricultural practices as well as their importance in supporting sustainable productivity. However, these microbiomes were based on a mere snapshot of a dynamic microbial community which is subject to significant changes over time. Currently true indicator microbiomes based on long-term, multi-annual monitoring are not available.
 
 [Source](https://doi.org/10.1186/s40793-022-00420-6)
 
+10.1186/s40793-022-00420-6
+
 ---
 
-## The role of microbiome in carbon sequestration and environment security during wastewater treatment
+## The role of microbiome in carbon sequestration and environment security during wastewater treatment.
+ 13.05.2022, _X Zhu, L Cheng, J Qi, G Zhen, X Lu, S Xu, J Zhang, H Liu, X Zhang, Z Wu_
+
+
+Wastewater treatment is an essential aspect of the earth's sustainable future. However, different wastewater treatment methods are responsible for carbon discharge into the environment, raising environmental risks. Hence, such wastewater treatment methods are required that can minimize carbon release without compromising the treatment quality. Microbiome-based carbon sequestration is a potential method for achieving this goal. Limited studies have been carried out to investigate how microbes can capture and utilize CO2. This review summarizes the approaches including microbial electrolytic carbon capture, microbial electrosynthesis, microbial fuel cell, microalgae cultivation, and constructed wetlands that employ microbes to capture and utilize CO2. Electroactive Bacteria (EAB) convert carbon dioxide to carbonates and bicarbonates in subsequent steps after organic matter decomposition. Similarly, microbial electrosynthesis (MES) not only helps capture carbon but also produces secondary products (production of polyhydroxyalkanoates by Gram-negative rod Aeromonas hydrophila bacteria) of commercial importance during wastewater treatment. In addition to this, microbial carbon capture cells (MCCs) have been now utilized for energy generation and carbon sequestration at the same time during wastewater treatment. Moreover, microalgae cultivation has also been found to capture CO2 at a rapid pace while releasing O2 as a consequence of photosynthesis. Hence, microbe-based wastewater treatment has quite a potential due to two-fold benefits like carbon sequestration and by-product formation.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.155793)
 
+10.1016/j.scitotenv.2022.155793
+
 ---
 
-## Variational Approximation-Based Model Selection for Microbial Network Inference
+## Variational Approximation-Based Model Selection for Microbial Network Inference.
+ 13.05.2022, _S Yooseph, S Tavakoli_
+
+
+Microbial associations are characterized by both direct and indirect interactions between the constituent taxa in a microbial community, and play an important role in determining the structure, organization, and function of the community. Microbial associations can be represented using a weighted graph (microbial network), whose nodes represent taxa and edges represent pairwise associations. A microbial network is typically inferred from a sample-taxa matrix that is obtained by sequencing multiple biological samples and identifying the taxa counts in each sample. However, it is known that microbial associations are impacted by environmental and/or host factors. Thus, a sample-taxa matrix generated in a microbiome study involving a wide range of values for the environmental and/or clinical metadata variables may in fact be associated with more than one microbial network. In this study, we consider the problem of inferring multiple microbial networks from a given sample-taxa count matrix. Each sample is a count vector assumed to be generated by a mixture model consisting of component distributions that are multivariate Poisson log-normal. We present a variational expectation maximization algorithm for the model selection problem to infer the correct number of components of this mixture model. Our approach involves reframing the mixture model as a latent variable model, treating only the mixing coefficients as parameters, and subsequently approximating the marginal likelihood using an evidence lower bound framework. Our algorithm is evaluated on a large simulated dataset generated using a collection of different graph structures (band, hub, cluster, random, and scale-free).
 
 [Source](https://doi.org/10.1089/cmb.2021.0595)
 
+10.1089/cmb.2021.0595
+
 ---
 
-## Opportunities and challenges of using metagenomic data to bring uncultured microbes into cultivation
+## Opportunities and challenges of using metagenomic data to bring uncultured microbes into cultivation.
+ 13.05.2022, _S Liu, CD Moon, N Zheng, S Huws, S Zhao, J Wang_
+
+
+Although there is now an extensive understanding of the diversity of microbial life on earth through culture-independent metagenomic DNA sequence analyses, the isolation and cultivation of microbes remains critical to directly study them and confirm their metabolic and physiological functions, and their ecological roles. The majority of environmental microbes are as yet uncultured however; therefore, bringing these rare or poorly characterized groups into culture is a priority to further understand microbiome functions. Moreover, cultivated isolates may find utility in a range of applications, such as new probiotics, biocontrol agents, and agents for industrial processes. The growing abundance of metagenomic and meta-transcriptomic sequence information from a wide range of environments provides more opportunities to guide the isolation and cultivation of microbes of interest. In this paper, we discuss a range of successful methodologies and applications that have underpinned recent metagenome-guided isolation and cultivation of microbe efforts. These approaches include determining specific culture conditions to enrich for taxa of interest, to more complex strategies that specifically target the capture of microbial species through antibody engineering and genome editing strategies. With the greater degree of genomic information now available from uncultivated members, such as via metagenome-assembled genomes, the theoretical understanding of their cultivation requirements will enable greater possibilities to capture these and ultimately gain a more comprehensive understanding of the microbiomes. Video Abstract.
 
 [Source](https://doi.org/10.1186/s40168-022-01272-5)
+
+10.1186/s40168-022-01272-5
 
 ---
 
