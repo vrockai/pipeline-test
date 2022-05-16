@@ -346,15 +346,9 @@ The microbiome has been recognized as being highly impactful for cancer outcomes
 
 ---
 
-## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat.
- 13.05.2022, _K Hasebe, MD Kendig, NO Kaakoush, A Tajaddini, RF Westbrook, MJ Morris_
-
-
-Despite well-known effects of diet on gut microbiota diversity, relatively little is known about how maternal diet quality shapes the longitudinal maturation of gut microbiota in offspring. To investigate, we fed female rats standard chow (Chow) or a western-style, high-choice cafeteria diet (Caf) prior to and during mating, gestation and lactation. At weaning (3 weeks), male and female offspring were either maintained on their mother's diet (ChowChow, CafCaf groups) or switched to the other diet (ChowCaf, CafChow). Fecal microbial composition was assessed in dams and longitudinally in offspring at 3, 7 and 14 weeks of age.
+## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat
 
 [Source](https://doi.org/10.1186/s42523-022-00185-w)
-
-10.1186/s42523-022-00185-w
 
 ---
 
