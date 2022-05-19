@@ -1,5 +1,5 @@
 ## Noninvasive assessment of gut function using transcriptional recording sentinel cells.
- 17.05.2022, _F Schmidt, J Zimmermann, T Tanna, R Farouni, T Conway, AJ Macpherson, RJ Platt_
+ 18.05.2022, _F Schmidt, J Zimmermann, T Tanna, R Farouni, T Conway, AJ Macpherson, RJ Platt_
 
 
 _Bacteria, Clustered Regularly Interspaced Short Palindromic Repeats, Escherichia coli, Gastrointestinal Microbiome, Gastrointestinal Tract, Transcriptome_
@@ -12,7 +12,7 @@ Transcriptional recording by CRISPR spacer acquisition from RNA endows engineere
 ---
 
 ## Recording bacterial responses to changes in the gut environment.
- 17.05.2022, _L Zahavi, E Segal_
+ 18.05.2022, _L Zahavi, E Segal_
 
 
 _Bacteria, Gastrointestinal Microbiome_
@@ -24,64 +24,33 @@ A CRISPR-based tool reveals intestinal microbiota gene expression through time.
 
 ---
 
-## Contribution of the Microbiome to Western Diet-Induced Gene Expression Changes in the Intestine and Vasculature.
- 16.05.2022, _AN Cavalier, TL Weir, CL Gentile, TJ LaRocca_
-
-
-Western diet (high fat/sugar) is a core contributor to obesity, which is associated with increased risk for chronic diseases, including cardiovascular disease (CVD). The mechanisms through which Western diet contributes to CVD are heavily studied, and increasing evidence suggests that Western diet alters the gut microbiota leading to dysbiosis(i.e., disruption of microbial homeostasis and accompanying intestinal inflammation), contributing to development of vascular dysfunction, a strong predictor of future CVD. Still, the biological processes linking intestinal dysbiosis with the vasculature are incompletely understood. To identify potential mediators of intestinal-vascular crosstalk, we investigated the role of the gut microbiome in Western diet-induced global gene expression changes using transcriptomics. We performed total RNA sequencing on colons and arteries (aorta) from wild-type (WT) and germ-free (GF, no microbiome) mice fed standard or Western purified diets for 8 weeks. In the colon, we found ~100 differentially expressed genes in standard diet-fed WT vs. GF mice, and pathway analyses showed that these genes were associated with several important biological processes including peroxisome proliferator-activated receptor (PPAR) signaling, adipocyte lipolysis regulation, and AMP-activated protein kinase (AMPK) signaling (genes and pathways, FDR &lt; 0.1). In colons of Western diet-fed WT vs. GF mice, we found 163 differentially expressed genes related to cancer signaling, mitogen-activated protein kinase (MAPK) signaling, and viral immune response (FDR &lt; 0.1). Interestingly, in transcriptome analyses of aortas we found significantly different expression of 314 genes in standard diet-fed WT vs. GF mice, and these were related to complement/coagulation cascades, transforming growth factor beta (TGF-β), and advanced glycation end product (AGE) signaling, but most of these differences were absent with Western diet (only 4 significantly different genes in WT vs. GF mice, FDR &lt; 0.1). These data suggest that the microbiome is an important mediator of gene expression in the intestine regardless of diet, but may only be important in arteries under standard diet conditions, and that the microbiome may not be a strong mediator of intestinal-vascular crosstalk at the protein-coding gene expression level. We are currently performing in-depth analyses of non-coding RNAs (e.g., micro-RNAs) to further elucidate the mechanisms at play.
+## Contribution of the Microbiome to Western Diet-Induced Gene Expression Changes in the Intestine and Vasculature
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.L7713)
 
-10.1096/fasebj.2022.36.S1.L7713
-
 ---
 
-## The Gut Microbiota Metabolite Succinate promotes Adipose Tissue Browning in Crohn's Disease.
- 13.05.2022, _D Monfort-Ferré, A Caro, M Menacho, M Martí, B Espina, A Boronat-Toscano, C Nuñez-Roa, J Seco, M Bautista, E Espín, A Megía, J Vendrell, S Fernández-Veledo, C Serena_
-
-
-Crohn's disease (CD) is associated with complex microbe-host interactions, involving changes in microbial communities, and gut barrier defects, leading to the translocation of microorganisms to surrounding adipose tissue (AT). We evaluated the presence of beige AT depots in CD and questioned whether succinate and/or bacterial translocation promotes white-to-beige transition in adipocytes.
+## The Gut Microbiota Metabolite Succinate promotes Adipose Tissue Browning in Crohn’s Disease
 
 [Source](https://doi.org/10.1093/ecco-jcc/jjac069)
 
-10.1093/ecco-jcc/jjac069
-
 ---
 
-## Changes in Gut Microbiome Composition with Healthy Aging in Humans: Links to Vascular Endothelial Function.
- 16.05.2022, _N Greenberg, ML Burnsed-Torres, A Gonzalez, AG Casso, KL Lubieniecki, BP Ziemba, MJ Rossman, EC Adam, M Chonchol, KP Davy, R Knight, DR Seals, VE Brunt_
-
-
-Aging is the primary risk factor for cardiovascular diseases, primarily due to development of vascular endothelial dysfunction. The gut microbiome is a strong influencer of host physiology, but few studies have investigated how gut microbiome composition changes with primary (healthy) aging in humans, or how such changes may influence endothelial function.
+## Changes in Gut Microbiome Composition with Healthy Aging in Humans: Links to Vascular Endothelial Function
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2759)
 
-10.1096/fasebj.2022.36.S1.R2759
-
 ---
 
-## The Gut Microbiota Modulates Gene Expression in the Kidney.
- 17.05.2022, _B Moore, J Pluznick_
-
-
-_Animals, Feces, Female, Gastrointestinal Microbiome, Gene Expression, Germ-Free Life, Humans, Kidney, Male, Mice, RNA, Ribosomal, 16S_
-Gut microbiota are a diverse array of commensal bacteria in the intestinal lumen, and shifts in the composition of gut microbes can influence host health. We have previously established a link between the gut microbiota and host kidney function by showing that gut microbial metabolites can activate G protein-coupled receptors in the kidney. Although host-microbiome interactions have been studied at the signaling level, the influence of gut microbes on gene expression at the transcriptional level is unclear. Evidence demonstrates that gut microbiota alters gene transcription in the colon (J. Allen, Genome Medicine, 2019); however, it is entirely unknown whether gut microbiota influences host gene expression at distal sites, such as the kidney. To address this question for the first time, we utilized an unbiased RNA sequencing (RNASeq) approach to compare gene expression in the kidneys of male and female mice which were either germ-free (GF; without gut microbes) or conventionalized (Conv; with gut microbes). All mice were born on a C57Bl/6 background and housed in the Johns Hopkins GF facility. At four weeks of age, a subset of mice (n=5 males, n=5 females) were conventionalized via oral gavage using a fecal slurry of mixed stool from age-matched specific-pathogen free (SPF) mice (n=3 males, n=3 females); whereas an additional cohort of mice (n=5 males, n=5 females) were maintained as GF. Eight weeks after conventionalization both GF and Conv mice were sacrificed, whole kidneys were processed for RNASeq, and fecal pellets from Conv mice were collected for 16S rRNA sequencing. For RNASeq analysis, differentially expressed genes (DEGs) were defined as having a log2fold change ≥ ± 0.5 and base mean ≥ 15 (the average of the normalized count values, dividing by size factors, taken over all samples). We identified a clear effect of the gut microbiota on renal gene expression: 578 DEGs between GF and Conv males, and 340 DEGs between GF and Conv females. Only 73 of these DEGs were common to both males and females. These data demonstrate that the gut microbiota not only impacts gene expression in the kidney, but does so in a sex-specific manner. In addition, 16S rRNA sequencing showed no differences in bacterial colonization between male and female Conv mice, establishing that the renal transcriptomic differences are not a consequence of differing gut microbes; rather, the same microbes have differential effects in males and females, presumably through differences in either signals (i.e., microbial metabolites), or differences in host responses. Furthermore, DAVID pathway analysis revealed that DEGs are involved in pathways including aldosterone synthesis and secretion, mineral absorption, proximal tubule bicarbonate reclamation, and vasopressin-regulated water reabsorption. In sum, we demonstrate that the gut microbiota influences kidney gene expression in a sex-specific manner, and that these transcriptional changes are poised to impact kidney physiology and regulation. We are now working to identify physiologically relevant signals from the microbiome and/or host that mediate these sex-specific differences, and to determine how they influence renal function.
+## The Gut Microbiota Modulates Gene Expression in the Kidney
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2348)
 
-10.1096/fasebj.2022.36.S1.R2348
-
 ---
 
-## Rapid evolution and strain turnover in the infant gut microbiome.
- 11.05.2022, _DW Chen, NR Garud_
-
-
-While the ecological dynamics of the infant gut microbiome have been intensely studied, relatively little is known about evolutionary dynamics in the infant gut microbiome. Here we analyze longitudinal fecal metagenomic data from &gt;700 infants and their mothers over the first year of life and find that the evolutionary dynamics in infant gut microbiomes are distinct from that of adults. We find evidence for more than 10-fold increase in the rate of evolution and strain turnover in the infant gut compared to healthy adults, with the mother-infant transition at delivery being a particularly dynamic period in which gene loss dominates. Within a few months after birth, these dynamics stabilize, and gene gains become increasingly frequent as the microbiome matures. We furthermore find that evolutionary changes in infants show signatures of being seeded by a mixture of de novo mutations and transmissions of pre-evolved lineages from the broader family. Several of these evolutionary changes occur in parallel across infants, highlighting candidate genes that may play important roles in the development of the infant gut microbiome. Our results point to a picture of a volatile infant gut microbiome characterized by rapid evolutionary and ecological change in the early days of life.
+## Rapid evolution and strain turnover in the infant gut microbiome
 
 [Source](https://genome.cshlp.org/content/early/2022/05/11/gr.276306.121.abstract)
-
-10.1101/gr.276306.121
 
 ---
 
@@ -91,65 +60,33 @@ While the ecological dynamics of the infant gut microbiome have been intensely s
 
 ---
 
-## Lung microbiome composition and bronchial epithelial gene expression in patients with COPD versus healthy individuals: a bacterial 16S rRNA gene sequencing and host transcriptomic analysis.
- 17.05.2022, _MY Ramsheh, K Haldar, A Esteve-Codina, LF Purser, M Richardson, J Müller-Quernheim, T Greulich, A Nowinski, I Barta, M Stendardo, P Boschetto, D Korzybski, A Prasse, DG Parr, JM Hohlfeld, B Döme, T Welte, S Heath, I Gut, JA Morrissey, L Ziegler-Heitbrock, MR Barer, D Singh, CE Brightling_
-
-
-_Adrenal Cortex Hormones, Bacteria, Genes, rRNA, Humans, Lung, Microbiota, Moraxella, Prevotella, Pulmonary Disease, Chronic Obstructive, RNA, Ribosomal, 16S, Sputum, Transcriptome_
-Chronic obstructive pulmonary disease (COPD) is associated with airway inflammation and bacterial dysbiosis. The relationship between the airway microbiome and bronchial gene expression in COPD is poorly understood. We aimed to identify differences in the airway microbiome from bronchial brushings in patients with COPD and healthy individuals and to investigate whether any distinguishing bacteria are related to bronchial gene expression.
+## Lung microbiome composition and bronchial epithelial gene expression in patients with COPD versus healthy individuals: a bacterial 16S rRNA gene sequencing and host transcriptomic analysis
 
 [Source](https://doi.org/10.1016/S2666-5247(21)00035-5)
 
-10.1016/S2666-5247(21)00035-5
-
 ---
 
-## Therapeutic Targeting of the Respiratory Microbiome.
- 17.05.2022, _SH Chotirmall, D Bogaert, JD Chalmers, MJ Cox, PM Hansbro, YJ Huang, PL Molyneaux, DN O'Dwyer, AA Pragman, GB Rogers, LN Segal, RP Dickson_
-
-
-The last decade of research has revolutionized our understanding of respiratory microbiology, revealing that the lungs and airways contain diverse and dynamic microbial communities in health and disease. This "respiratory ecosystem"-a densely interconnected environment of microbial and host interactions-represents a tremendous and under-appreciated source of biological and clinical heterogeneity across patients with acute and chronic lung disease. Unlike other major sources of heterogeneity, such as comorbidities and host genetics, the respiratory microbiome is readily modifiable by clinical interventions, and therefore represents an untapped opportunity for therapeutic manipulation. As a potential "treatable trait" in efforts to subphenotype patients and deliver precision medicine, the respiratory microbiome is a promising therapeutic target. In this Pulmonary Perspective, we identify and discuss multiple challenges, both conceptual and practical, that must be overcome before the respiratory microbiome can be effectively modulated as a therapeutic target. Barriers include: 1) the need to identify specific microbiologic and ecologic "targets" for therapeutic modulation; 2) the need for an improved understanding of the efficacy and persistence of response to respiratory microbiome-modulating interventions; 3) the need for clinicians to be able to access, understand and utilize microbiome data for sub-phenotyping patients, and 4) specific concerns in special populations (including children, patients with chronic lung disease, and critically ill patients). By delineating these barriers, we identify opportunities for prospective research to advance our understanding of the respiratory microbiome, its role in human respiratory disease, and its genuine potential as a therapeutic target.
+## Therapeutic Targeting of the Respiratory Microbiome
 
 [Source](https://doi.org/10.1164/rccm.202112-2704PP)
 
-10.1164/rccm.202112-2704PP
-
 ---
 
-## Temporal Dynamics of the Nasopharyngeal Microbiome and its Relationship with Childhood Asthma Exacerbation.
- 17.05.2022, _J Hou, Y Song, ASY Leung, MF Tang, M Shi, EY Wang, JGS Tsun, RWY Chan, GWK Wong, SK Tsui, TF Leung_
-
-
-Despite distinct nasopharyngeal microbiome (NPM) profiles between asthmatics and healthy subjects, little is known about the NPM dynamics and its relation to childhood asthma exacerbation (AE). We investigated NPM changes by longitudinally collecting 135 flocked nasopharyngeal swabs (FNPSs) from 33 school-age asthmatic children at six time points (2 to 4-week intervals) from September to December 2017 in Hong Kong. Subjects were categorized into AE and stable asthma (AS) groups according to whether they experienced any exacerbation during follow-up. One-off FNPSs from nine nonasthmatic children were included as controls. Microbiota profiles were analyzed using 16S rRNA gene sequencing. All 144 NPMs were classified into six microbiome profile groups (MPGs), each dominated by Moraxella, Corynebacterium 1, Dolosigranulum, Staphylococcus, Streptococcus, or Anoxybacillus. The microbial diversity and compositions of NPM in exacerbation samples were different from both baseline samples and those from healthy controls. Moraxella and Dolosigranulum-dominated NPM exhibited high temporal stability revealed by MPG transition analysis. NPM diversity decreased whereas microbial composition remained similar over time. The relative abundances of Moraxella increased while Corynebacterium 1, Anoxybacillus, and Pseudomonas decreased longitudinally. However, these temporal patterns did not differ between AE and AS groups, suggesting that short-term dynamic patterns were not sufficient to predict AE occurrence. Asthmatic NPM underwent Moraxella expansion during AE and presented a high microbiome resilience (recovery potential) after AE resolution. Microbial pathways involved in methane, ketone bodies, and vitamin B3 metabolisms were enhanced during AE and primarily contributed by Moraxella. IMPORTANCE Evidence on the dynamic changes of NPM in asthmatic patients remains limited. Here, we present that asthmatic NPMs deviating from a healthy status still showed resilience after disturbance. Our data imply from a longitudinal perspective that Moraxella increase is closely related to AE occurrence. The finding of functional dysbiosis (imbalance) during AE offers a plausible explanation for the known association between nasopharyngeal Moraxella expansion and increased AE risk. This work serves as a basis for future long-term prospective studies leveraging multiomics approaches to elucidate the temporal association between NPM and pediatric AE.
+## Temporal Dynamics of the Nasopharyngeal Microbiome and its Relationship with Childhood Asthma Exacerbation
 
 [Source](https://doi.org/10.1128/spectrum.00129-22)
 
-10.1128/spectrum.00129-22
-
 ---
 
-## Role of Oral Microbiota Biofilms in Recurrent Tonsillitis and Sleep-Disordered Breathing in Children.
- 16.05.2022, _T Allain, E DeMichele, JC Stearns, W Yunker, AG Buret_
-
-
-The palatine tonsils are aggregates of lymphoid tissue in the lateral oropharynx. In children, tonsillar enlargement can lead to upper airway obstruction and sleep-disordered breathing (SDB). The reason for tonsillar enlargement in some children, and not others is unknown. We have investigated the role of the tonsillar microbiota in tonsillar enlargement. The role of bacterial biofilms in RT and SDB was investigated through comparisons of tonsil histopathology, mixed-species biofilm's microbiota composition and biofilm phenotypes. We hypothesized that the SDB tonsillar phenotype has distinct biofilm forming bacterial communities driving tonsillar hyperplasia compared to recurrent tonsillitis.
+## Role of Oral Microbiota Biofilms in Recurrent Tonsillitis and Sleep-Disordered Breathing in Children
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.R4279)
 
-10.1096/fasebj.2022.36.S1.R4279
-
 ---
 
-## Oral Microbiota of Amazonian Kichwa Infants From Equador During the First Six Months of Life.
- 17.05.2022, _D Maldonado Lino, B Diaz, W Vanden Berghe, JM Cevallos-Cevallos, A Orellana-Manzano_
-
-
-_Bacteria, Cross-Sectional Studies, Humans, Infant, Microbiota, Mouth, RNA, Ribosomal, 16S, Saliva_
-For public health policy, this study aimed to identify the oral microbiota in babies of the Amazonian Kichwa (AK) population of Ecuador born vaginally during the first six months of life.
+## Oral Microbiota of Amazonian Kichwa Infants From Equador During the First Six Months of Life
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.0R855)
-
-10.1096/fasebj.2022.36.S1.0R855
 
 ---
 
@@ -222,7 +159,7 @@ Antibiotics prescription in early life can cause dysbiosis, an imbalance of gut 
 ---
 
 ## The resistance within: Antibiotic disruption of the gut microbiome and resistome dynamics in infancy.
- 17.05.2022, _R Thänert, SS Sawhney, DJ Schwartz, G Dantas_
+ 18.05.2022, _R Thänert, SS Sawhney, DJ Schwartz, G Dantas_
 
 
 _Anti-Bacterial Agents, Bacteria, Child, Drug Resistance, Microbial, Gastrointestinal Microbiome, Humans, Infant, Microbiota_
@@ -235,7 +172,7 @@ Intestinal host-microbiota interactions during the first year of life are critic
 ---
 
 ## The developing infant gut microbiome: A strain-level view.
- 17.05.2022, _H Enav, F Bäckhed, RE Ley_
+ 18.05.2022, _H Enav, F Bäckhed, RE Ley_
 
 
 _Gastrointestinal Microbiome, Humans, Infant, Infant, Newborn, Microbiota_
@@ -272,7 +209,7 @@ The oral and gut microbiomes have each been associated with food allergy status.
 ---
 
 ## Supplementation with a probiotic mixture accelerates gut microbiome maturation and reduces intestinal inflammation in extremely preterm infants.
- 17.05.2022, _J Samara, S Moossavi, B Alshaikh, VA Ortega, VK Pettersen, T Ferdous, SL Hoops, A Soraisham, J Vayalumkal, D Dersch-Mills, JS Gerber, S Mukhopadhyay, K Puopolo, TA Tompkins, D Knights, J Walter, H Amin, MC Arrieta_
+ 18.05.2022, _J Samara, S Moossavi, B Alshaikh, VA Ortega, VK Pettersen, T Ferdous, SL Hoops, A Soraisham, J Vayalumkal, D Dersch-Mills, JS Gerber, S Mukhopadhyay, K Puopolo, TA Tompkins, D Knights, J Walter, H Amin, MC Arrieta_
 
 
 _Bifidobacterium, Ecosystem, Gastrointestinal Microbiome, Humans, Infant, Infant, Extremely Premature, Infant, Newborn, Inflammation, Probiotics_
@@ -321,28 +258,15 @@ The gut microbiome of humans and animals is critical to host health. Mice are us
 
 ---
 
-## Investigation of Effects of Hyperglycaemia on the Lung Microbiome in Diabetic Mice.
- 16.05.2022, _S Vasiljevs, D Baines_
-
-
-The lungs are constantly exposed to a diversity of microbes. On average, the human inhales between 0.7 and 7000 bacterial colony forming units (CFU) every minute. The airway epithelium and the airway surface liquid (ASL) which lines the luminal surface, play a vital role in the defence against these inhaled organisms. Glucose concentration in the ASL is much lower than that of blood (approximately 12.5 times lower). It was proposed that low glucose concentration in the ASL contributes to innate protection against the growth of pathogenic organisms which can utilise glucose for growth. Previous research demonstrated that a sustained increase in blood glucose concentration (such as diabetes) led to increased glucose concentration found in the ASL in both human and animals. We therefore hypothesised that the microbial population of the lung would change in the diabetic lung. Seven-week-old female db/db (BKS.Cg-+Leprdb/+Leprdb/OlaHsd) and non-diabetic littermates (BKS.Cg-(Lean)/OlaHsd) db/db mice and non-diabetic littermate controls were purchased from Envigo (UK). Mice were maintained in standard animal housing in a 12h light/dark cycle; water and standard rodent chow available ad libitumand allowed to acclimatise for three weeks before lung microbiome collection. Mice were terminated with an overdose of pentobarbital (0.2ml of 100mg/ml i.p.). Blood was collected for glucose measurement. Bronchoalveolar lavage was performed and 1 mL of solution was used to extract bacterial DNA using QIAamp DNA Microbiome Kit (Qiagen). The V3-V4-region of the 16S rRNA gene was amplified and sequenced using 300 bp paired-end reads on the Illumina MiSeq platform. Bioinformatic analysis was performed using Mothur v1.39.5 as per the MiSeq SOP pipeline. After removing of contaminant sequence reads, downstream statistical analyses were performed using R statistical software. The bacterial diversity in BAL samples was highly variable within and between diabetic and non-diabetic mice. Hyperglycaemia did not affect the a-diversity of the lung microbiome (Inverse Simpson rating). However, hyperglycaemia had a significant effect on the b-diversity of lung microbiome (analysed with AMOVA, p=0.011, n=9) with the microbiome from diabetic mice clustering together. At the genus level, bacteria of genus Staphylococcus were more abundant in the normoglycaemic mice (n=9, p=0.019). The genus Pseudomonas were more abundant in diabetic mice (n=9, p=0.028) and Corynebacterium (n=9, p=0.0018), which are frequently found in the lung microbiome as commensal organisms, were decreased. Taken together, these data indicate that sustained hyperglycaemia modifies the lung microbiome, decreasing the abundance of commensal bacteria and promoting the growth of glucose-utilising bacteria such as Pseudomonas which may include potential pathogenic species such as P. aeruginosa.
+## Investigation of Effects of Hyperglycaemia on the Lung Microbiome in Diabetic Mice
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.L7744)
 
-10.1096/fasebj.2022.36.S1.L7744
-
 ---
 
-## Dietary Impacts on Changes in Diversity and Abundance of the Murine Microbiome During Progression and Treatment of Cancer.
- 17.05.2022, _H Paden, N Kurbatfinski, J Poelstra, S Ilic_
-
-
-_Animals, Body Weight, Diet, Fatty Acids, Omega-3, Female, Gastrointestinal Microbiome, Humans, Mice, Microbiota, Neoplasms, Sucrose, Verrucomicrobia_
-The microbiome has been recognized as being highly impactful for cancer outcomes, both with respect to the diversity and composition of the microbial population, as well as overall abundance. Presence or absence of certain microbial species has been correlated to improved cancer outcomes, in concert with specific treatments. However, little research has been performed to consider the reciprocal of this relationship: how different treatments, or the progression of disease, impact the microbiome. Further, though correlations have been demonstrated between dietary intake of both fats and carbohydrates and the composition and breadth of the microbiome, no studies have investigated the microbiome population as it is impacted by cancer and therapeutic treatments under different dietary regiments. This study aims to investigate how dietary patterns, in concert with progression of cancer and both surgical and therapeutic interventions, impact the diversity and abundance of the murine microbiome. A total of 116 c57BI/6 female mice (7-8 weeks old) were randomized into four groups (n=29/group, each) one week post ovariectomy. Mice received a specific, semi-purified diet consisting of A) low sucrose, high omega 3 fatty acid; B) low sucrose, low omega 3 fatty acid; C) high sucrose, high omega 3 fatty acid; or D) high sucrose, high omega 3 fatty acid. For high omega 3 fatty acid groups, 2% of daily calories were supplied to the mice as EPA and DHA in a 1.5:1 ratio. One week after implementation of diets all mice were inoculated with E0771 breast cancer cells. Twelve days following inoculation all mice were subject to lumpectomy. Eight days following, measurement procedures were repeated, as at baseline. Ten days following lumpectomy, half of the mice from each dietary cohort were treated with saline, while the other half were treated with a chemotherapeutic agent (9 mg/kg body weight doxorubicin and 90 mg/kg body weight cyclophosphamide). Six days later, the experiment ended, and mice were sacrificed following IACUC guidelines. Fecal samples, which had been collected at each time point noted above, were processed using QIAmp® PowerFecal® DNA isolation kit and were sent to MCIC (OSU Wooster Campus) for 16S ribosomal genetic profiling. A genomic library was generated, using previously validated primers for the V4 region. FASTQ files were filtered, trimmed, dereplicated, and denoised. Cleaned FASTQ files were then used to infer ASVs. Over the progression of cancer, there has been a consistent decrease in the alpha diversity of the microbiome. The effect of diet was mitigated by introduction of chemotherapeutic agents, though the significance of this effect is yet to be determined. While the analysis is still ongoing, it has been determined that there is a clear dietary effect which interacts with abundance. Multiple ASVs have been shown to be positively associated with high fat consumption, though inverse effects, as well as timepoint and treatment effects, have also been noted. Akkermansia muciniphila was a highly present bacterial species in all treatments, despite it usually being noted only as a minor resident of the gut.
+## Dietary Impacts on Changes in Diversity and Abundance of the Murine Microbiome During Progression and Treatment of Cancer
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.0R381)
-
-10.1096/fasebj.2022.36.S1.0R381
 
 ---
 
@@ -358,75 +282,39 @@ The microbiome has been recognized as being highly impactful for cancer outcomes
 
 ---
 
-## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat.
- 16.05.2022, _K Hasebe, MD Kendig, NO Kaakoush, A Tajaddini, RF Westbrook, MJ Morris_
-
-
-Despite well-known effects of diet on gut microbiota diversity, relatively little is known about how maternal diet quality shapes the longitudinal maturation of gut microbiota in offspring. To investigate, we fed female rats standard chow (Chow) or a western-style, high-choice cafeteria diet (Caf) prior to and during mating, gestation and lactation. At weaning (3 weeks), male and female offspring were either maintained on their mother's diet (ChowChow, CafCaf groups) or switched to the other diet (ChowCaf, CafChow). Fecal microbial composition was assessed in dams and longitudinally in offspring at 3, 7 and 14 weeks of age.
+## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat
 
 [Source](https://doi.org/10.1186/s42523-022-00185-w)
 
-10.1186/s42523-022-00185-w
-
 ---
 
-## Lactoferrin modulates gut microbiota and Toll-like receptors (TLRs) in mice with dysbiosis induced by antibiotics.
- 12.05.2022, _A Bellés, D Aguirre-Ramírez, I Abad, M Parras-Moltó, L Sánchez, L Grasa_
-
-
-Background: Antibiotic administration can result in gut microbiota and immune system alterations that impact health. Bovine lactoferrin is a milk protein with anticancer, anti-inflammatory, antimicrobial and immune modulatory activities. The aim was to study the ability of native and iron-saturated lactoferrin to reverse the effects of clindamycin on gut microbiota and intestinal Toll-like receptor (TLR) expression in a murine model. Methods: Male C57BL/6 mice were treated with vehicle, clindamycin (Clin), native bovine lactoferrin (nLf), nLf + clindamycin (nLf_Clin), iron-saturated bovine lactoferrin (sLf) and sLf + clindamycin (sLf_Clin). Fecal samples of each group were collected, and bacterial DNA was extracted. Sequencing of 16s rRNA V4 hypervariable gene regions was conducted to assess the microbial composition. mRNA expression levels of TLRs (1-9) were determined in mouse colon by qPCR. Pearson's correlation test was carried out between bacteria showing differences in abundance among samples and TLR2, TLR8 and TLR9. Results: Beta-diversity analysis showed that the microbial community of the vehicle was different from the communities of Clin, nLf_Clin and sLf_Clin. At the family level, Bacteroidaceae, Prevotellaceae and Rikenellaceae decreased in the Clin group, and treatment with nLf or sLf reverted these effects. Clin reduced the expression of TLR2, TLR8 and TLR9 and sLf reverted the decrease in the expression of these receptors. Finally, TLR8 was positively correlated with Rikenellaceae abundance. Conclusion: In a situation of intestinal dysbiosis induced by clindamycin, lactoferrin restores the normal levels of some anti-inflammatory bacteria and TLRs and, therefore, could be a good ingredient to be added to functional foods.
+## Lactoferrin modulates gut microbiota and Toll-like receptors (TLRs) in mice with dysbiosis induced by antibiotics
 
 [Source](https://doi.org/10.1039/d2fo00287f)
 
-10.1039/d2fo00287f
-
 ---
 
-## Serotonin modulates insect gut bacterial community homeostasis.
- 16.05.2022, _T Zeng, HA Su, YL Liu, JF Li, DX Jiang, YY Lu, YX Qi_
-
-
-Metazoan guts are in permanent contact with microbial communities. However, the host mechanisms that have developed to manage the dynamic changes of these microorganisms and maintain homeostasis remain largely unknown.
+## Serotonin modulates insect gut bacterial community homeostasis
 
 [Source](https://doi.org/10.1186/s12915-022-01319-x)
 
-10.1186/s12915-022-01319-x
-
 ---
 
-## Natural variation in root exudation of GABA and DIMBOA impacts the maize root endosphere and rhizosphere microbiomes.
- 13.05.2022, _P Wang, LD Lopes, MG Lopez-Guerrero, K van Dijk, S Alvarez, JJ Riethoven, DP Schachtman_
-
-
-Root exudates are important for shaping root-associated microbiomes. However, studies on a wider range of metabolites in exudates are required for a comprehensive understanding about their influence on microbial communities. We identified maize inbred lines that differ in exudate concentrations of DIMBOA and GABA using a semi-hydroponic system. These lines were grown in the field to determine the changes in microbial diversity and gene expression due to varying concentrations of DIMBOA and GABA in exudates using 16S rRNA amplicon sequencing and metatranscriptomics. Results showed individual and interaction effects of DIMBOA and GABA on the rhizosphere and root endosphere β-diversity, most strongly at the V10 growth stage. The main bacterial families affected by both compounds were Ktedonobacteraceae and Xanthomonadaceae. Higher concentrations of DIMBOA in exudates affected the rhizosphere metatranscriptome, enriching for KEGG pathways associated with plant disease. This study validated the use of natural variation within plant species as a powerful approach for understanding the role of root exudates on microbiome selection. We also showed that a semi-hydroponic system can be used to identify maize genotypes that differ in GABA and DIMBOA exudate concentrations under field conditions. The impact of GABA exudation on root-associated microbiomes was shown for the first time.
+## Natural variation in root exudation of GABA and DIMBOA impacts the maize root endosphere and rhizosphere microbiomes
 
 [Source](https://doi.org/10.1093/jxb/erac202)
 
-10.1093/jxb/erac202
-
 ---
 
-## Beyond the snapshot: identification of the timeless, enduring indicator microbiome informing soil fertility and crop production in alkaline soils.
- 16.05.2022, _J Zhang, J Dolfing, W Liu, R Chen, J Zhang, X Lin, Y Feng_
-
-
-Microorganisms are known to be important drivers of biogeochemical cycling in soil and hence could act as a proxy informing on soil conditions in ecosystems. Identifying microbiomes indicative for soil fertility and crop production is important for the development of the next generation of sustainable agriculture. Earlier researches based on one-time sampling have revealed various indicator microbiomes for distinct agroecosystems and agricultural practices as well as their importance in supporting sustainable productivity. However, these microbiomes were based on a mere snapshot of a dynamic microbial community which is subject to significant changes over time. Currently true indicator microbiomes based on long-term, multi-annual monitoring are not available.
+## Beyond the snapshot: identification of the timeless, enduring indicator microbiome informing soil fertility and crop production in alkaline soils
 
 [Source](https://doi.org/10.1186/s40793-022-00420-6)
 
-10.1186/s40793-022-00420-6
-
 ---
 
-## The role of microbiome in carbon sequestration and environment security during wastewater treatment.
- 17.05.2022, _X Zhu, C Lei, J Qi, G Zhen, X Lu, S Xu, J Zhang, H Liu, X Zhang, Z Wu_
-
-
-Wastewater treatment is an essential aspect of the earth's sustainable future. However, different wastewater treatment methods are responsible for carbon discharge into the environment, raising environmental risks. Hence, such wastewater treatment methods are required that can minimize carbon release without compromising the treatment quality. Microbiome-based carbon sequestration is a potential method for achieving this goal. Limited studies have been carried out to investigate how microbes can capture and utilize CO2. This review summarizes the approaches including microbial electrolytic carbon capture, microbial electrosynthesis, microbial fuel cell, microalgae cultivation, and constructed wetlands that employ microbes to capture and utilize CO2. Electroactive Bacteria (EAB) convert carbon dioxide to carbonates and bicarbonates in subsequent steps after organic matter decomposition. Similarly, microbial electrosynthesis (MES) not only helps capture carbon but also produces secondary products (production of polyhydroxyalkanoates by Gram-negative rod Aeromonas hydrophila bacteria) of commercial importance during wastewater treatment. In addition to this, microbial carbon capture cells (MCCs) have been now utilized for energy generation and carbon sequestration at the same time during wastewater treatment. Moreover, microalgae cultivation has also been found to capture CO2 at a rapid pace while releasing O2 as a consequence of photosynthesis. Hence, microbe-based wastewater treatment has quite a potential due to two-fold benefits like carbon sequestration and by-product formation.
+## The role of microbiome in carbon sequestration and environment security during wastewater treatment
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.155793)
-
-10.1016/j.scitotenv.2022.155793
 
 ---
 
