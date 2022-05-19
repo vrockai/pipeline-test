@@ -30,9 +30,15 @@ A CRISPR-based tool reveals intestinal microbiota gene expression through time.
 
 ---
 
-## The Gut Microbiota Metabolite Succinate promotes Adipose Tissue Browning in Crohn’s Disease
+## The Gut Microbiota Metabolite Succinate promotes Adipose Tissue Browning in Crohn's Disease.
+ 13.05.2022, _D Monfort-Ferré, A Caro, M Menacho, M Martí, B Espina, A Boronat-Toscano, C Nuñez-Roa, J Seco, M Bautista, E Espín, A Megía, J Vendrell, S Fernández-Veledo, C Serena_
+
+
+Crohn's disease (CD) is associated with complex microbe-host interactions, involving changes in microbial communities, and gut barrier defects, leading to the translocation of microorganisms to surrounding adipose tissue (AT). We evaluated the presence of beige AT depots in CD and questioned whether succinate and/or bacterial translocation promotes white-to-beige transition in adipocytes.
 
 [Source](https://doi.org/10.1093/ecco-jcc/jjac069)
+
+10.1093/ecco-jcc/jjac069
 
 ---
 
@@ -42,15 +48,34 @@ A CRISPR-based tool reveals intestinal microbiota gene expression through time.
 
 ---
 
+## Loss of NLRP6 expression increases the severity of acute kidney injury.
+ 26.10.2020, _L Valiño-Rivas, L Cuarental, G Nuñez, AB Sanz, A Ortiz, MD Sanchez-Niño_
+
+
+_Acute Kidney Injury, Aged, Animals, Apoptosis, Case-Control Studies, Cells, Cultured, Down-Regulation, Female, Humans, Inflammation, Intracellular Signaling Peptides and Proteins, Kidney, MAP Kinase Signaling System, Male, Mice, Mice, Inbred C57BL, Mice, Knockout, Receptors, Cell Surface, Severity of Illness Index, Transcriptome_
+Nlrp6 is a nucleotide-binding oligomerization domain-like receptor (NLR) that forms atypical inflammasomes. Nlrp6 modulates the gut epithelium interaction with the microbiota. However, the expression and function of Nlrp6 in the kidney, a sterile environment, have not been characterized. We explored the role of Nlrp6 in acute kidney injury (AKI).
+
+[Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2348)
+
+10.1093/ndt/gfz169
+
+---
+
 ## The Gut Microbiota Modulates Gene Expression in the Kidney
 
 [Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2348)
 
 ---
 
-## Rapid evolution and strain turnover in the infant gut microbiome
+## Rapid evolution and strain turnover in the infant gut microbiome.
+ 11.05.2022, _DW Chen, NR Garud_
+
+
+While the ecological dynamics of the infant gut microbiome have been intensely studied, relatively little is known about evolutionary dynamics in the infant gut microbiome. Here we analyze longitudinal fecal metagenomic data from &gt;700 infants and their mothers over the first year of life and find that the evolutionary dynamics in infant gut microbiomes are distinct from that of adults. We find evidence for more than 10-fold increase in the rate of evolution and strain turnover in the infant gut compared to healthy adults, with the mother-infant transition at delivery being a particularly dynamic period in which gene loss dominates. Within a few months after birth, these dynamics stabilize, and gene gains become increasingly frequent as the microbiome matures. We furthermore find that evolutionary changes in infants show signatures of being seeded by a mixture of de novo mutations and transmissions of pre-evolved lineages from the broader family. Several of these evolutionary changes occur in parallel across infants, highlighting candidate genes that may play important roles in the development of the infant gut microbiome. Our results point to a picture of a volatile infant gut microbiome characterized by rapid evolutionary and ecological change in the early days of life.
 
 [Source](https://genome.cshlp.org/content/early/2022/05/11/gr.276306.121.abstract)
+
+10.1101/gr.276306.121
 
 ---
 
@@ -60,21 +85,40 @@ A CRISPR-based tool reveals intestinal microbiota gene expression through time.
 
 ---
 
-## Lung microbiome composition and bronchial epithelial gene expression in patients with COPD versus healthy individuals: a bacterial 16S rRNA gene sequencing and host transcriptomic analysis
+## Lung microbiome composition and bronchial epithelial gene expression in patients with COPD versus healthy individuals: a bacterial 16S rRNA gene sequencing and host transcriptomic analysis.
+ 17.05.2022, _MY Ramsheh, K Haldar, A Esteve-Codina, LF Purser, M Richardson, J Müller-Quernheim, T Greulich, A Nowinski, I Barta, M Stendardo, P Boschetto, D Korzybski, A Prasse, DG Parr, JM Hohlfeld, B Döme, T Welte, S Heath, I Gut, JA Morrissey, L Ziegler-Heitbrock, MR Barer, D Singh, CE Brightling_
+
+
+_Adrenal Cortex Hormones, Bacteria, Genes, rRNA, Humans, Lung, Microbiota, Moraxella, Prevotella, Pulmonary Disease, Chronic Obstructive, RNA, Ribosomal, 16S, Sputum, Transcriptome_
+Chronic obstructive pulmonary disease (COPD) is associated with airway inflammation and bacterial dysbiosis. The relationship between the airway microbiome and bronchial gene expression in COPD is poorly understood. We aimed to identify differences in the airway microbiome from bronchial brushings in patients with COPD and healthy individuals and to investigate whether any distinguishing bacteria are related to bronchial gene expression.
 
 [Source](https://doi.org/10.1016/S2666-5247(21)00035-5)
 
+10.1016/S2666-5247(21)00035-5
+
 ---
 
-## Therapeutic Targeting of the Respiratory Microbiome
+## Therapeutic Targeting of the Respiratory Microbiome.
+ 17.05.2022, _SH Chotirmall, D Bogaert, JD Chalmers, MJ Cox, PM Hansbro, YJ Huang, PL Molyneaux, DN O'Dwyer, AA Pragman, GB Rogers, LN Segal, RP Dickson_
+
+
+The last decade of research has revolutionized our understanding of respiratory microbiology, revealing that the lungs and airways contain diverse and dynamic microbial communities in health and disease. This "respiratory ecosystem"-a densely interconnected environment of microbial and host interactions-represents a tremendous and under-appreciated source of biological and clinical heterogeneity across patients with acute and chronic lung disease. Unlike other major sources of heterogeneity, such as comorbidities and host genetics, the respiratory microbiome is readily modifiable by clinical interventions, and therefore represents an untapped opportunity for therapeutic manipulation. As a potential "treatable trait" in efforts to subphenotype patients and deliver precision medicine, the respiratory microbiome is a promising therapeutic target. In this Pulmonary Perspective, we identify and discuss multiple challenges, both conceptual and practical, that must be overcome before the respiratory microbiome can be effectively modulated as a therapeutic target. Barriers include: 1) the need to identify specific microbiologic and ecologic "targets" for therapeutic modulation; 2) the need for an improved understanding of the efficacy and persistence of response to respiratory microbiome-modulating interventions; 3) the need for clinicians to be able to access, understand and utilize microbiome data for sub-phenotyping patients, and 4) specific concerns in special populations (including children, patients with chronic lung disease, and critically ill patients). By delineating these barriers, we identify opportunities for prospective research to advance our understanding of the respiratory microbiome, its role in human respiratory disease, and its genuine potential as a therapeutic target.
 
 [Source](https://doi.org/10.1164/rccm.202112-2704PP)
 
+10.1164/rccm.202112-2704PP
+
 ---
 
-## Temporal Dynamics of the Nasopharyngeal Microbiome and its Relationship with Childhood Asthma Exacerbation
+## Temporal Dynamics of the Nasopharyngeal Microbiome and its Relationship with Childhood Asthma Exacerbation.
+ 17.05.2022, _J Hou, Y Song, ASY Leung, MF Tang, M Shi, EY Wang, JGS Tsun, RWY Chan, GWK Wong, SK Tsui, TF Leung_
+
+
+Despite distinct nasopharyngeal microbiome (NPM) profiles between asthmatics and healthy subjects, little is known about the NPM dynamics and its relation to childhood asthma exacerbation (AE). We investigated NPM changes by longitudinally collecting 135 flocked nasopharyngeal swabs (FNPSs) from 33 school-age asthmatic children at six time points (2 to 4-week intervals) from September to December 2017 in Hong Kong. Subjects were categorized into AE and stable asthma (AS) groups according to whether they experienced any exacerbation during follow-up. One-off FNPSs from nine nonasthmatic children were included as controls. Microbiota profiles were analyzed using 16S rRNA gene sequencing. All 144 NPMs were classified into six microbiome profile groups (MPGs), each dominated by Moraxella, Corynebacterium 1, Dolosigranulum, Staphylococcus, Streptococcus, or Anoxybacillus. The microbial diversity and compositions of NPM in exacerbation samples were different from both baseline samples and those from healthy controls. Moraxella and Dolosigranulum-dominated NPM exhibited high temporal stability revealed by MPG transition analysis. NPM diversity decreased whereas microbial composition remained similar over time. The relative abundances of Moraxella increased while Corynebacterium 1, Anoxybacillus, and Pseudomonas decreased longitudinally. However, these temporal patterns did not differ between AE and AS groups, suggesting that short-term dynamic patterns were not sufficient to predict AE occurrence. Asthmatic NPM underwent Moraxella expansion during AE and presented a high microbiome resilience (recovery potential) after AE resolution. Microbial pathways involved in methane, ketone bodies, and vitamin B3 metabolisms were enhanced during AE and primarily contributed by Moraxella. IMPORTANCE Evidence on the dynamic changes of NPM in asthmatic patients remains limited. Here, we present that asthmatic NPMs deviating from a healthy status still showed resilience after disturbance. Our data imply from a longitudinal perspective that Moraxella increase is closely related to AE occurrence. The finding of functional dysbiosis (imbalance) during AE offers a plausible explanation for the known association between nasopharyngeal Moraxella expansion and increased AE risk. This work serves as a basis for future long-term prospective studies leveraging multiomics approaches to elucidate the temporal association between NPM and pediatric AE.
 
 [Source](https://doi.org/10.1128/spectrum.00129-22)
+
+10.1128/spectrum.00129-22
 
 ---
 
@@ -90,28 +134,15 @@ A CRISPR-based tool reveals intestinal microbiota gene expression through time.
 
 ---
 
-## Child saliva microbiota and caries: a randomized controlled maternal education trial in rural Uganda.
- 17.05.2022, _GKM Muhoozi, K Li, P Atukunda, AB Skaare, T Willumsen, M Enersen, AC Westerberg, A Morris, AR Vieira, PO Iversen, BA Methé_
-
-
-_Carnobacteriaceae, Child, Dental Caries, Dental Caries Susceptibility, Female, Humans, Microbiota, RNA, Ribosomal, 16S, Saliva, Streptococcus, Uganda_
-Undernutrition is a public health challenge in sub-Saharan countries, including Uganda. In a previous randomized controlled trial (RCT) with a nutrition, hygiene and stimulation education intervention among mothers of 6 months' old children, we found less caries in the intervention group when the children were 36 months of age. We now examined the effects of (i) the intervention on the microbiota, (ii) microbiota on caries, and (iii) the intervention and microbiota on caries. The original RCT comprised 511 mother/child pairs whereas in the current study we had access to data from 344/511 (67%) children aged 36 months. The saliva microbiota was determined using 16S rRNA gene sequencing. Carious lesions (a proxy for dental health) were identified using close-up intra-oral photographs of the upper front teeth. Statistical models were used to determine host-microbiota associations. The intervention had a significant effect on the microbiota, e.g. an increase in Streptococcus abundance and decreases in Alloprevotella and Tannerella. Significant associations between the microbiota and dental caries were identified: Positive associations of Capnocytophaga and Tannerella suggest that these taxa may be deleterious to dental health while negative associations of Granulicatella, Fusobacterium, and Abiotrophia suggest taxa potentially beneficial or benign contributors to dental health. Based on taxonomic profiles, the effects of the intervention and microbiota on dental health may be independent of one another. Educational interventions with emphasis on nutrition and oral hygiene may provide a feasible strategy to decrease progression of childhood caries in low-resource settings.
+## Child saliva microbiota and caries: a randomized controlled maternal education trial in rural Uganda
 
 [Source](https://doi.org/10.1038/s41598-022-11979-y)
 
-10.1038/s41598-022-11979-y
-
 ---
 
-## Gut microbiota: Role and Association with Tumorigenesis in Different Malignancies.
- 11.05.2022, _A Ali, A Ara, MK Kashyap_
-
-
-The microbiota has been associated with different cancer and may vary from patient to patient. A specific microbial strain can alter the progression of cancer and therapeutic outcome in response to anti-cancer therapy. The variations in microbiota contributed due to the individual microbiome of the microorganism are responsible for diverse clinical outcomes. The expansion of microbiota subpopulation during dysbiosis can lead to toxin production, inducing inflammation and cancer. The microbiota can be a dual-edged sword because it can be tumor-suppressive or oncogenic in the case of the gut. The transition of cancer cells from early to late-stage also impacts the composition of the microbiota, and this alteration could change the behavior of cancer. Multi-omics platforms derived data from an individual's multi-dimensional data (DNA, mRNA, microRNA, protein, metabolite, microbiota, and microbiome), i.e., individualome, to exploit it for personalized tailored treatment for different cancers in a precise manner. A number of studies suggest the importance of microbiota and its add-in suitability to existing treatment options for different malignancies. Furthermore, in vitro, and in vivo studies and cancer clinical trials suggest that probiotics have driven modulation of gut microbiota and other sites discourage the aggressive behavior and progression of different cancers.
+## Gut microbiota: Role and Association with Tumorigenesis in Different Malignancies
 
 [Source](https://doi.org/10.1007/s11033-022-07357-6)
-
-10.1007/s11033-022-07357-6
 
 ---
 
@@ -121,66 +152,33 @@ The microbiota has been associated with different cancer and may vary from patie
 
 ---
 
-## L-norvaline affects the proliferation of breast cancer cells based on the microbiome and metabolome analysis.
- 11.05.2022, _Q Zhu, H Zai, K Zhang, X Zhang, N Luo, X Li, Y Hu, Y Wu_
-
-
-The altered fecal metabolites and microbiota might be involved in the development of breast cancer. We aimed to investigate the effect of differential metabolites on the proliferative activity of breast cancer cells.
+## L-norvaline affects the proliferation of breast cancer cells based on the microbiome and metabolome analysis
 
 [Source](https://doi.org/10.1111/jam.15620)
 
-10.1111/jam.15620
-
 ---
 
-## Integrative multiomics analysis reveals host-microbe-metabolite interplays associated with the aging process in Singaporeans.
- 17.05.2022, _L Chen, T Zheng, Y Yang, PP Chaudhary, JPY Teh, BK Cheon, D Moses, SC Schuster, J Schlundt, J Li, PL Conway_
-
-
-_Adult, Aged, Aging, Feces, Gastrointestinal Microbiome, Humans, Male, Metabolome, Metagenomics, Singapore, Young Adult_
-The age-associated alterations in microbiomes vary across populations due to the influence of genetics and lifestyles. To the best of our knowledge, the microbial changes associated with aging have not yet been investigated in Singapore adults. We conducted shotgun metagenomic sequencing of fecal and saliva samples, as well as fecal metabolomics to characterize the gut and oral microbial communities of 62 healthy adult male Singaporeans, including 32 young subjects (age, 23.1 ± 1.4 years) and 30 elderly subjects (age, 69.0 ± 3.5 years). We identified 8 gut and 13 oral species that were differentially abundant in elderly compared to young subjects. By combining the gut and oral microbiomes, 25 age-associated oral-gut species connections were identified. Moreover, oral bacteria Acidaminococcus intestine and Flavonifractor plautii were less prevalent/abundant in elderly gut samples than in young gut samples, whereas Collinsella aerofaciens and Roseburia hominis showed the opposite trends. These results indicate the varied gut-oral communications with aging. Subsequently, we expanded the association studies on microbiome, metabolome and host phenotypic parameters. In particular, Eubacterium eligens increased in elderly compared to young subjects, and was positively correlated with triglycerides, which implies that the potential role of E. eligens in lipid metabolism is altered during the aging process. Our results demonstrated aging-associated changes in the gut and oral microbiomes, as well as the connections between metabolites and host-microbe interactions, thereby deepening the understanding of alterations in the human microbiome during the aging process in a Singapore population.
+## Integrative multiomics analysis reveals host-microbe-metabolite interplays associated with the aging process in Singaporeans
 
 [Source](https://doi.org/10.1080/19490976.2022.2070392)
 
-10.1080/19490976.2022.2070392
-
 ---
 
-## Association of antibiotics exposure within the first 2 years after birth with subsequent childhood type 1 diabetes.
- 13.05.2022, _D Lee, S Choi, J Chang, YJ Park, JH Kim, SM Park_
-
-
-Antibiotics prescription in early life can cause dysbiosis, an imbalance of gut microbiota. We aimed to reveal the relationship between antibiotics exposure during the first 2 years after birth and type 1 diabetes risk in children under 8 years of age using a nationally representative data from South Korea.
+## Association of antibiotics exposure within the first 2 years after birth with subsequent childhood type 1 diabetes
 
 [Source](https://doi.org/10.1007/s12020-022-03042-7)
 
-10.1007/s12020-022-03042-7
-
 ---
 
-## The resistance within: Antibiotic disruption of the gut microbiome and resistome dynamics in infancy.
- 18.05.2022, _R Thänert, SS Sawhney, DJ Schwartz, G Dantas_
-
-
-_Anti-Bacterial Agents, Bacteria, Child, Drug Resistance, Microbial, Gastrointestinal Microbiome, Humans, Infant, Microbiota_
-Intestinal host-microbiota interactions during the first year of life are critical for infant development. Early-life antibiotic exposures disrupt stereotypical gut microbiota maturation and adversely affect childhood health. Furthermore, antibiotics increase the abundance of resistant bacteria and enrich the resistome-the compendium of antibiotic resistance genes-within the gut microbiota. Here, we discuss acute and persistent impacts of antibiotic exposure during infancy on pediatric health, the gut microbiome, and, particularly, the resistome. Reviewing our current understanding of antibiotic resistance acquisition and dissemination within and between microbiomes, we highlight open questions, which are imperative to resolve in the face of rising bacterial resistance.
+## The resistance within: Antibiotic disruption of the gut microbiome and resistome dynamics in infancy
 
 [Source](https://doi.org/10.1016/j.chom.2022.03.013)
 
-10.1016/j.chom.2022.03.013
-
 ---
 
-## The developing infant gut microbiome: A strain-level view.
- 18.05.2022, _H Enav, F Bäckhed, RE Ley_
-
-
-_Gastrointestinal Microbiome, Humans, Infant, Infant, Newborn, Microbiota_
-At birth, neonates provide a vast habitat awaiting microbial colonization. Microbiome assembly is a complex process involving microbial seeding and succession driven by ecological forces and subject to environmental conditions. These successional events not only significantly affect the ecology and function of the microbiome, but also impact host health. While the establishment of the infant microbiome has been a point of interest for decades, an integrated view focusing on strain level colonization has been lacking until recently. Technological and computational advancements enabling strain-level analyses of the infant microbiome have demonstrated the immense complexity of this system and allowed for an improved understanding of how strains of the same species spread, colonize, evolve, and affect the host. Here, we review the current knowledge of the establishment and maturation of the infant gut microbiome with particular emphasis on newer discoveries achieved through strain-centric analyses.
+## The developing infant gut microbiome: A strain-level view
 
 [Source](https://doi.org/10.1016/j.chom.2022.04.009)
-
-10.1016/j.chom.2022.04.009
 
 ---
 
@@ -318,28 +316,15 @@ The gut microbiome of humans and animals is critical to host health. Mice are us
 
 ---
 
-## Variational Approximation-Based Model Selection for Microbial Network Inference.
- 17.05.2022, _S Yooseph, S Tavakoli_
-
-
-Microbial associations are characterized by both direct and indirect interactions between the constituent taxa in a microbial community, and play an important role in determining the structure, organization, and function of the community. Microbial associations can be represented using a weighted graph (microbial network), whose nodes represent taxa and edges represent pairwise associations. A microbial network is typically inferred from a sample-taxa matrix that is obtained by sequencing multiple biological samples and identifying the taxa counts in each sample. However, it is known that microbial associations are impacted by environmental and/or host factors. Thus, a sample-taxa matrix generated in a microbiome study involving a wide range of values for the environmental and/or clinical metadata variables may in fact be associated with more than one microbial network. In this study, we consider the problem of inferring multiple microbial networks from a given sample-taxa count matrix. Each sample is a count vector assumed to be generated by a mixture model consisting of component distributions that are multivariate Poisson log-normal. We present a variational expectation maximization algorithm for the model selection problem to infer the correct number of components of this mixture model. Our approach involves reframing the mixture model as a latent variable model, treating only the mixing coefficients as parameters, and subsequently approximating the marginal likelihood using an evidence lower bound framework. Our algorithm is evaluated on a large simulated dataset generated using a collection of different graph structures (band, hub, cluster, random, and scale-free).
+## Variational Approximation-Based Model Selection for Microbial Network Inference
 
 [Source](https://doi.org/10.1089/cmb.2021.0595)
 
-10.1089/cmb.2021.0595
-
 ---
 
-## Opportunities and challenges of using metagenomic data to bring uncultured microbes into cultivation.
- 17.05.2022, _S Liu, CD Moon, N Zheng, S Huws, S Zhao, J Wang_
-
-
-_Bacteria, Genomics, Metagenome, Metagenomics, Microbiota_
-Although there is now an extensive understanding of the diversity of microbial life on earth through culture-independent metagenomic DNA sequence analyses, the isolation and cultivation of microbes remains critical to directly study them and confirm their metabolic and physiological functions, and their ecological roles. The majority of environmental microbes are as yet uncultured however; therefore, bringing these rare or poorly characterized groups into culture is a priority to further understand microbiome functions. Moreover, cultivated isolates may find utility in a range of applications, such as new probiotics, biocontrol agents, and agents for industrial processes. The growing abundance of metagenomic and meta-transcriptomic sequence information from a wide range of environments provides more opportunities to guide the isolation and cultivation of microbes of interest. In this paper, we discuss a range of successful methodologies and applications that have underpinned recent metagenome-guided isolation and cultivation of microbe efforts. These approaches include determining specific culture conditions to enrich for taxa of interest, to more complex strategies that specifically target the capture of microbial species through antibody engineering and genome editing strategies. With the greater degree of genomic information now available from uncultivated members, such as via metagenome-assembled genomes, the theoretical understanding of their cultivation requirements will enable greater possibilities to capture these and ultimately gain a more comprehensive understanding of the microbiomes. Video Abstract.
+## Opportunities and challenges of using metagenomic data to bring uncultured microbes into cultivation
 
 [Source](https://doi.org/10.1186/s40168-022-01272-5)
-
-10.1186/s40168-022-01272-5
 
 ---
 
