@@ -182,39 +182,77 @@ Despite distinct nasopharyngeal microbiome (NPM) profiles between asthmatics and
 
 ---
 
-## The healthy female microbiome across body sites: effect of hormonal contraceptives and the menstrual cycle
+## The healthy female microbiome across body sites: effect of hormonal contraceptives and the menstrual cycle.
+ 13.05.2022, _MC Krog, LW Hugerth, E Fransson, Z Bashir, A Nyboe Andersen, G Edfeldt, L Engstrand, I Schuppe-Koistinen, HS Nielsen_
+
+
+How does hormonal contraceptive use and menstrual cycle phase affect the female microbiome across different body sites?
 
 [Source](https://doi.org/10.1093/humrep/deac094)
 
+10.1093/humrep/deac094
+
 ---
 
-## Multi-scale study of the oral and gut environments in children with high and low threshold peanut allergy
+## Multi-scale study of the oral and gut environments in children with high and low threshold peanut allergy.
+ 13.05.2022, _L Zhang, Y Chun, HE Ho, Z Arditi, T Lo, S Sajja, R Rose, D Jones, J Wang, S Sicherer, S Bunyavanich_
+
+
+The oral and gut microbiomes have each been associated with food allergy status. Within food allergy, they may also influence reaction thresholds.
 
 [Source](https://doi.org/10.1016/j.jaci.2022.04.026)
 
+10.1016/j.jaci.2022.04.026
+
 ---
 
-## Supplementation with a probiotic mixture accelerates gut microbiome maturation and reduces intestinal inflammation in extremely preterm infants
+## Supplementation with a probiotic mixture accelerates gut microbiome maturation and reduces intestinal inflammation in extremely preterm infants.
+ 18.05.2022, _J Samara, S Moossavi, B Alshaikh, VA Ortega, VK Pettersen, T Ferdous, SL Hoops, A Soraisham, J Vayalumkal, D Dersch-Mills, JS Gerber, S Mukhopadhyay, K Puopolo, TA Tompkins, D Knights, J Walter, H Amin, MC Arrieta_
+
+
+_Bifidobacterium, Ecosystem, Gastrointestinal Microbiome, Humans, Infant, Infant, Extremely Premature, Infant, Newborn, Inflammation, Probiotics_
+Probiotics are increasingly administered to premature infants to prevent necrotizing enterocolitis and neonatal sepsis. However, their effects on gut microbiome assembly and immunity are poorly understood. Using a randomized intervention trial in extremely premature infants, we tested the effects of a probiotic product containing four strains of Bifidobacterium species autochthonous to the infant gut and one Lacticaseibacillus strain on the compositional and functional trajectory of microbiome. Daily administration of the mixture accelerated the transition into a mature, term-like microbiome with higher stability and species interconnectivity. Besides infant age, Bifidobacterium strains and stool metabolites were the best predictors of microbiome maturation, and structural equation modeling confirmed probiotics as a major determinant for the trajectory of microbiome assembly. Bifidobacterium-driven microbiome maturation was also linked to an anti-inflammatory intestinal immune milieu. This demonstrates that Bifidobacterium strains are ecosystem engineers that lead to an acceleration of microbiome maturation and immunological consequences in extremely premature infants.
 
 [Source](https://doi.org/10.1016/j.chom.2022.04.005)
 
+10.1016/j.chom.2022.04.005
+
 ---
 
-## Effective Regulation of Gut Microbiota With Probiotics and Prebiotics May Prevent or Alleviate COVID-19 Through the Gut-Lung Axis
+## Effective Regulation of Gut Microbiota With Probiotics and Prebiotics May Prevent or Alleviate COVID-19 Through the Gut-Lung Axis.
+ 16.05.2022, _L Xu, CS Yang, Y Liu, X Zhang_
+
+
+Coronavirus disease 2019 (COVID-19) can disrupt the gut microbiota balance, and patients usually have intestinal disorders. The intestine is the largest immune organ of the human body, and gut microbes can affect the immune function of the lungs through the gut-lung axis. Many lines of evidence support the role of beneficial bacteria in enhancing human immunity, preventing pathogen colonization, and thereby reducing the incidence and severity of infection. In this article, we review the possible approach of modulating microbiota to help prevent and treat respiratory tract infections, including COVID-19, and discuss the possibility of using probiotics and prebiotics for this purpose. We also discuss the mechanism by which intestinal micro-flora regulate immunity and the effects of probiotics on the intestinal micro-ecological balance. Based on this understanding, we propose the use of probiotics and prebiotics to modulate gut microbiota for the prevention or alleviation of COVID-19 through the gut-lung axis.
 
 [Source](https://doi.org/10.3389/fphar.2022.895193)
+
+10.3389/fphar.2022.895193
 
 ---
 
 ## A Reciprocal Link Between Gut Microbiota, Inflammation and Depression: A Place for Probiotics?
+ 16.05.2022, _A Eltokhi, IE Sommer_
+
+
+Depression is a severe mental disorder that places a significant economic burden on public health. The reciprocal link between the trillions of bacteria in the gut, the microbiota, and depression is a controversial topic in neuroscience research and has drawn the attention of public interest and press coverage in recent years. Mounting pieces of evidence shed light on the role of the gut microbiota in depression, which is suggested to involve immune, endocrine, and neural pathways that are the main components of the microbiota-gut-brain axis. The gut microbiota play major roles in brain development and physiology and ultimately behavior. The bidirectional communication between the gut microbiota and brain function has been extensively explored in animal models of depression and clinical research in humans. Certain gut microbiota strains have been associated with the pathophysiology of depression. Therefore, oral intake of probiotics, the beneficial living bacteria and yeast, may represent a therapeutic approach for depression treatment. In this review, we summarize the findings describing the possible links between the gut microbiota and depression, focusing mainly on the inflammatory markers and sex hormones. By discussing preclinical and clinical studies on probiotics as a supplementary therapy for depression, we suggest that probiotics may be beneficial in alleviating depressive symptoms, possibly through immune modulation. Still, further comprehensive studies are required to draw a more solid conclusion regarding the efficacy of probiotics and their mechanisms of action.
 
 [Source](https://doi.org/10.3389/fnins.2022.852506)
 
+10.3389/fnins.2022.852506
+
 ---
 
-## Reduced housing density improves statistical power of murine gut microbiota studies
+## Reduced housing density improves statistical power of murine gut microbiota studies.
+ 17.05.2022, _A Russell, JN Copio, Y Shi, S Kang, CL Franklin, AC Ericsson_
+
+
+_Animals, Anti-Bacterial Agents, Bacteria, Feces, Gastrointestinal Microbiome, Housing, Mice, Mice, Inbred C57BL_
+The gut microbiome of humans and animals is critical to host health. Mice are used to investigate the microbiome and its influences; however, the predictive value of such studies is hindered by cage effects due to coprophagy. Our objectives were to evaluate the influence of cage density on the statistical power to detect treatment-dependent effects of a selective pressure on microbiome composition. C57BL/6 mice were separated into groups of 2 or 4 mice per cage and then assigned to groups receiving enrofloxacin, broad-spectrum antibiotics, or control. Fecal samples were collected at weeks 0, 1, and 4, along with contents of the jejunum and cecum. Bacterial DNA analysis examined microbiome richness, diversity, and variability within and between cages. Statistical analyses reveal that reduced housing density consistently results in comparable susceptibility to antibiotics, reduced cage effects, and increased statistical power to detect treatment-associated effects, justifying the practice of reduced housing density.
 
 [Source](https://doi.org/10.1016/j.celrep.2022.110783)
+
+10.1016/j.celrep.2022.110783
 
 ---
 
