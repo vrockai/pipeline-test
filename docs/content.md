@@ -1,330 +1,241 @@
-## Noninvasive assessment of gut function using transcriptional recording sentinel cells.
- 18.05.2022, _F Schmidt, J Zimmermann, T Tanna, R Farouni, T Conway, AJ Macpherson, RJ Platt_
+## Opportunities and challenges of using metagenomic data to bring uncultured microbes into cultivation.
+ 17.05.2022, _S Liu, CD Moon, N Zheng, S Huws, S Zhao, J Wang_
 
 
-_Bacteria, Clustered Regularly Interspaced Short Palindromic Repeats, Escherichia coli, Gastrointestinal Microbiome, Gastrointestinal Tract, Transcriptome_
-Transcriptional recording by CRISPR spacer acquisition from RNA endows engineered Escherichia coli with synthetic memory, which through Record-seq reveals transcriptome-scale records. Microbial sentinels that traverse the gastrointestinal tract capture a wide range of genes and pathways that describe interactions with the host, including quantitative shifts in the molecular environment that result from alterations in the host diet, induced inflammation, and microbiome complexity. We demonstrate multiplexed recording using barcoded CRISPR arrays, enabling the reconstruction of transcriptional histories of isogenic bacterial strains in vivo. Record-seq therefore provides a scalable, noninvasive platform for interrogating intestinal and microbial physiology throughout the length of the intestine without manipulations to host physiology and can determine how single microbial genetic differences alter the way in which the microbe adapts to the host intestinal environment.
+_Bacteria, Genomics, Metagenome, Metagenomics, Microbiota_
+Although there is now an extensive understanding of the diversity of microbial life on earth through culture-independent metagenomic DNA sequence analyses, the isolation and cultivation of microbes remains critical to directly study them and confirm their metabolic and physiological functions, and their ecological roles. The majority of environmental microbes are as yet uncultured however; therefore, bringing these rare or poorly characterized groups into culture is a priority to further understand microbiome functions. Moreover, cultivated isolates may find utility in a range of applications, such as new probiotics, biocontrol agents, and agents for industrial processes. The growing abundance of metagenomic and meta-transcriptomic sequence information from a wide range of environments provides more opportunities to guide the isolation and cultivation of microbes of interest. In this paper, we discuss a range of successful methodologies and applications that have underpinned recent metagenome-guided isolation and cultivation of microbe efforts. These approaches include determining specific culture conditions to enrich for taxa of interest, to more complex strategies that specifically target the capture of microbial species through antibody engineering and genome editing strategies. With the greater degree of genomic information now available from uncultivated members, such as via metagenome-assembled genomes, the theoretical understanding of their cultivation requirements will enable greater possibilities to capture these and ultimately gain a more comprehensive understanding of the microbiomes. Video Abstract.
 
-[Source](https://doi.org/10.1126/science.abm6038)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01272-5)
 
-10.1126/science.abm6038
-
----
-
-## Recording bacterial responses to changes in the gut environment.
- 18.05.2022, _L Zahavi, E Segal_
-
-
-_Bacteria, Gastrointestinal Microbiome_
-A CRISPR-based tool reveals intestinal microbiota gene expression through time.
-
-[Source](https://doi.org/10.1126/science.abq1455)
-
-10.1126/science.abq1455
+10.1186/s40168-022-01272-5
 
 ---
 
-## Contribution of the Microbiome to Western Diet-Induced Gene Expression Changes in the Intestine and Vasculature
-
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.L7713)
-
----
-
-## The Gut Microbiota Metabolite Succinate promotes Adipose Tissue Browning in Crohn's Disease.
- 13.05.2022, _D Monfort-Ferré, A Caro, M Menacho, M Martí, B Espina, A Boronat-Toscano, C Nuñez-Roa, J Seco, M Bautista, E Espín, A Megía, J Vendrell, S Fernández-Veledo, C Serena_
+## Deep learning of a bacterial and archaeal universal language of life enables transfer learning and illuminates microbial dark matter.
+ 17.05.2022, _A Hoarfrost, A Aptekmann, G Farfañuk, Y Bromberg_
 
 
-Crohn's disease (CD) is associated with complex microbe-host interactions, involving changes in microbial communities, and gut barrier defects, leading to the translocation of microorganisms to surrounding adipose tissue (AT). We evaluated the presence of beige AT depots in CD and questioned whether succinate and/or bacterial translocation promotes white-to-beige transition in adipocytes.
+_Archaea, Bacteria, Deep Learning, Genome, Archaeal, Genome, Bacterial, Proteins, Sequence Analysis_
+The majority of microbial genomes have yet to be cultured, and most proteins identified in microbial genomes or environmental sequences cannot be functionally annotated. As a result, current computational approaches to describe microbial systems rely on incomplete reference databases that cannot adequately capture the functional diversity of the microbial tree of life, limiting our ability to model high-level features of biological sequences. Here we present LookingGlass, a deep learning model encoding contextually-aware, functionally and evolutionarily relevant representations of short DNA reads, that distinguishes reads of disparate function, homology, and environmental origin. We demonstrate the ability of LookingGlass to be fine-tuned via transfer learning to perform a range of diverse tasks: to identify novel oxidoreductases, to predict enzyme optimal temperature, and to recognize the reading frames of DNA sequence fragments. LookingGlass enables functionally relevant representations of otherwise unknown and unannotated sequences, shedding light on the microbial dark matter that dominates life on Earth.
 
-[Source](https://doi.org/10.1093/ecco-jcc/jjac069)
+[Source](https://www.nature.com/articles/s41467-022-30070-8)
 
-10.1093/ecco-jcc/jjac069
+10.1038/s41467-022-30070-8
 
 ---
 
-## Changes in Gut Microbiome Composition with Healthy Aging in Humans: Links to Vascular Endothelial Function
-
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2759)
-
----
-
-## Loss of NLRP6 expression increases the severity of acute kidney injury.
- 26.10.2020, _L Valiño-Rivas, L Cuarental, G Nuñez, AB Sanz, A Ortiz, MD Sanchez-Niño_
+## Sex differences in global metabolomic profiles of COVID-19 patients.
+ 19.05.2022, _RD Escarcega, P Honarpisheh, GD Colpo, HW Ahnstedt, L Couture, S Juneja, G Torres, GJ Ortiz, J Sollome, N Tabor, BP Ganesh, HA Choi, F Liu, LD McCullough, AS Tsvetkov_
 
 
-_Acute Kidney Injury, Aged, Animals, Apoptosis, Case-Control Studies, Cells, Cultured, Down-Regulation, Female, Humans, Inflammation, Intracellular Signaling Peptides and Proteins, Kidney, MAP Kinase Signaling System, Male, Mice, Mice, Inbred C57BL, Mice, Knockout, Receptors, Cell Surface, Severity of Illness Index, Transcriptome_
-Nlrp6 is a nucleotide-binding oligomerization domain-like receptor (NLR) that forms atypical inflammasomes. Nlrp6 modulates the gut epithelium interaction with the microbiota. However, the expression and function of Nlrp6 in the kidney, a sterile environment, have not been characterized. We explored the role of Nlrp6 in acute kidney injury (AKI).
+_Biomarkers, COVID-19, Female, Humans, Male, Metabolomics, SARS-CoV-2, Sex Characteristics_
+Coronavirus disease (COVID-19), caused by SARS-CoV-2, leads to symptoms ranging from asymptomatic disease to death. Although males are more susceptible to severe symptoms and higher mortality due to COVID-19, patient sex has rarely been examined. Sex-associated metabolic changes may implicate novel biomarkers and therapeutic targets to treat COVID-19. Here, using serum samples, we performed global metabolomic analyses of uninfected and SARS-CoV-2-positive male and female patients with severe COVID-19. Key metabolic pathways that demonstrated robust sex differences in COVID-19 groups, but not in controls, involved lipid metabolism, pentose pathway, bile acid metabolism, and microbiome-related metabolism of aromatic amino acids, including tryptophan and tyrosine. Unsupervised statistical analysis showed a profound sexual dimorphism in correlations between patient-specific clinical parameters and their global metabolic profiles. Identification of sex-specific metabolic changes in severe COVID-19 patients is an important knowledge source for researchers striving for development of potential sex-associated biomarkers and druggable targets for COVID-19 patients.
 
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2348)
+[Source](https://www.nature.com/articles/s41419-022-04861-2)
 
-10.1093/ndt/gfz169
+10.1038/s41419-022-04861-2
 
 ---
 
-## The Gut Microbiota Modulates Gene Expression in the Kidney
-
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.R2348)
-
----
-
-## Rapid evolution and strain turnover in the infant gut microbiome.
- 11.05.2022, _DW Chen, NR Garud_
+## Does the uterine microbiota affect the reproductive outcomes in women with recurrent implantation failures?
+ 19.05.2022, _LK Keburiya, VY Smolnikova, TV Priputnevich, VV Muravieva, AB Gordeev, DY Trofimov, ES Shubina, TO Kochetkova, MS Rogacheva, EA Kalinina, GT Sukhikh_
 
 
-While the ecological dynamics of the infant gut microbiome have been intensely studied, relatively little is known about evolutionary dynamics in the infant gut microbiome. Here we analyze longitudinal fecal metagenomic data from &gt;700 infants and their mothers over the first year of life and find that the evolutionary dynamics in infant gut microbiomes are distinct from that of adults. We find evidence for more than 10-fold increase in the rate of evolution and strain turnover in the infant gut compared to healthy adults, with the mother-infant transition at delivery being a particularly dynamic period in which gene loss dominates. Within a few months after birth, these dynamics stabilize, and gene gains become increasingly frequent as the microbiome matures. We furthermore find that evolutionary changes in infants show signatures of being seeded by a mixture of de novo mutations and transmissions of pre-evolved lineages from the broader family. Several of these evolutionary changes occur in parallel across infants, highlighting candidate genes that may play important roles in the development of the infant gut microbiome. Our results point to a picture of a volatile infant gut microbiome characterized by rapid evolutionary and ecological change in the early days of life.
+_Embryo Implantation, Embryo Transfer, Female, Fertilization in Vitro, Humans, Microbiota, Pregnancy, Pregnancy Rate_
+Inefficiency of in vitro fertilization (IVF) programs can be caused by implantation failures. The uterine microbiota can influence the implantation process. However, it still remains unclear whether opportunistic microorganisms detected in the endometrium have a negative impact on the implantation success. The aim of our study was to evaluate the influence of the uterine microbiota on the embryo implantation success in patients undergoing assisted reproductive technologies.
 
-[Source](https://genome.cshlp.org/content/early/2022/05/11/gr.276306.121.abstract)
+[Source](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01750-w)
 
-10.1101/gr.276306.121
+10.1186/s12905-022-01750-w
 
 ---
 
-## The role of short-chain fatty acids in <em>Clostridioides difficile</em> infection: A review
-
-[Source](https://doi.org/10.1016/j.anaerobe.2022.102585)
-
----
-
-## Lung microbiome composition and bronchial epithelial gene expression in patients with COPD versus healthy individuals: a bacterial 16S rRNA gene sequencing and host transcriptomic analysis.
- 17.05.2022, _MY Ramsheh, K Haldar, A Esteve-Codina, LF Purser, M Richardson, J Müller-Quernheim, T Greulich, A Nowinski, I Barta, M Stendardo, P Boschetto, D Korzybski, A Prasse, DG Parr, JM Hohlfeld, B Döme, T Welte, S Heath, I Gut, JA Morrissey, L Ziegler-Heitbrock, MR Barer, D Singh, CE Brightling_
+## Impact of antibiotics on off-target infant gut microbiota and resistance genes in cohort studies.
+ 14.05.2022, _RM Lebeaux, JC Madan, QP Nguyen, MO Coker, EF Dade, Y Moroishi, TJ Palys, BD Ross, MM Pettigrew, HG Morrison, MR Karagas, AG Hoen_
 
 
-_Adrenal Cortex Hormones, Bacteria, Genes, rRNA, Humans, Lung, Microbiota, Moraxella, Prevotella, Pulmonary Disease, Chronic Obstructive, RNA, Ribosomal, 16S, Sputum, Transcriptome_
-Chronic obstructive pulmonary disease (COPD) is associated with airway inflammation and bacterial dysbiosis. The relationship between the airway microbiome and bronchial gene expression in COPD is poorly understood. We aimed to identify differences in the airway microbiome from bronchial brushings in patients with COPD and healthy individuals and to investigate whether any distinguishing bacteria are related to bronchial gene expression.
+Young children are frequently exposed to antibiotics, with the potential for collateral consequences to the gut microbiome. The impact of antibiotic exposures to off-target microbes (i.e., bacteria not targeted by treatment) and antibiotic resistance genes (ARGs) is poorly understood.
 
-[Source](https://doi.org/10.1016/S2666-5247(21)00035-5)
+[Source](https://www.nature.com/articles/s41390-022-02104-w)
 
-10.1016/S2666-5247(21)00035-5
+10.1038/s41390-022-02104-w
 
 ---
 
-## Therapeutic Targeting of the Respiratory Microbiome.
- 17.05.2022, _SH Chotirmall, D Bogaert, JD Chalmers, MJ Cox, PM Hansbro, YJ Huang, PL Molyneaux, DN O'Dwyer, AA Pragman, GB Rogers, LN Segal, RP Dickson_
+## Should we modulate the neonatal microbiome and what should be the goal?
+ 14.05.2022, _N van Best, MG Dominguez-Bello, MW Hornef, E Jašarević, K Korpela, TD Lawley_
 
 
-The last decade of research has revolutionized our understanding of respiratory microbiology, revealing that the lungs and airways contain diverse and dynamic microbial communities in health and disease. This "respiratory ecosystem"-a densely interconnected environment of microbial and host interactions-represents a tremendous and under-appreciated source of biological and clinical heterogeneity across patients with acute and chronic lung disease. Unlike other major sources of heterogeneity, such as comorbidities and host genetics, the respiratory microbiome is readily modifiable by clinical interventions, and therefore represents an untapped opportunity for therapeutic manipulation. As a potential "treatable trait" in efforts to subphenotype patients and deliver precision medicine, the respiratory microbiome is a promising therapeutic target. In this Pulmonary Perspective, we identify and discuss multiple challenges, both conceptual and practical, that must be overcome before the respiratory microbiome can be effectively modulated as a therapeutic target. Barriers include: 1) the need to identify specific microbiologic and ecologic "targets" for therapeutic modulation; 2) the need for an improved understanding of the efficacy and persistence of response to respiratory microbiome-modulating interventions; 3) the need for clinicians to be able to access, understand and utilize microbiome data for sub-phenotyping patients, and 4) specific concerns in special populations (including children, patients with chronic lung disease, and critically ill patients). By delineating these barriers, we identify opportunities for prospective research to advance our understanding of the respiratory microbiome, its role in human respiratory disease, and its genuine potential as a therapeutic target.
+_Gastrointestinal Microbiome, Goals, Microbiota_
 
-[Source](https://doi.org/10.1164/rccm.202112-2704PP)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01281-4)
 
-10.1164/rccm.202112-2704PP
-
----
-
-## Temporal Dynamics of the Nasopharyngeal Microbiome and its Relationship with Childhood Asthma Exacerbation.
- 17.05.2022, _J Hou, Y Song, ASY Leung, MF Tang, M Shi, EY Wang, JGS Tsun, RWY Chan, GWK Wong, SK Tsui, TF Leung_
-
-
-Despite distinct nasopharyngeal microbiome (NPM) profiles between asthmatics and healthy subjects, little is known about the NPM dynamics and its relation to childhood asthma exacerbation (AE). We investigated NPM changes by longitudinally collecting 135 flocked nasopharyngeal swabs (FNPSs) from 33 school-age asthmatic children at six time points (2 to 4-week intervals) from September to December 2017 in Hong Kong. Subjects were categorized into AE and stable asthma (AS) groups according to whether they experienced any exacerbation during follow-up. One-off FNPSs from nine nonasthmatic children were included as controls. Microbiota profiles were analyzed using 16S rRNA gene sequencing. All 144 NPMs were classified into six microbiome profile groups (MPGs), each dominated by Moraxella, Corynebacterium 1, Dolosigranulum, Staphylococcus, Streptococcus, or Anoxybacillus. The microbial diversity and compositions of NPM in exacerbation samples were different from both baseline samples and those from healthy controls. Moraxella and Dolosigranulum-dominated NPM exhibited high temporal stability revealed by MPG transition analysis. NPM diversity decreased whereas microbial composition remained similar over time. The relative abundances of Moraxella increased while Corynebacterium 1, Anoxybacillus, and Pseudomonas decreased longitudinally. However, these temporal patterns did not differ between AE and AS groups, suggesting that short-term dynamic patterns were not sufficient to predict AE occurrence. Asthmatic NPM underwent Moraxella expansion during AE and presented a high microbiome resilience (recovery potential) after AE resolution. Microbial pathways involved in methane, ketone bodies, and vitamin B3 metabolisms were enhanced during AE and primarily contributed by Moraxella. IMPORTANCE Evidence on the dynamic changes of NPM in asthmatic patients remains limited. Here, we present that asthmatic NPMs deviating from a healthy status still showed resilience after disturbance. Our data imply from a longitudinal perspective that Moraxella increase is closely related to AE occurrence. The finding of functional dysbiosis (imbalance) during AE offers a plausible explanation for the known association between nasopharyngeal Moraxella expansion and increased AE risk. This work serves as a basis for future long-term prospective studies leveraging multiomics approaches to elucidate the temporal association between NPM and pediatric AE.
-
-[Source](https://doi.org/10.1128/spectrum.00129-22)
-
-10.1128/spectrum.00129-22
+10.1186/s40168-022-01281-4
 
 ---
 
-## Role of Oral Microbiota Biofilms in Recurrent Tonsillitis and Sleep-Disordered Breathing in Children
+## The respiratory microbiome associated with chronic obstructive pulmonary disease comorbidity in non-small cell lung cancer.
+ 17.05.2022, _M Shimizu, A Miyanaga, M Seike, K Matsuda, M Matsumoto, R Noro, K Fujita, Y Mano, N Furuya, K Kubota, A Gemma_
 
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.R4279)
 
----
+Research has shown that some microbiomes are linked to cancer. Hence, we hypothesize that alterations in the respiratory microbiome might be associated with lung cancer.
 
-## Oral Microbiota of Amazonian Kichwa Infants From Equador During the First Six Months of Life
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/1759-7714.14463)
 
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.0R855)
-
----
-
-## Child saliva microbiota and caries: a randomized controlled maternal education trial in rural Uganda
-
-[Source](https://doi.org/10.1038/s41598-022-11979-y)
+10.1111/1759-7714.14463
 
 ---
 
-## Gut microbiota: Role and Association with Tumorigenesis in Different Malignancies
+## SKIOME Project: a curated collection of skin microbiome datasets enriched with study-related metadata.
+ 19.05.2022, _G Agostinetto, D Bozzi, D Porro, M Casiraghi, M Labra, A Bruno_
 
-[Source](https://doi.org/10.1007/s11033-022-07357-6)
 
----
+_Databases, Factual, Humans, Information Storage and Retrieval, Metadata, Microbiota, RNA, Ribosomal, 16S_
+Large amounts of data from microbiome-related studies have been (and are currently being) deposited on international public databases. These datasets represent a valuable resource for the microbiome research community and could serve future researchers interested in integrating multiple datasets into powerful meta-analyses. However, this huge amount of data lacks harmonization and it is far from being completely exploited in its full potential to build a foundation that places microbiome research at the nexus of many subdisciplines within and beyond biology. Thus, it urges the need for data accessibility and reusability, according to findable, accessible, interoperable and reusable (FAIR) principles, as supported by National Microbiome Data Collaborative and FAIR Microbiome. To tackle the challenge of accelerating discovery and advances in skin microbiome research, we collected, integrated and organized existing microbiome data resources from human skin 16S rRNA amplicon-sequencing experiments. We generated a comprehensive collection of datasets, enriched in metadata, and organized this information into data frames ready to be integrated into microbiome research projects and advanced post-processing analyses, such as data science applications (e.g. machine learning). Furthermore, we have created a data retrieval and curation framework built on three different stages to maximize the retrieval of datasets and metadata associated with them. Lastly, we highlighted some caveats regarding metadata retrieval and suggested ways to improve future metadata submissions. Overall, our work resulted in a curated skin microbiome datasets collection accompanied by a state-of-the-art analysis of the last 10 years of the skin microbiome field. Database URL: https://github.com/giuliaago/SKIOMEMetadataRetrieval.
 
-## <em>Fusobacterium nucleatum</em> as a Marker for Epithelial to Mesenchymal Transition in Colorectal Cancer
+[Source](https://academic.oup.com/database/article/doi/10.1093/database/baac033/6586378)
 
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.L7993)
-
----
-
-## L-norvaline affects the proliferation of breast cancer cells based on the microbiome and metabolome analysis
-
-[Source](https://doi.org/10.1111/jam.15620)
+10.1093/database/baac033
 
 ---
 
-## Integrative multiomics analysis reveals host-microbe-metabolite interplays associated with the aging process in Singaporeans
+## Dynamic microbiome and metabolome analyses reveal the interaction between gut microbiota and anti-PD-1 based immunotherapy in hepatocellular carcinoma.
+ 17.05.2022, _H Wu, X Zheng, T Pan, X Yang, X Chen, B Zhang, L Peng, C Xie_
 
-[Source](https://doi.org/10.1080/19490976.2022.2070392)
 
----
+Hepatocellular carcinoma (HCC) is a severe disease with high mortality and global incidence. However, the interaction between the gut microbiome and combined immunotherapy for HCC is yet unclear. In this prospective clinical study, patients with unresectable HCC who had not received systemic treatment previously were recruited. Fecal and serum samples were collected at the baseline point and before each subsequent administration as specified. Between October 20, 2019 and February 2, 2021, 61 patients were screened for eligibility, of whom 35 patients were finally included in this study. Alpha diversity of fecal samples from patients who responded to immunotherapy was higher than that of non-responders at baseline. However, the prominent alpha-diversity between responders and non-responders became similar as early as week 6 after treatment. The beta diversity of inter-group did not show significant difference at the 9th week after treatment. Alpha-D-Glucose was the only serum metabolite that differed between the responders and non-responders after 3 months. Responder-enriched Ruminococcus showed a positive correlation with serum galactaric acid, while Klebsiella was positively associated with 3-methylindole and lenticin (all P&lt;0.01). The machine learning classifier based on serum metabolites were more able to discriminate HCC patients who potentially benefited from immunotherapy at baseline (AUC 0.793, 95% CI: 0.632-0.954) than the classifier of gut microbiome. In conclusion, gut microbiome biomarkers are associated with the response to anti-PD-1 based immunotherapy in HCC patients. Classifiers based on gut microbiota and serum metabolites are feasible. This article is protected by copyright. All rights reserved.
 
-## Association of antibiotics exposure within the first 2 years after birth with subsequent childhood type 1 diabetes
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/ijc.34118)
 
-[Source](https://doi.org/10.1007/s12020-022-03042-7)
-
----
-
-## The resistance within: Antibiotic disruption of the gut microbiome and resistome dynamics in infancy
-
-[Source](https://doi.org/10.1016/j.chom.2022.03.013)
+10.1002/ijc.34118
 
 ---
 
-## The developing infant gut microbiome: A strain-level view
-
-[Source](https://doi.org/10.1016/j.chom.2022.04.009)
-
----
-
-## The healthy female microbiome across body sites: effect of hormonal contraceptives and the menstrual cycle.
- 13.05.2022, _MC Krog, LW Hugerth, E Fransson, Z Bashir, A Nyboe Andersen, G Edfeldt, L Engstrand, I Schuppe-Koistinen, HS Nielsen_
+## Exploring the multifactorial aspects of Gut Microbiome in Parkinson's Disease.
+ 18.05.2022, _S Pavan, AN Prabhu, S Prasad Gorthi, B Das, A Mutreja, V Shetty, T Ramamurthy, M Ballal_
 
 
-How does hormonal contraceptive use and menstrual cycle phase affect the female microbiome across different body sites?
+Advanced research in health science has broadened our view in approaching and understanding the pathophysiology of diseases and has also revolutionised diagnosis and treatment. Ever since the establishment of Braak's hypothesis in the propagation of alpha-synuclein from the distant olfactory and enteric nervous system towards the brain in Parkinson's Disease (PD), studies have explored and revealed the involvement of altered gut microbiota in PD. This review recapitulates the gut microbiome associated with PD severity, duration, motor and non-motor symptoms, and antiparkinsonian treatment from recent literature. Gut microbial signatures in PD are potential predictors of the disease and are speculated to be used in early diagnosis and treatment. In brief, the review also emphasises on implications of the prebiotic, probiotic, faecal microbiota transplantation, and dietary interventions as alternative treatments in modulating the disease symptoms in PD.
 
-[Source](https://doi.org/10.1093/humrep/deac094)
+[Source](https://link.springer.com/article/10.1007/s12223-022-00977-2)
 
-10.1093/humrep/deac094
+10.1007/s12223-022-00977-2
 
 ---
 
-## Multi-scale study of the oral and gut environments in children with high and low threshold peanut allergy.
- 13.05.2022, _L Zhang, Y Chun, HE Ho, Z Arditi, T Lo, S Sajja, R Rose, D Jones, J Wang, S Sicherer, S Bunyavanich_
+## Gut microbiota of homing pigeons shows summer-winter variation under constant diet indicating a substantial effect of temperature
 
-
-The oral and gut microbiomes have each been associated with food allergy status. Within food allergy, they may also influence reaction thresholds.
-
-[Source](https://doi.org/10.1016/j.jaci.2022.04.026)
-
-10.1016/j.jaci.2022.04.026
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.18.492417v1.abstract)
 
 ---
 
-## Supplementation with a probiotic mixture accelerates gut microbiome maturation and reduces intestinal inflammation in extremely preterm infants.
- 18.05.2022, _J Samara, S Moossavi, B Alshaikh, VA Ortega, VK Pettersen, T Ferdous, SL Hoops, A Soraisham, J Vayalumkal, D Dersch-Mills, JS Gerber, S Mukhopadhyay, K Puopolo, TA Tompkins, D Knights, J Walter, H Amin, MC Arrieta_
+## Bumblebees with the socially transmitted microbiome: A novel model organism for gut microbiota research.
+ 14.05.2022, _ZJ Zhang, H Zheng_
 
 
-_Bifidobacterium, Ecosystem, Gastrointestinal Microbiome, Humans, Infant, Infant, Extremely Premature, Infant, Newborn, Inflammation, Probiotics_
-Probiotics are increasingly administered to premature infants to prevent necrotizing enterocolitis and neonatal sepsis. However, their effects on gut microbiome assembly and immunity are poorly understood. Using a randomized intervention trial in extremely premature infants, we tested the effects of a probiotic product containing four strains of Bifidobacterium species autochthonous to the infant gut and one Lacticaseibacillus strain on the compositional and functional trajectory of microbiome. Daily administration of the mixture accelerated the transition into a mature, term-like microbiome with higher stability and species interconnectivity. Besides infant age, Bifidobacterium strains and stool metabolites were the best predictors of microbiome maturation, and structural equation modeling confirmed probiotics as a major determinant for the trajectory of microbiome assembly. Bifidobacterium-driven microbiome maturation was also linked to an anti-inflammatory intestinal immune milieu. This demonstrates that Bifidobacterium strains are ecosystem engineers that lead to an acceleration of microbiome maturation and immunological consequences in extremely premature infants.
+Eusocial bumble and honey bees are important pollinators for global ecology and the agricultural economy. Although both the bumble and honey bees possess similar and host-restricted gut microbiota, they differ in aspects of morphology, autonomy, physiology, behavior, and life cycle. The social bee gut bacteria exhibit host specificity that is likely a result of long-term co-evolution. The unique life cycle of bumblebees is key for the acquisition and development of their gut microbiota, and affects the strain-level diversity of the core bacterial species. Studies on bumblebee gut bacteria show that they retain less functional capacity for carbohydrate metabolism compared with that of the honeybee. We discuss the potential roles of the bumblebee gut microbiota against pathogenic threats and the application of host-specific probiotics for bumblebees. Given the advantages of the bumblebee microbiome, including the simple structure and host specificity, and the ease of manipulating bumblebee colonies, we propose that bumblebees may provide a valuable system for understanding the general principles of host-microbe interactions, gut-brain axis, and vertical transmission.
 
-[Source](https://doi.org/10.1016/j.chom.2022.04.005)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/1744-7917.13040)
 
-10.1016/j.chom.2022.04.005
-
----
-
-## Effective Regulation of Gut Microbiota With Probiotics and Prebiotics May Prevent or Alleviate COVID-19 Through the Gut-Lung Axis.
- 16.05.2022, _L Xu, CS Yang, Y Liu, X Zhang_
-
-
-Coronavirus disease 2019 (COVID-19) can disrupt the gut microbiota balance, and patients usually have intestinal disorders. The intestine is the largest immune organ of the human body, and gut microbes can affect the immune function of the lungs through the gut-lung axis. Many lines of evidence support the role of beneficial bacteria in enhancing human immunity, preventing pathogen colonization, and thereby reducing the incidence and severity of infection. In this article, we review the possible approach of modulating microbiota to help prevent and treat respiratory tract infections, including COVID-19, and discuss the possibility of using probiotics and prebiotics for this purpose. We also discuss the mechanism by which intestinal micro-flora regulate immunity and the effects of probiotics on the intestinal micro-ecological balance. Based on this understanding, we propose the use of probiotics and prebiotics to modulate gut microbiota for the prevention or alleviation of COVID-19 through the gut-lung axis.
-
-[Source](https://doi.org/10.3389/fphar.2022.895193)
-
-10.3389/fphar.2022.895193
+10.1111/1744-7917.13040
 
 ---
 
-## A Reciprocal Link Between Gut Microbiota, Inflammation and Depression: A Place for Probiotics?
- 16.05.2022, _A Eltokhi, IE Sommer_
+## Adaptation of gut microbiome and host metabolic systems to lignocellulosic degradation in bamboo rats.
+ 19.05.2022, _K Xiao, X Liang, H Lu, X Li, Z Zhang, X Lu, H Wang, Y Meng, A Roy, W Luo, X Shen, DM Irwin, Y Shen_
 
 
-Depression is a severe mental disorder that places a significant economic burden on public health. The reciprocal link between the trillions of bacteria in the gut, the microbiota, and depression is a controversial topic in neuroscience research and has drawn the attention of public interest and press coverage in recent years. Mounting pieces of evidence shed light on the role of the gut microbiota in depression, which is suggested to involve immune, endocrine, and neural pathways that are the main components of the microbiota-gut-brain axis. The gut microbiota play major roles in brain development and physiology and ultimately behavior. The bidirectional communication between the gut microbiota and brain function has been extensively explored in animal models of depression and clinical research in humans. Certain gut microbiota strains have been associated with the pathophysiology of depression. Therefore, oral intake of probiotics, the beneficial living bacteria and yeast, may represent a therapeutic approach for depression treatment. In this review, we summarize the findings describing the possible links between the gut microbiota and depression, focusing mainly on the inflammatory markers and sex hormones. By discussing preclinical and clinical studies on probiotics as a supplementary therapy for depression, we suggest that probiotics may be beneficial in alleviating depressive symptoms, possibly through immune modulation. Still, further comprehensive studies are required to draw a more solid conclusion regarding the efficacy of probiotics and their mechanisms of action.
+Bamboo rats (Rhizomys pruinosus) are among the few mammals that lives on a bamboo-based diet which is mainly composed of lignocellulose. However, the mechanisms of adaptation of their gut microbiome and metabolic systems in the degradation of lignocellulose are largely unknown. Here, we conducted a multi-omics analysis on bamboo rats to investigate the interaction between their gut microbiomes and metabolic systems in the pre- and post-weaning periods, and observed significant relationships between dietary types, gut microbiome, serum metabolome and host gene expression. For comparison, published gut microbial data from the famous bamboo-eating giant panda (Ailuropoda melanoleuca) were also used for analysis. We found that the adaptation of the gut microbiome of the bamboo rat to a lignocellulose diet is related to a member switch in the order Bacteroidales from family Bacteroidaceae to family Muribaculaceae, while for the famous bamboo-eating giant panda, several aerobes and facultative anaerobes increase after weaning. The conversion of bacteria with an increased relative abundance in bamboo rats after weaning enriched diverse carbohydrate-active enzymes (CAZymes) associated with lignocellulose degradation and functionally enhanced the biosynthesis of amino acids and B vitamins. Meanwhile, the circulating concentration of short-chain fatty acids (SCFAs) derived metabolites and the metabolic capacity of linoleic acid in the host were significantly elevated. Our findings suggest that fatty acid metabolism, including linoleic acid and SCFAs, are the main energy sources for bamboo rats in response to the low-nutrient bamboo diet.
 
-[Source](https://doi.org/10.3389/fnins.2022.852506)
+[Source](https://www.nature.com/articles/s41396-022-01247-2)
 
-10.3389/fnins.2022.852506
-
----
-
-## Reduced housing density improves statistical power of murine gut microbiota studies.
- 17.05.2022, _A Russell, JN Copio, Y Shi, S Kang, CL Franklin, AC Ericsson_
-
-
-_Animals, Anti-Bacterial Agents, Bacteria, Feces, Gastrointestinal Microbiome, Housing, Mice, Mice, Inbred C57BL_
-The gut microbiome of humans and animals is critical to host health. Mice are used to investigate the microbiome and its influences; however, the predictive value of such studies is hindered by cage effects due to coprophagy. Our objectives were to evaluate the influence of cage density on the statistical power to detect treatment-dependent effects of a selective pressure on microbiome composition. C57BL/6 mice were separated into groups of 2 or 4 mice per cage and then assigned to groups receiving enrofloxacin, broad-spectrum antibiotics, or control. Fecal samples were collected at weeks 0, 1, and 4, along with contents of the jejunum and cecum. Bacterial DNA analysis examined microbiome richness, diversity, and variability within and between cages. Statistical analyses reveal that reduced housing density consistently results in comparable susceptibility to antibiotics, reduced cage effects, and increased statistical power to detect treatment-associated effects, justifying the practice of reduced housing density.
-
-[Source](https://doi.org/10.1016/j.celrep.2022.110783)
-
-10.1016/j.celrep.2022.110783
+10.1038/s41396-022-01247-2
 
 ---
 
-## Investigation of Effects of Hyperglycaemia on the Lung Microbiome in Diabetic Mice
+## Comparative Analysis of Gut Microbiota Between Healthy and Diarrheic Horses.
+ 19.05.2022, _Y Li, Y Lan, S Zhang, X Wang_
 
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.L7744)
 
----
+Increasing evidence reveals the importance of gut microbiota in animals for regulating intestinal homeostasis, metabolism, and host health. The gut microbial community has been reported to be closely related to many diseases, but information regarding diarrheic influence on gut microbiota in horses remains scarce. This study investigated and compared gut microbial changes in horses during diarrhea. The results showed that the alpha diversity of gut microbiota in diarrheic horses decreased observably, accompanied by obvious shifts in taxonomic compositions. The dominant bacterial phyla (Firmicutes, Bacteroidetes, Spirochaetes, and Kiritimatiellaeota) and genera (uncultured_bacterium_f_Lachnospiraceae, uncultured_bacterium_f_p-251-o5, Lachnospiraceae_AC2044_group, and Treponema_2) in the healthy and diarrheic horses were same regardless of health status but different in abundances. Compared with the healthy horses, the relative abundances of Planctomycetes, Tenericutes, Firmicutes, Patescibacteria, and Proteobacteria in the diarrheic horses were observably decreased, whereas Bacteroidetes, Verrucomicrobia, and Fibrobacteres were dramatically increased. Moreover, diarrhea also resulted in a significant reduction in the proportions of 31 genera and a significant increase in the proportions of 14 genera. Taken together, this study demonstrated that the gut bacterial diversity and abundance of horses changed significantly during diarrhea. Additionally, these findings also demonstrated that the dysbiosis of gut microbiota may be an important driving factor of diarrhea in horses.
 
-## Dietary Impacts on Changes in Diversity and Abundance of the Murine Microbiome During Progression and Treatment of Cancer
+[Source](https://www.frontiersin.org/articles/10.3389/fvets.2022.882423/full)
 
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.0R381)
-
----
-
-## Impact of Gut <em>R. torques</em> on Type 2 Diabetes in Selenium-deficient Mice
-
-[Source](https://doi.org/10.1096/fasebj.2022.36.S1.L7599)
+10.3389/fvets.2022.882423
 
 ---
 
-## Interaction between gut microbiota dysbiosis and lung infection as gut-lung axis caused by <em>Streptococcus suis</em> in mouse model
+## Large Comparative Analyses of Primate Body Site Microbiomes Indicate that the Oral Microbiome Is Unique among All Body Sites and Conserved among Nonhuman Primates.
+ 19.05.2022, _AE Asangba, L Mugisha, J Rukundo, RJ Lewis, A Halajian, L Cortés-Ortiz, RE Junge, MT Irwin, J Karlson, A Perkin, M Watsa, G Erkenswick, KL Bales, DL Patton, AJ Jasinska, E Fernandez-Duque, SR Leigh, RM Stumpf_
 
-[Source](https://doi.org/10.1016/j.micres.2022.127047)
 
----
+The study of the mammalian microbiome serves as a critical tool for understanding host-microbial diversity and coevolution and the impact of bacterial communities on host health. While studies of specific microbial systems (e.g., in the human gut) have rapidly increased, large knowledge gaps remain, hindering our understanding of the determinants and levels of variation in microbiomes across multiple body sites and host species. Here, we compare microbiome community compositions from eight distinct body sites among 17 phylogenetically diverse species of nonhuman primates (NHPs), representing the largest comparative study of microbial diversity across primate host species and body sites. Analysis of 898 samples predominantly acquired in the wild demonstrated that oral microbiomes were unique in their clustering, with distinctive divergence from all other body site microbiomes. In contrast, all other body site microbiomes clustered principally by host species and differentiated by body site within host species. These results highlight two key findings: (i) the oral microbiome is unique compared to all other body site microbiomes and conserved among diverse nonhuman primates, despite their considerable dietary and phylogenetic differences, and (ii) assessments of the determinants of host-microbial diversity are relative to the level of the comparison (i.e., intra-/inter-body site, -host species, and -individual), emphasizing the need for broader comparative microbial analyses across diverse hosts to further elucidate host-microbial dynamics, evolutionary and biological patterns of variation, and implications for human-microbial coevolution. IMPORTANCE The microbiome is critical to host health and disease, but much remains unknown about the determinants, levels, and evolution of host-microbial diversity. The relationship between hosts and their associated microbes is complex. Most studies to date have focused on the gut microbiome; however, large gaps remain in our understanding of host-microbial diversity, coevolution, and levels of variation in microbiomes across multiple body sites and host species. To better understand the patterns of variation and evolutionary context of host-microbial communities, we conducted one of the largest comparative studies to date, which indicated that the oral microbiome was distinct from the microbiomes of all other body sites and convergent across host species, suggesting conserved niche specialization within the Primates order. We also show the importance of host species differences in shaping the microbiome within specific body sites. This large, comparative study contributes valuable information on key patterns of variation among hosts and body sites, with implications for understanding host-microbial dynamics and human-microbial coevolution.
 
-## The influence of maternal unhealthy diet on maturation of offspring gut microbiota in rat
+[Source](https://journals.asm.org/doi/10.1128/spectrum.01643-21)
 
-[Source](https://doi.org/10.1186/s42523-022-00185-w)
-
----
-
-## Lactoferrin modulates gut microbiota and Toll-like receptors (TLRs) in mice with dysbiosis induced by antibiotics
-
-[Source](https://doi.org/10.1039/d2fo00287f)
+10.1128/spectrum.01643-21
 
 ---
 
-## Serotonin modulates insect gut bacterial community homeostasis
+## Novel Chloroflexi genomes from the deepest ocean reveal metabolic strategies for the adaptation to deep-sea habitats.
+ 14.05.2022, _R Liu, X Wei, W Song, L Wang, J Cao, J Wu, T Thomas, T Jin, Z Wang, W Wei, Y Wei, H Zhai, C Yao, Z Shen, J Du, J Fang_
 
-[Source](https://doi.org/10.1186/s12915-022-01319-x)
 
----
+_Carbon, Chloroflexi, Ecosystem, Oceans and Seas, Sulfur_
+The deep sea harbors the majority of the microbial biomass in the ocean and is a key site for organic matter (OM) remineralization and storage in the biosphere. Microbial metabolism in the deep ocean is greatly controlled by the generally depleted but periodically fluctuating supply of OM. Currently, little is known about metabolic potentials of dominant deep-sea microbes to cope with the variable OM inputs, especially for those living in the hadal trenches-the deepest part of the ocean.
 
-## Natural variation in root exudation of GABA and DIMBOA impacts the maize root endosphere and rhizosphere microbiomes
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01263-6)
 
-[Source](https://doi.org/10.1093/jxb/erac202)
-
----
-
-## Beyond the snapshot: identification of the timeless, enduring indicator microbiome informing soil fertility and crop production in alkaline soils
-
-[Source](https://doi.org/10.1186/s40793-022-00420-6)
+10.1186/s40168-022-01263-6
 
 ---
 
-## The role of microbiome in carbon sequestration and environment security during wastewater treatment
+## CBEA: Competitive balances for taxonomic enrichment analysis.
+ 18.05.2022, _QP Nguyen, AG Hoen, HR Frost_
 
-[Source](https://doi.org/10.1016/j.scitotenv.2022.155793)
+
+Research in human-associated microbiomes often involves the analysis of taxonomic count tables generated via high-throughput sequencing. It is difficult to apply statistical tools as the data is high-dimensional, sparse, and compositional. An approachable way to alleviate high-dimensionality and sparsity is to aggregate variables into pre-defined sets. Set-based analysis is ubiquitous in the genomics literature and has demonstrable impact on improving interpretability and power of downstream analysis. Unfortunately, there is a lack of sophisticated set-based analysis methods specific to microbiome taxonomic data, where current practice often employs abundance summation as a technique for aggregation. This approach prevents comparison across sets of different sizes, does not preserve inter-sample distances, and amplifies protocol bias. Here, we attempt to fill this gap with a new single-sample taxon enrichment method that uses a novel log-ratio formulation based on the competitive null hypothesis commonly used in the enrichment analysis literature. Our approach, titled competitive balances for taxonomic enrichment analysis (CBEA), generates sample-specific enrichment scores as the scaled log-ratio of the subcomposition defined by taxa within a set and the subcomposition defined by its complement. We provide sample-level significance testing by estimating an empirical null distribution of our test statistic with valid p-values. Herein, we demonstrate, using both real data applications and simulations, that CBEA controls for type I error, even under high sparsity and high inter-taxa correlation scenarios. Additionally, CBEA provides informative scores that can be inputs to downstream analyses such as prediction tasks.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010091)
+
+10.1371/journal.pcbi.1010091
 
 ---
 
-## Variational Approximation-Based Model Selection for Microbial Network Inference
+## Clustering compositional data using Dirichlet mixture model.
+ 19.05.2022, _S Pal, C Heumann_
 
-[Source](https://doi.org/10.1089/cmb.2021.0595)
+
+A model-based clustering method for compositional data is explored in this article. Most methods for compositional data analysis require some kind of transformation. The proposed method builds a mixture model using Dirichlet distribution which works with the unit sum constraint. The mixture model uses a hard EM algorithm with some modification to overcome the problem of fast convergence with empty clusters. This work includes a rigorous simulation study to evaluate the performance of the proposed method over varied dimensions, number of clusters, and overlap. The performance of the model is also compared with other popular clustering algorithms often used for compositional data analysis (e.g. KMeans, Gaussian mixture model (GMM) Gaussian Mixture Model with Hard EM (Hard GMM), partition around medoids (PAM), Clustering Large Applications based on Randomized Search (CLARANS), Density-Based Spatial Clustering of Applications with Noise (DBSCAN) etc.) for simulated data as well as two real data problems coming from the business and marketing domain and physical science domain, respectively. The study has shown promising results exploiting different distributional patterns of compositional data.
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268438)
+
+10.1371/journal.pone.0268438
 
 ---
 
-## Opportunities and challenges of using metagenomic data to bring uncultured microbes into cultivation
+## Generation and application of pseudo-long reads for metagenome assembly.
+ 19.05.2022, _M Sim, J Lee, S Wy, N Park, D Lee, D Kwon, J Kim_
 
-[Source](https://doi.org/10.1186/s40168-022-01272-5)
+
+_High-Throughput Nucleotide Sequencing, Humans, Metagenome, Metagenomics, Microbiota, Sequence Analysis, DNA_
+Metagenomic assembly using high-throughput sequencing data is a powerful method to construct microbial genomes in environmental samples without cultivation. However, metagenomic assembly, especially when only short reads are available, is a complex and challenging task because mixed genomes of multiple microorganisms constitute the metagenome. Although long read sequencing technologies have been developed and have begun to be used for metagenomic assembly, many metagenomic studies have been performed based on short reads because the generation of long reads requires higher sequencing cost than short reads.
+
+[Source](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac044/6586818)
+
+10.1093/gigascience/giac044
+
+---
+
+## A comparison of six DNA extraction protocols for 16S, ITS, and shotgun metagenomic sequencing of microbial communities
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.03.07.483343v2.abstract)
+
+---
+
+## Estimating Microbial Population Data from Optical Density
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.22.473948v2.abstract)
 
 ---
 
