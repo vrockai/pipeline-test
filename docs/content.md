@@ -154,7 +154,7 @@ Bamboo rats (Rhizomys pruinosus) are among the few mammals that lives on a bambo
 ---
 
 ## Comparative Analysis of Gut Microbiota Between Healthy and Diarrheic Horses.
- 19.05.2022, _Y Li, Y Lan, S Zhang, X Wang_
+ 20.05.2022, _Y Li, Y Lan, S Zhang, X Wang_
 
 
 Increasing evidence reveals the importance of gut microbiota in animals for regulating intestinal homeostasis, metabolism, and host health. The gut microbial community has been reported to be closely related to many diseases, but information regarding diarrheic influence on gut microbiota in horses remains scarce. This study investigated and compared gut microbial changes in horses during diarrhea. The results showed that the alpha diversity of gut microbiota in diarrheic horses decreased observably, accompanied by obvious shifts in taxonomic compositions. The dominant bacterial phyla (Firmicutes, Bacteroidetes, Spirochaetes, and Kiritimatiellaeota) and genera (uncultured_bacterium_f_Lachnospiraceae, uncultured_bacterium_f_p-251-o5, Lachnospiraceae_AC2044_group, and Treponema_2) in the healthy and diarrheic horses were same regardless of health status but different in abundances. Compared with the healthy horses, the relative abundances of Planctomycetes, Tenericutes, Firmicutes, Patescibacteria, and Proteobacteria in the diarrheic horses were observably decreased, whereas Bacteroidetes, Verrucomicrobia, and Fibrobacteres were dramatically increased. Moreover, diarrhea also resulted in a significant reduction in the proportions of 31 genera and a significant increase in the proportions of 14 genera. Taken together, this study demonstrated that the gut bacterial diversity and abundance of horses changed significantly during diarrhea. Additionally, these findings also demonstrated that the dysbiosis of gut microbiota may be an important driving factor of diarrhea in horses.
@@ -203,9 +203,10 @@ Research in human-associated microbiomes often involves the analysis of taxonomi
 ---
 
 ## Clustering compositional data using Dirichlet mixture model.
- 19.05.2022, _S Pal, C Heumann_
+ 20.05.2022, _S Pal, C Heumann_
 
 
+_Algorithms, Cluster Analysis, Computer Simulation, Normal Distribution_
 A model-based clustering method for compositional data is explored in this article. Most methods for compositional data analysis require some kind of transformation. The proposed method builds a mixture model using Dirichlet distribution which works with the unit sum constraint. The mixture model uses a hard EM algorithm with some modification to overcome the problem of fast convergence with empty clusters. This work includes a rigorous simulation study to evaluate the performance of the proposed method over varied dimensions, number of clusters, and overlap. The performance of the model is also compared with other popular clustering algorithms often used for compositional data analysis (e.g. KMeans, Gaussian mixture model (GMM) Gaussian Mixture Model with Hard EM (Hard GMM), partition around medoids (PAM), Clustering Large Applications based on Randomized Search (CLARANS), Density-Based Spatial Clustering of Applications with Noise (DBSCAN) etc.) for simulated data as well as two real data problems coming from the business and marketing domain and physical science domain, respectively. The study has shown promising results exploiting different distributional patterns of compositional data.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268438)
@@ -215,7 +216,7 @@ A model-based clustering method for compositional data is explored in this artic
 ---
 
 ## Generation and application of pseudo-long reads for metagenome assembly.
- 19.05.2022, _M Sim, J Lee, S Wy, N Park, D Lee, D Kwon, J Kim_
+ 20.05.2022, _M Sim, J Lee, S Wy, N Park, D Lee, D Kwon, J Kim_
 
 
 _High-Throughput Nucleotide Sequencing, Humans, Metagenome, Metagenomics, Microbiota, Sequence Analysis, DNA_
