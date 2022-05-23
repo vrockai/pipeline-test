@@ -266,9 +266,15 @@ Insect pests cause significant agricultural and economic losses to crops worldwi
 
 ---
 
-## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants
+## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants.
+ 20.05.2022, _C Santos-Medellín, J Edwards, B Nguyen, V Sundaresan_
+
+
+Soil microorganisms can colonize plant roots and assemble in communities engaged in symbiotic relationships with their host. While the compositional dynamics of root-associated microbiomes have been extensively studied, the host transcriptional response to these communities is poorly understood. Here, we developed an experimental system by which rice plants grown under axenic conditions can acquire a defined endosphere microbiome. Using this setup, we performed a cross-sectional characterization of plant transcriptomes in the presence or absence of a complex microbial community. To account for compositional variation, plants were inoculated with soil-derived microbiomes harvested from three distinct agricultural sites. Soil microbiomes triggered a major shift in the transcriptional profiles of rice plants that included the downregulation of one third to one fourth of the families of leucine-rich repeat receptor-like kinases and nucleotide-binding leucine-rich repeat receptors expressed in roots. While the expression of several genes was consistent across all soil sources, a large fraction of this response was differentially impacted by soil type. These results demonstrate the role of root microbiomes in sculpting the transcriptomes of host plants and highlight the potential involvement of the two main receptor families of the plant immune system in the recruitment and maintenance of an endosphere microbiome.
 
 [Source](https://doi.org/10.1111/nph.18261)
+
+10.1111/nph.18261
 
 ---
 
