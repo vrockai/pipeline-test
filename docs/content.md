@@ -54,28 +54,15 @@ As the leading cause of cancer death, lung cancer seriously endangers human heal
 
 ---
 
-## A compilation of fecal microbiome shotgun metagenomics from hematopoietic cell transplantation patients.
- 20.05.2022, _J Yan, C Liao, BP Taylor, E Fontana, LA Amoretti, RJ Wright, ER Littmann, A Dai, N Waters, JU Peled, Y Taur, MA Perales, BA Siranosian, AS Bhatt, MRM van den Brink, EG Pamer, J Schluter, JB Xavier_
-
-
-_Feces, Hematopoietic Stem Cell Transplantation, Humans, Metagenomics, Microbiota, RNA, Ribosomal, 16S_
-Hospitalized patients receiving hematopoietic cell transplants provide a unique opportunity to study the human gut microbiome. We previously compiled a large-scale longitudinal dataset of fecal microbiota and associated metadata, but we had limited that analysis to taxonomic composition of bacteria from 16S rRNA gene sequencing. Here we augment those data with shotgun metagenomics. The compilation amounts to a nested subset of 395 samples compiled from different studies at Memorial Sloan Kettering. Shotgun metagenomics describes the microbiome at the functional level, particularly in antimicrobial resistances and virulence factors. We provide accession numbers that link each sample to the paired-end sequencing files deposited in a public repository, which can be directly accessed by the online services of PATRIC to be analyzed without the users having to download or transfer the files. Then, we show how shotgun sequencing enables the assembly of genomes from metagenomic data. The new data, combined with the metadata published previously, enables new functional studies of the microbiomes of patients with cancer receiving bone marrow transplantation.
+## A compilation of fecal microbiome shotgun metagenomics from hematopoietic cell transplantation patients
 
 [Source](https://doi.org/10.1038/s41597-022-01302-9)
-
-10.1038/s41597-022-01302-9
 
 ---
 
 ## The gut microbiota: stable bioreactor of variable composition?
- 18.05.2022, _G Mithieux_
-
-
-The gut microbiota plays a crucial role in host health, providing energy and vitamins from food undigested by the gut enzymes of the host. Bacterial metabolites, such as short-chain fatty acids (SCFAs), are essentially metabolized by the gut mucosa. The importance to metabolic health of gut microbiota composition versus function is discussed.
 
 [Source](https://doi.org/10.1016/j.tem.2022.04.005)
-
-10.1016/j.tem.2022.04.005
 
 ---
 
@@ -212,15 +199,9 @@ The extracellular vesicles (EVs) traffic constitutes an essential pathway of cel
 
 ---
 
-## Bee foraging preferences, microbiota and pathogens revealed by direct shotgun metagenomics of honey.
- 20.05.2022, _A Galanis, P Vardakas, M Reczko, V Harokopos, P Hatzis, EMC Skoulakis, GA Pavlopoulos, S Patalano_
-
-
-Honeybees (Apis mellifera) continue to succumb to human and environmental pressures despite their crucial role in providing essential ecosystem services. Owing to their foraging and honey production activities, honeybees form complex relationships with species across all domains, such as plants, viruses, bacteria and other hive pests, making honey a valuable biomonitoring tool for assessing their ecological niche. Thus, the application of honey shotgun metagenomics (SM) has paved the way for a detailed description of the species honeybees interact with. Nevertheless, SM bioinformatics tools and DNA extraction methods rely on resources not necessarily optimized for honey. In this study, we compared five widely used taxonomic classifiers using simulated species communities commonly found in honey. We found that Kraken 2 with a threshold of 0.5 performs best in assessing species distribution. We also optimized a simple NaOH-based honey DNA extraction methodology (Direct-SM), which profiled species seasonal variability similarly to an established column-based DNA extraction approach (SM). Both approaches produce results consistent with melissopalinology analysis describing the botanical landscape surrounding the apiary. Interestingly, we detected a strong stability of the bacteria constituting the core and noncore gut microbiome across seasons, pointing to the potential utility of honey for noninvasive assessment of bee microbiota. Finally, the Direct-SM approach to detect Varroa correlates well with the biomonitoring of mite infestation observed in hives. These observations suggest that Direct-SM methodology has the potential to comprehensively describe honeybee ecological niches and can be tested as a building block for large-scale studies to assess bee health in the field.
+## Bee foraging preferences, microbiota and pathogens revealed by direct shotgun metagenomics of honey
 
 [Source](https://doi.org/10.1111/1755-0998.13626)
-
-10.1111/1755-0998.13626
 
 ---
 
@@ -242,15 +223,9 @@ Fermentation of pasture grasses and grains in the rumen of dairy cows and other 
 
 ---
 
-## Role of Insect Gut Microbiota in Pesticide Degradation: A Review.
- 21.05.2022, _JA Siddiqui, MM Khan, BS Bamisile, M Hafeez, M Qasim, MT Rasheed, MA Rasheed, S Ahmad, MI Shahid, Y Xu_
-
-
-Insect pests cause significant agricultural and economic losses to crops worldwide due to their destructive activities. Pesticides are designed to be poisonous and are intentionally released into the environment to combat the menace caused by these noxious pests. To survive, these insects can resist toxic substances introduced by humans in the form of pesticides. According to recent findings, microbes that live in insect as symbionts have recently been found to protect their hosts against toxins. Symbioses that have been formed are between the pests and various microbes, a defensive mechanism against pathogens and pesticides. Insects' guts provide unique conditions for microbial colonization, and resident bacteria can deliver numerous benefits to their hosts. Insects vary significantly in their reliance on gut microbes for basic functions. Insect digestive tracts are very different in shape and chemical properties, which have a big impact on the structure and composition of the microbial community. Insect gut microbiota has been found to contribute to feeding, parasite and pathogen protection, immune response modulation, and pesticide breakdown. The current review will examine the roles of gut microbiota in pesticide detoxification and the mechanisms behind the development of resistance in insects to various pesticides. To better understand the detoxifying microbiota in agriculturally significant pest insects, we provided comprehensive information regarding the role of gut microbiota in the detoxification of pesticides.
+## Role of Insect Gut Microbiota in Pesticide Degradation: A Review
 
 [Source](https://doi.org/10.3389/fmicb.2022.870462)
-
-10.3389/fmicb.2022.870462
 
 ---
 
@@ -266,39 +241,21 @@ Insect pests cause significant agricultural and economic losses to crops worldwi
 
 ---
 
-## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants.
- 20.05.2022, _C Santos-Medellín, J Edwards, B Nguyen, V Sundaresan_
-
-
-Soil microorganisms can colonize plant roots and assemble in communities engaged in symbiotic relationships with their host. While the compositional dynamics of root-associated microbiomes have been extensively studied, the host transcriptional response to these communities is poorly understood. Here, we developed an experimental system by which rice plants grown under axenic conditions can acquire a defined endosphere microbiome. Using this setup, we performed a cross-sectional characterization of plant transcriptomes in the presence or absence of a complex microbial community. To account for compositional variation, plants were inoculated with soil-derived microbiomes harvested from three distinct agricultural sites. Soil microbiomes triggered a major shift in the transcriptional profiles of rice plants that included the downregulation of one third to one fourth of the families of leucine-rich repeat receptor-like kinases and nucleotide-binding leucine-rich repeat receptors expressed in roots. While the expression of several genes was consistent across all soil sources, a large fraction of this response was differentially impacted by soil type. These results demonstrate the role of root microbiomes in sculpting the transcriptomes of host plants and highlight the potential involvement of the two main receptor families of the plant immune system in the recruitment and maintenance of an endosphere microbiome.
+## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants
 
 [Source](https://doi.org/10.1111/nph.18261)
 
-10.1111/nph.18261
-
 ---
 
-## Water deficit affects inter-kingdom microbial connections in plant rhizosphere.
- 18.05.2022, _KE Bazany, JT Wang, M Delgado-Baquerizo, BK Singh, P Trivedi_
-
-
-The frequency and severity of drought are increasing due to anthropogenic climate change and are already limiting cropping system productivity in many regions around the world. Few microbial groups within plant microbiomes can potentially contribute towards the fitness and productivity of their hosts under abiotic stress events including water deficits. However, microbial communities are complex and integrative work considering the multiple co-existing groups of organisms is needed to better understand how the entire microbiome responds to environmental stresses. We hypothesize that water deficit stress will differentially shape bacterial, fungal, and protistan microbiome composition and influence inter-kingdom microbial interactions in the rhizospheres of corn and sugar beet. We used amplicon sequencing to profile bacterial, fungal, and protistan communities in corn and sugar beet rhizospheres grown under irrigated and water deficit conditions. The water deficit treatment had a stronger influence than host species on bacterial composition, whereas the opposite was true for protists. These results indicate that different microbial kingdoms have variable responses to environmental stress and host factors. Water deficit also influenced intra- and inter-kingdom microbial associations, wherein the protist taxa formed a separate cluster under water deficit conditions. Our findings help elucidate the influence of environmental and host drivers of bacterial, fungal, and protistan community assembly and co-occurrence in agricultural rhizosphere environments.
+## Water deficit affects inter-kingdom microbial connections in plant rhizosphere
 
 [Source](https://doi.org/10.1111/1462-2920.16031)
 
-10.1111/1462-2920.16031
-
 ---
 
-## Facilitating Reforestation Through the Plant Microbiome: Perspectives from the Phyllosphere.
- 18.05.2022, _PE Busby, G Newcombe, AS Neat, C Averill_
-
-
-Tree planting and natural regeneration contribute to the ongoing effort to restore Earth's forests. Our review addresses how the plant microbiome can enhance the survival of planted and naturally regenerating seedlings and serve in long-term forest carbon capture and the conservation of biodiversity. We focus on fungal leaf endophytes, ubiquitous defensive symbionts that protect against pathogens. We first show that fungal and oomycetous pathogen richness varies greatly for tree species native to the United States (n = 0-876 known pathogens per US tree species), with nearly half of tree species either without pathogens in these major groups or with unknown pathogens. Endophytes are insurance against the poorly known and changing threat of tree pathogens. Next, we reviewed studies of plant-phyllosphere feedback, but knowledge gaps prevented us from evaluating whether adding conspecific leaf litter to planted seedlings promotes defensive symbiosis, analogous to adding soil to promote positive feedback. Finally, we discuss research priorities for integrating the plant microbiome into efforts to expand Earth's forests. Expected final online publication date for the Annual Review of Phytopathology, Volume 60 is August 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+## Facilitating Reforestation Through the Plant Microbiome: Perspectives from the Phyllosphere
 
 [Source](https://doi.org/10.1146/annurev-phyto-021320-010717)
-
-10.1146/annurev-phyto-021320-010717
 
 ---
 
