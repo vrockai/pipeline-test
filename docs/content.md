@@ -90,15 +90,9 @@ As the leading cause of cancer death, lung cancer seriously endangers human heal
 
 ---
 
-## The respiratory microbiome associated with chronic obstructive pulmonary disease comorbidity in non-small cell lung cancer.
- 17.05.2022, _M Shimizu, A Miyanaga, M Seike, K Matsuda, M Matsumoto, R Noro, K Fujita, Y Mano, N Furuya, K Kubota, A Gemma_
-
-
-Research has shown that some microbiomes are linked to cancer. Hence, we hypothesize that alterations in the respiratory microbiome might be associated with lung cancer.
+## The respiratory microbiome associated with chronic obstructive pulmonary disease comorbidity in non-small cell lung cancer
 
 [Source](https://doi.org/10.1111/1759-7714.14463)
-
-10.1111/1759-7714.14463
 
 ---
 
@@ -108,15 +102,9 @@ Research has shown that some microbiomes are linked to cancer. Hence, we hypothe
 
 ---
 
-## Dysbiotic relationship between arthritis and the oral-gut microbiome. A critical review.
- 18.05.2022, _RCG de Oliveira, E Gardev, LM Shaddox_
-
-
-Arthritis and prosthetic joint infections (PJIs) overall are associated with reduced quality of life and limited work capacity. Multiple, overlapping factors contribute to these conditions. Some investigations have suggested a dysbiotic association between the oral-gut microbiome and pathogenesis of arthritis and PJIs. A better understanding of the role of the oral-gut microbiota in arthritis and PJI pathophysiology can shed light into how its disequilibrium can discharge a pro-inflammatory response, and impact the health of patients susceptible to arthritis or with established joint disease. A review of published in vivo and clinical data suggested that alterations in oral and gut microbiota can lead to a disturbance of immunoregulatory properties, and may be associated with joint infections and arthritis. This review brings new insights into the current status of the evidence on the potential molecules and inflammatory biomarkers disrupted by an oral-gut microbial dysbiosis. Normal commensals and pathogenic oral and gut microflora homeostasis are important not only to prevent infections per se but also its potential progression. Further experiments, especially controlled clinical trials, are needed to ascertain how microbiome manipulation and other microbiota-directed approaches can help control inflammation and effectively prevent and treat arthritic diseases. Additionally, studies on the effects of the long-term oral diseases, such as chronic periodontitis, on arthritis and PJIs need to be conducted.
+## Dysbiotic relationship between arthritis and the oral-gut microbiome. A critical review
 
 [Source](https://doi.org/10.1111/jre.13002)
-
-10.1111/jre.13002
 
 ---
 
@@ -156,9 +144,16 @@ Coronavirus disease 2019 (COVID-19) is a respiratory infectious disease responsi
 
 ---
 
-## Commensal bacteria-derived extracellular vesicles suppress ulcerative colitis through regulating the macrophages polarization and remodeling the gut microbiota
+## Commensal bacteria-derived extracellular vesicles suppress ulcerative colitis through regulating the macrophages polarization and remodeling the gut microbiota.
+ 20.05.2022, _L Liang, C Yang, L Liu, G Mai, H Li, L Wu, M Jin, Y Chen_
+
+
+_Animals, Clostridium butyricum, Colitis, Colitis, Ulcerative, Colon, Cytokines, Dextran Sulfate, Disease Models, Animal, Extracellular Vesicles, Gastrointestinal Microbiome, Macrophages, Mice, Mice, Inbred C57BL, RNA, Ribosomal, 16S_
+The extracellular vesicles (EVs) traffic constitutes an essential pathway of cellular communication. And the molecules in EVs produced by procaryotes help in maintaining homeostasis, addressing microbial imbalance and infections, and regulating the immune system. Despite the fact that Clostridium butyricum (C. butyricum) is commonly used for treating ulcerative colitis (UC), the potential role of C. butyricum-secreted EVs in commensals-host crosstalk remains unclear.
 
 [Source](https://doi.org/10.1186/s12934-022-01812-6)
+
+10.1186/s12934-022-01812-6
 
 ---
 
@@ -192,9 +187,15 @@ Coronavirus disease 2019 (COVID-19) is a respiratory infectious disease responsi
 
 ---
 
-## Role of Insect Gut Microbiota in Pesticide Degradation: A Review
+## Role of Insect Gut Microbiota in Pesticide Degradation: A Review.
+ 21.05.2022, _JA Siddiqui, MM Khan, BS Bamisile, M Hafeez, M Qasim, MT Rasheed, MA Rasheed, S Ahmad, MI Shahid, Y Xu_
+
+
+Insect pests cause significant agricultural and economic losses to crops worldwide due to their destructive activities. Pesticides are designed to be poisonous and are intentionally released into the environment to combat the menace caused by these noxious pests. To survive, these insects can resist toxic substances introduced by humans in the form of pesticides. According to recent findings, microbes that live in insect as symbionts have recently been found to protect their hosts against toxins. Symbioses that have been formed are between the pests and various microbes, a defensive mechanism against pathogens and pesticides. Insects' guts provide unique conditions for microbial colonization, and resident bacteria can deliver numerous benefits to their hosts. Insects vary significantly in their reliance on gut microbes for basic functions. Insect digestive tracts are very different in shape and chemical properties, which have a big impact on the structure and composition of the microbial community. Insect gut microbiota has been found to contribute to feeding, parasite and pathogen protection, immune response modulation, and pesticide breakdown. The current review will examine the roles of gut microbiota in pesticide detoxification and the mechanisms behind the development of resistance in insects to various pesticides. To better understand the detoxifying microbiota in agriculturally significant pest insects, we provided comprehensive information regarding the role of gut microbiota in the detoxification of pesticides.
 
 [Source](https://doi.org/10.3389/fmicb.2022.870462)
+
+10.3389/fmicb.2022.870462
 
 ---
 
@@ -222,21 +223,40 @@ Coronavirus disease 2019 (COVID-19) is a respiratory infectious disease responsi
 
 ---
 
-## Facilitating Reforestation Through the Plant Microbiome: Perspectives from the Phyllosphere
+## Facilitating Reforestation Through the Plant Microbiome: Perspectives from the Phyllosphere.
+ 23.05.2022, _PE Busby, G Newcombe, AS Neat, C Averill_
+
+
+Tree planting and natural regeneration contribute to the ongoing effort to restore Earth's forests. Our review addresses how the plant microbiome can enhance the survival of planted and naturally regenerating seedlings and serve in long-term forest carbon capture and the conservation of biodiversity. We focus on fungal leaf endophytes, ubiquitous defensive symbionts that protect against pathogens. We first show that fungal and oomycetous pathogen richness varies greatly for tree species native to the United States (n = 0-876 known pathogens per US tree species), with nearly half of tree species either without pathogens in these major groups or with unknown pathogens. Endophytes are insurance against the poorly known and changing threat of tree pathogens. Next, we reviewed studies of plant-phyllosphere feedback, but knowledge gaps prevented us from evaluating whether adding conspecific leaf litter to planted seedlings promotes defensive symbiosis, analogous to adding soil to promote positive feedback. Finally, we discuss research priorities for integrating the plant microbiome into efforts to expand Earth's forests. Expected final online publication date for the Annual Review of Phytopathology, Volume 60 is August 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-phyto-021320-010717)
 
+10.1146/annurev-phyto-021320-010717
+
 ---
 
-## The standardisation of the approach to metagenomic human gut analysis: from sample collection to microbiome profiling
+## The standardisation of the approach to metagenomic human gut analysis: from sample collection to microbiome profiling.
+ 23.05.2022, _N Szóstak, A Szymanek, J Havránek, K Tomela, M Rakoczy, A Samelak-Czajka, M Schmidt, M Figlerowicz, J Majta, K Milanowska-Zabel, L Handschuh, A Philips_
+
+
+_DNA, Humans, Metagenome, Metagenomics, Microbiota, RNA, Ribosomal, 16S, Reproducibility of Results_
+In recent years, the number of metagenomic studies increased significantly. Wide range of factors, including the tremendous community complexity and variability, is contributing to the challenge in reliable microbiome community profiling. Many approaches have been proposed to overcome these problems making hardly possible to compare results of different studies. The significant differences between procedures used in metagenomic research are reflected in a variation of the obtained results. This calls for the need for standardisation of the procedure, to reduce the confounding factors originating from DNA isolation, sequencing and bioinformatics analyses in order to ensure that the differences in microbiome composition are of a true biological origin. Although the best practices for metagenomics studies have been the topic of several publications and the main aim of the International Human Microbiome Standard (IHMS) project, standardisation of the procedure for generating and analysing metagenomic data is still far from being achieved. To highlight the difficulties in the standardisation of metagenomics methods, we thoroughly examined each step of the analysis of the human gut microbiome. We tested the DNA isolation procedure, preparation of NGS libraries for next-generation sequencing, and bioinformatics analysis, aimed at identifying microbial taxa. We showed that the homogenisation time is the leading factor impacting sample diversity, with the recommendation for a shorter homogenisation time (10 min). Ten minutes of homogenisation allows for better reflection of the bacteria gram-positive/gram-negative ratio, and the obtained results are the least heterogenous in terms of beta-diversity of samples microbial composition. Besides increasing the homogenisation time, we observed further potential impact of the library preparation kit on the gut microbiome profiling. Moreover, our analysis revealed that the choice of the library preparation kit influences the reproducibility of the results, which is an important factor that has to be taken into account in every experiment. In this study, a tagmentation-based kit allowed for obtaining the most reproducible results. We also considered the choice of the computational tool for determining the composition of intestinal microbiota, with Kraken2/Bracken pipeline outperforming MetaPhlAn2 in our in silico experiments. The design of an experiment and a detailed establishment of an experimental protocol may have a serious impact on determining the taxonomic profile of the intestinal microbiome community. Results of our experiment can be helpful for a wide range of studies that aim to better understand the role of the gut microbiome, as well as for clinical purposes.
 
 [Source](https://doi.org/10.1038/s41598-022-12037-3)
 
+10.1038/s41598-022-12037-3
+
 ---
 
-## Locality-Sensitive Hashing-Based k-Mer Clustering for Identification of Differential Microbial Markers Related to Host Phenotype
+## Locality-Sensitive Hashing-Based k-Mer Clustering for Identification of Differential Microbial Markers Related to Host Phenotype.
+ 18.05.2022, _W Han, H Tang, Y Ye_
+
+
+Microbial organisms play important roles in many aspects of human health and diseases. Encouraged by the numerous studies that show the association between microbiomes and human diseases, computational and machine learning methods have been recently developed to generate and utilize microbiome features for prediction of host phenotypes such as disease versus healthy cancer immunotherapy responder versus nonresponder. We have previously developed a subtractive assembly approach, which focuses on extraction and assembly of differential reads from metagenomic data sets that are likely sampled from differential genomes or genes between two groups of microbiome data sets (e.g., healthy vs. disease). In this article, we further improved our subtractive assembly approach by utilizing groups of k-mers with similar abundance profiles across multiple samples. We implemented a locality-sensitive hashing (LSH)-enabled approach (called kmerLSHSA) to group billions of k-mers into k-mer coabundance groups (kCAGs), which were subsequently used for the retrieval of differential kCAGs for subtractive assembly. Testing of the kmerLSHSA approach on simulated data sets and real microbiome data sets showed that, compared with the conventional approach that utilizes all genes, our approach can quickly identify differential genes that can be used for building promising predictive models for microbiome-based host phenotype prediction. We also discussed other potential applications of LSH-enabled clustering of k-mers according to their abundance profiles across multiple microbiome samples.
 
 [Source](https://doi.org/10.1089/cmb.2021.0640)
+
+10.1089/cmb.2021.0640
 
 ---
 
