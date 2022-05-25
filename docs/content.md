@@ -54,33 +54,67 @@ As the leading cause of cancer death, lung cancer seriously endangers human heal
 
 ---
 
-## A compilation of fecal microbiome shotgun metagenomics from hematopoietic cell transplantation patients
+## A compilation of fecal microbiome shotgun metagenomics from hematopoietic cell transplantation patients.
+ 24.05.2022, _J Yan, C Liao, BP Taylor, E Fontana, LA Amoretti, RJ Wright, ER Littmann, A Dai, N Waters, JU Peled, Y Taur, MA Perales, BA Siranosian, AS Bhatt, MRM van den Brink, EG Pamer, J Schluter, JB Xavier_
+
+
+_Feces, Hematopoietic Stem Cell Transplantation, Humans, Metagenomics, Microbiota, RNA, Ribosomal, 16S_
+Hospitalized patients receiving hematopoietic cell transplants provide a unique opportunity to study the human gut microbiome. We previously compiled a large-scale longitudinal dataset of fecal microbiota and associated metadata, but we had limited that analysis to taxonomic composition of bacteria from 16S rRNA gene sequencing. Here we augment those data with shotgun metagenomics. The compilation amounts to a nested subset of 395 samples compiled from different studies at Memorial Sloan Kettering. Shotgun metagenomics describes the microbiome at the functional level, particularly in antimicrobial resistances and virulence factors. We provide accession numbers that link each sample to the paired-end sequencing files deposited in a public repository, which can be directly accessed by the online services of PATRIC to be analyzed without the users having to download or transfer the files. Then, we show how shotgun sequencing enables the assembly of genomes from metagenomic data. The new data, combined with the metadata published previously, enables new functional studies of the microbiomes of patients with cancer receiving bone marrow transplantation.
 
 [Source](https://doi.org/10.1038/s41597-022-01302-9)
+
+10.1038/s41597-022-01302-9
 
 ---
 
 ## The gut microbiota: stable bioreactor of variable composition?
+ 18.05.2022, _G Mithieux_
+
+
+The gut microbiota plays a crucial role in host health, providing energy and vitamins from food undigested by the gut enzymes of the host. Bacterial metabolites, such as short-chain fatty acids (SCFAs), are essentially metabolized by the gut mucosa. The importance to metabolic health of gut microbiota composition versus function is discussed.
 
 [Source](https://doi.org/10.1016/j.tem.2022.04.005)
 
+10.1016/j.tem.2022.04.005
+
 ---
 
-## Characterizing the mucin-degrading capacity of the human gut microbiota
+## Characterizing the mucin-degrading capacity of the human gut microbiota.
+ 23.05.2022, _JS Glover, TD Ticer, MA Engevik_
+
+
+_Animals, Clostridiales, Gastrointestinal Microbiome, Humans, Mucins, Polysaccharides, Swine, Verrucomicrobia_
+Mucin-degrading microbes are known to harbor glycosyl hydrolases (GHs) which cleave specific glycan linkages. Although several microbial species have been identified as mucin degraders, there are likely many other members of the healthy gut community with the capacity to degrade mucins. The aim of the present study was to systematically examine the CAZyme mucin-degrading profiles of the human gut microbiota. Within the Verrucomicrobia phylum, all Akkermansia glycaniphila and muciniphila genomes harbored multiple gene copies of mucin-degrading GHs. The only representative of the Lentisphaerae phylum, Victivallales, harbored a GH profile that closely mirrored Akkermansia. In the Actinobacteria phylum, we found several Actinomadura, Actinomyces, Bifidobacterium, Streptacidiphilus and Streptomyces species with mucin-degrading GHs. Within the Bacteroidetes phylum, Alistipes, Alloprevotella, Bacteroides, Fermenitomonas Parabacteroides, Prevotella and Phocaeicola species had mucin degrading GHs. Firmicutes contained Abiotrophia, Blautia, Enterococcus, Paenibacillus, Ruminococcus, Streptococcus, and Viridibacillus species with mucin-degrading GHs. Interestingly, far fewer mucin-degrading GHs were observed in the Proteobacteria phylum and were found in Klebsiella, Mixta, Serratia and Enterobacter species. We confirmed the mucin-degrading capability of 23 representative gut microbes using a chemically defined media lacking glucose supplemented with porcine intestinal mucus. These data greatly expand our knowledge of microbial-mediated mucin degradation within the human gut microbiota.
 
 [Source](https://doi.org/10.1038/s41598-022-11819-z)
 
+10.1038/s41598-022-11819-z
+
 ---
 
-## Mapping microbiome-redox spectrum and evaluating Microbial-Redox Index in chronic gastritis
+## Mapping microbiome-redox spectrum and evaluating Microbial-Redox Index in chronic gastritis.
+ 23.05.2022, _MK Panigrahi, V Kaliaperumal, A Akella, G Venugopal, B Ramadass_
+
+
+_Gastric Mucosa, Gastritis, Helicobacter Infections, Helicobacter pylori, Humans, Microbiota, Oxidation-Reduction, Peptic Ulcer, RNA, Ribosomal, 16S_
+Peptic ulcer disease (PUD) and chronic gastritis are prevalent in developing countries. The role of oxidative stress in the pathogenesis of gastrointestinal mucosal disorders is well recognized. In PUD, the gastric mucosa and its associated microbiome are subject to diet and stress-induced oxidative perturbations. Tissue redox potential (ORP) measurement can quantify oxidative stress, reflecting the balance between prooxidants and antioxidants. This study hypothesizes that the oxidative stress quantified by tissue ORP will be associated with characteristic changes in the mucosa-associated microbiome in PUD and gastritis. In addition, we propose using relative microbial abundance as a quantitative marker of mucosal health. Endoscopy was performed to obtain gastric mucosal biopsies from ten PUD and ten non-ulcer dyspepsia (NUD) patients. The tissue ORP was measured directly with a microelectrode using a biopsy specimen. A second specimen from an adjacent site was subjected to 16s rRNA gene sequencing. From the OTUs, the relative abundance of the microbial taxon in each of the samples was derived. We analyzed the genome of the predominant species for genes encoding the utilization of oxygen as an electron acceptor in respiration and for the presence of antioxidant defense mechanisms. The organisms were then grouped based on their established and inferred redox traits. Shannon diversity index and Species richness were calculated on rarefied data. The relative abundance of organisms that prefer high ORP over those that favor low ORP is conceived as the "Microbial Redox Index (MRI)," an indicator of mucosal health. In the gastric mucosa, aerobic species predominate and are more diverse than the anaerobes. The predominant aerobes are Helicobacter pylori and Sphingobacterium mizutaii. The abundance of these two species had an inverse correlation with the abundance of low ORP preferring anaerobes. Their relative abundance ratio (Microbial Redox Index) correlated with the tissue oxidation-reduction potential (ORP), a direct measure of oxidative stress. Correlation analysis also revealed that the abundance of all anaerobes inversely correlated with the dominant aerobic taxa. In addition, Shannon and Species richness diversity indices, the probable indicators of mucosal health, were negatively correlated with Microbial Redox Index. Using PUD as a prototype mucosal disease, this article describes a generalized approach to infer and quantify mucosal oxidative stress by analyzing the relative abundance of microorganisms that preferentially grow at the extremes of the tissue redox potential. This ratiometric Microbial Redox Index can also be assessed using simple qPCR without the need for sequencing. The approach described herein may be helpful as a widely applicable quantitative measure of mucosal health with prognostic and therapeutic implications.
 
 [Source](https://doi.org/10.1038/s41598-022-12431-x)
 
+10.1038/s41598-022-12431-x
+
 ---
 
-## Endometrial microbiome: sampling, assessment, and possible impact on embryo implantation
+## Endometrial microbiome: sampling, assessment, and possible impact on embryo implantation.
+ 23.05.2022, _M Reschini, L Benaglia, F Ceriotti, R Borroni, S Ferrari, M Castiglioni, D Guarneri, L Porcaro, P Vigano', E Somigliana, S Uceda Renteria_
+
+
+_Embryo Implantation, Embryo Transfer, Endometrium, Female, Humans, Male, Microbiota, Pregnancy, RNA, Ribosomal, 16S, Vagina_
+There is growing interest on the potential clinical relevance of the endometrial microbiome. However, insufficient attention has been given to the methodology of sampling. To minimize contamination, we advocate the use of the double-lumen catheters commonly employed for the embryo transfer. Endometrial fluid samples obtained from 53 women scheduled for IVF were studied for microbiome characterization. Control samples from the vagina of these same women were concomitantly obtained. Samples were analysed by V3-V4-V6 regions of 16S rRNA gene sequencing with Next Generation Sequencing technique. Endometrial Lactobacillus-dominant cases were uncommon compared to previous evidence, being observed in only 4 (8%) women. Taxonomy markedly differed between the endometrial and vaginal microbiomes composition. The most common bacterial genera coincided in only 4 (8%) women. The comparison between women who did and did not subsequently become pregnant failed to identify any microorganism associated with the success of the procedure. However, the endometrial biodiversity resulted higher among pregnant women. Shannon's Equitability index in pregnant and non pregnant women was 0.76 [0.57-0.87] and 0.55 [0.51-0.64], respectively (p = 0.002). In conclusion, the use of embryo transfer catheters for testing the endometrial microbiome is promising. The scant concordance with vaginal samples supports the validity of this approach. Moreover, our study highlighted a possible beneficial role of a higher biodiversity on endometrial receptivity.
 
 [Source](https://doi.org/10.1038/s41598-022-12095-7)
+
+10.1038/s41598-022-12095-7
 
 ---
 
@@ -90,9 +124,15 @@ As the leading cause of cancer death, lung cancer seriously endangers human heal
 
 ---
 
-## The respiratory microbiome associated with chronic obstructive pulmonary disease comorbidity in non-small cell lung cancer
+## The respiratory microbiome associated with chronic obstructive pulmonary disease comorbidity in non-small cell lung cancer.
+ 17.05.2022, _M Shimizu, A Miyanaga, M Seike, K Matsuda, M Matsumoto, R Noro, K Fujita, Y Mano, N Furuya, K Kubota, A Gemma_
+
+
+Research has shown that some microbiomes are linked to cancer. Hence, we hypothesize that alterations in the respiratory microbiome might be associated with lung cancer.
 
 [Source](https://doi.org/10.1111/1759-7714.14463)
+
+10.1111/1759-7714.14463
 
 ---
 
@@ -102,9 +142,15 @@ As the leading cause of cancer death, lung cancer seriously endangers human heal
 
 ---
 
-## Dysbiotic relationship between arthritis and the oral-gut microbiome. A critical review
+## Dysbiotic relationship between arthritis and the oral-gut microbiome. A critical review.
+ 18.05.2022, _RCG de Oliveira, E Gardev, LM Shaddox_
+
+
+Arthritis and prosthetic joint infections (PJIs) overall are associated with reduced quality of life and limited work capacity. Multiple, overlapping factors contribute to these conditions. Some investigations have suggested a dysbiotic association between the oral-gut microbiome and pathogenesis of arthritis and PJIs. A better understanding of the role of the oral-gut microbiota in arthritis and PJI pathophysiology can shed light into how its disequilibrium can discharge a pro-inflammatory response, and impact the health of patients susceptible to arthritis or with established joint disease. A review of published in vivo and clinical data suggested that alterations in oral and gut microbiota can lead to a disturbance of immunoregulatory properties, and may be associated with joint infections and arthritis. This review brings new insights into the current status of the evidence on the potential molecules and inflammatory biomarkers disrupted by an oral-gut microbial dysbiosis. Normal commensals and pathogenic oral and gut microflora homeostasis are important not only to prevent infections per se but also its potential progression. Further experiments, especially controlled clinical trials, are needed to ascertain how microbiome manipulation and other microbiota-directed approaches can help control inflammation and effectively prevent and treat arthritic diseases. Additionally, studies on the effects of the long-term oral diseases, such as chronic periodontitis, on arthritis and PJIs need to be conducted.
 
 [Source](https://doi.org/10.1111/jre.13002)
+
+10.1111/jre.13002
 
 ---
 
@@ -169,9 +215,15 @@ The extracellular vesicles (EVs) traffic constitutes an essential pathway of cel
 
 ---
 
-## Bee foraging preferences, microbiota and pathogens revealed by direct shotgun metagenomics of honey
+## Bee foraging preferences, microbiota and pathogens revealed by direct shotgun metagenomics of honey.
+ 20.05.2022, _A Galanis, P Vardakas, M Reczko, V Harokopos, P Hatzis, EMC Skoulakis, GA Pavlopoulos, S Patalano_
+
+
+Honeybees (Apis mellifera) continue to succumb to human and environmental pressures despite their crucial role in providing essential ecosystem services. Owing to their foraging and honey production activities, honeybees form complex relationships with species across all domains, such as plants, viruses, bacteria and other hive pests, making honey a valuable biomonitoring tool for assessing their ecological niche. Thus, the application of honey shotgun metagenomics (SM) has paved the way for a detailed description of the species honeybees interact with. Nevertheless, SM bioinformatics tools and DNA extraction methods rely on resources not necessarily optimized for honey. In this study, we compared five widely used taxonomic classifiers using simulated species communities commonly found in honey. We found that Kraken 2 with a threshold of 0.5 performs best in assessing species distribution. We also optimized a simple NaOH-based honey DNA extraction methodology (Direct-SM), which profiled species seasonal variability similarly to an established column-based DNA extraction approach (SM). Both approaches produce results consistent with melissopalinology analysis describing the botanical landscape surrounding the apiary. Interestingly, we detected a strong stability of the bacteria constituting the core and noncore gut microbiome across seasons, pointing to the potential utility of honey for noninvasive assessment of bee microbiota. Finally, the Direct-SM approach to detect Varroa correlates well with the biomonitoring of mite infestation observed in hives. These observations suggest that Direct-SM methodology has the potential to comprehensively describe honeybee ecological niches and can be tested as a building block for large-scale studies to assess bee health in the field.
 
 [Source](https://doi.org/10.1111/1755-0998.13626)
+
+10.1111/1755-0998.13626
 
 ---
 
@@ -181,9 +233,16 @@ The extracellular vesicles (EVs) traffic constitutes an essential pathway of cel
 
 ---
 
-## Dietary wheat and reduced methane yield are linked to rumen microbiome changes in dairy cows
+## Dietary wheat and reduced methane yield are linked to rumen microbiome changes in dairy cows.
+ 23.05.2022, _KW Savin, PJ Moate, SRO Williams, C Bath, J Hemsworth, J Wang, D Ram, J Zawadzki, S Rochfort, BG Cocks_
+
+
+_Animal Feed, Animals, Cattle, Diet, Female, Fermentation, Humans, Hydrogen, Lactation, Methane, Microbiota, Milk, Prevotella, RNA, Ribosomal, 16S, Rumen, Triticum, Zea mays_
+Fermentation of pasture grasses and grains in the rumen of dairy cows and other ruminants produces methane as a by-product, wasting energy and contributing to the atmospheric load of greenhouse gasses. Many feeding trials in farmed ruminants have tested the impact of dietary components on feed efficiency, productivity and methane yield (MeY). Such diets remodel the rumen microbiome, altering bacterial, archaeal, fungal and protozoan populations, with an altered fermentation outcome. In dairy cows, some dietary grains can reduce enteric methane production. This is especially true of wheat, in comparison to corn or barley. Using a feeding trial of cows fed rolled wheat, corn or barley grain, in combination with hay and canola, we identified wheat-associated changes in the ruminal microbiome. Ruminal methane production, pH and VFA concentration data together with 16S rRNA gene amplicon sequences were used to compare ruminal bacterial and archaeal populations across diets. Differential abundance analysis of clustered sequences (OTU) identified members of the bacterial families Lachnospiraceae, Acidaminococcaceae, Eubacteriaceae, Prevotellaceae, Selenomonadaceae, Anaerovoracaceae and Fibrobacteraceae having a strong preference for growth in wheat-fed cows. Within the methanogenic archaea, (at &gt;99% 16S rRNA sequence identity) the growth of Methanobrevibacter millerae was favoured by the non-wheat diets, while Methanobrevibacter olleyae was unaffected. From the wheat-preferring bacteria, correlation analysis found OTU strongly linked to reduced MeY, reduced pH and raised propionic acid levels. OTU from the genera Shuttleworthia and Prevotella_7 and especially Selenomonadaceae had high anti-methane correlations. An OTU likely representing (100% sequence identity) the fumarate-reducing, hydrogen-utilising, rumen bacterium Mitsuokella jalaludinii, had an especially high negative correlation coefficient (-0.83) versus MeY and moderate correlation (-0.6) with rumen pH, strongly suggesting much of the MeY suppression is due to reduced hydrogen availablity. Other OTU, representing as yet unknown species from the Selenomonadaceae family and the genera Prevotella_7, Fibrobacter and Syntrophococcus also had high to moderate negative MeY correlations, but low correlation with pH. These latter likely represent bacterial species able to reduce MeY without causing greater ruminal acidity, making them excellent candidates, provided they can be isolated, for development as anti-methane probiotics.
 
 [Source](https://doi.org/10.1371/journal.pone.0268157)
+
+10.1371/journal.pone.0268157
 
 ---
 
@@ -211,15 +270,27 @@ Insect pests cause significant agricultural and economic losses to crops worldwi
 
 ---
 
-## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants
+## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants.
+ 20.05.2022, _C Santos-Medellín, J Edwards, B Nguyen, V Sundaresan_
+
+
+Soil microorganisms can colonize plant roots and assemble in communities engaged in symbiotic relationships with their host. While the compositional dynamics of root-associated microbiomes have been extensively studied, the host transcriptional response to these communities is poorly understood. Here, we developed an experimental system by which rice plants grown under axenic conditions can acquire a defined endosphere microbiome. Using this setup, we performed a cross-sectional characterization of plant transcriptomes in the presence or absence of a complex microbial community. To account for compositional variation, plants were inoculated with soil-derived microbiomes harvested from three distinct agricultural sites. Soil microbiomes triggered a major shift in the transcriptional profiles of rice plants that included the downregulation of one third to one fourth of the families of leucine-rich repeat receptor-like kinases and nucleotide-binding leucine-rich repeat receptors expressed in roots. While the expression of several genes was consistent across all soil sources, a large fraction of this response was differentially impacted by soil type. These results demonstrate the role of root microbiomes in sculpting the transcriptomes of host plants and highlight the potential involvement of the two main receptor families of the plant immune system in the recruitment and maintenance of an endosphere microbiome.
 
 [Source](https://doi.org/10.1111/nph.18261)
 
+10.1111/nph.18261
+
 ---
 
-## Water deficit affects inter-kingdom microbial connections in plant rhizosphere
+## Water deficit affects inter-kingdom microbial connections in plant rhizosphere.
+ 18.05.2022, _KE Bazany, JT Wang, M Delgado-Baquerizo, BK Singh, P Trivedi_
+
+
+The frequency and severity of drought are increasing due to anthropogenic climate change and are already limiting cropping system productivity in many regions around the world. Few microbial groups within plant microbiomes can potentially contribute towards the fitness and productivity of their hosts under abiotic stress events including water deficits. However, microbial communities are complex and integrative work considering the multiple co-existing groups of organisms is needed to better understand how the entire microbiome responds to environmental stresses. We hypothesize that water deficit stress will differentially shape bacterial, fungal, and protistan microbiome composition and influence inter-kingdom microbial interactions in the rhizospheres of corn and sugar beet. We used amplicon sequencing to profile bacterial, fungal, and protistan communities in corn and sugar beet rhizospheres grown under irrigated and water deficit conditions. The water deficit treatment had a stronger influence than host species on bacterial composition, whereas the opposite was true for protists. These results indicate that different microbial kingdoms have variable responses to environmental stress and host factors. Water deficit also influenced intra- and inter-kingdom microbial associations, wherein the protist taxa formed a separate cluster under water deficit conditions. Our findings help elucidate the influence of environmental and host drivers of bacterial, fungal, and protistan community assembly and co-occurrence in agricultural rhizosphere environments.
 
 [Source](https://doi.org/10.1111/1462-2920.16031)
+
+10.1111/1462-2920.16031
 
 ---
 
