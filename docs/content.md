@@ -1,218 +1,96 @@
-## Citizen-science reveals changes in the oral microbiome in Spain through age and lifestyle factors.
- 23.05.2022, _JR Willis, E Saus, S Iraola-Guzmán, E Ksiezopolska, L Cozzuto, LA Bejarano, N Andreu-Somavilla, M Alloza-Trabado, A Blanco, A Puig-Sola, E Broglio, C Carolis, J Ponomarenko, J Hecht, T Gabaldón_
+## Population bottlenecks constrain host microbiome diversity and genetic variation impeding fitness.
+ 23.05.2022, _M Ørsted, E Yashiro, AA Hoffmann, TN Kristensen_
 
 
-_Bacteria, Humans, Life Style, Microbiota, Middle Aged, Mouth, Spain_
-The relevance of the human oral microbiome to our understanding of human health has grown in recent years as microbiome studies continue to develop. Given the links of the oral cavity with the digestive, respiratory and circulatory systems, the composition of the oral microbiome is relevant beyond just oral health, impacting systemic processes across the body. However, we still have a very limited understanding about intrinsic and extrinsic factors that shape the composition of the healthy oral microbiome. Here, we followed a citizen-science approach to assess the relative impact on the oral microbiome of selected biological, social, and lifestyle factors in 1648 Spanish individuals. We found that the oral microbiome changes across age, with middle ages showing a more homogeneous composition, and older ages showing more diverse microbiomes with increased representation of typically low abundance taxa. By measuring differences within and between groups of individuals sharing a given parameter, we were able to assess the relative impact of different factors in driving specific microbial compositions. Chronic health disorders present in the analyzed population were the most impactful factors, followed by smoking and the presence of yeasts in the oral cavity. Finally, we corroborate findings in the literature that relatives tend to have more similar oral microbiomes, and show for the first time a similar effect for classmates. Multiple intrinsic and extrinsic factors jointly shape the oral microbiome. Comparative analysis of metabarcoding data from a large sample set allows us to disentangle the individual effects.
+It is becoming increasingly clear that microbial symbionts influence key aspects of their host's fitness, and vice versa. This may fundamentally change our thinking about how microbes and hosts interact in influencing fitness and adaptation to changing environments. Here we explore how reductions in population size commonly experienced by threatened species influence microbiome diversity. Consequences of such reductions are normally interpreted in terms of a loss of genetic variation, increased inbreeding and associated inbreeding depression. However, fitness effects of population bottlenecks might also be mediated through microbiome diversity, such as through loss of functionally important microbes. Here we utilise 50 Drosophila melanogaster lines with different histories of population bottlenecks to explore these questions. The lines were phenotyped for egg-to-adult viability and their genomes sequenced to estimate genetic variation. The bacterial 16S rRNA gene was amplified in these lines to investigate microbial diversity. We found that 1) host population bottlenecks constrained microbiome richness and diversity, 2) core microbiomes of hosts with low genetic variation were constituted from subsets of microbiomes found in flies with higher genetic variation, 3) both microbiome diversity and host genetic variation contributed to host population fitness, 4) connectivity and robustness of bacterial networks was low in the inbred lines regardless of host genetic variation, 5) reduced microbial diversity was associated with weaker evolutionary responses of hosts in stressful environments, and 6) these effects were unrelated to Wolbachia density. These findings suggest that population bottlenecks reduce hologenomic variation (combined host and microbial genetic variation). Thus, while the current biodiversity crisis focuses on population sizes and genetic variation of eukaryotes, an additional focal point should be the microbial diversity carried by the eukaryotes, which in turn may influence host fitness and adaptability with consequences for the persistence of populations.
 
-[Source](https://doi.org/10.1038/s41522-022-00279-y)
+[Source](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010206)
 
-10.1038/s41522-022-00279-y
-
----
-
-## Gut Microbiome Was Highly Related to the Regulation of Metabolism in Lung Adenocarcinoma Patients
-
-[Source](https://doi.org/10.3389/fonc.2022.790467)
+10.1371/journal.pgen.1010206
 
 ---
 
-## Host-Population Microbial Diversity Scaling of Chinese Gut Microbiomes in Gout Patients.
- 20.05.2022, _J Zhou, Y Yuan, P Xu, B Yi, H Chen, W Su_
+## Diversity, abundance, and host specificity of the human skin associated circular and single stranded DNA virome
 
-
-Gout is a prevalent chronic inflammatory disease that affects the life of tens of millions of people worldwide, and it typically presents as gout arthritis, gout stone, or even kidney damage. Research has revealed its connection with the gut microbiome, although exact mechanism is still unclear. Studies have shown the decline of microbiome diversity in gout patients and change of microbiome compositions between the gout patients and healthy controls. Nevertheless, how diversity changes across host individuals at a cohort (population) level has not been investigated to the best of our knowledge. Here we apply the diversity-area relationship (DAR), which is an extension to the classic SAR (species-area relationship) and establishes the power-function model between microbiome diversity and the number of individuals within cohort, to comparatively investigate diversity scaling (changes) of gut microbiome in gout patients and healthy controls. The DAR modeling with a study involving 83 subjects (41 gout patients) revealed that the potential number of microbial species in gout patients is only 70% of that in the healthy control (2790 vs 3900) although the difference may not be statistically significant. The other DAR parameters including diversity scaling and similarity parameters did not show statistically significant differences. We postulate that the high resilience of gut microbiome may explain the lack of significant gout-disease effects on gut microbial diversity at the population level. The lack of statistically significant difference between the gout patients and healthy controls at host population (cohort) level is different from the previous findings at individual level in the existing literature.
-
-[Source](https://doi.org/10.1177/11769343221095858)
-
-10.1177/11769343221095858
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.22.492996v1.abstract)
 
 ---
 
-## Combined Microbiome and Metabolome Analysis Reveals a Novel Interplay Between Intestinal Flora and Serum Metabolites in Lung Cancer.
- 20.05.2022, _S Chen, R Gui, XH Zhou, JH Zhang, HY Jiang, HT Liu, YF Fu_
+## Climate change, the cutaneous microbiome and skin disease: implications for a warming world.
+ 22.05.2022, _MF Isler, SJ Coates, MD Boos_
 
 
-_Feces, Gastrointestinal Microbiome, Humans, Lung Neoplasms, Metabolome, Quality of Life, RNA, Ribosomal, 16S, Valine_
-As the leading cause of cancer death, lung cancer seriously endangers human health and quality of life. Although many studies have reported the intestinal microbial composition of lung cancer, little is known about the interplay between intestinal microbiome and metabolites and how they affect the development of lung cancer. Herein, we combined 16S ribosomal RNA (rRNA) gene sequencing and liquid chromatography-mass spectrometry (LC-MS) technology to analyze intestinal microbiota composition and serum metabolism profile in a cohort of 30 lung cancer patients with different stages and 15 healthy individuals. Compared with healthy people, we found that the structure of intestinal microbiota in lung cancer patients had changed significantly (Adonis, p = 0.021). In order to determine how intestinal flora affects the occurrence and development of lung cancer, the Spearman rank correlation test was used to find the connection between differential microorganisms and differential metabolites. It was found that as thez disease progressed, L-valine decreased. Correspondingly, the abundance of Lachnospiraceae_UCG-006, the genus with the strongest association with L-valine, also decreased in lung cancer groups. Correlation analysis showed that the gut microbiome and serum metabolic profile had a strong synergy, and Lachnospiraceae_UCG-006 was closely related to L-valine. In summary, this study described the characteristics of intestinal flora and serum metabolic profiles of lung cancer patients with different stages. It revealed that lung cancer may be the result of the mutual regulation of L-valine and Lachnospiraceae_UCG-006 through the aminoacyl-tRNA biosynthesis pathway, and proposed that L-valine may be a potential marker for the diagnosis of lung cancer.
+The skin plays an important role in human health by providing barrier protection against environmental stressors. In addition to human skin cells, the cutaneous barrier is also home to a network of organisms that have co-evolved with humans, referred to as the cutaneous microbiome. This network has been demonstrated to play an active role in skin health and the manifestation of cutaneous disease. Here, we review how a warming world and its attendant changes in climatic variables, including temperature, humidity, ultraviolet radiation, and air pollution, influence the cutaneous microbiome and, in turn, skin health. Studies indicate that the cutaneous microbiome is affected by these factors, and these changes may influence the epidemiology and severity of cutaneous disorders including atopic dermatitis, acne vulgaris, psoriasis, and skin cancer. Further investigation into how the cutaneous microbiome changes in response to climate change and subsequently influences skin disease is needed to better anticipate future dermatologic needs and potentially generate novel therapeutic solutions in response.
 
-[Source](https://doi.org/10.3389/fcimb.2022.885093)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/ijd.16297)
 
-10.3389/fcimb.2022.885093
-
----
-
-## Decreased Diversity of Gut Microbiota Is Associated with Decreased Muscle Mass and Function in Older Adults Residing in a Nursing Home
-
-[Source](https://doi.org/10.1007/s12603-022-1792-x)
+10.1111/ijd.16297
 
 ---
 
-## The role of the mucin-glycan foraging <em>Ruminococcus gnavus</em> in the communication between the gut and the brain
+## Species- and strain-level assessment using rrn long-amplicons suggests donor's influence on gut microbial transference via fecal transplants in metabolic syndrome subjects.
+ 24.05.2022, _A Benítez-Páez, AV Hartstra, M Nieuwdorp, Y Sanz_
 
-[Source](https://doi.org/10.1080/19490976.2022.2073784)
 
----
+Fecal microbiota transplantation (FMT) is currently used for treating Clostridium difficile infection and explored for other clinical applications in experimental trials. However, the effectiveness of this therapy could vary, and partly depend on the donor's bacterial species engraftment, whose evaluation is challenging because there are no cost-effective strategies for accurately tracking the microbe transference. In this regard, the precise identification of bacterial species inhabiting the human gut is essential to define their role in human health unambiguously. We used Nanopore-based device to sequence bacterial rrn operons (16S-ITS-23S) and to reveal species-level abundance changes in the human gut microbiota of a FMT trial. By assessing the donor and recipient microbiota before and after FMT, we further evaluated whether this molecular approach reveals strain-level genetic variation to demonstrate microbe transfer and engraftment. Strict control over sequencing data quality and major microbiota covariates was critical for accurately estimating the changes in gut microbial species abundance in the recipients after FMT. We detected strain-level variation via single-nucleotide variants (SNVs) at rrn regions in a species-specific manner. We showed that it was possible to explore successfully the donor-bacterial strain (e.g., Parabacteroides merdae) engraftment in recipients of the FMT by assessing the nucleotide frequencies at rrn-associated SNVs. Our findings indicate that the engraftment of donors' microbiota is to some extent correlated with the improvement of metabolic health in recipients and that parameters such as the baseline gut microbiota configuration, sex, and age of donors should be considered to ensure the success of FMT in humans. The study was prospectively registered at the Dutch Trial registry - NTR4488 (https://www.trialregister.nl/trial/4488).
 
-## A compilation of fecal microbiome shotgun metagenomics from hematopoietic cell transplantation patients
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2078621)
 
-[Source](https://doi.org/10.1038/s41597-022-01302-9)
-
----
-
-## The gut microbiota: stable bioreactor of variable composition?
-
-[Source](https://doi.org/10.1016/j.tem.2022.04.005)
+10.1080/19490976.2022.2078621
 
 ---
 
-## Characterizing the mucin-degrading capacity of the human gut microbiota
+## Greater alteration of gut microbiota occurs in childhood obesity than adulthood obesity
 
-[Source](https://doi.org/10.1038/s41598-022-11819-z)
-
----
-
-## Mapping microbiome-redox spectrum and evaluating Microbial-Redox Index in chronic gastritis
-
-[Source](https://doi.org/10.1038/s41598-022-12431-x)
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.22.492992v1.abstract)
 
 ---
 
-## Endometrial microbiome: sampling, assessment, and possible impact on embryo implantation
+## Higher levels of Bifidobacteria and tumor necrosis factor in children with drug-resistant epilepsy are associated with anti-seizure response to the ketogenic diet
 
-[Source](https://doi.org/10.1038/s41598-022-12095-7)
-
----
-
-## Temporal relationship among adiposity, gut microbiota, and insulin resistance in a longitudinal human cohort
-
-[Source](https://doi.org/10.1186/s12916-022-02376-3)
+[Source](https://www.sciencedirect.com/science/article/pii/S2352396422002420)
 
 ---
 
-## The respiratory microbiome associated with chronic obstructive pulmonary disease comorbidity in non-small cell lung cancer
+## Towards Strain-Level Complexity: Sequencing Depth Required for Comprehensive Single-Nucleotide Polymorphism Analysis of the Human Gut Microbiome
 
-[Source](https://doi.org/10.1111/1759-7714.14463)
-
----
-
-## Cervicovaginal loads of <em>Gardnerella</em> spp. are increased in immunocompetent women with persistent high-risk human papillomavirus infection
-
-[Source](https://doi.org/10.1099/jmm.0.001527)
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2022.828254/full)
 
 ---
 
-## Dysbiotic relationship between arthritis and the oral-gut microbiome. A critical review
+## Comparative Gut Microbiome in Trachypithecus leucocephalus and Other Primates in Guangxi, China, Based on Metagenome Sequencing
 
-[Source](https://doi.org/10.1111/jre.13002)
-
----
-
-## Intestinal microbiota composition of children with infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and multisystem inflammatory syndrome (MIS-C)
-
-[Source](https://doi.org/10.1007/s00431-022-04494-9)
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2022.872841/full)
 
 ---
 
-## Super Dominant Pathobiontic Bacteria in the Nasopharyngeal Microbiota Cause Secondary Bacterial Infection in COVID-19 Patients
+## Bacterial Adaptation to Venom in Snakes and Arachnida
 
-[Source](https://doi.org/10.1128/spectrum.01956-21)
-
----
-
-## Increased Abundance of <em>Achromobacter xylosoxidans</em> and <em>Bacillus cereus</em> in Upper Airway Transcriptionally Active Microbiome of COVID-19 Mortality Patients Indicates Role of Co-Infections in Disease Severity and Outcome
-
-[Source](https://doi.org/10.1128/spectrum.02311-21)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.02408-21)
 
 ---
 
-## In vitro anti-tuberculosis effect of probiotic <em>Lacticaseibacillus rhamnosus</em> PMC203 isolated from vaginal microbiota
+## Recent advances in understanding of fungal and oomycete effectors
 
-[Source](https://doi.org/10.1038/s41598-022-12413-z)
-
----
-
-## Commensal bacteria-derived extracellular vesicles suppress ulcerative colitis through regulating the macrophages polarization and remodeling the gut microbiota
-
-[Source](https://doi.org/10.1186/s12934-022-01812-6)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1369526622000577)
 
 ---
 
-## Adaptation of the gut pathobiont <em>Enterococcus faecalis</em> to deoxycholate and taurocholate bile acids
+## Fungi associated with the potato taste defect in coffee beans from Rwanda
 
-[Source](https://doi.org/10.1038/s41598-022-12552-3)
-
----
-
-## The OmpA of commensal <em>Escherichia coli</em> of CRC patients affects apoptosis of the HCT116 colon cancer cell line
-
-[Source](https://doi.org/10.1186/s12866-022-02540-y)
+[Source](https://as-botanicalstudies.springeropen.com/articles/10.1186/s40529-022-00346-9)
 
 ---
 
-## Bee foraging preferences, microbiota and pathogens revealed by direct shotgun metagenomics of honey
+## Delineating the Bacteriome of Packaged and Loose Smokeless Tobacco Products Available in North India
 
-[Source](https://doi.org/10.1111/1755-0998.13626)
-
----
-
-## Time for a change! A spotlight on the many neglected facets of sponge microbial biotechnology
-
-[Source](https://doi.org/10.2174/1389201023666220516103715)
+[Source](https://link.springer.com/article/10.1007/s00253-022-11979-y)
 
 ---
 
-## Dietary wheat and reduced methane yield are linked to rumen microbiome changes in dairy cows
+## Diversity, distribution and ecology of fungal communities present in Antarctic lake sediments uncovered by DNA metabarcoding
 
-[Source](https://doi.org/10.1371/journal.pone.0268157)
-
----
-
-## Role of Insect Gut Microbiota in Pesticide Degradation: A Review
-
-[Source](https://doi.org/10.3389/fmicb.2022.870462)
-
----
-
-## The <em>Brassica napus</em> seed microbiota is cultivar-specific and transmitted via paternal breeding lines
-
-[Source](https://doi.org/10.1111/1751-7915.14077)
-
----
-
-## Assembly, Core Microbiota, and Function of the Rhizosphere Soil and Bark Microbiota in <em>Eucommia ulmoides</em>
-
-[Source](https://doi.org/10.3389/fmicb.2022.855317)
-
----
-
-## Acquisition of a complex root microbiome reshapes the transcriptomes of rice plants
-
-[Source](https://doi.org/10.1111/nph.18261)
-
----
-
-## Water deficit affects inter-kingdom microbial connections in plant rhizosphere
-
-[Source](https://doi.org/10.1111/1462-2920.16031)
-
----
-
-## Facilitating Reforestation Through the Plant Microbiome: Perspectives from the Phyllosphere
-
-[Source](https://doi.org/10.1146/annurev-phyto-021320-010717)
-
----
-
-## The standardisation of the approach to metagenomic human gut analysis: from sample collection to microbiome profiling
-
-[Source](https://doi.org/10.1038/s41598-022-12037-3)
-
----
-
-## Locality-Sensitive Hashing-Based k-Mer Clustering for Identification of Differential Microbial Markers Related to Host Phenotype
-
-[Source](https://doi.org/10.1089/cmb.2021.0640)
+[Source](https://www.nature.com/articles/s41598-022-12290-6)
 
 ---
 
