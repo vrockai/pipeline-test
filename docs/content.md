@@ -53,28 +53,15 @@ Fecal microbiota transplantation (FMT) is currently used for treating Clostridiu
 
 ---
 
-## Towards Strain-Level Complexity: Sequencing Depth Required for Comprehensive Single-Nucleotide Polymorphism Analysis of the Human Gut Microbiome.
- 24.05.2022, _P Liu, S Hu, Z He, C Feng, G Dong, S An, R Liu, F Xu, Y Chen, X Ying_
-
-
-Intestinal bacteria strains play crucial roles in maintaining host health. Researchers have increasingly recognized the importance of strain-level analysis in metagenomic studies. Many analysis tools and several cutting-edge sequencing techniques like single cell sequencing have been proposed to decipher strains in metagenomes. However, strain-level complexity is far from being well characterized up to date. As the indicator of strain-level complexity, metagenomic single-nucleotide polymorphisms (SNPs) have been utilized to disentangle conspecific strains. Lots of SNP-based tools have been developed to identify strains in metagenomes. However, the sufficient sequencing depth for SNP and strain-level analysis remains unclear. We conducted ultra-deep sequencing of the human gut microbiome and constructed an unbiased framework to perform reliable SNP analysis. SNP profiles of the human gut metagenome by ultra-deep sequencing were obtained. SNPs identified from conventional and ultra-deep sequencing data were thoroughly compared and the relationship between SNP identification and sequencing depth were investigated. The results show that the commonly used shallow-depth sequencing is incapable to support a systematic metagenomic SNP discovery. In contrast, ultra-deep sequencing could detect more functionally important SNPs, which leads to reliable downstream analyses and novel discoveries. We also constructed a machine learning model to provide guidance for researchers to determine the optimal sequencing depth for their projects (SNPsnp, https://github.com/labomics/SNPsnp). To conclude, the SNP profiles based on ultra-deep sequencing data extend current knowledge on metagenomics and highlights the importance of evaluating sequencing depth before starting SNP analysis. This study provides new ideas and references for future strain-level investigations.
+## Towards Strain-Level Complexity: Sequencing Depth Required for Comprehensive Single-Nucleotide Polymorphism Analysis of the Human Gut Microbiome
 
 [Source](https://www.frontiersin.org/articles/10.3389/fmicb.2022.828254/full)
 
-10.3389/fmicb.2022.828254
-
 ---
 
-## Comparative Gut Microbiome in Trachypithecus leucocephalus and Other Primates in Guangxi, China, Based on Metagenome Sequencing.
- 24.05.2022, _T Que, X Pang, H Huang, P Chen, Y Wei, Y Hua, H Liao, J Wu, S Li, A Wu, M He, X Ruan, Y Hu_
-
-
-_Animals, Calcium Carbonate, China, Colobinae, Gastrointestinal Microbiome, Metagenome_
-The Trachypithecus leucocephalus (white-headed langur) is a highly endangered, karst-endemic primate species, inhabiting the karst limestone forest in Guangxi, Southwest China. How white-headed langurs adapted to karst limestone and special dietary remains unclear. It is the first time to study the correlation between the gut microbiome of primates and special dietary, and environment in Guangxi. In the study, 150 fecal samples are collected from nine primates in Guangxi, China. Metagenomic sequencing is used to analyze and compare the gut microbiome composition and diversity between white-headed langurs and other primates. Our results indicate that white-headed langurs has a higher diversity of microbiome than other primates, and the key microbiome are phylum Firmicutes, class Clostridia, family Lachnospiraceae, and genera Clostridiates and Ruminococcus, which are related to the digestion and degradation of cellulose. Ten genera are significantly more abundant in white-headed langurs and François' langur than in other primates, most of which are high-temperature microbiome. Functional analysis reveals that energy synthesis-related pathways and sugar metabolism-related pathways are less abundant in white-headed langurs and François' langur than in other primates. This phenomenon could be an adaptation mechanism of leaf-eating primates to low-energy diet. The gut microbiome of white-headed langurs is related to diet and karst limestone environment. This study could serve as a reference to design conservation breeding, manage conservation units, and determine conservation priorities.
+## Comparative Gut Microbiome in Trachypithecus leucocephalus and Other Primates in Guangxi, China, Based on Metagenome Sequencing
 
 [Source](https://www.frontiersin.org/articles/10.3389/fcimb.2022.872841/full)
-
-10.3389/fcimb.2022.872841
 
 ---
 
