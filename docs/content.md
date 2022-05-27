@@ -53,9 +53,15 @@ Fecal microbiota transplantation (FMT) is currently used for treating Clostridiu
 
 ---
 
-## Towards Strain-Level Complexity: Sequencing Depth Required for Comprehensive Single-Nucleotide Polymorphism Analysis of the Human Gut Microbiome
+## Towards Strain-Level Complexity: Sequencing Depth Required for Comprehensive Single-Nucleotide Polymorphism Analysis of the Human Gut Microbiome.
+ 24.05.2022, _P Liu, S Hu, Z He, C Feng, G Dong, S An, R Liu, F Xu, Y Chen, X Ying_
+
+
+Intestinal bacteria strains play crucial roles in maintaining host health. Researchers have increasingly recognized the importance of strain-level analysis in metagenomic studies. Many analysis tools and several cutting-edge sequencing techniques like single cell sequencing have been proposed to decipher strains in metagenomes. However, strain-level complexity is far from being well characterized up to date. As the indicator of strain-level complexity, metagenomic single-nucleotide polymorphisms (SNPs) have been utilized to disentangle conspecific strains. Lots of SNP-based tools have been developed to identify strains in metagenomes. However, the sufficient sequencing depth for SNP and strain-level analysis remains unclear. We conducted ultra-deep sequencing of the human gut microbiome and constructed an unbiased framework to perform reliable SNP analysis. SNP profiles of the human gut metagenome by ultra-deep sequencing were obtained. SNPs identified from conventional and ultra-deep sequencing data were thoroughly compared and the relationship between SNP identification and sequencing depth were investigated. The results show that the commonly used shallow-depth sequencing is incapable to support a systematic metagenomic SNP discovery. In contrast, ultra-deep sequencing could detect more functionally important SNPs, which leads to reliable downstream analyses and novel discoveries. We also constructed a machine learning model to provide guidance for researchers to determine the optimal sequencing depth for their projects (SNPsnp, https://github.com/labomics/SNPsnp). To conclude, the SNP profiles based on ultra-deep sequencing data extend current knowledge on metagenomics and highlights the importance of evaluating sequencing depth before starting SNP analysis. This study provides new ideas and references for future strain-level investigations.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fmicb.2022.828254/full)
+
+10.3389/fmicb.2022.828254
 
 ---
 
