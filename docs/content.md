@@ -59,39 +59,77 @@ Fecal microbiota transplantation (FMT) is currently used for treating Clostridiu
 
 ---
 
-## Comparative Gut Microbiome in Trachypithecus leucocephalus and Other Primates in Guangxi, China, Based on Metagenome Sequencing
+## Comparative Gut Microbiome in Trachypithecus leucocephalus and Other Primates in Guangxi, China, Based on Metagenome Sequencing.
+ 24.05.2022, _T Que, X Pang, H Huang, P Chen, Y Wei, Y Hua, H Liao, J Wu, S Li, A Wu, M He, X Ruan, Y Hu_
+
+
+_Animals, Calcium Carbonate, China, Colobinae, Gastrointestinal Microbiome, Metagenome_
+The Trachypithecus leucocephalus (white-headed langur) is a highly endangered, karst-endemic primate species, inhabiting the karst limestone forest in Guangxi, Southwest China. How white-headed langurs adapted to karst limestone and special dietary remains unclear. It is the first time to study the correlation between the gut microbiome of primates and special dietary, and environment in Guangxi. In the study, 150 fecal samples are collected from nine primates in Guangxi, China. Metagenomic sequencing is used to analyze and compare the gut microbiome composition and diversity between white-headed langurs and other primates. Our results indicate that white-headed langurs has a higher diversity of microbiome than other primates, and the key microbiome are phylum Firmicutes, class Clostridia, family Lachnospiraceae, and genera Clostridiates and Ruminococcus, which are related to the digestion and degradation of cellulose. Ten genera are significantly more abundant in white-headed langurs and François' langur than in other primates, most of which are high-temperature microbiome. Functional analysis reveals that energy synthesis-related pathways and sugar metabolism-related pathways are less abundant in white-headed langurs and François' langur than in other primates. This phenomenon could be an adaptation mechanism of leaf-eating primates to low-energy diet. The gut microbiome of white-headed langurs is related to diet and karst limestone environment. This study could serve as a reference to design conservation breeding, manage conservation units, and determine conservation priorities.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fcimb.2022.872841/full)
 
+10.3389/fcimb.2022.872841
+
 ---
 
-## Bacterial Adaptation to Venom in Snakes and Arachnida
+## Bacterial Adaptation to Venom in Snakes and Arachnida.
+ 23.05.2022, _E Esmaeilishirazifard, L Usher, C Trim, H Denise, V Sangal, GH Tyson, A Barlow, KF Redway, JD Taylor, M Kremyda-Vlachou, S Davies, TD Loftus, MMG Lock, K Wright, A Dalby, LAS Snyder, W Wuster, S Trim, SA Moschos_
+
+
+Animal venoms are considered sterile sources of antimicrobial compounds with strong membrane-disrupting activity against multidrug-resistant bacteria. However, venomous bite wound infections are common in developing nations. Investigating the envenomation organ and venom microbiota of five snake and two spider species, we observed venom community structures that depend on the host venomous animal species and evidenced recovery of viable microorganisms from black-necked spitting cobra (Naja nigricollis) and Indian ornamental tarantula (Poecilotheria regalis) venoms. Among the bacterial isolates recovered from N. nigricollis, we identified two venom-resistant, novel sequence types of Enterococcus faecalis whose genomes feature 16 virulence genes, indicating infectious potential, and 45 additional genes, nearly half of which improve bacterial membrane integrity. Our findings challenge the dogma of venom sterility and indicate an increased primary infection risk in the clinical management of venomous animal bite wounds. IMPORTANCE Notwithstanding their 3 to 5% mortality, the 2.7 million envenomation-related injuries occurring annually-predominantly across Africa, Asia, and Latin America-are also major causes of morbidity. Venom toxin-damaged tissue will develop infections in some 75% of envenomation victims, with E. faecalis being a common culprit of disease; however, such infections are generally considered to be independent of envenomation. Here, we provide evidence on venom microbiota across snakes and arachnida and report on the convergent evolution mechanisms that can facilitate adaptation to black-necked cobra venom in two independent E. faecalis strains, easily misidentified by biochemical diagnostics. Therefore, since inoculation with viable and virulence gene-harboring bacteria can occur during envenomation, acute infection risk management following envenomation is warranted, particularly for immunocompromised and malnourished victims in resource-limited settings. These results shed light on how bacteria evolve for survival in one of the most extreme environments on Earth and how venomous bites must be also treated for infections.
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.02408-21)
 
+10.1128/spectrum.02408-21
+
 ---
 
-## Recent advances in understanding of fungal and oomycete effectors
+## Recent advances in understanding of fungal and oomycete effectors.
+ 25.05.2022, _RA Wilson, JM McDowell_
+
+
+Fungal and oomycete pathogens secrete complex arrays of proteins and small RNAs to interface with plant-host targets and manipulate plant regulatory networks to the microbes' advantage. Research on these important virulence factors has been accelerated by improved genome sequences, refined bioinformatic prediction tools, and exploitation of efficient platforms for understanding effector gene expression and function. Recent studies have validated the expectation that oomycetes and fungi target many of the same sectors in immune signaling networks, but the specific host plant targets and modes of action are diverse. Effector research has also contributed to deeper understanding of the mechanisms of effector-triggered immunity.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1369526622000577)
 
+10.1016/j.pbi.2022.102228
+
 ---
 
-## Fungi associated with the potato taste defect in coffee beans from Rwanda
+## Fungi associated with the potato taste defect in coffee beans from Rwanda.
+ 24.05.2022, _AR Hale, PM Ruegger, P Rolshausen, J Borneman, JI Yang_
+
+
+Potato taste defect (PTD) of coffee is characterized by a raw potato like smell that leads to a lower quality taste in the brewed coffee, and harms the commercial value of some East African coffees. Although several causes for PTD have been proposed, none of them have been confirmed. Recently, high throughput sequencing techniques and bioinformatic analysis have shown great potential for identifying putative causal agents of plant diseases. Toward the goal of determining the cause of PTD, we examined raw coffee beans from Rwanda exhibiting varying PTD scores using an Illumina-based sequence analysis of the fungal rRNA ITS region.
 
 [Source](https://as-botanicalstudies.springeropen.com/articles/10.1186/s40529-022-00346-9)
 
+10.1186/s40529-022-00346-9
+
 ---
 
-## Delineating the Bacteriome of Packaged and Loose Smokeless Tobacco Products Available in North India
+## Delineating the Bacteriome of Packaged and Loose Smokeless Tobacco Products Available in North India.
+ 23.05.2022, _S Srivastava, M Sajid, H Singh, M Bharadwaj_
+
+
+Smokeless tobacco product (STP) consumption is a significant public health threat across the globe. STPs are not only a storehouse of carcinogens and toxicants but also harbor microbes that aid in the conversion of tobacco alkaloids to carcinogenic tobacco-specific nitrosamines (TSNAs), thereby posing a further threat to the health of its consumers. The present study analyzed the bacterial diversity of popular dry and loose STPs by 16S rRNA gene sequencing. This NGS-based investigation revealed four dominant phyla Actinobacteria, Bacteroidetes, Firmicutes, and Proteobacteria and identified 549 genera, Prevotella, Bacteroides, and Lactobacillus constituting the core bacteriome of these STPs. The most significantly diverse bacteriome profile was displayed by the loose STP Mainpuri kapoori. The study further predicted the functional attributes of the prevalent genera by Phylogenetic Investigation of Communities by Reconstruction of Unobserved States (PICRUSt) algorithm. Genes encoding for nitrate and nitrite reduction and transport enzymes, antibiotic resistance, multi-drug transporters and efflux pumps, secretion of endo- and exotoxin, and other pro-inflammatory molecules were identified. The loose STPs showed the highest level of nitrogen metabolism genes which can contribute to the synthesis of TSNAs. This study reveals the bacteriome of Indian domestic loose STPs that stagger behind in manufacturing and storage stringencies. Our results raise an alarm that the consumption of STPs harboring pathogenic genera can potentially lead to the onset of several oral and systemic diseases. Nevertheless, an in-depth correlation analysis of the microbial diversity of STPs and their elicit impact on consumer health is warranted. KEY POINTS: • Smokeless tobacco harbors bacteria that aid in synthesis of carcinogenic nitrosamines. • Most diverse bacteriome profile was displayed by loose smokeless tobacco products. • Pathogenic genera in these products can harm the oral and systemic health of users.
 
 [Source](https://link.springer.com/article/10.1007/s00253-022-11979-y)
 
+10.1007/s00253-022-11979-y
+
 ---
 
-## Diversity, distribution and ecology of fungal communities present in Antarctic lake sediments uncovered by DNA metabarcoding
+## Diversity, distribution and ecology of fungal communities present in Antarctic lake sediments uncovered by DNA metabarcoding.
+ 23.05.2022, _LMD de Souza, JM Lirio, SH Coria, FAC Lopes, P Convey, M Carvalho-Silva, FS de Oliveira, CA Rosa, PEAS Câmara, LH Rosa_
+
+
+_Antarctic Regions, Ascomycota, Biodiversity, DNA, DNA Barcoding, Taxonomic, DNA, Fungal, Fungi, Lakes, Mycobiome_
+We assessed fungal diversity in sediments obtained from four lakes in the South Shetland Islands and James Ross Island, Antarctica, using DNA metabarcoding. We detected 218 amplicon sequence variants (ASVs) dominated by the phyla Ascomycota, Basidiomycota, Mortierellomycota, Mucoromycota and Chytridiomycota. In addition, the rare phyla Aphelidiomycota, Basidiobolomycota, Blastocladiomycota, Monoblepharomycota, Rozellomycota and Zoopagomycota as well as fungal-like Straminopila belonging to the phyla Bacillariophyta and Oomycota were detected. The fungal assemblages were dominated by unknown fungal taxa (Fungal sp. 1 and Fungal sp. 2), followed by Talaromyces rubicundus and Dactylonectria anthuriicola. In general, they displayed high diversity, richness and moderate dominance. Sequences representing saprophytic, pathogenic and symbiotic fungi were detected, including the phytopathogenic fungus D. anthuriicola that was abundant, in the relatively young Soto Lake on Deception Island. The lake sediments studied contained the DNA of rich, diverse and complex fungal communities, including both fungi commonly reported in Antarctica and other taxa considered to be rare. However, as the study was based on the use of environmental DNA, which does not unequivocally confirm the presence of active or viable organisms, further studies using other approaches such as shotgun sequencing are required to elucidate the ecology of fungi in these Antarctic lake sediments.
 
 [Source](https://www.nature.com/articles/s41598-022-12290-6)
+
+10.1038/s41598-022-12290-6
 
 ---
 
