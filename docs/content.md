@@ -168,15 +168,27 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis
+## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis.
+ 27.05.2022, _K Li, K Ly, S Mehta, A Braithwaite_
+
+
+The principal function of inflammation is cellular defence against 'danger signals' such as tissue injury and pathogen infection to maintain the homeostasis of the organism. The initiation and progression of inflammation are not autonomous as there is substantial evidence that inflammation is known to be strongly influenced by 'neuroimmune crosstalk', involving the production and expression of soluble signalling molecules that interact with cell surface receptors. In addition, microbiota have been found to be involved in the development and function of the nervous and immune systems and play an important role in health and disease. Herein, we provide an outline of the mechanisms of neuroimmune communication in the regulation of inflammation and immune response and then provide evidence for the involvement of microbiota in the development and functions of the host nervous and immune systems. It appears that the nervous and immune systems in multicellular organisms have co-evolved with the microbiota, such that all components are in communication to maximise the ability of the organism to adapt to a wide range of environmental stresses to maintain or restore tissue homeostasis.
 
 [Source](https://doi.org/10.1002/cti2.1394)
 
+10.1002/cti2.1394
+
 ---
 
-## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review
+## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review.
+ 27.05.2022, _AJ Kim, DS Hong, GC George_
+
+
+The general nutritional status of cancer patients could be a central determinant of cancer treatment-related toxicity and an indicator of cancer symptoms such as cancer-related cachexia and weight loss. This narrative scientific review covers the impact of dietary patterns (for example, Mediterranean diet, short-term fasting, ketogenic diet), dietary components (for example, fruits and vegetables, fish oils, turmeric/curcumin, dietary fiber, phytochemicals, vitamin/mineral dietary supplements), and the gut microbiota on symptoms, toxicities, and adverse events associated with cancer treatment. Although several studies have produced controversial or inconclusive results, some promising preclinical studies and initial clinical trials suggest that dietary interventions may alleviate certain cancer treatment-related symptoms and toxicities. Possible mechanisms by which dietary components may influence symptomatic and non-symptomatic toxicities during cancer treatment include through impacting inflammation, oxidative stress, muscle mass, cardiac health and regulating the gut microbiome. Current ongoing studies will continue to shed light on whether specific dietary interventions, with a special emphasis on the gut microbiota, are an effective method to improve cancer treatment outcomes. Future studies should examine the synergistic effects of combining different nutritional interventions and establish diet-related guidelines for cancer treatment.
 
 [Source](https://doi.org/10.1016/j.ctrv.2022.102408)
+
+10.1016/j.ctrv.2022.102408
 
 ---
 
@@ -216,9 +228,15 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle
+## Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle.
+ 27.05.2022, _AS Carranco, D Romo, M de Lourdes Torres, K Wilhelm, S Sommer, MAF Gillingham_
+
+
+Establishment and development of gut microbiota during vertebrates' early life are likely to be important predictors of health and fitness. Host-parental and host-environment interactions are essential to these processes. In oviparous reptiles whose nests represent a source of the parent's microbial inocula, the relative role of host-selection and stochastic environmental factors during gut microbial assemblage remains unknown. We sampled eggs incubated in artificial nests as well as hatchlings and juveniles (up to 30 days old) of the yellow-spotted Amazon river turtle (Podocnemis unifilis) developing in tubs filled with river water. We examined the relative role of the internal egg microbiota and the abiotic environment on hatchling and juvenile turtle's cloacal microbiota assemblages during the first 30 days of development. A mean of 71% of ASVs in hatched eggs could be traced to the nest environmental microbiota and in turn a mean of 77% of hatchlings' cloacal ASVs were traced to hatched eggs. Between day 5 and 20 of juvenile turtle's development, the river water environment plays a key role in the establishment of the gut microbiota (accounting for a mean of 13%-34.6% of cloacal ASVs) and strongly influences shifts in microbial diversity and abundance. After day 20, shifts in gut microbiota composition were mainly driven by host-selection processes. Therefore, colonization by environmental microbiota is key in the initial stages of establishing the host's gut microbiota which is subsequently shaped by host-selection processes. Our study provides a novel quantitative understanding of the host-environment interactions during gut microbial assemblage of oviparous reptiles.
 
 [Source](https://doi.org/10.1111/mec.16548)
+
+10.1111/mec.16548
 
 ---
 
