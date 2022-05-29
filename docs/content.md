@@ -162,9 +162,15 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Altered Gut Microbiome in Patients With Dermatomyositis
+## Altered Gut Microbiome in Patients With Dermatomyositis.
+ 26.05.2022, _SS Bae, TS Dong, J Wang, V Lagishetty, W Katzka, JP Jacobs, C Charles-Schoeman_
+
+
+The study objective was to compare the microbial composition of patients with dermatomyositis (DM) and healthy controls (HCs) and determine whether microbial alterations are associated with clinical manifestations of DM.
 
 [Source](https://doi.org/10.1002/acr2.11436)
+
+10.1002/acr2.11436
 
 ---
 
