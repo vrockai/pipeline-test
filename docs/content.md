@@ -210,9 +210,15 @@ The general nutritional status of cancer patients could be a central determinant
 
 ---
 
-## Amino acid-balanced diets improved DSS-induced colitis by alleviating inflammation and regulating gut microbiota
+## Amino acid-balanced diets improved DSS-induced colitis by alleviating inflammation and regulating gut microbiota.
+ 26.05.2022, _S Li, S Yang, Y Zhang, K Huang, T Liang, Y Chen, Y Guan, R Shang, T Guan, J Wu, Y Chen, X Guan_
+
+
+Inflammatory bowel disease (IBD) is a multifactorial chronic disease of the gastrointestinal tract. Dietary intervention in the treatment of IBD has gradually attracted more attention. In this study, amino acid-balanced diets (AABD) based on grains were developed and their influences on the regulation of IBD were investigated.
 
 [Source](https://doi.org/10.1007/s00394-022-02906-y)
+
+10.1007/s00394-022-02906-y
 
 ---
 
@@ -234,9 +240,15 @@ The general nutritional status of cancer patients could be a central determinant
 
 ---
 
-## Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle
+## Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle.
+ 27.05.2022, _AS Carranco, D Romo, M de Lourdes Torres, K Wilhelm, S Sommer, MAF Gillingham_
+
+
+Establishment and development of gut microbiota during vertebrates' early life are likely to be important predictors of health and fitness. Host-parental and host-environment interactions are essential to these processes. In oviparous reptiles whose nests represent a source of the parent's microbial inocula, the relative role of host-selection and stochastic environmental factors during gut microbial assemblage remains unknown. We sampled eggs incubated in artificial nests as well as hatchlings and juveniles (up to 30 days old) of the yellow-spotted Amazon river turtle (Podocnemis unifilis) developing in tubs filled with river water. We examined the relative role of the internal egg microbiota and the abiotic environment on hatchling and juvenile turtle's cloacal microbiota assemblages during the first 30 days of development. A mean of 71% of ASVs in hatched eggs could be traced to the nest environmental microbiota and in turn a mean of 77% of hatchlings' cloacal ASVs were traced to hatched eggs. Between day 5 and 20 of juvenile turtle's development, the river water environment plays a key role in the establishment of the gut microbiota (accounting for a mean of 13%-34.6% of cloacal ASVs) and strongly influences shifts in microbial diversity and abundance. After day 20, shifts in gut microbiota composition were mainly driven by host-selection processes. Therefore, colonization by environmental microbiota is key in the initial stages of establishing the host's gut microbiota which is subsequently shaped by host-selection processes. Our study provides a novel quantitative understanding of the host-environment interactions during gut microbial assemblage of oviparous reptiles.
 
 [Source](https://doi.org/10.1111/mec.16548)
+
+10.1111/mec.16548
 
 ---
 
