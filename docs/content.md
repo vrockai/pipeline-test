@@ -174,15 +174,27 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Altered Gut Microbiome in Patients With Dermatomyositis
+## Altered Gut Microbiome in Patients With Dermatomyositis.
+ 26.05.2022, _SS Bae, TS Dong, J Wang, V Lagishetty, W Katzka, JP Jacobs, C Charles-Schoeman_
+
+
+The study objective was to compare the microbial composition of patients with dermatomyositis (DM) and healthy controls (HCs) and determine whether microbial alterations are associated with clinical manifestations of DM.
 
 [Source](https://doi.org/10.1002/acr2.11436)
 
+10.1002/acr2.11436
+
 ---
 
-## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis
+## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis.
+ 27.05.2022, _K Li, K Ly, S Mehta, A Braithwaite_
+
+
+The principal function of inflammation is cellular defence against 'danger signals' such as tissue injury and pathogen infection to maintain the homeostasis of the organism. The initiation and progression of inflammation are not autonomous as there is substantial evidence that inflammation is known to be strongly influenced by 'neuroimmune crosstalk', involving the production and expression of soluble signalling molecules that interact with cell surface receptors. In addition, microbiota have been found to be involved in the development and function of the nervous and immune systems and play an important role in health and disease. Herein, we provide an outline of the mechanisms of neuroimmune communication in the regulation of inflammation and immune response and then provide evidence for the involvement of microbiota in the development and functions of the host nervous and immune systems. It appears that the nervous and immune systems in multicellular organisms have co-evolved with the microbiota, such that all components are in communication to maximise the ability of the organism to adapt to a wide range of environmental stresses to maintain or restore tissue homeostasis.
 
 [Source](https://doi.org/10.1002/cti2.1394)
+
+10.1002/cti2.1394
 
 ---
 
@@ -210,9 +222,15 @@ The general nutritional status of cancer patients could be a central determinant
 
 ---
 
-## Amino acid-balanced diets improved DSS-induced colitis by alleviating inflammation and regulating gut microbiota
+## Amino acid-balanced diets improved DSS-induced colitis by alleviating inflammation and regulating gut microbiota.
+ 26.05.2022, _S Li, S Yang, Y Zhang, K Huang, T Liang, Y Chen, Y Guan, R Shang, T Guan, J Wu, Y Chen, X Guan_
+
+
+Inflammatory bowel disease (IBD) is a multifactorial chronic disease of the gastrointestinal tract. Dietary intervention in the treatment of IBD has gradually attracted more attention. In this study, amino acid-balanced diets (AABD) based on grains were developed and their influences on the regulation of IBD were investigated.
 
 [Source](https://doi.org/10.1007/s00394-022-02906-y)
+
+10.1007/s00394-022-02906-y
 
 ---
 
