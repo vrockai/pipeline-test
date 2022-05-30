@@ -174,39 +174,21 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Altered Gut Microbiome in Patients With Dermatomyositis.
- 26.05.2022, _SS Bae, TS Dong, J Wang, V Lagishetty, W Katzka, JP Jacobs, C Charles-Schoeman_
-
-
-The study objective was to compare the microbial composition of patients with dermatomyositis (DM) and healthy controls (HCs) and determine whether microbial alterations are associated with clinical manifestations of DM.
+## Altered Gut Microbiome in Patients With Dermatomyositis
 
 [Source](https://doi.org/10.1002/acr2.11436)
 
-10.1002/acr2.11436
-
 ---
 
-## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis.
- 27.05.2022, _K Li, K Ly, S Mehta, A Braithwaite_
-
-
-The principal function of inflammation is cellular defence against 'danger signals' such as tissue injury and pathogen infection to maintain the homeostasis of the organism. The initiation and progression of inflammation are not autonomous as there is substantial evidence that inflammation is known to be strongly influenced by 'neuroimmune crosstalk', involving the production and expression of soluble signalling molecules that interact with cell surface receptors. In addition, microbiota have been found to be involved in the development and function of the nervous and immune systems and play an important role in health and disease. Herein, we provide an outline of the mechanisms of neuroimmune communication in the regulation of inflammation and immune response and then provide evidence for the involvement of microbiota in the development and functions of the host nervous and immune systems. It appears that the nervous and immune systems in multicellular organisms have co-evolved with the microbiota, such that all components are in communication to maximise the ability of the organism to adapt to a wide range of environmental stresses to maintain or restore tissue homeostasis.
+## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis
 
 [Source](https://doi.org/10.1002/cti2.1394)
 
-10.1002/cti2.1394
-
 ---
 
-## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review.
- 27.05.2022, _AJ Kim, DS Hong, GC George_
-
-
-The general nutritional status of cancer patients could be a central determinant of cancer treatment-related toxicity and an indicator of cancer symptoms such as cancer-related cachexia and weight loss. This narrative scientific review covers the impact of dietary patterns (for example, Mediterranean diet, short-term fasting, ketogenic diet), dietary components (for example, fruits and vegetables, fish oils, turmeric/curcumin, dietary fiber, phytochemicals, vitamin/mineral dietary supplements), and the gut microbiota on symptoms, toxicities, and adverse events associated with cancer treatment. Although several studies have produced controversial or inconclusive results, some promising preclinical studies and initial clinical trials suggest that dietary interventions may alleviate certain cancer treatment-related symptoms and toxicities. Possible mechanisms by which dietary components may influence symptomatic and non-symptomatic toxicities during cancer treatment include through impacting inflammation, oxidative stress, muscle mass, cardiac health and regulating the gut microbiome. Current ongoing studies will continue to shed light on whether specific dietary interventions, with a special emphasis on the gut microbiota, are an effective method to improve cancer treatment outcomes. Future studies should examine the synergistic effects of combining different nutritional interventions and establish diet-related guidelines for cancer treatment.
+## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review
 
 [Source](https://doi.org/10.1016/j.ctrv.2022.102408)
-
-10.1016/j.ctrv.2022.102408
 
 ---
 
@@ -222,15 +204,9 @@ The general nutritional status of cancer patients could be a central determinant
 
 ---
 
-## Amino acid-balanced diets improved DSS-induced colitis by alleviating inflammation and regulating gut microbiota.
- 26.05.2022, _S Li, S Yang, Y Zhang, K Huang, T Liang, Y Chen, Y Guan, R Shang, T Guan, J Wu, Y Chen, X Guan_
-
-
-Inflammatory bowel disease (IBD) is a multifactorial chronic disease of the gastrointestinal tract. Dietary intervention in the treatment of IBD has gradually attracted more attention. In this study, amino acid-balanced diets (AABD) based on grains were developed and their influences on the regulation of IBD were investigated.
+## Amino acid-balanced diets improved DSS-induced colitis by alleviating inflammation and regulating gut microbiota
 
 [Source](https://doi.org/10.1007/s00394-022-02906-y)
-
-10.1007/s00394-022-02906-y
 
 ---
 
@@ -252,15 +228,9 @@ Inflammatory bowel disease (IBD) is a multifactorial chronic disease of the gast
 
 ---
 
-## Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle.
- 27.05.2022, _AS Carranco, D Romo, M de Lourdes Torres, K Wilhelm, S Sommer, MAF Gillingham_
-
-
-Establishment and development of gut microbiota during vertebrates' early life are likely to be important predictors of health and fitness. Host-parental and host-environment interactions are essential to these processes. In oviparous reptiles whose nests represent a source of the parent's microbial inocula, the relative role of host-selection and stochastic environmental factors during gut microbial assemblage remains unknown. We sampled eggs incubated in artificial nests as well as hatchlings and juveniles (up to 30 days old) of the yellow-spotted Amazon river turtle (Podocnemis unifilis) developing in tubs filled with river water. We examined the relative role of the internal egg microbiota and the abiotic environment on hatchling and juvenile turtle's cloacal microbiota assemblages during the first 30 days of development. A mean of 71% of ASVs in hatched eggs could be traced to the nest environmental microbiota and in turn a mean of 77% of hatchlings' cloacal ASVs were traced to hatched eggs. Between day 5 and 20 of juvenile turtle's development, the river water environment plays a key role in the establishment of the gut microbiota (accounting for a mean of 13%-34.6% of cloacal ASVs) and strongly influences shifts in microbial diversity and abundance. After day 20, shifts in gut microbiota composition were mainly driven by host-selection processes. Therefore, colonization by environmental microbiota is key in the initial stages of establishing the host's gut microbiota which is subsequently shaped by host-selection processes. Our study provides a novel quantitative understanding of the host-environment interactions during gut microbial assemblage of oviparous reptiles.
+## Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle
 
 [Source](https://doi.org/10.1111/mec.16548)
-
-10.1111/mec.16548
 
 ---
 
@@ -270,45 +240,21 @@ Establishment and development of gut microbiota during vertebrates' early life a
 
 ---
 
-## Comparative Analyses of Scylla olivacea Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis.
- 26.05.2022, _NS Lau, SY Ting, KK Sam, J M, SC Wong, X Wu, K Waiho, H Fazhan, AC Shu-Chien_
-
-
-Although numerous studies in aquatic organisms have linked lipid metabolism with intestinal bacterial structure, the possibility of the gut microbiota participating in the biosynthesis of beneficial long-chain polyunsaturated fatty acid (LC-PUFA) remains vague. We profiled the gut microbiota of the mud crab Scylla olivacea fed with either a LC-PUFA rich (FO) or a LC-PUFA-poor but C18-PUFA substrate-rich (LOCO) diet. Additionally, a diet with a similar profile as LOCO but with the inclusion of an antibiotic, oxolinic acid (LOCOAB), was also used to further demarcate the possibility of LC-PUFA biosynthesis in gut microbiota. Compared to diet FO treatment, crabs fed diet LOCO contained a higher proportion of Proteobacteria, notably two known taxonomy groups with PUFA biosynthesis capacity, Vibrio and Shewanella. Annotation of metagenomic datasets also revealed enrichment in the KEGG pathway of unsaturated fatty acid biosynthesis and polyketide synthase-like system sequences with this diet. Intriguingly, diet LOCOAB impeded the presence of Vibrio and Shewanella and with it, the function of unsaturated fatty acid biosynthesis. However, there was an increase in the function of short-chain fatty acid production, accompanied by a shift towards the abundance of phyla Bacteroidota and Spirochaetota. Collectively, these results exemplified bacterial communities and their corresponding PUFA biosynthesis pathways in the microbiota of an aquatic crustacean species.
-
-[Source](https://doi.org/10.1007/s00248-022-02046-0)
-
-10.1007/s00248-022-02046-0
-
----
-
 ## Comparative Analyses of <em>Scylla olivacea </em>Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis
 
 [Source](https://doi.org/10.1007/s00248-022-02046-0)
 
 ---
 
-## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates.
- 26.05.2022, _G Huang, Q Qu, M Wang, M Huang, W Zhou, F Wei_
-
-
-Multiple factors influence gut microbiome diversity in vertebrate hosts. Most previous studies have only investigated specific factors and certain host species or taxa. However, a comprehensive assessment of the relative contributions of individual factors towards gut microbial diversity within a broader evolutionary context remains lacking. Here, 2202 16S rRNA gene sequencing samples of gut bacterial communities collected from 452 host species across seven classes were analyzed together to understand the factors broadly affecting vertebrate gut microbiomes across hosts with different diets, threatened status, captivity status, and habitat environmental factors. Among wild vertebrates, diet was most significantly associated with gut microbiome alpha diversity, while host phylogeny and diet were significantly associated with beta diversity, consistent with a previous study. Host threatened status and habitat environmental factors (e.g., geography and climate) were also associated with gut bacterial community beta diversity. Subsequent ecological modeling revealed a strong association between stochastic assembly processes and patterns of gut bacterial diversity among free-ranging vertebrates. In addition, metagenomic analysis of gut microbiomes from 62 captive vertebrates and sympatric humans revealed similar diversity and resistome profiles despite differences in host phylogeny, diet, and threatened status. These results thus suggest that captivity diminishes the effects of host phylogeny, diet, and threatened status on the diversity of vertebrate gut bacterial communities. The most overrepresented antibiotic resistant genes (ARGs) observed in these samples are involved in resistance to β-lactams, aminoglycosides, and tetracycline. These results also revealed potential horizontal transfers of ARGs between captive animals and humans, thereby jointly threatening public health and vertebrate conservation. Together, this study provides a comprehensive overview of the diversity and resistomes of vertebrate gut microbiomes. These combined analyses will help guide future vertebrate conservation via the rational manipulation of microbial diversity and reducing antibiotic usage.
+## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.156178)
 
-10.1016/j.scitotenv.2022.156178
-
 ---
 
-## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical.
- 26.05.2022, _D Kumar, MK Lal, S Dutt, P Raigond, SS Changan, RK Tiwari, KN Chourasia, V Mangal, B Singh_
-
-
-The current trend of health-conscious consumers and healthy food habits prompted researchers to explore developing food products with synbiotic benefits. Synbiotic foods have gained popularity in recent years due to their functional, nutritional, physiological, and therapeutic characteristics. Lactose intolerance, dyslipidaemia, and allergic milk proteins became the barriers in the development of dairy probiotics. The present scenario of an increase in the demand for vegetarian products led to a rise in the consumption of non-dairy probiotics. Prebiotics like, resistant starch, inulin, and polyphenols are selectively used by gut microbiota to enhance the selection and colonisation of probiotics bacteria. Probiotic's action mechanisms include the production of bacteriocins, peptides, short-chain fatty acids, amino acids, vitamins and other metabolites. Therefore, this review article explores the alternative sources of probiotics so it will help to an understanding of non-dairy based functional fermented foods for both pro and prebiotics. We also addressed dietary fibres in vegetables, fruits, and cereals are one of prospective prebiotics and highlighted the various methods for making non-dairy synbiotics based on dietary fibres, such as microencapsulation, freeze-drying, and spray drying. This article is protected by copyright. All rights reserved.
+## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical
 
 [Source](https://doi.org/10.1002/mnfr.202101059)
-
-10.1002/mnfr.202101059
 
 ---
 
@@ -318,27 +264,15 @@ The current trend of health-conscious consumers and healthy food habits prompted
 
 ---
 
-## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice.
- 26.05.2022, _X Yan, Y Zhai, W Zhou, Y Qiao, L Guan, H Liu, J Jiang, L Peng_
-
-
-Intestinal flora plays a critical role in the development of diet-induced obesity and related metabolic complications. Rutin is a natural flavonoid with potential prebiotic effects on regulating the intestinal flora composition that is beneficial for host health. Therefore, we hypothesized that rutin supplementation has beneficial effects on high-fat-diet (HFD)-induced obesity and metabolic disorder through the modulation of intestinal flora in mice.
+## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice
 
 [Source](https://doi.org/10.1002/mnfr.202100948)
 
-10.1002/mnfr.202100948
-
 ---
 
-## Multi-Probiotics ameliorate Major depressive disorder and accompanying gastrointestinal syndromes via serotonergic system regulation.
- 26.05.2022, _P Tian, R Zou, L Wang, Y Chen, X Qian, J Zhao, H Zhang, L Qian, Q Wang, G Wang, W Chen_
-
-
-Major depressive disorder (MDD) is a leading global psychiatric disease. MDD is highly comorbid with gastrointestinal abnormalities, such as gut motility dysfunction. An effective strategy to manage depression and its accompanying gastrointestinal symptoms is warranted.
+## Multi-Probiotics ameliorate Major depressive disorder and accompanying gastrointestinal syndromes via serotonergic system regulation
 
 [Source](https://doi.org/10.1016/j.jare.2022.05.003)
-
-10.1016/j.jare.2022.05.003
 
 ---
 
@@ -348,15 +282,9 @@ Major depressive disorder (MDD) is a leading global psychiatric disease. MDD is 
 
 ---
 
-## Deciphering core phyllomicrobiome assemblage on rice genotypes grown in contrasting agroclimatic zones: implications for phyllomicrobiome engineering against blast disease.
- 26.05.2022, _KP Sahu, A Kumar, K Sakthivel, B Reddy, M Kumar, A Patel, N Sheoran, S Gopalakrishnan, G Prakash, R Rathour, RK Gautam_
-
-
-With its adapted microbial diversity, the phyllosphere contributes microbial metagenome to the plant holobiont and modulates a host of ecological functions. Phyllosphere microbiome (hereafter termed phyllomicrobiome) structure and the consequent ecological functions are vulnerable to a host of biotic (Genotypes) and abiotic factors (Environment) which is further compounded by agronomic transactions. However, the ecological forces driving the phyllomicrobiome assemblage and functions are among the most understudied aspects of plant biology. Despite the reports on the occurrence of diverse prokaryotic phyla such as Proteobacteria, Firmicutes, Bacteroides, and Actinobacteria in phyllosphere habitat, the functional characterization leading to their utilization for agricultural sustainability is not yet explored. Currently, the metabarcoding by Next-Generation-Sequencing (mNGS) technique is a widely practised strategy for microbiome investigations. However, the validation of mNGS annotations by culturomics methods is not integrated with the microbiome exploration program. In the present study, we combined the mNGS with culturomics to decipher the core functional phyllomicrobiome of rice genotypes varying for blast disease resistance planted in two agroclimatic zones in India. There is a growing consensus among the various stakeholder of rice farming for an ecofriendly method of disease management. Here, we proposed phyllomicrobiome assisted rice blast management as a novel strategy for rice farming in the future.
+## Deciphering core phyllomicrobiome assemblage on rice genotypes grown in contrasting agroclimatic zones: implications for phyllomicrobiome engineering against blast disease
 
 [Source](https://doi.org/10.1186/s40793-022-00421-5)
-
-10.1186/s40793-022-00421-5
 
 ---
 
