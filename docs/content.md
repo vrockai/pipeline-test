@@ -65,27 +65,39 @@ Gut bacteria influence the brain and behavior, but causation in humans remains u
 
 ---
 
-## Modulating brain function with microbiota.
- 26.05.2022, _JA Foster_
+## Production of Indole and Indole-Related Compounds by the Intestinal Microbiota and Consequences for the Host: The Good, the Bad, and the Ugly.
+ 28.05.2022, _N Tennoune, M Andriamihaja, F Blachier_
 
 
-Microbial metabolites identified in animal models and human neurological diseases could be therapeutic targets.
+The intestinal microbiota metabolic activity towards the available substrates generates myriad bacterial metabolites that may accumulate in the luminal fluid. Among them, indole and indole-related compounds are produced by specific bacterial species from tryptophan. Although indole-related compounds are, first, involved in intestinal microbial community communication, these molecules are also active on the intestinal mucosa, exerting generally beneficial effects in different experimental situations. After absorption, indole is partly metabolized in the liver into the co-metabolite indoxyl sulfate. Although some anti-inflammatory actions of indole on liver cells have been shown, indoxyl sulfate is a well-known uremic toxin that aggravates chronic kidney disease, through deleterious effects on kidney cells. Indoxyl sulfate is also known to provoke endothelial dysfunction. Regarding the central nervous system, emerging research indicates that indole at excessive concentrations displays a negative impact on emotional behavior. The indole-derived co-metabolite isatin appears, in pre-clinical studies, to accumulate in the brain, modulating brain function either positively or negatively, depending on the doses used. Oxindole, a bacterial metabolite that enters the brain, has shown deleterious effects on the central nervous system in experimental studies. Lastly, recent studies performed with indoxyl sulfate report either beneficial or deleterious effects depending once again on the dose used, with missing information on the physiological concentrations that are reaching the central nervous system. Any intervention aiming at modulating indole and indole-related compound concentrations in the biological fluids should crucially take into account the dual effects of these compounds according to the host tissues considered.
 
 [Source](https://doi.org/10.1126/science.abo4220)
 
-10.1126/science.abo4220
+10.3390/microorganisms10050930
 
 ---
 
-## The effects of oral microbiota on health.
- 26.05.2022, _T Tuganbaev, K Yoshida, K Honda_
+## Modulating brain function with microbiota
+
+[Source](https://doi.org/10.1126/science.abo4220)
+
+---
+
+## Metagenomic Analysis Reveals a Mitigating Role for Lactobacillus paracasei and Bifidobacterium animalis in Experimental Periodontitis.
+ 28.05.2022, _F Wu, B Fang, G Wuri, L Zhao, F Liu, M Zhang_
 
 
-Oral microbiota form complex biofilms that can affect local and systemic health.
+Probiotics have aroused increasing concern as an intervention strategy for periodontitis (PD), but their underlying mechanism of action remains poorly characterized. Regarding the significance of oral microbiota dysbiosis related to PD, we predicted that the preventive activity of probiotics may be influenced by suppressing the bacterial pathogenicity. Herein, we investigated the effects of Lactobacillus paracasei L9 (L9) and Bifidobacterium animalis A6 (A6) on PD using a rat model, and demonstrated a regulatory effect of probiotics on oral flora from a metagenomics perspective. Oral administration of A6 or L9 effectively relieved gingival bleeding, periodontal inflammatory infiltration, and alveolar bone resorption. In addition, A6 or L9 treatment reduced the inflammatory response and increased the expression of anti-inflammatory cytokines, which we expected to ameliorate alveolar bone resorption as mediated by the receptor activator of the nuclear factor-κB ligand/OPG signaling pathway. More importantly, using metagenomic sequencing, we showed that probiotics significantly altered the taxonomic composition of the subgingival microbiome, and reduced the relative proportions of pathogenic bacterial genera such as Streptococcus, Fusobacterium, Veillonella, and Escherichia. Both probiotics significantly inhibited levels of bacterial virulence factors related to adherence, invasion, exoenzyme, and complement protease functions that are strongly correlated with the pathogenesis of PD. Our overall results suggest that A6 and L9 may constitute promising prophylactic agents for PD, and should thus be further explored in the future.
 
 [Source](https://doi.org/10.1126/science.abn1890)
 
-10.1126/science.abn1890
+10.3390/nu14102125
+
+---
+
+## The effects of oral microbiota on health
+
+[Source](https://doi.org/10.1126/science.abn1890)
 
 ---
 
@@ -168,27 +180,15 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis.
- 27.05.2022, _K Li, K Ly, S Mehta, A Braithwaite_
-
-
-The principal function of inflammation is cellular defence against 'danger signals' such as tissue injury and pathogen infection to maintain the homeostasis of the organism. The initiation and progression of inflammation are not autonomous as there is substantial evidence that inflammation is known to be strongly influenced by 'neuroimmune crosstalk', involving the production and expression of soluble signalling molecules that interact with cell surface receptors. In addition, microbiota have been found to be involved in the development and function of the nervous and immune systems and play an important role in health and disease. Herein, we provide an outline of the mechanisms of neuroimmune communication in the regulation of inflammation and immune response and then provide evidence for the involvement of microbiota in the development and functions of the host nervous and immune systems. It appears that the nervous and immune systems in multicellular organisms have co-evolved with the microbiota, such that all components are in communication to maximise the ability of the organism to adapt to a wide range of environmental stresses to maintain or restore tissue homeostasis.
+## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis
 
 [Source](https://doi.org/10.1002/cti2.1394)
 
-10.1002/cti2.1394
-
 ---
 
-## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review.
- 27.05.2022, _AJ Kim, DS Hong, GC George_
-
-
-The general nutritional status of cancer patients could be a central determinant of cancer treatment-related toxicity and an indicator of cancer symptoms such as cancer-related cachexia and weight loss. This narrative scientific review covers the impact of dietary patterns (for example, Mediterranean diet, short-term fasting, ketogenic diet), dietary components (for example, fruits and vegetables, fish oils, turmeric/curcumin, dietary fiber, phytochemicals, vitamin/mineral dietary supplements), and the gut microbiota on symptoms, toxicities, and adverse events associated with cancer treatment. Although several studies have produced controversial or inconclusive results, some promising preclinical studies and initial clinical trials suggest that dietary interventions may alleviate certain cancer treatment-related symptoms and toxicities. Possible mechanisms by which dietary components may influence symptomatic and non-symptomatic toxicities during cancer treatment include through impacting inflammation, oxidative stress, muscle mass, cardiac health and regulating the gut microbiome. Current ongoing studies will continue to shed light on whether specific dietary interventions, with a special emphasis on the gut microbiota, are an effective method to improve cancer treatment outcomes. Future studies should examine the synergistic effects of combining different nutritional interventions and establish diet-related guidelines for cancer treatment.
+## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review
 
 [Source](https://doi.org/10.1016/j.ctrv.2022.102408)
-
-10.1016/j.ctrv.2022.102408
 
 ---
 
