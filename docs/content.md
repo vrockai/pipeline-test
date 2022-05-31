@@ -18,9 +18,10 @@ The present Editorial derives from the Special Issue "New Insights into Cow's Mi
 ---
 
 ## Microbiota and maintenance of skin barrier function.
- 26.05.2022, _TA Harris-Tryon, EA Grice_
+ 30.05.2022, _TA Harris-Tryon, EA Grice_
 
 
+_Epithelium, Host Microbial Interactions, Humans, Microbiota, Skin_
 Human skin forms a protective barrier against the external environment and is our first line of defense against toxic, solar, and pathogenic insults. Our skin also defines our outward appearance, protects our internal tissues and organs, acts as a sensory interface, and prevents dehydration. Crucial to the skin's barrier function is the colonizing microbiota, which provides protection against pathogens, tunes immune responses, and fortifies the epithelium. Here we highlight recent advances in our understanding of how the microbiota mediates multiple facets of skin barrier function. We discuss recent insights into pathological host-microbiota interactions and implications for disorders of the skin and distant organs. Finally, we examine how microbiota-based mechanisms can be targeted to prevent or manage skin disorders and impaired wound healing.
 
 [Source](https://doi.org/10.1126/science.abo0693)
@@ -30,9 +31,10 @@ Human skin forms a protective barrier against the external environment and is ou
 ---
 
 ## Local barriers configure systemic communications between the host and microbiota.
- 26.05.2022, _Q Lu, TS Stappenbeck_
+ 30.05.2022, _Q Lu, TS Stappenbeck_
 
 
+_Bacteria, Communication, Fungi, Host Microbial Interactions, Microbiota_
 Associations between the dynamic community of microbes (the microbiota) and the host they colonize appear to be vital for ensuring host health. Microbe-host communication is actively maintained across physiological barriers of various body sites and is mediated by a range of bidirectional secreted proteins and small molecules. So far, a range of "omics" methods have succeeded in revealing the multiplicity of associations between members of a microbiota and a wide range of host processes and diseases. Although these advances point to possibilities for treating disease, there has not been much translational success thus far. We know little about which organisms are key contributors to host health, the importance of strain differences, and the activities of much of the chemical "soup" that is produced by the microbiota. Adding to this complexity are emerging hints of the role of interkingdom interactions between bacteria, phages, protozoa, and/or fungi in regulating the microbiota-host interactions. Functional approaches, although experimentally challenging, could be the next step to unlocking the power of the microbiota.
 
 [Source](https://doi.org/10.1126/science.abo2366)
@@ -42,9 +44,10 @@ Associations between the dynamic community of microbes (the microbiota) and the 
 ---
 
 ## Immune-microbe interactions early in life: A determinant of health and disease long term.
- 26.05.2022, _P Brodin_
+ 30.05.2022, _P Brodin_
 
 
+_Environmental Exposure, Gastrointestinal Microbiome, Humans, Infant, Newborn, Microbial Interactions, Microbiota, Symbiosis_
 Research on newborn immunity has revealed the importance of cell ontogeny, feto-maternal tolerance, and the transfer of maternal antibodies. Less is known about postnatal adaptation to environmental exposures. The microbiome and its importance for health have been extensively studied, but it remains unclear how mutually beneficial relationships between commensal microbes and human cells first arise and are maintained throughout life. Such immune-microbe mutualism, and perturbations thereof, is most likely a root cause of increasing incidences of immune-mediated disorders such as allergies and autoimmunity across many industrialized nations during the past century. In this Review, I discuss our current understanding of immune development and propose that mismatches among ancestral, early-life, and adult environments can explain perturbations to immune-microbe interactions, immune dysregulation, and increased risks of immune-mediated diseases.
 
 [Source](https://doi.org/10.1126/science.abk2189)
@@ -54,9 +57,10 @@ Research on newborn immunity has revealed the importance of cell ontogeny, feto-
 ---
 
 ## Microbiota-brain axis: Context and causality.
- 26.05.2022, _JF Cryan, SK Mazmanian_
+ 30.05.2022, _JF Cryan, SK Mazmanian_
 
 
+_Bacteria, Brain, Gastrointestinal Microbiome, Humans, Microbiota_
 Gut bacteria influence the brain and behavior, but causation in humans remains unclear.
 
 [Source](https://doi.org/10.1126/science.abo4442)
@@ -66,7 +70,7 @@ Gut bacteria influence the brain and behavior, but causation in humans remains u
 ---
 
 ## Production of Indole and Indole-Related Compounds by the Intestinal Microbiota and Consequences for the Host: The Good, the Bad, and the Ugly.
- 28.05.2022, _N Tennoune, M Andriamihaja, F Blachier_
+ 30.05.2022, _N Tennoune, M Andriamihaja, F Blachier_
 
 
 The intestinal microbiota metabolic activity towards the available substrates generates myriad bacterial metabolites that may accumulate in the luminal fluid. Among them, indole and indole-related compounds are produced by specific bacterial species from tryptophan. Although indole-related compounds are, first, involved in intestinal microbial community communication, these molecules are also active on the intestinal mucosa, exerting generally beneficial effects in different experimental situations. After absorption, indole is partly metabolized in the liver into the co-metabolite indoxyl sulfate. Although some anti-inflammatory actions of indole on liver cells have been shown, indoxyl sulfate is a well-known uremic toxin that aggravates chronic kidney disease, through deleterious effects on kidney cells. Indoxyl sulfate is also known to provoke endothelial dysfunction. Regarding the central nervous system, emerging research indicates that indole at excessive concentrations displays a negative impact on emotional behavior. The indole-derived co-metabolite isatin appears, in pre-clinical studies, to accumulate in the brain, modulating brain function either positively or negatively, depending on the doses used. Oxindole, a bacterial metabolite that enters the brain, has shown deleterious effects on the central nervous system in experimental studies. Lastly, recent studies performed with indoxyl sulfate report either beneficial or deleterious effects depending once again on the dose used, with missing information on the physiological concentrations that are reaching the central nervous system. Any intervention aiming at modulating indole and indole-related compound concentrations in the biological fluids should crucially take into account the dual effects of these compounds according to the host tissues considered.
@@ -84,7 +88,7 @@ The intestinal microbiota metabolic activity towards the available substrates ge
 ---
 
 ## Metagenomic Analysis Reveals a Mitigating Role for Lactobacillus paracasei and Bifidobacterium animalis in Experimental Periodontitis.
- 28.05.2022, _F Wu, B Fang, G Wuri, L Zhao, F Liu, M Zhang_
+ 30.05.2022, _F Wu, B Fang, G Wuri, L Zhao, F Liu, M Zhang_
 
 
 Probiotics have aroused increasing concern as an intervention strategy for periodontitis (PD), but their underlying mechanism of action remains poorly characterized. Regarding the significance of oral microbiota dysbiosis related to PD, we predicted that the preventive activity of probiotics may be influenced by suppressing the bacterial pathogenicity. Herein, we investigated the effects of Lactobacillus paracasei L9 (L9) and Bifidobacterium animalis A6 (A6) on PD using a rat model, and demonstrated a regulatory effect of probiotics on oral flora from a metagenomics perspective. Oral administration of A6 or L9 effectively relieved gingival bleeding, periodontal inflammatory infiltration, and alveolar bone resorption. In addition, A6 or L9 treatment reduced the inflammatory response and increased the expression of anti-inflammatory cytokines, which we expected to ameliorate alveolar bone resorption as mediated by the receptor activator of the nuclear factor-κB ligand/OPG signaling pathway. More importantly, using metagenomic sequencing, we showed that probiotics significantly altered the taxonomic composition of the subgingival microbiome, and reduced the relative proportions of pathogenic bacterial genera such as Streptococcus, Fusobacterium, Veillonella, and Escherichia. Both probiotics significantly inhibited levels of bacterial virulence factors related to adherence, invasion, exoenzyme, and complement protease functions that are strongly correlated with the pathogenesis of PD. Our overall results suggest that A6 and L9 may constitute promising prophylactic agents for PD, and should thus be further explored in the future.
@@ -114,7 +118,7 @@ Bacteriophages (phages) are obligate parasites that use host bacterial translati
 ---
 
 ## Characteristics of the gut microbiota in women with premenstrual symptoms: A cross-sectional study.
- 27.05.2022, _T Takeda, K Yoshimi, S Kai, G Ozawa, K Yamada, K Hiramatsu_
+ 30.05.2022, _T Takeda, K Yoshimi, S Kai, G Ozawa, K Yamada, K Hiramatsu_
 
 
 Premenstrual symptoms can negatively impact the quality of life of women through a range of mood, behavioral, and physical symptoms. The association between the microbiota and brain function has been extensively studied. Here, we examined the characteristics of the microbiota in women with premenstrual disorders (PMDs) and the association between premenstrual symptoms and the microbiota.
@@ -138,9 +142,10 @@ The maturation of infant gut microbiota has lifelong implications on health, whi
 ---
 
 ## Metabolomics analysis reveals molecular linkages for the impact of vitamin D on childhood allergic airway diseases.
- 27.05.2022, _YH Chang, KW Yeh, JL Huang, KW Su, MH Tsai, MC Hua, SL Liao, SH Lai, LC Chen, CY Chiu_
+ 30.05.2022, _YH Chang, KW Yeh, JL Huang, KW Su, MH Tsai, MC Hua, SL Liao, SH Lai, LC Chen, CY Chiu_
 
 
+_Animals, Asthma, Child, Child, Preschool, Dermatophagoides farinae, Humans, Hypersensitivity, Immunoglobulin E, Metabolomics, Vitamin D_
 Several studies have reported the relevance between serum vitamin D and allergic immunoglobulin E (IgE) responses and atopic diseases. However, a metabolomics-based approach to the impacts of vitamin D on allergic reactions remains unclear.
 
 [Source](https://doi.org/10.1111/pai.13785)
@@ -174,21 +179,39 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Altered Gut Microbiome in Patients With Dermatomyositis
+## Altered Gut Microbiome in Patients With Dermatomyositis.
+ 26.05.2022, _SS Bae, TS Dong, J Wang, V Lagishetty, W Katzka, JP Jacobs, C Charles-Schoeman_
+
+
+The study objective was to compare the microbial composition of patients with dermatomyositis (DM) and healthy controls (HCs) and determine whether microbial alterations are associated with clinical manifestations of DM.
 
 [Source](https://doi.org/10.1002/acr2.11436)
 
+10.1002/acr2.11436
+
 ---
 
-## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis
+## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis.
+ 27.05.2022, _K Li, K Ly, S Mehta, A Braithwaite_
+
+
+The principal function of inflammation is cellular defence against 'danger signals' such as tissue injury and pathogen infection to maintain the homeostasis of the organism. The initiation and progression of inflammation are not autonomous as there is substantial evidence that inflammation is known to be strongly influenced by 'neuroimmune crosstalk', involving the production and expression of soluble signalling molecules that interact with cell surface receptors. In addition, microbiota have been found to be involved in the development and function of the nervous and immune systems and play an important role in health and disease. Herein, we provide an outline of the mechanisms of neuroimmune communication in the regulation of inflammation and immune response and then provide evidence for the involvement of microbiota in the development and functions of the host nervous and immune systems. It appears that the nervous and immune systems in multicellular organisms have co-evolved with the microbiota, such that all components are in communication to maximise the ability of the organism to adapt to a wide range of environmental stresses to maintain or restore tissue homeostasis.
 
 [Source](https://doi.org/10.1002/cti2.1394)
 
+10.1002/cti2.1394
+
 ---
 
-## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review
+## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review.
+ 27.05.2022, _AJ Kim, DS Hong, GC George_
+
+
+The general nutritional status of cancer patients could be a central determinant of cancer treatment-related toxicity and an indicator of cancer symptoms such as cancer-related cachexia and weight loss. This narrative scientific review covers the impact of dietary patterns (for example, Mediterranean diet, short-term fasting, ketogenic diet), dietary components (for example, fruits and vegetables, fish oils, turmeric/curcumin, dietary fiber, phytochemicals, vitamin/mineral dietary supplements), and the gut microbiota on symptoms, toxicities, and adverse events associated with cancer treatment. Although several studies have produced controversial or inconclusive results, some promising preclinical studies and initial clinical trials suggest that dietary interventions may alleviate certain cancer treatment-related symptoms and toxicities. Possible mechanisms by which dietary components may influence symptomatic and non-symptomatic toxicities during cancer treatment include through impacting inflammation, oxidative stress, muscle mass, cardiac health and regulating the gut microbiome. Current ongoing studies will continue to shed light on whether specific dietary interventions, with a special emphasis on the gut microbiota, are an effective method to improve cancer treatment outcomes. Future studies should examine the synergistic effects of combining different nutritional interventions and establish diet-related guidelines for cancer treatment.
 
 [Source](https://doi.org/10.1016/j.ctrv.2022.102408)
+
+10.1016/j.ctrv.2022.102408
 
 ---
 
@@ -240,21 +263,45 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
+## Comparative Analyses of Scylla olivacea Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis.
+ 26.05.2022, _NS Lau, SY Ting, KK Sam, J M, SC Wong, X Wu, K Waiho, H Fazhan, AC Shu-Chien_
+
+
+Although numerous studies in aquatic organisms have linked lipid metabolism with intestinal bacterial structure, the possibility of the gut microbiota participating in the biosynthesis of beneficial long-chain polyunsaturated fatty acid (LC-PUFA) remains vague. We profiled the gut microbiota of the mud crab Scylla olivacea fed with either a LC-PUFA rich (FO) or a LC-PUFA-poor but C18-PUFA substrate-rich (LOCO) diet. Additionally, a diet with a similar profile as LOCO but with the inclusion of an antibiotic, oxolinic acid (LOCOAB), was also used to further demarcate the possibility of LC-PUFA biosynthesis in gut microbiota. Compared to diet FO treatment, crabs fed diet LOCO contained a higher proportion of Proteobacteria, notably two known taxonomy groups with PUFA biosynthesis capacity, Vibrio and Shewanella. Annotation of metagenomic datasets also revealed enrichment in the KEGG pathway of unsaturated fatty acid biosynthesis and polyketide synthase-like system sequences with this diet. Intriguingly, diet LOCOAB impeded the presence of Vibrio and Shewanella and with it, the function of unsaturated fatty acid biosynthesis. However, there was an increase in the function of short-chain fatty acid production, accompanied by a shift towards the abundance of phyla Bacteroidota and Spirochaetota. Collectively, these results exemplified bacterial communities and their corresponding PUFA biosynthesis pathways in the microbiota of an aquatic crustacean species.
+
+[Source](https://doi.org/10.1007/s00248-022-02046-0)
+
+10.1007/s00248-022-02046-0
+
+---
+
 ## Comparative Analyses of <em>Scylla olivacea </em>Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis
 
 [Source](https://doi.org/10.1007/s00248-022-02046-0)
 
 ---
 
-## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates
+## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates.
+ 26.05.2022, _G Huang, Q Qu, M Wang, M Huang, W Zhou, F Wei_
+
+
+Multiple factors influence gut microbiome diversity in vertebrate hosts. Most previous studies have only investigated specific factors and certain host species or taxa. However, a comprehensive assessment of the relative contributions of individual factors towards gut microbial diversity within a broader evolutionary context remains lacking. Here, 2202 16S rRNA gene sequencing samples of gut bacterial communities collected from 452 host species across seven classes were analyzed together to understand the factors broadly affecting vertebrate gut microbiomes across hosts with different diets, threatened status, captivity status, and habitat environmental factors. Among wild vertebrates, diet was most significantly associated with gut microbiome alpha diversity, while host phylogeny and diet were significantly associated with beta diversity, consistent with a previous study. Host threatened status and habitat environmental factors (e.g., geography and climate) were also associated with gut bacterial community beta diversity. Subsequent ecological modeling revealed a strong association between stochastic assembly processes and patterns of gut bacterial diversity among free-ranging vertebrates. In addition, metagenomic analysis of gut microbiomes from 62 captive vertebrates and sympatric humans revealed similar diversity and resistome profiles despite differences in host phylogeny, diet, and threatened status. These results thus suggest that captivity diminishes the effects of host phylogeny, diet, and threatened status on the diversity of vertebrate gut bacterial communities. The most overrepresented antibiotic resistant genes (ARGs) observed in these samples are involved in resistance to β-lactams, aminoglycosides, and tetracycline. These results also revealed potential horizontal transfers of ARGs between captive animals and humans, thereby jointly threatening public health and vertebrate conservation. Together, this study provides a comprehensive overview of the diversity and resistomes of vertebrate gut microbiomes. These combined analyses will help guide future vertebrate conservation via the rational manipulation of microbial diversity and reducing antibiotic usage.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.156178)
 
+10.1016/j.scitotenv.2022.156178
+
 ---
 
-## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical
+## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical.
+ 26.05.2022, _D Kumar, MK Lal, S Dutt, P Raigond, SS Changan, RK Tiwari, KN Chourasia, V Mangal, B Singh_
+
+
+The current trend of health-conscious consumers and healthy food habits prompted researchers to explore developing food products with synbiotic benefits. Synbiotic foods have gained popularity in recent years due to their functional, nutritional, physiological, and therapeutic characteristics. Lactose intolerance, dyslipidaemia, and allergic milk proteins became the barriers in the development of dairy probiotics. The present scenario of an increase in the demand for vegetarian products led to a rise in the consumption of non-dairy probiotics. Prebiotics like, resistant starch, inulin, and polyphenols are selectively used by gut microbiota to enhance the selection and colonisation of probiotics bacteria. Probiotic's action mechanisms include the production of bacteriocins, peptides, short-chain fatty acids, amino acids, vitamins and other metabolites. Therefore, this review article explores the alternative sources of probiotics so it will help to an understanding of non-dairy based functional fermented foods for both pro and prebiotics. We also addressed dietary fibres in vegetables, fruits, and cereals are one of prospective prebiotics and highlighted the various methods for making non-dairy synbiotics based on dietary fibres, such as microencapsulation, freeze-drying, and spray drying. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1002/mnfr.202101059)
+
+10.1002/mnfr.202101059
 
 ---
 
@@ -264,15 +311,27 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice
+## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice.
+ 26.05.2022, _X Yan, Y Zhai, W Zhou, Y Qiao, L Guan, H Liu, J Jiang, L Peng_
+
+
+Intestinal flora plays a critical role in the development of diet-induced obesity and related metabolic complications. Rutin is a natural flavonoid with potential prebiotic effects on regulating the intestinal flora composition that is beneficial for host health. Therefore, we hypothesized that rutin supplementation has beneficial effects on high-fat-diet (HFD)-induced obesity and metabolic disorder through the modulation of intestinal flora in mice.
 
 [Source](https://doi.org/10.1002/mnfr.202100948)
 
+10.1002/mnfr.202100948
+
 ---
 
-## Multi-Probiotics ameliorate Major depressive disorder and accompanying gastrointestinal syndromes via serotonergic system regulation
+## Multi-Probiotics ameliorate Major depressive disorder and accompanying gastrointestinal syndromes via serotonergic system regulation.
+ 26.05.2022, _P Tian, R Zou, L Wang, Y Chen, X Qian, J Zhao, H Zhang, L Qian, Q Wang, G Wang, W Chen_
+
+
+Major depressive disorder (MDD) is a leading global psychiatric disease. MDD is highly comorbid with gastrointestinal abnormalities, such as gut motility dysfunction. An effective strategy to manage depression and its accompanying gastrointestinal symptoms is warranted.
 
 [Source](https://doi.org/10.1016/j.jare.2022.05.003)
+
+10.1016/j.jare.2022.05.003
 
 ---
 
@@ -282,9 +341,15 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Deciphering core phyllomicrobiome assemblage on rice genotypes grown in contrasting agroclimatic zones: implications for phyllomicrobiome engineering against blast disease
+## Deciphering core phyllomicrobiome assemblage on rice genotypes grown in contrasting agroclimatic zones: implications for phyllomicrobiome engineering against blast disease.
+ 26.05.2022, _KP Sahu, A Kumar, K Sakthivel, B Reddy, M Kumar, A Patel, N Sheoran, S Gopalakrishnan, G Prakash, R Rathour, RK Gautam_
+
+
+With its adapted microbial diversity, the phyllosphere contributes microbial metagenome to the plant holobiont and modulates a host of ecological functions. Phyllosphere microbiome (hereafter termed phyllomicrobiome) structure and the consequent ecological functions are vulnerable to a host of biotic (Genotypes) and abiotic factors (Environment) which is further compounded by agronomic transactions. However, the ecological forces driving the phyllomicrobiome assemblage and functions are among the most understudied aspects of plant biology. Despite the reports on the occurrence of diverse prokaryotic phyla such as Proteobacteria, Firmicutes, Bacteroides, and Actinobacteria in phyllosphere habitat, the functional characterization leading to their utilization for agricultural sustainability is not yet explored. Currently, the metabarcoding by Next-Generation-Sequencing (mNGS) technique is a widely practised strategy for microbiome investigations. However, the validation of mNGS annotations by culturomics methods is not integrated with the microbiome exploration program. In the present study, we combined the mNGS with culturomics to decipher the core functional phyllomicrobiome of rice genotypes varying for blast disease resistance planted in two agroclimatic zones in India. There is a growing consensus among the various stakeholder of rice farming for an ecofriendly method of disease management. Here, we proposed phyllomicrobiome assisted rice blast management as a novel strategy for rice farming in the future.
 
 [Source](https://doi.org/10.1186/s40793-022-00421-5)
+
+10.1186/s40793-022-00421-5
 
 ---
 
