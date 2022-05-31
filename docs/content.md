@@ -179,39 +179,21 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Altered Gut Microbiome in Patients With Dermatomyositis.
- 26.05.2022, _SS Bae, TS Dong, J Wang, V Lagishetty, W Katzka, JP Jacobs, C Charles-Schoeman_
-
-
-The study objective was to compare the microbial composition of patients with dermatomyositis (DM) and healthy controls (HCs) and determine whether microbial alterations are associated with clinical manifestations of DM.
+## Altered Gut Microbiome in Patients With Dermatomyositis
 
 [Source](https://doi.org/10.1002/acr2.11436)
 
-10.1002/acr2.11436
-
 ---
 
-## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis.
- 27.05.2022, _K Li, K Ly, S Mehta, A Braithwaite_
-
-
-The principal function of inflammation is cellular defence against 'danger signals' such as tissue injury and pathogen infection to maintain the homeostasis of the organism. The initiation and progression of inflammation are not autonomous as there is substantial evidence that inflammation is known to be strongly influenced by 'neuroimmune crosstalk', involving the production and expression of soluble signalling molecules that interact with cell surface receptors. In addition, microbiota have been found to be involved in the development and function of the nervous and immune systems and play an important role in health and disease. Herein, we provide an outline of the mechanisms of neuroimmune communication in the regulation of inflammation and immune response and then provide evidence for the involvement of microbiota in the development and functions of the host nervous and immune systems. It appears that the nervous and immune systems in multicellular organisms have co-evolved with the microbiota, such that all components are in communication to maximise the ability of the organism to adapt to a wide range of environmental stresses to maintain or restore tissue homeostasis.
+## Importance of crosstalk between the microbiota and the neuroimmune system for tissue homeostasis
 
 [Source](https://doi.org/10.1002/cti2.1394)
 
-10.1002/cti2.1394
-
 ---
 
-## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review.
- 27.05.2022, _AJ Kim, DS Hong, GC George_
-
-
-The general nutritional status of cancer patients could be a central determinant of cancer treatment-related toxicity and an indicator of cancer symptoms such as cancer-related cachexia and weight loss. This narrative scientific review covers the impact of dietary patterns (for example, Mediterranean diet, short-term fasting, ketogenic diet), dietary components (for example, fruits and vegetables, fish oils, turmeric/curcumin, dietary fiber, phytochemicals, vitamin/mineral dietary supplements), and the gut microbiota on symptoms, toxicities, and adverse events associated with cancer treatment. Although several studies have produced controversial or inconclusive results, some promising preclinical studies and initial clinical trials suggest that dietary interventions may alleviate certain cancer treatment-related symptoms and toxicities. Possible mechanisms by which dietary components may influence symptomatic and non-symptomatic toxicities during cancer treatment include through impacting inflammation, oxidative stress, muscle mass, cardiac health and regulating the gut microbiome. Current ongoing studies will continue to shed light on whether specific dietary interventions, with a special emphasis on the gut microbiota, are an effective method to improve cancer treatment outcomes. Future studies should examine the synergistic effects of combining different nutritional interventions and establish diet-related guidelines for cancer treatment.
+## Dietary influences on symptomatic and non-symptomatic toxicities during cancer treatment: A narrative review
 
 [Source](https://doi.org/10.1016/j.ctrv.2022.102408)
-
-10.1016/j.ctrv.2022.102408
 
 ---
 
