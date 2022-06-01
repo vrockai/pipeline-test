@@ -87,16 +87,15 @@ The intestinal microbiota metabolic activity towards the available substrates ge
 
 ---
 
-## Metagenomic Analysis Reveals a Mitigating Role for Lactobacillus paracasei and Bifidobacterium animalis in Experimental Periodontitis.
- 31.05.2022, _F Wu, B Fang, G Wuri, L Zhao, F Liu, M Zhang_
+## Gut Microbiota-Derived Resveratrol Metabolites, Dihydroresveratrol and Lunularin, Significantly Contribute to the Biological Activities of Resveratrol.
+ 31.05.2022, _F Li, Y Han, X Wu, X Cao, Z Gao, Y Sun, M Wang, H Xiao_
 
 
-_Alveolar Bone Loss, Animals, Bacteria, Bifidobacterium animalis, Lactobacillus paracasei, Metagenomics, Periodontitis, Rats_
-Probiotics have aroused increasing concern as an intervention strategy for periodontitis (PD), but their underlying mechanism of action remains poorly characterized. Regarding the significance of oral microbiota dysbiosis related to PD, we predicted that the preventive activity of probiotics may be influenced by suppressing the bacterial pathogenicity. Herein, we investigated the effects of Lactobacillus paracasei L9 (L9) and Bifidobacterium animalis A6 (A6) on PD using a rat model, and demonstrated a regulatory effect of probiotics on oral flora from a metagenomics perspective. Oral administration of A6 or L9 effectively relieved gingival bleeding, periodontal inflammatory infiltration, and alveolar bone resorption. In addition, A6 or L9 treatment reduced the inflammatory response and increased the expression of anti-inflammatory cytokines, which we expected to ameliorate alveolar bone resorption as mediated by the receptor activator of the nuclear factor-κB ligand/OPG signaling pathway. More importantly, using metagenomic sequencing, we showed that probiotics significantly altered the taxonomic composition of the subgingival microbiome, and reduced the relative proportions of pathogenic bacterial genera such as Streptococcus, Fusobacterium, Veillonella, and Escherichia. Both probiotics significantly inhibited levels of bacterial virulence factors related to adherence, invasion, exoenzyme, and complement protease functions that are strongly correlated with the pathogenesis of PD. Our overall results suggest that A6 and L9 may constitute promising prophylactic agents for PD, and should thus be further explored in the future.
+Although resveratrol (RES) is barely detectable in the plasma and tissues upon oral consumption, collective evidence reveals that RES presents various bioactivities in vivo, including anti-inflammation and anti-cancer. This paradox necessitates further research on profiling and characterizing the biotransformation of RES, as its metabolites may contribute profound biological effects. After 4-week oral administration, 11 metabolites of RES were identified and quantified in mice by HPLC-MS/MS, including dihydro-resveratrol (DHR), lunularin (LUN), and conjugates (sulfates and glucuronides) of RES, DHR and LUN. Importantly, DHR, LUN, and their conjugates were much more abundantly distributed in tissues, gastrointestinal tract (GIT), and biological fluids compared to RES and its conjugates. Moreover, we established that DHR and LUN were gut bacteria-derived metabolites of RES, as indicated by their depletion in antibiotic-treated mice. Furthermore, the biological activities of RES, DHR, and LUN were determined at physiologically relevant levels. DHR and LUN exhibited stronger anti-inflammatory and anti-cancer effects than RES at the concentrations found in mouse tissues. In summary, our study profiled the tissue distribution of the metabolites of RES after its oral administration in mice and uncovered the important role of gut microbial metabolites of RES in the biological activities of RES in vivo.
 
 [Source](https://doi.org/10.1126/science.abn1890)
 
-10.3390/nu14102125
+10.3389/fnut.2022.912591
 
 ---
 
@@ -247,45 +246,21 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Comparative Analyses of Scylla olivacea Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis.
- 26.05.2022, _NS Lau, SY Ting, KK Sam, J M, SC Wong, X Wu, K Waiho, H Fazhan, AC Shu-Chien_
-
-
-Although numerous studies in aquatic organisms have linked lipid metabolism with intestinal bacterial structure, the possibility of the gut microbiota participating in the biosynthesis of beneficial long-chain polyunsaturated fatty acid (LC-PUFA) remains vague. We profiled the gut microbiota of the mud crab Scylla olivacea fed with either a LC-PUFA rich (FO) or a LC-PUFA-poor but C18-PUFA substrate-rich (LOCO) diet. Additionally, a diet with a similar profile as LOCO but with the inclusion of an antibiotic, oxolinic acid (LOCOAB), was also used to further demarcate the possibility of LC-PUFA biosynthesis in gut microbiota. Compared to diet FO treatment, crabs fed diet LOCO contained a higher proportion of Proteobacteria, notably two known taxonomy groups with PUFA biosynthesis capacity, Vibrio and Shewanella. Annotation of metagenomic datasets also revealed enrichment in the KEGG pathway of unsaturated fatty acid biosynthesis and polyketide synthase-like system sequences with this diet. Intriguingly, diet LOCOAB impeded the presence of Vibrio and Shewanella and with it, the function of unsaturated fatty acid biosynthesis. However, there was an increase in the function of short-chain fatty acid production, accompanied by a shift towards the abundance of phyla Bacteroidota and Spirochaetota. Collectively, these results exemplified bacterial communities and their corresponding PUFA biosynthesis pathways in the microbiota of an aquatic crustacean species.
-
-[Source](https://doi.org/10.1007/s00248-022-02046-0)
-
-10.1007/s00248-022-02046-0
-
----
-
 ## Comparative Analyses of <em>Scylla olivacea </em>Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis
 
 [Source](https://doi.org/10.1007/s00248-022-02046-0)
 
 ---
 
-## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates.
- 26.05.2022, _G Huang, Q Qu, M Wang, M Huang, W Zhou, F Wei_
-
-
-Multiple factors influence gut microbiome diversity in vertebrate hosts. Most previous studies have only investigated specific factors and certain host species or taxa. However, a comprehensive assessment of the relative contributions of individual factors towards gut microbial diversity within a broader evolutionary context remains lacking. Here, 2202 16S rRNA gene sequencing samples of gut bacterial communities collected from 452 host species across seven classes were analyzed together to understand the factors broadly affecting vertebrate gut microbiomes across hosts with different diets, threatened status, captivity status, and habitat environmental factors. Among wild vertebrates, diet was most significantly associated with gut microbiome alpha diversity, while host phylogeny and diet were significantly associated with beta diversity, consistent with a previous study. Host threatened status and habitat environmental factors (e.g., geography and climate) were also associated with gut bacterial community beta diversity. Subsequent ecological modeling revealed a strong association between stochastic assembly processes and patterns of gut bacterial diversity among free-ranging vertebrates. In addition, metagenomic analysis of gut microbiomes from 62 captive vertebrates and sympatric humans revealed similar diversity and resistome profiles despite differences in host phylogeny, diet, and threatened status. These results thus suggest that captivity diminishes the effects of host phylogeny, diet, and threatened status on the diversity of vertebrate gut bacterial communities. The most overrepresented antibiotic resistant genes (ARGs) observed in these samples are involved in resistance to β-lactams, aminoglycosides, and tetracycline. These results also revealed potential horizontal transfers of ARGs between captive animals and humans, thereby jointly threatening public health and vertebrate conservation. Together, this study provides a comprehensive overview of the diversity and resistomes of vertebrate gut microbiomes. These combined analyses will help guide future vertebrate conservation via the rational manipulation of microbial diversity and reducing antibiotic usage.
+## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.156178)
 
-10.1016/j.scitotenv.2022.156178
-
 ---
 
-## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical.
- 26.05.2022, _D Kumar, MK Lal, S Dutt, P Raigond, SS Changan, RK Tiwari, KN Chourasia, V Mangal, B Singh_
-
-
-The current trend of health-conscious consumers and healthy food habits prompted researchers to explore developing food products with synbiotic benefits. Synbiotic foods have gained popularity in recent years due to their functional, nutritional, physiological, and therapeutic characteristics. Lactose intolerance, dyslipidaemia, and allergic milk proteins became the barriers in the development of dairy probiotics. The present scenario of an increase in the demand for vegetarian products led to a rise in the consumption of non-dairy probiotics. Prebiotics like, resistant starch, inulin, and polyphenols are selectively used by gut microbiota to enhance the selection and colonisation of probiotics bacteria. Probiotic's action mechanisms include the production of bacteriocins, peptides, short-chain fatty acids, amino acids, vitamins and other metabolites. Therefore, this review article explores the alternative sources of probiotics so it will help to an understanding of non-dairy based functional fermented foods for both pro and prebiotics. We also addressed dietary fibres in vegetables, fruits, and cereals are one of prospective prebiotics and highlighted the various methods for making non-dairy synbiotics based on dietary fibres, such as microencapsulation, freeze-drying, and spray drying. This article is protected by copyright. All rights reserved.
+## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical
 
 [Source](https://doi.org/10.1002/mnfr.202101059)
-
-10.1002/mnfr.202101059
 
 ---
 
@@ -295,27 +270,15 @@ The current trend of health-conscious consumers and healthy food habits prompted
 
 ---
 
-## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice.
- 26.05.2022, _X Yan, Y Zhai, W Zhou, Y Qiao, L Guan, H Liu, J Jiang, L Peng_
-
-
-Intestinal flora plays a critical role in the development of diet-induced obesity and related metabolic complications. Rutin is a natural flavonoid with potential prebiotic effects on regulating the intestinal flora composition that is beneficial for host health. Therefore, we hypothesized that rutin supplementation has beneficial effects on high-fat-diet (HFD)-induced obesity and metabolic disorder through the modulation of intestinal flora in mice.
+## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice
 
 [Source](https://doi.org/10.1002/mnfr.202100948)
 
-10.1002/mnfr.202100948
-
 ---
 
-## Multi-Probiotics ameliorate Major depressive disorder and accompanying gastrointestinal syndromes via serotonergic system regulation.
- 26.05.2022, _P Tian, R Zou, L Wang, Y Chen, X Qian, J Zhao, H Zhang, L Qian, Q Wang, G Wang, W Chen_
-
-
-Major depressive disorder (MDD) is a leading global psychiatric disease. MDD is highly comorbid with gastrointestinal abnormalities, such as gut motility dysfunction. An effective strategy to manage depression and its accompanying gastrointestinal symptoms is warranted.
+## Multi-Probiotics ameliorate Major depressive disorder and accompanying gastrointestinal syndromes via serotonergic system regulation
 
 [Source](https://doi.org/10.1016/j.jare.2022.05.003)
-
-10.1016/j.jare.2022.05.003
 
 ---
 
@@ -325,15 +288,9 @@ Major depressive disorder (MDD) is a leading global psychiatric disease. MDD is 
 
 ---
 
-## Deciphering core phyllomicrobiome assemblage on rice genotypes grown in contrasting agroclimatic zones: implications for phyllomicrobiome engineering against blast disease.
- 26.05.2022, _KP Sahu, A Kumar, K Sakthivel, B Reddy, M Kumar, A Patel, N Sheoran, S Gopalakrishnan, G Prakash, R Rathour, RK Gautam_
-
-
-With its adapted microbial diversity, the phyllosphere contributes microbial metagenome to the plant holobiont and modulates a host of ecological functions. Phyllosphere microbiome (hereafter termed phyllomicrobiome) structure and the consequent ecological functions are vulnerable to a host of biotic (Genotypes) and abiotic factors (Environment) which is further compounded by agronomic transactions. However, the ecological forces driving the phyllomicrobiome assemblage and functions are among the most understudied aspects of plant biology. Despite the reports on the occurrence of diverse prokaryotic phyla such as Proteobacteria, Firmicutes, Bacteroides, and Actinobacteria in phyllosphere habitat, the functional characterization leading to their utilization for agricultural sustainability is not yet explored. Currently, the metabarcoding by Next-Generation-Sequencing (mNGS) technique is a widely practised strategy for microbiome investigations. However, the validation of mNGS annotations by culturomics methods is not integrated with the microbiome exploration program. In the present study, we combined the mNGS with culturomics to decipher the core functional phyllomicrobiome of rice genotypes varying for blast disease resistance planted in two agroclimatic zones in India. There is a growing consensus among the various stakeholder of rice farming for an ecofriendly method of disease management. Here, we proposed phyllomicrobiome assisted rice blast management as a novel strategy for rice farming in the future.
+## Deciphering core phyllomicrobiome assemblage on rice genotypes grown in contrasting agroclimatic zones: implications for phyllomicrobiome engineering against blast disease
 
 [Source](https://doi.org/10.1186/s40793-022-00421-5)
-
-10.1186/s40793-022-00421-5
 
 ---
 
@@ -343,27 +300,15 @@ With its adapted microbial diversity, the phyllosphere contributes microbial met
 
 ---
 
-## Indoor microbiome, microbial and plant metabolites, chemical compounds and asthma symptoms in junior high school students: a multicentre association study in Malaysia.
- 26.05.2022, _Y Sun, M Zhang, Z Ou, Y Meng, Y Chen, R Lin, JH Hashim, Z Hashim, G Wieslander, Q Chen, D Norbäck, X Fu_
-
-
-Indoor microbial exposure is associated with asthma, but the health effects of indoor metabolites and chemicals are not comprehensively assessed. Here, we collected classroom dust from 24 junior high schools in three geographically distanced areas in Malaysia, including Johor Bahru, Terengganu, and Penang, and conducted culture-independent high-throughput microbiome and untargeted metabolomics/chemical profilings. 1290 students were surveyed for asthma symptoms (wheeze). In each center, we found significant variation in the prevalence of wheeze among schools, which cannot be explained by personal characteristics and air pollutants. Large-scale microbial variations were observed between three centers; the potential protective bacteria were mainly from phylum Actinobacteria in Johor Bahru, Cyanobacteria in Terengganu, and Proteobacteria in Penang. In total, 2633 metabolites and chemicals were characterized. Many metabolites were enriched in low wheeze schools, including plant secondary metabolites flavonoids/isoflavonoids (isoliquiritigenin, formononetin, astragalin), indole and derivatives (indole, serotonin, 1H-indole-3-carboxaldehyde), and others (biotin, chavicol). A neural-network analysis showed that the indole derivatives were co-occurring with the potential protective microbial taxa, including Actinomycetospora, Fischerella and Truepera, suggesting these microorganisms may pose health effects by releasing indole metabolites. A few synthetic chemicals were enriched in high wheeze schools, including pesticide (2(3H)-benzothiazolethione), fragrance (2-aminobenzoic acid, isovaleric acid), detergent and plastic (phthalic acid), and industrial material (4,4-sulfonyldiphenol). This is the first association study between high-throughput indoor chemical profiling and asthma symptoms. The consistent results from three centers indicate that indoor metabolites/chemicals could be a better indicator than indoor microbiome for environmental and health assessments, providing new insights for asthma prediction, prevention, and control.
+## Indoor microbiome, microbial and plant metabolites, chemical compounds and asthma symptoms in junior high school students: a multicentre association study in Malaysia
 
 [Source](https://doi.org/10.1183/13993003.00260-2022)
 
-10.1183/13993003.00260-2022
-
 ---
 
-## Comparative Analysis of Metagenomics and Metataxonomics for the Characterization of Vermicompost Microbiomes.
- 27.05.2022, _M Pérez-Losada, DB Narayanan, AR Kolbe, I Ramos-Tapia, E Castro-Nallar, KA Crandall, J Domínguez_
-
-
-The study of microbial communities or microbiotas in animals and environments is important because of their impact in a broad range of industrial applications, diseases and ecological roles. High throughput sequencing (HTS) is the best strategy to characterize microbial composition and function. Microbial profiles can be obtained either by shotgun sequencing of genomes, or through amplicon sequencing of target genes (e.g., 16S rRNA for bacteria and ITS for fungi). Here, we compared both HTS approaches at assessing taxonomic and functional diversity of bacterial and fungal communities during vermicomposting of white grape marc. We applied specific HTS workflows to the same 12 microcosms, with and without earthworms, sampled at two distinct phases of the vermicomposting process occurring at 21 and 63 days. Metataxonomic profiles were inferred in DADA2, with bacterial metabolic pathways predicted via PICRUSt2. Metagenomic taxonomic profiles were inferred in PathoScope, while bacterial functional profiles were inferred in Humann2. Microbial profiles inferred by metagenomics and metataxonomics showed similarities and differences in composition, structure, and metabolic function at different taxonomic levels. Microbial composition and abundance estimated by both HTS approaches agreed reasonably well at the phylum level, but larger discrepancies were observed at lower taxonomic ranks. Shotgun HTS identified ~1.8 times more bacterial genera than 16S rRNA HTS, while ITS HTS identified two times more fungal genera than shotgun HTS. This is mainly a consequence of the difference in resolution and reference richness between amplicon and genome sequencing approaches and databases, respectively. Our study also revealed great differences and even opposite trends in alpha- and beta-diversity between amplicon and shotgun HTS. Interestingly, amplicon PICRUSt2-imputed functional repertoires overlapped ~50% with shotgun Humann2 profiles. Finally, both approaches indicated that although bacteria and fungi are the main drivers of biochemical decomposition, earthworms also play a key role in plant vermicomposting. In summary, our study highlights the strengths and weaknesses of metagenomics and metataxonomics and provides new insights on the vermicomposting of white grape marc. Since both approaches may target different biological aspects of the communities, combining them will provide a better understanding of the microbiotas under study.
+## Comparative Analysis of Metagenomics and Metataxonomics for the Characterization of Vermicompost Microbiomes
 
 [Source](https://doi.org/10.3389/fmicb.2022.854423)
-
-10.3389/fmicb.2022.854423
 
 ---
 
