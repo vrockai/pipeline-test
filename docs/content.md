@@ -18,7 +18,7 @@ The present Editorial derives from the Special Issue "New Insights into Cow's Mi
 ---
 
 ## Microbiota and maintenance of skin barrier function.
- 30.05.2022, _TA Harris-Tryon, EA Grice_
+ 31.05.2022, _TA Harris-Tryon, EA Grice_
 
 
 _Epithelium, Host Microbial Interactions, Humans, Microbiota, Skin_
@@ -31,7 +31,7 @@ Human skin forms a protective barrier against the external environment and is ou
 ---
 
 ## Local barriers configure systemic communications between the host and microbiota.
- 30.05.2022, _Q Lu, TS Stappenbeck_
+ 31.05.2022, _Q Lu, TS Stappenbeck_
 
 
 _Bacteria, Communication, Fungi, Host Microbial Interactions, Microbiota_
@@ -44,7 +44,7 @@ Associations between the dynamic community of microbes (the microbiota) and the 
 ---
 
 ## Immune-microbe interactions early in life: A determinant of health and disease long term.
- 30.05.2022, _P Brodin_
+ 31.05.2022, _P Brodin_
 
 
 _Environmental Exposure, Gastrointestinal Microbiome, Humans, Infant, Newborn, Microbial Interactions, Microbiota, Symbiosis_
@@ -57,7 +57,7 @@ Research on newborn immunity has revealed the importance of cell ontogeny, feto-
 ---
 
 ## Microbiota-brain axis: Context and causality.
- 30.05.2022, _JF Cryan, SK Mazmanian_
+ 31.05.2022, _JF Cryan, SK Mazmanian_
 
 
 _Bacteria, Brain, Gastrointestinal Microbiome, Humans, Microbiota_
@@ -88,9 +88,10 @@ The intestinal microbiota metabolic activity towards the available substrates ge
 ---
 
 ## Metagenomic Analysis Reveals a Mitigating Role for Lactobacillus paracasei and Bifidobacterium animalis in Experimental Periodontitis.
- 30.05.2022, _F Wu, B Fang, G Wuri, L Zhao, F Liu, M Zhang_
+ 31.05.2022, _F Wu, B Fang, G Wuri, L Zhao, F Liu, M Zhang_
 
 
+_Alveolar Bone Loss, Animals, Bacteria, Bifidobacterium animalis, Lactobacillus paracasei, Metagenomics, Periodontitis, Rats_
 Probiotics have aroused increasing concern as an intervention strategy for periodontitis (PD), but their underlying mechanism of action remains poorly characterized. Regarding the significance of oral microbiota dysbiosis related to PD, we predicted that the preventive activity of probiotics may be influenced by suppressing the bacterial pathogenicity. Herein, we investigated the effects of Lactobacillus paracasei L9 (L9) and Bifidobacterium animalis A6 (A6) on PD using a rat model, and demonstrated a regulatory effect of probiotics on oral flora from a metagenomics perspective. Oral administration of A6 or L9 effectively relieved gingival bleeding, periodontal inflammatory infiltration, and alveolar bone resorption. In addition, A6 or L9 treatment reduced the inflammatory response and increased the expression of anti-inflammatory cytokines, which we expected to ameliorate alveolar bone resorption as mediated by the receptor activator of the nuclear factor-κB ligand/OPG signaling pathway. More importantly, using metagenomic sequencing, we showed that probiotics significantly altered the taxonomic composition of the subgingival microbiome, and reduced the relative proportions of pathogenic bacterial genera such as Streptococcus, Fusobacterium, Veillonella, and Escherichia. Both probiotics significantly inhibited levels of bacterial virulence factors related to adherence, invasion, exoenzyme, and complement protease functions that are strongly correlated with the pathogenesis of PD. Our overall results suggest that A6 and L9 may constitute promising prophylactic agents for PD, and should thus be further explored in the future.
 
 [Source](https://doi.org/10.1126/science.abn1890)
@@ -118,9 +119,10 @@ Bacteriophages (phages) are obligate parasites that use host bacterial translati
 ---
 
 ## Characteristics of the gut microbiota in women with premenstrual symptoms: A cross-sectional study.
- 30.05.2022, _T Takeda, K Yoshimi, S Kai, G Ozawa, K Yamada, K Hiramatsu_
+ 31.05.2022, _T Takeda, K Yoshimi, S Kai, G Ozawa, K Yamada, K Hiramatsu_
 
 
+_Bacteroidetes, Clostridiaceae, Clostridiales, Cross-Sectional Studies, Female, Gastrointestinal Microbiome, Humans, Pilot Projects, Premenstrual Syndrome, Quality of Life_
 Premenstrual symptoms can negatively impact the quality of life of women through a range of mood, behavioral, and physical symptoms. The association between the microbiota and brain function has been extensively studied. Here, we examined the characteristics of the microbiota in women with premenstrual disorders (PMDs) and the association between premenstrual symptoms and the microbiota.
 
 [Source](https://doi.org/10.1371/journal.pone.0268466)
@@ -245,21 +247,45 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
+## Comparative Analyses of Scylla olivacea Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis.
+ 26.05.2022, _NS Lau, SY Ting, KK Sam, J M, SC Wong, X Wu, K Waiho, H Fazhan, AC Shu-Chien_
+
+
+Although numerous studies in aquatic organisms have linked lipid metabolism with intestinal bacterial structure, the possibility of the gut microbiota participating in the biosynthesis of beneficial long-chain polyunsaturated fatty acid (LC-PUFA) remains vague. We profiled the gut microbiota of the mud crab Scylla olivacea fed with either a LC-PUFA rich (FO) or a LC-PUFA-poor but C18-PUFA substrate-rich (LOCO) diet. Additionally, a diet with a similar profile as LOCO but with the inclusion of an antibiotic, oxolinic acid (LOCOAB), was also used to further demarcate the possibility of LC-PUFA biosynthesis in gut microbiota. Compared to diet FO treatment, crabs fed diet LOCO contained a higher proportion of Proteobacteria, notably two known taxonomy groups with PUFA biosynthesis capacity, Vibrio and Shewanella. Annotation of metagenomic datasets also revealed enrichment in the KEGG pathway of unsaturated fatty acid biosynthesis and polyketide synthase-like system sequences with this diet. Intriguingly, diet LOCOAB impeded the presence of Vibrio and Shewanella and with it, the function of unsaturated fatty acid biosynthesis. However, there was an increase in the function of short-chain fatty acid production, accompanied by a shift towards the abundance of phyla Bacteroidota and Spirochaetota. Collectively, these results exemplified bacterial communities and their corresponding PUFA biosynthesis pathways in the microbiota of an aquatic crustacean species.
+
+[Source](https://doi.org/10.1007/s00248-022-02046-0)
+
+10.1007/s00248-022-02046-0
+
+---
+
 ## Comparative Analyses of <em>Scylla olivacea </em>Gut Microbiota Composition and Function Suggest the Capacity for Polyunsaturated Fatty Acid Biosynthesis
 
 [Source](https://doi.org/10.1007/s00248-022-02046-0)
 
 ---
 
-## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates
+## Global landscape of gut microbiome diversity and antibiotic resistomes across vertebrates.
+ 26.05.2022, _G Huang, Q Qu, M Wang, M Huang, W Zhou, F Wei_
+
+
+Multiple factors influence gut microbiome diversity in vertebrate hosts. Most previous studies have only investigated specific factors and certain host species or taxa. However, a comprehensive assessment of the relative contributions of individual factors towards gut microbial diversity within a broader evolutionary context remains lacking. Here, 2202 16S rRNA gene sequencing samples of gut bacterial communities collected from 452 host species across seven classes were analyzed together to understand the factors broadly affecting vertebrate gut microbiomes across hosts with different diets, threatened status, captivity status, and habitat environmental factors. Among wild vertebrates, diet was most significantly associated with gut microbiome alpha diversity, while host phylogeny and diet were significantly associated with beta diversity, consistent with a previous study. Host threatened status and habitat environmental factors (e.g., geography and climate) were also associated with gut bacterial community beta diversity. Subsequent ecological modeling revealed a strong association between stochastic assembly processes and patterns of gut bacterial diversity among free-ranging vertebrates. In addition, metagenomic analysis of gut microbiomes from 62 captive vertebrates and sympatric humans revealed similar diversity and resistome profiles despite differences in host phylogeny, diet, and threatened status. These results thus suggest that captivity diminishes the effects of host phylogeny, diet, and threatened status on the diversity of vertebrate gut bacterial communities. The most overrepresented antibiotic resistant genes (ARGs) observed in these samples are involved in resistance to β-lactams, aminoglycosides, and tetracycline. These results also revealed potential horizontal transfers of ARGs between captive animals and humans, thereby jointly threatening public health and vertebrate conservation. Together, this study provides a comprehensive overview of the diversity and resistomes of vertebrate gut microbiomes. These combined analyses will help guide future vertebrate conservation via the rational manipulation of microbial diversity and reducing antibiotic usage.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.156178)
 
+10.1016/j.scitotenv.2022.156178
+
 ---
 
-## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical
+## Functional fermented probiotics, prebiotics and synbiotics from non-dairy products: A perspective from nutraceutical.
+ 26.05.2022, _D Kumar, MK Lal, S Dutt, P Raigond, SS Changan, RK Tiwari, KN Chourasia, V Mangal, B Singh_
+
+
+The current trend of health-conscious consumers and healthy food habits prompted researchers to explore developing food products with synbiotic benefits. Synbiotic foods have gained popularity in recent years due to their functional, nutritional, physiological, and therapeutic characteristics. Lactose intolerance, dyslipidaemia, and allergic milk proteins became the barriers in the development of dairy probiotics. The present scenario of an increase in the demand for vegetarian products led to a rise in the consumption of non-dairy probiotics. Prebiotics like, resistant starch, inulin, and polyphenols are selectively used by gut microbiota to enhance the selection and colonisation of probiotics bacteria. Probiotic's action mechanisms include the production of bacteriocins, peptides, short-chain fatty acids, amino acids, vitamins and other metabolites. Therefore, this review article explores the alternative sources of probiotics so it will help to an understanding of non-dairy based functional fermented foods for both pro and prebiotics. We also addressed dietary fibres in vegetables, fruits, and cereals are one of prospective prebiotics and highlighted the various methods for making non-dairy synbiotics based on dietary fibres, such as microencapsulation, freeze-drying, and spray drying. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1002/mnfr.202101059)
+
+10.1002/mnfr.202101059
 
 ---
 
@@ -269,9 +295,15 @@ Microbiota alteration and IFN-γ-producing CD4+ T cell overactivation are implic
 
 ---
 
-## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice
+## Intestinal Flora Mediates Antiobesity Effect of Rutin in High-Fat-Diet Mice.
+ 26.05.2022, _X Yan, Y Zhai, W Zhou, Y Qiao, L Guan, H Liu, J Jiang, L Peng_
+
+
+Intestinal flora plays a critical role in the development of diet-induced obesity and related metabolic complications. Rutin is a natural flavonoid with potential prebiotic effects on regulating the intestinal flora composition that is beneficial for host health. Therefore, we hypothesized that rutin supplementation has beneficial effects on high-fat-diet (HFD)-induced obesity and metabolic disorder through the modulation of intestinal flora in mice.
 
 [Source](https://doi.org/10.1002/mnfr.202100948)
+
+10.1002/mnfr.202100948
 
 ---
 
