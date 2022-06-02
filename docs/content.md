@@ -1,6 +1,12 @@
-## Akkermansia muciniphila: paradigm for next-generation beneficial microorganisms
+## Akkermansia muciniphila: paradigm for next-generation beneficial microorganisms.
+ 31.05.2022, _PD Cani, C Depommier, M Derrien, A Everard, WM de Vos_
+
+
+Ever since Akkermansia muciniphila was discovered and characterized two decades ago, numerous studies have shown that the lack or decreased abundance of this commensal bacterium was linked with multiple diseases (such as obesity, diabetes, liver steatosis, inflammation and response to cancer immunotherapies). Although primarily based on simple associations, there are nowadays an increasing number of studies moving from correlations to causality. The causal evidence derived from a variety of animal models performed in different laboratories and recently was also recapitulated in a human proof-of-concept trial. In this Review, we cover the history of the discovery of A. muciniphila and summarize the numerous findings and main mechanisms of action by which this intestinal symbiont improves health. A comparison of this microorganism with other next-generation beneficial microorganisms that are being developed is also made.
 
 [Source](https://www.nature.com/articles/s41575-022-00631-9)
+
+10.1038/s41575-022-00631-9
 
 ---
 
@@ -92,9 +98,15 @@ Low-energy diets (LEDs) comprise commercially formulated food products that prov
 
 ---
 
-## Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes
+## Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes.
+ 01.06.2022, _L Guthrie, SP Spencer, D Perelman, W Van Treuren, S Han, FB Yu, ED Sonnenburg, MA Fischbach, TW Meyer, JL Sonnenburg_
+
+
+Gut microbiota metabolism of dietary compounds generates a vast array of microbiome-dependent metabolites (MDMs), which are highly variable between individuals. The uremic MDMs (uMDMs) phenylacetylglutamine (PAG), p-cresol sulfate (PCS), and indoxyl sulfate (IS) accumulate during renal failure and are associated with poor outcomes. Targeted dietary interventions may reduce toxic MDM generation; however, it is unclear if inter-individual differences in diet or gut microbiome dominantly contribute to MDM variance. Here, we use a 7-day homogeneous average American diet to standardize dietary precursor availability in 21 healthy individuals. During dietary homogeneity, the coefficient of variation in PAG, PCS, and IS (primary outcome) did not decrease, nor did inter-individual variation in most identified metabolites; other microbiome metrics showed no or modest responses to the intervention. Host identity and age are dominant contributors to variability in MDMs. These results highlight the potential need to pair dietary modification with microbial therapies to control MDM profiles.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312822002633)
+
+10.1016/j.chom.2022.05.003
 
 ---
 
@@ -123,15 +135,21 @@ Termites primarily feed on lignocellulose or soil in association with specific g
 
 ---
 
-## Oral Microbiota Populations of Adult Dogs Consuming Wet or Dry Foods.
- 31.05.2022, _PM Oba, KM Sieja, SCJ Keating, T Hristova, AJ Somrak, KS Swanson_
+## Markers of oxidative stress in postmenopausal women with metabolic syndrome.
+ 01.06.2022, _A Montoya-Estrada, DB Veruete-Bedolla, J Romo-Yañez, GF Ortiz-Luna, A Arellano-Eguiluz, N Najéra, G Ceballos, NG Nieto-Velázquez, MA Ramos-Valencia, N Cariño-Mancilla, NL Valdez-Rodríguez, A Flores-Pliego, A Espejel-Nuñez, E Reyes-Muñoz_
 
 
-Oral microbiota play a prominent role in canine periodontal disease and wet foods are often blamed for poor oral health, but canine oral microbial communities have been poorly studied. We aimed to determine differences in oral health measures, breath odor, and oral microbiota populations of dogs fed wet or dry food. Twelve adult dogs fed either a commercial dry (extruded) or commercial wet (canned) food for 6 wk were studied. Breath samples were measured for sulfur compounds, teeth were scored for plaque, calculus, and gingivitis by a blinded veterinary dentist, salivary pH was measured, and supragingival (SUP) and subgingival (SUB) plaque samples were collected for microbiota analysis. Plaque DNA was extracted and Illumina sequencing conducted. Phylogenetic data were analyzed using the CosmosID bioinformatics platform and SAS 9.4, with P&lt;0.05 being significant and P&lt;0.10 being trends. Plaque coverage tended to be higher (P&lt;0.10) in dogs fed wet vs. dry food, but other oral health scores were not different. Dogs fed dry food had higher (P&lt;0.05) salivary pH and lower (P&lt;0.05) breath sulfur concentrations than those consuming wet food. Bacterial alpha diversity was higher in SUP than SUB samples, and a clear separation in beta diversity was observed between sample sites on principal coordinates analysis (PCoA) plots. In SUP samples, dogs fed wet food had a higher alpha diversity than dogs fed dry food, with PCoA plots showing a separation between wet and dry food. Relative abundances of Firmicutes, Synergistetes, and 10 bacterial genera were different (P&lt;0.05) in SUB samples of dogs fed wet vs. dry food. Relative abundances of Fusobacteria and over 20 bacterial genera were different (P&lt;0.05) in SUP samples of dogs fed wet vs. dry food. In general, oral health-associated bacterial taxa (Pasteurella, Capnocytophaga, Corynebacterium) were higher, while bacteria associated with poor oral health (Fretibacterium fastidiosum, Filifactor alocis, Treponema medium, Tannerella forsythia, Porphyromonas canoris, Porphyromonas gingivalis) were lower in dogs fed dry food. Such shifts in the oral microbiota may impact periodontal disease risk, but longer dietary intervention studies are required to confirm their role in the disease process. Our results suggest that dogs fed dry extruded foods have lower breath odor and tooth plaque buildup and an oral microbiota population more closely associated with oral health than dogs fed wet canned foods.
+During the postmenopausal period, there are metabolic alterations that predispose individuals to metabolic syndrome (MS), oxidative stress (OS), and the risk of developing cardiovascular diseases. We aimed to compare the concentrations of OS markers in postmenopausal women with and without MS. Malondialdehyde, carbonyl groups, and total antioxidant capacity (TAC) were quantified. We conducted a cross-sectional study: Group 1 (n = 42) included women without MS, and Group 2 (n = 58) comprised women with MS. Participants' age was similar between groups. Glucose, insulin, the homeostasis model assessment of insulin resistance, triglycerides, uric acid, and body mass index were significantly lower in postmenopausal women without MS. OS markers were significantly lower in Group 1 vs. Group 2: malondialdehyde, 31.32 ± 14.93 vs. 40.27 ± 17.62 pmol MDA/mg dry weight (p = .01); protein carbonylation, 6325 ± 1551 vs. 7163 ± 1029 pmol PC/mg protein (p = .0003); and TAC, 1497 ± 297.3 vs. 1619 ± 278.8 pmol Trolox equivalent/mg protein (p = .041). OS markers were significantly higher in postmenopausal women with MS. Impact statementWhat is already known on this subject? Oxidative stress has been implicated in numerous disease processes; however, information on the relationship between oxidative stress and metabolic syndrome among postmenopausal women remains limited.What do the results of this study add? Our results indicate that in postmenopausal Mexican women, oxidative stress markers were significantly lower in those without metabolic syndrome, whereas total antioxidant capacity was higher in those with metabolic syndrome, which could be explained as an antioxidant defense mechanism capable of neutralising excess oxidative damage markers.What are the implications of these findings for clinical practice and/or further research? This study is of interest to a broad audience because it compares the concentrations of oxidative stress markers in postmenopausal women with and without metabolic syndrome. Our study could support intervention with supplements or foods rich in antioxidants as lifestyle modifications in postmenopausal women with metabolic syndrome.
 
 [Source](https://doi.org/10.1093/jas/skac200)
 
-10.1093/jas/skac200
+10.1080/01443615.2022.2062223
+
+---
+
+## Oral Microbiota Populations of Adult Dogs Consuming Wet or Dry Foods
+
+[Source](https://doi.org/10.1093/jas/skac200)
 
 ---
 
