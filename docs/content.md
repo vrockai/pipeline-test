@@ -1,97 +1,132 @@
-## Immune-mediated attenuation of influenza illness after infection: opportunities and challenges.
- 18.05.2022, _MM Patel, IA York, AS Monto, MG Thompson, AM Fry_
+## Translating Microbiome Research From and To the Clinic
 
-
-_Humans, Influenza Vaccines, Influenza, Human, Orthomyxoviridae, Orthomyxoviridae Infections, Reinfection_
-Sterilising immunity that blocks infection for life, and thus prevents illness after infection, is the ultimate goal for vaccines. Neither influenza infection nor vaccination provide sterilising immunity. Mutations during influenza viral genome replication result in the emergence of viruses that evade immunity and cause reinfections. Waning of immunity also results in reinfections to homologous influenza viruses. However, immunity might limit the severity of disease after infection or vaccination (ie, immunoattenuation). We provide a comprehensive examination of experimental and observational peer reviewed evidence since 1933, when the first influenza virus was isolated, on whether immunity blocks subsequent infection or attenuates illness. Although an abundance of experimental evidence supports immunoattenuation, clinical evidence is rudimentary and conflicting. To the extent that immunoattenuation occurs, understanding the varied pathways to illness, pathogenesis, clinical manifestations, and correlates of attenuation can improve the design and evaluation of influenza vaccines. By elucidating the mechanisms of immunoattenuation and phenotypes of illness, we clarify ambiguities and identify unmet needs that, if addressed with priority, could strategically improve the design of vaccines for the prevention of influenza.
-
-[Source](https://asm.org/Events/ASM-Microbe/Home)
-
-10.1016/S2666-5247(21)00180-4
+[Source](https://doi.org/10.1146/annurev-micro-041020-022206)
 
 ---
 
-## ASM Microbe
-
-[Source](https://asm.org/Events/ASM-Microbe/Home)
-
----
-
-## Oro-facial mucocutaneous manifestations of Coronavirus Disease-2019 (COVID-19): A systematic review.
- 02.06.2022, _KS Fakhruddin, LP Samaranayake, B Buranawat, H Ngo_
+## High-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome.
+ 02.06.2022, _W Zheng, S Zhao, Y Yin, H Zhang, DM Needham, ED Evans, CL Dai, PJ Lu, EJ Alm, DA Weitz_
 
 
-We reviewed the prevalence, the likely aetiopathogenesis, and the management of oro-facial mucocutaneous manifestations of Coronavirus Disease-2019 (COVID-19), caused by the Severe Acute Respiratory Syndrome Coronavirus -2 (SARS-CoV-2). English language manuscripts searched using standard databases yielded 26 articles that met the inclusion criteria. In total, 169 cases (75 females; 94 males) from 15 countries with a spectrum of COVID-19 severities were reviewed. Gustatory perturbations were prevalent in over 70%. Mucocutaneous manifestations were reported predominantly on the tongue, palate, buccal mucosa, gingivae, and lips and included ulcers, blisters, erosions, papillary hyperplasia, macules, glossitis, and mucositis. Ulcerative lesions, present in over 50 percent, were the most common oral manifestation. Lesions resembling candidal infections, with burning mouth, were prevalent in 19%. Petechiae and angina bullosa were generally seen, subsequent to COVID-19 therapies, in 11%. Ulcerated, necrotic gingivae were documented in severely ill with poor oral hygiene. These manifestations, present across the COVID-19 disease spectrum, were commonly associated with the immunosuppressed state and/ or the concurrent antimicrobial/steroidal therapies. In summary, a wide variety of orofacial mucocutaneous lesions manifest in COVID-19. They are likely to be secondary to the disease-associated immune impairment and/or pharmaco-therapy rather than a direct result of SARS-CoV-2 infection per se.
+Characterizing complex microbial communities with single-cell resolution has been a long-standing goal of microbiology. We present Microbe-seq, a high-throughput method that yields the genomes of individual microbes from complex microbial communities. We encapsulate individual microbes in droplets with microfluidics and liberate their DNA, which we then amplify, tag with droplet-specific barcodes, and sequence. We explore the human gut microbiome, sequencing more than 20,000 microbial single-amplified genomes (SAGs) from a single human donor and coassembling genomes of almost 100 bacterial species, including several with multiple subspecies strains. We use these genomes to probe microbial interactions, reconstructing the horizontal gene transfer (HGT) network and observing HGT between 92 species pairs; we also identify a significant in vivo host-phage association between crAssphage and one strain of Bacteroides vulgatus. Microbe-seq contributes high-throughput culture-free capabilities to investigate genomic blueprints of complex microbial communities with single-microbe resolution.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265531)
+[Source](https://doi.org/10.1126/science.abm1483)
 
-10.1371/journal.pone.0265531
+10.1126/science.abm1483
 
 ---
 
-## The salivary and nasopharyngeal microbiomes are associated with SARS-CoV-2 infection and disease severity
+## Gut microbiota and atopic dermatitis in children: a scoping review
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.05.31.494162v1.abstract?%3Fcollection=)
-
----
-
-## Determinants of the COVID-19 vaccine hesitancy spectrum.
- 02.06.2022, _R Piltch-Loeb, DR Silver, Y Kim, H Norris, E McNeill, DM Abramson_
-
-
-Vaccine hesitancy remains an issue in the United States. This study conducted an online survey [N = 3,013] using the Social Science Research Solution [SSRS] Opinion Panel web panelists, representative of U.S. adults age 18 and older who use the internet, with an oversample of rural-dwelling and minority populations between April 8 and April 22, 2021- as vaccine eligibility opened to the country. We examined the relationship between COVID-19 exposure and socio-demographics with vaccine intentions [eager-to-take, wait-and-see, undecided, refuse] among the unvaccinated using multinomial logistic regressions [ref: fully/partially vaccinated]. Results showed vaccine intentions varied by demographic characteristics and COVID-19 experience during the period that eligibility for the vaccine was extended to all adults. At the time of the survey approximately 40% of respondents were unvaccinated; 41% knew someone who had died of COVID-19, and 38% had experienced financial hardship as a result of the pandemic. The vaccinated were more likely to be highly educated, older adults, consistent with the United States initial eligibility criteria. Political affiliation and financial hardship experienced during the pandemic were the two most salient factors associated with being undecided or unwilling to take the vaccine.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267734)
-
-10.1371/journal.pone.0267734
+[Source](https://doi.org/10.1186/s12887-022-03390-3)
 
 ---
 
-## Fatty acid synthesis knockdown promotes biofilm wrinkling and inhibits sporulation in <em>Bacillus subtilis</em>
+## Gut microbiome and autoimmune disorders.
+ 02.06.2022, _WA Shaheen, MN Quraishi, TH Iqbal_
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.05.31.494136v1.abstract?%3Fcollection=)
 
----
+Autoimmune diseases have long been known to share a common pathogenesis involving a dysregulated immune system with failure to recognize self from non-self antigens. This immune dysregulation is now increasingly understood to be induced by environmental triggers in genetically predisposed individuals. Although several external environmental triggers have been defined in different autoimmune diseases, much attention is being paid to the role of the internal micro-environment occupied by the microbiome which was once termed "the forgotten organ". In this regard, the gut microbiome, serving as an intermediary between some of those external environmental effectors and the immune system helps programming of the immune system to be tolerant to innocent external and self antigens. However, in the presence of perturbed gut microbiota (dysbiosis), the immune system could be erroneously directed in favor of pro-inflammatory pathways to instigate different autoimmune processes. An accumulating body of evidence, including both experimental and human studies (observational and interventional) points to a role of gut microbiome in different autoimmune diseases. Such evidence could provide a rationale for gut microbiome manipulation with therapeutic and even preventative intents in patients with established or predisposed to autoimmune diseases respectively. Perturbations of the gut microbiome have been delineated in some immune mediated diseases, IBD in particular. However, such patterns of disturbance (microbiome signatures) and related pathogenetic roles of the gut microbiome are context dependent and cannot be generalized in the same exact way to other autoimmune disorders and the contribution of gut microbiome to different disease phenotypes has to be precisely defined. In this review, we revise the evidence for a role of gut microbiome in various autoimmune diseases and possible mechanisms mediating such a role.
 
-## Association of <em>Strongyloides stercoralis</em> infection and type 2 diabetes mellitus in northeastern Thailand: Impact on diabetic complication-related renal biochemical parameters
+[Source](https://doi.org/10.1093/cei/uxac057)
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269080)
-
----
-
-## Analysis of secondary metabolite gene clusters and chitin biosynthesis pathways of <em>Monascus purpureus </em>with high production of pigment and citrinin based on whole-genome sequencing
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263905)
+10.1093/cei/uxac057
 
 ---
 
-## A novel class of antimicrobial drugs selectively targets a <em>Mycobacterium tuberculosis</em> PE-PGRS protein
+## Altered Vaginal Microbiota Composition Correlates With Human Papillomavirus and Mucosal Immune Responses in Women With Symptomatic Cervical Ectopy
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001648)
-
----
-
-## Assessing the influence of the Mediterranean diet on dental calculus microbiome composition: a pilot study
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.01.494314v1.abstract?%3Fcollection=)
+[Source](https://doi.org/10.3389/fcimb.2022.884272)
 
 ---
 
-## Lactobacillus plantarum improves LPS-induced Caco2 cell line intestinal barrier damage via cyclic AMP-PKA signaling
+## Profile of the Nasopharyngeal Microbiota Affecting the Clinical Course in COVID-19 Patients
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267831)
-
----
-
-## Eukaryotic genomes from a global metagenomic dataset illuminate trophic modes and biogeography of ocean plankton 
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.07.25.453713v2.abstract?%3Fcollection=)
+[Source](https://doi.org/10.3389/fmicb.2022.871627)
 
 ---
 
-## backbone: An R package to extract network backbones
+## Machine learning aided construction of the quorum sensing communication network for human gut microbiota
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269137)
+[Source](https://doi.org/10.1038/s41467-022-30741-6)
+
+---
+
+## Metagenomic assembled plasmids of the human microbiome vary across disease cohorts
+
+[Source](https://doi.org/10.1038/s41598-022-13313-y)
+
+---
+
+## Gut microbial metabolites in Parkinson’s disease: Association with lifestyle, disease characteristics, and treatment status
+
+[Source](https://doi.org/10.1016/j.nbd.2022.105780)
+
+---
+
+## Mechanistic insights into accelerated α-synuclein aggregation mediated by human microbiome-associated functional amyloids
+
+[Source](https://doi.org/10.1016/j.jbc.2022.102088)
+
+---
+
+## Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death
+
+[Source](https://doi.org/10.1016/j.chom.2022.05.005)
+
+---
+
+## A Review: Cereals on Modulating the Microbiota/Metabolome for Metabolic Health
+
+[Source](https://doi.org/10.1007/s13668-022-00424-1)
+
+---
+
+## Anti-Diabetic Potential of <em>Chlorella pyrenoidosa</em>-Based Mixture and its Regulation of Gut Microbiota
+
+[Source](https://doi.org/10.1007/s11130-022-00968-1)
+
+---
+
+## Exploring the Ecological Effects of Naturally Antibiotic-Insensitive Bifidobacteria in the Recovery of the Resilience of the Gut Microbiota during and after Antibiotic Treatment
+
+[Source](https://doi.org/10.1128/aem.00522-22)
+
+---
+
+## Synchrony and idiosyncrasy in the gut microbiome of wild baboons
+
+[Source](https://doi.org/10.1038/s41559-022-01773-4)
+
+---
+
+## A synergistic bacterial pool decomposes tebuthiuron in soil
+
+[Source](https://doi.org/10.1038/s41598-022-13147-8)
+
+---
+
+## The microbiome of cryospheric ecosystems
+
+[Source](https://doi.org/10.1038/s41467-022-30816-4)
+
+---
+
+## Bacterial diversity and community structure in the rhizosphere of the halophyte <em>Halocnemum strobilaceum</em> in an Algerian arid saline soil
+
+[Source](https://doi.org/10.1007/s00792-022-01268-x)
+
+---
+
+## Multiscale analysis of count data through topic alignment
+
+[Source](https://doi.org/10.1093/biostatistics/kxac018)
+
+---
+
+## SAMBA: A Multicolor Digital Melting PCR Platform for Rapid Microbiome Profiling
+
+[Source](https://doi.org/10.1002/smtd.202200185)
 
 ---
 
