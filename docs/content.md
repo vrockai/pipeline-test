@@ -77,16 +77,9 @@ Vaccine hesitancy remains an issue in the United States. This study conducted an
 
 ---
 
-## Lactobacillus plantarum improves LPS-induced Caco2 cell line intestinal barrier damage via cyclic AMP-PKA signaling.
- 02.06.2022, _CX Wei, JH Wu, YH Huang, XZ Wang, JY Li_
-
-
-_Animals, Caco-2 Cells, Colforsin, Cyclic AMP, Humans, Intestines, Lactobacillus plantarum, Lipopolysaccharides, Rats_
-Lactobacillus plantarum (LP) has been shown to exhibit protective effects on intestinal barrier function in septic rats, although the regulatory mechanism has not been established. We determined whether LP imparts such protective effects in a lipopolysaccharide (LPS)-induced Caco2 cell monolayer model and whether cAMP-PKA signaling is the underlying mechanism of action. The cyclic adenosine monophosphate (cAMP) agonist, forskolin (FSK), and the protein kinase A (PKA) inhibitor, HT89, were used to study the protective effect of LP on the destruction of the tight junction (TJ) structure of cells treated with LPS and the corresponding changes in cAMP-PKA signaling. Our experimental results demonstrated that LP promoted the expression of TJ proteins between Caco2 cells after LPS treatment, and increased the electrical barrier detection (TEER) between Caco2 cells. Moreover, transmission electron microscopy (TEM) revealed that the TJ structural integrity of cells treated with LPS + LP was improved compared to cells treated with LPS alone. In addition, our findings were consistent between the FSK and LP intervention group, while HT89 inhibited LP influence. Taken together, our results indicate that LP has an improved protective effect on LPS-induced damage to the monolayer membrane barrier function of Caco2 cells and is regulated by the cAMP-PKA pathway.
+## Lactobacillus plantarum improves LPS-induced Caco2 cell line intestinal barrier damage via cyclic AMP-PKA signaling
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267831)
-
-10.1371/journal.pone.0267831
 
 ---
 
