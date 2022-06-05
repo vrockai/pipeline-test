@@ -88,9 +88,15 @@ Autoimmune diseases have long been known to share a common pathogenesis involvin
 
 ---
 
-## Exploring the Ecological Effects of Naturally Antibiotic-Insensitive Bifidobacteria in the Recovery of the Resilience of the Gut Microbiota during and after Antibiotic Treatment
+## Exploring the Ecological Effects of Naturally Antibiotic-Insensitive Bifidobacteria in the Recovery of the Resilience of the Gut Microbiota during and after Antibiotic Treatment.
+ 02.06.2022, _C Argentini, L Mancabelli, G Alessandri, C Tarracchini, M Barbetti, L Carnevali, G Longhi, A Viappiani, R Anzalone, C Milani, A Sgoifo, D van Sinderen, M Ventura, F Turroni_
+
+
+Amoxicillin-clavulanic acid (AMC) is the most widely used antibiotic, being frequently prescribed to infants. Particular members of the genus Bifidobacterium are among the first microbial colonizers of the infant gut, and it has been demonstrated that they exhibit various activities beneficial for their human host, including promotion/maintenance of the human gut microbiota homeostasis. It has been shown that natural resistance of bifidobacteria to AMC is limited to a small number of strains. In the current study, we investigated the mitigation effects of AMC-resistant bifidobacteria in diversity preservation of the gut microbiota during AMC treatment. To this end, an in vitro coculture experiment based on infant fecal samples and an in vivo study employing a rodent model were performed. The results confirmed the ability of AMC-resistant bifidobacterial strains to bolster gut microbiota resilience, while specific covariance analysis revealed strain-specific and variable impacts on the microbiota composition by individual bifidobacterial taxa. IMPORTANCE The first microbial colonizers of the infant gut are members of the genus Bifidobacterium, which exhibit different activities beneficial to their host. Amoxicillin-clavulanic acid (AMC) is the most frequently prescribed antibiotic during infancy, and few strains of bifidobacteria are known to show a natural resistance to this antibiotic. In the present work, we evaluated the possible positive effects of AMC-resistant bifidobacterial strains in maintaining gut microbiota diversity during AMC exposure, performing an in vitro and in vivo experiment based on an infant gut model and a rodent model, respectively. Our results suggested the ability of AMC-resistant bifidobacterial strains to support gut microbiota restoration.
 
 [Source](https://doi.org/10.1128/aem.00522-22)
+
+10.1128/aem.00522-22
 
 ---
 
@@ -124,9 +130,15 @@ Autoimmune diseases have long been known to share a common pathogenesis involvin
 
 ---
 
-## SAMBA: A Multicolor Digital Melting PCR Platform for Rapid Microbiome Profiling
+## SAMBA: A Multicolor Digital Melting PCR Platform for Rapid Microbiome Profiling.
+ 02.06.2022, _Y Luo, X Cui, E Cheruba, YK Chua, C Ng, RZ Tan, KK Tan, LF Cheow_
+
+
+During the past decade, breakthroughs in sequencing technology have provided the basis for studies of the myriad ways in which microbial communities in and on the human body influence human health and disease. In almost every medical specialty, there is now a growing interest in accurate and quantitative profiling of the microbiota for use in diagnostic and therapeutic applications. However, the current next-generation sequencing approach for microbiome profiling is costly, requires laborious library preparation, and is challenging to scale up for routine diagnostics. Split, Amplify, and Melt analysis of BActeria-community (SAMBA), a novel multicolor digital melting polymerase chain reaction platform with unprecedented multiplexing capability is presented, and the capability to distinguish and quantify 16 bacteria species in mixtures is demonstrated. Subsequently, SAMBA is applied to measure the compositions of bacteria in the gut microbiome to identify microbial dysbiosis related to colorectal cancer. This rapid, low cost, and high-throughput approach will enable the implementation of microbiome diagnostics in clinical laboratories and routine medical practice.
 
 [Source](https://doi.org/10.1002/smtd.202200185)
+
+10.1002/smtd.202200185
 
 ---
 
