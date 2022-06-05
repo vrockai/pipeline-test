@@ -64,15 +64,27 @@ Autoimmune diseases have long been known to share a common pathogenesis involvin
 
 ---
 
-## Mechanistic insights into accelerated α-synuclein aggregation mediated by human microbiome-associated functional amyloids
+## Mechanistic insights into accelerated α-synuclein aggregation mediated by human microbiome-associated functional amyloids.
+ 02.06.2022, _SS Bhoite, Y Han, BT Ruotolo, MR Chapman_
+
+
+The gut microbiome has been shown to have key implications in the pathogenesis of Parkinson's disease (PD). The E. coli functional amyloid CsgA is known to accelerate α-synuclein aggregation in vitro and induce PD symptoms in mice. However, the mechanism governing CsgA-mediated acceleration of α-synuclein aggregation is unclear. Here, we show that CsgA can form stable homodimeric species that correlate with faster α-synuclein amyloid aggregation. Furthermore, we identify and characterize new CsgA homologs encoded by bacteria present in the human microbiome. These CsgA homologs display diverse aggregation kinetics, and they differ in their ability to modulate α-synuclein aggregation. Remarkably, we demonstrate that slowing down CsgA aggregation leads to increased acceleration of α-synuclein aggregation suggesting that the intrinsic amyloidogenicity of gut bacterial CsgA homologs affects their ability to accelerate α-synuclein aggregation. Finally, we identify a complex between CsgA and α-synuclein that functions as a platform to accelerate α-synuclein aggregation. Taken together, our work reveals complex interplay between bacterial amyloids and α-synuclein that better informs our understanding of PD causation.
 
 [Source](https://doi.org/10.1016/j.jbc.2022.102088)
 
+10.1016/j.jbc.2022.102088
+
 ---
 
-## Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death
+## Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death.
+ 02.06.2022, _Y Teng, J Mu, F Xu, X Zhang, MK Sriwastva, QM Liu, X Li, C Lei, K Sundaram, X Hu, L Zhang, JW Park, JY Hwang, EC Rouchka, X Zhang, J Yan, ML Merchant, HG Zhang_
+
+
+The intestinal microbiome releases a plethora of small molecules. Here, we show that the Ruminococcaceae metabolite isoamylamine (IAA) is enriched in aged mice and elderly people, whereas Ruminococcaceae phages, belonging to the Myoviridae family, are reduced. Young mice orally administered IAA show cognitive decline, whereas Myoviridae phage administration reduces IAA levels. Mechanistically, IAA promotes apoptosis of microglial cells by recruiting the transcriptional regulator p53 to the S100A8 promoter region. Specifically, IAA recognizes and binds the S100A8 promoter region to facilitate the unwinding of its self-complementary hairpin structure, thereby subsequently enabling p53 to access the S100A8 promoter and enhance S100A8 expression. Thus, our findings provide evidence that small molecules released from the gut microbiome can directly bind genomic DNA and act as transcriptional coregulators by recruiting transcription factors. These findings further unveil a molecular mechanism that connects gut metabolism to gene expression in the brain with implications for disease development.
 
 [Source](https://doi.org/10.1016/j.chom.2022.05.005)
+
+10.1016/j.chom.2022.05.005
 
 ---
 
