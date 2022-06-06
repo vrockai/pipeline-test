@@ -82,15 +82,9 @@ The gut microbiome has been shown to have key implications in the pathogenesis o
 
 ---
 
-## Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death.
- 02.06.2022, _Y Teng, J Mu, F Xu, X Zhang, MK Sriwastva, QM Liu, X Li, C Lei, K Sundaram, X Hu, L Zhang, JW Park, JY Hwang, EC Rouchka, X Zhang, J Yan, ML Merchant, HG Zhang_
-
-
-The intestinal microbiome releases a plethora of small molecules. Here, we show that the Ruminococcaceae metabolite isoamylamine (IAA) is enriched in aged mice and elderly people, whereas Ruminococcaceae phages, belonging to the Myoviridae family, are reduced. Young mice orally administered IAA show cognitive decline, whereas Myoviridae phage administration reduces IAA levels. Mechanistically, IAA promotes apoptosis of microglial cells by recruiting the transcriptional regulator p53 to the S100A8 promoter region. Specifically, IAA recognizes and binds the S100A8 promoter region to facilitate the unwinding of its self-complementary hairpin structure, thereby subsequently enabling p53 to access the S100A8 promoter and enhance S100A8 expression. Thus, our findings provide evidence that small molecules released from the gut microbiome can directly bind genomic DNA and act as transcriptional coregulators by recruiting transcription factors. These findings further unveil a molecular mechanism that connects gut metabolism to gene expression in the brain with implications for disease development.
+## Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death
 
 [Source](https://doi.org/10.1016/j.chom.2022.05.005)
-
-10.1016/j.chom.2022.05.005
 
 ---
 
@@ -127,19 +121,6 @@ Amoxicillin-clavulanic acid (AMC) is the most widely used antibiotic, being freq
 ## A synergistic bacterial pool decomposes tebuthiuron in soil
 
 [Source](https://doi.org/10.1038/s41598-022-13147-8)
-
----
-
-## Seasonal taxonomic composition of microbial communal shaping the bioaerosols milieu of the urban city of Lanzhou.
- 11.04.2022, _P Sharma Ghimire, DR Joshi, L Tripathee, P Chen, W Sajjad, S Kang_
-
-
-_Bacteria, Fungi, Microbiota, Proteobacteria, Seasons_
-Here, the taxonomical composition and seasonal dynamics of airborne microbial communities were described in the urban city of Lanzhou, Northwest China. Year-long samples were studied in two filter membranes (Quartz and PTFE). Higher microbial loads were reported in the PTFE than in the quartz filter. Onefold decrease was reported in bacterial loads in spring and summer than winter and autumn for both filters. The fungal loadings were lowest during winter and highest during autumn, followed by summer. The microbial communities included Actinobacteria and Proteobacteria, Ascomycota, and Basidiomycota as major components. Maximum abundance of the members from Gammaproteobacteria, Coriobacteria and Clostridia were studied in all seasons on PTFE membrane, followed by, Erysipelotrichia, Negativicutes and Fusobacteria. Members of Actinobacteria and Bacilli showed higher abundance in spring and winter, with a small proportion during autumn. Members of Clostridia, Gammaproteobacteria, Bacilli, and Actinobacteria showed maximum abundance on the quartz filter in all the seasons. Similarly, on the PTFE, fungi including Dothideomycetes and Agaricomycetes were dominant, followed by Saccharomycetes during summer and winter. The result showed that PM2.5, SO42-, NO2-, Na+, EC, and OC are important environmental parameters influencing the seasonal microbial community. However, the relation of the microbiome with the environment cannot be confidently defined because the environmental factors are changeable and yet interrelated.
-
-[Source](https://doi.org/10.1038/s41467-022-30816-4)
-
-10.1007/s00203-022-02832-x
 
 ---
 
