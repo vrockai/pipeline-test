@@ -1,175 +1,222 @@
-## Translating Microbiome Research From and To the Clinic
-
-[Source](https://doi.org/10.1146/annurev-micro-041020-022206)
-
----
-
-## High-throughput, single-microbe genomics with strain resolution, applied to a human gut microbiome.
- 02.06.2022, _W Zheng, S Zhao, Y Yin, H Zhang, DM Needham, ED Evans, CL Dai, PJ Lu, EJ Alm, DA Weitz_
+## The role of immune cells in the liver tumor microenvironment: an involvement of gut microbiota-derived factors.
+ 02.06.2022, _T Kamiya, N Ohtani_
 
 
-Characterizing complex microbial communities with single-cell resolution has been a long-standing goal of microbiology. We present Microbe-seq, a high-throughput method that yields the genomes of individual microbes from complex microbial communities. We encapsulate individual microbes in droplets with microfluidics and liberate their DNA, which we then amplify, tag with droplet-specific barcodes, and sequence. We explore the human gut microbiome, sequencing more than 20,000 microbial single-amplified genomes (SAGs) from a single human donor and coassembling genomes of almost 100 bacterial species, including several with multiple subspecies strains. We use these genomes to probe microbial interactions, reconstructing the horizontal gene transfer (HGT) network and observing HGT between 92 species pairs; we also identify a significant in vivo host-phage association between crAssphage and one strain of Bacteroides vulgatus. Microbe-seq contributes high-throughput culture-free capabilities to investigate genomic blueprints of complex microbial communities with single-microbe resolution.
+More than 500 species of microbiota reside in the human intestine and coexist with humans, their host. Gut microbial metabolites and components are absorbed from the intestine and influence cells in the liver, including hepatocytes and stromal cells, such as liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, natural killer (NK) cells, NK T cells, and other immune cells. This gut-originated axis to the liver is called the "gut-liver axis", which underscores the importance of the link between the gut and the liver. In this review, we discuss the gut microbial components and metabolites that affect cells in the liver, particularly in association with immune cells, and the related responses. We also highlight the mechanisms underlying gut microbiota-mediated liver carcinogenesis and discuss cancer prevention, including the recently clarified modulation of immune checkpoint inhibitor efficacy by the gut microbiota.
 
-[Source](https://doi.org/10.1126/science.abm1483)
+[Source](https://doi.org/10.1093/intimm/dxac020)
 
-10.1126/science.abm1483
+10.1093/intimm/dxac020
 
 ---
 
-## Gut microbiota and atopic dermatitis in children: a scoping review
-
-[Source](https://doi.org/10.1186/s12887-022-03390-3)
-
----
-
-## Gut microbiome and autoimmune disorders.
- 02.06.2022, _WA Shaheen, MN Quraishi, TH Iqbal_
+## Multiomic Analyses of Nascent Preterm Infant Microbiomes Differentiation Suggest Opportunities for Targeted Intervention.
+ 02.06.2022, _SB Orchanian, JM Gauglitz, S Wandro, KC Weldon, M Doty, K Stillwell, S Hansen, L Jiang, F Vargas, KE Rhee, JC Lumeng, PC Dorrestein, R Knight, JH Kim, SJ Song, AD Swafford_
 
 
-Autoimmune diseases have long been known to share a common pathogenesis involving a dysregulated immune system with failure to recognize self from non-self antigens. This immune dysregulation is now increasingly understood to be induced by environmental triggers in genetically predisposed individuals. Although several external environmental triggers have been defined in different autoimmune diseases, much attention is being paid to the role of the internal micro-environment occupied by the microbiome which was once termed "the forgotten organ". In this regard, the gut microbiome, serving as an intermediary between some of those external environmental effectors and the immune system helps programming of the immune system to be tolerant to innocent external and self antigens. However, in the presence of perturbed gut microbiota (dysbiosis), the immune system could be erroneously directed in favor of pro-inflammatory pathways to instigate different autoimmune processes. An accumulating body of evidence, including both experimental and human studies (observational and interventional) points to a role of gut microbiome in different autoimmune diseases. Such evidence could provide a rationale for gut microbiome manipulation with therapeutic and even preventative intents in patients with established or predisposed to autoimmune diseases respectively. Perturbations of the gut microbiome have been delineated in some immune mediated diseases, IBD in particular. However, such patterns of disturbance (microbiome signatures) and related pathogenetic roles of the gut microbiome are context dependent and cannot be generalized in the same exact way to other autoimmune disorders and the contribution of gut microbiome to different disease phenotypes has to be precisely defined. In this review, we revise the evidence for a role of gut microbiome in various autoimmune diseases and possible mechanisms mediating such a role.
+The first week after birth is a critical time for the establishment of microbial communities for infants. Preterm infants face unique environmental impacts on their newly acquired microbiomes, including increased incidence of cesarean section delivery and exposure to antibiotics as well as delayed enteral feeding and reduced human interaction during their intensive care unit stay. Using contextualized paired metabolomics and 16S sequencing data, the development of the gut, skin, and oral microbiomes of infants is profiled daily for the first week after birth, and it is found that the skin microbiome appears robust to early life perturbation, while direct exposure of infants to antibiotics, rather than presumed maternal transmission, delays microbiome development and prevents the early differentiation based on body site regardless of delivery mode. Metabolomic analyses identify the development of all gut metabolomes of preterm infants toward full-term infant profiles, but a significant increase of primary bile acid metabolism only in the non-antibiotic treated vaginally birthed late preterm infants. This study provides a framework for future multi-omic, multibody site analyses on these high-risk preterm infant populations and suggests opportunities for monitoring and intervention, with infant antibiotic exposure as the primary driver of delays in microbiome development.
 
-[Source](https://doi.org/10.1093/cei/uxac057)
+[Source](https://doi.org/10.1002/adbi.202101313)
 
-10.1093/cei/uxac057
+10.1002/adbi.202101313
 
 ---
 
-## Altered Vaginal Microbiota Composition Correlates With Human Papillomavirus and Mucosal Immune Responses in Women With Symptomatic Cervical Ectopy
+## Short chain fatty acids-producing and mucin-degrading intestinal bacteria predict the progression of early Parkinson's disease.
+ 01.06.2022, _H Nishiwaki, M Ito, T Hamaguchi, T Maeda, K Kashihara, Y Tsuboi, J Ueyama, T Yoshida, H Hanada, I Takeuchi, M Katsuno, M Hirayama, K Ohno_
 
-[Source](https://doi.org/10.3389/fcimb.2022.884272)
 
----
+To elucidate the relevance of gut dysbiosis in Parkinson's disease (PD) in disease progression, we made random forest models to predict the progression of PD in two years by gut microbiota in 165 PD patients. The area under the receiver operating characteristic curves (AUROCs) of gut microbiota-based models for Hoehn &amp; Yahr (HY) stages 1 and 2 were 0.799 and 0.705, respectively. Similarly, gut microbiota predicted the progression of Movement Disorder Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS) III scores in an early stage of PD with AUROC = 0.728. Decreases of short-chain fatty acid-producing genera, Fusicatenibacter, Faecalibacterium, and Blautia, as well as an increase of mucin-degrading genus Akkermansia, predicted accelerated disease progression. The four genera remained unchanged in two years in PD, indicating that the taxonomic changes were not the consequences of disease progression. PD patients with marked gut dysbiosis may thus be destined to progress faster than those without gut dysbiosis.
 
-## Profile of the Nasopharyngeal Microbiota Affecting the Clinical Course in COVID-19 Patients
+[Source](https://doi.org/10.1038/s41531-022-00328-5)
 
-[Source](https://doi.org/10.3389/fmicb.2022.871627)
-
----
-
-## Machine learning aided construction of the quorum sensing communication network for human gut microbiota
-
-[Source](https://doi.org/10.1038/s41467-022-30741-6)
+10.1038/s41531-022-00328-5
 
 ---
 
-## Metagenomic assembled plasmids of the human microbiome vary across disease cohorts
-
-[Source](https://doi.org/10.1038/s41598-022-13313-y)
-
----
-
-## Gut microbial metabolites in Parkinson's disease: Association with lifestyle, disease characteristics, and treatment status.
- 02.06.2022, _RM Voigt, Z Wang, JM Brown, PA Engen, A Naqib, CG Goetz, DA Hall, LV Metman, M Shaikh, CB Forsyth, A Keshavarzian_
+## Intestinal inflammation alters the antigen-specific immune response to a skin commensal.
+ 01.06.2022, _GR Merana, LR Dwyer, MO Dhariwala, A Weckel, JR Gonzalez, JN Okoro, JN Cohen, CM Tamaki, J Han, P Tasoff, Y Palacios-Calderon, CWY Ha, SV Lynch, JA Segre, HH Kong, MG Kattah, A Ma, TC Scharschmidt_
 
 
-There is growing appreciation of the importance of the intestinal microbiota in Parkinson's disease (PD), and one potential mechanism by which the intestinal microbiota can communicate with the brain is via bacteria-derived metabolites. In this study, plasma levels of bacterial-derived metabolites including trimethylamine-N-oxide (TMAO), short chain fatty acids (SCFA), the branched chain fatty acid isovalerate, succinate, and lactate were evaluated in PD subjects (treatment naïve and treated) which were compared to (1) population controls, (2) spousal / household controls (similar lifestyle to PD subjects), and (3) subjects with multiple system atrophy (MSA). Analyses revealed an increase in the TMAO pathway in PD subjects which was independent of medication status, disease characteristics, and lifestyle. Lactic acid was decreased in treated PD subjects, succinic acid positively correlated with disease severity, and the ratio of pro-inflammatory TMAO to the putative anti-inflammatory metabolite butyric acid was significantly higher in PD subjects compared to controls indicating a pro-inflammatory shift in the metabolite profile in PD subjects. Finally, acetic and butyric acid were different between PD and MSA subjects indicating that metabolites may differentiate these synucleinopathies. In summary, (1) TMAO is elevated in PD subjects, a phenomenon independent of disease characteristics, treatment status, and lifestyle and (2) metabolites may differentiate PD and MSA subjects. Additional studies to understand the potential of TMAO and other bacterial metabolites to serve as a biomarker or therapeutic targets are warranted.
+Resident microbes in skin and gut predominantly impact local immune cell function during homeostasis. However, colitis-associated neutrophilic skin disorders suggest possible breakdown of this compartmentalization with disease. Using a model wherein neonatal skin colonization by Staphylococcus epidermidis facilitates generation of commensal-specific tolerance and CD4+ regulatory T cells (Tregs), we ask whether this response is perturbed by gut inflammation. Chemically induced colitis is accompanied by intestinal expansion of S. epidermidis and reduces gut-draining lymph node (dLN) commensal-specific Tregs. It also results in reduced commensal-specific Tregs in skin and skin-dLNs and increased skin neutrophils. Increased CD4+ circulation between gut and skin dLN suggests that the altered cutaneous response is initiated in the colon, and resistance to colitis-induced effects in Cd4creIl1r1fl/fl mice implicate interleukin (IL)-1 in mediating the altered commensal-specific response. These findings provide mechanistic insight into observed connections between inflammatory skin and intestinal diseases.
 
-[Source](https://doi.org/10.1016/j.nbd.2022.105780)
+[Source](https://doi.org/10.1016/j.celrep.2022.110891)
 
-10.1016/j.nbd.2022.105780
+10.1016/j.celrep.2022.110891
 
 ---
 
-## Mechanistic insights into accelerated α-synuclein aggregation mediated by human microbiome-associated functional amyloids.
- 02.06.2022, _SS Bhoite, Y Han, BT Ruotolo, MR Chapman_
+## Characterization of resistome in <em>Lactobacillus</em> genomic sequences from the human gut
 
-
-The gut microbiome has been shown to have key implications in the pathogenesis of Parkinson's disease (PD). The E. coli functional amyloid CsgA is known to accelerate α-synuclein aggregation in vitro and induce PD symptoms in mice. However, the mechanism governing CsgA-mediated acceleration of α-synuclein aggregation is unclear. Here, we show that CsgA can form stable homodimeric species that correlate with faster α-synuclein amyloid aggregation. Furthermore, we identify and characterize new CsgA homologs encoded by bacteria present in the human microbiome. These CsgA homologs display diverse aggregation kinetics, and they differ in their ability to modulate α-synuclein aggregation. Remarkably, we demonstrate that slowing down CsgA aggregation leads to increased acceleration of α-synuclein aggregation suggesting that the intrinsic amyloidogenicity of gut bacterial CsgA homologs affects their ability to accelerate α-synuclein aggregation. Finally, we identify a complex between CsgA and α-synuclein that functions as a platform to accelerate α-synuclein aggregation. Taken together, our work reveals complex interplay between bacterial amyloids and α-synuclein that better informs our understanding of PD causation.
-
-[Source](https://doi.org/10.1016/j.jbc.2022.102088)
-
-10.1016/j.jbc.2022.102088
+[Source](https://doi.org/10.1016/j.jgar.2022.05.014)
 
 ---
 
-## Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death.
- 02.06.2022, _Y Teng, J Mu, F Xu, X Zhang, MK Sriwastva, QM Liu, X Li, C Lei, K Sundaram, X Hu, L Zhang, JW Park, JY Hwang, EC Rouchka, X Zhang, J Yan, ML Merchant, HG Zhang_
+## Clustering Analysis of the Multi-Microbial Consortium by <em>Lactobacillus</em> Species Against Vaginal Dysbiosis Among Ecuadorian Women
 
-
-The intestinal microbiome releases a plethora of small molecules. Here, we show that the Ruminococcaceae metabolite isoamylamine (IAA) is enriched in aged mice and elderly people, whereas Ruminococcaceae phages, belonging to the Myoviridae family, are reduced. Young mice orally administered IAA show cognitive decline, whereas Myoviridae phage administration reduces IAA levels. Mechanistically, IAA promotes apoptosis of microglial cells by recruiting the transcriptional regulator p53 to the S100A8 promoter region. Specifically, IAA recognizes and binds the S100A8 promoter region to facilitate the unwinding of its self-complementary hairpin structure, thereby subsequently enabling p53 to access the S100A8 promoter and enhance S100A8 expression. Thus, our findings provide evidence that small molecules released from the gut microbiome can directly bind genomic DNA and act as transcriptional coregulators by recruiting transcription factors. These findings further unveil a molecular mechanism that connects gut metabolism to gene expression in the brain with implications for disease development.
-
-[Source](https://doi.org/10.1016/j.chom.2022.05.005)
-
-10.1016/j.chom.2022.05.005
+[Source](https://doi.org/10.3389/fcimb.2022.863208)
 
 ---
 
-## A Review: Cereals on Modulating the Microbiota/Metabolome for Metabolic Health
-
-[Source](https://doi.org/10.1007/s13668-022-00424-1)
-
----
-
-## Anti-Diabetic Potential of <em>Chlorella pyrenoidosa</em>-Based Mixture and its Regulation of Gut Microbiota
-
-[Source](https://doi.org/10.1007/s11130-022-00968-1)
-
----
-
-## Exploring the Ecological Effects of Naturally Antibiotic-Insensitive Bifidobacteria in the Recovery of the Resilience of the Gut Microbiota during and after Antibiotic Treatment.
- 02.06.2022, _C Argentini, L Mancabelli, G Alessandri, C Tarracchini, M Barbetti, L Carnevali, G Longhi, A Viappiani, R Anzalone, C Milani, A Sgoifo, D van Sinderen, M Ventura, F Turroni_
+## Nutritional Intake and Gut Microbiome Composition Predict Parkinson's Disease.
+ 02.06.2022, _M Lubomski, X Xu, AJ Holmes, S Muller, JYH Yang, RL Davis, CM Sue_
 
 
-Amoxicillin-clavulanic acid (AMC) is the most widely used antibiotic, being frequently prescribed to infants. Particular members of the genus Bifidobacterium are among the first microbial colonizers of the infant gut, and it has been demonstrated that they exhibit various activities beneficial for their human host, including promotion/maintenance of the human gut microbiota homeostasis. It has been shown that natural resistance of bifidobacteria to AMC is limited to a small number of strains. In the current study, we investigated the mitigation effects of AMC-resistant bifidobacteria in diversity preservation of the gut microbiota during AMC treatment. To this end, an in vitro coculture experiment based on infant fecal samples and an in vivo study employing a rodent model were performed. The results confirmed the ability of AMC-resistant bifidobacterial strains to bolster gut microbiota resilience, while specific covariance analysis revealed strain-specific and variable impacts on the microbiota composition by individual bifidobacterial taxa. IMPORTANCE The first microbial colonizers of the infant gut are members of the genus Bifidobacterium, which exhibit different activities beneficial to their host. Amoxicillin-clavulanic acid (AMC) is the most frequently prescribed antibiotic during infancy, and few strains of bifidobacteria are known to show a natural resistance to this antibiotic. In the present work, we evaluated the possible positive effects of AMC-resistant bifidobacterial strains in maintaining gut microbiota diversity during AMC exposure, performing an in vitro and in vivo experiment based on an infant gut model and a rodent model, respectively. Our results suggested the ability of AMC-resistant bifidobacterial strains to support gut microbiota restoration.
+Models to predict Parkinson's disease (PD) incorporating alterations of gut microbiome (GM) composition have been reported with varying success.
 
-[Source](https://doi.org/10.1128/aem.00522-22)
+[Source](https://doi.org/10.3389/fnagi.2022.881872)
 
-10.1128/aem.00522-22
+10.3389/fnagi.2022.881872
 
 ---
 
-## Synchrony and idiosyncrasy in the gut microbiome of wild baboons
+## Bacteriocin-Producing Probiotic Lactic Acid Bacteria in Controlling Dysbiosis of the Gut Microbiota
 
-[Source](https://doi.org/10.1038/s41559-022-01773-4)
-
----
-
-## A synergistic bacterial pool decomposes tebuthiuron in soil
-
-[Source](https://doi.org/10.1038/s41598-022-13147-8)
+[Source](https://doi.org/10.3389/fcimb.2022.851140)
 
 ---
 
-## Seasonal taxonomic composition of microbial communal shaping the bioaerosols milieu of the urban city of Lanzhou.
- 11.04.2022, _P Sharma Ghimire, DR Joshi, L Tripathee, P Chen, W Sajjad, S Kang_
+## Relationship between gut microbiota and colorectal cancer: Probiotics as a potential strategy for prevention.
+ 02.06.2022, _SY Lee, DY Lee, JH Kang, JH Kim, JW Jeong, HW Kim, DH Oh, SH Yoon, SJ Hur_
 
 
-_Bacteria, Fungi, Microbiota, Proteobacteria, Seasons_
-Here, the taxonomical composition and seasonal dynamics of airborne microbial communities were described in the urban city of Lanzhou, Northwest China. Year-long samples were studied in two filter membranes (Quartz and PTFE). Higher microbial loads were reported in the PTFE than in the quartz filter. Onefold decrease was reported in bacterial loads in spring and summer than winter and autumn for both filters. The fungal loadings were lowest during winter and highest during autumn, followed by summer. The microbial communities included Actinobacteria and Proteobacteria, Ascomycota, and Basidiomycota as major components. Maximum abundance of the members from Gammaproteobacteria, Coriobacteria and Clostridia were studied in all seasons on PTFE membrane, followed by, Erysipelotrichia, Negativicutes and Fusobacteria. Members of Actinobacteria and Bacilli showed higher abundance in spring and winter, with a small proportion during autumn. Members of Clostridia, Gammaproteobacteria, Bacilli, and Actinobacteria showed maximum abundance on the quartz filter in all the seasons. Similarly, on the PTFE, fungi including Dothideomycetes and Agaricomycetes were dominant, followed by Saccharomycetes during summer and winter. The result showed that PM2.5, SO42-, NO2-, Na+, EC, and OC are important environmental parameters influencing the seasonal microbial community. However, the relation of the microbiome with the environment cannot be confidently defined because the environmental factors are changeable and yet interrelated.
+Gut microbiota comprise microorganisms residing in the gastrointestinal tract. Some of these microbiota are implicated in the progression of colorectal cancer (CRC). Here, we highlight studies on the effects of meat intake and fermented foods on characteristics of gut microbiota that can influence colitis-associated factors underlying CRC. Gut microbiota can influence the development and progression of CRC, through influencing factors such as secretion of toxins; enzymes for activating carcinogenesis (including β-glucuronidase, β-glucosidase, azoreductase, nitroreductase, and alcohol dehydrogenase); hydrogen sulfide generation; generation of reactive oxygen species and inflammation; secondary bile salt transformation; and products of protein fermentation. Additionally, some studies that the composition of gut microbiota (probiotics) or prebiotics plays an important role in the production of short chain fatty acids, inactivation enzymes for carcinogenesis, antioxidant activities, and inhibition of pathogen colonization. In this review, we discuss various explanatory mechanisms of the relationship between the multifactorial role of the gut microbiota and the development of CRC. Moreover, this review provides fundamental information on dietary fermented food and the gut microbiota, which is helpful for healthy people and those with CRC alike.
 
-[Source](https://doi.org/10.1038/s41467-022-30816-4)
+[Source](https://doi.org/10.1016/j.foodres.2022.111327)
 
-10.1007/s00203-022-02832-x
-
----
-
-## The microbiome of cryospheric ecosystems
-
-[Source](https://doi.org/10.1038/s41467-022-30816-4)
+10.1016/j.foodres.2022.111327
 
 ---
 
-## Bacterial diversity and community structure in the rhizosphere of the halophyte <em>Halocnemum strobilaceum</em> in an Algerian arid saline soil
+## Health benefits of microalgae and their microbiomes.
+ 01.06.2022, _I Krohn, S Menanteau-Ledouble, G Hageskal, Y Astafyeva, P Jouannais, JL Nielsen, M Pizzol, A Wentzel, WR Streit_
 
-[Source](https://doi.org/10.1007/s00792-022-01268-x)
+
+Microalgae comprise a phylogenetically very diverse group of photosynthetic unicellular pro- and eukaryotic organisms growing in marine and other aquatic environments. While they are well explored for the generation of biofuels, their potential as a source of antimicrobial and prebiotic substances have recently received increasing interest. Within this framework, microalgae may offer solutions to the societal challenge we face, concerning the lack of antibiotics treating the growing level of antimicrobial resistant bacteria and fungi in clinical settings. While the vast majority of microalgae and their associated microbiota remain unstudied, they may be a fascinating and rewarding source for novel and more sustainable antimicrobials and alternative molecules and compounds. In this review, we present an overview of the current knowledge on health benefits of microalgae and their associated microbiota. Finally, we describe remaining issues and limitation, and suggest several promising research potentials that should be given attention.
+
+[Source](https://doi.org/10.1111/1751-7915.14082)
+
+10.1111/1751-7915.14082
 
 ---
 
-## Multiscale analysis of count data through topic alignment
+## <em>Lactobacillus reuteri</em> J1 prevents obesity by altering the gut microbiota and regulating bile acid metabolism in obese mice
 
-[Source](https://doi.org/10.1093/biostatistics/kxac018)
+[Source](https://doi.org/10.1039/d1fo04387k)
 
 ---
 
-## SAMBA: A Multicolor Digital Melting PCR Platform for Rapid Microbiome Profiling.
- 02.06.2022, _Y Luo, X Cui, E Cheruba, YK Chua, C Ng, RZ Tan, KK Tan, LF Cheow_
+## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects.
+ 02.06.2022, _J Geng, Z Sui, W Dou, Y Miao, T Wang, X Wei, S Chen, Z Zhang, J Xiao, D Huang_
 
 
-During the past decade, breakthroughs in sequencing technology have provided the basis for studies of the myriad ways in which microbial communities in and on the human body influence human health and disease. In almost every medical specialty, there is now a growing interest in accurate and quantitative profiling of the microbiota for use in diagnostic and therapeutic applications. However, the current next-generation sequencing approach for microbiome profiling is costly, requires laborious library preparation, and is challenging to scale up for routine diagnostics. Split, Amplify, and Melt analysis of BActeria-community (SAMBA), a novel multicolor digital melting polymerase chain reaction platform with unprecedented multiplexing capability is presented, and the capability to distinguish and quantify 16 bacteria species in mixtures is demonstrated. Subsequently, SAMBA is applied to measure the compositions of bacteria in the gut microbiome to identify microbial dysbiosis related to colorectal cancer. This rapid, low cost, and high-throughput approach will enable the implementation of microbiome diagnostics in clinical laboratories and routine medical practice.
+Insects have a long history of being used in medicine, with clear primary and secondary functions and less side effects, and the study and exploitation of medicinal insects have received increasing attention. Insects gut microbiota and their metabolites play an important role in protecting the hosts from other potentially harmful microbes, providing nutrients, promoting digestion and degradation, and regulating growth and metabolism of the hosts. However, there are still few studies linking the medicinal values of insects with their gut microbes. In this study, we focused on the specific gut microbiota common to medicinal insects, hoping to trace the potential connection between medicinal values and gut microbes of medicinal insects. Based on 16S rRNA gene sequencing data, we compared the gut microbiota of medicinal insects [Periplaneta americana, Protaetia (Liocola) brevitarsis (Lewis) and Musca domestica], in their medicinal stages, and non-medicinal insects (Hermetia illucens L., Tenebrio molitor, and Drosophila melanogaster), and found that the intestinal microbial richness of medicinal insects was higher, and there were significant differences in the microbial community structure between the two groups. We established a model using a random-forest method to preliminarily screen out several types of gut microbiota common to medicinal insects that may play medicinal values: Parabacteroides goldsteinii, Lactobacillus dextrinicus, Bifidobacterium longum subsp. infantis (B. infantis), and Vagococcus carniphilus. In particular, P. goldsteinii and B. infantis were most probably involved in the anti-inflammatory effects of medicinal insects. Our results revealed an association between medicinal insects and their gut microbes, providing new development directions and possibly potential tools for utilizing microbes to enhance the medicinal efficacy of medicinal insects.
 
-[Source](https://doi.org/10.1002/smtd.202200185)
+[Source](https://doi.org/10.3389/fmicb.2022.892767)
 
-10.1002/smtd.202200185
+10.3389/fmicb.2022.892767
+
+---
+
+## Antioxidant potential of <em>Pediococcus pentosaceus</em> strains from the sow milk bacterial collection in weaned piglets
+
+[Source](https://doi.org/10.1186/s40168-022-01278-z)
+
+---
+
+## Composition and Diversity of Gut Bacterial Community in Different Life Stages of a Leaf Beetle <em>Gastrolina depressa</em>
+
+[Source](https://doi.org/10.1007/s00248-022-02054-0)
+
+---
+
+## Gut microbiota-derived ursodeoxycholic acid from neonatal dairy calves improves intestinal homeostasis and colitis to attenuate extended-spectrum β-lactamase-producing enteroaggregative <em>Escherichia coli</em> infection
+
+[Source](https://doi.org/10.1186/s40168-022-01269-0)
+
+---
+
+## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes
+
+[Source](https://doi.org/10.1038/s41597-022-01320-7)
+
+---
+
+## Mercury drives microbial community assembly and ecosystem multifunctionality across a Hg contamination gradient in rice paddies.
+ 02.06.2022, _Q Pu, K Zhang, AJ Poulain, J Liu, R Zhang, MA Abdelhafiz, B Meng, X Feng_
+
+
+Soil microbial communities are critical for maintaining terrestrial ecosystems and fundamental ecological processes. Mercury (Hg) is a heavy metal that is toxic to microorganisms, but its effects on microbial community assembly and ecosystem multifunctionality in rice paddy ecosystems remain largely unknown. In the current study, we analyzed the microbial community structure and ecosystem multifunctionality of paddy soils across a Hg contamination gradient. The results demonstrated that Hg contamination significantly altered the microbial community structure. The microbial communities were predominantly driven by deterministic selection rather than stochastic processes. The random forest model and variation partition analysis demonstrated that the Hg level was the most important predictor of microbial profiles. Ecosystem multifunctionality decreased across the Hg concentration gradient, and multifunctionality was significantly correlated with soil biodiversity, suggesting that Hg-induced reductions in soil biodiversity led to reduced ecosystem services. A structural equation model showed that Hg contamination directly and indirectly affected ecosystem multifunctionality. The present work broadens our knowledge of the assembly of the microbiome in rice paddies across a Hg contamination gradient and highlights the significance of soil biodiversity in regulating ecosystem functions, especially in Hg-polluted rice paddies.
+
+[Source](https://doi.org/10.1016/j.jhazmat.2022.129055)
+
+10.1016/j.jhazmat.2022.129055
+
+---
+
+## The sanitary indoor environment-a potential source for intact human-associated anaerobes.
+ 01.06.2022, _MR Pausan, M Blohs, A Mahnert, C Moissl-Eichinger_
+
+
+A healthy human microbiome relies on the interaction with and exchange of microbes that takes place between the human body and its environment. People in high-income countries spend most of their time indoors and for this reason, the built environment (BE) might represent a potent source of commensal microbes. Anaerobic microbes are of particular interest, as researchers have not yet sufficiently clarified how the human microbiome acquires oxygen-sensitive microbes. We sampled the bathrooms in ten households and used propidium monoazide (PMA) to assess the viability of the collected prokaryotes. We compared the microbiome profiles based on 16S rRNA gene sequencing and confirmed our results by genetic and cultivation-based analyses. Quantitative and qualitative analysis revealed that most of the microbial taxa in the BE samples are human-associated. Less than 25% of the prokaryotic signatures originate from intact cells, indicating that aerobic and stress resistant taxa display an apparent survival advantage. However, we also confirmed the presence of intact, strictly anaerobic taxa on bathroom floors, including methanogenic archaea. As methanogens are regarded as highly sensitive to aerobic conditions, oxygen-tolerance experiments were performed with human-associated isolates to validate their survival. These results show that human-associated methanogens can survive oxic conditions for at least 6 h. We collected strong evidence that supports the hypothesis that obligate anaerobic taxa can survive in the BE for a limited amount of time. This suggests that the BE serves as a potential source of anaerobic human commensals.
+
+[Source](https://doi.org/10.1038/s41522-022-00305-z)
+
+10.1038/s41522-022-00305-z
+
+---
+
+## Magnetotactic bacteria and magnetofossils: ecology, evolution and environmental implications.
+ 01.06.2022, _P Goswami, K He, J Li, Y Pan, AP Roberts, W Lin_
+
+
+Magnetotactic bacteria (MTB) are a group of phylogenetically diverse and morphologically varied microorganisms with a magnetoresponsive capability called magnetotaxis or microbial magnetoreception. MTB are a distinctive constituent of the microbiome of aquatic ecosystems because they use Earth's magnetic field to align themselves in a north or south facing direction and efficiently navigate to their favored microenvironments. They have been identified worldwide from diverse aquatic and waterlogged microbiomes, including freshwater, saline, brackish and marine ecosystems, and some extreme environments. MTB play important roles in the biogeochemical cycling of iron, sulphur, phosphorus, carbon and nitrogen in nature and have been recognized from in vitro cultures to sequester heavy metals like selenium, cadmium, and tellurium, which makes them prospective candidate organisms for aquatic pollution bioremediation. The role of MTB in environmental systems is not limited to their lifespan; after death, fossil magnetosomal magnetic nanoparticles (known as magnetofossils) are a promising proxy for recording paleoenvironmental change and geomagnetic field history. Here, we summarize the ecology, evolution, and environmental function of MTB and the paleoenvironmental implications of magnetofossils in light of recent discoveries.
+
+[Source](https://doi.org/10.1038/s41522-022-00304-0)
+
+10.1038/s41522-022-00304-0
+
+---
+
+## Emerging technologies in the study of the virome
+
+[Source](https://doi.org/10.1016/j.coviro.2022.101231)
+
+---
+
+## EasyMap - An Interactive Web Tool for Evaluating and Comparing Associations of Clinical Variables and Microbiome Composition.
+ 02.06.2022, _E Dahan, VM Martin, M Yassour_
+
+
+One of the most common tasks in microbiome studies is comparing microbial profiles across various groups of people (e.g., sick vs. healthy). Routinely, researchers use multivariate linear regression models to address these challenges, such as linear regression packages, MaAsLin2, LEfSe, etc. In many cases, it is unclear which metadata variables should be included in the linear model, as many human-associated variables are correlated with one another. Thus, multiple models are often tested, each including a different set of variables, however the challenge of selecting the metadata variables in the final model remains. Here, we present EasyMap, an interactive online tool allowing for (1) running multiple multivariate linear regression models, on the same features and metadata; (2) visualizing the associations between microbial features and clinical metadata found in each model; and (3) comparing across the various models to identify the critical metadata variables and select the optimal model. EasyMap provides a side-by-side visualization of association results across the various models, each with additional metadata variables, enabling us to evaluate the impact of each metadata variable on the associated feature. EasyMap's interface enables filtering associations by significance, focusing on specific microbes and finding the robust associations that are found across multiple models. While EasyMap was designed to analyze microbiome data, it can handle any other tabular data with numeric features and metadata variables. EasyMap takes the common task of multivariate linear regression to the next level, with an intuitive and simple user interface, allowing for wide comparisons of multiple models to identify the robust microbial feature associations. EasyMap is available at http://yassour.rcs.huji.ac.il/easymap.
+
+[Source](https://doi.org/10.3389/fcimb.2022.854164)
+
+10.3389/fcimb.2022.854164
+
+---
+
+## Effect of cryopreservation medium conditions on growth and isolation of gut anaerobes from human faecal samples.
+ 02.06.2022, _A Biclot, GRB Huys, R Bacigalupe, K D'hoe, D Vandeputte, G Falony, RY Tito, J Raes_
+
+
+Novel strategies for anaerobic bacterial isolations from human faecal samples and various initiatives to generate culture collections of gut-derived bacteria have instigated considerable interest for the development of novel microbiota-based treatments. Early in the process of building a culture collection, optimal faecal sample preservation is essential to safeguard the viability of the broadest taxonomic diversity range possible. In contrast to the much more established faecal storage conditions for meta-omics applications, the impact of stool sample preservation conditions on bacterial growth recovery and isolation remains largely unexplored. In this study, aliquoted faecal samples from eleven healthy human volunteers selected based on a range of physicochemical and microbiological gradients were cryopreserved at - 80 °C either without the addition of any medium (dry condition) or in different Cary-Blair medium conditions with or without a cryoprotectant, i.e. 20% (v/v) glycerol or 5% (v/v) DMSO. Faecal aliquots were subjected to bulk 16S rRNA gene sequencing as well as dilution plating on modified Gifu Anaerobic Medium after preservation for culturable fraction profiling and generation of bacterial culture collections.
+
+[Source](https://doi.org/10.1186/s40168-022-01267-2)
+
+10.1186/s40168-022-01267-2
+
+---
+
+## BiGAMi: Bi-Objective Genetic Algorithm Fitness Function for Feature Selection on Microbiome Datasets.
+ 02.06.2022, _M Leske, F Bottacini, H Afli, BGN Andrade_
+
+
+The relationship between the host and the microbiome, or the assemblage of microorganisms (including bacteria, archaea, fungi, and viruses), has been proven crucial for its health and disease development. The high dimensionality of microbiome datasets has often been addressed as a major difficulty for data analysis, such as the use of machine-learning (ML) and deep-learning (DL) models. Here, we present BiGAMi, a bi-objective genetic algorithm fitness function for feature selection in microbial datasets to train high-performing phenotype classifiers. The proposed fitness function allowed us to build classifiers that outperformed the baseline performance estimated by the original studies by using as few as 0.04% to 2.32% features of the original dataset. In 35 out of 42 performance comparisons between BiGAMi and other feature selection methods evaluated here (sequential forward selection, SelectKBest, and GARS), BiGAMi achieved its results by selecting 6-93% fewer features. This study showed that the application of a bi-objective GA fitness function against microbiome datasets succeeded in selecting small subsets of bacteria whose contribution to understood diseases and the host state was already experimentally proven. Applying this feature selection approach to novel diseases is expected to quickly reveal the microbes most relevant to a specific condition.
+
+[Source](https://doi.org/10.3390/mps5030042)
+
+10.3390/mps5030042
 
 ---
 
