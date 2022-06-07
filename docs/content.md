@@ -1,18 +1,18 @@
-## The role of immune cells in the liver tumor microenvironment: an involvement of gut microbiota-derived factors
+## The role of immune cells in the liver tumor microenvironment: an involvement of gut microbiota-derived factors.
+ 02.06.2022, _T Kamiya, N Ohtani_
+
+
+More than 500 species of microbiota reside in the human intestine and coexist with humans, their host. Gut microbial metabolites and components are absorbed from the intestine and influence cells in the liver, including hepatocytes and stromal cells, such as liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, natural killer (NK) cells, NK T cells, and other immune cells. This gut-originated axis to the liver is called the "gut-liver axis", which underscores the importance of the link between the gut and the liver. In this review, we discuss the gut microbial components and metabolites that affect cells in the liver, particularly in association with immune cells, and the related responses. We also highlight the mechanisms underlying gut microbiota-mediated liver carcinogenesis and discuss cancer prevention, including the recently clarified modulation of immune checkpoint inhibitor efficacy by the gut microbiota.
 
 [Source](https://doi.org/10.1093/intimm/dxac020)
 
+10.1093/intimm/dxac020
+
 ---
 
-## Multiomic Analyses of Nascent Preterm Infant Microbiomes Differentiation Suggest Opportunities for Targeted Intervention.
- 02.06.2022, _SB Orchanian, JM Gauglitz, S Wandro, KC Weldon, M Doty, K Stillwell, S Hansen, L Jiang, F Vargas, KE Rhee, JC Lumeng, PC Dorrestein, R Knight, JH Kim, SJ Song, AD Swafford_
-
-
-The first week after birth is a critical time for the establishment of microbial communities for infants. Preterm infants face unique environmental impacts on their newly acquired microbiomes, including increased incidence of cesarean section delivery and exposure to antibiotics as well as delayed enteral feeding and reduced human interaction during their intensive care unit stay. Using contextualized paired metabolomics and 16S sequencing data, the development of the gut, skin, and oral microbiomes of infants is profiled daily for the first week after birth, and it is found that the skin microbiome appears robust to early life perturbation, while direct exposure of infants to antibiotics, rather than presumed maternal transmission, delays microbiome development and prevents the early differentiation based on body site regardless of delivery mode. Metabolomic analyses identify the development of all gut metabolomes of preterm infants toward full-term infant profiles, but a significant increase of primary bile acid metabolism only in the non-antibiotic treated vaginally birthed late preterm infants. This study provides a framework for future multi-omic, multibody site analyses on these high-risk preterm infant populations and suggests opportunities for monitoring and intervention, with infant antibiotic exposure as the primary driver of delays in microbiome development.
+## Multiomic Analyses of Nascent Preterm Infant Microbiomes Differentiation Suggest Opportunities for Targeted Intervention
 
 [Source](https://doi.org/10.1002/adbi.202101313)
-
-10.1002/adbi.202101313
 
 ---
 
@@ -96,15 +96,9 @@ Microalgae comprise a phylogenetically very diverse group of photosynthetic unic
 
 ---
 
-## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects.
- 02.06.2022, _J Geng, Z Sui, W Dou, Y Miao, T Wang, X Wei, S Chen, Z Zhang, J Xiao, D Huang_
-
-
-Insects have a long history of being used in medicine, with clear primary and secondary functions and less side effects, and the study and exploitation of medicinal insects have received increasing attention. Insects gut microbiota and their metabolites play an important role in protecting the hosts from other potentially harmful microbes, providing nutrients, promoting digestion and degradation, and regulating growth and metabolism of the hosts. However, there are still few studies linking the medicinal values of insects with their gut microbes. In this study, we focused on the specific gut microbiota common to medicinal insects, hoping to trace the potential connection between medicinal values and gut microbes of medicinal insects. Based on 16S rRNA gene sequencing data, we compared the gut microbiota of medicinal insects [Periplaneta americana, Protaetia (Liocola) brevitarsis (Lewis) and Musca domestica], in their medicinal stages, and non-medicinal insects (Hermetia illucens L., Tenebrio molitor, and Drosophila melanogaster), and found that the intestinal microbial richness of medicinal insects was higher, and there were significant differences in the microbial community structure between the two groups. We established a model using a random-forest method to preliminarily screen out several types of gut microbiota common to medicinal insects that may play medicinal values: Parabacteroides goldsteinii, Lactobacillus dextrinicus, Bifidobacterium longum subsp. infantis (B. infantis), and Vagococcus carniphilus. In particular, P. goldsteinii and B. infantis were most probably involved in the anti-inflammatory effects of medicinal insects. Our results revealed an association between medicinal insects and their gut microbes, providing new development directions and possibly potential tools for utilizing microbes to enhance the medicinal efficacy of medicinal insects.
+## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects
 
 [Source](https://doi.org/10.3389/fmicb.2022.892767)
-
-10.3389/fmicb.2022.892767
 
 ---
 
@@ -165,9 +159,16 @@ A healthy human microbiome relies on the interaction with and exchange of microb
 
 ---
 
-## Magnetotactic bacteria and magnetofossils: ecology, evolution and environmental implications
+## Magnetotactic bacteria and magnetofossils: ecology, evolution and environmental implications.
+ 03.06.2022, _P Goswami, K He, J Li, Y Pan, AP Roberts, W Lin_
+
+
+_Bacteria, Ecosystem, Fresh Water, Prospective Studies_
+Magnetotactic bacteria (MTB) are a group of phylogenetically diverse and morphologically varied microorganisms with a magnetoresponsive capability called magnetotaxis or microbial magnetoreception. MTB are a distinctive constituent of the microbiome of aquatic ecosystems because they use Earth's magnetic field to align themselves in a north or south facing direction and efficiently navigate to their favored microenvironments. They have been identified worldwide from diverse aquatic and waterlogged microbiomes, including freshwater, saline, brackish and marine ecosystems, and some extreme environments. MTB play important roles in the biogeochemical cycling of iron, sulphur, phosphorus, carbon and nitrogen in nature and have been recognized from in vitro cultures to sequester heavy metals like selenium, cadmium, and tellurium, which makes them prospective candidate organisms for aquatic pollution bioremediation. The role of MTB in environmental systems is not limited to their lifespan; after death, fossil magnetosomal magnetic nanoparticles (known as magnetofossils) are a promising proxy for recording paleoenvironmental change and geomagnetic field history. Here, we summarize the ecology, evolution, and environmental function of MTB and the paleoenvironmental implications of magnetofossils in light of recent discoveries.
 
 [Source](https://doi.org/10.1038/s41522-022-00304-0)
+
+10.1038/s41522-022-00304-0
 
 ---
 
@@ -177,16 +178,9 @@ A healthy human microbiome relies on the interaction with and exchange of microb
 
 ---
 
-## EasyMap - An Interactive Web Tool for Evaluating and Comparing Associations of Clinical Variables and Microbiome Composition.
- 03.06.2022, _E Dahan, VM Martin, M Yassour_
-
-
-_Humans, Metadata, Microbiota, Multivariate Analysis_
-One of the most common tasks in microbiome studies is comparing microbial profiles across various groups of people (e.g., sick vs. healthy). Routinely, researchers use multivariate linear regression models to address these challenges, such as linear regression packages, MaAsLin2, LEfSe, etc. In many cases, it is unclear which metadata variables should be included in the linear model, as many human-associated variables are correlated with one another. Thus, multiple models are often tested, each including a different set of variables, however the challenge of selecting the metadata variables in the final model remains. Here, we present EasyMap, an interactive online tool allowing for (1) running multiple multivariate linear regression models, on the same features and metadata; (2) visualizing the associations between microbial features and clinical metadata found in each model; and (3) comparing across the various models to identify the critical metadata variables and select the optimal model. EasyMap provides a side-by-side visualization of association results across the various models, each with additional metadata variables, enabling us to evaluate the impact of each metadata variable on the associated feature. EasyMap's interface enables filtering associations by significance, focusing on specific microbes and finding the robust associations that are found across multiple models. While EasyMap was designed to analyze microbiome data, it can handle any other tabular data with numeric features and metadata variables. EasyMap takes the common task of multivariate linear regression to the next level, with an intuitive and simple user interface, allowing for wide comparisons of multiple models to identify the robust microbial feature associations. EasyMap is available at http://yassour.rcs.huji.ac.il/easymap.
+## EasyMap – An Interactive Web Tool for Evaluating and Comparing Associations of Clinical Variables and Microbiome Composition
 
 [Source](https://doi.org/10.3389/fcimb.2022.854164)
-
-10.3389/fcimb.2022.854164
 
 ---
 
