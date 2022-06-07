@@ -1,6 +1,12 @@
-## The role of immune cells in the liver tumor microenvironment: an involvement of gut microbiota-derived factors
+## The role of immune cells in the liver tumor microenvironment: an involvement of gut microbiota-derived factors.
+ 02.06.2022, _T Kamiya, N Ohtani_
+
+
+More than 500 species of microbiota reside in the human intestine and coexist with humans, their host. Gut microbial metabolites and components are absorbed from the intestine and influence cells in the liver, including hepatocytes and stromal cells, such as liver sinusoidal endothelial cells, hepatic stellate cells, Kupffer cells, natural killer (NK) cells, NK T cells, and other immune cells. This gut-originated axis to the liver is called the "gut-liver axis", which underscores the importance of the link between the gut and the liver. In this review, we discuss the gut microbial components and metabolites that affect cells in the liver, particularly in association with immune cells, and the related responses. We also highlight the mechanisms underlying gut microbiota-mediated liver carcinogenesis and discuss cancer prevention, including the recently clarified modulation of immune checkpoint inhibitor efficacy by the gut microbiota.
 
 [Source](https://doi.org/10.1093/intimm/dxac020)
+
+10.1093/intimm/dxac020
 
 ---
 
@@ -53,15 +59,9 @@ Resident microbes in skin and gut predominantly impact local immune cell functio
 
 ---
 
-## Nutritional Intake and Gut Microbiome Composition Predict Parkinson's Disease.
- 02.06.2022, _M Lubomski, X Xu, AJ Holmes, S Muller, JYH Yang, RL Davis, CM Sue_
-
-
-Models to predict Parkinson's disease (PD) incorporating alterations of gut microbiome (GM) composition have been reported with varying success.
+## Nutritional Intake and Gut Microbiome Composition Predict Parkinson’s Disease
 
 [Source](https://doi.org/10.3389/fnagi.2022.881872)
-
-10.3389/fnagi.2022.881872
 
 ---
 
@@ -71,28 +71,15 @@ Models to predict Parkinson's disease (PD) incorporating alterations of gut micr
 
 ---
 
-## Relationship between gut microbiota and colorectal cancer: Probiotics as a potential strategy for prevention.
- 03.06.2022, _SY Lee, DY Lee, JH Kang, JH Kim, JW Jeong, HW Kim, DH Oh, SH Yoon, SJ Hur_
-
-
-_Carcinogenesis, Colorectal Neoplasms, Gastrointestinal Microbiome, Humans, Prebiotics, Probiotics_
-Gut microbiota comprise microorganisms residing in the gastrointestinal tract. Some of these microbiota are implicated in the progression of colorectal cancer (CRC). Here, we highlight studies on the effects of meat intake and fermented foods on characteristics of gut microbiota that can influence colitis-associated factors underlying CRC. Gut microbiota can influence the development and progression of CRC, through influencing factors such as secretion of toxins; enzymes for activating carcinogenesis (including β-glucuronidase, β-glucosidase, azoreductase, nitroreductase, and alcohol dehydrogenase); hydrogen sulfide generation; generation of reactive oxygen species and inflammation; secondary bile salt transformation; and products of protein fermentation. Additionally, some studies that the composition of gut microbiota (probiotics) or prebiotics plays an important role in the production of short chain fatty acids, inactivation enzymes for carcinogenesis, antioxidant activities, and inhibition of pathogen colonization. In this review, we discuss various explanatory mechanisms of the relationship between the multifactorial role of the gut microbiota and the development of CRC. Moreover, this review provides fundamental information on dietary fermented food and the gut microbiota, which is helpful for healthy people and those with CRC alike.
+## Relationship between gut microbiota and colorectal cancer: Probiotics as a potential strategy for prevention
 
 [Source](https://doi.org/10.1016/j.foodres.2022.111327)
 
-10.1016/j.foodres.2022.111327
-
 ---
 
-## Health benefits of microalgae and their microbiomes.
- 01.06.2022, _I Krohn, S Menanteau-Ledouble, G Hageskal, Y Astafyeva, P Jouannais, JL Nielsen, M Pizzol, A Wentzel, WR Streit_
-
-
-Microalgae comprise a phylogenetically very diverse group of photosynthetic unicellular pro- and eukaryotic organisms growing in marine and other aquatic environments. While they are well explored for the generation of biofuels, their potential as a source of antimicrobial and prebiotic substances have recently received increasing interest. Within this framework, microalgae may offer solutions to the societal challenge we face, concerning the lack of antibiotics treating the growing level of antimicrobial resistant bacteria and fungi in clinical settings. While the vast majority of microalgae and their associated microbiota remain unstudied, they may be a fascinating and rewarding source for novel and more sustainable antimicrobials and alternative molecules and compounds. In this review, we present an overview of the current knowledge on health benefits of microalgae and their associated microbiota. Finally, we describe remaining issues and limitation, and suggest several promising research potentials that should be given attention.
+## Health benefits of microalgae and their microbiomes
 
 [Source](https://doi.org/10.1111/1751-7915.14082)
-
-10.1111/1751-7915.14082
 
 ---
 
@@ -102,15 +89,9 @@ Microalgae comprise a phylogenetically very diverse group of photosynthetic unic
 
 ---
 
-## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects.
- 02.06.2022, _J Geng, Z Sui, W Dou, Y Miao, T Wang, X Wei, S Chen, Z Zhang, J Xiao, D Huang_
-
-
-Insects have a long history of being used in medicine, with clear primary and secondary functions and less side effects, and the study and exploitation of medicinal insects have received increasing attention. Insects gut microbiota and their metabolites play an important role in protecting the hosts from other potentially harmful microbes, providing nutrients, promoting digestion and degradation, and regulating growth and metabolism of the hosts. However, there are still few studies linking the medicinal values of insects with their gut microbes. In this study, we focused on the specific gut microbiota common to medicinal insects, hoping to trace the potential connection between medicinal values and gut microbes of medicinal insects. Based on 16S rRNA gene sequencing data, we compared the gut microbiota of medicinal insects [Periplaneta americana, Protaetia (Liocola) brevitarsis (Lewis) and Musca domestica], in their medicinal stages, and non-medicinal insects (Hermetia illucens L., Tenebrio molitor, and Drosophila melanogaster), and found that the intestinal microbial richness of medicinal insects was higher, and there were significant differences in the microbial community structure between the two groups. We established a model using a random-forest method to preliminarily screen out several types of gut microbiota common to medicinal insects that may play medicinal values: Parabacteroides goldsteinii, Lactobacillus dextrinicus, Bifidobacterium longum subsp. infantis (B. infantis), and Vagococcus carniphilus. In particular, P. goldsteinii and B. infantis were most probably involved in the anti-inflammatory effects of medicinal insects. Our results revealed an association between medicinal insects and their gut microbes, providing new development directions and possibly potential tools for utilizing microbes to enhance the medicinal efficacy of medicinal insects.
+## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects
 
 [Source](https://doi.org/10.3389/fmicb.2022.892767)
-
-10.3389/fmicb.2022.892767
 
 ---
 
@@ -132,34 +113,48 @@ Insects have a long history of being used in medicine, with clear primary and se
 
 ---
 
-## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes.
- 06.06.2022, _P Su, WA Wicaksono, C Li, K Michl, G Berg, D Wang, Y Xiao, R Huang, H Kang, D Zhang, T Cernava, Y Liu_
-
-
-_Bacteria, Genome, Bacterial, Metagenome, Metagenomics, Oryza_
-The plant microbiota plays crucial roles in sustaining plant health and productivity. Advancing plant microbiome research and designing sustainable practices for agriculture requires in-depth assessments of microorganisms associated with different host plants; however, there is little information on functional aspects of many microorganisms of interest. Therefore, we enriched microorganisms from the phyllosphere of 110 rice genotypes and subjected them to shotgun metagenomic sequencing to reconstruct bacterial genomes from the obtained datasets. The approach yielded a total of 1.34 terabases of shotgun-sequenced metagenomic data. By separately recovering bacterial genomes from each of the 110 rice genotypes, we recovered 569 non-redundant metagenome-assembled genomes (MAGs) with a completeness higher than 50% and contaminations less than 10%. The MAGs were primarily assigned to Alphaproteobacteria, Gammaproteobacteria, and Bacteroidia. The presented data provides an extended basis for microbiome analyses of plant-associated microorganisms. It is complemented by detailed metadata to facilitate implementations in ecological studies, biotechnological mining approaches, and comparative assessments with genomes or MAGs from other studies.
+## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes
 
 [Source](https://doi.org/10.1038/s41597-022-01320-7)
 
-10.1038/s41597-022-01320-7
-
 ---
 
-## Mercury drives microbial community assembly and ecosystem multifunctionality across a Hg contamination gradient in rice paddies
+## Mercury drives microbial community assembly and ecosystem multifunctionality across a Hg contamination gradient in rice paddies.
+ 06.06.2022, _Q Pu, K Zhang, AJ Poulain, J Liu, R Zhang, MA Abdelhafiz, B Meng, X Feng_
+
+
+_Biodiversity, Mercury, Microbiota, Oryza, Soil_
+Soil microbial communities are critical for maintaining terrestrial ecosystems and fundamental ecological processes. Mercury (Hg) is a heavy metal that is toxic to microorganisms, but its effects on microbial community assembly and ecosystem multifunctionality in rice paddy ecosystems remain largely unknown. In the current study, we analyzed the microbial community structure and ecosystem multifunctionality of paddy soils across a Hg contamination gradient. The results demonstrated that Hg contamination significantly altered the microbial community structure. The microbial communities were predominantly driven by deterministic selection rather than stochastic processes. The random forest model and variation partition analysis demonstrated that the Hg level was the most important predictor of microbial profiles. Ecosystem multifunctionality decreased across the Hg concentration gradient, and multifunctionality was significantly correlated with soil biodiversity, suggesting that Hg-induced reductions in soil biodiversity led to reduced ecosystem services. A structural equation model showed that Hg contamination directly and indirectly affected ecosystem multifunctionality. The present work broadens our knowledge of the assembly of the microbiome in rice paddies across a Hg contamination gradient and highlights the significance of soil biodiversity in regulating ecosystem functions, especially in Hg-polluted rice paddies.
 
 [Source](https://doi.org/10.1016/j.jhazmat.2022.129055)
 
+10.1016/j.jhazmat.2022.129055
+
 ---
 
-## The sanitary indoor environment-a potential source for intact human-associated anaerobes
+## The sanitary indoor environment-a potential source for intact human-associated anaerobes.
+ 03.06.2022, _MR Pausan, M Blohs, A Mahnert, C Moissl-Eichinger_
+
+
+_Archaea, Humans, Microbiota, Oxygen, RNA, Ribosomal, 16S, Symbiosis_
+A healthy human microbiome relies on the interaction with and exchange of microbes that takes place between the human body and its environment. People in high-income countries spend most of their time indoors and for this reason, the built environment (BE) might represent a potent source of commensal microbes. Anaerobic microbes are of particular interest, as researchers have not yet sufficiently clarified how the human microbiome acquires oxygen-sensitive microbes. We sampled the bathrooms in ten households and used propidium monoazide (PMA) to assess the viability of the collected prokaryotes. We compared the microbiome profiles based on 16S rRNA gene sequencing and confirmed our results by genetic and cultivation-based analyses. Quantitative and qualitative analysis revealed that most of the microbial taxa in the BE samples are human-associated. Less than 25% of the prokaryotic signatures originate from intact cells, indicating that aerobic and stress resistant taxa display an apparent survival advantage. However, we also confirmed the presence of intact, strictly anaerobic taxa on bathroom floors, including methanogenic archaea. As methanogens are regarded as highly sensitive to aerobic conditions, oxygen-tolerance experiments were performed with human-associated isolates to validate their survival. These results show that human-associated methanogens can survive oxic conditions for at least 6 h. We collected strong evidence that supports the hypothesis that obligate anaerobic taxa can survive in the BE for a limited amount of time. This suggests that the BE serves as a potential source of anaerobic human commensals.
 
 [Source](https://doi.org/10.1038/s41522-022-00305-z)
 
+10.1038/s41522-022-00305-z
+
 ---
 
-## Magnetotactic bacteria and magnetofossils: ecology, evolution and environmental implications
+## Magnetotactic bacteria and magnetofossils: ecology, evolution and environmental implications.
+ 03.06.2022, _P Goswami, K He, J Li, Y Pan, AP Roberts, W Lin_
+
+
+_Bacteria, Ecosystem, Fresh Water, Prospective Studies_
+Magnetotactic bacteria (MTB) are a group of phylogenetically diverse and morphologically varied microorganisms with a magnetoresponsive capability called magnetotaxis or microbial magnetoreception. MTB are a distinctive constituent of the microbiome of aquatic ecosystems because they use Earth's magnetic field to align themselves in a north or south facing direction and efficiently navigate to their favored microenvironments. They have been identified worldwide from diverse aquatic and waterlogged microbiomes, including freshwater, saline, brackish and marine ecosystems, and some extreme environments. MTB play important roles in the biogeochemical cycling of iron, sulphur, phosphorus, carbon and nitrogen in nature and have been recognized from in vitro cultures to sequester heavy metals like selenium, cadmium, and tellurium, which makes them prospective candidate organisms for aquatic pollution bioremediation. The role of MTB in environmental systems is not limited to their lifespan; after death, fossil magnetosomal magnetic nanoparticles (known as magnetofossils) are a promising proxy for recording paleoenvironmental change and geomagnetic field history. Here, we summarize the ecology, evolution, and environmental function of MTB and the paleoenvironmental implications of magnetofossils in light of recent discoveries.
 
 [Source](https://doi.org/10.1038/s41522-022-00304-0)
+
+10.1038/s41522-022-00304-0
 
 ---
 
