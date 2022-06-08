@@ -59,9 +59,15 @@ Resident microbes in skin and gut predominantly impact local immune cell functio
 
 ---
 
-## Nutritional Intake and Gut Microbiome Composition Predict Parkinson’s Disease
+## Nutritional Intake and Gut Microbiome Composition Predict Parkinson's Disease.
+ 02.06.2022, _M Lubomski, X Xu, AJ Holmes, S Muller, JYH Yang, RL Davis, CM Sue_
+
+
+Models to predict Parkinson's disease (PD) incorporating alterations of gut microbiome (GM) composition have been reported with varying success.
 
 [Source](https://doi.org/10.3389/fnagi.2022.881872)
+
+10.3389/fnagi.2022.881872
 
 ---
 
@@ -71,15 +77,28 @@ Resident microbes in skin and gut predominantly impact local immune cell functio
 
 ---
 
-## Relationship between gut microbiota and colorectal cancer: Probiotics as a potential strategy for prevention
+## Relationship between gut microbiota and colorectal cancer: Probiotics as a potential strategy for prevention.
+ 03.06.2022, _SY Lee, DY Lee, JH Kang, JH Kim, JW Jeong, HW Kim, DH Oh, SH Yoon, SJ Hur_
+
+
+_Carcinogenesis, Colorectal Neoplasms, Gastrointestinal Microbiome, Humans, Prebiotics, Probiotics_
+Gut microbiota comprise microorganisms residing in the gastrointestinal tract. Some of these microbiota are implicated in the progression of colorectal cancer (CRC). Here, we highlight studies on the effects of meat intake and fermented foods on characteristics of gut microbiota that can influence colitis-associated factors underlying CRC. Gut microbiota can influence the development and progression of CRC, through influencing factors such as secretion of toxins; enzymes for activating carcinogenesis (including β-glucuronidase, β-glucosidase, azoreductase, nitroreductase, and alcohol dehydrogenase); hydrogen sulfide generation; generation of reactive oxygen species and inflammation; secondary bile salt transformation; and products of protein fermentation. Additionally, some studies that the composition of gut microbiota (probiotics) or prebiotics plays an important role in the production of short chain fatty acids, inactivation enzymes for carcinogenesis, antioxidant activities, and inhibition of pathogen colonization. In this review, we discuss various explanatory mechanisms of the relationship between the multifactorial role of the gut microbiota and the development of CRC. Moreover, this review provides fundamental information on dietary fermented food and the gut microbiota, which is helpful for healthy people and those with CRC alike.
 
 [Source](https://doi.org/10.1016/j.foodres.2022.111327)
 
+10.1016/j.foodres.2022.111327
+
 ---
 
-## Health benefits of microalgae and their microbiomes
+## Health benefits of microalgae and their microbiomes.
+ 01.06.2022, _I Krohn, S Menanteau-Ledouble, G Hageskal, Y Astafyeva, P Jouannais, JL Nielsen, M Pizzol, A Wentzel, WR Streit_
+
+
+Microalgae comprise a phylogenetically very diverse group of photosynthetic unicellular pro- and eukaryotic organisms growing in marine and other aquatic environments. While they are well explored for the generation of biofuels, their potential as a source of antimicrobial and prebiotic substances have recently received increasing interest. Within this framework, microalgae may offer solutions to the societal challenge we face, concerning the lack of antibiotics treating the growing level of antimicrobial resistant bacteria and fungi in clinical settings. While the vast majority of microalgae and their associated microbiota remain unstudied, they may be a fascinating and rewarding source for novel and more sustainable antimicrobials and alternative molecules and compounds. In this review, we present an overview of the current knowledge on health benefits of microalgae and their associated microbiota. Finally, we describe remaining issues and limitation, and suggest several promising research potentials that should be given attention.
 
 [Source](https://doi.org/10.1111/1751-7915.14082)
+
+10.1111/1751-7915.14082
 
 ---
 
@@ -89,9 +108,15 @@ Resident microbes in skin and gut predominantly impact local immune cell functio
 
 ---
 
-## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects
+## 16S rRNA Gene Sequencing Reveals Specific Gut Microbes Common to Medicinal Insects.
+ 02.06.2022, _J Geng, Z Sui, W Dou, Y Miao, T Wang, X Wei, S Chen, Z Zhang, J Xiao, D Huang_
+
+
+Insects have a long history of being used in medicine, with clear primary and secondary functions and less side effects, and the study and exploitation of medicinal insects have received increasing attention. Insects gut microbiota and their metabolites play an important role in protecting the hosts from other potentially harmful microbes, providing nutrients, promoting digestion and degradation, and regulating growth and metabolism of the hosts. However, there are still few studies linking the medicinal values of insects with their gut microbes. In this study, we focused on the specific gut microbiota common to medicinal insects, hoping to trace the potential connection between medicinal values and gut microbes of medicinal insects. Based on 16S rRNA gene sequencing data, we compared the gut microbiota of medicinal insects [Periplaneta americana, Protaetia (Liocola) brevitarsis (Lewis) and Musca domestica], in their medicinal stages, and non-medicinal insects (Hermetia illucens L., Tenebrio molitor, and Drosophila melanogaster), and found that the intestinal microbial richness of medicinal insects was higher, and there were significant differences in the microbial community structure between the two groups. We established a model using a random-forest method to preliminarily screen out several types of gut microbiota common to medicinal insects that may play medicinal values: Parabacteroides goldsteinii, Lactobacillus dextrinicus, Bifidobacterium longum subsp. infantis (B. infantis), and Vagococcus carniphilus. In particular, P. goldsteinii and B. infantis were most probably involved in the anti-inflammatory effects of medicinal insects. Our results revealed an association between medicinal insects and their gut microbes, providing new development directions and possibly potential tools for utilizing microbes to enhance the medicinal efficacy of medicinal insects.
 
 [Source](https://doi.org/10.3389/fmicb.2022.892767)
+
+10.3389/fmicb.2022.892767
 
 ---
 
@@ -113,9 +138,16 @@ Resident microbes in skin and gut predominantly impact local immune cell functio
 
 ---
 
-## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes
+## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes.
+ 06.06.2022, _P Su, WA Wicaksono, C Li, K Michl, G Berg, D Wang, Y Xiao, R Huang, H Kang, D Zhang, T Cernava, Y Liu_
+
+
+_Bacteria, Genome, Bacterial, Metagenome, Metagenomics, Oryza_
+The plant microbiota plays crucial roles in sustaining plant health and productivity. Advancing plant microbiome research and designing sustainable practices for agriculture requires in-depth assessments of microorganisms associated with different host plants; however, there is little information on functional aspects of many microorganisms of interest. Therefore, we enriched microorganisms from the phyllosphere of 110 rice genotypes and subjected them to shotgun metagenomic sequencing to reconstruct bacterial genomes from the obtained datasets. The approach yielded a total of 1.34 terabases of shotgun-sequenced metagenomic data. By separately recovering bacterial genomes from each of the 110 rice genotypes, we recovered 569 non-redundant metagenome-assembled genomes (MAGs) with a completeness higher than 50% and contaminations less than 10%. The MAGs were primarily assigned to Alphaproteobacteria, Gammaproteobacteria, and Bacteroidia. The presented data provides an extended basis for microbiome analyses of plant-associated microorganisms. It is complemented by detailed metadata to facilitate implementations in ecological studies, biotechnological mining approaches, and comparative assessments with genomes or MAGs from other studies.
 
 [Source](https://doi.org/10.1038/s41597-022-01320-7)
+
+10.1038/s41597-022-01320-7
 
 ---
 
@@ -178,7 +210,7 @@ One of the most common tasks in microbiome studies is comparing microbial profil
 ---
 
 ## Effect of cryopreservation medium conditions on growth and isolation of gut anaerobes from human faecal samples.
- 03.06.2022, _A Biclot, GRB Huys, R Bacigalupe, K D'hoe, D Vandeputte, G Falony, RY Tito, J Raes_
+ 07.06.2022, _A Biclot, GRB Huys, R Bacigalupe, K D'hoe, D Vandeputte, G Falony, RY Tito, J Raes_
 
 
 _Cryopreservation, Culture Media, Dimethyl Sulfoxide, Feces, Humans, RNA, Ribosomal, 16S_
