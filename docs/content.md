@@ -59,15 +59,9 @@ Resident microbes in skin and gut predominantly impact local immune cell functio
 
 ---
 
-## Nutritional Intake and Gut Microbiome Composition Predict Parkinson's Disease.
- 02.06.2022, _M Lubomski, X Xu, AJ Holmes, S Muller, JYH Yang, RL Davis, CM Sue_
-
-
-Models to predict Parkinson's disease (PD) incorporating alterations of gut microbiome (GM) composition have been reported with varying success.
+## Nutritional Intake and Gut Microbiome Composition Predict Parkinson’s Disease
 
 [Source](https://doi.org/10.3389/fnagi.2022.881872)
-
-10.3389/fnagi.2022.881872
 
 ---
 
@@ -138,16 +132,9 @@ Insects have a long history of being used in medicine, with clear primary and se
 
 ---
 
-## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes.
- 06.06.2022, _P Su, WA Wicaksono, C Li, K Michl, G Berg, D Wang, Y Xiao, R Huang, H Kang, D Zhang, T Cernava, Y Liu_
-
-
-_Bacteria, Genome, Bacterial, Metagenome, Metagenomics, Oryza_
-The plant microbiota plays crucial roles in sustaining plant health and productivity. Advancing plant microbiome research and designing sustainable practices for agriculture requires in-depth assessments of microorganisms associated with different host plants; however, there is little information on functional aspects of many microorganisms of interest. Therefore, we enriched microorganisms from the phyllosphere of 110 rice genotypes and subjected them to shotgun metagenomic sequencing to reconstruct bacterial genomes from the obtained datasets. The approach yielded a total of 1.34 terabases of shotgun-sequenced metagenomic data. By separately recovering bacterial genomes from each of the 110 rice genotypes, we recovered 569 non-redundant metagenome-assembled genomes (MAGs) with a completeness higher than 50% and contaminations less than 10%. The MAGs were primarily assigned to Alphaproteobacteria, Gammaproteobacteria, and Bacteroidia. The presented data provides an extended basis for microbiome analyses of plant-associated microorganisms. It is complemented by detailed metadata to facilitate implementations in ecological studies, biotechnological mining approaches, and comparative assessments with genomes or MAGs from other studies.
+## Recovery of metagenome-assembled genomes from the phyllosphere of 110 rice genotypes
 
 [Source](https://doi.org/10.1038/s41597-022-01320-7)
-
-10.1038/s41597-022-01320-7
 
 ---
 
