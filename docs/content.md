@@ -84,9 +84,16 @@ Besides the genetic factors having tremendous influences on the regulations of t
 
 ---
 
-## MeShClust v3.0: high-quality clustering of DNA sequences using the mean shift algorithm and alignment-free identity scores
+## MeShClust v3.0: high-quality clustering of DNA sequences using the mean shift algorithm and alignment-free identity scores.
+ 08.06.2022, _HZ Girgis_
+
+
+_Algorithms, Base Sequence, Cluster Analysis, Computational Biology, Humans, Microbiota, Software_
+Tools for accurately clustering biological sequences are among the most important tools in computational biology. Two pioneering tools for clustering sequences are CD-HIT and UCLUST, both of which are fast and consume reasonable amounts of memory; however, there is a big room for improvement in terms of cluster quality. Motivated by this opportunity for improving cluster quality, we applied the mean shift algorithm in MeShClust v1.0. The mean shift algorithm is an instance of unsupervised learning. Its strong theoretical foundation guarantees the convergence to the true cluster centers. Our implementation of the mean shift algorithm in MeShClust v1.0 was a step forward. In this work, we scale up the algorithm by adapting an out-of-core strategy while utilizing alignment-free identity scores in a new tool: MeShClust v3.0.
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08619-0)
+
+10.1186/s12864-022-08619-0
 
 ---
 
