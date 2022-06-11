@@ -1,85 +1,144 @@
-## Rethinking healthy eating in light of the gut microbiome.
- 09.06.2022, _AM Armet, EC Deehan, AF O'Sullivan, JF Mota, CJ Field, CM Prado, AJ Lucey, J Walter_
+## Global, distinctive, and personal changes in molecular and microbial profiles by specific fibers in humans.
+ 10.06.2022, _SM Lancaster, B Lee-McMullen, CW Abbott, JV Quijada, D Hornburg, H Park, D Perelman, DJ Peterson, M Tang, A Robinson, S Ahadi, K Contrepois, CJ Hung, M Ashland, T McLaughlin, A Boonyanit, A Horning, JL Sonnenburg, MP Snyder_
 
 
-Given the worldwide epidemic of diet-related chronic diseases, evidence-based dietary recommendations are fundamentally important for health promotion. Despite the importance of the human gut microbiota for the physiological effects of diet and chronic disease etiology, national dietary guidelines around the world are just beginning to capitalize on scientific breakthroughs in the microbiome field. In this review, we discuss contemporary nutritional recommendations from a microbiome science perspective, focusing on mechanistic evidence that established host-microbe interactions as mediators of the physiological effects of diet. We apply this knowledge to inform discussions of nutrition controversies, advance innovative dietary strategies, and propose an experimental framework that integrates the microbiome into nutrition research. The congruence of key paradigms in the nutrition and microbiome disciplines validates current recommendations in dietary guidelines, and the systematic incorporation of microbiome science into nutrition research has the potential to further improve and innovate healthy eating.
+Dietary fibers act through the microbiome to improve cardiovascular health and prevent metabolic disorders and cancer. To understand the health benefits of dietary fiber supplementation, we investigated two popular purified fibers, arabinoxylan (AX) and long-chain inulin (LCI), and a mixture of five fibers. We present multiomic signatures of metabolomics, lipidomics, proteomics, metagenomics, a cytokine panel, and clinical measurements on healthy and insulin-resistant participants. Each fiber is associated with fiber-dependent biochemical and microbial responses. AX consumption associates with a significant reduction in LDL and an increase in bile acids, contributing to its observed cholesterol reduction. LCI is associated with an increase in Bifidobacterium. However, at the highest LCI dose, there is increased inflammation and elevation in the liver enzyme alanine aminotransferase. This study yields insights into the effects of fiber supplementation and the mechanisms behind fiber-induced cholesterol reduction, and it shows effects of individual, purified fibers on the microbiome.
 
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00222-0)
+[Source](https://doi.org/10.1016/j.chom.2022.03.036)
 
-10.1016/j.chom.2022.04.016
-
----
-
-## Gut metabolites predict Clostridioides difficile recurrence
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01284-1)
+10.1016/j.chom.2022.03.036
 
 ---
 
-## Robust variation in infant gut microbiome assembly across a spectrum of lifestyles.
- 09.06.2022, _MR Olm, D Dahan, MM Carter, BD Merrill, FB Yu, S Jain, X Meng, S Tripathi, H Wastyk, N Neff, S Holmes, ED Sonnenburg, AR Jha, JL Sonnenburg_
+## Stitching together a healthy gut microbiome with fiber.
+ 09.06.2022, _TM Schmidt_
 
 
-Infant microbiome assembly has been intensely studied in infants from industrialized nations, but little is known about this process in nonindustrialized populations. We deeply sequenced infant stool samples from the Hadza hunter-gatherers of Tanzania and analyzed them in a global meta-analysis. Infant microbiomes develop along lifestyle-associated trajectories, with more than 20% of genomes detected in the Hadza infant gut representing novel species. Industrialized infants-even those who are breastfed-have microbiomes characterized by a paucity of Bifidobacterium infantis and gene cassettes involved in human milk utilization. Strains within lifestyle-associated taxonomic groups are shared between mother-infant dyads, consistent with early life inheritance of lifestyle-shaped microbiomes. The population-specific differences in infant microbiome composition and function underscore the importance of studying microbiomes from people outside of wealthy, industrialized nations.
+Inter-individual variability in the gut microbiome confounds efforts to understand host responses to dietary fiber. In this issue of Cell Host &amp; Microbe, Lancaster et al. report individual and generalized host and microbiome responses in an interventional study of fiber supplements, motivating consideration of an alternative classification of fiber.
 
-[Source](https://www.science.org/doi/10.1126/science.abj2972)
+[Source](https://doi.org/10.1016/j.chom.2022.05.007)
 
-10.1126/science.abj2972
-
----
-
-## Risk assessment with gut microbiome and metabolite markers in NAFLD development.
- 10.06.2022, _H Leung, X Long, Y Ni, L Qian, E Nychas, SL Siliceo, D Pohl, K Hanhineva, Y Liu, A Xu, HB Nielsen, E Belda, K Clément, R Loomba, H Li, W Jia, G Panagiotou_
-
-
-_Biomarkers, Gastrointestinal Microbiome, Humans, Non-alcoholic Fatty Liver Disease, Prospective Studies, Risk Assessment_
-A growing body of evidence suggests interplay between the gut microbiota and the pathogenesis of nonalcoholic fatty liver disease (NAFLD). However, the role of the gut microbiome in early detection of NAFLD is unclear. Prospective studies are necessary for identifying reliable, microbiome markers for early NAFLD. We evaluated 2487 individuals in a community-based cohort who were followed up 4.6 years after initial clinical examination and biospecimen sampling. Metagenomic and metabolomic characterizations using stool and serum samples taken at baseline were performed for 90 participants who progressed to NAFLD and 90 controls who remained NAFLD free at the follow-up visit. Cases and controls were matched for gender, age, body mass index (BMI) at baseline and follow-up, and 4-year BMI change. Machine learning models integrating baseline microbial signatures (14 features) correctly classified participants (auROCs of 0.72 to 0.80) based on their NAFLD status and liver fat accumulation at the 4-year follow up, outperforming other prognostic clinical models (auROCs of 0.58 to 0.60). We confirmed the biological relevance of the microbiome features by testing their diagnostic ability in four external NAFLD case-control cohorts examined by biopsy or magnetic resonance spectroscopy, from Asia, Europe, and the United States. Our findings raise the possibility of using gut microbiota for early clinical warning of NAFLD development.
-
-[Source](https://www.science.org/doi/10.1126/scitranslmed.abk0855)
-
-10.1126/scitranslmed.abk0855
+10.1016/j.chom.2022.05.007
 
 ---
 
-## Profiling Fusobacterium infection at high taxonomic resolution reveals lineage-specific correlations in colorectal cancer
+## Maternal gut microbiome-induced IgG regulates neonatal gut microbiome and immunity
 
-[Source](https://www.nature.com/articles/s41467-022-30957-6)
-
----
-
-## Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes.
- 10.06.2022, _L Guthrie, SP Spencer, D Perelman, W Van Treuren, S Han, FB Yu, ED Sonnenburg, MA Fischbach, TW Meyer, JL Sonnenburg_
-
-
-Gut microbiota metabolism of dietary compounds generates a vast array of microbiome-dependent metabolites (MDMs), which are highly variable between individuals. The uremic MDMs (uMDMs) phenylacetylglutamine (PAG), p-cresol sulfate (PCS), and indoxyl sulfate (IS) accumulate during renal failure and are associated with poor outcomes. Targeted dietary interventions may reduce toxic MDM generation; however, it is unclear if inter-individual differences in diet or gut microbiome dominantly contribute to MDM variance. Here, we use a 7-day homogeneous average American diet to standardize dietary precursor availability in 21 healthy individuals. During dietary homogeneity, the coefficient of variation in PAG, PCS, and IS (primary outcome) did not decrease, nor did inter-individual variation in most identified metabolites; other microbiome metrics showed no or modest responses to the intervention. Host identity and age are dominant contributors to variability in MDMs. These results highlight the potential need to pair dietary modification with microbial therapies to control MDM profiles.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00263-3)
-
-10.1016/j.chom.2022.05.003
+[Source](https://doi.org/10.1126/sciimmunol.abh3816)
 
 ---
 
-## Nisin probiotic prevents inflammatory bone loss while promoting reparative proliferation and a healthy microbiome
+## Altered Metabolomics in Bipolar Depression With Gastrointestinal Symptoms
 
-[Source](https://www.nature.com/articles/s41522-022-00307-x)
-
----
-
-## Donor-dependent fecal microbiota transplantation efficacy against necrotizing enterocolitis in preterm pigs
-
-[Source](https://www.nature.com/articles/s41522-022-00310-2)
+[Source](https://doi.org/10.3389/fpsyt.2022.861285)
 
 ---
 
-## A catalog of 48,425 nonredundant viruses from oral metagenomes expands the horizon of the human oral virome 
+## Meta-analysis of mucosal microbiota reveals universal microbial signatures and dysbiosis in gastric carcinogenesis
 
-[Source](https://www.cell.com/iscience/fulltext/S2589-0042(22)00689-7)
+[Source](https://doi.org/10.1038/s41388-022-02377-9)
 
 ---
 
-## Phylogeny-guided microbiome OTU-specific association test (POST) 
+## <em>Gardnerella vaginalis</em> induces matrix metalloproteinases in the cervicovaginal epithelium through TLR-2 activation
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01266-3)
+[Source](https://doi.org/10.1016/j.jri.2022.103648)
+
+---
+
+## <em>Lactobacillus rhamnosus</em> colonisation antagonizes <em>Candida albicans</em> by forcing metabolic adaptations that compromise pathogenicity
+
+[Source](https://doi.org/10.1038/s41467-022-30661-5)
+
+---
+
+## Honeys with anti-inflammatory capacity can alter the elderly gut microbiota in an <em>ex vivo</em> gut model
+
+[Source](https://doi.org/10.1016/j.foodchem.2022.133229)
+
+---
+
+## Human colon cancer-derived <em>Clostridioides difficile</em> strains drive colonic tumorigenesis in mice
+
+[Source](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-21-1273/700781/)
+
+---
+
+## Variation in gut microbiome structure across the annual hibernation cycle in a wild primate
+
+[Source](https://doi.org/10.1093/femsec/fiac070)
+
+---
+
+## A high-throughput DNA sequencing study of fecal bacteria of seven Mexican horse breeds
+
+[Source](https://doi.org/10.1007/s00203-022-03009-2)
+
+---
+
+## Species- and site-specific circulating bacterial DNA in Subantarctic sentinel mussels <em>Aulacomya atra</em> and <em>Mytilus platensis</em>
+
+[Source](https://doi.org/10.1038/s41598-022-13774-1)
+
+---
+
+## The unsung roles of microbial secondary metabolite effectors in the plant disease cacophony
+
+[Source](https://doi.org/10.1016/j.pbi.2022.102233)
+
+---
+
+## Plant-microbe interactions in the rhizosphere via a circular metabolic economy
+
+[Source](https://doi.org/10.1093/plcell/koac163)
+
+---
+
+## Phyllosphere bacterial and fungal communities vary with host species identity, plant traits and seasonality in a subtropical forest
+
+[Source](https://doi.org/10.1186/s40793-022-00423-3)
+
+---
+
+## Nitrogen availability determines plant growth promotion and the induction of root branching by the probiotic fungus <em>Trichoderma atroviride</em> in <em>Arabidopsis</em> seedlings
+
+[Source](https://doi.org/10.1007/s00203-022-03004-7)
+
+---
+
+## Antibiotic resistant bacteria and genes in wastewater treatment plants: From occurrence to treatment strategies.
+ 09.06.2022, _S Li, BS Ondon, SH Ho, J Jiang, F Li_
+
+
+This study aims to discuss the following: (1) occurrence and proliferation of antibiotic resistance in wastewater treatment plants (WWTPs); (2) factors influencing antibiotic resistance bacteria and genes in WWTPs; (3) tools to assess antibiotic resistance in WWTPs; (4) environmental contamination of antibiotic resistant bacteria (ARB) and antibiotic resistance genes (ARGs) from WWTPs; (5) effects of ARB and ARGs from WWTPs on human health; and (6) treatment strategies. In general, resistant and multi-resistant bacteria, including Enterobacteriaceae, Pseudomonas aeruginosa, and Escherichia coli, exist in various processes of WWTPs. The existence of ARB and ARGs results from the high concentration of antibiotics in wastewater, which promote selective pressures on the local bacteria present in WWTPs. Thus, improving wastewater treatment technology and avoiding the misuse of antibiotics is critical to overcoming the threat of proliferation of ARBs and ARGs. Numerous factors can affect the development of ARB and ARGs in WWTPs. Abiotic factors can affect the bacterial community dynamics, thereby, affecting the applicability of ARB during the wastewater treatment process. Furthermore, the organic loads and other nutrients influence bacterial survival and growth. Specifically, molecular methods for the rapid characterization and detection of ARBs or their genes comprise DNA sequencing, real-time PCR, simple and multiplex PCR, and hybridization-based technologies, including micro- and macro-arrays. The reuse of effluent from WWTPs for irrigation is an efficient method to overcome water scarcity. However, there are also some potential environmental risks associated with this practice, such as increase in the levels of antibiotic resistance in the soil microbiome. Human mortality rates may significantly increase, as ARB can lead to resistance among several types of antibiotics or longer treatment times. Some treatment technologies, such as anaerobic and aerobic treatment, coagulation, membrane bioreactors, and disinfection processes, are considered potential techniques to restrict antibiotic resistance in the environment.
+
+[Source](https://doi.org/10.1016/j.scitotenv.2022.156544)
+
+10.1016/j.scitotenv.2022.156544
+
+---
+
+## Lessons From Insect Fungiculture: From Microbial Ecology to Plastics Degradation
+
+[Source](https://doi.org/10.3389/fmicb.2022.812143)
+
+---
+
+## Insights into plastic biodegradation: community composition and functional capabilities of the superworm (<em>Zophobas morio</em>) microbiome in styrofoam feeding trials
+
+[Source](https://doi.org/10.1099/mgen.0.000842)
+
+---
+
+## DNA metabarcoding across disciplines: sequencing our way to greater understanding across scales of biological organization
+
+[Source](https://doi.org/10.1093/icb/icac090)
+
+---
+
+## Systematic cross-biospecimen evaluation of DNA extraction kits for long- and short-read multi-metagenomic sequencing studies
+
+[Source](https://doi.org/10.1016/j.gpb.2022.05.006)
 
 ---
 
