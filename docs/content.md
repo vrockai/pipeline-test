@@ -136,9 +136,15 @@ Plants counter disease with an array of responses to styme pathogen ingress. In 
 
 ---
 
-## Antibiotic resistant bacteria and genes in wastewater treatment plants: From occurrence to treatment strategies
+## Antibiotic resistant bacteria and genes in wastewater treatment plants: From occurrence to treatment strategies.
+ 09.06.2022, _S Li, BS Ondon, SH Ho, J Jiang, F Li_
+
+
+This study aims to discuss the following: (1) occurrence and proliferation of antibiotic resistance in wastewater treatment plants (WWTPs); (2) factors influencing antibiotic resistance bacteria and genes in WWTPs; (3) tools to assess antibiotic resistance in WWTPs; (4) environmental contamination of antibiotic resistant bacteria (ARB) and antibiotic resistance genes (ARGs) from WWTPs; (5) effects of ARB and ARGs from WWTPs on human health; and (6) treatment strategies. In general, resistant and multi-resistant bacteria, including Enterobacteriaceae, Pseudomonas aeruginosa, and Escherichia coli, exist in various processes of WWTPs. The existence of ARB and ARGs results from the high concentration of antibiotics in wastewater, which promote selective pressures on the local bacteria present in WWTPs. Thus, improving wastewater treatment technology and avoiding the misuse of antibiotics is critical to overcoming the threat of proliferation of ARBs and ARGs. Numerous factors can affect the development of ARB and ARGs in WWTPs. Abiotic factors can affect the bacterial community dynamics, thereby, affecting the applicability of ARB during the wastewater treatment process. Furthermore, the organic loads and other nutrients influence bacterial survival and growth. Specifically, molecular methods for the rapid characterization and detection of ARBs or their genes comprise DNA sequencing, real-time PCR, simple and multiplex PCR, and hybridization-based technologies, including micro- and macro-arrays. The reuse of effluent from WWTPs for irrigation is an efficient method to overcome water scarcity. However, there are also some potential environmental risks associated with this practice, such as increase in the levels of antibiotic resistance in the soil microbiome. Human mortality rates may significantly increase, as ARB can lead to resistance among several types of antibiotics or longer treatment times. Some treatment technologies, such as anaerobic and aerobic treatment, coagulation, membrane bioreactors, and disinfection processes, are considered potential techniques to restrict antibiotic resistance in the environment.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.156544)
+
+10.1016/j.scitotenv.2022.156544
 
 ---
 
