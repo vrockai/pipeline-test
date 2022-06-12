@@ -88,15 +88,9 @@ The consistency of the associations between gastric mucosal microbiome and gastr
 
 ---
 
-## A high-throughput DNA sequencing study of fecal bacteria of seven Mexican horse breeds.
- 10.06.2022, _F Hernández-Quiroz, S Murugesan, C Flores-Rivas, A Piña-Escobedo, JI Juárez-Hernández, M García-Espitia, A Chávez-Carbajal, K Nirmalkar, J García-Mena_
-
-
-Horses are non-ruminant, herbivorous mammals, been used through history for various purposes, with a gut microbiota from cecum to the colon, possessing remarkable fermentative capacity. We studied the fecal microbiota of Azteca, Criollo, Frisian, Iberian, Pinto, Quarter and Spanish horse breeds living in Mexico by next-generation DNA sequencing of 16S rRNA gene libraries. Dominant phyla Firmicutes, Bacteroidetes, Proteobacteria, Spirochaetes, Fibrobacteres, Actinobacteria and Verrucomicrobia have different relative abundances among breeds, with contrasted alpha and beta diversities as well. Heatmap analysis revealed that Ruminococcaceae, Lachnospiraceae, Mogibacteriaceae families, and order Clostridiales are more abundant in Spanish, Azteca, Quarter and Criollo breeds. The LEfSe analysis displayed higher abundance of order Bacteroidales, family BS11, and genera Faecalibacterium, Comamonas, Collinsella, Acetobacter, and Treponema in Criollo, Azteca, Iberian, Spanish, Frisian, Pinto, and Quarter horse breeds. The conclusion is that dominant bacterial taxa, found in fecal samples of horse breeds living in Mexico, have different relative abundances.
+## A high-throughput DNA sequencing study of fecal bacteria of seven Mexican horse breeds
 
 [Source](https://doi.org/10.1007/s00203-022-03009-2)
-
-10.1007/s00203-022-03009-2
 
 ---
 
@@ -106,15 +100,9 @@ Horses are non-ruminant, herbivorous mammals, been used through history for vari
 
 ---
 
-## The unsung roles of microbial secondary metabolite effectors in the plant disease cacophony.
- 09.06.2022, _LI Rangel, MD Bolton_
-
-
-Plants counter disease with an array of responses to styme pathogen ingress. In contrast to this cacophony, plant pathogens orchestrate a finely tuned repertoire of virulence mechanisms in their attempt to cause disease. One such example is the production of secondary metabolite effectors (SMEs). Despite many attempts to functionally categorize SMEs, their many roles in plant disease have proven they march to the beat of their producer's drum. Some lesser studied features of SMEs in plant disease include self-resistance (SR) and manipulation of the microbiome to enhance pathogen virulence. SR can be accomplished in three general compositions, with the first being the transport of the SME to a benign location; the second being modification of the SME so it cannot harm the producer; and the third being metabolic regulation of the SME or the producer homolog of the SME target. SMEs may also play an interlude prior to disease by shaping the plant microbial community, allowing producers to better establish themselves. Taken together, SMEs are integral players in the phytopathology canon.
+## The unsung roles of microbial secondary metabolite effectors in the plant disease cacophony
 
 [Source](https://doi.org/10.1016/j.pbi.2022.102233)
-
-10.1016/j.pbi.2022.102233
 
 ---
 
