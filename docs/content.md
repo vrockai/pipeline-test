@@ -59,9 +59,14 @@ Fuzhuan brick tea (FBT) has been shown to prevent obesity, but little is known a
 
 ---
 
-## More data needed on neonatal microbiome seeding
+## More data needed on neonatal microbiome seeding.
+ 10.06.2022, _WF Fricke, J Ravel_
+
+
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01282-3)
+
+10.1186/s40168-022-01282-3
 
 ---
 
@@ -71,9 +76,15 @@ Fuzhuan brick tea (FBT) has been shown to prevent obesity, but little is known a
 
 ---
 
-## Metagenomic DNA sequencing for semi-quantitative pathogen detection from urine: a prospective, laboratory-based, proof-of-concept study
+## Metagenomic DNA sequencing for semi-quantitative pathogen detection from urine: a prospective, laboratory-based, proof-of-concept study.
+ 10.06.2022, _VA Janes, S Matamoros, P Munk, PTLC Clausen, SM Koekkoek, LAM Koster, ME Jakobs, B de Wever, CE Visser, FM Aarestrup, O Lund, MD de Jong, PMM Bossuyt, DR Mende, C Schultsz_
+
+
+Semi-quantitative bacterial culture is the reference standard to diagnose urinary tract infection, but culture is time-consuming and can be unreliable if patients are receiving antibiotics. Metagenomics could increase diagnostic accuracy and speed by sequencing the microbiota and resistome directly from urine. We aimed to compare metagenomics to culture for semi-quantitative pathogen and resistome detection from urine.
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(22)00088-X/fulltext)
+
+10.1016/S2666-5247(22)00088-X
 
 ---
 
@@ -95,15 +106,26 @@ Fuzhuan brick tea (FBT) has been shown to prevent obesity, but little is known a
 
 ---
 
-## Tiny Gatekeepers: Microbial Control of Host Drug Transporters
+## Tiny Gatekeepers: Microbial Control of Host Drug Transporters.
+ 07.06.2022, _TS Kyaw, PJ Turnbaugh_
+
+
 
 [Source](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2647)
 
+10.1002/cpt.2647
+
 ---
 
-## Host hepatic metabolism is modulated by gut microbiota-derived sphingolipids
+## Host hepatic metabolism is modulated by gut microbiota-derived sphingolipids.
+ 10.06.2022, _HH Le, MT Lee, KR Besler, EL Johnson_
+
+
+Microbially-derived gut metabolites are important contributors to host phenotypes, many of which may link microbiome composition to metabolic disease. However, relatively few metabolites with known bioactivity have been traced from specific microbes to host tissues. Here, we use a labeling strategy to characterize and trace bacterial sphingolipids from the gut symbiont Bacteroides thetaiotaomicron to mouse colons and livers. We find that bacterial sphingolipid synthesis rescues excess lipid accumulation in a mouse model of hepatic steatosis and observe the transit of a previously uncharacterized bacterial sphingolipid to the liver. The addition of this sphingolipid to hepatocytes improves respiration in response to fatty-acid overload, suggesting that sphingolipid transfer to the liver could potentially contribute to microbiota-mediated liver function. This work establishes a role for bacterial sphingolipids in modulating hepatic phenotypes and defines a workflow that permits the characterization of other microbial metabolites with undefined functions in host health.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00262-1)
+
+10.1016/j.chom.2022.05.002
 
 ---
 
@@ -162,9 +184,15 @@ Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and ex
 
 ---
 
-## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra
+## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra.
+ 11.06.2022, _IS Pessi, S Viitamäki, AM Virkkala, E Eronen-Rasimus, TO Delmont, ME Marushchak, M Luoto, J Hultman_
+
+
+In contrast to earlier assumptions, there is now mounting evidence for the role of tundra soils as important sources of the greenhouse gas nitrous oxide (N2O). However, the microorganisms involved in the cycling of N2O in this system remain largely uncharacterized. Since tundra soils are variable sources and sinks of N2O, we aimed at investigating differences in community structure across different soil ecosystems in the tundra.
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.12.21.419267v4)
+
+10.1186/s40793-022-00424-2
 
 ---
 
@@ -186,9 +214,15 @@ Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and ex
 
 ---
 
-## Microbial Diversity and Interaction Specificity in Kombucha Tea Fermentations
+## Microbial Diversity and Interaction Specificity in Kombucha Tea Fermentations.
+ 07.06.2022, _EA Landis, E Fogarty, JC Edwards, O Popa, AM Eren, BE Wolfe_
+
+
+Despite the popularity of kombucha tea, the distribution of different microbes across kombucha ferments and how those microbes interact within communities are not well characterized. Using metagenomics, comparative genomics, synthetic community experiments, and metabolomics, we determined the taxonomic, ecological, and functional diversity of 23 distinct kombuchas from across the United States. Shotgun metagenomic sequencing demonstrated that the bacterium Komagataeibacter rhaeticus and the yeast Brettanomyces bruxellensis were the most common microbes in the sampled kombucha communities. To determine the specificity of bacterium-yeast interactions, we experimentally quantified microbial interactions within kombucha biofilms by measuring densities of interacting species and biofilm production. In pairwise combinations of bacteria and yeast, B. bruxellensis and individual strains of Komagataeibacter spp. were sufficient to form kombucha fermentations with robust biofilms, but Zygosaccharomyces bisporus, another yeast found in kombucha, did not stimulate bacteria to produce biofilms. Profiling the spent media of both yeast species using nuclear magnetic resonance spectroscopy suggested that the enhanced ability of B. bruxellensis to ferment and produce key metabolites in sucrose-sweetened tea may explain why it stimulates biofilm formation. Comparative genomics demonstrated that Komagataeibacter spp. with &gt;99% genomic similarity can still have dramatic differences in biofilm production, with strong producers yielding five times more biofilm than the weakest producers. IMPORTANCE Through an integration of metagenomic and experimental approaches, our work reveals the diversity and nature of interactions among key taxa in kombucha microbiomes through the construction of synthetic microbial pairs. Manipulation of these microbes in kombucha has the potential to shape both the fermentation qualities of kombucha and the production of biofilms and is valuable for kombucha beverage producers, biofilm engineers, and synthetic ecologists.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00157-22)
+
+10.1128/msystems.00157-22
 
 ---
 
@@ -231,6 +265,18 @@ Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and ex
 ## https://t.co/BFfTr07K8Y
 
 [Source](https://t.co/BFfTr07K8Y)
+
+---
+
+## Short-term results of intra-articular injections of stromal vascular fraction for early knee osteoarthritis.
+ 11.06.2022, _C Aletto, L Giordano, M Quaranta, A Zara, D Notarfrancesco, N Maffulli_
+
+
+In knee osteoarthritis, progressive degeneration of the articular cartilage surface produces disability and chronic pain. Intra-articular injections of stromal vascular fraction (SVF) could be an innovative approach to manage patients with early knee osteoarthritis.
+
+[Source](https://twitter.com/LeahBriscoe/status/1532833578001870850?ref_src=twsrc%5Etfw)
+
+10.1186/s13018-022-03196-0
 
 ---
 
