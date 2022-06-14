@@ -113,34 +113,15 @@ Dietary fibres are essential for maintaining microbial diversity and the gut mic
 
 ---
 
-## Symbiont Community Composition in Rimicaris kairei Shrimps from Indian Ocean Vents with Notes on Mineralogy.
- 01.06.2022, _P Methou, M Hikosaka, C Chen, HK Watanabe, N Miyamoto, H Makita, Y Takahashi, RG Jenkins_
-
-
-_Animals, Decapoda, Hydrothermal Vents, In Situ Hybridization, Fluorescence, Indian Ocean, Microbiota, Symbiosis_
-Hydrothermal vent ecosystems are home to a wide array of symbioses between animals and chemosynthetic microbes, among which shrimps in the genus Rimicaris is one of the most iconic. So far, studies of Rimicaris symbioses have been restricted to Atlantic species, including Rimicaris exoculata, which is totally reliant on the symbionts for nutrition, and the mixotrophic species Rimicaris chacei. Here, we expand this by investigating and characterizing the symbiosis of the Indian Ocean species Rimicaris kairei using specimens from two vent fields, Kairei and Edmond. We also aimed to evaluate the differences in mineralogy and microbial communities between two cephalothorax color morphs, black and brown, through a combination of 16S metabarcoding, scanning electron microscopy, fluorescent in situ hybridization, energy-dispersive X-ray spectroscopy, and synchrotron near-edge X-ray absorption structure analyses. Overall, our results highlight that R. kairei exhibits similar symbiont lineages to those of its Atlantic congeners, although with a few differences, such as the lack of Zetaproteobacteria. We found distinct mineralization processes behind the two color morphs that were linked to differences in the vent fluid composition, but the symbiotic community composition was surprisingly similar. In R. exoculata, such mineralogical differences have been shown to stem from disparity in the microbial communities, but our results indicate that in R. kairei this is instead due to the shift of dominant metabolisms by the same symbiotic partners. We suggest that a combination of local environmental factors and biogeographic barriers likely contribute to the differences between Atlantic and Indian Ocean Rimicaris symbioses. IMPORTANCE Hydrothermal vent shrimps in the genus Rimicaris are among the most charismatic deep-sea animals of Atlantic and Indian Oceans, often occurring on towering black smokers in dense aggregates of thousands of individuals. Although this dominance is only possible because of symbiosis, no study on the symbiosis of Indian Ocean Rimicaris species has been conducted. Here, we characterize the Rimicaris kairei symbiosis by combining molecular, microscopic, and elemental analyses, making comparisons with those of the Atlantic species possible for the first time. Although most symbiotic partners remained consistent across the two oceans, some differences were recognized in symbiont lineages, as well as in the mechanisms behind the formation of two color morphs with distinct mineralogies. Our results shed new light on relationships among mineralogy, environmental factors, and microbial communities that are useful for understanding other deep-sea symbioses in the future.
-
-[Source](https://www.nature.com/articles/s41564-022-01125-9)
-
-10.1128/aem.00185-22
-
----
-
 ## Microbiomes of microscopic marine invertebrates do not reveal signatures of phylosymbiosis 
 
 [Source](https://www.nature.com/articles/s41564-022-01125-9)
 
 ---
 
-## Cyanopeptides restriction and degradation co-mediate microbiota assembly during a freshwater cyanobacterial harmful algal bloom (CyanoHAB).
- 07.06.2022, _H Gao, Z Zhao, L Zhang, F Ju_
-
-
-Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and exacerbated by climate change and eutrophication. However, microbiota assembly mechanisms underlying CyanoHABs remain elusive. Especially, cyanopeptides, as a group of bioactive secondary metabolites of cyanobacteria, could affect microbiota assembly and ecosystem function. Here, the trajectory of cyanopeptides was followed and linked to microbiota during Microcystis-dominated CyanoHABs in Lake Taihu, China. The most abundant cyanopeptide classes detected included microginin, spumigin, microcystin, nodularin and cyanopeptolin with total MC-LR-equivalent concentrations between 0.23 and 2051.54 ppb, of which cyanotoxins beyond microcystins (e.g., cyanostatin B and nodularin_R) far exceeded reported organismal IC50 and negatively correlated with microbiota diversity, exerting potential collective eco-toxicities stronger than microcystins alone. The microbial communities were differentiated by size fraction and sampling date throughout CyanoHABs, and surprisingly, their variances were better explained by cyanopeptides (19-38%) than nutrients (0-16%). Cyanopeptides restriction (e.g., inhibition) and degradation were first quantitatively verified as the deterministic drivers governing community assembly, with stochastic processes being associated with the interplay between cyanopeptide dynamics and lake microbiota. This study presents an emerging paradigm in which cyanopeptides restriction and degradation co-mediate lake water microbiota assembly, unveiling new insights into the ecotoxicological significance of CyanoHABs to freshwater ecosystems.
+## Cyanopeptides restriction and degradation co-mediate microbiota assembly during a freshwater cyanobacterial harmful algal bloom (CyanoHAB)
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422006273)
-
-10.1016/j.watres.2022.118674
 
 ---
 
