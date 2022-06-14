@@ -59,14 +59,9 @@ Fuzhuan brick tea (FBT) has been shown to prevent obesity, but little is known a
 
 ---
 
-## More data needed on neonatal microbiome seeding.
- 10.06.2022, _WF Fricke, J Ravel_
-
-
+## More data needed on neonatal microbiome seeding
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01282-3)
-
-10.1186/s40168-022-01282-3
 
 ---
 
@@ -100,6 +95,18 @@ Semi-quantitative bacterial culture is the reference standard to diagnose urinar
 
 ---
 
+## Short-term results of intra-articular injections of stromal vascular fraction for early knee osteoarthritis.
+ 13.06.2022, _C Aletto, L Giordano, M Quaranta, A Zara, D Notarfrancesco, N Maffulli_
+
+
+In knee osteoarthritis, progressive degeneration of the articular cartilage surface produces disability and chronic pain. Intra-articular injections of stromal vascular fraction (SVF) could be an innovative approach to manage patients with early knee osteoarthritis.
+
+[Source](https://twitter.com/torjanes/status/1534477927856979968?ref_src=twsrc%5Etfw)
+
+10.1186/s13018-022-03196-0
+
+---
+
 ## June 8, 2022
 
 [Source](https://twitter.com/torjanes/status/1534477927856979968?ref_src=twsrc%5Etfw)
@@ -118,9 +125,10 @@ Semi-quantitative bacterial culture is the reference standard to diagnose urinar
 ---
 
 ## Host hepatic metabolism is modulated by gut microbiota-derived sphingolipids.
- 10.06.2022, _HH Le, MT Lee, KR Besler, EL Johnson_
+ 13.06.2022, _HH Le, MT Lee, KR Besler, EL Johnson_
 
 
+_Animals, Bacteroides thetaiotaomicron, Gastrointestinal Microbiome, Liver, Mice, Microbiota, Sphingolipids_
 Microbially-derived gut metabolites are important contributors to host phenotypes, many of which may link microbiome composition to metabolic disease. However, relatively few metabolites with known bioactivity have been traced from specific microbes to host tissues. Here, we use a labeling strategy to characterize and trace bacterial sphingolipids from the gut symbiont Bacteroides thetaiotaomicron to mouse colons and livers. We find that bacterial sphingolipid synthesis rescues excess lipid accumulation in a mouse model of hepatic steatosis and observe the transit of a previously uncharacterized bacterial sphingolipid to the liver. The addition of this sphingolipid to hepatocytes improves respiration in response to fatty-acid overload, suggesting that sphingolipid transfer to the liver could potentially contribute to microbiota-mediated liver function. This work establishes a role for bacterial sphingolipids in modulating hepatic phenotypes and defines a workflow that permits the characterization of other microbial metabolites with undefined functions in host health.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00262-1)
@@ -130,7 +138,7 @@ Microbially-derived gut metabolites are important contributors to host phenotype
 ---
 
 ## Linking gastrointestinal microbiota and metabolome dynamics to clinical outcomes in paediatric haematopoietic stem cell transplantation.
- 10.06.2022, _G Vaitkute, G Panic, DG Alber, I Faizura-Yeop, E Cloutman-Green, J Swann, P Veys, JF Standing, N Klein, M Bajaj-Elliott_
+ 13.06.2022, _G Vaitkute, G Panic, DG Alber, I Faizura-Yeop, E Cloutman-Green, J Swann, P Veys, JF Standing, N Klein, M Bajaj-Elliott_
 
 
 Haematopoietic stem cell transplantation is a curative procedure for a variety of conditions. Despite major advances, a plethora of adverse clinical outcomes can develop post-transplantation including graft-versus-host disease and infections, which remain the major causes of morbidity and mortality. There is increasing evidence that the gastrointestinal microbiota is associated with clinical outcomes post-haematopoietic stem cell transplantation. Herein, we investigated the longitudinal dynamics of the gut microbiota and metabolome and potential associations to clinical outcomes in paediatric haematopoietic stem cell transplantation at a single centre.
@@ -184,15 +192,9 @@ Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and ex
 
 ---
 
-## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra.
- 11.06.2022, _IS Pessi, S Viitamäki, AM Virkkala, E Eronen-Rasimus, TO Delmont, ME Marushchak, M Luoto, J Hultman_
-
-
-In contrast to earlier assumptions, there is now mounting evidence for the role of tundra soils as important sources of the greenhouse gas nitrous oxide (N2O). However, the microorganisms involved in the cycling of N2O in this system remain largely uncharacterized. Since tundra soils are variable sources and sinks of N2O, we aimed at investigating differences in community structure across different soil ecosystems in the tundra.
+## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.12.21.419267v4)
-
-10.1186/s40793-022-00424-2
 
 ---
 
@@ -214,15 +216,9 @@ In contrast to earlier assumptions, there is now mounting evidence for the role 
 
 ---
 
-## Microbial Diversity and Interaction Specificity in Kombucha Tea Fermentations.
- 07.06.2022, _EA Landis, E Fogarty, JC Edwards, O Popa, AM Eren, BE Wolfe_
-
-
-Despite the popularity of kombucha tea, the distribution of different microbes across kombucha ferments and how those microbes interact within communities are not well characterized. Using metagenomics, comparative genomics, synthetic community experiments, and metabolomics, we determined the taxonomic, ecological, and functional diversity of 23 distinct kombuchas from across the United States. Shotgun metagenomic sequencing demonstrated that the bacterium Komagataeibacter rhaeticus and the yeast Brettanomyces bruxellensis were the most common microbes in the sampled kombucha communities. To determine the specificity of bacterium-yeast interactions, we experimentally quantified microbial interactions within kombucha biofilms by measuring densities of interacting species and biofilm production. In pairwise combinations of bacteria and yeast, B. bruxellensis and individual strains of Komagataeibacter spp. were sufficient to form kombucha fermentations with robust biofilms, but Zygosaccharomyces bisporus, another yeast found in kombucha, did not stimulate bacteria to produce biofilms. Profiling the spent media of both yeast species using nuclear magnetic resonance spectroscopy suggested that the enhanced ability of B. bruxellensis to ferment and produce key metabolites in sucrose-sweetened tea may explain why it stimulates biofilm formation. Comparative genomics demonstrated that Komagataeibacter spp. with &gt;99% genomic similarity can still have dramatic differences in biofilm production, with strong producers yielding five times more biofilm than the weakest producers. IMPORTANCE Through an integration of metagenomic and experimental approaches, our work reveals the diversity and nature of interactions among key taxa in kombucha microbiomes through the construction of synthetic microbial pairs. Manipulation of these microbes in kombucha has the potential to shape both the fermentation qualities of kombucha and the production of biofilms and is valuable for kombucha beverage producers, biofilm engineers, and synthetic ecologists.
+## Microbial Diversity and Interaction Specificity in Kombucha Tea Fermentations
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00157-22)
-
-10.1128/msystems.00157-22
 
 ---
 
@@ -265,18 +261,6 @@ Despite the popularity of kombucha tea, the distribution of different microbes a
 ## https://t.co/BFfTr07K8Y
 
 [Source](https://t.co/BFfTr07K8Y)
-
----
-
-## Short-term results of intra-articular injections of stromal vascular fraction for early knee osteoarthritis.
- 11.06.2022, _C Aletto, L Giordano, M Quaranta, A Zara, D Notarfrancesco, N Maffulli_
-
-
-In knee osteoarthritis, progressive degeneration of the articular cartilage surface produces disability and chronic pain. Intra-articular injections of stromal vascular fraction (SVF) could be an innovative approach to manage patients with early knee osteoarthritis.
-
-[Source](https://twitter.com/LeahBriscoe/status/1532833578001870850?ref_src=twsrc%5Etfw)
-
-10.1186/s13018-022-03196-0
 
 ---
 
