@@ -71,9 +71,15 @@ Dietary fibres are essential for maintaining microbial diversity and the gut mic
 
 ---
 
-## Metagenomic DNA sequencing for semi-quantitative pathogen detection from urine: a prospective, laboratory-based, proof-of-concept study
+## Metagenomic DNA sequencing for semi-quantitative pathogen detection from urine: a prospective, laboratory-based, proof-of-concept study.
+ 10.06.2022, _VA Janes, S Matamoros, P Munk, PTLC Clausen, SM Koekkoek, LAM Koster, ME Jakobs, B de Wever, CE Visser, FM Aarestrup, O Lund, MD de Jong, PMM Bossuyt, DR Mende, C Schultsz_
+
+
+Semi-quantitative bacterial culture is the reference standard to diagnose urinary tract infection, but culture is time-consuming and can be unreliable if patients are receiving antibiotics. Metagenomics could increase diagnostic accuracy and speed by sequencing the microbiota and resistome directly from urine. We aimed to compare metagenomics to culture for semi-quantitative pathogen and resistome detection from urine.
 
 [Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(22)00088-X/fulltext)
+
+10.1016/S2666-5247(22)00088-X
 
 ---
 
@@ -107,9 +113,29 @@ Dietary fibres are essential for maintaining microbial diversity and the gut mic
 
 ---
 
-## Linking gastrointestinal microbiota and metabolome dynamics to clinical outcomes in paediatric haematopoietic stem cell transplantation
+## Linking gastrointestinal microbiota and metabolome dynamics to clinical outcomes in paediatric haematopoietic stem cell transplantation.
+ 14.06.2022, _G Vaitkute, G Panic, DG Alber, I Faizura-Yeop, E Cloutman-Green, J Swann, P Veys, JF Standing, N Klein, M Bajaj-Elliott_
+
+
+_Child, Clostridiales, Enterobacteriaceae, Feces, Gastrointestinal Microbiome, Graft vs Host Disease, Hematopoietic Stem Cell Transplantation, Humans, Metabolome, Viremia_
+Haematopoietic stem cell transplantation is a curative procedure for a variety of conditions. Despite major advances, a plethora of adverse clinical outcomes can develop post-transplantation including graft-versus-host disease and infections, which remain the major causes of morbidity and mortality. There is increasing evidence that the gastrointestinal microbiota is associated with clinical outcomes post-haematopoietic stem cell transplantation. Herein, we investigated the longitudinal dynamics of the gut microbiota and metabolome and potential associations to clinical outcomes in paediatric haematopoietic stem cell transplantation at a single centre.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01270-7)
+
+10.1186/s40168-022-01270-7
+
+---
+
+## Symbiont Community Composition in Rimicaris kairei Shrimps from Indian Ocean Vents with Notes on Mineralogy.
+ 01.06.2022, _P Methou, M Hikosaka, C Chen, HK Watanabe, N Miyamoto, H Makita, Y Takahashi, RG Jenkins_
+
+
+_Animals, Decapoda, Hydrothermal Vents, In Situ Hybridization, Fluorescence, Indian Ocean, Microbiota, Symbiosis_
+Hydrothermal vent ecosystems are home to a wide array of symbioses between animals and chemosynthetic microbes, among which shrimps in the genus Rimicaris is one of the most iconic. So far, studies of Rimicaris symbioses have been restricted to Atlantic species, including Rimicaris exoculata, which is totally reliant on the symbionts for nutrition, and the mixotrophic species Rimicaris chacei. Here, we expand this by investigating and characterizing the symbiosis of the Indian Ocean species Rimicaris kairei using specimens from two vent fields, Kairei and Edmond. We also aimed to evaluate the differences in mineralogy and microbial communities between two cephalothorax color morphs, black and brown, through a combination of 16S metabarcoding, scanning electron microscopy, fluorescent in situ hybridization, energy-dispersive X-ray spectroscopy, and synchrotron near-edge X-ray absorption structure analyses. Overall, our results highlight that R. kairei exhibits similar symbiont lineages to those of its Atlantic congeners, although with a few differences, such as the lack of Zetaproteobacteria. We found distinct mineralization processes behind the two color morphs that were linked to differences in the vent fluid composition, but the symbiotic community composition was surprisingly similar. In R. exoculata, such mineralogical differences have been shown to stem from disparity in the microbial communities, but our results indicate that in R. kairei this is instead due to the shift of dominant metabolisms by the same symbiotic partners. We suggest that a combination of local environmental factors and biogeographic barriers likely contribute to the differences between Atlantic and Indian Ocean Rimicaris symbioses. IMPORTANCE Hydrothermal vent shrimps in the genus Rimicaris are among the most charismatic deep-sea animals of Atlantic and Indian Oceans, often occurring on towering black smokers in dense aggregates of thousands of individuals. Although this dominance is only possible because of symbiosis, no study on the symbiosis of Indian Ocean Rimicaris species has been conducted. Here, we characterize the Rimicaris kairei symbiosis by combining molecular, microscopic, and elemental analyses, making comparisons with those of the Atlantic species possible for the first time. Although most symbiotic partners remained consistent across the two oceans, some differences were recognized in symbiont lineages, as well as in the mechanisms behind the formation of two color morphs with distinct mineralogies. Our results shed new light on relationships among mineralogy, environmental factors, and microbial communities that are useful for understanding other deep-sea symbioses in the future.
+
+[Source](https://www.nature.com/articles/s41564-022-01125-9)
+
+10.1128/aem.00185-22
 
 ---
 
@@ -119,9 +145,15 @@ Dietary fibres are essential for maintaining microbial diversity and the gut mic
 
 ---
 
-## Cyanopeptides restriction and degradation co-mediate microbiota assembly during a freshwater cyanobacterial harmful algal bloom (CyanoHAB)
+## Cyanopeptides restriction and degradation co-mediate microbiota assembly during a freshwater cyanobacterial harmful algal bloom (CyanoHAB).
+ 07.06.2022, _H Gao, Z Zhao, L Zhang, F Ju_
+
+
+Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and exacerbated by climate change and eutrophication. However, microbiota assembly mechanisms underlying CyanoHABs remain elusive. Especially, cyanopeptides, as a group of bioactive secondary metabolites of cyanobacteria, could affect microbiota assembly and ecosystem function. Here, the trajectory of cyanopeptides was followed and linked to microbiota during Microcystis-dominated CyanoHABs in Lake Taihu, China. The most abundant cyanopeptide classes detected included microginin, spumigin, microcystin, nodularin and cyanopeptolin with total MC-LR-equivalent concentrations between 0.23 and 2051.54 ppb, of which cyanotoxins beyond microcystins (e.g., cyanostatin B and nodularin_R) far exceeded reported organismal IC50 and negatively correlated with microbiota diversity, exerting potential collective eco-toxicities stronger than microcystins alone. The microbial communities were differentiated by size fraction and sampling date throughout CyanoHABs, and surprisingly, their variances were better explained by cyanopeptides (19-38%) than nutrients (0-16%). Cyanopeptides restriction (e.g., inhibition) and degradation were first quantitatively verified as the deterministic drivers governing community assembly, with stochastic processes being associated with the interplay between cyanopeptide dynamics and lake microbiota. This study presents an emerging paradigm in which cyanopeptides restriction and degradation co-mediate lake water microbiota assembly, unveiling new insights into the ecotoxicological significance of CyanoHABs to freshwater ecosystems.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422006273)
+
+10.1016/j.watres.2022.118674
 
 ---
 
@@ -137,9 +169,15 @@ Dietary fibres are essential for maintaining microbial diversity and the gut mic
 
 ---
 
-## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra
+## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra.
+ 13.06.2022, _IS Pessi, S Viitamäki, AM Virkkala, E Eronen-Rasimus, TO Delmont, ME Marushchak, M Luoto, J Hultman_
+
+
+In contrast to earlier assumptions, there is now mounting evidence for the role of tundra soils as important sources of the greenhouse gas nitrous oxide (N2O). However, the microorganisms involved in the cycling of N2O in this system remain largely uncharacterized. Since tundra soils are variable sources and sinks of N2O, we aimed at investigating differences in community structure across different soil ecosystems in the tundra.
 
 [Source](https://www.biorxiv.org/content/10.1101/2020.12.21.419267v4)
+
+10.1186/s40793-022-00424-2
 
 ---
 
@@ -206,6 +244,18 @@ Dietary fibres are essential for maintaining microbial diversity and the gut mic
 ## https://t.co/BFfTr07K8Y
 
 [Source](https://t.co/BFfTr07K8Y)
+
+---
+
+## Automatic segmentation of multitype retinal fluid from optical coherence tomography images using semisupervised deep learning network.
+ 13.06.2022, _F Li, W Pan, W Xiang, H Zou_
+
+
+To develop and validate a deep learning model for automated segmentation of multitype retinal fluid using optical coherence tomography (OCT) images.
+
+[Source](https://twitter.com/LeahBriscoe/status/1532833578001870850?ref_src=twsrc%5Etfw)
+
+10.1136/bjophthalmol-2022-321348
 
 ---
 
