@@ -1,267 +1,158 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Fungi with history: Unveiling the mycobiota of historic documents of Costa Rica
 
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
+[Source](https://www.biorxiv.org/content/10.1101/2022.06.12.495835v2.abstract)
 
 ---
 
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## 6α-hydroxylated bile acids mediate TGR5 signalling to improve glucose metabolism upon dietary fiber supplementation in mice.
- 13.06.2022, _K Makki, H Brolin, N Petersen, M Henricsson, DP Christensen, MT Khan, A Wahlström, PO Bergh, V Tremaroli, K Schoonjans, HU Marschall, F Bäckhed_
+## Babies, Bugs, and Barriers: Dietary Modulation of Intestinal Barrier Function in Early Life.
+ 13.06.2022, _JM Wells, Y Gao, N de Groot, MM Vonk, L Ulfman, RJJ van Neerven_
 
 
-Dietary fibres are essential for maintaining microbial diversity and the gut microbiota can modulate host physiology by metabolising the fibres. Here, we investigated whether the soluble dietary fibre oligofructose improves host metabolism by modulating bacterial transformation of secondary bile acids in mice fed western-style diet.
+The intestinal barrier is essential in early life to prevent infection, inflammation, and food allergies. It consists of microbiota, a mucus layer, an epithelial layer, and the immune system. Microbial metabolites, the mucus, antimicrobial peptides, and secretory immunoglobulin A (sIgA) protect the intestinal mucosa against infection. The complex interplay between these functionalities of the intestinal barrier is crucial in early life by supporting homeostasis, development of the intestinal immune system, and long-term gut health. Exclusive breastfeeding is highly recommended during the first 6 months. When breastfeeding is not possible, milk-based infant formulas are the only safe alternative. Breast milk contains many bioactive components that help to establish the intestinal microbiota and influence the development of the intestinal epithelium and the immune system. Importantly, breastfeeding lowers the risk for intestinal and respiratory tract infections. Here we review all aspects of intestinal barrier function and the nutritional components that impact its functionality in early life, such as micronutrients, bioactive milk proteins, milk lipids, and human milk oligosaccharides. These components are present in breast milk and can be added to milk-based infant formulas to support gut health and immunity. Expected final online publication date for the Annual Review of Nutrition, Volume 42 is August 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://www.annualreviews.org/doi/10.1146/annurev-nutr-122221-103916)
 
-10.1136/gutjnl-2021-326541
+10.1146/annurev-nutr-122221-103916
 
 ---
 
-## #microbiome
+## A multi-omics analysis for the prediction of neurocognitive disorders risk among the elderly in Macao.
+ 13.06.2022, _Y Han, X Quan, Y Chuang, Q Liang, Y Li, Z Yuan, Y Bian, L Wei, J Wang, Y Zhao_
 
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
----
+Due to the increasing ageing population, neurocognitive disorders (NCDs) have been a global public health issue, and its prevention and early diagnosis are crucial. Our previous study demonstrated that there is a significant correlation between specific populations and NCDs, but the biological characteristics of the vulnerable group predispose to NCDs are unclear. The purpose of this study is to investigate the predictors for the vulnerable group by a multi-omics analysis.
 
-## https://t.co/iMRcrWuTdK
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.909)
 
-[Source](https://t.co/iMRcrWuTdK)
-
----
-
-## https://t.co/MzsTYidE6J
-
-[Source](https://t.co/MzsTYidE6J)
+10.1002/ctm2.909
 
 ---
 
-## https://t.co/9SBm1JQXXg
+## The oral microbiome, pancreatic cancer and human diversity in the age of precision medicine
 
-[Source](https://t.co/9SBm1JQXXg)
-
----
-
-## June 13, 2022
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1536268240963440641?ref_src=twsrc%5Etfw)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01262-7)
 
 ---
 
-## More data needed on neonatal microbiome seeding
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01282-3)
-
----
-
-## The Urobiomes of Adult Women With Various Lower Urinary Tract Symptoms Status Differ: A Re-Analysis
-
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2022.860408/full)
-
----
-
-## Metagenomic DNA sequencing for semi-quantitative pathogen detection from urine: a prospective, laboratory-based, proof-of-concept study.
- 10.06.2022, _VA Janes, S Matamoros, P Munk, PTLC Clausen, SM Koekkoek, LAM Koster, ME Jakobs, B de Wever, CE Visser, FM Aarestrup, O Lund, MD de Jong, PMM Bossuyt, DR Mende, C Schultsz_
+## Altered skin fungal and bacterial community compositions in tinea capitis.
+ 11.06.2022, _T Rong, P Zhu, Y Zhou, Q Li, Z Wan, R Li, W Ruojun_
 
 
-Semi-quantitative bacterial culture is the reference standard to diagnose urinary tract infection, but culture is time-consuming and can be unreliable if patients are receiving antibiotics. Metagenomics could increase diagnostic accuracy and speed by sequencing the microbiota and resistome directly from urine. We aimed to compare metagenomics to culture for semi-quantitative pathogen and resistome detection from urine.
+Tinea capitis is an infection of the scalp and hair shaft caused by dermatophytes that predominantly occurs in children. Skin fungal infections have been found to be associated with alterations in the overall bacterial and fungal communities. However, the scalp microbiome in tinea capitis have not been fully investigated.
 
-[Source](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(22)00088-X/fulltext)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/myc.13480)
 
-10.1016/S2666-5247(22)00088-X
+10.1111/myc.13480
 
 ---
 
-## @LancetMicrobe
+## Effects of short chain fructo-oligosaccharides on selected skin bacteria.
+ 14.06.2022, _C Le Bourgot, C Meunier, E Gaio, V Murat, M Micheletto, E Tedesco, F Benetti_
 
-[Source](https://twitter.com/LancetMicrobe?ref_src=twsrc%5Etfw)
 
----
+_Humans, Microbiota, Oligosaccharides, Prebiotics, Propionibacterium acnes, Skin, Staphylococcus epidermidis_
+The human skin microbiota plays a key role in the maintenance of healthy skin, ensuring protection and biological barrier by competing with pathogens and by closely communicating with the immune system. The development of approaches which preserve or restore the skin microbiota represents a novel target for skincare applications. Prebiotics could be applied to balance almost any microbial community to achieve advantageous effects. However, information about their effectiveness as skin microbiota modulators is limited. The objective of the current study was to evaluate the effects of short chain fructo-oligosaccharides (scFOS) from sugar beet (DP 3-5), well-recognised prebiotics, on some representative bacterial strains of the skin microbiota. We measured the growth and competitive activity of these specific bacteria for the use of scFOS as energy source in minimal medium and in a reconstructed human epithelium (RHE) in vitro model. In minimal growth medium, scFOS promoted and sustained the growth of Staphylococcus epidermidis up to 24 h, considered a beneficial skin commensal bacterium, while inhibiting both Cutibacterium acnes and Staphylococcus aureus growth, regarded as opportunistic pathogens. S. epidermidis showed the highest colonization potential and 1% scFOS was effective in shifting the competition in favour of S. epidermidis with respect to C. acnes in the RHE model. This latter effect was observed following 24 h of exposure, suggesting a long-term effect of scFOS in a highly skin dynamic environment. Therefore, scFOS could be effectively implemented in skincare formulations for recovering skin microbiota homeostasis.
 
-## https://t.co/cyLS5TSeRJ
+[Source](https://www.nature.com/articles/s41598-022-13093-5)
 
-[Source](https://t.co/cyLS5TSeRJ)
-
----
-
-## June 8, 2022
-
-[Source](https://twitter.com/torjanes/status/1534477927856979968?ref_src=twsrc%5Etfw)
+10.1038/s41598-022-13093-5
 
 ---
 
-## Tiny Gatekeepers: Microbial Control of Host Drug Transporters
+## Child type 1 diabetes associated with mother vaginal bacteriome and mycobiome
 
-[Source](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2647)
-
----
-
-## Host hepatic metabolism is modulated by gut microbiota-derived sphingolipids
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00262-1)
+[Source](https://link.springer.com/article/10.1007/s00430-022-00741-w)
 
 ---
 
-## Linking gastrointestinal microbiota and metabolome dynamics to clinical outcomes in paediatric haematopoietic stem cell transplantation.
- 14.06.2022, _G Vaitkute, G Panic, DG Alber, I Faizura-Yeop, E Cloutman-Green, J Swann, P Veys, JF Standing, N Klein, M Bajaj-Elliott_
+## Nutrition-wide association study of microbiome diversity and composition in colorectal cancer patients
 
-
-_Child, Clostridiales, Enterobacteriaceae, Feces, Gastrointestinal Microbiome, Graft vs Host Disease, Hematopoietic Stem Cell Transplantation, Humans, Metabolome, Viremia_
-Haematopoietic stem cell transplantation is a curative procedure for a variety of conditions. Despite major advances, a plethora of adverse clinical outcomes can develop post-transplantation including graft-versus-host disease and infections, which remain the major causes of morbidity and mortality. There is increasing evidence that the gastrointestinal microbiota is associated with clinical outcomes post-haematopoietic stem cell transplantation. Herein, we investigated the longitudinal dynamics of the gut microbiota and metabolome and potential associations to clinical outcomes in paediatric haematopoietic stem cell transplantation at a single centre.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01270-7)
-
-10.1186/s40168-022-01270-7
+[Source](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-022-09735-6)
 
 ---
 
-## Symbiont Community Composition in Rimicaris kairei Shrimps from Indian Ocean Vents with Notes on Mineralogy.
- 01.06.2022, _P Methou, M Hikosaka, C Chen, HK Watanabe, N Miyamoto, H Makita, Y Takahashi, RG Jenkins_
+## Gut microbiota signatures of long-term and short-term plant-based dietary pattern and cardiometabolic health: a prospective cohort study
 
-
-_Animals, Decapoda, Hydrothermal Vents, In Situ Hybridization, Fluorescence, Indian Ocean, Microbiota, Symbiosis_
-Hydrothermal vent ecosystems are home to a wide array of symbioses between animals and chemosynthetic microbes, among which shrimps in the genus Rimicaris is one of the most iconic. So far, studies of Rimicaris symbioses have been restricted to Atlantic species, including Rimicaris exoculata, which is totally reliant on the symbionts for nutrition, and the mixotrophic species Rimicaris chacei. Here, we expand this by investigating and characterizing the symbiosis of the Indian Ocean species Rimicaris kairei using specimens from two vent fields, Kairei and Edmond. We also aimed to evaluate the differences in mineralogy and microbial communities between two cephalothorax color morphs, black and brown, through a combination of 16S metabarcoding, scanning electron microscopy, fluorescent in situ hybridization, energy-dispersive X-ray spectroscopy, and synchrotron near-edge X-ray absorption structure analyses. Overall, our results highlight that R. kairei exhibits similar symbiont lineages to those of its Atlantic congeners, although with a few differences, such as the lack of Zetaproteobacteria. We found distinct mineralization processes behind the two color morphs that were linked to differences in the vent fluid composition, but the symbiotic community composition was surprisingly similar. In R. exoculata, such mineralogical differences have been shown to stem from disparity in the microbial communities, but our results indicate that in R. kairei this is instead due to the shift of dominant metabolisms by the same symbiotic partners. We suggest that a combination of local environmental factors and biogeographic barriers likely contribute to the differences between Atlantic and Indian Ocean Rimicaris symbioses. IMPORTANCE Hydrothermal vent shrimps in the genus Rimicaris are among the most charismatic deep-sea animals of Atlantic and Indian Oceans, often occurring on towering black smokers in dense aggregates of thousands of individuals. Although this dominance is only possible because of symbiosis, no study on the symbiosis of Indian Ocean Rimicaris species has been conducted. Here, we characterize the Rimicaris kairei symbiosis by combining molecular, microscopic, and elemental analyses, making comparisons with those of the Atlantic species possible for the first time. Although most symbiotic partners remained consistent across the two oceans, some differences were recognized in symbiont lineages, as well as in the mechanisms behind the formation of two color morphs with distinct mineralogies. Our results shed new light on relationships among mineralogy, environmental factors, and microbial communities that are useful for understanding other deep-sea symbioses in the future.
-
-[Source](https://www.nature.com/articles/s41564-022-01125-9)
-
-10.1128/aem.00185-22
+[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02402-4)
 
 ---
 
-## Microbiomes of microscopic marine invertebrates do not reveal signatures of phylosymbiosis 
-
-[Source](https://www.nature.com/articles/s41564-022-01125-9)
-
----
-
-## Cyanopeptides restriction and degradation co-mediate microbiota assembly during a freshwater cyanobacterial harmful algal bloom (CyanoHAB).
- 07.06.2022, _H Gao, Z Zhao, L Zhang, F Ju_
+## The role of virome in the gastrointestinal tract and beyond.
+ 14.06.2022, _K Tiamani, S Luo, S Schulz, J Xue, R Costa, MK Mirzaei, L Deng_
 
 
-Cyanobacterial harmful algal blooms (CyanoHABs) are globally intensifying and exacerbated by climate change and eutrophication. However, microbiota assembly mechanisms underlying CyanoHABs remain elusive. Especially, cyanopeptides, as a group of bioactive secondary metabolites of cyanobacteria, could affect microbiota assembly and ecosystem function. Here, the trajectory of cyanopeptides was followed and linked to microbiota during Microcystis-dominated CyanoHABs in Lake Taihu, China. The most abundant cyanopeptide classes detected included microginin, spumigin, microcystin, nodularin and cyanopeptolin with total MC-LR-equivalent concentrations between 0.23 and 2051.54 ppb, of which cyanotoxins beyond microcystins (e.g., cyanostatin B and nodularin_R) far exceeded reported organismal IC50 and negatively correlated with microbiota diversity, exerting potential collective eco-toxicities stronger than microcystins alone. The microbial communities were differentiated by size fraction and sampling date throughout CyanoHABs, and surprisingly, their variances were better explained by cyanopeptides (19-38%) than nutrients (0-16%). Cyanopeptides restriction (e.g., inhibition) and degradation were first quantitatively verified as the deterministic drivers governing community assembly, with stochastic processes being associated with the interplay between cyanopeptide dynamics and lake microbiota. This study presents an emerging paradigm in which cyanopeptides restriction and degradation co-mediate lake water microbiota assembly, unveiling new insights into the ecotoxicological significance of CyanoHABs to freshwater ecosystems.
+The human gut virome is comprised of diverse commensal and pathogenic viruses. The colonization by these viruses begins right after birth through vaginal delivery, then continues through breastfeeding, and broader environmental exposure. Their constant interaction with their bacterial hosts in the body shapes not only our microbiomes but us. In addition, these viruses interact with the immune cells, trigger a broad range of immune responses, and influence different metabolic pathways. Besides its key role in regulating the human gut homeostasis, the intestinal virome contributes to disease development in distant organs, both directly and indirectly. In this review, we will describe the changes in the gut virome through life, health, and disease, followed by discussing the interactions between the virome, the microbiome, and the human host as well as providing an overview of their contribution to gut disease and disease of distant organs.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422006273)
+[Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuac027/6608358)
 
-10.1016/j.watres.2022.118674
+10.1093/femsre/fuac027
 
 ---
 
-## Low diversity and microdiversity of comammox bacteria in wastewater systems suggests wastewater-specific adaptation within the Ca. Nitrospira nitrosa cluster
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.11.495745v1)
-
----
-
-## Substrate Utilization and Competitive Interactions Among Soil Bacteria Vary With Life-History Strategies 
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2022.914472/full)
-
----
-
-## In-depth characterization of denitrifier communities across different soil ecosystems in the tundra.
- 13.06.2022, _IS Pessi, S Viitamäki, AM Virkkala, E Eronen-Rasimus, TO Delmont, ME Marushchak, M Luoto, J Hultman_
+## Time-limited diets and the gut microbiota in cardiometabolic disease.
+ 13.06.2022, _K Ratiner, H Shapiro, K Goldenberg, E Elinav_
 
 
-In contrast to earlier assumptions, there is now mounting evidence for the role of tundra soils as important sources of the greenhouse gas nitrous oxide (N2O). However, the microorganisms involved in the cycling of N2O in this system remain largely uncharacterized. Since tundra soils are variable sources and sinks of N2O, we aimed at investigating differences in community structure across different soil ecosystems in the tundra.
+In recent years, intermittent fasting (IF), including periodic fasting and time-restricted feeding (TRF), has been increasingly suggested to constitute a promising treatment for cardiometabolic diseases (CMD). A deliberate daily pause in food consumption influences the gut microbiome and the host circadian clock, resulting in improved cardiometabolic health. Understanding the molecular mechanisms by which circadian host-microbiome interactions affect host metabolism and immunity may add a potentially important dimension to effective implementation of IF diets. In this review, we discuss emerging evidence potentially linking compositional and functional alterations of the gut microbiome with IF impacts on mammalian metabolism and risk of development of hypertension, type 2 diabetes (T2D), obesity, and their long-term micro- and macrovascular complications. We highlight the challenges and unknowns in causally linking diurnal bacterial signals with dietary cues and downstream metabolic consequences and means of harnessing these signals toward future microbiome integration into precision medicine.
 
-[Source](https://www.biorxiv.org/content/10.1101/2020.12.21.419267v4)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/1753-0407.13288)
 
-10.1186/s40793-022-00424-2
+10.1111/1753-0407.13288
 
 ---
 
-## @MicrobiomeJ
+## Safety and efficacy of fecal microbiota transplantation for treatment of systemic lupus erythematosus: An EXPLORER trial.
+ 11.06.2022, _C Huang, P Yi, M Zhu, W Zhou, B Zhang, X Yi, H Long, G Zhang, H Wu, GC Tsokos, M Zhao, Q Lu_
 
-[Source](https://twitter.com/MicrobiomeJ?ref_src=twsrc%5Etfw)
 
----
+Gut microbiota dysbiosis is involved in the development of systemic lupus erythematosus (SLE). The safety and efficacy of fecal microbiota transplantation (FMT) for the treatment of SLE patients has not been explored. In this 12-week, single-arm pilot clinical trial of oral encapsulated fecal microbiome from healthy donors to patients with active SLE, we aimed to evaluate the safety and efficacy of FMT in patients with SLE (ChiCTR2000036352). 20 SLE patients with SLEDAI ≥6 were recruited. FMT was administered once a week for three consecutive weeks along with standard treatment and the patients were followed for 12 weeks. Safety was evaluated throughout the trial. The primary endpoint was the SLE Responder Index-4 (SRI-4) at week 12. Microbiome composition, levels of short chain fatty acids (SCFAs) in the gut and of cytokines in the sera were measured along with lymphocyte phenotyping. No serious adverse events were observed after FMT. At week 12, the SRI-4 response rate was 42.12%, and significant reductions in the SLEDAI-2K scores and the level of serum anti-dsDNA antibody were observed compared to baseline. Significant enrichment of SCFAs-producing bacterial taxa and reduction of inflammation-related bacterial taxa were observed, along with increased production of SCFAs in the gut and reduced levels of IL-6 and CD4+ memory/naïve ratio in the peripheral blood. Furthermore, SRI-4 responding patients displayed specific microbiota signatures both before and after FMT. The first clinical trial of FMT in active SLE patients provide supportive evidence that FMT might be a feasible, safe, and potentially effective therapy in SLE patients by modifying the gut microbiome and its metabolic profile.
 
-## https://t.co/x5orZNAMKh
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S089684112200052X)
 
-[Source](https://t.co/x5orZNAMKh)
-
----
-
-## June 4, 2022
-
-[Source](https://twitter.com/igor_spp/status/1532984177196470273?ref_src=twsrc%5Etfw)
+10.1016/j.jaut.2022.102844
 
 ---
 
-## Microbial Diversity and Interaction Specificity in Kombucha Tea Fermentations
+## Tumor-resident intracellular microbiota promotes metastatic colonization in breast cancer.
+ 31.05.2022, _A Fu, B Yao, T Dong, Y Chen, J Yao, Y Liu, H Li, H Bai, X Liu, Y Zhang, C Wang, Y Guo, N Li, S Cai_
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.00157-22)
 
----
+_Animals, Breast Neoplasms, Cell Line, Tumor, Female, Humans, Lung Neoplasms, Mice, Microbiota, Neoplasm Metastasis, Neoplastic Cells, Circulating_
+Tumor-resident intracellular microbiota is an emerging tumor component that has been documented for a variety of cancer types with unclear biological functions. Here, we explored the functional significance of these intratumor bacteria, primarily using a murine spontaneous breast-tumor model MMTV-PyMT. We found that depletion of intratumor bacteria significantly reduced lung metastasis without affecting primary tumor growth. During metastatic colonization, intratumor bacteria carried by circulating tumor cells promoted host-cell survival by enhancing resistance to fluid shear stress by reorganizing actin cytoskeleton. We further showed that intratumor administration of selected bacteria strains isolated from tumor-resident microbiota promoted metastasis in two murine tumor models with significantly different levels of metastasis potential. Our findings suggest that tumor-resident microbiota, albeit at low biomass, play an important role in promoting cancer metastasis, intervention of which might therefore be worth exploring for advancing oncology care.
 
-## Spontaneous Riboflavin-Overproducing<em> Limosilactobacillus reuteri</em> for Biofortification of Fermented Foods
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867422002604)
 
-[Source](https://www.frontiersin.org/articles/10.3389/fnut.2022.916607/full)
-
----
-
-## coda4microbiome: compositional data analysis for microbiome studies
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.09.495511v1)
+10.1016/j.cell.2022.02.027
 
 ---
 
-## GeneToList: A web application to assist with gene identifiers for the non-bioinformatics-savvy scientist 
+## Pharmacokinetic and gut microbiota analyses revealed the effect of Lactobacillus acidophilus on the metabolism of Olsalazine in ulcerative colitis rats
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.09.494882v1)
-
----
-
-## Microbiome source tracking using single nucleotide variants
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.05.28.493810v1)
+[Source](https://www.sciencedirect.com/science/article/pii/S0928098722001208)
 
 ---
 
-## @halperineran
+## Identification of gut microbial species linked with disease variability in a widely used mouse model of colitis
 
-[Source](https://twitter.com/halperineran?ref_src=twsrc%5Etfw)
-
----
-
-## @nanditagarud
-
-[Source](https://twitter.com/nanditagarud?ref_src=twsrc%5Etfw)
+[Source](https://www.nature.com/articles/s41564-022-01094-z)
 
 ---
 
-## https://t.co/BFfTr07K8Y
-
-[Source](https://t.co/BFfTr07K8Y)
-
----
-
-## Automatic segmentation of multitype retinal fluid from optical coherence tomography images using semisupervised deep learning network.
- 13.06.2022, _F Li, W Pan, W Xiang, H Zou_
+## The plant host environment influences competitive interactions between bacterial pathogens.
+ 14.06.2022, _H Ehau-Taumaunu, KL Hockett_
 
 
-To develop and validate a deep learning model for automated segmentation of multitype retinal fluid using optical coherence tomography (OCT) images.
+Bacteria compete for resources in diverse environments using an array of antagonistic strategies, including the production of narrow-spectrum protein antibacterials termed bacteriocins. Although significant research has focused on bacteriocin-mediated dynamics in culture environments, little research has explored bacteriocin-mediated dynamics within a host context, particularly in plant environments. Here, we show that a bacterial plant pathogen, Pseudomonas syringae pv. syringae (Psy), expresses a bacteriocin both in culture and in leaf apoplast when co-inoculated with a bacteriocin-sensitive competitor, P. syringae pv. phaseolicola (Pph). Although there is an observable negative effect of the bacteriocin on the Pph population at most time points both in culture and in the leaf apoplast, a bacteriocin-mediated benefit to Psy was only observed when the producing strain was co-infiltrated at a low population frequency (1:9) into the leaf apoplast. At 6 days post-infiltration, Psy achieved an eightfold population increase compared to a bacteriocin-deficient mutant in the apoplast. No bacteriocin-mediated benefit for Psy was observed under the culture conditions tested. Additionally, we found that the bacteriocin-mediated benefit for Psy was dependent on the Type III Secretion System. Taken together, our results demonstrate that the fitness benefit of bacteriocin-mediated antagonism is influenced by interactions within the host plant.
 
-[Source](https://twitter.com/LeahBriscoe/status/1532833578001870850?ref_src=twsrc%5Etfw)
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13103)
 
-10.1136/bjophthalmol-2022-321348
+10.1111/1758-2229.13103
 
 ---
 
-## June 3, 2022
+## specificity: an R package for analysis of feature specificity to environmental and higher dimensional variables, applied to microbiome species data
 
-[Source](https://twitter.com/LeahBriscoe/status/1532833578001870850?ref_src=twsrc%5Etfw)
+[Source](https://www.biorxiv.org/content/10.1101/2021.11.06.467582v3.abstract)
 
 ---
 
