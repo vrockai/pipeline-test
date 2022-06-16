@@ -29,9 +29,15 @@ Due to the increasing ageing population, neurocognitive disorders (NCDs) have be
 
 ---
 
-## The oral microbiome, pancreatic cancer and human diversity in the age of precision medicine
+## The oral microbiome, pancreatic cancer and human diversity in the age of precision medicine.
+ 14.06.2022, _KM Herremans, AN Riner, ME Cameron, KL McKinley, EW Triplett, SJ Hughes, JG Trevino_
+
+
+Pancreatic cancer is a deadly disease with limited diagnostic and treatment options. Not all populations are affected equally, as disparities exist in pancreatic cancer prevalence, treatment and outcomes. Recently, next-generation sequencing has facilitated a more comprehensive analysis of the human oral microbiome creating opportunity for its application in precision medicine. Oral microbial shifts occur in patients with pancreatic cancer, which may be appreciated years prior to their diagnosis. In addition, pathogenic bacteria common in the oral cavity have been found within pancreatic tumors. Despite these findings, much remains unknown about how or why the oral microbiome differs in patients with pancreatic cancer. As individuals develop, their oral microbiome reflects both their genotype and environmental influences. Genetics, race/ethnicity, smoking, socioeconomics and age affect the composition of the oral microbiota, which may ultimately play a role in pancreatic carcinogenesis. Multiple mechanisms have been proposed to explain the oral dysbiosis found in patients with pancreatic cancer though they have yet to be confirmed. With a better understanding of the interplay between the oral microbiome and pancreatic cancer, improved diagnostic and therapeutic approaches may be implemented to reduce healthcare disparities. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01262-7)
+
+10.1186/s40168-022-01262-7
 
 ---
 
@@ -60,45 +66,88 @@ The human skin microbiota plays a key role in the maintenance of healthy skin, e
 
 ---
 
-## Child type 1 diabetes associated with mother vaginal bacteriome and mycobiome
+## Child type 1 diabetes associated with mother vaginal bacteriome and mycobiome.
+ 14.06.2022, _AL Ruotsalainen, MV Tejesvi, P Vänni, M Suokas, P Tossavainen, AM Pirttilä, A Talvensaari-Mattila, R Nissi_
+
+
+Mother vaginal microbes contribute to microbiome of vaginally delivered neonates. Child microbiome can be associated with autoimmune diseases, such as type 1 diabetes (T1D). We collected vaginal DNA samples from 25 mothers with a vaginally delivered child diagnosed with T1D and samples from 24 control mothers who had vaginally delivered a healthy child and analyzed bacteriome and mycobiome of the samples. The total DNA of the samples was extracted, and ribosomal DNA regions (16S for bacteria, ITS2 for fungi) were amplified, followed by next-generation sequencing and machine learning. We found that alpha-diversity of bacteriome was increased (P &lt; 0.002), whereas alpha-diversity of mycobiome was decreased (P &lt; 0.001) in mothers with a diabetic child compared to the control mothers. Beta-diversity analysis suggested differences in mycobiomes between the mother groups (P = 0.001). Random forest models were able to effectively predict diabetes and control status of unknown samples (bacteria: 0.86 AUC, fungi: 0.96 AUC). Our data indicate several fungal genera and bacterial metabolic pathways of mother vaginal microbiome to be associated with child T1D. We suggest that early onset of T1D in a child has a relationship with altered mother vaginal microbiome and that both bacteriome and mycobiome contribute to this shift.
 
 [Source](https://link.springer.com/article/10.1007/s00430-022-00741-w)
 
+10.1007/s00430-022-00741-w
+
 ---
 
-## Nutrition-wide association study of microbiome diversity and composition in colorectal cancer patients
+## Nutrition-wide association study of microbiome diversity and composition in colorectal cancer patients.
+ 14.06.2022, _T Hoang, MJ Kim, JW Park, SY Jeong, J Lee, A Shin_
+
+
+The effects of diet on the interaction between microbes and host health have been widely studied. However, its effects on the gut microbiota of patients with colorectal cancer (CRC) have not been elucidated. This study aimed to investigate the association between diet and the overall diversity and different taxa levels of the gut microbiota in CRC patients via the nutrition-wide association approach.
 
 [Source](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-022-09735-6)
 
+10.1186/s12885-022-09735-6
+
 ---
 
-## Gut microbiota signatures of long-term and short-term plant-based dietary pattern and cardiometabolic health: a prospective cohort study
+## Gut microbiota signatures of long-term and short-term plant-based dietary pattern and cardiometabolic health: a prospective cohort study.
+ 14.06.2022, _Z Miao, W Du, C Xiao, C Su, W Gou, L Shen, J Zhang, Y Fu, Z Jiang, Z Wang, X Jia, JS Zheng, H Wang_
+
+
+The interplay among the plant-based dietary pattern, gut microbiota, and cardiometabolic health is still unclear, and evidence from large prospective cohorts is rare. We aimed to examine the association of long-term and short-term plant-based dietary patterns with gut microbiota and to assess the prospective association of the identified microbial features with cardiometabolic biomarkers.
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02402-4)
 
+10.1186/s12916-022-02402-4
+
 ---
 
-## The role of virome in the gastrointestinal tract and beyond
+## The role of virome in the gastrointestinal tract and beyond.
+ 14.06.2022, _K Tiamani, S Luo, S Schulz, J Xue, R Costa, MK Mirzaei, L Deng_
+
+
+The human gut virome is comprised of diverse commensal and pathogenic viruses. The colonization by these viruses begins right after birth through vaginal delivery, then continues through breastfeeding, and broader environmental exposure. Their constant interaction with their bacterial hosts in the body shapes not only our microbiomes but us. In addition, these viruses interact with the immune cells, trigger a broad range of immune responses, and influence different metabolic pathways. Besides its key role in regulating the human gut homeostasis, the intestinal virome contributes to disease development in distant organs, both directly and indirectly. In this review, we will describe the changes in the gut virome through life, health, and disease, followed by discussing the interactions between the virome, the microbiome, and the human host as well as providing an overview of their contribution to gut disease and disease of distant organs.
 
 [Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuac027/6608358)
 
+10.1093/femsre/fuac027
+
 ---
 
-## Time-limited diets and the gut microbiota in cardiometabolic disease
+## Time-limited diets and the gut microbiota in cardiometabolic disease.
+ 13.06.2022, _K Ratiner, H Shapiro, K Goldenberg, E Elinav_
+
+
+In recent years, intermittent fasting (IF), including periodic fasting and time-restricted feeding (TRF), has been increasingly suggested to constitute a promising treatment for cardiometabolic diseases (CMD). A deliberate daily pause in food consumption influences the gut microbiome and the host circadian clock, resulting in improved cardiometabolic health. Understanding the molecular mechanisms by which circadian host-microbiome interactions affect host metabolism and immunity may add a potentially important dimension to effective implementation of IF diets. In this review, we discuss emerging evidence potentially linking compositional and functional alterations of the gut microbiome with IF impacts on mammalian metabolism and risk of development of hypertension, type 2 diabetes (T2D), obesity, and their long-term micro- and macrovascular complications. We highlight the challenges and unknowns in causally linking diurnal bacterial signals with dietary cues and downstream metabolic consequences and means of harnessing these signals toward future microbiome integration into precision medicine.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/1753-0407.13288)
 
+10.1111/1753-0407.13288
+
 ---
 
-## Safety and efficacy of fecal microbiota transplantation for treatment of systemic lupus erythematosus: An EXPLORER trial
+## Safety and efficacy of fecal microbiota transplantation for treatment of systemic lupus erythematosus: An EXPLORER trial.
+ 11.06.2022, _C Huang, P Yi, M Zhu, W Zhou, B Zhang, X Yi, H Long, G Zhang, H Wu, GC Tsokos, M Zhao, Q Lu_
+
+
+Gut microbiota dysbiosis is involved in the development of systemic lupus erythematosus (SLE). The safety and efficacy of fecal microbiota transplantation (FMT) for the treatment of SLE patients has not been explored. In this 12-week, single-arm pilot clinical trial of oral encapsulated fecal microbiome from healthy donors to patients with active SLE, we aimed to evaluate the safety and efficacy of FMT in patients with SLE (ChiCTR2000036352). 20 SLE patients with SLEDAI ≥6 were recruited. FMT was administered once a week for three consecutive weeks along with standard treatment and the patients were followed for 12 weeks. Safety was evaluated throughout the trial. The primary endpoint was the SLE Responder Index-4 (SRI-4) at week 12. Microbiome composition, levels of short chain fatty acids (SCFAs) in the gut and of cytokines in the sera were measured along with lymphocyte phenotyping. No serious adverse events were observed after FMT. At week 12, the SRI-4 response rate was 42.12%, and significant reductions in the SLEDAI-2K scores and the level of serum anti-dsDNA antibody were observed compared to baseline. Significant enrichment of SCFAs-producing bacterial taxa and reduction of inflammation-related bacterial taxa were observed, along with increased production of SCFAs in the gut and reduced levels of IL-6 and CD4+ memory/naïve ratio in the peripheral blood. Furthermore, SRI-4 responding patients displayed specific microbiota signatures both before and after FMT. The first clinical trial of FMT in active SLE patients provide supportive evidence that FMT might be a feasible, safe, and potentially effective therapy in SLE patients by modifying the gut microbiome and its metabolic profile.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S089684112200052X)
 
+10.1016/j.jaut.2022.102844
+
 ---
 
-## Tumor-resident intracellular microbiota promotes metastatic colonization in breast cancer
+## Tumor-resident intracellular microbiota promotes metastatic colonization in breast cancer.
+ 31.05.2022, _A Fu, B Yao, T Dong, Y Chen, J Yao, Y Liu, H Li, H Bai, X Liu, Y Zhang, C Wang, Y Guo, N Li, S Cai_
+
+
+_Animals, Breast Neoplasms, Cell Line, Tumor, Female, Humans, Lung Neoplasms, Mice, Microbiota, Neoplasm Metastasis, Neoplastic Cells, Circulating_
+Tumor-resident intracellular microbiota is an emerging tumor component that has been documented for a variety of cancer types with unclear biological functions. Here, we explored the functional significance of these intratumor bacteria, primarily using a murine spontaneous breast-tumor model MMTV-PyMT. We found that depletion of intratumor bacteria significantly reduced lung metastasis without affecting primary tumor growth. During metastatic colonization, intratumor bacteria carried by circulating tumor cells promoted host-cell survival by enhancing resistance to fluid shear stress by reorganizing actin cytoskeleton. We further showed that intratumor administration of selected bacteria strains isolated from tumor-resident microbiota promoted metastasis in two murine tumor models with significantly different levels of metastasis potential. Our findings suggest that tumor-resident microbiota, albeit at low biomass, play an important role in promoting cancer metastasis, intervention of which might therefore be worth exploring for advancing oncology care.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867422002604)
+
+10.1016/j.cell.2022.02.027
 
 ---
 
@@ -114,9 +163,15 @@ The human skin microbiota plays a key role in the maintenance of healthy skin, e
 
 ---
 
-## The plant host environment influences competitive interactions between bacterial pathogens
+## The plant host environment influences competitive interactions between bacterial pathogens.
+ 14.06.2022, _H Ehau-Taumaunu, KL Hockett_
+
+
+Bacteria compete for resources in diverse environments using an array of antagonistic strategies, including the production of narrow-spectrum protein antibacterials termed bacteriocins. Although significant research has focused on bacteriocin-mediated dynamics in culture environments, little research has explored bacteriocin-mediated dynamics within a host context, particularly in plant environments. Here, we show that a bacterial plant pathogen, Pseudomonas syringae pv. syringae (Psy), expresses a bacteriocin both in culture and in leaf apoplast when co-inoculated with a bacteriocin-sensitive competitor, P. syringae pv. phaseolicola (Pph). Although there is an observable negative effect of the bacteriocin on the Pph population at most time points both in culture and in the leaf apoplast, a bacteriocin-mediated benefit to Psy was only observed when the producing strain was co-infiltrated at a low population frequency (1:9) into the leaf apoplast. At 6 days post-infiltration, Psy achieved an eightfold population increase compared to a bacteriocin-deficient mutant in the apoplast. No bacteriocin-mediated benefit for Psy was observed under the culture conditions tested. Additionally, we found that the bacteriocin-mediated benefit for Psy was dependent on the Type III Secretion System. Taken together, our results demonstrate that the fitness benefit of bacteriocin-mediated antagonism is influenced by interactions within the host plant.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13103)
+
+10.1111/1758-2229.13103
 
 ---
 
