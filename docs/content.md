@@ -17,9 +17,10 @@ The intestinal barrier is essential in early life to prevent infection, inflamma
 ---
 
 ## A multi-omics analysis for the prediction of neurocognitive disorders risk among the elderly in Macao.
- 13.06.2022, _Y Han, X Quan, Y Chuang, Q Liang, Y Li, Z Yuan, Y Bian, L Wei, J Wang, Y Zhao_
+ 15.06.2022, _Y Han, X Quan, Y Chuang, Q Liang, Y Li, Z Yuan, Y Bian, L Wei, J Wang, Y Zhao_
 
 
+_Aged, Gastrointestinal Microbiome, Humans, Macau, Metagenomics, Neurocognitive Disorders, Proteomics_
 Due to the increasing ageing population, neurocognitive disorders (NCDs) have been a global public health issue, and its prevention and early diagnosis are crucial. Our previous study demonstrated that there is a significant correlation between specific populations and NCDs, but the biological characteristics of the vulnerable group predispose to NCDs are unclear. The purpose of this study is to investigate the predictors for the vulnerable group by a multi-omics analysis.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.909)
