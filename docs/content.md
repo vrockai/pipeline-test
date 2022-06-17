@@ -166,15 +166,9 @@ Tumor-resident intracellular microbiota is an emerging tumor component that has 
 
 ---
 
-## The plant host environment influences competitive interactions between bacterial pathogens.
- 14.06.2022, _H Ehau-Taumaunu, KL Hockett_
-
-
-Bacteria compete for resources in diverse environments using an array of antagonistic strategies, including the production of narrow-spectrum protein antibacterials termed bacteriocins. Although significant research has focused on bacteriocin-mediated dynamics in culture environments, little research has explored bacteriocin-mediated dynamics within a host context, particularly in plant environments. Here, we show that a bacterial plant pathogen, Pseudomonas syringae pv. syringae (Psy), expresses a bacteriocin both in culture and in leaf apoplast when co-inoculated with a bacteriocin-sensitive competitor, P. syringae pv. phaseolicola (Pph). Although there is an observable negative effect of the bacteriocin on the Pph population at most time points both in culture and in the leaf apoplast, a bacteriocin-mediated benefit to Psy was only observed when the producing strain was co-infiltrated at a low population frequency (1:9) into the leaf apoplast. At 6 days post-infiltration, Psy achieved an eightfold population increase compared to a bacteriocin-deficient mutant in the apoplast. No bacteriocin-mediated benefit for Psy was observed under the culture conditions tested. Additionally, we found that the bacteriocin-mediated benefit for Psy was dependent on the Type III Secretion System. Taken together, our results demonstrate that the fitness benefit of bacteriocin-mediated antagonism is influenced by interactions within the host plant.
+## The plant host environment influences competitive interactions between bacterial pathogens
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13103)
-
-10.1111/1758-2229.13103
 
 ---
 
