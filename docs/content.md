@@ -1,180 +1,73 @@
-## Fungi with history: Unveiling the mycobiota of historic documents of Costa Rica
+## Clinical <em>Burkholderia pseudomallei</em> isolates from north Queensland carry diverse <em>bimA<sub>Bm</sub></em> genes that are associated with central nervous system disease and are phylogenomically distinct from other Australian strains
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.12.495835v2.abstract)
-
----
-
-## Babies, Bugs, and Barriers: Dietary Modulation of Intestinal Barrier Function in Early Life.
- 13.06.2022, _JM Wells, Y Gao, N de Groot, MM Vonk, L Ulfman, RJJ van Neerven_
-
-
-The intestinal barrier is essential in early life to prevent infection, inflammation, and food allergies. It consists of microbiota, a mucus layer, an epithelial layer, and the immune system. Microbial metabolites, the mucus, antimicrobial peptides, and secretory immunoglobulin A (sIgA) protect the intestinal mucosa against infection. The complex interplay between these functionalities of the intestinal barrier is crucial in early life by supporting homeostasis, development of the intestinal immune system, and long-term gut health. Exclusive breastfeeding is highly recommended during the first 6 months. When breastfeeding is not possible, milk-based infant formulas are the only safe alternative. Breast milk contains many bioactive components that help to establish the intestinal microbiota and influence the development of the intestinal epithelium and the immune system. Importantly, breastfeeding lowers the risk for intestinal and respiratory tract infections. Here we review all aspects of intestinal barrier function and the nutritional components that impact its functionality in early life, such as micronutrients, bioactive milk proteins, milk lipids, and human milk oligosaccharides. These components are present in breast milk and can be added to milk-based infant formulas to support gut health and immunity. Expected final online publication date for the Annual Review of Nutrition, Volume 42 is August 2022. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
-
-[Source](https://www.annualreviews.org/doi/10.1146/annurev-nutr-122221-103916)
-
-10.1146/annurev-nutr-122221-103916
+[Source](https://journals.plos.org/plosntds/article/comments?id=10.1371/journal.pntd.0009482)
 
 ---
 
-## A multi-omics analysis for the prediction of neurocognitive disorders risk among the elderly in Macao.
- 15.06.2022, _Y Han, X Quan, Y Chuang, Q Liang, Y Li, Z Yuan, Y Bian, L Wei, J Wang, Y Zhao_
+## The energy requirements of ion homeostasis determine the lifespan of starving bacteria 
 
-
-_Aged, Gastrointestinal Microbiome, Humans, Macau, Metagenomics, Neurocognitive Disorders, Proteomics_
-Due to the increasing ageing population, neurocognitive disorders (NCDs) have been a global public health issue, and its prevention and early diagnosis are crucial. Our previous study demonstrated that there is a significant correlation between specific populations and NCDs, but the biological characteristics of the vulnerable group predispose to NCDs are unclear. The purpose of this study is to investigate the predictors for the vulnerable group by a multi-omics analysis.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.909)
-
-10.1002/ctm2.909
+[Source](https://www.biorxiv.org/content/10.1101/2021.11.22.469587v2.abstract?%3Fcollection=)
 
 ---
 
-## The oral microbiome, pancreatic cancer and human diversity in the age of precision medicine.
- 16.06.2022, _KM Herremans, AN Riner, ME Cameron, KL McKinley, EW Triplett, SJ Hughes, JG Trevino_
+## A novel bacterial speciation process observed in a symbiotic marine population
 
-
-_Dysbiosis, Humans, Microbiota, Mouth, Pancreatic Neoplasms, Precision Medicine_
-Pancreatic cancer is a deadly disease with limited diagnostic and treatment options. Not all populations are affected equally, as disparities exist in pancreatic cancer prevalence, treatment and outcomes. Recently, next-generation sequencing has facilitated a more comprehensive analysis of the human oral microbiome creating opportunity for its application in precision medicine. Oral microbial shifts occur in patients with pancreatic cancer, which may be appreciated years prior to their diagnosis. In addition, pathogenic bacteria common in the oral cavity have been found within pancreatic tumors. Despite these findings, much remains unknown about how or why the oral microbiome differs in patients with pancreatic cancer. As individuals develop, their oral microbiome reflects both their genotype and environmental influences. Genetics, race/ethnicity, smoking, socioeconomics and age affect the composition of the oral microbiota, which may ultimately play a role in pancreatic carcinogenesis. Multiple mechanisms have been proposed to explain the oral dysbiosis found in patients with pancreatic cancer though they have yet to be confirmed. With a better understanding of the interplay between the oral microbiome and pancreatic cancer, improved diagnostic and therapeutic approaches may be implemented to reduce healthcare disparities. Video Abstract.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01262-7)
-
-10.1186/s40168-022-01262-7
+[Source](https://www.biorxiv.org/content/10.1101/2022.06.15.496264v1.abstract?%3Fcollection=)
 
 ---
 
-## Altered skin fungal and bacterial community compositions in tinea capitis.
- 11.06.2022, _T Rong, P Zhu, Y Zhou, Q Li, Z Wan, R Li, W Ruojun_
+## <em>Gardnerella vaginalis</em> clades in pregnancy: New insights into the interactions with the vaginal microbiome
 
-
-Tinea capitis is an infection of the scalp and hair shaft caused by dermatophytes that predominantly occurs in children. Skin fungal infections have been found to be associated with alterations in the overall bacterial and fungal communities. However, the scalp microbiome in tinea capitis have not been fully investigated.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/myc.13480)
-
-10.1111/myc.13480
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269590)
 
 ---
 
-## Effects of short chain fructo-oligosaccharides on selected skin bacteria.
- 14.06.2022, _C Le Bourgot, C Meunier, E Gaio, V Murat, M Micheletto, E Tedesco, F Benetti_
+## Saireito, a Japanese herbal medicine, alleviates leaky gut associated with antibiotic-induced dysbiosis in mice.
+ 15.06.2022, _S Ozaka, A Sonoda, S Ariki, M Minata, N Kamiyama, S Hidano, N Sachi, K Ito, Y Kudo, A Dewayani, T Chalalai, T Ozaki, Y Soga, C Fukuda, K Mizukami, S Ishizawa, M Nishiyama, N Fujitsuka, S Mogami, K Kubota, K Murakami, T Kobayashi_
 
 
-_Humans, Microbiota, Oligosaccharides, Prebiotics, Propionibacterium acnes, Skin, Staphylococcus epidermidis_
-The human skin microbiota plays a key role in the maintenance of healthy skin, ensuring protection and biological barrier by competing with pathogens and by closely communicating with the immune system. The development of approaches which preserve or restore the skin microbiota represents a novel target for skincare applications. Prebiotics could be applied to balance almost any microbial community to achieve advantageous effects. However, information about their effectiveness as skin microbiota modulators is limited. The objective of the current study was to evaluate the effects of short chain fructo-oligosaccharides (scFOS) from sugar beet (DP 3-5), well-recognised prebiotics, on some representative bacterial strains of the skin microbiota. We measured the growth and competitive activity of these specific bacteria for the use of scFOS as energy source in minimal medium and in a reconstructed human epithelium (RHE) in vitro model. In minimal growth medium, scFOS promoted and sustained the growth of Staphylococcus epidermidis up to 24 h, considered a beneficial skin commensal bacterium, while inhibiting both Cutibacterium acnes and Staphylococcus aureus growth, regarded as opportunistic pathogens. S. epidermidis showed the highest colonization potential and 1% scFOS was effective in shifting the competition in favour of S. epidermidis with respect to C. acnes in the RHE model. This latter effect was observed following 24 h of exposure, suggesting a long-term effect of scFOS in a highly skin dynamic environment. Therefore, scFOS could be effectively implemented in skincare formulations for recovering skin microbiota homeostasis.
+Antibiotics disrupt normal gut microbiota and cause dysbiosis, leading to a reduction in intestinal epithelial barrier function. Disruption of the intestinal epithelial barrier, which is known as "leaky gut", results in increased intestinal permeability and contributes to the development or exacerbation of gastrointestinal diseases such as inflammatory bowel disease and irritable bowel syndrome. We have previously reported on a murine model of intestinal epithelial barrier dysfunction associated with dysbiosis induced by the administration of ampicillin and vancomycin. Saireito, a traditional Japanese herbal medicine, is often used to treat autoimmune disorders including ulcerative colitis; the possible mechanism of action and its efficacy, however, remains unclear. In this study, we examined the efficacy of Saireito in our animal model for leaky gut associated with dysbiosis. C57BL/6 mice were fed a Saireito diet for the entirety of the protocol (day1-28). To induce colitis, ampicillin and vancomycin were administered in drinking water for the last seven consecutive days (day22-28). As previously demonstrated, treatment with antibiotics caused fecal occult bleeding, cecum enlargement with black discoloration, colon inflammation with epithelial cell apoptosis, and upregulation of pro-inflammatory cytokines. Oral administration of Saireito significantly improved antibiotics-induced fecal occult bleeding and cecum enlargement by suppressing inflammation in the colon. Furthermore, Saireito treatment ensured the integrity of the intestinal epithelial barrier by suppressing apoptosis and inducing cell adhesion proteins including ZO-1, occludin, and E-cadherin in intestinal epithelial cells, which in turn decreased intestinal epithelial permeability. Moreover, the reduced microbial diversity seen in the gut of mice treated with antibiotics was remarkably improved with the administration of Saireito. In addition, Saireito altered the composition of gut microbiota in these mice. These results suggest that Saireito alleviates leaky gut caused by antibiotic-induced dysbiosis. Our findings provide a potentially new therapeutic strategy for antibiotic-related gastrointestinal disorders.
 
-[Source](https://www.nature.com/articles/s41598-022-13093-5)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269698)
 
-10.1038/s41598-022-13093-5
-
----
-
-## Child type 1 diabetes associated with mother vaginal bacteriome and mycobiome.
- 14.06.2022, _AL Ruotsalainen, MV Tejesvi, P Vänni, M Suokas, P Tossavainen, AM Pirttilä, A Talvensaari-Mattila, R Nissi_
-
-
-Mother vaginal microbes contribute to microbiome of vaginally delivered neonates. Child microbiome can be associated with autoimmune diseases, such as type 1 diabetes (T1D). We collected vaginal DNA samples from 25 mothers with a vaginally delivered child diagnosed with T1D and samples from 24 control mothers who had vaginally delivered a healthy child and analyzed bacteriome and mycobiome of the samples. The total DNA of the samples was extracted, and ribosomal DNA regions (16S for bacteria, ITS2 for fungi) were amplified, followed by next-generation sequencing and machine learning. We found that alpha-diversity of bacteriome was increased (P &lt; 0.002), whereas alpha-diversity of mycobiome was decreased (P &lt; 0.001) in mothers with a diabetic child compared to the control mothers. Beta-diversity analysis suggested differences in mycobiomes between the mother groups (P = 0.001). Random forest models were able to effectively predict diabetes and control status of unknown samples (bacteria: 0.86 AUC, fungi: 0.96 AUC). Our data indicate several fungal genera and bacterial metabolic pathways of mother vaginal microbiome to be associated with child T1D. We suggest that early onset of T1D in a child has a relationship with altered mother vaginal microbiome and that both bacteriome and mycobiome contribute to this shift.
-
-[Source](https://link.springer.com/article/10.1007/s00430-022-00741-w)
-
-10.1007/s00430-022-00741-w
+10.1371/journal.pone.0269698
 
 ---
 
-## Nutrition-wide association study of microbiome diversity and composition in colorectal cancer patients.
- 16.06.2022, _T Hoang, MJ Kim, JW Park, SY Jeong, J Lee, A Shin_
+## A dose-finding safety and feasibility study of oral activated charcoal and its effects on the gut microbiota in healthy volunteers not receiving antibiotics
 
-
-_Animals, Bacteria, Cattle, Colorectal Neoplasms, Diet, Fatty Acids, Feces, Gastrointestinal Microbiome, Humans_
-The effects of diet on the interaction between microbes and host health have been widely studied. However, its effects on the gut microbiota of patients with colorectal cancer (CRC) have not been elucidated. This study aimed to investigate the association between diet and the overall diversity and different taxa levels of the gut microbiota in CRC patients via the nutrition-wide association approach.
-
-[Source](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-022-09735-6)
-
-10.1186/s12885-022-09735-6
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269986)
 
 ---
 
-## Gut microbiota signatures of long-term and short-term plant-based dietary pattern and cardiometabolic health: a prospective cohort study.
- 16.06.2022, _Z Miao, W Du, C Xiao, C Su, W Gou, L Shen, J Zhang, Y Fu, Z Jiang, Z Wang, X Jia, JS Zheng, H Wang_
+## The Microbial Community and Functional Potential in the Midland Basin Reveal a Community Dominated by Both Thiosulfate and Sulfate-Reducing Microorganisms.
+ 13.06.2022, _K Tinker, D Lipus, J Gardiner, M Stuckman, D Gulliver_
 
 
-_Biomarkers, Cardiovascular Diseases, Cohort Studies, Diet, Gastrointestinal Microbiome, Humans, Prospective Studies, RNA, Ribosomal, 16S_
-The interplay among the plant-based dietary pattern, gut microbiota, and cardiometabolic health is still unclear, and evidence from large prospective cohorts is rare. We aimed to examine the association of long-term and short-term plant-based dietary patterns with gut microbiota and to assess the prospective association of the identified microbial features with cardiometabolic biomarkers.
+The Permian Basin is the highest producing oil and gas reservoir in the United States. Hydrocarbon resources in this region are often accessed by unconventional extraction methods, including horizontal drilling and hydraulic fracturing. Despite the importance of the Permian Basin, there is no publicly available microbiological data from this region. We completed an analysis of Permian produced water samples to understand the dynamics present in hydraulically fractured wells in this region. We analyzed produced water samples taken from 10 wells in the Permian region of the Midland Basin using geochemical measurements, 16S rRNA gene sequencing, and metagenomic sequencing. Compared to other regions, we found that Permian Basin produced water was characterized by higher sulfate and lower total dissolved solids (TDS) concentrations, with a median of 1,110 mg/L and 107,000 mg/L. Additionally, geochemical measurements revealed the presence of frac hits, or interwell communication events where an established well is affected by the pumping of fracturing fluid into a new well. The occurrence of frac hits was supported by correlations between the microbiome and the geochemical parameters. Our 16S rRNA gene sequencing identified a produced water microbiome characterized by anaerobic, halophilic, and sulfur reducing taxa. Interestingly, sulfate and thiosulfate reducing taxa including Halanaerobium, Orenia, Marinobacter, and Desulfohalobium were the most prevalent microbiota in most wells. We further investigated the metabolic potential of microorganisms in the Permian Basin with metagenomic sequencing. We recovered 15 metagenome assembled genomes (MAGs) from seven different samples representing 6 unique well sites. These MAGs corroborated the high presence of sulfate and thiosulfate reducing genes across all wells, especially from key taxa including Halanaerobium and Orenia. The observed microbiome composition and metabolic capabilities in conjunction with the high sulfate concentrations demonstrate a high potential for hydrogen sulfide production in the Permian Basin. Additionally, evidence of frac hits suggests the possibility for the exchange of microbial cells and/or genetic information between wells. This exchange would increase the likelihood of hydrogen sulfide production and has implications for the oil and gas industry. IMPORTANCE The Permian Basin is the largest producing oil and gas region in the United States and plays a critical role supplying national energy needs. Previous work in other basins has demonstrated that the geochemistry and microbiology of hydrocarbon regions can have a major impact on well infrastructure and production. Despite that, little work has been done to understand the complex dynamics present in the Permian Basin. This study characterizes and analyzes 10 unique wells and one groundwater sample in the Permian Basin using geochemical and microbial techniques. Across all wells we found a high number of classic and thiosulfate reducers, suggesting that hydrogen sulfide production may be especially prevalent in the Permian Basin. Additionally, our analysis revealed a biogeochemical signal impacted by the presence of frac hits, or interwell communication events where an established well is affected by the pumping of fracturing fluid into a new well. This information can be utilized by the oil and gas industry to improve oil recovery efforts and minimize commercial and environmental costs.
 
-[Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02402-4)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.00049-22)
 
-10.1186/s12916-022-02402-4
-
----
-
-## The role of virome in the gastrointestinal tract and beyond.
- 14.06.2022, _K Tiamani, S Luo, S Schulz, J Xue, R Costa, MK Mirzaei, L Deng_
-
-
-The human gut virome is comprised of diverse commensal and pathogenic viruses. The colonization by these viruses begins right after birth through vaginal delivery, then continues through breastfeeding, and broader environmental exposure. Their constant interaction with their bacterial hosts in the body shapes not only our microbiomes but us. In addition, these viruses interact with the immune cells, trigger a broad range of immune responses, and influence different metabolic pathways. Besides its key role in regulating the human gut homeostasis, the intestinal virome contributes to disease development in distant organs, both directly and indirectly. In this review, we will describe the changes in the gut virome through life, health, and disease, followed by discussing the interactions between the virome, the microbiome, and the human host as well as providing an overview of their contribution to gut disease and disease of distant organs.
-
-[Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuac027/6608358)
-
-10.1093/femsre/fuac027
+10.1128/spectrum.00049-22
 
 ---
 
-## Time-limited diets and the gut microbiota in cardiometabolic disease.
- 13.06.2022, _K Ratiner, H Shapiro, K Goldenberg, E Elinav_
+## The microbial community and functional potential in the Midland Basin reveal a community dominated by both thiosulfate and sulfate-reducing microorganisms
 
-
-In recent years, intermittent fasting (IF), including periodic fasting and time-restricted feeding (TRF), has been increasingly suggested to constitute a promising treatment for cardiometabolic diseases (CMD). A deliberate daily pause in food consumption influences the gut microbiome and the host circadian clock, resulting in improved cardiometabolic health. Understanding the molecular mechanisms by which circadian host-microbiome interactions affect host metabolism and immunity may add a potentially important dimension to effective implementation of IF diets. In this review, we discuss emerging evidence potentially linking compositional and functional alterations of the gut microbiome with IF impacts on mammalian metabolism and risk of development of hypertension, type 2 diabetes (T2D), obesity, and their long-term micro- and macrovascular complications. We highlight the challenges and unknowns in causally linking diurnal bacterial signals with dietary cues and downstream metabolic consequences and means of harnessing these signals toward future microbiome integration into precision medicine.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/1753-0407.13288)
-
-10.1111/1753-0407.13288
+[Source](https://journals.asm.org/doi/10.1128/spectrum.00049-22)
 
 ---
 
-## Safety and efficacy of fecal microbiota transplantation for treatment of systemic lupus erythematosus: An EXPLORER trial.
- 11.06.2022, _C Huang, P Yi, M Zhu, W Zhou, B Zhang, X Yi, H Long, G Zhang, H Wu, GC Tsokos, M Zhao, Q Lu_
+## Performance of the TaqMan COVID-19 Pooling Kit for detection of SARS-CoV-2 in asymptomatic and symptomatic populations.
+ 14.06.2022, _T Ganz, S Sanderson, C Baush, M Mejia, M Gandhi, J Auclair_
 
 
-Gut microbiota dysbiosis is involved in the development of systemic lupus erythematosus (SLE). The safety and efficacy of fecal microbiota transplantation (FMT) for the treatment of SLE patients has not been explored. In this 12-week, single-arm pilot clinical trial of oral encapsulated fecal microbiome from healthy donors to patients with active SLE, we aimed to evaluate the safety and efficacy of FMT in patients with SLE (ChiCTR2000036352). 20 SLE patients with SLEDAI ≥6 were recruited. FMT was administered once a week for three consecutive weeks along with standard treatment and the patients were followed for 12 weeks. Safety was evaluated throughout the trial. The primary endpoint was the SLE Responder Index-4 (SRI-4) at week 12. Microbiome composition, levels of short chain fatty acids (SCFAs) in the gut and of cytokines in the sera were measured along with lymphocyte phenotyping. No serious adverse events were observed after FMT. At week 12, the SRI-4 response rate was 42.12%, and significant reductions in the SLEDAI-2K scores and the level of serum anti-dsDNA antibody were observed compared to baseline. Significant enrichment of SCFAs-producing bacterial taxa and reduction of inflammation-related bacterial taxa were observed, along with increased production of SCFAs in the gut and reduced levels of IL-6 and CD4+ memory/naïve ratio in the peripheral blood. Furthermore, SRI-4 responding patients displayed specific microbiota signatures both before and after FMT. The first clinical trial of FMT in active SLE patients provide supportive evidence that FMT might be a feasible, safe, and potentially effective therapy in SLE patients by modifying the gut microbiome and its metabolic profile.
+_COVID-19, COVID-19 Testing, Clinical Laboratory Techniques, Humans, Pandemics, SARS-CoV-2, Sensitivity and Specificity_
+Clinical evidence for asymptomatic cases of coronavirus disease (COVID-19) has reinforced the significance of effective surveillance testing programs. Quantitative reverse transcriptase polymerase chain reaction (RT-qPCR) assays are considered the 'gold standard' for detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA. However, the labor and resource requirements can be prohibitive with respect to large testing volumes associated with the pandemic. Pooled testing algorithms may serve to increase testing capacity with more efficient resource utilization. Due to the lack of carefully curated cohorts, there is limited evidence for the applicability of RT-PCR pooling in asymptomatic COVID-19 cases. In this study, we compared the analytical sensitivity of the TaqMan™ SARS-CoV-2 Pooling Assay to detect one positive sample in a pool of five anterior nares swabs in symptomatic and asymptomatic cohorts at an institute of higher education. Positive pools were deconvoluted and each individual sample was retested using the TaqPath™ COVID-19 Combo Kit. Both assays target the open reading frame (ORF) 1ab, nucleocapsid (N), and spike (S) gene of the strain that originated in Wuhan, Hubei, China. Qualitative results demonstrated absolute agreement between pooled and deconvoluted samples in both cohorts. Independent t-test performed on Ct shifts supported an insignificant difference between cohorts with p-values of 0.306 (Orf1ab), 0.147 (N), and 0.052 (S). All negative pools were correctly reported as negative. Pooled PCR testing up to five samples is a valid method for surveillance testing of students and staff in a university setting, especially when the prevalence is expected to be low.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S089684112200052X)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269798)
 
-10.1016/j.jaut.2022.102844
-
----
-
-## Tumor-resident intracellular microbiota promotes metastatic colonization in breast cancer.
- 16.06.2022, _A Fu, B Yao, T Dong, Y Chen, J Yao, Y Liu, H Li, H Bai, X Liu, Y Zhang, C Wang, Y Guo, N Li, S Cai_
-
-
-_Animals, Breast Neoplasms, Cell Line, Tumor, Female, Humans, Lung Neoplasms, Mice, Microbiota, Neoplasm Metastasis, Neoplastic Cells, Circulating_
-Tumor-resident intracellular microbiota is an emerging tumor component that has been documented for a variety of cancer types with unclear biological functions. Here, we explored the functional significance of these intratumor bacteria, primarily using a murine spontaneous breast-tumor model MMTV-PyMT. We found that depletion of intratumor bacteria significantly reduced lung metastasis without affecting primary tumor growth. During metastatic colonization, intratumor bacteria carried by circulating tumor cells promoted host-cell survival by enhancing resistance to fluid shear stress by reorganizing actin cytoskeleton. We further showed that intratumor administration of selected bacteria strains isolated from tumor-resident microbiota promoted metastasis in two murine tumor models with significantly different levels of metastasis potential. Our findings suggest that tumor-resident microbiota, albeit at low biomass, play an important role in promoting cancer metastasis, intervention of which might therefore be worth exploring for advancing oncology care.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867422002604)
-
-10.1016/j.cell.2022.02.027
-
----
-
-## Pharmacokinetic and gut microbiota analyses revealed the effect of Lactobacillus acidophilus on the metabolism of Olsalazine in ulcerative colitis rats
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0928098722001208)
-
----
-
-## Identification of gut microbial species linked with disease variability in a widely used mouse model of colitis
-
-[Source](https://www.nature.com/articles/s41564-022-01094-z)
-
----
-
-## The plant host environment influences competitive interactions between bacterial pathogens
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.13103)
-
----
-
-## specificity: an R package for analysis of feature specificity to environmental and higher dimensional variables, applied to microbiome species data
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.11.06.467582v3.abstract)
+10.1371/journal.pone.0269798
 
 ---
 
