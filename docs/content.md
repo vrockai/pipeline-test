@@ -30,9 +30,10 @@ Due to the increasing ageing population, neurocognitive disorders (NCDs) have be
 ---
 
 ## The oral microbiome, pancreatic cancer and human diversity in the age of precision medicine.
- 14.06.2022, _KM Herremans, AN Riner, ME Cameron, KL McKinley, EW Triplett, SJ Hughes, JG Trevino_
+ 16.06.2022, _KM Herremans, AN Riner, ME Cameron, KL McKinley, EW Triplett, SJ Hughes, JG Trevino_
 
 
+_Dysbiosis, Humans, Microbiota, Mouth, Pancreatic Neoplasms, Precision Medicine_
 Pancreatic cancer is a deadly disease with limited diagnostic and treatment options. Not all populations are affected equally, as disparities exist in pancreatic cancer prevalence, treatment and outcomes. Recently, next-generation sequencing has facilitated a more comprehensive analysis of the human oral microbiome creating opportunity for its application in precision medicine. Oral microbial shifts occur in patients with pancreatic cancer, which may be appreciated years prior to their diagnosis. In addition, pathogenic bacteria common in the oral cavity have been found within pancreatic tumors. Despite these findings, much remains unknown about how or why the oral microbiome differs in patients with pancreatic cancer. As individuals develop, their oral microbiome reflects both their genotype and environmental influences. Genetics, race/ethnicity, smoking, socioeconomics and age affect the composition of the oral microbiota, which may ultimately play a role in pancreatic carcinogenesis. Multiple mechanisms have been proposed to explain the oral dysbiosis found in patients with pancreatic cancer though they have yet to be confirmed. With a better understanding of the interplay between the oral microbiome and pancreatic cancer, improved diagnostic and therapeutic approaches may be implemented to reduce healthcare disparities. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01262-7)
@@ -79,9 +80,10 @@ Mother vaginal microbes contribute to microbiome of vaginally delivered neonates
 ---
 
 ## Nutrition-wide association study of microbiome diversity and composition in colorectal cancer patients.
- 14.06.2022, _T Hoang, MJ Kim, JW Park, SY Jeong, J Lee, A Shin_
+ 16.06.2022, _T Hoang, MJ Kim, JW Park, SY Jeong, J Lee, A Shin_
 
 
+_Animals, Bacteria, Cattle, Colorectal Neoplasms, Diet, Fatty Acids, Feces, Gastrointestinal Microbiome, Humans_
 The effects of diet on the interaction between microbes and host health have been widely studied. However, its effects on the gut microbiota of patients with colorectal cancer (CRC) have not been elucidated. This study aimed to investigate the association between diet and the overall diversity and different taxa levels of the gut microbiota in CRC patients via the nutrition-wide association approach.
 
 [Source](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-022-09735-6)
@@ -91,9 +93,10 @@ The effects of diet on the interaction between microbes and host health have bee
 ---
 
 ## Gut microbiota signatures of long-term and short-term plant-based dietary pattern and cardiometabolic health: a prospective cohort study.
- 14.06.2022, _Z Miao, W Du, C Xiao, C Su, W Gou, L Shen, J Zhang, Y Fu, Z Jiang, Z Wang, X Jia, JS Zheng, H Wang_
+ 16.06.2022, _Z Miao, W Du, C Xiao, C Su, W Gou, L Shen, J Zhang, Y Fu, Z Jiang, Z Wang, X Jia, JS Zheng, H Wang_
 
 
+_Biomarkers, Cardiovascular Diseases, Cohort Studies, Diet, Gastrointestinal Microbiome, Humans, Prospective Studies, RNA, Ribosomal, 16S_
 The interplay among the plant-based dietary pattern, gut microbiota, and cardiometabolic health is still unclear, and evidence from large prospective cohorts is rare. We aimed to examine the association of long-term and short-term plant-based dietary patterns with gut microbiota and to assess the prospective association of the identified microbial features with cardiometabolic biomarkers.
 
 [Source](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02402-4)
@@ -139,7 +142,7 @@ Gut microbiota dysbiosis is involved in the development of systemic lupus erythe
 ---
 
 ## Tumor-resident intracellular microbiota promotes metastatic colonization in breast cancer.
- 31.05.2022, _A Fu, B Yao, T Dong, Y Chen, J Yao, Y Liu, H Li, H Bai, X Liu, Y Zhang, C Wang, Y Guo, N Li, S Cai_
+ 16.06.2022, _A Fu, B Yao, T Dong, Y Chen, J Yao, Y Liu, H Li, H Bai, X Liu, Y Zhang, C Wang, Y Guo, N Li, S Cai_
 
 
 _Animals, Breast Neoplasms, Cell Line, Tumor, Female, Humans, Lung Neoplasms, Mice, Microbiota, Neoplasm Metastasis, Neoplastic Cells, Circulating_
