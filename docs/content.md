@@ -22,9 +22,16 @@
 
 ---
 
-## Saireito, a Japanese herbal medicine, alleviates leaky gut associated with antibiotic-induced dysbiosis in mice 
+## Saireito, a Japanese herbal medicine, alleviates leaky gut associated with antibiotic-induced dysbiosis in mice.
+ 17.06.2022, _S Ozaka, A Sonoda, S Ariki, M Minata, N Kamiyama, S Hidano, N Sachi, K Ito, Y Kudo, A Dewayani, T Chalalai, T Ozaki, Y Soga, C Fukuda, K Mizukami, S Ishizawa, M Nishiyama, N Fujitsuka, S Mogami, K Kubota, K Murakami, T Kobayashi_
+
+
+_Ampicillin, Animals, Anti-Bacterial Agents, Colitis, Colitis, Ulcerative, Disease Models, Animal, Drugs, Chinese Herbal, Dysbiosis, Herbal Medicine, Inflammation, Intestinal Mucosa, Japan, Mice, Mice, Inbred C57BL, Vancomycin_
+Antibiotics disrupt normal gut microbiota and cause dysbiosis, leading to a reduction in intestinal epithelial barrier function. Disruption of the intestinal epithelial barrier, which is known as "leaky gut", results in increased intestinal permeability and contributes to the development or exacerbation of gastrointestinal diseases such as inflammatory bowel disease and irritable bowel syndrome. We have previously reported on a murine model of intestinal epithelial barrier dysfunction associated with dysbiosis induced by the administration of ampicillin and vancomycin. Saireito, a traditional Japanese herbal medicine, is often used to treat autoimmune disorders including ulcerative colitis; the possible mechanism of action and its efficacy, however, remains unclear. In this study, we examined the efficacy of Saireito in our animal model for leaky gut associated with dysbiosis. C57BL/6 mice were fed a Saireito diet for the entirety of the protocol (day1-28). To induce colitis, ampicillin and vancomycin were administered in drinking water for the last seven consecutive days (day22-28). As previously demonstrated, treatment with antibiotics caused fecal occult bleeding, cecum enlargement with black discoloration, colon inflammation with epithelial cell apoptosis, and upregulation of pro-inflammatory cytokines. Oral administration of Saireito significantly improved antibiotics-induced fecal occult bleeding and cecum enlargement by suppressing inflammation in the colon. Furthermore, Saireito treatment ensured the integrity of the intestinal epithelial barrier by suppressing apoptosis and inducing cell adhesion proteins including ZO-1, occludin, and E-cadherin in intestinal epithelial cells, which in turn decreased intestinal epithelial permeability. Moreover, the reduced microbial diversity seen in the gut of mice treated with antibiotics was remarkably improved with the administration of Saireito. In addition, Saireito altered the composition of gut microbiota in these mice. These results suggest that Saireito alleviates leaky gut caused by antibiotic-induced dysbiosis. Our findings provide a potentially new therapeutic strategy for antibiotic-related gastrointestinal disorders.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269698)
+
+10.1371/journal.pone.0269698
 
 ---
 
