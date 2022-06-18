@@ -1,74 +1,144 @@
-## Clinical <em>Burkholderia pseudomallei</em> isolates from north Queensland carry diverse <em>bimA<sub>Bm</sub></em> genes that are associated with central nervous system disease and are phylogenomically distinct from other Australian strains
+## Gut dysbiosis promotes prostate cancer progression and docetaxel resistance via activating NF-κB-IL6-STAT3 axis
 
-[Source](https://journals.plos.org/plosntds/article/comments?id=10.1371/journal.pntd.0009482)
-
----
-
-## The energy requirements of ion homeostasis determine the lifespan of starving bacteria 
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.11.22.469587v2.abstract?%3Fcollection=)
+[Source](https://doi.org/10.1186/s40168-022-01289-w)
 
 ---
 
-## A novel bacterial speciation process observed in a symbiotic marine population
+## On the effect of inheritance of microbes in commensal microbiomes
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.15.496264v1.abstract?%3Fcollection=)
-
----
-
-## <em>Gardnerella vaginalis</em> clades in pregnancy: New insights into the interactions with the vaginal microbiome
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269590)
+[Source](https://doi.org/10.1186/s12862-022-02029-2)
 
 ---
 
-## Saireito, a Japanese herbal medicine, alleviates leaky gut associated with antibiotic-induced dysbiosis in mice.
- 17.06.2022, _S Ozaka, A Sonoda, S Ariki, M Minata, N Kamiyama, S Hidano, N Sachi, K Ito, Y Kudo, A Dewayani, T Chalalai, T Ozaki, Y Soga, C Fukuda, K Mizukami, S Ishizawa, M Nishiyama, N Fujitsuka, S Mogami, K Kubota, K Murakami, T Kobayashi_
+## <em>Ureaplasma</em> and <em>Prevotella</em> colonization with <em>Lactobacillus</em> abundance during pregnancy facilitates term birth
 
-
-_Ampicillin, Animals, Anti-Bacterial Agents, Colitis, Colitis, Ulcerative, Disease Models, Animal, Drugs, Chinese Herbal, Dysbiosis, Herbal Medicine, Inflammation, Intestinal Mucosa, Japan, Mice, Mice, Inbred C57BL, Vancomycin_
-Antibiotics disrupt normal gut microbiota and cause dysbiosis, leading to a reduction in intestinal epithelial barrier function. Disruption of the intestinal epithelial barrier, which is known as "leaky gut", results in increased intestinal permeability and contributes to the development or exacerbation of gastrointestinal diseases such as inflammatory bowel disease and irritable bowel syndrome. We have previously reported on a murine model of intestinal epithelial barrier dysfunction associated with dysbiosis induced by the administration of ampicillin and vancomycin. Saireito, a traditional Japanese herbal medicine, is often used to treat autoimmune disorders including ulcerative colitis; the possible mechanism of action and its efficacy, however, remains unclear. In this study, we examined the efficacy of Saireito in our animal model for leaky gut associated with dysbiosis. C57BL/6 mice were fed a Saireito diet for the entirety of the protocol (day1-28). To induce colitis, ampicillin and vancomycin were administered in drinking water for the last seven consecutive days (day22-28). As previously demonstrated, treatment with antibiotics caused fecal occult bleeding, cecum enlargement with black discoloration, colon inflammation with epithelial cell apoptosis, and upregulation of pro-inflammatory cytokines. Oral administration of Saireito significantly improved antibiotics-induced fecal occult bleeding and cecum enlargement by suppressing inflammation in the colon. Furthermore, Saireito treatment ensured the integrity of the intestinal epithelial barrier by suppressing apoptosis and inducing cell adhesion proteins including ZO-1, occludin, and E-cadherin in intestinal epithelial cells, which in turn decreased intestinal epithelial permeability. Moreover, the reduced microbial diversity seen in the gut of mice treated with antibiotics was remarkably improved with the administration of Saireito. In addition, Saireito altered the composition of gut microbiota in these mice. These results suggest that Saireito alleviates leaky gut caused by antibiotic-induced dysbiosis. Our findings provide a potentially new therapeutic strategy for antibiotic-related gastrointestinal disorders.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269698)
-
-10.1371/journal.pone.0269698
+[Source](https://doi.org/10.1038/s41598-022-13871-1)
 
 ---
 
-## A dose-finding safety and feasibility study of oral activated charcoal and its effects on the gut microbiota in healthy volunteers not receiving antibiotics
+## Deep Grouping Analysis of the Altered Cervical Canal Microbiota in Intrauterine Adhesion Patients
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269986)
-
----
-
-## The Microbial Community and Functional Potential in the Midland Basin Reveal a Community Dominated by Both Thiosulfate and Sulfate-Reducing Microorganisms.
- 13.06.2022, _K Tinker, D Lipus, J Gardiner, M Stuckman, D Gulliver_
-
-
-The Permian Basin is the highest producing oil and gas reservoir in the United States. Hydrocarbon resources in this region are often accessed by unconventional extraction methods, including horizontal drilling and hydraulic fracturing. Despite the importance of the Permian Basin, there is no publicly available microbiological data from this region. We completed an analysis of Permian produced water samples to understand the dynamics present in hydraulically fractured wells in this region. We analyzed produced water samples taken from 10 wells in the Permian region of the Midland Basin using geochemical measurements, 16S rRNA gene sequencing, and metagenomic sequencing. Compared to other regions, we found that Permian Basin produced water was characterized by higher sulfate and lower total dissolved solids (TDS) concentrations, with a median of 1,110 mg/L and 107,000 mg/L. Additionally, geochemical measurements revealed the presence of frac hits, or interwell communication events where an established well is affected by the pumping of fracturing fluid into a new well. The occurrence of frac hits was supported by correlations between the microbiome and the geochemical parameters. Our 16S rRNA gene sequencing identified a produced water microbiome characterized by anaerobic, halophilic, and sulfur reducing taxa. Interestingly, sulfate and thiosulfate reducing taxa including Halanaerobium, Orenia, Marinobacter, and Desulfohalobium were the most prevalent microbiota in most wells. We further investigated the metabolic potential of microorganisms in the Permian Basin with metagenomic sequencing. We recovered 15 metagenome assembled genomes (MAGs) from seven different samples representing 6 unique well sites. These MAGs corroborated the high presence of sulfate and thiosulfate reducing genes across all wells, especially from key taxa including Halanaerobium and Orenia. The observed microbiome composition and metabolic capabilities in conjunction with the high sulfate concentrations demonstrate a high potential for hydrogen sulfide production in the Permian Basin. Additionally, evidence of frac hits suggests the possibility for the exchange of microbial cells and/or genetic information between wells. This exchange would increase the likelihood of hydrogen sulfide production and has implications for the oil and gas industry. IMPORTANCE The Permian Basin is the largest producing oil and gas region in the United States and plays a critical role supplying national energy needs. Previous work in other basins has demonstrated that the geochemistry and microbiology of hydrocarbon regions can have a major impact on well infrastructure and production. Despite that, little work has been done to understand the complex dynamics present in the Permian Basin. This study characterizes and analyzes 10 unique wells and one groundwater sample in the Permian Basin using geochemical and microbial techniques. Across all wells we found a high number of classic and thiosulfate reducers, suggesting that hydrogen sulfide production may be especially prevalent in the Permian Basin. Additionally, our analysis revealed a biogeochemical signal impacted by the presence of frac hits, or interwell communication events where an established well is affected by the pumping of fracturing fluid into a new well. This information can be utilized by the oil and gas industry to improve oil recovery efforts and minimize commercial and environmental costs.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.00049-22)
-
-10.1128/spectrum.00049-22
+[Source](https://doi.org/10.1007/s43032-022-01006-w)
 
 ---
 
-## The microbial community and functional potential in the Midland Basin reveal a community dominated by both thiosulfate and sulfate-reducing microorganisms
+## Amelioration of type 2 diabetes by the novel 6, 8-guanidyl luteolin quinone-chromium coordination via biochemical mechanisms and gut microbiota interaction.
+ 14.06.2022, _X Ge, X He, J Liu, F Zeng, L Chen, W Xu, R Shao, Y Huang, MA Farag, E Capanoglu, HR El-Seedi, C Zhao, B Liu_
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.00049-22)
+
+Luteolin is a plant-derived flavonoid that exhibits a broad range of pharmacological activities. Studies on luteolin have mainly focused on its use for hyperlipidaemia prevention, whereas the capacity of the flavonoid to hinder hyperglycaemia development remains underexplored.
+
+[Source](https://doi.org/10.1016/S2468-1253(22)00101-7)
+
+10.1016/j.jare.2022.06.003
 
 ---
 
-## Performance of the TaqMan COVID-19 Pooling Kit for detection of SARS-CoV-2 in asymptomatic and symptomatic populations.
- 14.06.2022, _T Ganz, S Sanderson, C Baush, M Mejia, M Gandhi, J Auclair_
+## Intestinal microbiota transplantation: do not forget the metabolites
+
+[Source](https://doi.org/10.1016/S2468-1253(22)00101-7)
+
+---
+
+## Characterization of oral and gut microbiome and plasma metabolomics in COVID-19 patients after 1-year follow-up
+
+[Source](https://doi.org/10.1186/s40779-022-00387-y)
+
+---
+
+## Congenitally underdeveloped intestine drives autism-related gut microbiota and behavior
+
+[Source](https://doi.org/10.1016/j.bbi.2022.06.006)
+
+---
+
+## <em>Lacticaseibacillus rhamnosus</em> HA-114 improves eating behaviors and mood-related factors in adults with overweight during weight loss: a randomized controlled trial
+
+[Source](https://doi.org/10.1080/1028415X.2022.2081288)
+
+---
+
+## New Strains of <em>Akkermansia muciniphila</em> and <em>Faecalibacterium prausnitzii</em> are Effective for Improving the Muscle Strength of Mice with Immobilization-Induced Muscular Atrophy
+
+[Source](https://doi.org/10.1089/jmf.2021.K.0148)
+
+---
+
+## Comparative metagenomics reveals expanded insights into intra- and interspecific variation among wild bee microbiomes
+
+[Source](https://doi.org/10.1038/s42003-022-03535-1)
+
+---
+
+## Rumen multi-omics addressing diet-host-microbiome interplay in farm animals: a review
+
+[Source](https://doi.org/10.1080/10495398.2022.2078979)
+
+---
+
+## Spatio-temporal variation in the root-associated microbiota of orchard-grown apple trees
+
+[Source](https://doi.org/10.1186/s40793-022-00427-z)
+
+---
+
+## Identifying plant genes shaping microbiota composition in the barley rhizosphere
+
+[Source](https://doi.org/10.1038/s41467-022-31022-y)
+
+---
+
+## Disentangling the genetic basis of rhizosphere microbiome assembly in tomato
+
+[Source](https://doi.org/10.1038/s41467-022-30849-9)
+
+---
+
+## Rapid changes in coastal ocean microbiomes uncoupled with shifts in environmental variables
+
+[Source](https://doi.org/10.1111/1462-2920.16086)
+
+---
+
+## Microplastics alter nitrous oxide production and pathways through affecting microbiome in estuarine sediments
+
+[Source](https://doi.org/10.1016/j.watres.2022.118733)
+
+---
+
+## 500 metagenome-assembled microbial genomes from 30 subtropical estuaries in South China
+
+[Source](https://doi.org/10.1038/s41597-022-01433-z)
+
+---
+
+## Integration of Multiplied Omics, a Step Forward in Systematic Dairy Research.
+ 29.03.2022, _Y Zhu, D Bu, L Ma_
 
 
-_COVID-19, COVID-19 Testing, Clinical Laboratory Techniques, Humans, Pandemics, SARS-CoV-2, Sensitivity and Specificity_
-Clinical evidence for asymptomatic cases of coronavirus disease (COVID-19) has reinforced the significance of effective surveillance testing programs. Quantitative reverse transcriptase polymerase chain reaction (RT-qPCR) assays are considered the 'gold standard' for detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA. However, the labor and resource requirements can be prohibitive with respect to large testing volumes associated with the pandemic. Pooled testing algorithms may serve to increase testing capacity with more efficient resource utilization. Due to the lack of carefully curated cohorts, there is limited evidence for the applicability of RT-PCR pooling in asymptomatic COVID-19 cases. In this study, we compared the analytical sensitivity of the TaqMan™ SARS-CoV-2 Pooling Assay to detect one positive sample in a pool of five anterior nares swabs in symptomatic and asymptomatic cohorts at an institute of higher education. Positive pools were deconvoluted and each individual sample was retested using the TaqPath™ COVID-19 Combo Kit. Both assays target the open reading frame (ORF) 1ab, nucleocapsid (N), and spike (S) gene of the strain that originated in Wuhan, Hubei, China. Qualitative results demonstrated absolute agreement between pooled and deconvoluted samples in both cohorts. Independent t-test performed on Ct shifts supported an insignificant difference between cohorts with p-values of 0.306 (Orf1ab), 0.147 (N), and 0.052 (S). All negative pools were correctly reported as negative. Pooled PCR testing up to five samples is a valid method for surveillance testing of students and staff in a university setting, especially when the prevalence is expected to be low.
+Due to their unique multi-gastric digestion system highly adapted for rumination, dairy livestock has complicated physiology different from monogastric animals. However, the microbiome-based mechanism of the digestion system is congenial for biology approaches. Different omics and their integration have been widely applied in the dairy sciences since the previous decade for investigating their physiology, pathology, and the development of feed and management protocols. The rumen microbiome can digest dietary components into utilizable sugars, proteins, and volatile fatty acids, contributing to the energy intake and feed efficiency of dairy animals, which has become one target of the basis for omics applications in dairy science. Rumen, liver, and mammary gland are also frequently targeted in omics because of their crucial impact on dairy animals' energy metabolism, production performance, and health status. The application of omics has made outstanding contributions to a more profound understanding of the physiology, etiology, and optimizing the management strategy of dairy animals, while the multi-omics method could draw information of different levels and organs together, providing an unprecedented broad scope on traits of dairy animals. This article reviewed recent omics and multi-omics researches on physiology, feeding, and pathology on dairy animals and also performed the potential of multi-omics on systematic dairy research.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269798)
+[Source](https://doi.org/10.1016/j.ijfoodmicro.2022.109781)
 
-10.1371/journal.pone.0269798
+10.3390/metabo12030225
+
+---
+
+## Microbiome and -omics application in food industry
+
+[Source](https://doi.org/10.1016/j.ijfoodmicro.2022.109781)
+
+---
+
+## A comparison of six DNA extraction protocols for 16S, ITS&nbsp;and shotgun metagenomic sequencing of microbial communities
+
+[Source](https://doi.org/10.2144/btn-2022-0032)
+
+---
+
+## Machine Learning Advances in Microbiology: A Review of Methods and Applications
+
+[Source](https://doi.org/10.3389/fmicb.2022.925454)
 
 ---
 
