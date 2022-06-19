@@ -22,18 +22,6 @@
 
 ---
 
-## Amelioration of type 2 diabetes by the novel 6, 8-guanidyl luteolin quinone-chromium coordination via biochemical mechanisms and gut microbiota interaction.
- 14.06.2022, _X Ge, X He, J Liu, F Zeng, L Chen, W Xu, R Shao, Y Huang, MA Farag, E Capanoglu, HR El-Seedi, C Zhao, B Liu_
-
-
-Luteolin is a plant-derived flavonoid that exhibits a broad range of pharmacological activities. Studies on luteolin have mainly focused on its use for hyperlipidaemia prevention, whereas the capacity of the flavonoid to hinder hyperglycaemia development remains underexplored.
-
-[Source](https://doi.org/10.1016/S2468-1253(22)00101-7)
-
-10.1016/j.jare.2022.06.003
-
----
-
 ## Intestinal microbiota transplantation: do not forget the metabolites
 
 [Source](https://doi.org/10.1016/S2468-1253(22)00101-7)
@@ -109,18 +97,6 @@ Luteolin is a plant-derived flavonoid that exhibits a broad range of pharmacolog
 ## 500 metagenome-assembled microbial genomes from 30 subtropical estuaries in South China
 
 [Source](https://doi.org/10.1038/s41597-022-01433-z)
-
----
-
-## Integration of Multiplied Omics, a Step Forward in Systematic Dairy Research.
- 29.03.2022, _Y Zhu, D Bu, L Ma_
-
-
-Due to their unique multi-gastric digestion system highly adapted for rumination, dairy livestock has complicated physiology different from monogastric animals. However, the microbiome-based mechanism of the digestion system is congenial for biology approaches. Different omics and their integration have been widely applied in the dairy sciences since the previous decade for investigating their physiology, pathology, and the development of feed and management protocols. The rumen microbiome can digest dietary components into utilizable sugars, proteins, and volatile fatty acids, contributing to the energy intake and feed efficiency of dairy animals, which has become one target of the basis for omics applications in dairy science. Rumen, liver, and mammary gland are also frequently targeted in omics because of their crucial impact on dairy animals' energy metabolism, production performance, and health status. The application of omics has made outstanding contributions to a more profound understanding of the physiology, etiology, and optimizing the management strategy of dairy animals, while the multi-omics method could draw information of different levels and organs together, providing an unprecedented broad scope on traits of dairy animals. This article reviewed recent omics and multi-omics researches on physiology, feeding, and pathology on dairy animals and also performed the potential of multi-omics on systematic dairy research.
-
-[Source](https://doi.org/10.1016/j.ijfoodmicro.2022.109781)
-
-10.3390/metabo12030225
 
 ---
 
