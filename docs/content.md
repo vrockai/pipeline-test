@@ -22,18 +22,6 @@
 
 ---
 
-## Amelioration of type 2 diabetes by the novel 6, 8-guanidyl luteolin quinone-chromium coordination via biochemical mechanisms and gut microbiota interaction.
- 17.06.2022, _X Ge, X He, J Liu, F Zeng, L Chen, W Xu, R Shao, Y Huang, MA Farag, E Capanoglu, HR El-Seedi, C Zhao, B Liu_
-
-
-Luteolin is a plant-derived flavonoid that exhibits a broad range of pharmacological activities. Studies on luteolin have mainly focused on its use for hyperlipidaemia prevention, whereas the capacity of the flavonoid to hinder hyperglycaemia development remains underexplored.
-
-[Source](https://doi.org/10.1016/S2468-1253(22)00101-7)
-
-10.1016/j.jare.2022.06.003
-
----
-
 ## Intestinal microbiota transplantation: do not forget the metabolites
 
 [Source](https://doi.org/10.1016/S2468-1253(22)00101-7)
