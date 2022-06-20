@@ -100,18 +100,6 @@
 
 ---
 
-## Integration of Multiplied Omics, a Step Forward in Systematic Dairy Research.
- 29.03.2022, _Y Zhu, D Bu, L Ma_
-
-
-Due to their unique multi-gastric digestion system highly adapted for rumination, dairy livestock has complicated physiology different from monogastric animals. However, the microbiome-based mechanism of the digestion system is congenial for biology approaches. Different omics and their integration have been widely applied in the dairy sciences since the previous decade for investigating their physiology, pathology, and the development of feed and management protocols. The rumen microbiome can digest dietary components into utilizable sugars, proteins, and volatile fatty acids, contributing to the energy intake and feed efficiency of dairy animals, which has become one target of the basis for omics applications in dairy science. Rumen, liver, and mammary gland are also frequently targeted in omics because of their crucial impact on dairy animals' energy metabolism, production performance, and health status. The application of omics has made outstanding contributions to a more profound understanding of the physiology, etiology, and optimizing the management strategy of dairy animals, while the multi-omics method could draw information of different levels and organs together, providing an unprecedented broad scope on traits of dairy animals. This article reviewed recent omics and multi-omics researches on physiology, feeding, and pathology on dairy animals and also performed the potential of multi-omics on systematic dairy research.
-
-[Source](https://doi.org/10.1016/j.ijfoodmicro.2022.109781)
-
-10.3390/metabo12030225
-
----
-
 ## Microbiome and -omics application in food industry
 
 [Source](https://doi.org/10.1016/j.ijfoodmicro.2022.109781)
