@@ -1,66 +1,97 @@
-## Dynamic metabolic interactions and trophic roles of human gut microbes identified using a minimal microbiome exhibiting ecological properties
+## A 16th century Escherichia coli draft genome associated with an opportunistic bile infection.
+ 20.06.2022, _GS Long, J Klunk, AT Duggan, M Tapson, V Giuffra, L Gazzè, A Fornaciari, S Duchene, G Fornaciari, O Clermont, E Denamur, GB Golding, H Poinar_
 
-[Source](https://doi.org/10.1038/s41396-022-01255-2)
 
----
+_Animals, Bile, Escherichia coli, Escherichia coli Infections, Genome, Bacterial, Mice, Opportunistic Infections_
+Escherichia coli - one of the most characterized bacteria and a major public health concern - remains invisible across the temporal landscape. Here, we present the meticulous reconstruction of the first ancient E. coli genome from a 16th century gallstone from an Italian mummy with chronic cholecystitis. We isolated ancient DNA and reconstructed the ancient E. coli genome. It consisted of one chromosome of 4446 genes and two putative plasmids with 52 genes. The E. coli strain belonged to the phylogroup A and an exceptionally rare sequence type 4995. The type VI secretion system component genes appears to be horizontally acquired from Klebsiella aerogenes, however we could not identify any pathovar specific genes nor any acquired antibiotic resistances. A sepsis mouse assay showed that a closely related contemporary E. coli strain was avirulent. Our reconstruction of this ancient E. coli helps paint a more complete picture of the burden of opportunistic infections of the past.
 
-## Integrated Microbiome and Host Transcriptome Profiles Link Parkinson’s Disease to <em>Blautia</em> Genus: Evidence From Feces, Blood, and Brain
+[Source](https://www.nature.com/articles/s42003-022-03527-1)
 
-[Source](https://doi.org/10.3389/fmicb.2022.875101)
-
----
-
-## A Microbiota-Dependent Response to Anticancer Treatment in an In Vitro Human Microbiota Model: A Pilot Study With Hydroxycarbamide and Daunorubicin
-
-[Source](https://doi.org/10.3389/fcimb.2022.886447)
+10.1038/s42003-022-03527-1
 
 ---
 
-## Examination of host genetic effects on nasal microbiome composition
+## Strong pathogen competition in neonatal gut colonisation
 
-[Source](https://doi.org/10.1016/j.jaci.2022.06.004)
-
----
-
-## Kimchi improves irritable bowel syndrome: results of a randomized, double-blind placebo-controlled study
-
-[Source](https://doi.org/10.29219/fnr.v66.8268)
+[Source](https://www.biorxiv.org/content/10.1101/2022.06.19.496579v1.abstract)
 
 ---
 
-## Aging gut microbiota of wild macaques are equally diverse, less stable, but progressively personalized
+## Dysbiosis of Skin Microbiota with Increased Fungal Diversity is Associated with Severity of Disease in Atopic Dermatitis
 
-[Source](https://doi.org/10.1186/s40168-022-01283-2)
-
----
-
-## Sodium alginate and galactooligosaccharides ameliorate metabolic disorders and alter the composition of the gut microbiota in mice with high-fat diet-induced obesity
-
-[Source](https://doi.org/10.1016/j.ijbiomac.2022.06.073)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18347)
 
 ---
 
-## From the bacterial citrus microbiome to the selection of potentially host-beneficial microbes
+## Loss of Novel Diversity in Human Gut Microbiota Associated with Ongoing Urbanization in China
 
-[Source](https://doi.org/10.1016/j.nbt.2022.06.002)
-
----
-
-## Microbiome engineering for sustainable agriculture: using synthetic biology to enhance nitrogen metabolism in plant-associated microbes
-
-[Source](https://doi.org/10.1016/j.mib.2022.102172)
+[Source](https://journals.asm.org/doi/10.1128/msystems.00200-22)
 
 ---
 
-## Microbiome assembly in thawing permafrost and its feedbacks to climate
+## A comprehensive analysis of the microbiota composition and host driver gene mutations in colorectal cancer
 
-[Source](https://doi.org/10.1111/gcb.16231)
+[Source](https://link.springer.com/article/10.1007/s10637-022-01263-1)
 
 ---
 
-## Rapid sourdough yeast identification using panfungal PCR combined with high resolution melting analysis
+## Vegetarianism, Microbiota and Cardiovascular health: Looking back, and forward
 
-[Source](https://doi.org/10.1016/j.mimet.2022.106522)
+[Source](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwac128/6612717)
+
+---
+
+## Effects of a low FODMAP diet on the colonic microbiome in irritable bowel syndrome: a systematic review with meta-analysis
+
+[Source](https://academic.oup.com/ajcn/advance-article/doi/10.1093/ajcn/nqac176/6612725)
+
+---
+
+## Profiling gut microbiota and bile acid metabolism in critically ill children
+
+[Source](https://www.nature.com/articles/s41598-022-13640-0)
+
+---
+
+## Super-taxon in human microbiome are identified to be associated with colorectal cancer
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04786-9)
+
+---
+
+## The gut metagenomics and metabolomics signature in patients with inflammatory bowel disease
+
+[Source](https://gutpathogens.biomedcentral.com/articles/10.1186/s13099-022-00499-9)
+
+---
+
+## Immune checkpoint inhibitors unleash pathogenic immune responses against the microbiota
+
+[Source](https://www.pnas.org/doi/full/10.1073/pnas.2200348119)
+
+---
+
+## Deletion of both Dectin-1 and Dectin-2 affects the bacterial but not fungal gut microbiota and susceptibility to colitis in mice
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01273-4)
+
+---
+
+## Fecal microbiome of horses transitioning between warm-season and cool-season grass pasture within integrated rotational grazing systems
+
+[Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-022-00192-x)
+
+---
+
+## Full-Length 16S rRNA Gene Sequences from Raw Sewage Samples Spanning Geographic and Seasonal Gradients in Conveyance Systems across the United States
+
+[Source](https://journals.asm.org/doi/10.1128/mra.00319-22)
+
+---
+
+## SRS-FISH: A high-throughput platform linking microbiome metabolism to identity at the single-cell level
+
+[Source](https://www.pnas.org/doi/full/10.1073/pnas.2203519119)
 
 ---
 
