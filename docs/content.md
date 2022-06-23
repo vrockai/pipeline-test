@@ -17,9 +17,15 @@ Escherichia coli - one of the most characterized bacteria and a major public hea
 
 ---
 
-## Dysbiosis of Skin Microbiota with Increased Fungal Diversity is Associated with Severity of Disease in Atopic Dermatitis
+## Dysbiosis of Skin Microbiota with Increased Fungal Diversity is Associated with Severity of Disease in Atopic Dermatitis.
+ 21.06.2022, _B Schmid, A Künstner, A Fähnrich, E Bersuch, P Schmid-Grendelmeier, H Busch, M Glatz, PP Bosshard_
+
+
+Atopic dermatitis (AD) is a multifactorial inflammatory skin disease and an altered skin microbiota with an increase of Staphylococcus aureus has been reported. However, the role of fungi remains poorly investigated.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18347)
+
+10.1111/jdv.18347
 
 ---
 
@@ -71,46 +77,39 @@ A low FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides and p
 
 ---
 
-## Multi-Compartment Profiling of Bacterial and Host Metabolites Identifies Intestinal Dysbiosis and Its Functional Consequences in the Critically Ill Child.
- 29.01.2022, _A Wijeyesekera, J Wagner, M De Goffau, S Thurston, A Rodrigues Sabino, S Zaher, D White, J Ridout, MJ Peters, P Ramnarayan, RG Branco, ME Torok, F Valla, R Meyer, N Klein, G Frost, J Parkhill, E Holmes, N Pathan_
+## Profiling gut microbiota and bile acid metabolism in critically ill children.
+ 21.06.2022, _IRL Kean, J Wagner, A Wijeyesekera, M De Goffau, S Thurston, JA Clark, DK White, J Ridout, S Agrawal, R Kayani, R O'Donnell, P Ramnarayan, MJ Peters, N Klein, E Holmes, J Parkhill, S Baker, N Pathan_
 
 
-_Adolescent, Child, Child, Preschool, Chromatography, Liquid, Cresols, Critical Illness, Dysbiosis, Fatty Acids, Volatile, Feces, Female, Formates, Gastrointestinal Microbiome, Hippurates, Humans, Infant, Intensive Care Units, Pediatric, Magnetic Resonance Imaging, Male, Mass Spectrometry, Metabolomics, Prospective Studies, RNA, Ribosomal, 16S, Respiration, Artificial, Severity of Illness Index, Sulfuric Acid Esters, Time Factors, United Kingdom, Urine_
-Adverse physiology and antibiotic exposure devastate the intestinal microbiome in critical illness. Time and cost implications limit the immediate clinical potential of microbial sequencing to identify or treat intestinal dysbiosis. Here, we examined whether metabolic profiling is a feasible method of monitoring intestinal dysbiosis in critically ill children.
-
-[Source](https://www.nature.com/articles/s41598-022-13640-0)
-
-10.1097/CCM.0000000000003841
-
----
-
-## Profiling gut microbiota and bile acid metabolism in critically ill children
+Broad-spectrum antimicrobial use during the treatment of critical illness influences gastrointestinal fermentation endpoints, host immune response and metabolic activity including the conversion of primary to secondary bile acids. We previously observed reduced fermentation capacity in the faecal microbiota of critically ill children upon hospital admission. Here, we further explore the timecourse of the relationship between the microbiome and bile acid profile in faecal samples collected from critically ill children. The microbiome was assayed by sequencing of the 16S rRNA gene, and faecal water bile acids were measured by liquid chromatography mass spectrometry. In comparison to admission faecal samples, members of the Lachnospiraceae recovered during the late-acute phase (days 8-10) of hospitalisation. Patients with infections had a lower proportion of Lachnospiraceae in their gut microbiota than controls and patients with primary admitting diagnoses. Keystone species linked to ecological recovery were observed to decline with the length of PICU admission. These species were further suppressed in patients with systemic infection, respiratory failure, and undergoing surgery. Bile acid composition recovers quickly after intervention for critical illness which may be aided by the compositional shift in Lachnospiraceae. Our findings suggest gut microbiota recovery can be readily assessed via measurement of faecal bile acids.
 
 [Source](https://www.nature.com/articles/s41598-022-13640-0)
 
+10.1038/s41598-022-13640-0
+
 ---
 
-## A comprehensive analysis of the microbiota composition and host driver gene mutations in colorectal cancer.
- 21.06.2022, _D Yuan, Y Tao, H Wang, J Wang, Y Cao, W Cao, S Pan, Z Yu_
+## Super-taxon in human microbiome are identified to be associated with colorectal cancer.
+ 21.06.2022, _W Dai, C Li, T Li, J Hu, H Zhang_
 
 
-Studies of both, microbiota and target therapy associated with gene mutations in colorectal cancer, (CRC) have attracted increasing attention. However, only a few of them analyzed the combined effects on CRC. we analyzed differences in intestinal microbiota of 44 colorectal cancer patients and 20 healthy controls (HC) using 16S rRNA gene sequencing of fecal samples. For 39 of the CRC patients, targeted Next Generation Sequencing (NGS) was carried out at formalin fixed paraffin embedded (FFPE) samples to identify somatic mutation profiles. Compared to the HC group, the microbial diversity of CRC patients was significantly lower. In the CRC group, we found a microbiome that was significantly enriched for strains of Bifidobacterium, Bacteroides, and Megasphaera whereas in the HC group the abundance of Collinsella, Faecalibacterium, and Agathobacter strains was higher. Among the mutations detected in the CRC group, the APC gene had the highest mutation rate (77%, 30/39). We found that the KRAS mutant type was closely associated with Faecalibacterium, Roseburia, Megamonas, Lachnoclostridium, and Harryflintia. Notably, Spearman correlation analysis showed that KRAS mutations were negatively correlated with the existence of Bifidobacterium and positively correlated with Faecalibacterium. By employing 16S rRNA gene sequencing, we identified more unique features of microbiota profiles in CRC patients. For the first time, our study showed that gene mutations could directly be linked to the microbiota composition of CRC patients. We hypothesize that the effect of a targeted colorectal cancer therapy is also closely related to the colorectal flora, however, this requires further investigation.
+Microbial communities in the human body, also known as human microbiota, impact human health, such as colorectal cancer (CRC). However, the different roles that microbial communities play in healthy and disease hosts remain largely unknown. The microbial communities are typically recorded through the taxa counts of operational taxonomic units (OTUs). The sparsity and high correlations among OTUs pose major challenges for understanding the microbiota-disease relation. Furthermore, the taxa data are structured in the sense that OTUs are related evolutionarily by a hierarchical structure.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04786-9)
 
-10.1007/s10637-022-01263-1
+10.1186/s12859-022-04786-9
 
 ---
 
-## Super-taxon in human microbiome are identified to be associated with colorectal cancer
+## The gut metagenomics and metabolomics signature in patients with inflammatory bowel disease.
+ 21.06.2022, _X Xu, DKW Ocansey, S Hang, B Wang, S Amoah, C Yi, X Zhang, L Liu, F Mao_
 
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04786-9)
 
----
-
-## The gut metagenomics and metabolomics signature in patients with inflammatory bowel disease
+Inflammatory bowel disease (IBD), a chronic gut immune dysregulation and dysbiosis condition is rapidly increasing in global incidence. Regardless, there is a lack of ideal diagnostic markers, while conventional treatment provides scarce desired results, thus, the exploration for better options. Changes in the gut microbial composition and metabolites either lead to or are caused by the immune dysregulation that characterizes IBD. This study examined the fecal metagenomics and metabolomic changes in IBD patients. A total of 30 fecal samples were collected from 15 IBD patients and 15 healthy controls for 16S rDNA gene sequencing and UHPLC/Q-TOF-MS detection of metabolomics. Results showed that there was a severe perturbation of gut bacteria community composition, diversity, metabolites, and associated functions and metabolic pathways in IBD. This included a significantly decreased abundance of Bacteroidetes and Firmicutes, increased disease-associated phyla such as Proteobacteria and Actinobacteria, and increased Escherichia coli and Klebsiella pneumoniae in IBD. A total of 3146 metabolites were detected out of which 135 were differentially expressed between IBD and controls. Metabolites with high sensitivity and specificity in differentiating IBD from healthy individuals included 6,7,4'-trihydroxyisoflavone and thyroxine 4'-o-.beta.-d-glucuronide (AUC = 0.92), normorphine and salvinorin a (AUC = 0.90), and trichostachine (AUC = 0.91). Moreover, the IBD group had significantly affected pathways including primary bile acid biosynthesis, vitamin digestion and absorption, and carbohydrate metabolism. This study reveals that the combined evaluation of metabolites and fecal microbiome can be useful to discriminate between healthy subjects and IBD patients and consequently serve as therapeutic and diagnostic targets.
 
 [Source](https://gutpathogens.biomedcentral.com/articles/10.1186/s13099-022-00499-9)
+
+10.1186/s13099-022-00499-9
 
 ---
 
@@ -132,9 +131,15 @@ Immune checkpoint inhibitors (ICIs) are essential components of the cancer thera
 
 ---
 
-## Fecal microbiome of horses transitioning between warm-season and cool-season grass pasture within integrated rotational grazing systems
+## Fecal microbiome of horses transitioning between warm-season and cool-season grass pasture within integrated rotational grazing systems.
+ 21.06.2022, _JR Weinert-Nelson, AS Biddle, CA Williams_
+
+
+Diet is a key driver of equine hindgut microbial community structure and composition. The aim of this study was to characterize shifts in the fecal microbiota of grazing horses during transitions between forage types within integrated warm- (WSG) and cool-season grass (CSG) rotational grazing systems (IRS). Eight mares were randomly assigned to two IRS containing mixed cool-season grass and one of two warm-season grasses: bermudagrass [Cynodon dactylon (L.) Pers.] or crabgrass [Digitaria sanguinalis (L.) Scop.]. Fecal samples were collected during transitions from CSG to WSG pasture sections (C-W) and WSG to CSG (W-C) on days 0, 2, 4, and 6 following pasture rotation and compared using 16S rRNA gene sequencing.
 
 [Source](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-022-00192-x)
+
+10.1186/s42523-022-00192-x
 
 ---
 
