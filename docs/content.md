@@ -78,9 +78,10 @@ A low FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides and p
 ---
 
 ## Profiling gut microbiota and bile acid metabolism in critically ill children.
- 21.06.2022, _IRL Kean, J Wagner, A Wijeyesekera, M De Goffau, S Thurston, JA Clark, DK White, J Ridout, S Agrawal, R Kayani, R O'Donnell, P Ramnarayan, MJ Peters, N Klein, E Holmes, J Parkhill, S Baker, N Pathan_
+ 23.06.2022, _IRL Kean, J Wagner, A Wijeyesekera, M De Goffau, S Thurston, JA Clark, DK White, J Ridout, S Agrawal, R Kayani, R O'Donnell, P Ramnarayan, MJ Peters, N Klein, E Holmes, J Parkhill, S Baker, N Pathan_
 
 
+_Bile Acids and Salts, Child, Clostridiales, Critical Illness, Feces, Gastrointestinal Microbiome, Humans, RNA, Ribosomal, 16S_
 Broad-spectrum antimicrobial use during the treatment of critical illness influences gastrointestinal fermentation endpoints, host immune response and metabolic activity including the conversion of primary to secondary bile acids. We previously observed reduced fermentation capacity in the faecal microbiota of critically ill children upon hospital admission. Here, we further explore the timecourse of the relationship between the microbiome and bile acid profile in faecal samples collected from critically ill children. The microbiome was assayed by sequencing of the 16S rRNA gene, and faecal water bile acids were measured by liquid chromatography mass spectrometry. In comparison to admission faecal samples, members of the Lachnospiraceae recovered during the late-acute phase (days 8-10) of hospitalisation. Patients with infections had a lower proportion of Lachnospiraceae in their gut microbiota than controls and patients with primary admitting diagnoses. Keystone species linked to ecological recovery were observed to decline with the length of PICU admission. These species were further suppressed in patients with systemic infection, respiratory failure, and undergoing surgery. Bile acid composition recovers quickly after intervention for critical illness which may be aided by the compositional shift in Lachnospiraceae. Our findings suggest gut microbiota recovery can be readily assessed via measurement of faecal bile acids.
 
 [Source](https://www.nature.com/articles/s41598-022-13640-0)
@@ -90,9 +91,10 @@ Broad-spectrum antimicrobial use during the treatment of critical illness influe
 ---
 
 ## Super-taxon in human microbiome are identified to be associated with colorectal cancer.
- 21.06.2022, _W Dai, C Li, T Li, J Hu, H Zhang_
+ 23.06.2022, _W Dai, C Li, T Li, J Hu, H Zhang_
 
 
+_Colorectal Neoplasms, Firmicutes, Humans, Microbiota, Peptostreptococcus_
 Microbial communities in the human body, also known as human microbiota, impact human health, such as colorectal cancer (CRC). However, the different roles that microbial communities play in healthy and disease hosts remain largely unknown. The microbial communities are typically recorded through the taxa counts of operational taxonomic units (OTUs). The sparsity and high correlations among OTUs pose major challenges for understanding the microbiota-disease relation. Furthermore, the taxa data are structured in the sense that OTUs are related evolutionarily by a hierarchical structure.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04786-9)
@@ -114,9 +116,10 @@ Inflammatory bowel disease (IBD), a chronic gut immune dysregulation and dysbios
 ---
 
 ## Immune checkpoint inhibitors unleash pathogenic immune responses against the microbiota.
- 21.06.2022, _ZI Hu, VM Link, DS Lima-Junior, J Delaleu, N Bouladoux, SJ Han, N Collins, Y Belkaid_
+ 23.06.2022, _ZI Hu, VM Link, DS Lima-Junior, J Delaleu, N Bouladoux, SJ Han, N Collins, Y Belkaid_
 
 
+_Animals, Humans, Immune Checkpoint Inhibitors, Immunity, Immunotherapy, Mice, Microbiota, Neoplasms_
 Immune checkpoint inhibitors (ICIs) are essential components of the cancer therapeutic armamentarium. While ICIs have demonstrated remarkable clinical responses, they can be accompanied by immune-related adverse events (irAEs). These inflammatory side effects are of unclear etiology and impact virtually all organ systems, with the most common being sites colonized by the microbiota such as the skin and gastrointestinal tract. Here, we establish a mouse model of commensal bacteria-driven skin irAEs and demonstrate that immune checkpoint inhibition unleashes commensal-specific inflammatory T cell responses. These aberrant responses were dependent on production of IL-17 by commensal-specific T cells and induced pathology that recapitulated the cutaneous inflammation seen in patients treated with ICIs. Importantly, aberrant T cell responses unleashed by ICIs were sufficient to perpetuate inflammatory memory responses to the microbiota months following the cessation of treatment. Altogether, we have established a mouse model of skin irAEs and reveal that ICIs unleash aberrant immune responses against skin commensals, with long-lasting inflammatory consequences.
 
 [Source](https://www.pnas.org/doi/full/10.1073/pnas.2200348119)
@@ -156,9 +159,10 @@ Wastewater microbiome research often relies on sequencing of hypervariable regio
 ---
 
 ## SRS-FISH: A high-throughput platform linking microbiome metabolism to identity at the single-cell level.
- 21.06.2022, _X Ge, FC Pereira, M Mitteregger, D Berry, M Zhang, B Hausmann, J Zhang, A Schintlmeister, M Wagner, JX Cheng_
+ 23.06.2022, _X Ge, FC Pereira, M Mitteregger, D Berry, M Zhang, B Hausmann, J Zhang, A Schintlmeister, M Wagner, JX Cheng_
 
 
+_In Situ Hybridization, Fluorescence, Isotopes, Microbiota, Spectrum Analysis, Raman, Sugars_
 One of the biggest challenges in microbiome research in environmental and medical samples is to better understand functional properties of microbial community members at a single-cell level. Single-cell isotope probing has become a key tool for this purpose, but the current detection methods for determination of isotope incorporation into single cells do not allow high-throughput analyses. Here, we report on the development of an imaging-based approach termed stimulated Raman scattering-two-photon fluorescence in situ hybridization (SRS-FISH) for high-throughput metabolism and identity analyses of microbial communities with single-cell resolution. SRS-FISH offers an imaging speed of 10 to 100 ms per cell, which is two to three orders of magnitude faster than achievable by state-of-the-art methods. Using this technique, we delineated metabolic responses of 30,000 individual cells to various mucosal sugars in the human gut microbiome via incorporation of deuterium from heavy water as an activity marker. Application of SRS-FISH to investigate the utilization of host-derived nutrients by two major human gut microbiome taxa revealed that response to mucosal sugars tends to be dominated by Bacteroidales, with an unexpected finding that Clostridia can outperform Bacteroidales at foraging fucose. With high sensitivity and speed, SRS-FISH will enable researchers to probe the fine-scale temporal, spatial, and individual activity patterns of microbial cells in complex communities with unprecedented detail.
 
 [Source](https://www.pnas.org/doi/full/10.1073/pnas.2203519119)
