@@ -1,124 +1,186 @@
-## A centimeter-long bacterium with DNA contained in metabolically active, membrane-bound organelles.
- 23.06.2022, _JM Volland, S Gonzalez-Rizzo, O Gros, T Tyml, N Ivanova, F Schulz, D Goudeau, NH Elisabeth, N Nath, D Udwary, RR Malmstrom, C Guidi-Rontani, S Bolte-Kluge, KM Davies, MR Jean, JL Mansot, NJ Mouncey, ER Angert, T Woyke, SV Date_
+## Microbiome-associated human genetic variants impact phenome-wide disease risk.
+ 24.06.2022, _RHG Markowitz, AL LaBella, M Shi, A Rokas, JA Capra, JF Ferguson, JD Mosley, SR Bordenstein_
 
 
-Cells of most bacterial species are around 2 micrometers in length, with some of the largest specimens reaching 750 micrometers. Using fluorescence, x-ray, and electron microscopy in conjunction with genome sequencing, we characterized Candidatus (Ca.) Thiomargarita magnifica, a bacterium that has an average cell length greater than 9000 micrometers and is visible to the naked eye. These cells grow orders of magnitude over theoretical limits for bacterial cell size, display unprecedented polyploidy of more than half a million copies of a very large genome, and undergo a dimorphic life cycle with asymmetric segregation of chromosomes into daughter cells. These features, along with compartmentalization of genomic material and ribosomes in translationally active organelles bound by bioenergetic membranes, indicate gain of complexity in the Thiomargarita lineage and challenge traditional concepts of bacterial cells.
+Human genetic variation associates with the composition of the gut microbiome, yet its influence on clinical traits remains largely unknown. We analyzed the consequences of nearly a thousand gut microbiome-associated variants (MAVs) on phenotypes reported in electronic health records from tens of thousands of individuals. We discovered and replicated associations of MAVs with neurological, metabolic, digestive, and circulatory diseases. Five significant MAVs in these categories correlate with the relative abundance of microbes down to the strain level. We also demonstrate that these relationships are independently observed and concordant with microbe by disease associations reported in case-control studies. Moreover, a selective sweep and population differentiation impacted some disease-linked MAVs. Combined, these findings establish triad relationships among the human genome, microbiome, and disease. Consequently, human genetic influences may offer opportunities for precision diagnostics of microbiome-associated diseases but also highlight the relevance of genetic background for microbiome modulation and therapeutics.
 
-[Source](https://www.science.org/doi/10.1126/science.abb3634)
+[Source](https://doi.org/10.1073/pnas.2200551119)
 
-10.1126/science.abb3634
-
----
-
-## Filamentous bacteriophage delays healing of Pseudomonas-infected wounds.
- 24.06.2022, _MS Bach, CR de Vries, A Khosravi, JM Sweere, MC Popescu, Q Chen, S Demirdjian, A Hargil, JD Van Belleghem, G Kaber, M Hajfathalian, EB Burgener, D Liu, QL Tran, T Dharmaraj, M Birukova, V Sunkari, S Balaji, N Ghosh, SS Mathew-Steiner, MS El Masry, SG Keswani, N Banaei, L Nedelec, CK Sen, V Chandra, PR Secor, GA Suh, PL Bollyky_
-
-
-_Animals, Biofilms, Humans, Inovirus, Mammals, Prospective Studies, Pseudomonas, Pseudomonas Infections, Pseudomonas aeruginosa, Wound Healing, Wound Infection_
-Chronic wounds infected by Pseudomonas aeruginosa (Pa) are characterized by disease progression and increased mortality. We reveal Pf, a bacteriophage produced by Pa that delays healing of chronically infected wounds in human subjects and animal models of disease. Interestingly, impairment of wound closure by Pf is independent of its effects on Pa pathogenesis. Rather, Pf impedes keratinocyte migration, which is essential for wound healing, through direct inhibition of CXCL1 signaling. In support of these findings, a prospective cohort study of 36 human patients with chronic Pa wound infections reveals that wounds infected with Pf-positive strains of Pa are more likely to progress in size compared with wounds infected with Pf-negative strains. Together, these data implicate Pf phage in the delayed wound healing associated with Pa infection through direct manipulation of mammalian cells. These findings suggest Pf may have potential as a biomarker and therapeutic target in chronic wounds.
-
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00188-4)
-
-10.1016/j.xcrm.2022.100656
+10.1073/pnas.2200551119
 
 ---
 
-## The pediatric virome in health and disease.
- 18.05.2022, _G Liang, H Gao, FD Bushman_
+## Functional changes of the gastric bypass microbiota reactivate thermogenic adipose tissue and systemic glucose control via intestinal FXR-TGR5 crosstalk in diet-induced obesity.
+ 23.06.2022, _J Münzker, N Haase, A Till, R Sucher, SB Haange, L Nemetschke, T Gnad, E Jäger, J Chen, SJ Riede, R Chakaroun, L Massier, P Kovacs, M Ost, U Rolle-Kampczyk, N Jehmlich, J Weiner, JT Heiker, N Klöting, G Seeger, M Morawski, V Keitel, A Pfeifer, M von Bergen, J Heeren, U Krügel, WK Fenske_
 
 
-_Child, Diarrhea, Gastrointestinal Microbiome, Humans, Microbiota, Virome, Viruses_
-Associations between the global microbiome and diseases of children have been studied extensively; however, research on the viral component of the microbiome, the "virome," is less advanced. The analysis of disease associations with the virome is often technically challenging, requiring a close examination of the "virome dark matter." The gut is a particularly rich source of viral particles, and now multiple studies have reported intriguing associations of the virome with childhood diseases. For example, virome studies have elucidated new lineages of gut viruses that appear to be tightly associated with childhood diarrhea, and consistent patterns are starting to emerge from virome studies in pediatric IBD. In this review, we summarize the methods for studying the virome and recent research on the nature of the virome during childhood, focusing on specific studies of the intestinal virome in pediatric diseases.
+Bariatric surgery remains the most effective therapy for adiposity reduction and remission of type 2 diabetes. Although different bariatric procedures associate with pronounced shifts in the gut microbiota, their functional role in the regulation of energetic and metabolic benefits achieved with the surgery are not clear.
 
-[Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00294-8/fulltext)
+[Source](https://doi.org/10.1186/s40168-022-01264-5)
 
-10.1016/j.chom.2022.04.006
-
----
-
-## The gut virome: A new microbiome component in health and disease
-
-[Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00294-8/fulltext)
+10.1186/s40168-022-01264-5
 
 ---
 
-## Presence of Blastocystis in gut microbiota is associated with cognitive traits and decreased executive function.
- 21.06.2022, _J Mayneris-Perxachs, M Arnoriaga-Rodríguez, J Garre-Olmo, J Puig, R Ramos, M Trelis, A Burokas, C Coll, C Zapata-Tona, S Pedraza, V Pérez-Brocal, L Ramió, W Ricart, A Moya, M Jové, J Sol, M Portero-Otin, R Pamplona, R Maldonado, JM Fernández-Real_
+## Human gut microbiota composition and its predicted functional properties in people with western and healthy dietary patterns.
+ 24.06.2022, _AM Malinowska, DE Kok, WT Steegenga, GJEJ Hooiveld, A Chmurzynska_
 
 
-Growing evidence implicates the gut microbiome in cognition. Blastocystis is a common gut single-cell eukaryote parasite frequently detected in humans but its potential involvement in human pathophysiology has been poorly characterized. Here we describe how the presence of Blastocystis in the gut microbiome was associated with deficits in executive function and altered gut bacterial composition in a discovery (n = 114) and replication cohorts (n = 942). We also found that Blastocystis was linked to bacterial functions related to aromatic amino acids metabolism and folate-mediated pyrimidine and one-carbon metabolism. Blastocystis-associated shifts in bacterial functionality translated into the circulating metabolome. Finally, we evaluated the effects of microbiota transplantation. Donor's Blastocystis subtypes led to altered recipient's mice cognitive function and prefrontal cortex gene expression. In summary, Blastocystis warrant further consideration as a novel actor in the gut microbiome-brain axis.
+Some dietary habits cluster together, and for this reason it is advised to study the impact of entire dietary patterns on human health, rather than that of individual dietary habits. The main objective of this study was to evaluate differences in gut microbiota composition and their predicted functional properties between people with a healthy (HDP) and western (WDP) dietary pattern.
 
-[Source](https://www.nature.com/articles/s41396-022-01262-3)
+[Source](https://doi.org/10.1007/s00394-022-02928-6)
 
-10.1038/s41396-022-01262-3
-
----
-
-## Altered mycobiota signatures and enriched pathogenic Aspergillus rambellii are associated with colorectal cancer based on multi-cohort fecal metagenomic analyses.
- 20.06.2022, _Y Lin, HC Lau, Y Liu, X Kang, Y Wang, NL Ting, TN Kwong, J Han, W Liu, C Liu, J She, SH Wong, JJ Sung, J Yu_
-
-
-Enteric mycobiota is a major component of human gut microbiota, but its role in colorectal cancer (CRC) remains largely elusive. We conducted a meta-analysis to uncover the contribution of fungal mycobiota to CRC.
-
-[Source](https://www.gastrojournal.org/article/S0016-5085(22)00656-4/fulltext)
-
-10.1053/j.gastro.2022.06.038
+10.1007/s00394-022-02928-6
 
 ---
 
-## Small molecules in the big picture of gut microbiome-host cross-talk.
- 24.06.2022, _Y Ma, X Liu, J Wang_
+## Identification and Characterization of Major Bile Acid 7α-Dehydroxylating Bacteria in the Human Gut.
+ 23.06.2022, _KH Kim, D Park, B Jia, JH Baek, Y Hahn, CO Jeon_
 
 
-Research on the gut microbiome and related diseases is rapidly growing with the development of sequencing technologies. An increasing number of studies offer new perspectives on disease development or treatment. Among these, the mechanisms of gut microbial metabolite-mediated effects merit better understanding. In this review, we first summarize the shifts in gut microbial metabolites within complex diseases, in which metabolites have correlational and occasionally causal effects on diseases and discuss the reported mechanisms. We further investigate the interactions between gut microbes and drugs, providing insights for precision medication as well as limitations of current research. Finally, we provide new research directions and research strategies for the development of drugs from gut microbial metabolites. FUNDING STATEMENT: None.
+The metabolism of bile acids (BAs) by gut bacteria plays an important role in human health. This study identified and characterized 7α-dehydroxylating bacteria, which are majorly responsible for converting primary BAs to secondary BAs, in the human gut and investigated their association with human disease. Six 7α-dehydratase (BaiE) clusters were identified from human gut metagenomes through sequence similarity network and genome neighborhood network analyses. Abundance analyses of gut metagenomes and metatranscriptomes identified a cluster of bacteria (cluster 1) harboring baiE genes that may be key 7α-dehydroxylating bacteria in the human gut. The baiE gene abundance of cluster 1 was significantly and positively correlated with the ratio of secondary BAs to primary BAs. Furthermore, the baiE gene abundances of cluster 1 were significantly negatively correlated with inflammatory bowel disease, including Crohn's disease and ulcerative colitis, as well as advanced nonalcoholic fatty liver disease, liver cirrhosis, and ankylosing spondylitis. Phylogenetic and metagenome-assembled genome analyses showed that the 7α-dehydroxylating bacterial clade of cluster 1 was affiliated with the family Oscillospiraceae and may demonstrate efficient BA dehydroxylation ability by harboring both a complete bai operon, for proteins which produce secondary BAs from primary BAs, and a gene for bile salt hydrolase, which deconjugates BAs, in the human gut. IMPORTANCE In this study, we identified a key 7α-dehydroxylating bacterial group predicted to be largely responsible for converting primary bile acids (BAs) to secondary BAs in the human gut through sequence similarity network, genome neighborhood network, and gene abundance analyses using human gut metagenomes. The key bacterial group was phylogenetically quite different from known 7α-dehydroxylating bacteria, and their abundance was highly correlated with the occurrence of diverse diseases associated with bile acid 7α-dehydroxylation. In addition, we characterized the metabolic features of the key bacterial group using their metagenome-assembled genomes. This approach is useful to identify and characterize key gut bacteria highly associated with human health and diseases.
 
-[Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00266-3/fulltext)
+[Source](https://doi.org/10.1128/msystems.00455-22)
 
-10.1016/j.ebiom.2022.104085
-
----
-
-## Maternal gut microbiome-induced IgG regulates neonatal gut microbiome and immunity.
- 14.06.2022, _KZ Sanidad, M Amir, A Ananthanarayanan, A Singaraju, NB Shiland, HS Hong, N Kamada, N Inohara, G Núñez, MY Zeng_
-
-
-_Animals, Citrobacter rodentium, Colitis, Enterobacteriaceae Infections, Gastrointestinal Microbiome, Immunoglobulin G, Mice_
-The gut microbiome elicits antigen-specific immunoglobulin G (IgG) at steady state that cross-reacts to pathogens to confer protection against systemic infection. The role of gut microbiome-specific IgG antibodies in the development of the gut microbiome and immunity against enteric pathogens in early life, however, remains largely undefined. In this study, we show that gut microbiome-induced maternal IgG is transferred to the neonatal intestine through maternal milk via the neonatal Fc receptor and directly inhibits Citrobacter rodentium colonization and attachment to the mucosa. Enhanced neonatal immunity against oral C. rodentium infection was observed after maternal immunization with a gut microbiome-derived IgG antigen, outer membrane protein A, or induction of IgG-inducing gut bacteria. Furthermore, by generating a gene-targeted mouse model with complete IgG deficiency, we demonstrate that IgG knockout neonates are more susceptible to C. rodentium infection and exhibit alterations of the gut microbiome that promote differentiation of interleukin-17A-producing γδ T cells in the intestine, which persist into adulthood and contribute to increased disease severity in a dextran sulfate sodium-induced mouse model of colitis. Together, our studies have defined a critical role for maternal gut microbiome-specific IgG antibodies in promoting immunity against enteric pathogens and shaping the development of the gut microbiome and immune cells in early life.
-
-[Source](https://www.science.org/doi/10.1126/sciimmunol.abh3816)
-
-10.1126/sciimmunol.abh3816
+10.1128/msystems.00455-22
 
 ---
 
-## Time for better time-restricted eating trials to lessen the burden of metabolic diseases.
- 24.06.2022, _PR Taub, S Panda_
+## Characteristics and interplay of esophageal microbiota in esophageal squamous cell carcinoma.
+ 23.06.2022, _Z Lin, W Rao, Z Xiang, Q Zeng, S Liu, K Yu, J Zhou, J Wang, W Chen, Y Chen, X Peng, Z Hu_
 
 
-_Humans, Metabolic Diseases, Nutritional Status_
-Optimizing the quality, quantity, and timing of nutrition holds immense potential to improve health and prevent disease. The results of a recent randomized controlled trial1 have been widely misrepresented with the incorrect interpretation that optimizing the timing of food intake imparts no health benefits.
+Esophageal microbiota may influence esophageal squamous cell carcinoma (ESCC) pathobiology. Therefore, we investigated the characteristics and interplay of the esophageal microbiota in ESCC.
 
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00197-5)
+[Source](https://doi.org/10.1186/s12885-022-09771-2)
 
-10.1016/j.xcrm.2022.100665
-
----
-
-## TMED3 Complex Mediates ER Stress-Associated Secretion of CFTR, Pendrin, and SARS-CoV-2 Spike.
- 24.06.2022, _H Park, SK Seo, JR Sim, SJ Hwang, YJ Kim, DH Shin, DG Jang, SH Noh, PG Park, SH Ko, MH Shin, JY Choi, Y Ito, CM Kang, JM Lee, MG Lee_
-
-
-Under ER stress conditions, the ER form of transmembrane proteins can reach the plasma membrane via a Golgi-independent unconventional protein secretion (UPS) pathway. However, the targeting mechanisms of membrane proteins for UPS are unknown. Here, this study reports that TMED proteins play a critical role in the ER stress-associated UPS of transmembrane proteins. The gene silencing results reveal that TMED2, TMED3, TMED9 and TMED10 are involved in the UPS of transmembrane proteins, such as CFTR, pendrin and SARS-CoV-2 Spike. Subsequent mechanistic analyses indicate that TMED3 recognizes the ER core-glycosylated protein cargos and that the heteromeric TMED2/3/9/10 complex mediates their UPS. Co-expression of all four TMEDs improves, while each single expression reduces, the UPS and ion transport function of trafficking-deficient ΔF508-CFTR and p.H723R-pendrin, which cause cystic fibrosis and Pendred syndrome, respectively. In contrast, TMED2/3/9/10 silencing reduces SARS-CoV-2 viral release. These results provide evidence for a common role of TMED3 and related TMEDs in the ER stress-associated, Golgi-independent secretion of transmembrane proteins.
-
-[Source](https://www.cell.com/immunity/fulltext/S1074-7613(22)00286-2)
-
-10.1002/advs.202105320
+10.1186/s12885-022-09771-2
 
 ---
 
-## What SARS-CoV-2 does to our brains
+## Interactions among the mycobiome, bacteriome, inflammation, and diet in people living with HIV.
+ 24.06.2022, _MJ Gosalbes, N Jimenéz-Hernandéz, E Moreno, A Artacho, X Pons, S Ruíz-Pérez, B Navia, V Estrada, M Manzano, A Talavera-Rodriguez, N Madrid, A Vallejo, L Luna, JA Pérez-Molina, S Moreno, S Serrano-Villar_
 
-[Source](https://www.cell.com/immunity/fulltext/S1074-7613(22)00286-2)
+
+While the intestinal microbiome seems a major driver of persistent immune defects in people with HIV (PWH), little is known about its fungal component, the mycobiome. We assessed the inter-kingdom mycobiome-bacteriome interactions, the impact of diet, and the association with the innate and adaptive immunity in PWH on antiretroviral therapy. We included 24 PWH individuals and 12 healthy controls. We sequenced the Internal Transcribed Spacer 2 amplicons, determined amplicon sequence variants, measured biomarkers of the innate and adaptive immunity in blood and relations with diet. Compared to healthy controls, PWH subjects exhibited a distinct and richer mycobiome and an enrichment for Debaryomyces hansenii, Candida albicans, and Candida parapsilosis. In PWH, Candida and Pichia species were strongly correlated with several bacterial genera, including Faecalibacterium genus. Regarding the links between the mycobiome and systemic immunology, we found a positive correlation between Candida species and the levels of proinflammatory cytokines (sTNF-R2 and IL-17), interleukin 22 (a cytokine implicated in the regulation of mucosal immunity), and CD8+ T cell counts. This suggests an important role of the yeasts in systemic innate and adaptive immune responses. Finally, we identified inter-kingdom interactions implicated in fiber degradation, short-chain fatty acid production, and lipid metabolism, and an effect of vegetable and fiber intake on the mycobiome. Therefore, despite the great differences in abundance and diversity between the bacterial and fungal communities of the gut, we defined the changes associated with HIV, determined several different inter-kingdom associations, and found links between the mycobiome, nutrient metabolism, and systemic immunity.
+
+[Source](https://doi.org/10.1080/19490976.2022.2089002)
+
+10.1080/19490976.2022.2089002
+
+---
+
+## Disentangling the relationship of gut microbiota, functional gastrointestinal disorders and autism: a case-control study on prepubertal Chinese boys.
+ 23.06.2022, _OWH Wong, AMW Lam, BPN Or, FYM Mo, CKS Shea, KYC Lai, SL Ma, SF Hung, S Chan, TNY Kwong, S Wong, PWL Leung_
+
+
+Emerging evidence of an altered gut microbiome in autism spectrum disorder (ASD) suggests a pathomechanism through the gut-brain axis despite the inconsistent microbiome profile reported across studies. One of the knowledge gaps in the existing ASD microbiota studies is the lack of systematic exploration of the role of comorbid functional gastrointestinal disorder (FGID) in the association of ASD and altered gut microbiome. Consequently, 92 ASD and 112 age-matched typically developing (TD) boys were profiled on general psychopathology, FGID status by Rome IV classification, and gut microbiota using 16S ribosomal RNA amplicon sequencing at the V4 hypervariable region. Compared to TD, a significant decrease in the within-sample abundance of taxa was observed in ASD, regardless of FGID status. The microbiota of ASD FGID+ and ASD FGID- clustered apart from the TD groups. The microbiota of ASD FGID+ also showed qualitative differences from that of ASD FGID- and had the highest-level Firmicutes: Bacteroidetes ratio, which was paralleled by elevated levels of anxiety and overall psychopathology. The altered gastrointestinal microbiota composition in ASD appeared to be independent of comorbid FGID. Further studies should address how FGID may mediate neuropsychiatric symptoms in ASD through inflammation along the microbiota-gut-brain axis.
+
+[Source](https://doi.org/10.1038/s41598-022-14785-8)
+
+10.1038/s41598-022-14785-8
+
+---
+
+## Dietary supplementation with biogenic selenium nanoparticles alleviate oxidative stress-induced intestinal barrier dysfunction.
+ 23.06.2022, _L Qiao, X Zhang, S Pi, J Chang, X Dou, S Yan, X Song, Y Chen, X Zeng, L Zhu, C Xu_
+
+
+Selenium (Se) is an essential micronutrient that promotes body health. Endemic Se deficiency is a major nutritional challenge worldwide. The low toxicity, high bioavailability, and unique properties of biogenic Se nanoparticles (SeNPs) allow them to be used as a therapeutic drug and Se nutritional supplement. This study was conducted to investigate the regulatory effects of dietary SeNPs supplementation on the oxidative stress-induced intestinal barrier dysfunction and its association with mitochondrial function and gut microbiota in mice. The effects of dietary SeNPs on intestinal barrier function and antioxidant capacity and its correlation with gut microbiota were further evaluated by a fecal microbiota transplantation experiment. The results showed that Se deficiency caused a redox imbalance, increased the levels of pro-inflammatory cytokines, altered the composition of the gut microbiota, and impaired mitochondrial structure and function, and intestinal barrier injury. Exogenous supplementation with biogenic SeNPs effectively alleviated diquat-induced intestinal barrier dysfunction by enhancing the antioxidant capacity, inhibiting the overproduction of reactive oxygen species (ROS), preventing the impairment of mitochondrial structure and function, regulating the immune response, maintaining intestinal microbiota homeostasis by regulating nuclear factor (erythroid-derived-2)-like 2 (Nrf2)-mediated NLR family pyrin domain containing 3 (NLRP3) signaling pathway. In addition, Se deficiency resulted in a gut microbiota phenotype that is more susceptible to diquat-induced intestinal barrier dysfunction. Supranutritional SeNPs intake can optimize the gut microbiota to protect against intestinal dysfunctions. This study demonstrates that dietary supplementation of SeNPs can prevent oxidative stress-induced intestinal barrier dysfunction through its regulation of mitochondria and gut microbiota.
+
+[Source](https://doi.org/10.1038/s41538-022-00145-3)
+
+10.1038/s41538-022-00145-3
+
+---
+
+## Glyphosate-based herbicide exposure: effects on gill microbiota of rainbow trout (<em>Oncorhynchus mykiss</em>) and the aquatic bacterial ecosystem
+
+[Source](https://doi.org/10.1093/femsec/fiac076)
+
+---
+
+## Social microbiota and social gland gene expression of worker honey bees by age and climate.
+ 23.06.2022, _KE Anderson, P Maes_
+
+
+Winter forage dearth is a major contributor to honey bee colony loss and can influence disease susceptibility. Honey bees possess a secretory head gland that interfaces with the social environment on many levels. During winter or forage dearth, colonies produce a long-lived (diutinus) worker phenotype that survives until environmental conditions improve. We used a known-age worker cohort to investigate microbiome integrity and social gene expression of workers in early and late winter. We provide additional context by contrasting host-microbial interactions from warm outdoor and cold indoor environments. Our results provide novel evidence that social immune gene expression is associated with worker longevity, and highlight the midgut as a target of opportunistic disease during winter. Host microbial interactions suggest opportunistic disease progression and resistance in long-lived workers, but susceptibility to opportunistic disease in younger workers that emerged during the winter, including increases in Enterobacteriaceae, fungal load and non-core bacterial abundance. The results are consistent with increased social immunity, including host associations with the social microbiota, and a social immune response by long-lived workers to combat microbial opportunism. The cost/benefit ratio associated with limited expression of the diutinus phenotype may be a strong determinant of colony survival during winter forage dearth.
+
+[Source](https://doi.org/10.1038/s41598-022-14442-0)
+
+10.1038/s41598-022-14442-0
+
+---
+
+## Comparative evaluation of fish larval preservation methods on microbiome profiles to aid in metagenomics research.
+ 23.06.2022, _TG Sumithra, SRK Sharma, S Gayathri, S Ebeneezar, KJ Reshma, KK Anikuttan, GI Narasimapallavan, P Rameshkumar, M Sakthivel, DL Prabu, G Tamilmani, P Vijayagopal, A Gopalakrishnan_
+
+
+Applications of microbiome research through metagenomics promise to generate microbiome manipulation strategies for improved larval survival in aquaculture. However, existing lacunae on the effects of sample preservation methods in metagenome profiles hinder the successful application of this technique. In this context, four preservation methods were scrutinized to identify reliable methods for fish larval microbiome research. The results showed that a total of ten metagenomics metrics, including DNA yield, taxonomic and functional microbiome profiles, and diversity measures, were significantly (P &lt; 0.05) influenced by the preservation method. Activity ranking based on the performance and reproducibility showed that three methods, namely immediate direct freezing, room temperature preservation in absolute ethanol, and preservation at - 20 °C in lysis, storage, and transportation buffer, could be recommended for larval microbiome research. Furthermore, as there was an apparent deviation of the microbiome profiles of ethanol preserved samples at room temperature, the other methods are preferred. Detailed analysis showed that this deviation was due to the bias towards Vibrionales and Rhodobacterales. The microbial taxa responsible for the dissimilarity across different methods were identified. Altogether, the paper sheds light on the preservation protocols of fish larval microbiome research for the first time. The results can help in cross-comparison of future and past larval microbiome studies. Furthermore, this is the first report on the activity ranking of preservation methods based on metagenomics metrics. Apart from methodological perspectives, the paper provides for the first time certain insights into larval microbial profiles of Rachycentron canadum, a potential marine aquaculture species. KEY POINTS: • First report on effects of preservation methods on fish larval microbiome profiles. • First report on activity ranking of preservation methods based on metagenomics metrics. • Storage methods influenced DNA yield, taxonomic and functional microbiome profiles.
+
+[Source](https://doi.org/10.1007/s00253-022-12026-6)
+
+10.1007/s00253-022-12026-6
+
+---
+
+## Inter-individual variation in parasite manipulation of host phenotype: a role for parasite microbiomes?
+ 24.06.2022, _R Poulin, F Jorge, PM Salloum_
+
+
+Alterations in host phenotype induced by metazoan parasites are widespread in nature, yet the underlying mechanisms and the sources of intraspecific variation in the extent of those alterations remain poorly understood. In light of the microbiome revolution sweeping through ecology and evolutionary biology, we hypothesise that the composition of symbiotic microbial communities living within individual parasites influences the nature and extent of their effect on host phenotype. The interests of both the parasite and its symbionts are aligned through the latter's vertical transmission, favouring joint contributions to the manipulation of host phenotype. Our hypothesis can explain the variation in the extent to which parasites alter host phenotype, as microbiome composition varies among individual parasites. We propose two non-exclusive approaches to test the hypothesis, furthering the integration of microbiomes into studies of host-parasite interactions.
+
+[Source](https://doi.org/10.1111/1365-2656.13764)
+
+10.1111/1365-2656.13764
+
+---
+
+## A Comprehensive Insight of Current and Future Challenges in Large-Scale Soil Microbiome Analyses.
+ 23.06.2022, _J Legeay, M Hijri_
+
+
+In the last decade, various large-scale projects describing soil microbial diversity across large geographical gradients have been undertaken. However, many questions remain unanswered about the best ways to conduct these studies. In this review, we present an overview of the experience gathered during these projects, and of the challenges that future projects will face, such as standardization of protocols and results, considering the temporal variation of microbiomes, and the legal constraints limiting such studies. We also present the arguments for and against the exhaustive description of soil microbiomes. Finally, we look at future developments of soil microbiome studies, notably emphasizing the important role of cultivation techniques.
+
+[Source](https://doi.org/10.1007/s00248-022-02060-2)
+
+10.1007/s00248-022-02060-2
+
+---
+
+## The influence of bioclimate on soil microbial communities of cork oak.
+ 23.06.2022, _D Costa, RM Tavares, P Baptista, T Lino-Neto_
+
+
+Soil microbiomes are important to maintain soil processes in forests and confer protection to plants against abiotic and biotic stresses. These microbiomes can be affected by environmental changes. In this work, soil microbial communities from different cork oak Portuguese forests under different edaphoclimatic conditions were described by using a metabarcoding strategy targeting ITS2 and 16S barcodes.
+
+[Source](https://doi.org/10.1186/s12866-022-02574-2)
+
+10.1186/s12866-022-02574-2
+
+---
+
+## Liposome Delivery of Nucleic Acids in Bacteria: Toward In Vivo Labeling of Human Microbiota.
+ 23.06.2022, _L Moreira, NM Guimarães, S Pereira, RS Santos, JA Loureiro, MC Pereira, NF Azevedo_
+
+
+Development of specific probes to study the in vivo spatial distribution of microorganisms is essential to understand the ecology of human microbiota. Herein, we assess the possibility of using liposomes loaded with fluorescently labeled nucleic acid mimics (LipoNAMs) to image Gram-negative and Gram-positive bacteria. We proved that liposome fusion efficiencies were similar in both Gram-negative and Gram-positive bacteria but that the efficiency was highly dependent on the lipid concentration. Notably, LipoNAMs were significantly more effective for the internalization of oligonucleotides in bacteria than the fixation/permeabilization methods commonly used in vitro. Furthermore, a structural and morphological assessment of the changes on bacteria allowed us to observe that liposomes increased the permeability of the cell envelope especially in Gram-negative bacteria. Considering the delivery efficiency and permeabilization effect, lipid concentrations of approximately 5 mM should be selected to maximize the detection of bacteria without compromising the bacterial cellular structure.
+
+[Source](https://doi.org/10.1021/acsinfecdis.1c00601)
+
+10.1021/acsinfecdis.1c00601
+
+---
+
+## Recurrent neural networks enable design of multifunctional synthetic human gut microbiome dynamics.
+ 24.06.2022, _M Baranwal, RL Clark, J Thompson, Z Sun, AO Hero, OS Venturelli_
+
+
+Predicting the dynamics and functions of microbiomes constructed from the bottom-up is a key challenge in exploiting them to our benefit. Current models based on ecological theory fail to capture complex community behaviors due to higher order interactions, do not scale well with increasing complexity and in considering multiple functions. We develop and apply a long short-term memory (LSTM) framework to advance our understanding of community assembly and health-relevant metabolite production using a synthetic human gut community. A mainstay of recurrent neural networks, the LSTM learns a high dimensional data-driven non-linear dynamical system model. We show that the LSTM model can outperform the widely used generalized Lotka-Volterra model based on ecological theory. We build methods to decipher microbe-microbe and microbe-metabolite interactions from an otherwise black-box model. These methods highlight that Actinobacteria, Firmicutes and Proteobacteria are significant drivers of metabolite production whereas Bacteroides shape community dynamics. We use the LSTM model to navigate a large multidimensional functional landscape to design communities with unique health-relevant metabolite profiles and temporal behaviors. In sum, the accuracy of the LSTM model can be exploited for experimental planning and to guide the design of synthetic microbiomes with target dynamic functions.
+
+[Source](https://doi.org/10.7554/eLife.73870)
+
+10.7554/eLife.73870
 
 ---
 
