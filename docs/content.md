@@ -11,9 +11,10 @@ Cells of most bacterial species are around 2 micrometers in length, with some of
 ---
 
 ## Filamentous bacteriophage delays healing of Pseudomonas-infected wounds.
- 22.06.2022, _MS Bach, CR de Vries, A Khosravi, JM Sweere, MC Popescu, Q Chen, S Demirdjian, A Hargil, JD Van Belleghem, G Kaber, M Hajfathalian, EB Burgener, D Liu, QL Tran, T Dharmaraj, M Birukova, V Sunkari, S Balaji, N Ghosh, SS Mathew-Steiner, MS El Masry, SG Keswani, N Banaei, L Nedelec, CK Sen, V Chandra, PR Secor, GA Suh, PL Bollyky_
+ 24.06.2022, _MS Bach, CR de Vries, A Khosravi, JM Sweere, MC Popescu, Q Chen, S Demirdjian, A Hargil, JD Van Belleghem, G Kaber, M Hajfathalian, EB Burgener, D Liu, QL Tran, T Dharmaraj, M Birukova, V Sunkari, S Balaji, N Ghosh, SS Mathew-Steiner, MS El Masry, SG Keswani, N Banaei, L Nedelec, CK Sen, V Chandra, PR Secor, GA Suh, PL Bollyky_
 
 
+_Animals, Biofilms, Humans, Inovirus, Mammals, Prospective Studies, Pseudomonas, Pseudomonas Infections, Pseudomonas aeruginosa, Wound Healing, Wound Infection_
 Chronic wounds infected by Pseudomonas aeruginosa (Pa) are characterized by disease progression and increased mortality. We reveal Pf, a bacteriophage produced by Pa that delays healing of chronically infected wounds in human subjects and animal models of disease. Interestingly, impairment of wound closure by Pf is independent of its effects on Pa pathogenesis. Rather, Pf impedes keratinocyte migration, which is essential for wound healing, through direct inhibition of CXCL1 signaling. In support of these findings, a prospective cohort study of 36 human patients with chronic Pa wound infections reveals that wounds infected with Pf-positive strains of Pa are more likely to progress in size compared with wounds infected with Pf-negative strains. Together, these data implicate Pf phage in the delayed wound healing associated with Pa infection through direct manipulation of mammalian cells. These findings suggest Pf may have potential as a biomarker and therapeutic target in chronic wounds.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00188-4)
@@ -91,9 +92,10 @@ The gut microbiome elicits antigen-specific immunoglobulin G (IgG) at steady sta
 ---
 
 ## Time for better time-restricted eating trials to lessen the burden of metabolic diseases.
- 22.06.2022, _PR Taub, S Panda_
+ 24.06.2022, _PR Taub, S Panda_
 
 
+_Humans, Metabolic Diseases, Nutritional Status_
 Optimizing the quality, quantity, and timing of nutrition holds immense potential to improve health and prevent disease. The results of a recent randomized controlled trial1 have been widely misrepresented with the incorrect interpretation that optimizing the timing of food intake imparts no health benefits.
 
 [Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00197-5)
