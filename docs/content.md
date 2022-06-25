@@ -104,15 +104,15 @@ Optimizing the quality, quantity, and timing of nutrition holds immense potentia
 
 ---
 
-## MOG encephalomyelitis after vaccination against severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2): case report and comprehensive review of the literature.
- 23.06.2022, _S Jarius, N Bieber, J Haas, B Wildemann_
+## TMED3 Complex Mediates ER Stress-Associated Secretion of CFTR, Pendrin, and SARS-CoV-2 Spike.
+ 24.06.2022, _H Park, SK Seo, JR Sim, SJ Hwang, YJ Kim, DH Shin, DG Jang, SH Noh, PG Park, SH Ko, MH Shin, JY Choi, Y Ito, CM Kang, JM Lee, MG Lee_
 
 
-In around 20% of cases, myelin oligodendrocyte glycoprotein (MOG) immunoglobulin (IgG)-associated encephalomyelitis (MOG-EM; also termed MOG antibody-associated disease, MOGAD) first occurs in a postinfectious or postvaccinal setting.
+Under ER stress conditions, the ER form of transmembrane proteins can reach the plasma membrane via a Golgi-independent unconventional protein secretion (UPS) pathway. However, the targeting mechanisms of membrane proteins for UPS are unknown. Here, this study reports that TMED proteins play a critical role in the ER stress-associated UPS of transmembrane proteins. The gene silencing results reveal that TMED2, TMED3, TMED9 and TMED10 are involved in the UPS of transmembrane proteins, such as CFTR, pendrin and SARS-CoV-2 Spike. Subsequent mechanistic analyses indicate that TMED3 recognizes the ER core-glycosylated protein cargos and that the heteromeric TMED2/3/9/10 complex mediates their UPS. Co-expression of all four TMEDs improves, while each single expression reduces, the UPS and ion transport function of trafficking-deficient ΔF508-CFTR and p.H723R-pendrin, which cause cystic fibrosis and Pendred syndrome, respectively. In contrast, TMED2/3/9/10 silencing reduces SARS-CoV-2 viral release. These results provide evidence for a common role of TMED3 and related TMEDs in the ER stress-associated, Golgi-independent secretion of transmembrane proteins.
 
 [Source](https://www.cell.com/immunity/fulltext/S1074-7613(22)00286-2)
 
-10.1007/s00415-022-11194-9
+10.1002/advs.202105320
 
 ---
 
