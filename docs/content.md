@@ -1,7 +1,8 @@
 ## Microbiome-associated human genetic variants impact phenome-wide disease risk.
- 27.06.2022, _RHG Markowitz, AL LaBella, M Shi, A Rokas, JA Capra, JF Ferguson, JD Mosley, SR Bordenstein_
+ 28.06.2022, _RHG Markowitz, AL LaBella, M Shi, A Rokas, JA Capra, JF Ferguson, JD Mosley, SR Bordenstein_
 
 
+_Gastrointestinal Microbiome, Human Genetics, Humans, Microbiota, Phenomics, Phenotype_
 Human genetic variation associates with the composition of the gut microbiome, yet its influence on clinical traits remains largely unknown. We analyzed the consequences of nearly a thousand gut microbiome-associated variants (MAVs) on phenotypes reported in electronic health records from tens of thousands of individuals. We discovered and replicated associations of MAVs with neurological, metabolic, digestive, and circulatory diseases. Five significant MAVs in these categories correlate with the relative abundance of microbes down to the strain level. We also demonstrate that these relationships are independently observed and concordant with microbe by disease associations reported in case-control studies. Moreover, a selective sweep and population differentiation impacted some disease-linked MAVs. Combined, these findings establish triad relationships among the human genome, microbiome, and disease. Consequently, human genetic influences may offer opportunities for precision diagnostics of microbiome-associated diseases but also highlight the relevance of genetic background for microbiome modulation and therapeutics.
 
 [Source](https://doi.org/10.1073/pnas.2200551119)
@@ -48,10 +49,10 @@ The metabolism of bile acids (BAs) by gut bacteria plays an important role in hu
 ---
 
 ## Characteristics and interplay of esophageal microbiota in esophageal squamous cell carcinoma.
- 27.06.2022, _Z Lin, W Rao, Z Xiang, Q Zeng, S Liu, K Yu, J Zhou, J Wang, W Chen, Y Chen, X Peng, Z Hu_
+ 28.06.2022, _Z Lin, W Rao, Z Xiang, Q Zeng, S Liu, K Yu, J Zhou, J Wang, W Chen, Y Chen, X Peng, Z Hu_
 
 
-_Carcinoma, Squamous Cell, Cell Line, Tumor, Cell Proliferation, Esophageal Neoplasms, Esophageal Squamous Cell Carcinoma, Gene Expression Regulation, Neoplastic, Humans, Microbiota, Phylogeny, Receptor, ErbB-2, Tumor Microenvironment_
+_Cell Line, Tumor, Cell Proliferation, Esophageal Neoplasms, Esophageal Squamous Cell Carcinoma, Gene Expression Regulation, Neoplastic, Humans, Microbiota, Phylogeny, Receptor, ErbB-2, Tumor Microenvironment_
 Esophageal microbiota may influence esophageal squamous cell carcinoma (ESCC) pathobiology. Therefore, we investigated the characteristics and interplay of the esophageal microbiota in ESCC.
 
 [Source](https://doi.org/10.1186/s12885-022-09771-2)
