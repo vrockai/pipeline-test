@@ -158,7 +158,7 @@ Herbivorous insects acquire their gut microbiota from diverse sources, and these
 ---
 
 ## A genome and gene catalog of glacier microbiomes.
- 27.06.2022, _Y Liu, M Ji, T Yu, J Zaugg, AM Anesio, Z Zhang, S Hu, P Hugenholtz, K Liu, P Liu, Y Chen, Y Luo, T Yao_
+ 29.06.2022, _Y Liu, M Ji, T Yu, J Zaugg, AM Anesio, Z Zhang, S Hu, P Hugenholtz, K Liu, P Liu, Y Chen, Y Luo, T Yao_
 
 
 Glaciers represent a unique inventory of microbial genetic diversity and a record of evolution. The Tibetan Plateau contains the largest area of low-latitude glaciers and is particularly vulnerable to global warming. By sequencing 85 metagenomes and 883 cultured isolates from 21 Tibetan glaciers covering snow, ice and cryoconite habitats, we present a specialized glacier microbial genome and gene catalog to archive glacial genomic and functional diversity. This comprehensive Tibetan Glacier Genome and Gene (TG2G) catalog includes 883 genomes and 2,358 metagenome-assembled genomes, which represent 968 candidate species spanning 30 phyla. The catalog also contains over 25 million non-redundant protein-encoding genes, the utility of which is demonstrated by the exploration of secondary metabolite biosynthetic potentials, virulence factor identification and global glacier metagenome comparison. The TG2G catalog is a valuable resource that enables enhanced understanding of the structure and functions of Tibetan glacial microbiomes.
