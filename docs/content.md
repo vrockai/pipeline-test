@@ -78,7 +78,7 @@ The gut microbiome regulates various metabolic pathways in the host and its dysb
 ---
 
 ## Functional changes of the gastric bypass microbiota reactivate thermogenic adipose tissue and systemic glucose control via intestinal FXR-TGR5 crosstalk in diet-induced obesity.
- 27.06.2022, _J Münzker, N Haase, A Till, R Sucher, SB Haange, L Nemetschke, T Gnad, E Jäger, J Chen, SJ Riede, R Chakaroun, L Massier, P Kovacs, M Ost, U Rolle-Kampczyk, N Jehmlich, J Weiner, JT Heiker, N Klöting, G Seeger, M Morawski, V Keitel, A Pfeifer, M von Bergen, J Heeren, U Krügel, WK Fenske_
+ 29.06.2022, _J Münzker, N Haase, A Till, R Sucher, SB Haange, L Nemetschke, T Gnad, E Jäger, J Chen, SJ Riede, R Chakaroun, L Massier, P Kovacs, M Ost, U Rolle-Kampczyk, N Jehmlich, J Weiner, JT Heiker, N Klöting, G Seeger, M Morawski, V Keitel, A Pfeifer, M von Bergen, J Heeren, U Krügel, WK Fenske_
 
 
 _Adipose Tissue, Animals, Bile Acids and Salts, Blood Glucose, Diabetes Mellitus, Type 2, Diet, Gastric Bypass, Microbiota, Obesity, Rats, Receptors, G-Protein-Coupled, Taurine, Thermogenesis_
@@ -121,7 +121,7 @@ Cumulative studies have utilized high-throughput sequencing of the 16SrRNA gene 
 ---
 
 ## Soil-derived bacteria endow Camellia weevil with more ability to resist plant chemical defense.
- 28.06.2022, _S Zhang, Z Li, J Shu, H Xue, K Guo, X Zhou_
+ 29.06.2022, _S Zhang, Z Li, J Shu, H Xue, K Guo, X Zhou_
 
 
 _Animals, Bacteria, Camellia, Insecta, Saponins, Soil, Weevils_
@@ -146,10 +146,10 @@ Glaciers represent a unique inventory of microbial genetic diversity and a recor
 ---
 
 ## Large Scale Genome-Centric Metagenomic Data from the Gut Microbiome of Food-Producing Animals and Humans.
- 28.06.2022, _LN Lemos, FM de Carvalho, FF Santos, TB Valiatti, DC Corsi, AC de Oliveira Silveira, A Gerber, APC Guimarães, C de Oliveira Souza, DM Brasiliense, DSC Maia Castelo-Branco, EK Anzai, FO Bessa-Neto, GM de Melo, GH de Souza, LFC Ferraz, M de Nazaré Miranda Bahia, MS Mattos, RGB da Silva, R Veiga, S Simionatto, WAP Monteiro, WA de Oliveira Lima, CRV Kiffer, R Cayô, AC Gales, ATR de Vasconcelos_
+ 29.06.2022, _LN Lemos, FM de Carvalho, FF Santos, TB Valiatti, DC Corsi, AC de Oliveira Silveira, A Gerber, APC Guimarães, C de Oliveira Souza, DM Brasiliense, DSC Maia Castelo-Branco, EK Anzai, FO Bessa-Neto, GM de Melo, GH de Souza, LFC Ferraz, M de Nazaré Miranda Bahia, MS Mattos, RGB da Silva, R Veiga, S Simionatto, WAP Monteiro, WA de Oliveira Lima, CRV Kiffer, R Cayô, AC Gales, ATR de Vasconcelos_
 
 
-_Animals, Archaea, Cattle, Gastrointestinal Microbiome, Humans, Metagenome, Metagenomics, Pilot Projects, Swine_
+_Animals, Archaea, Bacteria, Cattle, Gastrointestinal Microbiome, Humans, Metagenome, Metagenomics, Swine_
 The One Health concept is a global strategy to study the relationship between human and animal health and the transfer of pathogenic and non-pathogenic species between these systems. However, to the best of our knowledge, no data based on One Health genome-centric metagenomics are available in public repositories. Here, we present a dataset based on a pilot-study of 2,915 metagenome-assembled genomes (MAGs) of 107 samples from the human (N = 34), cattle (N = 28), swine (N = 15) and poultry (N = 30) gut microbiomes. Samples were collected from the five Brazilian geographical regions. Of the draft genomes, 1,273 were high-quality drafts (≥90% of completeness and ≤5% of contamination), and 1,642 were medium-quality drafts (≥50% of completeness and ≤10% of contamination). Taxonomic predictions were based on the alignment and concatenation of single-marker genes, and the most representative phyla were Bacteroidota, Firmicutes, and Proteobacteria. Many of these species represent potential pathogens that have already been described or potential new families, genera, and species with potential biotechnological applications. Analyses of this dataset will highlight discoveries about the ecology and functional role of pathogens and uncultivated Archaea and Bacteria from food-producing animals and humans. Furthermore, it also represents an opportunity to describe new species from underrepresented taxonomic groups.
 
 [Source](https://www.nature.com/articles/s41597-022-01465-5)
