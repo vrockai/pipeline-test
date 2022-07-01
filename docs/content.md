@@ -1,205 +1,96 @@
-## Microbial Tracking-2, a metagenomics analysis of bacteria and fungi onboard the International Space Station.
- 30.06.2022, _C Urbaniak, MD Morrison, JB Thissen, F Karouia, DJ Smith, S Mehta, C Jaing, K Venkateswaran_
+## Assessment of disinfectant efficacy in reducing microbial growth.
+ 29.06.2022, _AA Alajlan, LE Mukhtar, AS Almussallam, AM Alnuqaydan, NS Albakiri, TF Almutari, KM Bin Shehail, FS Aldawsari, SM Alajel_
 
 
-_Bacteria, Humans, Malassezia, Metagenome, Metagenomics, Microbiota_
-The International Space Station (ISS) is a unique and complex built environment with the ISS surface microbiome originating from crew and cargo or from life support recirculation in an almost entirely closed system. The Microbial Tracking 1 (MT-1) project was the first ISS environmental surface study to report on the metagenome profiles without using whole-genome amplification. The study surveyed the microbial communities from eight surfaces over a 14-month period. The Microbial Tracking 2 (MT-2) project aimed to continue the work of MT-1, sampling an additional four flights from the same locations, over another 14 months.
+_COVID-19, Chlorhexidine, Disinfectants, Escherichia coli, Hand Sanitizers, Humans, Sterilization_
+The incidence of hospital- and community-acquired infections has been dramatically increased worldwide. Accordingly, hands hygiene and the use of disinfectants have been increased leading to the expansion in hand sanitizers production to meet public demand. This study was conducted to assess the efficiency of common disinfectants in the market of Riyadh, Saudi Arabia in inhibiting the microbial growth during the time of Coronavirus disease 2019 (COVID-19) pandemic. Five bacterial strains of commonly hospital-acquired infections (Pseudomonas aeruginosa, Escherichia coli, Salmonella enteritidis, Staphylococcus aureus, and Enterococcus faecalis) (ATCC reference strains and clinical isolates) were examined for their susceptibility against 18 disinfectants collected from the Saudi market. The tested 18 disinfectants were broadly clustered into different groups based on their active chemical composition as following: 12 products contained alcohol, 2 products had chlorhexidine, 3 products contained mixed concentration of alcohol/chlorhexidine and 1 product had a mixture of chlorhexidine/Hexamidine/Chlorocresol. By measuring the minimum inhibitory concentration (MIC) and the minimum bactericidal concentration (MBC), our results revealed that all the 18 disinfectants have reduced the microbial growth of all the tested strains. Generally, the MICs and the MBCs for the clinical strains are higher than those of the reference strains. Taken together, our findings showed that all tested products have high disinfectants' killing rate against microbes of different origins, which suggest the high quality of these disinfectants and the good surveillance practice by the local authorities in Saudi Arabia.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01293-0)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269850)
 
-10.1186/s40168-022-01293-0
-
----
-
-## Engineering the human gut commensal Bacteroides thetaiotaomicron with synthetic biology.
- 27.06.2022, _Y Lai, N Hayashi, TK Lu_
-
-
-The role of the microbiome in health and disease is attracting the attention of researchers seeking to engineer microorganisms for diagnostic and therapeutic applications. Recent progress in synthetic biology may enable the dissection of host-microbiota interactions. Sophisticated genetic circuits that can sense, compute, memorize, and respond to signals have been developed for the stable commensal bacterium Bacteroides thetaiotaomicron, dominant in the human gut. In this review, we highlight recent advances in expanding the genetic toolkit for B. thetaiotaomicron and foresee several applications of this species for microbiome engineering. We provide our perspective on the challenges and future opportunities for the engineering of human gut-associated bacteria as living therapeutic agents.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1367593122000631)
-
-10.1016/j.cbpa.2022.102178
+10.1371/journal.pone.0269850
 
 ---
 
-## Factors shaping the abundance and diversity of the gut archaeome across the animal kingdom.
- 14.06.2022, _CM Thomas, E Desmond-Le Quéméner, S Gribaldo, G Borrel_
+## Metagenomic analysis of the gut microbiota in piglets either challenged or not with enterotoxigenic Escherichia coli reveals beneficial effects of probiotics on microbiome composition, resistome, digestive function and oxidative stress responses.
+ 28.06.2022, _P Apiwatsiri, P Pupa, W Sirichokchatchawan, V Sawaswong, P Nimsamer, S Payungporn, DJ Hampson, N Prapasarakul_
 
 
-_Animals, Archaea, Bacteria, Dietary Fiber, Euryarchaeota, Mammals, Methanobacteriaceae, Methanobrevibacter, Phylogeny, RNA, Ribosomal, 16S_
-Archaea are common constituents of the gut microbiome of humans, ruminants, and termites but little is known about their diversity and abundance in other animals. Here, we analyse sequencing and quantification data of archaeal and bacterial 16S rRNA genes from 250 species of animals covering a large taxonomic spectrum. We detect the presence of archaea in 175 animal species belonging to invertebrates, fish, amphibians, birds, reptiles and mammals. We identify five dominant gut lineages, corresponding to Methanobrevibacter, Methanosphaera, Methanocorpusculum, Methanimicrococcus and "Ca. Methanomethylophilaceae". Some archaeal clades, notably within Methanobrevibacter, are associated to certain hosts, suggesting specific adaptations. The non-methanogenic lineage Nitrososphaeraceae (Thaumarchaeota) is frequently present in animal samples, although at low abundance, but may have also adapted to the gut environment. Host phylogeny, diet type, fibre content, and intestinal tract physiology are major drivers of the diversity and abundance of the archaeome in mammals. The overall abundance of archaea is more influenced by these factors than that of bacteria. Methanogens reducing methyl-compounds with H2 can represent an important fraction of the overall methanogens in many animals. Together with CO2-reducing methanogens, they are influenced by diet and composition of gut bacteria. Our results provide key elements toward our understanding of the ecology of archaea in the gut, an emerging and important field of investigation.
+_Animals, Enterotoxigenic Escherichia coli, Escherichia coli Infections, Gastrointestinal Microbiome, Microbiota, Oxidative Stress, Probiotics, Swine, Swine Diseases, Weaning_
+This study used metagenomic analysis to investigate the gut microbiota and resistome in piglets that were or were not challenged with enterotoxigenic Escherichia coli (ETEC) and had or had not received dietary supplementation with microencapsulated probiotics. The 72 piglets belonged to six groups that were either non-ETEC challenged (groups 1-3) or ETEC challenged (receiving 5ml of 109 CFU/ml pathogenic ETEC strain L3.2 one week following weaning at three weeks of age: groups 4-6). On five occasions at 2, 5, 8, 11, and 14 days of piglet age, groups 2 and 5 were supplemented with 109 CFU/ml of multi-strain probiotics (Lactiplantibacillus plantarum strains 22F and 25F, and Pediococcus acidilactici 72N) while group 4 received 109 CFU/ml of P. acidilactici 72N. Group 3 received 300mg/kg chlortetracycline in the weaner diet to mimic commercial conditions. Rectal faecal samples were obtained for metagenomic and resistome analysis at 2 days of age, and at 12 hours and 14 days after the timing of post-weaning challenge with ETEC. The piglets were all euthanized at 42 days of age. The piglets in groups 2 and 5 were enriched with several desirable microbial families, including Lactobacillaceae, Lachnospiraceae and Ruminococcaceae, while piglets in group 3 had increases in members of the Bacteroidaceae family and exhibited an increase in tetW and tetQ genes. Group 5 had less copper and multi-biocide resistance. Mobile genetic elements IncQ1 and IncX4 were the most prevalent replicons in antibiotic-fed piglets. Only groups 6 and 3 had the integrase gene (intl) class 2 and 3 detected, respectively. The insertion sequence (IS) 1380 was prevalent in group 3. IS3 and IS30, which are connected to dietary intake, were overrepresented in group 5. Furthermore, only group 5 showed genes associated with detoxification, with enrichment of genes associated with oxidative stress, glucose metabolism, and amino acid metabolism compared to the other groups. Overall, metagenomic analysis showed that employing a multi-strain probiotic could transform the gut microbiota, reduce the resistome, and boost genes associated with food metabolism.
 
-[Source](https://www.nature.com/articles/s41467-022-31038-4)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269959#sec002)
 
-10.1038/s41467-022-31038-4
-
----
-
-## Increase in Bifidobacterium is a characteristic of the difference in the salivary microbiota of pregnant and non-pregnant women.
- 30.06.2022, _S Kato, T Nagasawa, O Uehara, S Shimizu, N Sugiyama, K Hasegawa-Nakamura, K Noguchi, M Hatae, H Kakinoki, Y Furuichi_
-
-
-_Bifidobacterium, Estradiol, Female, Humans, Microbiota, Pregnancy, Progesterone, Saliva_
-The establishment of symbiotic microbiota in pregnant women is important for both the mother and her offspring. Little is known about the salivary symbiotic bacteria in pregnancy, and analysis of composition of microbiome (ANCOM) is useful to detect small differences in the number of bacteria. The aim of this study was to investigate the differences in the salivary bacteria between healthy pregnant and non-pregnant women using ANCOM.
-
-[Source](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-022-02293-0)
-
-10.1186/s12903-022-02293-0
+10.1371/journal.pone.0269959
 
 ---
 
-## Concordance of Urinary Microbiota Detected by 16S rRNA Amplicon Sequencing Versus Expanded Quantitative Urine Culture.
- 28.06.2022, _MH Vaughan, GE Zemtsov, EM Dahl, L Karstens, L Ma, NY Siddiqui_
+## Phylogenetic diversity analysis of shotgun metagenomic reads describes gut microbiome development and treatment effects in the post-weaned pig.
+ 28.06.2022, _D Gaio, MZ DeMaere, K Anantanawat, GJ Eamens, L Falconer, TA Chapman, S Djordjevic, AE Darling_
 
 
+_Animals, Anti-Bacterial Agents, Dysbiosis, Female, Gastrointestinal Microbiome, Microbiota, Phylogeny, Probiotics, Swine, Weaning_
+Intensive farming practices can increase exposure of animals to infectious agents against which antibiotics are used. Orally administered antibiotics are well known to cause dysbiosis. To counteract dysbiotic effects, numerous studies in the past two decades sought to understand whether probiotics are a valid tool to help re-establish a healthy gut microbial community after antibiotic treatment. Although dysbiotic effects of antibiotics are well investigated, little is known about the effects of intramuscular antibiotic treatment on the gut microbiome and a few studies attempted to study treatment effects using phylogenetic diversity analysis techniques. In this study we sought to determine the effects of two probiotic- and one intramuscularly administered antibiotic treatment on the developing gut microbiome of post-weaning piglets between their 3rd and 9th week of life. Shotgun metagenomic sequences from over 800 faecal time-series samples derived from 126 post-weaning piglets and 42 sows were analysed in a phylogenetic framework. Differences between individual hosts such as breed, litter, and age, were found to be important contributors to variation in the community composition. Host age was the dominant factor in shaping the gut microbiota of piglets after weaning. The post-weaning pig gut microbiome appeared to follow a highly structured developmental program with characteristic post-weaning changes that can distinguish hosts that were born as little as two days apart in the second month of life. Treatment effects of the antibiotic and probiotic treatments were found but were subtle and included a higher representation of Mollicutes associated with intramuscular antibiotic treatment, and an increase of Lactobacillus associated with probiotic treatment. The discovery of correlations between experimental factors and microbial community composition is more commonly addressed with OTU-based methods and rarely analysed via phylogenetic diversity measures. The latter method, although less intuitive than the former, suffers less from library size normalization biases, and it proved to be instrumental in this study for the discovery of correlations between microbiome composition and host-, and treatment factors.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0002937822004859)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270372#sec002)
 
-10.1016/j.ajog.2022.06.031
-
----
-
-## Dietary variety relates to gut microbiota diversity and abundance in humans.
- 28.06.2022, _X Huang, Y Gao, W Chen, Q Hu, Z He, X Wang, D Li, R Lin_
-
-
-We aim to investigate the relationship between gut microbiota and dietary variety in a Chinese population using Dietary Variety Score (DVS), an index of dietary variety, as little has studied the relationship of dietary variety and gut microbiota in a general population.
-
-[Source](https://link.springer.com/article/10.1007/s00394-022-02929-5)
-
-10.1007/s00394-022-02929-5
+10.1371/journal.pone.0270372
 
 ---
 
-## The gut microbiota composition in patients with right- and left-sided colorectal cancer and after curative colectomy, as analyzed by 16S rRNA gene amplicon sequencing.
- 28.06.2022, _D Suga, H Mizutani, S Fukui, M Kobayashi, Y Shimada, Y Nakazawa, Y Nishiura, Y Kawasaki, I Moritani, Y Yamanaka, H Inoue, E Ojima, Y Mohri, H Nakagawa, K Dohi, K Takaba, H Wada, K Shiraki_
+## Using axenic and gnotobiotic insects to examine the role of different microbes on the development and reproduction of the kissing bug <em>Rhodnius prolixus</em> (Hemiptera: Reduviidae)
 
-
-_Carcinoma, Renal Cell, Colectomy, Colonic Neoplasms, Colorectal Neoplasms, Gastrointestinal Microbiome, Genes, rRNA, Humans, Kidney Neoplasms, RNA, Ribosomal, 16S_
-Gut pathological microbial imbalance or dysbiosis is closely associated with colorectal cancer. Although there are observable differences in molecular and clinical characteristics between patients with right- and left-sided colon cancer, differences in their gut microbiomes have not been thoroughly investigated. Furthermore, subsequent changes in microbiota status after partial colectomy remain unknown. We examined the human gut microbiota composition to determine its relationship with colon cancer and partial colon resection according to location.
-
-[Source](https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-022-02382-y)
-
-10.1186/s12876-022-02382-y
+[Source](https://www.biorxiv.org/content/10.1101/2022.06.29.497934v1.abstract?%3Fcollection=)
 
 ---
 
-## Long-Term Dietary Effects on Human Gut Microbiota Composition Employing Shotgun Metagenomics Data Analysis.
- 27.06.2022, _A Troci, P Rausch, S Waschina, W Lieb, A Franke, C Bang_
+## MicNet toolbox: Visualizing and unraveling a microbial network.
+ 28.06.2022, _N Favila, D Madrigal-Trejo, D Legorreta, J Sánchez-Pérez, L Espinosa-Asuar, LE Eguiarte, V Souza_
 
 
-The gut microbiome regulates various metabolic pathways in the host and its dysbiosis is involved in the pathogenesis of diverse diseases. Multiple factors modulate the composition of the microbiome and how it physiologically functions, but one of the major factors triggering gut microbiome establishment is diet. We aim to unravel interactions and changes between diet and gut microbiome over a period of 3 years.
+_Cluster Analysis, Computational Biology, Microbial Consortia, Microbiota, Software_
+Applications of network theory to microbial ecology are an emerging and promising approach to understanding both global and local patterns in the structure and interplay of these microbial communities. In this paper, we present an open-source python toolbox which consists of two modules: on one hand, we introduce a visualization module that incorporates the use of UMAP, a dimensionality reduction technique that focuses on local patterns, and HDBSCAN, a clustering technique based on density; on the other hand, we have included a module that runs an enhanced version of the SparCC code, sustaining larger datasets than before, and we couple the resulting networks with network theory analyses to describe the resulting co-occurrence networks, including several novel analyses, such as structural balance metrics and a proposal to discover the underlying topology of a co-occurrence network. We validated the proposed toolbox on 1) a simple and well described biological network of kombucha, consisting of 48 ASVs, and 2) we validate the improvements of our new version of SparCC. Finally, we showcase the use of the MicNet toolbox on a large dataset from Archean Domes, consisting of more than 2,000 ASVs. Our toolbox is freely available as a github repository (https://github.com/Labevo/MicNetToolbox), and it is accompanied by a web dashboard (http://micnetapplb-1212130533.us-east-1.elb.amazonaws.com) that can be used in a simple and straightforward manner with relative abundance data. This easy-to-use implementation is aimed to microbial ecologists with little to no experience in programming, while the most experienced bioinformatics will also be able to manipulate the source code's functions with ease.
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/mnfr.202101098)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259756)
 
-10.1002/mnfr.202101098
-
----
-
-## Functional changes of the gastric bypass microbiota reactivate thermogenic adipose tissue and systemic glucose control via intestinal FXR-TGR5 crosstalk in diet-induced obesity.
- 29.06.2022, _J Münzker, N Haase, A Till, R Sucher, SB Haange, L Nemetschke, T Gnad, E Jäger, J Chen, SJ Riede, R Chakaroun, L Massier, P Kovacs, M Ost, U Rolle-Kampczyk, N Jehmlich, J Weiner, JT Heiker, N Klöting, G Seeger, M Morawski, V Keitel, A Pfeifer, M von Bergen, J Heeren, U Krügel, WK Fenske_
-
-
-_Adipose Tissue, Animals, Bile Acids and Salts, Blood Glucose, Diabetes Mellitus, Type 2, Diet, Gastric Bypass, Microbiota, Obesity, Rats, Receptors, G-Protein-Coupled, Taurine, Thermogenesis_
-Bariatric surgery remains the most effective therapy for adiposity reduction and remission of type 2 diabetes. Although different bariatric procedures associate with pronounced shifts in the gut microbiota, their functional role in the regulation of energetic and metabolic benefits achieved with the surgery are not clear.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01264-5)
-
-10.1186/s40168-022-01264-5
+10.1371/journal.pone.0259756
 
 ---
 
-## Perinatal transmission of a probiotic Bifidobacterium strain protects against early life stress-induced mood and gastrointestinal motility disorders.
- 28.06.2022, _H Zhu, P Tian, X Qian, L Gu, J Zhao, G Wang, W Chen_
+## Evaluating the impact of sample storage, handling, and technical ability on the decay and recovery of SARS-CoV-2 in wastewater.
+ 28.06.2022, _RE Beattie, AD Blackwood, T Clerkin, C Dinga, RT Noble_
 
 
-Early life stress can considerably interfere in gut microbiome formation and nervous system development. Specific probiotic strains have been proved to exert anti-stress effects by modulating the gut-brain axis. However, little is known about whether probiotic treatment during pregnancy can protect the offspring from early life stress. In this study, Bifidobacterium breve CCFM1025, previously proven to exert microbial and neurobiological regulation effects, was given to pregnant mice. The offspring's gut and brain functions were evaluated when challenged with maternal separation. Intriguingly, treatment with probiotics during pregnancy protected the offspring from maternal separation-induced neurobiological and gastrointestinal disorders such as depression-like behaviour and delayed defecation. Quantification of CCFM1025 was performed, and perinatal transmission of CCFM1025 was further validated, which also explained the reason for increased levels of colonic 5-hydroxytryptamine and caecal short-chain fatty acids in the offspring. Our findings indicated that the effects of probiotics can be perinatally transmitted through gut microbes and that probiotic treatment during pregnancy may have great potential in managing health risks in early life.
+_COVID-19, Humans, Pandemics, RNA, Viral, SARS-CoV-2, Waste Water, Wastewater-Based Epidemiological Monitoring_
+Wastewater based epidemiology (WBE) is useful for tracking and monitoring the level of disease prevalence in a community and has been used extensively to complement clinical testing during the current COVID-19 pandemic. Despite the numerous benefits, sources of variability in sample storage, handling, and processing methods can make WBE data difficult to generalize. We performed an experiment to determine sources of variability in WBE data including the impact of storage time, handling, and processing techniques on the concentration of SARS-CoV-2 in wastewater influent from three wastewater treatment plants (WWTP) in North Carolina over 19 days. The SARS-CoV-2 concentration in influent samples held at 4°C did not degrade significantly over the 19-day experiment. Heat pasteurization did not significantly impact the concentration of SARS-CoV-2 at two of the three WWTP but did reduce viral recovery at the WWTP with the smallest population size served. On each processing date, one filter from each sample was processed immediately while a replicate filter was frozen at -80°C. Once processed, filters previously frozen were found to contain slightly higher concentrations (&lt;0.2 log copies/L) than their immediately processed counterparts, indicating freezing filters is a viable method for delayed quantification and may even improve recovery at WWTP with low viral concentrations. Investigation of factors contributing to variability during sample processing indicated that analyst experience level contributed significantly (p&lt;0.001) to accepted droplet generation while extraction efficiency and reverse transcription efficiency contributed significantly (p&lt;0.05) to day-to-day SARS-CoV-2 variability. This study provides valuable practical information for minimizing decay and/or loss of SARS CoV-2 in wastewater influent while adhering to safety procedures, promoting efficient laboratory workflows, and accounting for sources of variability.
 
-[Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D2FO01164F)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270659)
 
-10.1039/d2fo01164f
-
----
-
-## Leveraging Existing 16SrRNA Microbial Data to Define a Composite Biomarker for Autism Spectrum Disorder.
- 28.06.2022, _Y Xu, Y Wang, J Xu, Y Song, B Liu, Z Xiong_
-
-
-Cumulative studies have utilized high-throughput sequencing of the 16SrRNA gene to characterize the composition and structure of the microbiota in autism spectrum disorder (ASD). However, they do not always obtain consistent results; thus, conducting cross-study comparisons is necessary. This study sought to analyze the alteration of fecal microbiota and the diagnostic capabilities of gut microbiota biomarkers in individuals with ASD using the existing 16SrRNA microbial data and explore heterogeneity among studies. The raw sequence and metadata from 10 studies, including 1,019 samples, were reanalyzed. Results showed no significant difference in alpha diversity of fecal microbiota between ASD and the control group. However, a significant difference in the composition structure of fecal microbiota was observed. Given the large differences in sample selection and technical differences, the separation of fecal microbiota between ASD and controls was not observed. Subgroup analysis was performed on the basis of different country of origin, hypervariable regions, and sequencing platforms, and the dominant genera in ASD and healthy control groups were determined by linear discriminant analysis (LDA) of the effect size (LEfSe) algorithm and Wilcoxon rank-sum test. Machine learning analyses were carried out to determine the diagnostic capabilities of potential microbial biomarkers. A total of 12 genera were identified to distinguish ASD from control, and the AUC of the training set and verification set was 0.757 and 0.761, respectively. Despite cohort heterogeneity, gut microbial dysbiosis of ASD has been proven to be a widespread phenomenon. Therefore, fecal microbial markers are of great significance in diagnosing ASD diseases and possible candidates for further mechanistic study of the role of intestinal microbiota in ASD. IMPORTANCE This study provides an updated analysis to characterize the gut microbiota in ASD using 16SrRNA gene high-throughput sequencing data from 10 publicly available studies. Our analysis suggests an association between the fecal microbiota and ASD. Sample selection and technical differences between studies may interfere with the species composition analysis of the ASD group and control group. By summarizing the results of 16SrRNA gene sequencing from multiple fecal samples, we can provide evidence to support the use of microbial biomarkers to diagnose the occurrence of ASD. Our study provides a new perspective for further revealing the correlation between gut microbiota and ASD from the perspective of 16SrRNA sequencing in larger samples.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.00331-22)
-
-10.1128/spectrum.00331-22
+10.1371/journal.pone.0270659
 
 ---
 
-## Gut microbiome of century-old snail specimens stable across time in preservation.
- 30.06.2022, _BN Chalifour, LE Elder, J Li_
+## NPR’s Short Wave Podcast: Let’s Get Crafty With Agar Art
 
-
-_Animals, Food, Gastrointestinal Microbiome, Microbiota, RNA, Ribosomal, 16S, Snails_
-Museum biological specimens provide a unique means of gathering ecological information that spans wide temporal ranges. Museum specimens can also provide information on the microbial communities that persist within the host specimen. Together, these provide researchers valuable opportunities to study long-term trends and mechanisms of microbial community change. The effects of decades-long museum preservation on host-microbial communities have not been systematically assessed. The University of Colorado's Museum of Natural History has densely sampled Oreohelix strigosa (Rocky Mountainsnail) for the past century; many are preserved in ethanol, which provides an excellent opportunity to explore how the microbiome changes across time in preservation.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01286-z)
-
-10.1186/s40168-022-01286-z
+[Source](https://www.npr.org/2022/06/22/1106686014/lets-get-crafty-with-agar-art)
 
 ---
 
-## Soil-derived bacteria endow Camellia weevil with more ability to resist plant chemical defense.
- 29.06.2022, _S Zhang, Z Li, J Shu, H Xue, K Guo, X Zhou_
+## Ten simple rules for improving communication among scientists.
+ 27.06.2022, _C Bautista, N Alfuraiji, A Drangowska-Way, K Gangwani, A de Flamingh, PE Bourne_
 
 
-_Animals, Bacteria, Camellia, Insecta, Saponins, Soil, Weevils_
-Herbivorous insects acquire their gut microbiota from diverse sources, and these microorganisms play significant roles in insect hosts' tolerance to plant secondary defensive compounds. Camellia weevil (Curculio chinensis) (CW) is an obligate seed parasite of Camellia oleifera plants. Our previous study linked the CW's gut microbiome to the tolerance of the tea saponin (TS) in C. oleifera seeds. However, the source of these gut microbiomes, the key bacteria involved in TS tolerance, and the degradation functions of these bacteria remain unresolved.
+_Communication, Retrospective Studies, Social Networking_
+Communication is a fundamental part of scientific development and methodology. With the advancement of the internet and social networks, communication has become rapid and sometimes overwhelming, especially in science. It is important to provide scientists with useful, effective, and dynamic tools to establish and build a fluid communication framework that allows for scientific advancement. Therefore, in this article, we present advice and recommendations that can help promote and improve science communication while respecting an adequate balance in the degree of commitment toward collaborative work. We have developed 10 rules shown in increasing order of commitment that are grouped into 3 key categories: (1) speak (based on active participation); (2) join (based on joining scientific groups); and (3) assess (based on the analysis and retrospective consideration of the weaknesses and strengths). We include examples and resources that provide actionable strategies for involvement and engagement with science communication, from basic steps to more advanced, introspective, and long-term commitments. Overall, we aim to help spread science from within and encourage and engage scientists to become involved in science communication effectively and dynamically.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01290-3)
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010130)
 
-10.1186/s40168-022-01290-3
-
----
-
-## A genome and gene catalog of glacier microbiomes.
- 29.06.2022, _Y Liu, M Ji, T Yu, J Zaugg, AM Anesio, Z Zhang, S Hu, P Hugenholtz, K Liu, P Liu, Y Chen, Y Luo, T Yao_
-
-
-Glaciers represent a unique inventory of microbial genetic diversity and a record of evolution. The Tibetan Plateau contains the largest area of low-latitude glaciers and is particularly vulnerable to global warming. By sequencing 85 metagenomes and 883 cultured isolates from 21 Tibetan glaciers covering snow, ice and cryoconite habitats, we present a specialized glacier microbial genome and gene catalog to archive glacial genomic and functional diversity. This comprehensive Tibetan Glacier Genome and Gene (TG2G) catalog includes 883 genomes and 2,358 metagenome-assembled genomes, which represent 968 candidate species spanning 30 phyla. The catalog also contains over 25 million non-redundant protein-encoding genes, the utility of which is demonstrated by the exploration of secondary metabolite biosynthetic potentials, virulence factor identification and global glacier metagenome comparison. The TG2G catalog is a valuable resource that enables enhanced understanding of the structure and functions of Tibetan glacial microbiomes.
-
-[Source](https://www.nature.com/articles/s41587-022-01367-2)
-
-10.1038/s41587-022-01367-2
+10.1371/journal.pcbi.1010130
 
 ---
 
-## Large Scale Genome-Centric Metagenomic Data from the Gut Microbiome of Food-Producing Animals and Humans.
- 30.06.2022, _LN Lemos, FM de Carvalho, FF Santos, TB Valiatti, DC Corsi, AC de Oliveira Silveira, A Gerber, APC Guimarães, C de Oliveira Souza, DM Brasiliense, DSC Maia Castelo-Branco, EK Anzai, FO Bessa-Neto, GM de Melo, GH de Souza, LFC Ferraz, M de Nazaré Miranda Bahia, MS Mattos, RGB da Silva, R Veiga, S Simionatto, WAP Monteiro, WA de Oliveira Lima, CRV Kiffer, R Cayô, AC Gales, ATR de Vasconcelos_
+## You can’t report your feelings: The hidden labor of managing threats to safety by women in global public health fieldwork
 
-
-_Animals, Archaea, Bacteria, Cattle, Gastrointestinal Microbiome, Humans, Metagenome, Metagenomics, Swine_
-The One Health concept is a global strategy to study the relationship between human and animal health and the transfer of pathogenic and non-pathogenic species between these systems. However, to the best of our knowledge, no data based on One Health genome-centric metagenomics are available in public repositories. Here, we present a dataset based on a pilot-study of 2,915 metagenome-assembled genomes (MAGs) of 107 samples from the human (N = 34), cattle (N = 28), swine (N = 15) and poultry (N = 30) gut microbiomes. Samples were collected from the five Brazilian geographical regions. Of the draft genomes, 1,273 were high-quality drafts (≥90% of completeness and ≤5% of contamination), and 1,642 were medium-quality drafts (≥50% of completeness and ≤10% of contamination). Taxonomic predictions were based on the alignment and concatenation of single-marker genes, and the most representative phyla were Bacteroidota, Firmicutes, and Proteobacteria. Many of these species represent potential pathogens that have already been described or potential new families, genera, and species with potential biotechnological applications. Analyses of this dataset will highlight discoveries about the ecology and functional role of pathogens and uncultivated Archaea and Bacteria from food-producing animals and humans. Furthermore, it also represents an opportunity to describe new species from underrepresented taxonomic groups.
-
-[Source](https://www.nature.com/articles/s41597-022-01465-5)
-
-10.1038/s41597-022-01465-5
-
----
-
-## Research Note: Choice of microbiota database affects data analysis and interpretation in chicken cecal microbiota.
- 27.06.2022, _PM Campos, N Darwish, J Shao, M Proszkowiec-Weglarz_
-
-
-The chicken microbiota is often analyzed to address questions about the effects of diet or disease on poultry health. To analyze the microbiota, bioinformatic platforms such as QIIME 2 and mothur are used, which incorporate public taxonomic databases such as Greengenes, the ribosomal database project (RDP), and SILVA to assign taxonomies to bacterial sequences. Many chicken microbiota studies continue to incorporate the Greengenes database, which has not been updated since 2013. To determine whether a choice of database could affect results, this study compared the results of bioinformatic analyses obtained using the Greengenes, RDP, and SILVA databases on a cecal luminal microbiome dataset. The QIIME 2 platform was used to process 16S bacterial sequences and assign taxonomies with Greengenes, RDP, and SILVA. Linear discriminant analysis effect size (LEfSe) was performed, allowing for the comparison of taxonomies considered significantly differentially abundant between the three databases. Some notable differences between databases were observed in results, in particular the ability of SILVA database to classify members of the family Lachnospiraceae into separate genera, while these members remained in one group of unclassified Lachnospiraceae through Greengenes and RDP. LEfSe analyses showed that the SILVA database produced more differentially abundant genera, in large part due to the classification of these separate Lachnospiraceae genera. Additionally, the relative abundance of unclassified Lachnospiraceae in SILVA results was significantly lower than in RDP results. Our results show the choice of taxonomic database can influence the results of a microbiota study at the genus level, potentially affecting the interpretation of the results. The use of the SILVA database is recommended over Greengenes in chicken microbiota studies, as more specific classifications at the genus level may provide more accurate interpretations of changes in the microbiota.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0032579122002632)
-
-10.1016/j.psj.2022.101971
-
----
-
-## Predicting metabolomic profiles from microbial composition through neural ordinary differential equations
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.23.497381v1.abstract)
+[Source](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0000153)
 
 ---
 
