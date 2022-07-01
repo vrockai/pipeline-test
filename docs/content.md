@@ -1,7 +1,8 @@
 ## Microbial Tracking-2, a metagenomics analysis of bacteria and fungi onboard the International Space Station.
- 28.06.2022, _C Urbaniak, MD Morrison, JB Thissen, F Karouia, DJ Smith, S Mehta, C Jaing, K Venkateswaran_
+ 30.06.2022, _C Urbaniak, MD Morrison, JB Thissen, F Karouia, DJ Smith, S Mehta, C Jaing, K Venkateswaran_
 
 
+_Bacteria, Humans, Malassezia, Metagenome, Metagenomics, Microbiota_
 The International Space Station (ISS) is a unique and complex built environment with the ISS surface microbiome originating from crew and cargo or from life support recirculation in an almost entirely closed system. The Microbial Tracking 1 (MT-1) project was the first ISS environmental surface study to report on the metagenome profiles without using whole-genome amplification. The study surveyed the microbial communities from eight surfaces over a 14-month period. The Microbial Tracking 2 (MT-2) project aimed to continue the work of MT-1, sampling an additional four flights from the same locations, over another 14 months.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01293-0)
@@ -36,9 +37,10 @@ Archaea are common constituents of the gut microbiome of humans, ruminants, and 
 ---
 
 ## Increase in Bifidobacterium is a characteristic of the difference in the salivary microbiota of pregnant and non-pregnant women.
- 28.06.2022, _S Kato, T Nagasawa, O Uehara, S Shimizu, N Sugiyama, K Hasegawa-Nakamura, K Noguchi, M Hatae, H Kakinoki, Y Furuichi_
+ 30.06.2022, _S Kato, T Nagasawa, O Uehara, S Shimizu, N Sugiyama, K Hasegawa-Nakamura, K Noguchi, M Hatae, H Kakinoki, Y Furuichi_
 
 
+_Bifidobacterium, Estradiol, Female, Humans, Microbiota, Pregnancy, Progesterone, Saliva_
 The establishment of symbiotic microbiota in pregnant women is important for both the mother and her offspring. Little is known about the salivary symbiotic bacteria in pregnancy, and analysis of composition of microbiome (ANCOM) is useful to detect small differences in the number of bacteria. The aim of this study was to investigate the differences in the salivary bacteria between healthy pregnant and non-pregnant women using ANCOM.
 
 [Source](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-022-02293-0)
@@ -133,9 +135,10 @@ Cumulative studies have utilized high-throughput sequencing of the 16SrRNA gene 
 ---
 
 ## Gut microbiome of century-old snail specimens stable across time in preservation.
- 28.06.2022, _BN Chalifour, LE Elder, J Li_
+ 30.06.2022, _BN Chalifour, LE Elder, J Li_
 
 
+_Animals, Food, Gastrointestinal Microbiome, Microbiota, RNA, Ribosomal, 16S, Snails_
 Museum biological specimens provide a unique means of gathering ecological information that spans wide temporal ranges. Museum specimens can also provide information on the microbial communities that persist within the host specimen. Together, these provide researchers valuable opportunities to study long-term trends and mechanisms of microbial community change. The effects of decades-long museum preservation on host-microbial communities have not been systematically assessed. The University of Colorado's Museum of Natural History has densely sampled Oreohelix strigosa (Rocky Mountainsnail) for the past century; many are preserved in ethanol, which provides an excellent opportunity to explore how the microbiome changes across time in preservation.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01286-z)
@@ -170,7 +173,7 @@ Glaciers represent a unique inventory of microbial genetic diversity and a recor
 ---
 
 ## Large Scale Genome-Centric Metagenomic Data from the Gut Microbiome of Food-Producing Animals and Humans.
- 29.06.2022, _LN Lemos, FM de Carvalho, FF Santos, TB Valiatti, DC Corsi, AC de Oliveira Silveira, A Gerber, APC Guimarães, C de Oliveira Souza, DM Brasiliense, DSC Maia Castelo-Branco, EK Anzai, FO Bessa-Neto, GM de Melo, GH de Souza, LFC Ferraz, M de Nazaré Miranda Bahia, MS Mattos, RGB da Silva, R Veiga, S Simionatto, WAP Monteiro, WA de Oliveira Lima, CRV Kiffer, R Cayô, AC Gales, ATR de Vasconcelos_
+ 30.06.2022, _LN Lemos, FM de Carvalho, FF Santos, TB Valiatti, DC Corsi, AC de Oliveira Silveira, A Gerber, APC Guimarães, C de Oliveira Souza, DM Brasiliense, DSC Maia Castelo-Branco, EK Anzai, FO Bessa-Neto, GM de Melo, GH de Souza, LFC Ferraz, M de Nazaré Miranda Bahia, MS Mattos, RGB da Silva, R Veiga, S Simionatto, WAP Monteiro, WA de Oliveira Lima, CRV Kiffer, R Cayô, AC Gales, ATR de Vasconcelos_
 
 
 _Animals, Archaea, Bacteria, Cattle, Gastrointestinal Microbiome, Humans, Metagenome, Metagenomics, Swine_
