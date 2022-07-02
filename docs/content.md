@@ -76,7 +76,7 @@ Wastewater based epidemiology (WBE) is useful for tracking and monitoring the le
 ---
 
 ## Ten simple rules for improving communication among scientists.
- 27.06.2022, _C Bautista, N Alfuraiji, A Drangowska-Way, K Gangwani, A de Flamingh, PE Bourne_
+ 01.07.2022, _C Bautista, N Alfuraiji, A Drangowska-Way, K Gangwani, A de Flamingh, PE Bourne_
 
 
 _Communication, Retrospective Studies, Social Networking_
