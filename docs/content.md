@@ -143,15 +143,27 @@ Dysbiosis of the gut microbiota can lead to impaired therapeutic effect of immun
 
 ---
 
-## Milk microbiomes of three great ape species vary among host species and over time
+## Milk microbiomes of three great ape species vary among host species and over time.
+ 30.06.2022, _SL Bornbusch, MM Keady, ML Power, CR Muletz-Wolz_
+
+
+In mammalian neonates, milk consumption provides nutrients, growth factors, immune molecules, and microbes. Milk microbiomes are increasingly recognized for their roles in seeding infant gut microbiomes and priming immune development. However, milk microbiome variation within and among individuals remains under investigation. We used 16S rRNA gene sequencing to investigate factors shaping milk microbiomes in three captive great ape species: Gorilla gorilla gorilla (individuals, N = 4; samples, n = 29), Pongo abelii (N = 2; n = 16), and Pongo pygmaeus (N = 1; n = 9). We demonstrate variation among host species, over lactation, and between housing facilities. In phylogenetic community composition, milk microbiomes were distinct among the three ape species. We found only a few shared, abundant bacterial taxa and suggest that they likely serve functional roles. The diversity and community composition of milk microbiomes showed gradual changes over time in gorillas and the Bornean orangutan, which was detectable with our comprehensive sampling over lactation stages (&gt; 300-day span). In gorillas, milk microbiomes differed between housing facilities, but were similar between dams within a facility. These results support the strong influence of evolutionary history in shaping milk microbiomes, but also indicate that more proximate cues from mother, offspring, and the environment affect the distribution of rarer microbial taxa.
 
 [Source](https://doi.org/10.1038/s41598-022-15091-z)
 
+10.1038/s41598-022-15091-z
+
 ---
 
-## Fungal microbiome shifts on avocado fruit associated with a combination of postharvest chemical and physical interventions
+## Fungal microbiome shifts on avocado fruit associated with a combination of postharvest chemical and physical interventions.
+ 01.07.2022, _M Bill, JK Gokul, F Viljoen, L Korsten_
+
+
+To characterise the baseline microbial population of the avocado carposphere and understand shifts in community structure from the harvest to ready-to-eat stages.
 
 [Source](https://doi.org/10.1111/jam.15693)
+
+10.1111/jam.15693
 
 ---
 
