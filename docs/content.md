@@ -161,9 +161,15 @@ Dysbiosis of the gut microbiota can lead to impaired therapeutic effect of immun
 
 ---
 
-## Protocol for correlation analysis of the murine gut microbiome and meta-metabolome using 16S rDNA sequencing and UPLC-MS
+## Protocol for correlation analysis of the murine gut microbiome and meta-metabolome using 16S rDNA sequencing and UPLC-MS.
+ 01.07.2022, _X Li, P Wu, X Zeng, Q Lang, Y Lin, H Huang, P Qian_
+
+
+The gut microbiota and metabolites play pivotal roles in the pathobiology of various diseases. Here, we describe a protocol to profile the gut microbiome and meta-metabolome of a mouse disease model for acute graft-versus-host disease. We describe steps for fecal sample collection and processing for 16S sequencing and UPLC-MS. Finally, we detail the steps for data analysis and exhibit multi-omic associations to correlate with pathology. For complete details on the use and execution of this protocol, please refer to Li et al. (2020).
 
 [Source](https://doi.org/10.1016/j.xpro.2022.101494)
+
+10.1016/j.xpro.2022.101494
 
 ---
 
