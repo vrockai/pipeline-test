@@ -59,7 +59,7 @@ The critical window of concurrent developmental paths of the nervous system and 
 ---
 
 ## Multi-omics data reveals the disturbance of glycerophospholipid metabolism caused by disordered gut microbiota in depressed mice.
- 01.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
+ 05.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
 
 
 Although researchers have done intensive research on depression, its pathogenesis is still not fully explained. More and more evidence suggests that gut microbiota is closely related to the onset of depression; but its specific functional ways are not clearly identified.
@@ -88,51 +88,27 @@ Although researchers have done intensive research on depression, its pathogenesi
 
 ---
 
-## Dysbiosis and Predicted Functions of the Dental Biofilm of Dairy Goats with Periodontitis.
- 02.07.2022, _AC Borsanelli, FRF Athayde, JR Saraiva, MP Riggio, IS Dutra_
-
-
-Periodontitis is a polymicrobial biofilm-induced inflammatory disease associated with a dysbiotic microbial community and severely affects the health and welfare of animals. However, little is known regarding the dental microbiota associated with this disease in goats. In this study, we used high-throughput sequencing, network analysis, and predicted functions to investigate the microbiota of clinically healthy goats and those with periodontitis and identify possible pathogens and proteins associated with the disease. Dental microbiomes of goats with periodontitis were richer, and network analyses showed that the number of negative interactions was higher in the networks of animals with periodontitis. Based on the interrelationships, Porphyromonas, Fusobacterium, and Prevotella were suggested to play an important role in the dental microbiota associated with goat periodontitis. Protein families linked to translation, cytoplasmatic translation, and rRNA processing were more abundant in the dental microbiota of goats with periodontitis. In conclusion, the dental biofilm microbiota associated with goat periodontitis seems to be dysbiotic and has significant antagonistic interactions, which discriminate healthy animals from diseased animals and highlight the importance of key bacteria. Thus, these novel findings contribute to the evolution of knowledge regarding the etiopathogenesis of goat periodontitis and possibly to the development of periodontitis control measures.
+## Dysbiosis and Predicted Functions of the Dental Biofilm of Dairy Goats with Periodontitis
 
 [Source](https://doi.org/10.1007/s00248-022-02062-0)
 
-10.1007/s00248-022-02062-0
-
 ---
 
-## Houseflies harbor less diverse microbiota under laboratory conditions but maintain a consistent set of host-associated bacteria.
- 01.07.2022, _A Voulgari-Kokota, LW Beukeboom, B Wertheim, JF Salles_
-
-
-The housefly (Musca domestica) is a wide-ranging insect, often associated with decaying matter from livestock and humans. The septic environments in which houseflies live are believed to be a rich source for microbial acquisition. Although the housefly can harbor a wide range of microorganisms, it is not yet well known which microbes are always recurrent, which are dispensable and which environmentally dependent. In the present study, we aim at identifying which microbes are recurrently associated with the housefly gut throughout the species' life cycle and whether their acquisition relies on the fly's living environment. We surveyed three housefly strains-two of them kept under standard laboratory conditions for a long time and one wild-caught. To track any shifts happening throughout the lifecycle of the housefly and to test the consistency of the revealed microbial communities, we sampled houseflies at five developmental stages over the course of four consecutive generations. Both the bacterial and fungal microbiota of five developmental stages were studied for all samples, using amplicon sequencing for the 16S and ITS1 rRNA gene, respectively. Results revealed diverse microbial communities yet consistent for each of the two distinct sampling environments. The wild-caught population showed a more diverse and more distinct gut microbiota than the two laboratory strains, even though the strain was phylogenetically similar and shared geographic origin with one of them. Two bacterial genera, Myroides and Providencia, and two yeasts, Trichosporon and Candida tropicalis, were present in all sampled larvae and pupae, regardless of the strain. Analysis of the provided diet revealed that the flies acquired the yeasts through feeding. Our main findings show that houseflies might lose microbial diversity when reared in controlled environments, however they can maintain a consistent set of bacteria. We conclude that although the environment can facilitate certain microbial transmission routes for the housefly, and despite the fungal microbiota being largely acquired through diet, the larval bacterial gut microbiome remains relatively consistent within the same developmental stage.
+## Houseflies harbor less diverse microbiota under laboratory conditions but maintain a consistent set of host-associated bacteria
 
 [Source](https://doi.org/10.1038/s41598-022-15186-7)
 
-10.1038/s41598-022-15186-7
-
 ---
 
-## Salinity Influences Endophytic Bacterial Communities in Rice Roots from the Indian Sundarban Area.
- 02.07.2022, _G Das, PK Dhal_
-
-
-In "Sundarbans", the coastal regions of the West Bengal, soil salinity has always been one of the major causes of reduction in yield in these regions. The use of endophytic is a well-demanded strategy to mitigate the problems of salt stress and rice productivity. The present study attempted to analyze rice root endogenous microbial diversity and their relationship with soil salinity and physicochemical factors in the salt stressed region of Sundarbans, India using amplicon metagenomics approaches. Our investigation indicates, that the unique microbiome slightly acidic nutrient enriched non-saline zone is characterized by microbial genera that reported either having plant growth promotion (Flavobacterium, Novosphingobium, and Kocuria) or biocontrol abilities (Leptotrichia), whereas high ionic alkaline saline stressed zone dominated with either salt-tolerant microbes or less characterized endophytes (Arcobacter and Vogesella). The number of genera represented by significantly abundant OTUs was higher in the non-saline zone compared to that of the saline stressed zone probably due to higher nutrient concentrations and the absence of abiotic stress factors including salinity. Physicochemical parameters like nitrogen, phosphorus, and potassium were found significantly positively correlated with Muribaculaceae highly enriched in the non-saline zone. However, relative dissolved oxygen was found significantly negatively correlated with Rikenellaceae and Desulfovibrionaceae, enriched in the non-saline soil. This study first provides the detailed characterizations of rice root endophytic bacterial communities as well as their diversity contributed by measured environmental parameters in salinity Sundarbans areas. Since this study deals with two gradients of salinity, connecting the microbial diversity with the salinity range could be targeted for the use as "bioindicator" taxa and bio-fertilizer formulation in salt-affected regions.
+## Salinity Influences Endophytic Bacterial Communities in Rice Roots from the Indian Sundarban Area
 
 [Source](https://doi.org/10.1007/s00284-022-02936-z)
 
-10.1007/s00284-022-02936-z
-
 ---
 
-## Routes and rates of bacterial dispersal impact surface soil microbiome composition and functioning.
- 01.07.2022, _KE Walters, JK Capocchi, MBN Albright, Z Hao, EL Brodie, JBH Martiny_
-
-
-Recent evidence suggests that, similar to larger organisms, dispersal is a key driver of microbiome assembly; however, our understanding of the rates and taxonomic composition of microbial dispersal in natural environments is limited. Here, we characterized the rate and composition of bacteria dispersing into surface soil via three dispersal routes (from the air above the vegetation, from nearby vegetation and leaf litter near the soil surface, and from the bulk soil and litter below the top layer). We then quantified the impact of those routes on microbial community composition and functioning in the topmost litter layer. The bacterial dispersal rate onto the surface layer was low (7900 cells/cm2/day) relative to the abundance of the resident community. While bacteria dispersed through all three routes at the same rate, only dispersal from above and near the soil surface impacted microbiome composition, suggesting that the composition, not rate, of dispersal influenced community assembly. Dispersal also impacted microbiome functioning. When exposed to dispersal, leaf litter decomposed faster than when dispersal was excluded, although neither decomposition rate nor litter chemistry differed by route. Overall, we conclude that the dispersal routes transport distinct bacterial communities that differentially influence the composition of the surface soil microbiome.
+## Routes and rates of bacterial dispersal impact surface soil microbiome composition and functioning
 
 [Source](https://doi.org/10.1038/s41396-022-01269-w)
-
-10.1038/s41396-022-01269-w
 
 ---
 
@@ -142,15 +118,9 @@ Recent evidence suggests that, similar to larger organisms, dispersal is a key d
 
 ---
 
-## MB-SupCon: Microbiome-based predictive models via Supervised Contrastive Learning.
- 01.07.2022, _S Yang, S Wang, Y Wang, R Rong, J Kim, B Li, AY Koh, G Xiao, Q Li, D Liu, X Zhan_
-
-
-Human microbiome consists of trillions of microorganisms. Microbiota can modulate the host physiology through molecule and metabolite interactions. Integrating microbiome and metabolomics data have the potential to predict different diseases more accurately. Yet, most datasets only measure microbiome data but without paired metabolome data. Here, we propose a novel integrative modeling framework, Microbiome-based Supervised Contrastive Learning Framework (MB-SupCon). MB-SupCon integrates microbiome and metabolome data to generate microbiome embeddings, which can be used to improve the prediction accuracy in datasets that only measure microbiome data. As a proof of concept, we applied MB-SupCon on 720 samples with paired 16S microbiome data and metabolomics data from patients with type 2 diabetes. MB-SupCon outperformed existing prediction methods and achieves high average prediction accuracies for insulin resistance status (84.62%), sex (78.98%), and race (80.04%). Moreover, the microbiome embeddings form separable clusters for different covariate groups in the lower-dimensional space, which enhances data visualization. We also applied MB-SupCon on a large inflammatory bowel disease study and observed similar advantages. Thus, MB-SupCon could be broadly applicable to improve microbiome prediction models in multi-omics disease studies.
+## MB-SupCon: Microbiome-based predictive models via Supervised Contrastive Learning
 
 [Source](https://doi.org/10.1016/j.jmb.2022.167693)
-
-10.1016/j.jmb.2022.167693
 
 ---
 
