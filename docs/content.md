@@ -65,7 +65,7 @@ The critical window of concurrent developmental paths of the nervous system and 
 ---
 
 ## Multi-omics data reveals the disturbance of glycerophospholipid metabolism caused by disordered gut microbiota in depressed mice.
- 05.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
+ 06.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
 
 
 Although researchers have done intensive research on depression, its pathogenesis is still not fully explained. More and more evidence suggests that gut microbiota is closely related to the onset of depression; but its specific functional ways are not clearly identified.
