@@ -107,15 +107,28 @@ Although researchers have done intensive research on depression, its pathogenesi
 
 ---
 
-## Salinity Influences Endophytic Bacterial Communities in Rice Roots from the Indian Sundarban Area
+## Salinity Influences Endophytic Bacterial Communities in Rice Roots from the Indian Sundarban Area.
+ 06.07.2022, _G Das, PK Dhal_
+
+
+_Bacteria, Endophytes, Oryza, Salinity, Soil_
+In "Sundarbans", the coastal regions of the West Bengal, soil salinity has always been one of the major causes of reduction in yield in these regions. The use of endophytic is a well-demanded strategy to mitigate the problems of salt stress and rice productivity. The present study attempted to analyze rice root endogenous microbial diversity and their relationship with soil salinity and physicochemical factors in the salt stressed region of Sundarbans, India using amplicon metagenomics approaches. Our investigation indicates, that the unique microbiome slightly acidic nutrient enriched non-saline zone is characterized by microbial genera that reported either having plant growth promotion (Flavobacterium, Novosphingobium, and Kocuria) or biocontrol abilities (Leptotrichia), whereas high ionic alkaline saline stressed zone dominated with either salt-tolerant microbes or less characterized endophytes (Arcobacter and Vogesella). The number of genera represented by significantly abundant OTUs was higher in the non-saline zone compared to that of the saline stressed zone probably due to higher nutrient concentrations and the absence of abiotic stress factors including salinity. Physicochemical parameters like nitrogen, phosphorus, and potassium were found significantly positively correlated with Muribaculaceae highly enriched in the non-saline zone. However, relative dissolved oxygen was found significantly negatively correlated with Rikenellaceae and Desulfovibrionaceae, enriched in the non-saline soil. This study first provides the detailed characterizations of rice root endophytic bacterial communities as well as their diversity contributed by measured environmental parameters in salinity Sundarbans areas. Since this study deals with two gradients of salinity, connecting the microbial diversity with the salinity range could be targeted for the use as "bioindicator" taxa and bio-fertilizer formulation in salt-affected regions.
 
 [Source](https://doi.org/10.1007/s00284-022-02936-z)
 
+10.1007/s00284-022-02936-z
+
 ---
 
-## Routes and rates of bacterial dispersal impact surface soil microbiome composition and functioning
+## Routes and rates of bacterial dispersal impact surface soil microbiome composition and functioning.
+ 01.07.2022, _KE Walters, JK Capocchi, MBN Albright, Z Hao, EL Brodie, JBH Martiny_
+
+
+Recent evidence suggests that, similar to larger organisms, dispersal is a key driver of microbiome assembly; however, our understanding of the rates and taxonomic composition of microbial dispersal in natural environments is limited. Here, we characterized the rate and composition of bacteria dispersing into surface soil via three dispersal routes (from the air above the vegetation, from nearby vegetation and leaf litter near the soil surface, and from the bulk soil and litter below the top layer). We then quantified the impact of those routes on microbial community composition and functioning in the topmost litter layer. The bacterial dispersal rate onto the surface layer was low (7900 cells/cm2/day) relative to the abundance of the resident community. While bacteria dispersed through all three routes at the same rate, only dispersal from above and near the soil surface impacted microbiome composition, suggesting that the composition, not rate, of dispersal influenced community assembly. Dispersal also impacted microbiome functioning. When exposed to dispersal, leaf litter decomposed faster than when dispersal was excluded, although neither decomposition rate nor litter chemistry differed by route. Overall, we conclude that the dispersal routes transport distinct bacterial communities that differentially influence the composition of the surface soil microbiome.
 
 [Source](https://doi.org/10.1038/s41396-022-01269-w)
+
+10.1038/s41396-022-01269-w
 
 ---
 
@@ -125,9 +138,15 @@ Although researchers have done intensive research on depression, its pathogenesi
 
 ---
 
-## MB-SupCon: Microbiome-based predictive models via Supervised Contrastive Learning
+## MB-SupCon: Microbiome-based predictive models via Supervised Contrastive Learning.
+ 01.07.2022, _S Yang, S Wang, Y Wang, R Rong, J Kim, B Li, AY Koh, G Xiao, Q Li, D Liu, X Zhan_
+
+
+Human microbiome consists of trillions of microorganisms. Microbiota can modulate the host physiology through molecule and metabolite interactions. Integrating microbiome and metabolomics data have the potential to predict different diseases more accurately. Yet, most datasets only measure microbiome data but without paired metabolome data. Here, we propose a novel integrative modeling framework, Microbiome-based Supervised Contrastive Learning Framework (MB-SupCon). MB-SupCon integrates microbiome and metabolome data to generate microbiome embeddings, which can be used to improve the prediction accuracy in datasets that only measure microbiome data. As a proof of concept, we applied MB-SupCon on 720 samples with paired 16S microbiome data and metabolomics data from patients with type 2 diabetes. MB-SupCon outperformed existing prediction methods and achieves high average prediction accuracies for insulin resistance status (84.62%), sex (78.98%), and race (80.04%). Moreover, the microbiome embeddings form separable clusters for different covariate groups in the lower-dimensional space, which enhances data visualization. We also applied MB-SupCon on a large inflammatory bowel disease study and observed similar advantages. Thus, MB-SupCon could be broadly applicable to improve microbiome prediction models in multi-omics disease studies.
 
 [Source](https://doi.org/10.1016/j.jmb.2022.167693)
+
+10.1016/j.jmb.2022.167693
 
 ---
 
