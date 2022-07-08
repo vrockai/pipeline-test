@@ -1,152 +1,110 @@
-## A volatile from the skin microbiota of flavivirus-infected hosts promotes mosquito attractiveness.
- 01.07.2022, _H Zhang, Y Zhu, Z Liu, Y Peng, W Peng, L Tong, J Wang, Q Liu, P Wang, G Cheng_
+## Host control and the evolution of cooperation in host microbiomes.
+ 24.06.2022, _C Sharp, KR Foster_
 
 
-The host-seeking activity of hematophagous arthropods is essential for arboviral transmission. Here, we demonstrate that mosquito-transmitted flaviviruses can manipulate host skin microbiota to produce a scent that attracts mosquitoes. We observed that Aedes mosquitoes preferred to seek and feed on mice infected by dengue and Zika viruses. Acetophenone, a volatile compound that is predominantly produced by the skin microbiota, was enriched in the volatiles from the infected hosts to potently stimulate mosquito olfaction for attractiveness. Of note, acetophenone emission was higher in dengue patients than in healthy people. Mechanistically, flaviviruses infection suppressed the expression of RELMα, an essential antimicrobial protein on host skin, thereby leading to the expansion of acetophenone-producing commensal bacteria and, consequently, a high acetophenone level. Given that RELMα can be specifically induced by a vitamin A derivative, the dietary administration of isotretinoin to flavivirus-infected animals interrupted flavivirus life cycle by reducing mosquito host-seeking activity, thus providing a strategy of arboviral control.
+_Animals, Bacteria, Biological Evolution, Microbiota, Phylogeny, Symbiosis_
+Humans, and many other species, are host to diverse symbionts. It is often suggested that the mutual benefits of host-microbe relationships can alone explain cooperative evolution. Here, we evaluate this hypothesis with evolutionary modelling. Our model predicts that mutual benefits are insufficient to drive cooperation in systems like the human microbiome, because of competition between symbionts. However, cooperation can emerge if hosts can exert control over symbionts, so long as there are constraints that limit symbiont counter evolution. We test our model with genomic data of two bacterial traits monitored by animal immune systems. In both cases, bacteria have evolved as predicted under host control, tending to lose flagella and maintain butyrate production when host-associated. Moreover, an analysis of bacteria that retain flagella supports the evolution of host control, via toll-like receptor 5, which limits symbiont counter evolution. Our work puts host control mechanisms, including the immune system, at the centre of microbiome evolution.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867422006419)
+[Source](https://www.nature.com/articles/s41467-022-30971-8)
 
-10.1016/j.cell.2022.05.016
-
----
-
-## Dynamic Alterations in the Respiratory Tract Microbiota of Patients with COVID-19 and its Association with Microbiota in the Gut.
- 03.07.2022, _Y Shen, F Yu, D Zhang, Q Zou, M Xie, X Chen, L Yuan, B Lou, G Xie, R Wang, X Yang, W Chen, Q Wang, B Feng, Y Teng, Y Dong, L Huang, J Bao, D Han, C Liu, W Wu, X Liu, L Fan, MP Timko, S Zheng, Y Chen_
-
-
-The role of respiratory tract microbes and the relationship between respiratory tract and gut microbiomes in coronavirus disease 2019 (COVID-19) remain uncertain. Here, the metagenomes of sputum and fecal samples from 66 patients with COVID-19 at three stages of disease progression are sequenced. Respiratory tract, gut microbiome, and peripheral blood mononuclear cell (PBMC) samples are analyzed to compare the gut and respiratory tract microbiota of intensive care unit (ICU) and non-ICU (nICU) patients and determine relationships between respiratory tract microbiome and immune response. In the respiratory tract, significantly fewer Streptococcus, Actinomyces, Atopobium, and Bacteroides are found in ICU than in nICU patients, while Enterococcus and Candida increase. In the gut, significantly fewer Bacteroides are found in ICU patients, while Enterococcus increases. Significant positive correlations exist between relative microbiota abundances in the respiratory tract and gut. Defensin-related pathways in PBMCs are enhanced, and respiratory tract Streptococcus is reduced in patients with COVID-19. A respiratory tract-gut microbiota model identifies respiratory tract Streptococcus and Atopobium as the most prominent biomarkers distinguishing between ICU and nICU patients. The findings provide insight into the respiratory tract and gut microbial dynamics during COVID-19 progression, considering disease severity, potentially contributing to diagnosis, and treatment strategies.
-
-[Source](https://doi.org/10.1002/advs.202200956)
-
-10.1002/advs.202200956
+10.1038/s41467-022-30971-8
 
 ---
 
-## Interaction of n-3 polyunsaturated fatty acids with host CD36 genetic variant for gut microbiome and blood lipids in human cohorts.
- 07.07.2022, _Z Miao, GD Chen, S Huo, Y Fu, MY Wu, F Xu, Z Jiang, J Tang, W Gou, C Xiao, YP Liu, YY Wu, TY Sun, L Sun, LR Shen, X Lin, YM Chen, JS Zheng_
+## Effect of Helicobacter pylori Eradication on Gastric Cancer Prevention: Updated Report From a Randomized Controlled Trial With 26.5 Years of Follow-up.
+ 27.06.2022, _L Yan, Y Chen, F Chen, T Tao, Z Hu, J Wang, J You, BCY Wong, J Chen, W Ye_
 
 
-Previous studies suggest an interaction of CD36 genetic variant rs1527483 with n-3 polyunsaturated fatty acids (PUFAs) to modulate blood lipids. However, successful replication is lacking and the role of gut microbiome remains unclear. Here, we aimed to replicate these gene-diet interactions on blood lipids and investigate their possible associations with gut microbiome.
+_Anti-Bacterial Agents, Drug Therapy, Combination, Follow-Up Studies, Helicobacter Infections, Helicobacter pylori, Humans, Precancerous Conditions, Prospective Studies, Stomach Neoplasms_
+Helicobacter pylori infection is considered as the most important risk factor in the pathogenesis of gastric cancer. This study aims to evaluate the long-term effects of H pylori eradication treatment on the incidence and mortality of gastric cancer among a high-risk population.
 
-[Source](https://doi.org/10.1016/j.clnu.2022.05.021)
+[Source](https://www.gastrojournal.org/article/S0016-5085(22)00338-9/fulltext)
 
-10.1016/j.clnu.2022.05.021
-
----
-
-## A weight-loss model based on baseline microbiota and genetic scores for selection of dietary treatments in overweight and obese population.
- 07.07.2022, _A Cuevas-Sierra, FI Milagro, E Guruceaga, M Cuervo, L Goni, M García-Granero, JA Martinez, JI Riezu-Boj_
-
-
-The response to weight loss depends on the interindividual variability of determinants such as gut microbiota and genetics. The aim of this investigation was to develop an integrative model using microbiota and genetic information to prescribe the most suitable diet for a successful weight loss in individuals with excess of body weight.
-
-[Source](https://doi.org/10.1016/j.clnu.2022.06.008)
-
-10.1016/j.clnu.2022.06.008
+10.1053/j.gastro.2022.03.039
 
 ---
 
-## Restoration of cefixime-induced gut microbiota changes by a prebiotic blend in a mouse model
-
-[Source](https://doi.org/10.1007/s00253-022-12044-4)
-
----
-
-## A synbiotics, long chain polyunsaturated fatty acids, and milk fat globule membranes supplemented formula modulates microbiota maturation and neurodevelopment.
- 07.07.2022, _T Cerdó, A Ruíz, I Acuña, A Nieto-Ruiz, E Diéguez, N Sepúlveda-Valbuena, M Escudero-Marín, JA García-Santos, M García-Ricobaraza, F Herrmann, JA Moreno-Muñoz, R De Castellar, J Jiménez, A Suárez, C Campoy_
+## Antibiotic exposure prevents acquisition of beneficial metabolic functions in the preterm infant gut microbiome.
+ 06.07.2022, _Y Xu, O Milburn, T Beiersdorfer, L Du, H Akinbi, DB Haslam_
 
 
-The critical window of concurrent developmental paths of the nervous system and gut microbiota in infancy provides an opportunity for nutritional interventions with potential health benefits later in life.
+Aberrations in the preterm microbiome following antibiotic therapy have been reported in previous studies. The objective of this study was to probe potential underlying mechanisms between this observation and susceptibility to adverse prematurity-related outcomes.
 
-[Source](https://doi.org/10.1016/j.clnu.2022.05.013)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01300-4)
 
-10.1016/j.clnu.2022.05.013
+10.1186/s40168-022-01300-4
 
 ---
 
-## Multi-omics data reveals the disturbance of glycerophospholipid metabolism caused by disordered gut microbiota in depressed mice.
- 07.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
+## Long-Term Effects of Developmental Exposure to Oxycodone on Gut Microbiota and Relationship to Adult Behaviors and Metabolism
 
-
-_Animals, Fatty Acids, Volatile, Firmicutes, Gastrointestinal Microbiome, Glycerophospholipids, Lipid Metabolism, Mice, Tryptophan_
-Although researchers have done intensive research on depression, its pathogenesis is still not fully explained. More and more evidence suggests that gut microbiota is closely related to the onset of depression; but its specific functional ways are not clearly identified.
-
-[Source](https://doi.org/10.1016/j.jare.2021.10.002)
-
-10.1016/j.jare.2021.10.002
+[Source](https://journals.asm.org/doi/10.1128/msystems.00336-22)
 
 ---
 
-## C-section increases cecal abundance of the archetypal bile acid and glucocorticoid modifying <em>Lachnoclostridium [clostridium] scindens</em> in mice
+## Biogeographic variation and functional pathways of the gut microbiota in celiac disease
 
-[Source](https://doi.org/10.14814/phy2.15363)
-
----
-
-## A single respiratory tract infection early in life reroutes healthy microbiome development and affects adult metabolism in a preclinical animal model
-
-[Source](https://doi.org/10.1038/s41522-022-00315-x)
+[Source](https://www.gastrojournal.org/article/S0016-5085(22)00752-1/fulltext)
 
 ---
 
-## Microbiota mediated plasticity promotes thermal adaptation in the sea anemone <em>Nematostella vectensis</em>
+## Akkermansia muciniphila prevents cold-related atrial fibrillation in rats by modulation of TMAO induced cardiac pyroptosis
 
-[Source](https://doi.org/10.1038/s41467-022-31350-z)
-
----
-
-## Dysbiosis and Predicted Functions of the Dental Biofilm of Dairy Goats with Periodontitis
-
-[Source](https://doi.org/10.1007/s00248-022-02062-0)
+[Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(22)00268-7/fulltext)
 
 ---
 
-## Houseflies harbor less diverse microbiota under laboratory conditions but maintain a consistent set of host-associated bacteria
+## Diet and feeding pattern modulate diurnal dynamics of the ileal microbiome and transcriptome
 
-[Source](https://doi.org/10.1038/s41598-022-15186-7)
-
----
-
-## Salinity Influences Endophytic Bacterial Communities in Rice Roots from the Indian Sundarban Area.
- 06.07.2022, _G Das, PK Dhal_
-
-
-_Bacteria, Endophytes, Oryza, Salinity, Soil_
-In "Sundarbans", the coastal regions of the West Bengal, soil salinity has always been one of the major causes of reduction in yield in these regions. The use of endophytic is a well-demanded strategy to mitigate the problems of salt stress and rice productivity. The present study attempted to analyze rice root endogenous microbial diversity and their relationship with soil salinity and physicochemical factors in the salt stressed region of Sundarbans, India using amplicon metagenomics approaches. Our investigation indicates, that the unique microbiome slightly acidic nutrient enriched non-saline zone is characterized by microbial genera that reported either having plant growth promotion (Flavobacterium, Novosphingobium, and Kocuria) or biocontrol abilities (Leptotrichia), whereas high ionic alkaline saline stressed zone dominated with either salt-tolerant microbes or less characterized endophytes (Arcobacter and Vogesella). The number of genera represented by significantly abundant OTUs was higher in the non-saline zone compared to that of the saline stressed zone probably due to higher nutrient concentrations and the absence of abiotic stress factors including salinity. Physicochemical parameters like nitrogen, phosphorus, and potassium were found significantly positively correlated with Muribaculaceae highly enriched in the non-saline zone. However, relative dissolved oxygen was found significantly negatively correlated with Rikenellaceae and Desulfovibrionaceae, enriched in the non-saline soil. This study first provides the detailed characterizations of rice root endophytic bacterial communities as well as their diversity contributed by measured environmental parameters in salinity Sundarbans areas. Since this study deals with two gradients of salinity, connecting the microbial diversity with the salinity range could be targeted for the use as "bioindicator" taxa and bio-fertilizer formulation in salt-affected regions.
-
-[Source](https://doi.org/10.1007/s00284-022-02936-z)
-
-10.1007/s00284-022-02936-z
+[Source](https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00797-5)
 
 ---
 
-## Routes and rates of bacterial dispersal impact surface soil microbiome composition and functioning.
- 01.07.2022, _KE Walters, JK Capocchi, MBN Albright, Z Hao, EL Brodie, JBH Martiny_
+## Gut virome profiling identifies a widespread bacteriophage family associated with metabolic syndrome
 
-
-Recent evidence suggests that, similar to larger organisms, dispersal is a key driver of microbiome assembly; however, our understanding of the rates and taxonomic composition of microbial dispersal in natural environments is limited. Here, we characterized the rate and composition of bacteria dispersing into surface soil via three dispersal routes (from the air above the vegetation, from nearby vegetation and leaf litter near the soil surface, and from the bulk soil and litter below the top layer). We then quantified the impact of those routes on microbial community composition and functioning in the topmost litter layer. The bacterial dispersal rate onto the surface layer was low (7900 cells/cm2/day) relative to the abundance of the resident community. While bacteria dispersed through all three routes at the same rate, only dispersal from above and near the soil surface impacted microbiome composition, suggesting that the composition, not rate, of dispersal influenced community assembly. Dispersal also impacted microbiome functioning. When exposed to dispersal, leaf litter decomposed faster than when dispersal was excluded, although neither decomposition rate nor litter chemistry differed by route. Overall, we conclude that the dispersal routes transport distinct bacterial communities that differentially influence the composition of the surface soil microbiome.
-
-[Source](https://doi.org/10.1038/s41396-022-01269-w)
-
-10.1038/s41396-022-01269-w
+[Source](https://www.nature.com/articles/s41467-022-31390-5)
 
 ---
 
-## Leaf bacterial microbiota response to flooding is controlled by plant phenology in wheat (<em>Triticum aestivum L</em>.)
+## Host lung microbiota promotes malaria-associated acute respiratory distress syndrome
 
-[Source](https://doi.org/10.1038/s41598-022-15133-6)
+[Source](https://www.nature.com/articles/s41467-022-31301-8)
 
 ---
 
-## MB-SupCon: Microbiome-based predictive models via Supervised Contrastive Learning.
- 01.07.2022, _S Yang, S Wang, Y Wang, R Rong, J Kim, B Li, AY Koh, G Xiao, Q Li, D Liu, X Zhan_
+## Super-taxon in human microbiome are identified to be associated with colorectal cancer
 
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04786-9)
 
-Human microbiome consists of trillions of microorganisms. Microbiota can modulate the host physiology through molecule and metabolite interactions. Integrating microbiome and metabolomics data have the potential to predict different diseases more accurately. Yet, most datasets only measure microbiome data but without paired metabolome data. Here, we propose a novel integrative modeling framework, Microbiome-based Supervised Contrastive Learning Framework (MB-SupCon). MB-SupCon integrates microbiome and metabolome data to generate microbiome embeddings, which can be used to improve the prediction accuracy in datasets that only measure microbiome data. As a proof of concept, we applied MB-SupCon on 720 samples with paired 16S microbiome data and metabolomics data from patients with type 2 diabetes. MB-SupCon outperformed existing prediction methods and achieves high average prediction accuracies for insulin resistance status (84.62%), sex (78.98%), and race (80.04%). Moreover, the microbiome embeddings form separable clusters for different covariate groups in the lower-dimensional space, which enhances data visualization. We also applied MB-SupCon on a large inflammatory bowel disease study and observed similar advantages. Thus, MB-SupCon could be broadly applicable to improve microbiome prediction models in multi-omics disease studies.
+---
 
-[Source](https://doi.org/10.1016/j.jmb.2022.167693)
+## An introduction to spatial transcriptomics for biomedical research
 
-10.1016/j.jmb.2022.167693
+[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01075-1)
+
+---
+
+## Deciphering tissue structure and function using spatial transcriptomics
+
+[Source](https://www.nature.com/articles/s42003-022-03175-5)
+
+---
+
+## Method of the Year: spatially resolved transcriptomics
+
+[Source](https://www.nature.com/articles/s41592-020-01033-y)
+
+---
+
+## Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball
+
+[Source](https://www.cell.com/cell/fulltext/S0092-8674(22)00399-3)
+
+---
+
+## Museum of spatial transcriptomics
+
+[Source](https://www.nature.com/articles/s41592-022-01409-2)
 
 ---
 
