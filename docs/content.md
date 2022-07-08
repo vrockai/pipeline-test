@@ -65,9 +65,10 @@ The critical window of concurrent developmental paths of the nervous system and 
 ---
 
 ## Multi-omics data reveals the disturbance of glycerophospholipid metabolism caused by disordered gut microbiota in depressed mice.
- 06.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
+ 07.07.2022, _T Tian, Q Mao, J Xie, Y Wang, WH Shao, Q Zhong, JJ Chen_
 
 
+_Animals, Fatty Acids, Volatile, Firmicutes, Gastrointestinal Microbiome, Glycerophospholipids, Lipid Metabolism, Mice, Tryptophan_
 Although researchers have done intensive research on depression, its pathogenesis is still not fully explained. More and more evidence suggests that gut microbiota is closely related to the onset of depression; but its specific functional ways are not clearly identified.
 
 [Source](https://doi.org/10.1016/j.jare.2021.10.002)
@@ -107,9 +108,10 @@ Periodontitis is a polymicrobial biofilm-induced inflammatory disease associated
 ---
 
 ## Houseflies harbor less diverse microbiota under laboratory conditions but maintain a consistent set of host-associated bacteria.
- 06.07.2022, _A Voulgari-Kokota, LW Beukeboom, B Wertheim, JF Salles_
+ 07.07.2022, _A Voulgari-Kokota, LW Beukeboom, B Wertheim, JF Salles_
 
 
+_Animals, Bacteria, Gastrointestinal Microbiome, Houseflies, Larva, Microbiota_
 The housefly (Musca domestica) is a wide-ranging insect, often associated with decaying matter from livestock and humans. The septic environments in which houseflies live are believed to be a rich source for microbial acquisition. Although the housefly can harbor a wide range of microorganisms, it is not yet well known which microbes are always recurrent, which are dispensable and which environmentally dependent. In the present study, we aim at identifying which microbes are recurrently associated with the housefly gut throughout the species' life cycle and whether their acquisition relies on the fly's living environment. We surveyed three housefly strains-two of them kept under standard laboratory conditions for a long time and one wild-caught. To track any shifts happening throughout the lifecycle of the housefly and to test the consistency of the revealed microbial communities, we sampled houseflies at five developmental stages over the course of four consecutive generations. Both the bacterial and fungal microbiota of five developmental stages were studied for all samples, using amplicon sequencing for the 16S and ITS1 rRNA gene, respectively. Results revealed diverse microbial communities yet consistent for each of the two distinct sampling environments. The wild-caught population showed a more diverse and more distinct gut microbiota than the two laboratory strains, even though the strain was phylogenetically similar and shared geographic origin with one of them. Two bacterial genera, Myroides and Providencia, and two yeasts, Trichosporon and Candida tropicalis, were present in all sampled larvae and pupae, regardless of the strain. Analysis of the provided diet revealed that the flies acquired the yeasts through feeding. Our main findings show that houseflies might lose microbial diversity when reared in controlled environments, however they can maintain a consistent set of bacteria. We conclude that although the environment can facilitate certain microbial transmission routes for the housefly, and despite the fungal microbiota being largely acquired through diet, the larval bacterial gut microbiome remains relatively consistent within the same developmental stage.
 
 [Source](https://doi.org/10.1038/s41598-022-15186-7)
