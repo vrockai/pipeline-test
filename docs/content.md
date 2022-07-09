@@ -25,9 +25,10 @@ Helicobacter pylori infection is considered as the most important risk factor in
 ---
 
 ## Antibiotic exposure prevents acquisition of beneficial metabolic functions in the preterm infant gut microbiome.
- 06.07.2022, _Y Xu, O Milburn, T Beiersdorfer, L Du, H Akinbi, DB Haslam_
+ 08.07.2022, _Y Xu, O Milburn, T Beiersdorfer, L Du, H Akinbi, DB Haslam_
 
 
+_Anti-Bacterial Agents, Child, Preschool, Feces, Gastrointestinal Microbiome, Humans, Infant, Infant, Newborn, Infant, Premature, Microbiota_
 Aberrations in the preterm microbiome following antibiotic therapy have been reported in previous studies. The objective of this study was to probe potential underlying mechanisms between this observation and susceptibility to adverse prematurity-related outcomes.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01300-4)
