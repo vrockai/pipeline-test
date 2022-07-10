@@ -10,15 +10,9 @@
 
 ---
 
-## Oral and gut dysbiosis leads to functional alterations in Parkinson's disease.
- 07.07.2022, _S Jo, W Kang, YS Hwang, SH Lee, KW Park, MS Kim, H Lee, HJ Yoon, YK Park, M Chalita, JH Lee, H Sung, JY Lee, JW Bae, SJ Chung_
-
-
-Although several studies have identified a distinct gut microbial composition in Parkinson's disease (PD), few studies have investigated the oral microbiome or functional alteration of the microbiome in PD. We aimed to investigate the connection between the oral and gut microbiome and the functional changes in the PD-specific gut microbiome using shotgun metagenomic sequencing. The taxonomic composition of the oral and gut microbiome was significantly different between PD patients and healthy controls (P = 0.003 and 0.001, respectively). Oral Lactobacillus was more abundant in PD patients and was associated with opportunistic pathogens in the gut (FDR-adjusted P &lt; 0.038). Functional analysis revealed that microbial gene markers for glutamate and arginine biosynthesis were downregulated, while antimicrobial resistance gene markers were upregulated in PD patients than healthy controls (all P &lt; 0.001). We identified a connection between the oral and gut microbiota in PD, which might lead to functional alteration of the microbiome in PD.
+## Oral and gut dysbiosis leads to functional alterations in Parkinson’s disease
 
 [Source](https://doi.org/10.1038/s41531-022-00351-6)
-
-10.1038/s41531-022-00351-6
 
 ---
 
@@ -28,16 +22,9 @@ Although several studies have identified a distinct gut microbial composition in
 
 ---
 
-## Gut microbiota composition in colorectal cancer patients is genetically regulated.
- 08.07.2022, _F Colombo, O Illescas, S Noci, F Minnai, G Pintarelli, A Pettinicchio, A Vannelli, L Sorrentino, L Battaglia, M Cosimelli, TA Dragani, M Gariboldi_
-
-
-_Bacteria, Bacteroides, Colorectal Neoplasms, Faecalibacterium, Gastrointestinal Microbiome, Humans, Microbiota, RNA, Ribosomal, 16S, Tumor Microenvironment_
-The risk of colorectal cancer (CRC) depends on environmental and genetic factors. Among environmental factors, an imbalance in the gut microbiota can increase CRC risk. Also, microbiota is influenced by host genetics. However, it is not known if germline variants influence CRC development by modulating microbiota composition. We investigated germline variants associated with the abundance of bacterial populations in the normal (non-involved) colorectal mucosa of 93 CRC patients and evaluated their possible role in disease. Using a multivariable linear regression, we assessed the association between germline variants identified by genome wide genotyping and bacteria abundances determined by 16S rRNA gene sequencing. We identified 37 germline variants associated with the abundance of the genera Bacteroides, Ruminococcus, Akkermansia, Faecalibacterium and Gemmiger and with alpha diversity. These variants are correlated with the expression of 58 genes involved in inflammatory responses, cell adhesion, apoptosis and barrier integrity. Genes and bacteria appear to be involved in the same processes. In fact, expression of the pro-inflammatory genes GAL, GSDMD and LY6H was correlated with the abundance of Bacteroides, which has pro-inflammatory properties; abundance of the anti-inflammatory genus Faecalibacterium correlated with expression of KAZN, with barrier-enhancing functions. Both the microbiota composition and local inflammation are regulated, at least partially, by the same germline variants. These variants may regulate the microenvironment in which bacteria grow and predispose to the development of cancer. Identification of these variants is the first step to identifying higher-risk individuals and proposing tailored preventive treatments that increase beneficial bacterial populations.
+## Gut microbiota composition in colorectal cancer patients is genetically regulated
 
 [Source](https://doi.org/10.1038/s41598-022-15230-6)
-
-10.1038/s41598-022-15230-6
 
 ---
 
@@ -155,39 +142,21 @@ We assessed public perspectives of microbiome research privacy risks before and 
 
 ---
 
-## A Bayesian method for identifying associations between response variables and bacterial community composition.
- 06.07.2022, _A Verster, N Petronella, J Green, F Matias, SPJ Brooks_
-
-
-Determining associations between intestinal bacteria and continuously measured physiological outcomes is important for understanding the bacteria-host relationship but is not straightforward since abundance data (compositional data) are not normally distributed. To address this issue, we developed a fully Bayesian linear regression model (BRACoD; Bayesian Regression Analysis of Compositional Data) with physiological measurements (continuous data) as a function of a matrix of relative bacterial abundances. Bacteria can be classified as operational taxonomic units or by taxonomy (genus, family, etc.). Bacteria associated with the physiological measurement were identified using a Bayesian variable selection method: Stochastic Search Variable Selection. The output is a list of inclusion probabilities ([Formula: see text]) and coefficients that indicate the strength of the association ([Formula: see text]) for each bacterial taxa. Tests with simulated communities showed that adopting a cut point value of [Formula: see text] ≥ 0.3 for identifying included bacteria optimized the true positive rate (TPR) while maintaining a false positive rate (FPR) of ≤ 5%. At this point, the chances of identifying non-contributing bacteria were low and all well-established contributors were included. Comparison with other methods showed that BRACoD (at [Formula: see text] ≥ 0.3) had higher precision and a higher TPR than a commonly used center log transformed LASSO procedure (clr-LASSO) as well as higher TPR than an off-the-shelf Spike and Slab method after center log transformation (clr-SS). BRACoD was also less likely to include non-contributing bacteria that merely correlate with contributing bacteria. Analysis of a rat microbiome experiment identified 47 operational taxonomic units that contributed to fecal butyrate levels. Of these, 31 were positively and 16 negatively associated with butyrate. Consistent with their known role in butyrate metabolism, most of these fell within the Lachnospiraceae and Ruminococcaceae. We conclude that BRACoD provides a more precise and accurate method for determining bacteria associated with a continuous physiological outcome compared to clr-LASSO. It is more sensitive than a generalized clr-SS algorithm, although it has a higher FPR. Its ability to distinguish genuine contributors from correlated bacteria makes it better suited to discriminating bacteria that directly contribute to an outcome. The algorithm corrects for the distortions arising from compositional data making it appropriate for analysis of microbiome data.
+## A Bayesian method for identifying associations between response variables and bacterial community composition
 
 [Source](https://doi.org/10.1371/journal.pcbi.1010108)
 
-10.1371/journal.pcbi.1010108
-
 ---
 
-## GenBank as a Source to Monitor and Analyze Host-Microbiome Data.
- 08.07.2022, _V Ramanan, S Mechery, IN Sarkar_
-
-
-Microbiome datasets are often constrained by sequencing limitations. GenBank is the largest collection of publicly available DNA sequences, which is maintained by the National Center of Biotechnology Information (NCBI). The metadata of GenBank records are a largely understudied resource and may be uniquely leveraged to access the sum of prior studies focused on microbiome composition. Here, we developed a computational pipeline to analyze GenBank metadata, containing data on hosts, microorganisms, and their place of origin. This work provides the first opportunity to leverage the totality of GenBank to shed light on compositional data practices that shape how microbiome datasets are formed as well as examine host-microbiome relationships.
+## GenBank as a Source to Monitor and Analyze Host-Microbiome Data
 
 [Source](https://doi.org/10.1093/bioinformatics/btac487)
 
-10.1093/bioinformatics/btac487
-
 ---
 
-## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies.
- 07.07.2022, _HB Hassler, B Probert, C Moore, E Lawson, RW Jackson, BT Russell, VP Richards_
-
-
-The 16S rRNA gene is used extensively in bacterial phylogenetics, in species delineation, and now widely in microbiome studies. However, the gene suffers from intragenomic heterogeneity, and reports of recombination and an unreliable phylogenetic signal are accumulating. Here, we compare core gene phylogenies to phylogenies constructed using core gene concatenations to estimate the strength of signal for the 16S rRNA gene, its hypervariable regions, and all core genes at the intra- and inter-genus levels. Specifically, we perform four intra-genus analyses (Clostridium, n = 65; Legionella, n = 47; Staphylococcus, n = 36; and Campylobacter, n = 17) and one inter-genus analysis [41 core genera of the human gut microbiome (31 families, 17 orders, and 12 classes), n = 82].
+## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies
 
 [Source](https://doi.org/10.1186/s40168-022-01295-y)
-
-10.1186/s40168-022-01295-y
 
 ---
 
