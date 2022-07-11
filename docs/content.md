@@ -10,9 +10,15 @@
 
 ---
 
-## Oral and gut dysbiosis leads to functional alterations in Parkinson’s disease
+## Oral and gut dysbiosis leads to functional alterations in Parkinson's disease.
+ 07.07.2022, _S Jo, W Kang, YS Hwang, SH Lee, KW Park, MS Kim, H Lee, HJ Yoon, YK Park, M Chalita, JH Lee, H Sung, JY Lee, JW Bae, SJ Chung_
+
+
+Although several studies have identified a distinct gut microbial composition in Parkinson's disease (PD), few studies have investigated the oral microbiome or functional alteration of the microbiome in PD. We aimed to investigate the connection between the oral and gut microbiome and the functional changes in the PD-specific gut microbiome using shotgun metagenomic sequencing. The taxonomic composition of the oral and gut microbiome was significantly different between PD patients and healthy controls (P = 0.003 and 0.001, respectively). Oral Lactobacillus was more abundant in PD patients and was associated with opportunistic pathogens in the gut (FDR-adjusted P &lt; 0.038). Functional analysis revealed that microbial gene markers for glutamate and arginine biosynthesis were downregulated, while antimicrobial resistance gene markers were upregulated in PD patients than healthy controls (all P &lt; 0.001). We identified a connection between the oral and gut microbiota in PD, which might lead to functional alteration of the microbiome in PD.
 
 [Source](https://doi.org/10.1038/s41531-022-00351-6)
+
+10.1038/s41531-022-00351-6
 
 ---
 
@@ -149,9 +155,15 @@ We assessed public perspectives of microbiome research privacy risks before and 
 
 ---
 
-## A Bayesian method for identifying associations between response variables and bacterial community composition
+## A Bayesian method for identifying associations between response variables and bacterial community composition.
+ 06.07.2022, _A Verster, N Petronella, J Green, F Matias, SPJ Brooks_
+
+
+Determining associations between intestinal bacteria and continuously measured physiological outcomes is important for understanding the bacteria-host relationship but is not straightforward since abundance data (compositional data) are not normally distributed. To address this issue, we developed a fully Bayesian linear regression model (BRACoD; Bayesian Regression Analysis of Compositional Data) with physiological measurements (continuous data) as a function of a matrix of relative bacterial abundances. Bacteria can be classified as operational taxonomic units or by taxonomy (genus, family, etc.). Bacteria associated with the physiological measurement were identified using a Bayesian variable selection method: Stochastic Search Variable Selection. The output is a list of inclusion probabilities ([Formula: see text]) and coefficients that indicate the strength of the association ([Formula: see text]) for each bacterial taxa. Tests with simulated communities showed that adopting a cut point value of [Formula: see text] ≥ 0.3 for identifying included bacteria optimized the true positive rate (TPR) while maintaining a false positive rate (FPR) of ≤ 5%. At this point, the chances of identifying non-contributing bacteria were low and all well-established contributors were included. Comparison with other methods showed that BRACoD (at [Formula: see text] ≥ 0.3) had higher precision and a higher TPR than a commonly used center log transformed LASSO procedure (clr-LASSO) as well as higher TPR than an off-the-shelf Spike and Slab method after center log transformation (clr-SS). BRACoD was also less likely to include non-contributing bacteria that merely correlate with contributing bacteria. Analysis of a rat microbiome experiment identified 47 operational taxonomic units that contributed to fecal butyrate levels. Of these, 31 were positively and 16 negatively associated with butyrate. Consistent with their known role in butyrate metabolism, most of these fell within the Lachnospiraceae and Ruminococcaceae. We conclude that BRACoD provides a more precise and accurate method for determining bacteria associated with a continuous physiological outcome compared to clr-LASSO. It is more sensitive than a generalized clr-SS algorithm, although it has a higher FPR. Its ability to distinguish genuine contributors from correlated bacteria makes it better suited to discriminating bacteria that directly contribute to an outcome. The algorithm corrects for the distortions arising from compositional data making it appropriate for analysis of microbiome data.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1010108)
+
+10.1371/journal.pcbi.1010108
 
 ---
 
