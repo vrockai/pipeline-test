@@ -22,9 +22,16 @@
 
 ---
 
-## Gut microbiota composition in colorectal cancer patients is genetically regulated
+## Gut microbiota composition in colorectal cancer patients is genetically regulated.
+ 08.07.2022, _F Colombo, O Illescas, S Noci, F Minnai, G Pintarelli, A Pettinicchio, A Vannelli, L Sorrentino, L Battaglia, M Cosimelli, TA Dragani, M Gariboldi_
+
+
+_Bacteria, Bacteroides, Colorectal Neoplasms, Faecalibacterium, Gastrointestinal Microbiome, Humans, Microbiota, RNA, Ribosomal, 16S, Tumor Microenvironment_
+The risk of colorectal cancer (CRC) depends on environmental and genetic factors. Among environmental factors, an imbalance in the gut microbiota can increase CRC risk. Also, microbiota is influenced by host genetics. However, it is not known if germline variants influence CRC development by modulating microbiota composition. We investigated germline variants associated with the abundance of bacterial populations in the normal (non-involved) colorectal mucosa of 93 CRC patients and evaluated their possible role in disease. Using a multivariable linear regression, we assessed the association between germline variants identified by genome wide genotyping and bacteria abundances determined by 16S rRNA gene sequencing. We identified 37 germline variants associated with the abundance of the genera Bacteroides, Ruminococcus, Akkermansia, Faecalibacterium and Gemmiger and with alpha diversity. These variants are correlated with the expression of 58 genes involved in inflammatory responses, cell adhesion, apoptosis and barrier integrity. Genes and bacteria appear to be involved in the same processes. In fact, expression of the pro-inflammatory genes GAL, GSDMD and LY6H was correlated with the abundance of Bacteroides, which has pro-inflammatory properties; abundance of the anti-inflammatory genus Faecalibacterium correlated with expression of KAZN, with barrier-enhancing functions. Both the microbiota composition and local inflammation are regulated, at least partially, by the same germline variants. These variants may regulate the microenvironment in which bacteria grow and predispose to the development of cancer. Identification of these variants is the first step to identifying higher-risk individuals and proposing tailored preventive treatments that increase beneficial bacterial populations.
 
 [Source](https://doi.org/10.1038/s41598-022-15230-6)
+
+10.1038/s41598-022-15230-6
 
 ---
 
@@ -148,9 +155,15 @@ We assessed public perspectives of microbiome research privacy risks before and 
 
 ---
 
-## GenBank as a Source to Monitor and Analyze Host-Microbiome Data
+## GenBank as a Source to Monitor and Analyze Host-Microbiome Data.
+ 08.07.2022, _V Ramanan, S Mechery, IN Sarkar_
+
+
+Microbiome datasets are often constrained by sequencing limitations. GenBank is the largest collection of publicly available DNA sequences, which is maintained by the National Center of Biotechnology Information (NCBI). The metadata of GenBank records are a largely understudied resource and may be uniquely leveraged to access the sum of prior studies focused on microbiome composition. Here, we developed a computational pipeline to analyze GenBank metadata, containing data on hosts, microorganisms, and their place of origin. This work provides the first opportunity to leverage the totality of GenBank to shed light on compositional data practices that shape how microbiome datasets are formed as well as examine host-microbiome relationships.
 
 [Source](https://doi.org/10.1093/bioinformatics/btac487)
+
+10.1093/bioinformatics/btac487
 
 ---
 
