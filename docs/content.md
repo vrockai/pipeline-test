@@ -154,9 +154,15 @@ We assessed public perspectives of microbiome research privacy risks before and 
 
 ---
 
-## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies
+## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies.
+ 07.07.2022, _HB Hassler, B Probert, C Moore, E Lawson, RW Jackson, BT Russell, VP Richards_
+
+
+The 16S rRNA gene is used extensively in bacterial phylogenetics, in species delineation, and now widely in microbiome studies. However, the gene suffers from intragenomic heterogeneity, and reports of recombination and an unreliable phylogenetic signal are accumulating. Here, we compare core gene phylogenies to phylogenies constructed using core gene concatenations to estimate the strength of signal for the 16S rRNA gene, its hypervariable regions, and all core genes at the intra- and inter-genus levels. Specifically, we perform four intra-genus analyses (Clostridium, n = 65; Legionella, n = 47; Staphylococcus, n = 36; and Campylobacter, n = 17) and one inter-genus analysis [41 core genera of the human gut microbiome (31 families, 17 orders, and 12 classes), n = 82].
 
 [Source](https://doi.org/10.1186/s40168-022-01295-y)
+
+10.1186/s40168-022-01295-y
 
 ---
 
