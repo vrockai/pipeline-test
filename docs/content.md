@@ -10,9 +10,15 @@
 
 ---
 
-## Oral and gut dysbiosis leads to functional alterations in Parkinson’s disease
+## Oral and gut dysbiosis leads to functional alterations in Parkinson's disease.
+ 07.07.2022, _S Jo, W Kang, YS Hwang, SH Lee, KW Park, MS Kim, H Lee, HJ Yoon, YK Park, M Chalita, JH Lee, H Sung, JY Lee, JW Bae, SJ Chung_
+
+
+Although several studies have identified a distinct gut microbial composition in Parkinson's disease (PD), few studies have investigated the oral microbiome or functional alteration of the microbiome in PD. We aimed to investigate the connection between the oral and gut microbiome and the functional changes in the PD-specific gut microbiome using shotgun metagenomic sequencing. The taxonomic composition of the oral and gut microbiome was significantly different between PD patients and healthy controls (P = 0.003 and 0.001, respectively). Oral Lactobacillus was more abundant in PD patients and was associated with opportunistic pathogens in the gut (FDR-adjusted P &lt; 0.038). Functional analysis revealed that microbial gene markers for glutamate and arginine biosynthesis were downregulated, while antimicrobial resistance gene markers were upregulated in PD patients than healthy controls (all P &lt; 0.001). We identified a connection between the oral and gut microbiota in PD, which might lead to functional alteration of the microbiome in PD.
 
 [Source](https://doi.org/10.1038/s41531-022-00351-6)
+
+10.1038/s41531-022-00351-6
 
 ---
 
@@ -22,9 +28,16 @@
 
 ---
 
-## Gut microbiota composition in colorectal cancer patients is genetically regulated
+## Gut microbiota composition in colorectal cancer patients is genetically regulated.
+ 08.07.2022, _F Colombo, O Illescas, S Noci, F Minnai, G Pintarelli, A Pettinicchio, A Vannelli, L Sorrentino, L Battaglia, M Cosimelli, TA Dragani, M Gariboldi_
+
+
+_Bacteria, Bacteroides, Colorectal Neoplasms, Faecalibacterium, Gastrointestinal Microbiome, Humans, Microbiota, RNA, Ribosomal, 16S, Tumor Microenvironment_
+The risk of colorectal cancer (CRC) depends on environmental and genetic factors. Among environmental factors, an imbalance in the gut microbiota can increase CRC risk. Also, microbiota is influenced by host genetics. However, it is not known if germline variants influence CRC development by modulating microbiota composition. We investigated germline variants associated with the abundance of bacterial populations in the normal (non-involved) colorectal mucosa of 93 CRC patients and evaluated their possible role in disease. Using a multivariable linear regression, we assessed the association between germline variants identified by genome wide genotyping and bacteria abundances determined by 16S rRNA gene sequencing. We identified 37 germline variants associated with the abundance of the genera Bacteroides, Ruminococcus, Akkermansia, Faecalibacterium and Gemmiger and with alpha diversity. These variants are correlated with the expression of 58 genes involved in inflammatory responses, cell adhesion, apoptosis and barrier integrity. Genes and bacteria appear to be involved in the same processes. In fact, expression of the pro-inflammatory genes GAL, GSDMD and LY6H was correlated with the abundance of Bacteroides, which has pro-inflammatory properties; abundance of the anti-inflammatory genus Faecalibacterium correlated with expression of KAZN, with barrier-enhancing functions. Both the microbiota composition and local inflammation are regulated, at least partially, by the same germline variants. These variants may regulate the microenvironment in which bacteria grow and predispose to the development of cancer. Identification of these variants is the first step to identifying higher-risk individuals and proposing tailored preventive treatments that increase beneficial bacterial populations.
 
 [Source](https://doi.org/10.1038/s41598-022-15230-6)
+
+10.1038/s41598-022-15230-6
 
 ---
 
@@ -34,15 +47,33 @@
 
 ---
 
+## Effects of probiotic Lactiplantibacillus plantarum IMC 510 supplementation on metabolic factors in otherwise healthy overweight and obese individuals.
+ 07.07.2022, _MM Coman, L Miorelli, MV Micioni Di Bonaventura, C Cifani, C Salvesi, A Amedei, S Silvi, MC Verdenelli_
+
+
+Probiotic supplementation approach offers the possibility to shape the gut microbiota (GM), enabling the development of innovative formulations able to improve intestinal wellbeing and consequently the related body weight modulation and energy metabolism. In the present clinical study, a new potential probiotic supplement based on Lactiplantibacillus plantarum IMC 510 was studied for weight management.
+
+[Source](https://doi.org/10.1111/jam.15703)
+
+10.1111/jam.15703
+
+---
+
 ## Effects of probiotic <em>Lactiplantibacillus plantarum </em>IMC 510 supplementation on metabolic factors in otherwise healthy overweight and obese individuals
 
 [Source](https://doi.org/10.1111/jam.15703)
 
 ---
 
-## Grape seed and skin extract, a potential prebiotic with anti-obesity effect through gut microbiota modulation
+## Grape seed and skin extract, a potential prebiotic with anti-obesity effect through gut microbiota modulation.
+ 06.07.2022, _M Mokrani, K Charradi, F Limam, E Aouani, MC Urdaci_
+
+
+Obesity is a worldwide health problem and a significant risk factor for diabetes and cardiovascular diseases. Gut microbiota (GM) plays an essential role in obesity, and prebiotics such as polyphenols could be one way to improve microbial dysbiosis-induced obesity.
 
 [Source](https://doi.org/10.1186/s13099-022-00505-0)
+
+10.1186/s13099-022-00505-0
 
 ---
 
@@ -52,9 +83,16 @@
 
 ---
 
-## Transplantation of bacteriophages from ulcerative colitis patients shifts the gut bacteriome and exacerbates the severity of DSS colitis
+## Transplantation of bacteriophages from ulcerative colitis patients shifts the gut bacteriome and exacerbates the severity of DSS colitis.
+ 11.07.2022, _A Sinha, Y Li, MK Mirzaei, M Shamash, R Samadfam, IL King, CF Maurice_
+
+
+_Animals, Bacteria, Bacteriophages, Colitis, Colitis, Ulcerative, Gastrointestinal Microbiome, Inflammation, Inflammatory Bowel Diseases, Mice_
+Inflammatory bowel diseases (IBDs) including Crohn's disease (CD) and ulcerative colitis (UC) are characterized by chronic and debilitating gut inflammation. Altered bacterial communities of the intestine are strongly associated with IBD initiation and progression. The gut virome, which is primarily composed of bacterial viruses (bacteriophages, phages), is thought to be an important factor regulating and shaping microbial communities in the gut. While alterations in the gut virome have been observed in IBD patients, the contribution of these viruses to alterations in the bacterial community and heightened inflammatory responses associated with IBD patients remains largely unknown.
 
 [Source](https://doi.org/10.1186/s40168-022-01275-2)
+
+10.1186/s40168-022-01275-2
 
 ---
 
@@ -64,9 +102,15 @@
 
 ---
 
-## Microplastic exposure across trophic levels: effects on the host-microbiota of freshwater organisms
+## Microplastic exposure across trophic levels: effects on the host-microbiota of freshwater organisms.
+ 06.07.2022, _JE Varg, D Outomuro, W Kunce, L Kuehrer, R Svanbäck, F Johansson_
+
+
+Microplastics are a pervasive pollutant widespread in the sea and freshwater from anthropogenic sources, and together with the presence of pesticides, they can have physical and chemical effects on aquatic organisms and on their microbiota. Few studies have explored the combined effects of microplastics and pesticides on the host-microbiome, and more importantly, the effects across multiple trophic levels. In this work, we studied the effects of exposure to microplastics and the pesticide deltamethrin on the diversity and abundance of the host-microbiome across a three-level food chain: daphnids-damselfly-dragonflies. Daphnids were the only organism exposed to 1 µm microplastic beads, and they were fed to damselfly larvae. Those damselfly larvae were exposed to deltamethrin and then fed to the dragonfly larvae. The microbiotas of the daphnids, damselflies, and dragonflies were analyzed.
 
 [Source](https://doi.org/10.1186/s40793-022-00429-x)
+
+10.1186/s40793-022-00429-x
 
 ---
 
@@ -76,15 +120,27 @@
 
 ---
 
-## Uncovering Hidden Members and Functions of the Soil Microbiome Using De Novo Metaproteomics
+## Uncovering Hidden Members and Functions of the Soil Microbiome Using De Novo Metaproteomics.
+ 06.07.2022, _JY Lee, HD Mitchell, MC Burnet, R Wu, SC Jenson, ED Merkley, ES Nakayasu, CD Nicora, JK Jansson, KE Burnum-Johnson, SH Payne_
+
+
+Metaproteomics has been increasingly utilized for high-throughput characterization of proteins in complex environments and has been demonstrated to provide insights into microbial composition and functional roles. However, significant challenges remain in metaproteomic data analysis, including creation of a sample-specific protein sequence database. A well-matched database is a requirement for successful metaproteomics analysis, and the accuracy and sensitivity of PSM identification algorithms suffer when the database is incomplete or contains extraneous sequences. When matched DNA sequencing data of the sample is unavailable or incomplete, creating the proteome database that accurately represents the organisms in the sample is a challenge. Here, we leverage a de novo peptide sequencing approach to identify the sample composition directly from metaproteomic data. First, we created a deep learning model, Kaiko, to predict the peptide sequences from mass spectrometry data and trained it on 5 million peptide-spectrum matches from 55 phylogenetically diverse bacteria. After training, Kaiko successfully identified organisms from soil isolates and synthetic communities directly from proteomics data. Finally, we created a pipeline for metaproteome database generation using Kaiko. We tested the pipeline on native soils collected in Kansas, showing that the de novo sequencing model can be employed as an alternative and complementary method to construct the sample-specific protein database instead of relying on (un)matched metagenomes. Our pipeline identified all highly abundant taxa from 16S rRNA sequencing of the soil samples and uncovered several additional species which were strongly represented only in proteomic data.
 
 [Source](https://doi.org/10.1021/acs.jproteome.2c00334)
 
+10.1021/acs.jproteome.2c00334
+
 ---
 
-## Privacy Risks in Microbiome Research: Public Perspectives before and during a Global Pandemic
+## Privacy Risks in Microbiome Research: Public Perspectives before and during a Global Pandemic.
+ 11.07.2022, _A Shin, H Xu_
+
+
+We assessed public perspectives of microbiome research privacy risks before and after a nationwide emergency was declared in the United States regarding the Covid-19 pandemic. From January to July of 2020, we conducted an online survey of perceived privacy risks of microbiome research among U.S. adults. Among 3,106 participants (the preemergency group), most expressed that the microbiome posed privacy risks similar to those associated with DNA (60.3%) or medical records (50.6%) and that they would prefer detailed explanations (70.2%) of risk in consent materials. Only 8.9% reported moderate to high familiarity with microbiome privacy risks. In adjusted analyses, individuals who participated in the study after the Covid-19 emergency was declared (the Covid-19 emergency group) were less likely to express that microbiome privacy risks were similar to those of DNA or medical records and more likely to report familiarity with the privacy risks of microbiomes. There was a trend toward increased concern after the Covid-19 emergency was declared (p = 0.053). Overall, the study revealed that many U.S. adults believe that microbiome privacy risks are similar to those associated with DNA or medical records, and they prefer detailed explanations in consent documents. Individuals who participated after the Covid-19 emergency was declared reported greater knowledge of microbiome privacy risks but had more concern.
 
 [Source](https://doi.org/10.1002/eahr.500132)
+
+10.1002/eahr.500132
 
 ---
 
@@ -100,21 +156,40 @@
 
 ---
 
-## A Bayesian method for identifying associations between response variables and bacterial community composition
+## A Bayesian method for identifying associations between response variables and bacterial community composition.
+ 06.07.2022, _A Verster, N Petronella, J Green, F Matias, SPJ Brooks_
+
+
+Determining associations between intestinal bacteria and continuously measured physiological outcomes is important for understanding the bacteria-host relationship but is not straightforward since abundance data (compositional data) are not normally distributed. To address this issue, we developed a fully Bayesian linear regression model (BRACoD; Bayesian Regression Analysis of Compositional Data) with physiological measurements (continuous data) as a function of a matrix of relative bacterial abundances. Bacteria can be classified as operational taxonomic units or by taxonomy (genus, family, etc.). Bacteria associated with the physiological measurement were identified using a Bayesian variable selection method: Stochastic Search Variable Selection. The output is a list of inclusion probabilities ([Formula: see text]) and coefficients that indicate the strength of the association ([Formula: see text]) for each bacterial taxa. Tests with simulated communities showed that adopting a cut point value of [Formula: see text] ≥ 0.3 for identifying included bacteria optimized the true positive rate (TPR) while maintaining a false positive rate (FPR) of ≤ 5%. At this point, the chances of identifying non-contributing bacteria were low and all well-established contributors were included. Comparison with other methods showed that BRACoD (at [Formula: see text] ≥ 0.3) had higher precision and a higher TPR than a commonly used center log transformed LASSO procedure (clr-LASSO) as well as higher TPR than an off-the-shelf Spike and Slab method after center log transformation (clr-SS). BRACoD was also less likely to include non-contributing bacteria that merely correlate with contributing bacteria. Analysis of a rat microbiome experiment identified 47 operational taxonomic units that contributed to fecal butyrate levels. Of these, 31 were positively and 16 negatively associated with butyrate. Consistent with their known role in butyrate metabolism, most of these fell within the Lachnospiraceae and Ruminococcaceae. We conclude that BRACoD provides a more precise and accurate method for determining bacteria associated with a continuous physiological outcome compared to clr-LASSO. It is more sensitive than a generalized clr-SS algorithm, although it has a higher FPR. Its ability to distinguish genuine contributors from correlated bacteria makes it better suited to discriminating bacteria that directly contribute to an outcome. The algorithm corrects for the distortions arising from compositional data making it appropriate for analysis of microbiome data.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1010108)
 
+10.1371/journal.pcbi.1010108
+
 ---
 
-## GenBank as a Source to Monitor and Analyze Host-Microbiome Data
+## GenBank as a Source to Monitor and Analyze Host-Microbiome Data.
+ 08.07.2022, _V Ramanan, S Mechery, IN Sarkar_
+
+
+Microbiome datasets are often constrained by sequencing limitations. GenBank is the largest collection of publicly available DNA sequences, which is maintained by the National Center of Biotechnology Information (NCBI). The metadata of GenBank records are a largely understudied resource and may be uniquely leveraged to access the sum of prior studies focused on microbiome composition. Here, we developed a computational pipeline to analyze GenBank metadata, containing data on hosts, microorganisms, and their place of origin. This work provides the first opportunity to leverage the totality of GenBank to shed light on compositional data practices that shape how microbiome datasets are formed as well as examine host-microbiome relationships.
 
 [Source](https://doi.org/10.1093/bioinformatics/btac487)
 
+10.1093/bioinformatics/btac487
+
 ---
 
-## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies
+## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies.
+ 11.07.2022, _HB Hassler, B Probert, C Moore, E Lawson, RW Jackson, BT Russell, VP Richards_
+
+
+_Bacteria, Genes, rRNA, Humans, Microbiota, Phylogeny, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
+The 16S rRNA gene is used extensively in bacterial phylogenetics, in species delineation, and now widely in microbiome studies. However, the gene suffers from intragenomic heterogeneity, and reports of recombination and an unreliable phylogenetic signal are accumulating. Here, we compare core gene phylogenies to phylogenies constructed using core gene concatenations to estimate the strength of signal for the 16S rRNA gene, its hypervariable regions, and all core genes at the intra- and inter-genus levels. Specifically, we perform four intra-genus analyses (Clostridium, n = 65; Legionella, n = 47; Staphylococcus, n = 36; and Campylobacter, n = 17) and one inter-genus analysis [41 core genera of the human gut microbiome (31 families, 17 orders, and 12 classes), n = 82].
 
 [Source](https://doi.org/10.1186/s40168-022-01295-y)
+
+10.1186/s40168-022-01295-y
 
 ---
 
