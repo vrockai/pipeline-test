@@ -84,9 +84,10 @@ Obesity is a worldwide health problem and a significant risk factor for diabetes
 ---
 
 ## Transplantation of bacteriophages from ulcerative colitis patients shifts the gut bacteriome and exacerbates the severity of DSS colitis.
- 07.07.2022, _A Sinha, Y Li, MK Mirzaei, M Shamash, R Samadfam, IL King, CF Maurice_
+ 11.07.2022, _A Sinha, Y Li, MK Mirzaei, M Shamash, R Samadfam, IL King, CF Maurice_
 
 
+_Animals, Bacteria, Bacteriophages, Colitis, Colitis, Ulcerative, Gastrointestinal Microbiome, Inflammation, Inflammatory Bowel Diseases, Mice_
 Inflammatory bowel diseases (IBDs) including Crohn's disease (CD) and ulcerative colitis (UC) are characterized by chronic and debilitating gut inflammation. Altered bacterial communities of the intestine are strongly associated with IBD initiation and progression. The gut virome, which is primarily composed of bacterial viruses (bacteriophages, phages), is thought to be an important factor regulating and shaping microbial communities in the gut. While alterations in the gut virome have been observed in IBD patients, the contribution of these viruses to alterations in the bacterial community and heightened inflammatory responses associated with IBD patients remains largely unknown.
 
 [Source](https://doi.org/10.1186/s40168-022-01275-2)
@@ -132,7 +133,7 @@ Metaproteomics has been increasingly utilized for high-throughput characterizati
 ---
 
 ## Privacy Risks in Microbiome Research: Public Perspectives before and during a Global Pandemic.
- 08.07.2022, _A Shin, H Xu_
+ 11.07.2022, _A Shin, H Xu_
 
 
 We assessed public perspectives of microbiome research privacy risks before and after a nationwide emergency was declared in the United States regarding the Covid-19 pandemic. From January to July of 2020, we conducted an online survey of perceived privacy risks of microbiome research among U.S. adults. Among 3,106 participants (the preemergency group), most expressed that the microbiome posed privacy risks similar to those associated with DNA (60.3%) or medical records (50.6%) and that they would prefer detailed explanations (70.2%) of risk in consent materials. Only 8.9% reported moderate to high familiarity with microbiome privacy risks. In adjusted analyses, individuals who participated in the study after the Covid-19 emergency was declared (the Covid-19 emergency group) were less likely to express that microbiome privacy risks were similar to those of DNA or medical records and more likely to report familiarity with the privacy risks of microbiomes. There was a trend toward increased concern after the Covid-19 emergency was declared (p = 0.053). Overall, the study revealed that many U.S. adults believe that microbiome privacy risks are similar to those associated with DNA or medical records, and they prefer detailed explanations in consent documents. Individuals who participated after the Covid-19 emergency was declared reported greater knowledge of microbiome privacy risks but had more concern.
@@ -180,9 +181,10 @@ Microbiome datasets are often constrained by sequencing limitations. GenBank is 
 ---
 
 ## Phylogenies of the 16S rRNA gene and its hypervariable regions lack concordance with core genome phylogenies.
- 07.07.2022, _HB Hassler, B Probert, C Moore, E Lawson, RW Jackson, BT Russell, VP Richards_
+ 11.07.2022, _HB Hassler, B Probert, C Moore, E Lawson, RW Jackson, BT Russell, VP Richards_
 
 
+_Bacteria, Genes, rRNA, Humans, Microbiota, Phylogeny, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
 The 16S rRNA gene is used extensively in bacterial phylogenetics, in species delineation, and now widely in microbiome studies. However, the gene suffers from intragenomic heterogeneity, and reports of recombination and an unreliable phylogenetic signal are accumulating. Here, we compare core gene phylogenies to phylogenies constructed using core gene concatenations to estimate the strength of signal for the 16S rRNA gene, its hypervariable regions, and all core genes at the intra- and inter-genus levels. Specifically, we perform four intra-genus analyses (Clostridium, n = 65; Legionella, n = 47; Staphylococcus, n = 36; and Campylobacter, n = 17) and one inter-genus analysis [41 core genera of the human gut microbiome (31 families, 17 orders, and 12 classes), n = 82].
 
 [Source](https://doi.org/10.1186/s40168-022-01295-y)
