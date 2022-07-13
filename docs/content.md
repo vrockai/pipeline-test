@@ -29,18 +29,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Nalbuphine as analgesic in preschool children undergoing ophthalmic surgery and the occurrence of emergence delirium.
- 11.07.2022, _N Leister, U Trieschmann, S Yücetepe, C Ulrichs, N Muenke, S Wendt, C Menzel, LM Heindl_
-
-
-Perioperative pain in children is often inadequately treated, and emergence agitation is common. The purpose of this analysis was to determine whether nalbuphine is suitable for perioperative eye pain and to analyse if it influences the occurrence of emergence delirium/agitation (EDA) in children undergoing ophthalmic surgery in general anaesthesia.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1537698886931861509?ref_src=twsrc%5Etfw)
-
-10.1136/bjo-2022-321575
-
----
-
 ## June 17, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1537698886931861509?ref_src=twsrc%5Etfw)
@@ -149,18 +137,6 @@ Perioperative pain in children is often inadequately treated, and emergence agit
 
 ---
 
-## A transdiagnostic review of safety, efficacy, and parameter space in accelerated transcranial magnetic stimulation.
- 11.07.2022, _KA Caulfield, HH Fleischmann, MS George, LM McTeague_
-
-
-Accelerated transcranial magnetic stimulation (aTMS) is an emerging delivery schedule of repetitive TMS (rTMS). TMS is "accelerated" by applying two or more stimulation sessions within a day. This three-part review comprehensively reports the safety/tolerability, efficacy, and stimulation parameters affecting response across disorders.
-
-[Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
-
-10.1016/j.jpsychires.2022.06.038
-
----
-
 ## July 10, 2022
 
 [Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
@@ -264,15 +240,9 @@ Consumption of fermented foods has grown worldwide due to the purported health b
 
 ---
 
-## Pilot investigation on biostability of drinking water distribution systems under water source switching.
- 06.07.2022, _K Zhang, X Wu, T Zhang, C Cen, R Mao, R Pan_
-
-
-Water quality deterioration of drinking water distribution systems (DWDSs) caused by water source switching has been reported previously. However, systematic investigation of the biostability of DWDS under water source switching is limited. Aged pipes, including three commonly used pipe materials dug out from a practical DWDS, were used to systematically investigate the biofilm stability mechanism of DWDS under water source switching to quality-improved water. An increase in adenosine triphosphate (ATP) concentration in the bulk water during the initial stage of the switching period was observed, indicating the risk of biofilm release through aged pipe surfaces after water source switching. Sloughing of biofilms might contribute to temporary instability. From day 35, the ATP concentration in the polyethylene (PE) and plastic stainless steel composite (PS) pipes were maintained at approximately 2.40 and 2.56 ng/L, respectively. In contrast, the ATP concentration in the ductile iron (DI) pipes was higher, at approximately 3.43 ng/L from day 42. The water quality variation could cause areas of the biofilm to slough and reduce the biomass of biofilm, causing partial alteration of the microbial community. 16S rRNA gene amplicon sequencing-based functional prediction revealed that the biofilm could increase the abundance of chlorine-resistant bacteria attributed to the increase in Pseudomonas and Methylobacterium after switching to quality-improved water. Moreover, the profiles of specific pathways linked to human diseases, antibiotic resistance, and antibiotic biosynthesis revealed that the safety of the biofilm could improve after switching to quality-improved water. KEY POINTS: • The PE and PS biofilm showed improved resistance to water quality perturbation. • Greater number of Methylobacterium was found in the biofilm after water source switching. • 3.16S gene-based metagenomics prediction revealed that the safety of the biofilm under water source switching.
+## Pilot investigation on biostability of drinking water distribution systems under water source switching
 
 [Source](https://link.springer.com/article/10.1007/s00253-022-12050-6)
-
-10.1007/s00253-022-12050-6
 
 ---
 
@@ -294,34 +264,15 @@ Water quality deterioration of drinking water distribution systems (DWDSs) cause
 
 ---
 
-## Nicotine pouch marketing strategies in the USA: an analysis of Zyn, On! and Velo.
- 11.07.2022, _Z Duan, L Henriksen, D Vallone, JM Rath, WD Evans, KF Romm, C Wysota, CJ Berg_
-
-
-Nicotine pouches are gaining popularity, yet their marketing is understudied.
-
-[Source](https://twitter.com/zhuqiyun/status/1544912630938079237?ref_src=twsrc%5Etfw)
-
-10.1136/tc-2022-057360
-
----
-
 ## July 7, 2022
 
 [Source](https://twitter.com/zhuqiyun/status/1544912630938079237?ref_src=twsrc%5Etfw)
 
 ---
 
-## getSequenceInfo: a suite of tools allowing to get genome sequence information from public repositories.
- 12.07.2022, _V Moco, D Cazenave, M Garnier, M Pot, I Marcelino, A Talarmin, S Guyomard-Rabenirina, S Breurec, S Ferdinand, A Dereeper, Y Reynaud, D Couvin_
-
-
-_Databases, Nucleic Acid, Genome, Genomics, Nucleotides, Software_
-Biological sequences are increasing rapidly and exponentially worldwide. Nucleotide sequence databases play an important role in providing meaningful genomic information on a variety of biological organisms.
+## getSequenceInfo: a suite of tools allowing to get genome sequence information from public repositories 
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04809-5)
-
-10.1186/s12859-022-04809-5
 
 ---
 
@@ -352,18 +303,6 @@ Biological sequences are increasing rapidly and exponentially worldwide. Nucleot
 ## https://t.co/Ymjd43k04A
 
 [Source](https://t.co/Ymjd43k04A)
-
----
-
-## Nicotine pouch marketing strategies in the USA: an analysis of Zyn, On! and Velo.
- 11.07.2022, _Z Duan, L Henriksen, D Vallone, JM Rath, WD Evans, KF Romm, C Wysota, CJ Berg_
-
-
-Nicotine pouches are gaining popularity, yet their marketing is understudied.
-
-[Source](https://twitter.com/MayaGosztyla/status/1545247612294418433?ref_src=twsrc%5Etfw)
-
-10.1136/tc-2022-057360
 
 ---
 
