@@ -1,175 +1,375 @@
-## Metagenomic prediction of antimicrobial resistance in critically ill patients with lower respiratory tract infections
-
-[Source](https://doi.org/10.1186/s13073-022-01072-4)
-
----
-
-## Alterations in gut microbiota of esophageal squamous cell carcinoma patients.
- 11.07.2022, _MK Cheung, GGL Yue, S Lauw, CSY Li, MY Yung, SC Ng, HC Yip, HS Kwan, PWY Chiu, CBS Lau_
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
 
 
-Esophageal squamous cell carcinoma (ESCC) is the most common histological subtype of esophageal cancer worldwide. Patients with ESCC display an altered esophageal microbiota compared with healthy individuals; however, little is known about the gut microbiota in ESCC.
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
 
-[Source](https://doi.org/10.1111/jgh.15941)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/jgh.15941
+10.3390/ijerph19010099
 
 ---
 
-## Altered Pattern of Immunoglobulin A-Targeted Microbiota in Inflammatory Bowel Disease After Fecal Transplantation.
- 11.07.2022, _WQ Huang, HL Huang, W Peng, YD Liu, YL Zhou, HM Xu, LJ Zhang, C Zhao, YQ Nie_
+## #MVIF
 
-
-Adaptive immune response to the gut microbiota is one of the main drivers of inflammatory bowel disease (IBD). Under inflammatory conditions, immunoglobulin (Ig)-targeted bacteria are altered. However, changes in Ig-targeted bacteria in Asian patients with IBD with ulcerative colitis (UC) remain unclear. Furthermore, changes in IgA-targeted bacteria in patients with UC treated with fecal microbiota transplantation (FMT) are unclear. Here, we analyzed fecal samples of patients with IBD and patients with UC before and after FMT by flow cytometry. We found that the percentage of IgA/G-coated bacteria can be used to assess the severity of IBD. Besides oral pharyngeal bacteria such as Streptococcus, we hypothesized that Megamonas, Acinetobacter, and, especially, Staphylococcus might play an important role in IBD pathogenesis. Moreover, we evaluated the influence of FMT on IgA-coated bacteria in patients with UC. We found that IgA-bacterial interactions were re-established in human FMT recipients and resembled those in the healthy fecal donors. Additionally, the IgA targeting was not influenced by delivery methods: gastroscopy spraying and colonic transendoscopic enteral tubing (TET). Then, we established an acute dextran sulfate sodium (DSS)-induced mouse model to explore whether FMT intervention would impact IgA/G memory B cell in the intestine. We found that after FMT, both IgA/G memory B cell and the percentage of IgA/G-targeted bacteria were restored to normal levels in DSS mice.
-
-[Source](https://doi.org/10.3389/fmicb.2022.873018)
-
-10.3389/fmicb.2022.873018
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## 16S rRNA gene sequencing reveals an altered composition of gut microbiota in children with <em>Mycoplasma pneumoniae</em> pneumonia treated with azithromycin
+## https://t.co/ppm8Q9lSMY
 
-[Source](https://doi.org/10.2323/jgam.2022.05.004)
-
----
-
-## Clinical and metagenomic profiling of hormonal acne-prone skin in different populations.
- 10.07.2022, _N Hrapovic, T Richard, C Messaraa, X Li, A Abbaspour, S Fabre, A Mavon, B Andersson, I Khmaladze_
-
-
-Acne is one of the most common skin concerns of unknown etiology, often connected to the menstrual cycle in women, and possibly to the microbial profile and function.
-
-[Source](https://doi.org/10.1111/jocd.15225)
-
-10.1111/jocd.15225
+[Source](https://t.co/ppm8Q9lSMY)
 
 ---
 
-## Microbiota diversity in nonalcoholic fatty liver disease and in drug-induced liver injury.
- 11.07.2022, _C Rodriguez-Diaz, B Taminiau, A García-García, A Cueto, M Robles-Díaz, A Ortega-Alonso, F Martín-Reyes, G Daube, J Sanabria-Cabrera, M Jimenez-Perez, M Isabel Lucena, RJ Andrade, E García-Fuentes, M García-Cortes_
+## pic.twitter.com/7fKiuD3gvD
 
-
-The gut microbiota could play a significant role in the progression of nonalcoholic fatty liver disease (NAFLD); however, its relevance in drug-induced liver injury (DILI) remains unexplored. Since the two hepatic disorders may share damage pathways, we analysed the metagenomic profile of the gut microbiota in NAFLD, with or without significant liver fibrosis, and in DILI, and we identified the main associated bacterial metabolic pathways. In the NAFLD group, we found a decrease in Alistipes, Barnesiella, Eisenbergiella, Flavonifractor, Fusicatenibacter, Gemminger, Intestinimonas, Oscillibacter, Parasutterella, Saccharoferementans and Subdoligranulum abundances compared with those in both the DILI and control groups. Additionally, we detected an increase in Enterobacter, Klebsiella, Sarcina and Turicibacter abundances in NAFLD, with significant liver fibrosis, compared with those in NAFLD with no/mild liver fibrosis. The DILI group exhibited a lower microbial bacterial richness than the control group, and lower abundances of Acetobacteroides, Blautia, Caloramator, Coprococcus, Flavobacterium, Lachnospira, Natronincola, Oscillospira, Pseudobutyrivibrio, Shuttleworthia, Themicanus and Turicibacter compared with those in the NAFLD and control groups. We found seven bacterial metabolic pathways that were impaired only in DILI, most of which were associated with metabolic biosynthesis. In the NAFLD group, most of the differences in the bacterial metabolic pathways found in relation to those in the DILI and control groups were related to fatty acid and lipid biosynthesis. In conclusion, we identified a distinct bacterial profile with specific bacterial metabolic pathways for each type of liver disorder studied. These differences can provide further insight into the physiopathology and development of NAFLD and DILI.
-
-[Source](https://doi.org/10.1016/j.phrs.2022.106348)
-
-10.1016/j.phrs.2022.106348
+[Source](https://t.co/7fKiuD3gvD)
 
 ---
 
-## The potential role of prebiotics, probiotics, and synbiotics in adjuvant cancer therapy especially colorectal cancer.
- 11.07.2022, _Z Alam, X Shang, K Effat, F Kanwal, X He, Y Li, C Xu, W Niu, AR War, Y Zhang_
+## Nalbuphine as analgesic in preschool children undergoing ophthalmic surgery and the occurrence of emergence delirium.
+ 11.07.2022, _N Leister, U Trieschmann, S Yücetepe, C Ulrichs, N Muenke, S Wendt, C Menzel, LM Heindl_
 
 
-Cancer is a global health issue that is rising swiftly with younger people and an increased number of patients. The role of human microbiota in the pathophysiology of tumors has been paid more and more attention. Microecologics including prebiotics, probiotics, and synbiotics are among the best validated/proven resources for the application of microbiological prophylaxis and therapy. There is strong evidence that microecologics have anti-cancer activity and their potential association with cancer is significant. In this review, we will focus on the role of prebiotics, probiotics, and synbiotics in tumor suppression in maintaining the colon barrier, metabolism, immune regulation, inhibition of host tumor cell proliferation, and epidemiological-based recommendations. Besides, other signs illuminate the role of microecological agents to adjunct the cancer treatment and counter the toxic side effects of cancer drugs. In addition, we will explore their role in chemotherapy, where these probiotics can be used as an adjunct to chemotherapy, counteracting the toxic side effects of chemotherapy drugs to minimize or optimize the therapeutic effect. In the treatment of cancer, we can see the role of prebiotics, probiotics, synbiotics, and their application in cancer patients, and the effectiveness effect can be considered as a clinical benefit. PRACTICAL APPLICATIONS: A large number of studies have shown that microecologics including prebiotics, probiotics, and synbiotics play an important role in regulating intestinal microecology and contribute to the prevention and treatment of cancer, indicating that prebiotics, probiotics, and synbiotics have the potential to be used as microecological modulators in the adjuvant therapy of cancer. However, it is not clear what is the anti-tumor mechanism of these microecologics and how they antagonize the side effects of cancer chemotherapy and protect normal cells. This paper reviews the role of prebiotics, probiotics, and synbiotics in tumor suppression in maintaining the colon barrier, metabolism, immune regulation, and prevention of rapid growth of host cells, as well as their potential role in cancer chemotherapy. This review helps to better understand the relationship between prebiotics, probiotics, and synbiotics with immune regulation, intestinal microecology, metabolic regulation, and cell proliferation and provides strong evidence for their potential application as microecologics in cancer adjuvant therapy.
+Perioperative pain in children is often inadequately treated, and emergence agitation is common. The purpose of this analysis was to determine whether nalbuphine is suitable for perioperative eye pain and to analyse if it influences the occurrence of emergence delirium/agitation (EDA) in children undergoing ophthalmic surgery in general anaesthesia.
 
-[Source](https://doi.org/10.1111/jfbc.14302)
+[Source](https://twitter.com/MicrobiomeVIF/status/1537698886931861509?ref_src=twsrc%5Etfw)
 
-10.1111/jfbc.14302
-
----
-
-## Probiotics, prebiotics and postbiotics for better sleep quality: a narrative review.
- 11.07.2022, _JE Haarhuis, A Kardinaal, GAM Kortman_
-
-
-There is a growing prevalence of sleep problems and insomnia worldwide, urging the development of new treatments to tackle this increase. Several studies have suggested that the gut microbiome might influence sleep quality. The gut microbiome affects the host's health via the production of metabolites and compounds with neuroactive and immunomodulatory properties, which include short-chain fatty acids, secondary bile acids and neurotransmitters. Several of these metabolites and compounds are independently known as wakefulness-promoting (serotonin, epinephrine, dopamine, orexin, histamine, acetylcholine, cortisol) or sleep-promoting (gamma-aminobutyric acid, melatonin). The primary aim of this review was to evaluate the potential of pro-, pre- and postbiotic treatments to improve sleep quality. Additionally, we aimed to evaluate whether each of the treatments could ameliorate stress and anxiety, which are known to bidirectionally correlate with sleep problems. Lastly, we provided a mechanistic explanation for our findings. A literature search was conducted using PubMed, Scopus, Web of Science, and Google Scholar to compare all human trials that met our inclusion criteria and were published before November 2021. We furthermore discussed relevant findings from animal experiments to provide a mechanistic insight. While several studies found that sleep latency, sleep length, and cortisol levels improved after pro-, pre- or postbiotic treatment, others did not show any significant improvements for sleep quality, stress, or anxiety. These discrepancies can be explained by between-study variations in study designs, study populations, treatments, type and level of distress, and sex differences. We conclude that the trials discussed provide some evidence for prebiotics, postbiotics, and traditional probiotics, such as those belonging to lactobacilli and bifidobacteria, to improve sleep quality and stress, but stronger evidence might be found in the future after implementing the methodological adjustments that are suggested in this review.
-
-[Source](https://doi.org/10.3920/BM2021.0122)
-
-10.3920/BM2021.0122
+10.1136/bjo-2022-321575
 
 ---
 
-## Gut Microbiota: A Novel Therapeutic Target for Parkinson's Disease.
- 12.07.2022, _M Zhu, X Liu, Y Ye, X Yan, Y Cheng, L Zhao, F Chen, Z Ling_
+## June 17, 2022
 
-
-_Animals, Dysbiosis, Fecal Microbiota Transplantation, Gastrointestinal Microbiome, Neurodegenerative Diseases, Parkinson Disease_
-Parkinson's disease (PD) is the second most common neurodegenerative disease characterized by motor dysfunction. Growing evidence has demonstrated that gut dysbiosis is involved in the occurrence, development and progression of PD. Numerous clinical trials have identified the characteristics of the changed gut microbiota profiles, and preclinical studies in PD animal models have indicated that gut dysbiosis can influence the progression and onset of PD via increasing intestinal permeability, aggravating neuroinflammation, aggregating abnormal levels of α-synuclein fibrils, increasing oxidative stress, and decreasing neurotransmitter production. The gut microbiota can be considered promising diagnostic and therapeutic targets for PD, which can be regulated by probiotics, psychobiotics, prebiotics, synbiotics, postbiotics, fecal microbiota transplantation, diet modifications, and Chinese medicine. This review summarizes the recent studies in PD-associated gut microbiota profiles and functions, the potential roles, and mechanisms of gut microbiota in PD, and gut microbiota-targeted interventions for PD. Deciphering the underlying roles and mechanisms of the PD-associated gut microbiota will help interpret the pathogenesis of PD from new perspectives and elucidate novel therapeutic strategies for PD.
-
-[Source](https://doi.org/10.3389/fimmu.2022.937555)
-
-10.3389/fimmu.2022.937555
+[Source](https://twitter.com/MicrobiomeVIF/status/1537698886931861509?ref_src=twsrc%5Etfw)
 
 ---
 
-## Obesity enriches for tumor protective microbial metabolites and treatment refractory cells to confer therapy resistance in PDAC.
- 11.07.2022, _K Kesh, R Mendez, B Mateo-Victoriano, VT Garrido, B Durden, VK Gupta, A Oliveras Reyes, N Merchant, J Datta, S Banerjee, S Banerjee_
+## Female reproductive tract microbiota and recurrent pregnancy loss: a nested case-control study
 
-
-Obesity causes chronic inflammation and changes in gut microbiome. However, how this contributes to poor survival and therapy resistance in patients with pancreatic cancer remain undetermined. Our current study shows that high fat diet-fed obese pancreatic tumor bearing mice do not respond to standard of care therapy with gemcitabine and paclitaxel when compared to corresponding control diet-fed mice. C57BL6 mice were put on control and high fat diet for 1 month following with pancreatic tumors were implanted in both groups. Microbiome of lean (control) and obese (high fat diet fed) mice was analyzed. Fecal matter transplant from control mice to obese mice sensitized tumors to chemotherapy and demonstrated extensive cell death. Analysis of gut microbiome showed an enrichment of queuosine (Q) producing bacteria in obese mice and an enrichment of S-adenosyl methionine (SAM) producing bacteria in control diet-fed mice. Further, supplementation of obese animals with SAM sensitized pancreatic tumors to chemotherapy. Treatment of pancreatic cancer cells with Q increased PRDX1 involved in oxidative stress protection. In parallel, tumors in obese mice showed increase in CD133+ treatment refractory tumor populations compared to control animals. These observations indicated that microbial metabolite Q accumulation in high fat diet-fed mice protected tumors from chemotherapy induced oxidative stress by upregulating PRDX1. This protection could be reversed by treatment with SAM. We conclude that relative concentration of SAM and queuosine in fecal samples of pancreatic cancer patients can be developed as a potential biomarker and therapeutic target in chemotherapy refractory pancreatic cancer.
-
-[Source](https://doi.org/10.1080/19490976.2022.2096328)
-
-10.1080/19490976.2022.2096328
+[Source](https://www.sciencedirect.com/science/article/pii/S1472648322004187)
 
 ---
 
-## Profiling of d-alanine production by the microbial isolates of rat gut microbiota.
- 12.07.2022, _CJ Lee, TA Qiu, Z Hong, Z Zhang, Y Min, L Zhang, L Dai, H Zhao, T Si, JV Sweedler_
+## Dynamic metabolic interactions and trophic roles of human gut microbes identiﬁed using a minimal microbiome exhibiting ecological properties
 
-
-d-alanine (d-Ala) and several other d-amino acids (d-AAs) act as hormones and neuromodulators in nervous and endocrine systems. Unlike the endogenously synthesized d-serine in animals, d-Ala may be from exogenous sources, e.g., diet and intestinal microorganisms. However, it is unclear if the capability to produce d-Ala and other d-AAs varies among different microbial strains in the gut. We isolated individual microorganisms of rat gut microbiota and profiled their d-AA production in vitro, focusing on d-Ala. Serial dilutions of intestinal contents from adult male rats were plated on agar to obtain clonal cultures. Using MALDI-TOF MS for rapid strain typing, we identified 38 unique isolates, grouped into 11 species based on 16S rRNA gene sequences. We then used two-tier screening to profile bacterial d-AA production, combining a d-amino acid oxidase-based enzymatic assay for rapid assessment of non-acidic d-AA amount and chiral LC-MS/MS to quantify individual d-AAs, revealing 19 out of the 38 isolated strains as d-AA producers. LC-MS/MS analysis of the eight top d-AA producers showed high levels of d-Ala in all strains tested, with substantial inter- and intra-species variations. Though results from the enzymatic assay and LC-MS/MS analysis aligned well, LC-MS/MS further revealed the existence of d-glutamate and d-aspartate, which are poor substrates for this enzymatic assay. We observed large inter- and intra-species variation of d-AA production profiles from rat gut microbiome species, demonstrating the importance of chemical profiling of gut microbiota in addition to sequencing, furthering the idea that microbial metabolites modulate host physiology.
-
-[Source](https://doi.org/10.1096/fj.202101595R)
-
-10.1096/fj.202101595R
+[Source](https://www.nature.com/articles/s41396-022-01255-2.epdf)
 
 ---
 
-## Within-community variation of interspecific divergence patterns in passerine gut microbiota.
- 11.07.2022, _J Kubovčiak, L Schmiedová, T Albrecht, M Těšický, O Tomášek, T Kauzálová, J Kreisinger_
+## @gianniskosto
 
-
-Gut microbiota (GM) often exhibit variation between different host species and co-divergence with hosts' phylogeny. Identifying these patterns is a key for understanding the mechanisms that shaped symbiosis between GM and its hosts. Therefore, both GM-host species specificity and GM-host co-divergence have been investigated by numerous studies. However, most of them neglected a possibility that different groups of bacteria within GM can vary in the tightness of their association with the host. Consequently, unlike most of these studies, we aimed to directly address how the strength of GM-host species specificity and GM-host co-divergence vary across different GM clades. We decomposed GM communities of 52 passerine species (394 individuals), characterized by 16S rRNA amplicon sequence variant (ASV) profiles, into monophyletic Binned Taxonomic units (BTUs). Subsequently, we analyzed strength of host species specificity and correlation with host phylogeny separately for resulting BTUs. We found that most BTUs exhibited significant host-species specificity in their composition. Notably, BTUs exhibiting high host-species specificity comprised bacterial taxa known to impact host's physiology and immune system. However, BTUs rarely displayed significant co-divergence with host phylogeny, suggesting that passerine GM evolution is not shaped primarily through a shared evolutionary history between the host and its gut microbes.
-
-[Source](https://doi.org/10.1002/ece3.9071)
-
-10.1002/ece3.9071
+[Source](https://twitter.com/gianniskosto?ref_src=twsrc%5Etfw)
 
 ---
 
-## Phage defence by deaminase-mediated depletion of deoxynucleotides in bacteria
+## @SharonGeerlings
 
-[Source](https://doi.org/10.1038/s41564-022-01162-4)
-
----
-
-## CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.11.499243v1)
+[Source](https://twitter.com/SharonGeerlings?ref_src=twsrc%5Etfw)
 
 ---
 
-## Cancer type classification using plasma cell-free RNAs derived from human and microbes
+## @hauke_smidt
 
-[Source](https://doi.org/10.7554/eLife.75181)
-
----
-
-## Temporal Alignment of Longitudinal Microbiome Data.
- 11.07.2022, _R Armoni, E Borenstein_
-
-
-A major challenge in working with longitudinal data when studying some temporal process is the fact that differences in pace and dynamics might overshadow similarities between processes. In the case of longitudinal microbiome data, this may hinder efforts to characterize common temporal trends across individuals or to harness temporal information to better understand the link between the microbiome and the host. One possible solution to this challenge lies in the field of "temporal alignment" - an approach for optimally aligning longitudinal samples obtained from processes that may vary in pace. In this work we investigate the use of alignment-based analysis in the microbiome domain, focusing on microbiome data from infants in their first years of life. Our analyses center around two main use-cases: First, using the overall alignment score as a measure of the similarity between microbiome developmental trajectories, and showing that this measure can capture biological differences between individuals. Second, using the specific matching obtained between pairs of samples in the alignment to highlight changes in pace and temporal dynamics, showing that it can be utilized to predict the age of infants based on their microbiome and to uncover developmental delays. Combined, our findings serve as a proof-of-concept for the use of temporal alignment as an important and beneficial tool in future longitudinal microbiome studies.
-
-[Source](https://doi.org/10.3389/fmicb.2022.909313)
-
-10.3389/fmicb.2022.909313
+[Source](https://twitter.com/hauke_smidt?ref_src=twsrc%5Etfw)
 
 ---
 
-## A Bottom-up Approach to Testing Hypotheses That Have a Branching Tree Dependence Structure, with Error Rate Control.
- 11.07.2022, _Y Li, YJ Hu, GA Satten_
+## @clarabelzer
+
+[Source](https://twitter.com/clarabelzer?ref_src=twsrc%5Etfw)
+
+---
+
+## @ISMEJournal
+
+[Source](https://twitter.com/ISMEJournal?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/XgOmLXk3k5
+
+[Source](https://t.co/XgOmLXk3k5)
+
+---
+
+## pic.twitter.com/aiuDQ1YwF4
+
+[Source](https://t.co/aiuDQ1YwF4)
+
+---
+
+## June 19, 2022
+
+[Source](https://twitter.com/gutmicrobe/status/1538562572034756610?ref_src=twsrc%5Etfw)
+
+---
+
+## Within-patient evolution of plasmid-mediated antimicrobial resistance
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.05.31.493991v1)
+
+---
+
+## An expanded reference map of the human gut microbiome reveals hundreds of previously unknown species
+
+[Source](https://www.nature.com/articles/s41467-022-31502-1)
+
+---
+
+## Carpenter Bees (<em>Xylocopa</em>) Harbor a Distinctive Gut Microbiome Related to That of Honey Bees and Bumble Bees
+
+[Source](https://journals.asm.org/doi/abs/10.1128/aem.00203-22)
+
+---
+
+## <em>Gardnerella </em>Exposures Alter Bladder Gene Expression and Augment Uropathogenic <em>Escherichia coli </em>Urinary Tract Infection in Mice
+
+[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2022.909799/full)
+
+---
+
+## *The Greenhouse Phyllosphere Microbiome and Associations with Introduced Bumblebees and Predatory Mites 
+
+[Source](https://journals.asm.org/doi/10.1128/spectrum.01755-22)
+
+---
+
+## @miCROPe_org
+
+[Source](https://twitter.com/miCROPe_org?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/7Wly1wWLpD
+
+[Source](https://t.co/7Wly1wWLpD)
+
+---
+
+## A transdiagnostic review of safety, efficacy, and parameter space in accelerated transcranial magnetic stimulation.
+ 11.07.2022, _KA Caulfield, HH Fleischmann, MS George, LM McTeague_
 
 
-Modern statistical analyses often involve testing large numbers of hypotheses. In many situations, these hypotheses may have an underlying tree structure that both helps determine the order that tests should be conducted but also imposes a dependency between tests that must be accounted for. Our motivating example comes from testing the association between a trait of interest and groups of microbes that have been organized into operational taxonomic units (OTUs) or amplicon sequence variants (ASVs). Given p-values from association tests for each individual OTU or ASV, we would like to know if we can declare a certain species, genus, or higher taxonomic group to be associated with the trait. For this problem, a bottom-up testing algorithm that starts at the lowest level of the tree (OTUs or ASVs) and proceeds upward through successively higher taxonomic groupings (species, genus, family etc.) is required. We develop such a bottom-up testing algorithm that controls a novel error rate that we call the false selection rate. By simulation, we also show that our approach is better at finding driver taxa, the highest level taxa below which there are dense association signals. We illustrate our approach using data from a study of the microbiome among patients with ulcerative colitis and healthy controls.
+Accelerated transcranial magnetic stimulation (aTMS) is an emerging delivery schedule of repetitive TMS (rTMS). TMS is "accelerated" by applying two or more stimulation sessions within a day. This three-part review comprehensively reports the safety/tolerability, efficacy, and stimulation parameters affecting response across disorders.
 
-[Source](https://doi.org/10.1080/01621459.2020.1799811)
+[Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
 
-10.1080/01621459.2020.1799811
+10.1016/j.jpsychires.2022.06.038
+
+---
+
+## July 10, 2022
+
+[Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
+
+---
+
+## Longitudinal, multi-platform metagenomics yields a high-quality genomic catalog and guides an in vitro model for cheese communities
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.07.01.497845v1)
+
+---
+
+## Removal of nanoplastics in water treatment processes: A review.
+ 11.07.2022, _MK Devi, N Karmegam, S Manikandan, R Subbaiya, H Song, EE Kwon, B Sarkar, N Bolan, W Kim, J Rinklebe, M Govarthanan_
+
+
+Nanoplastics are drawing more attention as a result of their propensity to spread across the environment and pose a threat to all organisms. The presence of nanoplastics in water is given more attention nowadays as the transit of nanoplastics occurs through the aquatic ecosphere besides terrestrial mobility. The principal removal procedures for macro-and micro-plastic particles are effective, but nanoparticles escape from the treatment, increasing in the water and significantly influencing the society. This critical review is aimed to bestow the removal technologies of nanoplastics from aquatic ecosystems, with a focus on the treatment of freshwater, drinking water, and wastewater, as well as the importance of transit and its impact on health concerns. Still, there exists a gap in providing a collective knowledge on the methods available for nanoplastics removal. Hence, this review offered various nanoplastic removal technologies (microorganism-based degradation, membrane separation with a reactor, and photocatalysis) that could be the practical/effective measures along with the traditional procedures (filtration, coagulation, centrifugation, flocculation, and gravity settling). From the analyses of different treatment systems, the effectiveness of nanoplastics removal depends on various factors, source, size, and type of nanoplastics apart from the treatment method adopted. Combined removal methods, filtration with coagulation offer great scope for the removal of nanoplastics from drinking water with &gt;99 % efficiency. The collected data could serve as base-line information for future research and development in water nanoplastics cleanup.
+
+[Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.scitotenv.2022.157168
+
+---
+
+## #metagenomics
+
+[Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Mitochondrial function in intestinal epithelium homeostasis and modulation in diet-induced obesity.
+ 11.07.2022, _T Guerbette, G Boudry, A Lan_
+
+
+Systemic low-grade inflammation observed in diet-induced obesity has been associated with dysbiosis and disturbance of intestinal homeostasis. This latter relies on an efficient epithelial barrier and coordinated intestinal epithelial cell (IEC) renewal that are supported by their mitochondrial function. However, IEC mitochondrial function might be impaired by high fat diet (HFD) consumption, notably through gut-derived metabolite production and fatty acids, that may act as metabolic perturbators of IEC.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.molmet.2022.101546
+
+---
+
+## #microbiomes
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Nicotine pouch marketing strategies in the USA: an analysis of Zyn, On! and Velo.
+ 11.07.2022, _Z Duan, L Henriksen, D Vallone, JM Rath, WD Evans, KF Romm, C Wysota, CJ Berg_
+
+
+Nicotine pouches are gaining popularity, yet their marketing is understudied.
+
+[Source](https://twitter.com/christinacsaak/status/1544721224101761024?ref_src=twsrc%5Etfw)
+
+10.1136/tc-2022-057360
+
+---
+
+## July 6, 2022
+
+[Source](https://twitter.com/christinacsaak/status/1544721224101761024?ref_src=twsrc%5Etfw)
+
+---
+
+## New insights of bacterial communities in fermented vegetables from shotgun metagenomics and identification of antibiotic resistance genes and probiotic bacteria.
+ 29.06.2022, _M Yasir, IA Al-Zahrani, F Bibi, M Abd El Ghany, EI Azhar_
+
+
+_Anti-Bacterial Agents, Bacteria, Drug Resistance, Microbial, Enterobacteriaceae, Metagenomics, Probiotics, Vegetables_
+Consumption of fermented foods has grown worldwide due to the purported health benefits. It is thus critical to understand fermented foods microbiome that mainly influences the quality and safety of these foods. This study identified bacterial communities, including functional profiles of probiotics and antimicrobial resistance genes (ARGs), in pickled vegetables commonly consumed in the Middle Eastern, African, and Asian sub-continent regions. Eighteen samples from six pickled vegetables were collected from local markets in Saudi Arabia and analyzed using shotgun metagenomic sequencing. Statistical analyses revealed significant distance and separate clustering of bacterial communities among the different pickle types. Species of Levilactobacillus namurensis, Lentilactobacillus buchneri, Lentilactobacillus parafarraginis, Lactiplantibacillus pentosus, Pectobacterium carotovorum, Leuconostoc carnosum, Weissella confuse were found in a range of dominance in most of the samples. Binning revealed 33 high-quality, metagenome-assembled genomes (MAGs), including 4 MAGs representing putatively novel species of Lactobacillus, Alcanivorax, and Dichelobacter. Moreover, 285 ARGs and variants produce resistance against 20 classes of antibiotics were retrieved, mostly from Enterobacteriaceae contigs. The metagenomes harbored relatively high abundances of carbohydrate fermentation enzymes, as well as metabolic pathways for amino acid metabolism, cofactors and vitamins biosynthesis. Overall, by providing a comprehensive overview of bacterial communities and probiotic bacteria in pickled vegetables, the results suggest the need for more hygienic processing to avoid Enterobacteriaceae contamination and ARG spread.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996922002472)
+
+10.1016/j.foodres.2022.111190
+
+---
+
+## *High-resolution characterisation of short-term temporal variability in the taxonomic and resistome composition of wastewater influent
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.07.08.499324v1)
+
+---
+
+## https://t.co/9iTEy4CRsV
+
+[Source](https://t.co/9iTEy4CRsV)
+
+---
+
+## pic.twitter.com/IhfEs5z7WV
+
+[Source](https://t.co/IhfEs5z7WV)
+
+---
+
+## July 11, 2022
+
+[Source](https://twitter.com/KaibondChau/status/1546478891056992256?ref_src=twsrc%5Etfw)
+
+---
+
+## Pilot investigation on biostability of drinking water distribution systems under water source switching.
+ 06.07.2022, _K Zhang, X Wu, T Zhang, C Cen, R Mao, R Pan_
+
+
+Water quality deterioration of drinking water distribution systems (DWDSs) caused by water source switching has been reported previously. However, systematic investigation of the biostability of DWDS under water source switching is limited. Aged pipes, including three commonly used pipe materials dug out from a practical DWDS, were used to systematically investigate the biofilm stability mechanism of DWDS under water source switching to quality-improved water. An increase in adenosine triphosphate (ATP) concentration in the bulk water during the initial stage of the switching period was observed, indicating the risk of biofilm release through aged pipe surfaces after water source switching. Sloughing of biofilms might contribute to temporary instability. From day 35, the ATP concentration in the polyethylene (PE) and plastic stainless steel composite (PS) pipes were maintained at approximately 2.40 and 2.56 ng/L, respectively. In contrast, the ATP concentration in the ductile iron (DI) pipes was higher, at approximately 3.43 ng/L from day 42. The water quality variation could cause areas of the biofilm to slough and reduce the biomass of biofilm, causing partial alteration of the microbial community. 16S rRNA gene amplicon sequencing-based functional prediction revealed that the biofilm could increase the abundance of chlorine-resistant bacteria attributed to the increase in Pseudomonas and Methylobacterium after switching to quality-improved water. Moreover, the profiles of specific pathways linked to human diseases, antibiotic resistance, and antibiotic biosynthesis revealed that the safety of the biofilm could improve after switching to quality-improved water. KEY POINTS: • The PE and PS biofilm showed improved resistance to water quality perturbation. • Greater number of Methylobacterium was found in the biofilm after water source switching. • 3.16S gene-based metagenomics prediction revealed that the safety of the biofilm under water source switching.
+
+[Source](https://link.springer.com/article/10.1007/s00253-022-12050-6)
+
+10.1007/s00253-022-12050-6
+
+---
+
+## *BinaRena: a dedicated interactive platform for human-guided exploration and binning of metagenomes
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.06.28.498025v1)
+
+---
+
+## https://t.co/yuNbnh7NvF
+
+[Source](https://t.co/yuNbnh7NvF)
+
+---
+
+## pic.twitter.com/MQJAhQtYK4
+
+[Source](https://t.co/MQJAhQtYK4)
+
+---
+
+## Nicotine pouch marketing strategies in the USA: an analysis of Zyn, On! and Velo.
+ 11.07.2022, _Z Duan, L Henriksen, D Vallone, JM Rath, WD Evans, KF Romm, C Wysota, CJ Berg_
+
+
+Nicotine pouches are gaining popularity, yet their marketing is understudied.
+
+[Source](https://twitter.com/zhuqiyun/status/1544912630938079237?ref_src=twsrc%5Etfw)
+
+10.1136/tc-2022-057360
+
+---
+
+## July 7, 2022
+
+[Source](https://twitter.com/zhuqiyun/status/1544912630938079237?ref_src=twsrc%5Etfw)
+
+---
+
+## getSequenceInfo: a suite of tools allowing to get genome sequence information from public repositories.
+ 12.07.2022, _V Moco, D Cazenave, M Garnier, M Pot, I Marcelino, A Talarmin, S Guyomard-Rabenirina, S Breurec, S Ferdinand, A Dereeper, Y Reynaud, D Couvin_
+
+
+_Databases, Nucleic Acid, Genome, Genomics, Nucleotides, Software_
+Biological sequences are increasing rapidly and exponentially worldwide. Nucleotide sequence databases play an important role in providing meaningful genomic information on a variety of biological organisms.
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04809-5)
+
+10.1186/s12859-022-04809-5
+
+---
+
+## baseLess: Lightweight detection of sequences in raw MinION data
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.07.10.499286v1)
+
+---
+
+## @Nature
+
+[Source](https://twitter.com/Nature?ref_src=twsrc%5Etfw)
+
+---
+
+## @AcademicChatter
+
+[Source](https://twitter.com/AcademicChatter?ref_src=twsrc%5Etfw)
+
+---
+
+## @PhDVoice
+
+[Source](https://twitter.com/PhDVoice?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/Ymjd43k04A
+
+[Source](https://t.co/Ymjd43k04A)
+
+---
+
+## Nicotine pouch marketing strategies in the USA: an analysis of Zyn, On! and Velo.
+ 11.07.2022, _Z Duan, L Henriksen, D Vallone, JM Rath, WD Evans, KF Romm, C Wysota, CJ Berg_
+
+
+Nicotine pouches are gaining popularity, yet their marketing is understudied.
+
+[Source](https://twitter.com/MayaGosztyla/status/1545247612294418433?ref_src=twsrc%5Etfw)
+
+10.1136/tc-2022-057360
+
+---
+
+## July 8, 2022
+
+[Source](https://twitter.com/MayaGosztyla/status/1545247612294418433?ref_src=twsrc%5Etfw)
 
 ---
 
