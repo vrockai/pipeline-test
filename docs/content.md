@@ -83,9 +83,10 @@ There is a growing prevalence of sleep problems and insomnia worldwide, urging t
 ---
 
 ## Gut Microbiota: A Novel Therapeutic Target for Parkinson's Disease.
- 11.07.2022, _M Zhu, X Liu, Y Ye, X Yan, Y Cheng, L Zhao, F Chen, Z Ling_
+ 12.07.2022, _M Zhu, X Liu, Y Ye, X Yan, Y Cheng, L Zhao, F Chen, Z Ling_
 
 
+_Animals, Dysbiosis, Fecal Microbiota Transplantation, Gastrointestinal Microbiome, Neurodegenerative Diseases, Parkinson Disease_
 Parkinson's disease (PD) is the second most common neurodegenerative disease characterized by motor dysfunction. Growing evidence has demonstrated that gut dysbiosis is involved in the occurrence, development and progression of PD. Numerous clinical trials have identified the characteristics of the changed gut microbiota profiles, and preclinical studies in PD animal models have indicated that gut dysbiosis can influence the progression and onset of PD via increasing intestinal permeability, aggravating neuroinflammation, aggregating abnormal levels of α-synuclein fibrils, increasing oxidative stress, and decreasing neurotransmitter production. The gut microbiota can be considered promising diagnostic and therapeutic targets for PD, which can be regulated by probiotics, psychobiotics, prebiotics, synbiotics, postbiotics, fecal microbiota transplantation, diet modifications, and Chinese medicine. This review summarizes the recent studies in PD-associated gut microbiota profiles and functions, the potential roles, and mechanisms of gut microbiota in PD, and gut microbiota-targeted interventions for PD. Deciphering the underlying roles and mechanisms of the PD-associated gut microbiota will help interpret the pathogenesis of PD from new perspectives and elucidate novel therapeutic strategies for PD.
 
 [Source](https://doi.org/10.3389/fimmu.2022.937555)
@@ -107,7 +108,7 @@ Obesity causes chronic inflammation and changes in gut microbiome. However, how 
 ---
 
 ## Profiling of d-alanine production by the microbial isolates of rat gut microbiota.
- 11.07.2022, _CJ Lee, TA Qiu, Z Hong, Z Zhang, Y Min, L Zhang, L Dai, H Zhao, T Si, JV Sweedler_
+ 12.07.2022, _CJ Lee, TA Qiu, Z Hong, Z Zhang, Y Min, L Zhang, L Dai, H Zhao, T Si, JV Sweedler_
 
 
 d-alanine (d-Ala) and several other d-amino acids (d-AAs) act as hormones and neuromodulators in nervous and endocrine systems. Unlike the endogenously synthesized d-serine in animals, d-Ala may be from exogenous sources, e.g., diet and intestinal microorganisms. However, it is unclear if the capability to produce d-Ala and other d-AAs varies among different microbial strains in the gut. We isolated individual microorganisms of rat gut microbiota and profiled their d-AA production in vitro, focusing on d-Ala. Serial dilutions of intestinal contents from adult male rats were plated on agar to obtain clonal cultures. Using MALDI-TOF MS for rapid strain typing, we identified 38 unique isolates, grouped into 11 species based on 16S rRNA gene sequences. We then used two-tier screening to profile bacterial d-AA production, combining a d-amino acid oxidase-based enzymatic assay for rapid assessment of non-acidic d-AA amount and chiral LC-MS/MS to quantify individual d-AAs, revealing 19 out of the 38 isolated strains as d-AA producers. LC-MS/MS analysis of the eight top d-AA producers showed high levels of d-Ala in all strains tested, with substantial inter- and intra-species variations. Though results from the enzymatic assay and LC-MS/MS analysis aligned well, LC-MS/MS further revealed the existence of d-glutamate and d-aspartate, which are poor substrates for this enzymatic assay. We observed large inter- and intra-species variation of d-AA production profiles from rat gut microbiome species, demonstrating the importance of chemical profiling of gut microbiota in addition to sequencing, furthering the idea that microbial metabolites modulate host physiology.
@@ -154,9 +155,15 @@ Gut microbiota (GM) often exhibit variation between different host species and c
 
 ---
 
-## A Bottom-up Approach to Testing Hypotheses That Have a Branching Tree Dependence Structure, with Error Rate Control
+## A Bottom-up Approach to Testing Hypotheses That Have a Branching Tree Dependence Structure, with Error Rate Control.
+ 11.07.2022, _Y Li, YJ Hu, GA Satten_
+
+
+Modern statistical analyses often involve testing large numbers of hypotheses. In many situations, these hypotheses may have an underlying tree structure that both helps determine the order that tests should be conducted but also imposes a dependency between tests that must be accounted for. Our motivating example comes from testing the association between a trait of interest and groups of microbes that have been organized into operational taxonomic units (OTUs) or amplicon sequence variants (ASVs). Given p-values from association tests for each individual OTU or ASV, we would like to know if we can declare a certain species, genus, or higher taxonomic group to be associated with the trait. For this problem, a bottom-up testing algorithm that starts at the lowest level of the tree (OTUs or ASVs) and proceeds upward through successively higher taxonomic groupings (species, genus, family etc.) is required. We develop such a bottom-up testing algorithm that controls a novel error rate that we call the false selection rate. By simulation, we also show that our approach is better at finding driver taxa, the highest level taxa below which there are dense association signals. We illustrate our approach using data from a study of the microbiome among patients with ulcerative colitis and healthy controls.
 
 [Source](https://doi.org/10.1080/01621459.2020.1799811)
+
+10.1080/01621459.2020.1799811
 
 ---
 
