@@ -144,6 +144,18 @@ The gut is the richest ecosystem of microbes in the human body and has great inf
 
 ---
 
+## Comparison of bone mineral density and Fracture Risk Assessment Tool in Saudi women with and without type 2 diabetes mellitus: A cross-sectional study.
+ 13.07.2022, _EM Alfadhli, AS Alsharif, RA Alharbi, SS Alalawi, SE Darandari, SA Alsaedi, SO Alharbi_
+
+
+To compare the bone mineral density and the fracture risks in Saudi women with and without type 2 diabetes mellitus (T2DM).
+
+[Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
+
+10.15537/smj.2022.43.7.20220144
+
+---
+
 ## July 10, 2022
 
 [Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
@@ -156,15 +168,51 @@ The gut is the richest ecosystem of microbes in the human body and has great inf
 
 ---
 
+## Bacteria related to tick-borne pathogen assemblages in Ornithodoros cf. hasei (Acari: Argasidae) and blood of the wild mammal hosts in the Orinoquia region, Colombia.
+ 13.07.2022, _JD Carvajal-Agudelo, HE Ramírez-Chaves, PA Ossa-López, FA Rivera-Páez_
+
+
+Interest in research on soft ticks has increased in recent decades, leading to valuable insight into their role as disease vectors. The use of metagenomics-based analyses have helped to elucidate ecological factors involved in pathogen, vector, and host dynamics. To understand the main bacterial assemblages present in Ornithodoros cf. hasei and its mammalian hosts, 84 ticks and 13 blood samples from bat hosts (Chiroptera) were selected, and the 16S rRNA gene V4 region was sequenced in five pools (each one related to each host-tick pairing). Bacterial taxonomic assignment analyses were performed by comparing operational taxonomic units (OTUs) shared between ticks and their host blood. This analysis showed the presence of Proteobacteria (38.8%), Enterobacteriaceae (25%), Firmicutes (12.3%), and Actinobacteria (10.9%) within blood samples, and Rickettsiaceae (39%), Firmicutes (25%), Actinobacteria (13.1%), and Proteobacteria (9%) within ticks. Species related to potentially pathogenic genera were detected in ticks, such as Borrelia sp., Bartonella tamiae, Ehrlichia sp. and Rickettsia-like endosymbiont, and the presence of these organisms was found in all analyzed bat species (Cynomops planirostris, Molossus pretiosus, Noctilio albiventris), and O. cf. hasei. About 41-48.6% of bacterial OTUs (genera and species) were shared between ticks and the blood of bat hosts. Targeted metagenomic screening techniques allowed the detection of tick-associated pathogens for O. cf. hasei and small mammals for the first time, enabling future research on many of these pathogens.
+
+[Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
+
+10.1007/s10493-022-00724-9
+
+---
+
 ## #metagenomics
 
 [Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
+## Antibiotic-induced gut dysbiosis and autoimmune disease: A systematic review of preclinical studies.
+ 13.07.2022, _MM Gobbo, MB Bomfim, WY Alves, KC Oliveira, PP Corsetti, LA de Almeida_
+
+
+Antibiotic-induced gut dysbiosis is believed to be associated with the onset and development of autoimmune diseases. To evaluate microbiota's variations triggered by antibiotic therapy and its outcomes on autoimmune diseases, preclinical studies regarding these subjects were included in this review. The studies were selected on PubMed, Scopus and Web of Science from 2011 to 2021 by three researchers that extracted study data and risk of bias, which were verified by a further 3 independent researchers. The team assessed the strength of evidence across studies. Of the eligible studies, 17 showed an improvement of the studied disease after antibiotic therapy and 10 had a negative effect on the course of the condition. The ameliorating factors of the studied diseases were mostly seen when using an antibiotic cocktail. Male animals had a good outcome after therapy and, for all genders, the increase in IL-10 and Treg cells was often shown to ameliorate disease after the antibiotic intervention. Firmicutes, Proteobacteria and Bacteroidetes appeared altered after the antibiotic intervention, leading to amelioration or worsening of the condition depending on the autoimmune disease. We identified that the number of autoimmune conditions approached leads to specific conclusions regarding the interventions, making it difficult to achieve an overall conclusion. Overall, even though pre-clinical studies must be translated to the human model, the studied aspects of gender, age, lineage and disease model substantially impact the outcomes that make for many intricacies that were not-established in the study of antibiotic-induced gut dysbiosis and autoimmunity.
+
+[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.autrev.2022.103140
+
+---
+
 ## #microbiomes
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Attitudes towards and use of dental dams by final-year dental students in Chongqing, China: a cross-sectional study.
+ 13.07.2022, _H Jiang, L Shen, Y Zhang, J Yang_
+
+
+To investigate the current and intended future use of dental dams (DDs) and attitudes regarding DD use among final-year dental students at two levels (undergraduate and college) in dental schools in Chongqing, China.
+
+[Source](https://twitter.com/christinacsaak/status/1544721224101761024?ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2021-059148
 
 ---
 
