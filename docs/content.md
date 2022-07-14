@@ -101,9 +101,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## An expanded reference map of the human gut microbiome reveals hundreds of previously unknown species
+## An expanded reference map of the human gut microbiome reveals hundreds of previously unknown species.
+ 07.07.2022, _S Leviatan, S Shoer, D Rothschild, M Gorodetski, E Segal_
+
+
+_Cancer Vaccines, Ecosystem, Gastrointestinal Microbiome, Humans, Metagenome, Metagenomics_
+The gut is the richest ecosystem of microbes in the human body and has great influence on our health. Despite many efforts, the set of microbes inhabiting this environment is not fully known, limiting our ability to identify microbial content and to research it. In this work, we combine new microbial metagenomic assembled genomes from 51,052 samples, with previously published genomes to produce a curated set of 241,118 genomes. Based on this set, we procure a new and improved human gut microbiome reference set of 3594 high quality species genomes, which successfully matches 83.65% validation samples' reads. This improved reference set contains 310 novel species, including one that exists in 19% of validation samples. Overall, this study provides a gut microbial genome reference set that can serve as a valuable resource for further research.
 
 [Source](https://www.nature.com/articles/s41467-022-31502-1)
+
+10.1038/s41467-022-31502-1
 
 ---
 
@@ -149,51 +156,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Removal of nanoplastics in water treatment processes: A review.
- 11.07.2022, _MK Devi, N Karmegam, S Manikandan, R Subbaiya, H Song, EE Kwon, B Sarkar, N Bolan, W Kim, J Rinklebe, M Govarthanan_
-
-
-Nanoplastics are drawing more attention as a result of their propensity to spread across the environment and pose a threat to all organisms. The presence of nanoplastics in water is given more attention nowadays as the transit of nanoplastics occurs through the aquatic ecosphere besides terrestrial mobility. The principal removal procedures for macro-and micro-plastic particles are effective, but nanoparticles escape from the treatment, increasing in the water and significantly influencing the society. This critical review is aimed to bestow the removal technologies of nanoplastics from aquatic ecosystems, with a focus on the treatment of freshwater, drinking water, and wastewater, as well as the importance of transit and its impact on health concerns. Still, there exists a gap in providing a collective knowledge on the methods available for nanoplastics removal. Hence, this review offered various nanoplastic removal technologies (microorganism-based degradation, membrane separation with a reactor, and photocatalysis) that could be the practical/effective measures along with the traditional procedures (filtration, coagulation, centrifugation, flocculation, and gravity settling). From the analyses of different treatment systems, the effectiveness of nanoplastics removal depends on various factors, source, size, and type of nanoplastics apart from the treatment method adopted. Combined removal methods, filtration with coagulation offer great scope for the removal of nanoplastics from drinking water with &gt;99 % efficiency. The collected data could serve as base-line information for future research and development in water nanoplastics cleanup.
-
-[Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.scitotenv.2022.157168
-
----
-
 ## #metagenomics
 
 [Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Mitochondrial function in intestinal epithelium homeostasis and modulation in diet-induced obesity.
- 11.07.2022, _T Guerbette, G Boudry, A Lan_
-
-
-Systemic low-grade inflammation observed in diet-induced obesity has been associated with dysbiosis and disturbance of intestinal homeostasis. This latter relies on an efficient epithelial barrier and coordinated intestinal epithelial cell (IEC) renewal that are supported by their mitochondrial function. However, IEC mitochondrial function might be impaired by high fat diet (HFD) consumption, notably through gut-derived metabolite production and fatty acids, that may act as metabolic perturbators of IEC.
-
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.molmet.2022.101546
-
----
-
 ## #microbiomes
 
 [Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Nicotine pouch marketing strategies in the USA: an analysis of Zyn, On! and Velo.
- 11.07.2022, _Z Duan, L Henriksen, D Vallone, JM Rath, WD Evans, KF Romm, C Wysota, CJ Berg_
-
-
-Nicotine pouches are gaining popularity, yet their marketing is understudied.
-
-[Source](https://twitter.com/christinacsaak/status/1544721224101761024?ref_src=twsrc%5Etfw)
-
-10.1136/tc-2022-057360
 
 ---
 
