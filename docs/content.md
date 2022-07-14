@@ -1,333 +1,132 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## National Energy Technology Lab – Pittsburgh is looking for a technician/researcher.
 
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
+[Source](https://career.uccs.edu/jobs/oak-ridge-institute-for-science-and-education-geomicrobiology-microbial-dna-extraction-and-pcr-amplification/)
 
 ---
 
-## #MVIF
+## Mycobacteriophages: From Petri dish to patient.
+ 11.07.2022, _GF Hatfull_
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
----
+_Bacteriophages, Genome, Viral, Humans, Mycobacteriophages, Mycobacterium, Mycobacterium Infections, Mycobacterium smegmatis_
+Mycobacteriophages-bacteriophages infecting Mycobacterium hosts-contribute substantially to our understanding of viral diversity and evolution, provide resources for advancing Mycobacterium genetics, are the basis of high-impact science education programs, and show considerable therapeutic potential. Over 10,000 individual mycobacteriophages have been isolated by high school and undergraduate students using the model organism Mycobacterium smegmatis mc2155 and 2,100 have been completely sequenced, giving a high-resolution view of the phages that infect a single common host strain. The phage genomes are revealed to be highly diverse and architecturally mosaic and are replete with genes of unknown function. Mycobacteriophages have provided many widely used tools for Mycobacterium genetics including integration-proficient vectors and recombineering systems, as well as systems for efficient delivery of reporter genes, transposons, and allelic exchange substrates. The genomic insights and engineering tools have facilitated exploration of phages for treatment of Mycobacterium infections, although their full therapeutic potential has yet to be realized.
 
-## https://t.co/ppm8Q9lSMY
+[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010602)
 
-[Source](https://t.co/ppm8Q9lSMY)
-
----
-
-## pic.twitter.com/7fKiuD3gvD
-
-[Source](https://t.co/7fKiuD3gvD)
+10.1371/journal.ppat.1010602
 
 ---
 
-## June 17, 2022
+## Reconstructing the ecosystem context of a species: Honey-borne DNA reveals the roles of the honeybee.
+ 13.07.2022, _HK Wirta, M Bahram, K Miller, T Roslin, E Vesterinen_
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1537698886931861509?ref_src=twsrc%5Etfw)
 
----
+To assess a species' impact on its environment-and the environment's impact upon a species-we need to pinpoint its links to surrounding taxa. The honeybee (Apis mellifera) provides a promising model system for such an exercise. While pollination is an important ecosystem service, recent studies suggest that honeybees can also provide disservices. Developing a comprehensive understanding of the full suite of services and disservices that honeybees provide is a key priority for such a ubiquitous species. In this perspective paper, we propose that the DNA contents of honey can be used to establish the honeybee's functional niche, as reflected by ecosystem services and disservices. Drawing upon previously published genomic data, we analysed the DNA found within 43 honey samples from Northern Europe. Based on metagenomic analysis, we find that the taxonomic composition of DNA is dominated by a low pathogenicity bee virus with 40.2% of the reads, followed by bacteria (16.7%), plants (9.4%) and only 1.1% from fungi. In terms of ecological roles of taxa associated with the bees or taxa in their environment, bee gut microbes dominate the honey DNA, with plants as the second most abundant group. A range of pathogens associated with plants, bees and other animals occur frequently, but with lower relative read abundance, across the samples. The associations found here reflect a versatile the honeybee's role in the North-European ecosystem. Feeding on nectar and pollen, the honeybee interacts with plants-in particular with cultivated crops. In doing so, the honeybee appears to disperse common pathogens of plants, pollinators and other animals, but also microbes potentially protective of these pathogens. Thus, honey-borne DNA helps us define the honeybee's functional niche, offering directions to expound the benefits and drawbacks of the associations to the honeybee itself and its interacting organisms.
 
-## Female reproductive tract microbiota and recurrent pregnancy loss: a nested case-control study
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268250#sec002)
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1472648322004187)
-
----
-
-## Dynamic metabolic interactions and trophic roles of human gut microbes identiﬁed using a minimal microbiome exhibiting ecological properties
-
-[Source](https://www.nature.com/articles/s41396-022-01255-2.epdf)
+10.1371/journal.pone.0268250
 
 ---
 
-## @gianniskosto
+## Patterns of microbial communities were shaped by bioavailable P along the elevation gradient of Shergyla Mountain, as determined by analysis of phospholipid fatty acids.
+ 13.07.2022, _D Ba, D Qimei, W Zhao, Y Wang_
 
-[Source](https://twitter.com/gianniskosto?ref_src=twsrc%5Etfw)
 
----
+_China, Fatty Acids, Microbiota, Phospholipids, Soil, Soil Microbiology_
+The distribution pattern of the microbial community in mountains is an important component of biodiversity research. Many environmental factors vary significantly with elevation on a relatively small scale in subalpine and alpine environments. These factors may markedly affect microbial community composition and function. In this study, we analyzed phospholipid fatty acid (PLFA) profiles and phosphorus (P) fractions in soils from 9 sites along an elevation gradient (3500-4100 m above sea level (a.s.l.)) of the Shergyla Mountain, Tibet in China. Many biomarker PLFAs indicated that there were biogeochemical trends of the microbial distribution patterns of some soil microorganisms, which were most often increasing, U-shaped and unimodal trends along the elevation gradient. A redundancy analysis (RDA) and correlations indicated that P factors (e.g., Resin-Pi, NaHCO3-Pi and NaHCO3-Po) were more important in controlling the microbial PLFA distribution pattern than other factors (e.g., MAT, MAP, pH, TOC, TN and soil moisture) in this study area. Microorganisms are strongly associated with P fractions. Our results suggested that microbial communities were subjected to P stresses and that the distribution patterns of microbial communities were shaped by bioavailable P along the elevation gradient. Our work also hints that P geochemical processes drive the microbial diversity of the Shergyla Mountains.
 
-## @SharonGeerlings
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271101)
 
-[Source](https://twitter.com/SharonGeerlings?ref_src=twsrc%5Etfw)
-
----
-
-## @hauke_smidt
-
-[Source](https://twitter.com/hauke_smidt?ref_src=twsrc%5Etfw)
+10.1371/journal.pone.0271101
 
 ---
 
-## @clarabelzer
+## Soil chemistry and soil history significantly structure oomycete communities in Brassicaceae crop rotations
 
-[Source](https://twitter.com/clarabelzer?ref_src=twsrc%5Etfw)
-
----
-
-## @ISMEJournal
-
-[Source](https://twitter.com/ISMEJournal?ref_src=twsrc%5Etfw)
+[Source](https://www.biorxiv.org/content/10.1101/2022.07.12.499733v1.abstract?%3Fcollection=)
 
 ---
 
-## https://t.co/XgOmLXk3k5
+## Community succession and straw degradation characteristics using a microbial decomposer at low temperature.
+ 12.07.2022, _X Zhang, Q Borjigin, J Gao, X Yu, B Zhang, S Hu, S Han, R Liu, S Zhang_
 
-[Source](https://t.co/XgOmLXk3k5)
 
----
+_Bacteria, Cellulose, Fermentation, Lignin, Microbial Consortia, Temperature_
+This study explored changes in the microbial community structure during straw degradation by a microbial decomposer, M44. The microbial community succession at different degradation periods was analyzed using MiSeq high-throughput sequencing. The results showed that 14 days after inoculation, the filter paper enzyme and endoglucanase activities increased to 2.55 U·mL-1 and 2.34 U·mL-1. The xylanase, laccase, and lignin peroxidase activities rose to 9.86 U·mL-1, 132.16 U·L-1, and 85.43 U·L-1 after 28 d, which was consistent with changes in the straw degradation rate. The degradation rates of straw, lignin, cellulose, and hemicellulose were 31.43%, 13.67%, 25.04%, and 21.69%, respectively, after 28 d of fermentation at 15°C. Proteobacteria, Firmicutes, and Bacteroidetes were the main bacterial species in samples at different degradation stages. The dominant genera included Pseudomonas, Delftia, and Paenibacillus during the initial stage (1 d, 7 d) and the mid-term stage (14 d). The key functional microbes during the late stage (21 d, 28 d) were Rhizobium, Chryseobacterium, Sphingobacterium, Brevundimonas, and Devosia. Changes in the bacterial consortium structure and straw degradation characteristics during different degradation periods were clarified to provide a theoretical basis for the rational utilization of microbial decomposer M44.
 
-## pic.twitter.com/aiuDQ1YwF4
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270162)
 
-[Source](https://t.co/aiuDQ1YwF4)
-
----
-
-## June 19, 2022
-
-[Source](https://twitter.com/gutmicrobe/status/1538562572034756610?ref_src=twsrc%5Etfw)
+10.1371/journal.pone.0270162
 
 ---
 
-## Within-patient evolution of plasmid-mediated antimicrobial resistance
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.05.31.493991v1)
-
----
-
-## An expanded reference map of the human gut microbiome reveals hundreds of previously unknown species.
- 07.07.2022, _S Leviatan, S Shoer, D Rothschild, M Gorodetski, E Segal_
+## Indoor air microbial load, antibiotic susceptibility profiles of bacteria, and associated factors in different wards of Arba Minch General Hospital, southern Ethiopia.
+ 11.07.2022, _G Kayta, A Manilal, D Tadesse, M Siraj_
 
 
-_Cancer Vaccines, Ecosystem, Gastrointestinal Microbiome, Humans, Metagenome, Metagenomics_
-The gut is the richest ecosystem of microbes in the human body and has great influence on our health. Despite many efforts, the set of microbes inhabiting this environment is not fully known, limiting our ability to identify microbial content and to research it. In this work, we combine new microbial metagenomic assembled genomes from 51,052 samples, with previously published genomes to produce a curated set of 241,118 genomes. Based on this set, we procure a new and improved human gut microbiome reference set of 3594 high quality species genomes, which successfully matches 83.65% validation samples' reads. This improved reference set contains 310 novel species, including one that exists in 19% of validation samples. Overall, this study provides a gut microbial genome reference set that can serve as a valuable resource for further research.
+_Air Pollution, Indoor, Anti-Bacterial Agents, Bacteria, Cross-Sectional Studies, Ethiopia, Female, Hospitals, General, Humans, Male_
+The levels of indoor air microbial load in hospitals are very crucial to the health of patients and health care workers and are to be regularly monitored and maintained at an acceptable level. However, this problem remains overlooked, particularly in developing countries including Ethiopia. A hospital-based cross-sectional study is designed to determine the indoor air microbial load (settle plate technique), microbial isolates (standard microbiological techniques), bacterial susceptibility profiles (Kirby-Bauer disk diffusion technique), and associated factors, in different wards of the title Hospital, southern Ethiopia. An observational checklist was used to collect relevant information related to the associated factors; descriptive and inferential statistics were applied using Statistical Package for Social Sciences (SPSS); p-values ≤ 0.05 in the multivariable analysis were considered statistically significant. The total average bacterial and fungal load of the selected wards was 1914±1081.4 Colony Forming Units (CFU)/m3 (95% CI: 1718.5-2109.48 CFU/m3) and 1533.7±858.8 CFU/m3 (95% CI: 1378.5-1688CFU/m3) respectively. The highest mean bacterial (1914±1081.4 CFU/m3) and fungal (1533.7±858.8 CFU/m3) loads were found in the male surgical and female medical wards respectively. A total of 229 bacterial and 139 fungal isolates were obtained; Gram-positive bacteria were the predominant type, 130 (56.7%), particularly the isolates of Staphylococcus aureus, 46 (20.1%). The predominant fungal isolates were Aspergillus sp., 53(38%). Percentages of multidrug-resistant (MDR), extended-spectrum beta-lactamase (ESBL), and carbapenemase producers respectively were 48.5, 26.5, and 25%. High room crowd index [p = 0.003; Adjusted Odds Ratio (AOR) 12.5 (Confidence Interval (CI) 95%: 2.42-65)], presence of damp/wet materials [p = 0.025; AOR 7 (CI 95%: 1.3-37.4)], intense room traffic [p = 0.004; AOR 9.6 (CI 95%: 1.2-79.3)], inappropriate storage of food and drugs [p = 0.008; AOR 7.5 (CI 95%: 1.7-32)], and unclean environment [p = 0.03; AOR 5.8 (CI 95%: 1.2-28)] showed statistical significance concerning the indoor air microbial loads; most of the wards in Arba Minch General Hospital (AMGH) stand high and not in an acceptable level as per the WHO and the European Commission standards on indoor air microbial load. Periodic air surveillance and infection prevention control programs are required to reduce the transmission of these microbes to inpatients, visitors, and health care workers.
 
-[Source](https://www.nature.com/articles/s41467-022-31502-1)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271022)
 
-10.1038/s41467-022-31502-1
+10.1371/journal.pone.0271022
 
 ---
 
-## Carpenter Bees (<em>Xylocopa</em>) Harbor a Distinctive Gut Microbiome Related to That of Honey Bees and Bumble Bees
+## moreThanANOVA: A user-friendly Shiny/R application for exploring and comparing data with interactive visualization.
+ 12.07.2022, _W Jiang, H Chen, L Yang, X Pan_
 
-[Source](https://journals.asm.org/doi/abs/10.1128/aem.00203-22)
 
----
+_Normal Distribution, Software_
+In the case of comparing means of various groups, data exploration and comparison for affecting factors or relative indices would be involved. This process is not only complex requiring extensive statistical knowledge and methods, but also challenging for the complex installation of existing tools for users who lack of statistical knowledge and coding experience. Like, the normal distribution and equal variance are crucial premises of parametric statistical analysis. But some studies reported that associated data from various industries violated the normal distribution and equal variance, parametric analysis still involved leading to invalid results. This is owing to that the normal distribution tests and homogeneity of variance test for different variables are time-cost and error-prone, posing an urgent need for an automatic and user-friendly analysis application, not only integrating normal distribution tests and homogeneity of variance test, but also associated the following statistical analysis. To address this, we developed a Shiny/R application, moreThanANOVA, which is an interactive, user-friendly, open-source and cloud-based visualization application to achieve automatic distribution tests, and correlative significance tests, then customize post-hoc analysis based on the considerations to the trade-off of Type I and Type II errors (deployed at https://hanchen.shinyapps.io/moreThanANOVA/). moreThanANOVA enables novice users to perform their complex statistical analyses quickly and credibly with interactive visualization and download publication-ready graphs for further analysis.
 
-## <em>Gardnerella </em>Exposures Alter Bladder Gene Expression and Augment Uropathogenic <em>Escherichia coli </em>Urinary Tract Infection in Mice
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271185)
 
-[Source](https://www.frontiersin.org/articles/10.3389/fcimb.2022.909799/full)
-
----
-
-## *The Greenhouse Phyllosphere Microbiome and Associations with Introduced Bumblebees and Predatory Mites 
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.01755-22)
+10.1371/journal.pone.0271185
 
 ---
 
-## @miCROPe_org
-
-[Source](https://twitter.com/miCROPe_org?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/7Wly1wWLpD
-
-[Source](https://t.co/7Wly1wWLpD)
-
----
-
-## Comparison of bone mineral density and Fracture Risk Assessment Tool in Saudi women with and without type 2 diabetes mellitus: A cross-sectional study.
- 13.07.2022, _EM Alfadhli, AS Alsharif, RA Alharbi, SS Alalawi, SE Darandari, SA Alsaedi, SO Alharbi_
+## Preparation of biological monolayers for producing high-resolution scanning electron micrographs.
+ 12.07.2022, _S Mentor, F Cummings, D Fisher_
 
 
-To compare the bone mineral density and the fracture risks in Saudi women with and without type 2 diabetes mellitus (T2DM).
+_Animals, Carbon, Electrons, Endothelial Cells, Gold, Mice, Microscopy, Electron, Scanning_
+Scanning electron microscopy (SEM) provides a technical platform for nanoscopic mapping of biological structures. Correct preparation of SEM samples can provide an unprecedented understanding of the nexus between cellular morphology and topography. This comparative study critically examines two coating methods for preparing biological samples for scanning electron microscopy, while also providing novel advice on how to prepare in vitro epithelial or endothelial samples for high-resolution scanning-electron microscopy (HR-SEM). Two obstacles often confront the biologist when investigating cellular structures grown under tissue culture conditions, namely., how to prepare and present the biological samples to the HR-SEM microscope without affecting topographical membrane and cellular structural alterations. Firstly, our use of the Millicell cellulose inserts on which to grow our cellular samples in preparation for HR-SEM is both novel and advantageous to comparing the permeability function of cells to their morphological function. Secondly, biological material is often non-conducting, thermally sensitive and fragile and, therefore, needs to be fixed correctly and coated with thin conducting metal to ensure high-resolution detail of samples. Immortalized mouse brain endothelial cells (bEnd5) was used as a basis for describing the preferences in the use of the protocol. We compare two biological sample coating modalities for the visualizing and analysis of texturized, topographical, membranous ultrastructures of brain endothelial cell (BEC) confluent monolayers, namely, carbon and gold:palladium (Au:Pd) sputter coating in preparation for HR-SEM. BEC monolayers sputter-coated with these two modalities produced three-dimensional micrographs which have distinctly different topographical detail from which the nanostructural cellular data can be examined. The two coating methods display differences in the amount of nanoscopic detail that could be resolved in the nanosized membrane cytoarchitecture of BEC monolayers. The micrographical data clearly showed that Au:Pd sputter-coated samples generate descript imagery, providing useful information for profiling membrane nanostructures compared to carbon-coated samples. The recommendations regarding the contrast in two modalities would provide the necessary guidance to biological microscopists in preparing tissue culture samples for HR-SEM.
 
-[Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266943)
 
-10.15537/smj.2022.43.7.20220144
+10.1371/journal.pone.0266943
 
 ---
 
-## July 10, 2022
-
-[Source](https://twitter.com/MarieLegein/status/1546019419855413251?ref_src=twsrc%5Etfw)
-
----
-
-## Longitudinal, multi-platform metagenomics yields a high-quality genomic catalog and guides an in vitro model for cheese communities
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.01.497845v1)
-
----
-
-## Bacteria related to tick-borne pathogen assemblages in Ornithodoros cf. hasei (Acari: Argasidae) and blood of the wild mammal hosts in the Orinoquia region, Colombia.
- 13.07.2022, _JD Carvajal-Agudelo, HE Ramírez-Chaves, PA Ossa-López, FA Rivera-Páez_
+## The accuracy of absolute differential abundance analysis from relative count data.
+ 11.07.2022, _KE Roche, S Mukherjee_
 
 
-Interest in research on soft ticks has increased in recent decades, leading to valuable insight into their role as disease vectors. The use of metagenomics-based analyses have helped to elucidate ecological factors involved in pathogen, vector, and host dynamics. To understand the main bacterial assemblages present in Ornithodoros cf. hasei and its mammalian hosts, 84 ticks and 13 blood samples from bat hosts (Chiroptera) were selected, and the 16S rRNA gene V4 region was sequenced in five pools (each one related to each host-tick pairing). Bacterial taxonomic assignment analyses were performed by comparing operational taxonomic units (OTUs) shared between ticks and their host blood. This analysis showed the presence of Proteobacteria (38.8%), Enterobacteriaceae (25%), Firmicutes (12.3%), and Actinobacteria (10.9%) within blood samples, and Rickettsiaceae (39%), Firmicutes (25%), Actinobacteria (13.1%), and Proteobacteria (9%) within ticks. Species related to potentially pathogenic genera were detected in ticks, such as Borrelia sp., Bartonella tamiae, Ehrlichia sp. and Rickettsia-like endosymbiont, and the presence of these organisms was found in all analyzed bat species (Cynomops planirostris, Molossus pretiosus, Noctilio albiventris), and O. cf. hasei. About 41-48.6% of bacterial OTUs (genera and species) were shared between ticks and the blood of bat hosts. Targeted metagenomic screening techniques allowed the detection of tick-associated pathogens for O. cf. hasei and small mammals for the first time, enabling future research on many of these pathogens.
+Concerns have been raised about the use of relative abundance data derived from next generation sequencing as a proxy for absolute abundances. For example, in the differential abundance setting, compositional effects in relative abundance data may give rise to spurious differences (false positives) when considered from the absolute perspective. In practice however, relative abundances are often transformed by renormalization strategies intended to compensate for these effects and the scope of the practical problem remains unclear. We used simulated data to explore the consistency of differential abundance calling on renormalized relative abundances versus absolute abundances and find that, while overall consistency is high, with a median sensitivity (true positive rates) of 0.91 and specificity (1-false positive rates) of 0.89, consistency can be much lower where there is widespread change in the abundance of features across conditions. We confirm these findings on a large number of real data sets drawn from 16S metabarcoding, expression array, bulk RNA-seq, and single-cell RNA-seq experiments, where data sets with the greatest change between experimental conditions are also those with the highest false positive rates. Finally, we evaluate the predictive utility of summary features of relative abundance data themselves. Estimates of sparsity and the prevalence of feature-level change in relative abundance data give reasonable predictions of discrepancy in differential abundance calling in simulated data and can provide useful bounds for worst-case outcomes in real data.
 
-[Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010284)
 
-10.1007/s10493-022-00724-9
+10.1371/journal.pcbi.1010284
 
 ---
 
-## #metagenomics
-
-[Source](https://twitter.com/hashtag/metagenomics?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Antibiotic-induced gut dysbiosis and autoimmune disease: A systematic review of preclinical studies.
- 13.07.2022, _MM Gobbo, MB Bomfim, WY Alves, KC Oliveira, PP Corsetti, LA de Almeida_
+## AC-PCoA: Adjustment for confounding factors using principal coordinate analysis.
+ 13.07.2022, _Y Wang, F Sun, W Lin, S Zhang_
 
 
-Antibiotic-induced gut dysbiosis is believed to be associated with the onset and development of autoimmune diseases. To evaluate microbiota's variations triggered by antibiotic therapy and its outcomes on autoimmune diseases, preclinical studies regarding these subjects were included in this review. The studies were selected on PubMed, Scopus and Web of Science from 2011 to 2021 by three researchers that extracted study data and risk of bias, which were verified by a further 3 independent researchers. The team assessed the strength of evidence across studies. Of the eligible studies, 17 showed an improvement of the studied disease after antibiotic therapy and 10 had a negative effect on the course of the condition. The ameliorating factors of the studied diseases were mostly seen when using an antibiotic cocktail. Male animals had a good outcome after therapy and, for all genders, the increase in IL-10 and Treg cells was often shown to ameliorate disease after the antibiotic intervention. Firmicutes, Proteobacteria and Bacteroidetes appeared altered after the antibiotic intervention, leading to amelioration or worsening of the condition depending on the autoimmune disease. We identified that the number of autoimmune conditions approached leads to specific conclusions regarding the interventions, making it difficult to achieve an overall conclusion. Overall, even though pre-clinical studies must be translated to the human model, the studied aspects of gender, age, lineage and disease model substantially impact the outcomes that make for many intricacies that were not-established in the study of antibiotic-induced gut dysbiosis and autoimmunity.
+Confounding factors exist widely in various biological data owing to technical variations, population structures and experimental conditions. Such factors may mask the true signals and lead to spurious associations in the respective biological data, making it necessary to adjust confounding factors accordingly. However, existing confounder correction methods were mainly developed based on the original data or the pairwise Euclidean distance, either one of which is inadequate for analyzing different types of data, such as sequencing data. In this work, we proposed a method called Adjustment for Confounding factors using Principal Coordinate Analysis, or AC-PCoA, which reduces data dimension and extracts the information from different distance measures using principal coordinate analysis, and adjusts confounding factors across multiple datasets by minimizing the associations between lower-dimensional representations and confounding variables. Application of the proposed method was further extended to classification and prediction. We demonstrated the efficacy of AC-PCoA on three simulated datasets and five real datasets. Compared to the existing methods, AC-PCoA shows better results in visualization, statistical testing, clustering, and classification.
 
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010184)
 
-10.1016/j.autrev.2022.103140
+10.1371/journal.pcbi.1010184
 
 ---
 
-## #microbiomes
+## The Art of Science: Students Participate in University’s First-Ever Bio-Art Class
 
-[Source](https://twitter.com/hashtag/microbiomes?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Attitudes towards and use of dental dams by final-year dental students in Chongqing, China: a cross-sectional study.
- 13.07.2022, _H Jiang, L Shen, Y Zhang, J Yang_
-
-
-To investigate the current and intended future use of dental dams (DDs) and attitudes regarding DD use among final-year dental students at two levels (undergraduate and college) in dental schools in Chongqing, China.
-
-[Source](https://twitter.com/christinacsaak/status/1544721224101761024?ref_src=twsrc%5Etfw)
-
-10.1136/bmjopen-2021-059148
-
----
-
-## July 6, 2022
-
-[Source](https://twitter.com/christinacsaak/status/1544721224101761024?ref_src=twsrc%5Etfw)
-
----
-
-## New insights of bacterial communities in fermented vegetables from shotgun metagenomics and identification of antibiotic resistance genes and probiotic bacteria.
- 29.06.2022, _M Yasir, IA Al-Zahrani, F Bibi, M Abd El Ghany, EI Azhar_
-
-
-_Anti-Bacterial Agents, Bacteria, Drug Resistance, Microbial, Enterobacteriaceae, Metagenomics, Probiotics, Vegetables_
-Consumption of fermented foods has grown worldwide due to the purported health benefits. It is thus critical to understand fermented foods microbiome that mainly influences the quality and safety of these foods. This study identified bacterial communities, including functional profiles of probiotics and antimicrobial resistance genes (ARGs), in pickled vegetables commonly consumed in the Middle Eastern, African, and Asian sub-continent regions. Eighteen samples from six pickled vegetables were collected from local markets in Saudi Arabia and analyzed using shotgun metagenomic sequencing. Statistical analyses revealed significant distance and separate clustering of bacterial communities among the different pickle types. Species of Levilactobacillus namurensis, Lentilactobacillus buchneri, Lentilactobacillus parafarraginis, Lactiplantibacillus pentosus, Pectobacterium carotovorum, Leuconostoc carnosum, Weissella confuse were found in a range of dominance in most of the samples. Binning revealed 33 high-quality, metagenome-assembled genomes (MAGs), including 4 MAGs representing putatively novel species of Lactobacillus, Alcanivorax, and Dichelobacter. Moreover, 285 ARGs and variants produce resistance against 20 classes of antibiotics were retrieved, mostly from Enterobacteriaceae contigs. The metagenomes harbored relatively high abundances of carbohydrate fermentation enzymes, as well as metabolic pathways for amino acid metabolism, cofactors and vitamins biosynthesis. Overall, by providing a comprehensive overview of bacterial communities and probiotic bacteria in pickled vegetables, the results suggest the need for more hygienic processing to avoid Enterobacteriaceae contamination and ARG spread.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996922002472)
-
-10.1016/j.foodres.2022.111190
-
----
-
-## *High-resolution characterisation of short-term temporal variability in the taxonomic and resistome composition of wastewater influent
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.08.499324v1)
-
----
-
-## https://t.co/9iTEy4CRsV
-
-[Source](https://t.co/9iTEy4CRsV)
-
----
-
-## pic.twitter.com/IhfEs5z7WV
-
-[Source](https://t.co/IhfEs5z7WV)
-
----
-
-## July 11, 2022
-
-[Source](https://twitter.com/KaibondChau/status/1546478891056992256?ref_src=twsrc%5Etfw)
-
----
-
-## Pilot investigation on biostability of drinking water distribution systems under water source switching
-
-[Source](https://link.springer.com/article/10.1007/s00253-022-12050-6)
-
----
-
-## *BinaRena: a dedicated interactive platform for human-guided exploration and binning of metagenomes
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.06.28.498025v1)
-
----
-
-## https://t.co/yuNbnh7NvF
-
-[Source](https://t.co/yuNbnh7NvF)
-
----
-
-## pic.twitter.com/MQJAhQtYK4
-
-[Source](https://t.co/MQJAhQtYK4)
-
----
-
-## July 7, 2022
-
-[Source](https://twitter.com/zhuqiyun/status/1544912630938079237?ref_src=twsrc%5Etfw)
-
----
-
-## getSequenceInfo: a suite of tools allowing to get genome sequence information from public repositories 
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04809-5)
-
----
-
-## baseLess: Lightweight detection of sequences in raw MinION data
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.10.499286v1)
-
----
-
-## @Nature
-
-[Source](https://twitter.com/Nature?ref_src=twsrc%5Etfw)
-
----
-
-## @AcademicChatter
-
-[Source](https://twitter.com/AcademicChatter?ref_src=twsrc%5Etfw)
-
----
-
-## @PhDVoice
-
-[Source](https://twitter.com/PhDVoice?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/Ymjd43k04A
-
-[Source](https://t.co/Ymjd43k04A)
-
----
-
-## July 8, 2022
-
-[Source](https://twitter.com/MayaGosztyla/status/1545247612294418433?ref_src=twsrc%5Etfw)
+[Source](https://news.syr.edu/blog/2022/07/08/the-art-of-science-students-participate-in-universitys-first-ever-bio-art-class/)
 
 ---
 
