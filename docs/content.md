@@ -1,134 +1,181 @@
-## National Energy Technology Lab – Pittsburgh is looking for a technician/researcher.
-
-[Source](https://career.uccs.edu/jobs/oak-ridge-institute-for-science-and-education-geomicrobiology-microbial-dna-extraction-and-pcr-amplification/)
-
----
-
-## Mycobacteriophages: From Petri dish to patient.
- 11.07.2022, _GF Hatfull_
+## Advances and challenges in cataloging the human gut virome.
+ 14.07.2022, _J Li, F Yang, M Xiao, A Li_
 
 
-_Bacteriophages, Genome, Viral, Humans, Mycobacteriophages, Mycobacterium, Mycobacterium Infections, Mycobacterium smegmatis_
-Mycobacteriophages-bacteriophages infecting Mycobacterium hosts-contribute substantially to our understanding of viral diversity and evolution, provide resources for advancing Mycobacterium genetics, are the basis of high-impact science education programs, and show considerable therapeutic potential. Over 10,000 individual mycobacteriophages have been isolated by high school and undergraduate students using the model organism Mycobacterium smegmatis mc2155 and 2,100 have been completely sequenced, giving a high-resolution view of the phages that infect a single common host strain. The phage genomes are revealed to be highly diverse and architecturally mosaic and are replete with genes of unknown function. Mycobacteriophages have provided many widely used tools for Mycobacterium genetics including integration-proficient vectors and recombineering systems, as well as systems for efficient delivery of reporter genes, transposons, and allelic exchange substrates. The genomic insights and engineering tools have facilitated exploration of phages for treatment of Mycobacterium infections, although their full therapeutic potential has yet to be realized.
+The human gut virome, which is often referred to as the "dark matter" of the gut microbiome, remains understudied. A better understanding of the composition and variations of the gut virome across populations is critical for exploring its impact on diseases and health. A series of advances in the characterization of human gut virome have unveiled high genetic diversity and various functional potentials of gut viruses. Here, we summarize the recently available human gut virome databases and discuss their features, procedures, and challenges with the intention to provide a reference to researchers to use while choosing a profiling database. We also propose a "best practice" for cataloging the viral population.
 
-[Source](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010602)
+[Source](https://doi.org/10.1016/j.chom.2022.06.003)
 
-10.1371/journal.ppat.1010602
+10.1016/j.chom.2022.06.003
 
 ---
 
-## Reconstructing the ecosystem context of a species: Honey-borne DNA reveals the roles of the honeybee.
- 15.07.2022, _HK Wirta, M Bahram, K Miller, T Roslin, E Vesterinen_
+## Diversity of the repetitive DNA fraction in Cestrum, the genus with the largest genomes within Solanaceae.
+ 09.07.2022, _TB de Souza, LM Parteka, R de Assis, ALL Vanzela_
 
 
-_Animals, Bees, DNA, Ecosystem, Honey, Plant Nectar, Pollination_
-To assess a species' impact on its environment-and the environment's impact upon a species-we need to pinpoint its links to surrounding taxa. The honeybee (Apis mellifera) provides a promising model system for such an exercise. While pollination is an important ecosystem service, recent studies suggest that honeybees can also provide disservices. Developing a comprehensive understanding of the full suite of services and disservices that honeybees provide is a key priority for such a ubiquitous species. In this perspective paper, we propose that the DNA contents of honey can be used to establish the honeybee's functional niche, as reflected by ecosystem services and disservices. Drawing upon previously published genomic data, we analysed the DNA found within 43 honey samples from Northern Europe. Based on metagenomic analysis, we find that the taxonomic composition of DNA is dominated by a low pathogenicity bee virus with 40.2% of the reads, followed by bacteria (16.7%), plants (9.4%) and only 1.1% from fungi. In terms of ecological roles of taxa associated with the bees or taxa in their environment, bee gut microbes dominate the honey DNA, with plants as the second most abundant group. A range of pathogens associated with plants, bees and other animals occur frequently, but with lower relative read abundance, across the samples. The associations found here reflect a versatile the honeybee's role in the North-European ecosystem. Feeding on nectar and pollen, the honeybee interacts with plants-in particular with cultivated crops. In doing so, the honeybee appears to disperse common pathogens of plants, pollinators and other animals, but also microbes potentially protective of these pathogens. Thus, honey-borne DNA helps us define the honeybee's functional niche, offering directions to expound the benefits and drawbacks of the associations to the honeybee itself and its interacting organisms.
+Cestrum species present large genomes (2 C = ~ 24 pg), a high occurrence of B chromosomes and great diversity in heterochromatin bands. Despite this diversity, karyotypes maintain the chromosome number 2n = 16 (except when they present B chromosomes), and a relative similarity in chromosome morphology and symmetry. To deepen our knowledge of the Cestrum genome composition, low-coverage sequencing data of C. strigilatum and C. elegans were compared, including cytogenomic analyses of seven species.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268250#sec002)
+[Source](https://doi.org/10.1099/mgen.0.000847)
 
-10.1371/journal.pone.0268250
-
----
-
-## Patterns of microbial communities were shaped by bioavailable P along the elevation gradient of Shergyla Mountain, as determined by analysis of phospholipid fatty acids.
- 13.07.2022, _D Ba, D Qimei, W Zhao, Y Wang_
-
-
-_China, Fatty Acids, Microbiota, Phospholipids, Soil, Soil Microbiology_
-The distribution pattern of the microbial community in mountains is an important component of biodiversity research. Many environmental factors vary significantly with elevation on a relatively small scale in subalpine and alpine environments. These factors may markedly affect microbial community composition and function. In this study, we analyzed phospholipid fatty acid (PLFA) profiles and phosphorus (P) fractions in soils from 9 sites along an elevation gradient (3500-4100 m above sea level (a.s.l.)) of the Shergyla Mountain, Tibet in China. Many biomarker PLFAs indicated that there were biogeochemical trends of the microbial distribution patterns of some soil microorganisms, which were most often increasing, U-shaped and unimodal trends along the elevation gradient. A redundancy analysis (RDA) and correlations indicated that P factors (e.g., Resin-Pi, NaHCO3-Pi and NaHCO3-Po) were more important in controlling the microbial PLFA distribution pattern than other factors (e.g., MAT, MAP, pH, TOC, TN and soil moisture) in this study area. Microorganisms are strongly associated with P fractions. Our results suggested that microbial communities were subjected to P stresses and that the distribution patterns of microbial communities were shaped by bioavailable P along the elevation gradient. Our work also hints that P geochemical processes drive the microbial diversity of the Shergyla Mountains.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271101)
-
-10.1371/journal.pone.0271101
+10.1007/s11033-022-07728-z
 
 ---
 
-## Soil chemistry and soil history significantly structure oomycete communities in Brassicaceae crop rotations
+## Genomic diversity of genus <em>Limosilactobacillus</em>
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.12.499733v1.abstract?%3Fcollection=)
-
----
-
-## Community succession and straw degradation characteristics using a microbial decomposer at low temperature.
- 12.07.2022, _X Zhang, Q Borjigin, J Gao, X Yu, B Zhang, S Hu, S Han, R Liu, S Zhang_
-
-
-_Bacteria, Cellulose, Fermentation, Lignin, Microbial Consortia, Temperature_
-This study explored changes in the microbial community structure during straw degradation by a microbial decomposer, M44. The microbial community succession at different degradation periods was analyzed using MiSeq high-throughput sequencing. The results showed that 14 days after inoculation, the filter paper enzyme and endoglucanase activities increased to 2.55 U·mL-1 and 2.34 U·mL-1. The xylanase, laccase, and lignin peroxidase activities rose to 9.86 U·mL-1, 132.16 U·L-1, and 85.43 U·L-1 after 28 d, which was consistent with changes in the straw degradation rate. The degradation rates of straw, lignin, cellulose, and hemicellulose were 31.43%, 13.67%, 25.04%, and 21.69%, respectively, after 28 d of fermentation at 15°C. Proteobacteria, Firmicutes, and Bacteroidetes were the main bacterial species in samples at different degradation stages. The dominant genera included Pseudomonas, Delftia, and Paenibacillus during the initial stage (1 d, 7 d) and the mid-term stage (14 d). The key functional microbes during the late stage (21 d, 28 d) were Rhizobium, Chryseobacterium, Sphingobacterium, Brevundimonas, and Devosia. Changes in the bacterial consortium structure and straw degradation characteristics during different degradation periods were clarified to provide a theoretical basis for the rational utilization of microbial decomposer M44.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270162)
-
-10.1371/journal.pone.0270162
+[Source](https://doi.org/10.1099/mgen.0.000847)
 
 ---
 
-## Indoor air microbial load, antibiotic susceptibility profiles of bacteria, and associated factors in different wards of Arba Minch General Hospital, southern Ethiopia.
- 11.07.2022, _G Kayta, A Manilal, D Tadesse, M Siraj_
+## Comparison of the respiratory tract microbiome in hospitalized COVID-19 patients with different disease severity.
+ 15.07.2022, _J Chen, X Liu, W Liu, C Yang, R Jia, Y Ke, J Guo, L Jia, C Wang, Y Chen_
 
 
-_Air Pollution, Indoor, Anti-Bacterial Agents, Bacteria, Cross-Sectional Studies, Ethiopia, Female, Hospitals, General, Humans, Male_
-The levels of indoor air microbial load in hospitals are very crucial to the health of patients and health care workers and are to be regularly monitored and maintained at an acceptable level. However, this problem remains overlooked, particularly in developing countries including Ethiopia. A hospital-based cross-sectional study is designed to determine the indoor air microbial load (settle plate technique), microbial isolates (standard microbiological techniques), bacterial susceptibility profiles (Kirby-Bauer disk diffusion technique), and associated factors, in different wards of the title Hospital, southern Ethiopia. An observational checklist was used to collect relevant information related to the associated factors; descriptive and inferential statistics were applied using Statistical Package for Social Sciences (SPSS); p-values ≤ 0.05 in the multivariable analysis were considered statistically significant. The total average bacterial and fungal load of the selected wards was 1914±1081.4 Colony Forming Units (CFU)/m3 (95% CI: 1718.5-2109.48 CFU/m3) and 1533.7±858.8 CFU/m3 (95% CI: 1378.5-1688CFU/m3) respectively. The highest mean bacterial (1914±1081.4 CFU/m3) and fungal (1533.7±858.8 CFU/m3) loads were found in the male surgical and female medical wards respectively. A total of 229 bacterial and 139 fungal isolates were obtained; Gram-positive bacteria were the predominant type, 130 (56.7%), particularly the isolates of Staphylococcus aureus, 46 (20.1%). The predominant fungal isolates were Aspergillus sp., 53(38%). Percentages of multidrug-resistant (MDR), extended-spectrum beta-lactamase (ESBL), and carbapenemase producers respectively were 48.5, 26.5, and 25%. High room crowd index [p = 0.003; Adjusted Odds Ratio (AOR) 12.5 (Confidence Interval (CI) 95%: 2.42-65)], presence of damp/wet materials [p = 0.025; AOR 7 (CI 95%: 1.3-37.4)], intense room traffic [p = 0.004; AOR 9.6 (CI 95%: 1.2-79.3)], inappropriate storage of food and drugs [p = 0.008; AOR 7.5 (CI 95%: 1.7-32)], and unclean environment [p = 0.03; AOR 5.8 (CI 95%: 1.2-28)] showed statistical significance concerning the indoor air microbial loads; most of the wards in Arba Minch General Hospital (AMGH) stand high and not in an acceptable level as per the WHO and the European Commission standards on indoor air microbial load. Periodic air surveillance and infection prevention control programs are required to reduce the transmission of these microbes to inpatients, visitors, and health care workers.
+Little is known about the characteristics of respiratory tract microbiome in Coronavirus disease 2019 (COVID-19) inpatients with different severity. We conducted a study that expected to clarify these characteristics as much as possible. A cross-sectional study was conducted to characterize respiratory tract microbial communities of 69 COVID-19 inpatients from 64 nasopharyngeal swabs and 5 sputum specimens using 16S ribosomal RNA (rRNA) gene V3-V4 region sequencing. The bacterial profiles were analyzed to find potential biomarkers by the two-step method, the combination of random forest model and the linear discriminant analysis effect size (LEfSe), and explore the connections with clinical characteristics by Spearman's rank test. Compared with mild COVID-19 patients, severe patients had significantly decreased bacterial diversity (P values were less than 0.05 in the alpha and beta diversity) and relative lower abundance of opportunistic pathogens, including Actinomyces, Prevotella, Rothia, Streptococcus, Veillonella. Eight potential biomarkers including Treponema, Leptotrichia, Lachnoanaerobaculum, Parvimonas, Alloprevotella, Porphyromonas, Gemella and Streptococcus were found to distinguish the mild COVID-19 patients from the severe COVID-19 patients. The genera of Actinomyces and Prevotella were negatively correlated with age in two groups. Intensive Care Unit (ICU) admission, neutrophil count (GRA) and lymphocyte count (LYMPH) were significantly correlated with different genera in the two groups. In addition, there were a positive correlation between Klebsiella and white blood cell count (WBC) in two groups. The respiratory tract microbiome had significant differences in COVID-19 patients with different severity. The value of the respiratory tract microbiome as predictive biomarkers for COVID-19 severity deserves further exploration. This article is protected by copyright. All rights reserved.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271022)
+[Source](https://doi.org/10.1002/jmv.28002)
 
-10.1371/journal.pone.0271022
-
----
-
-## moreThanANOVA: A user-friendly Shiny/R application for exploring and comparing data with interactive visualization.
- 12.07.2022, _W Jiang, H Chen, L Yang, X Pan_
-
-
-_Normal Distribution, Software_
-In the case of comparing means of various groups, data exploration and comparison for affecting factors or relative indices would be involved. This process is not only complex requiring extensive statistical knowledge and methods, but also challenging for the complex installation of existing tools for users who lack of statistical knowledge and coding experience. Like, the normal distribution and equal variance are crucial premises of parametric statistical analysis. But some studies reported that associated data from various industries violated the normal distribution and equal variance, parametric analysis still involved leading to invalid results. This is owing to that the normal distribution tests and homogeneity of variance test for different variables are time-cost and error-prone, posing an urgent need for an automatic and user-friendly analysis application, not only integrating normal distribution tests and homogeneity of variance test, but also associated the following statistical analysis. To address this, we developed a Shiny/R application, moreThanANOVA, which is an interactive, user-friendly, open-source and cloud-based visualization application to achieve automatic distribution tests, and correlative significance tests, then customize post-hoc analysis based on the considerations to the trade-off of Type I and Type II errors (deployed at https://hanchen.shinyapps.io/moreThanANOVA/). moreThanANOVA enables novice users to perform their complex statistical analyses quickly and credibly with interactive visualization and download publication-ready graphs for further analysis.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271185)
-
-10.1371/journal.pone.0271185
+10.1002/jmv.28002
 
 ---
 
-## Preparation of biological monolayers for producing high-resolution scanning electron micrographs.
- 12.07.2022, _S Mentor, F Cummings, D Fisher_
+## An international report on bacterial communities in esophageal squamous cell carcinoma.
+ 15.07.2022, _J Nomburg, S Bullman, D Nasrollahzadeh, EA Collisson, B Abedi-Ardekani, LO Akoko, JR Atkins, GC Buckle, S Gopal, N Hu, B Kaimila, M Khoshnia, R Malekzadeh, D Menya, BT Mmbaga, S Moody, G Mulima, BP Mushi, J Mwaiselage, A Mwanga, Y Newton, DL Ng, A Radenbaugh, DS Rwakatema, M Selekwa, J Schüz, PR Taylor, C Vaske, A Goldstein, MR Stratton, V McCormack, P Brennan, JA DeCaprio, M Meyerson, EJ Mmbaga, K Van Loon_
 
 
-_Animals, Carbon, Electrons, Endothelial Cells, Gold, Mice, Microscopy, Electron, Scanning_
-Scanning electron microscopy (SEM) provides a technical platform for nanoscopic mapping of biological structures. Correct preparation of SEM samples can provide an unprecedented understanding of the nexus between cellular morphology and topography. This comparative study critically examines two coating methods for preparing biological samples for scanning electron microscopy, while also providing novel advice on how to prepare in vitro epithelial or endothelial samples for high-resolution scanning-electron microscopy (HR-SEM). Two obstacles often confront the biologist when investigating cellular structures grown under tissue culture conditions, namely., how to prepare and present the biological samples to the HR-SEM microscope without affecting topographical membrane and cellular structural alterations. Firstly, our use of the Millicell cellulose inserts on which to grow our cellular samples in preparation for HR-SEM is both novel and advantageous to comparing the permeability function of cells to their morphological function. Secondly, biological material is often non-conducting, thermally sensitive and fragile and, therefore, needs to be fixed correctly and coated with thin conducting metal to ensure high-resolution detail of samples. Immortalized mouse brain endothelial cells (bEnd5) was used as a basis for describing the preferences in the use of the protocol. We compare two biological sample coating modalities for the visualizing and analysis of texturized, topographical, membranous ultrastructures of brain endothelial cell (BEC) confluent monolayers, namely, carbon and gold:palladium (Au:Pd) sputter coating in preparation for HR-SEM. BEC monolayers sputter-coated with these two modalities produced three-dimensional micrographs which have distinctly different topographical detail from which the nanostructural cellular data can be examined. The two coating methods display differences in the amount of nanoscopic detail that could be resolved in the nanosized membrane cytoarchitecture of BEC monolayers. The micrographical data clearly showed that Au:Pd sputter-coated samples generate descript imagery, providing useful information for profiling membrane nanostructures compared to carbon-coated samples. The recommendations regarding the contrast in two modalities would provide the necessary guidance to biological microscopists in preparing tissue culture samples for HR-SEM.
+The incidence of esophageal squamous cell carcinoma (ESCC) is disproportionately high in the eastern corridor of Africa and parts of Asia. Emerging research has identified a potential association between poor oral health and ESCC. One possible link between poor oral health and ESCC involves the alteration of the microbiome. We performed an integrated analysis of four independent sequencing efforts of ESCC tumors from patients from high- and low-incidence regions of the world. Using whole genome sequencing (WGS) and RNA sequencing (RNAseq) of ESCC tumors from 61 patients in Tanzania, we identified a community of bacteria, including members of the genera Fusobacterium, Selenomonas, Prevotella, Streptococcus, Porphyromonas, Veillonella, and Campylobacter, present at high abundance in ESCC tumors. We then characterized the microbiome of 238 ESCC tumor specimens collected in two additional independent sequencing efforts consisting of patients from other high-ESCC incidence regions (Tanzania, Malawi, Kenya, Iran, China). This analysis revealed similar ESCC-associated bacterial communities in these cancers. Because these genera are traditionally considered members of the oral microbiota, we next explored whether there was a relationship between the synchronous saliva and tumor microbiomes of ESCC patients in Tanzania. Comparative analyses revealed that paired saliva and tumor microbiomes were significantly similar with a specific enrichment of Fusobacterium and Prevotella in the tumor microbiome. Together, these data indicate that cancer-associated oral bacteria are associated with ESCC tumors at the time of diagnosis and support a model in which oral bacteria are present in high abundance in both saliva and tumors of some ESCC patients.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266943)
+[Source](https://doi.org/10.1002/ijc.34212)
 
-10.1371/journal.pone.0266943
-
----
-
-## The accuracy of absolute differential abundance analysis from relative count data.
- 11.07.2022, _KE Roche, S Mukherjee_
-
-
-Concerns have been raised about the use of relative abundance data derived from next generation sequencing as a proxy for absolute abundances. For example, in the differential abundance setting, compositional effects in relative abundance data may give rise to spurious differences (false positives) when considered from the absolute perspective. In practice however, relative abundances are often transformed by renormalization strategies intended to compensate for these effects and the scope of the practical problem remains unclear. We used simulated data to explore the consistency of differential abundance calling on renormalized relative abundances versus absolute abundances and find that, while overall consistency is high, with a median sensitivity (true positive rates) of 0.91 and specificity (1-false positive rates) of 0.89, consistency can be much lower where there is widespread change in the abundance of features across conditions. We confirm these findings on a large number of real data sets drawn from 16S metabarcoding, expression array, bulk RNA-seq, and single-cell RNA-seq experiments, where data sets with the greatest change between experimental conditions are also those with the highest false positive rates. Finally, we evaluate the predictive utility of summary features of relative abundance data themselves. Estimates of sparsity and the prevalence of feature-level change in relative abundance data give reasonable predictions of discrepancy in differential abundance calling in simulated data and can provide useful bounds for worst-case outcomes in real data.
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010284)
-
-10.1371/journal.pcbi.1010284
+10.1002/ijc.34212
 
 ---
 
-## AC-PCoA: Adjustment for confounding factors using principal coordinate analysis.
- 15.07.2022, _Y Wang, F Sun, W Lin, S Zhang_
+## Phenolic-rich beverages reduce bacterial TMA formation in an ex vivo-in vitro colonic fermentation model
 
-
-_Confounding Factors, Epidemiologic, Research Design_
-Confounding factors exist widely in various biological data owing to technical variations, population structures and experimental conditions. Such factors may mask the true signals and lead to spurious associations in the respective biological data, making it necessary to adjust confounding factors accordingly. However, existing confounder correction methods were mainly developed based on the original data or the pairwise Euclidean distance, either one of which is inadequate for analyzing different types of data, such as sequencing data. In this work, we proposed a method called Adjustment for Confounding factors using Principal Coordinate Analysis, or AC-PCoA, which reduces data dimension and extracts the information from different distance measures using principal coordinate analysis, and adjusts confounding factors across multiple datasets by minimizing the associations between lower-dimensional representations and confounding variables. Application of the proposed method was further extended to classification and prediction. We demonstrated the efficacy of AC-PCoA on three simulated datasets and five real datasets. Compared to the existing methods, AC-PCoA shows better results in visualization, statistical testing, clustering, and classification.
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010184)
-
-10.1371/journal.pcbi.1010184
+[Source](https://doi.org/10.1039/d2fo01159j)
 
 ---
 
-## The Art of Science: Students Participate in University’s First-Ever Bio-Art Class
+## <em>Lactobacillus paragasseri</em> OLL2809 Improves Depression-Like Behavior and Increases Beneficial Gut Microbes in Mice
 
-[Source](https://news.syr.edu/blog/2022/07/08/the-art-of-science-students-participate-in-universitys-first-ever-bio-art-class/)
+[Source](https://doi.org/10.3389/fnins.2022.918953)
+
+---
+
+## In silico identification of two peptides with antibacterial activity against multidrug-resistant <em>Staphylococcus aureus</em>
+
+[Source](https://doi.org/10.1038/s41522-022-00320-0)
+
+---
+
+## How Dietary Fibre, Acting via the Gut Microbiome, Lowers Blood Pressure.
+ 15.07.2022, _C Xu, FZ Marques_
+
+
+To discuss the interplay behind how a high-fibre diet leads to lower blood pressure (BP) via the gut microbiome.
+
+[Source](https://doi.org/10.1007/s11906-022-01216-2)
+
+10.1007/s11906-022-01216-2
+
+---
+
+## Low FODMAP diet in irritable bowel syndrome: a review of recent clinical trials and meta-analyses.
+ 15.07.2022, _K Whelan, H Staudacher_
+
+
+The low fermentable oligosaccharides, disaccharides, monosaccharides and polyol (FODMAP) diet is widely used in the dietary management of irritable bowel syndrome (IBS). The aim of this review is to summarize recent evidence regarding the use of the low FODMAP diet in IBS and other gastrointestinal disorders from recent clinical trials and meta-analyses.
+
+[Source](https://doi.org/10.1097/MCO.0000000000000854)
+
+10.1097/MCO.0000000000000854
+
+---
+
+## Prebiotic effects of plant-derived (poly)phenols on host metabolism: Is there a role for short-chain fatty acids?
+
+[Source](https://doi.org/10.1080/10408398.2022.2100315)
+
+---
+
+## Unveiling biogeographic patterns in the worldwide distributed <em>Ceratitis capitata</em> (medfly) using populations genomics and microbiome composition
+
+[Source](https://doi.org/10.1111/mec.16616)
+
+---
+
+## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines.
+ 15.07.2022, _JL Ebersole, S Kirakodu, O Gonzalez_
+
+
+Rhesus monkeys (n = 36) exhibiting a healthy periodontium at baseline were used to induce progressing periodontitis through ligature-placement around premolar/molar teeth. Bacterial samples were collected at baseline, 0.5, 1 and 3 months of disease and at 5 months for disease resolution. The animals were distributed into two groups (18/group): 3-7 years (young) and 12-23 years (adult) and stratified based upon matriline susceptibility to periodontitis (PDS, susceptible; PDR, resistant). 444 OTUs with 100 microbes representing a core microbiome present in ≥75% of the samples were identified. Only 48% of the major phylotypes overlapped in PDS and PDR samples. Different OTU abundance patterns were seen in young animals from PDS and PDR matrilines, with qualitative similarities during disease and relative abundance of phylotypes becoming less diverse. In adults, 23 OTUs were increased during disease in PDS samples and 24 in PDR samples; however, only 5 were common between these groups. Greater diversity of OTU relative abundance at baseline was observed with adult compared to young oral samples from both the PDS and PDR groups. With disease initiation (2 weeks), less diversity of relative abundance and some distinctive increases in specific OTUs were noted. By 1 month there was considerable qualitative homogeneity in the major OTUs in both groups; however, by 3 months there was an exacerbation of both qualitative and quantitative differences in the dominant OTUs between the PDS and PDR samples. These results support that some differences in disease expression related to matriline (familial) periodontitis risk may be explained by microbiome features. This article is protected by copyright. All rights reserved.
+
+[Source](https://doi.org/10.1111/omi.12377)
+
+10.1111/omi.12377
+
+---
+
+## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation.
+ 14.07.2022, _X Zhang, M Akhtar, Y Chen, Z Ma, Y Liang, D Shi, R Cheng, L Cui, Y Hu, AA Nafady, AR Ansari, EM Abdel-Kafy, H Liu_
+
+
+Intestinal inflammation is prevalent in chicken, which results in decreased growth performance and considerable economic losses. Accumulated findings established the close relationship between gut microbiota and chicken growth performance. However, whether gut microbiota impacts chicken growth performance by lessening intestinal inflammation remains elusive.
+
+[Source](https://doi.org/10.1186/s40168-022-01299-8)
+
+10.1186/s40168-022-01299-8
+
+---
+
+## Comparison Analysis of Different DNA Extraction Methods on Suitability for Long-Read Metagenomic Nanopore Sequencing.
+ 15.07.2022, _L Zhang, T Chen, Y Wang, S Zhang, Q Lv, D Kong, H Jiang, Y Zheng, Y Ren, W Huang, P Liu, Y Jiang_
+
+
+Metagenomic next-generation sequencing (mNGS) is a novel useful strategy that is increasingly used for pathogens detection in clinic. Some emerging mNGS technologies with long-read ability are useful to decrease sequencing time and increase diagnosed accuracy, which is of great significance in rapid pathogen diagnosis. Reliable DNA extraction is considered critical for the success of sequencing; hence, there is thus an urgent need of gentle DNA extraction method to get unbiased and more integrate DNA from all kinds of pathogens. In this study, we systematically compared three DNA extraction methods (enzymatic cell lysis based on MetaPolyzyme, mechanical cell lysis based on bead beating, and the control method without pre-cell lysis, respectively) by assessing DNA yield, integrity, and the microbial diversity based on long-read nanopore sequencing of urine samples with microbial infections. Compared with the control method, the enzymatic-based method increased the average length of microbial reads by a median of 2.1-fold [Inter Quartile Range (IQR), 1.7-2.5; maximum, 4.8) in 18 of the 20 samples and the mapped reads proportion of specific species by a median of 11.8-fold (Inter Quartile Range (IQR), 6.9-32.2; maximum, 79.27]. Moreover, it provided fully (20 of 20) consistent diagnosed results to the clinical culture and more representative microbial profiles (P &lt; 0.05), which all strongly proves the excellent performance of enzymatic-based method in long-read mNGS-based pathogen identification and potential diseases diagnosis of microbiome related.
+
+[Source](https://doi.org/10.3389/fcimb.2022.919903)
+
+10.3389/fcimb.2022.919903
+
+---
+
+## KOMB: K-core based de novo characterization of copy number variation in microbiomes.
+ 14.07.2022, _A Balaji, N Sapoval, C Seto, RA Leo Elworth, Y Fu, MG Nute, T Savidge, S Segarra, TJ Treangen_
+
+
+Characterizing metagenomes via kmer-based, database-dependent taxonomic classification has yielded key insights into underlying microbiome dynamics. However, novel approaches are needed to track community dynamics and genomic flux within metagenomes, particularly in response to perturbations. We describe KOMB, a novel method for tracking genome level dynamics within microbiomes. KOMB utilizes K-core decomposition to identify Structural variations (SVs), specifically, population-level Copy Number Variation (CNV) within microbiomes. K-core decomposition partitions the graph into shells containing nodes of induced degree at least K, yielding reduced computational complexity compared to prior approaches. Through validation on a synthetic community, we show that KOMB recovers and profiles repetitive genomic regions in the sample. KOMB is shown to identify functionally-important regions in Human Microbiome Project datasets, and was used to analyze longitudinal data and identify keystone taxa in Fecal Microbiota Transplantation (FMT) samples. In summary, KOMB represents a novel graph-based, taxonomy-oblivious, and reference-free approach for tracking CNV within microbiomes. KOMB is open source and available for download at https://gitlab.com/treangenlab/komb.
+
+[Source](https://doi.org/10.1016/j.csbj.2022.06.019)
+
+10.1016/j.csbj.2022.06.019
+
+---
+
+## CASPER: An Integrated Software Platform for Rapid Development of CRISPR Tools.
+ 14.07.2022, _B Mendoza, T Fry, D Dooley, J Herman, CT Trinh_
+
+
+Both academic and enterprise software solutions exist for designing CRISPR targets. They offer advantages when designing guide RNAs (gRNAs) but often focus on a select number of model organisms. Those that offer a wide variety of organisms can be limited in support of alternative endonucleases and downstream analyses such as multitargeting and population analyses to interrogate a microbiome. To accommodate broad CRISPR utilization, we developed a flexible platform software CRISPR Associated Software for Pathway Engineering and Research (CASPER) for gRNA generation and analysis in any organism and with any CRISPR-Cas system. CASPER combines traditional gRNA design tools with unique functions such as multiple Cas-type gRNA generation and evaluation of spacer redundancy in a single species or microbiome. The analyses have implications for strain-, species-, or genus-specific CRISPR diagnostic probe design and microbiome manipulation. The novel features of CASPER are packaged in a user-friendly interface to create a computational environment for researchers to streamline the utility of CRISPR-Cas systems.
+
+[Source](https://doi.org/10.1089/crispr.2022.0025)
+
+10.1089/crispr.2022.0025
+
+---
+
+## Integrating Choline and Specific Intestinal Microbiota to Classify Type 2 Diabetes in Adults: A Machine Learning Based Metagenomics Study.
+ 15.07.2022, _Q Zeng, M Zhao, F Wang, Y Li, H Li, J Zheng, X Chen, X Zhao, L Ji, X Gao, C Liu, Y Wang, S Cheng, J Xu, B Pan, J Sun, Y Li, D Li, Y He, L Zheng_
+
+
+_Adult, Betaine, Choline, Cross-Sectional Studies, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Glucose, Humans, Machine Learning, Metagenomics, Methylamines, Prediabetic State_
+Emerging evidence is examining the precise role of intestinal microbiota in the pathogenesis of type 2 diabetes. The aim of this study was to investigate the association of intestinal microbiota and microbiota-generated metabolites with glucose metabolism systematically in a large cross-sectional study in China. 1160 subjects were divided into three groups based on their glucose level: normal glucose group (n=504), prediabetes group (n=394), and diabetes group (n=262). Plasma concentrations of TMAO, choline, betaine, and carnitine were measured. Intestinal microbiota was measured in a subgroup of 161 controls, 144 prediabetes and 56 diabetes by using metagenomics sequencing. We identified that plasma choline [Per SD of log-transformed change: odds ratio 1.36 (95 confidence interval 1.16, 1.58)] was positively, while betaine [0.77 (0.66, 0.89)] was negatively associated with diabetes, independently of TMAO. Individuals with diabetes could be accurately distinguished from controls by integrating data on choline, and certain microbiota species, as well as traditional risk factors (AUC=0.971). KOs associated with the carbohydrate metabolism pathway were enhanced in individuals with high choline level. The functional shift in the carbohydrate metabolism pathway in high choline group was driven by species Ruminococcus lactaris, Coprococcus catus and Prevotella copri. We demonstrated the potential ability for classifying diabetic population by choline and specific species, and provided a novel insight of choline metabolism linking the microbiota to impaired glucose metabolism and diabetes.
+
+[Source](https://doi.org/10.3389/fendo.2022.906310)
+
+10.3389/fendo.2022.906310
 
 ---
 
