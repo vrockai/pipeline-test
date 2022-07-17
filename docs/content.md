@@ -112,15 +112,27 @@ The incidence of esophageal squamous cell carcinoma (ESCC) is disproportionately
 
 ---
 
-## KOMB: K-core based de novo characterization of copy number variation in microbiomes
+## KOMB: K-core based de novo characterization of copy number variation in microbiomes.
+ 16.07.2022, _A Balaji, N Sapoval, C Seto, RA Leo Elworth, Y Fu, MG Nute, T Savidge, S Segarra, TJ Treangen_
+
+
+Characterizing metagenomes via kmer-based, database-dependent taxonomic classification has yielded key insights into underlying microbiome dynamics. However, novel approaches are needed to track community dynamics and genomic flux within metagenomes, particularly in response to perturbations. We describe KOMB, a novel method for tracking genome level dynamics within microbiomes. KOMB utilizes K-core decomposition to identify Structural variations (SVs), specifically, population-level Copy Number Variation (CNV) within microbiomes. K-core decomposition partitions the graph into shells containing nodes of induced degree at least K, yielding reduced computational complexity compared to prior approaches. Through validation on a synthetic community, we show that KOMB recovers and profiles repetitive genomic regions in the sample. KOMB is shown to identify functionally-important regions in Human Microbiome Project datasets, and was used to analyze longitudinal data and identify keystone taxa in Fecal Microbiota Transplantation (FMT) samples. In summary, KOMB represents a novel graph-based, taxonomy-oblivious, and reference-free approach for tracking CNV within microbiomes. KOMB is open source and available for download at https://gitlab.com/treangenlab/komb.
 
 [Source](https://doi.org/10.1016/j.csbj.2022.06.019)
 
+10.1016/j.csbj.2022.06.019
+
 ---
 
-## CASPER: An Integrated Software Platform for Rapid Development of CRISPR Tools
+## CASPER: An Integrated Software Platform for Rapid Development of CRISPR Tools.
+ 14.07.2022, _B Mendoza, T Fry, D Dooley, J Herman, CT Trinh_
+
+
+Both academic and enterprise software solutions exist for designing CRISPR targets. They offer advantages when designing guide RNAs (gRNAs) but often focus on a select number of model organisms. Those that offer a wide variety of organisms can be limited in support of alternative endonucleases and downstream analyses such as multitargeting and population analyses to interrogate a microbiome. To accommodate broad CRISPR utilization, we developed a flexible platform software CRISPR Associated Software for Pathway Engineering and Research (CASPER) for gRNA generation and analysis in any organism and with any CRISPR-Cas system. CASPER combines traditional gRNA design tools with unique functions such as multiple Cas-type gRNA generation and evaluation of spacer redundancy in a single species or microbiome. The analyses have implications for strain-, species-, or genus-specific CRISPR diagnostic probe design and microbiome manipulation. The novel features of CASPER are packaged in a user-friendly interface to create a computational environment for researchers to streamline the utility of CRISPR-Cas systems.
 
 [Source](https://doi.org/10.1089/crispr.2022.0025)
+
+10.1089/crispr.2022.0025
 
 ---
 
