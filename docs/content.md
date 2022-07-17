@@ -94,76 +94,39 @@ The incidence of esophageal squamous cell carcinoma (ESCC) is disproportionately
 
 ---
 
-## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines.
- 15.07.2022, _JL Ebersole, S Kirakodu, O Gonzalez_
-
-
-Rhesus monkeys (n = 36) exhibiting a healthy periodontium at baseline were used to induce progressing periodontitis through ligature-placement around premolar/molar teeth. Bacterial samples were collected at baseline, 0.5, 1 and 3 months of disease and at 5 months for disease resolution. The animals were distributed into two groups (18/group): 3-7 years (young) and 12-23 years (adult) and stratified based upon matriline susceptibility to periodontitis (PDS, susceptible; PDR, resistant). 444 OTUs with 100 microbes representing a core microbiome present in ≥75% of the samples were identified. Only 48% of the major phylotypes overlapped in PDS and PDR samples. Different OTU abundance patterns were seen in young animals from PDS and PDR matrilines, with qualitative similarities during disease and relative abundance of phylotypes becoming less diverse. In adults, 23 OTUs were increased during disease in PDS samples and 24 in PDR samples; however, only 5 were common between these groups. Greater diversity of OTU relative abundance at baseline was observed with adult compared to young oral samples from both the PDS and PDR groups. With disease initiation (2 weeks), less diversity of relative abundance and some distinctive increases in specific OTUs were noted. By 1 month there was considerable qualitative homogeneity in the major OTUs in both groups; however, by 3 months there was an exacerbation of both qualitative and quantitative differences in the dominant OTUs between the PDS and PDR samples. These results support that some differences in disease expression related to matriline (familial) periodontitis risk may be explained by microbiome features. This article is protected by copyright. All rights reserved.
+## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines
 
 [Source](https://doi.org/10.1111/omi.12377)
 
-10.1111/omi.12377
-
 ---
 
-## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation.
- 14.07.2022, _X Zhang, M Akhtar, Y Chen, Z Ma, Y Liang, D Shi, R Cheng, L Cui, Y Hu, AA Nafady, AR Ansari, EM Abdel-Kafy, H Liu_
-
-
-Intestinal inflammation is prevalent in chicken, which results in decreased growth performance and considerable economic losses. Accumulated findings established the close relationship between gut microbiota and chicken growth performance. However, whether gut microbiota impacts chicken growth performance by lessening intestinal inflammation remains elusive.
+## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation
 
 [Source](https://doi.org/10.1186/s40168-022-01299-8)
 
-10.1186/s40168-022-01299-8
-
 ---
 
-## Comparison Analysis of Different DNA Extraction Methods on Suitability for Long-Read Metagenomic Nanopore Sequencing.
- 16.07.2022, _L Zhang, T Chen, Y Wang, S Zhang, Q Lv, D Kong, H Jiang, Y Zheng, Y Ren, W Huang, P Liu, Y Jiang_
-
-
-Metagenomic next-generation sequencing (mNGS) is a novel useful strategy that is increasingly used for pathogens detection in clinic. Some emerging mNGS technologies with long-read ability are useful to decrease sequencing time and increase diagnosed accuracy, which is of great significance in rapid pathogen diagnosis. Reliable DNA extraction is considered critical for the success of sequencing; hence, there is thus an urgent need of gentle DNA extraction method to get unbiased and more integrate DNA from all kinds of pathogens. In this study, we systematically compared three DNA extraction methods (enzymatic cell lysis based on MetaPolyzyme, mechanical cell lysis based on bead beating, and the control method without pre-cell lysis, respectively) by assessing DNA yield, integrity, and the microbial diversity based on long-read nanopore sequencing of urine samples with microbial infections. Compared with the control method, the enzymatic-based method increased the average length of microbial reads by a median of 2.1-fold [Inter Quartile Range (IQR), 1.7-2.5; maximum, 4.8) in 18 of the 20 samples and the mapped reads proportion of specific species by a median of 11.8-fold (Inter Quartile Range (IQR), 6.9-32.2; maximum, 79.27]. Moreover, it provided fully (20 of 20) consistent diagnosed results to the clinical culture and more representative microbial profiles (P &lt; 0.05), which all strongly proves the excellent performance of enzymatic-based method in long-read mNGS-based pathogen identification and potential diseases diagnosis of microbiome related.
+## Comparison Analysis of Different DNA Extraction Methods on Suitability for Long-Read Metagenomic Nanopore Sequencing
 
 [Source](https://doi.org/10.3389/fcimb.2022.919903)
 
-10.3389/fcimb.2022.919903
-
 ---
 
-## KOMB: K-core based de novo characterization of copy number variation in microbiomes.
- 16.07.2022, _A Balaji, N Sapoval, C Seto, RA Leo Elworth, Y Fu, MG Nute, T Savidge, S Segarra, TJ Treangen_
-
-
-Characterizing metagenomes via kmer-based, database-dependent taxonomic classification has yielded key insights into underlying microbiome dynamics. However, novel approaches are needed to track community dynamics and genomic flux within metagenomes, particularly in response to perturbations. We describe KOMB, a novel method for tracking genome level dynamics within microbiomes. KOMB utilizes K-core decomposition to identify Structural variations (SVs), specifically, population-level Copy Number Variation (CNV) within microbiomes. K-core decomposition partitions the graph into shells containing nodes of induced degree at least K, yielding reduced computational complexity compared to prior approaches. Through validation on a synthetic community, we show that KOMB recovers and profiles repetitive genomic regions in the sample. KOMB is shown to identify functionally-important regions in Human Microbiome Project datasets, and was used to analyze longitudinal data and identify keystone taxa in Fecal Microbiota Transplantation (FMT) samples. In summary, KOMB represents a novel graph-based, taxonomy-oblivious, and reference-free approach for tracking CNV within microbiomes. KOMB is open source and available for download at https://gitlab.com/treangenlab/komb.
+## KOMB: K-core based de novo characterization of copy number variation in microbiomes
 
 [Source](https://doi.org/10.1016/j.csbj.2022.06.019)
 
-10.1016/j.csbj.2022.06.019
-
 ---
 
-## CASPER: An Integrated Software Platform for Rapid Development of CRISPR Tools.
- 14.07.2022, _B Mendoza, T Fry, D Dooley, J Herman, CT Trinh_
-
-
-Both academic and enterprise software solutions exist for designing CRISPR targets. They offer advantages when designing guide RNAs (gRNAs) but often focus on a select number of model organisms. Those that offer a wide variety of organisms can be limited in support of alternative endonucleases and downstream analyses such as multitargeting and population analyses to interrogate a microbiome. To accommodate broad CRISPR utilization, we developed a flexible platform software CRISPR Associated Software for Pathway Engineering and Research (CASPER) for gRNA generation and analysis in any organism and with any CRISPR-Cas system. CASPER combines traditional gRNA design tools with unique functions such as multiple Cas-type gRNA generation and evaluation of spacer redundancy in a single species or microbiome. The analyses have implications for strain-, species-, or genus-specific CRISPR diagnostic probe design and microbiome manipulation. The novel features of CASPER are packaged in a user-friendly interface to create a computational environment for researchers to streamline the utility of CRISPR-Cas systems.
+## CASPER: An Integrated Software Platform for Rapid Development of CRISPR Tools
 
 [Source](https://doi.org/10.1089/crispr.2022.0025)
 
-10.1089/crispr.2022.0025
-
 ---
 
-## Integrating Choline and Specific Intestinal Microbiota to Classify Type 2 Diabetes in Adults: A Machine Learning Based Metagenomics Study.
- 16.07.2022, _Q Zeng, M Zhao, F Wang, Y Li, H Li, J Zheng, X Chen, X Zhao, L Ji, X Gao, C Liu, Y Wang, S Cheng, J Xu, B Pan, J Sun, Y Li, D Li, Y He, L Zheng_
-
-
-_Adult, Betaine, Choline, Cross-Sectional Studies, Diabetes Mellitus, Type 2, Gastrointestinal Microbiome, Glucose, Humans, Machine Learning, Metagenomics, Methylamines, Prediabetic State_
-Emerging evidence is examining the precise role of intestinal microbiota in the pathogenesis of type 2 diabetes. The aim of this study was to investigate the association of intestinal microbiota and microbiota-generated metabolites with glucose metabolism systematically in a large cross-sectional study in China. 1160 subjects were divided into three groups based on their glucose level: normal glucose group (n=504), prediabetes group (n=394), and diabetes group (n=262). Plasma concentrations of TMAO, choline, betaine, and carnitine were measured. Intestinal microbiota was measured in a subgroup of 161 controls, 144 prediabetes and 56 diabetes by using metagenomics sequencing. We identified that plasma choline [Per SD of log-transformed change: odds ratio 1.36 (95 confidence interval 1.16, 1.58)] was positively, while betaine [0.77 (0.66, 0.89)] was negatively associated with diabetes, independently of TMAO. Individuals with diabetes could be accurately distinguished from controls by integrating data on choline, and certain microbiota species, as well as traditional risk factors (AUC=0.971). KOs associated with the carbohydrate metabolism pathway were enhanced in individuals with high choline level. The functional shift in the carbohydrate metabolism pathway in high choline group was driven by species Ruminococcus lactaris, Coprococcus catus and Prevotella copri. We demonstrated the potential ability for classifying diabetic population by choline and specific species, and provided a novel insight of choline metabolism linking the microbiota to impaired glucose metabolism and diabetes.
+## Integrating Choline and Specific Intestinal Microbiota to Classify Type 2 Diabetes in Adults: A Machine Learning Based Metagenomics Study
 
 [Source](https://doi.org/10.3389/fendo.2022.906310)
-
-10.3389/fendo.2022.906310
 
 ---
 
