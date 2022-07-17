@@ -94,21 +94,39 @@ The incidence of esophageal squamous cell carcinoma (ESCC) is disproportionately
 
 ---
 
-## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines
+## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines.
+ 15.07.2022, _JL Ebersole, S Kirakodu, O Gonzalez_
+
+
+Rhesus monkeys (n = 36) exhibiting a healthy periodontium at baseline were used to induce progressing periodontitis through ligature-placement around premolar/molar teeth. Bacterial samples were collected at baseline, 0.5, 1 and 3 months of disease and at 5 months for disease resolution. The animals were distributed into two groups (18/group): 3-7 years (young) and 12-23 years (adult) and stratified based upon matriline susceptibility to periodontitis (PDS, susceptible; PDR, resistant). 444 OTUs with 100 microbes representing a core microbiome present in ≥75% of the samples were identified. Only 48% of the major phylotypes overlapped in PDS and PDR samples. Different OTU abundance patterns were seen in young animals from PDS and PDR matrilines, with qualitative similarities during disease and relative abundance of phylotypes becoming less diverse. In adults, 23 OTUs were increased during disease in PDS samples and 24 in PDR samples; however, only 5 were common between these groups. Greater diversity of OTU relative abundance at baseline was observed with adult compared to young oral samples from both the PDS and PDR groups. With disease initiation (2 weeks), less diversity of relative abundance and some distinctive increases in specific OTUs were noted. By 1 month there was considerable qualitative homogeneity in the major OTUs in both groups; however, by 3 months there was an exacerbation of both qualitative and quantitative differences in the dominant OTUs between the PDS and PDR samples. These results support that some differences in disease expression related to matriline (familial) periodontitis risk may be explained by microbiome features. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/omi.12377)
 
+10.1111/omi.12377
+
 ---
 
-## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation
+## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation.
+ 14.07.2022, _X Zhang, M Akhtar, Y Chen, Z Ma, Y Liang, D Shi, R Cheng, L Cui, Y Hu, AA Nafady, AR Ansari, EM Abdel-Kafy, H Liu_
+
+
+Intestinal inflammation is prevalent in chicken, which results in decreased growth performance and considerable economic losses. Accumulated findings established the close relationship between gut microbiota and chicken growth performance. However, whether gut microbiota impacts chicken growth performance by lessening intestinal inflammation remains elusive.
 
 [Source](https://doi.org/10.1186/s40168-022-01299-8)
 
+10.1186/s40168-022-01299-8
+
 ---
 
-## Comparison Analysis of Different DNA Extraction Methods on Suitability for Long-Read Metagenomic Nanopore Sequencing
+## Comparison Analysis of Different DNA Extraction Methods on Suitability for Long-Read Metagenomic Nanopore Sequencing.
+ 16.07.2022, _L Zhang, T Chen, Y Wang, S Zhang, Q Lv, D Kong, H Jiang, Y Zheng, Y Ren, W Huang, P Liu, Y Jiang_
+
+
+Metagenomic next-generation sequencing (mNGS) is a novel useful strategy that is increasingly used for pathogens detection in clinic. Some emerging mNGS technologies with long-read ability are useful to decrease sequencing time and increase diagnosed accuracy, which is of great significance in rapid pathogen diagnosis. Reliable DNA extraction is considered critical for the success of sequencing; hence, there is thus an urgent need of gentle DNA extraction method to get unbiased and more integrate DNA from all kinds of pathogens. In this study, we systematically compared three DNA extraction methods (enzymatic cell lysis based on MetaPolyzyme, mechanical cell lysis based on bead beating, and the control method without pre-cell lysis, respectively) by assessing DNA yield, integrity, and the microbial diversity based on long-read nanopore sequencing of urine samples with microbial infections. Compared with the control method, the enzymatic-based method increased the average length of microbial reads by a median of 2.1-fold [Inter Quartile Range (IQR), 1.7-2.5; maximum, 4.8) in 18 of the 20 samples and the mapped reads proportion of specific species by a median of 11.8-fold (Inter Quartile Range (IQR), 6.9-32.2; maximum, 79.27]. Moreover, it provided fully (20 of 20) consistent diagnosed results to the clinical culture and more representative microbial profiles (P &lt; 0.05), which all strongly proves the excellent performance of enzymatic-based method in long-read mNGS-based pathogen identification and potential diseases diagnosis of microbiome related.
 
 [Source](https://doi.org/10.3389/fcimb.2022.919903)
+
+10.3389/fcimb.2022.919903
 
 ---
 
