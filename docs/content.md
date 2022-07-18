@@ -70,15 +70,9 @@ The incidence of esophageal squamous cell carcinoma (ESCC) is disproportionately
 
 ---
 
-## How Dietary Fibre, Acting via the Gut Microbiome, Lowers Blood Pressure.
- 15.07.2022, _C Xu, FZ Marques_
-
-
-To discuss the interplay behind how a high-fibre diet leads to lower blood pressure (BP) via the gut microbiome.
+## How Dietary Fibre, Acting via the Gut Microbiome, Lowers Blood Pressure
 
 [Source](https://doi.org/10.1007/s11906-022-01216-2)
-
-10.1007/s11906-022-01216-2
 
 ---
 
@@ -106,27 +100,15 @@ The low fermentable oligosaccharides, disaccharides, monosaccharides and polyol 
 
 ---
 
-## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines.
- 15.07.2022, _JL Ebersole, S Kirakodu, O Gonzalez_
-
-
-Rhesus monkeys (n = 36) exhibiting a healthy periodontium at baseline were used to induce progressing periodontitis through ligature-placement around premolar/molar teeth. Bacterial samples were collected at baseline, 0.5, 1 and 3 months of disease and at 5 months for disease resolution. The animals were distributed into two groups (18/group): 3-7 years (young) and 12-23 years (adult) and stratified based upon matriline susceptibility to periodontitis (PDS, susceptible; PDR, resistant). 444 OTUs with 100 microbes representing a core microbiome present in ≥75% of the samples were identified. Only 48% of the major phylotypes overlapped in PDS and PDR samples. Different OTU abundance patterns were seen in young animals from PDS and PDR matrilines, with qualitative similarities during disease and relative abundance of phylotypes becoming less diverse. In adults, 23 OTUs were increased during disease in PDS samples and 24 in PDR samples; however, only 5 were common between these groups. Greater diversity of OTU relative abundance at baseline was observed with adult compared to young oral samples from both the PDS and PDR groups. With disease initiation (2 weeks), less diversity of relative abundance and some distinctive increases in specific OTUs were noted. By 1 month there was considerable qualitative homogeneity in the major OTUs in both groups; however, by 3 months there was an exacerbation of both qualitative and quantitative differences in the dominant OTUs between the PDS and PDR samples. These results support that some differences in disease expression related to matriline (familial) periodontitis risk may be explained by microbiome features. This article is protected by copyright. All rights reserved.
+## Differential oral microbiome in nonhuman primates from periodontitis susceptible and resistant matrilines
 
 [Source](https://doi.org/10.1111/omi.12377)
 
-10.1111/omi.12377
-
 ---
 
-## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation.
- 14.07.2022, _X Zhang, M Akhtar, Y Chen, Z Ma, Y Liang, D Shi, R Cheng, L Cui, Y Hu, AA Nafady, AR Ansari, EM Abdel-Kafy, H Liu_
-
-
-Intestinal inflammation is prevalent in chicken, which results in decreased growth performance and considerable economic losses. Accumulated findings established the close relationship between gut microbiota and chicken growth performance. However, whether gut microbiota impacts chicken growth performance by lessening intestinal inflammation remains elusive.
+## Chicken jejunal microbiota improves growth performance by mitigating intestinal inflammation
 
 [Source](https://doi.org/10.1186/s40168-022-01299-8)
-
-10.1186/s40168-022-01299-8
 
 ---
 
