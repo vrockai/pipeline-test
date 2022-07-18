@@ -76,15 +76,9 @@ The incidence of esophageal squamous cell carcinoma (ESCC) is disproportionately
 
 ---
 
-## Low FODMAP diet in irritable bowel syndrome: a review of recent clinical trials and meta-analyses.
- 15.07.2022, _K Whelan, H Staudacher_
-
-
-The low fermentable oligosaccharides, disaccharides, monosaccharides and polyol (FODMAP) diet is widely used in the dietary management of irritable bowel syndrome (IBS). The aim of this review is to summarize recent evidence regarding the use of the low FODMAP diet in IBS and other gastrointestinal disorders from recent clinical trials and meta-analyses.
+## Low FODMAP diet in irritable bowel syndrome: a review of recent clinical trials and meta-analyses
 
 [Source](https://doi.org/10.1097/MCO.0000000000000854)
-
-10.1097/MCO.0000000000000854
 
 ---
 
