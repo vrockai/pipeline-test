@@ -1,38 +1,24 @@
-## Evaluating Previous Antibiotic Use as a Risk Factor for Acute Gastroenteritis Among Children in Davidson County, Tennessee, 2014-2015.
- 21.03.2022, _JM Kolsin, BA Lopman, DC Payne, ME Wikswo, JR Dunn, NB Halasa, AJ Hall_
+## The relationship between the gut microbiome and the risk of respiratory infections among newborns.
+ 18.07.2022, _Y Moroishi, J Gui, AG Hoen, HG Morrison, ER Baker, KC Nadeau, H Li, Z Li, JC Madan, MR Karagas_
 
 
-_Acute Disease, Adolescent, Anti-Bacterial Agents, Caliciviridae Infections, Child, Child, Preschool, Female, Gastroenteritis, Gastrointestinal Microbiome, Humans, Infant, Infant, Newborn, Logistic Models, Male, Population Surveillance, Risk Factors, Rotavirus Infections, Severity of Illness Index, Tennessee, Time Factors_
-Epidemiologic studies that evaluate the relationship between previous antibiotic use and acute gastroenteritis (AGE) in the pediatric population are currently lacking.
-
-[Source](https://doi.org/10.1038/s43856-022-00152-1)
-
-10.1093/jpids/piy044
-
----
-
-## The relationship between the gut microbiome and the risk of respiratory infections among newborns
+Emerging evidence points to a critical role of the developing gut microbiome in immune maturation and infant health; however, prospective studies are lacking.
 
 [Source](https://doi.org/10.1038/s43856-022-00152-1)
 
----
-
-## The gut microbiota-brain axis, psychobiotics and its influence on brain and behaviour: A systematic review.
- 07.06.2022, _C Barrio, S Arias-Sánchez, I Martín-Monzón_
-
-
-_Brain, Dysbiosis, Gastrointestinal Microbiome, Humans, Microbiota, Probiotics_
-The gut microbiota is the set of microorganisms present in the gut, and it is connected to the central nervous system via the gut-brain axis. Despite there is not a definitive description of the eubiotic microbiota architecture, numerous studies have demonstrated its involvement in human behaviour and its relationship with several pathologies. This is a systematic review about the association between dysbiosis on the gut microbiota and the presence of neurological or neuropsychiatric diseases such as cognitive impairment, Alzheimer's disease, Parkinson's disease, ADHD, and depression. Furthermore, this study analyzes the potential benefits of psychobiotics supplementation for these pathologies. Searches were conducted in the electronic databases PubMed and PsycINFO. 17 articles were included in this review, the majority were published after 2019. The results showed that gut dysbiosis predicts the development of these pathologies and influences their pathogenesis. In addition, it was found that different psychobiotics, mainly dietary fibers and probiotics of the Lactobacillus family, improved different cognitive functions such as cognitive performance and induce a reduced cortisol response. Improvement in different cognitive functions is possible when understanding gut microbiota-brain axis, enteric nervous system, neural-immune system, neuroendocrine system, and central nervous system's relationship.
-
-[Source](https://doi.org/10.1007/s12031-022-02053-3)
-
-10.1016/j.psyneuen.2021.105640
+10.1038/s43856-022-00152-1
 
 ---
 
-## Psychobiotics: the Influence of Gut Microbiota on the Gut-Brain Axis in Neurological Disorders
+## Psychobiotics: the Influence of Gut Microbiota on the Gut-Brain Axis in Neurological Disorders.
+ 18.07.2022, _P Oroojzadeh, SY Bostanabad, H Lotfi_
+
+
+Nervous system disorders are one of the common problems that affect many people around the world every year. Regarding the beneficial effects of the probiotics on the gut and the gut-brain axis, their application along with current medications has been the subject of intense interest. Psychobiotics are a probiotic strain capable to affect the gut-brain axis. The effective role of Psychobiotics in several neurological disorders is documented. Consumption of the Psychobiotics containing nutrients has positive effects on the improvement of microbiota as well as alleviation of some symptoms of central nervous system (CNS) disorders. In the present study, the effects of probiotic strains on some CNS disorders in terms of controlling the disease symptoms were reviewed. Finding suggests that Psychobiotics can efficiently alleviate the symptoms of several CNS disorders such as autism spectrum disorders, Parkinson's disease, multiple sclerosis, insomnia, depression, diabetic neuropathy, and anorexia nervosa. It can be concluded that functional foods containing psychotropic strains can help to improve mental health.
 
 [Source](https://doi.org/10.1007/s12031-022-02053-3)
+
+10.1007/s12031-022-02053-3
 
 ---
 
@@ -48,15 +34,27 @@ The rapid development of sequencing methods over the past decades has accelerate
 
 ---
 
-## The Oral Microbiome and Its Role in Systemic Autoimmune Diseases: A Systematic Review of Big Data Analysis
+## The Oral Microbiome and Its Role in Systemic Autoimmune Diseases: A Systematic Review of Big Data Analysis.
+ 18.07.2022, _L Gao, Z Cheng, F Zhu, C Bi, Q Shi, X Chen_
+
+
+Despite decades of research, systemic autoimmune diseases (SADs) continue to be a major global health concern and the etiology of these diseases is still not clear. To date, with the development of high-throughput techniques, increasing evidence indicated a key role of oral microbiome in the pathogenesis of SADs, and the alterations of oral microbiome may contribute to the disease emergence or evolution. This review is to present the latest knowledge on the relationship between the oral microbiome and SADs, focusing on the multiomics data generated from a large set of samples.
 
 [Source](https://doi.org/10.3389/fdata.2022.927520)
 
+10.3389/fdata.2022.927520
+
 ---
 
-## Microplastics-perturbed gut microbiota triggered the testicular disorder in male mice: Via fecal microbiota transplantation
+## Microplastics-perturbed gut microbiota triggered the testicular disorder in male mice: Via fecal microbiota transplantation.
+ 17.07.2022, _S Wen, Y Zhao, S Liu, H Yuan, T You, H Xu_
+
+
+Microplastics (MPs), an emerging environmental pollutant, have been clarified to induce testicular disorder in mammals. And current studies have delineated a correlation between gut microbiota and male reproduction. However, it's still unclear whether gut microbiota gets involved in MPs induced reproductive toxicity. In this work, we constructed a mouse model drinking 5 μm polystyrene-MPs (PS-MPs) at the concentrations of 100 μg/L and 1,000 μg/L for 90 days. Evident histological damage, spermatogenetic disorder and hormones synthesis inhibition were observed in PS-MPs exposed mice. With fecal microbiota transplantation (FMT) trial, the recipient mice exhibited gut microbial alteration, and elevated abundance of Bacteroides and Prevotellaceae_UCG-001 were positively correlated with testicular disorder according to spearman correlation analysis. Mechanistically, increased proportion of pro-inflammatory bacteria may drive translocation of T helper 17 (Th17) cells, resulting in overproduced interleukin (IL)-17A and downstream inflammatory response in both the mice exposed to PS-MPs and corresponding recipient mice. In summary, our findings revealed the critical role of gut microbiota in PS-MPs-induced reproductive toxicity, and tried to elucidate the underlying mechanisms of gut microbial dysregulation-mediated IL-17A signaling pathway. Furthermore, this study also provides research basis for gut microbiota-targeted treatment of male infertility in the future.
 
 [Source](https://doi.org/10.1016/j.envpol.2022.119789)
+
+10.1016/j.envpol.2022.119789
 
 ---
 
@@ -66,21 +64,39 @@ The rapid development of sequencing methods over the past decades has accelerate
 
 ---
 
-## ProBioQuest: a database and semantic analysis engine for literature, clinical trials and patents related to probiotics
+## ProBioQuest: a database and semantic analysis engine for literature, clinical trials and patents related to probiotics.
+ 18.07.2022, _PL Chan, S Lauw, KL Ma, N Kei, KL Ma, YO Wong, HY Lam, YY Ting, TK Yau, W Nong, D Huang, Y Xie, PCK Cheung, HS Kwan_
+
+
+The use of probiotics to improve health via the modulation of gut microbiota has gained wide attention. The growing volume of investigations of probiotic microorganisms and commercialized probiotic products has created the need for a database to organize the health-promoting functions driven by probiotics reported in academic articles, clinical trials and patents. We constructed ProBioQuest to collect up-to-date literature related to probiotics from PubMed.gov, ClinicalTrials.gov and PatentsView. More than 2.8 million articles have been collected. Automated information technology-assisted procedures enabled us to collect the data continuously, providing the most up-to-date information. Statistical functions and semantic analyses are provided on the website as an advanced search engine, which contributes to the semantic tool of this database for information search and analyses. The semantic analytical output provides categorized search results and functions to enhance further analysis. A keyword bank is included which can display multiple tables of contents. Users can select keywords from different displayed categories to achieve easily filtered searches. Additional information on the searched items can be browsed via the link-out function. ProBioQuest is not only useful to scientists and health professionals but also to dietary supplement manufacturers and the general public. In this paper, the method we used to build this database-web system is described. Applications of ProBioQuest for several literature-based analyses of probiotics are included as examples of the various uses of this search engine. ProBioQuest can be accessed free of charge at http://kwanlab.bio.cuhk.edu.hk/PBQ/. Database URL: http://kwanlab.bio.cuhk.edu.hk/PBQ/.
 
 [Source](https://doi.org/10.1093/database/baac059)
 
+10.1093/database/baac059
+
 ---
 
-## A structural metagenomics pipeline for examining the gut microbiome
+## A structural metagenomics pipeline for examining the gut microbiome.
+ 16.07.2022, _ME Walker, JB Simpson, MR Redinbo_
+
+
+Metagenomic sequencing data provide a rich resource from which to expand our understanding of differential protein functions involved in human health. Here, we outline a pipeline that combines microbial whole genome sequencing with protein structure data to yield a structural metagenomics-informed atlas of microbial enzyme families of interest. Visualizing metagenomics data through a structural lens facilitates downstream studies including targeted inhibition and probe-based proteomics to define at the molecular level how different enzyme orthologs impact in vivo function. Application of this pipeline to gut microbial enzymes like glucuronidases, TMA lyases, and bile salt hydrolases is expected to pinpoint their involvement in health and disease and may aid in the development of therapeutics that target specific enzymes within the microbiome.
 
 [Source](https://doi.org/10.1016/j.sbi.2022.102416)
 
+10.1016/j.sbi.2022.102416
+
 ---
 
-## The Mini Colon Model: a benchtop multi-bioreactor system to investigate the gut microbiome
+## The Mini Colon Model: a benchtop multi-bioreactor system to investigate the gut microbiome.
+ 18.07.2022, _Z Jin, A Ng, CF Maurice, D Juncker_
+
+
+In vitro fermentation systems allow for the investigation of gut microbial communities with precise control of various physiological parameters while decoupling confounding factors from the human host. Current systems, such as the SHIME and Robogut, are large in footprint, lack multiplexing, and have low experimental throughput. Alternatives which address these shortcomings, such as the Mini Bioreactor Array system, are often reliant on expensive specialized equipment, which hinders wide replication across labs. Here, we present the Mini Colon Model (MiCoMo), a low-cost, benchtop multi-bioreactor system that simulates the human colon environment with physiologically relevant conditions. The device consists of triplicate bioreactors working independently of an anaerobic chamber and equipped with automated pH, temperature, and fluidic control. We conducted 14-d experiments and found that MiCoMo was able to support a stable complex microbiota community with a Shannon Index of 3.17 ± 0.65, from individual fecal samples after only 3-5 d of inoculation. MiCoMo also retained inter-sample microbial differences by developing closely related communities unique to each donor, while maintaining both minimal variations between replicate reactors (average Bray-Curtis similarity 0.72 ± 0.13) andday-to-day variations (average Bray-Curtis similarity 0.81±0.10) after this short stabilization period. Together, these results establish MiCoMo as an accessible system for studying gut microbial communities with high throughput and multiplexing capabilities.
 
 [Source](https://doi.org/10.1080/19490976.2022.2096993)
+
+10.1080/19490976.2022.2096993
 
 ---
 
