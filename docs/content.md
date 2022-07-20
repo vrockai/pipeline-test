@@ -1,5 +1,5 @@
 ## The relationship between the gut microbiome and the risk of respiratory infections among newborns.
- 18.07.2022, _Y Moroishi, J Gui, AG Hoen, HG Morrison, ER Baker, KC Nadeau, H Li, Z Li, JC Madan, MR Karagas_
+ 19.07.2022, _Y Moroishi, J Gui, AG Hoen, HG Morrison, ER Baker, KC Nadeau, H Li, Z Li, JC Madan, MR Karagas_
 
 
 Emerging evidence points to a critical role of the developing gut microbiome in immune maturation and infant health; however, prospective studies are lacking.
@@ -23,7 +23,7 @@ Nervous system disorders are one of the common problems that affect many people 
 ---
 
 ## Ecosystem-specific microbiota and microbiome databases in the era of big data.
- 18.07.2022, _V Lobanov, A Gobet, A Joyce_
+ 19.07.2022, _V Lobanov, A Gobet, A Joyce_
 
 
 The rapid development of sequencing methods over the past decades has accelerated both the potential scope and depth of microbiota and microbiome studies. Recent developments in the field have been marked by an expansion away from purely categorical studies towards a greater investigation of community functionality. As in-depth genomic and environmental coverage is often distributed unequally across major taxa and ecosystems, it can be difficult to identify or substantiate relationships within microbial communities. Generic databases containing datasets from diverse ecosystems have opened a new era of data accessibility despite costs in terms of data quality and heterogeneity. This challenge is readily embodied in the integration of meta-omics data alongside habitat-specific standards which help contextualise datasets both in terms of sample processing and background within the ecosystem. A special case of large genomic repositories, ecosystem-specific databases (ES-DB's), have emerged to consolidate and better standardise sample processing and analysis protocols around individual ecosystems under study, allowing independent studies to produce comparable datasets. Here, we provide a comprehensive review of this emerging tool for microbial community analysis in relation to current trends in the field. We focus on the factors leading to the formation of ES-DB's, their comparison to traditional microbial databases, the potential for ES-DB integration with meta-omics platforms, as well as inherent limitations in the applicability of ES-DB's.
@@ -35,7 +35,7 @@ The rapid development of sequencing methods over the past decades has accelerate
 ---
 
 ## The Oral Microbiome and Its Role in Systemic Autoimmune Diseases: A Systematic Review of Big Data Analysis.
- 18.07.2022, _L Gao, Z Cheng, F Zhu, C Bi, Q Shi, X Chen_
+ 19.07.2022, _L Gao, Z Cheng, F Zhu, C Bi, Q Shi, X Chen_
 
 
 Despite decades of research, systemic autoimmune diseases (SADs) continue to be a major global health concern and the etiology of these diseases is still not clear. To date, with the development of high-throughput techniques, increasing evidence indicated a key role of oral microbiome in the pathogenesis of SADs, and the alterations of oral microbiome may contribute to the disease emergence or evolution. This review is to present the latest knowledge on the relationship between the oral microbiome and SADs, focusing on the multiomics data generated from a large set of samples.
@@ -65,7 +65,7 @@ Microplastics (MPs), an emerging environmental pollutant, have been clarified to
 ---
 
 ## ProBioQuest: a database and semantic analysis engine for literature, clinical trials and patents related to probiotics.
- 18.07.2022, _PL Chan, S Lauw, KL Ma, N Kei, KL Ma, YO Wong, HY Lam, YY Ting, TK Yau, W Nong, D Huang, Y Xie, PCK Cheung, HS Kwan_
+ 19.07.2022, _PL Chan, S Lauw, KL Ma, N Kei, KL Ma, YO Wong, HY Lam, YY Ting, TK Yau, W Nong, D Huang, Y Xie, PCK Cheung, HS Kwan_
 
 
 The use of probiotics to improve health via the modulation of gut microbiota has gained wide attention. The growing volume of investigations of probiotic microorganisms and commercialized probiotic products has created the need for a database to organize the health-promoting functions driven by probiotics reported in academic articles, clinical trials and patents. We constructed ProBioQuest to collect up-to-date literature related to probiotics from PubMed.gov, ClinicalTrials.gov and PatentsView. More than 2.8 million articles have been collected. Automated information technology-assisted procedures enabled us to collect the data continuously, providing the most up-to-date information. Statistical functions and semantic analyses are provided on the website as an advanced search engine, which contributes to the semantic tool of this database for information search and analyses. The semantic analytical output provides categorized search results and functions to enhance further analysis. A keyword bank is included which can display multiple tables of contents. Users can select keywords from different displayed categories to achieve easily filtered searches. Additional information on the searched items can be browsed via the link-out function. ProBioQuest is not only useful to scientists and health professionals but also to dietary supplement manufacturers and the general public. In this paper, the method we used to build this database-web system is described. Applications of ProBioQuest for several literature-based analyses of probiotics are included as examples of the various uses of this search engine. ProBioQuest can be accessed free of charge at http://kwanlab.bio.cuhk.edu.hk/PBQ/. Database URL: http://kwanlab.bio.cuhk.edu.hk/PBQ/.
@@ -89,9 +89,10 @@ Metagenomic sequencing data provide a rich resource from which to expand our und
 ---
 
 ## The Mini Colon Model: a benchtop multi-bioreactor system to investigate the gut microbiome.
- 18.07.2022, _Z Jin, A Ng, CF Maurice, D Juncker_
+ 19.07.2022, _Z Jin, A Ng, CF Maurice, D Juncker_
 
 
+_Bioreactors, Colon, Feces, Gastrointestinal Microbiome, Humans, Microbiota, RNA, Ribosomal, 16S_
 In vitro fermentation systems allow for the investigation of gut microbial communities with precise control of various physiological parameters while decoupling confounding factors from the human host. Current systems, such as the SHIME and Robogut, are large in footprint, lack multiplexing, and have low experimental throughput. Alternatives which address these shortcomings, such as the Mini Bioreactor Array system, are often reliant on expensive specialized equipment, which hinders wide replication across labs. Here, we present the Mini Colon Model (MiCoMo), a low-cost, benchtop multi-bioreactor system that simulates the human colon environment with physiologically relevant conditions. The device consists of triplicate bioreactors working independently of an anaerobic chamber and equipped with automated pH, temperature, and fluidic control. We conducted 14-d experiments and found that MiCoMo was able to support a stable complex microbiota community with a Shannon Index of 3.17 ± 0.65, from individual fecal samples after only 3-5 d of inoculation. MiCoMo also retained inter-sample microbial differences by developing closely related communities unique to each donor, while maintaining both minimal variations between replicate reactors (average Bray-Curtis similarity 0.72 ± 0.13) andday-to-day variations (average Bray-Curtis similarity 0.81±0.10) after this short stabilization period. Together, these results establish MiCoMo as an accessible system for studying gut microbial communities with high throughput and multiplexing capabilities.
 
 [Source](https://doi.org/10.1080/19490976.2022.2096993)
