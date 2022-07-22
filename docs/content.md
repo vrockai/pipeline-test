@@ -11,7 +11,7 @@ Emerging evidence points to a critical role of the developing gut microbiome in 
 ---
 
 ## Psychobiotics: the Influence of Gut Microbiota on the Gut-Brain Axis in Neurological Disorders.
- 18.07.2022, _P Oroojzadeh, SY Bostanabad, H Lotfi_
+ 21.07.2022, _P Oroojzadeh, SY Bostanabad, H Lotfi_
 
 
 Nervous system disorders are one of the common problems that affect many people around the world every year. Regarding the beneficial effects of the probiotics on the gut and the gut-brain axis, their application along with current medications has been the subject of intense interest. Psychobiotics are a probiotic strain capable to affect the gut-brain axis. The effective role of Psychobiotics in several neurological disorders is documented. Consumption of the Psychobiotics containing nutrients has positive effects on the improvement of microbiota as well as alleviation of some symptoms of central nervous system (CNS) disorders. In the present study, the effects of probiotic strains on some CNS disorders in terms of controlling the disease symptoms were reviewed. Finding suggests that Psychobiotics can efficiently alleviate the symptoms of several CNS disorders such as autism spectrum disorders, Parkinson's disease, multiple sclerosis, insomnia, depression, diabetic neuropathy, and anorexia nervosa. It can be concluded that functional foods containing psychotropic strains can help to improve mental health.
@@ -65,9 +65,10 @@ Microplastics (MPs), an emerging environmental pollutant, have been clarified to
 ---
 
 ## ProBioQuest: a database and semantic analysis engine for literature, clinical trials and patents related to probiotics.
- 20.07.2022, _PL Chan, S Lauw, KL Ma, N Kei, KL Ma, YO Wong, HY Lam, YY Ting, TK Yau, W Nong, D Huang, Y Xie, PCK Cheung, HS Kwan_
+ 21.07.2022, _PL Chan, S Lauw, KL Ma, N Kei, KL Ma, YO Wong, HY Lam, YY Ting, TK Yau, W Nong, D Huang, Y Xie, PCK Cheung, HS Kwan_
 
 
+_Databases, Factual, Probiotics, PubMed, Search Engine, Semantics_
 The use of probiotics to improve health via the modulation of gut microbiota has gained wide attention. The growing volume of investigations of probiotic microorganisms and commercialized probiotic products has created the need for a database to organize the health-promoting functions driven by probiotics reported in academic articles, clinical trials and patents. We constructed ProBioQuest to collect up-to-date literature related to probiotics from PubMed.gov, ClinicalTrials.gov and PatentsView. More than 2.8 million articles have been collected. Automated information technology-assisted procedures enabled us to collect the data continuously, providing the most up-to-date information. Statistical functions and semantic analyses are provided on the website as an advanced search engine, which contributes to the semantic tool of this database for information search and analyses. The semantic analytical output provides categorized search results and functions to enhance further analysis. A keyword bank is included which can display multiple tables of contents. Users can select keywords from different displayed categories to achieve easily filtered searches. Additional information on the searched items can be browsed via the link-out function. ProBioQuest is not only useful to scientists and health professionals but also to dietary supplement manufacturers and the general public. In this paper, the method we used to build this database-web system is described. Applications of ProBioQuest for several literature-based analyses of probiotics are included as examples of the various uses of this search engine. ProBioQuest can be accessed free of charge at http://kwanlab.bio.cuhk.edu.hk/PBQ/. Database URL: http://kwanlab.bio.cuhk.edu.hk/PBQ/.
 
 [Source](https://doi.org/10.1093/database/baac059)
@@ -89,7 +90,7 @@ Metagenomic sequencing data provide a rich resource from which to expand our und
 ---
 
 ## The Mini Colon Model: a benchtop multi-bioreactor system to investigate the gut microbiome.
- 19.07.2022, _Z Jin, A Ng, CF Maurice, D Juncker_
+ 21.07.2022, _Z Jin, A Ng, CF Maurice, D Juncker_
 
 
 _Bioreactors, Colon, Feces, Gastrointestinal Microbiome, Humans, Microbiota, RNA, Ribosomal, 16S_
