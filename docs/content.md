@@ -78,7 +78,7 @@ The use of probiotics to improve health via the modulation of gut microbiota has
 ---
 
 ## A structural metagenomics pipeline for examining the gut microbiome.
- 16.07.2022, _ME Walker, JB Simpson, MR Redinbo_
+ 22.07.2022, _ME Walker, JB Simpson, MR Redinbo_
 
 
 Metagenomic sequencing data provide a rich resource from which to expand our understanding of differential protein functions involved in human health. Here, we outline a pipeline that combines microbial whole genome sequencing with protein structure data to yield a structural metagenomics-informed atlas of microbial enzyme families of interest. Visualizing metagenomics data through a structural lens facilitates downstream studies including targeted inhibition and probe-based proteomics to define at the molecular level how different enzyme orthologs impact in vivo function. Application of this pipeline to gut microbial enzymes like glucuronidases, TMA lyases, and bile salt hydrolases is expected to pinpoint their involvement in health and disease and may aid in the development of therapeutics that target specific enzymes within the microbiome.
