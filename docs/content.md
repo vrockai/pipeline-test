@@ -35,7 +35,7 @@ Intestinal bowel disease (IBD) is a chronic immune-mediated clinical condition t
 ---
 
 ## The interplay of gut microbiota between donors and recipients determines the efficacy of fecal microbiota transplantation.
- 21.07.2022, _R He, P Li, J Wang, B Cui, F Zhang, F Zhao_
+ 24.07.2022, _R He, P Li, J Wang, B Cui, F Zhang, F Zhao_
 
 
 _Bacteria, Clostridioides difficile, Clostridium Infections, Fecal Microbiota Transplantation, Feces, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Treatment Outcome_
@@ -72,7 +72,7 @@ Periodontitis is a chronic inflammatory disease associated with the presence of 
 ---
 
 ## Activity-based protein profiling identifies alternating activation of enzymes involved in the bifidobacterium shunt pathway or mucin degradation in the gut microbiome response to soluble dietary fiber.
- 22.07.2022, _BJ Killinger, C Whidbey, NC Sadler, AJ DeLeon, N Munoz, YM Kim, AT Wright_
+ 24.07.2022, _BJ Killinger, C Whidbey, NC Sadler, AJ DeLeon, N Munoz, YM Kim, AT Wright_
 
 
 _Animals, Bacteria, Bifidobacterium, Carrier Proteins, Dietary Fiber, Feces, Gastrointestinal Microbiome, Mice, Mucins, Sugars_
