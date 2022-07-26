@@ -1,5 +1,5 @@
 ## A 3D-printed transepidermal microprojection array for human skin microbiome sampling.
- 22.07.2022, _K Liang, C Leong, JM Loh, N Chan, L Lim, YI Lam, TL Dawson, HL Tey_
+ 25.07.2022, _K Liang, C Leong, JM Loh, N Chan, L Lim, YI Lam, TL Dawson, HL Tey_
 
 
 Skin microbiome sampling is currently performed with tools such as swabs and tape strips to collect microbes from the skin surface. However, these conventional approaches may be unable to detect microbes deeper in the epidermis or in epidermal invaginations. We describe a sampling tool with a depth component, a transepidermal microprojection array (MPA), which captures microbial biomass from both the epidermal surface and deeper skin layers. We leveraged the rapid customizability of 3D printing to enable systematic optimization of MPA for human skin sampling. Evaluation of sampling efficacy on human scalp revealed the optimized MPA was comparable in sensitivity to swab and superior to tape strip, especially for nonstandard skin surfaces. We observed differences in species diversity, with the MPA detecting clinically relevant fungi more often than other approaches. This work delivers a tool in the complex field of skin microbiome sampling to potentially address gaps in our understanding of its role in health and disease.
@@ -104,9 +104,10 @@ Microbiota-accessible carbohydrates (MACs) exert health-promoting effects, but h
 ---
 
 ## Key features of the genetic architecture and evolution of host-microbe interactions revealed by high-resolution genetic mapping of the mucosa-associated gut microbiome in hybrid mice.
- 22.07.2022, _S Doms, H Fokt, MC Rühlemann, CJ Chung, A Kuenstner, SM Ibrahim, A Franke, LM Turner, JF Baines_
+ 25.07.2022, _S Doms, H Fokt, MC Rühlemann, CJ Chung, A Kuenstner, SM Ibrahim, A Franke, LM Turner, JF Baines_
 
 
+_Animals, Bacteria, Gastrointestinal Microbiome, Genome-Wide Association Study, Host Microbial Interactions, Humans, Mammals, Mice, Mucous Membrane, RNA, Ribosomal, 16S_
 Determining the forces that shape diversity in host-associated bacterial communities is critical to understanding the evolution and maintenance of metaorganisms. To gain deeper understanding of the role of host genetics in shaping gut microbial traits, we employed a powerful genetic mapping approach using inbred lines derived from the hybrid zone of two incipient house mouse species. Furthermore, we uniquely performed our analysis on microbial traits measured at the gut mucosal interface, which is in more direct contact with host cells and the immune system. Several mucosa-associated bacterial taxa have high heritability estimates, and interestingly, 16S rRNA transcript-based heritability estimates are positively correlated with cospeciation rate estimates. Genome-wide association mapping identifies 428 loci influencing 120 taxa, with narrow genomic intervals pinpointing promising candidate genes and pathways. Importantly, we identified an enrichment of candidate genes associated with several human diseases, including inflammatory bowel disease, and functional categories including innate immunity and G-protein-coupled receptors. These results highlight key features of the genetic architecture of mammalian host-microbe interactions and how they diverge as new species form.
 
 [Source](https://doi.org/10.7554/eLife.75419)
@@ -146,7 +147,7 @@ The vast majority of environmental microbes have not yet been cultured, and most
 ---
 
 ## Plant genetic effects on microbial hubs impact host fitness in repeated field trials.
- 22.07.2022, _B Brachi, D Filiault, H Whitehurst, P Darme, P Le Gars, M Le Mentec, TC Morton, E Kerdaffrec, F Rabanal, A Anastasio, MS Box, S Duncan, F Huang, R Leff, P Novikova, M Perisin, T Tsuchimatsu, R Woolley, C Dean, M Nordborg, S Holm, J Bergelson_
+ 25.07.2022, _B Brachi, D Filiault, H Whitehurst, P Darme, P Le Gars, M Le Mentec, TC Morton, E Kerdaffrec, F Rabanal, A Anastasio, MS Box, S Duncan, F Huang, R Leff, P Novikova, M Perisin, T Tsuchimatsu, R Woolley, C Dean, M Nordborg, S Holm, J Bergelson_
 
 
 Although complex interactions between hosts and microbial associates are increasingly well documented, we still know little about how and why hosts shape microbial communities in nature. In addition, host genetic effects on microbial communities vary widely depending on the environment, obscuring conclusions about which microbes are impacted and which plant functions are important. We characterized the leaf microbiota of 200 Arabidopsis thaliana genotypes in eight field experiments and detected consistent host effects on specific, broadly distributed microbial species (operational taxonomic unit [OTUs]). Host genetic effects disproportionately influenced central ecological hubs, with heritability of particular OTUs declining with their distance from the nearest hub within the microbial network. These host effects could reflect either OTUs preferentially associating with specific genotypes or differential microbial success within them. Host genetics associated with microbial hubs explained over 10% of the variation in lifetime seed production among host genotypes across sites and years. We successfully cultured one of these microbial hubs and demonstrated its growth-promoting effects on plants in sterile conditions. Finally, genome-wide association mapping identified many putatively causal genes with small effects on the relative abundance of microbial hubs across sites and years, and these genes were enriched for those involved in the synthesis of specialized metabolites, auxins, and the immune system. Using untargeted metabolomics, we corroborate the consistent association between variation in specialized metabolites and microbial hubs across field sites. Together, our results reveal that host genetic variation impacts the microbial communities in consistent ways across environments and that these effects contribute to fitness variation among host genotypes.
@@ -188,7 +189,7 @@ Global biodiversity loss and mass extinction of species are two of the most crit
 ---
 
 ## LOCOM: A logistic regression model for testing differential abundance in compositional microbiome data with false discovery rate control.
- 22.07.2022, _Y Hu, GA Satten, YJ Hu_
+ 25.07.2022, _Y Hu, GA Satten, YJ Hu_
 
 
 Compositional analysis is based on the premise that a relatively small proportion of taxa are differentially abundant, while the ratios of the relative abundances of the remaining taxa remain unchanged. Most existing methods use log-transformed data, but log-transformation of data with pervasive zero counts is problematic, and these methods cannot always control the false discovery rate (FDR). Further, high-throughput microbiome data such as 16S amplicon or metagenomic sequencing are subject to experimental biases that are introduced in every step of the experimental workflow. McLaren et al. [eLife 8, e46923 (2019)] have recently proposed a model for how these biases affect relative abundance data. Motivated by this model, we show that the odds ratios in a logistic regression comparing counts in two taxa are invariant to experimental biases. With this motivation, we propose logistic compositional analysis (LOCOM), a robust logistic regression approach to compositional analysis, that does not require pseudocounts. Inference is based on permutation to account for overdispersion and small sample sizes. Traits can be either binary or continuous, and adjustment for confounders is supported. Our simulations indicate that LOCOM always preserved FDR and had much improved sensitivity over existing methods. In contrast, analysis of composition of microbiomes (ANCOM) and ANCOM with bias correction (ANCOM-BC)/ANOVA-Like Differential Expression tool (ALDEx2) had inflated FDR when the effect sizes were small and large, respectively. Only LOCOM was robust to experimental biases in every situation. The flexibility of our method for a variety of microbiome studies is illustrated by the analysis of data from two microbiome studies. Our R package LOCOM is publicly available.
@@ -200,9 +201,10 @@ Compositional analysis is based on the premise that a relatively small proportio
 ---
 
 ## A metagenomic DNA sequencing assay that is robust against environmental DNA contamination.
- 21.07.2022, _O Mzava, AP Cheng, A Chang, S Smalling, LK Djomnang, JS Lenz, R Longman, A Steadman, LG Gómez-Escobar, EJ Schenck, M Salvatore, MJ Satlin, M Suthanthiran, JR Lee, CE Mason, D Dadhania, I De Vlaminck_
+ 25.07.2022, _O Mzava, AP Cheng, A Chang, S Smalling, LK Djomnang, JS Lenz, R Longman, A Steadman, LG Gómez-Escobar, EJ Schenck, M Salvatore, MJ Satlin, M Suthanthiran, JR Lee, CE Mason, D Dadhania, I De Vlaminck_
 
 
+_COVID-19, DNA, DNA Contamination, DNA, Bacterial, DNA, Environmental, High-Throughput Nucleotide Sequencing, Humans, Metagenomics, Sequence Analysis, DNA_
 Metagenomic DNA sequencing is a powerful tool to characterize microbial communities but is sensitive to environmental DNA contamination, in particular when applied to samples with low microbial biomass. Here, we present Sample-Intrinsic microbial DNA Found by Tagging and sequencing (SIFT-seq) a metagenomic sequencing assay that is robust against environmental DNA contamination introduced during sample preparation. The core idea of SIFT-seq is to tag the DNA in the sample prior to DNA isolation and library preparation with a label that can be recorded by DNA sequencing. Any contaminating DNA that is introduced in the sample after tagging can then be bioinformatically identified and removed. We applied SIFT-seq to screen for infections from microorganisms with low burden in blood and urine, to identify COVID-19 co-infection, to characterize the urinary microbiome, and to identify microbial DNA signatures of sepsis and inflammatory bowel disease in blood.
 
 [Source](https://doi.org/10.1038/s41467-022-31654-0)
@@ -212,9 +214,10 @@ Metagenomic DNA sequencing is a powerful tool to characterize microbial communit
 ---
 
 ## Bioinformatic Analysis to Investigate Metaproteome Composition Using Trans-Proteomic Pipeline.
- 22.07.2022, _S He, S Ranganathan_
+ 25.07.2022, _S He, S Ranganathan_
 
 
+_Computational Biology, Humans, Mouth Neoplasms, Proteome, Proteomics, Software_
 With evidence emerging that the microbiome has a role in the onset of many human diseases, including cancer, analyzing these microbial communities and their proteins (i.e., the metaproteome) has become a powerful research tool. The Trans-Proteomic Pipeline (TPP) is a free, comprehensive software suite that facilitates the analysis of mass spectrometry (MS) data. By utilizing available microbial proteomes, TPP can identify microbial proteins and species, with an acceptable peptide false-discovery rate (FDR). An application to a publicly available oral cancer dataset is presented as an example to identify the viral metaproteome on the oral cancer invasive tumor front. © 2022 The Authors. Current Protocols published by Wiley Periodicals LLC. Basic Protocol 1: Collection of data and resources Basic Protocol 2: Analysis of MS data using TPP Basic Protocol 3: Analysis of TPP output using R in RStudio.
 
 [Source](https://doi.org/10.1002/cpz1.506)
