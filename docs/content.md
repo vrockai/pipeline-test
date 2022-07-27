@@ -22,22 +22,15 @@ Type 1 diabetes (T1D) is an autoimmune disease characterized by the destruction 
 
 ---
 
-## Normal gut microbiome in NMDA receptor encephalitis.
- 01.10.2020, _J Herken, C Bang, MC Rühlemann, C Finke, J Klag, A Franke, H Prüss_
+## Gut microbiome changes in anti-N-methyl-D-aspartate receptor encephalitis patients.
+ 25.07.2022, _J Wei, X Zhang, F Yang, X Shi, X Wang, R Chen, F Du, M Shi, W Jiang_
 
 
-_Acute Disease, Adult, Anti-N-Methyl-D-Aspartate Receptor Encephalitis, Feces, Female, Gastrointestinal Microbiome, Humans, Male, Middle Aged_
-To determine whether the gut microbiota shows overabundance of commensal bacteria species in patients with anti-NMDA receptor (NMDAR) encephalitis, similar to patients with MS or neuromyelitis optica where they potentially balance pro- and anti-inflammatory immune responses or participate in disease pathogenesis by molecular mimicry.
-
-[Source](https://doi.org/10.1186/s12883-022-02804-0)
-
-10.1212/NXI.0000000000000632
-
----
-
-## Gut microbiome changes in anti-N-methyl-D-aspartate receptor encephalitis patients
+Anti-N-methyl-D-aspartate receptor (NMDAR) encephalitis is a type of autoimmune encephalitis. The underlying mechanism(s) remain largely unknown. Recent evidence has indicated that the gut microbiome may be involved in neurological immune diseases via the "gut-brain axis". This study aimed to explore the possible relationship between anti-NMDAR encephalitis and the gut microbiome.
 
 [Source](https://doi.org/10.1186/s12883-022-02804-0)
+
+10.1186/s12883-022-02804-0
 
 ---
 
