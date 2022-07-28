@@ -11,9 +11,10 @@ Faecal microbiota transplantation (FMT) has variable efficacy in treating UC. Re
 ---
 
 ## A gut microbial peptide and molecular mimicry in the pathogenesis of type 1 diabetes.
- 25.07.2022, _K Girdhar, Q Huang, IT Chow, T Vatanen, C Brady, A Raisingani, P Autissier, MA Atkinson, WW Kwok, CR Kahn, E Altindis_
+ 27.07.2022, _K Girdhar, Q Huang, IT Chow, T Vatanen, C Brady, A Raisingani, P Autissier, MA Atkinson, WW Kwok, CR Kahn, E Altindis_
 
 
+_Animals, Autoantibodies, CD8-Positive T-Lymphocytes, Child, Diabetes Mellitus, Type 1, Female, Gastrointestinal Microbiome, Humans, Insulin, Mice, Mice, Inbred NOD, Mice, SCID, Molecular Mimicry_
 Type 1 diabetes (T1D) is an autoimmune disease characterized by the destruction of pancreatic β-cells. One of the earliest aspects of this process is the development of autoantibodies and T cells directed at an epitope in the B-chain of insulin (insB:9-23). Analysis of microbial protein sequences with homology to the insB:9-23 sequence revealed 17 peptides showing &gt;50% identity to insB:9-23. Of these 17 peptides, the hprt4-18 peptide, found in the normal human gut commensal Parabacteroides distasonis, activated both human T cell clones from T1D patients and T cell hybridomas from nonobese diabetic (NOD) mice specific to insB:9-23. Immunization of NOD mice with P. distasonis insB:9-23 peptide mimic or insB:9-23 peptide verified immune cross-reactivity. Colonization of female NOD mice with P. distasonis accelerated the development of T1D, increasing macrophages, dendritic cells, and destructive CD8+ T cells, while decreasing FoxP3+ regulatory T cells. Western blot analysis identified P. distasonis-reacting antibodies in sera of NOD mice colonized with P. distasonis and human T1D patients. Furthermore, adoptive transfer of splenocytes from P. distasonis-treated mice to NOD/SCID mice enhanced disease phenotype in the recipients. Finally, analysis of human children gut microbiome data from a longitudinal DIABIMMUNE study revealed that seroconversion rates (i.e., the proportion of individuals developing two or more autoantibodies) were consistently higher in children whose microbiome harbored sequences capable of producing the hprt4-18 peptide compared to individuals who did not harbor it. Taken together, these data demonstrate the potential role of a gut microbiota-derived insB:9-23-mimic peptide as a molecular trigger of T1D pathogenesis.
 
 [Source](https://doi.org/10.1073/pnas.2120028119)
@@ -23,9 +24,10 @@ Type 1 diabetes (T1D) is an autoimmune disease characterized by the destruction 
 ---
 
 ## Gut microbiome changes in anti-N-methyl-D-aspartate receptor encephalitis patients.
- 25.07.2022, _J Wei, X Zhang, F Yang, X Shi, X Wang, R Chen, F Du, M Shi, W Jiang_
+ 27.07.2022, _J Wei, X Zhang, F Yang, X Shi, X Wang, R Chen, F Du, M Shi, W Jiang_
 
 
+_Anti-N-Methyl-D-Aspartate Receptor Encephalitis, Gastrointestinal Microbiome, Hashimoto Disease, Humans, RNA, Ribosomal, 16S_
 Anti-N-methyl-D-aspartate receptor (NMDAR) encephalitis is a type of autoimmune encephalitis. The underlying mechanism(s) remain largely unknown. Recent evidence has indicated that the gut microbiome may be involved in neurological immune diseases via the "gut-brain axis". This study aimed to explore the possible relationship between anti-NMDAR encephalitis and the gut microbiome.
 
 [Source](https://doi.org/10.1186/s12883-022-02804-0)
@@ -41,7 +43,7 @@ Anti-N-methyl-D-aspartate receptor (NMDAR) encephalitis is a type of autoimmune 
 ---
 
 ## Identification of Gut Microbiome Metabolites via Network Pharmacology Analysis in Treating Alcoholic Liver Disease.
- 26.07.2022, _KK Oh, YR Choi, H Gupta, R Ganesan, SP Sharma, SM Won, JJ Jeong, SB Lee, MG Cha, GH Kwon, DJ Kim, KT Suk_
+ 27.07.2022, _KK Oh, YR Choi, H Gupta, R Ganesan, SP Sharma, SM Won, JJ Jeong, SB Lee, MG Cha, GH Kwon, DJ Kim, KT Suk_
 
 
 Alcoholic liver disease (ALD) is linked to a broad spectrum of diseases, including diabetes, hypertension, atherosclerosis, and even liver carcinoma. The ALD spectrum includes alcoholic fatty liver disease (AFLD), alcoholic hepatitis, and cirrhosis. Most recently, some reports demonstrated that the pathogenesis of ALD is strongly associated with metabolites of human microbiota. AFLD was the onset of disease among ALDs, the initial cause of which is alcohol consumption. Thus, we analyzed the significant metabolites of microbiota against AFLD via the network pharmacology concept. The metabolites from microbiota were retrieved by the gutMGene database; sequentially, AFLD targets were identified by public databases (DisGeNET, OMIM). The final targets were utilized for protein-protein interaction (PPI) networks and signaling pathway analyses. Then, we performed a molecular docking test (MDT) to verify the affinity between metabolite(s) and target(s) utilizing the Autodock 1.5.6 tool. From a holistic viewpoint, we integrated the relationships of microbiota-signaling pathways-targets-metabolites (MSTM) using the R Package. We identified the uppermost six key targets (TLR4, RELA, IL6, PPARG, COX-2, and CYP1A2) against AFLD. The PPI network analysis revealed that TLR4, RELA, IL6, PPARG, and COX-2 had equivalent degrees of value (4); however, CYP1A2 had no associations with the other targets. The bubble chart showed that the PI3K-Akt signaling pathway in nine signaling pathways might be the most significant mechanism with antagonistic functions in the treatment of AFLD. The MDT confirmed that Icaritin is a promising agent to bind stably to RELA (known as NF-Κb). In parallel, Bacterium MRG-PMF-1, the PI3K-Akt signaling pathway, RELA, and Icaritin were the most significant components against AFLD in MSTM networks. In conclusion, we showed that the Icaritin-RELA complex on the PI3K-Akt signaling pathway by bacterial MRG-PMF-1 might have promising therapeutic effects against AFLD, providing crucial evidence for further research.
