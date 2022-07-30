@@ -1,70 +1,165 @@
-## Lichen Planopilaris: The first biopsy layer microbiota inspection.
- 22.07.2022, _D Pinto, FM Calabrese, M De Angelis, G Celano, G Giuliani, F Rinaldi_
+## Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake.
+ 28.07.2022, _ZC Holmes, MM Villa, HK Durand, S Jiang, EP Dallow, BL Petrone, JD Silverman, PH Lin, LA David_
 
 
-_Alopecia, Biopsy, Humans, Inflammation, Interleukin-23, Lichen Planus, Microbiota, RNA, Ribosomal, 16S_
-Lichen Planopilaris (LPP) is a lymphatic disease affecting the scalp that is characterized by a chronic and destructive inflammation process, named as 'cicatricial alopecia' in which the hair follicles are targeted and may involve predominantly lymphocytes or neutrophils. Scalp and biopsy layers have never been used to investigate microbial community composition and its relative taxa abundances in LPP. We sought to examine the significant taxa of this chronic relapsing inflammatory skin disease, together with inspect the existing connections with metabolic pathways featuring this microbial community. We used a multilevel analysis based on 16S rRNA marker sequencing in order to detect OTU abundances in pathologic/healthy samples, real time PCR for measuring the levels of IL-23 interleukin expression and urinary metabolomics to find out volatile organic metabolites (VOMs). By using a linear regression model, we described peculiar taxa that significantly differentiated LPP and healthy samples. We inspected taxa abundances and interleukin mRNA levels and the Microbacteriaceae family resulted negatively correlated with the IL-23 expression. Moreover, starting from 16S taxa abundances, we predicted the metabolic pathways featuring this microbial community. By inspecting microbial composition, sample richness, metabolomics profiles and the relative metabolic pathways in a cohort of LPP and healthy samples we deepened the contribution of significant taxa that are connected to inflammation maintenance and microbiota plasticity in LPP pathology.
+Short-chain fatty acids (SCFAs) derived from gut bacteria are associated with protective roles in diseases ranging from obesity to colorectal cancers. Intake of microbially accessible dietary fibers (prebiotics) lead to varying effects on SCFA production in human studies, and gut microbial responses to nutritional interventions vary by individual. It is therefore possible that prebiotic therapies will require customizing to individuals.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269933)
+[Source](https://doi.org/10.1186/s40168-022-01307-x)
 
-10.1371/journal.pone.0269933
-
----
-
-## Adaptation of the infant gut microbiome during the complementary feeding transition.
- 22.07.2022, _S McKeen, NC Roy, JA Mullaney, H Eriksen, A Lovell, M Kussman, W Young, K Fraser, CR Wall, WC McNabb_
-
-
-_Feces, Gastrointestinal Microbiome, Humans, Infant, Infant Nutritional Physiological Phenomena, Metagenome, Pilot Projects_
-The infant gut microbiome progresses in composition and function during the introduction of solid foods throughout the first year of life. The purpose of this study was to characterize changes in healthy infant gut microbiome composition, metagenomic functional capacity, and associated metabolites over the course of the complementary feeding period. Fecal samples were obtained at three 'snapshot' timepoints from infants participating in the 'Nourish to Flourish' pilot study: before the introduction of solid foods at approximately 4 months of age, after introducing solid foods at 9 months of age, and after continued diet diversification at 12 months of age. KEGG and taxonomy assignments were correlated with LC-MS metabolomic profiles to identify patterns of co-abundance. The composition of the microbiome diversified during the first year of life, while the functional capacity present in the gut microbiome remained stable. The introduction of solid foods between 4 and 9 months of age corresponded to a larger magnitude of change in relative abundance of sequences assigned to KEGG pathways and taxonomic assignments, as well as to stronger correlations with metabolites, compared to the magnitude of changes and number of correlations seen during continued diet diversification between 9 and 12 months of age. Changes in aqueous fecal metabolites were more strongly correlated with KEGG pathway assignments, while changes in lipid metabolites associated with taxonomic assignments, particularly between 9 and 12 months of age. This study establishes trends in microbiome composition and functional capacity occurring during the complementary feeding period and identifies potential metabolite targets for future investigations.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270213)
-
-10.1371/journal.pone.0270213
+10.1186/s40168-022-01307-x
 
 ---
 
-## Metagenomic insights into the microbe-mediated B and K2 vitamin biosynthesis in the gastrointestinal microbiome of ruminants.
- 25.07.2022, _Q Jiang, L Lin, F Xie, W Jin, W Zhu, M Wang, Q Qiu, Z Li, J Liu, S Mao_
+## Differential Gut Microbiota Compositions Related With the Severity of Major Depressive Disorder.
+ 29.07.2022, _Q Zhong, JJ Chen, Y Wang, WH Shao, CJ Zhou, P Xie_
 
 
-_Animals, Cattle, Gastrointestinal Microbiome, Metagenomics, Rumen, Ruminants, Vitamin B 12, Vitamins_
-B and K2 vitamins, essential nutrients in host metabolism, can be synthesized by the rumen microbiome in ruminants and subsequently absorbed by the host. However, the B and K2 vitamin biosynthesis by the whole gastrointestinal microbiome and their abundances in different dietary strategies are largely unknown. Here, we reanalyzed our previous large-scale metagenomic data on the gastrointestinal microbiome of seven ruminant species and recruited 17,425 nonredundant microbial genomes from published datasets to gain a comprehensive understanding of the microbe-mediated B and K2 vitamin biosynthesis in ruminants.
+_Bacteria, Depressive Disorder, Major, Gastrointestinal Microbiome, Humans_
+Increasing evidence shows a close relationship between gut microbiota and major depressive disorder (MDD), but the specific mechanisms remain unknown. This study was conducted to explore differential gut microbiota compositions related to the severity of MDD.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01298-9)
+[Source](https://doi.org/10.3389/fcimb.2022.907239)
 
-10.1186/s40168-022-01298-9
-
----
-
-## Comparative analysis of the gut microbiota of sand fly vectors of zoonotic visceral leishmaniasis (ZVL) in Iran; host-environment interplay shapes diversity.
- 29.07.2022, _F Karimian, M Koosha, N Choubdar, MA Oshaghi_
-
-
-The development of Leishmania parasites within sand fly vectors occurs entirely in the insect gut lumen, in the presence of symbiotic and commensal bacteria. The impacts of host species and environment on the gut microbiome are currently poorly understood. We employed MiSeq sequencing of the V3-16S rRNA gene amplicons to characterize and compare the gut microbiota of field-collected populations of Phlebotomus kandelakii, P. perfiliewi, P. alexandri, and P. major, the primary or secondary vectors of zoonotic visceral leishmaniasis (ZVL) in three distinct regions of Iran where ZVL is endemic. In total, 160,550 quality-filtered reads of the V3 region yielded a total of 72 operational taxonomic units (OTUs), belonging to 23 phyla, 47 classes, 91 orders, 131 families, and 335 genera. More than 50% of the bacteria identified were Proteobacteria, followed by Firmicutes (22%), Deinococcus-Thermus (9%), Actinobacteria (6%), and Bacteroidetes (5%). The core microbiome was dominated by eight genera: Acinetobacter, Streptococcus, Enterococcus, Staphylococcus, Bacillus, Propionibacterium, Kocuria, and Corynebacterium. Wolbachia were found in P. alexandri and P. perfiliewi, while Asaia sp. was reported in P. perfiliewi. Substantial variations in the gut bacterial composition were found between geographically distinct populations of the same sand fly species, as well as between different species at the same location, suggesting that sand fly gut microbiota is shaped by both the host species and geographical location. Phlebotomus kandelakii and P. perfiliewi in the northwest, and P. alexandri in the south, the major ZVL vectors, harbor the highest bacterial diversity, suggesting a possible relationship between microbiome diversity and the capacity for parasite transmission. In addition, large numbers of gram-positive human or animal pathogens were found, suggesting that sand fly vectors of ZVL could pose a potential additional threat to livestock and humans in the region studied. The presence of Bacillus subtilis, Enterobacter cloacae, and Asaia sp suggests that these bacteria could be promising candidates for a paratransgenesis approach to the fight against Leishmaniasis.
-
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010609)
-
-10.1371/journal.pntd.0010609
+10.3389/fcimb.2022.907239
 
 ---
 
-## Metagenomic analysis of the dynamical conversion of photosynthetic bacterial communities in different crop fields over different growth periods.
- 22.07.2022, _JE Cheng, P Su, ZH Zhang, LM Zheng, ZY Wang, MR Hamid, JP Dai, XH Du, LJ Chen, ZY Zhai, XT Kong, Y Liu, DY Zhang_
+## Phospholipid metabolites of the gut microbiota promote hypoxia-induced intestinal injury via CD1d-dependent γδ T cells.
+ 29.07.2022, _Y Li, Y Wang, F Shi, X Zhang, Y Zhang, K Bi, X Chen, L Li, H Diao_
 
 
-_Bacteria, Crops, Agricultural, High-Throughput Nucleotide Sequencing, Metagenome, Metagenomics, Microbiota, Soil Microbiology_
-Photosynthetic bacteria are beneficial to plants, but knowledge of photosynthetic bacterial community dynamics in field crops during different growth stages is scarce. The factors controlling the changes in the photosynthetic bacterial community during plant growth require further investigation. In this study, 35 microbial community samples were collected from the seedling, flowering, and mature stages of tomato, cucumber, and soybean plants. 35 microbial community samples were assessed using Illumina sequencing of the photosynthetic reaction center subunit M (pufM) gene. The results revealed significant alpha diversity and community structure differences among the three crops at the different growth stages. Proteobacteria was the dominant bacterial phylum, and Methylobacterium, Roseateles, and Thiorhodococcus were the dominant genera at all growth stages. PCoA revealed clear differences in the structure of the microbial populations isolated from leaf samples collected from different crops at different growth stages. In addition, a dissimilarity test revealed significant differences in the photosynthetic bacterial community among crops and growth stages (P&lt;0.05). The photosynthetic bacterial communities changed during crop growth. OTUs assigned to Methylobacterium were present in varying abundances among different sample types, which we speculated was related to the function of different Methylobacterium species in promoting plant growth development and enhancing plant photosynthetic efficiency. In conclusion, the dynamics observed in this study provide new research ideas for the detailed assessments of the relationship between photosynthetic bacteria and different growth stages of plants.
+_Animals, Gastrointestinal Microbiome, Hypoxia, Interleukin-17, Intestinal Diseases, Mice, Mice, Inbred C57BL, Phospholipids, Receptors, Antigen, T-Cell, gamma-delta, T-Lymphocytes_
+Gastrointestinal dysfunction is a common symptom of acute mountain sickness (AMS). The gut microbiota and γδ T cells play critical roles in intestinal disease. However, the mechanistic link between the microbiota and γδ T cells in hypoxia-induced intestinal injury remains unclear. Here, we show that hypoxia-induced intestinal damage was significantly alleviated after microbiota depletion with antibiotics. Hypoxia modulated gut microbiota composition by promoting antimicrobial peptides angiogenin-4 secretions. The abundance of Clostridium in the gut of mice after hypoxia significantly decreased, while the abundance of Desulfovibrio significantly increased. Furthermore, Desulfovibrio-derived phosphatidylethanolamine and phosphatidylcholine promoted γδ T cell activation. In CD1d-deficient mice, the levels of intraepithelial IL-17A and γδ T cells and intestinal damage were significantly decreased compared with those in wild-type mice under hypoxia. Mechanistically, phospholipid metabolites from Desulfovibrio are presented by intestinal epithelial CD1d to induce the proliferation of IL-17A-producing γδ T cells, which aggravates intestinal injury. Gut microbiota-derived metabolites promote hypoxia-induced intestinal injury via CD1d-dependent γδ T cells, suggesting that phospholipid metabolites and γδ T cells can be targets for AMS therapy.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262517)
+[Source](https://doi.org/10.1080/19490976.2022.2096994)
 
-10.1371/journal.pone.0262517
+10.1080/19490976.2022.2096994
 
 ---
 
-## A metagenomic investigation of spatial and temporal changes in sewage microbiomes across a university campus
+## Gut bacteria interact directly with colonic mast cells in a humanized mouse model of IBS
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.13.499996v1.abstract?%3Fcollection=)
+[Source](https://doi.org/10.1080/19490976.2022.2105095)
+
+---
+
+## Asthma and Wheeze Severity and the Oropharyngeal Microbiota in Children and Adolescents.
+ 29.07.2022, _J Thorsen, J Stokholm, MA Rasmussen, M Roggenbuck-Wedemeyer, NH Vissing, MS Mortensen, AD Brejnrod, L Fleming, A Bush, G Roberts, F Singer, U Frey, G Hedlin, B Nordlund, CS Murray, MI Abdel-Aziz, S Hashimoto, W van Aalderen, AH Maitland-van der Zee, D Shaw, SJ Fowler, A Sousa, PJ Sterk, KF Chung, IM Adcock, R Djukanovic, C Auffray, AT Bansal, S Wagers, B Chawes, K Bønnelykke, SJ Sørensen, H Bisgaard_
+
+
+There is a major unmet need for improving the care of children and adolescents with severe asthma and wheeze. Identification of factors contributing to disease severity may lead to improved diagnostics, biomarkers, or therapies. The airway microbiota may be such a key factor.
+
+[Source](https://doi.org/10.1513/AnnalsATS.202110-1152OC)
+
+10.1513/AnnalsATS.202110-1152OC
+
+---
+
+## Intradiol ring cleavage dioxygenases from herbivorous spider mites as a new detoxification enzyme family in animals.
+ 16.07.2022, _C Njiru, W Xue, S De Rouck, JM Alba, MR Kant, M Chruszcz, B Vanholme, W Dermauw, N Wybouw, T Van Leeuwen_
+
+
+_Animals, Dioxygenases, Herbivory, Lycopersicon esculentum, Phylogeny, Plants, Tetranychidae_
+Generalist herbivores such as the two-spotted spider mite Tetranychus urticae thrive on a wide variety of plants and can rapidly adapt to novel hosts. What traits enable polyphagous herbivores to cope with the diversity of secondary metabolites in their variable plant diet is unclear. Genome sequencing of T. urticae revealed the presence of 17 genes that code for secreted proteins with strong homology to "intradiol ring cleavage dioxygenases (DOGs)" from bacteria and fungi, and phylogenetic analyses show that they have been acquired by horizontal gene transfer from fungi. In bacteria and fungi, DOGs have been well characterized and cleave aromatic rings in catecholic compounds between adjacent hydroxyl groups. Such compounds are found in high amounts in solanaceous plants like tomato, where they protect against herbivory. To better understand the role of this gene family in spider mites, we used a multi-disciplinary approach to functionally characterize the various T. urticae DOG genes.
+
+[Source](https://doi.org/10.3389/fcimb.2022.964710)
+
+10.1186/s12915-022-01323-1
+
+---
+
+## Role of microbial secreted proteins in gut microbiota-host interactions
+
+[Source](https://doi.org/10.3389/fcimb.2022.964710)
+
+---
+
+## A Bibliometric Analysis of Research on the Links Between Gut Microbiota and Atherosclerosis.
+ 29.07.2022, _Y Wang, D Li, Z Jia, J Hui, Q Xin, Q Zhou, W Cong, F Xu_
+
+
+Emerging evidence has linked gut microbiota (GM) and its related metabolites to atherosclerosis (AS). This study aimed to analyze the evolution of GM in AS in the past decades, and provide valuable insights in this field.
+
+[Source](https://doi.org/10.3389/fcvm.2022.941607)
+
+10.3389/fcvm.2022.941607
+
+---
+
+## Microbiota-derived metabolites as drivers of gut-brain communication.
+ 29.07.2022, _H Ahmed, Q Leyrolle, V Koistinen, O Kärkkäinen, S Layé, N Delzenne, K Hanhineva_
+
+
+Alterations in the gut microbiota composition have been associated with a range of neurodevelopmental, neurodegenerative, and neuropsychiatric disorders. The gut microbes transform and metabolize dietary- and host-derived molecules generating a diverse group of metabolites with local and systemic effects. The bi-directional communication between brain and the microbes residing in the gut, the so-called gut-brain axis, consists of a network of immunological, neuronal, and endocrine signaling pathways. Although the full variety of mechanisms of the gut-brain crosstalk is yet to be established, the existing data demonstrates that a single metabolite or its derivatives are likely among the key inductors within the gut-brain axis communication. However, more research is needed to understand the molecular mechanisms underlying how gut microbiota associated metabolites alter brain functions, and to examine if different interventional approaches targeting the gut microbiota could be used in prevention and treatment of neurological disorders, as reviewed herein.Abbreviations:4-EPS 4-ethylphenylsulfate; 5-AVA(B) 5-aminovaleric acid (betaine); Aβ Amyloid beta protein; AhR Aryl hydrocarbon receptor; ASD Autism spectrum disorder; BBB Blood-brain barrier; BDNF Brain-derived neurotrophic factor; CNS Central nervous system; GABA ɣ-aminobutyric acid; GF Germ-free; MIA Maternal immune activation; SCFA Short-chain fatty acid; 3M-4-TMAB 3-methyl-4-(trimethylammonio)butanoate; 4-TMAP 4-(trimethylammonio)pentanoate; TMA(O) Trimethylamine(-N-oxide); TUDCA Tauroursodeoxycholic acid; ZO Zonula occludens proteins.
+
+[Source](https://doi.org/10.1080/19490976.2022.2102878)
+
+10.1080/19490976.2022.2102878
+
+---
+
+## Female reproductive dysfunctions and the gut microbiota.
+ 28.07.2022, _SB Chadchan, V Singh, R Kommagani_
+
+
+The gut microbiome is considered an endocrine organ that can influence distant organs and associated biological pathways. Recent advances suggest that gut microbial homeostasis is essential for reproductive health and that perturbations in the gut microbiota can lead to reproductive pathologies. This review provides an updated overview of the relationship between the gut microbiome and female reproductive diseases. Specifically, we highlight the most recent findings on the gut microbiome in gynecological pathologies including polycystic ovarian syndrome (PCOS), endometriosis, and endometrial cancer. Most studies revealed associations between altered gut microbial compositions and these reproductive diseases, though few have suggested cause-effect relationships. Future studies should focus on determining the molecular mechanisms underlying associations between gut microbiota and reproductive diseases. Understanding this bidirectional relationship could lead to the development of novel and effective strategies to prevent, diagnose and treat female reproductive organ-related diseases.
+
+[Source](https://doi.org/10.1530/JME-21-0238)
+
+10.1530/JME-21-0238
+
+---
+
+## A Bibliometric Review on Gut Microbiome and Alzheimer's Disease Between 2012 and 2021.
+ 29.07.2022, _AI Trejo-Castro, D Carrion-Alvarez, A Martinez-Torteya, C Rangel-Escareño_
+
+
+Research on the microbiome has drawn an increasing amount of attention over the past decade. Even more so for its association with disease. Neurodegenerative diseases, such as Alzheimer's disease (AD) have been a subject of study for a long time with slow success in improving diagnostic accuracy or identifying a possibility for treatment. In this work, we analyze past and current research on microbiome and its positive impact on AD treatment and diagnosis. We present a bibliometric analysis from 2012 to 2021 with data retrieved on September 2, 2021, from the Scopus database. The query includes "Gut AND (Microbiota OR Microbiome) AND Alzheimer*" within the article title, abstract, and keywords for all kinds of documents in the database. Compared with 2016, the number of publications (NPs) on the subject doubled by 2017. Moreover, we observe an exponential growth through 2020, and with the data presented, it is almost certain that it will continue this trend and grow even further in the upcoming years. We identify key journals interested in the subject and discuss the articles with most citations, analyzing trends and topics for future research, such as the ability to diagnose the disease and complement the cognitive test with other clinical biomarkers. According to the test, mild cognitive impairment (MCI) is normally considered an initial stage for AD. This test, combined with the role of the gut microbiome in early stages of the disease, may improve the diagnostic accuracy. Based on our findings, there is emerging evidence that microbiota, perhaps more specifically gut microbiota, plays a key role in the pathogenesis of diseases, such as AD.
+
+[Source](https://doi.org/10.3389/fnagi.2022.804177)
+
+10.3389/fnagi.2022.804177
+
+---
+
+## Disturbances of Vaginal Microbiome Composition in Human Papillomavirus Infection and Cervical Carcinogenesis: A Qualitative Systematic Review.
+ 29.07.2022, _M Wu, H Li, H Yu, Y Yan, C Wang, F Teng, A Fan, F Xue_
+
+
+Emerging evidence has demonstrated a close association between perturbations in vaginal microbiota composition in women and human papillomavirus (HPV) infection, cervical lesions, and cervical cancer (Ca); however, these findings are highly heterogeneous and inconclusive.
+
+[Source](https://doi.org/10.3389/fonc.2022.941741)
+
+10.3389/fonc.2022.941741
+
+---
+
+## Bacterial-fungal metabolic interactions within the microbiota and their potential relevance in human health and disease: a short review
+
+[Source](https://doi.org/10.1080/19490976.2022.2105610)
+
+---
+
+## Intestinal Inflammation Reversibly Alters the Microbiota to Drive Susceptibility to <em>Clostridioides difficile</em> Colonization in a Mouse Model of Colitis
+
+[Source](https://doi.org/10.1128/mbio.01904-22)
+
+---
+
+## Comparative and functional analyses of fecal microbiome in Asian elephants
+
+[Source](https://doi.org/10.1007/s10482-022-01757-1)
+
+---
+
+## Tourmaline: A containerized workflow for rapid and iterable amplicon sequence analysis using QIIME 2 and Snakemake.
+ 28.07.2022, _LR Thompson, SR Anderson, PA Den Uyl, NV Patin, SJ Lim, G Sanderson, KD Goodwin_
+
+
+Amplicon sequencing (metabarcoding) is a common method to survey diversity of environmental communities whereby a single genetic locus is amplified and sequenced from the DNA of whole or partial organisms, organismal traces (e.g., skin, mucus, feces), or microbes in an environmental sample. Several software packages exist for analyzing amplicon data, among which QIIME 2 has emerged as a popular option because of its broad functionality, plugin architecture, provenance tracking, and interactive visualizations. However, each new analysis requires the user to keep track of input and output file names, parameters, and commands; this lack of automation and standardization is inefficient and creates barriers to meta-analysis and sharing of results.
+
+[Source](https://doi.org/10.1093/gigascience/giac066)
+
+10.1093/gigascience/giac066
 
 ---
 
