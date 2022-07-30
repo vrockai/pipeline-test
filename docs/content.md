@@ -37,9 +37,15 @@ B and K2 vitamins, essential nutrients in host metabolism, can be synthesized by
 
 ---
 
-## Comparative analysis of the gut microbiota of sand fly vectors of zoonotic visceral leishmaniasis (ZVL) in Iran; host-environment interplay shapes diversity
+## Comparative analysis of the gut microbiota of sand fly vectors of zoonotic visceral leishmaniasis (ZVL) in Iran; host-environment interplay shapes diversity.
+ 29.07.2022, _F Karimian, M Koosha, N Choubdar, MA Oshaghi_
+
+
+The development of Leishmania parasites within sand fly vectors occurs entirely in the insect gut lumen, in the presence of symbiotic and commensal bacteria. The impacts of host species and environment on the gut microbiome are currently poorly understood. We employed MiSeq sequencing of the V3-16S rRNA gene amplicons to characterize and compare the gut microbiota of field-collected populations of Phlebotomus kandelakii, P. perfiliewi, P. alexandri, and P. major, the primary or secondary vectors of zoonotic visceral leishmaniasis (ZVL) in three distinct regions of Iran where ZVL is endemic. In total, 160,550 quality-filtered reads of the V3 region yielded a total of 72 operational taxonomic units (OTUs), belonging to 23 phyla, 47 classes, 91 orders, 131 families, and 335 genera. More than 50% of the bacteria identified were Proteobacteria, followed by Firmicutes (22%), Deinococcus-Thermus (9%), Actinobacteria (6%), and Bacteroidetes (5%). The core microbiome was dominated by eight genera: Acinetobacter, Streptococcus, Enterococcus, Staphylococcus, Bacillus, Propionibacterium, Kocuria, and Corynebacterium. Wolbachia were found in P. alexandri and P. perfiliewi, while Asaia sp. was reported in P. perfiliewi. Substantial variations in the gut bacterial composition were found between geographically distinct populations of the same sand fly species, as well as between different species at the same location, suggesting that sand fly gut microbiota is shaped by both the host species and geographical location. Phlebotomus kandelakii and P. perfiliewi in the northwest, and P. alexandri in the south, the major ZVL vectors, harbor the highest bacterial diversity, suggesting a possible relationship between microbiome diversity and the capacity for parasite transmission. In addition, large numbers of gram-positive human or animal pathogens were found, suggesting that sand fly vectors of ZVL could pose a potential additional threat to livestock and humans in the region studied. The presence of Bacillus subtilis, Enterobacter cloacae, and Asaia sp suggests that these bacteria could be promising candidates for a paratransgenesis approach to the fight against Leishmaniasis.
 
 [Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010609)
+
+10.1371/journal.pntd.0010609
 
 ---
 
