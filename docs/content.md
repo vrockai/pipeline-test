@@ -145,9 +145,15 @@ Emerging evidence has demonstrated a close association between perturbations in 
 
 ---
 
-## Comparative and functional analyses of fecal microbiome in Asian elephants
+## Comparative and functional analyses of fecal microbiome in Asian elephants.
+ 28.07.2022, _G Li, Y Jiang, Q Li, D An, M Bao, L Lang, L Han, X Huang, C Jiang_
+
+
+Asian elephant is large herbivorous animal with elongated hindgut. To explore fecal microbial community composition with various ages, sex and diets, and their role in plant biomass degrading and nutrition conversation. We generated 119 Gb by metagenome sequencing from 10 different individual feces and identified 5.3 million non-redundant genes. The comprehensive analysis established that the Bacteroidetes, Firmicutes and Proteobacteria constituted the most dominant phyla in overall fecal samples. In different individuals, the alpha diversity of the fecal microbiota in female was lower than male, and the alpha diversity of the fecal microbiota in older was higher than younger, and the fecal microbial diversity was the most complex in wild elephant. But the predominant population compositions were similar to each other. Moreover, the newborn infant elephant feces assembled and maintained a diverse but host-specific fecal microbial population. The discovery speculated that Asian elephant maybe have start to building microbial populations before birth. Meanwhile, these results illustrated that host phylogeny, diets, ages and sex are significant factors for fecal microbial community composition. Therefore, we put forward the process of Asian elephant fecal microbial community composition that the dominant populations were built first under the guidance of phylogeny, and then shaped gradually a unique and flexible gut microbial community structure under the influences of diet, age and sex. This study found also that the Bacteroidetes were presumably the main drivers of plant fiber-degradation. A large of secondary metabolite biosynthetic gene clusters, and genes related to enediyne biosynthesis were found and showed that the Asian elephant fecal microbiome harbored a diverse and abundant genetic resource. A picture of antibiotic resistance genes (ARGs) reservoirs of fecal microbiota in Asian elephants was provided. Surprisingly, there was such wide range of ARGs in newborn infant elephant. Further strengthening our speculation that the fetus of Asian elephant has colonized prototypical fecal microbiota before birth. However, it is necessary to point out that the data give a first inside into the gut microbiota of Asian elephants but too few individuals were studied to draw general conclusions for differences among wild and captured elephants, female and male or different ages. Further studies are required. Additionally, the cultured actinomycetes from Asian elephant feces also were investigated, which the feces of Asian elephants could be an important source of actinomycetes.
 
 [Source](https://doi.org/10.1007/s10482-022-01757-1)
+
+10.1007/s10482-022-01757-1
 
 ---
 
