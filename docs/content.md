@@ -151,15 +151,9 @@ Emerging evidence has demonstrated a close association between perturbations in 
 
 ---
 
-## Tourmaline: A containerized workflow for rapid and iterable amplicon sequence analysis using QIIME 2 and Snakemake.
- 31.07.2022, _LR Thompson, SR Anderson, PA Den Uyl, NV Patin, SJ Lim, G Sanderson, KD Goodwin_
-
-
-Amplicon sequencing (metabarcoding) is a common method to survey diversity of environmental communities whereby a single genetic locus is amplified and sequenced from the DNA of whole or partial organisms, organismal traces (e.g., skin, mucus, feces), or microbes in an environmental sample. Several software packages exist for analyzing amplicon data, among which QIIME 2 has emerged as a popular option because of its broad functionality, plugin architecture, provenance tracking, and interactive visualizations. However, each new analysis requires the user to keep track of input and output file names, parameters, and commands; this lack of automation and standardization is inefficient and creates barriers to meta-analysis and sharing of results.
+## Tourmaline: A containerized workflow for rapid and iterable amplicon sequence analysis using QIIME 2 and Snakemake
 
 [Source](https://doi.org/10.1093/gigascience/giac066)
-
-10.1093/gigascience/giac066
 
 ---
 
