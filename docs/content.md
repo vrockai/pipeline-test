@@ -24,7 +24,7 @@ Increasing evidence shows a close relationship between gut microbiota and major 
 ---
 
 ## Phospholipid metabolites of the gut microbiota promote hypoxia-induced intestinal injury via CD1d-dependent γδ T cells.
- 29.07.2022, _Y Li, Y Wang, F Shi, X Zhang, Y Zhang, K Bi, X Chen, L Li, H Diao_
+ 31.07.2022, _Y Li, Y Wang, F Shi, X Zhang, Y Zhang, K Bi, X Chen, L Li, H Diao_
 
 
 _Animals, Gastrointestinal Microbiome, Hypoxia, Interleukin-17, Intestinal Diseases, Mice, Mice, Inbred C57BL, Phospholipids, Receptors, Antigen, T-Cell, gamma-delta, T-Lymphocytes_
@@ -74,7 +74,7 @@ Generalist herbivores such as the two-spotted spider mite Tetranychus urticae th
 ---
 
 ## A Bibliometric Analysis of Research on the Links Between Gut Microbiota and Atherosclerosis.
- 29.07.2022, _Y Wang, D Li, Z Jia, J Hui, Q Xin, Q Zhou, W Cong, F Xu_
+ 31.07.2022, _Y Wang, D Li, Z Jia, J Hui, Q Xin, Q Zhou, W Cong, F Xu_
 
 
 Emerging evidence has linked gut microbiota (GM) and its related metabolites to atherosclerosis (AS). This study aimed to analyze the evolution of GM in AS in the past decades, and provide valuable insights in this field.
@@ -122,7 +122,7 @@ Research on the microbiome has drawn an increasing amount of attention over the 
 ---
 
 ## Disturbances of Vaginal Microbiome Composition in Human Papillomavirus Infection and Cervical Carcinogenesis: A Qualitative Systematic Review.
- 29.07.2022, _M Wu, H Li, H Yu, Y Yan, C Wang, F Teng, A Fan, F Xue_
+ 31.07.2022, _M Wu, H Li, H Yu, Y Yan, C Wang, F Teng, A Fan, F Xue_
 
 
 Emerging evidence has demonstrated a close association between perturbations in vaginal microbiota composition in women and human papillomavirus (HPV) infection, cervical lesions, and cervical cancer (Ca); however, these findings are highly heterogeneous and inconclusive.
@@ -145,27 +145,15 @@ Emerging evidence has demonstrated a close association between perturbations in 
 
 ---
 
-## Comparative and functional analyses of fecal microbiome in Asian elephants.
- 28.07.2022, _G Li, Y Jiang, Q Li, D An, M Bao, L Lang, L Han, X Huang, C Jiang_
-
-
-Asian elephant is large herbivorous animal with elongated hindgut. To explore fecal microbial community composition with various ages, sex and diets, and their role in plant biomass degrading and nutrition conversation. We generated 119 Gb by metagenome sequencing from 10 different individual feces and identified 5.3 million non-redundant genes. The comprehensive analysis established that the Bacteroidetes, Firmicutes and Proteobacteria constituted the most dominant phyla in overall fecal samples. In different individuals, the alpha diversity of the fecal microbiota in female was lower than male, and the alpha diversity of the fecal microbiota in older was higher than younger, and the fecal microbial diversity was the most complex in wild elephant. But the predominant population compositions were similar to each other. Moreover, the newborn infant elephant feces assembled and maintained a diverse but host-specific fecal microbial population. The discovery speculated that Asian elephant maybe have start to building microbial populations before birth. Meanwhile, these results illustrated that host phylogeny, diets, ages and sex are significant factors for fecal microbial community composition. Therefore, we put forward the process of Asian elephant fecal microbial community composition that the dominant populations were built first under the guidance of phylogeny, and then shaped gradually a unique and flexible gut microbial community structure under the influences of diet, age and sex. This study found also that the Bacteroidetes were presumably the main drivers of plant fiber-degradation. A large of secondary metabolite biosynthetic gene clusters, and genes related to enediyne biosynthesis were found and showed that the Asian elephant fecal microbiome harbored a diverse and abundant genetic resource. A picture of antibiotic resistance genes (ARGs) reservoirs of fecal microbiota in Asian elephants was provided. Surprisingly, there was such wide range of ARGs in newborn infant elephant. Further strengthening our speculation that the fetus of Asian elephant has colonized prototypical fecal microbiota before birth. However, it is necessary to point out that the data give a first inside into the gut microbiota of Asian elephants but too few individuals were studied to draw general conclusions for differences among wild and captured elephants, female and male or different ages. Further studies are required. Additionally, the cultured actinomycetes from Asian elephant feces also were investigated, which the feces of Asian elephants could be an important source of actinomycetes.
+## Comparative and functional analyses of fecal microbiome in Asian elephants
 
 [Source](https://doi.org/10.1007/s10482-022-01757-1)
 
-10.1007/s10482-022-01757-1
-
 ---
 
-## Tourmaline: A containerized workflow for rapid and iterable amplicon sequence analysis using QIIME 2 and Snakemake.
- 28.07.2022, _LR Thompson, SR Anderson, PA Den Uyl, NV Patin, SJ Lim, G Sanderson, KD Goodwin_
-
-
-Amplicon sequencing (metabarcoding) is a common method to survey diversity of environmental communities whereby a single genetic locus is amplified and sequenced from the DNA of whole or partial organisms, organismal traces (e.g., skin, mucus, feces), or microbes in an environmental sample. Several software packages exist for analyzing amplicon data, among which QIIME 2 has emerged as a popular option because of its broad functionality, plugin architecture, provenance tracking, and interactive visualizations. However, each new analysis requires the user to keep track of input and output file names, parameters, and commands; this lack of automation and standardization is inefficient and creates barriers to meta-analysis and sharing of results.
+## Tourmaline: A containerized workflow for rapid and iterable amplicon sequence analysis using QIIME 2 and Snakemake
 
 [Source](https://doi.org/10.1093/gigascience/giac066)
-
-10.1093/gigascience/giac066
 
 ---
 
