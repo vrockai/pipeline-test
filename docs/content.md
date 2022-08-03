@@ -1,8 +1,8 @@
 ## Microbiota responses to different prebiotics are conserved within individuals and associated with habitual fiber intake.
- 01.08.2022, _ZC Holmes, MM Villa, HK Durand, S Jiang, EP Dallow, BL Petrone, JD Silverman, PH Lin, LA David_
+ 02.08.2022, _ZC Holmes, MM Villa, HK Durand, S Jiang, EP Dallow, BL Petrone, JD Silverman, PH Lin, LA David_
 
 
-_Adult, Cross-Over Studies, Dietary Fiber, Fatty Acids, Volatile, Feces, Gastrointestinal Microbiome, Humans, Microbiota, Prebiotics_
+_Adult, Cross-Over Studies, Dietary Fiber, Fatty Acids, Volatile, Feces, Gastrointestinal Microbiome, Humans, Prebiotics_
 Short-chain fatty acids (SCFAs) derived from gut bacteria are associated with protective roles in diseases ranging from obesity to colorectal cancers. Intake of microbially accessible dietary fibers (prebiotics) lead to varying effects on SCFA production in human studies, and gut microbial responses to nutritional interventions vary by individual. It is therefore possible that prebiotic therapies will require customizing to individuals.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01307-x)
