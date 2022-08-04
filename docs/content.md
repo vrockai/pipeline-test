@@ -64,9 +64,15 @@ Mice are frequently used as animal models for mechanistic studies of infection a
 
 ---
 
-## Viral biogeography of the mammalian gut and parenchymal organs
+## Viral biogeography of the mammalian gut and parenchymal organs.
+ 02.08.2022, _AN Shkoporov, SR Stockdale, A Lavelle, I Kondova, C Heuston, A Upadrasta, EV Khokhlova, I van der Kamp, B Ouwerling, LA Draper, JAM Langermans, R Paul Ross, C Hill_
+
+
+The mammalian virome has been linked to health and disease but our understanding of how it is structured along the longitudinal axis of the mammalian gastrointestinal tract (GIT) and other organs is limited. Here, we report a metagenomic analysis of the prokaryotic and eukaryotic virome occupying luminal and mucosa-associated habitats along the GIT, as well as parenchymal organs (liver, lung and spleen), in two representative mammalian species, the domestic pig and rhesus macaque (six animals per species). Luminal samples from the large intestine of both mammals harboured the highest loads and diversity of bacteriophages (class Caudoviricetes, family Microviridae and others). Mucosal samples contained much lower viral loads but a higher proportion of eukaryotic viruses (families Astroviridae, Caliciviridae, Parvoviridae). Parenchymal organs contained bacteriophages of gut origin, in addition to some eukaryotic viruses. Overall, GIT virome composition was specific to anatomical region and host species. Upper GIT and mucosa-specific viruses were greatly under-represented in distal colon samples (a proxy for faeces). Nonetheless, certain viral and phage species were ubiquitous in all samples from the oral cavity to the distal colon. The dataset and its accompanying methodology may provide an important resource for future work investigating the biogeography of the mammalian gut virome.
 
 [Source](https://www.nature.com/articles/s41564-022-01178-w)
+
+10.1038/s41564-022-01178-w
 
 ---
 
