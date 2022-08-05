@@ -4,9 +4,15 @@
 
 ---
 
-## Smokeless tobacco consumption induces dysbiosis of oral mycobiome: a pilot study
+## Smokeless tobacco consumption induces dysbiosis of oral mycobiome: a pilot study.
+ 01.08.2022, _M Sajid, P Sharma, S Srivastava, R Hariprasad, H Singh, M Bharadwaj_
+
+
+Smokeless tobacco (SLT) alters the oral microbiome of smokeless tobacco users. Dysbiosis of oral bacteriome has been determined; however, the mycobiome of SLT users has not been characterized. The oral mycobiome was assayed by amplification and sequencing of the fungal internal transcribed spacer (ITS1) region from oral swab samples of non-SLT users, SLT users (with or without oral lesions), and SLT with alcohol users. We observed that the richness and diversity of oral mycobiome were significantly decreased in SLT with oral lesions users than in non-users. The β-diversity analysis showed significant dissimilarity of oral mycobiome between non-users and SLT with oral lesions users. Linear discriminant analysis effect size and random forest analysis of oral mycobiome affirm that the genus Pichia was typical for SLT with oral lesions users. Prevalence of the fungal genus Pichia correlates positively with Starmerella, Mortierella, Fusarium, Calonectria, and Madurella, but is negatively correlated with Pyrenochaeta, Botryosporium, and Alternaria. Further, the determination of oral mycobiome functionality showed a high abundance of pathotroph-saprotroph-symbiotroph and animal pathogen-endophyte-epiphyte-undefined saprotroph at trophic and guild levels, respectively, indicating possibly major changes in normal growth repression of types of fungi. The oral mycobiome in SLT users was identified and comprehensively analyzed for the first time. SLT intake is associated with oral mycobiome dysbiosis and such alterations of the oral mycobiome may contribute to oral carcinogenesis in SLT users. This study will provide a basis for further large-scale investigations on the potential role of the mycobiome in SLT-induced oral cancer. KEY POINTS: • SLT induces dysbiosis of the oral microbiome that can contribute to oral cancer. • Oral mycobiome diversity is noticeably reduced in SLT users having oral lesions. • Occurrence of Pichia can be used as a biomarker for SLT users having oral lesions.
 
 [Source](https://link.springer.com/article/10.1007/s00253-022-12096-6)
+
+10.1007/s00253-022-12096-6
 
 ---
 
@@ -36,7 +42,7 @@ Probiotics have been used for decades to alleviate the negative side-effects of 
 ---
 
 ## Emerging frontiers of antibiotics use and their impacts on the human gut microbiome.
- 03.08.2022, _R Kumari, Y Yadav, R Misra, U Das, U Das Adhikari, P Malakar, GP Dubey_
+ 05.08.2022, _R Kumari, Y Yadav, R Misra, U Das, U Das Adhikari, P Malakar, GP Dubey_
 
 
 Antibiotics, the primary drugs used to cure bacterial diseases, are increasingly becoming ineffective due to the emergence of multiple drug resistance (MDR) leading to recurrence of previously sensitive pathogens. Human gut microbiome (GM), known to play an important role in various physiological processes, consists of pool of diverse microbes. Indiscriminate use of antibiotics during the life span of an individual may lead to development of resistant microbes e.g. Vibrio, Acinetobacter, Escherichia, Klebsiella, Clostridia, etc. in the human GM. Transmission of antibiotic resistant genes (ARGs) between pathogenic and commensal bacteria occurs more frequently in microbiome communities wherein bacteria communicate and exchange cellular constituents both among themselves and with the host. Additionally, co-factors like 'early vs. late' exposure, type of antibiotics and duration of treatment modulate the adverse effects of antibiotics on GM maturation. Furthermore, factors like mode of birth, ethnicity, malnutrition, demography, diet, lifestyle, etc., which influence GM composition, can also indirectly alter the host response to antibiotics. Currently, advanced 'omics' and culturomics approaches are revealing novel avenues to study the interplay between antibiotics and the microbiome and to identify resistant genes in these bacterial communities. Here, we discuss the recent developments that have given insights into the effects of antibiotics on the homeostatic balance of the gut microbiome and thus on human health.
@@ -60,7 +66,7 @@ Mice are frequently used as animal models for mechanistic studies of infection a
 ---
 
 ## Viral biogeography of the mammalian gut and parenchymal organs.
- 02.08.2022, _AN Shkoporov, SR Stockdale, A Lavelle, I Kondova, C Heuston, A Upadrasta, EV Khokhlova, I van der Kamp, B Ouwerling, LA Draper, JAM Langermans, R Paul Ross, C Hill_
+ 04.08.2022, _AN Shkoporov, SR Stockdale, A Lavelle, I Kondova, C Heuston, A Upadrasta, EV Khokhlova, I van der Kamp, B Ouwerling, LA Draper, JAM Langermans, R Paul Ross, C Hill_
 
 
 The mammalian virome has been linked to health and disease but our understanding of how it is structured along the longitudinal axis of the mammalian gastrointestinal tract (GIT) and other organs is limited. Here, we report a metagenomic analysis of the prokaryotic and eukaryotic virome occupying luminal and mucosa-associated habitats along the GIT, as well as parenchymal organs (liver, lung and spleen), in two representative mammalian species, the domestic pig and rhesus macaque (six animals per species). Luminal samples from the large intestine of both mammals harboured the highest loads and diversity of bacteriophages (class Caudoviricetes, family Microviridae and others). Mucosal samples contained much lower viral loads but a higher proportion of eukaryotic viruses (families Astroviridae, Caliciviridae, Parvoviridae). Parenchymal organs contained bacteriophages of gut origin, in addition to some eukaryotic viruses. Overall, GIT virome composition was specific to anatomical region and host species. Upper GIT and mucosa-specific viruses were greatly under-represented in distal colon samples (a proxy for faeces). Nonetheless, certain viral and phage species were ubiquitous in all samples from the oral cavity to the distal colon. The dataset and its accompanying methodology may provide an important resource for future work investigating the biogeography of the mammalian gut virome.
