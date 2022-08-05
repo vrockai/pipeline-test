@@ -4,15 +4,9 @@
 
 ---
 
-## Smokeless tobacco consumption induces dysbiosis of oral mycobiome: a pilot study.
- 01.08.2022, _M Sajid, P Sharma, S Srivastava, R Hariprasad, H Singh, M Bharadwaj_
-
-
-Smokeless tobacco (SLT) alters the oral microbiome of smokeless tobacco users. Dysbiosis of oral bacteriome has been determined; however, the mycobiome of SLT users has not been characterized. The oral mycobiome was assayed by amplification and sequencing of the fungal internal transcribed spacer (ITS1) region from oral swab samples of non-SLT users, SLT users (with or without oral lesions), and SLT with alcohol users. We observed that the richness and diversity of oral mycobiome were significantly decreased in SLT with oral lesions users than in non-users. The β-diversity analysis showed significant dissimilarity of oral mycobiome between non-users and SLT with oral lesions users. Linear discriminant analysis effect size and random forest analysis of oral mycobiome affirm that the genus Pichia was typical for SLT with oral lesions users. Prevalence of the fungal genus Pichia correlates positively with Starmerella, Mortierella, Fusarium, Calonectria, and Madurella, but is negatively correlated with Pyrenochaeta, Botryosporium, and Alternaria. Further, the determination of oral mycobiome functionality showed a high abundance of pathotroph-saprotroph-symbiotroph and animal pathogen-endophyte-epiphyte-undefined saprotroph at trophic and guild levels, respectively, indicating possibly major changes in normal growth repression of types of fungi. The oral mycobiome in SLT users was identified and comprehensively analyzed for the first time. SLT intake is associated with oral mycobiome dysbiosis and such alterations of the oral mycobiome may contribute to oral carcinogenesis in SLT users. This study will provide a basis for further large-scale investigations on the potential role of the mycobiome in SLT-induced oral cancer. KEY POINTS: • SLT induces dysbiosis of the oral microbiome that can contribute to oral cancer. • Oral mycobiome diversity is noticeably reduced in SLT users having oral lesions. • Occurrence of Pichia can be used as a biomarker for SLT users having oral lesions.
+## Smokeless tobacco consumption induces dysbiosis of oral mycobiome: a pilot study
 
 [Source](https://link.springer.com/article/10.1007/s00253-022-12096-6)
-
-10.1007/s00253-022-12096-6
 
 ---
 
@@ -29,9 +23,10 @@ Bacterial extracellular vesicles (BEVs) released from both Gram-negative and Gra
 ---
 
 ## Improved gut microbiome recovery following drug therapy is linked to abundance and replication of probiotic strains.
- 03.08.2022, _J FitzGerald, S Patel, J Eckenberger, E Guillemard, P Veiga, F Schäfer, J Walter, MJ Claesson, M Derrien_
+ 04.08.2022, _J FitzGerald, S Patel, J Eckenberger, E Guillemard, P Veiga, F Schäfer, J Walter, MJ Claesson, M Derrien_
 
 
+_Anti-Bacterial Agents, Cultured Milk Products, Feces, Gastrointestinal Microbiome, Humans, Probiotics_
 Probiotics have been used for decades to alleviate the negative side-effects of oral antibiotics, but our mechanistic understanding on how they work is so far incomplete. Here, we performed a metagenomic analysis of the fecal microbiota in participants who underwent a 14-d Helicobacter pylori eradication therapy with or without consumption of a multi-strain probiotic intervention (L. paracasei CNCM I-1518, L. paracasei CNCM I-3689, L. rhamnosus CNCM I-3690, and four yogurt strains) in a randomized, double-blinded, controlled clinical trial. Using a strain-level analysis for detection and metagenomic determination of replication rate, ingested strains were detected and replicated transiently in fecal samples and in the gut during and following antibiotic administration. Consumption of the fermented milk product led to a significant, although modest, improvement in the recovery of microbiota composition. Stratification of participants into two groups based on the degree to which their microbiome recovered showed i) a higher fecal abundance of the probiotic L. paracasei and L. rhamnosus strains and ii) an elevated replication rate of one strain (L. paracasei CNCMI-1518) in the recovery group. Collectively, our findings show a small but measurable benefit of a fermented milk product on microbiome recovery after antibiotics, which was linked to the detection and replication of specific probiotic strains. Such functional insight can form the basis for the development of probiotic-based intervention aimed to protect gut microbiome from drug treatments.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2094664)
@@ -77,9 +72,10 @@ The mammalian virome has been linked to health and disease but our understanding
 ---
 
 ## Namco: a microbiome explorer.
- 03.08.2022, _A Dietrich, MS Matchado, M Zwiebel, B Ölke, M Lauber, I Lagkouvardos, J Baumbach, D Haller, B Brandl, T Skurk, H Hauner, S Reitmeier, M List_
+ 04.08.2022, _A Dietrich, MS Matchado, M Zwiebel, B Ölke, M Lauber, I Lagkouvardos, J Baumbach, D Haller, B Brandl, T Skurk, H Hauner, S Reitmeier, M List_
 
 
+_Bacteria, Gastrointestinal Microbiome, Microbiota, Phylogeny, RNA, Ribosomal, 16S_
 16S rRNA gene profiling is currently the most widely used technique in microbiome research and allows the study of microbial diversity, taxonomic profiling, phylogenetics, functional and network analysis. While a plethora of tools have been developed for the analysis of 16S rRNA gene data, only a few platforms offer a user-friendly interface and none comprehensively covers the whole analysis pipeline from raw data processing down to complex analysis. We introduce Namco, an R shiny application that offers a streamlined interface and serves as a one-stop solution for microbiome analysis. We demonstrate Namco's capabilities by studying the association between a rich fibre diet and the gut microbiota composition. Namco helped to prove the hypothesis that butyrate-producing bacteria are prompted by fibre-enriched intervention. Namco provides a broad range of features from raw data processing and basic statistics down to machine learning and network analysis, thus covering complex data analysis tasks that are not comprehensively covered elsewhere. Namco is freely available at https://exbio.wzw.tum.de/namco/.
 
 [Source](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000852)
