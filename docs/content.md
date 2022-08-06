@@ -1,7 +1,8 @@
 ## Measuring quality of DNA sequence data via degradation.
- 04.08.2022, _AF Karr, J Hauzel, AA Porter, M Schaefer_
+ 05.08.2022, _AF Karr, J Hauzel, AA Porter, M Schaefer_
 
 
+_Base Sequence, Databases, Factual, Genome_
 We formulate and apply a novel paradigm for characterization of genome data quality, which quantifies the effects of intentional degradation of quality. The rationale is that the higher the initial quality, the more fragile the genome and the greater the effects of degradation. We demonstrate that this phenomenon is ubiquitous, and that quantified measures of degradation can be used for multiple purposes, illustrated by outlier detection. We focus on identifying outliers that may be problematic with respect to data quality, but might also be true anomalies or even attempts to subvert the database.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271970)
