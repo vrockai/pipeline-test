@@ -16,27 +16,15 @@ Previous studies suggested associations between the oral microbiome and lung can
 
 ---
 
-## Crosstalk between mucosal microbiota, host gene expression, and sociomedical factors in the progression of colorectal cancer.
- 04.08.2022, _N Kim, JA Gim, BJ Lee, BI Choi, HS Yoon, SH Kim, MK Joo, JJ Park, C Kim_
-
-
-Various omics-based biomarkers related to the occurrence, progression, and prognosis of colorectal cancer (CRC) have been identified. In this study, we attempted to identify gut microbiome-based biomarkers and detect their association with host gene expression in the initiation and progression of CRC by integrating analysis of the gut mucosal metagenome, RNA sequencing, and sociomedical factors. We performed metagenome and RNA sequencing on colonic mucosa samples from 13 patients with advanced CRC (ACRC), 10 patients with high-risk adenoma (HRA), and 7 normal control (NC) individuals. All participants completed a questionnaire on sociomedical factors. The interaction and correlation between changes in the microbiome and gene expression were assessed using bioinformatic analysis. When comparing HRA and NC samples, which can be considered to represent the process of tumor initiation, 28 genes and five microbiome species were analyzed with correlation plots. When comparing ACRC and HRA samples, which can be considered to represent the progression of CRC, seven bacterial species and 21 genes were analyzed. When comparing ACRC and NC samples, 16 genes and five bacterial species were analyzed, and four correlation plots were generated. A network visualizing the relationship between bacterial and host gene expression in the initiation and progression of CRC indicated that Clostridium spiroforme and Tyzzerella nexilis were hub bacteria in the development and progression of CRC. Our study revealed the interactions of and correlation between the colonic mucosal microbiome and host gene expression to identify potential roles of the microbiome in the initiation and progression of CRC. Our results provide gut microbiome-based biomarkers that may be potential diagnostic markers and therapeutic targets in patients with CRC.
+## Crosstalk between mucosal microbiota, host gene expression, and sociomedical factors in the progression of colorectal cancer
 
 [Source](https://doi.org/10.1038/s41598-022-17823-7)
 
-10.1038/s41598-022-17823-7
-
 ---
 
-## Using Culture-Enriched Phenotypic Metagenomics for Targeted High-Throughput Monitoring of the Clinically Important Fraction of the β-Lactam Resistome.
- 05.08.2022, _Z Zhang, G Zhang, F Ju_
-
-
-High bacterial community diversity and complexity greatly challenge the cost-efficient monitoring of clinically prevalent antibiotic-resistant bacteria, which are usually present as rare and important populations involved in the environmental dissemination of clinical resistance. Here, we introduce culture-enriched phenotypic metagenomics that integrates culture enrichment, phenotypic screening, and metagenomic analyses as an emerging standardized methodology for targeted resistome monitoring and apply it to decipher the extended-spectrum β-lactam resistome in a municipal wastewater treatment plant (WWTP) and its receiving river. The results showed that clinically prevalent carbapenemase genes (e.g., the NDM and KPC families) and extended-spectrum β-lactamase genes (e.g., the CTX-M, TEM, and OXA families) were prevalent in the WWTP and showed prominent potential in horizontal dissemination. Strikingly, carbapenem and polymyxin resistance genes co-occurred in the highly virulent nosocomial pathogens Enterobacter kobei and Citrobacter freundii. Overall, this study exemplifies phenotypic metagenomics for high-throughput surveillance of a targeted clinically important fraction of antibiotic resistomes and substantially expands current knowledge on extended-spectrum β-lactam resistance in WWTPs.
+## Using Culture-Enriched Phenotypic Metagenomics for Targeted High-Throughput Monitoring of the Clinically Important Fraction of the β-Lactam Resistome
 
 [Source](https://doi.org/10.1021/acs.est.2c03627)
-
-10.1021/acs.est.2c03627
 
 ---
 
