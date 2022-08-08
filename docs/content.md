@@ -82,9 +82,15 @@ Anxiety and depression are highly prevalent mood disorders worldwide. Complete r
 
 ---
 
-## Host taxonomy determines the composition, structure, and diversity of the earthworm cast microbiome under homogenous feeding conditions
+## Host taxonomy determines the composition, structure, and diversity of the earthworm cast microbiome under homogenous feeding conditions.
+ 04.08.2022, _M Aira, M Pérez-Losada, KA Crandall, J Domínguez_
+
+
+Host evolutionary history is a key factor shaping the earthworm cast microbiome, although its effect can be shadowed by the earthworm's diet. To untangle dietary from taxon effects, we raised nine earthworm species on a uniform diet of cow manure and compared cast microbiome across species while controlling for diet. Our results showed that, under controlled laboratory conditions, earthworm microbiomes are species-specific, more diverse than that of the controlled diet, and mainly comprised of native bacteria (i.e., not acquired from the diet). Furthermore, diet has a medium to large convergence effect on microbiome composition since earthworms shared 16 to 74% of their bacterial amplicon sequence variants (ASV). The inter-species core microbiome included 10 ASVs, while their intra-species core microbiomes were larger and varied in ASV richness (24-48%) and sequence abundance across earthworm species. This specificity in core microbiomes and variable degree of similarity in bacterial composition suggest that phylosymbiosis could determine earthworm microbiome assembly. However, lack of congruence between the earthworm phylogeny and the microbiome dendrogram suggests that a consistent diet fed over several generations may have weakened potential phylosymbiotic effects. Thus, cast microbiome assembly in earthworms seem to be the result of an interplay among host phylogeny and diet.
 
 [Source](https://doi.org/10.1093/femsec/fiac093)
+
+10.1093/femsec/fiac093
 
 ---
 
