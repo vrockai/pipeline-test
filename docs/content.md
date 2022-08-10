@@ -16,16 +16,9 @@ Previous studies suggested associations between the oral microbiome and lung can
 
 ---
 
-## Crosstalk between mucosal microbiota, host gene expression, and sociomedical factors in the progression of colorectal cancer.
- 08.08.2022, _N Kim, JA Gim, BJ Lee, BI Choi, HS Yoon, SH Kim, MK Joo, JJ Park, C Kim_
-
-
-_Adenoma, Bacteria, Colorectal Neoplasms, Gastrointestinal Microbiome, Gene Expression, Humans, Intestinal Mucosa, Microbiota_
-Various omics-based biomarkers related to the occurrence, progression, and prognosis of colorectal cancer (CRC) have been identified. In this study, we attempted to identify gut microbiome-based biomarkers and detect their association with host gene expression in the initiation and progression of CRC by integrating analysis of the gut mucosal metagenome, RNA sequencing, and sociomedical factors. We performed metagenome and RNA sequencing on colonic mucosa samples from 13 patients with advanced CRC (ACRC), 10 patients with high-risk adenoma (HRA), and 7 normal control (NC) individuals. All participants completed a questionnaire on sociomedical factors. The interaction and correlation between changes in the microbiome and gene expression were assessed using bioinformatic analysis. When comparing HRA and NC samples, which can be considered to represent the process of tumor initiation, 28 genes and five microbiome species were analyzed with correlation plots. When comparing ACRC and HRA samples, which can be considered to represent the progression of CRC, seven bacterial species and 21 genes were analyzed. When comparing ACRC and NC samples, 16 genes and five bacterial species were analyzed, and four correlation plots were generated. A network visualizing the relationship between bacterial and host gene expression in the initiation and progression of CRC indicated that Clostridium spiroforme and Tyzzerella nexilis were hub bacteria in the development and progression of CRC. Our study revealed the interactions of and correlation between the colonic mucosal microbiome and host gene expression to identify potential roles of the microbiome in the initiation and progression of CRC. Our results provide gut microbiome-based biomarkers that may be potential diagnostic markers and therapeutic targets in patients with CRC.
+## Crosstalk between mucosal microbiota, host gene expression, and sociomedical factors in the progression of colorectal cancer
 
 [Source](https://doi.org/10.1038/s41598-022-17823-7)
-
-10.1038/s41598-022-17823-7
 
 ---
 
@@ -54,14 +47,8 @@ High bacterial community diversity and complexity greatly challenge the cost-eff
 ---
 
 ## The Gut-Brain-Microbiome Connection: Can Probiotics Decrease Anxiety and Depression?
- 05.08.2022, _J Maybee, T Pearson, L Elliott_
-
-
-Anxiety and depression are highly prevalent mood disorders worldwide. Complete remission of symptoms is often difficult to achieve, despite following recommended treatment guidelines. Numerous antidepressants and anxiolytics exist, and new drugs are being developed constantly, yet the incidence of common mood disorders continues to rise. Despite the prevalence of these issues, mental health treatment has not evolved much in recent years. An exciting area of research uncovered in the past decade is the gut-brain-microbiome axis, a bi-directional communication pathway. Because the human microbiome is closely related to mood, research is being done to investigate whether probiotic supplementation could potentially affect symptoms of anxiety and depression.
 
 [Source](https://doi.org/10.1080/01612840.2022.2106525)
-
-10.1080/01612840.2022.2106525
 
 ---
 
