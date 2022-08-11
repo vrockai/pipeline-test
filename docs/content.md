@@ -42,15 +42,21 @@ Vaginal microbiota (VMB) is associated with changes in Human papilloma virus (HP
 
 ---
 
-## The role of the gut microbiota in multiple sclerosis.
- 05.08.2022, _J Correale, R Hohlfeld, SE Baranzini_
+## Gut immune cell trafficking: inter-organ communication and immune-mediated inflammation.
+ 09.08.2022, _S Zundler, C Günther, AE Kremer, MM Zaiss, V Rothhammer, MF Neurath_
 
 
-During the past decade, research has revealed that the vast community of micro-organisms that inhabit the gut - known as the gut microbiota - is intricately linked to human health and disease, partly as a result of its influence on systemic immune responses. Accumulating evidence demonstrates that these effects on immune function are important in neuroinflammatory diseases, such as multiple sclerosis (MS), and that modulation of the microbiome could be therapeutically beneficial in these conditions. In this Review, we examine the influence that the gut microbiota have on immune function via modulation of serotonin production in the gut and through complex interactions with components of the immune system, such as T cells and B cells. We then present evidence from studies in mice and humans that these effects of the gut microbiota on the immune system are important in the development and course of MS. We also consider how strategies for manipulating the composition of the gut microbiota could be used to influence disease-related immune dysfunction and form the basis of a new class of therapeutics. The strategies discussed include the use of probiotics, supplementation with bacterial metabolites, transplantation of faecal matter or defined microbial communities, and dietary intervention. Carefully designed studies with large human cohorts will be required to gain a full understanding of the microbiome changes involved in MS and to develop therapeutic strategies that target these changes.
+Immune cell trafficking is a complex and tightly regulated process that is indispensable for the body's fight against pathogens. However, it is also increasingly acknowledged that dysregulation of cell trafficking contributes to the pathogenesis of immune-mediated inflammatory diseases (IMIDs) in gastroenterology and hepatology, such as inflammatory bowel disease and primary sclerosing cholangitis. Moreover, altered cell trafficking has also been implicated as a crucial step in the immunopathogenesis of other IMIDs, such as rheumatoid arthritis and multiple sclerosis. Over the past few years, a central role of the gut in mediating these disorders has progressively emerged, and the partly microbiota-driven imprinting of particular cell trafficking phenotypes in the intestine seems to be crucially involved. Therefore, this Review highlights achievements in understanding immune cell trafficking to, within and from the intestine and delineates its consequences for immune-mediated pathology along the gut-liver, gut-joint and gut-brain axes. We also discuss implications for current and future therapeutic approaches that specifically interfere with homing, retention, egress and recirculation of immune cells.
 
 [Source](https://www.nature.com/articles/s41582-022-00697-8)
 
-10.1038/s41582-022-00697-8
+10.1038/s41575-022-00663-1
+
+---
+
+## The role of the gut microbiota in multiple sclerosis
+
+[Source](https://www.nature.com/articles/s41582-022-00697-8)
 
 ---
 
