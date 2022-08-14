@@ -82,15 +82,9 @@ The aim was to complement the evaluation of functional and safety properties of 
 
 ---
 
-## Functional Redundancy in Bat Microbial Assemblage in the Presence of the White Nose Pathogen.
- 11.08.2022, _M Grisnik, JB Grinath, JP Munafo, DM Walker_
-
-
-Understanding how host-associated microbial assemblages respond to pathogen invasion has implications for host health. Until recently, most investigations have focused on understanding the taxonomic composition of these assemblages. However, recent studies have suggested that microbial assemblage taxonomic composition is decoupled from its function, with assemblages being taxonomically varied but functionally constrained. The objective of this investigation was to understand how the Tri-colored bat, Perimyotis subflavus cutaneous microbial assemblage responds to fungal pathogen invasion within a functional context. We hypothesized that at a broad scale (e.g., KEGG pathways), there will be no difference in the functional assemblages between the white nose pathogen, Pseudogymnoascus destructans, positive and negative bats; and this pattern will be driven by the functional redundancy of bacterial taxa. At finer scales (e.g., gene models), we postulate differences in function attributed to interactions between bacteria and P. destructans, resulting in the production of antifungal metabolites. To test this, we used a combination of shotgun metagenomic and amplicon sequencing to characterize the bat cutaneous microbial assemblage in the presence/absence of P. destructans. Results showed that while there was a shift in taxonomic assemblage composition between P. destructans positive and negative bats, there was little overall difference in microbial function. Functional redundancy across bacterial taxa was clear at a broad-scale; however, both redundancy and variation in bacterial capability related to defense against pathogens was evident at finer scales. While functionality of the microbial assemblage was largely conserved in relation to P. destructans, the roles of particular functional pathways in resistance to fungal pathogens require further attention.
+## Functional Redundancy in Bat Microbial Assemblage in the Presence of the White Nose Pathogen
 
 [Source](https://doi.org/10.1007/s00248-022-02098-2)
-
-10.1007/s00248-022-02098-2
 
 ---
 
