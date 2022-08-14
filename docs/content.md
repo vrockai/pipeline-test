@@ -17,7 +17,7 @@ The incidence of early-onset colorectal cancer (EO-CRC) is steadily increasing. 
 ---
 
 ## Longitudinal study of the vaginal microbiome in pregnancies involving preterm labor.
- 11.08.2022, _Y Sakabe, H Nishizawa, A Kato, Y Noda, A Ohwaki, H Yoshizawa, T Kato, T Sekiya, T Fujii, H Kurahashi_
+ 13.08.2022, _Y Sakabe, H Nishizawa, A Kato, Y Noda, A Ohwaki, H Yoshizawa, T Kato, T Sekiya, T Fujii, H Kurahashi_
 
 
 Alterations in the vaginal bacterial flora reflect the status of various obstetric conditions and are associated with mechanisms that underlie certain pregnancy-associated complications. These changes are also a predictive biomarker for clinical outcomes of these adverse events.
