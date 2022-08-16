@@ -70,16 +70,9 @@
 
 ---
 
-## Vertical transmission of the gut microbiota influences glucose metabolism in offspring of mice with hyperglycaemia in pregnancy.
- 15.08.2022, _C Xue, Q Xie, C Zhang, Y Hu, X Song, Y Jia, X Shi, Y Chen, Y Liu, L Zhao, F Huang, H Yuan_
-
-
-_Animals, Cesarean Section, Diabetes Mellitus, Diet, High-Fat, Female, Gastrointestinal Microbiome, Glucose, Humans, Hyperglycemia, Mice, Pregnancy, Prenatal Exposure Delayed Effects_
-Hyperglycaemia in pregnancy (HIP) is a common metabolic disorder that not only poses risks to maternal health but also associates with an increased risk of diabetes among offspring. Vertical transmission of microbiota may influence the offspring microbiome and subsequent glucose metabolism. However, the mechanism by which maternal gut microbiota may influence glucose metabolism of the offspring remains unclear and whether intervening microbiota vertical transmission could be used as a strategy to prevent diabetes in the offspring of mothers with HIP has not been investigated. So we blocked vertical transmission to investigate its effect on glucose metabolism in the offspring.
+## Vertical transmission of the gut microbiota influences glucose metabolism in offspring of mice with hyperglycaemia in pregnancy
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01318-8)
-
-10.1186/s40168-022-01318-8
 
 ---
 
@@ -179,16 +172,9 @@ Hyperglycaemia in pregnancy (HIP) is a common metabolic disorder that not only p
 
 ---
 
-## Developing whole cell standards for the microbiome field.
- 15.08.2022, _C Sergaki, S Anwar, M Fritzsche, R Mate, RJ Francis, K MacLellan-Gibson, A Logan, GCA Amos_
-
-
-_DNA, DNA, Bacterial, Feces, Microbiota, RNA, Ribosomal, 16S, Reproducibility of Results_
-Effective standardisation of the microbiome field is essential to facilitate global translational research and increase the reproducibility of microbiome studies. In this study, we describe the development and validation of a whole cell reference reagent specific to the gut microbiome by the UK National Institute for Biological Standards and Control. We also provide and test a two-step reporting framework to allow microbiome researchers to quickly and accurately validate choices of DNA extraction, sequencing, and bioinformatic pipelines.
+## Developing whole cell standards for the microbiome field
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01313-z)
-
-10.1186/s40168-022-01313-z
 
 ---
 
