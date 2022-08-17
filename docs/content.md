@@ -1,6 +1,12 @@
-## Crohn’s disease in endoscopic remission, obesity, and cases of high genetic risk demonstrates overlapping shifts in the colonic mucosal-luminal interface microbiome
+## Crohn's disease in endoscopic remission, obesity, and cases of high genetic risk demonstrates overlapping shifts in the colonic mucosal-luminal interface microbiome.
+ 15.08.2022, _JP Jacobs, M Goudarzi, V Lagishetty, D Li, T Mak, M Tong, P Ruegger, T Haritunians, C Landers, P Fleshner, E Vasiliauskas, A Ippoliti, G Melmed, D Shih, S Targan, J Borneman, AJ Fornace, DPB McGovern, J Braun_
+
+
+Crohn's disease (CD) patients demonstrate distinct intestinal microbial compositions and metabolic characteristics compared to unaffected controls. However, the impact of inflammation and underlying genetic risk on these microbial profiles and their relationship to disease phenotype are unclear. We used lavage sampling to characterize the colonic mucosal-luminal interface (MLI) microbiome of CD patients in endoscopic remission and unaffected controls relative to obesity, disease genetics, and phenotype.
 
 [Source](https://doi.org/10.1186/s13073-022-01099-7)
+
+10.1186/s13073-022-01099-7
 
 ---
 
@@ -65,9 +71,15 @@ Obesity is a risk factor for many chronic diseases and its rising prevalence the
 
 ---
 
-## Impact of habitual chewing on gut motility via microbiota transition
+## Impact of habitual chewing on gut motility via microbiota transition.
+ 15.08.2022, _F Yaoita, K Watanabe, I Kimura, M Miyazawa, S Tsuchiya, M Kanzaki, M Tsuchiya, K Tan-No_
+
+
+The gut environment, including the microbiota and its metabolites and short-chain fatty acids (SCFA), is essential for health maintenance. It is considered that functional recovery treatment for masticatory dysphagia affects the composition of the gut microbiota, indicating that habitual mastication, depending on the hardness of the food, may affect the gut microbiota and environment. However, the impact of chronic powdered diet feeding on the colonic condition and motility remains unclear. Here, we evaluated various colonic features in mice fed with powdered diets for a long-term and a mouse model with masticatory behavior. We observed a decreased abundance of the SCFA-producing bacterial genera in the ceca of the powdered diet-fed mice. Based on the importance of SCFAs in gut immune homeostasis and motility, interestingly, powdered diet feeding also resulted in constipation-like symptoms due to mild colitis, which were ameliorated by the administration of a neutrophil-depleting agent and neutrophil elastase inhibitors. Lastly, the suppressed colonic motility in the powdered diet-fed mice was significantly improved by loading masticatory activity for 2 h. Thus, feeding habits with appropriate masticatory activity and stimulation may play a key role in providing a favorable gut environment based on interactions between the gut microbiota and host immune system.
 
 [Source](https://doi.org/10.1038/s41598-022-18095-x)
+
+10.1038/s41598-022-18095-x
 
 ---
 
@@ -83,15 +95,27 @@ Animals colonized with a defined microbiota represent useful experimental system
 
 ---
 
-## The microbiome of a bacterivorous marine choanoflagellate contains a resource-demanding obligate bacterial associate
+## The microbiome of a bacterivorous marine choanoflagellate contains a resource-demanding obligate bacterial associate.
+ 15.08.2022, _DM Needham, C Poirier, C Bachy, EE George, S Wilken, CCM Yung, AJ Limardo, M Morando, L Sudek, RR Malmstrom, PJ Keeling, AE Santoro, AZ Worden_
+
+
+Microbial predators such as choanoflagellates are key players in ocean food webs. Choanoflagellates, which are the closest unicellular relatives of animals, consume bacteria and also exhibit marked biological transitions triggered by bacterial compounds, yet their native microbiomes remain uncharacterized. Here we report the discovery of a ubiquitous, uncultured bacterial lineage we name Candidatus Comchoanobacterales ord. nov., related to the human pathogen Coxiella and physically associated with the uncultured marine choanoflagellate Bicosta minor. We analyse complete 'Comchoano' genomes acquired after sorting single Bicosta cells, finding signatures of obligate host-dependence, including reduction of pathways encoding glycolysis, membrane components, amino acids and B-vitamins. Comchoano encode the necessary apparatus to import energy and other compounds from the host, proteins for host-cell associations and a type IV secretion system closest to Coxiella's that is expressed in Pacific Ocean metatranscriptomes. Interactions between choanoflagellates and their microbiota could reshape the direction of energy and resource flow attributed to microbial predators, adding complexity and nuance to marine food webs.
 
 [Source](https://doi.org/10.1038/s41564-022-01174-0)
 
+10.1038/s41564-022-01174-0
+
 ---
 
-## Characterization of presence and activity of microRNAs in the rumen of cattle hints at possible host-microbiota cross-talk mechanism
+## Characterization of presence and activity of microRNAs in the rumen of cattle hints at possible host-microbiota cross-talk mechanism.
+ 15.08.2022, _S Ricci, RM Petri, C Pacífico, E Castillo-Lopez, R Rivera-Chacon, A Sener-Aydemir, N Reisinger, Q Zebeli, S Kreuzer-Redmer_
+
+
+MicroRNAs (miRNAs), as important post-transcriptional regulators, are ubiquitous in various tissues. The aim of this exploratory study was to determine the presence of miRNAs in rumen fluid, and to investigate the possibility of miRNA-mediated cross-talk within the ruminal ecosystem. Rumen fluid samples from four cannulated Holstein cows were collected during two feeding regimes (forage and high-grain diet) and DNA and RNA were extracted for amplicon and small RNA sequencing. Epithelial biopsies were simultaneously collected to investigate the co-expression of miRNAs in papillae and rumen fluid. We identified 377 miRNAs in rumen fluid and 638 in rumen papillae, of which 373 were shared. Analysis of microbiota revealed 20 genera to be differentially abundant between the two feeding regimes, whereas no difference in miRNAs expression was detected. Correlations with at least one genus were found for 170 miRNAs, of which, 39 were highly significant (r &gt; |0.7| and P &lt; 0.01). Both hierarchical clustering of the correlation matrix and WGCNA analysis identified two main miRNA groups. Putative target and functional prediction analysis for the two groups revealed shared pathways with the predicted metabolic activities of the microbiota. Hence, our study supports the hypothesis of a cross-talk within the rumen at least partly mediated by miRNAs.
 
 [Source](https://doi.org/10.1038/s41598-022-17445-z)
+
+10.1038/s41598-022-17445-z
 
 ---
 
@@ -139,16 +163,9 @@ The viral community has the potential to influence the structure of the microbio
 
 ---
 
-## Profiling the role of microorganisms in quality improvement of the aged flue-cured tobacco.
- 16.08.2022, _X Wu, W Cai, P Zhu, Z Peng, T Zheng, D Li, J Li, G Zhou, G Du, J Zhang_
-
-
-_Fatty Acids, Gas Chromatography-Mass Spectrometry, Quality Improvement, Terpenes, Tobacco_
-The aging process in the tobacco production, as in other food industries, is an important process for improving the quality of raw materials. In the spontaneous aging, the complex components in flue-cured tobacco (FT) improve flavor or reduce harmful compounds through chemical reactions, microbial metabolism, and enzymatic catalysis. Some believed that tobacco-microbe played a significant part in this process. However, little information is available on how microbes mediate chemical composition to improve the quality of FT, which will lay the foundation for the time-consuming spontaneous aging to seek ways to shorten the aging cycle.
+## Profiling the role of microorganisms in quality improvement of the aged flue-cured tobacco
 
 [Source](https://doi.org/10.1186/s12866-022-02597-9)
-
-10.1186/s12866-022-02597-9
 
 ---
 
