@@ -12,7 +12,7 @@ Gut microbiota is a complex system that starts to take shape early in life. Seve
 ---
 
 ## Cervicovaginal Complement Activation and Microbiota During Pregnancy and in Parturition.
- 15.08.2022, _S Livson, S Virtanen, AI Lokki, T Holster, L Rahkonen, I Kalliala, P Nieminen, A Salonen, S Meri_
+ 18.08.2022, _S Livson, S Virtanen, AI Lokki, T Holster, L Rahkonen, I Kalliala, P Nieminen, A Salonen, S Meri_
 
 
 _Bacteria, Complement Activation, Complement Factor B, Female, Gardnerella vaginalis, Humans, Intracellular Signaling Peptides and Proteins, LIM Domain Proteins, Microbiota, Muscle Proteins, Parturition, Pregnancy, Vagina_
@@ -88,9 +88,10 @@ The rate of gut inflammatory diseases is growing in modern society. Previously, 
 ---
 
 ## High fat diets induce early changes in gut microbiota that may serve as markers of ulterior altered physiological and biochemical parameters related to metabolic syndrome. Effect of virgin olive oil in comparison to butter.
- 17.08.2022, _N Andújar-Tenorio, I Prieto, A Cobo, AM Martínez-Rodríguez, M Hidalgo, AB Segarra, M Ramírez, A Gálvez, M Martínez-Cañamero_
+ 18.08.2022, _N Andújar-Tenorio, I Prieto, A Cobo, AM Martínez-Rodríguez, M Hidalgo, AB Segarra, M Ramírez, A Gálvez, M Martínez-Cañamero_
 
 
+_Animals, Biomarkers, Butter, Diet, High-Fat, Gastrointestinal Microbiome, Metabolic Syndrome, Mice, Olive Oil_
 Butter and virgin olive oil (EVOO) are two fats differing in their degree of saturation and insaponifiable fraction. EVOO, enriched in polyphenols and other minority components, exerts a distinct effect on health. Using next generation sequencing, we have studied early and long-term effects of both types of fats on the intestinal microbiota of mice, finding significant differences between the two diets in the percentage of certain bacterial taxa, correlating with hormonal, physiological and metabolic parameters in the host. These correlations are not only concomitant, but most noticeably some of the changes detected in the microbial percentages at six weeks are correlating with changes in physiological values detected later, at twelve weeks. Desulfovibrionaceae/Desulfovibrio/D. sulfuricans stand out by presenting at six weeks a statistically significant higher percentage in the butter-fed mice with respect to the EVOO group, correlating with systolic blood pressure, food intake, water intake and insulin at twelve weeks. This not only suggests an early implication in the probability of developing altered physiological and biochemical responses later on in the host lifespan, but also opens the possibility of using this genus as a marker in the risk of suffering different pathologies in the future.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271634)
@@ -112,9 +113,10 @@ Insect guts often harbor an abundance of bacteria. Many of these members are com
 ---
 
 ## Chemical and microbial characterization of sugarcane mill mud for soil applications.
- 17.08.2022, _M Uchimiya, AG Hay, J LeBlanc_
+ 18.08.2022, _M Uchimiya, AG Hay, J LeBlanc_
 
 
+_Carbon, Nitrogen, RNA, Ribosomal, 16S, Saccharum, Soil, Soil Microbiology_
 Sugarcane mill mud/filter cake is an activated sludge-like byproduct from the clarifier of a raw sugar production factory, where cane juice is heated to ≈90°C for 1-2 hr, after the removal of bagasse. Mill mud is enriched with organic carbon, nitrogen, and nutrient minerals; no prior report utilized 16S rRNA gene sequencing to characterize the microbial composition. Mill mud could be applied to agricultural fields as biofertilizer to replace or supplement chemical fertilizers, and as bio-stimulant to replenish microorganisms and organic carbon depleted by erosion and post-harvest field burning. However, mill mud has historically caused waste management challenges in the United States. This study reports on the chemical and microbial (16S rRNA) characteristics for mill muds of diverse origin and ages. Chemical signature (high phosphorus) distinguished mill mud from bagasse (high carbon to nitrogen (C/N) ratio) and soil (high pH) samples of diverse geographical/environmental origins. Bacterial alpha diversity of all sample types (mill mud, bagasse, and soil) was inversely correlated with C/N. Firmicutes dominated the microbial composition of fresh byproducts (mill mud and bagasse) as-produced within the operating factory. Upon aging and environmental exposure, the microbial community of the byproducts diversified to resemble that of soils, and became dominated by varying proportions of other phyla such as Acidobacteria, Chloroflexi, and Planctomyces. In summary, chemical properties allowed grouping of sample types (mill mud, bagasse, and soil-like), and microbial diversity analyses visualized aging caused by outdoor exposures including soil amendment and composting. Results suggest that a transient turnover of microbiome by amendments shifts towards more resilient population governed by the chemistry of bulk soil.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272013)
