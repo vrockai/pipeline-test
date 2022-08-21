@@ -10,27 +10,15 @@
 
 ---
 
-## Intestinal TLR4 deletion exacerbates acute pancreatitis through gut microbiota dysbiosis and Paneth cells deficiency.
- 19.08.2022, _M Qi-Xiang, F Yang, H Ze-Hua, Y Nuo-Ming, W Rui-Long, X Bin-Qiang, F Jun-Jie, H Chun-Lan, Z Yue_
-
-
-Toll-like receptor 4 (TLR4) has been identified as a potentially promising therapeutic target in acute pancreatitis (AP). However, the role of intestinal TLR4 in AP and AP-associated gut injury remains unclear. This study aimed to explore the relationship between intestinal TLR4 and gut microbiota during AP. A mouse AP model was establish by intraperitoneal injection of L-arginine. Pancreatic injury and intestinal barrier function were evaluated in wild-type and intestinal epithelial TLR4 knockout (TLR4ΔIEC) mice. Gut microbiota was analyzed by 16S rRNA sequencing. Quadruple antibiotics were applied to induce microbiota-depleted mice. Differentially expressed genes in gut were detected by RNA sequencing. L. reuteri treatment was carried out in vivo and vitro study. Compared with wild-type mice, AP and AP-associated gut injury were exacerbated in TLR4ΔIEC mice in a gut microbiota-dependent manner. The relative abundance of Lactobacillus and number of Paneth cells remarkably decreased in TLR4ΔIEC mice. The KEGG pathway analysis derived from RNA sequencing suggested that genes affected by intestinal TLR4 deletion were related to the activation of nod-like receptor pathway. Furthermore, L. reuteri treatment could significantly improve the pancreatic and intestinal injury in TLR4ΔIEC mice through promoting Paneth cells in a NOD2-dependent manner. Loss of intestinal epithelial TLR4 exacerbated pancreatic and intestinal damage during AP, which might be attributed to the gut microbiota dysbiosis especially the exhausted Lactobacillus. L. reuteri might maintain intestinal homeostasis and alleviate AP via Paneth cells modulation.Abbreviations: AP Acute pancreatitis, TLR4 Toll-like receptor 4, IL-1β Interleukin-1β, IL-6 Interleukin-6, TNF-α Tumor necrosis factor-α, SIRS Systematic inflammatory response syndrome, LPS Lipopolysaccharides, SPF Specific pathogen-free, ZO-1 Zonula occludens-1, CON Control, H&amp;E Hematoxylin and eosin, FISH Fluorescence in situ hybridization, DAPI 4',6-diamidino-2-phenylindole, PCoA Principal co-ordinates analysis, SCFA Short chain fatty acid, LEfSe Linear discriminant analysis Effect Size, ANOVA Analysis of variance, F/B Firmicutes/Bacteroidetes, PCA Principal component analysis, NOD2 Nod-like receptor 2, ABX antibiotics, PCNA proliferating cell nuclear antigen.
+## Intestinal TLR4 deletion exacerbates acute pancreatitis through gut microbiota dysbiosis and Paneth cells deficiency
 
 [Source](https://doi.org/10.1080/19490976.2022.2112882)
 
-10.1080/19490976.2022.2112882
-
 ---
 
-## A biosynthetic pathway for the selective sulfonation of steroidal metabolites by human gut bacteria.
- 18.08.2022, _L Yao, GD D'Agostino, J Park, S Hang, AA Adhikari, Y Zhang, W Li, J Avila-Pacheco, S Bae, CB Clish, EA Franzosa, C Huttenhower, JR Huh, AS Devlin_
-
-
-Members of the human gut microbiome enzymatically process many bioactive molecules in the gastrointestinal tract. Most gut bacterial modifications characterized so far are hydrolytic or reductive in nature. Here we report that abundant human gut bacteria from the phylum Bacteroidetes perform conjugative modifications by selectively sulfonating steroidal metabolites. While sulfonation is a ubiquitous biochemical modification, this activity has not yet been characterized in gut microbes. Using genetic and biochemical approaches, we identify a widespread biosynthetic gene cluster that encodes both a sulfotransferase (BtSULT, BT0416) and enzymes that synthesize the sulfonate donor adenosine 3'-phosphate-5'-phosphosulfate (PAPS), including an APS kinase (CysC, BT0413) and an ATP sulfurylase (CysD and CysN, BT0414-BT0415). BtSULT selectively sulfonates steroidal metabolites with a flat A/B ring fusion, including cholesterol. Germ-free mice monocolonized with Bacteroides thetaiotaomicron ΔBT0416 exhibited reduced gastrointestinal levels of cholesterol sulfate (Ch-S) compared with wild-type B. thetaiotaomicron-colonized mice. The presence of BtSULT and BtSULT homologues in bacteria inhibited leucocyte migration in vitro and in vivo, and abundances of cluster genes were significantly reduced in patients with inflammatory bowel disease. Together, these data provide a mechanism by which gut bacteria sulfonate steroidal metabolites and suggest that these compounds can modulate immune cell trafficking in the host.
+## A biosynthetic pathway for the selective sulfonation of steroidal metabolites by human gut bacteria
 
 [Source](https://doi.org/10.1038/s41564-022-01176-y)
-
-10.1038/s41564-022-01176-y
 
 ---
 
