@@ -83,14 +83,8 @@
 ---
 
 ## Archaea from the gut microbiota of humans: Could be linked to chronic diseases?
- 19.08.2022, _D Mafra, M Ribeiro, L Fonseca, B Regis, LFMF Cardozo, H Fragoso Dos Santos, H Emiliano de Jesus, J Schultz, PG Shiels, P Stenvinkel, A Rosado_
-
-
-Archaea comprise a unique domain of organisms with distinct biochemical and genetic differences from bacteria. Methane-forming archaea, methanogens, constitute the predominant group of archaea in the human gut microbiota, with Methanobrevibacter smithii being the most prevalent. However, the effect of methanogenic archaea and their methane production on chronic disease remains controversial. As perturbation of the microbiota is a feature of chronic conditions, such as cardiovascular disease, neurodegenerative diseases and chronic kidney disease, assessing the influence of archaea could provide a new clue to mitigating adverse effects associated with dysbiosis. In this review, we will discuss the putative role of archaea in the gut microbiota in humans and the possible link to chronic diseases.
 
 [Source](https://doi.org/10.1016/j.anaerobe.2022.102629)
-
-10.1016/j.anaerobe.2022.102629
 
 ---
 
