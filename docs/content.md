@@ -163,9 +163,15 @@ Vaccination shows high variability in the elicited immune responses among indivi
 
 ---
 
-## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples
+## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples.
+ 22.08.2022, _JL Baker_
+
+
+Obtaining complete, high-quality reference genomes is essential to the study of any organism. Recent advances in nanopore sequencing, as well as genome assembly and analysis methods, have made it possible to obtain complete bacterial genomes from metagenomic (i.e., multispecies) samples, including those from the human microbiome. In this study, methods are presented to obtain complete bacterial genomes from human saliva using complementary Oxford Nanopore (ONT) and Illumina sequencing. Applied to 3 human saliva samples, these methods resulted in 11 complete bacterial genomes: 3 Saccharibacteria clade G6 (also known as Ca. Nanogingivalaceae HMT-870), 1 Saccharibacteria clade G1 HMT-348, 2 Rothia mucilaginosa, 2 Actinomyces graevenitzii, 1 Mogibacterium diversum, 1 Lachnospiraceae HMT-096, and 1 Lancefieldella parvula; and one circular chromosome of Ruminococcaceae HMT-075 (which likely has at least 2 chromosomes). The 4 Saccharibacteria genomes, as well as the Actinomyces graeventizii genomes, represented the first complete genomes from their respective bacterial taxa. Aside from the complete genomes, the assemblies contained 147 contigs of over 500,000 bp each and thousands of smaller contigs, together representing a myriad of additional draft genomes including many which are likely nearly complete. The complete genomes enabled highly accurate pangenome analysis, which identified unique and missing features of each genome compared to its closest relatives with complete genomes available in public repositories. These features provide clues as to the lifestyle and ecological role of these bacteria within the human oral microbiota, which will be particularly useful in designing future studies of the taxa that have never been isolated or cultivated. IMPORTANCE Obtaining complete and accurate genomes is crucial to the study of any organism. Previously, obtaining complete genomes of bacteria, including those of the human microbiome, frequently required isolation of the organism, as well as low-throughput, manual sequencing methods to resolve repeat regions. Advancements in long-read sequencing technologies, including Oxford Nanopore (ONT), have made it possible to obtain complete, closed bacterial genomes from metagenomic samples. This study reports methods to obtain complete genomes from the human oral microbiome using complementary ONT and Illumina sequencing of saliva samples. Eleven complete genomes were obtained from 3 human saliva samples, with genomes of Saccharibacteria HMT-870, Saccharibacteria HMT-348, and Actinomyces graeventzii being the first complete genomes from their respective taxa. Obtaining complete bacterial genomes in a high-throughput manner will help illuminate the metabolic and ecological roles of important members of the human microbiota, particularly those that have remained recalcitrant to isolation and cultivation.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00491-22)
+
+10.1128/msystems.00491-22
 
 ---
 
