@@ -139,32 +139,62 @@ There is evidence that metabolic profile changes after Roux-Y gastric bypass (RY
 ---
 
 ## Archaea from the gut microbiota of humans: Could be linked to chronic diseases?
+ 19.08.2022, _D Mafra, M Ribeiro, L Fonseca, B Regis, LFMF Cardozo, H Fragoso Dos Santos, H Emiliano de Jesus, J Schultz, PG Shiels, P Stenvinkel, A Rosado_
+
+
+Archaea comprise a unique domain of organisms with distinct biochemical and genetic differences from bacteria. Methane-forming archaea, methanogens, constitute the predominant group of archaea in the human gut microbiota, with Methanobrevibacter smithii being the most prevalent. However, the effect of methanogenic archaea and their methane production on chronic disease remains controversial. As perturbation of the microbiota is a feature of chronic conditions, such as cardiovascular disease, neurodegenerative diseases and chronic kidney disease, assessing the influence of archaea could provide a new clue to mitigating adverse effects associated with dysbiosis. In this review, we will discuss the putative role of archaea in the gut microbiota in humans and the possible link to chronic diseases.
 
 [Source](https://doi.org/10.1016/j.anaerobe.2022.102629)
 
+10.1016/j.anaerobe.2022.102629
+
 ---
 
-## Genomic insights into the phylogeny and biomass-degrading enzymes of rumen ciliates
+## Genomic insights into the phylogeny and biomass-degrading enzymes of rumen ciliates.
+ 19.08.2022, _Z Li, X Wang, Y Zhang, Z Yu, T Zhang, X Dai, X Pan, R Jing, Y Yan, Y Liu, S Gao, F Li, Y Huang, J Tian, J Yao, X Xing, T Shi, J Ning, B Yao, H Huang, Y Jiang_
+
+
+Understanding the biodiversity and genetics of gut microbiomes has important implications for host physiology and industrial enzymes, whereas most studies have been focused on bacteria and archaea, and to a lesser extent on fungi and viruses. One group, still underexplored and elusive, is ciliated protozoa, despite its importance in shaping microbiota populations. Integrating single-cell sequencing and an assembly-and-identification pipeline, we acquired 52 high-quality ciliate genomes of 22 rumen morphospecies from 11 abundant morphogenera. With these genomes, we resolved the taxonomic and phylogenetic framework that revised the 22 morphospecies into 19 species spanning 13 genera and reassigned the genus Dasytricha from Isotrichidae to a new family Dasytrichidae. Comparative genomic analyses revealed that extensive horizontal gene transfers and gene family expansion provided rumen ciliate species with a broad array of carbohydrate-active enzymes (CAZymes) to degrade all major kinds of plant and microbial carbohydrates. In particular, the genomes of Diplodiniinae and Ophryoscolecinae species encode as many CAZymes as gut fungi, and ~80% of their degradative CAZymes act on plant cell-wall. The activities of horizontally transferred cellulase and xylanase of ciliates were experimentally verified and were 2-9 folds higher than those of the inferred corresponding bacterial donors. Additionally, the new ciliate dataset greatly facilitated rumen metagenomic analyses by allowing ~12% of the metagenomic sequencing reads to be classified as ciliate sequences.
 
 [Source](https://doi.org/10.1038/s41396-022-01306-8)
 
+10.1038/s41396-022-01306-8
+
 ---
 
-## Microbiota and mobile genetic elements influence antibiotic resistance genes in dust from dense urban public places
+## Microbiota and mobile genetic elements influence antibiotic resistance genes in dust from dense urban public places.
+ 23.08.2022, _T Feng, Q Han, W Su, Q Yu, J Yang, H Li_
+
+
+Many contaminants were carried by dust, a common environment media that is easy to contact with human beings, and antibiotic resistance genes (ARGs) as an emergency pollutant also harbor in dust and pose serious threats to human health especially those carried by opportunistic pathogens because inactivation of antibiotics caused by ARGs may enhance pathogenicity. Considering there is a gap of investigation of dust ARGs, 16 S rRNA gene sequences and high-throughput quantitative PCR were employed to obtain information of microbial communities and accumulated ARGs in dust from different urban places, including the malls, hospitals, schools and parks, to investigate the distribution and influencing factors of ARGs and discover the potential hosts of ARGs in dust. Here, 9 types of ARGs such as sulfonamide, tetracycline, and beta-lactamase and 71 subtypes of ARGs like sul1, tetM-01, and drfA1 were detected in dust. ARGs had varying distribution in different public places and seasons in dust. The abundances of total ARGs, MLSB and tetracycline genes were higher in spring than summer. The diversity of ARGs was highest in malls, follow by hospitals, schools, and parks. Additionally, multi-drug resistance genes in dust were more abundant in hospitals than in schools and parks. The microbes were distinguished as the most important driving factors for ARGs in dust, followed by the mobile genetic elements (MGEs) and different places, while dust physicochemical parameters only exert a negligible impact. Notably, several opportunistic pathogens like the Streptococcus, Vibrio, and Pseudomonas were inferred as potential hosts of high-risk ARGs such as mecA, tetM-02, and tetO-01 in dust because of strongly positive co-occurrence. These results imply that dust is likely an important reservoir of ARGs. We should realize that ARGs may be harbored in some opportunistic pathogens occur in dust and endanger human health because of dust contacting to human easily.
 
 [Source](https://doi.org/10.1016/j.envpol.2022.119991)
 
+10.1016/j.envpol.2022.119991
+
 ---
 
-## Synergy between microalgae and microbiome in polluted waters
+## Synergy between microalgae and microbiome in polluted waters.
+ 19.08.2022, _N Ashraf, F Ahmad, Y Lu_
+
+
+Microalga-microbiome interactions are central to both health and disease of aquatic environments. Despite impressive advances in deciphering how microorganisms participate in and impact aquatic ecosystems, the evolution and ecological involvement of microalgae and the microbiome in polluted waters are typically studied independently. Here, the phycosphere (i.e., the consortia of microalgae and the related microbiome) is regarded as an independent and integrated life form, and we summarize the survival strategies exhibited by this symbiont when exposed to anthropogenic pollution. We highlight the cellular strategies and discuss the modulation at the transcriptional and population levels, which reciprocally alters community structure or genome composition for medium-term acclimation or long-term adaptation. We propose a 'PollutantBiome' concept to help the understanding of microalga-microbiome interactions and development of beneficial microbial synthetic communities for pollutant remediation.
 
 [Source](https://doi.org/10.1016/j.tim.2022.06.004)
 
+10.1016/j.tim.2022.06.004
+
 ---
 
-## Molecular tools for probing the microbiome
+## Molecular tools for probing the microbiome.
+ 19.08.2022, _MT Torres, C de la Fuente-Nunez_
+
+
+The microbiome plays essential roles in health and disease. Our understanding of the imbalances that can arise in the microbiome and their consequences is held back by a lack of technologies that selectively knock out members of these microbial communities. Antibiotics and fecal transplants, the existing methods for manipulating the microbiota of the gastrointestinal tract, are not sufficiently pinpointed to reveal how particular microbial genes, strains, or species affect human health. A toolset for the precise manipulation of the microbiome could significantly advance disease diagnosis and treatment. Here, we provide an overview of current and future strategies for the development of molecular tools that can be used to probe the microbiome without producing off-target effects.
 
 [Source](https://doi.org/10.1016/j.sbi.2022.102415)
+
+10.1016/j.sbi.2022.102415
 
 ---
 
