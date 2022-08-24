@@ -1,200 +1,171 @@
-## Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance.
- 20.08.2022, _J Suez, Y Cohen, R Valdés-Mas, U Mor, M Dori-Bachash, S Federici, N Zmora, A Leshem, M Heinemann, R Linevsky, M Zur, R Ben-Zeev Brik, A Bukimer, S Eliyahu-Miller, A Metz, R Fischbein, O Sharov, S Malitsky, M Itkin, N Stettner, A Harmelin, H Shapiro, CK Stein-Thoeringer, E Segal, E Elinav_
+## Detecting bacterial adaptation within individual microbiomes.
+ 23.08.2022, _TD Lieberman_
 
 
-Non-nutritive sweeteners (NNS) are commonly integrated into human diet and presumed to be inert; however, animal studies suggest that they may impact the microbiome and downstream glycemic responses. We causally assessed NNS impacts in humans and their microbiomes in a randomized-controlled trial encompassing 120 healthy adults, administered saccharin, sucralose, aspartame, and stevia sachets for 2 weeks in doses lower than the acceptable daily intake, compared with controls receiving sachet-contained vehicle glucose or no supplement. As groups, each administered NNS distinctly altered stool and oral microbiome and plasma metabolome, whereas saccharin and sucralose significantly impaired glycemic responses. Importantly, gnotobiotic mice conventionalized with microbiomes from multiple top and bottom responders of each of the four NNS-supplemented groups featured glycemic responses largely reflecting those noted in respective human donors, which were preempted by distinct microbial signals, as exemplified by sucralose. Collectively, human NNS consumption may induce person-specific, microbiome-dependent glycemic alterations, necessitating future assessment of clinical implications.
+_Acclimatization, Bacteria, Genome, Genomics, Humans, Microbiota_
+The human microbiome harbours a large capacity for within-person adaptive mutations. Commensal bacterial strains can stably colonize a person for decades, and billions of mutations are generated daily within each person's microbiome. Adaptive mutations emerging during health might be driven by selective forces that vary across individuals, vary within an individual, or are completely novel to the human population. Mutations emerging within individual microbiomes might impact the immune system, the metabolism of nutrients or drugs, and the stability of the community to perturbations. Despite this potential, relatively little attention has been paid to the possibility of adaptive evolution within complex human-associated microbiomes. This review discusses the promise of studying within-microbiome adaptation, the conceptual and technical limitations that may have contributed to an underappreciation of adaptive de novo mutations occurring within microbiomes to date, and methods for detecting recent adaptive evolution. This article is part of a discussion meeting issue 'Genomic population structures of microbial pathogens'.
 
-[Source](https://doi.org/10.1016/j.cell.2022.07.016)
+[Source](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0243)
 
-10.1016/j.cell.2022.07.016
-
----
-
-## A comprehensive evaluation of microbial differential abundance analysis methods: current status and potential solutions.
- 23.08.2022, _L Yang, J Chen_
-
-
-_Antiviral Agents, Benchmarking, Computer Simulation, Data Analysis, Microbiota_
-Differential abundance analysis (DAA) is one central statistical task in microbiome data analysis. A robust and powerful DAA tool can help identify highly confident microbial candidates for further biological validation. Numerous DAA tools have been proposed in the past decade addressing the special characteristics of microbiome data such as zero inflation and compositional effects. Disturbingly, different DAA tools could sometimes produce quite discordant results, opening to the possibility of cherry-picking the tool in favor of one's own hypothesis. To recommend the best DAA tool or practice to the field, a comprehensive evaluation, which covers as many biologically relevant scenarios as possible, is critically needed.
-
-[Source](https://doi.org/10.1186/s40168-022-01320-0)
-
-10.1186/s40168-022-01320-0
+10.1098/rstb.2021.0243
 
 ---
 
-## Probiotics and Synbiotics Supplementation Improve Glycemic Control Parameters in Subjects with Prediabetes and Type 2 Diabetes Mellitus: A GRADE-assessed systematic review, meta-analysis, and meta-regression of randomized clinical trials.
- 20.08.2022, _K Naseri, S Saadati, D Ashtary-Larky, O Asbaghi, F Ghaemi, F Pashayee-Khamene, Z Yari, B de Courten_
+## Stunting as a Risk Factor of Soil-Transmitted Helminthiasis in Children: A Literature Review.
+ 16.08.2022, _N Fauziah, MA Ar-Rizqi, S Hana, NM Patahuddin, A Diptyanusa_
 
 
-Probiotics and synbiotics have been proposed to exhibit an important role in glucose homeostasis and maintain the balance of the gut microbiota. However, clinical trials have shown mixed findings. Therefore, we conducted a systematic review and meta-analysis of all eligible randomized controlled trials (RCTs) examining the effects of probiotics and synbiotics intake on glycemic outcomes among individuals with prediabetes and type 2 diabetes mellitus (T2DM). The PubMed/Medline, Scopus, ISI Web of Science, and Cochrane library were searched up to March 2022 for published RCTs exploring the effectiveness of probiotics and synbiotics compared to control on glycemic outcomes. The random-effects model was applied in order to the estimation of 95% confidence interval (CI) and the weighted mean difference (WMD) for each endpoint. Meta-analysis of forty-six RCTs (3067 participants) showed that probiotics and synbiotics supplementation significantly reduced fasting plasma glucose (FPG) (weighted mean difference (WMD): -11.18mg/dl, 95% CI: -13.60, -8.75, p ˂0.001), fasting insulin serum level (WMD: -1.23 µIU/ml, 95% CI: -1.76, -0.71, p ˂0.001), hemoglobin A1c (HbA1c) (WMD: -0.35%, 95% CI: -0.44, -0.26, p˂0.001), and homeostatic model assessment of insulin resistance (HOMA-IR) (WMD: -0.87, 95% CI: -1.09, -0.65, p˂0.001). Additionally, probiotics and synbiotics intake resulted in an increase in values of quantitative insulin-sensitivity check index (QUICKI) (WMD: 0.01, 95% CI: 0.00, 0.01, p˂0.001). However, probiotics and synbiotics consumption did not change glucose values following oral glucose tolerance test (OGTT). Our findings suggest that probiotic and synbiotic intake has favorable effects on glycemic profile in patients with prediabetes and T2DM.
+As a high-burden neglected tropical disease, soil-transmitted helminth (STH) infections remain a major problem in the world, especially among children under five years of age. Since young children are at high risk of being infected, STH infection can have a long-term negative impact on their life, including impaired growth and development. Stunting, a form of malnutrition in young children, has been long assumed as one of the risk factors in acquiring the STH infections. However, the studies on STH infection in children under five with stunting have been lacking, resulting in poor identification of the risk. Accordingly, we collected and reviewed existing related research articles to provide an overview of STH infection in a susceptible population of stunted children under five years of age in terms of prevalence and risk factors. There were 17 studies included in this review related to infection with Ascaris lumbricoides, Trichuris trichiura, hookworm, and Strongyloides stercoralis from various countries. The prevalence of STH infection in stunted children ranged from 12.5% to 56.5%. Increased inflammatory markers and intestinal microbiota dysbiosis might have increased the intensity of STH infection in stunted children that caused impairment in the immune system. While the age from 2 to 5 years along with poor hygiene and sanitation has shown to be the most common risk factors of STH infections in stunted children; currently there are no studies that show direct results of stunting as a risk factor for STH infection. While stunting itself may affect the pathogenesis of STH infection, further research on stunting as a risk factor for STH infection is encouraged.
 
-[Source](https://doi.org/10.1016/j.phrs.2022.106399)
+[Source](https://www.nature.com/articles/s41579-022-00779-w)
 
-10.1016/j.phrs.2022.106399
-
----
-
-## The diversity and abundance of gut microbiota are associated with the pain sensation threshold in the Japanese population.
- 21.08.2022, _Y Takeuchi, H Mizukami, K Kudoh, S Osonoi, T Sasaki, H Kushibiki, S Ogasawara, Y Hara, A Igawa, X Pan, T Yamada, K Yamazaki, T Mikami, M Daimon, S Yagihashi, K Hakamada, S Nakaji_
-
-
-Small fibre neuropathy (SFN) is an initial pathology of diabetic polyneuropathy (DPN). Serum lipopolysaccharide binding protein levels are positively correlated with the pain threshold in the foot, suggesting that the abundance of gut Gram-negative bacilli, which are a source of lipopolysaccharides, may be involved in the development of DPN. Furthermore, the abundance of the gut and oral microbiota is assumed to be involved in the pathogenesis of diabetes. Nevertheless, the association between SFN and the microbiota has not been clarified. A total of 1056 individuals were recruited in the 2018 Iwaki Health Promotion Project. Pain sensation was evaluated based on the pain threshold from intraepidermal electrical stimulation (PINT). Patients with PINT scores &lt;0.15 mA were categorized into the low-PINT group (n = 718); otherwise, they were categorized into the high-PINT group (n = 283). Furthermore, each group was divided into the subjects with or without glucose tolerance based on HbA1c levels, fasting blood glucose levels and diabetic history. Principal coordinate analysis and α- and β-diversity of the microbiota were evaluated. The correlation between clinical and microbiota data was examined. Oral microbiota diversity showed no structural differences according to PINT scores, whereas principal coordinate analysis and α- and β-diversity revealed significant structural differences in gut microbiota (p &lt; 0.01, p &lt; 0.05 and p &lt; 0.05, respectively), even after the participants with glucose intolerance were excluded (p &lt; 0.01, p &lt; 0.05 and p &lt; 0.05, respectively). The relative abundance of the genus Bacteroides was significantly lower in high-PINT participants compared with low-PINT participants (10 ± 6.7% vs. 11.3 ± 7.0%, p &lt; 0.01), even after the exclusion of subjects with diabetes and impaired fasting glucose (10.0 ± 6.5% vs. 11.2 ± 6.9%, p &lt; 0.05). In univariate linear regression analyses, PINT was significantly correlated with metabolic syndrome parameters, eGFR, uric acid level and the abundance of Bacteroides. The correlation between Bacteroides and PINT scores remained significant after adjustment for multiple factors (β = -0.07181, p &lt; 0.05). Changes of bacterial diversity and a low abundance of gut Bacteroides were correlated with elevated PINT scores in the Japanese population. This correlation may represent a new therapeutic option for SFN.
-
-[Source](https://doi.org/10.1016/j.nbd.2022.105839)
-
-10.1016/j.nbd.2022.105839
+10.1155/2022/8929025
 
 ---
 
-## Oral microbiota associated with gingiva of healthy, gingivitis and periodontitis cases.
- 21.08.2022, _NA Hussein, ZS Soliman, MF Edrees_
+## Soil microbiomes and one health
 
-
-Oral microbes coexist with each other in a symbiotic relationship or as commensals in healthy body. Teeth and oral cavity harbor diverse community of fungi and bacteria. This study focused on bacterial and fungal component of gingiva, where the last occupy little attention. In addition to study the antimicrobial activity of toothpastes, mouth washes and natural oils against microorganisms. Sixty swabs from outer surfaces of gingiva in healthy persons, as well as patients complaining of gingivitis and periodontitis were collected for fungal and bacterial analyses. Sensitivity of the isolated microorganisms to some pharmaceutical preparations and natural oils was also performed. Ten fungal and 9 bacterial species were identified. There is a highly significant variation in the frequency of Klebsiella pneumonia among healthy, gingivitis and periodontitis. Also, Candida tropicalis and cocci bacteria showed significant diversity among the three tested groups. Among pharmaceutical preparations (toothpastes and mouth washes) and natural oils, Paradontax, Hexitol and clove oil showed the best antimicrobial activity against tested fungal and bacterial strains. Although, minimum inhibition concentrations (MICs) of clove oil were high compared to Paradontax and Hexitol, nevertheless, it is highly recommended as both antifungal and antibacterial agent against oral pathogenic microorganisms, because it is a natural compound and nearly devoid of side effects.
-
-[Source](https://doi.org/10.1016/j.micpath.2022.105724)
-
-10.1016/j.micpath.2022.105724
+[Source](https://www.nature.com/articles/s41579-022-00779-w)
 
 ---
 
-## Effects of extracellular vesicles derived from oral bacteria on osteoclast differentiation and activation.
- 23.08.2022, _HY Kim, MK Song, Y Lim, JS Jang, SJ An, HH Kim, BK Choi_
+## Microbial Analysis of Umbilical Cord Blood Reveals Novel Pathogens Associated with Stillbirth and Early Preterm Birth.
+ 22.08.2022, _EL Vander Haar, G Wu, C Gyamfi-Bannerman, C Thomas, RJ Wapner, UM Reddy, L Zhao, RM Silver, RL Goldenberg, YW Han_
 
 
-_Extracellular Vesicles, Lipopolysaccharides, Lipoprotein Lipase, Microbiota, Osteoclasts, Porphyromonas gingivalis, Toll-Like Receptor 2, Toll-Like Receptor 4_
-Dysbiosis of the oral microbiota plays an important role in the progression of periodontitis, which is characterized by chronic inflammation and alveolar bone loss, and associated with systemic diseases. Bacterial extracellular vesicles (EVs) contain various bioactive molecules and show diverse effects on host environments depending on the bacterial species. Recently, we reported that EVs derived from Filifactor alocis, a Gram-positive periodontal pathogen, had osteoclastogenic activity. In the present study, we analysed the osteoclastogenic potency and immunostimulatory activity of EVs derived from the Gram-negative periodontal pathogens Porphyromonas gingivalis and Tannerella forsythia, the oral commensal bacterium Streptococcus oralis, and the gut probiotic strain Lactobacillus reuteri. Bacterial EVs were purified by density gradient ultracentrifugation using OptiPrep (iodixanol) reagent. EVs from P. gingivalis, T. forsythia, and S. oralis increased osteoclast differentiation and osteoclstogenic cytokine expression in osteoclast precursors, whereas EVs from L. reuteri did not. EVs from P. gingivalis, T. forsythia, and S. oralis preferentially activated Toll-like receptor 2 (TLR2) rather than TLR4 or TLR9, and induced osteoclastogenesis mainly through TLR2. The osteoclastogenic effects of EVs from P. gingivalis and T. forsythia were reduced by both lipoprotein lipase and polymyxin B, an inhibitor of lipopolysaccharide (LPS), while the osteoclastogenic effects of EVs from S. oralis were reduced by lipoprotein lipase alone. These results demonstrate that EVs from periodontal pathogens and oral commensal have osteoclastogenic activity through TLR2 activation by lipoproteins and/or LPS.
+Stillbirths account for half of all perinatal mortality, but the underlying cause of a significant portion of the cases remains unknown. We set out to test the potential role and extent of microbial infection in stillbirth through a case-control analysis of fetal cord blood collected from the multisite Stillbirth Collaborative Research Network. Cases (n = 60) were defined as stillbirths at &gt;20 weeks of gestation, and controls (n = 176) were live births. The bacterial presence, abundance, and composition were analyzed by endpoint PCR of full-length 16S rRNA and the V4 amplicon sequence variants (ASVs). The results demonstrate that bacterial prevalence and abundance were both significantly increased in stillbirth, even after adjusting for maternal age, race, body mass index, number of pregnancies, gestational age, and multiple gestations. Composition of bacterial communities in the cord blood also differed significantly. Using a group of 25 ASVs differentially abundant between the two groups, a Random Forest classification model achieved an accuracy score of 0.76 differentiating stillbirth and live birth, with Group B Streptococcus as the most enriched species in stillbirth. Positive PCR was also significantly associated with early preterm birth. A group of oral anaerobes, including Actinomyces, Campylobacter, Fusobacterium, Peptostreptococcus, Porphyromonas, and Prevotella, were enriched in live early preterm birth, suggesting possible oral origin of infection. Our ASV-based microbiome analysis revealed specific candidate pathogens associated with infections in stillbirth and early preterm birth. The cord blood microbial signatures may be markers of adverse pregnancy outcomes. Our study will help identify possible mechanism of infection and improve our ability to prevent stillbirth and early preterm birth. IMPORTANCE Stillbirth accounts for half of all perinatal mortality, but the underlying cause of a substantial portion of all cases remains elusive. We examined the umbilical cord blood microbiome in stillbirths (n = 60) and live births (n = 176) and discovered that the bacterial prevalence and abundance were significantly higher in stillbirths than live births. The microbial compositions also differed significantly. Group B Streptococcus was the most prevalent species detected in stillbirth. In addition, pathogens previously unknown to be associated with stillbirth were identified. A group of oral anaerobes including Fusobacterium nucleatum were found to be specifically enriched in the cord blood in early preterm live birth. This is by far the most comprehensive study to examine the microbial signatures in umbilical cord blood. Cord blood microbial signatures may be markers for adverse birth outcomes. Detection of key microbial signatures will help identify individuals at risk and develop effective preventative strategies.
 
-[Source](https://doi.org/10.1038/s41598-022-18412-4)
+[Source](https://journals.asm.org/doi/10.1128/mbio.02036-22)
 
-10.1038/s41598-022-18412-4
-
----
-
-## <em>Porphyromonas gingivalis</em> is a risk factor for the development of nonalcoholic fatty liver disease via ferroptosis
-
-[Source](https://doi.org/10.1016/j.micinf.2022.105040)
+10.1128/mbio.02036-22
 
 ---
 
-## The Role of a Gut Microbial-Derived Metabolite, Trimethylamine N-Oxide (TMAO), in Neurological Disorders.
- 20.08.2022, _SS Praveenraj, S Sonali, N Anand, HA Tousif, C Vichitra, M Kalyan, PV Kanna, KA Chandana, P Shasthara, AM Mahalakshmi, J Yang, SR Pandi-Perumal, MK Sakharkar, SB Chidambaram_
+## The respiratory microbiota alpha-diversity in chronic lung diseases: first systematic review and meta-analysis
 
-
-Trimethylamine lyases are expressed in a wide range of intestinal microbiota which metabolize dietary nutrients like choline, betaine, and L-carnitine to form trimethylamine (TMA). Trimethylamine N-oxide (TMAO) is an oxidative product of trimethylamine (TMA) catalyzed by the action of flavin monooxygenases (FMO) in the liver. Higher levels of TMAO in the plasma and cerebrospinal fluid (CSF) have been shown to contribute to the development of risk factors and actively promote the pathogenesis of metabolic, cardiovascular, and cerebrovascular diseases. The investigations on the harmful effects of TMAO in the development and progression of neurodegenerative and sleep disorders are summarized in this manuscript. Clinical investigations on the role of TMAO in predicting risk factors and prognostic factors in patients with neurological disorders are also summarized. It is observed that the mechanisms underlying TMAO-mediated pathogenesis include activation of inflammatory signaling pathways such as nuclear factor kappa B (NF-κβ), NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3) inflammasome, and MAPK/JNK in the periphery and brain. Data suggests that TMAO levels increase with age-related cognitive dysfunction and also induce mitochondrial dysfunction, oxidative stress, neuronal senescence, and synaptic damage in the brain. Further research into the relationships between dietary food consumption and gut microbiota-dependent TMAO levels could provide novel therapeutic options for neurological illnesses.
-
-[Source](https://doi.org/10.1007/s12035-022-02990-5)
-
-10.1007/s12035-022-02990-5
+[Source](https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-022-02132-4)
 
 ---
 
-## The association between early-life gut microbiota and childhood respiratory diseases: a systematic review.
- 21.08.2022, _CG Alcazar, VM Paes, Y Shao, C Oesser, A Miltz, TD Lawley, P Brocklehurst, A Rodger, N Field_
+## Saliva microbiome, dietary, and genetic markers are associated with suicidal ideation in university students.
+ 22.08.2022, _AP Ahrens, DE Sanchez-Padilla, JC Drew, MW Oli, LFW Roesch, EW Triplett_
 
 
-Data from animal models suggest a role of early-life gut microbiota in lung immune development, and in establishing susceptibility to respiratory infections and asthma in humans. This systematic review summarises the association between infant (ages 0-12 months) gut microbiota composition measured by genomic sequencing, and childhood (ages 0-18 years) respiratory diseases (ie, respiratory infections, wheezing, or asthma). Overall, there was evidence that low α-diversity and relative abundance of particular gut-commensal bacteria genera (Bifidobacterium, Faecalibacterium, Ruminococcus, and Roseburia) are associated with childhood respiratory diseases. However, results were inconsistent and studies had important limitations, including insufficient characterisation of bacterial taxa to species level, heterogeneous outcome definitions, residual confounding, and small sample sizes. Large longitudinal studies with stool sampling during the first month of life and shotgun metagenomic approaches to improve bacterial and fungal taxa resolution are needed. Standardising follow-up times and respiratory disease definitions and optimising causal statistical approaches might identify targets for primary prevention of childhood respiratory diseases.
+Here, salivary microbiota and major histocompatibility complex (MHC) human leukocyte antigen (HLA) alleles were compared between 47 (12.6%) young adults with recent suicidal ideation (SI) and 325 (87.4%) controls without recent SI. Several bacterial taxa were correlated with SI after controlling for sleep issues, diet, and genetics. Four MHC class II alleles were protective for SI including DRB1*04, which was absent in every subject with SI while present in 21.7% of controls. Increased incidence of SI was observed with four other MHC class II alleles and two MHC class I alleles. Associations between these HLA alleles and salivary bacteria were also identified. Furthermore, rs10437629, previously associated with attempted suicide, was correlated here with SI and the absence of Alloprevotella rava, a producer of an organic acid known to promote brain energy homeostasis. Hence, microbial-genetic associations may be important players in the diathesis-stress model for suicidal behaviors.
 
-[Source](https://doi.org/10.1016/S2666-5247(22)00184-7)
+[Source](https://www.nature.com/articles/s41598-022-18020-2)
 
-10.1016/S2666-5247(22)00184-7
-
----
-
-## Effect of <em>Bifidobacterium animalis</em> subsp.<em> lactis</em> SF on enhancing the tumor suppression of irinotecan by regulating the intestinal flora
-
-[Source](https://doi.org/10.1016/j.phrs.2022.106406)
+10.1038/s41598-022-18020-2
 
 ---
 
-## Effect of probiotic supplementation on plasma metabolite profile after Roux-Y gastric bypass: a prospective, randomized, double-blind, placebo-controlled clinical trial.
- 20.08.2022, _MRZ Ramos, I Felicidade, L de Oliveira Carlos, NRF Wagner, MS Mantovani, LVA de Lima, LR Ribeiro, TIB Lopes, FC Henrique-Bana, JV Zimmerman, FC Macedo Junior, MRR da Cruz, ACL Campos_
+## Fate of Escherichia coli artificially inoculated in Tenebrio molitor L. larvae rearing chain for human consumption.
+ 29.06.2022, _C Cesaro, C Mannozzi, A Lepre, I Ferrocino, L Corsi, I Franciosa, L Belleggia, V Milanović, F Cardinali, C Garofalo, L Cocolin, L Aquilanti, S Ruschioni, N Isidoro, P Riolo, A Osimani_
 
 
-There is evidence that metabolic profile changes after Roux-Y gastric bypass (RYGB), especially due to modifications in the gastrointestinal tract. In addition, previous studies have suggested that probiotics can modify the microbiome and produce metabolites important for metabolic health maintenance. In this sense, the aim of this study was to verify the influence of probiotic supplementation on the plasma metabolite profile after RYGB.
+_Animals, Edible Insects, Escherichia coli, Humans, Larva, Pupa, Tenebrio_
+The edible insect food chain represents a relatively novel food-producing system; hence, associated biological risks still need to be exhaustively evaluated. In the present study, the dynamics of Escherichia coli during the whole living period of Tenebrio molitor larvae (from eggs to pupae) were studied. To this end, a rearing substrate consisting of organic wheat middlings was spiked with E. coli cells at two initial contamination levels: 1 log cfu g-1 (low) and 6 log cfu g-1 (high). Microbial viability counting coupled with metataxonomic analyses was used to assess i) the persistence and growth of E. coli in the rearing substrate (wheat middlings); ii) the colonization and growth of E. coli in the insect larvae; and iii) the occurrence and load of E. coli in the frass (excrement from larvae mixed with substrate residues). The results highlighted a very limited persistence of the pathogen in all analyzed samples. In more detail, the results suggested that when E. coli was present at very low levels in the eggs of the insect, the pathogen was not able to reach concerning levels in the larvae. Moreover, when E. coli was present in the wheat middlings used for rearing, the environmental conditions of the substrate (low aw values) were not favorable for its survival and multiplication, irrespective of the presence of the larvae and their frass. Surprisingly, under the conditions applied in the present study, the larvae fed wheat middlings contaminated with E. coli seemed to be inhospitable or even hostile environments for microbial survival or multiplication. To explain the low levels of E. coli cells in the larvae reared in the present study, many factors can be considered, including the immune response of the host, microbial composition and interactions established in the gut of larvae, and insect species. Of note, part of the major fraction of the microbiota of larvae at the end of rearing was represented by Lactococcus, thus suggesting a possible effect of this lactic acid bacterium on E. coli decay. Further research is needed to better clarify the interactions between E. coli and the insect gut, as well as the interactions established among the target microorganism and those naturally harbored by the insect gut.
 
-[Source](https://doi.org/10.1038/s41366-022-01213-0)
+[Source](https://www.nature.com/articles/s41586-020-2971-8)
 
-10.1038/s41366-022-01213-0
-
----
-
-## <em>Faecalibaculum rodentium</em> remodels retinoic acid signaling to govern eosinophil-dependent intestinal epithelial homeostasis
-
-[Source](https://doi.org/10.1016/j.chom.2022.07.015)
+10.1016/j.foodres.2022.111269
 
 ---
 
-## Human milk nutrient fortifiers alter the developing gastrointestinal microbiota of very-low-birth-weight infants
+## The gut microbiota is associated with immune cell dynamics in humans
 
-[Source](https://doi.org/10.1016/j.chom.2022.07.011)
-
----
-
-## Diversity of ethanolamine utilization by human commensal <em>Escherichia coli</em>
-
-[Source](https://doi.org/10.1016/j.resmic.2022.103989)
+[Source](https://www.nature.com/articles/s41586-020-2971-8)
 
 ---
 
-## Archaea from the gut microbiota of humans: Could be linked to chronic diseases?
- 19.08.2022, _D Mafra, M Ribeiro, L Fonseca, B Regis, LFMF Cardozo, H Fragoso Dos Santos, H Emiliano de Jesus, J Schultz, PG Shiels, P Stenvinkel, A Rosado_
+## The systemic anti-microbiota IgG repertoire can identify gut bacteria that translocate across gut barrier surfaces.
+ 19.08.2022, _I Vujkovic-Cvijin, HC Welles, CWY Ha, L Huq, S Mistry, JM Brenchley, G Trinchieri, S Devkota, Y Belkaid_
 
 
-Archaea comprise a unique domain of organisms with distinct biochemical and genetic differences from bacteria. Methane-forming archaea, methanogens, constitute the predominant group of archaea in the human gut microbiota, with Methanobrevibacter smithii being the most prevalent. However, the effect of methanogenic archaea and their methane production on chronic disease remains controversial. As perturbation of the microbiota is a feature of chronic conditions, such as cardiovascular disease, neurodegenerative diseases and chronic kidney disease, assessing the influence of archaea could provide a new clue to mitigating adverse effects associated with dysbiosis. In this review, we will discuss the putative role of archaea in the gut microbiota in humans and the possible link to chronic diseases.
+_Animals, Bacteria, Gastrointestinal Microbiome, Humans, Immunoglobulin G, Inflammatory Bowel Diseases, Mice, Microbiota_
+Unique gut microbiota compositions have been associated with inflammatory diseases, but identifying gut bacterial functions linked to immune activation in humans remains challenging. Translocation of pathogens from mucosal surfaces into peripheral tissues can elicit immune activation, although whether and which gut commensal bacteria translocate in inflammatory diseases is difficult to assess. We report that a subset of commensal gut microbiota constituents that translocate across the gut barrier in mice and humans are associated with heightened systemic immunoglobulin G (IgG) responses. We present a modified high-throughput, culture-independent approach to quantify systemic IgG against gut commensal bacteria in human serum samples without the need for paired stool samples. Using this approach, we highlight several commensal bacterial species that elicit elevated IgG responses in patients with inflammatory bowel disease (IBD) including taxa within the clades Collinsella, Bifidobacterium, Lachnospiraceae, and Ruminococcaceae. These and other taxa identified as translocating bacteria or targets of systemic immunity in IBD concomitantly exhibited heightened transcriptional activity and growth rates in IBD patient gut microbiomes. Our approach represents a complementary tool to illuminate interactions between the host and its gut microbiota and may provide an additional method to identify microbes linked to inflammatory disease.
 
-[Source](https://doi.org/10.1016/j.anaerobe.2022.102629)
+[Source](https://www.science.org/doi/abs/10.1126/scitranslmed.abl3927)
 
-10.1016/j.anaerobe.2022.102629
-
----
-
-## Genomic insights into the phylogeny and biomass-degrading enzymes of rumen ciliates.
- 19.08.2022, _Z Li, X Wang, Y Zhang, Z Yu, T Zhang, X Dai, X Pan, R Jing, Y Yan, Y Liu, S Gao, F Li, Y Huang, J Tian, J Yao, X Xing, T Shi, J Ning, B Yao, H Huang, Y Jiang_
-
-
-Understanding the biodiversity and genetics of gut microbiomes has important implications for host physiology and industrial enzymes, whereas most studies have been focused on bacteria and archaea, and to a lesser extent on fungi and viruses. One group, still underexplored and elusive, is ciliated protozoa, despite its importance in shaping microbiota populations. Integrating single-cell sequencing and an assembly-and-identification pipeline, we acquired 52 high-quality ciliate genomes of 22 rumen morphospecies from 11 abundant morphogenera. With these genomes, we resolved the taxonomic and phylogenetic framework that revised the 22 morphospecies into 19 species spanning 13 genera and reassigned the genus Dasytricha from Isotrichidae to a new family Dasytrichidae. Comparative genomic analyses revealed that extensive horizontal gene transfers and gene family expansion provided rumen ciliate species with a broad array of carbohydrate-active enzymes (CAZymes) to degrade all major kinds of plant and microbial carbohydrates. In particular, the genomes of Diplodiniinae and Ophryoscolecinae species encode as many CAZymes as gut fungi, and ~80% of their degradative CAZymes act on plant cell-wall. The activities of horizontally transferred cellulase and xylanase of ciliates were experimentally verified and were 2-9 folds higher than those of the inferred corresponding bacterial donors. Additionally, the new ciliate dataset greatly facilitated rumen metagenomic analyses by allowing ~12% of the metagenomic sequencing reads to be classified as ciliate sequences.
-
-[Source](https://doi.org/10.1038/s41396-022-01306-8)
-
-10.1038/s41396-022-01306-8
+10.1126/scitranslmed.abl3927
 
 ---
 
-## Microbiota and mobile genetic elements influence antibiotic resistance genes in dust from dense urban public places.
- 23.08.2022, _T Feng, Q Han, W Su, Q Yu, J Yang, H Li_
+## Higher pathogen load in children from Mozambique vs. USA revealed by comparative fecal microbiome profiling
 
-
-Many contaminants were carried by dust, a common environment media that is easy to contact with human beings, and antibiotic resistance genes (ARGs) as an emergency pollutant also harbor in dust and pose serious threats to human health especially those carried by opportunistic pathogens because inactivation of antibiotics caused by ARGs may enhance pathogenicity. Considering there is a gap of investigation of dust ARGs, 16 S rRNA gene sequences and high-throughput quantitative PCR were employed to obtain information of microbial communities and accumulated ARGs in dust from different urban places, including the malls, hospitals, schools and parks, to investigate the distribution and influencing factors of ARGs and discover the potential hosts of ARGs in dust. Here, 9 types of ARGs such as sulfonamide, tetracycline, and beta-lactamase and 71 subtypes of ARGs like sul1, tetM-01, and drfA1 were detected in dust. ARGs had varying distribution in different public places and seasons in dust. The abundances of total ARGs, MLSB and tetracycline genes were higher in spring than summer. The diversity of ARGs was highest in malls, follow by hospitals, schools, and parks. Additionally, multi-drug resistance genes in dust were more abundant in hospitals than in schools and parks. The microbes were distinguished as the most important driving factors for ARGs in dust, followed by the mobile genetic elements (MGEs) and different places, while dust physicochemical parameters only exert a negligible impact. Notably, several opportunistic pathogens like the Streptococcus, Vibrio, and Pseudomonas were inferred as potential hosts of high-risk ARGs such as mecA, tetM-02, and tetO-01 in dust because of strongly positive co-occurrence. These results imply that dust is likely an important reservoir of ARGs. We should realize that ARGs may be harbored in some opportunistic pathogens occur in dust and endanger human health because of dust contacting to human easily.
-
-[Source](https://doi.org/10.1016/j.envpol.2022.119991)
-
-10.1016/j.envpol.2022.119991
+[Source](https://www.nature.com/articles/s43705-022-00154-z)
 
 ---
 
-## Synergy between microalgae and microbiome in polluted waters.
- 19.08.2022, _N Ashraf, F Ahmad, Y Lu_
+## Correlation of inflammatory biomarkers with the diversity of Bacteroidaceae, Bifidobacteriaceae, Prevotellaceae and Lactobacillaceae families in the intestinal microbiota of patients with end stage renal disease.
+ 22.08.2022, _M Asgharian, P Gholizadeh, H Samadi Kafil, M Ghojazadeh, A Samadi, J Soleymani, A Jouyban, H Tayebi Khosroshahi_
 
 
-Microalga-microbiome interactions are central to both health and disease of aquatic environments. Despite impressive advances in deciphering how microorganisms participate in and impact aquatic ecosystems, the evolution and ecological involvement of microalgae and the microbiome in polluted waters are typically studied independently. Here, the phycosphere (i.e., the consortia of microalgae and the related microbiome) is regarded as an independent and integrated life form, and we summarize the survival strategies exhibited by this symbiont when exposed to anthropogenic pollution. We highlight the cellular strategies and discuss the modulation at the transcriptional and population levels, which reciprocally alters community structure or genome composition for medium-term acclimation or long-term adaptation. We propose a 'PollutantBiome' concept to help the understanding of microalga-microbiome interactions and development of beneficial microbial synthetic communities for pollutant remediation.
+Serum levels of inflammatory cytokines and uremic toxins, and their inter-correlations with the diversity of Bacteroidaceae, Bifidobacteriaceae, Prevotellaceae and Lactobacillaceae families in intestinal microbiota were investigated in patients with end stage renal disease (ESRD).
 
-[Source](https://doi.org/10.1016/j.tim.2022.06.004)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1896112622000281)
 
-10.1016/j.tim.2022.06.004
+10.1016/j.advms.2022.07.004
 
 ---
 
-## Molecular tools for probing the microbiome.
- 19.08.2022, _MT Torres, C de la Fuente-Nunez_
+## Impact of the Host Microbiome on Vaccine Responsiveness: Lessons Learned and Future Perspective.
+ 22.08.2022, _G Stefanetti, DL Kasper_
 
 
-The microbiome plays essential roles in health and disease. Our understanding of the imbalances that can arise in the microbiome and their consequences is held back by a lack of technologies that selectively knock out members of these microbial communities. Antibiotics and fecal transplants, the existing methods for manipulating the microbiota of the gastrointestinal tract, are not sufficiently pinpointed to reveal how particular microbial genes, strains, or species affect human health. A toolset for the precise manipulation of the microbiome could significantly advance disease diagnosis and treatment. Here, we provide an overview of current and future strategies for the development of molecular tools that can be used to probe the microbiome without producing off-target effects.
+Vaccination shows high variability in the elicited immune responses among individuals and populations for reasons still poorly understood. An increasing number of studies is supporting the evidence that gut microbiota, along with other interplaying variables, is able to modulate both humoral and cellular responses to infection and vaccination. Importantly, vaccine immunogenicity is often suboptimal at the extremes of age and also in low- and middle-income countries (LMICs), where the microbiota is believed to have an important role on immune responses. Still, contrasting findings and lack of causal evidence are calling for sophisticated methodologies to be able to overcome scientific and technical challenges to better decipher the immunomodulatory role of microbiota. In this perspective, we briefly review the status of the vaccine field in relation to the microbiome and offer possible scientific approaches to better understand the impact of the host microbiome on vaccine responsiveness.
 
-[Source](https://doi.org/10.1016/j.sbi.2022.102415)
+[Source](https://pubs.acs.org/doi/10.1021/acs.biochem.2c00309)
 
-10.1016/j.sbi.2022.102415
+10.1021/acs.biochem.2c00309
+
+---
+
+## Location-specific signatures of Crohn’s disease at a multi-omics scale
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01331-x)
+
+---
+
+## Association of food insecurity on gut microbiome and metabolome profiles in a diverse college-based sample
+
+[Source](https://www.nature.com/articles/s41598-022-18515-y)
+
+---
+
+## The Diversity and Functional Capacity of Microbes Associated with Coastal Macrophytes
+
+[Source](https://journals.asm.org/doi/10.1128/msystems.00592-22)
+
+---
+
+## Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiom
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01332-w)
+
+---
+
+## Extending and improving metagenomic taxonomic profiling with uncharacterized species with MetaPhlAn 4
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.08.22.504593v1)
+
+---
+
+## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data
+
+[Source](https://www.nature.com/articles/s41467-022-32243-x)
+
+---
+
+## Primers matter: Influence of the primer selection on human fungal detection using high throughput sequencing
+
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2110638)
+
+---
+
+## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples
+
+[Source](https://journals.asm.org/doi/10.1128/msystems.00491-22)
 
 ---
 
