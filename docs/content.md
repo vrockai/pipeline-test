@@ -11,21 +11,15 @@ The human microbiome harbours a large capacity for within-person adaptive mutati
 
 ---
 
-## Stunting as a Risk Factor of Soil-Transmitted Helminthiasis in Children: A Literature Review.
- 16.08.2022, _N Fauziah, MA Ar-Rizqi, S Hana, NM Patahuddin, A Diptyanusa_
+## Soil microbiomes and one health.
+ 23.08.2022, _S Banerjee, MGA van der Heijden_
 
 
-As a high-burden neglected tropical disease, soil-transmitted helminth (STH) infections remain a major problem in the world, especially among children under five years of age. Since young children are at high risk of being infected, STH infection can have a long-term negative impact on their life, including impaired growth and development. Stunting, a form of malnutrition in young children, has been long assumed as one of the risk factors in acquiring the STH infections. However, the studies on STH infection in children under five with stunting have been lacking, resulting in poor identification of the risk. Accordingly, we collected and reviewed existing related research articles to provide an overview of STH infection in a susceptible population of stunted children under five years of age in terms of prevalence and risk factors. There were 17 studies included in this review related to infection with Ascaris lumbricoides, Trichuris trichiura, hookworm, and Strongyloides stercoralis from various countries. The prevalence of STH infection in stunted children ranged from 12.5% to 56.5%. Increased inflammatory markers and intestinal microbiota dysbiosis might have increased the intensity of STH infection in stunted children that caused impairment in the immune system. While the age from 2 to 5 years along with poor hygiene and sanitation has shown to be the most common risk factors of STH infections in stunted children; currently there are no studies that show direct results of stunting as a risk factor for STH infection. While stunting itself may affect the pathogenesis of STH infection, further research on stunting as a risk factor for STH infection is encouraged.
-
-[Source](https://www.nature.com/articles/s41579-022-00779-w)
-
-10.1155/2022/8929025
-
----
-
-## Soil microbiomes and one health
+The concept of one health highlights that human health is not isolated but connected to the health of animals, plants and environments. In this Review, we demonstrate that soils are a cornerstone of one health and serve as a source and reservoir of pathogens, beneficial microorganisms and the overall microbial diversity in a wide range of organisms and ecosystems. We list more than 40 soil microbiome functions that either directly or indirectly contribute to soil, plant, animal and human health. We identify microorganisms that are shared between different one health compartments and show that soil, plant and human microbiomes are perhaps more interconnected than previously thought. Our Review further evaluates soil microbial contributions to one health in the light of dysbiosis and global change and demonstrates that microbial diversity is generally positively associated with one health. Finally, we present future challenges in one health research and formulate recommendations for practice and evaluation.
 
 [Source](https://www.nature.com/articles/s41579-022-00779-w)
+
+10.1038/s41579-022-00779-w
 
 ---
 
@@ -41,9 +35,15 @@ Stillbirths account for half of all perinatal mortality, but the underlying caus
 
 ---
 
-## The respiratory microbiota alpha-diversity in chronic lung diseases: first systematic review and meta-analysis
+## The respiratory microbiota alpha-diversity in chronic lung diseases: first systematic review and meta-analysis.
+ 23.08.2022, _M Avalos-Fernandez, T Alin, C Métayer, R Thiébaut, R Enaud, L Delhaes_
+
+
+While there seems to be a consensus that a decrease in gut microbiome diversity is related to a decline in health status, the associations between respiratory microbiome diversity and chronic lung disease remain a matter of debate. We provide a systematic review and meta-analysis of studies examining lung microbiota alpha-diversity in patients with asthma, chronic obstructive pulmonary disease (COPD), cystic fibrosis (CF) or bronchiectasis (NCFB), in which a control group based on disease status or healthy subjects is provided for comparison.
 
 [Source](https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-022-02132-4)
+
+10.1186/s12931-022-02132-4
 
 ---
 
