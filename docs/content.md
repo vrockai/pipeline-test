@@ -48,9 +48,10 @@ Stillbirths account for half of all perinatal mortality, but the underlying caus
 ---
 
 ## Saliva microbiome, dietary, and genetic markers are associated with suicidal ideation in university students.
- 22.08.2022, _AP Ahrens, DE Sanchez-Padilla, JC Drew, MW Oli, LFW Roesch, EW Triplett_
+ 24.08.2022, _AP Ahrens, DE Sanchez-Padilla, JC Drew, MW Oli, LFW Roesch, EW Triplett_
 
 
+_Alleles, Diet, Genetic Markers, Genetic Predisposition to Disease, HLA Antigens, HLA-DRB1 Chains, Histocompatibility Antigens Class II, Humans, Microbiota, Saliva, Students, Suicidal Ideation, Universities, Young Adult_
 Here, salivary microbiota and major histocompatibility complex (MHC) human leukocyte antigen (HLA) alleles were compared between 47 (12.6%) young adults with recent suicidal ideation (SI) and 325 (87.4%) controls without recent SI. Several bacterial taxa were correlated with SI after controlling for sleep issues, diet, and genetics. Four MHC class II alleles were protective for SI including DRB1*04, which was absent in every subject with SI while present in 21.7% of controls. Increased incidence of SI was observed with four other MHC class II alleles and two MHC class I alleles. Associations between these HLA alleles and salivary bacteria were also identified. Furthermore, rs10437629, previously associated with attempted suicide, was correlated here with SI and the absence of Alloprevotella rava, a producer of an organic acid known to promote brain energy homeostasis. Hence, microbial-genetic associations may be important players in the diathesis-stress model for suicidal behaviors.
 
 [Source](https://www.nature.com/articles/s41598-022-18020-2)
@@ -98,7 +99,7 @@ Unique gut microbiota compositions have been associated with inflammatory diseas
 ---
 
 ## Correlation of inflammatory biomarkers with the diversity of Bacteroidaceae, Bifidobacteriaceae, Prevotellaceae and Lactobacillaceae families in the intestinal microbiota of patients with end stage renal disease.
- 22.08.2022, _M Asgharian, P Gholizadeh, H Samadi Kafil, M Ghojazadeh, A Samadi, J Soleymani, A Jouyban, H Tayebi Khosroshahi_
+ 24.08.2022, _M Asgharian, P Gholizadeh, H Samadi Kafil, M Ghojazadeh, A Samadi, J Soleymani, A Jouyban, H Tayebi Khosroshahi_
 
 
 Serum levels of inflammatory cytokines and uremic toxins, and their inter-correlations with the diversity of Bacteroidaceae, Bifidobacteriaceae, Prevotellaceae and Lactobacillaceae families in intestinal microbiota were investigated in patients with end stage renal disease (ESRD).
@@ -163,15 +164,9 @@ Vaccination shows high variability in the elicited immune responses among indivi
 
 ---
 
-## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples.
- 22.08.2022, _JL Baker_
-
-
-Obtaining complete, high-quality reference genomes is essential to the study of any organism. Recent advances in nanopore sequencing, as well as genome assembly and analysis methods, have made it possible to obtain complete bacterial genomes from metagenomic (i.e., multispecies) samples, including those from the human microbiome. In this study, methods are presented to obtain complete bacterial genomes from human saliva using complementary Oxford Nanopore (ONT) and Illumina sequencing. Applied to 3 human saliva samples, these methods resulted in 11 complete bacterial genomes: 3 Saccharibacteria clade G6 (also known as Ca. Nanogingivalaceae HMT-870), 1 Saccharibacteria clade G1 HMT-348, 2 Rothia mucilaginosa, 2 Actinomyces graevenitzii, 1 Mogibacterium diversum, 1 Lachnospiraceae HMT-096, and 1 Lancefieldella parvula; and one circular chromosome of Ruminococcaceae HMT-075 (which likely has at least 2 chromosomes). The 4 Saccharibacteria genomes, as well as the Actinomyces graeventizii genomes, represented the first complete genomes from their respective bacterial taxa. Aside from the complete genomes, the assemblies contained 147 contigs of over 500,000 bp each and thousands of smaller contigs, together representing a myriad of additional draft genomes including many which are likely nearly complete. The complete genomes enabled highly accurate pangenome analysis, which identified unique and missing features of each genome compared to its closest relatives with complete genomes available in public repositories. These features provide clues as to the lifestyle and ecological role of these bacteria within the human oral microbiota, which will be particularly useful in designing future studies of the taxa that have never been isolated or cultivated. IMPORTANCE Obtaining complete and accurate genomes is crucial to the study of any organism. Previously, obtaining complete genomes of bacteria, including those of the human microbiome, frequently required isolation of the organism, as well as low-throughput, manual sequencing methods to resolve repeat regions. Advancements in long-read sequencing technologies, including Oxford Nanopore (ONT), have made it possible to obtain complete, closed bacterial genomes from metagenomic samples. This study reports methods to obtain complete genomes from the human oral microbiome using complementary ONT and Illumina sequencing of saliva samples. Eleven complete genomes were obtained from 3 human saliva samples, with genomes of Saccharibacteria HMT-870, Saccharibacteria HMT-348, and Actinomyces graeventzii being the first complete genomes from their respective taxa. Obtaining complete bacterial genomes in a high-throughput manner will help illuminate the metabolic and ecological roles of important members of the human microbiota, particularly those that have remained recalcitrant to isolation and cultivation.
+## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00491-22)
-
-10.1128/msystems.00491-22
 
 ---
 
