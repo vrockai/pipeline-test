@@ -36,9 +36,10 @@ Stillbirths account for half of all perinatal mortality, but the underlying caus
 ---
 
 ## The respiratory microbiota alpha-diversity in chronic lung diseases: first systematic review and meta-analysis.
- 23.08.2022, _M Avalos-Fernandez, T Alin, C Métayer, R Thiébaut, R Enaud, L Delhaes_
+ 25.08.2022, _M Avalos-Fernandez, T Alin, C Métayer, R Thiébaut, R Enaud, L Delhaes_
 
 
+_Bronchiectasis, Cystic Fibrosis, Gastrointestinal Microbiome, Humans, Lung, Microbiota, Respiration Disorders_
 While there seems to be a consensus that a decrease in gut microbiome diversity is related to a decline in health status, the associations between respiratory microbiome diversity and chronic lung disease remain a matter of debate. We provide a systematic review and meta-analysis of studies examining lung microbiota alpha-diversity in patients with asthma, chronic obstructive pulmonary disease (COPD), cystic fibrosis (CF) or bronchiectasis (NCFB), in which a control group based on disease status or healthy subjects is provided for comparison.
 
 [Source](https://respiratory-research.biomedcentral.com/articles/10.1186/s12931-022-02132-4)
@@ -159,9 +160,10 @@ Coastal marine macrophytes exhibit some of the highest rates of primary producti
 ---
 
 ## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data.
- 23.08.2022, _H Lin, M Eggesbø, SD Peddada_
+ 25.08.2022, _H Lin, M Eggesbø, SD Peddada_
 
 
+_Adult, Bacteria, Child, Gastrointestinal Microbiome, Humans, Infant, Microbiota, Skin_
 It is well-known that human gut microbiota form an ecosystem where microbes interact with each other. Due to complex underlying interactions, some microbes may correlate nonlinearly. There are no measures in the microbiome literature we know of that quantify these nonlinear relationships. Here, we develop a methodology called Sparse Estimation of Correlations among Microbiomes (SECOM) for estimating linear and nonlinear relationships among microbes while maintaining the sparsity. SECOM accounts for both sample and taxon-specific biases in its model. Its statistical properties are evaluated analytically and by comprehensive simulation studies. We test SECOM in two real data sets, namely, forehead and palm microbiome data from college-age adults, and Norwegian infant gut microbiome data. Given that forehead and palm are related to skin, as desired, SECOM discovers each genus to be highly correlated between the two sites, but that is not the case with any of the competing methods. It is well-known that infant gut evolves as the child grows. Using SECOM, for the first time in the literature, we characterize temporal changes in correlations among bacterial families during a baby's first year after birth.
 
 [Source](https://www.nature.com/articles/s41467-022-32243-x)
