@@ -159,16 +159,9 @@ Vaccination shows high variability in the elicited immune responses among indivi
 
 ---
 
-## Primers matter: Influence of the primer selection on human fungal detection using high throughput sequencing.
- 23.08.2022, _C Wiesmann, K Lehr, J Kupcinskas, R Vilchez-Vargas, A Link_
-
-
-_DNA, Fungal, Fungi, Gastrointestinal Microbiome, High-Throughput Nucleotide Sequencing, Humans, Mycobiome_
-Microbiota research has received an increasing attention for its role in disease development and fungi are considered as one of the key players in the microbial niche. Various sequencing approaches have been applied to uncover the role of fungal community in health and disease; however, little is known on the performance of various primers and comparability between the studies. Motivated by the recent publications, we performed a systematic comparison of the 18S and ITS regions to identify the impact of various primers on the sequencing results. Using four pairs of primers extensively used in literature, fungal community was retrieve from 25 fecal samples, and applying high throughput sequencing; and the results were compared in order to select the most suitable primers for fungal detection in human fecal samples. Considering the high variability between samples, primers described in the Earth microbiome project detected the broadest fungal spectrum suggesting its superior performance in mycobiome research.
+## Primers matter: Influence of the primer selection on human fungal detection using high throughput sequencing
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2110638)
-
-10.1080/19490976.2022.2110638
 
 ---
 
