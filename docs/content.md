@@ -135,15 +135,9 @@ Vaccination shows high variability in the elicited immune responses among indivi
 
 ---
 
-## The Diversity and Functional Capacity of Microbes Associated with Coastal Macrophytes.
- 22.08.2022, _K Miranda, BL Weigel, EC Fogarty, IA Veseli, AE Giblin, AM Eren, CA Pfister_
-
-
-Coastal marine macrophytes exhibit some of the highest rates of primary productivity in the world. They have been found to host a diverse set of microbes, many of which may impact the biology of their hosts through metabolisms that are unique to microbial taxa. Here, we characterized the metabolic functions of macrophyte-associated microbial communities using metagenomes collected from 2 species of kelp (Laminaria setchellii and Nereocystis luetkeana) and 3 marine angiosperms (Phyllospadix scouleri, P. serrulatus, and Zostera marina), including the rhizomes of two surfgrass species (Phyllospadix spp.), the seagrass Zostera marina, and the sediments surrounding P. scouleri and Z. marina. Using metagenomic sequencing, we describe 63 metagenome-assembled genomes (MAGs) that potentially benefit from being associated with macrophytes and may contribute to macrophyte fitness through their metabolic activity. Host-associated metagenomes contained genes for the use of dissolved organic matter from hosts and vitamin (B1, B2, B7, B12) biosynthesis in addition to a range of nitrogen and sulfur metabolisms that recycle dissolved inorganic nutrients into forms more available to the host. The rhizosphere of surfgrass and seagrass contained genes for anaerobic microbial metabolisms, including nifH genes associated with nitrogen fixation, despite residing in a well-mixed and oxygenated environment. The range of oxygen environments engineered by macrophytes likely explains the diversity of both oxidizing and reducing microbial metabolisms and contributes to the functional capabilities of microbes and their influences on carbon and nitrogen cycling in nearshore ecosystems. IMPORTANCE Kelps, seagrasses, and surfgrasses are ecosystem engineers on rocky shorelines, where they show remarkably high levels of primary production. Through analysis of their associated microbial communities, we found a variety of microbial metabolisms that may benefit the host, including nitrogen metabolisms, sulfur oxidation, and the production of B vitamins. In turn, these microbes have the genetic capabilities to assimilate the dissolved organic compounds released by their macrophyte hosts. We describe a range of oxygen environments associated with surfgrass, including low-oxygen microhabitats in their rhizomes that host genes for nitrogen fixation. The tremendous productivity of coastal seaweeds and seagrasses is likely due in part to the activities of associated microbes, and an increased understanding of these associations is needed.
+## The Diversity and Functional Capacity of Microbes Associated with Coastal Macrophytes
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00592-22)
-
-10.1128/msystems.00592-22
 
 ---
 
@@ -159,16 +153,9 @@ Coastal marine macrophytes exhibit some of the highest rates of primary producti
 
 ---
 
-## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data.
- 25.08.2022, _H Lin, M Eggesbø, SD Peddada_
-
-
-_Adult, Bacteria, Child, Gastrointestinal Microbiome, Humans, Infant, Microbiota, Skin_
-It is well-known that human gut microbiota form an ecosystem where microbes interact with each other. Due to complex underlying interactions, some microbes may correlate nonlinearly. There are no measures in the microbiome literature we know of that quantify these nonlinear relationships. Here, we develop a methodology called Sparse Estimation of Correlations among Microbiomes (SECOM) for estimating linear and nonlinear relationships among microbes while maintaining the sparsity. SECOM accounts for both sample and taxon-specific biases in its model. Its statistical properties are evaluated analytically and by comprehensive simulation studies. We test SECOM in two real data sets, namely, forehead and palm microbiome data from college-age adults, and Norwegian infant gut microbiome data. Given that forehead and palm are related to skin, as desired, SECOM discovers each genus to be highly correlated between the two sites, but that is not the case with any of the competing methods. It is well-known that infant gut evolves as the child grows. Using SECOM, for the first time in the literature, we characterize temporal changes in correlations among bacterial families during a baby's first year after birth.
+## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data
 
 [Source](https://www.nature.com/articles/s41467-022-32243-x)
-
-10.1038/s41467-022-32243-x
 
 ---
 
