@@ -49,7 +49,7 @@ While there seems to be a consensus that a decrease in gut microbiome diversity 
 ---
 
 ## Saliva microbiome, dietary, and genetic markers are associated with suicidal ideation in university students.
- 24.08.2022, _AP Ahrens, DE Sanchez-Padilla, JC Drew, MW Oli, LFW Roesch, EW Triplett_
+ 26.08.2022, _AP Ahrens, DE Sanchez-Padilla, JC Drew, MW Oli, LFW Roesch, EW Triplett_
 
 
 _Alleles, Diet, Genetic Markers, Genetic Predisposition to Disease, HLA Antigens, HLA-DRB1 Chains, Histocompatibility Antigens Class II, Humans, Microbiota, Saliva, Students, Suicidal Ideation, Universities, Young Adult_
@@ -81,7 +81,7 @@ The edible insect food chain represents a relatively novel food-producing system
 ---
 
 ## The systemic anti-microbiota IgG repertoire can identify gut bacteria that translocate across gut barrier surfaces.
- 19.08.2022, _I Vujkovic-Cvijin, HC Welles, CWY Ha, L Huq, S Mistry, JM Brenchley, G Trinchieri, S Devkota, Y Belkaid_
+ 26.08.2022, _I Vujkovic-Cvijin, HC Welles, CWY Ha, L Huq, S Mistry, JM Brenchley, G Trinchieri, S Devkota, Y Belkaid_
 
 
 _Animals, Bacteria, Gastrointestinal Microbiome, Humans, Immunoglobulin G, Inflammatory Bowel Diseases, Mice, Microbiota_
@@ -153,9 +153,16 @@ Vaccination shows high variability in the elicited immune responses among indivi
 
 ---
 
-## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data
+## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data.
+ 25.08.2022, _H Lin, M Eggesbø, SD Peddada_
+
+
+_Adult, Bacteria, Child, Gastrointestinal Microbiome, Humans, Infant, Microbiota, Skin_
+It is well-known that human gut microbiota form an ecosystem where microbes interact with each other. Due to complex underlying interactions, some microbes may correlate nonlinearly. There are no measures in the microbiome literature we know of that quantify these nonlinear relationships. Here, we develop a methodology called Sparse Estimation of Correlations among Microbiomes (SECOM) for estimating linear and nonlinear relationships among microbes while maintaining the sparsity. SECOM accounts for both sample and taxon-specific biases in its model. Its statistical properties are evaluated analytically and by comprehensive simulation studies. We test SECOM in two real data sets, namely, forehead and palm microbiome data from college-age adults, and Norwegian infant gut microbiome data. Given that forehead and palm are related to skin, as desired, SECOM discovers each genus to be highly correlated between the two sites, but that is not the case with any of the competing methods. It is well-known that infant gut evolves as the child grows. Using SECOM, for the first time in the literature, we characterize temporal changes in correlations among bacterial families during a baby's first year after birth.
 
 [Source](https://www.nature.com/articles/s41467-022-32243-x)
+
+10.1038/s41467-022-32243-x
 
 ---
 
