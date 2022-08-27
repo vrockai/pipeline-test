@@ -153,41 +153,21 @@ Vaccination shows high variability in the elicited immune responses among indivi
 
 ---
 
-## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data.
- 25.08.2022, _H Lin, M Eggesbø, SD Peddada_
-
-
-_Adult, Bacteria, Child, Gastrointestinal Microbiome, Humans, Infant, Microbiota, Skin_
-It is well-known that human gut microbiota form an ecosystem where microbes interact with each other. Due to complex underlying interactions, some microbes may correlate nonlinearly. There are no measures in the microbiome literature we know of that quantify these nonlinear relationships. Here, we develop a methodology called Sparse Estimation of Correlations among Microbiomes (SECOM) for estimating linear and nonlinear relationships among microbes while maintaining the sparsity. SECOM accounts for both sample and taxon-specific biases in its model. Its statistical properties are evaluated analytically and by comprehensive simulation studies. We test SECOM in two real data sets, namely, forehead and palm microbiome data from college-age adults, and Norwegian infant gut microbiome data. Given that forehead and palm are related to skin, as desired, SECOM discovers each genus to be highly correlated between the two sites, but that is not the case with any of the competing methods. It is well-known that infant gut evolves as the child grows. Using SECOM, for the first time in the literature, we characterize temporal changes in correlations among bacterial families during a baby's first year after birth.
+## Linear and nonlinear correlation estimators unveil undescribed taxa interactions in microbiome data
 
 [Source](https://www.nature.com/articles/s41467-022-32243-x)
 
-10.1038/s41467-022-32243-x
-
 ---
 
-## Primers matter: Influence of the primer selection on human fungal detection using high throughput sequencing.
- 23.08.2022, _C Wiesmann, K Lehr, J Kupcinskas, R Vilchez-Vargas, A Link_
-
-
-_DNA, Fungal, Fungi, Gastrointestinal Microbiome, High-Throughput Nucleotide Sequencing, Humans, Mycobiome_
-Microbiota research has received an increasing attention for its role in disease development and fungi are considered as one of the key players in the microbial niche. Various sequencing approaches have been applied to uncover the role of fungal community in health and disease; however, little is known on the performance of various primers and comparability between the studies. Motivated by the recent publications, we performed a systematic comparison of the 18S and ITS regions to identify the impact of various primers on the sequencing results. Using four pairs of primers extensively used in literature, fungal community was retrieve from 25 fecal samples, and applying high throughput sequencing; and the results were compared in order to select the most suitable primers for fungal detection in human fecal samples. Considering the high variability between samples, primers described in the Earth microbiome project detected the broadest fungal spectrum suggesting its superior performance in mycobiome research.
+## Primers matter: Influence of the primer selection on human fungal detection using high throughput sequencing
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2110638)
 
-10.1080/19490976.2022.2110638
-
 ---
 
-## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples.
- 22.08.2022, _JL Baker_
-
-
-Obtaining complete, high-quality reference genomes is essential to the study of any organism. Recent advances in nanopore sequencing, as well as genome assembly and analysis methods, have made it possible to obtain complete bacterial genomes from metagenomic (i.e., multispecies) samples, including those from the human microbiome. In this study, methods are presented to obtain complete bacterial genomes from human saliva using complementary Oxford Nanopore (ONT) and Illumina sequencing. Applied to 3 human saliva samples, these methods resulted in 11 complete bacterial genomes: 3 Saccharibacteria clade G6 (also known as Ca. Nanogingivalaceae HMT-870), 1 Saccharibacteria clade G1 HMT-348, 2 Rothia mucilaginosa, 2 Actinomyces graevenitzii, 1 Mogibacterium diversum, 1 Lachnospiraceae HMT-096, and 1 Lancefieldella parvula; and one circular chromosome of Ruminococcaceae HMT-075 (which likely has at least 2 chromosomes). The 4 Saccharibacteria genomes, as well as the Actinomyces graeventizii genomes, represented the first complete genomes from their respective bacterial taxa. Aside from the complete genomes, the assemblies contained 147 contigs of over 500,000 bp each and thousands of smaller contigs, together representing a myriad of additional draft genomes including many which are likely nearly complete. The complete genomes enabled highly accurate pangenome analysis, which identified unique and missing features of each genome compared to its closest relatives with complete genomes available in public repositories. These features provide clues as to the lifestyle and ecological role of these bacteria within the human oral microbiota, which will be particularly useful in designing future studies of the taxa that have never been isolated or cultivated. IMPORTANCE Obtaining complete and accurate genomes is crucial to the study of any organism. Previously, obtaining complete genomes of bacteria, including those of the human microbiome, frequently required isolation of the organism, as well as low-throughput, manual sequencing methods to resolve repeat regions. Advancements in long-read sequencing technologies, including Oxford Nanopore (ONT), have made it possible to obtain complete, closed bacterial genomes from metagenomic samples. This study reports methods to obtain complete genomes from the human oral microbiome using complementary ONT and Illumina sequencing of saliva samples. Eleven complete genomes were obtained from 3 human saliva samples, with genomes of Saccharibacteria HMT-870, Saccharibacteria HMT-348, and Actinomyces graeventzii being the first complete genomes from their respective taxa. Obtaining complete bacterial genomes in a high-throughput manner will help illuminate the metabolic and ecological roles of important members of the human microbiota, particularly those that have remained recalcitrant to isolation and cultivation.
+## Using Nanopore Sequencing to Obtain Complete Bacterial Genomes from Saliva Samples
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00491-22)
-
-10.1128/msystems.00491-22
 
 ---
 
