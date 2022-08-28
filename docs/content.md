@@ -189,7 +189,7 @@ The fish intestinal mucosa is among the main sites through which environmental m
 ---
 
 ## Wildfire-dependent changes in soil microbiome diversity and function.
- 26.08.2022, _AR Nelson, AB Narrowe, CC Rhoades, TS Fegel, RA Daly, HK Roth, RK Chu, KK Amundson, RB Young, AS Steindorff, SJ Mondo, IV Grigoriev, A Salamov, T Borch, MJ Wilkins_
+ 27.08.2022, _AR Nelson, AB Narrowe, CC Rhoades, TS Fegel, RA Daly, HK Roth, RK Chu, KK Amundson, RB Young, AS Steindorff, SJ Mondo, IV Grigoriev, A Salamov, T Borch, MJ Wilkins_
 
 
 Forest soil microbiomes have crucial roles in carbon storage, biogeochemical cycling and rhizosphere processes. Wildfire season length, and the frequency and size of severe fires have increased owing to climate change. Fires affect ecosystem recovery and modify soil microbiomes and microbially mediated biogeochemical processes. To study wildfire-dependent changes in soil microbiomes, we characterized functional shifts in the soil microbiota (bacteria, fungi and viruses) across burn severity gradients (low, moderate and high severity) 1 yr post fire in coniferous forests in Colorado and Wyoming, USA. We found severity-dependent increases of Actinobacteria encoding genes for heat resistance, fast growth, and pyrogenic carbon utilization that might enhance post-fire survival. We report that increased burn severity led to the loss of ectomycorrhizal fungi and less tolerant microbial taxa. Viruses remained active in post-fire soils and probably influenced carbon cycling and biogeochemistry via turnover of biomass and ecosystem-relevant auxiliary metabolic genes. Our genome-resolved analyses link post-fire soil microbial taxonomy to functions and reveal the complexity of post-fire soil microbiome activity.
