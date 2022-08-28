@@ -146,7 +146,7 @@ Rapidly growing fields, such as microbiome science, often lack standardization o
 ---
 
 ## A Metabologenomic approach reveals alterations in the gut microbiota of a mouse model of Alzheimer's disease.
- 26.08.2022, _F Favero, E Barberis, M Gagliardi, S Espinoza, L Contu, S Gustincich, F Boccafoschi, C Borsotti, D Lim, V Rubino, F Mignone, E Pasolli, M Manfredi, S Zucchelli, D Corà, M Corazzari_
+ 27.08.2022, _F Favero, E Barberis, M Gagliardi, S Espinoza, L Contu, S Gustincich, F Boccafoschi, C Borsotti, D Lim, V Rubino, F Mignone, E Pasolli, M Manfredi, S Zucchelli, D Corà, M Corazzari_
 
 
 _Alzheimer Disease, Animals, Disease Models, Animal, Dysbiosis, Gastrointestinal Microbiome, Humans, Mice, Neurodegenerative Diseases_
@@ -249,7 +249,7 @@ The survival of bacteria in the sports drink and orange juice remaining in and a
 ---
 
 ## K-Clique Multiomics Framework: A Novel Protocol to Decipher the Role of Gut Microbiota Communities in Nutritional Intervention Trials.
- 25.08.2022, _C Mengucci, L Nissen, G Picone, C Malpuech-Brugère, C Orfila, L Ricciardiello, A Bordoni, F Capozzi, A Gianotti_
+ 27.08.2022, _C Mengucci, L Nissen, G Picone, C Malpuech-Brugère, C Orfila, L Ricciardiello, A Bordoni, F Capozzi, A Gianotti_
 
 
 The availability of omics data providing information from different layers of complex biological processes that link nutrition to human health would benefit from the development of integrated approaches combining holistically individual omics data, including those associated with the microbiota that impacts the metabolisation and bioavailability of food components. Microbiota must be considered as a set of populations of interconnected consortia, with compensatory capacities to adapt to different nutritional intake. To study the consortium nature of the microbiome, we must rely on specially designed data analysis tools. The purpose of this work is to propose the construction of a general correlation network-based explorative tool, suitable for nutritional clinical trials, by integrating omics data from faecal microbial taxa, stool metabolome (1H NMR spectra) and GC-MS for stool volatilome. The presented approach exploits a descriptive paradigm necessary for a true multiomics integration of data, which is a powerful tool to investigate the complex physiological effects of nutritional interventions.
@@ -273,7 +273,7 @@ Statistical and machine learning techniques based on relative abundances have be
 ---
 
 ## Postnatal growth and gut microbiota development influenced early childhood growth in preterm infants.
- 26.08.2022, _JS Tadros, A Llerena, A Sarkar, R Johnson, EM Miller, HL Gray, TTB Ho_
+ 27.08.2022, _JS Tadros, A Llerena, A Sarkar, R Johnson, EM Miller, HL Gray, TTB Ho_
 
 
 Preterm infants are at high risk for growth failure and childhood weight problems due to the disruption of normal intrauterine growth and nutrition. Early nutritional support and microbiome acquisition can play an important role in childhood growth.
