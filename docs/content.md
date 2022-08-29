@@ -23,7 +23,7 @@ Bariatric surgery is an effective treatment for type 2 diabetes (T2D) that chang
 ---
 
 ## Temporal dynamics of oropharyngeal microbiome among SARS-CoV-2 patients reveals continued dysbiosis even after Viral Clearance.
- 26.08.2022, _SK Paine, UK Rout, C Bhattacharyya, D Parai, M Alam, RR Nanda, D Tripathi, P Choudhury, CN Kundu, S Pati, D Bhattacharya, A Basu_
+ 28.08.2022, _SK Paine, UK Rout, C Bhattacharyya, D Parai, M Alam, RR Nanda, D Tripathi, P Choudhury, CN Kundu, S Pati, D Bhattacharya, A Basu_
 
 
 _Anti-Bacterial Agents, Bacteria, COVID-19, Coinfection, Dysbiosis, Humans, Microbiota, Oropharynx, Pneumonia, Bacterial, SARS-CoV-2, Sepsis_
@@ -115,7 +115,7 @@ The association between the physio-pathological variables of type 2 diabetes (T2
 ---
 
 ## Orally administered Odoribacter laneus improves glucose control and inflammatory profile in obese mice by depleting circulating succinate.
- 26.08.2022, _I Huber-Ruano, E Calvo, J Mayneris-Perxachs, MM Rodríguez-Peña, V Ceperuelo-Mallafré, L Cedó, C Núñez-Roa, J Miro-Blanch, M Arnoriaga-Rodríguez, A Balvay, C Maudet, P García-Roves, O Yanes, S Rabot, GM Grimaud, A De Prisco, A Amoruso, JM Fernández-Real, J Vendrell, S Fernández-Veledo_
+ 28.08.2022, _I Huber-Ruano, E Calvo, J Mayneris-Perxachs, MM Rodríguez-Peña, V Ceperuelo-Mallafré, L Cedó, C Núñez-Roa, J Miro-Blanch, M Arnoriaga-Rodríguez, A Balvay, C Maudet, P García-Roves, O Yanes, S Rabot, GM Grimaud, A De Prisco, A Amoruso, JM Fernández-Real, J Vendrell, S Fernández-Veledo_
 
 
 _Animals, Bacteroidetes, Blood Glucose, Diabetes Mellitus, Type 2, Diet, High-Fat, Humans, Inflammation, Mice, Mice, Inbred C57BL, Mice, Obese, Obesity, Succinic Acid_
@@ -249,7 +249,7 @@ The survival of bacteria in the sports drink and orange juice remaining in and a
 ---
 
 ## K-Clique Multiomics Framework: A Novel Protocol to Decipher the Role of Gut Microbiota Communities in Nutritional Intervention Trials.
- 27.08.2022, _C Mengucci, L Nissen, G Picone, C Malpuech-Brugère, C Orfila, L Ricciardiello, A Bordoni, F Capozzi, A Gianotti_
+ 28.08.2022, _C Mengucci, L Nissen, G Picone, C Malpuech-Brugère, C Orfila, L Ricciardiello, A Bordoni, F Capozzi, A Gianotti_
 
 
 The availability of omics data providing information from different layers of complex biological processes that link nutrition to human health would benefit from the development of integrated approaches combining holistically individual omics data, including those associated with the microbiota that impacts the metabolisation and bioavailability of food components. Microbiota must be considered as a set of populations of interconnected consortia, with compensatory capacities to adapt to different nutritional intake. To study the consortium nature of the microbiome, we must rely on specially designed data analysis tools. The purpose of this work is to propose the construction of a general correlation network-based explorative tool, suitable for nutritional clinical trials, by integrating omics data from faecal microbial taxa, stool metabolome (1H NMR spectra) and GC-MS for stool volatilome. The presented approach exploits a descriptive paradigm necessary for a true multiomics integration of data, which is a powerful tool to investigate the complex physiological effects of nutritional interventions.
