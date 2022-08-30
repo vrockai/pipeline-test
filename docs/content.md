@@ -276,15 +276,15 @@ Statistical and machine learning techniques based on relative abundances have be
 
 ---
 
-## Postnatal growth and gut microbiota development influenced early childhood growth in preterm infants.
- 27.08.2022, _JS Tadros, A Llerena, A Sarkar, R Johnson, EM Miller, HL Gray, TTB Ho_
+## Comparative Analysis of Corrinoid Profiles across Host-Associated and Environmental Samples.
+ 29.08.2022, _ZF Hallberg, EC Seth, K Thevasundaram, ME Taga_
 
 
-Preterm infants are at high risk for growth failure and childhood weight problems due to the disruption of normal intrauterine growth and nutrition. Early nutritional support and microbiome acquisition can play an important role in childhood growth.
+Vitamin B12 (the cyanated form of cobalamin cofactors) is best known for its essential role in human health. In addition to its function in human metabolism, cobalamin also plays important roles in microbial metabolism and can impact microbial community function. Cobalamin is a member of the structurally diverse family of cofactors known as cobamides that are produced exclusively by certain prokaryotes. Cobamides are considered shared nutrients in microbial communities because the majority of bacteria that possess cobamide-dependent enzymes cannot synthesize cobamides de novo. Furthermore, different microbes have evolved metabolic specificity for particular cobamides, and therefore, the availability of cobamides in the environment is important for cobamide-dependent microbes. Determining the cobamides present in an environment of interest is essential for understanding microbial metabolic interactions. By examining the abundances of different cobamides in diverse environments, including 10 obtained in this study, we find that, contrary to its preeminence in human metabolism, cobalamin is relatively rare in many microbial habitats. Comparison of cobamide profiles of mammalian gastrointestinal samples and wood-feeding insects reveals that host-associated cobamide abundances vary and that fecal cobamide profiles differ from those of their host gastrointestinal tracts. Environmental cobamide profiles obtained from aquatic, soil, and contaminated groundwater samples reveal that the cobamide compositions of environmental samples are highly variable. As the only commercially available cobamide, cobalamin is routinely supplied during microbial culturing efforts. However, these findings suggest that cobamides specific to a given microbiome may yield greater insight into nutrient utilization and physiological processes that occur in these habitats.
 
 [Source](https://doi.org/10.1007/978-1-0716-2549-1_21)
 
-10.3389/fped.2022.850629
+10.1021/acs.biochem.2c00367
 
 ---
 
