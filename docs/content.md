@@ -1,7 +1,8 @@
 ## Capturing the antibiotic resistome of preterm infants reveals new benefits of probiotic supplementation.
- 25.08.2022, _AK Guitor, EI Yousuf, AR Raphenya, EK Hutton, KM Morrison, AG McArthur, GD Wright, JC Stearns_
+ 29.08.2022, _AK Guitor, EI Yousuf, AR Raphenya, EK Hutton, KM Morrison, AG McArthur, GD Wright, JC Stearns_
 
 
+_Anti-Bacterial Agents, Bacteria, Dietary Supplements, Female, Humans, Infant, Infant, Newborn, Infant, Premature, Premature Birth, Probiotics_
 Probiotic use in preterm infants can mitigate the impact of antibiotic exposure and reduce rates of certain illnesses; however, the benefit on the gut resistome, the collection of antibiotic resistance genes, requires further investigation. We hypothesized that probiotic supplementation of early preterm infants (born &lt; 32-week gestation) while in hospital reduces the prevalence of antibiotic resistance genes associated with pathogenic bacteria in the gut. We used a targeted capture approach to compare the resistome from stool samples collected at the term corrected age of 40 weeks for two groups of preterm infants (those that routinely received a multi-strain probiotic during hospitalization and those that did not) with samples from full-term infants at 10 days of age to identify if preterm birth or probiotic supplementation impacted the resistome. We also compared the two groups of preterm infants up to 5 months of age to identify persistent antibiotic resistance genes.
 
 [Source](https://doi.org/10.1186/s40168-022-01327-7)
@@ -134,9 +135,10 @@ Succinate is produced by both human cells and by gut bacteria and couples metabo
 ---
 
 ## Experimental methods modestly impact interpretation of the effect of environmental exposures on the larval zebrafish gut microbiome.
- 25.08.2022, _K Stagaman, KD Kasschau, RL Tanguay, TJ Sharpton_
+ 29.08.2022, _K Stagaman, KD Kasschau, RL Tanguay, TJ Sharpton_
 
 
+_Animals, DNA, Environmental Exposure, Gastrointestinal Microbiome, Larva, Zebrafish_
 Rapidly growing fields, such as microbiome science, often lack standardization of procedures across research groups. This is especially the case for microbiome investigations in the zebrafish (Danio rerio) model system, which is quickly becoming a workhorse system for understanding the exposure-microbiome-physiology axis. To guide future investigations using this model system, we defined how various experimental decisions affect the outcomes of studies on the effects of exogenous exposure on the zebrafish gut microbiome. Using a model toxicant, benzo[a]pyrene (BaP), we assessed how each of two dissection methods (gut dissection vs. whole fish), three DNA extraction kits (Qiagen Blood &amp; Tissue, Macherey-Nagel NucleoSpin, and Qiagen PowerSoil), and inclusion of PCR replicates (single vs. pooled triplicate reactions) affected our interpretation of how exposure influences the diversity and composition of the gut microbiome, as well as our ability to identify microbiome biomarkers of exposure. We found that inclusion of PCR replicates had the smallest effect on our final interpretations, and the effects of dissection method and DNA extraction kit had significant effects in specific contexts, primarily in the cases of identifying microbial biomarkers.
 
 [Source](https://doi.org/10.1038/s41598-022-18532-x)
@@ -177,9 +179,10 @@ Gut microbiota plays a vital role in maintaining the health and immunity of wild
 ---
 
 ## IHNV Infection Induces Strong Mucosal Immunity and Changes of Microbiota in Trout Intestine.
- 26.08.2022, _Z Huang, M Zhan, G Cheng, R Lin, X Zhai, H Zheng, Q Wang, Y Yu, Z Xu_
+ 29.08.2022, _Z Huang, M Zhan, G Cheng, R Lin, X Zhai, H Zheng, Q Wang, Y Yu, Z Xu_
 
 
+_Animals, Fish Diseases, Immunity, Mucosal, Infectious hematopoietic necrosis virus, Inflammation, Intestinal Mucosa, Mammals, Microbiota, Oncorhynchus mykiss, RNA, Ribosomal, 16S, Rhabdoviridae Infections_
 The fish intestinal mucosa is among the main sites through which environmental microorganisms interact with the host. Therefore, this tissue not only constitutes the first line of defense against pathogenic microorganisms but also plays a crucial role in commensal colonization. The interaction between the mucosal immune system, commensal microbiota, and viral pathogens has been extensively described in the mammalian intestine. However, very few studies have characterized these interactions in early vertebrates such as teleosts. In this study, rainbow trout (Oncorhynchus mykiss) was infected with infectious hematopoietic necrosis virus (IHNV) via a recently developed immersion method to explore the effects of viral infection on gut immunity and microbial community structure. IHNV successfully invaded the gut mucosa of trout, resulting in severe tissue damage, inflammation, and an increase in gut mucus. Moreover, viral infection triggered a strong innate and adaptive immune response in the gut, and RNA-seq analysis indicated that both antiviral and antibacterial immune pathways were induced, suggesting that the viral infection was accompanied by secondary bacterial infection. Furthermore, 16S rRNA sequencing also revealed that IHNV infection induced severe dysbiosis, which was characterized by large increases in the abundance of Bacteroidetes and pathobiont proliferation. Moreover, the fish that survived viral infection exhibited a reversal of tissue damage and inflammation, and their microbiome was restored to its pre-infection state. Our findings thus demonstrated that the relationships between the microbiota and gut immune system are highly sensitive to the physiological changes triggered by viral infection. Therefore, opportunistic bacterial infection must also be considered when developing strategies to control viral infection.
 
 [Source](https://doi.org/10.3390/v14081838)
@@ -189,7 +192,7 @@ The fish intestinal mucosa is among the main sites through which environmental m
 ---
 
 ## Wildfire-dependent changes in soil microbiome diversity and function.
- 27.08.2022, _AR Nelson, AB Narrowe, CC Rhoades, TS Fegel, RA Daly, HK Roth, RK Chu, KK Amundson, RB Young, AS Steindorff, SJ Mondo, IV Grigoriev, A Salamov, T Borch, MJ Wilkins_
+ 29.08.2022, _AR Nelson, AB Narrowe, CC Rhoades, TS Fegel, RA Daly, HK Roth, RK Chu, KK Amundson, RB Young, AS Steindorff, SJ Mondo, IV Grigoriev, A Salamov, T Borch, MJ Wilkins_
 
 
 Forest soil microbiomes have crucial roles in carbon storage, biogeochemical cycling and rhizosphere processes. Wildfire season length, and the frequency and size of severe fires have increased owing to climate change. Fires affect ecosystem recovery and modify soil microbiomes and microbially mediated biogeochemical processes. To study wildfire-dependent changes in soil microbiomes, we characterized functional shifts in the soil microbiota (bacteria, fungi and viruses) across burn severity gradients (low, moderate and high severity) 1 yr post fire in coniferous forests in Colorado and Wyoming, USA. We found severity-dependent increases of Actinobacteria encoding genes for heat resistance, fast growth, and pyrogenic carbon utilization that might enhance post-fire survival. We report that increased burn severity led to the loss of ectomycorrhizal fungi and less tolerant microbial taxa. Viruses remained active in post-fire soils and probably influenced carbon cycling and biogeochemistry via turnover of biomass and ecosystem-relevant auxiliary metabolic genes. Our genome-resolved analyses link post-fire soil microbial taxonomy to functions and reveal the complexity of post-fire soil microbiome activity.
@@ -201,9 +204,10 @@ Forest soil microbiomes have crucial roles in carbon storage, biogeochemical cyc
 ---
 
 ## Fungal succession on the decomposition of three plant species from a Brazilian mangrove.
- 25.08.2022, _MA Moitinho, JB Chiaramonte, L Bononi, T Gumiere, IS Melo, RG Taketani_
+ 29.08.2022, _MA Moitinho, JB Chiaramonte, L Bononi, T Gumiere, IS Melo, RG Taketani_
 
 
+_Avicennia, Brazil, Combretaceae, Microbiota, Plant Leaves, Plants, Rhizophoraceae_
 Leaf decomposition is the primary process in release of nutrients in the dynamic mangrove habitat, supporting the ecosystem food webs. On most environments, fungi are an essential part of this process. However, due to the peculiarities of mangrove forests, this group is currently neglected. Thus, this study tests the hypothesis that fungal communities display a specific succession pattern in different mangrove species and this due to differences in their ecological role. A molecular approach was employed to investigate the dynamics of the fungal community during the decomposition of three common plant species (Rhizophora mangle, Laguncularia racemosa, and Avicennia schaueriana) from a mangrove habitat located at the southeast of Brazil. Plant material was the primary driver of fungi communities, but time also was marginally significant for the process, and evident changes in the fungal community during the decomposition process were observed. The five most abundant classes common to all the three plant species were Saccharomycetes, Sordariomycetes, Tremellomycetes, Eurotiomycetes, and Dothideomycetes, all belonging to the Phylum Ascomycota. Microbotryomycetes class were shared only by A. schaueriana and L. racemosa, while Agaricomycetes class were shared by L. racemosa and R. mangle. The class Glomeromycetes were shared by A. schaueriana and R. mangle. The analysis of the core microbiome showed that Saccharomycetes was the most abundant class. In the variable community, Sordariomycetes was the most abundant one, mainly in the Laguncularia racemosa plant. The results presented in this work shows a specialization of the fungal community regarding plant material during litter decomposition which might be related to the different chemical composition and rate of degradation.
 
 [Source](https://doi.org/10.1038/s41598-022-18667-x)
@@ -249,7 +253,7 @@ The survival of bacteria in the sports drink and orange juice remaining in and a
 ---
 
 ## K-Clique Multiomics Framework: A Novel Protocol to Decipher the Role of Gut Microbiota Communities in Nutritional Intervention Trials.
- 28.08.2022, _C Mengucci, L Nissen, G Picone, C Malpuech-Brugère, C Orfila, L Ricciardiello, A Bordoni, F Capozzi, A Gianotti_
+ 29.08.2022, _C Mengucci, L Nissen, G Picone, C Malpuech-Brugère, C Orfila, L Ricciardiello, A Bordoni, F Capozzi, A Gianotti_
 
 
 The availability of omics data providing information from different layers of complex biological processes that link nutrition to human health would benefit from the development of integrated approaches combining holistically individual omics data, including those associated with the microbiota that impacts the metabolisation and bioavailability of food components. Microbiota must be considered as a set of populations of interconnected consortia, with compensatory capacities to adapt to different nutritional intake. To study the consortium nature of the microbiome, we must rely on specially designed data analysis tools. The purpose of this work is to propose the construction of a general correlation network-based explorative tool, suitable for nutritional clinical trials, by integrating omics data from faecal microbial taxa, stool metabolome (1H NMR spectra) and GC-MS for stool volatilome. The presented approach exploits a descriptive paradigm necessary for a true multiomics integration of data, which is a powerful tool to investigate the complex physiological effects of nutritional interventions.
