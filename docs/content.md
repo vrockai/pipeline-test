@@ -1,5 +1,5 @@
 ## Capturing the antibiotic resistome of preterm infants reveals new benefits of probiotic supplementation.
- 29.08.2022, _AK Guitor, EI Yousuf, AR Raphenya, EK Hutton, KM Morrison, AG McArthur, GD Wright, JC Stearns_
+ 30.08.2022, _AK Guitor, EI Yousuf, AR Raphenya, EK Hutton, KM Morrison, AG McArthur, GD Wright, JC Stearns_
 
 
 _Anti-Bacterial Agents, Bacteria, Dietary Supplements, Female, Humans, Infant, Infant, Newborn, Infant, Premature, Premature Birth, Probiotics_
@@ -97,7 +97,7 @@ Cardiovascular disease (CVD) is a health problem worldwide, and elevated cholest
 ---
 
 ## Type 2 diabetes, gut microbiome, and systems biology: A novel perspective for a new era.
- 26.08.2022, _YE Martínez-López, DA Esquivel-Hernández, JP Sánchez-Castañeda, D Neri-Rosario, R Guardado-Mendoza, O Resendis-Antonio_
+ 30.08.2022, _YE Martínez-López, DA Esquivel-Hernández, JP Sánchez-Castañeda, D Neri-Rosario, R Guardado-Mendoza, O Resendis-Antonio_
 
 
 _Diabetes Mellitus, Type 2, Diet, Gastrointestinal Microbiome, Humans, Microbiota, Systems Biology_
@@ -116,7 +116,7 @@ The association between the physio-pathological variables of type 2 diabetes (T2
 ---
 
 ## Orally administered Odoribacter laneus improves glucose control and inflammatory profile in obese mice by depleting circulating succinate.
- 28.08.2022, _I Huber-Ruano, E Calvo, J Mayneris-Perxachs, MM Rodríguez-Peña, V Ceperuelo-Mallafré, L Cedó, C Núñez-Roa, J Miro-Blanch, M Arnoriaga-Rodríguez, A Balvay, C Maudet, P García-Roves, O Yanes, S Rabot, GM Grimaud, A De Prisco, A Amoruso, JM Fernández-Real, J Vendrell, S Fernández-Veledo_
+ 30.08.2022, _I Huber-Ruano, E Calvo, J Mayneris-Perxachs, MM Rodríguez-Peña, V Ceperuelo-Mallafré, L Cedó, C Núñez-Roa, J Miro-Blanch, M Arnoriaga-Rodríguez, A Balvay, C Maudet, P García-Roves, O Yanes, S Rabot, GM Grimaud, A De Prisco, A Amoruso, JM Fernández-Real, J Vendrell, S Fernández-Veledo_
 
 
 _Animals, Bacteroidetes, Blood Glucose, Diabetes Mellitus, Type 2, Diet, High-Fat, Humans, Inflammation, Mice, Mice, Inbred C57BL, Mice, Obese, Obesity, Succinic Acid_
@@ -135,7 +135,7 @@ Succinate is produced by both human cells and by gut bacteria and couples metabo
 ---
 
 ## Experimental methods modestly impact interpretation of the effect of environmental exposures on the larval zebrafish gut microbiome.
- 29.08.2022, _K Stagaman, KD Kasschau, RL Tanguay, TJ Sharpton_
+ 30.08.2022, _K Stagaman, KD Kasschau, RL Tanguay, TJ Sharpton_
 
 
 _Animals, DNA, Environmental Exposure, Gastrointestinal Microbiome, Larva, Zebrafish_
@@ -179,7 +179,7 @@ Gut microbiota plays a vital role in maintaining the health and immunity of wild
 ---
 
 ## IHNV Infection Induces Strong Mucosal Immunity and Changes of Microbiota in Trout Intestine.
- 29.08.2022, _Z Huang, M Zhan, G Cheng, R Lin, X Zhai, H Zheng, Q Wang, Y Yu, Z Xu_
+ 30.08.2022, _Z Huang, M Zhan, G Cheng, R Lin, X Zhai, H Zheng, Q Wang, Y Yu, Z Xu_
 
 
 _Animals, Fish Diseases, Immunity, Mucosal, Infectious hematopoietic necrosis virus, Inflammation, Intestinal Mucosa, Mammals, Microbiota, Oncorhynchus mykiss, RNA, Ribosomal, 16S, Rhabdoviridae Infections_
@@ -192,9 +192,10 @@ The fish intestinal mucosa is among the main sites through which environmental m
 ---
 
 ## Wildfire-dependent changes in soil microbiome diversity and function.
- 29.08.2022, _AR Nelson, AB Narrowe, CC Rhoades, TS Fegel, RA Daly, HK Roth, RK Chu, KK Amundson, RB Young, AS Steindorff, SJ Mondo, IV Grigoriev, A Salamov, T Borch, MJ Wilkins_
+ 30.08.2022, _AR Nelson, AB Narrowe, CC Rhoades, TS Fegel, RA Daly, HK Roth, RK Chu, KK Amundson, RB Young, AS Steindorff, SJ Mondo, IV Grigoriev, A Salamov, T Borch, MJ Wilkins_
 
 
+_Carbon, Forests, Microbiota, Soil, Wildfires_
 Forest soil microbiomes have crucial roles in carbon storage, biogeochemical cycling and rhizosphere processes. Wildfire season length, and the frequency and size of severe fires have increased owing to climate change. Fires affect ecosystem recovery and modify soil microbiomes and microbially mediated biogeochemical processes. To study wildfire-dependent changes in soil microbiomes, we characterized functional shifts in the soil microbiota (bacteria, fungi and viruses) across burn severity gradients (low, moderate and high severity) 1 yr post fire in coniferous forests in Colorado and Wyoming, USA. We found severity-dependent increases of Actinobacteria encoding genes for heat resistance, fast growth, and pyrogenic carbon utilization that might enhance post-fire survival. We report that increased burn severity led to the loss of ectomycorrhizal fungi and less tolerant microbial taxa. Viruses remained active in post-fire soils and probably influenced carbon cycling and biogeochemistry via turnover of biomass and ecosystem-relevant auxiliary metabolic genes. Our genome-resolved analyses link post-fire soil microbial taxonomy to functions and reveal the complexity of post-fire soil microbiome activity.
 
 [Source](https://doi.org/10.1038/s41564-022-01203-y)
@@ -204,7 +205,7 @@ Forest soil microbiomes have crucial roles in carbon storage, biogeochemical cyc
 ---
 
 ## Fungal succession on the decomposition of three plant species from a Brazilian mangrove.
- 29.08.2022, _MA Moitinho, JB Chiaramonte, L Bononi, T Gumiere, IS Melo, RG Taketani_
+ 30.08.2022, _MA Moitinho, JB Chiaramonte, L Bononi, T Gumiere, IS Melo, RG Taketani_
 
 
 _Avicennia, Brazil, Combretaceae, Microbiota, Plant Leaves, Plants, Rhizophoraceae_
