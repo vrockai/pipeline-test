@@ -46,16 +46,9 @@ The gut microbiota presents essential functions in the immune response. The gut 
 
 ---
 
-## Age as a primary driver of the gut microbial composition and function in wild harbor seals.
- 30.08.2022, _A Pacheco-Sandoval, A Lago-Lestón, A Abadía-Cardoso, E Solana-Arellano, Y Schramm_
-
-
-_Animals, Diet, Feces, Female, Gastrointestinal Microbiome, Male, Milk, Phoca, RNA, Ribosomal, 16S_
-Dietary changes are the major variation cause in the composition of the gut microbiota. The short lactation phase in phocids provides an exceptional opportunity to explore the microbiota's response to a quick transition from a milk-based to a solid diet. We investigated the effects of age and sex on the gut microbiota of harbor seals in Mexico using rectal and fecal samples from pups and adults. 16S gene sequencing revealed age explains most of the observed variations in microbial composition. Individuals with frequent contact (pups-female adults) have major microbial similarities than those with little or no contact (pups-male adults). Overall, adults and females (regardless of sex and age, respectively) have a greater microbial richness; as seals grow, the core microbiome shrinks, and microbial diversity increases. We found pathways related to milk and chitin digestion in pups' microbiomes, indicating pups were transitioning to a solid diet. An enrichment of routes related to dramatic weight loss and body mass indicated higher metabolic stress in pups in late breeding season, when they are weaned and start intermittent fasting. Our findings highlight the host-microbiome interaction in harbor seals during late breeding season in response to food shifts and metabolic stress.
+## Age as a primary driver of the gut microbial composition and function in wild harbor seals
 
 [Source](https://www.nature.com/articles/s41598-022-18565-2)
-
-10.1038/s41598-022-18565-2
 
 ---
 
