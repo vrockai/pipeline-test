@@ -46,9 +46,16 @@ The gut microbiota presents essential functions in the immune response. The gut 
 
 ---
 
-## Age as a primary driver of the gut microbial composition and function in wild harbor seals
+## Age as a primary driver of the gut microbial composition and function in wild harbor seals.
+ 30.08.2022, _A Pacheco-Sandoval, A Lago-Lestón, A Abadía-Cardoso, E Solana-Arellano, Y Schramm_
+
+
+_Animals, Diet, Feces, Female, Gastrointestinal Microbiome, Male, Milk, Phoca, RNA, Ribosomal, 16S_
+Dietary changes are the major variation cause in the composition of the gut microbiota. The short lactation phase in phocids provides an exceptional opportunity to explore the microbiota's response to a quick transition from a milk-based to a solid diet. We investigated the effects of age and sex on the gut microbiota of harbor seals in Mexico using rectal and fecal samples from pups and adults. 16S gene sequencing revealed age explains most of the observed variations in microbial composition. Individuals with frequent contact (pups-female adults) have major microbial similarities than those with little or no contact (pups-male adults). Overall, adults and females (regardless of sex and age, respectively) have a greater microbial richness; as seals grow, the core microbiome shrinks, and microbial diversity increases. We found pathways related to milk and chitin digestion in pups' microbiomes, indicating pups were transitioning to a solid diet. An enrichment of routes related to dramatic weight loss and body mass indicated higher metabolic stress in pups in late breeding season, when they are weaned and start intermittent fasting. Our findings highlight the host-microbiome interaction in harbor seals during late breeding season in response to food shifts and metabolic stress.
 
 [Source](https://www.nature.com/articles/s41598-022-18565-2)
+
+10.1038/s41598-022-18565-2
 
 ---
 
@@ -98,9 +105,10 @@ Phages are key drivers of genomic diversity in bacterial populations as they imp
 ---
 
 ## Crowdsourced benchmarking of taxonomic metagenome profilers: lessons learned from the sbv IMPROVER Microbiomics challenge.
- 30.08.2022, _C Poussin, L Khachatryan, N Sierro, VK Narsapuram, F Meyer, V Kaikala, V Chawla, U Muppirala, S Kumar, V Belcastro, JND Battey, E Scotti, S Boué, AC McHardy, MC Peitsch, NV Ivanov, J Hoeng_
+ 01.09.2022, _C Poussin, L Khachatryan, N Sierro, VK Narsapuram, F Meyer, V Kaikala, V Chawla, U Muppirala, S Kumar, V Belcastro, JND Battey, E Scotti, S Boué, AC McHardy, MC Peitsch, NV Ivanov, J Hoeng_
 
 
+_Benchmarking, Crowdsourcing, Metagenome, Metagenomics, Software_
 Selection of optimal computational strategies for analyzing metagenomics data is a decisive step in determining the microbial composition of a sample, and this procedure is complex because of the numerous tools currently available. The aim of this research was to summarize the results of crowdsourced sbv IMPROVER Microbiomics Challenge designed to evaluate the performance of off-the-shelf metagenomics software as well as to investigate the robustness of these results by the extended post-challenge analysis. In total 21 off-the-shelf taxonomic metagenome profiling pipelines were benchmarked for their capacity to identify the microbiome composition at various taxon levels across 104 shotgun metagenomics datasets of bacterial genomes (representative of various microbiome samples) from public databases. Performance was determined by comparing predicted taxonomy profiles with the gold standard.
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08803-2)
