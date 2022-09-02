@@ -46,15 +46,29 @@ The gut microbiota presents essential functions in the immune response. The gut 
 
 ---
 
-## Age as a primary driver of the gut microbial composition and function in wild harbor seals
+## Age as a primary driver of the gut microbial composition and function in wild harbor seals.
+ 30.08.2022, _A Pacheco-Sandoval, A Lago-Lestón, A Abadía-Cardoso, E Solana-Arellano, Y Schramm_
+
+
+_Animals, Diet, Feces, Female, Gastrointestinal Microbiome, Male, Milk, Phoca, RNA, Ribosomal, 16S_
+Dietary changes are the major variation cause in the composition of the gut microbiota. The short lactation phase in phocids provides an exceptional opportunity to explore the microbiota's response to a quick transition from a milk-based to a solid diet. We investigated the effects of age and sex on the gut microbiota of harbor seals in Mexico using rectal and fecal samples from pups and adults. 16S gene sequencing revealed age explains most of the observed variations in microbial composition. Individuals with frequent contact (pups-female adults) have major microbial similarities than those with little or no contact (pups-male adults). Overall, adults and females (regardless of sex and age, respectively) have a greater microbial richness; as seals grow, the core microbiome shrinks, and microbial diversity increases. We found pathways related to milk and chitin digestion in pups' microbiomes, indicating pups were transitioning to a solid diet. An enrichment of routes related to dramatic weight loss and body mass indicated higher metabolic stress in pups in late breeding season, when they are weaned and start intermittent fasting. Our findings highlight the host-microbiome interaction in harbor seals during late breeding season in response to food shifts and metabolic stress.
 
 [Source](https://www.nature.com/articles/s41598-022-18565-2)
 
+10.1038/s41598-022-18565-2
+
 ---
 
-## Biogeographical survey of soil microbiomes across sub-Saharan Africa: structure, drivers, and predicted climate-driven changes
+## Biogeographical survey of soil microbiomes across sub-Saharan Africa: structure, drivers, and predicted climate-driven changes.
+ 30.08.2022, _DA Cowan, PH Lebre, C Amon, RW Becker, HI Boga, A Boulangé, TL Chiyaka, T Coetzee, PC de Jager, O Dikinya, F Eckardt, M Greve, MA Harris, DW Hopkins, HB Houngnandan, P Houngnandan, K Jordaan, E Kaimoyo, AK Kambura, G Kamgan-Nkuekam, TP Makhalanyane, G Maggs-Kölling, E Marais, H Mondlane, E Nghalipo, BW Olivier, M Ortiz, LR Pertierra, JB Ramond, M Seely, I Sithole-Niang, A Valverde, G Varliero, S Vikram, DH Wall, A Zeze_
+
+
+_Biodiversity, Desert Climate, Ecosystem, Microbiota, Soil, Soil Microbiology_
+Top-soil microbiomes make a vital contribution to the Earth's ecology and harbor an extraordinarily high biodiversity. They are also key players in many ecosystem services, particularly in arid regions of the globe such as the African continent. While several recent studies have documented patterns in global soil microbial ecology, these are largely biased towards widely studied regions and rely on models to interpolate the microbial diversity of other regions where there is low data coverage. This is the case for sub-Saharan Africa, where the number of regional microbial studies is very low in comparison to other continents.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01297-w)
+
+10.1186/s40168-022-01297-w
 
 ---
 
