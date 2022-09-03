@@ -1,90 +1,216 @@
-## Staphylococcus epidermidis and its dual lifestyle in skin health and infection.
- 31.08.2022, _MM Severn, AR Horswill_
+## A compendium of 32,277 metagenome-assembled genomes and over 80 million genes from the early-life human gut microbiome.
+ 01.09.2022, _S Zeng, D Patangia, A Almeida, Z Zhou, D Mu, R Paul Ross, C Stanton, S Wang_
 
 
-The coagulase-negative bacterium Staphylococcus epidermidis is a member of the human skin microbiota. S. epidermidis is not merely a passive resident on skin but actively primes the cutaneous immune response, maintains skin homeostasis and prevents opportunistic pathogens from causing disease via colonization resistance. However, it is now appreciated that S. epidermidis and its interactions with the host exist on a spectrum of potential pathogenicity derived from its high strain-level heterogeneity. S. epidermidis is the most common cause of implant-associated infections and is a canonical opportunistic biofilm former. Additional emerging evidence suggests that some strains of S. epidermidis may contribute to the pathogenesis of common skin diseases. Here, we highlight new developments in our understanding of S. epidermidis strain diversity, skin colonization dynamics and its multifaceted interactions with the host and other members of the skin microbiota.
+Age-specific reference genomes of the human gut microbiome can provide higher resolution for metagenomic analyses including taxonomic classification, strain-level genomic investigation and functional characterization. We present the Early-Life Gut Genomes (ELGG) catalog with 32,277 genomes representing 2172 species from 6122 fecal metagenomes collected from children under 3 years old spanning delivery mode, gestational age, feeding pattern, and geography. The ELGG substantially expanded the phylogenetic diversity by 38% over the isolate microbial genomes, and the genomic landscape of the early-life microbiome by increasing recruitment of metagenomic reads to 82.8%. More than 60% of the ELGG species lack an isolate representative. The conspecific genomes of the most abundant species from children differed in gene diversity and functions compared to adults. The ELGG genomes encode over 80 million protein sequences, forming the Early-Life Gut Proteins (ELGP) catalog with over four million protein clusters, 29.5% of which lacked functional annotations. The ELGG and ELGP references provided new insights into the early-life human gut microbiome and will facilitate studies to understand the development and mechanisms of disturbances of the human gut microbiome in early life.
 
-[Source](https://www.nature.com/articles/s41579-022-00780-3)
+[Source](https://doi.org/10.1038/s41467-022-32805-z)
 
-10.1038/s41579-022-00780-3
-
----
-
-## Effect of chewing gum containing Xylitol and blackberry powder on oral bacteria: A randomized controlled crossover trial.
- 02.09.2022, _CS Miller, RJ Danaher, S Kirakodu, CR Carlson, RJ Mumper_
-
-
-The aim was to determine the effect of chewing gum containing xylitol and freeze-dried blackberry powder on oral bacteria.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0003996922001807)
-
-10.1016/j.archoralbio.2022.105523
+10.1038/s41467-022-32805-z
 
 ---
 
-## Antimicrobial peptide production in response to gut microbiota imbalance.
- 29.08.2022, _MH Cardoso, BT Meneguetti, NG Oliveira-Júnior, MLR Macedo, OL Franco_
+## A previously uncharacterized O-glycopeptidase from Akkermansia muciniphila requires the Tn-antigen for cleavage of the peptide bond.
+ 01.09.2022, _BJ Medley, L Leclaire, N Thompson, KE Mahoney, B Pluvinage, MAH Parson, JE Burke, S Malaker, W Wakarchuk, AB Boraston_
 
 
-The gut microbiota presents essential functions in the immune response. The gut epithelium acts as a protective barrier and, therefore, can produce several antimicrobial peptides (AMPs) that can act against pathogenic microorganisms, including bacteria. Several factors cause a disturbance in gut microbiota, including the exacerbated and erroneous use of antibiotics. Antibiotic therapy has been closely related to bacterial resistance and is also correlated with undesired side-effects to the host, including the eradication of commensal bacteria. Consequently, this results in gut microbiota imbalance and inflammatory bowel diseases (IBD) development. In this context, AMPs in the gut epithelium play a restructuring role for gut microbiota. Some naturally occurring AMPs are selective for pathogenic bacteria, thus preserving the health microbiota. Therefore, AMPs produced by the host's epithelial cells represent effective molecules in treating gut bacterial infections. Bearing this in mind, this review focused on describing the importance of the host's AMPs in gut microbiota modulation and their role as anti-infective agents against pathogenic bacteria.
+Akkermansia muciniphila is key member of the human gut microbiota, impacting many features of host health. A major characteristic of this bacterium is its interaction with host mucin, which is abundant in the gut environment, and its ability to metabolize mucin as a nutrient source. The machinery deployed by A. muciniphila to enable this interaction appears to be extensive and sophisticated, yet it is incompletely defined. The uncharacterized protein AMUC_1438 is encoded by a gene that was previously shown to be upregulated when the bacterium is grown on mucin. This uncharacterized protein has features suggestive of carbohydrate-recognition and peptidase activity, which led us to hypothesize that it has a role in mucin depolymerization. Here we provide structural and functional support for the assignment of AMUC_1438 as a unique O-glycopeptidase with mucin degrading capacity. O-glycopeptidase enzymes recognize glycans but hydrolyze the peptide backbone and are common in host-adapted microbes that colonize or invade mucus layers. Structural, kinetic, and mutagenic analyses point to a metzincin metalloprotease catalytic motif but specific recognition of a GalNAc residue α-linked to serine or threonine (i.e. the Tn-antigen) within the AMUC_1438 active site. The enzyme catalyzes hydrolysis of the bond immediately N-terminal to the glycosylated residue. Additional modelling analyses suggest the presence of a carbohydrate-binding module that may assist in substrate recognition. We anticipate that these results will be fundamental to a wider understanding of the O-glycopeptidase class of enzymes and how they may contribute to host-adaptation.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0196978122001310)
+[Source](https://doi.org/10.1016/j.jbc.2022.102439)
 
-10.1016/j.peptides.2022.170865
-
----
-
-## ROLE OF GUT MICROBIOTA IN DEPRESSION: UNDERSTANDING MOLECULAR PATHWAYS, RECENT RESEARCH, AND FUTURE DIRECTION
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0166432822003497)
+10.1016/j.jbc.2022.102439
 
 ---
 
-## Gut-derived metabolites influence neurodevelopmental gene expression and Wnt signaling events in a germ-free zebrafish model
+## A previously uncharacterized O-glycopeptidase from <em>Akkermansia muciniphila </em>requires the Tn-antigen for cleavage of the peptide bond
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01302-2)
-
----
-
-## Age as a primary driver of the gut microbial composition and function in wild harbor seals
-
-[Source](https://www.nature.com/articles/s41598-022-18565-2)
+[Source](https://doi.org/10.1016/j.jbc.2022.102439)
 
 ---
 
-## Biogeographical survey of soil microbiomes across sub-Saharan Africa: structure, drivers, and predicted climate-driven changes
+## Lactic acid from vaginal microbiota enhances cervicovaginal epithelial barrier integrity by promoting tight junction protein expression.
+ 31.08.2022, _DJ Delgado-Diaz, B Jesaveluk, JA Hayward, D Tyssen, A Alisoltani, M Potgieter, L Bell, E Ross, A Iranzadeh, I Allali, S Dabee, S Barnabas, H Gamieldien, JM Blackburn, N Mulder, SB Smith, VL Edwards, AD Burgener, LG Bekker, J Ravel, JS Passmore, L Masson, AC Hearps, G Tachedjian_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01297-w)
 
----
+Women with a cervicovaginal microbiota dominated by Lactobacillus spp. are at reduced risk of acquiring sexually transmitted infections including HIV, but the biological mechanisms involved remain poorly defined. Here, we performed metaproteomics on vaginal swab samples from young South African women (n = 113) and transcriptomics analysis of cervicovaginal epithelial cell cultures to examine the ability of lactic acid, a metabolite produced by cervicovaginal lactobacilli, to modulate genital epithelial barrier function.
 
-## Soil fungal communities show more specificity than bacteria for plant species composition in a temperate forest in China
+[Source](https://doi.org/10.1186/s40168-022-01337-5)
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02591-1)
-
----
-
-## Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01332-w)
+10.1186/s40168-022-01337-5
 
 ---
 
-## Extensive diversity and rapid turnover of phage defense repertoires in cheese-associated bacterial communities
+## A Perspective of the Urinary Microbiome in Lower Urinary Tract Infections - A Review.
+ 02.09.2022, _R Pallares-Mendez, DE Cervantes-Miranda, AD Gonzalez-Colmenero, MA Ochoa-Arvizo, A Gutierrez-Gonzalez_
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01328-6)
+
+Greater availability of sequencing methods has broadened the knowledge of the urinary microbiome in an environment previously believed to be sterile. This review discusses internal and external influences that promote either a balance or a dysbiosis of the urinary tract and the future perspectives in understanding lower urinary tract infections.
+
+[Source](https://doi.org/10.1007/s11934-022-01108-7)
+
+10.1007/s11934-022-01108-7
 
 ---
 
-## Crowdsourced benchmarking of taxonomic metagenome profilers: lessons learned from the sbv IMPROVER Microbiomics challenge
+## Methanogenic archaea in the human gastrointestinal tract.
+ 01.09.2022, _C Hoegenauer, HF Hammer, A Mahnert, C Moissl-Eichinger_
 
-[Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08803-2)
+
+The human microbiome is strongly interwoven with human health and disease. Besides bacteria, viruses and eukaryotes, numerous archaea are located in the human gastrointestinal tract and are responsible for methane production, which can be measured in clinical methane breath analyses. Methane is an important readout for various diseases, including intestinal methanogen overgrowth. Notably, the archaea responsible for methane production are largely overlooked in human microbiome studies due to their non-bacterial biology and resulting detection issues. As such, their importance for health and disease remains largely unclear to date, in particular as not a single archaeal representative has been deemed to be pathogenic. In this Perspective, we discuss the current knowledge on the clinical relevance of methanogenic archaea. We explain the archaeal unique response to antibiotics and their negative and positive effects on human physiology, and present the current understanding of the use of methane as a diagnostic marker.
+
+[Source](https://doi.org/10.1038/s41575-022-00673-z)
+
+10.1038/s41575-022-00673-z
 
 ---
 
-## Newly Renamed Prokaryote Phyla Cause Uproar
+## Meta-analysis of caries microbiome studies can improve upon disease prediction outcomes.
+ 02.09.2022, _MC Butcher, B Short, CLR Veena, D Bradshaw, JR Pratten, W McLean, SMA Shaban, G Ramage, C Delaney_
 
-[Source](https://www.the-scientist.com/news-opinion/newly-renamed-prokaryote-phyla-cause-uproar-69578)
+
+As one of the most prevalent infective diseases worldwide, it is crucial that we not only know the constituents of the oral microbiome in dental caries but also understand its functionality.
+
+[Source](https://doi.org/10.1111/apm.13272)
+
+10.1111/apm.13272
+
+---
+
+## Metagenomes of rectal swabs in larger, advanced stage cervical cancers have enhanced mucus degrading functionalities and distinct taxonomic structure.
+ 01.09.2022, _TV Karpinets, X Wu, T Solley, MB El Alam, TT Sims, K Yoshida-Court, E Lynn, M Ahmed-Kaddar, G Biegert, J Yue, X Song, H Sun, JF Petrosino, MP Mezzari, P Okhuysen, PJ Eifel, A Jhingran, LL Lin, KM Schmeler, L Ramondetta, N Ajami, RR Jenq, A Futreal, J Zhang, AH Klopp, LE Colbert_
+
+
+Gut microbiome community composition differs between cervical cancer (CC) patients and healthy controls, and increased gut diversity is associated with improved outcomes after treatment. We proposed that functions of specific microbial species adjoining the mucus layer may directly impact the biology of CC.
+
+[Source](https://doi.org/10.1186/s12885-022-09997-0)
+
+10.1186/s12885-022-09997-0
+
+---
+
+## Horizontal gene transfer enables programmable gene stability in synthetic microbiota.
+ 01.09.2022, _T Wang, A Weiss, A Aqeel, F Wu, AJ Lopatkin, LA David, L You_
+
+
+The functions of many microbial communities exhibit remarkable stability despite fluctuations in the compositions of these communities. To date, a mechanistic understanding of this function-composition decoupling is lacking. Statistical mechanisms have been commonly hypothesized to explain such decoupling. Here, we proposed that dynamic mechanisms, mediated by horizontal gene transfer (HGT), also enable the independence of functions from the compositions of microbial communities. We combined theoretical analysis with numerical simulations to illustrate that HGT rates can determine the stability of gene abundance in microbial communities. We further validated these predictions using engineered microbial consortia of different complexities transferring one or more than a dozen clinically isolated plasmids, as well as through the reanalysis of data from the literature. Our results demonstrate a generalizable strategy to program the gene stability of microbial communities.
+
+[Source](https://doi.org/10.1038/s41589-022-01114-3)
+
+10.1038/s41589-022-01114-3
+
+---
+
+## A Multiscale Spatiotemporal Model Including a Switch from Aerobic to Anaerobic Metabolism Reproduces Succession in the Early Infant Gut Microbiota.
+ 01.09.2022, _DM Versluis, R Schoemaker, E Looijesteijn, D Muysken, PV Jeurink, M Paques, JMW Geurts, RMH Merks_
+
+
+The human intestinal microbiota starts to form immediately after birth and is important for the health of the host. During the first days, facultatively anaerobic bacterial species generally dominate, such as Enterobacteriaceae. These are succeeded by strictly anaerobic species, particularly Bifidobacterium species. An early transition to Bifidobacterium species is associated with health benefits; for example, Bifidobacterium species repress growth of pathogenic competitors and modulate the immune response. Succession to Bifidobacterium is thought to be due to consumption of intracolonic oxygen present in newborns by facultative anaerobes, including Enterobacteriaceae. To study if oxygen depletion suffices for the transition to Bifidobacterium species, here we introduced a multiscale mathematical model that considers metabolism, spatial bacterial population dynamics, and cross-feeding. Using publicly available metabolic network data from the AGORA collection, the model simulates ab initio the competition of strictly and facultatively anaerobic species in a gut-like environment under the influence of lactose and oxygen. The model predicts that individual differences in intracolonic oxygen in newborn infants can explain the observed individual variation in succession to anaerobic species, in particular Bifidobacterium species. Bifidobacterium species became dominant in the model by their use of the bifid shunt, which allows Bifidobacterium to switch to suboptimal yield metabolism with fast growth at high lactose concentrations, as predicted here using flux balance analysis. The computational model thus allows us to test the internal plausibility of hypotheses for bacterial colonization and succession in the infant colon. IMPORTANCE The composition of the infant microbiota has a great impact on infant health, but its controlling factors are still incompletely understood. The frequently dominant anaerobic Bifidobacterium species benefit health, e.g., they can keep harmful competitors under control and modulate the intestinal immune response. Controlling factors could include nutritional composition and intestinal mucus composition, as well as environmental factors, such as antibiotics. We introduce a modeling framework of a metabolically realistic intestinal microbial ecology in which hypothetical scenarios can be tested and compared. We present simulations that suggest that greater levels of intraintestinal oxygenation more strongly delay the dominance of Bifidobacterium species, explaining the observed variety of microbial composition and demonstrating the use of the model for hypothesis generation. The framework allowed us to test a variety of controlling factors, including intestinal mixing and transit time. Future versions will also include detailed modeling of oligosaccharide and mucin metabolism.
+
+[Source](https://doi.org/10.1128/msystems.00446-22)
+
+10.1128/msystems.00446-22
+
+---
+
+## Gut microbiome dysbiosis is associated with increased mortality after solid organ transplantation.
+ 31.08.2022, _JC Swarte, Y Li, S Hu, JR Björk, R Gacesa, A Vich Vila, RM Douwes, V Collij, A Kurilshikov, A Post, MAY Klaassen, MF Eisenga, AW Gomes-Neto, D Kremer, BH Jansen, TJ Knobbe, SP Berger, JF Sanders, MR Heiner-Fokkema, RJ Porte, FJC Cuperus, VE de Meijer, C Wijmenga, EAM Festen, A Zhernakova, J Fu, HJM Harmsen, H Blokzijl, SJL Bakker, RK Weersma_
+
+
+Organ transplantation is a life-saving treatment for patients with end-stage disease, but survival rates after transplantation vary considerably. There is now increasing evidence that the gut microbiome is linked to the survival of patients undergoing hematopoietic cell transplant, yet little is known about the role of the gut microbiome in solid organ transplantation. We analyzed 1370 fecal samples from 415 liver and 672 renal transplant recipients using shotgun metagenomic sequencing to assess microbial taxonomy, metabolic pathways, antibiotic resistance genes, and virulence factors. To quantify taxonomic and metabolic dysbiosis, we also analyzed 1183 age-, sex-, and body mass index-matched controls from the same population. In addition, a subset of 78 renal transplant recipients was followed longitudinally from pretransplantation to 24 months after transplantation. Our data showed that both liver and kidney transplant recipients suffered from gut dysbiosis, including lower microbial diversity, increased abundance of unhealthy microbial species, decreased abundance of important metabolic pathways, and increased prevalence and diversity of antibiotic resistance genes and virulence factors. These changes were found to persist up to 20 years after transplantation. Last, we demonstrated that the use of immunosuppressive drugs was associated with the observed dysbiosis and that the extent of dysbiosis was associated with increased mortality after transplantation. This study represents a step toward potential microbiome-targeted interventions that might influence the outcomes of recipients of solid organ transplantation.
+
+[Source](https://doi.org/10.1126/scitranslmed.abn7566)
+
+10.1126/scitranslmed.abn7566
+
+---
+
+## Intestinal Microbiomics and Metabolomics Insights into the Hepatoprotective Effects of <em>Lactobacillus paracasei</em> CCFM1222 Against the Acute Liver Injury in Mice
+
+[Source](https://doi.org/10.1007/s12602-022-09986-6)
+
+---
+
+## An Alternative Oat-Containing Ready-To-Use Therapeutic Food Does Not Alter Intestinal Permeability or the 16S rRNA Fecal Microbiome Configuration Among Children With Severe Malnutrition in Sierra Leone: A Randomized Controlled Trial
+
+[Source](https://doi.org/10.1093/jn/nxac207)
+
+---
+
+## Study on the Effect of Molecular Weight on the Gut Microbiota Fermentation Properties of Blackberry Polysaccharides <em>In Vitro</em>
+
+[Source](https://doi.org/10.1021/acs.jafc.2c03091)
+
+---
+
+## Tissue-wide metabolomics reveals wide impact of gut microbiota on mice metabolite composition
+
+[Source](https://doi.org/10.1038/s41598-022-19327-w)
+
+---
+
+## Gut microbiota mediates the inhibition of lymphopoiesis in dietary-restricted mice by suppressing glycolysis
+
+[Source](https://doi.org/10.1080/19490976.2022.2117509)
+
+---
+
+## Limited microbiome differences in captive and semi-wild primate populations consuming similar diets
+
+[Source](https://doi.org/10.1093/femsec/fiac098)
+
+---
+
+## Biodiversity, environmental drivers, and sustainability of the global deep-sea sponge microbiome
+
+[Source](https://doi.org/10.1038/s41467-022-32684-4)
+
+---
+
+## Strain-level profiling with picodroplet microfluidic cultivation reveals host-specific adaption of honeybee gut symbionts
+
+[Source](https://doi.org/10.1186/s40168-022-01333-9)
+
+---
+
+## Mucin O-glycan-microbiota axis orchestrates gut homeostasis in a diarrheal pig model
+
+[Source](https://doi.org/10.1186/s40168-022-01326-8)
+
+---
+
+## Stressful, isolated, yet diverse: Green roofs have rich microbiomes that are not dominated by oligotrophic taxa
+
+[Source](https://doi.org/10.1111/1758-2229.13120)
+
+---
+
+## Nodulation and nitrogen fixation in <em>Medicago truncatula</em> strongly alters the abundance of its root microbiota and subtly affects its structure
+
+[Source](https://doi.org/10.1111/1462-2920.16164)
+
+---
+
+## Gut bacterial nutrient preferences quantified in&nbsp;vivo
+
+[Source](https://doi.org/10.1016/j.cell.2022.07.020)
+
+---
+
+## Metric learning for comparing genomic data with triplet network
+
+[Source](https://doi.org/10.1093/bib/bbac345)
+
+---
+
+## STENSL: Microbial Source Tracking with ENvironment SeLection
+
+[Source](https://doi.org/10.1128/msystems.00995-21)
+
+---
+
+## Emerging microfluidic technologies for microbiome research
+
+[Source](https://doi.org/10.3389/fmicb.2022.906979)
 
 ---
 
