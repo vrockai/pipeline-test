@@ -46,29 +46,15 @@ The gut microbiota presents essential functions in the immune response. The gut 
 
 ---
 
-## Age as a primary driver of the gut microbial composition and function in wild harbor seals.
- 30.08.2022, _A Pacheco-Sandoval, A Lago-Lestón, A Abadía-Cardoso, E Solana-Arellano, Y Schramm_
-
-
-_Animals, Diet, Feces, Female, Gastrointestinal Microbiome, Male, Milk, Phoca, RNA, Ribosomal, 16S_
-Dietary changes are the major variation cause in the composition of the gut microbiota. The short lactation phase in phocids provides an exceptional opportunity to explore the microbiota's response to a quick transition from a milk-based to a solid diet. We investigated the effects of age and sex on the gut microbiota of harbor seals in Mexico using rectal and fecal samples from pups and adults. 16S gene sequencing revealed age explains most of the observed variations in microbial composition. Individuals with frequent contact (pups-female adults) have major microbial similarities than those with little or no contact (pups-male adults). Overall, adults and females (regardless of sex and age, respectively) have a greater microbial richness; as seals grow, the core microbiome shrinks, and microbial diversity increases. We found pathways related to milk and chitin digestion in pups' microbiomes, indicating pups were transitioning to a solid diet. An enrichment of routes related to dramatic weight loss and body mass indicated higher metabolic stress in pups in late breeding season, when they are weaned and start intermittent fasting. Our findings highlight the host-microbiome interaction in harbor seals during late breeding season in response to food shifts and metabolic stress.
+## Age as a primary driver of the gut microbial composition and function in wild harbor seals
 
 [Source](https://www.nature.com/articles/s41598-022-18565-2)
 
-10.1038/s41598-022-18565-2
-
 ---
 
-## Biogeographical survey of soil microbiomes across sub-Saharan Africa: structure, drivers, and predicted climate-driven changes.
- 30.08.2022, _DA Cowan, PH Lebre, C Amon, RW Becker, HI Boga, A Boulangé, TL Chiyaka, T Coetzee, PC de Jager, O Dikinya, F Eckardt, M Greve, MA Harris, DW Hopkins, HB Houngnandan, P Houngnandan, K Jordaan, E Kaimoyo, AK Kambura, G Kamgan-Nkuekam, TP Makhalanyane, G Maggs-Kölling, E Marais, H Mondlane, E Nghalipo, BW Olivier, M Ortiz, LR Pertierra, JB Ramond, M Seely, I Sithole-Niang, A Valverde, G Varliero, S Vikram, DH Wall, A Zeze_
-
-
-_Biodiversity, Desert Climate, Ecosystem, Microbiota, Soil, Soil Microbiology_
-Top-soil microbiomes make a vital contribution to the Earth's ecology and harbor an extraordinarily high biodiversity. They are also key players in many ecosystem services, particularly in arid regions of the globe such as the African continent. While several recent studies have documented patterns in global soil microbial ecology, these are largely biased towards widely studied regions and rely on models to interpolate the microbial diversity of other regions where there is low data coverage. This is the case for sub-Saharan Africa, where the number of regional microbial studies is very low in comparison to other continents.
+## Biogeographical survey of soil microbiomes across sub-Saharan Africa: structure, drivers, and predicted climate-driven changes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01297-w)
-
-10.1186/s40168-022-01297-w
 
 ---
 
@@ -78,42 +64,21 @@ Top-soil microbiomes make a vital contribution to the Earth's ecology and harbor
 
 ---
 
-## Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome.
- 30.08.2022, _P Madrigal, NK Singh, JM Wood, E Gaudioso, F Hernández-Del-Olmo, CE Mason, K Venkateswaran, A Beheshti_
-
-
-_Algorithms, Anti-Bacterial Agents, Drug Resistance, Bacterial, Humans, Machine Learning, Metagenomics, Microbiota, Spacecraft_
-Antimicrobial resistance (AMR) has a detrimental impact on human health on Earth and it is equally concerning in other environments such as space habitat due to microgravity, radiation and confinement, especially for long-distance space travel. The International Space Station (ISS) is ideal for investigating microbial diversity and virulence associated with spaceflight. The shotgun metagenomics data of the ISS generated during the Microbial Tracking-1 (MT-1) project and resulting metagenome-assembled genomes (MAGs) across three flights in eight different locations during 12 months were used in this study. The objective of this study was to identify the AMR genes associated with whole genomes of 226 cultivable strains, 21 shotgun metagenome sequences, and 24 MAGs retrieved from the ISS environmental samples that were treated with propidium monoazide (PMA; viable microbes).
+## Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01332-w)
 
-10.1186/s40168-022-01332-w
-
 ---
 
-## Extensive diversity and rapid turnover of phage defense repertoires in cheese-associated bacterial communities.
- 30.08.2022, _V Somerville, T Schowing, H Chabas, RS Schmidt, U von Ah, R Bruggmann, P Engel_
-
-
-_Bacteria, Bacteriophages, Cheese, Genome, Bacterial, Metagenome_
-Phages are key drivers of genomic diversity in bacterial populations as they impose strong selective pressure on the evolution of bacterial defense mechanisms across closely related strains. The pan-immunity model suggests that such diversity is maintained because the effective immune system of a bacterial species is the one distributed across all strains present in the community. However, only few studies have analyzed the distribution of bacterial defense systems at the community-level, mostly focusing on CRISPR and comparing samples from complex environments. Here, we studied 2778 bacterial genomes and 188 metagenomes from cheese-associated communities, which are dominated by a few bacterial taxa and occur in relatively stable environments.
+## Extensive diversity and rapid turnover of phage defense repertoires in cheese-associated bacterial communities
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01328-6)
 
-10.1186/s40168-022-01328-6
-
 ---
 
-## Crowdsourced benchmarking of taxonomic metagenome profilers: lessons learned from the sbv IMPROVER Microbiomics challenge.
- 01.09.2022, _C Poussin, L Khachatryan, N Sierro, VK Narsapuram, F Meyer, V Kaikala, V Chawla, U Muppirala, S Kumar, V Belcastro, JND Battey, E Scotti, S Boué, AC McHardy, MC Peitsch, NV Ivanov, J Hoeng_
-
-
-_Benchmarking, Crowdsourcing, Metagenome, Metagenomics, Software_
-Selection of optimal computational strategies for analyzing metagenomics data is a decisive step in determining the microbial composition of a sample, and this procedure is complex because of the numerous tools currently available. The aim of this research was to summarize the results of crowdsourced sbv IMPROVER Microbiomics Challenge designed to evaluate the performance of off-the-shelf metagenomics software as well as to investigate the robustness of these results by the extended post-challenge analysis. In total 21 off-the-shelf taxonomic metagenome profiling pipelines were benchmarked for their capacity to identify the microbiome composition at various taxon levels across 104 shotgun metagenomics datasets of bacterial genomes (representative of various microbiome samples) from public databases. Performance was determined by comparing predicted taxonomy profiles with the gold standard.
+## Crowdsourced benchmarking of taxonomic metagenome profilers: lessons learned from the sbv IMPROVER Microbiomics challenge
 
 [Source](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08803-2)
-
-10.1186/s12864-022-08803-2
 
 ---
 
