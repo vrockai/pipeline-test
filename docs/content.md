@@ -1,5 +1,5 @@
 ## A compendium of 32,277 metagenome-assembled genomes and over 80 million genes from the early-life human gut microbiome.
- 01.09.2022, _S Zeng, D Patangia, A Almeida, Z Zhou, D Mu, R Paul Ross, C Stanton, S Wang_
+ 04.09.2022, _S Zeng, D Patangia, A Almeida, Z Zhou, D Mu, R Paul Ross, C Stanton, S Wang_
 
 
 Age-specific reference genomes of the human gut microbiome can provide higher resolution for metagenomic analyses including taxonomic classification, strain-level genomic investigation and functional characterization. We present the Early-Life Gut Genomes (ELGG) catalog with 32,277 genomes representing 2172 species from 6122 fecal metagenomes collected from children under 3 years old spanning delivery mode, gestational age, feeding pattern, and geography. The ELGG substantially expanded the phylogenetic diversity by 38% over the isolate microbial genomes, and the genomic landscape of the early-life microbiome by increasing recruitment of metagenomic reads to 82.8%. More than 60% of the ELGG species lack an isolate representative. The conspecific genomes of the most abundant species from children differed in gene diversity and functions compared to adults. The ELGG genomes encode over 80 million protein sequences, forming the Early-Life Gut Proteins (ELGP) catalog with over four million protein clusters, 29.5% of which lacked functional annotations. The ELGG and ELGP references provided new insights into the early-life human gut microbiome and will facilitate studies to understand the development and mechanisms of disturbances of the human gut microbiome in early life.
@@ -29,7 +29,7 @@ Akkermansia muciniphila is key member of the human gut microbiota, impacting man
 ---
 
 ## Lactic acid from vaginal microbiota enhances cervicovaginal epithelial barrier integrity by promoting tight junction protein expression.
- 31.08.2022, _DJ Delgado-Diaz, B Jesaveluk, JA Hayward, D Tyssen, A Alisoltani, M Potgieter, L Bell, E Ross, A Iranzadeh, I Allali, S Dabee, S Barnabas, H Gamieldien, JM Blackburn, N Mulder, SB Smith, VL Edwards, AD Burgener, LG Bekker, J Ravel, JS Passmore, L Masson, AC Hearps, G Tachedjian_
+ 04.09.2022, _DJ Delgado-Diaz, B Jesaveluk, JA Hayward, D Tyssen, A Alisoltani, M Potgieter, L Bell, E Ross, A Iranzadeh, I Allali, S Dabee, S Barnabas, H Gamieldien, JM Blackburn, N Mulder, SB Smith, VL Edwards, AD Burgener, LG Bekker, J Ravel, JS Passmore, L Masson, AC Hearps, G Tachedjian_
 
 
 Women with a cervicovaginal microbiota dominated by Lactobacillus spp. are at reduced risk of acquiring sexually transmitted infections including HIV, but the biological mechanisms involved remain poorly defined. Here, we performed metaproteomics on vaginal swab samples from young South African women (n = 113) and transcriptomics analysis of cervicovaginal epithelial cell cultures to examine the ability of lactic acid, a metabolite produced by cervicovaginal lactobacilli, to modulate genital epithelial barrier function.
@@ -197,7 +197,7 @@ In the deep ocean symbioses between microbes and invertebrates are emerging as k
 ---
 
 ## Strain-level profiling with picodroplet microfluidic cultivation reveals host-specific adaption of honeybee gut symbionts.
- 31.08.2022, _Y Meng, S Li, C Zhang, H Zheng_
+ 04.09.2022, _Y Meng, S Li, C Zhang, H Zheng_
 
 
 Symbiotic gut microbes have a rich genomic and metabolic pool and are closely related to hosts' health. Traditional sequencing profiling masks the genomic and phenotypic diversity among strains from the same species. Innovative droplet-based microfluidic cultivation may help to elucidate the inter-strain interactions. A limited number of bacterial phylotypes colonize the honeybee gut, while individual strains possess unique genomic potential and critical capabilities, which provides a particularly good model for strain-level analyses.
