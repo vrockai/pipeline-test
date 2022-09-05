@@ -232,39 +232,21 @@ Symbiotic gut microbes have a rich genomic and metabolic pool and are closely re
 
 ---
 
-## Metric learning for comparing genomic data with triplet network.
- 01.09.2022, _Z Ma, YY Lu, Y Wang, R Lin, Z Yang, F Zhang, Y Wang_
-
-
-Many biological applications are essentially pairwise comparison problems, such as evolutionary relationships on genomic sequences, contigs binning on metagenomic data, cell type identification on gene expression profiles of single-cells, etc. To make pair-wise comparison, it is necessary to adopt suitable dissimilarity metric. However, not all the metrics can be fully adapted to all possible biological applications. It is necessary to employ metric learning based on data adaptive to the application of interest. Therefore, in this study, we proposed MEtric Learning with Triplet network (MELT), which learns a nonlinear mapping from original space to the embedding space in order to keep similar data closer and dissimilar data far apart. MELT is a weakly supervised and data-driven comparison framework that offers more adaptive and accurate dissimilarity learned in the absence of the label information when the supervised methods are not applicable. We applied MELT in three typical applications of genomic data comparison, including hierarchical genomic sequences, longitudinal microbiome samples and longitudinal single-cell gene expression profiles, which have no distinctive grouping information. In the experiments, MELT demonstrated its empirical utility in comparison to many widely used dissimilarity metrics. And MELT is expected to accommodate a more extensive set of applications in large-scale genomic comparisons. MELT is available at https://github.com/Ying-Lab/MELT.
+## Metric learning for comparing genomic data with triplet network
 
 [Source](https://doi.org/10.1093/bib/bbac345)
 
-10.1093/bib/bbac345
-
 ---
 
-## STENSL: Microbial Source Tracking with ENvironment SeLection.
- 01.09.2022, _U An, L Shenhav, CA Olson, EY Hsiao, E Halperin, S Sankararaman_
-
-
-Microbial source tracking analysis has emerged as a widespread technique for characterizing the properties of complex microbial communities. However, this analysis is currently limited to source environments sampled in a specific study. In order to expand the scope beyond one single study and allow the exploration of source environments using large databases and repositories, such as the Earth Microbiome Project, a source selection procedure is required. Such a procedure will allow differentiating between contributing environments and nuisance ones when the number of potential sources considered is high. Here, we introduce STENSL (microbial Source Tracking with ENvironment SeLection), a machine learning method that extends common microbial source tracking analysis by performing an unsupervised source selection and enabling sparse identification of latent source environments. By incorporating sparsity into the estimation of potential source environments, STENSL improves the accuracy of true source contribution, while significantly reducing the noise introduced by noncontributing ones. We therefore anticipate that source selection will augment microbial source tracking analyses, enabling exploration of multiple source environments from publicly available repositories while maintaining high accuracy of the statistical inference. IMPORTANCE Microbial source tracking is a powerful tool to characterize the properties of complex microbial communities. However, this analysis is currently limited to source environments sampled in a specific study. In many applications there is a clear need to consider source selection over a large array of microbial environments, external to the study. To this end, we developed STENSL (microbial Source Tracking with ENvironment SeLection), an expectation-maximization algorithm with sparsity that enables the identification of contributing sources among a large set of potential microbial environments. With the unprecedented expansion of microbiome data repositories such as the Earth Microbiome Project, recording over 200,000 samples from more than 50 types of categorized environments, STENSL takes the first steps in performing automated source exploration and selection. STENSL is significantly more accurate in identifying the contributing sources as well as the unknown source, even when considering hundreds of potential source environments, settings in which state-of-the-art microbial source tracking methods add considerable error.
+## STENSL: Microbial Source Tracking with ENvironment SeLection
 
 [Source](https://doi.org/10.1128/msystems.00995-21)
 
-10.1128/msystems.00995-21
-
 ---
 
-## Emerging microfluidic technologies for microbiome research.
- 03.09.2022, _Y Yu, H Wen, S Li, H Cao, X Li, Z Ma, X She, L Zhou, S Huang_
-
-
-The importance of the microbiome is increasingly prominent. For example, the human microbiome has been proven to be strongly associated with health conditions, while the environmental microbiome is recognized to have a profound influence on agriculture and even the global climate. Furthermore, the microbiome can serve as a fascinating reservoir of genes that encode tremendously valuable compounds for industrial and medical applications. In the past decades, various technologies have been developed to better understand and exploit the microbiome. In particular, microfluidics has demonstrated its strength and prominence in the microbiome research. By taking advantage of microfluidic technologies, inherited shortcomings of traditional methods such as low throughput, labor-consuming, and high-cost are being compensated or bypassed. In this review, we will summarize a broad spectrum of microfluidic technologies that have addressed various needs in the field of microbiome research, as well as the achievements that were enabled by the microfluidics (or technological advances). Finally, how microfluidics overcomes the limitations of conventional methods by technology integration will also be discussed.
+## Emerging microfluidic technologies for microbiome research
 
 [Source](https://doi.org/10.3389/fmicb.2022.906979)
-
-10.3389/fmicb.2022.906979
 
 ---
 
