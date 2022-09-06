@@ -29,8 +29,14 @@ We examined associations between five body mass index (BMI) trajectories from ag
 ---
 
 ## Does exposure to different types of menstrual protections affect the vaginal environment?
+ 04.09.2022, _N Tessandier, IB Uysal, B Elie, C Selinger, C Bernat, V Boué, S Grasset, S Groc, M Rahmoun, B Reyné, N Bender, M Bonneau, C Graf, V Tribout, V Foulongne, J Ravel, T Waterboer, C Hirtz, IG Bravo, J Reynes, M Segondy, CL Murall, N Boulle, T Kamiya, S Alizon_
+
+
+The vaginal ecosystem is a key component of women's health. It also represents an ideal system for ecologists to investigate the consequence of perturbations on species diversity and emerging properties between organisational levels. Here, we study how exposure to different types of menstrual protection products is linked to microbial, immunological, demographic, and behavioural measurements in a cohort of young adult women who reported using more often tampons (n = 107) or menstrual cups (n = 31). We first found that cup users were older and smoked less than tampon users. When analysing health indicators, we detected potential associations between cups use reporting and fungal genital infection. A multivariate analysis confirmed that, in our cohort, reporting using cups over tampons was associated with the higher odds ratio to report a fungal genital infection diagnosis by a medical doctor within the last 3 months. We did not detect significant differences between groups in terms of their bacterial vaginal microbiota composition and found marginal differences in the level of expression of 20 cytokines. However, a multivariate analysis of these biological data identified some level of clustering based on the type of menstrual production preferred (cups or tampons). These results suggest that exposure to different types of menstrual products could influence menstrual health. Larger studies and studies with a more powered setting are needed to assess the robustness of these associations and identify causal mechanisms.
 
 [Source](https://doi.org/10.1111/mec.16678)
+
+10.1111/mec.16678
 
 ---
 
@@ -40,9 +46,15 @@ We examined associations between five body mass index (BMI) trajectories from ag
 
 ---
 
-## A shared mucosal gut microbiota signature in primary sclerosing cholangitis before and after liver transplantation
+## A shared mucosal gut microbiota signature in primary sclerosing cholangitis before and after liver transplantation.
+ 03.09.2022, _MJ Hole, K Kaasen Jørgensen, K Holm, PR Braadland, MH Meyer-Myklestad, AW Medhus, DH Reikvam, A Götz, K Grzyb, KM Boberg, TH Karlsen, M Kummen, JR Hov_
+
+
+Several characteristic features of the fecal microbiota have been described in primary sclerosing cholangitis (PSC), while data on mucosal microbiota are less consistent. We aimed to utilize a large colonoscopy cohort to investigate key knowledge gaps, including the role of gut microbiota in PSC with inflammatory bowel disease (IBD), the effect of liver transplantation (LT), and whether recurrent PSC (rPSC) may be used to define consistent microbiota features in PSC irrespective of LT.
 
 [Source](https://doi.org/10.1002/hep.32773)
+
+10.1002/hep.32773
 
 ---
 
@@ -64,9 +76,15 @@ We examined associations between five body mass index (BMI) trajectories from ag
 
 ---
 
-## Freshwater mussels and host fish gut microbe community composition shifts after agricultural contaminant exposure
+## Freshwater mussels and host fish gut microbe community composition shifts after agricultural contaminant exposure.
+ 03.09.2022, _SP Gill, DR Learman, ML Annis, DA Woolnough_
+
+
+We examined the effects of a mixture of contaminants found in agricultural watersheds on the gut microbiota and physiology of both the freshwater mussel Lampsilis cardium, and L. cardium host fish Micropterus salmoides.
 
 [Source](https://doi.org/10.1111/jam.15801)
+
+10.1111/jam.15801
 
 ---
 
