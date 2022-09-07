@@ -71,8 +71,14 @@ To understand the global incidence of the adverse events associated with fecal m
 ---
 
 ## Salivary microbiome in chronic kidney disease: what is its connection to diabetes, hypertension, and immunity?
+ 04.09.2022, _F Liu, J Sheng, L Hu, B Zhang, W Guo, Y Wang, Y Gu, P Jiang, H Lin, B Lydia, Y Sun, Y Tang, C Gu, S Wei, Q Zhai, W Chen, N Feng_
+
+
+The association between oral dysbiosis and chronic kidney disease (CKD) has gained increasing attention in recent years. Diabetes and hypertension are the most common conditions in CKD. However, a case-control study with matched confounding variables on the salivary microbiome in CKD and the influence of diabetes and hypertension on the microbiome has never been reported.
 
 [Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03602-5)
+
+10.1186/s12967-022-03602-5
 
 ---
 
