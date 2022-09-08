@@ -35,7 +35,7 @@ The genus Prevotella comprises 55 species with validly published, and correct, n
 ---
 
 ## A curated data resource of 214K metagenomes for characterization of the global antimicrobial resistome.
- 06.09.2022, _HM Martiny, P Munk, C Brinch, FM Aarestrup, TN Petersen_
+ 07.09.2022, _HM Martiny, P Munk, C Brinch, FM Aarestrup, TN Petersen_
 
 
 The growing threat of antimicrobial resistance (AMR) calls for new epidemiological surveillance methods, as well as a deeper understanding of how antimicrobial resistance genes (ARGs) have been transmitted around the world. The large pool of sequencing data available in public repositories provides an excellent resource for monitoring the temporal and spatial dissemination of AMR in different ecological settings. However, only a limited number of research groups globally have the computational resources to analyze such data. We retrieved 442 Tbp of sequencing reads from 214,095 metagenomic samples from the European Nucleotide Archive (ENA) and aligned them using a uniform approach against ARGs and 16S/18S rRNA genes. Here, we present the results of this extensive computational analysis and share the counts of reads aligned. Over 6.76∙108 read fragments were assigned to ARGs and 3.21∙109 to rRNA genes, where we observed distinct differences in both the abundance of ARGs and the link between microbiome and resistome compositions across various sampling types. This collection is another step towards establishing global surveillance of AMR and can serve as a resource for further research into the environmental spread and dynamic changes of ARGs.
@@ -71,7 +71,7 @@ To understand the global incidence of the adverse events associated with fecal m
 ---
 
 ## Salivary microbiome in chronic kidney disease: what is its connection to diabetes, hypertension, and immunity?
- 04.09.2022, _F Liu, J Sheng, L Hu, B Zhang, W Guo, Y Wang, Y Gu, P Jiang, H Lin, B Lydia, Y Sun, Y Tang, C Gu, S Wei, Q Zhai, W Chen, N Feng_
+ 07.09.2022, _F Liu, J Sheng, L Hu, B Zhang, W Guo, Y Wang, Y Gu, P Jiang, H Lin, B Lydia, Y Sun, Y Tang, C Gu, S Wei, Q Zhai, W Chen, N Feng_
 
 
 The association between oral dysbiosis and chronic kidney disease (CKD) has gained increasing attention in recent years. Diabetes and hypertension are the most common conditions in CKD. However, a case-control study with matched confounding variables on the salivary microbiome in CKD and the influence of diabetes and hypertension on the microbiome has never been reported.
@@ -131,7 +131,7 @@ Animal bacterial infection is increasingly threatening human health. Here we rep
 ---
 
 ## Longitudinal analysis of the rectal microbiome in dogs with diabetes mellitus after initiation of insulin therapy.
- 06.09.2022, _NL Laia, PC Barko, DR Sullivan, MA McMichael, DA Williams, JM Reinhart_
+ 07.09.2022, _NL Laia, PC Barko, DR Sullivan, MA McMichael, DA Williams, JM Reinhart_
 
 
 There have been numerous studies in humans and rodents substantiating the role of the gastrointestinal microbiome in the pathogenesis and progression of both type 1 and type 2 diabetes mellitus. Diabetes mellitus is a common endocrinopathy in dogs; however, little is known about the composition of the gut microbiome during the development and treatment of diabetes in this species. The objective of this pilot study was to characterize the gastrointestinal microbiome of dogs with diabetes mellitus at the time of diagnosis and over the first 12 weeks of insulin therapy and identify associations with glycemic control. Rectal swabs and serum for fructosamine measurement were collected from 6 newly diagnosed diabetic dogs at 2-week intervals for 12 weeks. Rectal samples were sequenced using 16S, ITS, and archaeal primers. Measures of alpha and beta diversity were assessed for changes over time; associations between absolute sequence variant (ASV) relative abundances and time and fructosamine concentration were identified using a microbiome-specific, multivariate linear effects model. No statistically significant changes over time were noted in alpha diversity and samples significantly grouped by dog rather than by time in the beta diversity analysis. However, multiple ASVs were negatively (Clostridium sensu stricto 1, Romboutsia, Collinsella) and positively (Streptococcus, Bacteroides, Ruminococcus gauveauii, Peptoclostridium) associated with time and two ASVs were positively associated with fructosamine (Enterococcus, Escherichia-Shigella). These changes in gastrointestinal microbial composition warrant further investigation of how they may relate to diabetes mellitus progression or control in dogs.
@@ -155,7 +155,7 @@ Persistent microbial symbioses can confer greater fitness to their host under un
 ---
 
 ## Global contribution of pelagic fungi to protein degradation in the ocean.
- 04.09.2022, _E Breyer, Z Zhao, GJ Herndl, F Baltar_
+ 07.09.2022, _E Breyer, Z Zhao, GJ Herndl, F Baltar_
 
 
 Fungi are important degraders of organic matter responsible for reintegration of nutrients into global food chains in freshwater and soil environments. Recent evidence suggests that they are ubiquitously present in the oceanic water column where they play an active role in the degradation of carbohydrates. However, their role in processing other abundant biomolecules in the ocean in comparison with that of prokaryotes remains enigmatic. Here, we performed a global-ocean multi-omics analysis of all fungal-affiliated peptidases (main enzymes responsible for cleaving proteins), which constitute the major fraction (&gt; 50%) of marine living and detrital biomass. We determined the abundance, expression, diversity, taxonomic affiliation, and functional classification of the genes encoding all pelagic fungal peptidases from the epi- and mesopelagic layers.
