@@ -23,7 +23,7 @@ Recognition of the microbiome (and 'polymorphic microbes' within them) as a new 
 ---
 
 ## A taxonomic note on the genus Prevotella: Description of four novel genera and emended description of the genera Hallella and Xylanibacter.
- 06.09.2022, _TCA Hitch, K Bisdorf, A Afrizal, T Riedel, J Overmann, T Strowig, T Clavel_
+ 08.09.2022, _TCA Hitch, K Bisdorf, A Afrizal, T Riedel, J Overmann, T Strowig, T Clavel_
 
 
 The genus Prevotella comprises 55 species with validly published, and correct, names (at June 2021) that are phenotypically, ecologically and functionally diverse. This study used a range of comparative genome approaches (marker gene-based genome phylogeny, core genome phylogeny, average amino acid identity, percentage of conserved proteins and clade-specific marker genes) to identify large differences between the 53 species for which genomes are available, as well as two effectively published yet not validly named species and four novel species. These differences were consistent between the various analysis methods and justify the separation of Prevotella into multiple genera. While the distribution across 19 ecosystem types was unique for each species and inconsistent within clades, the functional repertoire based on the presence/absence of both PFAMs and CAZy families revealed distinct clustering based on the proposed genera. Based on the integration of all results, we propose the reclassification of species previously assigned to the genus Prevotella into seven genera, including four novel genera for which the names Segatella, Hoylesella, Leyella and Palleniella are proposed. In addition to the reclassification of Prevotella, this work describes four novel species, Hallella faecis, Xylanibacter rodentium, Xylanibacter muris, and Palleniella intestinalis.
@@ -46,9 +46,15 @@ The growing threat of antimicrobial resistance (AMR) calls for new epidemiologic
 
 ---
 
-## Alterations in Vaginal Microbiota among Pregnant Women with COVID-19
+## Alterations in Vaginal Microbiota among Pregnant Women with COVID-19.
+ 06.09.2022, _E Celik, G Ozcan, C Vatansever, E Paerhati, MA Kuşkucu, O Dogan, SG Cekic, O Ergonul, A Gürsoy, Ö Keskin, F Can_
+
+
+The maintenance of vaginal microbiota is an important factor to achieve optimum pregnancy outcomes. The study aims to describe the alterations in the composition of vaginal microbiota in pregnant women with COVID-19. This was a prospective case-control study. Vaginal swabs were collected from uninfected pregnant women (n=28) and pregnant women with COVID-19 (n=19) during the active phase of infection and within a month after recovering from infection. The vaginal microbiota on the swabs was examined by 16S rRNA gene sequencing. Shannon index indicates that alpha diversity is significantly higher in women with COVID-19 (P=0.012). There was a significant decrease in Firmicutes (P=0.014) with an increase in Bacteroidota (P=0.018) phyla and a decrease in Lactobacillus (P=0.007) genus in women with COVID-19 than those of uninfected pregnant women. The relative abundance of L.crispatus, L.iners, L.gasseri, and L.jensenii were lower in the COVID-19 group than in uninfected pregnant women. In subgroup analysis, the amount of Ureaplasma spp. was higher in women with moderate/severe than those of asymptomatic/mild disease (P=0.036). The study revealed that vaginal dysbiosis with low abundance of Lactobacillus species occurred in pregnant women infected with SARS-CoV-2. These findings may lead to new studies to elucidate the risk of pregnancy adverse outcomes related to COVID-19. This article is protected by copyright. All rights reserved.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/jmv.28132)
+
+10.1002/jmv.28132
 
 ---
 
@@ -64,9 +70,15 @@ To understand the global incidence of the adverse events associated with fecal m
 
 ---
 
-## Dissecting the role of the human microbiome in COVID-19 via metagenome-assembled genomes
+## Dissecting the role of the human microbiome in COVID-19 via metagenome-assembled genomes.
+ 06.09.2022, _S Ke, ST Weiss, YY Liu_
+
+
+Coronavirus disease 2019 (COVID-19), primarily a respiratory disease caused by infection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), is often accompanied by gastrointestinal symptoms. However, little is known about the relation between the human microbiome and COVID-19, largely due to the fact that most previous studies fail to provide high taxonomic resolution to identify microbes that likely interact with SARS-CoV-2 infection. Here we used whole-metagenome shotgun sequencing data together with assembly and binning strategies to reconstruct metagenome-assembled genomes (MAGs) from 514 COVID-19 related nasopharyngeal and fecal samples in six independent cohorts. We reconstructed a total of 11,584 medium-and high-quality microbial MAGs and obtained 5403 non-redundant MAGs (nrMAGs) with strain-level resolution. We found that there is a significant reduction of strain richness for many species in the gut microbiome of COVID-19 patients. The gut microbiome signatures can accurately distinguish COVID-19 cases from healthy controls and predict the progression of COVID-19. Moreover, we identified a set of nrMAGs with a putative causal role in the clinical manifestations of COVID-19 and revealed their functional pathways that potentially interact with SARS-CoV-2 infection. Finally, we demonstrated that the main findings of our study can be largely validated in three independent cohorts. The presented results highlight the importance of incorporating the human gut microbiome in our understanding of SARS-CoV-2 infection and disease progression.
 
 [Source](https://www.nature.com/articles/s41467-022-32991-w)
+
+10.1038/s41467-022-32991-w
 
 ---
 
@@ -112,15 +124,15 @@ Atopic dermatitis (AD) is a chronic and relapsing multifactorial inflammatory sk
 
 ---
 
-## Rapid screening of antimicrobial probiotics using CRISPR cascade.
- 06.09.2022, _Y Lu, F Li, J Bai, R Ledesma-Amaro, D Liu, Q He, R Deng_
+## Lactobacillus kefiranofaciens ZW18 from Kefir enhances the anti-tumor effect of anti-programmed cell death 1 (PD-1) immunotherapy by modulating the gut microbiota.
+ 07.09.2022, _J Zhao, Y Wang, J Wang, M Lv, C Zhou, L Jia, W Geng_
 
 
-Animal bacterial infection is increasingly threatening human health. Here we report a nucleic acid amplification-free CRISPR genetic assay that allows to rapidly screen potential food-origin antimicrobial probiotics. The assay (termed CRISPRzyme assay) is based on a CRISPR-DNAzyme cascade, where the target gene sequentially activated Cas12a protein and DNAzyme, yielding a limit of detection of 62 CFU Vibrio parahaemolyticus, 86 CFU Salmonella Typhimurium, and 82 CFU Listeria monocytogenes. The elimination of nucleic acid amplification shortens processing time and operational complexity. The assay was used to rapidly screen antimicrobial probiotics by end-measurement of fluorescence of pathogenic bacteria. Particularly, it can estimate the in vivo antimicrobial effect due to its capacity for pathogen quantification in complex samples. We found that isolates of Bacillus and lactic acid bacteria separated from fermented food exhibited strong antimicrobial activity for fish pathogen, Vibrio parahaemolyticus, and identified surfactin as the key antimicrobial component. The CRISPRzyme assay could ease antimicrobial probiotics screening, and constitutes a new tool for combatting pathogenic bacterial contamination and infection.
+Research on probiotics assisting PD-1 inhibitors in anti-tumor therapy has attracted widespread attention. Therefore, it is important to find new probiotic strains with a PD-1 inhibitor promoting effect. This study aims to find a strain with a good promoting effect on PD-1 inhibitor treatment from 5 probiotic strains with the function of modulating the gut microbiota or enhancing immunity. A preclinical study on the effect of probiotics combined with PD-1 inhibitors in murine melanoma was designed. In this study, Lactobacillus kefiranofaciens ZW18 (ZW18) was found to have the best anti-melanoma effect among the probiotic candidates in PD-1 inhibitor treatment. ZW18 inhibited the tumor growth in PD-1-treated mice with an inhibition rate of 66.16% by activating the body's immunity and promoting the tumor CD8+ T cell infiltration. Moreover, the supplement of ZW18 optimized the composition of the gut microbiota in mice treated with PD-1 inhibitors, and significantly increased the abundance of Akkermansia, the Prevotellaceae_NK3B31_group and Muribaculum. Collectively, ZW18 could be regarded as a potential candidate strain for promoting tumor immunotherapy. ZW18 combined with PD-1 inhibitors has a possibility of serving as a functional food to assist tumor immunotherapy.
 
 [Source](https://www.frontiersin.org/articles/10.3389/fmicb.2022.934890/full)
 
-10.1016/j.bios.2022.114673
+10.1039/d2fo01747d
 
 ---
 
