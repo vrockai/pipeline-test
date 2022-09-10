@@ -53,18 +53,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiome and breast-feeding: Implications for early immune development.
- 08.09.2022, _EC Davis, VP Castagna, DA Sela, MA Hillard, S Lindberg, NJ Mantis, AE Seppo, KM Järvinen_
-
-
-Establishment of the gut microbiome during early life is a complex process with lasting implications for an individual's health. Several factors influence microbial assembly; however, breast-feeding is recognized as one of the most influential drivers of gut microbiome composition during infancy, with potential implications for function. Differences in gut microbial communities between breast-fed and formula-fed infants have been consistently observed and are hypothesized to partially mediate the relationships between breast-feeding and decreased risk for numerous communicable and noncommunicable diseases in early life. Despite decades of research on the gut microbiome of breast-fed infants, there are large scientific gaps in understanding how human milk has evolved to support microbial and immune development. This review will summarize the evidence on how breast-feeding broadly affects the composition and function of the early-life gut microbiome and discuss mechanisms by which specific human milk components shape intestinal bacterial colonization, succession, and function.
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.jaci.2022.07.014
-
----
-
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
