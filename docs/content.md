@@ -52,9 +52,15 @@ Complex carbohydrates that escape small intestinal digestion, are broken down in
 
 ---
 
-## Exploration of rumen microbial and carbohydrate-active enzyme profiles in cattle fed coir a lignin-rich diet using a metagenomic approach
+## Exploration of rumen microbial and carbohydrate-active enzyme profiles in cattle fed coir a lignin-rich diet using a metagenomic approach.
+ 08.09.2022, _M Khatoon, SJ Jakhesara, DN Rank, CG Joshi, AP Kunjadiya_
+
+
+Lignocellulosic biomass is a rich source of feed for cattle. Amongst them, coconut coir may be the potential source of feed supplements. To assess, the effect of various concentrations of coconut coir (0%, 21% and 40 %) as a feed supplement on the rumen microbiome of cattle (Kankrej breed), a metagenomic (16S rRNA gene amplicon and shotgun sequencing) study was performed. The Alpha diversity estimation from the amplicon study suggested that the group of cattle fed food without the coconut coir has a higher number of genera than the cattle fed with mixed ration. Within the liquid fraction, bacterial phyla Bacteroidetes were abundant followed by Firmicutes and Fibrobacteres, whereas the proportion of Tenericutes, TM7, SRI, Verrucomicrobia, Lentisphaerae, and Elusimicrobia had decreased with the rise in the coir concentration. While within the solid fractions, the proportion of Elusimicrobia increased, but the count of Bacteriodetes, Firmicutes, Fibrobacteres Tenericutes, TM7, SRI, Verrucomicrobia, and Lentisphaerae decreased with an increase in coir percentages. The results obtained from shotgun sequencing show similar results for bacterial diversity. The functions associated with carbohydrate metabolism were abundant in both the treatments as compared to the control. Functions related to glycoside hydrolases, glycosyltransferases and carbohydrate-binding modules were abundant in both the treatments as compared to control. Thus, the study indicates that the microbiome does alter after feeding coir as a supplement and may be used as feed for cattle.
 
 [Source](https://doi.org/10.1016/j.gene.2022.146868)
+
+10.1016/j.gene.2022.146868
 
 ---
 
