@@ -1,90 +1,108 @@
-## Evolution of the Gut Microbiome in HIV-Exposed Uninfected and Unexposed Infants during the First Year of Life.
- 08.09.2022, _CL Jackson, DN Frank, CE Robertson, D Ir, JM Kofonow, MP Montlha, EAML Mutsaerts, MC Nunes, SA Madhi, D Ghosh, A Weinberg_
+## CAR-T cell therapy-related cytokine release syndrome and therapeutic response is modulated by the gut microbiome in hematologic malignancies.
+ 09.09.2022, _Y Hu, J Li, F Ni, Z Yang, X Gui, Z Bao, H Zhao, G Wei, Y Wang, M Zhang, R Hong, L Wang, W Wu, M Mohty, A Nagler, AH Chang, MRM van den Brink, MD Li, H Huang_
 
 
-HIV-exposed uninfected infants (HEU) have abnormal immunologic functions and increased infectious morbidity in the first 6 months of life, which gradually decreases thereafter. The mechanisms underlying HEU immune dysfunctions are unknown. We hypothesized that unique characteristics of the HEU gut microbiota associated with maternal HIV status may underlie the HEU immunologic dysfunctions. We characterized the infant gut, maternal gut, and breast milk microbiomes of mother-infant pairs, including 123 with HEU and 117 with HIV-uninfected infants (HUU), from South Africa. Pan-bacterial 16S rRNA gene sequencing was performed on (i) infant stool at 6, 28, and 62 weeks; (ii) maternal stool at delivery and 62 weeks; and (iii) breast milk at 6 weeks. Infant gut alpha and beta diversities were similar between groups. Microbial composition significantly differed, including 12 genera, 5 families and 1 phylum at 6 weeks; 12 genera and 2 families at 28 weeks; and 2 genera and 2 families at 62 weeks of life. Maternal gut microbiomes significantly differed in beta diversity and microbial composition, and breast milk microbiomes differed in microbial composition only. Infant gut microbiotas extensively overlapped with maternal gut and minimally with breast milk microbiotas. Nevertheless, exclusively breastfed HEU and HUU had less divergent microbiomes than nonexclusively breastfed infants. Feeding pattern and maternal gut microbiome imprint the HEU gut microbiome. Compared to HUU, the HEU gut microbiome prominently differs in early infancy, including increased abundance of taxa previously observed to be present in excess in adults with HIV. The HEU and HUU gut microbiome compositions converge over time, mirroring the kinetics of HEU infectious morbidity risk. IMPORTANCE HIV-exposed uninfected infants (HEU) are highly vulnerable to infections in the first 6 months of life, and this vulnerability decreases to the age of 24 months. Because the microbiome plays a critical role in the education of the infant immune system, which protects them against infections, we characterized the gut microbiomes of HEU and HIV-unexposed infants (HUU) in the first year of life. The HEU and HUU gut microbiomes showed prominent differences at 6 and 28 weeks of life but converged at 62 weeks of life, mirroring the time course of the HEU excess infectious morbidity and suggesting a potential association between the infant gut microbiome structure and susceptibility to infections. Infant gut microbiotas extensively overlapped with maternal gut and minimally with breast milk microbiotas. Moreover, exclusively breastfed HEU and HUU had less divergent microbiomes at 6 and 28 weeks than nonexclusively breastfed HEU and HUU. The factors that affect the HEU gut microbiome, maternal gut microbiome and exclusive breastfeeding, may be targeted by interventions.
+Immunotherapy utilizing chimeric antigen receptor T cell (CAR-T) therapy holds promise for hematologic malignancies, however, response rates and associated immune-related adverse effects widely vary among patients. Here we show, by comparing diversity and composition of the gut microbiome during different CAR-T therapeutic phases in the clinical trial ChiCTR1800017404, that the gut flora characteristically differs among patients and according to treatment stages, and might also reflect patient response to therapy in relapsed/refractory multiple myeloma (MM; n = 43), acute lympholastic leukemia (ALL; n = 23) and non-Hodgkin lymphoma (NHL; n = 12). We observe significant temporal differences in diversity and abundance of Bifidobacterium, Prevotella, Sutterella, and Collinsella between MM patients in complete remission (n = 24) and those in partial remission (n = 11). Furthermore, we find that patients with severe cytokine release syndrome present with higher abundance of Bifidobacterium, Leuconostoc, Stenotrophomonas, and Staphylococcus, which is reproducible in an independent cohort of 38 MM patients. This study has important implications for understanding the biological role of the microbiome in CAR-T treatment responsiveness of hematologic malignancy patients, and may guide therapeutic intervention to increase efficacy. The success rate of CAR-T cell therapy is high in blood cancers, yet individual patient characteristics might reduce therapeutic benefit. Here we show that therapeutic response in MM, ALL and NHL, and occurrence of severe cytokine release syndrome in multiple myeloma are associated with specific gut microbiome alterations.
 
-[Source](https://doi.org/10.1128/mbio.01229-22)
+[Source](https://doi.org/10.1038/s41467-022-32960-3)
 
-10.1128/mbio.01229-22
-
----
-
-## Gastrointestinal microbiota profile and clinical correlations in advanced EGFR-WT and EGFR-mutant non-small cell lung cancer.
- 08.09.2022, _W Saifon, I Sensorn, N Trachu, S Oranratnachai, A Charoenyingwattana, C Runcharoen, N Monnamo, W Sukkasem, P Inchareon, T Suwatanapongched, P Chansriwong, T Ativitavas, R Panvichian, W Chantratita, T Reungwetwattana_
-
-
-Difference in clinical responses to cancer therapy in each patient is from several factors. Gastrointestinal microbiota is one of the reasons. However, this correlation remains unknown. This study aims to explore correlation between gastrointestinal microbiota profile and clinical outcomes in Thai advanced non-small cell lung cancer (NSCLC) according to epidermal growth factor receptor (EGFR) status.
-
-[Source](https://doi.org/10.1186/s12885-022-10050-3)
-
-10.1186/s12885-022-10050-3
+10.1038/s41467-022-32960-3
 
 ---
 
-## Hybrid metagenome assemblies link carbohydrate structure with function in the human gut microbiome.
- 08.09.2022, _A Ravi, P Troncoso-Rey, J Ahn-Jarvis, KR Corbin, S Harris, H Harris, A Aydin, GL Kay, T Le Viet, R Gilroy, MJ Pallen, AJ Page, J O'Grady, FJ Warren_
+## Untangling the link between the human gut microbiota composition and the severity of the symptoms of the COVID-19 infection.
+ 10.09.2022, _L Mancabelli, C Milani, F Fontana, GA Lugli, C Tarracchini, A Viappiani, T Ciociola, A Ticinesi, A Nouvenne, T Meschi, F Turroni, M Ventura_
 
 
-Complex carbohydrates that escape small intestinal digestion, are broken down in the large intestine by enzymes encoded by the gut microbiome. This is a symbiotic relationship between microbes and host, resulting in metabolic products that influence host health and are exploited by other microbes. However, the role of carbohydrate structure in directing microbiota community composition and the succession of carbohydrate-degrading microbes, is not fully understood. In this study we evaluate species-level compositional variation within a single microbiome in response to six structurally distinct carbohydrates in a controlled model gut using hybrid metagenome assemblies. We identified 509 high-quality metagenome-assembled genomes (MAGs) belonging to ten bacterial classes and 28 bacterial families. Bacterial species identified as carrying genes encoding starch binding modules increased in abundance in response to starches. The use of hybrid metagenomics has allowed identification of several uncultured species with the functional potential to degrade starch substrates for future study.
+Recent pandemic infection caused by SARS-CoV-2 (COVID-19) led the scientific community to investigate the possible causes contributing to the physiopathology of this disease. In this context, analyses of the intestinal microbiota highlighted possible correlation between host-associated bacterial communities and development of the COVID-19. Nevertheless, a detailed investigation of the role of the human microbiota in the severity of the symptoms of this disease is still lacking. This study performed a comprehensive meta-analysis of 323 fecal samples from public and novel Italian data sets based on the shotgun metagenomic approach. In detail, the comparative analyses revealed possible differences in the microbial biodiversity related to the individual health status, highlighting a species richness decrease in COVID-19 patients with a severe prognosis. Moreover, healthy subjects resulted characterized by a higher abundance of protective and health-supporting bacterial species, while patients affected by COVID-19 disease displayed a significant increase of opportunistic pathogen bacteria involved in developing putrefactive dysbiosis. Furthermore, prediction of the microbiome functional capabilities suggested that individuals affected by COVID-19 subsist in an unbalanced metabolism characterized by an overrepresentation of enzymes involved in the protein metabolism at the expense of carbohydrates-oriented pathways, which can impact on disease severity and in excessive systemic inflammation. This article is protected by copyright. All rights reserved.
 
-[Source](https://doi.org/10.1038/s42003-022-03865-0)
+[Source](https://doi.org/10.1111/1462-2920.16201)
 
-10.1038/s42003-022-03865-0
-
----
-
-## Genetic Determinants of Hydrogen Sulfide Biosynthesis in <em>Fusobacterium nucleatum</em> Are Required for Bacterial Fitness, Antibiotic Sensitivity, and Virulence
-
-[Source](https://doi.org/10.1128/mbio.01936-22)
+10.1111/1462-2920.16201
 
 ---
 
-## Genomic and ecologic characteristics of the airway microbial-mucosal complex
+## Trimethylamine-N-oxide (TMAO) promotes balloon injury-induced neointimal hyperplasia via upregulating Beclin1 and impairing autophagic flux
 
-[Source](https://doi.org/10.1101/2022.09.08.507073)
-
----
-
-## <em>Lactiplantibacillus plantarum</em> Regulated Intestinal Microbial Community and Cytokines to Inhibit <em>Salmonella typhimurium </em>Infection
-
-[Source](https://doi.org/10.1007/s12602-022-09987-5)
+[Source](https://doi.org/10.1016/j.biopha.2022.113639)
 
 ---
 
-## Exploration of rumen microbial and carbohydrate-active enzyme profiles in cattle fed coir a lignin-rich diet using a metagenomic approach
+## <em>Weizmannia faecalis</em> sp. nov., isolated from a human stool sample
 
-[Source](https://doi.org/10.1016/j.gene.2022.146868)
-
----
-
-## The core bacterial microbiome of banana (<em>Musa</em> spp.)
-
-[Source](https://doi.org/10.1186/s40793-022-00442-0)
+[Source](https://doi.org/10.1007/s00203-022-03229-6)
 
 ---
 
-## Higher pH is associated with enhanced co-occurrence network complexity, stability and nutrient cycling functions in the rice rhizosphere microbiome
+## <em>Fusobacterium nucleatum</em> aggravates ulcerative colitis through promoting gut microbiota dysbiosis and dysmetabolism
 
-[Source](https://doi.org/10.1111/1462-2920.16185)
-
----
-
-## Virome analysis in lakes of the South Shetland Islands, Antarctica – 2020
-
-[Source](https://doi.org/10.1016/j.scitotenv.2022.158537)
+[Source](https://doi.org/10.1002/JPER.22-0205)
 
 ---
 
-## Investigating differential abundance methods in microbiome data: A benchmark study
+## The evaluation of fecal microbiota transplantation vs vancomycin in a <em>Clostridioides difficile</em> infection model
 
-[Source](https://doi.org/10.1371/journal.pcbi.1010467)
+[Source](https://doi.org/10.1007/s00253-022-12154-z)
 
 ---
 
-## A rapid and standardized workflow for functional assessment of bacterial biosensors in fecal samples
+## The early-life gut microbiome and vaccine efficacy
 
-[Source](https://doi.org/10.3389/fbioe.2022.859600)
+[Source](https://doi.org/10.1016/S2666-5247(22)00185-9)
+
+---
+
+## Crucial nuances in understanding (mis)associations between the neonatal microbiome and Cesarean delivery
+
+[Source](https://doi.org/10.1016/j.molmed.2022.07.005)
+
+---
+
+## L-Theanine regulates lipid metabolism by modulating gut microbiota and bile acid metabolism
+
+[Source](https://doi.org/10.1002/jsfa.12222)
+
+---
+
+## Structural and prebiotic activity analysis of the polysaccharide produced by <em>Lactobacillus helveticus</em> SNA12
+
+[Source](https://doi.org/10.1016/j.carbpol.2022.119971)
+
+---
+
+## Unlocking a novel determinant of athletic performance: The role of the gut microbiota, short-chain fatty acids, and biotics in exercise
+
+[Source](https://doi.org/10.1016/j.jshs.2022.09.002)
+
+---
+
+## Comparative analysis of gut microbiota and immune genes linked with the immune system of wild and captive <em>Spodoptera frugiperda</em> (Lepidoptera: Noctuidae)
+
+[Source](https://doi.org/10.1016/j.dci.2022.104530)
+
+---
+
+## A global dataset of microbial community in ticks from metagenome study
+
+[Source](https://doi.org/10.1038/s41597-022-01679-7)
+
+---
+
+## Exposure to dechlorane 602 induces perturbation of gut immunity and microbiota in female mice
+
+[Source](https://doi.org/10.1016/j.envpol.2022.120141)
+
+---
+
+## Dynamics of bacterial and fungal communities of mango: From the tree to ready-to-Eat products
+
+[Source](https://doi.org/10.1016/j.fm.2022.104095)
+
+---
+
+## The microbiome of fly organs and fly-human microbial transfer during decomposition
+
+[Source](https://doi.org/10.1016/j.forsciint.2022.111425)
 
 ---
 
