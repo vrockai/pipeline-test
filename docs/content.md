@@ -64,27 +64,51 @@ Complex carbohydrates that escape small intestinal digestion, are broken down in
 
 ---
 
-## Higher pH is associated with enhanced co-occurrence network complexity, stability and nutrient cycling functions in the rice rhizosphere microbiome
+## Higher pH is associated with enhanced co-occurrence network complexity, stability and nutrient cycling functions in the rice rhizosphere microbiome.
+ 08.09.2022, _Y Guo, B Song, A Li, Q Wu, H Huang, N Li, Y Yang, JM Adams, L Yang_
+
+
+The rice rhizosphere microbiota is crucial for crop yields and nutrient use efficiency. However, little is known about how co-occurrence patterns, keystone taxa and functional gene assemblages relate to soil pH in the rice rhizosphere soils. Using shotgun metagenome analysis, the rice rhizosphere microbiome was investigated across 28 rice fields in east-central China. At higher pH sites, the taxonomic co-occurrence network of rhizosphere soils was more complex and compact, as defined by higher average degree, graph density and complexity. Network stability was greatest at medium pH (6.5 &lt; pH &lt; 7.5), followed by high pH (7.5 &lt; pH). Keystone taxa were more abundant at higher pH and correlated significantly with key ecosystem functions. Overall functional genes involved in C, N, P and S cycling were at a higher relative abundance in higher pH rhizosphere soils, excepting C degradation genes (e.g., key genes involved in starch-, cellulose-, chitin- and lignin- degradation). Our results suggest that the rice rhizosphere soil microbial network is more complex and stable at higher pH, possibly indicating increased efficiency of nutrient cycling. These observations may indicate routes towards more efficient soil management and understanding of the potential effects of soil acidification on the rice rhizosphere system.
 
 [Source](https://doi.org/10.1111/1462-2920.16185)
 
+10.1111/1462-2920.16185
+
 ---
 
-## Virome analysis in lakes of the South Shetland Islands, Antarctica – 2020
+## Virome analysis in lakes of the South Shetland Islands, Antarctica - 2020.
+ 08.09.2022, _T Prado, ML Brandão, TM Fumian, L Freitas, M Chame, L Leomil, MGP Magalhães, WMS Degrave, JPG Leite, MP Miagostovich_
+
+
+Polar freshwater ecosystems are characterized by a distinct microbiota. However, little is known about viral diversity and abundance, especially regarding the ecology of RNA viruses. We used shotgun metagenomic analysis on samples from Antarctic ecosystems, and report here the characterization of the virome fraction, from different lakes located in the South Shetland Islands (Penguin, Ardley, Deception and King George Island) in the Peninsula Antarctica, in the summer season 2020. DNA viruses (99.4 %) prevailed over RNA viruses (0.6 %) in the lake samples. Six viral orders were identified in the metagenomic libraries: Caudovirales (dsDNA), which was prevalent in most lakes; Picornavirales (ssRNA+); Sobelivirales (ssRNA+); Tolivirales (ssRNA+); Petitvirales (ssDNA) and Baphyvirales (ssDNA), including eight viral families (Herelleviridae, Siphoviridae, Myoviridae, Microviridae, Marnaviridae, Bacilladnaviridae, Barnaviridae and Tombusviridae) and several other, mainly non-classified ssRNA(+) viruses in the lakes of Ardley Island. Bacteriophages (dsDNA) (Herelleviridae family) infecting the phylum Firmicutes and Siphoviridae were predominant in most lakes evaluated. Functional analysis demonstrated a prevalence of unknown proteins (68 %) in the virome. Our prospective study provides virome analysis data from different lakes in the South Shetland Islands, Antarctica, opening exploratory lines for future research related to the biodiversity and viral ecology in this extreme ecosystem.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.158537)
 
+10.1016/j.scitotenv.2022.158537
+
 ---
 
-## Investigating differential abundance methods in microbiome data: A benchmark study
+## Investigating differential abundance methods in microbiome data: A benchmark study.
+ 08.09.2022, _M Cappellato, G Baruzzo, B Di Camillo_
+
+
+The development of increasingly efficient and cost-effective high throughput DNA sequencing techniques has enhanced the possibility of studying complex microbial systems. Recently, researchers have shown great interest in studying the microorganisms that characterise different ecological niches. Differential abundance analysis aims to find the differences in the abundance of each taxa between two classes of subjects or samples, assigning a significance value to each comparison. Several bioinformatic methods have been specifically developed, taking into account the challenges of microbiome data, such as sparsity, the different sequencing depth constraint between samples and compositionality. Differential abundance analysis has led to important conclusions in different fields, from health to the environment. However, the lack of a known biological truth makes it difficult to validate the results obtained. In this work we exploit metaSPARSim, a microbial sequencing count data simulator, to simulate data with differential abundance features between experimental groups. We perform a complete comparison of recently developed and established methods on a common benchmark with great effort to the reliability of both the simulated scenarios and the evaluation metrics. The performance overview includes the investigation of numerous scenarios, studying the effect on methods' results on the main covariates such as sample size, percentage of differentially abundant features, sequencing depth, feature variability, normalisation approach and ecological niches. Mainly, we find that methods show a good control of the type I error and, generally, also of the false discovery rate at high sample size, while recall seem to depend on the dataset and sample size.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1010467)
 
+10.1371/journal.pcbi.1010467
+
 ---
 
-## A rapid and standardized workflow for functional assessment of bacterial biosensors in fecal samples
+## A rapid and standardized workflow for functional assessment of bacterial biosensors in fecal samples.
+ 08.09.2022, _A Zúñiga, G Muñoz-Guamuro, L Boivineau, P Mayonove, I Conejero, GP Pageaux, R Altwegg, J Bonnet_
+
+
+Gut metabolites are pivotal mediators of host-microbiome interactions and provide an important window on human physiology and disease. However, current methods to monitor gut metabolites rely on heavy and expensive technologies such as liquid chromatography-mass spectrometry (LC-MS). In that context, robust, fast, field-deployable, and cost-effective strategies for monitoring fecal metabolites would support large-scale functional studies and routine monitoring of metabolites biomarkers associated with pathological conditions. Living cells are an attractive option to engineer biosensors due to their ability to detect and process many environmental signals and their self-replicating nature. Here we optimized a workflow for feces processing that supports metabolite detection using bacterial biosensors. We show that simple centrifugation and filtration steps remove host microbes and support reproducible preparation of a physiological-derived media retaining important characteristics of human feces, such as matrix effects and endogenous metabolites. We measure the performance of bacterial biosensors for benzoate, lactate, anhydrotetracycline, and bile acids, and find that they are highly sensitive to fecal matrices. However, encapsulating the bacteria in hydrogel helps reduce this inhibitory effect. Sensitivity to matrix effects is biosensor-dependent but also varies between individuals, highlighting the need for case-by-case optimization for biosensors' operation in feces. Finally, by detecting endogenous bile acids, we demonstrate that bacterial biosensors could be used for future metabolite monitoring in feces. This work lays the foundation for the optimization and use of bacterial biosensors for fecal metabolites monitoring. In the future, our method could also allow rapid pre-prototyping of engineered bacteria designed to operate in the gut, with applications to in situ diagnostics and therapeutics.
 
 [Source](https://doi.org/10.3389/fbioe.2022.859600)
+
+10.3389/fbioe.2022.859600
 
 ---
 
