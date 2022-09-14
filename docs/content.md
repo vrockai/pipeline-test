@@ -23,9 +23,15 @@ Recent pandemic infection caused by SARS-CoV-2 (COVID-19) led the scientific com
 
 ---
 
-## Trimethylamine-N-oxide (TMAO) promotes balloon injury-induced neointimal hyperplasia via upregulating Beclin1 and impairing autophagic flux
+## Trimethylamine-N-oxide (TMAO) promotes balloon injury-induced neointimal hyperplasia via upregulating Beclin1 and impairing autophagic flux.
+ 13.09.2022, _Q Hong, D Que, C Zhong, G Huang, W Zhai, D Chen, J Yan, P Yang_
+
+
+TMAO is a microbiota-dependent metabolite associated with increased risk of various cardiovascular diseases. However, the relationship between TMAO and vascular injury-related neointimal hyperplasia is unclear. This study aimed to explore whether TMAO promotes neointimal hyperplasia after balloon injury and elucidate the underlying mechanism.
 
 [Source](https://doi.org/10.1016/j.biopha.2022.113639)
+
+10.1016/j.biopha.2022.113639
 
 ---
 
@@ -83,9 +89,15 @@ L-theanine (LTA) is a biologically active ingredient in tea that shows great pot
 
 ---
 
-## Unlocking a novel determinant of athletic performance: The role of the gut microbiota, short-chain fatty acids, and biotics in exercise
+## Unlocking a novel determinant of athletic performance: The role of the gut microbiota, short-chain fatty acids, and "biotics" in exercise.
+ 11.09.2022, _KM Sales, RA Reimer_
+
+
+The gut microbiota refers to the collection of trillions of intestinal microorganisms that modulate central aspects of health and disease through influential effects on host physiology. Recently, a connection has been made between the gut microbiota and exercise. Initial investigations demonstrated the beneficial effects of exercise on the gut microbiota, with cross-sectional studies revealing positive correlations between exercise-associated states and healthy gut microbiota and exercise interventions showing post-intervention increases in the abundance of beneficial bacterial taxa. More recent investigations have focused on exploring the reverse relationship: the influence of the gut microbiota on exercise performance. Murine investigations have revealed that certain bacterial taxa may enhance endurance exercise performance by augmenting various aspects of lactate metabolism. Further, short-chain fatty acids (SCFA)-which modulate metabolism at various organ sites, including within skeletal muscle-have been shown to enhance endurance exercise capacity in mice. This review highlights what is currently known about the connection between the gut microbiota and exercise, with a particular focus on the ergogenic potential of the gut microbiota and how it may be leveraged to enhance endurance exercise performance.
 
 [Source](https://doi.org/10.1016/j.jshs.2022.09.002)
+
+10.1016/j.jshs.2022.09.002
 
 ---
 
