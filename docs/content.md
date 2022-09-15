@@ -10,16 +10,9 @@
 
 ---
 
-## A global dataset of microbial community in ticks from metagenome study.
- 13.09.2022, _MC Liu, JT Zhang, JJ Chen, Y Zhu, BK Fu, ZY Hu, LQ Fang, XA Zhang, W Liu_
-
-
-_Animals, Bacteria, High-Throughput Nucleotide Sequencing, Humans, Metagenome, Microbiota, Ticks_
-Ticks are important vectors of various zoonotic pathogens that can infect animals and humans, and most documented tick-borne pathogens have a strong bias towards microorganisms with strong disease phenotypes. The recent development of next-generation sequencing (NGS) has enabled the study of microbial communities, referred to as microbiome. Herein, we undertake a systematic review of published literature to build a comprehensive global dataset of microbiome determined by NGS in field-collected ticks. The dataset comprised 4418 records from 76 literature involving geo-referenced occurrences for 46 species of ticks and 219 microorganism families, revealing a total of 83 emerging viruses identified from 24 tick species belonging to 6 tick genera since 1980. The viral, bacterial and eukaryotic composition was compared regarding the tick species, their live stage and types of the specimens, or the geographic location. The data can assist the further investigation of ecological, biogeographical and epidemiological features of the tick-borne disease.
+## A global dataset of microbial community in ticks from metagenome study
 
 [Source](https://www.nature.com/articles/s41597-022-01679-7)
-
-10.1038/s41597-022-01679-7
 
 ---
 
