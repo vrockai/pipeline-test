@@ -4,15 +4,27 @@
 
 ---
 
-## The gut microbiome molecular complex in human health and disease
+## The gut microbiome molecular complex in human health and disease.
+ 15.09.2022, _P Wilmes, C Martin-Gallausiaux, M Ostaszewski, VTE Aho, PV Novikova, CC Laczny, JG Schneider_
+
+
+The human gut microbiome produces a functional complex of biomolecules, including nucleic acids, (poly)peptides, structural molecules, and metabolites. This impacts human physiology in multiple ways, especially by triggering inflammatory pathways in disease. At present, much remains to be learned about the identity of key effectors and their causal roles.
 
 [Source](https://doi.org/10.1016/j.chom.2022.08.016)
 
+10.1016/j.chom.2022.08.016
+
 ---
 
-## Codiversification of gut microbiota with humans
+## Codiversification of gut microbiota with humans.
+ 15.09.2022, _TA Suzuki, JL Fitzstevens, VT Schmidt, H Enav, KE Huus, M Mbong Ngwese, A Grießhammer, A Pfleiderer, BR Adegbite, JF Zinsou, M Esen, TP Velavan, AA Adegnika, LH Song, TD Spector, AL Muehlbauer, N Marchi, H Kang, L Maier, R Blekhman, L Ségurel, G Ko, ND Youngblut, P Kremsner, RE Ley_
+
+
+The gut microbiomes of human populations worldwide have many core microbial species in common. However, within a species, some strains can show remarkable population specificity. The question is whether such specificity arises from a shared evolutionary history (codiversification) between humans and their microbes. To test for codiversification of host and microbiota, we analyzed paired gut metagenomes and human genomes for 1225 individuals in Europe, Asia, and Africa, including mothers and their children. Between and within countries, a parallel evolutionary history was evident for humans and their gut microbes. Moreover, species displaying the strongest codiversification independently evolved traits characteristic of host dependency, including reduced genomes and oxygen and temperature sensitivity. These findings all point to the importance of understanding the potential role of population-specific microbial strains in microbiome-mediated disease phenotypes.
 
 [Source](https://doi.org/10.1126/science.abm7759)
+
+10.1126/science.abm7759
 
 ---
 
