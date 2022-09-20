@@ -34,27 +34,15 @@ The gut microbiomes of human populations worldwide have many core microbial spec
 
 ---
 
-## Composition and diverse differences of intestinal microbiota in ulcerative colitis patients.
- 17.09.2022, _S Zhu, M Han, S Liu, L Fan, H Shi, P Li_
-
-
-To explore the composition of the intestinal microbiota in ulcerative colitis (UC) patients and to identify differences in the microbiota between patients with active disease and those in remission.
+## Composition and diverse differences of intestinal microbiota in ulcerative colitis patients
 
 [Source](https://doi.org/10.3389/fcimb.2022.953962)
 
-10.3389/fcimb.2022.953962
-
 ---
 
-## A systematic review on omics data (metagenomics, metatranscriptomics, and metabolomics) in the role of microbiome in gallbladder disease.
- 17.09.2022, _P Di Carlo, N Serra, R Alduina, R Guarino, A Craxì, A Giammanco, T Fasciana, A Cascio, CM Sergi_
-
-
-Microbiotas are the range of microorganisms (mainly bacteria and fungi) colonizing multicellular, macroscopic organisms. They are crucial for several metabolic functions affecting the health of the host. However, difficulties hamper the investigation of microbiota composition in cultivating microorganisms in standard growth media. For this reason, our knowledge of microbiota can benefit from the analysis of microbial macromolecules (DNA, transcripts, proteins, or by-products) present in various samples collected from the host. Various omics technologies are used to obtain different data. Metagenomics provides a taxonomical profile of the sample. It can also be used to obtain potential functional information. At the same time, metatranscriptomics can characterize members of a microbiome responsible for specific functions and elucidate genes that drive the microbiotas relationship with its host. Thus, while microbiota refers to microorganisms living in a determined environment (taxonomy of microorganisms identified), microbiome refers to the microorganisms and their genes living in a determined environment and, of course, metagenomics focuses on the genes and collective functions of identified microorganisms. Metabolomics completes this framework by determining the metabolite fluxes and the products released into the environment. The gallbladder is a sac localized under the liver in the human body and is difficult to access for bile and tissue sampling. It concentrates the bile produced in the hepatocytes, which drains into bile canaliculi. Bile promotes fat digestion and is released from the gallbladder into the upper small intestine in response to food. Considered sterile originally, recent data indicate that bile microbiota is associated with the biliary tract's inflammation and carcinogenesis. The sample size is relevant for omic studies of rare diseases, such as gallbladder carcinoma. Although in its infancy, the study of the biliary microbiota has begun taking advantage of several omics strategies, mainly based on metagenomics, metabolomics, and mouse models. Here, we show that omics analyses from the literature may provide a more comprehensive image of the biliary microbiota. We review studies performed in this environmental niche and focus on network-based approaches for integrative studies.
+## A systematic review on omics data (metagenomics, metatranscriptomics, and metabolomics) in the role of microbiome in gallbladder disease
 
 [Source](https://doi.org/10.3389/fphys.2022.888233)
-
-10.3389/fphys.2022.888233
 
 ---
 
@@ -172,15 +160,27 @@ The mammalian gastrointestinal tract is colonized with a majority of gut microbe
 
 ---
 
-## Interactive Effect of Combined Intermittent and Sustained Hypoxia and High-Fat Diet on the Colonic Mucosal Microbiome and Host Gene Expression in Mice
+## Interactive Effect of Combined Intermittent and Sustained Hypoxia and High-Fat Diet on the Colonic Mucosal Microbiome and Host Gene Expression in Mice.
+ 17.09.2022, _S Mashaqi, D Laubitz, EJD Morales, R De Armond, H Alameddin, FK Ghishan, PR Kiela, S Parthasarathy_
+
+
+Gut dysbiosis can cause cardiometabolic disease. Gut dysbiosis can be independently caused by high-fat diet (HFD) and intermittent hypoxia (IH; characterizing obstructive sleep apnea), but the interactive effect of combined intermittent and sustained hypoxia (IH+SH) (characterizing obesity hypoventilation syndrome) and HFD on gut dysbiosis is unclear. We aimed to investigate the interactive effect of a combination of IH and SH and HFD on proximal colonic microbiota and colonic gene expression pattern.
 
 [Source](https://doi.org/10.2147/NSS.S370957)
 
+10.2147/NSS.S370957
+
 ---
 
-## Fungi are more transient than bacteria in caterpillar gut microbiomes
+## Fungi are more transient than bacteria in caterpillar gut microbiomes.
+ 16.09.2022, _M Šigut, P Pyszko, H Šigutová, D Višňovská, M Kostovčík, N Kotásková, O Dorňák, M Kolařík, P Drozd_
+
+
+Despite an increasing number of studies on caterpillar (Insecta: Lepidoptera) gut microbiota, bacteria have been emphasized more than fungi. Therefore, we lack data on whether fungal microbiota is resident or transient and shaped by factors similar to those of bacteria. We sampled nine polyphagous caterpillar species from several tree species at multiple sites to determine the factors shaping leaf and gut bacterial and fungal microbiota as well as the extent to which caterpillars acquire microbiota from their diet. We performed 16S and ITS2 DNA metabarcoding of the leaves and guts to determine the composition and richness of the respective microbiota. While spatial variables shaped the bacterial and fungal microbiota of the leaves, they only affected fungi in the guts, whereas the bacteria were shaped primarily by caterpillar species, with some species harboring more specific bacterial consortia. Leaf and gut microbiota significantly differed; in bacteria, this difference was more pronounced. The quantitative similarity between leaves and guts significantly differed among caterpillar species in bacteria but not fungi, suggesting that some species have more transient bacterial microbiota. Our results suggest the complexity of the factors shaping the gut microbiota, while highlighting interspecific differences in microbiota residency within the same insect functional group.
 
 [Source](https://www.nature.com/articles/s41598-022-19855-5)
+
+10.1038/s41598-022-19855-5
 
 ---
 
@@ -190,33 +190,63 @@ The mammalian gastrointestinal tract is colonized with a majority of gut microbe
 
 ---
 
-## Filtering ASVs/OTUs via mutual information-based microbiome network analysis
+## Filtering ASVs/OTUs via mutual information-based microbiome network analysis.
+ 16.09.2022, _EB Mokhtari, BJ Ridenhour_
+
+
+Microbial communities are widely studied using high-throughput sequencing techniques, such as 16S rRNA gene sequencing. These techniques have attracted biologists as they offer powerful tools to explore microbial communities and investigate their patterns of diversity in biological and biomedical samples at remarkable resolution. However, the accuracy of these methods can negatively affected by the presence of contamination. Several studies have recognized that contamination is a common problem in microbial studies and have offered promising computational and laboratory-based approaches to assess and remove contaminants. Here we propose a novel strategy, MI-based (mutual information based) filtering method, which uses information theoretic functionals and graph theory to identify and remove contaminants. We applied MI-based filtering method to a mock community data set and evaluated the amount of information loss due to filtering taxa. We also compared our method to commonly practice traditional filtering methods. In a mock community data set, MI-based filtering approach maintained the true bacteria in the community without significant loss of information. Our results indicate that MI-based filtering method effectively identifies and removes contaminants in microbial communities and hence it can be beneficial as a filtering method to microbiome studies. We believe our filtering method has two advantages over traditional filtering methods. First, it does not required an arbitrary choice of threshold and second, it is able to detect true taxa with low abundance.
 
 [Source](https://doi.org/10.1186/s12859-022-04919-0)
 
+10.1186/s12859-022-04919-0
+
 ---
 
-## Batch effects removal for microbiome data via conditional quantile regression
+## Batch effects removal for microbiome data via conditional quantile regression.
+ 15.09.2022, _W Ling, J Lu, N Zhao, A Lulla, AM Plantinga, W Fu, A Zhang, H Liu, H Song, Z Li, J Chen, TW Randolph, WLA Koay, JR White, LJ Launer, AA Fodor, KA Meyer, MC Wu_
+
+
+Batch effects in microbiome data arise from differential processing of specimens and can lead to spurious findings and obscure true signals. Strategies designed for genomic data to mitigate batch effects usually fail to address the zero-inflated and over-dispersed microbiome data. Most strategies tailored for microbiome data are restricted to association testing or specialized study designs, failing to allow other analytic goals or general designs. Here, we develop the Conditional Quantile Regression (ConQuR) approach to remove microbiome batch effects using a two-part quantile regression model. ConQuR is a comprehensive method that accommodates the complex distributions of microbial read counts by non-parametric modeling, and it generates batch-removed zero-inflated read counts that can be used in and benefit usual subsequent analyses. We apply ConQuR to simulated and real microbiome datasets and demonstrate its advantages in removing batch effects while preserving the signals of interest.
 
 [Source](https://doi.org/10.1038/s41467-022-33071-9)
 
+10.1038/s41467-022-33071-9
+
 ---
 
-## Phylogenetic Analysis of Anti-CRISPR and Member Addition in the Families
+## Phylogenetic Analysis of Anti-CRISPR and Member Addition in the Families.
+ 15.09.2022, _S Nidhi, P Tripathi, V Tripathi_
+
+
+CRISPR-Cas is a widespread anti-viral adaptive immune system in the microorganisms. Viruses living in bacteria or some phages carry anti-CRISPR proteins to evade immunity by CRISPR-Cas. The anti-CRISPR proteins are prevalent in phages capable of lying dormant in a CRISPR-carrying host, while their orthologs frequently found in virulent phages. Here, we propose a probabilistic strategy of ancestral sequence reconstruction (ASR) and Hidden Markov Model (HMM) profile search to fish out sequences of anti-CRISPR proteins from environmental metagenomic, human microbiome metagenomic, human microbiome reference genome, and NCBI's non-redundant databases. Our results revealed that the metagenome database dark matter might contain anti-CRISPR encoding genes.
 
 [Source](https://doi.org/10.1007/s12033-022-00558-1)
 
+10.1007/s12033-022-00558-1
+
 ---
 
-## Shallow shotgun sequencing of the microbiome recapitulates 16S amplicon results and provides functional insights
+## Shallow shotgun sequencing of the microbiome recapitulates 16S amplicon results and provides functional insights.
+ 16.09.2022, _MR Stothart, PD McLoughlin, J Poissant_
+
+
+Prevailing 16S rRNA gene-amplicon methods for characterizing the bacterial microbiome of wildlife are economical, but result in coarse taxonomic classifications, are subject to primer and 16S copy number biases, and do not allow for direct estimation of microbiome functional potential. While deep shotgun metagenomic sequencing can overcome many of these limitations, it is prohibitively expensive for large sample sets. We evaluated the ability of shallow shotgun metagenomic sequencing to characterize taxonomic and functional patterns in the fecal microbiome of a model population of feral horses (Sable Island, Canada). Since 2007, this unmanaged population has been the subject of an individual-based, long-term ecological study. Using deep shotgun metagenomic sequencing, we determined the sequencing depth required to accurately characterize the horse microbiome. In comparing conventional versus high-throughput shotgun metagenomic library preparation techniques, we validate the use of more cost-effective lab methods. Finally, we characterize similarities between 16S amplicon and shallow shotgun characterization of the microbiome, and demonstrate that the latter recapitulates biological patterns first described in a published amplicon dataset. Unlike amplicon data, we further demonstrate how shallow shotgun metagenomic data provide useful insights about microbiome functional potential which support previously hypothesized diet effects in this study system.
 
 [Source](https://doi.org/10.1111/1755-0998.13713)
 
+10.1111/1755-0998.13713
+
 ---
 
-## SnapShot: The Expobiome Map
+## SnapShot: The Expobiome Map.
+ 15.09.2022, _VTE Aho, M Ostaszewski, C Martin-Gallausiaux, CC Laczny, JG Schneider, P Wilmes_
+
+
+The human gut microbiome is intricately connected to health and disease. Microbiome-derived molecules are implicated in many chronic diseases involving inflammation. Herein, we summarize the diverse complex of such immunogenic molecules, including nucleic acids, (poly)peptides, structural molecules, and metabolites. The interactions between this "expobiome" and human immune pathways are specifically illustrated in the context of chronic diseases. To view this SnapShot, open or download the PDF.
 
 [Source](https://doi.org/10.1016/j.chom.2022.08.015)
+
+10.1016/j.chom.2022.08.015
 
 ---
 
