@@ -1,164 +1,158 @@
-## <em>Neisseria</em> species as pathobionts in bronchiectasis
-
-[Source](https://doi.org/10.1016/j.chom.2022.08.005)
-
----
-
-## The gut microbiome molecular complex in human health and disease.
- 19.09.2022, _P Wilmes, C Martin-Gallausiaux, M Ostaszewski, VTE Aho, PV Novikova, CC Laczny, JG Schneider_
+## The Microbiota of Human Lung of Pulmonary Tuberculosis and the Alteration Caused by Anti-tuberculosis Drugs.
+ 20.09.2022, _M Zhang, L Shen, X Zhou, H Chen_
 
 
-_Gastrointestinal Microbiome, Humans, Microbiota, Nucleic Acids_
-The human gut microbiome produces a functional complex of biomolecules, including nucleic acids, (poly)peptides, structural molecules, and metabolites. This impacts human physiology in multiple ways, especially by triggering inflammatory pathways in disease. At present, much remains to be learned about the identity of key effectors and their causal roles.
+An in-depth understanding of the lung microbiota in tuberculosis (TB) infection could provide optimal strategies for the prophylaxis, diagnosis, and treatment of the disease. Only a few studies have investigated the impact of Mycobacterium tuberculosis (Mtb) infection and anti-TB treatment on the lung microbiota. Bronchoalveolar lavage fluid and blood samples were collected from 23 active TB patients (TBZ), 17 latent tuberculosis infection patients (LTBI), 13 healthy controls (HC), and 14 active TB patients with 1-month anti-TB therapy (TBM) for 16S RNA sequencing and serological indexes, respectively. Low body mass index, albumin, and total triglyceride levels were detected in TBZ. Pulmonary Mtb infection led to a minor decrease in the alpha diversity of the lung microbiota in TBZ than HC, but a significant difference was noted in beta diversity. Subsequently, anti-TB therapy caused a rapid alteration in the lung community structure due to reduced alpha and beta diversity. Proteobacteria were abundant in TBZ samples, while Firmicutes was predominant in the LITB and HC samples. Lactobacillus and Subdoligranulum (genera) were the most unique in the LTBI and HC group, respectively. The TBM group showed the most predominant abundance of Bacteroides, Oscillospira, and Ruminococcus (genera). Functional pathways, such as indole alkaloid biosynthesis, Wnt signaling pathway, endocytosis, and metabolism of xenobiotics by cytochrome P450, significantly decreased in the TBM group compared with TBZ group. Pulmonary TB and anti-TB treatment caused a distinct dysbiosis of the lung microbiome. The current findings suggested potential links between the lung microbiota and TB onset, progression, and treatment.
 
-[Source](https://doi.org/10.1016/j.chom.2022.08.016)
+[Source](https://link.springer.com/article/10.1007/s00284-022-03019-9)
 
-10.1016/j.chom.2022.08.016
+10.1007/s00284-022-03019-9
 
 ---
 
-## Codiversification of gut microbiota with humans.
- 19.09.2022, _TA Suzuki, JL Fitzstevens, VT Schmidt, H Enav, KE Huus, M Mbong Ngwese, A Grießhammer, A Pfleiderer, BR Adegbite, JF Zinsou, M Esen, TP Velavan, AA Adegnika, LH Song, TD Spector, AL Muehlbauer, N Marchi, H Kang, L Maier, R Blekhman, L Ségurel, G Ko, ND Youngblut, P Kremsner, RE Ley_
+## Recent advances on the mechanisms of kidney stone formation (Review).
+ 14.12.2021, _Z Wang, Y Zhang, J Zhang, Q Deng, H Liang_
 
 
-_Bacteria, Child, Gastrointestinal Microbiome, Humans, Metagenome, Oxygen, RNA, Ribosomal, 16S_
-The gut microbiomes of human populations worldwide have many core microbial species in common. However, within a species, some strains can show remarkable population specificity. The question is whether such specificity arises from a shared evolutionary history (codiversification) between humans and their microbes. To test for codiversification of host and microbiota, we analyzed paired gut metagenomes and human genomes for 1225 individuals in Europe, Asia, and Africa, including mothers and their children. Between and within countries, a parallel evolutionary history was evident for humans and their gut microbes. Moreover, species displaying the strongest codiversification independently evolved traits characteristic of host dependency, including reduced genomes and oxygen and temperature sensitivity. These findings all point to the importance of understanding the potential role of population-specific microbial strains in microbiome-mediated disease phenotypes.
+_Apatites, Calcinosis, Calcium Oxalate, Calcium Phosphates, Gastrointestinal Microbiome, Humans, Kidney, Kidney Calculi, Struvite, Uric Acid, Urolithiasis_
+Kidney stone disease is one of the oldest diseases known to medicine; however, the mechanisms of stone formation and development remain largely unclear. Over the past decades, a variety of theories and strategies have been developed and utilized in the surgical management of kidney stones, as a result of recent technological advances. Observations from the authors and other research groups suggest that there are five entirely different main mechanisms for kidney stone formation. Urinary supersaturation and crystallization are the driving force for intrarenal crystal precipitation. Randall's plaques are recognized as the origin of calcium oxalate stone formation. Sex hormones may be key players in the development of nephrolithiasis and may thus be potential targets for new drugs to suppress kidney stone formation. The microbiome, including urease‑producing bacteria, nanobacteria and intestinal microbiota, is likely to have a profound effect on urological health, both positive and negative, owing to its metabolic output and other contributions. Lastly, the immune response, and particularly macrophage differentiation, play crucial roles in renal calcium oxalate crystal formation. In the present study, the current knowledge for each of these five aspects of kidney stone formation is reviewed. This knowledge may be used to explore novel research opportunities and improve the understanding of the initiation and development of kidney stones for urologists, nephrologists and primary care.
 
-[Source](https://doi.org/10.1126/science.abm7759)
+[Source](https://www.nature.com/articles/s41585-022-00647-5)
 
-10.1126/science.abm7759
-
----
-
-## Gut microbiome of multiple sclerosis patients and paired household healthy controls reveal associations with disease risk and course
-
-[Source](https://doi.org/10.1016/j.cell.2022.08.021)
+10.3892/ijmm.2021.4982
 
 ---
 
-## Composition and diverse differences of intestinal microbiota in ulcerative colitis patients
+## Mechanisms of the intestinal and urinary microbiome in kidney stone disease
 
-[Source](https://doi.org/10.3389/fcimb.2022.953962)
-
----
-
-## A systematic review on omics data (metagenomics, metatranscriptomics, and metabolomics) in the role of microbiome in gallbladder disease
-
-[Source](https://doi.org/10.3389/fphys.2022.888233)
+[Source](https://www.nature.com/articles/s41585-022-00647-5)
 
 ---
 
-## Variability of strain engraftment and predictability of microbiome composition after fecal microbiota transplantation across different diseases
+## Comparison of tumor-associated and nontumor-associated esophageal mucosa microbiota in patients with esophageal squamous cell carcinoma.
+ 20.09.2022, _B Zhang, Q Xiao, H Chen, T Zhou, Y Yin_
 
-[Source](https://doi.org/10.1038/s41591-022-01964-3)
 
----
+Esophageal microbiota plays important roles in esophageal squamous cell carcinoma (ESCC). The aims of this study were to clarify the changes in the bacterial community during ESCC development and identify latent pathogenic bacteria which may contribute to esophageal carcinogenesis and progression. Fresh tumor and nontumor esophageal mucosal samples were collected from 31 men with ESCC. High-throughput 16s rRNA sequencing was performed, and the operational taxonomic unit data and bacterial classification annotation were obtained and analyzed. The Ace, Chao, Shannon, Simpson indexes, and operational taxonomic unit numbers were higher in nontumor tissues than in tumor tissues, although without statistical significance. There were 4 phyla and 28 genera found to show significant differences between tumor and nontumor samples. The general probiotic Lactobacillus was 1.98-fold higher in nontumor tissues, while the general pathogenic genera Fusobacterium was 4.35-fold higher in tumor tissues. For tumor tissue samples, the genera Treponema and Brevibacillus were significantly higher in N1 and N2 stages, respectively, and Acinetobacter was significantly higher in T3 stage. For nontumor tissues, the genus Fusicatenibacter was significantly higher in T2 stage, and Corynebacterium, Aggregatibacter, Saccharimonadaceae-TM7x, and Cupriavidus were significantly higher in T4 stage. Additionally, bacteria related to nitrotoluene degradation were enriched in nontumor tissues, while bacteria related to base excision repair were enriched in tumor tissues. The relative abundance of several phyla and genera are different between tumor and nontumor tissue samples. The altered bacterial microbiota is correlated with different tumor stages and some microbes may take part in the carcinogenesis and development of ESCC.
 
-## Drivers and determinants of strain dynamics following fecal microbiota transplantation
+[Source](https://journals.lww.com/md-journal/Fulltext/2022/09160/Comparison_of_tumor_associated_and.105.aspx)
 
-[Source](https://doi.org/10.1038/s41591-022-01913-0)
-
----
-
-## Long-term ecological and evolutionary dynamics in the gut microbiomes of carbapenemase-producing Enterobacteriaceae colonized subjects
-
-[Source](https://doi.org/10.1038/s41564-022-01221-w)
+10.1097/MD.0000000000030483
 
 ---
 
-## Structural and functional dysbiosis of gut microbiota in Tibetan subjects with coronary heart disease
+## Differential co-expression networks of the gut microbiota are associated with depression and anxiety treatment resistance among psychiatric inpatients.
+ 19.09.2022, _DS Thompson, C Fu, T Gandhi, JC Fowler, BC Frueh, BL Weinstein, J Petrosino, JK Hadden, M Carlson, C Coarfa, A Madan_
 
-[Source](https://doi.org/10.1016/j.ygeno.2022.110483)
+
+Comorbid anxiety and depression are common and are associated with greater disease burden than either alone. Our recent efforts have identified an association between gut microbiota dysfunction and severity of anxiety and depression. In this follow-up, we applied Differential Co-Expression Analysis (DiffCoEx) to identify potential gut microbiota biomarker(s) candidates of treatment resistance among psychiatric inpatients.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0278584622001300)
+
+10.1016/j.pnpbp.2022.110638
 
 ---
 
-## Growth of succinate consumer <em>Dialister hominis</em> is supported by <em>Bacteroides thetaiotaomicron</em>
+## Early fecal microbiome transfer after donor defecation determines response in patients with moderate to severe ulcerative colitis.
+ 19.09.2022, _A Singh, R Mahajan, BK Kahlon, AS Dhaliwal, V Midha, V Mehta, N Bansal, D Singh, A Sood_
 
-[Source](https://doi.org/10.1016/j.anaerobe.2022.102642)
+
+Fecal microbiome transfer (FMT) targeting gut microbiome dysbiosis is an emerging therapy for ulcerative colitis (UC). There is however no consensus on protocols for performing FMT in UC, especially in relation to time after donor feces defecation.
+
+[Source](https://link.springer.com/article/10.1007/s12664-022-01257-0)
+
+10.1007/s12664-022-01257-0
+
+---
+
+## Modulatory role of gut microbiota in cholesterol and glucose metabolism: Potential implications for atherosclerotic cardiovascular disease Atherosclerosis.
+ 20.09.2022, _J Roessler, DM Leistner, U Landmesser, A Haghikia_
+
+
+Accumulating evidence suggests an important role of gut microbiota in physiological processes of host metabolism as well as cardiometabolic disease. Recent advances in metagenomic and metabolomic research have led to discoveries of novel pathways in which intestinal microbial metabolism of dietary nutrients is linked to metabolic profiles and cardiovascular disease risk. A number of metaorganismal circuits have been identified by microbiota transplantation studies and experimental models using germ-free rodents. Many of these pathways involve gut microbiota-related bioactive metabolites that impact host metabolism, in particular lipid and glucose homeostasis, partly via specific host receptors. In this review, we summarize the current knowledge of how the gut microbiome can impact cardiometabolic phenotypes and provide an overview of recent advances of gut microbiome research. Finally, the potential of modulating intestinal microbiota composition and/or targeting microbiota-related pathways for novel preventive and therapeutic strategies in cardiometabolic and cardiovascular diseases will be discussed.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0021915022014149)
+
+10.1016/j.atherosclerosis.2022.08.018
+
+---
+
+## Landscape of the gut archaeome in association with geography, ethnicity, urbanization, and diet in the Chinese population.
+ 17.09.2022, _X Bai, Y Sun, Y Li, M Li, Z Cao, Z Huang, F Zhang, P Yan, L Wang, J Luo, J Wu, D Fan, H Chen, M Zhi, P Lan, Z Zeng, X Wu, Y Miao, T Zuo_
+
+
+_Adult, Archaea, Bacteria, Diet, Ethnicity, Gastrointestinal Microbiome, Geography, Humans, Urbanization_
+The human gut is home to a largely underexplored microbiome component, the archaeome. Little is known of the impact of geography, urbanization, ethnicity, and diet on the gut archaeome in association with host health. We aim to delineate the variation of the human gut archaeome in healthy individuals and its association with environmental factors and host homeostasis.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01335-7)
+
+10.1186/s40168-022-01335-7
+
+---
+
+## Metabolic reconstitution of germ-free mice by a gnotobiotic microbiota varies over the circadian cycle
+
+[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001743)
+
+---
+
+## Inhibitory effects of antibiotic-induced gut microbiota depletion on acute itch behavior in mice
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0361923022002544)
 
 ---
 
 ## RhoB affects colitis through modulating cell signaling and intestinal microbiome
 
-[Source](https://doi.org/10.1186/s40168-022-01347-3)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01347-3)
 
 ---
 
-## Diet fuelling inflammatory bowel diseases: preclinical and clinical concepts
+## Community and shotgun metagenomic analysis of Alligator mississippiensis oral cavity and GI tracts reveal complex ecosystems and potential reservoirs of antibiotic resistance
 
-[Source](https://doi.org/10.1136/gutjnl-2021-326575)
-
----
-
-## Recent findings in <em>Akkermansia muciniphila</em>-regulated metabolism and its role in intestinal diseases
-
-[Source](https://doi.org/10.1016/j.clnu.2022.08.029)
+[Source](https://www.sciencedirect.com/science/article/pii/S1095643322001775)
 
 ---
 
-## Comprehensive analysis of microbiome, metabolome and transcriptome revealed the mechanisms of <em>Moringa oleifera</em> polysaccharide on preventing ulcerative colitis
+## Microbiome composition is shaped by geography and population structure in the parasitic wasp Asobara japonica, but not in the presence of the endosymbiont Wolbachia
 
-[Source](https://doi.org/10.1016/j.ijbiomac.2022.09.100)
-
----
-
-## Probiotics ameliorates pulmonary inflammation via modulating gut microbiota and rectifying Th17/Treg imbalance in a rat model of PM2.5 induced lung injury
-
-[Source](https://doi.org/10.1016/j.ecoenv.2022.114060)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.16699)
 
 ---
 
-## Short-term supplementation with ω-3 polyunsaturated fatty acids modulates primarily mucolytic species from the gut luminal mucin niche in a human fermentation system
+## Mangrove microbial community recovery and their role in early stages of forest recolonization within shrimp ponds
 
-[Source](https://doi.org/10.1080/19490976.2022.2120344)
-
----
-
-## Interactive Effect of Combined Intermittent and Sustained Hypoxia and High-Fat Diet on the Colonic Mucosal Microbiome and Host Gene Expression in Mice
-
-[Source](https://doi.org/10.2147/NSS.S370957)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722059629)
 
 ---
 
-## Fungi are more transient than bacteria in caterpillar gut microbiomes
+## Current understanding of plant-microbe interaction through the lenses of multi-omics approaches and their benefits in sustainable agriculture
 
-[Source](https://www.nature.com/articles/s41598-022-19855-5)
-
----
-
-## Adapting to climate with limited genetic diversity: Nucleotide, DNA methylation and microbiome variation among populations of the social spider <em>Stegodyphus dumicola</em>
-
-[Source](https://doi.org/10.1111/mec.16696)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0944501322002208)
 
 ---
 
-## Filtering ASVs/OTUs via mutual information-based microbiome network analysis
+## Mitigating abiotic stress: microbiome engineering for improving agricultural production and environmental sustainability
 
-[Source](https://doi.org/10.1186/s12859-022-04919-0)
-
----
-
-## Batch effects removal for microbiome data via conditional quantile regression
-
-[Source](https://doi.org/10.1038/s41467-022-33071-9)
+[Source](https://link.springer.com/article/10.1007/s00425-022-03997-x)
 
 ---
 
-## Phylogenetic Analysis of Anti-CRISPR and Member Addition in the Families
+## Plant microbiota dysbiosis and the Anna Karenina Principle
 
-[Source](https://doi.org/10.1007/s12033-022-00558-1)
-
----
-
-## Shallow shotgun sequencing of the microbiome recapitulates 16S amplicon results and provides functional insights
-
-[Source](https://doi.org/10.1111/1755-0998.13713)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S1360138522002187)
 
 ---
 
-## SnapShot: The Expobiome Map
+## Anthocyanin Addition to Kefir: Metagenomic Analysis of Microbial Community Structure
 
-[Source](https://doi.org/10.1016/j.chom.2022.08.015)
+[Source](https://link.springer.com/article/10.1007/s00284-022-03017-x)
+
+---
+
+## Metabolic framework of spontaneous and synthetic sourdough metacommunities to reveal microbial players responsible for resilience and performance
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01301-3)
 
 ---
 
