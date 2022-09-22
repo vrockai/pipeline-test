@@ -71,15 +71,27 @@ The human gut is home to a largely underexplored microbiome component, the archa
 
 ---
 
-## Metabolic reconstitution of germ-free mice by a gnotobiotic microbiota varies over the circadian cycle
+## Metabolic reconstitution of germ-free mice by a gnotobiotic microbiota varies over the circadian cycle.
+ 20.09.2022, _D Hoces, J Lan, W Sun, T Geiser, ML Stäubli, E Cappio Barazzone, M Arnoldini, TD Challa, M Klug, A Kellenberger, S Nowok, E Faccin, AJ Macpherson, B Stecher, S Sunagawa, R Zenobi, WD Hardt, C Wolfrum, E Slack_
+
+
+The capacity of the intestinal microbiota to degrade otherwise indigestible diet components is known to greatly improve the recovery of energy from food. This has led to the hypothesis that increased digestive efficiency may underlie the contribution of the microbiota to obesity. OligoMM12-colonized gnotobiotic mice have a consistently higher fat mass than germ-free (GF) or fully colonized counterparts. We therefore investigated their food intake, digestion efficiency, energy expenditure, and respiratory quotient using a novel isolator-housed metabolic cage system, which allows long-term measurements without contamination risk. This demonstrated that microbiota-released calories are perfectly balanced by decreased food intake in fully colonized versus gnotobiotic OligoMM12 and GF mice fed a standard chow diet, i.e., microbiota-released calories can in fact be well integrated into appetite control. We also observed no significant difference in energy expenditure after normalization by lean mass between the different microbiota groups, suggesting that cumulative small differences in energy balance, or altered energy storage, must underlie fat accumulation in OligoMM12 mice. Consistent with altered energy storage, major differences were observed in the type of respiratory substrates used in metabolism over the circadian cycle: In GF mice, the respiratory exchange ratio (RER) was consistently lower than that of fully colonized mice at all times of day, indicative of more reliance on fat and less on glucose metabolism. Intriguingly, the RER of OligoMM12-colonized gnotobiotic mice phenocopied fully colonized mice during the dark (active/eating) phase but phenocopied GF mice during the light (fasting/resting) phase. Further, OligoMM12-colonized mice showed a GF-like drop in liver glycogen storage during the light phase and both liver and plasma metabolomes of OligoMM12 mice clustered closely with GF mice. This implies the existence of microbiota functions that are required to maintain normal host metabolism during the resting/fasting phase of circadian cycle and which are absent in the OligoMM12 consortium.
 
 [Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001743)
 
+10.1371/journal.pbio.3001743
+
 ---
 
-## Inhibitory effects of antibiotic-induced gut microbiota depletion on acute itch behavior in mice
+## Inhibitory effects of antibiotic-induced gut microbiota depletion on acute itch behavior in mice.
+ 20.09.2022, _Q Zhang, T Li, J Niu, J Xiao, M Zhang, R Zhang, D Chen, Y Shi, X Zhang, X Hu, B Yu, J Feng, Q Fang_
+
+
+The gut microbiota is known to be associated with the regulation of many neurological diseases and behaviors, including chronic pain. However, it is unclear whether the gut microbiota is critical to the itch sensation. In this study, we investigated the effects of gut microbiota depletion on acute itch.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0361923022002544)
+
+10.1016/j.brainresbull.2022.09.014
 
 ---
 
@@ -114,9 +126,15 @@ We report here the community structure and functional analysis of the microbiome
 
 ---
 
-## Mangrove microbial community recovery and their role in early stages of forest recolonization within shrimp ponds
+## Mangrove microbial community recovery and their role in early stages of forest recolonization within shrimp ponds.
+ 20.09.2022, _M Loiola, AET Silva, M Krull, FA Barbosa, EH Galvão, VF Patire, ICS Cruz, F Barros, V Hatje, PM Meirelles_
+
+
+Shrimp farming is blooming worldwide, posing a severe threat to mangroves and its multiple goods and ecosystem services. Several studies reported the impacts of aquaculture on mangrove biotic communities, including microbiomes. However, little is known about how mangrove soil microbiomes would change in response to mangrove forest recolonization. Using genome-resolved metagenomics, we compared the soil microbiome of mangrove forests (both with and without the direct influence of shrimp farming effluents) with active shrimp farms and mangroves under a recolonization process. We found that the structure and composition of active shrimp farms microbial communities differ from the control mangrove forests, mangroves under the impact of the shrimp farming effluents, and mangroves under recolonization. Shrimp farming ponds microbiomes have lower microbial diversity and are dominated by halophilic microorganisms, presenting high abundance of multiple antibiotic resistance genes. On the other hand, control mangrove forests, impacted mangroves (exposed to the shrimp farming effluents), and recolonization ponds were more diverse, with a higher abundance of genes related to carbon mobilization. Our data also indicated that the microbiome is recovering in the mangrove recolonization ponds, performing vital metabolic functions and functionally resembling microbiomes found in those soils of neighboring control mangrove forests. Despite highlighting the damage caused by the habitat changes in mangrove soil microbiome community and functioning, our study sheds light on these systems incredible recovery capacity. Our study shows the importance of natural mangrove forest recovery, enhancing ecosystem services by the soil microbial communities even in a very early development stage of mangrove forest, thus encouraging mangrove conservation and restoration efforts worldwide.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722059629)
+
+10.1016/j.scitotenv.2022.158863
 
 ---
 
@@ -126,15 +144,9 @@ We report here the community structure and functional analysis of the microbiome
 
 ---
 
-## Mitigating abiotic stress: microbiome engineering for improving agricultural production and environmental sustainability.
- 20.09.2022, _M Phour, SS Sindhu_
-
-
-The responses of plants to different abiotic stresses and mechanisms involved in their mitigation are discussed. Production of osmoprotectants, antioxidants, enzymes and other metabolites by beneficial microorganisms and their bioengineering ameliorates environmental stresses to improve food production. Progressive intensification of global agriculture, injudicious use of agrochemicals and change in climate conditions have deteriorated soil health, diminished the microbial biodiversity and resulted in environment pollution along with increase in biotic and abiotic stresses. Extreme weather conditions and erratic rains have further imposed additional stress for the growth and development of plants. Dominant abiotic stresses comprise drought, temperature, increased salinity, acidity, metal toxicity and nutrient starvation in soil, which severely limit crop production. For promoting sustainable crop production in environmentally challenging environments, use of beneficial microbes has emerged as a safer and sustainable means for mitigation of abiotic stresses resulting in improved crop productivity. These stress-tolerant microorganisms play an effective role against abiotic stresses by enhancing the antioxidant potential, improving nutrient acquisition, regulating the production of plant hormones, ACC deaminase, siderophore and exopolysaccharides and accumulating osmoprotectants and, thus, stimulating plant biomass and crop yield. In addition, bioengineering of beneficial microorganisms provides an innovative approach to enhance stress tolerance in plants. The use of genetically engineered stress-tolerant microbes as inoculants of crop plants may facilitate their use for enhanced nutrient cycling along with amelioration of abiotic stresses to improve food production for the ever-increasing population. In this chapter, an overview is provided about the current understanding of plant-bacterial interactions that help in alleviating abiotic stress in different crop systems in the face of climate change. This review largely focuses on the importance and need of sustainable and environmentally friendly approaches using beneficial microbes for ameliorating the environmental stresses in our agricultural systems.
+## Mitigating abiotic stress: microbiome engineering for improving agricultural production and environmental sustainability
 
 [Source](https://link.springer.com/article/10.1007/s00425-022-03997-x)
-
-10.1007/s00425-022-03997-x
 
 ---
 
@@ -150,9 +162,16 @@ The responses of plants to different abiotic stresses and mechanisms involved in
 
 ---
 
-## Metabolic framework of spontaneous and synthetic sourdough metacommunities to reveal microbial players responsible for resilience and performance
+## Metabolic framework of spontaneous and synthetic sourdough metacommunities to reveal microbial players responsible for resilience and performance.
+ 18.09.2022, _FM Calabrese, H Ameur, O Nikoloudaki, G Celano, M Vacca, WJ Junior, C Manzari, F Vertè, R Di Cagno, G Pesole, M De Angelis, M Gobbetti_
+
+
+_Bread, Edible Grain, Fermentation, Food Microbiology, Microbiota_
+In nature, microbial communities undergo changes in composition that threaten their resiliency. Here, we interrogated sourdough, a natural cereal-fermenting metacommunity, as a dynamic ecosystem in which players are subjected to continuous environmental and spatiotemporal stimuli.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01301-3)
+
+10.1186/s40168-022-01301-3
 
 ---
 
