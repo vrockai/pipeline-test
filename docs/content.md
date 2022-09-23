@@ -65,9 +65,16 @@ Equipped with a novel isolator-housed metabolic cage system, a study in PLOS Bio
 
 ---
 
-## Improved assessments of bulk milk microbiota composition via sample preparation and DNA extraction methods
+## Improved assessments of bulk milk microbiota composition via sample preparation and DNA extraction methods.
+ 21.09.2022, _Z Xue, ML Marco_
+
+
+_Animals, Bacteria, Cattle, DNA, Bacterial, Endopeptidase K, Glycerol, Microbiota, Milk, RNA, Ribosomal, 16S, Reproducibility of Results, Ribonuclease, Pancreatic_
+Although bacterial detection by 16S rRNA gene amplicon DNA sequencing is a widely-applied technique, standardized methods for sample preparation and DNA extraction are needed to ensure accuracy, reproducibility, and scalability for automation. To develop these methods for bovine bulk milk, we assembled and tested a bacterial cell mock community (BCMC) containing bacterial species commonly found in milk. The following protocol variations were examined:: BCMC enumeration (colony enumeration or microscopy), sample volume (200 μl to 30 ml), sample storage condition (frozen in PBS or 25% glycerol or exposure to freeze-thaw cycles), cell lysis method (bead-beating, vortex, enzymatic), and DNA extraction procedure (MagMAX Total, MagMAX CORE, and MagMAX Ultra 2.0, with and without either Proteinase K or RNase A). Cell enumeration by microscopy was more accurate for quantification of the BCMC contents. We found that least 10 mL (≥ 104 cells in high quality milk) is needed for reproducible bacterial detection by 16S rRNA gene amplicon DNA sequencing, whereas variations in storage conditions caused minor differences in the BCMC. For DNA extraction and purification, a mild lysis step (bead-beating for 10 s at 4 m/s or vortexing at 1800 rpm for 10 s) paired with the MagMAX Total kit and Proteinase K digestion provided the most accurate representation of the BCMC. Cell lysis procedures conferred the greatest changes to milk microbiota composition and these effects were confirmed to provide similar results for commercial milk samples. Overall, our systematic approach with the BCMC is broadly applicable to other milk, food, and environmental samples therefore recommended for improving accuracy of culture-independent, DNA sequence-based analyses of microbial composition in different habitats.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267992)
+
+10.1371/journal.pone.0267992
 
 ---
 
