@@ -12,7 +12,7 @@ Fecal microbial transplantation (FMT) has been used with the therapeutic intent 
 ---
 
 ## Microbiome complexity shapes metabolism.
- 21.09.2022, _L Litichevskiy, CA Thaiss_
+ 22.09.2022, _L Litichevskiy, CA Thaiss_
 
 
 Equipped with a novel isolator-housed metabolic cage system, a study in PLOS Biology assessed how the metabolism of mice harboring a defined minimal microbial community (OligoMM12) differs from that of germ-free and conventionally colonized mice.
