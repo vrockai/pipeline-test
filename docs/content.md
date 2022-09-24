@@ -1,107 +1,150 @@
-## Time series strain tracking analysis post fecal transplantation identifies individual specific patterns of fecal dominant donor, recipient, and unrelated microbial strains.
- 19.09.2022, _H Koo, CD Morrow_
+## Systemic antibody responses against human microbiota flagellins are overrepresented in chronic fatigue syndrome patients.
+ 23.09.2022, _T Vogl, IN Kalka, S Klompus, S Leviatan, A Weinberger, E Segal_
 
 
-_Anti-Bacterial Agents, Fecal Microbiota Transplantation, Feces, Nucleotides, Time Factors_
-Fecal microbial transplantation (FMT) has been used with the therapeutic intent to change the functions of the gut microbial community in metabolism and host immunity. For most of these therapies, the recipients are not given antibiotics to eliminate the microbial community prior to transplant with donor fecal microbes resulting in the initial gut microbial community following FMT consisting of a consortium of donor and recipient microbes. The detailed analysis of the fecal samples from these FMT over time provides a unique opportunity to study the changes in the gut microbial strain community that occurs following the introduction of new microbial strains (donor) into an established community (recipient).
+Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating disease with an unclear etiology and pathogenesis. Both an involvement of the immune system and gut microbiota dysbiosis have been implicated in its pathophysiology. However, potential interactions between adaptive immune responses and the microbiota in ME/CFS have been incompletely characterized. Here, we profiled antibody responses of patients with severe ME/CFS and healthy controls against microbiota and viral antigens represented as a phage-displayed 244,000 variant library. Patients with severe ME/CFS exhibited distinct serum antibody epitope repertoires against flagellins of Lachnospiraceae bacteria. Training machine learning algorithms on this antibody-binding data demonstrated that immune responses against gut microbiota represent a unique layer of information beyond standard blood tests, providing improved molecular diagnostics for ME/CFS. Together, our results point toward an involvement of the microbiota-immune axis in ME/CFS and lay the foundation for comparative studies with inflammatory bowel diseases and illnesses characterized by long-term fatigue symptoms, including post-COVID-19 syndrome.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274633)
+[Source](https://doi.org/10.1126/sciadv.abq2422)
 
-10.1371/journal.pone.0274633
-
----
-
-## Microbiome complexity shapes metabolism.
- 23.09.2022, _L Litichevskiy, CA Thaiss_
-
-
-_Animals, Gastrointestinal Microbiome, Germ-Free Life, Mice, Microbiota_
-Equipped with a novel isolator-housed metabolic cage system, a study in PLOS Biology assessed how the metabolism of mice harboring a defined minimal microbial community (OligoMM12) differs from that of germ-free and conventionally colonized mice.
-
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001793)
-
-10.1371/journal.pbio.3001793
+10.1126/sciadv.abq2422
 
 ---
 
-## Minimal overall divergence of the gut microbiome in an adaptive radiation of <em>Cyprinodon </em>pupfishes despite potential adaptive enrichment for scale-eating
+## Strain-level resolution and pneumococcal carriage dynamics by single-molecule real-time (SMRT) sequencing of the plyNCR marker: a longitudinal study in Swiss infants.
+ 22.09.2022, _OR Oyewole, P Latzin, SD Brugger, M Hilty_
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0273177)
 
----
+Pneumococcal carriage has often been studied from a serotype perspective; however, little is known about the strain-specific carriage and inter-strain interactions. Here, we examined the strain-level carriage and co-colonization dynamics of Streptococcus pneumoniae in a Swiss birth cohort by PacBio single-molecule real-time (SMRT) sequencing of the plyNCR marker.
 
-## Molecular characterization and biofilm-formation analysis of<em> Listeria monocytogenes</em>, <em>Salmonella </em>spp., and <em>Escherichia coli</em> isolated from Brazilian swine slaughterhouses
+[Source](https://doi.org/10.1186/s40168-022-01344-6)
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274636)
-
----
-
-## Ecology and distribution of <em>Leptospira</em> spp., reservoir hosts and environmental interaction in Sri Lanka, with identification of a new strain
-
-[Source](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0010757#sec002)
+10.1186/s40168-022-01344-6
 
 ---
 
-## A simple kit to use computational notebooks for more openness, reproducibility, and productivity in research
-
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010356)
-
----
-
-## Bacterial concentration and Campylobacter spp. quantification differ when fresh or ultra-frozen samples are analysed over time using molecular biology and culture-based methods.
- 20.09.2022, _F Khattak, S Galgano, J Houdijk_
+## Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis.
+ 22.09.2022, _VM Martin, YV Virkud, E Dahan, HL Seay, D Itzkovits, H Vlamakis, R Xavier, WG Shreffler, Q Yuan, M Yassour_
 
 
-_Animals, Campylobacter jejuni, Chickens, Culture Techniques, Freezing, Molecular Biology_
-The study aimed to delineate the robustness of the culture-based and molecular biology methods to assess the total bacterial concentration and Campylobacter jejuni (C. jejuni) quantification in caecal content, analysed as fresh or after being stored immediately at ultra-low (-80°C) temperature at different time points (for 3, 7, 14, 28 and 62 days post collection). The caecal content was collected from birds that were artificially colonised with C. jejuni (in-vivo), and quantification was performed using both colony-forming unit (CFU) and qPCR. The results showed that storage time affected the output of culture-based analyses but mostly did not alter concentration retrieved via qPCR. After an initial ~4.5 log10 reduction in CFU observed from fresh (day 0) to frozen samples, bacterial concentration retrieved with culture-based methods seemed to be constant in samples frozen for 3 to 62 days, indicating a possible threshold for C. jejuni loss of viability due to effect of storage temperature. Ranking order analyses, revealed that the molecular biology technique was able to attribute somewhat the same relative C. jejuni concentrations to the samples analysed via qPCR. However, day 0 measurements from culture-based methods were associated with the absence of or negatively weak correlations with the rest of the time points, but ranking order was maintained from day 3 onwards. On the other hand, ranking order correlations were less constant when measuring total bacterial concentration through qPCR. The study suggests that if biological samples can't be analysed as fresh (immediately after collection) and have to be stored prior to analysis, then storage at -80°C samples be recommended to avoid the temporal-dependent effects on C. jejuni concentrations. In addition, irrespective of the method of analysis, an initial loss of CFU must be factored in when interpreting the results obtained from frozen samples.
+Complex interactions between the gut microbiome and immune cells in infancy are thought to be part of the pathogenesis for the marked rise in pediatric allergic diseases, particularly food allergies. Food protein-induced allergic proctocolitis (FPIAP) is commonly the earliest recognized non-immunoglobulin E (IgE)-mediated food allergy in infancy and is associated with atopic dermatitis and subsequent IgE-mediated food allergy later in childhood. Yet, a large prospective longitudinal study of the microbiome of infants with FPIAP, including samples prior to symptom onset, has not been done.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274682)
+[Source](https://doi.org/10.1186/s40168-022-01322-y)
 
-10.1371/journal.pone.0274682
+10.1186/s40168-022-01322-y
 
 ---
 
-## Bacterial concentration and <em>Campylobacter</em> spp. quantification differ when fresh or ultra-frozen samples are analysed over time using molecular biology and culture-based methods
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274682)
-
----
-
-## Robust inference of population size histories from genomic sequencing data.
- 16.09.2022, _G Upadhya, M Steinrücken_
+## Host and gut bacteria share metabolic pathways for anti-cancer drug metabolism.
+ 22.09.2022, _P Spanogiannopoulos, TS Kyaw, BGH Guthrie, PH Bradley, JV Lee, J Melamed, YNA Malig, KN Lam, D Gempis, M Sandy, W Kidder, EL Van Blarigan, CE Atreya, A Venook, RR Gerona, A Goga, KS Pollard, PJ Turnbaugh_
 
 
-Unraveling the complex demographic histories of natural populations is a central problem in population genetics. Understanding past demographic events is of general anthropological interest, but is also an important step in establishing accurate null models when identifying adaptive or disease-associated genetic variation. An important class of tools for inferring past population size changes from genomic sequence data are Coalescent Hidden Markov Models (CHMMs). These models make efficient use of the linkage information in population genomic datasets by using the local genealogies relating sampled individuals as latent states that evolve along the chromosome in an HMM framework. Extending these models to large sample sizes is challenging, since the number of possible latent states increases rapidly. Here, we present our method CHIMP (CHMM History-Inference Maximum-Likelihood Procedure), a novel CHMM method for inferring the size history of a population. It can be applied to large samples (hundreds of haplotypes) and only requires unphased genomes as input. The two implementations of CHIMP that we present here use either the height of the genealogical tree (TMRCA) or the total branch length, respectively, as the latent variable at each position in the genome. The requisite transition and emission probabilities are obtained by numerically solving certain systems of differential equations derived from the ancestral process with recombination. The parameters of the population size history are subsequently inferred using an Expectation-Maximization algorithm. In addition, we implement a composite likelihood scheme to allow the method to scale to large sample sizes. We demonstrate the efficiency and accuracy of our method in a variety of benchmark tests using simulated data and present comparisons to other state-of-the-art methods. Specifically, our implementation using TMRCA as the latent variable shows comparable performance and provides accurate estimates of effective population sizes in intermediate and ancient times. Our method is agnostic to the phasing of the data, which makes it a promising alternative in scenarios where high quality data is not available, and has potential applications for pseudo-haploid data.
+Pharmaceuticals have extensive reciprocal interactions with the microbiome, but whether bacterial drug sensitivity and metabolism is driven by pathways conserved in host cells remains unclear. Here we show that anti-cancer fluoropyrimidine drugs inhibit the growth of gut bacterial strains from 6 phyla. In both Escherichia coli and mammalian cells, fluoropyrimidines disrupt pyrimidine metabolism. Proteobacteria and Firmicutes metabolized 5-fluorouracil to its inactive metabolite dihydrofluorouracil, mimicking the major host mechanism for drug clearance. The preTA operon was necessary and sufficient for 5-fluorouracil inactivation by E. coli, exhibited high catalytic efficiency for the reductive reaction, decreased the bioavailability and efficacy of oral fluoropyrimidine treatment in mice and was prevalent in the gut microbiomes of colorectal cancer patients. The conservation of both the targets and enzymes for metabolism of therapeutics across domains highlights the need to distinguish the relative contributions of human and microbial cells to drug efficacy and side-effect profiles.
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010419)
+[Source](https://doi.org/10.1038/s41564-022-01226-5)
 
-10.1371/journal.pcbi.1010419
+10.1038/s41564-022-01226-5
 
 ---
 
-## Rapid genotyping of targeted viral samples using Illumina short-read sequencing data.
- 20.09.2022, _A Váradi, E Kaszab, G Kardos, E Prépost, K Szarka, L Laczkó_
+## Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome.
+ 22.09.2022, _RC Simpson, ER Shanahan, M Batten, ILM Reijers, M Read, IP Silva, JM Versluis, R Ribeiro, AS Angelatos, J Tan, C Adhikari, AM Menzies, RPM Saw, M Gonzalez, KF Shannon, AJ Spillane, R Velickovic, AJ Lazar, AV Damania, AK Mishra, M Chelvanambi, A Banerjee, NJ Ajami, JA Wargo, L Macia, AJ Holmes, JS Wilmott, CU Blank, RA Scolyer, GV Long_
 
 
-_Genome, Genotype, High-Throughput Nucleotide Sequencing, Software_
-The most important information about microorganisms might be their accurate genome sequence. Using current Next Generation Sequencing methods, sequencing data can be generated at an unprecedented pace. However, we still lack tools for the automated and accurate reference-based genotyping of viral sequencing reads. This paper presents our pipeline designed to reconstruct the dominant consensus genome of viral samples and analyze their within-host variability. We benchmarked our approach on numerous datasets and showed that the consensus genome of samples could be obtained reliably without further manual data curation. Our pipeline can be a valuable tool for fast identifying viral samples. The pipeline is publicly available on the project's GitHub page (https://github.com/laczkol/QVG).
+The gut microbiota shapes the response to immune checkpoint inhibitors (ICIs) in cancer, however dietary and geographic influences have not been well-studied in prospective trials. To address this, we prospectively profiled baseline gut (fecal) microbiota signatures and dietary patterns of 103 trial patients from Australia and the Netherlands treated with neoadjuvant ICIs for high risk resectable metastatic melanoma and performed an integrated analysis with data from 115 patients with melanoma treated with ICIs in the United States. We observed geographically distinct microbial signatures of response and immune-related adverse events (irAEs). Overall, response rates were higher in Ruminococcaceae-dominated microbiomes than in Bacteroidaceae-dominated microbiomes. Poor response was associated with lower fiber and omega 3 fatty acid consumption and elevated levels of C-reactive protein in the peripheral circulation at baseline. Together, these data provide insight into the relevance of native gut microbiota signatures, dietary intake and systemic inflammation in shaping the response to and toxicity from ICIs, prompting the need for further studies in this area.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274414)
+[Source](https://doi.org/10.1038/s41591-022-01965-2)
 
-10.1371/journal.pone.0274414
+10.1038/s41591-022-01965-2
 
 ---
 
-## Improved assessments of bulk milk microbiota composition via sample preparation and DNA extraction methods.
- 21.09.2022, _Z Xue, ML Marco_
+## Advances in the gut microbiome and mood disorders.
+ 22.09.2022, _S Mörkl, MI Butler, S Lackner_
 
 
-_Animals, Bacteria, Cattle, DNA, Bacterial, Endopeptidase K, Glycerol, Microbiota, Milk, RNA, Ribosomal, 16S, Reproducibility of Results, Ribonuclease, Pancreatic_
-Although bacterial detection by 16S rRNA gene amplicon DNA sequencing is a widely-applied technique, standardized methods for sample preparation and DNA extraction are needed to ensure accuracy, reproducibility, and scalability for automation. To develop these methods for bovine bulk milk, we assembled and tested a bacterial cell mock community (BCMC) containing bacterial species commonly found in milk. The following protocol variations were examined:: BCMC enumeration (colony enumeration or microscopy), sample volume (200 μl to 30 ml), sample storage condition (frozen in PBS or 25% glycerol or exposure to freeze-thaw cycles), cell lysis method (bead-beating, vortex, enzymatic), and DNA extraction procedure (MagMAX Total, MagMAX CORE, and MagMAX Ultra 2.0, with and without either Proteinase K or RNase A). Cell enumeration by microscopy was more accurate for quantification of the BCMC contents. We found that least 10 mL (≥ 104 cells in high quality milk) is needed for reproducible bacterial detection by 16S rRNA gene amplicon DNA sequencing, whereas variations in storage conditions caused minor differences in the BCMC. For DNA extraction and purification, a mild lysis step (bead-beating for 10 s at 4 m/s or vortexing at 1800 rpm for 10 s) paired with the MagMAX Total kit and Proteinase K digestion provided the most accurate representation of the BCMC. Cell lysis procedures conferred the greatest changes to milk microbiota composition and these effects were confirmed to provide similar results for commercial milk samples. Overall, our systematic approach with the BCMC is broadly applicable to other milk, food, and environmental samples therefore recommended for improving accuracy of culture-independent, DNA sequence-based analyses of microbial composition in different habitats.
+The gut microbiome is in constant bidirectional communication with the brain through the microbiota-gut-brain-axis. Mood disorders are among the most common psychiatric disorders and include major depressive disorder and bipolar disorder. The gut microbiome is altered in individuals with mood disorders and has a role in its inflammatory pathophysiology. In this article, we performed a narrative review of clinical studies, randomized controlled trials and meta-analyses addressing advances in gut microbiome research in mood disorders and included articles that were published between 2021 and 2022.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267992)
+[Source](https://doi.org/10.1097/YCO.0000000000000829)
 
-10.1371/journal.pone.0267992
+10.1097/YCO.0000000000000829
+
+---
+
+## Modulation of the intestinal microbiota impacts the efficacy of immunotherapy in cancer patients - A recent literature survey.
+ 23.09.2022, _S Ziegler, S Bereswill, MM Heimesaat_
+
+
+In line with the current development of individualized cancer treatments, targeted and specialized therapeutic regimens such as immunotherapy gain importance and factors improving its efficacy come into the focus of actual research. Given the orchestrated interaction of the intestinal microbiota with host immunity the modulation of the human gut microbiota represents a therapy-enhancing factor. We therefore performed an actual literature survey on the role of the gut microbiota composition and the effects of its modification during immunotherapy of cancer patients. The included 23 studies published in the past 10 years revealed that both, distinct bacterial species and genera including Faecalibacterium prausnitzii and Bifidobacterium, respectively, enhanced distinct immunotherapy responses following PD-1/PD-L1 and CTLA-4 blockage, for instance, resulting in a better clinical outcome of cancer patients. Conversely, a high intestinal abundance of Bacteroidetes and Fusobacterium species correlated with a less efficient immunotherapy resulting in shorter progress-free survival outcomes. In conclusion, modifications of the gut microbiota by fecal microbiota transplantation or application of probiotic compounds represent potential adjunct options for immunotherapy in cancer patients which needs to be further addressed in future trials to provide individually tailored and safe adjuvant therapeutic measures in the combat of cancer.
+
+[Source](https://doi.org/10.1556/1886.2022.00017)
+
+10.1556/1886.2022.00017
+
+---
+
+## Metagenomics-resolved genomics provides novel insights into chitin turnover, metabolic specialization, and niche partitioning in the octocoral microbiome.
+ 22.09.2022, _T Keller-Costa, L Kozma, SG Silva, R Toscan, J Gonçalves, A Lago-Lestón, NC Kyrpides, U Nunes da Rocha, R Costa_
+
+
+The role of bacterial symbionts that populate octocorals (Cnidaria, Octocorallia) is still poorly understood. To shed light on their metabolic capacities, we examined 66 high-quality metagenome-assembled genomes (MAGs) spanning 30 prokaryotic species, retrieved from microbial metagenomes of three octocoral species and seawater.
+
+[Source](https://doi.org/10.1186/s40168-022-01343-7)
+
+10.1186/s40168-022-01343-7
+
+---
+
+## Intestinal microbiome-mediated resistance against vibriosis for <em>Cynoglossus semilaevis</em>
+
+[Source](https://doi.org/10.1186/s40168-022-01346-4)
+
+---
+
+## Response of soil microecology to different cropping practice under <em>Bupleurum chinense</em> cultivation
+
+[Source](https://doi.org/10.1186/s12866-022-02638-3)
+
+---
+
+## Community Assembly of Fungi and Bacteria along Soil-Plant Continuum Differs in a Zoige Wetland
+
+[Source](https://doi.org/10.1128/spectrum.02260-22)
+
+---
+
+## Investigating plant-microbe interactions within the root
+
+[Source](https://doi.org/10.1007/s00203-022-03257-2)
+
+---
+
+## Geographically Associated Fungus-Bacterium Interactions Contribute to the Formation of Geography-Dependent Flavor during High-Complexity Spontaneous Fermentation
+
+[Source](https://doi.org/10.1128/spectrum.01844-22)
+
+---
+
+## A meta-analysis of acetogenic and methanogenic microbiomes in microbial electrosynthesis.
+ 23.09.2022, _S Mills, P Dessì, D Pant, P Farràs, WT Sloan, G Collins, UZ Ijaz_
+
+
+A meta-analysis approach was used, to study the microbiomes of biofilms and planktonic communities underpinning microbial electrosynthesis (MES) cells. High-throughput DNA sequencing of 16S rRNA gene amplicons has been increasingly applied to understand MES systems. In this meta-analysis of 22 studies, we find that acetogenic and methanogenic MES cells share 80% of a cathodic core microbiome, and that different inoculum pre-treatments strongly affect community composition. Oxygen scavengers were more abundant in planktonic communities, and several key organisms were associated with operating parameters and good cell performance. We suggest Desulfovibrio sp. play a role in initiating early biofilm development and shaping microbial communities by catalysing H2 production, to sustain either Acetobacterium sp. or Methanobacterium sp. Microbial community assembly became more stochastic over time, causing diversification of the biofilm (cathodic) community in acetogenic cells and leading to re-establishment of methanogens, despite inoculum pre-treatments. This suggests that repeated interventions may be required to suppress methanogenesis.
+
+[Source](https://doi.org/10.1038/s41522-022-00337-5)
+
+10.1038/s41522-022-00337-5
+
+---
+
+## MicrobiomeCensus estimates human population sizes from wastewater samples based on inter-individual variability in gut microbiomes.
+ 23.09.2022, _L Zhang, L Chen, XA Yu, C Duvallet, S Isazadeh, C Dai, S Park, K Frois-Moniz, F Duarte, C Ratti, EJ Alm, F Ling_
+
+
+The metagenome embedded in urban sewage is an attractive new data source to understand urban ecology and assess human health status at scales beyond a single host. Analyzing the viral fraction of wastewater in the ongoing COVID-19 pandemic has shown the potential of wastewater as aggregated samples for early detection, prevalence monitoring, and variant identification of human diseases in large populations. However, using census-based population size instead of real-time population estimates can mislead the interpretation of data acquired from sewage, hindering assessment of representativeness, inference of prevalence, or comparisons of taxa across sites. Here, we show that taxon abundance and sub-species diversisty in gut-associated microbiomes are new feature space to utilize for human population estimation. Using a population-scale human gut microbiome sample of over 1,100 people, we found that taxon-abundance distributions of gut-associated multi-person microbiomes exhibited generalizable relationships with respect to human population size. Here and throughout this paper, the human population size is essentially the sample size from the wastewater sample. We present a new algorithm, MicrobiomeCensus, for estimating human population size from sewage samples. MicrobiomeCensus harnesses the inter-individual variability in human gut microbiomes and performs maximum likelihood estimation based on simultaneous deviation of multiple taxa's relative abundances from their population means. MicrobiomeCensus outperformed generic algorithms in data-driven simulation benchmarks and detected population size differences in field data. New theorems are provided to justify our approach. This research provides a mathematical framework for inferring population sizes in real time from sewage samples, paving the way for more accurate ecological and public health studies utilizing the sewage metagenome.
+
+[Source](https://doi.org/10.1371/journal.pcbi.1010472)
+
+10.1371/journal.pcbi.1010472
 
 ---
 
