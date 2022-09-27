@@ -11,9 +11,10 @@ Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating di
 ---
 
 ## Strain-level resolution and pneumococcal carriage dynamics by single-molecule real-time (SMRT) sequencing of the plyNCR marker: a longitudinal study in Swiss infants.
- 22.09.2022, _OR Oyewole, P Latzin, SD Brugger, M Hilty_
+ 26.09.2022, _OR Oyewole, P Latzin, SD Brugger, M Hilty_
 
 
+_Carrier State, Humans, Infant, Longitudinal Studies, Nasopharynx, Pneumococcal Infections, Real-Time Polymerase Chain Reaction, Streptococcus pneumoniae, Switzerland_
 Pneumococcal carriage has often been studied from a serotype perspective; however, little is known about the strain-specific carriage and inter-strain interactions. Here, we examined the strain-level carriage and co-colonization dynamics of Streptococcus pneumoniae in a Swiss birth cohort by PacBio single-molecule real-time (SMRT) sequencing of the plyNCR marker.
 
 [Source](https://doi.org/10.1186/s40168-022-01344-6)
@@ -23,9 +24,10 @@ Pneumococcal carriage has often been studied from a serotype perspective; howeve
 ---
 
 ## Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis.
- 22.09.2022, _VM Martin, YV Virkud, E Dahan, HL Seay, D Itzkovits, H Vlamakis, R Xavier, WG Shreffler, Q Yuan, M Yassour_
+ 26.09.2022, _VM Martin, YV Virkud, E Dahan, HL Seay, D Itzkovits, H Vlamakis, R Xavier, WG Shreffler, Q Yuan, M Yassour_
 
 
+_Case-Control Studies, Child, Food Hypersensitivity, Gastrointestinal Microbiome, Humans, Immunoglobulin E, Infant, Longitudinal Studies, Proctocolitis, Prospective Studies, RNA, Ribosomal, 16S_
 Complex interactions between the gut microbiome and immune cells in infancy are thought to be part of the pathogenesis for the marked rise in pediatric allergic diseases, particularly food allergies. Food protein-induced allergic proctocolitis (FPIAP) is commonly the earliest recognized non-immunoglobulin E (IgE)-mediated food allergy in infancy and is associated with atopic dermatitis and subsequent IgE-mediated food allergy later in childhood. Yet, a large prospective longitudinal study of the microbiome of infants with FPIAP, including samples prior to symptom onset, has not been done.
 
 [Source](https://doi.org/10.1186/s40168-022-01322-y)
@@ -83,9 +85,10 @@ In line with the current development of individualized cancer treatments, target
 ---
 
 ## Metagenomics-resolved genomics provides novel insights into chitin turnover, metabolic specialization, and niche partitioning in the octocoral microbiome.
- 22.09.2022, _T Keller-Costa, L Kozma, SG Silva, R Toscan, J Gonçalves, A Lago-Lestón, NC Kyrpides, U Nunes da Rocha, R Costa_
+ 26.09.2022, _T Keller-Costa, L Kozma, SG Silva, R Toscan, J Gonçalves, A Lago-Lestón, NC Kyrpides, U Nunes da Rocha, R Costa_
 
 
+_Animals, Ankyrins, Anthozoa, Chitin, Chitinases, Gammaproteobacteria, Metagenomics, Microbiota, Oxygen, Phylogeny, Protein Serine-Threonine Kinases, Rhodobacteraceae, Symbiosis_
 The role of bacterial symbionts that populate octocorals (Cnidaria, Octocorallia) is still poorly understood. To shed light on their metabolic capacities, we examined 66 high-quality metagenome-assembled genomes (MAGs) spanning 30 prokaryotic species, retrieved from microbial metagenomes of three octocoral species and seawater.
 
 [Source](https://doi.org/10.1186/s40168-022-01343-7)
