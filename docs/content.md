@@ -127,15 +127,28 @@ The role of bacterial symbionts that populate octocorals (Cnidaria, Octocorallia
 
 ---
 
-## A meta-analysis of acetogenic and methanogenic microbiomes in microbial electrosynthesis
+## A meta-analysis of acetogenic and methanogenic microbiomes in microbial electrosynthesis.
+ 26.09.2022, _S Mills, P Dessì, D Pant, P Farràs, WT Sloan, G Collins, UZ Ijaz_
+
+
+_Methane, Methanobacterium, Microbiota, Oxygen, RNA, Ribosomal, 16S_
+A meta-analysis approach was used, to study the microbiomes of biofilms and planktonic communities underpinning microbial electrosynthesis (MES) cells. High-throughput DNA sequencing of 16S rRNA gene amplicons has been increasingly applied to understand MES systems. In this meta-analysis of 22 studies, we find that acetogenic and methanogenic MES cells share 80% of a cathodic core microbiome, and that different inoculum pre-treatments strongly affect community composition. Oxygen scavengers were more abundant in planktonic communities, and several key organisms were associated with operating parameters and good cell performance. We suggest Desulfovibrio sp. play a role in initiating early biofilm development and shaping microbial communities by catalysing H2 production, to sustain either Acetobacterium sp. or Methanobacterium sp. Microbial community assembly became more stochastic over time, causing diversification of the biofilm (cathodic) community in acetogenic cells and leading to re-establishment of methanogens, despite inoculum pre-treatments. This suggests that repeated interventions may be required to suppress methanogenesis.
 
 [Source](https://doi.org/10.1038/s41522-022-00337-5)
 
+10.1038/s41522-022-00337-5
+
 ---
 
-## MicrobiomeCensus estimates human population sizes from wastewater samples based on inter-individual variability in gut microbiomes
+## MicrobiomeCensus estimates human population sizes from wastewater samples based on inter-individual variability in gut microbiomes.
+ 23.09.2022, _L Zhang, L Chen, XA Yu, C Duvallet, S Isazadeh, C Dai, S Park, K Frois-Moniz, F Duarte, C Ratti, EJ Alm, F Ling_
+
+
+The metagenome embedded in urban sewage is an attractive new data source to understand urban ecology and assess human health status at scales beyond a single host. Analyzing the viral fraction of wastewater in the ongoing COVID-19 pandemic has shown the potential of wastewater as aggregated samples for early detection, prevalence monitoring, and variant identification of human diseases in large populations. However, using census-based population size instead of real-time population estimates can mislead the interpretation of data acquired from sewage, hindering assessment of representativeness, inference of prevalence, or comparisons of taxa across sites. Here, we show that taxon abundance and sub-species diversisty in gut-associated microbiomes are new feature space to utilize for human population estimation. Using a population-scale human gut microbiome sample of over 1,100 people, we found that taxon-abundance distributions of gut-associated multi-person microbiomes exhibited generalizable relationships with respect to human population size. Here and throughout this paper, the human population size is essentially the sample size from the wastewater sample. We present a new algorithm, MicrobiomeCensus, for estimating human population size from sewage samples. MicrobiomeCensus harnesses the inter-individual variability in human gut microbiomes and performs maximum likelihood estimation based on simultaneous deviation of multiple taxa's relative abundances from their population means. MicrobiomeCensus outperformed generic algorithms in data-driven simulation benchmarks and detected population size differences in field data. New theorems are provided to justify our approach. This research provides a mathematical framework for inferring population sizes in real time from sewage samples, paving the way for more accurate ecological and public health studies utilizing the sewage metagenome.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1010472)
+
+10.1371/journal.pcbi.1010472
 
 ---
 
