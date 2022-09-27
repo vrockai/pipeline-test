@@ -115,16 +115,9 @@ The role of bacterial symbionts that populate octocorals (Cnidaria, Octocorallia
 
 ---
 
-## Investigating plant-microbe interactions within the root.
- 26.09.2022, _YD Utami, TAN Nguyen, K Hiruma_
-
-
-_Microbial Interactions, Microbiota, Plant Roots, Plants, Symbiosis_
-A diverse lineage of microorganisms inhabits plant roots and interacts with plants in various ways. Further, these microbes communicate and interact with each other within the root microbial community. These symbioses add an array of influences, such as plant growth promotion or indirect protection to the host plant. Omics technology and genetic manipulation have been applied to unravel these interactions. Recent studies probed plants' control over microbes. However, the activity of the root microbial community under host influence has not been elucidated enough. In this mini-review, we discussed the recent advances and limits of omics technology and genetics for dissecting the activity of the root-associated microbial community. These materials may help us formulate the correct experimental plans to capture the entire molecular mechanisms of the plant-microbe interaction.
+## Investigating plant-microbe interactions within the root
 
 [Source](https://doi.org/10.1007/s00203-022-03257-2)
-
-10.1007/s00203-022-03257-2
 
 ---
 
