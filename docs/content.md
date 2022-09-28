@@ -1,12 +1,176 @@
-## Systemic antibody responses against human microbiota flagellins are overrepresented in chronic fatigue syndrome patients.
- 27.09.2022, _T Vogl, IN Kalka, S Klompus, S Leviatan, A Weinberger, E Segal_
+## Causal discovery for the microbiome.
+ 24.09.2022, _J Corander, WP Hanage, J Pensar_
 
 
-Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating disease with an unclear etiology and pathogenesis. Both an involvement of the immune system and gut microbiota dysbiosis have been implicated in its pathophysiology. However, potential interactions between adaptive immune responses and the microbiota in ME/CFS have been incompletely characterized. Here, we profiled antibody responses of patients with severe ME/CFS and healthy controls against microbiota and viral antigens represented as a phage-displayed 244,000 variant library. Patients with severe ME/CFS exhibited distinct serum antibody epitope repertoires against flagellins of Lachnospiraceae bacteria. Training machine learning algorithms on this antibody-binding data demonstrated that immune responses against gut microbiota represent a unique layer of information beyond standard blood tests, providing improved molecular diagnostics for ME/CFS. Together, our results point toward an involvement of the microbiota-immune axis in ME/CFS and lay the foundation for comparative studies with inflammatory bowel diseases and illnesses characterized by long-term fatigue symptoms, including post-COVID-19 syndrome.
+Measurement and manipulation of the microbiome is generally considered to have great potential for understanding the causes of complex diseases in humans, developing new therapies, and finding preventive measures. Many studies have found significant associations between the microbiome and various diseases; however, Koch's classical postulates remind us about the importance of causative reasoning when considering the relationship between microbes and a disease manifestation. Although causal discovery in observational microbiome data faces many challenges, methodological advances in causal structure learning have improved the potential of data-driven prediction of causal effects in large-scale biological systems. In this Personal View, we show the capability of existing methods for inferring causal effects from metagenomic data, and we highlight ways in which the introduction of causal structures that are more flexible than existing structures offers new opportunities for causal reasoning. Our observations suggest that microbiome research can further benefit from tools developed in the past 5 years in causal discovery and learn from their applications elsewhere.
 
-[Source](https://doi.org/10.1126/sciadv.abq2422)
+[Source](https://www.sciencedirect.com/science/article/pii/S2666524722001860?)
 
-10.1126/sciadv.abq2422
+10.1016/S2666-5247(22)00186-0
+
+---
+
+## Integrative functional analysis uncovers metabolic differences between Candida species
+
+[Source](https://www.nature.com/articles/s42003-022-03955-z)
+
+---
+
+## Evolution of the facial skin microbiome during puberty in normal and acne skin
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jdv.18616)
+
+---
+
+## Targeting the gut and tumor microbiota in cancer.
+ 19.07.2022, _EM Park, M Chelvanambi, N Bhutiani, G Kroemer, L Zitvogel, JA Wargo_
+
+
+_Gastrointestinal Microbiome, Humans, Immunotherapy, Microbiota, Neoplasms, Precision Medicine_
+Microorganisms within the gut and other niches may contribute to carcinogenesis, as well as shaping cancer immunosurveillance and response to immunotherapy. Our understanding of the complex relationship between different host-intrinsic microorganisms, as well as the multifaceted mechanisms by which they influence health and disease, has grown tremendously-hastening development of novel therapeutic strategies that target the microbiota to improve treatment outcomes in cancer. Accordingly, the evaluation of a patient's microbial composition and function and its subsequent targeted modulation represent key elements of future multidisciplinary and precision-medicine approaches. In this Review, we outline the current state of research toward harnessing the microbiome to better prevent and treat cancer.
+
+[Source](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0164/709373/Harnessing-Microbiota-to-Improve-Immunotherapy-for?redirectedFrom=fulltext)
+
+10.1038/s41591-022-01779-2
+
+---
+
+## Harnessing Microbiota to Improve Immunotherapy for Gastrointestinal Cancers
+
+[Source](https://aacrjournals.org/cancerimmunolres/article-abstract/doi/10.1158/2326-6066.CIR-22-0164/709373/Harnessing-Microbiota-to-Improve-Immunotherapy-for?redirectedFrom=fulltext)
+
+---
+
+## Gut microbiome in multiple sclerosis-related cognitive impairment.
+ 27.09.2022, _F Ghadiri, Z Ebadi, E Asadollahzadeh, A Naser Moghadasi_
+
+
+Cognition is one of the most evaluated neurologic subjects with which the gut microbiome is supposed to be associated. Cognitive impairment is a prevalent finding in patients with multiple sclerosis (MS). Here, we are about to study the current evidence on the effect of gut microbiota on cognition and MS. Although no direct evidence is in hand, putting all indirect research together, one could think of the hypothetical benefit of brain-gut axis interventions (possibly diet changes, probiotic administration, microbiota transplant) to solve the drastic problem of cognitive impairment in MS. Hence, researchers are encouraged to scan this horizon in order to fill the knowledge gaps in the field.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S221103482200671X)
+
+10.1016/j.msard.2022.104165
+
+---
+
+## Human gut microbiota and its metabolites impact immune responses in COVID-19 and its complications
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0016508522010812)
+
+---
+
+## Gut microbial fermentation promotes the intestinal anti-inflammatory activity of Chinese yam polysaccharides.
+ 27.09.2022, _Y Bai, Y Zhou, R Zhang, Y Chen, F Wang, M Zhang_
+
+
+Plant polysaccharides possess many health-promoting properties, which are closely related to the digestion, absorption and utilization of polysaccharides in the host. The characteristic changes in Chinese yam polysaccharide (CYP) during simulated gastrointestinal digestion and faecal fermentation, as well as the intestinal anti-inflammatory effects of CYP and fermented CYP, were studied. The molecular weight of CYP remained unchanged during gastrointestinal digestion. After 24 h of faecal fermentation, free glucose and mannose released from CYP were utilized by gut microbiota, and the production of short-chain fatty acids increased. Simultaneously, CYP improved the growth of Bifidobacterium and Megasphaera. Compared with CYP, faecal fermented CYP exhibited greater suppression of anti-inflammatory mediators and increased intestinal tight junction expression in LPS-stimulated coculture Caco-2/Raw264.7 cells. The obtained results reveal that the role of CYP in promoting gut health is closely related to the interactions between CYP and gut microbes, and CYP has potential as an anti-inflammatory adjuvant in enteritis therapy.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0308814622019653)
+
+10.1016/j.foodchem.2022.134003
+
+---
+
+## The preventive effects of probiotic Akkermansia muciniphila on D-galactose/AlCl3 mediated Alzheimer's disease-like rats.
+ 24.09.2022, _X He, C Yan, S Zhao, Y Zhao, R Huang, Y Li_
+
+
+We induced the AD-like rat models injected by AlCl3 and D-galactose, to explore the effects of an oral treatment of A. muciniphila on AD-like rats with periodontitis and its possible mechanism.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0531556522002674)
+
+10.1016/j.exger.2022.111959
+
+---
+
+## Characterizing the chicken gut colonization ability of a diverse group of bacteria.
+ 27.09.2022, _B Poudel, N Shterzer, Y Sbehat, N Ben-Porat, M Rakover, R Tovy-Sharon, D Wolicki, S Rahamim, E Bar-Shira, E Mills_
+
+
+The development of probiotics for chickens is a rapidly expanding field. The main approach to probiotics is to administer the probiotic strain throughout the bird's life, usually through incorporation in the feed. However, probiotics which would utilize bacterial strains capable of permanently colonizing the gut after a single exposure are likely to have a greater impact on the developing gut community as well as on the host, would simplify probiotic use and also reduce costs in an industrial setting. Finally, very limited and conflicting information about the colonization ability of different bacterial strains has been reported. Here we report 2 colonization experiments using 14 different bacterial strains from diverse phylogenetic groups. In both experiments, groups of chicks were orally inoculated on the day of hatch with different bacterial strains that had been previously isolated from adult heavy breeders. In the first experiment, colonization of the bacterial strains in broiler chicks was determined 7 d after treatment. In the second experiment, colonization was followed in layer chicks until d 17. Ten of the bacterial strains, including Lactobacillales and Bacteroidales strains, were able to colonize chicks after a single exposure for the duration of the experiment. For a few of these strains, exposure had little effect compared to non-treated chicks due to natural background colonization. Only 4 strains failed to colonize the chicks. Moreover, it is shown that fecal samples are useful to identify and provide a dynamic view of colonization. We further analyzed the effects of artificial colonization on microbiota composition. Some of the strains used in this research were found to reduce Enterobacteriaceae family abundance, implying that they might be useful in reducing relevant pathogen levels. To conclude, our results show that the development of single exposure based probiotics is possible.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0032579122004254)
+
+10.1016/j.psj.2022.102136
+
+---
+
+## Obesity induced gut dysbiosis contributes to disease severity in an animal model of multiple sclerosis
+
+[Source](https://www.frontiersin.org/articles/10.3389/fimmu.2022.966417/full)
+
+---
+
+## Impact of aluminum exposure on oxidative stress, intestinal changes and immune responses in red swamp crayfish (Procambarus clarkii).
+ 24.09.2022, _X Zhang, M Shen, C Wang, M Gao, L Wang, Z Jin, X Xia_
+
+
+Aluminum (Al) is an abundant metal that has been classified as a threatening pollutant due to indiscriminate use and anthropogenic activities. This study aimed to evaluate the impacts of Al on crayfish (Procambarus clarkii), including biochemical change, histological alteration, gut microbial community diversification, and immune changes. The bioaccumulation of Al was detected in the hemolymph and intestine of crayfish after Al exposure at different time points. Results showed that Al exposure significantly induced oxidative stress and caused pathohistological changes on intestinal barrier structures in crayfish. It was found that the intestinal microbiota was affected by retained Al and the intestinal community diversity was changed after Al treated in the crayfish. Furthermore, Al exposure affected the immunity in crayfish, by altering the expression of a set of immune-related genes, as well as reducing the phenoloxidase and lysozyme activities. Moreover, Al exposure promoted hemocytes apoptosis and impaired hemophagocytic capacity against Vibro parahamolyticus, resulting in higher mortality of crayfish upon bacterial infection. Taken these results together, we conclude that excessive Al exposure caused adverse effects on multiple biological processes of crayfish and Al pollution is a potential threat to crayfish culture.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722060016)
+
+10.1016/j.scitotenv.2022.158902
+
+---
+
+## Network analysis reveals significant joint effects of microplastics and tetracycline on the gut than the gill microbiome of marine medaka
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0304389422017903)
+
+---
+
+## Xenobiotic estradiol-17ß alters gut microbiota of hatchling American Alligators (Alligator mississippiensis)
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16222)
+
+---
+
+## Natural diversity uncovers P5CS1 regulation and its role in drought stress tolerance and yield sustainability in barley.
+ 21.09.2022, _A Shrestha, A Fendel, TH Nguyen, A Adebabay, AS Kullik, J Benndorf, J Leon, AA Naz_
+
+
+Proline accumulation is one of the major responses of plants to many abiotic stresses. However, the significance of proline accumulation for drought stress tolerance remains enigmatic in crop plants. First, we examined the natural variation of the pyrolline-5-carboxylate synthase (P5CS1) among 49 barley genotypes. Allele mining identified a previously unknown allelic series that showed polymorphisms at 42 cis-elements across the P5CS1 promoter. Selected haplotypes had quantitative variation in P5CS1 gene expression and proline accumulation, putatively influenced by both ABA-dependent and independent pathways under drought stress. Next, we introgressed the P5CS1 allele from a high proline accumulating wild barley accession ISR42-8 into cultivar Scarlett developing a near-isogenic line (NIL-143). NIL-143 accumulated higher proline concentrations than Scarlett under drought stress at seedling and reproductive stages. Under drought stress, NIL-143 showed less pigment damage, sustained photosynthetic health, and higher drought stress recovery compared to Scarlett. Further, the drought-induced damage to yield-related traits, mainly thousand-grain weight, was lower in NIL-143 compared to Scarlett in field conditions. Our data uncovered new variants of the P5CS1 promoter and the significance of the increased proline accumulation regulated by the P5CS1 allele of ISR42-8 in drought stress tolerance and yield stability in barley. This article is protected by copyright. All rights reserved.
+
+[Source](https://journals.asm.org/doi/10.1128/aem.00530-22)
+
+10.1111/pce.14445
+
+---
+
+## Sustained Drought, but Not Short-Term Warming, Alters the Gut Microbiomes of Wild Anolis Lizards
+
+[Source](https://journals.asm.org/doi/10.1128/aem.00530-22)
+
+---
+
+## Microbial Composition of Freshwater Marsh Sediment Responds more Strongly to Microcosm Seawater Addition than Simulated Nitrate or Phosphate Eutrophication.
+ 24.09.2022, _EA Weingarten, CR Jackson_
+
+
+As sea level rise impacts coastal wetlands, saltmarsh will overtake coastal freshwater marsh in many areas, but changes in the sediment microbiome in response to saltwater intrusion are difficult to predict. Coastal freshwater marsh sediment was exposed to ambient, brackish, and saline conditions as well as to elevated nitrate and phosphate to model the combined stresses of saltwater intrusion and coastal eutrophication. Initially, sediment prokaryotic composition was similar to prior studies of freshwater marsh but diverged over time, reflecting the magnitude of increase in saltwater. There was no observed effect of nutrient amendment, potentially ranking seawater intrusion as a higher-importance compositional driver. Although the previously described loss of methanogenic populations and promotion of sulfate reducers in response to saltwater exposure was observed, taxonomic distribution was not similar to typical meso-polyhaline wetlands. Without colonization by marine taxa, such a community may be short-lived naturally, ultimately equilibrating with more common saltmarsh species. However, the recapitulation of salinity concentration by freshwater sediment microbial composition demonstrates the overwhelming nature of saltwater intrusion relative to other drivers like eutrophication.
+
+[Source](https://link.springer.com/article/10.1007/s00248-022-02111-8)
+
+10.1007/s00248-022-02111-8
+
+---
+
+## Microbial community regulation and performance enhancement in gas biofilters by interrupting bacterial communication.
+ 22.09.2022, _YC Wang, YT Lin, C Wang, Z Tong, XR Hu, YH Lv, GY Jiang, MF Han, JG Deng, HC Hsi, CH Lee_
+
+
+_Communication, Extracellular Polymeric Substance Matrix, Microbiota, Quorum Sensing, Rhodococcus_
+Controlling excess biomass accumulation and clogging is important for maintaining the performance of gas biofilters and reducing energy consumption. Interruption of bacterial communication (quorum quenching) can modulate gene expression and alter biofilm properties. However, whether the problem of excess biomass accumulation in gas biofilters can be addressed by interrupting bacterial communication remains unknown.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01345-5)
+
+10.1186/s40168-022-01345-5
+
+---
+
+## Identification of microbial features in multivariate regression under false discovery rate control
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0167947322002018)
 
 ---
 
@@ -17,125 +181,9 @@ Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating di
 _Carrier State, Humans, Infant, Longitudinal Studies, Nasopharynx, Pneumococcal Infections, Real-Time Polymerase Chain Reaction, Streptococcus pneumoniae, Switzerland_
 Pneumococcal carriage has often been studied from a serotype perspective; however, little is known about the strain-specific carriage and inter-strain interactions. Here, we examined the strain-level carriage and co-colonization dynamics of Streptococcus pneumoniae in a Swiss birth cohort by PacBio single-molecule real-time (SMRT) sequencing of the plyNCR marker.
 
-[Source](https://doi.org/10.1186/s40168-022-01344-6)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01344-6)
 
 10.1186/s40168-022-01344-6
-
----
-
-## Longitudinal disease-associated gut microbiome differences in infants with food protein-induced allergic proctocolitis.
- 26.09.2022, _VM Martin, YV Virkud, E Dahan, HL Seay, D Itzkovits, H Vlamakis, R Xavier, WG Shreffler, Q Yuan, M Yassour_
-
-
-_Case-Control Studies, Child, Food Hypersensitivity, Gastrointestinal Microbiome, Humans, Immunoglobulin E, Infant, Longitudinal Studies, Proctocolitis, Prospective Studies, RNA, Ribosomal, 16S_
-Complex interactions between the gut microbiome and immune cells in infancy are thought to be part of the pathogenesis for the marked rise in pediatric allergic diseases, particularly food allergies. Food protein-induced allergic proctocolitis (FPIAP) is commonly the earliest recognized non-immunoglobulin E (IgE)-mediated food allergy in infancy and is associated with atopic dermatitis and subsequent IgE-mediated food allergy later in childhood. Yet, a large prospective longitudinal study of the microbiome of infants with FPIAP, including samples prior to symptom onset, has not been done.
-
-[Source](https://doi.org/10.1186/s40168-022-01322-y)
-
-10.1186/s40168-022-01322-y
-
----
-
-## Host and gut bacteria share metabolic pathways for anti-cancer drug metabolism.
- 22.09.2022, _P Spanogiannopoulos, TS Kyaw, BGH Guthrie, PH Bradley, JV Lee, J Melamed, YNA Malig, KN Lam, D Gempis, M Sandy, W Kidder, EL Van Blarigan, CE Atreya, A Venook, RR Gerona, A Goga, KS Pollard, PJ Turnbaugh_
-
-
-Pharmaceuticals have extensive reciprocal interactions with the microbiome, but whether bacterial drug sensitivity and metabolism is driven by pathways conserved in host cells remains unclear. Here we show that anti-cancer fluoropyrimidine drugs inhibit the growth of gut bacterial strains from 6 phyla. In both Escherichia coli and mammalian cells, fluoropyrimidines disrupt pyrimidine metabolism. Proteobacteria and Firmicutes metabolized 5-fluorouracil to its inactive metabolite dihydrofluorouracil, mimicking the major host mechanism for drug clearance. The preTA operon was necessary and sufficient for 5-fluorouracil inactivation by E. coli, exhibited high catalytic efficiency for the reductive reaction, decreased the bioavailability and efficacy of oral fluoropyrimidine treatment in mice and was prevalent in the gut microbiomes of colorectal cancer patients. The conservation of both the targets and enzymes for metabolism of therapeutics across domains highlights the need to distinguish the relative contributions of human and microbial cells to drug efficacy and side-effect profiles.
-
-[Source](https://doi.org/10.1038/s41564-022-01226-5)
-
-10.1038/s41564-022-01226-5
-
----
-
-## Diet-driven microbial ecology underpins associations between cancer immunotherapy outcomes and the gut microbiome.
- 22.09.2022, _RC Simpson, ER Shanahan, M Batten, ILM Reijers, M Read, IP Silva, JM Versluis, R Ribeiro, AS Angelatos, J Tan, C Adhikari, AM Menzies, RPM Saw, M Gonzalez, KF Shannon, AJ Spillane, R Velickovic, AJ Lazar, AV Damania, AK Mishra, M Chelvanambi, A Banerjee, NJ Ajami, JA Wargo, L Macia, AJ Holmes, JS Wilmott, CU Blank, RA Scolyer, GV Long_
-
-
-The gut microbiota shapes the response to immune checkpoint inhibitors (ICIs) in cancer, however dietary and geographic influences have not been well-studied in prospective trials. To address this, we prospectively profiled baseline gut (fecal) microbiota signatures and dietary patterns of 103 trial patients from Australia and the Netherlands treated with neoadjuvant ICIs for high risk resectable metastatic melanoma and performed an integrated analysis with data from 115 patients with melanoma treated with ICIs in the United States. We observed geographically distinct microbial signatures of response and immune-related adverse events (irAEs). Overall, response rates were higher in Ruminococcaceae-dominated microbiomes than in Bacteroidaceae-dominated microbiomes. Poor response was associated with lower fiber and omega 3 fatty acid consumption and elevated levels of C-reactive protein in the peripheral circulation at baseline. Together, these data provide insight into the relevance of native gut microbiota signatures, dietary intake and systemic inflammation in shaping the response to and toxicity from ICIs, prompting the need for further studies in this area.
-
-[Source](https://doi.org/10.1038/s41591-022-01965-2)
-
-10.1038/s41591-022-01965-2
-
----
-
-## Advances in the gut microbiome and mood disorders.
- 22.09.2022, _S Mörkl, MI Butler, S Lackner_
-
-
-The gut microbiome is in constant bidirectional communication with the brain through the microbiota-gut-brain-axis. Mood disorders are among the most common psychiatric disorders and include major depressive disorder and bipolar disorder. The gut microbiome is altered in individuals with mood disorders and has a role in its inflammatory pathophysiology. In this article, we performed a narrative review of clinical studies, randomized controlled trials and meta-analyses addressing advances in gut microbiome research in mood disorders and included articles that were published between 2021 and 2022.
-
-[Source](https://doi.org/10.1097/YCO.0000000000000829)
-
-10.1097/YCO.0000000000000829
-
----
-
-## Modulation of the intestinal microbiota impacts the efficacy of immunotherapy in cancer patients - A recent literature survey.
- 23.09.2022, _S Ziegler, S Bereswill, MM Heimesaat_
-
-
-In line with the current development of individualized cancer treatments, targeted and specialized therapeutic regimens such as immunotherapy gain importance and factors improving its efficacy come into the focus of actual research. Given the orchestrated interaction of the intestinal microbiota with host immunity the modulation of the human gut microbiota represents a therapy-enhancing factor. We therefore performed an actual literature survey on the role of the gut microbiota composition and the effects of its modification during immunotherapy of cancer patients. The included 23 studies published in the past 10 years revealed that both, distinct bacterial species and genera including Faecalibacterium prausnitzii and Bifidobacterium, respectively, enhanced distinct immunotherapy responses following PD-1/PD-L1 and CTLA-4 blockage, for instance, resulting in a better clinical outcome of cancer patients. Conversely, a high intestinal abundance of Bacteroidetes and Fusobacterium species correlated with a less efficient immunotherapy resulting in shorter progress-free survival outcomes. In conclusion, modifications of the gut microbiota by fecal microbiota transplantation or application of probiotic compounds represent potential adjunct options for immunotherapy in cancer patients which needs to be further addressed in future trials to provide individually tailored and safe adjuvant therapeutic measures in the combat of cancer.
-
-[Source](https://doi.org/10.1556/1886.2022.00017)
-
-10.1556/1886.2022.00017
-
----
-
-## Metagenomics-resolved genomics provides novel insights into chitin turnover, metabolic specialization, and niche partitioning in the octocoral microbiome.
- 26.09.2022, _T Keller-Costa, L Kozma, SG Silva, R Toscan, J Gonçalves, A Lago-Lestón, NC Kyrpides, U Nunes da Rocha, R Costa_
-
-
-_Animals, Ankyrins, Anthozoa, Chitin, Chitinases, Gammaproteobacteria, Metagenomics, Microbiota, Oxygen, Phylogeny, Protein Serine-Threonine Kinases, Rhodobacteraceae, Symbiosis_
-The role of bacterial symbionts that populate octocorals (Cnidaria, Octocorallia) is still poorly understood. To shed light on their metabolic capacities, we examined 66 high-quality metagenome-assembled genomes (MAGs) spanning 30 prokaryotic species, retrieved from microbial metagenomes of three octocoral species and seawater.
-
-[Source](https://doi.org/10.1186/s40168-022-01343-7)
-
-10.1186/s40168-022-01343-7
-
----
-
-## Intestinal microbiome-mediated resistance against vibriosis for <em>Cynoglossus semilaevis</em>
-
-[Source](https://doi.org/10.1186/s40168-022-01346-4)
-
----
-
-## Response of soil microecology to different cropping practice under <em>Bupleurum chinense</em> cultivation
-
-[Source](https://doi.org/10.1186/s12866-022-02638-3)
-
----
-
-## Community Assembly of Fungi and Bacteria along Soil-Plant Continuum Differs in a Zoige Wetland
-
-[Source](https://doi.org/10.1128/spectrum.02260-22)
-
----
-
-## Investigating plant-microbe interactions within the root
-
-[Source](https://doi.org/10.1007/s00203-022-03257-2)
-
----
-
-## Geographically Associated Fungus-Bacterium Interactions Contribute to the Formation of Geography-Dependent Flavor during High-Complexity Spontaneous Fermentation
-
-[Source](https://doi.org/10.1128/spectrum.01844-22)
-
----
-
-## A meta-analysis of acetogenic and methanogenic microbiomes in microbial electrosynthesis
-
-[Source](https://doi.org/10.1038/s41522-022-00337-5)
-
----
-
-## MicrobiomeCensus estimates human population sizes from wastewater samples based on inter-individual variability in gut microbiomes
-
-[Source](https://doi.org/10.1371/journal.pcbi.1010472)
 
 ---
 
