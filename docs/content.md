@@ -1,5 +1,5 @@
 ## Systemic antibody responses against human microbiota flagellins are overrepresented in chronic fatigue syndrome patients.
- 23.09.2022, _T Vogl, IN Kalka, S Klompus, S Leviatan, A Weinberger, E Segal_
+ 27.09.2022, _T Vogl, IN Kalka, S Klompus, S Leviatan, A Weinberger, E Segal_
 
 
 Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a debilitating disease with an unclear etiology and pathogenesis. Both an involvement of the immune system and gut microbiota dysbiosis have been implicated in its pathophysiology. However, potential interactions between adaptive immune responses and the microbiota in ME/CFS have been incompletely characterized. Here, we profiled antibody responses of patients with severe ME/CFS and healthy controls against microbiota and viral antigens represented as a phage-displayed 244,000 variant library. Patients with severe ME/CFS exhibited distinct serum antibody epitope repertoires against flagellins of Lachnospiraceae bacteria. Training machine learning algorithms on this antibody-binding data demonstrated that immune responses against gut microbiota represent a unique layer of information beyond standard blood tests, providing improved molecular diagnostics for ME/CFS. Together, our results point toward an involvement of the microbiota-immune axis in ME/CFS and lay the foundation for comparative studies with inflammatory bowel diseases and illnesses characterized by long-term fatigue symptoms, including post-COVID-19 syndrome.
@@ -128,7 +128,7 @@ The role of bacterial symbionts that populate octocorals (Cnidaria, Octocorallia
 ---
 
 ## A meta-analysis of acetogenic and methanogenic microbiomes in microbial electrosynthesis.
- 26.09.2022, _S Mills, P Dessì, D Pant, P Farràs, WT Sloan, G Collins, UZ Ijaz_
+ 27.09.2022, _S Mills, P Dessì, D Pant, P Farràs, WT Sloan, G Collins, UZ Ijaz_
 
 
 _Methane, Methanobacterium, Microbiota, Oxygen, RNA, Ribosomal, 16S_
