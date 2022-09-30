@@ -48,7 +48,7 @@ Immune checkpoint blockade has revolutionized opportunities for therapeutic inte
 ---
 
 ## Gut microbiome in multiple sclerosis-related cognitive impairment.
- 28.09.2022, _F Ghadiri, Z Ebadi, E Asadollahzadeh, A Naser Moghadasi_
+ 30.09.2022, _F Ghadiri, Z Ebadi, E Asadollahzadeh, A Naser Moghadasi_
 
 
 Cognition is one of the most evaluated neurologic subjects with which the gut microbiome is supposed to be associated. Cognitive impairment is a prevalent finding in patients with multiple sclerosis (MS). Here, we are about to study the current evidence on the effect of gut microbiota on cognition and MS. Although no direct evidence is in hand, putting all indirect research together, one could think of the hypothetical benefit of brain-gut axis interventions (possibly diet changes, probiotic administration, microbiota transplant) to solve the drastic problem of cognitive impairment in MS. Hence, researchers are encouraged to scan this horizon in order to fill the knowledge gaps in the field.
@@ -72,7 +72,7 @@ We investigate interrelationships between gut microbes, metabolites, and cytokin
 ---
 
 ## Gut microbial fermentation promotes the intestinal anti-inflammatory activity of Chinese yam polysaccharides.
- 28.09.2022, _Y Bai, Y Zhou, R Zhang, Y Chen, F Wang, M Zhang_
+ 30.09.2022, _Y Bai, Y Zhou, R Zhang, Y Chen, F Wang, M Zhang_
 
 
 Plant polysaccharides possess many health-promoting properties, which are closely related to the digestion, absorption and utilization of polysaccharides in the host. The characteristic changes in Chinese yam polysaccharide (CYP) during simulated gastrointestinal digestion and faecal fermentation, as well as the intestinal anti-inflammatory effects of CYP and fermented CYP, were studied. The molecular weight of CYP remained unchanged during gastrointestinal digestion. After 24 h of faecal fermentation, free glucose and mannose released from CYP were utilized by gut microbiota, and the production of short-chain fatty acids increased. Simultaneously, CYP improved the growth of Bifidobacterium and Megasphaera. Compared with CYP, faecal fermented CYP exhibited greater suppression of anti-inflammatory mediators and increased intestinal tight junction expression in LPS-stimulated coculture Caco-2/Raw264.7 cells. The obtained results reveal that the role of CYP in promoting gut health is closely related to the interactions between CYP and gut microbes, and CYP has potential as an anti-inflammatory adjuvant in enteritis therapy.
@@ -96,7 +96,7 @@ We induced the AD-like rat models injected by AlCl3 and D-galactose, to explore 
 ---
 
 ## Characterizing the chicken gut colonization ability of a diverse group of bacteria.
- 28.09.2022, _B Poudel, N Shterzer, Y Sbehat, N Ben-Porat, M Rakover, R Tovy-Sharon, D Wolicki, S Rahamim, E Bar-Shira, E Mills_
+ 30.09.2022, _B Poudel, N Shterzer, Y Sbehat, N Ben-Porat, M Rakover, R Tovy-Sharon, D Wolicki, S Rahamim, E Bar-Shira, E Mills_
 
 
 The development of probiotics for chickens is a rapidly expanding field. The main approach to probiotics is to administer the probiotic strain throughout the bird's life, usually through incorporation in the feed. However, probiotics which would utilize bacterial strains capable of permanently colonizing the gut after a single exposure are likely to have a greater impact on the developing gut community as well as on the host, would simplify probiotic use and also reduce costs in an industrial setting. Finally, very limited and conflicting information about the colonization ability of different bacterial strains has been reported. Here we report 2 colonization experiments using 14 different bacterial strains from diverse phylogenetic groups. In both experiments, groups of chicks were orally inoculated on the day of hatch with different bacterial strains that had been previously isolated from adult heavy breeders. In the first experiment, colonization of the bacterial strains in broiler chicks was determined 7 d after treatment. In the second experiment, colonization was followed in layer chicks until d 17. Ten of the bacterial strains, including Lactobacillales and Bacteroidales strains, were able to colonize chicks after a single exposure for the duration of the experiment. For a few of these strains, exposure had little effect compared to non-treated chicks due to natural background colonization. Only 4 strains failed to colonize the chicks. Moreover, it is shown that fecal samples are useful to identify and provide a dynamic view of colonization. We further analyzed the effects of artificial colonization on microbiota composition. Some of the strains used in this research were found to reduce Enterobacteriaceae family abundance, implying that they might be useful in reducing relevant pathogen levels. To conclude, our results show that the development of single exposure based probiotics is possible.
@@ -114,7 +114,7 @@ The development of probiotics for chickens is a rapidly expanding field. The mai
 ---
 
 ## Impact of aluminum exposure on oxidative stress, intestinal changes and immune responses in red swamp crayfish (Procambarus clarkii).
- 29.09.2022, _X Zhang, M Shen, C Wang, M Gao, L Wang, Z Jin, X Xia_
+ 30.09.2022, _X Zhang, M Shen, C Wang, M Gao, L Wang, Z Jin, X Xia_
 
 
 Aluminum (Al) is an abundant metal that has been classified as a threatening pollutant due to indiscriminate use and anthropogenic activities. This study aimed to evaluate the impacts of Al on crayfish (Procambarus clarkii), including biochemical change, histological alteration, gut microbial community diversification, and immune changes. The bioaccumulation of Al was detected in the hemolymph and intestine of crayfish after Al exposure at different time points. Results showed that Al exposure significantly induced oxidative stress and caused pathohistological changes on intestinal barrier structures in crayfish. It was found that the intestinal microbiota was affected by retained Al and the intestinal community diversity was changed after Al treated in the crayfish. Furthermore, Al exposure affected the immunity in crayfish, by altering the expression of a set of immune-related genes, as well as reducing the phenoloxidase and lysozyme activities. Moreover, Al exposure promoted hemocytes apoptosis and impaired hemophagocytic capacity against Vibro parahamolyticus, resulting in higher mortality of crayfish upon bacterial infection. Taken these results together, we conclude that excessive Al exposure caused adverse effects on multiple biological processes of crayfish and Al pollution is a potential threat to crayfish culture.
