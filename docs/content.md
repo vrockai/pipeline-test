@@ -114,7 +114,7 @@ The development of probiotics for chickens is a rapidly expanding field. The mai
 ---
 
 ## Impact of aluminum exposure on oxidative stress, intestinal changes and immune responses in red swamp crayfish (Procambarus clarkii).
- 28.09.2022, _X Zhang, M Shen, C Wang, M Gao, L Wang, Z Jin, X Xia_
+ 29.09.2022, _X Zhang, M Shen, C Wang, M Gao, L Wang, Z Jin, X Xia_
 
 
 Aluminum (Al) is an abundant metal that has been classified as a threatening pollutant due to indiscriminate use and anthropogenic activities. This study aimed to evaluate the impacts of Al on crayfish (Procambarus clarkii), including biochemical change, histological alteration, gut microbial community diversification, and immune changes. The bioaccumulation of Al was detected in the hemolymph and intestine of crayfish after Al exposure at different time points. Results showed that Al exposure significantly induced oxidative stress and caused pathohistological changes on intestinal barrier structures in crayfish. It was found that the intestinal microbiota was affected by retained Al and the intestinal community diversity was changed after Al treated in the crayfish. Furthermore, Al exposure affected the immunity in crayfish, by altering the expression of a set of immune-related genes, as well as reducing the phenoloxidase and lysozyme activities. Moreover, Al exposure promoted hemocytes apoptosis and impaired hemophagocytic capacity against Vibro parahamolyticus, resulting in higher mortality of crayfish upon bacterial infection. Taken these results together, we conclude that excessive Al exposure caused adverse effects on multiple biological processes of crayfish and Al pollution is a potential threat to crayfish culture.
