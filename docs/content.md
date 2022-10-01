@@ -11,7 +11,7 @@ Measurement and manipulation of the microbiome is generally considered to have g
 ---
 
 ## Integrative functional analysis uncovers metabolic differences between Candida species.
- 28.09.2022, _N Begum, S Lee, TJ Portlock, A Pellon, SDS Nasab, J Nielsen, M Uhlen, DL Moyes, S Shoaie_
+ 30.09.2022, _N Begum, S Lee, TJ Portlock, A Pellon, SDS Nasab, J Nielsen, M Uhlen, DL Moyes, S Shoaie_
 
 
 _Arginine, Candida, Carbohydrates, Choline, Cysteine, Fatty Acids, Humans, Methionine, Polyamines_
@@ -60,7 +60,7 @@ Cognition is one of the most evaluated neurologic subjects with which the gut mi
 ---
 
 ## Human gut microbiota and its metabolites impact immune responses in COVID-19 and its complications.
- 26.09.2022, _N Nagata, T Takeuchi, H Masuoka, R Aoki, M Ishikane, N Iwamoto, M Sugiyama, W Suda, Y Nakanishi, J Terada-Hirashima, M Kimura, T Nishijima, H Inooka, T Miyoshi-Akiyama, Y Kojima, C Shimokawa, H Hisaeda, F Zhang, YK Yeoh, SC Ng, N Uemura, T Itoi, M Mizokami, T Kawai, H Sugiyama, N Ohmagari, H Ohno_
+ 30.09.2022, _N Nagata, T Takeuchi, H Masuoka, R Aoki, M Ishikane, N Iwamoto, M Sugiyama, W Suda, Y Nakanishi, J Terada-Hirashima, M Kimura, T Nishijima, H Inooka, T Miyoshi-Akiyama, Y Kojima, C Shimokawa, H Hisaeda, F Zhang, YK Yeoh, SC Ng, N Uemura, T Itoi, M Mizokami, T Kawai, H Sugiyama, N Ohmagari, H Ohno_
 
 
 We investigate interrelationships between gut microbes, metabolites, and cytokines that characterize COVID-19 and its complications, and validate the results with follow-up, Japanese 4D microbiome cohort, and non-Japanese datasets.
