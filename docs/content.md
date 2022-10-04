@@ -28,9 +28,15 @@ Fungal microorganisms (mycobiota) comprise a small but immunoreactive component 
 
 ---
 
-## Gut microbiota of hepatitis B virus-infected patients in the immune-tolerant and immune-active phases and their implications in metabolite changes
+## Gut microbiota of hepatitis B virus-infected patients in the immune-tolerant and immune-active phases and their implications in metabolite changes.
+ 03.10.2022, _YN Li, NL Kang, JJ Jiang, YY Zhu, YR Liu, DW Zeng, F Wang_
+
+
+The microbes and metabolomics of microbiota dysbiosis in the gut in the different phases of hepatitis B virus (HBV) infection are not fully understood.
 
 [Source](https://doi.org/10.3748/wjg.v28.i35.5188)
+
+10.3748/wjg.v28.i35.5188
 
 ---
 
@@ -40,9 +46,15 @@ Fungal microorganisms (mycobiota) comprise a small but immunoreactive component 
 
 ---
 
-## Short-chain fatty acid concentrations in the incidence and risk-stratification of colorectal cancer: a systematic review and meta-analysis
+## Short-chain fatty acid concentrations in the incidence and risk-stratification of colorectal cancer: a systematic review and meta-analysis.
+ 02.10.2022, _E Alvandi, WKM Wong, MV Joglekar, KJ Spring, AA Hardikar_
+
+
+The beneficial role of gut microbiota and bacterial metabolites, including short-chain fatty acids (SCFAs), is well recognized, although the available literature around their role in colorectal cancer (CRC) has been inconsistent.
 
 [Source](https://doi.org/10.1186/s12916-022-02529-4)
+
+10.1186/s12916-022-02529-4
 
 ---
 
@@ -64,9 +76,15 @@ The immune system is key to host defense against pathogenic organisms. Aging is 
 
 ---
 
-## Unfermented β-fructan fibers fuel inflammation in select inflammatory bowel disease patients
+## Unfermented β-fructan fibers fuel inflammation in select inflammatory bowel disease patients.
+ 02.10.2022, _HK Armstrong, M Bording-Jorgensen, DM Santer, Z Zhang, R Valcheva, AM Rieger, J Sung-Ho Kim, SI Dijk, R Mahmood, O Ogungbola, J Jovel, F Moreau, H Gorman, R Dickner, J Jerasi, IK Mander, D Lafleur, C Cheng, A Petrova, TL Jeanson, A Mason, CM Sergi, A Levine, K Chadee, D Armstrong, S Rauscher, CN Bernstein, MW Carroll, HQ Huynh, J Walter, KL Madsen, LA Dieleman, E Wine_
+
+
+Inflammatory bowel diseases (IBD) are impacted by dietary factors, including non-digestible carbohydrates (fibers), which are fermented by colonic microbes. Fibers are overall beneficial but not all fibers are alike and some IBD patients report intolerance to fiber consumption. Given reproducible evidence of reduced fiber-fermenting microbes in IBD patients, we hypothesized that fibers remain intact in select patients with reduced fiber-fermenting microbes and can then bind host cell receptors, subsequently promoting gut inflammation.
 
 [Source](https://doi.org/10.1053/j.gastro.2022.09.034)
+
+10.1053/j.gastro.2022.09.034
 
 ---
 
@@ -106,9 +124,15 @@ The gut mycobiome (fungi) is a small but crucial component of the gut microbiome
 
 ---
 
-## Tailoring gut microbiota with a combination of Vitamin K and probiotics as a possible adjuvant in the treatment of rheumatic arthritis: a systematic review
+## Tailoring gut microbiota with a combination of Vitamin K and probiotics as a possible adjuvant in the treatment of rheumatic arthritis: a systematic review.
+ 02.10.2022, _L Pereira, R Monteiro_
+
+
+Rheumatoid arthritis (RA) is an autoimmune disease of multifactorial etiology, characterized by a chronic inflammatory reaction of the joints, but can also affect other tissues. Some environmental factors can trigger an immune system response in genetically susceptible individuals, activating the disease. Lower diversity of gut microbiota, and dysbiosis, have been observed in RA patients. In this regard, approaches to decrease inflammation, and to restore the microbiota, have been suggested. These include oral administration of single probiotics, or probiotic mixtures, on their own, or in combination with drugs. Vitamin K (VitK) is one of the many products of the intestinal microbiota. Lower levels of some forms of VitK have been measured in the serum and stools of RA patients and some studies have found an inverse correlation between VitK levels and the clinical severity of the disease. Additionally, some forms of this vitamin, when given orally, have been shown to exert positive effects in decreasing RA activity, and delaying its onset and progress. This review aims at describing the link between the gut microbiota and RA, focusing on the role of VitK and probiotics as possible adjuvant therapies in this disease.
 
 [Source](https://doi.org/10.1016/j.clnesp.2022.08.002)
+
+10.1016/j.clnesp.2022.08.002
 
 ---
 
@@ -124,9 +148,14 @@ The etiopathogenesis of multiple sclerosis (MS) is strongly affected by environm
 
 ---
 
-## Bacteroides thetaiotaomicron rough-type lipopolysaccharide: The chemical structure and the immunological activity
+## Bacteroides thetaiotaomicron rough-type lipopolysaccharide: The chemical structure and the immunological activity.
+ 02.10.2022, _MD Pither, A Illiano, C Pagliuca, A Jacobson, G Mantova, A Stornaiuolo, R Colicchio, M Vitiello, G Pinto, A Silipo, MA Fischbach, P Salvatore, A Amoresano, A Molinaro, F Di Lorenzo_
+
+
 
 [Source](https://doi.org/10.1016/j.carbpol.2022.120040)
+
+10.1016/j.carbpol.2022.120040
 
 ---
 
@@ -154,9 +183,15 @@ Microbial symbioses in marine invertebrates are commonplace. However, characteri
 
 ---
 
-## Microbiomes in agroecosystem: Diversity, function and assembly mechanisms
+## Microbiomes in agroecosystem: Diversity, function and assembly mechanisms.
+ 02.10.2022, _C Xiong, Y Lu_
+
+
+Soils are a main repository of biodiversity harbouring immense diversity of microbial species that plays a central role in fundamental ecological processes and acts as the seed bank for emergence of the plant microbiome in cropland ecosystems. Crop-associated microbiomes play an important role in shaping plant performance, which includes but not limited to nutrient uptake, disease resistance, and abiotic stress tolerance. Although our understanding of structure and function of soil and plant microbiomes has been rapidly advancing, most of our knowledge comes from ecosystems in natural environment. In this review, we present an overview of the current knowledge of diversity and function of microbial communities along the soil-plant continuum in agroecosystems. To characterize the ecological mechanisms for community assembly of soil and crop microbiomes, we explore how crop host and environmental factors such as plant species and developmental stage, pathogen invasion, and land management shape microbiome structure, microbial co-occurrence patterns, and crop-microbiome interactions. Particularly, the relative importance of deterministic and stochastic processes in microbial community assembly is illustrated under different environmental conditions, and potential sources and keystone taxa of the crop microbiome are described. Finally, we highlight a few important questions and perspectives in future crop microbiome research.
 
 [Source](https://doi.org/10.1111/1758-2229.13126)
+
+10.1111/1758-2229.13126
 
 ---
 
