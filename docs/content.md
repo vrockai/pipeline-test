@@ -22,9 +22,15 @@ _Ethnicity, Humans, Microbiota, Neoplasms, Racial Groups_
 
 ---
 
-## Alterations in the respiratory tract microbiome in COVID-19: current observations and potential significance
+## Alterations in the respiratory tract microbiome in COVID-19: current observations and potential significance.
+ 04.10.2022, _C Merenstein, FD Bushman, RG Collman_
+
+
+SARS-CoV-2 infection causes COVID-19 disease, which can result in consequences ranging from undetectable to fatal, focusing attention on the modulators of outcomes. The respiratory tract microbiome is thought to modulate the outcomes of infections such as influenza as well as acute lung injury, raising the question to what degree does the airway microbiome influence COVID-19? Here, we review the results of 56 studies examining COVID-19 and the respiratory tract microbiome, summarize the main generalizations, and point to useful avenues for further research. Although the results vary among studies, a few consistent findings stand out. The diversity of bacterial communities in the oropharynx typically declined with increasing disease severity. The relative abundance of Haemophilus and Neisseria also declined with severity. Multiple microbiome measures tracked with measures of systemic immune responses and COVID outcomes. For many of the conclusions drawn in these studies, the direction of causality is unknown-did an alteration in the microbiome result in increased COVID severity, did COVID severity alter the microbiome, or was some third factor the primary driver, such as medication use. Follow-up mechanistic studies can help answer these questions. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01342-8)
+
+10.1186/s40168-022-01342-8
 
 ---
 
@@ -185,27 +191,52 @@ In tandem with the fast expansion of the pet-economy industry, the present agein
 
 ---
 
-## Novel trends of genome evolution in highly complex tropical sponge microbiomes
+## Novel trends of genome evolution in highly complex tropical sponge microbiomes.
+ 04.10.2022, _JB Kelly, DE Carlson, JS Low, RW Thacker_
+
+
+Tropical members of the sponge genus Ircinia possess highly complex microbiomes that perform a broad spectrum of chemical processes that influence host fitness. Despite the pervasive role of microbiomes in Ircinia biology, it is still unknown how they remain in stable association across tropical species. To address this question, we performed a comparative analysis of the microbiomes of 11 Ircinia species using whole-metagenomic shotgun sequencing data to investigate three aspects of bacterial symbiont genomes-the redundancy in metabolic pathways across taxa, the evolution of genes involved in pathogenesis, and the nature of selection acting on genes relevant to secondary metabolism.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01359-z)
 
+10.1186/s40168-022-01359-z
+
 ---
 
-## Marine DNA methylation patterns are associated with microbial community composition and inform virus-host dynamics
+## Marine DNA methylation patterns are associated with microbial community composition and inform virus-host dynamics.
+ 05.10.2022, _HJ Seong, S Roux, CY Hwang, WJ Sul_
+
+
+_Bacteriophages, DNA, DNA Methylation, Metagenome, Metagenomics, Methyltransferases, Microbiota_
+DNA methylation in prokaryotes is involved in many different cellular processes including cell cycle regulation and defense against viruses. To date, most prokaryotic methylation systems have been studied in culturable microorganisms, resulting in a limited understanding of DNA methylation from a microbial ecology perspective. Here, we analyze the distribution patterns of several microbial epigenetics marks in the ocean microbiome through genome-centric metagenomics across all domains of life.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01340-w)
 
+10.1186/s40168-022-01340-w
+
 ---
 
-## Untangling microbial diversity and assembly patterns in rare earth element mine drainage in South China
+## Untangling microbial diversity and assembly patterns in rare earth element mine drainage in South China.
+ 03.10.2022, _Z Chen, YH Fei, WS Liu, K Ding, J Lu, X Cai, T Cui, YT Tang, S Wang, Y Chao, R Qiu_
+
+
+Ion-adsorption rare earth element (REE) deposits are the main reservoirs of REEs worldwide, and are widely exploited in South China. Microbial diversity is essential for maintaining the performance and function of mining ecosystems. Investigating the ecological patterns underlying the REE mine microbiome is essential to understand ecosystem responses to environmental changes and to improve the bioremediation of mining areas. We applied 16S rRNA and ITS gene sequence analyses to investigate the composition characteristics of prokaryotic (bacteria, archaea) and fungal communities in a river impacted by REE acid mine drainage (REE-AMD). The river formed a unique micro-ecosystem, including the main prokaryotic taxa of Proteobacteria, Acidobacteria, Crenarchaeota, and Euryarchaeota, as well as the main fungal taxa of Ascomycota, Basidiomycota, and Chytridiomycota. Analysis of microbial diversity showed that, unlike prokaryotic communities that responded drastically to pollution disturbances, fungal communities were less affected by REE-AMD, but fluctuated significantly in different seasons. Ecological network analysis revealed that fungal communities have lower connectivity and centrality, and higher modularity than prokaryotic networks, indicating that fungal communities have more stable network structures. The introduction of REE-AMD mainly reduced the complexity of the community network and the number of keystone species, while the proportion of negative prokaryotic-fungal associations in the network increased. Ecological process analysis revealed that, compared to the importance of environmental selection for prokaryotes, stochastic processes might have contributed primarily to fungal communities in REE mining areas. These findings confirm that the different assembly mechanisms of prokaryotic and fungal communities are key to the differences in their responses to environmental perturbations. The findings also provide the first insights into microbiota assembly patterns in REE-AMD and important ecological knowledge for the formation and development of microbial communities in REE mining areas.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422011174)
 
+10.1016/j.watres.2022.119172
+
 ---
 
-## Benchmarking Community-Wide Estimates of Growth Potential from Metagenomes Using Codon Usage Statistics
+## Benchmarking Community-Wide Estimates of Growth Potential from Metagenomes Using Codon Usage Statistics.
+ 03.10.2022, _JL Weissman, M Peras, TP Barnum, JA Fuhrman_
+
+
+Trait inference from mixed-species assemblages is a central problem in microbial ecology. Frequently, sequencing information from an environment is available, but phenotypic measurements from individual community members are not. With the increasing availability of molecular data for microbial communities, bioinformatic approaches that map metagenome to (meta)phenotype are needed. Recently, we developed a tool, gRodon, that enables the prediction of the maximum growth rate of an organism from genomic data on the basis of codon usage patterns. Our work and that of other groups suggest that such predictors can be applied to mixed-species communities in order to derive estimates of the average community-wide maximum growth rate. Here, we present an improved maximum growth rate predictor designed for metagenomes that corrects a persistent GC bias in the original gRodon model for metagenomic prediction. We benchmark this predictor with simulated metagenomic data sets to show that it has superior performance on mixed-species communities relative to earlier models. We go on to provide guidance on data preprocessing and show that calling genes from assembled contigs rather than directly from reads dramatically improves performance. Finally, we apply our predictor to large-scale metagenomic data sets from marine and human microbiomes to illustrate how community-wide growth prediction can be a powerful approach for hypothesis generation. Altogether, we provide an updated tool with clear guidelines for users about the uses and pitfalls of metagenomic prediction of the average community-wide maximal growth rate. IMPORTANCE Microbes dominate nearly every known habitat, and therefore tools to survey the structure and function of natural microbial communities are much needed. Metagenomics, in which the DNA content of an entire community of organisms is sequenced all at once, allows us to probe the genetic diversity contained in a habitat. Yet, mapping metagenomic information to the actual traits of community members is a difficult and largely unsolved problem. Here, we present and validate a tool that allows users to predict the average maximum growth rate of a microbial community directly from metagenomic data. Maximum growth rate is a fundamental characteristic of microbial species that can give us a great deal of insight into their ecological role, and by applying our community-level predictor to large-scale metagenomic data sets from marine and human-associated microbiomes, we show how community-wide growth prediction can be a powerful approach for hypothesis generation.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00745-22)
+
+10.1128/msystems.00745-22
 
 ---
 
