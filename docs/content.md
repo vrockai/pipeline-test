@@ -29,9 +29,10 @@ _Ethnicity, Humans, Microbiota, Neoplasms, Racial Groups_
 ---
 
 ## Maternal weight status and the composition of the human milk microbiome: A scoping review.
- 04.10.2022, _K Daiy, V Harries, K Nyhan, UM Marcinkowska_
+ 05.10.2022, _K Daiy, V Harries, K Nyhan, UM Marcinkowska_
 
 
+_Adult, Body Mass Index, Cross-Sectional Studies, Female, Gastrointestinal Microbiome, Gestational Weight Gain, Humans, Infant, Milk, Human, Obesity, Pregnancy_
 The human milk microbiome is thought to partly contribute to the assembly of the infant gut microbiome, a microbial community with important implications for infant health and development. While obesity has well-established links with the adult gut microbiome, less is known about how it affects the human milk microbiome. In this scoping review, we synthesize the current literature on the microbial composition of human milk by maternal weight status, defined broadly as BMI (prepregnancy and postpartum) and gestational weight gain (GWG). This study followed the a priori protocol published in Prospero (registration #: CRD42020165633). We searched the following databases for studies reporting maternal weight status and a characterization of milk microbiota through culture-dependent and culture-independent methods: MEDLINE, Embase, Web of Science, CINAHL, and Scopus. After screening 6,365 studies, we found 20 longitudinal and cross-sectional studies investigating associations between maternal weight status and the composition of the milk microbiome. While some studies reported no associations, many others reported that women with a pre-pregnancy or postpartum BMI characterized as overweight or obese, or with excessive GWG, had higher abundances of the genus Staphylococcus, lower Bifidobacterium abundance, and lower alpha diversity (within-sample diversity). This review suggests that maternal weight status is minorly associated with the composition of the milk microbiome in various ways. We offer potential explanations for these findings, as well as suggestions for future research.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274950)
@@ -41,7 +42,7 @@ The human milk microbiome is thought to partly contribute to the assembly of the
 ---
 
 ## Functional changes in the oral microbiome after use of fluoride and arginine containing dentifrices: a metagenomic and metatranscriptomic study.
- 01.10.2022, _M Carda-Diéguez, R Moazzez, A Mira_
+ 05.10.2022, _M Carda-Diéguez, R Moazzez, A Mira_
 
 
 _Adult, Ammonia, Arginine, Bacteria, Cariostatic Agents, Dental Caries, Dental Plaque, Dentifrices, Double-Blind Method, Fluorides, Humans, Metagenome, Microbiota, Periodontitis, Phosphates, Tooth Remineralization, Toothpastes_
@@ -72,9 +73,10 @@ The emergence of a novel coronavirus, COVID-19, in December 2019 led to a global
 ---
 
 ## Population structure discovery in meta-analyzed microbial communities and inflammatory bowel disease using MMUPHin.
- 03.10.2022, _S Ma, D Shungin, H Mallick, M Schirmer, LH Nguyen, R Kolde, E Franzosa, H Vlamakis, R Xavier, C Huttenhower_
+ 05.10.2022, _S Ma, D Shungin, H Mallick, M Schirmer, LH Nguyen, R Kolde, E Franzosa, H Vlamakis, R Xavier, C Huttenhower_
 
 
+_Dysbiosis, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Microbiota_
 Microbiome studies of inflammatory bowel diseases (IBD) have achieved a scale for meta-analysis of dysbioses among populations. To enable microbial community meta-analyses generally, we develop MMUPHin for normalization, statistical meta-analysis, and population structure discovery using microbial taxonomic and functional profiles. Applying it to ten IBD cohorts, we identify consistent associations, including novel taxa such as Acinetobacter and Turicibacter, and additional exposure and interaction effects. A single gradient of dysbiosis severity is favored over discrete types to summarize IBD microbiome population structure. These results provide a benchmark for characterization of IBD and a framework for meta-analysis of any microbial communities.
 
 [Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02753-4)
@@ -97,9 +99,10 @@ How intestinal microbes regulate metabolic syndrome is incompletely understood. 
 ---
 
 ## Rural environment reduces allergic inflammation by modulating the gut microbiota.
- 04.10.2022, _Z Yang, Z Chen, X Lin, S Yao, M Xian, X Ning, W Fu, M Jiang, N Li, X Xiao, M Feng, Z Lian, W Yang, X Ren, Z Zheng, J Zhao, N Wei, W Lu, M Roponen, B Schaub, GWK Wong, Z Su, C Wang, J Li_
+ 05.10.2022, _Z Yang, Z Chen, X Lin, S Yao, M Xian, X Ning, W Fu, M Jiang, N Li, X Xiao, M Feng, Z Lian, W Yang, X Ren, Z Zheng, J Zhao, N Wei, W Lu, M Roponen, B Schaub, GWK Wong, Z Su, C Wang, J Li_
 
 
+_Animals, Bacteria, Dust, Endotoxins, Gastrointestinal Microbiome, Hypersensitivity, Immunoglobulin E, Inflammation, Mice, Ovalbumin_
 Rural environments and microbiota are linked to a reduction in the prevalence of allergies. However, the mechanism underlying the reduced allergies modulated by rural residency is unclear. Here, we assessed gut bacterial composition and metagenomics in urban and rural children in the EuroPrevall-INCO cohort. Airborne dusts, including mattress and rural henhouse dusts, were profiled for bacterial and fungal composition by amplicon sequencing. Mice were repeatedly exposed to intranasal dust extracts and evaluated for their effects on ovalbumin (OVA)-induced allergic airway inflammation, and gut microbiota restoration was validated by fecal microbiota transplant (FMT) from dust-exposed donor mice. We found that rural children had fewer allergies and unique gut microbiota with fewer Bacteroides and more Prevotella. Indoor dusts in rural environments harbored higher endotoxin level and diversity of bacteria and fungi, whereas indoor urban dusts were enriched with Aspergillus and contained elevated pathogenic bacteria. Intranasal administration of rural dusts before OVA sensitization reduced respiratory eosinophils and blood IgE level in mice and also led to a recovery of gut bacterial diversity and Ruminiclostridium in the mouse model. FMT restored the protective effect by reducing OVA-induced lung eosinophils in recipient mice. Together, these results support a cause-effect relationship between exposure to dust microbiota and allergy susceptibility in children and mice. Specifically, rural environmental exposure modulated the gut microbiota, which was essential in reducing allergy in children from Southern China. Our findings support the notion that the modulation of gut microbiota by exposure to rural indoor dust may improve allergy prevention.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2125733)
@@ -109,9 +112,10 @@ Rural environments and microbiota are linked to a reduction in the prevalence of
 ---
 
 ## Six types of tea extracts attenuated high-fat diet-induced metabolic syndrome via modulating gut microbiota in rats.
- 04.10.2022, _F Zhou, MZ Zhu, JY Tang, J Ou-Yang, BH Shang, CW Liu, J Wang, Q Liu, JA Huang, ZH Liu_
+ 05.10.2022, _F Zhou, MZ Zhu, JY Tang, J Ou-Yang, BH Shang, CW Liu, J Wang, Q Liu, JA Huang, ZH Liu_
 
 
+_Animals, Diet, High-Fat, Gastrointestinal Microbiome, Metabolic Syndrome, Plant Extracts, Rats, Tea_
 An important puzzle for tea consumers is which type of tea is effective in treating metabolic syndrome (MS). In this study, the effects of six types of tea extracts (TEs) on high-fat diet (HFD)-induced MS, as well as chemical components of six TEs, were investigated and compared. Each TE consisted of representative tea originated from different places in China to avoid one-sidedness of sampling. All six TEs were found to attenuate MS and ameliorate intestinal barrier function in HFD-fed rats. Further, white tea performed better in body weight control, while dark tea had more advantages in protecting intestinal barrier. Moreover, all six TEs alleviated the gut microbiota dysbiosis, which was manifested by decreased Firmicutes/Bacteroidetes ratio and enriched beneficial bacteria, such as Akkermansia, Bacteroides, and Bifidobacterium. Together, all six TEs attenuate HFD-induced MS although their efficiency varies, and this therapeutic effect is related to the modulation of gut microbiota.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996922008468)
@@ -133,7 +137,7 @@ Malnutrition can influence maternal physiology and programme offspring developme
 ---
 
 ## A global phylogenomic and metabolic reconstruction of the large intestine bacterial community of domesticated cattle.
- 30.09.2022, _S Teseo, S Otani, C Brinch, S Leroy, P Ruiz, M Desvaux, E Forano, FM Aarestrup, P Sapountzis_
+ 05.10.2022, _S Teseo, S Otani, C Brinch, S Leroy, P Ruiz, M Desvaux, E Forano, FM Aarestrup, P Sapountzis_
 
 
 _Amino Acids, Animals, Bacteria, Carbohydrates, Cattle, Intestine, Large, Mammals, Metagenomics, Phylogeny_
@@ -187,40 +191,21 @@ In tandem with the fast expansion of the pet-economy industry, the present agein
 
 ---
 
-## Marine DNA methylation patterns are associated with microbial community composition and inform virus-host dynamics.
- 30.09.2022, _HJ Seong, S Roux, CY Hwang, WJ Sul_
-
-
-_Bacteriophages, DNA, DNA Methylation, Metagenome, Metagenomics, Methyltransferases, Microbiota_
-DNA methylation in prokaryotes is involved in many different cellular processes including cell cycle regulation and defense against viruses. To date, most prokaryotic methylation systems have been studied in culturable microorganisms, resulting in a limited understanding of DNA methylation from a microbial ecology perspective. Here, we analyze the distribution patterns of several microbial epigenetics marks in the ocean microbiome through genome-centric metagenomics across all domains of life.
+## Marine DNA methylation patterns are associated with microbial community composition and inform virus-host dynamics
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01340-w)
 
-10.1186/s40168-022-01340-w
-
 ---
 
-## Untangling microbial diversity and assembly patterns in rare earth element mine drainage in South China.
- 03.10.2022, _Z Chen, YH Fei, WS Liu, K Ding, J Lu, X Cai, T Cui, YT Tang, S Wang, Y Chao, R Qiu_
-
-
-Ion-adsorption rare earth element (REE) deposits are the main reservoirs of REEs worldwide, and are widely exploited in South China. Microbial diversity is essential for maintaining the performance and function of mining ecosystems. Investigating the ecological patterns underlying the REE mine microbiome is essential to understand ecosystem responses to environmental changes and to improve the bioremediation of mining areas. We applied 16S rRNA and ITS gene sequence analyses to investigate the composition characteristics of prokaryotic (bacteria, archaea) and fungal communities in a river impacted by REE acid mine drainage (REE-AMD). The river formed a unique micro-ecosystem, including the main prokaryotic taxa of Proteobacteria, Acidobacteria, Crenarchaeota, and Euryarchaeota, as well as the main fungal taxa of Ascomycota, Basidiomycota, and Chytridiomycota. Analysis of microbial diversity showed that, unlike prokaryotic communities that responded drastically to pollution disturbances, fungal communities were less affected by REE-AMD, but fluctuated significantly in different seasons. Ecological network analysis revealed that fungal communities have lower connectivity and centrality, and higher modularity than prokaryotic networks, indicating that fungal communities have more stable network structures. The introduction of REE-AMD mainly reduced the complexity of the community network and the number of keystone species, while the proportion of negative prokaryotic-fungal associations in the network increased. Ecological process analysis revealed that, compared to the importance of environmental selection for prokaryotes, stochastic processes might have contributed primarily to fungal communities in REE mining areas. These findings confirm that the different assembly mechanisms of prokaryotic and fungal communities are key to the differences in their responses to environmental perturbations. The findings also provide the first insights into microbiota assembly patterns in REE-AMD and important ecological knowledge for the formation and development of microbial communities in REE mining areas.
+## Untangling microbial diversity and assembly patterns in rare earth element mine drainage in South China
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422011174)
 
-10.1016/j.watres.2022.119172
-
 ---
 
-## Benchmarking Community-Wide Estimates of Growth Potential from Metagenomes Using Codon Usage Statistics.
- 03.10.2022, _JL Weissman, M Peras, TP Barnum, JA Fuhrman_
-
-
-Trait inference from mixed-species assemblages is a central problem in microbial ecology. Frequently, sequencing information from an environment is available, but phenotypic measurements from individual community members are not. With the increasing availability of molecular data for microbial communities, bioinformatic approaches that map metagenome to (meta)phenotype are needed. Recently, we developed a tool, gRodon, that enables the prediction of the maximum growth rate of an organism from genomic data on the basis of codon usage patterns. Our work and that of other groups suggest that such predictors can be applied to mixed-species communities in order to derive estimates of the average community-wide maximum growth rate. Here, we present an improved maximum growth rate predictor designed for metagenomes that corrects a persistent GC bias in the original gRodon model for metagenomic prediction. We benchmark this predictor with simulated metagenomic data sets to show that it has superior performance on mixed-species communities relative to earlier models. We go on to provide guidance on data preprocessing and show that calling genes from assembled contigs rather than directly from reads dramatically improves performance. Finally, we apply our predictor to large-scale metagenomic data sets from marine and human microbiomes to illustrate how community-wide growth prediction can be a powerful approach for hypothesis generation. Altogether, we provide an updated tool with clear guidelines for users about the uses and pitfalls of metagenomic prediction of the average community-wide maximal growth rate. IMPORTANCE Microbes dominate nearly every known habitat, and therefore tools to survey the structure and function of natural microbial communities are much needed. Metagenomics, in which the DNA content of an entire community of organisms is sequenced all at once, allows us to probe the genetic diversity contained in a habitat. Yet, mapping metagenomic information to the actual traits of community members is a difficult and largely unsolved problem. Here, we present and validate a tool that allows users to predict the average maximum growth rate of a microbial community directly from metagenomic data. Maximum growth rate is a fundamental characteristic of microbial species that can give us a great deal of insight into their ecological role, and by applying our community-level predictor to large-scale metagenomic data sets from marine and human-associated microbiomes, we show how community-wide growth prediction can be a powerful approach for hypothesis generation.
+## Benchmarking Community-Wide Estimates of Growth Potential from Metagenomes Using Codon Usage Statistics
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00745-22)
-
-10.1128/msystems.00745-22
 
 ---
 
