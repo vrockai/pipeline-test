@@ -23,9 +23,10 @@ _Ethnicity, Humans, Microbiota, Neoplasms, Racial Groups_
 ---
 
 ## Alterations in the respiratory tract microbiome in COVID-19: current observations and potential significance.
- 04.10.2022, _C Merenstein, FD Bushman, RG Collman_
+ 06.10.2022, _C Merenstein, FD Bushman, RG Collman_
 
 
+_COVID-19, Humans, Influenza, Human, Microbiota, Respiratory System, SARS-CoV-2_
 SARS-CoV-2 infection causes COVID-19 disease, which can result in consequences ranging from undetectable to fatal, focusing attention on the modulators of outcomes. The respiratory tract microbiome is thought to modulate the outcomes of infections such as influenza as well as acute lung injury, raising the question to what degree does the airway microbiome influence COVID-19? Here, we review the results of 56 studies examining COVID-19 and the respiratory tract microbiome, summarize the main generalizations, and point to useful avenues for further research. Although the results vary among studies, a few consistent findings stand out. The diversity of bacterial communities in the oropharynx typically declined with increasing disease severity. The relative abundance of Haemophilus and Neisseria also declined with severity. Multiple microbiome measures tracked with measures of systemic immune responses and COVID outcomes. For many of the conclusions drawn in these studies, the direction of causality is unknown-did an alteration in the microbiome result in increased COVID severity, did COVID severity alter the microbiome, or was some third factor the primary driver, such as medication use. Follow-up mechanistic studies can help answer these questions. Video Abstract.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01342-8)
@@ -192,9 +193,10 @@ In tandem with the fast expansion of the pet-economy industry, the present agein
 ---
 
 ## Novel trends of genome evolution in highly complex tropical sponge microbiomes.
- 04.10.2022, _JB Kelly, DE Carlson, JS Low, RW Thacker_
+ 06.10.2022, _JB Kelly, DE Carlson, JS Low, RW Thacker_
 
 
+_Bacteria, Evolution, Molecular, Lipopolysaccharides, Metagenome, Metagenomics, Microbiota, Phylogeny, Steroids, Sterols_
 Tropical members of the sponge genus Ircinia possess highly complex microbiomes that perform a broad spectrum of chemical processes that influence host fitness. Despite the pervasive role of microbiomes in Ircinia biology, it is still unknown how they remain in stable association across tropical species. To address this question, we performed a comparative analysis of the microbiomes of 11 Ircinia species using whole-metagenomic shotgun sequencing data to investigate three aspects of bacterial symbiont genomes-the redundancy in metabolic pathways across taxa, the evolution of genes involved in pathogenesis, and the nature of selection acting on genes relevant to secondary metabolism.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01359-z)
