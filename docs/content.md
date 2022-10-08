@@ -36,7 +36,7 @@ SARS-CoV-2 infection causes COVID-19 disease, which can result in consequences r
 ---
 
 ## Maternal weight status and the composition of the human milk microbiome: A scoping review.
- 05.10.2022, _K Daiy, V Harries, K Nyhan, UM Marcinkowska_
+ 07.10.2022, _K Daiy, V Harries, K Nyhan, UM Marcinkowska_
 
 
 _Adult, Body Mass Index, Cross-Sectional Studies, Female, Gastrointestinal Microbiome, Gestational Weight Gain, Humans, Infant, Milk, Human, Obesity, Pregnancy_
@@ -68,7 +68,7 @@ Tooth decay is one of the most prevalent diseases worldwide, and efficient tooth
 ---
 
 ## SARS-CoV-2-associated gut microbiome alteration; A new contributor to colorectal cancer pathogenesis.
- 03.10.2022, _SA Mozaffari, A Salehi, E Mousavi, BA Zaman, AE Nassaj, F Ebrahimzadeh, H Nasiri, Z Valedkarimi, A Adili, G Asemani, M Akbari_
+ 07.10.2022, _SA Mozaffari, A Salehi, E Mousavi, BA Zaman, AE Nassaj, F Ebrahimzadeh, H Nasiri, Z Valedkarimi, A Adili, G Asemani, M Akbari_
 
 
 The emergence of a novel coronavirus, COVID-19, in December 2019 led to a global pandemic with more than 170 million confirmed infections and more than 6 million deaths (by July 2022). Studies have shown that infection with SARS-CoV-2 in cancer patients has a higher mortality rate than in people without cancer. Here, we have reviewed the evidence showing that gut microbiota plays an important role in health and is linked to colorectal cancer development. Studies have shown that SARS-CoV-2 infection leads to a change in gut microbiota, which modify intestinal inflammation and barrier permeability and affects tumor-suppressor or oncogene genes, proposing SARS-CoV-2 as a potential contributor to CRC pathogenesis.
@@ -80,7 +80,7 @@ The emergence of a novel coronavirus, COVID-19, in December 2019 led to a global
 ---
 
 ## Population structure discovery in meta-analyzed microbial communities and inflammatory bowel disease using MMUPHin.
- 05.10.2022, _S Ma, D Shungin, H Mallick, M Schirmer, LH Nguyen, R Kolde, E Franzosa, H Vlamakis, R Xavier, C Huttenhower_
+ 07.10.2022, _S Ma, D Shungin, H Mallick, M Schirmer, LH Nguyen, R Kolde, E Franzosa, H Vlamakis, R Xavier, C Huttenhower_
 
 
 _Dysbiosis, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Microbiota_
