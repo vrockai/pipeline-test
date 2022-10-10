@@ -116,15 +116,27 @@ Globally, most gut microbiota-related studies have focused on broilers due to th
 
 ---
 
-## Size-fractionated microbiome observed during an eight-month long sampling in Jiaozhou Bay and the Yellow Sea
+## Size-fractionated microbiome observed during an eight-month long sampling in Jiaozhou Bay and the Yellow Sea.
+ 07.10.2022, _J Tao, W Wang, JL Weissman, Y Zhang, S Chen, Y Zhu, C Zhang, S Hou_
+
+
+Jiaozhou Bay is a typical semi-enclosed bay with a temperate climate imposed by strong anthropogenic influence. To investigate microbial biodiversity and ecosystem services in this highly dynamic coastal environment, we conducted a monthly microbial survey spanning eight months at two stations in the bay and the open Yellow Sea starting in April 2015. This report provides a comprehensive inventory of amplicon sequences and environmental microbial genomes from this survey. In total, 2,543 amplicon sequence variants were obtained with monthly relative abundance profiles in three size fractions (&gt;2.7 μm, 2.7-0.7 μm, and 0.7-0.22 μm). Shotgun metagenomes yielded 915 high-quality metagenome-assembled genomes with ≥50% completeness and ≤5% contamination. These environmental genomes comprise 27 bacterial and 5 archaeal phyla. We expect this comprehensive dataset will facilitate a better understanding of coastal microbial ecology.
 
 [Source](https://doi.org/10.1038/s41597-022-01734-3)
 
+10.1038/s41597-022-01734-3
+
 ---
 
-## Microbiome of rehydrated corn and sorghum grain silages treated with microbial inoculants in different fermentation periods
+## Microbiome of rehydrated corn and sorghum grain silages treated with microbial inoculants in different fermentation periods.
+ 07.10.2022, _MCN Agarussi, OG Pereira, FE Pimentel, CF Azevedo, VP da Silva, FF E Silva_
+
+
+Due to the co-evolved intricate relationships and mutual influence between changes in the microbiome and silage fermentation quality, we explored the effects of Lactobacillus plantarum and Propionibacterium acidipropionici (Inoc1) or Lactobacillus buchneri (Inoc2) inoculants on the diversity and bacterial and fungal community succession of rehydrated corn (CG) and sorghum (SG) grains and their silages using Illumina Miseq sequencing after 0, 3, 7, 21, 90, and 360 days of fermentation. The effects of inoculants on bacterial and fungal succession differed among the grains. Lactobacillus and Weissella species were the main bacteria involved in the fermentation of rehydrated corn and sorghum grain silage. Aspergillus spp. mold was predominant in rehydrated CG fermentation, while the yeast Wickerhamomyces anomalus was the major fungus in rehydrated SG silages. The Inoc1 was more efficient than CTRL and Inoc2 in promoting the sharp growth of Lactobacillus spp. and maintaining the stability of the bacterial community during long periods of storage in both grain silages. However, the bacterial and fungal communities of rehydrated corn and sorghum grain silages did not remain stable after 360 days of storage.
 
 [Source](https://doi.org/10.1038/s41598-022-21461-4)
+
+10.1038/s41598-022-21461-4
 
 ---
 
