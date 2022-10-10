@@ -23,7 +23,7 @@ _Ethnicity, Humans, Microbiota, Neoplasms, Racial Groups_
 ---
 
 ## Alterations in the respiratory tract microbiome in COVID-19: current observations and potential significance.
- 06.10.2022, _C Merenstein, FD Bushman, RG Collman_
+ 09.10.2022, _C Merenstein, FD Bushman, RG Collman_
 
 
 _COVID-19, Humans, Influenza, Human, Microbiota, Respiratory System, SARS-CoV-2_
@@ -106,7 +106,7 @@ How intestinal microbes regulate metabolic syndrome is incompletely understood. 
 ---
 
 ## Rural environment reduces allergic inflammation by modulating the gut microbiota.
- 05.10.2022, _Z Yang, Z Chen, X Lin, S Yao, M Xian, X Ning, W Fu, M Jiang, N Li, X Xiao, M Feng, Z Lian, W Yang, X Ren, Z Zheng, J Zhao, N Wei, W Lu, M Roponen, B Schaub, GWK Wong, Z Su, C Wang, J Li_
+ 09.10.2022, _Z Yang, Z Chen, X Lin, S Yao, M Xian, X Ning, W Fu, M Jiang, N Li, X Xiao, M Feng, Z Lian, W Yang, X Ren, Z Zheng, J Zhao, N Wei, W Lu, M Roponen, B Schaub, GWK Wong, Z Su, C Wang, J Li_
 
 
 _Animals, Bacteria, Dust, Endotoxins, Gastrointestinal Microbiome, Hypersensitivity, Immunoglobulin E, Inflammation, Mice, Ovalbumin_
@@ -193,7 +193,7 @@ In tandem with the fast expansion of the pet-economy industry, the present agein
 ---
 
 ## Novel trends of genome evolution in highly complex tropical sponge microbiomes.
- 06.10.2022, _JB Kelly, DE Carlson, JS Low, RW Thacker_
+ 09.10.2022, _JB Kelly, DE Carlson, JS Low, RW Thacker_
 
 
 _Bacteria, Evolution, Molecular, Lipopolysaccharides, Metagenome, Metagenomics, Microbiota, Phylogeny, Steroids, Sterols_
