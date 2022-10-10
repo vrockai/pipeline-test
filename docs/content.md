@@ -1,250 +1,136 @@
-## Multi-omic factors associated with future wheezing in infants.
- 27.09.2022, _R Beheshti, ES Halstead, D McKeone, SD Hicks_
+## The hallmarks of dietary intervention-resilient gut microbiome.
+ 08.10.2022, _NS Klimenko, VE Odintsova, A Revel-Muroz, AV Tyakht_
 
 
-The pathophysiology of wheezing is multifactorial, impacted by medical, demographic, environmental, and immunologic factors. We hypothesized that multi-omic analyses of host and microbial factors in saliva would enhance the ability to identify infants at risk for wheezing.
+Maintaining equilibrium of the gut microbiome is crucial for human health. Diet represents an important and generally accessible natural channel of controlling the nutrients supply to the intestinal microorganisms. Although many studies showed that dietary interventions can specifically modulate gut microbiome composition, further progress of the approach is complicated by interindividual variability of the microbial community response. The reported causes of this variability include the baseline microbiome composition features, but it is unclear whether any of them are intervention-specific. Here, we applied a unified computational framework to investigate the variability of microbiome response measured as beta diversity in eight various dietary interventions using previously published 16S rRNA sequencing datasets. We revealed a number of baseline microbiome features which determine the microbiome response in an intervention-independent manner. One of the most stable associations, reproducible for different interventions and enterotypes, was a negative dependence of the response on the average number of genes per microorganism in the community-an indicator of the community functional redundancy. Meanwhile, many revealed microbiome response determinants were enterotype-specific. In Bact1 and Rum enterotypes, the response was negatively correlated with the baseline abundance of their main drivers. Additionally, we proposed a method for preliminary assessment of the microbiome response. Our study delineats the universal features determining microbiome response to diverse interventions. The proposed approach is promising for understanding the mechanisms of gut microbiome stability and improving the efficacy of personalised microbiome-tailored interventions.
 
-[Source](https://www.nature.com/articles/s41390-022-02318-y)
+[Source](https://doi.org/10.1038/s41522-022-00342-8)
 
-10.1038/s41390-022-02318-y
-
----
-
-## Race is a key determinant of the human intratumor microbiome.
- 03.10.2022, _M Luo, Y Liu, LC Hermida, EM Gertz, Z Zhang, Q Li, L Diao, E Ruppin, L Han_
-
-
-_Ethnicity, Humans, Microbiota, Neoplasms, Racial Groups_
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1535610822003713)
-
-10.1016/j.ccell.2022.08.007
+10.1038/s41522-022-00342-8
 
 ---
 
-## Alterations in the respiratory tract microbiome in COVID-19: current observations and potential significance.
- 09.10.2022, _C Merenstein, FD Bushman, RG Collman_
+## Nutrition and Microbiome Interactions in Human Cancer.
+ 08.10.2022, _PJ Daschner, S Ross, H Seifried, A Kumar, R Flores_
 
 
-_COVID-19, Humans, Influenza, Human, Microbiota, Respiratory System, SARS-CoV-2_
-SARS-CoV-2 infection causes COVID-19 disease, which can result in consequences ranging from undetectable to fatal, focusing attention on the modulators of outcomes. The respiratory tract microbiome is thought to modulate the outcomes of infections such as influenza as well as acute lung injury, raising the question to what degree does the airway microbiome influence COVID-19? Here, we review the results of 56 studies examining COVID-19 and the respiratory tract microbiome, summarize the main generalizations, and point to useful avenues for further research. Although the results vary among studies, a few consistent findings stand out. The diversity of bacterial communities in the oropharynx typically declined with increasing disease severity. The relative abundance of Haemophilus and Neisseria also declined with severity. Multiple microbiome measures tracked with measures of systemic immune responses and COVID outcomes. For many of the conclusions drawn in these studies, the direction of causality is unknown-did an alteration in the microbiome result in increased COVID severity, did COVID severity alter the microbiome, or was some third factor the primary driver, such as medication use. Follow-up mechanistic studies can help answer these questions. Video Abstract.
+Individual physiologic responses and cancer risk can vary widely to changes in dietary patterns and are driven by multiple host-specific factors (e.g., genetics, epigenetics, inflammatory and metabolic states, and the colonizing microbiome). Emerging evidence indicates that diet-induced microbiota alterations are key modulators of several host functions important to tumor etiology, progression, and response to cancer therapy. Thus, diet may potentially be used to target alterations of the microbiota as an effective means to improve outcomes across the cancer continuum (from cancer prevention to tumor development and progression, to effects on treatment and survivorship). This review will focus on recent examples of functional interactions between dietary components (nutrients and non-nutrients) and the gastrointestinal (GI) microbiome, which are two critical and malleable environmental variables in cancer risk that affect host immune, metabolic, and cell signaling functions and which may provide insights for novel cancer therapeutic and preventive strategies.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01342-8)
+[Source](https://doi.org/10.1016/j.jand.2022.10.004)
 
-10.1186/s40168-022-01342-8
-
----
-
-## Maternal weight status and the composition of the human milk microbiome: A scoping review.
- 07.10.2022, _K Daiy, V Harries, K Nyhan, UM Marcinkowska_
-
-
-_Adult, Body Mass Index, Cross-Sectional Studies, Female, Gastrointestinal Microbiome, Gestational Weight Gain, Humans, Infant, Milk, Human, Obesity, Pregnancy_
-The human milk microbiome is thought to partly contribute to the assembly of the infant gut microbiome, a microbial community with important implications for infant health and development. While obesity has well-established links with the adult gut microbiome, less is known about how it affects the human milk microbiome. In this scoping review, we synthesize the current literature on the microbial composition of human milk by maternal weight status, defined broadly as BMI (prepregnancy and postpartum) and gestational weight gain (GWG). This study followed the a priori protocol published in Prospero (registration #: CRD42020165633). We searched the following databases for studies reporting maternal weight status and a characterization of milk microbiota through culture-dependent and culture-independent methods: MEDLINE, Embase, Web of Science, CINAHL, and Scopus. After screening 6,365 studies, we found 20 longitudinal and cross-sectional studies investigating associations between maternal weight status and the composition of the milk microbiome. While some studies reported no associations, many others reported that women with a pre-pregnancy or postpartum BMI characterized as overweight or obese, or with excessive GWG, had higher abundances of the genus Staphylococcus, lower Bifidobacterium abundance, and lower alpha diversity (within-sample diversity). This review suggests that maternal weight status is minorly associated with the composition of the milk microbiome in various ways. We offer potential explanations for these findings, as well as suggestions for future research.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274950)
-
-10.1371/journal.pone.0274950
+10.1016/j.jand.2022.10.004
 
 ---
 
-## Functional changes in the oral microbiome after use of fluoride and arginine containing dentifrices: a metagenomic and metatranscriptomic study.
- 05.10.2022, _M Carda-Diéguez, R Moazzez, A Mira_
+## Differences in the microbiota of oral rinse, lesion, and normal site samples from patients with mucosal abnormalities on the tongue.
+ 07.10.2022, _Y Shitozawa, K Haro, M Ogawa, A Miyawaki, M Saito, K Fukuda_
 
 
-_Adult, Ammonia, Arginine, Bacteria, Cariostatic Agents, Dental Caries, Dental Plaque, Dentifrices, Double-Blind Method, Fluorides, Humans, Metagenome, Microbiota, Periodontitis, Phosphates, Tooth Remineralization, Toothpastes_
-Tooth decay is one of the most prevalent diseases worldwide, and efficient tooth brushing with a fluoride-containing dentifrice is considered fundamental to caries prevention. Fluoride-containing dentifrices have been extensively studied in relation to enamel resistance to demineralization. Arginine (Arg) has also been proposed as a promising prebiotic to promote pH buffering through ammonia production. Here, we present the first metagenomic (DNA sequencing of the whole microbial community) and metatranscriptomic (RNAseq of the same community) analyses of human dental plaque to evaluate the effect of brushing with fluoride (Fl) and a Fl+Arg containing dentifrices on oral microbial composition and activity. Fifty-three patients were enrolled in a longitudinal clinical intervention study with two arms, including 26 caries-active and 27 caries-free adults. After a minimum 1-week washout period, dental plaque samples were collected at this post-washout baseline, 3 months after the use of a 1450-ppm fluoride dentifrice, and after 6 months of using a 1450-ppm fluoride with 1.5% arginine dentifrice.
+The oral microbiota associated with mucosal diseases, including oral squamous cell carcinoma and oral potentially malignant disorders, have been extensively analyzed at the phylum and genus levels. However, the details of the oral microbiota remain unclear at the species and operational taxonomic unit (OTU) levels. We aimed to determine differences in the microbiota of oral rinse, lesion and normal site swab samples of patients with mucosal abnormalities on the tongues. Oral samples were obtained from 10 patients with oral mucosal abnormalities. Alpha and beta diversity at the OTU and genus levels of the microbiota samples were analyzed using OTUs clustered with 99.6% similarity based on 16S rRNA gene sequences obtained using the Sanger method. At the OTU level, the microbiota of the lesions were the least diverse but were different from those of the normal site and oral rinse samples. The OTUs corresponding to Streptococcus infantis and Haemophilus parainfluenzae were suggested to contribute to the differences between the microbiota of the lesions and normal sites. At the genus level, no significant differences between these microbiota were observed. In conclusion, strict OTU-level microbiota analysis might be able to discriminate lesions from normal sites of patients with mucosal abnormalities.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01338-4)
+[Source](https://doi.org/10.1038/s41598-022-21031-8)
 
-10.1186/s40168-022-01338-4
-
----
-
-## Remembering St. Louis individual—structural violence and acute bacterial infections in a historical anatomical collection
-
-[Source](https://www.nature.com/articles/s42003-022-03890-z)
+10.1038/s41598-022-21031-8
 
 ---
 
-## SARS-CoV-2-associated gut microbiome alteration; A new contributor to colorectal cancer pathogenesis.
- 07.10.2022, _SA Mozaffari, A Salehi, E Mousavi, BA Zaman, AE Nassaj, F Ebrahimzadeh, H Nasiri, Z Valedkarimi, A Adili, G Asemani, M Akbari_
+## Dynamic changes in host immune system and gut microbiota are associated with the production of SARS-CoV-2 antibodies.
+ 07.10.2022, _M Han, Y Huang, H Gui, Y Xiao, M He, J Liu, X Cao, M Zheng, M Lu, W Jia, H Li, X Wang, N Zhang, SA Kong, X Liu, Y Wu, F Wu, S Huang_
 
 
-The emergence of a novel coronavirus, COVID-19, in December 2019 led to a global pandemic with more than 170 million confirmed infections and more than 6 million deaths (by July 2022). Studies have shown that infection with SARS-CoV-2 in cancer patients has a higher mortality rate than in people without cancer. Here, we have reviewed the evidence showing that gut microbiota plays an important role in health and is linked to colorectal cancer development. Studies have shown that SARS-CoV-2 infection leads to a change in gut microbiota, which modify intestinal inflammation and barrier permeability and affects tumor-suppressor or oncogene genes, proposing SARS-CoV-2 as a potential contributor to CRC pathogenesis.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0344033822003752)
+[Source](https://doi.org/10.1136/gutjnl-2022-327561)
 
-10.1016/j.prp.2022.154131
-
----
-
-## Population structure discovery in meta-analyzed microbial communities and inflammatory bowel disease using MMUPHin.
- 07.10.2022, _S Ma, D Shungin, H Mallick, M Schirmer, LH Nguyen, R Kolde, E Franzosa, H Vlamakis, R Xavier, C Huttenhower_
-
-
-_Dysbiosis, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Microbiota_
-Microbiome studies of inflammatory bowel diseases (IBD) have achieved a scale for meta-analysis of dysbioses among populations. To enable microbial community meta-analyses generally, we develop MMUPHin for normalization, statistical meta-analysis, and population structure discovery using microbial taxonomic and functional profiles. Applying it to ten IBD cohorts, we identify consistent associations, including novel taxa such as Acinetobacter and Turicibacter, and additional exposure and interaction effects. A single gradient of dysbiosis severity is favored over discrete types to summarize IBD microbiome population structure. These results provide a benchmark for characterization of IBD and a framework for meta-analysis of any microbial communities.
-
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02753-4)
-
-10.1186/s13059-022-02753-4
+10.1136/gutjnl-2022-327561
 
 ---
 
-## Microbiota imbalance induced by dietary sugar disrupts immune-mediated protection from metabolic syndrome.
- 01.10.2022, _Y Kawano, M Edwards, Y Huang, AM Bilate, LP Araujo, T Tanoue, K Atarashi, MS Ladinsky, SL Reiner, HH Wang, D Mucida, K Honda, II Ivanov_
+## Antibiotics and probiotics impact gut antimicrobial resistance gene reservoir in COVID-19 patients.
+ 09.10.2022, _Q Su, Q Liu, L Zhang, Z Xu, C Liu, W Lu, JY Ching, A Li, JWY Mak, GCY Lui, SSS Ng, KM Chow, DS Hui, PK Chan, FKL Chan, SC Ng_
 
 
-_Animals, Diet, High-Fat, Dietary Sugars, Interleukin-17, Intestinal Mucosa, Lipids, Metabolic Syndrome, Mice, Mice, Inbred C57BL, Microbiota, Obesity, Th17 Cells_
-How intestinal microbes regulate metabolic syndrome is incompletely understood. We show that intestinal microbiota protects against development of obesity, metabolic syndrome, and pre-diabetic phenotypes by inducing commensal-specific Th17 cells. High-fat, high-sugar diet promoted metabolic disease by depleting Th17-inducing microbes, and recovery of commensal Th17 cells restored protection. Microbiota-induced Th17 cells afforded protection by regulating lipid absorption across intestinal epithelium in an IL-17-dependent manner. Diet-induced loss of protective Th17 cells was mediated by the presence of sugar. Eliminating sugar from high-fat diets protected mice from obesity and metabolic syndrome in a manner dependent on commensal-specific Th17 cells. Sugar and ILC3 promoted outgrowth of Faecalibaculum rodentium that displaced Th17-inducing microbiota. These results define dietary and microbiota factors posing risk for metabolic syndrome. They also define a microbiota-dependent mechanism for immuno-pathogenicity of dietary sugar and highlight an elaborate interaction between diet, microbiota, and intestinal immunity in regulation of metabolic disorders.
+Dysbiosis of gut microbiota is well-described in patients with coronavirus 2019 (COVID-19), but the dynamics of antimicrobial resistance genes (ARGs) reservoir, known as resistome, is less known. Here, we performed longitudinal fecal metagenomic profiling of 142 patients with COVID-19, characterized the dynamics of resistome from diagnosis to 6 months after viral clearance, and reported the impact of antibiotics or probiotics on the ARGs reservoir. Antibiotic-naive patients with COVID-19 showed increased abundance and types, and higher prevalence of ARGs compared with non-COVID-19 controls at baseline. Expansion in resistome was mainly driven by tetracycline, vancomycin, and multidrug-resistant genes and persisted for at least 6 months after clearance of SARS-CoV-2. Patients with expanded resistome exhibited increased prevalence of Klebsiella sp. and post-acute COVID-19 syndrome. Antibiotic treatment resulted in further increased abundance of ARGs whilst oral probiotics (synbiotic formula, SIM01) significantly reduced the ARGs reservoir in the gut microbiota of COVID-19 patients during the acute infection and recovery phase. Collectively, these findings shed new insights on the dynamic of ARGs reservoir in COVID-19 patients and the potential role of microbiota-directed therapies in reducing the burden of accumulated ARGs.
 
-[Source](https://www.cell.com/cell/fulltext/S0092-8674(22)00992-8)
+[Source](https://doi.org/10.1080/19490976.2022.2128603)
 
-10.1016/j.cell.2022.08.005
-
----
-
-## Rural environment reduces allergic inflammation by modulating the gut microbiota.
- 09.10.2022, _Z Yang, Z Chen, X Lin, S Yao, M Xian, X Ning, W Fu, M Jiang, N Li, X Xiao, M Feng, Z Lian, W Yang, X Ren, Z Zheng, J Zhao, N Wei, W Lu, M Roponen, B Schaub, GWK Wong, Z Su, C Wang, J Li_
-
-
-_Animals, Bacteria, Dust, Endotoxins, Gastrointestinal Microbiome, Hypersensitivity, Immunoglobulin E, Inflammation, Mice, Ovalbumin_
-Rural environments and microbiota are linked to a reduction in the prevalence of allergies. However, the mechanism underlying the reduced allergies modulated by rural residency is unclear. Here, we assessed gut bacterial composition and metagenomics in urban and rural children in the EuroPrevall-INCO cohort. Airborne dusts, including mattress and rural henhouse dusts, were profiled for bacterial and fungal composition by amplicon sequencing. Mice were repeatedly exposed to intranasal dust extracts and evaluated for their effects on ovalbumin (OVA)-induced allergic airway inflammation, and gut microbiota restoration was validated by fecal microbiota transplant (FMT) from dust-exposed donor mice. We found that rural children had fewer allergies and unique gut microbiota with fewer Bacteroides and more Prevotella. Indoor dusts in rural environments harbored higher endotoxin level and diversity of bacteria and fungi, whereas indoor urban dusts were enriched with Aspergillus and contained elevated pathogenic bacteria. Intranasal administration of rural dusts before OVA sensitization reduced respiratory eosinophils and blood IgE level in mice and also led to a recovery of gut bacterial diversity and Ruminiclostridium in the mouse model. FMT restored the protective effect by reducing OVA-induced lung eosinophils in recipient mice. Together, these results support a cause-effect relationship between exposure to dust microbiota and allergy susceptibility in children and mice. Specifically, rural environmental exposure modulated the gut microbiota, which was essential in reducing allergy in children from Southern China. Our findings support the notion that the modulation of gut microbiota by exposure to rural indoor dust may improve allergy prevention.
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2125733)
-
-10.1080/19490976.2022.2125733
+10.1080/19490976.2022.2128603
 
 ---
 
-## Six types of tea extracts attenuated high-fat diet-induced metabolic syndrome via modulating gut microbiota in rats.
- 05.10.2022, _F Zhou, MZ Zhu, JY Tang, J Ou-Yang, BH Shang, CW Liu, J Wang, Q Liu, JA Huang, ZH Liu_
+## Fibre is good for the microbiome: but what is the evidence?
+ 08.10.2022, _K Whelan, HM Staudacher_
 
 
-_Animals, Diet, High-Fat, Gastrointestinal Microbiome, Metabolic Syndrome, Plant Extracts, Rats, Tea_
-An important puzzle for tea consumers is which type of tea is effective in treating metabolic syndrome (MS). In this study, the effects of six types of tea extracts (TEs) on high-fat diet (HFD)-induced MS, as well as chemical components of six TEs, were investigated and compared. Each TE consisted of representative tea originated from different places in China to avoid one-sidedness of sampling. All six TEs were found to attenuate MS and ameliorate intestinal barrier function in HFD-fed rats. Further, white tea performed better in body weight control, while dark tea had more advantages in protecting intestinal barrier. Moreover, all six TEs alleviated the gut microbiota dysbiosis, which was manifested by decreased Firmicutes/Bacteroidetes ratio and enriched beneficial bacteria, such as Akkermansia, Bacteroides, and Bifidobacterium. Together, all six TEs attenuate HFD-induced MS although their efficiency varies, and this therapeutic effect is related to the modulation of gut microbiota.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996922008468)
+[Source](https://doi.org/10.1016/S2468-1253(22)00310-7)
 
-10.1016/j.foodres.2022.111788
+10.1016/S2468-1253(22)00310-7
 
 ---
 
-## Adaptation of the gut holobiont to malnutrition during mouse pregnancy depends on the type of nutritional adversity.
- 04.10.2022, _KL Connor, E Bloise, TZ DeSantis, SJ Lye_
+## Enhanced cultured diversity of the mouse gut microbiota enables custom-made synthetic communities.
+ 08.10.2022, _A Afrizal, SAV Jennings, TCA Hitch, T Riedel, M Basic, A Panyot, N Treichel, FT Hager, EO Wong, B Wolter, A Viehof, A von Strempel, C Eberl, EM Buhl, B Abt, A Bleich, R Tolba, LM Blank, WW Navarre, F Kiessling, HP Horz, N Torow, V Cerovic, B Stecher, T Strowig, J Overmann, T Clavel_
 
 
-Malnutrition can influence maternal physiology and programme offspring development. Yet, in pregnancy, little is known about how dietary challenges that influence maternal phenotype affect gut structure and function. Emerging evidence suggests that interactions between the environment, multidrug resistance (MDR) transporters and microbes may influence maternal adaptation to pregnancy and regulate fetoplacental development. We hypothesised that the gut holobiont (host and microbes) during pregnancy adapts differently to suboptimal maternal diets, evidenced by changes in the gut microenvironment, morphology, and expression of key protective MDR transporters during pregnancy. Mice were fed a control diet (CON) during pregnancy, or undernourished (UN) by 30% of control intake from gestational day (GD)5.5-18.5, or fed 60% high fat diet (HF) for eight weeks before and during pregnancy. At GD18.5, maternal small intestinal (SI) architecture (H&amp;E), proliferation (Ki67), P-glycoprotein (P-gp - encoded by Abcb1a/b) and breast cancer resistance protein (BCRP/Abcg2) MDR transporter expression and levels of pro-inflammatory biomarkers were assessed. Circulating inflammatory biomarkers and maternal caecal microbiome composition (G3 PhyloChipTM) were measured. MDR transporter expression was also assessed in fetal gut. HF diet increased maternal SI crypt depth and proinflammatory load, and decreased SI expression of Abcb1a mRNA, whilst UN increased SI villi proliferation and Abcb1a, but decreased Abcg2, mRNA expression. There were significant associations between Abcb1a and Abcg2 mRNA levels with relative abundance of specific microbial taxa. Using a systems physiology approach we report that common nutritional adversities provoke adaptations in the pregnancy holobiont in mice, and reveal new mechanisms that could influence reproductive outcomes and fetal development.
+Microbiome research needs comprehensive repositories of cultured bacteria from the intestine of mammalian hosts. We expanded the mouse intestinal bacterial collection (www.dsmz.de/miBC) to 212 strains, all publicly available and taxonomically described. This includes strain-level diversity, small-sized bacteria, and previously undescribed taxa (one family, 10 genera, and 39 species). This collection enabled metagenome-educated prediction of synthetic communities (SYNs) that capture key functional differences between microbiomes, notably identifying communities associated with either resistance or susceptibility to DSS-induced colitis. Additionally, nine species were used to amend the Oligo-Mouse Microbiota (OMM)12 model, yielding the OMM19.1 model. The added strains compensated for phenotype differences between OMM12 and specific pathogen-free mice, including body composition and immune cells in the intestine and associated lymphoid tissues. Ready-to-use OMM stocks are available for future studies. In conclusion, this work improves our knowledge of gut microbiota diversity in mice and enables functional studies via the modular use of isolates.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0955286322002406)
+[Source](https://doi.org/10.1016/j.chom.2022.09.011)
 
-10.1016/j.jnutbio.2022.109172
-
----
-
-## A global phylogenomic and metabolic reconstruction of the large intestine bacterial community of domesticated cattle.
- 05.10.2022, _S Teseo, S Otani, C Brinch, S Leroy, P Ruiz, M Desvaux, E Forano, FM Aarestrup, P Sapountzis_
-
-
-_Amino Acids, Animals, Bacteria, Carbohydrates, Cattle, Intestine, Large, Mammals, Metagenomics, Phylogeny_
-The large intestine is a colonization site of beneficial microbes complementing the nutrition of cattle but also of zoonotic and animal pathogens. Here, we present the first global gene catalog of cattle fecal microbiomes, a proxy of the large intestine microbiomes, from 436 metagenomes from six countries.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01357-1)
-
-10.1186/s40168-022-01357-1
+10.1016/j.chom.2022.09.011
 
 ---
 
-## Comparative multiomics study of the effects of Ellagic acid on the gut environment in young and adult mice
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0963996922008778)
-
----
-
-## Crosstalk between the microbiota and insect postembryonic development.
- 27.09.2022, _M Girard, P Luis, C Valiente Moro, G Minard_
+## Convergent evolution of the gut microbiome in marine carnivores.
+ 09.10.2022, _X Wang, X Wu, Y Shang, X Mei, S Zhou, Q Wei, G Sun, Y Dong, H Zhang_
 
 
-Insect sequential development evolves from a simple molt towards complete metamorphosis. Like any multicellular host, insects interact with a complex microbiota. In this review, factors driving the microbiota dynamics were pointed out along their development. Special focus was put on tissue renewal, shift in insect ecology, and microbial interactions. Conversely, how the microbiota modulates its host development through nutrient acquisition, hormonal control, and cellular or tissue differentiation was exemplified. Such modifications might have long-term carry-over effects on insect physiology. Finally, remarkable microbe-driven control of insect behaviors along their life cycle was highlighted. Increasing knowledge of those interactions might offer new insights on how insects respond to their environment as well as perspectives on pest- or vector-control strategies.
+The gut microbiome can help the host adapt to a variety of environments and is affected by many factors. Marine carnivores have unique habitats in extreme environments. The question of whether marine habitats surpass phylogeny to drive the convergent evolution of the gut microbiome in marine carnivores remains unanswered. In the present study, we compared the gut microbiomes of 16 species from different habitats. Principal component analysis (PCA) and principal coordinate analysis (PCoA) separated three groups according to their gut microbiomes: marine carnivores, terrestrial carnivores, and terrestrial herbivores. The alpha diversity and niche breadth of the gut microbiome of marine carnivores were lower than those of the gut microbiome of terrestrial carnivores and terrestrial herbivores. The gut microbiome of marine carnivores harbored many marine microbiotas, including those belonging to the phyla Planctomycetes, Cyanobacteria, and Proteobacteria, and the genus Peptoclostridium. Collectively, these results revealed that marine habitats drive the convergent evolution of the gut microbiome of marine carnivores. This study provides a new perspective on the adaptive evolution of marine carnivores.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0966842X22002463)
+[Source](https://doi.org/10.1002/ece3.9373)
 
-10.1016/j.tim.2022.08.013
+10.1002/ece3.9373
 
 ---
 
-## Culturomic, metagenomic, and transcriptomic-based characterization of commensal lactic acid bacteria isolated from domestic dogs using Caenorhabditis elegans as a model for aging.
- 04.10.2022, _AN Kang, D Mun, S Ryu, JJ Lee, S Oh, MK Kim, M Song, S Oh, Y Kim_
+## Gut microbiota shift in layer pullets fed on black soldier fly larvae-based feeds towards enhancing healthy gut microbial community.
+ 09.10.2022, _EW Ndotono, FM Khamis, JL Bargul, CM Tanga_
 
 
-In tandem with the fast expansion of the pet-economy industry, the present ageing research has been noticing the function of probiotics in extending the healthy lifetime of domestic animals. In this study, we aimed to understand the bacterial compositions of canine feces and isolating lactic acid bacteria as commensal lactic acid bacteria (LAB) as novel potential probiotics for the use of anti-aging using Caenorhabditis elegans surrogate animal model. Under an anaerobic culturomic and metagenomic analysis, a total of 305 commensal LAB were isolated from diverse domestic dogs, and four strains, Lactobacillus amylolyticus, L. salivarius, Enterococcus hirae and E. faecium, made prominence as commensal LAB by enhancing C. elegans life span and restored neuronal degeneration induced by aging by up-regulating skn-1, ser-7 and odr-3, 7, 10. Importantly, whole transcriptome results and integrative network analysis revealed extensive mRNA encoding protein domains and functional pathways of naturally aging C. elegans was examined and we built the gene informatics basis. Taken together, our finding proposed that a specific gene network corresponding to the pathways differentially expressed during the aging and selected commensal LAB as potential probiotic strains could be provided beneficial effects in the aging of domestic animals by modulating dynamics of gut microbiota.
+Globally, most gut microbiota-related studies have focused on broilers due to their diverse microbial communities compared to that of layer chicken. However, in Africa few studies have been undertaken despite the increasing benefits to the poultry industry. The utilization of Insect-Based diets to improve the gastrointestinal function and gut health in poultry is increasingly gaining global attention. Here, we evaluated the potential roles of commercial black soldier fly larvae-based feeds (BSFLF) in reshaping the abundance, composition and diversity of the gut microbiota of layer chickens using high throughput Oxford nanopore Minion sequencing of the full length bacterial 16S rRNA gene. Two hundred and fifty ISA Brown layer chicks were reared in pens for a period of 20 weeks. The layer pullets were allotted 5 dietary treatments that were formulated as follows: control diet (T1): 100% FM + 0% BSFL, T2: 25% BSFL + 75% FM; T3: 50% BSFL + 50% FM; T4: 75% BSFL + 25% FM, and T5: 100% BSFL + 0% FM. Sampling was done from the eight major regions including oesophagus, crop, proventriculus, gizzard, duodenum, ileum, large intestines and ceca. Out of the 400,064 classified reads analyzed, the most dominant phyla identified across the feed treatments were Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria. The diet treatment with 100% inclusion levels of BSFL showed the highest intra-species alpha diversity and richness according to Chao1 and Shannon index. Intra-species beta diversity assessment revealed that the diet types significantly influenced the abundance of the microbiota, but differences between most abundant taxa were similar. There was increase in abundance of potentially beneficial bacteria (Lactobacillus, Bacteroides and Enterococcus) with increased inclusion levels of BSFLF in layer pullets diets. Across the different gut segments, Lactobacillus dominated all the eight regions and the ceca was the most diverse segment. Our findings unravel complex gut microbial shift in laying hen fed BSFLF and therefore underpins the potential roles of beneficial bacteria as promising prebiotics and probiotics in reshaping of the gut microbiota to maintain good gut health.
 
-[Source](https://academic.oup.com/jas/advance-article-abstract/doi/10.1093/jas/skac323/6748171)
+[Source](https://doi.org/10.1038/s41598-022-20736-0)
 
-10.1093/jas/skac323
-
----
-
-## Recruitment of specific microbes through exudates affects cadmium activation and accumulation in Brassica napu
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S030438942201860X)
+10.1038/s41598-022-20736-0
 
 ---
 
-## Novel trends of genome evolution in highly complex tropical sponge microbiomes.
- 09.10.2022, _JB Kelly, DE Carlson, JS Low, RW Thacker_
+## Succession of the intestinal bacterial community in Pacific bluefin tuna (<em>Thunnus orientalis</em>) larvae
 
-
-_Bacteria, Evolution, Molecular, Lipopolysaccharides, Metagenome, Metagenomics, Microbiota, Phylogeny, Steroids, Sterols_
-Tropical members of the sponge genus Ircinia possess highly complex microbiomes that perform a broad spectrum of chemical processes that influence host fitness. Despite the pervasive role of microbiomes in Ircinia biology, it is still unknown how they remain in stable association across tropical species. To address this question, we performed a comparative analysis of the microbiomes of 11 Ircinia species using whole-metagenomic shotgun sequencing data to investigate three aspects of bacterial symbiont genomes-the redundancy in metabolic pathways across taxa, the evolution of genes involved in pathogenesis, and the nature of selection acting on genes relevant to secondary metabolism.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01359-z)
-
-10.1186/s40168-022-01359-z
+[Source](https://doi.org/10.1371/journal.pone.0275211)
 
 ---
 
-## Marine DNA methylation patterns are associated with microbial community composition and inform virus-host dynamics.
- 05.10.2022, _HJ Seong, S Roux, CY Hwang, WJ Sul_
+## Bacterial community in soil and tree roots of <em>Picea abies</em> shows little response to clearcutting
 
-
-_Bacteriophages, DNA, DNA Methylation, Metagenome, Metagenomics, Methyltransferases, Microbiota_
-DNA methylation in prokaryotes is involved in many different cellular processes including cell cycle regulation and defense against viruses. To date, most prokaryotic methylation systems have been studied in culturable microorganisms, resulting in a limited understanding of DNA methylation from a microbial ecology perspective. Here, we analyze the distribution patterns of several microbial epigenetics marks in the ocean microbiome through genome-centric metagenomics across all domains of life.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01340-w)
-
-10.1186/s40168-022-01340-w
+[Source](https://doi.org/10.1093/femsec/fiac118)
 
 ---
 
-## Untangling microbial diversity and assembly patterns in rare earth element mine drainage in South China.
- 03.10.2022, _Z Chen, YH Fei, WS Liu, K Ding, J Lu, X Cai, T Cui, YT Tang, S Wang, Y Chao, R Qiu_
+## Size-fractionated microbiome observed during an eight-month long sampling in Jiaozhou Bay and the Yellow Sea
 
-
-Ion-adsorption rare earth element (REE) deposits are the main reservoirs of REEs worldwide, and are widely exploited in South China. Microbial diversity is essential for maintaining the performance and function of mining ecosystems. Investigating the ecological patterns underlying the REE mine microbiome is essential to understand ecosystem responses to environmental changes and to improve the bioremediation of mining areas. We applied 16S rRNA and ITS gene sequence analyses to investigate the composition characteristics of prokaryotic (bacteria, archaea) and fungal communities in a river impacted by REE acid mine drainage (REE-AMD). The river formed a unique micro-ecosystem, including the main prokaryotic taxa of Proteobacteria, Acidobacteria, Crenarchaeota, and Euryarchaeota, as well as the main fungal taxa of Ascomycota, Basidiomycota, and Chytridiomycota. Analysis of microbial diversity showed that, unlike prokaryotic communities that responded drastically to pollution disturbances, fungal communities were less affected by REE-AMD, but fluctuated significantly in different seasons. Ecological network analysis revealed that fungal communities have lower connectivity and centrality, and higher modularity than prokaryotic networks, indicating that fungal communities have more stable network structures. The introduction of REE-AMD mainly reduced the complexity of the community network and the number of keystone species, while the proportion of negative prokaryotic-fungal associations in the network increased. Ecological process analysis revealed that, compared to the importance of environmental selection for prokaryotes, stochastic processes might have contributed primarily to fungal communities in REE mining areas. These findings confirm that the different assembly mechanisms of prokaryotic and fungal communities are key to the differences in their responses to environmental perturbations. The findings also provide the first insights into microbiota assembly patterns in REE-AMD and important ecological knowledge for the formation and development of microbial communities in REE mining areas.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0043135422011174)
-
-10.1016/j.watres.2022.119172
+[Source](https://doi.org/10.1038/s41597-022-01734-3)
 
 ---
 
-## Benchmarking Community-Wide Estimates of Growth Potential from Metagenomes Using Codon Usage Statistics.
- 03.10.2022, _JL Weissman, M Peras, TP Barnum, JA Fuhrman_
+## Microbiome of rehydrated corn and sorghum grain silages treated with microbial inoculants in different fermentation periods
 
-
-Trait inference from mixed-species assemblages is a central problem in microbial ecology. Frequently, sequencing information from an environment is available, but phenotypic measurements from individual community members are not. With the increasing availability of molecular data for microbial communities, bioinformatic approaches that map metagenome to (meta)phenotype are needed. Recently, we developed a tool, gRodon, that enables the prediction of the maximum growth rate of an organism from genomic data on the basis of codon usage patterns. Our work and that of other groups suggest that such predictors can be applied to mixed-species communities in order to derive estimates of the average community-wide maximum growth rate. Here, we present an improved maximum growth rate predictor designed for metagenomes that corrects a persistent GC bias in the original gRodon model for metagenomic prediction. We benchmark this predictor with simulated metagenomic data sets to show that it has superior performance on mixed-species communities relative to earlier models. We go on to provide guidance on data preprocessing and show that calling genes from assembled contigs rather than directly from reads dramatically improves performance. Finally, we apply our predictor to large-scale metagenomic data sets from marine and human microbiomes to illustrate how community-wide growth prediction can be a powerful approach for hypothesis generation. Altogether, we provide an updated tool with clear guidelines for users about the uses and pitfalls of metagenomic prediction of the average community-wide maximal growth rate. IMPORTANCE Microbes dominate nearly every known habitat, and therefore tools to survey the structure and function of natural microbial communities are much needed. Metagenomics, in which the DNA content of an entire community of organisms is sequenced all at once, allows us to probe the genetic diversity contained in a habitat. Yet, mapping metagenomic information to the actual traits of community members is a difficult and largely unsolved problem. Here, we present and validate a tool that allows users to predict the average maximum growth rate of a microbial community directly from metagenomic data. Maximum growth rate is a fundamental characteristic of microbial species that can give us a great deal of insight into their ecological role, and by applying our community-level predictor to large-scale metagenomic data sets from marine and human-associated microbiomes, we show how community-wide growth prediction can be a powerful approach for hypothesis generation.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00745-22)
-
-10.1128/msystems.00745-22
+[Source](https://doi.org/10.1038/s41598-022-21461-4)
 
 ---
 
-## PhyloDM is a high-performance library that converts a phylogenetic tree into a pairwise distance matrix.
+## Quantification and characterization of mouse and human tissue-resident microbiota by qPCR and 16S sequencing
 
-[Source](https://github.com/aaronmussig/PhyloDM)
+[Source](https://doi.org/10.1016/j.xpro.2022.101765)
 
 ---
 
