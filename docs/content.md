@@ -1,5 +1,5 @@
 ## The hallmarks of dietary intervention-resilient gut microbiome.
- 08.10.2022, _NS Klimenko, VE Odintsova, A Revel-Muroz, AV Tyakht_
+ 10.10.2022, _NS Klimenko, VE Odintsova, A Revel-Muroz, AV Tyakht_
 
 
 Maintaining equilibrium of the gut microbiome is crucial for human health. Diet represents an important and generally accessible natural channel of controlling the nutrients supply to the intestinal microorganisms. Although many studies showed that dietary interventions can specifically modulate gut microbiome composition, further progress of the approach is complicated by interindividual variability of the microbial community response. The reported causes of this variability include the baseline microbiome composition features, but it is unclear whether any of them are intervention-specific. Here, we applied a unified computational framework to investigate the variability of microbiome response measured as beta diversity in eight various dietary interventions using previously published 16S rRNA sequencing datasets. We revealed a number of baseline microbiome features which determine the microbiome response in an intervention-independent manner. One of the most stable associations, reproducible for different interventions and enterotypes, was a negative dependence of the response on the average number of genes per microorganism in the community-an indicator of the community functional redundancy. Meanwhile, many revealed microbiome response determinants were enterotype-specific. In Bact1 and Rum enterotypes, the response was negatively correlated with the baseline abundance of their main drivers. Additionally, we proposed a method for preliminary assessment of the microbiome response. Our study delineats the universal features determining microbiome response to diverse interventions. The proposed approach is promising for understanding the mechanisms of gut microbiome stability and improving the efficacy of personalised microbiome-tailored interventions.
@@ -23,7 +23,7 @@ Individual physiologic responses and cancer risk can vary widely to changes in d
 ---
 
 ## Differences in the microbiota of oral rinse, lesion, and normal site samples from patients with mucosal abnormalities on the tongue.
- 07.10.2022, _Y Shitozawa, K Haro, M Ogawa, A Miyawaki, M Saito, K Fukuda_
+ 10.10.2022, _Y Shitozawa, K Haro, M Ogawa, A Miyawaki, M Saito, K Fukuda_
 
 
 The oral microbiota associated with mucosal diseases, including oral squamous cell carcinoma and oral potentially malignant disorders, have been extensively analyzed at the phylum and genus levels. However, the details of the oral microbiota remain unclear at the species and operational taxonomic unit (OTU) levels. We aimed to determine differences in the microbiota of oral rinse, lesion and normal site swab samples of patients with mucosal abnormalities on the tongues. Oral samples were obtained from 10 patients with oral mucosal abnormalities. Alpha and beta diversity at the OTU and genus levels of the microbiota samples were analyzed using OTUs clustered with 99.6% similarity based on 16S rRNA gene sequences obtained using the Sanger method. At the OTU level, the microbiota of the lesions were the least diverse but were different from those of the normal site and oral rinse samples. The OTUs corresponding to Streptococcus infantis and Haemophilus parainfluenzae were suggested to contribute to the differences between the microbiota of the lesions and normal sites. At the genus level, no significant differences between these microbiota were observed. In conclusion, strict OTU-level microbiota analysis might be able to discriminate lesions from normal sites of patients with mucosal abnormalities.
@@ -58,7 +58,7 @@ Dysbiosis of gut microbiota is well-described in patients with coronavirus 2019 
 ---
 
 ## Fibre is good for the microbiome: but what is the evidence?
- 08.10.2022, _K Whelan, HM Staudacher_
+ 10.10.2022, _K Whelan, HM Staudacher_
 
 
 
@@ -93,7 +93,7 @@ The gut microbiome can help the host adapt to a variety of environments and is a
 ---
 
 ## Gut microbiota shift in layer pullets fed on black soldier fly larvae-based feeds towards enhancing healthy gut microbial community.
- 09.10.2022, _EW Ndotono, FM Khamis, JL Bargul, CM Tanga_
+ 10.10.2022, _EW Ndotono, FM Khamis, JL Bargul, CM Tanga_
 
 
 Globally, most gut microbiota-related studies have focused on broilers due to their diverse microbial communities compared to that of layer chicken. However, in Africa few studies have been undertaken despite the increasing benefits to the poultry industry. The utilization of Insect-Based diets to improve the gastrointestinal function and gut health in poultry is increasingly gaining global attention. Here, we evaluated the potential roles of commercial black soldier fly larvae-based feeds (BSFLF) in reshaping the abundance, composition and diversity of the gut microbiota of layer chickens using high throughput Oxford nanopore Minion sequencing of the full length bacterial 16S rRNA gene. Two hundred and fifty ISA Brown layer chicks were reared in pens for a period of 20 weeks. The layer pullets were allotted 5 dietary treatments that were formulated as follows: control diet (T1): 100% FM + 0% BSFL, T2: 25% BSFL + 75% FM; T3: 50% BSFL + 50% FM; T4: 75% BSFL + 25% FM, and T5: 100% BSFL + 0% FM. Sampling was done from the eight major regions including oesophagus, crop, proventriculus, gizzard, duodenum, ileum, large intestines and ceca. Out of the 400,064 classified reads analyzed, the most dominant phyla identified across the feed treatments were Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria. The diet treatment with 100% inclusion levels of BSFL showed the highest intra-species alpha diversity and richness according to Chao1 and Shannon index. Intra-species beta diversity assessment revealed that the diet types significantly influenced the abundance of the microbiota, but differences between most abundant taxa were similar. There was increase in abundance of potentially beneficial bacteria (Lactobacillus, Bacteroides and Enterococcus) with increased inclusion levels of BSFLF in layer pullets diets. Across the different gut segments, Lactobacillus dominated all the eight regions and the ceca was the most diverse segment. Our findings unravel complex gut microbial shift in laying hen fed BSFLF and therefore underpins the potential roles of beneficial bacteria as promising prebiotics and probiotics in reshaping of the gut microbiota to maintain good gut health.
@@ -116,27 +116,15 @@ Globally, most gut microbiota-related studies have focused on broilers due to th
 
 ---
 
-## Size-fractionated microbiome observed during an eight-month long sampling in Jiaozhou Bay and the Yellow Sea.
- 07.10.2022, _J Tao, W Wang, JL Weissman, Y Zhang, S Chen, Y Zhu, C Zhang, S Hou_
-
-
-Jiaozhou Bay is a typical semi-enclosed bay with a temperate climate imposed by strong anthropogenic influence. To investigate microbial biodiversity and ecosystem services in this highly dynamic coastal environment, we conducted a monthly microbial survey spanning eight months at two stations in the bay and the open Yellow Sea starting in April 2015. This report provides a comprehensive inventory of amplicon sequences and environmental microbial genomes from this survey. In total, 2,543 amplicon sequence variants were obtained with monthly relative abundance profiles in three size fractions (&gt;2.7 μm, 2.7-0.7 μm, and 0.7-0.22 μm). Shotgun metagenomes yielded 915 high-quality metagenome-assembled genomes with ≥50% completeness and ≤5% contamination. These environmental genomes comprise 27 bacterial and 5 archaeal phyla. We expect this comprehensive dataset will facilitate a better understanding of coastal microbial ecology.
+## Size-fractionated microbiome observed during an eight-month long sampling in Jiaozhou Bay and the Yellow Sea
 
 [Source](https://doi.org/10.1038/s41597-022-01734-3)
 
-10.1038/s41597-022-01734-3
-
 ---
 
-## Microbiome of rehydrated corn and sorghum grain silages treated with microbial inoculants in different fermentation periods.
- 07.10.2022, _MCN Agarussi, OG Pereira, FE Pimentel, CF Azevedo, VP da Silva, FF E Silva_
-
-
-Due to the co-evolved intricate relationships and mutual influence between changes in the microbiome and silage fermentation quality, we explored the effects of Lactobacillus plantarum and Propionibacterium acidipropionici (Inoc1) or Lactobacillus buchneri (Inoc2) inoculants on the diversity and bacterial and fungal community succession of rehydrated corn (CG) and sorghum (SG) grains and their silages using Illumina Miseq sequencing after 0, 3, 7, 21, 90, and 360 days of fermentation. The effects of inoculants on bacterial and fungal succession differed among the grains. Lactobacillus and Weissella species were the main bacteria involved in the fermentation of rehydrated corn and sorghum grain silage. Aspergillus spp. mold was predominant in rehydrated CG fermentation, while the yeast Wickerhamomyces anomalus was the major fungus in rehydrated SG silages. The Inoc1 was more efficient than CTRL and Inoc2 in promoting the sharp growth of Lactobacillus spp. and maintaining the stability of the bacterial community during long periods of storage in both grain silages. However, the bacterial and fungal communities of rehydrated corn and sorghum grain silages did not remain stable after 360 days of storage.
+## Microbiome of rehydrated corn and sorghum grain silages treated with microbial inoculants in different fermentation periods
 
 [Source](https://doi.org/10.1038/s41598-022-21461-4)
-
-10.1038/s41598-022-21461-4
 
 ---
 
