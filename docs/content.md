@@ -1,7 +1,8 @@
 ## The hallmarks of dietary intervention-resilient gut microbiome.
- 10.10.2022, _NS Klimenko, VE Odintsova, A Revel-Muroz, AV Tyakht_
+ 11.10.2022, _NS Klimenko, VE Odintsova, A Revel-Muroz, AV Tyakht_
 
 
+_Diet, Feces, Gastrointestinal Microbiome, Humans, Microbiota, RNA, Ribosomal, 16S_
 Maintaining equilibrium of the gut microbiome is crucial for human health. Diet represents an important and generally accessible natural channel of controlling the nutrients supply to the intestinal microorganisms. Although many studies showed that dietary interventions can specifically modulate gut microbiome composition, further progress of the approach is complicated by interindividual variability of the microbial community response. The reported causes of this variability include the baseline microbiome composition features, but it is unclear whether any of them are intervention-specific. Here, we applied a unified computational framework to investigate the variability of microbiome response measured as beta diversity in eight various dietary interventions using previously published 16S rRNA sequencing datasets. We revealed a number of baseline microbiome features which determine the microbiome response in an intervention-independent manner. One of the most stable associations, reproducible for different interventions and enterotypes, was a negative dependence of the response on the average number of genes per microorganism in the community-an indicator of the community functional redundancy. Meanwhile, many revealed microbiome response determinants were enterotype-specific. In Bact1 and Rum enterotypes, the response was negatively correlated with the baseline abundance of their main drivers. Additionally, we proposed a method for preliminary assessment of the microbiome response. Our study delineats the universal features determining microbiome response to diverse interventions. The proposed approach is promising for understanding the mechanisms of gut microbiome stability and improving the efficacy of personalised microbiome-tailored interventions.
 
 [Source](https://doi.org/10.1038/s41522-022-00342-8)
@@ -23,9 +24,10 @@ Individual physiologic responses and cancer risk can vary widely to changes in d
 ---
 
 ## Differences in the microbiota of oral rinse, lesion, and normal site samples from patients with mucosal abnormalities on the tongue.
- 10.10.2022, _Y Shitozawa, K Haro, M Ogawa, A Miyawaki, M Saito, K Fukuda_
+ 11.10.2022, _Y Shitozawa, K Haro, M Ogawa, A Miyawaki, M Saito, K Fukuda_
 
 
+_Carcinoma, Squamous Cell, Head and Neck Neoplasms, Humans, Microbiota, Mouth Neoplasms, Mouthwashes, RNA, Ribosomal, 16S, Tongue_
 The oral microbiota associated with mucosal diseases, including oral squamous cell carcinoma and oral potentially malignant disorders, have been extensively analyzed at the phylum and genus levels. However, the details of the oral microbiota remain unclear at the species and operational taxonomic unit (OTU) levels. We aimed to determine differences in the microbiota of oral rinse, lesion and normal site swab samples of patients with mucosal abnormalities on the tongues. Oral samples were obtained from 10 patients with oral mucosal abnormalities. Alpha and beta diversity at the OTU and genus levels of the microbiota samples were analyzed using OTUs clustered with 99.6% similarity based on 16S rRNA gene sequences obtained using the Sanger method. At the OTU level, the microbiota of the lesions were the least diverse but were different from those of the normal site and oral rinse samples. The OTUs corresponding to Streptococcus infantis and Haemophilus parainfluenzae were suggested to contribute to the differences between the microbiota of the lesions and normal sites. At the genus level, no significant differences between these microbiota were observed. In conclusion, strict OTU-level microbiota analysis might be able to discriminate lesions from normal sites of patients with mucosal abnormalities.
 
 [Source](https://doi.org/10.1038/s41598-022-21031-8)
@@ -46,9 +48,10 @@ The oral microbiota associated with mucosal diseases, including oral squamous ce
 ---
 
 ## Antibiotics and probiotics impact gut antimicrobial resistance gene reservoir in COVID-19 patients.
- 09.10.2022, _Q Su, Q Liu, L Zhang, Z Xu, C Liu, W Lu, JY Ching, A Li, JWY Mak, GCY Lui, SSS Ng, KM Chow, DS Hui, PK Chan, FKL Chan, SC Ng_
+ 11.10.2022, _Q Su, Q Liu, L Zhang, Z Xu, C Liu, W Lu, JY Ching, A Li, JWY Mak, GCY Lui, SSS Ng, KM Chow, DS Hui, PK Chan, FKL Chan, SC Ng_
 
 
+_Anti-Bacterial Agents, COVID-19, Drug Resistance, Bacterial, Gastrointestinal Microbiome, Humans, Probiotics, SARS-CoV-2, Tetracyclines, Vancomycin_
 Dysbiosis of gut microbiota is well-described in patients with coronavirus 2019 (COVID-19), but the dynamics of antimicrobial resistance genes (ARGs) reservoir, known as resistome, is less known. Here, we performed longitudinal fecal metagenomic profiling of 142 patients with COVID-19, characterized the dynamics of resistome from diagnosis to 6 months after viral clearance, and reported the impact of antibiotics or probiotics on the ARGs reservoir. Antibiotic-naive patients with COVID-19 showed increased abundance and types, and higher prevalence of ARGs compared with non-COVID-19 controls at baseline. Expansion in resistome was mainly driven by tetracycline, vancomycin, and multidrug-resistant genes and persisted for at least 6 months after clearance of SARS-CoV-2. Patients with expanded resistome exhibited increased prevalence of Klebsiella sp. and post-acute COVID-19 syndrome. Antibiotic treatment resulted in further increased abundance of ARGs whilst oral probiotics (synbiotic formula, SIM01) significantly reduced the ARGs reservoir in the gut microbiota of COVID-19 patients during the acute infection and recovery phase. Collectively, these findings shed new insights on the dynamic of ARGs reservoir in COVID-19 patients and the potential role of microbiota-directed therapies in reducing the burden of accumulated ARGs.
 
 [Source](https://doi.org/10.1080/19490976.2022.2128603)
@@ -58,9 +61,10 @@ Dysbiosis of gut microbiota is well-described in patients with coronavirus 2019 
 ---
 
 ## Fibre is good for the microbiome: but what is the evidence?
- 10.10.2022, _K Whelan, HM Staudacher_
+ 11.10.2022, _K Whelan, HM Staudacher_
 
 
+_Dietary Fiber, Humans, Microbiota_
 
 [Source](https://doi.org/10.1016/S2468-1253(22)00310-7)
 
@@ -93,9 +97,10 @@ The gut microbiome can help the host adapt to a variety of environments and is a
 ---
 
 ## Gut microbiota shift in layer pullets fed on black soldier fly larvae-based feeds towards enhancing healthy gut microbial community.
- 10.10.2022, _EW Ndotono, FM Khamis, JL Bargul, CM Tanga_
+ 11.10.2022, _EW Ndotono, FM Khamis, JL Bargul, CM Tanga_
 
 
+_Animal Feed, Animals, Bacteria, Chickens, Diptera, Female, Gastrointestinal Microbiome, Larva, Microbiota, RNA, Ribosomal, 16S_
 Globally, most gut microbiota-related studies have focused on broilers due to their diverse microbial communities compared to that of layer chicken. However, in Africa few studies have been undertaken despite the increasing benefits to the poultry industry. The utilization of Insect-Based diets to improve the gastrointestinal function and gut health in poultry is increasingly gaining global attention. Here, we evaluated the potential roles of commercial black soldier fly larvae-based feeds (BSFLF) in reshaping the abundance, composition and diversity of the gut microbiota of layer chickens using high throughput Oxford nanopore Minion sequencing of the full length bacterial 16S rRNA gene. Two hundred and fifty ISA Brown layer chicks were reared in pens for a period of 20 weeks. The layer pullets were allotted 5 dietary treatments that were formulated as follows: control diet (T1): 100% FM + 0% BSFL, T2: 25% BSFL + 75% FM; T3: 50% BSFL + 50% FM; T4: 75% BSFL + 25% FM, and T5: 100% BSFL + 0% FM. Sampling was done from the eight major regions including oesophagus, crop, proventriculus, gizzard, duodenum, ileum, large intestines and ceca. Out of the 400,064 classified reads analyzed, the most dominant phyla identified across the feed treatments were Firmicutes, Bacteroidetes, Proteobacteria and Actinobacteria. The diet treatment with 100% inclusion levels of BSFL showed the highest intra-species alpha diversity and richness according to Chao1 and Shannon index. Intra-species beta diversity assessment revealed that the diet types significantly influenced the abundance of the microbiota, but differences between most abundant taxa were similar. There was increase in abundance of potentially beneficial bacteria (Lactobacillus, Bacteroides and Enterococcus) with increased inclusion levels of BSFLF in layer pullets diets. Across the different gut segments, Lactobacillus dominated all the eight regions and the ceca was the most diverse segment. Our findings unravel complex gut microbial shift in laying hen fed BSFLF and therefore underpins the potential roles of beneficial bacteria as promising prebiotics and probiotics in reshaping of the gut microbiota to maintain good gut health.
 
 [Source](https://doi.org/10.1038/s41598-022-20736-0)
