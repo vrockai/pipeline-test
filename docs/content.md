@@ -10,22 +10,15 @@ Airborne bacteria are an influential component of the Earth's microbiomes, but t
 
 ---
 
-## The gut microbiota regulates acute foreign body reaction and tissue repair after biomaterial implantation.
- 06.10.2022, _SL Chen, DJ Lundy, SC Ruan, HC Chen, YK Chao, YY Cheng, RP Prajnamitra, CC Liao, CY Lin, JJ Lai, PCH Hsieh_
+## The Wound Microbiome.
+ 11.10.2022, _EK White, EA Grice_
 
 
-_Animals, Anti-Bacterial Agents, Biocompatible Materials, Foreign-Body Reaction, Gastrointestinal Microbiome, Hyaluronic Acid, Mice, Swine_
-We hypothesized that the host microbiome may influence foreign body responses following biomaterial implantation. To test this, we implanted a variety of clinically relevant biomaterials into germ-free or antibiotic-treated mice. Surprisingly, these mice displayed less fibrous tissue deposition, reduced host cell recruitment to the implant site, and differential expression of angiogenic and inflammatory markers. These observations were reversed upon fecal microbiome reconstitution, confirming a causal role of the host microbiome. In a clinically relevant disease model, microbiome-depleted mice cleared hyaluronic acid and bone marrow mononuclear cells from ischemic hind limb tissues more slowly, resulting in an improved therapeutic response. Findings were confirmed in pigs which showed reduced fibrotic responses to a variety of implanted materials. Lastly, we profiled changes in the host microbiome following material implantation, implicating several key bacteria phyla.
-
-[Source](https://cshperspectives.cshlp.org/content/early/2022/10/10/cshperspect.a041218)
-
-10.1016/j.biomaterials.2022.121807
-
----
-
-## The Wound Microbiome
+Breach of the skin barrier and subsequent wound healing occur in the context of microbial communities of bacteria, fungi, and viruses. These polymicrobial communities are dynamic and important components of the wound environment and are associated with differential healing outcomes. Here, we highlight both culture-dependent and -independent methods that have furthered our understanding of the wound microbiome. We discuss common themes that have developed from such studies about the microbial inhabitants of diverse wound types. We additionally explore the wide range of microbial mechanisms that influence healing, from invading pathogens to beneficial commensals. These insights can be leveraged to better predict healing outcomes and derive novel microbial-based therapies for chronic wounds.
 
 [Source](https://cshperspectives.cshlp.org/content/early/2022/10/10/cshperspect.a041218)
+
+10.1101/cshperspect.a041218
 
 ---
 
@@ -60,22 +53,15 @@ Young type 2 diabetes (T2D) affects 15% of the population, with a noted increase
 
 ---
 
-## Smoking-induced microbial dysbiosis in health and disease.
- 28.09.2022, _H Shapiro, K Goldenberg, K Ratiner, E Elinav_
+## The role of the gut microbiota in health and cardiovascular diseases.
+ 11.10.2022, _L Wang, S Wang, Q Zhang, C He, C Fu, Q Wei_
 
 
-_Cardiovascular Diseases, Dysbiosis, Gastrointestinal Microbiome, Humans, Microbiota, Smoking_
-Smoking is associated with an increased risk of cancer, pulmonary and cardiovascular diseases, but the precise mechanisms by which such risk is mediated remain poorly understood. Additionally, smoking can impact the oral, nasal, oropharyngeal, lung and gut microbiome composition, function, and secreted molecule repertoire. Microbiome changes induced by smoking can bear direct consequences on smoking-related illnesses. Moreover, smoking-associated dysbiosis may modulate weight gain development following smoking cessation. Here, we review the implications of cigarette smoking on microbiome community structure and function. In addition, we highlight the potential impacts of microbial dysbiosis on smoking-related diseases. We discuss challenges in studying host-microbiome interactions in the context of smoking, such as the correlations with smoking-related disease severity versus causation and mechanism. In all, understanding the microbiome's role in the pathophysiology of smoking-related diseases may promote the development of rational therapies for smoking- and smoking cessation-related disorders, as well as assist in smoking abstinence.
-
-[Source](https://link.springer.com/article/10.1186/s43556-022-00091-2)
-
-10.1042/CS20220175
-
----
-
-## The role of the gut microbiota in health and cardiovascular diseases
+The gut microbiota is critical to human health, such as digesting nutrients, forming the intestinal epithelial barrier, regulating immune function, producing vitamins and hormones, and producing metabolites to interact with the host. Meanwhile, increasing evidence indicates that the gut microbiota has a strong correlation with the occurrence, progression and treatment of cardiovascular diseases (CVDs). In patients with CVDs and corresponding risk factors, the composition and ratio of gut microbiota have significant differences compared with their healthy counterparts. Therefore, gut microbiota dysbiosis, gut microbiota-generated metabolites, and the related signaling pathway may serve as explanations for some of the mechanisms about the occurrence and development of CVDs. Several studies have also demonstrated that many traditional and latest therapeutic treatments of CVDs are associated with the gut microbiota and its generated metabolites and related signaling pathways. Given that information, we summarized the latest advances in the current research regarding the effect of gut microbiota on health, the main cardiovascular risk factors, and CVDs, highlighted the roles and mechanisms of several metabolites, and introduced corresponding promising treatments for CVDs regarding the gut microbiota. Therefore, this review mainly focuses on exploring the role of gut microbiota related metabolites and their therapeutic potential in CVDs, which may eventually provide better solutions in the development of therapeutic treatment as well as the prevention of CVDs.
 
 [Source](https://link.springer.com/article/10.1186/s43556-022-00091-2)
+
+10.1186/s43556-022-00091-2
 
 ---
 
@@ -160,9 +146,15 @@ Mammalian intestinal microbiomes are necessary for antagonizing systemic viral i
 
 ---
 
-## Dissecting the cotranscriptome landscape of plants and their microbiota
+## Dissecting the cotranscriptome landscape of plants and their microbiota.
+ 11.10.2022, _T Nobori, Y Cao, F Entila, E Dahms, Y Tsuda, R Garrido-Oter, K Tsuda_
+
+
+Interactions between plants and neighboring microbial species are fundamental elements that collectively determine the structure and function of the plant microbiota. However, the molecular basis of such interactions is poorly characterized. Here, we colonize Arabidopsis leaves with nine plant-associated bacteria from all major phyla of the plant microbiota and profile cotranscriptomes of plants and bacteria six hours after inoculation. We detect both common and distinct cotranscriptome signatures among plant-commensal pairs. In planta responses of commensals are similar to those of a disarmed pathogen characterized by the suppression of genes involved in general metabolism in contrast to a virulent pathogen. We identify genes that are enriched in the genome of plant-associated bacteria and induced in planta, which may be instrumental for bacterial adaptation to the host environment and niche separation. This study provides insights into how plants discriminate among bacterial strains and lays the foundation for in-depth mechanistic dissection of plant-microbiota interactions.
 
 [Source](https://www.embopress.org/doi/full/10.15252/embr.202255380)
+
+10.15252/embr.202255380
 
 ---
 
