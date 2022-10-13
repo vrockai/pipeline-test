@@ -1,7 +1,8 @@
 ## Global airborne bacterial community-interactions with Earth's microbiomes and anthropogenic activities.
- 10.10.2022, _J Zhao, L Jin, D Wu, JW Xie, J Li, XW Fu, ZY Cong, PQ Fu, Y Zhang, XS Luo, XB Feng, G Zhang, JM Tiedje, XD Li_
+ 12.10.2022, _J Zhao, L Jin, D Wu, JW Xie, J Li, XW Fu, ZY Cong, PQ Fu, Y Zhang, XS Luo, XB Feng, G Zhang, JM Tiedje, XD Li_
 
 
+_Air Microbiology, Anthropogenic Effects, Bacteria, Humans, Microbiota, RNA, Ribosomal, 16S_
 Airborne bacteria are an influential component of the Earth's microbiomes, but their community structure and biogeographic distribution patterns have yet to be understood. We analyzed the bacterial communities of 370 air particulate samples collected from 63 sites around the world and constructed an airborne bacterial reference catalog with more than 27 million nonredundant 16S ribosomal RNA (rRNA) gene sequences. We present their biogeographic pattern and decipher the interlacing of the microbiome co-occurrence network with surface environments of the Earth. While the total abundance of global airborne bacteria in the troposphere (1.72 × 1024 cells) is 1 to 3 orders of magnitude lower than that of other habitats, the number of bacterial taxa (i.e., richness) in the atmosphere (4.71 × 108 to 3.08 × 109) is comparable to that in the hydrosphere, and its maximum occurs in midlatitude regions, as is also observed in other ecosystems. The airborne bacterial community harbors a unique set of dominant taxa (24 species); however, its structure appears to be more easily perturbed, due to the more prominent role of stochastic processes in shaping community assembly. This is corroborated by the major contribution of surface microbiomes to airborne bacteria (averaging 46.3%), while atmospheric conditions such as meteorological factors and air quality also play a role. Particularly in urban areas, human impacts weaken the relative importance of plant sources of airborne bacteria and elevate the occurrence of potential pathogens from anthropogenic sources. These findings serve as a key reference for predicting planetary microbiome responses and the health impacts of inhalable microbiomes with future changes in the environment.
 
 [Source](https://www.pnas.org/doi/full/10.1073/pnas.2204465119)
@@ -54,7 +55,7 @@ Young type 2 diabetes (T2D) affects 15% of the population, with a noted increase
 ---
 
 ## The role of the gut microbiota in health and cardiovascular diseases.
- 11.10.2022, _L Wang, S Wang, Q Zhang, C He, C Fu, Q Wei_
+ 12.10.2022, _L Wang, S Wang, Q Zhang, C He, C Fu, Q Wei_
 
 
 The gut microbiota is critical to human health, such as digesting nutrients, forming the intestinal epithelial barrier, regulating immune function, producing vitamins and hormones, and producing metabolites to interact with the host. Meanwhile, increasing evidence indicates that the gut microbiota has a strong correlation with the occurrence, progression and treatment of cardiovascular diseases (CVDs). In patients with CVDs and corresponding risk factors, the composition and ratio of gut microbiota have significant differences compared with their healthy counterparts. Therefore, gut microbiota dysbiosis, gut microbiota-generated metabolites, and the related signaling pathway may serve as explanations for some of the mechanisms about the occurrence and development of CVDs. Several studies have also demonstrated that many traditional and latest therapeutic treatments of CVDs are associated with the gut microbiota and its generated metabolites and related signaling pathways. Given that information, we summarized the latest advances in the current research regarding the effect of gut microbiota on health, the main cardiovascular risk factors, and CVDs, highlighted the roles and mechanisms of several metabolites, and introduced corresponding promising treatments for CVDs regarding the gut microbiota. Therefore, this review mainly focuses on exploring the role of gut microbiota related metabolites and their therapeutic potential in CVDs, which may eventually provide better solutions in the development of therapeutic treatment as well as the prevention of CVDs.
@@ -115,10 +116,10 @@ The rumen is an ecosystem with a complex microbial microflora in which microbes 
 ---
 
 ## Microbiome-driven breeding strategy potentially improves beef fatty acid profile benefiting human health and reduces methane emissions.
- 11.10.2022, _M Martínez-Álvaro, J Mattock, M Auffret, Z Weng, CA Duthie, RJ Dewhurst, MA Cleveland, M Watson, R Roehe_
+ 12.10.2022, _M Martínez-Álvaro, J Mattock, M Auffret, Z Weng, CA Duthie, RJ Dewhurst, MA Cleveland, M Watson, R Roehe_
 
 
-_Animal Feed, Animals, Breeding, Cattle, Diet, Fatty Acids, Fatty Acids, Unsaturated, Humans, Lipopolysaccharides, Methane, Microbiota, Rumen_
+_Animal Feed, Animals, Breeding, Cattle, Diet, Fatty Acids, Fatty Acids, Unsaturated, Lipopolysaccharides, Methane, Microbiota, Rumen_
 Healthier ruminant products can be achieved by adequate manipulation of the rumen microbiota to increase the flux of beneficial fatty acids reaching host tissues. Genomic selection to modify the microbiome function provides a permanent and accumulative solution, which may have also favourable consequences in other traits of interest (e.g. methane emissions). Possibly due to a lack of data, this strategy has never been explored.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01352-6)
