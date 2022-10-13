@@ -134,22 +134,21 @@ Healthier ruminant products can be achieved by adequate manipulation of the rume
 
 ---
 
-## Chicken intestinal microbiota modulation of resistance to nephropathogenic infectious bronchitis virus infection through IFN-I.
- 07.10.2022, _HC Yin, ZD Liu, WW Zhang, QZ Yang, TF Yu, XJ Jiang_
-
-
-_Animals, Anti-Bacterial Agents, Chickens, Gastrointestinal Microbiome, Infectious bronchitis virus, Leukocytes, Mononuclear, Mammals, Poultry Diseases_
-Mammalian intestinal microbiomes are necessary for antagonizing systemic viral infections. However, very few studies have identified whether poultry commensal bacteria play a crucial role in protecting against systemic viral infections. Nephropathogenic infectious bronchitis virus (IBV) is a pathogenic coronavirus that causes high morbidity and multiorgan infection tropism in chickens.
+## Chicken intestinal microbiota modulation of resistance to nephropathogenic infectious bronchitis virus infection through IFN-I
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01348-2)
 
-10.1186/s40168-022-01348-2
-
 ---
 
-## Functionally-explicit sampling can answer key questions about the specificity of plant–microbe interactions
+## Functionally-explicit sampling can answer key questions about the specificity of plant-microbe interactions.
+ 11.10.2022, _SM Fleishman, DM Eissenstat, TH Bell, M Centinari_
+
+
+The rhizosphere is a nexus for plant-microbe interactions and, as a host-structured environment, a location of high activity for distinct microbes and plant species. Although our insights into this habitat have exploded in recent years, we are still limited in our ability to answer key questions about the specificity of these root-microbial relationships. In particular, it can be difficult to confirm or reject microbiome heritability in many plant systems and to pinpoint which microbial taxa are key to plant functioning. Like other host-structured environments, the rhizosphere is structurally, chemically, and biologically complex, driven largely by differences in root anatomy, location, and function. In this Correspondence, we describe a review of 377 "rhizosphere microbiome" research papers and demonstrate how matching a sampling method to the biological question can advance our understanding of host-microbe interactions in a functionally heterogeneous environment. We found that the vast majority of studies (92%) pool all roots from a root system during sampling, ignoring variation in microbial composition between roots of different function and limiting insight into key root-microbial relationships. Furthermore, approaches for removing root-associated microbes are highly variable and non-standard, complicating multi-study analyses. Our understanding of the strength and nature of host-microbe relationships in heterogenous host-microbiome environments can be clarified by targeting sampling to locations of high interaction. While the high complexity of the rhizosphere creates logistical challenges, we suggest that unambiguous language and refined approaches will improve our ability to match methods to research questions and advance our understanding of the specificity of plant-microbial interactions.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00445-x)
+
+10.1186/s40793-022-00445-x
 
 ---
 
