@@ -1,186 +1,313 @@
-## Global airborne bacterial community-interactions with Earth's microbiomes and anthropogenic activities.
- 12.10.2022, _J Zhao, L Jin, D Wu, JW Xie, J Li, XW Fu, ZY Cong, PQ Fu, Y Zhang, XS Luo, XB Feng, G Zhang, JM Tiedje, XD Li_
+## #microber2022
 
-
-_Air Microbiology, Anthropogenic Effects, Bacteria, Humans, Microbiota, RNA, Ribosomal, 16S_
-Airborne bacteria are an influential component of the Earth's microbiomes, but their community structure and biogeographic distribution patterns have yet to be understood. We analyzed the bacterial communities of 370 air particulate samples collected from 63 sites around the world and constructed an airborne bacterial reference catalog with more than 27 million nonredundant 16S ribosomal RNA (rRNA) gene sequences. We present their biogeographic pattern and decipher the interlacing of the microbiome co-occurrence network with surface environments of the Earth. While the total abundance of global airborne bacteria in the troposphere (1.72 × 1024 cells) is 1 to 3 orders of magnitude lower than that of other habitats, the number of bacterial taxa (i.e., richness) in the atmosphere (4.71 × 108 to 3.08 × 109) is comparable to that in the hydrosphere, and its maximum occurs in midlatitude regions, as is also observed in other ecosystems. The airborne bacterial community harbors a unique set of dominant taxa (24 species); however, its structure appears to be more easily perturbed, due to the more prominent role of stochastic processes in shaping community assembly. This is corroborated by the major contribution of surface microbiomes to airborne bacteria (averaging 46.3%), while atmospheric conditions such as meteorological factors and air quality also play a role. Particularly in urban areas, human impacts weaken the relative importance of plant sources of airborne bacteria and elevate the occurrence of potential pathogens from anthropogenic sources. These findings serve as a key reference for predicting planetary microbiome responses and the health impacts of inhalable microbiomes with future changes in the environment.
-
-[Source](https://www.pnas.org/doi/full/10.1073/pnas.2204465119)
-
-10.1073/pnas.2204465119
+[Source](https://twitter.com/hashtag/microber2022?src=hashtag_click&f=live)
 
 ---
 
-## The Wound Microbiome.
- 11.10.2022, _EK White, EA Grice_
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
 
 
-Breach of the skin barrier and subsequent wound healing occur in the context of microbial communities of bacteria, fungi, and viruses. These polymicrobial communities are dynamic and important components of the wound environment and are associated with differential healing outcomes. Here, we highlight both culture-dependent and -independent methods that have furthered our understanding of the wound microbiome. We discuss common themes that have developed from such studies about the microbial inhabitants of diverse wound types. We additionally explore the wide range of microbial mechanisms that influence healing, from invading pathogens to beneficial commensals. These insights can be leveraged to better predict healing outcomes and derive novel microbial-based therapies for chronic wounds.
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
 
-[Source](https://cshperspectives.cshlp.org/content/early/2022/10/10/cshperspect.a041218)
+[Source](https://twitter.com/search?q=%23MVIF&src=typed_query&f=live)
 
-10.1101/cshperspect.a041218
-
----
-
-## Pivotal interplays between fecal metabolome and gut microbiome reveal functional signatures in cerebral ischemic stroke.
- 11.10.2022, _L Zhao, C Wang, S Peng, X Zhu, Z Zhang, Y Zhao, J Zhang, G Zhao, T Zhang, X Heng, L Zhang_
-
-
-_Feces, Gastrointestinal Microbiome, Humans, Ischemic Stroke, Metabolome, Metabolomics, RNA, Ribosomal, 16S_
-Integrative analysis approaches of metagenomics and metabolomics have been widely developed to understand the association between disease and the gut microbiome. However, the different profiling patterns of different metabolic samples in the association analysis make it a matter of concern which type of sample is the most closely associated with gut microbes and disease. To address this lack of knowledge, we investigated the association between the gut microbiome and metabolomic profiles of stool, urine, and plasma samples from ischemic stroke patients and healthy subjects.
-
-[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03669-0)
-
-10.1186/s12967-022-03669-0
+10.3390/ijerph19010099
 
 ---
 
-## Gut-Testis Axis: Microbiota Prime Metabolome To Increase Sperm Quality in Young Type 2 Diabetes
+## #MVIF
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.01423-22)
-
----
-
-## Multi-angle meta-analysis of the gut microbiome in Autism Spectrum Disorder: a step toward understanding patient subgroups.
- 13.10.2022, _KA West, X Yin, EM Rutherford, B Wee, J Choi, BS Chrisman, KL Dunlap, RL Hannibal, W Hartono, M Lin, E Raack, K Sabino, Y Wu, DP Wall, MM David, K Dabbagh, TZ DeSantis, S Iwai_
-
-
-_Autism Spectrum Disorder, Bacteria, Child, Gastrointestinal Microbiome, Humans, Metagenome, Microbiota_
-Observational studies have shown that the composition of the human gut microbiome in children diagnosed with Autism Spectrum Disorder (ASD) differs significantly from that of their neurotypical (NT) counterparts. Thus far, reported ASD-specific microbiome signatures have been inconsistent. To uncover reproducible signatures, we compiled 10 publicly available raw amplicon and metagenomic sequencing datasets alongside new data generated from an internal cohort (the largest ASD cohort to date), unified them with standardized pre-processing methods, and conducted a comprehensive meta-analysis of all taxa and variables detected across multiple studies. By screening metadata to test associations between the microbiome and 52 variables in multiple patient subsets and across multiple datasets, we determined that differentially abundant taxa in ASD versus NT children were dependent upon age, sex, and bowel function, thus marking these variables as potential confounders in case-control ASD studies. Several taxa, including the strains Bacteroides stercoris t__190463 and Clostridium M bolteae t__180407, and the species Granulicatella elegans and Massilioclostridium coli, exhibited differential abundance in ASD compared to NT children only after subjects with bowel dysfunction were removed. Adjusting for age, sex and bowel function resulted in adding or removing significantly differentially abundant taxa in ASD-diagnosed individuals, emphasizing the importance of collecting and controlling for these metadata. We have performed the largest (n = 690) and most comprehensive systematic analysis of ASD gut microbiome data to date. Our study demonstrated the importance of accounting for confounding variables when designing statistical comparative analyses of ASD- and NT-associated gut bacterial profiles. Mitigating these confounders identified robust microbial signatures across cohorts, signifying the importance of accounting for these factors in comparative analyses of ASD and NT-associated gut profiles. Such studies will advance the understanding of different patient groups to deliver appropriate therapeutics by identifying microbiome traits germane to the specific ASD phenotype.
-
-[Source](https://www.nature.com/articles/s41598-022-21327-9)
-
-10.1038/s41598-022-21327-9
+[Source](https://twitter.com/search?q=%23MVIF&src=typed_query&f=live)
 
 ---
 
-## The role of the gut microbiota in health and cardiovascular diseases.
- 13.10.2022, _L Wang, S Wang, Q Zhang, C He, C Fu, Q Wei_
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
 
 
-The gut microbiota is critical to human health, such as digesting nutrients, forming the intestinal epithelial barrier, regulating immune function, producing vitamins and hormones, and producing metabolites to interact with the host. Meanwhile, increasing evidence indicates that the gut microbiota has a strong correlation with the occurrence, progression and treatment of cardiovascular diseases (CVDs). In patients with CVDs and corresponding risk factors, the composition and ratio of gut microbiota have significant differences compared with their healthy counterparts. Therefore, gut microbiota dysbiosis, gut microbiota-generated metabolites, and the related signaling pathway may serve as explanations for some of the mechanisms about the occurrence and development of CVDs. Several studies have also demonstrated that many traditional and latest therapeutic treatments of CVDs are associated with the gut microbiota and its generated metabolites and related signaling pathways. Given that information, we summarized the latest advances in the current research regarding the effect of gut microbiota on health, the main cardiovascular risk factors, and CVDs, highlighted the roles and mechanisms of several metabolites, and introduced corresponding promising treatments for CVDs regarding the gut microbiota. Therefore, this review mainly focuses on exploring the role of gut microbiota related metabolites and their therapeutic potential in CVDs, which may eventually provide better solutions in the development of therapeutic treatment as well as the prevention of CVDs.
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
 
-[Source](https://link.springer.com/article/10.1186/s43556-022-00091-2)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s43556-022-00091-2
-
----
-
-## Airborne polystyrene microplastics and nanoplastics induce nasal and lung microbial dysbiosis in mice.
- 10.10.2022, _H Zha, J Xia, S Li, J Lv, A Zhuge, R Tang, S Wang, K Wang, K Chang, L Li_
-
-
-Microplastics (MP) and nanoplastics (NP) have been found in multiple environments and creatures. However, their effects on the airway microbiota still remain poorly understood. In this study, a series of bioinformatic and statistical analyses were carried out to explore the influence of airborne MP and NP on the nasal and lung microbiota in mice. Both MP and NP were capable of inducing nasal microbial dysbiosis, and MP had a stronger influence on the lung microbiota than NP. Multiple nasal and lung bacteria were associated with MP and NP groups, among which nasal Staphylococcus and lung Roseburia were most associated with MP group, while nasal Prevotella and lung unclassified_Muribaculaceae were most associated with NP group. The nasal Staphylococcus, lung Roseburia, lung Eggerthella and lung Corynebacterium were associated with both MP and NP groups, which were potential biomarkers of micro/nanoplastics-induced airway dysbiosis. SAR11_Clade_Ia and SAR11_Clade_II were associated with both nasal and lung microbiota in MP group, while no such bacterium was determined in NP group. The relevant results suggest that both airborne MP and NP could induce nasal and lung microbial dysbiosis, and the relevant preventative and curable strategies deserve further investigations.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S004565352203257X)
-
-10.1016/j.chemosphere.2022.136764
+10.3390/ijerph19010099
 
 ---
 
-## Effects of urban particulate matter on gut microbiome and partial schizophrenia-like symptoms in mice: Evidence from shotgun metagenomic and metabolomic profiling.
- 10.10.2022, _W Yi, Y Ji, H Gao, S Luo, R Pan, J Song, Y He, Y Li, Y Wu, S Yan, Y Liang, X Sun, X Jin, L Mei, J Cheng, H Su_
+## #MVIF
 
-
-Epidemiological evidence reported that particulate matter (PM) was associated with increased schizophrenia (SCZ) risk. Disturbance of gut microbiome was involved in SCZ. However, it remains unclear whether PM induces SCZ-like symptoms and how gut microbiome regulates them. Therefore, a multi-omics animal experiment was conducted to verify how urban PM induces SCZ-like behavior and altered gut microbiota and metabolic pathways.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S004896972206404X)
-
-10.1016/j.scitotenv.2022.159305
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Lactococcus lactis’ Effect on the Intestinal Microbiota of Streptococcus agalactiae-Infected Zebrafish (Danio rerio)
+## @MicrobiomDigest
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.01128-22)
-
----
-
-## Exploring AI-2-mediated interspecies communications within rumen microbial communities.
- 11.10.2022, _X Liu, Q Liu, S Sun, H Sun, Y Wang, X Shen, L Zhang_
-
-
-_Animals, Bacteria, Bacterial Proteins, Histidine, Homoserine, Lactones, Methyl-Accepting Chemotaxis Proteins, Microbiota, Phosphoric Diester Hydrolases, Phosphoric Monoester Hydrolases, Rumen, Serine, Threonine_
-The rumen is an ecosystem with a complex microbial microflora in which microbes initiate biofilm formation by attaching to plant surfaces for plant degradation and are capable of converting feed to nutrients and energy via microbial processes. Quorum sensing (QS) is a cell-to-cell communication mechanism that allows microbes to synchronize the expression of multiple genes in the group to perform social behaviors such as chemotaxis and biofilm formation using self-synthesized QS signaling molecules. Whereas QS has been extensively studied in model microorganisms under pure culture conditions, QS mechanisms are poorly understood in complex bacterial communities, such as the rumen microflora, in which cell-to-cell communication may be common.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01367-z)
-
-10.1186/s40168-022-01367-z
+[Source](https://twitter.com/MicrobiomDigest?ref_src=twsrc%5Etfw)
 
 ---
 
-## Microbiome-driven breeding strategy potentially improves beef fatty acid profile benefiting human health and reduces methane emissions.
- 12.10.2022, _M Martínez-Álvaro, J Mattock, M Auffret, Z Weng, CA Duthie, RJ Dewhurst, MA Cleveland, M Watson, R Roehe_
+## @CornetLuc3
 
-
-_Animal Feed, Animals, Breeding, Cattle, Diet, Fatty Acids, Fatty Acids, Unsaturated, Lipopolysaccharides, Methane, Microbiota, Rumen_
-Healthier ruminant products can be achieved by adequate manipulation of the rumen microbiota to increase the flux of beneficial fatty acids reaching host tissues. Genomic selection to modify the microbiome function provides a permanent and accumulative solution, which may have also favourable consequences in other traits of interest (e.g. methane emissions). Possibly due to a lack of data, this strategy has never been explored.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01352-6)
-
-10.1186/s40168-022-01352-6
+[Source](https://twitter.com/CornetLuc3?ref_src=twsrc%5Etfw)
 
 ---
 
-## Chicken intestinal microbiota modulation of resistance to nephropathogenic infectious bronchitis virus infection through IFN-I.
- 07.10.2022, _HC Yin, ZD Liu, WW Zhang, QZ Yang, TF Yu, XJ Jiang_
+## @agustinmolinna
 
-
-_Animals, Anti-Bacterial Agents, Chickens, Gastrointestinal Microbiome, Infectious bronchitis virus, Leukocytes, Mononuclear, Mammals, Poultry Diseases_
-Mammalian intestinal microbiomes are necessary for antagonizing systemic viral infections. However, very few studies have identified whether poultry commensal bacteria play a crucial role in protecting against systemic viral infections. Nephropathogenic infectious bronchitis virus (IBV) is a pathogenic coronavirus that causes high morbidity and multiorgan infection tropism in chickens.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01348-2)
-
-10.1186/s40168-022-01348-2
+[Source](https://twitter.com/agustinmolinna?ref_src=twsrc%5Etfw)
 
 ---
 
-## Functionally-explicit sampling can answer key questions about the specificity of plant-microbe interactions.
- 11.10.2022, _SM Fleishman, DM Eissenstat, TH Bell, M Centinari_
+## @anniegwest
 
-
-The rhizosphere is a nexus for plant-microbe interactions and, as a host-structured environment, a location of high activity for distinct microbes and plant species. Although our insights into this habitat have exploded in recent years, we are still limited in our ability to answer key questions about the specificity of these root-microbial relationships. In particular, it can be difficult to confirm or reject microbiome heritability in many plant systems and to pinpoint which microbial taxa are key to plant functioning. Like other host-structured environments, the rhizosphere is structurally, chemically, and biologically complex, driven largely by differences in root anatomy, location, and function. In this Correspondence, we describe a review of 377 "rhizosphere microbiome" research papers and demonstrate how matching a sampling method to the biological question can advance our understanding of host-microbe interactions in a functionally heterogeneous environment. We found that the vast majority of studies (92%) pool all roots from a root system during sampling, ignoring variation in microbial composition between roots of different function and limiting insight into key root-microbial relationships. Furthermore, approaches for removing root-associated microbes are highly variable and non-standard, complicating multi-study analyses. Our understanding of the strength and nature of host-microbe relationships in heterogenous host-microbiome environments can be clarified by targeting sampling to locations of high interaction. While the high complexity of the rhizosphere creates logistical challenges, we suggest that unambiguous language and refined approaches will improve our ability to match methods to research questions and advance our understanding of the specificity of plant-microbial interactions.
-
-[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00445-x)
-
-10.1186/s40793-022-00445-x
+[Source](https://twitter.com/anniegwest?ref_src=twsrc%5Etfw)
 
 ---
 
-## Dissecting the cotranscriptome landscape of plants and their microbiota.
- 11.10.2022, _T Nobori, Y Cao, F Entila, E Dahms, Y Tsuda, R Garrido-Oter, K Tsuda_
+## https://t.co/Af8tkmNw5J
 
-
-Interactions between plants and neighboring microbial species are fundamental elements that collectively determine the structure and function of the plant microbiota. However, the molecular basis of such interactions is poorly characterized. Here, we colonize Arabidopsis leaves with nine plant-associated bacteria from all major phyla of the plant microbiota and profile cotranscriptomes of plants and bacteria six hours after inoculation. We detect both common and distinct cotranscriptome signatures among plant-commensal pairs. In planta responses of commensals are similar to those of a disarmed pathogen characterized by the suppression of genes involved in general metabolism in contrast to a virulent pathogen. We identify genes that are enriched in the genome of plant-associated bacteria and induced in planta, which may be instrumental for bacterial adaptation to the host environment and niche separation. This study provides insights into how plants discriminate among bacterial strains and lays the foundation for in-depth mechanistic dissection of plant-microbiota interactions.
-
-[Source](https://www.embopress.org/doi/full/10.15252/embr.202255380)
-
-10.15252/embr.202255380
+[Source](https://t.co/Af8tkmNw5J)
 
 ---
 
-## MiMeDB: the Human Microbial Metabolome Database.
- 10.10.2022, _DS Wishart, E Oler, H Peters, A Guo, S Girod, S Han, S Saha, VW Lui, M LeVatte, V Gautam, R Kaddurah-Daouk, N Karu_
+## #microbiome
 
-
-The Human Microbial Metabolome Database (MiMeDB) (https://mimedb.org) is a comprehensive, multi-omic, microbiome resource that connects: (i) microbes to microbial genomes; (ii) microbial genomes to microbial metabolites; (iii) microbial metabolites to the human exposome and (iv) all of these 'omes' to human health. MiMeDB was established to consolidate the growing body of data connecting the human microbiome and the chemicals it produces to both health and disease. MiMeDB contains detailed taxonomic, microbiological and body-site location data on most known human microbes (bacteria and fungi). This microbial data is linked to extensive genomic and proteomic sequence data that is closely coupled to colourful interactive chromosomal maps. The database also houses detailed information about all the known metabolites generated by these microbes, their structural, chemical and spectral properties, the reactions and enzymes responsible for these metabolites and the primary exposome sources (food, drug, cosmetic, pollutant, etc.) that ultimately lead to the observed microbial metabolites in humans. Additional, extensively referenced data about the known or presumptive health effects, measured biosample concentrations and human protein targets for these compounds is provided. All of this information is housed in richly annotated, highly interactive, visually pleasing database that has been designed to be easy to search, easy to browse and easy to navigate. Currently MiMeDB contains data on 626 health effects or bioactivities, 1904 microbes, 3112 references, 22 054 reactions, 24 254 metabolites or exposure chemicals, 648 861 MS and NMR spectra, 6.4 million genes and 7.6 billion DNA bases. We believe that MiMeDB represents the kind of integrated, multi-omic or systems biology database that is needed to enable comprehensive multi-omic integration.
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac868/6754917)
-
-10.1093/nar/gkac868
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## gutMDisorder v2.0: a comprehensive database for dysbiosis of gut microbiota in phenotypes and interventions.
- 10.10.2022, _C Qi, Y Cai, K Qian, X Li, J Ren, P Wang, T Fu, T Zhao, L Cheng, L Shi, X Zhang_
+## pic.twitter.com/uvXiZXL1yQ
+
+[Source](https://t.co/uvXiZXL1yQ)
+
+---
+
+## October 10, 2022
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
+
+---
+
+## Review: Microbiome epidemiology and association studies in human health 
+
+[Source](https://www.nature.com/articles/s41576-022-00529-x)
+
+---
+
+## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study 
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275275)
+
+---
+
+## Functional screens of barcoded expression libraries uncover new gene functions in carbon utilization among gut Bacteroidales
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.10.10.511384v2)
+
+---
+
+## @AdamArkinLab
+
+[Source](https://twitter.com/AdamArkinLab?ref_src=twsrc%5Etfw)
+
+---
+
+## #functionalgenomics
+
+[Source](https://twitter.com/hashtag/functionalgenomics?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #microbiome
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## #DNAbarcoding
+
+[Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/tMKlN5cHQU
+
+[Source](https://t.co/tMKlN5cHQU)
+
+---
+
+## October 12, 2022
+
+[Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
+
+---
+
+## Advancing human gut microbiota research by considering gut transit time
+
+[Source](https://gut.bmj.com/content/early/2022/09/28/gutjnl-2022-328166)
+
+---
+
+## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease
+
+[Source](https://academic.oup.com/ecco-jcc/article/15/6/1068/6041235)
+
+---
+
+## Influence of the microbiome, diet and genetics on inter-individual variation in the human plasma metabolome
+
+[Source](https://www.nature.com/articles/s41591-022-02014-8)
+
+---
+
+## @NatureMedicine
+
+[Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/yFzCjJnOMB
+
+[Source](https://t.co/yFzCjJnOMB)
+
+---
+
+## October 10, 2022
+
+[Source](https://twitter.com/LianminChen/status/1579492045055741953?ref_src=twsrc%5Etfw)
+
+---
+
+## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status
+
+[Source](https://www.nature.com/articles/s41598-022-20608-7)
+
+---
+
+## More than just hitchhikers: a survey of bacterial communities associated with diatoms originating from sea turtles Get access Arrow 
+
+[Source](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiac104/6693935)
+
+---
+
+## @FEMSmicro
+
+[Source](https://twitter.com/FEMSmicro?ref_src=twsrc%5Etfw)
+
+---
+
+## @ASSEMBLE_Plus
+
+[Source](https://twitter.com/ASSEMBLE_Plus?ref_src=twsrc%5Etfw)
+
+---
+
+## @hrzz_science
+
+[Source](https://twitter.com/hrzz_science?ref_src=twsrc%5Etfw)
+
+---
+
+## @Turtle_BIOME
+
+[Source](https://twitter.com/Turtle_BIOME?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/w3z4SjEzuc
+
+[Source](https://t.co/w3z4SjEzuc)
+
+---
+
+## Parental refusal and hesitancy of vaccinating children against COVID-19: Findings from a nationally representative sample of parents in the U.S.
+ 13.10.2022, _T Panchalingam, Y Shi_
 
 
-Gut microbiota plays a significant role in maintaining host health, and conversely, disorders potentially lead to dysbiosis, an imbalance in the composition of the gut microbial community. Intervention approaches, such as medications, diets, and several others, also alter the gut microbiota in either a beneficial or harmful direction. In 2020, the gutMDisorder was developed to facilitate researchers in the investigation of dysbiosis of gut microbes as occurs in various disorders as well as with therapeutic interventions. The database has been updated this year, following revision of previous publications and newly published reports to manually integrate confirmed associations under multitudinous conditions. Additionally, the microbial contents of downloaded gut microbial raw sequencing data were annotated, the metadata of the corresponding hosts were manually curated, and the interactive charts were developed to enhance visualization. The improvements have assembled into gutMDisorder v2.0, a more advanced search engine and an upgraded web interface, which can be freely accessed via http://bio-annotation.cn/gutMDisorder/.
+The uptake rate of COVID-19 vaccines among children remains low in the U.S. This study aims to 1) identify sociodemographic and behavioral factors influencing parental refusal of vaccinating children, and 2) quantify the relative importance of vaccine characteristics in parental hesitancy of vaccinating children. An online survey was conducted from October to November 2021 among a probability-based, representative sample of 1456 parents with children under age 18. The survey included a discrete choice experiment asking parents to choose between two hypothetical COVID-19 vaccine alternatives with varying levels of characteristics in 10 hypothetical scenarios. Logistic regressions were used to estimate parental refusal (refused to choose any vaccine alternatives in all hypothetical scenarios) and random parameter logit regressions were used to estimate parental hesitancy (choice of vaccine alternatives depended on vaccine characteristics) of vaccinating children. About 20% parents refused to vaccinate children. The refusal is predicted by parents' sociodemographic characteristics, political orientation, vaccination status, and parents' and children's previous exposure with COVID-19. Among parents who were willing to consider vaccinating children, the most important vaccine characteristics are risk of severe side effects (31.2% relative importance) and effectiveness (30.7%), followed by protection duration (22.6%), local coverage (9.4%), and hospitalization rate of unvaccinated children (6.1%). Our findings imply that policymakers and public health professionals could develop outreach programs at community level to encourage specific subgroups and focus on vaccination depoliticization. Effectively communicating the low risk of severe side effects and high effectiveness of the vaccines may relieve some of the parental hesitancy.
 
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac871/6754909)
+[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
 
-10.1093/nar/gkac871
+10.1016/j.ypmed.2022.107288
+
+---
+
+## October 10, 2022
+
+[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
+
+---
+
+## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change.
+ 10.10.2022, _BD Batista, BK Singh_
+
+
+
+[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.16231)
+
+10.1111/1462-2920.16231
+
+---
+
+## Defending Earth's terrestrial microbiome.
+ 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
+
+
+Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
+
+[Source](https://www.nature.com/articles/s41564-022-01228-3)
+
+10.1038/s41564-022-01228-3
+
+---
+
+## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database.
+ 11.10.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
+
+
+The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
+
+[Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac672/6758240)
+
+10.1093/bioinformatics/btac672
+
+---
+
+## binny: an automated binning algorithm to recover high-quality genomes from complex metagenomic datasets
+
+[Source](https://www.biorxiv.org/content/10.1101/2021.12.22.473795v6)
+
+---
+
+## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
+ 12.10.2022, _JL Espinoza, CL Dupont_
+
+
+With the advent of metagenomics, the importance of microorganisms and how their interactions are relevant to ecosystem resilience, sustainability, and human health has become evident. Cataloging and preserving biodiversity is paramount not only for the Earth's natural systems but also for discovering solutions to challenges that we face as a growing civilization. Metagenomics pertains to the in silico study of all microorganisms within an ecological community in situ, however, many software suites recover only prokaryotes and have limited to no support for viruses and eukaryotes.
+
+[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04973-8)
+
+10.1186/s12859-022-04973-8
+
+---
+
+## #microber2022
+
+[Source](https://twitter.com/hashtag/microber2022?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/Xk1ntqA76a
+
+[Source](https://t.co/Xk1ntqA76a)
+
+---
+
+## October 11, 2022
+
+[Source](https://twitter.com/LizahvdAart/status/1579840049776308225?ref_src=twsrc%5Etfw)
 
 ---
 
