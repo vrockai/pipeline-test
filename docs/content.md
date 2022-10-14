@@ -222,56 +222,27 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Parental refusal and hesitancy of vaccinating children against COVID-19: Findings from a nationally representative sample of parents in the U.S.
- 13.10.2022, _T Panchalingam, Y Shi_
-
-
-The uptake rate of COVID-19 vaccines among children remains low in the U.S. This study aims to 1) identify sociodemographic and behavioral factors influencing parental refusal of vaccinating children, and 2) quantify the relative importance of vaccine characteristics in parental hesitancy of vaccinating children. An online survey was conducted from October to November 2021 among a probability-based, representative sample of 1456 parents with children under age 18. The survey included a discrete choice experiment asking parents to choose between two hypothetical COVID-19 vaccine alternatives with varying levels of characteristics in 10 hypothetical scenarios. Logistic regressions were used to estimate parental refusal (refused to choose any vaccine alternatives in all hypothetical scenarios) and random parameter logit regressions were used to estimate parental hesitancy (choice of vaccine alternatives depended on vaccine characteristics) of vaccinating children. About 20% parents refused to vaccinate children. The refusal is predicted by parents' sociodemographic characteristics, political orientation, vaccination status, and parents' and children's previous exposure with COVID-19. Among parents who were willing to consider vaccinating children, the most important vaccine characteristics are risk of severe side effects (31.2% relative importance) and effectiveness (30.7%), followed by protection duration (22.6%), local coverage (9.4%), and hospitalization rate of unvaccinated children (6.1%). Our findings imply that policymakers and public health professionals could develop outreach programs at community level to encourage specific subgroups and focus on vaccination depoliticization. Effectively communicating the low risk of severe side effects and high effectiveness of the vaccines may relieve some of the parental hesitancy.
-
-[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
-
-10.1016/j.ypmed.2022.107288
-
----
-
 ## October 10, 2022
 
 [Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
 
 ---
 
-## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change.
- 10.10.2022, _BD Batista, BK Singh_
-
-
+## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.16231)
 
-10.1111/1462-2920.16231
-
 ---
 
-## Defending Earth's terrestrial microbiome.
- 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
-
-
-Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
+## Defending Earth’s terrestrial microbiome 
 
 [Source](https://www.nature.com/articles/s41564-022-01228-3)
 
-10.1038/s41564-022-01228-3
-
 ---
 
-## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database.
- 11.10.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
-
-
-The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
+## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database 
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac672/6758240)
-
-10.1093/bioinformatics/btac672
 
 ---
 
@@ -281,15 +252,9 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
- 12.10.2022, _JL Espinoza, CL Dupont_
-
-
-With the advent of metagenomics, the importance of microorganisms and how their interactions are relevant to ecosystem resilience, sustainability, and human health has become evident. Cataloging and preserving biodiversity is paramount not only for the Earth's natural systems but also for discovering solutions to challenges that we face as a growing civilization. Metagenomics pertains to the in silico study of all microorganisms within an ecological community in situ, however, many software suites recover only prokaryotes and have limited to no support for viruses and eukaryotes.
+## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04973-8)
-
-10.1186/s12859-022-04973-8
 
 ---
 
