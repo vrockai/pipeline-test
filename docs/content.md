@@ -228,21 +228,38 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change
+## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change.
+ 10.10.2022, _BD Batista, BK Singh_
+
+
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.16231)
 
+10.1111/1462-2920.16231
+
 ---
 
-## Defending Earth’s terrestrial microbiome 
+## Defending Earth's terrestrial microbiome.
+ 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
+
+
+Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
 
 [Source](https://www.nature.com/articles/s41564-022-01228-3)
 
+10.1038/s41564-022-01228-3
+
 ---
 
-## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database 
+## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database.
+ 11.10.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
+
+
+The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac672/6758240)
+
+10.1093/bioinformatics/btac672
 
 ---
 
@@ -252,9 +269,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes
+## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
+ 12.10.2022, _JL Espinoza, CL Dupont_
+
+
+With the advent of metagenomics, the importance of microorganisms and how their interactions are relevant to ecosystem resilience, sustainability, and human health has become evident. Cataloging and preserving biodiversity is paramount not only for the Earth's natural systems but also for discovering solutions to challenges that we face as a growing civilization. Metagenomics pertains to the in silico study of all microorganisms within an ecological community in situ, however, many software suites recover only prokaryotes and have limited to no support for viruses and eukaryotes.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04973-8)
+
+10.1186/s12859-022-04973-8
 
 ---
 
