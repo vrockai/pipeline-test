@@ -36,15 +36,9 @@ Integrative analysis approaches of metagenomics and metabolomics have been widel
 
 ---
 
-## Gut-Testis Axis: Microbiota Prime Metabolome To Increase Sperm Quality in Young Type 2 Diabetes.
- 10.10.2022, _X Yan, Y Feng, Y Hao, R Zhong, Y Jiang, X Tang, D Lu, H Fang, M Agarwal, L Chen, Y Zhao, H Zhang_
-
-
-Young type 2 diabetes (T2D) affects 15% of the population, with a noted increase in cases, and T2D-related male infertility has become a serious issue in recent years. The current study aimed to explore the improvements of alginate oligosaccharide (AOS)-modified gut microbiota on semen quality in T2D. The T2D was established in young mice of 5 weeks of age with a blood glucose level of 21.2 ± 2.2 mmol/L, while blood glucose was 8.7 ± 1.1 mM in control animals. We discovered that fecal microbiota transplantation (FMT) of AOS-improved microbiota (A10-FMT) significantly decreased blood glucose, while FMT of gut microbiota from control animals (Con-FMT) did not. Sperm concentration and motility were decreased in T2D to 10% to 20% of those in the control group, while A10-FMT brought about a recovery of around 5- to 10-fold. A10-FMT significantly increased small intestinal Allobaculum, while it elevated small intestinal and cecal Lactobacillus in some extent, blood butyric acid and derivatives and eicosapentaenoic acid (EPA), and testicular docosahexaenoic acid (DHA), EPA, and testosterone and its derivatives. Furthermore, A10-FMT improved liver functions and systemic antioxidant environments. Most importantly, A10-FMT promoted spermatogenesis through the improvement in the expression of proteins important for spermatogenesis to increase sperm concentration and motility. The underlying mechanisms may be that A10-FMT increased gut-beneficial microbes Lactobacillus and Allobaculum to elevate blood and/or testicular butyric acid, DHA, EPA, and testosterone to promote spermatogenesis and thus to ameliorate sperm concentration and motility. AOS-improved gut microbes could emerge as attractive candidates to treat T2D-diminished semen quality. IMPORTANCE A10-FMT benefits gut microbiota, liver function, and systemic environment via improvement in blood metabolome, consequently to favor the testicular microenvironment to improve spermatogenesis process and to boost T2D-diminished semen quality. We established that AOS-improved gut microbiota may be used to boost T2D-decreased semen quality and metabolic disease-related male subfertility.
+## Gut-Testis Axis: Microbiota Prime Metabolome To Increase Sperm Quality in Young Type 2 Diabetes
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.01423-22)
-
-10.1128/spectrum.01423-22
 
 ---
 
@@ -52,6 +46,7 @@ Young type 2 diabetes (T2D) affects 15% of the population, with a noted increase
  13.10.2022, _KA West, X Yin, EM Rutherford, B Wee, J Choi, BS Chrisman, KL Dunlap, RL Hannibal, W Hartono, M Lin, E Raack, K Sabino, Y Wu, DP Wall, MM David, K Dabbagh, TZ DeSantis, S Iwai_
 
 
+_Autism Spectrum Disorder, Bacteria, Child, Gastrointestinal Microbiome, Humans, Metagenome, Microbiota_
 Observational studies have shown that the composition of the human gut microbiome in children diagnosed with Autism Spectrum Disorder (ASD) differs significantly from that of their neurotypical (NT) counterparts. Thus far, reported ASD-specific microbiome signatures have been inconsistent. To uncover reproducible signatures, we compiled 10 publicly available raw amplicon and metagenomic sequencing datasets alongside new data generated from an internal cohort (the largest ASD cohort to date), unified them with standardized pre-processing methods, and conducted a comprehensive meta-analysis of all taxa and variables detected across multiple studies. By screening metadata to test associations between the microbiome and 52 variables in multiple patient subsets and across multiple datasets, we determined that differentially abundant taxa in ASD versus NT children were dependent upon age, sex, and bowel function, thus marking these variables as potential confounders in case-control ASD studies. Several taxa, including the strains Bacteroides stercoris t__190463 and Clostridium M bolteae t__180407, and the species Granulicatella elegans and Massilioclostridium coli, exhibited differential abundance in ASD compared to NT children only after subjects with bowel dysfunction were removed. Adjusting for age, sex and bowel function resulted in adding or removing significantly differentially abundant taxa in ASD-diagnosed individuals, emphasizing the importance of collecting and controlling for these metadata. We have performed the largest (n = 690) and most comprehensive systematic analysis of ASD gut microbiome data to date. Our study demonstrated the importance of accounting for confounding variables when designing statistical comparative analyses of ASD- and NT-associated gut bacterial profiles. Mitigating these confounders identified robust microbial signatures across cohorts, signifying the importance of accounting for these factors in comparative analyses of ASD and NT-associated gut profiles. Such studies will advance the understanding of different patient groups to deliver appropriate therapeutics by identifying microbiome traits germane to the specific ASD phenotype.
 
 [Source](https://www.nature.com/articles/s41598-022-21327-9)
@@ -61,7 +56,7 @@ Observational studies have shown that the composition of the human gut microbiom
 ---
 
 ## The role of the gut microbiota in health and cardiovascular diseases.
- 12.10.2022, _L Wang, S Wang, Q Zhang, C He, C Fu, Q Wei_
+ 13.10.2022, _L Wang, S Wang, Q Zhang, C He, C Fu, Q Wei_
 
 
 The gut microbiota is critical to human health, such as digesting nutrients, forming the intestinal epithelial barrier, regulating immune function, producing vitamins and hormones, and producing metabolites to interact with the host. Meanwhile, increasing evidence indicates that the gut microbiota has a strong correlation with the occurrence, progression and treatment of cardiovascular diseases (CVDs). In patients with CVDs and corresponding risk factors, the composition and ratio of gut microbiota have significant differences compared with their healthy counterparts. Therefore, gut microbiota dysbiosis, gut microbiota-generated metabolites, and the related signaling pathway may serve as explanations for some of the mechanisms about the occurrence and development of CVDs. Several studies have also demonstrated that many traditional and latest therapeutic treatments of CVDs are associated with the gut microbiota and its generated metabolites and related signaling pathways. Given that information, we summarized the latest advances in the current research regarding the effect of gut microbiota on health, the main cardiovascular risk factors, and CVDs, highlighted the roles and mechanisms of several metabolites, and introduced corresponding promising treatments for CVDs regarding the gut microbiota. Therefore, this review mainly focuses on exploring the role of gut microbiota related metabolites and their therapeutic potential in CVDs, which may eventually provide better solutions in the development of therapeutic treatment as well as the prevention of CVDs.
@@ -96,15 +91,9 @@ Epidemiological evidence reported that particulate matter (PM) was associated wi
 
 ---
 
-## Lactococcus lactis' Effect on the Intestinal Microbiota of Streptococcus agalactiae-Infected Zebrafish (Danio rerio).
- 10.10.2022, _C Tan, Q Li, X Yang, J Chen, Q Zhang, X Deng_
-
-
-Streptococcus agalactiae is a common pathogen in aquaculture that disrupts the balance of the intestinal microbiota and threatens fish health, causing enormous losses to the aquaculture industry. In this study, we isolated and screened a Lactococcus lactis KUST48 (LLK48) strain with antibacterial effect against S. agalactiae in vitro and used it as a potential probiotic to explore its therapeutic effect on zebrafish (Danio rerio) infected with S. agalactiae. This study divided zebrafish into 3 groups: control group, injected with phosphate-buffered saline; infection group, injected with S. agalactiae; and treatment group, treated with LLK48 after S. agalactiae injection. Then, the 16S rRNA gene sequences of the intestinal microbiota of these 3 groups were sequenced using Illumina high-throughput sequencing technology. The results showed that the relative abundance of intestinal bacteria was significantly decreased in the infection group, and a high relative abundance of S. agalactiae was observed. The relative abundance of the intestinal microbiota was increased in the treatment group, with a decrease in the relative abundance of S. agalactiae compared to that in the control group. In the Cluster of Orthologous Groups of proteins function classification, the relative abundance of each biological function in the infection group was significantly lower than that of the control and treatment groups, showing that LLK48 has a positive therapeutic effect on zebrafish infected with S. agalactiae. This study provides a foundation for exploring the pathogenic mechanism of S. agalactiae on fish and their intestinal symbionts, and also presents a new approach for the treatment of S. agalactiae infections in fish aquaculture systems. IMPORTANCE L. lactis KUST48 (LLK48) with a bacteriostatic effect against S. agalactiae was isolated from tilapia intestinal tracts. S. agalactiae infection significantly reduced the relative abundance of intestinal bacteria and various physiological functions in zebrafish intestines. LLK48 demonstrated infection and subsequent therapeutic effects on the S. agalactiae infection in the zebrafish intestine. Therefore, the potential probiotic LLK48 can be considered as a therapeutic treatment for S. agalactiae infections in aquaculture, which can reduce the use of antibiotics and help maintain fish health.
+## Lactococcus lactis’ Effect on the Intestinal Microbiota of Streptococcus agalactiae-Infected Zebrafish (Danio rerio)
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.01128-22)
-
-10.1128/spectrum.01128-22
 
 ---
 
@@ -134,9 +123,16 @@ Healthier ruminant products can be achieved by adequate manipulation of the rume
 
 ---
 
-## Chicken intestinal microbiota modulation of resistance to nephropathogenic infectious bronchitis virus infection through IFN-I
+## Chicken intestinal microbiota modulation of resistance to nephropathogenic infectious bronchitis virus infection through IFN-I.
+ 07.10.2022, _HC Yin, ZD Liu, WW Zhang, QZ Yang, TF Yu, XJ Jiang_
+
+
+_Animals, Anti-Bacterial Agents, Chickens, Gastrointestinal Microbiome, Infectious bronchitis virus, Leukocytes, Mononuclear, Mammals, Poultry Diseases_
+Mammalian intestinal microbiomes are necessary for antagonizing systemic viral infections. However, very few studies have identified whether poultry commensal bacteria play a crucial role in protecting against systemic viral infections. Nephropathogenic infectious bronchitis virus (IBV) is a pathogenic coronavirus that causes high morbidity and multiorgan infection tropism in chickens.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01348-2)
+
+10.1186/s40168-022-01348-2
 
 ---
 
