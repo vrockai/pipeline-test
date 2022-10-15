@@ -84,33 +84,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
- 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
-
-
-Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
-
-10.1136/bmjopen-2022-061413
-
----
-
 ## October 10, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
-
----
-
-## Microbiome epidemiology and association studies in human health.
- 05.10.2022, _H VanEvery, EA Franzosa, LH Nguyen, C Huttenhower_
-
-
-Studies of the human microbiome share both technical and conceptual similarities with genome-wide association studies and genetic epidemiology. However, the microbiome has many features that differ from genomes, such as its temporal and spatial variability, highly distinct genetic architecture and person-to-person variation. Moreover, there are various potential mechanisms by which distinct aspects of the human microbiome can relate to health outcomes. Recent advances, including next-generation sequencing and the proliferation of multi-omic data types, have enabled the exploration of the mechanisms that connect microbial communities to human health. Here, we review the ways in which features of the microbiome at various body sites can influence health outcomes, and we describe emerging opportunities and future directions for advanced microbiome epidemiology.
-
-[Source](https://www.nature.com/articles/s41576-022-00529-x)
-
-10.1038/s41576-022-00529-x
 
 ---
 
@@ -120,16 +96,9 @@ Studies of the human microbiome share both technical and conceptual similarities
 
 ---
 
-## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study.
- 13.10.2022, _AE Galena, J Chai, J Zhang, M Bednarzyk, D Perez, JD Ochrietor, A Jahan-Mihan, AY Arikawa_
-
-
-_Adolescent, Adult, Aged, Biomarkers, C-Reactive Protein, Feasibility Studies, Female, Fruit, Gastrointestinal Microbiome, Humans, Lipopolysaccharides, Middle Aged, Pilot Projects, RNA, Ribosomal, 16S, Tumor Necrosis Factor-alpha, Vegetables, Young Adult_
-The primary objective of this pilot study was to investigate the feasibility of regular consumption of fermented vegetables for six weeks on markers of inflammation and the composition of the gut microflora in women (clinical trials ID: NTC03407794). Thirty-one women were randomized into one of three groups: 100 g/day of fermented vegetables (group A), 100 g/day pickled vegetables (group B), or no vegetables (group C) for six weeks. Dietary intake was assessed by a food frequency questionnaire and blood and stool samples were provided before and after the intervention for measurement of C-reactive protein (CRP), tumor necrosis factor alpha (TNF-α), and lipopolysaccharide binding protein (LBP). Next-generation sequencing of the V4 region of the 16S rRNA gene was performed on the Illumina MiSeq platform. Participants' ages ranged between 18 and 69 years. Both groups A and B had a mean daily consumption of 91g of vegetables for 32 and 36 days, respectively. Serum CRP ranged between 0.9 and 265 ng/mL (SD = 92.4) at baseline, while TNF-α and LBP concentrations ranged between 0 and 9 pg/mL (SD = 2.3), and 7 and 29 μg/mL (SD = 4.4), respectively. There were no significant changes in levels of inflammatory markers among groups. At timepoint 2, group A showed an increase in Faecalibacterium prausnitzii (P = 0.022), a decrease in Ruminococcus torques (P&lt;0.05), and a trend towards greater alpha diversity measured by the Shannon index (P = 0.074). The findings indicate that consumption of ~100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in the composition of the gut microbiota. Future trials should determine whether consumption of fermented vegetables is an effective strategy against gut dysbiosis.
+## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275275)
-
-10.1371/journal.pone.0275275
 
 ---
 
@@ -157,18 +126,6 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
-## Ancyronyx Erichson, 1847 (Coleoptera, Elmidae) from Mindoro, Philippines, with description of the larvae and two new species using DNA sequences for the assignment of the developmental stages.
- 21.10.2021, _H Freitag_
-
-
-Ancyronyx buhid sp. n. and Ancyronyx tamaraw sp. n. are described based on adults and larvae, matched using their cox1 or cob DNA sequence data. Additional records of Ancyronyx schillhammeri Jäch, 1994 and Ancyronyx minerva Freitag &amp; Jäch, 2007 from Mindoro are listed. The previously unknown larva of Ancyronyx schillhammeri is also described here, aided by cox1 data. The new species and larval stages are described in detail and illustrated by SEM and stacked microscopic images. Keys to the adult and larval Ancyronyx species of Mindoro and an updated checklist of Philippine Ancyronyx species are provided. The usefulness as bioindicators, the phylogenetic relationships and biogeographic aspects affecting the distribution patterns are briefly discussed.
-
-[Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
-
-10.3897/zookeys.321.5395
-
----
-
 ## #DNAbarcoding
 
 [Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
@@ -181,46 +138,21 @@ Ancyronyx buhid sp. n. and Ancyronyx tamaraw sp. n. are described based on adult
 
 ---
 
-## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
- 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
-
-
-Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
-
-[Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
-
-10.1136/bmjopen-2022-061413
-
----
-
 ## October 12, 2022
 
 [Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
 
 ---
 
-## Advancing human gut microbiota research by considering gut transit time.
- 28.09.2022, _N Procházková, G Falony, LO Dragsted, TR Licht, J Raes, HM Roager_
-
-
-Accumulating evidence indicates that gut transit time is a key factor in shaping the gut microbiota composition and activity, which are linked to human health. Both population-wide and small-scale studies have identified transit time as a top covariate contributing to the large interindividual variation in the faecal microbiota composition. Despite this, transit time is still rarely being considered in the field of the human gut microbiome. Here, we review the latest research describing how and why whole gut and segmental transit times vary substantially between and within individuals, and how variations in gut transit time impact the gut microbiota composition, diversity and metabolism. Furthermore, we discuss the mechanisms by which the gut microbiota may causally affect gut motility. We argue that by taking into account the interindividual and intraindividual differences in gut transit time, we can advance our understanding of diet-microbiota interactions and disease-related microbiome signatures, since these may often be confounded by transient or persistent alterations in transit time. Altogether, a better understanding of the complex, bidirectional interactions between the gut microbiota and transit time is required to better understand gut microbiome variations in health and disease.
+## Advancing human gut microbiota research by considering gut transit time
 
 [Source](https://gut.bmj.com/content/early/2022/09/28/gutjnl-2022-328166)
 
-10.1136/gutjnl-2022-328166
-
 ---
 
-## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease.
- 14.12.2021, _AS Bancil, AM Sandall, M Rossi, B Chassaing, JO Lindsay, K Whelan_
-
-
-_Diet, Western, Emulsifying Agents, Food Additives, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Risk Factors_
-The global burden of inflammatory bowel disease [IBD] has increased over the 21st century. Despite multiple studies investigating the pathogenesis of IBD, the causative mechanisms pertaining to its increased prevalence remain unclear. There is growing evidence that aspects of a 'Western diet' increase the risk of developing IBD. More recently, evidence implicating dietary emulsifiers has accumulated, with ecological studies showing a positive correlation between inflammatory bowel disease and emulsifier consumption. Further to these, cell and animal studies have demonstrated plausible mechanisms by which dietary emulsifiers may contribute to IBD pathogenesis through mechanisms including: promotion of pro-inflammatory intestinal microbiota; disruption of mucus architecture; increased intestinal permeability; activation of inflammatory pathways; and disruption of the cell cycle. This review critically analyses the current evidence for these mechanisms that may be of pathological relevance to IBD, evaluates recent dietary trials, acknowledges the challenges of dietary intervention studies, and gives an overview of ongoing and future clinical trials in this important area.
+## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease
 
 [Source](https://academic.oup.com/ecco-jcc/article/15/6/1068/6041235)
-
-10.1093/ecco-jcc/jjaa254
 
 ---
 
@@ -290,18 +222,6 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 
 ---
 
-## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
- 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
-
-
-Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
-
-[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
-
-10.1136/bmjopen-2022-061413
-
----
-
 ## October 10, 2022
 
 [Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
@@ -319,9 +239,15 @@ Safety and welfare are critical as pandemic-related demands on the healthcare wo
 
 ---
 
-## Defending Earth’s terrestrial microbiome 
+## Defending Earth's terrestrial microbiome.
+ 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
+
+
+Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
 
 [Source](https://www.nature.com/articles/s41564-022-01228-3)
+
+10.1038/s41564-022-01228-3
 
 ---
 
