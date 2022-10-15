@@ -84,9 +84,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Parental refusal and hesitancy of vaccinating children against COVID-19: Findings from a nationally representative sample of parents in the U.S.
+ 13.10.2022, _T Panchalingam, Y Shi_
+
+
+The uptake rate of COVID-19 vaccines among children remains low in the U.S. This study aims to 1) identify sociodemographic and behavioral factors influencing parental refusal of vaccinating children, and 2) quantify the relative importance of vaccine characteristics in parental hesitancy of vaccinating children. An online survey was conducted from October to November 2021 among a probability-based, representative sample of 1456 parents with children under age 18. The survey included a discrete choice experiment asking parents to choose between two hypothetical COVID-19 vaccine alternatives with varying levels of characteristics in 10 hypothetical scenarios. Logistic regressions were used to estimate parental refusal (refused to choose any vaccine alternatives in all hypothetical scenarios) and random parameter logit regressions were used to estimate parental hesitancy (choice of vaccine alternatives depended on vaccine characteristics) of vaccinating children. About 20% parents refused to vaccinate children. The refusal is predicted by parents' sociodemographic characteristics, political orientation, vaccination status, and parents' and children's previous exposure with COVID-19. Among parents who were willing to consider vaccinating children, the most important vaccine characteristics are risk of severe side effects (31.2% relative importance) and effectiveness (30.7%), followed by protection duration (22.6%), local coverage (9.4%), and hospitalization rate of unvaccinated children (6.1%). Our findings imply that policymakers and public health professionals could develop outreach programs at community level to encourage specific subgroups and focus on vaccination depoliticization. Effectively communicating the low risk of severe side effects and high effectiveness of the vaccines may relieve some of the parental hesitancy.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
+
+10.1016/j.ypmed.2022.107288
+
+---
+
 ## October 10, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
+
+---
+
+## Microbiome epidemiology and association studies in human health.
+ 05.10.2022, _H VanEvery, EA Franzosa, LH Nguyen, C Huttenhower_
+
+
+Studies of the human microbiome share both technical and conceptual similarities with genome-wide association studies and genetic epidemiology. However, the microbiome has many features that differ from genomes, such as its temporal and spatial variability, highly distinct genetic architecture and person-to-person variation. Moreover, there are various potential mechanisms by which distinct aspects of the human microbiome can relate to health outcomes. Recent advances, including next-generation sequencing and the proliferation of multi-omic data types, have enabled the exploration of the mechanisms that connect microbial communities to human health. Here, we review the ways in which features of the microbiome at various body sites can influence health outcomes, and we describe emerging opportunities and future directions for advanced microbiome epidemiology.
+
+[Source](https://www.nature.com/articles/s41576-022-00529-x)
+
+10.1038/s41576-022-00529-x
 
 ---
 
@@ -96,9 +120,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study 
+## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study.
+ 13.10.2022, _AE Galena, J Chai, J Zhang, M Bednarzyk, D Perez, JD Ochrietor, A Jahan-Mihan, AY Arikawa_
+
+
+_Adolescent, Adult, Aged, Biomarkers, C-Reactive Protein, Feasibility Studies, Female, Fruit, Gastrointestinal Microbiome, Humans, Lipopolysaccharides, Middle Aged, Pilot Projects, RNA, Ribosomal, 16S, Tumor Necrosis Factor-alpha, Vegetables, Young Adult_
+The primary objective of this pilot study was to investigate the feasibility of regular consumption of fermented vegetables for six weeks on markers of inflammation and the composition of the gut microflora in women (clinical trials ID: NTC03407794). Thirty-one women were randomized into one of three groups: 100 g/day of fermented vegetables (group A), 100 g/day pickled vegetables (group B), or no vegetables (group C) for six weeks. Dietary intake was assessed by a food frequency questionnaire and blood and stool samples were provided before and after the intervention for measurement of C-reactive protein (CRP), tumor necrosis factor alpha (TNF-α), and lipopolysaccharide binding protein (LBP). Next-generation sequencing of the V4 region of the 16S rRNA gene was performed on the Illumina MiSeq platform. Participants' ages ranged between 18 and 69 years. Both groups A and B had a mean daily consumption of 91g of vegetables for 32 and 36 days, respectively. Serum CRP ranged between 0.9 and 265 ng/mL (SD = 92.4) at baseline, while TNF-α and LBP concentrations ranged between 0 and 9 pg/mL (SD = 2.3), and 7 and 29 μg/mL (SD = 4.4), respectively. There were no significant changes in levels of inflammatory markers among groups. At timepoint 2, group A showed an increase in Faecalibacterium prausnitzii (P = 0.022), a decrease in Ruminococcus torques (P&lt;0.05), and a trend towards greater alpha diversity measured by the Shannon index (P = 0.074). The findings indicate that consumption of ~100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in the composition of the gut microbiota. Future trials should determine whether consumption of fermented vegetables is an effective strategy against gut dysbiosis.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275275)
+
+10.1371/journal.pone.0275275
 
 ---
 
@@ -150,9 +181,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease
+## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease.
+ 14.12.2021, _AS Bancil, AM Sandall, M Rossi, B Chassaing, JO Lindsay, K Whelan_
+
+
+_Diet, Western, Emulsifying Agents, Food Additives, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Risk Factors_
+The global burden of inflammatory bowel disease [IBD] has increased over the 21st century. Despite multiple studies investigating the pathogenesis of IBD, the causative mechanisms pertaining to its increased prevalence remain unclear. There is growing evidence that aspects of a 'Western diet' increase the risk of developing IBD. More recently, evidence implicating dietary emulsifiers has accumulated, with ecological studies showing a positive correlation between inflammatory bowel disease and emulsifier consumption. Further to these, cell and animal studies have demonstrated plausible mechanisms by which dietary emulsifiers may contribute to IBD pathogenesis through mechanisms including: promotion of pro-inflammatory intestinal microbiota; disruption of mucus architecture; increased intestinal permeability; activation of inflammatory pathways; and disruption of the cell cycle. This review critically analyses the current evidence for these mechanisms that may be of pathological relevance to IBD, evaluates recent dietary trials, acknowledges the challenges of dietary intervention studies, and gives an overview of ongoing and future clinical trials in this important area.
 
 [Source](https://academic.oup.com/ecco-jcc/article/15/6/1068/6041235)
+
+10.1093/ecco-jcc/jjaa254
 
 ---
 
@@ -270,9 +308,10 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 ---
 
 ## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
- 12.10.2022, _JL Espinoza, CL Dupont_
+ 14.10.2022, _JL Espinoza, CL Dupont_
 
 
+_Archaea, Bacteria, Cluster Analysis, Ecosystem, Eukaryota, Genome, Viral, Humans, Metagenome, Metagenomics_
 With the advent of metagenomics, the importance of microorganisms and how their interactions are relevant to ecosystem resilience, sustainability, and human health has become evident. Cataloging and preserving biodiversity is paramount not only for the Earth's natural systems but also for discovering solutions to challenges that we face as a growing civilization. Metagenomics pertains to the in silico study of all microorganisms within an ecological community in situ, however, many software suites recover only prokaryotes and have limited to no support for viruses and eukaryotes.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04973-8)
