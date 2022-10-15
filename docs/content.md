@@ -157,6 +157,18 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
+## Ancyronyx Erichson, 1847 (Coleoptera, Elmidae) from Mindoro, Philippines, with description of the larvae and two new species using DNA sequences for the assignment of the developmental stages.
+ 21.10.2021, _H Freitag_
+
+
+Ancyronyx buhid sp. n. and Ancyronyx tamaraw sp. n. are described based on adults and larvae, matched using their cox1 or cob DNA sequence data. Additional records of Ancyronyx schillhammeri Jäch, 1994 and Ancyronyx minerva Freitag &amp; Jäch, 2007 from Mindoro are listed. The previously unknown larva of Ancyronyx schillhammeri is also described here, aided by cox1 data. The new species and larval stages are described in detail and illustrated by SEM and stacked microscopic images. Keys to the adult and larval Ancyronyx species of Mindoro and an updated checklist of Philippine Ancyronyx species are provided. The usefulness as bioindicators, the phylogenetic relationships and biogeographic aspects affecting the distribution patterns are briefly discussed.
+
+[Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
+
+10.3897/zookeys.321.5395
+
+---
+
 ## #DNAbarcoding
 
 [Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
@@ -166,6 +178,18 @@ The primary objective of this pilot study was to investigate the feasibility of 
 ## https://t.co/tMKlN5cHQU
 
 [Source](https://t.co/tMKlN5cHQU)
+
+---
+
+## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
+ 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
+
+
+Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
+
+[Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2022-061413
 
 ---
 
@@ -224,16 +248,9 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 
 ---
 
-## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status.
- 14.10.2022, _G Wu, P Grassi, DA MacIntyre, BG Molina, L Sykes, S Kundu, CT Hsiao, KH Khoo, PR Bennett, A Dell, SM Haslam_
-
-
-_Cytokines, Female, Glycosylation, Humans, Infant, Newborn, Mannose, Microbiota, Polysaccharides, Pregnancy, Premature Birth_
-Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan rich biological fluid, fundamental in mediating physiological events associated with reproductive health. Using a comprehensive glycomic strategy we reveal an extremely rich and complex N-glycome in CVF of pregnant and non-pregnant women, abundant in paucimannose and high mannose glycans, complex glycans with 2-4 N-Acetyllactosamine (LacNAc) antennae, and Poly-LacNAc glycans decorated with fucosylation and sialylation. N-glycosylation profiles were observed to differ in relation to pregnancy status, microbial composition, immune activation, and pregnancy outcome. Compared to CVF from women experiencing term birth, CVF from women who subsequently experienced preterm birth showed lower sialylation, which correlated to the presence of a diverse microbiome, and higher fucosylation, which correlated positively to pro-inflammatory cytokine concentration. This study is the first step towards better understanding the role of cervicovaginal glycans in reproductive health, their contribution to the mechanism of microbial driven preterm birth, and their potential for preventative therapy.
+## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status
 
 [Source](https://www.nature.com/articles/s41598-022-20608-7)
-
-10.1038/s41598-022-20608-7
 
 ---
 
@@ -302,15 +319,9 @@ Safety and welfare are critical as pandemic-related demands on the healthcare wo
 
 ---
 
-## Defending Earth's terrestrial microbiome.
- 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
-
-
-Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
+## Defending Earth’s terrestrial microbiome 
 
 [Source](https://www.nature.com/articles/s41564-022-01228-3)
-
-10.1038/s41564-022-01228-3
 
 ---
 
