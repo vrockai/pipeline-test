@@ -84,15 +84,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Parental refusal and hesitancy of vaccinating children against COVID-19: Findings from a nationally representative sample of parents in the U.S.
- 13.10.2022, _T Panchalingam, Y Shi_
+## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
+ 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
 
 
-The uptake rate of COVID-19 vaccines among children remains low in the U.S. This study aims to 1) identify sociodemographic and behavioral factors influencing parental refusal of vaccinating children, and 2) quantify the relative importance of vaccine characteristics in parental hesitancy of vaccinating children. An online survey was conducted from October to November 2021 among a probability-based, representative sample of 1456 parents with children under age 18. The survey included a discrete choice experiment asking parents to choose between two hypothetical COVID-19 vaccine alternatives with varying levels of characteristics in 10 hypothetical scenarios. Logistic regressions were used to estimate parental refusal (refused to choose any vaccine alternatives in all hypothetical scenarios) and random parameter logit regressions were used to estimate parental hesitancy (choice of vaccine alternatives depended on vaccine characteristics) of vaccinating children. About 20% parents refused to vaccinate children. The refusal is predicted by parents' sociodemographic characteristics, political orientation, vaccination status, and parents' and children's previous exposure with COVID-19. Among parents who were willing to consider vaccinating children, the most important vaccine characteristics are risk of severe side effects (31.2% relative importance) and effectiveness (30.7%), followed by protection duration (22.6%), local coverage (9.4%), and hospitalization rate of unvaccinated children (6.1%). Our findings imply that policymakers and public health professionals could develop outreach programs at community level to encourage specific subgroups and focus on vaccination depoliticization. Effectively communicating the low risk of severe side effects and high effectiveness of the vaccines may relieve some of the parental hesitancy.
+Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
 
-10.1016/j.ypmed.2022.107288
+10.1136/bmjopen-2022-061413
 
 ---
 
@@ -175,9 +175,15 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
-## Advancing human gut microbiota research by considering gut transit time
+## Advancing human gut microbiota research by considering gut transit time.
+ 28.09.2022, _N Procházková, G Falony, LO Dragsted, TR Licht, J Raes, HM Roager_
+
+
+Accumulating evidence indicates that gut transit time is a key factor in shaping the gut microbiota composition and activity, which are linked to human health. Both population-wide and small-scale studies have identified transit time as a top covariate contributing to the large interindividual variation in the faecal microbiota composition. Despite this, transit time is still rarely being considered in the field of the human gut microbiome. Here, we review the latest research describing how and why whole gut and segmental transit times vary substantially between and within individuals, and how variations in gut transit time impact the gut microbiota composition, diversity and metabolism. Furthermore, we discuss the mechanisms by which the gut microbiota may causally affect gut motility. We argue that by taking into account the interindividual and intraindividual differences in gut transit time, we can advance our understanding of diet-microbiota interactions and disease-related microbiome signatures, since these may often be confounded by transient or persistent alterations in transit time. Altogether, a better understanding of the complex, bidirectional interactions between the gut microbiota and transit time is required to better understand gut microbiome variations in health and disease.
 
 [Source](https://gut.bmj.com/content/early/2022/09/28/gutjnl-2022-328166)
+
+10.1136/gutjnl-2022-328166
 
 ---
 
@@ -218,9 +224,16 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 
 ---
 
-## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status
+## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status.
+ 14.10.2022, _G Wu, P Grassi, DA MacIntyre, BG Molina, L Sykes, S Kundu, CT Hsiao, KH Khoo, PR Bennett, A Dell, SM Haslam_
+
+
+_Cytokines, Female, Glycosylation, Humans, Infant, Newborn, Mannose, Microbiota, Polysaccharides, Pregnancy, Premature Birth_
+Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan rich biological fluid, fundamental in mediating physiological events associated with reproductive health. Using a comprehensive glycomic strategy we reveal an extremely rich and complex N-glycome in CVF of pregnant and non-pregnant women, abundant in paucimannose and high mannose glycans, complex glycans with 2-4 N-Acetyllactosamine (LacNAc) antennae, and Poly-LacNAc glycans decorated with fucosylation and sialylation. N-glycosylation profiles were observed to differ in relation to pregnancy status, microbial composition, immune activation, and pregnancy outcome. Compared to CVF from women experiencing term birth, CVF from women who subsequently experienced preterm birth showed lower sialylation, which correlated to the presence of a diverse microbiome, and higher fucosylation, which correlated positively to pro-inflammatory cytokine concentration. This study is the first step towards better understanding the role of cervicovaginal glycans in reproductive health, their contribution to the mechanism of microbial driven preterm birth, and their potential for preventative therapy.
 
 [Source](https://www.nature.com/articles/s41598-022-20608-7)
+
+10.1038/s41598-022-20608-7
 
 ---
 
@@ -257,6 +270,18 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 ## https://t.co/w3z4SjEzuc
 
 [Source](https://t.co/w3z4SjEzuc)
+
+---
+
+## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
+ 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
+
+
+Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
+
+[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2022-061413
 
 ---
 
@@ -301,9 +326,15 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## binny: an automated binning algorithm to recover high-quality genomes from complex metagenomic datasets
+## binny: an automated binning algorithm to recover high-quality genomes from complex metagenomic datasets.
+ 14.10.2022, _O Hickl, P Queirós, P Wilmes, P May, A Heintz-Buschart_
+
+
+The reconstruction of genomes is a critical step in genome-resolved metagenomics and for multi-omic data integration from microbial communities. Here, we present binny, a binning tool that produces high-quality metagenome-assembled genomes (MAG) from both contiguous and highly fragmented genomes. Based on established metrics, binny outperforms or is highly competitive with commonly used and state-of-the-art binning methods and finds unique genomes that could not be detected by other methods. binny uses k-mer-composition and coverage by metagenomic reads for iterative, nonlinear dimension reduction of genomic signatures as well as subsequent automated contig clustering with cluster assessment using lineage-specific marker gene sets. When compared with seven widely used binning algorithms, binny provides substantial amounts of uniquely identified MAGs and almost always recovers the most near-complete ($\gt 95\%$ pure, $\gt 90\%$ complete) and high-quality ($\gt 90\%$ pure, $\gt 70\%$ complete) genomes from simulated datasets from the Critical Assessment of Metagenome Interpretation initiative, as well as substantially more high-quality draft genomes, as defined by the Minimum Information about a Metagenome-Assembled Genome standard, from a real-world benchmark comprised of metagenomes from various environments than any other tested method.
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.12.22.473795v6)
+
+10.1093/bib/bbac431
 
 ---
 
