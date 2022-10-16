@@ -84,9 +84,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
+ 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
+
+
+Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2022-061413
+
+---
+
 ## October 10, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
+
+---
+
+## Microbiome epidemiology and association studies in human health.
+ 05.10.2022, _H VanEvery, EA Franzosa, LH Nguyen, C Huttenhower_
+
+
+Studies of the human microbiome share both technical and conceptual similarities with genome-wide association studies and genetic epidemiology. However, the microbiome has many features that differ from genomes, such as its temporal and spatial variability, highly distinct genetic architecture and person-to-person variation. Moreover, there are various potential mechanisms by which distinct aspects of the human microbiome can relate to health outcomes. Recent advances, including next-generation sequencing and the proliferation of multi-omic data types, have enabled the exploration of the mechanisms that connect microbial communities to human health. Here, we review the ways in which features of the microbiome at various body sites can influence health outcomes, and we describe emerging opportunities and future directions for advanced microbiome epidemiology.
+
+[Source](https://www.nature.com/articles/s41576-022-00529-x)
+
+10.1038/s41576-022-00529-x
 
 ---
 
@@ -96,9 +120,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study 
+## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study.
+ 13.10.2022, _AE Galena, J Chai, J Zhang, M Bednarzyk, D Perez, JD Ochrietor, A Jahan-Mihan, AY Arikawa_
+
+
+_Adolescent, Adult, Aged, Biomarkers, C-Reactive Protein, Feasibility Studies, Female, Fruit, Gastrointestinal Microbiome, Humans, Lipopolysaccharides, Middle Aged, Pilot Projects, RNA, Ribosomal, 16S, Tumor Necrosis Factor-alpha, Vegetables, Young Adult_
+The primary objective of this pilot study was to investigate the feasibility of regular consumption of fermented vegetables for six weeks on markers of inflammation and the composition of the gut microflora in women (clinical trials ID: NTC03407794). Thirty-one women were randomized into one of three groups: 100 g/day of fermented vegetables (group A), 100 g/day pickled vegetables (group B), or no vegetables (group C) for six weeks. Dietary intake was assessed by a food frequency questionnaire and blood and stool samples were provided before and after the intervention for measurement of C-reactive protein (CRP), tumor necrosis factor alpha (TNF-α), and lipopolysaccharide binding protein (LBP). Next-generation sequencing of the V4 region of the 16S rRNA gene was performed on the Illumina MiSeq platform. Participants' ages ranged between 18 and 69 years. Both groups A and B had a mean daily consumption of 91g of vegetables for 32 and 36 days, respectively. Serum CRP ranged between 0.9 and 265 ng/mL (SD = 92.4) at baseline, while TNF-α and LBP concentrations ranged between 0 and 9 pg/mL (SD = 2.3), and 7 and 29 μg/mL (SD = 4.4), respectively. There were no significant changes in levels of inflammatory markers among groups. At timepoint 2, group A showed an increase in Faecalibacterium prausnitzii (P = 0.022), a decrease in Ruminococcus torques (P&lt;0.05), and a trend towards greater alpha diversity measured by the Shannon index (P = 0.074). The findings indicate that consumption of ~100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in the composition of the gut microbiota. Future trials should determine whether consumption of fermented vegetables is an effective strategy against gut dysbiosis.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275275)
+
+10.1371/journal.pone.0275275
 
 ---
 
@@ -150,9 +181,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease
+## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease.
+ 14.12.2021, _AS Bancil, AM Sandall, M Rossi, B Chassaing, JO Lindsay, K Whelan_
+
+
+_Diet, Western, Emulsifying Agents, Food Additives, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Risk Factors_
+The global burden of inflammatory bowel disease [IBD] has increased over the 21st century. Despite multiple studies investigating the pathogenesis of IBD, the causative mechanisms pertaining to its increased prevalence remain unclear. There is growing evidence that aspects of a 'Western diet' increase the risk of developing IBD. More recently, evidence implicating dietary emulsifiers has accumulated, with ecological studies showing a positive correlation between inflammatory bowel disease and emulsifier consumption. Further to these, cell and animal studies have demonstrated plausible mechanisms by which dietary emulsifiers may contribute to IBD pathogenesis through mechanisms including: promotion of pro-inflammatory intestinal microbiota; disruption of mucus architecture; increased intestinal permeability; activation of inflammatory pathways; and disruption of the cell cycle. This review critically analyses the current evidence for these mechanisms that may be of pathological relevance to IBD, evaluates recent dietary trials, acknowledges the challenges of dietary intervention studies, and gives an overview of ongoing and future clinical trials in this important area.
 
 [Source](https://academic.oup.com/ecco-jcc/article/15/6/1068/6041235)
+
+10.1093/ecco-jcc/jjaa254
 
 ---
 
@@ -180,9 +218,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status
+## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status.
+ 14.10.2022, _G Wu, P Grassi, DA MacIntyre, BG Molina, L Sykes, S Kundu, CT Hsiao, KH Khoo, PR Bennett, A Dell, SM Haslam_
+
+
+_Cytokines, Female, Glycosylation, Humans, Infant, Newborn, Mannose, Microbiota, Polysaccharides, Pregnancy, Premature Birth_
+Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan rich biological fluid, fundamental in mediating physiological events associated with reproductive health. Using a comprehensive glycomic strategy we reveal an extremely rich and complex N-glycome in CVF of pregnant and non-pregnant women, abundant in paucimannose and high mannose glycans, complex glycans with 2-4 N-Acetyllactosamine (LacNAc) antennae, and Poly-LacNAc glycans decorated with fucosylation and sialylation. N-glycosylation profiles were observed to differ in relation to pregnancy status, microbial composition, immune activation, and pregnancy outcome. Compared to CVF from women experiencing term birth, CVF from women who subsequently experienced preterm birth showed lower sialylation, which correlated to the presence of a diverse microbiome, and higher fucosylation, which correlated positively to pro-inflammatory cytokine concentration. This study is the first step towards better understanding the role of cervicovaginal glycans in reproductive health, their contribution to the mechanism of microbial driven preterm birth, and their potential for preventative therapy.
 
 [Source](https://www.nature.com/articles/s41598-022-20608-7)
+
+10.1038/s41598-022-20608-7
 
 ---
 
@@ -219,6 +264,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## https://t.co/w3z4SjEzuc
 
 [Source](https://t.co/w3z4SjEzuc)
+
+---
+
+## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
+ 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
+
+
+Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
+
+[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2022-061413
 
 ---
 
