@@ -72,6 +72,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Roughage and Dietary Influence on Liver Abscesses.
+ 15.10.2022, _TC Bryant, J Jennings_
+
+
+Many researchers have evaluated different nonantibiotic, dietary interventions to reduce liver abscessation including degree of grain processing, roughage particle size, ionophore inclusion level, and supplemental prebiotics or probiotics; however, these alternatives have been inconsistent in outcomes and have not proven to be successful. New technologies and methodologies that allow for description and characterization of the microbiome within cattle, their environment, and liver abscesses themselves may help elucidate the etiology of liver abscess formation and allow for targeting interventions that will provide solutions to replace or reduce antimicrobial use that is currently used for the reduction of liver abscess prevalence.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.cvfa.2022.08.005
+
+---
+
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
@@ -84,15 +96,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
- 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
+## Dupilumab (Dupixent®) tends to be an effective therapy for uncontrolled severe chronic rhinosinusitis with nasal polyps: real data of a single-centered, retrospective single-arm longitudinal study from a university hospital in Germany.
+ 15.10.2022, _F Jansen, B Becker, JK Eden, PC Breda, A Hot, T Oqueka, CS Betz, AS Hoffmann_
 
 
-Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
+Chronic rhinosinusitis with nasal polyps (CRSwNP) is an inflammatory disease, which is usually type 2-mediated in the western hemisphere, associated with severe therapeutic and socioeconomic challenges. The first targeted systemic treatment option for severe uncontrolled CRSwNP is a human monoclonal antibody against the interleukin-4 receptor α (IL-4Rα) subunit called dupilumab, which was approved for subcutaneous administration in Germany in October 2019. The purpose of this study is to investigate the efficacy of dupilumab in real life in patients treated with dupilumab in label according to license in our department in 2019-2021.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
 
-10.1136/bmjopen-2022-061413
+10.1007/s00405-022-07679-y
 
 ---
 
@@ -145,15 +157,52 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
+## Development of synthetic selfish elements based on modular nucleases in Drosophila melanogaster.
+ 21.10.2021, _A Simoni, C Siniscalchi, YS Chan, DS Huen, S Russell, N Windbichler, A Crisanti_
+
+
+_Animals, DNA, DNA End-Joining Repair, Drosophila melanogaster, Endodeoxyribonucleases, Female, Homologous Recombination, Male, Protein Engineering_
+Selfish genes are DNA elements that increase their rate of genetic transmission at the expense of other genes in the genome and can therefore quickly spread within a population. It has been suggested that selfish elements could be exploited to modify the genome of entire populations for medical and ecological applications. Here we report that transcription activator-like effector nuclease (TALEN) and zinc finger nuclease (ZFN) can be engineered into site-specific synthetic selfish elements (SSEs) and demonstrate their transmission of up to 70% in the Drosophila germline. We show here that SSEs can spread via DNA break-induced homologous recombination, a process known as 'homing' similar to that observed for homing endonuclease genes (HEGs), despite their fundamentally different modes of DNA binding and cleavage. We observed that TALEN and ZFN have a reduced capability of secondary homing compared to HEG as their repetitive structure had a negative effect on their genetic stability. The modular architecture of ZFNs and TALENs allows for the rapid design of novel SSEs against specific genomic sequences making them potentially suitable for the genetic engineering of wild-type populations of animals and plants, in applications such as gene replacement or population suppression of pest species.
+
+[Source](https://twitter.com/hashtag/functionalgenomics?src=hash&ref_src=twsrc%5Etfw)
+
+10.1093/nar/gku387
+
+---
+
 ## #functionalgenomics
 
 [Source](https://twitter.com/hashtag/functionalgenomics?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
+## Roughage and Dietary Influence on Liver Abscesses.
+ 15.10.2022, _TC Bryant, J Jennings_
+
+
+Many researchers have evaluated different nonantibiotic, dietary interventions to reduce liver abscessation including degree of grain processing, roughage particle size, ionophore inclusion level, and supplemental prebiotics or probiotics; however, these alternatives have been inconsistent in outcomes and have not proven to be successful. New technologies and methodologies that allow for description and characterization of the microbiome within cattle, their environment, and liver abscesses themselves may help elucidate the etiology of liver abscess formation and allow for targeting interventions that will provide solutions to replace or reduce antimicrobial use that is currently used for the reduction of liver abscess prevalence.
+
+[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.cvfa.2022.08.005
+
+---
+
 ## #microbiome
 
 [Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Ancyronyx Erichson, 1847 (Coleoptera, Elmidae) from Mindoro, Philippines, with description of the larvae and two new species using DNA sequences for the assignment of the developmental stages.
+ 21.10.2021, _H Freitag_
+
+
+Ancyronyx buhid sp. n. and Ancyronyx tamaraw sp. n. are described based on adults and larvae, matched using their cox1 or cob DNA sequence data. Additional records of Ancyronyx schillhammeri Jäch, 1994 and Ancyronyx minerva Freitag &amp; Jäch, 2007 from Mindoro are listed. The previously unknown larva of Ancyronyx schillhammeri is also described here, aided by cox1 data. The new species and larval stages are described in detail and illustrated by SEM and stacked microscopic images. Keys to the adult and larval Ancyronyx species of Mindoro and an updated checklist of Philippine Ancyronyx species are provided. The usefulness as bioindicators, the phylogenetic relationships and biogeographic aspects affecting the distribution patterns are briefly discussed.
+
+[Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
+
+10.3897/zookeys.321.5395
 
 ---
 
@@ -169,15 +218,33 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
+## 2-year clinical and radiographic outcomes following uncemented reverse shoulder replacements for proximal humerus fractures.
+ 15.10.2022, _S Chaudhury, R Myatt, T Aboelmagd, M Hussein, A Malhas_
+
+
+Uncertainty remains regarding the role and long-term outcomes following uncemented reverse shoulder replacements (RSR) in managing displaced proximal humerus fractures (PHF). While RSRs for trauma have traditionally undergone cemented fixation of the humeral component, there is increasing interest in uncemented RSRs. Our primary aim was to evaluate 2-year outcomes following uncemented RSR fixation for 3 and 4-part PHFs in the elderly. A secondary aim was to evaluate if timing of surgery affected outcomes.
+
+[Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
+
+10.1016/j.jse.2022.09.005
+
+---
+
 ## October 12, 2022
 
 [Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
 
 ---
 
-## Advancing human gut microbiota research by considering gut transit time
+## Advancing human gut microbiota research by considering gut transit time.
+ 28.09.2022, _N Procházková, G Falony, LO Dragsted, TR Licht, J Raes, HM Roager_
+
+
+Accumulating evidence indicates that gut transit time is a key factor in shaping the gut microbiota composition and activity, which are linked to human health. Both population-wide and small-scale studies have identified transit time as a top covariate contributing to the large interindividual variation in the faecal microbiota composition. Despite this, transit time is still rarely being considered in the field of the human gut microbiome. Here, we review the latest research describing how and why whole gut and segmental transit times vary substantially between and within individuals, and how variations in gut transit time impact the gut microbiota composition, diversity and metabolism. Furthermore, we discuss the mechanisms by which the gut microbiota may causally affect gut motility. We argue that by taking into account the interindividual and intraindividual differences in gut transit time, we can advance our understanding of diet-microbiota interactions and disease-related microbiome signatures, since these may often be confounded by transient or persistent alterations in transit time. Altogether, a better understanding of the complex, bidirectional interactions between the gut microbiota and transit time is required to better understand gut microbiome variations in health and disease.
 
 [Source](https://gut.bmj.com/content/early/2022/09/28/gutjnl-2022-328166)
+
+10.1136/gutjnl-2022-328166
 
 ---
 
@@ -209,6 +276,18 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 ## https://t.co/yFzCjJnOMB
 
 [Source](https://t.co/yFzCjJnOMB)
+
+---
+
+## Dupilumab (Dupixent®) tends to be an effective therapy for uncontrolled severe chronic rhinosinusitis with nasal polyps: real data of a single-centered, retrospective single-arm longitudinal study from a university hospital in Germany.
+ 15.10.2022, _F Jansen, B Becker, JK Eden, PC Breda, A Hot, T Oqueka, CS Betz, AS Hoffmann_
+
+
+Chronic rhinosinusitis with nasal polyps (CRSwNP) is an inflammatory disease, which is usually type 2-mediated in the western hemisphere, associated with severe therapeutic and socioeconomic challenges. The first targeted systemic treatment option for severe uncontrolled CRSwNP is a human monoclonal antibody against the interleukin-4 receptor α (IL-4Rα) subunit called dupilumab, which was approved for subcutaneous administration in Germany in October 2019. The purpose of this study is to investigate the efficacy of dupilumab in real life in patients treated with dupilumab in label according to license in our department in 2019-2021.
+
+[Source](https://twitter.com/LianminChen/status/1579492045055741953?ref_src=twsrc%5Etfw)
+
+10.1007/s00405-022-07679-y
 
 ---
 
@@ -264,18 +343,6 @@ Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan
 ## https://t.co/w3z4SjEzuc
 
 [Source](https://t.co/w3z4SjEzuc)
-
----
-
-## Learning from healthcare workers' experiences with personal protective equipment during the COVID-19 pandemic in Aotearoa/New Zealand: a thematic analysis and framework for future practice.
- 14.10.2022, _CEK Wild, H Wells, N Coetzee, CC Grant, TA Sullivan, JGB Derraik, YC Anderson_
-
-
-Safety and welfare are critical as pandemic-related demands on the healthcare workforce continue. Access to personal protective equipment (PPE) has been a central concern of healthcare workers throughout the COVID-19 pandemic. Against the backdrop of an already strained healthcare system, our study aimed to explore the experiences of healthcare workers with PPE during the first COVID-19 surge (February-June 2020) in Aotearoa/New Zealand (NZ). We also aimed to use these findings to present a strengths-based framework for supporting healthcare workers moving forward.
-
-[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
-
-10.1136/bmjopen-2022-061413
 
 ---
 
