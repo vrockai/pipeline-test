@@ -84,15 +84,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Dupilumab (Dupixent®) tends to be an effective therapy for uncontrolled severe chronic rhinosinusitis with nasal polyps: real data of a single-centered, retrospective single-arm longitudinal study from a university hospital in Germany.
- 15.10.2022, _F Jansen, B Becker, JK Eden, PC Breda, A Hot, T Oqueka, CS Betz, AS Hoffmann_
+## Urban drinking and driving: comparison of electric scooter and bicycle related accidents in facial fracture patients.
+ 16.10.2022, _O Murros, T Puolakkainen, A Abio, H Thorén, J Snäll_
 
 
-Chronic rhinosinusitis with nasal polyps (CRSwNP) is an inflammatory disease, which is usually type 2-mediated in the western hemisphere, associated with severe therapeutic and socioeconomic challenges. The first targeted systemic treatment option for severe uncontrolled CRSwNP is a human monoclonal antibody against the interleukin-4 receptor α (IL-4Rα) subunit called dupilumab, which was approved for subcutaneous administration in Germany in October 2019. The purpose of this study is to investigate the efficacy of dupilumab in real life in patients treated with dupilumab in label according to license in our department in 2019-2021.
+In recent years, electric scooters (e-scooter) have emerged as an alternative mode of urban transport due to their availability and effortless use. However, e-scooter-related trauma and injuries, especially to the head, have received wide media coverage and raised public concern about their safety. We aim to determine and compare clinically relevant variables, incidence, and severity between bicycle and e-scooter-related facial fractures and potential protective measures for injury prevention.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
 
-10.1007/s00405-022-07679-y
+10.4317/medoral.25662
 
 ---
 
@@ -169,15 +169,15 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
-## 2-year clinical and radiographic outcomes following uncemented reverse shoulder replacements for proximal humerus fractures.
- 15.10.2022, _S Chaudhury, R Myatt, T Aboelmagd, M Hussein, A Malhas_
+## Quantification of diaphragmatic dynamic dysfunction in septic patients by bedside ultrasound.
+ 15.10.2022, _Y Chen, Y Liu, M Han, S Zhao, Y Tan, L Hao, W Liu, W Zhang, W Song, M Pan, G Jiao_
 
 
-Uncertainty remains regarding the role and long-term outcomes following uncemented reverse shoulder replacements (RSR) in managing displaced proximal humerus fractures (PHF). While RSRs for trauma have traditionally undergone cemented fixation of the humeral component, there is increasing interest in uncemented RSRs. Our primary aim was to evaluate 2-year outcomes following uncemented RSR fixation for 3 and 4-part PHFs in the elderly. A secondary aim was to evaluate if timing of surgery affected outcomes.
+Although diaphragmatic dysfunction is an important indicator of severity of illness and poor prognosis in ICU patients, there is no convenient and practical method to monitor diaphragmatic function. This study was designed to analyze diaphragmatic dynamic dysfunction by bedside ultrasound in septic patients and provide quantitative evidence to assess diaphragm function systematically. This prospective observational study was conducted from October 2019 to January 2021 in the Department of Respiratory and Critical Care Medicine. 74 patients suffered from sepsis were recruited and divided into two groups, sepsis group 1 (2 ≤ SOFA ≤ 5, n = 41) and sepsis group 2 (SOFA &gt; 5, n = 33). 107 healthy volunteers were randomly recruited as the control group. In all participants, the diaphragmatic thickness and excursion were measured directly and the dynamic parameters including thickening fraction (TF), EQB/EDB, Contractile velocity, and area under diaphragmatic movement curve (AUDMC) were calculated by bedside ultrasound during quiet breathing (QB) and deep breathing (DB). Each parameter among three groups was analyzed separately by covariance analysis, which was adjusted by age, sex, body mass index, MAP, hypertension, and diabetes. First, contractile dysfunction occurred before diaphragmatic atrophy both in sepsis group 1 and sepsis group 2. Second, compared with the control group, the dynamic parameters showed significant decrease in sepsis group 1 and more obvious change in sepsis group 2, including TF, EQB/EDB. Third, the maximum contractile velocity decreased in sepsis group 1, reflecting the damage of intrinsic contraction efficiency accurately. Finally, per breathing AUDMC in two septic groups were lower than those in control group. However, per minute AUDMC was compensated by increasing respiratory rate in sepsis group 1, whereas it failed to be compensated which indicated gradual failure of diaphragm in sepsis group 2. Diaphragmatic ultrasound can be used to quantitatively evaluate the severity of sepsis patients whose contractile dysfunction occurred before diaphragmatic atrophy. As dynamic parameters, TF and EQB/EDB are early indicator associated with diaphragmatic injury. Furthermore, maximum contractile velocity can reflect intrinsic contraction efficiency accurately. AUDMC can evaluate diaphragmatic breathing effort and endurance to overcome resistance loads effectively.
 
 [Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
 
-10.1016/j.jse.2022.09.005
+10.1038/s41598-022-21702-6
 
 ---
 
@@ -236,16 +236,9 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 
 ---
 
-## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status.
- 14.10.2022, _G Wu, P Grassi, DA MacIntyre, BG Molina, L Sykes, S Kundu, CT Hsiao, KH Khoo, PR Bennett, A Dell, SM Haslam_
-
-
-_Cytokines, Female, Glycosylation, Humans, Infant, Newborn, Mannose, Microbiota, Polysaccharides, Pregnancy, Premature Birth_
-Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan rich biological fluid, fundamental in mediating physiological events associated with reproductive health. Using a comprehensive glycomic strategy we reveal an extremely rich and complex N-glycome in CVF of pregnant and non-pregnant women, abundant in paucimannose and high mannose glycans, complex glycans with 2-4 N-Acetyllactosamine (LacNAc) antennae, and Poly-LacNAc glycans decorated with fucosylation and sialylation. N-glycosylation profiles were observed to differ in relation to pregnancy status, microbial composition, immune activation, and pregnancy outcome. Compared to CVF from women experiencing term birth, CVF from women who subsequently experienced preterm birth showed lower sialylation, which correlated to the presence of a diverse microbiome, and higher fucosylation, which correlated positively to pro-inflammatory cytokine concentration. This study is the first step towards better understanding the role of cervicovaginal glycans in reproductive health, their contribution to the mechanism of microbial driven preterm birth, and their potential for preventative therapy.
+## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status
 
 [Source](https://www.nature.com/articles/s41598-022-20608-7)
-
-10.1038/s41598-022-20608-7
 
 ---
 
@@ -285,15 +278,15 @@ Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan
 
 ---
 
-## Dupilumab (Dupixent®) tends to be an effective therapy for uncontrolled severe chronic rhinosinusitis with nasal polyps: real data of a single-centered, retrospective single-arm longitudinal study from a university hospital in Germany.
- 15.10.2022, _F Jansen, B Becker, JK Eden, PC Breda, A Hot, T Oqueka, CS Betz, AS Hoffmann_
+## Urban drinking and driving: comparison of electric scooter and bicycle related accidents in facial fracture patients.
+ 16.10.2022, _O Murros, T Puolakkainen, A Abio, H Thorén, J Snäll_
 
 
-Chronic rhinosinusitis with nasal polyps (CRSwNP) is an inflammatory disease, which is usually type 2-mediated in the western hemisphere, associated with severe therapeutic and socioeconomic challenges. The first targeted systemic treatment option for severe uncontrolled CRSwNP is a human monoclonal antibody against the interleukin-4 receptor α (IL-4Rα) subunit called dupilumab, which was approved for subcutaneous administration in Germany in October 2019. The purpose of this study is to investigate the efficacy of dupilumab in real life in patients treated with dupilumab in label according to license in our department in 2019-2021.
+In recent years, electric scooters (e-scooter) have emerged as an alternative mode of urban transport due to their availability and effortless use. However, e-scooter-related trauma and injuries, especially to the head, have received wide media coverage and raised public concern about their safety. We aim to determine and compare clinically relevant variables, incidence, and severity between bicycle and e-scooter-related facial fractures and potential protective measures for injury prevention.
 
 [Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
 
-10.1007/s00405-022-07679-y
+10.4317/medoral.25662
 
 ---
 
@@ -314,9 +307,15 @@ Chronic rhinosinusitis with nasal polyps (CRSwNP) is an inflammatory disease, wh
 
 ---
 
-## Defending Earth’s terrestrial microbiome 
+## Defending Earth's terrestrial microbiome.
+ 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
+
+
+Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
 
 [Source](https://www.nature.com/articles/s41564-022-01228-3)
+
+10.1038/s41564-022-01228-3
 
 ---
 
@@ -345,7 +344,7 @@ The reconstruction of genomes is a critical step in genome-resolved metagenomics
 ---
 
 ## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
- 14.10.2022, _JL Espinoza, CL Dupont_
+ 16.10.2022, _JL Espinoza, CL Dupont_
 
 
 _Archaea, Bacteria, Cluster Analysis, Ecosystem, Eukaryota, Genome, Viral, Humans, Metagenome, Metagenomics_
