@@ -84,33 +84,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Urban drinking and driving: comparison of electric scooter and bicycle related accidents in facial fracture patients.
- 16.10.2022, _O Murros, T Puolakkainen, A Abio, H Thorén, J Snäll_
-
-
-In recent years, electric scooters (e-scooter) have emerged as an alternative mode of urban transport due to their availability and effortless use. However, e-scooter-related trauma and injuries, especially to the head, have received wide media coverage and raised public concern about their safety. We aim to determine and compare clinically relevant variables, incidence, and severity between bicycle and e-scooter-related facial fractures and potential protective measures for injury prevention.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
-
-10.4317/medoral.25662
-
----
-
 ## October 10, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
-
----
-
-## Microbiome epidemiology and association studies in human health.
- 05.10.2022, _H VanEvery, EA Franzosa, LH Nguyen, C Huttenhower_
-
-
-Studies of the human microbiome share both technical and conceptual similarities with genome-wide association studies and genetic epidemiology. However, the microbiome has many features that differ from genomes, such as its temporal and spatial variability, highly distinct genetic architecture and person-to-person variation. Moreover, there are various potential mechanisms by which distinct aspects of the human microbiome can relate to health outcomes. Recent advances, including next-generation sequencing and the proliferation of multi-omic data types, have enabled the exploration of the mechanisms that connect microbial communities to human health. Here, we review the ways in which features of the microbiome at various body sites can influence health outcomes, and we describe emerging opportunities and future directions for advanced microbiome epidemiology.
-
-[Source](https://www.nature.com/articles/s41576-022-00529-x)
-
-10.1038/s41576-022-00529-x
 
 ---
 
@@ -120,16 +96,9 @@ Studies of the human microbiome share both technical and conceptual similarities
 
 ---
 
-## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study.
- 13.10.2022, _AE Galena, J Chai, J Zhang, M Bednarzyk, D Perez, JD Ochrietor, A Jahan-Mihan, AY Arikawa_
-
-
-_Adolescent, Adult, Aged, Biomarkers, C-Reactive Protein, Feasibility Studies, Female, Fruit, Gastrointestinal Microbiome, Humans, Lipopolysaccharides, Middle Aged, Pilot Projects, RNA, Ribosomal, 16S, Tumor Necrosis Factor-alpha, Vegetables, Young Adult_
-The primary objective of this pilot study was to investigate the feasibility of regular consumption of fermented vegetables for six weeks on markers of inflammation and the composition of the gut microflora in women (clinical trials ID: NTC03407794). Thirty-one women were randomized into one of three groups: 100 g/day of fermented vegetables (group A), 100 g/day pickled vegetables (group B), or no vegetables (group C) for six weeks. Dietary intake was assessed by a food frequency questionnaire and blood and stool samples were provided before and after the intervention for measurement of C-reactive protein (CRP), tumor necrosis factor alpha (TNF-α), and lipopolysaccharide binding protein (LBP). Next-generation sequencing of the V4 region of the 16S rRNA gene was performed on the Illumina MiSeq platform. Participants' ages ranged between 18 and 69 years. Both groups A and B had a mean daily consumption of 91g of vegetables for 32 and 36 days, respectively. Serum CRP ranged between 0.9 and 265 ng/mL (SD = 92.4) at baseline, while TNF-α and LBP concentrations ranged between 0 and 9 pg/mL (SD = 2.3), and 7 and 29 μg/mL (SD = 4.4), respectively. There were no significant changes in levels of inflammatory markers among groups. At timepoint 2, group A showed an increase in Faecalibacterium prausnitzii (P = 0.022), a decrease in Ruminococcus torques (P&lt;0.05), and a trend towards greater alpha diversity measured by the Shannon index (P = 0.074). The findings indicate that consumption of ~100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in the composition of the gut microbiota. Future trials should determine whether consumption of fermented vegetables is an effective strategy against gut dysbiosis.
+## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275275)
-
-10.1371/journal.pone.0275275
 
 ---
 
@@ -169,46 +138,21 @@ The primary objective of this pilot study was to investigate the feasibility of 
 
 ---
 
-## Quantification of diaphragmatic dynamic dysfunction in septic patients by bedside ultrasound.
- 15.10.2022, _Y Chen, Y Liu, M Han, S Zhao, Y Tan, L Hao, W Liu, W Zhang, W Song, M Pan, G Jiao_
-
-
-Although diaphragmatic dysfunction is an important indicator of severity of illness and poor prognosis in ICU patients, there is no convenient and practical method to monitor diaphragmatic function. This study was designed to analyze diaphragmatic dynamic dysfunction by bedside ultrasound in septic patients and provide quantitative evidence to assess diaphragm function systematically. This prospective observational study was conducted from October 2019 to January 2021 in the Department of Respiratory and Critical Care Medicine. 74 patients suffered from sepsis were recruited and divided into two groups, sepsis group 1 (2 ≤ SOFA ≤ 5, n = 41) and sepsis group 2 (SOFA &gt; 5, n = 33). 107 healthy volunteers were randomly recruited as the control group. In all participants, the diaphragmatic thickness and excursion were measured directly and the dynamic parameters including thickening fraction (TF), EQB/EDB, Contractile velocity, and area under diaphragmatic movement curve (AUDMC) were calculated by bedside ultrasound during quiet breathing (QB) and deep breathing (DB). Each parameter among three groups was analyzed separately by covariance analysis, which was adjusted by age, sex, body mass index, MAP, hypertension, and diabetes. First, contractile dysfunction occurred before diaphragmatic atrophy both in sepsis group 1 and sepsis group 2. Second, compared with the control group, the dynamic parameters showed significant decrease in sepsis group 1 and more obvious change in sepsis group 2, including TF, EQB/EDB. Third, the maximum contractile velocity decreased in sepsis group 1, reflecting the damage of intrinsic contraction efficiency accurately. Finally, per breathing AUDMC in two septic groups were lower than those in control group. However, per minute AUDMC was compensated by increasing respiratory rate in sepsis group 1, whereas it failed to be compensated which indicated gradual failure of diaphragm in sepsis group 2. Diaphragmatic ultrasound can be used to quantitatively evaluate the severity of sepsis patients whose contractile dysfunction occurred before diaphragmatic atrophy. As dynamic parameters, TF and EQB/EDB are early indicator associated with diaphragmatic injury. Furthermore, maximum contractile velocity can reflect intrinsic contraction efficiency accurately. AUDMC can evaluate diaphragmatic breathing effort and endurance to overcome resistance loads effectively.
-
-[Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
-
-10.1038/s41598-022-21702-6
-
----
-
 ## October 12, 2022
 
 [Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
 
 ---
 
-## Advancing human gut microbiota research by considering gut transit time.
- 28.09.2022, _N Procházková, G Falony, LO Dragsted, TR Licht, J Raes, HM Roager_
-
-
-Accumulating evidence indicates that gut transit time is a key factor in shaping the gut microbiota composition and activity, which are linked to human health. Both population-wide and small-scale studies have identified transit time as a top covariate contributing to the large interindividual variation in the faecal microbiota composition. Despite this, transit time is still rarely being considered in the field of the human gut microbiome. Here, we review the latest research describing how and why whole gut and segmental transit times vary substantially between and within individuals, and how variations in gut transit time impact the gut microbiota composition, diversity and metabolism. Furthermore, we discuss the mechanisms by which the gut microbiota may causally affect gut motility. We argue that by taking into account the interindividual and intraindividual differences in gut transit time, we can advance our understanding of diet-microbiota interactions and disease-related microbiome signatures, since these may often be confounded by transient or persistent alterations in transit time. Altogether, a better understanding of the complex, bidirectional interactions between the gut microbiota and transit time is required to better understand gut microbiome variations in health and disease.
+## Advancing human gut microbiota research by considering gut transit time
 
 [Source](https://gut.bmj.com/content/early/2022/09/28/gutjnl-2022-328166)
 
-10.1136/gutjnl-2022-328166
-
 ---
 
-## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease.
- 14.12.2021, _AS Bancil, AM Sandall, M Rossi, B Chassaing, JO Lindsay, K Whelan_
-
-
-_Diet, Western, Emulsifying Agents, Food Additives, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Risk Factors_
-The global burden of inflammatory bowel disease [IBD] has increased over the 21st century. Despite multiple studies investigating the pathogenesis of IBD, the causative mechanisms pertaining to its increased prevalence remain unclear. There is growing evidence that aspects of a 'Western diet' increase the risk of developing IBD. More recently, evidence implicating dietary emulsifiers has accumulated, with ecological studies showing a positive correlation between inflammatory bowel disease and emulsifier consumption. Further to these, cell and animal studies have demonstrated plausible mechanisms by which dietary emulsifiers may contribute to IBD pathogenesis through mechanisms including: promotion of pro-inflammatory intestinal microbiota; disruption of mucus architecture; increased intestinal permeability; activation of inflammatory pathways; and disruption of the cell cycle. This review critically analyses the current evidence for these mechanisms that may be of pathological relevance to IBD, evaluates recent dietary trials, acknowledges the challenges of dietary intervention studies, and gives an overview of ongoing and future clinical trials in this important area.
+## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease
 
 [Source](https://academic.oup.com/ecco-jcc/article/15/6/1068/6041235)
-
-10.1093/ecco-jcc/jjaa254
 
 ---
 
@@ -278,81 +222,39 @@ The global burden of inflammatory bowel disease [IBD] has increased over the 21s
 
 ---
 
-## Urban drinking and driving: comparison of electric scooter and bicycle related accidents in facial fracture patients.
- 16.10.2022, _O Murros, T Puolakkainen, A Abio, H Thorén, J Snäll_
-
-
-In recent years, electric scooters (e-scooter) have emerged as an alternative mode of urban transport due to their availability and effortless use. However, e-scooter-related trauma and injuries, especially to the head, have received wide media coverage and raised public concern about their safety. We aim to determine and compare clinically relevant variables, incidence, and severity between bicycle and e-scooter-related facial fractures and potential protective measures for injury prevention.
-
-[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
-
-10.4317/medoral.25662
-
----
-
 ## October 10, 2022
 
 [Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
 
 ---
 
-## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change.
- 10.10.2022, _BD Batista, BK Singh_
-
-
+## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.16231)
 
-10.1111/1462-2920.16231
-
 ---
 
-## Defending Earth's terrestrial microbiome.
- 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
-
-
-Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
+## Defending Earth’s terrestrial microbiome 
 
 [Source](https://www.nature.com/articles/s41564-022-01228-3)
 
-10.1038/s41564-022-01228-3
-
 ---
 
-## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database.
- 11.10.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
-
-
-The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
+## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database 
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac672/6758240)
 
-10.1093/bioinformatics/btac672
-
 ---
 
-## binny: an automated binning algorithm to recover high-quality genomes from complex metagenomic datasets.
- 14.10.2022, _O Hickl, P Queirós, P Wilmes, P May, A Heintz-Buschart_
-
-
-The reconstruction of genomes is a critical step in genome-resolved metagenomics and for multi-omic data integration from microbial communities. Here, we present binny, a binning tool that produces high-quality metagenome-assembled genomes (MAG) from both contiguous and highly fragmented genomes. Based on established metrics, binny outperforms or is highly competitive with commonly used and state-of-the-art binning methods and finds unique genomes that could not be detected by other methods. binny uses k-mer-composition and coverage by metagenomic reads for iterative, nonlinear dimension reduction of genomic signatures as well as subsequent automated contig clustering with cluster assessment using lineage-specific marker gene sets. When compared with seven widely used binning algorithms, binny provides substantial amounts of uniquely identified MAGs and almost always recovers the most near-complete ($\gt 95\%$ pure, $\gt 90\%$ complete) and high-quality ($\gt 90\%$ pure, $\gt 70\%$ complete) genomes from simulated datasets from the Critical Assessment of Metagenome Interpretation initiative, as well as substantially more high-quality draft genomes, as defined by the Minimum Information about a Metagenome-Assembled Genome standard, from a real-world benchmark comprised of metagenomes from various environments than any other tested method.
+## binny: an automated binning algorithm to recover high-quality genomes from complex metagenomic datasets
 
 [Source](https://www.biorxiv.org/content/10.1101/2021.12.22.473795v6)
 
-10.1093/bib/bbac431
-
 ---
 
-## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
- 16.10.2022, _JL Espinoza, CL Dupont_
-
-
-_Archaea, Bacteria, Cluster Analysis, Ecosystem, Eukaryota, Genome, Viral, Humans, Metagenome, Metagenomics_
-With the advent of metagenomics, the importance of microorganisms and how their interactions are relevant to ecosystem resilience, sustainability, and human health has become evident. Cataloging and preserving biodiversity is paramount not only for the Earth's natural systems but also for discovering solutions to challenges that we face as a growing civilization. Metagenomics pertains to the in silico study of all microorganisms within an ecological community in situ, however, many software suites recover only prokaryotes and have limited to no support for viruses and eukaryotes.
+## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04973-8)
-
-10.1186/s12859-022-04973-8
 
 ---
 
