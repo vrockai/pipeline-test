@@ -1,364 +1,174 @@
-## #microber2022
-
-[Source](https://twitter.com/hashtag/microber2022?src=hashtag_click&f=live)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Comparison of microbial signatures between paired faecal and rectal biopsy samples from healthy volunteers using next-generation sequencing and culturomics.
+ 14.10.2022, _I Mukhopadhya, JC Martin, S Shaw, AJ McKinley, SW Gratz, KP Scott_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+Faecal samples are frequently used to characterise the gut microbiota in health and disease, yet there is considerable debate about how representative faecal bacterial profiles are of the overall gut community. A particular concern is whether bacterial populations associated with the gut mucosa are properly represented in faecal samples, since these communities are considered critical in the aetiology of gastrointestinal diseases. In this study we compared the profiles of the faecal and mucosal microbiota from ten healthy volunteers using bacterial culturing (culturomics) and next-generation sequencing targeting the 16S ribosomal nucleic acid (rRNA) gene. Paired fresh rectal biopsies and faecal samples were processed under stringent anaerobic conditions to maintain the viability of the bacteria. Four different sample types were analysed: faecal (F), faecal homogenised (FHg), biopsy tissue (B) and biopsy wash (BW) samples. RESULTS: There were no significant statistical differences in either bacterial richness or diversity between biopsy washes (BW) and faecal (F) or faecal homogenised (FHg) samples. Principal coordinates analysis of a Bray-Curtis distance matrix generated from sequence variant tables did not show distinct clustering between these samples (PERMANOVA; p = 0.972) but showed strong clustering of samples from individual donors. However, the rectal biopsy tissue (B) samples had a significantly altered bacterial signature with greater abundance of Proteobacteria and Acidobacteria compared to faecal (F) and faecal homogenised (FHg) samples. A total of 528 bacteria encompassing 92 distinct bacterial species were isolated and cultured from a subset of six volunteer samples (biopsy washes and faeces). This included isolation of 22 novel bacterial species. There was significant similarity between the bacterial species grown in anaerobic culture and those identified by 16S rRNA gene sequencing (Spearman correlation; rho = 0.548, p = 0.001).
 
-[Source](https://twitter.com/search?q=%23MVIF&src=typed_query&f=live)
+[Source](https://doi.org/10.1186/s40168-022-01354-4)
 
-10.3390/ijerph19010099
+10.1186/s40168-022-01354-4
 
 ---
 
-## #MVIF
+## Depression and fatigue in active IBD from a microbiome perspective-a Bayesian approach to faecal metagenomics
 
-[Source](https://twitter.com/search?q=%23MVIF&src=typed_query&f=live)
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s12916-022-02550-7)
 
 ---
 
-## @MicrobiomDigest
+## Dynamics of human milk oligosaccharides in early lactation and relation with growth and appetitive traits of Filipino breastfed infants.
+ 15.10.2022, _TM Samuel, M Hartweg, JD Lebumfacil, KB Buluran, RB Lawenko, EM Estorninos, A Binia, N Sprenger_
 
-[Source](https://twitter.com/MicrobiomDigest?ref_src=twsrc%5Etfw)
 
----
+Human milk oligosaccharides play a key role in the maturation of the infant gut microbiome and immune system and are hypothesized to affect growth. This study examined the temporal changes of 24 HMOs and their associations to infant growth and appetitive traits in an exploratory, prospective, observational, study of 41 Filipino mother-infant dyads. Exclusively breastfed, healthy, term infants were enrolled at 21-26 days of age (≈ 0.75 mo) and followed for 6 months. Infant growth measures and appetitive traits were collected at visit 1 (V1) (≈ 0.75 mo), V2 (≈ 1.5 mo), V3 (2.5 mo), V4 (2.75 mo), V5 (4 mo), and V6 (6 mo), while HMOs were measured at V1, V2, V3 and V5. Overall exposure to each HMO was summarized as area under the curve from baseline to 4 months of age and examined in association with each measure of growth at 6 months using linear regression adjusted for maternal age at birth, infant sex, birth weight, and mode of delivery. We saw modest associations between several HMOs and infant growth parameters. Our results suggest that specific HMOs, partly as proxy for milk groups (defined by Secretor and Lewis status), may be associated with head circumference and length, increasing their relevance especially in populations at the lower end of the WHO growth curve. We did not identify the same HMOs associated with infant appetitive traits, indicating that at least in our cohort, changes in appetite were not driving the observed associations between HMOs and growth.Clinical trial registration: NCT03387124.
 
-## @CornetLuc3
+[Source](https://doi.org/10.1038/s41598-022-22244-7)
 
-[Source](https://twitter.com/CornetLuc3?ref_src=twsrc%5Etfw)
-
----
-
-## @agustinmolinna
-
-[Source](https://twitter.com/agustinmolinna?ref_src=twsrc%5Etfw)
+10.1038/s41598-022-22244-7
 
 ---
 
-## @anniegwest
+## The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis.
+ 15.10.2022, _E Muller, YM Algavi, E Borenstein_
 
-[Source](https://twitter.com/anniegwest?ref_src=twsrc%5Etfw)
 
----
+Integrative analysis of microbiome and metabolome data obtained from human fecal samples is a promising avenue for better understanding the interplay between bacteria and metabolites in the human gut, in both health and disease. However, acquiring, processing, and unifying such datasets from multiple sources is a daunting and challenging task. Here we present a publicly available, simple-to-use, curated dataset collection of paired fecal microbiome-metabolome data from multiple cohorts. This data resource allows researchers to easily obtain multiple fully processed and integrated microbiome-metabolome datasets, facilitating the discovery of universal microbe-metabolite links, benchmark various microbiome-metabolome integration tools, and compare newly identified microbe-metabolite findings to other published datasets.
 
-## https://t.co/Af8tkmNw5J
+[Source](https://doi.org/10.1038/s41522-022-00345-5)
 
-[Source](https://t.co/Af8tkmNw5J)
-
----
-
-## #microbiome
-
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
+10.1038/s41522-022-00345-5
 
 ---
 
-## pic.twitter.com/uvXiZXL1yQ
-
-[Source](https://t.co/uvXiZXL1yQ)
-
----
-
-## Urban drinking and driving: comparison of electric scooter and bicycle related accidents in facial fracture patients.
- 16.10.2022, _O Murros, T Puolakkainen, A Abio, H Thorén, J Snäll_
+## Strains to go: interactions of the skin microbiome beyond its species.
+ 15.10.2022, _R Caldwell, W Zhou, J Oh_
 
 
-In recent years, electric scooters (e-scooter) have emerged as an alternative mode of urban transport due to their availability and effortless use. However, e-scooter-related trauma and injuries, especially to the head, have received wide media coverage and raised public concern about their safety. We aim to determine and compare clinically relevant variables, incidence, and severity between bicycle and e-scooter-related facial fractures and potential protective measures for injury prevention.
+An extraordinary biodiversity of bacteria, fungi, viruses, and even small multicellular eukaryota inhabit the human skin. Genomic innovations have accelerated characterization of this biodiversity both at a species as well as the subspecies, or strain level, which further imparts a tremendous genetic diversity to an individual's skin microbiome. In turn, these advances portend significant species- and strain-specificity in the skin microbiome's functional impact on cutaneous immunity, barrier integrity, aging, and other skin physiologic processes. Future advances in defining strain diversity, spatial distribution, and metabolic diversity for major skin species will be foundational for understanding the microbiome's essentiality to the skin ecosystem and for designing topical therapeutics that leverage or target the skin microbiome.
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.mib.2022.102222)
 
-10.4317/medoral.25662
+10.1016/j.mib.2022.102222
 
 ---
 
-## October 10, 2022
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1579351022333575169?ref_src=twsrc%5Etfw)
-
----
-
-## Microbiome epidemiology and association studies in human health.
- 05.10.2022, _H VanEvery, EA Franzosa, LH Nguyen, C Huttenhower_
+## Gut bacterial extracellular vesicles: important players in regulating intestinal microenvironment.
+ 15.10.2022, _X Liang, N Dai, K Sheng, H Lu, J Wang, L Chen, Y Wang_
 
 
-Studies of the human microbiome share both technical and conceptual similarities with genome-wide association studies and genetic epidemiology. However, the microbiome has many features that differ from genomes, such as its temporal and spatial variability, highly distinct genetic architecture and person-to-person variation. Moreover, there are various potential mechanisms by which distinct aspects of the human microbiome can relate to health outcomes. Recent advances, including next-generation sequencing and the proliferation of multi-omic data types, have enabled the exploration of the mechanisms that connect microbial communities to human health. Here, we review the ways in which features of the microbiome at various body sites can influence health outcomes, and we describe emerging opportunities and future directions for advanced microbiome epidemiology.
+Intestinal microenvironment dysbiosis is one of the major causes of diseases, such as obesity, diabetes, inflammatory bowel disease, and colon cancer. Microbiota-based strategies have excellent clinical potential in the treatment of repetitive and refractory diseases; however, the underlying regulatory mechanisms remain elusive. Identification of the internal regulatory mechanism of the gut microbiome and the interaction mechanisms involving bacteria-host is essential to achieve precise control of the gut microbiome and obtain effective clinical data. Gut bacteria-derived extracellular vesicles (GBEVs) are lipid bilayer nanoparticles secreted by the gut microbiota and are considered key players in bacteria-bacteria and bacteria-host communication. This review focusses on the role of GBEVs in gut microbiota interactions and bacteria-host communication, and the potential clinical applications of GBEVs.
 
-[Source](https://www.nature.com/articles/s41576-022-00529-x)
+[Source](https://doi.org/10.1080/19490976.2022.2134689)
 
-10.1038/s41576-022-00529-x
+10.1080/19490976.2022.2134689
 
 ---
 
-## Review: Microbiome epidemiology and association studies in human health 
-
-[Source](https://www.nature.com/articles/s41576-022-00529-x)
-
----
-
-## The effects of fermented vegetable consumption on the composition of the intestinal microbiota and levels of inflammatory markers in women: A pilot and feasibility study.
- 13.10.2022, _AE Galena, J Chai, J Zhang, M Bednarzyk, D Perez, JD Ochrietor, A Jahan-Mihan, AY Arikawa_
+## Brief overview of dietary intake, some types of gut microbiota, metabolic markers and research opportunities in sample of Egyptian women.
+ 14.10.2022, _NE Hassan, SM El Shebini, SA El-Masry, NH Ahmed, AN Kamal, AS Ismail, KM Alian, MI Mostafa, M Selim, MAS Afify_
 
 
-_Adolescent, Adult, Aged, Biomarkers, C-Reactive Protein, Feasibility Studies, Female, Fruit, Gastrointestinal Microbiome, Humans, Lipopolysaccharides, Middle Aged, Pilot Projects, RNA, Ribosomal, 16S, Tumor Necrosis Factor-alpha, Vegetables, Young Adult_
-The primary objective of this pilot study was to investigate the feasibility of regular consumption of fermented vegetables for six weeks on markers of inflammation and the composition of the gut microflora in women (clinical trials ID: NTC03407794). Thirty-one women were randomized into one of three groups: 100 g/day of fermented vegetables (group A), 100 g/day pickled vegetables (group B), or no vegetables (group C) for six weeks. Dietary intake was assessed by a food frequency questionnaire and blood and stool samples were provided before and after the intervention for measurement of C-reactive protein (CRP), tumor necrosis factor alpha (TNF-α), and lipopolysaccharide binding protein (LBP). Next-generation sequencing of the V4 region of the 16S rRNA gene was performed on the Illumina MiSeq platform. Participants' ages ranged between 18 and 69 years. Both groups A and B had a mean daily consumption of 91g of vegetables for 32 and 36 days, respectively. Serum CRP ranged between 0.9 and 265 ng/mL (SD = 92.4) at baseline, while TNF-α and LBP concentrations ranged between 0 and 9 pg/mL (SD = 2.3), and 7 and 29 μg/mL (SD = 4.4), respectively. There were no significant changes in levels of inflammatory markers among groups. At timepoint 2, group A showed an increase in Faecalibacterium prausnitzii (P = 0.022), a decrease in Ruminococcus torques (P&lt;0.05), and a trend towards greater alpha diversity measured by the Shannon index (P = 0.074). The findings indicate that consumption of ~100 g/day of fermented vegetables for six weeks is feasible and may result in beneficial changes in the composition of the gut microbiota. Future trials should determine whether consumption of fermented vegetables is an effective strategy against gut dysbiosis.
+Metabolic syndrome (MetS) is a phenotype caused by the interaction of host intrinsic factors such as genetics and gut microbiome, and extrinsic factors such as diet and lifestyle. To demonstrate the interplay of intestinal microbiota with obesity, MetS markers, and some dietary ingredients among samples of Egyptian women. This study was a cross-sectional one that included 115 Egyptian women; 82 were obese (59 without MetS and 23 with MetS) and 33 were normal weight. All participants were subjected to anthropometric assessment, 24 h dietary recall, laboratory evaluation of liver enzymes (AST and ALT), leptin, short chain fatty acids (SCFA), C-reactive protein, fasting blood glucose, insulin, and lipid profile, in addition to fecal microbiota analysis for Lactobacillus, Bifidobacteria, Firmicutes, and Bacteroid. Data showed that the obese women with MetS had the highest significant values of the anthropometric and the biochemical parameters. Obese MetS women consumed a diet high in calories, protein, fat, and carbohydrate, and low in fiber and micronutrients. The Bacteroidetes and Firmicutes were the abundant bacteria among the different gut microbiota, with low Firmicutes/Bacteroidetes ratio, and insignificant differences between the obese with and without MetS and normal weight women were reported. Firmicutes/Bacteroidetes ratio significantly correlated positively with total cholesterol and LDL-C and negatively with SCFA among obese women with MetS. Findings of this study revealed that dietary factors, dysbiosis, and the metabolic product short chain fatty acids have been implicated in causing metabolic defects.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275275)
+[Source](https://doi.org/10.1038/s41598-022-21056-z)
 
-10.1371/journal.pone.0275275
+10.1038/s41598-022-21056-z
 
 ---
 
-## Functional screens of barcoded expression libraries uncover new gene functions in carbon utilization among gut Bacteroidales
+## Profile of gut microbiota and serum metabolites associated with metabolic syndrome in a remote island most afflicted by obesity in Japan
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.10.10.511384v2)
-
----
-
-## @AdamArkinLab
-
-[Source](https://twitter.com/AdamArkinLab?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1038/s41598-022-21708-0)
 
 ---
 
-## #functionalgenomics
+## The intestinal clock drives the microbiome to maintain gastrointestinal homeostasis.
+ 14.10.2022, _M Heddes, B Altaha, Y Niu, S Reitmeier, K Kleigrewe, D Haller, S Kiessling_
 
-[Source](https://twitter.com/hashtag/functionalgenomics?src=hash&ref_src=twsrc%5Etfw)
 
----
+Diurnal (i.e., 24-hour) oscillations of the gut microbiome have been described in various species including mice and humans. However, the driving force behind these rhythms remains less clear. In this study, we differentiate between endogenous and exogenous time cues driving microbial rhythms. Our results demonstrate that fecal microbial oscillations are maintained in mice kept in the absence of light, supporting a role of the host's circadian system rather than representing a diurnal response to environmental changes. Intestinal epithelial cell-specific ablation of the core clock gene Bmal1 disrupts rhythmicity of microbiota. Targeted metabolomics functionally link intestinal clock-controlled bacteria to microbial-derived products, in particular branched-chain fatty acids and secondary bile acids. Microbiota transfer from intestinal clock-deficient mice into germ-free mice altered intestinal gene expression, enhanced lymphoid organ weights and suppressed immune cell recruitment. These results highlight the importance of functional intestinal clocks for microbiota composition and function, which is required to balance the host's gastrointestinal homeostasis.
 
-## #microbiome
+[Source](https://doi.org/10.1038/s41467-022-33609-x)
 
-[Source](https://twitter.com/hashtag/microbiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #DNAbarcoding
-
-[Source](https://twitter.com/hashtag/DNAbarcoding?src=hash&ref_src=twsrc%5Etfw)
+10.1038/s41467-022-33609-x
 
 ---
 
-## https://t.co/tMKlN5cHQU
+## Identification of bacterial lipopeptides as key players in IBS.
+ 14.10.2022, _C Petitfils, S Maurel, G Payros, A Hueber, B Agaiz, G Gazzo, R Marrocco, F Auvray, G Langevin, JP Motta, P Floch, M Tremblay-Franco, JM Galano, A Guy, T Durand, S Lachambre, A Durbec, H Hussein, L Decraecker, J Bertrand-Michel, A Saoudi, E Oswald, P Poisbeau, G Dietrich, C Melchior, G Boeckxstaens, M Serino, P Le Faouder, N Cenac_
 
-[Source](https://t.co/tMKlN5cHQU)
 
----
+Clinical studies revealed that early-life adverse events contribute to the development of IBS in adulthood. The aim of our study was to investigate the relationship between prenatal stress (PS), gut microbiota and visceral hypersensitivity with a focus on bacterial lipopeptides containing γ-aminobutyric acid (GABA).
 
-## October 12, 2022
+[Source](https://doi.org/10.1136/gutjnl-2022-328084)
 
-[Source](https://twitter.com/_YHuang/status/1580107332012298241?ref_src=twsrc%5Etfw)
-
----
-
-## Advancing human gut microbiota research by considering gut transit time
-
-[Source](https://gut.bmj.com/content/early/2022/09/28/gutjnl-2022-328166)
+10.1136/gutjnl-2022-328084
 
 ---
 
-## Food Additive Emulsifiers and Their Impact on Gut Microbiome, Permeability, and Inflammation: Mechanistic Insights in Inflammatory Bowel Disease.
- 14.12.2021, _AS Bancil, AM Sandall, M Rossi, B Chassaing, JO Lindsay, K Whelan_
+## Gut-innervating nociceptors regulate the intestinal microbiota to promote tissue protection
 
-
-_Diet, Western, Emulsifying Agents, Food Additives, Gastrointestinal Microbiome, Humans, Inflammatory Bowel Diseases, Risk Factors_
-The global burden of inflammatory bowel disease [IBD] has increased over the 21st century. Despite multiple studies investigating the pathogenesis of IBD, the causative mechanisms pertaining to its increased prevalence remain unclear. There is growing evidence that aspects of a 'Western diet' increase the risk of developing IBD. More recently, evidence implicating dietary emulsifiers has accumulated, with ecological studies showing a positive correlation between inflammatory bowel disease and emulsifier consumption. Further to these, cell and animal studies have demonstrated plausible mechanisms by which dietary emulsifiers may contribute to IBD pathogenesis through mechanisms including: promotion of pro-inflammatory intestinal microbiota; disruption of mucus architecture; increased intestinal permeability; activation of inflammatory pathways; and disruption of the cell cycle. This review critically analyses the current evidence for these mechanisms that may be of pathological relevance to IBD, evaluates recent dietary trials, acknowledges the challenges of dietary intervention studies, and gives an overview of ongoing and future clinical trials in this important area.
-
-[Source](https://academic.oup.com/ecco-jcc/article/15/6/1068/6041235)
-
-10.1093/ecco-jcc/jjaa254
+[Source](https://doi.org/10.1016/j.cell.2022.09.008)
 
 ---
 
-## Influence of the microbiome, diet and genetics on inter-individual variation in the human plasma metabolome
+## BefA, a microbiota-secreted membrane disrupter, disseminates to the pancreas and increases β cell mass
 
-[Source](https://www.nature.com/articles/s41591-022-02014-8)
-
----
-
-## @NatureMedicine
-
-[Source](https://twitter.com/NatureMedicine?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.cmet.2022.09.001)
 
 ---
 
-## https://t.co/yFzCjJnOMB
+## Alterations in the nasopharyngeal microbiome associated with SARS-CoV-2 infection status and disease severity
 
-[Source](https://t.co/yFzCjJnOMB)
-
----
-
-## October 10, 2022
-
-[Source](https://twitter.com/LianminChen/status/1579492045055741953?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1371/journal.pone.0275815)
 
 ---
 
-## N-glycosylation of cervicovaginal fluid reflects microbial community, immune activity, and pregnancy status.
- 14.10.2022, _G Wu, P Grassi, DA MacIntyre, BG Molina, L Sykes, S Kundu, CT Hsiao, KH Khoo, PR Bennett, A Dell, SM Haslam_
+## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes.
+ 14.10.2022, _BD Merrill, MM Carter, MR Olm, D Dahan, S Tripathi, SP Spencer, B Yu, S Jain, N Neff, AR Jha, ED Sonnenburg, JL Sonnenburg_
 
 
-_Cytokines, Female, Glycosylation, Humans, Infant, Newborn, Mannose, Microbiota, Polysaccharides, Pregnancy, Premature Birth_
-Human cervicovaginal fluid (CVF) is a complex, functionally important and glycan rich biological fluid, fundamental in mediating physiological events associated with reproductive health. Using a comprehensive glycomic strategy we reveal an extremely rich and complex N-glycome in CVF of pregnant and non-pregnant women, abundant in paucimannose and high mannose glycans, complex glycans with 2-4 N-Acetyllactosamine (LacNAc) antennae, and Poly-LacNAc glycans decorated with fucosylation and sialylation. N-glycosylation profiles were observed to differ in relation to pregnancy status, microbial composition, immune activation, and pregnancy outcome. Compared to CVF from women experiencing term birth, CVF from women who subsequently experienced preterm birth showed lower sialylation, which correlated to the presence of a diverse microbiome, and higher fucosylation, which correlated positively to pro-inflammatory cytokine concentration. This study is the first step towards better understanding the role of cervicovaginal glycans in reproductive health, their contribution to the mechanism of microbial driven preterm birth, and their potential for preventative therapy.
+The gut microbiome is a key modulator of immune and metabolic health. Human microbiome data is biased towards industrialized populations, providing limited understanding of the distinct and diverse non-industrialized microbiomes. Here, we performed ultra-deep metagenomic sequencing and strain cultivation on 351 fecal samples from the Hadza, hunter-gatherers in Tanzania, and comparative populations in Nepal and California. We recover 94,971 total genomes of bacteria, archaea, bacteriophages, and eukaryotes, 43% of which are absent from existing unified datasets. Analysis of in situ growth rates, genetic pN/pS signatures, high-resolution strain tracking, and 124 gut-resident species vanishing in industrialized populations reveals differentiating dynamics of the Hadza gut microbiome. Industrialized gut microbes are enriched in genes associated with oxidative stress, possibly a result of microbiome adaptation to inflammatory processes. This unparalleled view of the Hadza gut microbiome provides a valuable resource that expands our understanding of microbes capable of colonizing the human gut and clarifies the extensive perturbation brought on by the industrialized lifestyle.
 
-[Source](https://www.nature.com/articles/s41598-022-20608-7)
+[Source](https://doi.org/10.1101/2022.03.30.486478)
 
-10.1038/s41598-022-20608-7
-
----
-
-## More than just hitchhikers: a survey of bacterial communities associated with diatoms originating from sea turtles Get access Arrow 
-
-[Source](https://academic.oup.com/femsec/article/doi/10.1093/femsec/fiac104/6693935)
+10.1101/2022.03.30.486478
 
 ---
 
-## @FEMSmicro
+## Long-term use of <em>Lacticaseibacillus paracasei</em> N1115 from early life alleviates high-fat-diet-induced obesity and dysmetabolism in mice
 
-[Source](https://twitter.com/FEMSmicro?ref_src=twsrc%5Etfw)
-
----
-
-## @ASSEMBLE_Plus
-
-[Source](https://twitter.com/ASSEMBLE_Plus?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.3920/BM2021.0171)
 
 ---
 
-## @hrzz_science
+## Trimethylamine, a gut bacteria metabolite and air pollutant, increases blood pressure and markers of kidney damage including proteinuria and KIM-1 in rats.
+ 15.10.2022, _KM Maksymiuk, M Szudzik, M Gawryś-Kopczyńska, M Onyszkiewicz, E Samborowska, I Mogilnicka, M Ufnal_
 
-[Source](https://twitter.com/hrzz_science?ref_src=twsrc%5Etfw)
 
----
+Trimethylamine oxide (TMAO) is a biomarker in cardiovascular and renal diseases. TMAO originates from the oxidation of trimethylamine (TMA), a product of gut microbiota and manufacturing industries-derived pollutant, by flavin monooxygenases (FMOs). The effect of chronic exposure to TMA on cardiovascular and renal systems is undetermined.
 
-## @Turtle_BIOME
+[Source](https://doi.org/10.1186/s12967-022-03687-y)
 
-[Source](https://twitter.com/Turtle_BIOME?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/w3z4SjEzuc
-
-[Source](https://t.co/w3z4SjEzuc)
+10.1186/s12967-022-03687-y
 
 ---
 
-## Urban drinking and driving: comparison of electric scooter and bicycle related accidents in facial fracture patients.
- 16.10.2022, _O Murros, T Puolakkainen, A Abio, H Thorén, J Snäll_
+## Molecular detection of <em>Coxiella</em>-like endosymbionts and absence of <em>Coxiella burnetii</em> in <em>Amblyomma mixtum</em> from Veracruz, Mexico
 
-
-In recent years, electric scooters (e-scooter) have emerged as an alternative mode of urban transport due to their availability and effortless use. However, e-scooter-related trauma and injuries, especially to the head, have received wide media coverage and raised public concern about their safety. We aim to determine and compare clinically relevant variables, incidence, and severity between bicycle and e-scooter-related facial fractures and potential protective measures for injury prevention.
-
-[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
-
-10.4317/medoral.25662
+[Source](https://doi.org/10.1007/s10493-022-00748-1)
 
 ---
 
-## October 10, 2022
-
-[Source](https://twitter.com/Klara_Fil/status/1579554757945221120?ref_src=twsrc%5Etfw)
-
----
-
-## Next generation tools for crop-microbiome manipulation to mitigate the impact of climate change.
- 10.10.2022, _BD Batista, BK Singh_
+## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater.
+ 15.10.2022, _J Chen, J Liang, C Li, J Dai, W Mai, Y Wei_
 
 
+High ammonia concentration hinders the efficient treatment of antibiotic production wastewater (APW). Developing effective ammonia oxidation wastewater treatment strategies is an ideal approach for facilitating APW treatment. Compared with traditional nitrification strategies, the partial nitrification process is more eco-friendly, less energy-intensive, and less excess sludge. The primary limiting factor of the partial nitrification process is increasing ammonia-oxidizing bacteria (AOB) while decreasing nitrite-oxidizing bacteria (NOB). In this study, an efficient AOB microbiota (named AF2) was obtained via enrichment of an aerobic activated sludge (AS0) collected from a pharmaceutical wastewater treatment plant. After a 52-day enrichment of AS0 in 250 mL flasks, the microbiota AE1 with 69.18% Nitrosomonas microorganisms was obtained. Subsequent scaled-up cultivation in a 10 L fermenter led to the AF2 microbiota with 59.22% Nitrosomonas. Low concentration of free ammonia (FA, &lt; 42.01 mg L-1) had a negligible effect on the activity of AF2 and the nitrite-nitrogen accumulation rate (NAR) of AF2 was 98% when FA concentration was 42.01 mg L-1. The specific ammonia oxidation rates (SAORs) at 30 °C and 15 °C were 3.64 kg NH4+-N kg MLVSS-1·d-1 and 1.43 kg NH4+-N·kg MLVSS-1·d-1 (MLVSS: mixed liquor volatile suspended solids). The SAOR was 0.52 kg NH4+-N·kg MLVSS-1·d-1 when the NaCl concentration was increased from 0 to 20 g L-1, showing that AF2 functioning was stable in a high-level salt environment. The ammonia oxidation performance of AF2 was verified by treating abamectin and lincomycin production wastewater. The NARs of AF2 used for abamectin and lincomycin production wastewater treatment were &gt;90% and the SAORs were 2.39 kg NH4+-N·kg MLVSS-1·d-1 and 0.54 kg NH4+-N·kg MLVSS-1·d-1, respectively, which was higher than the traditional biological denitrification process. In summary, AF2 was effective in our studies for APW treatment via enhanced ammonia removal efficiency, demonstrating great potential for future industrial wastewater treatment.
 
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.16231)
+[Source](https://doi.org/10.1016/j.chemosphere.2022.136854)
 
-10.1111/1462-2920.16231
-
----
-
-## Defending Earth's terrestrial microbiome.
- 03.10.2022, _C Averill, MA Anthony, P Baldrian, F Finkbeiner, J van den Hoogen, T Kiers, P Kohout, E Hirt, GR Smith, TW Crowther_
-
-
-Microbial life represents the majority of Earth's biodiversity. Across disparate disciplines from medicine to forestry, scientists continue to discover how the microbiome drives essential, macro-scale processes in plants, animals and entire ecosystems. Yet, there is an emerging realization that Earth's microbial biodiversity is under threat. Here we advocate for the conservation and restoration of soil microbial life, as well as active incorporation of microbial biodiversity into managed food and forest landscapes, with an emphasis on soil fungi. We analyse 80 experiments to show that native soil microbiome restoration can accelerate plant biomass production by 64% on average, across ecosystems. Enormous potential also exists within managed landscapes, as agriculture and forestry are the dominant uses of land on Earth. Along with improving and stabilizing yields, enhancing microbial biodiversity in managed landscapes is a critical and underappreciated opportunity to build reservoirs, rather than deserts, of microbial life across our planet. As markets emerge to engineer the ecosystem microbiome, we can avert the mistakes of aboveground ecosystem management and avoid microbial monocultures of single high-performing microbial strains, which can exacerbate ecosystem vulnerability to pathogens and extreme events. Harnessing the planet's breadth of microbial life has the potential to transform ecosystem management, but it requires that we understand how to monitor and conserve the Earth's microbiome.
-
-[Source](https://www.nature.com/articles/s41564-022-01228-3)
-
-10.1038/s41564-022-01228-3
-
----
-
-## GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database.
- 11.10.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
-
-
-The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
-
-[Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac672/6758240)
-
-10.1093/bioinformatics/btac672
-
----
-
-## binny: an automated binning algorithm to recover high-quality genomes from complex metagenomic datasets.
- 14.10.2022, _O Hickl, P Queirós, P Wilmes, P May, A Heintz-Buschart_
-
-
-The reconstruction of genomes is a critical step in genome-resolved metagenomics and for multi-omic data integration from microbial communities. Here, we present binny, a binning tool that produces high-quality metagenome-assembled genomes (MAG) from both contiguous and highly fragmented genomes. Based on established metrics, binny outperforms or is highly competitive with commonly used and state-of-the-art binning methods and finds unique genomes that could not be detected by other methods. binny uses k-mer-composition and coverage by metagenomic reads for iterative, nonlinear dimension reduction of genomic signatures as well as subsequent automated contig clustering with cluster assessment using lineage-specific marker gene sets. When compared with seven widely used binning algorithms, binny provides substantial amounts of uniquely identified MAGs and almost always recovers the most near-complete ($\gt 95\%$ pure, $\gt 90\%$ complete) and high-quality ($\gt 90\%$ pure, $\gt 70\%$ complete) genomes from simulated datasets from the Critical Assessment of Metagenome Interpretation initiative, as well as substantially more high-quality draft genomes, as defined by the Minimum Information about a Metagenome-Assembled Genome standard, from a real-world benchmark comprised of metagenomes from various environments than any other tested method.
-
-[Source](https://www.biorxiv.org/content/10.1101/2021.12.22.473795v6)
-
-10.1093/bib/bbac431
-
----
-
-## VEBA: a modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.
- 16.10.2022, _JL Espinoza, CL Dupont_
-
-
-_Archaea, Bacteria, Cluster Analysis, Ecosystem, Eukaryota, Genome, Viral, Humans, Metagenome, Metagenomics_
-With the advent of metagenomics, the importance of microorganisms and how their interactions are relevant to ecosystem resilience, sustainability, and human health has become evident. Cataloging and preserving biodiversity is paramount not only for the Earth's natural systems but also for discovering solutions to challenges that we face as a growing civilization. Metagenomics pertains to the in silico study of all microorganisms within an ecological community in situ, however, many software suites recover only prokaryotes and have limited to no support for viruses and eukaryotes.
-
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04973-8)
-
-10.1186/s12859-022-04973-8
-
----
-
-## #microber2022
-
-[Source](https://twitter.com/hashtag/microber2022?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## pic.twitter.com/Xk1ntqA76a
-
-[Source](https://t.co/Xk1ntqA76a)
-
----
-
-## Awareness and willingness to accept syphilis chemoprophylaxis among men who have sex with men from three cities in China: a cross-sectional study.
- 15.10.2022, _X Zhang, SZ Qi, FZ Du, ZJ Zheng, NX Cao, XL Zheng, RL Zhang, QQ Wang_
-
-
-The awareness and willingness to use doxycycline-based syphilis chemoprophylaxis among men who have sex with men (MSM) in China remain largely unknown.
-
-[Source](https://twitter.com/LizahvdAart/status/1579840049776308225?ref_src=twsrc%5Etfw)
-
-10.1186/s12889-022-14323-1
-
----
-
-## October 11, 2022
-
-[Source](https://twitter.com/LizahvdAart/status/1579840049776308225?ref_src=twsrc%5Etfw)
+10.1016/j.chemosphere.2022.136854
 
 ---
 
