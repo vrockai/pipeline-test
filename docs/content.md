@@ -1,5 +1,5 @@
 ## Comparison of microbial signatures between paired faecal and rectal biopsy samples from healthy volunteers using next-generation sequencing and culturomics.
- 14.10.2022, _I Mukhopadhya, JC Martin, S Shaw, AJ McKinley, SW Gratz, KP Scott_
+ 17.10.2022, _I Mukhopadhya, JC Martin, S Shaw, AJ McKinley, SW Gratz, KP Scott_
 
 
 Faecal samples are frequently used to characterise the gut microbiota in health and disease, yet there is considerable debate about how representative faecal bacterial profiles are of the overall gut community. A particular concern is whether bacterial populations associated with the gut mucosa are properly represented in faecal samples, since these communities are considered critical in the aetiology of gastrointestinal diseases. In this study we compared the profiles of the faecal and mucosal microbiota from ten healthy volunteers using bacterial culturing (culturomics) and next-generation sequencing targeting the 16S ribosomal nucleic acid (rRNA) gene. Paired fresh rectal biopsies and faecal samples were processed under stringent anaerobic conditions to maintain the viability of the bacteria. Four different sample types were analysed: faecal (F), faecal homogenised (FHg), biopsy tissue (B) and biopsy wash (BW) samples. RESULTS: There were no significant statistical differences in either bacterial richness or diversity between biopsy washes (BW) and faecal (F) or faecal homogenised (FHg) samples. Principal coordinates analysis of a Bray-Curtis distance matrix generated from sequence variant tables did not show distinct clustering between these samples (PERMANOVA; p = 0.972) but showed strong clustering of samples from individual donors. However, the rectal biopsy tissue (B) samples had a significantly altered bacterial signature with greater abundance of Proteobacteria and Acidobacteria compared to faecal (F) and faecal homogenised (FHg) samples. A total of 528 bacteria encompassing 92 distinct bacterial species were isolated and cultured from a subset of six volunteer samples (biopsy washes and faeces). This included isolation of 22 novel bacterial species. There was significant similarity between the bacterial species grown in anaerobic culture and those identified by 16S rRNA gene sequencing (Spearman correlation; rho = 0.548, p = 0.001).
@@ -17,7 +17,7 @@ Faecal samples are frequently used to characterise the gut microbiota in health 
 ---
 
 ## Dynamics of human milk oligosaccharides in early lactation and relation with growth and appetitive traits of Filipino breastfed infants.
- 15.10.2022, _TM Samuel, M Hartweg, JD Lebumfacil, KB Buluran, RB Lawenko, EM Estorninos, A Binia, N Sprenger_
+ 17.10.2022, _TM Samuel, M Hartweg, JD Lebumfacil, KB Buluran, RB Lawenko, EM Estorninos, A Binia, N Sprenger_
 
 
 Human milk oligosaccharides play a key role in the maturation of the infant gut microbiome and immune system and are hypothesized to affect growth. This study examined the temporal changes of 24 HMOs and their associations to infant growth and appetitive traits in an exploratory, prospective, observational, study of 41 Filipino mother-infant dyads. Exclusively breastfed, healthy, term infants were enrolled at 21-26 days of age (≈ 0.75 mo) and followed for 6 months. Infant growth measures and appetitive traits were collected at visit 1 (V1) (≈ 0.75 mo), V2 (≈ 1.5 mo), V3 (2.5 mo), V4 (2.75 mo), V5 (4 mo), and V6 (6 mo), while HMOs were measured at V1, V2, V3 and V5. Overall exposure to each HMO was summarized as area under the curve from baseline to 4 months of age and examined in association with each measure of growth at 6 months using linear regression adjusted for maternal age at birth, infant sex, birth weight, and mode of delivery. We saw modest associations between several HMOs and infant growth parameters. Our results suggest that specific HMOs, partly as proxy for milk groups (defined by Secretor and Lewis status), may be associated with head circumference and length, increasing their relevance especially in populations at the lower end of the WHO growth curve. We did not identify the same HMOs associated with infant appetitive traits, indicating that at least in our cohort, changes in appetite were not driving the observed associations between HMOs and growth.Clinical trial registration: NCT03387124.
@@ -29,7 +29,7 @@ Human milk oligosaccharides play a key role in the maturation of the infant gut 
 ---
 
 ## The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis.
- 15.10.2022, _E Muller, YM Algavi, E Borenstein_
+ 17.10.2022, _E Muller, YM Algavi, E Borenstein_
 
 
 Integrative analysis of microbiome and metabolome data obtained from human fecal samples is a promising avenue for better understanding the interplay between bacteria and metabolites in the human gut, in both health and disease. However, acquiring, processing, and unifying such datasets from multiple sources is a daunting and challenging task. Here we present a publicly available, simple-to-use, curated dataset collection of paired fecal microbiome-metabolome data from multiple cohorts. This data resource allows researchers to easily obtain multiple fully processed and integrated microbiome-metabolome datasets, facilitating the discovery of universal microbe-metabolite links, benchmark various microbiome-metabolome integration tools, and compare newly identified microbe-metabolite findings to other published datasets.
@@ -53,7 +53,7 @@ An extraordinary biodiversity of bacteria, fungi, viruses, and even small multic
 ---
 
 ## Gut bacterial extracellular vesicles: important players in regulating intestinal microenvironment.
- 15.10.2022, _X Liang, N Dai, K Sheng, H Lu, J Wang, L Chen, Y Wang_
+ 17.10.2022, _X Liang, N Dai, K Sheng, H Lu, J Wang, L Chen, Y Wang_
 
 
 Intestinal microenvironment dysbiosis is one of the major causes of diseases, such as obesity, diabetes, inflammatory bowel disease, and colon cancer. Microbiota-based strategies have excellent clinical potential in the treatment of repetitive and refractory diseases; however, the underlying regulatory mechanisms remain elusive. Identification of the internal regulatory mechanism of the gut microbiome and the interaction mechanisms involving bacteria-host is essential to achieve precise control of the gut microbiome and obtain effective clinical data. Gut bacteria-derived extracellular vesicles (GBEVs) are lipid bilayer nanoparticles secreted by the gut microbiota and are considered key players in bacteria-bacteria and bacteria-host communication. This review focusses on the role of GBEVs in gut microbiota interactions and bacteria-host communication, and the potential clinical applications of GBEVs.
@@ -65,7 +65,7 @@ Intestinal microenvironment dysbiosis is one of the major causes of diseases, su
 ---
 
 ## Brief overview of dietary intake, some types of gut microbiota, metabolic markers and research opportunities in sample of Egyptian women.
- 14.10.2022, _NE Hassan, SM El Shebini, SA El-Masry, NH Ahmed, AN Kamal, AS Ismail, KM Alian, MI Mostafa, M Selim, MAS Afify_
+ 17.10.2022, _NE Hassan, SM El Shebini, SA El-Masry, NH Ahmed, AN Kamal, AS Ismail, KM Alian, MI Mostafa, M Selim, MAS Afify_
 
 
 Metabolic syndrome (MetS) is a phenotype caused by the interaction of host intrinsic factors such as genetics and gut microbiome, and extrinsic factors such as diet and lifestyle. To demonstrate the interplay of intestinal microbiota with obesity, MetS markers, and some dietary ingredients among samples of Egyptian women. This study was a cross-sectional one that included 115 Egyptian women; 82 were obese (59 without MetS and 23 with MetS) and 33 were normal weight. All participants were subjected to anthropometric assessment, 24 h dietary recall, laboratory evaluation of liver enzymes (AST and ALT), leptin, short chain fatty acids (SCFA), C-reactive protein, fasting blood glucose, insulin, and lipid profile, in addition to fecal microbiota analysis for Lactobacillus, Bifidobacteria, Firmicutes, and Bacteroid. Data showed that the obese women with MetS had the highest significant values of the anthropometric and the biochemical parameters. Obese MetS women consumed a diet high in calories, protein, fat, and carbohydrate, and low in fiber and micronutrients. The Bacteroidetes and Firmicutes were the abundant bacteria among the different gut microbiota, with low Firmicutes/Bacteroidetes ratio, and insignificant differences between the obese with and without MetS and normal weight women were reported. Firmicutes/Bacteroidetes ratio significantly correlated positively with total cholesterol and LDL-C and negatively with SCFA among obese women with MetS. Findings of this study revealed that dietary factors, dysbiosis, and the metabolic product short chain fatty acids have been implicated in causing metabolic defects.
@@ -83,7 +83,7 @@ Metabolic syndrome (MetS) is a phenotype caused by the interaction of host intri
 ---
 
 ## The intestinal clock drives the microbiome to maintain gastrointestinal homeostasis.
- 14.10.2022, _M Heddes, B Altaha, Y Niu, S Reitmeier, K Kleigrewe, D Haller, S Kiessling_
+ 17.10.2022, _M Heddes, B Altaha, Y Niu, S Reitmeier, K Kleigrewe, D Haller, S Kiessling_
 
 
 Diurnal (i.e., 24-hour) oscillations of the gut microbiome have been described in various species including mice and humans. However, the driving force behind these rhythms remains less clear. In this study, we differentiate between endogenous and exogenous time cues driving microbial rhythms. Our results demonstrate that fecal microbial oscillations are maintained in mice kept in the absence of light, supporting a role of the host's circadian system rather than representing a diurnal response to environmental changes. Intestinal epithelial cell-specific ablation of the core clock gene Bmal1 disrupts rhythmicity of microbiota. Targeted metabolomics functionally link intestinal clock-controlled bacteria to microbial-derived products, in particular branched-chain fatty acids and secondary bile acids. Microbiota transfer from intestinal clock-deficient mice into germ-free mice altered intestinal gene expression, enhanced lymphoid organ weights and suppressed immune cell recruitment. These results highlight the importance of functional intestinal clocks for microbiota composition and function, which is required to balance the host's gastrointestinal homeostasis.
@@ -124,15 +124,9 @@ Clinical studies revealed that early-life adverse events contribute to the devel
 
 ---
 
-## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes.
- 14.10.2022, _BD Merrill, MM Carter, MR Olm, D Dahan, S Tripathi, SP Spencer, B Yu, S Jain, N Neff, AR Jha, ED Sonnenburg, JL Sonnenburg_
-
-
-The gut microbiome is a key modulator of immune and metabolic health. Human microbiome data is biased towards industrialized populations, providing limited understanding of the distinct and diverse non-industrialized microbiomes. Here, we performed ultra-deep metagenomic sequencing and strain cultivation on 351 fecal samples from the Hadza, hunter-gatherers in Tanzania, and comparative populations in Nepal and California. We recover 94,971 total genomes of bacteria, archaea, bacteriophages, and eukaryotes, 43% of which are absent from existing unified datasets. Analysis of in situ growth rates, genetic pN/pS signatures, high-resolution strain tracking, and 124 gut-resident species vanishing in industrialized populations reveals differentiating dynamics of the Hadza gut microbiome. Industrialized gut microbes are enriched in genes associated with oxidative stress, possibly a result of microbiome adaptation to inflammatory processes. This unparalleled view of the Hadza gut microbiome provides a valuable resource that expands our understanding of microbes capable of colonizing the human gut and clarifies the extensive perturbation brought on by the industrialized lifestyle.
+## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes
 
 [Source](https://doi.org/10.1101/2022.03.30.486478)
-
-10.1101/2022.03.30.486478
 
 ---
 
@@ -142,15 +136,9 @@ The gut microbiome is a key modulator of immune and metabolic health. Human micr
 
 ---
 
-## Trimethylamine, a gut bacteria metabolite and air pollutant, increases blood pressure and markers of kidney damage including proteinuria and KIM-1 in rats.
- 15.10.2022, _KM Maksymiuk, M Szudzik, M Gawryś-Kopczyńska, M Onyszkiewicz, E Samborowska, I Mogilnicka, M Ufnal_
-
-
-Trimethylamine oxide (TMAO) is a biomarker in cardiovascular and renal diseases. TMAO originates from the oxidation of trimethylamine (TMA), a product of gut microbiota and manufacturing industries-derived pollutant, by flavin monooxygenases (FMOs). The effect of chronic exposure to TMA on cardiovascular and renal systems is undetermined.
+## Trimethylamine, a gut bacteria metabolite and air pollutant, increases blood pressure and markers of kidney damage including proteinuria and KIM-1 in rats
 
 [Source](https://doi.org/10.1186/s12967-022-03687-y)
-
-10.1186/s12967-022-03687-y
 
 ---
 
@@ -160,15 +148,9 @@ Trimethylamine oxide (TMAO) is a biomarker in cardiovascular and renal diseases.
 
 ---
 
-## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater.
- 15.10.2022, _J Chen, J Liang, C Li, J Dai, W Mai, Y Wei_
-
-
-High ammonia concentration hinders the efficient treatment of antibiotic production wastewater (APW). Developing effective ammonia oxidation wastewater treatment strategies is an ideal approach for facilitating APW treatment. Compared with traditional nitrification strategies, the partial nitrification process is more eco-friendly, less energy-intensive, and less excess sludge. The primary limiting factor of the partial nitrification process is increasing ammonia-oxidizing bacteria (AOB) while decreasing nitrite-oxidizing bacteria (NOB). In this study, an efficient AOB microbiota (named AF2) was obtained via enrichment of an aerobic activated sludge (AS0) collected from a pharmaceutical wastewater treatment plant. After a 52-day enrichment of AS0 in 250 mL flasks, the microbiota AE1 with 69.18% Nitrosomonas microorganisms was obtained. Subsequent scaled-up cultivation in a 10 L fermenter led to the AF2 microbiota with 59.22% Nitrosomonas. Low concentration of free ammonia (FA, &lt; 42.01 mg L-1) had a negligible effect on the activity of AF2 and the nitrite-nitrogen accumulation rate (NAR) of AF2 was 98% when FA concentration was 42.01 mg L-1. The specific ammonia oxidation rates (SAORs) at 30 °C and 15 °C were 3.64 kg NH4+-N kg MLVSS-1·d-1 and 1.43 kg NH4+-N·kg MLVSS-1·d-1 (MLVSS: mixed liquor volatile suspended solids). The SAOR was 0.52 kg NH4+-N·kg MLVSS-1·d-1 when the NaCl concentration was increased from 0 to 20 g L-1, showing that AF2 functioning was stable in a high-level salt environment. The ammonia oxidation performance of AF2 was verified by treating abamectin and lincomycin production wastewater. The NARs of AF2 used for abamectin and lincomycin production wastewater treatment were &gt;90% and the SAORs were 2.39 kg NH4+-N·kg MLVSS-1·d-1 and 0.54 kg NH4+-N·kg MLVSS-1·d-1, respectively, which was higher than the traditional biological denitrification process. In summary, AF2 was effective in our studies for APW treatment via enhanced ammonia removal efficiency, demonstrating great potential for future industrial wastewater treatment.
+## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater
 
 [Source](https://doi.org/10.1016/j.chemosphere.2022.136854)
-
-10.1016/j.chemosphere.2022.136854
 
 ---
 
