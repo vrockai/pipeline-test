@@ -10,9 +10,15 @@ Faecal samples are frequently used to characterise the gut microbiota in health 
 
 ---
 
-## Depression and fatigue in active IBD from a microbiome perspective-a Bayesian approach to faecal metagenomics
+## Depression and fatigue in active IBD from a microbiome perspective-a Bayesian approach to faecal metagenomics.
+ 16.10.2022, _AK Thomann, T Wüstenberg, J Wirbel, LL Knoedler, PA Thomann, G Zeller, MP Ebert, S Lis, W Reindl_
+
+
+Extraintestinal symptoms are common in inflammatory bowel diseases (IBD) and include depression and fatigue. These are highly prevalent especially in active disease, potentially due to inflammation-mediated changes in the microbiota-gut-brain axis. The aim of this study was to investigate the associations between structural and functional microbiota characteristics and severity of fatigue and depressive symptoms in patients with active IBD.
 
 [Source](https://doi.org/10.1186/s12916-022-02550-7)
+
+10.1186/s12916-022-02550-7
 
 ---
 
