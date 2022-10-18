@@ -58,9 +58,15 @@ An extraordinary biodiversity of bacteria, fungi, viruses, and even small multic
 
 ---
 
-## Gut bacterial extracellular vesicles: important players in regulating intestinal microenvironment
+## Gut bacterial extracellular vesicles: important players in regulating intestinal microenvironment.
+ 17.10.2022, _X Liang, N Dai, K Sheng, H Lu, J Wang, L Chen, Y Wang_
+
+
+Intestinal microenvironment dysbiosis is one of the major causes of diseases, such as obesity, diabetes, inflammatory bowel disease, and colon cancer. Microbiota-based strategies have excellent clinical potential in the treatment of repetitive and refractory diseases; however, the underlying regulatory mechanisms remain elusive. Identification of the internal regulatory mechanism of the gut microbiome and the interaction mechanisms involving bacteria-host is essential to achieve precise control of the gut microbiome and obtain effective clinical data. Gut bacteria-derived extracellular vesicles (GBEVs) are lipid bilayer nanoparticles secreted by the gut microbiota and are considered key players in bacteria-bacteria and bacteria-host communication. This review focusses on the role of GBEVs in gut microbiota interactions and bacteria-host communication, and the potential clinical applications of GBEVs.
 
 [Source](https://doi.org/10.1080/19490976.2022.2134689)
+
+10.1080/19490976.2022.2134689
 
 ---
 
@@ -124,9 +130,15 @@ Clinical studies revealed that early-life adverse events contribute to the devel
 
 ---
 
-## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes
+## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes.
+ 14.10.2022, _BD Merrill, MM Carter, MR Olm, D Dahan, S Tripathi, SP Spencer, B Yu, S Jain, N Neff, AR Jha, ED Sonnenburg, JL Sonnenburg_
+
+
+The gut microbiome is a key modulator of immune and metabolic health. Human microbiome data is biased towards industrialized populations, providing limited understanding of the distinct and diverse non-industrialized microbiomes. Here, we performed ultra-deep metagenomic sequencing and strain cultivation on 351 fecal samples from the Hadza, hunter-gatherers in Tanzania, and comparative populations in Nepal and California. We recover 94,971 total genomes of bacteria, archaea, bacteriophages, and eukaryotes, 43% of which are absent from existing unified datasets. Analysis of in situ growth rates, genetic pN/pS signatures, high-resolution strain tracking, and 124 gut-resident species vanishing in industrialized populations reveals differentiating dynamics of the Hadza gut microbiome. Industrialized gut microbes are enriched in genes associated with oxidative stress, possibly a result of microbiome adaptation to inflammatory processes. This unparalleled view of the Hadza gut microbiome provides a valuable resource that expands our understanding of microbes capable of colonizing the human gut and clarifies the extensive perturbation brought on by the industrialized lifestyle.
 
 [Source](https://doi.org/10.1101/2022.03.30.486478)
+
+10.1101/2022.03.30.486478
 
 ---
 
