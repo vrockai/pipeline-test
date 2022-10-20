@@ -174,9 +174,15 @@ Trimethylamine oxide (TMAO) is a biomarker in cardiovascular and renal diseases.
 
 ---
 
-## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater
+## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater.
+ 15.10.2022, _J Chen, J Liang, C Li, J Dai, W Mai, Y Wei_
+
+
+High ammonia concentration hinders the efficient treatment of antibiotic production wastewater (APW). Developing effective ammonia oxidation wastewater treatment strategies is an ideal approach for facilitating APW treatment. Compared with traditional nitrification strategies, the partial nitrification process is more eco-friendly, less energy-intensive, and less excess sludge. The primary limiting factor of the partial nitrification process is increasing ammonia-oxidizing bacteria (AOB) while decreasing nitrite-oxidizing bacteria (NOB). In this study, an efficient AOB microbiota (named AF2) was obtained via enrichment of an aerobic activated sludge (AS0) collected from a pharmaceutical wastewater treatment plant. After a 52-day enrichment of AS0 in 250 mL flasks, the microbiota AE1 with 69.18% Nitrosomonas microorganisms was obtained. Subsequent scaled-up cultivation in a 10 L fermenter led to the AF2 microbiota with 59.22% Nitrosomonas. Low concentration of free ammonia (FA, &lt; 42.01 mg L-1) had a negligible effect on the activity of AF2 and the nitrite-nitrogen accumulation rate (NAR) of AF2 was 98% when FA concentration was 42.01 mg L-1. The specific ammonia oxidation rates (SAORs) at 30 °C and 15 °C were 3.64 kg NH4+-N kg MLVSS-1·d-1 and 1.43 kg NH4+-N·kg MLVSS-1·d-1 (MLVSS: mixed liquor volatile suspended solids). The SAOR was 0.52 kg NH4+-N·kg MLVSS-1·d-1 when the NaCl concentration was increased from 0 to 20 g L-1, showing that AF2 functioning was stable in a high-level salt environment. The ammonia oxidation performance of AF2 was verified by treating abamectin and lincomycin production wastewater. The NARs of AF2 used for abamectin and lincomycin production wastewater treatment were &gt;90% and the SAORs were 2.39 kg NH4+-N·kg MLVSS-1·d-1 and 0.54 kg NH4+-N·kg MLVSS-1·d-1, respectively, which was higher than the traditional biological denitrification process. In summary, AF2 was effective in our studies for APW treatment via enhanced ammonia removal efficiency, demonstrating great potential for future industrial wastewater treatment.
 
 [Source](https://doi.org/10.1016/j.chemosphere.2022.136854)
+
+10.1016/j.chemosphere.2022.136854
 
 ---
 
