@@ -131,9 +131,16 @@ Clinical studies revealed that early-life adverse events contribute to the devel
 
 ---
 
-## Alterations in the nasopharyngeal microbiome associated with SARS-CoV-2 infection status and disease severity
+## Alterations in the nasopharyngeal microbiome associated with SARS-CoV-2 infection status and disease severity.
+ 19.10.2022, _NPG Gauthier, K Locher, C MacDonald, SD Chorlton, M Charles, AR Manges_
+
+
+_COVID-19, Humans, Microbiota, Nasopharynx, Pandemics, RNA, Ribosomal, 16S, SARS-CoV-2, Severity of Illness Index_
+The COVID-19 pandemic and ensuing public health emergency has emphasized the need to study SARS-CoV-2 pathogenesis. The human microbiome has been shown to regulate the host immune system and may influence host susceptibility to viral infection, as well as disease severity. Several studies have assessed whether compositional alterations in the nasopharyngeal microbiota are associated with SARS-CoV-2 infection. However, the results of these studies were varied, and many did not account for disease severity. This study aims to examine whether compositional differences in the nasopharyngeal microbiota are associated with SARS-CoV-2 infection status and disease severity.
 
 [Source](https://doi.org/10.1371/journal.pone.0275815)
+
+10.1371/journal.pone.0275815
 
 ---
 
