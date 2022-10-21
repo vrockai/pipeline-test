@@ -37,9 +37,16 @@ Human milk oligosaccharides play a key role in the maturation of the infant gut 
 
 ---
 
-## The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis
+## The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis.
+ 19.10.2022, _E Muller, YM Algavi, E Borenstein_
+
+
+_Feces, Gastrointestinal Microbiome, Humans, Metabolome, Metabolomics, RNA, Ribosomal, 16S_
+Integrative analysis of microbiome and metabolome data obtained from human fecal samples is a promising avenue for better understanding the interplay between bacteria and metabolites in the human gut, in both health and disease. However, acquiring, processing, and unifying such datasets from multiple sources is a daunting and challenging task. Here we present a publicly available, simple-to-use, curated dataset collection of paired fecal microbiome-metabolome data from multiple cohorts. This data resource allows researchers to easily obtain multiple fully processed and integrated microbiome-metabolome datasets, facilitating the discovery of universal microbe-metabolite links, benchmark various microbiome-metabolome integration tools, and compare newly identified microbe-metabolite findings to other published datasets.
 
 [Source](https://doi.org/10.1038/s41522-022-00345-5)
+
+10.1038/s41522-022-00345-5
 
 ---
 
@@ -124,16 +131,9 @@ Clinical studies revealed that early-life adverse events contribute to the devel
 
 ---
 
-## Alterations in the nasopharyngeal microbiome associated with SARS-CoV-2 infection status and disease severity.
- 19.10.2022, _NPG Gauthier, K Locher, C MacDonald, SD Chorlton, M Charles, AR Manges_
-
-
-_COVID-19, Humans, Microbiota, Nasopharynx, Pandemics, RNA, Ribosomal, 16S, SARS-CoV-2, Severity of Illness Index_
-The COVID-19 pandemic and ensuing public health emergency has emphasized the need to study SARS-CoV-2 pathogenesis. The human microbiome has been shown to regulate the host immune system and may influence host susceptibility to viral infection, as well as disease severity. Several studies have assessed whether compositional alterations in the nasopharyngeal microbiota are associated with SARS-CoV-2 infection. However, the results of these studies were varied, and many did not account for disease severity. This study aims to examine whether compositional differences in the nasopharyngeal microbiota are associated with SARS-CoV-2 infection status and disease severity.
+## Alterations in the nasopharyngeal microbiome associated with SARS-CoV-2 infection status and disease severity
 
 [Source](https://doi.org/10.1371/journal.pone.0275815)
-
-10.1371/journal.pone.0275815
 
 ---
 
