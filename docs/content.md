@@ -137,15 +137,9 @@ Clinical studies revealed that early-life adverse events contribute to the devel
 
 ---
 
-## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes.
- 19.10.2022, _BD Merrill, MM Carter, MR Olm, D Dahan, S Tripathi, SP Spencer, B Yu, S Jain, N Neff, AR Jha, ED Sonnenburg, JL Sonnenburg_
-
-
-The gut microbiome is a key modulator of immune and metabolic health. Human microbiome data is biased towards industrialized populations, providing limited understanding of the distinct and diverse non-industrialized microbiomes. Here, we performed ultra-deep metagenomic sequencing and strain cultivation on 351 fecal samples from the Hadza, hunter-gatherers in Tanzania, and comparative populations in Nepal and California. We recover 94,971 total genomes of bacteria, archaea, bacteriophages, and eukaryotes, 43% of which are absent from existing unified datasets. Analysis of in situ growth rates, genetic pN/pS signatures, high-resolution strain tracking, and 124 gut-resident species vanishing in industrialized populations reveals differentiating dynamics of the Hadza gut microbiome. Industrialized gut microbes are enriched in genes associated with oxidative stress, possibly a result of microbiome adaptation to inflammatory processes. This unparalleled view of the Hadza gut microbiome provides a valuable resource that expands our understanding of microbes capable of colonizing the human gut and clarifies the extensive perturbation brought on by the industrialized lifestyle.
+## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes
 
 [Source](https://doi.org/10.1101/2022.03.30.486478)
-
-10.1101/2022.03.30.486478
 
 ---
 
@@ -155,16 +149,9 @@ The gut microbiome is a key modulator of immune and metabolic health. Human micr
 
 ---
 
-## Trimethylamine, a gut bacteria metabolite and air pollutant, increases blood pressure and markers of kidney damage including proteinuria and KIM-1 in rats.
- 19.10.2022, _KM Maksymiuk, M Szudzik, M Gawryś-Kopczyńska, M Onyszkiewicz, E Samborowska, I Mogilnicka, M Ufnal_
-
-
-_Air Pollutants, Animals, Bacteria, Biomarkers, Blood Pressure, Creatinine, Flavins, Kidney, Kidney Diseases, Male, Methylamines, Mixed Function Oxygenases, Proteinuria, Rats, Water_
-Trimethylamine oxide (TMAO) is a biomarker in cardiovascular and renal diseases. TMAO originates from the oxidation of trimethylamine (TMA), a product of gut microbiota and manufacturing industries-derived pollutant, by flavin monooxygenases (FMOs). The effect of chronic exposure to TMA on cardiovascular and renal systems is undetermined.
+## Trimethylamine, a gut bacteria metabolite and air pollutant, increases blood pressure and markers of kidney damage including proteinuria and KIM-1 in rats
 
 [Source](https://doi.org/10.1186/s12967-022-03687-y)
-
-10.1186/s12967-022-03687-y
 
 ---
 
@@ -174,15 +161,9 @@ Trimethylamine oxide (TMAO) is a biomarker in cardiovascular and renal diseases.
 
 ---
 
-## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater.
- 22.10.2022, _J Chen, J Liang, C Li, J Dai, W Mai, Y Wei_
-
-
-High ammonia concentration hinders the efficient treatment of antibiotic production wastewater (APW). Developing effective ammonia oxidation wastewater treatment strategies is an ideal approach for facilitating APW treatment. Compared with traditional nitrification strategies, the partial nitrification process is more eco-friendly, less energy-intensive, and less excess sludge. The primary limiting factor of the partial nitrification process is increasing ammonia-oxidizing bacteria (AOB) while decreasing nitrite-oxidizing bacteria (NOB). In this study, an efficient AOB microbiota (named AF2) was obtained via enrichment of an aerobic activated sludge (AS0) collected from a pharmaceutical wastewater treatment plant. After a 52-day enrichment of AS0 in 250 mL flasks, the microbiota AE1 with 69.18% Nitrosomonas microorganisms was obtained. Subsequent scaled-up cultivation in a 10 L fermenter led to the AF2 microbiota with 59.22% Nitrosomonas. Low concentration of free ammonia (FA, &lt; 42.01 mg L-1) had a negligible effect on the activity of AF2, and the nitrite-nitrogen accumulation rate (NAR) of AF2 was 98% when FA concentration was 42.01 mg L-1. The specific ammonia oxidation rates (SAORs) at 30 °C and 15 °C were 3.64 kg NH4+-N·kg MLVSS-1·d-1 and 1.43 kg NH4+-N·kg MLVSS-1·d-1 (MLVSS: mixed liquor volatile suspended solids). The SAOR was 0.52 kg NH4+-N·kg MLVSS-1·d-1 when the NaCl concentration was increased from 0 to 20 g L-1, showing that AF2 functioning was stable in a high-level salt environment. The ammonia oxidation performance of AF2 was verified by treating abamectin and lincomycin production wastewater. The NARs of AF2 used for abamectin and lincomycin production wastewater treatment were &gt;90% and the SAORs were 2.39 kg NH4+-N·kg MLVSS-1·d-1 and 0.54 kg NH4+-N·kg MLVSS-1·d-1, respectively, which was higher than the traditional biological denitrification process. In summary, AF2 was effective for APW treatment via enhanced ammonia removal efficiency, demonstrating great potential for future industrial wastewater treatment.
+## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater
 
 [Source](https://doi.org/10.1016/j.chemosphere.2022.136854)
-
-10.1016/j.chemosphere.2022.136854
 
 ---
 
