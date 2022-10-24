@@ -1,162 +1,210 @@
-## Comparison of microbial signatures between paired faecal and rectal biopsy samples from healthy volunteers using next-generation sequencing and culturomics
-
-[Source](https://doi.org/10.1186/s40168-022-01354-4)
-
----
-
-## Depression and fatigue in active IBD from a microbiome perspective-a Bayesian approach to faecal metagenomics.
- 20.10.2022, _AK Thomann, T Wüstenberg, J Wirbel, LL Knoedler, PA Thomann, G Zeller, MP Ebert, S Lis, W Reindl_
+## The Association Between Microplastics and Microbiota in Placentas and Meconium: The First Evidence in Humans.
+ 21.10.2022, _S Liu, X Liu, J Guo, R Yang, H Wang, Y Sun, B Chen, R Dong_
 
 
-_Amino Acids, Bayes Theorem, Depression, Fatigue, Feces, Glycosaminoglycans, Humans, Inflammatory Bowel Diseases, Metagenomics, Microbiota, Pectins_
-Extraintestinal symptoms are common in inflammatory bowel diseases (IBD) and include depression and fatigue. These are highly prevalent especially in active disease, potentially due to inflammation-mediated changes in the microbiota-gut-brain axis. The aim of this study was to investigate the associations between structural and functional microbiota characteristics and severity of fatigue and depressive symptoms in patients with active IBD.
+Pregnancy and infancy are vulnerable times for detrimental environmental exposures. However, the exposure situation of microplastics (MPs) for mother-infant pairs and the adverse health effect of MPs are largely unknown. Therefore, we explored MP exposure in placentas and meconium samples, and the potential correlation of MP exposure with microbiota in placentas and meconium. A total of 18 mother-infant pairs were effectively recruited from Shanghai, China. The study required pregnant women to provide placentas and meconium samples. An Agilent 8700 laser infrared imaging spectrometer (LDIR) was applied to identify MPs. Microbiota detection was identified by 16S rRNA sequencing. Sixteen types of MPs were found in all matrices, and polyamide (PA) and polyurethane (PU) were the major types we identified. MPs detected in samples with a size of 20-50 μm were more than 76.46%. At the phylum level, both placenta and meconium microbiota were mainly composed of Proteobacteria, Bacteroidota, and Firmicutes. We also found some significant differences between placenta and meconium microbiota in β-diversity and gut composition. Additionally, we found polystyrene was inversely related with the Chao index of meconium microbiota. Polyethylene was consistently inversely correlated with several genera of placenta microbiota. The total MPs, PA, and PU consistently impacted several genera of meconium microbiota. In conclusion, MPs are ubiquitous in placentas and meconium samples, indicating the wide exposure of pregnant women and infants. Moreover, our findings may support a link between high concentration of MPs and microbiota genera in placentas and meconium. Additionally, there were several significant associations between the particle size of MPs in 50-100 μm and meconium microbiota.
 
-[Source](https://doi.org/10.1186/s12916-022-02550-7)
+[Source](https://doi.org/10.1021/acs.est.2c04706)
 
-10.1186/s12916-022-02550-7
+10.1021/acs.est.2c04706
 
 ---
 
-## Dynamics of human milk oligosaccharides in early lactation and relation with growth and appetitive traits of Filipino breastfed infants.
- 19.10.2022, _TM Samuel, M Hartweg, JD Lebumfacil, KB Buluran, RB Lawenko, EM Estorninos, A Binia, N Sprenger_
+## The salivary microbiome shows a high prevalence of core bacterial members yet variability across human populations
 
-
-_Breast Feeding, Female, Humans, Infant, Infant, Newborn, Lactation, Milk, Human, Oligosaccharides, Prospective Studies_
-Human milk oligosaccharides play a key role in the maturation of the infant gut microbiome and immune system and are hypothesized to affect growth. This study examined the temporal changes of 24 HMOs and their associations to infant growth and appetitive traits in an exploratory, prospective, observational, study of 41 Filipino mother-infant dyads. Exclusively breastfed, healthy, term infants were enrolled at 21-26 days of age (≈ 0.75 mo) and followed for 6 months. Infant growth measures and appetitive traits were collected at visit 1 (V1) (≈ 0.75 mo), V2 (≈ 1.5 mo), V3 (2.5 mo), V4 (2.75 mo), V5 (4 mo), and V6 (6 mo), while HMOs were measured at V1, V2, V3 and V5. Overall exposure to each HMO was summarized as area under the curve from baseline to 4 months of age and examined in association with each measure of growth at 6 months using linear regression adjusted for maternal age at birth, infant sex, birth weight, and mode of delivery. We saw modest associations between several HMOs and infant growth parameters. Our results suggest that specific HMOs, partly as proxy for milk groups (defined by Secretor and Lewis status), may be associated with head circumference and length, increasing their relevance especially in populations at the lower end of the WHO growth curve. We did not identify the same HMOs associated with infant appetitive traits, indicating that at least in our cohort, changes in appetite were not driving the observed associations between HMOs and growth.Clinical trial registration: NCT03387124.
-
-[Source](https://doi.org/10.1038/s41598-022-22244-7)
-
-10.1038/s41598-022-22244-7
+[Source](https://doi.org/10.1038/s41522-022-00343-7)
 
 ---
 
-## The gut microbiome-metabolome dataset collection: a curated resource for integrative meta-analysis.
- 19.10.2022, _E Muller, YM Algavi, E Borenstein_
+## Role of mucus-bacteria interactions in Enterotoxigenic <em>Escherichia coli</em> (ETEC) H10407 virulence and interplay with human microbiome
 
-
-_Feces, Gastrointestinal Microbiome, Humans, Metabolome, Metabolomics, RNA, Ribosomal, 16S_
-Integrative analysis of microbiome and metabolome data obtained from human fecal samples is a promising avenue for better understanding the interplay between bacteria and metabolites in the human gut, in both health and disease. However, acquiring, processing, and unifying such datasets from multiple sources is a daunting and challenging task. Here we present a publicly available, simple-to-use, curated dataset collection of paired fecal microbiome-metabolome data from multiple cohorts. This data resource allows researchers to easily obtain multiple fully processed and integrated microbiome-metabolome datasets, facilitating the discovery of universal microbe-metabolite links, benchmark various microbiome-metabolome integration tools, and compare newly identified microbe-metabolite findings to other published datasets.
-
-[Source](https://doi.org/10.1038/s41522-022-00345-5)
-
-10.1038/s41522-022-00345-5
+[Source](https://doi.org/10.1038/s41522-022-00344-6)
 
 ---
 
-## Strains to go: interactions of the skin microbiome beyond its species.
- 21.10.2022, _R Caldwell, W Zhou, J Oh_
+## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients.
+ 23.10.2022, _JS Bruno, V Heidrich, FH Knebel, VC de Molla, CJ Parahyba, W Miranda-Silva, P F Asprino, L Tucunduva, V Rocha, Y Novis, C Arrais-Rodrigues, A A Camargo, E R Fregnani_
 
 
-An extraordinary biodiversity of bacteria, fungi, viruses, and even small multicellular eukaryota inhabit the human skin. Genomic innovations have accelerated characterization of this biodiversity both at a species as well as the subspecies, or strain level, which further imparts a tremendous genetic diversity to an individual's skin microbiome. In turn, these advances portend significant species- and strain-specificity in the skin microbiome's functional impact on cutaneous immunity, barrier integrity, aging, and other skin physiologic processes. Future advances in defining strain diversity, spatial distribution, and metabolic diversity for major skin species will be foundational for understanding the microbiome's essentiality to the skin ecosystem and for designing topical therapeutics that leverage or target the skin microbiome.
+Oral mucositis (OM) is a complex acute cytotoxicity of antineoplastic treatment that affects 40-85% of patients undergoing hematopoietic stem-cell transplantation. OM is associated with prolonged hospitalization, increased extensive pharmacotherapy, need for parenteral nutrition, and elevated treatment costs. As OM onset relates to the mucosal microenvironment status, with a particular role for microbiota-driven inflammation, we aimed to investigate whether the oral mucosa microbiota was associated with the clinical course of OM in patients undergoing allogeneic hematopoietic stem-cell transplantation. We collected oral mucosa samples from 30 patients and analyzed the oral mucosa microbiota by 16S rRNA sequencing. A total of 13 patients (43%) developed ulcerative OM. We observed that specific taxa were associated with oral mucositis grade and time to oral mucositis healing. Porphyromonas relative abundance at preconditioning was positively correlated with ulcerative OM grade (Spearman ρ = 0.61, P = 0.028) and higher Lactobacillus relative abundance at ulcerative OM onset was associated with shortened ulcerative OM duration (P = 0.032). Additionally, we generated a machine-learning-based bacterial signature that uses pre-treatment microbial profiles to predict whether a patient will develop OM during treatment. Our findings suggest that further research should focus on host-microbiome interactions to better prevent and treat OM.
 
-[Source](https://doi.org/10.1016/j.mib.2022.102222)
+[Source](https://doi.org/10.1038/s41598-022-21775-3)
 
-10.1016/j.mib.2022.102222
-
----
-
-## Gut bacterial extracellular vesicles: important players in regulating intestinal microenvironment.
- 20.10.2022, _X Liang, N Dai, K Sheng, H Lu, J Wang, L Chen, Y Wang_
-
-
-_Bacteria, Dysbiosis, Extracellular Vesicles, Gastrointestinal Microbiome, Humans, Lipid Bilayers_
-Intestinal microenvironment dysbiosis is one of the major causes of diseases, such as obesity, diabetes, inflammatory bowel disease, and colon cancer. Microbiota-based strategies have excellent clinical potential in the treatment of repetitive and refractory diseases; however, the underlying regulatory mechanisms remain elusive. Identification of the internal regulatory mechanism of the gut microbiome and the interaction mechanisms involving bacteria-host is essential to achieve precise control of the gut microbiome and obtain effective clinical data. Gut bacteria-derived extracellular vesicles (GBEVs) are lipid bilayer nanoparticles secreted by the gut microbiota and are considered key players in bacteria-bacteria and bacteria-host communication. This review focusses on the role of GBEVs in gut microbiota interactions and bacteria-host communication, and the potential clinical applications of GBEVs.
-
-[Source](https://doi.org/10.1080/19490976.2022.2134689)
-
-10.1080/19490976.2022.2134689
+10.1038/s41598-022-21775-3
 
 ---
 
-## Brief overview of dietary intake, some types of gut microbiota, metabolic markers and research opportunities in sample of Egyptian women.
- 18.10.2022, _NE Hassan, SM El Shebini, SA El-Masry, NH Ahmed, AN Kamal, AS Ismail, KM Alian, MI Mostafa, M Selim, MAS Afify_
+## Gut microbiota in COVID-19: key microbial changes, potential mechanisms and clinical applications.
+ 22.10.2022, _RI Lau, F Zhang, Q Liu, Q Su, FKL Chan, SC Ng_
 
 
-_Bacteroidetes, Blood Glucose, C-Reactive Protein, Cholesterol, LDL, Cross-Sectional Studies, Eating, Egypt, Fatty Acids, Volatile, Female, Firmicutes, Gastrointestinal Microbiome, Humans, Insulins, Leptin, Metabolic Syndrome, Micronutrients, Obesity_
-Metabolic syndrome (MetS) is a phenotype caused by the interaction of host intrinsic factors such as genetics and gut microbiome, and extrinsic factors such as diet and lifestyle. To demonstrate the interplay of intestinal microbiota with obesity, MetS markers, and some dietary ingredients among samples of Egyptian women. This study was a cross-sectional one that included 115 Egyptian women; 82 were obese (59 without MetS and 23 with MetS) and 33 were normal weight. All participants were subjected to anthropometric assessment, 24 h dietary recall, laboratory evaluation of liver enzymes (AST and ALT), leptin, short chain fatty acids (SCFA), C-reactive protein, fasting blood glucose, insulin, and lipid profile, in addition to fecal microbiota analysis for Lactobacillus, Bifidobacteria, Firmicutes, and Bacteroid. Data showed that the obese women with MetS had the highest significant values of the anthropometric and the biochemical parameters. Obese MetS women consumed a diet high in calories, protein, fat, and carbohydrate, and low in fiber and micronutrients. The Bacteroidetes and Firmicutes were the abundant bacteria among the different gut microbiota, with low Firmicutes/Bacteroidetes ratio, and insignificant differences between the obese with and without MetS and normal weight women were reported. Firmicutes/Bacteroidetes ratio significantly correlated positively with total cholesterol and LDL-C and negatively with SCFA among obese women with MetS. Findings of this study revealed that dietary factors, dysbiosis, and the metabolic product short chain fatty acids have been implicated in causing metabolic defects.
+The gastrointestinal tract is involved in coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The gut microbiota has important roles in viral entry receptor angiotensin-converting enzyme 2 (ACE2) expression, immune homeostasis, and crosstalk between the gut and lungs, the 'gut-lung axis'. Emerging preclinical and clinical studies indicate that the gut microbiota might contribute to COVID-19 pathogenesis and disease outcomes; SARS-CoV-2 infection was associated with altered intestinal microbiota and correlated with inflammatory and immune responses. Here, we discuss the cutting-edge evidence on the interactions between SARS-CoV-2 infection and the gut microbiota, key microbial changes in relation to COVID-19 severity and host immune dysregulations with the possible underlying mechanisms, and the conceivable consequences of the pandemic on the human microbiome and post-pandemic health. Finally, potential modulatory strategies of the gut microbiota are discussed. These insights could shed light on the development of microbiota-based interventions for COVID-19.
 
-[Source](https://doi.org/10.1038/s41598-022-21056-z)
+[Source](https://doi.org/10.1038/s41575-022-00698-4)
 
-10.1038/s41598-022-21056-z
-
----
-
-## Profile of gut microbiota and serum metabolites associated with metabolic syndrome in a remote island most afflicted by obesity in Japan
-
-[Source](https://doi.org/10.1038/s41598-022-21708-0)
+10.1038/s41575-022-00698-4
 
 ---
 
-## The intestinal clock drives the microbiome to maintain gastrointestinal homeostasis.
- 19.10.2022, _M Heddes, B Altaha, Y Niu, S Reitmeier, K Kleigrewe, D Haller, S Kiessling_
+## The microbiota and aging microenvironment in pancreatic cancer: Cell origin and fate
 
-
-_ARNTL Transcription Factors, Animals, Bile Acids and Salts, Circadian Clocks, Circadian Rhythm, Fatty Acids, Homeostasis, Humans, Mice, Microbiota_
-Diurnal (i.e., 24-hour) oscillations of the gut microbiome have been described in various species including mice and humans. However, the driving force behind these rhythms remains less clear. In this study, we differentiate between endogenous and exogenous time cues driving microbial rhythms. Our results demonstrate that fecal microbial oscillations are maintained in mice kept in the absence of light, supporting a role of the host's circadian system rather than representing a diurnal response to environmental changes. Intestinal epithelial cell-specific ablation of the core clock gene Bmal1 disrupts rhythmicity of microbiota. Targeted metabolomics functionally link intestinal clock-controlled bacteria to microbial-derived products, in particular branched-chain fatty acids and secondary bile acids. Microbiota transfer from intestinal clock-deficient mice into germ-free mice altered intestinal gene expression, enhanced lymphoid organ weights and suppressed immune cell recruitment. These results highlight the importance of functional intestinal clocks for microbiota composition and function, which is required to balance the host's gastrointestinal homeostasis.
-
-[Source](https://doi.org/10.1038/s41467-022-33609-x)
-
-10.1038/s41467-022-33609-x
+[Source](https://doi.org/10.1016/j.bbcan.2022.188826)
 
 ---
 
-## Identification of bacterial lipopeptides as key players in IBS.
- 14.10.2022, _C Petitfils, S Maurel, G Payros, A Hueber, B Agaiz, G Gazzo, R Marrocco, F Auvray, G Langevin, JP Motta, P Floch, M Tremblay-Franco, JM Galano, A Guy, T Durand, S Lachambre, A Durbec, H Hussein, L Decraecker, J Bertrand-Michel, A Saoudi, E Oswald, P Poisbeau, G Dietrich, C Melchior, G Boeckxstaens, M Serino, P Le Faouder, N Cenac_
+## New perspectives into the vaginal microbiome with systems biology.
+ 22.10.2022, _CY Lee, LR Dillard, JA Papin, KB Arnold_
 
 
-Clinical studies revealed that early-life adverse events contribute to the development of IBS in adulthood. The aim of our study was to investigate the relationship between prenatal stress (PS), gut microbiota and visceral hypersensitivity with a focus on bacterial lipopeptides containing γ-aminobutyric acid (GABA).
+The vaginal microbiome (VMB) is critical to female reproductive health; however, the mechanisms associated with optimal and non-optimal states remain poorly understood due to the complex community structure and dynamic nature. Quantitative systems biology techniques applied to the VMB have improved understanding of community composition and function using primarily statistical methods. In contrast, fewer mechanistic models that use a priori knowledge of VMB features to develop predictive models have been implemented despite their use for microbiomes at other sites, including the gastrointestinal tract. Here, we explore systems biology approaches that have been applied in the VMB, highlighting successful techniques and discussing new directions that hold promise for improving understanding of health and disease.
 
-[Source](https://doi.org/10.1136/gutjnl-2022-328084)
+[Source](https://doi.org/10.1016/j.tim.2022.09.011)
 
-10.1136/gutjnl-2022-328084
-
----
-
-## Gut-innervating nociceptors regulate the intestinal microbiota to promote tissue protection
-
-[Source](https://doi.org/10.1016/j.cell.2022.09.008)
+10.1016/j.tim.2022.09.011
 
 ---
 
-## BefA, a microbiota-secreted membrane disrupter, disseminates to the pancreas and increases β cell mass
+## Oral supplementation with selected <em>Lactobacillus acidophilus</em> triggers IL-17-dependent innate defense response, activation of innate lymphoid cells type 3 and improves colitis
 
-[Source](https://doi.org/10.1016/j.cmet.2022.09.001)
-
----
-
-## Alterations in the nasopharyngeal microbiome associated with SARS-CoV-2 infection status and disease severity
-
-[Source](https://doi.org/10.1371/journal.pone.0275815)
+[Source](https://doi.org/10.1038/s41598-022-21643-0)
 
 ---
 
-## Ultra-deep Sequencing of Hadza Hunter-Gatherers Recovers Vanishing Gut Microbes
+## The Benefits of Switching to a Healthy Diet on Metabolic, Cognitive and Gut Microbiome Parameters are Preserved in Adult Rat Offspring of Mothers Fed a High-Fat, High-Sugar Diet.
+ 22.10.2022, _MD Kendig, K Hasebe, A Tajaddini, NO Kaakoush, RF Westbrook, MJ Morris_
 
-[Source](https://doi.org/10.1101/2022.03.30.486478)
 
----
+Maternal obesity increases the risk of health complications in children, highlighting the need for effective interventions. We used a rat model of maternal obesity to examine whether a diet switch intervention could reverse the adverse effects of an unhealthy postweaning diet.
 
-## Long-term use of <em>Lacticaseibacillus paracasei</em> N1115 from early life alleviates high-fat-diet-induced obesity and dysmetabolism in mice
+[Source](https://doi.org/10.1002/mnfr.202200318)
 
-[Source](https://doi.org/10.3920/BM2021.0171)
-
----
-
-## Trimethylamine, a gut bacteria metabolite and air pollutant, increases blood pressure and markers of kidney damage including proteinuria and KIM-1 in rats
-
-[Source](https://doi.org/10.1186/s12967-022-03687-y)
+10.1002/mnfr.202200318
 
 ---
 
-## Molecular detection of <em>Coxiella</em>-like endosymbionts and absence of <em>Coxiella burnetii</em> in <em>Amblyomma mixtum</em> from Veracruz, Mexico
+## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression.
+ 22.10.2022, _JL Zhang, MN Zhang, HG Wang, XZ Yang, CG Yu_
 
-[Source](https://doi.org/10.1007/s10493-022-00748-1)
+
+The natural protoberberine jatrorrhizine (JA) is reported to have several medicinal properties and a significant effect on the gut microbiota of mice. The regulation of gut microbiota is generally known to play an important role in the intestinal mucosal immune response to ulcerative colitis (UC). However, whether JA can be used in the treatment of UC is still unclear. Our study aimed to investigate the underlying therapeutic effects and mechanisms of JA in treating colitis.
+
+[Source](https://doi.org/10.1186/s13099-022-00514-z)
+
+10.1186/s13099-022-00514-z
 
 ---
 
-## An enriched ammonia-oxidizing microbiota enables high removal efficiency of ammonia in antibiotic production wastewater
+## Identification of 146 Metagenome-assembled Genomes from the Rumen Microbiome of Cattle in Japan
 
-[Source](https://doi.org/10.1016/j.chemosphere.2022.136854)
+[Source](https://doi.org/10.1264/jsme2.ME22039)
+
+---
+
+## Fidelity varies in the symbiosis between a gutless marine worm and its microbial consortium.
+ 23.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
+
+
+Many animals live in intimate associations with a species-rich microbiome. A key factor in maintaining these beneficial associations is fidelity, defined as the stability of associations between hosts and their microbiota over multiple host generations. Fidelity has been well studied in terrestrial hosts, particularly insects, over longer macroevolutionary time. In contrast, little is known about fidelity in marine animals with species-rich microbiomes at short microevolutionary time scales, that is at the level of a single host population. Given that natural selection acts most directly on local populations, studies of microevolutionary partner fidelity are important for revealing the ecological and evolutionary processes that drive intimate beneficial associations within animal species.
+
+[Source](https://doi.org/10.1186/s40168-022-01372-2)
+
+10.1186/s40168-022-01372-2
+
+---
+
+## Effects of heat stress on 16S rDNA, metagenome and metabolome in Holstein cows at different growth stages.
+ 22.10.2022, _L Feng, Y Zhang, W Liu, D Du, W Jiang, Z Wang, Z Wang, Z Hu_
+
+
+Heat stress is an important issue in dairy cattle feeding management affecting summer health and economic efficiency. This experiment combined 16S rDNA sequencing(3,864,982 tags, 30 sequencing data), metagenomic sequencing(1,269,441,128 reads, 18 sequencing data), metabolomics analysis(72 sequencing data) and blood index analysis. Ten cows in each animal type (growing heifers, heifers, and lactating cows) were selected for sample collection in April and August. Here, we characterized both the changes in metabolites, rumen microbial communities and their functional potential and the effects of heat stress on serum biochemical, immune, oxidative stress, and hormonal indices derived from rumen fluid and serum samples from cows during different growth stages and in different climates. The generated data expand the resources for the rumen microbiome related to heat stress and age and provide useful datasets for research on developing therapeutic strategies to achieve high summer milk production in cows. These datasets will help researchers study the effects of heat stress on the physiological metabolism of Holstein cows and the time-dependent changes associated with growth stages.
+
+[Source](https://doi.org/10.1038/s41597-022-01777-6)
+
+10.1038/s41597-022-01777-6
+
+---
+
+## Screening Salamanders for Symbionts.
+ 22.10.2022, _E Vickers, R Kerney_
+
+
+Microbial symbionts are broadly categorized by their impacts on host fitness: commensals, pathogens, and mutualists. However, recent investigations into the physiological basis of these impacts have revealed nuanced microbial influences on a wide range of host developmental, immunological, and physiological processes, including regeneration. Exploring these impacts begins with knowing which microbes are present. This methodological pipeline contains both targeted assays using PCR and culturing, as well as culture-independent approaches, to survey host salamander tissues for common and unknown microbial symbionts.
+
+[Source](https://doi.org/10.1007/978-1-0716-2659-7_28)
+
+10.1007/978-1-0716-2659-7_28
+
+---
+
+## Gut microbiota differs between two cold-climate lizards distributed in thermally different regions.
+ 22.10.2022, _JQ Chen, LW Zhang, RM Zhao, HX Wu, LH Lin, P Li, H Li, YF Qu, X Ji_
+
+
+The metabolic cold-climate adaption hypothesis predicts that animals from cold environments have relatively high metabolic rates compared with their warm-climate counterparts. However, studies testing this hypothesis are sparse. Here, we compared gut microbes between two cold-climate lizard species of the genus Phrynocephalus to see if gut microbiota could help lizards adapt to cold environments by promoting metabolism. We conducted a 2 species (P. erythrurus and P. przewalskii) × 2 temperatures (24 and 30 °C) factorial design experiment, whereby we kept lizards of two Phrynocephalus species at 24 and 30 °C for 25 d and then collected their fecal samples to analyze and compare the microbiota based on 16S rRNA gene sequencing technology.
+
+[Source](https://doi.org/10.1186/s12862-022-02077-8)
+
+10.1186/s12862-022-02077-8
+
+---
+
+## Microbial community in resistant and susceptible Churra sheep infected by <em>Teladorsagia circumcincta</em>
+
+[Source](https://doi.org/10.1038/s41598-022-21058-x)
+
+---
+
+## Genome Evolution of a Symbiont Population for Pathogen Defence in Honeybees.
+ 20.10.2022, _K Dyrhage, A Garcia-Montaner, D Tamarit, C Seeger, K Näslund, TC Olofsson, A Vasquez, MT Webster, SGE Andersson_
+
+
+The honeybee gut microbiome is thought to be important for bee health, but the role of the individual members is poorly understood. Here, we present closed genomes and associated mobilomes of 102 Apilactobacillus kunkeei isolates obtained from the honey crop (foregut) of honeybees sampled from beehives in Helsingborg in the south of Sweden and from the islands Gotland and Åland in the Baltic Sea. Each beehive contained a unique composition of isolates and repeated sampling of similar isolates from two beehives in Helsingborg suggests that the bacterial community is stably maintained across bee generations during the summer months. The sampled bacterial population contained an open pan-genome structure with a high genomic density of transposons. A subset of strains affiliated with phylogroup A inhibited growth of the bee pathogen Melissococcus plutonius, all of which contained a 19.5 kb plasmid for the synthesis of the antimicrobial compound kunkecin A, while a subset of phylogroups B and C strains contained a 32.9 kb plasmid for the synthesis of a putative polyketide antibiotic. This study suggests that the mobile gene pool of A. kunkeei plays a key role in pathogen defence in honeybees, providing new insights into the evolutionary dynamics of defensive symbiont populations.
+
+[Source](https://doi.org/10.1093/gbe/evac153)
+
+10.1093/gbe/evac153
+
+---
+
+## Diverse MarR bacterial regulators of auxin catabolism in the plant microbiome.
+ 20.10.2022, _JM Conway, WG Walton, I Salas-González, TF Law, CA Lindberg, LE Crook, SM Kosina, CR Fitzpatrick, AD Lietzan, TR Northen, CD Jones, OM Finkel, MR Redinbo, JL Dangl_
+
+
+Chemical signalling in the plant microbiome can have drastic effects on microbial community structure, and on host growth and development. Previously, we demonstrated that the auxin metabolic signal interference performed by the bacterial genus Variovorax via an auxin degradation locus was essential for maintaining stereotypic root development in an ecologically relevant bacterial synthetic community. Here, we dissect the Variovorax auxin degradation locus to define the genes iadDE as necessary and sufficient for indole-3-acetic acid (IAA) degradation and signal interference. We determine the crystal structures and binding properties of the operon's MarR-family repressor with IAA and other auxins. Auxin degradation operons were identified across the bacterial tree of life and we define two distinct types on the basis of gene content and metabolic products: iac-like and iad-like. The structures of MarRs from representatives of each auxin degradation operon type establish that each has distinct IAA-binding pockets. Comparison of representative IAA-degrading strains from diverse bacterial genera colonizing Arabidopsis plants show that while all degrade IAA, only strains containing iad-like auxin-degrading operons interfere with auxin signalling in a complex synthetic community context. This suggests that iad-like operon-containing bacterial strains, including Variovorax species, play a key ecological role in modulating auxins in the plant microbiome.
+
+[Source](https://doi.org/10.1038/s41564-022-01244-3)
+
+10.1038/s41564-022-01244-3
+
+---
+
+## Phytohormones producing rhizobacteria alleviate heavy metals stress in soybean through multilayered response
+
+[Source](https://doi.org/10.1016/j.micres.2022.127237)
+
+---
+
+## Linking plant functional genes to rhizosphere microbes: a review
+
+[Source](https://doi.org/10.1111/pbi.13950)
+
+---
+
+## Resampling-based inferences for compositional regression with application to beef cattle microbiomes.
+ 21.10.2022, _S Lee, S Jung, J Lourenco, D Pringle, J Ahn_
+
+
+Gut microbiomes are increasingly found to be associated with many health-related characteristics of humans as well as animals. Regression with compositional microbiomes covariates is commonly used to identify important bacterial taxa that are related to various phenotype responses. Often the dimension of microbiome taxa easily exceeds the number of available samples, which creates a serious challenge in the estimation and inference of the model. The sparse log-contrast regression method is useful for such cases as it can yield a model estimate that depends on only a small number of taxa. However, a formal statistical inference procedure for individual regression coefficients has not been properly established yet. We propose a new estimation and inference procedure for linear regression models with extremely low-sample-sized compositional predictors. Under the compositional log-contrast regression framework, the proposed approach consists of two steps. The first step is to screen relevant predictors by fitting a log-contrast model with a sparse penalty. The screened-in variables are used as predictors in the non-sparse log-contrast model in the second step, where each of the regression coefficients is tested using nonparametric, resampling-based methods such as permutation and bootstrap. The performances of the proposed methods are evaluated by a simulation study, which shows they outperform traditional approaches based on normal assumptions or large sample asymptotics. Application to steer microbiome data successfully identifies key bacterial taxa that are related to important cattle quality measures.
+
+[Source](https://doi.org/10.1177/09622802221133550)
+
+10.1177/09622802221133550
+
+---
+
+## Methods used for the study of endophytic fungi: a review on methodologies and challenges, and associated tips
+
+[Source](https://doi.org/10.1007/s00203-022-03283-0)
 
 ---
 
