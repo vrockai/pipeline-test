@@ -1,13 +1,6 @@
-## Comparison of microbial signatures between paired faecal and rectal biopsy samples from healthy volunteers using next-generation sequencing and culturomics.
- 19.10.2022, _I Mukhopadhya, JC Martin, S Shaw, AJ McKinley, SW Gratz, KP Scott_
-
-
-_Bacteria, Biopsy, Feces, Healthy Volunteers, High-Throughput Nucleotide Sequencing, Humans, RNA, Ribosomal, 16S_
-Faecal samples are frequently used to characterise the gut microbiota in health and disease, yet there is considerable debate about how representative faecal bacterial profiles are of the overall gut community. A particular concern is whether bacterial populations associated with the gut mucosa are properly represented in faecal samples, since these communities are considered critical in the aetiology of gastrointestinal diseases. In this study we compared the profiles of the faecal and mucosal microbiota from ten healthy volunteers using bacterial culturing (culturomics) and next-generation sequencing targeting the 16S ribosomal nucleic acid (rRNA) gene. Paired fresh rectal biopsies and faecal samples were processed under stringent anaerobic conditions to maintain the viability of the bacteria. Four different sample types were analysed: faecal (F), faecal homogenised (FHg), biopsy tissue (B) and biopsy wash (BW) samples. RESULTS: There were no significant statistical differences in either bacterial richness or diversity between biopsy washes (BW) and faecal (F) or faecal homogenised (FHg) samples. Principal coordinates analysis of a Bray-Curtis distance matrix generated from sequence variant tables did not show distinct clustering between these samples (PERMANOVA; p = 0.972) but showed strong clustering of samples from individual donors. However, the rectal biopsy tissue (B) samples had a significantly altered bacterial signature with greater abundance of Proteobacteria and Acidobacteria compared to faecal (F) and faecal homogenised (FHg) samples. A total of 528 bacteria encompassing 92 distinct bacterial species were isolated and cultured from a subset of six volunteer samples (biopsy washes and faeces). This included isolation of 22 novel bacterial species. There was significant similarity between the bacterial species grown in anaerobic culture and those identified by 16S rRNA gene sequencing (Spearman correlation; rho = 0.548, p = 0.001).
+## Comparison of microbial signatures between paired faecal and rectal biopsy samples from healthy volunteers using next-generation sequencing and culturomics
 
 [Source](https://doi.org/10.1186/s40168-022-01354-4)
-
-10.1186/s40168-022-01354-4
 
 ---
 
