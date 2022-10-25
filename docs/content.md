@@ -23,9 +23,10 @@ Pregnancy and infancy are vulnerable times for detrimental environmental exposur
 ---
 
 ## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients.
- 23.10.2022, _JS Bruno, V Heidrich, FH Knebel, VC de Molla, CJ Parahyba, W Miranda-Silva, P F Asprino, L Tucunduva, V Rocha, Y Novis, C Arrais-Rodrigues, A A Camargo, E R Fregnani_
+ 24.10.2022, _JS Bruno, V Heidrich, FH Knebel, VC de Molla, CJ Parahyba, W Miranda-Silva, P F Asprino, L Tucunduva, V Rocha, Y Novis, C Arrais-Rodrigues, A A Camargo, E R Fregnani_
 
 
+_Humans, RNA, Ribosomal, 16S, Stomatitis, Hematopoietic Stem Cell Transplantation, Microbiota, Mouth Mucosa, Stomatitis, Aphthous_
 Oral mucositis (OM) is a complex acute cytotoxicity of antineoplastic treatment that affects 40-85% of patients undergoing hematopoietic stem-cell transplantation. OM is associated with prolonged hospitalization, increased extensive pharmacotherapy, need for parenteral nutrition, and elevated treatment costs. As OM onset relates to the mucosal microenvironment status, with a particular role for microbiota-driven inflammation, we aimed to investigate whether the oral mucosa microbiota was associated with the clinical course of OM in patients undergoing allogeneic hematopoietic stem-cell transplantation. We collected oral mucosa samples from 30 patients and analyzed the oral mucosa microbiota by 16S rRNA sequencing. A total of 13 patients (43%) developed ulcerative OM. We observed that specific taxa were associated with oral mucositis grade and time to oral mucositis healing. Porphyromonas relative abundance at preconditioning was positively correlated with ulcerative OM grade (Spearman ρ = 0.61, P = 0.028) and higher Lactobacillus relative abundance at ulcerative OM onset was associated with shortened ulcerative OM duration (P = 0.032). Additionally, we generated a machine-learning-based bacterial signature that uses pre-treatment microbial profiles to predict whether a patient will develop OM during treatment. Our findings suggest that further research should focus on host-microbiome interactions to better prevent and treat OM.
 
 [Source](https://doi.org/10.1038/s41598-022-21775-3)
@@ -83,7 +84,7 @@ Maternal obesity increases the risk of health complications in children, highlig
 ---
 
 ## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression.
- 22.10.2022, _JL Zhang, MN Zhang, HG Wang, XZ Yang, CG Yu_
+ 24.10.2022, _JL Zhang, MN Zhang, HG Wang, XZ Yang, CG Yu_
 
 
 The natural protoberberine jatrorrhizine (JA) is reported to have several medicinal properties and a significant effect on the gut microbiota of mice. The regulation of gut microbiota is generally known to play an important role in the intestinal mucosal immune response to ulcerative colitis (UC). However, whether JA can be used in the treatment of UC is still unclear. Our study aimed to investigate the underlying therapeutic effects and mechanisms of JA in treating colitis.
@@ -101,7 +102,7 @@ The natural protoberberine jatrorrhizine (JA) is reported to have several medici
 ---
 
 ## Fidelity varies in the symbiosis between a gutless marine worm and its microbial consortium.
- 23.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
+ 24.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
 
 
 Many animals live in intimate associations with a species-rich microbiome. A key factor in maintaining these beneficial associations is fidelity, defined as the stability of associations between hosts and their microbiota over multiple host generations. Fidelity has been well studied in terrestrial hosts, particularly insects, over longer macroevolutionary time. In contrast, little is known about fidelity in marine animals with species-rich microbiomes at short microevolutionary time scales, that is at the level of a single host population. Given that natural selection acts most directly on local populations, studies of microevolutionary partner fidelity are important for revealing the ecological and evolutionary processes that drive intimate beneficial associations within animal species.
@@ -113,7 +114,7 @@ Many animals live in intimate associations with a species-rich microbiome. A key
 ---
 
 ## Effects of heat stress on 16S rDNA, metagenome and metabolome in Holstein cows at different growth stages.
- 22.10.2022, _L Feng, Y Zhang, W Liu, D Du, W Jiang, Z Wang, Z Wang, Z Hu_
+ 24.10.2022, _L Feng, Y Zhang, W Liu, D Du, W Jiang, Z Wang, Z Wang, Z Hu_
 
 
 Heat stress is an important issue in dairy cattle feeding management affecting summer health and economic efficiency. This experiment combined 16S rDNA sequencing(3,864,982 tags, 30 sequencing data), metagenomic sequencing(1,269,441,128 reads, 18 sequencing data), metabolomics analysis(72 sequencing data) and blood index analysis. Ten cows in each animal type (growing heifers, heifers, and lactating cows) were selected for sample collection in April and August. Here, we characterized both the changes in metabolites, rumen microbial communities and their functional potential and the effects of heat stress on serum biochemical, immune, oxidative stress, and hormonal indices derived from rumen fluid and serum samples from cows during different growth stages and in different climates. The generated data expand the resources for the rumen microbiome related to heat stress and age and provide useful datasets for research on developing therapeutic strategies to achieve high summer milk production in cows. These datasets will help researchers study the effects of heat stress on the physiological metabolism of Holstein cows and the time-dependent changes associated with growth stages.
@@ -125,7 +126,7 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 ---
 
 ## Screening Salamanders for Symbionts.
- 22.10.2022, _E Vickers, R Kerney_
+ 24.10.2022, _E Vickers, R Kerney_
 
 
 Microbial symbionts are broadly categorized by their impacts on host fitness: commensals, pathogens, and mutualists. However, recent investigations into the physiological basis of these impacts have revealed nuanced microbial influences on a wide range of host developmental, immunological, and physiological processes, including regeneration. Exploring these impacts begins with knowing which microbes are present. This methodological pipeline contains both targeted assays using PCR and culturing, as well as culture-independent approaches, to survey host salamander tissues for common and unknown microbial symbionts.
@@ -137,7 +138,7 @@ Microbial symbionts are broadly categorized by their impacts on host fitness: co
 ---
 
 ## Gut microbiota differs between two cold-climate lizards distributed in thermally different regions.
- 22.10.2022, _JQ Chen, LW Zhang, RM Zhao, HX Wu, LH Lin, P Li, H Li, YF Qu, X Ji_
+ 24.10.2022, _JQ Chen, LW Zhang, RM Zhao, HX Wu, LH Lin, P Li, H Li, YF Qu, X Ji_
 
 
 The metabolic cold-climate adaption hypothesis predicts that animals from cold environments have relatively high metabolic rates compared with their warm-climate counterparts. However, studies testing this hypothesis are sparse. Here, we compared gut microbes between two cold-climate lizard species of the genus Phrynocephalus to see if gut microbiota could help lizards adapt to cold environments by promoting metabolism. We conducted a 2 species (P. erythrurus and P. przewalskii) × 2 temperatures (24 and 30 °C) factorial design experiment, whereby we kept lizards of two Phrynocephalus species at 24 and 30 °C for 25 d and then collected their fecal samples to analyze and compare the microbiota based on 16S rRNA gene sequencing technology.
@@ -184,9 +185,15 @@ Chemical signalling in the plant microbiome can have drastic effects on microbia
 
 ---
 
-## Linking plant functional genes to rhizosphere microbes: a review
+## Linking plant functional genes to rhizosphere microbes: a review.
+ 22.10.2022, _Q Liu, L Cheng, H Nian, J Jin, T Lian_
+
+
+The importance of rhizomicrobiome in plant development, nutrition acquisition and stress tolerance is unquestionable. Relevant plant genes corresponding to the above functions also regulate rhizomicrobiome construction. Deciphering the molecular regulatory network of plant-microbe interactions could substantially contribute to improving crop yield and quality. Here, the plant genes related nutrient uptake, biotic and abiotic stresses resistance, which may influence the composition and function of microbial communities, are discussed in this review. In turn, the influence of microbes on the expression of functional plant genes, and thereby plant growth and immunity, are also reviewed. Moreover, we have specifically paid attention to techniques and methods used to link plant functional genes and rhizomicrobiome. Finally, we propose to further explore the molecular mechanisms and signaling pathways of microbe-host gene interactions, which could potentially be used for managing plant health in agricultural systems.
 
 [Source](https://doi.org/10.1111/pbi.13950)
+
+10.1111/pbi.13950
 
 ---
 
