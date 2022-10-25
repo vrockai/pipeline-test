@@ -22,28 +22,15 @@ Pregnancy and infancy are vulnerable times for detrimental environmental exposur
 
 ---
 
-## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients.
- 24.10.2022, _JS Bruno, V Heidrich, FH Knebel, VC de Molla, CJ Parahyba, W Miranda-Silva, P F Asprino, L Tucunduva, V Rocha, Y Novis, C Arrais-Rodrigues, A A Camargo, E R Fregnani_
-
-
-_Humans, RNA, Ribosomal, 16S, Stomatitis, Hematopoietic Stem Cell Transplantation, Microbiota, Mouth Mucosa, Stomatitis, Aphthous_
-Oral mucositis (OM) is a complex acute cytotoxicity of antineoplastic treatment that affects 40-85% of patients undergoing hematopoietic stem-cell transplantation. OM is associated with prolonged hospitalization, increased extensive pharmacotherapy, need for parenteral nutrition, and elevated treatment costs. As OM onset relates to the mucosal microenvironment status, with a particular role for microbiota-driven inflammation, we aimed to investigate whether the oral mucosa microbiota was associated with the clinical course of OM in patients undergoing allogeneic hematopoietic stem-cell transplantation. We collected oral mucosa samples from 30 patients and analyzed the oral mucosa microbiota by 16S rRNA sequencing. A total of 13 patients (43%) developed ulcerative OM. We observed that specific taxa were associated with oral mucositis grade and time to oral mucositis healing. Porphyromonas relative abundance at preconditioning was positively correlated with ulcerative OM grade (Spearman ρ = 0.61, P = 0.028) and higher Lactobacillus relative abundance at ulcerative OM onset was associated with shortened ulcerative OM duration (P = 0.032). Additionally, we generated a machine-learning-based bacterial signature that uses pre-treatment microbial profiles to predict whether a patient will develop OM during treatment. Our findings suggest that further research should focus on host-microbiome interactions to better prevent and treat OM.
+## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients
 
 [Source](https://doi.org/10.1038/s41598-022-21775-3)
 
-10.1038/s41598-022-21775-3
-
 ---
 
-## Gut microbiota in COVID-19: key microbial changes, potential mechanisms and clinical applications.
- 22.10.2022, _RI Lau, F Zhang, Q Liu, Q Su, FKL Chan, SC Ng_
-
-
-The gastrointestinal tract is involved in coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The gut microbiota has important roles in viral entry receptor angiotensin-converting enzyme 2 (ACE2) expression, immune homeostasis, and crosstalk between the gut and lungs, the 'gut-lung axis'. Emerging preclinical and clinical studies indicate that the gut microbiota might contribute to COVID-19 pathogenesis and disease outcomes; SARS-CoV-2 infection was associated with altered intestinal microbiota and correlated with inflammatory and immune responses. Here, we discuss the cutting-edge evidence on the interactions between SARS-CoV-2 infection and the gut microbiota, key microbial changes in relation to COVID-19 severity and host immune dysregulations with the possible underlying mechanisms, and the conceivable consequences of the pandemic on the human microbiome and post-pandemic health. Finally, potential modulatory strategies of the gut microbiota are discussed. These insights could shed light on the development of microbiota-based interventions for COVID-19.
+## Gut microbiota in COVID-19: key microbial changes, potential mechanisms and clinical applications
 
 [Source](https://doi.org/10.1038/s41575-022-00698-4)
-
-10.1038/s41575-022-00698-4
 
 ---
 
@@ -53,15 +40,9 @@ The gastrointestinal tract is involved in coronavirus disease 2019 (COVID-19) ca
 
 ---
 
-## New perspectives into the vaginal microbiome with systems biology.
- 22.10.2022, _CY Lee, LR Dillard, JA Papin, KB Arnold_
-
-
-The vaginal microbiome (VMB) is critical to female reproductive health; however, the mechanisms associated with optimal and non-optimal states remain poorly understood due to the complex community structure and dynamic nature. Quantitative systems biology techniques applied to the VMB have improved understanding of community composition and function using primarily statistical methods. In contrast, fewer mechanistic models that use a priori knowledge of VMB features to develop predictive models have been implemented despite their use for microbiomes at other sites, including the gastrointestinal tract. Here, we explore systems biology approaches that have been applied in the VMB, highlighting successful techniques and discussing new directions that hold promise for improving understanding of health and disease.
+## New perspectives into the vaginal microbiome with systems biology
 
 [Source](https://doi.org/10.1016/j.tim.2022.09.011)
-
-10.1016/j.tim.2022.09.011
 
 ---
 
@@ -71,27 +52,15 @@ The vaginal microbiome (VMB) is critical to female reproductive health; however,
 
 ---
 
-## The Benefits of Switching to a Healthy Diet on Metabolic, Cognitive and Gut Microbiome Parameters are Preserved in Adult Rat Offspring of Mothers Fed a High-Fat, High-Sugar Diet.
- 22.10.2022, _MD Kendig, K Hasebe, A Tajaddini, NO Kaakoush, RF Westbrook, MJ Morris_
-
-
-Maternal obesity increases the risk of health complications in children, highlighting the need for effective interventions. We used a rat model of maternal obesity to examine whether a diet switch intervention could reverse the adverse effects of an unhealthy postweaning diet.
+## The Benefits of Switching to a Healthy Diet on Metabolic, Cognitive and Gut Microbiome Parameters are Preserved in Adult Rat Offspring of Mothers Fed a High-Fat, High-Sugar Diet
 
 [Source](https://doi.org/10.1002/mnfr.202200318)
 
-10.1002/mnfr.202200318
-
 ---
 
-## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression.
- 24.10.2022, _JL Zhang, MN Zhang, HG Wang, XZ Yang, CG Yu_
-
-
-The natural protoberberine jatrorrhizine (JA) is reported to have several medicinal properties and a significant effect on the gut microbiota of mice. The regulation of gut microbiota is generally known to play an important role in the intestinal mucosal immune response to ulcerative colitis (UC). However, whether JA can be used in the treatment of UC is still unclear. Our study aimed to investigate the underlying therapeutic effects and mechanisms of JA in treating colitis.
+## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression
 
 [Source](https://doi.org/10.1186/s13099-022-00514-z)
-
-10.1186/s13099-022-00514-z
 
 ---
 
@@ -185,27 +154,15 @@ Chemical signalling in the plant microbiome can have drastic effects on microbia
 
 ---
 
-## Linking plant functional genes to rhizosphere microbes: a review.
- 22.10.2022, _Q Liu, L Cheng, H Nian, J Jin, T Lian_
-
-
-The importance of rhizomicrobiome in plant development, nutrition acquisition and stress tolerance is unquestionable. Relevant plant genes corresponding to the above functions also regulate rhizomicrobiome construction. Deciphering the molecular regulatory network of plant-microbe interactions could substantially contribute to improving crop yield and quality. Here, the plant genes related nutrient uptake, biotic and abiotic stresses resistance, which may influence the composition and function of microbial communities, are discussed in this review. In turn, the influence of microbes on the expression of functional plant genes, and thereby plant growth and immunity, are also reviewed. Moreover, we have specifically paid attention to techniques and methods used to link plant functional genes and rhizomicrobiome. Finally, we propose to further explore the molecular mechanisms and signaling pathways of microbe-host gene interactions, which could potentially be used for managing plant health in agricultural systems.
+## Linking plant functional genes to rhizosphere microbes: a review
 
 [Source](https://doi.org/10.1111/pbi.13950)
 
-10.1111/pbi.13950
-
 ---
 
-## Resampling-based inferences for compositional regression with application to beef cattle microbiomes.
- 21.10.2022, _S Lee, S Jung, J Lourenco, D Pringle, J Ahn_
-
-
-Gut microbiomes are increasingly found to be associated with many health-related characteristics of humans as well as animals. Regression with compositional microbiomes covariates is commonly used to identify important bacterial taxa that are related to various phenotype responses. Often the dimension of microbiome taxa easily exceeds the number of available samples, which creates a serious challenge in the estimation and inference of the model. The sparse log-contrast regression method is useful for such cases as it can yield a model estimate that depends on only a small number of taxa. However, a formal statistical inference procedure for individual regression coefficients has not been properly established yet. We propose a new estimation and inference procedure for linear regression models with extremely low-sample-sized compositional predictors. Under the compositional log-contrast regression framework, the proposed approach consists of two steps. The first step is to screen relevant predictors by fitting a log-contrast model with a sparse penalty. The screened-in variables are used as predictors in the non-sparse log-contrast model in the second step, where each of the regression coefficients is tested using nonparametric, resampling-based methods such as permutation and bootstrap. The performances of the proposed methods are evaluated by a simulation study, which shows they outperform traditional approaches based on normal assumptions or large sample asymptotics. Application to steer microbiome data successfully identifies key bacterial taxa that are related to important cattle quality measures.
+## Resampling-based inferences for compositional regression with application to beef cattle microbiomes
 
 [Source](https://doi.org/10.1177/09622802221133550)
-
-10.1177/09622802221133550
 
 ---
 
