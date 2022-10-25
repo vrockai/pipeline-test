@@ -22,27 +22,52 @@ Pregnancy and infancy are vulnerable times for detrimental environmental exposur
 
 ---
 
-## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients
+## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients.
+ 24.10.2022, _JS Bruno, V Heidrich, FH Knebel, VC de Molla, CJ Parahyba, W Miranda-Silva, P F Asprino, L Tucunduva, V Rocha, Y Novis, C Arrais-Rodrigues, A A Camargo, E R Fregnani_
+
+
+_Humans, RNA, Ribosomal, 16S, Stomatitis, Hematopoietic Stem Cell Transplantation, Microbiota, Mouth Mucosa, Stomatitis, Aphthous_
+Oral mucositis (OM) is a complex acute cytotoxicity of antineoplastic treatment that affects 40-85% of patients undergoing hematopoietic stem-cell transplantation. OM is associated with prolonged hospitalization, increased extensive pharmacotherapy, need for parenteral nutrition, and elevated treatment costs. As OM onset relates to the mucosal microenvironment status, with a particular role for microbiota-driven inflammation, we aimed to investigate whether the oral mucosa microbiota was associated with the clinical course of OM in patients undergoing allogeneic hematopoietic stem-cell transplantation. We collected oral mucosa samples from 30 patients and analyzed the oral mucosa microbiota by 16S rRNA sequencing. A total of 13 patients (43%) developed ulcerative OM. We observed that specific taxa were associated with oral mucositis grade and time to oral mucositis healing. Porphyromonas relative abundance at preconditioning was positively correlated with ulcerative OM grade (Spearman ρ = 0.61, P = 0.028) and higher Lactobacillus relative abundance at ulcerative OM onset was associated with shortened ulcerative OM duration (P = 0.032). Additionally, we generated a machine-learning-based bacterial signature that uses pre-treatment microbial profiles to predict whether a patient will develop OM during treatment. Our findings suggest that further research should focus on host-microbiome interactions to better prevent and treat OM.
 
 [Source](https://doi.org/10.1038/s41598-022-21775-3)
 
+10.1038/s41598-022-21775-3
+
 ---
 
-## Gut microbiota in COVID-19: key microbial changes, potential mechanisms and clinical applications
+## Gut microbiota in COVID-19: key microbial changes, potential mechanisms and clinical applications.
+ 22.10.2022, _RI Lau, F Zhang, Q Liu, Q Su, FKL Chan, SC Ng_
+
+
+The gastrointestinal tract is involved in coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The gut microbiota has important roles in viral entry receptor angiotensin-converting enzyme 2 (ACE2) expression, immune homeostasis, and crosstalk between the gut and lungs, the 'gut-lung axis'. Emerging preclinical and clinical studies indicate that the gut microbiota might contribute to COVID-19 pathogenesis and disease outcomes; SARS-CoV-2 infection was associated with altered intestinal microbiota and correlated with inflammatory and immune responses. Here, we discuss the cutting-edge evidence on the interactions between SARS-CoV-2 infection and the gut microbiota, key microbial changes in relation to COVID-19 severity and host immune dysregulations with the possible underlying mechanisms, and the conceivable consequences of the pandemic on the human microbiome and post-pandemic health. Finally, potential modulatory strategies of the gut microbiota are discussed. These insights could shed light on the development of microbiota-based interventions for COVID-19.
 
 [Source](https://doi.org/10.1038/s41575-022-00698-4)
 
+10.1038/s41575-022-00698-4
+
 ---
 
-## The microbiota and aging microenvironment in pancreatic cancer: Cell origin and fate
+## The microbiota and aging microenvironment in pancreatic cancer: Cell origin and fate.
+ 23.10.2022, _Z Chen, Z Wang, Y Du, H Shi, W Zhou_
+
+
+Cellular senescence is a state of growth arrest where nonproliferative cells accumulate over time in the aging microenvironment under multiple external factors. Senescent cells exert a double-edged sword effect in an autocrine or paracrine manner: physiologically, they contribute to tissue development, prevent the multiplication of damaged cells and contribute to tissue repair and tumor suppression while favoring the onset of age-related diseases, including tumors. The microbiota in human tissues is intricately linked to cellular senescence and is reportedly present in the tissues of various tumors (including pancreatic tumors), closely associated with tumorigenesis and progression. The microbiota can induce cells to undergo senescence, and their long-term effects can assist senescent cells in transforming and successfully escaping senescence, contributing to tumorigenesis and progression. Here, we focus on the correlation between the microbiota, cellular senescence, and pancreatic cancer to provide novel ideas for the study and therapy of pancreatic cancer.
 
 [Source](https://doi.org/10.1016/j.bbcan.2022.188826)
 
+10.1016/j.bbcan.2022.188826
+
 ---
 
-## New perspectives into the vaginal microbiome with systems biology
+## New perspectives into the vaginal microbiome with systems biology.
+ 22.10.2022, _CY Lee, LR Dillard, JA Papin, KB Arnold_
+
+
+The vaginal microbiome (VMB) is critical to female reproductive health; however, the mechanisms associated with optimal and non-optimal states remain poorly understood due to the complex community structure and dynamic nature. Quantitative systems biology techniques applied to the VMB have improved understanding of community composition and function using primarily statistical methods. In contrast, fewer mechanistic models that use a priori knowledge of VMB features to develop predictive models have been implemented despite their use for microbiomes at other sites, including the gastrointestinal tract. Here, we explore systems biology approaches that have been applied in the VMB, highlighting successful techniques and discussing new directions that hold promise for improving understanding of health and disease.
 
 [Source](https://doi.org/10.1016/j.tim.2022.09.011)
+
+10.1016/j.tim.2022.09.011
 
 ---
 
@@ -52,21 +77,40 @@ Pregnancy and infancy are vulnerable times for detrimental environmental exposur
 
 ---
 
-## The Benefits of Switching to a Healthy Diet on Metabolic, Cognitive and Gut Microbiome Parameters are Preserved in Adult Rat Offspring of Mothers Fed a High-Fat, High-Sugar Diet
+## The Benefits of Switching to a Healthy Diet on Metabolic, Cognitive and Gut Microbiome Parameters are Preserved in Adult Rat Offspring of Mothers Fed a High-Fat, High-Sugar Diet.
+ 22.10.2022, _MD Kendig, K Hasebe, A Tajaddini, NO Kaakoush, RF Westbrook, MJ Morris_
+
+
+Maternal obesity increases the risk of health complications in children, highlighting the need for effective interventions. We used a rat model of maternal obesity to examine whether a diet switch intervention could reverse the adverse effects of an unhealthy postweaning diet.
 
 [Source](https://doi.org/10.1002/mnfr.202200318)
 
+10.1002/mnfr.202200318
+
 ---
 
-## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression
+## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression.
+ 24.10.2022, _JL Zhang, MN Zhang, HG Wang, XZ Yang, CG Yu_
+
+
+The natural protoberberine jatrorrhizine (JA) is reported to have several medicinal properties and a significant effect on the gut microbiota of mice. The regulation of gut microbiota is generally known to play an important role in the intestinal mucosal immune response to ulcerative colitis (UC). However, whether JA can be used in the treatment of UC is still unclear. Our study aimed to investigate the underlying therapeutic effects and mechanisms of JA in treating colitis.
 
 [Source](https://doi.org/10.1186/s13099-022-00514-z)
 
+10.1186/s13099-022-00514-z
+
 ---
 
-## Identification of 146 Metagenome-assembled Genomes from the Rumen Microbiome of Cattle in Japan
+## Identification of 146 Metagenome-assembled Genomes from the Rumen Microbiome of Cattle in Japan.
+ 25.10.2022, _Y Sato, H Takebe, K Oishi, J Yasuda, H Kumagai, H Hirooka, T Yoshida_
+
+
+_Cattle, Animals, Metagenome, Rumen, Japan, Bacteria, Phylogeny, Microbiota, Cellulose, Metagenomics_
+The rumen contains a complex microbial ecosystem that degrades plant materials, such as cellulose and hemicellulose. We herein reconstructed 146 nonredundant, rumen-specific metagenome-assembled genomes (MAGs), with ≥50% completeness and &lt;10% contamination, from cattle in Japan. The majority of MAGs were potentially novel strains, encoding various enzymes related to plant biomass degradation and volatile fatty acid production. The MAGs identified in the present study may be valuable resources to enhance the resolution of future taxonomical and functional studies based on metagenomes and metatranscriptomes.
 
 [Source](https://doi.org/10.1264/jsme2.ME22039)
+
+10.1264/jsme2.ME22039
 
 ---
 
@@ -158,15 +202,9 @@ Chemical signalling in the plant microbiome can have drastic effects on microbia
 
 ---
 
-## Linking plant functional genes to rhizosphere microbes: a review.
- 22.10.2022, _Q Liu, L Cheng, H Nian, J Jin, T Lian_
-
-
-The importance of rhizomicrobiome in plant development, nutrition acquisition and stress tolerance is unquestionable. Relevant plant genes corresponding to the above functions also regulate rhizomicrobiome construction. Deciphering the molecular regulatory network of plant-microbe interactions could substantially contribute to improving crop yield and quality. Here, the plant genes related nutrient uptake, biotic and abiotic stresses resistance, which may influence the composition and function of microbial communities, are discussed in this review. In turn, the influence of microbes on the expression of functional plant genes, and thereby plant growth and immunity, are also reviewed. Moreover, we have specifically paid attention to techniques and methods used to link plant functional genes and rhizomicrobiome. Finally, we propose to further explore the molecular mechanisms and signaling pathways of microbe-host gene interactions, which could potentially be used for managing plant health in agricultural systems.
+## Linking plant functional genes to rhizosphere microbes: a review
 
 [Source](https://doi.org/10.1111/pbi.13950)
-
-10.1111/pbi.13950
 
 ---
 
