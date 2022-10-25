@@ -71,9 +71,10 @@ Pregnancy and infancy are vulnerable times for detrimental environmental exposur
 ---
 
 ## Fidelity varies in the symbiosis between a gutless marine worm and its microbial consortium.
- 24.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
+ 25.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
 
 
+_Animals, Symbiosis, Microbial Consortia, Phylogeny, Bacteria, Sulfates, Sulfur, Nucleotides_
 Many animals live in intimate associations with a species-rich microbiome. A key factor in maintaining these beneficial associations is fidelity, defined as the stability of associations between hosts and their microbiota over multiple host generations. Fidelity has been well studied in terrestrial hosts, particularly insects, over longer macroevolutionary time. In contrast, little is known about fidelity in marine animals with species-rich microbiomes at short microevolutionary time scales, that is at the level of a single host population. Given that natural selection acts most directly on local populations, studies of microevolutionary partner fidelity are important for revealing the ecological and evolutionary processes that drive intimate beneficial associations within animal species.
 
 [Source](https://doi.org/10.1186/s40168-022-01372-2)
@@ -83,9 +84,10 @@ Many animals live in intimate associations with a species-rich microbiome. A key
 ---
 
 ## Effects of heat stress on 16S rDNA, metagenome and metabolome in Holstein cows at different growth stages.
- 24.10.2022, _L Feng, Y Zhang, W Liu, D Du, W Jiang, Z Wang, Z Wang, Z Hu_
+ 25.10.2022, _L Feng, Y Zhang, W Liu, D Du, W Jiang, Z Wang, Z Wang, Z Hu_
 
 
+_Cattle, Animals, Female, Lactation, Metagenome, Milk, DNA, Ribosomal, Metabolome, Heat-Shock Response, Diet_
 Heat stress is an important issue in dairy cattle feeding management affecting summer health and economic efficiency. This experiment combined 16S rDNA sequencing(3,864,982 tags, 30 sequencing data), metagenomic sequencing(1,269,441,128 reads, 18 sequencing data), metabolomics analysis(72 sequencing data) and blood index analysis. Ten cows in each animal type (growing heifers, heifers, and lactating cows) were selected for sample collection in April and August. Here, we characterized both the changes in metabolites, rumen microbial communities and their functional potential and the effects of heat stress on serum biochemical, immune, oxidative stress, and hormonal indices derived from rumen fluid and serum samples from cows during different growth stages and in different climates. The generated data expand the resources for the rumen microbiome related to heat stress and age and provide useful datasets for research on developing therapeutic strategies to achieve high summer milk production in cows. These datasets will help researchers study the effects of heat stress on the physiological metabolism of Holstein cows and the time-dependent changes associated with growth stages.
 
 [Source](https://doi.org/10.1038/s41597-022-01777-6)
@@ -95,9 +97,10 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 ---
 
 ## Screening Salamanders for Symbionts.
- 24.10.2022, _E Vickers, R Kerney_
+ 25.10.2022, _E Vickers, R Kerney_
 
 
+_Animals, Urodela, Bacteria, Symbiosis_
 Microbial symbionts are broadly categorized by their impacts on host fitness: commensals, pathogens, and mutualists. However, recent investigations into the physiological basis of these impacts have revealed nuanced microbial influences on a wide range of host developmental, immunological, and physiological processes, including regeneration. Exploring these impacts begins with knowing which microbes are present. This methodological pipeline contains both targeted assays using PCR and culturing, as well as culture-independent approaches, to survey host salamander tissues for common and unknown microbial symbionts.
 
 [Source](https://doi.org/10.1007/978-1-0716-2659-7_28)
@@ -107,9 +110,10 @@ Microbial symbionts are broadly categorized by their impacts on host fitness: co
 ---
 
 ## Gut microbiota differs between two cold-climate lizards distributed in thermally different regions.
- 24.10.2022, _JQ Chen, LW Zhang, RM Zhao, HX Wu, LH Lin, P Li, H Li, YF Qu, X Ji_
+ 25.10.2022, _JQ Chen, LW Zhang, RM Zhao, HX Wu, LH Lin, P Li, H Li, YF Qu, X Ji_
 
 
+_Animals, Lizards, Gastrointestinal Microbiome, Altitude, RNA, Ribosomal, 16S, Acclimatization, Bacteria_
 The metabolic cold-climate adaption hypothesis predicts that animals from cold environments have relatively high metabolic rates compared with their warm-climate counterparts. However, studies testing this hypothesis are sparse. Here, we compared gut microbes between two cold-climate lizard species of the genus Phrynocephalus to see if gut microbiota could help lizards adapt to cold environments by promoting metabolism. We conducted a 2 species (P. erythrurus and P. przewalskii) × 2 temperatures (24 and 30 °C) factorial design experiment, whereby we kept lizards of two Phrynocephalus species at 24 and 30 °C for 25 d and then collected their fecal samples to analyze and compare the microbiota based on 16S rRNA gene sequencing technology.
 
 [Source](https://doi.org/10.1186/s12862-022-02077-8)
@@ -154,15 +158,27 @@ Chemical signalling in the plant microbiome can have drastic effects on microbia
 
 ---
 
-## Linking plant functional genes to rhizosphere microbes: a review
+## Linking plant functional genes to rhizosphere microbes: a review.
+ 22.10.2022, _Q Liu, L Cheng, H Nian, J Jin, T Lian_
+
+
+The importance of rhizomicrobiome in plant development, nutrition acquisition and stress tolerance is unquestionable. Relevant plant genes corresponding to the above functions also regulate rhizomicrobiome construction. Deciphering the molecular regulatory network of plant-microbe interactions could substantially contribute to improving crop yield and quality. Here, the plant genes related nutrient uptake, biotic and abiotic stresses resistance, which may influence the composition and function of microbial communities, are discussed in this review. In turn, the influence of microbes on the expression of functional plant genes, and thereby plant growth and immunity, are also reviewed. Moreover, we have specifically paid attention to techniques and methods used to link plant functional genes and rhizomicrobiome. Finally, we propose to further explore the molecular mechanisms and signaling pathways of microbe-host gene interactions, which could potentially be used for managing plant health in agricultural systems.
 
 [Source](https://doi.org/10.1111/pbi.13950)
 
+10.1111/pbi.13950
+
 ---
 
-## Resampling-based inferences for compositional regression with application to beef cattle microbiomes
+## Resampling-based inferences for compositional regression with application to beef cattle microbiomes.
+ 21.10.2022, _S Lee, S Jung, J Lourenco, D Pringle, J Ahn_
+
+
+Gut microbiomes are increasingly found to be associated with many health-related characteristics of humans as well as animals. Regression with compositional microbiomes covariates is commonly used to identify important bacterial taxa that are related to various phenotype responses. Often the dimension of microbiome taxa easily exceeds the number of available samples, which creates a serious challenge in the estimation and inference of the model. The sparse log-contrast regression method is useful for such cases as it can yield a model estimate that depends on only a small number of taxa. However, a formal statistical inference procedure for individual regression coefficients has not been properly established yet. We propose a new estimation and inference procedure for linear regression models with extremely low-sample-sized compositional predictors. Under the compositional log-contrast regression framework, the proposed approach consists of two steps. The first step is to screen relevant predictors by fitting a log-contrast model with a sparse penalty. The screened-in variables are used as predictors in the non-sparse log-contrast model in the second step, where each of the regression coefficients is tested using nonparametric, resampling-based methods such as permutation and bootstrap. The performances of the proposed methods are evaluated by a simulation study, which shows they outperform traditional approaches based on normal assumptions or large sample asymptotics. Application to steer microbiome data successfully identifies key bacterial taxa that are related to important cattle quality measures.
 
 [Source](https://doi.org/10.1177/09622802221133550)
+
+10.1177/09622802221133550
 
 ---
 
