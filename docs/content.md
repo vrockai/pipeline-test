@@ -70,9 +70,16 @@ Pregnancy and infancy are vulnerable times for detrimental environmental exposur
 
 ---
 
-## Fidelity varies in the symbiosis between a gutless marine worm and its microbial consortium
+## Fidelity varies in the symbiosis between a gutless marine worm and its microbial consortium.
+ 25.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
+
+
+_Animals, Symbiosis, Microbial Consortia, Phylogeny, Bacteria, Sulfates, Sulfur, Nucleotides_
+Many animals live in intimate associations with a species-rich microbiome. A key factor in maintaining these beneficial associations is fidelity, defined as the stability of associations between hosts and their microbiota over multiple host generations. Fidelity has been well studied in terrestrial hosts, particularly insects, over longer macroevolutionary time. In contrast, little is known about fidelity in marine animals with species-rich microbiomes at short microevolutionary time scales, that is at the level of a single host population. Given that natural selection acts most directly on local populations, studies of microevolutionary partner fidelity are important for revealing the ecological and evolutionary processes that drive intimate beneficial associations within animal species.
 
 [Source](https://doi.org/10.1186/s40168-022-01372-2)
+
+10.1186/s40168-022-01372-2
 
 ---
 
@@ -151,15 +158,27 @@ Chemical signalling in the plant microbiome can have drastic effects on microbia
 
 ---
 
-## Linking plant functional genes to rhizosphere microbes: a review
+## Linking plant functional genes to rhizosphere microbes: a review.
+ 22.10.2022, _Q Liu, L Cheng, H Nian, J Jin, T Lian_
+
+
+The importance of rhizomicrobiome in plant development, nutrition acquisition and stress tolerance is unquestionable. Relevant plant genes corresponding to the above functions also regulate rhizomicrobiome construction. Deciphering the molecular regulatory network of plant-microbe interactions could substantially contribute to improving crop yield and quality. Here, the plant genes related nutrient uptake, biotic and abiotic stresses resistance, which may influence the composition and function of microbial communities, are discussed in this review. In turn, the influence of microbes on the expression of functional plant genes, and thereby plant growth and immunity, are also reviewed. Moreover, we have specifically paid attention to techniques and methods used to link plant functional genes and rhizomicrobiome. Finally, we propose to further explore the molecular mechanisms and signaling pathways of microbe-host gene interactions, which could potentially be used for managing plant health in agricultural systems.
 
 [Source](https://doi.org/10.1111/pbi.13950)
 
+10.1111/pbi.13950
+
 ---
 
-## Resampling-based inferences for compositional regression with application to beef cattle microbiomes
+## Resampling-based inferences for compositional regression with application to beef cattle microbiomes.
+ 21.10.2022, _S Lee, S Jung, J Lourenco, D Pringle, J Ahn_
+
+
+Gut microbiomes are increasingly found to be associated with many health-related characteristics of humans as well as animals. Regression with compositional microbiomes covariates is commonly used to identify important bacterial taxa that are related to various phenotype responses. Often the dimension of microbiome taxa easily exceeds the number of available samples, which creates a serious challenge in the estimation and inference of the model. The sparse log-contrast regression method is useful for such cases as it can yield a model estimate that depends on only a small number of taxa. However, a formal statistical inference procedure for individual regression coefficients has not been properly established yet. We propose a new estimation and inference procedure for linear regression models with extremely low-sample-sized compositional predictors. Under the compositional log-contrast regression framework, the proposed approach consists of two steps. The first step is to screen relevant predictors by fitting a log-contrast model with a sparse penalty. The screened-in variables are used as predictors in the non-sparse log-contrast model in the second step, where each of the regression coefficients is tested using nonparametric, resampling-based methods such as permutation and bootstrap. The performances of the proposed methods are evaluated by a simulation study, which shows they outperform traditional approaches based on normal assumptions or large sample asymptotics. Application to steer microbiome data successfully identifies key bacterial taxa that are related to important cattle quality measures.
 
 [Source](https://doi.org/10.1177/09622802221133550)
+
+10.1177/09622802221133550
 
 ---
 
