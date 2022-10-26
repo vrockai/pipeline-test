@@ -78,15 +78,9 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 
 ---
 
-## Microbiomes associated with avian malaria survival differ between susceptible Hawaiian honeycreepers and sympatric malaria-resistant introduced birds.
- 25.10.2022, _AK Navine, KL Paxton, EH Paxton, PJ Hart, JT Foster, N McInerney, RC Fleischer, E Videvall_
-
-
-Of the estimated 55 Hawaiian honeycreepers (subfamily Carduelinae) only 17 species remain, 9 of which the International Union for Conservation of Nature considers endangered. Among the most pressing threats to honeycreeper survival is avian malaria, caused by the introduced blood parasite Plasmodium relictum, which is increasing in distribution in Hawai`i as a result of climate change. Preventing further honeycreeper decline will require innovative conservation strategies that confront malaria from multiple angles. Research on mammals revealed strong connections between gut microbiome composition and malaria susceptibility, illuminating a potential novel approach to malaria control through the manipulation of gut microbiota. One honeycreeper species, Hawai`i `amakihi (Chlorodrepanis virens), persists in areas of high malaria prevalence, indicating they have acquired some level of immunity. To investigate if avian host-specific microbes may be associated with malaria survival, we characterized cloacal microbiomes and malaria infection for 174 `amakihi and 172 malaria-resistant warbling white-eyes (Zosterops japonicus) from Hawai`i Island using 16S rRNA gene metabarcoding and qPCR. Neither microbial alpha nor beta diversity covaried with infection, but 149 microbes showed positive associations with malaria survivors. Among these were Escherichia and Lactobacillus spp., which appear to mitigate malaria severity in mammalian hosts, revealing promising candidates for future probiotic research for augmenting malaria immunity in sensitive endangered species.
+## Microbiomes associated with avian malaria survival differ between susceptible Hawaiian honeycreepers and sympatric malaria-resistant introduced birds
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.16743)
-
-10.1111/mec.16743
 
 ---
 
@@ -96,41 +90,21 @@ Of the estimated 55 Hawaiian honeycreepers (subfamily Carduelinae) only 17 speci
 
 ---
 
-## Dietary Lactobacillus reuteri prevent from inflammation mediated apoptosis of liver via improving intestinal microbiota and bile acid metabolism.
- 25.10.2022, _Z Lin, J Wu, J Wang, CL Levesque, X Ma_
-
-
-Lactobacillus reuteri (L. reuteri) has been recognized as a probiotic to improve liver health, whereas the mechanism behind is still unknown. Herein, mice were gavaged with a strain of L. reuteri named SLZX19-12, which was isolated from faeces of healthy Tibetan pigs in our lab to investigate its effects on liver function. The results demonstrated that dietary L. reuteri changed the constituents of bile acid pool, especially influenced on metabolism of ursodeoxycholic acid (UDCA). In addition, L. reuteri reduced content of cholestasis-associated microbiota and effectively prevented liver from inflammatory response and hepatocyte apoptosis under the acute stimulation from LPS. We further revealed UDCA played an important part in protection of liver health during the stimulation of inflammatory factors in vitro. This study provides theoretical support and novel mechanism of action of L. reuteri protects liver from injury and influences on host physical health via regulation of crosstalk between bile acids and gut microbiota.
+## Dietary Lactobacillus reuteri prevent from inflammation mediated apoptosis of liver via improving intestinal microbiota and bile acid metabolism
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S030881462202605X)
 
-10.1016/j.foodchem.2022.134643
-
 ---
 
-## Specific metabolites drive the deterministic assembly of diseased rhizosphere microbiome through weakening microbial degradation of autotoxin.
- 25.10.2022, _T Wen, P Xie, CR Penton, L Hale, LS Thomashow, S Yang, Z Ding, Y Su, J Yuan, Q Shen_
-
-
-_Rhizosphere, Soil Microbiology, Citrulline, alpha-Tocopherol, Microbiota, Fusarium, Bacteria, Soil, Sugars, Galactitol_
-Process and function that underlie the assembly of a rhizosphere microbial community may be strongly linked to the maintenance of plant health. However, their assembly processes and functional changes in the deterioration of soilborne disease remain unclear. Here, we investigated features of rhizosphere microbiomes related to Fusarium wilt disease and assessed their assembly by comparison pair of diseased/healthy sequencing data. The untargeted metabolomics was employed to explore potential community assembly drivers, and shotgun metagenome sequencing was used to reveal the mechanisms of metabolite-mediated process after soil conditioning.
+## Specific metabolites drive the deterministic assembly of diseased rhizosphere microbiome through weakening microbial degradation of autotoxin
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01375-z)
 
-10.1186/s40168-022-01375-z
-
 ---
 
-## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction.
- 26.10.2022, _LM Tom, M Aulitto, YW Wu, K Deng, Y Gao, N Xiao, BG Rodriguez, C Louime, TR Northen, A Eudes, JC Mortimer, PD Adams, HV Scheller, BA Simmons, JA Ceja-Navarro, SW Singer_
-
-
-_Microbiota, Bacteria, Cell Wall, Biomass, Cellulose_
-Plant cell walls are interwoven structures recalcitrant to degradation. Native and adapted microbiomes can be particularly effective at plant cell wall deconstruction. Although most understanding of biological cell wall deconstruction has been obtained from isolates, cultivated microbiomes that break down cell walls have emerged as new sources for biotechnologically relevant microbes and enzymes. These microbiomes provide a unique resource to identify key interacting functional microbial groups and to guide the design of specialized synthetic microbial communities.
+## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01377-x)
-
-10.1186/s40168-022-01377-x
 
 ---
 
@@ -140,16 +114,9 @@ Plant cell walls are interwoven structures recalcitrant to degradation. Native a
 
 ---
 
-## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis.
- 22.10.2022, _E Özkurt, J Fritscher, N Soranzo, DYK Ng, RP Davey, M Bahram, F Hildebrand_
-
-
-_RNA, Ribosomal, 16S, Software, Reproducibility of Results, Sequence Analysis, Soil, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA_
-Amplicon sequencing is an established and cost-efficient method for profiling microbiomes. However, many available tools to process this data require both bioinformatics skills and high computational power to process big datasets. Furthermore, there are only few tools that allow for long read amplicon data analysis. To bridge this gap, we developed the LotuS2 (less OTU scripts 2) pipeline, enabling user-friendly, resource friendly, and versatile analysis of raw amplicon sequences.
+## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01365-1)
-
-10.1186/s40168-022-01365-1
 
 ---
 
