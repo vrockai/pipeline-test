@@ -1,85 +1,55 @@
-## The Association Between Microplastics and Microbiota in Placentas and Meconium: The First Evidence in Humans.
- 21.10.2022, _S Liu, X Liu, J Guo, R Yang, H Wang, Y Sun, B Chen, R Dong_
+## Relationships of the very low birth weight infant microbiome with neurodevelopment at 2 and 4 years of age.
+ 25.10.2022, _A Sarkar, SM Prescott, S Dutra, JY Yoo, J Gordon, E Shaffer, D McSkimming, ME Groer_
 
 
-Pregnancy and infancy are vulnerable times for detrimental environmental exposures. However, the exposure situation of microplastics (MPs) for mother-infant pairs and the adverse health effect of MPs are largely unknown. Therefore, we explored MP exposure in placentas and meconium samples, and the potential correlation of MP exposure with microbiota in placentas and meconium. A total of 18 mother-infant pairs were effectively recruited from Shanghai, China. The study required pregnant women to provide placentas and meconium samples. An Agilent 8700 laser infrared imaging spectrometer (LDIR) was applied to identify MPs. Microbiota detection was identified by 16S rRNA sequencing. Sixteen types of MPs were found in all matrices, and polyamide (PA) and polyurethane (PU) were the major types we identified. MPs detected in samples with a size of 20-50 μm were more than 76.46%. At the phylum level, both placenta and meconium microbiota were mainly composed of Proteobacteria, Bacteroidota, and Firmicutes. We also found some significant differences between placenta and meconium microbiota in β-diversity and gut composition. Additionally, we found polystyrene was inversely related with the Chao index of meconium microbiota. Polyethylene was consistently inversely correlated with several genera of placenta microbiota. The total MPs, PA, and PU consistently impacted several genera of meconium microbiota. In conclusion, MPs are ubiquitous in placentas and meconium samples, indicating the wide exposure of pregnant women and infants. Moreover, our findings may support a link between high concentration of MPs and microbiota genera in placentas and meconium. Additionally, there were several significant associations between the particle size of MPs in 50-100 μm and meconium microbiota.
+Very low birth weight (VLBW) infants (&lt;1500 g) are at risk for poor neurodevelopmental outcomes depending on gestational age (GA), birth weight (BW), and morbidity in early life. The contribution of the gut microbiome is not well understood. Stool samples were collected weekly in the neonatal intensive care unit (NICU) from 24 VLBW infants for 6 weeks after admission and then again at 2 and 4 years of age. The Battelle Development Inventory-2 Screening Test (BDI-2 ST) was administered at 2- and 4-year time points. VLBW infants had dysbiotic microbiota in the NICU that progressed for most to an adult-type microbiota by 4 years of age. The BDI-2 ST results at age of 2 years triggered referral for further testing in 14 toddlers (70%), and by 4 years of age only seven of these 14 continued to require referral. Both NICU infant stool diversity and particular microbial amplicon sequence variants were associated with BDI-2 ST subscales, particularly for cognition, adaptive, and communication subscales, when controlled for GA, BW, and antibiotic exposure. Network analysis of the NICU infant stool microbial ecology showed differences in children needing neurodevelopmental referral. The results of this preliminary study indicate that the neonatal gut microbiome plays a role in early cognitive and behavioral neurodevelopment.
 
-[Source](https://doi.org/10.1021/acs.est.2c04706)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/dev.22317)
 
-10.1021/acs.est.2c04706
-
----
-
-## The salivary microbiome shows a high prevalence of core bacterial members yet variability across human populations
-
-[Source](https://doi.org/10.1038/s41522-022-00343-7)
+10.1002/dev.22317
 
 ---
 
-## Role of mucus-bacteria interactions in Enterotoxigenic <em>Escherichia coli</em> (ETEC) H10407 virulence and interplay with human microbiome
+## The lower airways microbiota and antimicrobial peptides indicate dysbiosis in sarcoidosis.
+ 22.10.2022, _KS Knudsen, S Lehmann, R Nielsen, S Tangedal, A Paytuvi-Gallart, W Sanseverino, EMH Martinsen, PS Hiemstra, TM Eagan_
 
-[Source](https://doi.org/10.1038/s41522-022-00344-6)
 
----
+_Humans, Dysbiosis, beta-Defensins, Antimicrobial Peptides, Bronchoalveolar Lavage Fluid, RNA, Ribosomal, 16S, Microbiota, Sarcoidosis, Lung, Bacteria, Protease Inhibitors, Adenosine Monophosphate_
+The role of the pulmonary microbiome in sarcoidosis is unknown. The objectives of this study were the following: (1) examine whether the pulmonary fungal and bacterial microbiota differed in patients with sarcoidosis compared with controls; (2) examine whether there was an association between the microbiota and levels of the antimicrobial peptides (AMPs) in protected bronchoalveolar lavage (PBAL).
 
-## Commensal oral microbiota impacts ulcerative oral mucositis clinical course in allogeneic stem cell transplant recipients
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01362-4)
 
-[Source](https://doi.org/10.1038/s41598-022-21775-3)
-
----
-
-## Gut microbiota in COVID-19: key microbial changes, potential mechanisms and clinical applications
-
-[Source](https://doi.org/10.1038/s41575-022-00698-4)
+10.1186/s40168-022-01362-4
 
 ---
 
-## The microbiota and aging microenvironment in pancreatic cancer: Cell origin and fate
+## Profiling the fungal microbiome after FMT for graft-versus-host disease: insights from a phase 1 interventional study.
+ 24.10.2022, _YF van Lier, T Rolling, GK Armijo, B Zhai, NJE Haverkate, E Meijer, E Nur, B Blom, JU Peled, MRM van den Brink, TM Hohl, MD Hazenberg, KA Markey_
 
-[Source](https://doi.org/10.1016/j.bbcan.2022.188826)
 
----
+Disruption of the intestinal bacterial microbiota is frequently observed in the context of allogeneic hematopoietic cell transplantation and is particularly pronounced in patients that develop graft-versus-host disease (GvHD). Donor fecal microbiota transplantation restores gut microbial diversity and reduces graft-versus-host disease in hematopoietic cell transplant recipients. The composition of the intestinal fungal community in GvHD patients, and whether fungal taxa are transferred during FMT is currently unknown. We performed a secondary analysis of our clinical trial on FMT in steroid-refractory GvHD with a focus on the mycobiota. We characterized the fecal mycobiota of the seventeen patients and of the healthy donors using internal transcribed spacer (ITS)-1 amplicon sequencing. The donor who provided the majority of FMT material in our study represents an n-of-one study of the intestinal flora over time. In this donor, mycobiota composition fluctuated over time, while the bacterial microbiota remained stable over sixteen months. Fungal DNA was more frequently detected in baseline stool samples from patients with steroid-refractory GvHD than in patients with steroid-dependent GvHD. We could detect fungal taxa in the majority of samples, but did not see evidence of mycobiota transfer from donor to recipient. Our study demonstrates the feasibility of profiling the mycobiota alongside the more-traditional bacterial microbiota, establishes the methodology, and provides a first insight into the mycobiota composition of GvHD patients.
 
-## New perspectives into the vaginal microbiome with systems biology
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S2666636722017067)
 
-[Source](https://doi.org/10.1016/j.tim.2022.09.011)
-
----
-
-## Oral supplementation with selected <em>Lactobacillus acidophilus</em> triggers IL-17-dependent innate defense response, activation of innate lymphoid cells type 3 and improves colitis
-
-[Source](https://doi.org/10.1038/s41598-022-21643-0)
+10.1016/j.jtct.2022.10.011
 
 ---
 
-## The Benefits of Switching to a Healthy Diet on Metabolic, Cognitive and Gut Microbiome Parameters are Preserved in Adult Rat Offspring of Mothers Fed a High-Fat, High-Sugar Diet
+## Colorectal cancer, Vitamin D and microbiota: A double-blind Phase II randomized trial (ColoViD) in colorectal cancer patients.
+ 24.10.2022, _F Bellerba, D Serrano, J Harriet, C Pozzi, N Segata, A NabiNejad, E Piperni, P Gnagnarella, D Macis, V Aristarco, CA Accornero, P Manghi, AG Gonzaga, R Biffi, L Bottiglieri, C Trovato, MG Zampino, F Corso, R Bellocco, S Raimondi, M Rescigno, S Gandini_
 
-[Source](https://doi.org/10.1002/mnfr.202200318)
 
----
+Several studies suggest a role of gut microbiota in colorectal cancer (CRC) initiation and progression. Vitamin D (vitD) blood levels are also inversely correlated with CRC risk and prognosis. However, these factors' interplay remains unknown.
 
-## Jatrorrhizine alleviates ulcerative colitis via regulating gut microbiota and NOS2 expression
+[Source](https://www.sciencedirect.com/science/article/pii/S1476558622000689?via%3Dihub)
 
-[Source](https://doi.org/10.1186/s13099-022-00514-z)
-
----
-
-## Identification of 146 Metagenome-assembled Genomes from the Rumen Microbiome of Cattle in Japan
-
-[Source](https://doi.org/10.1264/jsme2.ME22039)
+10.1016/j.neo.2022.100842
 
 ---
 
-## Fidelity varies in the symbiosis between a gutless marine worm and its microbial consortium.
- 25.10.2022, _Y Sato, J Wippler, C Wentrup, R Ansorge, M Sadowski, H Gruber-Vodicka, N Dubilier, M Kleiner_
+## Natural and after colon washing fecal samples: the two sides of the coin for investigating the human gut microbiome
 
-
-_Animals, Symbiosis, Microbial Consortia, Phylogeny, Bacteria, Sulfates, Sulfur, Nucleotides_
-Many animals live in intimate associations with a species-rich microbiome. A key factor in maintaining these beneficial associations is fidelity, defined as the stability of associations between hosts and their microbiota over multiple host generations. Fidelity has been well studied in terrestrial hosts, particularly insects, over longer macroevolutionary time. In contrast, little is known about fidelity in marine animals with species-rich microbiomes at short microevolutionary time scales, that is at the level of a single host population. Given that natural selection acts most directly on local populations, studies of microevolutionary partner fidelity are important for revealing the ecological and evolutionary processes that drive intimate beneficial associations within animal species.
-
-[Source](https://doi.org/10.1186/s40168-022-01372-2)
-
-10.1186/s40168-022-01372-2
+[Source](https://www.nature.com/articles/s41598-022-20888-z)
 
 ---
 
@@ -90,101 +60,108 @@ Many animals live in intimate associations with a species-rich microbiome. A key
 _Cattle, Animals, Female, Lactation, Metagenome, Milk, DNA, Ribosomal, Metabolome, Heat-Shock Response, Diet_
 Heat stress is an important issue in dairy cattle feeding management affecting summer health and economic efficiency. This experiment combined 16S rDNA sequencing(3,864,982 tags, 30 sequencing data), metagenomic sequencing(1,269,441,128 reads, 18 sequencing data), metabolomics analysis(72 sequencing data) and blood index analysis. Ten cows in each animal type (growing heifers, heifers, and lactating cows) were selected for sample collection in April and August. Here, we characterized both the changes in metabolites, rumen microbial communities and their functional potential and the effects of heat stress on serum biochemical, immune, oxidative stress, and hormonal indices derived from rumen fluid and serum samples from cows during different growth stages and in different climates. The generated data expand the resources for the rumen microbiome related to heat stress and age and provide useful datasets for research on developing therapeutic strategies to achieve high summer milk production in cows. These datasets will help researchers study the effects of heat stress on the physiological metabolism of Holstein cows and the time-dependent changes associated with growth stages.
 
-[Source](https://doi.org/10.1038/s41597-022-01777-6)
+[Source](https://www.nature.com/articles/s41597-022-01777-6)
 
 10.1038/s41597-022-01777-6
 
 ---
 
-## Screening Salamanders for Symbionts.
- 25.10.2022, _E Vickers, R Kerney_
+## Tick transmission of Borrelia burgdorferi to the murine host is not influenced by environmentally acquired midgut microbiota
 
-
-_Animals, Urodela, Bacteria, Symbiosis_
-Microbial symbionts are broadly categorized by their impacts on host fitness: commensals, pathogens, and mutualists. However, recent investigations into the physiological basis of these impacts have revealed nuanced microbial influences on a wide range of host developmental, immunological, and physiological processes, including regeneration. Exploring these impacts begins with knowing which microbes are present. This methodological pipeline contains both targeted assays using PCR and culturing, as well as culture-independent approaches, to survey host salamander tissues for common and unknown microbial symbionts.
-
-[Source](https://doi.org/10.1007/978-1-0716-2659-7_28)
-
-10.1007/978-1-0716-2659-7_28
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01378-w)
 
 ---
 
-## Gut microbiota differs between two cold-climate lizards distributed in thermally different regions.
- 25.10.2022, _JQ Chen, LW Zhang, RM Zhao, HX Wu, LH Lin, P Li, H Li, YF Qu, X Ji_
+## Mining the microbiota to identify gut commensals modulating neuroinflammation in a mouse model of multiple sclerosis
 
-
-_Animals, Lizards, Gastrointestinal Microbiome, Altitude, RNA, Ribosomal, 16S, Acclimatization, Bacteria_
-The metabolic cold-climate adaption hypothesis predicts that animals from cold environments have relatively high metabolic rates compared with their warm-climate counterparts. However, studies testing this hypothesis are sparse. Here, we compared gut microbes between two cold-climate lizard species of the genus Phrynocephalus to see if gut microbiota could help lizards adapt to cold environments by promoting metabolism. We conducted a 2 species (P. erythrurus and P. przewalskii) × 2 temperatures (24 and 30 °C) factorial design experiment, whereby we kept lizards of two Phrynocephalus species at 24 and 30 °C for 25 d and then collected their fecal samples to analyze and compare the microbiota based on 16S rRNA gene sequencing technology.
-
-[Source](https://doi.org/10.1186/s12862-022-02077-8)
-
-10.1186/s12862-022-02077-8
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01364-2)
 
 ---
 
-## Microbial community in resistant and susceptible Churra sheep infected by <em>Teladorsagia circumcincta</em>
-
-[Source](https://doi.org/10.1038/s41598-022-21058-x)
-
----
-
-## Genome Evolution of a Symbiont Population for Pathogen Defence in Honeybees.
- 20.10.2022, _K Dyrhage, A Garcia-Montaner, D Tamarit, C Seeger, K Näslund, TC Olofsson, A Vasquez, MT Webster, SGE Andersson_
+## Microbiomes associated with avian malaria survival differ between susceptible Hawaiian honeycreepers and sympatric malaria-resistant introduced birds.
+ 25.10.2022, _AK Navine, KL Paxton, EH Paxton, PJ Hart, JT Foster, N McInerney, RC Fleischer, E Videvall_
 
 
-The honeybee gut microbiome is thought to be important for bee health, but the role of the individual members is poorly understood. Here, we present closed genomes and associated mobilomes of 102 Apilactobacillus kunkeei isolates obtained from the honey crop (foregut) of honeybees sampled from beehives in Helsingborg in the south of Sweden and from the islands Gotland and Åland in the Baltic Sea. Each beehive contained a unique composition of isolates and repeated sampling of similar isolates from two beehives in Helsingborg suggests that the bacterial community is stably maintained across bee generations during the summer months. The sampled bacterial population contained an open pan-genome structure with a high genomic density of transposons. A subset of strains affiliated with phylogroup A inhibited growth of the bee pathogen Melissococcus plutonius, all of which contained a 19.5 kb plasmid for the synthesis of the antimicrobial compound kunkecin A, while a subset of phylogroups B and C strains contained a 32.9 kb plasmid for the synthesis of a putative polyketide antibiotic. This study suggests that the mobile gene pool of A. kunkeei plays a key role in pathogen defence in honeybees, providing new insights into the evolutionary dynamics of defensive symbiont populations.
+Of the estimated 55 Hawaiian honeycreepers (subfamily Carduelinae) only 17 species remain, 9 of which the International Union for Conservation of Nature considers endangered. Among the most pressing threats to honeycreeper survival is avian malaria, caused by the introduced blood parasite Plasmodium relictum, which is increasing in distribution in Hawai`i as a result of climate change. Preventing further honeycreeper decline will require innovative conservation strategies that confront malaria from multiple angles. Research on mammals revealed strong connections between gut microbiome composition and malaria susceptibility, illuminating a potential novel approach to malaria control through the manipulation of gut microbiota. One honeycreeper species, Hawai`i `amakihi (Chlorodrepanis virens), persists in areas of high malaria prevalence, indicating they have acquired some level of immunity. To investigate if avian host-specific microbes may be associated with malaria survival, we characterized cloacal microbiomes and malaria infection for 174 `amakihi and 172 malaria-resistant warbling white-eyes (Zosterops japonicus) from Hawai`i Island using 16S rRNA gene metabarcoding and qPCR. Neither microbial alpha nor beta diversity covaried with infection, but 149 microbes showed positive associations with malaria survivors. Among these were Escherichia and Lactobacillus spp., which appear to mitigate malaria severity in mammalian hosts, revealing promising candidates for future probiotic research for augmenting malaria immunity in sensitive endangered species.
 
-[Source](https://doi.org/10.1093/gbe/evac153)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.16743)
 
-10.1093/gbe/evac153
+10.1111/mec.16743
 
 ---
 
-## Diverse MarR bacterial regulators of auxin catabolism in the plant microbiome.
- 20.10.2022, _JM Conway, WG Walton, I Salas-González, TF Law, CA Lindberg, LE Crook, SM Kosina, CR Fitzpatrick, AD Lietzan, TR Northen, CD Jones, OM Finkel, MR Redinbo, JL Dangl_
+## Impact of Germinated Brown Rice and Brown Rice on Metabolism, Inflammation, and Gut Microbiome in High Fat Diet-Induced Insulin Resistant Mice
 
-
-Chemical signalling in the plant microbiome can have drastic effects on microbial community structure, and on host growth and development. Previously, we demonstrated that the auxin metabolic signal interference performed by the bacterial genus Variovorax via an auxin degradation locus was essential for maintaining stereotypic root development in an ecologically relevant bacterial synthetic community. Here, we dissect the Variovorax auxin degradation locus to define the genes iadDE as necessary and sufficient for indole-3-acetic acid (IAA) degradation and signal interference. We determine the crystal structures and binding properties of the operon's MarR-family repressor with IAA and other auxins. Auxin degradation operons were identified across the bacterial tree of life and we define two distinct types on the basis of gene content and metabolic products: iac-like and iad-like. The structures of MarRs from representatives of each auxin degradation operon type establish that each has distinct IAA-binding pockets. Comparison of representative IAA-degrading strains from diverse bacterial genera colonizing Arabidopsis plants show that while all degrade IAA, only strains containing iad-like auxin-degrading operons interfere with auxin signalling in a complex synthetic community context. This suggests that iad-like operon-containing bacterial strains, including Variovorax species, play a key ecological role in modulating auxins in the plant microbiome.
-
-[Source](https://doi.org/10.1038/s41564-022-01244-3)
-
-10.1038/s41564-022-01244-3
+[Source](https://pubs.acs.org/doi/10.1021/acs.jafc.2c06662)
 
 ---
 
-## Phytohormones producing rhizobacteria alleviate heavy metals stress in soybean through multilayered response
-
-[Source](https://doi.org/10.1016/j.micres.2022.127237)
-
----
-
-## Linking plant functional genes to rhizosphere microbes: a review.
- 22.10.2022, _Q Liu, L Cheng, H Nian, J Jin, T Lian_
+## Dietary Lactobacillus reuteri prevent from inflammation mediated apoptosis of liver via improving intestinal microbiota and bile acid metabolism.
+ 25.10.2022, _Z Lin, J Wu, J Wang, CL Levesque, X Ma_
 
 
-The importance of rhizomicrobiome in plant development, nutrition acquisition and stress tolerance is unquestionable. Relevant plant genes corresponding to the above functions also regulate rhizomicrobiome construction. Deciphering the molecular regulatory network of plant-microbe interactions could substantially contribute to improving crop yield and quality. Here, the plant genes related nutrient uptake, biotic and abiotic stresses resistance, which may influence the composition and function of microbial communities, are discussed in this review. In turn, the influence of microbes on the expression of functional plant genes, and thereby plant growth and immunity, are also reviewed. Moreover, we have specifically paid attention to techniques and methods used to link plant functional genes and rhizomicrobiome. Finally, we propose to further explore the molecular mechanisms and signaling pathways of microbe-host gene interactions, which could potentially be used for managing plant health in agricultural systems.
+Lactobacillus reuteri (L. reuteri) has been recognized as a probiotic to improve liver health, whereas the mechanism behind is still unknown. Herein, mice were gavaged with a strain of L. reuteri named SLZX19-12, which was isolated from faeces of healthy Tibetan pigs in our lab to investigate its effects on liver function. The results demonstrated that dietary L. reuteri changed the constituents of bile acid pool, especially influenced on metabolism of ursodeoxycholic acid (UDCA). In addition, L. reuteri reduced content of cholestasis-associated microbiota and effectively prevented liver from inflammatory response and hepatocyte apoptosis under the acute stimulation from LPS. We further revealed UDCA played an important part in protection of liver health during the stimulation of inflammatory factors in vitro. This study provides theoretical support and novel mechanism of action of L. reuteri protects liver from injury and influences on host physical health via regulation of crosstalk between bile acids and gut microbiota.
 
-[Source](https://doi.org/10.1111/pbi.13950)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S030881462202605X)
 
-10.1111/pbi.13950
+10.1016/j.foodchem.2022.134643
 
 ---
 
-## Resampling-based inferences for compositional regression with application to beef cattle microbiomes.
- 21.10.2022, _S Lee, S Jung, J Lourenco, D Pringle, J Ahn_
+## Specific metabolites drive the deterministic assembly of diseased rhizosphere microbiome through weakening microbial degradation of autotoxin.
+ 25.10.2022, _T Wen, P Xie, CR Penton, L Hale, LS Thomashow, S Yang, Z Ding, Y Su, J Yuan, Q Shen_
 
 
-Gut microbiomes are increasingly found to be associated with many health-related characteristics of humans as well as animals. Regression with compositional microbiomes covariates is commonly used to identify important bacterial taxa that are related to various phenotype responses. Often the dimension of microbiome taxa easily exceeds the number of available samples, which creates a serious challenge in the estimation and inference of the model. The sparse log-contrast regression method is useful for such cases as it can yield a model estimate that depends on only a small number of taxa. However, a formal statistical inference procedure for individual regression coefficients has not been properly established yet. We propose a new estimation and inference procedure for linear regression models with extremely low-sample-sized compositional predictors. Under the compositional log-contrast regression framework, the proposed approach consists of two steps. The first step is to screen relevant predictors by fitting a log-contrast model with a sparse penalty. The screened-in variables are used as predictors in the non-sparse log-contrast model in the second step, where each of the regression coefficients is tested using nonparametric, resampling-based methods such as permutation and bootstrap. The performances of the proposed methods are evaluated by a simulation study, which shows they outperform traditional approaches based on normal assumptions or large sample asymptotics. Application to steer microbiome data successfully identifies key bacterial taxa that are related to important cattle quality measures.
+_Rhizosphere, Soil Microbiology, Citrulline, alpha-Tocopherol, Microbiota, Fusarium, Bacteria, Soil, Sugars, Galactitol_
+Process and function that underlie the assembly of a rhizosphere microbial community may be strongly linked to the maintenance of plant health. However, their assembly processes and functional changes in the deterioration of soilborne disease remain unclear. Here, we investigated features of rhizosphere microbiomes related to Fusarium wilt disease and assessed their assembly by comparison pair of diseased/healthy sequencing data. The untargeted metabolomics was employed to explore potential community assembly drivers, and shotgun metagenome sequencing was used to reveal the mechanisms of metabolite-mediated process after soil conditioning.
 
-[Source](https://doi.org/10.1177/09622802221133550)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01375-z)
 
-10.1177/09622802221133550
+10.1186/s40168-022-01375-z
 
 ---
 
-## Methods used for the study of endophytic fungi: a review on methodologies and challenges, and associated tips
+## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction.
+ 26.10.2022, _LM Tom, M Aulitto, YW Wu, K Deng, Y Gao, N Xiao, BG Rodriguez, C Louime, TR Northen, A Eudes, JC Mortimer, PD Adams, HV Scheller, BA Simmons, JA Ceja-Navarro, SW Singer_
 
-[Source](https://doi.org/10.1007/s00203-022-03283-0)
+
+_Microbiota, Bacteria, Cell Wall, Biomass, Cellulose_
+Plant cell walls are interwoven structures recalcitrant to degradation. Native and adapted microbiomes can be particularly effective at plant cell wall deconstruction. Although most understanding of biological cell wall deconstruction has been obtained from isolates, cultivated microbiomes that break down cell walls have emerged as new sources for biotechnologically relevant microbes and enzymes. These microbiomes provide a unique resource to identify key interacting functional microbial groups and to guide the design of specialized synthetic microbial communities.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01377-x)
+
+10.1186/s40168-022-01377-x
+
+---
+
+## Community assembly patterns and processes of microbiome responses to habitats and Mytilopsis sallei invasion in the tidal zones of the Pearl River Estuary
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722067754)
+
+---
+
+## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis.
+ 22.10.2022, _E Özkurt, J Fritscher, N Soranzo, DYK Ng, RP Davey, M Bahram, F Hildebrand_
+
+
+_RNA, Ribosomal, 16S, Software, Reproducibility of Results, Sequence Analysis, Soil, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA_
+Amplicon sequencing is an established and cost-efficient method for profiling microbiomes. However, many available tools to process this data require both bioinformatics skills and high computational power to process big datasets. Furthermore, there are only few tools that allow for long read amplicon data analysis. To bridge this gap, we developed the LotuS2 (less OTU scripts 2) pipeline, enabling user-friendly, resource friendly, and versatile analysis of raw amplicon sequences.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01365-1)
+
+10.1186/s40168-022-01365-1
+
+---
+
+## Double emulsions as a high-throughput enrichment and isolation platform for slower-growing microbes
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.10.23.513397v1.abstract)
+
+---
+
+## A novel metagenome-derived viral RNA polymerase and its application in a cell-free expression system for metagenome screening
+
+[Source](https://www.nature.com/articles/s41598-022-22383-x)
 
 ---
 
