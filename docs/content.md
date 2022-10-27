@@ -23,9 +23,15 @@ The role of the pulmonary microbiome in sarcoidosis is unknown. The objectives o
 
 ---
 
-## Profiling the fungal microbiome after FMT for graft-versus-host disease: insights from a phase 1 interventional study
+## Profiling the fungal microbiome after FMT for graft-versus-host disease: insights from a phase 1 interventional study.
+ 24.10.2022, _YF van Lier, T Rolling, GK Armijo, B Zhai, NJE Haverkate, E Meijer, E Nur, B Blom, JU Peled, MRM van den Brink, TM Hohl, MD Hazenberg, KA Markey_
+
+
+Disruption of the intestinal bacterial microbiota is frequently observed in the context of allogeneic hematopoietic cell transplantation and is particularly pronounced in patients that develop graft-versus-host disease (GvHD). Donor fecal microbiota transplantation restores gut microbial diversity and reduces graft-versus-host disease in hematopoietic cell transplant recipients. The composition of the intestinal fungal community in GvHD patients, and whether fungal taxa are transferred during FMT is currently unknown. We performed a secondary analysis of our clinical trial on FMT in steroid-refractory GvHD with a focus on the mycobiota. We characterized the fecal mycobiota of the seventeen patients and of the healthy donors using internal transcribed spacer (ITS)-1 amplicon sequencing. The donor who provided the majority of FMT material in our study represents an n-of-one study of the intestinal flora over time. In this donor, mycobiota composition fluctuated over time, while the bacterial microbiota remained stable over sixteen months. Fungal DNA was more frequently detected in baseline stool samples from patients with steroid-refractory GvHD than in patients with steroid-dependent GvHD. We could detect fungal taxa in the majority of samples, but did not see evidence of mycobiota transfer from donor to recipient. Our study demonstrates the feasibility of profiling the mycobiota alongside the more-traditional bacterial microbiota, establishes the methodology, and provides a first insight into the mycobiota composition of GvHD patients.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S2666636722017067)
+
+10.1016/j.jtct.2022.10.011
 
 ---
 
