@@ -36,15 +36,9 @@ Disruption of the intestinal bacterial microbiota is frequently observed in the 
 
 ---
 
-## Colorectal cancer, Vitamin D and microbiota: A double-blind Phase II randomized trial (ColoViD) in colorectal cancer patients.
- 24.10.2022, _F Bellerba, D Serrano, J Harriet, C Pozzi, N Segata, A NabiNejad, E Piperni, P Gnagnarella, D Macis, V Aristarco, CA Accornero, P Manghi, AG Gonzaga, R Biffi, L Bottiglieri, C Trovato, MG Zampino, F Corso, R Bellocco, S Raimondi, M Rescigno, S Gandini_
-
-
-Several studies suggest a role of gut microbiota in colorectal cancer (CRC) initiation and progression. Vitamin D (vitD) blood levels are also inversely correlated with CRC risk and prognosis. However, these factors' interplay remains unknown.
+## Colorectal cancer, Vitamin D and microbiota: A double-blind Phase II randomized trial (ColoViD) in colorectal cancer patients
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1476558622000689?via%3Dihub)
-
-10.1016/j.neo.2022.100842
 
 ---
 
@@ -122,16 +116,9 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 
 ---
 
-## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis.
- 22.10.2022, _E Özkurt, J Fritscher, N Soranzo, DYK Ng, RP Davey, M Bahram, F Hildebrand_
-
-
-_RNA, Ribosomal, 16S, Software, Reproducibility of Results, Sequence Analysis, Soil, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA_
-Amplicon sequencing is an established and cost-efficient method for profiling microbiomes. However, many available tools to process this data require both bioinformatics skills and high computational power to process big datasets. Furthermore, there are only few tools that allow for long read amplicon data analysis. To bridge this gap, we developed the LotuS2 (less OTU scripts 2) pipeline, enabling user-friendly, resource friendly, and versatile analysis of raw amplicon sequences.
+## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01365-1)
-
-10.1186/s40168-022-01365-1
 
 ---
 
