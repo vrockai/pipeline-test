@@ -86,15 +86,9 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 
 ---
 
-## Microbiomes associated with avian malaria survival differ between susceptible Hawaiian honeycreepers and sympatric malaria-resistant introduced birds.
- 25.10.2022, _AK Navine, KL Paxton, EH Paxton, PJ Hart, JT Foster, N McInerney, RC Fleischer, E Videvall_
-
-
-Of the estimated 55 Hawaiian honeycreepers (subfamily Carduelinae) only 17 species remain, 9 of which the International Union for Conservation of Nature considers endangered. Among the most pressing threats to honeycreeper survival is avian malaria, caused by the introduced blood parasite Plasmodium relictum, which is increasing in distribution in Hawai`i as a result of climate change. Preventing further honeycreeper decline will require innovative conservation strategies that confront malaria from multiple angles. Research on mammals revealed strong connections between gut microbiome composition and malaria susceptibility, illuminating a potential novel approach to malaria control through the manipulation of gut microbiota. One honeycreeper species, Hawai`i `amakihi (Chlorodrepanis virens), persists in areas of high malaria prevalence, indicating they have acquired some level of immunity. To investigate if avian host-specific microbes may be associated with malaria survival, we characterized cloacal microbiomes and malaria infection for 174 `amakihi and 172 malaria-resistant warbling white-eyes (Zosterops japonicus) from Hawai`i Island using 16S rRNA gene metabarcoding and qPCR. Neither microbial alpha nor beta diversity covaried with infection, but 149 microbes showed positive associations with malaria survivors. Among these were Escherichia and Lactobacillus spp., which appear to mitigate malaria severity in mammalian hosts, revealing promising candidates for future probiotic research for augmenting malaria immunity in sensitive endangered species.
+## Microbiomes associated with avian malaria survival differ between susceptible Hawaiian honeycreepers and sympatric malaria-resistant introduced birds
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.16743)
-
-10.1111/mec.16743
 
 ---
 
