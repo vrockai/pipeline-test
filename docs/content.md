@@ -49,7 +49,7 @@ Several studies suggest a role of gut microbiota in colorectal cancer (CRC) init
 ---
 
 ## Natural and after colon washing fecal samples: the two sides of the coin for investigating the human gut microbiome.
- 27.10.2022, _E Piancone, B Fosso, M Marzano, M De Robertis, E Notario, A Oranger, C Manzari, S Bruno, G Visci, G Defazio, AM D'Erchia, E Filomena, D Maio, M Minelli, I Vergallo, M Minelli, G Pesole_
+ 29.10.2022, _E Piancone, B Fosso, M Marzano, M De Robertis, E Notario, A Oranger, C Manzari, S Bruno, G Visci, G Defazio, AM D'Erchia, E Filomena, D Maio, M Minelli, I Vergallo, M Minelli, G Pesole_
 
 
 _Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Feces, Microbiota, DNA, Ribosomal, Colon_
