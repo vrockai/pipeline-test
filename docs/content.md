@@ -24,9 +24,15 @@ The role of the pulmonary microbiome in sarcoidosis is unknown. The objectives o
 
 ---
 
-## Profiling the fungal microbiome after FMT for graft-versus-host disease: insights from a phase 1 interventional study
+## Profiling the fungal microbiome after FMT for graft-versus-host disease: insights from a phase 1 interventional study.
+ 24.10.2022, _YF van Lier, T Rolling, GK Armijo, B Zhai, NJE Haverkate, E Meijer, E Nur, B Blom, JU Peled, MRM van den Brink, TM Hohl, MD Hazenberg, KA Markey_
+
+
+Disruption of the intestinal bacterial microbiota is frequently observed in the context of allogeneic hematopoietic cell transplantation and is particularly pronounced in patients that develop graft-versus-host disease (GvHD). Donor fecal microbiota transplantation restores gut microbial diversity and reduces graft-versus-host disease in hematopoietic cell transplant recipients. The composition of the intestinal fungal community in GvHD patients, and whether fungal taxa are transferred during FMT is currently unknown. We performed a secondary analysis of our clinical trial on FMT in steroid-refractory GvHD with a focus on the mycobiota. We characterized the fecal mycobiota of the seventeen patients and of the healthy donors using internal transcribed spacer (ITS)-1 amplicon sequencing. The donor who provided the majority of FMT material in our study represents an n-of-one study of the intestinal flora over time. In this donor, mycobiota composition fluctuated over time, while the bacterial microbiota remained stable over sixteen months. Fungal DNA was more frequently detected in baseline stool samples from patients with steroid-refractory GvHD than in patients with steroid-dependent GvHD. We could detect fungal taxa in the majority of samples, but did not see evidence of mycobiota transfer from donor to recipient. Our study demonstrates the feasibility of profiling the mycobiota alongside the more-traditional bacterial microbiota, establishes the methodology, and provides a first insight into the mycobiota composition of GvHD patients.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S2666636722017067)
+
+10.1016/j.jtct.2022.10.011
 
 ---
 
@@ -42,22 +48,22 @@ Several studies suggest a role of gut microbiota in colorectal cancer (CRC) init
 
 ---
 
-## Natural and after colon washing fecal samples: the two sides of the coin for investigating the human gut microbiome
+## Natural and after colon washing fecal samples: the two sides of the coin for investigating the human gut microbiome.
+ 30.10.2022, _E Piancone, B Fosso, M Marzano, M De Robertis, E Notario, A Oranger, C Manzari, S Bruno, G Visci, G Defazio, AM D'Erchia, E Filomena, D Maio, M Minelli, I Vergallo, M Minelli, G Pesole_
+
+
+_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Feces, Microbiota, DNA, Ribosomal, Colon_
+To date several studies address the important role of gut microbiome and its interplay with the human host in the health and disease status. However, the selection of a universal sampling matrix representative of the microbial biodiversity associated with the gastrointestinal (GI) tract, is still challenging. Here we present a study in which, through a deep metabarcoding analysis of the 16S rRNA gene, we compared two sampling matrices, feces (F) and colon washing feces (CWF), in order to evaluate their relative effectiveness and accuracy in representing the complexity of the human gut microbiome. A cohort of 30 volunteers was recruited and paired F and CWF samples were collected from each subject. Alpha diversity analysis confirmed a slightly higher biodiversity of CWF compared to F matched samples. Likewise, beta diversity analysis proved that paired F and CWF microbiomes were quite similar in the same individual, but remarkable inter-individual variability occurred among the microbiomes of all participants. Taxonomic analysis in matched samples was carried out to investigate the intra and inter individual/s variability. Firmicutes, Bacteroidota, Proteobacteria and Actinobacteriota were the main phyla in both F and CWF samples. At genus level, Bacteirodetes was the most abundant in F and CWF samples, followed by Faecalibacterium, Blautia and Escherichia-Shigella. Our study highlights an inter-individual variability greater than intra-individual variability for paired F and CWF samples. Indeed, an overall higher similarity was observed across matched F and CWF samples, suggesting, as expected, a remarkable overlap between the microbiomes inferred using the matched F and CWF samples. Notably, absolute quantification of total 16S rDNA by droplet digital PCR (ddPCR) revealed comparable overall microbial load between paired F and CWF samples. We report here the first comparative study on fecal and colon washing fecal samples for investigating the human gut microbiome and show that both types of samples may be used equally for the study of the gut microbiome. The presented results suggest that the combined use of both types of sampling matrices could represent a suitable choice to obtain a more complete overview of the human gut microbiota for addressing different biological and clinical questions.
 
 [Source](https://www.nature.com/articles/s41598-022-20888-z)
 
+10.1038/s41598-022-20888-z
+
 ---
 
-## Effects of heat stress on 16S rDNA, metagenome and metabolome in Holstein cows at different growth stages.
- 26.10.2022, _L Feng, Y Zhang, W Liu, D Du, W Jiang, Z Wang, Z Wang, Z Hu_
-
-
-_Animals, Cattle, Female, Diet, DNA, Ribosomal, Heat-Shock Response, Lactation, Metabolome, Metagenome, Milk_
-Heat stress is an important issue in dairy cattle feeding management affecting summer health and economic efficiency. This experiment combined 16S rDNA sequencing(3,864,982 tags, 30 sequencing data), metagenomic sequencing(1,269,441,128 reads, 18 sequencing data), metabolomics analysis(72 sequencing data) and blood index analysis. Ten cows in each animal type (growing heifers, heifers, and lactating cows) were selected for sample collection in April and August. Here, we characterized both the changes in metabolites, rumen microbial communities and their functional potential and the effects of heat stress on serum biochemical, immune, oxidative stress, and hormonal indices derived from rumen fluid and serum samples from cows during different growth stages and in different climates. The generated data expand the resources for the rumen microbiome related to heat stress and age and provide useful datasets for research on developing therapeutic strategies to achieve high summer milk production in cows. These datasets will help researchers study the effects of heat stress on the physiological metabolism of Holstein cows and the time-dependent changes associated with growth stages.
+## Effects of heat stress on 16S rDNA, metagenome and metabolome in Holstein cows at different growth stages
 
 [Source](https://www.nature.com/articles/s41597-022-01777-6)
-
-10.1038/s41597-022-01777-6
 
 ---
 
@@ -97,16 +103,9 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 
 ---
 
-## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction.
- 28.10.2022, _LM Tom, M Aulitto, YW Wu, K Deng, Y Gao, N Xiao, BG Rodriguez, C Louime, TR Northen, A Eudes, JC Mortimer, PD Adams, HV Scheller, BA Simmons, JA Ceja-Navarro, SW Singer_
-
-
-_Microbiota, Bacteria, Cell Wall, Biomass, Cellulose_
-Plant cell walls are interwoven structures recalcitrant to degradation. Native and adapted microbiomes can be particularly effective at plant cell wall deconstruction. Although most understanding of biological cell wall deconstruction has been obtained from isolates, cultivated microbiomes that break down cell walls have emerged as new sources for biotechnologically relevant microbes and enzymes. These microbiomes provide a unique resource to identify key interacting functional microbial groups and to guide the design of specialized synthetic microbial communities.
+## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01377-x)
-
-10.1186/s40168-022-01377-x
 
 ---
 
