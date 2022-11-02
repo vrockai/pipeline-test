@@ -37,7 +37,7 @@ Disruption of the intestinal bacterial microbiota is frequently observed in the 
 ---
 
 ## Colorectal cancer, Vitamin D and microbiota: A double-blind Phase II randomized trial (ColoViD) in colorectal cancer patients.
- 24.10.2022, _F Bellerba, D Serrano, J Harriet, C Pozzi, N Segata, A NabiNejad, E Piperni, P Gnagnarella, D Macis, V Aristarco, CA Accornero, P Manghi, AG Gonzaga, R Biffi, L Bottiglieri, C Trovato, MG Zampino, F Corso, R Bellocco, S Raimondi, M Rescigno, S Gandini_
+ 01.11.2022, _F Bellerba, D Serrano, J Harriet, C Pozzi, N Segata, A NabiNejad, E Piperni, P Gnagnarella, D Macis, V Aristarco, CA Accornero, P Manghi, AG Gonzaga, R Biffi, L Bottiglieri, C Trovato, MG Zampino, F Corso, R Bellocco, S Raimondi, M Rescigno, S Gandini_
 
 
 Several studies suggest a role of gut microbiota in colorectal cancer (CRC) initiation and progression. Vitamin D (vitD) blood levels are also inversely correlated with CRC risk and prognosis. However, these factors' interplay remains unknown.
@@ -98,33 +98,66 @@ Heat stress is an important issue in dairy cattle feeding management affecting s
 
 ---
 
-## Dietary Lactobacillus reuteri prevent from inflammation mediated apoptosis of liver via improving intestinal microbiota and bile acid metabolism
+## Dietary Lactobacillus reuteri prevent from inflammation mediated apoptosis of liver via improving intestinal microbiota and bile acid metabolism.
+ 01.11.2022, _Z Lin, J Wu, J Wang, CL Levesque, X Ma_
+
+
+Lactobacillus reuteri (L. reuteri) has been recognized as a probiotic to improve liver health, whereas the mechanism behind is still unknown. Herein, mice were gavaged with a strain of L. reuteri named SLZX19-12, which was isolated from faeces of healthy Tibetan pigs in our lab to investigate its effects on liver function. The results demonstrated that dietary L. reuteri changed the constituents of bile acid pool, especially influenced on metabolism of ursodeoxycholic acid (UDCA). In addition, L. reuteri reduced content of cholestasis-associated microbiota and effectively prevented liver from inflammatory response and hepatocyte apoptosis under the acute stimulation from LPS. We further revealed UDCA played an important part in protection of liver health during the stimulation of inflammatory factors in vitro. This study provides theoretical support and novel mechanism of action of L. reuteri protects liver from injury and influences on host physical health via regulation of crosstalk between bile acids and gut microbiota.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S030881462202605X)
 
+10.1016/j.foodchem.2022.134643
+
 ---
 
-## Specific metabolites drive the deterministic assembly of diseased rhizosphere microbiome through weakening microbial degradation of autotoxin
+## Specific metabolites drive the deterministic assembly of diseased rhizosphere microbiome through weakening microbial degradation of autotoxin.
+ 25.10.2022, _T Wen, P Xie, CR Penton, L Hale, LS Thomashow, S Yang, Z Ding, Y Su, J Yuan, Q Shen_
+
+
+_Rhizosphere, Soil Microbiology, Citrulline, alpha-Tocopherol, Microbiota, Fusarium, Bacteria, Soil, Sugars, Galactitol_
+Process and function that underlie the assembly of a rhizosphere microbial community may be strongly linked to the maintenance of plant health. However, their assembly processes and functional changes in the deterioration of soilborne disease remain unclear. Here, we investigated features of rhizosphere microbiomes related to Fusarium wilt disease and assessed their assembly by comparison pair of diseased/healthy sequencing data. The untargeted metabolomics was employed to explore potential community assembly drivers, and shotgun metagenome sequencing was used to reveal the mechanisms of metabolite-mediated process after soil conditioning.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01375-z)
 
+10.1186/s40168-022-01375-z
+
 ---
 
-## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction
+## Low-abundance populations distinguish microbiome performance in plant cell wall deconstruction.
+ 28.10.2022, _LM Tom, M Aulitto, YW Wu, K Deng, Y Gao, N Xiao, BG Rodriguez, C Louime, TR Northen, A Eudes, JC Mortimer, PD Adams, HV Scheller, BA Simmons, JA Ceja-Navarro, SW Singer_
+
+
+_Microbiota, Bacteria, Cell Wall, Biomass, Cellulose_
+Plant cell walls are interwoven structures recalcitrant to degradation. Native and adapted microbiomes can be particularly effective at plant cell wall deconstruction. Although most understanding of biological cell wall deconstruction has been obtained from isolates, cultivated microbiomes that break down cell walls have emerged as new sources for biotechnologically relevant microbes and enzymes. These microbiomes provide a unique resource to identify key interacting functional microbial groups and to guide the design of specialized synthetic microbial communities.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01377-x)
 
+10.1186/s40168-022-01377-x
+
 ---
 
-## Community assembly patterns and processes of microbiome responses to habitats and Mytilopsis sallei invasion in the tidal zones of the Pearl River Estuary
+## Community assembly patterns and processes of microbiome responses to habitats and Mytilopsis sallei invasion in the tidal zones of the Pearl River Estuary.
+ 24.10.2022, _Y Guo, A Zhang, C Qin, G Yu, H Ma_
+
+
+The sustainability of estuarine ecosystem functions depends on the stabilization of microbial ecological processes. However, due to the unique and variable habitat characteristics of estuarine areas, in-depth studies on ecological processes such as the spatial distribution and assembly patterns of microbial community structure are lacking. As methods to elucidate this structure, we used 16S rDNA, 18S rDNA and ITS sequencing technologies to study the composition, diversity, spatial pattern and aggregation mechanism of the bacterial, protist and fungal communities in the tidal zones of the Pearl River Estuary (PRETZ). The abundance of bacterial communities was much higher than that of protists and fungi, and the spatial pattern was obvious in PRETZ. The application of neutral and null models revealed the assembly process of three microbial communities dominated by stochastic processes. Among the stochastic processes, undominated processes (64.03 %, 62.45 %, and 59.29 %) were the most critical processes in the assembly of bacterial, fungal and protist communities. Meanwhile, environmental variables, geographic locations, and biological factors were associated with the composition and assembly of bacterial, protist, and fungal communities. Among the environmental variables, dissolved oxygen and salinity were the main predictors that jointly affected the differences in the community structure of the three microorganisms, and geographic location was the second predictor affecting the community structure of the three microorganisms and had a more pronounced effect on the diversity and network structure of the bacterial and fungal communities. However, biological factors exerted a weaker effect on the microbial community structure than spatial factors and only affected bacteria and protists; the invasive species Mytilopsis sallei only affected the process of protist community assembly. In addition, environmental variables affected the relative importance of stochastic processes. In summary, the formation of microbial communities in the PRETZ was affected by random processes, environmental variables, geographic location, and invasive species.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0048969722067754)
 
+10.1016/j.scitotenv.2022.159675
+
 ---
 
-## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis
+## LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis.
+ 22.10.2022, _E Özkurt, J Fritscher, N Soranzo, DYK Ng, RP Davey, M Bahram, F Hildebrand_
+
+
+_RNA, Ribosomal, 16S, Software, Reproducibility of Results, Sequence Analysis, Soil, High-Throughput Nucleotide Sequencing, Sequence Analysis, DNA_
+Amplicon sequencing is an established and cost-efficient method for profiling microbiomes. However, many available tools to process this data require both bioinformatics skills and high computational power to process big datasets. Furthermore, there are only few tools that allow for long read amplicon data analysis. To bridge this gap, we developed the LotuS2 (less OTU scripts 2) pipeline, enabling user-friendly, resource friendly, and versatile analysis of raw amplicon sequences.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01365-1)
+
+10.1186/s40168-022-01365-1
 
 ---
 
