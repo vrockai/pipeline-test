@@ -82,27 +82,53 @@
 
 ---
 
-## Multiomics Characterization of the Canada Goose Fecal Microbiome Reveals Selective Efficacy of Simulated Metagenomes
+## Multiomics Characterization of the Canada Goose Fecal Microbiome Reveals Selective Efficacy of Simulated Metagenomes.
+ 01.11.2022, _JC Gil, SM Hird_
+
+
+16S rRNA amplicon sequences are predominantly used to identify the taxonomic composition of a microbiome, but they can also be used to generate simulated metagenomes to circumvent costly empirical shotgun sequencing. The effectiveness of using "simulated metagenomes" (shotgun metagenomes simulated from 16S rRNA amplicons using a database of full genomes closely related to the amplicons) in nonmodel systems is poorly known. We sought to determine the accuracy of simulated metagenomes in a nonmodel organism, the Canada goose (Branta canadensis), by comparing metagenomes and metatranscriptomes to simulated metagenomes derived from 16S amplicon sequencing. We found significant differences between the metagenomes, metatranscriptomes, and simulated metagenomes when comparing enzymes, KEGG orthologies (KO), and metabolic pathways. The simulated metagenomes accurately identified the majority (&gt;70%) of the total enzymes, KOs, and pathways. The simulated metagenomes accurately identified the majority of the short-chain fatty acid metabolic pathways crucial to folivores. When narrowed in scope to specific genes of interest, the simulated metagenomes overestimated the number of antimicrobial resistance genes and underestimated the number of genes related to the breakdown of plant matter. Our results suggest that simulated metagenomes should not be used in lieu of empirical sequencing when studying the functional potential of a nonmodel organism's microbiome. Regarding the function of the Canada goose microbiome, we found unexpected amounts of fermentation pathways, and we found that a few taxa are responsible for large portions of the functional potential of the microbiome. IMPORTANCE The taxonomic composition of a microbiome is predominately identified using amplicon sequencing of 16S rRNA genes, but as a single marker, it cannot identify functions (genes). Metagenome and metatranscriptome sequencing can determine microbiome function but can be cost prohibitive. Therefore, computational methods have been developed to generate simulated metagenomes derived from 16S rRNA sequences and databases of full-length genomes. Simulated metagenomes can be an effective alternative to empirical sequencing, but accuracy depends on the genomic database used and whether the database contains organisms closely related to the 16S sequences. These tools are effective in well-studied systems, but the accuracy of these predictions in a nonmodel system is less known. Using a nonmodel bird species, we characterized the function of the microbiome and compared the accuracy of 16S-derived simulated metagenomes to sequenced metagenomes. We found that the simulated metagenomes reflect most but not all functions of empirical metagenome sequencing.
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.02384-22)
 
+10.1128/spectrum.02384-22
+
 ---
 
-## Uropygial gland microbiota differ between free-living and captive songbirds
+## Uropygial gland microbiota differ between free-living and captive songbirds.
+ 02.11.2022, _LA Grieves, CLJ Bottini, GB Gloor, EA MacDougall-Shackleton_
+
+
+_Animals, Scent Glands, Songbirds, Microbiota, Symbiosis, Sebaceous Glands, Passeriformes, Mammals_
+Symbiotic microbes can affect host behavior and fitness. Gut microbiota have received the most study, with less attention to other important microbial communities like those of scent-producing glands such as mammalian anal glands and the avian uropygial gland. However, mounting evidence suggests that microbes inhabiting scent-producing glands play an important role in animal behavior by contributing to variation in chemical signals. Free-living and captive conditions typically differ in social environment, food diversity and availability, disease exposure, and other factors-all of which can translate into differences in gut microbiota. However, whether extrinsic factors such as captivity alter microbial communities in scent glands remains an open question. We compared the uropygial gland microbiota of free-living and captive song sparrows (Melospiza melodia) and tested for an effect of dietary manipulations on the gland microbiota of captive birds. As predicted, the uropygial gland microbiota was significantly different between free-living and captive birds. Surprisingly, microbial diversity was higher in captive than free-living birds, and we found no effect of dietary treatments on captive bird microbiota. Identifying the specific factors responsible for microbial differences among groups and determining whether changes in symbiotic microbiota alter behavior and fitness are important next steps in this field.
 
 [Source](https://www.nature.com/articles/s41598-022-22425-4)
 
+10.1038/s41598-022-22425-4
+
 ---
 
-## Crop management shapes the diversity and activity of DNA and RNA viruses in the rhizosphere
+## Crop management shapes the diversity and activity of DNA and RNA viruses in the rhizosphere.
+ 28.10.2022, _G Muscatt, S Hilton, S Raguideau, G Teakle, IDEA Lidbury, EMH Wellington, C Quince, A Millard, GD Bending, E Jameson_
+
+
+_Rhizosphere, Soil Microbiology, Plant Roots, Microbiota, Soil, Bacteria, RNA Viruses, Bacteriophages, Brassica napus, DNA_
+The rhizosphere is a hotspot for microbial activity and contributes to ecosystem services including plant health and biogeochemical cycling. The activity of microbial viruses, and their influence on plant-microbe interactions in the rhizosphere, remains undetermined. Given the impact of viruses on the ecology and evolution of their host communities, determining how soil viruses influence microbiome dynamics is crucial to build a holistic understanding of rhizosphere functions.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01371-3)
 
+10.1186/s40168-022-01371-3
+
 ---
 
-## CRAMdb: a comprehensive database for composition and roles of microbiome in animals
+## CRAMdb: a comprehensive database for composition and roles of microbiome in animals.
+ 01.11.2022, _B Lei, Y Xu, Y Lei, C Li, P Zhou, L Wang, Q Yang, X Li, F Li, C Liu, C Cui, T Chen, W Ni, S Hu_
+
+
+CRAMdb (a database for composition and roles of animal microbiome) is a comprehensive resource of curated and consistently annotated metagenomes for non-human animals. It focuses on the composition and roles of the microbiome in various animal species. The main goal of the CRAMdb is to facilitate the reuse of animal metagenomic data, and enable cross-host and cross-phenotype comparisons. To this end, we consistently annotated microbiomes (including 16S, 18S, ITS and metagenomics sequencing data) of 516 animals from 475 projects spanning 43 phenotype pairs to construct the database that is equipped with 9430 bacteria, 278 archaea, 2216 fungi and 458 viruses. CRAMdb provides two main contents: microbiome composition data, illustrating the landscape of the microbiota (bacteria, archaea, fungi, and viruses) in various animal species, and microbiome association data, revealing the relationships between the microbiota and various phenotypes across different animal species. More importantly, users can quickly compare the composition of the microbiota of interest cross-host or body site and the associated taxa that differ between phenotype pairs cross-host or cross-phenotype. CRAMdb is freely available at (http://www.ehbio.com/CRAMdb).
 
 [Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac973/6786202)
+
+10.1093/nar/gkac973
 
 ---
 
