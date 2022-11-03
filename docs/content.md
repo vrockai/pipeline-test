@@ -4,27 +4,15 @@
 
 ---
 
-## A distinct clade of Bifidobacterium longum in the gut of Bangladeshi children thrives during weaning.
- 02.11.2022, _T Vatanen, QY Ang, L Siegwald, SA Sarker, CI Le Roy, S Duboux, O Delannoy-Bruno, C Ngom-Bru, CL Boulangé, M Stražar, J Avila-Pacheco, A Deik, K Pierce, K Bullock, C Dennis, S Sultana, S Sayed, M Rahman, T Ahmed, M Modesto, P Mattarelli, CB Clish, H Vlamakis, DR Plichta, O Sakwinska, RJ Xavier_
-
-
-The gut microbiome has an important role in infant health and development. We characterized the fecal microbiome and metabolome of 222 young children in Dhaka, Bangladesh during the first two years of life. A distinct Bifidobacterium longum clade expanded with introduction of solid foods and harbored enzymes for utilizing both breast milk and solid food substrates. The clade was highly prevalent in Bangladesh, present globally (at lower prevalence), and correlated with many other gut taxa and metabolites, indicating an important role in gut ecology. We also found that the B. longum clades and associated metabolites were implicated in childhood diarrhea and early growth, including positive associations between growth measures and B. longum subsp. infantis, indolelactate and N-acetylglutamate. Our data demonstrate geographic, cultural, seasonal, and ecological heterogeneity that should be accounted for when identifying microbiome factors implicated in and potentially benefiting infant development.
+## A distinct clade of Bifidobacterium longum in the gut of Bangladeshi children thrives during weaning
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0092867422013265)
 
-10.1016/j.cell.2022.10.011
-
 ---
 
-## Recent advances in systemic lupus erythematosus and microbiota: from bench to bedside.
- 01.11.2022, _Y Zhan, Q Liu, B Zhang, X Huang, Q Lu_
-
-
-Systemic lupus erythematosus (SLE) is a complicated autoimmune disease affecting multiple systems and organs. It is highly heterogeneous, and it preferentially affects women at childbearing age, causing worldwide social burden. The pathogenesis of SLE mostly involves genetic predisposition, epigenetic dysregulation, overactivation of the immune system, and environment factors. Human microbiome, which is mostly composed of microbiota colonized in the gut, skin, and oral cavity, provides a natural microbiome barrier against environmental risks. The past decade of research has demonstrated a strong association between microbiota and metabolic diseases or gastrointestinal diseases. However, the role of microbiota in autoimmunity remains largely unknown until recently, when the technological and methodological progress facilitates further microbiota research in SLE. In this review, the latest research about the role and mechanisms of microbiota in SLE and the advances in the development of diagnostic and therapeutic strategies based on microbiota for SLE were summarized.
+## Recent advances in systemic lupus erythematosus and microbiota: from bench to bedside
 
 [Source](https://link.springer.com/article/10.1007/s11684-022-0957-7)
-
-10.1007/s11684-022-0957-7
 
 ---
 
@@ -40,18 +28,6 @@ Systemic lupus erythematosus (SLE) is a complicated autoimmune disease affecting
 
 ---
 
-## Clostridium butyricum and Bifidobacterium pseudolongum Attenuate the Development of Cardiac Fibrosis in Mice.
- 01.11.2022, _J Wang, J Chen, L Li, H Zhang, D Pang, H Ouyang, X Jin, X Tang_
-
-
-Cardiac fibrosis is an integral aspect of every form of cardiovascular diseases, which is one of the leading causes of death worldwide. It is urgent to explore new effective drugs and treatments. In this paper, transverse aortic constriction (TAC)-induced cardiac fibrosis was significantly alleviated by a cocktail of antibiotics to clear the intestinal flora, indicating that the gut microbiota was associated with the disease process of cardiac fibrosis. We transplanted feces from sham-operated and TAC-treated mice to mice treated with a cocktail of antibiotics. We found that TAC-treated gut microbiota dysbiosis cannot cause cardiac fibrosis on its own. Interestingly, healthy fecal microbiota transplantation could alleviate cardiac fibrosis, indicating that targeted probiotics and related metabolite intervention may restore a normal microenvironment for the treatment or prevention of cardiac fibrosis. We used 16S rRNA sequencing of fecal samples and discovered that butyric acid-producing bacteria and Bifidobacterium pseudolongum were the dominant bacteria in the group with the lowest degree of cardiac fibrosis. Moreover, we demonstrated that sodium butyrate prevented the development of cardiac fibrosis. The effect of Clostridium butyricum (butyric acid-producing bacteria) was better than that of B. pseudolongum on cardiac fibrosis. Surprisingly, the cocktail of two probiotics had a stronger ability than a single probiotic. In conclusion, therapies targeting the gut microbiota and metabolites such as probiotics present new strategies for treating cardiovascular disease. IMPORTANCE Cardiac fibrosis is a basic process in cardiac remodeling. It is related to almost all types of cardiovascular diseases (CVD) and has become an important global health problem. Basic research and a number of clinical studies have shown that myocardial fibrosis can be prevented and reversed to a certain extent. It is urgent to explore new effective drugs and treatments. We indicated a causal relationship between cardiac fibrosis and gut microbiota. Gut microbiota dysbiosis cannot cause cardiac fibrosis on its own. Interestingly, healthy fecal microbiota transplantation could alleviate cardiac fibrosis. According to our findings, the combined use of butyric acid-producing bacteria and B. pseudolongum can help prevent cardiac fibrosis. Therapies targeting the gut microbiota and metabolites, such as probiotics, represent new strategies for treating cardiovascular disease.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0014299922006161)
-
-10.1128/spectrum.02524-22
-
----
-
 ## Gut microbiota and myocardial fibrosis
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0014299922006161)
@@ -64,28 +40,15 @@ Cardiac fibrosis is an integral aspect of every form of cardiovascular diseases,
 
 ---
 
-## Challenges and costs of donor screening for fecal microbiota transplantations.
- 24.10.2022, _MV Bénard, CMA de Bruijn, AC Fenneman, K Wortelboer, J Zeevenhoven, B Rethans, HJ Herrema, T van Gool, M Nieuwdorp, MA Benninga, CY Ponsioen_
-
-
-_Humans, Adolescent, Young Adult, Adult, Middle Aged, Aged, Fecal Microbiota Transplantation, Donor Selection, SARS-CoV-2, COVID-19, Feces, Clostridium Infections_
-The increasing interest to perform and investigate the efficacy of fecal microbiota transplantation (FMT) has generated an urge for feasible donor screening. We report our experience with stool donor recruitment, screening, follow-up, and associated costs in the context of clinical FMT trials.
+## Challenges and costs of donor screening for fecal microbiota transplantations
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276323)
 
-10.1371/journal.pone.0276323
-
 ---
 
-## Gut colonization by Proteobacteria alters host metabolism and modulates cocaine neurobehavioral responses.
- 02.11.2022, _S Cuesta, P Burdisso, A Segev, S Kourrich, V Sperandio_
-
-
-Gut-microbiota membership is associated with diverse neuropsychological outcomes, including substance use disorders (SUDs). Here, we use mice colonized with Citrobacter rodentium or the human γ-Proteobacteria commensal Escherichia coli HS as a model to examine the mechanistic interactions between gut microbes and host responses to cocaine. We find that cocaine exposure increases intestinal norepinephrine levels that are sensed through the bacterial adrenergic receptor QseC to promote intestinal colonization of γ-Proteobacteria. Colonized mice show enhanced host cocaine-induced behaviors. The neuroactive metabolite glycine, a bacterial nitrogen source, is depleted in the gut and cerebrospinal fluid of colonized mice. Systemic glycine repletion reversed, and γ-Proteobacteria mutated for glycine uptake did not alter the host response to cocaine. γ-Proteobacteria modulated glycine levels are linked to cocaine-induced transcriptional plasticity in the nucleus accumbens through glutamatergic transmission. The mechanism outline here could potentially be exploited to modulate reward-related brain circuits that contribute to SUDs.
+## Gut colonization by Proteobacteria alters host metabolism and modulates cocaine neurobehavioral responses
 
 [Source](https://www.sciencedirect.com/science/article/pii/S193131282200470X)
-
-10.1016/j.chom.2022.09.014
 
 ---
 
