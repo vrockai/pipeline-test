@@ -10,9 +10,15 @@
 
 ---
 
-## Recent advances in systemic lupus erythematosus and microbiota: from bench to bedside
+## Recent advances in systemic lupus erythematosus and microbiota: from bench to bedside.
+ 01.11.2022, _Y Zhan, Q Liu, B Zhang, X Huang, Q Lu_
+
+
+Systemic lupus erythematosus (SLE) is a complicated autoimmune disease affecting multiple systems and organs. It is highly heterogeneous, and it preferentially affects women at childbearing age, causing worldwide social burden. The pathogenesis of SLE mostly involves genetic predisposition, epigenetic dysregulation, overactivation of the immune system, and environment factors. Human microbiome, which is mostly composed of microbiota colonized in the gut, skin, and oral cavity, provides a natural microbiome barrier against environmental risks. The past decade of research has demonstrated a strong association between microbiota and metabolic diseases or gastrointestinal diseases. However, the role of microbiota in autoimmunity remains largely unknown until recently, when the technological and methodological progress facilitates further microbiota research in SLE. In this review, the latest research about the role and mechanisms of microbiota in SLE and the advances in the development of diagnostic and therapeutic strategies based on microbiota for SLE were summarized.
 
 [Source](https://link.springer.com/article/10.1007/s11684-022-0957-7)
+
+10.1007/s11684-022-0957-7
 
 ---
 
@@ -28,6 +34,18 @@
 
 ---
 
+## Clostridium butyricum and Bifidobacterium pseudolongum Attenuate the Development of Cardiac Fibrosis in Mice.
+ 01.11.2022, _J Wang, J Chen, L Li, H Zhang, D Pang, H Ouyang, X Jin, X Tang_
+
+
+Cardiac fibrosis is an integral aspect of every form of cardiovascular diseases, which is one of the leading causes of death worldwide. It is urgent to explore new effective drugs and treatments. In this paper, transverse aortic constriction (TAC)-induced cardiac fibrosis was significantly alleviated by a cocktail of antibiotics to clear the intestinal flora, indicating that the gut microbiota was associated with the disease process of cardiac fibrosis. We transplanted feces from sham-operated and TAC-treated mice to mice treated with a cocktail of antibiotics. We found that TAC-treated gut microbiota dysbiosis cannot cause cardiac fibrosis on its own. Interestingly, healthy fecal microbiota transplantation could alleviate cardiac fibrosis, indicating that targeted probiotics and related metabolite intervention may restore a normal microenvironment for the treatment or prevention of cardiac fibrosis. We used 16S rRNA sequencing of fecal samples and discovered that butyric acid-producing bacteria and Bifidobacterium pseudolongum were the dominant bacteria in the group with the lowest degree of cardiac fibrosis. Moreover, we demonstrated that sodium butyrate prevented the development of cardiac fibrosis. The effect of Clostridium butyricum (butyric acid-producing bacteria) was better than that of B. pseudolongum on cardiac fibrosis. Surprisingly, the cocktail of two probiotics had a stronger ability than a single probiotic. In conclusion, therapies targeting the gut microbiota and metabolites such as probiotics present new strategies for treating cardiovascular disease. IMPORTANCE Cardiac fibrosis is a basic process in cardiac remodeling. It is related to almost all types of cardiovascular diseases (CVD) and has become an important global health problem. Basic research and a number of clinical studies have shown that myocardial fibrosis can be prevented and reversed to a certain extent. It is urgent to explore new effective drugs and treatments. We indicated a causal relationship between cardiac fibrosis and gut microbiota. Gut microbiota dysbiosis cannot cause cardiac fibrosis on its own. Interestingly, healthy fecal microbiota transplantation could alleviate cardiac fibrosis. According to our findings, the combined use of butyric acid-producing bacteria and B. pseudolongum can help prevent cardiac fibrosis. Therapies targeting the gut microbiota and metabolites, such as probiotics, represent new strategies for treating cardiovascular disease.
+
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0014299922006161)
+
+10.1128/spectrum.02524-22
+
+---
+
 ## Gut microbiota and myocardial fibrosis
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S0014299922006161)
@@ -40,9 +58,16 @@
 
 ---
 
-## Challenges and costs of donor screening for fecal microbiota transplantations
+## Challenges and costs of donor screening for fecal microbiota transplantations.
+ 24.10.2022, _MV Bénard, CMA de Bruijn, AC Fenneman, K Wortelboer, J Zeevenhoven, B Rethans, HJ Herrema, T van Gool, M Nieuwdorp, MA Benninga, CY Ponsioen_
+
+
+_Humans, Adolescent, Young Adult, Adult, Middle Aged, Aged, Fecal Microbiota Transplantation, Donor Selection, SARS-CoV-2, COVID-19, Feces, Clostridium Infections_
+The increasing interest to perform and investigate the efficacy of fecal microbiota transplantation (FMT) has generated an urge for feasible donor screening. We report our experience with stool donor recruitment, screening, follow-up, and associated costs in the context of clinical FMT trials.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276323)
+
+10.1371/journal.pone.0276323
 
 ---
 
@@ -52,33 +77,66 @@
 
 ---
 
-## Enriching captivity conditions with natural elements does not prevent the loss of wild-like gut microbiota but shapes its compositional variation in two small mamma
+## Enriching captivity conditions with natural elements does not prevent the loss of wild-like gut microbiota but shapes its compositional variation in two small mammals.
+ 01.11.2022, _A Koziol, I Odriozola, L Nyholm, A Leonard, C San José, J Pauperio, C Ferreira, AJ Hansen, O Aizpurua, MTP Gilbert, A Alberdi_
+
+
+_Animals, Gastrointestinal Microbiome, Bacteria, Microbiota, Feces, Mammals, RNA, Ribosomal, 16S_
+As continued growth in gut microbiota studies in captive and model animals elucidates the importance of their role in host biology, further pursuit of how to retain a wild-like microbial community is becoming increasingly important to obtain representative results from captive animals. In this study, we assessed how the gut microbiota of two wild-caught small mammals, namely Crocidura russula (Eulipotyphla, insectivore) and Apodemus sylvaticus (Rodentia, omnivore), changed when bringing them into captivity. We analyzed fecal samples of 15 A. sylvaticus and 21 C. russula, immediately after bringing them into captivity and 5 weeks later, spread over two housing treatments: a "natural" setup enriched with elements freshly collected from nature and a "laboratory" setup with sterile artificial elements. Through sequencing of the V3-V4 region of the 16S recombinant RNA gene, we found that the initial microbial diversity dropped during captivity in both species, regardless of treatment. Community composition underwent a change of similar magnitude in both species and under both treatments. However, we did observe that the temporal development of the gut microbiome took different trajectories (i.e., changed in different directions) under different treatments, particularly in C. russula, suggesting that C. russula may be more susceptible to environmental change. The results of this experiment do not support the use of microbially enriched environments to retain wild-like microbial diversities and compositions, yet show that specific housing conditions can significantly affect the drift of microbial communities under captivity.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1318)
 
+10.1002/mbo3.1318
+
 ---
 
-## Understanding the Dynamic of POMS Infection and the Role of Microbiota Composition in the Survival of Pacific Oysters, Crassostrea gigas
+## Understanding the Dynamic of POMS Infection and the Role of Microbiota Composition in the Survival of Pacific Oysters, Crassostrea gigas.
+ 31.10.2022, _L Delisle, O Laroche, Z Hilton, JF Burguin, A Rolton, J Berry, X Pochon, P Boudry, J Vignier_
+
+
+For over a decade, Pacific oyster mortality syndrome (POMS), a polymicrobial disease, induced recurring episodes of massive mortality affecting Crassostrea gigas oysters worldwide. Recent studies evidenced a combined infection of the ostreid herpesvirus (OsHV-1 μVar) and opportunistic bacteria in affected oysters. However, the role of the oyster microbiota in POMS is not fully understood. While some bacteria can protect hosts from infection, even minor changes to the microbial communities may also facilitate infection and worsen disease severity. Using a laboratory-based experimental infection model, we challenged juveniles from 10 biparental oyster families with previously established contrasted genetically based ability to survive POMS in the field. Combining molecular analyses and 16S rRNA gene sequencing with histopathological observations, we described the temporal kinetics of POMS and characterized the changes in microbiota during infection. By associating the microbiota composition with oyster mortality rate, viral load, and viral gene expression, we were able to identify both potentially harmful and beneficial bacterial amplicon sequence variants (ASVs). We also observed a delay in viral infection resulting in a later onset of mortality in oysters compared to previous observations and a lack of evidence of fatal dysbiosis in infected oysters. Overall, these results provide new insights into how the oyster microbiome may influence POMS disease outcomes and open new perspectives on the use of microbiome composition as a complementary screening tool to determine shellfish health and potentially predict oyster vulnerability to POMS. IMPORTANCE For more than a decade, Pacific oyster mortality syndrome (POMS) has severely impacted the Crassostrea gigas aquaculture industry, at times killing up to 100% of young farmed Pacific oysters, a key commercial species that is cultivated globally. These disease outbreaks have caused major financial losses for the oyster aquaculture industry. Selective breeding has improved disease resistance in oysters, but some levels of mortality persist, and additional knowledge of the disease progression and pathogenicity is needed to develop complementary mitigation strategies. In this holistic study, we identified some potentially harmful and beneficial bacteria that can influence the outcome of the disease. These results will contribute to advance disease management and aquaculture practices by improving our understanding of the mechanisms behind genetic resistance to POMS and assisting in predicting oyster vulnerability to POMS.
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.01959-22)
 
+10.1128/spectrum.01959-22
+
 ---
 
-## Changes in Gut Microbiota Structure: A Potential Pathway for Silver Nanoparticles to Affect the Host Metabolism
+## Changes in Gut Microbiota Structure: A Potential Pathway for Silver Nanoparticles to Affect the Host Metabolism.
+ 31.10.2022, _XL Wang, N Yu, C Wang, HR Zhou, C Wu, L Yang, S Wei, AJ Miao_
+
+
+Silver nanoparticles (AgNPs) are one of the most widely used NPs. Their adverse effects on either the host or its gut microbiota (GM) have been examined. Nevertheless, whether the GM plays any role in AgNP toxicity to the host remains unclear. In the present study, AgNPs were administered to mice by oral gavage once a day for 120 days. A significant dose-dependent accumulation of Ag in the liver was observed, with a steady state reached within 21 days. The AgNPs changed the structure of the GM, mainly with respect to microorganisms involved in the metabolism of energy, amino acids, organic acids, and lipids, as predicted in a PICRUST analysis. Effects of the AgNPs on liver metabolism were also demonstrated, as a KEGG pathway analysis showed the enrichment of pathways responsible for the metabolism of amino acids, purines and pyrimidine, lipids, and energy. More interestingly, the changes in GM structure and liver metabolism were highly correlated, evidenced by the correlation between ∼23% of the differential microorganisms at the genus level and ∼60% of the differential metabolites. This implies that the metabolic variations in liver as affected by AgNPs were partly attributable to NP-induced changes of GM structure. Therefore, our results demonstrate the importance of considering the roles of GM in the toxicity of NPs to the host in evaluations of the health risks of NPs.
 
 [Source](https://pubs.acs.org/doi/10.1021/acsnano.2c07924)
 
+10.1021/acsnano.2c07924
+
 ---
 
-## Skin microbiota of oxazolone-induced contact hypersensitivity mouse model
+## Skin microbiota of oxazolone-induced contact hypersensitivity mouse model.
+ 24.10.2022, _K Mäenpää, S Wang, M Ilves, H El-Nezami, H Alenius, H Sinkko, P Karisola_
+
+
+_Mice, Animals, Oxazolone, RNA, Ribosomal, 16S, Olive Oil, Acetone, Microbiota, Disease Models, Animal, Dermatitis, Allergic Contact, Inflammation, Bacteria_
+Contact allergy is a common skin allergy, which can be studied utilising contact hypersensitivity (CHS) animal model. However, it is not clear, whether CHS is a suitable model to investigate skin microbiota interactions. We characterised the effect of contact dermatitis on the skin microbiota and studied the biological effects of oxazolone (OXA) -induced inflammation on skin thickness, immune cell numbers and changes of the microbiota in CHS mouse model (n = 72) for 28 days. Through 16S rRNA gene sequencing we defined the composition of bacterial communities and associations of bacteria with inflammation. We observed that the vehicle solution of acetone and olive oil induced bacterial community changes on day 1, and OXA-induced changes were observed mainly on day 7. Many of the notably enriched bacteria present in the OXA-challenged positive group represented the genus Faecalibaculum which were most likely derived from the cage environment. Additionally, skin inflammation correlated negatively with Streptococcus, which is considered a native skin bacterium, and positively with Muribacter muris, which is typical in oral environment. Skin inflammation favoured colonisation of cage-derived faecal bacteria, and additionally mouse grooming transferred oral bacteria on the skin. Due to the observed changes, we conclude that CHS model could be used for certain skin microbiome-related research set-ups. However, since vehicle exposure can alter the skin microbiome as such, future studies should include considerations such as careful control sampling and statistical tests to account for potential confounding factors.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276071)
 
+10.1371/journal.pone.0276071
+
 ---
 
-## Effects of a farm-specific fecal microbial transplant (FMT) product on clinical outcomes and fecal microbiome composition in preweaned dairy calves
+## Effects of a farm-specific fecal microbial transplant (FMT) product on clinical outcomes and fecal microbiome composition in preweaned dairy calves.
+ 25.10.2022, _GS Slanzon, BJ Ridenhour, LM Parrish, SC Trombetta, DA Moore, WM Sischo, CS McConnel_
+
+
+_Cattle, Animals, Farms, Fecal Microbiota Transplantation, Feces, Microbiota, Anti-Bacterial Agents_
+Gastrointestinal disease (GI) is the most common illness in pre-weaned dairy calves. Therefore, effective strategies to manipulate the microbiome of dairy calves under commercial dairy operations are of great importance to improve animal health and reduce antimicrobial usage. The objective of this study was to develop a farm-specific FMT product and to investigate its effects on clinical outcomes and fecal microbial composition of dairy calves. The FMT product was derived from feces from healthy donors (5-24 days of age) raised in the same calf ranch facility as the FMT recipients. Healthy and diarrheic calves were randomly enrolled to a control (n = 115) or FMT (n = 112) treatment group (~36 g of processed fecal matter once daily for 3 days). Fecal samples were collected at enrollment and again 9 days later after the first FMT dose. Although the FMT product was rich in organisms typically known for their beneficial probiotic properties, the FMT therapy did not prevent or ameliorate GI disease in dairy calves. In fact, calves that received FMT were less likely to recover from GI disease, and more likely to die due to GI disease complications. Fecal microbial community analysis revealed an increase in the alpha-diversity in FMT calves; however, no major differences across treatment groups were observed in the beta-diversity analysis. Calves that received FMT had higher relative abundance of an uncultured organism of the genus Lactobacillus and Lactobacillus reuteri on day 10. Moreover, FMT calves had lower relative abundance of Clostridium nexile and Bacteroides vulgatus on day 10. Our results indicate the need to have an established protocol when developing FMT products, based on rigorous inclusion and exclusion criteria for the selection of FMT donors free of potential pathogens, no history of disease or antibiotic treatment.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276638)
+
+10.1371/journal.pone.0276638
 
 ---
 
