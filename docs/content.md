@@ -77,16 +77,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Host-microbiome interactions: Gut-Liver axis and its connection with other organs.
- 03.11.2022, _S Anand, SS Mande_
-
-
-_Humans, Dysbiosis, Gastrointestinal Microbiome, Liver, Bile Acids and Salts, Inflammation_
-An understanding of connections between gut microbiome and liver has provided important insights into the pathophysiology of liver diseases. Since gut microbial dysbiosis increases gut permeability, the metabolites biosynthesized by them can reach the liver through portal circulation and affect hepatic immunity and inflammation. The immune cells activated by these metabolites can also reach liver through lymphatic circulation. Liver influences immunity and metabolism in multiple organs in the body, including gut. It releases bile acids and other metabolites into biliary tract from where they enter the systemic circulation. In this review, the bidirectional communication between the gut and the liver and the molecular cross talk between the host and the microbiome has been discussed. This review also provides details into the intricate level of communication and the role of microbiome in Gut-Liver-Brain, Gut-Liver-Kidney, Gut-Liver-Lung, and Gut-Liver-Heart axes. These observations indicate a complex network of interactions between host organs influenced by gut microbiome.
+## Host-microbiome interactions: Gut-Liver axis and its connection with other organs 
 
 [Source](https://www.nature.com/articles/s41522-022-00352-6)
-
-10.1038/s41522-022-00352-6
 
 ---
 
@@ -96,29 +89,15 @@ An understanding of connections between gut microbiome and liver has provided im
 
 ---
 
-## Effects of different amoxicillin treatment durations on microbiome diversity and composition in the gut.
- 31.10.2022, _K Lekang, S Shekhar, D Berild, FC Petersen, HC Winther-Larsen_
-
-
-_Humans, Mice, Animals, Amoxicillin, RNA, Ribosomal, 16S, Duration of Therapy, Microbiota, Anti-Bacterial Agents, Bacteria_
-Antibiotics seize an effect on bacterial composition and diversity and have been demonstrated to induce disruptions on gut microbiomes. This may have implications for human health and wellbeing, and an increasing number of studies suggest a link between the gut microbiome and several diseases. Hence, reducing antibiotic treatments may be beneficial for human health status. Further, antimicrobial resistance (AMR) is an increasing global problem that can be counteracted by limiting the usage of antibiotics. Longer antibiotic treatments have been demonstrated to increase the development of AMR. Therefore, shortening of antibiotic treatment durations, provided it is safe for patients, may be one measure to reduce AMR. In this study, the objective was to investigate effects of standard and reduced antibiotic treatment lengths on gut microbiomes using a murine model. Changes in the murine gut microbiome was assessed after using three different treatment durations of amoxicillin (3, 7 or 14 days) as well as a control group not receiving amoxicillin. Fecal samples were collected before and during the whole experiment, until three weeks past end of treatment. These were further subject for 16S rRNA Illumina MiSeq sequencing. Our results demonstrated significant changes in bacterial diversity, richness and evenness during amoxicillin treatment, followed by a reversion in terms of alpha-diversity and abundance of major phyla, after end of treatment. However, a longer restitution time was indicated for mice receiving amoxicillin for 14 days, and phylum Patescibacteria did not fully recover. In addition, an effect on the composition of Firmicutes was indicated to last for at least three weeks in mice treated with amoxicillin for 14 days. Despite an apparently reversion to a close to original state in overall bacterial diversity and richness, the results suggested more durable changes in lower taxonomical levels. We detected several families, genera and ASVs with significantly altered abundance three weeks after exposure to amoxicillin, as well as bacterial taxa that appeared significantly affected by amoxicillin treatment length. This may strengthen the argument for shorter antibiotic treatment regimens to both limit the emergence of antibiotic resistance and risk of gut microbiome disturbance.
+## Effects of different amoxicillin treatment durations on microbiome diversity and composition in the gut
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275737)
 
-10.1371/journal.pone.0275737
-
 ---
 
-## The microbiota promotes social behavior by modulating microglial remodeling of forebrain neurons.
- 03.11.2022, _JJ Bruckner, SJ Stednitz, MZ Grice, D Zaidan, MS Massaquoi, J Larsch, A Tallafuss, K Guillemin, P Washbourne, JS Eisen_
-
-
-_Animals, Microglia, Zebrafish, Autism Spectrum Disorder, Neurons, Social Behavior, Prosencephalon, Microbiota_
-Host-associated microbiotas guide the trajectory of developmental programs, and altered microbiota composition is linked to neurodevelopmental conditions such as autism spectrum disorder. Recent work suggests that microbiotas modulate behavioral phenotypes associated with these disorders. We discovered that the zebrafish microbiota is required for normal social behavior and reveal a molecular pathway linking the microbiota, microglial remodeling of neural circuits, and social behavior in this experimentally tractable model vertebrate. Examining neuronal correlates of behavior, we found that the microbiota restrains neurite complexity and targeting of forebrain neurons required for normal social behavior and is necessary for localization of forebrain microglia, brain-resident phagocytes that remodel neuronal arbors. The microbiota also influences microglial molecular functions, including promoting expression of the complement signaling pathway and the synaptic remodeling factor c1q. Several distinct bacterial taxa are individually sufficient for normal microglial and neuronal phenotypes, suggesting that host neuroimmune development is sensitive to a feature common among many bacteria. Our results demonstrate that the microbiota influences zebrafish social behavior by stimulating microglial remodeling of forebrain circuits during early neurodevelopment and suggest pathways for new interventions in multiple neurodevelopmental disorders.
+## The microbiota promotes social behavior by modulating microglial remodeling of forebrain neurons
 
 [Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001838)
-
-10.1371/journal.pbio.3001838
 
 ---
 
@@ -128,15 +107,9 @@ Host-associated microbiotas guide the trajectory of developmental programs, and 
 
 ---
 
-## Plasticity of the adult human small intestinal stoma microbiota.
- 01.11.2022, _B Yilmaz, T Fuhrer, D Morgenthaler, N Krupka, D Wang, D Spari, D Candinas, B Misselwitz, G Beldi, U Sauer, AJ Macpherson_
-
-
-The human distal small intestine (ileum) has a distinct microbiota, but human studies investigating its composition and function have been limited by the inaccessibility of the ileum without purging and/or deep intubation. We investigated inherent instability, temporal dynamics, and the contribution of fed and fasted states using stoma samples from cured colorectal cancer patients as a non-invasive access route to the otherwise inaccessible small and large intestines. Sequential sampling of the ileum before and after stoma formation indicated that ileostoma microbiotas represented that of the intact small intestine. Ileal and colonic stoma microbiotas were confirmed as distinct, and two types of instability in ileal host-microbial relationships were observed: inter-digestive purging followed by the rapid postprandial blooming of bacterial biomass and sub-strain appearance and disappearance within individual taxa after feeding. In contrast to the relative stability of colonic microbiota, the human small intestinal microbiota biomass and its sub-strain composition can be highly dynamic.
+## Plasticity of the adult human small intestinal stoma microbiota
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(22)00515-7)
-
-10.1016/j.chom.2022.10.002
 
 ---
 
@@ -164,28 +137,15 @@ The human distal small intestine (ileum) has a distinct microbiota, but human st
 
 ---
 
-## MIDAS2: Metagenomic Intra-species Diversity Analysis System.
- 02.11.2022, _C Zhao, B Dimitrov, M Goldman, S Nayfach, KS Pollard_
-
-
-The Metagenomic Intra-Species Diversity Analysis System (MIDAS) is a scalable metagenomic pipeline that identifies single nucleotide variants (SNVs) and gene copy number variants (CNVs) in microbial populations. Here, we present MIDAS2, which addresses the computational challenges presented by increasingly large reference genome databases, while adding functionality for building custom databases and leveraging paired-end reads to improve SNV accuracy. This fast and scalable reengineering of the MIDAS pipeline enables thousands of metagenomic samples to be efficiently genotyped.
+## MIDAS2: Metagenomic Intra-species Diversity Analysis System
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac713/6793850)
 
-10.1093/bioinformatics/btac713
-
 ---
 
-## Automated identification of sequence-tailored Cas9 proteins using massive metagenomic data.
- 01.11.2022, _M Ciciani, M Demozzi, E Pedrazzoli, E Visentin, L Pezzè, LF Signorini, A Blanco-Miguez, M Zolfo, F Asnicar, A Casini, A Cereseto, N Segata_
-
-
-_CRISPR-Associated Protein 9, CRISPR-Cas Systems, RNA, Guide, Metagenome, Gene Editing, Endonucleases_
-The identification of the protospacer adjacent motif (PAM) sequences of Cas9 nucleases is crucial for their exploitation in genome editing. Here we develop a computational pipeline that was used to interrogate a massively expanded dataset of metagenome and virome assemblies for accurate and comprehensive PAM predictions. This procedure allows the identification and isolation of sequence-tailored Cas9 nucleases by using the target sequence as bait. As proof of concept, starting from the disease-causing mutation P23H in the RHO gene, we find, isolate and experimentally validate a Cas9 which uses the mutated sequence as PAM. Our PAM prediction pipeline will be instrumental to generate a Cas9 nuclease repertoire responding to any PAM requirement.
+## Automated identification of sequence-tailored Cas9 proteins using massive metagenomic data 
 
 [Source](https://www.nature.com/articles/s41467-022-34213-9)
-
-10.1038/s41467-022-34213-9
 
 ---
 
