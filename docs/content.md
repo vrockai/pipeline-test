@@ -40,63 +40,129 @@
 
 ---
 
-## Challenges and costs of donor screening for fecal microbiota transplantations
+## Challenges and costs of donor screening for fecal microbiota transplantations.
+ 24.10.2022, _MV Bénard, CMA de Bruijn, AC Fenneman, K Wortelboer, J Zeevenhoven, B Rethans, HJ Herrema, T van Gool, M Nieuwdorp, MA Benninga, CY Ponsioen_
+
+
+_Humans, Adolescent, Young Adult, Adult, Middle Aged, Aged, Fecal Microbiota Transplantation, Donor Selection, SARS-CoV-2, COVID-19, Feces, Clostridium Infections_
+The increasing interest to perform and investigate the efficacy of fecal microbiota transplantation (FMT) has generated an urge for feasible donor screening. We report our experience with stool donor recruitment, screening, follow-up, and associated costs in the context of clinical FMT trials.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276323)
 
+10.1371/journal.pone.0276323
+
 ---
 
-## Gut colonization by Proteobacteria alters host metabolism and modulates cocaine neurobehavioral responses
+## Gut colonization by Proteobacteria alters host metabolism and modulates cocaine neurobehavioral responses.
+ 02.11.2022, _S Cuesta, P Burdisso, A Segev, S Kourrich, V Sperandio_
+
+
+Gut-microbiota membership is associated with diverse neuropsychological outcomes, including substance use disorders (SUDs). Here, we use mice colonized with Citrobacter rodentium or the human γ-Proteobacteria commensal Escherichia coli HS as a model to examine the mechanistic interactions between gut microbes and host responses to cocaine. We find that cocaine exposure increases intestinal norepinephrine levels that are sensed through the bacterial adrenergic receptor QseC to promote intestinal colonization of γ-Proteobacteria. Colonized mice show enhanced host cocaine-induced behaviors. The neuroactive metabolite glycine, a bacterial nitrogen source, is depleted in the gut and cerebrospinal fluid of colonized mice. Systemic glycine repletion reversed, and γ-Proteobacteria mutated for glycine uptake did not alter the host response to cocaine. γ-Proteobacteria modulated glycine levels are linked to cocaine-induced transcriptional plasticity in the nucleus accumbens through glutamatergic transmission. The mechanism outline here could potentially be exploited to modulate reward-related brain circuits that contribute to SUDs.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S193131282200470X)
 
+10.1016/j.chom.2022.09.014
+
 ---
 
-## Enriching captivity conditions with natural elements does not prevent the loss of wild-like gut microbiota but shapes its compositional variation in two small mamma
+## Enriching captivity conditions with natural elements does not prevent the loss of wild-like gut microbiota but shapes its compositional variation in two small mammals.
+ 01.11.2022, _A Koziol, I Odriozola, L Nyholm, A Leonard, C San José, J Pauperio, C Ferreira, AJ Hansen, O Aizpurua, MTP Gilbert, A Alberdi_
+
+
+_Animals, Gastrointestinal Microbiome, Bacteria, Microbiota, Feces, Mammals, RNA, Ribosomal, 16S_
+As continued growth in gut microbiota studies in captive and model animals elucidates the importance of their role in host biology, further pursuit of how to retain a wild-like microbial community is becoming increasingly important to obtain representative results from captive animals. In this study, we assessed how the gut microbiota of two wild-caught small mammals, namely Crocidura russula (Eulipotyphla, insectivore) and Apodemus sylvaticus (Rodentia, omnivore), changed when bringing them into captivity. We analyzed fecal samples of 15 A. sylvaticus and 21 C. russula, immediately after bringing them into captivity and 5 weeks later, spread over two housing treatments: a "natural" setup enriched with elements freshly collected from nature and a "laboratory" setup with sterile artificial elements. Through sequencing of the V3-V4 region of the 16S recombinant RNA gene, we found that the initial microbial diversity dropped during captivity in both species, regardless of treatment. Community composition underwent a change of similar magnitude in both species and under both treatments. However, we did observe that the temporal development of the gut microbiome took different trajectories (i.e., changed in different directions) under different treatments, particularly in C. russula, suggesting that C. russula may be more susceptible to environmental change. The results of this experiment do not support the use of microbially enriched environments to retain wild-like microbial diversities and compositions, yet show that specific housing conditions can significantly affect the drift of microbial communities under captivity.
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/mbo3.1318)
 
+10.1002/mbo3.1318
+
 ---
 
-## Understanding the Dynamic of POMS Infection and the Role of Microbiota Composition in the Survival of Pacific Oysters, Crassostrea gigas
+## Understanding the Dynamic of POMS Infection and the Role of Microbiota Composition in the Survival of Pacific Oysters, Crassostrea gigas.
+ 31.10.2022, _L Delisle, O Laroche, Z Hilton, JF Burguin, A Rolton, J Berry, X Pochon, P Boudry, J Vignier_
+
+
+For over a decade, Pacific oyster mortality syndrome (POMS), a polymicrobial disease, induced recurring episodes of massive mortality affecting Crassostrea gigas oysters worldwide. Recent studies evidenced a combined infection of the ostreid herpesvirus (OsHV-1 μVar) and opportunistic bacteria in affected oysters. However, the role of the oyster microbiota in POMS is not fully understood. While some bacteria can protect hosts from infection, even minor changes to the microbial communities may also facilitate infection and worsen disease severity. Using a laboratory-based experimental infection model, we challenged juveniles from 10 biparental oyster families with previously established contrasted genetically based ability to survive POMS in the field. Combining molecular analyses and 16S rRNA gene sequencing with histopathological observations, we described the temporal kinetics of POMS and characterized the changes in microbiota during infection. By associating the microbiota composition with oyster mortality rate, viral load, and viral gene expression, we were able to identify both potentially harmful and beneficial bacterial amplicon sequence variants (ASVs). We also observed a delay in viral infection resulting in a later onset of mortality in oysters compared to previous observations and a lack of evidence of fatal dysbiosis in infected oysters. Overall, these results provide new insights into how the oyster microbiome may influence POMS disease outcomes and open new perspectives on the use of microbiome composition as a complementary screening tool to determine shellfish health and potentially predict oyster vulnerability to POMS. IMPORTANCE For more than a decade, Pacific oyster mortality syndrome (POMS) has severely impacted the Crassostrea gigas aquaculture industry, at times killing up to 100% of young farmed Pacific oysters, a key commercial species that is cultivated globally. These disease outbreaks have caused major financial losses for the oyster aquaculture industry. Selective breeding has improved disease resistance in oysters, but some levels of mortality persist, and additional knowledge of the disease progression and pathogenicity is needed to develop complementary mitigation strategies. In this holistic study, we identified some potentially harmful and beneficial bacteria that can influence the outcome of the disease. These results will contribute to advance disease management and aquaculture practices by improving our understanding of the mechanisms behind genetic resistance to POMS and assisting in predicting oyster vulnerability to POMS.
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.01959-22)
 
+10.1128/spectrum.01959-22
+
 ---
 
-## Changes in Gut Microbiota Structure: A Potential Pathway for Silver Nanoparticles to Affect the Host Metabolism
+## Changes in Gut Microbiota Structure: A Potential Pathway for Silver Nanoparticles to Affect the Host Metabolism.
+ 31.10.2022, _XL Wang, N Yu, C Wang, HR Zhou, C Wu, L Yang, S Wei, AJ Miao_
+
+
+Silver nanoparticles (AgNPs) are one of the most widely used NPs. Their adverse effects on either the host or its gut microbiota (GM) have been examined. Nevertheless, whether the GM plays any role in AgNP toxicity to the host remains unclear. In the present study, AgNPs were administered to mice by oral gavage once a day for 120 days. A significant dose-dependent accumulation of Ag in the liver was observed, with a steady state reached within 21 days. The AgNPs changed the structure of the GM, mainly with respect to microorganisms involved in the metabolism of energy, amino acids, organic acids, and lipids, as predicted in a PICRUST analysis. Effects of the AgNPs on liver metabolism were also demonstrated, as a KEGG pathway analysis showed the enrichment of pathways responsible for the metabolism of amino acids, purines and pyrimidine, lipids, and energy. More interestingly, the changes in GM structure and liver metabolism were highly correlated, evidenced by the correlation between ∼23% of the differential microorganisms at the genus level and ∼60% of the differential metabolites. This implies that the metabolic variations in liver as affected by AgNPs were partly attributable to NP-induced changes of GM structure. Therefore, our results demonstrate the importance of considering the roles of GM in the toxicity of NPs to the host in evaluations of the health risks of NPs.
 
 [Source](https://pubs.acs.org/doi/10.1021/acsnano.2c07924)
 
+10.1021/acsnano.2c07924
+
 ---
 
-## Skin microbiota of oxazolone-induced contact hypersensitivity mouse model
+## Skin microbiota of oxazolone-induced contact hypersensitivity mouse model.
+ 24.10.2022, _K Mäenpää, S Wang, M Ilves, H El-Nezami, H Alenius, H Sinkko, P Karisola_
+
+
+_Mice, Animals, Oxazolone, RNA, Ribosomal, 16S, Olive Oil, Acetone, Microbiota, Disease Models, Animal, Dermatitis, Allergic Contact, Inflammation, Bacteria_
+Contact allergy is a common skin allergy, which can be studied utilising contact hypersensitivity (CHS) animal model. However, it is not clear, whether CHS is a suitable model to investigate skin microbiota interactions. We characterised the effect of contact dermatitis on the skin microbiota and studied the biological effects of oxazolone (OXA) -induced inflammation on skin thickness, immune cell numbers and changes of the microbiota in CHS mouse model (n = 72) for 28 days. Through 16S rRNA gene sequencing we defined the composition of bacterial communities and associations of bacteria with inflammation. We observed that the vehicle solution of acetone and olive oil induced bacterial community changes on day 1, and OXA-induced changes were observed mainly on day 7. Many of the notably enriched bacteria present in the OXA-challenged positive group represented the genus Faecalibaculum which were most likely derived from the cage environment. Additionally, skin inflammation correlated negatively with Streptococcus, which is considered a native skin bacterium, and positively with Muribacter muris, which is typical in oral environment. Skin inflammation favoured colonisation of cage-derived faecal bacteria, and additionally mouse grooming transferred oral bacteria on the skin. Due to the observed changes, we conclude that CHS model could be used for certain skin microbiome-related research set-ups. However, since vehicle exposure can alter the skin microbiome as such, future studies should include considerations such as careful control sampling and statistical tests to account for potential confounding factors.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276071)
 
+10.1371/journal.pone.0276071
+
 ---
 
-## Effects of a farm-specific fecal microbial transplant (FMT) product on clinical outcomes and fecal microbiome composition in preweaned dairy calves
+## Effects of a farm-specific fecal microbial transplant (FMT) product on clinical outcomes and fecal microbiome composition in preweaned dairy calves.
+ 25.10.2022, _GS Slanzon, BJ Ridenhour, LM Parrish, SC Trombetta, DA Moore, WM Sischo, CS McConnel_
+
+
+_Cattle, Animals, Farms, Fecal Microbiota Transplantation, Feces, Microbiota, Anti-Bacterial Agents_
+Gastrointestinal disease (GI) is the most common illness in pre-weaned dairy calves. Therefore, effective strategies to manipulate the microbiome of dairy calves under commercial dairy operations are of great importance to improve animal health and reduce antimicrobial usage. The objective of this study was to develop a farm-specific FMT product and to investigate its effects on clinical outcomes and fecal microbial composition of dairy calves. The FMT product was derived from feces from healthy donors (5-24 days of age) raised in the same calf ranch facility as the FMT recipients. Healthy and diarrheic calves were randomly enrolled to a control (n = 115) or FMT (n = 112) treatment group (~36 g of processed fecal matter once daily for 3 days). Fecal samples were collected at enrollment and again 9 days later after the first FMT dose. Although the FMT product was rich in organisms typically known for their beneficial probiotic properties, the FMT therapy did not prevent or ameliorate GI disease in dairy calves. In fact, calves that received FMT were less likely to recover from GI disease, and more likely to die due to GI disease complications. Fecal microbial community analysis revealed an increase in the alpha-diversity in FMT calves; however, no major differences across treatment groups were observed in the beta-diversity analysis. Calves that received FMT had higher relative abundance of an uncultured organism of the genus Lactobacillus and Lactobacillus reuteri on day 10. Moreover, FMT calves had lower relative abundance of Clostridium nexile and Bacteroides vulgatus on day 10. Our results indicate the need to have an established protocol when developing FMT products, based on rigorous inclusion and exclusion criteria for the selection of FMT donors free of potential pathogens, no history of disease or antibiotic treatment.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276638)
 
+10.1371/journal.pone.0276638
+
 ---
 
-## Multiomics Characterization of the Canada Goose Fecal Microbiome Reveals Selective Efficacy of Simulated Metagenomes
+## Multiomics Characterization of the Canada Goose Fecal Microbiome Reveals Selective Efficacy of Simulated Metagenomes.
+ 01.11.2022, _JC Gil, SM Hird_
+
+
+16S rRNA amplicon sequences are predominantly used to identify the taxonomic composition of a microbiome, but they can also be used to generate simulated metagenomes to circumvent costly empirical shotgun sequencing. The effectiveness of using "simulated metagenomes" (shotgun metagenomes simulated from 16S rRNA amplicons using a database of full genomes closely related to the amplicons) in nonmodel systems is poorly known. We sought to determine the accuracy of simulated metagenomes in a nonmodel organism, the Canada goose (Branta canadensis), by comparing metagenomes and metatranscriptomes to simulated metagenomes derived from 16S amplicon sequencing. We found significant differences between the metagenomes, metatranscriptomes, and simulated metagenomes when comparing enzymes, KEGG orthologies (KO), and metabolic pathways. The simulated metagenomes accurately identified the majority (&gt;70%) of the total enzymes, KOs, and pathways. The simulated metagenomes accurately identified the majority of the short-chain fatty acid metabolic pathways crucial to folivores. When narrowed in scope to specific genes of interest, the simulated metagenomes overestimated the number of antimicrobial resistance genes and underestimated the number of genes related to the breakdown of plant matter. Our results suggest that simulated metagenomes should not be used in lieu of empirical sequencing when studying the functional potential of a nonmodel organism's microbiome. Regarding the function of the Canada goose microbiome, we found unexpected amounts of fermentation pathways, and we found that a few taxa are responsible for large portions of the functional potential of the microbiome. IMPORTANCE The taxonomic composition of a microbiome is predominately identified using amplicon sequencing of 16S rRNA genes, but as a single marker, it cannot identify functions (genes). Metagenome and metatranscriptome sequencing can determine microbiome function but can be cost prohibitive. Therefore, computational methods have been developed to generate simulated metagenomes derived from 16S rRNA sequences and databases of full-length genomes. Simulated metagenomes can be an effective alternative to empirical sequencing, but accuracy depends on the genomic database used and whether the database contains organisms closely related to the 16S sequences. These tools are effective in well-studied systems, but the accuracy of these predictions in a nonmodel system is less known. Using a nonmodel bird species, we characterized the function of the microbiome and compared the accuracy of 16S-derived simulated metagenomes to sequenced metagenomes. We found that the simulated metagenomes reflect most but not all functions of empirical metagenome sequencing.
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.02384-22)
 
+10.1128/spectrum.02384-22
+
 ---
 
-## Uropygial gland microbiota differ between free-living and captive songbirds
+## Uropygial gland microbiota differ between free-living and captive songbirds.
+ 02.11.2022, _LA Grieves, CLJ Bottini, GB Gloor, EA MacDougall-Shackleton_
+
+
+_Animals, Scent Glands, Songbirds, Microbiota, Symbiosis, Sebaceous Glands, Passeriformes, Mammals_
+Symbiotic microbes can affect host behavior and fitness. Gut microbiota have received the most study, with less attention to other important microbial communities like those of scent-producing glands such as mammalian anal glands and the avian uropygial gland. However, mounting evidence suggests that microbes inhabiting scent-producing glands play an important role in animal behavior by contributing to variation in chemical signals. Free-living and captive conditions typically differ in social environment, food diversity and availability, disease exposure, and other factors-all of which can translate into differences in gut microbiota. However, whether extrinsic factors such as captivity alter microbial communities in scent glands remains an open question. We compared the uropygial gland microbiota of free-living and captive song sparrows (Melospiza melodia) and tested for an effect of dietary manipulations on the gland microbiota of captive birds. As predicted, the uropygial gland microbiota was significantly different between free-living and captive birds. Surprisingly, microbial diversity was higher in captive than free-living birds, and we found no effect of dietary treatments on captive bird microbiota. Identifying the specific factors responsible for microbial differences among groups and determining whether changes in symbiotic microbiota alter behavior and fitness are important next steps in this field.
 
 [Source](https://www.nature.com/articles/s41598-022-22425-4)
 
+10.1038/s41598-022-22425-4
+
 ---
 
-## Crop management shapes the diversity and activity of DNA and RNA viruses in the rhizosphere
+## Crop management shapes the diversity and activity of DNA and RNA viruses in the rhizosphere.
+ 28.10.2022, _G Muscatt, S Hilton, S Raguideau, G Teakle, IDEA Lidbury, EMH Wellington, C Quince, A Millard, GD Bending, E Jameson_
+
+
+_Rhizosphere, Soil Microbiology, Plant Roots, Microbiota, Soil, Bacteria, RNA Viruses, Bacteriophages, Brassica napus, DNA_
+The rhizosphere is a hotspot for microbial activity and contributes to ecosystem services including plant health and biogeochemical cycling. The activity of microbial viruses, and their influence on plant-microbe interactions in the rhizosphere, remains undetermined. Given the impact of viruses on the ecology and evolution of their host communities, determining how soil viruses influence microbiome dynamics is crucial to build a holistic understanding of rhizosphere functions.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01371-3)
+
+10.1186/s40168-022-01371-3
 
 ---
 
