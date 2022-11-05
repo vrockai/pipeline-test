@@ -65,15 +65,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Effects of procalcitonin on antimicrobial treatment decisions in patients with coronavirus disease 2019 (COVID-19).
+ 04.11.2022, _ASC Conlon, Z Chopra, S Cahalan, S Cinti, K Rao_
+
+
+To describe the natural course of procalcitonin (PCT) in patients with coronavirus disease 2019 (COVID-19) and the correlation between PCT and antimicrobial prescribing to provide insight into best practices for PCT data utilization in antimicrobial stewardship in this population.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1587044212880482304?ref_src=twsrc%5Etfw)
+
+10.1017/ice.2022.262
+
+---
+
 ## October 31, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1587044212880482304?ref_src=twsrc%5Etfw)
 
 ---
 
-## Sharing of Antimicrobial Resistance Genes between Humans and Food Animals 
+## Sharing of Antimicrobial Resistance Genes between Humans and Food Animals.
+ 11.10.2022, _H Cao, S Bougouffa, TJ Park, A Lau, MK Tong, KH Chow, PL Ho_
+
+
+The prevalence and propagation of antimicrobial resistance (AMR) are serious global public health concerns. The large and the ever-increasing use of antibiotics in livestock is also considered a great concern. The extent of the similarity of acquired antibiotic resistance genes (ARGs) between humans and food animals and the driving factors underlying AMR transfer between them are not clear, although a link between ARGs in both hosts was proposed. To address this question, with swine and chicken as examples of food animals, we analyzed over 1,000 gut metagenomes of humans and food animals from over the world. A relatively high abundance and diversity of ARGs were observed in swine compared with those in humans as a whole. Commensal bacteria, particularly species from Clostridiales, contribute the most ARGs associated with mobile genetic elements (MGEs) and were found in both humans and food animals. Further studies demonstrate that overrepresented MGEs, namely, Tn4451/Tn4453 and TnAs3, are attributed mainly to the sharing between humans and food animals. A member of large resolvase family site-specific recombinases, TnpX, is found in Tn4451/Tn4453 which facilitates the insertions of the transient circular molecule. Although the variance in the transferability of ARGs in humans is higher than that in swine, a higher average transferability was observed in swine than that in humans. In conclusion, the potential antibiotic resistance hot spots with higher transferability in food animals observed in the present study emphasize the importance of surveillance for emerging resistance threats before they spread. IMPORTANCE Antimicrobial resistance (AMR) has proven to be a global public health concern. To conquer this increasingly worrying trend, an overarching, One Health approach has been used that brings together different sectors, but the fundamental knowledge of the relationship between humans, food animals, and their environments is not mature yet or is lacking in some aspect. With swine and chicken as examples of food animals, a large global data set of over 1,000 human and food animal gut metagenomes was analyzed with a focus on acquired antibiotic resistance genes (ARGs) associated with mobile genetic elements (MGEs) to answer this question. Outputs from this work open a new avenue to further our understanding of ARG transferability in food animals. It is a necessary milestone to better equip governmental agencies to monitor and pre-empt antibiotic resistance hot spots. This work will assist and give guidance on how to decipher other links within any One Health initiatives with expected positive feedback to human health.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00775-22)
+
+10.1128/msystems.00775-22
 
 ---
 
@@ -165,15 +183,33 @@ The human distal small intestine (ileum) has a distinct microbiota, but human st
 
 ---
 
+## Effects of procalcitonin on antimicrobial treatment decisions in patients with coronavirus disease 2019 (COVID-19).
+ 04.11.2022, _ASC Conlon, Z Chopra, S Cahalan, S Cinti, K Rao_
+
+
+To describe the natural course of procalcitonin (PCT) in patients with coronavirus disease 2019 (COVID-19) and the correlation between PCT and antimicrobial prescribing to provide insight into best practices for PCT data utilization in antimicrobial stewardship in this population.
+
+[Source](https://twitter.com/bahti_yil/status/1587119986832642049?ref_src=twsrc%5Etfw)
+
+10.1017/ice.2022.262
+
+---
+
 ## October 31, 2022
 
 [Source](https://twitter.com/bahti_yil/status/1587119986832642049?ref_src=twsrc%5Etfw)
 
 ---
 
-## MIDAS2: Metagenomic Intra-species Diversity Analysis System
+## MIDAS2: Metagenomic Intra-species Diversity Analysis System.
+ 02.11.2022, _C Zhao, B Dimitrov, M Goldman, S Nayfach, KS Pollard_
+
+
+The Metagenomic Intra-Species Diversity Analysis System (MIDAS) is a scalable metagenomic pipeline that identifies single nucleotide variants (SNVs) and gene copy number variants (CNVs) in microbial populations. Here, we present MIDAS2, which addresses the computational challenges presented by increasingly large reference genome databases, while adding functionality for building custom databases and leveraging paired-end reads to improve SNV accuracy. This fast and scalable reengineering of the MIDAS pipeline enables thousands of metagenomic samples to be efficiently genotyped.
 
 [Source](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btac713/6793850)
+
+10.1093/bioinformatics/btac713
 
 ---
 
