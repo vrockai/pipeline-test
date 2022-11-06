@@ -65,21 +65,46 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## A cohort study examining changes in treatment patterns for alcohol use disorder among commercially insured adults in the United States during the COVID-19 pandemic.
+ 05.11.2022, _AB Busch, A Mehrotra, SF Greenfield, L Uscher-Pines, S Rose, HA Huskamp_
+
+
+We know very little about how the pandemic impacted outpatient alcohol use disorder (AUD) care and the role of telemedicine.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1587044212880482304?ref_src=twsrc%5Etfw)
+
+10.1016/j.jsat.2022.108920
+
+---
+
 ## October 31, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1587044212880482304?ref_src=twsrc%5Etfw)
 
 ---
 
-## Sharing of Antimicrobial Resistance Genes between Humans and Food Animals 
+## Sharing of Antimicrobial Resistance Genes between Humans and Food Animals.
+ 11.10.2022, _H Cao, S Bougouffa, TJ Park, A Lau, MK Tong, KH Chow, PL Ho_
+
+
+The prevalence and propagation of antimicrobial resistance (AMR) are serious global public health concerns. The large and the ever-increasing use of antibiotics in livestock is also considered a great concern. The extent of the similarity of acquired antibiotic resistance genes (ARGs) between humans and food animals and the driving factors underlying AMR transfer between them are not clear, although a link between ARGs in both hosts was proposed. To address this question, with swine and chicken as examples of food animals, we analyzed over 1,000 gut metagenomes of humans and food animals from over the world. A relatively high abundance and diversity of ARGs were observed in swine compared with those in humans as a whole. Commensal bacteria, particularly species from Clostridiales, contribute the most ARGs associated with mobile genetic elements (MGEs) and were found in both humans and food animals. Further studies demonstrate that overrepresented MGEs, namely, Tn4451/Tn4453 and TnAs3, are attributed mainly to the sharing between humans and food animals. A member of large resolvase family site-specific recombinases, TnpX, is found in Tn4451/Tn4453 which facilitates the insertions of the transient circular molecule. Although the variance in the transferability of ARGs in humans is higher than that in swine, a higher average transferability was observed in swine than that in humans. In conclusion, the potential antibiotic resistance hot spots with higher transferability in food animals observed in the present study emphasize the importance of surveillance for emerging resistance threats before they spread. IMPORTANCE Antimicrobial resistance (AMR) has proven to be a global public health concern. To conquer this increasingly worrying trend, an overarching, One Health approach has been used that brings together different sectors, but the fundamental knowledge of the relationship between humans, food animals, and their environments is not mature yet or is lacking in some aspect. With swine and chicken as examples of food animals, a large global data set of over 1,000 human and food animal gut metagenomes was analyzed with a focus on acquired antibiotic resistance genes (ARGs) associated with mobile genetic elements (MGEs) to answer this question. Outputs from this work open a new avenue to further our understanding of ARG transferability in food animals. It is a necessary milestone to better equip governmental agencies to monitor and pre-empt antibiotic resistance hot spots. This work will assist and give guidance on how to decipher other links within any One Health initiatives with expected positive feedback to human health.
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00775-22)
 
+10.1128/msystems.00775-22
+
 ---
 
-## Host-microbiome interactions: Gut-Liver axis and its connection with other organs 
+## Host-microbiome interactions: Gut-Liver axis and its connection with other organs.
+ 05.11.2022, _S Anand, SS Mande_
+
+
+_Humans, Dysbiosis, Gastrointestinal Microbiome, Liver, Bile Acids and Salts, Inflammation_
+An understanding of connections between gut microbiome and liver has provided important insights into the pathophysiology of liver diseases. Since gut microbial dysbiosis increases gut permeability, the metabolites biosynthesized by them can reach the liver through portal circulation and affect hepatic immunity and inflammation. The immune cells activated by these metabolites can also reach liver through lymphatic circulation. Liver influences immunity and metabolism in multiple organs in the body, including gut. It releases bile acids and other metabolites into biliary tract from where they enter the systemic circulation. In this review, the bidirectional communication between the gut and the liver and the molecular cross talk between the host and the microbiome has been discussed. This review also provides details into the intricate level of communication and the role of microbiome in Gut-Liver-Brain, Gut-Liver-Kidney, Gut-Liver-Lung, and Gut-Liver-Heart axes. These observations indicate a complex network of interactions between host organs influenced by gut microbiome.
 
 [Source](https://www.nature.com/articles/s41522-022-00352-6)
+
+10.1038/s41522-022-00352-6
 
 ---
 
@@ -216,6 +241,18 @@ The identification of the protospacer adjacent motif (PAM) sequences of Cas9 nuc
 ## pic.twitter.com/DcVaCwzEH5
 
 [Source](https://t.co/DcVaCwzEH5)
+
+---
+
+## Early and Mid-Term Outcomes of Coronary Artery Bypass Grafting in Adults with Congenital Heart Disease.
+ 05.11.2022, _G Graham, JA Dearani, AA Abdelrehim, WR Miranda, H Schaff, JM Stulak, AL Todd, EH Stephens_
+
+
+Atherosclerotic coronary artery disease (CAD) is well-studied in acquired cardiac diseases; however, little data exist regarding outcomes of adult congenital heart disease (ACHD) with CAD. This study examined patients who underwent coronary artery bypass grafting (CABG) during repair of ACHD. This was a retrospective study of patients who underwent CABG for CAD concomitant with ACHD repair 1972-2021. Demographic information, ACHD diagnosis, surgical history, operative details, and outcomes were analyzed. Data are presented as median (interquartile range [IQR]). 157 patients were identified with a median age of 63 (IQR 17) years. Left anterior descending (LAD) was the predominant diseased artery [109 patients (69%)]; of those 83 (76%) were treated with mammary artery. 90 (57.3%) patients had one bypass, 42 (26.7%) two, 19 (12%) three, and 6 (3.8%) had four. There has been no early mortality since 1988. There was no long-term survival difference between patients with LAD disease treated with mammary compared to vein (p=0.68), but early mortality was higher in those treated with vein (10.3% vs. 0%, p=0.018). Late recurrent angina was found in 18 patients (12%) and recurrent CAD found in 17 patients (11%), with 16 patients (10%) requiring CAD reintervention. At most recent follow-up (7.2 [IQR 11.4] years), 101 (64.3%) patients were deceased at 10 (IQR 13.1) years after surgery. Surgical revascularization for CAD may be necessary during the treatment of ACHD, most commonly for LAD disease. Early mortality was low in recent decades. Continued surveillance for recurrent CAD is required.
+
+[Source](https://twitter.com/svetlana_up/status/1394613676875915268?ref_src=twsrc%5Etfw)
+
+10.1053/j.semtcvs.2022.10.007
 
 ---
 
