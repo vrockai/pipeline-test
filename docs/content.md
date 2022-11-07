@@ -34,15 +34,9 @@ The intestinal barrier, which primarily consists of a mucus layer, an epithelial
 
 ---
 
-## Resistance is futile? Mucosal immune mechanisms in the context of microbial ecology and evolution.
- 06.11.2022, _E Slack, M Diard_
-
-
-In the beginning it was simple: we injected a protein antigen and studied the immune responses against the purified protein. This elegant toolbox uncovered thousands of mechanisms via which immune cells are activated. However, when we consider immune responses against real infectious threats, this elegant simplification misses half of the story: the infectious agents are typically evolving orders-of-magnitude faster than we are. Nowhere is this more pronounced than in the mammalian large intestine. A bacterium representing only 0.1% of the human gut microbiota will have a population size of 109 clones, each actively replicating. Moreover, the evolutionary pressure from other microbes is at least as profound as direct effects of the immune system. Therefore, to really understand intestinal immune mechanisms, we need to understand both the host response and how rapid microbial evolution alters the apparent outcome of the response. In this review we use the examples of intestinal inflammation and secretory immunoglobulin A (SIgA) to highlight what is already known (Fig. 1). Further, we will explore how these interactions can inform immunotherapy and prophylaxis. This has major implications for how we design effective mucosal vaccines against increasingly drug-resistant bacterial pathogens Fig. 1 THE IMMUNE RESPONSE SHAPES THE FITNESS LANDSCAPE IN THE GASTRO-INTESTINAL TRACT.: The red arrows depict possible evolutionary paths of a novel colonizer along adaptive peaks in the intestinal fitness landscapes that change with the status of the host immune system. The flat surfaces represent the non-null fitness baselines (values x or y) at which a bacterium can establish at minimum carrying capacity. a In the healthy gut, metabolic competence, resistance to aggressions by competitors and predators, swift adaptation to rapid fluctuations as well as surviving acidic pH and the flow of the intestinal content, represent potent selective pressures and as many opportunities for bacteria to increase fitness by phenotypic or genetic variations. b When pathogens trigger acute inflammation, bacteria must adapt to iron starvation, killing by immune cells and antimicrobial peptides, and oxidative stress, while new metabolic opportunities emerge. c When high-affinity SIgA are produced against a bacterium, e.g., after oral vaccination, escape of SIgA by altering or losing surface epitopes becomes crucial for maximum fitness. However, escaping polyvalent SIgA responses after vaccination with "evolutionary trap" vaccines leads to evolutionary trade-offs: A fitness maximum is reached in the vaccinated host gut that represents a major disadvantage for transmission into naïve hosts (fitness diminished below x) (d).
+## Resistance is futile? Mucosal immune mechanisms in the context of microbial ecology and evolution
 
 [Source](https://doi.org/10.1038/s41385-022-00574-z)
-
-10.1038/s41385-022-00574-z
 
 ---
 
@@ -76,15 +70,9 @@ Comparisons of the gut microbiome of lean and obese humans have revealed that ob
 
 ---
 
-## Genetic and environmental circadian disruption induce weight gain through changes in the gut microbiome.
- 05.11.2022, _B Altaha, M Heddes, V Pilorz, Y Niu, E Gorbunova, M Gigl, K Kleigrewe, H Oster, D Haller, S Kiessling_
-
-
-Internal clocks time behavior and physiology, including the gut microbiome, in a circadian (∼24 h) manner. Mismatch between internal and external time, e.g. during shift work, disrupts circadian system coordination promoting the development of obesity and type 2 diabetes (T2D). Conversely, body weight changes induce microbiota dysbiosis. The relationship between circadian disruption and microbiota dysbiosis in metabolic diseases, however, remains largely unknown.
+## Genetic and environmental circadian disruption induce weight gain through changes in the gut microbiome
 
 [Source](https://doi.org/10.1016/j.molmet.2022.101628)
-
-10.1016/j.molmet.2022.101628
 
 ---
 
@@ -166,9 +154,15 @@ Microplastic (MP) pollution is one of the emerging threats to the water and terr
 
 ---
 
-## Assessing the Dark Field of Metaproteome
+## Assessing the Dark Field of Metaproteome.
+ 03.11.2022, _H Duan, K Cheng, Z Ning, L Li, J Mayne, Z Sun, D Figeys_
+
+
+The human gut microbiome is a complex system composed of hundreds of species, and metaproteomics can be used to explore their expressed functions. However, many lower abundance species are not detected by current metaproteomic techniques and represent the dark field of metaproteomics. We do not know the minimal abundance of a bacterium in a microbiome(depth) that can be detected by shotgun metaproteomics. In this study, we spiked 15N-labeled E. coli peptides at different percentages into peptides mixture derived from the human gut microbiome to evaluate the depth that can be achieved by shotgun metaproteomics. We observed that the number of identified peptides and peptide intensity from 15N-labeled E. coli were linearly correlated with the spike-in levels even when 15N-labeled E. coli was down to 0.5% of the biomass. Below that level, it was not detected. Interestingly, the match-between-run strategy significantly increased the number of quantified peptides even when 15N-labeled E. coli peptides were at low abundance. This is indicative that in metaproteomics of complex gut microbiomes many peptides from low abundant species are likely observable in MS1 but are not selected for MS2 by standard shotgun strategies.
 
 [Source](https://doi.org/10.1021/acs.analchem.2c02452)
+
+10.1021/acs.analchem.2c02452
 
 ---
 
