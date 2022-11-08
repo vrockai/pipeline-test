@@ -60,9 +60,10 @@ The gut microbiota, also known as our "second brain" is an exciting frontier of 
 ---
 
 ## Bifidobacterial carbohydrate/nucleoside metabolism enhances oxidative phosphorylation in white adipose tissue to protect against diet-induced obesity.
- 07.11.2022, _G Kim, Y Yoon, JH Park, JW Park, MG Noh, H Kim, C Park, H Kwon, JH Park, Y Kim, J Sohn, S Park, H Kim, SK Im, Y Kim, HY Chung, MH Nam, JY Kwon, IY Kim, YJ Kim, JH Baek, HS Kim, GM Weinstock, B Cho, C Lee, S Fang, H Park, JK Seong_
+ 08.11.2022, _G Kim, Y Yoon, JH Park, JW Park, MG Noh, H Kim, C Park, H Kwon, JH Park, Y Kim, J Sohn, S Park, H Kim, SK Im, Y Kim, HY Chung, MH Nam, JY Kwon, IY Kim, YJ Kim, JH Baek, HS Kim, GM Weinstock, B Cho, C Lee, S Fang, H Park, JK Seong_
 
 
+_Humans, Mice, Animals, Bifidobacterium, Nucleosides, Oxidative Phosphorylation, Obesity, Diet, High-Fat, Bifidobacterium longum, Adipose Tissue, White_
 Comparisons of the gut microbiome of lean and obese humans have revealed that obesity is associated with the gut microbiome plus changes in numerous environmental factors, including high-fat diet (HFD). Here, we report that two species of Bifidobacterium are crucial to controlling metabolic parameters in the Korean population.
 
 [Source](https://doi.org/10.1186/s40168-022-01374-0)
