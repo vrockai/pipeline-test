@@ -1,7 +1,8 @@
 ## Immunomodulatory fecal metabolites are associated with mortality in COVID-19 patients with respiratory failure.
- 04.11.2022, _MR Stutz, NP Dylla, SD Pearson, P Lecompte-Osorio, R Nayak, M Khalid, E Adler, J Boissiere, H Lin, W Leiter, J Little, A Rose, D Moran, MW Mullowney, KS Wolfe, C Lehmann, M Odenwald, M De La Cruz, M Giurcanu, AS Pohlman, JB Hall, JL Chaubard, A Sundararajan, A Sidebottom, JP Kress, EG Pamer, BK Patel_
+ 07.11.2022, _MR Stutz, NP Dylla, SD Pearson, P Lecompte-Osorio, R Nayak, M Khalid, E Adler, J Boissiere, H Lin, W Leiter, J Little, A Rose, D Moran, MW Mullowney, KS Wolfe, C Lehmann, M Odenwald, M De La Cruz, M Giurcanu, AS Pohlman, JB Hall, JL Chaubard, A Sundararajan, A Sidebottom, JP Kress, EG Pamer, BK Patel_
 
 
+_Humans, COVID-19, SARS-CoV-2, Pneumonia, Bile Acids and Salts, Respiratory Insufficiency, Immunity_
 Respiratory failure and mortality from COVID-19 result from virus- and inflammation-induced lung tissue damage. The intestinal microbiome and associated metabolites are implicated in immune responses to respiratory viral infections, however their impact on progression of severe COVID-19 remains unclear. We prospectively enrolled 71 patients with COVID-19 associated critical illness, collected fecal specimens within 3 days of medical intensive care unit admission, defined microbiome compositions by shotgun metagenomic sequencing, and quantified microbiota-derived metabolites (NCT #04552834). Of the 71 patients, 39 survived and 32 died. Mortality was associated with increased representation of Proteobacteria in the fecal microbiota and decreased concentrations of fecal secondary bile acids and desaminotyrosine (DAT). A microbiome metabolic profile (MMP) that accounts for fecal secondary bile acids and desaminotyrosine concentrations was independently associated with progression of respiratory failure leading to mechanical ventilation. Our findings demonstrate that fecal microbiota composition and microbiota-derived metabolite concentrations can predict the trajectory of respiratory function and death in patients with severe SARS-Cov-2 infection and suggest that the gut-lung axis plays an important role in the recovery from COVID-19.
 
 [Source](https://doi.org/10.1038/s41467-022-34260-2)
@@ -59,7 +60,7 @@ The gut microbiota, also known as our "second brain" is an exciting frontier of 
 ---
 
 ## Bifidobacterial carbohydrate/nucleoside metabolism enhances oxidative phosphorylation in white adipose tissue to protect against diet-induced obesity.
- 05.11.2022, _G Kim, Y Yoon, JH Park, JW Park, MG Noh, H Kim, C Park, H Kwon, JH Park, Y Kim, J Sohn, S Park, H Kim, SK Im, Y Kim, HY Chung, MH Nam, JY Kwon, IY Kim, YJ Kim, JH Baek, HS Kim, GM Weinstock, B Cho, C Lee, S Fang, H Park, JK Seong_
+ 07.11.2022, _G Kim, Y Yoon, JH Park, JW Park, MG Noh, H Kim, C Park, H Kwon, JH Park, Y Kim, J Sohn, S Park, H Kim, SK Im, Y Kim, HY Chung, MH Nam, JY Kwon, IY Kim, YJ Kim, JH Baek, HS Kim, GM Weinstock, B Cho, C Lee, S Fang, H Park, JK Seong_
 
 
 Comparisons of the gut microbiome of lean and obese humans have revealed that obesity is associated with the gut microbiome plus changes in numerous environmental factors, including high-fat diet (HFD). Here, we report that two species of Bifidobacterium are crucial to controlling metabolic parameters in the Korean population.
@@ -131,9 +132,10 @@ The microbiome is critical to an organism's phenotype, and its composition is sh
 ---
 
 ## Sampling from four geographically divergent young female populations demonstrates forensic geolocation potential in microbiomes.
- 06.11.2022, _T Clarke, L Brinkac, C Greco, AT Alleyne, P Carrasco, C Inotroza, T Tau, W Wisitrasameewong, MG Torralba, K Nelson, H Singh_
+ 07.11.2022, _T Clarke, L Brinkac, C Greco, AT Alleyne, P Carrasco, C Inotroza, T Tau, W Wisitrasameewong, MG Torralba, K Nelson, H Singh_
 
 
+_Humans, Female, RNA, Ribosomal, 16S, Microbiota, DNA, Bacterial, Feces, Specimen Handling_
 Studies of human microbiomes using new sequencing techniques have increasingly demonstrated that their ecologies are partly determined by the lifestyle and habits of individuals. As such, significant forensic information could be obtained from high throughput sequencing of the human microbiome. This approach, combined with multiple analytical techniques demonstrates that bacterial DNA can be used to uniquely identify an individual and to provide information about their life and behavioral patterns. However, the transformation of these findings into actionable forensic information, including the geolocation of the samples, remains limited by incomplete understanding of the effects of confounding factors and the paucity of diverse sequences. We obtained 16S rRNA sequences of stool and oral microbiomes collected from 206 young and healthy females from four globally diverse populations, in addition to supporting metadata, including dietary and medical information. Analysis of these microbiomes revealed detectable geolocation signals between the populations, even for populations living within the same city. Accounting for other lifestyle variables, such as diet and smoking, lessened but does not remove the geolocation signal.
 
 [Source](https://doi.org/10.1038/s41598-022-21779-z)
