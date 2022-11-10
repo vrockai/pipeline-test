@@ -60,9 +60,15 @@ The human gut microbiota comprises of trillions of micro-organisms in the gut so
 
 ---
 
-## Curcumin improves insulin sensitivity in high-fat diet-fed mice through gut microbiota
+## Curcumin improves insulin sensitivity in high-fat diet-fed mice through gut microbiota.
+ 08.11.2022, _Y Zhong, Y Xiao, J Gao, Z Zheng, Z Zhang, L Yao, D Li_
+
+
+Insulin resistance precedes metabolic syndrome which increases the risk of type 2 diabetes and cardiovascular disease. However, there is a lack of safe and long-lasting methods for the prevention and treatment of insulin resistance. Gut microbiota dysbiosis can lead to insulin resistance and associated glucose and lipid metabolic dysfunction. Thus, the role of gut microbiota in metabolic diseases has garnered growing interest. Curcumin, the active ingredient of tropical plant Curcuma longa, has excellent prospects for the prevention and treatment of metabolic diseases. However, due to the extremely low bioavailability of curcumin, the mechanisms by which curcumin increases insulin sensitivity remains to be elucidated. This study aimed to elucidate the role of gut microbiota in mediating the effects of curcumin on improving insulin sensitivity in high-fat diet (HFD)-fed mice.
 
 [Source](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-022-00712-1)
+
+10.1186/s12986-022-00712-1
 
 ---
 
@@ -81,18 +87,6 @@ The human gut microbiota comprises of trillions of micro-organisms in the gut so
 ## The gut microbiome has sexually dimorphic effects on bone tissue energy metabolism and multiscale bone quality in C57BL/6J mice
 
 [Source](https://www.biorxiv.org/content/10.1101/2022.11.07.515521v1.abstract)
-
----
-
-## Differential Bacterial Community of Bee Bread and Bee Pollen Revealed by 16s rRNA High-Throughput Sequencing.
- 30.10.2022, _S Ghosh, SM Namin, C Jung_
-
-
-We investigated the bacterial community of bee bread and bee pollen samples using an approach through 16 s rRNA high-throughput sequencing. The results revealed a higher bacterial diversity in bee bread than in bee pollen as depicted in taxonomic profiling, as well as diversity indices such as the Shannon diversity index (3.7 to 4.8 for bee bread and 1.1 to 1.7 for bee pollen samples) and Simpson's index (&amp;gt;0.9 for bee bread and 0.4-0.5 for bee pollen). Principal component analysis showed a distinct difference in bacterial communities. The higher bacterial diversity in the bee bread than bee pollen could presumably be due to factors such as storage period, processing of food, fermentation, and high sugar environment. However, no effect of the feed (rapeseed or oak pollen patties or even natural inflow) was indicated on the bacterial composition of bee bread, presumably because of the lack of restriction of foraged pollen inflow in the hive. The diverse bacterial profile of the bee bread could contribute to the nutritional provisioning as well as enhance the detoxification process; however, a thorough investigation of the functional role of individual bacteria genera remains a task for future studies.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969722070577)
-
-10.3390/insects13100863
 
 ---
 
