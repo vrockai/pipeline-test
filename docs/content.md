@@ -24,7 +24,7 @@ The response to inhaled corticosteroids (ICS) in asthma is affected by the inter
 ---
 
 ## Manipulating the microbiome to enhance oral tolerance in food allergy.
- 08.11.2022, _M Gonzalez-Visiedo, MD Kulis, DM Markusic_
+ 10.11.2022, _M Gonzalez-Visiedo, MD Kulis, DM Markusic_
 
 
 Loss of oral tolerance (OT) to food antigens results in food allergies. One component of achieving OT is the symbiotic microorganisms living in the gut (microbiota). The composition of the microbiota can drive either pro-tolerogenic or pro-inflammatory responses against dietary antigens though interactions with the local immune cells within the gut. Products from bacterial fermentation, such as butyrate, are one of the main communication molecules involved in this interaction, however, this is released by a subset of bacterial species. Thus, strategies to specifically expand these bacteria with protolerogenic properties have been explored to complement oral immunotherapy in food allergy. These approaches either provide digestible biomolecules to induce beneficial bacteria species (prebiotics) or the direct administration of live bacteria species (probiotics). While this combined therapy has shown positive outcomes in clinical trials for cow's milk allergy, more research is needed to determine if this therapy can be extended to other food allergens.
