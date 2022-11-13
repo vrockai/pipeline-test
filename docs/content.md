@@ -90,6 +90,18 @@ Insulin resistance precedes metabolic syndrome which increases the risk of type 
 
 ---
 
+## Differential Bacterial Community of Bee Bread and Bee Pollen Revealed by 16s rRNA High-Throughput Sequencing.
+ 30.10.2022, _S Ghosh, SM Namin, C Jung_
+
+
+We investigated the bacterial community of bee bread and bee pollen samples using an approach through 16 s rRNA high-throughput sequencing. The results revealed a higher bacterial diversity in bee bread than in bee pollen as depicted in taxonomic profiling, as well as diversity indices such as the Shannon diversity index (3.7 to 4.8 for bee bread and 1.1 to 1.7 for bee pollen samples) and Simpson's index (&amp;gt;0.9 for bee bread and 0.4-0.5 for bee pollen). Principal component analysis showed a distinct difference in bacterial communities. The higher bacterial diversity in the bee bread than bee pollen could presumably be due to factors such as storage period, processing of food, fermentation, and high sugar environment. However, no effect of the feed (rapeseed or oak pollen patties or even natural inflow) was indicated on the bacterial composition of bee bread, presumably because of the lack of restriction of foraged pollen inflow in the hive. The diverse bacterial profile of the bee bread could contribute to the nutritional provisioning as well as enhance the detoxification process; however, a thorough investigation of the functional role of individual bacteria genera remains a task for future studies.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0048969722070577)
+
+10.3390/insects13100863
+
+---
+
 ## Food provisioning results in functional, but not compositional, convergence of the gut microbiomes of two wild Rhinopithecus species: Evidence of functional redundancy in the gut microbiome
 
 [Source](https://www.sciencedirect.com/science/article/pii/S0048969722070577)
@@ -102,9 +114,16 @@ Insulin resistance precedes metabolic syndrome which increases the risk of type 
 
 ---
 
-## C3NA: correlation and consensus-based cross-taxonomy network analysis for compositional microbial data
+## C3NA: correlation and consensus-based cross-taxonomy network analysis for compositional microbial data.
+ 10.11.2022, _K Song, YH Zhou_
+
+
+_Phylogeny, Consensus_
+Studying the co-occurrence network structure of microbial samples is one of the critical approaches to understanding the perplexing and delicate relationship between the microbe, host, and diseases. It is also critical to develop a tool for investigating co-occurrence networks and differential abundance analyses to reveal the disease-related taxa-taxa relationship. In addition, it is also necessary to tighten the co-occurrence network into smaller modules to increase the ability for functional annotation and interpretability of these taxa-taxa relationships. Also, it is critical to retain the phylogenetic relationship among the taxa to identify differential abundance patterns, which can be used to resolve contradicting functions reported by different studies.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05027-9)
+
+10.1186/s12859-022-05027-9
 
 ---
 
