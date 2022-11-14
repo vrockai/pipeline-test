@@ -114,9 +114,16 @@ We investigated the bacterial community of bee bread and bee pollen samples usin
 
 ---
 
-## C3NA: correlation and consensus-based cross-taxonomy network analysis for compositional microbial data
+## C3NA: correlation and consensus-based cross-taxonomy network analysis for compositional microbial data.
+ 10.11.2022, _K Song, YH Zhou_
+
+
+_Phylogeny, Consensus_
+Studying the co-occurrence network structure of microbial samples is one of the critical approaches to understanding the perplexing and delicate relationship between the microbe, host, and diseases. It is also critical to develop a tool for investigating co-occurrence networks and differential abundance analyses to reveal the disease-related taxa-taxa relationship. In addition, it is also necessary to tighten the co-occurrence network into smaller modules to increase the ability for functional annotation and interpretability of these taxa-taxa relationships. Also, it is critical to retain the phylogenetic relationship among the taxa to identify differential abundance patterns, which can be used to resolve contradicting functions reported by different studies.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05027-9)
+
+10.1186/s12859-022-05027-9
 
 ---
 
