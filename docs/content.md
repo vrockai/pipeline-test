@@ -1,122 +1,195 @@
-## Compartmentalization of the host microbiome: how tumor microbiota shapes checkpoint immunotherapy outcome and offers therapeutic prospects.
- 09.11.2022, _M Boesch, L Horvath, F Baty, A Pircher, D Wolf, S Spahn, R Straussman, H Tilg, MH Brutsche_
+## Genetic regulation of serum IgA levels and susceptibility to common immune, infectious, kidney, and cardio-metabolic traits
 
-
-_Humans, Immunotherapy, Microbiota, Neoplasms, Tumor Microenvironment, Gastrointestinal Microbiome_
-The host microbiome is polymorphic, compartmentalized, and composed of distinctive tissue microbiomes. While research in the field of cancer immunotherapy has provided an improved understanding of the interaction with the gastrointestinal microbiome, the significance of the tumor-associated microbiome has only recently been grasped. This article provides a state-of-the-art review about the tumor-associated microbiome and sheds light on how local tumor microbiota shapes anticancer immunity and influences checkpoint immunotherapy outcome. The direct route of interaction between cancer cells, immune cells, and microbiota in the tumor microenvironment is emphasized and advocates a focus on the tumor-associated microbiome in addition to the spatially separated gut compartment. Since the mechanisms underlying checkpoint immunotherapy modulation by tumor-associated microbiota remain largely elusive, future research should dissect the pathways involved and outline strategies to therapeutically modulate microbes and their products within the tumor microenvironment. A more detailed knowledge about the mechanisms governing the composition and functional quality of the tumor microbiome will improve cancer immunotherapy and advance precision medicine for solid tumors.
-
-[Source](https://jitc.bmj.com/content/10/11/e005401)
-
-10.1136/jitc-2022-005401
+[Source](https://doi.org/10.1038/s41467-022-34456-6)
 
 ---
 
-## The Upper-Airway Microbiome as a Biomarker of Asthma Exacerbations despite Inhaled Corticosteroid Treatment.
- 07.11.2022, _J Perez-Garcia, M González-Carracedo, A Espuela-Ortiz, JM Hernández-Pérez, R González-Pérez, O Sardón-Prado, E Martin-Gonzalez, E Mederos-Luis, P Poza-Guedes, P Corcuera-Elosegui, A Callero, I Sánchez-Machín, J Korta-Murua, JA Pérez-Pérez, J Villar, M Pino-Yanes, F Lorenzo-Diaz_
+## Kidney microbiota dysbiosis contributes to the development of hypertension
 
-
-The response to inhaled corticosteroids (ICS) in asthma is affected by the interplay of several factors. Among these, the role of the upper-airway microbiome has been scarcely investigated. We aimed to evaluate the association between the salivary, pharyngeal, and nasal microbiome with asthma exacerbations despite ICS use.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0091674922014750)
-
-10.1016/j.jaci.2022.09.041
+[Source](https://doi.org/10.1080/19490976.2022.2143220)
 
 ---
 
-## Manipulating the microbiome to enhance oral tolerance in food allergy.
- 10.11.2022, _M Gonzalez-Visiedo, MD Kulis, DM Markusic_
+## Analysis of gut mycobiota in first-episode, drug-naïve Chinese patients with schizophrenia: A pilot study.
+ 03.05.2021, _X Zhang, LY Pan, Z Zhang, YY Zhou, HY Jiang, B Ruan_
 
 
-Loss of oral tolerance (OT) to food antigens results in food allergies. One component of achieving OT is the symbiotic microorganisms living in the gut (microbiota). The composition of the microbiota can drive either pro-tolerogenic or pro-inflammatory responses against dietary antigens though interactions with the local immune cells within the gut. Products from bacterial fermentation, such as butyrate, are one of the main communication molecules involved in this interaction, however, this is released by a subset of bacterial species. Thus, strategies to specifically expand these bacteria with protolerogenic properties have been explored to complement oral immunotherapy in food allergy. These approaches either provide digestible biomolecules to induce beneficial bacteria species (prebiotics) or the direct administration of live bacteria species (probiotics). While this combined therapy has shown positive outcomes in clinical trials for cow's milk allergy, more research is needed to determine if this therapy can be extended to other food allergens.
+_Adult, Cross-Sectional Studies, Dysbiosis, Female, Gastrointestinal Microbiome, Humans, Male, Middle Aged, Mycobiome, Pilot Projects, Schizophrenia_
+Accumulating evidence has focused on elucidating the bacterial component of the gut microbiota in patients with schizophrenia (SC); however, the fungal composition in the gut has not been investigated, although previous studies have suggested that gut mycobiota may be intricately linked to this disorder. The purpose of this analysis was to examine gut bacterial and fungi in first-episode, drug- naïve adult SC patients in relation to age- and sex-matched healthy controls (HC).
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0008874922001587)
+[Source](https://doi.org/10.1016/j.schres.2022.10.011)
 
-10.1016/j.cellimm.2022.104633
-
----
-
-## Longitudinal transkingdom gut microbial approach towards decompensation in outpatients with cirrhosis.
- 07.11.2022, _JS Bajaj, M Peña-Rodriguez, A La Reau, W Phillips, M Fuchs, BC Davis, RK Sterling, M Sikaroodi, A Fagan, A Shamsaddini, Z Henseler, T Ward, P Puri, H Lee, PM Gillevet_
-
-
-First decompensation development is a critical milestone that needs to be predicted. Transkingdom gut microbial interactions, including archaeal methanogens, may be important targets and predictors but a longitudinal approach is needed.
-
-[Source](https://gut.bmj.com/content/early/2022/11/07/gutjnl-2022-328403)
-
-10.1136/gutjnl-2022-328403
+10.1016/j.bbr.2019.112374
 
 ---
 
-## Happy ageing by trusting our gut microbes.
- 09.11.2022, _A Jayaraman, S Pettersson_
+## Gut mycobiota dysbiosis in drug-naïve, first-episode schizophrenia
 
-
-_Humans, Gastrointestinal Microbiome, Aging, Diet, Neurodegenerative Diseases_
-The human gut microbiota comprises of trillions of micro-organisms in the gut some which secrete metabolites that play a pivotal role in supporting optimal body and organ functions. These dynamic and malleable gut microbes share a bidirectional relationship with their hosts that supports health in an age- and sex-dependent manner. Disruption of the gut microbiota or decrease in their diversity and richness due to unhealthy changes in lifestyle, diet or social disconnection, always results in unwanted outcomes on the host health which fuel chronic disease symptoms including neurodegenerative diseases. Thus, impairment of gut microbiota composition, results in organ decline that accelerates an individual's biological ageing. Here we review evidence supporting the bidirectional relationships between the gut microbiota and biological ageing.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0006291X22012761)
-
-10.1016/j.bbrc.2022.09.026
+[Source](https://doi.org/10.1016/j.schres.2022.10.011)
 
 ---
 
-## Curcumin improves insulin sensitivity in high-fat diet-fed mice through gut microbiota.
- 08.11.2022, _Y Zhong, Y Xiao, J Gao, Z Zheng, Z Zhang, L Yao, D Li_
+## Transcriptomic analysis reveals an association of FCGBP with Parkinson’s disease
 
-
-Insulin resistance precedes metabolic syndrome which increases the risk of type 2 diabetes and cardiovascular disease. However, there is a lack of safe and long-lasting methods for the prevention and treatment of insulin resistance. Gut microbiota dysbiosis can lead to insulin resistance and associated glucose and lipid metabolic dysfunction. Thus, the role of gut microbiota in metabolic diseases has garnered growing interest. Curcumin, the active ingredient of tropical plant Curcuma longa, has excellent prospects for the prevention and treatment of metabolic diseases. However, due to the extremely low bioavailability of curcumin, the mechanisms by which curcumin increases insulin sensitivity remains to be elucidated. This study aimed to elucidate the role of gut microbiota in mediating the effects of curcumin on improving insulin sensitivity in high-fat diet (HFD)-fed mice.
-
-[Source](https://nutritionandmetabolism.biomedcentral.com/articles/10.1186/s12986-022-00712-1)
-
-10.1186/s12986-022-00712-1
+[Source](https://doi.org/10.1038/s41531-022-00415-7)
 
 ---
 
-## Short-Term Tomato Consumption Alters the Pig Gut Microbiome toward a More Favorable Profile
+## Integration of stool microbiota, proteome and amino acid profiles to discriminate patients with adenomas and colorectal cancer
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02506-22)
-
----
-
-## Lifelong temporal dynamics of the gut microbiome associated with longevity in mice
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.11.07.515511v1.abstract)
+[Source](https://doi.org/10.1080/19490976.2022.2139979)
 
 ---
 
-## The gut microbiome has sexually dimorphic effects on bone tissue energy metabolism and multiscale bone quality in C57BL/6J mice
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.11.07.515521v1.abstract)
-
----
-
-## Differential Bacterial Community of Bee Bread and Bee Pollen Revealed by 16s rRNA High-Throughput Sequencing.
- 30.10.2022, _S Ghosh, SM Namin, C Jung_
+## [Gut microbiome, metabolites, and tissue metabolism in graft-versus-host disease].
+ 03.05.2022, _H Fujiwara_
 
 
-We investigated the bacterial community of bee bread and bee pollen samples using an approach through 16 s rRNA high-throughput sequencing. The results revealed a higher bacterial diversity in bee bread than in bee pollen as depicted in taxonomic profiling, as well as diversity indices such as the Shannon diversity index (3.7 to 4.8 for bee bread and 1.1 to 1.7 for bee pollen samples) and Simpson's index (&amp;gt;0.9 for bee bread and 0.4-0.5 for bee pollen). Principal component analysis showed a distinct difference in bacterial communities. The higher bacterial diversity in the bee bread than bee pollen could presumably be due to factors such as storage period, processing of food, fermentation, and high sugar environment. However, no effect of the feed (rapeseed or oak pollen patties or even natural inflow) was indicated on the bacterial composition of bee bread, presumably because of the lack of restriction of foraged pollen inflow in the hive. The diverse bacterial profile of the bee bread could contribute to the nutritional provisioning as well as enhance the detoxification process; however, a thorough investigation of the functional role of individual bacteria genera remains a task for future studies.
+_Gastrointestinal Microbiome, Graft vs Host Disease, Homeostasis, Humans, Microbiota_
+Immune reactions promote not only graft-versus-tumor events but also graft-versus-host disease (GVHD) characterized by the activation of T-cells and antigen-presenting cells. Recent studies have unveiled the effects of microbial flora on GVHD and brought the mechanism other than immune cells. The role of tissue-intrinsic factors contributes to target-tissue resilience, repair, and regeneration and mitigates the severity of GVHD without altering alloreactive immune cells. Antibiotics, specific bacteria, and low microbiota diversity are identified as risk factors for GVHD and mortality. The current focus has shifted to target-tissue homeostasis in GVHD. Most of the gut microbiota symbiotically colonize the gut, and this homeostasis is finely tuned in the gastrointestinal tract, which has a relatively hypoxic environment dominated by anaerobic organisms. Therefore, intestinal epithelial cells (IECs) are uniquely adapted to this hypoxic environment, and cells programmed by "physiological hypoxia" tonally regulate barrier function with commensal bacteria. Metabolic changes in IECs post allo-HCT can affect the gut environment, leading to dysbiosis. This review focuses on the role of metabolism in IECs with microbiota and microbial metabolites in the GVHD setting to promote tissue tolerance.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969722070577)
+[Source](https://doi.org/10.1080/1040841X.2022.2142088)
 
-10.3390/insects13100863
+10.11406/rinketsu.63.286
 
 ---
 
-## Food provisioning results in functional, but not compositional, convergence of the gut microbiomes of two wild Rhinopithecus species: Evidence of functional redundancy in the gut microbiome
+## Human gut homeostasis and regeneration: the role of the gut microbiota and its metabolites
 
-[Source](https://www.sciencedirect.com/science/article/pii/S0048969722070577)
-
----
-
-## Expansion of the global RNA virome reveals diverse clades of bacteriophages
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0092867422011187)
+[Source](https://doi.org/10.1080/1040841X.2022.2142088)
 
 ---
 
-## C3NA: correlation and consensus-based cross-taxonomy network analysis for compositional microbial data
+## Colibactin possessing <em>E. coli</em> isolates in association with colorectal cancer and their genetic diversity among Pakistani population
 
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05027-9)
+[Source](https://doi.org/10.1371/journal.pone.0262662)
+
+---
+
+## Intestinal toxicity to CTLA-4 blockade driven by IL-6 and myeloid infiltration
+
+[Source](https://doi.org/10.1084/jem.20221333)
+
+---
+
+## Genome-microbiome interplay provides insight into the determinants of the human blood metabolome
+
+[Source](https://doi.org/10.1038/s42255-022-00670-1)
+
+---
+
+## Vaginal microbiota in women with spontaneous preterm labor versus those with term labor in Kenya: a case control study
+
+[Source](https://doi.org/10.1186/s12866-022-02681-0)
+
+---
+
+## Characteristics of oral microbiome of healthcare workers in different clinical scenarios: a cross-sectional analysis
+
+[Source](https://doi.org/10.1186/s12903-022-02501-x)
+
+---
+
+## Multi-kingdom gut microbiota analyses define COVID-19 severity and post-acute COVID-19 syndrome
+
+[Source](https://doi.org/10.1038/s41467-022-34535-8)
+
+---
+
+## Characterization of antibiotic-resistance traits in <em>Akkermansia muciniphila</em> strains of human origin
+
+[Source](https://doi.org/10.1038/s41598-022-23980-6)
+
+---
+
+## Causality Verification for the Correlation between the Presence of Nonstarter Bacteria and Flavor Characteristics in Soft-Type Ripened Cheeses.
+ 10.11.2022, _R Unno, T Suzuki, Y Osaki, M Matsutani, M Ishikawa_
+
+
+Flavor characteristics of ripened cheese are established by various bacteria, such as lactic acid bacteria, Actinobacteria, and Proteobacteria, which spontaneously develop during the cheese-manufacturing process. We previously revealed the relationship between bacterial microbiota and flavor components in soft-type ripened cheeses by using a multiomics approach that combined metagenomics and metabolomics; however, we could not establish a causal relationship. This study aimed to substantiate the causal nature of the correlations revealed by the multiomics approach by using cheese-ripening tests with single isolate inoculation. The bacterial diversity and composition in surface mold-ripened cheeses from Japan and France varied, depending on the differences between the milks (pasteurized or raw), cheese positions (core or rind), and manufacturers. Although the volatile compounds did not clearly reflect the distinctive characteristics of the cheese samples, nonstarter lactic acid bacteria, Actinobacteria, and Proteobacteria positively correlated with ketones and sulfur compounds, as evidenced by a Spearman's correlation analysis. Cheese-ripening tests conducted after inoculation with single bacterial strains belonging to the above-mentioned taxa confirmed that these bacteria formed volatile compounds, in agreement with the correlations observed. In particular, various flavor compounds, such as acids, esters, ketones, and sulfur compounds, were detected in cheese inoculated with Pseudoalteromonas sp. TS-4-4 strain. These findings provide important insights into the role of nonstarter bacteria in the development of cheese flavor and into the effectiveness of the multiomics approach in screening for bacteria that can improve the quality of cheese products. IMPORTANCE Our previous study revealed that the existence of various bacteria, such as lactic acid bacteria, Actinobacteria, and Proteobacteria, clearly correlated with the abundance of flavor components, such as volatile compounds, in soft-type ripened cheeses via a multiomics approach that used 16S rRNA gene amplicon sequencing and headspace gas chromatography-mass spectrometry. However, this approach only showed correlations derived from statistical analyses rather than causal relationships. Therefore, in the present study, we performed cheese-ripening tests using nonstarter bacteria to substantiate the correlations revealed by the multiomics approach in soft-type ripened cheese. Our results suggest the capability of nonstarter bacteria, such as Proteobacteria, to impart flavor to cheese and the effectiveness of the multiomics approach in screening for microbial isolates that can improve the quality of cheese. Overall, our research provides new insights into the importance of bacteria in cheese production.
+
+[Source](https://doi.org/10.1128/spectrum.02894-22)
+
+10.1128/spectrum.02894-22
+
+---
+
+## Microbiota of healthy and bleached corals of the species <em>Siderastrea stellata</em> in response to river influx and seasonality in Brazilian northeast
+
+[Source](https://doi.org/10.1007/s11356-022-23976-9)
+
+---
+
+## Exploring structure, microbiota, and metagenome functions of epigean and hypogean black deposits by microscopic, molecular and bioinformatic approaches
+
+[Source](https://doi.org/10.1038/s41598-022-24159-9)
+
+---
+
+## High-Throughput Profiling of Root-Associated Microbial Communities.
+ 27.07.2022, _F Getzke, S Hacquard_
+
+
+_Arabidopsis, Bacteria, Fungi, Microbiota, Plant Roots, Plants, RNA, Ribosomal, 16S, Soil Microbiology_
+Roots of healthy plants are colonized by a great diversity of bacteria and fungi but also other microorganisms that are collectively referred to as the root microbiota. Root microbiota composition is shaped by environmental cues, by host genetics, but also by microbe-microbe interactions, and recent evidence indicates that a direct link exists between root microbiota assembly and host health. In order to characterize the root microbiota or to study the complex interplay between plants and their associated microbes, the assessment of microbial community structure via marker gene amplicon sequencing has become a key tool. Herein, we present detailed methods for the preparation of 16S rRNA gene and internal transcribed spacer (ITS) amplicon libraries to characterize Arabidopsis thaliana-associated bacterial and fungal communities along the soil-root continuum. The protocols can be easily adapted for different host organs or plant species.
+
+[Source](https://doi.org/10.1038/s41598-022-23943-x)
+
+10.1007/978-1-0716-2297-1_23
+
+---
+
+## High throughput method of 16S rRNA gene sequencing library preparation for plant root microbial community profiling
+
+[Source](https://doi.org/10.1038/s41598-022-23943-x)
+
+---
+
+## Sugarcane cultivation practices modulate rhizosphere microbial community composition and structure
+
+[Source](https://doi.org/10.1038/s41598-022-23562-6)
+
+---
+
+## Effects of Two <em>Bacillus velezensis</em> Microbial Inoculants on the Growth and Rhizosphere Soil Environment of <em>Prunus davidiana</em>
+
+[Source](https://doi.org/10.3390/ijms232113639)
+
+---
+
+## Barley Resistance to Fusarium graminearum Infections: From Transcriptomics to Field with Food Safety Concerns.
+ 09.11.2022, _A Hameed, P Poznanski, M Noman, T Ahmed, A Iqbal, A Nadolska-Orczyk, W Orczyk_
+
+
+Global climate change and the urgency to transform food crops require substantial breeding efforts to meet the food security challenges. Barley, an important cereal, has remained a preferential host of phytotoxic diseases caused by the Fusarium graminearum that not only severely reduces the crop yield but also compromises its food quality due to the accumulation of mycotoxins. To develop resistance against Fusarium infections, a better understanding of the host-pathogen interaction is inevitable and could be tracked through molecular insights. Here, we focused precisely on the potential gene targets that are exclusive to this devastating pathosystem and could be harnessed for fast breeding of barley. We also discuss the eco-friendly applications of nanobio hybrid and the CRISPR technology for barley protection. This review covers the critical information gaps within the subject and may be useful for the sustainable improvement of barley from the perspective of food and environmental safety concerns.
+
+[Source](https://doi.org/10.1016/j.mib.2022.102233)
+
+10.1021/acs.jafc.2c05488
+
+---
+
+## Climate change and plant pathogens
+
+[Source](https://doi.org/10.1016/j.mib.2022.102233)
+
+---
+
+## Faecal microbiome-based machine learning for multi-class disease diagnosis
+
+[Source](https://doi.org/10.1038/s41467-022-34405-3)
+
+---
+
+## Wochenende&nbsp;–&nbsp;modular and flexible alignment-based shotgun metagenome analysis
+
+[Source](https://doi.org/10.1186/s12864-022-08985-9)
+
+---
+
+## De novo identification of microbial contaminants in low microbial biomass microbiomes with Squeegee
+
+[Source](https://doi.org/10.1038/s41467-022-34409-z)
 
 ---
 
