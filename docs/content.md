@@ -172,9 +172,16 @@ Microbiota are a major component of agroecosystems. Root microbiota, which inhab
 
 ---
 
-## Sugarcane cultivation practices modulate rhizosphere microbial community composition and structure
+## Sugarcane cultivation practices modulate rhizosphere microbial community composition and structure.
+ 14.11.2022, _APC Moneda, LAL de Carvalho, LG Teheran-Sierra, MIG Funnicelli, DG Pinheiro_
+
+
+_Rhizosphere, Saccharum, RNA, Ribosomal, 16S, Soil Microbiology, Plant Roots, Microbiota, Edible Grain_
+Sugarcane (Saccharum spp.) represents a crop of great economic importance, remarkably relevant in the food industry and energy supply chains from renewable sources. However, its conventional cultivation involves the intensive use of fertilizers, pesticides, and other agrochemical agents whose detrimental effects on the environment are notorious. Alternative systems, such as organic farming, have been presented as an environmentally friendly way of production. Still, the outcomes of different cropping systems on the microbiota associated with sugarcane-whose role in its health and growth is crucial-remain underexplored. Thus, we studied the rhizospheric microbiota of two adjacent sugarcane fields, which differ in terms of the type of farming system. For this, we used the sequencing of taxonomic markers of prokaryotes (gene 16S rRNA, subregions V3-V4) and fungi (Internal transcribed spacer 2) and evaluated the changes caused by the systems. Our results show a well-conserved microbiota composition among farming systems in the highest taxonomic ranks, such as phylum, class, and order. Also, both systems showed very similar alpha diversity indices and shared core taxa with growth-promoting capacities, such as bacteria from the Bacillus and Bradyrhizobium genera and the fungal genus Trichoderma. However, the composition at more specific levels denotes differences, such as the separation of the samples concerning beta diversity and the identification of 74 differentially abundant taxa between the systems. Of these, 60 were fungal taxa, indicating that this microbiota quota is more susceptible to changes caused by farming systems. The analysis of co-occurrence networks also showed the formation of peripheral sub-networks associated with the treatments-especially in fungi-and the presence of keystone taxa in terms of their ability to mediate relationships between other members of microbial communities. Considering that both crop fields used the same cultivar and had almost identical soil properties, we conclude that the observed findings are effects of the activities intrinsic to each system and can contribute to a better understanding of the effects of farming practices on the plant microbiome.
 
 [Source](https://doi.org/10.1038/s41598-022-23562-6)
+
+10.1038/s41598-022-23562-6
 
 ---
 
