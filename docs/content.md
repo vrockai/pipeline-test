@@ -10,19 +10,6 @@
 
 ---
 
-## Analysis of gut mycobiota in first-episode, drug-naïve Chinese patients with schizophrenia: A pilot study.
- 03.05.2021, _X Zhang, LY Pan, Z Zhang, YY Zhou, HY Jiang, B Ruan_
-
-
-_Adult, Cross-Sectional Studies, Dysbiosis, Female, Gastrointestinal Microbiome, Humans, Male, Middle Aged, Mycobiome, Pilot Projects, Schizophrenia_
-Accumulating evidence has focused on elucidating the bacterial component of the gut microbiota in patients with schizophrenia (SC); however, the fungal composition in the gut has not been investigated, although previous studies have suggested that gut mycobiota may be intricately linked to this disorder. The purpose of this analysis was to examine gut bacterial and fungi in first-episode, drug- naïve adult SC patients in relation to age- and sex-matched healthy controls (HC).
-
-[Source](https://doi.org/10.1016/j.schres.2022.10.011)
-
-10.1016/j.bbr.2019.112374
-
----
-
 ## Gut mycobiota dysbiosis in drug-naïve, first-episode schizophrenia
 
 [Source](https://doi.org/10.1016/j.schres.2022.10.011)
@@ -102,15 +89,9 @@ Immune reactions promote not only graft-versus-tumor events but also graft-versu
 
 ---
 
-## Causality Verification for the Correlation between the Presence of Nonstarter Bacteria and Flavor Characteristics in Soft-Type Ripened Cheeses.
- 10.11.2022, _R Unno, T Suzuki, Y Osaki, M Matsutani, M Ishikawa_
-
-
-Flavor characteristics of ripened cheese are established by various bacteria, such as lactic acid bacteria, Actinobacteria, and Proteobacteria, which spontaneously develop during the cheese-manufacturing process. We previously revealed the relationship between bacterial microbiota and flavor components in soft-type ripened cheeses by using a multiomics approach that combined metagenomics and metabolomics; however, we could not establish a causal relationship. This study aimed to substantiate the causal nature of the correlations revealed by the multiomics approach by using cheese-ripening tests with single isolate inoculation. The bacterial diversity and composition in surface mold-ripened cheeses from Japan and France varied, depending on the differences between the milks (pasteurized or raw), cheese positions (core or rind), and manufacturers. Although the volatile compounds did not clearly reflect the distinctive characteristics of the cheese samples, nonstarter lactic acid bacteria, Actinobacteria, and Proteobacteria positively correlated with ketones and sulfur compounds, as evidenced by a Spearman's correlation analysis. Cheese-ripening tests conducted after inoculation with single bacterial strains belonging to the above-mentioned taxa confirmed that these bacteria formed volatile compounds, in agreement with the correlations observed. In particular, various flavor compounds, such as acids, esters, ketones, and sulfur compounds, were detected in cheese inoculated with Pseudoalteromonas sp. TS-4-4 strain. These findings provide important insights into the role of nonstarter bacteria in the development of cheese flavor and into the effectiveness of the multiomics approach in screening for bacteria that can improve the quality of cheese products. IMPORTANCE Our previous study revealed that the existence of various bacteria, such as lactic acid bacteria, Actinobacteria, and Proteobacteria, clearly correlated with the abundance of flavor components, such as volatile compounds, in soft-type ripened cheeses via a multiomics approach that used 16S rRNA gene amplicon sequencing and headspace gas chromatography-mass spectrometry. However, this approach only showed correlations derived from statistical analyses rather than causal relationships. Therefore, in the present study, we performed cheese-ripening tests using nonstarter bacteria to substantiate the correlations revealed by the multiomics approach in soft-type ripened cheese. Our results suggest the capability of nonstarter bacteria, such as Proteobacteria, to impart flavor to cheese and the effectiveness of the multiomics approach in screening for microbial isolates that can improve the quality of cheese. Overall, our research provides new insights into the importance of bacteria in cheese production.
+## Causality Verification for the Correlation between the Presence of Nonstarter Bacteria and Flavor Characteristics in Soft-Type Ripened Cheeses
 
 [Source](https://doi.org/10.1128/spectrum.02894-22)
-
-10.1128/spectrum.02894-22
 
 ---
 
