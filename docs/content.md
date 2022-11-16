@@ -35,15 +35,28 @@ Bacterial dysbiosis has been demonstrated in patients with schizophrenia (SCH). 
 
 ---
 
-## Integration of stool microbiota, proteome and amino acid profiles to discriminate patients with adenomas and colorectal cancer
+## Integration of stool microbiota, proteome and amino acid profiles to discriminate patients with adenomas and colorectal cancer.
+ 15.11.2022, _S Bosch, A Acharjee, MN Quraishi, IV Bijnsdorp, P Rojas, A Bakkali, EE Jansen, P Stokkers, J Kuijvenhoven, TV Pham, AD Beggs, CR Jimenez, EA Struys, GV Gkoutos, TG de Meij, NK de Boer_
+
+
+_Humans, Proteome, Colorectal Neoplasms, Chromatography, Liquid, RNA, Ribosomal, 16S, Amino Acids, Gastrointestinal Microbiome, Tandem Mass Spectrometry, Adenoma, Feces_
+Screening for colorectal cancer (CRC) reduces its mortality but has limited sensitivity and specificity. Aims We aimed to explore potential biomarker panels for CRC and adenoma detection and to gain insight into the interaction between gut microbiota and human metabolism in the presence of these lesions.
 
 [Source](https://doi.org/10.1080/19490976.2022.2139979)
 
+10.1080/19490976.2022.2139979
+
 ---
 
-## Human gut homeostasis and regeneration: the role of the gut microbiota and its metabolites
+## Human gut homeostasis and regeneration: the role of the gut microbiota and its metabolites.
+ 12.11.2022, _CM Arenas-Gómez, E Garcia-Gutierrez, JS Escobar, PD Cotter_
+
+
+The healthy human gut is a balanced ecosystem where host cells and representatives of the gut microbiota interact and communicate in a bidirectional manner at the gut epithelium. As a result of these interactions, many local and systemic processes necessary for host functionality, and ultimately health, take place. Impairment of the integrity of the gut epithelium diminishes its ability to act as an effective gut barrier, can contribute to conditions associated to inflammation processes and can have other negative consequences. Pathogens and pathobionts have been linked with damage of the integrity of the gut epithelium, but other components of the gut microbiota and some of their metabolites can contribute to its repair and regeneration. Here, we review what is known about the effect of bacterial metabolites on the gut epithelium and, more specifically, on the regulation of repair by intestinal stem cells and the regulation of the immune system in the gut. Additionally, we explore the potential therapeutic use of targeted modulation of the gut microbiota to maintain and improve gut homeostasis as a mean to improve health outcomes.
 
 [Source](https://doi.org/10.1080/1040841X.2022.2142088)
+
+10.1080/1040841X.2022.2142088
 
 ---
 
@@ -53,9 +66,16 @@ Bacterial dysbiosis has been demonstrated in patients with schizophrenia (SCH). 
 
 ---
 
-## Intestinal toxicity to CTLA-4 blockade driven by IL-6 and myeloid infiltration
+## Intestinal toxicity to CTLA-4 blockade driven by IL-6 and myeloid infiltration.
+ 15.11.2022, _Y Zhou, YB Medik, B Patel, DB Zamler, S Chen, T Chapman, S Schneider, EM Park, RL Babcock, TT Chrisikos, LM Kahn, AM Dyevoich, JE Pineda, MC Wong, AK Mishra, SH Cass, AP Cogdill, DH Johnson, SB Johnson, K Wani, DA Ledesma, CW Hudgens, J Wang, MA Wadud Khan, CB Peterson, AY Joon, W Peng, HS Li, R Arora, X Tang, MG Raso, X Zhang, WC Foo, MT Tetzlaff, GE Diehl, K Clise-Dwyer, EM Whitley, MM Gubin, JP Allison, P Hwu, NJ Ajami, A Diab, JA Wargo, SS Watowich_
+
+
+_Mice, Animals, Interleukin-6, Quality of Life, Colitis, Immunotherapy, Inflammation_
+Immune checkpoint blockade (ICB) has revolutionized cancer treatment, yet quality of life and continuation of therapy can be constrained by immune-related adverse events (irAEs). Limited understanding of irAE mechanisms hampers development of approaches to mitigate their damage. To address this, we examined whether mice gained sensitivity to anti-CTLA-4 (αCTLA-4)-mediated toxicity upon disruption of gut homeostatic immunity. We found αCTLA-4 drove increased inflammation and colonic tissue damage in mice with genetic predisposition to intestinal inflammation, acute gastrointestinal infection, transplantation with a dysbiotic fecal microbiome, or dextran sodium sulfate administration. We identified an immune signature of αCTLA-4-mediated irAEs, including colonic neutrophil accumulation and systemic interleukin-6 (IL-6) release. IL-6 blockade combined with antibiotic treatment reduced intestinal damage and improved αCTLA-4 therapeutic efficacy in inflammation-prone mice. Intestinal immune signatures were validated in biopsies from patients with ICB colitis. Our work provides new preclinical models of αCTLA-4 intestinal irAEs, mechanistic insights into irAE development, and potential approaches to enhance ICB efficacy while mitigating irAEs.
 
 [Source](https://doi.org/10.1084/jem.20221333)
+
+10.1084/jem.20221333
 
 ---
 
