@@ -35,28 +35,15 @@ Bacterial dysbiosis has been demonstrated in patients with schizophrenia (SCH). 
 
 ---
 
-## Integration of stool microbiota, proteome and amino acid profiles to discriminate patients with adenomas and colorectal cancer.
- 15.11.2022, _S Bosch, A Acharjee, MN Quraishi, IV Bijnsdorp, P Rojas, A Bakkali, EE Jansen, P Stokkers, J Kuijvenhoven, TV Pham, AD Beggs, CR Jimenez, EA Struys, GV Gkoutos, TG de Meij, NK de Boer_
-
-
-_Humans, Proteome, Colorectal Neoplasms, Chromatography, Liquid, RNA, Ribosomal, 16S, Amino Acids, Gastrointestinal Microbiome, Tandem Mass Spectrometry, Adenoma, Feces_
-Screening for colorectal cancer (CRC) reduces its mortality but has limited sensitivity and specificity. Aims We aimed to explore potential biomarker panels for CRC and adenoma detection and to gain insight into the interaction between gut microbiota and human metabolism in the presence of these lesions.
+## Integration of stool microbiota, proteome and amino acid profiles to discriminate patients with adenomas and colorectal cancer
 
 [Source](https://doi.org/10.1080/19490976.2022.2139979)
 
-10.1080/19490976.2022.2139979
-
 ---
 
-## Human gut homeostasis and regeneration: the role of the gut microbiota and its metabolites.
- 12.11.2022, _CM Arenas-Gómez, E Garcia-Gutierrez, JS Escobar, PD Cotter_
-
-
-The healthy human gut is a balanced ecosystem where host cells and representatives of the gut microbiota interact and communicate in a bidirectional manner at the gut epithelium. As a result of these interactions, many local and systemic processes necessary for host functionality, and ultimately health, take place. Impairment of the integrity of the gut epithelium diminishes its ability to act as an effective gut barrier, can contribute to conditions associated to inflammation processes and can have other negative consequences. Pathogens and pathobionts have been linked with damage of the integrity of the gut epithelium, but other components of the gut microbiota and some of their metabolites can contribute to its repair and regeneration. Here, we review what is known about the effect of bacterial metabolites on the gut epithelium and, more specifically, on the regulation of repair by intestinal stem cells and the regulation of the immune system in the gut. Additionally, we explore the potential therapeutic use of targeted modulation of the gut microbiota to maintain and improve gut homeostasis as a mean to improve health outcomes.
+## Human gut homeostasis and regeneration: the role of the gut microbiota and its metabolites
 
 [Source](https://doi.org/10.1080/1040841X.2022.2142088)
-
-10.1080/1040841X.2022.2142088
 
 ---
 
@@ -66,41 +53,21 @@ The healthy human gut is a balanced ecosystem where host cells and representativ
 
 ---
 
-## Intestinal toxicity to CTLA-4 blockade driven by IL-6 and myeloid infiltration.
- 15.11.2022, _Y Zhou, YB Medik, B Patel, DB Zamler, S Chen, T Chapman, S Schneider, EM Park, RL Babcock, TT Chrisikos, LM Kahn, AM Dyevoich, JE Pineda, MC Wong, AK Mishra, SH Cass, AP Cogdill, DH Johnson, SB Johnson, K Wani, DA Ledesma, CW Hudgens, J Wang, MA Wadud Khan, CB Peterson, AY Joon, W Peng, HS Li, R Arora, X Tang, MG Raso, X Zhang, WC Foo, MT Tetzlaff, GE Diehl, K Clise-Dwyer, EM Whitley, MM Gubin, JP Allison, P Hwu, NJ Ajami, A Diab, JA Wargo, SS Watowich_
-
-
-_Mice, Animals, Interleukin-6, Quality of Life, Colitis, Immunotherapy, Inflammation_
-Immune checkpoint blockade (ICB) has revolutionized cancer treatment, yet quality of life and continuation of therapy can be constrained by immune-related adverse events (irAEs). Limited understanding of irAE mechanisms hampers development of approaches to mitigate their damage. To address this, we examined whether mice gained sensitivity to anti-CTLA-4 (αCTLA-4)-mediated toxicity upon disruption of gut homeostatic immunity. We found αCTLA-4 drove increased inflammation and colonic tissue damage in mice with genetic predisposition to intestinal inflammation, acute gastrointestinal infection, transplantation with a dysbiotic fecal microbiome, or dextran sodium sulfate administration. We identified an immune signature of αCTLA-4-mediated irAEs, including colonic neutrophil accumulation and systemic interleukin-6 (IL-6) release. IL-6 blockade combined with antibiotic treatment reduced intestinal damage and improved αCTLA-4 therapeutic efficacy in inflammation-prone mice. Intestinal immune signatures were validated in biopsies from patients with ICB colitis. Our work provides new preclinical models of αCTLA-4 intestinal irAEs, mechanistic insights into irAE development, and potential approaches to enhance ICB efficacy while mitigating irAEs.
+## Intestinal toxicity to CTLA-4 blockade driven by IL-6 and myeloid infiltration
 
 [Source](https://doi.org/10.1084/jem.20221333)
 
-10.1084/jem.20221333
-
 ---
 
-## Genome-microbiome interplay provides insight into the determinants of the human blood metabolome.
- 10.11.2022, _C Diener, CL Dai, T Wilmanski, P Baloni, B Smith, N Rappaport, L Hood, AT Magis, SM Gibbons_
-
-
-Variation in the blood metabolome is intimately related to human health. However, few details are known about the interplay between genetics and the microbiome in explaining this variation on a metabolite-by-metabolite level. Here, we perform analyses of variance for each of 930 blood metabolites robustly detected across a cohort of 1,569 individuals with paired genomic and microbiome data while controlling for a number of relevant covariates. We find that 595 (64%) of these blood metabolites are significantly associated with either host genetics or the gut microbiome, with 69% of these associations driven solely by the microbiome, 15% driven solely by genetics and 16% under hybrid genome-microbiome control. Additionally, interaction effects, where a metabolite-microbe association is specific to a particular genetic background, are quite common, albeit with modest effect sizes. This knowledge will help to guide targeted interventions designed to alter the composition of the human blood metabolome.
+## Genome-microbiome interplay provides insight into the determinants of the human blood metabolome
 
 [Source](https://doi.org/10.1038/s42255-022-00670-1)
 
-10.1038/s42255-022-00670-1
-
 ---
 
-## Vaginal microbiota in women with spontaneous preterm labor versus those with term labor in Kenya: a case control study.
- 14.11.2022, _E Gulavi, F Mwendwa, DO Atandi, PO Okiro, M Hall, RG Beiko, RD Adam_
-
-
-_Humans, Female, Infant, Newborn, Pregnancy, Infant, RNA, Ribosomal, 16S, Premature Birth, Case-Control Studies, Kenya, Placenta, Vagina, Obstetric Labor, Premature, Microbiota_
-Preterm birth is a global problem with about 12% of births in sub-Saharan Africa occurring before 37 weeks of gestation. Several studies have explored a potential association between vaginal microbiota and preterm birth, and some have found an association while others have not. We performed a study designed to determine whether there is an association with vaginal microbiota and/or placental microbiota and preterm birth in an African setting.
+## Vaginal microbiota in women with spontaneous preterm labor versus those with term labor in Kenya: a case control study
 
 [Source](https://doi.org/10.1186/s12866-022-02681-0)
-
-10.1186/s12866-022-02681-0
 
 ---
 
