@@ -83,21 +83,39 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression
+## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression.
+ 15.11.2022, _X Wen, X Ye, X Yang, R Jiang, C Qian, X Wang_
+
+
+Different types of cells that are involved in tumor immunity play a significant part in antitumor therapy. The intestinal microbiota consist of the trillions of diverse microorganisms that inhabit the gastrointestinal tract. Recently, much emphasis has been paid to the link between these symbionts and colorectal cancer (CRC). This association might be anything from oncogenesis and cancer development to resistance or susceptibility to chemotherapeutic medicines. Cancer patients have a significantly different microbial composition in their guts compared to healthy persons. The microbiome may play a role in the development and development of cancer through the modulation of tumor immunosurveillance, as shown by these studies; however, the specific processes underlying this role are still poorly understood. This review focuses on the relationship between the intestinal bacterial microbiota and immune cells to determine how the commensal microbiome influences the initiation and development of CRC.
 
 [Source](https://link.springer.com/article/10.1007/s12094-022-02995-5)
 
+10.1007/s12094-022-02995-5
+
 ---
 
-## Epigenetic regulation by metabolites from the gut microbiome
+## Epigenetic regulation by metabolites from the gut microbiome.
+ 15.11.2022, _C Marín-Tello, P Jintaridth, F Sanchez, C González, L Zelada-Castillo, A Vásquez-Arqueros, A Guevara-Vásquez, A Vieira_
+
+
+The gut microbiome can metabolise food components, such as dietary fibres and various phytochemicals; and the microbiome can also synthesise some nutrients, for example B vitamins. The metabolites produced by bacteria and other micro-organisms in the colon can have implications for health and disease risk. Some of these metabolites are epigenetically active, and can contribute to changes in the chemical modification and structure of chromatin by affecting the activity and expression of epigenetically-active enzymes, for example histone deacetylases and DNA methyltransferases. The epigenetic activity of such gut microbiome metabolites is reviewed herein.
 
 [Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0006)
 
+10.3920/BM2022.0006
+
 ---
 
-## A tetrapeptide from maize combined with probiotics exerted strong anti-inflammatory effects and modulated gut microbiota in DSS-induced colitis mice
+## A tetrapeptide from maize combined with probiotics exerted strong anti-inflammatory effects and modulated gut microbiota in DSS-induced colitis mice.
+ 14.11.2022, _Z Li, S Zhang, L Xu, X Fang, Y Wan, D Yu, Y Guo_
+
+
+Ulcerative colitis (UC) is a chronic inflammatory bowel disease characterized by recurrent gastrointestinal inflammation caused by abnormal immune response, and patients usually have intestinal flora imbalance. At present, the pathogenesis of UC is not well understood, and it appears that there is chronic activation of the immune and inflammatory cascade in genetically susceptible individuals. Some food supplements such as specific peptides and probiotics have been investigated and shown the potential for the treatment of UC. The purpose of this study is to investigate the therapeutic effect and potential mechanism of tetrapeptide from maize (TPM) and probiotic treatment on dextran sulfate sodium (DSS)-induced UC in C57BL/6J mice. Our results indicated that the therapeutic effects of TPM and probiotics are positively associated with a reduction in pro-inflammatory cytokine levels and restoration of the gut microbiota. Treatment with TPM or probiotics effectively alleviated the adverse effects of UC, including weight loss, shortened colon length, and colon and kidney tissue damage in mice. Additionally, both TPM and probiotics significantly reduced pro-inflammatory cytokine levels and oxidative stress in UC mice, and the effect was more pronounced when both were used together. Moreover, co-treatment with TPM and probiotics increased the diversity of gut microbes in UC mice, reduced the ratio of Firmicutes to Bacteroidetes (F/B) and increased the abundance of bacterial species, including Muribaculaceae, Alistipes, Ligilactobacillus and Lactobacillus, and has been shown to be beneficial for a variety of pathological conditions.
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D2FO02678C)
+
+10.1039/d2fo02678c
 
 ---
 
