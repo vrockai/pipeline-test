@@ -23,27 +23,52 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women
+## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women.
+ 14.11.2022, _R Yoshikata, M Yamaguchi, Y Mase, A Tatsuzuki, KZY Myint, H Ohta_
+
+
+Objective: The ideal vaginal environment is maintained by Lactobacillus species, which keep the vagina clean and free of infections, boost fertility and immunity. Age-related decline in estrogen affects Lactobacillus population, leading to dominance of nonoptimal species and increased diversity in vaginal microbiota. In this study, we compared the differences between the vaginal microbiota of pre- and postmenopausal women. We also examined the relationships between vaginal and gut microbiota, their relationships with sex hormones and equol-producing ability. Materials and Methods: This was a cross-sectional study of 35 premenopausal and 35 postmenopausal women (age range: 27-76 years). We compared parameters such as the composition of the gut and vaginal microbiota, vaginal pH, estradiol, follicular stimulating hormone, and urinary equol concentration. Results: In the vaginal microbiota of premenopausal women, Lactobacillus species constituted ∼71.98%, and nonoptimal species constituted ∼16.87%. They were 10.08% and 26.78%, respectively, in the vaginal microbiota of postmenopausal women. The proportion of Lactobacillus was significantly low, whereas microbial diversity and vaginal pH were significantly high (p &lt; 0.0001) in postmenopausal women. The compositions of the vaginal microbiota were significantly different in pre- and postmenopausal women. However, such differences were not noticeable in the gut microbiota. Urinary equol production had no significant correlation with vaginal microbiota, although it had significant relationships with gut microbiota in postmenopausal women. In both groups, the proportions of vaginal Lactobacillus were inversely correlated with vaginal microbial diversity and vaginal pH. Conclusion: Postmenopausal women had significantly low Lactobacillus and high nonoptimal species in their vaginal flora, whereas such age-related differences were not identified in gut microbiota. Urinary equol concentration had significant correlation with gut microbiota in postmenopausal women only. This study was registered with the University Hospital Medical Information Network (UMIN) Clinical Trial Registry (Trial registration No.: UMIN000043944).
 
 [Source](https://www.liebertpub.com/doi/10.1089/jwh.2022.0114)
 
+10.1089/jwh.2022.0114
+
 ---
 
-## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes
+## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes.
+ 17.11.2022, _JYK Chan, MK Cheung, L Lan, C Ng, EHL Lau, ZWC Yeung, EWY Wong, L Leung, X Qu, L Cai, H Zhu, SS Boon, RD Burk, PKS Chan, Z Chen_
+
+
+To investigate the interplay among the oral microbiota, HPV infection, traditional risk factors and patient outcomes in head and neck squamous cell carcinoma (HNSCC).
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1368837522005358)
 
+10.1016/j.oraloncology.2022.106245
+
 ---
 
-## Making gut microbiomes from scratch
+## Making gut microbiomes from scratch.
+ 16.11.2022, _S Tian, JE Bisanz_
+
+
+_Gastrointestinal Microbiome, Microbiota_
+Studying the microbiome presents a challenge: how do we untangle the interactions of microbes at ecologically relevant scales? We highlight research by Afrizal et al. and Cheng et al., which help to solve this problem through the generation and characterization of complex synthetic communities derived from lab-grown microbes.
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312822005182)
 
+10.1016/j.chom.2022.10.005
+
 ---
 
-## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and ‘inflammaging’
+## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and 'inflammaging'.
+ 16.11.2022, _A Brandt, A Baumann, A Hernández-Arriaga, F Jung, A Nier, R Staltner, D Rajcic, C Schmeer, OW Witte, B Wessner, B Franzke, KH Wagner, A Camarinha-Silva, I Bergheim_
+
+
+Aging is considered a state of low grade inflammation, occurring in the absence of any overt infection often referred to as 'inflammaging'. Maintaining intestinal homeostasis may be a target to extend a healthier status in older adults. Here, we report that even in healthy older men low grade bacterial endotoxemia is prevalent. In addition, employing multiple mouse models, we also show that while intestinal microbiota composition changes significantly during aging, fecal microbiota transplantation to old mice does not protect against aging-associated intestinal barrier dysfunction in small intestine. Rather, intestinal NO homeostasis and arginine metabolism mediated through arginase and NO synthesis is altered in small intestine of aging mice. Treatment with the arginase inhibitor norNOHA prevented aging-associated intestinal barrier dysfunction, low grade endotoxemia and delayed the onset of senescence in peripheral tissue e.g., liver. Intestinal arginine and NO metabolisms could be a target in the prevention of aging-associated intestinal barrier dysfunction and subsequently decline and 'inflammaging'.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2213231722003007)
+
+10.1016/j.redox.2022.102528
 
 ---
 
@@ -53,33 +78,66 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases
+## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases.
+ 16.11.2022, _X Cheng, Y Zhang, Y Li, Q Wu, J Wu, SK Park, C Guo, J Lu_
+
+
+_Humans, RNA, Ribosomal, 16S, Gastrointestinal Microbiome, COVID-19, Dysbiosis, Bacteria, Feces_
+Dozens of studies have demonstrated gut dysbiosis in COVID-19 patients during the acute and recovery phases. However, a consensus on the specific COVID-19 associated bacteria is missing. In this study, we performed a meta-analysis to explore whether robust and reproducible alterations in the gut microbiota of COVID-19 patients exist across different populations.
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02686-9)
 
+10.1186/s12866-022-02686-9
+
 ---
 
-## Relationships between dietary diversity and gut microbial diversity in the elderly
+## Relationships between dietary diversity and gut microbial diversity in the elderly.
+ 15.11.2022, _R Amamoto, K Shimamoto, T Suwa, S Park, H Matsumoto, K Shimizu, M Katto, H Makino, S Matsubara, Y Aoyagi_
+
+
+Diet is considered as a major driver of gut microbiota composition. However, little is known about the relationship between overall dietary balance and gut microbiota, especially in the elderly. Here, using the Quantitative Index for Dietary Diversity (QUANTIDD), we analysed the relationships between dietary diversity and gut microbiota diversity in 445 Japanese subjects aged 65-90 years. We also examined the effect of age by comparing the young-old group aged 65 to 74 years (&lt;75 years group; n=246) and the old-old group aged 75 years and older (≥75 years group; n=199). QUANTIDD showed significant positive relationships with Pielou's evenness and Shannon indices, two α-diversity indices related to the uniformity of species distribution. This suggests that a more diverse diet is associated with a more uniform abundance of various bacterial groups, rather than a greater variety of gut bacteria. QUANTIDD also showed significant positive associations with the abundance of Anaerostipes, Eubacterium eligens group, and Eubacterium ventriosum group, which produce short-chain fatty acids (SCFAs) and are beneficial to health. Negative association was found with the abundance of Ruminococcus gnavus group, which produces inflammatory polysaccharides. Positive associations between QUANTIDD and α-diversity indices or the abundance of specific bacterial groups were identified among all subjects and in the &lt;75 years group, but not in the ≥75 years group. Our results suggest that dietary diversity contributes to the diversity of the gut microbiota and increases the abundance of SCFAs-producing bacteria, but only up to a certain age. These findings help to understand the complex relationship between diet and gut microbiota, and provide hints for specific dietary interventions to promote beneficial gut microbiota in the elderly.
 
 [Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0054)
 
+10.3920/BM2022.0054
+
 ---
 
-## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project
+## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project.
+ 15.11.2022, _YS Xu, YH Wang, Y Liu, X Sun, JS Xu, Y Song, X Jiang, ZF Xiong, ZB Tian, CP Zhang_
+
+
+There is limited information is known about the composition difference of the gut microbiota in patients with constipation and healthy controls. Here, the faecal 16S rRNA fastq sequence data of microbiota from the publicly available American Gut Project (AGP) were analysed. The tendency score matching (PSM) method was used to match in a 1:1 manner to control for confounding factors age, gender, body mass index (BMI), and country. A total of 524 participants including 262 patients with constipation and 262 healthy controls were included in this analysis. The richness and evenness of the gut microbiota in the constipation group were significantly lower than those in the control group. The dominant genera in the constipation group include Escherichia_Shigella, Pseudomonas, and Citrobacter. The dominant genera in the control group include Faecalibacterium, Prevotella, Roseburia, Clostridium_XlVa, and Blautia. The abundance of three butyrate production-related pathways were significantly higher in the constipation group than in the control groups. There was no significant difference in the diversity and gut microbiota composition in patients with constipation at different ages. In conclusion, patients with constipation showed gut microbiota and butyrate metabolism dysbiosis. This dysbiosis might provide a reference for the diagnosis and clinical therapy of diseases.
 
 [Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0009)
 
+10.3920/BM2022.0009
+
 ---
 
-## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis
+## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis.
+ 16.11.2022, _X Liang, Y Fu, WT Cao, Z Wang, K Zhang, Z Jiang, X Jia, CY Liu, HR Lin, H Zhong, Z Miao, W Gou, M Shuai, Y Huang, S Chen, B Zhang, YM Chen, JS Zheng_
+
+
+_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Cross-Sectional Studies, Case-Control Studies, Cognition, Brain_
+Microbiome-gut-brain axis may be involved in the progression of age-related cognitive impairment and relevant brain structure changes, but evidence from large human cohorts is lacking. This study was aimed to investigate the associations of gut microbiome with cognitive impairment and brain structure based on multi-omics from three independent populations.
 
 [Source](https://translationalneurodegeneration.biomedcentral.com/articles/10.1186/s40035-022-00323-z)
 
+10.1186/s40035-022-00323-z
+
 ---
 
-## Microbiome insights into pediatric familial adenomatous polyposis
+## Microbiome insights into pediatric familial adenomatous polyposis.
+ 16.11.2022, _TM Attard, S Septer, CE Lawson, MI Attard, STM Lee, S Umar_
+
+
+_Humans, Child, Longitudinal Studies, Adenomatous Polyposis Coli, Biopsy, Microbiota, Tumor Microenvironment_
+Individuals with familial adenomatous polyposis (FAP) harbor numerous polyps with inevitable early progression to colon cancer. Complex microbiotic-tumor microenvironment perturbations suggest a dysbiotic relationship between polyp and microbiome. In this study, we performed comprehensive analyses of stool and tissue microbiome of pediatric FAP subjects and compared with unaffected cohabiting relatives through 16S V4 region amplicon sequencing and machine learning platforms.
 
 [Source](https://ojrd.biomedcentral.com/articles/10.1186/s13023-022-02569-2)
+
+10.1186/s13023-022-02569-2
 
 ---
 
