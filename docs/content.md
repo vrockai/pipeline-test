@@ -23,15 +23,9 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women.
- 14.11.2022, _R Yoshikata, M Yamaguchi, Y Mase, A Tatsuzuki, KZY Myint, H Ohta_
-
-
-Objective: The ideal vaginal environment is maintained by Lactobacillus species, which keep the vagina clean and free of infections, boost fertility and immunity. Age-related decline in estrogen affects Lactobacillus population, leading to dominance of nonoptimal species and increased diversity in vaginal microbiota. In this study, we compared the differences between the vaginal microbiota of pre- and postmenopausal women. We also examined the relationships between vaginal and gut microbiota, their relationships with sex hormones and equol-producing ability. Materials and Methods: This was a cross-sectional study of 35 premenopausal and 35 postmenopausal women (age range: 27-76 years). We compared parameters such as the composition of the gut and vaginal microbiota, vaginal pH, estradiol, follicular stimulating hormone, and urinary equol concentration. Results: In the vaginal microbiota of premenopausal women, Lactobacillus species constituted ∼71.98%, and nonoptimal species constituted ∼16.87%. They were 10.08% and 26.78%, respectively, in the vaginal microbiota of postmenopausal women. The proportion of Lactobacillus was significantly low, whereas microbial diversity and vaginal pH were significantly high (p &lt; 0.0001) in postmenopausal women. The compositions of the vaginal microbiota were significantly different in pre- and postmenopausal women. However, such differences were not noticeable in the gut microbiota. Urinary equol production had no significant correlation with vaginal microbiota, although it had significant relationships with gut microbiota in postmenopausal women. In both groups, the proportions of vaginal Lactobacillus were inversely correlated with vaginal microbial diversity and vaginal pH. Conclusion: Postmenopausal women had significantly low Lactobacillus and high nonoptimal species in their vaginal flora, whereas such age-related differences were not identified in gut microbiota. Urinary equol concentration had significant correlation with gut microbiota in postmenopausal women only. This study was registered with the University Hospital Medical Information Network (UMIN) Clinical Trial Registry (Trial registration No.: UMIN000043944).
+## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women
 
 [Source](https://www.liebertpub.com/doi/10.1089/jwh.2022.0114)
-
-10.1089/jwh.2022.0114
 
 ---
 
@@ -141,15 +135,9 @@ Individuals with familial adenomatous polyposis (FAP) harbor numerous polyps wit
 
 ---
 
-## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression.
- 15.11.2022, _X Wen, X Ye, X Yang, R Jiang, C Qian, X Wang_
-
-
-Different types of cells that are involved in tumor immunity play a significant part in antitumor therapy. The intestinal microbiota consist of the trillions of diverse microorganisms that inhabit the gastrointestinal tract. Recently, much emphasis has been paid to the link between these symbionts and colorectal cancer (CRC). This association might be anything from oncogenesis and cancer development to resistance or susceptibility to chemotherapeutic medicines. Cancer patients have a significantly different microbial composition in their guts compared to healthy persons. The microbiome may play a role in the development and development of cancer through the modulation of tumor immunosurveillance, as shown by these studies; however, the specific processes underlying this role are still poorly understood. This review focuses on the relationship between the intestinal bacterial microbiota and immune cells to determine how the commensal microbiome influences the initiation and development of CRC.
+## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression
 
 [Source](https://link.springer.com/article/10.1007/s12094-022-02995-5)
-
-10.1007/s12094-022-02995-5
 
 ---
 
