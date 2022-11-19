@@ -23,52 +23,27 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women.
- 14.11.2022, _R Yoshikata, M Yamaguchi, Y Mase, A Tatsuzuki, KZY Myint, H Ohta_
-
-
-Objective: The ideal vaginal environment is maintained by Lactobacillus species, which keep the vagina clean and free of infections, boost fertility and immunity. Age-related decline in estrogen affects Lactobacillus population, leading to dominance of nonoptimal species and increased diversity in vaginal microbiota. In this study, we compared the differences between the vaginal microbiota of pre- and postmenopausal women. We also examined the relationships between vaginal and gut microbiota, their relationships with sex hormones and equol-producing ability. Materials and Methods: This was a cross-sectional study of 35 premenopausal and 35 postmenopausal women (age range: 27-76 years). We compared parameters such as the composition of the gut and vaginal microbiota, vaginal pH, estradiol, follicular stimulating hormone, and urinary equol concentration. Results: In the vaginal microbiota of premenopausal women, Lactobacillus species constituted ∼71.98%, and nonoptimal species constituted ∼16.87%. They were 10.08% and 26.78%, respectively, in the vaginal microbiota of postmenopausal women. The proportion of Lactobacillus was significantly low, whereas microbial diversity and vaginal pH were significantly high (p &lt; 0.0001) in postmenopausal women. The compositions of the vaginal microbiota were significantly different in pre- and postmenopausal women. However, such differences were not noticeable in the gut microbiota. Urinary equol production had no significant correlation with vaginal microbiota, although it had significant relationships with gut microbiota in postmenopausal women. In both groups, the proportions of vaginal Lactobacillus were inversely correlated with vaginal microbial diversity and vaginal pH. Conclusion: Postmenopausal women had significantly low Lactobacillus and high nonoptimal species in their vaginal flora, whereas such age-related differences were not identified in gut microbiota. Urinary equol concentration had significant correlation with gut microbiota in postmenopausal women only. This study was registered with the University Hospital Medical Information Network (UMIN) Clinical Trial Registry (Trial registration No.: UMIN000043944).
+## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women
 
 [Source](https://www.liebertpub.com/doi/10.1089/jwh.2022.0114)
 
-10.1089/jwh.2022.0114
-
 ---
 
-## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes.
- 18.11.2022, _JYK Chan, MK Cheung, L Lan, C Ng, EHL Lau, ZWC Yeung, EWY Wong, L Leung, X Qu, L Cai, H Zhu, SS Boon, RD Burk, PKS Chan, Z Chen_
-
-
-To investigate the interplay among the oral microbiota, HPV infection, traditional risk factors and patient outcomes in head and neck squamous cell carcinoma (HNSCC).
+## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1368837522005358)
 
-10.1016/j.oraloncology.2022.106245
-
 ---
 
-## Making gut microbiomes from scratch.
- 16.11.2022, _S Tian, JE Bisanz_
-
-
-_Gastrointestinal Microbiome, Microbiota_
-Studying the microbiome presents a challenge: how do we untangle the interactions of microbes at ecologically relevant scales? We highlight research by Afrizal et al. and Cheng et al., which help to solve this problem through the generation and characterization of complex synthetic communities derived from lab-grown microbes.
+## Making gut microbiomes from scratch
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312822005182)
 
-10.1016/j.chom.2022.10.005
-
 ---
 
-## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and 'inflammaging'.
- 16.11.2022, _A Brandt, A Baumann, A Hernández-Arriaga, F Jung, A Nier, R Staltner, D Rajcic, C Schmeer, OW Witte, B Wessner, B Franzke, KH Wagner, A Camarinha-Silva, I Bergheim_
-
-
-Aging is considered a state of low grade inflammation, occurring in the absence of any overt infection often referred to as 'inflammaging'. Maintaining intestinal homeostasis may be a target to extend a healthier status in older adults. Here, we report that even in healthy older men low grade bacterial endotoxemia is prevalent. In addition, employing multiple mouse models, we also show that while intestinal microbiota composition changes significantly during aging, fecal microbiota transplantation to old mice does not protect against aging-associated intestinal barrier dysfunction in small intestine. Rather, intestinal NO homeostasis and arginine metabolism mediated through arginase and NO synthesis is altered in small intestine of aging mice. Treatment with the arginase inhibitor norNOHA prevented aging-associated intestinal barrier dysfunction, low grade endotoxemia and delayed the onset of senescence in peripheral tissue e.g., liver. Intestinal arginine and NO metabolisms could be a target in the prevention of aging-associated intestinal barrier dysfunction and subsequently decline and 'inflammaging'.
+## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and ‘inflammaging’
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2213231722003007)
-
-10.1016/j.redox.2022.102528
 
 ---
 
@@ -78,28 +53,9 @@ Aging is considered a state of low grade inflammation, occurring in the absence 
 
 ---
 
-## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases.
- 16.11.2022, _X Cheng, Y Zhang, Y Li, Q Wu, J Wu, SK Park, C Guo, J Lu_
-
-
-_Humans, RNA, Ribosomal, 16S, Gastrointestinal Microbiome, COVID-19, Dysbiosis, Bacteria, Feces_
-Dozens of studies have demonstrated gut dysbiosis in COVID-19 patients during the acute and recovery phases. However, a consensus on the specific COVID-19 associated bacteria is missing. In this study, we performed a meta-analysis to explore whether robust and reproducible alterations in the gut microbiota of COVID-19 patients exist across different populations.
+## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02686-9)
-
-10.1186/s12866-022-02686-9
-
----
-
-## Gut microbial evidence chain in high-salt diet exacerbates intestinal aging process.
- 17.11.2022, _TH Liu, L Zhao, CY Zhang, XY Li, TL Wu, YY Dai, YY Sheng, YL Ren, YZ Xue_
-
-
-Although excessive salt consumption appears to hasten intestinal aging and increases susceptibility to cardiovascular disease, the molecular mechanism is unknown. In this study, mutual validation of high salt (HS) and aging fecal microbiota transplantation (FMT) in C56BL/6 mice was used to clarify the molecular mechanism by which excessive salt consumption causes intestinal aging. Firstly, we observed HS causes vascular endothelial damage and can accelerate intestinal aging associated with decreased colon and serum expression of superoxide dismutase (SOD), glutathione peroxidase (GSH-Px), and increased malondialdehyde (MDA); after transplantation with HS fecal microbiota in mice, vascular endothelial damage and intestinal aging can also occur. Secondly, we also found intestinal aging and vascular endothelial damage in older mice aged 14 months; and after transplantation of the older mice fecal microbiota, the same effect was observed in mice aged 6-8 weeks. Meanwhile, HS and aging significantly changed gut microbial diversity and composition, which was transferable by FMT. Eventually, based on the core genera both in HS and the aging gut microbiota network, a machine learning model was constructed which could predict HS susceptibility to intestinal aging. Further investigation revealed that the process of HS-related intestinal aging was highly linked to the signal transduction mediated by various bacteria. In conclusion, the present study provides an experimental basis of potential microbial evidence in the process of HS related intestinal aging. Even, avoiding excessive salt consumption and actively intervening in gut microbiota alteration may assist to delay the aging state that drives HS-related intestinal aging in clinical practice.
-
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0054)
-
-10.3389/fnut.2022.1046833
 
 ---
 
@@ -109,33 +65,20 @@ Although excessive salt consumption appears to hasten intestinal aging and incre
 
 ---
 
-## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project.
- 15.11.2022, _YS Xu, YH Wang, Y Liu, X Sun, JS Xu, Y Song, X Jiang, ZF Xiong, ZB Tian, CP Zhang_
-
-
-There is limited information is known about the composition difference of the gut microbiota in patients with constipation and healthy controls. Here, the faecal 16S rRNA fastq sequence data of microbiota from the publicly available American Gut Project (AGP) were analysed. The tendency score matching (PSM) method was used to match in a 1:1 manner to control for confounding factors age, gender, body mass index (BMI), and country. A total of 524 participants including 262 patients with constipation and 262 healthy controls were included in this analysis. The richness and evenness of the gut microbiota in the constipation group were significantly lower than those in the control group. The dominant genera in the constipation group include Escherichia_Shigella, Pseudomonas, and Citrobacter. The dominant genera in the control group include Faecalibacterium, Prevotella, Roseburia, Clostridium_XlVa, and Blautia. The abundance of three butyrate production-related pathways were significantly higher in the constipation group than in the control groups. There was no significant difference in the diversity and gut microbiota composition in patients with constipation at different ages. In conclusion, patients with constipation showed gut microbiota and butyrate metabolism dysbiosis. This dysbiosis might provide a reference for the diagnosis and clinical therapy of diseases.
+## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project
 
 [Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0009)
 
-10.3920/BM2022.0009
-
 ---
 
-## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis.
- 16.11.2022, _X Liang, Y Fu, WT Cao, Z Wang, K Zhang, Z Jiang, X Jia, CY Liu, HR Lin, H Zhong, Z Miao, W Gou, M Shuai, Y Huang, S Chen, B Zhang, YM Chen, JS Zheng_
-
-
-_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Cross-Sectional Studies, Case-Control Studies, Cognition, Brain_
-Microbiome-gut-brain axis may be involved in the progression of age-related cognitive impairment and relevant brain structure changes, but evidence from large human cohorts is lacking. This study was aimed to investigate the associations of gut microbiome with cognitive impairment and brain structure based on multi-omics from three independent populations.
+## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis
 
 [Source](https://translationalneurodegeneration.biomedcentral.com/articles/10.1186/s40035-022-00323-z)
-
-10.1186/s40035-022-00323-z
 
 ---
 
 ## Microbiome insights into pediatric familial adenomatous polyposis.
- 16.11.2022, _TM Attard, S Septer, CE Lawson, MI Attard, STM Lee, S Umar_
+ 18.11.2022, _TM Attard, S Septer, CE Lawson, MI Attard, STM Lee, S Umar_
 
 
 _Humans, Child, Longitudinal Studies, Adenomatous Polyposis Coli, Biopsy, Microbiota, Tumor Microenvironment_
