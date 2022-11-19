@@ -77,9 +77,16 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## Microbiome insights into pediatric familial adenomatous polyposis
+## Microbiome insights into pediatric familial adenomatous polyposis.
+ 18.11.2022, _TM Attard, S Septer, CE Lawson, MI Attard, STM Lee, S Umar_
+
+
+_Humans, Child, Longitudinal Studies, Adenomatous Polyposis Coli, Biopsy, Microbiota, Tumor Microenvironment_
+Individuals with familial adenomatous polyposis (FAP) harbor numerous polyps with inevitable early progression to colon cancer. Complex microbiotic-tumor microenvironment perturbations suggest a dysbiotic relationship between polyp and microbiome. In this study, we performed comprehensive analyses of stool and tissue microbiome of pediatric FAP subjects and compared with unaffected cohabiting relatives through 16S V4 region amplicon sequencing and machine learning platforms.
 
 [Source](https://ojrd.biomedcentral.com/articles/10.1186/s13023-022-02569-2)
+
+10.1186/s13023-022-02569-2
 
 ---
 
