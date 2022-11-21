@@ -1,169 +1,216 @@
-## Enhancing nutritional niche and host defenses by modifying the gut microbiome.
- 19.11.2022, _Q Sun, NM Vega, B Cervantes, CP Mancuso, N Mao, MN Taylor, JJ Collins, AS Khalil, J Gore, TK Lu_
+## The cancer chemotherapeutic 5-fluorouracil is a potent Fusobacterium nucleatum inhibitor and its activity is modified by intratumoral microbiota.
+ 18.11.2022, _KD LaCourse, M Zepeda-Rivera, AG Kempchinsky, A Baryiames, SS Minot, CD Johnston, S Bullman_
 
 
-_Animals, Gastrointestinal Microbiome, Caenorhabditis elegans, Microbiota, Bacteria_
-The gut microbiome is essential for processing complex food compounds and synthesizing nutrients that the host cannot digest or produce, respectively. New model systems are needed to study how the metabolic capacity provided by the gut microbiome impacts the nutritional status of the host, and to explore possibilities for altering host metabolic capacity via the microbiome. Here, we colonized the nematode Caenorhabditis elegans gut with cellulolytic bacteria that enabled C. elegans to utilize cellulose, an otherwise indigestible substrate, as a carbon source. Cellulolytic bacteria as a community component in the worm gut can also support additional bacterial species with specialized roles, which we demonstrate by using Lactobacillus plantarum to protect C. elegans against Salmonella enterica infection. This work shows that engineered microbiome communities can be used to endow host organisms with novel functions, such as the ability to utilize alternate nutrient sources or to better fight pathogenic bacteria.
+Fusobacterium nucleatum (Fn) is a dominant bacterial species in colorectal cancer (CRC) tissue that is associated with cancer progression and poorer patient prognosis. Following a small-molecule inhibitor screen of 1,846 bioactive compounds against a Fn CRC isolate, we find that 15% of inhibitors are antineoplastic agents including fluoropyrimidines. Validation of these findings reveals that 5-fluorouracil (5-FU), a first-line CRC chemotherapeutic, is a potent inhibitor of Fn CRC isolates. We also identify members of the intratumoral microbiota, including Escherichia coli, that are resistant to 5-FU. Further, CRC E. coli isolates can modify 5-FU and relieve 5-FU toxicity toward otherwise-sensitive Fn and human CRC epithelial cells. Lastly, we demonstrate that ex vivo patient CRC tumor microbiota undergo community disruption after 5-FU exposure and have the potential to deplete 5-FU levels, reducing local drug efficacy. Together, these observations argue for further investigation into the role of the CRC intratumoral microbiota in patient response to chemotherapy.
 
-[Source](https://www.embopress.org/doi/full/10.15252/msb.20209933)
+[Source](https://doi.org/10.1016/j.celrep.2022.111625)
 
-10.15252/msb.20209933
-
----
-
-## Evolution of immune genes is associated with the Black Death
-
-[Source](https://www.nature.com/articles/s41586-022-05349-x)
+10.1016/j.celrep.2022.111625
 
 ---
 
-## Cross-generational bacterial strain transfer to an infant after fecal microbiota transplantation to a pregnant patient: a case report
+## The cancer chemotherapeutic 5-fluorouracil is a potent <em>Fusobacterium nucleatum </em>inhibitor and its activity is modified by intratumoral microbiota
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01394-w)
-
----
-
-## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women
-
-[Source](https://www.liebertpub.com/doi/10.1089/jwh.2022.0114)
+[Source](https://doi.org/10.1016/j.celrep.2022.111625)
 
 ---
 
-## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes
+## Enterococci enhance <em>Clostridioides difficile</em> pathogenesis
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1368837522005358)
-
----
-
-## Making gut microbiomes from scratch
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312822005182)
+[Source](https://doi.org/10.1038/s41586-022-05438-x)
 
 ---
 
-## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and ‘inflammaging’
+## Host biology, ecology and the environment influence microbial biomass and diversity in 101 marine fish species.
+ 18.11.2022, _JJ Minich, A Härer, J Vechinski, BW Frable, ZR Skelton, E Kunselman, MA Shane, DS Perry, A Gonzalez, D McDonald, R Knight, TP Michael, EE Allen_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S2213231722003007)
 
----
+Fish are the most diverse and widely distributed vertebrates, yet little is known about the microbial ecology of fishes nor the biological and environmental factors that influence fish microbiota. To identify factors that explain microbial diversity patterns in a geographical subset of marine fish, we analyzed the microbiota (gill tissue, skin mucus, midgut digesta and hindgut digesta) from 101 species of Southern California marine fishes, spanning 22 orders, 55 families and 83 genera, representing ~25% of local marine fish diversity. We compare alpha, beta and gamma diversity while establishing a method to estimate microbial biomass associated with these host surfaces. We show that body site is the strongest driver of microbial diversity while microbial biomass and diversity is lowest in the gill of larger, pelagic fishes. Patterns of phylosymbiosis are observed across the gill, skin and hindgut. In a quantitative synthesis of vertebrate hindguts (569 species), we also show that mammals have the highest gamma diversity when controlling for host species number while fishes have the highest percent of unique microbial taxa. The composite dataset will be useful to vertebrate microbiota researchers and fish biologists interested in microbial ecology, with applications in aquaculture and fisheries management.
 
-## Dietary fiber ameliorates sleep disturbance connected to the gut–brain axis
+[Source](https://doi.org/10.1038/s41467-022-34557-2)
 
-[Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D2FO01178F)
-
----
-
-## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02686-9)
+10.1038/s41467-022-34557-2
 
 ---
 
-## Relationships between dietary diversity and gut microbial diversity in the elderly
+## Genomic ancestry, diet and microbiomes of Upper Palaeolithic hunter-gatherers from San Teodoro cave.
+ 19.11.2022, _G Scorrano, SH Nielsen, DL Vetro, R Sawafuji, M Mackie, A Margaryan, AK Fotakis, C Martínez-Labarga, PF Fabbri, ME Allentoft, M Carra, F Martini, O Rickards, JV Olsen, MW Pedersen, E Cappellini, M Sikora_
 
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0054)
 
----
+Recent improvements in the analysis of ancient biomolecules from human remains and associated dental calculus have provided new insights into the prehistoric diet and genetic diversity of our species. Here we present a multi-omics study, integrating metagenomic and proteomic analyses of dental calculus, and human ancient DNA analysis of the petrous bones of two post-Last Glacial Maximum (LGM) individuals from San Teodoro cave (Italy), to reconstruct their lifestyle and the post-LGM resettlement of Europe. Our analyses show genetic homogeneity in Sicily during the Palaeolithic, representing a hitherto unknown Italian genetic lineage within the previously identified Villabruna cluster. We argue that this lineage took refuge in Italy during the LGM, followed by a subsequent spread to central-western Europe. Analysis of dental calculus showed a diet rich in animal proteins which is also reflected on the oral microbiome composition. Our results demonstrate the power of this approach in the study of prehistoric humans and will enable future research to reach a more holistic understanding of the population dynamics and ecology.
 
-## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project
+[Source](https://doi.org/10.1038/s42003-022-04190-2)
 
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0009)
-
----
-
-## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis
-
-[Source](https://translationalneurodegeneration.biomedcentral.com/articles/10.1186/s40035-022-00323-z)
+10.1038/s42003-022-04190-2
 
 ---
 
-## Microbiome insights into pediatric familial adenomatous polyposis
+## Gut microbiota analysis for prediction of clinical relapse in Crohn's disease.
+ 19.11.2022, _S Buffet-Bataillon, G Bouguen, F Fleury, V Cattoir, Y Le Cunff_
 
-[Source](https://ojrd.biomedcentral.com/articles/10.1186/s13023-022-02569-2)
 
----
+The role of intestinal bacterial microbiota has been described as key in the pathophysiology of Crohn's disease (CD). CD is characterized by frequent relapses after periods of remission which are not entirely understood. In this paper, we investigate whether the heterogeneity in microbiota profiles in CD patients could be a suitable predictor for these relapses. This prospective observational study involved 259 CD patients, in which 41 provided an additional total of 62 consecutive fecal samples, with an average interval of 25 weeks in between each of these samples. Fecal microbiota was analyzed by massive genomic sequencing through 16 S rRNA amplicon sampling. We found that our 259 CD patients could be split into three distinct subgroups of microbiota (G1, G2, G3). From G1 to G3, we noticed a progressive decrease in alpha diversity (p ≤ 0.0001) but no change in the fecal calprotectin (FC) level. Focusing on the 103 consecutive samples from 41 CD patients, we showed that the patients microbiota profiles were remarkably stable over time and associated with increasing symptom severity. Investigating further this microbiota/severity association revealed that the first signs of aggravation are (1) a loss of the main anti-inflammatory Short-Chain Fatty Acids (SCFAs) Roseburia, Eubacterium, Subdoligranumum, Ruminococcus (P &lt; 0.05), (2) an increase in pro-inflammatory pathogens Proteus, Finegoldia (P &lt; 0.05) while (3) an increase of other minor SCFA producers such as Ezakiella, Anaerococcus, Megasphaera, Anaeroglobus, Fenollaria (P &lt; 0.05). Further aggravation of clinical signs is significantly linked to the subsequent loss of these minor SCFAs species and to an increase in other proinflammatory Proteobacteria such as Klebsiella, Pseudomonas, Salmonella, Acinetobacter, Hafnia and proinflammatory Firmicutes such as Staphylococcus, Enterococcus, Streptococcus. (P &lt; 0.05). To our knowledge, this is the first study (1) specifically identifying subgroups of microbiota profiles in CD patients, (2) relating these groups to the evolution of symptoms over time and (3) showing a two-step process in CD symptoms' worsening. This paves the way towards a better understanding of patient-to-patient heterogeneity, as well as providing early warning signals of future aggravation of the symptoms and eventually adapting empirically treatments.
 
-## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression
+[Source](https://doi.org/10.1038/s41598-022-23757-x)
 
-[Source](https://link.springer.com/article/10.1007/s12094-022-02995-5)
-
----
-
-## Epigenetic regulation by metabolites from the gut microbiome
-
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0006)
+10.1038/s41598-022-23757-x
 
 ---
 
-## A tetrapeptide from maize combined with probiotics exerted strong anti-inflammatory effects and modulated gut microbiota in DSS-induced colitis mice
+## Implications of oral streptococcal bacteriophages in autism spectrum disorder.
+ 19.11.2022, _Z Tong, X Zhou, Y Chu, T Zhang, J Zhang, X Zhao, Z Wang, R Ding, Q Meng, J Yu, J Wang, Y Kang_
 
-[Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D2FO02678C)
 
----
+Growing evidence suggests altered oral and gut microbiota in autism spectrum disorder (ASD), but little is known about the alterations and roles of phages, especially within the oral microbiota in ASD subjects. We enrolled ASD (n = 26) and neurotypical subjects (n = 26) with their oral hygiene controlled, and the metagenomes of both oral and fecal samples (n = 104) are shotgun-sequenced and compared. We observe extensive and diverse oral phageome comparable to that of the gut, and clear signals of mouth-to-gut phage strain transfer within individuals. However, the overall phageomes of the two sites are widely different and show even less similarity in the oral communities between ASD and control subjects. The ASD oral phageome exhibits significantly reduced abundance and alpha diversity, but the Streptococcal phages there are atypically enriched, often dominating the community. The over-representation of Streptococcal phages is accompanied by enriched oral Streptococcal virulence factors and Streptococcus bacteria, all exhibiting a positive correlation with the severity of ASD clinical manifestations. These changes are not observed in the parallel sampling of the gut flora, suggesting a previously unknown oral-specific association between the excessive Streptococcal phage enrichment and ASD pathogenesis. The findings provide new evidence for the independent microbiome-mouth-brain connection, deepen our understanding of how the growth dynamics of bacteriophages and oral microbiota contribute to ASD, and point to novel effective therapeutics.
 
-## IGF1R is a mediator of sex-specific metabolism in mice: Effects of age and high-fat diet
+[Source](https://doi.org/10.1038/s41522-022-00355-3)
 
-[Source](https://www.frontiersin.org/articles/10.3389/fendo.2022.1033208/full)
-
----
-
-## Nutrient dynamics in coral symbiosis depend on both the relative and absolute abundance of Symbiodiniaceae species
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01382-0)
+10.1038/s41522-022-00355-3
 
 ---
 
-## Function-Based Rhizosphere Assembly along a Gradient of Desiccation in the Former Aral Sea
+## Reproducible changes in the anorexia nervosa gut microbiota following inpatient therapy remain distinct from non-eating disorder controls.
+ 18.11.2022, _F Fouladi, EC Bulik-Sullivan, EM Glenny, LM Thornton, KK Reed, S Thomas, S Kleiman, A Watters, J Oakes, EY Huh, Q Tang, J Liu, Z Djukic, L Harper, Y Trillo-Ordoñez, S Sun, I Blakely, PS Mehler, AA Fodor, LM Tarantino, CM Bulik, IM Carroll_
 
-[Source](https://journals.asm.org/doi/10.1128/msystems.00739-22)
 
----
+The composition of the gut microbiota in patients with anorexia nervosa (AN), and the ability of this microbial community to influence the host, remains uncertain. To achieve a broader understanding of the role of the intestinal microbiota in patients with AN, we collected fecal samples before and following clinical treatment at two geographically distinct eating disorder units (Center of Excellence for Eating Disorders [UNC-CH] and ACUTE Center for Eating Disorders [Denver Health]). Gut microbiotas were characterized in patients with AN, before and after inpatient treatment, and in non-eating disorder (non-ED) controls using shotgun metagenomic sequencing. The impact of inpatient treatment on the AN gut microbiota was remarkably consistent between eating disorder units. Although weight in patients with AN showed improvements, AN microbiotas post-treatment remained distinct from non-ED controls. Additionally, AN gut microbiotas prior to treatment exhibited more fermentation pathways and a lower ability to degrade carbohydrates than non-ED controls. As the intestinal microbiota can influence nutrient metabolism, our data highlight the complex microbial communities in patients with AN as an element needing further attention post inpatient treatment. Additionally, this study defines the effects of renourishment on the AN gut microbiota and serves as a platform to develop precision nutrition approaches to potentially mitigate impediments to recovery.
 
-## Metagenomics versus total RNA sequencing: most accurate data-processing tools, microbial identification accuracy and perspectives for ecological assessments
+[Source](https://doi.org/10.1080/19490976.2022.2143217)
 
-[Source](https://academic.oup.com/nar/article/50/16/9279/6671113)
-
----
-
-## Metagenome-assembled genome extraction and analysis from microbiomes using KBase
-
-[Source](https://www.nature.com/articles/s41596-022-00747-x)
+10.1080/19490976.2022.2143217
 
 ---
 
-## SourceFinder: a Machine-Learning-Based Tool for Identification of Chromosomal, Plasmid, and Bacteriophage Sequences from Assemblies.
- 15.11.2022, _D Aytan-Aktug, V Grigorjev, J Szarvas, PTLC Clausen, P Munk, M Nguyen, JJ Davis, FM Aarestrup, O Lund_
+## Nasal microbiome disruption and recovery after mupirocin treatment in <em>Staphylococcus aureus</em> carriers and noncarriers
 
-
-High-throughput genome sequencing technologies enable the investigation of complex genetic interactions, including the horizontal gene transfer of plasmids and bacteriophages. However, identifying these elements from assembled reads remains challenging due to genome sequence plasticity and the difficulty in assembling complete sequences. In this study, we developed a classifier, using random forest, to identify whether sequences originated from bacterial chromosomes, plasmids, or bacteriophages. The classifier was trained on a diverse collection of 23,211 chromosomal, plasmid, and bacteriophage sequences from hundreds of bacterial species. In order to adapt the classifier to incomplete sequences, each complete sequence was subsampled into 5,000 nucleotide fragments and further subdivided into k-mers. This three-class classifier succeeded in identifying chromosomes, plasmids, and bacteriophages using k-mer distributions of complete and partial genome sequences, including simulated metagenomic scaffolds with minimum performance of 0.939 area under the receiver operating characteristic curve (AUC). This classifier, implemented as SourceFinder, has been made available as an online web service to help the community with predicting the chromosomal, plasmid, and bacteriophage sources of assembled bacterial sequence data (https://cge.food.dtu.dk/services/SourceFinder/). IMPORTANCE Extra-chromosomal genes encoding antimicrobial resistance, metal resistance, and virulence provide selective advantages for bacterial survival under stress conditions and pose serious threats to human and animal health. These accessory genes can impact the composition of microbiomes by providing selective advantages to their hosts. Accurately identifying extra-chromosomal elements in genome sequence data are critical for understanding gene dissemination trajectories and taking preventative measures. Therefore, in this study, we developed a random forest classifier for identifying the source of bacterial chromosomal, plasmid, and bacteriophage sequences.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02641-22)
-
-10.1128/spectrum.02641-22
+[Source](https://doi.org/10.1038/s41598-022-21453-4)
 
 ---
 
-## TaxiBGC: a Taxonomy-Guided Approach for Profiling Experimentally Characterized Microbial Biosynthetic Gene Clusters and Secondary Metabolite Production Potential in Metagenomes.
- 15.11.2022, _VK Gupta, U Bakshi, D Chang, AR Lee, JM Davis, S Chandrasekaran, YS Jin, MF Freeman, J Sung_
+## BlpC-mediated selfish program leads to rapid loss of <em>Streptococcus pneumoniae</em> clonal diversity during infection
 
-
-Biosynthetic gene clusters (BGCs) in microbial genomes encode bioactive secondary metabolites (SMs), which can play important roles in microbe-microbe and host-microbe interactions. Given the biological significance of SMs and the current profound interest in the metabolic functions of microbiomes, the unbiased identification of BGCs from high-throughput metagenomic data could offer novel insights into the complex chemical ecology of microbial communities. Currently available tools for predicting BGCs from shotgun metagenomes have several limitations, including the need for computationally demanding read assembly, predicting a narrow breadth of BGC classes, and not providing the SM product. To overcome these limitations, we developed taxonomy-guided identification of biosynthetic gene clusters (TaxiBGC), a command-line tool for predicting experimentally characterized BGCs (and inferring their known SMs) in metagenomes by first pinpointing the microbial species likely to harbor them. We benchmarked TaxiBGC on various simulated metagenomes, showing that our taxonomy-guided approach could predict BGCs with much-improved performance (mean F1 score, 0.56; mean PPV score, 0.80) compared with directly identifying BGCs by mapping sequencing reads onto the BGC genes (mean F1 score, 0.49; mean PPV score, 0.41). Next, by applying TaxiBGC on 2,650 metagenomes from the Human Microbiome Project and various case-control gut microbiome studies, we were able to associate BGCs (and their SMs) with different human body sites and with multiple diseases, including Crohn's disease and liver cirrhosis. In all, TaxiBGC provides an in silico platform to predict experimentally characterized BGCs and their SM production potential in metagenomic data while demonstrating important advantages over existing techniques. IMPORTANCE Currently available bioinformatics tools to identify BGCs from metagenomic sequencing data are limited in their predictive capability or ease of use to even computationally oriented researchers. We present an automated computational pipeline called TaxiBGC, which predicts experimentally characterized BGCs (and infers their known SMs) in shotgun metagenomes by first considering the microbial species source. Through rigorous benchmarking techniques on simulated metagenomes, we show that TaxiBGC provides a significant advantage over existing methods. When demonstrating TaxiBGC on thousands of human microbiome samples, we associate BGCs encoding bacteriocins with different human body sites and diseases, thereby elucidating a possible novel role of this antibiotic class in maintaining the stability of microbial ecosystems throughout the human body. Furthermore, we report for the first time gut microbial BGC associations shared among multiple pathologies. Ultimately, we expect our tool to facilitate future investigations into the chemical ecology of microbial communities across diverse niches and pathologies.
-
-[Source](https://journals.asm.org/doi/10.1128/msystems.00925-22)
-
-10.1128/msystems.00925-22
+[Source](https://doi.org/10.1016/j.chom.2022.10.015)
 
 ---
 
-## Optimization of Low-Biomass Sample Collection and Quantitative PCR-Based Titration Impact 16S rRNA Microbiome Resolution.
- 15.11.2022, _BGJ Clokie, A Elsheshtawy, A Albalat, A Nylund, A Beveridge, CJ Payne, S MacKenzie_
+## Treasures from trash in cancer research
+
+[Source](https://doi.org/10.18632/oncotarget.28308)
+
+---
+
+## Human Gut Metagenomes Encode Diverse GH156 Sialidases
+
+[Source](https://doi.org/10.1128/aem.01755-22)
+
+---
+
+## Species-Specific Patterns of Gut Metabolic Modules in Dutch Individuals with Different Dietary Habits.
+ 17.11.2022, _SA Shetty, PB Stege, J Hordijk, E Gijsbers, CM Dierikx, E van Duijkeren, E Franz, RJL Willems, FL Paganelli, S Fuentes_
 
 
-The major aquatic interface between host and environment in teleost finfish species is the gill. The diversity of this infraclass, high complexity of the organ, and its direct exposure to the surrounding environment make it an ideal candidate for furthering our understanding of the intertwined relationships between host and microbiome. Capturing the structure and diversity of bacterial communities from this low-biomass, inhibitor-rich tissue can, however, prove challenging. Lessons learned in doing so are directly applicable to similar sample types in other areas of microbiology. Through the development of a quantitative PCR assay for both host material and 16S rRNA genes, we tested and developed a robust method for low-biomass sample collection which minimized host DNA contamination. Quantification of 16S rRNA facilitated not only the screening of samples prior to costly library construction and sequencing but also the production of equicopy libraries based on 16S rRNA gene copies. A significant increase in diversity of bacteria captured was achieved, providing greater information on the true structure of the microbial community. Such findings offer important information for determining functional processes. Results were confirmed across fresh, brackish, and marine environs with four different fish species, with results showing broad homology between samples, demonstrating the robustness of the approach. Evidence presented is widely applicable to samples similar in composition, such as sputum or mucus, or those that are challenging due to the inherent inclusion of inhibitors. IMPORTANCE The interaction between the fish gill and surrounding bacteria-rich water provides an intriguing model for examining the interaction between the fish, free-floating bacteria, and the bacterial microbiome on the gill surface. Samples that are inherently low in bacteria, or that have components that inhibit the ability to produce libraries that identify the components of microbial communities, present significant challenges. Gill samples present both of these types of challenges. We developed methods for quantifying both the bacterial and host DNA material and established a sampling method which both reduced inhibitor content and maximized bacterial diversity. By quantifying and normalizing bacteria prior to library construction, we showed significant improvements with regards to the fidelity of the final data. Our results support wide-ranging applications for analyzing samples of similar composition, such as mucus and sputum, in other microbiological spheres.
+Diet is an important determinant of the human gut microbiome. Here, we analyzed fecal metagenomes of Dutch adults following omnivorous, pescatarian, vegan, and vegetarian diets. We compared the taxonomic composition of individuals from our study with publicly available gut metagenomes from westernized and non-westernized societies. We observed that, despite long-term transition to diets rich in plant fibers (vegan or vegetarian), the microbiomes of these were typical of westernized populations, and similar in composition to omnivores. Although there were no major differences in metabolic modules, we identified differences in the species that contributed to particular functions, such as carbohydrate degradation and short-chain fatty acid metabolism. Overall, this study shows functional redundancy of the microbiomes among westernized populations, which is independent of long-term individual dietary habits. IMPORTANCE Diet is an important modulator of the human gut microbiome, which is susceptible to increased consumption of plant fibers in vegan or vegetarian lifestyles. To investigate this, we compared the gut microbiome of Dutch adults following omnivorous, pescatarian, vegan and vegetarian diets. We did not observe major differences in the gut microbiome composition and function between individuals with different dietary habits. However, we observed differences in the species that contribute to the core functions of the gut microbiome. Our study thus emphasizes the need to better understand the species-specific functional changes associated with dietary habits in the human gut microbiome.
 
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02255-22)
+[Source](https://doi.org/10.1128/msphere.00512-22)
 
-10.1128/spectrum.02255-22
+10.1128/msphere.00512-22
+
+---
+
+## Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer.
+ 19.11.2022, _JL Galeano Niño, H Wu, KD LaCourse, AG Kempchinsky, A Baryiames, B Barber, N Futran, J Houlton, C Sather, E Sicinska, A Taylor, SS Minot, CD Johnston, S Bullman_
+
+
+The tumour-associated microbiota is an intrinsic component of the tumour microenvironment across human cancer types1,2. Intratumoral host-microbiota studies have so far largely relied on bulk tissue analysis1-3, which obscures the spatial distribution and localized effect of the microbiota within tumours. Here, by applying in situ spatial-profiling technologies4 and single-cell RNA sequencing5 to oral squamous cell carcinoma and colorectal cancer, we reveal spatial, cellular and molecular host-microbe interactions. We adapted 10x Visium spatial transcriptomics to determine the identity and in situ location of intratumoral microbial communities within patient tissues. Using GeoMx digital spatial profiling6, we show that bacterial communities populate microniches that are less vascularized, highly immuno‑suppressive and associated with malignant cells with lower levels of Ki-67 as compared to bacteria-negative tumour regions. We developed a single-cell RNA-sequencing method that we name INVADEseq (invasion-adhesion-directed expression sequencing) and, by applying this to patient tumours, identify cell-associated bacteria and the host cells with which they interact, as well as uncovering alterations in transcriptional pathways that are involved in inflammation, metastasis, cell dormancy and DNA repair. Through functional studies, we show that cancer cells that are infected with bacteria invade their surrounding environment as single cells and recruit myeloid cells to bacterial regions. Collectively, our data reveal that the distribution of the microbiota within a tumour is not random; instead, it is highly organized in microniches with immune and epithelial cell functions that promote cancer progression.
+
+[Source](https://doi.org/10.1038/s41586-022-05435-0)
+
+10.1038/s41586-022-05435-0
+
+---
+
+## Broad-spectrum antibiotics associated gut microbiome disturbance impairs T cell immunity and promotes lung cancer metastasis: a retrospective study.
+ 20.11.2022, _K Xu, J Cai, J Xing, X Li, B Wu, Z Zhu, Z Zhang_
+
+
+Gut microbiome has been linked to a regulatory role in cancer progression. However, whether broad-spectrum antibiotics (ATB) associated gut microbiome dysbiosis contributes to an impaired T cell immune function, and ultimately promotes lung cancer metastasis is not well known.
+
+[Source](https://doi.org/10.1186/s12885-022-10307-x)
+
+10.1186/s12885-022-10307-x
+
+---
+
+## Diet-induced modifications to human microbiome reshape colonic homeostasis in irritable bowel syndrome.
+ 18.11.2022, _H Bootz-Maoz, A Pearl, E Melzer, S Malnick, E Sharon, Y Bennet, R Tsentsarevsky, S Abuchatzera, S Amidror, E Aretz, S Azriel, C Gam Ze Letova, M Naama, I Shoval, O Yaron, S Karako-Lampert, S Bel, N Yissachar_
+
+
+Changes in microbiome composition are associated with a wide array of human diseases, turning the human microbiota into an attractive target for therapeutic intervention. Yet, clinical translation of these findings requires the establishment of causative connections between specific microbial taxa and their functional impact on host tissues. Here, we infuse gut organ cultures with longitudinal microbiota samples collected from therapy-naive patients with irritable bowel syndrome (IBS) under a low-fermentable oligo-, di-, mono-saccharides and polyols (FODMAP) diet. We show that post-diet microbiota regulates intestinal expression of inflammatory and neuro-muscular gene sets. Specifically, we identify Bifidobacterium adolescentis as a diet-sensitive pathobiont that alters tight junction integrity and disrupts gut barrier functions. Collectively, we present a pathway discovery platform for mechanistic dissection and identification of functional diet-host-microbiota modules. Our data support the hypothesis that the gut microbiota mediates the beneficial effects of a low-FODMAP diet and reinforce the potential feasibility of microbiome-based therapies in IBS.
+
+[Source](https://doi.org/10.1016/j.celrep.2022.111657)
+
+10.1016/j.celrep.2022.111657
+
+---
+
+## The dynamic lung microbiome in health and disease.
+ 19.11.2022, _JG Natalini, S Singh, LN Segal_
+
+
+New methods and technologies within the field of lung biology are beginning to shed new light into the microbial world of the respiratory tract. Long considered to be a sterile environment, it is now clear that the human lungs are frequently exposed to live microbes and their by-products. The nature of the lung microbiome is quite distinct from other microbial communities inhabiting our bodies such as those in the gut. Notably, the microbiome of the lung exhibits a low biomass and is dominated by dynamic fluxes of microbial immigration and clearance, resulting in a bacterial burden and microbiome composition that is fluid in nature rather than fixed. As our understanding of the microbial ecology of the lung improves, it is becoming increasingly apparent that certain disease states can disrupt the microbial-host interface and ultimately affect disease pathogenesis. In this Review, we provide an overview of lower airway microbial dynamics in health and disease and discuss future work that is required to uncover novel therapeutic targets to improve lung health.
+
+[Source](https://doi.org/10.1038/s41579-022-00821-x)
+
+10.1038/s41579-022-00821-x
+
+---
+
+## Modulation of gut microbiota, blood metabolites, and disease resistance by dietary β-glucan in rainbow trout (<em>Oncorhynchus mykiss</em>)
+
+[Source](https://doi.org/10.1186/s42523-022-00209-5)
+
+---
+
+## Living in honey: bacterial and fungal communities in honey of sympatric populations of <em>Apis mellifera</em> and the stingless bee <em>Melipona beecheii</em>, in Yucatan, Mexico
+
+[Source](https://doi.org/10.1007/s00203-022-03319-5)
+
+---
+
+## The involvement of organic acids in soil fertility, plant health and environment sustainability
+
+[Source](https://doi.org/10.1007/s00203-022-03321-x)
+
+---
+
+## Investigating the impact of database choice on the accuracy of metagenomic read classification for the rumen microbiome.
+ 19.11.2022, _RH Smith, L Glendinning, AW Walker, M Watson_
+
+
+Microbiome analysis is quickly moving towards high-throughput methods such as metagenomic sequencing. Accurate taxonomic classification of metagenomic data relies on reference sequence databases, and their associated taxonomy. However, for understudied environments such as the rumen microbiome many sequences will be derived from novel or uncultured microbes that are not present in reference databases. As a result, taxonomic classification of metagenomic data from understudied environments may be inaccurate. To assess the accuracy of taxonomic read classification, this study classified metagenomic data that had been simulated from cultured rumen microbial genomes from the Hungate collection. To assess the impact of reference databases on the accuracy of taxonomic classification, the data was classified with Kraken 2 using several reference databases. We found that the choice and composition of reference database significantly impacted on taxonomic classification results, and accuracy. In particular, NCBI RefSeq proved to be a poor choice of database. Our results indicate that inaccurate read classification is likely to be a significant problem, affecting all studies that use insufficient reference databases. We observed that adding cultured reference genomes from the rumen to the reference database greatly improved classification rate and accuracy. We also demonstrated that metagenome-assembled genomes (MAGs) have the potential to further enhance classification accuracy by representing uncultivated microbes, sequences of which would otherwise be unclassified or incorrectly classified. However, classification accuracy was strongly dependent on the taxonomic labels assigned to these MAGs. We therefore highlight the importance of accurate reference taxonomic information and suggest that, with formal taxonomic lineages, MAGs have the potential to improve classification rate and accuracy, particularly in environments such as the rumen that are understudied or contain many novel genomes.
+
+[Source](https://doi.org/10.1186/s42523-022-00207-7)
+
+10.1186/s42523-022-00207-7
+
+---
+
+## dbCAN-seq update: CAZyme gene clusters and substrates in microbiomes.
+ 18.11.2022, _J Zheng, B Hu, X Zhang, Q Ge, Y Yan, J Akresi, V Piyush, L Huang, Y Yin_
+
+
+Carbohydrate Active EnZymes (CAZymes) are significantly important for microbial communities to thrive in carbohydrate rich environments such as animal guts, agricultural soils, forest floors, and ocean sediments. Since 2017, microbiome sequencing and assembly have produced numerous metagenome assembled genomes (MAGs). We have updated our dbCAN-seq database (https://bcb.unl.edu/dbCAN_seq) to include the following new data and features: (i) ∼498 000 CAZymes and ∼169 000 CAZyme gene clusters (CGCs) from 9421 MAGs of four ecological (human gut, human oral, cow rumen, and marine) environments; (ii) Glycan substrates for 41 447 (24.54%) CGCs inferred by two novel approaches (dbCAN-PUL homology search and eCAMI subfamily majority voting) (the two approaches agreed on 4183 CGCs for substrate assignments); (iii) A redesigned CGC page to include the graphical display of CGC gene compositions, the alignment of query CGC and subject PUL (polysaccharide utilization loci) of dbCAN-PUL, and the eCAMI subfamily table to support the predicted substrates; (iv) A statistics page to organize all the data for easy CGC access according to substrates and taxonomic phyla; and (v) A batch download page. In summary, this updated dbCAN-seq database highlights glycan substrates predicted for CGCs from microbiomes. Future work will implement the substrate prediction function in our dbCAN2 web server.
+
+[Source](https://doi.org/10.1093/nar/gkac1068)
+
+10.1093/nar/gkac1068
+
+---
+
+## Gene co-expression network analysis of the human gut commensal bacterium <em>Faecalibacterium prausnitzii</em> in R-Shiny
+
+[Source](https://doi.org/10.1371/journal.pone.0271847)
 
 ---
 
