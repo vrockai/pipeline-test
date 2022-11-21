@@ -23,52 +23,27 @@ The gut microbiome is essential for processing complex food compounds and synthe
 
 ---
 
-## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women.
- 14.11.2022, _R Yoshikata, M Yamaguchi, Y Mase, A Tatsuzuki, KZY Myint, H Ohta_
-
-
-Objective: The ideal vaginal environment is maintained by Lactobacillus species, which keep the vagina clean and free of infections, boost fertility and immunity. Age-related decline in estrogen affects Lactobacillus population, leading to dominance of nonoptimal species and increased diversity in vaginal microbiota. In this study, we compared the differences between the vaginal microbiota of pre- and postmenopausal women. We also examined the relationships between vaginal and gut microbiota, their relationships with sex hormones and equol-producing ability. Materials and Methods: This was a cross-sectional study of 35 premenopausal and 35 postmenopausal women (age range: 27-76 years). We compared parameters such as the composition of the gut and vaginal microbiota, vaginal pH, estradiol, follicular stimulating hormone, and urinary equol concentration. Results: In the vaginal microbiota of premenopausal women, Lactobacillus species constituted ∼71.98%, and nonoptimal species constituted ∼16.87%. They were 10.08% and 26.78%, respectively, in the vaginal microbiota of postmenopausal women. The proportion of Lactobacillus was significantly low, whereas microbial diversity and vaginal pH were significantly high (p &lt; 0.0001) in postmenopausal women. The compositions of the vaginal microbiota were significantly different in pre- and postmenopausal women. However, such differences were not noticeable in the gut microbiota. Urinary equol production had no significant correlation with vaginal microbiota, although it had significant relationships with gut microbiota in postmenopausal women. In both groups, the proportions of vaginal Lactobacillus were inversely correlated with vaginal microbial diversity and vaginal pH. Conclusion: Postmenopausal women had significantly low Lactobacillus and high nonoptimal species in their vaginal flora, whereas such age-related differences were not identified in gut microbiota. Urinary equol concentration had significant correlation with gut microbiota in postmenopausal women only. This study was registered with the University Hospital Medical Information Network (UMIN) Clinical Trial Registry (Trial registration No.: UMIN000043944).
+## Age-Related Changes, Influencing Factors, and Crosstalk Between Vaginal and Gut Microbiota: A Cross-Sectional Comparative Study of Pre- and Postmenopausal Women
 
 [Source](https://www.liebertpub.com/doi/10.1089/jwh.2022.0114)
 
-10.1089/jwh.2022.0114
-
 ---
 
-## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes.
- 18.11.2022, _JYK Chan, MK Cheung, L Lan, C Ng, EHL Lau, ZWC Yeung, EWY Wong, L Leung, X Qu, L Cai, H Zhu, SS Boon, RD Burk, PKS Chan, Z Chen_
-
-
-To investigate the interplay among the oral microbiota, HPV infection, traditional risk factors and patient outcomes in head and neck squamous cell carcinoma (HNSCC).
+## Characterization of oral microbiota in HPV and non-HPV head and neck squamous cell carcinoma and its association with patient outcomes
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1368837522005358)
 
-10.1016/j.oraloncology.2022.106245
-
 ---
 
-## Making gut microbiomes from scratch.
- 16.11.2022, _S Tian, JE Bisanz_
-
-
-_Gastrointestinal Microbiome, Microbiota_
-Studying the microbiome presents a challenge: how do we untangle the interactions of microbes at ecologically relevant scales? We highlight research by Afrizal et al. and Cheng et al., which help to solve this problem through the generation and characterization of complex synthetic communities derived from lab-grown microbes.
+## Making gut microbiomes from scratch
 
 [Source](https://www.sciencedirect.com/science/article/abs/pii/S1931312822005182)
 
-10.1016/j.chom.2022.10.005
-
 ---
 
-## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and 'inflammaging'.
- 16.11.2022, _A Brandt, A Baumann, A Hernández-Arriaga, F Jung, A Nier, R Staltner, D Rajcic, C Schmeer, OW Witte, B Wessner, B Franzke, KH Wagner, A Camarinha-Silva, I Bergheim_
-
-
-Aging is considered a state of low grade inflammation, occurring in the absence of any overt infection often referred to as 'inflammaging'. Maintaining intestinal homeostasis may be a target to extend a healthier status in older adults. Here, we report that even in healthy older men low grade bacterial endotoxemia is prevalent. In addition, employing multiple mouse models, we also show that while intestinal microbiota composition changes significantly during aging, fecal microbiota transplantation to old mice does not protect against aging-associated intestinal barrier dysfunction in small intestine. Rather, intestinal NO homeostasis and arginine metabolism mediated through arginase and NO synthesis is altered in small intestine of aging mice. Treatment with the arginase inhibitor norNOHA prevented aging-associated intestinal barrier dysfunction, low grade endotoxemia and delayed the onset of senescence in peripheral tissue e.g., liver. Intestinal arginine and NO metabolisms could be a target in the prevention of aging-associated intestinal barrier dysfunction and subsequently decline and 'inflammaging'.
+## Impairments of intestinal arginine and NO metabolisms trigger aging-associated intestinal barrier dysfunction and ‘inflammaging’
 
 [Source](https://www.sciencedirect.com/science/article/pii/S2213231722003007)
-
-10.1016/j.redox.2022.102528
 
 ---
 
@@ -78,28 +53,9 @@ Aging is considered a state of low grade inflammation, occurring in the absence 
 
 ---
 
-## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases.
- 18.11.2022, _X Cheng, Y Zhang, Y Li, Q Wu, J Wu, SK Park, C Guo, J Lu_
-
-
-_Humans, RNA, Ribosomal, 16S, Gastrointestinal Microbiome, COVID-19, Dysbiosis, Bacteria, Feces_
-Dozens of studies have demonstrated gut dysbiosis in COVID-19 patients during the acute and recovery phases. However, a consensus on the specific COVID-19 associated bacteria is missing. In this study, we performed a meta-analysis to explore whether robust and reproducible alterations in the gut microbiota of COVID-19 patients exist across different populations.
+## Meta-analysis of 16S rRNA microbial data identified alterations of the gut microbiota in COVID-19 patients during the acute and recovery phases
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02686-9)
-
-10.1186/s12866-022-02686-9
-
----
-
-## Gut microbial evidence chain in high-salt diet exacerbates intestinal aging process.
- 18.11.2022, _TH Liu, L Zhao, CY Zhang, XY Li, TL Wu, YY Dai, YY Sheng, YL Ren, YZ Xue_
-
-
-Although excessive salt consumption appears to hasten intestinal aging and increases susceptibility to cardiovascular disease, the molecular mechanism is unknown. In this study, mutual validation of high salt (HS) and aging fecal microbiota transplantation (FMT) in C56BL/6 mice was used to clarify the molecular mechanism by which excessive salt consumption causes intestinal aging. Firstly, we observed HS causes vascular endothelial damage and can accelerate intestinal aging associated with decreased colon and serum expression of superoxide dismutase (SOD), glutathione peroxidase (GSH-Px), and increased malondialdehyde (MDA); after transplantation with HS fecal microbiota in mice, vascular endothelial damage and intestinal aging can also occur. Secondly, we also found intestinal aging and vascular endothelial damage in older mice aged 14 months; and after transplantation of the older mice fecal microbiota, the same effect was observed in mice aged 6-8 weeks. Meanwhile, HS and aging significantly changed gut microbial diversity and composition, which was transferable by FMT. Eventually, based on the core genera both in HS and the aging gut microbiota network, a machine learning model was constructed which could predict HS susceptibility to intestinal aging. Further investigation revealed that the process of HS-related intestinal aging was highly linked to the signal transduction mediated by various bacteria. In conclusion, the present study provides an experimental basis of potential microbial evidence in the process of HS related intestinal aging. Even, avoiding excessive salt consumption and actively intervening in gut microbiota alteration may assist to delay the aging state that drives HS-related intestinal aging in clinical practice.
-
-[Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0054)
-
-10.3389/fnut.2022.1046833
 
 ---
 
@@ -109,140 +65,69 @@ Although excessive salt consumption appears to hasten intestinal aging and incre
 
 ---
 
-## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project.
- 15.11.2022, _YS Xu, YH Wang, Y Liu, X Sun, JS Xu, Y Song, X Jiang, ZF Xiong, ZB Tian, CP Zhang_
-
-
-There is limited information is known about the composition difference of the gut microbiota in patients with constipation and healthy controls. Here, the faecal 16S rRNA fastq sequence data of microbiota from the publicly available American Gut Project (AGP) were analysed. The tendency score matching (PSM) method was used to match in a 1:1 manner to control for confounding factors age, gender, body mass index (BMI), and country. A total of 524 participants including 262 patients with constipation and 262 healthy controls were included in this analysis. The richness and evenness of the gut microbiota in the constipation group were significantly lower than those in the control group. The dominant genera in the constipation group include Escherichia_Shigella, Pseudomonas, and Citrobacter. The dominant genera in the control group include Faecalibacterium, Prevotella, Roseburia, Clostridium_XlVa, and Blautia. The abundance of three butyrate production-related pathways were significantly higher in the constipation group than in the control groups. There was no significant difference in the diversity and gut microbiota composition in patients with constipation at different ages. In conclusion, patients with constipation showed gut microbiota and butyrate metabolism dysbiosis. This dysbiosis might provide a reference for the diagnosis and clinical therapy of diseases.
+## Alteration of the faecal microbiota composition in patients with constipation: evidence of American Gut Project
 
 [Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0009)
 
-10.3920/BM2022.0009
-
 ---
 
-## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis.
- 18.11.2022, _X Liang, Y Fu, WT Cao, Z Wang, K Zhang, Z Jiang, X Jia, CY Liu, HR Lin, H Zhong, Z Miao, W Gou, M Shuai, Y Huang, S Chen, B Zhang, YM Chen, JS Zheng_
-
-
-_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Cross-Sectional Studies, Case-Control Studies, Cognition, Brain_
-Microbiome-gut-brain axis may be involved in the progression of age-related cognitive impairment and relevant brain structure changes, but evidence from large human cohorts is lacking. This study was aimed to investigate the associations of gut microbiome with cognitive impairment and brain structure based on multi-omics from three independent populations.
+## Gut microbiome, cognitive function and brain structure: a multi-omics integration analysis
 
 [Source](https://translationalneurodegeneration.biomedcentral.com/articles/10.1186/s40035-022-00323-z)
 
-10.1186/s40035-022-00323-z
-
 ---
 
-## Microbiome insights into pediatric familial adenomatous polyposis.
- 18.11.2022, _TM Attard, S Septer, CE Lawson, MI Attard, STM Lee, S Umar_
-
-
-_Humans, Child, Longitudinal Studies, Adenomatous Polyposis Coli, Biopsy, Microbiota, Tumor Microenvironment_
-Individuals with familial adenomatous polyposis (FAP) harbor numerous polyps with inevitable early progression to colon cancer. Complex microbiotic-tumor microenvironment perturbations suggest a dysbiotic relationship between polyp and microbiome. In this study, we performed comprehensive analyses of stool and tissue microbiome of pediatric FAP subjects and compared with unaffected cohabiting relatives through 16S V4 region amplicon sequencing and machine learning platforms.
+## Microbiome insights into pediatric familial adenomatous polyposis
 
 [Source](https://ojrd.biomedcentral.com/articles/10.1186/s13023-022-02569-2)
 
-10.1186/s13023-022-02569-2
-
 ---
 
-## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression.
- 15.11.2022, _X Wen, X Ye, X Yang, R Jiang, C Qian, X Wang_
-
-
-Different types of cells that are involved in tumor immunity play a significant part in antitumor therapy. The intestinal microbiota consist of the trillions of diverse microorganisms that inhabit the gastrointestinal tract. Recently, much emphasis has been paid to the link between these symbionts and colorectal cancer (CRC). This association might be anything from oncogenesis and cancer development to resistance or susceptibility to chemotherapeutic medicines. Cancer patients have a significantly different microbial composition in their guts compared to healthy persons. The microbiome may play a role in the development and development of cancer through the modulation of tumor immunosurveillance, as shown by these studies; however, the specific processes underlying this role are still poorly understood. This review focuses on the relationship between the intestinal bacterial microbiota and immune cells to determine how the commensal microbiome influences the initiation and development of CRC.
+## The crosstalk between intestinal bacterial microbiota and immune cells in colorectal cancer progression
 
 [Source](https://link.springer.com/article/10.1007/s12094-022-02995-5)
 
-10.1007/s12094-022-02995-5
-
 ---
 
-## Epigenetic regulation by metabolites from the gut microbiome.
- 15.11.2022, _C Marín-Tello, P Jintaridth, F Sanchez, C González, L Zelada-Castillo, A Vásquez-Arqueros, A Guevara-Vásquez, A Vieira_
-
-
-The gut microbiome can metabolise food components, such as dietary fibres and various phytochemicals; and the microbiome can also synthesise some nutrients, for example B vitamins. The metabolites produced by bacteria and other micro-organisms in the colon can have implications for health and disease risk. Some of these metabolites are epigenetically active, and can contribute to changes in the chemical modification and structure of chromatin by affecting the activity and expression of epigenetically-active enzymes, for example histone deacetylases and DNA methyltransferases. The epigenetic activity of such gut microbiome metabolites is reviewed herein.
+## Epigenetic regulation by metabolites from the gut microbiome
 
 [Source](https://www.wageningenacademic.com/doi/10.3920/BM2022.0006)
 
-10.3920/BM2022.0006
-
 ---
 
-## A tetrapeptide from maize combined with probiotics exerted strong anti-inflammatory effects and modulated gut microbiota in DSS-induced colitis mice.
- 14.11.2022, _Z Li, S Zhang, L Xu, X Fang, Y Wan, D Yu, Y Guo_
-
-
-Ulcerative colitis (UC) is a chronic inflammatory bowel disease characterized by recurrent gastrointestinal inflammation caused by abnormal immune response, and patients usually have intestinal flora imbalance. At present, the pathogenesis of UC is not well understood, and it appears that there is chronic activation of the immune and inflammatory cascade in genetically susceptible individuals. Some food supplements such as specific peptides and probiotics have been investigated and shown the potential for the treatment of UC. The purpose of this study is to investigate the therapeutic effect and potential mechanism of tetrapeptide from maize (TPM) and probiotic treatment on dextran sulfate sodium (DSS)-induced UC in C57BL/6J mice. Our results indicated that the therapeutic effects of TPM and probiotics are positively associated with a reduction in pro-inflammatory cytokine levels and restoration of the gut microbiota. Treatment with TPM or probiotics effectively alleviated the adverse effects of UC, including weight loss, shortened colon length, and colon and kidney tissue damage in mice. Additionally, both TPM and probiotics significantly reduced pro-inflammatory cytokine levels and oxidative stress in UC mice, and the effect was more pronounced when both were used together. Moreover, co-treatment with TPM and probiotics increased the diversity of gut microbes in UC mice, reduced the ratio of Firmicutes to Bacteroidetes (F/B) and increased the abundance of bacterial species, including Muribaculaceae, Alistipes, Ligilactobacillus and Lactobacillus, and has been shown to be beneficial for a variety of pathological conditions.
+## A tetrapeptide from maize combined with probiotics exerted strong anti-inflammatory effects and modulated gut microbiota in DSS-induced colitis mice
 
 [Source](https://pubs.rsc.org/en/content/articlelanding/2022/FO/D2FO02678C)
 
-10.1039/d2fo02678c
-
 ---
 
-## IGF1R is a mediator of sex-specific metabolism in mice: Effects of age and high-fat diet.
- 13.11.2022, _P Pérez-Matute, IP López, M Íñiguez, E Recio-Fernández, R Torrens, S Piñeiro-Hermida, E Alfaro-Arnedo, L Chau, C Walz, A Hoeflich, JA Oteo, JG Pichel_
-
-
-_Female, Mice, Male, Animals, Diet, High-Fat, Obesity, Adiposity, Insulin Resistance, Insulin_
-We aimed to investigate the short and long-term metabolic consequences of IGF1R systemic gene deficiency in mice.
+## IGF1R is a mediator of sex-specific metabolism in mice: Effects of age and high-fat diet
 
 [Source](https://www.frontiersin.org/articles/10.3389/fendo.2022.1033208/full)
 
-10.3389/fendo.2022.1033208
-
 ---
 
-## Nutrient dynamics in coral symbiosis depend on both the relative and absolute abundance of Symbiodiniaceae species.
- 10.11.2022, _SE McIlroy, CP terHorst, M Teece, MA Coffroth_
-
-
-_Animals, Anthozoa, Symbiosis, Dinoflagellida, Nitrogen, Carbon, Nutrients, Coral Reefs_
-Symbionts provide a variety of reproductive, nutritional, and defensive resources to their hosts, but those resources can vary depending on symbiont community composition. As genetic techniques open our eyes to the breadth of symbiont diversity within myriad microbiomes, symbiosis research has begun to consider what ecological mechanisms affect the identity and relative abundance of symbiont species and how this community structure impacts resource exchange among partners. Here, we manipulated the in hospite density and relative ratio of two species of coral endosymbionts (Symbiodinium microadriaticum and Breviolum minutum) and used stable isotope enrichment to trace nutrient exchange with the host, Briareum asbestinum.
+## Nutrient dynamics in coral symbiosis depend on both the relative and absolute abundance of Symbiodiniaceae species
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01382-0)
 
-10.1186/s40168-022-01382-0
-
 ---
 
-## Function-Based Rhizosphere Assembly along a Gradient of Desiccation in the Former Aral Sea.
- 15.11.2022, _WA Wicaksono, D Egamberdieva, C Berg, M Mora, P Kusstatscher, T Cernava, G Berg_
-
-
-The desiccation of the Aral Sea represents one of the largest human-made environmental regional disasters. The salt- and toxin-enriched dried-out basin provides a natural laboratory for studying ecosystem functioning and rhizosphere assembly under extreme anthropogenic conditions. Here, we investigated the prokaryotic rhizosphere communities of the native pioneer plant Suaeda acuminata (C.A.Mey.) Moq. in comparison to bulk soil across a gradient of desiccation (5, 10, and 40 years) by metagenome and amplicon sequencing combined with quantitative PCR (qPCR) analyses. The rhizosphere effect was evident due to significantly higher bacterial abundances but less diversity in the rhizosphere compared to bulk soil. Interestingly, in the highest salinity (5 years of desiccation), rhizosphere functions were mainly provided by archaeal communities. Along the desiccation gradient, we observed a significant change in the rhizosphere microbiota, which was reflected by (i) a decreasing archaeon-bacterium ratio, (ii) replacement of halophilic archaea by specific plant-associated bacteria, i.e., Alphaproteobacteria and Actinobacteria, and (iii) an adaptation of specific, potentially plant-beneficial biosynthetic pathways. In general, both bacteria and archaea were found to be involved in carbon cycling and fixation, as well as methane and nitrogen metabolism. Analysis of metagenome-assembled genomes (MAGs) showed specific signatures for production of osmoprotectants, assimilatory nitrate reduction, and transport system induction. Our results provide evidence that rhizosphere assembly by cofiltering specific taxa with distinct traits is a mechanism which allows plants to thrive under extreme conditions. Overall, our findings highlight a function-based rhizosphere assembly, the importance of plant-microbe interactions in salinated soils, and their exploitation potential for ecosystem restoration approaches. IMPORTANCE The desertification of the Aral Sea basin in Uzbekistan and Kazakhstan represents one of the most serious anthropogenic environmental disasters of the last century. Since the 1960s, the world's fourth-largest inland body of water has been constantly shrinking, which has resulted in an extreme increase of salinity accompanied by accumulation of many hazardous and carcinogenic substances, as well as heavy metals, in the dried-out basin. Here, we investigated bacterial and archaeal communities in the rhizosphere of pioneer plants by combining classic molecular methods with amplicon sequencing as well as metagenomics for functional insights. By implementing a desiccation gradient, we observed (i) remarkable differences in the archaeon-bacterium ratio of plant rhizosphere samples, (ii) replacement of archaeal indicator taxa during succession, and (iii) the presence of specific, potentially plant-beneficial biosynthetic pathways in archaea present during the early stages. In addition, our results provide hitherto-undescribed insights into the functional redundancy between plant-associated archaea and bacteria.
+## Function-Based Rhizosphere Assembly along a Gradient of Desiccation in the Former Aral Sea
 
 [Source](https://journals.asm.org/doi/10.1128/msystems.00739-22)
 
-10.1128/msystems.00739-22
-
 ---
 
-## Metagenomics versus total RNA sequencing: most accurate data-processing tools, microbial identification accuracy and perspectives for ecological assessments.
- 14.11.2022, _CA Hempel, N Wright, J Harvie, JS Hleap, SJ Adamowicz, D Steinke_
-
-
-_Metagenomics, Microbiota, Sequence Analysis, RNA, High-Throughput Nucleotide Sequencing, RNA, Ribosomal, 16S_
-Metagenomics and total RNA sequencing (total RNA-Seq) have the potential to improve the taxonomic identification of diverse microbial communities, which could allow for the incorporation of microbes into routine ecological assessments. However, these target-PCR-free techniques require more testing and optimization. In this study, we processed metagenomics and total RNA-Seq data from a commercially available microbial mock community using 672 data-processing workflows, identified the most accurate data-processing tools, and compared their microbial identification accuracy at equal and increasing sequencing depths. The accuracy of data-processing tools substantially varied among replicates. Total RNA-Seq was more accurate than metagenomics at equal sequencing depths and even at sequencing depths almost one order of magnitude lower than those of metagenomics. We show that while data-processing tools require further exploration, total RNA-Seq might be a favorable alternative to metagenomics for target-PCR-free taxonomic identifications of microbial communities and might enable a substantial reduction in sequencing costs while maintaining accuracy. This could be particularly an advantage for routine ecological assessments, which require cost-effective yet accurate methods, and might allow for the incorporation of microbes into ecological assessments.
+## Metagenomics versus total RNA sequencing: most accurate data-processing tools, microbial identification accuracy and perspectives for ecological assessments
 
 [Source](https://academic.oup.com/nar/article/50/16/9279/6671113)
 
-10.1093/nar/gkac689
-
 ---
 
-## Metagenome-assembled genome extraction and analysis from microbiomes using KBase.
- 14.11.2022, _D Chivian, SP Jungbluth, PS Dehal, EM Wood-Charlson, RS Canon, BH Allen, MM Clark, T Gu, ML Land, GA Price, WJ Riehl, MW Sneddon, R Sutormin, Q Zhang, RW Cottingham, CS Henry, AP Arkin_
-
-
-Uncultivated Bacteria and Archaea account for the vast majority of species on Earth, but obtaining their genomes directly from the environment, using shotgun sequencing, has only become possible recently. To realize the hope of capturing Earth's microbial genetic complement and to facilitate the investigation of the functional roles of specific lineages in a given ecosystem, technologies that accelerate the recovery of high-quality genomes are necessary. We present a series of analysis steps and data products for the extraction of high-quality metagenome-assembled genomes (MAGs) from microbiomes using the U.S. Department of Energy Systems Biology Knowledgebase (KBase) platform ( http://www.kbase.us/ ). Overall, these steps take about a day to obtain extracted genomes when starting from smaller environmental shotgun read libraries, or up to about a week from larger libraries. In KBase, the process is end-to-end, allowing a user to go from the initial sequencing reads all the way through to MAGs, which can then be analyzed with other KBase capabilities such as phylogenetic placement, functional assignment, metabolic modeling, pangenome functional profiling, RNA-Seq and others. While portions of such capabilities are available individually from other resources, the combination of the intuitive usability, data interoperability and integration of tools in a freely available computational resource makes KBase a powerful platform for obtaining MAGs from microbiomes. While this workflow offers tools for each of the key steps in the genome extraction process, it also provides a scaffold that can be easily extended with additional MAG recovery and analysis tools, via the KBase software development kit (SDK).
+## Metagenome-assembled genome extraction and analysis from microbiomes using KBase
 
 [Source](https://www.nature.com/articles/s41596-022-00747-x)
-
-10.1038/s41596-022-00747-x
 
 ---
 
