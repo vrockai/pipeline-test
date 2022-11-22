@@ -37,9 +37,10 @@ Fish are the most diverse and widely distributed vertebrates, yet little is know
 ---
 
 ## Genomic ancestry, diet and microbiomes of Upper Palaeolithic hunter-gatherers from San Teodoro cave.
- 21.11.2022, _G Scorrano, SH Nielsen, DL Vetro, R Sawafuji, M Mackie, A Margaryan, AK Fotakis, C Martínez-Labarga, PF Fabbri, ME Allentoft, M Carra, F Martini, O Rickards, JV Olsen, MW Pedersen, E Cappellini, M Sikora_
+ 22.11.2022, _G Scorrano, SH Nielsen, DL Vetro, R Sawafuji, M Mackie, A Margaryan, AK Fotakis, C Martínez-Labarga, PF Fabbri, ME Allentoft, M Carra, F Martini, O Rickards, JV Olsen, MW Pedersen, E Cappellini, M Sikora_
 
 
+_Humans, Animals, Proteomics, Dental Calculus, Diet, Genomics, Microbiota_
 Recent improvements in the analysis of ancient biomolecules from human remains and associated dental calculus have provided new insights into the prehistoric diet and genetic diversity of our species. Here we present a multi-omics study, integrating metagenomic and proteomic analyses of dental calculus, and human ancient DNA analysis of the petrous bones of two post-Last Glacial Maximum (LGM) individuals from San Teodoro cave (Italy), to reconstruct their lifestyle and the post-LGM resettlement of Europe. Our analyses show genetic homogeneity in Sicily during the Palaeolithic, representing a hitherto unknown Italian genetic lineage within the previously identified Villabruna cluster. We argue that this lineage took refuge in Italy during the LGM, followed by a subsequent spread to central-western Europe. Analysis of dental calculus showed a diet rich in animal proteins which is also reflected on the oral microbiome composition. Our results demonstrate the power of this approach in the study of prehistoric humans and will enable future research to reach a more holistic understanding of the population dynamics and ecology.
 
 [Source](https://doi.org/10.1038/s42003-022-04190-2)
@@ -49,9 +50,10 @@ Recent improvements in the analysis of ancient biomolecules from human remains a
 ---
 
 ## Gut microbiota analysis for prediction of clinical relapse in Crohn's disease.
- 21.11.2022, _S Buffet-Bataillon, G Bouguen, F Fleury, V Cattoir, Y Le Cunff_
+ 22.11.2022, _S Buffet-Bataillon, G Bouguen, F Fleury, V Cattoir, Y Le Cunff_
 
 
+_Humans, Gastrointestinal Microbiome, Crohn Disease, Fatty Acids, Volatile, Feces, Clostridiales, Chronic Disease, Firmicutes, Recurrence_
 The role of intestinal bacterial microbiota has been described as key in the pathophysiology of Crohn's disease (CD). CD is characterized by frequent relapses after periods of remission which are not entirely understood. In this paper, we investigate whether the heterogeneity in microbiota profiles in CD patients could be a suitable predictor for these relapses. This prospective observational study involved 259 CD patients, in which 41 provided an additional total of 62 consecutive fecal samples, with an average interval of 25 weeks in between each of these samples. Fecal microbiota was analyzed by massive genomic sequencing through 16 S rRNA amplicon sampling. We found that our 259 CD patients could be split into three distinct subgroups of microbiota (G1, G2, G3). From G1 to G3, we noticed a progressive decrease in alpha diversity (p ≤ 0.0001) but no change in the fecal calprotectin (FC) level. Focusing on the 103 consecutive samples from 41 CD patients, we showed that the patients microbiota profiles were remarkably stable over time and associated with increasing symptom severity. Investigating further this microbiota/severity association revealed that the first signs of aggravation are (1) a loss of the main anti-inflammatory Short-Chain Fatty Acids (SCFAs) Roseburia, Eubacterium, Subdoligranumum, Ruminococcus (P &lt; 0.05), (2) an increase in pro-inflammatory pathogens Proteus, Finegoldia (P &lt; 0.05) while (3) an increase of other minor SCFA producers such as Ezakiella, Anaerococcus, Megasphaera, Anaeroglobus, Fenollaria (P &lt; 0.05). Further aggravation of clinical signs is significantly linked to the subsequent loss of these minor SCFAs species and to an increase in other proinflammatory Proteobacteria such as Klebsiella, Pseudomonas, Salmonella, Acinetobacter, Hafnia and proinflammatory Firmicutes such as Staphylococcus, Enterococcus, Streptococcus. (P &lt; 0.05). To our knowledge, this is the first study (1) specifically identifying subgroups of microbiota profiles in CD patients, (2) relating these groups to the evolution of symptoms over time and (3) showing a two-step process in CD symptoms' worsening. This paves the way towards a better understanding of patient-to-patient heterogeneity, as well as providing early warning signals of future aggravation of the symptoms and eventually adapting empirically treatments.
 
 [Source](https://doi.org/10.1038/s41598-022-23757-x)
@@ -61,9 +63,10 @@ The role of intestinal bacterial microbiota has been described as key in the pat
 ---
 
 ## Implications of oral streptococcal bacteriophages in autism spectrum disorder.
- 21.11.2022, _Z Tong, X Zhou, Y Chu, T Zhang, J Zhang, X Zhao, Z Wang, R Ding, Q Meng, J Yu, J Wang, Y Kang_
+ 22.11.2022, _Z Tong, X Zhou, Y Chu, T Zhang, J Zhang, X Zhao, Z Wang, R Ding, Q Meng, J Yu, J Wang, Y Kang_
 
 
+_Humans, Autism Spectrum Disorder, Streptococcus Phages, Gastrointestinal Microbiome, Mouth, Bacteriophages_
 Growing evidence suggests altered oral and gut microbiota in autism spectrum disorder (ASD), but little is known about the alterations and roles of phages, especially within the oral microbiota in ASD subjects. We enrolled ASD (n = 26) and neurotypical subjects (n = 26) with their oral hygiene controlled, and the metagenomes of both oral and fecal samples (n = 104) are shotgun-sequenced and compared. We observe extensive and diverse oral phageome comparable to that of the gut, and clear signals of mouth-to-gut phage strain transfer within individuals. However, the overall phageomes of the two sites are widely different and show even less similarity in the oral communities between ASD and control subjects. The ASD oral phageome exhibits significantly reduced abundance and alpha diversity, but the Streptococcal phages there are atypically enriched, often dominating the community. The over-representation of Streptococcal phages is accompanied by enriched oral Streptococcal virulence factors and Streptococcus bacteria, all exhibiting a positive correlation with the severity of ASD clinical manifestations. These changes are not observed in the parallel sampling of the gut flora, suggesting a previously unknown oral-specific association between the excessive Streptococcal phage enrichment and ASD pathogenesis. The findings provide new evidence for the independent microbiome-mouth-brain connection, deepen our understanding of how the growth dynamics of bacteriophages and oral microbiota contribute to ASD, and point to novel effective therapeutics.
 
 [Source](https://doi.org/10.1038/s41522-022-00355-3)
@@ -72,16 +75,9 @@ Growing evidence suggests altered oral and gut microbiota in autism spectrum dis
 
 ---
 
-## Reproducible changes in the anorexia nervosa gut microbiota following inpatient therapy remain distinct from non-eating disorder controls.
- 21.11.2022, _F Fouladi, EC Bulik-Sullivan, EM Glenny, LM Thornton, KK Reed, S Thomas, S Kleiman, A Watters, J Oakes, EY Huh, Q Tang, J Liu, Z Djukic, L Harper, Y Trillo-Ordoñez, S Sun, I Blakely, PS Mehler, AA Fodor, LM Tarantino, CM Bulik, IM Carroll_
-
-
-_Humans, Gastrointestinal Microbiome, Anorexia Nervosa, Inpatients, Feces, Microbiota_
-The composition of the gut microbiota in patients with anorexia nervosa (AN), and the ability of this microbial community to influence the host, remains uncertain. To achieve a broader understanding of the role of the intestinal microbiota in patients with AN, we collected fecal samples before and following clinical treatment at two geographically distinct eating disorder units (Center of Excellence for Eating Disorders [UNC-CH] and ACUTE Center for Eating Disorders [Denver Health]). Gut microbiotas were characterized in patients with AN, before and after inpatient treatment, and in non-eating disorder (non-ED) controls using shotgun metagenomic sequencing. The impact of inpatient treatment on the AN gut microbiota was remarkably consistent between eating disorder units. Although weight in patients with AN showed improvements, AN microbiotas post-treatment remained distinct from non-ED controls. Additionally, AN gut microbiotas prior to treatment exhibited more fermentation pathways and a lower ability to degrade carbohydrates than non-ED controls. As the intestinal microbiota can influence nutrient metabolism, our data highlight the complex microbial communities in patients with AN as an element needing further attention post inpatient treatment. Additionally, this study defines the effects of renourishment on the AN gut microbiota and serves as a platform to develop precision nutrition approaches to potentially mitigate impediments to recovery.
+## Reproducible changes in the anorexia nervosa gut microbiota following inpatient therapy remain distinct from non-eating disorder controls
 
 [Source](https://doi.org/10.1080/19490976.2022.2143217)
-
-10.1080/19490976.2022.2143217
 
 ---
 
