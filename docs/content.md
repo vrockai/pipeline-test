@@ -1,158 +1,114 @@
-## The cancer chemotherapeutic 5-fluorouracil is a potent <em>Fusobacterium nucleatum </em>inhibitor and its activity is modified by intratumoral microbiota
+## Patterns and determinants of the global herbivorous mycobiome
 
-[Source](https://doi.org/10.1016/j.celrep.2022.111625)
-
----
-
-## Enterococci enhance <em>Clostridioides difficile</em> pathogenesis
-
-[Source](https://doi.org/10.1038/s41586-022-05438-x)
+[Source](https://www.biorxiv.org/content/10.1101/2022.11.21.517404v1.abstract)
 
 ---
 
-## Host biology, ecology and the environment influence microbial biomass and diversity in 101 marine fish species
+## Helicobacter pylori: Have potential benefits been overlooked?
+ 22.11.2022, _JP Schubert, CK Rayner, SP Costello, IC Roberts-Thomson, SC Forster, RV Bryant_
 
-[Source](https://doi.org/10.1038/s41467-022-34557-2)
 
----
 
-## Genomic ancestry, diet and microbiomes of Upper Palaeolithic hunter-gatherers from San Teodoro cave
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/jgh3.12842)
 
-[Source](https://doi.org/10.1038/s42003-022-04190-2)
-
----
-
-## Gut microbiota analysis for prediction of clinical relapse in Crohn’s disease
-
-[Source](https://doi.org/10.1038/s41598-022-23757-x)
+10.1002/jgh3.12842
 
 ---
 
-## Implications of oral streptococcal bacteriophages in autism spectrum disorder
+## Ancient oral microbiomes support gradual Neolithic dietary shifts towards agriculture.
+ 22.11.2022, _A Quagliariello, A Modi, G Innocenti, V Zaro, C Conati Barbaro, A Ronchitelli, F Boschin, C Cavazzuti, E Dellù, F Radina, A Sperduti, L Bondioli, S Ricci, M Lognoli, MG Belcastro, V Mariotti, D Caramelli, M Mariotti Lippi, E Cristiani, ME Martino, IM Muntoni, M Lari_
 
-[Source](https://doi.org/10.1038/s41522-022-00355-3)
 
----
+The human microbiome has recently become a valuable source of information about host life and health. To date little is known about how it may have evolved during key phases along our history, such as the Neolithic transition towards agriculture. Here, we shed light on the evolution experienced by the oral microbiome during this transition, comparing Palaeolithic hunter-gatherers with Neolithic and Copper Age farmers that populated a same restricted area in Italy. We integrate the analysis of 76 dental calculus oral microbiomes with the dietary information derived from the identification of embedded plant remains. We detect a stronger deviation from the hunter-gatherer microbiome composition in the last part of the Neolithic, while to a lesser extent in the early phases of the transition. Our findings demonstrate that the introduction of agriculture affected host microbiome, supporting the hypothesis of a gradual transition within the investigated populations.
 
-## Reproducible changes in the anorexia nervosa gut microbiota following inpatient therapy remain distinct from non-eating disorder controls
+[Source](https://www.nature.com/articles/s41467-022-34416-0)
 
-[Source](https://doi.org/10.1080/19490976.2022.2143217)
-
----
-
-## Nasal microbiome disruption and recovery after mupirocin treatment in <em>Staphylococcus aureus</em> carriers and noncarriers
-
-[Source](https://doi.org/10.1038/s41598-022-21453-4)
+10.1038/s41467-022-34416-0
 
 ---
 
-## BlpC-mediated selfish program leads to rapid loss of <em>Streptococcus pneumoniae</em> clonal diversity during infection
+## Longitudinal dynamics of the human vaginal ecosystem across the reproductive cycle
 
-[Source](https://doi.org/10.1016/j.chom.2022.10.015)
-
----
-
-## Treasures from trash in cancer research
-
-[Source](https://doi.org/10.18632/oncotarget.28308)
+[Source](https://www.biorxiv.org/content/10.1101/2022.11.20.517263v1.abstract)
 
 ---
 
-## Human Gut Metagenomes Encode Diverse GH156 Sialidases
+## Maternal obesity and resistance to breast cancer treatments among offspring: Link to gut dysbiosis
 
-[Source](https://doi.org/10.1128/aem.01755-22)
-
----
-
-## Species-Specific Patterns of Gut Metabolic Modules in Dutch Individuals with Different Dietary Habits
-
-[Source](https://doi.org/10.1128/msphere.00512-22)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/cnr2.1752)
 
 ---
 
-## Effect of the intratumoral microbiota on spatial and cellular heterogeneity in cancer
-
-[Source](https://doi.org/10.1038/s41586-022-05435-0)
-
----
-
-## Broad-spectrum antibiotics associated gut microbiome disturbance impairs T cell immunity and promotes lung cancer metastasis: a retrospective study
-
-[Source](https://doi.org/10.1186/s12885-022-10307-x)
-
----
-
-## Diet-induced modifications to human microbiome reshape colonic homeostasis in irritable bowel syndrome.
- 21.11.2022, _H Bootz-Maoz, A Pearl, E Melzer, S Malnick, E Sharon, Y Bennet, R Tsentsarevsky, S Abuchatzera, S Amidror, E Aretz, S Azriel, C Gam Ze Letova, M Naama, I Shoval, O Yaron, S Karako-Lampert, S Bel, N Yissachar_
+## Atypical enteropathogenic E. coli are associated with disease activity in ulcerative colitis.
+ 22.11.2022, _M Baumgartner, R Zirnbauer, S Schlager, D Mertens, N Gasche, B Sladek, C Herbold, O Bochkareva, V Emelianenko, H Vogelsang, M Lang, A Klotz, B Moik, A Makristathis, D Berry, S Dabsch, V Khare, C Gasche_
 
 
-_Humans, Irritable Bowel Syndrome, Diet, Carbohydrate-Restricted, Gastrointestinal Microbiome, Homeostasis_
-Changes in microbiome composition are associated with a wide array of human diseases, turning the human microbiota into an attractive target for therapeutic intervention. Yet, clinical translation of these findings requires the establishment of causative connections between specific microbial taxa and their functional impact on host tissues. Here, we infuse gut organ cultures with longitudinal microbiota samples collected from therapy-naive patients with irritable bowel syndrome (IBS) under a low-fermentable oligo-, di-, mono-saccharides and polyols (FODMAP) diet. We show that post-diet microbiota regulates intestinal expression of inflammatory and neuro-muscular gene sets. Specifically, we identify Bifidobacterium adolescentis as a diet-sensitive pathobiont that alters tight junction integrity and disrupts gut barrier functions. Collectively, we present a pathway discovery platform for mechanistic dissection and identification of functional diet-host-microbiota modules. Our data support the hypothesis that the gut microbiota mediates the beneficial effects of a low-FODMAP diet and reinforce the potential feasibility of microbiome-based therapies in IBS.
+With increasing urbanization and industrialization, the prevalence of inflammatory bowel diseases (IBDs) has steadily been rising over the past two decades. IBD involves flares of gastrointestinal (GI) inflammation accompanied by microbiota perturbations. However, microbial mechanisms that trigger such flares remain elusive. Here, we analyzed the association of the emerging pathogen atypical enteropathogenic E. coli (aEPEC) with IBD disease activity. The presence of diarrheagenic E. coli was assessed in stool samples from 630 IBD patients and 234 age- and sex-matched controls without GI symptoms. Microbiota was analyzed with 16S ribosomal RNA gene amplicon sequencing, and 57 clinical aEPEC isolates were subjected to whole-genome sequencing and in vitro pathogenicity experiments including biofilm formation, epithelial barrier function and the ability to induce pro-inflammatory signaling. The presence of aEPEC correlated with laboratory, clinical and endoscopic disease activity in ulcerative colitis (UC), as well as microbiota dysbiosis. In vitro, aEPEC strains induce epithelial p21-activated kinases, disrupt the epithelial barrier and display potent biofilm formation. The effector proteins espV and espG2 distinguish aEPEC cultured from UC and Crohn's disease patients, respectively. EspV-positive aEPEC harbor more virulence factors and have a higher pro-inflammatory potential, which is counteracted by 5-ASA. aEPEC may tip a fragile immune-microbiota homeostasis and thereby contribute to flares in UC. aEPEC isolates from UC patients display properties to disrupt the epithelial barrier and to induce pro-inflammatory signaling in vitro.
 
-[Source](https://doi.org/10.1016/j.celrep.2022.111657)
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2143218)
 
-10.1016/j.celrep.2022.111657
+10.1080/19490976.2022.2143218
 
 ---
 
-## The dynamic lung microbiome in health and disease.
- 22.11.2022, _JG Natalini, S Singh, LN Segal_
+## Impact of antibiotic perturbation on fecal viral communities in mice.
+ 22.11.2022, _JM Anderson, T Lachnit, S Lipinski, M Falk-Paulsen, P Rosenstiel_
 
 
-New methods and technologies within the field of lung biology are beginning to shed new light into the microbial world of the respiratory tract. Long considered to be a sterile environment, it is now clear that the human lungs are frequently exposed to live microbes and their by-products. The nature of the lung microbiome is quite distinct from other microbial communities inhabiting our bodies such as those in the gut. Notably, the microbiome of the lung exhibits a low biomass and is dominated by dynamic fluxes of microbial immigration and clearance, resulting in a bacterial burden and microbiome composition that is fluid in nature rather than fixed. As our understanding of the microbial ecology of the lung improves, it is becoming increasingly apparent that certain disease states can disrupt the microbial-host interface and ultimately affect disease pathogenesis. In this Review, we provide an overview of lower airway microbial dynamics in health and disease and discuss future work that is required to uncover novel therapeutic targets to improve lung health.
+Viruses and bacteriophages have a strong impact on intestinal barrier function and the composition and functional properties of commensal bacterial communities. Shifts of the fecal virome might be involved in human diseases, including inflammatory bowel disease (IBD). Loss-of-function variants in the NOD2 gene are associated with an increased risk of developing Crohn's disease, a subtype of human chronic inflammatory bowel disease (IBD), where specific changes in fecal viral communities have also been described. To improve our understanding of the dynamics of the enteric virome, we longitudinally characterized the virome in fecal samples from wild-type (WT) C57BL/6J and nucleotide-binding oligomerization domain-containing protein 2 knock-out (NOD2 KO) mice in response to an antibiotic perturbation. Sequencing of virus-like-particles (VLPs) demonstrated both a high diversity and high inter-individual variation of the murine fecal virome composed of eukaryotic viruses and bacteriophages. Antibiotics had a significant impact on the fecal murine virome. Viral community composition only partially recovered in the observation period (10 weeks after cessation of antibiotics) irrespective of genotype. However, compositional shifts in the virome and bacteriome were highly correlated, suggesting that the loss of specific phages may contribute to prolonged dysregulation of the bacterial community composition. We suggest that therapeutic interference with the fecal virome may represent a novel approach in microbiota-targeted therapies.
 
-[Source](https://doi.org/10.1038/s41579-022-00821-x)
+[Source](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkac293/6839982)
 
-10.1038/s41579-022-00821-x
-
----
-
-## Modulation of gut microbiota, blood metabolites, and disease resistance by dietary β-glucan in rainbow trout (<em>Oncorhynchus mykiss</em>)
-
-[Source](https://doi.org/10.1186/s42523-022-00209-5)
+10.1093/g3journal/jkac293
 
 ---
 
-## Living in honey: bacterial and fungal communities in honey of sympatric populations of <em>Apis mellifera</em> and the stingless bee <em>Melipona beecheii</em>, in Yucatan, Mexico
-
-[Source](https://doi.org/10.1007/s00203-022-03319-5)
-
----
-
-## The involvement of organic acids in soil fertility, plant health and environment sustainability.
- 22.11.2022, _SS Sindhu, A Sehrawat, BR Glick_
+## Assessing Fungal Diversity and Abundance in the Black Soldier Fly and its Environment.
+ 22.11.2022, _T Vitenberg, I Opatovsky_
 
 
-_Humans, Soil, Soil Microbiology, Plant Roots, Plants, Microbiota_
-Increasing demand for safe food by an ever-growing human population emphasizes the urgency for increasing crop yields and reducing the losses caused by abiotic and biotic stresses; a partial solution to this problem is to develop a better understanding of plant-microbe interactions. Plant roots continuously release a wide range of compounds including organic acids in root exudates. These root exudates stimulate growth of specific microbial communities in the rhizosphere, which affect complex biological and physico-chemical interactions occurring between plant roots and the surrounding soil environment. In addition, organic acids are also released by different microbes and during decomposition of organic matter and plant residues in the soil. Interestingly, the available organic acids in the rhizosphere play crucial roles in various physio-chemical processes including the chemoattraction of microbes (both beneficial and pathogenic), mineralization and solubilization of complex minerals (P, K and Zn), biocontrol of phytopathogens, induction of systemic resistance, biogas formation, mitigation of abiotic stresses and, detoxification of metals and residual pesticides. Thus, organic acids play a significant role in the sustainable management of the soil ecosystem and in environmental sustainability. This review discusses the role of organic acids in the stimulation or enrichment of specific root-associated microbial communities and their effect on plant-microbe interactions at the root surface. In addition, the potential for root microbiome modification to enhance nutrient cycling and nutrient acquisition, and in amelioration of environmental stresses for increasing food production is discussed.
+_Animals, Diptera, Larva, Gastrointestinal Microbiome_
+Detritivorous insects that flourish in decaying environments encounter microorganisms throughout their life cycle. However, it is not clear whether the microbial composition of the decaying environment affects the microbial composition of the insect gut, or whether the opposite is true, with the microorganisms that are adapted to the insect's digestive system being dispersed by the insects to new habitats, thereby becoming more and more common in the environment. To test these questions the fungal composition of the black soldier fly (BSF) (Stratiomyidae; Hermetia illucens Linnaeus) larval gut and its surrounding decaying environment (household compost bins) were analyzed using amplicon sequencing. Constancy in the dominance of the genus Candida (Debaryomycetaceae) in most of the environments and larval guts was found. This finding may suggest a 'core' structure to the fungal community of the BSF. In locations where nutrient composition of the environment had higher fiber content, the Candida was not dominant and the most common fungi were the genus Gibberella (Nectriaceae) and the family Dipodascaceae. The later was dominant also in the larval gut and the former was replaced with Meyerozyma (Debaryomycetaceae), which may suggest a selection process by the insect's gut. Little is known about the ecological interactions of insects with eukaryotic microorganisms, such as yeast-like fungi. As their metabolic complexity and ability is intense, they have the potential to dramatically affect the physiological condition of the insect.
 
-[Source](https://doi.org/10.1007/s00203-022-03321-x)
+[Source](https://academic.oup.com/jinsectscience/article/22/6/3/6832762)
 
-10.1007/s00203-022-03321-x
+10.1093/jisesa/ieac066
 
 ---
 
-## Investigating the impact of database choice on the accuracy of metagenomic read classification for the rumen microbiome.
- 21.11.2022, _RH Smith, L Glendinning, AW Walker, M Watson_
+## Bacterial communities vary across populations and tissue type in red mangroves (Rhizophora mangle, Rhizophoraceae) along an expanding front.
+ 22.11.2022, _BP Scherer, OU Mason, AR Mast_
 
 
-Microbiome analysis is quickly moving towards high-throughput methods such as metagenomic sequencing. Accurate taxonomic classification of metagenomic data relies on reference sequence databases, and their associated taxonomy. However, for understudied environments such as the rumen microbiome many sequences will be derived from novel or uncultured microbes that are not present in reference databases. As a result, taxonomic classification of metagenomic data from understudied environments may be inaccurate. To assess the accuracy of taxonomic read classification, this study classified metagenomic data that had been simulated from cultured rumen microbial genomes from the Hungate collection. To assess the impact of reference databases on the accuracy of taxonomic classification, the data was classified with Kraken 2 using several reference databases. We found that the choice and composition of reference database significantly impacted on taxonomic classification results, and accuracy. In particular, NCBI RefSeq proved to be a poor choice of database. Our results indicate that inaccurate read classification is likely to be a significant problem, affecting all studies that use insufficient reference databases. We observed that adding cultured reference genomes from the rumen to the reference database greatly improved classification rate and accuracy. We also demonstrated that metagenome-assembled genomes (MAGs) have the potential to further enhance classification accuracy by representing uncultivated microbes, sequences of which would otherwise be unclassified or incorrectly classified. However, classification accuracy was strongly dependent on the taxonomic labels assigned to these MAGs. We therefore highlight the importance of accurate reference taxonomic information and suggest that, with formal taxonomic lineages, MAGs have the potential to improve classification rate and accuracy, particularly in environments such as the rumen that are understudied or contain many novel genomes.
+Plant-associated microbial communities may be important sources of functional diversity and genetic variation that influence host evolution. Bacteria provide benefits for their hosts, yet in most plant systems we know little about their taxonomic composition or variation across tissues and host range. Red Mangrove (Rhizophora mangle L.) is a vital coastal plant species that is currently expanding poleward and with it, perhaps, its microbiome. We explored variability in bacterial communities across tissues, individuals, and populations. We collected samples from six sample types from 5-10 individuals at each of 3 populations and used 16S rRNA gene (iTag) sequencing to describe their bacterial communities. Core community members and dominant bacterial classes were determined for each sample type. Pairwise PERMANOVA of Bray-Curtis dissimilarity and Indicator Species Analysis revealed significant differences in bacterial communities between sample types and populations. We described the previously unexplored microbiome of the reproductive tissues of R. mangle. Populations and most sample types were associated with distinct communities. Bacterial communities associated with R. mangle are influenced by host geography and sample type. Our study provides a foundation for future work exploring the functional roles of these microbes and their relevance to biogeochemical cycling.
 
-[Source](https://doi.org/10.1186/s42523-022-00207-7)
+[Source](https://academic.oup.com/femsec/advance-article/doi/10.1093/femsec/fiac139/6840209)
 
-10.1186/s42523-022-00207-7
-
----
-
-## dbCAN-seq update: CAZyme gene clusters and substrates in microbiomes
-
-[Source](https://doi.org/10.1093/nar/gkac1068)
+10.1093/femsec/fiac139
 
 ---
 
-## Gene co-expression network analysis of the human gut commensal bacterium <em>Faecalibacterium prausnitzii</em> in R-Shiny
+## proGenomes3: approaching one million accurately and consistently annotated high-quality prokaryotic genomes.
+ 21.11.2022, _A Fullam, I Letunic, TSB Schmidt, QR Ducarmon, N Karcher, S Khedkar, M Kuhn, M Larralde, OM Maistrenko, L Malfertheiner, A Milanese, JFM Rodrigues, C Sanchis-López, C Schudoma, D Szklarczyk, S Sunagawa, G Zeller, J Huerta-Cepas, C von Mering, P Bork, DR Mende_
 
-[Source](https://doi.org/10.1371/journal.pone.0271847)
+
+The interpretation of genomic, transcriptomic and other microbial 'omics data is highly dependent on the availability of well-annotated genomes. As the number of publicly available microbial genomes continues to increase exponentially, the need for quality control and consistent annotation is becoming critical. We present proGenomes3, a database of 907 388 high-quality genomes containing 4 billion genes that passed stringent criteria and have been consistently annotated using multiple functional and taxonomic databases including mobile genetic elements and biosynthetic gene clusters. proGenomes3 encompasses 41 171 species-level clusters, defined based on universal single copy marker genes, for which pan-genomes and contextual habitat annotations are provided. The database is available at http://progenomes.embl.de/.
+
+[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1078/6835361)
+
+10.1093/nar/gkac1078
+
+---
+
+## Sparsification of Large Ultrametric Matrices: Insights into the Microbial Tree of Life
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.08.21.504697v2.abstract)
+
+---
+
+## Soil metatranscriptomics: An improved RNA extraction method toward functional analysis using nanopore direct RNA sequencing
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.11.20.517272v1.abstract)
 
 ---
 
