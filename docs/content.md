@@ -16,9 +16,10 @@
 ---
 
 ## Ancient oral microbiomes support gradual Neolithic dietary shifts towards agriculture.
- 22.11.2022, _A Quagliariello, A Modi, G Innocenti, V Zaro, C Conati Barbaro, A Ronchitelli, F Boschin, C Cavazzuti, E Dellù, F Radina, A Sperduti, L Bondioli, S Ricci, M Lognoli, MG Belcastro, V Mariotti, D Caramelli, M Mariotti Lippi, E Cristiani, ME Martino, IM Muntoni, M Lari_
+ 24.11.2022, _A Quagliariello, A Modi, G Innocenti, V Zaro, C Conati Barbaro, A Ronchitelli, F Boschin, C Cavazzuti, E Dellù, F Radina, A Sperduti, L Bondioli, S Ricci, M Lognoli, MG Belcastro, V Mariotti, D Caramelli, M Mariotti Lippi, E Cristiani, ME Martino, IM Muntoni, M Lari_
 
 
+_Humans, Agriculture, Microbiota, Diet, Farmers, Italy_
 The human microbiome has recently become a valuable source of information about host life and health. To date little is known about how it may have evolved during key phases along our history, such as the Neolithic transition towards agriculture. Here, we shed light on the evolution experienced by the oral microbiome during this transition, comparing Palaeolithic hunter-gatherers with Neolithic and Copper Age farmers that populated a same restricted area in Italy. We integrate the analysis of 76 dental calculus oral microbiomes with the dietary information derived from the identification of embedded plant remains. We detect a stronger deviation from the hunter-gatherer microbiome composition in the last part of the Neolithic, while to a lesser extent in the early phases of the transition. Our findings demonstrate that the introduction of agriculture affected host microbiome, supporting the hypothesis of a gradual transition within the investigated populations.
 
 [Source](https://www.nature.com/articles/s41467-022-34416-0)
@@ -46,9 +47,10 @@ About 50 000 new cases of cancer in the United States are attributed to obesity.
 ---
 
 ## Atypical enteropathogenic E. coli are associated with disease activity in ulcerative colitis.
- 22.11.2022, _M Baumgartner, R Zirnbauer, S Schlager, D Mertens, N Gasche, B Sladek, C Herbold, O Bochkareva, V Emelianenko, H Vogelsang, M Lang, A Klotz, B Moik, A Makristathis, D Berry, S Dabsch, V Khare, C Gasche_
+ 24.11.2022, _M Baumgartner, R Zirnbauer, S Schlager, D Mertens, N Gasche, B Sladek, C Herbold, O Bochkareva, V Emelianenko, H Vogelsang, M Lang, A Klotz, B Moik, A Makristathis, D Berry, S Dabsch, V Khare, C Gasche_
 
 
+_Humans, Enteropathogenic Escherichia coli, Colitis, Ulcerative, Escherichia coli Infections, Gastrointestinal Microbiome, Inflammatory Bowel Diseases_
 With increasing urbanization and industrialization, the prevalence of inflammatory bowel diseases (IBDs) has steadily been rising over the past two decades. IBD involves flares of gastrointestinal (GI) inflammation accompanied by microbiota perturbations. However, microbial mechanisms that trigger such flares remain elusive. Here, we analyzed the association of the emerging pathogen atypical enteropathogenic E. coli (aEPEC) with IBD disease activity. The presence of diarrheagenic E. coli was assessed in stool samples from 630 IBD patients and 234 age- and sex-matched controls without GI symptoms. Microbiota was analyzed with 16S ribosomal RNA gene amplicon sequencing, and 57 clinical aEPEC isolates were subjected to whole-genome sequencing and in vitro pathogenicity experiments including biofilm formation, epithelial barrier function and the ability to induce pro-inflammatory signaling. The presence of aEPEC correlated with laboratory, clinical and endoscopic disease activity in ulcerative colitis (UC), as well as microbiota dysbiosis. In vitro, aEPEC strains induce epithelial p21-activated kinases, disrupt the epithelial barrier and display potent biofilm formation. The effector proteins espV and espG2 distinguish aEPEC cultured from UC and Crohn's disease patients, respectively. EspV-positive aEPEC harbor more virulence factors and have a higher pro-inflammatory potential, which is counteracted by 5-ASA. aEPEC may tip a fragile immune-microbiota homeostasis and thereby contribute to flares in UC. aEPEC isolates from UC patients display properties to disrupt the epithelial barrier and to induce pro-inflammatory signaling in vitro.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2143218)
