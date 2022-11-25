@@ -5,8 +5,13 @@
 ---
 
 ## Helicobacter pylori: Have potential benefits been overlooked?
+ 22.11.2022, _JP Schubert, CK Rayner, SP Costello, IC Roberts-Thomson, SC Forster, RV Bryant_
+
+
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/jgh3.12842)
+
+10.1002/jgh3.12842
 
 ---
 
