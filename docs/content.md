@@ -16,7 +16,7 @@
 ---
 
 ## Ancient oral microbiomes support gradual Neolithic dietary shifts towards agriculture.
- 24.11.2022, _A Quagliariello, A Modi, G Innocenti, V Zaro, C Conati Barbaro, A Ronchitelli, F Boschin, C Cavazzuti, E Dellù, F Radina, A Sperduti, L Bondioli, S Ricci, M Lognoli, MG Belcastro, V Mariotti, D Caramelli, M Mariotti Lippi, E Cristiani, ME Martino, IM Muntoni, M Lari_
+ 25.11.2022, _A Quagliariello, A Modi, G Innocenti, V Zaro, C Conati Barbaro, A Ronchitelli, F Boschin, C Cavazzuti, E Dellù, F Radina, A Sperduti, L Bondioli, S Ricci, M Lognoli, MG Belcastro, V Mariotti, D Caramelli, M Mariotti Lippi, E Cristiani, ME Martino, IM Muntoni, M Lari_
 
 
 _Humans, Agriculture, Microbiota, Diet, Farmers, Italy_
