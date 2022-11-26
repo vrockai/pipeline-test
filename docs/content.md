@@ -34,15 +34,9 @@ The human microbiome has recently become a valuable source of information about 
 
 ---
 
-## Maternal obesity and resistance to breast cancer treatments among offspring: Link to gut dysbiosis.
- 22.11.2022, _F de Oliveira Andrade, V Verma, L Hilakivi-Clarke_
-
-
-About 50 000 new cases of cancer in the United States are attributed to obesity. The adverse effects of obesity on breast cancer may be most profound when affecting the early development; that is, in the womb of a pregnant obese mother. Maternal obesity has several long-lasting adverse health effects on the offspring, including increasing offspring's breast cancer risk and mortality. Gut microbiota is a player in obesity as well as may impact breast carcinogenesis. Gut microbiota is established early in life and the microbial composition of an infant's gut becomes permanently dysregulated because of maternal obesity. Metabolites from the microbiota, especially short chain fatty acids (SCFAs), play a critical role in mediating the effect of gut bacteria on multiple biological functions, such as immune system, including tumor immune responses.
+## Maternal obesity and resistance to breast cancer treatments among offspring: Link to gut dysbiosis
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1002/cnr2.1752)
-
-10.1002/cnr2.1752
 
 ---
 
