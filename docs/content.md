@@ -41,7 +41,7 @@ The human gut microbiota is highly heterogenous between individuals and also exh
 ---
 
 ## A comparative study to determine the association of gut microbiome with schizophrenia in Zhejiang, China.
- 26.11.2022, _F Yan, L Xia, L Xu, L Deng, G Jin_
+ 27.11.2022, _F Yan, L Xia, L Xu, L Deng, G Jin_
 
 
 With the rapid progress of high-throughput sequencing technology, characterization of schizophrenia (SZ) with underlying probing of the gut microbiome can explore pathogenic mechanisms, estimate disease risk, and allow customization of therapeutic and prophylactic modalities. In this study, we compared the differences in gut microbial diversity and composition between 50 SZ subjects and 50 healthy matched subjects in Zhejiang, China via targeted next-generation sequencing (16S rRNA amplicon).
@@ -106,15 +106,9 @@ With the rapid progress of high-throughput sequencing technology, characterizati
 
 ---
 
-## Microbiome analysis in Lascaux Cave in relation to black stain alterations of rock surfaces and collembola.
- 25.11.2022, _L Alonso, T Pommier, L Simon, F Maucourt, J Doré, A Dubost, V Trân Van, G Minard, C Valiente Moro, CJ Douady, Y Moënne-Loccoz_
-
-
-Anthropization of Palaeolithic caves open for tourism may favour collembola invasion and result in the formation of black stains attributed to pigmented fungi. However, ecological processes underpinning black stain formation are not fully understood. Here, we tested the hypotheses that black stains from the Apse room of Lascaux Cave display a specific microbiota enriched in pigmented fungi, and that collembola thriving on the stains have the potential to consume and disseminate these black fungi. Metabarcoding showed that the microbiota of black stains and neighbouring unstained parts strongly differed, with in black stains a higher prevalence of Ochroconis and other pigmented fungi and the strong regression of Pseudomonas bacteria (whose isolates inhibited in vitro the growth of pigmented fungi). Isotopic analyses indicated that Folsomia candida collembola thriving on stains could feed on black stain in situ and assimilate the pigmented fungi they were fed with in vitro. They could carry these fungi and disseminate them when tested with complex black stains from Lascaux. This shows that black stain formation is linked to the development of pigmented fungi, which coincides with the elimination of antagonistic pseudomonads, and points towards a key role of F. candida collembola in the dynamics of pigmented fungi.
+## Microbiome analysis in Lascaux Cave in relation to black stain alterations of rock surfaces and collembola
 
 [Source](https://doi.org/10.1111/1758-2229.13133)
-
-10.1111/1758-2229.13133
 
 ---
 
