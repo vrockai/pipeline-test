@@ -22,9 +22,15 @@ The metabolome is a central determinant of human phenotypes and includes the ple
 
 ---
 
-## Diet standardization reduces intra-individual microbiome variation
+## Diet standardization reduces intra-individual microbiome variation.
+ 25.11.2022, _C Delaroque, GD Wu, C Compher, J Ni, L Albenberg, Q Liu, Y Tian, AD Patterson, JD Lewis, AT Gewirtz, B Chassaing_
+
+
+The human gut microbiota is highly heterogenous between individuals and also exhibits considerable day-to-day variation within individuals. We hypothesized that diet contributed to such inter- and/or intra-individual variance. Hence, we investigated the extent to which diet normalization impacted microbiota heterogeneity. We leveraged the control arm of our recently reported controlled-feeding study in which nine healthy individuals consumed a standardized additive-free diet for 10 days. Diet normalization did not impact inter-individual differences but reduced the extent of intra-individual day-to-day variation in fecal microbiota composition. Such decreased heterogeneity reflected individual-specific enrichment and depletion of an array of taxa microbiota members and was paralleled by a trend toward reduced intra-individual variance in fecal LPS and flagellin, which, collectively, reflect microbiota's pro-inflammatory potential. Yet, the microbiota of some subjects did not change significantly over the course of the study, suggesting heterogeneity in microbiota resilience to dietary stress or that baseline diets of some subjects were perhaps similar to our study's standardized diet. Collectively, our results indicate that short-term diet heterogeneity contributes to day-to-day intra-individual microbiota composition variance.
 
 [Source](https://doi.org/10.1080/19490976.2022.2149047)
+
+10.1080/19490976.2022.2149047
 
 ---
 
@@ -100,9 +106,15 @@ With the rapid progress of high-throughput sequencing technology, characterizati
 
 ---
 
-## Microbiome analysis in Lascaux Cave in relation to black stain alterations of rock surfaces and collembola
+## Microbiome analysis in Lascaux Cave in relation to black stain alterations of rock surfaces and collembola.
+ 25.11.2022, _L Alonso, T Pommier, L Simon, F Maucourt, J Doré, A Dubost, V Trân Van, G Minard, C Valiente Moro, CJ Douady, Y Moënne-Loccoz_
+
+
+Anthropization of Palaeolithic caves open for tourism may favour collembola invasion and result in the formation of black stains attributed to pigmented fungi. However, ecological processes underpinning black stain formation are not fully understood. Here, we tested the hypotheses that black stains from the Apse room of Lascaux Cave display a specific microbiota enriched in pigmented fungi, and that collembola thriving on the stains have the potential to consume and disseminate these black fungi. Metabarcoding showed that the microbiota of black stains and neighbouring unstained parts strongly differed, with in black stains a higher prevalence of Ochroconis and other pigmented fungi and the strong regression of Pseudomonas bacteria (whose isolates inhibited in vitro the growth of pigmented fungi). Isotopic analyses indicated that Folsomia candida collembola thriving on stains could feed on black stain in situ and assimilate the pigmented fungi they were fed with in vitro. They could carry these fungi and disseminate them when tested with complex black stains from Lascaux. This shows that black stain formation is linked to the development of pigmented fungi, which coincides with the elimination of antagonistic pseudomonads, and points towards a key role of F. candida collembola in the dynamics of pigmented fungi.
 
 [Source](https://doi.org/10.1111/1758-2229.13133)
+
+10.1111/1758-2229.13133
 
 ---
 
