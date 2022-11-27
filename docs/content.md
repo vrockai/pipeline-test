@@ -41,7 +41,7 @@ The human gut microbiota is highly heterogenous between individuals and also exh
 ---
 
 ## A comparative study to determine the association of gut microbiome with schizophrenia in Zhejiang, China.
- 24.11.2022, _F Yan, L Xia, L Xu, L Deng, G Jin_
+ 26.11.2022, _F Yan, L Xia, L Xu, L Deng, G Jin_
 
 
 With the rapid progress of high-throughput sequencing technology, characterization of schizophrenia (SZ) with underlying probing of the gut microbiome can explore pathogenic mechanisms, estimate disease risk, and allow customization of therapeutic and prophylactic modalities. In this study, we compared the differences in gut microbial diversity and composition between 50 SZ subjects and 50 healthy matched subjects in Zhejiang, China via targeted next-generation sequencing (16S rRNA amplicon).
@@ -64,9 +64,16 @@ With the rapid progress of high-throughput sequencing technology, characterizati
 
 ---
 
-## A gut microbial metabolite of dietary polyphenols reverses obesity-driven hepatic steatosis
+## A gut microbial metabolite of dietary polyphenols reverses obesity-driven hepatic steatosis.
+ 25.11.2022, _LJ Osborn, K Schultz, W Massey, B DeLucia, I Choucair, V Varadharajan, R Banerjee, K Fung, AJ Horak, D Orabi, I Nemet, LE Nagy, Z Wang, DS Allende, BB Willard, N Sangwan, AM Hajjar, C McDonald, PP Ahern, SL Hazen, JM Brown, J Claesen_
+
+
+_Humans, Mice, Animals, Polyphenols, Gastrointestinal Microbiome, Fatty Liver, Obesity, Diet, High-Fat, Flavonoids_
+The molecular mechanisms by which dietary fruits and vegetables confer cardiometabolic benefits remain poorly understood. Historically, these beneficial properties have been attributed to the antioxidant activity of flavonoids. Here, we reveal that the host metabolic benefits associated with flavonoid consumption hinge, in part, on gut microbial metabolism. Specifically, we show that a single gut microbial flavonoid catabolite, 4-hydroxyphenylacetic acid (4-HPAA), is sufficient to reduce diet-induced cardiometabolic disease (CMD) burden in mice. The addition of flavonoids to a high fat diet heightened the levels of 4-HPAA within the portal plasma and attenuated obesity, and continuous delivery of 4-HPAA was sufficient to reverse hepatic steatosis. The antisteatotic effect was shown to be associated with the activation of AMP-activated protein kinase α (AMPKα). In a large survey of healthy human gut metagenomes, just over one percent contained homologs of all four characterized bacterial genes required to catabolize flavonols into 4-HPAA. Our results demonstrate the gut microbial contribution to the metabolic benefits associated with flavonoid consumption and underscore the rarity of this process in human gut microbial communities.
 
 [Source](https://doi.org/10.1073/pnas.2202934119)
+
+10.1073/pnas.2202934119
 
 ---
 
@@ -77,7 +84,7 @@ With the rapid progress of high-throughput sequencing technology, characterizati
 ---
 
 ## The Kitty Microbiome Project: Defining the Healthy Fecal "Core Microbiome" in Pet Domestic Cats.
- 25.11.2022, _HH Ganz, G Jospin, CA Rojas, AL Martin, K Dahlhausen, DD Kingsbury, CX Osborne, Z Entrolezo, S Redner, B Ramirez, JA Eisen, M Leahy, C Keaton, J Wong, J Gardy, JK Jarett_
+ 26.11.2022, _HH Ganz, G Jospin, CA Rojas, AL Martin, K Dahlhausen, DD Kingsbury, CX Osborne, Z Entrolezo, S Redner, B Ramirez, JA Eisen, M Leahy, C Keaton, J Wong, J Gardy, JK Jarett_
 
 
 Here, we present a taxonomically defined fecal microbiome dataset for healthy domestic cats (Felis catus) fed a range of commercial diets. We used this healthy reference dataset to explore how age, diet, and living environment correlate with fecal microbiome composition. Thirty core bacterial genera were identified. Prevotella, Bacteroides, Collinsella, Blautia, and Megasphaera were the most abundant, and Bacteroides, Blautia, Lachnoclostridium, Sutterella, and Ruminococcus&amp;amp;nbsp;gnavus were the most prevalent. While community composition remained relatively stable across different age classes, the number of core taxa present decreased significantly with age. Fecal microbiome composition varied with host diet type. Cats fed kibble had a slightly, but significantly greater number of core taxa compared to cats not fed any kibble. The core microbiomes of cats fed some raw food contained taxa not as highly prevalent or abundant as cats fed diets that included kibble. Living environment also had a large effect on fecal microbiome composition. Cats living in homes differed significantly from those in shelters and had a greater portion of their microbiomes represented by core taxa. Collectively our work reinforces the findings that age, diet, and living environment are important factors to consider when defining a core microbiome in a population.
@@ -115,7 +122,7 @@ The bacteria-derived short-chain fatty acids (SCFAs) butyrate and propionate pla
 ---
 
 ## Machine learning for data integration in human gut microbiome.
- 25.11.2022, _P Li, H Luo, B Ji, J Nielsen_
+ 26.11.2022, _P Li, H Luo, B Ji, J Nielsen_
 
 
 _Humans, Gastrointestinal Microbiome, Microbiota, Metagenomics, Dysbiosis, Machine Learning_
