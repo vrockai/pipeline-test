@@ -16,15 +16,9 @@
 
 ---
 
-## The role of NOD2 in intestinal immune response and microbiota modulation: A therapeutic target in inflammatory bowel disease.
- 26.11.2022, _Z Liu, Y Zhang, T Jin, C Yi, DKW Ocansey, F Mao_
-
-
-As an intracellular pattern recognition receptor (PPR), the nucleotide-binding oligomerization domain-containing protein 2 (NOD2) triggers a cascade of immune responses. Previous studies of NOD2 regarding inflammatory bowel disease (IBD) mainly focused on the relevance of NOD2 mutations and loss within the disease onset and progression. With increasing research, more studies are exploring other functional roles and clinical applications of NOD2. In this review, we discuss the role of NOD2 in intestinal immune response and microbiota modulation in IBD and explore its clinical potential as a therapeutic target for IBD.
+## The role of NOD2 in intestinal immune response and microbiota modulation: A therapeutic target in inflammatory bowel disease
 
 [Source](https://doi.org/10.1016/j.intimp.2022.109466)
-
-10.1016/j.intimp.2022.109466
 
 ---
 
@@ -41,7 +35,7 @@ Studies of the human microbiome are providing a deeper understanding of its sign
 ---
 
 ## Timing matters: age-dependent impacts of the social environment and host selection on the avian gut microbiota.
- 26.11.2022, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Engel, O Castillo-Gutiérrez, T Busche, J Kalinowski, BA Caspers_
+ 28.11.2022, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Engel, O Castillo-Gutiérrez, T Busche, J Kalinowski, BA Caspers_
 
 
 The establishment of the gut microbiota in early life is a critical process that influences the development and fitness of vertebrates. However, the relative influence of transmission from the early social environment and host selection throughout host ontogeny remains understudied, particularly in avian species. We conducted conspecific and heterospecific cross-fostering experiments in zebra finches (Taeniopygia guttata) and Bengalese finches (Lonchura striata domestica) under controlled conditions and repeatedly sampled the faecal microbiota of these birds over the first 3 months of life. We thus documented the development of the gut microbiota and characterised the relative impacts of the early social environment and host selection due to species-specific characteristics and individual genetic backgrounds across ontogeny by using 16S ribosomal RNA gene sequencing.
@@ -64,9 +58,15 @@ The establishment of the gut microbiota in early life is a critical process that
 
 ---
 
-## Hypomagnetic Field Exposure Affecting Gut Microbiota, Reactive Oxygen Species Levels, and Colonic Cell Proliferation in Mice
+## Hypomagnetic Field Exposure Affecting Gut Microbiota, Reactive Oxygen Species Levels, and Colonic Cell Proliferation in Mice.
+ 26.11.2022, _A Zhan, Y Luo, H Qin, W Lin, L Tian_
+
+
+The gut microbiota has been considered one of the key factors in host health, which is influenced by many environmental factors. The geomagnetic field (GMF) represents one of the important environmental conditions for living organisms. Previous studies have shown that the elimination of GMF, the so-called hypomagnetic field (HMF), could affect the physiological functions and resistance to antibiotics of some microorganisms. However, whether long-term HMF exposure could alter the gut microbiota to some extent in mammals remains unclear. Here, we investigated the effects of long-term (8- and 12-week) HMF exposure on the gut microbiota in C57BL/6J mice. Our results clearly showed that 8-week HMF significantly affected the diversity and function of the mouse gut microbiota. Compared with the GMF group, the concentrations of short-chain fatty acids tended to decrease in the HMF group. Immunofluorescence analysis showed that HMF promoted colonic cell proliferation, concomitant with an increased level of reactive oxygen species (ROS). To our knowledge, this is the first in vivo finding that long-term HMF exposure could affect the mouse gut microbiota, ROS levels, and colonic cell proliferation in the colon. Moreover, the changes in gut microbiota can be restored by returning mice to the GMF environment, thus the possible harm to the microbiota caused by HMF exposure can be alleviated. © 2022 Bioelectromagnetics Society.
 
 [Source](https://doi.org/10.1002/bem.22427)
+
+10.1002/bem.22427
 
 ---
 
