@@ -76,39 +76,78 @@ With the rapid progress of high-throughput sequencing technology, characterizati
 
 ---
 
-## The Kitty Microbiome Project: Defining the Healthy Fecal Core Microbiome in Pet Domestic Cats
+## The Kitty Microbiome Project: Defining the Healthy Fecal "Core Microbiome" in Pet Domestic Cats.
+ 27.11.2022, _HH Ganz, G Jospin, CA Rojas, AL Martin, K Dahlhausen, DD Kingsbury, CX Osborne, Z Entrolezo, S Redner, B Ramirez, JA Eisen, M Leahy, C Keaton, J Wong, J Gardy, JK Jarett_
+
+
+Here, we present a taxonomically defined fecal microbiome dataset for healthy domestic cats (Felis catus) fed a range of commercial diets. We used this healthy reference dataset to explore how age, diet, and living environment correlate with fecal microbiome composition. Thirty core bacterial genera were identified. Prevotella, Bacteroides, Collinsella, Blautia, and Megasphaera were the most abundant, and Bacteroides, Blautia, Lachnoclostridium, Sutterella, and Ruminococcus&amp;amp;nbsp;gnavus were the most prevalent. While community composition remained relatively stable across different age classes, the number of core taxa present decreased significantly with age. Fecal microbiome composition varied with host diet type. Cats fed kibble had a slightly, but significantly greater number of core taxa compared to cats not fed any kibble. The core microbiomes of cats fed some raw food contained taxa not as highly prevalent or abundant as cats fed diets that included kibble. Living environment also had a large effect on fecal microbiome composition. Cats living in homes differed significantly from those in shelters and had a greater portion of their microbiomes represented by core taxa. Collectively our work reinforces the findings that age, diet, and living environment are important factors to consider when defining a core microbiome in a population.
 
 [Source](https://doi.org/10.3390/vetsci9110635)
 
+10.3390/vetsci9110635
+
 ---
 
-## Bioinformatic Approaches for Describing the Oral Microbiota
+## Bioinformatic Approaches for Describing the Oral Microbiota.
+ 25.11.2022, _K Biswas, MW Taylor, DTJ Broderick_
+
+
+_Computational Biology, Microbiota, RNA, Ribosomal, 16S_
+Cultivation-independent (molecular) analysis of the oral microbiota can provide a comprehensive picture of microbial community composition, yet there is an at-times bewildering array of approaches that can be employed. This chapter introduces some of the key considerations when undertaking microbiota research and describes two alternative bioinformatic pipelines for conducting such studies. The descriptions are based on analysis of bacterial 16S ribosomal RNA gene sequences, but can be easily adapted for analysis of other microbial taxa such as fungi.
 
 [Source](https://doi.org/10.1007/978-1-0716-2780-8_8)
 
+10.1007/978-1-0716-2780-8_8
+
 ---
 
-## Predicting butyrate- and propionate-forming bacteria of gut microbiota from sequencing data
+## Predicting butyrate- and propionate-forming bacteria of gut microbiota from sequencing data.
+ 25.11.2022, _B Kircher, S Woltemate, F Gutzki, D Schlüter, R Geffers, H Bähre, M Vital_
+
+
+_Humans, Gastrointestinal Microbiome, Butyrates, Propionates, RNA, Ribosomal, 16S, Fatty Acids, Volatile, Bacteria_
+The bacteria-derived short-chain fatty acids (SCFAs) butyrate and propionate play important (distinct) roles in health and disease, and understanding the ecology of respective bacteria on a community-wide level is a top priority in microbiome research. Applying sequence data (metagenomics and 16S rRNA gene) to predict SCFAs production in vitro and in vivo, a clear split between butyrate- and propionate-forming bacteria was detected with only very few taxa exhibiting pathways for the production of both SCFAs. After in vitro growth of fecal communities from distinct donors (n = 8) on different substrates (n = 7), abundances of bacteria exhibiting pathways correlated with respective SCFA concentrations, in particular in the case of butyrate. For propionate, correlations were weaker, indicating that its production is less imprinted into the core metabolism compared with butyrate-forming bacteria. Longitudinal measurements in vivo (n = 5 time-points from 20 subjects) also revealed a correlation between abundances of pathway-carrying bacteria and concentrations of the two SCFAs. Additionally, lower bacterial cell concentrations, together with higher stool moisture, promoted overall bacterial activity (measured by flow cytometry and coverage patterns of metagenome-assembled genomes) that led to elevated SCFA concentrations with over-proportional levels of butyrate. Predictions on pathway abundances based on 16S rRNA gene data using our in-house database worked well, yielding similar results as metagenomic-based analyses. Our study indicates that stimulating growth of butyrate- and propionate-producing bacteria directly leads to more production of those compounds, which is governed by two functionally distinct bacterial groups facilitating the development of precision intervention strategies targeting either metabolite.
 
 [Source](https://doi.org/10.1080/19490976.2022.2149019)
 
+10.1080/19490976.2022.2149019
+
 ---
 
-## Machine learning for data integration in human gut microbiome
+## Machine learning for data integration in human gut microbiome.
+ 26.11.2022, _P Li, H Luo, B Ji, J Nielsen_
+
+
+_Humans, Gastrointestinal Microbiome, Microbiota, Metagenomics, Dysbiosis, Machine Learning_
+Recent studies have demonstrated that gut microbiota plays critical roles in various human diseases. High-throughput technology has been widely applied to characterize the microbial ecosystems, which led to an explosion of different types of molecular profiling data, such as metagenomics, metatranscriptomics and metabolomics. For analysis of such data, machine learning algorithms have shown to be useful for identifying key molecular signatures, discovering potential patient stratifications, and particularly for generating models that can accurately predict phenotypes. In this review, we first discuss how dysbiosis of the intestinal microbiota is linked to human disease development and how potential modulation strategies of the gut microbial ecosystem can be used for disease treatment. In addition, we introduce categories and workflows of different machine learning approaches, and how they can be used to perform integrative analysis of multi-omics data. Finally, we review advances of machine learning in gut microbiome applications and discuss related challenges. Based on this we conclude that machine learning is very well suited for analysis of gut microbiome and that these approaches can be useful for development of gut microbe-targeted therapies, which ultimately can help in achieving personalized and precision medicine.
 
 [Source](https://doi.org/10.1186/s12934-022-01973-4)
 
+10.1186/s12934-022-01973-4
+
 ---
 
-## Impact of innovative nanoadditives on biodigesters microbiome
+## Impact of innovative nanoadditives on biodigesters microbiome.
+ 23.11.2022, _FY Hassaneen, RZ Abdallah, MS Abdallah, N Ahmed, SMM Abd Elaziz, MA El-Mokhtar, MS Badary, R Siam, NK Allam_
+
+
+Nanoparticles (NPs) supplementation to biodigesters improves the digestibility of biowaste and the generation of biogas. This study investigates the impact of innovative nanoadditives on the microbiome of biodigesters. Fresh cow manure was anaerobically incubated in a water bath under mesophilic conditions for 30 days. Three different NPs (zinc ferrite, zinc ferrite with 10% carbon nanotubes and zinc ferrite with 10% C76 fullerene) were separately supplemented to the biodigesters at the beginning of the incubation period. Methane and hydrogen production were monitored daily. Manure samples were collected from the digesters at different time points and the microbial communities inside the biodigesters were investigated via real-time PCR and 16 S rRNA gene amplicon-sequencing. The results indicate that zinc ferrite NPs enhanced biogas production the most. The microbial community was significantly affected by NPs addition in terms of archaeal and bacterial 16 S rRNAgene copy numbers. The three ZF formulations NPs augmented the abundance of members within the hydrogenotrophic methanogenic phyla Methanobacteriaceae. While Methanomassiliicoccacaea were enriched in ZF/C76 supplemented biodigester due to a significant increase in hydrogen partial pressure, probably caused by the enrichment of Spirochaetaceae (genus Treponema). Overall, NPs supplementation significantly enriched acetate-producing members within Hungateiclostridiaceae in ZF/CNTs, Dysgonomonadaceae in ZF and Spirochaetaceae ZF/C76 biodigesters.
 
 [Source](https://doi.org/10.1111/1751-7915.14173)
 
+10.1111/1751-7915.14173
+
 ---
 
-## Microbiome analysis in Lascaux Cave in relation to black stain alterations of rock surfaces and collembola
+## Microbiome analysis in Lascaux Cave in relation to black stain alterations of rock surfaces and collembola.
+ 25.11.2022, _L Alonso, T Pommier, L Simon, F Maucourt, J Doré, A Dubost, V Trân Van, G Minard, C Valiente Moro, CJ Douady, Y Moënne-Loccoz_
+
+
+Anthropization of Palaeolithic caves open for tourism may favour collembola invasion and result in the formation of black stains attributed to pigmented fungi. However, ecological processes underpinning black stain formation are not fully understood. Here, we tested the hypotheses that black stains from the Apse room of Lascaux Cave display a specific microbiota enriched in pigmented fungi, and that collembola thriving on the stains have the potential to consume and disseminate these black fungi. Metabarcoding showed that the microbiota of black stains and neighbouring unstained parts strongly differed, with in black stains a higher prevalence of Ochroconis and other pigmented fungi and the strong regression of Pseudomonas bacteria (whose isolates inhibited in vitro the growth of pigmented fungi). Isotopic analyses indicated that Folsomia candida collembola thriving on stains could feed on black stain in situ and assimilate the pigmented fungi they were fed with in vitro. They could carry these fungi and disseminate them when tested with complex black stains from Lascaux. This shows that black stain formation is linked to the development of pigmented fungi, which coincides with the elimination of antagonistic pseudomonads, and points towards a key role of F. candida collembola in the dynamics of pigmented fungi.
 
 [Source](https://doi.org/10.1111/1758-2229.13133)
+
+10.1111/1758-2229.13133
 
 ---
 
