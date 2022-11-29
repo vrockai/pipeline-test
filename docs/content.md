@@ -41,9 +41,10 @@ Studies of the human microbiome are providing a deeper understanding of its sign
 ---
 
 ## Timing matters: age-dependent impacts of the social environment and host selection on the avian gut microbiota.
- 28.11.2022, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Engel, O Castillo-Gutiérrez, T Busche, J Kalinowski, BA Caspers_
+ 29.11.2022, _Ö Maraci, A Antonatou-Papaioannou, S Jünemann, K Engel, O Castillo-Gutiérrez, T Busche, J Kalinowski, BA Caspers_
 
 
+_Animals, Gastrointestinal Microbiome, Social Environment, Species Specificity, Birds_
 The establishment of the gut microbiota in early life is a critical process that influences the development and fitness of vertebrates. However, the relative influence of transmission from the early social environment and host selection throughout host ontogeny remains understudied, particularly in avian species. We conducted conspecific and heterospecific cross-fostering experiments in zebra finches (Taeniopygia guttata) and Bengalese finches (Lonchura striata domestica) under controlled conditions and repeatedly sampled the faecal microbiota of these birds over the first 3 months of life. We thus documented the development of the gut microbiota and characterised the relative impacts of the early social environment and host selection due to species-specific characteristics and individual genetic backgrounds across ontogeny by using 16S ribosomal RNA gene sequencing.
 
 [Source](https://doi.org/10.1186/s40168-022-01401-0)
