@@ -47,15 +47,9 @@ Human gut commensals are increasingly suggested to impact non-communicable disea
 
 ---
 
-## Sex, puberty, and the gut microbiome.
- 29.11.2022, _L Sisk-Hackworth, ST Kelley, VG Thackray_
-
-
-In humans, the gut microbiome is strongly implicated in numerous sex-specific physiological processes and diseases. Given this, it is important to understand how sex differentiation of the gut microbiome occurs and how these differences contribute to host health and disease. While it is commonly believed that the gut microbiome stabilizes after 3 years of age, our review of the literature found considerable evidence that the gut microbiome continues to mature during and after puberty in a sex-dependent manner. We also review the intriguing, though sparse, literature on potential mechanisms by which host sex may influence the gut microbiome, and vice versa, via sex steroids, bile acids, and the immune system. We conclude that the evidence for the existence of a sex-specific gut microbiome is strong but that there is a dearth of research on how host-microbe interactions lead to this differentiation. Finally, we discuss the types of future studies needed to understand the processes driving the maturation of sex-specific microbial communities and the interplay between gut microbiota, host sex, and human health.
+## Sex, puberty, and the gut microbiome
 
 [Source](https://rep.bioscientifica.com/view/journals/rep/aop/rep-22-0303/rep-22-0303.xml)
-
-10.1530/REP-22-0303
 
 ---
 
