@@ -58,9 +58,14 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Zooming into the structure of the microbiome
+## Zooming into the structure of the microbiome.
+ 30.11.2022, _GGR Murray, C Chaguza_
+
+
 
 [Source](https://doi.org/10.1038/s41579-022-00834-6)
+
+10.1038/s41579-022-00834-6
 
 ---
 
@@ -70,21 +75,41 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion
+## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion.
+ 02.12.2022, _P Paone, F Suriano, C Jian, K Korpela, NM Delzenne, M Van Hul, A Salonen, PD Cani_
+
+
+_Mice, Animals, Prebiotics, Diet, High-Fat, Gastrointestinal Microbiome, Glycosylation, Diabetes Mellitus, Type 2, Obesity, Bacteroidetes, Mucus_
+Obesity is a major risk factor for the development of type 2 diabetes and cardiovascular diseases, and gut microbiota plays a key role in influencing the host energy homeostasis. Moreover, obese mice have a different gut microbiota composition, associated with an alteration of the intestinal mucus layer, which represents the interface between the bacteria and the host. We previously demonstrated that prebiotic treatment with oligofructose (FOS) counteracted the effects of diet-induced obesity, together with changes in the gut microbiota composition, but it is not known if the intestinal mucus layer could be involved. In this study, we found that, in addition to preventing high-fat diet (HFD) induced obesity in mice, the treatment with FOS increased the expression of numerous genes involved in mucus production, glycosylation and secretion, the expression of both secreted and transmembrane mucins, and the differentiation and number of goblet cells. These results were associated with significant changes in the gut microbiota composition, with FOS significantly increasing the relative and absolute abundance of the bacterial genera Odoribacter, Akkermansia, two unknown Muribaculaceae and an unknown Ruminococcaceae. Interestingly, all these bacterial genera had a negative association with metabolic parameters and a positive association with markers of the mucus layer. Our study shows that FOS treatment is able to prevent HFD-induced metabolic disorders, at least in part, by acting on all the processes of the mucus production. These data suggest that targeting the mucus and the gut microbiota by using prebiotics could help to prevent or mitigate obesity and related disorders.
 
 [Source](https://doi.org/10.1080/19490976.2022.2152307)
 
+10.1080/19490976.2022.2152307
+
 ---
 
-## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health
+## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health.
+ 29.11.2022, _CR Kok, D Rose, R Hutkins_
+
+
+Inadequate dietary fiber consumption has become common across industrialized nations, accompanied by changes in gut microbial composition and a dramatic increase in chronic metabolic diseases. The human gut microbiome harbors genes that are required for the digestion of fiber, resulting in the production of end products that mediate gastrointestinal and systemic benefits to the host. Thus, the use of fiber interventions has attracted increasing interest as a strategy to modulate the gut microbiome and improve human health. However, considerable interindividual differences in gut microbial composition have resulted in variable responses toward fiber interventions. This variability has led to observed nonresponder individuals and highlights the need for personalized approaches to effectively redirect the gut ecosystem. In this review, we summarize strategies used to address the responder and nonresponder phenomenon in dietary fiber interventions and propose a targeted approach to identify predictive features based on knowledge of fiber metabolism and machine learning approaches. Expected final online publication date for the Annual Review of Food Science and Technology, Volume 14 is March 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-food-060721-015516)
 
+10.1146/annurev-food-060721-015516
+
 ---
 
-## Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia
+## Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia.
+ 02.12.2022, _C Zhao, X Hu, L Bao, K Wu, Y Zhao, K Xiang, S Li, Y Wang, M Qiu, L Feng, X Meng, N Zhang, Y Fu_
+
+
+_Female, Humans, Animals, Cattle, Mice, Dysbiosis, Endotoxemia, Lipopolysaccharides, Alkaline Phosphatase, Escherichia coli, Mastitis, Anti-Inflammatory Agents, Inflammation, Proteobacteria_
+Mounting experimental evidence has shown that the gut microbiota plays a significant role in the pathogenesis of mastitis, and clinical investigations have found that the occurrence of mastitis is correlated with ruminal dysbiosis. However, the underlying mechanism by which the ruminal microbiota participates in the development of mastitis remains unknown.
 
 [Source](https://doi.org/10.1186/s40168-022-01402-z)
+
+10.1186/s40168-022-01402-z
 
 ---
 
@@ -94,9 +119,15 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Bio-Organic Fertilizer Promotes Pear Yield by Shaping the Rhizosphere Microbiome Composition and Functions
+## Bio-Organic Fertilizer Promotes Pear Yield by Shaping the Rhizosphere Microbiome Composition and Functions.
+ 01.12.2022, _Z Wang, T Yang, X Mei, N Wang, X Li, Q Yang, C Dong, G Jiang, J Lin, Y Xu, Q Shen, A Jousset, S Banerjee_
+
+
+Bio-organic fertilizers (BOF) containing both organic amendments and beneficial microorganisms have been consistently shown to improve soils fertility and yield. However, the exact mechanisms which link amendments and yields remain disputed, and the complexity of bio-organic fertilizers may work in parallel in several ways. BOF may directly improve yield by replenishing soil nutrients or introducing beneficial microbial genes or indirectly by altering the soil microbiome to enrich native beneficial microorganisms. In this work, we aim to disentangle the relative contributions of direct and indirect effects on pear yield. We treated pear trees with either chemical fertilizer or organic fertilizer with/without the plant-beneficial bacterium Bacillus velezensis SQR9. We then assessed, in detail, soil physicochemical and biological properties (metagenome sequencing) as well as pear yield. We then evaluated the relative importance of direct and indirect effects of soil amendments on pear yield. Both organic treatments increased plant yield by up to 20%, with the addition of bacteria tripling the increase driven by organic fertilizer alone. This increase could be linked to alterations in soil physicochemical properties, bacterial community function, and metabolism. Supplementation of organic fertilizer SQR9 increased rhizosphere microbiome richness and functional diversity. Fertilizer-sensitive microbes and functions responded as whole guilds. Pear yield was most positively associated with the Mitsuaria- and Actinoplanes-dominated ecological clusters and with gene clusters involved in ion transport and secondary metabolite biosynthesis. Together, these results suggested that bio-organic fertilizers mainly act indirectly on plant yield by creating soil chemical properties which promote a plant-beneficial microbiome. IMPORTANCE Bio-organic fertilization is a widely used, eco-friendly, sustainable approach to increasing plant productivity in the agriculture and fruit industries. However, it remains unclear whether the promotion of fruit productivity is related to specific changes in microbial inoculants, the resident microbiome, and/or the physicochemical properties of rhizosphere soils. We found that bio-organic fertilizers alter soil chemical properties, thus manipulating specific microbial taxa and functions within the rhizosphere microbiome of pear plants to promote yield. Our work unveils the ecological mechanisms which underlie the beneficial impacts of bio-organic fertilizers on yield promotion in fruit orchards, which may help in the design of more efficient biofertilizers to promote sustainable fruit production.
 
 [Source](https://doi.org/10.1128/spectrum.03572-22)
+
+10.1128/spectrum.03572-22
 
 ---
 
