@@ -1,131 +1,176 @@
-## Airway microecology in rifampicin-resistant and rifampicin-sensitive pulmonary tuberculosis patients.
- 01.12.2022, _X Cai, Y Luo, Y Zhang, Y Lin, B Wu, Z Cao, Z Hu, X Wu, S Tan_
+## Different Characteristics in Gut Microbiome between Advanced Adenoma Patients and Colorectal Cancer Patients by Metagenomic Analysis.
+ 01.12.2022, _S Han, J Zhuang, Y Pan, W Wu, K Ding_
 
 
-_Humans, Rifampin, Tuberculosis, Pulmonary, Respiratory System, Fusobacterium, Microbiota_
-Pulmonary tuberculosis is a chronic infectious disease of the respiratory system. It is still one of the leading causes of death from a single infectious disease, but it has been stuck in the study of a single pathogen. Recent studies have shown that many diseases are associated with disruption of the native microbiota. In this study we investigated the occurrence of tuberculosis and the correlation between drug resistance and respiratory flora. High-throughput 16 S rRNA gene sequencing was used to characterize the respiratory microbiota composition of 30 tuberculosis (TB) affected patients and compared with 30 healthy (H) controls. According to their Gene Xpert results, 30 pulmonary tuberculosis patients were divided into 12 persons in the drug-sensitive group (DS0) and 18 persons in the drug-resistant group (DR0). The microbial flora of the two were compared with the H group.
+The occurrence and development of colorectal cancer (CRC) and advanced adenoma (AA) are closely related to the gut microbiome, and AA has a high cancerization progression rate to CRC. Current studies have revealed that bacteriological analysis cannot identify CRC from AA. The objective was to explore microbial targets that could identify CRC and AA from a microecological perspective and to figure out the best way to identify CRC based on fecal microbes. The metagenomic sequencing data were used to describe the gut microbiome profile and analyze the differences between microbial abundance and microbial single nucleotide polymorphism (SNP) characteristics in AA and CRC patients. It was found that there were no significant differences in the diversity between the two groups. The abundance of bacteria (e.g., Firmicutes, Clostridia, and Blautia), fungi (Hypocreales), archaea (Methanosarcina, Methanoculleus, and Methanolacinia), and viruses (Alphacoronavirus, Sinsheimervirus, and Gammaretrovirus) differed between AA and CRC patients. Multiple machine-learning algorithms were used to establish prediction models, aiming to identify CRC and AA. The accuracy of the random forest (RF) model based on the gut microbiome was 86.54%. Nevertheless, the accuracy of SNP was 92.31% in identifying CRC from AA. In conclusion, using microbial SNP was the best method to identify CRC, it was superior to using the gut microbiome, and it could provide new targets for CRC screening. IMPORTANCE There are differences in characteristic microorganisms between AA and CRC. However, current studies have indicated that bacteriological analysis cannot identify CC from AA, and thus, we wondered if there were some other targets that could be used to identify CRC from AA in the gut microbiome. The differences of SNPs in the gut microbiota of intraindividuals were significantly smaller than those of interindividuals. In addition, compared with intestinal microbes, SNP was less affected by time with certain stability. It was discovered that microbial SNP was better than the gut microbiome for identifying CRC from AA. Therefore, screening characteristic microbial SNP could provide a new research direction for identifying CRC from AA.
 
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-022-02705-9)
+[Source](https://doi.org/10.1128/spectrum.01593-22)
 
-10.1186/s12866-022-02705-9
-
----
-
-## Oral Bacteriome and Mycobiome across Stages of Oral Carcinogenesis.
- 29.11.2022, _W Heng, W Wang, T Dai, P Jiang, Y Lu, R Li, M Zhang, R Xie, Y Zhou, M Zhao, N Duan, Z Ye, F Yan, X Wang_
-
-
-Oral microbial dysbiosis contributes to the development of oral squamous cell carcinoma (OSCC). Numerous studies have focused on variations in the oral bacterial microbiota of patients with OSCC. However, similar studies on fungal microbiota, another integral component of the oral microbiota, are scarce. Moreover, there is an evidence gap regarding the role that microecosystems play in different niches of the oral cavity at different stages of oral carcinogenesis. Here, we catalogued the microbial communities in the human oral cavity by profiling saliva, gingival plaque, and mucosal samples at different stages of oral carcinogenesis. We analyzed the oral bacteriome and mycobiome along the health-premalignancy-carcinoma sequence. Some species, including Prevotella intermedia, Porphyromonas endodontalis, Acremonium exuviarum, and Aspergillus fumigatus, were enriched, whereas others, such as Streptococcus salivarius subsp. salivarius, Scapharca broughtonii, Mortierella echinula, and Morchella septimelata, were depleted in OSCC. These findings suggest that an array of signature species, including bacteria and fungi, are closely associated with oral carcinogenesis. OSCC-associated diversity differences, species distinction, and functional alterations were most remarkable in mucosal samples, not in gingival plaque or saliva samples, suggesting an urgent need to define oral carcinogenesis-associated microbial dysbiosis based on the spatial microbiome. IMPORTANCE Abundant oral microorganisms constitute a complex microecosystem within the oral environment of the host, which plays a critical role in the adjustment of various physiological and pathological states of the oral cavity. In this study, we demonstrated that variations in the "core microbiome" may be used to predict carcinogenesis. In addition, sample data collected from multiple oral sites along the health-premalignancy-carcinoma sequence increase our understanding of the microecosystems of different oral niches and their specific changes during oral carcinogenesis. This work provides insight into the roles of bacteria and fungi in OSCC and may contribute to the development of early diagnostic assays and novel treatments.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02737-22)
-
-10.1128/spectrum.02737-22
+10.1128/spectrum.01593-22
 
 ---
 
-## Double-edged sword: impact of fecal microbiome transplants on the gut resistome
-
-[Source](https://journals.lww.com/co-gastroenterology/Abstract/9900/Double_edged_sword__impact_of_fecal_microbiome.36.aspx)
-
----
-
-## Targeted suppression of human IBD-associated gut microbiota commensals by phage consortia for treatment of intestinal inflammation.
- 31.10.2022, _S Federici, S Kredo-Russo, R Valdés-Mas, D Kviatcovsky, E Weinstock, Y Matiuhin, Y Silberberg, K Atarashi, M Furuichi, A Oka, B Liu, M Fibelman, IN Weiner, E Khabra, N Cullin, N Ben-Yishai, D Inbar, H Ben-David, J Nicenboim, N Kowalsman, W Lieb, E Kario, T Cohen, YF Geffen, L Zelcbuch, A Cohen, U Rappo, I Gahali-Sass, M Golembo, V Lev, M Dori-Bachash, H Shapiro, C Moresi, A Cuevas-Sierra, G Mohapatra, L Kern, D Zheng, SP Nobs, J Suez, N Stettner, A Harmelin, N Zak, S Puttagunta, M Bassan, K Honda, H Sokol, C Bang, A Franke, C Schramm, N Maharshak, RB Sartor, R Sorek, E Elinav_
+## The Spatial Features and Temporal Changes in the Gut Microbiota of a Healthy Chinese Population.
+ 01.12.2022, _W Zhang, N Han, T Zhang, Y Qiang, X Peng, X Li, B Kan_
 
 
-_Animals, Bacteriophages, Colitis, Gastrointestinal Microbiome, Humans, Inflammation, Inflammatory Bowel Diseases, Klebsiella pneumoniae, Mice_
-Human gut commensals are increasingly suggested to impact non-communicable diseases, such as inflammatory bowel diseases (IBD), yet their targeted suppression remains a daunting unmet challenge. In four geographically distinct IBD cohorts (n = 537), we identify a clade of Klebsiella pneumoniae (Kp) strains, featuring a unique antibiotics resistance and mobilome signature, to be strongly associated with disease exacerbation and severity. Transfer of clinical IBD-associated Kp strains into colitis-prone, germ-free, and colonized mice enhances intestinal inflammation. Stepwise generation of a lytic five-phage combination, targeting sensitive and resistant IBD-associated Kp clade members through distinct mechanisms, enables effective Kp suppression in colitis-prone mice, driving an attenuated inflammation and disease severity. Proof-of-concept assessment of Kp-targeting phages in an artificial human gut and in healthy volunteers demonstrates gastric acid-dependent phage resilience, safety, and viability in the lower gut. Collectively, we demonstrate the feasibility of orally administered combination phage therapy in avoiding resistance, while effectively inhibiting non-communicable disease-contributing pathobionts.
+In this study, we aimed to understand the characteristics of the gut microbial composition in a healthy Chinese population and to evaluate if they differed across different regions. In addition, we aimed to understand the changes in the gut microbial composition over time. We collected 239 fecal samples from healthy Chinese adults living in four regions and performed a 1-year time cohort study in a small population in Beijing. The Chinese gut microbiota share 34 core bacterial genera and 39 core bacterial species, which exist in all collected samples. Several disease-related microorganisms (DRMs), virulence factors, and antibiotic resistance genes were found in one or more healthy Chinese samples. Differences in gut microbiota were observed in samples from different regions, locations, individuals, and time points. Compared to other factors, time was associated with a lower degree of change in the gut microbiota. Our findings revealed spatial and temporal changes in the gut microbiota of healthy Chinese individuals. Compared to fecal microbiomes of 152 samples in the publicly released the Human Microbiome Project (HMP) project from the United States, samples in this study have higher variability in the fecal microbiome, with higher richness, Shannon diversity indices, and Pielou evenness indexes, at both the genus and species levels. The microbiota data obtained in this study will provide a detailed basis for further understanding the composition of the gut microbiota in the healthy Chinese population. IMPORTANCE China accounts for approximately 1/5th of the world's total population. Differences in environment, ethnicity, and living habits could impart unique features to the structure of the gut microbiota of Chinese individuals. In 2016, we started to investigate healthy Chinese people and their gut microbiomes. Phase I results for 16S rRNA amplicons have been released. However, owing to the limitations of 16S rRNA amplicon sequencing, the gut microbiome of a healthy Chinese population could not be examined thoroughly at the species level, and the detailed changes in the gut microbiota over time need to be investigated. To address these knowledge gaps, we started a phase II study and investigated the basis for variations in the gut microbiome composition in a healthy Chinese population at the species level using shotgun metagenomics technology. In the phase II study, we also conducted a time scale analysis of fecal samples from healthy Chinese subjects, as a pioneered study, which quantitatively clarified the changes in the gut microbiota at both the spatial and temporal levels and elucidated the distribution pattern of DRMs in healthy Chinese individuals.
 
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0092867422008509)
+[Source](https://doi.org/10.1128/spectrum.01310-22)
 
-10.1016/j.cell.2022.07.003
+10.1128/spectrum.01310-22
 
 ---
 
-## Gut microbiome alterations in preclinical Alzheimer’s disease
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278276)
-
----
-
-## Sex, puberty, and the gut microbiome.
- 29.11.2022, _L Sisk-Hackworth, ST Kelley, VG Thackray_
+## The Gut Microbiota is Important for the Maintenance of Blood-Cerebrospinal Fluid Barrier Integrity.
+ 01.12.2022, _EG Knox, CMK Lynch, YS Lee, CM O'Driscoll, G Clarke, JF Cryan, MR Aburto_
 
 
-In humans, the gut microbiome is strongly implicated in numerous sex-specific physiological processes and diseases. Given this, it is important to understand how sex differentiation of the gut microbiome occurs and how these differences contribute to host health and disease. While it is commonly believed that the gut microbiome stabilizes after 3 years of age, our review of the literature found considerable evidence that the gut microbiome continues to mature during and after puberty in a sex-dependent manner. We also review the intriguing, though sparse, literature on potential mechanisms by which host sex may influence the gut microbiome, and vice versa, via sex steroids, bile acids, and the immune system. We conclude that the evidence for the existence of a sex-specific gut microbiome is strong but that there is a dearth of research on how host-microbe interactions lead to this differentiation. Finally, we discuss the types of future studies needed to understand the processes driving the maturation of sex-specific microbial communities and the interplay between gut microbiota, host sex, and human health.
+The gut microbiota communicates with the brain though several pathways including the vagus nerve, immune system, microbial metabolites, and through the endocrine system. Pathways along the humoral/immune gut-microbiota-brain axis comprise of a series of vascular and epithelial barriers including the intestinal epithelial barrier, gut-vascular barrier, blood brain barrier, and blood-cerebrospinal fluid barrier. Of these barriers, the relationship between the gut microbiota and blood-cerebrospinal fluid barrier is yet to be fully defined. Here, using a germ-free mouse model, we aimed to assess the relationship between the gut microbiota and the integrity of the blood-cerebrospinal fluid barrier which is localized to the choroid plexus epithelium. Using confocal microscopy, we visualized the tight junction protein zonula occludens-1, an integral aspect of choroid plexus integrity, as well as the choroid plexus fenestrated capillaries. Quantification of tight junction proteins via network analysis led to the observation that there was a decrease in the zonula occludens-1 network organization in germ-free mice, however, we did not observe any differences in capillary structure. Taken together, these data indicate that the blood- cerebrospinal fluid barrier is another barrier along the gut-microbiota-brain axis. Future studies are required to elucidate its relative contribution in signaling from microbiota to the brain.
 
-[Source](https://rep.bioscientifica.com/view/journals/rep/aop/rep-22-0303/rep-22-0303.xml)
+[Source](https://doi.org/10.1111/ejn.15878)
 
-10.1530/REP-22-0303
+10.1111/ejn.15878
 
 ---
 
-## Lactobacillus reuteri tryptophan metabolism promotes host susceptibility to CNS autoimmunity.
- 30.11.2022, _TL Montgomery, K Eckstrom, KH Lile, S Caldwell, ER Heney, KG Lahue, A D'Alessandro, MJ Wargo, DN Krementsov_
+## Evaluation of co-circulating pathogens and microbiome from COVID-19 infections.
+ 01.12.2022, _JB Thissen, MD Morrison, N Mulakken, WC Nelson, C Daum, S Messenger, DA Wadford, C Jaing_
 
 
-_Mice, Animals, Lactobacillus reuteri, Autoimmunity, Tryptophan, Multiple Sclerosis, Indoles_
-Dysregulation of gut microbiota-associated tryptophan metabolism has been observed in patients with multiple sclerosis. However, defining direct mechanistic links between this apparent metabolic rewiring and individual constituents of the gut microbiota remains challenging. We and others have previously shown that colonization with the gut commensal and putative probiotic species, Lactobacillus reuteri, unexpectedly enhances host susceptibility to experimental autoimmune encephalomyelitis (EAE), a murine model of multiple sclerosis. To identify underlying mechanisms, we characterized the genome of commensal L. reuteri isolates, coupled with in vitro and in vivo metabolomic profiling, modulation of dietary substrates, and gut microbiota manipulation.
+Co-infections or secondary infections with SARS-CoV-2 have the potential to affect disease severity and morbidity. Additionally, the potential influence of the nasal microbiome on COVID-19 illness is not well understood. In this study, we analyzed 203 residual samples, originally submitted for SARS-CoV-2 testing, for the presence of viral, bacterial, and fungal pathogens and non-pathogens using a comprehensive microarray technology, the Lawrence Livermore Microbial Detection Array (LLMDA). Eighty-seven percent of the samples were nasopharyngeal samples, and 23% of the samples were oral, nasal and oral pharyngeal swabs. We conducted bioinformatics analyses to examine differences in microbial populations of these samples, as a proxy for the nasal and oral microbiome, from SARS-CoV-2 positive and negative specimens. We found 91% concordance with the LLMDA relative to a diagnostic RT-qPCR assay for detection of SARS-CoV-2. Sixteen percent of all the samples (32/203) revealed the presence of an opportunistic bacterial or frank viral pathogen with the potential to cause co-infections. The two most detected bacteria, Streptococcus pyogenes and Streptococcus pneumoniae, were present in both SARS-CoV-2 positive and negative samples. Human metapneumovirus was the most prevalent viral pathogen in the SARS-CoV-2 negative samples. Sequence analysis of 16S rRNA was also conducted to evaluate bacterial diversity and confirm LLMDA results.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01408-7)
+[Source](https://doi.org/10.1371/journal.pone.0278543)
 
-10.1186/s40168-022-01408-7
-
----
-
-## Genomic and Environmental Factors Shape the Active Gill Bacterial Community of an Amazonian Teleost Holobiont.
- 29.11.2022, _FÉ Sylvain, N Leroux, É Normandeau, A Holland, S Bouslama, PL Mercier, A Luis Val, N Derome_
-
-
-Fish bacterial communities provide functions critical for their host's survival in contrasting environments. These communities are sensitive to environmental-specific factors (i.e., physicochemical parameters, bacterioplankton), and host-specific factors (i.e., host genetic background). The relative contribution of these factors shaping Amazonian fish bacterial communities is largely unknown. Here, we investigated this topic by analyzing the gill bacterial communities of 240 wild flag cichlids (Mesonauta festivus) from 4 different populations (genetic clusters) distributed across 12 sites in 2 contrasting water types (ion-poor/acidic black water and ion-rich/circumneutral white water). Transcriptionally active gill bacterial communities were characterized by a 16S rRNA metabarcoding approach carried on RNA extractions. They were analyzed using comprehensive data sets from the hosts genetic background (Genotyping-By-Sequencing), the bacterioplankton (16S rRNA) and a set of 34 environmental parameters. Results show that the taxonomic structure of 16S rRNA gene transcripts libraries were significantly different between the 4 genetic clusters and also between the 2 water types. However, results suggest that the contribution of the host's genetic background was relatively weak in comparison to the environment-related factors in structuring the relative abundance of different active gill bacteria species. This finding was also confirmed by a mixed-effects modeling analysis, which indicated that the dissimilarity between the taxonomic structure of bacterioplanktonic communities possessed the best explicative power regarding the dissimilarity between gill bacterial communities' structure, while pairwise fixation indexes (FST) from the hosts' genetic data only had a weak explicative power. We discuss these results in terms of bacterial community assembly processes and flag cichlid fish ecology. IMPORTANCE Host-associated microbial communities respond to factors specific to the host physiology, genetic backgrounds, and life history. However, these communities also show different degrees of sensitivity to environment-dependent factors, such as abiotic physico-chemical parameters and ecological interactions. The relative importance of host- versus environment-associated factors in shaping teleost bacterial communities is still understudied and is paramount for their conservation and aquaculture. Here, we studied the relative importance of host- and environment-associated factors structuring teleost bacterial communities using gill samples from a wild Amazonian teleost model (Mesonauta festivus) sampled in contrasting habitats along a 1500 km section of the Amazonian basin, thus ensuring high genetic diversity. Results showed that the contribution of the host's genetic background was weak compared to environment-related bacterioplanktonic communities in shaping gill bacterial assemblages, thereby suggesting that our understanding of teleost microbiome assembly could benefit from further studies focused on the ecological interplay between host-associated and free-living communities.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02064-22)
-
-10.1128/spectrum.02064-22
+10.1371/journal.pone.0278543
 
 ---
 
-## Lack of host phylogenetic structure in the gut bacterial communities of New Zealand cicadas and their interspecific hybrids.
- 01.12.2022, _D Haji, J Vailionis, M Stukel, E Gordon, EM Lemmon, AR Lemmon, C Simon_
+## A Clinical Study Provides the First Direct Evidence That Interindividual Variations in Fecal β-Lactamase Activity Affect the Gut Mycobiota Dynamics in Response to β-Lactam Antibiotics
 
-
-_Animals, Hemiptera, Phylogeny, Gastrointestinal Microbiome, New Zealand, Alphaproteobacteria_
-Host-microbe interactions are intimately linked to eukaryotic evolution, particularly in sap-sucking insects that often rely on obligate microbial symbionts for nutrient provisioning. Cicadas (Cicadidae: Auchenorrhyncha) specialize on xylem fluid and derive many essential amino acids and vitamins from intracellular bacteria or fungi (Hodgkinia, Sulcia, and Ophiocordyceps) that are propagated via transmission from mothers to offspring. Despite the beneficial role of these non-gut symbionts in nutrient provisioning, the role of beneficial microbiota within the gut remains unclear. Here, we investigate the relative abundance and impact of host phylogeny and ecology on gut microbial diversity in cicadas using 16S ribosomal RNA gene amplicon sequencing data from 197 wild-collected cicadas and new mitochondrial genomes across 38 New Zealand cicada species, including natural hybrids between one pair of two species. We find low abundance and a lack of phylogenetic structure and hybrid effects but a significant role of elevation in explaining variation in gut microbiota.
-
-[Source](https://www.nature.com/articles/s41598-022-24723-3)
-
-10.1038/s41598-022-24723-3
+[Source](https://doi.org/10.1128/mbio.02880-22)
 
 ---
 
-## Unveiling the Wheat Microbiome under Varied Agricultural Field Conditions.
- 29.11.2022, _S Jaiswal, B Aneja, J Jagannadham, B Pandey, RS Chhokar, SC Gill, OP Ahlawat, A Kumar, UB Angadi, A Rai, R Tiwari, MA Iquebal, D Kumar_
+## Clostridia isolated from helminth-colonized humans promote the life cycle of <em>Trichuris</em> species
 
-
-Wheat being the important staple food crop plays a significant role in nutritional security. A wide variety of microbial communities beneficial to plants and contributing to plant health and production are found in the rhizosphere. The wheat microbiome encompasses an extensive variety of microbial species playing a key role in sustaining the physiology of the crop, nutrient uptake, and biotic/abiotic stress resilience. This report presents wheat microbiome analysis under six different farm practices, namely, organic (Org), timely sown (TS), wheat after pulse crop (WAPC), temperature-controlled phenotyping facility (TCPF), maize-wheat cropping system (MW), and residue burnt field (Bur), using 16S rRNA sequencing methodology. The soil samples collected from either side of the wheat row were mixed to get a final sample set for DNA extraction under each condition. After the data preprocessing, microbial community analysis was performed, followed by functional analysis and annotation. An abundance of the phylum Proteobacteria was observed, followed by Acidobacteria, Actinobacteria, and Gemmatimonadetes in the majority of the samples, while relative abundance was found to vary at the genus level. Analysis against the Carbohydrate-Active Enzymes (CAZy) database showed a high number of glycoside hydrolase genes in the TS, TCPF, and WAPC samples, while the Org, MW, and Bur samples predominantly had glycosyltransferase genes and carbohydrate esterase genes were in the lowest numbers. Also, the Org and TCPF samples showed lower diversity, while rare and abundant species ranged from 12 to 25% and 20 to 32% of the total bacterial species in all the sets, respectively. These variations indicate that the different cropping sequence had a significant impact on soil microbial diversity and community composition, which characterizes its economic and environmental value as a sustainable agricultural approach to maintaining food security and ecosystem health. IMPORTANCE This investigation examined the wheat microbiome under six different agricultural field conditions to understand the role of cropping pattern on soil microbial diversity. This study also elaborated the community composition, which has importance in economic (role of beneficial community leading to higher production) and environmental (role of microbial diversity/community in safeguarding the soil health, etc.) arenas. This could lead to a sustainable farming approach for food security and improved ecosystem health. Also, the majority of the microbes are unculturable; hence, technology-based microcultivation will be a potential approach for harnessing other cultured microorganisms, leading to unique species for commercial production. The outcome of this research-accelerated work can provide an idea to the scientists/breeders/agronomists/pathologists under the mentioned field conditions regarding their influence over their crops.
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02633-22)
-
-10.1128/spectrum.02633-22
+[Source](https://doi.org/10.1016/j.celrep.2022.111725)
 
 ---
 
-## Changes of the microbial community in kiwifruit during storage after postharvest application of Wickerhamomyces anomalus.
- 01.12.2022, _Q Zhao, Y Shi, G Legrand Ngolong Ngea, X Zhang, Q Yang, Q Zhang, X Xu, H Zhang_
+## Zooming into the structure of the microbiome
 
-
-_Actinidia, Fruit, Microbiota, Saccharomycetales, Food Storage, Food Contamination, Fungi_
-High-throughput sequencing techniques can provide important information for understanding the interaction between exogenous microbial agents and fruit microbial communities, and explain how it controls postharvest fungal diseases. In this study, we found that Wickerhamomyces anomalus could control the postharvest disease of kiwifruit. Meanwhile, high-throughput sequencing technology results showed that the composition and structure changes of the fungal community in microbial flora were significantly greater than those of bacteria after W. anomalus treated. W. anomalus could colonize inside the fruit and regulate the community composition of bacteria to reduce the abundance of pathogens and eventually maintain the healthy state of the fruit. The dominant genus in the microbiota of kiwifruit after application of W. anomalus showed an increased ability to interact. Some fungi or bacteria are positively associated with yeast in the epiphytic and endophytic sample communities, guiding the synthesis of compound biocontrol strains for kiwifruit postharvest diseases.
-
-[Source](https://www.sciencedirect.com/science/article/abs/pii/S0308814622025559)
-
-10.1016/j.foodchem.2022.134593
+[Source](https://doi.org/10.1038/s41579-022-00834-6)
 
 ---
 
-## A dark matter in sake brewing: Origin of microbes producing a Kimoto-style fermentation starter
+## <em>Saussurea involucrata</em> oral liquid regulates gut microbiota and serum metabolism during alleviation of collagen-induced arthritis in rats
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.11.28.518188v1.abstract)
+[Source](https://doi.org/10.1002/ptr.7681)
+
+---
+
+## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion.
+ 01.12.2022, _P Paone, F Suriano, C Jian, K Korpela, NM Delzenne, M Van Hul, A Salonen, PD Cani_
+
+
+_Mice, Animals, Prebiotics, Diet, High-Fat, Gastrointestinal Microbiome, Glycosylation, Diabetes Mellitus, Type 2, Obesity, Bacteroidetes, Mucus_
+Obesity is a major risk factor for the development of type 2 diabetes and cardiovascular diseases, and gut microbiota plays a key role in influencing the host energy homeostasis. Moreover, obese mice have a different gut microbiota composition, associated with an alteration of the intestinal mucus layer, which represents the interface between the bacteria and the host. We previously demonstrated that prebiotic treatment with oligofructose (FOS) counteracted the effects of diet-induced obesity, together with changes in the gut microbiota composition, but it is not known if the intestinal mucus layer could be involved. In this study, we found that, in addition to preventing high-fat diet (HFD) induced obesity in mice, the treatment with FOS increased the expression of numerous genes involved in mucus production, glycosylation and secretion, the expression of both secreted and transmembrane mucins, and the differentiation and number of goblet cells. These results were associated with significant changes in the gut microbiota composition, with FOS significantly increasing the relative and absolute abundance of the bacterial genera Odoribacter, Akkermansia, two unknown Muribaculaceae and an unknown Ruminococcaceae. Interestingly, all these bacterial genera had a negative association with metabolic parameters and a positive association with markers of the mucus layer. Our study shows that FOS treatment is able to prevent HFD-induced metabolic disorders, at least in part, by acting on all the processes of the mucus production. These data suggest that targeting the mucus and the gut microbiota by using prebiotics could help to prevent or mitigate obesity and related disorders.
+
+[Source](https://doi.org/10.1080/19490976.2022.2152307)
+
+10.1080/19490976.2022.2152307
+
+---
+
+## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health.
+ 29.11.2022, _CR Kok, D Rose, R Hutkins_
+
+
+Inadequate dietary fiber consumption has become common across industrialized nations, accompanied by changes in gut microbial composition and a dramatic increase in chronic metabolic diseases. The human gut microbiome harbors genes that are required for the digestion of fiber, resulting in the production of end products that mediate gastrointestinal and systemic benefits to the host. Thus, the use of fiber interventions has attracted increasing interest as a strategy to modulate the gut microbiome and improve human health. However, considerable interindividual differences in gut microbial composition have resulted in variable responses toward fiber interventions. This variability has led to observed nonresponder individuals and highlights the need for personalized approaches to effectively redirect the gut ecosystem. In this review, we summarize strategies used to address the responder and nonresponder phenomenon in dietary fiber interventions and propose a targeted approach to identify predictive features based on knowledge of fiber metabolism and machine learning approaches. Expected final online publication date for the Annual Review of Food Science and Technology, Volume 14 is March 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
+
+[Source](https://doi.org/10.1146/annurev-food-060721-015516)
+
+10.1146/annurev-food-060721-015516
+
+---
+
+## Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia.
+ 01.12.2022, _C Zhao, X Hu, L Bao, K Wu, Y Zhao, K Xiang, S Li, Y Wang, M Qiu, L Feng, X Meng, N Zhang, Y Fu_
+
+
+Mounting experimental evidence has shown that the gut microbiota plays a significant role in the pathogenesis of mastitis, and clinical investigations have found that the occurrence of mastitis is correlated with ruminal dysbiosis. However, the underlying mechanism by which the ruminal microbiota participates in the development of mastitis remains unknown.
+
+[Source](https://doi.org/10.1186/s40168-022-01402-z)
+
+10.1186/s40168-022-01402-z
+
+---
+
+## Chronic clinical signs of upper respiratory tract disease associate with gut and respiratory microbiomes in a cohort of domestic felines
+
+[Source](https://doi.org/10.1371/journal.pone.0268730)
+
+---
+
+## Bio-Organic Fertilizer Promotes Pear Yield by Shaping the Rhizosphere Microbiome Composition and Functions.
+ 01.12.2022, _Z Wang, T Yang, X Mei, N Wang, X Li, Q Yang, C Dong, G Jiang, J Lin, Y Xu, Q Shen, A Jousset, S Banerjee_
+
+
+Bio-organic fertilizers (BOF) containing both organic amendments and beneficial microorganisms have been consistently shown to improve soils fertility and yield. However, the exact mechanisms which link amendments and yields remain disputed, and the complexity of bio-organic fertilizers may work in parallel in several ways. BOF may directly improve yield by replenishing soil nutrients or introducing beneficial microbial genes or indirectly by altering the soil microbiome to enrich native beneficial microorganisms. In this work, we aim to disentangle the relative contributions of direct and indirect effects on pear yield. We treated pear trees with either chemical fertilizer or organic fertilizer with/without the plant-beneficial bacterium Bacillus velezensis SQR9. We then assessed, in detail, soil physicochemical and biological properties (metagenome sequencing) as well as pear yield. We then evaluated the relative importance of direct and indirect effects of soil amendments on pear yield. Both organic treatments increased plant yield by up to 20%, with the addition of bacteria tripling the increase driven by organic fertilizer alone. This increase could be linked to alterations in soil physicochemical properties, bacterial community function, and metabolism. Supplementation of organic fertilizer SQR9 increased rhizosphere microbiome richness and functional diversity. Fertilizer-sensitive microbes and functions responded as whole guilds. Pear yield was most positively associated with the Mitsuaria- and Actinoplanes-dominated ecological clusters and with gene clusters involved in ion transport and secondary metabolite biosynthesis. Together, these results suggested that bio-organic fertilizers mainly act indirectly on plant yield by creating soil chemical properties which promote a plant-beneficial microbiome. IMPORTANCE Bio-organic fertilization is a widely used, eco-friendly, sustainable approach to increasing plant productivity in the agriculture and fruit industries. However, it remains unclear whether the promotion of fruit productivity is related to specific changes in microbial inoculants, the resident microbiome, and/or the physicochemical properties of rhizosphere soils. We found that bio-organic fertilizers alter soil chemical properties, thus manipulating specific microbial taxa and functions within the rhizosphere microbiome of pear plants to promote yield. Our work unveils the ecological mechanisms which underlie the beneficial impacts of bio-organic fertilizers on yield promotion in fruit orchards, which may help in the design of more efficient biofertilizers to promote sustainable fruit production.
+
+[Source](https://doi.org/10.1128/spectrum.03572-22)
+
+10.1128/spectrum.03572-22
+
+---
+
+## Impacts of maize hybrids with different nitrogen use efficiency on root-associated microbiota based on distinct rhizosphere soil metabolites.
+ 01.12.2022, _K Li, L Chen, W Shi, C Hu, Y Sha, G Feng, E Wang, W Chen, X Sui, G Mi_
+
+
+Plant genotypes shape root-associated microbiota that affect plant nutrient acquisition and productivity. It is unclear how maize hybrids modify root-associated microbiota and their functions and relationship with nitrogen use efficiency (NUE) by regulating rhizosphere soil metabolites. Here, two N-efficient (NE) (ZD958, DMY3) and two N-inefficient (NIE) maize hybrids (YD9953, LY99) were used to investigate this issue under low N (60 kg N ha-1 , LN) and high N (180 kg N ha-1 , HN) field conditions. NE hybrids had higher yield than NIE hybrids under LN but not HN. NE and NIE hybrids recruited only distinct root-associated bacterial microbiota in LN. The bacterial network stability was stronger in NE than NIE hybrids. Compared with NIE hybrids, NE hybrids recruited more bacterial taxa that have been described as plant growth-promoting rhizobacteria (PGPR), and less related to denitrification and N competition; this resulted in low N2 O emission and high rhizosphere NO3 - -N accumulation. NE and NIE hybrids had distinct rhizosphere soil metabolite patterns, and their specific metabolites were closely related to microbiota and specific genera under LN. Our findings reveal the relationships among plant NUE, rhizosphere soil metabolites, root-associated microbiota, and soil nutrient cycling, and this information is informative for breeding NE crops. This article is protected by copyright. All rights reserved.
+
+[Source](https://doi.org/10.1111/1462-2920.16293)
+
+10.1111/1462-2920.16293
+
+---
+
+## Coupled C, H, N, S and Fe biogeochemical cycles operating in the continental deep subsurface of the Iberian Pyrite Belt
+
+[Source](https://doi.org/10.1111/1462-2920.16291)
+
+---
+
+## Long-Read Sequencing Improves Recovery of Picoeukaryotic Genomes and Zooplankton Marker Genes from Marine Metagenomes.
+ 30.11.2022, _NV Patin, KD Goodwin_
+
+
+Long-read sequencing offers the potential to improve metagenome assemblies and provide more robust assessments of microbial community composition and function than short-read sequencing. We applied Pacific Biosciences (PacBio) CCS (circular consensus sequencing) HiFi shotgun sequencing to 14 marine water column samples and compared the results with those for short-read metagenomes from the corresponding environmental DNA samples. We found that long-read metagenomes varied widely in quality and biological information. The community compositions of the corresponding long- and short-read metagenomes were frequently dissimilar, suggesting higher stochasticity and/or bias associated with PacBio sequencing. Long reads provided few improvements to the assembly qualities, gene annotations, and prokaryotic metagenome-assembled genome (MAG) binning results. However, only long reads produced high-quality eukaryotic MAGs and contigs containing complete zooplankton marker gene sequences. These results suggest that high-quality long-read metagenomes can improve marine community composition analyses and provide important insight into eukaryotic phyto- and zooplankton genetics, but the benefits may be outweighed by the inconsistent data quality. IMPORTANCE Ocean microbes provide critical ecosystem services, but most remain uncultivated. Their communities can be studied through shotgun metagenomic sequencing and bioinformatic analyses, including binning draft microbial genomes. However, most sequencing to date has been done using short-read technology, which rarely yields genome sequences of key microbes like SAR11. Long-read sequencing can improve metagenome assemblies but is hampered by technological shortcomings and high costs. In this study, we compared long- and short-read sequencing of marine metagenomes. We found a wide range of long-read metagenome qualities and minimal improvements to microbiome analyses. However, long reads generated draft genomes of eukaryotic algal species and provided full-length marker gene sequences of zooplankton species, including krill and copepods. These results suggest that long-read sequencing can provide greater genetic insight into the wide diversity of eukaryotic phyto- and zooplankton that interact as part of and with the marine microbiome.
+
+[Source](https://doi.org/10.1128/msystems.00595-22)
+
+10.1128/msystems.00595-22
+
+---
+
+## The Application of Spearman Partial Correlation for Screening Predictors of Weight Loss in a Multiomics Dataset
+
+[Source](https://doi.org/10.1089/omi.2022.0135)
+
+---
+
+## Sampling of Human Microbiomes to Screen for Antibiotic-Producing Commensals.
+ 01.12.2022, _B Torres Salazar, A Lange, L Camus, S Heilbronner_
+
+
+_Humans, Anti-Bacterial Agents, Microbiota, Skin, Nose, Soil_
+Soil-derived microorganisms have been sampled intensively throughout the last decades in order to discover bacterial strains that produce new antibiotics. The increasing emergence of multidrug-resistant bacteria and the constant high demand for new antibiotic classes are leading to the sampling and investigation of new microbiomes that contain antimicrobial producers. Human-associated microbiomes are therefore gaining more and more attention. This chapter presents a detailed description of how human microbiomes can be sampled and how microbiota members from skin and nasal samples can be isolated. Different methods for antimicrobial compound screening are presented.
+
+[Source](https://doi.org/10.1007/978-1-0716-2855-3_3)
+
+10.1007/978-1-0716-2855-3_3
 
 ---
 
