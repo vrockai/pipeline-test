@@ -71,7 +71,7 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 ---
 
 ## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion.
- 02.12.2022, _P Paone, F Suriano, C Jian, K Korpela, NM Delzenne, M Van Hul, A Salonen, PD Cani_
+ 03.12.2022, _P Paone, F Suriano, C Jian, K Korpela, NM Delzenne, M Van Hul, A Salonen, PD Cani_
 
 
 _Mice, Animals, Prebiotics, Diet, High-Fat, Gastrointestinal Microbiome, Glycosylation, Diabetes Mellitus, Type 2, Obesity, Bacteroidetes, Mucus_
@@ -96,7 +96,7 @@ Inadequate dietary fiber consumption has become common across industrialized nat
 ---
 
 ## Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia.
- 02.12.2022, _C Zhao, X Hu, L Bao, K Wu, Y Zhao, K Xiang, S Li, Y Wang, M Qiu, L Feng, X Meng, N Zhang, Y Fu_
+ 03.12.2022, _C Zhao, X Hu, L Bao, K Wu, Y Zhao, K Xiang, S Li, Y Wang, M Qiu, L Feng, X Meng, N Zhang, Y Fu_
 
 
 _Female, Humans, Animals, Cattle, Mice, Dysbiosis, Endotoxemia, Lipopolysaccharides, Alkaline Phosphatase, Escherichia coli, Mastitis, Anti-Inflammatory Agents, Inflammation, Proteobacteria_
