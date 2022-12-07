@@ -59,9 +59,14 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Zooming into the structure of the microbiome
+## Zooming into the structure of the microbiome.
+ 30.11.2022, _GGR Murray, C Chaguza_
+
+
 
 [Source](https://doi.org/10.1038/s41579-022-00834-6)
+
+10.1038/s41579-022-00834-6
 
 ---
 
@@ -71,21 +76,41 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion
+## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion.
+ 03.12.2022, _P Paone, F Suriano, C Jian, K Korpela, NM Delzenne, M Van Hul, A Salonen, PD Cani_
+
+
+_Mice, Animals, Prebiotics, Diet, High-Fat, Gastrointestinal Microbiome, Glycosylation, Diabetes Mellitus, Type 2, Obesity, Bacteroidetes, Mucus_
+Obesity is a major risk factor for the development of type 2 diabetes and cardiovascular diseases, and gut microbiota plays a key role in influencing the host energy homeostasis. Moreover, obese mice have a different gut microbiota composition, associated with an alteration of the intestinal mucus layer, which represents the interface between the bacteria and the host. We previously demonstrated that prebiotic treatment with oligofructose (FOS) counteracted the effects of diet-induced obesity, together with changes in the gut microbiota composition, but it is not known if the intestinal mucus layer could be involved. In this study, we found that, in addition to preventing high-fat diet (HFD) induced obesity in mice, the treatment with FOS increased the expression of numerous genes involved in mucus production, glycosylation and secretion, the expression of both secreted and transmembrane mucins, and the differentiation and number of goblet cells. These results were associated with significant changes in the gut microbiota composition, with FOS significantly increasing the relative and absolute abundance of the bacterial genera Odoribacter, Akkermansia, two unknown Muribaculaceae and an unknown Ruminococcaceae. Interestingly, all these bacterial genera had a negative association with metabolic parameters and a positive association with markers of the mucus layer. Our study shows that FOS treatment is able to prevent HFD-induced metabolic disorders, at least in part, by acting on all the processes of the mucus production. These data suggest that targeting the mucus and the gut microbiota by using prebiotics could help to prevent or mitigate obesity and related disorders.
 
 [Source](https://doi.org/10.1080/19490976.2022.2152307)
 
+10.1080/19490976.2022.2152307
+
 ---
 
-## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health
+## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health.
+ 29.11.2022, _CR Kok, D Rose, R Hutkins_
+
+
+Inadequate dietary fiber consumption has become common across industrialized nations, accompanied by changes in gut microbial composition and a dramatic increase in chronic metabolic diseases. The human gut microbiome harbors genes that are required for the digestion of fiber, resulting in the production of end products that mediate gastrointestinal and systemic benefits to the host. Thus, the use of fiber interventions has attracted increasing interest as a strategy to modulate the gut microbiome and improve human health. However, considerable interindividual differences in gut microbial composition have resulted in variable responses toward fiber interventions. This variability has led to observed nonresponder individuals and highlights the need for personalized approaches to effectively redirect the gut ecosystem. In this review, we summarize strategies used to address the responder and nonresponder phenomenon in dietary fiber interventions and propose a targeted approach to identify predictive features based on knowledge of fiber metabolism and machine learning approaches. Expected final online publication date for the Annual Review of Food Science and Technology, Volume 14 is March 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-food-060721-015516)
 
+10.1146/annurev-food-060721-015516
+
 ---
 
-## Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia
+## Gut dysbiosis induces the development of mastitis through a reduction in host anti-inflammatory enzyme activity by endotoxemia.
+ 03.12.2022, _C Zhao, X Hu, L Bao, K Wu, Y Zhao, K Xiang, S Li, Y Wang, M Qiu, L Feng, X Meng, N Zhang, Y Fu_
+
+
+_Female, Humans, Animals, Cattle, Mice, Dysbiosis, Endotoxemia, Lipopolysaccharides, Alkaline Phosphatase, Escherichia coli, Mastitis, Anti-Inflammatory Agents, Inflammation, Proteobacteria_
+Mounting experimental evidence has shown that the gut microbiota plays a significant role in the pathogenesis of mastitis, and clinical investigations have found that the occurrence of mastitis is correlated with ruminal dysbiosis. However, the underlying mechanism by which the ruminal microbiota participates in the development of mastitis remains unknown.
 
 [Source](https://doi.org/10.1186/s40168-022-01402-z)
+
+10.1186/s40168-022-01402-z
 
 ---
 
@@ -95,15 +120,27 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Bio-Organic Fertilizer Promotes Pear Yield by Shaping the Rhizosphere Microbiome Composition and Functions
+## Bio-Organic Fertilizer Promotes Pear Yield by Shaping the Rhizosphere Microbiome Composition and Functions.
+ 01.12.2022, _Z Wang, T Yang, X Mei, N Wang, X Li, Q Yang, C Dong, G Jiang, J Lin, Y Xu, Q Shen, A Jousset, S Banerjee_
+
+
+Bio-organic fertilizers (BOF) containing both organic amendments and beneficial microorganisms have been consistently shown to improve soils fertility and yield. However, the exact mechanisms which link amendments and yields remain disputed, and the complexity of bio-organic fertilizers may work in parallel in several ways. BOF may directly improve yield by replenishing soil nutrients or introducing beneficial microbial genes or indirectly by altering the soil microbiome to enrich native beneficial microorganisms. In this work, we aim to disentangle the relative contributions of direct and indirect effects on pear yield. We treated pear trees with either chemical fertilizer or organic fertilizer with/without the plant-beneficial bacterium Bacillus velezensis SQR9. We then assessed, in detail, soil physicochemical and biological properties (metagenome sequencing) as well as pear yield. We then evaluated the relative importance of direct and indirect effects of soil amendments on pear yield. Both organic treatments increased plant yield by up to 20%, with the addition of bacteria tripling the increase driven by organic fertilizer alone. This increase could be linked to alterations in soil physicochemical properties, bacterial community function, and metabolism. Supplementation of organic fertilizer SQR9 increased rhizosphere microbiome richness and functional diversity. Fertilizer-sensitive microbes and functions responded as whole guilds. Pear yield was most positively associated with the Mitsuaria- and Actinoplanes-dominated ecological clusters and with gene clusters involved in ion transport and secondary metabolite biosynthesis. Together, these results suggested that bio-organic fertilizers mainly act indirectly on plant yield by creating soil chemical properties which promote a plant-beneficial microbiome. IMPORTANCE Bio-organic fertilization is a widely used, eco-friendly, sustainable approach to increasing plant productivity in the agriculture and fruit industries. However, it remains unclear whether the promotion of fruit productivity is related to specific changes in microbial inoculants, the resident microbiome, and/or the physicochemical properties of rhizosphere soils. We found that bio-organic fertilizers alter soil chemical properties, thus manipulating specific microbial taxa and functions within the rhizosphere microbiome of pear plants to promote yield. Our work unveils the ecological mechanisms which underlie the beneficial impacts of bio-organic fertilizers on yield promotion in fruit orchards, which may help in the design of more efficient biofertilizers to promote sustainable fruit production.
 
 [Source](https://doi.org/10.1128/spectrum.03572-22)
 
+10.1128/spectrum.03572-22
+
 ---
 
-## Impacts of maize hybrids with different nitrogen use efficiency on root-associated microbiota based on distinct rhizosphere soil metabolites
+## Impacts of maize hybrids with different nitrogen use efficiency on root-associated microbiota based on distinct rhizosphere soil metabolites.
+ 01.12.2022, _K Li, L Chen, W Shi, C Hu, Y Sha, G Feng, E Wang, W Chen, X Sui, G Mi_
+
+
+Plant genotypes shape root-associated microbiota that affect plant nutrient acquisition and productivity. It is unclear how maize hybrids modify root-associated microbiota and their functions and relationship with nitrogen use efficiency (NUE) by regulating rhizosphere soil metabolites. Here, two N-efficient (NE) (ZD958, DMY3) and two N-inefficient (NIE) maize hybrids (YD9953, LY99) were used to investigate this issue under low N (60 kg N ha-1 , LN) and high N (180 kg N ha-1 , HN) field conditions. NE hybrids had higher yield than NIE hybrids under LN but not HN. NE and NIE hybrids recruited only distinct root-associated bacterial microbiota in LN. The bacterial network stability was stronger in NE than NIE hybrids. Compared with NIE hybrids, NE hybrids recruited more bacterial taxa that have been described as plant growth-promoting rhizobacteria (PGPR), and less related to denitrification and N competition; this resulted in low N2 O emission and high rhizosphere NO3 - -N accumulation. NE and NIE hybrids had distinct rhizosphere soil metabolite patterns, and their specific metabolites were closely related to microbiota and specific genera under LN. Our findings reveal the relationships among plant NUE, rhizosphere soil metabolites, root-associated microbiota, and soil nutrient cycling, and this information is informative for breeding NE crops. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1111/1462-2920.16293)
+
+10.1111/1462-2920.16293
 
 ---
 
@@ -113,9 +150,15 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Long-Read Sequencing Improves Recovery of Picoeukaryotic Genomes and Zooplankton Marker Genes from Marine Metagenomes
+## Long-Read Sequencing Improves Recovery of Picoeukaryotic Genomes and Zooplankton Marker Genes from Marine Metagenomes.
+ 30.11.2022, _NV Patin, KD Goodwin_
+
+
+Long-read sequencing offers the potential to improve metagenome assemblies and provide more robust assessments of microbial community composition and function than short-read sequencing. We applied Pacific Biosciences (PacBio) CCS (circular consensus sequencing) HiFi shotgun sequencing to 14 marine water column samples and compared the results with those for short-read metagenomes from the corresponding environmental DNA samples. We found that long-read metagenomes varied widely in quality and biological information. The community compositions of the corresponding long- and short-read metagenomes were frequently dissimilar, suggesting higher stochasticity and/or bias associated with PacBio sequencing. Long reads provided few improvements to the assembly qualities, gene annotations, and prokaryotic metagenome-assembled genome (MAG) binning results. However, only long reads produced high-quality eukaryotic MAGs and contigs containing complete zooplankton marker gene sequences. These results suggest that high-quality long-read metagenomes can improve marine community composition analyses and provide important insight into eukaryotic phyto- and zooplankton genetics, but the benefits may be outweighed by the inconsistent data quality. IMPORTANCE Ocean microbes provide critical ecosystem services, but most remain uncultivated. Their communities can be studied through shotgun metagenomic sequencing and bioinformatic analyses, including binning draft microbial genomes. However, most sequencing to date has been done using short-read technology, which rarely yields genome sequences of key microbes like SAR11. Long-read sequencing can improve metagenome assemblies but is hampered by technological shortcomings and high costs. In this study, we compared long- and short-read sequencing of marine metagenomes. We found a wide range of long-read metagenome qualities and minimal improvements to microbiome analyses. However, long reads generated draft genomes of eukaryotic algal species and provided full-length marker gene sequences of zooplankton species, including krill and copepods. These results suggest that long-read sequencing can provide greater genetic insight into the wide diversity of eukaryotic phyto- and zooplankton that interact as part of and with the marine microbiome.
 
 [Source](https://doi.org/10.1128/msystems.00595-22)
+
+10.1128/msystems.00595-22
 
 ---
 
@@ -125,9 +168,16 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Sampling of Human Microbiomes to Screen for Antibiotic-Producing Commensals
+## Sampling of Human Microbiomes to Screen for Antibiotic-Producing Commensals.
+ 05.12.2022, _B Torres Salazar, A Lange, L Camus, S Heilbronner_
+
+
+_Humans, Anti-Bacterial Agents, Microbiota, Skin, Nose, Soil_
+Soil-derived microorganisms have been sampled intensively throughout the last decades in order to discover bacterial strains that produce new antibiotics. The increasing emergence of multidrug-resistant bacteria and the constant high demand for new antibiotic classes are leading to the sampling and investigation of new microbiomes that contain antimicrobial producers. Human-associated microbiomes are therefore gaining more and more attention. This chapter presents a detailed description of how human microbiomes can be sampled and how microbiota members from skin and nasal samples can be isolated. Different methods for antimicrobial compound screening are presented.
 
 [Source](https://doi.org/10.1007/978-1-0716-2855-3_3)
+
+10.1007/978-1-0716-2855-3_3
 
 ---
 
