@@ -59,14 +59,9 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Zooming into the structure of the microbiome.
- 30.11.2022, _GGR Murray, C Chaguza_
-
-
+## Zooming into the structure of the microbiome
 
 [Source](https://doi.org/10.1038/s41579-022-00834-6)
-
-10.1038/s41579-022-00834-6
 
 ---
 
