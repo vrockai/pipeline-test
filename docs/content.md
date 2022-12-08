@@ -59,9 +59,14 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Zooming into the structure of the microbiome
+## Zooming into the structure of the microbiome.
+ 30.11.2022, _GGR Murray, C Chaguza_
+
+
 
 [Source](https://doi.org/10.1038/s41579-022-00834-6)
+
+10.1038/s41579-022-00834-6
 
 ---
 
@@ -71,15 +76,28 @@ Co-infections or secondary infections with SARS-CoV-2 have the potential to affe
 
 ---
 
-## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion
+## Prebiotic oligofructose protects against high-fat diet-induced obesity by changing the gut microbiota, intestinal mucus production, glycosylation and secretion.
+ 03.12.2022, _P Paone, F Suriano, C Jian, K Korpela, NM Delzenne, M Van Hul, A Salonen, PD Cani_
+
+
+_Mice, Animals, Prebiotics, Diet, High-Fat, Gastrointestinal Microbiome, Glycosylation, Diabetes Mellitus, Type 2, Obesity, Bacteroidetes, Mucus_
+Obesity is a major risk factor for the development of type 2 diabetes and cardiovascular diseases, and gut microbiota plays a key role in influencing the host energy homeostasis. Moreover, obese mice have a different gut microbiota composition, associated with an alteration of the intestinal mucus layer, which represents the interface between the bacteria and the host. We previously demonstrated that prebiotic treatment with oligofructose (FOS) counteracted the effects of diet-induced obesity, together with changes in the gut microbiota composition, but it is not known if the intestinal mucus layer could be involved. In this study, we found that, in addition to preventing high-fat diet (HFD) induced obesity in mice, the treatment with FOS increased the expression of numerous genes involved in mucus production, glycosylation and secretion, the expression of both secreted and transmembrane mucins, and the differentiation and number of goblet cells. These results were associated with significant changes in the gut microbiota composition, with FOS significantly increasing the relative and absolute abundance of the bacterial genera Odoribacter, Akkermansia, two unknown Muribaculaceae and an unknown Ruminococcaceae. Interestingly, all these bacterial genera had a negative association with metabolic parameters and a positive association with markers of the mucus layer. Our study shows that FOS treatment is able to prevent HFD-induced metabolic disorders, at least in part, by acting on all the processes of the mucus production. These data suggest that targeting the mucus and the gut microbiota by using prebiotics could help to prevent or mitigate obesity and related disorders.
 
 [Source](https://doi.org/10.1080/19490976.2022.2152307)
 
+10.1080/19490976.2022.2152307
+
 ---
 
-## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health
+## Predicting Personalized Responses to Dietary Fiber Interventions: Opportunities for Modulation of the Gut Microbiome to Improve Health.
+ 29.11.2022, _CR Kok, D Rose, R Hutkins_
+
+
+Inadequate dietary fiber consumption has become common across industrialized nations, accompanied by changes in gut microbial composition and a dramatic increase in chronic metabolic diseases. The human gut microbiome harbors genes that are required for the digestion of fiber, resulting in the production of end products that mediate gastrointestinal and systemic benefits to the host. Thus, the use of fiber interventions has attracted increasing interest as a strategy to modulate the gut microbiome and improve human health. However, considerable interindividual differences in gut microbial composition have resulted in variable responses toward fiber interventions. This variability has led to observed nonresponder individuals and highlights the need for personalized approaches to effectively redirect the gut ecosystem. In this review, we summarize strategies used to address the responder and nonresponder phenomenon in dietary fiber interventions and propose a targeted approach to identify predictive features based on knowledge of fiber metabolism and machine learning approaches. Expected final online publication date for the Annual Review of Food Science and Technology, Volume 14 is March 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.
 
 [Source](https://doi.org/10.1146/annurev-food-060721-015516)
+
+10.1146/annurev-food-060721-015516
 
 ---
 
