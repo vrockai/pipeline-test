@@ -71,16 +71,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Global biogeography and projection of soil antibiotic resistance genes.
- 02.12.2022, _D Zheng, G Yin, M Liu, L Hou, Y Yang, TP Van Boeckel, Y Zheng, Y Li_
-
-
-_Humans, Soil, Anti-Bacterial Agents, Soil Microbiology, Genes, Bacterial, Drug Resistance, Microbial_
-Although edaphic antibiotic resistance genes (ARGs) pose serious threats to human well-being, their spatially explicit patterns and responses to environmental constraints at the global scale are not well understood. This knowledge gap is hindering the global action plan on antibiotic resistance launched by the World Health Organization. Here, a global analysis of 1088 soil metagenomic samples detected 558 ARGs in soils, where ARG abundance in agricultural habitats was higher than that in nonagricultural habitats. Soil ARGs were mostly carried by clinical pathogens and gut microbes that mediated the control of climatic and anthropogenic factors to ARGs. We generated a global map of soil ARG abundance, where the identified microbial hosts, agricultural activities, and anthropogenic factors explained ARG hot spots in India, East Asia, Western Europe, and the United States. Our results highlight health threats from soil clinical pathogens carrying ARGs and determine regions prioritized to control soil antibiotic resistance worldwide.
+## Global biogeography and projection of soil antibiotic resistance genes
 
 [Source](https://www.science.org/doi/10.1126/sciadv.abq8015)
-
-10.1126/sciadv.abq8015
 
 ---
 
@@ -105,18 +98,6 @@ Although edaphic antibiotic resistance genes (ARGs) pose serious threats to huma
 ## #sewage
 
 [Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Salt tolerance evolution facilitates antibiotic resistome in soil microbiota: Evidences from dissemination evaluation, hosts identification and co-occurrence exploration.
- 08.12.2022, _Y Xu, G You, J Yin, M Zhang, D Peng, J Xu, S Yang, J Hou_
-
-
-Salinity is considered as one of the vital factors affecting the profiles of antibiotic resistance genes (ARGs) in soils, whereby its roles in shaping the antibiotic resistome were still poorly understood. Here, metagenomic analysis was conducted to track the ARGs distributions and dissemination in soils during salt accumulation and desalinization processes. Neutral-salt accumulation for 45 and 90 days significantly increased the relative abundances of ARGs and mobile genetic elements (MGEs) carrying antibiotic resistance contigs (ARCs). The ARGs within antibiotic efflux and target protection families primarily carried by Streptomyces, Nocardioides, Rhodanobacter and Monashia were largely enriched by salinity. The ARGs subtypes of the resistance-nodulation-division (RND) family, ATP-binding cassette (ABC) family, rRNA methyltransferase and other efflux were closely associated with MGEs, contributing to the enrichment of ARGs. Moreover, the ARGs subtypes and transposons were genetically linked with the salt-tolerance mechanisms of organic osmolyte transporters and K+ uptake proteins on the same ARC, demonstrating the coselection of ARGs and halotolerant genes. Furthermore, the antibiotic resistome could recover to a normal state after the prolonged incubation by alleviating salt stress. Nevertheless, the acquisition of ARGs by opportunistic pathogens after salt treatment was increased, serving to prioritize further efforts on the health risks correlated with resistance propagation and human exposure in saline soils.
-
-[Source](https://twitter.com/hashtag/ARGs?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.envpol.2022.120830
 
 ---
 
@@ -162,15 +143,9 @@ Salinity is considered as one of the vital factors affecting the profiles of ant
 
 ---
 
-## Effects of dog ownership on the gut microbiota of elderly owners.
- 08.12.2022, _C Jiang, Z Cui, P Fan, G Du_
-
-
-Dog owners are usually in close contact with dogs. Whether dogs can affect the gut microbiota of elderly dog owners is worth studying. Data from 54 elderly (over 65 years of age) dog owners were screened from the American Gut Project. Owning a dog did not affect the α-diversity of the gut microbiota of the dog owner. Dog ownership significantly modulated the composition of the gut microbiota of the dog owner. The abundance of Actinobacteria was significantly increased. The abundances of Bifidobacteriaceae and Ruminococcaceae were significantly increased, while the abundance of Moracellaceae was significantly suppressed. In general, dog ownership can regulate the composition of gut microbiota and has a more significant effect on elderly males.
+## Effects of dog ownership on the gut microbiota of elderly owners 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278105)
-
-10.1371/journal.pone.0278105
 
 ---
 
@@ -180,27 +155,9 @@ Dog owners are usually in close contact with dogs. Whether dogs can affect the g
 
 ---
 
-## Gut microbiome-wide association study of depressive symptoms.
- 06.12.2022, _D Radjabzadeh, JA Bosch, AG Uitterlinden, AH Zwinderman, MA Ikram, JBJ van Meurs, AI Luik, M Nieuwdorp, A Lok, CM van Duijn, R Kraaij, N Amin_
-
-
-Depression is one of the most poorly understood diseases due to its elusive pathogenesis. There is an urgency to identify molecular and biological mechanisms underlying depression and the gut microbiome is a novel area of interest. Here we investigate the relation of fecal microbiome diversity and composition with depressive symptoms in 1,054 participants from the Rotterdam Study cohort and validate these findings in the Amsterdam HELIUS cohort in 1,539 subjects. We identify association of thirteen microbial taxa, including genera Eggerthella, Subdoligranulum, Coprococcus, Sellimonas, Lachnoclostridium, Hungatella, Ruminococcaceae (UCG002, UCG003 and UCG005), LachnospiraceaeUCG001, Eubacterium ventriosum and Ruminococcusgauvreauiigroup, and family Ruminococcaceae with depressive symptoms. These bacteria are known to be involved in the synthesis of glutamate, butyrate, serotonin and gamma amino butyric acid (GABA), which are key neurotransmitters for depression. Our study suggests that the gut microbiome composition may play a key role in depression.
+## Gut microbiome-wide association study of depressive symptoms
 
 [Source](https://www.nature.com/articles/s41467-022-34502-3)
-
-10.1038/s41467-022-34502-3
-
----
-
-## Gut Microbiome and Its Impact on Obesity and Obesity-Related Disorders.
- 05.12.2022, _S Sankararaman, K Noriega, S Velayuthan, T Sferra, R Martindale_
-
-
-The prevalence of overweight and obesity has been increasing worldwide at an alarming rate. Gut microbiota intimately influence host energy metabolism, and immune response. Studies indicate a prominent role of gut dysbiosis in propagating inflammation that is associated with the development of obesity and obesity-related disorders such as type 2 diabetes mellitus, metabolic syndrome, and non-alcoholic fatty liver disease. This article will review the current literature on gut microbiome and its impact on obesity and obesity-related disorders.
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.12.02.518833v1)
-
-10.1007/s11894-022-00859-0
 
 ---
 
@@ -210,16 +167,9 @@ The prevalence of overweight and obesity has been increasing worldwide at an ala
 
 ---
 
-## The microbiome's fiber degradation profile and its relationship with the host diet.
- 07.12.2022, _Y Cohen, E Borenstein_
-
-
-_Humans, Dietary Fiber, Diet, Gastrointestinal Microbiome, Microbiota, Metagenome_
-The relationship between the gut microbiome and diet has been the focus of numerous recent studies. Such studies aim to characterize the impact of diet on the composition of the microbiome, as well as the microbiome's ability to utilize various compounds in the diet and produce metabolites that may be beneficial for the host. Consumption of dietary fibers (DFs)-polysaccharides that cannot be broken down by the host's endogenous enzymes and are degraded primarily by members of the microbiome-is known to have a profound effect on the microbiome. Yet, a comprehensive characterization of microbiome compositional and functional shifts in response to the consumption of specific DFs is still lacking.
+## The microbiome’s fiber degradation profile and its relationship with the host diet
 
 [Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01461-6)
-
-10.1186/s12915-022-01461-6
 
 ---
 
@@ -307,16 +257,9 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
-## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments.
- 07.12.2022, _HJ Ruscheweyh, A Milanese, L Paoli, N Karcher, Q Clayssen, MI Keller, J Wirbel, P Bork, DR Mende, G Zeller, S Sunagawa_
-
-
-_Swine, Cattle, Animals, RNA, Ribosomal, 16S, Metagenome, Metagenomics, Microbiota, Soil_
-Taxonomic profiling is a fundamental task in microbiome research that aims to detect and quantify the relative abundance of microorganisms in biological samples. Available methods using shotgun metagenomic data generally depend on the deposition of sequenced and taxonomically annotated genomes, usually from cultures of isolated strains, in reference databases (reference genomes). However, the majority of microorganisms have not been cultured yet. Thus, a substantial fraction of microbial community members remains unaccounted for during taxonomic profiling, particularly in samples from underexplored environments. To address this issue, we developed the mOTU profiler, a tool that enables reference genome-independent species-level profiling of metagenomes. As such, it supports the identification and quantification of both "known" and "unknown" species based on a set of select marker genes.
+## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
-
-10.1186/s40168-022-01410-z
 
 ---
 
@@ -341,18 +284,6 @@ Taxonomic profiling is a fundamental task in microbiome research that aims to de
 ## @BorkLab
 
 [Source](https://twitter.com/BorkLab?ref_src=twsrc%5Etfw)
-
----
-
-## The emergence of the tetrathionate reductase operon in the Escherichia coli/Shigella pan-genome.
- 08.12.2022, _FG Adsit, TA Randall, J Locklear, DM Kurtz_
-
-
-Escherichia coli pathogenic variants (pathovars) are generally characterized by defined virulence traits and are susceptible to the evolution of hybridized identities due to the considerable plasticity of the E. coli genome. We have isolated a strain from a purified diet intended for research animals that further demonstrates the ability of E. coli to acquire novel genetic elements leading potentially to emergent new pathovars. Utilizing next generation sequencing to obtain a whole genome profile, we report an atypical strain of E. coli, EcoFA807-17, possessing a tetrathionate reductase (ttr) operon, which enables the utilization of tetrathionate as an electron acceptor, thus facilitating respiration in anaerobic environments such as the mammalian gut. The ttr operon is a potent virulence factor for several enteric pathogens, most prominently Salmonella enterica. However, the presence of chromosomally integrated tetrathionate reductase genes does not appear to have been previously reported in wild-type E. coli or Shigella. Accordingly, it is possible that the appearance of this virulence factor may signal the evolution of new mechanisms of pathogenicity in E. coli and Shigella and may potentially alter the effectiveness of existing assays using tetrathionate reductase as a unique marker for the detection of Salmonella enterica.
-
-[Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
-
-10.1002/mbo3.1333
 
 ---
 
@@ -386,16 +317,9 @@ Escherichia coli pathogenic variants (pathovars) are generally characterized by 
 
 ---
 
-## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes.
- 05.12.2022, _L Liu, Y Yang, Y Deng, T Zhang_
-
-
-_Metagenome, Metagenomics, Nanopores, RNA, Ribosomal, 16S, Sewage, Microbiota, Prophages_
-The accurate and comprehensive analyses of genome-resolved metagenomics largely depend on the reconstruction of reference-quality (complete and high-quality) genomes from diverse microbiomes. Closing gaps in draft genomes have been approaching with the inclusion of Nanopore long reads; however, genome quality improvement requires extensive and time-consuming high-accuracy short-read polishing.
+## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01415-8)
-
-10.1186/s40168-022-01415-8
 
 ---
 
