@@ -131,6 +131,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Characterizing primary care patients with posttraumatic stress disorder using electronic medical records: a retrospective cross-sectional study.
+ 09.12.2022, _A Singer, L Kosowan, D Muthumuni, A Katz, H Zafari, F Zulkernine, JD Richardson, M Price, T Williamson, J Queenan, J Sareen_
+
+
+Posttraumatic stress disorder (PTSD) has significant morbidity and economic costs. This study describes the prevalence and characteristics of patients with PTSD using primary care electronic medical record (EMR) data.
+
+[Source](https://twitter.com/pat_munk/status/1598353862447943690?ref_src=twsrc%5Etfw)
+
+10.1093/fampra/cmac139
+
+---
+
 ## December 1, 2022
 
 [Source](https://twitter.com/pat_munk/status/1598353862447943690?ref_src=twsrc%5Etfw)
@@ -143,9 +155,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Effects of dog ownership on the gut microbiota of elderly owners 
+## Effects of dog ownership on the gut microbiota of elderly owners.
+ 08.12.2022, _C Jiang, Z Cui, P Fan, G Du_
+
+
+Dog owners are usually in close contact with dogs. Whether dogs can affect the gut microbiota of elderly dog owners is worth studying. Data from 54 elderly (over 65 years of age) dog owners were screened from the American Gut Project. Owning a dog did not affect the α-diversity of the gut microbiota of the dog owner. Dog ownership significantly modulated the composition of the gut microbiota of the dog owner. The abundance of Actinobacteria was significantly increased. The abundances of Bifidobacteriaceae and Ruminococcaceae were significantly increased, while the abundance of Moracellaceae was significantly suppressed. In general, dog ownership can regulate the composition of gut microbiota and has a more significant effect on elderly males.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278105)
+
+10.1371/journal.pone.0278105
 
 ---
 
@@ -155,9 +173,27 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Gut microbiome-wide association study of depressive symptoms
+## Gut microbiome-wide association study of depressive symptoms.
+ 06.12.2022, _D Radjabzadeh, JA Bosch, AG Uitterlinden, AH Zwinderman, MA Ikram, JBJ van Meurs, AI Luik, M Nieuwdorp, A Lok, CM van Duijn, R Kraaij, N Amin_
+
+
+Depression is one of the most poorly understood diseases due to its elusive pathogenesis. There is an urgency to identify molecular and biological mechanisms underlying depression and the gut microbiome is a novel area of interest. Here we investigate the relation of fecal microbiome diversity and composition with depressive symptoms in 1,054 participants from the Rotterdam Study cohort and validate these findings in the Amsterdam HELIUS cohort in 1,539 subjects. We identify association of thirteen microbial taxa, including genera Eggerthella, Subdoligranulum, Coprococcus, Sellimonas, Lachnoclostridium, Hungatella, Ruminococcaceae (UCG002, UCG003 and UCG005), LachnospiraceaeUCG001, Eubacterium ventriosum and Ruminococcusgauvreauiigroup, and family Ruminococcaceae with depressive symptoms. These bacteria are known to be involved in the synthesis of glutamate, butyrate, serotonin and gamma amino butyric acid (GABA), which are key neurotransmitters for depression. Our study suggests that the gut microbiome composition may play a key role in depression.
 
 [Source](https://www.nature.com/articles/s41467-022-34502-3)
+
+10.1038/s41467-022-34502-3
+
+---
+
+## Gut Microbiome and Its Impact on Obesity and Obesity-Related Disorders.
+ 05.12.2022, _S Sankararaman, K Noriega, S Velayuthan, T Sferra, R Martindale_
+
+
+The prevalence of overweight and obesity has been increasing worldwide at an alarming rate. Gut microbiota intimately influence host energy metabolism, and immune response. Studies indicate a prominent role of gut dysbiosis in propagating inflammation that is associated with the development of obesity and obesity-related disorders such as type 2 diabetes mellitus, metabolic syndrome, and non-alcoholic fatty liver disease. This article will review the current literature on gut microbiome and its impact on obesity and obesity-related disorders.
+
+[Source](https://www.biorxiv.org/content/10.1101/2022.12.02.518833v1)
+
+10.1007/s11894-022-00859-0
 
 ---
 
@@ -167,9 +203,16 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The microbiome’s fiber degradation profile and its relationship with the host diet
+## The microbiome's fiber degradation profile and its relationship with the host diet.
+ 07.12.2022, _Y Cohen, E Borenstein_
+
+
+_Humans, Dietary Fiber, Diet, Gastrointestinal Microbiome, Microbiota, Metagenome_
+The relationship between the gut microbiome and diet has been the focus of numerous recent studies. Such studies aim to characterize the impact of diet on the composition of the microbiome, as well as the microbiome's ability to utilize various compounds in the diet and produce metabolites that may be beneficial for the host. Consumption of dietary fibers (DFs)-polysaccharides that cannot be broken down by the host's endogenous enzymes and are degraded primarily by members of the microbiome-is known to have a profound effect on the microbiome. Yet, a comprehensive characterization of microbiome compositional and functional shifts in response to the consumption of specific DFs is still lacking.
 
 [Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01461-6)
+
+10.1186/s12915-022-01461-6
 
 ---
 
@@ -179,9 +222,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Development of a live biotherapeutic throat spray with lactobacilli targeting respiratory viral infections 
+## Development of a live biotherapeutic throat spray with lactobacilli targeting respiratory viral infections.
+ 05.12.2022, _I Spacova, I De Boeck, E Cauwenberghs, L Delanghe, PA Bron, T Henkens, A Simons, I Gamgami, L Persoons, I Claes, MFL van den Broek, D Schols, P Delputte, S Coenen, V Verhoeven, S Lebeer_
+
+
+Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV), and coronaviruses initiate infection at the mucosal surfaces of the upper respiratory tract (URT), where the resident respiratory microbiome has an important gatekeeper function. In contrast to gut-targeting administration of beneficial bacteria against respiratory viral disease, topical URT administration of probiotics is currently underexplored, especially for the prevention and/or treatment of viral infections. Here, we report the formulation of a throat spray with live lactobacilli exhibiting several in vitro mechanisms of action against respiratory viral infections, including induction of interferon regulatory pathways and direct inhibition of respiratory viruses. Rational selection of Lactobacillaceae strains was based on previously documented beneficial properties, up-scaling and industrial production characteristics, clinical safety parameters, and potential antiviral and immunostimulatory efficacy in the URT demonstrated in this study. Using a three-step selection strategy, three strains were selected and further tested in vitro antiviral assays and in formulations: Lacticaseibacillus casei AMBR2 as a promising endogenous candidate URT probiotic with previously reported barrier-enhancing and anti-pathogenic properties and the two well-studied model strains Lacticaseibacillus rhamnosus GG and Lactiplantibacillus plantarum WCFS1 that display immunomodulatory capacities. The three strains and their combination significantly reduced the cytopathogenic effects of RSV, influenza A/H1N1 and B viruses, and HCoV-229E coronavirus in co-culture models with bacteria, virus, and host cells. Subsequently, these strains were formulated in a throat spray and human monocytes were employed to confirm the formulation process did not reduce the interferon regulatory pathway-inducing capacity. Administration of the throat spray in healthy volunteers revealed that the lactobacilli were capable of temporary colonization of the throat in a metabolically active form. Thus, the developed spray with live lactobacilli will be further explored in the clinic as a potential broad-acting live biotherapeutic strategy against respiratory viral diseases.
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14189)
+
+10.1111/1751-7915.14189
 
 ---
 
