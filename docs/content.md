@@ -71,6 +71,18 @@ Not available.
 
 ---
 
+## Clinical effects of resurfacing fingertip amputations in long fingers using homodigital dorsal neurofascial broaden pedicle island flaps.
+ 10.12.2022, _Z Ji, R Nie, S Li, C Liu, B Wei, C Zhu_
+
+
+The use of homodigital dorsal neurofascial broaden pedicle island flaps (HDNBPIF) to treat fingertip amputations is an ongoing research topic. Here, we evaluated the clinical effects of resurfacing fingertip amputations in long fingers using HDNBPIF. Seventeen patients with 18 long fingers were treated with HDNBPIF from December 2018 to May 2021. Total active motion (TAM) scores, Semmes Weinstein monofilament (SWM) test, static 2PD test, visual analogue scale (VAS), Vancouver scar scales (VSS), and quick DASH scores were evaluated at 12-25 months postoperation. The aesthetic satisfaction of the patients was estimated subjectively using a 5-point Likert scale. The mean defect size was 1.11 × 1.13 cm and mean flap size was 1.32 × 1.32 cm. All flaps survived and the mean TAM of injured fingers was 255.6° (Contralateral side: 268.4°, p &lt; 0.05). Mean SWM score in the flap was 3.90 g, and 3.22 g in the donor zone. Mean static 2PD discrimination in the flap was 5.61 mm and 4.33 mm in the donor zone. Mean quick Dash scores were 5.81 whereas Mean VAS score in the flap was 0.7 and 0.2 in the donor site. Vancouver scar scales at the donor and recipient sites ranged from 0 to 2. At the end of the follow-up, all patients reported good aesthetic appearance and curative effects. These results show that HDNBPIF is a promising strategy that achieves good curative effects and recovery of fingertip functions. Type of Study and Level of Evidence: Therapeutic IV.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1600084727561527296?ref_src=twsrc%5Etfw)
+
+10.1080/2000656X.2022.2152825
+
+---
+
 ## December 6, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1600084727561527296?ref_src=twsrc%5Etfw)
@@ -118,6 +130,18 @@ Although edaphic antibiotic resistance genes (ARGs) pose serious threats to huma
 ## #globalsewage
 
 [Source](https://twitter.com/hashtag/globalsewage?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Wastewater-based surveillance in Italy leading to the first detection of mcr-10-positive Klebsiella quasipneumoniae.
+ 09.12.2022, _N Formenti, F Guarneri, C Bertasio, G Parisio, C Romeo, F Scali, L Birbes, MB Boniotti, G Diegoli, L Candela, GA Romeo, P Pasquali, GL Alborali_
+
+
+Wastewater-based surveillance enabled the first detection of the mobile colistin resistance gene mcr-10 in Italy. This plasmid-borne resistance gene was found in strains of Klebsiella quasipneumoniae isolated from samples of human raw sewage collected over several months. Although the isolates were phenotypically susceptible to colistin, the emergence of mcr-10 is concerning due to the highly variable expression of the gene and the potential for horizontal transfer to other species. In addition, the strains also carried an extended-spectrum β-lactamase gene and were phenotypically resistant to several beta-lactams. This study highlights the value of wastewater-based surveillance as an effective tool to monitor the emergence of antimicrobial resistance in strains circulating in the community and the environment.
+
+[Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s13756-022-01194-9
 
 ---
 
@@ -308,6 +332,18 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
+## Nitrifiers Cooperate to Produce Nitrous Oxide in Plateau Wetland Sediments.
+ 02.12.2022, _D Yuan, L Zheng, YX Liu, H Cheng, A Ding, X Wang, Q Tan, X Wang, Y Xing, E Xie, H Wu, S Wang, G Zhu_
+
+
+The thawing of dormant plateau permafrost emits nitrous oxide (N2O) through wetlands; however, the N2O production mechanism in plateau wetlands is still unclear. Here, we used the 15N-18O double tracer technique and metagenomic sequencing to analyze the N2O production mechanism in the Yunnan-Kweichow and Qinghai-Tibet plateau wetlands during the summer of 2020. N2O production activity was detected in all 16 sediment samples (elevation 1020-4601 m: 2.55 ± 0.42-26.38 ± 3.25 ng N g-1 d-1) and was promoted by nitrifier denitrification (ND). The key functional genes of ND (amoA, hao, and nirK) belonged to complete ammonia oxidizing (comammox) bacteria, and the key ND species was the comammox bacterium Nitrospira nitrificans. We found that the comammox bacterial species N. nitrificans and the ammonia oxidizing bacterial (AOB) species Nitrosomonas europaea cooperate to produce N2O in the plateau wetland sediments. Furthermore, we inferred that environmental factors (elevation and total organic matter (TOM)) influence the cooperation pattern via N. nitrificans, thus affecting the N2O production activity in the plateau wetland sediments. Our findings advance the mechanistic understanding of nitrifiers in biogeochemical cycles and global climate change.
+
+[Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
+
+10.1021/acs.est.2c06234
+
+---
+
 ## #comammox
 
 [Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
@@ -338,15 +374,15 @@ The phosphorus harvest along nitrogen removal in the partial nitritation/anammox
 
 ---
 
-## Clinicopathological features, genetic alterations, and BRCA1 promoter methylation in Japanese male patients with breast cancer.
- 09.12.2022, _A Shimomura, M Yoshida, T Kubo, S Yamashita, E Noguchi, A Nagayama, T Hanamura, M Okazaki, T Mukohara, A Tsuruga, K Tanaka, Y Kawamura, T Higuchi, Y Takahashi, S Kurozumi, T Hayashida, H Ichikawa, T Ushijima, A Suto_
+## Impact of faecal haemoglobin-based triage of bowel symptoms presenting to primary care on colorectal cancer diagnosis.
+ 10.12.2022, _D Delson, M Ward, R Haddock, J Nobes, J Digby, JA Strachan, C Mowat_
 
 
-Male breast cancer (MBC) is a rare cancer accounting for only 1% of all male cancers and is, therefore, poorly studied. We aimed to characterize the subtypes of MBC in Japanese patients based on genetic profiling, the presence of tumor-infiltrating cells, and the expression of immunohistochemical markers.
+Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced into Primary Care in NHS Tayside in 2015 as an adjunct to clinical assessment of new bowel symptoms. We aimed to assess the impact of FIT-based triage in primary care on colorectal cancer (CRC) diagnosis.
 
 [Source](https://twitter.com/watermicrobe/status/1600348215592644608?ref_src=twsrc%5Etfw)
 
-10.1007/s10549-022-06822-x
+10.1111/codi.16451
 
 ---
 
@@ -368,9 +404,16 @@ Male breast cancer (MBC) is a rare cancer accounting for only 1% of all male can
 
 ---
 
-## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments 
+## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments.
+ 07.12.2022, _HJ Ruscheweyh, A Milanese, L Paoli, N Karcher, Q Clayssen, MI Keller, J Wirbel, P Bork, DR Mende, G Zeller, S Sunagawa_
+
+
+_Swine, Cattle, Animals, RNA, Ribosomal, 16S, Metagenome, Metagenomics, Microbiota, Soil_
+Taxonomic profiling is a fundamental task in microbiome research that aims to detect and quantify the relative abundance of microorganisms in biological samples. Available methods using shotgun metagenomic data generally depend on the deposition of sequenced and taxonomically annotated genomes, usually from cultures of isolated strains, in reference databases (reference genomes). However, the majority of microorganisms have not been cultured yet. Thus, a substantial fraction of microbial community members remains unaccounted for during taxonomic profiling, particularly in samples from underexplored environments. To address this issue, we developed the mOTU profiler, a tool that enables reference genome-independent species-level profiling of metagenomes. As such, it supports the identification and quantification of both "known" and "unknown" species based on a set of select marker genes.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
+
+10.1186/s40168-022-01410-z
 
 ---
 
@@ -398,6 +441,18 @@ Male breast cancer (MBC) is a rare cancer accounting for only 1% of all male can
 
 ---
 
+## Pangenome and genomic taxonomy analyses of Leuconostoc gelidum and Leuconostoc gasicomitatum.
+ 09.12.2022, _P Johansson, E Säde, J Hultman, P Auvinen, J Björkroth_
+
+
+Leuconostoc gelidum and Leuconostoc gasicomitatum have dual roles in foods. They may spoil cold-stored packaged foods but can also be beneficial in kimchi fermentation. The impact in food science as well as the limited number of publicly available genomes prompted us to create pangenomes and perform genomic taxonomy analyses starting from de novo sequencing of the genomes of 37 L. gelidum/L. gasicomitatum strains from our culture collection. Our aim was also to evaluate the recently proposed change in taxonomy as well as to study the genomes of strains with different lifestyles in foods.
+
+[Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
+
+10.1186/s12864-022-09032-3
+
+---
+
 ## @pangenomics
 
 [Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
@@ -413,6 +468,18 @@ Male breast cancer (MBC) is a rare cancer accounting for only 1% of all male can
 ## https://t.co/GGRWY2zW84
 
 [Source](https://t.co/GGRWY2zW84)
+
+---
+
+## Impact of faecal haemoglobin-based triage of bowel symptoms presenting to primary care on colorectal cancer diagnosis.
+ 10.12.2022, _D Delson, M Ward, R Haddock, J Nobes, J Digby, JA Strachan, C Mowat_
+
+
+Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced into Primary Care in NHS Tayside in 2015 as an adjunct to clinical assessment of new bowel symptoms. We aimed to assess the impact of FIT-based triage in primary care on colorectal cancer (CRC) diagnosis.
+
+[Source](https://twitter.com/SunagawaLab/status/1599757566506323968?ref_src=twsrc%5Etfw)
+
+10.1111/codi.16451
 
 ---
 
@@ -462,6 +529,18 @@ The accurate and comprehensive analyses of genome-resolved metagenomics largely 
 ## #phdchat
 
 [Source](https://twitter.com/hashtag/phdchat?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Impact of faecal haemoglobin-based triage of bowel symptoms presenting to primary care on colorectal cancer diagnosis.
+ 10.12.2022, _D Delson, M Ward, R Haddock, J Nobes, J Digby, JA Strachan, C Mowat_
+
+
+Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced into Primary Care in NHS Tayside in 2015 as an adjunct to clinical assessment of new bowel symptoms. We aimed to assess the impact of FIT-based triage in primary care on colorectal cancer (CRC) diagnosis.
+
+[Source](https://twitter.com/Prokaryota/status/1600473298365607937?ref_src=twsrc%5Etfw)
+
+10.1111/codi.16451
 
 ---
 
