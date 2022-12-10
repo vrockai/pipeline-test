@@ -179,15 +179,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Development of a live biotherapeutic throat spray with lactobacilli targeting respiratory viral infections.
- 05.12.2022, _I Spacova, I De Boeck, E Cauwenberghs, L Delanghe, PA Bron, T Henkens, A Simons, I Gamgami, L Persoons, I Claes, MFL van den Broek, D Schols, P Delputte, S Coenen, V Verhoeven, S Lebeer_
-
-
-Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV), and coronaviruses initiate infection at the mucosal surfaces of the upper respiratory tract (URT), where the resident respiratory microbiome has an important gatekeeper function. In contrast to gut-targeting administration of beneficial bacteria against respiratory viral disease, topical URT administration of probiotics is currently underexplored, especially for the prevention and/or treatment of viral infections. Here, we report the formulation of a throat spray with live lactobacilli exhibiting several in vitro mechanisms of action against respiratory viral infections, including induction of interferon regulatory pathways and direct inhibition of respiratory viruses. Rational selection of Lactobacillaceae strains was based on previously documented beneficial properties, up-scaling and industrial production characteristics, clinical safety parameters, and potential antiviral and immunostimulatory efficacy in the URT demonstrated in this study. Using a three-step selection strategy, three strains were selected and further tested in vitro antiviral assays and in formulations: Lacticaseibacillus casei AMBR2 as a promising endogenous candidate URT probiotic with previously reported barrier-enhancing and anti-pathogenic properties and the two well-studied model strains Lacticaseibacillus rhamnosus GG and Lactiplantibacillus plantarum WCFS1 that display immunomodulatory capacities. The three strains and their combination significantly reduced the cytopathogenic effects of RSV, influenza A/H1N1 and B viruses, and HCoV-229E coronavirus in co-culture models with bacteria, virus, and host cells. Subsequently, these strains were formulated in a throat spray and human monocytes were employed to confirm the formulation process did not reduce the interferon regulatory pathway-inducing capacity. Administration of the throat spray in healthy volunteers revealed that the lactobacilli were capable of temporary colonization of the throat in a metabolically active form. Thus, the developed spray with live lactobacilli will be further explored in the clinic as a potential broad-acting live biotherapeutic strategy against respiratory viral diseases.
+## Development of a live biotherapeutic throat spray with lactobacilli targeting respiratory viral infections 
 
 [Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14189)
-
-10.1111/1751-7915.14189
 
 ---
 
