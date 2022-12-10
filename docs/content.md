@@ -41,6 +41,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Workplace-related inhalation test - Specific inhalation challenge: S2k Guideline of the German Society for Occupational and Environmental Medicine e.V. (DGAUM), the German Society for Pneumology and Respiratory Medicine e.V. (DGP) and the German Society for Allergology and Clinical Immunology e.V. (DGAKI).
+ 15.10.2021, _AM Preisser, D Koschel, R Merget, D Nowak, M Raulf, J Heidrich_
+
+
+Not available.
+
+[Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
+
+10.5414/ALX02280E
+
+---
+
 ## @v_heidrich
 
 [Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
@@ -65,15 +77,35 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Host-microbiota interactions play a crucial role in oyster adaptation to rising seawater temperature in summer.
+ 30.11.2022, _M Liu, Q Li, L Tan, L Wang, F Wu, L Li, G Zhang_
+
+
+_Animals, Temperature, Crassostrea, Seawater, Seasons, Microbiota, Bacteria_
+Climate change, represented by rising and fluctuating temperature, induces systematic changes in marine organisms and in their bacterial symbionts. However, the role of host-microbiota interactions in the host's response to rising temperature and the underlying mechanisms are incompletely understood in marine organisms. Here, the symbiotic intestinal microbiota and transcriptional responses between diploid and triploid oysters that displayed susceptible and resistant performance under the stress of rising temperature during a summer mortality event were compared to investigate the host-microbiota interactions. The rising and fluctuating temperatures triggered an earlier onset and higher mortality in susceptible oysters (46.7%) than in resistant oysters (17.3%). Correlation analysis between microbial properties and environmental factors showed temperature was strongly correlated with indices of α-diversity and the abundance of top 10 phyla, indicating that temperature significantly shaped the intestinal microbiota of oysters. The microbiota structure of resistant oysters exhibited more rapid changes in composition and diversity compared to susceptible oysters before peak mortality, indicating that resistant oysters possessed a stronger ability to regulate their symbiotic microbiota. Meanwhile, linear discriminant analysis effect size (LefSe) analysis found that the probiotics Verrucomicrobiales and Clostridiales were highly enriched in resistant oysters, and that potential pathogens Betaproteobacteriales and Acidobacteriales were enriched in susceptible oysters. These results implied that the symbiotic microbiota played a significant role in the oysters' adaptation to rising temperature. Accompanying the decrease in unfavorable bacteria before peak mortality, genes related to phagocytosis and lysozymes were upregulated and the xenobiotics elimination pathway was exclusively expressed in resistant oysters, demonstrating the validity of these immunological functions in controlling proliferation of pathogens driven by rising temperature. Compromised immunological functions might lead to proliferation of pathogens in susceptible oysters. This study might uncover a conserved mechanism of adaptation to rising temperature in marine invertebrates from the perspective of interactions between host and symbiotic microbiota.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
+
+10.1016/j.envres.2022.114585
+
+---
+
 ## Experimental temperatures shape host microbiome diversity and composition
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
 
 ---
 
-## Global biogeography and projection of soil antibiotic resistance genes
+## Global biogeography and projection of soil antibiotic resistance genes.
+ 02.12.2022, _D Zheng, G Yin, M Liu, L Hou, Y Yang, TP Van Boeckel, Y Zheng, Y Li_
+
+
+_Humans, Soil, Anti-Bacterial Agents, Soil Microbiology, Genes, Bacterial, Drug Resistance, Microbial_
+Although edaphic antibiotic resistance genes (ARGs) pose serious threats to human well-being, their spatially explicit patterns and responses to environmental constraints at the global scale are not well understood. This knowledge gap is hindering the global action plan on antibiotic resistance launched by the World Health Organization. Here, a global analysis of 1088 soil metagenomic samples detected 558 ARGs in soils, where ARG abundance in agricultural habitats was higher than that in nonagricultural habitats. Soil ARGs were mostly carried by clinical pathogens and gut microbes that mediated the control of climatic and anthropogenic factors to ARGs. We generated a global map of soil ARG abundance, where the identified microbial hosts, agricultural activities, and anthropogenic factors explained ARG hot spots in India, East Asia, Western Europe, and the United States. Our results highlight health threats from soil clinical pathogens carrying ARGs and determine regions prioritized to control soil antibiotic resistance worldwide.
 
 [Source](https://www.science.org/doi/10.1126/sciadv.abq8015)
+
+10.1126/sciadv.abq8015
 
 ---
 
@@ -95,9 +127,33 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Wastewater-based surveillance in Italy leading to the first detection of mcr-10-positive Klebsiella quasipneumoniae.
+ 09.12.2022, _N Formenti, F Guarneri, C Bertasio, G Parisio, C Romeo, F Scali, L Birbes, MB Boniotti, G Diegoli, L Candela, GA Romeo, P Pasquali, GL Alborali_
+
+
+Wastewater-based surveillance enabled the first detection of the mobile colistin resistance gene mcr-10 in Italy. This plasmid-borne resistance gene was found in strains of Klebsiella quasipneumoniae isolated from samples of human raw sewage collected over several months. Although the isolates were phenotypically susceptible to colistin, the emergence of mcr-10 is concerning due to the highly variable expression of the gene and the potential for horizontal transfer to other species. In addition, the strains also carried an extended-spectrum β-lactamase gene and were phenotypically resistant to several beta-lactams. This study highlights the value of wastewater-based surveillance as an effective tool to monitor the emergence of antimicrobial resistance in strains circulating in the community and the environment.
+
+[Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s13756-022-01194-9
+
+---
+
 ## #sewage
 
 [Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## A comprehensive study of the source, occurrence, and spatio-seasonal dynamics of 12 target antibiotics and their potential risks in a cold semi-arid catchment.
+ 09.12.2022, _H Ju, L Liu, X Liu, Y Wu, L Li, KY Gin, G Zhang, J Zhang_
+
+
+Antibiotics are widely consumed and are ubiquitous in aquatic ecosystems, such as in agricultural and fishery lake catchments, for prophylactic treatment. However, there are very few comprehensive studies reporting all seasonal occurrences, spatiotemporal dynamics, and risk assessments of antibiotics in agricultural lake catchments, especially in cold regions during the winter season. This study measured seasonality in the concentrations of 12 antibiotics belonging to seven different classes in the surface waters (tributary rivers and lakes) of the Chagan lake catchment in northeast China. All antibiotics were detected in most of the water samples across most seasons, with concentrations varying for different compounds, locations, and seasons. These levels were discussed in terms of the main sources at different sampling sites, including agriculture, fish farming, municipal wastewater, and others. In general, the highest concentrations of most compounds were observed during the freeze-thaw periods. The number of antibiotic resistance genes (ARGs) correlated with compound lipophilicity and half-life. Based on the ecological risks of antibiotics and the relative abundance of ARGs, a hierarchical control priority list (HCPL) of antibiotics was determined, considering four levels (critical, high, medium, and low). To further strengthen the control and effectively manage antibiotics, we highly recommend the reduction and selective use of veterinary antibiotics in winter and spring during the freeze-thaw periods in the Chagan lake catchment.
+
+[Source](https://twitter.com/hashtag/ARGs?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.watres.2022.119433
 
 ---
 
@@ -128,18 +184,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## pic.twitter.com/TZ1oeja7qS
 
 [Source](https://t.co/TZ1oeja7qS)
-
----
-
-## Characterizing primary care patients with posttraumatic stress disorder using electronic medical records: a retrospective cross-sectional study.
- 09.12.2022, _A Singer, L Kosowan, D Muthumuni, A Katz, H Zafari, F Zulkernine, JD Richardson, M Price, T Williamson, J Queenan, J Sareen_
-
-
-Posttraumatic stress disorder (PTSD) has significant morbidity and economic costs. This study describes the prevalence and characteristics of patients with PTSD using primary care electronic medical record (EMR) data.
-
-[Source](https://twitter.com/pat_munk/status/1598353862447943690?ref_src=twsrc%5Etfw)
-
-10.1093/fampra/cmac139
 
 ---
 
@@ -270,6 +314,18 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
+## The phosphorus harvest from low-temperature mainstream wastewater through iron phosphate crystallization in a pilot-scale partial nitritation/anammox reactor.
+ 09.12.2022, _Y Guo, EH Sanjaya, T Wang, C Rong, Z Luo, Y Xue, H Chen, YY Li_
+
+
+The phosphorus harvest along nitrogen removal in the partial nitritation/anammox (PNA) reactor is promising for saving space and simplifying the management of mainstream wastewater treatment facilities. In this study, the phosphorus recovery from the low-temperature mainstream wastewater was explored through iron phosphate crystallization in a pilot-scale PNA reactor. With the COD-alleviated municipal wastewater as the influent, the ammonium concentration of about 50 mg/L and the phosphorus concentration ranged from 5.4 to 7.1 mg/L, under the temperature of 15 °C and the addition of external ferrous iron of 14 mg/L, the achieved nitrogen removal efficiency and the phosphorus removal efficiency were 37.6 % and 62.7 %, respectively. The good settleability of sludge indicated that the formed iron phosphate was well combined with the biomass. The quantitative analysis confirmed that the main iron phosphate in dry sludge was graftonite, and qualitative analysis confirmed that the equivalent of P2O5 content in the sludge was 5.8 %, which was suitable as fertilizer on agricultural land to realize the direct recycle of discharged phosphorus. In all, this study proposed a pioneering scheme to realize the nitrogen removal and phosphorus cycle in human society and given a meaningful reference for further research and application.
+
+[Source](https://twitter.com/hashtag/anammox?src=hash&ref_src=twsrc%5Etfw)
+
+10.1016/j.scitotenv.2022.160750
+
+---
+
 ## #anammox
 
 [Source](https://twitter.com/hashtag/anammox?src=hash&ref_src=twsrc%5Etfw)
@@ -279,6 +335,18 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 ## https://t.co/5NAFuhpLcU
 
 [Source](https://t.co/5NAFuhpLcU)
+
+---
+
+## Clinicopathological features, genetic alterations, and BRCA1 promoter methylation in Japanese male patients with breast cancer.
+ 09.12.2022, _A Shimomura, M Yoshida, T Kubo, S Yamashita, E Noguchi, A Nagayama, T Hanamura, M Okazaki, T Mukohara, A Tsuruga, K Tanaka, Y Kawamura, T Higuchi, Y Takahashi, S Kurozumi, T Hayashida, H Ichikawa, T Ushijima, A Suto_
+
+
+Male breast cancer (MBC) is a rare cancer accounting for only 1% of all male cancers and is, therefore, poorly studied. We aimed to characterize the subtypes of MBC in Japanese patients based on genetic profiling, the presence of tumor-infiltrating cells, and the expression of immunohistochemical markers.
+
+[Source](https://twitter.com/watermicrobe/status/1600348215592644608?ref_src=twsrc%5Etfw)
+
+10.1007/s10549-022-06822-x
 
 ---
 
@@ -360,9 +428,16 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
-## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes
+## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes.
+ 05.12.2022, _L Liu, Y Yang, Y Deng, T Zhang_
+
+
+_Metagenome, Metagenomics, Nanopores, RNA, Ribosomal, 16S, Sewage, Microbiota, Prophages_
+The accurate and comprehensive analyses of genome-resolved metagenomics largely depend on the reconstruction of reference-quality (complete and high-quality) genomes from diverse microbiomes. Closing gaps in draft genomes have been approaching with the inclusion of Nanopore long reads; however, genome quality improvement requires extensive and time-consuming high-accuracy short-read polishing.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01415-8)
+
+10.1186/s40168-022-01415-8
 
 ---
 
