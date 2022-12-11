@@ -41,18 +41,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Workplace-related inhalation test - Specific inhalation challenge: S2k Guideline of the German Society for Occupational and Environmental Medicine e.V. (DGAUM), the German Society for Pneumology and Respiratory Medicine e.V. (DGP) and the German Society for Allergology and Clinical Immunology e.V. (DGAKI).
- 15.10.2021, _AM Preisser, D Koschel, R Merget, D Nowak, M Raulf, J Heidrich_
-
-
-Not available.
-
-[Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
-
-10.5414/ALX02280E
-
----
-
 ## @v_heidrich
 
 [Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
@@ -77,35 +65,15 @@ Not available.
 
 ---
 
-## Host-microbiota interactions play a crucial role in oyster adaptation to rising seawater temperature in summer.
- 30.11.2022, _M Liu, Q Li, L Tan, L Wang, F Wu, L Li, G Zhang_
-
-
-_Animals, Temperature, Crassostrea, Seawater, Seasons, Microbiota, Bacteria_
-Climate change, represented by rising and fluctuating temperature, induces systematic changes in marine organisms and in their bacterial symbionts. However, the role of host-microbiota interactions in the host's response to rising temperature and the underlying mechanisms are incompletely understood in marine organisms. Here, the symbiotic intestinal microbiota and transcriptional responses between diploid and triploid oysters that displayed susceptible and resistant performance under the stress of rising temperature during a summer mortality event were compared to investigate the host-microbiota interactions. The rising and fluctuating temperatures triggered an earlier onset and higher mortality in susceptible oysters (46.7%) than in resistant oysters (17.3%). Correlation analysis between microbial properties and environmental factors showed temperature was strongly correlated with indices of α-diversity and the abundance of top 10 phyla, indicating that temperature significantly shaped the intestinal microbiota of oysters. The microbiota structure of resistant oysters exhibited more rapid changes in composition and diversity compared to susceptible oysters before peak mortality, indicating that resistant oysters possessed a stronger ability to regulate their symbiotic microbiota. Meanwhile, linear discriminant analysis effect size (LefSe) analysis found that the probiotics Verrucomicrobiales and Clostridiales were highly enriched in resistant oysters, and that potential pathogens Betaproteobacteriales and Acidobacteriales were enriched in susceptible oysters. These results implied that the symbiotic microbiota played a significant role in the oysters' adaptation to rising temperature. Accompanying the decrease in unfavorable bacteria before peak mortality, genes related to phagocytosis and lysozymes were upregulated and the xenobiotics elimination pathway was exclusively expressed in resistant oysters, demonstrating the validity of these immunological functions in controlling proliferation of pathogens driven by rising temperature. Compromised immunological functions might lead to proliferation of pathogens in susceptible oysters. This study might uncover a conserved mechanism of adaptation to rising temperature in marine invertebrates from the perspective of interactions between host and symbiotic microbiota.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
-
-10.1016/j.envres.2022.114585
-
----
-
 ## Experimental temperatures shape host microbiome diversity and composition
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
 
 ---
 
-## Global biogeography and projection of soil antibiotic resistance genes.
- 02.12.2022, _D Zheng, G Yin, M Liu, L Hou, Y Yang, TP Van Boeckel, Y Zheng, Y Li_
-
-
-_Humans, Soil, Anti-Bacterial Agents, Soil Microbiology, Genes, Bacterial, Drug Resistance, Microbial_
-Although edaphic antibiotic resistance genes (ARGs) pose serious threats to human well-being, their spatially explicit patterns and responses to environmental constraints at the global scale are not well understood. This knowledge gap is hindering the global action plan on antibiotic resistance launched by the World Health Organization. Here, a global analysis of 1088 soil metagenomic samples detected 558 ARGs in soils, where ARG abundance in agricultural habitats was higher than that in nonagricultural habitats. Soil ARGs were mostly carried by clinical pathogens and gut microbes that mediated the control of climatic and anthropogenic factors to ARGs. We generated a global map of soil ARG abundance, where the identified microbial hosts, agricultural activities, and anthropogenic factors explained ARG hot spots in India, East Asia, Western Europe, and the United States. Our results highlight health threats from soil clinical pathogens carrying ARGs and determine regions prioritized to control soil antibiotic resistance worldwide.
+## Global biogeography and projection of soil antibiotic resistance genes
 
 [Source](https://www.science.org/doi/10.1126/sciadv.abq8015)
-
-10.1126/sciadv.abq8015
 
 ---
 
@@ -121,51 +89,15 @@ Although edaphic antibiotic resistance genes (ARGs) pose serious threats to huma
 
 ---
 
-## Restriction of interleukin-6 alters endothelial cell immunogenicity in an allogenic environment.
- 10.12.2022, _J Lion, ML Maitre, C de Truchis, JL Taupin, K Poussin, A Haziot, E Chong, D Glotz, N Mooney_
-
-
-The microvascular endothelium of the renal transplant is the first site of graft interaction with the host immune system and is often injured in chronic Antibody Mediated Rejection (AMR). Microvascular inflammation is an independent determinant of AMR and heightens endothelial expression of HLA molecules thereby increasing the possibility of Donor Specific Antibody (DSA) binding. Endothelial cells produce IL-6 in the steady-state that is increased by inflammation or by HLA-DR antibody binding in an allogeneic setting. Because IL-6 has been implicated in AMR, IL-6 blockade is currently under investigation as a therapeutic target. To further understand the role of IL-6 in endothelial cell immunogenicity, we have examined whether humanized antibody blockade of IL-6 altered endothelial cell interactions with allogeneic PBMC and after anti-HLA or DSA binding to endothelial cells in an in vitro human experimental model. Soluble factors, endothelial phenotype, Stat-3 activation, CD4+ -T differentiation and C4d deposition were examined. Blockade of IL-6 reduced endothelial cell secretion of IL-6 and of the monocyte chemoattractant MCP-1. Pre-activation of endothelial cells by anti-HLA or DSA binding increased IL-6 secretion, that was further increased by concurrent binding of both antibodies and this was inhibited by IL-6 blockade. Activation of Stat-3 in CD4+ -T mediated by soluble factors produced in endothelial-PBMC interactions, and endothelial differentiation of CD4+ -T cell subsets (Th1, Th17, Treg), were impaired whereas activation of Complement by anti-HLA antibody binding remained unchanged by IL-6 blockade. Together, these data identify EC-mediated pro-inflammatory responses (T cell expansion, EC auto-activation, chemokine secretion) targeted by IL-6 blockade. This article is protected by copyright. All rights reserved.
-
-[Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/ctr.14851
-
----
-
 ## #AMR
 
 [Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Wastewater-based surveillance in Italy leading to the first detection of mcr-10-positive Klebsiella quasipneumoniae.
- 09.12.2022, _N Formenti, F Guarneri, C Bertasio, G Parisio, C Romeo, F Scali, L Birbes, MB Boniotti, G Diegoli, L Candela, GA Romeo, P Pasquali, GL Alborali_
-
-
-Wastewater-based surveillance enabled the first detection of the mobile colistin resistance gene mcr-10 in Italy. This plasmid-borne resistance gene was found in strains of Klebsiella quasipneumoniae isolated from samples of human raw sewage collected over several months. Although the isolates were phenotypically susceptible to colistin, the emergence of mcr-10 is concerning due to the highly variable expression of the gene and the potential for horizontal transfer to other species. In addition, the strains also carried an extended-spectrum β-lactamase gene and were phenotypically resistant to several beta-lactams. This study highlights the value of wastewater-based surveillance as an effective tool to monitor the emergence of antimicrobial resistance in strains circulating in the community and the environment.
-
-[Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
-
-10.1186/s13756-022-01194-9
-
----
-
 ## #sewage
 
 [Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## A sludge bulking wastewater treatment plant with an oxidation ditch-denitrification filter in a cold region: bacterial community composition and antibiotic resistance genes.
- 10.12.2022, _Z Liang, J Yao, H Ma, W Peng, X Xia, Y Chen_
-
-
-Bacterial community structure of activated sludge directly affects the stable operation of WWTPS, and these bacterial communities may carry a variety of antibiotic resistance genes (ARGs), which is a threat to the public health. This study employed 16S rRNA gene sequencing and metagenomic sequencing to investigate the bacterial community composition and the ARGs in a sludge bulking oxidation ditch-denitrification filter WWTP in a cold region. The results showed that Trichococcus (20.34%), Blautia (7.72%), and Faecalibacterium (3.64%) were the main bacterial genera in the influent. The relative abundances of norank_f_Saprospiraceae and Candidatus_Microthrix reached 10.24% and 8.40%, respectively, in bulking sludge, and those of norank_f_Saprospiraceae and Candidatus_Microthrix decreased to 6.56 and 7.10% after the anaerobic tank, indicating that the anaerobic tank had an inhibitory effect on filamentous bacteria. After 20 mJ/cm2 UV disinfection, about 540 bacterial genera, such as Romboutsia (7.99%), Rhodoferax (7.98%), and Thermomonas (4.13%), could still be detected in the effluent. The ARGs were 345.11 ppm in the influent and 11.20 ppm in the effluent; 17 subtypes, such as sul1, msrE, aadA5, ErmF, and tet(A), could be detected throughout the entire process. These ARG subtypes were persistent ARGs with a high health risk. Network analysis indicated that the changes in filamentous bacteria norank_f_Saprospiraceae abundance mainly contributed to the abundance shift of MexB, and Acinetobacter mainly increased the abundance of drfA1. These results above will provide theoretical support for the sludge bulking and ARGs controls of WWTPs in cold regions.
-
-[Source](https://twitter.com/hashtag/ARGs?src=hash&ref_src=twsrc%5Etfw)
-
-10.1007/s11356-022-24591-4
 
 ---
 
@@ -211,15 +143,9 @@ Bacterial community structure of activated sludge directly affects the stable op
 
 ---
 
-## Effects of dog ownership on the gut microbiota of elderly owners.
- 08.12.2022, _C Jiang, Z Cui, P Fan, G Du_
-
-
-Dog owners are usually in close contact with dogs. Whether dogs can affect the gut microbiota of elderly dog owners is worth studying. Data from 54 elderly (over 65 years of age) dog owners were screened from the American Gut Project. Owning a dog did not affect the α-diversity of the gut microbiota of the dog owner. Dog ownership significantly modulated the composition of the gut microbiota of the dog owner. The abundance of Actinobacteria was significantly increased. The abundances of Bifidobacteriaceae and Ruminococcaceae were significantly increased, while the abundance of Moracellaceae was significantly suppressed. In general, dog ownership can regulate the composition of gut microbiota and has a more significant effect on elderly males.
+## Effects of dog ownership on the gut microbiota of elderly owners 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278105)
-
-10.1371/journal.pone.0278105
 
 ---
 
@@ -229,15 +155,9 @@ Dog owners are usually in close contact with dogs. Whether dogs can affect the g
 
 ---
 
-## Gut microbiome-wide association study of depressive symptoms.
- 06.12.2022, _D Radjabzadeh, JA Bosch, AG Uitterlinden, AH Zwinderman, MA Ikram, JBJ van Meurs, AI Luik, M Nieuwdorp, A Lok, CM van Duijn, R Kraaij, N Amin_
-
-
-Depression is one of the most poorly understood diseases due to its elusive pathogenesis. There is an urgency to identify molecular and biological mechanisms underlying depression and the gut microbiome is a novel area of interest. Here we investigate the relation of fecal microbiome diversity and composition with depressive symptoms in 1,054 participants from the Rotterdam Study cohort and validate these findings in the Amsterdam HELIUS cohort in 1,539 subjects. We identify association of thirteen microbial taxa, including genera Eggerthella, Subdoligranulum, Coprococcus, Sellimonas, Lachnoclostridium, Hungatella, Ruminococcaceae (UCG002, UCG003 and UCG005), LachnospiraceaeUCG001, Eubacterium ventriosum and Ruminococcusgauvreauiigroup, and family Ruminococcaceae with depressive symptoms. These bacteria are known to be involved in the synthesis of glutamate, butyrate, serotonin and gamma amino butyric acid (GABA), which are key neurotransmitters for depression. Our study suggests that the gut microbiome composition may play a key role in depression.
+## Gut microbiome-wide association study of depressive symptoms
 
 [Source](https://www.nature.com/articles/s41467-022-34502-3)
-
-10.1038/s41467-022-34502-3
 
 ---
 
@@ -320,33 +240,9 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
-## Nitrifiers Cooperate to Produce Nitrous Oxide in Plateau Wetland Sediments.
- 02.12.2022, _D Yuan, L Zheng, YX Liu, H Cheng, A Ding, X Wang, Q Tan, X Wang, Y Xing, E Xie, H Wu, S Wang, G Zhu_
-
-
-The thawing of dormant plateau permafrost emits nitrous oxide (N2O) through wetlands; however, the N2O production mechanism in plateau wetlands is still unclear. Here, we used the 15N-18O double tracer technique and metagenomic sequencing to analyze the N2O production mechanism in the Yunnan-Kweichow and Qinghai-Tibet plateau wetlands during the summer of 2020. N2O production activity was detected in all 16 sediment samples (elevation 1020-4601 m: 2.55 ± 0.42-26.38 ± 3.25 ng N g-1 d-1) and was promoted by nitrifier denitrification (ND). The key functional genes of ND (amoA, hao, and nirK) belonged to complete ammonia oxidizing (comammox) bacteria, and the key ND species was the comammox bacterium Nitrospira nitrificans. We found that the comammox bacterial species N. nitrificans and the ammonia oxidizing bacterial (AOB) species Nitrosomonas europaea cooperate to produce N2O in the plateau wetland sediments. Furthermore, we inferred that environmental factors (elevation and total organic matter (TOM)) influence the cooperation pattern via N. nitrificans, thus affecting the N2O production activity in the plateau wetland sediments. Our findings advance the mechanistic understanding of nitrifiers in biogeochemical cycles and global climate change.
-
-[Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
-
-10.1021/acs.est.2c06234
-
----
-
 ## #comammox
 
 [Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## The phosphorus harvest from low-temperature mainstream wastewater through iron phosphate crystallization in a pilot-scale partial nitritation/anammox reactor.
- 09.12.2022, _Y Guo, EH Sanjaya, T Wang, C Rong, Z Luo, Y Xue, H Chen, YY Li_
-
-
-The phosphorus harvest along nitrogen removal in the partial nitritation/anammox (PNA) reactor is promising for saving space and simplifying the management of mainstream wastewater treatment facilities. In this study, the phosphorus recovery from the low-temperature mainstream wastewater was explored through iron phosphate crystallization in a pilot-scale PNA reactor. With the COD-alleviated municipal wastewater as the influent, the ammonium concentration of about 50 mg/L and the phosphorus concentration ranged from 5.4 to 7.1 mg/L, under the temperature of 15 °C and the addition of external ferrous iron of 14 mg/L, the achieved nitrogen removal efficiency and the phosphorus removal efficiency were 37.6 % and 62.7 %, respectively. The good settleability of sludge indicated that the formed iron phosphate was well combined with the biomass. The quantitative analysis confirmed that the main iron phosphate in dry sludge was graftonite, and qualitative analysis confirmed that the equivalent of P2O5 content in the sludge was 5.8 %, which was suitable as fertilizer on agricultural land to realize the direct recycle of discharged phosphorus. In all, this study proposed a pioneering scheme to realize the nitrogen removal and phosphorus cycle in human society and given a meaningful reference for further research and application.
-
-[Source](https://twitter.com/hashtag/anammox?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.scitotenv.2022.160750
 
 ---
 
@@ -359,18 +255,6 @@ The phosphorus harvest along nitrogen removal in the partial nitritation/anammox
 ## https://t.co/5NAFuhpLcU
 
 [Source](https://t.co/5NAFuhpLcU)
-
----
-
-## Number of dye marks required in virtual-assisted lung mapping.
- 10.12.2022, _M Nagano, M Sato, M Yanagiya, K Nakao, C Konoeda, K Kitano, J Nakajima_
-
-
-Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-marking technique used in sublobar lung resection for hardly palpable lung nodules. However, the number of marks required per nodule remains unknown. Therefore, we examined the correlation between the number of intraoperative visible marks and the successful resection rate.
-
-[Source](https://twitter.com/watermicrobe/status/1600348215592644608?ref_src=twsrc%5Etfw)
-
-10.1007/s11748-022-01896-2
 
 ---
 
@@ -392,16 +276,9 @@ Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-mar
 
 ---
 
-## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments.
- 07.12.2022, _HJ Ruscheweyh, A Milanese, L Paoli, N Karcher, Q Clayssen, MI Keller, J Wirbel, P Bork, DR Mende, G Zeller, S Sunagawa_
-
-
-_Swine, Cattle, Animals, RNA, Ribosomal, 16S, Metagenome, Metagenomics, Microbiota, Soil_
-Taxonomic profiling is a fundamental task in microbiome research that aims to detect and quantify the relative abundance of microorganisms in biological samples. Available methods using shotgun metagenomic data generally depend on the deposition of sequenced and taxonomically annotated genomes, usually from cultures of isolated strains, in reference databases (reference genomes). However, the majority of microorganisms have not been cultured yet. Thus, a substantial fraction of microbial community members remains unaccounted for during taxonomic profiling, particularly in samples from underexplored environments. To address this issue, we developed the mOTU profiler, a tool that enables reference genome-independent species-level profiling of metagenomes. As such, it supports the identification and quantification of both "known" and "unknown" species based on a set of select marker genes.
+## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
-
-10.1186/s40168-022-01410-z
 
 ---
 
@@ -429,18 +306,6 @@ Taxonomic profiling is a fundamental task in microbiome research that aims to de
 
 ---
 
-## Pangenome and genomic taxonomy analyses of Leuconostoc gelidum and Leuconostoc gasicomitatum.
- 09.12.2022, _P Johansson, E Säde, J Hultman, P Auvinen, J Björkroth_
-
-
-Leuconostoc gelidum and Leuconostoc gasicomitatum have dual roles in foods. They may spoil cold-stored packaged foods but can also be beneficial in kimchi fermentation. The impact in food science as well as the limited number of publicly available genomes prompted us to create pangenomes and perform genomic taxonomy analyses starting from de novo sequencing of the genomes of 37 L. gelidum/L. gasicomitatum strains from our culture collection. Our aim was also to evaluate the recently proposed change in taxonomy as well as to study the genomes of strains with different lifestyles in foods.
-
-[Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
-
-10.1186/s12864-022-09032-3
-
----
-
 ## @pangenomics
 
 [Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
@@ -459,18 +324,6 @@ Leuconostoc gelidum and Leuconostoc gasicomitatum have dual roles in foods. They
 
 ---
 
-## Number of dye marks required in virtual-assisted lung mapping.
- 10.12.2022, _M Nagano, M Sato, M Yanagiya, K Nakao, C Konoeda, K Kitano, J Nakajima_
-
-
-Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-marking technique used in sublobar lung resection for hardly palpable lung nodules. However, the number of marks required per nodule remains unknown. Therefore, we examined the correlation between the number of intraoperative visible marks and the successful resection rate.
-
-[Source](https://twitter.com/SunagawaLab/status/1599757566506323968?ref_src=twsrc%5Etfw)
-
-10.1007/s11748-022-01896-2
-
----
-
 ## December 5, 2022
 
 [Source](https://twitter.com/SunagawaLab/status/1599757566506323968?ref_src=twsrc%5Etfw)
@@ -483,16 +336,9 @@ Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-mar
 
 ---
 
-## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes.
- 05.12.2022, _L Liu, Y Yang, Y Deng, T Zhang_
-
-
-_Metagenome, Metagenomics, Nanopores, RNA, Ribosomal, 16S, Sewage, Microbiota, Prophages_
-The accurate and comprehensive analyses of genome-resolved metagenomics largely depend on the reconstruction of reference-quality (complete and high-quality) genomes from diverse microbiomes. Closing gaps in draft genomes have been approaching with the inclusion of Nanopore long reads; however, genome quality improvement requires extensive and time-consuming high-accuracy short-read polishing.
+## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01415-8)
-
-10.1186/s40168-022-01415-8
 
 ---
 
@@ -517,18 +363,6 @@ The accurate and comprehensive analyses of genome-resolved metagenomics largely 
 ## #phdchat
 
 [Source](https://twitter.com/hashtag/phdchat?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Number of dye marks required in virtual-assisted lung mapping.
- 10.12.2022, _M Nagano, M Sato, M Yanagiya, K Nakao, C Konoeda, K Kitano, J Nakajima_
-
-
-Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-marking technique used in sublobar lung resection for hardly palpable lung nodules. However, the number of marks required per nodule remains unknown. Therefore, we examined the correlation between the number of intraoperative visible marks and the successful resection rate.
-
-[Source](https://twitter.com/Prokaryota/status/1600473298365607937?ref_src=twsrc%5Etfw)
-
-10.1007/s11748-022-01896-2
 
 ---
 
