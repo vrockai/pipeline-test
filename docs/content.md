@@ -41,6 +41,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Workplace-related inhalation test - Specific inhalation challenge: S2k Guideline of the German Society for Occupational and Environmental Medicine e.V. (DGAUM), the German Society for Pneumology and Respiratory Medicine e.V. (DGP) and the German Society for Allergology and Clinical Immunology e.V. (DGAKI).
+ 15.10.2021, _AM Preisser, D Koschel, R Merget, D Nowak, M Raulf, J Heidrich_
+
+
+Not available.
+
+[Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
+
+10.5414/ALX02280E
+
+---
+
 ## @v_heidrich
 
 [Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
@@ -62,6 +74,19 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ## December 6, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1600084727561527296?ref_src=twsrc%5Etfw)
+
+---
+
+## Host-microbiota interactions play a crucial role in oyster adaptation to rising seawater temperature in summer.
+ 30.11.2022, _M Liu, Q Li, L Tan, L Wang, F Wu, L Li, G Zhang_
+
+
+_Animals, Temperature, Crassostrea, Seawater, Seasons, Microbiota, Bacteria_
+Climate change, represented by rising and fluctuating temperature, induces systematic changes in marine organisms and in their bacterial symbionts. However, the role of host-microbiota interactions in the host's response to rising temperature and the underlying mechanisms are incompletely understood in marine organisms. Here, the symbiotic intestinal microbiota and transcriptional responses between diploid and triploid oysters that displayed susceptible and resistant performance under the stress of rising temperature during a summer mortality event were compared to investigate the host-microbiota interactions. The rising and fluctuating temperatures triggered an earlier onset and higher mortality in susceptible oysters (46.7%) than in resistant oysters (17.3%). Correlation analysis between microbial properties and environmental factors showed temperature was strongly correlated with indices of α-diversity and the abundance of top 10 phyla, indicating that temperature significantly shaped the intestinal microbiota of oysters. The microbiota structure of resistant oysters exhibited more rapid changes in composition and diversity compared to susceptible oysters before peak mortality, indicating that resistant oysters possessed a stronger ability to regulate their symbiotic microbiota. Meanwhile, linear discriminant analysis effect size (LefSe) analysis found that the probiotics Verrucomicrobiales and Clostridiales were highly enriched in resistant oysters, and that potential pathogens Betaproteobacteriales and Acidobacteriales were enriched in susceptible oysters. These results implied that the symbiotic microbiota played a significant role in the oysters' adaptation to rising temperature. Accompanying the decrease in unfavorable bacteria before peak mortality, genes related to phagocytosis and lysozymes were upregulated and the xenobiotics elimination pathway was exclusively expressed in resistant oysters, demonstrating the validity of these immunological functions in controlling proliferation of pathogens driven by rising temperature. Compromised immunological functions might lead to proliferation of pathogens in susceptible oysters. This study might uncover a conserved mechanism of adaptation to rising temperature in marine invertebrates from the perspective of interactions between host and symbiotic microbiota.
+
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
+
+10.1016/j.envres.2022.114585
 
 ---
 
@@ -93,6 +118,18 @@ Although edaphic antibiotic resistance genes (ARGs) pose serious threats to huma
 ## #globalsewage
 
 [Source](https://twitter.com/hashtag/globalsewage?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Restriction of interleukin-6 alters endothelial cell immunogenicity in an allogenic environment.
+ 10.12.2022, _J Lion, ML Maitre, C de Truchis, JL Taupin, K Poussin, A Haziot, E Chong, D Glotz, N Mooney_
+
+
+The microvascular endothelium of the renal transplant is the first site of graft interaction with the host immune system and is often injured in chronic Antibody Mediated Rejection (AMR). Microvascular inflammation is an independent determinant of AMR and heightens endothelial expression of HLA molecules thereby increasing the possibility of Donor Specific Antibody (DSA) binding. Endothelial cells produce IL-6 in the steady-state that is increased by inflammation or by HLA-DR antibody binding in an allogeneic setting. Because IL-6 has been implicated in AMR, IL-6 blockade is currently under investigation as a therapeutic target. To further understand the role of IL-6 in endothelial cell immunogenicity, we have examined whether humanized antibody blockade of IL-6 altered endothelial cell interactions with allogeneic PBMC and after anti-HLA or DSA binding to endothelial cells in an in vitro human experimental model. Soluble factors, endothelial phenotype, Stat-3 activation, CD4+ -T differentiation and C4d deposition were examined. Blockade of IL-6 reduced endothelial cell secretion of IL-6 and of the monocyte chemoattractant MCP-1. Pre-activation of endothelial cells by anti-HLA or DSA binding increased IL-6 secretion, that was further increased by concurrent binding of both antibodies and this was inhibited by IL-6 blockade. Activation of Stat-3 in CD4+ -T mediated by soluble factors produced in endothelial-PBMC interactions, and endothelial differentiation of CD4+ -T cell subsets (Th1, Th17, Treg), were impaired whereas activation of Complement by anti-HLA antibody binding remained unchanged by IL-6 blockade. Together, these data identify EC-mediated pro-inflammatory responses (T cell expansion, EC auto-activation, chemokine secretion) targeted by IL-6 blockade. This article is protected by copyright. All rights reserved.
+
+[Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/ctr.14851
 
 ---
 
@@ -283,6 +320,18 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
+## Nitrifiers Cooperate to Produce Nitrous Oxide in Plateau Wetland Sediments.
+ 02.12.2022, _D Yuan, L Zheng, YX Liu, H Cheng, A Ding, X Wang, Q Tan, X Wang, Y Xing, E Xie, H Wu, S Wang, G Zhu_
+
+
+The thawing of dormant plateau permafrost emits nitrous oxide (N2O) through wetlands; however, the N2O production mechanism in plateau wetlands is still unclear. Here, we used the 15N-18O double tracer technique and metagenomic sequencing to analyze the N2O production mechanism in the Yunnan-Kweichow and Qinghai-Tibet plateau wetlands during the summer of 2020. N2O production activity was detected in all 16 sediment samples (elevation 1020-4601 m: 2.55 ± 0.42-26.38 ± 3.25 ng N g-1 d-1) and was promoted by nitrifier denitrification (ND). The key functional genes of ND (amoA, hao, and nirK) belonged to complete ammonia oxidizing (comammox) bacteria, and the key ND species was the comammox bacterium Nitrospira nitrificans. We found that the comammox bacterial species N. nitrificans and the ammonia oxidizing bacterial (AOB) species Nitrosomonas europaea cooperate to produce N2O in the plateau wetland sediments. Furthermore, we inferred that environmental factors (elevation and total organic matter (TOM)) influence the cooperation pattern via N. nitrificans, thus affecting the N2O production activity in the plateau wetland sediments. Our findings advance the mechanistic understanding of nitrifiers in biogeochemical cycles and global climate change.
+
+[Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
+
+10.1021/acs.est.2c06234
+
+---
+
 ## #comammox
 
 [Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
@@ -343,9 +392,16 @@ Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-mar
 
 ---
 
-## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments 
+## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments.
+ 07.12.2022, _HJ Ruscheweyh, A Milanese, L Paoli, N Karcher, Q Clayssen, MI Keller, J Wirbel, P Bork, DR Mende, G Zeller, S Sunagawa_
+
+
+_Swine, Cattle, Animals, RNA, Ribosomal, 16S, Metagenome, Metagenomics, Microbiota, Soil_
+Taxonomic profiling is a fundamental task in microbiome research that aims to detect and quantify the relative abundance of microorganisms in biological samples. Available methods using shotgun metagenomic data generally depend on the deposition of sequenced and taxonomically annotated genomes, usually from cultures of isolated strains, in reference databases (reference genomes). However, the majority of microorganisms have not been cultured yet. Thus, a substantial fraction of microbial community members remains unaccounted for during taxonomic profiling, particularly in samples from underexplored environments. To address this issue, we developed the mOTU profiler, a tool that enables reference genome-independent species-level profiling of metagenomes. As such, it supports the identification and quantification of both "known" and "unknown" species based on a set of select marker genes.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
+
+10.1186/s40168-022-01410-z
 
 ---
 
@@ -370,6 +426,18 @@ Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-mar
 ## @BorkLab
 
 [Source](https://twitter.com/BorkLab?ref_src=twsrc%5Etfw)
+
+---
+
+## Pangenome and genomic taxonomy analyses of Leuconostoc gelidum and Leuconostoc gasicomitatum.
+ 09.12.2022, _P Johansson, E Säde, J Hultman, P Auvinen, J Björkroth_
+
+
+Leuconostoc gelidum and Leuconostoc gasicomitatum have dual roles in foods. They may spoil cold-stored packaged foods but can also be beneficial in kimchi fermentation. The impact in food science as well as the limited number of publicly available genomes prompted us to create pangenomes and perform genomic taxonomy analyses starting from de novo sequencing of the genomes of 37 L. gelidum/L. gasicomitatum strains from our culture collection. Our aim was also to evaluate the recently proposed change in taxonomy as well as to study the genomes of strains with different lifestyles in foods.
+
+[Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
+
+10.1186/s12864-022-09032-3
 
 ---
 
@@ -449,6 +517,18 @@ The accurate and comprehensive analyses of genome-resolved metagenomics largely 
 ## #phdchat
 
 [Source](https://twitter.com/hashtag/phdchat?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Number of dye marks required in virtual-assisted lung mapping.
+ 10.12.2022, _M Nagano, M Sato, M Yanagiya, K Nakao, C Konoeda, K Kitano, J Nakajima_
+
+
+Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-marking technique used in sublobar lung resection for hardly palpable lung nodules. However, the number of marks required per nodule remains unknown. Therefore, we examined the correlation between the number of intraoperative visible marks and the successful resection rate.
+
+[Source](https://twitter.com/Prokaryota/status/1600473298365607937?ref_src=twsrc%5Etfw)
+
+10.1007/s11748-022-01896-2
 
 ---
 
