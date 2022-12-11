@@ -41,18 +41,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Workplace-related inhalation test - Specific inhalation challenge: S2k Guideline of the German Society for Occupational and Environmental Medicine e.V. (DGAUM), the German Society for Pneumology and Respiratory Medicine e.V. (DGP) and the German Society for Allergology and Clinical Immunology e.V. (DGAKI).
- 15.10.2021, _AM Preisser, D Koschel, R Merget, D Nowak, M Raulf, J Heidrich_
-
-
-Not available.
-
-[Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
-
-10.5414/ALX02280E
-
----
-
 ## @v_heidrich
 
 [Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
@@ -71,34 +59,9 @@ Not available.
 
 ---
 
-## Clinical effects of resurfacing fingertip amputations in long fingers using homodigital dorsal neurofascial broaden pedicle island flaps.
- 10.12.2022, _Z Ji, R Nie, S Li, C Liu, B Wei, C Zhu_
-
-
-The use of homodigital dorsal neurofascial broaden pedicle island flaps (HDNBPIF) to treat fingertip amputations is an ongoing research topic. Here, we evaluated the clinical effects of resurfacing fingertip amputations in long fingers using HDNBPIF. Seventeen patients with 18 long fingers were treated with HDNBPIF from December 2018 to May 2021. Total active motion (TAM) scores, Semmes Weinstein monofilament (SWM) test, static 2PD test, visual analogue scale (VAS), Vancouver scar scales (VSS), and quick DASH scores were evaluated at 12-25 months postoperation. The aesthetic satisfaction of the patients was estimated subjectively using a 5-point Likert scale. The mean defect size was 1.11 × 1.13 cm and mean flap size was 1.32 × 1.32 cm. All flaps survived and the mean TAM of injured fingers was 255.6° (Contralateral side: 268.4°, p &lt; 0.05). Mean SWM score in the flap was 3.90 g, and 3.22 g in the donor zone. Mean static 2PD discrimination in the flap was 5.61 mm and 4.33 mm in the donor zone. Mean quick Dash scores were 5.81 whereas Mean VAS score in the flap was 0.7 and 0.2 in the donor site. Vancouver scar scales at the donor and recipient sites ranged from 0 to 2. At the end of the follow-up, all patients reported good aesthetic appearance and curative effects. These results show that HDNBPIF is a promising strategy that achieves good curative effects and recovery of fingertip functions. Type of Study and Level of Evidence: Therapeutic IV.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1600084727561527296?ref_src=twsrc%5Etfw)
-
-10.1080/2000656X.2022.2152825
-
----
-
 ## December 6, 2022
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1600084727561527296?ref_src=twsrc%5Etfw)
-
----
-
-## Host-microbiota interactions play a crucial role in oyster adaptation to rising seawater temperature in summer.
- 30.11.2022, _M Liu, Q Li, L Tan, L Wang, F Wu, L Li, G Zhang_
-
-
-_Animals, Temperature, Crassostrea, Seawater, Seasons, Microbiota, Bacteria_
-Climate change, represented by rising and fluctuating temperature, induces systematic changes in marine organisms and in their bacterial symbionts. However, the role of host-microbiota interactions in the host's response to rising temperature and the underlying mechanisms are incompletely understood in marine organisms. Here, the symbiotic intestinal microbiota and transcriptional responses between diploid and triploid oysters that displayed susceptible and resistant performance under the stress of rising temperature during a summer mortality event were compared to investigate the host-microbiota interactions. The rising and fluctuating temperatures triggered an earlier onset and higher mortality in susceptible oysters (46.7%) than in resistant oysters (17.3%). Correlation analysis between microbial properties and environmental factors showed temperature was strongly correlated with indices of α-diversity and the abundance of top 10 phyla, indicating that temperature significantly shaped the intestinal microbiota of oysters. The microbiota structure of resistant oysters exhibited more rapid changes in composition and diversity compared to susceptible oysters before peak mortality, indicating that resistant oysters possessed a stronger ability to regulate their symbiotic microbiota. Meanwhile, linear discriminant analysis effect size (LefSe) analysis found that the probiotics Verrucomicrobiales and Clostridiales were highly enriched in resistant oysters, and that potential pathogens Betaproteobacteriales and Acidobacteriales were enriched in susceptible oysters. These results implied that the symbiotic microbiota played a significant role in the oysters' adaptation to rising temperature. Accompanying the decrease in unfavorable bacteria before peak mortality, genes related to phagocytosis and lysozymes were upregulated and the xenobiotics elimination pathway was exclusively expressed in resistant oysters, demonstrating the validity of these immunological functions in controlling proliferation of pathogens driven by rising temperature. Compromised immunological functions might lead to proliferation of pathogens in susceptible oysters. This study might uncover a conserved mechanism of adaptation to rising temperature in marine invertebrates from the perspective of interactions between host and symbiotic microbiota.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
-
-10.1016/j.envres.2022.114585
 
 ---
 
@@ -133,18 +96,6 @@ Although edaphic antibiotic resistance genes (ARGs) pose serious threats to huma
 
 ---
 
-## Wastewater-based surveillance in Italy leading to the first detection of mcr-10-positive Klebsiella quasipneumoniae.
- 09.12.2022, _N Formenti, F Guarneri, C Bertasio, G Parisio, C Romeo, F Scali, L Birbes, MB Boniotti, G Diegoli, L Candela, GA Romeo, P Pasquali, GL Alborali_
-
-
-Wastewater-based surveillance enabled the first detection of the mobile colistin resistance gene mcr-10 in Italy. This plasmid-borne resistance gene was found in strains of Klebsiella quasipneumoniae isolated from samples of human raw sewage collected over several months. Although the isolates were phenotypically susceptible to colistin, the emergence of mcr-10 is concerning due to the highly variable expression of the gene and the potential for horizontal transfer to other species. In addition, the strains also carried an extended-spectrum β-lactamase gene and were phenotypically resistant to several beta-lactams. This study highlights the value of wastewater-based surveillance as an effective tool to monitor the emergence of antimicrobial resistance in strains circulating in the community and the environment.
-
-[Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
-
-10.1186/s13756-022-01194-9
-
----
-
 ## #AMR
 
 [Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
@@ -169,15 +120,15 @@ Wastewater-based surveillance enabled the first detection of the mobile colistin
 
 ---
 
-## A comprehensive study of the source, occurrence, and spatio-seasonal dynamics of 12 target antibiotics and their potential risks in a cold semi-arid catchment.
- 09.12.2022, _H Ju, L Liu, X Liu, Y Wu, L Li, KY Gin, G Zhang, J Zhang_
+## A sludge bulking wastewater treatment plant with an oxidation ditch-denitrification filter in a cold region: bacterial community composition and antibiotic resistance genes.
+ 10.12.2022, _Z Liang, J Yao, H Ma, W Peng, X Xia, Y Chen_
 
 
-Antibiotics are widely consumed and are ubiquitous in aquatic ecosystems, such as in agricultural and fishery lake catchments, for prophylactic treatment. However, there are very few comprehensive studies reporting all seasonal occurrences, spatiotemporal dynamics, and risk assessments of antibiotics in agricultural lake catchments, especially in cold regions during the winter season. This study measured seasonality in the concentrations of 12 antibiotics belonging to seven different classes in the surface waters (tributary rivers and lakes) of the Chagan lake catchment in northeast China. All antibiotics were detected in most of the water samples across most seasons, with concentrations varying for different compounds, locations, and seasons. These levels were discussed in terms of the main sources at different sampling sites, including agriculture, fish farming, municipal wastewater, and others. In general, the highest concentrations of most compounds were observed during the freeze-thaw periods. The number of antibiotic resistance genes (ARGs) correlated with compound lipophilicity and half-life. Based on the ecological risks of antibiotics and the relative abundance of ARGs, a hierarchical control priority list (HCPL) of antibiotics was determined, considering four levels (critical, high, medium, and low). To further strengthen the control and effectively manage antibiotics, we highly recommend the reduction and selective use of veterinary antibiotics in winter and spring during the freeze-thaw periods in the Chagan lake catchment.
+Bacterial community structure of activated sludge directly affects the stable operation of WWTPS, and these bacterial communities may carry a variety of antibiotic resistance genes (ARGs), which is a threat to the public health. This study employed 16S rRNA gene sequencing and metagenomic sequencing to investigate the bacterial community composition and the ARGs in a sludge bulking oxidation ditch-denitrification filter WWTP in a cold region. The results showed that Trichococcus (20.34%), Blautia (7.72%), and Faecalibacterium (3.64%) were the main bacterial genera in the influent. The relative abundances of norank_f_Saprospiraceae and Candidatus_Microthrix reached 10.24% and 8.40%, respectively, in bulking sludge, and those of norank_f_Saprospiraceae and Candidatus_Microthrix decreased to 6.56 and 7.10% after the anaerobic tank, indicating that the anaerobic tank had an inhibitory effect on filamentous bacteria. After 20 mJ/cm2 UV disinfection, about 540 bacterial genera, such as Romboutsia (7.99%), Rhodoferax (7.98%), and Thermomonas (4.13%), could still be detected in the effluent. The ARGs were 345.11 ppm in the influent and 11.20 ppm in the effluent; 17 subtypes, such as sul1, msrE, aadA5, ErmF, and tet(A), could be detected throughout the entire process. These ARG subtypes were persistent ARGs with a high health risk. Network analysis indicated that the changes in filamentous bacteria norank_f_Saprospiraceae abundance mainly contributed to the abundance shift of MexB, and Acinetobacter mainly increased the abundance of drfA1. These results above will provide theoretical support for the sludge bulking and ARGs controls of WWTPs in cold regions.
 
 [Source](https://twitter.com/hashtag/ARGs?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.watres.2022.119433
+10.1007/s11356-022-24591-4
 
 ---
 
@@ -332,18 +283,6 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
-## Nitrifiers Cooperate to Produce Nitrous Oxide in Plateau Wetland Sediments.
- 02.12.2022, _D Yuan, L Zheng, YX Liu, H Cheng, A Ding, X Wang, Q Tan, X Wang, Y Xing, E Xie, H Wu, S Wang, G Zhu_
-
-
-The thawing of dormant plateau permafrost emits nitrous oxide (N2O) through wetlands; however, the N2O production mechanism in plateau wetlands is still unclear. Here, we used the 15N-18O double tracer technique and metagenomic sequencing to analyze the N2O production mechanism in the Yunnan-Kweichow and Qinghai-Tibet plateau wetlands during the summer of 2020. N2O production activity was detected in all 16 sediment samples (elevation 1020-4601 m: 2.55 ± 0.42-26.38 ± 3.25 ng N g-1 d-1) and was promoted by nitrifier denitrification (ND). The key functional genes of ND (amoA, hao, and nirK) belonged to complete ammonia oxidizing (comammox) bacteria, and the key ND species was the comammox bacterium Nitrospira nitrificans. We found that the comammox bacterial species N. nitrificans and the ammonia oxidizing bacterial (AOB) species Nitrosomonas europaea cooperate to produce N2O in the plateau wetland sediments. Furthermore, we inferred that environmental factors (elevation and total organic matter (TOM)) influence the cooperation pattern via N. nitrificans, thus affecting the N2O production activity in the plateau wetland sediments. Our findings advance the mechanistic understanding of nitrifiers in biogeochemical cycles and global climate change.
-
-[Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
-
-10.1021/acs.est.2c06234
-
----
-
 ## #comammox
 
 [Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
@@ -374,15 +313,15 @@ The phosphorus harvest along nitrogen removal in the partial nitritation/anammox
 
 ---
 
-## Impact of faecal haemoglobin-based triage of bowel symptoms presenting to primary care on colorectal cancer diagnosis.
- 10.12.2022, _D Delson, M Ward, R Haddock, J Nobes, J Digby, JA Strachan, C Mowat_
+## Number of dye marks required in virtual-assisted lung mapping.
+ 10.12.2022, _M Nagano, M Sato, M Yanagiya, K Nakao, C Konoeda, K Kitano, J Nakajima_
 
 
-Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced into Primary Care in NHS Tayside in 2015 as an adjunct to clinical assessment of new bowel symptoms. We aimed to assess the impact of FIT-based triage in primary care on colorectal cancer (CRC) diagnosis.
+Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-marking technique used in sublobar lung resection for hardly palpable lung nodules. However, the number of marks required per nodule remains unknown. Therefore, we examined the correlation between the number of intraoperative visible marks and the successful resection rate.
 
 [Source](https://twitter.com/watermicrobe/status/1600348215592644608?ref_src=twsrc%5Etfw)
 
-10.1111/codi.16451
+10.1007/s11748-022-01896-2
 
 ---
 
@@ -404,16 +343,9 @@ Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced
 
 ---
 
-## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments.
- 07.12.2022, _HJ Ruscheweyh, A Milanese, L Paoli, N Karcher, Q Clayssen, MI Keller, J Wirbel, P Bork, DR Mende, G Zeller, S Sunagawa_
-
-
-_Swine, Cattle, Animals, RNA, Ribosomal, 16S, Metagenome, Metagenomics, Microbiota, Soil_
-Taxonomic profiling is a fundamental task in microbiome research that aims to detect and quantify the relative abundance of microorganisms in biological samples. Available methods using shotgun metagenomic data generally depend on the deposition of sequenced and taxonomically annotated genomes, usually from cultures of isolated strains, in reference databases (reference genomes). However, the majority of microorganisms have not been cultured yet. Thus, a substantial fraction of microbial community members remains unaccounted for during taxonomic profiling, particularly in samples from underexplored environments. To address this issue, we developed the mOTU profiler, a tool that enables reference genome-independent species-level profiling of metagenomes. As such, it supports the identification and quantification of both "known" and "unknown" species based on a set of select marker genes.
+## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments 
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
-
-10.1186/s40168-022-01410-z
 
 ---
 
@@ -441,18 +373,6 @@ Taxonomic profiling is a fundamental task in microbiome research that aims to de
 
 ---
 
-## Pangenome and genomic taxonomy analyses of Leuconostoc gelidum and Leuconostoc gasicomitatum.
- 09.12.2022, _P Johansson, E Säde, J Hultman, P Auvinen, J Björkroth_
-
-
-Leuconostoc gelidum and Leuconostoc gasicomitatum have dual roles in foods. They may spoil cold-stored packaged foods but can also be beneficial in kimchi fermentation. The impact in food science as well as the limited number of publicly available genomes prompted us to create pangenomes and perform genomic taxonomy analyses starting from de novo sequencing of the genomes of 37 L. gelidum/L. gasicomitatum strains from our culture collection. Our aim was also to evaluate the recently proposed change in taxonomy as well as to study the genomes of strains with different lifestyles in foods.
-
-[Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
-
-10.1186/s12864-022-09032-3
-
----
-
 ## @pangenomics
 
 [Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
@@ -471,15 +391,15 @@ Leuconostoc gelidum and Leuconostoc gasicomitatum have dual roles in foods. They
 
 ---
 
-## Impact of faecal haemoglobin-based triage of bowel symptoms presenting to primary care on colorectal cancer diagnosis.
- 10.12.2022, _D Delson, M Ward, R Haddock, J Nobes, J Digby, JA Strachan, C Mowat_
+## Number of dye marks required in virtual-assisted lung mapping.
+ 10.12.2022, _M Nagano, M Sato, M Yanagiya, K Nakao, C Konoeda, K Kitano, J Nakajima_
 
 
-Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced into Primary Care in NHS Tayside in 2015 as an adjunct to clinical assessment of new bowel symptoms. We aimed to assess the impact of FIT-based triage in primary care on colorectal cancer (CRC) diagnosis.
+Virtual-assisted lung mapping is a preoperative bronchoscopic multi-spot dye-marking technique used in sublobar lung resection for hardly palpable lung nodules. However, the number of marks required per nodule remains unknown. Therefore, we examined the correlation between the number of intraoperative visible marks and the successful resection rate.
 
 [Source](https://twitter.com/SunagawaLab/status/1599757566506323968?ref_src=twsrc%5Etfw)
 
-10.1111/codi.16451
+10.1007/s11748-022-01896-2
 
 ---
 
@@ -529,18 +449,6 @@ The accurate and comprehensive analyses of genome-resolved metagenomics largely 
 ## #phdchat
 
 [Source](https://twitter.com/hashtag/phdchat?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Impact of faecal haemoglobin-based triage of bowel symptoms presenting to primary care on colorectal cancer diagnosis.
- 10.12.2022, _D Delson, M Ward, R Haddock, J Nobes, J Digby, JA Strachan, C Mowat_
-
-
-Faecal Immunochemical Testing (FIT) for faecal haemoglobin (f-Hb) was introduced into Primary Care in NHS Tayside in 2015 as an adjunct to clinical assessment of new bowel symptoms. We aimed to assess the impact of FIT-based triage in primary care on colorectal cancer (CRC) diagnosis.
-
-[Source](https://twitter.com/Prokaryota/status/1600473298365607937?ref_src=twsrc%5Etfw)
-
-10.1111/codi.16451
 
 ---
 
