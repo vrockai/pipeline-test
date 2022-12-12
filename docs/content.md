@@ -53,9 +53,10 @@ Gut microbiome (GM) composition and diversity have recently been studied as a bi
 ---
 
 ## Scientometric analysis of kidney disease and gut microbiota from 2001 to 2020 based on Web of Science.
- 09.12.2022, _R Zhang, YY Li, ZB Nie, XQ Zhang, YM Ma, YH Wang_
+ 12.12.2022, _R Zhang, YY Li, ZB Nie, XQ Zhang, YM Ma, YH Wang_
 
 
+_Humans, Gastrointestinal Microbiome, Indican, Renal Insufficiency, Chronic, Databases, Factual, France_
 This study aims to demonstrate current research priorities and predict future trends in the link between kidney disease and gut microbiota by means of scientometric analysis. We collected nearly 20 years (2001-2020) of publications related to kidney disease and gut microbiota in the Web of Science database. CiteSpace was used to evaluate the knowledge mapping. There are 965 manuscripts about kidney disease and gut microbiota in total, and faster growth after 2016. The country, institution, and author who posted the most are the USA, Univ Calif Irvine, and DENISE MAFRA, respectively. The frequencies are 109, 16, and 17. The most important of them are FRANCE (0.23), Fed Univ Parana UFPR (0.13), and VAZIRI ND (1.14), owing to their highest centrality. In addition, the cited documents that have contributed the most to the co-citations are Wong J (2014); the most key cited reference is Rossi M (2016); the most commonly used keywords are chronic kidney disease, gut microbiota and indoxyl sulfate. Through scientometric analysis of the past 20 years, we obtained the knowledge map of this information, which has important guiding significance for accurately and quickly locating trends in this field.
 
 [Source](https://doi.org/10.1097/MD.0000000000032081)
@@ -77,7 +78,7 @@ Hepatic macrophages have been recognized as primary sensors and responders in li
 ---
 
 ## Dental calculus - oral health, forensic studies and archaeology: a review.
- 09.12.2022, _R Forshaw_
+ 12.12.2022, _R Forshaw_
 
 
 Dental calculus is recognised as a secondary aetiological factor in periodontal disease, and being a prominent plaque retentive factor, it is routinely removed by the dental team to maintain oral health. Conversely, dental calculus can potentially be useful in forensic studies by supplying data that may be helpful in the identification of human remains and assist in determining the cause of death. During the last few decades, dental calculus has been increasingly recognised as an informative tool to understand ancient diet and health. As an archaeological deposit, it may contain non-dietary debris which permits the exploration of human behaviour and activities. While optical and scanning electron microscopy were the original analytical methods utilised to study microparticles entrapped within the calcified matrix, more recently, molecular approaches, including ancient DNA (aDNA) and protein analyses, have been applied. Oral bacteria, a major component of calculus, is the primary target of these aDNA studies. Such analyses can detect changes in the oral microbiota, including those that have reflected the shift from agriculture to industrialisation, as well as identifying markers for various systemic diseases.
@@ -100,9 +101,15 @@ Dental calculus is recognised as a secondary aetiological factor in periodontal 
 
 ---
 
-## Dark-purple rice extract modulates gut microbiota composition in acetic acid- and indomethacin-induced inflammatory bowel disease in rats
+## Dark-purple rice extract modulates gut microbiota composition in acetic acid- and indomethacin-induced inflammatory bowel disease in rats.
+ 09.12.2022, _K Thipart, L Gruneck, K Phunikhom, TJ Sharpton, J Sattayasai, S Popluechai_
+
+
+Ulcerative colitis (UC) and Crohn's disease (CD) are two major forms of inflammatory bowel disease (IBD). The disease has been linked with gut microbiota dysbiosis in which the balance of commensal communities is disrupted. Accumulating evidence demonstrates that treatment with biologically active compounds can modulate gut microbiota composition in animal models. Our previous work has also shown the beneficial effect of Luem Pua (LP) rice extract, which is rich in anthocyanins, on inflammation. However, its effect on gut microbiota is yet to be explored. In this study, we profiled fecal microbiota of acetic acid (AA)-induced UC and indomethacin (ID)-induced CD rat models with and without pretreatment with LP rice extract by 16S rRNA gene sequencing. The results showed that gut microbiota communities of rats were altered by both AA-induced UC and ID-induced CD. The relative abundances of beneficial bacteria, especially the Lachnospiraceae NK4A136 group and Lactobacillus, were decreased in the AA-induced UC model, while some opportunistic pathogens (Bacteroides, Escherichia/Shigella, Fusobacterium, and Veillonella) were raised by ID-induced CD. Interestingly, pretreatment with LP rice extract before AA-inducing UC in rats increased the proportion of the butyrate-producing bacteria (Lachnospiraceae NK4A136 group). The abundances of these beneficial bacteria and other SCFA-producing bacteria were unaffected by the indomethacin treatment with LP. Overall, our study revealed different impacts of AA-induced UC and ID-induced CD on changes in community composition and hinted at how LP may protect against UC by modifying the gut microbiota.
 
 [Source](https://doi.org/10.1007/s10123-022-00309-x)
+
+10.1007/s10123-022-00309-x
 
 ---
 
@@ -112,9 +119,15 @@ Dental calculus is recognised as a secondary aetiological factor in periodontal 
 
 ---
 
-## Rapid separation of bacteria from primary nasal samples using inertial microfluidics
+## Rapid separation of bacteria from primary nasal samples using inertial microfluidics.
+ 09.12.2022, _J Shrestha, S Razavi Bazaz, L Ding, S Vasilescu, S Idrees, B Söderström, PM Hansbro, M Ghadiri, M Ebrahimi Warkiani_
+
+
+Microbial populations play a crucial role in human health and the development of many diseases. These diseases often arise from the explosive proliferation of opportunistic bacteria, such as those in the nasal cavity. Recently, there have been increases in the prevalence of these opportunistic pathogens displaying antibiotic resistance. Thus, the study of the nasal microbiota and its bacterial diversity is critical in understanding pathogenesis and developing microbial-based therapies for well-known and emerging diseases. However, the isolation and analysis of these populations for clinical study complicates the already challenging task of identifying and profiling potentially harmful bacteria. Existing methods are limited by low sample throughput, expensive labeling, and low recovery of bacteria with ineffective removal of cells and debris. In this study, we propose a novel microfluidic channel with a zigzag configuration for enhanced isolation and detection of bacteria from human clinical nasal swabs. This microfluidic zigzag channel separates the bacteria from epithelial cells and debris by size differential focusing. As such, pure bacterial cell fractions devoid of large contaminating debris or epithelial cells are obtained. DNA sequencing performed on the separated bacteria defines the diversity and species present. This novel method of bacterial separation is simple, robust, rapid, and cost-effective and has the potential to be used for the rapid identification of bacterial cell populations from clinical samples.
 
 [Source](https://doi.org/10.1039/d2lc00794k)
+
+10.1039/d2lc00794k
 
 ---
 
