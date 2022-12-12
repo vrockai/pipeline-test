@@ -65,35 +65,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Host-microbiota interactions play a crucial role in oyster adaptation to rising seawater temperature in summer.
- 30.11.2022, _M Liu, Q Li, L Tan, L Wang, F Wu, L Li, G Zhang_
-
-
-_Animals, Temperature, Crassostrea, Seawater, Seasons, Microbiota, Bacteria_
-Climate change, represented by rising and fluctuating temperature, induces systematic changes in marine organisms and in their bacterial symbionts. However, the role of host-microbiota interactions in the host's response to rising temperature and the underlying mechanisms are incompletely understood in marine organisms. Here, the symbiotic intestinal microbiota and transcriptional responses between diploid and triploid oysters that displayed susceptible and resistant performance under the stress of rising temperature during a summer mortality event were compared to investigate the host-microbiota interactions. The rising and fluctuating temperatures triggered an earlier onset and higher mortality in susceptible oysters (46.7%) than in resistant oysters (17.3%). Correlation analysis between microbial properties and environmental factors showed temperature was strongly correlated with indices of α-diversity and the abundance of top 10 phyla, indicating that temperature significantly shaped the intestinal microbiota of oysters. The microbiota structure of resistant oysters exhibited more rapid changes in composition and diversity compared to susceptible oysters before peak mortality, indicating that resistant oysters possessed a stronger ability to regulate their symbiotic microbiota. Meanwhile, linear discriminant analysis effect size (LefSe) analysis found that the probiotics Verrucomicrobiales and Clostridiales were highly enriched in resistant oysters, and that potential pathogens Betaproteobacteriales and Acidobacteriales were enriched in susceptible oysters. These results implied that the symbiotic microbiota played a significant role in the oysters' adaptation to rising temperature. Accompanying the decrease in unfavorable bacteria before peak mortality, genes related to phagocytosis and lysozymes were upregulated and the xenobiotics elimination pathway was exclusively expressed in resistant oysters, demonstrating the validity of these immunological functions in controlling proliferation of pathogens driven by rising temperature. Compromised immunological functions might lead to proliferation of pathogens in susceptible oysters. This study might uncover a conserved mechanism of adaptation to rising temperature in marine invertebrates from the perspective of interactions between host and symbiotic microbiota.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
-
-10.1016/j.envres.2022.114585
-
----
-
 ## Experimental temperatures shape host microbiome diversity and composition
 
 [Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
 
 ---
 
-## Global biogeography and projection of soil antibiotic resistance genes.
- 02.12.2022, _D Zheng, G Yin, M Liu, L Hou, Y Yang, TP Van Boeckel, Y Zheng, Y Li_
-
-
-_Humans, Soil, Anti-Bacterial Agents, Soil Microbiology, Genes, Bacterial, Drug Resistance, Microbial_
-Although edaphic antibiotic resistance genes (ARGs) pose serious threats to human well-being, their spatially explicit patterns and responses to environmental constraints at the global scale are not well understood. This knowledge gap is hindering the global action plan on antibiotic resistance launched by the World Health Organization. Here, a global analysis of 1088 soil metagenomic samples detected 558 ARGs in soils, where ARG abundance in agricultural habitats was higher than that in nonagricultural habitats. Soil ARGs were mostly carried by clinical pathogens and gut microbes that mediated the control of climatic and anthropogenic factors to ARGs. We generated a global map of soil ARG abundance, where the identified microbial hosts, agricultural activities, and anthropogenic factors explained ARG hot spots in India, East Asia, Western Europe, and the United States. Our results highlight health threats from soil clinical pathogens carrying ARGs and determine regions prioritized to control soil antibiotic resistance worldwide.
+## Global biogeography and projection of soil antibiotic resistance genes
 
 [Source](https://www.science.org/doi/10.1126/sciadv.abq8015)
-
-10.1126/sciadv.abq8015
 
 ---
 
@@ -115,33 +95,9 @@ Although edaphic antibiotic resistance genes (ARGs) pose serious threats to huma
 
 ---
 
-## Polypropylene Pipe Compounds with Varying Post-Consumer Packaging Recyclate Content.
- 11.12.2022, _PJ Freudenthaler, J Fischer, Y Liu, RW Lang_
-
-
-The high recycling targets set by the European Commission will create an increased availability of polypropylene (PP) post-consumer recyclates (PCRs). However, no regulations mandate the use of recycled PP (rPP), so the industry is challenged to explore possibilities to utilize such materials. One option, as suggested by the European Commission, is the introduction of rPP in pipe applications. According to existing standards, the use of recyclate is not allowed in pressurized gas and drinking water systems. However, many other pipe and underground applications, such as stormwater systems, open the increased use of PCRs. Additionally, even for less-demanding applications, such as non-pressure sewage systems, highly durable solutions are needed to cover the requested lifetime and request an ambitious property profile to fulfill the application needs that cannot be met by PP packaging materials and even less by PCRs thereof. Hence, this work explores the possible use of commercially available PCRs out of polypropylene from packaging applications in compounds together with virgin PP pipe grades to meet the demands for less-demanding applications. Two different commercially available rPPs and one commercially available recycled polyolefin (rPO) from mixed polyethylene and PP waste were acquired and, together with two predefined virgin PP pipe grades, were blended to compounds in the range of 10 m%, 20 m%, and 30 m% recyclate content. The compounds and three virgin PP pipe grades, acting as benchmarks, were tested in terms of short- and long-term mechanical performance as well as for many other physical properties. All of the compounds showed good results regarding fatigue crack (FCG) resistance with virgin polymer as the reference. The factors influencing FCG resistance, such as melt flow rate and polyolefin cross-contamination, were thoroughly investigated as the used virgin grades and recyclates cover a broad range of these properties.
-
-[Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/polym14235232
-
----
-
 ## #sewage
 
 [Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Effects of Oxytetracycline/Lead Pollution Alone and in the Combined Form on Antibiotic Resistance Genes, Mobile Genetic Elements, and Microbial Communities in the Soil.
- 11.12.2022, _T Guo, Z Li, Y Shao, Y Fu, W Zhang, Y Shao, Y Zhu_
-
-
-The application of livestock manure is the leading cause of antibiotic and heavy metal pollution in agricultural soil. However, the effects of oxytetracycline (OTC) and lead (Pb) pollution in the single or combined form on antibiotic resistance genes (ARGs) in the soil need to be further studied. This study was planned to investigate the effects of OTC and Pb application on ARGs, mobile genetic elements (MGEs), and bacterial abundance in the soil. The relative abundance of ARGs and MGEs increased by 0.31-fold and 0.03-fold after the addition of 80 mg kg-1 Pb to the soil, and by 0.49-fold and 0.03-fold after the addition of 160 mg kg-1 Pb. In addition, under the premise of the existence of OTC, the inhibitory effect of a low concentration of Pb on ARG is stronger than that of a high concentration of Pb, resulting in a lower abundance of ARGs. The abundance of ARGs and MGEs increased by 0.11-fold and 0.17-fold after the addition of OTC (30 mg kg-1) to the soil at a Pb concentration of 80 mg kg-1 and by 0.18-fold and 0.04-fold at a Pb concentration of 160 mg kg-1. The addition of OTC and Pb in the soil also decreased the many bacterial communities such as Bacteroidetes, Proteobacteria, Acidobacteria, and Firmicutes. Redundancy analysis (RDA) showed that organic matter content and pH were positively correlated with the abundance of ARGs and MGEs. At the same time, electrical conductivity (EC) had a negative correlation with the abundance of ARGs and MGEs in the soil. Intl1 was significantly associated with tetB, sul1, tetQ, sul2, and sul3. Network analysis illustrated that Actinobacteria, Bacteroidetes, and Proteobacteria were the main host bacteria causing changes in the abundance of ARGs and MGEs, and they were also predominant phylum in the culture environment. This conclusion can provide a reference for the related research of ARGs in soil.
-
-[Source](https://twitter.com/hashtag/ARGs?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph192315619
 
 ---
 
@@ -187,15 +143,9 @@ The application of livestock manure is the leading cause of antibiotic and heavy
 
 ---
 
-## Effects of dog ownership on the gut microbiota of elderly owners.
- 08.12.2022, _C Jiang, Z Cui, P Fan, G Du_
-
-
-Dog owners are usually in close contact with dogs. Whether dogs can affect the gut microbiota of elderly dog owners is worth studying. Data from 54 elderly (over 65 years of age) dog owners were screened from the American Gut Project. Owning a dog did not affect the α-diversity of the gut microbiota of the dog owner. Dog ownership significantly modulated the composition of the gut microbiota of the dog owner. The abundance of Actinobacteria was significantly increased. The abundances of Bifidobacteriaceae and Ruminococcaceae were significantly increased, while the abundance of Moracellaceae was significantly suppressed. In general, dog ownership can regulate the composition of gut microbiota and has a more significant effect on elderly males.
+## Effects of dog ownership on the gut microbiota of elderly owners 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278105)
-
-10.1371/journal.pone.0278105
 
 ---
 
@@ -205,27 +155,9 @@ Dog owners are usually in close contact with dogs. Whether dogs can affect the g
 
 ---
 
-## Gut microbiome-wide association study of depressive symptoms.
- 06.12.2022, _D Radjabzadeh, JA Bosch, AG Uitterlinden, AH Zwinderman, MA Ikram, JBJ van Meurs, AI Luik, M Nieuwdorp, A Lok, CM van Duijn, R Kraaij, N Amin_
-
-
-Depression is one of the most poorly understood diseases due to its elusive pathogenesis. There is an urgency to identify molecular and biological mechanisms underlying depression and the gut microbiome is a novel area of interest. Here we investigate the relation of fecal microbiome diversity and composition with depressive symptoms in 1,054 participants from the Rotterdam Study cohort and validate these findings in the Amsterdam HELIUS cohort in 1,539 subjects. We identify association of thirteen microbial taxa, including genera Eggerthella, Subdoligranulum, Coprococcus, Sellimonas, Lachnoclostridium, Hungatella, Ruminococcaceae (UCG002, UCG003 and UCG005), LachnospiraceaeUCG001, Eubacterium ventriosum and Ruminococcusgauvreauiigroup, and family Ruminococcaceae with depressive symptoms. These bacteria are known to be involved in the synthesis of glutamate, butyrate, serotonin and gamma amino butyric acid (GABA), which are key neurotransmitters for depression. Our study suggests that the gut microbiome composition may play a key role in depression.
+## Gut microbiome-wide association study of depressive symptoms
 
 [Source](https://www.nature.com/articles/s41467-022-34502-3)
-
-10.1038/s41467-022-34502-3
-
----
-
-## Gut Microbiome and Its Impact on Obesity and Obesity-Related Disorders.
- 05.12.2022, _S Sankararaman, K Noriega, S Velayuthan, T Sferra, R Martindale_
-
-
-The prevalence of overweight and obesity has been increasing worldwide at an alarming rate. Gut microbiota intimately influence host energy metabolism, and immune response. Studies indicate a prominent role of gut dysbiosis in propagating inflammation that is associated with the development of obesity and obesity-related disorders such as type 2 diabetes mellitus, metabolic syndrome, and non-alcoholic fatty liver disease. This article will review the current literature on gut microbiome and its impact on obesity and obesity-related disorders.
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.12.02.518833v1)
-
-10.1007/s11894-022-00859-0
 
 ---
 
@@ -302,18 +234,6 @@ Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV)
 
 ---
 
-## Potential causes of partial-denitrification (PD) granular sludge breakdown under high nitrate loading rates.
- 10.12.2022, _R Du, Q Liu, Y Peng, S Cao_
-
-
-The granule instability has been frequently reported during the operation of high loading rates. While, there no research was performed on the recently developed anoxic partial-denitrification (PD) granules, a novel pathway in producing nitrite from nitrate for anammox process. Herein, this work, for the first time, investigated the influence of nitrate loading rates on the instability of PD granules and identified the key causes. Two lab-scale sequencing batch reactors (SBRs) were operated with nitrate loading rates (NLR) increased from 0.48 to 3.84 kg N/m3/d (R1, 8 cycles/d), and 0.96 to 7.68 kg N/m3/d (R2, 16 cycles/d) by gradually elevating the influent nitrate concentration. Results showed that nitrite production rates increased with the NLRs, with a maximal value of 5.26 kg N/m3/d obtained. However, the compact regular PD granules were not stable and broke down when NLR was above 3.84 kg N/m3/d, which resulted in serious sludge washing out from SBR. The high NLRs led to the extracellular polymeric substances (EPS) transformation in terms of its composition and structure, which the protein content in the EPS and the tightly bound EPS (T-EPS) fraction was significantly decreased, this was supposed to be the major reason causing the breakdown of PD granules. Besides, it was found the PD granule in R2 was more deteriorated than that in R1 under the same high NLR, suggesting the short starvation (idle) times in SBR cycle was likely another reason impairing the stability of PD granules. Overall, this research provides useful information in development of granule-based PD systems and sheds light on achieving high-rate nitrite production in SBR with great stability.
-
-[Source](https://twitter.com/hashtag/anammox?src=hash&ref_src=twsrc%5Etfw)
-
-10.1016/j.scitotenv.2022.160749
-
----
-
 ## #anammox
 
 [Source](https://twitter.com/hashtag/anammox?src=hash&ref_src=twsrc%5Etfw)
@@ -323,18 +243,6 @@ The granule instability has been frequently reported during the operation of hig
 ## https://t.co/5NAFuhpLcU
 
 [Source](https://t.co/5NAFuhpLcU)
-
----
-
-## Study on Flavonoids and Bioactivity Features of Pericarp of Citrus reticulata "Chachi" at Different Harvest Periods.
- 11.12.2022, _S Liang, J Zhang, Y Liu, Z Wen, X Liu, F Dang, T Xie, J Wang, Z Wang, H Wu_
-
-
-Dry mature pericarp of Citrus reticulata "Chachi" (PCR), Pericarpium Citri Reticulatae Chachiensis, is a traditional Chinese medicine that displays characteristics of different usage at different harvest times in clinical use. The corresponding changes in the bioactive components in PCR from different harvest times remain unclear. Therefore, in this study, broadly targeted metabolomics technology was used to compare the differences in bioactive components among pericarps of PCR, which are the raw material of PCR at different growth stages. In the results, 210 kinds of flavonoid metabolites were detected. The content of hesperidin in red PCR harvested in December was higher than that in Citri Reticulatae Pericarpium Viride (CRPV) and reddish PCR harvested from July to November. Furthermore, the content of nobiletin, tangeretin, and 3,3',4',5,6,7,8-heptamethoxyflavone in CRPV from July to September was higher than that in the PCR harvested at other times. In addition, the result of cluster analysis and PCA showed that CRPV harvested from July to September had an obvious grouping pattern with the reddish PCR and the red PCR harvested from October to December. Differential metabolites in six comparison groups (A1 vs. A6, A1 vs. A2, A2 vs. A3, A3 vs. A4, A4 vs. A5, A5 vs. A6) were 67, 48, 14, 51, 42, and 40, respectively. The common differential metabolite of four comparison groups was 3',4',7-trihydroxyflavone (A1 vs. A2, A2 vs. A3, A3 vs. A4, A4 vs. A5). All the flavonoid differential metabolites screened were enriched in 16 metabolic pathways. Moreover, the results of the evaluation of the total antioxidant capacity indicated that CRPV in August was a suitable raw material for the production of antioxidants. Through molecular docking, the content of potential anti-SARS-CoV-2 components in the PCR in October was higher than that in the PCR in other periods. These results further proved that PCR at different harvest times was endowed with different efficacy and usage due to the difference in the accumulation of bioactive components.
-
-[Source](https://twitter.com/watermicrobe/status/1600348215592644608?ref_src=twsrc%5Etfw)
-
-10.3390/plants11233390
 
 ---
 
