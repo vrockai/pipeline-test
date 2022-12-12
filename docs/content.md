@@ -100,15 +100,9 @@ Dental calculus is recognised as a secondary aetiological factor in periodontal 
 
 ---
 
-## Dark-purple rice extract modulates gut microbiota composition in acetic acid- and indomethacin-induced inflammatory bowel disease in rats.
- 09.12.2022, _K Thipart, L Gruneck, K Phunikhom, TJ Sharpton, J Sattayasai, S Popluechai_
-
-
-Ulcerative colitis (UC) and Crohn's disease (CD) are two major forms of inflammatory bowel disease (IBD). The disease has been linked with gut microbiota dysbiosis in which the balance of commensal communities is disrupted. Accumulating evidence demonstrates that treatment with biologically active compounds can modulate gut microbiota composition in animal models. Our previous work has also shown the beneficial effect of Luem Pua (LP) rice extract, which is rich in anthocyanins, on inflammation. However, its effect on gut microbiota is yet to be explored. In this study, we profiled fecal microbiota of acetic acid (AA)-induced UC and indomethacin (ID)-induced CD rat models with and without pretreatment with LP rice extract by 16S rRNA gene sequencing. The results showed that gut microbiota communities of rats were altered by both AA-induced UC and ID-induced CD. The relative abundances of beneficial bacteria, especially the Lachnospiraceae NK4A136 group and Lactobacillus, were decreased in the AA-induced UC model, while some opportunistic pathogens (Bacteroides, Escherichia/Shigella, Fusobacterium, and Veillonella) were raised by ID-induced CD. Interestingly, pretreatment with LP rice extract before AA-inducing UC in rats increased the proportion of the butyrate-producing bacteria (Lachnospiraceae NK4A136 group). The abundances of these beneficial bacteria and other SCFA-producing bacteria were unaffected by the indomethacin treatment with LP. Overall, our study revealed different impacts of AA-induced UC and ID-induced CD on changes in community composition and hinted at how LP may protect against UC by modifying the gut microbiota.
+## Dark-purple rice extract modulates gut microbiota composition in acetic acid- and indomethacin-induced inflammatory bowel disease in rats
 
 [Source](https://doi.org/10.1007/s10123-022-00309-x)
-
-10.1007/s10123-022-00309-x
 
 ---
 
@@ -118,15 +112,9 @@ Ulcerative colitis (UC) and Crohn's disease (CD) are two major forms of inflamma
 
 ---
 
-## Rapid separation of bacteria from primary nasal samples using inertial microfluidics.
- 09.12.2022, _J Shrestha, S Razavi Bazaz, L Ding, S Vasilescu, S Idrees, B Söderström, PM Hansbro, M Ghadiri, M Ebrahimi Warkiani_
-
-
-Microbial populations play a crucial role in human health and the development of many diseases. These diseases often arise from the explosive proliferation of opportunistic bacteria, such as those in the nasal cavity. Recently, there have been increases in the prevalence of these opportunistic pathogens displaying antibiotic resistance. Thus, the study of the nasal microbiota and its bacterial diversity is critical in understanding pathogenesis and developing microbial-based therapies for well-known and emerging diseases. However, the isolation and analysis of these populations for clinical study complicates the already challenging task of identifying and profiling potentially harmful bacteria. Existing methods are limited by low sample throughput, expensive labeling, and low recovery of bacteria with ineffective removal of cells and debris. In this study, we propose a novel microfluidic channel with a zigzag configuration for enhanced isolation and detection of bacteria from human clinical nasal swabs. This microfluidic zigzag channel separates the bacteria from epithelial cells and debris by size differential focusing. As such, pure bacterial cell fractions devoid of large contaminating debris or epithelial cells are obtained. DNA sequencing performed on the separated bacteria defines the diversity and species present. This novel method of bacterial separation is simple, robust, rapid, and cost-effective and has the potential to be used for the rapid identification of bacterial cell populations from clinical samples.
+## Rapid separation of bacteria from primary nasal samples using inertial microfluidics
 
 [Source](https://doi.org/10.1039/d2lc00794k)
-
-10.1039/d2lc00794k
 
 ---
 
