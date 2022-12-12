@@ -1,362 +1,132 @@
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+## Dental calculus microbiome correlates with dietary intake.
+ 11.12.2022, _G Innocenti, ME Martino, E Stellini, AD Fiore, A Quagliariello_
 
 
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+Dental calculus is the result of dental plaque mineralization, originating by tooth associated bacterial biofilm. Recent evidence revealed that the dental calculus microbiome has a more complex composition than previously considered, including an unstructured mix of both aerobes and anaerobes bacteria. Actually, we lack information about the influence of host lifestyle factors, such as diet and health on this highly biodiverse ecosystem. Here, we provide a pilot study investigating dental calculus microbial biodiversity and its relation with host diet.
 
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1111/omi.12404)
 
-10.3390/ijerph19010099
-
----
-
-## #MVIF
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+10.1111/omi.12404
 
 ---
 
-## @AmyDWillis
+## <em>Ruminococcus gnavus</em> plays a pathogenic role in diarrhea-predominant irritable bowel syndrome by increasing serotonin biosynthesis
 
-[Source](https://twitter.com/AmyDWillis?ref_src=twsrc%5Etfw)
-
----
-
-## @clannabel7
-
-[Source](https://twitter.com/clannabel7?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1016/j.chom.2022.11.006)
 
 ---
 
-## @bahti_yil
+## The gut microbiome and child mental health: a population-based study.
+ 09.12.2022, _R Kraaij, IK Schuurmans, D Radjabzadeh, H Tiemeier, TG Dinan, AG Uitterlinden, M Hillegers, VWV Jaddoe, L Duijts, H Moll, F Rivadeneira, C Medina-Gomez, PW Jansen, CAM Cecil_
 
-[Source](https://twitter.com/bahti_yil?ref_src=twsrc%5Etfw)
 
----
+The link between the gut microbiome and the brain has gained increasing scientific and public interest for its potential to explain psychiatric risk. While differences in gut microbiome composition have been associated with several mental health problems, evidence to date has been largely based on animal models and human studies with modest sample sizes. In this cross-sectional study in 1,784 ten-year-old children from the multi-ethnic, population-based Generation R Study, we aimed to characterize associations of the gut microbiome with child mental health problems. Gut microbiome was assessed from stool samples using 16S rRNA sequencing. We focused on overall psychiatric symptoms as well as with specific domains of emotional and behavioral problems, assessed via the maternally rated Child Behavior Checklist. While we observed lower gut microbiome diversity in relation to higher overall and specific mental health problems, associations were not significant. Likewise, we did not identify any taxonomic feature associated with mental health problems after multiple testing correction, although suggestive findings indicated depletion of genera previously associated with psychiatric disorders, including Hungatella, Anaerotruncus and Oscillospiraceae. The identified compositional abundance differences were found to be similar across all mental health problems. Finally, we did not find significant enrichment for specific microbial functions in relation to mental health problems. In conclusion, based on the largest sample examined to date, we do not find clear evidence of associations between gut microbiome diversity, taxonomies or functions and mental health problems in the general pediatric population. In future, the use of longitudinal designs with repeated measurements of microbiome and psychiatric outcomes will be critical to identify whether and when associations between the gut microbiome and mental health emerge across development and into adulthood.
 
-## @LabAllaband
+[Source](https://doi.org/10.1016/j.bbi.2022.12.006)
 
-[Source](https://twitter.com/LabAllaband?ref_src=twsrc%5Etfw)
-
----
-
-## @v_heidrich
-
-[Source](https://twitter.com/v_heidrich?ref_src=twsrc%5Etfw)
+10.1016/j.bbi.2022.12.006
 
 ---
 
-## https://t.co/Qf7MuAWEyF
+## Gut microbiota profile of COVID-19 patients: Prognosis and risk stratification (MicroCOVID-19 study).
+ 10.12.2022, _JG Nobre, M Delgadinho, C Silva, J Mendes, V Mateus, E Ribeiro, DA Costa, M Lopes, AI Pedroso, F Trigueiros, MI Rodrigues, CL de Sousa, M Brito_
 
-[Source](https://t.co/Qf7MuAWEyF)
 
----
+Gut microbiota is intrinsically associated with the immune system and can promote or suppress infectious diseases, especially viral infections. This study aims to characterize and compare the microbiota profile of infected patients with SARS-CoV-2 (milder or severe symptoms), non-infected people, and recovered patients. This is a national, transversal, observational, multicenter, and case-control study that analyzed the microbiota of COVID-19 patients with mild or severe symptoms at home, at the hospital, or in the intensive care unit, patients already recovered, and healthy volunteers cohabiting with COVID-19 patients. DNA was isolated from stool samples and sequenced in a NGS platform. A demographic questionnaire was also applied. Statistical analysis was performed in SPSS.
 
-## pic.twitter.com/Frm2FPjqEd
+[Source](https://doi.org/10.3389/fmicb.2022.1035422)
 
-[Source](https://t.co/Frm2FPjqEd)
-
----
-
-## December 6, 2022
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1600084727561527296?ref_src=twsrc%5Etfw)
+10.3389/fmicb.2022.1035422
 
 ---
 
-## Experimental temperatures shape host microbiome diversity and composition
+## Gut microbiota diversity and composition in predicting immunotherapy response and immunotherapy-related colitis in melanoma patients: A systematic review.
+ 10.12.2022, _O Oey, YY Liu, AF Sunjaya, DM Simadibrata, MA Khattak, E Gray_
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16429)
 
----
+Gut microbiome (GM) composition and diversity have recently been studied as a biomarker of response to immune checkpoint blockade therapy (ICB) and of ICB-related colitis.
 
-## Global biogeography and projection of soil antibiotic resistance genes
+[Source](https://doi.org/10.5306/wjco.v13.i11.929)
 
-[Source](https://www.science.org/doi/10.1126/sciadv.abq8015)
-
----
-
-## Genomic analysis of sewage from 101 countries reveals global landscape of antimicrobial resistance
-
-[Source](https://www.nature.com/articles/s41467-022-34312-7)
+10.5306/wjco.v13.i11.929
 
 ---
 
-## #globalsewage
+## Scientometric analysis of kidney disease and gut microbiota from 2001 to 2020 based on Web of Science.
+ 09.12.2022, _R Zhang, YY Li, ZB Nie, XQ Zhang, YM Ma, YH Wang_
 
-[Source](https://twitter.com/hashtag/globalsewage?src=hash&ref_src=twsrc%5Etfw)
 
----
+This study aims to demonstrate current research priorities and predict future trends in the link between kidney disease and gut microbiota by means of scientometric analysis. We collected nearly 20 years (2001-2020) of publications related to kidney disease and gut microbiota in the Web of Science database. CiteSpace was used to evaluate the knowledge mapping. There are 965 manuscripts about kidney disease and gut microbiota in total, and faster growth after 2016. The country, institution, and author who posted the most are the USA, Univ Calif Irvine, and DENISE MAFRA, respectively. The frequencies are 109, 16, and 17. The most important of them are FRANCE (0.23), Fed Univ Parana UFPR (0.13), and VAZIRI ND (1.14), owing to their highest centrality. In addition, the cited documents that have contributed the most to the co-citations are Wong J (2014); the most key cited reference is Rossi M (2016); the most commonly used keywords are chronic kidney disease, gut microbiota and indoxyl sulfate. Through scientometric analysis of the past 20 years, we obtained the knowledge map of this information, which has important guiding significance for accurately and quickly locating trends in this field.
 
-## #AMR
+[Source](https://doi.org/10.1097/MD.0000000000032081)
 
-[Source](https://twitter.com/hashtag/AMR?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #sewage
-
-[Source](https://twitter.com/hashtag/sewage?src=hash&ref_src=twsrc%5Etfw)
+10.1097/MD.0000000000032081
 
 ---
 
-## #ARGs
+## Crosstalk between liver macrophages and gut microbiota: An important component of inflammation-associated liver diseases.
+ 10.12.2022, _Z Zhou, X Pan, L Li_
 
-[Source](https://twitter.com/hashtag/ARGs?src=hash&ref_src=twsrc%5Etfw)
 
----
+Hepatic macrophages have been recognized as primary sensors and responders in liver inflammation. By processing host or exogenous biochemical signals, including microbial components and metabolites, through the gut-liver axis, hepatic macrophages can both trigger or regulate inflammatory responses. Crosstalk between hepatic macrophages and gut microbiota is an important component of liver inflammation and related liver diseases, such as acute liver injury (ALI), alcoholic liver disease (ALD), and nonalcoholic fatty liver disease (NAFLD). This review summarizes recent advances in knowledge related to the crosstalk between hepatic macrophages and gut microbiota, including the therapeutic potential of targeting hepatic macrophages as a component of gut microecology in inflammation-associated liver diseases.
 
-## @novonordiskfond
+[Source](https://doi.org/10.3389/fcell.2022.1070208)
 
-[Source](https://twitter.com/novonordiskfond?ref_src=twsrc%5Etfw)
-
----
-
-## @EuropeVeo
-
-[Source](https://twitter.com/EuropeVeo?ref_src=twsrc%5Etfw)
+10.3389/fcell.2022.1070208
 
 ---
 
-## https://t.co/rQLoADLEEv
+## Dental calculus - oral health, forensic studies and archaeology: a review.
+ 09.12.2022, _R Forshaw_
 
-[Source](https://t.co/rQLoADLEEv)
 
----
+Dental calculus is recognised as a secondary aetiological factor in periodontal disease, and being a prominent plaque retentive factor, it is routinely removed by the dental team to maintain oral health. Conversely, dental calculus can potentially be useful in forensic studies by supplying data that may be helpful in the identification of human remains and assist in determining the cause of death. During the last few decades, dental calculus has been increasingly recognised as an informative tool to understand ancient diet and health. As an archaeological deposit, it may contain non-dietary debris which permits the exploration of human behaviour and activities. While optical and scanning electron microscopy were the original analytical methods utilised to study microparticles entrapped within the calcified matrix, more recently, molecular approaches, including ancient DNA (aDNA) and protein analyses, have been applied. Oral bacteria, a major component of calculus, is the primary target of these aDNA studies. Such analyses can detect changes in the oral microbiota, including those that have reflected the shift from agriculture to industrialisation, as well as identifying markers for various systemic diseases.
 
-## pic.twitter.com/TZ1oeja7qS
+[Source](https://doi.org/10.1038/s41415-022-5266-7)
 
-[Source](https://t.co/TZ1oeja7qS)
-
----
-
-## December 1, 2022
-
-[Source](https://twitter.com/pat_munk/status/1598353862447943690?ref_src=twsrc%5Etfw)
+10.1038/s41415-022-5266-7
 
 ---
 
-## No evidence for a common blood microbiome based on a population study of 9,770 healthy humans
+## Inputs don’t equal outputs: Bacterial microbiomes of the ingesta, gut, and feces of the keystone deposit feeder <em>Ilyanassa obsoleta</em>
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.07.29.502098v2)
-
----
-
-## Effects of dog ownership on the gut microbiota of elderly owners 
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278105)
+[Source](https://doi.org/10.1093/femsec/fiac152)
 
 ---
 
-## Prokaryotic and viral genomes recovered from 787 Japanese gut metagenomes revealed microbial features linked to diets, populations, and diseases
+## Urinary neopterin reflects immunological variation associated with age, helminth parasitism, and the microbiome in a wild primate
 
-[Source](https://www.cell.com/cell-genomics/fulltext/S2666-979X(22)00172-0)
-
----
-
-## Gut microbiome-wide association study of depressive symptoms
-
-[Source](https://www.nature.com/articles/s41467-022-34502-3)
+[Source](https://doi.org/10.1038/s41598-022-25298-9)
 
 ---
 
-## Development of non-alcoholic steatohepatitis is associated with gut microbiota but not oxysterol synthesis
-
-[Source](https://www.biorxiv.org/content/10.1101/2022.12.02.518833v1)
-
----
-
-## The microbiome's fiber degradation profile and its relationship with the host diet.
- 07.12.2022, _Y Cohen, E Borenstein_
+## Dark-purple rice extract modulates gut microbiota composition in acetic acid- and indomethacin-induced inflammatory bowel disease in rats.
+ 09.12.2022, _K Thipart, L Gruneck, K Phunikhom, TJ Sharpton, J Sattayasai, S Popluechai_
 
 
-_Humans, Dietary Fiber, Diet, Gastrointestinal Microbiome, Microbiota, Metagenome_
-The relationship between the gut microbiome and diet has been the focus of numerous recent studies. Such studies aim to characterize the impact of diet on the composition of the microbiome, as well as the microbiome's ability to utilize various compounds in the diet and produce metabolites that may be beneficial for the host. Consumption of dietary fibers (DFs)-polysaccharides that cannot be broken down by the host's endogenous enzymes and are degraded primarily by members of the microbiome-is known to have a profound effect on the microbiome. Yet, a comprehensive characterization of microbiome compositional and functional shifts in response to the consumption of specific DFs is still lacking.
+Ulcerative colitis (UC) and Crohn's disease (CD) are two major forms of inflammatory bowel disease (IBD). The disease has been linked with gut microbiota dysbiosis in which the balance of commensal communities is disrupted. Accumulating evidence demonstrates that treatment with biologically active compounds can modulate gut microbiota composition in animal models. Our previous work has also shown the beneficial effect of Luem Pua (LP) rice extract, which is rich in anthocyanins, on inflammation. However, its effect on gut microbiota is yet to be explored. In this study, we profiled fecal microbiota of acetic acid (AA)-induced UC and indomethacin (ID)-induced CD rat models with and without pretreatment with LP rice extract by 16S rRNA gene sequencing. The results showed that gut microbiota communities of rats were altered by both AA-induced UC and ID-induced CD. The relative abundances of beneficial bacteria, especially the Lachnospiraceae NK4A136 group and Lactobacillus, were decreased in the AA-induced UC model, while some opportunistic pathogens (Bacteroides, Escherichia/Shigella, Fusobacterium, and Veillonella) were raised by ID-induced CD. Interestingly, pretreatment with LP rice extract before AA-inducing UC in rats increased the proportion of the butyrate-producing bacteria (Lachnospiraceae NK4A136 group). The abundances of these beneficial bacteria and other SCFA-producing bacteria were unaffected by the indomethacin treatment with LP. Overall, our study revealed different impacts of AA-induced UC and ID-induced CD on changes in community composition and hinted at how LP may protect against UC by modifying the gut microbiota.
 
-[Source](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01461-6)
+[Source](https://doi.org/10.1007/s10123-022-00309-x)
 
-10.1186/s12915-022-01461-6
+10.1007/s10123-022-00309-x
 
 ---
 
-## <em>Lactobacillus reuteri </em>improves the development and maturation of fecal microbiota in piglets through mother-to-infant microbe and metabolite vertical transmission
+## <em>Nasonia</em>-microbiome associations: a model for evolutionary hologenomics research
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01336-6)
-
----
-
-## Development of a live biotherapeutic throat spray with lactobacilli targeting respiratory viral infections.
- 05.12.2022, _I Spacova, I De Boeck, E Cauwenberghs, L Delanghe, PA Bron, T Henkens, A Simons, I Gamgami, L Persoons, I Claes, MFL van den Broek, D Schols, P Delputte, S Coenen, V Verhoeven, S Lebeer_
-
-
-Respiratory viruses such as influenza viruses, respiratory syncytial virus (RSV), and coronaviruses initiate infection at the mucosal surfaces of the upper respiratory tract (URT), where the resident respiratory microbiome has an important gatekeeper function. In contrast to gut-targeting administration of beneficial bacteria against respiratory viral disease, topical URT administration of probiotics is currently underexplored, especially for the prevention and/or treatment of viral infections. Here, we report the formulation of a throat spray with live lactobacilli exhibiting several in vitro mechanisms of action against respiratory viral infections, including induction of interferon regulatory pathways and direct inhibition of respiratory viruses. Rational selection of Lactobacillaceae strains was based on previously documented beneficial properties, up-scaling and industrial production characteristics, clinical safety parameters, and potential antiviral and immunostimulatory efficacy in the URT demonstrated in this study. Using a three-step selection strategy, three strains were selected and further tested in vitro antiviral assays and in formulations: Lacticaseibacillus casei AMBR2 as a promising endogenous candidate URT probiotic with previously reported barrier-enhancing and anti-pathogenic properties and the two well-studied model strains Lacticaseibacillus rhamnosus GG and Lactiplantibacillus plantarum WCFS1 that display immunomodulatory capacities. The three strains and their combination significantly reduced the cytopathogenic effects of RSV, influenza A/H1N1 and B viruses, and HCoV-229E coronavirus in co-culture models with bacteria, virus, and host cells. Subsequently, these strains were formulated in a throat spray and human monocytes were employed to confirm the formulation process did not reduce the interferon regulatory pathway-inducing capacity. Administration of the throat spray in healthy volunteers revealed that the lactobacilli were capable of temporary colonization of the throat in a metabolically active form. Thus, the developed spray with live lactobacilli will be further explored in the clinic as a potential broad-acting live biotherapeutic strategy against respiratory viral diseases.
-
-[Source](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.14189)
-
-10.1111/1751-7915.14189
+[Source](https://doi.org/10.1016/j.pt.2022.11.005)
 
 ---
 
-## Differential microbial assembly processes and co-occurrence networks in the soil-root continuum along an environmental gradient 
+## Rapid separation of bacteria from primary nasal samples using inertial microfluidics.
+ 09.12.2022, _J Shrestha, S Razavi Bazaz, L Ding, S Vasilescu, S Idrees, B Söderström, PM Hansbro, M Ghadiri, M Ebrahimi Warkiani_
 
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/imt2.18)
 
----
+Microbial populations play a crucial role in human health and the development of many diseases. These diseases often arise from the explosive proliferation of opportunistic bacteria, such as those in the nasal cavity. Recently, there have been increases in the prevalence of these opportunistic pathogens displaying antibiotic resistance. Thus, the study of the nasal microbiota and its bacterial diversity is critical in understanding pathogenesis and developing microbial-based therapies for well-known and emerging diseases. However, the isolation and analysis of these populations for clinical study complicates the already challenging task of identifying and profiling potentially harmful bacteria. Existing methods are limited by low sample throughput, expensive labeling, and low recovery of bacteria with ineffective removal of cells and debris. In this study, we propose a novel microfluidic channel with a zigzag configuration for enhanced isolation and detection of bacteria from human clinical nasal swabs. This microfluidic zigzag channel separates the bacteria from epithelial cells and debris by size differential focusing. As such, pure bacterial cell fractions devoid of large contaminating debris or epithelial cells are obtained. DNA sequencing performed on the separated bacteria defines the diversity and species present. This novel method of bacterial separation is simple, robust, rapid, and cost-effective and has the potential to be used for the rapid identification of bacterial cell populations from clinical samples.
 
-## Co-occurrence and cooperation between comammox and anammox bacteria in a full-scale attached growth municipal wastewater treatment process
+[Source](https://doi.org/10.1039/d2lc00794k)
 
-[Source](https://www.biorxiv.org/content/10.1101/2022.12.05.519185v1)
-
----
-
-## @KatieCommits
-
-[Source](https://twitter.com/KatieCommits?ref_src=twsrc%5Etfw)
-
----
-
-## @irmarie_25
-
-[Source](https://twitter.com/irmarie_25?ref_src=twsrc%5Etfw)
-
----
-
-## @HRSDVA
-
-[Source](https://twitter.com/HRSDVA?ref_src=twsrc%5Etfw)
-
----
-
-## #comammox
-
-[Source](https://twitter.com/hashtag/comammox?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## #anammox
-
-[Source](https://twitter.com/hashtag/anammox?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/5NAFuhpLcU
-
-[Source](https://t.co/5NAFuhpLcU)
-
----
-
-## December 7, 2022
-
-[Source](https://twitter.com/watermicrobe/status/1600348215592644608?ref_src=twsrc%5Etfw)
-
----
-
-## Full-scale activated sludge transplantation reveals a highly resilient community structure 
-
-[Source](https://www.sciencedirect.com/science/article/pii/S0043135422013999)
-
----
-
-## Towards complete representation of bacterial contents in metagenomic samples
-
-[Source](https://arxiv.org/abs/2210.00098)
-
----
-
-## Cultivation-independent genomes greatly expand taxonomic-profiling capabilities of mOTUs across various environments 
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01410-z)
-
----
-
-## @MicrobiomeJ
-
-[Source](https://twitter.com/MicrobiomeJ?ref_src=twsrc%5Etfw)
-
----
-
-## @hjruscheweyh
-
-[Source](https://twitter.com/hjruscheweyh?ref_src=twsrc%5Etfw)
-
----
-
-## @alessio_mila
-
-[Source](https://twitter.com/alessio_mila?ref_src=twsrc%5Etfw)
-
----
-
-## @BorkLab
-
-[Source](https://twitter.com/BorkLab?ref_src=twsrc%5Etfw)
-
----
-
-## @pangenomics
-
-[Source](https://twitter.com/pangenomics?ref_src=twsrc%5Etfw)
-
----
-
-## @ZellerGroup
-
-[Source](https://twitter.com/ZellerGroup?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/GGRWY2zW84
-
-[Source](https://t.co/GGRWY2zW84)
-
----
-
-## December 5, 2022
-
-[Source](https://twitter.com/SunagawaLab/status/1599757566506323968?ref_src=twsrc%5Etfw)
-
----
-
-## Database Resources of the National Genomics Data Center, China National Center for Bioinformation in 2023 – CNCB-NGDC Members and Partners 
-
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1073/6845434?login=false)
-
----
-
-## Nanopore long-read-only metagenomics enables complete and high-quality genome reconstruction from mock and complex metagenomes
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01415-8)
-
----
-
-## @chris_zie
-
-[Source](https://twitter.com/chris_zie?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/5mCdDF8faB
-
-[Source](https://t.co/5mCdDF8faB)
-
----
-
-## @AcademicChatter
-
-[Source](https://twitter.com/AcademicChatter?ref_src=twsrc%5Etfw)
-
----
-
-## #phdchat
-
-[Source](https://twitter.com/hashtag/phdchat?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## December 7, 2022
-
-[Source](https://twitter.com/Prokaryota/status/1600473298365607937?ref_src=twsrc%5Etfw)
+10.1039/d2lc00794k
 
 ---
 
