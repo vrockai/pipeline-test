@@ -77,15 +77,9 @@ Hepatic macrophages have been recognized as primary sensors and responders in li
 
 ---
 
-## Dental calculus - oral health, forensic studies and archaeology: a review.
- 12.12.2022, _R Forshaw_
-
-
-Dental calculus is recognised as a secondary aetiological factor in periodontal disease, and being a prominent plaque retentive factor, it is routinely removed by the dental team to maintain oral health. Conversely, dental calculus can potentially be useful in forensic studies by supplying data that may be helpful in the identification of human remains and assist in determining the cause of death. During the last few decades, dental calculus has been increasingly recognised as an informative tool to understand ancient diet and health. As an archaeological deposit, it may contain non-dietary debris which permits the exploration of human behaviour and activities. While optical and scanning electron microscopy were the original analytical methods utilised to study microparticles entrapped within the calcified matrix, more recently, molecular approaches, including ancient DNA (aDNA) and protein analyses, have been applied. Oral bacteria, a major component of calculus, is the primary target of these aDNA studies. Such analyses can detect changes in the oral microbiota, including those that have reflected the shift from agriculture to industrialisation, as well as identifying markers for various systemic diseases.
+## Dental calculus – oral health, forensic studies and archaeology: a review
 
 [Source](https://doi.org/10.1038/s41415-022-5266-7)
-
-10.1038/s41415-022-5266-7
 
 ---
 
