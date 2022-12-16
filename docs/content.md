@@ -1,5 +1,5 @@
 ## Gut microbiome of helminth-infected indigenous Malaysians is context dependent.
- 12.12.2022, _MZ Tee, YX Er, AV Easton, NJ Yap, IL Lee, J Devlin, Z Chen, KS Ng, P Subramanian, A Angelova, O Oyesola, S Sargsian, R Ngui, DP Beiting, CCM Boey, KH Chua, K Cadwell, YAL Lim, P Loke, SC Lee_
+ 15.12.2022, _MZ Tee, YX Er, AV Easton, NJ Yap, IL Lee, J Devlin, Z Chen, KS Ng, P Subramanian, A Angelova, O Oyesola, S Sargsian, R Ngui, DP Beiting, CCM Boey, KH Chua, K Cadwell, YAL Lim, P Loke, SC Lee_
 
 
 _Humans, Metagenomics_
@@ -18,7 +18,7 @@ While microbiomes in industrialized societies are well characterized, indigenous
 ---
 
 ## Multi-genome metabolic modeling predicts functional inter-dependencies in the Arabidopsis root microbiome.
- 12.12.2022, _V Mataigne, N Vannier, P Vandenkoornhuyse, S Hacquard_
+ 15.12.2022, _V Mataigne, N Vannier, P Vandenkoornhuyse, S Hacquard_
 
 
 _Arabidopsis, Phylogeny, Ecology, Microbiota, Arabidopsis Proteins, Intracellular Signaling Peptides and Proteins_
@@ -31,7 +31,7 @@ From a theoretical ecology point of view, microbiomes are far more complex than 
 ---
 
 ## Dynamics of rice microbiomes reveal core vertically transmitted seed endophytes.
- 12.12.2022, _X Zhang, YN Ma, X Wang, K Liao, S He, X Zhao, H Guo, D Zhao, HL Wei_
+ 15.12.2022, _X Zhang, YN Ma, X Wang, K Liao, S He, X Zhao, H Guo, D Zhao, HL Wei_
 
 
 _Oryza, Endophytes, Seeds_
