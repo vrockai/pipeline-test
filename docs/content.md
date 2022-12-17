@@ -153,21 +153,39 @@ Previous study found that appropriate high-fiber diet (containing 19.10% total d
 
 ---
 
-## Interpreting tree ensemble machine learning models with endoR
+## Interpreting tree ensemble machine learning models with endoR.
+ 14.12.2022, _A Ruaud, N Pfister, RE Ley, ND Youngblut_
+
+
+Tree ensemble machine learning models are increasingly used in microbiome science as they are compatible with the compositional, high-dimensional, and sparse structure of sequence-based microbiome data. While such models are often good at predicting phenotypes based on microbiome data, they only yield limited insights into how microbial taxa may be associated. We developed endoR, a method to interpret tree ensemble models. First, endoR simplifies the fitted model into a decision ensemble. Then, it extracts information on the importance of individual features and their pairwise interactions, displaying them as an interpretable network. Both the endoR network and importance scores provide insights into how features, and interactions between them, contribute to the predictive performance of the fitted model. Adjustable regularization and bootstrapping help reduce the complexity and ensure that only essential parts of the model are retained. We assessed endoR on both simulated and real metagenomic data. We found endoR to have comparable accuracy to other common approaches while easing and enhancing model interpretation. Using endoR, we also confirmed published results on gut microbiome differences between cirrhotic and healthy individuals. Finally, we utilized endoR to explore associations between human gut methanogens and microbiome components. Indeed, these hydrogen consumers are expected to interact with fermenting bacteria in a complex syntrophic network. Specifically, we analyzed a global metagenome dataset of 2203 individuals and confirmed the previously reported association between Methanobacteriaceae and Christensenellales. Additionally, we observed that Methanobacteriaceae are associated with a network of hydrogen-producing bacteria. Our method accurately captures how tree ensembles use features and interactions between them to predict a response. As demonstrated by our applications, the resultant visualizations and summary outputs facilitate model interpretation and enable the generation of novel hypotheses about complex systems.
 
 [Source](https://doi.org/10.1371/journal.pcbi.1010714)
 
+10.1371/journal.pcbi.1010714
+
 ---
 
-## Analysis of Ancient Microbial DNA
+## Analysis of Ancient Microbial DNA.
+ 16.12.2022, _O Gorgé, EA Bennett, D Massilani, J Daligault, EM Geigl, T Grange_
+
+
+The development of next-generation sequencing has led to a breakthrough in the analysis of ancient genomes, and the subsequent genomic analyses of ancient human skeletal remains have revolutionized our understanding of human evolution. This research led to the discovery of a new hominin lineage, and demonstrated multiple admixture events with more distantly related archaic human populations such as Neandertals and Denisovans over the last 100,000 years. Moreover, it has also yielded novel insights into the evolution of ancient pathogens. The analysis of ancient microbial genomes enables the study of their recent evolution, presently covering the last several millennia. These spectacular results have been obtained despite the degradation of DNA that takes place after the death of the host and increases with time. This cumulative degradation results in very short ancient DNA molecules, low in quantity, and highly prone to contamination by modern DNA molecules, especially from human and animal DNA present in reagents used in downstream biomolecular analyses. Finally, the minute amounts of ancient molecules are further diluted in environmental DNA from the soil microorganisms that colonize bones and teeth. Thus, ancient skeletal remains can share DNA profiles with environmental samples, and the identification of ancient microbial genomes among the more recent, presently poorly characterized, environmental microbiome is particularly challenging. Here, we describe the methods developed and/or in use in our laboratory to produce reliable and reproducible paleogenomic results from ancient skeletal remains that can be used to identify the presence of ancient microbiota.
 
 [Source](https://doi.org/10.1007/978-1-0716-2871-3_6)
 
+10.1007/978-1-0716-2871-3_6
+
 ---
 
-## Confocal Laser Scanning Microscopy Approach to Investigate Plant-Fungal Interactions
+## Confocal Laser Scanning Microscopy Approach to Investigate Plant-Fungal Interactions.
+ 16.12.2022, _F Fracchia, V Basso, F Guinet, C Veneault-Fourrey, A Deveau_
+
+
+Plants interact with a broad range of microorganisms, such as bacteria and fungi. In plant roots, complex microbial communities participate in plant nutrition and development as well as in the protection against stresses. The establishment of the root microbiota is a dynamic process in space and time regulated by abiotic (e.g., edaphic, climate, etc.) and biotic factors (e.g., host genotype, root exudates, etc.). In the last 20 years, the development of metabarcoding surveys, based on high-throughput next-generation sequencing methods, identified the main drivers of microbial community structuration. However, identification of plant-associated microbes by sequencing should be complemented by imaging techniques to provide information on the micrometric spatial organization and its impact on plant-fungal and fungal-fungal interactions. Laser scanning confocal microscopy can provide both types of information and is now used to investigate communities of endophytic, endomycorrhizal, and ectomycorrhizal fungi. In this chapter, we present a protocol enabling the detection of fungal individuals and communities associated to the plant root system.
 
 [Source](https://doi.org/10.1007/978-1-0716-2871-3_16)
+
+10.1007/978-1-0716-2871-3_16
 
 ---
 
