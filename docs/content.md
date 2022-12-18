@@ -11,7 +11,7 @@ Exercise exerts a wide range of beneficial effects for healthy physiology1. Howe
 ---
 
 ## Gut microbiota in the early stage of Crohn's disease has unique characteristics.
- 14.12.2022, _X Ma, X Lu, W Zhang, L Yang, D Wang, J Xu, Y Jia, X Wang, H Xie, S Li, M Zhang, Y He, P Jin, J Sheng_
+ 17.12.2022, _X Ma, X Lu, W Zhang, L Yang, D Wang, J Xu, Y Jia, X Wang, H Xie, S Li, M Zhang, Y He, P Jin, J Sheng_
 
 
 Emerging evidence suggests that gut microbiota plays a predominant role in Crohn's disease (CD). However, the microbiome alterations in the early stage of CD patients still remain unclear. The present study aimed to identify dysbacteriosis in patients with early CD and explore specific gut bacteria related to the progression of CD.
@@ -35,7 +35,7 @@ The gut and liver are connected via the portal vein, and this relationship, whic
 ---
 
 ## Impact of HIV infection and integrase strand transfer inhibitors-based treatment on the gut virome.
- 15.12.2022, _P Villoslada-Blanco, P Pérez-Matute, M Íñiguez, E Recio-Fernández, D Jansen, L De Coninck, L Close, P Blanco-Navarrete, L Metola, V Ibarra, J Alba, J Matthijnssens, JA Oteo_
+ 17.12.2022, _P Villoslada-Blanco, P Pérez-Matute, M Íñiguez, E Recio-Fernández, D Jansen, L De Coninck, L Close, P Blanco-Navarrete, L Metola, V Ibarra, J Alba, J Matthijnssens, JA Oteo_
 
 
 Viruses are the most abundant components of the human gut microbiome with a significant impact on health and disease. The effects of human immunodeficiency virus (HIV) infection on gut virome has been scarcely analysed. Several studies suggested that integrase strand transfers inhibitors (INSTIs) are associated with a healthier gut. Thus, the objective of this work was to evaluate the effects of HIV infection and INSTIs on gut virome composition. 26 non-HIV-infected volunteers, 15 naive HIV-infected patients and 15 INSTIs-treated HIV-infected patients were recruited and their gut virome composition was analysed using shotgun sequencing. Bacteriophages were the most abundant and diverse viruses present in gut. HIV infection was accompanied by a decrease in phage richness which was reverted after INSTIs-based treatment. β-diversity of phages revealed that samples from HIV-infected patients clustered separately from those belonging to the control group. Differential abundant analysis showed an increase in phages belonging to Caudoviricetes class in the naive group and a decrease of Malgrandaviricetes class phages in the INSTIs-treated group compared to the control group. Besides, it was observed that INSTIs-based treatment was not able to reverse the increase of lysogenic phages associated with HIV infection or to modify the decrease observed on the relative abundance of Proteobacteria-infecting phages. Our study describes for the first time the impact of HIV and INSTIs on gut virome and demonstrates that INSTIs-based treatments are able to partially restore gut dysbiosis at the viral level, which opens several opportunities for new studies focused on microbiota-based therapies.
@@ -95,7 +95,7 @@ Miscarriage is one of the main causes of reproductive loss, which can lead to a 
 ---
 
 ## Intratumoral microbiome and gastrointestinal cancers.
- 16.12.2022, _S Li, Q Li, W Lu_
+ 17.12.2022, _S Li, Q Li, W Lu_
 
 
 Emerging studies have revealed the role of microbiota in regulating tumorigenesis, development, and response to antitumor treatment. However, most studies have focused on gut microbiota, and little is known about the intratumoral microbiome. To date, the latest research has indicated that the intratumoral microbiome is a key component of the tumor microenvironment (TME), and can promote a heterogeneous immune microenvironment, reprogram tumor metabolism to affect tumor invasion and metastasis. In this review, we will summarize existing studies on the intratumoral microbiome of gastrointestinal cancers and reveal their crosstalk. This will provide a better understanding of this emerging field and help to explore new therapeutic approaches for cancer patients by targeting the intratumoral microbiome.
