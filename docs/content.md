@@ -1,175 +1,156 @@
-## A microbiome-dependent gut-brain pathway regulates motivation for exercise.
- 14.12.2022, _L Dohnalová, P Lundgren, JRE Carty, N Goldstein, SL Wenski, P Nanudorn, S Thiengmag, KP Huang, L Litichevskiy, HC Descamps, K Chellappa, A Glassman, S Kessler, J Kim, TO Cox, O Dmitrieva-Posocco, AC Wong, EL Allman, S Ghosh, N Sharma, K Sengupta, B Cornes, N Dean, GA Churchill, TS Khurana, MA Sellmyer, GA FitzGerald, AD Patterson, JA Baur, AL Alhadeff, EJN Helfrich, M Levy, JN Betley, CA Thaiss_
+## Multi-omic interactions in the gut of children at the onset of islet autoimmunity.
+ 19.12.2022, _PG Gavin, KW Kim, ME Craig, MM Hill, EE Hamilton-Williams_
 
 
-Exercise exerts a wide range of beneficial effects for healthy physiology1. However, the mechanisms regulating an individual's motivation to engage in physical activity remain incompletely understood. An important factor stimulating the engagement in both competitive and recreational exercise is the motivating pleasure derived from prolonged physical activity, which is triggered by exercise-induced neurochemical changes in the brain. Here, we report on the discovery of a gut-brain connection in mice that enhances exercise performance by augmenting dopamine signalling during physical activity. We find that microbiome-dependent production of endocannabinoid metabolites in the gut stimulates the activity of TRPV1-expressing sensory neurons and thereby elevates dopamine levels in the ventral striatum during exercise. Stimulation of this pathway improves running performance, whereas microbiome depletion, peripheral endocannabinoid receptor inhibition, ablation of spinal afferent neurons or dopamine blockade abrogate exercise capacity. These findings indicate that the rewarding properties of exercise are influenced by gut-derived interoceptive circuits and provide a microbiome-dependent explanation for interindividual variability in exercise performance. Our study also suggests that interoceptomimetic molecules that stimulate the transmission of gut-derived signals to the brain may enhance the motivation for exercise.
+The gastrointestinal ecosystem is a highly complex environment with a profound influence on human health. Inflammation in the gut, linked to an altered gut microbiome, has been associated with the development of multiple human conditions including type 1 diabetes (T1D). Viruses infecting the gastrointestinal tract, especially enteroviruses, are also thought to play an important role in T1D pathogenesis possibly via overlapping mechanisms. However, it is not known whether the microbiome and virome act together or which risk factor may be of greater importance at the time when islet autoimmunity is initiated.
 
-[Source](https://doi.org/10.1038/s41586-022-05525-z)
+[Source](https://doi.org/10.1186/s40168-022-01425-6)
 
-10.1038/s41586-022-05525-z
-
----
-
-## Gut microbiota in the early stage of Crohn's disease has unique characteristics.
- 17.12.2022, _X Ma, X Lu, W Zhang, L Yang, D Wang, J Xu, Y Jia, X Wang, H Xie, S Li, M Zhang, Y He, P Jin, J Sheng_
-
-
-Emerging evidence suggests that gut microbiota plays a predominant role in Crohn's disease (CD). However, the microbiome alterations in the early stage of CD patients still remain unclear. The present study aimed to identify dysbacteriosis in patients with early CD and explore specific gut bacteria related to the progression of CD.
-
-[Source](https://doi.org/10.1186/s13099-022-00521-0)
-
-10.1186/s13099-022-00521-0
+10.1186/s40168-022-01425-6
 
 ---
 
-## Longitudinal multi-omics analyses of the gut-liver axis reveals metabolic dysregulation in hepatitis C infection and cirrhosis.
- 15.12.2022, _RO Ali, GM Quinn, R Umarova, JA Haddad, GY Zhang, EC Townsend, L Scheuing, KL Hill, M Gewirtz, S Rampertaap, SD Rosenzweig, AT Remaley, JM Han, V Periwal, H Cai, PJ Walter, C Koh, EB Levy, DE Kleiner, O Etzion, T Heller_
+## The microbiota-gut-brain axis in pathogenesis of depression: a narrative review.
+ 17.12.2022, _H Yao, D Zhang, H Yu, H Shen, H Liu, F Meng, X Wu, G Zhang, X Wang_
 
 
-The gut and liver are connected via the portal vein, and this relationship, which includes the gut microbiome, is described as the gut-liver axis. Hepatitis C virus (HCV) can infect the liver and cause fibrosis with chronic infection. HCV has been associated with an altered gut microbiome; however, how these changes impact metabolism across the gut-liver axis and how this varies with disease severity and time is unclear. Here we used multi-omics analysis of portal and peripheral blood, faeces and liver tissue to characterize the gut-liver axis of patients with HCV across a fibrosis severity gradient before (n = 29) and 6 months after (n = 23) sustained virologic response, that is, no detection of the virus. Fatty acids were the major metabolites perturbed across the liver, portal vein and gut microbiome in HCV, especially in patients with cirrhosis. Decreased fatty acid degradation by hepatic peroxisomes and mitochondria was coupled with increased free fatty acid (FFA) influx to the liver via the portal vein. Metatranscriptomics indicated that Anaerostipes hadrus-mediated fatty acid synthesis influences portal FFAs. Both microbial fatty acid synthesis and portal FFAs were associated with enhanced hepatic fibrosis. Bacteroides vulgatus-mediated intestinal glycan breakdown was linked to portal glycan products, which in turn correlated with enhanced portal inflammation in HCV. Paired comparison of patient samples at both timepoints showed that hepatic metabolism, especially in peroxisomes, is persistently dysregulated in cirrhosis independently of the virus. Sustained virologic response was associated with a potential beneficial role for Methanobrevibacter smithii, which correlated with liver disease severity markers. These results develop our understanding of the gut-liver axis in HCV and non-HCV liver disease aetiologies and provide a foundation for future therapies.
+The microbiota-gut-brain axis is a bidirectional regulatory pathway between the brain and the gastrointestinal tract, which plays an important role in maintain homeostasis. Gut microbiota could influence the behavior, cognition, stress response and others via the axis. Depression is a complex psychiatric disease, giving rise to heavy social health and economic burden. In recent years, studies have shown that the gut microbiota are closely linked to the pathophysiological processes of depression. In this article, the interaction and its underlying mechanisms between depression and gut microbiota were summarized.
 
-[Source](https://doi.org/10.1038/s41564-022-01273-y)
+[Source](https://doi.org/10.1016/j.physbeh.2022.114056)
 
-10.1038/s41564-022-01273-y
-
----
-
-## Impact of HIV infection and integrase strand transfer inhibitors-based treatment on the gut virome.
- 19.12.2022, _P Villoslada-Blanco, P Pérez-Matute, M Íñiguez, E Recio-Fernández, D Jansen, L De Coninck, L Close, P Blanco-Navarrete, L Metola, V Ibarra, J Alba, J Matthijnssens, JA Oteo_
-
-
-_Humans, HIV Infections, Virome, HIV Integrase Inhibitors, Dysbiosis, Bacteriophages, Viruses, Integrases, HIV Integrase_
-Viruses are the most abundant components of the human gut microbiome with a significant impact on health and disease. The effects of human immunodeficiency virus (HIV) infection on gut virome has been scarcely analysed. Several studies suggested that integrase strand transfers inhibitors (INSTIs) are associated with a healthier gut. Thus, the objective of this work was to evaluate the effects of HIV infection and INSTIs on gut virome composition. 26 non-HIV-infected volunteers, 15 naive HIV-infected patients and 15 INSTIs-treated HIV-infected patients were recruited and their gut virome composition was analysed using shotgun sequencing. Bacteriophages were the most abundant and diverse viruses present in gut. HIV infection was accompanied by a decrease in phage richness which was reverted after INSTIs-based treatment. β-diversity of phages revealed that samples from HIV-infected patients clustered separately from those belonging to the control group. Differential abundant analysis showed an increase in phages belonging to Caudoviricetes class in the naive group and a decrease of Malgrandaviricetes class phages in the INSTIs-treated group compared to the control group. Besides, it was observed that INSTIs-based treatment was not able to reverse the increase of lysogenic phages associated with HIV infection or to modify the decrease observed on the relative abundance of Proteobacteria-infecting phages. Our study describes for the first time the impact of HIV and INSTIs on gut virome and demonstrates that INSTIs-based treatments are able to partially restore gut dysbiosis at the viral level, which opens several opportunities for new studies focused on microbiota-based therapies.
-
-[Source](https://doi.org/10.1038/s41598-022-25979-5)
-
-10.1038/s41598-022-25979-5
+10.1016/j.physbeh.2022.114056
 
 ---
 
-## Consequences of collagen induced inflammatory arthritis on circadian regulation of the gut microbiome.
- 19.12.2022, _DA Simpkins, P Downton, KJ Gray, SH Dickson, RJ Maidstone, JE Konkel, MR Hepworth, DW Ray, DA Bechtold, JE Gibbs_
+## Environmental enteric dysfunction: gut and microbiota adaptation in pregnancy and infancy.
+ 16.12.2022, _CA Cowardin, S Syed, N Iqbal, Z Jamil, K Sadiq, J Iqbal, SA Ali, SR Moore_
 
 
-_Mice, Animals, Gastrointestinal Microbiome, Dysbiosis, Microbiota, Arthritis, Experimental, Collagen_
-The gut microbiota is important for host health and immune system function. Moreover autoimmune diseases, such as rheumatoid arthritis, are associated with significant gut microbiota dysbiosis, although the causes and consequences of this are not fully understood. It has become clear that the composition and metabolic outputs of the microbiome exhibit robust 24 h oscillations, a result of daily variation in timing of food intake as well as rhythmic circadian clock function in the gut. Here, we report that experimental inflammatory arthritis leads to a re-organization of circadian rhythmicity in both the gut and associated microbiome. Mice with collagen induced arthritis exhibited extensive changes in rhythmic gene expression in the colon, and reduced barrier integrity. Re-modeling of the host gut circadian transcriptome was accompanied by significant alteration of the microbiota, including widespread loss of rhythmicity in symbiont species of Lactobacillus, and alteration in circulating microbial derived factors, such as tryptophan metabolites, which are associated with maintenance of barrier function and immune cell populations within the gut. These findings highlight that altered circadian rhythmicity during inflammatory disease contributes to dysregulation of gut integrity and microbiome function.
+Environmental enteric dysfunction (EED) is a subclinical syndrome of intestinal inflammation, malabsorption and barrier disruption that is highly prevalent in low- and middle-income countries in which poverty, food insecurity and frequent exposure to enteric pathogens impair growth, immunity and neurodevelopment in children. In this Review, we discuss advances in our understanding of EED, intestinal adaptation and the gut microbiome over the 'first 1,000 days' of life, spanning pregnancy and early childhood. Data on maternal EED are emerging, and they mirror earlier findings of increased risks for preterm birth and fetal growth restriction in mothers with either active inflammatory bowel disease or coeliac disease. The intense metabolic demands of pregnancy and lactation drive gut adaptation, including dramatic changes in the composition, function and mother-to-child transmission of the gut microbiota. We urgently need to elucidate the mechanisms by which EED undermines these critical processes so that we can improve global strategies to prevent and reverse intergenerational cycles of undernutrition.
 
-[Source](https://doi.org/10.1096/fj.202201728R)
+[Source](https://doi.org/10.1038/s41575-022-00714-7)
 
-10.1096/fj.202201728R
-
----
-
-## Isolation and characterization of a novel choline degrading <em>Citrobacter amalonaticus</em> strain from the human gut
-
-[Source](https://doi.org/10.1016/j.crmicr.2022.100157)
+10.1038/s41575-022-00714-7
 
 ---
 
-## HIV-Positive Patients on Antiretroviral Therapy Have an Altered Mucosal Intestinal but Not Oral Microbiome.
- 13.12.2022, _J Meng, J Tao, Y Abu, DA Sussman, M Girotra, D Franceschi, S Roy_
+## Gastrointestinal Tract, Microbiota and Multiple Sclerosis (MS) and the Link Between Gut Microbiota and CNS.
+ 19.12.2022, _B Yousefi, A Babaeizad, SZ Banihashemian, ZK Feyzabadi, M Dadashpour, D Pahlevan, H Ghaffari, M Eslami_
 
 
-This study characterized compositional and functional shifts in the intestinal and oral microbiome in HIV-positive patients on antiretroviral therapy compared to HIV-negative individuals. Seventy-nine specimens were collected from 5 HIV-positive and 12 control subjects from five locations (colon brush, colon wash, terminal ileum [TI] brush, TI wash, and saliva) during colonoscopy and at patient visits. Microbiome composition was characterized using 16S rRNA sequencing, and microbiome function was predicted using bioinformatics tools (PICRUSt and BugBase). Our analysis indicated that the β-diversity of all intestinal samples (colon brush, colon wash, TI brush, and TI wash) from patients with HIV was significantly different from patients without HIV. Specifically, bacteria from genera Prevotella, Fusobacterium, and Megasphaera were more abundant in samples from HIV-positive patients. On the other hand, bacteria from genera Ruminococcus, Blautia, and Clostridium were more abundant in samples from HIV-negative patients. Additionally, HIV-positive patients had higher abundances of biofilm-forming and pathogenic bacteria. Furthermore, pathways related to translation and nucleotide metabolism were elevated in HIV-positive patients, whereas pathways related to lipid and carbohydrate metabolism were positively correlated with samples from HIV-negative patients. Our analyses further showed variations in microbiome composition in HIV-positive and negative patients by sampling site. Samples from colon wash, colon brush, and TI wash were significant between groups, while samples from TI brush and saliva were not significant. Taken together, here, we report altered intestinal microbiome composition and predicted function in patients with HIV compared to uninfected patients, though we found no changes in the oral microbiome. IMPORTANCE Over 37 million people worldwide are living with HIV. Although the availability of antiretroviral therapy has significantly reduced the number of AIDS-related deaths, individuals living with HIV are at increased risk for opportunistic infections. We now know that HIV interacts with the trillions of bacteria, fungi, and viruses in the human body termed the microbiome. Only a limited number of previous studies have compared variations in the oral and gastrointestinal microbiome with HIV infection. Here, we detail how the oral and gastrointestinal microbiome changes with HIV infection, having used 5 different sampling sites to gain a more comprehensive view of these changes by location. Our results show site-specific changes in the intestinal microbiome associated with HIV infection. Additionally, we show that while there were significant changes in the intestinal microbiome, there were no significant changes in the oral microbiome.
+Multiple sclerosis (MS) is a chronic inflammatory disease characterized by central nervous system (CNS) lesions that can lead to severe neurological defects. Evidence is mounting that immune function is crucial in neuroinflammatory illnesses like MS. Through its impact on systemic immunological reactions, the large microbial population known as the gut microbiota has been linked to both human health and disease. The gut-brain axis (GBA) therefore encompasses neurological, immunological, and hormonal pathways, and microbiota can have a number of effects on the immune system, influencing MS. Recent research revealed a bidirectional relationship between metabolites originating from the gut microbiota, namely short-chain fatty acids (SCFAs). Intestinal epithelial cells are influenced by SCFAs, which also boosts the secretion of -Defensins and regenerating islet-derived III (REGIII) proteins. These proteins reduce intestinal pathogens, induce T-reg differentiation, and modulate immune responses by reducing IL-1 and IL-6 expression and increasing IL-10. Nutrition and psychological stress are two of the most significant elements that can directly and indirectly change the microbiota compositions along with other environmental influencing factors. An important regulator of intestinal physiology in the gut-brain-microbiota axis is butyrate, a well-known SCFA. Intestinal dysbiosis, altered intestinal barrier function, behavioral abnormalities, and activation of the hypothalamic-pituitary-adrenal (HPA) axis are all brought on by exposure. Probiotics, bacterial metabolite supplementation, fecal matter transplantation, defined microbial communities, and dietary intervention are some methods for modifying the composition of the gut microbiota that may be used to affect disease-related immune dysfunction and serve as the foundation for a new class of therapeutics.
 
-[Source](https://doi.org/10.1128/spectrum.02472-22)
+[Source](https://doi.org/10.1007/s00284-022-03150-7)
 
-10.1128/spectrum.02472-22
-
----
-
-## Gut dysbiosis and bacterial translocation in the aneurysmal wall and blood in patients with abdominal aortic aneurysm
-
-[Source](https://doi.org/10.1371/journal.pone.0278995)
+10.1007/s00284-022-03150-7
 
 ---
 
-## Female reproductive tract microbiome and early miscarriages.
- 13.12.2022, _O Lebedeva, V Popov, M Syromyatnikov, N Starkova, A Maslov, O Kozarenko, M Gryaznova_
+## Effect of proton pump inhibitors in infants with esophageal atresia on the gut microbiome: a pilot cohort.
+ 19.12.2022, _N Brusselaers, M Pereira, J Alm, L Engstrand, H Engstrand Lilja_
 
 
-Miscarriage is one of the main causes of reproductive loss, which can lead to a number of physical and psychological complications and other long-term consequences. However, the role of vaginal and uterine microbiome in such complications is poorly understood.
+The effects of proton-pump inhibitors (PPIs) on the infant microbiome remain unclear. Swedish pilot cohort study to assess the longitudinal effect of long-term PPI on the infant gut microbiome, including ten newborn infants operated for esophageal atresia exposed to PPIs (mean 57 weeks), compared to healthy one-year-old controls. All children were born vaginally and were otherwise healthy. Within- and between sample diversity of the fecal microbiome was assessed using untargeted whole genome Shotgun metagenomics which sequences all the DNA in the sample and can capture genes rather than a taxonomic fingerprint.
 
-[Source](https://doi.org/10.1111/apm.13288)
+[Source](https://doi.org/10.1186/s13099-022-00518-9)
 
-10.1111/apm.13288
-
----
-
-## Intratumoral microbiome and gastrointestinal cancers.
- 17.12.2022, _S Li, Q Li, W Lu_
-
-
-Emerging studies have revealed the role of microbiota in regulating tumorigenesis, development, and response to antitumor treatment. However, most studies have focused on gut microbiota, and little is known about the intratumoral microbiome. To date, the latest research has indicated that the intratumoral microbiome is a key component of the tumor microenvironment (TME), and can promote a heterogeneous immune microenvironment, reprogram tumor metabolism to affect tumor invasion and metastasis. In this review, we will summarize existing studies on the intratumoral microbiome of gastrointestinal cancers and reveal their crosstalk. This will provide a better understanding of this emerging field and help to explore new therapeutic approaches for cancer patients by targeting the intratumoral microbiome.
-
-[Source](https://doi.org/10.1016/j.tcb.2022.11.007)
-
-10.3389/fonc.2022.1047015
+10.1186/s13099-022-00518-9
 
 ---
 
-## Emerging roles of intratumor microbiota in cancer metastasis
-
-[Source](https://doi.org/10.1016/j.tcb.2022.11.007)
-
----
-
-## Urine microbiota differ in bladder cancer.
- 14.12.2022, _L Stone_
+## Endodontic microbial communities in apical periodontitis.
+ 16.12.2022, _A Buonavoglia, F Zamparini, G Lanave, F Pellegrini, G Diakoudi, A Spinelli, MS Lucente, M Camero, VI Vasinioti, MG Gandolfi, V Martella, C Prati_
 
 
+Apical periodontitis (AP) represents an inflammatory condition of peri-radicular tissues due to invasion and colonization of bacteria in the root canals. Primary AP (PAP) is associated with untreated necrotic root canal and can be efficiently treated with endodontic treatment to remove bacteria. Persistent/secondary AP (SAP) is a perpetual periapical lesion due to unsuccessfully treated root canals after an initial apparent healing of the tooth. The aim of the study was evaluating the microbial communities associated with root canals using Nanopore sequencing.
 
-[Source](https://doi.org/10.1038/s41585-022-00690-2)
+[Source](https://doi.org/10.1016/j.joen.2022.11.015)
 
-10.1038/s41585-022-00690-2
+10.1016/j.joen.2022.11.015
 
 ---
 
-## Characterization of the bacterial microbiome of <em>Amblyomma scalpturatum</em> and <em>Amblyomma ovale</em> collected from <em>Tapirus terrestris</em> and <em>Amblyomma sabanerae</em> collected from <em>Chelonoidis denticulata</em>, Madre de Dios- Peru
-
-[Source](https://doi.org/10.1186/s12866-022-02717-5)
-
----
-
-## Increased Proportion of Fiber-Degrading Microbes and Enhanced Cecum Development Jointly Promote Host To Digest Appropriate High-Fiber Diets.
- 13.12.2022, _G Pu, L Hou, T Du, W Zhou, C Liu, P Niu, C Wu, W Bao, R Huang, P Li_
+## Gut Microbiota-Generated Phenylacetylglutamine and Heart Failure.
+ 16.12.2022, _KA Romano, I Nemet, P Prasad Saha, A Haghikia, XS Li, ML Mohan, B Lovano, L Castel, M Witkowski, JA Buffa, Y Sun, L Li, CM Menge, I Demuth, M König, E Steinhagen-Thiessen, JA DiDonato, A Deb, F Bäckhed, WHW Tang, SV Naga Prasad, U Landmesser, DR Van Wagoner, SL Hazen_
 
 
-Previous study found that appropriate high-fiber diet (containing 19.10% total dietary fiber [TDF], treatment II) did not reduce apparent fiber digestibility of Chinese Suhuai finishing pigs and increased the yield of short-chain fatty acids (SCFAs), but too high-fiber diet (containing 24.11% TDF, treatment IV) significantly reduced apparent fiber digestibility compared with normal diet (containing 16.70% TDF, control group). However, characteristics of microbiota at the species level and histological structure in pigs with the ability to digest appropriate high-fiber diets were still unknown. This study conducted comparative analysis of cecal physiology and microbial populations colonizing cecal mucosa. The results showed intestinal development indexes including cecum length, densities of cecal goblet cells, and renewal of cecal epithelial cells in treatment II and IV had better performance than those in the control. Paludibacter jiangxiensis, Coprobacter fastidiosus, Bacteroides coprocola CAG:162, Bacteroides barnesiae, and Parabacteroides merdae enriched in treatment II expressed large number of glycoside hydrolase (GH)-encoding genes and had the largest number of GH families. In addition, pathogenic bacteria (Shigella sonnei, Mannheimia haemolytica, and Helicobacter felis) were enriched in treatment IV. Correlation analysis revealed that the intestinal development index positively correlated with the relative abundance of cecal mucosal microbiota and the amount of digested fiber. These results indicated that increased proportions of fiber-degrading microbes and enhanced intestinal development jointly promote the host to digest an appropriate high-fiber diet. However, although too-high fiber levels in diet could maintain the adaptive development of cecal epithelium, the proportions of pathogenic bacteria increased, which might lead to a decrease of fiber digestion in pigs. IMPORTANCE Although studies about the effects of dietary fiber on fiber digestion and intestinal microbiota of pigs were widely in progress, few studies have been conducted on the dynamic response of intestinal microbiota to dietary fiber levels, and the characteristics of intestinal microbiota and intestinal epithelial development adapted to high-fiber diet s were still unclear. Appropriate high fiber promoted the thickness of large intestine wall, increased the density of cecal goblet cells, and promoted the renewal of cecal epithelial cells. In addition, appropriate high fiber improves the microbial abundance with fiber-digesting potential. However, excessive dietary fiber caused an increase in the abundance of pathogenic bacteria. These results indicated that an increased proportion of fiber-degrading microbes and enhanced intestinal development jointly promote host to digest appropriate high-fiber diets. However, although too-high fiber levels in diet could maintain the adaptive development of cecal epithelium, the proportions of pathogenic bacteria increased, which might lead to a decrease of fiber digestion in pigs. Our data provided a theoretical basis for rational and efficient utilization of unconventional feed resources in pig production.
+The gut microbiota-dependent metabolite phenylacetylgutamine (PAGln) is both associated with atherothrombotic heart disease in humans, and mechanistically linked to cardiovascular disease pathogenesis in animal models via modulation of adrenergic receptor signaling.
 
-[Source](https://doi.org/10.1128/msystems.00937-22)
+[Source](https://doi.org/10.1161/CIRCHEARTFAILURE.122.009972)
 
-10.1128/msystems.00937-22
+10.1161/CIRCHEARTFAILURE.122.009972
 
 ---
 
-## Involvement of Microbiota in Insect Physiology: Focus on B Vitamins
+## Midgut Bacterial Microbiota of 12 Fish Species from a Marine Protected Area in the Aegean Sea (Greece).
+ 18.12.2022, _K Kormas, E Nikouli, V Kousteni, D Damalas_
 
-[Source](https://doi.org/10.1128/mbio.02225-22)
 
----
+Fish microbiome science is progressing fast, but it is biased toward farmed or laboratory fish species against natural fish populations, which remain considerably underinvestigated. We analyzed the midgut bacterial microbiota of 45 specimens of 12 fish species collected from the Gyaros Island marine protected area (Aegean Sea, Greece). The species belong to seven taxonomic families and are either herbivores or omnivores. Mucosa midgut bacterial diversity was assessed by amplicon metabarcoding of the 16S rRNA V3-V4 gene region. A total of 854 operational taxonomic units (OTUs) were identified. In each fish species, between 2 and 18 OTUs dominated with cumulative relative abundance ≥ 70%. Most of the dominating bacterial taxa have been reported to occur both in wild and farmed fish populations. The midgut bacterial communities were different among the 12 fish species, except for Pagrus pagrus and Pagellus erythrinus, which belong to the Sparidae family. No differentiation of the midgut bacterial microbiota was found based on feeding habits, i.e., omnivorous vs. carnivorous. Comparing wild and farmed P. pagrus midgut bacterial microbiota revealed considerable variation between them. Our results expand the gut microbiota of wild fish and support the host species effect as the more likely factor shaping intestinal bacterial microbiota.
 
-## The Endophytic Root Microbiome Is Different in Healthy and <em>Ralstonia solanacearum</em>-Infected Plants and Is Regulated by a Consortium Containing Beneficial Endophytic Bacteria
+[Source](https://doi.org/10.1007/s00248-022-02154-x)
 
-[Source](https://doi.org/10.1128/spectrum.02031-22)
-
----
-
-## Interpreting tree ensemble machine learning models with endoR
-
-[Source](https://doi.org/10.1371/journal.pcbi.1010714)
+10.1007/s00248-022-02154-x
 
 ---
 
-## Analysis of Ancient Microbial DNA
+## Guts within guts: the microbiome of the intestinal helminth parasite <em>Ascaris suum</em> is derived but distinct from its host
 
-[Source](https://doi.org/10.1007/978-1-0716-2871-3_6)
+[Source](https://doi.org/10.1186/s40168-022-01399-5)
 
 ---
 
-## Confocal Laser Scanning Microscopy Approach to Investigate Plant-Fungal Interactions
+## Multifaceted roles of flavonoids mediating plant-microbe interactions.
+ 19.12.2022, _L Wang, M Chen, PY Lam, F Dini-Andreote, L Dai, Z Wei_
 
-[Source](https://doi.org/10.1007/978-1-0716-2871-3_16)
+
+Plant-microbe interactions dynamically affect plant growth, health, and development. The mechanisms underpinning these associations are-to a large extent-mediated by specialized host-derived secondary metabolites. Flavonoids are one of the most studied classes of such metabolites, regulating both plant development and the interaction with commensal microbes. Here, we provide a comprehensive review of the multiple roles of flavonoids in mediating plant-microbe interactions. First, we briefly summarize the general aspects of flavonoid synthesis, transport, and exudation in plants. Then, we review the importance of flavonoids regulating plant-microbe interactions and dynamically influencing the overall community assembly of plant-root microbiomes. Last, we highlight potential knowledge gaps in our understanding of how flavonoids determine the interactions between plants and commensal microbes. Collectively, we advocate the importance of advancing research in this area toward innovative strategies to effectively manipulate plant-microbiome composition, in this case, via flavonoid production and exudation in plant roots. Video Abstract.
+
+[Source](https://doi.org/10.1186/s40168-022-01420-x)
+
+10.1186/s40168-022-01420-x
+
+---
+
+## An economic and robust TMT labeling approach for high throughput proteomic and metaproteomic analysis.
+ 18.12.2022, _M Creskey, L Li, Z Ning, EE Brown, J Mayne, K Walker, A Ampaw, R Ben, X Zhang, D Figeys_
+
+
+Multiplexed quantitative proteomics using tandem mass tag (TMT) is increasingly used in -omic study of complex samples. While TMT-based proteomics has the advantages of the higher quantitative accuracy, fewer missing values, and reduced instrument analysis time, it is limited by the additional reagent cost. In addition, current TMT labeling workflows involve repeated small volume pipetting of reagents in volatile solvents, which may increase the sample-to-sample variations and is not readily suitable for high throughput applications. In this study, we demonstrated that the TMT labeling procedures could be streamlined by using pre-aliquoted dry TMT reagents in a 96 well plate or 12-tube strip. As little as 50 μg dry TMT per channel was used to label 6-12 μg peptides, yielding high TMT labeling efficiency (∼99%) in both microbiome and mammalian cell line samples. We applied this workflow to analyze 97 samples in a study to evaluate whether ice recrystallization inhibitors improve the cultivability and activity of frozen microbiota. The results demonstrated tight sample clustering corresponding to groups and consistent microbiome responses to prebiotic treatments. This study supports the use of TMT reagents that are pre-aliquoted, dried, and stored for robust quantitative proteomics and metaproteomics in high throughput applications. This article is protected by copyright. All rights reserved.
+
+[Source](https://doi.org/10.1002/pmic.202200116)
+
+10.1002/pmic.202200116
+
+---
+
+## Machine learning-derived gut microbiome signature predicts fatty liver disease in the presence of insulin resistance.
+ 19.12.2022, _BE Kang, A Park, H Yang, Y Jo, TG Oh, SM Jeong, Y Ji, HL Kim, HN Kim, J Auwerx, S Nam, CY Park, D Ryu_
+
+
+A simple predictive biomarker for fatty liver disease is required for individuals with insulin resistance. Here, we developed a supervised machine learning-based classifier for fatty liver disease using fecal 16S rDNA sequencing data. Based on the Kangbuk Samsung Hospital cohort (n = 777), we generated a random forest classifier to predict fatty liver diseases in individuals with or without insulin resistance (n = 166 and n = 611, respectively). The model performance was evaluated based on metrics, including accuracy, area under receiver operating curve (AUROC), kappa, and F1-score. The developed classifier for fatty liver diseases performed better in individuals with insulin resistance (AUROC = 0.77). We further optimized the classifiers using genetic algorithm. The improved classifier for insulin resistance, consisting of ten microbial genera, presented an advanced classification (AUROC = 0.93), whereas the improved classifier for insulin-sensitive individuals failed to distinguish participants with fatty liver diseases from the healthy. The classifier for individuals with insulin resistance was comparable or superior to previous methods predicting fatty liver diseases (accuracy = 0.83, kappa = 0.50, F1-score = 0.89), such as the fatty liver index. We identified the ten genera as a core set from the human gut microbiome, which could be a diagnostic biomarker of fatty liver diseases for insulin resistant individuals. Collectively, these findings indicate that the machine learning classifier for fatty liver diseases in the presence of insulin resistance is comparable or superior to commonly used methods.
+
+[Source](https://doi.org/10.1038/s41598-022-26102-4)
+
+10.1038/s41598-022-26102-4
+
+---
+
+## Dynamics of the Gut Bacteriome During a Laboratory Adaptation Process of the Mediterranean Fruit Fly, Ceratitis capitata.
+ 19.07.2022, _N Bel Mokhtar, M Catalá-Oltra, P Stathopoulou, E Asimakis, I Remmal, N Remmas, A Maurady, MR Britel, J García de Oteyza, G Tsiamis, Ó Dembilio_
+
+
+Laboratory adaptation process used in sterile insect technique (SIT) programs can exert a significant impact on the insect-gut microbiome relationship, which may negatively impact the quality and performance of the fly. In the present study, changes in the gut microbiota that occur through laboratory adaptation of two Ceratitis capitata populations were investigated: Vienna 8 genetic sexing strain (GSS), a long-established control line, and a wild population recently introduced to laboratory conditions. The bacterial profiles were studied for both strains using amplicon sequencing of the 16S rRNA V3-V4 hypervariable region in larvae and in the gastrointestinal tract of teneral (1 day) and adults (5 and 15 days) reared under laboratory conditions for 14 generations (F0-F13). Findings demonstrated the development of distinct bacterial communities across the generations with differences in the bacterial composition, suggesting a strong impact of laboratory adaptation on the fly bacteriome. Moreover, different bacterial profiles were observed between wild and Vienna 8 FD-GSS displaying different patterns between the developmental stages. Proteobacteria, mainly members of the Enterobacteriaceae family, represented the major component of the bacterial community followed by Firmicutes (mainly in Vienna 8 FD-GSS adults) and Chlamydiae. The distribution of these communities is dynamic across the generations and seems to be strain- and age-specific. In the Vienna 8 FD-GSS population, Providencia exhibited high relative abundance in the first three generations and decreased significantly later, while Klebsiella was relatively stable. In the wild population, Klebsiella was dominant across most of the generations, indicating that the wild population was more resistant to artificial rearing conditions compared with the Vienna 8 FD-GSS colony. Analysis of the core bacteriome revealed the presence of nine shared taxa between most of the examined medfly samples including Klebsiella, Providencia, Pantoea, and Pseudomonas. In addition, the operational taxonomic unit co-occurrence and mutual exclusion networks of the wild population indicated that most of the interactions were classified as co-presence, while in the Vienna 8 FD-GSS population, the number of mutual exclusions and co-presence interactions was equally distributed. Obtained results provided a thorough study of the dynamics of gut-associated bacteria during the laboratory adaptation of different Ceratitis capitata populations, serving as guidance for the design of colonization protocols, improving the effectiveness of artificial rearing and the SIT application.
+
+[Source](https://doi.org/10.1016/j.xpro.2022.101941)
+
+10.3389/fmicb.2022.919760
+
+---
+
+## <em>Pseudomonas</em>-specific 16S rRNA insect gut-microbiome profiling using next-generation sequencing
+
+[Source](https://doi.org/10.1016/j.xpro.2022.101941)
 
 ---
 
