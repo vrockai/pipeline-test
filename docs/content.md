@@ -1,7 +1,8 @@
 ## Multi-omic interactions in the gut of children at the onset of islet autoimmunity.
- 19.12.2022, _PG Gavin, KW Kim, ME Craig, MM Hill, EE Hamilton-Williams_
+ 20.12.2022, _PG Gavin, KW Kim, ME Craig, MM Hill, EE Hamilton-Williams_
 
 
+_Humans, Child, Child, Preschool, Autoimmunity, Diabetes Mellitus, Type 1, Islets of Langerhans, Multiomics, Microbiota_
 The gastrointestinal ecosystem is a highly complex environment with a profound influence on human health. Inflammation in the gut, linked to an altered gut microbiome, has been associated with the development of multiple human conditions including type 1 diabetes (T1D). Viruses infecting the gastrointestinal tract, especially enteroviruses, are also thought to play an important role in T1D pathogenesis possibly via overlapping mechanisms. However, it is not known whether the microbiome and virome act together or which risk factor may be of greater importance at the time when islet autoimmunity is initiated.
 
 [Source](https://doi.org/10.1186/s40168-022-01425-6)
@@ -35,9 +36,10 @@ Environmental enteric dysfunction (EED) is a subclinical syndrome of intestinal 
 ---
 
 ## Gastrointestinal Tract, Microbiota and Multiple Sclerosis (MS) and the Link Between Gut Microbiota and CNS.
- 19.12.2022, _B Yousefi, A Babaeizad, SZ Banihashemian, ZK Feyzabadi, M Dadashpour, D Pahlevan, H Ghaffari, M Eslami_
+ 20.12.2022, _B Yousefi, A Babaeizad, SZ Banihashemian, ZK Feyzabadi, M Dadashpour, D Pahlevan, H Ghaffari, M Eslami_
 
 
+_Humans, Gastrointestinal Microbiome, Multiple Sclerosis, Fatty Acids, Volatile, Microbiota, Gastrointestinal Tract, Central Nervous System_
 Multiple sclerosis (MS) is a chronic inflammatory disease characterized by central nervous system (CNS) lesions that can lead to severe neurological defects. Evidence is mounting that immune function is crucial in neuroinflammatory illnesses like MS. Through its impact on systemic immunological reactions, the large microbial population known as the gut microbiota has been linked to both human health and disease. The gut-brain axis (GBA) therefore encompasses neurological, immunological, and hormonal pathways, and microbiota can have a number of effects on the immune system, influencing MS. Recent research revealed a bidirectional relationship between metabolites originating from the gut microbiota, namely short-chain fatty acids (SCFAs). Intestinal epithelial cells are influenced by SCFAs, which also boosts the secretion of -Defensins and regenerating islet-derived III (REGIII) proteins. These proteins reduce intestinal pathogens, induce T-reg differentiation, and modulate immune responses by reducing IL-1 and IL-6 expression and increasing IL-10. Nutrition and psychological stress are two of the most significant elements that can directly and indirectly change the microbiota compositions along with other environmental influencing factors. An important regulator of intestinal physiology in the gut-brain-microbiota axis is butyrate, a well-known SCFA. Intestinal dysbiosis, altered intestinal barrier function, behavioral abnormalities, and activation of the hypothalamic-pituitary-adrenal (HPA) axis are all brought on by exposure. Probiotics, bacterial metabolite supplementation, fecal matter transplantation, defined microbial communities, and dietary intervention are some methods for modifying the composition of the gut microbiota that may be used to affect disease-related immune dysfunction and serve as the foundation for a new class of therapeutics.
 
 [Source](https://doi.org/10.1007/s00284-022-03150-7)
@@ -101,9 +103,10 @@ Fish microbiome science is progressing fast, but it is biased toward farmed or l
 ---
 
 ## Multifaceted roles of flavonoids mediating plant-microbe interactions.
- 19.12.2022, _L Wang, M Chen, PY Lam, F Dini-Andreote, L Dai, Z Wei_
+ 20.12.2022, _L Wang, M Chen, PY Lam, F Dini-Andreote, L Dai, Z Wei_
 
 
+_Rhizosphere, Flavonoids, Microbiota, Plants, Plant Roots, Soil Microbiology_
 Plant-microbe interactions dynamically affect plant growth, health, and development. The mechanisms underpinning these associations are-to a large extent-mediated by specialized host-derived secondary metabolites. Flavonoids are one of the most studied classes of such metabolites, regulating both plant development and the interaction with commensal microbes. Here, we provide a comprehensive review of the multiple roles of flavonoids in mediating plant-microbe interactions. First, we briefly summarize the general aspects of flavonoid synthesis, transport, and exudation in plants. Then, we review the importance of flavonoids regulating plant-microbe interactions and dynamically influencing the overall community assembly of plant-root microbiomes. Last, we highlight potential knowledge gaps in our understanding of how flavonoids determine the interactions between plants and commensal microbes. Collectively, we advocate the importance of advancing research in this area toward innovative strategies to effectively manipulate plant-microbiome composition, in this case, via flavonoid production and exudation in plant roots. Video Abstract.
 
 [Source](https://doi.org/10.1186/s40168-022-01420-x)
@@ -125,9 +128,10 @@ Multiplexed quantitative proteomics using tandem mass tag (TMT) is increasingly 
 ---
 
 ## Machine learning-derived gut microbiome signature predicts fatty liver disease in the presence of insulin resistance.
- 19.12.2022, _BE Kang, A Park, H Yang, Y Jo, TG Oh, SM Jeong, Y Ji, HL Kim, HN Kim, J Auwerx, S Nam, CY Park, D Ryu_
+ 20.12.2022, _BE Kang, A Park, H Yang, Y Jo, TG Oh, SM Jeong, Y Ji, HL Kim, HN Kim, J Auwerx, S Nam, CY Park, D Ryu_
 
 
+_Humans, Gastrointestinal Microbiome, Insulin Resistance, Non-alcoholic Fatty Liver Disease, Machine Learning, Insulins_
 A simple predictive biomarker for fatty liver disease is required for individuals with insulin resistance. Here, we developed a supervised machine learning-based classifier for fatty liver disease using fecal 16S rDNA sequencing data. Based on the Kangbuk Samsung Hospital cohort (n = 777), we generated a random forest classifier to predict fatty liver diseases in individuals with or without insulin resistance (n = 166 and n = 611, respectively). The model performance was evaluated based on metrics, including accuracy, area under receiver operating curve (AUROC), kappa, and F1-score. The developed classifier for fatty liver diseases performed better in individuals with insulin resistance (AUROC = 0.77). We further optimized the classifiers using genetic algorithm. The improved classifier for insulin resistance, consisting of ten microbial genera, presented an advanced classification (AUROC = 0.93), whereas the improved classifier for insulin-sensitive individuals failed to distinguish participants with fatty liver diseases from the healthy. The classifier for individuals with insulin resistance was comparable or superior to previous methods predicting fatty liver diseases (accuracy = 0.83, kappa = 0.50, F1-score = 0.89), such as the fatty liver index. We identified the ten genera as a core set from the human gut microbiome, which could be a diagnostic biomarker of fatty liver diseases for insulin resistant individuals. Collectively, these findings indicate that the machine learning classifier for fatty liver diseases in the presence of insulin resistance is comparable or superior to commonly used methods.
 
 [Source](https://doi.org/10.1038/s41598-022-26102-4)
