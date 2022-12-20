@@ -10,8 +10,8 @@ The gastrointestinal ecosystem is a highly complex environment with a profound i
 
 ---
 
-## The microbiota-gut-brain axis in pathogenesis of depression: a narrative review.
- 17.12.2022, _H Yao, D Zhang, H Yu, H Shen, H Liu, F Meng, X Wu, G Zhang, X Wang_
+## The microbiota-gut-brain axis in pathogenesis of depression: A narrative review.
+ 19.12.2022, _H Yao, D Zhang, H Yu, H Shen, H Liu, F Meng, X Wu, G Zhang, X Wang_
 
 
 The microbiota-gut-brain axis is a bidirectional regulatory pathway between the brain and the gastrointestinal tract, which plays an important role in maintain homeostasis. Gut microbiota could influence the behavior, cognition, stress response and others via the axis. Depression is a complex psychiatric disease, giving rise to heavy social health and economic burden. In recent years, studies have shown that the gut microbiota are closely linked to the pathophysiological processes of depression. In this article, the interaction and its underlying mechanisms between depression and gut microbiota were summarized.
