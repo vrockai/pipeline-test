@@ -1,5 +1,5 @@
 ## Multi-omic interactions in the gut of children at the onset of islet autoimmunity.
- 20.12.2022, _PG Gavin, KW Kim, ME Craig, MM Hill, EE Hamilton-Williams_
+ 21.12.2022, _PG Gavin, KW Kim, ME Craig, MM Hill, EE Hamilton-Williams_
 
 
 _Humans, Child, Child, Preschool, Autoimmunity, Diabetes Mellitus, Type 1, Islets of Langerhans, Multiomics, Microbiota_
@@ -49,7 +49,7 @@ Multiple sclerosis (MS) is a chronic inflammatory disease characterized by centr
 ---
 
 ## Effect of proton pump inhibitors in infants with esophageal atresia on the gut microbiome: a pilot cohort.
- 19.12.2022, _N Brusselaers, M Pereira, J Alm, L Engstrand, H Engstrand Lilja_
+ 21.12.2022, _N Brusselaers, M Pereira, J Alm, L Engstrand, H Engstrand Lilja_
 
 
 The effects of proton-pump inhibitors (PPIs) on the infant microbiome remain unclear. Swedish pilot cohort study to assess the longitudinal effect of long-term PPI on the infant gut microbiome, including ten newborn infants operated for esophageal atresia exposed to PPIs (mean 57 weeks), compared to healthy one-year-old controls. All children were born vaginally and were otherwise healthy. Within- and between sample diversity of the fecal microbiome was assessed using untargeted whole genome Shotgun metagenomics which sequences all the DNA in the sample and can capture genes rather than a taxonomic fingerprint.
@@ -73,7 +73,7 @@ Apical periodontitis (AP) represents an inflammatory condition of peri-radicular
 ---
 
 ## Gut Microbiota-Generated Phenylacetylglutamine and Heart Failure.
- 16.12.2022, _KA Romano, I Nemet, P Prasad Saha, A Haghikia, XS Li, ML Mohan, B Lovano, L Castel, M Witkowski, JA Buffa, Y Sun, L Li, CM Menge, I Demuth, M König, E Steinhagen-Thiessen, JA DiDonato, A Deb, F Bäckhed, WHW Tang, SV Naga Prasad, U Landmesser, DR Van Wagoner, SL Hazen_
+ 21.12.2022, _KA Romano, I Nemet, P Prasad Saha, A Haghikia, XS Li, ML Mohan, B Lovano, L Castel, M Witkowski, JA Buffa, Y Sun, L Li, CM Menge, I Demuth, M König, E Steinhagen-Thiessen, JA DiDonato, A Deb, F Bäckhed, WHW Tang, SV Naga Prasad, U Landmesser, DR Van Wagoner, SL Hazen_
 
 
 The gut microbiota-dependent metabolite phenylacetylgutamine (PAGln) is both associated with atherothrombotic heart disease in humans, and mechanistically linked to cardiovascular disease pathogenesis in animal models via modulation of adrenergic receptor signaling.
@@ -103,7 +103,7 @@ Fish microbiome science is progressing fast, but it is biased toward farmed or l
 ---
 
 ## Multifaceted roles of flavonoids mediating plant-microbe interactions.
- 20.12.2022, _L Wang, M Chen, PY Lam, F Dini-Andreote, L Dai, Z Wei_
+ 21.12.2022, _L Wang, M Chen, PY Lam, F Dini-Andreote, L Dai, Z Wei_
 
 
 _Rhizosphere, Flavonoids, Microbiota, Plants, Plant Roots, Soil Microbiology_
@@ -128,7 +128,7 @@ Multiplexed quantitative proteomics using tandem mass tag (TMT) is increasingly 
 ---
 
 ## Machine learning-derived gut microbiome signature predicts fatty liver disease in the presence of insulin resistance.
- 20.12.2022, _BE Kang, A Park, H Yang, Y Jo, TG Oh, SM Jeong, Y Ji, HL Kim, HN Kim, J Auwerx, S Nam, CY Park, D Ryu_
+ 21.12.2022, _BE Kang, A Park, H Yang, Y Jo, TG Oh, SM Jeong, Y Ji, HL Kim, HN Kim, J Auwerx, S Nam, CY Park, D Ryu_
 
 
 _Humans, Gastrointestinal Microbiome, Insulin Resistance, Non-alcoholic Fatty Liver Disease, Machine Learning, Insulins_
