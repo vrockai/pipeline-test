@@ -1,7 +1,8 @@
 ## Analysis of the oral microbiome during hormonal cycle and its alterations in menopausal women: the "AMICA" project.
- 21.12.2022, _A Tramice, D Paris, A Manca, FA Guevara Agudelo, S Petrosino, L Siracusa, M Carbone, D Melck, F Raymond, F Piscitelli_
+ 23.12.2022, _A Tramice, D Paris, A Manca, FA Guevara Agudelo, S Petrosino, L Siracusa, M Carbone, D Melck, F Raymond, F Piscitelli_
 
 
+_Female, Humans, Luteinizing Hormone, Follicle Stimulating Hormone, Menopause, Menstrual Cycle, Microbiota_
 The maintenance of human health is dependent on a symbiotic relationship between humans and associated bacteria. The diversity and abundance of each habitat's signature microbes vary widely among body areas and among them the oral microbiome plays a key role. Significant changes in the oral cavity, predominantly at salivary and periodontal level, have been associated with changes in estrogen levels. However, whether the oral microbiome is affected by hormonal level alterations is understudied. Hence the main objective pursued by AMICA project was to characterize the oral microbiome (saliva) in healthy women through: profiling studies using "omics" technologies (NMR-based metabolomics, targeted lipidomics by LC-MS, metagenomics by NGS); SinglePlex ELISA assays; glycosidase activity analyses and bioinformatic analysis. For this purpose, thirty-nine medically healthy women aged 26-77 years (19 with menstrual cycle and 20 in menopause) were recruited. Participants completed questionnaires assessing detailed medical and medication history and demographic characteristics. Plasmatic and salivary levels of sexual hormones were assessed (FSH, estradiol, LH and progesteron) at day 3 and 14 for women with menstrual cycle and only once for women in menopause. Salivary microbiome composition was assessed through meta-taxonomic 16S sequencing and overall, the salivary microbiome of most women remained relatively stable throughout the menstrual cycle and in menopause. Targeted lipidomics and untargeted metabolomics profiling were assessed through the use of LC-MS and NMR spectroscopy technologies, respectively and significant changes in terms of metabolites were identified in saliva of post-menopausal women in comparison to cycle. Moreover, glycosyl hydrolase activities were screened and showed that the β-D-hexosaminidase activity was the most present among those analyzed. Although this study has not identified significant alterations in the composition of the oral microbiome, multiomics analysis have revealed a strong correlation between 2-AG and α-mannosidase. In conclusion, the use of a multidisciplinary approach to investigate the oral microbiome of healthy women provided some indication about microbiome-derived predictive biomarkers that could be used in the future for developing new strategies to help to re-establish the correct hormonal balance in post-menopausal women.
 
 [Source](https://doi.org/10.1038/s41598-022-26528-w)
@@ -28,21 +29,40 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria
+## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria.
+ 22.12.2022, _Z Qi, Z Zhibo, Z Jing, Q Zhanbo, H Shugao, J Weili, L Jiang, H Shuwen_
+
+
+_Humans, Colorectal Neoplasms, RNA, Ribosomal, 16S, Bayes Theorem, Bacteria, Gastrointestinal Microbiome, Feces_
+The mortality of colorectal cancer is high, the malignant degree of poorly differentiated colorectal cancer is high, and the prognosis is poor.
 
 [Source](https://doi.org/10.1186/s12866-022-02712-w)
 
+10.1186/s12866-022-02712-w
+
 ---
 
-## Multidisciplinary Perinatal Care in IBD
+## Multidisciplinary Perinatal Care in IBD.
+ 21.12.2022, _L Godny, V Svolos, AJ Williams, W Czuber-Dochan, M Aloi, A Ibarra, DV O'Hanlon, G Dragoni, I Avni Biron, M Campmans-Kuijpers, P Collins, P Eder, T Pfeffer-Gik, S Jäghult, CL Wall_
+
+
+Patients with inflammatory bowel disease [IBD] are often affected during their reproductive years and may have many perinatal queries that require the comprehensive perspectives of a multidisciplinary team [MDT]. The purpose of this topical review is to assess the scientific evidence and provide expert opinion related to nutritional, psychological, and supportive care of women and their infants throughout the prenatal, antenatal, and infant periods.
 
 [Source](https://doi.org/10.1093/ecco-jcc/jjac189)
 
+10.1093/ecco-jcc/jjac189
+
 ---
 
-## A multi-omic brain gut microbiome signature differs between IBS subjects with different bowel habits
+## A multi-omic brain gut microbiome signature differs between IBS subjects with different bowel habits.
+ 20.12.2022, _RP Sarnoff, RR Bhatt, V Osadchiy, T Dong, JS Labus, LA Kilpatrick, Z Chen, V Subramanyam, Y Zhang, BM Ellingson, B Naliboff, L Chang, EA Mayer, A Gupta_
+
+
+Alterations of the brain-gut-microbiome system (BGM) have been implicated in the pathophysiology of irritable bowel syndrome (IBS), yet bowel habit-specific alterations have not been elucidated. In this cross-sectional study, we apply a systems biology approach to characterize BGM patterns related to predominant bowel habit. Fecal samples and resting state fMRI were obtained from 102 premenopausal women (36 constipation-predominant IBS (IBS-C), 27 diarrhea-predominant IBS (IBS-D), 39 healthy controls (HCs)). Data integration analysis using latent components (DIABLO) was used to integrate data from the phenome, microbiome, metabolome, and resting-state connectome to predict HCs vs IBS-C vs IBS-D. Bloating and visceral sensitivity, distinguishing IBS from HC, were negatively associated with beneficial microbes and connectivity involving the orbitofrontal cortex. This suggests that gut interactions may generate aberrant central autonomic and descending pain pathways in IBS. The connection between IBS symptom duration, key microbes, and caudate connectivity may provide mechanistic insight to the chronicity of pain in IBS. IBS-D had higher levels of many key metabolites including tryptophan and phenylalanine, and increased connectivity between the sensorimotor and default mode networks; thus, suggesting an influence on diarrhea, self-related thoughts, and pain perception in IBS-D ('bottom-up' mechanism). IBS-C's microbiome and metabolome resembled HCs, but had increased connectivity in the default mode and salience networks compared to IBS-D, which may indicate importance of visceral signals, suggesting a more 'top-down' BGM pathophysiology. These BGM characteristics highlight possible mechanistic differences for variations in the IBS bowel habit phenome.
 
 [Source](https://doi.org/10.1016/j.neuropharm.2022.109381)
+
+10.1016/j.neuropharm.2022.109381
 
 ---
 
@@ -58,9 +78,15 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## The effect of probiotic and synbiotic supplementation on appetite-regulating hormones and desire to eat: a systematic review and meta-analysis of clinical trials
+## The effect of probiotic and synbiotic supplementation on appetite-regulating hormones and desire to eat: a systematic review and meta-analysis of clinical trials.
+ 20.12.2022, _M Noormohammadi, Z Ghorbani, U Löber, M Mahdavi-Roshan, TUP Bartolomaeus, A Kazemi, N Shoaibinobarian, SK Forslund_
+
+
+Recent studies have demonstrated the effect of probiotics, prebiotics, and synbiotics on adiponectin and leptin levels; however, those findings remain contested. The present study aimed to explore the impact of probiotics/synbiotics on appetite-regulating hormones and the desire to eat.
 
 [Source](https://doi.org/10.1016/j.phrs.2022.106614)
+
+10.1016/j.phrs.2022.106614
 
 ---
 
@@ -70,15 +96,28 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## Functional Diversification of Oyster Big Defensins Generates Antimicrobial Specificity and Synergy against Members of the Microbiota
+## Functional Diversification of Oyster Big Defensins Generates Antimicrobial Specificity and Synergy against Members of the Microbiota.
+ 22.12.2022, _N De San Nicolas, A Asokan, RD Rosa, SN Voisin, MA Travers, G Rocha, L Dantan, Y Dorant, G Mitta, B Petton, GM Charrière, JM Escoubas, V Boulo, J Pouzadoux, H Meudal, K Loth, V Aucagne, AF Delmas, P Bulet, C Montagnani, D Destoumieux-Garzón_
+
+
+Big defensins are two-domain antimicrobial peptides (AMPs) that have highly diversified in mollusks. Cg-BigDefs are expressed by immune cells in the oyster Crassostrea gigas, and their expression is dampened during the Pacific Oyster Mortality Syndrome (POMS), which evolves toward fatal bacteremia. We evaluated whether Cg-BigDefs contribute to the control of oyster-associated microbial communities. Two Cg-BigDefs that are representative of molecular diversity within the peptide family, namely Cg-BigDef1 and Cg-BigDef5, were characterized by gene cloning and synthesized by solid-phase peptide synthesis and native chemical ligation. Synthetic peptides were tested for antibacterial activity against a collection of culturable bacteria belonging to the oyster microbiota, characterized by 16S sequencing and MALDI Biotyping. We first tested the potential of Cg-BigDefs to control the oyster microbiota by injecting synthetic Cg-BigDef1 into oyster tissues and analyzing microbiota dynamics over 24 h by 16S metabarcoding. Cg-BigDef1 induced a significant shift in oyster microbiota β-diversity after 6 h and 24 h, prompting us to investigate antimicrobial activities in vitro against members of the oyster microbiota. Both Cg-BigDef1 and Cg-BigDef5 were active at a high salt concentration (400 mM NaCl) and showed broad spectra of activity against bacteria associated with C. gigas pathologies. Antimicrobial specificity was observed for both molecules at an intra- and inter-genera level. Remarkably, antimicrobial spectra of Cg-BigDef1 and Cg-BigDef5 were complementary, and peptides acted synergistically. Overall, we found that primary sequence diversification of Cg-BigDefs has generated specificity and synergy and extended the spectrum of activity of this peptide family.
 
 [Source](https://doi.org/10.3390/md20120745)
 
+10.3390/md20120745
+
 ---
 
-## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice
+## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice.
+ 23.12.2022, _OS Chioma, EK Mallott, A Chapman, JC Van Amburg, H Wu, B Shah-Gandhi, N Dey, ME Kirkland, M Blanca Piazuelo, J Johnson, GR Bernard, SR Bodduluri, S Davison, B Haribabu, SR Bordenstein, WP Drake_
+
+
+_Mice, Humans, Animals, Pulmonary Fibrosis, Interleukin-17, Gastrointestinal Microbiome, Disease Models, Animal, Mice, Inbred C57BL, Acute Lung Injury_
+Independent studies demonstrate the significance of gut microbiota on the pathogenesis of chronic lung diseases; yet little is known regarding the role of the gut microbiota in lung fibrosis progression. Here we show, using the bleomycin murine model to quantify lung fibrosis in C57BL/6 J mice housed in germ-free, animal biosafety level 1 (ABSL-1), or animal biosafety level 2 (ABSL-2) environments, that germ-free mice are protected from lung fibrosis, while ABSL-1 and ABSL-2 mice develop mild and severe lung fibrosis, respectively. Metagenomic analysis reveals no notable distinctions between ABSL-1 and ABSL-2 lung microbiota, whereas greater microbial diversity, with increased Bifidobacterium and Lactobacilli, is present in ABSL-1 compared to ABSL-2 gut microbiota. Flow cytometric analysis reveals enhanced IL-6/STAT3/IL-17A signaling in pulmonary CD4 + T cells of ABSL-2 mice. Fecal transplantation of ABSL-2 stool into germ-free mice recapitulated more severe fibrosis than transplantation of ABSL-1 stool. Lactobacilli supernatant reduces collagen 1 A production in IL-17A- and TGFβ1-stimulated human lung fibroblasts. These findings support a functional role of the gut microbiota in augmenting lung fibrosis severity.
 
 [Source](https://doi.org/10.1038/s42003-022-04357-x)
+
+10.1038/s42003-022-04357-x
 
 ---
 
