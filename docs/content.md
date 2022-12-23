@@ -23,14 +23,20 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice
+## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice.
+ 21.12.2022, _T Gao, Z Wang, Y Dong, J Cao, Y Chen_
+
+
+Insufficient sleep is a key factor in the occurrence of intestinal diseases. This study was performed to clarify how sleep deficiency mediates the intestinal microbiota, metabolite butyrate disturbance induces intestinal mucosal damage, and butyrate ameliorates it. A questionnaire was launched for sleep and intestinal health issues. Twenty-two healthy volunteers were interviewed, and the influence of insufficient sleep on the gut microbiota and metabolite composition was explored. Moreover, a 72-h sleep deprivation (SD) mouse model with or without butyrate supplementation was used to reveal the effect of butyrate on ameliorating small intestines damage caused by SD. The questionnaire survey of 534 college students showed that among 85.39% of the students who slept less than 7 h, 41.76% were suffering from various bowel disorders. High-throughput 16S rRNA pyrosequencing demonstrated that SD and sleep restriction (SR) resulted in downregulation of Faecalibacterium and butyrate abundance in the feces of college students. Furthermore, we observed that butyrate supplementation markedly reversed sleep-deprivation-induced small intestinal mucosal injury in mice. Meanwhile, butyrate supplementation inverted the SD-caused inflammation response and oxidative stress and the decline of phospho-glycogen synthase kinase 3β (p-GSK-3β), β-catenin, Nrf2, and cyclin D1 and the increase in histone deacetylase 3 (HDAC3) and phospho-P65 (p-P65) proteins in the small intestines. Furthermore, in vitro, the ameliorative effects of butyrate were blocked by treatment with the HDAC3 agonist ITSA-1 and the Nrf2 antagonist ML385 and mimicked by treatment with the HDAC3 antagonist RGFP966 and p-P65 antagonist PDTC. Our study revealed that SD and SR downregulated butyrate production, further causing intestinal homeostasis dysfunction via the HDAC3-p-GSK-3β-β-catenin-Nrf2-NF-κB pathway. IMPORTANCE Radical inflammatory bowel disease (IBD) induced by sleep deficiency is a serious global public health threat. Butyrate, a member of the short-chain fatty acids, exerts multiple effects on it. However, existing research focuses on injury to the colon caused by insufficient sleep, while the changes in the small intestines are often overlooked. This study focused on revealing the influence of insufficient sleep on the intestinal microbiota and its metabolites and further revealed the ameliorative effect of butyrate on sleep deprivation (SD)-induced small intestinal mucosal damage in human and mice. Our studies suggest that butyrate can be used as a probiotic to restore SD-induced IBD and contribute to a better understanding of the mechanisms that govern the beneficial effects of butyrate.
 
 [Source](https://doi.org/10.1128/spectrum.02000-22)
+
+10.1128/spectrum.02000-22
 
 ---
 
 ## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria.
- 22.12.2022, _Z Qi, Z Zhibo, Z Jing, Q Zhanbo, H Shugao, J Weili, L Jiang, H Shuwen_
+ 23.12.2022, _Z Qi, Z Zhibo, Z Jing, Q Zhanbo, H Shugao, J Weili, L Jiang, H Shuwen_
 
 
 _Humans, Colorectal Neoplasms, RNA, Ribosomal, 16S, Bayes Theorem, Bacteria, Gastrointestinal Microbiome, Feces_
@@ -97,7 +103,7 @@ Recent studies have demonstrated the effect of probiotics, prebiotics, and synbi
 ---
 
 ## Functional Diversification of Oyster Big Defensins Generates Antimicrobial Specificity and Synergy against Members of the Microbiota.
- 22.12.2022, _N De San Nicolas, A Asokan, RD Rosa, SN Voisin, MA Travers, G Rocha, L Dantan, Y Dorant, G Mitta, B Petton, GM Charrière, JM Escoubas, V Boulo, J Pouzadoux, H Meudal, K Loth, V Aucagne, AF Delmas, P Bulet, C Montagnani, D Destoumieux-Garzón_
+ 23.12.2022, _N De San Nicolas, A Asokan, RD Rosa, SN Voisin, MA Travers, G Rocha, L Dantan, Y Dorant, G Mitta, B Petton, GM Charrière, JM Escoubas, V Boulo, J Pouzadoux, H Meudal, K Loth, V Aucagne, AF Delmas, P Bulet, C Montagnani, D Destoumieux-Garzón_
 
 
 Big defensins are two-domain antimicrobial peptides (AMPs) that have highly diversified in mollusks. Cg-BigDefs are expressed by immune cells in the oyster Crassostrea gigas, and their expression is dampened during the Pacific Oyster Mortality Syndrome (POMS), which evolves toward fatal bacteremia. We evaluated whether Cg-BigDefs contribute to the control of oyster-associated microbial communities. Two Cg-BigDefs that are representative of molecular diversity within the peptide family, namely Cg-BigDef1 and Cg-BigDef5, were characterized by gene cloning and synthesized by solid-phase peptide synthesis and native chemical ligation. Synthetic peptides were tested for antibacterial activity against a collection of culturable bacteria belonging to the oyster microbiota, characterized by 16S sequencing and MALDI Biotyping. We first tested the potential of Cg-BigDefs to control the oyster microbiota by injecting synthetic Cg-BigDef1 into oyster tissues and analyzing microbiota dynamics over 24 h by 16S metabarcoding. Cg-BigDef1 induced a significant shift in oyster microbiota β-diversity after 6 h and 24 h, prompting us to investigate antimicrobial activities in vitro against members of the oyster microbiota. Both Cg-BigDef1 and Cg-BigDef5 were active at a high salt concentration (400 mM NaCl) and showed broad spectra of activity against bacteria associated with C. gigas pathologies. Antimicrobial specificity was observed for both molecules at an intra- and inter-genera level. Remarkably, antimicrobial spectra of Cg-BigDef1 and Cg-BigDef5 were complementary, and peptides acted synergistically. Overall, we found that primary sequence diversification of Cg-BigDefs has generated specificity and synergy and extended the spectrum of activity of this peptide family.
@@ -146,7 +152,7 @@ Fecal microbiota transplantation (FMT) is a potential treatment for many intesti
 ---
 
 ## RIAM: A Universal Accessible Protocol for the Isolation of High Purity DNA from Various Soils and Other Humic Substances.
- 22.12.2022, _AG Pinaev, AA Kichko, TS Aksenova, VI Safronova, EV Kozhenkova, EE Andronov_
+ 23.12.2022, _AG Pinaev, AA Kichko, TS Aksenova, VI Safronova, EV Kozhenkova, EE Andronov_
 
 
 A single universal open protocol RIAM (named after Research Institute for Agricultural Microbiology) for the isolation of high purity DNA from different types of soils and other substrates (high and low in humic, clay content, organic fertilizer, etc.) is proposed. The main features of the RIAM protocol are the absence of the sorption-desorption stage on silica columns, the use of high concentrations of phosphate in buffers, which prevents DNA sorption on minerals, and DNA precipitation using CTAB. The performance of RIAM was compared with a reference commercial kit and showed very good results in relation to the purity and quantity of DNA, as well as the absence of inhibitory activity on PCR. In all cases, the RIAM ensured the isolation of DNA in quantities much greater than the commercial kit without the effect of PCR inhibition up to 50 ng DNA per reaction in a volume of 15 µL. The latter circumstance along with the ability of the protocol to extract low molecular weight DNA fractions makes the method especially suitable for those cases where quantitative assessments, detection of minor components of soil microbiota, and completeness of isolation of all DNA fractions are required.
