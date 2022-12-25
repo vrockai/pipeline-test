@@ -23,28 +23,15 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice.
- 21.12.2022, _T Gao, Z Wang, Y Dong, J Cao, Y Chen_
-
-
-Insufficient sleep is a key factor in the occurrence of intestinal diseases. This study was performed to clarify how sleep deficiency mediates the intestinal microbiota, metabolite butyrate disturbance induces intestinal mucosal damage, and butyrate ameliorates it. A questionnaire was launched for sleep and intestinal health issues. Twenty-two healthy volunteers were interviewed, and the influence of insufficient sleep on the gut microbiota and metabolite composition was explored. Moreover, a 72-h sleep deprivation (SD) mouse model with or without butyrate supplementation was used to reveal the effect of butyrate on ameliorating small intestines damage caused by SD. The questionnaire survey of 534 college students showed that among 85.39% of the students who slept less than 7 h, 41.76% were suffering from various bowel disorders. High-throughput 16S rRNA pyrosequencing demonstrated that SD and sleep restriction (SR) resulted in downregulation of Faecalibacterium and butyrate abundance in the feces of college students. Furthermore, we observed that butyrate supplementation markedly reversed sleep-deprivation-induced small intestinal mucosal injury in mice. Meanwhile, butyrate supplementation inverted the SD-caused inflammation response and oxidative stress and the decline of phospho-glycogen synthase kinase 3β (p-GSK-3β), β-catenin, Nrf2, and cyclin D1 and the increase in histone deacetylase 3 (HDAC3) and phospho-P65 (p-P65) proteins in the small intestines. Furthermore, in vitro, the ameliorative effects of butyrate were blocked by treatment with the HDAC3 agonist ITSA-1 and the Nrf2 antagonist ML385 and mimicked by treatment with the HDAC3 antagonist RGFP966 and p-P65 antagonist PDTC. Our study revealed that SD and SR downregulated butyrate production, further causing intestinal homeostasis dysfunction via the HDAC3-p-GSK-3β-β-catenin-Nrf2-NF-κB pathway. IMPORTANCE Radical inflammatory bowel disease (IBD) induced by sleep deficiency is a serious global public health threat. Butyrate, a member of the short-chain fatty acids, exerts multiple effects on it. However, existing research focuses on injury to the colon caused by insufficient sleep, while the changes in the small intestines are often overlooked. This study focused on revealing the influence of insufficient sleep on the intestinal microbiota and its metabolites and further revealed the ameliorative effect of butyrate on sleep deprivation (SD)-induced small intestinal mucosal damage in human and mice. Our studies suggest that butyrate can be used as a probiotic to restore SD-induced IBD and contribute to a better understanding of the mechanisms that govern the beneficial effects of butyrate.
+## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice
 
 [Source](https://doi.org/10.1128/spectrum.02000-22)
 
-10.1128/spectrum.02000-22
-
 ---
 
-## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria.
- 23.12.2022, _Z Qi, Z Zhibo, Z Jing, Q Zhanbo, H Shugao, J Weili, L Jiang, H Shuwen_
-
-
-_Humans, Colorectal Neoplasms, RNA, Ribosomal, 16S, Bayes Theorem, Bacteria, Gastrointestinal Microbiome, Feces_
-The mortality of colorectal cancer is high, the malignant degree of poorly differentiated colorectal cancer is high, and the prognosis is poor.
+## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria
 
 [Source](https://doi.org/10.1186/s12866-022-02712-w)
-
-10.1186/s12866-022-02712-w
 
 ---
 
@@ -84,15 +71,9 @@ Alterations of the brain-gut-microbiome system (BGM) have been implicated in the
 
 ---
 
-## The effect of probiotic and synbiotic supplementation on appetite-regulating hormones and desire to eat: A systematic review and meta-analysis of clinical trials.
- 24.12.2022, _M Noormohammadi, Z Ghorbani, U Löber, M Mahdavi-Roshan, TUP Bartolomaeus, A Kazemi, N Shoaibinobarian, SK Forslund_
-
-
-Recent studies have demonstrated the effect of probiotics, prebiotics, and synbiotics on adiponectin and leptin levels; however, those findings remain contested. The present study aimed to explore the impact of probiotics/synbiotics on appetite-regulating hormones and the desire to eat.
+## The effect of probiotic and synbiotic supplementation on appetite-regulating hormones and desire to eat: a systematic review and meta-analysis of clinical trials
 
 [Source](https://doi.org/10.1016/j.phrs.2022.106614)
-
-10.1016/j.phrs.2022.106614
 
 ---
 
@@ -102,28 +83,15 @@ Recent studies have demonstrated the effect of probiotics, prebiotics, and synbi
 
 ---
 
-## Functional Diversification of Oyster Big Defensins Generates Antimicrobial Specificity and Synergy against Members of the Microbiota.
- 24.12.2022, _N De San Nicolas, A Asokan, RD Rosa, SN Voisin, MA Travers, G Rocha, L Dantan, Y Dorant, G Mitta, B Petton, GM Charrière, JM Escoubas, V Boulo, J Pouzadoux, H Meudal, K Loth, V Aucagne, AF Delmas, P Bulet, C Montagnani, D Destoumieux-Garzón_
-
-
-Big defensins are two-domain antimicrobial peptides (AMPs) that have highly diversified in mollusks. Cg-BigDefs are expressed by immune cells in the oyster Crassostrea gigas, and their expression is dampened during the Pacific Oyster Mortality Syndrome (POMS), which evolves toward fatal bacteremia. We evaluated whether Cg-BigDefs contribute to the control of oyster-associated microbial communities. Two Cg-BigDefs that are representative of molecular diversity within the peptide family, namely Cg-BigDef1 and Cg-BigDef5, were characterized by gene cloning and synthesized by solid-phase peptide synthesis and native chemical ligation. Synthetic peptides were tested for antibacterial activity against a collection of culturable bacteria belonging to the oyster microbiota, characterized by 16S sequencing and MALDI Biotyping. We first tested the potential of Cg-BigDefs to control the oyster microbiota by injecting synthetic Cg-BigDef1 into oyster tissues and analyzing microbiota dynamics over 24 h by 16S metabarcoding. Cg-BigDef1 induced a significant shift in oyster microbiota β-diversity after 6 h and 24 h, prompting us to investigate antimicrobial activities in vitro against members of the oyster microbiota. Both Cg-BigDef1 and Cg-BigDef5 were active at a high salt concentration (400 mM NaCl) and showed broad spectra of activity against bacteria associated with C. gigas pathologies. Antimicrobial specificity was observed for both molecules at an intra- and inter-genera level. Remarkably, antimicrobial spectra of Cg-BigDef1 and Cg-BigDef5 were complementary, and peptides acted synergistically. Overall, we found that primary sequence diversification of Cg-BigDefs has generated specificity and synergy and extended the spectrum of activity of this peptide family.
+## Functional Diversification of Oyster Big Defensins Generates Antimicrobial Specificity and Synergy against Members of the Microbiota
 
 [Source](https://doi.org/10.3390/md20120745)
 
-10.3390/md20120745
-
 ---
 
-## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice.
- 24.12.2022, _OS Chioma, EK Mallott, A Chapman, JC Van Amburg, H Wu, B Shah-Gandhi, N Dey, ME Kirkland, M Blanca Piazuelo, J Johnson, GR Bernard, SR Bodduluri, S Davison, B Haribabu, SR Bordenstein, WP Drake_
-
-
-_Mice, Humans, Animals, Pulmonary Fibrosis, Interleukin-17, Gastrointestinal Microbiome, Disease Models, Animal, Mice, Inbred C57BL, Acute Lung Injury_
-Independent studies demonstrate the significance of gut microbiota on the pathogenesis of chronic lung diseases; yet little is known regarding the role of the gut microbiota in lung fibrosis progression. Here we show, using the bleomycin murine model to quantify lung fibrosis in C57BL/6 J mice housed in germ-free, animal biosafety level 1 (ABSL-1), or animal biosafety level 2 (ABSL-2) environments, that germ-free mice are protected from lung fibrosis, while ABSL-1 and ABSL-2 mice develop mild and severe lung fibrosis, respectively. Metagenomic analysis reveals no notable distinctions between ABSL-1 and ABSL-2 lung microbiota, whereas greater microbial diversity, with increased Bifidobacterium and Lactobacilli, is present in ABSL-1 compared to ABSL-2 gut microbiota. Flow cytometric analysis reveals enhanced IL-6/STAT3/IL-17A signaling in pulmonary CD4 + T cells of ABSL-2 mice. Fecal transplantation of ABSL-2 stool into germ-free mice recapitulated more severe fibrosis than transplantation of ABSL-1 stool. Lactobacilli supernatant reduces collagen 1 A production in IL-17A- and TGFβ1-stimulated human lung fibroblasts. These findings support a functional role of the gut microbiota in augmenting lung fibrosis severity.
+## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice
 
 [Source](https://doi.org/10.1038/s42003-022-04357-x)
-
-10.1038/s42003-022-04357-x
 
 ---
 
@@ -133,15 +101,9 @@ Independent studies demonstrate the significance of gut microbiota on the pathog
 
 ---
 
-## The Mechanism of Important Components in Canine Fecal Microbiota Transplantation.
- 24.12.2022, _K Li, J Yang, X Zhou, H Wang, Y Ren, Y Huang, H Liu, Z Zhong, G Peng, C Zheng, Z Zhou_
-
-
-Fecal microbiota transplantation (FMT) is a potential treatment for many intestinal diseases. In dogs, FMT has been shown to have positive regulation effects in treating Clostridioides difficile infection (CDI), inflammatory bowel disease (IBD), canine parvovirus (CPV) enteritis, acute diarrhea (AD), and acute hemorrhagic diarrhea syndrome (AHDS). FMT involves transplanting the functional components of a donor's feces into the gastrointestinal tract of the recipient. The effective components of FMT not only include commensal bacteria, but also include viruses, fungi, bacterial metabolites, and immunoglobulin A (IgA) from the donor feces. By affecting microbiota and regulating host immunity, these components can help the recipient to restore their microbial community, improve their intestinal barrier, and induce anti-inflammation in their intestines, thereby affecting the development of diseases. In addition to the above components, mucin proteins and intestinal epithelial cells (IECs) may be functional ingredients in FMT as well. In addition to the abovementioned indications, FMT is also thought to be useful in treating some other diseases in dogs. Consequently, when preparing FMT fecal material, it is important to preserve the functional components involved. Meanwhile, appropriate fecal material delivery methods should be chosen according to the mechanisms these components act by in FMT.
+## The Mechanism of Important Components in Canine Fecal Microbiota Transplantation
 
 [Source](https://doi.org/10.3390/vetsci9120695)
-
-10.3390/vetsci9120695
 
 ---
 
@@ -152,7 +114,7 @@ Fecal microbiota transplantation (FMT) is a potential treatment for many intesti
 ---
 
 ## RIAM: A Universal Accessible Protocol for the Isolation of High Purity DNA from Various Soils and Other Humic Substances.
- 24.12.2022, _AG Pinaev, AA Kichko, TS Aksenova, VI Safronova, EV Kozhenkova, EE Andronov_
+ 25.12.2022, _AG Pinaev, AA Kichko, TS Aksenova, VI Safronova, EV Kozhenkova, EE Andronov_
 
 
 A single universal open protocol RIAM (named after Research Institute for Agricultural Microbiology) for the isolation of high purity DNA from different types of soils and other substrates (high and low in humic, clay content, organic fertilizer, etc.) is proposed. The main features of the RIAM protocol are the absence of the sorption-desorption stage on silica columns, the use of high concentrations of phosphate in buffers, which prevents DNA sorption on minerals, and DNA precipitation using CTAB. The performance of RIAM was compared with a reference commercial kit and showed very good results in relation to the purity and quantity of DNA, as well as the absence of inhibitory activity on PCR. In all cases, the RIAM ensured the isolation of DNA in quantities much greater than the commercial kit without the effect of PCR inhibition up to 50 ng DNA per reaction in a volume of 15 µL. The latter circumstance along with the ability of the protocol to extract low molecular weight DNA fractions makes the method especially suitable for those cases where quantitative assessments, detection of minor components of soil microbiota, and completeness of isolation of all DNA fractions are required.
