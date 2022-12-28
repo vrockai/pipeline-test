@@ -77,9 +77,16 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice
+## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice.
+ 24.12.2022, _OS Chioma, EK Mallott, A Chapman, JC Van Amburg, H Wu, B Shah-Gandhi, N Dey, ME Kirkland, M Blanca Piazuelo, J Johnson, GR Bernard, SR Bodduluri, S Davison, B Haribabu, SR Bordenstein, WP Drake_
+
+
+_Mice, Humans, Animals, Pulmonary Fibrosis, Interleukin-17, Gastrointestinal Microbiome, Disease Models, Animal, Mice, Inbred C57BL, Acute Lung Injury_
+Independent studies demonstrate the significance of gut microbiota on the pathogenesis of chronic lung diseases; yet little is known regarding the role of the gut microbiota in lung fibrosis progression. Here we show, using the bleomycin murine model to quantify lung fibrosis in C57BL/6 J mice housed in germ-free, animal biosafety level 1 (ABSL-1), or animal biosafety level 2 (ABSL-2) environments, that germ-free mice are protected from lung fibrosis, while ABSL-1 and ABSL-2 mice develop mild and severe lung fibrosis, respectively. Metagenomic analysis reveals no notable distinctions between ABSL-1 and ABSL-2 lung microbiota, whereas greater microbial diversity, with increased Bifidobacterium and Lactobacilli, is present in ABSL-1 compared to ABSL-2 gut microbiota. Flow cytometric analysis reveals enhanced IL-6/STAT3/IL-17A signaling in pulmonary CD4 + T cells of ABSL-2 mice. Fecal transplantation of ABSL-2 stool into germ-free mice recapitulated more severe fibrosis than transplantation of ABSL-1 stool. Lactobacilli supernatant reduces collagen 1 A production in IL-17A- and TGFβ1-stimulated human lung fibroblasts. These findings support a functional role of the gut microbiota in augmenting lung fibrosis severity.
 
 [Source](https://doi.org/10.1038/s42003-022-04357-x)
+
+10.1038/s42003-022-04357-x
 
 ---
 
