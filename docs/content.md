@@ -23,15 +23,28 @@ The maintenance of human health is dependent on a symbiotic relationship between
 
 ---
 
-## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice
+## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice.
+ 21.12.2022, _T Gao, Z Wang, Y Dong, J Cao, Y Chen_
+
+
+Insufficient sleep is a key factor in the occurrence of intestinal diseases. This study was performed to clarify how sleep deficiency mediates the intestinal microbiota, metabolite butyrate disturbance induces intestinal mucosal damage, and butyrate ameliorates it. A questionnaire was launched for sleep and intestinal health issues. Twenty-two healthy volunteers were interviewed, and the influence of insufficient sleep on the gut microbiota and metabolite composition was explored. Moreover, a 72-h sleep deprivation (SD) mouse model with or without butyrate supplementation was used to reveal the effect of butyrate on ameliorating small intestines damage caused by SD. The questionnaire survey of 534 college students showed that among 85.39% of the students who slept less than 7 h, 41.76% were suffering from various bowel disorders. High-throughput 16S rRNA pyrosequencing demonstrated that SD and sleep restriction (SR) resulted in downregulation of Faecalibacterium and butyrate abundance in the feces of college students. Furthermore, we observed that butyrate supplementation markedly reversed sleep-deprivation-induced small intestinal mucosal injury in mice. Meanwhile, butyrate supplementation inverted the SD-caused inflammation response and oxidative stress and the decline of phospho-glycogen synthase kinase 3β (p-GSK-3β), β-catenin, Nrf2, and cyclin D1 and the increase in histone deacetylase 3 (HDAC3) and phospho-P65 (p-P65) proteins in the small intestines. Furthermore, in vitro, the ameliorative effects of butyrate were blocked by treatment with the HDAC3 agonist ITSA-1 and the Nrf2 antagonist ML385 and mimicked by treatment with the HDAC3 antagonist RGFP966 and p-P65 antagonist PDTC. Our study revealed that SD and SR downregulated butyrate production, further causing intestinal homeostasis dysfunction via the HDAC3-p-GSK-3β-β-catenin-Nrf2-NF-κB pathway. IMPORTANCE Radical inflammatory bowel disease (IBD) induced by sleep deficiency is a serious global public health threat. Butyrate, a member of the short-chain fatty acids, exerts multiple effects on it. However, existing research focuses on injury to the colon caused by insufficient sleep, while the changes in the small intestines are often overlooked. This study focused on revealing the influence of insufficient sleep on the intestinal microbiota and its metabolites and further revealed the ameliorative effect of butyrate on sleep deprivation (SD)-induced small intestinal mucosal damage in human and mice. Our studies suggest that butyrate can be used as a probiotic to restore SD-induced IBD and contribute to a better understanding of the mechanisms that govern the beneficial effects of butyrate.
 
 [Source](https://doi.org/10.1128/spectrum.02000-22)
 
+10.1128/spectrum.02000-22
+
 ---
 
-## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria
+## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria.
+ 23.12.2022, _Z Qi, Z Zhibo, Z Jing, Q Zhanbo, H Shugao, J Weili, L Jiang, H Shuwen_
+
+
+_Humans, Colorectal Neoplasms, RNA, Ribosomal, 16S, Bayes Theorem, Bacteria, Gastrointestinal Microbiome, Feces_
+The mortality of colorectal cancer is high, the malignant degree of poorly differentiated colorectal cancer is high, and the prognosis is poor.
 
 [Source](https://doi.org/10.1186/s12866-022-02712-w)
+
+10.1186/s12866-022-02712-w
 
 ---
 
