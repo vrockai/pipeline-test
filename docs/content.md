@@ -1,115 +1,133 @@
-## Analysis of the oral microbiome during hormonal cycle and its alterations in menopausal women: the "AMICA" project.
- 24.12.2022, _A Tramice, D Paris, A Manca, FA Guevara Agudelo, S Petrosino, L Siracusa, M Carbone, D Melck, F Raymond, F Piscitelli_
+## Microbiome Characteristics in Early Threatened Miscarriage Study (MCETMS): a study protocol for a prospective cohort investigation in China.
+ 29.12.2022, _X Chen, Y Guo, Y Zhang, C Si, H Zhang, X Huang, S Luo, G Deng, J Gao_
 
 
-_Female, Humans, Luteinizing Hormone, Follicle Stimulating Hormone, Menopause, Menstrual Cycle, Microbiota_
-The maintenance of human health is dependent on a symbiotic relationship between humans and associated bacteria. The diversity and abundance of each habitat's signature microbes vary widely among body areas and among them the oral microbiome plays a key role. Significant changes in the oral cavity, predominantly at salivary and periodontal level, have been associated with changes in estrogen levels. However, whether the oral microbiome is affected by hormonal level alterations is understudied. Hence the main objective pursued by AMICA project was to characterize the oral microbiome (saliva) in healthy women through: profiling studies using "omics" technologies (NMR-based metabolomics, targeted lipidomics by LC-MS, metagenomics by NGS); SinglePlex ELISA assays; glycosidase activity analyses and bioinformatic analysis. For this purpose, thirty-nine medically healthy women aged 26-77 years (19 with menstrual cycle and 20 in menopause) were recruited. Participants completed questionnaires assessing detailed medical and medication history and demographic characteristics. Plasmatic and salivary levels of sexual hormones were assessed (FSH, estradiol, LH and progesteron) at day 3 and 14 for women with menstrual cycle and only once for women in menopause. Salivary microbiome composition was assessed through meta-taxonomic 16S sequencing and overall, the salivary microbiome of most women remained relatively stable throughout the menstrual cycle and in menopause. Targeted lipidomics and untargeted metabolomics profiling were assessed through the use of LC-MS and NMR spectroscopy technologies, respectively and significant changes in terms of metabolites were identified in saliva of post-menopausal women in comparison to cycle. Moreover, glycosyl hydrolase activities were screened and showed that the β-D-hexosaminidase activity was the most present among those analyzed. Although this study has not identified significant alterations in the composition of the oral microbiome, multiomics analysis have revealed a strong correlation between 2-AG and α-mannosidase. In conclusion, the use of a multidisciplinary approach to investigate the oral microbiome of healthy women provided some indication about microbiome-derived predictive biomarkers that could be used in the future for developing new strategies to help to re-establish the correct hormonal balance in post-menopausal women.
+Studies have suggested that the vaginal microbiome and gut microbiome are involved in pregnancy-related diseases, but little exploration of the link with early miscarriage or threatened miscarriage (TM) has been done. Whether the characteristics of the vaginal microbiome and gut microbiome in early pregnancy are related to TM and early pregnancy outcomes remains unclear.
 
-[Source](https://doi.org/10.1038/s41598-022-26528-w)
+[Source](https://doi.org/10.1136/bmjopen-2021-057328)
 
-10.1038/s41598-022-26528-w
-
----
-
-## Diversity and Prevalence of <em>Clostridium innocuum</em> in the Human Gut Microbiota
-
-[Source](https://doi.org/10.1128/msphere.00569-22)
+10.1136/bmjopen-2021-057328
 
 ---
 
-## A multiomics analysis of direct interkingdom dynamics between influenza A virus and <em>Streptococcus pneumoniae</em> uncovers host-independent changes to bacterial virulence fitness
+## Mapping the early life gut microbiome in neonates with critical congenital heart disease: multiomics insights and implications for host metabolic and immunological health.
+ 29.12.2022, _Y Huang, W Lu, M Zeng, X Hu, Z Su, Y Liu, Z Liu, J Yuan, L Li, X Zhang, L Huang, W Hu, X Wang, S Li, H Zhang_
 
-[Source](https://doi.org/10.1371/journal.ppat.1011020)
 
----
+The early life gut microbiome is crucial in maintaining host metabolic and immune homeostasis. Though neonates with critical congenital heart disease (CCHD) are at substantial risks of malnutrition and immune imbalance, the microbial links to CCHD pathophysiology remain poorly understood. In this study, we aimed to investigate the gut microbiome in neonates with CCHD in association with metabolomic traits. Moreover, we explored the clinical implications of the host-microbe interactions in CCHD.
 
-## Butyrate Ameliorates Insufficient Sleep-Induced Intestinal Mucosal Damage in Humans and Mice
+[Source](https://doi.org/10.1186/s40168-022-01437-2)
 
-[Source](https://doi.org/10.1128/spectrum.02000-22)
-
----
-
-## Prediction model of poorly differentiated colorectal cancer (CRC) based on gut bacteria
-
-[Source](https://doi.org/10.1186/s12866-022-02712-w)
+10.1186/s40168-022-01437-2
 
 ---
 
-## Multidisciplinary Perinatal Care in IBD
+## Metagenomic analysis reveals unexplored diversity of archaeal virome in the human gut.
+ 29.12.2022, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
 
-[Source](https://doi.org/10.1093/ecco-jcc/jjac189)
 
----
+The human gut microbiome has been extensively explored, while the archaeal viruses remain largely unknown. Here, we present a comprehensive analysis of the archaeal viruses from the human gut metagenomes and the existing virus collections using the CRISPR spacer and viral signature-based approach. This results in 1279 viral species, of which, 95.2% infect Methanobrevibacteria_A, 56.5% shared high identity (&gt;95%) with the archaeal proviruses, 37.2% have a host range across archaeal species, and 55.7% are highly prevalent in the human population (&gt;1%). A methanogenic archaeal virus-specific gene for pseudomurein endoisopeptidase (PeiW) frequently occurs in the viral sequences (n = 150). Analysis of 33 Caudoviricetes viruses with a complete genome often discovers the genes (integrase, n = 29; mazE, n = 10) regulating the viral lysogenic-lytic cycle, implying the dominance of temperate viruses in the archaeal virome. Together, our work uncovers the unexplored diversity of archaeal viruses, revealing the novel facet of the human gut microbiome.
 
-## A multi-omic brain gut microbiome signature differs between IBS subjects with different bowel habits
+[Source](https://doi.org/10.1038/s41467-022-35735-y)
 
-[Source](https://doi.org/10.1016/j.neuropharm.2022.109381)
-
----
-
-## From fecal microbiota transplantation toward next-generation beneficial microbes: The case of <em>Anaerobutyricum soehngenii</em>
-
-[Source](https://doi.org/10.3389/fmed.2022.1077275)
+10.1038/s41467-022-35735-y
 
 ---
 
-## Final Results from a Phase&nbsp;2b Randomized, Placebo-Controlled Clinical Trial of RBX2660: A Microbiota-Based Drug for the Prevention of Recurrent <em>Clostridioides difficile</em> Infection
+## Fecal level of butyric acid, a microbiome-derived metabolite, is increased in patients with severe carotid atherosclerosis.
+ 29.12.2022, _K Stø, J Valeur, T Ueland, GH Malmstrøm, V Bjerkeli, M Trøseid, JR Hov, K Holm, B Vestad, B Halvorsen, M Skjelland, KR Skagen_
 
-[Source](https://doi.org/10.1007/s40121-022-00744-3)
 
----
+_Humans, Butyric Acid, RNA, Ribosomal, 16S, Inflammasomes, Gastrointestinal Microbiome, Fatty Acids, Volatile, Microbiota, Feces, Carotid Artery Diseases_
+The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier and vascular endothelium. We aimed to investigate the association between fecal butyric acid, carotid atherosclerosis and risk factors for ischemic stroke. Patients with severe carotid atherosclerosis (i.e. ≥ 50% stenosis) (n = 43) were compared with healthy controls (n = 38). We analyzed fecal SCFAs by gas chromatography, microbiota composition by 16S rRNA sequencing, markers of gut barrier damage and inflammasome activation by immunoassay, and plasma SCFAs by ultra-high performance liquid chromatography-tandem mass spectroscopy. Patients had higher fecal butyric acid level (p = 0.024), along with increased functional potential of microbial butyric acid production (p = 0.031), compared with controls. Dietary fiber intake was comparable. Patients had higher levels of gut barrier damage markers CCL25 and IFABP, and the inflammasome activation marker IL-18, whereas plasma level of butyric was similar. Increased fecal butyric acid was associated with higher BMI, waist-hip ratio, HbA1c, CRP and leukocyte count. Contrary to our hypothesis, patients with severe carotid atherosclerosis had higher fecal butyric acid level, and increased microbial production, compared with controls. Gut barrier damage in patients might indicate decreased absorption of butyric acid and hence contribute to the higher fecal level.
 
-## The effect of probiotic and synbiotic supplementation on appetite-regulating hormones and desire to eat: a systematic review and meta-analysis of clinical trials
+[Source](https://doi.org/10.1038/s41598-022-26759-x)
 
-[Source](https://doi.org/10.1016/j.phrs.2022.106614)
-
----
-
-## Experimental Infection with <em>Mycoplasma hyopneumoniae</em> Strain 232 in Swine Influences the Lower Respiratory Microbiota
-
-[Source](https://doi.org/10.3390/vetsci9120674)
+10.1038/s41598-022-26759-x
 
 ---
 
-## Functional Diversification of Oyster Big Defensins Generates Antimicrobial Specificity and Synergy against Members of the Microbiota
+## Transition in vaginal <em>Lactobacillus</em> species during pregnancy and prediction of preterm birth in Korean women
 
-[Source](https://doi.org/10.3390/md20120745)
-
----
-
-## Gut microbiota modulates lung fibrosis severity following acute lung injury in mice
-
-[Source](https://doi.org/10.1038/s42003-022-04357-x)
+[Source](https://doi.org/10.1038/s41598-022-26058-5)
 
 ---
 
-## Effects of enhanced insect feeding on the faecal microbiota and transcriptome of a family of captive common marmosets (<em>Callithrix jacchus</em>)
+## Evaluating the ecological hypothesis: early life salivary microbiome assembly predicts dental caries in a longitudinal case-control study
 
-[Source](https://doi.org/10.1371/journal.pone.0279380)
-
----
-
-## The Mechanism of Important Components in Canine Fecal Microbiota Transplantation
-
-[Source](https://doi.org/10.3390/vetsci9120695)
+[Source](https://doi.org/10.1186/s40168-022-01442-5)
 
 ---
 
-## In vitro selection and characterization of probiotic properties in eight <em>Lactobacillus</em> strains isolated from cocoa fermentation
+## The effects of microbiota abundance on symptom severity in Parkinson’s disease: A systematic review
 
-[Source](https://doi.org/10.1590/0001-3765202220220013)
-
----
-
-## RIAM: A Universal Accessible Protocol for the Isolation of High Purity DNA from Various Soils and Other Humic Substances
-
-[Source](https://doi.org/10.3390/mps5060099)
+[Source](https://doi.org/10.3389/fnagi.2022.1020172)
 
 ---
 
-## Compositionality, sparsity, spurious heterogeneity, and other data-driven challenges for machine learning algorithms within plant microbiome studies
+## A systematic review of microbiome-derived biomarkers for early colorectal cancer detection
 
-[Source](https://doi.org/10.1016/j.pbi.2022.102326)
+[Source](https://doi.org/10.1016/j.neo.2022.100868)
+
+---
+
+## Current insights into skin lipids and their roles in cutaneous health and disease
+
+[Source](https://doi.org/10.1097/MCO.0000000000000902)
+
+---
+
+## <em>Akkermansia</em> supplementation reverses the tumor-promoting effect of the fecal microbiota transplantation in ovarian cancer
+
+[Source](https://doi.org/10.1016/j.celrep.2022.111890)
+
+---
+
+## A novel approach to <em>Lactiplantibacillus plantarum</em>: From probiotic properties to the omics insights
+
+[Source](https://doi.org/10.1016/j.micres.2022.127289)
+
+---
+
+## Prokaryotic and eukaryotic microbial communities associated with coral species have high host specificity in the South China Sea
+
+[Source](https://doi.org/10.1016/j.scitotenv.2022.161185)
+
+---
+
+## Assessing the causes and consequences of gut mycobiome variation in a wild population of the Seychelles warbler
+
+[Source](https://doi.org/10.1186/s40168-022-01432-7)
+
+---
+
+## Gut microbe <em>Lactiplantibacillus plantarum</em> undergoes different evolutionary trajectories between insects and mammals
+
+[Source](https://doi.org/10.1186/s12915-022-01477-y)
+
+---
+
+## Permafrost in the Cretaceous supergreenhouse
+
+[Source](https://doi.org/10.1038/s41467-022-35676-6)
+
+---
+
+## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes
+
+[Source](https://doi.org/10.1186/s40168-022-01417-6)
+
+---
+
+## Temporary establishment of bacteria from indoor plant leaves and soil on human skin
+
+[Source](https://doi.org/10.1186/s40793-022-00457-7)
+
+---
+
+## Stochastic variational variable selection for high-dimensional microbiome data
+
+[Source](https://doi.org/10.1186/s40168-022-01439-0)
 
 ---
 
