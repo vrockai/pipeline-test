@@ -11,7 +11,7 @@ Studies have suggested that the vaginal microbiome and gut microbiome are involv
 ---
 
 ## Mapping the early life gut microbiome in neonates with critical congenital heart disease: multiomics insights and implications for host metabolic and immunological health.
- 29.12.2022, _Y Huang, W Lu, M Zeng, X Hu, Z Su, Y Liu, Z Liu, J Yuan, L Li, X Zhang, L Huang, W Hu, X Wang, S Li, H Zhang_
+ 31.12.2022, _Y Huang, W Lu, M Zeng, X Hu, Z Su, Y Liu, Z Liu, J Yuan, L Li, X Zhang, L Huang, W Hu, X Wang, S Li, H Zhang_
 
 
 The early life gut microbiome is crucial in maintaining host metabolic and immune homeostasis. Though neonates with critical congenital heart disease (CCHD) are at substantial risks of malnutrition and immune imbalance, the microbial links to CCHD pathophysiology remain poorly understood. In this study, we aimed to investigate the gut microbiome in neonates with CCHD in association with metabolomic traits. Moreover, we explored the clinical implications of the host-microbe interactions in CCHD.
@@ -23,7 +23,7 @@ The early life gut microbiome is crucial in maintaining host metabolic and immun
 ---
 
 ## Metagenomic analysis reveals unexplored diversity of archaeal virome in the human gut.
- 29.12.2022, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
+ 31.12.2022, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
 
 
 The human gut microbiome has been extensively explored, while the archaeal viruses remain largely unknown. Here, we present a comprehensive analysis of the archaeal viruses from the human gut metagenomes and the existing virus collections using the CRISPR spacer and viral signature-based approach. This results in 1279 viral species, of which, 95.2% infect Methanobrevibacteria_A, 56.5% shared high identity (&gt;95%) with the archaeal proviruses, 37.2% have a host range across archaeal species, and 55.7% are highly prevalent in the human population (&gt;1%). A methanogenic archaeal virus-specific gene for pseudomurein endoisopeptidase (PeiW) frequently occurs in the viral sequences (n = 150). Analysis of 33 Caudoviricetes viruses with a complete genome often discovers the genes (integrase, n = 29; mazE, n = 10) regulating the viral lysogenic-lytic cycle, implying the dominance of temperate viruses in the archaeal virome. Together, our work uncovers the unexplored diversity of archaeal viruses, revealing the novel facet of the human gut microbiome.
