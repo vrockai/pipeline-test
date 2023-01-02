@@ -1,7 +1,8 @@
 ## Microbiome Characteristics in Early Threatened Miscarriage Study (MCETMS): a study protocol for a prospective cohort investigation in China.
- 01.01.2023, _X Chen, Y Guo, Y Zhang, C Si, H Zhang, X Huang, S Luo, G Deng, J Gao_
+ 02.01.2023, _X Chen, Y Guo, Y Zhang, C Si, H Zhang, X Huang, S Luo, G Deng, J Gao_
 
 
+_Pregnancy, Female, Humans, Abortion, Threatened, Prospective Studies, RNA, Ribosomal, 16S, Microbiota, Abortion, Spontaneous, Pregnancy Complications, China_
 Studies have suggested that the vaginal microbiome and gut microbiome are involved in pregnancy-related diseases, but little exploration of the link with early miscarriage or threatened miscarriage (TM) has been done. Whether the characteristics of the vaginal microbiome and gut microbiome in early pregnancy are related to TM and early pregnancy outcomes remains unclear.
 
 [Source](https://doi.org/10.1136/bmjopen-2021-057328)
@@ -11,9 +12,10 @@ Studies have suggested that the vaginal microbiome and gut microbiome are involv
 ---
 
 ## Mapping the early life gut microbiome in neonates with critical congenital heart disease: multiomics insights and implications for host metabolic and immunological health.
- 01.01.2023, _Y Huang, W Lu, M Zeng, X Hu, Z Su, Y Liu, Z Liu, J Yuan, L Li, X Zhang, L Huang, W Hu, X Wang, S Li, H Zhang_
+ 02.01.2023, _Y Huang, W Lu, M Zeng, X Hu, Z Su, Y Liu, Z Liu, J Yuan, L Li, X Zhang, L Huang, W Hu, X Wang, S Li, H Zhang_
 
 
+_Infant, Newborn, Humans, Gastrointestinal Microbiome, Multiomics, Inflammation, Bacteria, Heart Defects, Congenital, Dysbiosis_
 The early life gut microbiome is crucial in maintaining host metabolic and immune homeostasis. Though neonates with critical congenital heart disease (CCHD) are at substantial risks of malnutrition and immune imbalance, the microbial links to CCHD pathophysiology remain poorly understood. In this study, we aimed to investigate the gut microbiome in neonates with CCHD in association with metabolomic traits. Moreover, we explored the clinical implications of the host-microbe interactions in CCHD.
 
 [Source](https://doi.org/10.1186/s40168-022-01437-2)
@@ -23,9 +25,10 @@ The early life gut microbiome is crucial in maintaining host metabolic and immun
 ---
 
 ## Metagenomic analysis reveals unexplored diversity of archaeal virome in the human gut.
- 01.01.2023, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
+ 02.01.2023, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
 
 
+_Humans, Archaea, Metagenome, Virome, Viruses, Metagenomics, Archaeal Viruses_
 The human gut microbiome has been extensively explored, while the archaeal viruses remain largely unknown. Here, we present a comprehensive analysis of the archaeal viruses from the human gut metagenomes and the existing virus collections using the CRISPR spacer and viral signature-based approach. This results in 1279 viral species, of which, 95.2% infect Methanobrevibacteria_A, 56.5% shared high identity (&gt;95%) with the archaeal proviruses, 37.2% have a host range across archaeal species, and 55.7% are highly prevalent in the human population (&gt;1%). A methanogenic archaeal virus-specific gene for pseudomurein endoisopeptidase (PeiW) frequently occurs in the viral sequences (n = 150). Analysis of 33 Caudoviricetes viruses with a complete genome often discovers the genes (integrase, n = 29; mazE, n = 10) regulating the viral lysogenic-lytic cycle, implying the dominance of temperate viruses in the archaeal virome. Together, our work uncovers the unexplored diversity of archaeal viruses, revealing the novel facet of the human gut microbiome.
 
 [Source](https://doi.org/10.1038/s41467-022-35735-y)
@@ -65,15 +68,27 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## A systematic review of microbiome-derived biomarkers for early colorectal cancer detection
+## A systematic review of microbiome-derived biomarkers for early colorectal cancer detection.
+ 25.12.2022, _FH Zwezerijnen-Jiwa, H Sivov, P Paizs, K Zafeiropoulou, J Kinross_
+
+
+Increasing evidence suggests a role of the gut microbiome in the development of colorectal cancer (CRC) and that it can serve as a biomarker for early diagnosis. This review aims to give an overview of the current status of published studies regarding the microbiome as a screening tool for early CRC detection. A literature search was conducted using PubMed and EMBASE in August 2022. Studies assessing the efficacy of microbiome-derived biomarkers based on noninvasive derived samples were included. Not relevant studies or studies not specifying the stage of CRC or grouping them together in the analysis were excluded. The risk of bias for screening tools was performed using the QUADAS-2 checklist. A total of 28 studies were included, ranging from 2 to 462 for CRC and 18 to 665 advanced adenoma patient inclusions, of which only two investigated the co-metabolome as biomarker. The diagnostic performance of faecal bacteria-derived biomarkers had an AUC ranging from 0.28-0.98 for precursor lesions such as advanced adenomas and 0.54-0.89 for early CRC. Diagnostic performance based on the co-metabolome showed an AUC ranging from 0.69 - 0.84 for precursor lesions and 0.65 - 0.93 for early CRC. All models improved when combined with established clinical early detection markers such as gFOBT. A high level of heterogeneity was seen in the number of inclusions and methodology used in the studies. The faecal and oral gut microbiome has the potential to complement existing CRC screening tools, however current evidence suggests that this is not yet ready for routine clinical use.
 
 [Source](https://doi.org/10.1016/j.neo.2022.100868)
 
+10.1016/j.neo.2022.100868
+
 ---
 
-## Current insights into skin lipids and their roles in cutaneous health and disease
+## Current insights into skin lipids and their roles in cutaneous health and disease.
+ 27.12.2022, _A Nicolaou, AC Kendall_
+
+
+The unique and complex array of cutaneous lipids include essential components of the skin structure and signalling molecules mediating homeostasis and inflammation. Understanding skin lipid biology and metabolism can support our comprehension of health and disease, including systemic conditions with cutaneous involvement.
 
 [Source](https://doi.org/10.1097/MCO.0000000000000902)
+
+10.1097/MCO.0000000000000902
 
 ---
 
@@ -113,16 +128,9 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes.
- 30.12.2022, _T Grevesse, C Guéguen, VE Onana, DA Walsh_
-
-
-_Humic Substances, Oceans and Seas, Bacteria, Carbon, Microbiota_
-The Arctic Ocean receives massive freshwater input and a correspondingly large amount of humic-rich organic matter of terrestrial origin. Global warming, permafrost melt, and a changing hydrological cycle will contribute to an intensification of terrestrial organic matter release to the Arctic Ocean. Although considered recalcitrant to degradation due to complex aromatic structures, humic substances can serve as substrate for microbial growth in terrestrial environments. However, the capacity of marine microbiomes to process aromatic-rich humic substances, and how this processing may contribute to carbon and nutrient cycling in a changing Arctic Ocean, is relatively unexplored. Here, we used a combination of metagenomics and metatranscriptomics to assess the prevalence and diversity of metabolic pathways and bacterial taxa involved in aromatic compound degradation in the salinity-stratified summer waters of the Canada Basin in the western Arctic Ocean.
+## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes
 
 [Source](https://doi.org/10.1186/s40168-022-01417-6)
-
-10.1186/s40168-022-01417-6
 
 ---
 
