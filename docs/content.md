@@ -71,9 +71,15 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Current insights into skin lipids and their roles in cutaneous health and disease
+## Current insights into skin lipids and their roles in cutaneous health and disease.
+ 27.12.2022, _A Nicolaou, AC Kendall_
+
+
+The unique and complex array of cutaneous lipids include essential components of the skin structure and signalling molecules mediating homeostasis and inflammation. Understanding skin lipid biology and metabolism can support our comprehension of health and disease, including systemic conditions with cutaneous involvement.
 
 [Source](https://doi.org/10.1097/MCO.0000000000000902)
+
+10.1097/MCO.0000000000000902
 
 ---
 
@@ -113,21 +119,41 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes
+## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes.
+ 30.12.2022, _T Grevesse, C Guéguen, VE Onana, DA Walsh_
+
+
+_Humic Substances, Oceans and Seas, Bacteria, Carbon, Microbiota_
+The Arctic Ocean receives massive freshwater input and a correspondingly large amount of humic-rich organic matter of terrestrial origin. Global warming, permafrost melt, and a changing hydrological cycle will contribute to an intensification of terrestrial organic matter release to the Arctic Ocean. Although considered recalcitrant to degradation due to complex aromatic structures, humic substances can serve as substrate for microbial growth in terrestrial environments. However, the capacity of marine microbiomes to process aromatic-rich humic substances, and how this processing may contribute to carbon and nutrient cycling in a changing Arctic Ocean, is relatively unexplored. Here, we used a combination of metagenomics and metatranscriptomics to assess the prevalence and diversity of metabolic pathways and bacterial taxa involved in aromatic compound degradation in the salinity-stratified summer waters of the Canada Basin in the western Arctic Ocean.
 
 [Source](https://doi.org/10.1186/s40168-022-01417-6)
 
+10.1186/s40168-022-01417-6
+
 ---
 
-## Temporary establishment of bacteria from indoor plant leaves and soil on human skin
+## Temporary establishment of bacteria from indoor plant leaves and soil on human skin.
+ 29.12.2022, _GÁ Mhuireach, AK Fahimipour, R Vandegrift, ME Muscarella, R Hickey, AC Bateman, KG Van Den Wymelenberg, BJM Bohannan_
+
+
+Plants are found in a large percentage of indoor environments, yet the potential for bacteria associated with indoor plant leaves and soil to colonize human skin remains unclear. We report results of experiments in a controlled climate chamber to characterize bacterial communities inhabiting the substrates and leaves of five indoor plant species, and quantify microbial transfer dynamics and residence times on human skin following simulated touch contact events. Controlled bacterial propagule transfer events with soil and leaf donors were applied to the arms of human occupants and repeatedly measured over a 24-h period using 16S rRNA gene amplicon sequencing.
 
 [Source](https://doi.org/10.1186/s40793-022-00457-7)
 
+10.1186/s40793-022-00457-7
+
 ---
 
-## Stochastic variational variable selection for high-dimensional microbiome data
+## Stochastic variational variable selection for high-dimensional microbiome data.
+ 30.12.2022, _T Dang, K Kumaishi, E Usui, S Kobori, T Sato, Y Toda, Y Yamasaki, H Tsujimoto, Y Ichihashi, H Iwata_
+
+
+_Humans, Bayes Theorem, Algorithms, Microbiota, Gastrointestinal Microbiome, Metagenomics_
+The rapid and accurate identification of a minimal-size core set of representative microbial species plays an important role in the clustering of microbial community data and interpretation of clustering results. However, the huge dimensionality of microbial metagenomics datasets is a major challenge for the existing methods such as Dirichlet multinomial mixture (DMM) models. In the approach of the existing methods, the computational burden of identifying a small number of representative species from a large number of observed species remains a challenge.
 
 [Source](https://doi.org/10.1186/s40168-022-01439-0)
+
+10.1186/s40168-022-01439-0
 
 ---
 
