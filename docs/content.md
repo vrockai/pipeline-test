@@ -71,15 +71,9 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Current insights into skin lipids and their roles in cutaneous health and disease.
- 27.12.2022, _A Nicolaou, AC Kendall_
-
-
-The unique and complex array of cutaneous lipids include essential components of the skin structure and signalling molecules mediating homeostasis and inflammation. Understanding skin lipid biology and metabolism can support our comprehension of health and disease, including systemic conditions with cutaneous involvement.
+## Current insights into skin lipids and their roles in cutaneous health and disease
 
 [Source](https://doi.org/10.1097/MCO.0000000000000902)
-
-10.1097/MCO.0000000000000902
 
 ---
 
