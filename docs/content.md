@@ -62,15 +62,9 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## The effects of microbiota abundance on symptom severity in Parkinson's disease: A systematic review.
- 27.12.2022, _E Papić, V Rački, M Hero, Z Tomić, N Starčević-Čižmarević, A Kovanda, M Kapović, G Hauser, B Peterlin, V Vuletić_
-
-
-Parkinson's disease (PD) is neurodegenerative disease with a multifactorial etiopathogenesis with accumulating evidence identifying microbiota as a potential factor in the earliest, prodromal phases of the disease. Previous research has already shown a significant difference between gut microbiota composition in PD patients as opposed to healthy controls, with a growing number of studies correlating gut microbiota changes with the clinical presentation of the disease in later stages, through various motor and non-motor symptoms. Our aim in this systematic review is to compose and assess current knowledge in the field and determine if the findings could influence future clinical practice as well as therapy in PD.
+## The effects of microbiota abundance on symptom severity in Parkinson’s disease: A systematic review
 
 [Source](https://doi.org/10.3389/fnagi.2022.1020172)
-
-10.3389/fnagi.2022.1020172
 
 ---
 
@@ -134,16 +128,9 @@ Reef-building corals are well known for their obligate association with Symbiodi
 
 ---
 
-## Permafrost in the Cretaceous supergreenhouse.
- 29.12.2022, _JP Rodríguez-López, C Wu, TA Vishnivetskaya, JB Murton, W Tang, C Ma_
-
-
-_Permafrost, Oceans and Seas, Climate, Atmosphere, Arctic Regions_
-Earth's climate during the last 4.6 billion years has changed repeatedly between cold (icehouse) and warm (greenhouse) conditions. The hottest conditions (supergreenhouse) are widely assumed to have lacked an active cryosphere. Here we show that during the archetypal supergreenhouse Cretaceous Earth, an active cryosphere with permafrost existed in Chinese plateau deserts (astrochonological age ca. 132.49-132.17 Ma), and that a modern analogue for these plateau cryospheric conditions is the aeolian-permafrost system we report from the Qiongkuai Lebashi Lake area, Xinjiang Uygur Autonomous Region, China. Significantly, Cretaceous plateau permafrost was coeval with largely marine cryospheric indicators in the Arctic and Australia, indicating a strong coupling of the ocean-atmosphere system. The Cretaceous permafrost contained a rich microbiome at subtropical palaeolatitude and 3-4 km palaeoaltitude, analogous to recent permafrost in the western Himalayas. A mindset of persistent ice-free greenhouse conditions during the Cretaceous has stifled consideration of permafrost thaw as a contributor of C and nutrients to the palaeo-oceans and palaeo-atmosphere.
+## Permafrost in the Cretaceous supergreenhouse
 
 [Source](https://doi.org/10.1038/s41467-022-35676-6)
-
-10.1038/s41467-022-35676-6
 
 ---
 
