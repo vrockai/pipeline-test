@@ -25,7 +25,7 @@ The early life gut microbiome is crucial in maintaining host metabolic and immun
 ---
 
 ## Metagenomic analysis reveals unexplored diversity of archaeal virome in the human gut.
- 02.01.2023, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
+ 03.01.2023, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
 
 
 _Humans, Archaea, Metagenome, Virome, Viruses, Metagenomics, Archaeal Viruses_
@@ -110,27 +110,54 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Permafrost in the Cretaceous supergreenhouse
+## Permafrost in the Cretaceous supergreenhouse.
+ 03.01.2023, _JP Rodríguez-López, C Wu, TA Vishnivetskaya, JB Murton, W Tang, C Ma_
+
+
+_Permafrost, Oceans and Seas, Climate, Atmosphere, Arctic Regions_
+Earth's climate during the last 4.6 billion years has changed repeatedly between cold (icehouse) and warm (greenhouse) conditions. The hottest conditions (supergreenhouse) are widely assumed to have lacked an active cryosphere. Here we show that during the archetypal supergreenhouse Cretaceous Earth, an active cryosphere with permafrost existed in Chinese plateau deserts (astrochonological age ca. 132.49-132.17 Ma), and that a modern analogue for these plateau cryospheric conditions is the aeolian-permafrost system we report from the Qiongkuai Lebashi Lake area, Xinjiang Uygur Autonomous Region, China. Significantly, Cretaceous plateau permafrost was coeval with largely marine cryospheric indicators in the Arctic and Australia, indicating a strong coupling of the ocean-atmosphere system. The Cretaceous permafrost contained a rich microbiome at subtropical palaeolatitude and 3-4 km palaeoaltitude, analogous to recent permafrost in the western Himalayas. A mindset of persistent ice-free greenhouse conditions during the Cretaceous has stifled consideration of permafrost thaw as a contributor of C and nutrients to the palaeo-oceans and palaeo-atmosphere.
 
 [Source](https://doi.org/10.1038/s41467-022-35676-6)
 
+10.1038/s41467-022-35676-6
+
 ---
 
-## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes
+## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes.
+ 30.12.2022, _T Grevesse, C Guéguen, VE Onana, DA Walsh_
+
+
+_Humic Substances, Oceans and Seas, Bacteria, Carbon, Microbiota_
+The Arctic Ocean receives massive freshwater input and a correspondingly large amount of humic-rich organic matter of terrestrial origin. Global warming, permafrost melt, and a changing hydrological cycle will contribute to an intensification of terrestrial organic matter release to the Arctic Ocean. Although considered recalcitrant to degradation due to complex aromatic structures, humic substances can serve as substrate for microbial growth in terrestrial environments. However, the capacity of marine microbiomes to process aromatic-rich humic substances, and how this processing may contribute to carbon and nutrient cycling in a changing Arctic Ocean, is relatively unexplored. Here, we used a combination of metagenomics and metatranscriptomics to assess the prevalence and diversity of metabolic pathways and bacterial taxa involved in aromatic compound degradation in the salinity-stratified summer waters of the Canada Basin in the western Arctic Ocean.
 
 [Source](https://doi.org/10.1186/s40168-022-01417-6)
 
+10.1186/s40168-022-01417-6
+
 ---
 
-## Temporary establishment of bacteria from indoor plant leaves and soil on human skin
+## Temporary establishment of bacteria from indoor plant leaves and soil on human skin.
+ 29.12.2022, _GÁ Mhuireach, AK Fahimipour, R Vandegrift, ME Muscarella, R Hickey, AC Bateman, KG Van Den Wymelenberg, BJM Bohannan_
+
+
+Plants are found in a large percentage of indoor environments, yet the potential for bacteria associated with indoor plant leaves and soil to colonize human skin remains unclear. We report results of experiments in a controlled climate chamber to characterize bacterial communities inhabiting the substrates and leaves of five indoor plant species, and quantify microbial transfer dynamics and residence times on human skin following simulated touch contact events. Controlled bacterial propagule transfer events with soil and leaf donors were applied to the arms of human occupants and repeatedly measured over a 24-h period using 16S rRNA gene amplicon sequencing.
 
 [Source](https://doi.org/10.1186/s40793-022-00457-7)
 
+10.1186/s40793-022-00457-7
+
 ---
 
-## Stochastic variational variable selection for high-dimensional microbiome data
+## Stochastic variational variable selection for high-dimensional microbiome data.
+ 30.12.2022, _T Dang, K Kumaishi, E Usui, S Kobori, T Sato, Y Toda, Y Yamasaki, H Tsujimoto, Y Ichihashi, H Iwata_
+
+
+_Humans, Bayes Theorem, Algorithms, Microbiota, Gastrointestinal Microbiome, Metagenomics_
+The rapid and accurate identification of a minimal-size core set of representative microbial species plays an important role in the clustering of microbial community data and interpretation of clustering results. However, the huge dimensionality of microbial metagenomics datasets is a major challenge for the existing methods such as Dirichlet multinomial mixture (DMM) models. In the approach of the existing methods, the computational burden of identifying a small number of representative species from a large number of observed species remains a challenge.
 
 [Source](https://doi.org/10.1186/s40168-022-01439-0)
+
+10.1186/s40168-022-01439-0
 
 ---
 
