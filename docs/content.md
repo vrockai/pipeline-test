@@ -74,9 +74,15 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Current insights into skin lipids and their roles in cutaneous health and disease
+## Current insights into skin lipids and their roles in cutaneous health and disease.
+ 27.12.2022, _A Nicolaou, AC Kendall_
+
+
+The unique and complex array of cutaneous lipids include essential components of the skin structure and signalling molecules mediating homeostasis and inflammation. Understanding skin lipid biology and metabolism can support our comprehension of health and disease, including systemic conditions with cutaneous involvement.
 
 [Source](https://doi.org/10.1097/MCO.0000000000000902)
+
+10.1097/MCO.0000000000000902
 
 ---
 
@@ -122,15 +128,28 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Temporary establishment of bacteria from indoor plant leaves and soil on human skin
+## Temporary establishment of bacteria from indoor plant leaves and soil on human skin.
+ 29.12.2022, _GÁ Mhuireach, AK Fahimipour, R Vandegrift, ME Muscarella, R Hickey, AC Bateman, KG Van Den Wymelenberg, BJM Bohannan_
+
+
+Plants are found in a large percentage of indoor environments, yet the potential for bacteria associated with indoor plant leaves and soil to colonize human skin remains unclear. We report results of experiments in a controlled climate chamber to characterize bacterial communities inhabiting the substrates and leaves of five indoor plant species, and quantify microbial transfer dynamics and residence times on human skin following simulated touch contact events. Controlled bacterial propagule transfer events with soil and leaf donors were applied to the arms of human occupants and repeatedly measured over a 24-h period using 16S rRNA gene amplicon sequencing.
 
 [Source](https://doi.org/10.1186/s40793-022-00457-7)
 
+10.1186/s40793-022-00457-7
+
 ---
 
-## Stochastic variational variable selection for high-dimensional microbiome data
+## Stochastic variational variable selection for high-dimensional microbiome data.
+ 30.12.2022, _T Dang, K Kumaishi, E Usui, S Kobori, T Sato, Y Toda, Y Yamasaki, H Tsujimoto, Y Ichihashi, H Iwata_
+
+
+_Humans, Bayes Theorem, Algorithms, Microbiota, Gastrointestinal Microbiome, Metagenomics_
+The rapid and accurate identification of a minimal-size core set of representative microbial species plays an important role in the clustering of microbial community data and interpretation of clustering results. However, the huge dimensionality of microbial metagenomics datasets is a major challenge for the existing methods such as Dirichlet multinomial mixture (DMM) models. In the approach of the existing methods, the computational burden of identifying a small number of representative species from a large number of observed species remains a challenge.
 
 [Source](https://doi.org/10.1186/s40168-022-01439-0)
+
+10.1186/s40168-022-01439-0
 
 ---
 
