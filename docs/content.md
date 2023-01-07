@@ -62,39 +62,21 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## The effects of microbiota abundance on symptom severity in Parkinson's disease: A systematic review.
- 27.12.2022, _E Papić, V Rački, M Hero, Z Tomić, N Starčević-Čižmarević, A Kovanda, M Kapović, G Hauser, B Peterlin, V Vuletić_
-
-
-Parkinson's disease (PD) is neurodegenerative disease with a multifactorial etiopathogenesis with accumulating evidence identifying microbiota as a potential factor in the earliest, prodromal phases of the disease. Previous research has already shown a significant difference between gut microbiota composition in PD patients as opposed to healthy controls, with a growing number of studies correlating gut microbiota changes with the clinical presentation of the disease in later stages, through various motor and non-motor symptoms. Our aim in this systematic review is to compose and assess current knowledge in the field and determine if the findings could influence future clinical practice as well as therapy in PD.
+## The effects of microbiota abundance on symptom severity in Parkinson’s disease: A systematic review
 
 [Source](https://doi.org/10.3389/fnagi.2022.1020172)
 
-10.3389/fnagi.2022.1020172
-
 ---
 
-## A systematic review of microbiome-derived biomarkers for early colorectal cancer detection.
- 25.12.2022, _FH Zwezerijnen-Jiwa, H Sivov, P Paizs, K Zafeiropoulou, J Kinross_
-
-
-Increasing evidence suggests a role of the gut microbiome in the development of colorectal cancer (CRC) and that it can serve as a biomarker for early diagnosis. This review aims to give an overview of the current status of published studies regarding the microbiome as a screening tool for early CRC detection. A literature search was conducted using PubMed and EMBASE in August 2022. Studies assessing the efficacy of microbiome-derived biomarkers based on noninvasive derived samples were included. Not relevant studies or studies not specifying the stage of CRC or grouping them together in the analysis were excluded. The risk of bias for screening tools was performed using the QUADAS-2 checklist. A total of 28 studies were included, ranging from 2 to 462 for CRC and 18 to 665 advanced adenoma patient inclusions, of which only two investigated the co-metabolome as biomarker. The diagnostic performance of faecal bacteria-derived biomarkers had an AUC ranging from 0.28-0.98 for precursor lesions such as advanced adenomas and 0.54-0.89 for early CRC. Diagnostic performance based on the co-metabolome showed an AUC ranging from 0.69 - 0.84 for precursor lesions and 0.65 - 0.93 for early CRC. All models improved when combined with established clinical early detection markers such as gFOBT. A high level of heterogeneity was seen in the number of inclusions and methodology used in the studies. The faecal and oral gut microbiome has the potential to complement existing CRC screening tools, however current evidence suggests that this is not yet ready for routine clinical use.
+## A systematic review of microbiome-derived biomarkers for early colorectal cancer detection
 
 [Source](https://doi.org/10.1016/j.neo.2022.100868)
 
-10.1016/j.neo.2022.100868
-
 ---
 
-## Current insights into skin lipids and their roles in cutaneous health and disease.
- 27.12.2022, _A Nicolaou, AC Kendall_
-
-
-The unique and complex array of cutaneous lipids include essential components of the skin structure and signalling molecules mediating homeostasis and inflammation. Understanding skin lipid biology and metabolism can support our comprehension of health and disease, including systemic conditions with cutaneous involvement.
+## Current insights into skin lipids and their roles in cutaneous health and disease
 
 [Source](https://doi.org/10.1097/MCO.0000000000000902)
-
-10.1097/MCO.0000000000000902
 
 ---
 
@@ -128,16 +110,9 @@ The unique and complex array of cutaneous lipids include essential components of
 
 ---
 
-## Permafrost in the Cretaceous supergreenhouse.
- 03.01.2023, _JP Rodríguez-López, C Wu, TA Vishnivetskaya, JB Murton, W Tang, C Ma_
-
-
-_Permafrost, Oceans and Seas, Climate, Atmosphere, Arctic Regions_
-Earth's climate during the last 4.6 billion years has changed repeatedly between cold (icehouse) and warm (greenhouse) conditions. The hottest conditions (supergreenhouse) are widely assumed to have lacked an active cryosphere. Here we show that during the archetypal supergreenhouse Cretaceous Earth, an active cryosphere with permafrost existed in Chinese plateau deserts (astrochonological age ca. 132.49-132.17 Ma), and that a modern analogue for these plateau cryospheric conditions is the aeolian-permafrost system we report from the Qiongkuai Lebashi Lake area, Xinjiang Uygur Autonomous Region, China. Significantly, Cretaceous plateau permafrost was coeval with largely marine cryospheric indicators in the Arctic and Australia, indicating a strong coupling of the ocean-atmosphere system. The Cretaceous permafrost contained a rich microbiome at subtropical palaeolatitude and 3-4 km palaeoaltitude, analogous to recent permafrost in the western Himalayas. A mindset of persistent ice-free greenhouse conditions during the Cretaceous has stifled consideration of permafrost thaw as a contributor of C and nutrients to the palaeo-oceans and palaeo-atmosphere.
+## Permafrost in the Cretaceous supergreenhouse
 
 [Source](https://doi.org/10.1038/s41467-022-35676-6)
-
-10.1038/s41467-022-35676-6
 
 ---
 
