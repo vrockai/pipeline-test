@@ -134,16 +134,9 @@ Reef-building corals are well known for their obligate association with Symbiodi
 
 ---
 
-## Permafrost in the Cretaceous supergreenhouse.
- 03.01.2023, _JP Rodríguez-López, C Wu, TA Vishnivetskaya, JB Murton, W Tang, C Ma_
-
-
-_Permafrost, Oceans and Seas, Climate, Atmosphere, Arctic Regions_
-Earth's climate during the last 4.6 billion years has changed repeatedly between cold (icehouse) and warm (greenhouse) conditions. The hottest conditions (supergreenhouse) are widely assumed to have lacked an active cryosphere. Here we show that during the archetypal supergreenhouse Cretaceous Earth, an active cryosphere with permafrost existed in Chinese plateau deserts (astrochonological age ca. 132.49-132.17 Ma), and that a modern analogue for these plateau cryospheric conditions is the aeolian-permafrost system we report from the Qiongkuai Lebashi Lake area, Xinjiang Uygur Autonomous Region, China. Significantly, Cretaceous plateau permafrost was coeval with largely marine cryospheric indicators in the Arctic and Australia, indicating a strong coupling of the ocean-atmosphere system. The Cretaceous permafrost contained a rich microbiome at subtropical palaeolatitude and 3-4 km palaeoaltitude, analogous to recent permafrost in the western Himalayas. A mindset of persistent ice-free greenhouse conditions during the Cretaceous has stifled consideration of permafrost thaw as a contributor of C and nutrients to the palaeo-oceans and palaeo-atmosphere.
+## Permafrost in the Cretaceous supergreenhouse
 
 [Source](https://doi.org/10.1038/s41467-022-35676-6)
-
-10.1038/s41467-022-35676-6
 
 ---
 
