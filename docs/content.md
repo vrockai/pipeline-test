@@ -62,9 +62,15 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## The effects of microbiota abundance on symptom severity in Parkinson’s disease: A systematic review
+## The effects of microbiota abundance on symptom severity in Parkinson's disease: A systematic review.
+ 03.01.2023, _E Papić, V Rački, M Hero, Z Tomić, N Starčević-Čižmarević, A Kovanda, M Kapović, G Hauser, B Peterlin, V Vuletić_
+
+
+Parkinson's disease (PD) is neurodegenerative disease with a multifactorial etiopathogenesis with accumulating evidence identifying microbiota as a potential factor in the earliest, prodromal phases of the disease. Previous research has already shown a significant difference between gut microbiota composition in PD patients as opposed to healthy controls, with a growing number of studies correlating gut microbiota changes with the clinical presentation of the disease in later stages, through various motor and non-motor symptoms. Our aim in this systematic review is to compose and assess current knowledge in the field and determine if the findings could influence future clinical practice as well as therapy in PD.
 
 [Source](https://doi.org/10.3389/fnagi.2022.1020172)
+
+10.3389/fnagi.2022.1020172
 
 ---
 
