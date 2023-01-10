@@ -92,15 +92,9 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Prokaryotic and eukaryotic microbial communities associated with coral species have high host specificity in the South China Sea.
- 29.12.2022, _K Cheng, M Tong, Z Cai, MC Jong, J Zhou, B Xiao_
-
-
-Reef-building corals are well known for their obligate association with Symbiodiniaceae, and an array of other microbes, including bacteria, fungi, and symbiotic algae (i.e., total microbiome), which together form the coral holobiont. The total microbiome plays an intricate part in maintaining the homeostasis of the coral holobiont and is closely associated with host health. However, the composition of the coral associated microbiome and interaction between its different members remains elusive because few analyses have bridged taxonomically disparate groups. This research gaps have prevented a holistic understanding of the total microbiome. Thus, to simultaneously characterize the bacterial, fungal and symbiotic algal communities associated with different coral species, and explore the relationship between these symbionts and coral health, healthy and bleached tissues from four coral species, Acropora muricata, Galaxea fascicularis, Platygyra daedalea, and Pavona explanulata, were collected from the Xisha Islands of the South China Sea. Using high throughput sequencing, a high degree of host-specificity was observed among bacterial, fungal, and algal groups across coral species. There were no obvious changes in the microbial community structure of apparently healthy and bleached corals, but host bleaching allowed colonization of the holobionts by diverse opportunistic microbes, resulting in a significant elevation in the α-diversity of microbial communities. In addition, co-occurrence analysis of the coral microbiota also identified more complex microbial interactions in bleached corals than in healthy ones. In summary, this study characterized the structure of coral-associated microbiomes across four coral species, and systematically studied microbiome differences between healthy and bleached corals. The findings improve our understanding of the heterogeneity of symbiotic microorganisms and the impact of coral's physiological status on its associated microbial communities composition.
+## Prokaryotic and eukaryotic microbial communities associated with coral species have high host specificity in the South China Sea
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.161185)
-
-10.1016/j.scitotenv.2022.161185
 
 ---
 
