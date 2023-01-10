@@ -62,9 +62,15 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## The effects of microbiota abundance on symptom severity in Parkinson’s disease: A systematic review
+## The effects of microbiota abundance on symptom severity in Parkinson's disease: A systematic review.
+ 03.01.2023, _E Papić, V Rački, M Hero, Z Tomić, N Starčević-Čižmarević, A Kovanda, M Kapović, G Hauser, B Peterlin, V Vuletić_
+
+
+Parkinson's disease (PD) is neurodegenerative disease with a multifactorial etiopathogenesis with accumulating evidence identifying microbiota as a potential factor in the earliest, prodromal phases of the disease. Previous research has already shown a significant difference between gut microbiota composition in PD patients as opposed to healthy controls, with a growing number of studies correlating gut microbiota changes with the clinical presentation of the disease in later stages, through various motor and non-motor symptoms. Our aim in this systematic review is to compose and assess current knowledge in the field and determine if the findings could influence future clinical practice as well as therapy in PD.
 
 [Source](https://doi.org/10.3389/fnagi.2022.1020172)
+
+10.3389/fnagi.2022.1020172
 
 ---
 
@@ -104,9 +110,15 @@ The unique and complex array of cutaneous lipids include essential components of
 
 ---
 
-## Prokaryotic and eukaryotic microbial communities associated with coral species have high host specificity in the South China Sea
+## Prokaryotic and eukaryotic microbial communities associated with coral species have high host specificity in the South China Sea.
+ 29.12.2022, _K Cheng, M Tong, Z Cai, MC Jong, J Zhou, B Xiao_
+
+
+Reef-building corals are well known for their obligate association with Symbiodiniaceae, and an array of other microbes, including bacteria, fungi, and symbiotic algae (i.e., total microbiome), which together form the coral holobiont. The total microbiome plays an intricate part in maintaining the homeostasis of the coral holobiont and is closely associated with host health. However, the composition of the coral associated microbiome and interaction between its different members remains elusive because few analyses have bridged taxonomically disparate groups. This research gaps have prevented a holistic understanding of the total microbiome. Thus, to simultaneously characterize the bacterial, fungal and symbiotic algal communities associated with different coral species, and explore the relationship between these symbionts and coral health, healthy and bleached tissues from four coral species, Acropora muricata, Galaxea fascicularis, Platygyra daedalea, and Pavona explanulata, were collected from the Xisha Islands of the South China Sea. Using high throughput sequencing, a high degree of host-specificity was observed among bacterial, fungal, and algal groups across coral species. There were no obvious changes in the microbial community structure of apparently healthy and bleached corals, but host bleaching allowed colonization of the holobionts by diverse opportunistic microbes, resulting in a significant elevation in the α-diversity of microbial communities. In addition, co-occurrence analysis of the coral microbiota also identified more complex microbial interactions in bleached corals than in healthy ones. In summary, this study characterized the structure of coral-associated microbiomes across four coral species, and systematically studied microbiome differences between healthy and bleached corals. The findings improve our understanding of the heterogeneity of symbiotic microorganisms and the impact of coral's physiological status on its associated microbial communities composition.
 
 [Source](https://doi.org/10.1016/j.scitotenv.2022.161185)
+
+10.1016/j.scitotenv.2022.161185
 
 ---
 
@@ -122,9 +134,16 @@ The unique and complex array of cutaneous lipids include essential components of
 
 ---
 
-## Permafrost in the Cretaceous supergreenhouse
+## Permafrost in the Cretaceous supergreenhouse.
+ 03.01.2023, _JP Rodríguez-López, C Wu, TA Vishnivetskaya, JB Murton, W Tang, C Ma_
+
+
+_Permafrost, Oceans and Seas, Climate, Atmosphere, Arctic Regions_
+Earth's climate during the last 4.6 billion years has changed repeatedly between cold (icehouse) and warm (greenhouse) conditions. The hottest conditions (supergreenhouse) are widely assumed to have lacked an active cryosphere. Here we show that during the archetypal supergreenhouse Cretaceous Earth, an active cryosphere with permafrost existed in Chinese plateau deserts (astrochonological age ca. 132.49-132.17 Ma), and that a modern analogue for these plateau cryospheric conditions is the aeolian-permafrost system we report from the Qiongkuai Lebashi Lake area, Xinjiang Uygur Autonomous Region, China. Significantly, Cretaceous plateau permafrost was coeval with largely marine cryospheric indicators in the Arctic and Australia, indicating a strong coupling of the ocean-atmosphere system. The Cretaceous permafrost contained a rich microbiome at subtropical palaeolatitude and 3-4 km palaeoaltitude, analogous to recent permafrost in the western Himalayas. A mindset of persistent ice-free greenhouse conditions during the Cretaceous has stifled consideration of permafrost thaw as a contributor of C and nutrients to the palaeo-oceans and palaeo-atmosphere.
 
 [Source](https://doi.org/10.1038/s41467-022-35676-6)
+
+10.1038/s41467-022-35676-6
 
 ---
 
