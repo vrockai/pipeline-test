@@ -128,9 +128,16 @@ The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier a
 
 ---
 
-## Stochastic variational variable selection for high-dimensional microbiome data
+## Stochastic variational variable selection for high-dimensional microbiome data.
+ 10.01.2023, _T Dang, K Kumaishi, E Usui, S Kobori, T Sato, Y Toda, Y Yamasaki, H Tsujimoto, Y Ichihashi, H Iwata_
+
+
+_Humans, Bayes Theorem, Algorithms, Microbiota, Gastrointestinal Microbiome, Metagenomics_
+The rapid and accurate identification of a minimal-size core set of representative microbial species plays an important role in the clustering of microbial community data and interpretation of clustering results. However, the huge dimensionality of microbial metagenomics datasets is a major challenge for the existing methods such as Dirichlet multinomial mixture (DMM) models. In the approach of the existing methods, the computational burden of identifying a small number of representative species from a large number of observed species remains a challenge.
 
 [Source](https://doi.org/10.1186/s40168-022-01439-0)
+
+10.1186/s40168-022-01439-0
 
 ---
 
