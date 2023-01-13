@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## High perirenal fat thickness predicts a greater risk of recurrence in Chinese patients with unilateral nephrolithiasis.
- 13.01.2023, _H Huang, S Chen, W Zhang, T Wang, P Bai, J Xing, H Wang, B Chen_
+## Incidence, Severity, and Presentation of Type 2 Diabetes in Youth During the First and Second Year of the COVID-19 Pandemic.
+ 13.01.2023, _S Sasidharan Pillai, P Has, JB Quintos, M Serrano Gonzalez, VL Kasper, LS Topor, ME Fredette_
 
 
-The aim of this study was to evaluate the association between recurrence-free survival (RFS) and perirenal fat thickness (PFT) in a cohort of Chinese population with unilateral nephrolithiasis.
+To describe the evolving impact of the coronavirus disease 2019 pandemic on the incidence and presentation of new-onset pediatric type 2 diabetes.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1080/0886022X.2022.2158870
+10.2337/dc22-1702
 
 ---
 
@@ -48,7 +48,7 @@ The aim of this study was to evaluate the association between recurrence-free su
 ---
 
 ## Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study.
- 12.01.2023, _DJM Barnett, MF Endika, CE Klostermann, F Gu, C Thijs, A Nauta, HA Schols, H Smidt, ICW Arts, J Penders_
+ 13.01.2023, _DJM Barnett, MF Endika, CE Klostermann, F Gu, C Thijs, A Nauta, HA Schols, H Smidt, ICW Arts, J Penders_
 
 
 _Infant, Infant, Newborn, Female, Animals, Pregnancy, Humans, Child, Milk, Human, Gastrointestinal Microbiome, Phascolarctidae, Cohort Studies, RNA, Ribosomal, 16S, Breast Feeding, Prebiotics, Anti-Infective Agents, Oligosaccharides, Anti-Bacterial Agents_
@@ -158,6 +158,18 @@ There is increasing evidence that dietary fat, especially saturated fat, promote
 
 ---
 
+## COVID-19 hospitalization and mortality in community-dwelling racially and ethnically diverse persons living with dementia.
+ 13.01.2023, _JA Thunell, P Ferido, JM Zissimopoulos_
+
+
+Community-dwelling persons living with dementia (PLWD) are vulnerable to COVID-19 infection, severity, and mortality due to the high prevalence of comorbidities, reliance on caregivers, and potential inability to employ risk reduction measures, among other factors.
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+10.1111/jgs.18230
+
+---
+
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
@@ -214,7 +226,7 @@ Gestational diabetes mellitus (GDM) is a condition in which women without diabet
 ---
 
 ## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
- 12.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
+ 13.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
 
 
 Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
@@ -231,15 +243,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## The P2X7 receptor contributes to seizures and inflammation-driven long-lasting brain hyperexcitability following neonatal hypoxia in mice.
- 13.01.2023, _J Smith, AM Méndez, M Alves, A Parras, G Conte, A Bhattacharya, M Ceusters, A Nicke, DC Henshall, EM Jimenez-Mateos, T Engel_
+## Auditory stimulation and deep learning predict awakening from coma after cardiac arrest.
+ 13.01.2023, _FM Aellen, SL Alnes, F Loosli, AO Rossetti, F Zubler, M De Lucia, A Tzovara_
 
 
-Neonatal seizures are a clinical emergency. Current anti-seizure medications, however, fail to resolve seizures in ~50% of infants. The P2X7 receptor (P2X7R) is an important driver of inflammation and evidence suggest P2X7R contributing to seizures and epilepsy in adults. To date, however, no genetic proof has been provided to determine the contribution of the P2X7R to neonatal seizures, its effects on inflammatory signalling during neonatal seizures and the therapeutic potential of P2X7R-based treatments on long-lasting brain excitability.
+Assessing the integrity of neural functions in coma after cardiac arrest remains an open challenge. Prognostication of coma outcome relies mainly on visual expert scoring of physiological signals, which is prone to subjectivity and leaves a considerable number of patients in a 'grey zone', with uncertain prognosis. Quantitative analysis of EEG responses to auditory stimuli can provide a window into neural functions in coma and information about patients' chances of awakening. However, responses to standardized auditory stimulation are far from being used in a clinical routine due to heterogeneous and cumbersome protocols. Here, we hypothesize that convolutional neural networks can assist in extracting interpretable patterns of EEG responses to auditory stimuli during the first day of coma that are predictive of patients' chances of awakening and survival at 3 months. We used convolutional neural networks (CNNs) to model single-trial EEG responses to auditory stimuli in the first day of coma, under standardized sedation and targeted temperature management, in a multicentre and multiprotocol patient cohort and predict outcome at 3 months. The use of CNNs resulted in a positive predictive power for predicting awakening of 0.83 ± 0.04 and 0.81 ± 0.06 and an area under the curve in predicting outcome of 0.69 ± 0.05 and 0.70 ± 0.05, for patients undergoing therapeutic hypothermia and normothermia, respectively. These results also persisted in a subset of patients that were in a clinical 'grey zone'. The network's confidence in predicting outcome was based on interpretable features: it strongly correlated to the neural synchrony and complexity of EEG responses and was modulated by independent clinical evaluations, such as the EEG reactivity, background burst-suppression or motor responses. Our results highlight the strong potential of interpretable deep learning algorithms in combination with auditory stimulation to improve prognostication of coma outcome.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/bph.16033
+10.1093/brain/awac340
 
 ---
 
@@ -249,15 +261,14 @@ Neonatal seizures are a clinical emergency. Current anti-seizure medications, ho
 
 ---
 
-## Access, referral, service provision and management of individuals with primary progressive aphasia: A survey of speech-language therapists in Italy.
- 13.01.2023, _P Battista, M Piccininni, M Montembeault, A Messina, B Minafra, BL Miller, ML Henry, ML Gorno Tempini, SM Grasso_
+## Letter to the Editor: How Spermidine and Targeting Eukaryotic Initiator Factor 5A Might Help to Both a Novel Congenital Disorder and Brain Aging.
+ 13.01.2023, _V Faundes_
 
 
-In Italy, approximately 650 individuals receive a diagnosis of primary progressive aphasia (PPA) every year. Unfortunately, the frequency with which patients are referred to speech-language services is suboptimal, likely due to skepticism regarding the value of speech-language therapy in the context of neurodegeneration.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/1460-6984.12843
+10.1089/jmf.2022.0078
 
 ---
 
@@ -297,15 +308,15 @@ In Italy, approximately 650 individuals receive a diagnosis of primary progressi
 
 ---
 
-## Identification and Prognostication of End-of-Life State Using a Japanese Guideline-Based Diagnostic Method: A Diagnostic Accuracy Study.
- 13.01.2023, _M Arahata, H Asakura, E Morishita, S Minami, Y Shimizu_
+## COVID-19 hospitalization and mortality in community-dwelling racially and ethnically diverse persons living with dementia.
+ 13.01.2023, _JA Thunell, P Ferido, JM Zissimopoulos_
 
 
-Prognostic uncertainty can be a barrier to providing palliative care. Accurate prognostic estimation for patients at the end of life is challenging. This study aimed to evaluate the accuracy of end-of-life diagnosis using our unique diagnostic method.
+Community-dwelling persons living with dementia (PLWD) are vulnerable to COVID-19 infection, severity, and mortality due to the high prevalence of comorbidities, reliance on caregivers, and potential inability to employ risk reduction measures, among other factors.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.2147/IJGM.S392963
+10.1111/jgs.18230
 
 ---
 
@@ -382,7 +393,7 @@ The activities of different microbes in the cow rumen have been shown to modulat
 ---
 
 ## Ecological landscapes guide the assembly of optimal microbial communities.
- 12.01.2023, _AB George, KS Korolev_
+ 13.01.2023, _AB George, KS Korolev_
 
 
 _Humans, Soil Microbiology, Microbiota, Microbial Consortia, Agriculture_
@@ -431,15 +442,15 @@ With an increasing amount of biological data available publicly, there is a need
 
 ---
 
-## Identification and Prognostication of End-of-Life State Using a Japanese Guideline-Based Diagnostic Method: A Diagnostic Accuracy Study.
- 13.01.2023, _M Arahata, H Asakura, E Morishita, S Minami, Y Shimizu_
+## COVID-19 hospitalization and mortality in community-dwelling racially and ethnically diverse persons living with dementia.
+ 13.01.2023, _JA Thunell, P Ferido, JM Zissimopoulos_
 
 
-Prognostic uncertainty can be a barrier to providing palliative care. Accurate prognostic estimation for patients at the end of life is challenging. This study aimed to evaluate the accuracy of end-of-life diagnosis using our unique diagnostic method.
+Community-dwelling persons living with dementia (PLWD) are vulnerable to COVID-19 infection, severity, and mortality due to the high prevalence of comorbidities, reliance on caregivers, and potential inability to employ risk reduction measures, among other factors.
 
 [Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
-10.2147/IJGM.S392963
+10.1111/jgs.18230
 
 ---
 
