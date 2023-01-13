@@ -1,149 +1,451 @@
-## Microbiome Characteristics in Early Threatened Miscarriage Study (MCETMS): a study protocol for a prospective cohort investigation in China.
- 03.01.2023, _X Chen, Y Guo, Y Zhang, C Si, H Zhang, X Huang, S Luo, G Deng, J Gao_
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
 
 
-_Pregnancy, Female, Humans, Abortion, Threatened, Prospective Studies, RNA, Ribosomal, 16S, Microbiota, Abortion, Spontaneous, Pregnancy Complications, China_
-Studies have suggested that the vaginal microbiome and gut microbiome are involved in pregnancy-related diseases, but little exploration of the link with early miscarriage or threatened miscarriage (TM) has been done. Whether the characteristics of the vaginal microbiome and gut microbiome in early pregnancy are related to TM and early pregnancy outcomes remains unclear.
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
 
-[Source](https://doi.org/10.1136/bmjopen-2021-057328)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
-10.1136/bmjopen-2021-057328
-
----
-
-## Mapping the early life gut microbiome in neonates with critical congenital heart disease: multiomics insights and implications for host metabolic and immunological health.
- 10.01.2023, _Y Huang, W Lu, M Zeng, X Hu, Z Su, Y Liu, Z Liu, J Yuan, L Li, X Zhang, L Huang, W Hu, X Wang, S Li, H Zhang_
-
-
-_Infant, Newborn, Humans, Gastrointestinal Microbiome, Multiomics, Inflammation, Bacteria, Heart Defects, Congenital, Dysbiosis_
-The early life gut microbiome is crucial in maintaining host metabolic and immune homeostasis. Though neonates with critical congenital heart disease (CCHD) are at substantial risks of malnutrition and immune imbalance, the microbial links to CCHD pathophysiology remain poorly understood. In this study, we aimed to investigate the gut microbiome in neonates with CCHD in association with metabolomic traits. Moreover, we explored the clinical implications of the host-microbe interactions in CCHD.
-
-[Source](https://doi.org/10.1186/s40168-022-01437-2)
-
-10.1186/s40168-022-01437-2
+10.3390/ijerph19010099
 
 ---
 
-## Metagenomic analysis reveals unexplored diversity of archaeal virome in the human gut.
- 03.01.2023, _R Li, Y Wang, H Hu, Y Tan, Y Ma_
+## #MVIF
 
-
-_Humans, Archaea, Metagenome, Virome, Viruses, Metagenomics, Archaeal Viruses_
-The human gut microbiome has been extensively explored, while the archaeal viruses remain largely unknown. Here, we present a comprehensive analysis of the archaeal viruses from the human gut metagenomes and the existing virus collections using the CRISPR spacer and viral signature-based approach. This results in 1279 viral species, of which, 95.2% infect Methanobrevibacteria_A, 56.5% shared high identity (&gt;95%) with the archaeal proviruses, 37.2% have a host range across archaeal species, and 55.7% are highly prevalent in the human population (&gt;1%). A methanogenic archaeal virus-specific gene for pseudomurein endoisopeptidase (PeiW) frequently occurs in the viral sequences (n = 150). Analysis of 33 Caudoviricetes viruses with a complete genome often discovers the genes (integrase, n = 29; mazE, n = 10) regulating the viral lysogenic-lytic cycle, implying the dominance of temperate viruses in the archaeal virome. Together, our work uncovers the unexplored diversity of archaeal viruses, revealing the novel facet of the human gut microbiome.
-
-[Source](https://doi.org/10.1038/s41467-022-35735-y)
-
-10.1038/s41467-022-35735-y
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Fecal level of butyric acid, a microbiome-derived metabolite, is increased in patients with severe carotid atherosclerosis.
- 03.01.2023, _K Stø, J Valeur, T Ueland, GH Malmstrøm, V Bjerkeli, M Trøseid, JR Hov, K Holm, B Vestad, B Halvorsen, M Skjelland, KR Skagen_
+## https://t.co/x4RUYfkN0P
 
-
-_Humans, Butyric Acid, RNA, Ribosomal, 16S, Inflammasomes, Gastrointestinal Microbiome, Fatty Acids, Volatile, Microbiota, Feces, Carotid Artery Diseases_
-The short-chain fatty acid (SCFA) butyric acid maintains a healthy gut barrier and vascular endothelium. We aimed to investigate the association between fecal butyric acid, carotid atherosclerosis and risk factors for ischemic stroke. Patients with severe carotid atherosclerosis (i.e. ≥ 50% stenosis) (n = 43) were compared with healthy controls (n = 38). We analyzed fecal SCFAs by gas chromatography, microbiota composition by 16S rRNA sequencing, markers of gut barrier damage and inflammasome activation by immunoassay, and plasma SCFAs by ultra-high performance liquid chromatography-tandem mass spectroscopy. Patients had higher fecal butyric acid level (p = 0.024), along with increased functional potential of microbial butyric acid production (p = 0.031), compared with controls. Dietary fiber intake was comparable. Patients had higher levels of gut barrier damage markers CCL25 and IFABP, and the inflammasome activation marker IL-18, whereas plasma level of butyric was similar. Increased fecal butyric acid was associated with higher BMI, waist-hip ratio, HbA1c, CRP and leukocyte count. Contrary to our hypothesis, patients with severe carotid atherosclerosis had higher fecal butyric acid level, and increased microbial production, compared with controls. Gut barrier damage in patients might indicate decreased absorption of butyric acid and hence contribute to the higher fecal level.
-
-[Source](https://doi.org/10.1038/s41598-022-26759-x)
-
-10.1038/s41598-022-26759-x
+[Source](https://t.co/x4RUYfkN0P)
 
 ---
 
-## Transition in vaginal <em>Lactobacillus</em> species during pregnancy and prediction of preterm birth in Korean women
+## High perirenal fat thickness predicts a greater risk of recurrence in Chinese patients with unilateral nephrolithiasis.
+ 13.01.2023, _H Huang, S Chen, W Zhang, T Wang, P Bai, J Xing, H Wang, B Chen_
 
-[Source](https://doi.org/10.1038/s41598-022-26058-5)
 
----
+The aim of this study was to evaluate the association between recurrence-free survival (RFS) and perirenal fat thickness (PFT) in a cohort of Chinese population with unilateral nephrolithiasis.
 
-## Evaluating the ecological hypothesis: early life salivary microbiome assembly predicts dental caries in a longitudinal case-control study
+[Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-[Source](https://doi.org/10.1186/s40168-022-01442-5)
-
----
-
-## The effects of microbiota abundance on symptom severity in Parkinson’s disease: A systematic review
-
-[Source](https://doi.org/10.3389/fnagi.2022.1020172)
+10.1080/0886022X.2022.2158870
 
 ---
 
-## A systematic review of microbiome-derived biomarkers for early colorectal cancer detection
+## January 9, 2023
 
-[Source](https://doi.org/10.1016/j.neo.2022.100868)
-
----
-
-## Current insights into skin lipids and their roles in cutaneous health and disease
-
-[Source](https://doi.org/10.1097/MCO.0000000000000902)
+[Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
 ---
 
-## <em>Akkermansia</em> supplementation reverses the tumor-promoting effect of the fecal microbiota transplantation in ovarian cancer
+## Longitudinal, Multi-Platform Metagenomics Yields a High-Quality Genomic Catalog and Guides an In Vitro Model for Cheese Communities
 
-[Source](https://doi.org/10.1016/j.celrep.2022.111890)
-
----
-
-## A novel approach to <em>Lactiplantibacillus plantarum</em>: From probiotic properties to the omics insights
-
-[Source](https://doi.org/10.1016/j.micres.2022.127289)
+[Source](https://journals.asm.org/doi/10.1128/msystems.00701-22)
 
 ---
 
-## Prokaryotic and eukaryotic microbial communities associated with coral species have high host specificity in the South China Sea
+## Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study.
+ 12.01.2023, _DJM Barnett, MF Endika, CE Klostermann, F Gu, C Thijs, A Nauta, HA Schols, H Smidt, ICW Arts, J Penders_
 
-[Source](https://doi.org/10.1016/j.scitotenv.2022.161185)
 
----
+_Infant, Infant, Newborn, Female, Animals, Pregnancy, Humans, Child, Milk, Human, Gastrointestinal Microbiome, Phascolarctidae, Cohort Studies, RNA, Ribosomal, 16S, Breast Feeding, Prebiotics, Anti-Infective Agents, Oligosaccharides, Anti-Bacterial Agents_
+The infant gut microbiota affects childhood health. This pioneer microbiota may be vulnerable to antibiotic exposures, but could be supported by prebiotic oligosaccharides found in breast milk and some infant formulas. We sought to characterize the effects of several exposures on the neonatal gut microbiota, including human milk oligosaccharides (HMOs), galacto-oligosaccharides (GOS), and infant/maternal antimicrobial exposures. We profiled the stool microbiota of 1023 one-month-old infants from the KOALA Birth Cohort using 16S rRNA gene amplicon sequencing. We quantified 15 HMOs in breast milk from the mothers of 220 infants, using high-performance liquid chromatography-mass spectrometry. Both breastfeeding and antibiotic exposure decreased gut microbial diversity, but each was associated with contrasting shifts in microbiota composition. Other factors associated with microbiota composition included C-section, homebirth, siblings, and exposure to animals. Neither infant exposure to oral antifungals nor maternal exposure to antibiotics during pregnancy were associated with infant microbiota composition. Four distinct groups of breast milk HMO compositions were evident, corresponding to maternal Secretor status and Lewis group combinations defined by the presence/absence of certain fucosylated HMOs. However, we found the strongest evidence for microbiota associations between two non-fucosylated HMOs: 6'-sialyllactose (6'-SL) and lacto-N-hexaose (LNH), which were associated with lower and higher relative abundances of Bifidobacterium, respectively. Among 111 exclusively formula-fed infants, the GOS-supplemented formula was associated with a lower relative abundance of Clostridium perfringens. In conclusion, the gut microbiota is sensitive to some prebiotic and antibiotic exposures during early infancy and understanding their effects could inform future strategies for safeguarding a health-promoting infant gut microbiota.
 
-## Assessing the causes and consequences of gut mycobiome variation in a wild population of the Seychelles warbler
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2164152)
 
-[Source](https://doi.org/10.1186/s40168-022-01432-7)
-
----
-
-## Gut microbe <em>Lactiplantibacillus plantarum</em> undergoes different evolutionary trajectories between insects and mammals
-
-[Source](https://doi.org/10.1186/s12915-022-01477-y)
+10.1080/19490976.2022.2164152
 
 ---
 
-## Permafrost in the Cretaceous supergreenhouse
-
-[Source](https://doi.org/10.1038/s41467-022-35676-6)
-
----
-
-## Degradation pathways for organic matter of terrestrial origin are widespread and expressed in Arctic Ocean microbiomes
-
-[Source](https://doi.org/10.1186/s40168-022-01417-6)
-
----
-
-## Temporary establishment of bacteria from indoor plant leaves and soil on human skin.
- 03.01.2023, _GÁ Mhuireach, AK Fahimipour, R Vandegrift, ME Muscarella, R Hickey, AC Bateman, KG Van Den Wymelenberg, BJM Bohannan_
+## Joint Analysis of Microbial and Immune Cell Abundance in Liver Cancer Tissue Using a Gene Expression Profile Deconvolution Algorithm Combined With Foreign Read Remapping.
+ 16.07.2022, _D Ai, Y Xing, Q Zhang, Y Wang, X Liu, G Liu, LC Xia_
 
 
-Plants are found in a large percentage of indoor environments, yet the potential for bacteria associated with indoor plant leaves and soil to colonize human skin remains unclear. We report results of experiments in a controlled climate chamber to characterize bacterial communities inhabiting the substrates and leaves of five indoor plant species, and quantify microbial transfer dynamics and residence times on human skin following simulated touch contact events. Controlled bacterial propagule transfer events with soil and leaf donors were applied to the arms of human occupants and repeatedly measured over a 24-h period using 16S rRNA gene amplicon sequencing.
+_Algorithms, Bacteria, Computational Biology, Humans, Liver Neoplasms, Software, Transcriptome, Tumor Microenvironment_
+Recent transcriptomics and metagenomics studies showed that tissue-infiltrating immune cells and bacteria interact with cancer cells to shape oncogenesis. This interaction and its effects remain to be elucidated. However, it is technically difficult to co-quantify immune cells and bacteria in their respective microenvironments. To address this challenge, we herein report the development of a complete a bioinformatics pipeline, which accurately estimates the number of infiltrating immune cells using a novel Particle Swarming Optimized Support Vector Regression (PSO-SVR) algorithm, and the number of infiltrating bacterial using foreign read remapping and the GRAMMy algorithm. It also performs systematic differential abundance analyses between tumor-normal pairs. We applied the pipeline to a collection of paired liver cancer tumor and normal samples, and we identified bacteria and immune cell species that were significantly different between tissues in terms of health status. Our analysis showed that this dual model of microbial and immune cell abundance had a better differentiation (84%) between healthy and diseased tissue. Caldatribacterium sp., Acidaminococcaceae sp., Planctopirus sp., Desulfobulbaceae sp.,Nocardia farcinica as well as regulatory T cells (Tregs), resting mast cells, monocytes, M2 macrophases, neutrophils were identified as significantly different (Mann Whitney Test, FDR&lt; 0.05). Our open-source software is freely available from GitHub at https://github.com/gutmicrobes/PSO-SVR.git.
 
-[Source](https://doi.org/10.1186/s40793-022-00457-7)
+[Source](https://twitter.com/hashtag/GutMicrobes?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s40793-022-00457-7
+10.3389/fimmu.2022.853213
 
 ---
 
-## Stochastic variational variable selection for high-dimensional microbiome data.
- 10.01.2023, _T Dang, K Kumaishi, E Usui, S Kobori, T Sato, Y Toda, Y Yamasaki, H Tsujimoto, Y Ichihashi, H Iwata_
+## #GutMicrobes
+
+[Source](https://twitter.com/hashtag/GutMicrobes?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/xMMQLXIVp6
+
+[Source](https://t.co/xMMQLXIVp6)
+
+---
+
+## SPCIS: Standardized Plant Community with Introduced Status database.
+ 13.01.2023, _L Petri, EM Beaury, J Corbin, K Peach, H Sofaer, IS Pearse, R Early, DT Barnett, I Ibáñez, RK Peet, M Schafale, TR Wentworth, JP Vanderhorst, DN Zaya, G Spyreas, BA Bradley_
 
 
-_Humans, Bayes Theorem, Algorithms, Microbiota, Gastrointestinal Microbiome, Metagenomics_
-The rapid and accurate identification of a minimal-size core set of representative microbial species plays an important role in the clustering of microbial community data and interpretation of clustering results. However, the huge dimensionality of microbial metagenomics datasets is a major challenge for the existing methods such as Dirichlet multinomial mixture (DMM) models. In the approach of the existing methods, the computational burden of identifying a small number of representative species from a large number of observed species remains a challenge.
+The movement of plant species across the globe exposes native communities to new species introductions. While introductions are pervasive, two aspects of variability underlie patterns and processes of biological invasions at macroecological scales. First, only a portion of introduced species become invaders capable of substantially impacting ecosystems. Second, species that do become invasive at one location may not be invasive in others; impacts depend on invader abundance and recipient species and conditions. Accounting for these phenomena is essential to accurately understand the patterns of plant invasion and explain the idiosyncratic results reflected in the literature on biological invasions. The lack of community-level richness and the abundance of data spanning broad scales and environmental conditions have until now hindered our understanding of invasions at a macroecological scale. To address this limitation, we leveraged quantitative surveys of plant communities in the USA and integrated and harmonized nine datasets into the Standardized Plant Community with Introduced Status (SPCIS) database. The database contains 14,056 unique taxa identified within 83,391 sampling units, of which 52.6% have at least one introduced species. The SPCIS database includes comparable information on plant species occurrence, abundance, and native status across the 50 U.S. States and Puerto Rico. SPCIS can be used to answer macro-scale questions about native plant communities and interactions with invasive plants. There are no copyright restrictions on the data, and we ask the users of this dataset to cite this paper, the respective paper(s) corresponding to the dataset sampling design (all references are provided in Data S1: Metadata S1: Class II-B-2), and the references described in Data S1: Metadata S1: Class III-B-4 as applicable to the dataset being utilized.
 
-[Source](https://doi.org/10.1186/s40168-022-01439-0)
+[Source](https://twitter.com/_david_barnett_?ref_src=twsrc%5Etfw)
 
-10.1186/s40168-022-01439-0
+10.1002/ecy.3947
+
+---
+
+## @_david_barnett_
+
+[Source](https://twitter.com/_david_barnett_?ref_src=twsrc%5Etfw)
+
+---
+
+## @MF_Endika
+
+[Source](https://twitter.com/MF_Endika?ref_src=twsrc%5Etfw)
+
+---
+
+## Allele-specific expression analysis for complex genetic phenotypes applied to a unique dilated cardiomyopathy cohort.
+ 13.01.2023, _D van Beek, J Verdonschot, K Derks, H Brunner, TM de Kok, ICW Arts, S Heymans, M Kutmon, M Adriaens_
+
+
+_Humans, Alleles, Cardiomyopathy, Dilated, Gene Expression Regulation, Quantitative Trait Loci, Genome-Wide Association Study, Phenotype, Polymorphism, Single Nucleotide_
+Allele-specific expression (ASE) analysis detects the relative abundance of alleles at heterozygous loci as a proxy for cis-regulatory variation, which affects the personal transcriptome and proteome. This study describes the development and application of an ASE analysis pipeline on a unique cohort of 87 well phenotyped and RNA sequenced patients from the Maastricht Cardiomyopathy Registry with dilated cardiomyopathy (DCM), a complex genetic disorder with a remaining gap in explained heritability. Regulatory processes for which ASE is a proxy might explain this gap. We found an overrepresentation of known DCM-associated genes among the significant results across the cohort. In addition, we were able to find genes of interest that have not been associated with DCM through conventional methods such as genome-wide association or differential gene expression studies. The pipeline offers RNA sequencing data processing, individual and population level ASE analyses as well as group comparisons and several intuitive visualizations such as Manhattan plots and protein-protein interaction networks. With this pipeline, we found evidence supporting the case that cis-regulatory variation contributes to the phenotypic heterogeneity of DCM. Additionally, our results highlight that ASE analysis offers an additional layer to conventional genomic and transcriptomic analyses for candidate gene identification and biological insight.
+
+[Source](https://twitter.com/MaCSBio?ref_src=twsrc%5Etfw)
+
+10.1038/s41598-023-27591-7
+
+---
+
+## @MaCSBio
+
+[Source](https://twitter.com/MaCSBio?ref_src=twsrc%5Etfw)
+
+---
+
+## Dietary fat induced chylomicron-mediated LPS translocation in a bicameral Caco-2cell model.
+ 12.01.2023, _MMM Tomassen, C Govers, AP Vos, NJW de Wit_
+
+
+There is increasing evidence that dietary fat, especially saturated fat, promotes the translocation of lipopolysaccharide (LPS) via chylomicron production in the gut. Chylomicrons can subsequently transport LPS to other parts of the body, where they can induce low-grade chronic inflammation that is linked to various metabolic and gut-related diseases. To identify promising (food) compounds that can prevent or ameliorate LPS-related low-grade inflammation, we developed and optimized a bicameral in vitro model for dietary fat-induced LPS translocation that closely mimics the in vivo situation and facilitates high-throughput screening.
+
+[Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
+
+10.1186/s12944-022-01754-3
+
+---
+
+## @WUR
+
+[Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
+
+---
+
+## @MIB_WUR
+
+[Source](https://twitter.com/MIB_WUR?ref_src=twsrc%5Etfw)
+
+---
+
+## @MaastrichtUMC
+
+[Source](https://twitter.com/MaastrichtUMC?ref_src=twsrc%5Etfw)
+
+---
+
+## January 10, 2023
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+---
+
+## The gut microbiota in multiple sclerosis varies with disease activity.
+ 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
+
+
+_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
+Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
+
+[Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
+
+10.1186/s13073-022-01148-1
+
+---
+
+## Circadian Rhythms and Melatonin Metabolism in Patients With Disorders of Gut-Brain Interactions.
+ 01.04.2022, _S Fowler, EC Hoedt, NJ Talley, S Keely, GL Burns_
+
+
+Circadian rhythms are cyclic patterns of physiological, behavioural and molecular events that occur over a 24-h period. They are controlled by the suprachiasmatic nucleus (SCN), the brain's master pacemaker which governs peripheral clocks and melatonin release. While circadian systems are endogenous, there are external factors that synchronise the SCN to the ambient environment including light/dark cycles, fasting/fed state, temperature and physical activity. Circadian rhythms also provide internal temporal organisation which ensures that any internal changes that take place are centrally coordinated. Melatonin synchronises peripheral clocks to the external time and circadian rhythms are regulated by gene expression to control physiological function. Synchronisation of the circadian system with the external environment is vital for the health and survival of an organism and as circadian rhythms play a pivotal role in regulating GI physiology, disruption may lead to gastrointestinal (GI) dysfunction. Disorders of gut-brain interactions (DGBIs), also known as functional gastrointestinal disorders (FGIDs), are a group of diseases where patients experience reoccurring gastrointestinal symptoms which cannot be explained by obvious structural abnormalities and include functional dyspepsia (FD) and irritable bowel syndrome (IBS). Food timing impacts on the production of melatonin and given the correlation between food intake and symptom onset reported by patients with DGBIs, chronodisruption may be a feature of these conditions. Recent advances in immunology implicate circadian rhythms in the regulation of immune responses, and DGBI patients report fatigue and disordered sleep, suggesting circadian disruption. Further, melatonin treatment has been demonstrated to improve symptom burden in IBS patients, however, the mechanisms underlying this efficacy are unclear. Given the influence of circadian rhythms on gastrointestinal physiology and the immune system, modulation of these rhythms may be a potential therapeutic option for reducing symptom burden in these patients.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
+
+10.3389/fnins.2022.825246
+
+---
+
+## Intestinal gas production by the gut microbiota: A review
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
+
+---
+
+## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis.
+ 10.01.2023, _Y Pinto, S Frishman, S Turjeman, A Eshel, M Nuriel-Ohayon, O Shrossel, O Ziv, W Walters, J Parsonnet, C Ley, EL Johnson, K Kumar, R Schweitzer, S Khatib, F Magzal, E Muller, S Tamir, K Tenenbaum-Gavish, S Rautava, S Salminen, E Isolauri, O Yariv, Y Peled, E Poran, J Pardo, R Chen, M Hod, E Borenstein, RE Ley, B Schwartz, Y Louzoun, E Hadar, O Koren_
+
+
+Gestational diabetes mellitus (GDM) is a condition in which women without diabetes are diagnosed with glucose intolerance during pregnancy, typically in the second or third trimester. Early diagnosis, along with a better understanding of its pathophysiology during the first trimester of pregnancy, may be effective in reducing incidence and associated short-term and long-term morbidities.
+
+[Source](https://gut.bmj.com/content/early/2023/01/10/gutjnl-2022-328406)
+
+10.1136/gutjnl-2022-328406
+
+---
+
+## The gut microbiota is an emerging target for improving brain health during ageing
+
+[Source](https://www.cambridge.org/core/journals/gut-microbiome/article/gut-microbiota-is-an-emerging-target-for-improving-brain-health-during-ageing/E9572C5EB8BC237511139BB2A603F795)
+
+---
+
+## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
+ 12.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
+
+
+Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
+
+[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.7759/cureus.32313
+
+---
+
+## #GutMicrobiome
+
+[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## The P2X7 receptor contributes to seizures and inflammation-driven long-lasting brain hyperexcitability following neonatal hypoxia in mice.
+ 13.01.2023, _J Smith, AM Méndez, M Alves, A Parras, G Conte, A Bhattacharya, M Ceusters, A Nicke, DC Henshall, EM Jimenez-Mateos, T Engel_
+
+
+Neonatal seizures are a clinical emergency. Current anti-seizure medications, however, fail to resolve seizures in ~50% of infants. The P2X7 receptor (P2X7R) is an important driver of inflammation and evidence suggest P2X7R contributing to seizures and epilepsy in adults. To date, however, no genetic proof has been provided to determine the contribution of the P2X7R to neonatal seizures, its effects on inflammatory signalling during neonatal seizures and the therapeutic potential of P2X7R-based treatments on long-lasting brain excitability.
+
+[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/bph.16033
+
+---
+
+## #Brain
+
+[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Access, referral, service provision and management of individuals with primary progressive aphasia: A survey of speech-language therapists in Italy.
+ 13.01.2023, _P Battista, M Piccininni, M Montembeault, A Messina, B Minafra, BL Miller, ML Henry, ML Gorno Tempini, SM Grasso_
+
+
+In Italy, approximately 650 individuals receive a diagnosis of primary progressive aphasia (PPA) every year. Unfortunately, the frequency with which patients are referred to speech-language services is suboptimal, likely due to skepticism regarding the value of speech-language therapy in the context of neurodegeneration.
+
+[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
+
+10.1111/1460-6984.12843
+
+---
+
+## #Aging
+
+[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/Z0fgsS1Pzv
+
+[Source](https://t.co/Z0fgsS1Pzv)
+
+---
+
+## @BoehmeMarcus
+
+[Source](https://twitter.com/BoehmeMarcus?ref_src=twsrc%5Etfw)
+
+---
+
+## @Lauriemcox
+
+[Source](https://twitter.com/Lauriemcox?ref_src=twsrc%5Etfw)
+
+---
+
+## @CambridgeUP
+
+[Source](https://twitter.com/CambridgeUP?ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/NcfAT46ADK
+
+[Source](https://t.co/NcfAT46ADK)
+
+---
+
+## Identification and Prognostication of End-of-Life State Using a Japanese Guideline-Based Diagnostic Method: A Diagnostic Accuracy Study.
+ 13.01.2023, _M Arahata, H Asakura, E Morishita, S Minami, Y Shimizu_
+
+
+Prognostic uncertainty can be a barrier to providing palliative care. Accurate prognostic estimation for patients at the end of life is challenging. This study aimed to evaluate the accuracy of end-of-life diagnosis using our unique diagnostic method.
+
+[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
+
+10.2147/IJGM.S392963
+
+---
+
+## January 10, 2023
+
+[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
+
+---
+
+## Commensal Lactobacilli Metabolically Contribute to Cervical Epithelial Homeostasis in a Species-Specific Manner
+
+[Source](https://journals.asm.org/doi/10.1128/msphere.00452-22)
+
+---
+
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
+ 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
+
+
+Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
+
+[Source](https://www.nature.com/articles/s41564-022-01293-8)
+
+10.1038/s41564-022-01293-8
+
+---
+
+## Gut microbiota of the young ameliorates physical fitness of the aged in mice
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01386-w)
+
+---
+
+## Catheterization of mice triggers resurgent urinary tract infection seeded by a bladder reservoir of <em>Acinetobacter baumanni</em>
+
+[Source](https://www.science.org/doi/10.1126/scitranslmed.abn8134)
+
+---
+
+## Prebiotic intervention with HAMSAB in untreated essential hypertensive patients assessed in a phase II randomized trial 
+
+[Source](https://twitter.com/FZMarques/status/1612579178104381440)
+
+---
+
+## <em>Akkermansia muciniphila</em> protects mice against an emerging tick-borne viral pathogen 
+
+[Source](https://www.nature.com/articles/s41564-022-01279-6)
+
+---
+
+## Beehives possess their own distinct microbiomes.
+ 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
+
+
+Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
+
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
+
+10.1186/s40793-023-00460-6
+
+---
+
+## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome.
+ 12.01.2023, _CR Strachan, XA Yu, V Neubauer, AJ Mueller, M Wagner, Q Zebeli, E Selberherr, MF Polz_
+
+
+The activities of different microbes in the cow rumen have been shown to modulate the host's ability to utilize plant biomass, while the host-rumen interface has received little attention. As datasets collected worldwide have pointed to Campylobacteraceae as particularly abundant members of the rumen epithelial microbiome, we targeted this group in a subset of seven cows with meta- and isolate genome analysis. We show that the dominant Campylobacteraceae lineage has recently speciated into two populations that were structured by genome-wide selective sweeps followed by population-specific gene import and recombination. These processes led to differences in gene expression and enzyme domain composition that correspond to the ability to utilize acetate, the main carbon source for the host, at the cost of inhibition by propionate. This trade-off in competitive ability further manifests itself in differential dynamics of the two populations in vivo. By exploring population-level adaptations that otherwise remain cryptic in culture-independent analyses, our results highlight how recent evolutionary dynamics can shape key functional roles in the rumen microbiome.
+
+[Source](https://www.nature.com/articles/s41564-022-01300-y)
+
+10.1038/s41564-022-01300-y
+
+---
+
+## Ecological landscapes guide the assembly of optimal microbial communities.
+ 12.01.2023, _AB George, KS Korolev_
+
+
+_Humans, Soil Microbiology, Microbiota, Microbial Consortia, Agriculture_
+Assembling optimal microbial communities is key for various applications in biofuel production, agriculture, and human health. Finding the optimal community is challenging because the number of possible communities grows exponentially with the number of species, and so an exhaustive search cannot be performed even for a dozen species. A heuristic search that improves community function by adding or removing one species at a time is more practical, but it is unknown whether this strategy can discover an optimal or nearly optimal community. Using consumer-resource models with and without cross-feeding, we investigate how the efficacy of search depends on the distribution of resources, niche overlap, cross-feeding, and other aspects of community ecology. We show that search efficacy is determined by the ruggedness of the appropriately-defined ecological landscape. We identify specific ruggedness measures that are both predictive of search performance and robust to noise and low sampling density. The feasibility of our approach is demonstrated using experimental data from a soil microbial community. Overall, our results establish the conditions necessary for the success of the heuristic search and provide concrete design principles for building high-performing microbial consortia.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010570)
+
+10.1371/journal.pcbi.1010570
+
+---
+
+## Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering.
+ 06.01.2023, _T Ullmann, S Peschel, P Finger, CL Müller, AL Boulesteix_
+
+
+In recent years, unsupervised analysis of microbiome data, such as microbial network analysis and clustering, has increased in popularity. Many new statistical and computational methods have been proposed for these tasks. This multiplicity of analysis strategies poses a challenge for researchers, who are often unsure which method(s) to use and might be tempted to try different methods on their dataset to look for the "best" ones. However, if only the best results are selectively reported, this may cause over-optimism: the "best" method is overly fitted to the specific dataset, and the results might be non-replicable on validation data. Such effects will ultimately hinder research progress. Yet so far, these topics have been given little attention in the context of unsupervised microbiome analysis. In our illustrative study, we aim to quantify over-optimism effects in this context. We model the approach of a hypothetical microbiome researcher who undertakes four unsupervised research tasks: clustering of bacterial genera, hub detection in microbial networks, differential microbial network analysis, and clustering of samples. While these tasks are unsupervised, the researcher might still have certain expectations as to what constitutes interesting results. We translate these expectations into concrete evaluation criteria that the hypothetical researcher might want to optimize. We then randomly split an exemplary dataset from the American Gut Project into discovery and validation sets multiple times. For each research task, multiple method combinations (e.g., methods for data normalization, network generation, and/or clustering) are tried on the discovery data, and the combination that yields the best result according to the evaluation criterion is chosen. While the hypothetical researcher might only report this result, we also apply the "best" method combination to the validation dataset. The results are then compared between discovery and validation data. In all four research tasks, there are notable over-optimism effects; the results on the validation data set are worse compared to the discovery data, averaged over multiple random splits into discovery/validation data. Our study thus highlights the importance of validation and replication in microbiome analysis to obtain reliable results and demonstrates that the issue of over-optimism goes beyond the context of statistical testing and fishing for significance.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820)
+
+10.1371/journal.pcbi.1010820
+
+---
+
+## Ten simple rules for using public biological data for your research.
+ 09.01.2023, _VH Oza, JH Whitlock, EJ Wilk, A Uno-Antonison, B Wilk, M Gajapathy, TC Howton, A Trull, L Ianov, EA Worthey, BN Lasseigne_
+
+
+_Reproducibility of Results, Information Storage and Retrieval_
+With an increasing amount of biological data available publicly, there is a need for a guide on how to successfully download and use this data. The 10 simple rules for using public biological data are: (1) use public data purposefully in your research; (2) evaluate data for your use case; (3) check data reuse requirements and embargoes; (4) be aware of ethics for data reuse; (5) plan for data storage and compute requirements; (6) know what you are downloading; (7) download programmatically and verify integrity; (8) properly cite data; (9) make reprocessed data and models Findable, Accessible, Interoperable, and Reusable (FAIR) and share; and (10) make pipelines and code FAIR and share. These rules are intended as a guide for researchers wanting to make use of available data and to increase data reuse and reproducibility.
+
+[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010749)
+
+10.1371/journal.pcbi.1010749
+
+---
+
+## SemiBin2: self-supervised contrastive learning leads to better MAGs for short- and long-read sequencing 
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.01.09.523201v1)
+
+---
+
+## https://t.co/noR7crphRT
+
+[Source](https://t.co/noR7crphRT)
+
+---
+
+## Identification and Prognostication of End-of-Life State Using a Japanese Guideline-Based Diagnostic Method: A Diagnostic Accuracy Study.
+ 13.01.2023, _M Arahata, H Asakura, E Morishita, S Minami, Y Shimizu_
+
+
+Prognostic uncertainty can be a barrier to providing palliative care. Accurate prognostic estimation for patients at the end of life is challenging. This study aimed to evaluate the accuracy of end-of-life diagnosis using our unique diagnostic method.
+
+[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
+
+10.2147/IJGM.S392963
+
+---
+
+## January 10, 2023
+
+[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
 ---
 
