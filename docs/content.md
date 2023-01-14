@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Treatment of Infants and Children With SARS-CoV-2 Monoclonal Antibodies: A European Case Series.
- 13.01.2023, _C Rau, L Auer-Hackenberg, HE Deubzer, E Schwabel, M Jaros, A Diederichs, T Lehrnbecher, M Holm, ML von Linstow, L Martin, SS Dinges, M Rothensteiner, M Siepermann, V Strenger, U von Both, N Teig, F Brinkmann, F Leeb, M Zeitlinger, R Kobbe, F Götzinger_
+## Evolution of treatment patterns and survival outcomes in patients with advanced non-small cell lung cancer treated at Frankfurt University Hospital in 2012-2018.
+ 13.01.2023, _A Wolf, JA Stratmann, S Shaid, N Niklas, A Calleja, H Ubhi, R Munro, D Waldenberger, R Carroll, MJ Daumont, JR Penrod, L Lacoin, G Rohde_
 
 
-Although severe COVID-19 in children is rare, those with certain pre-existing health conditions are more prone to severe disease. Monoclonal antibodies (mAbs) against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are potent antiviral agents that reduce adverse clinical outcomes in adults, but are commonly not approved for use in pediatric patients.
+Immune checkpoint inhibitors (ICIs) have improved outcomes for patients with advanced non-small cell lung cancer (NSCLC) versus chemotherapy in clinical trials. In Germany, ICIs have been used clinically since 2015 for patients with advanced/metastatic NSCLC without epidermal growth factor receptor (EGFR)/anaplastic lymphoma kinase (ALK) aberrations. As part of I-O Optimise, a multinational research program utilizing real-world data on thoracic malignancies, we describe real-world treatment patterns and survival following reimbursement of ICIs for advanced NSCLC in Germany.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1097/INF.0000000000003773
+10.1186/s12890-022-02288-1
 
 ---
 
@@ -128,15 +128,15 @@ Allele-specific expression (ASE) analysis detects the relative abundance of alle
 
 ---
 
-## Dietary fat induced chylomicron-mediated LPS translocation in a bicameral Caco-2cell model.
- 12.01.2023, _MMM Tomassen, C Govers, AP Vos, NJW de Wit_
+## Predicting the impact of genotype-by-genotype interaction on the purebred-crossbred genetic correlation from phenotype and genotype marker data of parental lines.
+ 13.01.2023, _P Duenk, YCJ Wientjes, P Bijma, MW Iversen, MS Lopes, MPL Calus_
 
 
-There is increasing evidence that dietary fat, especially saturated fat, promotes the translocation of lipopolysaccharide (LPS) via chylomicron production in the gut. Chylomicrons can subsequently transport LPS to other parts of the body, where they can induce low-grade chronic inflammation that is linked to various metabolic and gut-related diseases. To identify promising (food) compounds that can prevent or ameliorate LPS-related low-grade inflammation, we developed and optimized a bicameral in vitro model for dietary fat-induced LPS translocation that closely mimics the in vivo situation and facilitates high-throughput screening.
+The genetic correlation between purebred (PB) and crossbred (CB) performances ([Formula: see text]) partially determines the response in CB when selection is on PB performance in the parental lines. An earlier study has derived expressions for an upper and lower bound of [Formula: see text], using the variance components of the parental purebred lines, including e.g. the additive genetic variance in the sire line for the trait expressed in one of the dam lines. How to estimate these variance components is not obvious, because animals from one parental line do not have phenotypes for the trait expressed in the other line. Thus, the aim of this study was to propose and compare three methods for approximating the required variance components. The first two methods are based on (co)variances of genomic estimated breeding values (GEBV) in the line of interest, either accounting for shrinkage (VCGEBV-S) or not (VCGEBV). The third method uses restricted maximum likelihood (REML) estimates directly from univariate and bivariate analyses (VCREML) by ignoring that the variance components should refer to the line of interest, rather than to the line in which the trait is expressed. We validated these methods by comparing the resulting predicted bounds of [Formula: see text] with the [Formula: see text] estimated from PB and CB data for five traits in a three-way cross in pigs.
 
 [Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
 
-10.1186/s12944-022-01754-3
+10.1186/s12711-022-00773-z
 
 ---
 
@@ -158,15 +158,34 @@ There is increasing evidence that dietary fat, especially saturated fat, promote
 
 ---
 
+## Subcuticular suture and incisional surgical-site infection in elective hepatobiliary and pancreatic surgery: an open-label, pragmatic randomized clinical trial (CLOSKIN trial).
+ 13.01.2023, _I Aguirre-Allende, M Alkorta-Zuloaga, MT Iglesias-Gaspar, I Urreta-Ballobre, A García-Domínguez, X Arteaga-Martin, A Beguiristain-Gómez, MÁ Medrano-Gómez, I Ruiz-Montesinos, AP Riverola-Aso, R Jiménez-Agüero, JM Enríquez-Navascués_
+
+
+Subcuticular suture has proven to reduce superficial incisional SSI (si-SSI) in clean surgery. However, question remains regarding clean-contaminated procedures. The aim of this study is to assess if subcuticular suture is superior to staples in reducing si-SSI incidence in elective HBP surgery.
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+10.1186/s12893-023-01911-0
+
+---
+
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity
+## The gut microbiota in multiple sclerosis varies with disease activity.
+ 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
+
+
+_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
+Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
+
+10.1186/s13073-022-01148-1
 
 ---
 
@@ -224,15 +243,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Can we influence the neurological development and hair cortisol concentration of offspring by reducing the stress of the mother during pregnancy? A randomized controlled trial.
- 13.01.2023, _JA Puertas-Gonzalez, B Romero-Gonzalez, C Mariño-Narvaez, R Gonzalez-Perez, IO Sosa-Sanchez, MI Peralta-Ramirez_
+## Profiles of autism characteristics in thirteen genetic syndromes: a machine learning approach.
+ 13.01.2023, _N Bozhilova, A Welham, D Adams, S Bissell, H Bruining, H Crawford, K Eden, L Nelson, C Oliver, L Powis, C Richards, J Waite, P Watson, H Rhys, L Wilde, K Woodcock, J Moss_
 
 
-The objective was to evaluate the effects of a stress management cognitive behavioural therapy (CBT) followed during pregnancy on subsequent childhood on hair cortisol at birth and on neurodevelopment and hair cortisol concentrations at 6 months of age. The study sample included 48 pregnant women, divided into two groups: 24 women in the Therapy Group (TG) and 24 women who received standard pregnancy care (Control Group; CG). To test the therapy efficacy, an evaluation of the hair cortisol concentrations and psychological stress, psychopathological symptomatology and resilience was conducted before and after the treatment. The level of cortisol in their hair was obtained during pregnancy and that of their babies at birth. Six months after birth, a cortisol sample was taken from the hair and the babies' neurodevelopment was evaluated based on a Bayley-III test. The TG presented reductions in psychological stress and psychopathological symptomatology after treatment. On the other hand, the CG increased their cortisol concentrations between the pre and post intervention, remaining stable in the TG. Moreover, results showed that TG babies had lower cortisol concentrations at birth and obtained significantly higher cognitive and motor development scores at 6 months. These findings support that providing psychological care to pregnant women may not only have a benefit on these women's mental state, but may also benefit the neurodevelopment of their offspring. This article is protected by copyright. All rights reserved.
+Phenotypic studies have identified distinct patterns of autistic characteristics in genetic syndromes associated with intellectual disability (ID), leading to diagnostic uncertainty and compromised access to autism-related support. Previous research has tended to include small samples and diverse measures, which limits the generalisability of findings. In this study, we generated detailed profiles of autistic characteristics in a large sample of &gt; 1500 individuals with rare genetic syndromes.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1002/smi.3222
+10.1186/s13229-022-00530-5
 
 ---
 
@@ -242,15 +261,15 @@ The objective was to evaluate the effects of a stress management cognitive behav
 
 ---
 
-## Fecal microbiota transplantation from young mice rejuvenates aged hematopoietic stem cells by suppressing inflammation.
- 13.01.2023, _X Zeng, X Li, X Li, C Wei, C Shi, K Hu, D Kong, Q Luo, Y Xu, W Shan, M Zhang, J Shi, J Feng, Y Han, H Huang, P Qian_
+## Tinkering with (in)visibilities: Caring for older people with surveillance technologies.
+ 13.01.2023, _A Kamp, SL Grosen, AM Hansen_
 
 
-Hematopoietic stem cell (HSC) aging is accompanied by hematopoietic reconstitution dysfunction, including loss of regenerative and engraftment ability, myeloid differentiation bias and elevated risks of hematopoietic malignancies. Gut microbiota, a key regulator of host health and immunity, has been recently reported to impact hematopoiesis. However, there is currently limited empirical evidence elucidating the direct impact of gut microbiome on aging hematopoiesis. In this study, we performed fecal microbiota transplantation (FMT) from young mice to aged mice and observed significant increment in lymphoid differentiation and decrease in myeloid differentiation in aged recipient mice. Further, FMT from young mice rejuvenated aged HSCs with enhanced short-term and long-term hematopoietic repopulation capacity. Mechanistically, single-cell RNA sequencing deciphered that FMT from young mice mitigated inflammatory signals, upregulated FoxO signaling pathway and promoted lymphoid differentiation of HSCs during aging. Finally, integrated microbiome and metabolome analyses uncovered that FMT reshaped gut microbiota construction and metabolite landscape, and Lachnospiraceae and tryptophan-associated metabolites promoted the recovery of hematopoiesis and rejuvenated aged HSCs. Together, our study highlights the paramount importance of the gut microbiota in HSC aging and provides insights into therapeutic strategies for aging-related hematologic disorders.
+New surveillance technologies have in later years been introduced in care for older people as part of a broader policy agenda of 'sustainable' welfare state retrenchment, promoting ideals of self-sufficiency and empowerment of older people 'ageing in place'. Drawing on newer approaches to surveillance studies, this article explores care workers' active labour in creating (in)visibility in a complex and ongoing process of tinkering, while negotiating political rationales of empowerment and professional accountability. Hence, visibilities are conceived as coded, reflecting different ideals and rationales. Based on extensive fieldwork in Danish eldercare, we analyse two forms of surveillance: virtual homecare and sensor-flooring, where clients are involved and positioned in different ways in accomplishing surveillance. We illuminate how the process of accomplishing (in)visibility does not only involve tinkering with technology, but also with spatial arrangements in the client's home, and with clients' behaviour. Consequently, we underscore how tinkering may turn out to be a difficult and even conflictual task of negotiating professional authority and accountability in ways that resonate with clients' sense of autonomy and policy ideals of empowerment. Our studies underline how the power dynamics of surveillance in care should not be overlooked, even though they are continuously negotiated in care practices.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1182/blood.2022017514
+10.1111/1467-9566.13606
 
 ---
 
@@ -290,15 +309,15 @@ Hematopoietic stem cell (HSC) aging is accompanied by hematopoietic reconstituti
 
 ---
 
-## Syncope in ICD recipients: a single centre experience.
- 13.01.2023, _P Khan, K Selvarajah, S Gohel, BS Sidhu, A Cannatà, DI Bromage, T McDonagh, F Murgatroyd, PA Scott_
+## Subcuticular suture and incisional surgical-site infection in elective hepatobiliary and pancreatic surgery: an open-label, pragmatic randomized clinical trial (CLOSKIN trial).
+ 13.01.2023, _I Aguirre-Allende, M Alkorta-Zuloaga, MT Iglesias-Gaspar, I Urreta-Ballobre, A García-Domínguez, X Arteaga-Martin, A Beguiristain-Gómez, MÁ Medrano-Gómez, I Ruiz-Montesinos, AP Riverola-Aso, R Jiménez-Agüero, JM Enríquez-Navascués_
 
 
-There is little evidence of the impact of syncope in implantable cardioverter-defibrillator (ICD) patients in routine community hospital care. This single-centre retrospective study sought to evaluate the incidence and prognostic significance of syncope in consecutive ICD patients.
+Subcuticular suture has proven to reduce superficial incisional SSI (si-SSI) in clean surgery. However, question remains regarding clean-contaminated procedures. The aim of this study is to assess if subcuticular suture is superior to staples in reducing si-SSI incidence in elective HBP surgery.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1093/europace/euac281
+10.1186/s12893-023-01911-0
 
 ---
 
@@ -424,15 +443,15 @@ With an increasing amount of biological data available publicly, there is a need
 
 ---
 
-## Syncope in ICD recipients: a single centre experience.
- 13.01.2023, _P Khan, K Selvarajah, S Gohel, BS Sidhu, A Cannatà, DI Bromage, T McDonagh, F Murgatroyd, PA Scott_
+## Subcuticular suture and incisional surgical-site infection in elective hepatobiliary and pancreatic surgery: an open-label, pragmatic randomized clinical trial (CLOSKIN trial).
+ 13.01.2023, _I Aguirre-Allende, M Alkorta-Zuloaga, MT Iglesias-Gaspar, I Urreta-Ballobre, A García-Domínguez, X Arteaga-Martin, A Beguiristain-Gómez, MÁ Medrano-Gómez, I Ruiz-Montesinos, AP Riverola-Aso, R Jiménez-Agüero, JM Enríquez-Navascués_
 
 
-There is little evidence of the impact of syncope in implantable cardioverter-defibrillator (ICD) patients in routine community hospital care. This single-centre retrospective study sought to evaluate the incidence and prognostic significance of syncope in consecutive ICD patients.
+Subcuticular suture has proven to reduce superficial incisional SSI (si-SSI) in clean surgery. However, question remains regarding clean-contaminated procedures. The aim of this study is to assess if subcuticular suture is superior to staples in reducing si-SSI incidence in elective HBP surgery.
 
 [Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
-10.1093/europace/euac281
+10.1186/s12893-023-01911-0
 
 ---
 
