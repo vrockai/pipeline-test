@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Evolution of treatment patterns and survival outcomes in patients with advanced non-small cell lung cancer treated at Frankfurt University Hospital in 2012-2018.
- 13.01.2023, _A Wolf, JA Stratmann, S Shaid, N Niklas, A Calleja, H Ubhi, R Munro, D Waldenberger, R Carroll, MJ Daumont, JR Penrod, L Lacoin, G Rohde_
+## Clinical presentation, treatment, and outcome of 24 dogs with bacterial meningitis or meningoencephalitis without empyema (2010-2020).
+ 14.01.2023, _F Rawson, M Foreman, T Mignan, J Galer, A Fraser, A Crawford_
 
 
-Immune checkpoint inhibitors (ICIs) have improved outcomes for patients with advanced non-small cell lung cancer (NSCLC) versus chemotherapy in clinical trials. In Germany, ICIs have been used clinically since 2015 for patients with advanced/metastatic NSCLC without epidermal growth factor receptor (EGFR)/anaplastic lymphoma kinase (ALK) aberrations. As part of I-O Optimise, a multinational research program utilizing real-world data on thoracic malignancies, we describe real-world treatment patterns and survival following reimbursement of ICIs for advanced NSCLC in Germany.
+Bacterial meningitis (BM) and meningoencephalitis (BMEM) are associated with high case fatality rates and neurologic sequelae in people, but limited data exists on outcome in dogs.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1186/s12890-022-02288-1
+10.1111/jvim.16605
 
 ---
 
@@ -158,18 +158,6 @@ The genetic correlation between purebred (PB) and crossbred (CB) performances ([
 
 ---
 
-## Subcuticular suture and incisional surgical-site infection in elective hepatobiliary and pancreatic surgery: an open-label, pragmatic randomized clinical trial (CLOSKIN trial).
- 13.01.2023, _I Aguirre-Allende, M Alkorta-Zuloaga, MT Iglesias-Gaspar, I Urreta-Ballobre, A García-Domínguez, X Arteaga-Martin, A Beguiristain-Gómez, MÁ Medrano-Gómez, I Ruiz-Montesinos, AP Riverola-Aso, R Jiménez-Agüero, JM Enríquez-Navascués_
-
-
-Subcuticular suture has proven to reduce superficial incisional SSI (si-SSI) in clean surgery. However, question remains regarding clean-contaminated procedures. The aim of this study is to assess if subcuticular suture is superior to staples in reducing si-SSI incidence in elective HBP surgery.
-
-[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
-
-10.1186/s12893-023-01911-0
-
----
-
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
@@ -243,33 +231,21 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Profiles of autism characteristics in thirteen genetic syndromes: a machine learning approach.
- 13.01.2023, _N Bozhilova, A Welham, D Adams, S Bissell, H Bruining, H Crawford, K Eden, L Nelson, C Oliver, L Powis, C Richards, J Waite, P Watson, H Rhys, L Wilde, K Woodcock, J Moss_
+## Effect and cerebral mechanism of moxibustion at heat-sensitized Yaoyangguan (GV3) in patients with lumbar disc herniation and myofascial pain syndrome by resting-state functionality magnetic resonance imaging: protocol for an observational study.
+ 14.01.2023, _Y Jun, X Jun, XU Shaozhong, X Hongwu, X Jie_
 
 
-Phenotypic studies have identified distinct patterns of autistic characteristics in genetic syndromes associated with intellectual disability (ID), leading to diagnostic uncertainty and compromised access to autism-related support. Previous research has tended to include small samples and diverse measures, which limits the generalisability of findings. In this study, we generated detailed profiles of autistic characteristics in a large sample of &gt; 1500 individuals with rare genetic syndromes.
+We want to explore the analgesic brain effect of the moxibustion at heat-sensitized Yaoyangguan (GV3) in patients with lumbar disc herniation (LDH) and myofascial pain syndrome (MPS). In an assessor-blinded observational study, we will include 15 LDH and 15 MPS. They will accept same treatment of heat-sensitive moxibustion at Yaoyangguan (GV3). The resting-state functionality magnetic resonance imaging image data of brain activities before and after treatment will be analyzed by mean fractional amplitude of low-frequency fluctuation, regional homogeneity analysis and brain functional connection. We select seed of first sensory cortex, second sensory cortex, insula cortex, periaqueductal gray and anterior cingulate cortex as the regions of interest to analyse the relationship between brain functional connectivity of pain-related networks and clinical data. Our study could disclose key brain targets and central response characteristics of the analgesic brain effect and the brain functional connection of heat-sensitive moxibustion.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s13229-022-00530-5
+10.19852/j.cnki.jtcm.20221006.002
 
 ---
 
 ## #Brain
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Tinkering with (in)visibilities: Caring for older people with surveillance technologies.
- 13.01.2023, _A Kamp, SL Grosen, AM Hansen_
-
-
-New surveillance technologies have in later years been introduced in care for older people as part of a broader policy agenda of 'sustainable' welfare state retrenchment, promoting ideals of self-sufficiency and empowerment of older people 'ageing in place'. Drawing on newer approaches to surveillance studies, this article explores care workers' active labour in creating (in)visibility in a complex and ongoing process of tinkering, while negotiating political rationales of empowerment and professional accountability. Hence, visibilities are conceived as coded, reflecting different ideals and rationales. Based on extensive fieldwork in Danish eldercare, we analyse two forms of surveillance: virtual homecare and sensor-flooring, where clients are involved and positioned in different ways in accomplishing surveillance. We illuminate how the process of accomplishing (in)visibility does not only involve tinkering with technology, but also with spatial arrangements in the client's home, and with clients' behaviour. Consequently, we underscore how tinkering may turn out to be a difficult and even conflictual task of negotiating professional authority and accountability in ways that resonate with clients' sense of autonomy and policy ideals of empowerment. Our studies underline how the power dynamics of surveillance in care should not be overlooked, even though they are continuously negotiated in care practices.
-
-[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
-
-10.1111/1467-9566.13606
 
 ---
 
@@ -306,18 +282,6 @@ New surveillance technologies have in later years been introduced in care for ol
 ## pic.twitter.com/NcfAT46ADK
 
 [Source](https://t.co/NcfAT46ADK)
-
----
-
-## Subcuticular suture and incisional surgical-site infection in elective hepatobiliary and pancreatic surgery: an open-label, pragmatic randomized clinical trial (CLOSKIN trial).
- 13.01.2023, _I Aguirre-Allende, M Alkorta-Zuloaga, MT Iglesias-Gaspar, I Urreta-Ballobre, A García-Domínguez, X Arteaga-Martin, A Beguiristain-Gómez, MÁ Medrano-Gómez, I Ruiz-Montesinos, AP Riverola-Aso, R Jiménez-Agüero, JM Enríquez-Navascués_
-
-
-Subcuticular suture has proven to reduce superficial incisional SSI (si-SSI) in clean surgery. However, question remains regarding clean-contaminated procedures. The aim of this study is to assess if subcuticular suture is superior to staples in reducing si-SSI incidence in elective HBP surgery.
-
-[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
-
-10.1186/s12893-023-01911-0
 
 ---
 
@@ -443,15 +407,15 @@ With an increasing amount of biological data available publicly, there is a need
 
 ---
 
-## Subcuticular suture and incisional surgical-site infection in elective hepatobiliary and pancreatic surgery: an open-label, pragmatic randomized clinical trial (CLOSKIN trial).
- 13.01.2023, _I Aguirre-Allende, M Alkorta-Zuloaga, MT Iglesias-Gaspar, I Urreta-Ballobre, A García-Domínguez, X Arteaga-Martin, A Beguiristain-Gómez, MÁ Medrano-Gómez, I Ruiz-Montesinos, AP Riverola-Aso, R Jiménez-Agüero, JM Enríquez-Navascués_
+## Clinical presentation, treatment, and outcome of 24 dogs with bacterial meningitis or meningoencephalitis without empyema (2010-2020).
+ 14.01.2023, _F Rawson, M Foreman, T Mignan, J Galer, A Fraser, A Crawford_
 
 
-Subcuticular suture has proven to reduce superficial incisional SSI (si-SSI) in clean surgery. However, question remains regarding clean-contaminated procedures. The aim of this study is to assess if subcuticular suture is superior to staples in reducing si-SSI incidence in elective HBP surgery.
+Bacterial meningitis (BM) and meningoencephalitis (BMEM) are associated with high case fatality rates and neurologic sequelae in people, but limited data exists on outcome in dogs.
 
 [Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
-10.1186/s12893-023-01911-0
+10.1111/jvim.16605
 
 ---
 
