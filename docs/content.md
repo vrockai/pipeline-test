@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Incidence, Severity, and Presentation of Type 2 Diabetes in Youth During the First and Second Year of the COVID-19 Pandemic.
- 13.01.2023, _S Sasidharan Pillai, P Has, JB Quintos, M Serrano Gonzalez, VL Kasper, LS Topor, ME Fredette_
+## Treatment of Infants and Children With SARS-CoV-2 Monoclonal Antibodies: A European Case Series.
+ 13.01.2023, _C Rau, L Auer-Hackenberg, HE Deubzer, E Schwabel, M Jaros, A Diederichs, T Lehrnbecher, M Holm, ML von Linstow, L Martin, SS Dinges, M Rothensteiner, M Siepermann, V Strenger, U von Both, N Teig, F Brinkmann, F Leeb, M Zeitlinger, R Kobbe, F Götzinger_
 
 
-To describe the evolving impact of the coronavirus disease 2019 pandemic on the incidence and presentation of new-onset pediatric type 2 diabetes.
+Although severe COVID-19 in children is rare, those with certain pre-existing health conditions are more prone to severe disease. Monoclonal antibodies (mAbs) against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are potent antiviral agents that reduce adverse clinical outcomes in adults, but are commonly not approved for use in pediatric patients.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.2337/dc22-1702
+10.1097/INF.0000000000003773
 
 ---
 
@@ -158,34 +158,15 @@ There is increasing evidence that dietary fat, especially saturated fat, promote
 
 ---
 
-## COVID-19 hospitalization and mortality in community-dwelling racially and ethnically diverse persons living with dementia.
- 13.01.2023, _JA Thunell, P Ferido, JM Zissimopoulos_
-
-
-Community-dwelling persons living with dementia (PLWD) are vulnerable to COVID-19 infection, severity, and mortality due to the high prevalence of comorbidities, reliance on caregivers, and potential inability to employ risk reduction measures, among other factors.
-
-[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
-
-10.1111/jgs.18230
-
----
-
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity.
- 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
-
-
-_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
-Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
+## The gut microbiota in multiple sclerosis varies with disease activity
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
-
-10.1186/s13073-022-01148-1
 
 ---
 
@@ -243,15 +224,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Auditory stimulation and deep learning predict awakening from coma after cardiac arrest.
- 13.01.2023, _FM Aellen, SL Alnes, F Loosli, AO Rossetti, F Zubler, M De Lucia, A Tzovara_
+## Can we influence the neurological development and hair cortisol concentration of offspring by reducing the stress of the mother during pregnancy? A randomized controlled trial.
+ 13.01.2023, _JA Puertas-Gonzalez, B Romero-Gonzalez, C Mariño-Narvaez, R Gonzalez-Perez, IO Sosa-Sanchez, MI Peralta-Ramirez_
 
 
-Assessing the integrity of neural functions in coma after cardiac arrest remains an open challenge. Prognostication of coma outcome relies mainly on visual expert scoring of physiological signals, which is prone to subjectivity and leaves a considerable number of patients in a 'grey zone', with uncertain prognosis. Quantitative analysis of EEG responses to auditory stimuli can provide a window into neural functions in coma and information about patients' chances of awakening. However, responses to standardized auditory stimulation are far from being used in a clinical routine due to heterogeneous and cumbersome protocols. Here, we hypothesize that convolutional neural networks can assist in extracting interpretable patterns of EEG responses to auditory stimuli during the first day of coma that are predictive of patients' chances of awakening and survival at 3 months. We used convolutional neural networks (CNNs) to model single-trial EEG responses to auditory stimuli in the first day of coma, under standardized sedation and targeted temperature management, in a multicentre and multiprotocol patient cohort and predict outcome at 3 months. The use of CNNs resulted in a positive predictive power for predicting awakening of 0.83 ± 0.04 and 0.81 ± 0.06 and an area under the curve in predicting outcome of 0.69 ± 0.05 and 0.70 ± 0.05, for patients undergoing therapeutic hypothermia and normothermia, respectively. These results also persisted in a subset of patients that were in a clinical 'grey zone'. The network's confidence in predicting outcome was based on interpretable features: it strongly correlated to the neural synchrony and complexity of EEG responses and was modulated by independent clinical evaluations, such as the EEG reactivity, background burst-suppression or motor responses. Our results highlight the strong potential of interpretable deep learning algorithms in combination with auditory stimulation to improve prognostication of coma outcome.
+The objective was to evaluate the effects of a stress management cognitive behavioural therapy (CBT) followed during pregnancy on subsequent childhood on hair cortisol at birth and on neurodevelopment and hair cortisol concentrations at 6 months of age. The study sample included 48 pregnant women, divided into two groups: 24 women in the Therapy Group (TG) and 24 women who received standard pregnancy care (Control Group; CG). To test the therapy efficacy, an evaluation of the hair cortisol concentrations and psychological stress, psychopathological symptomatology and resilience was conducted before and after the treatment. The level of cortisol in their hair was obtained during pregnancy and that of their babies at birth. Six months after birth, a cortisol sample was taken from the hair and the babies' neurodevelopment was evaluated based on a Bayley-III test. The TG presented reductions in psychological stress and psychopathological symptomatology after treatment. On the other hand, the CG increased their cortisol concentrations between the pre and post intervention, remaining stable in the TG. Moreover, results showed that TG babies had lower cortisol concentrations at birth and obtained significantly higher cognitive and motor development scores at 6 months. These findings support that providing psychological care to pregnant women may not only have a benefit on these women's mental state, but may also benefit the neurodevelopment of their offspring. This article is protected by copyright. All rights reserved.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1093/brain/awac340
+10.1002/smi.3222
 
 ---
 
@@ -261,14 +242,15 @@ Assessing the integrity of neural functions in coma after cardiac arrest remains
 
 ---
 
-## Letter to the Editor: How Spermidine and Targeting Eukaryotic Initiator Factor 5A Might Help to Both a Novel Congenital Disorder and Brain Aging.
- 13.01.2023, _V Faundes_
+## Fecal microbiota transplantation from young mice rejuvenates aged hematopoietic stem cells by suppressing inflammation.
+ 13.01.2023, _X Zeng, X Li, X Li, C Wei, C Shi, K Hu, D Kong, Q Luo, Y Xu, W Shan, M Zhang, J Shi, J Feng, Y Han, H Huang, P Qian_
 
 
+Hematopoietic stem cell (HSC) aging is accompanied by hematopoietic reconstitution dysfunction, including loss of regenerative and engraftment ability, myeloid differentiation bias and elevated risks of hematopoietic malignancies. Gut microbiota, a key regulator of host health and immunity, has been recently reported to impact hematopoiesis. However, there is currently limited empirical evidence elucidating the direct impact of gut microbiome on aging hematopoiesis. In this study, we performed fecal microbiota transplantation (FMT) from young mice to aged mice and observed significant increment in lymphoid differentiation and decrease in myeloid differentiation in aged recipient mice. Further, FMT from young mice rejuvenated aged HSCs with enhanced short-term and long-term hematopoietic repopulation capacity. Mechanistically, single-cell RNA sequencing deciphered that FMT from young mice mitigated inflammatory signals, upregulated FoxO signaling pathway and promoted lymphoid differentiation of HSCs during aging. Finally, integrated microbiome and metabolome analyses uncovered that FMT reshaped gut microbiota construction and metabolite landscape, and Lachnospiraceae and tryptophan-associated metabolites promoted the recovery of hematopoiesis and rejuvenated aged HSCs. Together, our study highlights the paramount importance of the gut microbiota in HSC aging and provides insights into therapeutic strategies for aging-related hematologic disorders.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1089/jmf.2022.0078
+10.1182/blood.2022017514
 
 ---
 
@@ -308,15 +290,15 @@ Assessing the integrity of neural functions in coma after cardiac arrest remains
 
 ---
 
-## COVID-19 hospitalization and mortality in community-dwelling racially and ethnically diverse persons living with dementia.
- 13.01.2023, _JA Thunell, P Ferido, JM Zissimopoulos_
+## Syncope in ICD recipients: a single centre experience.
+ 13.01.2023, _P Khan, K Selvarajah, S Gohel, BS Sidhu, A Cannatà, DI Bromage, T McDonagh, F Murgatroyd, PA Scott_
 
 
-Community-dwelling persons living with dementia (PLWD) are vulnerable to COVID-19 infection, severity, and mortality due to the high prevalence of comorbidities, reliance on caregivers, and potential inability to employ risk reduction measures, among other factors.
+There is little evidence of the impact of syncope in implantable cardioverter-defibrillator (ICD) patients in routine community hospital care. This single-centre retrospective study sought to evaluate the incidence and prognostic significance of syncope in consecutive ICD patients.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1111/jgs.18230
+10.1093/europace/euac281
 
 ---
 
@@ -442,15 +424,15 @@ With an increasing amount of biological data available publicly, there is a need
 
 ---
 
-## COVID-19 hospitalization and mortality in community-dwelling racially and ethnically diverse persons living with dementia.
- 13.01.2023, _JA Thunell, P Ferido, JM Zissimopoulos_
+## Syncope in ICD recipients: a single centre experience.
+ 13.01.2023, _P Khan, K Selvarajah, S Gohel, BS Sidhu, A Cannatà, DI Bromage, T McDonagh, F Murgatroyd, PA Scott_
 
 
-Community-dwelling persons living with dementia (PLWD) are vulnerable to COVID-19 infection, severity, and mortality due to the high prevalence of comorbidities, reliance on caregivers, and potential inability to employ risk reduction measures, among other factors.
+There is little evidence of the impact of syncope in implantable cardioverter-defibrillator (ICD) patients in routine community hospital care. This single-centre retrospective study sought to evaluate the incidence and prognostic significance of syncope in consecutive ICD patients.
 
 [Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
-10.1111/jgs.18230
+10.1093/europace/euac281
 
 ---
 
