@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Clinical presentation, treatment, and outcome of 24 dogs with bacterial meningitis or meningoencephalitis without empyema (2010-2020).
- 14.01.2023, _F Rawson, M Foreman, T Mignan, J Galer, A Fraser, A Crawford_
+## Prednisone vs methotrexate in treatment naïve cardiac sarcoidosis.
+ 14.01.2023, _R Vis, H Mathijssen, RGM Keijsers, EMW van de Garde, M Veltkamp, F Akdim, MC Post, JC Grutters_
 
 
-Bacterial meningitis (BM) and meningoencephalitis (BMEM) are associated with high case fatality rates and neurologic sequelae in people, but limited data exists on outcome in dogs.
+Side effects limit the long-term use of glucocorticoids in cardiac sarcoidosis (CS), and methotrexate has gained attention as steroid sparing agent although the supporting evidence is poor. This study compared prednisone monotherapy, methotrexate monotherapy or a combination of both, in the reduction of myocardial Fluorine-18 fluorodeoxyglucose (FDG) uptake and clinical stabilization of CS patients.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1111/jvim.16605
+10.1007/s12350-022-03171-6
 
 ---
 
@@ -164,28 +164,9 @@ The genetic correlation between purebred (PB) and crossbred (CB) performances ([
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity.
- 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
-
-
-_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
-Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
+## The gut microbiota in multiple sclerosis varies with disease activity
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
-
-10.1186/s13073-022-01148-1
-
----
-
-## Circadian Rhythms and Melatonin Metabolism in Patients With Disorders of Gut-Brain Interactions.
- 01.04.2022, _S Fowler, EC Hoedt, NJ Talley, S Keely, GL Burns_
-
-
-Circadian rhythms are cyclic patterns of physiological, behavioural and molecular events that occur over a 24-h period. They are controlled by the suprachiasmatic nucleus (SCN), the brain's master pacemaker which governs peripheral clocks and melatonin release. While circadian systems are endogenous, there are external factors that synchronise the SCN to the ambient environment including light/dark cycles, fasting/fed state, temperature and physical activity. Circadian rhythms also provide internal temporal organisation which ensures that any internal changes that take place are centrally coordinated. Melatonin synchronises peripheral clocks to the external time and circadian rhythms are regulated by gene expression to control physiological function. Synchronisation of the circadian system with the external environment is vital for the health and survival of an organism and as circadian rhythms play a pivotal role in regulating GI physiology, disruption may lead to gastrointestinal (GI) dysfunction. Disorders of gut-brain interactions (DGBIs), also known as functional gastrointestinal disorders (FGIDs), are a group of diseases where patients experience reoccurring gastrointestinal symptoms which cannot be explained by obvious structural abnormalities and include functional dyspepsia (FD) and irritable bowel syndrome (IBS). Food timing impacts on the production of melatonin and given the correlation between food intake and symptom onset reported by patients with DGBIs, chronodisruption may be a feature of these conditions. Recent advances in immunology implicate circadian rhythms in the regulation of immune responses, and DGBI patients report fatigue and disordered sleep, suggesting circadian disruption. Further, melatonin treatment has been demonstrated to improve symptom burden in IBS patients, however, the mechanisms underlying this efficacy are unclear. Given the influence of circadian rhythms on gastrointestinal physiology and the immune system, modulation of these rhythms may be a potential therapeutic option for reducing symptom burden in these patients.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
-
-10.3389/fnins.2022.825246
 
 ---
 
@@ -195,15 +176,9 @@ Circadian rhythms are cyclic patterns of physiological, behavioural and molecula
 
 ---
 
-## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis.
- 10.01.2023, _Y Pinto, S Frishman, S Turjeman, A Eshel, M Nuriel-Ohayon, O Shrossel, O Ziv, W Walters, J Parsonnet, C Ley, EL Johnson, K Kumar, R Schweitzer, S Khatib, F Magzal, E Muller, S Tamir, K Tenenbaum-Gavish, S Rautava, S Salminen, E Isolauri, O Yariv, Y Peled, E Poran, J Pardo, R Chen, M Hod, E Borenstein, RE Ley, B Schwartz, Y Louzoun, E Hadar, O Koren_
-
-
-Gestational diabetes mellitus (GDM) is a condition in which women without diabetes are diagnosed with glucose intolerance during pregnancy, typically in the second or third trimester. Early diagnosis, along with a better understanding of its pathophysiology during the first trimester of pregnancy, may be effective in reducing incidence and associated short-term and long-term morbidities.
+## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis
 
 [Source](https://gut.bmj.com/content/early/2023/01/10/gutjnl-2022-328406)
-
-10.1136/gutjnl-2022-328406
 
 ---
 
@@ -213,33 +188,9 @@ Gestational diabetes mellitus (GDM) is a condition in which women without diabet
 
 ---
 
-## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
- 13.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
-
-
-Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
-
-[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.7759/cureus.32313
-
----
-
 ## #GutMicrobiome
 
 [Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Effect and cerebral mechanism of moxibustion at heat-sensitized Yaoyangguan (GV3) in patients with lumbar disc herniation and myofascial pain syndrome by resting-state functionality magnetic resonance imaging: protocol for an observational study.
- 14.01.2023, _Y Jun, X Jun, XU Shaozhong, X Hongwu, X Jie_
-
-
-We want to explore the analgesic brain effect of the moxibustion at heat-sensitized Yaoyangguan (GV3) in patients with lumbar disc herniation (LDH) and myofascial pain syndrome (MPS). In an assessor-blinded observational study, we will include 15 LDH and 15 MPS. They will accept same treatment of heat-sensitive moxibustion at Yaoyangguan (GV3). The resting-state functionality magnetic resonance imaging image data of brain activities before and after treatment will be analyzed by mean fractional amplitude of low-frequency fluctuation, regional homogeneity analysis and brain functional connection. We select seed of first sensory cortex, second sensory cortex, insula cortex, periaqueductal gray and anterior cingulate cortex as the regions of interest to analyse the relationship between brain functional connectivity of pain-related networks and clinical data. Our study could disclose key brain targets and central response characteristics of the analgesic brain effect and the brain functional connection of heat-sensitive moxibustion.
-
-[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
-
-10.19852/j.cnki.jtcm.20221006.002
 
 ---
 
@@ -297,15 +248,9 @@ We want to explore the analgesic brain effect of the moxibustion at heat-sensiti
 
 ---
 
-## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
- 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
-
-
-Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome
 
 [Source](https://www.nature.com/articles/s41564-022-01293-8)
-
-10.1038/s41564-022-01293-8
 
 ---
 
@@ -333,15 +278,9 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes.
- 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
-
-
-Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
+## Beehives possess their own distinct microbiomes 
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
-
-10.1186/s40793-023-00460-6
 
 ---
 
@@ -404,18 +343,6 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
-
----
-
-## Clinical presentation, treatment, and outcome of 24 dogs with bacterial meningitis or meningoencephalitis without empyema (2010-2020).
- 14.01.2023, _F Rawson, M Foreman, T Mignan, J Galer, A Fraser, A Crawford_
-
-
-Bacterial meningitis (BM) and meningoencephalitis (BMEM) are associated with high case fatality rates and neurologic sequelae in people, but limited data exists on outcome in dogs.
-
-[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
-
-10.1111/jvim.16605
 
 ---
 
