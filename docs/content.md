@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Implementation of an Intravenous Sotalol Initiation Protocol: Implications for Feasibility, Safety, and Length of Stay.
- 14.01.2023, _AY Liu, J Charron, D Fugaro, S Spoolstra, R Kaplan, G Lohrmann, X Gao, H Gay, R Passman, S Kim, AC Lin, A Chicos, R Arora, K Patil, A Pfenniger, BP Knight, N Verma_
+## "Decline and uneven recovery from 7 common long-term conditions managed in the Catalan primary care after two pandemic years: an observational retrospective population-based study using primary care electronic health records".
+ 14.01.2023, _N Mora, F Fina, L Méndez-Boo, R Cantenys, M Benítez, N Moreno, E Balló, E Hermosilla, M Fàbregas, C Guiriguet, X Cos, S Rodoreda, A Mas, Y Lejardi, E Coma, M Medina_
 
 
-Oral sotalol initiation requires a multiple-day, inpatient admission to monitor for QT prolongation during loading. A one-day intravenous (IV) sotalol loading protocol was approved by the FDA in March 2020, but limited data on clinical use and administration currently exists. This study describes implementation of an IV sotalol protocol within an integrated health system, provides initial efficacy and safety outcomes, and examines length of stay compared to oral sotalol initiation.
+The incidence of chronic diseases during the COVID-19 pandemic has drastically been reduced worldwide due to disruptions in healthcare systems. The aim of our study is to analyse the trends in the incidence of 7 commonly managed primary care chronic diseases during the last 2 years of the COVID-19 pandemic in Catalonia.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1111/jce.15819
+10.1186/s12875-022-01935-0
 
 ---
 
@@ -128,15 +128,15 @@ Allele-specific expression (ASE) analysis detects the relative abundance of alle
 
 ---
 
-## Predicting the impact of genotype-by-genotype interaction on the purebred-crossbred genetic correlation from phenotype and genotype marker data of parental lines.
- 13.01.2023, _P Duenk, YCJ Wientjes, P Bijma, MW Iversen, MS Lopes, MPL Calus_
+## Establishing allometric relationships between microsomal protein and cytochrome P450 content with body weight in vertebrate species.
+ 14.01.2023, _LS Lautz, AJ Hendriks, JLCM Dorne, J Louisse, NI Kramer_
 
 
-The genetic correlation between purebred (PB) and crossbred (CB) performances ([Formula: see text]) partially determines the response in CB when selection is on PB performance in the parental lines. An earlier study has derived expressions for an upper and lower bound of [Formula: see text], using the variance components of the parental purebred lines, including e.g. the additive genetic variance in the sire line for the trait expressed in one of the dam lines. How to estimate these variance components is not obvious, because animals from one parental line do not have phenotypes for the trait expressed in the other line. Thus, the aim of this study was to propose and compare three methods for approximating the required variance components. The first two methods are based on (co)variances of genomic estimated breeding values (GEBV) in the line of interest, either accounting for shrinkage (VCGEBV-S) or not (VCGEBV). The third method uses restricted maximum likelihood (REML) estimates directly from univariate and bivariate analyses (VCREML) by ignoring that the variance components should refer to the line of interest, rather than to the line in which the trait is expressed. We validated these methods by comparing the resulting predicted bounds of [Formula: see text] with the [Formula: see text] estimated from PB and CB data for five traits in a three-way cross in pigs.
+Data from in vitro studies are routinely used to estimate in vivo hepatic clearance of chemicals and this information is needed to parameterise physiologically based kinetic models. Such clearance data can be obtained from laboratory experiments using liver microsomes, hepatocytes, precision-cut liver slices or recombinant enzymes. Irrespective of the selected test system, scaling factors are required to convert the in vitro measured intrinsic clearance to a whole liver intrinsic clearance. Scaling factors such as the hepatic microsomal protein per gram of liver and/or the amount of cytochrome P450 per hepatocyte provide a means to calculate the whole liver intrinsic clearance. Here, a database from the peer-reviewed literature has been developed and provides quantitative metrics on microsomal protein (MP) and cytochrome P450 contents in vertebrate orders namely amphibians, mammals, birds, fish and reptiles. This database allows to address allometric relationships between body weight and MP content, and body weight and cytochrome P450 content. A total of 85 and 74 vertebrate species were included to assess the relationships between log10 body weight versus log10 MP, and between log10 body weight and log10 cytochrome P450 content, respectively. The resulting slopes range from 0.76 to 1.45 in a range of vertebrate species. Such data-driven allometric relationships can be used to estimate the MP content necessary for in vitro to in vivo extrapolation of in vitro clearance data. Future work includes applications of these relationships for different vertebrate taxa using quantitative in vitro to in vivo extrapolation models coupled to physiologically based kinetic models using chemicals of relevance as case studies including pesticides, contaminants and feed additives.
 
 [Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
 
-10.1186/s12711-022-00773-z
+10.1016/j.tox.2023.153429
 
 ---
 
@@ -155,18 +155,6 @@ The genetic correlation between purebred (PB) and crossbred (CB) performances ([
 ## @MaastrichtUMC
 
 [Source](https://twitter.com/MaastrichtUMC?ref_src=twsrc%5Etfw)
-
----
-
-## Implementation of an Intravenous Sotalol Initiation Protocol: Implications for Feasibility, Safety, and Length of Stay.
- 14.01.2023, _AY Liu, J Charron, D Fugaro, S Spoolstra, R Kaplan, G Lohrmann, X Gao, H Gay, R Passman, S Kim, AC Lin, A Chicos, R Arora, K Patil, A Pfenniger, BP Knight, N Verma_
-
-
-Oral sotalol initiation requires a multiple-day, inpatient admission to monitor for QT prolongation during loading. A one-day intravenous (IV) sotalol loading protocol was approved by the FDA in March 2020, but limited data on clinical use and administration currently exists. This study describes implementation of an IV sotalol protocol within an integrated health system, provides initial efficacy and safety outcomes, and examines length of stay compared to oral sotalol initiation.
-
-[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
-
-10.1111/jce.15819
 
 ---
 
@@ -243,15 +231,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Uncovering the Structure of Semantic Representations Using a Computational Model of Decision-Making.
- 14.01.2023, _S Ramotowska, S Steinert-Threlkeld, L van Maanen, J Szymanik_
+## Autistic Adults Show Intact Learning on a Visuospatial Serial Reaction Time Task.
+ 14.01.2023, _IN Treves, J Cannon, E Shin, CE Li, L Bungert, A O'Brien, A Cardinaux, P Sinha, JDE Gabrieli_
 
 
-According to logical theories of meaning, a meaning of an expression can be formalized and encoded in truth conditions. Vagueness of the language and individual differences between people are a challenge to incorporate into the meaning representations. In this paper, we propose a new approach to study truth-conditional representations of vague concepts. For a case study, we selected two natural language quantifiers most and more than half. We conducted two online experiments, each with 90 native English speakers. In the first experiment, we tested between-subjects variability in meaning representations. In the second experiment, we tested the stability of meaning representations over time by testing the same group of participants in two experimental sessions. In both experiments, participants performed the verification task. They verified a sentence with a quantifier (e.g., "Most of the gleerbs are feezda.") based on the numerical information provided in the second sentence, (e.g., "60% of the gleerbs are feezda"). To investigate between-subject and within-subject differences in meaning representations, we proposed an extended version of the Diffusion Decision Model with two parameters capturing truth conditions and vagueness. We fit the model to responses and reaction times data. In the first experiment, we found substantial between-subject differences in representations of most as reflected by the variability in the truth conditions. Moreover, we found that the verification of most is proportion-dependent as reflected in the reaction time effect and model parameter. In the second experiment, we showed that quantifier representations are stable over time as reflected in stable model parameters across two experimental sessions. These findings challenge semantic theories that assume the truth-conditional equivalence of most and more than half and contribute to the representational theory of vague concepts. The current study presents a promising approach to study semantic representations, which can have a wide application in experimental linguistics.
+Some theories have proposed that autistic individuals have difficulty learning predictive relationships. We tested this hypothesis using a serial reaction time task in which participants learned to predict the locations of a repeating sequence of target locations. We conducted a large-sample online study with 61 autistic and 71 neurotypical adults. The autistic group had slower overall reaction times, but demonstrated sequence-specific learning equivalent to the neurotypical group, consistent with other findings of typical procedural memory in autism. The neurotypical group, however, made significantly more prediction-related errors early in the experiment when the stimuli changed from repeated sequences to random locations, suggesting certain limited behavioural differences in the learning or utilization of predictive relationships for autistic adults.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/cogs.13234
+10.1007/s10803-023-05894-y
 
 ---
 
@@ -261,15 +249,15 @@ According to logical theories of meaning, a meaning of an expression can be form
 
 ---
 
-## Random allelic expression in the adult human body.
- 14.01.2023, _SN Kravitz, E Ferris, MI Love, A Thomas, AR Quinlan, C Gregg_
+## A multi-task convolutional neural network for classification and segmentation of chronic venous disorders.
+ 14.01.2023, _B Oliveira, HR Torres, P Morais, F Veloso, AL Baptista, JC Fonseca, JL Vilaça_
 
 
-Genes are typically assumed to express both parental alleles similarly, yet cell lines show random allelic expression (RAE) for many autosomal genes that could shape genetic effects. Thus, understanding RAE in human tissues could improve our understanding of phenotypic variation. Here, we develop a methodology to perform genome-wide profiling of RAE and biallelic expression in GTEx datasets for 832 people and 54 tissues. We report 2,762 autosomal genes with some RAE properties similar to randomly inactivated X-linked genes. We found that RAE is associated with rapidly evolving regions in the human genome, adaptive signaling processes, and genes linked to age-related diseases such as neurodegeneration and cancer. We define putative mechanistic subtypes of RAE distinguished by gene overlaps on sense and antisense DNA strands, aggregation in clusters near telomeres, and increased regulatory complexity and inputs compared with biallelic genes. We provide foundations to study RAE in human phenotypes, evolution, and disease.
+Chronic Venous Disorders (CVD) of the lower limbs are one of the most prevalent medical conditions, affecting 35% of adults in Europe and North America. Due to the exponential growth of the aging population and the worsening of CVD with age, it is expected that the healthcare costs and the resources needed for the treatment of CVD will increase in the coming years. The early diagnosis of CVD is fundamental in treatment planning, while the monitoring of its treatment is fundamental to assess a patient's condition and quantify the evolution of CVD. However, correct diagnosis relies on a qualitative approach through visual recognition of the various venous disorders, being time-consuming and highly dependent on the physician's expertise. In this paper, we propose a novel automatic strategy for the joint segmentation and classification of CVDs. The strategy relies on a multi-task deep learning network, denominated VENet, that simultaneously solves segmentation and classification tasks, exploiting the information of both tasks to increase learning efficiency, ultimately improving their performance. The proposed method was compared against state-of-the-art strategies in a dataset of 1376 CVD images. Experiments showed that the VENet achieved a classification performance of 96.4%, 96.4%, and 97.2% for accuracy, precision, and recall, respectively, and a segmentation performance of 75.4%, 76.7.0%, 76.7% for the Dice coefficient, precision, and recall, respectively. The joint formulation increased the robustness of both tasks when compared to the conventional classification or segmentation strategies, proving its added value, mainly for the segmentation of small lesions.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1016/j.celrep.2022.111945
+10.1038/s41598-022-27089-8
 
 ---
 
@@ -309,15 +297,15 @@ Genes are typically assumed to express both parental alleles similarly, yet cell
 
 ---
 
-## Implementation of an Intravenous Sotalol Initiation Protocol: Implications for Feasibility, Safety, and Length of Stay.
- 14.01.2023, _AY Liu, J Charron, D Fugaro, S Spoolstra, R Kaplan, G Lohrmann, X Gao, H Gay, R Passman, S Kim, AC Lin, A Chicos, R Arora, K Patil, A Pfenniger, BP Knight, N Verma_
+## Short-term effects and economic burden of air pollutants on acute lower respiratory tract infections in children in Southwest China: a time-series study.
+ 14.01.2023, _Y He, W Jiang, X Gao, C Lin, J Li, L Yang_
 
 
-Oral sotalol initiation requires a multiple-day, inpatient admission to monitor for QT prolongation during loading. A one-day intravenous (IV) sotalol loading protocol was approved by the FDA in March 2020, but limited data on clinical use and administration currently exists. This study describes implementation of an IV sotalol protocol within an integrated health system, provides initial efficacy and safety outcomes, and examines length of stay compared to oral sotalol initiation.
+There are few studies on the effects of air pollutants on acute lower respiratory tract infections (ALRI) in children. Here, we investigated the relationship of fine particulate matter (PM2.5), inhalable particulate matter (PM10), sulfur dioxide (SO2), and nitrogen dioxide (NO2) with the daily number of hospitalizations for ALRI in children in Sichuan Province, China, and to estimate the economic burden of disease due to exposure to air pollutants.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1111/jce.15819
+10.1186/s12940-023-00962-3
 
 ---
 
@@ -443,15 +431,15 @@ With an increasing amount of biological data available publicly, there is a need
 
 ---
 
-## Implementation of an Intravenous Sotalol Initiation Protocol: Implications for Feasibility, Safety, and Length of Stay.
- 14.01.2023, _AY Liu, J Charron, D Fugaro, S Spoolstra, R Kaplan, G Lohrmann, X Gao, H Gay, R Passman, S Kim, AC Lin, A Chicos, R Arora, K Patil, A Pfenniger, BP Knight, N Verma_
+## Short-term effects and economic burden of air pollutants on acute lower respiratory tract infections in children in Southwest China: a time-series study.
+ 14.01.2023, _Y He, W Jiang, X Gao, C Lin, J Li, L Yang_
 
 
-Oral sotalol initiation requires a multiple-day, inpatient admission to monitor for QT prolongation during loading. A one-day intravenous (IV) sotalol loading protocol was approved by the FDA in March 2020, but limited data on clinical use and administration currently exists. This study describes implementation of an IV sotalol protocol within an integrated health system, provides initial efficacy and safety outcomes, and examines length of stay compared to oral sotalol initiation.
+There are few studies on the effects of air pollutants on acute lower respiratory tract infections (ALRI) in children. Here, we investigated the relationship of fine particulate matter (PM2.5), inhalable particulate matter (PM10), sulfur dioxide (SO2), and nitrogen dioxide (NO2) with the daily number of hospitalizations for ALRI in children in Sichuan Province, China, and to estimate the economic burden of disease due to exposure to air pollutants.
 
 [Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
-10.1111/jce.15819
+10.1186/s12940-023-00962-3
 
 ---
 
