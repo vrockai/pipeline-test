@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## "Decline and uneven recovery from 7 common long-term conditions managed in the Catalan primary care after two pandemic years: an observational retrospective population-based study using primary care electronic health records".
- 14.01.2023, _N Mora, F Fina, L Méndez-Boo, R Cantenys, M Benítez, N Moreno, E Balló, E Hermosilla, M Fàbregas, C Guiriguet, X Cos, S Rodoreda, A Mas, Y Lejardi, E Coma, M Medina_
+## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
+ 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
 
 
-The incidence of chronic diseases during the COVID-19 pandemic has drastically been reduced worldwide due to disruptions in healthcare systems. The aim of our study is to analyse the trends in the incidence of 7 commonly managed primary care chronic diseases during the last 2 years of the COVID-19 pandemic in Catalonia.
+We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1186/s12875-022-01935-0
+10.3233/VES-220024
 
 ---
 
@@ -158,6 +158,18 @@ Data from in vitro studies are routinely used to estimate in vivo hepatic cleara
 
 ---
 
+## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
+ 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
+
+
+We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+10.3233/VES-220024
+
+---
+
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
@@ -231,15 +243,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Autistic Adults Show Intact Learning on a Visuospatial Serial Reaction Time Task.
- 14.01.2023, _IN Treves, J Cannon, E Shin, CE Li, L Bungert, A O'Brien, A Cardinaux, P Sinha, JDE Gabrieli_
+## Effects of bilateral cerebellar repetitive transcranial magnetic stimulation in poststroke dysphagia: A randomized sham-controlled trial.
+ 15.01.2023, _L Zhong, X Wen, Z Liu, F Li, X Ma, H Liu, H Chen_
 
 
-Some theories have proposed that autistic individuals have difficulty learning predictive relationships. We tested this hypothesis using a serial reaction time task in which participants learned to predict the locations of a repeating sequence of target locations. We conducted a large-sample online study with 61 autistic and 71 neurotypical adults. The autistic group had slower overall reaction times, but demonstrated sequence-specific learning equivalent to the neurotypical group, consistent with other findings of typical procedural memory in autism. The neurotypical group, however, made significantly more prediction-related errors early in the experiment when the stimuli changed from repeated sequences to random locations, suggesting certain limited behavioural differences in the learning or utilization of predictive relationships for autistic adults.
+Although increasing evidence indicates that cerebellar repetitive transcranial magnetic stimulation (rTMS) may be beneficial in the treatment of dysphagia, its clinical efficacy is still uncertain.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s10803-023-05894-y
+10.3233/NRE-220268
 
 ---
 
@@ -249,15 +261,15 @@ Some theories have proposed that autistic individuals have difficulty learning p
 
 ---
 
-## A multi-task convolutional neural network for classification and segmentation of chronic venous disorders.
- 14.01.2023, _B Oliveira, HR Torres, P Morais, F Veloso, AL Baptista, JC Fonseca, JL Vilaça_
+## Self-management programs to ensure sustainable return to work following long-term sick leave due to low back pain: A sequential qualitative study.
+ 15.01.2023, _Y Tousignant-Laflamme, C Longtin, MF Coutu, N Gaudreault, D Kairy, I Nastasiag, G Léonard_
 
 
-Chronic Venous Disorders (CVD) of the lower limbs are one of the most prevalent medical conditions, affecting 35% of adults in Europe and North America. Due to the exponential growth of the aging population and the worsening of CVD with age, it is expected that the healthcare costs and the resources needed for the treatment of CVD will increase in the coming years. The early diagnosis of CVD is fundamental in treatment planning, while the monitoring of its treatment is fundamental to assess a patient's condition and quantify the evolution of CVD. However, correct diagnosis relies on a qualitative approach through visual recognition of the various venous disorders, being time-consuming and highly dependent on the physician's expertise. In this paper, we propose a novel automatic strategy for the joint segmentation and classification of CVDs. The strategy relies on a multi-task deep learning network, denominated VENet, that simultaneously solves segmentation and classification tasks, exploiting the information of both tasks to increase learning efficiency, ultimately improving their performance. The proposed method was compared against state-of-the-art strategies in a dataset of 1376 CVD images. Experiments showed that the VENet achieved a classification performance of 96.4%, 96.4%, and 97.2% for accuracy, precision, and recall, respectively, and a segmentation performance of 75.4%, 76.7.0%, 76.7% for the Dice coefficient, precision, and recall, respectively. The joint formulation increased the robustness of both tasks when compared to the conventional classification or segmentation strategies, proving its added value, mainly for the segmentation of small lesions.
+Low back pain (LBP) is a prevalent condition frequently leading to disability. Research suggests that self-management (SM) programs for chronic LBP should include strategies to promote sustainable return to work.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1038/s41598-022-27089-8
+10.3233/WOR-220202
 
 ---
 
@@ -297,15 +309,15 @@ Chronic Venous Disorders (CVD) of the lower limbs are one of the most prevalent 
 
 ---
 
-## Short-term effects and economic burden of air pollutants on acute lower respiratory tract infections in children in Southwest China: a time-series study.
- 14.01.2023, _Y He, W Jiang, X Gao, C Lin, J Li, L Yang_
+## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
+ 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
 
 
-There are few studies on the effects of air pollutants on acute lower respiratory tract infections (ALRI) in children. Here, we investigated the relationship of fine particulate matter (PM2.5), inhalable particulate matter (PM10), sulfur dioxide (SO2), and nitrogen dioxide (NO2) with the daily number of hospitalizations for ALRI in children in Sichuan Province, China, and to estimate the economic burden of disease due to exposure to air pollutants.
+We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1186/s12940-023-00962-3
+10.3233/VES-220024
 
 ---
 
@@ -431,15 +443,15 @@ With an increasing amount of biological data available publicly, there is a need
 
 ---
 
-## Short-term effects and economic burden of air pollutants on acute lower respiratory tract infections in children in Southwest China: a time-series study.
- 14.01.2023, _Y He, W Jiang, X Gao, C Lin, J Li, L Yang_
+## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
+ 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
 
 
-There are few studies on the effects of air pollutants on acute lower respiratory tract infections (ALRI) in children. Here, we investigated the relationship of fine particulate matter (PM2.5), inhalable particulate matter (PM10), sulfur dioxide (SO2), and nitrogen dioxide (NO2) with the daily number of hospitalizations for ALRI in children in Sichuan Province, China, and to estimate the economic burden of disease due to exposure to air pollutants.
+We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
 
 [Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
 
-10.1186/s12940-023-00962-3
+10.3233/VES-220024
 
 ---
 
