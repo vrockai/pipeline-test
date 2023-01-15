@@ -110,7 +110,7 @@ The movement of plant species across the globe exposes native communities to new
 ---
 
 ## Allele-specific expression analysis for complex genetic phenotypes applied to a unique dilated cardiomyopathy cohort.
- 13.01.2023, _D van Beek, J Verdonschot, K Derks, H Brunner, TM de Kok, ICW Arts, S Heymans, M Kutmon, M Adriaens_
+ 15.01.2023, _D van Beek, J Verdonschot, K Derks, H Brunner, TM de Kok, ICW Arts, S Heymans, M Kutmon, M Adriaens_
 
 
 _Humans, Alleles, Cardiomyopathy, Dilated, Gene Expression Regulation, Quantitative Trait Loci, Genome-Wide Association Study, Phenotype, Polymorphism, Single Nucleotide_
@@ -369,15 +369,9 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes.
- 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
-
-
-Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
+## Beehives possess their own distinct microbiomes 
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
-
-10.1186/s40793-023-00460-6
 
 ---
 
