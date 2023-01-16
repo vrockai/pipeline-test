@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
- 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
+## Prevalence and clinical features of orbital vascular anomalies in children.
+ 16.01.2023, _LA Torrado-Cobian, GJ Griepentrog, DO Hodge, BG Mohney_
 
 
-We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
+To report the prevalence, clinical characteristics, and natural history of orbital vascular anomalies diagnosed among children over a 50-year period.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.3233/VES-220024
+10.1080/01676830.2023.2166081
 
 ---
 
@@ -47,9 +47,16 @@ We aimed to identify the proportion of each medical condition or disease contrib
 
 ---
 
-## Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study
+## Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study.
+ 13.01.2023, _DJM Barnett, MF Endika, CE Klostermann, F Gu, C Thijs, A Nauta, HA Schols, H Smidt, ICW Arts, J Penders_
+
+
+_Infant, Infant, Newborn, Female, Animals, Pregnancy, Humans, Child, Milk, Human, Gastrointestinal Microbiome, Phascolarctidae, Cohort Studies, RNA, Ribosomal, 16S, Breast Feeding, Prebiotics, Anti-Infective Agents, Oligosaccharides, Anti-Bacterial Agents_
+The infant gut microbiota affects childhood health. This pioneer microbiota may be vulnerable to antibiotic exposures, but could be supported by prebiotic oligosaccharides found in breast milk and some infant formulas. We sought to characterize the effects of several exposures on the neonatal gut microbiota, including human milk oligosaccharides (HMOs), galacto-oligosaccharides (GOS), and infant/maternal antimicrobial exposures. We profiled the stool microbiota of 1023 one-month-old infants from the KOALA Birth Cohort using 16S rRNA gene amplicon sequencing. We quantified 15 HMOs in breast milk from the mothers of 220 infants, using high-performance liquid chromatography-mass spectrometry. Both breastfeeding and antibiotic exposure decreased gut microbial diversity, but each was associated with contrasting shifts in microbiota composition. Other factors associated with microbiota composition included C-section, homebirth, siblings, and exposure to animals. Neither infant exposure to oral antifungals nor maternal exposure to antibiotics during pregnancy were associated with infant microbiota composition. Four distinct groups of breast milk HMO compositions were evident, corresponding to maternal Secretor status and Lewis group combinations defined by the presence/absence of certain fucosylated HMOs. However, we found the strongest evidence for microbiota associations between two non-fucosylated HMOs: 6'-sialyllactose (6'-SL) and lacto-N-hexaose (LNH), which were associated with lower and higher relative abundances of Bifidobacterium, respectively. Among 111 exclusively formula-fed infants, the GOS-supplemented formula was associated with a lower relative abundance of Clostridium perfringens. In conclusion, the gut microbiota is sensitive to some prebiotic and antibiotic exposures during early infancy and understanding their effects could inform future strategies for safeguarding a health-promoting infant gut microbiota.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2164152)
+
+10.1080/19490976.2022.2164152
 
 ---
 
@@ -151,34 +158,15 @@ Alternative hatching systems have been developed for broiler chickens to provide
 
 ---
 
-## Laparoscopic splenectomy for massive splenomegaly: the "splenic no-touch" technique for hilar control by anterior lienorenal approach.
- 15.01.2023, _S Gadiyaram, M Nachiappan_
-
-
-Laparoscopic splenectomy is challenging in patients with massive splenomegaly. The paper describes a technique that overcomes the difficulties one faces while dealing with a massive spleen laparoscopically.
-
-[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
-
-10.1007/s00423-023-02800-z
-
----
-
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity.
- 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
-
-
-_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
-Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
+## The gut microbiota in multiple sclerosis varies with disease activity
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
-
-10.1186/s13073-022-01148-1
 
 ---
 
@@ -236,15 +224,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Morphological brain alterations in dialysis- and non-dialysis-dependent patients with chronic kidney disease.
- 15.01.2023, _H Yu, C Zhang, Y Cai, N Wu, X Jia, J Wu, F Shi, R Hua, Q Yang_
+## Emerging concepts in oligodendrocyte and myelin formation, inputs from the zebrafish model.
+ 16.01.2023, _MA Masson, B Nait-Oumesmar_
 
 
-To 1) investigate the morphological brain-tissue changes in patients with dialysis- and non-dialysis-dependent chronic kidney disease (CKD); 2) analyze the effects of CKD on whole-brain cortical thickness, cortical volume, surface area, and surface curvature; and 3) analyze the correlation of these changes with clinical and biochemical indices. This study included normal controls (NCs, n = 34) and patients with CKD who were divided into dialysis (dialysis-dependent chronic kidney disease [DD-CKD], n = 26) and non-dialysis (non-dialysis patients who underwent cranial magnetic resonance imaging scans [NDD-CKD], n = 26) groups. Cortical thickness, volume, surface area, and surface curvature in each group were calculated using FreeSurfer software. Brain morphological indicators with statistical differences were correlated with clinical and biochemical indicators. Patients with CKD exhibited a significant and widespread decrease in cortical thickness and volume compared with NCs. Among the brain regions associated with higher neural activity, patients with CKD exhibited more significant morphological changes in the paracentral gyrus, transverse temporal gyrus, and lateral occipital cortex than in other brain regions. Cortical thickness and volume in patients with CKD correlated with blood pressure, lipid, hemoglobin, creatinine, and urea nitrogen levels. The extent of brain atrophy was further increased in the DD-CKD group compared with that in the NDD-CKD group. Patients with CKD potentially exhibit a certain degree of structural brain-tissue imaging changes, with morphological changes more pronounced in patients with DD-CKD, suggesting that blood urea nitrogen and dialysis may be influential factors in brain morphological changes in patients with CKD.
+Oligodendrocytes (OLs) are the myelinating cells of the central nervous system (CNS), which are derived from OL precursor cells. Myelin insulates axons allowing the saltatory conduction of action potentials and also provides trophic and metabolic supports to axons. Interestingly, oligodendroglial cells have the capacity to sense neuronal activity, which regulates myelin sheath formation via the vesicular release of neurotransmitters. Neuronal activity-dependent regulation of myelination is mediated by specialized interaction between axons and oligodendroglia, involving both synaptic and extra-synaptic modes of communications. The zebrafish has provided key advantages for the study of the myelination process in the CNS. External development and transparent larval stages of this vertebrate specie combined with the existence of several transgenic reporter lines provided key advances in oligodendroglial cell biology, axo-glial interactions and CNS myelination. In this publication, we reviewed and discussed the most recent knowledge on OL development and myelin formation, with a focus on mechanisms regulating these fundamental biological processes in the zebrafish. Especially, we highlighted the critical function of axons and oligodendroglia modes of communications and calcium signaling in myelin sheath formation and growth. Finally, we reviewed the relevance of these knowledge's in demyelinating diseases and drug discovery of pharmacological compounds favoring myelin regeneration.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1007/s11011-022-01150-x
+10.1002/glia.24336
 
 ---
 
@@ -254,15 +242,15 @@ To 1) investigate the morphological brain-tissue changes in patients with dialys
 
 ---
 
-## The burden of Parkinson's disease in the Middle East and North Africa region, 1990-2019: results from the global burden of disease study 2019.
- 15.01.2023, _S Safiri, M Noori, SA Nejadghaderi, SE Mousavi, MJM Sullman, M Araj-Khodaei, K Singh, AA Kolahi, K Gharagozli_
+## Ageing and chronic obstructive pulmonary disease: interrelationships.
+ 16.01.2023, _K Kakkera, WT Atchley, M Kodali, T Bartter_
 
 
-Parkinson's disease (PD) remains a common disabling progressive neurodegenerative disorder. We aimed to report the prevalence, death and disability-adjusted life-years (DALYs) attributable to PD in the Middle East and North Africa (MENA) region and its 21 countries by age, sex and socio-demographic index (SDI), between 1990 and 2019.
+As life expectancy increases, the ageing population accrues an increasing burden of chronic conditions and functional compromise. Some conditions that lead to compromise are deemed part of 'natural ageing,' whereas others are considered to represent disease processes. Ageing ('a natural process') and chronic obstructive pulmonary disease ('a disease') share many common features, both pulmonary and systemic. At times, the pathways of injury are the same, and at times they are concurrent. In some cases, age and disease are separated not by the presence but by the severity of a finding or condition. This brief review aims to compare some of the similarities between ageing and COPD and to compare/contrast mechanisms for each.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12889-023-15018-x
+10.1097/MCP.0000000000000943
 
 ---
 
@@ -299,6 +287,18 @@ Parkinson's disease (PD) remains a common disabling progressive neurodegenerativ
 ## pic.twitter.com/NcfAT46ADK
 
 [Source](https://t.co/NcfAT46ADK)
+
+---
+
+## Chemical versus Mechanical and Chemical Venous Thromboembolism Prophylaxis in Neurocritically Ill Patients: A Cohort Study.
+ 16.01.2023, _AI Alshaya, H Alyahya, R Alzoman, R Faden, OA Alshaya, K Al Sulaiman, F Alanazi, S Aldekhyl_
+
+
+Patients admitted with neurocritical illness are presumed to be at high risk for venous thromboembolism (VTE). The administration of chemical and/or mechanical VTE prophylaxis is a common practice in critically ill patients. Recent data did not show a significant difference in the incidence of VTE between chemical compared to a combined chemical and mechanical VTE prophylaxis in critically ill patients with limited data in neurocritically ill population. The objective of this study is to investigate the incidence of VTE between chemical alone compared to chemical and mechanical VTE prophylaxis in neurocritically ill patients.
+
+[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
+
+10.2147/CPAA.S388950
 
 ---
 
@@ -421,18 +421,6 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
-
----
-
-## Laparoscopic splenectomy for massive splenomegaly: the "splenic no-touch" technique for hilar control by anterior lienorenal approach.
- 15.01.2023, _S Gadiyaram, M Nachiappan_
-
-
-Laparoscopic splenectomy is challenging in patients with massive splenomegaly. The paper describes a technique that overcomes the difficulties one faces while dealing with a massive spleen laparoscopically.
-
-[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
-
-10.1007/s00423-023-02800-z
 
 ---
 
