@@ -47,16 +47,9 @@ We aimed to identify the proportion of each medical condition or disease contrib
 
 ---
 
-## Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study.
- 13.01.2023, _DJM Barnett, MF Endika, CE Klostermann, F Gu, C Thijs, A Nauta, HA Schols, H Smidt, ICW Arts, J Penders_
-
-
-_Infant, Infant, Newborn, Female, Animals, Pregnancy, Humans, Child, Milk, Human, Gastrointestinal Microbiome, Phascolarctidae, Cohort Studies, RNA, Ribosomal, 16S, Breast Feeding, Prebiotics, Anti-Infective Agents, Oligosaccharides, Anti-Bacterial Agents_
-The infant gut microbiota affects childhood health. This pioneer microbiota may be vulnerable to antibiotic exposures, but could be supported by prebiotic oligosaccharides found in breast milk and some infant formulas. We sought to characterize the effects of several exposures on the neonatal gut microbiota, including human milk oligosaccharides (HMOs), galacto-oligosaccharides (GOS), and infant/maternal antimicrobial exposures. We profiled the stool microbiota of 1023 one-month-old infants from the KOALA Birth Cohort using 16S rRNA gene amplicon sequencing. We quantified 15 HMOs in breast milk from the mothers of 220 infants, using high-performance liquid chromatography-mass spectrometry. Both breastfeeding and antibiotic exposure decreased gut microbial diversity, but each was associated with contrasting shifts in microbiota composition. Other factors associated with microbiota composition included C-section, homebirth, siblings, and exposure to animals. Neither infant exposure to oral antifungals nor maternal exposure to antibiotics during pregnancy were associated with infant microbiota composition. Four distinct groups of breast milk HMO compositions were evident, corresponding to maternal Secretor status and Lewis group combinations defined by the presence/absence of certain fucosylated HMOs. However, we found the strongest evidence for microbiota associations between two non-fucosylated HMOs: 6'-sialyllactose (6'-SL) and lacto-N-hexaose (LNH), which were associated with lower and higher relative abundances of Bifidobacterium, respectively. Among 111 exclusively formula-fed infants, the GOS-supplemented formula was associated with a lower relative abundance of Clostridium perfringens. In conclusion, the gut microbiota is sensitive to some prebiotic and antibiotic exposures during early infancy and understanding their effects could inform future strategies for safeguarding a health-promoting infant gut microbiota.
+## Human milk oligosaccharides, antimicrobial drugs, and the gut microbiota of term neonates: observations from the KOALA birth cohort study
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2164152)
-
-10.1080/19490976.2022.2164152
 
 ---
 
@@ -128,15 +121,15 @@ Allele-specific expression (ASE) analysis detects the relative abundance of alle
 
 ---
 
-## Establishing allometric relationships between microsomal protein and cytochrome P450 content with body weight in vertebrate species.
- 14.01.2023, _LS Lautz, AJ Hendriks, JLCM Dorne, J Louisse, NI Kramer_
+## Effects of hatching system on chick quality, welfare and health of young breeder flock offspring.
+ 15.01.2023, _R Molenaar, N Stockhofe-Zurwieden, MF Giersberg, TB Rodenburg, B Kemp, H van den Brand, IC de Jong_
 
 
-Data from in vitro studies are routinely used to estimate in vivo hepatic clearance of chemicals and this information is needed to parameterise physiologically based kinetic models. Such clearance data can be obtained from laboratory experiments using liver microsomes, hepatocytes, precision-cut liver slices or recombinant enzymes. Irrespective of the selected test system, scaling factors are required to convert the in vitro measured intrinsic clearance to a whole liver intrinsic clearance. Scaling factors such as the hepatic microsomal protein per gram of liver and/or the amount of cytochrome P450 per hepatocyte provide a means to calculate the whole liver intrinsic clearance. Here, a database from the peer-reviewed literature has been developed and provides quantitative metrics on microsomal protein (MP) and cytochrome P450 contents in vertebrate orders namely amphibians, mammals, birds, fish and reptiles. This database allows to address allometric relationships between body weight and MP content, and body weight and cytochrome P450 content. A total of 85 and 74 vertebrate species were included to assess the relationships between log10 body weight versus log10 MP, and between log10 body weight and log10 cytochrome P450 content, respectively. The resulting slopes range from 0.76 to 1.45 in a range of vertebrate species. Such data-driven allometric relationships can be used to estimate the MP content necessary for in vitro to in vivo extrapolation of in vitro clearance data. Future work includes applications of these relationships for different vertebrate taxa using quantitative in vitro to in vivo extrapolation models coupled to physiologically based kinetic models using chemicals of relevance as case studies including pesticides, contaminants and feed additives.
+Alternative hatching systems have been developed for broiler chickens to provide immediately feed and water after hatch and reduce the number or severity of early life stressors. Besides beneficial effects of these alternative hatching systems on chick quality and performance, broiler health and welfare may be positively affected as well. Especially offspring from young broiler breeder flocks may benefit, as they have been shown to be more sensitive to preturbations than offspring from older breeder flocks. This study evaluated effects of hatching systems on chick quality, health and welfare of young breeder flock offspring, using 3 different hatching systems: conventional hatchery-hatched (HH), hatchery-fed (HF), and on-farm hatching (OH). A total of 24 pens were used in a completely randomized block design, with 8 pens per hatching system and 30 chickens per pen. Chick quality at hatch and performance until 35 d of age was improved in the HF and OH compared to HH treatment, but only minor effects were found on the welfare indicators: footpad dermatitis, hock burn, cleanliness, skin lesion and gait score. No effect was observed on the dynamics of a humoral immune response after NCD vaccination, given at d 0 and 14 of age, as no differences between NCD titers were found at d 18. Animals were vaccinated with a live attenuated infectious bronchitis vaccine virus (IBV) at d 28 to address treatment related differences to disease resilience. The expressions of inflammation and epithelial integrity related genes in the trachea and histo-pathological changes in the trachea were examined at 3 d after vaccine administration. No differences between treatment groups were observed. Although beneficial effects of HF and OH systems were found for young breeder flock offspring on chick quality at hatch and body weight posthatch, only one effect of alternative hatching systems on welfare and health indicators were found. No effect of hatching system on humoral immune response or disease resilience was found.
 
 [Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
 
-10.1016/j.tox.2023.153429
+10.1016/j.psj.2022.102448
 
 ---
 
@@ -158,15 +151,34 @@ Data from in vitro studies are routinely used to estimate in vivo hepatic cleara
 
 ---
 
+## Laparoscopic splenectomy for massive splenomegaly: the "splenic no-touch" technique for hilar control by anterior lienorenal approach.
+ 15.01.2023, _S Gadiyaram, M Nachiappan_
+
+
+Laparoscopic splenectomy is challenging in patients with massive splenomegaly. The paper describes a technique that overcomes the difficulties one faces while dealing with a massive spleen laparoscopically.
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+10.1007/s00423-023-02800-z
+
+---
+
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity
+## The gut microbiota in multiple sclerosis varies with disease activity.
+ 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
+
+
+_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
+Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
+
+10.1186/s13073-022-01148-1
 
 ---
 
@@ -224,15 +236,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Impacts of motor phenotype on cognitive function in patients with Parkinson's disease 1 year after subthalamic-nucleus deep brain stimulation.
- 15.01.2023, _Z Wang, Z You_
+## Morphological brain alterations in dialysis- and non-dialysis-dependent patients with chronic kidney disease.
+ 15.01.2023, _H Yu, C Zhang, Y Cai, N Wu, X Jia, J Wu, F Shi, R Hua, Q Yang_
 
 
-Parkinson's disease (PD) is a neurological disorder that affects both motor and cognitive functioning. This study aimed to examine the impact of motor phenotype on cognitive function 1 year after subthalamic-nucleus deep brain stimulation (STN-DBS).
+To 1) investigate the morphological brain-tissue changes in patients with dialysis- and non-dialysis-dependent chronic kidney disease (CKD); 2) analyze the effects of CKD on whole-brain cortical thickness, cortical volume, surface area, and surface curvature; and 3) analyze the correlation of these changes with clinical and biochemical indices. This study included normal controls (NCs, n = 34) and patients with CKD who were divided into dialysis (dialysis-dependent chronic kidney disease [DD-CKD], n = 26) and non-dialysis (non-dialysis patients who underwent cranial magnetic resonance imaging scans [NDD-CKD], n = 26) groups. Cortical thickness, volume, surface area, and surface curvature in each group were calculated using FreeSurfer software. Brain morphological indicators with statistical differences were correlated with clinical and biochemical indicators. Patients with CKD exhibited a significant and widespread decrease in cortical thickness and volume compared with NCs. Among the brain regions associated with higher neural activity, patients with CKD exhibited more significant morphological changes in the paracentral gyrus, transverse temporal gyrus, and lateral occipital cortex than in other brain regions. Cortical thickness and volume in patients with CKD correlated with blood pressure, lipid, hemoglobin, creatinine, and urea nitrogen levels. The extent of brain atrophy was further increased in the DD-CKD group compared with that in the NDD-CKD group. Patients with CKD potentially exhibit a certain degree of structural brain-tissue imaging changes, with morphological changes more pronounced in patients with DD-CKD, suggesting that blood urea nitrogen and dialysis may be influential factors in brain morphological changes in patients with CKD.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1111/ggi.14524
+10.1007/s11011-022-01150-x
 
 ---
 
@@ -242,14 +254,15 @@ Parkinson's disease (PD) is a neurological disorder that affects both motor and 
 
 ---
 
-## Correction for: Endothelin-1-mediated miR-let-7g-5p triggers interlukin-6 and TNF-α to cause myopathy and chronic adipose inflammation in elderly patients with diabetes mellitus.
- 15.01.2023, _CH Tsai, PJ Huang, IT Lee, CM Chen, MH Wu_
+## The burden of Parkinson's disease in the Middle East and North Africa region, 1990-2019: results from the global burden of disease study 2019.
+ 15.01.2023, _S Safiri, M Noori, SA Nejadghaderi, SE Mousavi, MJM Sullman, M Araj-Khodaei, K Singh, AA Kolahi, K Gharagozli_
 
 
+Parkinson's disease (PD) remains a common disabling progressive neurodegenerative disorder. We aimed to report the prevalence, death and disability-adjusted life-years (DALYs) attributable to PD in the Middle East and North Africa (MENA) region and its 21 countries by age, sex and socio-demographic index (SDI), between 1990 and 2019.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.18632/aging.204488
+10.1186/s12889-023-15018-x
 
 ---
 
@@ -286,18 +299,6 @@ Parkinson's disease (PD) is a neurological disorder that affects both motor and 
 ## pic.twitter.com/NcfAT46ADK
 
 [Source](https://t.co/NcfAT46ADK)
-
----
-
-## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
- 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
-
-
-We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
-
-[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
-
-10.3233/VES-220024
 
 ---
 
@@ -349,9 +350,15 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes 
+## Beehives possess their own distinct microbiomes.
+ 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
+
+
+Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
+
+10.1186/s40793-023-00460-6
 
 ---
 
@@ -414,6 +421,18 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
+
+---
+
+## Laparoscopic splenectomy for massive splenomegaly: the "splenic no-touch" technique for hilar control by anterior lienorenal approach.
+ 15.01.2023, _S Gadiyaram, M Nachiappan_
+
+
+Laparoscopic splenectomy is challenging in patients with massive splenomegaly. The paper describes a technique that overcomes the difficulties one faces while dealing with a massive spleen laparoscopically.
+
+[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
+
+10.1007/s00423-023-02800-z
 
 ---
 
