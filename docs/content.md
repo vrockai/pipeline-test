@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Prevalence and clinical features of orbital vascular anomalies in children.
- 16.01.2023, _LA Torrado-Cobian, GJ Griepentrog, DO Hodge, BG Mohney_
+## The usefulness of the endoscopic surgical skill qualification system in laparoscopic right hemicolectomy: a single-center, retrospective analysis with propensity score matching.
+ 16.01.2023, _M Iwamoto, Y Makutani, Y Yane, H Ushijima, Y Yoshioka, T Wada, K Daito, T Tokoro, Y Chiba, K Ueda, J Kawamura_
 
 
-To report the prevalence, clinical characteristics, and natural history of orbital vascular anomalies diagnosed among children over a 50-year period.
+Recently, a new certification system called the Endoscopic Surgical Skill Qualification System (ESSQS) has been launched in Japan to improve surgical safety. This study aimed to determine whether ESSQS-qualified surgeons affect the short- and long-term outcomes of laparoscopic right hemicolectomy.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1080/01676830.2023.2166081
+10.1007/s00423-023-02810-x
 
 ---
 
@@ -170,33 +170,15 @@ Alternative hatching systems have been developed for broiler chickens to provide
 
 ---
 
-## Circadian Rhythms and Melatonin Metabolism in Patients With Disorders of Gut-Brain Interactions.
- 01.04.2022, _S Fowler, EC Hoedt, NJ Talley, S Keely, GL Burns_
-
-
-Circadian rhythms are cyclic patterns of physiological, behavioural and molecular events that occur over a 24-h period. They are controlled by the suprachiasmatic nucleus (SCN), the brain's master pacemaker which governs peripheral clocks and melatonin release. While circadian systems are endogenous, there are external factors that synchronise the SCN to the ambient environment including light/dark cycles, fasting/fed state, temperature and physical activity. Circadian rhythms also provide internal temporal organisation which ensures that any internal changes that take place are centrally coordinated. Melatonin synchronises peripheral clocks to the external time and circadian rhythms are regulated by gene expression to control physiological function. Synchronisation of the circadian system with the external environment is vital for the health and survival of an organism and as circadian rhythms play a pivotal role in regulating GI physiology, disruption may lead to gastrointestinal (GI) dysfunction. Disorders of gut-brain interactions (DGBIs), also known as functional gastrointestinal disorders (FGIDs), are a group of diseases where patients experience reoccurring gastrointestinal symptoms which cannot be explained by obvious structural abnormalities and include functional dyspepsia (FD) and irritable bowel syndrome (IBS). Food timing impacts on the production of melatonin and given the correlation between food intake and symptom onset reported by patients with DGBIs, chronodisruption may be a feature of these conditions. Recent advances in immunology implicate circadian rhythms in the regulation of immune responses, and DGBI patients report fatigue and disordered sleep, suggesting circadian disruption. Further, melatonin treatment has been demonstrated to improve symptom burden in IBS patients, however, the mechanisms underlying this efficacy are unclear. Given the influence of circadian rhythms on gastrointestinal physiology and the immune system, modulation of these rhythms may be a potential therapeutic option for reducing symptom burden in these patients.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
-
-10.3389/fnins.2022.825246
-
----
-
 ## Intestinal gas production by the gut microbiota: A review
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
 
 ---
 
-## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis.
- 10.01.2023, _Y Pinto, S Frishman, S Turjeman, A Eshel, M Nuriel-Ohayon, O Shrossel, O Ziv, W Walters, J Parsonnet, C Ley, EL Johnson, K Kumar, R Schweitzer, S Khatib, F Magzal, E Muller, S Tamir, K Tenenbaum-Gavish, S Rautava, S Salminen, E Isolauri, O Yariv, Y Peled, E Poran, J Pardo, R Chen, M Hod, E Borenstein, RE Ley, B Schwartz, Y Louzoun, E Hadar, O Koren_
-
-
-Gestational diabetes mellitus (GDM) is a condition in which women without diabetes are diagnosed with glucose intolerance during pregnancy, typically in the second or third trimester. Early diagnosis, along with a better understanding of its pathophysiology during the first trimester of pregnancy, may be effective in reducing incidence and associated short-term and long-term morbidities.
+## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis
 
 [Source](https://gut.bmj.com/content/early/2023/01/10/gutjnl-2022-328406)
-
-10.1136/gutjnl-2022-328406
 
 ---
 
@@ -206,51 +188,15 @@ Gestational diabetes mellitus (GDM) is a condition in which women without diabet
 
 ---
 
-## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
- 13.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
-
-
-Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
-
-[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.7759/cureus.32313
-
----
-
 ## #GutMicrobiome
 
 [Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Emerging concepts in oligodendrocyte and myelin formation, inputs from the zebrafish model.
- 16.01.2023, _MA Masson, B Nait-Oumesmar_
-
-
-Oligodendrocytes (OLs) are the myelinating cells of the central nervous system (CNS), which are derived from OL precursor cells. Myelin insulates axons allowing the saltatory conduction of action potentials and also provides trophic and metabolic supports to axons. Interestingly, oligodendroglial cells have the capacity to sense neuronal activity, which regulates myelin sheath formation via the vesicular release of neurotransmitters. Neuronal activity-dependent regulation of myelination is mediated by specialized interaction between axons and oligodendroglia, involving both synaptic and extra-synaptic modes of communications. The zebrafish has provided key advantages for the study of the myelination process in the CNS. External development and transparent larval stages of this vertebrate specie combined with the existence of several transgenic reporter lines provided key advances in oligodendroglial cell biology, axo-glial interactions and CNS myelination. In this publication, we reviewed and discussed the most recent knowledge on OL development and myelin formation, with a focus on mechanisms regulating these fundamental biological processes in the zebrafish. Especially, we highlighted the critical function of axons and oligodendroglia modes of communications and calcium signaling in myelin sheath formation and growth. Finally, we reviewed the relevance of these knowledge's in demyelinating diseases and drug discovery of pharmacological compounds favoring myelin regeneration.
-
-[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/glia.24336
-
----
-
 ## #Brain
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Ageing and chronic obstructive pulmonary disease: interrelationships.
- 16.01.2023, _K Kakkera, WT Atchley, M Kodali, T Bartter_
-
-
-As life expectancy increases, the ageing population accrues an increasing burden of chronic conditions and functional compromise. Some conditions that lead to compromise are deemed part of 'natural ageing,' whereas others are considered to represent disease processes. Ageing ('a natural process') and chronic obstructive pulmonary disease ('a disease') share many common features, both pulmonary and systemic. At times, the pathways of injury are the same, and at times they are concurrent. In some cases, age and disease are separated not by the presence but by the severity of a finding or condition. This brief review aims to compare some of the similarities between ageing and COPD and to compare/contrast mechanisms for each.
-
-[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
-
-10.1097/MCP.0000000000000943
 
 ---
 
@@ -290,18 +236,6 @@ As life expectancy increases, the ageing population accrues an increasing burden
 
 ---
 
-## Chemical versus Mechanical and Chemical Venous Thromboembolism Prophylaxis in Neurocritically Ill Patients: A Cohort Study.
- 16.01.2023, _AI Alshaya, H Alyahya, R Alzoman, R Faden, OA Alshaya, K Al Sulaiman, F Alanazi, S Aldekhyl_
-
-
-Patients admitted with neurocritical illness are presumed to be at high risk for venous thromboembolism (VTE). The administration of chemical and/or mechanical VTE prophylaxis is a common practice in critically ill patients. Recent data did not show a significant difference in the incidence of VTE between chemical compared to a combined chemical and mechanical VTE prophylaxis in critically ill patients with limited data in neurocritically ill population. The objective of this study is to investigate the incidence of VTE between chemical alone compared to chemical and mechanical VTE prophylaxis in neurocritically ill patients.
-
-[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
-
-10.2147/CPAA.S388950
-
----
-
 ## January 10, 2023
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
@@ -314,15 +248,9 @@ Patients admitted with neurocritical illness are presumed to be at high risk for
 
 ---
 
-## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
- 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
-
-
-Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome
 
 [Source](https://www.nature.com/articles/s41564-022-01293-8)
-
-10.1038/s41564-022-01293-8
 
 ---
 
@@ -350,15 +278,9 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes.
- 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
-
-
-Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
+## Beehives possess their own distinct microbiomes 
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
-
-10.1186/s40793-023-00460-6
 
 ---
 
