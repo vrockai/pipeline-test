@@ -158,34 +158,15 @@ Data from in vitro studies are routinely used to estimate in vivo hepatic cleara
 
 ---
 
-## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
- 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
-
-
-We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
-
-[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
-
-10.3233/VES-220024
-
----
-
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity.
- 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
-
-
-_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
-Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
+## The gut microbiota in multiple sclerosis varies with disease activity
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
-
-10.1186/s13073-022-01148-1
 
 ---
 
@@ -243,15 +224,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Effects of bilateral cerebellar repetitive transcranial magnetic stimulation in poststroke dysphagia: A randomized sham-controlled trial.
- 15.01.2023, _L Zhong, X Wen, Z Liu, F Li, X Ma, H Liu, H Chen_
+## Impacts of motor phenotype on cognitive function in patients with Parkinson's disease 1 year after subthalamic-nucleus deep brain stimulation.
+ 15.01.2023, _Z Wang, Z You_
 
 
-Although increasing evidence indicates that cerebellar repetitive transcranial magnetic stimulation (rTMS) may be beneficial in the treatment of dysphagia, its clinical efficacy is still uncertain.
+Parkinson's disease (PD) is a neurological disorder that affects both motor and cognitive functioning. This study aimed to examine the impact of motor phenotype on cognitive function 1 year after subthalamic-nucleus deep brain stimulation (STN-DBS).
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.3233/NRE-220268
+10.1111/ggi.14524
 
 ---
 
@@ -261,15 +242,14 @@ Although increasing evidence indicates that cerebellar repetitive transcranial m
 
 ---
 
-## Self-management programs to ensure sustainable return to work following long-term sick leave due to low back pain: A sequential qualitative study.
- 15.01.2023, _Y Tousignant-Laflamme, C Longtin, MF Coutu, N Gaudreault, D Kairy, I Nastasiag, G Léonard_
+## Correction for: Endothelin-1-mediated miR-let-7g-5p triggers interlukin-6 and TNF-α to cause myopathy and chronic adipose inflammation in elderly patients with diabetes mellitus.
+ 15.01.2023, _CH Tsai, PJ Huang, IT Lee, CM Chen, MH Wu_
 
 
-Low back pain (LBP) is a prevalent condition frequently leading to disability. Research suggests that self-management (SM) programs for chronic LBP should include strategies to promote sustainable return to work.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.3233/WOR-220202
+10.18632/aging.204488
 
 ---
 
@@ -434,18 +414,6 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
-
----
-
-## Epidemiology of patients with dizziness over a 3-year period, requiring utilization of the emergency medical serviced system - A Pre- and Post-COVID pandemic comparative study using the population-based ORION registry.
- 15.01.2023, _K Ota, D Nishioka, Y Katayama, T Kitamura, J Masui, K Ota, M Nitta, T Matsuoka, A Takasu_
-
-
-We aimed to identify the proportion of each medical condition or disease contributing to dizziness and their disposition in the Emergency Department (ED).
-
-[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
-
-10.3233/VES-220024
 
 ---
 
