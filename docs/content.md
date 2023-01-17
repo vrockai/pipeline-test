@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Predictors for the Clinical Efficacy of Tramadol for Cancer Pain.
- 16.01.2023, _Y Koutake, A Fujimoto, M Nakahara, M Tsuruyama, T Miyoshi, Y Yamaguchi, M Fukazawa, Y Kawamata, K Hanada, M Hashimoto_
+## Undetected Intraoperative Periprosthetic Femoral Fractures in Patients Undergoing Primary Total Hip Arthroplasty: A Retrospective Case Series and Literature Review.
+ 17.01.2023, _Y Liu, C Li, Z Cao, X Wang, J Wen, H Ping, X Kong, W Chai_
 
 
-Tramadol is conditionally recommended for cancer pain and is a less expensive drug compared to strong opioids. Thus, tramadol may help reduce health care costs.
+Periprosthetic fracture in total hip arthroplasty (THA) can be catastrophic, and early detection and appropriate management are vital to the overall prognosis. This study aimed to describe and summarize the features of undetected intraoperative periprosthetic femoral fractures (IPFFs) in primary THA patients and treatment measures and to review the relevant literature.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1177/10499091231152854
+10.1111/os.13646
 
 ---
 
@@ -170,33 +170,15 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
-## Circadian Rhythms and Melatonin Metabolism in Patients With Disorders of Gut-Brain Interactions.
- 01.04.2022, _S Fowler, EC Hoedt, NJ Talley, S Keely, GL Burns_
-
-
-Circadian rhythms are cyclic patterns of physiological, behavioural and molecular events that occur over a 24-h period. They are controlled by the suprachiasmatic nucleus (SCN), the brain's master pacemaker which governs peripheral clocks and melatonin release. While circadian systems are endogenous, there are external factors that synchronise the SCN to the ambient environment including light/dark cycles, fasting/fed state, temperature and physical activity. Circadian rhythms also provide internal temporal organisation which ensures that any internal changes that take place are centrally coordinated. Melatonin synchronises peripheral clocks to the external time and circadian rhythms are regulated by gene expression to control physiological function. Synchronisation of the circadian system with the external environment is vital for the health and survival of an organism and as circadian rhythms play a pivotal role in regulating GI physiology, disruption may lead to gastrointestinal (GI) dysfunction. Disorders of gut-brain interactions (DGBIs), also known as functional gastrointestinal disorders (FGIDs), are a group of diseases where patients experience reoccurring gastrointestinal symptoms which cannot be explained by obvious structural abnormalities and include functional dyspepsia (FD) and irritable bowel syndrome (IBS). Food timing impacts on the production of melatonin and given the correlation between food intake and symptom onset reported by patients with DGBIs, chronodisruption may be a feature of these conditions. Recent advances in immunology implicate circadian rhythms in the regulation of immune responses, and DGBI patients report fatigue and disordered sleep, suggesting circadian disruption. Further, melatonin treatment has been demonstrated to improve symptom burden in IBS patients, however, the mechanisms underlying this efficacy are unclear. Given the influence of circadian rhythms on gastrointestinal physiology and the immune system, modulation of these rhythms may be a potential therapeutic option for reducing symptom burden in these patients.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
-
-10.3389/fnins.2022.825246
-
----
-
 ## Intestinal gas production by the gut microbiota: A review
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
 
 ---
 
-## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis.
- 10.01.2023, _Y Pinto, S Frishman, S Turjeman, A Eshel, M Nuriel-Ohayon, O Shrossel, O Ziv, W Walters, J Parsonnet, C Ley, EL Johnson, K Kumar, R Schweitzer, S Khatib, F Magzal, E Muller, S Tamir, K Tenenbaum-Gavish, S Rautava, S Salminen, E Isolauri, O Yariv, Y Peled, E Poran, J Pardo, R Chen, M Hod, E Borenstein, RE Ley, B Schwartz, Y Louzoun, E Hadar, O Koren_
-
-
-Gestational diabetes mellitus (GDM) is a condition in which women without diabetes are diagnosed with glucose intolerance during pregnancy, typically in the second or third trimester. Early diagnosis, along with a better understanding of its pathophysiology during the first trimester of pregnancy, may be effective in reducing incidence and associated short-term and long-term morbidities.
+## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis
 
 [Source](https://gut.bmj.com/content/early/2023/01/10/gutjnl-2022-328406)
-
-10.1136/gutjnl-2022-328406
 
 ---
 
@@ -206,51 +188,15 @@ Gestational diabetes mellitus (GDM) is a condition in which women without diabet
 
 ---
 
-## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
- 13.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
-
-
-Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
-
-[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
-
-10.7759/cureus.32313
-
----
-
 ## #GutMicrobiome
 
 [Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Non-suicidal self-injury, suicidal thoughts and behaviors in individuals with an eating disorder relative to healthy and psychiatric controls: A systematic review and meta-analysis.
- 16.01.2023, _MN Sohn, G Dimitropoulos, A Ramirez, C McPherson, A Anderson, A Munir, SB Patten, A McGirr, DJ Devoe_
-
-
-Eating disorders (ED) may be associated with an increased prevalence of non-suicidal self-injury (NSSI) and suicidal thoughts and behaviors (STBs) relative to healthy (HC) and psychiatric (PC) controls. However, precise estimates of differences in prevalence between individuals with EDs and controls are unclear. We compared the prevalence of NSSI, suicidal ideation (SI), suicide attempts (SA), and deaths by suicide in controls and individuals with EDs.
-
-[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
-
-10.1002/eat.23880
-
----
-
 ## #Brain
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
-
----
-
-## Different peripheral expression patterns of the nicotinic acetylcholine receptor in dementia with Lewy bodies and Alzheimer's disease.
- 16.01.2023, _E Costantini, C Carrarini, P Borrelli, M De Rosa, D Calisi, S Consoli, D D'Ardes, F Cipollone, M Di Nicola, M Onofrj, M Reale, L Bonanni_
-
-
-The diffuse distribution of nicotinic cholinergic receptors (nAChRs) in both brain and peripheral immune cells points out their involvement in several pathological conditions. Indeed, the deregulated function of the nAChR was previously correlated with cognitive decline and neuropsychiatric symptoms in Alzheimer's disease (AD) and Dementia with Lewy bodies (DLB). The evaluation in peripheral immune cells of nAChR subtypes, which could reflect their expression in brain regions, is a prominent investigation area.
-
-[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
-
-10.1186/s12979-023-00329-9
 
 ---
 
@@ -302,15 +248,9 @@ The diffuse distribution of nicotinic cholinergic receptors (nAChRs) in both bra
 
 ---
 
-## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
- 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
-
-
-Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome
 
 [Source](https://www.nature.com/articles/s41564-022-01293-8)
-
-10.1038/s41564-022-01293-8
 
 ---
 
