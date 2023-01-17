@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Salmonellosis in Children at a Portuguese Hospital: A Retrospective Study.
- 16.01.2023, _IF Mendes, S Completo, R Vieira de Carvalho, S Jacinto, S Schäfer, P Correia, MJ Brito, A Figueiredo_
+## Predictors for the Clinical Efficacy of Tramadol for Cancer Pain.
+ 16.01.2023, _Y Koutake, A Fujimoto, M Nakahara, M Tsuruyama, T Miyoshi, Y Yamaguchi, M Fukazawa, Y Kawamata, K Hanada, M Hashimoto_
 
 
-Salmonellosis represents a considerable health, social and economic burden in both high- and low-income countries. Recently, in Portugal, most cases of Salmonella infections have been reported in children under 15 years of age. The main aim of this study was to characterize, from an epidemiological, microbiological, and clinical perspective, cases of Salmonella isolation among children.
+Tramadol is conditionally recommended for cancer pain and is a less expensive drug compared to strong opioids. Thus, tramadol may help reduce health care costs.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.20344/amp.18906
+10.1177/10499091231152854
 
 ---
 
@@ -128,15 +128,15 @@ Allele-specific expression (ASE) analysis detects the relative abundance of alle
 
 ---
 
-## Effects of hatching system on chick quality, welfare and health of young breeder flock offspring.
- 15.01.2023, _R Molenaar, N Stockhofe-Zurwieden, MF Giersberg, TB Rodenburg, B Kemp, H van den Brand, IC de Jong_
+## Expression of glycerol-3-phosphate acyltransferase increases non-polar lipid accumulation in Nannochloropsis oceanica.
+ 16.01.2023, _C Südfeld, A Kiyani, K Wefelmeier, RH Wijffels, MJ Barbosa, S D'Adamo_
 
 
-Alternative hatching systems have been developed for broiler chickens to provide immediately feed and water after hatch and reduce the number or severity of early life stressors. Besides beneficial effects of these alternative hatching systems on chick quality and performance, broiler health and welfare may be positively affected as well. Especially offspring from young broiler breeder flocks may benefit, as they have been shown to be more sensitive to preturbations than offspring from older breeder flocks. This study evaluated effects of hatching systems on chick quality, health and welfare of young breeder flock offspring, using 3 different hatching systems: conventional hatchery-hatched (HH), hatchery-fed (HF), and on-farm hatching (OH). A total of 24 pens were used in a completely randomized block design, with 8 pens per hatching system and 30 chickens per pen. Chick quality at hatch and performance until 35 d of age was improved in the HF and OH compared to HH treatment, but only minor effects were found on the welfare indicators: footpad dermatitis, hock burn, cleanliness, skin lesion and gait score. No effect was observed on the dynamics of a humoral immune response after NCD vaccination, given at d 0 and 14 of age, as no differences between NCD titers were found at d 18. Animals were vaccinated with a live attenuated infectious bronchitis vaccine virus (IBV) at d 28 to address treatment related differences to disease resilience. The expressions of inflammation and epithelial integrity related genes in the trachea and histo-pathological changes in the trachea were examined at 3 d after vaccine administration. No differences between treatment groups were observed. Although beneficial effects of HF and OH systems were found for young breeder flock offspring on chick quality at hatch and body weight posthatch, only one effect of alternative hatching systems on welfare and health indicators were found. No effect of hatching system on humoral immune response or disease resilience was found.
+Microalgae are considered a suitable production platform for high-value lipids and oleochemicals. Several species including Nannochloropsis oceanica produce large amounts of essential [Formula: see text]-3 polyunsaturated fatty acids (PUFAs) which are integral components of food and feed and have been associated with health-promoting effects. N. oceanica can further accumulate high contents of non-polar lipids with chemical properties that render them a potential replacement for plant oils such as palm oil. However, biomass and lipid productivities obtained with microalgae need to be improved to reach commercial feasibility. Genetic engineering can improve biomass and lipid productivities, for instance by increasing carbon flux to lipids. Here, we report the overexpression of glycerol-3-phosphate acyltransferase (GPAT) in N. oceanica during favorable growth conditions as a strategy to increase non-polar lipid content. Transformants overproducing either an endogenous (NoGPAT) or a heterologous (Acutodesmus obliquus GPAT) GPAT enzyme targeted to the endoplasmic reticulum had up to 42% and 51% increased non-polar lipid contents, respectively, compared to the wild type. Biomass productivities of transformant strains were not substantially impaired, resulting in lipid productivities that were increased by up to 37% and 42% for NoGPAT and AoGPAT transformants, respectively. When exposed to nutrient stress, transformants and wild type had similar lipid contents, suggesting that GPAT enzyme exerts strong flux control on lipid synthesis in N. oceanica under favorable growth conditions. NoGPAT transformants further accumulated PUFAs in non-polar lipids, reaching a total of 6.8% PUFAs per biomass, an increase of 24% relative to the wild type. Overall, our results indicate that GPAT is an interesting target for engineering of lipid metabolism in microalgae, in order to improve non-polar lipid and PUFAs accumulation in microalgae.
 
 [Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
 
-10.1016/j.psj.2022.102448
+10.1186/s12934-022-01987-y
 
 ---
 
@@ -170,15 +170,33 @@ Alternative hatching systems have been developed for broiler chickens to provide
 
 ---
 
+## Circadian Rhythms and Melatonin Metabolism in Patients With Disorders of Gut-Brain Interactions.
+ 01.04.2022, _S Fowler, EC Hoedt, NJ Talley, S Keely, GL Burns_
+
+
+Circadian rhythms are cyclic patterns of physiological, behavioural and molecular events that occur over a 24-h period. They are controlled by the suprachiasmatic nucleus (SCN), the brain's master pacemaker which governs peripheral clocks and melatonin release. While circadian systems are endogenous, there are external factors that synchronise the SCN to the ambient environment including light/dark cycles, fasting/fed state, temperature and physical activity. Circadian rhythms also provide internal temporal organisation which ensures that any internal changes that take place are centrally coordinated. Melatonin synchronises peripheral clocks to the external time and circadian rhythms are regulated by gene expression to control physiological function. Synchronisation of the circadian system with the external environment is vital for the health and survival of an organism and as circadian rhythms play a pivotal role in regulating GI physiology, disruption may lead to gastrointestinal (GI) dysfunction. Disorders of gut-brain interactions (DGBIs), also known as functional gastrointestinal disorders (FGIDs), are a group of diseases where patients experience reoccurring gastrointestinal symptoms which cannot be explained by obvious structural abnormalities and include functional dyspepsia (FD) and irritable bowel syndrome (IBS). Food timing impacts on the production of melatonin and given the correlation between food intake and symptom onset reported by patients with DGBIs, chronodisruption may be a feature of these conditions. Recent advances in immunology implicate circadian rhythms in the regulation of immune responses, and DGBI patients report fatigue and disordered sleep, suggesting circadian disruption. Further, melatonin treatment has been demonstrated to improve symptom burden in IBS patients, however, the mechanisms underlying this efficacy are unclear. Given the influence of circadian rhythms on gastrointestinal physiology and the immune system, modulation of these rhythms may be a potential therapeutic option for reducing symptom burden in these patients.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
+
+10.3389/fnins.2022.825246
+
+---
+
 ## Intestinal gas production by the gut microbiota: A review
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
 
 ---
 
-## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis
+## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis.
+ 10.01.2023, _Y Pinto, S Frishman, S Turjeman, A Eshel, M Nuriel-Ohayon, O Shrossel, O Ziv, W Walters, J Parsonnet, C Ley, EL Johnson, K Kumar, R Schweitzer, S Khatib, F Magzal, E Muller, S Tamir, K Tenenbaum-Gavish, S Rautava, S Salminen, E Isolauri, O Yariv, Y Peled, E Poran, J Pardo, R Chen, M Hod, E Borenstein, RE Ley, B Schwartz, Y Louzoun, E Hadar, O Koren_
+
+
+Gestational diabetes mellitus (GDM) is a condition in which women without diabetes are diagnosed with glucose intolerance during pregnancy, typically in the second or third trimester. Early diagnosis, along with a better understanding of its pathophysiology during the first trimester of pregnancy, may be effective in reducing incidence and associated short-term and long-term morbidities.
 
 [Source](https://gut.bmj.com/content/early/2023/01/10/gutjnl-2022-328406)
+
+10.1136/gutjnl-2022-328406
 
 ---
 
@@ -188,15 +206,51 @@ Alternative hatching systems have been developed for broiler chickens to provide
 
 ---
 
+## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
+ 13.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
+
+
+Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
+
+[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.7759/cureus.32313
+
+---
+
 ## #GutMicrobiome
 
 [Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
+## Non-suicidal self-injury, suicidal thoughts and behaviors in individuals with an eating disorder relative to healthy and psychiatric controls: A systematic review and meta-analysis.
+ 16.01.2023, _MN Sohn, G Dimitropoulos, A Ramirez, C McPherson, A Anderson, A Munir, SB Patten, A McGirr, DJ Devoe_
+
+
+Eating disorders (ED) may be associated with an increased prevalence of non-suicidal self-injury (NSSI) and suicidal thoughts and behaviors (STBs) relative to healthy (HC) and psychiatric (PC) controls. However, precise estimates of differences in prevalence between individuals with EDs and controls are unclear. We compared the prevalence of NSSI, suicidal ideation (SI), suicide attempts (SA), and deaths by suicide in controls and individuals with EDs.
+
+[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
+
+10.1002/eat.23880
+
+---
+
 ## #Brain
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Different peripheral expression patterns of the nicotinic acetylcholine receptor in dementia with Lewy bodies and Alzheimer's disease.
+ 16.01.2023, _E Costantini, C Carrarini, P Borrelli, M De Rosa, D Calisi, S Consoli, D D'Ardes, F Cipollone, M Di Nicola, M Onofrj, M Reale, L Bonanni_
+
+
+The diffuse distribution of nicotinic cholinergic receptors (nAChRs) in both brain and peripheral immune cells points out their involvement in several pathological conditions. Indeed, the deregulated function of the nAChR was previously correlated with cognitive decline and neuropsychiatric symptoms in Alzheimer's disease (AD) and Dementia with Lewy bodies (DLB). The evaluation in peripheral immune cells of nAChR subtypes, which could reflect their expression in brain regions, is a prominent investigation area.
+
+[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
+
+10.1186/s12979-023-00329-9
 
 ---
 
@@ -284,33 +338,65 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes 
+## Beehives possess their own distinct microbiomes.
+ 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
+
+
+Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
 
+10.1186/s40793-023-00460-6
+
 ---
 
-## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome
+## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome.
+ 12.01.2023, _CR Strachan, XA Yu, V Neubauer, AJ Mueller, M Wagner, Q Zebeli, E Selberherr, MF Polz_
+
+
+The activities of different microbes in the cow rumen have been shown to modulate the host's ability to utilize plant biomass, while the host-rumen interface has received little attention. As datasets collected worldwide have pointed to Campylobacteraceae as particularly abundant members of the rumen epithelial microbiome, we targeted this group in a subset of seven cows with meta- and isolate genome analysis. We show that the dominant Campylobacteraceae lineage has recently speciated into two populations that were structured by genome-wide selective sweeps followed by population-specific gene import and recombination. These processes led to differences in gene expression and enzyme domain composition that correspond to the ability to utilize acetate, the main carbon source for the host, at the cost of inhibition by propionate. This trade-off in competitive ability further manifests itself in differential dynamics of the two populations in vivo. By exploring population-level adaptations that otherwise remain cryptic in culture-independent analyses, our results highlight how recent evolutionary dynamics can shape key functional roles in the rumen microbiome.
 
 [Source](https://www.nature.com/articles/s41564-022-01300-y)
 
+10.1038/s41564-022-01300-y
+
 ---
 
-## Ecological landscapes guide the assembly of optimal microbial communities 
+## Ecological landscapes guide the assembly of optimal microbial communities.
+ 13.01.2023, _AB George, KS Korolev_
+
+
+_Humans, Soil Microbiology, Microbiota, Microbial Consortia, Agriculture_
+Assembling optimal microbial communities is key for various applications in biofuel production, agriculture, and human health. Finding the optimal community is challenging because the number of possible communities grows exponentially with the number of species, and so an exhaustive search cannot be performed even for a dozen species. A heuristic search that improves community function by adding or removing one species at a time is more practical, but it is unknown whether this strategy can discover an optimal or nearly optimal community. Using consumer-resource models with and without cross-feeding, we investigate how the efficacy of search depends on the distribution of resources, niche overlap, cross-feeding, and other aspects of community ecology. We show that search efficacy is determined by the ruggedness of the appropriately-defined ecological landscape. We identify specific ruggedness measures that are both predictive of search performance and robust to noise and low sampling density. The feasibility of our approach is demonstrated using experimental data from a soil microbial community. Overall, our results establish the conditions necessary for the success of the heuristic search and provide concrete design principles for building high-performing microbial consortia.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010570)
 
+10.1371/journal.pcbi.1010570
+
 ---
 
-## Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering
+## Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering.
+ 06.01.2023, _T Ullmann, S Peschel, P Finger, CL Müller, AL Boulesteix_
+
+
+In recent years, unsupervised analysis of microbiome data, such as microbial network analysis and clustering, has increased in popularity. Many new statistical and computational methods have been proposed for these tasks. This multiplicity of analysis strategies poses a challenge for researchers, who are often unsure which method(s) to use and might be tempted to try different methods on their dataset to look for the "best" ones. However, if only the best results are selectively reported, this may cause over-optimism: the "best" method is overly fitted to the specific dataset, and the results might be non-replicable on validation data. Such effects will ultimately hinder research progress. Yet so far, these topics have been given little attention in the context of unsupervised microbiome analysis. In our illustrative study, we aim to quantify over-optimism effects in this context. We model the approach of a hypothetical microbiome researcher who undertakes four unsupervised research tasks: clustering of bacterial genera, hub detection in microbial networks, differential microbial network analysis, and clustering of samples. While these tasks are unsupervised, the researcher might still have certain expectations as to what constitutes interesting results. We translate these expectations into concrete evaluation criteria that the hypothetical researcher might want to optimize. We then randomly split an exemplary dataset from the American Gut Project into discovery and validation sets multiple times. For each research task, multiple method combinations (e.g., methods for data normalization, network generation, and/or clustering) are tried on the discovery data, and the combination that yields the best result according to the evaluation criterion is chosen. While the hypothetical researcher might only report this result, we also apply the "best" method combination to the validation dataset. The results are then compared between discovery and validation data. In all four research tasks, there are notable over-optimism effects; the results on the validation data set are worse compared to the discovery data, averaged over multiple random splits into discovery/validation data. Our study thus highlights the importance of validation and replication in microbiome analysis to obtain reliable results and demonstrates that the issue of over-optimism goes beyond the context of statistical testing and fishing for significance.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820)
 
+10.1371/journal.pcbi.1010820
+
 ---
 
-## Ten simple rules for using public biological data for your research 
+## Ten simple rules for using public biological data for your research.
+ 09.01.2023, _VH Oza, JH Whitlock, EJ Wilk, A Uno-Antonison, B Wilk, M Gajapathy, TC Howton, A Trull, L Ianov, EA Worthey, BN Lasseigne_
+
+
+_Reproducibility of Results, Information Storage and Retrieval_
+With an increasing amount of biological data available publicly, there is a need for a guide on how to successfully download and use this data. The 10 simple rules for using public biological data are: (1) use public data purposefully in your research; (2) evaluate data for your use case; (3) check data reuse requirements and embargoes; (4) be aware of ethics for data reuse; (5) plan for data storage and compute requirements; (6) know what you are downloading; (7) download programmatically and verify integrity; (8) properly cite data; (9) make reprocessed data and models Findable, Accessible, Interoperable, and Reusable (FAIR) and share; and (10) make pipelines and code FAIR and share. These rules are intended as a guide for researchers wanting to make use of available data and to increase data reuse and reproducibility.
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010749)
+
+10.1371/journal.pcbi.1010749
 
 ---
 
