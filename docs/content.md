@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Undetected Intraoperative Periprosthetic Femoral Fractures in Patients Undergoing Primary Total Hip Arthroplasty: A Retrospective Case Series and Literature Review.
- 17.01.2023, _Y Liu, C Li, Z Cao, X Wang, J Wen, H Ping, X Kong, W Chai_
+## Identification of Bone Mineral Density Deficit Using L1 Trabecular Attenuation by Opportunistic Multidetector CT Scan in Adult Patients.
+ 17.01.2023, _JA Castillo-López, F Bravo-Ontiveros, ER Rodea-Montero_
 
 
-Periprosthetic fracture in total hip arthroplasty (THA) can be catastrophic, and early detection and appropriate management are vital to the overall prognosis. This study aimed to describe and summarize the features of undetected intraoperative periprosthetic femoral fractures (IPFFs) in primary THA patients and treatment measures and to review the relevant literature.
+Multidetector computer tomography (CT) has been used to diagnose pathologies such as osteoporosis via opportunistic screening, where the assessment of the bone structure and the measurement of bone mineral density (BMD) are of great relevance.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1111/os.13646
+10.3390/tomography9010013
 
 ---
 
@@ -158,15 +158,46 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
+## Association of Sodium-Glucose Cotransporter 2 Inhibitor vs Dipeptidyl Peptidase-4 Inhibitor Use With Risk of Incident Obstructive Airway Disease and Exacerbation Events Among Patients With Type 2 Diabetes in Hong Kong.
+ 17.01.2023, _PCM Au, KCB Tan, DCL Lam, BMY Cheung, ICK Wong, WC Kwok, CW Sing, CL Cheung_
+
+
+Patients with diabetes are at higher risk for obstructive airway disease (OAD). In recent meta-analyses of post hoc analyses of cardiorenal trials, sodium-glucose cotransporter 2 inhibitors (SGLT2Is) were suggested to reduce the risk of OAD adverse events. However, a clinical investigation of this association is warranted.
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2022.51177
+
+---
+
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
 
 ---
 
-## The gut microbiota in multiple sclerosis varies with disease activity
+## The gut microbiota in multiple sclerosis varies with disease activity.
+ 10.01.2023, _F Thirion, F Sellebjerg, Y Fan, L Lyu, TH Hansen, N Pons, F Levenez, B Quinquis, E Stankevic, HB Søndergaard, TM Dantoft, CS Poulsen, SK Forslund, H Vestergaard, T Hansen, S Brix, A Oturai, PS Sørensen, SD Ehrlich, O Pedersen_
+
+
+_Young Adult, Humans, Multiple Sclerosis, Gastrointestinal Microbiome, Inflammation, Microbiota, Feces, Bacteria, Cytokines_
+Multiple sclerosis is a chronic immune-mediated disease of the brain and spinal cord resulting in physical and cognitive impairment in young adults. It is hypothesized that a disrupted bacterial and viral gut microbiota is a part of the pathogenesis mediating disease impact through an altered gut microbiota-brain axis. The aim of this study is to explore the characteristics of gut microbiota in multiple sclerosis and to associate it with disease variables, as the etiology of the disease remains only partially known.
 
 [Source](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01148-1)
+
+10.1186/s13073-022-01148-1
+
+---
+
+## Circadian Rhythms and Melatonin Metabolism in Patients With Disorders of Gut-Brain Interactions.
+ 01.04.2022, _S Fowler, EC Hoedt, NJ Talley, S Keely, GL Burns_
+
+
+Circadian rhythms are cyclic patterns of physiological, behavioural and molecular events that occur over a 24-h period. They are controlled by the suprachiasmatic nucleus (SCN), the brain's master pacemaker which governs peripheral clocks and melatonin release. While circadian systems are endogenous, there are external factors that synchronise the SCN to the ambient environment including light/dark cycles, fasting/fed state, temperature and physical activity. Circadian rhythms also provide internal temporal organisation which ensures that any internal changes that take place are centrally coordinated. Melatonin synchronises peripheral clocks to the external time and circadian rhythms are regulated by gene expression to control physiological function. Synchronisation of the circadian system with the external environment is vital for the health and survival of an organism and as circadian rhythms play a pivotal role in regulating GI physiology, disruption may lead to gastrointestinal (GI) dysfunction. Disorders of gut-brain interactions (DGBIs), also known as functional gastrointestinal disorders (FGIDs), are a group of diseases where patients experience reoccurring gastrointestinal symptoms which cannot be explained by obvious structural abnormalities and include functional dyspepsia (FD) and irritable bowel syndrome (IBS). Food timing impacts on the production of melatonin and given the correlation between food intake and symptom onset reported by patients with DGBIs, chronodisruption may be a feature of these conditions. Recent advances in immunology implicate circadian rhythms in the regulation of immune responses, and DGBI patients report fatigue and disordered sleep, suggesting circadian disruption. Further, melatonin treatment has been demonstrated to improve symptom burden in IBS patients, however, the mechanisms underlying this efficacy are unclear. Given the influence of circadian rhythms on gastrointestinal physiology and the immune system, modulation of these rhythms may be a potential therapeutic option for reducing symptom burden in these patients.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1756464622004376)
+
+10.3389/fnins.2022.825246
 
 ---
 
@@ -176,9 +207,15 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
-## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis
+## Gestational diabetes is driven by microbiota-induced inflammation months before diagnosis.
+ 10.01.2023, _Y Pinto, S Frishman, S Turjeman, A Eshel, M Nuriel-Ohayon, O Shrossel, O Ziv, W Walters, J Parsonnet, C Ley, EL Johnson, K Kumar, R Schweitzer, S Khatib, F Magzal, E Muller, S Tamir, K Tenenbaum-Gavish, S Rautava, S Salminen, E Isolauri, O Yariv, Y Peled, E Poran, J Pardo, R Chen, M Hod, E Borenstein, RE Ley, B Schwartz, Y Louzoun, E Hadar, O Koren_
+
+
+Gestational diabetes mellitus (GDM) is a condition in which women without diabetes are diagnosed with glucose intolerance during pregnancy, typically in the second or third trimester. Early diagnosis, along with a better understanding of its pathophysiology during the first trimester of pregnancy, may be effective in reducing incidence and associated short-term and long-term morbidities.
 
 [Source](https://gut.bmj.com/content/early/2023/01/10/gutjnl-2022-328406)
+
+10.1136/gutjnl-2022-328406
 
 ---
 
@@ -188,15 +225,51 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
+## A Systematic Review of Mixed Studies Exploring the Effects of Probiotics on Gut-Microbiome to Modulate Therapy in Children With Autism Spectrum Disorder.
+ 13.01.2023, _M Patel, LM Atluri, NA Gonzalez, N Sakhamuri, S Athiyaman, B Randhi, SD Gutlapalli, J Pu, MF Zaidi, S Khan_
+
+
+Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder characterized by social deficits, repetitive typical behaviors, insistence on the same routines, and communication impairments. The prevalence of ASD has increased in the past decade. While we are aware that there is no cure for ASD, attempts are being made to reduce its symptoms and improve the learning, overall growth, and well-being of ASD patients. Gastrointestinal (GI) symptoms are frequent occurrences in patients with ASD, but the underlying mechanisms are unknown. Recent studies show that the microbiota-gut-brain axis is the key modulator of neuropsychiatric health. Although fecal transplants have shown positive outcomes in treating dysbiosis and symptoms of autism, lifestyle modifications such as dietary intervention will prevent and treat this disorder without causing major adverse effects. Probiotics enhance the microbiome to provide necessary metabolites, which help in gut permeability, cognitive function, and immunity. In some studies, children with increased GI symptoms have also shown increased behavioral disturbances. In this study, a systematic review of mixed studies is conducted to obtain more robust and conclusive results. We included randomized controlled studies with larger sample sizes and specifications on probiotics.
+
+[Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
+
+10.7759/cureus.32313
+
+---
+
 ## #GutMicrobiome
 
 [Source](https://twitter.com/hashtag/GutMicrobiome?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
+## Scalable Causal Structure Learning: Scoping Review of Traditional and Deep Learning Algorithms and New Opportunities in Biomedicine.
+ 17.01.2023, _P Upadhyaya, K Zhang, C Li, X Jiang, Y Kim_
+
+
+Causal structure learning refers to a process of identifying causal structures from observational data, and it can have multiple applications in biomedicine and health care.
+
+[Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
+
+10.2196/38266
+
+---
+
 ## #Brain
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## Technology-Enabled Collaborative Care for Concurrent Diabetes and Distress Management During the COVID-19 Pandemic: Protocol for a Mixed Methods Feasibility Study.
+ 17.01.2023, _L Vojtila, D Sherifali, R Dragonetti, I Ashfaq, S Veldhuizen, F Naeem, SM Agarwal, OC Melamed, A Crawford, P Gerretsen, M Hahn, S Hill, S Kidd, B Mulsant, E Serhal, L Tackaberry-Giddens, C Whitmore, J Marttila, F Tang, S Ramdass, G Lourido, S Sockalingam, P Selby_
+
+
+The COVID-19 pandemic disrupted the delivery of diabetes care and worsened mental health among many patients with type 2 diabetes (T2D). This disruption puts patients with T2D at risk for poor diabetes outcomes, especially those who experience social disadvantage due to socioeconomic class, rurality, or ethnicity. The appropriate use of communication technology could reduce these gaps in diabetes care created by the pandemic and also provide support for psychological distress.
+
+[Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
+
+10.2196/39724
 
 ---
 
@@ -236,6 +309,18 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
+## Association of Sodium-Glucose Cotransporter 2 Inhibitor vs Dipeptidyl Peptidase-4 Inhibitor Use With Risk of Incident Obstructive Airway Disease and Exacerbation Events Among Patients With Type 2 Diabetes in Hong Kong.
+ 17.01.2023, _PCM Au, KCB Tan, DCL Lam, BMY Cheung, ICK Wong, WC Kwok, CW Sing, CL Cheung_
+
+
+Patients with diabetes are at higher risk for obstructive airway disease (OAD). In recent meta-analyses of post hoc analyses of cardiorenal trials, sodium-glucose cotransporter 2 inhibitors (SGLT2Is) were suggested to reduce the risk of OAD adverse events. However, a clinical investigation of this association is warranted.
+
+[Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2022.51177
+
+---
+
 ## January 10, 2023
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
@@ -248,9 +333,15 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
-## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
+ 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
+
+
+Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
 
 [Source](https://www.nature.com/articles/s41564-022-01293-8)
+
+10.1038/s41564-022-01293-8
 
 ---
 
@@ -349,6 +440,18 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
+
+---
+
+## Association of Sodium-Glucose Cotransporter 2 Inhibitor vs Dipeptidyl Peptidase-4 Inhibitor Use With Risk of Incident Obstructive Airway Disease and Exacerbation Events Among Patients With Type 2 Diabetes in Hong Kong.
+ 17.01.2023, _PCM Au, KCB Tan, DCL Lam, BMY Cheung, ICK Wong, WC Kwok, CW Sing, CL Cheung_
+
+
+Patients with diabetes are at higher risk for obstructive airway disease (OAD). In recent meta-analyses of post hoc analyses of cardiorenal trials, sodium-glucose cotransporter 2 inhibitors (SGLT2Is) were suggested to reduce the risk of OAD adverse events. However, a clinical investigation of this association is warranted.
+
+[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
+
+10.1001/jamanetworkopen.2022.51177
 
 ---
 
