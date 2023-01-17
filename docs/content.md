@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The usefulness of the endoscopic surgical skill qualification system in laparoscopic right hemicolectomy: a single-center, retrospective analysis with propensity score matching.
- 16.01.2023, _M Iwamoto, Y Makutani, Y Yane, H Ushijima, Y Yoshioka, T Wada, K Daito, T Tokoro, Y Chiba, K Ueda, J Kawamura_
+## Salmonellosis in Children at a Portuguese Hospital: A Retrospective Study.
+ 16.01.2023, _IF Mendes, S Completo, R Vieira de Carvalho, S Jacinto, S Schäfer, P Correia, MJ Brito, A Figueiredo_
 
 
-Recently, a new certification system called the Endoscopic Surgical Skill Qualification System (ESSQS) has been launched in Japan to improve surgical safety. This study aimed to determine whether ESSQS-qualified surgeons affect the short- and long-term outcomes of laparoscopic right hemicolectomy.
+Salmonellosis represents a considerable health, social and economic burden in both high- and low-income countries. Recently, in Portugal, most cases of Salmonella infections have been reported in children under 15 years of age. The main aim of this study was to characterize, from an epidemiological, microbiological, and clinical perspective, cases of Salmonella isolation among children.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1007/s00423-023-02810-x
+10.20344/amp.18906
 
 ---
 
@@ -248,9 +248,15 @@ Alternative hatching systems have been developed for broiler chickens to provide
 
 ---
 
-## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
+ 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
+
+
+Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
 
 [Source](https://www.nature.com/articles/s41564-022-01293-8)
+
+10.1038/s41564-022-01293-8
 
 ---
 
@@ -284,53 +290,27 @@ Alternative hatching systems have been developed for broiler chickens to provide
 
 ---
 
-## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome.
- 12.01.2023, _CR Strachan, XA Yu, V Neubauer, AJ Mueller, M Wagner, Q Zebeli, E Selberherr, MF Polz_
-
-
-The activities of different microbes in the cow rumen have been shown to modulate the host's ability to utilize plant biomass, while the host-rumen interface has received little attention. As datasets collected worldwide have pointed to Campylobacteraceae as particularly abundant members of the rumen epithelial microbiome, we targeted this group in a subset of seven cows with meta- and isolate genome analysis. We show that the dominant Campylobacteraceae lineage has recently speciated into two populations that were structured by genome-wide selective sweeps followed by population-specific gene import and recombination. These processes led to differences in gene expression and enzyme domain composition that correspond to the ability to utilize acetate, the main carbon source for the host, at the cost of inhibition by propionate. This trade-off in competitive ability further manifests itself in differential dynamics of the two populations in vivo. By exploring population-level adaptations that otherwise remain cryptic in culture-independent analyses, our results highlight how recent evolutionary dynamics can shape key functional roles in the rumen microbiome.
+## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome
 
 [Source](https://www.nature.com/articles/s41564-022-01300-y)
 
-10.1038/s41564-022-01300-y
-
 ---
 
-## Ecological landscapes guide the assembly of optimal microbial communities.
- 13.01.2023, _AB George, KS Korolev_
-
-
-_Humans, Soil Microbiology, Microbiota, Microbial Consortia, Agriculture_
-Assembling optimal microbial communities is key for various applications in biofuel production, agriculture, and human health. Finding the optimal community is challenging because the number of possible communities grows exponentially with the number of species, and so an exhaustive search cannot be performed even for a dozen species. A heuristic search that improves community function by adding or removing one species at a time is more practical, but it is unknown whether this strategy can discover an optimal or nearly optimal community. Using consumer-resource models with and without cross-feeding, we investigate how the efficacy of search depends on the distribution of resources, niche overlap, cross-feeding, and other aspects of community ecology. We show that search efficacy is determined by the ruggedness of the appropriately-defined ecological landscape. We identify specific ruggedness measures that are both predictive of search performance and robust to noise and low sampling density. The feasibility of our approach is demonstrated using experimental data from a soil microbial community. Overall, our results establish the conditions necessary for the success of the heuristic search and provide concrete design principles for building high-performing microbial consortia.
+## Ecological landscapes guide the assembly of optimal microbial communities 
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010570)
 
-10.1371/journal.pcbi.1010570
-
 ---
 
-## Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering.
- 06.01.2023, _T Ullmann, S Peschel, P Finger, CL Müller, AL Boulesteix_
-
-
-In recent years, unsupervised analysis of microbiome data, such as microbial network analysis and clustering, has increased in popularity. Many new statistical and computational methods have been proposed for these tasks. This multiplicity of analysis strategies poses a challenge for researchers, who are often unsure which method(s) to use and might be tempted to try different methods on their dataset to look for the "best" ones. However, if only the best results are selectively reported, this may cause over-optimism: the "best" method is overly fitted to the specific dataset, and the results might be non-replicable on validation data. Such effects will ultimately hinder research progress. Yet so far, these topics have been given little attention in the context of unsupervised microbiome analysis. In our illustrative study, we aim to quantify over-optimism effects in this context. We model the approach of a hypothetical microbiome researcher who undertakes four unsupervised research tasks: clustering of bacterial genera, hub detection in microbial networks, differential microbial network analysis, and clustering of samples. While these tasks are unsupervised, the researcher might still have certain expectations as to what constitutes interesting results. We translate these expectations into concrete evaluation criteria that the hypothetical researcher might want to optimize. We then randomly split an exemplary dataset from the American Gut Project into discovery and validation sets multiple times. For each research task, multiple method combinations (e.g., methods for data normalization, network generation, and/or clustering) are tried on the discovery data, and the combination that yields the best result according to the evaluation criterion is chosen. While the hypothetical researcher might only report this result, we also apply the "best" method combination to the validation dataset. The results are then compared between discovery and validation data. In all four research tasks, there are notable over-optimism effects; the results on the validation data set are worse compared to the discovery data, averaged over multiple random splits into discovery/validation data. Our study thus highlights the importance of validation and replication in microbiome analysis to obtain reliable results and demonstrates that the issue of over-optimism goes beyond the context of statistical testing and fishing for significance.
+## Over-optimism in unsupervised microbiome analysis: Insights from network learning and clustering
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010820)
 
-10.1371/journal.pcbi.1010820
-
 ---
 
-## Ten simple rules for using public biological data for your research.
- 09.01.2023, _VH Oza, JH Whitlock, EJ Wilk, A Uno-Antonison, B Wilk, M Gajapathy, TC Howton, A Trull, L Ianov, EA Worthey, BN Lasseigne_
-
-
-_Reproducibility of Results, Information Storage and Retrieval_
-With an increasing amount of biological data available publicly, there is a need for a guide on how to successfully download and use this data. The 10 simple rules for using public biological data are: (1) use public data purposefully in your research; (2) evaluate data for your use case; (3) check data reuse requirements and embargoes; (4) be aware of ethics for data reuse; (5) plan for data storage and compute requirements; (6) know what you are downloading; (7) download programmatically and verify integrity; (8) properly cite data; (9) make reprocessed data and models Findable, Accessible, Interoperable, and Reusable (FAIR) and share; and (10) make pipelines and code FAIR and share. These rules are intended as a guide for researchers wanting to make use of available data and to increase data reuse and reproducibility.
+## Ten simple rules for using public biological data for your research 
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010749)
-
-10.1371/journal.pcbi.1010749
 
 ---
 
