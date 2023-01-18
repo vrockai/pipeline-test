@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## How dentists and oral and maxillofacial surgeons deal with tooth extraction without a valid clinical indication.
- 17.01.2023, _DLM Broers, L Dubois, J de Lange, JVM Welie, WG Brands, MBD Lagas, JJM Bruers, A de Jongh_
+## The Implications of Airway Anomalies on Children with Congenital Heart Disease and Bronchiolitis.
+ 17.01.2023, _PY Wang, WC Tseng, ET Wu, FL Lu, SJ Chen, SN Chiu, MH Wu, JK Wang, CC Wang_
 
 
-This study pertains to a secondary data analysis aimed at determining differences between oral and maxillofacial surgeons (OMFSs) and dentists handling dental extractions without an evident clinical indication.
+Bronchiolitis is a common airway infection in young children. Hemodynamically significant congenital heart disease (CHD) predicts a more complicated course. However, the role of airway anomalies remains unknown.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1371/journal.pone.0280288
+10.1002/ppul.26320
 
 ---
 
@@ -231,15 +231,14 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Risk of Major Psychiatric Disorders Among Children and Adolescents Surviving Malignancies: A Nationwide Longitudinal Study.
- 17.01.2023, _TW Hsu, CS Liang, SJ Tsai, YM Bai, TP Su, TJ Chen, MH Chen_
+## Promoting Inclusion, Diversity, and Equity in Pain Science.
+ 17.01.2023, _TM Palermo, KD Davis, D Bouhassira, RW Hurley, JD Katz, FJ Keefe, M Schatman, DC Turk, D Yarnitsky_
 
 
-Evidence suggests an increased long-term risk of major psychiatric disorders (MPDs) in childhood and adolescent cancer survivors (CACSs). However, definitive conclusions regarding such associations and whether such associations vary for different types of cancers remain unclear.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1200/JCO.22.01189
+10.1097/AJP.0000000000001094
 
 ---
 
@@ -249,15 +248,15 @@ Evidence suggests an increased long-term risk of major psychiatric disorders (MP
 
 ---
 
-## Decrease in the expression of muscle-specific miRNAs, miR-133a and miR-1, in myoblasts with replicative senescence.
- 17.01.2023, _K Shintani-Ishida, R Tsurumi, H Ikegaya_
+## Frailty impacts immune responses to Moderna COVID-19 mRNA vaccine in older adults.
+ 17.01.2023, _CT Semelka, ME DeWitt, MW Blevins, BC Holbrook, JW Sanders, MA Alexander-Miller_
 
 
-Muscles that are injured or atrophied by aging undergo myogenic regeneration. Although myoblasts play a pivotal role in myogenic regeneration, their function is impaired with aging. MicroRNAs (miRNAs) are also involved in myogenic regeneration. MiRNA (miR)-1 and miR-133a are muscle-specific miRNAs that control the proliferation and differentiation of myoblasts. In this study, we determined whether miR-1 and miR-133a expression in myoblasts is altered with cellular senescence and involved in senescence-impaired myogenic differentiation. C2C12 murine skeletal myoblasts were converted to a replicative senescent state by culturing to a high passage number. Although miR-1 and miR-133a expression was largely induced during myogenic differentiation, expression was suppressed in cells at high passage numbers (passage 10 and/or passage 20). Although the senescent myoblasts exhibited a deterioration of myogenic differentiation, transfection of miR-1 or miR-133a into myoblasts ameliorated cell fusion. Treatment with the glutaminase 1 inhibitor, BPTES, removed senescent cells from C2C12 myoblasts with a high passage number, whereas myotube formation and miR-133a expression was increased. In addition, primary cultured myoblasts prepared from aged C57BL/6J male mice (20 months old) exhibited a decrease in miR-1 and miR-133a levels compared with younger mice (3 months old). The results suggest that replicative senescence suppresses muscle-specific miRNA expression in myoblasts, which contributes to the senescence-related dysfunction of myogenic regeneration.
+Immune responses to COVID-19 mRNA vaccines have not been well characterized in frail older adults. We postulated that frailty is associated with impaired antibody and cellular mRNA vaccine responses.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1371/journal.pone.0280527
+10.1186/s12979-023-00327-x
 
 ---
 
@@ -297,15 +296,15 @@ Muscles that are injured or atrophied by aging undergo myogenic regeneration. Al
 
 ---
 
-## How dentists and oral and maxillofacial surgeons deal with tooth extraction without a valid clinical indication.
- 17.01.2023, _DLM Broers, L Dubois, J de Lange, JVM Welie, WG Brands, MBD Lagas, JJM Bruers, A de Jongh_
+## Clinical outcomes of a novel porcine small intestinal submucosa patch for full-thickness hand skin defects: a retrospective investigation.
+ 17.01.2023, _C Zang, H Xian, H Zhang, M Che, Y Chen, F Zhang, R Cong_
 
 
-This study pertains to a secondary data analysis aimed at determining differences between oral and maxillofacial surgeons (OMFSs) and dentists handling dental extractions without an evident clinical indication.
+To investigate the clinical outcomes of a novel soft tissue repair patch (porcine small intestinal submucosa patch, SIS patch) in the treatment of full-thickness hand skin defects.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1371/journal.pone.0280288
+10.1186/s13018-023-03531-z
 
 ---
 
@@ -363,9 +362,15 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome
+## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome.
+ 12.01.2023, _CR Strachan, XA Yu, V Neubauer, AJ Mueller, M Wagner, Q Zebeli, E Selberherr, MF Polz_
+
+
+The activities of different microbes in the cow rumen have been shown to modulate the host's ability to utilize plant biomass, while the host-rumen interface has received little attention. As datasets collected worldwide have pointed to Campylobacteraceae as particularly abundant members of the rumen epithelial microbiome, we targeted this group in a subset of seven cows with meta- and isolate genome analysis. We show that the dominant Campylobacteraceae lineage has recently speciated into two populations that were structured by genome-wide selective sweeps followed by population-specific gene import and recombination. These processes led to differences in gene expression and enzyme domain composition that correspond to the ability to utilize acetate, the main carbon source for the host, at the cost of inhibition by propionate. This trade-off in competitive ability further manifests itself in differential dynamics of the two populations in vivo. By exploring population-level adaptations that otherwise remain cryptic in culture-independent analyses, our results highlight how recent evolutionary dynamics can shape key functional roles in the rumen microbiome.
 
 [Source](https://www.nature.com/articles/s41564-022-01300-y)
+
+10.1038/s41564-022-01300-y
 
 ---
 
