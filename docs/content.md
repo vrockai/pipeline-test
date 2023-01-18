@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Identification of Bone Mineral Density Deficit Using L1 Trabecular Attenuation by Opportunistic Multidetector CT Scan in Adult Patients.
- 17.01.2023, _JA Castillo-López, F Bravo-Ontiveros, ER Rodea-Montero_
+## How dentists and oral and maxillofacial surgeons deal with tooth extraction without a valid clinical indication.
+ 17.01.2023, _DLM Broers, L Dubois, J de Lange, JVM Welie, WG Brands, MBD Lagas, JJM Bruers, A de Jongh_
 
 
-Multidetector computer tomography (CT) has been used to diagnose pathologies such as osteoporosis via opportunistic screening, where the assessment of the bone structure and the measurement of bone mineral density (BMD) are of great relevance.
+This study pertains to a secondary data analysis aimed at determining differences between oral and maxillofacial surgeons (OMFSs) and dentists handling dental extractions without an evident clinical indication.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.3390/tomography9010013
+10.1371/journal.pone.0280288
 
 ---
 
@@ -158,18 +158,6 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
-## Association of Sodium-Glucose Cotransporter 2 Inhibitor vs Dipeptidyl Peptidase-4 Inhibitor Use With Risk of Incident Obstructive Airway Disease and Exacerbation Events Among Patients With Type 2 Diabetes in Hong Kong.
- 17.01.2023, _PCM Au, KCB Tan, DCL Lam, BMY Cheung, ICK Wong, WC Kwok, CW Sing, CL Cheung_
-
-
-Patients with diabetes are at higher risk for obstructive airway disease (OAD). In recent meta-analyses of post hoc analyses of cardiorenal trials, sodium-glucose cotransporter 2 inhibitors (SGLT2Is) were suggested to reduce the risk of OAD adverse events. However, a clinical investigation of this association is warranted.
-
-[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
-
-10.1001/jamanetworkopen.2022.51177
-
----
-
 ## January 10, 2023
 
 [Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
@@ -243,15 +231,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Scalable Causal Structure Learning: Scoping Review of Traditional and Deep Learning Algorithms and New Opportunities in Biomedicine.
- 17.01.2023, _P Upadhyaya, K Zhang, C Li, X Jiang, Y Kim_
+## Risk of Major Psychiatric Disorders Among Children and Adolescents Surviving Malignancies: A Nationwide Longitudinal Study.
+ 17.01.2023, _TW Hsu, CS Liang, SJ Tsai, YM Bai, TP Su, TJ Chen, MH Chen_
 
 
-Causal structure learning refers to a process of identifying causal structures from observational data, and it can have multiple applications in biomedicine and health care.
+Evidence suggests an increased long-term risk of major psychiatric disorders (MPDs) in childhood and adolescent cancer survivors (CACSs). However, definitive conclusions regarding such associations and whether such associations vary for different types of cancers remain unclear.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.2196/38266
+10.1200/JCO.22.01189
 
 ---
 
@@ -261,15 +249,15 @@ Causal structure learning refers to a process of identifying causal structures f
 
 ---
 
-## Technology-Enabled Collaborative Care for Concurrent Diabetes and Distress Management During the COVID-19 Pandemic: Protocol for a Mixed Methods Feasibility Study.
- 17.01.2023, _L Vojtila, D Sherifali, R Dragonetti, I Ashfaq, S Veldhuizen, F Naeem, SM Agarwal, OC Melamed, A Crawford, P Gerretsen, M Hahn, S Hill, S Kidd, B Mulsant, E Serhal, L Tackaberry-Giddens, C Whitmore, J Marttila, F Tang, S Ramdass, G Lourido, S Sockalingam, P Selby_
+## Decrease in the expression of muscle-specific miRNAs, miR-133a and miR-1, in myoblasts with replicative senescence.
+ 17.01.2023, _K Shintani-Ishida, R Tsurumi, H Ikegaya_
 
 
-The COVID-19 pandemic disrupted the delivery of diabetes care and worsened mental health among many patients with type 2 diabetes (T2D). This disruption puts patients with T2D at risk for poor diabetes outcomes, especially those who experience social disadvantage due to socioeconomic class, rurality, or ethnicity. The appropriate use of communication technology could reduce these gaps in diabetes care created by the pandemic and also provide support for psychological distress.
+Muscles that are injured or atrophied by aging undergo myogenic regeneration. Although myoblasts play a pivotal role in myogenic regeneration, their function is impaired with aging. MicroRNAs (miRNAs) are also involved in myogenic regeneration. MiRNA (miR)-1 and miR-133a are muscle-specific miRNAs that control the proliferation and differentiation of myoblasts. In this study, we determined whether miR-1 and miR-133a expression in myoblasts is altered with cellular senescence and involved in senescence-impaired myogenic differentiation. C2C12 murine skeletal myoblasts were converted to a replicative senescent state by culturing to a high passage number. Although miR-1 and miR-133a expression was largely induced during myogenic differentiation, expression was suppressed in cells at high passage numbers (passage 10 and/or passage 20). Although the senescent myoblasts exhibited a deterioration of myogenic differentiation, transfection of miR-1 or miR-133a into myoblasts ameliorated cell fusion. Treatment with the glutaminase 1 inhibitor, BPTES, removed senescent cells from C2C12 myoblasts with a high passage number, whereas myotube formation and miR-133a expression was increased. In addition, primary cultured myoblasts prepared from aged C57BL/6J male mice (20 months old) exhibited a decrease in miR-1 and miR-133a levels compared with younger mice (3 months old). The results suggest that replicative senescence suppresses muscle-specific miRNA expression in myoblasts, which contributes to the senescence-related dysfunction of myogenic regeneration.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.2196/39724
+10.1371/journal.pone.0280527
 
 ---
 
@@ -309,15 +297,15 @@ The COVID-19 pandemic disrupted the delivery of diabetes care and worsened menta
 
 ---
 
-## Association of Sodium-Glucose Cotransporter 2 Inhibitor vs Dipeptidyl Peptidase-4 Inhibitor Use With Risk of Incident Obstructive Airway Disease and Exacerbation Events Among Patients With Type 2 Diabetes in Hong Kong.
- 17.01.2023, _PCM Au, KCB Tan, DCL Lam, BMY Cheung, ICK Wong, WC Kwok, CW Sing, CL Cheung_
+## How dentists and oral and maxillofacial surgeons deal with tooth extraction without a valid clinical indication.
+ 17.01.2023, _DLM Broers, L Dubois, J de Lange, JVM Welie, WG Brands, MBD Lagas, JJM Bruers, A de Jongh_
 
 
-Patients with diabetes are at higher risk for obstructive airway disease (OAD). In recent meta-analyses of post hoc analyses of cardiorenal trials, sodium-glucose cotransporter 2 inhibitors (SGLT2Is) were suggested to reduce the risk of OAD adverse events. However, a clinical investigation of this association is warranted.
+This study pertains to a secondary data analysis aimed at determining differences between oral and maxillofacial surgeons (OMFSs) and dentists handling dental extractions without an evident clinical indication.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1001/jamanetworkopen.2022.51177
+10.1371/journal.pone.0280288
 
 ---
 
@@ -369,27 +357,15 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes.
- 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
-
-
-Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
+## Beehives possess their own distinct microbiomes 
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
 
-10.1186/s40793-023-00460-6
-
 ---
 
-## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome.
- 12.01.2023, _CR Strachan, XA Yu, V Neubauer, AJ Mueller, M Wagner, Q Zebeli, E Selberherr, MF Polz_
-
-
-The activities of different microbes in the cow rumen have been shown to modulate the host's ability to utilize plant biomass, while the host-rumen interface has received little attention. As datasets collected worldwide have pointed to Campylobacteraceae as particularly abundant members of the rumen epithelial microbiome, we targeted this group in a subset of seven cows with meta- and isolate genome analysis. We show that the dominant Campylobacteraceae lineage has recently speciated into two populations that were structured by genome-wide selective sweeps followed by population-specific gene import and recombination. These processes led to differences in gene expression and enzyme domain composition that correspond to the ability to utilize acetate, the main carbon source for the host, at the cost of inhibition by propionate. This trade-off in competitive ability further manifests itself in differential dynamics of the two populations in vivo. By exploring population-level adaptations that otherwise remain cryptic in culture-independent analyses, our results highlight how recent evolutionary dynamics can shape key functional roles in the rumen microbiome.
+## Differential carbon utilization enables co-existence of recently speciated Campylobacteraceae in the cow rumen epithelial microbiome
 
 [Source](https://www.nature.com/articles/s41564-022-01300-y)
-
-10.1038/s41564-022-01300-y
 
 ---
 
@@ -440,18 +416,6 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
-
----
-
-## Association of Sodium-Glucose Cotransporter 2 Inhibitor vs Dipeptidyl Peptidase-4 Inhibitor Use With Risk of Incident Obstructive Airway Disease and Exacerbation Events Among Patients With Type 2 Diabetes in Hong Kong.
- 17.01.2023, _PCM Au, KCB Tan, DCL Lam, BMY Cheung, ICK Wong, WC Kwok, CW Sing, CL Cheung_
-
-
-Patients with diabetes are at higher risk for obstructive airway disease (OAD). In recent meta-analyses of post hoc analyses of cardiorenal trials, sodium-glucose cotransporter 2 inhibitors (SGLT2Is) were suggested to reduce the risk of OAD adverse events. However, a clinical investigation of this association is warranted.
-
-[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
-
-10.1001/jamanetworkopen.2022.51177
 
 ---
 
