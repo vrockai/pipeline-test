@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## The Implications of Airway Anomalies on Children with Congenital Heart Disease and Bronchiolitis.
- 17.01.2023, _PY Wang, WC Tseng, ET Wu, FL Lu, SJ Chen, SN Chiu, MH Wu, JK Wang, CC Wang_
+## [Surgical treatment for hypertrophic obstructive cardiomyopathy: a five-year single-center experience of 421 cases].
+ 18.01.2023, _FY Liu, Q Ji, YL Wang, JM Chen, LL Dong, WJ Ding, H Lai, CS Wang_
 
 
-Bronchiolitis is a common airway infection in young children. Hemodynamically significant congenital heart disease (CHD) predicts a more complicated course. However, the role of airway anomalies remains unknown.
+Objectives: To examine the short-term and mid-term effects of surgical treatment of obstructive hypertrophic cardiomyopathy (HCM) in one center. Methods: The perioperative data and short-term follow-up outcomes of 421 patients with obstructive HCM who received surgical treatment at Department of Cardiac Surgery, Zhongshan Hospital, Fudan University from January 2017 to December 2021 were analyzed retrospectively. There were 207 males and 214 females, aged (56.5±11.7) years (range: 19 to 78 years). Preoperative New York Heart Association (NYHA) classification included 45 cases of class Ⅱ, 328 cases in class Ⅲ, and 48 cases in class Ⅳ. Fifty-eight patients were diagnosed with latent obstructive HCM and 257 patients had moderate or more mitral regurgitation with 56 patients suffering from intrinsic mitral valve diseases. All procedures were completed by a multidisciplinary team, including professional echocardiologists involving in preoperative planning for proper miitral valve management strategies and intraoperative monitoring. A total of 338 patients underwent septal myectomy alone, and 59 patients underwent mitral valve surgery along with myectomy. A single transaortic approach was used in 355 patients, and a right atrial-atrial septal/atrial sulcus approach was used in 51 other patients. Long-handled minimally invasive surgical instruments were wsed for the procedures. Student t test, Wilcoxon rank sum test, χ2 test or Fisher exact test were used to compare the data before and after surgery. Results: The aortic cross-clamping time of septal myectomy alone was (34.3±8.5) minutes (range: 21 to 94 minutes). Eighteen patients had intraoperative adverse events and underwent immediate reoperation, including residual obstruction (10 patients), left ventricular free wall rupture (4 patients), ventricular septal perforation (3 patients), and aortic valve perforation (1 patient). Four patients died during hospitalization, and 11 patients developed complete atrioventricular block requiring permanent pacemaker implantation. After discharge, 384 (92.1%) patients received a follow-up visit with a median duration of 9 months. All follow-up patients survived with significantly improved NYHA classifications: 216 patients in class Ⅰ and 168 patients in class Ⅱ (χ2=662.73, P&lt;0.01 as compared to baseline). At 6 months after surgery, follow-up echocardiography showed that the thickness of the ventricular septum ((13.6±2.5) mm vs. (18.2±3.0) mm, t=23.51, P&lt;0.01) and the peak left ventricular outflow tract gradient ((12.0±6.3) mmHg vs. (93.4±19.8) mmHg, 1 mmHg=0.133 kPa, t=78.29, P&lt;0.01) were both significantly lower than baseline values. Conclusion: The construction of the surgical team (including echocardiography experts), proper mitral valve management strategies, identification and management of sub-mitral-valve abnormalities, and application of long-handled minimally invasive surgical instruments are important for the successful implementation of septal myectomy with satisfactory short-and medium-term outcomes.
 
 [Source](https://twitter.com/svetlana_up/status/1612362315789393920?ref_src=twsrc%5Etfw)
 
-10.1002/ppul.26320
+10.3760/cma.j.cn112139-20221129-00505
 
 ---
 
@@ -129,9 +129,10 @@ Allele-specific expression (ASE) analysis detects the relative abundance of alle
 ---
 
 ## Expression of glycerol-3-phosphate acyltransferase increases non-polar lipid accumulation in Nannochloropsis oceanica.
- 16.01.2023, _C Südfeld, A Kiyani, K Wefelmeier, RH Wijffels, MJ Barbosa, S D'Adamo_
+ 18.01.2023, _C Südfeld, A Kiyani, K Wefelmeier, RH Wijffels, MJ Barbosa, S D'Adamo_
 
 
+_Glycerol, Oils, Genetic Engineering, Glycerol-3-Phosphate O-Acyltransferase, Stramenopiles, Microalgae, Biomass, Phosphates_
 Microalgae are considered a suitable production platform for high-value lipids and oleochemicals. Several species including Nannochloropsis oceanica produce large amounts of essential [Formula: see text]-3 polyunsaturated fatty acids (PUFAs) which are integral components of food and feed and have been associated with health-promoting effects. N. oceanica can further accumulate high contents of non-polar lipids with chemical properties that render them a potential replacement for plant oils such as palm oil. However, biomass and lipid productivities obtained with microalgae need to be improved to reach commercial feasibility. Genetic engineering can improve biomass and lipid productivities, for instance by increasing carbon flux to lipids. Here, we report the overexpression of glycerol-3-phosphate acyltransferase (GPAT) in N. oceanica during favorable growth conditions as a strategy to increase non-polar lipid content. Transformants overproducing either an endogenous (NoGPAT) or a heterologous (Acutodesmus obliquus GPAT) GPAT enzyme targeted to the endoplasmic reticulum had up to 42% and 51% increased non-polar lipid contents, respectively, compared to the wild type. Biomass productivities of transformant strains were not substantially impaired, resulting in lipid productivities that were increased by up to 37% and 42% for NoGPAT and AoGPAT transformants, respectively. When exposed to nutrient stress, transformants and wild type had similar lipid contents, suggesting that GPAT enzyme exerts strong flux control on lipid synthesis in N. oceanica under favorable growth conditions. NoGPAT transformants further accumulated PUFAs in non-polar lipids, reaching a total of 6.8% PUFAs per biomass, an increase of 24% relative to the wild type. Overall, our results indicate that GPAT is an interesting target for engineering of lipid metabolism in microalgae, in order to improve non-polar lipid and PUFAs accumulation in microalgae.
 
 [Source](https://twitter.com/WUR?ref_src=twsrc%5Etfw)
@@ -155,6 +156,18 @@ Microalgae are considered a suitable production platform for high-value lipids a
 ## @MaastrichtUMC
 
 [Source](https://twitter.com/MaastrichtUMC?ref_src=twsrc%5Etfw)
+
+---
+
+## [Surgical treatment for hypertrophic obstructive cardiomyopathy: a five-year single-center experience of 421 cases].
+ 18.01.2023, _FY Liu, Q Ji, YL Wang, JM Chen, LL Dong, WJ Ding, H Lai, CS Wang_
+
+
+Objectives: To examine the short-term and mid-term effects of surgical treatment of obstructive hypertrophic cardiomyopathy (HCM) in one center. Methods: The perioperative data and short-term follow-up outcomes of 421 patients with obstructive HCM who received surgical treatment at Department of Cardiac Surgery, Zhongshan Hospital, Fudan University from January 2017 to December 2021 were analyzed retrospectively. There were 207 males and 214 females, aged (56.5±11.7) years (range: 19 to 78 years). Preoperative New York Heart Association (NYHA) classification included 45 cases of class Ⅱ, 328 cases in class Ⅲ, and 48 cases in class Ⅳ. Fifty-eight patients were diagnosed with latent obstructive HCM and 257 patients had moderate or more mitral regurgitation with 56 patients suffering from intrinsic mitral valve diseases. All procedures were completed by a multidisciplinary team, including professional echocardiologists involving in preoperative planning for proper miitral valve management strategies and intraoperative monitoring. A total of 338 patients underwent septal myectomy alone, and 59 patients underwent mitral valve surgery along with myectomy. A single transaortic approach was used in 355 patients, and a right atrial-atrial septal/atrial sulcus approach was used in 51 other patients. Long-handled minimally invasive surgical instruments were wsed for the procedures. Student t test, Wilcoxon rank sum test, χ2 test or Fisher exact test were used to compare the data before and after surgery. Results: The aortic cross-clamping time of septal myectomy alone was (34.3±8.5) minutes (range: 21 to 94 minutes). Eighteen patients had intraoperative adverse events and underwent immediate reoperation, including residual obstruction (10 patients), left ventricular free wall rupture (4 patients), ventricular septal perforation (3 patients), and aortic valve perforation (1 patient). Four patients died during hospitalization, and 11 patients developed complete atrioventricular block requiring permanent pacemaker implantation. After discharge, 384 (92.1%) patients received a follow-up visit with a median duration of 9 months. All follow-up patients survived with significantly improved NYHA classifications: 216 patients in class Ⅰ and 168 patients in class Ⅱ (χ2=662.73, P&lt;0.01 as compared to baseline). At 6 months after surgery, follow-up echocardiography showed that the thickness of the ventricular septum ((13.6±2.5) mm vs. (18.2±3.0) mm, t=23.51, P&lt;0.01) and the peak left ventricular outflow tract gradient ((12.0±6.3) mmHg vs. (93.4±19.8) mmHg, 1 mmHg=0.133 kPa, t=78.29, P&lt;0.01) were both significantly lower than baseline values. Conclusion: The construction of the surgical team (including echocardiography experts), proper mitral valve management strategies, identification and management of sub-mitral-valve abnormalities, and application of long-handled minimally invasive surgical instruments are important for the successful implementation of septal myectomy with satisfactory short-and medium-term outcomes.
+
+[Source](https://twitter.com/penderslab/status/1612753647300911104?ref_src=twsrc%5Etfw)
+
+10.3760/cma.j.cn112139-20221129-00505
 
 ---
 
@@ -231,14 +244,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Promoting Inclusion, Diversity, and Equity in Pain Science.
- 17.01.2023, _TM Palermo, KD Davis, D Bouhassira, RW Hurley, JD Katz, FJ Keefe, M Schatman, DC Turk, D Yarnitsky_
+## The optimal balance of controlled and spontaneous processing in insight problem solving: fMRI evidence from Chinese idiom guessing.
+ 18.01.2023, _D Liu, L Hao, L Han, Y Zhou, S Qin, K Niki, W Shen, B Shi, J Luo_
 
 
+Cognitive control is a key factor in insight generation. However, the neurocognitive mechanisms underlying the generation of insight for different cognitive control remain poorly understood. This study developed a parametric fMRI design, wherein hints for solving Chinese idiom riddles were gradually provided in a stepwise manner (from the first hint, H1, to the final hint, H4). By classifying the step-specific items solved in different hint-uncovering steps/conditions, we could identify insightful responses for different levels of spontaneous or controlled processing. At the behavioral level, the number of insightful problem solving trials reached the maximum at a intermediate level of the cognitively controlled processing and the spontaneously idea generating in H3, while the bilateral insular cortex and thalamus showed the robust engagement, implying the function of these regions in making the optimal balance between external hint processing and internal generated ideas. In addition, we identified brain areas, including the dorsolateral prefrontal cortex (dlPFC), angular gyrus (AG), dorsal anterior cingulate cortex (dACC), and precuneus (PreC), whose activities were parametrically increased with the levels of controlled (from H1 to H4) insightful processing which were increasingly produced by the sequentially revealed hints. Further representational similarity analysis (RSA) found that spontaneous processing in insight featured greater within-condition representational variabilities in widely distributed regions in the executive, salience, and default networks. Altogether, the present study provided new evidence for the relationship between the process of cognitive control and that of spontaneous idea generation in insight problem solving and demystified the function of the insula and thalamus as an interactive interface for the optimal balance of these two processes.
 
 [Source](https://twitter.com/hashtag/Brain?src=hash&ref_src=twsrc%5Etfw)
 
-10.1097/AJP.0000000000001094
+10.1111/psyp.14240
 
 ---
 
@@ -248,15 +262,15 @@ Autism spectrum disorder(ASD) is a complex neurodevelopmental disorder character
 
 ---
 
-## Frailty impacts immune responses to Moderna COVID-19 mRNA vaccine in older adults.
- 17.01.2023, _CT Semelka, ME DeWitt, MW Blevins, BC Holbrook, JW Sanders, MA Alexander-Miller_
+## Doctors and their families.
+ 18.01.2023, _SM Benbow_
 
 
-Immune responses to COVID-19 mRNA vaccines have not been well characterized in frail older adults. We postulated that frailty is associated with impaired antibody and cellular mRNA vaccine responses.
+This article reflects on the relationship between doctors and their families and how it influences a doctor's health, well-being and practice and the health and well-being of other family members. It uses an established model for conceptualising this recursive relationship, drawing on systemic and communications theory, coordinated management of meaning. The article invites doctors to reflect on relational influences between them and their families across the course of their career and following retirement.
 
 [Source](https://twitter.com/hashtag/Aging?src=hash&ref_src=twsrc%5Etfw)
 
-10.1186/s12979-023-00327-x
+10.1177/10398562231151849
 
 ---
 
@@ -296,15 +310,15 @@ Immune responses to COVID-19 mRNA vaccines have not been well characterized in f
 
 ---
 
-## Clinical outcomes of a novel porcine small intestinal submucosa patch for full-thickness hand skin defects: a retrospective investigation.
- 17.01.2023, _C Zang, H Xian, H Zhang, M Che, Y Chen, F Zhang, R Cong_
+## [Surgical treatment for hypertrophic obstructive cardiomyopathy: a five-year single-center experience of 421 cases].
+ 18.01.2023, _FY Liu, Q Ji, YL Wang, JM Chen, LL Dong, WJ Ding, H Lai, CS Wang_
 
 
-To investigate the clinical outcomes of a novel soft tissue repair patch (porcine small intestinal submucosa patch, SIS patch) in the treatment of full-thickness hand skin defects.
+Objectives: To examine the short-term and mid-term effects of surgical treatment of obstructive hypertrophic cardiomyopathy (HCM) in one center. Methods: The perioperative data and short-term follow-up outcomes of 421 patients with obstructive HCM who received surgical treatment at Department of Cardiac Surgery, Zhongshan Hospital, Fudan University from January 2017 to December 2021 were analyzed retrospectively. There were 207 males and 214 females, aged (56.5±11.7) years (range: 19 to 78 years). Preoperative New York Heart Association (NYHA) classification included 45 cases of class Ⅱ, 328 cases in class Ⅲ, and 48 cases in class Ⅳ. Fifty-eight patients were diagnosed with latent obstructive HCM and 257 patients had moderate or more mitral regurgitation with 56 patients suffering from intrinsic mitral valve diseases. All procedures were completed by a multidisciplinary team, including professional echocardiologists involving in preoperative planning for proper miitral valve management strategies and intraoperative monitoring. A total of 338 patients underwent septal myectomy alone, and 59 patients underwent mitral valve surgery along with myectomy. A single transaortic approach was used in 355 patients, and a right atrial-atrial septal/atrial sulcus approach was used in 51 other patients. Long-handled minimally invasive surgical instruments were wsed for the procedures. Student t test, Wilcoxon rank sum test, χ2 test or Fisher exact test were used to compare the data before and after surgery. Results: The aortic cross-clamping time of septal myectomy alone was (34.3±8.5) minutes (range: 21 to 94 minutes). Eighteen patients had intraoperative adverse events and underwent immediate reoperation, including residual obstruction (10 patients), left ventricular free wall rupture (4 patients), ventricular septal perforation (3 patients), and aortic valve perforation (1 patient). Four patients died during hospitalization, and 11 patients developed complete atrioventricular block requiring permanent pacemaker implantation. After discharge, 384 (92.1%) patients received a follow-up visit with a median duration of 9 months. All follow-up patients survived with significantly improved NYHA classifications: 216 patients in class Ⅰ and 168 patients in class Ⅱ (χ2=662.73, P&lt;0.01 as compared to baseline). At 6 months after surgery, follow-up echocardiography showed that the thickness of the ventricular septum ((13.6±2.5) mm vs. (18.2±3.0) mm, t=23.51, P&lt;0.01) and the peak left ventricular outflow tract gradient ((12.0±6.3) mmHg vs. (93.4±19.8) mmHg, 1 mmHg=0.133 kPa, t=78.29, P&lt;0.01) were both significantly lower than baseline values. Conclusion: The construction of the surgical team (including echocardiography experts), proper mitral valve management strategies, identification and management of sub-mitral-valve abnormalities, and application of long-handled minimally invasive surgical instruments are important for the successful implementation of septal myectomy with satisfactory short-and medium-term outcomes.
 
 [Source](https://twitter.com/ktguzz/status/1612769830138179587?ref_src=twsrc%5Etfw)
 
-10.1186/s13018-023-03531-z
+10.3760/cma.j.cn112139-20221129-00505
 
 ---
 
@@ -356,9 +370,15 @@ Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal mor
 
 ---
 
-## Beehives possess their own distinct microbiomes 
+## Beehives possess their own distinct microbiomes.
+ 12.01.2023, _LA Santorelli, T Wilkinson, R Abdulmalik, Y Rai, CJ Creevey, S Huws, J Gutierrez-Merino_
+
+
+Honeybees use plant material to manufacture their own food. These insect pollinators visit flowers repeatedly to collect nectar and pollen, which are shared with other hive bees to produce honey and beebread. While producing these products, beehives accumulate a considerable number of microbes, including bacteria that derive from plants and different parts of the honeybees' body. Whether bacteria form similar communities amongst beehives, even if located in close proximity, is an ecologically important question that has been addressed in this study. Specific ecological factors such as the surrounding environment and the beekeeping methods used can shape the microbiome of the beehive as a whole, and eventually influence the health of the honeybees and their ecosystem.
 
 [Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00460-6)
+
+10.1186/s40793-023-00460-6
 
 ---
 
@@ -421,6 +441,18 @@ With an increasing amount of biological data available publicly, there is a need
 ## https://t.co/noR7crphRT
 
 [Source](https://t.co/noR7crphRT)
+
+---
+
+## [Surgical treatment for hypertrophic obstructive cardiomyopathy: a five-year single-center experience of 421 cases].
+ 18.01.2023, _FY Liu, Q Ji, YL Wang, JM Chen, LL Dong, WJ Ding, H Lai, CS Wang_
+
+
+Objectives: To examine the short-term and mid-term effects of surgical treatment of obstructive hypertrophic cardiomyopathy (HCM) in one center. Methods: The perioperative data and short-term follow-up outcomes of 421 patients with obstructive HCM who received surgical treatment at Department of Cardiac Surgery, Zhongshan Hospital, Fudan University from January 2017 to December 2021 were analyzed retrospectively. There were 207 males and 214 females, aged (56.5±11.7) years (range: 19 to 78 years). Preoperative New York Heart Association (NYHA) classification included 45 cases of class Ⅱ, 328 cases in class Ⅲ, and 48 cases in class Ⅳ. Fifty-eight patients were diagnosed with latent obstructive HCM and 257 patients had moderate or more mitral regurgitation with 56 patients suffering from intrinsic mitral valve diseases. All procedures were completed by a multidisciplinary team, including professional echocardiologists involving in preoperative planning for proper miitral valve management strategies and intraoperative monitoring. A total of 338 patients underwent septal myectomy alone, and 59 patients underwent mitral valve surgery along with myectomy. A single transaortic approach was used in 355 patients, and a right atrial-atrial septal/atrial sulcus approach was used in 51 other patients. Long-handled minimally invasive surgical instruments were wsed for the procedures. Student t test, Wilcoxon rank sum test, χ2 test or Fisher exact test were used to compare the data before and after surgery. Results: The aortic cross-clamping time of septal myectomy alone was (34.3±8.5) minutes (range: 21 to 94 minutes). Eighteen patients had intraoperative adverse events and underwent immediate reoperation, including residual obstruction (10 patients), left ventricular free wall rupture (4 patients), ventricular septal perforation (3 patients), and aortic valve perforation (1 patient). Four patients died during hospitalization, and 11 patients developed complete atrioventricular block requiring permanent pacemaker implantation. After discharge, 384 (92.1%) patients received a follow-up visit with a median duration of 9 months. All follow-up patients survived with significantly improved NYHA classifications: 216 patients in class Ⅰ and 168 patients in class Ⅱ (χ2=662.73, P&lt;0.01 as compared to baseline). At 6 months after surgery, follow-up echocardiography showed that the thickness of the ventricular septum ((13.6±2.5) mm vs. (18.2±3.0) mm, t=23.51, P&lt;0.01) and the peak left ventricular outflow tract gradient ((12.0±6.3) mmHg vs. (93.4±19.8) mmHg, 1 mmHg=0.133 kPa, t=78.29, P&lt;0.01) were both significantly lower than baseline values. Conclusion: The construction of the surgical team (including echocardiography experts), proper mitral valve management strategies, identification and management of sub-mitral-valve abnormalities, and application of long-handled minimally invasive surgical instruments are important for the successful implementation of septal myectomy with satisfactory short-and medium-term outcomes.
+
+[Source](https://twitter.com/luispedrocoelho/status/1612757265072676865?ref_src=twsrc%5Etfw)
+
+10.3760/cma.j.cn112139-20221129-00505
 
 ---
 
