@@ -249,9 +249,15 @@ Microalgae are considered a suitable production platform for high-value lipids a
 
 ---
 
-## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome
+## Preterm birth is associated with xenobiotics and predicted by the vaginal metabolome.
+ 12.01.2023, _WF Kindschuh, F Baldini, MC Liu, J Liao, Y Meydan, HH Lee, A Heinken, I Thiele, CA Thaiss, M Levy, T Korem_
+
+
+Spontaneous preterm birth (sPTB) is a leading cause of maternal and neonatal morbidity and mortality, yet its prevention and early risk stratification are limited. Previous investigations have suggested that vaginal microbes and metabolites may be implicated in sPTB. Here we performed untargeted metabolomics on 232 second-trimester vaginal samples, 80 from pregnancies ending preterm. We find multiple associations between vaginal metabolites and subsequent preterm birth, and propose that several of these metabolites, including diethanolamine and ethyl glucoside, are exogenous. We observe associations between the metabolome and microbiome profiles previously obtained using 16S ribosomal RNA amplicon sequencing, including correlations between bacteria considered suboptimal, such as Gardnerella vaginalis, and metabolites enriched in term pregnancies, such as tyramine. We investigate these associations using metabolic models. We use machine learning models to predict sPTB risk from metabolite levels, weeks to months before birth, with good accuracy (area under receiver operating characteristic curve of 0.78). These models, which we validate using two external cohorts, are more accurate than microbiome-based and maternal covariates-based models (area under receiver operating characteristic curve of 0.55-0.59). Our results demonstrate the potential of vaginal metabolites as early biomarkers of sPTB and highlight exogenous exposures as potential risk factors for prematurity.
 
 [Source](https://www.nature.com/articles/s41564-022-01293-8)
+
+10.1038/s41564-022-01293-8
 
 ---
 
