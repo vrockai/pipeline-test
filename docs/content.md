@@ -33,9 +33,15 @@ The oral microbiome is second only to its intestinal counterpart in diversity an
 
 ---
 
-## The person-to-person transmission landscape of the gut and oral microbiomes
+## The person-to-person transmission landscape of the gut and oral microbiomes.
+ 18.01.2023, _M Valles-Colomer, A Blanco-Míguez, P Manghi, F Asnicar, L Dubois, D Golzato, F Armanini, F Cumbo, KD Huang, S Manara, G Masetti, F Pinto, E Piperni, M Punčochář, L Ricci, M Zolfo, O Farrant, A Goncalves, M Selma-Royo, AG Binetti, JE Becerra, B Han, J Lusingu, J Amuasi, L Amoroso, A Visconti, CM Steves, M Falchi, M Filosi, A Tett, A Last, Q Xu, N Qin, H Qin, J May, D Eibach, MV Corrias, M Ponzoni, E Pasolli, TD Spector, E Domenici, MC Collado, N Segata_
+
+
+The human microbiome is an integral component of the human body and a co-determinant of several health conditions1,2. However, the extent to which interpersonal relations shape the individual genetic makeup of the microbiome and its transmission within and across populations remains largely unknown3,4. Here, capitalizing on more than 9,700 human metagenomes and computational strain-level profiling, we detected extensive bacterial strain sharing across individuals (more than 10 million instances) with distinct mother-to-infant, intra-household and intra-population transmission patterns. Mother-to-infant gut microbiome transmission was considerable and stable during infancy (around 50% of the same strains among shared species (strain-sharing rate)) and remained detectable at older ages. By contrast, the transmission of the oral microbiome occurred largely horizontally and was enhanced by the duration of cohabitation. There was substantial strain sharing among cohabiting individuals, with 12% and 32% median strain-sharing rates for the gut and oral microbiomes, and time since cohabitation affected strain sharing more than age or genetics did. Bacterial strain sharing additionally recapitulated host population structures better than species-level profiles did. Finally, distinct taxa appeared as efficient spreaders across transmission modes and were associated with different predicted bacterial phenotypes linked with out-of-host survival capabilities. The extent of microorganism transmission that we describe underscores its relevance in human microbiome studies5, especially those on non-infectious, microbiome-associated diseases.
 
 [Source](https://www.nature.com/articles/s41586-022-05620-1)
+
+10.1038/s41586-022-05620-1
 
 ---
 
