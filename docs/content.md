@@ -108,7 +108,7 @@ The alteration of gut microbiota structure plays a pivotal role in the pathogene
 ---
 
 ## Harnessing gut microbes for glycan detection and quantification.
- 19.01.2023, _JL Modesto, VH Pearce, GE Townsend_
+ 20.01.2023, _JL Modesto, VH Pearce, GE Townsend_
 
 
 _Animals, Humans, Gastrointestinal Microbiome, Polysaccharides, Glycomics, Mammals_
