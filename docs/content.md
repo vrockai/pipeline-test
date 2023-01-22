@@ -1,7 +1,8 @@
 ## A possible role for taste receptor cells in surveying the oral microbiome.
- 13.01.2023, _EM Heisey, LP McCluskey_
+ 17.01.2023, _EM Heisey, LP McCluskey_
 
 
+_Taste, Taste Perception, Taste Buds, Intestines, Microbiota_
 Taste receptor cells are sensory specialists that detect chemicals in food and drink. An exciting new report in PLOS Biology suggests that some taste cells could also be involved in immune surveillance like counterparts in the intestine.
 
 [Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001953)
@@ -11,9 +12,10 @@ Taste receptor cells are sensory specialists that detect chemicals in food and d
 ---
 
 ## Type II taste cells participate in mucosal immune surveillance.
- 13.01.2023, _Y Qin, SR Palayyan, X Zheng, S Tian, RF Margolskee, SK Sukumaran_
+ 16.01.2023, _Y Qin, SR Palayyan, X Zheng, S Tian, RF Margolskee, SK Sukumaran_
 
 
+_Animals, Mice, Taste, Intestines, Taste Buds, Mucous Membrane, Cytokines, Mice, Inbred C57BL, Mice, Knockout_
 The oral microbiome is second only to its intestinal counterpart in diversity and abundance, but its effects on taste cells remains largely unexplored. Using single-cell RNASeq, we found that mouse taste cells, in particular, sweet and umami receptor cells that express taste 1 receptor member 3 (Tas1r3), have a gene expression signature reminiscent of Microfold (M) cells, a central player in immune surveillance in the mucosa-associated lymphoid tissue (MALT) such as those in the Peyer's patch and tonsils. Administration of tumor necrosis factor ligand superfamily member 11 (TNFSF11; also known as RANKL), a growth factor required for differentiation of M cells, dramatically increased M cell proliferation and marker gene expression in the taste papillae and in cultured taste organoids from wild-type (WT) mice. Taste papillae and organoids from knockout mice lacking Spib (SpibKO), a RANKL-regulated transcription factor required for M cell development and regeneration on the other hand, failed to respond to RANKL. Taste papillae from SpibKO mice also showed reduced expression of NF-κB signaling pathway components and proinflammatory cytokines and attracted fewer immune cells. However, lipopolysaccharide-induced expression of cytokines was strongly up-regulated in SpibKO mice compared to their WT counterparts. Like M cells, taste cells from WT but not SpibKO mice readily took up fluorescently labeled microbeads, a proxy for microbial transcytosis. The proportion of taste cell subtypes are unaltered in SpibKO mice; however, they displayed increased attraction to sweet and umami taste stimuli. We propose that taste cells are involved in immune surveillance and may tune their taste responses to microbial signaling and infection.
 
 [Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001647)
@@ -127,7 +129,7 @@ Glycans facilitate critical biological functions and control the mammalian gut m
 ---
 
 ## Expanded catalogue of metagenome-assembled genomes reveals resistome characteristics and athletic performance-associated microbes in horse.
- 13.01.2023, _C Li, X Li, R Guo, W Ni, K Liu, Z Liu, J Dai, Y Xu, S Abduriyim, Z Wu, Y Zeng, B Lei, Y Zhang, Y Wang, W Zeng, Q Zhang, C Chen, J Qiao, C Liu, S Hu_
+ 15.01.2023, _C Li, X Li, R Guo, W Ni, K Liu, Z Liu, J Dai, Y Xu, S Abduriyim, Z Wu, Y Zeng, B Lei, Y Zhang, Y Wang, W Zeng, Q Zhang, C Chen, J Qiao, C Liu, S Hu_
 
 
 _Horses, Humans, Animals, Metagenome, Genome, Bacterial, Gastrointestinal Microbiome, Drug Resistance, Microbial, Athletic Performance, Metagenomics_
@@ -153,9 +155,10 @@ Bovine Digital Dermatitis (BDD) is a prevalent infectious disease, causing painf
 ---
 
 ## A framework for the targeted recruitment of crop-beneficial soil taxa based on network analysis of metagenomics data.
- 12.01.2023, _M Berihu, TS Somera, A Malik, S Medina, E Piombo, O Tal, M Cohen, A Ginatt, M Ofek-Lalzar, A Doron-Faigenboim, M Mazzola, S Freilich_
+ 16.01.2023, _M Berihu, TS Somera, A Malik, S Medina, E Piombo, O Tal, M Cohen, A Ginatt, M Ofek-Lalzar, A Doron-Faigenboim, M Mazzola, S Freilich_
 
 
+_Soil, Bacteria, Microbiota, Metagenome, Metagenomics, Rhizosphere, Soil Microbiology, Plant Roots_
 The design of ecologically sustainable and plant-beneficial soil systems is a key goal in actively manipulating root-associated microbiomes. Community engineering efforts commonly seek to harness the potential of the indigenous microbiome through substrate-mediated recruitment of beneficial members. In most sustainable practices, microbial recruitment mechanisms rely on the application of complex organic mixtures where the resources/metabolites that act as direct stimulants of beneficial groups are not characterized. Outcomes of such indirect amendments are unpredictable regarding engineering the microbiome and achieving a plant-beneficial environment.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01438-1)
@@ -165,9 +168,10 @@ The design of ecologically sustainable and plant-beneficial soil systems is a ke
 ---
 
 ## Diversity and functional analysis of rumen and fecal microbial communities associated with dietary changes in crossbreed dairy cattle.
- 13.01.2023, _FM Kibegwa, RC Bett, CK Gachuiri, E Machuka, F Stomeo, FD Mujibi_
+ 17.01.2023, _FM Kibegwa, RC Bett, CK Gachuiri, E Machuka, F Stomeo, FD Mujibi_
 
 
+_Animals, Cattle, Rumen, Microbiota, Metagenome, Proteobacteria, Dietary Fiber, Diet, Animal Feed_
 The objective of this study was to investigate the effect of varying roughage and concentrate proportions, in diet of crossbreed dairy cattle, on the composition and associated functional genes of rumen and fecal microbiota. We also explored fecal samples as a proxy for rumen liquor samples. Six crossbred dairy cattle were reared on three diets with an increasing concentrate and reducing roughage amount in three consecutive 10-day periods. After each period, individual rumen liquor and fecal samples were collected and analyzed through shotgun metagenomic sequencing. Average relative abundance of identified Operational Taxonomic Units (OTU) and microbial functional roles from all animals were compared between diets and sample types (fecal and rumen liquor). Results indicated that dietary modifications significantly affected several rumen and fecal microbial OTUs. In the rumen, an increase in dietary concentrate resulted in an upsurge in the abundance of Proteobacteria, while reducing the proportions of Bacteroidetes and Firmicutes. Conversely, changes in microbial composition in fecal samples were not consistent with dietary modification patterns. Microbial functional pathway classification identified that carbohydrate metabolism and protein metabolism pathways dominated microbial roles. Assessment of dietary effects on the predicted functional roles of these microbiota revealed that a high amount of dietary concentrate resulted in an increase in central carbohydrate metabolism and a corresponding reduction in protein synthesis. Moreover, we identified several microbial stress-related responses linked to dietary changes. Bacteroides and Clostridium genera were the principal hosts of these microbial functions. Therefore, the roughage to concentrate proportion has more influence on the microbial composition and microbial functional genes in rumen samples than fecal samples. As such, we did not establish a significant relationship between the rumen and fecal metagenome profiles, and the rumen and fecal microbiota from one animal did not correlate more than those from different animals.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274371)
@@ -177,9 +181,10 @@ The objective of this study was to investigate the effect of varying roughage an
 ---
 
 ## Multi-amplicon microbiome data analysis pipelines for mixed orientation sequences using QIIME2: Assessing reference database, variable region and pre-processing bias in classification of mock bacterial community samples.
- 13.01.2023, _KA Maki, B Wolff, L Varuzza, SJ Green, JJ Barb_
+ 17.01.2023, _KA Maki, B Wolff, L Varuzza, SJ Green, JJ Barb_
 
 
+_RNA, Ribosomal, 16S, Microbiota, Databases, Factual, High-Throughput Nucleotide Sequencing, Bacteria, Data Analysis_
 Microbiome research relies on next-generation sequencing and on downstream data analysis workflows. Several manufacturers have introduced multi-amplicon kits for microbiome characterization, improving speciation, but present unique challenges for analysis. The goal of this methodology study was to develop two analysis pipelines specific to mixed-orientation reads from multi-hypervariable (V) region amplicons. A secondary aim was to assess agreement with expected abundance, considering database and variable region. Mock community sequence data (n = 41) generated using the Ion16S™ Metagenomics Kit and Ion Torrent Sequencing Platform were analyzed using two workflows. Amplicons from V2, V3, V4, V6-7, V8 and V9 were deconvoluted using a specialized plugin based on CutPrimers. A separate workflow using Cutadapt is also presented. Three reference databases (Ribosomal Database Project, Greengenes and Silva) were used for taxonomic assignment. Bray-Curtis, Euclidean and Jensen-Shannon distance measures were used to evaluate overall annotation consistency, and specific taxon agreement was determined by calculating the ratio of observed to expected relative abundance. Reads that mapped to regions V2-V9 varied for both CutPrimers and Cutadapt-based methods. Within the CutPrimers-based pipeline, V3 amplicons had the best agreement with the expected distribution, tested using global distance measures, while V9 amplicons had the worst agreement. Accurate taxonomic annotation varied by genus-level taxon and V region analyzed. For the first time, we present a microbiome analysis pipeline that employs a specialized plugin to allow microbiome researchers to separate multi-amplicon data from the Ion16S Metagenomics Kit into V-specific reads. We also present an additional analysis workflow, modified for Ion Torrent mixed orientation reads. Overall, the global agreement of amplicons with the expected mock community abundances differed across V regions and reference databases. Benchmarking data should be referenced when planning a microbiome study to consider these biases related to sequencing and data analysis for multi-amplicon sequencing kits.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280293)
