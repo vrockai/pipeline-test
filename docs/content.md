@@ -48,7 +48,7 @@ The human microbiome is an integral component of the human body and a co-determi
 ---
 
 ## Therapeutic Targeting of TLR4 for Inflammation, Infection, and Cancer: A Perspective for Disaccharide Lipid A Mimetics.
- 21.01.2023, _H Heine, A Zamyatina_
+ 22.01.2023, _H Heine, A Zamyatina_
 
 
 The Toll-like receptor 4 (TLR4) signaling pathway plays a central role in the prompt defense against infectious challenge and provides immediate response to Gram-negative bacterial infection. The TLR4/MD-2 complex can sense and respond to various pathogen-associated molecular patterns (PAMPs) with bacterial lipopolysaccharide (LPS) being the most potent and the most frequently occurring activator of the TLR4-mediated inflammation. TLR4 is believed to be both a friend and foe since improperly regulated TLR4 signaling can result in the overactivation of immune responses leading to sepsis, acute lung injury, or pathologic chronic inflammation involved in cancer and autoimmune disease. TLR4 is also considered a legitimate target for vaccine adjuvant development since its activation can boost the adaptive immune responses. The dual action of the TLR4 complex justifies the efforts in the development of both TLR4 antagonists as antisepsis drug candidates or remedies for chronic inflammatory diseases and TLR4 agonists as vaccine adjuvants or immunotherapeutics. In this review, we provide a brief overview of the biochemical evidences for possible pharmacologic applications of TLR4 ligands as therapeutics and report our systematic studies on the design, synthesis, and immunobiological evaluation of carbohydrate-based TLR4 antagonists with nanomolar affinity for MD-2 as well as disaccharide-based TLR4 agonists with picomolar affinity for the TLR4/MD-2 complex.
