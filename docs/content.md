@@ -47,15 +47,15 @@ The human microbiome is an integral component of the human body and a co-determi
 
 ---
 
-## Therapeutic Targeting of TLR4 for Inflammation, Infection, and Cancer: A Perspective for Disaccharide Lipid A Mimetics.
- 22.01.2023, _H Heine, A Zamyatina_
+## Microbiota of the gastrointestinal tract: Friend or foe?
+ 23.01.2023, _MA Senchukova_
 
 
-The Toll-like receptor 4 (TLR4) signaling pathway plays a central role in the prompt defense against infectious challenge and provides immediate response to Gram-negative bacterial infection. The TLR4/MD-2 complex can sense and respond to various pathogen-associated molecular patterns (PAMPs) with bacterial lipopolysaccharide (LPS) being the most potent and the most frequently occurring activator of the TLR4-mediated inflammation. TLR4 is believed to be both a friend and foe since improperly regulated TLR4 signaling can result in the overactivation of immune responses leading to sepsis, acute lung injury, or pathologic chronic inflammation involved in cancer and autoimmune disease. TLR4 is also considered a legitimate target for vaccine adjuvant development since its activation can boost the adaptive immune responses. The dual action of the TLR4 complex justifies the efforts in the development of both TLR4 antagonists as antisepsis drug candidates or remedies for chronic inflammatory diseases and TLR4 agonists as vaccine adjuvants or immunotherapeutics. In this review, we provide a brief overview of the biochemical evidences for possible pharmacologic applications of TLR4 ligands as therapeutics and report our systematic studies on the design, synthesis, and immunobiological evaluation of carbohydrate-based TLR4 antagonists with nanomolar affinity for MD-2 as well as disaccharide-based TLR4 agonists with picomolar affinity for the TLR4/MD-2 complex.
+The gut microbiota is currently considered an external organ of the human body that provides important mechanisms of metabolic regulation and protection. The gut microbiota encodes over 3 million genes, which is approximately 150 times more than the total number of genes present in the human genome. Changes in the qualitative and quantitative composition of the microbiome lead to disruption in the synthesis of key bacterial metabolites, changes in intestinal barrier function, and inflammation and can cause the development of a wide variety of diseases, such as diabetes, obesity, gastrointestinal disorders, cardiovascular issues, neurological disorders and oncological concerns. In this review, I consider issues related to the role of the microbiome in the regulation of intestinal barrier function, its influence on physiological and pathological processes occurring in the body, and potential new therapeutic strategies aimed at restoring the gut microbiome. Herewith, it is important to understand that the gut microbiota and human body should be considered as a single biological system, where change of one element will inevitably affect its other components. Thus, the study of the impact of the intestinal microbiota on health should be considered only taking into account numerous factors, the role of which has not yet been fully elucidated.
 
 [Source](https://www.nature.com/articles/s41574-022-00794-0)
 
-10.3390/ph16010023
+10.3748/wjg.v29.i1.19
 
 ---
 
