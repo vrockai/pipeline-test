@@ -47,15 +47,15 @@ The human microbiome is an integral component of the human body and a co-determi
 
 ---
 
-## Microbiota of the gastrointestinal tract: Friend or foe?
- 23.01.2023, _MA Senchukova_
+## The effects of the presence of a face and direct eye gaze on voice identity learning.
+ 23.01.2023, _N Lavan, N Ramanik Bamaniya, MM Muse, RLM Price, I Mareschal_
 
 
-The gut microbiota is currently considered an external organ of the human body that provides important mechanisms of metabolic regulation and protection. The gut microbiota encodes over 3 million genes, which is approximately 150 times more than the total number of genes present in the human genome. Changes in the qualitative and quantitative composition of the microbiome lead to disruption in the synthesis of key bacterial metabolites, changes in intestinal barrier function, and inflammation and can cause the development of a wide variety of diseases, such as diabetes, obesity, gastrointestinal disorders, cardiovascular issues, neurological disorders and oncological concerns. In this review, I consider issues related to the role of the microbiome in the regulation of intestinal barrier function, its influence on physiological and pathological processes occurring in the body, and potential new therapeutic strategies aimed at restoring the gut microbiome. Herewith, it is important to understand that the gut microbiota and human body should be considered as a single biological system, where change of one element will inevitably affect its other components. Thus, the study of the impact of the intestinal microbiota on health should be considered only taking into account numerous factors, the role of which has not yet been fully elucidated.
+We rarely become familiar with the voice of another person in isolation but usually also have access to visual identity information, thus learning to recognize their voice and face in parallel. There are conflicting findings as to whether learning to recognize voices in audiovisual vs audio-only settings is advantageous or detrimental to learning. One prominent finding shows that the presence of a face overshadows the voice, hindering voice identity learning by capturing listeners' attention (Face Overshadowing Effect; FOE). In the current study, we tested the proposal that the effect of audiovisual training on voice identity learning is driven by attentional processes. Participants learned to recognize voices through either audio-only training (Audio-Only) or through three versions of audiovisual training, where a face was presented alongside the voices. During audiovisual training, the faces were either looking at the camera (Direct Gaze), were looking to the side (Averted Gaze) or had closed eyes (No Gaze). We found a graded effect of gaze on voice identity learning: Voice identity recognition was most accurate after audio-only training and least accurate after audiovisual training including direct gaze, constituting a FOE. While effect sizes were overall small, the magnitude of FOE was halved for the Averted and No Gaze conditions. With direct gaze being associated with increased attention capture compared to averted or no gaze, the current findings suggest that incidental attention capture at least partially underpins the FOE. We discuss these findings in light of visual dominance effects and the relative informativeness of faces vs voices for identity perception.
 
 [Source](https://www.nature.com/articles/s41574-022-00794-0)
 
-10.3748/wjg.v29.i1.19
+10.1111/bjop.12633
 
 ---
 
