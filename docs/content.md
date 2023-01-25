@@ -1,195 +1,136 @@
-## A possible role for taste receptor cells in surveying the oral microbiome.
- 17.01.2023, _EM Heisey, LP McCluskey_
+## Microbiological profile of peri-implantitis: Analyses of microbiome within dental implants.
+ 24.01.2023, _A Kensara, H Saito, EF Mongodin, R Masri_
 
 
-_Taste, Taste Perception, Taste Buds, Intestines, Microbiota_
-Taste receptor cells are sensory specialists that detect chemicals in food and drink. An exciting new report in PLOS Biology suggests that some taste cells could also be involved in immune surveillance like counterparts in the intestine.
+To characterize the microbiome composition within dental implants of peri-implantitis subjects and healthy controls using 16S rRNA gene sequencing.
 
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001953)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jopr.13653)
 
-10.1371/journal.pbio.3001953
-
----
-
-## Type II taste cells participate in mucosal immune surveillance.
- 16.01.2023, _Y Qin, SR Palayyan, X Zheng, S Tian, RF Margolskee, SK Sukumaran_
-
-
-_Animals, Mice, Taste, Intestines, Taste Buds, Mucous Membrane, Cytokines, Mice, Inbred C57BL, Mice, Knockout_
-The oral microbiome is second only to its intestinal counterpart in diversity and abundance, but its effects on taste cells remains largely unexplored. Using single-cell RNASeq, we found that mouse taste cells, in particular, sweet and umami receptor cells that express taste 1 receptor member 3 (Tas1r3), have a gene expression signature reminiscent of Microfold (M) cells, a central player in immune surveillance in the mucosa-associated lymphoid tissue (MALT) such as those in the Peyer's patch and tonsils. Administration of tumor necrosis factor ligand superfamily member 11 (TNFSF11; also known as RANKL), a growth factor required for differentiation of M cells, dramatically increased M cell proliferation and marker gene expression in the taste papillae and in cultured taste organoids from wild-type (WT) mice. Taste papillae and organoids from knockout mice lacking Spib (SpibKO), a RANKL-regulated transcription factor required for M cell development and regeneration on the other hand, failed to respond to RANKL. Taste papillae from SpibKO mice also showed reduced expression of NF-κB signaling pathway components and proinflammatory cytokines and attracted fewer immune cells. However, lipopolysaccharide-induced expression of cytokines was strongly up-regulated in SpibKO mice compared to their WT counterparts. Like M cells, taste cells from WT but not SpibKO mice readily took up fluorescently labeled microbeads, a proxy for microbial transcytosis. The proportion of taste cell subtypes are unaltered in SpibKO mice; however, they displayed increased attraction to sweet and umami taste stimuli. We propose that taste cells are involved in immune surveillance and may tune their taste responses to microbial signaling and infection.
-
-[Source](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001647)
-
-10.1371/journal.pbio.3001647
+10.1111/jopr.13653
 
 ---
 
-## How our microbiome is shaped by family, friends and even neighbours.
- 19.01.2023, _E Callaway_
+## Integrated Multi-Cohort Analysis of the Parkinson's Disease Gut Metagenome.
+ 24.01.2023, _JC Boktor, G Sharon, LA Verhagen Metman, DA Hall, PA Engen, Z Zreloff, DJ Hakim, JW Bostick, J Ousey, D Lange, G Humphrey, G Ackermann, M Carlin, R Knight, A Keshavarzian, SK Mazmanian_
 
 
+The gut microbiome is altered in several neurologic disorders, including Parkinson's disease (PD).
 
-[Source](https://www.nature.com/articles/d41586-023-00118-w)
+[Source](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.29300)
 
-10.1038/d41586-023-00118-w
-
----
-
-## The person-to-person transmission landscape of the gut and oral microbiomes.
- 18.01.2023, _M Valles-Colomer, A Blanco-Míguez, P Manghi, F Asnicar, L Dubois, D Golzato, F Armanini, F Cumbo, KD Huang, S Manara, G Masetti, F Pinto, E Piperni, M Punčochář, L Ricci, M Zolfo, O Farrant, A Goncalves, M Selma-Royo, AG Binetti, JE Becerra, B Han, J Lusingu, J Amuasi, L Amoroso, A Visconti, CM Steves, M Falchi, M Filosi, A Tett, A Last, Q Xu, N Qin, H Qin, J May, D Eibach, MV Corrias, M Ponzoni, E Pasolli, TD Spector, E Domenici, MC Collado, N Segata_
-
-
-The human microbiome is an integral component of the human body and a co-determinant of several health conditions1,2. However, the extent to which interpersonal relations shape the individual genetic makeup of the microbiome and its transmission within and across populations remains largely unknown3,4. Here, capitalizing on more than 9,700 human metagenomes and computational strain-level profiling, we detected extensive bacterial strain sharing across individuals (more than 10 million instances) with distinct mother-to-infant, intra-household and intra-population transmission patterns. Mother-to-infant gut microbiome transmission was considerable and stable during infancy (around 50% of the same strains among shared species (strain-sharing rate)) and remained detectable at older ages. By contrast, the transmission of the oral microbiome occurred largely horizontally and was enhanced by the duration of cohabitation. There was substantial strain sharing among cohabiting individuals, with 12% and 32% median strain-sharing rates for the gut and oral microbiomes, and time since cohabitation affected strain sharing more than age or genetics did. Bacterial strain sharing additionally recapitulated host population structures better than species-level profiles did. Finally, distinct taxa appeared as efficient spreaders across transmission modes and were associated with different predicted bacterial phenotypes linked with out-of-host survival capabilities. The extent of microorganism transmission that we describe underscores its relevance in human microbiome studies5, especially those on non-infectious, microbiome-associated diseases.
-
-[Source](https://www.nature.com/articles/s41586-022-05620-1)
-
-10.1038/s41586-022-05620-1
+10.1002/mds.29300
 
 ---
 
-## The effects of the presence of a face and direct eye gaze on voice identity learning.
- 23.01.2023, _N Lavan, N Ramanik Bamaniya, MM Muse, RLM Price, I Mareschal_
+## Gut microbiota and microbiota-derived metabolites promotes endometriosis.
+ 24.01.2023, _SB Chadchan, SK Naik, P Popli, C Talwar, S Putluri, CR Ambati, MA Lint, AL Kau, CL Stallings, R Kommagani_
 
 
-We rarely become familiar with the voice of another person in isolation but usually also have access to visual identity information, thus learning to recognize their voice and face in parallel. There are conflicting findings as to whether learning to recognize voices in audiovisual vs audio-only settings is advantageous or detrimental to learning. One prominent finding shows that the presence of a face overshadows the voice, hindering voice identity learning by capturing listeners' attention (Face Overshadowing Effect; FOE). In the current study, we tested the proposal that the effect of audiovisual training on voice identity learning is driven by attentional processes. Participants learned to recognize voices through either audio-only training (Audio-Only) or through three versions of audiovisual training, where a face was presented alongside the voices. During audiovisual training, the faces were either looking at the camera (Direct Gaze), were looking to the side (Averted Gaze) or had closed eyes (No Gaze). We found a graded effect of gaze on voice identity learning: Voice identity recognition was most accurate after audio-only training and least accurate after audiovisual training including direct gaze, constituting a FOE. While effect sizes were overall small, the magnitude of FOE was halved for the Averted and No Gaze conditions. With direct gaze being associated with increased attention capture compared to averted or no gaze, the current findings suggest that incidental attention capture at least partially underpins the FOE. We discuss these findings in light of visual dominance effects and the relative informativeness of faces vs voices for identity perception.
+Endometriosis is a pathological condition of the female reproductive tract characterized by the existence of endometrium-like tissue at ectopic sites, affecting 10% of women between the age 15 and 49 in the USA. However, currently there is no reliable non-invasive method to detect the presence of endometriosis without surgery and many women find hormonal therapy and surgery as ineffective in avoiding the recurrences. There is a lack of knowledge on the etiology and the factors that contribute to the development of endometriosis. A growing body of recent evidence suggests an association between gut microbiota and endometriosis pathophysiology. However, the direct impact of microbiota and microbiota-derived metabolites on the endometriosis disease progression is largely unknown. To understand the causal role of gut microbiota and endometriosis, we have implemented a novel model using antibiotic-induced microbiota-depleted (MD) mice to investigate the endometriosis disease progression. Interestingly, we found that MD mice showed reduced endometriotic lesion growth and, the transplantation of gut microbiota by oral gavage of feces from mice with endometriosis rescued the endometriotic lesion growth. Additionally, using germ-free donor mice, we indicated that the uterine microbiota is dispensable for endometriotic lesion growth in mice. Furthermore, we showed that gut microbiota modulates immune cell populations in the peritoneum of lesions-bearing mice. Finally, we found a novel signature of microbiota-derived metabolites that were significantly altered in feces of mice with endometriosis. Finally, we found one the altered metabolite, quinic acid promoted the survival of endometriotic epithelial cells in vitro and lesion growth in vivo, suggesting the disease-promoting potential of microbiota-derived metabolites. In summary, these data suggest that gut microbiota and microbiota-derived metabolome contribute to lesion growth in mice, possibly through immune cell adaptations. Of translational significance, these findings will aid in designing non-invasive diagnostics using stool metabolites for endometriosis.
 
-[Source](https://www.nature.com/articles/s41574-022-00794-0)
+[Source](https://www.nature.com/articles/s41420-023-01309-0)
 
-10.1111/bjop.12633
-
----
-
-## The gut microbiota in obesity and weight management: microbes as friends or foe?
-
-[Source](https://www.nature.com/articles/s41574-022-00794-0)
+10.1038/s41420-023-01309-0
 
 ---
 
-## Dynamics of the gut microbiome, IgA response, and plasma metabolome in the development of pediatric celiac disease.
- 18.01.2023, _K Girdhar, YD Dogru, Q Huang, Y Yang, V Tolstikov, A Raisingani, M Chrudinova, J Oh, K Kelley, JF Ludvigsson, MA Kiebish, NW Palm, J Ludvigsson, E Altindis_
+## Immune communication between the intestinal microbiota and the cardiovascular system.
+ 24.01.2023, _H Ren, B Zhu, Y An, F Xie, Y Wang, Y Tan_
 
 
-_Animals, Child, Preschool, Humans, Mice, Atrophy, Celiac Disease, Cytokines, Gastrointestinal Microbiome, Glutens, Immunoglobulin A, Metabolome, Mice, Inbred C57BL, Prospective Studies_
-Celiac disease (CD) is an autoimmune disorder triggered by gluten consumption. Almost all CD patients possess human leukocyte antigen (HLA) DQ2/DQ8 haplotypes; however, only a small subset of individuals carrying these alleles develop CD, indicating the role of environmental factors in CD pathogenesis. The main objective of this study was to determine the contributory role of gut microbiota and microbial metabolites in CD onset. To this end, we obtained fecal samples from a prospective cohort study (ABIS) at ages 2.5 and 5 years. Samples were collected from children who developed CD after the final sample collection (CD progressors) and healthy children matched by age, HLA genotype, breastfeeding duration, and gluten-exposure time (n=15-16). We first used 16S sequencing and immunoglobulin-A sequencing (IgA-seq) using fecal samples obtained from the same children (i) 16 controls and 15 CD progressors at age 2.5 and (ii) 13 controls and 9 CD progressors at age 5. We completed the cytokine profiling, and plasma metabolomics using plasma samples obtained at age 5 (n=7-9). We also determined the effects of one microbiota-derived metabolite, taurodeoxycholic acid (TDCA), on the small intestines and immune cell composition in vivo.
+The intestine hosts a large number of microbial communities. Recent studies have shown that gut microbiota-mediated immune responses play a vital role in developing cardiovascular diseases (CVD). Immune cells are extensively infiltrated in the gut and heart tissues, such as T cells, B cells, and macrophages. They play a crucial role in the crosstalk between the heart and gut microbiota. And the microbiota influences the bidirectional function of immune cells in CVD such as myocardial infarction and atherosclerosis, including through metabolites. The mapping of immune cell-mediated immune networks in the heart and gut provides us with new targets for treating CVD. This review discusses the role of immune cells in gut microbiota and cardiac communication during health and CVD.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01429-2)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0165247823000159)
 
-10.1186/s40168-022-01429-2
-
----
-
-## Multi-omics profiles of the intestinal microbiome in irritable bowel syndrome and its bowel habit subtypes.
- 12.01.2023, _JP Jacobs, V Lagishetty, MC Hauer, JS Labus, TS Dong, R Toma, M Vuyisich, BD Naliboff, JM Lackner, A Gupta, K Tillisch, EA Mayer_
-
-
-_Humans, Gastrointestinal Microbiome, Irritable Bowel Syndrome, Multiomics, RNA, Ribosomal, 16S, Feces, Habits_
-Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that is thought to involve alterations in the gut microbiome, but robust microbial signatures have been challenging to identify. As prior studies have primarily focused on composition, we hypothesized that multi-omics assessment of microbial function incorporating both metatranscriptomics and metabolomics would further delineate microbial profiles of IBS and its subtypes.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01450-5)
-
-10.1186/s40168-022-01450-5
+10.1016/j.imlet.2023.01.007
 
 ---
 
-## Microbiome Features Differentiating Unsupervised-Stratification-Based Clusters of Patients with Abnormal Glycometabolism.
- 18.01.2023, _T Xu, X Wang, Y Chen, H Li, L Zhao, X Ding, C Zhang_
+## The structure and diversity of microbial communities in Paederus fuscipes (Coleoptera: Staphylinidae): from ecological paradigm to pathobiome.
+ 24.01.2023, _B Chamankar, N Maleki-Ravasan, M Karami, E Forouzan, F Karimian, S Naeimi, N Choobdar_
 
 
-The alteration of gut microbiota structure plays a pivotal role in the pathogenesis of abnormal glycometabolism. However, the microbiome features identified in patient groups stratified solely based on glucose levels remain controversial among different studies. In this study, we stratified 258 participants (discovery cohort) into three clusters according to an unsupervised method based on 16 clinical parameters involving the levels of blood glucose, insulin, and lipid. We found 67 cluster-specific microbiome features (i.e., amplicon sequence variants [ASVs]) based on 16S rRNA gene V3-V4 region sequencing. Specifically, ASVs belonging to Barnesville and Alistipes were enriched in cluster 1, in which participants had the lowest blood glucose levels, high insulin sensitivity, and a high-fecal short-chain fatty acid concentration. ASVs belonging to Prevotella copri and Ruminococcus gnavus were enriched in cluster 2, which was characterized by a moderate level of blood glucose, serious insulin resistance, and high levels of cholesterol and triglyceride. Cluster 3 was characterized by a high level of blood glucose and insulin deficiency, enriched with ASVs in P. copri and Bacteroides vulgatus. In addition, machine learning classifiers using the 67 cluster-specific ASVs were used to distinguish individuals in one cluster from those in the other two clusters both in discovery and testing cohorts (n = 83). Therefore, microbiome features identified based on the unsupervised stratification of patients with more inclusive clinical parameters may better reflect microbiota alterations associated with the progression of abnormal glycometabolism. IMPORTANCE The gut microbiota is altered in patients with type 2 diabetes (T2D) and prediabetes. The association of particular bacteria with T2D, however, varied among studies, which has made it challenging to develop precision medicine approaches for the prevention and alleviation of T2D. Blood glucose level is the only parameter in clustering patients when identifying the T2D-related bacteria in previous studies. This stratification ignores the fact that patients within the same blood glucose range differ in their insulin resistance and dyslipidemia, which also may be related to disordered gut microbiota. In addition to parameters of blood glucose levels, we also used additional parameters involving insulin and lipid levels to stratify participants into three clusters and further identified cluster-specific microbiome features. We further validated the association between these microbiome features and glycometabolism with an independent cohort. This study highlights the importance of stratification of patients with blood glucose, insulin, and lipid levels when identifying the microbiome features associated with the progression of abnormal glycometabolism.
+_Humans, Animals, Male, Female, Coleoptera, Rhizobiaceae, Enterococcus, Microbiota, Dermatitis_
+Paederus fuscipes is medically the most famous rove beetle, which causes dermatitis or conjunctivitis in humans, as well as gastrointestinal toxicosis in livestock, via releasing toxic hemolymph containing pederin. Pedrin biosynthesis genes have been identified in uncultured Pseudomonas-like endosymbionts that are speculated to be acquired through a horizontal transfer. However, the composition of the P. fuscipes microbial community, especially of the gut and genital microbiome, remains unclear. This study was aimed to characterize the structure and diversity of P. fuscipes-associated bacterial communities in terms of gender, organ, and location using the Illumina HiSeq platform in the southern littorals of Caspian Sea.
 
-[Source](https://journals.asm.org/doi/10.1128/mbio.03487-22)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01456-z)
 
-10.1128/mbio.03487-22
-
----
-
-## Gut Bacterial Dysbiosis in Irritable Bowel Syndrome: a Case-Control Study and a Cross-Cohort Analysis Using Publicly Available Data Sets
-
-[Source](https://journals.asm.org/doi/10.1128/spectrum.02125-22)
+10.1186/s40168-022-01456-z
 
 ---
 
-## Harnessing gut microbes for glycan detection and quantification.
- 20.01.2023, _JL Modesto, VH Pearce, GE Townsend_
+## The gastrointestinal microbiome in dairy cattle is constrained by the deterministic driver of the region and the modified effect of diet.
+ 24.01.2023, _L Lin, Z Lai, J Zhang, W Zhu, S Mao_
 
 
-_Animals, Humans, Gastrointestinal Microbiome, Polysaccharides, Glycomics, Mammals_
-Glycans facilitate critical biological functions and control the mammalian gut microbiota composition by supplying differentially accessible nutrients to distinct microbial subsets. Therefore, identifying unique glycan substrates that support defined microbial populations could inform therapeutic avenues to treat diseases via modulation of the gut microbiota composition and metabolism. However, examining heterogeneous glycan mixtures for individual microbial substrates is hindered by glycan structural complexity and diversity, which presents substantial challenges to glycomics approaches. Fortuitously, gut microbes encode specialized sensor proteins that recognize unique glycan structures and in-turn activate predictable, specific, and dynamic transcriptional responses. Here, we harness this microbial machinery to indicate the presence and abundance of compositionally similar, yet structurally distinct glycans, using a transcriptional reporter we develop. We implement these tools to examine glycan mixtures, isolate target molecules for downstream characterization, and quantify the recovered products. We assert that this toolkit could dramatically enhance our understanding of the mammalian intestinal environment and identify host-microbial interactions critical for human health.
+_Female, Humans, Cattle, Animals, Gastrointestinal Microbiome, Lactation, Rumen, Plant Breeding, Diet, Fermentation, Animal Feed_
+Dairy cattle (Bos taurus), especially Holstein cows, which are the highest-producing dairy animals and are widely bred to provide milk products to humans, rely critically on their associated gastrointestinal tract (GIT) microbiota to digest plant feed. However, the region-specific taxonomic composition and function of the GIT microbiome in dairy cattle and the mechanistic basis for the diet-induced effects remain to be elucidated. RESULTS: We collected 120 digesta samples from 10 GIT regions of 12 Holstein cows fed forage- and grain-based diets and characterized their GIT microbiome via functional shotgun metagenomics and the resolution of metagenome-assembled genomes. Our results demonstrated that the GIT microbiome was mainly partitioned into three distinct clusters, four-chambered stomach, small intestine, and large intestine. Moreover, we found that the four-chambered stomach microbiome with the highest diversity had a strong ability to degrade recalcitrant polysaccharide substrates, underpinned by the prevalence of potential cellulosome--producing and plant-derived polysaccharide utilization loci-encoding consortia. In contrast, the post-gastric intestinal microbiome orchestrated alternative fermentation pathways to adapt to nutrient availability and energy acquisition. Diet shifts selectively modified the metabolic cascades of the microbiome in specific GIT regions, evidenced by the loss of fiber-degrading taxa and increased hydrogen sinks in propionate after grain introduction.
 
-[Source](https://www.nature.com/articles/s41467-022-35626-2)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01453-2)
 
-10.1038/s41467-022-35626-2
-
----
-
-## The gut-microbiota-brain axis in a Spanish population in the aftermath of the COVID-19 pandemic: microbiota composition linked to anxiety, trauma, and depression profiles
-
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2022.2162306)
+10.1186/s40168-022-01453-2
 
 ---
 
-## Expanded catalogue of metagenome-assembled genomes reveals resistome characteristics and athletic performance-associated microbes in horse.
- 15.01.2023, _C Li, X Li, R Guo, W Ni, K Liu, Z Liu, J Dai, Y Xu, S Abduriyim, Z Wu, Y Zeng, B Lei, Y Zhang, Y Wang, W Zeng, Q Zhang, C Chen, J Qiao, C Liu, S Hu_
+## Fecal Microbiota Was Reshaped in UCP1 Knock-In Pigs via the Adipose-Liver-Gut Axis and Contributed to Less Fat Deposition.
+ 23.01.2023, _J Pan, L Chui, T Liu, Q Zheng, X Liu, L Liu, Y Zhao, L Zhang, M Song, J Han, J Huang, C Tang, C Tao, J Zhao, Y Wang_
 
 
-_Horses, Humans, Animals, Metagenome, Genome, Bacterial, Gastrointestinal Microbiome, Drug Resistance, Microbial, Athletic Performance, Metagenomics_
-As a domesticated species vital to humans, horses are raised worldwide as a source of mechanical energy for sports, leisure, food production, and transportation. The gut microbiota plays an important role in the health, diseases, athletic performance, and behaviour of horses.
+The relationship between the host gut microbiota and obesity has been well documented in humans and mice; however, few studies reported the association between the gut microbiota and fat deposition in pigs. In a previous study, we generated uncoupling protein 1 (UCP1) knock-in pigs (UCP1 pigs), which exhibited a lower fat deposition phenotype. Whether the gut microbiota was reshaped in these pigs and whether the reshaped gut microbiota contributes to the lower fat content remain unknown. Here, we revealed that the fecal microbiota composition and metabolites were significantly altered under both chow diet (CD) and high-fat/high-cholesterol (HFHC) diet conditions in UCP1 pigs compared to those in wild-type (WT) pigs. The abundance of Oscillospira and Coprococcus and the level of metabolite hyodeoxycholic acid (HDCA) from feces were observed to be significantly increased in UCP1 pigs. An association analysis revealed that Oscillospira and Coprococcus were significantly negatively related to backfat thickness. In addition, after fecal microbiota transplantation (FMT), the mice that were orally gavaged with feces from UCP1 pigs exhibited less fat deposition under both CD and high-fat diet (HFD) conditions, suggesting that the fecal microbes of UCP1 pigs participate in regulating host lipid metabolism. Consistently, HDCA-treated mice also exhibited reduced fat content. Mechanistically, we found that UCP1 expression in white adipose tissue alters the gut microbiota via the adipose-liver-gut axis in pigs. Our study provides new data concerning the cross talk between host genetic variations and the gut microbiota and paves the way for the potential application of microbes or their metabolites in the regulation of fat deposition in pigs. IMPORTANCE This article investigated the effect of the ectopic expression of UCP1 on the regulation of fecal microbiota composition and metabolites and which alters the fat deposition phenotype. Bacteria, including Oscillospira and Coprococcus, and the metabolite HDCA were found to be significantly increased in feces of UCP1 pigs and had a negative relationship with backfat thickness. Mice with fecal microbiota transplantation phenocopied the UCP1 pigs under both CD and HFD conditions, suggesting that the fecal microbes of UCP1 pigs participate in regulating host lipid metabolism. Our study provides new data regarding the cross talk between host genetic variations and the gut microbiota and paves the way for the potential application of microbes or their metabolic production in the regulation of fat deposition in pigs.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01448-z)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.03540-22)
 
-10.1186/s40168-022-01448-z
-
----
-
-## The bovine foot skin microbiota is associated with host genotype and the development of infectious digital dermatitis lesions.
- 12.01.2023, _V Bay, A Gillespie, E Ganda, NJ Evans, SD Carter, L Lenzi, A Lucaci, S Haldenby, M Barden, BE Griffiths, E Sánchez-Molano, R Bicalho, G Banos, A Darby, G Oikonomou_
-
-
-_Female, Cattle, Animals, Digital Dermatitis, RNA, Ribosomal, 16S, Genome-Wide Association Study, Cattle Diseases, Communicable Diseases, Microbiota, Genotype_
-Bovine Digital Dermatitis (BDD) is a prevalent infectious disease, causing painful foot skin lesions and lameness in cattle. We describe herein the bovine foot skin microbiota and its associations with BDD using 16S rRNA gene amplicon and shotgun metagenomic sequencing on samples from 259 dairy cows from three UK dairy farms.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01440-7)
-
-10.1186/s40168-022-01440-7
+10.1128/spectrum.03540-22
 
 ---
 
-## A framework for the targeted recruitment of crop-beneficial soil taxa based on network analysis of metagenomics data.
- 16.01.2023, _M Berihu, TS Somera, A Malik, S Medina, E Piombo, O Tal, M Cohen, A Ginatt, M Ofek-Lalzar, A Doron-Faigenboim, M Mazzola, S Freilich_
+## Gut microbiota of skywalker hoolock gibbons (Hoolock tianxing) from different habitats and in captivity: Implications for gibbon health.
+ 24.01.2023, _LY Lan, QX Hong, SM Gao, Q Li, YY You, W Chen, PF Fan_
 
 
-_Soil, Bacteria, Microbiota, Metagenome, Metagenomics, Rhizosphere, Soil Microbiology, Plant Roots_
-The design of ecologically sustainable and plant-beneficial soil systems is a key goal in actively manipulating root-associated microbiomes. Community engineering efforts commonly seek to harness the potential of the indigenous microbiome through substrate-mediated recruitment of beneficial members. In most sustainable practices, microbial recruitment mechanisms rely on the application of complex organic mixtures where the resources/metabolites that act as direct stimulants of beneficial groups are not characterized. Outcomes of such indirect amendments are unpredictable regarding engineering the microbiome and achieving a plant-beneficial environment.
+The gut microbiota plays an integral role in the metabolism and immunity of animal hosts, and provides insights into the health and habitat assessment of threatened animals. The skywalker hoolock gibbon (Hoolock tianxing) is a newly described gibbon species, and is considered an endangered species. Here, we used 16S rRNA amplicon sequencing to describe the fecal bacterial community of skywalker hoolock gibbons from different habitats and in captivity. Fecal samples (n = 5) from two captive gibbons were compared with wild populations (N = 6 gibbons, n = 33 samples). At the phylum level, Spirochetes, Proteobacteria, Firmicutes, Bacteroidetes dominated in captive gibbons, while Firmicutes, Bacteroidetes, and Tenericutes dominated in wild gibbons. At the genus level, captive gibbons were dominated by Treponema-2, followed by Succinivibrio and Cerasicoccus, while wild gibbons were dominated by Anaeroplasma, Prevotellaceae UCG-001, and Erysipelotrichaceae UCG-004. Captive rearing was significantly associated with lower taxonomic alpha-diversity, and different relative abundance of some dominant bacteria compared to wild gibbons. Predicted Kyoto Encyclopedia of Genes and Genomes pathway analyses showed that captive gibbons have significantly lower total pathway diversity and higher relative abundance of bacterial functions involved in "drug resistance: antimicrobial" and "carbohydrate metabolism" than wild gibbons. This study reveals the potential influence of captivity and habitat on the gut bacterial community of gibbons and provides a basis for guiding the conservation management of captive populations.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01438-1)
+[Source](https://onlinelibrary.wiley.com/doi/10.1002/ajp.23468)
 
-10.1186/s40168-022-01438-1
-
----
-
-## Diversity and functional analysis of rumen and fecal microbial communities associated with dietary changes in crossbreed dairy cattle.
- 17.01.2023, _FM Kibegwa, RC Bett, CK Gachuiri, E Machuka, F Stomeo, FD Mujibi_
-
-
-_Animals, Cattle, Rumen, Microbiota, Metagenome, Proteobacteria, Dietary Fiber, Diet, Animal Feed_
-The objective of this study was to investigate the effect of varying roughage and concentrate proportions, in diet of crossbreed dairy cattle, on the composition and associated functional genes of rumen and fecal microbiota. We also explored fecal samples as a proxy for rumen liquor samples. Six crossbred dairy cattle were reared on three diets with an increasing concentrate and reducing roughage amount in three consecutive 10-day periods. After each period, individual rumen liquor and fecal samples were collected and analyzed through shotgun metagenomic sequencing. Average relative abundance of identified Operational Taxonomic Units (OTU) and microbial functional roles from all animals were compared between diets and sample types (fecal and rumen liquor). Results indicated that dietary modifications significantly affected several rumen and fecal microbial OTUs. In the rumen, an increase in dietary concentrate resulted in an upsurge in the abundance of Proteobacteria, while reducing the proportions of Bacteroidetes and Firmicutes. Conversely, changes in microbial composition in fecal samples were not consistent with dietary modification patterns. Microbial functional pathway classification identified that carbohydrate metabolism and protein metabolism pathways dominated microbial roles. Assessment of dietary effects on the predicted functional roles of these microbiota revealed that a high amount of dietary concentrate resulted in an increase in central carbohydrate metabolism and a corresponding reduction in protein synthesis. Moreover, we identified several microbial stress-related responses linked to dietary changes. Bacteroides and Clostridium genera were the principal hosts of these microbial functions. Therefore, the roughage to concentrate proportion has more influence on the microbial composition and microbial functional genes in rumen samples than fecal samples. As such, we did not establish a significant relationship between the rumen and fecal metagenome profiles, and the rumen and fecal microbiota from one animal did not correlate more than those from different animals.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274371)
-
-10.1371/journal.pone.0274371
+10.1002/ajp.23468
 
 ---
 
-## Multi-amplicon microbiome data analysis pipelines for mixed orientation sequences using QIIME2: Assessing reference database, variable region and pre-processing bias in classification of mock bacterial community samples.
- 17.01.2023, _KA Maki, B Wolff, L Varuzza, SJ Green, JJ Barb_
+## Housing temperature plays a critical role in determining gut microbiome composition in research mice: Implications for experimental reproducibility
+
+[Source](https://www.sciencedirect.com/science/article/pii/S0300908423000160)
+
+---
+
+## The biogeography and co-occurrence network patterns of bacteria and microeukaryotes in the estuarine and coastal waters.
+ 24.01.2023, _J Wu, Z Zhu, JJ Waniek, M Niu, Y Wang, Z Zhang, M Zhou, R Zhang_
 
 
-_RNA, Ribosomal, 16S, Microbiota, Databases, Factual, High-Throughput Nucleotide Sequencing, Bacteria, Data Analysis_
-Microbiome research relies on next-generation sequencing and on downstream data analysis workflows. Several manufacturers have introduced multi-amplicon kits for microbiome characterization, improving speciation, but present unique challenges for analysis. The goal of this methodology study was to develop two analysis pipelines specific to mixed-orientation reads from multi-hypervariable (V) region amplicons. A secondary aim was to assess agreement with expected abundance, considering database and variable region. Mock community sequence data (n = 41) generated using the Ion16S™ Metagenomics Kit and Ion Torrent Sequencing Platform were analyzed using two workflows. Amplicons from V2, V3, V4, V6-7, V8 and V9 were deconvoluted using a specialized plugin based on CutPrimers. A separate workflow using Cutadapt is also presented. Three reference databases (Ribosomal Database Project, Greengenes and Silva) were used for taxonomic assignment. Bray-Curtis, Euclidean and Jensen-Shannon distance measures were used to evaluate overall annotation consistency, and specific taxon agreement was determined by calculating the ratio of observed to expected relative abundance. Reads that mapped to regions V2-V9 varied for both CutPrimers and Cutadapt-based methods. Within the CutPrimers-based pipeline, V3 amplicons had the best agreement with the expected distribution, tested using global distance measures, while V9 amplicons had the worst agreement. Accurate taxonomic annotation varied by genus-level taxon and V region analyzed. For the first time, we present a microbiome analysis pipeline that employs a specialized plugin to allow microbiome researchers to separate multi-amplicon data from the Ion16S Metagenomics Kit into V-specific reads. We also present an additional analysis workflow, modified for Ion Torrent mixed orientation reads. Overall, the global agreement of amplicons with the expected mock community abundances differed across V regions and reference databases. Benchmarking data should be referenced when planning a microbiome study to consider these biases related to sequencing and data analysis for multi-amplicon sequencing kits.
+_Bacteria, Oceans and Seas, China, Dinoflagellida, Microbiota_
+Community and diversity shifts of bacteria and microeukaryotes with strong environmental and spatial variations have been unveiled in the Pearl River Estuary (PRE) and northern coastal part of South China Sea (SCS). However, it is not clear what the determining factors shape the microbial community and how the biotic interactions respond to the estuarine and oceanic environment. Here, we established the multiple regression models (MRM) and co-occurrence networks on microbial communities in PRE and SCS habitats. The results showed that there were significant differences of the abiotic factors affecting the bacterial and microeukaryotic communities between PRE and SCS habitats. Salinity explained the largest variations to the microbial community dissimilarities in PRE. Whereas spatial and environmental factors determined the microbial community dissimilarities in SCS. Positive relations between parasitic lineages (e.g. Perkinsea and Cercozoa) and algal taxa (Dinophyceae, Cryptophyta, Chlorophyta and Ochrophyta) dominated in the PRE network. While parasites Syndiniales positively correlated with other Syndiniales and protists in SCS. Strong positive associations among autotrophic and heterotrophic groups were revealed in both niches. Therefore, the biotic interactions are also important and may be responsible for the unexplained variations of the abiotic factors from MRM models. Microbial network in the PRE estuarine water had weakened resistance to environmental disturbances, while the SCS network had greater capacity to maintain network stability. This study shed light on the different mechanisms of abiotic and biotic factors in shaping the compositions of bacteria and microeukaryotes between PRE and SCS niches, and highlights the weakening effect of environmental disturbances on the microbial network stability.
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280293)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0141113623000016)
 
-10.1371/journal.pone.0280293
+10.1016/j.marenvres.2023.105873
+
+---
+
+## Capturing the dynamics of microbiomes using individual-specific networks
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.01.22.525058v1.abstract)
+
+---
+
+## PhaTYP: predicting the lifestyle for bacteriophages using BERT.
+ 23.01.2023, _J Shang, X Tang, Y Sun_
+
+
+_Infant, Newborn, Humans, Bacteriophages, Metagenomics, Bacteria, Microbiota, Metagenome_
+Bacteriophages (or phages), which infect bacteria, have two distinct lifestyles: virulent and temperate. Predicting the lifestyle of phages helps decipher their interactions with their bacterial hosts, aiding phages' applications in fields such as phage therapy. Because experimental methods for annotating the lifestyle of phages cannot keep pace with the fast accumulation of sequenced phages, computational method for predicting phages' lifestyles has become an attractive alternative. Despite some promising results, computational lifestyle prediction remains difficult because of the limited known annotations and the sheer amount of sequenced phage contigs assembled from metagenomic data. In particular, most of the existing tools cannot precisely predict phages' lifestyles for short contigs. In this work, we develop PhaTYP (Phage TYPe prediction tool) to improve the accuracy of lifestyle prediction on short contigs. We design two different training tasks, self-supervised and fine-tuning tasks, to overcome lifestyle prediction difficulties. We rigorously tested and compared PhaTYP with four state-of-the-art methods: DeePhage, PHACTS, PhagePred and BACPHLIP. The experimental results show that PhaTYP outperforms all these methods and achieves more stable performance on short contigs. In addition, we demonstrated the utility of PhaTYP for analyzing the phage lifestyle on human neonates' gut data. This application shows that PhaTYP is a useful means for studying phages in metagenomic data and helps extend our understanding of microbial communities.
+
+[Source](https://academic.oup.com/bib/article/24/1/bbac487/6842869)
+
+10.1093/bib/bbac487
 
 ---
 
