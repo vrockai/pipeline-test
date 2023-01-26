@@ -10,9 +10,15 @@ To characterize the microbiome composition within dental implants of peri-implan
 
 ---
 
-## Integrated Multi-Cohort Analysis of the Parkinson’s Disease Gut Metagenome
+## Integrated Multi-Cohort Analysis of the Parkinson's Disease Gut Metagenome.
+ 24.01.2023, _JC Boktor, G Sharon, LA Verhagen Metman, DA Hall, PA Engen, Z Zreloff, DJ Hakim, JW Bostick, J Ousey, D Lange, G Humphrey, G Ackermann, M Carlin, R Knight, A Keshavarzian, SK Mazmanian_
+
+
+The gut microbiome is altered in several neurologic disorders, including Parkinson's disease (PD).
 
 [Source](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.29300)
+
+10.1002/mds.29300
 
 ---
 
