@@ -41,9 +41,16 @@ Older adults represent a vulnerable population with elevated risk for numerous m
 
 ---
 
-## Phage therapy: From biological mechanisms to future directions 
+## Phage therapy: From biological mechanisms to future directions.
+ 11.01.2023, _SA Strathdee, GF Hatfull, VK Mutalik, RT Schooley_
+
+
+_Phage Therapy, Bacteriophages, Bacteria_
+Increasing antimicrobial resistance rates have revitalized bacteriophage (phage) research, the natural predators of bacteria discovered over 100 years ago. In order to use phages therapeutically, they should (1) preferably be lytic, (2) kill the bacterial host efficiently, and (3) be fully characterized to exclude side effects. Developing therapeutic phages takes a coordinated effort of multiple stakeholders. Herein, we review the state of the art in phage therapy, covering biological mechanisms, clinical applications, remaining challenges, and future directions involving naturally occurring and genetically modified or synthetic phages.
 
 [Source](https://www.cell.com/cell/fulltext/S0092-8674(22)01461-1)
+
+10.1016/j.cell.2022.11.017
 
 ---
 
@@ -83,27 +90,15 @@ Older adults represent a vulnerable population with elevated risk for numerous m
 
 ---
 
-## Infection infidelities drive innate immunity.
- 26.01.2023, _JC Kagan_
-
-
-Unsuccessful pathogenic activities may be key to activating host defenses to infection.
+## Infection infidelities drive innate immunity
 
 [Source](https://www.science.org/doi/10.1126/science.ade9733)
 
-10.1126/science.ade9733
-
 ---
 
-## Functional T cells are capable of supernumerary cell division and longevity.
- 18.01.2023, _AG Soerens, M Künzli, CF Quarnstrom, MC Scott, L Swanson, JJ Locquiao, HE Ghoneim, D Zehn, B Youngblood, V Vezys, D Masopust_
-
-
-Differentiated somatic mammalian cells putatively exhibit species-specific division limits that impede cancer but may constrain lifespans1-3. To provide immunity, transiently stimulated CD8+ T cells undergo unusually rapid bursts of numerous cell divisions, and then form quiescent long-lived memory cells that remain poised to reproliferate following subsequent immunological challenges. Here we addressed whether T cells are intrinsically constrained by chronological or cell-division limits. We activated mouse T cells in vivo using acute heterologous prime-boost-boost vaccinations4, transferred expanded cells to new mice, and then repeated this process iteratively. Over 10 years (greatly exceeding the mouse lifespan)5 and 51 successive immunizations, T cells remained competent to respond to vaccination. Cells required sufficient rest between stimulation events. Despite demonstrating the potential to expand the starting population at least 1040-fold, cells did not show loss of proliferation control and results were not due to contamination with young cells. Persistent stimulation by chronic infections or cancer can cause T cell proliferative senescence, functional exhaustion and death6. We found that although iterative acute stimulations also induced sustained expression and epigenetic remodelling of common exhaustion markers (including PD1, which is also known as PDCD1, and TOX) in the cells, they could still proliferate, execute antimicrobial functions and form quiescent memory cells. These observations provide a model to better understand memory cell differentiation, exhaustion, cancer and ageing, and show that functionally competent T cells can retain the potential for extraordinary population expansion and longevity well beyond their organismal lifespan.
+## Functional T cells are capable of supernumerary cell division and longevity
 
 [Source](https://www.nature.com/articles/s41586-022-05626-9)
-
-10.1038/s41586-022-05626-9
 
 ---
 
