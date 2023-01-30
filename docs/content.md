@@ -60,28 +60,15 @@ Increasing antimicrobial resistance rates have revitalized bacteriophage (phage)
 
 ---
 
-## High-resolution metagenomic reconstruction of the freshwater spring bloom.
- 28.01.2023, _VS Kavagutti, PA Bulzu, CM Chiriac, MM Salcher, I Mukherjee, T Shabarova, V Grujčić, M Mehrshad, V Kasalický, AS Andrei, J Jezberová, J Seďa, P Rychtecký, P Znachor, K Šimek, R Ghai_
-
-
-_Metagenome, Fresh Water, Bacteria, Plankton, Viruses, Eukaryota, Water_
-The phytoplankton spring bloom in freshwater habitats is a complex, recurring, and dynamic ecological spectacle that unfolds at multiple biological scales. Although enormous taxonomic shifts in microbial assemblages during and after the bloom have been reported, genomic information on the microbial community of the spring bloom remains scarce.
+## High-resolution metagenomic reconstruction of the freshwater spring bloom
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01451-4)
 
-10.1186/s40168-022-01451-4
-
 ---
 
-## Closed genomes uncover a saltwater species of Candidatus Electronema and shed new light on the boundary between marine and freshwater cable bacteria.
- 25.01.2023, _M Sereika, F Petriglieri, TBN Jensen, A Sannikov, M Hoppe, PH Nielsen, IPG Marshall, A Schramm, M Albertsen_
-
-
-Cable bacteria of the Desulfobulbaceae family are centimeter-long filamentous bacteria, which are capable of conducting long-distance electron transfer. Currently, all cable bacteria are classified into two candidate genera: Candidatus Electronema, typically found in freshwater environments, and Candidatus Electrothrix, typically found in saltwater environments. This taxonomic framework is based on both 16S rRNA gene sequences and metagenome-assembled genome (MAG) phylogenies. However, most of the currently available MAGs are highly fragmented, incomplete, and thus likely miss key genes essential for deciphering the physiology of cable bacteria. Also, a closed, circular genome of cable bacteria has not been published yet. To address this, we performed Nanopore long-read and Illumina short-read shotgun sequencing of selected environmental samples and a single-strain enrichment of Ca. Electronema aureum. We recovered multiple cable bacteria MAGs, including two circular and one single-contig. Phylogenomic analysis, also confirmed by 16S rRNA gene-based phylogeny, classified one circular MAG and the single-contig MAG as novel species of cable bacteria, which we propose to name Ca. Electronema halotolerans and Ca. Electrothrix laxa, respectively. The Ca. Electronema halotolerans, despite belonging to the previously recognized freshwater genus of cable bacteria, was retrieved from brackish-water sediment. Metabolic predictions showed several adaptations to a high salinity environment, similar to the "saltwater" Ca. Electrothrix species, indicating how Ca. Electronema halotolerans may be the evolutionary link between marine and freshwater cable bacteria lineages.
+## Closed genomes uncover a saltwater species of Candidatus Electronema and shed new light on the boundary between marine and freshwater cable bacteria 
 
 [Source](https://www.nature.com/articles/s41396-023-01372-6)
-
-10.1038/s41396-023-01372-6
 
 ---
 
