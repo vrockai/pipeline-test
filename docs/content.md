@@ -66,39 +66,77 @@ Increasing antimicrobial resistance rates have revitalized bacteriophage (phage)
 
 ---
 
-## Closed genomes uncover a saltwater species of Candidatus Electronema and shed new light on the boundary between marine and freshwater cable bacteria 
+## Closed genomes uncover a saltwater species of Candidatus Electronema and shed new light on the boundary between marine and freshwater cable bacteria.
+ 25.01.2023, _M Sereika, F Petriglieri, TBN Jensen, A Sannikov, M Hoppe, PH Nielsen, IPG Marshall, A Schramm, M Albertsen_
+
+
+Cable bacteria of the Desulfobulbaceae family are centimeter-long filamentous bacteria, which are capable of conducting long-distance electron transfer. Currently, all cable bacteria are classified into two candidate genera: Candidatus Electronema, typically found in freshwater environments, and Candidatus Electrothrix, typically found in saltwater environments. This taxonomic framework is based on both 16S rRNA gene sequences and metagenome-assembled genome (MAG) phylogenies. However, most of the currently available MAGs are highly fragmented, incomplete, and thus likely miss key genes essential for deciphering the physiology of cable bacteria. Also, a closed, circular genome of cable bacteria has not been published yet. To address this, we performed Nanopore long-read and Illumina short-read shotgun sequencing of selected environmental samples and a single-strain enrichment of Ca. Electronema aureum. We recovered multiple cable bacteria MAGs, including two circular and one single-contig. Phylogenomic analysis, also confirmed by 16S rRNA gene-based phylogeny, classified one circular MAG and the single-contig MAG as novel species of cable bacteria, which we propose to name Ca. Electronema halotolerans and Ca. Electrothrix laxa, respectively. The Ca. Electronema halotolerans, despite belonging to the previously recognized freshwater genus of cable bacteria, was retrieved from brackish-water sediment. Metabolic predictions showed several adaptations to a high salinity environment, similar to the "saltwater" Ca. Electrothrix species, indicating how Ca. Electronema halotolerans may be the evolutionary link between marine and freshwater cable bacteria lineages.
 
 [Source](https://www.nature.com/articles/s41396-023-01372-6)
 
+10.1038/s41396-023-01372-6
+
 ---
 
-## Enhanced correlation-based linking of biosynthetic gene clusters to their metabolic products through chemical class matching
+## Enhanced correlation-based linking of biosynthetic gene clusters to their metabolic products through chemical class matching.
+ 26.01.2023, _JJR Louwen, MH Medema, JJJ van der Hooft_
+
+
+_Tandem Mass Spectrometry, Biosynthetic Pathways, Genomics, Metabolomics, Multigene Family_
+It is well-known that the microbiome produces a myriad of specialised metabolites with diverse functions. To better characterise their structures and identify their producers in complex samples, integrative genome and metabolome mining is becoming increasingly popular. Metabologenomic co-occurrence-based correlation scoring methods facilitate the linking of metabolite mass fragmentation spectra (MS/MS) to their cognate biosynthetic gene clusters (BGCs) based on shared absence/presence patterns of metabolites and BGCs in paired omics datasets of multiple strains. Recently, these methods have been made more readily accessible through the NPLinker platform. However, co-occurrence-based approaches usually result in too many candidate links to manually validate. To address this issue, we introduce a generic feature-based correlation method that matches chemical compound classes between BGCs and MS/MS spectra.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01444-3)
 
+10.1186/s40168-022-01444-3
+
 ---
 
-## PLSDA-batch: a multivariate framework to correct for batch effects in microbiome data 
+## PLSDA-batch: a multivariate framework to correct for batch effects in microbiome data.
+ 18.01.2023, _Y Wang, KA Lê Cao_
+
+
+Microbial communities are highly dynamic and sensitive to changes in the environment. Thus, microbiome data are highly susceptible to batch effects, defined as sources of unwanted variation that are not related to and obscure any factors of interest. Existing batch effect correction methods have been primarily developed for gene expression data. As such, they do not consider the inherent characteristics of microbiome data, including zero inflation, overdispersion and correlation between variables. We introduce new multivariate and non-parametric batch effect correction methods based on Partial Least Squares Discriminant Analysis (PLSDA). PLSDA-batch first estimates treatment and batch variation with latent components, then subtracts batch-associated components from the data. The resulting batch-effect-corrected data can then be input in any downstream statistical analysis. Two variants are proposed to handle unbalanced batch x treatment designs and to avoid overfitting when estimating the components via variable selection. We compare our approaches with popular methods managing batch effects, namely, removeBatchEffect, ComBat and Surrogate Variable Analysis, in simulated and three case studies using various visual and numerical assessments. We show that our three methods lead to competitive performance in removing batch variation while preserving treatment variation, especially for unbalanced batch $\times $ treatment designs. Our downstream analyses show selections of biologically relevant taxa. This work demonstrates that batch effect correction methods can improve microbiome research outputs. Reproducible code and vignettes are available on GitHub.
 
 [Source](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac622/6991121)
 
+10.1093/bib/bbac622
+
 ---
 
-## Genome-scale metabolic reconstruction of 7,302 human microorganisms for personalized medicine
+## Genome-scale metabolic reconstruction of 7,302 human microorganisms for personalized medicine.
+ 19.01.2023, _A Heinken, J Hertel, G Acharya, DA Ravcheev, M Nyga, OE Okpala, M Hogan, S Magnúsdóttir, F Martinelli, B Nap, G Preciat, JN Edirisinghe, CS Henry, RMT Fleming, I Thiele_
+
+
+The human microbiome influences the efficacy and safety of a wide variety of commonly prescribed drugs. Designing precision medicine approaches that incorporate microbial metabolism would require strain- and molecule-resolved, scalable computational modeling. Here, we extend our previous resource of genome-scale metabolic reconstructions of human gut microorganisms with a greatly expanded version. AGORA2 (assembly of gut organisms through reconstruction and analysis, version 2) accounts for 7,302 strains, includes strain-resolved drug degradation and biotransformation capabilities for 98 drugs, and was extensively curated based on comparative genomics and literature searches. The microbial reconstructions performed very well against three independently assembled experimental datasets with an accuracy of 0.72 to 0.84, surpassing other reconstruction resources and predicted known microbial drug transformations with an accuracy of 0.81. We demonstrate that AGORA2 enables personalized, strain-resolved modeling by predicting the drug conversion potential of the gut microbiomes from 616 patients with colorectal cancer and controls, which greatly varied between individuals and correlated with age, sex, body mass index and disease stages. AGORA2 serves as a knowledge base for the human microbiome and paves the way to personalized, predictive analysis of host-microbiome metabolic interactions.
 
 [Source](https://www.nature.com/articles/s41587-022-01628-0)
 
+10.1038/s41587-022-01628-0
+
 ---
 
-## Infection infidelities drive innate immunity
+## Infection infidelities drive innate immunity.
+ 30.01.2023, _JC Kagan_
+
+
+_Immunity, Innate_
+Unsuccessful pathogenic activities may be key to activating host defenses to infection.
 
 [Source](https://www.science.org/doi/10.1126/science.ade9733)
 
+10.1126/science.ade9733
+
 ---
 
-## Functional T cells are capable of supernumerary cell division and longevity
+## Functional T cells are capable of supernumerary cell division and longevity.
+ 18.01.2023, _AG Soerens, M Künzli, CF Quarnstrom, MC Scott, L Swanson, JJ Locquiao, HE Ghoneim, D Zehn, B Youngblood, V Vezys, D Masopust_
+
+
+Differentiated somatic mammalian cells putatively exhibit species-specific division limits that impede cancer but may constrain lifespans1-3. To provide immunity, transiently stimulated CD8+ T cells undergo unusually rapid bursts of numerous cell divisions, and then form quiescent long-lived memory cells that remain poised to reproliferate following subsequent immunological challenges. Here we addressed whether T cells are intrinsically constrained by chronological or cell-division limits. We activated mouse T cells in vivo using acute heterologous prime-boost-boost vaccinations4, transferred expanded cells to new mice, and then repeated this process iteratively. Over 10 years (greatly exceeding the mouse lifespan)5 and 51 successive immunizations, T cells remained competent to respond to vaccination. Cells required sufficient rest between stimulation events. Despite demonstrating the potential to expand the starting population at least 1040-fold, cells did not show loss of proliferation control and results were not due to contamination with young cells. Persistent stimulation by chronic infections or cancer can cause T cell proliferative senescence, functional exhaustion and death6. We found that although iterative acute stimulations also induced sustained expression and epigenetic remodelling of common exhaustion markers (including PD1, which is also known as PDCD1, and TOX) in the cells, they could still proliferate, execute antimicrobial functions and form quiescent memory cells. These observations provide a model to better understand memory cell differentiation, exhaustion, cancer and ageing, and show that functionally competent T cells can retain the potential for extraordinary population expansion and longevity well beyond their organismal lifespan.
 
 [Source](https://www.nature.com/articles/s41586-022-05626-9)
+
+10.1038/s41586-022-05626-9
 
 ---
 
