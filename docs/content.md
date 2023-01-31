@@ -60,9 +60,16 @@ Increasing antimicrobial resistance rates have revitalized bacteriophage (phage)
 
 ---
 
-## High-resolution metagenomic reconstruction of the freshwater spring bloom
+## High-resolution metagenomic reconstruction of the freshwater spring bloom.
+ 28.01.2023, _VS Kavagutti, PA Bulzu, CM Chiriac, MM Salcher, I Mukherjee, T Shabarova, V Grujčić, M Mehrshad, V Kasalický, AS Andrei, J Jezberová, J Seďa, P Rychtecký, P Znachor, K Šimek, R Ghai_
+
+
+_Metagenome, Fresh Water, Bacteria, Plankton, Viruses, Eukaryota, Water_
+The phytoplankton spring bloom in freshwater habitats is a complex, recurring, and dynamic ecological spectacle that unfolds at multiple biological scales. Although enormous taxonomic shifts in microbial assemblages during and after the bloom have been reported, genomic information on the microbial community of the spring bloom remains scarce.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01451-4)
+
+10.1186/s40168-022-01451-4
 
 ---
 
