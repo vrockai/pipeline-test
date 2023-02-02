@@ -97,7 +97,7 @@ Algal blooms are hotspots of marine primary production and play central roles in
 ---
 
 ## High-resolution metagenomic reconstruction of the freshwater spring bloom.
- 28.01.2023, _VS Kavagutti, PA Bulzu, CM Chiriac, MM Salcher, I Mukherjee, T Shabarova, V Grujčić, M Mehrshad, V Kasalický, AS Andrei, J Jezberová, J Seďa, P Rychtecký, P Znachor, K Šimek, R Ghai_
+ 02.02.2023, _VS Kavagutti, PA Bulzu, CM Chiriac, MM Salcher, I Mukherjee, T Shabarova, V Grujčić, M Mehrshad, V Kasalický, AS Andrei, J Jezberová, J Seďa, P Rychtecký, P Znachor, K Šimek, R Ghai_
 
 
 _Metagenome, Fresh Water, Bacteria, Plankton, Viruses, Eukaryota, Water_
