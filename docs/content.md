@@ -53,9 +53,10 @@ Peutz-Jeghers syndrome (PJS) is a rare hereditary disorder characterized by inte
 ---
 
 ## Host-microbe co-metabolism via MCAD generates circulating metabolites including hippuric acid.
- 31.01.2023, _KM Pruss, H Chen, Y Liu, W Van Treuren, SK Higginbottom, JB Jarman, CR Fischer, J Mak, B Wong, TM Cowan, MA Fischbach, JL Sonnenburg, D Dodd_
+ 02.02.2023, _KM Pruss, H Chen, Y Liu, W Van Treuren, SK Higginbottom, JB Jarman, CR Fischer, J Mak, B Wong, TM Cowan, MA Fischbach, JL Sonnenburg, D Dodd_
 
 
+_Humans, Female, Male, Animals, Mice, Acyl-CoA Dehydrogenase, Hippurates, Metabolomics, Phenylalanine, Mammals_
 The human gut microbiota produces dozens of small molecules that circulate in blood, accumulate to comparable levels as pharmaceutical drugs, and influence host physiology. Despite the importance of these metabolites to human health and disease, the origin of most microbially-produced molecules and their fate in the host remains largely unknown. Here, we uncover a host-microbe co-metabolic pathway for generation of hippuric acid, one of the most abundant organic acids in mammalian urine. Combining stable isotope tracing with bacterial and host genetics, we demonstrate reduction of phenylalanine to phenylpropionic acid by gut bacteria; the host re-oxidizes phenylpropionic acid involving medium-chain acyl-CoA dehydrogenase (MCAD). Generation of germ-free male and female MCAD-/- mice enabled gnotobiotic colonization combined with untargeted metabolomics to identify additional microbial metabolites processed by MCAD in host circulation. Our findings uncover a host-microbe pathway for the abundant, non-toxic phenylalanine metabolite hippurate and identify β-oxidation via MCAD as a novel mechanism by which mammals metabolize microbiota-derived metabolites.
 
 [Source](https://www.nature.com/articles/s41467-023-36138-3)
@@ -83,9 +84,10 @@ Environmental (restraint stress) and dietary (high fructose) factors are key tri
 ---
 
 ## Viral infection switches the balance between bacterial and eukaryotic recyclers of organic matter during coccolithophore blooms.
- 01.02.2023, _F Vincent, M Gralka, G Schleyer, D Schatz, M Cabrera-Brufau, C Kuhlisch, A Sichert, S Vidal-Melgosa, K Mayers, N Barak-Gavish, JM Flores, M Masdeu-Navarro, JK Egge, A Larsen, JH Hehemann, C Marrasé, R Simó, OX Cordero, A Vardi_
+ 02.02.2023, _F Vincent, M Gralka, G Schleyer, D Schatz, M Cabrera-Brufau, C Kuhlisch, A Sichert, S Vidal-Melgosa, K Mayers, N Barak-Gavish, JM Flores, M Masdeu-Navarro, JK Egge, A Larsen, JH Hehemann, C Marrasé, R Simó, OX Cordero, A Vardi_
 
 
+_Humans, Eukaryota, Eukaryotic Cells, Bacteria, Carbon, Virus Diseases_
 Algal blooms are hotspots of marine primary production and play central roles in microbial ecology and global elemental cycling. Upon demise of the bloom, organic carbon is partly respired and partly transferred to either higher trophic levels, bacterial biomass production or sinking. Viral infection can lead to bloom termination, but its impact on the fate of carbon remains largely unquantified. Here, we characterize the interplay between viral infection and the composition of a bloom-associated microbiome and consequently the evolving biogeochemical landscape, by conducting a large-scale mesocosm experiment where we monitor seven induced coccolithophore blooms. The blooms show different degrees of viral infection and reveal that only high levels of viral infection are followed by significant shifts in the composition of free-living bacterial and eukaryotic assemblages. Intriguingly, upon viral infection the biomass of eukaryotic heterotrophs (thraustochytrids) rivals that of bacteria as potential recyclers of organic matter. By combining modeling and quantification of active viral infection at a single-cell resolution, we estimate that viral infection causes a 2-4 fold increase in per-cell rates of extracellular carbon release in the form of acidic polysaccharides and particulate inorganic carbon, two major contributors to carbon sinking into the deep ocean. These results reveal the impact of viral infection on the fate of carbon through microbial recyclers of organic matter in large-scale coccolithophore blooms.
 
 [Source](https://www.nature.com/articles/s41467-023-36049-3)
