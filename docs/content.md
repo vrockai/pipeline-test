@@ -53,7 +53,7 @@ Peutz-Jeghers syndrome (PJS) is a rare hereditary disorder characterized by inte
 ---
 
 ## Host-microbe co-metabolism via MCAD generates circulating metabolites including hippuric acid.
- 02.02.2023, _KM Pruss, H Chen, Y Liu, W Van Treuren, SK Higginbottom, JB Jarman, CR Fischer, J Mak, B Wong, TM Cowan, MA Fischbach, JL Sonnenburg, D Dodd_
+ 03.02.2023, _KM Pruss, H Chen, Y Liu, W Van Treuren, SK Higginbottom, JB Jarman, CR Fischer, J Mak, B Wong, TM Cowan, MA Fischbach, JL Sonnenburg, D Dodd_
 
 
 _Humans, Female, Male, Animals, Mice, Acyl-CoA Dehydrogenase, Hippurates, Metabolomics, Phenylalanine, Mammals_
@@ -84,7 +84,7 @@ Environmental (restraint stress) and dietary (high fructose) factors are key tri
 ---
 
 ## Viral infection switches the balance between bacterial and eukaryotic recyclers of organic matter during coccolithophore blooms.
- 02.02.2023, _F Vincent, M Gralka, G Schleyer, D Schatz, M Cabrera-Brufau, C Kuhlisch, A Sichert, S Vidal-Melgosa, K Mayers, N Barak-Gavish, JM Flores, M Masdeu-Navarro, JK Egge, A Larsen, JH Hehemann, C Marrasé, R Simó, OX Cordero, A Vardi_
+ 03.02.2023, _F Vincent, M Gralka, G Schleyer, D Schatz, M Cabrera-Brufau, C Kuhlisch, A Sichert, S Vidal-Melgosa, K Mayers, N Barak-Gavish, JM Flores, M Masdeu-Navarro, JK Egge, A Larsen, JH Hehemann, C Marrasé, R Simó, OX Cordero, A Vardi_
 
 
 _Humans, Eukaryota, Eukaryotic Cells, Bacteria, Carbon, Virus Diseases_
