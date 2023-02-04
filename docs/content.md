@@ -56,7 +56,7 @@ Peutz-Jeghers syndrome (PJS) is a rare hereditary disorder characterized by inte
  03.02.2023, _KM Pruss, H Chen, Y Liu, W Van Treuren, SK Higginbottom, JB Jarman, CR Fischer, J Mak, B Wong, TM Cowan, MA Fischbach, JL Sonnenburg, D Dodd_
 
 
-_Humans, Female, Male, Animals, Mice, Acyl-CoA Dehydrogenase, Hippurates, Metabolomics, Phenylalanine, Mammals_
+_Animals, Female, Humans, Male, Mice, Acyl-CoA Dehydrogenase, Hippurates, Metabolomics, Phenylalanine_
 The human gut microbiota produces dozens of small molecules that circulate in blood, accumulate to comparable levels as pharmaceutical drugs, and influence host physiology. Despite the importance of these metabolites to human health and disease, the origin of most microbially-produced molecules and their fate in the host remains largely unknown. Here, we uncover a host-microbe co-metabolic pathway for generation of hippuric acid, one of the most abundant organic acids in mammalian urine. Combining stable isotope tracing with bacterial and host genetics, we demonstrate reduction of phenylalanine to phenylpropionic acid by gut bacteria; the host re-oxidizes phenylpropionic acid involving medium-chain acyl-CoA dehydrogenase (MCAD). Generation of germ-free male and female MCAD-/- mice enabled gnotobiotic colonization combined with untargeted metabolomics to identify additional microbial metabolites processed by MCAD in host circulation. Our findings uncover a host-microbe pathway for the abundant, non-toxic phenylalanine metabolite hippurate and identify β-oxidation via MCAD as a novel mechanism by which mammals metabolize microbiota-derived metabolites.
 
 [Source](https://www.nature.com/articles/s41467-023-36138-3)
