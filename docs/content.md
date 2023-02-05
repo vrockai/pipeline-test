@@ -82,9 +82,16 @@
 
 ---
 
-## Viral infection in the ocean—A journey across scales
+## Viral infection in the ocean-A journey across scales.
+ 02.02.2023, _F Vincent, A Vardi_
+
+
+_Humans, Ecosystem, Viruses, Virus Diseases, Bacteria, Oceans and Seas, Seawater_
+Viruses are the most abundant biological entity in the ocean and infect a wide range of microbial life across bacteria, archaea, and eukaryotes. In this essay, we take a journey across several orders of magnitude in the scales of biological organization, time, and space of host-virus interactions in the ocean, aiming to shed light on their ecological relevance. We start from viruses infecting microbial host cells by delivering their genetic material in seconds across nanometer-size membranes, which highjack their host's metabolism in a few minutes to hours, leading to a profound transcriptomic and metabolic rewiring. The outcome of lytic infection leads to a release of virions and signaling molecules that can reach neighboring cells a few millimeters away, resulting in a population whose heterogeneous infection level impacts the surrounding community for days. These population dynamics can leave unique metabolic and biogeochemical fingerprints across scales of kilometers and over several decades. One of the biggest challenges in marine microbiology is to assess the impact of viruses across these scales, from the single cell to the ecosystem level. Here, we argue that the advent of new methodologies and conceptual frameworks represents an exciting time to pursue these efforts and propose a set of important challenges for the field. A better understanding of host-virus interactions across scales will inform models of global ocean ecosystem function in different climate change scenarios.
 
 [Source](https://doi.org/10.1371/journal.pbio.3001966)
+
+10.1371/journal.pbio.3001966
 
 ---
 
