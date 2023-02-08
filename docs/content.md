@@ -1,142 +1,75 @@
-## Cell Symposia: Infection biology in the age of the microbiome
+## Gut microbiota of Parkinson’s disease in an appendectomy cohort: a preliminary study
 
-[Source](https://www.cell-symposia.com/infectionbiology-2023/)
-
----
-
-## 55th Annual Meeting of the European Society for Paediatric Gastroenterology, Hepatology and Nutrition
-
-[Source](https://espghancongress.org/)
+[Source](https://www.nature.com/articles/s41598-023-29219-2)
 
 ---
 
-## Insufficient Evidence of a Breastmilk Microbiota at Six-Weeks Postpartum: A Pilot Study
-
-[Source](https://doi.org/10.3390/nu15030696)
-
----
-
-## Antibiotic treatments to mothers during the perinatal period leaving hidden trouble on infants.
- 26.08.2022, _C Ji, G Zhang, S Xu, Q Xiang, M Huang, M Zhao, X Bai_
+## Microbiota-derived acetate enhances host antiviral response via NLRP3.
+ 08.02.2023, _J Niu, M Cui, X Yang, J Li, Y Yao, Q Guo, A Lu, X Qi, D Zhou, C Zhang, L Zhao, G Meng_
 
 
-_Anti-Bacterial Agents, Bacteria, Drug Resistance, Microbial, Feces, Female, Gastrointestinal Microbiome, Humans, Infant, Infant, Newborn, Pregnancy_
-Antibiotic application during the perinatal period is unavoidable in the clinic, but the potential effects on mothers and infants remain unknown. Herein, 25 breast milk samples from mothers who received cefuroxime (CXM) or CXM + cefoxitin (CFX) treatments and fecal samples from their infants were collected to investigate the undesirable effects of antibiotics on the microbiota of mothers and neonates. Furthermore, five fecal samples of infants, whose mothers had antibiotic treatments, were collected at a 6-month postpartum follow-up visit to evaluate the long-term effects on infants' gut microbiota. Moreover, the relative abundance of antibiotic resistance genes (ARGs) in fecal samples was compared to investigate the transfer of ARGs in the infant gut microbiota. The results indicated that the antibiotic treatments had no influence on the microbiota of breast milk. The dominant bacterial phyla in the fecal samples changed to Firmicutes and Proteobacteria after antibiotic treatments, while the bacterial community showed a recuperative trend at the follow-up visits. In addition, the abundance of ARGs in the infant gut microbiota demonstrated a declining trend in the CXM- and CXM + CFX-treated groups, while ARG abundance presented a significant increasing trend after a 6-month recovery period.
+_Humans, Animals, Mice, NLR Family, Pyrin Domain-Containing 3 Protein, Inflammasomes, Influenza A virus, Microbiota, Acetates, Antiviral Agents_
+Pathogenic viral infections represent a major challenge to human health. Host immune responses to respiratory viruses are closely associated with microbiome and metabolism via the gut-lung axis. It has been known that host defense against influenza A virus (IAV) involves activation of the NLRP3 inflammasome, however, mechanisms behind the protective function of NLRP3 are not fully known. Here we show that an isolated bacterial strain, Bifidobacterium pseudolongum NjM1, enriched in the gut microbiota of Nlrp3-/- mice, protects wild-type but not Nlrp3 deficient mice against IAV infection. This effect depends on the enhanced production of type I interferon (IFN-I) mediated by NjM1-derived acetate. Application of exogenous acetate reproduces the protective effect of NjM1. Mechanistically, NLRP3 bridges GPR43 and MAVS, and promotes the oligomerization and signalling of MAVS; while acetate enhances MAVS aggregation upon GPR43 engagement, leading to elevated IFN-I production. Thus, our data support a model of NLRP3 mediating enhanced induction of IFN-I via acetate-producing bacterium and suggest that the acetate-GPR43-NLRP3-MAVS-IFN-I signalling axis is a potential therapeutic target against respiratory viral infections.
 
-[Source](https://doi.org/10.3390/antibiotics12020258)
+[Source](https://www.nature.com/articles/s41467-023-36323-4)
 
-10.1007/s00431-022-04516-6
+10.1038/s41467-023-36323-4
 
 ---
 
-## Effects of Perinatal Antibiotic Exposure and Neonatal Gut Microbiota
+## Gut microbiota remodeling improves natural aging-related disorders through Akkermansia muciniphila and its derived acetic acid.
+ 06.02.2023, _J Ma, Z Liu, X Gao, Y Bao, Y Hong, X He, W Zhu, Y Li, W Huang, N Zheng, L Sheng, B Zhou, H Chen, H Li_
 
-[Source](https://doi.org/10.3390/antibiotics12020258)
 
----
+Accumulating evidence indicates gut microbiota contributes to aging-related disorders. However, the exact mechanism underlying gut dysbiosis-related pathophysiological changes during aging remains largely unclear. In the current study, we first performed gut microbiota remodeling on old mice by fecal microbiota transplantation (FMT) from young mice, and then characterized the bacteria signature that was specifically altered by FMT. Our results revealed that FMT significantly improved natural aging-related systemic disorders, particularly exerted hepatoprotective effects, and improved glucose sensitivity, hepatosplenomegaly, inflammaging, antioxidative capacity and intestinal barrier. Moreover, FMT particularly increased the abundance of fecal A.muciniphila, which was almost nondetectable in old mice. Interestingly, A.muciniphila supplementation also exerted similar benefits with FMT on old mice. Notably, targeted metabolomics on short chain fatty acids (SCFAs) revealed that only acetic acid was consistently reversed by FMT. Then, acetic acid intervention exerted beneficial actions on both Caenorhabditis elegans and natural aging mice. In conclusion, our current study demonstrated that gut microbiota remodeling improved natural aging-related disorders through A.muciniphila and its derived acetic acid, suggesting that interventions with potent stimulative capacity on A. muciniphila growth and production of acetic acid was alternative and effective way to maintain healthy aging. DATA AVAILABILITY STATEMENT: The data of RNAseq and 16S rRNA gene sequencing can be accessed in NCBI with the accession number PRJNA848996 and PRJNA849355.
 
-## Necrotizing Enterocolitis: The Role of Hypoxia, Gut Microbiome, and Microbial Metabolites
+[Source](https://www.sciencedirect.com/science/article/pii/S1043661823000439)
 
-[Source](https://doi.org/10.3390/ijms24032471)
-
----
-
-## Functional assignment of gut-specific archaeal proteins in the human gut microbiome
-
-[Source](https://doi.org/10.1101/2023.02.01.526569)
+10.1016/j.phrs.2023.106687
 
 ---
 
-## Combining vertebrate mitochondrial 12S rRNA gene sequencing and shotgun metagenomic sequencing to investigate the diet of the leopard cat (<em>Prionailurus bengalensis</em>) in Korea
-
-[Source](https://doi.org/10.1371/journal.pone.0281245)
-
----
-
-## The association between gingivitis and oral spirochetes in young cats and dogs.
- 02.02.2023, _S Yamaki, M Tachibana, H Hachimura, M Ogawa, S Kanegae, H Amimoto, T Shimizu, K Watanabe, M Watarai, A Amimoto_
+## Gut microbiota-derived metabolites mediate the neuroprotective effect of melatonin in cognitive impairment induced by sleep deprivation.
+ 03.02.2023, _X Wang, Z Wang, J Cao, Y Dong, Y Chen_
 
 
-_Cats, Dogs, Animals, Spirochaetales, RNA, Ribosomal, 16S, Gingivitis, Periodontal Diseases, Polymerase Chain Reaction_
-Although gingivitis frequently occurs in young cats, spirochetes are often found in the early stages of periodontal disease. This study was conducted to determine the association between gingivitis and oral spirochetes in young cats and dogs. The degree of gingivitis was evaluated in a total of 68 cats and 31 dogs under one year of age, and plaques were collected from each carnassial. To detect spirochetes or Porphyromonas gulae in plaque samples, 16S rRNA gene was amplified by polymerase chain reaction (PCR) using specific primers. All data were analyzed using Fisher's exact probability test and odds ratio (OR) with a 95% confidence interval (95% CI). The prevalence of gingivitis was significantly higher in young cats (92.6%) than in young dogs (45.2%). The positive rate of spirochetes by PCR in gingivitis cases was 85.4% in young cats and 15.4% in young dogs, and the positive rate of P. gulae was 66.7% in young cats and 15.4% in young dogs. Both results were significantly higher in young cats than in young dogs. In young cats, spirochetes were significantly associated with gingivitis (OR = 7.95; 95% CI = 1.17, 53.83; P &lt; 0.05), but P. gulae was not (OR = 2.44; 95% CI = 0.38, 15.66; P = 0.23). These results suggest that spirochetes may be associated with the early stages of periodontal disease in cats.
+_Animals, Mice, Sleep Deprivation, Gastrointestinal Microbiome, Melatonin, Neuroprotective Agents, Lipopolysaccharides, Toll-Like Receptor 4, Butyrates, Clostridiales, Cognitive Dysfunction_
+Sleep loss is a serious global health concern. Consequences include memory deficits and gastrointestinal dysfunction. Our previous research showed that melatonin can effectively improve cognitive impairment and intestinal microbiota disturbances caused by sleep deprivation (SD). The present study further explored the mechanism by which exogenous melatonin prevents SD-induced cognitive impairments. Here, we established fecal microbiota transplantation, Aeromonas colonization and LPS or butyrate supplementation tests to evaluate the role of the intestinal microbiota and its metabolites in melatonin in alleviating SD-induced memory impairment. RESULTS: Transplantation of the SD-gut microbiota into normal mice induced microglia overactivation and neuronal apoptosis in the hippocampus, cognitive decline, and colonic microbiota disorder, manifesting as increased levels of Aeromonas and LPS and decreased levels of Lachnospiraceae_NK4A136 and butyrate. All these events were reversed with the transplantation of SD + melatonin-gut microbiota. Colonization with Aeromonas and the addition of LPS produced an inflammatory response in the hippocampus and spatial memory impairment in mice. These changes were reversed by supplementation with melatonin, accompanied by decreased levels of Aeromonas and LPS. Butyrate administration to sleep-deprived mice restored inflammatory responses and memory impairment. In vitro, LPS supplementation caused an inflammatory response in BV2 cells, which was improved by butyrate supplementation. This ameliorative effect of butyrate was blocked by pretreatment with MCT1 inhibitor and HDAC3 agonist but was mimicked by TLR4 and p-P65 antagonists. CONCLUSIONS: Gut microbes and their metabolites mediate the ameliorative effects of melatonin on SD-induced cognitive impairment. A feasible mechanism is that melatonin downregulates the levels of Aeromonas and constituent LPS and upregulates the levels of Lachnospiraceae_NK4A136 and butyrate in the colon. These changes lessen the inflammatory response and neuronal apoptosis in the hippocampus through crosstalk between the TLR4/NF-κB and MCT1/ HDAC3 signaling pathways. Video Abstract.
 
-[Source](https://doi.org/10.1371/journal.pone.0281126)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01452-3)
 
-10.1371/journal.pone.0281126
+10.1186/s40168-022-01452-3
 
 ---
 
-## Maternal rumen and milk microbiota shapes the establishment of early-life rumen microbiota in grazing yak calves.
- 29.01.2023, _W Guo, SS Bi, WW Wang, M Zhou, ALA Neves, AA Degen, LL Guan, RJ Long_
+## Impacts of Age on the Gut Microbiota in Captive Giant Pandas
 
-
-Early-life gut microbial colonization and development exert a profound impact on the health and metabolism of the host throughout the life span. The transmission of microbes from the mother to the offspring affects the succession and establishment of the early-life rumen microbiome in newborns, but the contributions of different maternal sites to the rumen microbial establishment remain unclear. In the present study, samples from different dam sites (namely, oral, rumen fluid, milk, and teat skin) and rumen fluid of yak calves were collected at 6 time points between d 7 and 180 postpartum to determine the contributions of the different maternal sites to the establishment of the bacterial and archaeal communities in the rumen during early life. Our analysis demonstrated that the dam's microbial communities clustered according to the sites, and the calves' rumen microbiota resembled that of the dam consistently regardless of fluctuations at d 7 and 14. The dam's rumen microbiota was the major source of the calves' rumen bacteria (7.9%) and archaea (49.7%) compared with the other sites, whereas the potential sources of the calf rumen microbiota from other sites varied according to the age. The contribution of dam's rumen bacteria increased with age from 0.36% at d 7 to 14.8% at d 180, whereas the contribution of the milk microbiota showed the opposite trend, with its contribution reduced from 2.7% at d 7 to 0.2% at d 180. Maternal oral archaea were the main sources of the calves' rumen archaea at d 14 (50.4%), but maternal rumen archaea became the main source gradually and reached 66.2% at d 180. These findings demonstrated the potential microbial transfer from the dam to the offspring that could influence the rumen microbiota colonization and establishment in yak calves raised under grazing regimens, providing the basis for future microbiota manipulation strategies during their early life.
-
-[Source](https://doi.org/10.3168/jds.2022-22655)
-
-10.3168/jds.2022-22655
+[Source](https://www.biorxiv.org/content/10.1101/2023.02.02.526921v1.abstract)
 
 ---
 
-## Fundamentals of biofilm formation in soil: From functionalized self-assembled monolayers to rewilding
-
-[Source](https://doi.org/10.1101/2023.01.30.526320)
-
----
-
-## Local conditions matter: Minimal and variable effects of soil disturbance on microbial communities and functions in European vineyards.
- 02.02.2023, _M Steiner, M Pingel, L Falquet, B Giffard, M Griesser, I Leyer, C Preda, D Uzman, S Bacher, A Reineke_
+## Strain Tracking with Uncertainty Quantification.
+ 07.02.2023, _Y Kim, CJ Worby, S Acharya, LR van Dijk, D Alfonsetti, Z Gromko, P Azimzadeh, K Dodson, G Gerber, S Hultgren, AM Earl, B Berger, TE Gibson_
 
 
-_Soil, Farms, Soil Microbiology, Microbiota, Herbicides_
-Soil tillage or herbicide applications are commonly used in agriculture for weed control. These measures may also represent a disturbance for soil microbial communities and their functions. However, the generality of response patterns of microbial communities and functions to disturbance have rarely been studied at large geographical scales. We investigated how a soil disturbance gradient (low, intermediate, high), realized by either tillage or herbicide application, affects diversity and composition of soil bacterial and fungal communities as well as soil functions in vineyards across five European countries. Microbial alpha-diversity metrics responded to soil disturbance sporadically, but inconsistently across countries. Increasing soil disturbance changed soil microbial community composition at the European level. However, the effects of soil disturbance on the variation of microbial communities were smaller compared to the effects of location and soil covariates. Microbial respiration was consistently impaired by soil disturbance, while effects on decomposition of organic substrates were inconsistent and showed positive and negative responses depending on the respective country. Therefore, we conclude that it is difficult to extrapolate results from one locality to others because microbial communities and environmental conditions vary strongly over larger geographical scales.
+The ability to detect and quantify microbiota over time has a plethora of clinical, basic science, and public health applications. One of the primary means of tracking microbiota is through sequencing technologies. When the microorganism of interest is well characterized or known a priori , targeted sequencing is often used. In many applications, however, untargeted bulk (shotgun) sequencing is more appropriate; for instance, the tracking of infection transmission events and nucleotide variants across multiple genomic loci, or studying the role of multiple genes in a particular phenotype. Given these applications, and the observation that pathogens (e.g. Clostridioides difficile, Escherichia coli, Salmonella enterica ) and other taxa of interest can reside at low relative abundance in the gastrointestinal tract, there is a critical need for algorithms that accurately track low-abundance taxa with strain level resolution. Here we present a sequence quality- and time-aware model, ChronoStrain , that introduces uncertainty quantification to gauge low-abundance species and significantly outperforms the current state-of-the-art on both real and synthetic data. ChronoStrain leverages sequences' quality scores and the samples' temporal information to produce a probability distribution over abundance trajectories for each strain tracked in the model. We demonstrate Chronostrain's improved performance in capturing post-antibiotic E. coli strain blooms among women with recurrent urinary tract infections (UTIs) from the UTI Microbiome (UMB) Project. Other strain tracking models on the same data either show inconsistent temporal colonization or can only track consistently using very coarse groupings. In contrast, our probabilistic outputs can reveal the relationship between low-confidence strains present in the sample that cannot be reliably assigned a single reference label (either due to poor coverage or novelty) while simultaneously calling high-confidence strains that can be unambiguously assigned a label. We also include and analyze newly sequenced cultured samples from the UMB Project.
 
-[Source](https://doi.org/10.1371/journal.pone.0280516)
+[Source](https://www.biorxiv.org/content/10.1101/2023.01.25.525531v1.full)
 
-10.1371/journal.pone.0280516
+10.1101/2023.01.25.525531
 
 ---
 
-## Evidence for a core set of microbial lichen symbionts from a global survey of metagenomes
-
-[Source](https://doi.org/10.1101/2023.02.02.524463)
-
----
-
-## Assessing the biogeography of marine giant viruses in four oceanic transects
-
-[Source](https://doi.org/10.1101/2023.01.30.526306)
-
----
-
-## Cross-domain interactions induce community stability to benthic biofilms in proglacial streams
-
-[Source](https://doi.org/10.1101/2023.01.31.526486)
-
----
-
-## Viral infection in the ocean-A journey across scales.
- 02.02.2023, _F Vincent, A Vardi_
+## Efficient computation of contributional diversity metrics from microbiome data with FuncDiv.
+ 11.01.2023, _GM Douglas, S Kim, MGI Langille, BJ Shapiro_
 
 
-_Humans, Ecosystem, Viruses, Virus Diseases, Bacteria, Oceans and Seas, Seawater_
-Viruses are the most abundant biological entity in the ocean and infect a wide range of microbial life across bacteria, archaea, and eukaryotes. In this essay, we take a journey across several orders of magnitude in the scales of biological organization, time, and space of host-virus interactions in the ocean, aiming to shed light on their ecological relevance. We start from viruses infecting microbial host cells by delivering their genetic material in seconds across nanometer-size membranes, which highjack their host's metabolism in a few minutes to hours, leading to a profound transcriptomic and metabolic rewiring. The outcome of lytic infection leads to a release of virions and signaling molecules that can reach neighboring cells a few millimeters away, resulting in a population whose heterogeneous infection level impacts the surrounding community for days. These population dynamics can leave unique metabolic and biogeochemical fingerprints across scales of kilometers and over several decades. One of the biggest challenges in marine microbiology is to assess the impact of viruses across these scales, from the single cell to the ecosystem level. Here, we argue that the advent of new methodologies and conceptual frameworks represents an exciting time to pursue these efforts and propose a set of important challenges for the field. A better understanding of host-virus interactions across scales will inform models of global ocean ecosystem function in different climate change scenarios.
+_Microbiota, Metagenomics, Software_
+Microbiome datasets with taxa linked to the functions (e.g. genes) they encode are becoming more common as metagenomics sequencing approaches improve. However, these data are challenging to analyze due to their complexity. Summary metrics, such as the alpha and beta diversity of taxa contributing to each function (i.e. contributional diversity), represent one approach to investigate these data, but currently there are no straightforward methods for doing so.
 
-[Source](https://doi.org/10.1371/journal.pbio.3001966)
+[Source](https://academic.oup.com/bioinformatics/article/39/1/btac809/6909011)
 
-10.1371/journal.pbio.3001966
-
----
-
-## Identifying and tracking mobile elements in evolving compost communities yields insights into the nanobiome
-
-[Source](https://doi.org/10.1101/2023.02.02.526783)
-
----
-
-## Comparison of commercial DNA extraction kits for whole metagenome sequencing of human oral, vaginal, and rectal microbiome samples
-
-[Source](https://doi.org/10.1101/2023.02.01.526597)
+10.1093/bioinformatics/btac809
 
 ---
 
