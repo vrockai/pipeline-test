@@ -1,5 +1,5 @@
 ## Colonic Transendoscopic Enteral Tubing Is a New Pathway to Microbial Therapy, Colonic Drainage, and Host-Microbiota Interaction Research.
- 11.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
+ 13.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
 
 
 The limitation of traditional delivery methods for fecal microbiota transplantation (FMT) gave birth to colonic transendoscopic enteral tubing (TET) to address the requirement of frequent FMTs. Colonic TET as a novel endoscopic intervention has received increasing attention in practice since 2015 in China. Emerging studies from multiple centers indicate that colonic TET is a promising, safe, and practical delivery method for microbial therapy and administering medication with high patient satisfaction. Intriguingly, colonic TET has been used to rescue endoscopy-related perforations by draining colonic air and fluid through the TET tube. Recent research based on collecting ileocecal samples through a TET tube has contributed to demonstrating community dynamics in the intestine, and it is expected to be a novel delivery of proof-of-concept in host-microbiota interactions and pharmacological research. The present article aims to review the concept and techniques of TET and to explore microbial therapy, colonic drainage, and microbial research based on colonic TET.
@@ -65,15 +65,15 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Umbrella review: Summary of findings for acupuncture as treatment for radiation-induced xerostomia.
- 13.02.2023, _J Dörfler, M Freuding, C Zaiser, J Büntzel, C Keinki, L Käsmann, J Hübner_
+## Health Care Resource Utilization in Adults Living With Type 1 Diabetes Mellitus in the South African Public Health Sector: Protocol for a 1-Year Retrospective Analysis With a 5-, 10-, and 25-Year Projection.
+ 13.02.2023, _S Bhana, P Naidoo, S Pillay, E Variava, K Naidoo, N Rohitlall, L Sekhuthe, B Pauly_
 
 
-Acupuncture is a common part of complementary medicine. However, traditional Chinese acupuncture has been built on concepts which are not in accordance with science-based medicine. Our aim was to critically assess the evidence presented in systematic reviews (SRs) and meta-analyses (MAs) about the effectiveness of acupuncture on radiotherapy induced xerostomia. A systematic search was conducted in February 2022. We evaluated all SRs/MAs using the AMSTAR-2 instrument. Eight SRs, with 12 controlled studies were included. All SRs summarize that the methodological drawbacks do not allow to give a clear statement about the effectiveness of acupuncture. While objective assessments in most SRs/MAs reported no difference between real and sham acupuncture, some favorable effects on subjective xerostomia symptoms are found. No clinical meaningful effectiveness of acupuncture on xerostomia has been proven so far, but positive subjective findings need to be explored more. While most SRs recommend further studies, studies involving patients with a serious cancer diagnosis are ethically questionable.
+Type 1 diabetes mellitus (T1DM) is less common than type 2 diabetes mellitus but is increasing in frequency in South Africa. It tends to affect younger individuals, and upon diagnosis, exogenous insulin is essential for survival. In South Africa, the health care system is divided into private and public health care systems. The private system is well resourced, whereas the public sector, which treats more than 80% of the population, has minimal resources. There are currently no studies in South Africa, and Africa at large, that have evaluated the immediate and long-term costs of managing people living with T1DM in the public sector.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
 
-10.1002/hed.27297
+10.2196/44308
 
 ---
 
@@ -113,15 +113,15 @@ Acupuncture is a common part of complementary medicine. However, traditional Chi
 
 ---
 
-## A cross-sectional study of university students' pocket money variance and its relationship with digital health literacy and subjective well-being in Ghana.
- 13.02.2023, _F Quansah, F Ankomah, EK Agormedah, S Ntumi, JE Hagan, M Srem-Sai, K Dadaczynski, O Okan, T Schack_
+## Health Care Resource Utilization in Adults Living With Type 1 Diabetes Mellitus in the South African Public Health Sector: Protocol for a 1-Year Retrospective Analysis With a 5-, 10-, and 25-Year Projection.
+ 13.02.2023, _S Bhana, P Naidoo, S Pillay, E Variava, K Naidoo, N Rohitlall, L Sekhuthe, B Pauly_
 
 
-Mental health concerns of university students are gaining more attention since the emergence of the coronavirus disease. Consequently, scholars in education, health and psychology-related fields have attributed the dwindling subjective well-being (SWB) of students to their low levels of digital health literacy (DHL). However, little attention has been paid to an important variable like pocket money (PM) which might serve as a buffer against reduced levels of SWB. In this study, we explored the dynamics of PM and its linkage with DHL and SWB among university students in Ghana.
+Type 1 diabetes mellitus (T1DM) is less common than type 2 diabetes mellitus but is increasing in frequency in South Africa. It tends to affect younger individuals, and upon diagnosis, exogenous insulin is essential for survival. In South Africa, the health care system is divided into private and public health care systems. The private system is well resourced, whereas the public sector, which treats more than 80% of the population, has minimal resources. There are currently no studies in South Africa, and Africa at large, that have evaluated the immediate and long-term costs of managing people living with T1DM in the public sector.
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
 
-10.1002/hsr2.1095
+10.2196/44308
 
 ---
 
@@ -188,15 +188,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Resuscitation in the First 3 Hours of Sepsis-Induced Hypotension Varies by Patient and Hospital Factors.
- 13.02.2023, _JT Chen, RJ Roberts, JE Sevransky, MN Gong_
+## Short-term safety and efficacy of escalating doses of atorvastatin for dyslipidemia in children with predialysis chronic kidney disease stage 2-5.
+ 13.02.2023, _PL Ramesh, P Khandelwal, R Lakshmy, A Sinha, A Bagga, P Hari_
 
 
-Patient and hospital factors affects how we resuscitate patients in the first 3 hours of sepsis-induced hypotension.
+Dyslipidemia is a potentially modifiable risk factor in patients with chronic kidney disease (CKD). Information on the safety and efficacy of statins in pediatric CKD is limited.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1097/CCE.0000000000000859
+10.1007/s00467-023-05887-0
 
 ---
 
@@ -255,15 +255,15 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 
 ---
 
-## Resuscitation in the First 3 Hours of Sepsis-Induced Hypotension Varies by Patient and Hospital Factors.
- 13.02.2023, _JT Chen, RJ Roberts, JE Sevransky, MN Gong_
+## Short-term safety and efficacy of escalating doses of atorvastatin for dyslipidemia in children with predialysis chronic kidney disease stage 2-5.
+ 13.02.2023, _PL Ramesh, P Khandelwal, R Lakshmy, A Sinha, A Bagga, P Hari_
 
 
-Patient and hospital factors affects how we resuscitate patients in the first 3 hours of sepsis-induced hypotension.
+Dyslipidemia is a potentially modifiable risk factor in patients with chronic kidney disease (CKD). Information on the safety and efficacy of statins in pediatric CKD is limited.
 
 [Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
 
-10.1097/CCE.0000000000000859
+10.1007/s00467-023-05887-0
 
 ---
 
