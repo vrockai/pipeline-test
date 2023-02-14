@@ -65,6 +65,18 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
+## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
+ 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
+
+
+Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
+
+10.1007/s13760-023-02204-2
+
+---
+
 ## February 2, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
@@ -240,6 +252,18 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 ## https://t.co/x2ZhgNYdaT
 
 [Source](https://t.co/x2ZhgNYdaT)
+
+---
+
+## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
+ 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
+
+
+Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
+
+[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
+
+10.1007/s13760-023-02204-2
 
 ---
 
