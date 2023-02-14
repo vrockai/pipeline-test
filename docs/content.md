@@ -65,15 +65,15 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Health Care Resource Utilization in Adults Living With Type 1 Diabetes Mellitus in the South African Public Health Sector: Protocol for a 1-Year Retrospective Analysis With a 5-, 10-, and 25-Year Projection.
- 13.02.2023, _S Bhana, P Naidoo, S Pillay, E Variava, K Naidoo, N Rohitlall, L Sekhuthe, B Pauly_
+## Disease burden among Ukrainians forcibly displaced by the 2022 Russian invasion.
+ 13.02.2023, _A Pandey, CR Wells, V Stadnytskyi, SM Moghadas, MV Marathe, P Sah, W Crystal, LA Meyers, BH Singer, O Nesterova, AP Galvani_
 
 
-Type 1 diabetes mellitus (T1DM) is less common than type 2 diabetes mellitus but is increasing in frequency in South Africa. It tends to affect younger individuals, and upon diagnosis, exogenous insulin is essential for survival. In South Africa, the health care system is divided into private and public health care systems. The private system is well resourced, whereas the public sector, which treats more than 80% of the population, has minimal resources. There are currently no studies in South Africa, and Africa at large, that have evaluated the immediate and long-term costs of managing people living with T1DM in the public sector.
+The Russian invasion of Ukraine on February 24, 2022, has displaced more than a quarter of the population. Assessing disease burdens among displaced people is instrumental in informing global public health and humanitarian aid efforts. We estimated the disease burden in Ukrainians displaced both within Ukraine and to other countries by combining a spatiotemporal model of forcible displacement with age- and gender-specific estimates of cardiovascular disease (CVD), diabetes, cancer, HIV, and tuberculosis (TB) in each of Ukraine's 629 raions (i.e., districts). Among displaced Ukrainians as of May 13, we estimated that more than 2.63 million have CVDs, at least 615,000 have diabetes, and over 98,500 have cancer. In addition, more than 86,000 forcibly displaced individuals are living with HIV, and approximately 13,500 have TB. We estimated that the disease prevalence among refugees was lower than the national disease prevalence before the invasion. Accounting for internal displacement and healthcare facilities impacted by the conflict, we estimated that the number of people per hospital has increased by more than two-fold in some areas. As regional healthcare systems come under increasing strain, these estimates can inform the allocation of critical resources under shifting disease burdens.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
 
-10.2196/44308
+10.1073/pnas.2215424120
 
 ---
 
@@ -188,15 +188,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Short-term safety and efficacy of escalating doses of atorvastatin for dyslipidemia in children with predialysis chronic kidney disease stage 2-5.
- 13.02.2023, _PL Ramesh, P Khandelwal, R Lakshmy, A Sinha, A Bagga, P Hari_
+## Disease burden among Ukrainians forcibly displaced by the 2022 Russian invasion.
+ 13.02.2023, _A Pandey, CR Wells, V Stadnytskyi, SM Moghadas, MV Marathe, P Sah, W Crystal, LA Meyers, BH Singer, O Nesterova, AP Galvani_
 
 
-Dyslipidemia is a potentially modifiable risk factor in patients with chronic kidney disease (CKD). Information on the safety and efficacy of statins in pediatric CKD is limited.
+The Russian invasion of Ukraine on February 24, 2022, has displaced more than a quarter of the population. Assessing disease burdens among displaced people is instrumental in informing global public health and humanitarian aid efforts. We estimated the disease burden in Ukrainians displaced both within Ukraine and to other countries by combining a spatiotemporal model of forcible displacement with age- and gender-specific estimates of cardiovascular disease (CVD), diabetes, cancer, HIV, and tuberculosis (TB) in each of Ukraine's 629 raions (i.e., districts). Among displaced Ukrainians as of May 13, we estimated that more than 2.63 million have CVDs, at least 615,000 have diabetes, and over 98,500 have cancer. In addition, more than 86,000 forcibly displaced individuals are living with HIV, and approximately 13,500 have TB. We estimated that the disease prevalence among refugees was lower than the national disease prevalence before the invasion. Accounting for internal displacement and healthcare facilities impacted by the conflict, we estimated that the number of people per hospital has increased by more than two-fold in some areas. As regional healthcare systems come under increasing strain, these estimates can inform the allocation of critical resources under shifting disease burdens.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1007/s00467-023-05887-0
+10.1073/pnas.2215424120
 
 ---
 
@@ -255,15 +255,15 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 
 ---
 
-## Short-term safety and efficacy of escalating doses of atorvastatin for dyslipidemia in children with predialysis chronic kidney disease stage 2-5.
- 13.02.2023, _PL Ramesh, P Khandelwal, R Lakshmy, A Sinha, A Bagga, P Hari_
+## Disease burden among Ukrainians forcibly displaced by the 2022 Russian invasion.
+ 13.02.2023, _A Pandey, CR Wells, V Stadnytskyi, SM Moghadas, MV Marathe, P Sah, W Crystal, LA Meyers, BH Singer, O Nesterova, AP Galvani_
 
 
-Dyslipidemia is a potentially modifiable risk factor in patients with chronic kidney disease (CKD). Information on the safety and efficacy of statins in pediatric CKD is limited.
+The Russian invasion of Ukraine on February 24, 2022, has displaced more than a quarter of the population. Assessing disease burdens among displaced people is instrumental in informing global public health and humanitarian aid efforts. We estimated the disease burden in Ukrainians displaced both within Ukraine and to other countries by combining a spatiotemporal model of forcible displacement with age- and gender-specific estimates of cardiovascular disease (CVD), diabetes, cancer, HIV, and tuberculosis (TB) in each of Ukraine's 629 raions (i.e., districts). Among displaced Ukrainians as of May 13, we estimated that more than 2.63 million have CVDs, at least 615,000 have diabetes, and over 98,500 have cancer. In addition, more than 86,000 forcibly displaced individuals are living with HIV, and approximately 13,500 have TB. We estimated that the disease prevalence among refugees was lower than the national disease prevalence before the invasion. Accounting for internal displacement and healthcare facilities impacted by the conflict, we estimated that the number of people per hospital has increased by more than two-fold in some areas. As regional healthcare systems come under increasing strain, these estimates can inform the allocation of critical resources under shifting disease burdens.
 
 [Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
 
-10.1007/s00467-023-05887-0
+10.1073/pnas.2215424120
 
 ---
 
