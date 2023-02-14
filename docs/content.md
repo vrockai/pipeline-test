@@ -65,18 +65,6 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Disease burden among Ukrainians forcibly displaced by the 2022 Russian invasion.
- 13.02.2023, _A Pandey, CR Wells, V Stadnytskyi, SM Moghadas, MV Marathe, P Sah, W Crystal, LA Meyers, BH Singer, O Nesterova, AP Galvani_
-
-
-The Russian invasion of Ukraine on February 24, 2022, has displaced more than a quarter of the population. Assessing disease burdens among displaced people is instrumental in informing global public health and humanitarian aid efforts. We estimated the disease burden in Ukrainians displaced both within Ukraine and to other countries by combining a spatiotemporal model of forcible displacement with age- and gender-specific estimates of cardiovascular disease (CVD), diabetes, cancer, HIV, and tuberculosis (TB) in each of Ukraine's 629 raions (i.e., districts). Among displaced Ukrainians as of May 13, we estimated that more than 2.63 million have CVDs, at least 615,000 have diabetes, and over 98,500 have cancer. In addition, more than 86,000 forcibly displaced individuals are living with HIV, and approximately 13,500 have TB. We estimated that the disease prevalence among refugees was lower than the national disease prevalence before the invasion. Accounting for internal displacement and healthcare facilities impacted by the conflict, we estimated that the number of people per hospital has increased by more than two-fold in some areas. As regional healthcare systems come under increasing strain, these estimates can inform the allocation of critical resources under shifting disease burdens.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
-
-10.1073/pnas.2215424120
-
----
-
 ## February 2, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
@@ -113,34 +101,9 @@ The Russian invasion of Ukraine on February 24, 2022, has displaced more than a 
 
 ---
 
-## Health Care Resource Utilization in Adults Living With Type 1 Diabetes Mellitus in the South African Public Health Sector: Protocol for a 1-Year Retrospective Analysis With a 5-, 10-, and 25-Year Projection.
- 13.02.2023, _S Bhana, P Naidoo, S Pillay, E Variava, K Naidoo, N Rohitlall, L Sekhuthe, B Pauly_
-
-
-Type 1 diabetes mellitus (T1DM) is less common than type 2 diabetes mellitus but is increasing in frequency in South Africa. It tends to affect younger individuals, and upon diagnosis, exogenous insulin is essential for survival. In South Africa, the health care system is divided into private and public health care systems. The private system is well resourced, whereas the public sector, which treats more than 80% of the population, has minimal resources. There are currently no studies in South Africa, and Africa at large, that have evaluated the immediate and long-term costs of managing people living with T1DM in the public sector.
-
-[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
-10.2196/44308
-
----
-
 ## February 9, 2023
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
----
-
-## Nanomaterials to address the genesis of antibiotic resistance in Escherichia coli.
- 31.01.2023, _M Kaushik, N Sarkar, A Singh, P Kumar_
-
-
-_Infant, Newborn, Child, Humans, Escherichia coli, Microbial Sensitivity Tests, Anti-Bacterial Agents, Drug Resistance, Microbial, Escherichia coli Infections, Nanostructures, Drug Resistance, Bacterial_
-Escherichia is a genus of prokaryotic gram-negative bacteria which forms a vital component of the gut microbiota of homeotherms including humans. Many members of this genus are commensals and pathogenic strains, which are responsible for some of the most common bacterial infections and can be fatal, particularly in the case of newborns and children. The fecal matter in wastewater treatment plants serves as major environmental sinks for the accumulation of Escherichia. The rise in antibiotic pollution and the lateral gene exchange of antibiotic-resistant genes have created antibiotic-resistant Escherichia strains that are often called superbugs. Antibiotic resistance has reached a crisis level that nowadays existing antibiotics are no longer effective. One way of tackling this emerging concern is by using nanomaterials. Punitively, nanomaterials can be used by conjugating with antibodies, biomolecules, and peptides to reduce antibiotic usage, whereas, preventatively, they can be used as either nano-antimicrobial additives or nano-photocatalytic sheets to reduce the microbial population and target the superbugs of environmental Escherichia. In this review, we have explored the threat posed by pathogenic Escherichia strains in the environment, especially in the context of antibiotic-resistant strains. Along with this, we have discussed some nanomaterial-mediated strategies in which the problem can be addressed by using nanomaterials as nanophotocatalytics, antimicrobial additives, drugs, and drug conjugates. This review also presents a brief overview of the ecological threats posed by the overuse of nanomaterials which warrants a balanced and judicious approach to the problem.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
-
-10.3389/fcimb.2022.946184
 
 ---
 
@@ -150,16 +113,9 @@ Escherichia is a genus of prokaryotic gram-negative bacteria which forms a vital
 
 ---
 
-## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting.
- 09.02.2023, _L Dridi, F Altamura, E Gonzalez, O Lui, R Kubinski, R Pidgeon, A Montagut, J Chong, J Xia, CF Maurice, B Castagner_
-
-
-_Humans, Gastrointestinal Microbiome, Flow Cytometry, Polysaccharides, Prebiotics, Oligosaccharides, Dietary Carbohydrates_
-The composition and metabolism of the human gut microbiota are strongly influenced by dietary complex glycans, which cause downstream effects on the physiology and health of hosts. Despite recent advances in our understanding of glycan metabolism by human gut bacteria, we still need methods to link glycans to their consuming bacteria. Here, we use a functional assay to identify and isolate gut bacteria from healthy human volunteers that take up different glycans. The method combines metabolic labeling using fluorescent oligosaccharides with fluorescence-activated cell sorting (FACS), followed by amplicon sequencing or culturomics. Our results demonstrate metabolic labeling in various taxa, such as Prevotella copri, Collinsella aerofaciens and Blautia wexlerae. In vitro validation confirms the ability of most, but not all, labeled species to consume the glycan of interest for growth. In parallel, we show that glycan consumers spanning three major phyla can be isolated from cultures of sorted labeled cells. By linking bacteria to the glycans they consume, this approach increases our basic understanding of glycan metabolism by gut bacteria. Going forward, it could be used to provide insight into the mechanism of prebiotic approaches, where glycans are used to manipulate the gut microbiota composition.
+## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting
 
 [Source](https://www.nature.com/articles/s41467-023-36365-8)
-
-10.1038/s41467-023-36365-8
 
 ---
 
@@ -169,16 +125,9 @@ The composition and metabolism of the human gut microbiota are strongly influenc
 
 ---
 
-## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice.
- 10.02.2023, _C Lee, S Kim, B Kim, WH Holzapfel, CK Hyun_
-
-
-_Animals, Mice, Adiponectin, Cholesterol, Colitis, Dextran Sulfate, Disease Models, Animal, Dysbiosis, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Insulins, Lipid Metabolism, Mice, Inbred C57BL_
-Hepatobiliary abnormality and metabolic disorders are frequently observed complications in patients with inflammatory bowel diseases (IBD). Given that microbiota dysbiosis is a common pathophysiological feature of both IBD and metabolic diseases, we examined how the IBD-induced dysbiosis affects the host metabolism and contributes to the development of associated metabolic diseases using germ-free (GF) mice transplanted with fecal microbiota of DSS-induced colitis mice. There was no significant change in inflammation or barrier integrity in the gut of GF mice that received microbiota from colitis mice compared to their counterparts that were transplanted with microbiota from non-colitis healthy mice. Interestingly, it was observed that the GF recipients of colitis-induced altered microbiota showed a significant decrease in the weight of adipose tissues including mesenteric, epididymal, subcutaneous, and brown fat without any change in body weight, which was accompanied by abnormalities in adipose tissue functions such as fat storage and adiponectin production. Transplantation of colitis-induced altered microbiota also disrupted hepatic lipid metabolism in the GF recipient mice, which was observed by increases in synthesis and accumulation of cholesterol and bile acids in hepatocytes and a decrease in plasma HDL-cholesterol. Additional observations including elevated plasma levels of insulin, decreased hepatic production of FGF21, and decreased levels of fecal short chain fatty acids (SCFAs) and hepatic expression of SCFA receptors led to a conclusion that the transplantation of the colitis-associated dysbiotic microbiota was causally associated with impairments of insulin action and FGF21-adiponectin axis, possibly due to the low SCFA-producing capacity of the colonized microbiota, leading to metabolic abnormalities including adipose tissue dysfunction and dysregulated hepatic lipid metabolism. Our findings suggest potential mechanisms that explain how colitis-associated gut dysbiosis may contribute to the development of metabolic dysfunctions, which could be applied to clinical practice to improve the efficacy of treatment of IBD patients with comorbid metabolic disorders or vice versa.
+## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280850)
-
-10.1371/journal.pone.0280850
 
 ---
 
@@ -188,15 +137,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Disease burden among Ukrainians forcibly displaced by the 2022 Russian invasion.
- 13.02.2023, _A Pandey, CR Wells, V Stadnytskyi, SM Moghadas, MV Marathe, P Sah, W Crystal, LA Meyers, BH Singer, O Nesterova, AP Galvani_
+## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
+ 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
 
 
-The Russian invasion of Ukraine on February 24, 2022, has displaced more than a quarter of the population. Assessing disease burdens among displaced people is instrumental in informing global public health and humanitarian aid efforts. We estimated the disease burden in Ukrainians displaced both within Ukraine and to other countries by combining a spatiotemporal model of forcible displacement with age- and gender-specific estimates of cardiovascular disease (CVD), diabetes, cancer, HIV, and tuberculosis (TB) in each of Ukraine's 629 raions (i.e., districts). Among displaced Ukrainians as of May 13, we estimated that more than 2.63 million have CVDs, at least 615,000 have diabetes, and over 98,500 have cancer. In addition, more than 86,000 forcibly displaced individuals are living with HIV, and approximately 13,500 have TB. We estimated that the disease prevalence among refugees was lower than the national disease prevalence before the invasion. Accounting for internal displacement and healthcare facilities impacted by the conflict, we estimated that the number of people per hospital has increased by more than two-fold in some areas. As regional healthcare systems come under increasing strain, these estimates can inform the allocation of critical resources under shifting disease burdens.
+Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1073/pnas.2215424120
+10.1007/s13760-023-02204-2
 
 ---
 
@@ -252,18 +201,6 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 ## https://t.co/x2ZhgNYdaT
 
 [Source](https://t.co/x2ZhgNYdaT)
-
----
-
-## Disease burden among Ukrainians forcibly displaced by the 2022 Russian invasion.
- 13.02.2023, _A Pandey, CR Wells, V Stadnytskyi, SM Moghadas, MV Marathe, P Sah, W Crystal, LA Meyers, BH Singer, O Nesterova, AP Galvani_
-
-
-The Russian invasion of Ukraine on February 24, 2022, has displaced more than a quarter of the population. Assessing disease burdens among displaced people is instrumental in informing global public health and humanitarian aid efforts. We estimated the disease burden in Ukrainians displaced both within Ukraine and to other countries by combining a spatiotemporal model of forcible displacement with age- and gender-specific estimates of cardiovascular disease (CVD), diabetes, cancer, HIV, and tuberculosis (TB) in each of Ukraine's 629 raions (i.e., districts). Among displaced Ukrainians as of May 13, we estimated that more than 2.63 million have CVDs, at least 615,000 have diabetes, and over 98,500 have cancer. In addition, more than 86,000 forcibly displaced individuals are living with HIV, and approximately 13,500 have TB. We estimated that the disease prevalence among refugees was lower than the national disease prevalence before the invasion. Accounting for internal displacement and healthcare facilities impacted by the conflict, we estimated that the number of people per hospital has increased by more than two-fold in some areas. As regional healthcare systems come under increasing strain, these estimates can inform the allocation of critical resources under shifting disease burdens.
-
-[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
-
-10.1073/pnas.2215424120
 
 ---
 
