@@ -65,18 +65,6 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Trends and Costs of US Telehealth Use Among Patients With Cardiovascular Disease Before and During the COVID-19 Pandemic.
- 15.02.2023, _JS Lee, K Lowe Beasley, MW Schooley, F Luo_
-
-
-Background The COVID-19 pandemic affected outpatient care delivery and patients' access to health care. However, no prior studies have documented telehealth use among patients with cardiovascular disease. Methods and Results We documented the number of telehealth and in-person outpatient encounters per 100 patients with cardiovascular disease and the percentage of telehealth encounters from January 2019 to June 2021, and the average payments per telehealth and in-person encounters across a 12-month period (July 2020-June 2021) using the MarketScan commercial database. From February 2020 to April 2020, the number of in-person encounters per 100 patients with cardiovascular disease decreased from 304.2 to 147.7, whereas that of telehealth encounters increased from 0.29 to 25.3. The number of in-person outpatient encounters then increased to 280.7 in June 2020, fluctuated between 268.1 and 346.4 afterward, and ended at 268.1 in June 2021, lower than the prepandemic levels. The number of telehealth encounters dropped to 16.8 in June 2020, fluctuated between 8.8 and 16.6 afterward, and ended at 8.8 in June 2021, higher than the prepandemic levels. Patients who were aged 18 to 35 years, women, and living in urban areas had higher percentages of telehealth encounters than those who were aged 35 to 64 years, men, and living in rural areas, respectively. The mean (95% CI) telehealth and in-person outpatient encounter costs per visit were $112.8 (95% CI, $112.4-$113.2) and $161.4 (95% CI, $160.4- $162.4), respectively. Conclusions There were large fluctuations in telehealth and in-person outpatient encounters during the pandemic. Our results provide insight into increased telehealth use among patients with cardiovascular disease after telehealth policy changes were implemented during the pandemic.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
-
-10.1161/JAHA.122.028713
-
----
-
 ## February 2, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
@@ -116,19 +104,6 @@ Background The COVID-19 pandemic affected outpatient care delivery and patients'
 ## February 9, 2023
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
----
-
-## The Impact of Non-Pathogenic Bacteria on the Spread of Virulence and Resistance Genes.
- 14.02.2023, _F Dionisio, CPF Domingues, JS Rebelo, F Monteiro, T Nogueira_
-
-
-_Humans, Virulence, Bacteria, Anti-Bacterial Agents, Microbiota_
-This review discusses the fate of antimicrobial resistance and virulence genes frequently present among microbiomes. A central concept in epidemiology is the mean number of hosts colonized by one infected host in a population of susceptible hosts: R0. It characterizes the disease's epidemic potential because the pathogen continues its propagation through susceptible hosts if it is above one. R0 is proportional to the average duration of infections, but non-pathogenic microorganisms do not cause host death, and hosts do not need to be rid of them. Therefore, commensal bacteria may colonize hosts for prolonged periods, including those harboring drug resistance or even a few virulence genes. Thus, their R0 is likely to be (much) greater than one, with peculiar consequences for the spread of virulence and resistance genes. For example, computer models that simulate the spread of these genes have shown that their diversities should correlate positively throughout microbiomes. Bioinformatics analysis with real data corroborates this expectation. Those simulations also anticipate that, contrary to the common wisdom, human's microbiomes with a higher diversity of both gene types are the ones that took antibiotics longer ago rather than recently. Here, we discuss the mechanisms and robustness behind these predictions and other public health consequences.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
-
-10.3390/ijms24031967
 
 ---
 
@@ -176,15 +151,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Trends and Costs of US Telehealth Use Among Patients With Cardiovascular Disease Before and During the COVID-19 Pandemic.
- 15.02.2023, _JS Lee, K Lowe Beasley, MW Schooley, F Luo_
+## Prevalence and Prognostic Significance of Bradyarrhythmias in Patients Screened for Atrial Fibrillation vs Usual Care: Post Hoc Analysis of the LOOP Randomized Clinical Trial.
+ 15.02.2023, _SZ Diederichsen, LY Xing, DM Frodi, EK Kongebro, KJ Haugan, C Graff, S Højberg, D Krieger, A Brandes, L Køber, JH Svendsen_
 
 
-Background The COVID-19 pandemic affected outpatient care delivery and patients' access to health care. However, no prior studies have documented telehealth use among patients with cardiovascular disease. Methods and Results We documented the number of telehealth and in-person outpatient encounters per 100 patients with cardiovascular disease and the percentage of telehealth encounters from January 2019 to June 2021, and the average payments per telehealth and in-person encounters across a 12-month period (July 2020-June 2021) using the MarketScan commercial database. From February 2020 to April 2020, the number of in-person encounters per 100 patients with cardiovascular disease decreased from 304.2 to 147.7, whereas that of telehealth encounters increased from 0.29 to 25.3. The number of in-person outpatient encounters then increased to 280.7 in June 2020, fluctuated between 268.1 and 346.4 afterward, and ended at 268.1 in June 2021, lower than the prepandemic levels. The number of telehealth encounters dropped to 16.8 in June 2020, fluctuated between 8.8 and 16.6 afterward, and ended at 8.8 in June 2021, higher than the prepandemic levels. Patients who were aged 18 to 35 years, women, and living in urban areas had higher percentages of telehealth encounters than those who were aged 35 to 64 years, men, and living in rural areas, respectively. The mean (95% CI) telehealth and in-person outpatient encounter costs per visit were $112.8 (95% CI, $112.4-$113.2) and $161.4 (95% CI, $160.4- $162.4), respectively. Conclusions There were large fluctuations in telehealth and in-person outpatient encounters during the pandemic. Our results provide insight into increased telehealth use among patients with cardiovascular disease after telehealth policy changes were implemented during the pandemic.
+There is increasing interest in heart rhythm monitoring and technologies to detect subclinical atrial fibrillation (AF), which may lead to incidental diagnosis of bradyarrhythmias.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1161/JAHA.122.028713
+10.1001/jamacardio.2022.5526
 
 ---
 
