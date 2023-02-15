@@ -1,5 +1,5 @@
 ## Colonic Transendoscopic Enteral Tubing Is a New Pathway to Microbial Therapy, Colonic Drainage, and Host-Microbiota Interaction Research.
- 13.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
+ 14.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
 
 
 The limitation of traditional delivery methods for fecal microbiota transplantation (FMT) gave birth to colonic transendoscopic enteral tubing (TET) to address the requirement of frequent FMTs. Colonic TET as a novel endoscopic intervention has received increasing attention in practice since 2015 in China. Emerging studies from multiple centers indicate that colonic TET is a promising, safe, and practical delivery method for microbial therapy and administering medication with high patient satisfaction. Intriguingly, colonic TET has been used to rescue endoscopy-related perforations by draining colonic air and fluid through the TET tube. Recent research based on collecting ileocecal samples through a TET tube has contributed to demonstrating community dynamics in the intestine, and it is expected to be a novel delivery of proof-of-concept in host-microbiota interactions and pharmacological research. The present article aims to review the concept and techniques of TET and to explore microbial therapy, colonic drainage, and microbial research based on colonic TET.
@@ -65,15 +65,15 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
- 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
+## Epidemiologic Study of Diarrhea Pathogens Detected by Multiplex Real-Time PCR: a Single Center Study During 1 Year.
+ 14.02.2023, _YJ Kim, MC Cho_
 
 
-Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
+Acute gastroenteritis is one of the major causes of morbidity and mortality worldwide, especially in children and the elderly. The identification of various diarrhea-causing bacteria using multiplex polymerase chain reaction (PCR) and rapid antigen testing has enabled a more detailed analysis of diarrhea-causing pathogens. Pre-vious reports have a limitation in that they do not include data on multiple infections in which two or more infectious agents are simultaneously detected, and there are no data on clinical information. We investigated various diarrhea-causing bacteria and viruses detected by multiplex real-time PCR for one year at a single institution.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
 
-10.1007/s13760-023-02204-2
+10.7754/Clin.Lab.2022.220707
 
 ---
 
@@ -113,34 +113,22 @@ Although an association between COVID-19 vaccination and Bell's palsy (BP) has b
 
 ---
 
-## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
- 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
-
-
-Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
-
-[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
-10.1007/s13760-023-02204-2
-
----
-
 ## February 9, 2023
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
 
 ---
 
-## Nanomaterials to address the genesis of antibiotic resistance in Escherichia coli.
- 31.01.2023, _M Kaushik, N Sarkar, A Singh, P Kumar_
+## The Impact of Non-Pathogenic Bacteria on the Spread of Virulence and Resistance Genes.
+ 14.02.2023, _F Dionisio, CPF Domingues, JS Rebelo, F Monteiro, T Nogueira_
 
 
-_Infant, Newborn, Child, Humans, Escherichia coli, Microbial Sensitivity Tests, Anti-Bacterial Agents, Drug Resistance, Microbial, Escherichia coli Infections, Nanostructures, Drug Resistance, Bacterial_
-Escherichia is a genus of prokaryotic gram-negative bacteria which forms a vital component of the gut microbiota of homeotherms including humans. Many members of this genus are commensals and pathogenic strains, which are responsible for some of the most common bacterial infections and can be fatal, particularly in the case of newborns and children. The fecal matter in wastewater treatment plants serves as major environmental sinks for the accumulation of Escherichia. The rise in antibiotic pollution and the lateral gene exchange of antibiotic-resistant genes have created antibiotic-resistant Escherichia strains that are often called superbugs. Antibiotic resistance has reached a crisis level that nowadays existing antibiotics are no longer effective. One way of tackling this emerging concern is by using nanomaterials. Punitively, nanomaterials can be used by conjugating with antibodies, biomolecules, and peptides to reduce antibiotic usage, whereas, preventatively, they can be used as either nano-antimicrobial additives or nano-photocatalytic sheets to reduce the microbial population and target the superbugs of environmental Escherichia. In this review, we have explored the threat posed by pathogenic Escherichia strains in the environment, especially in the context of antibiotic-resistant strains. Along with this, we have discussed some nanomaterial-mediated strategies in which the problem can be addressed by using nanomaterials as nanophotocatalytics, antimicrobial additives, drugs, and drug conjugates. This review also presents a brief overview of the ecological threats posed by the overuse of nanomaterials which warrants a balanced and judicious approach to the problem.
+_Humans, Virulence, Bacteria, Anti-Bacterial Agents, Microbiota_
+This review discusses the fate of antimicrobial resistance and virulence genes frequently present among microbiomes. A central concept in epidemiology is the mean number of hosts colonized by one infected host in a population of susceptible hosts: R0. It characterizes the disease's epidemic potential because the pathogen continues its propagation through susceptible hosts if it is above one. R0 is proportional to the average duration of infections, but non-pathogenic microorganisms do not cause host death, and hosts do not need to be rid of them. Therefore, commensal bacteria may colonize hosts for prolonged periods, including those harboring drug resistance or even a few virulence genes. Thus, their R0 is likely to be (much) greater than one, with peculiar consequences for the spread of virulence and resistance genes. For example, computer models that simulate the spread of these genes have shown that their diversities should correlate positively throughout microbiomes. Bioinformatics analysis with real data corroborates this expectation. Those simulations also anticipate that, contrary to the common wisdom, human's microbiomes with a higher diversity of both gene types are the ones that took antibiotics longer ago rather than recently. Here, we discuss the mechanisms and robustness behind these predictions and other public health consequences.
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
 
-10.3389/fcimb.2022.946184
+10.3390/ijms24031967
 
 ---
 
@@ -169,16 +157,9 @@ The composition and metabolism of the human gut microbiota are strongly influenc
 
 ---
 
-## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice.
- 10.02.2023, _C Lee, S Kim, B Kim, WH Holzapfel, CK Hyun_
-
-
-_Animals, Mice, Adiponectin, Cholesterol, Colitis, Dextran Sulfate, Disease Models, Animal, Dysbiosis, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Insulins, Lipid Metabolism, Mice, Inbred C57BL_
-Hepatobiliary abnormality and metabolic disorders are frequently observed complications in patients with inflammatory bowel diseases (IBD). Given that microbiota dysbiosis is a common pathophysiological feature of both IBD and metabolic diseases, we examined how the IBD-induced dysbiosis affects the host metabolism and contributes to the development of associated metabolic diseases using germ-free (GF) mice transplanted with fecal microbiota of DSS-induced colitis mice. There was no significant change in inflammation or barrier integrity in the gut of GF mice that received microbiota from colitis mice compared to their counterparts that were transplanted with microbiota from non-colitis healthy mice. Interestingly, it was observed that the GF recipients of colitis-induced altered microbiota showed a significant decrease in the weight of adipose tissues including mesenteric, epididymal, subcutaneous, and brown fat without any change in body weight, which was accompanied by abnormalities in adipose tissue functions such as fat storage and adiponectin production. Transplantation of colitis-induced altered microbiota also disrupted hepatic lipid metabolism in the GF recipient mice, which was observed by increases in synthesis and accumulation of cholesterol and bile acids in hepatocytes and a decrease in plasma HDL-cholesterol. Additional observations including elevated plasma levels of insulin, decreased hepatic production of FGF21, and decreased levels of fecal short chain fatty acids (SCFAs) and hepatic expression of SCFA receptors led to a conclusion that the transplantation of the colitis-associated dysbiotic microbiota was causally associated with impairments of insulin action and FGF21-adiponectin axis, possibly due to the low SCFA-producing capacity of the colonized microbiota, leading to metabolic abnormalities including adipose tissue dysfunction and dysregulated hepatic lipid metabolism. Our findings suggest potential mechanisms that explain how colitis-associated gut dysbiosis may contribute to the development of metabolic dysfunctions, which could be applied to clinical practice to improve the efficacy of treatment of IBD patients with comorbid metabolic disorders or vice versa.
+## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280850)
-
-10.1371/journal.pone.0280850
 
 ---
 
@@ -188,15 +169,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
- 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
+## Molecular-Guided Off-Label Targeted Therapy in a Large-Scale Precision Oncology Program.
+ 14.02.2023, _V Vashistha, E Katsoulakis, A Guo, M Price, S Ahmed, MJ Kelley_
 
 
-Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
+Increasing utilization of comprehensive genomic profiling (CGP) and a growing number of targeted agents (TAs) have led to substantial improvements in outcomes among patients with cancer with actionable mutations. We sought to evaluate real-world experience with off-label TAs among Veterans who underwent CGP.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1007/s13760-023-02204-2
+10.1200/PO.22.00518
 
 ---
 
@@ -252,18 +233,6 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 ## https://t.co/x2ZhgNYdaT
 
 [Source](https://t.co/x2ZhgNYdaT)
-
----
-
-## Risk and characteristics of Bell's palsy in adults as an adverse event following COVID-19 vaccination: a retrospective study.
- 13.02.2023, _S Kim, M Kang, JS Park, HY Seok_
-
-
-Although an association between COVID-19 vaccination and Bell's palsy (BP) has been reported, a clear causal relationship has not been elucidated. We investigated the risk and clinical characteristics of BP after COVID-19 vaccination.
-
-[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
-
-10.1007/s13760-023-02204-2
 
 ---
 
