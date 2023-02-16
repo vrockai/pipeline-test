@@ -113,16 +113,9 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting.
- 09.02.2023, _L Dridi, F Altamura, E Gonzalez, O Lui, R Kubinski, R Pidgeon, A Montagut, J Chong, J Xia, CF Maurice, B Castagner_
-
-
-_Humans, Gastrointestinal Microbiome, Flow Cytometry, Polysaccharides, Prebiotics, Oligosaccharides, Dietary Carbohydrates_
-The composition and metabolism of the human gut microbiota are strongly influenced by dietary complex glycans, which cause downstream effects on the physiology and health of hosts. Despite recent advances in our understanding of glycan metabolism by human gut bacteria, we still need methods to link glycans to their consuming bacteria. Here, we use a functional assay to identify and isolate gut bacteria from healthy human volunteers that take up different glycans. The method combines metabolic labeling using fluorescent oligosaccharides with fluorescence-activated cell sorting (FACS), followed by amplicon sequencing or culturomics. Our results demonstrate metabolic labeling in various taxa, such as Prevotella copri, Collinsella aerofaciens and Blautia wexlerae. In vitro validation confirms the ability of most, but not all, labeled species to consume the glycan of interest for growth. In parallel, we show that glycan consumers spanning three major phyla can be isolated from cultures of sorted labeled cells. By linking bacteria to the glycans they consume, this approach increases our basic understanding of glycan metabolism by gut bacteria. Going forward, it could be used to provide insight into the mechanism of prebiotic approaches, where glycans are used to manipulate the gut microbiota composition.
+## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting
 
 [Source](https://www.nature.com/articles/s41467-023-36365-8)
-
-10.1038/s41467-023-36365-8
 
 ---
 
@@ -132,34 +125,15 @@ The composition and metabolism of the human gut microbiota are strongly influenc
 
 ---
 
-## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice.
- 10.02.2023, _C Lee, S Kim, B Kim, WH Holzapfel, CK Hyun_
-
-
-_Animals, Mice, Adiponectin, Cholesterol, Colitis, Dextran Sulfate, Disease Models, Animal, Dysbiosis, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Insulins, Lipid Metabolism, Mice, Inbred C57BL_
-Hepatobiliary abnormality and metabolic disorders are frequently observed complications in patients with inflammatory bowel diseases (IBD). Given that microbiota dysbiosis is a common pathophysiological feature of both IBD and metabolic diseases, we examined how the IBD-induced dysbiosis affects the host metabolism and contributes to the development of associated metabolic diseases using germ-free (GF) mice transplanted with fecal microbiota of DSS-induced colitis mice. There was no significant change in inflammation or barrier integrity in the gut of GF mice that received microbiota from colitis mice compared to their counterparts that were transplanted with microbiota from non-colitis healthy mice. Interestingly, it was observed that the GF recipients of colitis-induced altered microbiota showed a significant decrease in the weight of adipose tissues including mesenteric, epididymal, subcutaneous, and brown fat without any change in body weight, which was accompanied by abnormalities in adipose tissue functions such as fat storage and adiponectin production. Transplantation of colitis-induced altered microbiota also disrupted hepatic lipid metabolism in the GF recipient mice, which was observed by increases in synthesis and accumulation of cholesterol and bile acids in hepatocytes and a decrease in plasma HDL-cholesterol. Additional observations including elevated plasma levels of insulin, decreased hepatic production of FGF21, and decreased levels of fecal short chain fatty acids (SCFAs) and hepatic expression of SCFA receptors led to a conclusion that the transplantation of the colitis-associated dysbiotic microbiota was causally associated with impairments of insulin action and FGF21-adiponectin axis, possibly due to the low SCFA-producing capacity of the colonized microbiota, leading to metabolic abnormalities including adipose tissue dysfunction and dysregulated hepatic lipid metabolism. Our findings suggest potential mechanisms that explain how colitis-associated gut dysbiosis may contribute to the development of metabolic dysfunctions, which could be applied to clinical practice to improve the efficacy of treatment of IBD patients with comorbid metabolic disorders or vice versa.
+## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280850)
-
-10.1371/journal.pone.0280850
 
 ---
 
 ## https://t.co/9ABypLiRAj
 
 [Source](https://t.co/9ABypLiRAj)
-
----
-
-## Prevalence and Prognostic Significance of Bradyarrhythmias in Patients Screened for Atrial Fibrillation vs Usual Care: Post Hoc Analysis of the LOOP Randomized Clinical Trial.
- 15.02.2023, _SZ Diederichsen, LY Xing, DM Frodi, EK Kongebro, KJ Haugan, C Graff, S Højberg, D Krieger, A Brandes, L Køber, JH Svendsen_
-
-
-There is increasing interest in heart rhythm monitoring and technologies to detect subclinical atrial fibrillation (AF), which may lead to incidental diagnosis of bradyarrhythmias.
-
-[Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
-
-10.1001/jamacardio.2022.5526
 
 ---
 
@@ -175,15 +149,9 @@ There is increasing interest in heart rhythm monitoring and technologies to dete
 
 ---
 
-## uBin - a manual refining tool for genomes from metagenomes.
- 10.02.2023, _TLV Bornemann, SP Esser, TL Stach, T Burg, AJ Probst_
-
-
-Resolving bacterial and archaeal genomes from metagenomes has revolutionized our understanding of Earth's biomes yet producing high quality genomes from assembled fragments has been an ever-standing problem. While automated binning software and their combination produce prokaryotic bins in high throughput, their manual refinement has been slow, sometimes difficult or missing entirely facilitating error propagation in public databases. Here, we present uBin, a GUI-based, standalone bin refiner that runs on all major operating platforms and was additionally designed for educational purposes. When applied to the public CAMI dataset, refinement of bins using GC content, coverage and taxonomy was able to improve 78.9% of bins by decreasing their contamination. We also applied the bin refiner as a standalone binner to public metagenomes from the International Space Station and demonstrate the recovery of near-complete genomes, whose replication indices indicate active proliferation of microbes in Earth's lower orbit. uBin is an easy to install software for bin refinement, binning of simple metagenomes and communication of metagenomic results to other scientists and in classrooms. The software and its helper scripts are open source and available under https://github.com/ProbstLab/uBin. This article is protected by copyright. All rights reserved.
+## uBin – a manual refining tool for genomes from metagenomes 
 
 [Source](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16351)
-
-10.1111/1462-2920.16351
 
 ---
 
@@ -193,16 +161,9 @@ Resolving bacterial and archaeal genomes from metagenomes has revolutionized our
 
 ---
 
-## The virtual microbiome: A computational framework to evaluate microbiome analyses.
- 10.02.2023, _B Serrano-Antón, F Rodríguez-Ventura, P Colomer-Vidal, RA Cigliano, CF Arias, F Bertocchini_
-
-
-_Animals, Reproducibility of Results, Microbiota, Bacteria, Larva, Moths_
-Microbiomes have been the focus of a substantial research effort in the last decades. The composition of microbial populations is normally determined by comparing DNA sequences sampled from those populations with the sequences stored in genomic databases. Therefore, the amount of information available in databanks should be expected to constrain the accuracy of microbiome analyses. Albeit normally ignored in microbiome studies, this constraint could severely compromise the reliability of microbiome data. To test this hypothesis, we generated virtual bacterial populations that exhibit the ecological structure of real-world microbiomes. Confronting the analyses of virtual microbiomes with their original composition revealed critical issues in the current approach to characterizing microbiomes, issues that were empirically confirmed by analyzing the microbiome of Galleria mellonella larvae. To reduce the uncertainty of microbiome data, the effort in the field must be channeled towards significantly increasing the amount of available genomic information and optimizing the use of this information.
+## The virtual microbiome: A computational framework to evaluate microbiome analyses 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280391)
-
-10.1371/journal.pone.0280391
 
 ---
 
