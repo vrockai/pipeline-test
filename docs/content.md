@@ -65,15 +65,15 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## The Association Between Enhanced Recovery After Cardiac Surgery-Guided Analgesics and Postoperative Delirium.
- 15.02.2023, _CA Jelly, JC Clifton, FT Billings, A Hernandez, AJ Schaffer, ME Shotwell, RE Freundlich_
+## Iatrogenic factors of Helicobacter pylori eradication failure: lessons from the frontline.
+ 16.02.2023, _J Xie, D Liu, J Peng, S Wu, D Liu, Y Xie_
 
 
-Delirium is a common postoperative complication associated with death and long-term cognitive impairment. The authors studied the association between opioid-sparing anesthetics, incorporating Enhanced Recovery After Cardiac Surgery (ERACS)-guided analgesics and postoperative delirium.
+Iatrogenic factors play an important role in H. pylori eradication failure whereas it can be easily missed. Therefore, we aimed to investigate and analyze these related iatrogenic factors of H. pylori eradication failure.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
 
-10.1053/j.jvca.2022.12.023
+10.1080/14787210.2023.2181788
 
 ---
 
@@ -113,15 +113,15 @@ Delirium is a common postoperative complication associated with death and long-t
 
 ---
 
-## Clinical Profile of Chronic Cluster Headaches in a Regional Headache Center in Japan.
- 15.02.2023, _S Kikui, D Danno, T Takeshima_
+## Chest tube-free video-assisted thoracoscopic surgery secured by quantitative air leak monitoring: a case series.
+ 16.02.2023, _Q Li, Y Jiang, J Ding, H Li, W Zhang, H Chen, H Xu, Z Xia, L Duan, L Lin_
 
 
-Objective Little is known about the prevalence and characteristics of chronic cluster headache (CCH) in Japan. We therefore characterized the clinical profile of CCH in Japan by surveying patients with CCH who were registered at a Japanese regional headache center. We also reviewed the existing literature for the prevalence and clinical characteristics of CCH reported in various populations. Methods In this single-center retrospective study, we assessed consecutive patients with cluster headache (CH) who visited a regional tertiary headache center between February 2011 and July 2020. They were treated following the Clinical Practice Guideline for Chronic Headache 2013. We compared their demographic characteristics and clinical features according to the CCH onset pattern (primary vs. secondary). Results Of 420 patients with CH, 19 (4.2%) had CCH (9 primary and 10 secondary). The incidence of CCH in Japan is relatively low compared to that in Western countries but is comparable to that in other Asian countries. CCH showed a higher predominance of men than women. Compared to primary CCH, secondary CCH included a higher proportion of current smokers and older patients during clinic visits. Subcutaneous sumatriptan and oxygen inhalation were the most common abortive treatments, and oral prednisolone and verapamil were the most common preventive treatments. Home oxygen therapy was effective in six of seven patients. Only two patients with coexisting migraine received calcitonin gene-related peptide (CGRP)-targeted therapies. Conclusions CCH remains refractory to treatment. Improving treatment outcomes will require maximizing the use of currently available drugs and expanding the use of neuromodulation, nerve block, and CGRP-targeted therapies.
+Although chest tube-omitted video-assisted thoracoscopic surgery (VATS) has been proven to be safe and efficacious, its universal application is precluded by a varying morbidity rate due to a lack of standardization. Since digital chest drainage has already shown improved accuracy and consistency in the management of postoperative air leak, we incorporated it in the strategy of intraoperative chest tube withdrawal, aiming to achieve better results.
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
 
-10.2169/internalmedicine.9557-22
+10.21037/jtd-22-1749
 
 ---
 
@@ -188,15 +188,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## The interrelations between psychological outcome trajectories and resource changes amid large-scale disasters: A growth mixture modeling analysis.
- 15.02.2023, _TJ Tao, L Liang, H Liu, SE Hobfoll, WK Hou, GA Bonanno_
+## Chest tube-free video-assisted thoracoscopic surgery secured by quantitative air leak monitoring: a case series.
+ 16.02.2023, _Q Li, Y Jiang, J Ding, H Li, W Zhang, H Chen, H Xu, Z Xia, L Duan, L Lin_
 
 
-Currently little is known about the interrelations between changes in psychiatric symptoms and changes in resources (personal, social, financial) amid large-scale disasters. This study investigated trajectories of psychiatric symptoms and their relationships with different patterns of changes in personal, social, and financial resources between 2020 and 2022 amid the COVID-19 pandemic. A population-representative sample (N = 1333) was recruited to complete self-report instruments at the pandemic's acute phase (February-July 2020, T1), and again at 1-year (March-August 2021, T2) and 1.5-year (September 2021-February 2022, T3) follow-ups. Respondents reported depressive and anxiety symptoms, self-efficacy, perceived social support, and financial capacity. Growth mixture modeling (GMM) identified four trajectories of depressive and anxiety symptoms: resilience (72.39-74.19%), recovery (8.40-11.93%), delayed distress (7.20-7.35%), and chronic distress (8.33-10.20%). Four patterns were demonstrated in resource changes: persistent high resources (40.89-47.64%), resource gain (12.08-15.60%), resource loss (6.30-10.43%), and persistent low resources (28.73-36.61%). Loss and gain in financial resources characterized chronic distress and resilience, respectively. Loss in personal resources characterized delayed distress, whereas loss or no gain in social resources was related to chronic/delayed distress. Respondents in resilience were also more likely to have persistent high resources while those with delayed/chronic distress were more likely to have persistent low resources. These results provide an initial evidence base for advancing current understanding on trajectories of resilience and psychopathology in the context of resource changes during and after large-scale disasters.
+Although chest tube-omitted video-assisted thoracoscopic surgery (VATS) has been proven to be safe and efficacious, its universal application is precluded by a varying morbidity rate due to a lack of standardization. Since digital chest drainage has already shown improved accuracy and consistency in the management of postoperative air leak, we incorporated it in the strategy of intraoperative chest tube withdrawal, aiming to achieve better results.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1038/s41398-023-02350-4
+10.21037/jtd-22-1749
 
 ---
 
@@ -255,15 +255,15 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 
 ---
 
-## The interrelations between psychological outcome trajectories and resource changes amid large-scale disasters: A growth mixture modeling analysis.
- 15.02.2023, _TJ Tao, L Liang, H Liu, SE Hobfoll, WK Hou, GA Bonanno_
+## Chest tube-free video-assisted thoracoscopic surgery secured by quantitative air leak monitoring: a case series.
+ 16.02.2023, _Q Li, Y Jiang, J Ding, H Li, W Zhang, H Chen, H Xu, Z Xia, L Duan, L Lin_
 
 
-Currently little is known about the interrelations between changes in psychiatric symptoms and changes in resources (personal, social, financial) amid large-scale disasters. This study investigated trajectories of psychiatric symptoms and their relationships with different patterns of changes in personal, social, and financial resources between 2020 and 2022 amid the COVID-19 pandemic. A population-representative sample (N = 1333) was recruited to complete self-report instruments at the pandemic's acute phase (February-July 2020, T1), and again at 1-year (March-August 2021, T2) and 1.5-year (September 2021-February 2022, T3) follow-ups. Respondents reported depressive and anxiety symptoms, self-efficacy, perceived social support, and financial capacity. Growth mixture modeling (GMM) identified four trajectories of depressive and anxiety symptoms: resilience (72.39-74.19%), recovery (8.40-11.93%), delayed distress (7.20-7.35%), and chronic distress (8.33-10.20%). Four patterns were demonstrated in resource changes: persistent high resources (40.89-47.64%), resource gain (12.08-15.60%), resource loss (6.30-10.43%), and persistent low resources (28.73-36.61%). Loss and gain in financial resources characterized chronic distress and resilience, respectively. Loss in personal resources characterized delayed distress, whereas loss or no gain in social resources was related to chronic/delayed distress. Respondents in resilience were also more likely to have persistent high resources while those with delayed/chronic distress were more likely to have persistent low resources. These results provide an initial evidence base for advancing current understanding on trajectories of resilience and psychopathology in the context of resource changes during and after large-scale disasters.
+Although chest tube-omitted video-assisted thoracoscopic surgery (VATS) has been proven to be safe and efficacious, its universal application is precluded by a varying morbidity rate due to a lack of standardization. Since digital chest drainage has already shown improved accuracy and consistency in the management of postoperative air leak, we incorporated it in the strategy of intraoperative chest tube withdrawal, aiming to achieve better results.
 
 [Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
 
-10.1038/s41398-023-02350-4
+10.21037/jtd-22-1749
 
 ---
 
