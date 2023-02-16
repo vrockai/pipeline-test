@@ -1,15 +1,3 @@
-## Colonic Transendoscopic Enteral Tubing Is a New Pathway to Microbial Therapy, Colonic Drainage, and Host-Microbiota Interaction Research.
- 14.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
-
-
-The limitation of traditional delivery methods for fecal microbiota transplantation (FMT) gave birth to colonic transendoscopic enteral tubing (TET) to address the requirement of frequent FMTs. Colonic TET as a novel endoscopic intervention has received increasing attention in practice since 2015 in China. Emerging studies from multiple centers indicate that colonic TET is a promising, safe, and practical delivery method for microbial therapy and administering medication with high patient satisfaction. Intriguingly, colonic TET has been used to rescue endoscopy-related perforations by draining colonic air and fluid through the TET tube. Recent research based on collecting ileocecal samples through a TET tube has contributed to demonstrating community dynamics in the intestine, and it is expected to be a novel delivery of proof-of-concept in host-microbiota interactions and pharmacological research. The present article aims to review the concept and techniques of TET and to explore microbial therapy, colonic drainage, and microbial research based on colonic TET.
-
-[Source](https://www.sciencedirect.com/journal/current-opinion-in-microbiology/special-issue/10GJB726PJ3)
-
-10.3390/jcm12030780
-
----
-
 ## a microbiota review collection
 
 [Source](https://www.sciencedirect.com/journal/current-opinion-in-microbiology/special-issue/10GJB726PJ3)
@@ -19,19 +7,6 @@ The limitation of traditional delivery methods for fecal microbiota transplantat
 ## @PhilHugenholtz
 
 [Source](https://twitter.com/PhilHugenholtz?ref_src=twsrc%5Etfw)
-
----
-
-## GTDB-Tk v2: memory friendly classification with the genome taxonomy database.
- 23.12.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
-
-
-_Documentation, Software_
-The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here, we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
-
-[Source](https://twitter.com/donovan_parks?ref_src=twsrc%5Etfw)
-
-10.1093/bioinformatics/btac672
 
 ---
 
@@ -62,18 +37,6 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 ## pic.twitter.com/U83qPOcDyi
 
 [Source](https://t.co/U83qPOcDyi)
-
----
-
-## Iatrogenic factors of Helicobacter pylori eradication failure: lessons from the frontline.
- 16.02.2023, _J Xie, D Liu, J Peng, S Wu, D Liu, Y Xie_
-
-
-Iatrogenic factors play an important role in H. pylori eradication failure whereas it can be easily missed. Therefore, we aimed to investigate and analyze these related iatrogenic factors of H. pylori eradication failure.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
-
-10.1080/14787210.2023.2181788
 
 ---
 
@@ -110,18 +73,6 @@ Iatrogenic factors play an important role in H. pylori eradication failure where
 ## https://t.co/7QNjiRpSZm
 
 [Source](https://t.co/7QNjiRpSZm)
-
----
-
-## Chest tube-free video-assisted thoracoscopic surgery secured by quantitative air leak monitoring: a case series.
- 16.02.2023, _Q Li, Y Jiang, J Ding, H Li, W Zhang, H Chen, H Xu, Z Xia, L Duan, L Lin_
-
-
-Although chest tube-omitted video-assisted thoracoscopic surgery (VATS) has been proven to be safe and efficacious, its universal application is precluded by a varying morbidity rate due to a lack of standardization. Since digital chest drainage has already shown improved accuracy and consistency in the management of postoperative air leak, we incorporated it in the strategy of intraoperative chest tube withdrawal, aiming to achieve better results.
-
-[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
-10.21037/jtd-22-1749
 
 ---
 
@@ -188,15 +139,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Chest tube-free video-assisted thoracoscopic surgery secured by quantitative air leak monitoring: a case series.
- 16.02.2023, _Q Li, Y Jiang, J Ding, H Li, W Zhang, H Chen, H Xu, Z Xia, L Duan, L Lin_
+## Deep Learning With Chest Radiographs for Making Prognoses in Patients With COVID-19: Retrospective Cohort Study.
+ 16.02.2023, _HW Lee, HJ Yang, H Kim, UH Kim, DH Kim, SH Yoon, SY Ham, BD Nam, KJ Chae, D Lee, JY Yoo, SH Bak, JY Kim, JH Kim, KB Kim, JI Jung, JK Lim, JE Lee, MJ Chung, YK Lee, YS Kim, SM Lee, W Kwon, CM Park, YH Kim, YJ Jeong, KN Jin, JM Goo_
 
 
-Although chest tube-omitted video-assisted thoracoscopic surgery (VATS) has been proven to be safe and efficacious, its universal application is precluded by a varying morbidity rate due to a lack of standardization. Since digital chest drainage has already shown improved accuracy and consistency in the management of postoperative air leak, we incorporated it in the strategy of intraoperative chest tube withdrawal, aiming to achieve better results.
+An artificial intelligence (AI) model using chest radiography (CXR) may provide good performance in making prognoses for COVID-19.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.21037/jtd-22-1749
+10.2196/42717
 
 ---
 
@@ -252,18 +203,6 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 ## https://t.co/x2ZhgNYdaT
 
 [Source](https://t.co/x2ZhgNYdaT)
-
----
-
-## Chest tube-free video-assisted thoracoscopic surgery secured by quantitative air leak monitoring: a case series.
- 16.02.2023, _Q Li, Y Jiang, J Ding, H Li, W Zhang, H Chen, H Xu, Z Xia, L Duan, L Lin_
-
-
-Although chest tube-omitted video-assisted thoracoscopic surgery (VATS) has been proven to be safe and efficacious, its universal application is precluded by a varying morbidity rate due to a lack of standardization. Since digital chest drainage has already shown improved accuracy and consistency in the management of postoperative air leak, we incorporated it in the strategy of intraoperative chest tube withdrawal, aiming to achieve better results.
-
-[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
-
-10.21037/jtd-22-1749
 
 ---
 
