@@ -65,6 +65,18 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
+## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
+ 16.02.2023, _J Probst, A Springer, C Strube_
+
+
+Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
+
+10.1186/s13071-023-05693-5
+
+---
+
 ## February 2, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
@@ -101,9 +113,34 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
+## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
+ 16.02.2023, _J Probst, A Springer, C Strube_
+
+
+Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
+
+[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
+
+10.1186/s13071-023-05693-5
+
+---
+
 ## February 9, 2023
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
+
+---
+
+## The Impact of Non-Pathogenic Bacteria on the Spread of Virulence and Resistance Genes.
+ 14.02.2023, _F Dionisio, CPF Domingues, JS Rebelo, F Monteiro, T Nogueira_
+
+
+_Humans, Virulence, Bacteria, Anti-Bacterial Agents, Microbiota_
+This review discusses the fate of antimicrobial resistance and virulence genes frequently present among microbiomes. A central concept in epidemiology is the mean number of hosts colonized by one infected host in a population of susceptible hosts: R0. It characterizes the disease's epidemic potential because the pathogen continues its propagation through susceptible hosts if it is above one. R0 is proportional to the average duration of infections, but non-pathogenic microorganisms do not cause host death, and hosts do not need to be rid of them. Therefore, commensal bacteria may colonize hosts for prolonged periods, including those harboring drug resistance or even a few virulence genes. Thus, their R0 is likely to be (much) greater than one, with peculiar consequences for the spread of virulence and resistance genes. For example, computer models that simulate the spread of these genes have shown that their diversities should correlate positively throughout microbiomes. Bioinformatics analysis with real data corroborates this expectation. Those simulations also anticipate that, contrary to the common wisdom, human's microbiomes with a higher diversity of both gene types are the ones that took antibiotics longer ago rather than recently. Here, we discuss the mechanisms and robustness behind these predictions and other public health consequences.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
+
+10.3390/ijms24031967
 
 ---
 
@@ -151,15 +188,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Gender Composition in Biomedical Research Grant Submissions and Grant Review Panels Before Versus During the COVID-19 Pandemic.
- 16.02.2023, _D Roubinov, KA Griffith, NL Simone, SE Alvarez, M Thomas, C Mangurian, R Jagsi_
+## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
+ 16.02.2023, _J Probst, A Springer, C Strube_
 
 
-Purpose: This study examined the gender composition of career development award applicants and grant review panels during the pandemic compared with that beforehand. Methods: Data were collected from 14 Health Research Alliance (HRA) organizations, which fund biomedical research and training. HRA members provided the gender of grant applicants and grant reviewers during the pandemic (April 1, 2020, to February 28, 2021) and prepandemic (April 1, 2019, to February 29, 2020). The signed-rank test compared medians and the chi square test compared the overall gender distribution. Results: The total number of applicants was similar during the pandemic (N = 3,724) and prepandemic (N = 3,882) periods, as was the percentage of women applicants (45.2% pandemic vs. 44.9% prepandemic, p = 0.78). The total number of men and women grant reviewers declined during the pandemic (N = 856) compared with that pre-pandemic (N = 1,689); this decrease was driven by a change for the largest funder. Also driven by changes for this one funder, the percentage of total grant reviewers who were women increased significantly during the pandemic (45.9%) compared with that during prepandemic (38.8%; p = 0.001), but the median percentage of women grant reviewers across organizations remained similar during the pandemic (43.6%) and prepandemic periods (38.2%; p = 0.53). Conclusions: In a sample of research organizations, the gender composition of grant applicants and grant review panels remained similar, except for the review panel composition for one large funder. Given evidence from other studies that have revealed gender differences in other career and life experiences of scientists during the pandemic, ongoing evaluation of women's representation in grant submission and review mechanisms is essential.
+Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1089/jwh.2022.0188
+10.1186/s13071-023-05693-5
 
 ---
 
@@ -215,6 +252,18 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 ## https://t.co/x2ZhgNYdaT
 
 [Source](https://t.co/x2ZhgNYdaT)
+
+---
+
+## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
+ 16.02.2023, _J Probst, A Springer, C Strube_
+
+
+Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
+
+[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
+
+10.1186/s13071-023-05693-5
 
 ---
 
