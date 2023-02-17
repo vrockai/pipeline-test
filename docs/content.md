@@ -1,3 +1,15 @@
+## Colonic Transendoscopic Enteral Tubing Is a New Pathway to Microbial Therapy, Colonic Drainage, and Host-Microbiota Interaction Research.
+ 14.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
+
+
+The limitation of traditional delivery methods for fecal microbiota transplantation (FMT) gave birth to colonic transendoscopic enteral tubing (TET) to address the requirement of frequent FMTs. Colonic TET as a novel endoscopic intervention has received increasing attention in practice since 2015 in China. Emerging studies from multiple centers indicate that colonic TET is a promising, safe, and practical delivery method for microbial therapy and administering medication with high patient satisfaction. Intriguingly, colonic TET has been used to rescue endoscopy-related perforations by draining colonic air and fluid through the TET tube. Recent research based on collecting ileocecal samples through a TET tube has contributed to demonstrating community dynamics in the intestine, and it is expected to be a novel delivery of proof-of-concept in host-microbiota interactions and pharmacological research. The present article aims to review the concept and techniques of TET and to explore microbial therapy, colonic drainage, and microbial research based on colonic TET.
+
+[Source](https://www.sciencedirect.com/journal/current-opinion-in-microbiology/special-issue/10GJB726PJ3)
+
+10.3390/jcm12030780
+
+---
+
 ## a microbiota review collection
 
 [Source](https://www.sciencedirect.com/journal/current-opinion-in-microbiology/special-issue/10GJB726PJ3)
@@ -7,6 +19,19 @@
 ## @PhilHugenholtz
 
 [Source](https://twitter.com/PhilHugenholtz?ref_src=twsrc%5Etfw)
+
+---
+
+## GTDB-Tk v2: memory friendly classification with the genome taxonomy database.
+ 23.12.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
+
+
+_Documentation, Software_
+The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here, we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
+
+[Source](https://twitter.com/donovan_parks?ref_src=twsrc%5Etfw)
+
+10.1093/bioinformatics/btac672
 
 ---
 
@@ -82,19 +107,6 @@
 
 ---
 
-## The Impact of Non-Pathogenic Bacteria on the Spread of Virulence and Resistance Genes.
- 14.02.2023, _F Dionisio, CPF Domingues, JS Rebelo, F Monteiro, T Nogueira_
-
-
-_Humans, Virulence, Bacteria, Anti-Bacterial Agents, Microbiota_
-This review discusses the fate of antimicrobial resistance and virulence genes frequently present among microbiomes. A central concept in epidemiology is the mean number of hosts colonized by one infected host in a population of susceptible hosts: R0. It characterizes the disease's epidemic potential because the pathogen continues its propagation through susceptible hosts if it is above one. R0 is proportional to the average duration of infections, but non-pathogenic microorganisms do not cause host death, and hosts do not need to be rid of them. Therefore, commensal bacteria may colonize hosts for prolonged periods, including those harboring drug resistance or even a few virulence genes. Thus, their R0 is likely to be (much) greater than one, with peculiar consequences for the spread of virulence and resistance genes. For example, computer models that simulate the spread of these genes have shown that their diversities should correlate positively throughout microbiomes. Bioinformatics analysis with real data corroborates this expectation. Those simulations also anticipate that, contrary to the common wisdom, human's microbiomes with a higher diversity of both gene types are the ones that took antibiotics longer ago rather than recently. Here, we discuss the mechanisms and robustness behind these predictions and other public health consequences.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
-
-10.3390/ijms24031967
-
----
-
 ## Antibiotic resistance in the commensal human gut microbiota
 
 [Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
@@ -139,15 +151,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Deep Learning With Chest Radiographs for Making Prognoses in Patients With COVID-19: Retrospective Cohort Study.
- 16.02.2023, _HW Lee, HJ Yang, H Kim, UH Kim, DH Kim, SH Yoon, SY Ham, BD Nam, KJ Chae, D Lee, JY Yoo, SH Bak, JY Kim, JH Kim, KB Kim, JI Jung, JK Lim, JE Lee, MJ Chung, YK Lee, YS Kim, SM Lee, W Kwon, CM Park, YH Kim, YJ Jeong, KN Jin, JM Goo_
+## Gender Composition in Biomedical Research Grant Submissions and Grant Review Panels Before Versus During the COVID-19 Pandemic.
+ 16.02.2023, _D Roubinov, KA Griffith, NL Simone, SE Alvarez, M Thomas, C Mangurian, R Jagsi_
 
 
-An artificial intelligence (AI) model using chest radiography (CXR) may provide good performance in making prognoses for COVID-19.
+Purpose: This study examined the gender composition of career development award applicants and grant review panels during the pandemic compared with that beforehand. Methods: Data were collected from 14 Health Research Alliance (HRA) organizations, which fund biomedical research and training. HRA members provided the gender of grant applicants and grant reviewers during the pandemic (April 1, 2020, to February 28, 2021) and prepandemic (April 1, 2019, to February 29, 2020). The signed-rank test compared medians and the chi square test compared the overall gender distribution. Results: The total number of applicants was similar during the pandemic (N = 3,724) and prepandemic (N = 3,882) periods, as was the percentage of women applicants (45.2% pandemic vs. 44.9% prepandemic, p = 0.78). The total number of men and women grant reviewers declined during the pandemic (N = 856) compared with that pre-pandemic (N = 1,689); this decrease was driven by a change for the largest funder. Also driven by changes for this one funder, the percentage of total grant reviewers who were women increased significantly during the pandemic (45.9%) compared with that during prepandemic (38.8%; p = 0.001), but the median percentage of women grant reviewers across organizations remained similar during the pandemic (43.6%) and prepandemic periods (38.2%; p = 0.53). Conclusions: In a sample of research organizations, the gender composition of grant applicants and grant review panels remained similar, except for the review panel composition for one large funder. Given evidence from other studies that have revealed gender differences in other career and life experiences of scientists during the pandemic, ongoing evaluation of women's representation in grant submission and review mechanisms is essential.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.2196/42717
+10.1089/jwh.2022.0188
 
 ---
 
