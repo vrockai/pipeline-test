@@ -65,18 +65,6 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
- 16.02.2023, _J Probst, A Springer, C Strube_
-
-
-Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
-
-10.1186/s13071-023-05693-5
-
----
-
 ## February 2, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
@@ -113,34 +101,9 @@ Ticks and tick-borne diseases play a major role in companion animal health. Addi
 
 ---
 
-## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
- 16.02.2023, _J Probst, A Springer, C Strube_
-
-
-Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
-
-[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
-10.1186/s13071-023-05693-5
-
----
-
 ## February 9, 2023
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
----
-
-## The Impact of Non-Pathogenic Bacteria on the Spread of Virulence and Resistance Genes.
- 14.02.2023, _F Dionisio, CPF Domingues, JS Rebelo, F Monteiro, T Nogueira_
-
-
-_Humans, Virulence, Bacteria, Anti-Bacterial Agents, Microbiota_
-This review discusses the fate of antimicrobial resistance and virulence genes frequently present among microbiomes. A central concept in epidemiology is the mean number of hosts colonized by one infected host in a population of susceptible hosts: R0. It characterizes the disease's epidemic potential because the pathogen continues its propagation through susceptible hosts if it is above one. R0 is proportional to the average duration of infections, but non-pathogenic microorganisms do not cause host death, and hosts do not need to be rid of them. Therefore, commensal bacteria may colonize hosts for prolonged periods, including those harboring drug resistance or even a few virulence genes. Thus, their R0 is likely to be (much) greater than one, with peculiar consequences for the spread of virulence and resistance genes. For example, computer models that simulate the spread of these genes have shown that their diversities should correlate positively throughout microbiomes. Bioinformatics analysis with real data corroborates this expectation. Those simulations also anticipate that, contrary to the common wisdom, human's microbiomes with a higher diversity of both gene types are the ones that took antibiotics longer ago rather than recently. Here, we discuss the mechanisms and robustness behind these predictions and other public health consequences.
-
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
-
-10.3390/ijms24031967
 
 ---
 
@@ -150,16 +113,9 @@ This review discusses the fate of antimicrobial resistance and virulence genes f
 
 ---
 
-## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting.
- 09.02.2023, _L Dridi, F Altamura, E Gonzalez, O Lui, R Kubinski, R Pidgeon, A Montagut, J Chong, J Xia, CF Maurice, B Castagner_
-
-
-_Humans, Gastrointestinal Microbiome, Flow Cytometry, Polysaccharides, Prebiotics, Oligosaccharides, Dietary Carbohydrates_
-The composition and metabolism of the human gut microbiota are strongly influenced by dietary complex glycans, which cause downstream effects on the physiology and health of hosts. Despite recent advances in our understanding of glycan metabolism by human gut bacteria, we still need methods to link glycans to their consuming bacteria. Here, we use a functional assay to identify and isolate gut bacteria from healthy human volunteers that take up different glycans. The method combines metabolic labeling using fluorescent oligosaccharides with fluorescence-activated cell sorting (FACS), followed by amplicon sequencing or culturomics. Our results demonstrate metabolic labeling in various taxa, such as Prevotella copri, Collinsella aerofaciens and Blautia wexlerae. In vitro validation confirms the ability of most, but not all, labeled species to consume the glycan of interest for growth. In parallel, we show that glycan consumers spanning three major phyla can be isolated from cultures of sorted labeled cells. By linking bacteria to the glycans they consume, this approach increases our basic understanding of glycan metabolism by gut bacteria. Going forward, it could be used to provide insight into the mechanism of prebiotic approaches, where glycans are used to manipulate the gut microbiota composition.
+## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting
 
 [Source](https://www.nature.com/articles/s41467-023-36365-8)
-
-10.1038/s41467-023-36365-8
 
 ---
 
@@ -169,34 +125,15 @@ The composition and metabolism of the human gut microbiota are strongly influenc
 
 ---
 
-## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice.
- 10.02.2023, _C Lee, S Kim, B Kim, WH Holzapfel, CK Hyun_
-
-
-_Animals, Mice, Adiponectin, Cholesterol, Colitis, Dextran Sulfate, Disease Models, Animal, Dysbiosis, Gastrointestinal Microbiome, Inflammatory Bowel Diseases, Insulins, Lipid Metabolism, Mice, Inbred C57BL_
-Hepatobiliary abnormality and metabolic disorders are frequently observed complications in patients with inflammatory bowel diseases (IBD). Given that microbiota dysbiosis is a common pathophysiological feature of both IBD and metabolic diseases, we examined how the IBD-induced dysbiosis affects the host metabolism and contributes to the development of associated metabolic diseases using germ-free (GF) mice transplanted with fecal microbiota of DSS-induced colitis mice. There was no significant change in inflammation or barrier integrity in the gut of GF mice that received microbiota from colitis mice compared to their counterparts that were transplanted with microbiota from non-colitis healthy mice. Interestingly, it was observed that the GF recipients of colitis-induced altered microbiota showed a significant decrease in the weight of adipose tissues including mesenteric, epididymal, subcutaneous, and brown fat without any change in body weight, which was accompanied by abnormalities in adipose tissue functions such as fat storage and adiponectin production. Transplantation of colitis-induced altered microbiota also disrupted hepatic lipid metabolism in the GF recipient mice, which was observed by increases in synthesis and accumulation of cholesterol and bile acids in hepatocytes and a decrease in plasma HDL-cholesterol. Additional observations including elevated plasma levels of insulin, decreased hepatic production of FGF21, and decreased levels of fecal short chain fatty acids (SCFAs) and hepatic expression of SCFA receptors led to a conclusion that the transplantation of the colitis-associated dysbiotic microbiota was causally associated with impairments of insulin action and FGF21-adiponectin axis, possibly due to the low SCFA-producing capacity of the colonized microbiota, leading to metabolic abnormalities including adipose tissue dysfunction and dysregulated hepatic lipid metabolism. Our findings suggest potential mechanisms that explain how colitis-associated gut dysbiosis may contribute to the development of metabolic dysfunctions, which could be applied to clinical practice to improve the efficacy of treatment of IBD patients with comorbid metabolic disorders or vice versa.
+## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice 
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280850)
-
-10.1371/journal.pone.0280850
 
 ---
 
 ## https://t.co/9ABypLiRAj
 
 [Source](https://t.co/9ABypLiRAj)
-
----
-
-## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
- 16.02.2023, _J Probst, A Springer, C Strube_
-
-
-Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
-
-[Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
-
-10.1186/s13071-023-05693-5
 
 ---
 
@@ -252,18 +189,6 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 ## https://t.co/x2ZhgNYdaT
 
 [Source](https://t.co/x2ZhgNYdaT)
-
----
-
-## Year-round tick exposure of dogs and cats in Germany and Austria: results from a tick collection study.
- 16.02.2023, _J Probst, A Springer, C Strube_
-
-
-Ticks and tick-borne diseases play a major role in companion animal health. Additionally, the European tick fauna is changing, for instance due to the spread of Dermacentor reticulatus, displaying a higher likelihood of winter activity than Ixodes ricinus. Therefore, we investigated current tick infestations in dogs and cats in Germany and in parts of Austria and the seasonal infestation risk.
-
-[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
-
-10.1186/s13071-023-05693-5
 
 ---
 
