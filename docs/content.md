@@ -113,18 +113,6 @@ No studies have been conducted on the impact of different types of ovulatory dys
 
 ---
 
-## Prepregnancy Obesity and Breastfeeding in the First Month of Life: A Birth Cohort.
- 17.02.2023, _TBA Cortes, DDS Rocha, VM Bezerra, M Pereira Netto_
-
-
-Objective: This study aimed to investigate the association between prepregnancy obesity and disruption of exclusive breastfeeding (EBF) within the first month of life. Materials and Methods: This was a prospective cohort study conducted among Brazilian mothers and their babies born between February and December 2017. Research was conducted in all maternity hospitals in Vitória da Conquista, Brazil. Data collection started in the maternity hospitals of the city and, subsequently, an interview was conducted during a home visit on the 30th day of the child's life. Survival analysis was performed using Kaplan-Meier curves and a log rank test was applied to compare the curves. The association between independent variables and the response variable was assessed using Cox regression, following the conceptual model created for the study. Results: The study analyzed 329 pairs of mothers and babies. The prevalence of prepregnancy obesity was 12%. The prevalence of EBF disruption in the first month of life was 41.1% in nonobese mothers (confidence interval [95% CI]: 35.3-46.9) and 52.6% in obese mothers (95% CI: 36.3-68.4), with a shorter survival time among mothers with prepregnancy obesity (log rank p &lt; 0.05). The risk of EBF disruption in the first month of life was 83% higher among mothers with prepregnancy obesity, after adjusting for confounding variables-demographic, socioeconomic, prenatal maternal data, and childbirth variables (hazard ratio = 1.84; 95% CI: 1.08-3.11). Conclusions: We observed an association between pregestational obesity and disruption of EBF in the first month of life. This finding reinforces the need for a thorough professional approach to the practice of breastfeeding in this population in the prenatal period as well as early puerperium.
-
-[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
-
-10.1089/bfm.2022.0081
-
----
-
 ## February 9, 2023
 
 [Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
