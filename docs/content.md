@@ -65,15 +65,15 @@ The Genome Taxonomy Database (GTDB) and associated taxonomic classification tool
 
 ---
 
-## Comparison of the Pathway to Hospice Enrollment Between Medicare Advantage and Traditional Medicare.
- 17.02.2023, _CK Ankuda, E Belanger, J Bunker, P Gozalo, L Keohane, D Meyers, A Trivedi, JM Teno_
+## Comparison of pregnancy outcomes of letrozole-induced frozen-thawed embryo transfer cycles in PCOS women with two different abnormal ovulation patterns: A retrospective cohort study.
+ 17.02.2023, _DD Wang, JX Cao, WJ Jiang, JW Hou, MH Yan, ZG Sun, JY Song_
 
 
-Older adults in Medicare Advantage (MA) enroll in hospice at higher rates than those in traditional Medicare (TM), but it is unclear whether the pathway of care prior to hospice use differs between MA and TM.
+No studies have been conducted on the impact of different types of ovulatory dysfunction on the outcomes of frozen-thawed embryo transfers (FETs) in a letrozole-stimulated cycle in women with polycystic ovarian syndrome (PCOS). This study aimed to compare whether pregnancy outcomes of the letrozole-induced protocol in FET cycles differed between oligo-ovulatory and anovulatory women with PCOS. In a retrospective cohort study, women with PCOS who had undergone letrozole-induced FET at a university-affiliated fertility clinic from February 2014 to October 2020 were identified. The primary end point was live birth rate (LBR) per embryo transfer. Propensity score matching and multivariate logistic regression analyses were performed to control for the relevant confounders. A total of 652 women with PCOS undergoing letrozole-induced FET were included in the final analysis. Three hundred sixty-three of these women had oligo-ovulatory periods, while 289 had anovulatory periods. Propensity score matching analysis showed that LBR did not differ between groups (36.8% in oligo-ovulatory group vs 32.8% in anovulatory group, P = .431). Nevertheless, after controlling for potential confounding factors, LBR was significantly lower in anovulatory than oligo-ovulatory women (adjusted odds ratio 1.57, 95% confidence interval 1.08-2.29, P = .018). Furthermore, the pregnancy loss rate among the oligo-ovulatory group remained lower than those among the anovulatory group (adjusted odds ratio 0.23, 95% confidence interval 0.12-0.44, P &lt; .001). Despite adjustment for confounding factors, those with oligo-ovulatory PCOS had a higher LBR and lower pregnancy loss rate compared with those with anovulatory PCOS. This may indicate that when oligo-ovulation is detected, PCOS patients should be intervened in time to conceive as soon as possible. Prospective studies must be conducted in the future to verify our findings.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
 
-10.1001/jamahealthforum.2022.5457
+10.1097/MD.0000000000033049
 
 ---
 
@@ -110,6 +110,18 @@ Older adults in Medicare Advantage (MA) enroll in hospice at higher rates than t
 ## https://t.co/7QNjiRpSZm
 
 [Source](https://t.co/7QNjiRpSZm)
+
+---
+
+## Prepregnancy Obesity and Breastfeeding in the First Month of Life: A Birth Cohort.
+ 17.02.2023, _TBA Cortes, DDS Rocha, VM Bezerra, M Pereira Netto_
+
+
+Objective: This study aimed to investigate the association between prepregnancy obesity and disruption of exclusive breastfeeding (EBF) within the first month of life. Materials and Methods: This was a prospective cohort study conducted among Brazilian mothers and their babies born between February and December 2017. Research was conducted in all maternity hospitals in Vitória da Conquista, Brazil. Data collection started in the maternity hospitals of the city and, subsequently, an interview was conducted during a home visit on the 30th day of the child's life. Survival analysis was performed using Kaplan-Meier curves and a log rank test was applied to compare the curves. The association between independent variables and the response variable was assessed using Cox regression, following the conceptual model created for the study. Results: The study analyzed 329 pairs of mothers and babies. The prevalence of prepregnancy obesity was 12%. The prevalence of EBF disruption in the first month of life was 41.1% in nonobese mothers (confidence interval [95% CI]: 35.3-46.9) and 52.6% in obese mothers (95% CI: 36.3-68.4), with a shorter survival time among mothers with prepregnancy obesity (log rank p &lt; 0.05). The risk of EBF disruption in the first month of life was 83% higher among mothers with prepregnancy obesity, after adjusting for confounding variables-demographic, socioeconomic, prenatal maternal data, and childbirth variables (hazard ratio = 1.84; 95% CI: 1.08-3.11). Conclusions: We observed an association between pregestational obesity and disruption of EBF in the first month of life. This finding reinforces the need for a thorough professional approach to the practice of breastfeeding in this population in the prenatal period as well as early puerperium.
+
+[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
+
+10.1089/bfm.2022.0081
 
 ---
 
@@ -176,15 +188,15 @@ Hepatobiliary abnormality and metabolic disorders are frequently observed compli
 
 ---
 
-## Comparison of the Pathway to Hospice Enrollment Between Medicare Advantage and Traditional Medicare.
- 17.02.2023, _CK Ankuda, E Belanger, J Bunker, P Gozalo, L Keohane, D Meyers, A Trivedi, JM Teno_
+## Comparison of pregnancy outcomes of letrozole-induced frozen-thawed embryo transfer cycles in PCOS women with two different abnormal ovulation patterns: A retrospective cohort study.
+ 17.02.2023, _DD Wang, JX Cao, WJ Jiang, JW Hou, MH Yan, ZG Sun, JY Song_
 
 
-Older adults in Medicare Advantage (MA) enroll in hospice at higher rates than those in traditional Medicare (TM), but it is unclear whether the pathway of care prior to hospice use differs between MA and TM.
+No studies have been conducted on the impact of different types of ovulatory dysfunction on the outcomes of frozen-thawed embryo transfers (FETs) in a letrozole-stimulated cycle in women with polycystic ovarian syndrome (PCOS). This study aimed to compare whether pregnancy outcomes of the letrozole-induced protocol in FET cycles differed between oligo-ovulatory and anovulatory women with PCOS. In a retrospective cohort study, women with PCOS who had undergone letrozole-induced FET at a university-affiliated fertility clinic from February 2014 to October 2020 were identified. The primary end point was live birth rate (LBR) per embryo transfer. Propensity score matching and multivariate logistic regression analyses were performed to control for the relevant confounders. A total of 652 women with PCOS undergoing letrozole-induced FET were included in the final analysis. Three hundred sixty-three of these women had oligo-ovulatory periods, while 289 had anovulatory periods. Propensity score matching analysis showed that LBR did not differ between groups (36.8% in oligo-ovulatory group vs 32.8% in anovulatory group, P = .431). Nevertheless, after controlling for potential confounding factors, LBR was significantly lower in anovulatory than oligo-ovulatory women (adjusted odds ratio 1.57, 95% confidence interval 1.08-2.29, P = .018). Furthermore, the pregnancy loss rate among the oligo-ovulatory group remained lower than those among the anovulatory group (adjusted odds ratio 0.23, 95% confidence interval 0.12-0.44, P &lt; .001). Despite adjustment for confounding factors, those with oligo-ovulatory PCOS had a higher LBR and lower pregnancy loss rate compared with those with anovulatory PCOS. This may indicate that when oligo-ovulation is detected, PCOS patients should be intervened in time to conceive as soon as possible. Prospective studies must be conducted in the future to verify our findings.
 
 [Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
 
-10.1001/jamahealthforum.2022.5457
+10.1097/MD.0000000000033049
 
 ---
 
@@ -243,15 +255,15 @@ Microbiomes have been the focus of a substantial research effort in the last dec
 
 ---
 
-## Comparison of the Pathway to Hospice Enrollment Between Medicare Advantage and Traditional Medicare.
- 17.02.2023, _CK Ankuda, E Belanger, J Bunker, P Gozalo, L Keohane, D Meyers, A Trivedi, JM Teno_
+## Comparison of pregnancy outcomes of letrozole-induced frozen-thawed embryo transfer cycles in PCOS women with two different abnormal ovulation patterns: A retrospective cohort study.
+ 17.02.2023, _DD Wang, JX Cao, WJ Jiang, JW Hou, MH Yan, ZG Sun, JY Song_
 
 
-Older adults in Medicare Advantage (MA) enroll in hospice at higher rates than those in traditional Medicare (TM), but it is unclear whether the pathway of care prior to hospice use differs between MA and TM.
+No studies have been conducted on the impact of different types of ovulatory dysfunction on the outcomes of frozen-thawed embryo transfers (FETs) in a letrozole-stimulated cycle in women with polycystic ovarian syndrome (PCOS). This study aimed to compare whether pregnancy outcomes of the letrozole-induced protocol in FET cycles differed between oligo-ovulatory and anovulatory women with PCOS. In a retrospective cohort study, women with PCOS who had undergone letrozole-induced FET at a university-affiliated fertility clinic from February 2014 to October 2020 were identified. The primary end point was live birth rate (LBR) per embryo transfer. Propensity score matching and multivariate logistic regression analyses were performed to control for the relevant confounders. A total of 652 women with PCOS undergoing letrozole-induced FET were included in the final analysis. Three hundred sixty-three of these women had oligo-ovulatory periods, while 289 had anovulatory periods. Propensity score matching analysis showed that LBR did not differ between groups (36.8% in oligo-ovulatory group vs 32.8% in anovulatory group, P = .431). Nevertheless, after controlling for potential confounding factors, LBR was significantly lower in anovulatory than oligo-ovulatory women (adjusted odds ratio 1.57, 95% confidence interval 1.08-2.29, P = .018). Furthermore, the pregnancy loss rate among the oligo-ovulatory group remained lower than those among the anovulatory group (adjusted odds ratio 0.23, 95% confidence interval 0.12-0.44, P &lt; .001). Despite adjustment for confounding factors, those with oligo-ovulatory PCOS had a higher LBR and lower pregnancy loss rate compared with those with anovulatory PCOS. This may indicate that when oligo-ovulation is detected, PCOS patients should be intervened in time to conceive as soon as possible. Prospective studies must be conducted in the future to verify our findings.
 
 [Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
 
-10.1001/jamahealthforum.2022.5457
+10.1097/MD.0000000000033049
 
 ---
 
