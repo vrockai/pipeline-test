@@ -1,200 +1,128 @@
-## Colonic Transendoscopic Enteral Tubing Is a New Pathway to Microbial Therapy, Colonic Drainage, and Host-Microbiota Interaction Research.
- 14.02.2023, _W Wang, G Lu, X Wu, Q Wen, F Zhang_
+## The investigation of the association of pregnancy weight gain on maternal and neonatal gut microbiota composition and abundance using 16sRNA sequencing
 
-
-The limitation of traditional delivery methods for fecal microbiota transplantation (FMT) gave birth to colonic transendoscopic enteral tubing (TET) to address the requirement of frequent FMTs. Colonic TET as a novel endoscopic intervention has received increasing attention in practice since 2015 in China. Emerging studies from multiple centers indicate that colonic TET is a promising, safe, and practical delivery method for microbial therapy and administering medication with high patient satisfaction. Intriguingly, colonic TET has been used to rescue endoscopy-related perforations by draining colonic air and fluid through the TET tube. Recent research based on collecting ileocecal samples through a TET tube has contributed to demonstrating community dynamics in the intestine, and it is expected to be a novel delivery of proof-of-concept in host-microbiota interactions and pharmacological research. The present article aims to review the concept and techniques of TET and to explore microbial therapy, colonic drainage, and microbial research based on colonic TET.
-
-[Source](https://www.sciencedirect.com/journal/current-opinion-in-microbiology/special-issue/10GJB726PJ3)
-
-10.3390/jcm12030780
+[Source](https://doi.org/10.1186/s12884-022-05289-4)
 
 ---
 
-## a microbiota review collection
+## The diet rapidly and differentially affects the gut microbiota and host lipid mediators in a healthy population
 
-[Source](https://www.sciencedirect.com/journal/current-opinion-in-microbiology/special-issue/10GJB726PJ3)
-
----
-
-## @PhilHugenholtz
-
-[Source](https://twitter.com/PhilHugenholtz?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1186/s40168-023-01469-2)
 
 ---
 
-## GTDB-Tk v2: memory friendly classification with the genome taxonomy database.
- 23.12.2022, _PA Chaumeil, AJ Mussig, P Hugenholtz, DH Parks_
+## Conversations in the Gut: The Role of Quorum Sensing in Normobiosis
 
-
-_Documentation, Software_
-The Genome Taxonomy Database (GTDB) and associated taxonomic classification toolkit (GTDB-Tk) have been widely adopted by the microbiology community. However, the growing size of the GTDB bacterial reference tree has resulted in GTDB-Tk requiring substantial amounts of memory (∼320 GB) which limits its adoption and ease of use. Here, we present an update to GTDB-Tk that uses a divide-and-conquer approach where user genomes are initially placed into a bacterial reference tree with family-level representatives followed by placement into an appropriate class-level subtree comprising species representatives. This substantially reduces the memory requirements of GTDB-Tk while having minimal impact on classification.
-
-[Source](https://twitter.com/donovan_parks?ref_src=twsrc%5Etfw)
-
-10.1093/bioinformatics/btac672
+[Source](https://doi.org/10.3390/ijms24043722)
 
 ---
 
-## @donovan_parks
+## Gut Microbiome and Neurodevelopmental Disorders: A Link Yet to Be Disclosed
 
-[Source](https://twitter.com/donovan_parks?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/aXdGhRGDTJ
-
-[Source](https://t.co/aXdGhRGDTJ)
+[Source](https://doi.org/10.3390/microorganisms11020487)
 
 ---
 
-## https://t.co/7dDFaI1F6Y
+## Natural Green Spaces, Sensitization to Allergens, and the Role of Gut Microbiota during Infancy.
+ 15.02.2023, _V Buchholz, SL Bridgman, CC Nielsen, M Gascon, HM Tun, E Simons, SE Turvey, P Subbarao, TK Takaro, JR Brook, JA Scott, PJ Mandhane, AL Kozyrskyj_
 
-[Source](https://t.co/7dDFaI1F6Y)
 
----
+The environment plays an instrumental role in the developmental origins of health and disease. Protective features of the environment in the development of asthma and atopy have been insufficiently studied. We used data from the CHILD (Canadian Healthy Infant Longitudinal Development) Cohort Study to examine relationships between living near natural green spaces in early infancy in Edmonton, AB, Canada and the development of atopic sensitization at 1 year and 3 years of age in a cohort of 699 infants, and whether these associations were mediated by infant gut microbiota (measured using 16s V4 amplicon sequencing) at 4 months. The Urban Planning Land Vegetation Index (uPLVI) map of the City of Edmonton was used to assess infants' exposure to natural spaces based on their home postal codes, and atopic sensitization was assessed using skin prink testing (SPTs) for common food and inhalant allergens. Our findings suggest there is a protective effect of natural green space proximity on the development of multiple inhalant atopic sensitizations at 3 years (odds ratio = 0.28 [95% CI 0.09, 0.90]). This relationship was mediated by changes to Actinobacteria diversity in infant fecal samples taken at 4 months. We also found a positive association between nature proximity and sensitization to at least one food or inhaled allergen; this association was not mediated by gut microbiota. Together, these findings underscore the importance of promoting natural urban greenspace preservation to improve child health by reducing atopic disease susceptibility. IMPORTANCE Our findings highlight the importance of preserving natural green space in urban settings to prevent sensitization to environmental allergens and promote early-life gut microbiota pathways to this health benefit. These findings support a mediating role of gut microbiome compositions in health and disease susceptibility. This study used unique, accurate, and comprehensive methodology to classify natural space exposure via a high-resolution topographical map of foliage subtypes within the City of Edmonton limits. These methods are improvements from other methods previously used to classify natural space exposure, such as the normalized density vegetation index from satellite imagery, which is not able to distinguish anthropogenic from green space. The use of these methods and the associations found between natural green space exposure and atopic sensitization outcomes support their use in future studies. Our findings also provide many avenues for future research including longer term follow up of this cohort and investigation of a causal role of reduced Actinobacteria diversity on atopic sensitization development.
 
-## https://t.co/LUIkwO1CaS
+[Source](https://doi.org/10.1128/msystems.01190-22)
 
-[Source](https://t.co/LUIkwO1CaS)
-
----
-
-## pic.twitter.com/U83qPOcDyi
-
-[Source](https://t.co/U83qPOcDyi)
+10.1128/msystems.01190-22
 
 ---
 
-## February 2, 2023
+## Mimicking seasonal changes in light-dark cycle and ambient temperature modulates gut microbiome in mice under the same dietary regimen.
+ 17.02.2023, _S Matsumoto, L Ren, M Iigo, A Murai, T Yoshimura_
 
-[Source](https://twitter.com/MicrobiomeVIF/status/1621163307456663556?ref_src=twsrc%5Etfw)
 
----
+_Animals, Humans, Mice, Gastrointestinal Microbiome, Seasons, RNA, Ribosomal, 16S, Phylogeny, Photoperiod, Temperature, Diet_
+To better adapt to seasonal environmental changes, physiological processes and behaviors are regulated seasonally. The gut microbiome interacts with the physiology, behavior, and even the diseases of host animals, including humans and livestock. Seasonal changes in gut microbiome composition have been reported in several species under natural environments. Dietary content significantly affects the composition of the microbiome, and, in the natural environment, the diet varies between different seasons. Therefore, understanding the seasonal regulatory mechanisms of the gut microbiome is important for understanding the seasonal adaptation strategies of animals. Herein, we examined the effects of changing day length and temperature, which mimic summer and winter conditions, on the gut microbiome of laboratory mice. Principal coordinate analysis and analysis of the composition of microbiomes of 16S rRNA sequencing data demonstrated that the microbiomes of the cecum and large intestine showed significant differences between summer and winter mimicking conditions. Similar to previous studies, a daily rhythm was observed in the composition of the microbiome. Furthermore, the phylogenetic investigation of communities by reconstruction of unobserved states predicted seasonal changes in several metabolic pathways. Changing day length and temperature can affect the composition of the gut microbiome without changing dietary contents.
 
-## <em>Gardnerella </em>Diversity and Ecology in Pregnancy and Preterm Birth
+[Source](https://doi.org/10.1371/journal.pone.0278013)
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.02.03.527032v1)
-
----
-
-## Heterogeneity of the group B streptococcal type VII secretion system and influence on colonization of the female genital tract 
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.01.25.525443v1)
+10.1371/journal.pone.0278013
 
 ---
 
-## Comparative Genomic Study of <em>Streptococcus anginosus </em>Reveals Distinct Group of Urinary Strains
+## Taurine as a key intermediate for host-symbiont interaction in the tropical sponge<em> Ianthella basta</em>
 
-[Source](https://journals.asm.org/doi/10.1128/msphere.00687-22)
-
----
-
-## Gut microbes predominantly act as symbiotic partners rather than raw nutrients
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.02.08.527620v1)
+[Source](https://doi.org/10.1101/2022.09.23.509140)
 
 ---
 
-## https://t.co/7QNjiRpSZm
+## Transmission of synthetic seed bacterial communities to radish seedlings: impact on microbiota assembly and plant phenotype 
 
-[Source](https://t.co/7QNjiRpSZm)
-
----
-
-## February 9, 2023
-
-[Source](https://twitter.com/mariaelemartino/status/1623609217721503745?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1101/2023.02.14.527860)
 
 ---
 
-## Antibiotic resistance in the commensal human gut microbiota
+## Clinical and biological significance of RNA N6-methyladenosine regulators in Alzheimer disease.
+ 17.02.2023, _Z Qiu, X Bai, X Han, P Wang, X Wang, Y Lv, Y An_
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527422000340)
 
----
+RNA N6-methyladenosine (m6A) regulators are essential for a variety of biological functions, such as early development, viral infections, and cancer. However, their roles in Alzheimer disease (AD) are still not very clear. Here, 16 significant m6A regulators were identified using difference analysis between AD patients and non-demented controls based on the GSE132903 dataset from the Gene Expression Omnibus database. Using these 16 m6A regulators, a nomogram model was established to predict the prevalence of AD. We found that patients could obtain a good clinical benefit based on this model. In addition, we revealed 2 distinct m6A patterns and 2 distinct m6A gene patterns in AD and demonstrated their prognostic and risk assessment significance. This present work comprehensively evaluated the functions of m6A regulators in the diagnosis and subtype classification of AD. These results suggested they have potential prognostic and risk assessment significance in AD.
 
-## Identifying glycan consumers in human gut microbiota samples using metabolic labeling coupled with fluorescence-activated cell sorting
+[Source](https://doi.org/10.1101/2023.02.12.528215)
 
-[Source](https://www.nature.com/articles/s41467-023-36365-8)
-
----
-
-## Over supplementation with vitamin B12 alters microbe-host interactions in the gut leading to accelerated <em>Citrobacter rodentium </em>colonization and pathogenesis in mice
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01461-w)
+10.1097/MD.0000000000032945
 
 ---
 
-## Disturbance of lipid metabolism in germ-free mice transplanted with gut microbiota of DSS-induced colitis mice 
+## Viral but not bacterial community succession is characterized by extreme turnover shortly after rewetting dry soils
 
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280850)
-
----
-
-## https://t.co/9ABypLiRAj
-
-[Source](https://t.co/9ABypLiRAj)
+[Source](https://doi.org/10.1101/2023.02.12.528215)
 
 ---
 
-## February 8, 2023
+## Ecological drivers and potential functions of viral communities in flooded arsenic-contaminated paddy soils
 
-[Source](https://twitter.com/BigDataBiology/status/1623370927281999891?ref_src=twsrc%5Etfw)
-
----
-
-## Accurate and fast graph-based pangenome annotation and clustering with ggCaller
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.01.24.524926v1)
+[Source](https://doi.org/10.1016/j.scitotenv.2023.162289)
 
 ---
 
-## uBin - a manual refining tool for genomes from metagenomes.
- 10.02.2023, _TLV Bornemann, SP Esser, TL Stach, T Burg, AJ Probst_
+## Redefinition of archetypal phytoplankton-associated bacteria taxa based on globally distributed dinoflagellates and diatoms
 
-
-Resolving bacterial and archaeal genomes from metagenomes has revolutionized our understanding of Earth's biomes yet producing high quality genomes from assembled fragments has been an ever-standing problem. While automated binning software and their combination produce prokaryotic bins in high throughput, their manual refinement has been slow, sometimes difficult or missing entirely facilitating error propagation in public databases. Here, we present uBin, a GUI-based, standalone bin refiner that runs on all major operating platforms and was additionally designed for educational purposes. When applied to the public CAMI dataset, refinement of bins using GC content, coverage and taxonomy was able to improve 78.9% of bins by decreasing their contamination. We also applied the bin refiner as a standalone binner to public metagenomes from the International Space Station and demonstrate the recovery of near-complete genomes, whose replication indices indicate active proliferation of microbes in Earth's lower orbit. uBin is an easy to install software for bin refinement, binning of simple metagenomes and communication of metagenomic results to other scientists and in classrooms. The software and its helper scripts are open source and available under https://github.com/ProbstLab/uBin. This article is protected by copyright. All rights reserved.
-
-[Source](https://ami-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.16351)
-
-10.1111/1462-2920.16351
+[Source](https://doi.org/10.1101/2023.02.13.528248)
 
 ---
 
-## In-situ metagenomics: A platform for rapid sequencing and analysis of metagenomes in less than one day
+## Plastic Leachate Exposure Drives Antibiotic Resistance and Virulence in Marine Bacterial Communities
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.01.25.525498v2)
-
----
-
-## The virtual microbiome: A computational framework to evaluate microbiome analyses.
- 10.02.2023, _B Serrano-Antón, F Rodríguez-Ventura, P Colomer-Vidal, RA Cigliano, CF Arias, F Bertocchini_
-
-
-_Animals, Reproducibility of Results, Microbiota, Bacteria, Larva, Moths_
-Microbiomes have been the focus of a substantial research effort in the last decades. The composition of microbial populations is normally determined by comparing DNA sequences sampled from those populations with the sequences stored in genomic databases. Therefore, the amount of information available in databanks should be expected to constrain the accuracy of microbiome analyses. Albeit normally ignored in microbiome studies, this constraint could severely compromise the reliability of microbiome data. To test this hypothesis, we generated virtual bacterial populations that exhibit the ecological structure of real-world microbiomes. Confronting the analyses of virtual microbiomes with their original composition revealed critical issues in the current approach to characterizing microbiomes, issues that were empirically confirmed by analyzing the microbiome of Galleria mellonella larvae. To reduce the uncertainty of microbiome data, the effort in the field must be channeled towards significantly increasing the amount of available genomic information and optimizing the use of this information.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280391)
-
-10.1371/journal.pone.0280391
+[Source](https://www.biorxiv.org/content/10.1101/2023.02.13.528379v1)
 
 ---
 
-## @Letstalkmicro1
+## African army ants at the forefront of virome surveillance in a remote tropical forest
 
-[Source](https://twitter.com/Letstalkmicro1?ref_src=twsrc%5Etfw)
-
----
-
-## https://t.co/x2ZhgNYdaT
-
-[Source](https://t.co/x2ZhgNYdaT)
+[Source](https://doi.org/10.1101/2022.12.13.520061)
 
 ---
 
-## February 8, 2023
+## Dancing the Nanopore limbo – Nanopore metagenomics from small DNA quantities for bacterial genome reconstr
 
-[Source](https://twitter.com/svetlana_up/status/1623307075458633730?ref_src=twsrc%5Etfw)
+[Source](https://doi.org/10.1101/2023.02.16.527874)
+
+---
+
+## The long and short of it: Benchmarking viromics using Illumina, Nanopore and PacBio sequencing technologies
+
+[Source](https://doi.org/10.1101/2023.02.12.527533)
+
+---
+
+## Four principles to establish a universal virus taxonomy.
+ 17.02.2023, _P Simmonds, EM Adriaenssens, FM Zerbini, NGA Abrescia, P Aiewsakun, P Alfenas-Zerbini, Y Bao, J Barylski, C Drosten, S Duffy, WP Duprex, BE Dutilh, SF Elena, ML García, S Junglen, A Katzourakis, EV Koonin, M Krupovic, JH Kuhn, AJ Lambert, EJ Lefkowitz, M Łobocka, C Lood, J Mahony, JP Meier-Kolthoff, AR Mushegian, HM Oksanen, MM Poranen, A Reyes-Muñoz, DL Robertson, S Roux, L Rubino, S Sabanadzovic, S Siddell, T Skern, DB Smith, MB Sullivan, N Suzuki, D Turner, K Van Doorslaer, AM Vandamme, A Varsani, N Vasilakis_
+
+
+_Humans, Bacteriophages, Metagenomics, Phylogeny, Viruses_
+A universal taxonomy of viruses is essential for a comprehensive view of the virus world and for communicating the complicated evolutionary relationships among viruses. However, there are major differences in the conceptualisation and approaches to virus classification and nomenclature among virologists, clinicians, agronomists, and other interested parties. Here, we provide recommendations to guide the construction of a coherent and comprehensive virus taxonomy, based on expert scientific consensus. Firstly, assignments of viruses should be congruent with the best attainable reconstruction of their evolutionary histories, i.e., taxa should be monophyletic. This fundamental principle for classification of viruses is currently included in the International Committee on Taxonomy of Viruses (ICTV) code only for the rank of species. Secondly, phenotypic and ecological properties of viruses may inform, but not override, evolutionary relatedness in the placement of ranks. Thirdly, alternative classifications that consider phenotypic attributes, such as being vector-borne (e.g., "arboviruses"), infecting a certain type of host (e.g., "mycoviruses," "bacteriophages") or displaying specific pathogenicity (e.g., "human immunodeficiency viruses"), may serve important clinical and regulatory purposes but often create polyphyletic categories that do not reflect evolutionary relationships. Nevertheless, such classifications ought to be maintained if they serve the needs of specific communities or play a practical clinical or regulatory role. However, they should not be considered or called taxonomies. Finally, while an evolution-based framework enables viruses discovered by metagenomics to be incorporated into the ICTV taxonomy, there are essential requirements for quality control of the sequence data used for these assignments. Combined, these four principles will enable future development and expansion of virus taxonomy as the true evolutionary diversity of viruses becomes apparent.
+
+[Source](https://doi.org/10.1371/journal.pbio.3001922)
+
+10.1371/journal.pbio.3001922
 
 ---
 
