@@ -1,6 +1,13 @@
-## The investigation of the association of pregnancy weight gain on maternal and neonatal gut microbiota composition and abundance using 16sRNA sequencing
+## The investigation of the association of pregnancy weight gain on maternal and neonatal gut microbiota composition and abundance using 16sRNA sequencing.
+ 17.02.2023, _Z Song, H Liu_
+
+
+_Child, Pregnancy, Female, Infant, Newborn, Humans, Overweight, Gestational Weight Gain, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Obesity, Weight Gain, Body Mass Index_
+To investigate the association of pregnancy weight gain on gut microbiota in pregnant women and newborns.
 
 [Source](https://doi.org/10.1186/s12884-022-05289-4)
+
+10.1186/s12884-022-05289-4
 
 ---
 
@@ -35,7 +42,7 @@ The environment plays an instrumental role in the developmental origins of healt
 ---
 
 ## Mimicking seasonal changes in light-dark cycle and ambient temperature modulates gut microbiome in mice under the same dietary regimen.
- 17.02.2023, _S Matsumoto, L Ren, M Iigo, A Murai, T Yoshimura_
+ 18.02.2023, _S Matsumoto, L Ren, M Iigo, A Murai, T Yoshimura_
 
 
 _Animals, Humans, Mice, Gastrointestinal Microbiome, Seasons, RNA, Ribosomal, 16S, Phylogeny, Photoperiod, Temperature, Diet_
