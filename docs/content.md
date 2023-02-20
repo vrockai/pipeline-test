@@ -1,135 +1,145 @@
-## The investigation of the association of pregnancy weight gain on maternal and neonatal gut microbiota composition and abundance using 16sRNA sequencing.
- 17.02.2023, _Z Song, H Liu_
+## Rice Water-Fried Atractylodis Rhizoma Relieves Spleen Deficiency Diarrhea by Regulating the Intestinal Microbiome.
+ 18.02.2023, _C Xiao, M Wang, X Yang, J Sun, L Weng, Z Qiu_
 
 
-_Child, Pregnancy, Female, Infant, Newborn, Humans, Overweight, Gestational Weight Gain, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Obesity, Weight Gain, Body Mass Index_
-To investigate the association of pregnancy weight gain on gut microbiota in pregnant women and newborns.
+Spleen deficiency diarrhea (SDD) is a common Traditional Chinese Medicine (TCM) gastrointestinal condition, the causes of which include dysfunction of the intestinal barrier and microbiota. Rice water-fried Atractylodis Rhizoma (RAR) is a commonly used drug to treat this condition, but its mechanism remains unclear. This study explored the related mechanisms of ethanolic extract of rice water-fried Atractylodis Rhizoma (EAR) in the treatment of SDD by examining changes in the intestinal microbiota.
 
-[Source](https://doi.org/10.1186/s12884-022-05289-4)
+[Source](https://doi.org/10.1016/j.cels.2022.12.010)
 
-10.1186/s12884-022-05289-4
-
----
-
-## The diet rapidly and differentially affects the gut microbiota and host lipid mediators in a healthy population
-
-[Source](https://doi.org/10.1186/s40168-023-01469-2)
+10.1155/2023/1983616
 
 ---
 
-## Conversations in the Gut: The Role of Quorum Sensing in Normobiosis
+## Controlling the human microbiome
 
-[Source](https://doi.org/10.3390/ijms24043722)
-
----
-
-## Gut Microbiome and Neurodevelopmental Disorders: A Link Yet to Be Disclosed
-
-[Source](https://doi.org/10.3390/microorganisms11020487)
+[Source](https://doi.org/10.1016/j.cels.2022.12.010)
 
 ---
 
-## Natural Green Spaces, Sensitization to Allergens, and the Role of Gut Microbiota during Infancy.
- 15.02.2023, _V Buchholz, SL Bridgman, CC Nielsen, M Gascon, HM Tun, E Simons, SE Turvey, P Subbarao, TK Takaro, JR Brook, JA Scott, PJ Mandhane, AL Kozyrskyj_
+## Metabolic models of human gut microbiota: Advances and challenges.
+ 16.02.2023, _D Rios Garza, D Gonze, H Zafeiropoulos, B Liu, K Faust_
 
 
-The environment plays an instrumental role in the developmental origins of health and disease. Protective features of the environment in the development of asthma and atopy have been insufficiently studied. We used data from the CHILD (Canadian Healthy Infant Longitudinal Development) Cohort Study to examine relationships between living near natural green spaces in early infancy in Edmonton, AB, Canada and the development of atopic sensitization at 1 year and 3 years of age in a cohort of 699 infants, and whether these associations were mediated by infant gut microbiota (measured using 16s V4 amplicon sequencing) at 4 months. The Urban Planning Land Vegetation Index (uPLVI) map of the City of Edmonton was used to assess infants' exposure to natural spaces based on their home postal codes, and atopic sensitization was assessed using skin prink testing (SPTs) for common food and inhalant allergens. Our findings suggest there is a protective effect of natural green space proximity on the development of multiple inhalant atopic sensitizations at 3 years (odds ratio = 0.28 [95% CI 0.09, 0.90]). This relationship was mediated by changes to Actinobacteria diversity in infant fecal samples taken at 4 months. We also found a positive association between nature proximity and sensitization to at least one food or inhaled allergen; this association was not mediated by gut microbiota. Together, these findings underscore the importance of promoting natural urban greenspace preservation to improve child health by reducing atopic disease susceptibility. IMPORTANCE Our findings highlight the importance of preserving natural green space in urban settings to prevent sensitization to environmental allergens and promote early-life gut microbiota pathways to this health benefit. These findings support a mediating role of gut microbiome compositions in health and disease susceptibility. This study used unique, accurate, and comprehensive methodology to classify natural space exposure via a high-resolution topographical map of foliage subtypes within the City of Edmonton limits. These methods are improvements from other methods previously used to classify natural space exposure, such as the normalized density vegetation index from satellite imagery, which is not able to distinguish anthropogenic from green space. The use of these methods and the associations found between natural green space exposure and atopic sensitization outcomes support their use in future studies. Our findings also provide many avenues for future research including longer term follow up of this cohort and investigation of a causal role of reduced Actinobacteria diversity on atopic sensitization development.
+The human gut is a complex ecosystem consisting of hundreds of microbial species interacting with each other and with the human host. Mathematical models of the gut microbiome integrate our knowledge of this system and help to formulate hypotheses to explain observations. The generalized Lotka-Volterra model has been widely used for this purpose, but it does not describe interaction mechanisms and thus does not account for metabolic flexibility. Recently, models that explicitly describe gut microbial metabolite production and consumption have become popular. These models have been used to investigate the factors that shape gut microbial composition and to link specific gut microorganisms to changes in metabolite concentrations found in diseases. Here, we review how such models are built and what we have learned so far from their application to human gut microbiome data. In addition, we discuss current challenges of these models and how these can be addressed in the future.
 
-[Source](https://doi.org/10.1128/msystems.01190-22)
+[Source](https://doi.org/10.1016/j.cels.2022.11.002)
 
-10.1128/msystems.01190-22
-
----
-
-## Mimicking seasonal changes in light-dark cycle and ambient temperature modulates gut microbiome in mice under the same dietary regimen.
- 18.02.2023, _S Matsumoto, L Ren, M Iigo, A Murai, T Yoshimura_
-
-
-_Animals, Humans, Mice, Gastrointestinal Microbiome, Seasons, RNA, Ribosomal, 16S, Phylogeny, Photoperiod, Temperature, Diet_
-To better adapt to seasonal environmental changes, physiological processes and behaviors are regulated seasonally. The gut microbiome interacts with the physiology, behavior, and even the diseases of host animals, including humans and livestock. Seasonal changes in gut microbiome composition have been reported in several species under natural environments. Dietary content significantly affects the composition of the microbiome, and, in the natural environment, the diet varies between different seasons. Therefore, understanding the seasonal regulatory mechanisms of the gut microbiome is important for understanding the seasonal adaptation strategies of animals. Herein, we examined the effects of changing day length and temperature, which mimic summer and winter conditions, on the gut microbiome of laboratory mice. Principal coordinate analysis and analysis of the composition of microbiomes of 16S rRNA sequencing data demonstrated that the microbiomes of the cecum and large intestine showed significant differences between summer and winter mimicking conditions. Similar to previous studies, a daily rhythm was observed in the composition of the microbiome. Furthermore, the phylogenetic investigation of communities by reconstruction of unobserved states predicted seasonal changes in several metabolic pathways. Changing day length and temperature can affect the composition of the gut microbiome without changing dietary contents.
-
-[Source](https://doi.org/10.1371/journal.pone.0278013)
-
-10.1371/journal.pone.0278013
+10.1016/j.cels.2022.11.002
 
 ---
 
-## Taurine as a key intermediate for host-symbiont interaction in the tropical sponge<em> Ianthella basta</em>
-
-[Source](https://doi.org/10.1101/2022.09.23.509140)
-
----
-
-## Transmission of synthetic seed bacterial communities to radish seedlings: impact on microbiota assembly and plant phenotype 
-
-[Source](https://doi.org/10.1101/2023.02.14.527860)
-
----
-
-## Clinical and biological significance of RNA N6-methyladenosine regulators in Alzheimer disease.
- 19.02.2023, _Z Qiu, X Bai, X Han, P Wang, X Wang, Y Lv, Y An_
+## The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes that reflect dietary intakes and fecal water content.
+ 17.02.2023, _N Renall, B Lawley, T Vatanen, B Merz, J Douwes, M Corbin, L Te Morenga, R Kruger, BH Breier, GW Tannock_
 
 
-RNA N6-methyladenosine (m6A) regulators are essential for a variety of biological functions, such as early development, viral infections, and cancer. However, their roles in Alzheimer disease (AD) are still not very clear. Here, 16 significant m6A regulators were identified using difference analysis between AD patients and non-demented controls based on the GSE132903 dataset from the Gene Expression Omnibus database. Using these 16 m6A regulators, a nomogram model was established to predict the prevalence of AD. We found that patients could obtain a good clinical benefit based on this model. In addition, we revealed 2 distinct m6A patterns and 2 distinct m6A gene patterns in AD and demonstrated their prognostic and risk assessment significance. This present work comprehensively evaluated the functions of m6A regulators in the diagnosis and subtype classification of AD. These results suggested they have potential prognostic and risk assessment significance in AD.
+Obesity is a complex, multifactorial condition that is an important risk factor for noncommunicable diseases including cardiovascular disease and type 2 diabetes. While prevention and management require a healthy and energy balanced diet and adequate physical activity, the taxonomic composition and functional attributes of the colonic microbiota may have a supplementary role in the development of obesity. The taxonomic composition and metabolic capacity of the fecal microbiota of 286 women, resident in Auckland New Zealand, was determined by metagenomic analysis. Associations with BMI (obese, nonobese), body fat composition, and ethnicity (Pacific, n = 125; NZ European women [NZE], n = 161) were assessed using regression analyses. The fecal microbiotas were characterized by the presence of three distinctive enterotypes, with enterotype 1 represented in both Pacific and NZE women (39 and 61%, respectively), enterotype 2 mainly in Pacific women (84 and 16%) and enterotype 3 mainly in NZE women (13 and 87%). Enterotype 1 was characterized mainly by the relative abundances of butyrate producing species, Eubacterium rectale and Faecalibacterium prausnitzii, enterotype 2 by the relative abundances of lactic acid producing species, Bifidobacterium adolescentis, Bifidobacterium bifidum, and Lactobacillus ruminis, and enterotype 3 by the relative abundances of Subdoligranulum sp., Akkermansia muciniphila, Ruminococcus bromii, and Methanobrevibacter smithii. Enterotypes were also associated with BMI, visceral fat %, and blood cholesterol. Habitual food group intake was estimated using a 5 day nonconsecutive estimated food record and a 30 day, 220 item semi-quantitative Food Frequency Questionnaire. Higher intake of 'egg' and 'dairy' products was associated with enterotype 3, whereas 'non-starchy vegetables', 'nuts and seeds' and 'plant-based fats' were positively associated with enterotype 1. In contrast, these same food groups were inversely associated with enterotype 2. Fecal water content, as a proxy for stool consistency/colonic transit time, was associated with microbiota taxonomic composition and gene pools reflective of particular bacterial biochemical pathways. The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes, most likely due to differential dietary intake and fecal consistency/colonic transit time. These parameters need to be considered in future analyses of human fecal microbiotas.
 
-[Source](https://doi.org/10.1101/2023.02.12.528215)
+[Source](https://doi.org/10.1080/19490976.2023.2178801)
 
-10.1097/MD.0000000000032945
+10.1080/19490976.2023.2178801
 
 ---
 
-## Viral but not bacterial community succession is characterized by extreme turnover shortly after rewetting dry soils
+## Identifying the Novel Gut Microbial Metabolite Contributing to Metabolic Syndrome in Children Based on Integrative Analyses of Microbiome-Metabolome Signatures.
+ 16.02.2023, _J Wei, W Dai, X Pan, Y Zhong, N Xu, P Ye, J Wang, J Li, F Yang, J Luo, M Luo_
 
-[Source](https://doi.org/10.1101/2023.02.12.528215)
 
----
+The pathogenesis of gut microbiota and their metabolites in the development of metabolic syndrome (MS) remains unclear. This study aimed to evaluate the signatures of gut microbiota and metabolites as well as their functions in obese children with MS. A case-control study was conducted based on 23 MS children and 31 obese controls. The gut microbiome and metabolome were measured using 16S rRNA gene amplicon sequencing and liquid chromatography-mass spectrometry. An integrative analysis was conducted, combining the results of the gut microbiome and metabolome with extensive clinical indicators. The biological functions of the candidate microbial metabolites were validated in vitro. We identified 9 microbiota and 26 metabolites that were significantly different from the MS and the control group. The clinical indicators of MS were correlated with the altered microbiota Lachnoclostridium, Dialister, and Bacteroides, as well as with the altered metabolites all-trans-13,14-dihydroretinol, DL-dipalmitoylphosphatidylcholine (DPPC), LPC 24: 1, PC (14:1e/10:0), and 4-phenyl-3-buten-2-one, etc. The association network analysis further identified three MS-linked metabolites, including all-trans-13,14-dihydroretinol, DPPC, and 4-phenyl-3-buten-2-one, that were significantly correlated with the altered microbiota. Bio-functional validation showed that all-trans-13, 14-dihydroretinol could significantly upregulate the expression of lipid synthesis genes and inflammatory genes. This study identified a new biomarker that may contribute to MS development. These findings provided new insights regarding the development of efficient therapeutic strategies for MS. IMPORTANCE Metabolic syndrome (MS) has become a health concern worldwide. Gut microbiota and metabolites play an important role in human health. We first endeavored to comprehensively analyze the microbiome and metabolome signatures in obese children and found the novel microbial metabolites in MS. We further validated the biological functions of the metabolites in vitro and illustrated the effects of the microbial metabolites on lipid synthesis and inflammation. The microbial metabolite all-trans-13, 14-dihydroretinol may be a new biomarker in the pathogenesis of MS, especially in obese children. These findings were not available in previous studies, and they provide new insights regarding the management of metabolic syndrome.
 
-## Ecological drivers and potential functions of viral communities in flooded arsenic-contaminated paddy soils
+[Source](https://doi.org/10.1128/spectrum.03771-22)
 
-[Source](https://doi.org/10.1016/j.scitotenv.2023.162289)
-
----
-
-## Redefinition of archetypal phytoplankton-associated bacteria taxa based on globally distributed dinoflagellates and diatoms
-
-[Source](https://doi.org/10.1101/2023.02.13.528248)
+10.1128/spectrum.03771-22
 
 ---
 
-## Plastic Leachate Exposure Drives Antibiotic Resistance and Virulence in Marine Bacterial Communities
+## Gut Microbiome and Risk of Ischemic Stroke: A Comprehensive Mendelian Randomization Study.
+ 17.02.2023, _C Meng, P Deng, R Miao, H Tang, Y Li, J Wang, J Wu, W Wang, S Liu, J Xia, Y Lu_
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.02.13.528379v1)
 
----
+Increasing evidence implicates the microbiome as a susceptibility factor for ischemic stroke (IS). Interpretation of this evidence is difficult for the composition of the microbiome is influenced by various factors and might affect differently in IS subtypes. We aim to determine if the specific gut microbiome is causally associated with IS subtypes and suggest potential approaches for stroke prevention.
 
-## African army ants at the forefront of virome surveillance in a remote tropical forest
+[Source](https://doi.org/10.1093/eurjpc/zwad052)
 
-[Source](https://doi.org/10.1101/2022.12.13.520061)
-
----
-
-## Dancing the Nanopore limbo – Nanopore metagenomics from small DNA quantities for bacterial genome reconstr
-
-[Source](https://doi.org/10.1101/2023.02.16.527874)
+10.1093/eurjpc/zwad052
 
 ---
 
-## The long and short of it: Benchmarking viromics using Illumina, Nanopore and PacBio sequencing technologies
+## Metagenomic analysis of Ancient Egyptian canopic jars.
+ 18.02.2023, _E Rayo, J Neukamm, N Tomoum, P Eppenberger, A Breidenstein, AS Bouwman, VJ Schuenemann, FJ Rühli_
 
-[Source](https://doi.org/10.1101/2023.02.12.527533)
+
+_Humans, Egypt, DNA, Ancient, Mummies, Lung, Base Sequence_
+Ancient Egyptian remains have been of interest for anthropological research for decades. Despite many investigations, the ritual vessels for the internal organs removed during body preparation-liver, lungs, stomach, and intestines, of Egyptian mummies are rarely used for palaeopathological or medical investigations. These artifacts, commonly referred to as canopic jars, are the perfect combination of cultural and biological material and present an untapped resource for both Egyptological and medical fields. Nevertheless, technical challenges associated with this archeological material have prevented the application of current ancient DNA techniques for both the characterization of human and pathogenic DNA. We present shotgun-sequenced metagenomic profiles and ancient DNA degradation patterns from multiple canopic jars sampled from several European museum collections and enumerate current limitations and possible solutions for the future analysis of similar material. This is the first-ever recorded evidence of ancient human DNA found in Ancient Egyptian canopic jars and the first associated metagenomic description of bacterial taxa in these funerary artifacts.
+
+[Source](https://doi.org/10.1002/ajpa.24600)
+
+10.1002/ajpa.24600
 
 ---
 
-## Four principles to establish a universal virus taxonomy.
- 17.02.2023, _P Simmonds, EM Adriaenssens, FM Zerbini, NGA Abrescia, P Aiewsakun, P Alfenas-Zerbini, Y Bao, J Barylski, C Drosten, S Duffy, WP Duprex, BE Dutilh, SF Elena, ML García, S Junglen, A Katzourakis, EV Koonin, M Krupovic, JH Kuhn, AJ Lambert, EJ Lefkowitz, M Łobocka, C Lood, J Mahony, JP Meier-Kolthoff, AR Mushegian, HM Oksanen, MM Poranen, A Reyes-Muñoz, DL Robertson, S Roux, L Rubino, S Sabanadzovic, S Siddell, T Skern, DB Smith, MB Sullivan, N Suzuki, D Turner, K Van Doorslaer, AM Vandamme, A Varsani, N Vasilakis_
+## Vaginal microbial dynamics and pathogen colonization in a humanized microbiota mouse model
+
+[Source](https://doi.org/10.1101/2023.02.09.527909)
+
+---
+
+## Multidisciplinary evaluation of plant growth promoting rhizobacteria on soil microbiome and strawberry quality.
+ 20.02.2023, _JH Nam, A Thibodeau, YL Qian, MC Qian, SH Park_
 
 
-_Humans, Bacteriophages, Metagenomics, Phylogeny, Viruses_
-A universal taxonomy of viruses is essential for a comprehensive view of the virus world and for communicating the complicated evolutionary relationships among viruses. However, there are major differences in the conceptualisation and approaches to virus classification and nomenclature among virologists, clinicians, agronomists, and other interested parties. Here, we provide recommendations to guide the construction of a coherent and comprehensive virus taxonomy, based on expert scientific consensus. Firstly, assignments of viruses should be congruent with the best attainable reconstruction of their evolutionary histories, i.e., taxa should be monophyletic. This fundamental principle for classification of viruses is currently included in the International Committee on Taxonomy of Viruses (ICTV) code only for the rank of species. Secondly, phenotypic and ecological properties of viruses may inform, but not override, evolutionary relatedness in the placement of ranks. Thirdly, alternative classifications that consider phenotypic attributes, such as being vector-borne (e.g., "arboviruses"), infecting a certain type of host (e.g., "mycoviruses," "bacteriophages") or displaying specific pathogenicity (e.g., "human immunodeficiency viruses"), may serve important clinical and regulatory purposes but often create polyphyletic categories that do not reflect evolutionary relationships. Nevertheless, such classifications ought to be maintained if they serve the needs of specific communities or play a practical clinical or regulatory role. However, they should not be considered or called taxonomies. Finally, while an evolution-based framework enables viruses discovered by metagenomics to be incorporated into the ICTV taxonomy, there are essential requirements for quality control of the sequence data used for these assignments. Combined, these four principles will enable future development and expansion of virus taxonomy as the true evolutionary diversity of viruses becomes apparent.
+The natural soil environment is considered one of the most diverse habitats containing numerous bacteria, fungi, and larger organisms such as nematodes, insects, or rodents. Rhizosphere bacteria play vital roles in plant nutrition and the growth promotion of their host plant. The aim of this study was to evaluate the effects of three plant growth-promoting rhizobacteria (PGPR), Bacillus subtilis, Bacillus amyloliquefaciens, and Pseudomonas monteilii for their potential role as a biofertilizer. The effect of the PGPR was examined at a commercial strawberry farm in Dayton, Oregon. The PGPR were applied to the soil of the strawberry (Fragaria × ananassa cultivar Hood) plants in two different concentrations of PGPR, T1 (0.24% PGPR) and T2 (0.48% PGPR), and C (no PGPR). A total of 450 samples from August 2020 to May 2021 were collected, and microbiome sequencing based on the V4 region of the 16S rRNA gene was conducted. The strawberry quality was measured by sensory evaluation, total acidity (TA), total soluble solids (TSS), color (lightness and chroma), and volatile compounds. Application of the PGPR significantly increased the populations of Bacillus and Pseudomonas and promoted the growth of nitrogen-fixing bacteria. The TSS and color evaluation showed that the PGPR presumptively behaved as a ripening enhancer. The PGPR contributed to the production of fruit-related volatile compounds, while the sensory evaluation did not show significant differences among the three groups. The major finding of this study suggests that the consortium of the three PGPR have a potential role as a biofertilizer by supporting the growth of other microorganisms (nitrogen-fixing bacteria) as part of a synergetic effect and strawberry quality such as sweetness and volatile compounds.
 
-[Source](https://doi.org/10.1371/journal.pbio.3001922)
+[Source](https://doi.org/10.1186/s13568-023-01524-z)
 
-10.1371/journal.pbio.3001922
+10.1186/s13568-023-01524-z
+
+---
+
+## Unravelling microalgal-bacterial interactions in aquatic ecosystems through 16S rRNA gene-based co-occurrence networks.
+ 19.02.2023, _BLDU Pushpakumara, K Tandon, A Willis, H Verbruggen_
+
+
+Interactions between microalgae and bacteria can directly influence the global biogeochemical cycles but the majority of such interactions remain unknown. 16S rRNA gene-based co-occurrence networks have potential to help identify microalgal-bacterial interactions. Here, we used data from 10 Earth microbiome projects to identify potential microalgal-bacterial associations in aquatic ecosystems. A high degree of clustering was observed in microalgal-bacterial modules, indicating densely connected neighbourhoods. Proteobacteria and Bacteroidetes predominantly co-occurred with microalgae and represented hubs of most modules. Our results also indicated that species-specificity may be a global characteristic of microalgal associated microbiomes. Several previously known associations were recovered from our network modules, validating that biologically meaningful results can be inferred using this approach. A range of previously unknown associations were recognised such as co-occurrences of Bacillariophyta with uncultured Planctomycetes OM190 and Deltaproteobacteria order NB1-j. Planctomycetes and Verrucomicrobia were identified as key associates of microalgae due to their frequent co-occurrences with several microalgal taxa. Despite no clear taxonomic pattern, bacterial associates appeared functionally similar across different environments. To summarise, we demonstrated the potential of 16S rRNA gene-based co-occurrence networks as a hypothesis-generating framework to guide more focused research on microalgal-bacterial associations.
+
+[Source](https://doi.org/10.1038/s41598-023-27816-9)
+
+10.1038/s41598-023-27816-9
+
+---
+
+## gutSMASH predicts specialized primary metabolic pathways from the human gut microbiota.
+ 14.02.2023, _V Pascal Andreu, HE Augustijn, L Chen, A Zhernakova, J Fu, MA Fischbach, D Dodd, MH Medema_
+
+
+The gut microbiota produce hundreds of small molecules, many of which modulate host physiology. Although efforts have been made to identify biosynthetic genes for secondary metabolites, the chemical output of the gut microbiome consists predominantly of primary metabolites. Here we introduce the gutSMASH algorithm for identification of primary metabolic gene clusters, and we used it to systematically profile gut microbiome metabolism, identifying 19,890 gene clusters in 4,240 high-quality microbial genomes. We found marked differences in pathway distribution among phyla, reflecting distinct strategies for energy capture. These data explain taxonomic differences in short-chain fatty acid production and suggest a characteristic metabolic niche for each taxon. Analysis of 1,135 individuals from a Dutch population-based cohort shows that the level of microbiome-derived metabolites in plasma and feces is almost completely uncorrelated with the metagenomic abundance of corresponding metabolic genes, indicating a crucial role for pathway-specific gene regulation and metabolite flux. This work is a starting point for understanding differences in how bacterial taxa contribute to the chemistry of the microbiome.
+
+[Source](https://doi.org/10.1038/s41587-023-01675-1)
+
+10.1038/s41587-023-01675-1
+
+---
+
+## Reliability of species detection in 16S microbiome analysis: Comparison of five widely used pipelines and recommendations for a more standardized approach.
+ 18.02.2023, _A Hiergeist, J Ruelle, S Emler, A Gessner_
+
+
+The use of NGS-based testing of the bacterial microbiota is often impeded by inconsistent or non-reproducible results, especially when applying different analysis pipelines and reference databases. We investigated five frequently used software packages by submitting the same monobacterial datasets to them, representing the V1-2 and the V3-4 regions of the 16S-rRNA gene of 26 well characterized strains, which were sequenced by the Ion Torrent™ GeneStudio S5 system. The results obtained were divergent and calculations of relative abundance did not yield the expected 100%. We investigated these inconsistencies and were able to attribute them to failures either of the pipelines themselves or of the reference databases they rely on. On the basis of these findings, we recommend certain standards which should help to render microbiome testing more consistent and reproducible, and thus useful in clinical practice.
+
+[Source](https://doi.org/10.1371/journal.pone.0280870)
+
+10.1371/journal.pone.0280870
+
+---
+
+## Impact of experimental bias on compositional analysis of microbiome data.
+ 17.02.2023, _Y Hu, GA Satten, YJ Hu_
+
+
+Microbiome data are subject to experimental bias that is caused by DNA extraction, PCR amplification among other sources, but this important feature is often ignored when developing statistical methods for analyzing microbiome data. McLaren, Willis and Callahan (2019) proposed a model for how such bias affects the observed taxonomic profiles, which assumes main effects of bias without taxon-taxon interactions. Our newly developed method, LOCOM (logistic regression for compositional analysis) for testing differential abundance of taxa, is the first method that accounted for experimental bias and is robust to the main effect biases. However, there is also evidence for taxon-taxon interactions. In this report, we formulated a model for interaction biases and used simulations based on this model to evaluate the impact of interaction biases on the performance of LOCOM as well as other available compositional analysis methods. Our simulation results indicated that LOCOM remained robust to a reasonable range of interaction biases. The other methods tended to have inflated FDR even when there were only main effect biases. LOCOM maintained the highest sensitivity even when the other methods cannot control the FDR. We thus conclude that LOCOM outperforms the other methods for compositional analysis of microbiome data considered here.
+
+[Source](https://doi.org/10.1101/2023.02.08.527766)
+
+10.1101/2023.02.08.527766
 
 ---
 
