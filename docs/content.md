@@ -53,6 +53,18 @@ To investigate the association of pregnancy weight gain on gut microbiota in pre
 
 ---
 
+## Clinical and biological significance of RNA N6-methyladenosine regulators in Alzheimer disease.
+ 19.02.2023, _Z Qiu, X Bai, X Han, P Wang, X Wang, Y Lv, Y An_
+
+
+RNA N6-methyladenosine (m6A) regulators are essential for a variety of biological functions, such as early development, viral infections, and cancer. However, their roles in Alzheimer disease (AD) are still not very clear. Here, 16 significant m6A regulators were identified using difference analysis between AD patients and non-demented controls based on the GSE132903 dataset from the Gene Expression Omnibus database. Using these 16 m6A regulators, a nomogram model was established to predict the prevalence of AD. We found that patients could obtain a good clinical benefit based on this model. In addition, we revealed 2 distinct m6A patterns and 2 distinct m6A gene patterns in AD and demonstrated their prognostic and risk assessment significance. This present work comprehensively evaluated the functions of m6A regulators in the diagnosis and subtype classification of AD. These results suggested they have potential prognostic and risk assessment significance in AD.
+
+[Source](https://doi.org/10.1101/2023.02.12.528215)
+
+10.1097/MD.0000000000032945
+
+---
+
 ## Viral but not bacterial community succession is characterized by extreme turnover shortly after rewetting dry soils
 
 [Source](https://doi.org/10.1101/2023.02.12.528215)
