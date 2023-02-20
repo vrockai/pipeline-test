@@ -29,15 +29,28 @@ To investigate the association of pregnancy weight gain on gut microbiota in pre
 
 ---
 
-## Natural Green Spaces, Sensitization to Allergens, and the Role of Gut Microbiota during Infancy
+## Natural Green Spaces, Sensitization to Allergens, and the Role of Gut Microbiota during Infancy.
+ 15.02.2023, _V Buchholz, SL Bridgman, CC Nielsen, M Gascon, HM Tun, E Simons, SE Turvey, P Subbarao, TK Takaro, JR Brook, JA Scott, PJ Mandhane, AL Kozyrskyj_
+
+
+The environment plays an instrumental role in the developmental origins of health and disease. Protective features of the environment in the development of asthma and atopy have been insufficiently studied. We used data from the CHILD (Canadian Healthy Infant Longitudinal Development) Cohort Study to examine relationships between living near natural green spaces in early infancy in Edmonton, AB, Canada and the development of atopic sensitization at 1 year and 3 years of age in a cohort of 699 infants, and whether these associations were mediated by infant gut microbiota (measured using 16s V4 amplicon sequencing) at 4 months. The Urban Planning Land Vegetation Index (uPLVI) map of the City of Edmonton was used to assess infants' exposure to natural spaces based on their home postal codes, and atopic sensitization was assessed using skin prink testing (SPTs) for common food and inhalant allergens. Our findings suggest there is a protective effect of natural green space proximity on the development of multiple inhalant atopic sensitizations at 3 years (odds ratio = 0.28 [95% CI 0.09, 0.90]). This relationship was mediated by changes to Actinobacteria diversity in infant fecal samples taken at 4 months. We also found a positive association between nature proximity and sensitization to at least one food or inhaled allergen; this association was not mediated by gut microbiota. Together, these findings underscore the importance of promoting natural urban greenspace preservation to improve child health by reducing atopic disease susceptibility. IMPORTANCE Our findings highlight the importance of preserving natural green space in urban settings to prevent sensitization to environmental allergens and promote early-life gut microbiota pathways to this health benefit. These findings support a mediating role of gut microbiome compositions in health and disease susceptibility. This study used unique, accurate, and comprehensive methodology to classify natural space exposure via a high-resolution topographical map of foliage subtypes within the City of Edmonton limits. These methods are improvements from other methods previously used to classify natural space exposure, such as the normalized density vegetation index from satellite imagery, which is not able to distinguish anthropogenic from green space. The use of these methods and the associations found between natural green space exposure and atopic sensitization outcomes support their use in future studies. Our findings also provide many avenues for future research including longer term follow up of this cohort and investigation of a causal role of reduced Actinobacteria diversity on atopic sensitization development.
 
 [Source](https://doi.org/10.1128/msystems.01190-22)
 
+10.1128/msystems.01190-22
+
 ---
 
-## Mimicking seasonal changes in light-dark cycle and ambient temperature modulates gut microbiome in mice under the same dietary regimen
+## Mimicking seasonal changes in light-dark cycle and ambient temperature modulates gut microbiome in mice under the same dietary regimen.
+ 18.02.2023, _S Matsumoto, L Ren, M Iigo, A Murai, T Yoshimura_
+
+
+_Animals, Humans, Mice, Gastrointestinal Microbiome, Seasons, RNA, Ribosomal, 16S, Phylogeny, Photoperiod, Temperature, Diet_
+To better adapt to seasonal environmental changes, physiological processes and behaviors are regulated seasonally. The gut microbiome interacts with the physiology, behavior, and even the diseases of host animals, including humans and livestock. Seasonal changes in gut microbiome composition have been reported in several species under natural environments. Dietary content significantly affects the composition of the microbiome, and, in the natural environment, the diet varies between different seasons. Therefore, understanding the seasonal regulatory mechanisms of the gut microbiome is important for understanding the seasonal adaptation strategies of animals. Herein, we examined the effects of changing day length and temperature, which mimic summer and winter conditions, on the gut microbiome of laboratory mice. Principal coordinate analysis and analysis of the composition of microbiomes of 16S rRNA sequencing data demonstrated that the microbiomes of the cecum and large intestine showed significant differences between summer and winter mimicking conditions. Similar to previous studies, a daily rhythm was observed in the composition of the microbiome. Furthermore, the phylogenetic investigation of communities by reconstruction of unobserved states predicted seasonal changes in several metabolic pathways. Changing day length and temperature can affect the composition of the gut microbiome without changing dietary contents.
 
 [Source](https://doi.org/10.1371/journal.pone.0278013)
+
+10.1371/journal.pone.0278013
 
 ---
 
