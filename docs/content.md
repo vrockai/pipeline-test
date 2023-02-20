@@ -95,9 +95,16 @@ To investigate the association of pregnancy weight gain on gut microbiota in pre
 
 ---
 
-## Four principles to establish a universal virus taxonomy
+## Four principles to establish a universal virus taxonomy.
+ 17.02.2023, _P Simmonds, EM Adriaenssens, FM Zerbini, NGA Abrescia, P Aiewsakun, P Alfenas-Zerbini, Y Bao, J Barylski, C Drosten, S Duffy, WP Duprex, BE Dutilh, SF Elena, ML García, S Junglen, A Katzourakis, EV Koonin, M Krupovic, JH Kuhn, AJ Lambert, EJ Lefkowitz, M Łobocka, C Lood, J Mahony, JP Meier-Kolthoff, AR Mushegian, HM Oksanen, MM Poranen, A Reyes-Muñoz, DL Robertson, S Roux, L Rubino, S Sabanadzovic, S Siddell, T Skern, DB Smith, MB Sullivan, N Suzuki, D Turner, K Van Doorslaer, AM Vandamme, A Varsani, N Vasilakis_
+
+
+_Humans, Bacteriophages, Metagenomics, Phylogeny, Viruses_
+A universal taxonomy of viruses is essential for a comprehensive view of the virus world and for communicating the complicated evolutionary relationships among viruses. However, there are major differences in the conceptualisation and approaches to virus classification and nomenclature among virologists, clinicians, agronomists, and other interested parties. Here, we provide recommendations to guide the construction of a coherent and comprehensive virus taxonomy, based on expert scientific consensus. Firstly, assignments of viruses should be congruent with the best attainable reconstruction of their evolutionary histories, i.e., taxa should be monophyletic. This fundamental principle for classification of viruses is currently included in the International Committee on Taxonomy of Viruses (ICTV) code only for the rank of species. Secondly, phenotypic and ecological properties of viruses may inform, but not override, evolutionary relatedness in the placement of ranks. Thirdly, alternative classifications that consider phenotypic attributes, such as being vector-borne (e.g., "arboviruses"), infecting a certain type of host (e.g., "mycoviruses," "bacteriophages") or displaying specific pathogenicity (e.g., "human immunodeficiency viruses"), may serve important clinical and regulatory purposes but often create polyphyletic categories that do not reflect evolutionary relationships. Nevertheless, such classifications ought to be maintained if they serve the needs of specific communities or play a practical clinical or regulatory role. However, they should not be considered or called taxonomies. Finally, while an evolution-based framework enables viruses discovered by metagenomics to be incorporated into the ICTV taxonomy, there are essential requirements for quality control of the sequence data used for these assignments. Combined, these four principles will enable future development and expansion of virus taxonomy as the true evolutionary diversity of viruses becomes apparent.
 
 [Source](https://doi.org/10.1371/journal.pbio.3001922)
+
+10.1371/journal.pbio.3001922
 
 ---
 
