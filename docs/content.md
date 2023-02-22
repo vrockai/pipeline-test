@@ -1,12 +1,12 @@
-## Rice Water-Fried Atractylodis Rhizoma Relieves Spleen Deficiency Diarrhea by Regulating the Intestinal Microbiome.
- 18.02.2023, _C Xiao, M Wang, X Yang, J Sun, L Weng, Z Qiu_
+## Fecal microbiota transplantation attenuates Escherichia coli infected outgrowth by modulating the intestinal microbiome.
+ 21.02.2023, _Y Wang, Y He, Y Liang, H Liu, X Chen, MF Kulyar, A Shahzad, K Wei, K Li_
 
 
-Spleen deficiency diarrhea (SDD) is a common Traditional Chinese Medicine (TCM) gastrointestinal condition, the causes of which include dysfunction of the intestinal barrier and microbiota. Rice water-fried Atractylodis Rhizoma (RAR) is a commonly used drug to treat this condition, but its mechanism remains unclear. This study explored the related mechanisms of ethanolic extract of rice water-fried Atractylodis Rhizoma (EAR) in the treatment of SDD by examining changes in the intestinal microbiota.
+Given the crucial role of gut microbiota in animal and human health, studies on modulating the intestinal microbiome for therapeutic purposes have grasped a significant attention, of which the role of fecal microbiota transplantation (FMT) has been emphasized.
 
 [Source](https://doi.org/10.1016/j.cels.2022.12.010)
 
-10.1155/2023/1983616
+10.1186/s12934-023-02027-z
 
 ---
 
@@ -17,9 +17,10 @@ Spleen deficiency diarrhea (SDD) is a common Traditional Chinese Medicine (TCM) 
 ---
 
 ## Metabolic models of human gut microbiota: Advances and challenges.
- 16.02.2023, _D Rios Garza, D Gonze, H Zafeiropoulos, B Liu, K Faust_
+ 21.02.2023, _D Rios Garza, D Gonze, H Zafeiropoulos, B Liu, K Faust_
 
 
+_Humans, Gastrointestinal Microbiome, Ecosystem, Models, Theoretical_
 The human gut is a complex ecosystem consisting of hundreds of microbial species interacting with each other and with the human host. Mathematical models of the gut microbiome integrate our knowledge of this system and help to formulate hypotheses to explain observations. The generalized Lotka-Volterra model has been widely used for this purpose, but it does not describe interaction mechanisms and thus does not account for metabolic flexibility. Recently, models that explicitly describe gut microbial metabolite production and consumption have become popular. These models have been used to investigate the factors that shape gut microbial composition and to link specific gut microorganisms to changes in metabolite concentrations found in diseases. Here, we review how such models are built and what we have learned so far from their application to human gut microbiome data. In addition, we discuss current challenges of these models and how these can be addressed in the future.
 
 [Source](https://doi.org/10.1016/j.cels.2022.11.002)
@@ -29,9 +30,10 @@ The human gut is a complex ecosystem consisting of hundreds of microbial species
 ---
 
 ## The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes that reflect dietary intakes and fecal water content.
- 17.02.2023, _N Renall, B Lawley, T Vatanen, B Merz, J Douwes, M Corbin, L Te Morenga, R Kruger, BH Breier, GW Tannock_
+ 21.02.2023, _N Renall, B Lawley, T Vatanen, B Merz, J Douwes, M Corbin, L Te Morenga, R Kruger, BH Breier, GW Tannock_
 
 
+_Humans, Female, Ethnicity, Diabetes Mellitus, Type 2, New Zealand, Gastrointestinal Microbiome, Feces, Microbiota, Obesity, Eating_
 Obesity is a complex, multifactorial condition that is an important risk factor for noncommunicable diseases including cardiovascular disease and type 2 diabetes. While prevention and management require a healthy and energy balanced diet and adequate physical activity, the taxonomic composition and functional attributes of the colonic microbiota may have a supplementary role in the development of obesity. The taxonomic composition and metabolic capacity of the fecal microbiota of 286 women, resident in Auckland New Zealand, was determined by metagenomic analysis. Associations with BMI (obese, nonobese), body fat composition, and ethnicity (Pacific, n = 125; NZ European women [NZE], n = 161) were assessed using regression analyses. The fecal microbiotas were characterized by the presence of three distinctive enterotypes, with enterotype 1 represented in both Pacific and NZE women (39 and 61%, respectively), enterotype 2 mainly in Pacific women (84 and 16%) and enterotype 3 mainly in NZE women (13 and 87%). Enterotype 1 was characterized mainly by the relative abundances of butyrate producing species, Eubacterium rectale and Faecalibacterium prausnitzii, enterotype 2 by the relative abundances of lactic acid producing species, Bifidobacterium adolescentis, Bifidobacterium bifidum, and Lactobacillus ruminis, and enterotype 3 by the relative abundances of Subdoligranulum sp., Akkermansia muciniphila, Ruminococcus bromii, and Methanobrevibacter smithii. Enterotypes were also associated with BMI, visceral fat %, and blood cholesterol. Habitual food group intake was estimated using a 5 day nonconsecutive estimated food record and a 30 day, 220 item semi-quantitative Food Frequency Questionnaire. Higher intake of 'egg' and 'dairy' products was associated with enterotype 3, whereas 'non-starchy vegetables', 'nuts and seeds' and 'plant-based fats' were positively associated with enterotype 1. In contrast, these same food groups were inversely associated with enterotype 2. Fecal water content, as a proxy for stool consistency/colonic transit time, was associated with microbiota taxonomic composition and gene pools reflective of particular bacterial biochemical pathways. The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes, most likely due to differential dietary intake and fecal consistency/colonic transit time. These parameters need to be considered in future analyses of human fecal microbiotas.
 
 [Source](https://doi.org/10.1080/19490976.2023.2178801)
@@ -95,15 +97,9 @@ The natural soil environment is considered one of the most diverse habitats cont
 
 ---
 
-## Unravelling microalgal-bacterial interactions in aquatic ecosystems through 16S rRNA gene-based co-occurrence networks.
- 19.02.2023, _BLDU Pushpakumara, K Tandon, A Willis, H Verbruggen_
-
-
-Interactions between microalgae and bacteria can directly influence the global biogeochemical cycles but the majority of such interactions remain unknown. 16S rRNA gene-based co-occurrence networks have potential to help identify microalgal-bacterial interactions. Here, we used data from 10 Earth microbiome projects to identify potential microalgal-bacterial associations in aquatic ecosystems. A high degree of clustering was observed in microalgal-bacterial modules, indicating densely connected neighbourhoods. Proteobacteria and Bacteroidetes predominantly co-occurred with microalgae and represented hubs of most modules. Our results also indicated that species-specificity may be a global characteristic of microalgal associated microbiomes. Several previously known associations were recovered from our network modules, validating that biologically meaningful results can be inferred using this approach. A range of previously unknown associations were recognised such as co-occurrences of Bacillariophyta with uncultured Planctomycetes OM190 and Deltaproteobacteria order NB1-j. Planctomycetes and Verrucomicrobia were identified as key associates of microalgae due to their frequent co-occurrences with several microalgal taxa. Despite no clear taxonomic pattern, bacterial associates appeared functionally similar across different environments. To summarise, we demonstrated the potential of 16S rRNA gene-based co-occurrence networks as a hypothesis-generating framework to guide more focused research on microalgal-bacterial associations.
+## Unravelling microalgal-bacterial interactions in aquatic ecosystems through 16S rRNA gene-based co-occurrence networks
 
 [Source](https://doi.org/10.1038/s41598-023-27816-9)
-
-10.1038/s41598-023-27816-9
 
 ---
 
@@ -120,9 +116,10 @@ The gut microbiota produce hundreds of small molecules, many of which modulate h
 ---
 
 ## Reliability of species detection in 16S microbiome analysis: Comparison of five widely used pipelines and recommendations for a more standardized approach.
- 18.02.2023, _A Hiergeist, J Ruelle, S Emler, A Gessner_
+ 21.02.2023, _A Hiergeist, J Ruelle, S Emler, A Gessner_
 
 
+_Reproducibility of Results, High-Throughput Nucleotide Sequencing, Microbiota, Bacteria, Base Sequence, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
 The use of NGS-based testing of the bacterial microbiota is often impeded by inconsistent or non-reproducible results, especially when applying different analysis pipelines and reference databases. We investigated five frequently used software packages by submitting the same monobacterial datasets to them, representing the V1-2 and the V3-4 regions of the 16S-rRNA gene of 26 well characterized strains, which were sequenced by the Ion Torrent™ GeneStudio S5 system. The results obtained were divergent and calculations of relative abundance did not yield the expected 100%. We investigated these inconsistencies and were able to attribute them to failures either of the pipelines themselves or of the reference databases they rely on. On the basis of these findings, we recommend certain standards which should help to render microbiome testing more consistent and reproducible, and thus useful in clinical practice.
 
 [Source](https://doi.org/10.1371/journal.pone.0280870)
