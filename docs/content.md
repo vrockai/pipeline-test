@@ -1,12 +1,12 @@
-## Fine cassava fibre utilization as a dietary fibre source for dogs: Effects on kibble characteristics, diet digestibility and palatability, faecal metabolites and microbiota.
- 22.02.2023, _CMM Souza, TS Bastos, GCB Kaelle, M Bortolo, SG de Oliveira, AP Félix_
+## Lactocaseibacillus rhamnosus zz-1 Supplementation Mitigates Depression-Like Symptoms in Chronic Stress-Induced Depressed Mice via the Microbiota-Gut-Brain Axis.
+ 22.02.2023, _J Xu, M Tang, D Wang, X Zhang, X Yang, Y Ma, X Xu_
 
 
-The objective was to evaluate through three experiments the effects of a fine cassava fibre (CA: 106 µm) on kibble characteristics, coefficients of total tract apparent digestibility (CTTAD) of macronutrients, diet palatability and faecal metabolites and microbiota of dogs. Dietary treatments consisted of a control diet (CO), without an added fibre source and with 4.3% total dietary fibre (TDF), and a diet with 9.6% CA (106 µm), with 8.4% TDF. Experiment I evaluated the physical characteristics of the kibbles. The palatability test was evaluated in experiment II, which compared the diets CO versus CA. In experiment III, 12 adult dogs were randomly assigned to one of the two dietary treatments for 15 days, totalling six replicates/treatment, to assess the CTTAD of macronutrients; faecal characteristics, faecal metabolites and microbiota. The expansion index, kibble size and friability of diets with CA were higher than the CO (p &lt; 0.05). Additionally, the CA diet presented higher palatability than the CO (p &lt; 0.05) but did not affect CTTAD except for those of fibre (p &gt; 0.05). Moreover, a greater faecal concentration of acetate, butyrate and total short-chain fatty acids (SCFA) and a lower faecal concentration of phenol, indole and isobutyrate were observed in dogs fed the CA diet (p &lt; 0.05). Dogs fed with the CA diet presented a greater bacterial diversity and richness and a greater abundance of genera considered to be beneficial for gut health, such as Blautia, Faecalibacterium and Fusobacterium when compared to the CO group (p &lt; 0.05). The inclusion of 9.6% of a fine CA improves the expansion of kibbles and diet palatability without affecting most of the CTTAD of nutrients. Besides, it improves the production of some SCFA and modulates the faecal microbiota of dogs.
+Accumulating evidence has revealed an association between depression and disordered intestinal microecology. The discovery of psychobiotics has provided a promising perspective for studying the treatment of psychiatric disorders. Here, we aimed to investigate the antidepressant abilities of Lactocaseibacillus rhamnosus zz-1 (LRzz-1) and elucidate the underlying mechanisms. The viable bacteria (2 × 109 CFU/day) were orally supplemented to depressed C57BL/6 mice induced by chronic unpredictable mild stress (CUMS), and the behavioral, neurophysiological, and intestinal microbial effects were assessed, with fluoxetine used as a positive control. The treatment with LRzz-1 effectively mitigated the depression-like behavioral disorders of depressed mice and reduced the expression of inflammatory cytokine mRNA (IL-1β, IL-6, and TNF-α) in the hippocampus. In addition, LRzz-1 treatment also improved tryptophan metabolic disorder in the mouse hippocampus, as well as its peripheral circulation. These benefits are associated with the mediation of microbiome-gut-brain bidirectional communication. CUMS-induced depression impaired the intestinal barrier integrity and microbial homeostasis in mice, neither of which was restored by fluoxetine. LRzz-1 prevented intestinal leakage and significantly ameliorated epithelial barrier permeability by up-regulating tight-junction proteins (including ZO-1, occludin, and claudin-1). In particular, LRzz-1 improved the microecological balance by normalizing the threatened bacteria (e.g., Bacteroides and Desulfovibrio), exerting beneficial regulation (e.g., Ruminiclostridium 6 and Alispites), and modifying short-chain fatty acid metabolism. In summary, LRzz-1 showed considerable antidepressant-like effects and exhibited more comprehensive intestinal microecological regulation than other drugs, which offers novel insights that can facilitate the development of depression therapeutic strategies.
 
 [Source](https://doi.org/10.1016/j.cels.2022.12.010)
 
-10.1111/jpn.13812
+10.1021/acschemneuro.2c00580
 
 ---
 
@@ -17,7 +17,7 @@ The objective was to evaluate through three experiments the effects of a fine ca
 ---
 
 ## Metabolic models of human gut microbiota: Advances and challenges.
- 21.02.2023, _D Rios Garza, D Gonze, H Zafeiropoulos, B Liu, K Faust_
+ 22.02.2023, _D Rios Garza, D Gonze, H Zafeiropoulos, B Liu, K Faust_
 
 
 _Humans, Gastrointestinal Microbiome, Ecosystem, Models, Theoretical_
@@ -30,7 +30,7 @@ The human gut is a complex ecosystem consisting of hundreds of microbial species
 ---
 
 ## The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes that reflect dietary intakes and fecal water content.
- 21.02.2023, _N Renall, B Lawley, T Vatanen, B Merz, J Douwes, M Corbin, L Te Morenga, R Kruger, BH Breier, GW Tannock_
+ 22.02.2023, _N Renall, B Lawley, T Vatanen, B Merz, J Douwes, M Corbin, L Te Morenga, R Kruger, BH Breier, GW Tannock_
 
 
 _Humans, Female, Ethnicity, Diabetes Mellitus, Type 2, New Zealand, Gastrointestinal Microbiome, Feces, Microbiota, Obesity, Eating_
@@ -98,7 +98,7 @@ The natural soil environment is considered one of the most diverse habitats cont
 ---
 
 ## Unravelling microalgal-bacterial interactions in aquatic ecosystems through 16S rRNA gene-based co-occurrence networks.
- 21.02.2023, _BLDU Pushpakumara, K Tandon, A Willis, H Verbruggen_
+ 22.02.2023, _BLDU Pushpakumara, K Tandon, A Willis, H Verbruggen_
 
 
 _RNA, Ribosomal, 16S, Microalgae, Genes, rRNA, Bacteria, Microbiota_
@@ -123,7 +123,7 @@ The gut microbiota produce hundreds of small molecules, many of which modulate h
 ---
 
 ## Reliability of species detection in 16S microbiome analysis: Comparison of five widely used pipelines and recommendations for a more standardized approach.
- 21.02.2023, _A Hiergeist, J Ruelle, S Emler, A Gessner_
+ 22.02.2023, _A Hiergeist, J Ruelle, S Emler, A Gessner_
 
 
 _Reproducibility of Results, High-Throughput Nucleotide Sequencing, Microbiota, Bacteria, Base Sequence, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
@@ -135,15 +135,21 @@ The use of NGS-based testing of the bacterial microbiota is often impeded by inc
 
 ---
 
-## Impact of experimental bias on compositional analysis of microbiome data.
- 17.02.2023, _Y Hu, GA Satten, YJ Hu_
+## Effect of in vitro cultivation on human gut microbiota composition using 16S rDNA amplicon sequencing and metabolomics approach.
+ 22.02.2023, _P Średnicka, MŁ Roszko, D Popowski, M Kowalczyk, M Wójcicki, P Emanowicz, M Szczepańska, D Kotyrba, E Juszczuk-Kubiak_
 
 
-Microbiome data are subject to experimental bias that is caused by DNA extraction, PCR amplification among other sources, but this important feature is often ignored when developing statistical methods for analyzing microbiome data. McLaren, Willis and Callahan (2019) proposed a model for how such bias affects the observed taxonomic profiles, which assumes main effects of bias without taxon-taxon interactions. Our newly developed method, LOCOM (logistic regression for compositional analysis) for testing differential abundance of taxa, is the first method that accounted for experimental bias and is robust to the main effect biases. However, there is also evidence for taxon-taxon interactions. In this report, we formulated a model for interaction biases and used simulations based on this model to evaluate the impact of interaction biases on the performance of LOCOM as well as other available compositional analysis methods. Our simulation results indicated that LOCOM remained robust to a reasonable range of interaction biases. The other methods tended to have inflated FDR even when there were only main effect biases. LOCOM maintained the highest sensitivity even when the other methods cannot control the FDR. We thus conclude that LOCOM outperforms the other methods for compositional analysis of microbiome data considered here.
+Gut microbiota (GM) plays many key functions and helps maintain the host's health. Consequently, the development of GM cultivation under in vitro stimulating physiological conditions has gained extreme interest in different fields. In this study, we evaluated the impact of four culture media: Gut Microbiota Medium (GMM), Schaedler Broth (SM), Fermentation Medium (FM), and Carbohydrate Free Basal Medium (CFBM) on preserving the biodiversity and metabolic activity of human GM in batch in vitro cultures using PMA treatment coupled with 16S rDNA sequencing (PMA-seq) and LC-HR-MS/MS untargeted metabolomics supplemented with GC-MS SCFA profiling. Before the experiments, we determined the possibility of using the pooled faecal samples (MIX) from healthy donors (n = 15) as inoculum to reduce the number of variables and ensure the reproducibility of in vitro cultivation tests. Results showed the suitability of pooling faecal samples for in vitro cultivation study. Non-cultured MIX inoculum was characterized by higher α-diversity (Shannon effective count, and Effective microbial richness) compared to inocula from individual donors. After 24 h of cultivation, a significant effect of culture media composition on GM taxonomic and metabolomic profiles was observed. The SM and GMM had the highest α-diversity (Shannon effective count). The highest number of core ASVs (125) shared with non-cultured MIX inoculum and total SCFAs production was observed in the SM. These results might contribute to the development of standardized protocols for human GM in vitro cultivation by preventing methodological bias in the data.
 
 [Source](https://doi.org/10.1101/2023.02.08.527766)
 
-10.1101/2023.02.08.527766
+10.1038/s41598-023-29637-2
+
+---
+
+## Impact of experimental bias on compositional analysis of microbiome data
+
+[Source](https://doi.org/10.1101/2023.02.08.527766)
 
 ---
 
