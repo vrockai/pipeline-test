@@ -1,156 +1,157 @@
-## Gastrointestinal disorders and intestinal bacteria: Advances in research and applications in therapy.
- 24.02.2023, _T Ohkusa, Y Nishikawa, N Sato_
+## Gut microbiome lipid metabolism and its impact on host physiology.
+ 18.02.2023, _EM Brown, J Clardy, RJ Xavier_
 
 
-Intestinal bacteria coexist with humans and play a role in suppressing the invasion of pathogens, producing short-chain fatty acids, producing vitamins, and controlling the immune system. Studies have been carried out on culturable bacterial species using bacterial culture methods for many years. However, as metagenomic analysis of bacterial genes has been developed since the 1990s, it has recently revealed that many bacteria in the intestine cannot be cultured and that approximately 1,000 species and 40 trillion bacteria are present in the gut microbiota. Furthermore, the composition of the microbiota is different in each disease state compared with the healthy state, and dysbiosis has received much attention as a cause of various diseases. Regarding gastrointestinal diseases, dysbiosis has been reported to be involved in inflammatory bowel disease, irritable bowel syndrome, and non-alcoholic steatohepatitis. Recent findings have also suggested that dysbiosis is involved in colon cancer, liver cancer, pancreatic cancer, esophageal cancer, and so on. This review focuses on the relationship between the gut microbiota and gastrointestinal/hepatobiliary diseases and also discusses new therapies targeting the gut microbiota.
+_Animals, Gastrointestinal Microbiome, Lipid Metabolism, Immune System, Lipids, Mammals_
+Metabolites produced by commensal gut microbes impact host health through their recognition by the immune system and their influence on numerous metabolic pathways. Notably, the gut microbiota can both transform and synthesize lipids as well as break down dietary lipids to generate secondary metabolites with host modulatory properties. Although lipids have largely been consigned to structural roles, particularly in cell membranes, recent research has led to an increased appreciation of their signaling activities, with potential impacts on host health and physiology. This review focuses on studies that highlight the functions of bioactive lipids in mammalian physiology, with a special emphasis on immunity and metabolism.
 
-[Source](https://doi.org/10.1016/j.cels.2022.12.010)
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00034-3)
 
-10.3389/fmed.2022.935676
-
----
-
-## Controlling the human microbiome
-
-[Source](https://doi.org/10.1016/j.cels.2022.12.010)
+10.1016/j.chom.2023.01.009
 
 ---
 
-## Metabolic models of human gut microbiota: Advances and challenges.
- 22.02.2023, _D Rios Garza, D Gonze, H Zafeiropoulos, B Liu, K Faust_
+## Modelling human immune responses using microbial exposures in rodents.
+ 16.02.2023, _Y Li, MT Baldridge_
 
 
-_Humans, Gastrointestinal Microbiome, Ecosystem, Models, Theoretical_
-The human gut is a complex ecosystem consisting of hundreds of microbial species interacting with each other and with the human host. Mathematical models of the gut microbiome integrate our knowledge of this system and help to formulate hypotheses to explain observations. The generalized Lotka-Volterra model has been widely used for this purpose, but it does not describe interaction mechanisms and thus does not account for metabolic flexibility. Recently, models that explicitly describe gut microbial metabolite production and consumption have become popular. These models have been used to investigate the factors that shape gut microbial composition and to link specific gut microorganisms to changes in metabolite concentrations found in diseases. Here, we review how such models are built and what we have learned so far from their application to human gut microbiome data. In addition, we discuss current challenges of these models and how these can be addressed in the future.
 
-[Source](https://doi.org/10.1016/j.cels.2022.11.002)
+[Source](https://www.nature.com/articles/s41564-023-01334-w)
 
-10.1016/j.cels.2022.11.002
+10.1038/s41564-023-01334-w
 
 ---
 
-## The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes that reflect dietary intakes and fecal water content.
- 22.02.2023, _N Renall, B Lawley, T Vatanen, B Merz, J Douwes, M Corbin, L Te Morenga, R Kruger, BH Breier, GW Tannock_
+## Gut commensal&nbsp;<em>Parabacteroides distasonis</em>&nbsp;alleviates inflammatory arthritis
 
-
-_Humans, Female, Ethnicity, Diabetes Mellitus, Type 2, New Zealand, Gastrointestinal Microbiome, Feces, Microbiota, Obesity, Eating_
-Obesity is a complex, multifactorial condition that is an important risk factor for noncommunicable diseases including cardiovascular disease and type 2 diabetes. While prevention and management require a healthy and energy balanced diet and adequate physical activity, the taxonomic composition and functional attributes of the colonic microbiota may have a supplementary role in the development of obesity. The taxonomic composition and metabolic capacity of the fecal microbiota of 286 women, resident in Auckland New Zealand, was determined by metagenomic analysis. Associations with BMI (obese, nonobese), body fat composition, and ethnicity (Pacific, n = 125; NZ European women [NZE], n = 161) were assessed using regression analyses. The fecal microbiotas were characterized by the presence of three distinctive enterotypes, with enterotype 1 represented in both Pacific and NZE women (39 and 61%, respectively), enterotype 2 mainly in Pacific women (84 and 16%) and enterotype 3 mainly in NZE women (13 and 87%). Enterotype 1 was characterized mainly by the relative abundances of butyrate producing species, Eubacterium rectale and Faecalibacterium prausnitzii, enterotype 2 by the relative abundances of lactic acid producing species, Bifidobacterium adolescentis, Bifidobacterium bifidum, and Lactobacillus ruminis, and enterotype 3 by the relative abundances of Subdoligranulum sp., Akkermansia muciniphila, Ruminococcus bromii, and Methanobrevibacter smithii. Enterotypes were also associated with BMI, visceral fat %, and blood cholesterol. Habitual food group intake was estimated using a 5 day nonconsecutive estimated food record and a 30 day, 220 item semi-quantitative Food Frequency Questionnaire. Higher intake of 'egg' and 'dairy' products was associated with enterotype 3, whereas 'non-starchy vegetables', 'nuts and seeds' and 'plant-based fats' were positively associated with enterotype 1. In contrast, these same food groups were inversely associated with enterotype 2. Fecal water content, as a proxy for stool consistency/colonic transit time, was associated with microbiota taxonomic composition and gene pools reflective of particular bacterial biochemical pathways. The fecal microbiotas of women of Pacific and New Zealand European ethnicities are characterized by distinctive enterotypes, most likely due to differential dietary intake and fecal consistency/colonic transit time. These parameters need to be considered in future analyses of human fecal microbiotas.
-
-[Source](https://doi.org/10.1080/19490976.2023.2178801)
-
-10.1080/19490976.2023.2178801
+[Source](https://gut.bmj.com/content/early/2023/02/16/gutjnl-2022-327756)
 
 ---
 
-## Identifying the Novel Gut Microbial Metabolite Contributing to Metabolic Syndrome in Children Based on Integrative Analyses of Microbiome-Metabolome Signatures.
- 16.02.2023, _J Wei, W Dai, X Pan, Y Zhong, N Xu, P Ye, J Wang, J Li, F Yang, J Luo, M Luo_
+## An open label, non-randomized study assessing a prebiotic fiber intervention in a small cohort of Parkinson’s disease participants
 
-
-The pathogenesis of gut microbiota and their metabolites in the development of metabolic syndrome (MS) remains unclear. This study aimed to evaluate the signatures of gut microbiota and metabolites as well as their functions in obese children with MS. A case-control study was conducted based on 23 MS children and 31 obese controls. The gut microbiome and metabolome were measured using 16S rRNA gene amplicon sequencing and liquid chromatography-mass spectrometry. An integrative analysis was conducted, combining the results of the gut microbiome and metabolome with extensive clinical indicators. The biological functions of the candidate microbial metabolites were validated in vitro. We identified 9 microbiota and 26 metabolites that were significantly different from the MS and the control group. The clinical indicators of MS were correlated with the altered microbiota Lachnoclostridium, Dialister, and Bacteroides, as well as with the altered metabolites all-trans-13,14-dihydroretinol, DL-dipalmitoylphosphatidylcholine (DPPC), LPC 24: 1, PC (14:1e/10:0), and 4-phenyl-3-buten-2-one, etc. The association network analysis further identified three MS-linked metabolites, including all-trans-13,14-dihydroretinol, DPPC, and 4-phenyl-3-buten-2-one, that were significantly correlated with the altered microbiota. Bio-functional validation showed that all-trans-13, 14-dihydroretinol could significantly upregulate the expression of lipid synthesis genes and inflammatory genes. This study identified a new biomarker that may contribute to MS development. These findings provided new insights regarding the development of efficient therapeutic strategies for MS. IMPORTANCE Metabolic syndrome (MS) has become a health concern worldwide. Gut microbiota and metabolites play an important role in human health. We first endeavored to comprehensively analyze the microbiome and metabolome signatures in obese children and found the novel microbial metabolites in MS. We further validated the biological functions of the metabolites in vitro and illustrated the effects of the microbial metabolites on lipid synthesis and inflammation. The microbial metabolite all-trans-13, 14-dihydroretinol may be a new biomarker in the pathogenesis of MS, especially in obese children. These findings were not available in previous studies, and they provide new insights regarding the management of metabolic syndrome.
-
-[Source](https://doi.org/10.1128/spectrum.03771-22)
-
-10.1128/spectrum.03771-22
+[Source](https://www.nature.com/articles/s41467-023-36497-x)
 
 ---
 
-## Gut Microbiome and Risk of Ischemic Stroke: A Comprehensive Mendelian Randomization Study.
- 17.02.2023, _C Meng, P Deng, R Miao, H Tang, Y Li, J Wang, J Wu, W Wang, S Liu, J Xia, Y Lu_
+## Antibiotic use and inflammatory bowel disease: number needed to harm?
+ 22.02.2023, _JF Ludvigsson_
 
 
-Increasing evidence implicates the microbiome as a susceptibility factor for ischemic stroke (IS). Interpretation of this evidence is difficult for the composition of the microbiome is influenced by various factors and might affect differently in IS subtypes. We aim to determine if the specific gut microbiome is causally associated with IS subtypes and suggest potential approaches for stroke prevention.
 
-[Source](https://doi.org/10.1093/eurjpc/zwad052)
+[Source](https://gut.bmj.com/content/early/2023/02/20/gutjnl-2023-329575)
 
-10.1093/eurjpc/zwad052
-
----
-
-## Metagenomic analysis of Ancient Egyptian canopic jars.
- 18.02.2023, _E Rayo, J Neukamm, N Tomoum, P Eppenberger, A Breidenstein, AS Bouwman, VJ Schuenemann, FJ Rühli_
-
-
-_Humans, Egypt, DNA, Ancient, Mummies, Lung, Base Sequence_
-Ancient Egyptian remains have been of interest for anthropological research for decades. Despite many investigations, the ritual vessels for the internal organs removed during body preparation-liver, lungs, stomach, and intestines, of Egyptian mummies are rarely used for palaeopathological or medical investigations. These artifacts, commonly referred to as canopic jars, are the perfect combination of cultural and biological material and present an untapped resource for both Egyptological and medical fields. Nevertheless, technical challenges associated with this archeological material have prevented the application of current ancient DNA techniques for both the characterization of human and pathogenic DNA. We present shotgun-sequenced metagenomic profiles and ancient DNA degradation patterns from multiple canopic jars sampled from several European museum collections and enumerate current limitations and possible solutions for the future analysis of similar material. This is the first-ever recorded evidence of ancient human DNA found in Ancient Egyptian canopic jars and the first associated metagenomic description of bacterial taxa in these funerary artifacts.
-
-[Source](https://doi.org/10.1002/ajpa.24600)
-
-10.1002/ajpa.24600
+10.1136/gutjnl-2023-329575
 
 ---
 
-## Vaginal microbial dynamics and pathogen colonization in a humanized microbiota mouse model
-
-[Source](https://doi.org/10.1101/2023.02.09.527909)
-
----
-
-## Multidisciplinary evaluation of plant growth promoting rhizobacteria on soil microbiome and strawberry quality.
- 20.02.2023, _JH Nam, A Thibodeau, YL Qian, MC Qian, SH Park_
+## Oral mucosal breaks trigger anti-citrullinated bacterial and human protein antibody responses in rheumatoid arthritis.
+ 24.02.2023, _RC Brewer, TV Lanz, CR Hale, GD Sepich-Poore, C Martino, AD Swafford, TS Carroll, S Kongpachith, LK Blum, SE Elliott, NE Blachere, S Parveen, J Fak, V Yao, O Troyanskaya, MO Frank, MS Bloom, S Jahanbani, AM Gomez, R Iyer, NS Ramadoss, O Sharpe, S Chandrasekaran, LB Kelmenson, Q Wang, H Wong, HL Torres, M Wiesen, DT Graves, KD Deane, VM Holers, R Knight, RB Darnell, WH Robinson, DE Orange_
 
 
-The natural soil environment is considered one of the most diverse habitats containing numerous bacteria, fungi, and larger organisms such as nematodes, insects, or rodents. Rhizosphere bacteria play vital roles in plant nutrition and the growth promotion of their host plant. The aim of this study was to evaluate the effects of three plant growth-promoting rhizobacteria (PGPR), Bacillus subtilis, Bacillus amyloliquefaciens, and Pseudomonas monteilii for their potential role as a biofertilizer. The effect of the PGPR was examined at a commercial strawberry farm in Dayton, Oregon. The PGPR were applied to the soil of the strawberry (Fragaria × ananassa cultivar Hood) plants in two different concentrations of PGPR, T1 (0.24% PGPR) and T2 (0.48% PGPR), and C (no PGPR). A total of 450 samples from August 2020 to May 2021 were collected, and microbiome sequencing based on the V4 region of the 16S rRNA gene was conducted. The strawberry quality was measured by sensory evaluation, total acidity (TA), total soluble solids (TSS), color (lightness and chroma), and volatile compounds. Application of the PGPR significantly increased the populations of Bacillus and Pseudomonas and promoted the growth of nitrogen-fixing bacteria. The TSS and color evaluation showed that the PGPR presumptively behaved as a ripening enhancer. The PGPR contributed to the production of fruit-related volatile compounds, while the sensory evaluation did not show significant differences among the three groups. The major finding of this study suggests that the consortium of the three PGPR have a potential role as a biofertilizer by supporting the growth of other microorganisms (nitrogen-fixing bacteria) as part of a synergetic effect and strawberry quality such as sweetness and volatile compounds.
+_Humans, Autoantibodies, Mouth Mucosa, Antibody Formation, Arthritis, Rheumatoid, Epitopes, Periodontal Diseases, Bacteria_
+Periodontal disease is more common in individuals with rheumatoid arthritis (RA) who have detectable anti-citrullinated protein antibodies (ACPAs), implicating oral mucosal inflammation in RA pathogenesis. Here, we performed paired analysis of human and bacterial transcriptomics in longitudinal blood samples from RA patients. We found that patients with RA and periodontal disease experienced repeated oral bacteremias associated with transcriptional signatures of ISG15+HLADRhi and CD48highS100A2pos monocytes, recently identified in inflamed RA synovia and blood of those with RA flares. The oral bacteria observed transiently in blood were broadly citrullinated in the mouth, and their in situ citrullinated epitopes were targeted by extensively somatically hypermutated ACPAs encoded by RA blood plasmablasts. Together, these results suggest that (i) periodontal disease results in repeated breaches of the oral mucosa that release citrullinated oral bacteria into circulation, which (ii) activate inflammatory monocyte subsets that are observed in inflamed RA synovia and blood of RA patients with flares and (iii) activate ACPA B cells, thereby promoting affinity maturation and epitope spreading to citrullinated human antigens.
 
-[Source](https://doi.org/10.1186/s13568-023-01524-z)
+[Source](https://www.science.org/doi/10.1126/scitranslmed.abq8476)
 
-10.1186/s13568-023-01524-z
+10.1126/scitranslmed.abq8476
 
 ---
 
-## Unravelling microalgal-bacterial interactions in aquatic ecosystems through 16S rRNA gene-based co-occurrence networks.
- 22.02.2023, _BLDU Pushpakumara, K Tandon, A Willis, H Verbruggen_
+## Sputum bacterial load and bacterial composition correlate with lung function and are altered by long-term azithromycin treatment in children with HIV-associated chronic lung disease
 
-
-_RNA, Ribosomal, 16S, Microalgae, Genes, rRNA, Bacteria, Microbiota_
-Interactions between microalgae and bacteria can directly influence the global biogeochemical cycles but the majority of such interactions remain unknown. 16S rRNA gene-based co-occurrence networks have potential to help identify microalgal-bacterial interactions. Here, we used data from 10 Earth microbiome projects to identify potential microalgal-bacterial associations in aquatic ecosystems. A high degree of clustering was observed in microalgal-bacterial modules, indicating densely connected neighbourhoods. Proteobacteria and Bacteroidetes predominantly co-occurred with microalgae and represented hubs of most modules. Our results also indicated that species-specificity may be a global characteristic of microalgal associated microbiomes. Several previously known associations were recovered from our network modules, validating that biologically meaningful results can be inferred using this approach. A range of previously unknown associations were recognised such as co-occurrences of Bacillariophyta with uncultured Planctomycetes OM190 and Deltaproteobacteria order NB1-j. Planctomycetes and Verrucomicrobia were identified as key associates of microalgae due to their frequent co-occurrences with several microalgal taxa. Despite no clear taxonomic pattern, bacterial associates appeared functionally similar across different environments. To summarise, we demonstrated the potential of 16S rRNA gene-based co-occurrence networks as a hypothesis-generating framework to guide more focused research on microalgal-bacterial associations.
-
-[Source](https://doi.org/10.1038/s41598-023-27816-9)
-
-10.1038/s41598-023-27816-9
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01460-x)
 
 ---
 
-## gutSMASH predicts specialized primary metabolic pathways from the human gut microbiota.
- 14.02.2023, _V Pascal Andreu, HE Augustijn, L Chen, A Zhernakova, J Fu, MA Fischbach, D Dodd, MH Medema_
+## Genetic mapping of microbial and host traits reveals production of immunomodulatory lipids by Akkermansia muciniphila in the murine gut.
+ 14.02.2023, _Q Zhang, V Linke, KA Overmyer, LL Traeger, K Kasahara, IJ Miller, DE Manson, TJ Polaske, RL Kerby, JH Kemis, EA Trujillo, TR Reddy, JD Russell, KL Schueler, DS Stapleton, ME Rabaglia, M Seldin, DM Gatti, GR Keele, DT Pham, JP Gerdt, EI Vivas, AJ Lusis, MP Keller, GA Churchill, HE Blackwell, KW Broman, AD Attie, JJ Coon, FE Rey_
 
 
-The gut microbiota produce hundreds of small molecules, many of which modulate host physiology. Although efforts have been made to identify biosynthetic genes for secondary metabolites, the chemical output of the gut microbiome consists predominantly of primary metabolites. Here we introduce the gutSMASH algorithm for identification of primary metabolic gene clusters, and we used it to systematically profile gut microbiome metabolism, identifying 19,890 gene clusters in 4,240 high-quality microbial genomes. We found marked differences in pathway distribution among phyla, reflecting distinct strategies for energy capture. These data explain taxonomic differences in short-chain fatty acid production and suggest a characteristic metabolic niche for each taxon. Analysis of 1,135 individuals from a Dutch population-based cohort shows that the level of microbiome-derived metabolites in plasma and feces is almost completely uncorrelated with the metagenomic abundance of corresponding metabolic genes, indicating a crucial role for pathway-specific gene regulation and metabolite flux. This work is a starting point for understanding differences in how bacterial taxa contribute to the chemistry of the microbiome.
+The molecular bases of how host genetic variation impacts the gut microbiome remain largely unknown. Here we used a genetically diverse mouse population and applied systems genetics strategies to identify interactions between host and microbe phenotypes including microbial functions, using faecal metagenomics, small intestinal transcripts and caecal lipids that influence microbe-host dynamics. Quantitative trait locus (QTL) mapping identified murine genomic regions associated with variations in bacterial taxa; bacterial functions including motility, sporulation and lipopolysaccharide production and levels of bacterial- and host-derived lipids. We found overlapping QTL for the abundance of Akkermansia muciniphila and caecal levels of ornithine lipids. Follow-up in vitro and in vivo studies revealed that A. muciniphila is a major source of these lipids in the gut, provided evidence that ornithine lipids have immunomodulatory effects and identified intestinal transcripts co-regulated with these traits including Atf3, which encodes for a transcription factor that plays vital roles in modulating metabolism and immunity. Collectively, these results suggest that ornithine lipids are potentially important for A. muciniphila-host interactions and support the role of host genetics as a determinant of responses to gut microbes.
 
-[Source](https://doi.org/10.1038/s41587-023-01675-1)
+[Source](https://www.nature.com/articles/s41564-023-01326-w)
 
-10.1038/s41587-023-01675-1
-
----
-
-## Reliability of species detection in 16S microbiome analysis: Comparison of five widely used pipelines and recommendations for a more standardized approach.
- 22.02.2023, _A Hiergeist, J Ruelle, S Emler, A Gessner_
-
-
-_Reproducibility of Results, High-Throughput Nucleotide Sequencing, Microbiota, Bacteria, Base Sequence, RNA, Ribosomal, 16S, Sequence Analysis, DNA_
-The use of NGS-based testing of the bacterial microbiota is often impeded by inconsistent or non-reproducible results, especially when applying different analysis pipelines and reference databases. We investigated five frequently used software packages by submitting the same monobacterial datasets to them, representing the V1-2 and the V3-4 regions of the 16S-rRNA gene of 26 well characterized strains, which were sequenced by the Ion Torrent™ GeneStudio S5 system. The results obtained were divergent and calculations of relative abundance did not yield the expected 100%. We investigated these inconsistencies and were able to attribute them to failures either of the pipelines themselves or of the reference databases they rely on. On the basis of these findings, we recommend certain standards which should help to render microbiome testing more consistent and reproducible, and thus useful in clinical practice.
-
-[Source](https://doi.org/10.1371/journal.pone.0280870)
-
-10.1371/journal.pone.0280870
+10.1038/s41564-023-01326-w
 
 ---
 
-## Effect of in vitro cultivation on human gut microbiota composition using 16S rDNA amplicon sequencing and metabolomics approach.
- 24.02.2023, _P Średnicka, MŁ Roszko, D Popowski, M Kowalczyk, M Wójcicki, P Emanowicz, M Szczepańska, D Kotyrba, E Juszczuk-Kubiak_
+## Microbe-mediated intestinal NOD2 stimulation improves linear growth of undernourished infant mice.
+ 23.02.2023, _M Schwarzer, UK Gautam, K Makki, A Lambert, T Brabec, A Joly, D Šrůtková, P Poinsot, T Novotná, S Geoffroy, P Courtin, PP Hermanová, RC Matos, JJM Landry, C Gérard, AL Bulteau, T Hudcovic, H Kozáková, D Filipp, MP Chapot-Chartier, M Šinkora, N Peretti, IG Boneca, M Chamaillard, H Vidal, F De Vadder, F Leulier_
 
 
-_Humans, Gastrointestinal Microbiome, DNA, Ribosomal, Reproducibility of Results, Tandem Mass Spectrometry, Feces, Culture Media, RNA, Ribosomal, 16S, Metabolomics_
-Gut microbiota (GM) plays many key functions and helps maintain the host's health. Consequently, the development of GM cultivation under in vitro stimulating physiological conditions has gained extreme interest in different fields. In this study, we evaluated the impact of four culture media: Gut Microbiota Medium (GMM), Schaedler Broth (SM), Fermentation Medium (FM), and Carbohydrate Free Basal Medium (CFBM) on preserving the biodiversity and metabolic activity of human GM in batch in vitro cultures using PMA treatment coupled with 16S rDNA sequencing (PMA-seq) and LC-HR-MS/MS untargeted metabolomics supplemented with GC-MS SCFA profiling. Before the experiments, we determined the possibility of using the pooled faecal samples (MIX) from healthy donors (n = 15) as inoculum to reduce the number of variables and ensure the reproducibility of in vitro cultivation tests. Results showed the suitability of pooling faecal samples for in vitro cultivation study. Non-cultured MIX inoculum was characterized by higher α-diversity (Shannon effective count, and Effective microbial richness) compared to inocula from individual donors. After 24 h of cultivation, a significant effect of culture media composition on GM taxonomic and metabolomic profiles was observed. The SM and GMM had the highest α-diversity (Shannon effective count). The highest number of core ASVs (125) shared with non-cultured MIX inoculum and total SCFAs production was observed in the SM. These results might contribute to the development of standardized protocols for human GM in vitro cultivation by preventing methodological bias in the data.
+The intestinal microbiota is known to influence postnatal growth. We previously found that a strain of Lactiplantibacillus plantarum (strain LpWJL) buffers the adverse effects of chronic undernutrition on the growth of juvenile germ-free mice. Here, we report that LpWJL sustains the postnatal growth of malnourished conventional animals and supports both insulin-like growth factor-1 (IGF-1) and insulin production and activity. We have identified cell walls isolated from LpWJL, as well as muramyl dipeptide and mifamurtide, as sufficient cues to stimulate animal growth despite undernutrition. Further, we found that NOD2 is necessary in intestinal epithelial cells for LpWJL-mediated IGF-1 production and for postnatal growth promotion in malnourished conventional animals. These findings indicate that, coupled with renutrition, bacteria cell walls or purified NOD2 ligands have the potential to alleviate stunting.
 
-[Source](https://doi.org/10.1101/2023.02.08.527766)
+[Source](https://www.science.org/doi/10.1126/science.ade9767)
 
-10.1038/s41598-023-29637-2
+10.1126/science.ade9767
 
 ---
 
-## Impact of experimental bias on compositional analysis of microbiome data
+## Gamma-delta T cells modulate the microbiota and fecal micro-RNAs to maintain mucosal tolerance.
+ 24.02.2023, _RM Rezende, LM Cox, TG Moreira, S Liu, S Boulenouar, F Dhang, DS LeServe, BN Nakagaki, JR Lopes, BK Tatematsu, L Lemos, J Mayrink, ELC Lobo, L Guo, MG Oliveira, C Kuhn, HL Weiner_
 
-[Source](https://doi.org/10.1101/2023.02.08.527766)
+
+_Mice, Animals, T-Lymphocytes, MicroRNAs, Receptors, Antigen, T-Cell, gamma-delta, Intestines, Intestinal Mucosa, Microbiota, Immunity, Mucosal_
+Gamma-delta (γδ) T cells are a major cell population in the intestinal mucosa and are key mediators of mucosal tolerance and microbiota composition. Little is known about the mechanisms by which intestinal γδ T cells interact with the gut microbiota to maintain tolerance.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01478-1)
+
+10.1186/s40168-023-01478-1
+
+---
+
+## Bacteriophage discovery to advance biotechnology and biotherapeutics.
+ 22.02.2023, _A Mu, TD Lawley_
+
+
+
+[Source](https://www.nature.com/articles/s41579-023-00870-w)
+
+10.1038/s41579-023-00870-w
+
+---
+
+## Impact of microbial genome completeness on metagenomic functional inference.
+ 19.02.2023, _R Eisenhofer, I Odriozola, A Alberdi_
+
+
+Inferring the functional capabilities of bacteria from metagenome-assembled genomes (MAGs) is becoming a central process in microbiology. Here we show that the completeness of genomes has a significant impact on the recovered functional signal, spanning all domains of metabolic functions. We identify factors that affect this relationship between genome completeness and function fullness, and provide baseline knowledge to guide efforts to correct for this overlooked bias in metagenomic functional inference.
+
+[Source](https://www.nature.com/articles/s43705-023-00221-z)
+
+10.1038/s43705-023-00221-z
+
+---
+
+## Pharokka: a fast scalable bacteriophage annotation tool.
+ 22.02.2023, _G Bouras, R Nepal, G Houtak, AJ Psaltis, PJ Wormald, S Vreugde_
+
+
+_Bacteriophages, Genomics, Genome, Computational Biology, Software_
+In recent years, there has been an increasing interest in bacteriophages, which has led to growing numbers of bacteriophage genomic sequences becoming available. Consequently, there is a need for a rapid and consistent genomic annotation tool dedicated for bacteriophages. Existing tools either are not designed specifically for bacteriophages or are web- and email-based and require significant manual curation, which makes their integration into bioinformatic pipelines challenging. Pharokka was created to provide a tool that annotates bacteriophage genomes easily, rapidly and consistently with standards compliant outputs. Moreover, Pharokka requires only two lines of code to install and use and takes under 5 min to run for an average 50-kb bacteriophage genome.
+
+[Source](https://academic.oup.com/bioinformatics/article/39/1/btac776/6858464)
+
+10.1093/bioinformatics/btac776
+
+---
+
+## A systems immunology study comparing innate and adaptive immune responses in adults to COVID-19 mRNA and adenovirus vectored vaccines
+
+[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00076-9)
+
+---
+
+## Influenza-trained mucosal-resident alveolar macrophages confer long-term antitumor immunity in the lungs.
+ 22.02.2023, _T Wang, J Zhang, Y Wang, Y Li, L Wang, Y Yu, Y Yao_
+
+
+Respiratory viral infections reprogram pulmonary macrophages with altered anti-infectious functions. However, the potential function of virus-trained macrophages in antitumor immunity in the lung, a preferential target of both primary and metastatic malignancies, is not well understood. Using mouse models of influenza and lung metastatic tumors, we show here that influenza trains respiratory mucosal-resident alveolar macrophages (AMs) to exert long-lasting and tissue-specific antitumor immunity. Trained AMs infiltrate tumor lesions and have enhanced phagocytic and tumor cell cytotoxic functions, which are associated with epigenetic, transcriptional and metabolic resistance to tumor-induced immune suppression. Generation of antitumor trained immunity in AMs is dependent on interferon-γ and natural killer cells. Notably, human AMs with trained immunity traits in non-small cell lung cancer tissue are associated with a favorable immune microenvironment. These data reveal a function for trained resident macrophages in pulmonary mucosal antitumor immune surveillance. Induction of trained immunity in tissue-resident macrophages might thereby be a potential antitumor strategy.
+
+[Source](https://www.nature.com/articles/s41590-023-01428-x)
+
+10.1038/s41590-023-01428-x
 
 ---
 
