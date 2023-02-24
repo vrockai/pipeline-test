@@ -1,12 +1,12 @@
-## Intestinal group 1 innate lymphoid cells drive macrophage-induced inflammation and endocrine defects in obesity and promote insulinemia.
- 23.02.2023, _R Liébana-García, M Olivares, C Francés-Cuesta, T Rubio, V Rossini, G Quintas, Y Sanz_
+## Gastrointestinal disorders and intestinal bacteria: Advances in research and applications in therapy.
+ 24.02.2023, _T Ohkusa, Y Nishikawa, N Sato_
 
 
-Hypercaloric diets overactivate the intestinal immune system and disrupt the microbiome and epithelial cell functions, impairing glucose metabolism. The origins of this inflammatory cascade are poorly characterized. We investigated the involvement of intestinal proinflammatory group 1 innate lymphoid cells (ILC1s) in obesity progression and metabolic disruption. In obese mice, we studied longitudinally the ILC1s response to the diet and ILC1s depletion to address its role in obesity. ILC1s are required for the expansion of pro-inflammatory macrophages and ILC2s. ILC1s depletion induced the ILC3-IL-22 pathway, increasing mucin production, antimicrobial peptides, and neuroendocrine cells. These changes were translated into higher gut hormones and reduced insulinemia and adiposity. ILC1s depletion was also associated with a bloom in Akkermansia muciniphila and decreases in Bilophila spp. Intestinal-ILC1s are upstream activators of inflammatory signals, connecting immunity with the microbiome, the enteroendocrine system, and the intestinal barrier in the control of glucose metabolism and adiposity.
+Intestinal bacteria coexist with humans and play a role in suppressing the invasion of pathogens, producing short-chain fatty acids, producing vitamins, and controlling the immune system. Studies have been carried out on culturable bacterial species using bacterial culture methods for many years. However, as metagenomic analysis of bacterial genes has been developed since the 1990s, it has recently revealed that many bacteria in the intestine cannot be cultured and that approximately 1,000 species and 40 trillion bacteria are present in the gut microbiota. Furthermore, the composition of the microbiota is different in each disease state compared with the healthy state, and dysbiosis has received much attention as a cause of various diseases. Regarding gastrointestinal diseases, dysbiosis has been reported to be involved in inflammatory bowel disease, irritable bowel syndrome, and non-alcoholic steatohepatitis. Recent findings have also suggested that dysbiosis is involved in colon cancer, liver cancer, pancreatic cancer, esophageal cancer, and so on. This review focuses on the relationship between the gut microbiota and gastrointestinal/hepatobiliary diseases and also discusses new therapies targeting the gut microbiota.
 
 [Source](https://doi.org/10.1016/j.cels.2022.12.010)
 
-10.1080/19490976.2023.2181928
+10.3389/fmed.2022.935676
 
 ---
 
@@ -136,9 +136,10 @@ The use of NGS-based testing of the bacterial microbiota is often impeded by inc
 ---
 
 ## Effect of in vitro cultivation on human gut microbiota composition using 16S rDNA amplicon sequencing and metabolomics approach.
- 22.02.2023, _P Średnicka, MŁ Roszko, D Popowski, M Kowalczyk, M Wójcicki, P Emanowicz, M Szczepańska, D Kotyrba, E Juszczuk-Kubiak_
+ 24.02.2023, _P Średnicka, MŁ Roszko, D Popowski, M Kowalczyk, M Wójcicki, P Emanowicz, M Szczepańska, D Kotyrba, E Juszczuk-Kubiak_
 
 
+_Humans, Gastrointestinal Microbiome, DNA, Ribosomal, Reproducibility of Results, Tandem Mass Spectrometry, Feces, Culture Media, RNA, Ribosomal, 16S, Metabolomics_
 Gut microbiota (GM) plays many key functions and helps maintain the host's health. Consequently, the development of GM cultivation under in vitro stimulating physiological conditions has gained extreme interest in different fields. In this study, we evaluated the impact of four culture media: Gut Microbiota Medium (GMM), Schaedler Broth (SM), Fermentation Medium (FM), and Carbohydrate Free Basal Medium (CFBM) on preserving the biodiversity and metabolic activity of human GM in batch in vitro cultures using PMA treatment coupled with 16S rDNA sequencing (PMA-seq) and LC-HR-MS/MS untargeted metabolomics supplemented with GC-MS SCFA profiling. Before the experiments, we determined the possibility of using the pooled faecal samples (MIX) from healthy donors (n = 15) as inoculum to reduce the number of variables and ensure the reproducibility of in vitro cultivation tests. Results showed the suitability of pooling faecal samples for in vitro cultivation study. Non-cultured MIX inoculum was characterized by higher α-diversity (Shannon effective count, and Effective microbial richness) compared to inocula from individual donors. After 24 h of cultivation, a significant effect of culture media composition on GM taxonomic and metabolomic profiles was observed. The SM and GMM had the highest α-diversity (Shannon effective count). The highest number of core ASVs (125) shared with non-cultured MIX inoculum and total SCFAs production was observed in the SM. These results might contribute to the development of standardized protocols for human GM in vitro cultivation by preventing methodological bias in the data.
 
 [Source](https://doi.org/10.1101/2023.02.08.527766)
