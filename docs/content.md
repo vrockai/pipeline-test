@@ -1,145 +1,153 @@
-## Gut microbiome lipid metabolism and its impact on host physiology.
- 18.02.2023, _EM Brown, J Clardy, RJ Xavier_
+## Co-localization of antibiotic resistance genes is widespread in the infant gut microbiome and associates with an immature gut microbial composition
 
-
-_Animals, Gastrointestinal Microbiome, Lipid Metabolism, Immune System, Lipids, Mammals_
-Metabolites produced by commensal gut microbes impact host health through their recognition by the immune system and their influence on numerous metabolic pathways. Notably, the gut microbiota can both transform and synthesize lipids as well as break down dietary lipids to generate secondary metabolites with host modulatory properties. Although lipids have largely been consigned to structural roles, particularly in cell membranes, recent research has led to an increased appreciation of their signaling activities, with potential impacts on host health and physiology. This review focuses on studies that highlight the functions of bioactive lipids in mammalian physiology, with a special emphasis on immunity and metabolism.
-
-[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00034-3)
-
-10.1016/j.chom.2023.01.009
+[Source](https://doi.org/10.1101/2023.02.19.525876)
 
 ---
 
-## Modelling human immune responses using microbial exposures in rodents.
- 16.02.2023, _Y Li, MT Baldridge_
+## The human gut microbiome of athletes: metagenomic and metabolic insights.
+ 17.02.2023, _F Fontana, G Longhi, C Tarracchini, L Mancabelli, GA Lugli, G Alessandri, F Turroni, C Milani, M Ventura_
 
 
+_Adult, Humans, Gastrointestinal Microbiome, Microbiota, Metagenome, Bacteria, Athletes, Feces, Metagenomics_
+The correlation between the physical performance of athletes and their gut microbiota has become of growing interest in the past years, since new evidences have emerged regarding the importance of the gut microbiota as a main driver of the health status of athletes. In addition, it has been postulated that the metabolic activity of the microbial population harbored by the large intestine of athletes might influence their physical performances. Here, we analyzed 418 publicly available shotgun metagenomics datasets obtained from fecal samples of healthy athletes and healthy sedentary adults.
 
-[Source](https://www.nature.com/articles/s41564-023-01334-w)
+[Source](https://doi.org/10.1186/s40168-023-01470-9)
 
-10.1038/s41564-023-01334-w
-
----
-
-## Gut commensal&nbsp;<em>Parabacteroides distasonis</em>&nbsp;alleviates inflammatory arthritis
-
-[Source](https://gut.bmj.com/content/early/2023/02/16/gutjnl-2022-327756)
+10.1186/s40168-023-01470-9
 
 ---
 
-## An open label, non-randomized study assessing a prebiotic fiber intervention in a small cohort of Parkinson’s disease participants
+## Gut microbiome-based strategies for host health and disease.
+ 21.02.2023, _C Wang, J Bai, X Chen, J Song, Y Zhang, H Wang, H Suo_
 
-[Source](https://www.nature.com/articles/s41467-023-36497-x)
 
----
+Host health and disease are influenced by changes in the abundance and structure of intestinal flora. Current strategies are focused on regulating the structure of intestinal flora to ensure host health by alleviating disease. However, these strategies are limited by multiple factors, such as host genotype, physiology (microbiome, immunity, and gender), intervention, and diet. Accordingly, we reviewed the prospects and limitations of all strategies regulating the structure and abundance of microflora, including probiotics, prebiotics, diet, fecal microbiota transplantation, antibiotics, and phages. Some new technologies that can improve these strategies are also introduced. Compared with other strategies, diets and prebiotics are associated with reduced risk and high security. Besides, phages have the potential for application in the targeted regulation of intestinal microbiota due to their high specificity. Notably, the variability in individual microflora and their metabolic response to different interventions should be considered. Future studies should use artificial intelligence combined with multi-omics to investigate the host genome and physiology based on factors, such as blood type, dietary habits, and exercise, in order to develop individualized intervention strategies to improve host health.
 
-## Antibiotic use and inflammatory bowel disease: number needed to harm?
+[Source](https://doi.org/10.1080/10408398.2023.2176464)
 
-[Source](https://gut.bmj.com/content/early/2023/02/20/gutjnl-2023-329575)
-
----
-
-## Oral mucosal breaks trigger anti-citrullinated bacterial and human protein antibody responses in rheumatoid arthritis
-
-[Source](https://www.science.org/doi/10.1126/scitranslmed.abq8476)
+10.1080/10408398.2023.2176464
 
 ---
 
-## Sputum bacterial load and bacterial composition correlate with lung function and are altered by long-term azithromycin treatment in children with HIV-associated chronic lung disease
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01460-x)
-
----
-
-## Genetic mapping of microbial and host traits reveals production of immunomodulatory lipids by Akkermansia muciniphila in the murine gut.
- 14.02.2023, _Q Zhang, V Linke, KA Overmyer, LL Traeger, K Kasahara, IJ Miller, DE Manson, TJ Polaske, RL Kerby, JH Kemis, EA Trujillo, TR Reddy, JD Russell, KL Schueler, DS Stapleton, ME Rabaglia, M Seldin, DM Gatti, GR Keele, DT Pham, JP Gerdt, EI Vivas, AJ Lusis, MP Keller, GA Churchill, HE Blackwell, KW Broman, AD Attie, JJ Coon, FE Rey_
+## The intestinal microenvironment shapes macrophage and dendritic cell identity and function.
+ 10.02.2023, _AA Filardy, JRM Ferreira, RM Rezende, BL Kelsall, RP Oliveira_
 
 
-The molecular bases of how host genetic variation impacts the gut microbiome remain largely unknown. Here we used a genetically diverse mouse population and applied systems genetics strategies to identify interactions between host and microbe phenotypes including microbial functions, using faecal metagenomics, small intestinal transcripts and caecal lipids that influence microbe-host dynamics. Quantitative trait locus (QTL) mapping identified murine genomic regions associated with variations in bacterial taxa; bacterial functions including motility, sporulation and lipopolysaccharide production and levels of bacterial- and host-derived lipids. We found overlapping QTL for the abundance of Akkermansia muciniphila and caecal levels of ornithine lipids. Follow-up in vitro and in vivo studies revealed that A. muciniphila is a major source of these lipids in the gut, provided evidence that ornithine lipids have immunomodulatory effects and identified intestinal transcripts co-regulated with these traits including Atf3, which encodes for a transcription factor that plays vital roles in modulating metabolism and immunity. Collectively, these results suggest that ornithine lipids are potentially important for A. muciniphila-host interactions and support the role of host genetics as a determinant of responses to gut microbes.
+_Humans, Macrophages, Lymphoid Tissue, Inflammation, Allergens, Dendritic Cells, Intestinal Mucosa_
+The gut comprises the largest body interface with the environment and is continuously exposed to nutrients, food antigens, and commensal microbes, as well as to harmful pathogens. Subsets of both macrophages and dendritic cells (DCs) are present throughout the intestinal tract, where they primarily inhabit the gut-associate lymphoid tissue (GALT), such as Peyer's patches and isolated lymphoid follicles. In addition to their role in taking up and presenting antigens, macrophages and DCs possess extensive functional plasticity and these cells play complementary roles in maintaining immune homeostasis in the gut by preventing aberrant immune responses to harmless antigens and microbes and by promoting host defense against pathogens. The ability of macrophages and DCs to induce either inflammation or tolerance is partially lineage imprinted, but can also be dictated by their activation state, which in turn is determined by their specific microenvironment. These cells express several surface and intracellular receptors that detect danger signals, nutrients, and hormones, which can affect their activation state. DCs and macrophages play a fundamental role in regulating T cells and their effector functions. Thus, modulation of intestinal mucosa immunity by targeting antigen presenting cells can provide a promising approach for controlling pathological inflammation. In this review, we provide an overview on the characteristics, functions, and origins of intestinal macrophages and DCs, highlighting the intestinal microenvironmental factors that influence their functions during homeostasis. Unraveling the mechanisms by which macrophages and DCs regulate intestinal immunity will deepen our understanding on how the immune system integrates endogenous and exogenous signals in order to maintain the host's homeostasis.
 
-[Source](https://www.nature.com/articles/s41564-023-01326-w)
+[Source](https://doi.org/10.1016/j.bpg.2023.101828)
 
-10.1038/s41564-023-01326-w
+10.1016/j.imlet.2023.01.003
 
 ---
 
-## Microbe-mediated intestinal NOD2 stimulation improves linear growth of undernourished infant mice.
- 23.02.2023, _M Schwarzer, UK Gautam, K Makki, A Lambert, T Brabec, A Joly, D Šrůtková, P Poinsot, T Novotná, S Geoffroy, P Courtin, PP Hermanová, RC Matos, JJM Landry, C Gérard, AL Bulteau, T Hudcovic, H Kozáková, D Filipp, MP Chapot-Chartier, M Šinkora, N Peretti, IG Boneca, M Chamaillard, H Vidal, F De Vadder, F Leulier_
+## The role of diet in shaping human gut microbiota
 
-
-The intestinal microbiota is known to influence postnatal growth. We previously found that a strain of Lactiplantibacillus plantarum (strain LpWJL) buffers the adverse effects of chronic undernutrition on the growth of juvenile germ-free mice. Here, we report that LpWJL sustains the postnatal growth of malnourished conventional animals and supports both insulin-like growth factor-1 (IGF-1) and insulin production and activity. We have identified cell walls isolated from LpWJL, as well as muramyl dipeptide and mifamurtide, as sufficient cues to stimulate animal growth despite undernutrition. Further, we found that NOD2 is necessary in intestinal epithelial cells for LpWJL-mediated IGF-1 production and for postnatal growth promotion in malnourished conventional animals. These findings indicate that, coupled with renutrition, bacteria cell walls or purified NOD2 ligands have the potential to alleviate stunting.
-
-[Source](https://www.science.org/doi/10.1126/science.ade9767)
-
-10.1126/science.ade9767
+[Source](https://doi.org/10.1016/j.bpg.2023.101828)
 
 ---
 
-## Gamma-delta T cells modulate the microbiota and fecal micro-RNAs to maintain mucosal tolerance.
- 24.02.2023, _RM Rezende, LM Cox, TG Moreira, S Liu, S Boulenouar, F Dhang, DS LeServe, BN Nakagaki, JR Lopes, BK Tatematsu, L Lemos, J Mayrink, ELC Lobo, L Guo, MG Oliveira, C Kuhn, HL Weiner_
+## Community composition and the environment modulate the population dynamics of type VI secretion in human gut bacteria
 
-
-_Mice, Animals, T-Lymphocytes, MicroRNAs, Receptors, Antigen, T-Cell, gamma-delta, Intestines, Intestinal Mucosa, Microbiota, Immunity, Mucosal_
-Gamma-delta (γδ) T cells are a major cell population in the intestinal mucosa and are key mediators of mucosal tolerance and microbiota composition. Little is known about the mechanisms by which intestinal γδ T cells interact with the gut microbiota to maintain tolerance.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01478-1)
-
-10.1186/s40168-023-01478-1
+[Source](https://doi.org/10.1101/2023.02.20.529031)
 
 ---
 
-## Bacteriophage discovery to advance biotechnology and biotherapeutics.
- 22.02.2023, _A Mu, TD Lawley_
+## Genetic-Phenotype Analysis of Bifidobacterium bifidum and Its Glycoside Hydrolase Gene Distribution at Different Age Groups
 
-
-
-[Source](https://www.nature.com/articles/s41579-023-00870-w)
-
-10.1038/s41579-023-00870-w
+[Source](https://doi.org/10.3390/foods12050922)
 
 ---
 
-## Impact of microbial genome completeness on metagenomic functional inference.
- 19.02.2023, _R Eisenhofer, I Odriozola, A Alberdi_
+## Life stage and vaccination shape the gut microbiome of hatchery-reared Atlantic salmon (Salmo salar) 
 
-
-Inferring the functional capabilities of bacteria from metagenome-assembled genomes (MAGs) is becoming a central process in microbiology. Here we show that the completeness of genomes has a significant impact on the recovered functional signal, spanning all domains of metabolic functions. We identify factors that affect this relationship between genome completeness and function fullness, and provide baseline knowledge to guide efforts to correct for this overlooked bias in metagenomic functional inference.
-
-[Source](https://www.nature.com/articles/s43705-023-00221-z)
-
-10.1038/s43705-023-00221-z
+[Source](https://doi.org/10.1101/2023.02.21.529474)
 
 ---
 
-## Pharokka: a fast scalable bacteriophage annotation tool.
- 22.02.2023, _G Bouras, R Nepal, G Houtak, AJ Psaltis, PJ Wormald, S Vreugde_
+## Short- and long-term effects of continuous compost amendment on soil microbiome community
 
-
-_Bacteriophages, Genomics, Genome, Computational Biology, Software_
-In recent years, there has been an increasing interest in bacteriophages, which has led to growing numbers of bacteriophage genomic sequences becoming available. Consequently, there is a need for a rapid and consistent genomic annotation tool dedicated for bacteriophages. Existing tools either are not designed specifically for bacteriophages or are web- and email-based and require significant manual curation, which makes their integration into bioinformatic pipelines challenging. Pharokka was created to provide a tool that annotates bacteriophage genomes easily, rapidly and consistently with standards compliant outputs. Moreover, Pharokka requires only two lines of code to install and use and takes under 5 min to run for an average 50-kb bacteriophage genome.
-
-[Source](https://academic.oup.com/bioinformatics/article/39/1/btac776/6858464)
-
-10.1093/bioinformatics/btac776
+[Source](https://doi.org/10.1101/2023.02.21.529350)
 
 ---
 
-## A systems immunology study comparing innate and adaptive immune responses in adults to COVID-19 mRNA and adenovirus vectored vaccines
+## Awaking the Dormant Virome in the Rhizosphere.
+ 22.02.2023, _LPP Braga, RI Schumacher_
 
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00076-9)
+
+The rhizosphere is a vital soil compartment providing key plant-beneficial functions. However, little is known about the mechanisms driving viral diversity in the rhizosphere. Viruses can establish lytic or lysogenic interactions with their bacterial hosts. In the latter, they assume a dormant state integrated in the host genome and can be awakened by different perturbations that impact host cell physiology, triggering a viral bloom, which is potentially a fundamental mechanism driving soil viral diversity, as 22-68% of soil bacteria are predicted to harbor dormant viruses. Here we assessed the viral bloom response in rhizospheric viromes by exposing them to three contrasting soil perturbation agents: earthworms, herbicide and antibiotic pollutant. The viromes were next screened for rhizosphere-relevant genes and also used as inoculant on microcosms incubations to test their impacts on pristine microbiomes. Our results show that while post-perturbation viromes diverged from control conditions, viral communities exposed to both herbicide and antibiotic pollutant were more similar to each other than those influenced by earthworms. The latter also favored an increase in viral populations harboring genes involved in plant-beneficial functions. Post-perturbation viromes inoculated in soil microcosms changed the diversity of pristine microbiomes, suggesting that viromes are important components of the soil ecological memory driving eco-evolutionary processes that determines future microbiome trajectories according to past events. Our findings demonstrate that viromes are active players in the rhizosphere and need to be considered in efforts to understand and control the microbial processes towards sustainable crop production.
+
+[Source](https://doi.org/10.1111/mec.16893)
+
+10.1111/mec.16893
 
 ---
 
-## Influenza-trained mucosal-resident alveolar macrophages confer long-term antitumor immunity in the lungs.
- 22.02.2023, _T Wang, J Zhang, Y Wang, Y Li, L Wang, Y Yu, Y Yao_
+## A novel order-level lineage of ammonia-oxidizing Thaumarchaeota is widespread in marine and terrestrial environments
+
+[Source](https://doi.org/10.1101/2023.02.17.529030)
+
+---
+
+## Status of Infectious Diseases in Free-Ranging European Brown Hares (Lepus europaeus) Found Dead between 2017 and 2020 in Schleswig-Holstein, Germany.
+ 25.02.2023, _M Faehndrich, JC Klink, M Roller, P Wohlsein, K Raue, C Strube, E Prenger-Berninghoff, C Ewers, L Capucci, A Lavazza, H Tomaso, JG Schnitzler, U Siebert_
 
 
-Respiratory viral infections reprogram pulmonary macrophages with altered anti-infectious functions. However, the potential function of virus-trained macrophages in antitumor immunity in the lung, a preferential target of both primary and metastatic malignancies, is not well understood. Using mouse models of influenza and lung metastatic tumors, we show here that influenza trains respiratory mucosal-resident alveolar macrophages (AMs) to exert long-lasting and tissue-specific antitumor immunity. Trained AMs infiltrate tumor lesions and have enhanced phagocytic and tumor cell cytotoxic functions, which are associated with epigenetic, transcriptional and metabolic resistance to tumor-induced immune suppression. Generation of antitumor trained immunity in AMs is dependent on interferon-γ and natural killer cells. Notably, human AMs with trained immunity traits in non-small cell lung cancer tissue are associated with a favorable immune microenvironment. These data reveal a function for trained resident macrophages in pulmonary mucosal antitumor immune surveillance. Induction of trained immunity in tissue-resident macrophages might thereby be a potential antitumor strategy.
+The European brown hare (Lepus europaeus) is a quite adaptable species, but populations have been decreasing for several decades in different countries, including Germany. To investigate infectious diseases as possible influences on observed population decline in the German federal state Schleswig-Holstein, 118 deceased free-ranging European brown hares were collected between 2017 and 2020 and underwent detailed postmortem examination with extended sampling. Infectious diseases were a major cause of death (34.7%). The number of juveniles found exceeded the adult ones. The main pathomorphological findings were hepatitis (32.8%), pneumonia (22.2%), nephritis (19.1%), liver necrosis (12.9%), and enteritis (40.7%). An unusual main finding was steatitis (20.9%) of unknown origin. Animals were mainly emaciated and showed high infection rates with Eimeria spp. (91.3%) and Trichostrongylus spp. (36.2%). European Brown Hare Syndrome Virus reached an epidemic status with few fatal infections (4.2%) and high seroprevalence (64.9%), whereas the prevalence of Rabbit Haemorrhagic Disease Virus 2 was very low (0.8%) in hares in Schleswig-Holstein. Pathogens such as Yersinia pseudotuberculosis (5.9%), Pasteurella multocida (0.8%), and Staphylococcus aureus (3.4%) only caused sporadic deaths. This study illustrates the wide distribution of various infectious pathogens with high mortality and even zoonotic potential. Infectious diseases need to be considered as an important influence on population dynamics in Schleswig-Holstein.
 
-[Source](https://www.nature.com/articles/s41590-023-01428-x)
+[Source](https://doi.org/10.3390/v15020581)
 
-10.1038/s41590-023-01428-x
+10.3390/pathogens12020239
+
+---
+
+## Diverse Marine T4-like Cyanophage Communities Are Primarily Comprised of Low-Abundance Species Including Species with Distinct Seasonal, Persistent, Occasional, or Sporadic Dynamics
+
+[Source](https://doi.org/10.3390/v15020581)
+
+---
+
+## Analysis of the core bacterial community associated with consumer-ready Eastern oysters (Crassostrea virginica).
+ 24.02.2023, _IS Hines, J Markov Madanick, SA Smith, DD Kuhn, AM Stevens_
+
+
+_Humans, Animals, United States, Crassostrea, RNA, Ribosomal, 16S, Bacteria, Microbiota, Water_
+Shellfish, such as the Eastern oyster (Crassostrea virginica), are an important agricultural commodity. Previous research has demonstrated the importance of the native microbiome of oysters against exogenous challenges by non-native pathogens. However, the taxonomic makeup of the oyster microbiome and the impact of environmental factors on it are understudied. Research was conducted quarterly over a calendar year (February 2020 through February 2021) to analyze the taxonomic diversity of bacteria present within the microbiome of consumer-ready-to-eat live Eastern oysters. It was hypothesized that a core group of bacterial species would be present in the microbiome regardless of external factors such as the water temperature at the time of harvest or post-harvesting processing. At each time point, 18 Chesapeake Bay (eastern United States) watershed aquacultured oysters were acquired from a local grocery store, genomic DNA was extracted from the homogenized whole oyster tissues, and the bacterial 16S rRNA gene hypervariable V4 region was PCR-amplified using barcoded primers prior to sequencing via Illumina MiSeq and bioinformatic analysis of the data. A core group of bacteria were identified to be consistently associated with the Eastern oyster, including members of the phyla Firmicutes and Spirochaetota, represented by the families Mycoplasmataceae and Spirochaetaceae, respectively. The phyla Cyanobacterota and Campliobacterota became more predominant in relation to warmer or colder water column temperature, respectively, at the time of oyster harvest.
+
+[Source](https://doi.org/10.1371/journal.pone.0281747)
+
+10.1371/journal.pone.0281747
+
+---
+
+## Staying below the Radar: Unraveling a New Family of Ubiquitous "Cryptic" Non-Tailed Temperate Vibriophages and Implications for Their Bacterial Hosts.
+ 25.02.2023, _PG Kalatzis, JJ Mauritzen, CS Winther-Have, S Michniewski, A Millard, MI Tsertou, P Katharios, M Middelboe_
+
+
+Bacteriophages are the most abundant biological entities in the oceans and play key roles in bacterial activity, diversity and evolution. While extensive research has been conducted on the role of tailed viruses (Class: Caudoviricetes), very little is known about the distribution and functions of the non-tailed viruses (Class: Tectiliviricetes). The recent discovery of the lytic Autolykiviridae family demonstrated the potential importance of this structural lineage, emphasizing the need for further exploration of the role of this group of marine viruses. Here, we report the novel family of temperate phages under the class of Tectiliviricetes, which we propose to name "Asemoviridae" with phage NO16 as a main representative. These phages are widely distributed across geographical regions and isolation sources and found inside the genomes of at least 30 species of Vibrio, in addition to the original V. anguillarum isolation host. Genomic analysis identified dif-like sites, suggesting that NO16 prophages recombine with the bacterial genome based on the XerCD site-specific recombination mechanism. The interactions between the NO16 phage and its V. anguillarum host were linked to cell density and phage-host ratio. High cell density and low phage predation levels were shown to favor the temperate over the lytic lifestyle for NO16 viruses, and their spontaneous induction rate was highly variable between different V. anguillarum lysogenic strains. NO16 prophages coexist with the V. anguillarum host in a mutualistic interaction by rendering fitness properties to the host, such as increased virulence and biofilm formation through lysogenic conversion, likely contributing to their global distribution.
+
+[Source](https://doi.org/10.3390/microorganisms11030541)
+
+10.3390/ijms24043937
+
+---
+
+## The Role of Temperate Phages in Bacterial Pathogenicity
+
+[Source](https://doi.org/10.3390/microorganisms11030541)
+
+---
+
+## Bioinformatic Tools for NGS-Based Metagenomics to Improve the Clinical Diagnosis of Emerging, Re-Emerging and New Viruses
+
+[Source](https://doi.org/10.3390/v15020587)
+
+---
+
+## Citizenship status and career self-efficacy: An intersectional study of biomedical trainees in the United States
+
+[Source](https://doi.org/10.1101/2023.02.19.526477)
 
 ---
 
