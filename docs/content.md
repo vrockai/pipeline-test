@@ -35,26 +35,14 @@ Metabolites produced by commensal gut microbes impact host health through their 
 ---
 
 ## Antibiotic use and inflammatory bowel disease: number needed to harm?
- 22.02.2023, _JF Ludvigsson_
-
-
 
 [Source](https://gut.bmj.com/content/early/2023/02/20/gutjnl-2023-329575)
 
-10.1136/gutjnl-2023-329575
-
 ---
 
-## Oral mucosal breaks trigger anti-citrullinated bacterial and human protein antibody responses in rheumatoid arthritis.
- 24.02.2023, _RC Brewer, TV Lanz, CR Hale, GD Sepich-Poore, C Martino, AD Swafford, TS Carroll, S Kongpachith, LK Blum, SE Elliott, NE Blachere, S Parveen, J Fak, V Yao, O Troyanskaya, MO Frank, MS Bloom, S Jahanbani, AM Gomez, R Iyer, NS Ramadoss, O Sharpe, S Chandrasekaran, LB Kelmenson, Q Wang, H Wong, HL Torres, M Wiesen, DT Graves, KD Deane, VM Holers, R Knight, RB Darnell, WH Robinson, DE Orange_
-
-
-_Humans, Autoantibodies, Mouth Mucosa, Antibody Formation, Arthritis, Rheumatoid, Epitopes, Periodontal Diseases, Bacteria_
-Periodontal disease is more common in individuals with rheumatoid arthritis (RA) who have detectable anti-citrullinated protein antibodies (ACPAs), implicating oral mucosal inflammation in RA pathogenesis. Here, we performed paired analysis of human and bacterial transcriptomics in longitudinal blood samples from RA patients. We found that patients with RA and periodontal disease experienced repeated oral bacteremias associated with transcriptional signatures of ISG15+HLADRhi and CD48highS100A2pos monocytes, recently identified in inflamed RA synovia and blood of those with RA flares. The oral bacteria observed transiently in blood were broadly citrullinated in the mouth, and their in situ citrullinated epitopes were targeted by extensively somatically hypermutated ACPAs encoded by RA blood plasmablasts. Together, these results suggest that (i) periodontal disease results in repeated breaches of the oral mucosa that release citrullinated oral bacteria into circulation, which (ii) activate inflammatory monocyte subsets that are observed in inflamed RA synovia and blood of RA patients with flares and (iii) activate ACPA B cells, thereby promoting affinity maturation and epitope spreading to citrullinated human antigens.
+## Oral mucosal breaks trigger anti-citrullinated bacterial and human protein antibody responses in rheumatoid arthritis
 
 [Source](https://www.science.org/doi/10.1126/scitranslmed.abq8476)
-
-10.1126/scitranslmed.abq8476
 
 ---
 
