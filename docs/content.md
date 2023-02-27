@@ -72,9 +72,15 @@ The gut comprises the largest body interface with the environment and is continu
 
 ---
 
-## Awaking the Dormant Virome in the Rhizosphere
+## Awaking the Dormant Virome in the Rhizosphere.
+ 22.02.2023, _LPP Braga, RI Schumacher_
+
+
+The rhizosphere is a vital soil compartment providing key plant-beneficial functions. However, little is known about the mechanisms driving viral diversity in the rhizosphere. Viruses can establish lytic or lysogenic interactions with their bacterial hosts. In the latter, they assume a dormant state integrated in the host genome and can be awakened by different perturbations that impact host cell physiology, triggering a viral bloom, which is potentially a fundamental mechanism driving soil viral diversity, as 22-68% of soil bacteria are predicted to harbor dormant viruses. Here we assessed the viral bloom response in rhizospheric viromes by exposing them to three contrasting soil perturbation agents: earthworms, herbicide and antibiotic pollutant. The viromes were next screened for rhizosphere-relevant genes and also used as inoculant on microcosms incubations to test their impacts on pristine microbiomes. Our results show that while post-perturbation viromes diverged from control conditions, viral communities exposed to both herbicide and antibiotic pollutant were more similar to each other than those influenced by earthworms. The latter also favored an increase in viral populations harboring genes involved in plant-beneficial functions. Post-perturbation viromes inoculated in soil microcosms changed the diversity of pristine microbiomes, suggesting that viromes are important components of the soil ecological memory driving eco-evolutionary processes that determines future microbiome trajectories according to past events. Our findings demonstrate that viromes are active players in the rhizosphere and need to be considered in efforts to understand and control the microbial processes towards sustainable crop production.
 
 [Source](https://doi.org/10.1111/mec.16893)
+
+10.1111/mec.16893
 
 ---
 
