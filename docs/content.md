@@ -72,15 +72,9 @@ The gut comprises the largest body interface with the environment and is continu
 
 ---
 
-## Awaking the Dormant Virome in the Rhizosphere.
- 22.02.2023, _LPP Braga, RI Schumacher_
-
-
-The rhizosphere is a vital soil compartment providing key plant-beneficial functions. However, little is known about the mechanisms driving viral diversity in the rhizosphere. Viruses can establish lytic or lysogenic interactions with their bacterial hosts. In the latter, they assume a dormant state integrated in the host genome and can be awakened by different perturbations that impact host cell physiology, triggering a viral bloom, which is potentially a fundamental mechanism driving soil viral diversity, as 22-68% of soil bacteria are predicted to harbor dormant viruses. Here we assessed the viral bloom response in rhizospheric viromes by exposing them to three contrasting soil perturbation agents: earthworms, herbicide and antibiotic pollutant. The viromes were next screened for rhizosphere-relevant genes and also used as inoculant on microcosms incubations to test their impacts on pristine microbiomes. Our results show that while post-perturbation viromes diverged from control conditions, viral communities exposed to both herbicide and antibiotic pollutant were more similar to each other than those influenced by earthworms. The latter also favored an increase in viral populations harboring genes involved in plant-beneficial functions. Post-perturbation viromes inoculated in soil microcosms changed the diversity of pristine microbiomes, suggesting that viromes are important components of the soil ecological memory driving eco-evolutionary processes that determines future microbiome trajectories according to past events. Our findings demonstrate that viromes are active players in the rhizosphere and need to be considered in efforts to understand and control the microbial processes towards sustainable crop production.
+## Awaking the Dormant Virome in the Rhizosphere
 
 [Source](https://doi.org/10.1111/mec.16893)
-
-10.1111/mec.16893
 
 ---
 
@@ -90,34 +84,15 @@ The rhizosphere is a vital soil compartment providing key plant-beneficial funct
 
 ---
 
-## Status of Infectious Diseases in Free-Ranging European Brown Hares (Lepus europaeus) Found Dead between 2017 and 2020 in Schleswig-Holstein, Germany.
- 25.02.2023, _M Faehndrich, JC Klink, M Roller, P Wohlsein, K Raue, C Strube, E Prenger-Berninghoff, C Ewers, L Capucci, A Lavazza, H Tomaso, JG Schnitzler, U Siebert_
-
-
-The European brown hare (Lepus europaeus) is a quite adaptable species, but populations have been decreasing for several decades in different countries, including Germany. To investigate infectious diseases as possible influences on observed population decline in the German federal state Schleswig-Holstein, 118 deceased free-ranging European brown hares were collected between 2017 and 2020 and underwent detailed postmortem examination with extended sampling. Infectious diseases were a major cause of death (34.7%). The number of juveniles found exceeded the adult ones. The main pathomorphological findings were hepatitis (32.8%), pneumonia (22.2%), nephritis (19.1%), liver necrosis (12.9%), and enteritis (40.7%). An unusual main finding was steatitis (20.9%) of unknown origin. Animals were mainly emaciated and showed high infection rates with Eimeria spp. (91.3%) and Trichostrongylus spp. (36.2%). European Brown Hare Syndrome Virus reached an epidemic status with few fatal infections (4.2%) and high seroprevalence (64.9%), whereas the prevalence of Rabbit Haemorrhagic Disease Virus 2 was very low (0.8%) in hares in Schleswig-Holstein. Pathogens such as Yersinia pseudotuberculosis (5.9%), Pasteurella multocida (0.8%), and Staphylococcus aureus (3.4%) only caused sporadic deaths. This study illustrates the wide distribution of various infectious pathogens with high mortality and even zoonotic potential. Infectious diseases need to be considered as an important influence on population dynamics in Schleswig-Holstein.
-
-[Source](https://doi.org/10.3390/v15020581)
-
-10.3390/pathogens12020239
-
----
-
 ## Diverse Marine T4-like Cyanophage Communities Are Primarily Comprised of Low-Abundance Species Including Species with Distinct Seasonal, Persistent, Occasional, or Sporadic Dynamics
 
 [Source](https://doi.org/10.3390/v15020581)
 
 ---
 
-## Analysis of the core bacterial community associated with consumer-ready Eastern oysters (Crassostrea virginica).
- 24.02.2023, _IS Hines, J Markov Madanick, SA Smith, DD Kuhn, AM Stevens_
-
-
-_Humans, Animals, United States, Crassostrea, RNA, Ribosomal, 16S, Bacteria, Microbiota, Water_
-Shellfish, such as the Eastern oyster (Crassostrea virginica), are an important agricultural commodity. Previous research has demonstrated the importance of the native microbiome of oysters against exogenous challenges by non-native pathogens. However, the taxonomic makeup of the oyster microbiome and the impact of environmental factors on it are understudied. Research was conducted quarterly over a calendar year (February 2020 through February 2021) to analyze the taxonomic diversity of bacteria present within the microbiome of consumer-ready-to-eat live Eastern oysters. It was hypothesized that a core group of bacterial species would be present in the microbiome regardless of external factors such as the water temperature at the time of harvest or post-harvesting processing. At each time point, 18 Chesapeake Bay (eastern United States) watershed aquacultured oysters were acquired from a local grocery store, genomic DNA was extracted from the homogenized whole oyster tissues, and the bacterial 16S rRNA gene hypervariable V4 region was PCR-amplified using barcoded primers prior to sequencing via Illumina MiSeq and bioinformatic analysis of the data. A core group of bacteria were identified to be consistently associated with the Eastern oyster, including members of the phyla Firmicutes and Spirochaetota, represented by the families Mycoplasmataceae and Spirochaetaceae, respectively. The phyla Cyanobacterota and Campliobacterota became more predominant in relation to warmer or colder water column temperature, respectively, at the time of oyster harvest.
+## Analysis of the core bacterial community associated with consumer-ready Eastern oysters (Crassostrea virginica) 
 
 [Source](https://doi.org/10.1371/journal.pone.0281747)
-
-10.1371/journal.pone.0281747
 
 ---
 
