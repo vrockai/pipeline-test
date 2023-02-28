@@ -52,24 +52,12 @@ Invasive pulmonary aspergillosis (IPA) remains underestimated in patients with c
  28.02.2023, _A McLeod, B Penalver Bernabe, Y Xia, J Sanchez-Flack, M Lamar, L Schiffer, K Castellanos, G Fantuzzi, P Maki, M Fitzgibbon, L Tussing-Humphreys_
 
 
-_Humans, Female, Aged, Middle Aged, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Case-Control Studies, Black or African American, Cognitive Dysfunction, Obesity, Inflammation, Dementia_
+_Aged, Female, Humans, Middle Aged, Black or African American, Case-Control Studies, Cognitive Dysfunction, Dementia, Gastrointestinal Microbiome, Inflammation, Obesity, RNA, Ribosomal, 16S, Male_
 Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut microbiome distinct from healthy individuals, but this has only been shown in healthy individuals, not in those exhibiting several risk factors for dementia. Using amplicon 16S rRNA gene sequencing in a case-control study of 60 older (ages 55-76), obese, predominately female, African American adults, those with MCI (cases) had different gut microbiota profiles than controls. While microbial community diversity was similar between cases and controls, the abundances of specific microbial taxa weren't, such as Parabacteroides distasonis (lower in cases) and Dialister invisus (higher in cases). These differences disappeared after adjusting for markers of oxidative stress and systemic inflammation. Cognitive scores were positively correlated with levels of Akkermansia muciniphila, a bacterium associated with reduced inflammation. Our study shows that gut microbial composition may be associated with inflammation, oxidative stress, and MCI in those at high risk for dementia.
 
 [Source](https://doi.org/10.1371/journal.pone.0280211)
 
 10.1371/journal.pone.0280211
-
----
-
-## Transferrin decorated PLGA encumbered Moxifloxacin nanoparticles and In Vitro cellular studies.
- 28.02.2023, _GR Aparnasai, M Handa, D Garabadu, R Kumar, PK Kushawaha, R Shukla_
-
-
-Purpose Complicated intra-abdominal infection (cIAI) management involves administering antibiotics that destroy the cell wall and the genesis of bacterial lipopolysaccharide (LPS). During the infectious state, the expression of transferrin receptors upregulates on the intestinal epithelial cells, which are considered the site of infection. In the present study, transferrin decorated PLGA nanoparticles encapsulated Moxifloxacin developed for possible targeting of the receptors in the colon. Significance: This study will explore more about the incorporation of transferrin as effective coating material in targeted drug delivery. Method: Nanoparticles prepared using nano-emulsification and surface modification with transferrin were layer by layer methodology and evaluated for PXRD, DSC, FTIR, microscopy, antibacterial activity and cellular uptake. Results: The formulated nanoparticles exhibit a size of ≈170 nm, PDI ≈ 0.25, zeta potential ≈ -4.0 mV, drug loading ≈ 6.8% and entrapment efficiency of 82%. Transferrin-decorated nanoparticles exhibit tailored release for almost 12 h and in vitro antibacterial activity for 14 h. The cellular uptake studies on a RAW264.7 cell line for better determination of transferrin uptake of fabricated nanoparticles. Conclusion: The above studied circumvents around the preparation of transferrin decorated PLGA encumbered Moxifloxacin nanoparticles intended for cIAI-induced sepsis. PLGA nanoparticles provide tailored release of MOX with primary burst and owed by sustained release and confirmed with antibacterial activity studies. The prepared transferrin-coated nanoparticles are stable and effective uptake by RAW264.7. Future studies include the preclinical investigation of these nanoparticles in sepsis-induced murine models.
-
-[Source](https://doi.org/10.1128/aem.01880-22)
-
-10.1080/03639045.2023.2185463
 
 ---
 
@@ -156,7 +144,7 @@ The human microbiome is intimately related to cancer biology and plays a vital r
 ---
 
 ## Robust Bioinformatics Approaches Result in the First Polygenic Risk Score for BMI in Greek Adults.
- 27.02.2023, _M Kafyra, IP Kalafati, M Dimitriou, E Grigoriou, A Kokkinos, L Rallidis, G Kolovou, G Trovas, E Marouli, P Deloukas, P Moulos, GV Dedoussis_
+ 28.02.2023, _M Kafyra, IP Kalafati, M Dimitriou, E Grigoriou, A Kokkinos, L Rallidis, G Kolovou, G Trovas, E Marouli, P Deloukas, P Moulos, GV Dedoussis_
 
 
 Quantifying the role of genetics via construction of polygenic risk scores (PRSs) is deemed a resourceful tool to enable and promote effective obesity prevention strategies. The present paper proposes a novel methodology for PRS extraction and presents the first PRS for body mass index (BMI) in a Greek population. A novel pipeline for PRS derivation was used to analyze genetic data from a unified database of three cohorts of Greek adults. The pipeline spans various steps of the process, from iterative dataset splitting to training and test partitions, calculation of summary statistics and PRS extraction, up to PRS aggregation and stabilization, achieving higher evaluation metrics. Using data from 2185 participants, implementation of the pipeline enabled consecutive repetitions in splitting training and testing samples and resulted in a 343-single nucleotide polymorphism PRS yielding an R2 = 0.3241 (beta = 1.011, p-value = 4 × 10-193) for BMI. PRS-included variants displayed a variety of associations with known traits (i.e., blood cell count, gut microbiome, lifestyle parameters). The proposed methodology led to creation of the first-ever PRS for BMI in Greek adults and aims at promoting a facilitating approach to reliable PRS development and integration in healthcare practice.
