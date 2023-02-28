@@ -23,7 +23,7 @@ For decades, variability in clinical efficacy of the widely used inflammatory bo
 ---
 
 ## Interpersonal variability of the human gut virome confounds disease signal detection in IBD.
- 26.02.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
+ 27.02.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
 
 
 Viruses are increasingly recognised as important components of the human microbiome, fulfilling numerous ecological roles including bacterial predation, immune stimulation, genetic diversification, horizontal gene transfer, microbial interactions, and augmentation of metabolic functions. However, our current view of the human gut virome is tainted by previous sequencing requirements that necessitated the amplification of starting nucleic acids. In this study, we performed an original longitudinal analysis of 40 healthy control, 19 Crohn's disease, and 20 ulcerative colitis viromes over three time points without an amplification bias, which revealed and highlighted the interpersonal individuality of the human gut virome. In contrast to a 16 S rRNA gene analysis of matched samples, we show that α- and β-diversity metrics of unamplified viromes are not as efficient at discerning controls from patients with inflammatory bowel disease. Additionally, we explored the intrinsic properties of unamplified gut viromes and show there is considerable interpersonal variability in viral taxa, infrequent longitudinal persistence of intrapersonal viruses, and vast fluctuations in the abundance of temporal viruses. Together, these properties of unamplified faecal viromes confound the ability to discern disease associations but significantly advance toward an unbiased and accurate representation of the human gut virome.
@@ -35,7 +35,7 @@ Viruses are increasingly recognised as important components of the human microbi
 ---
 
 ## Clinical characteristics, diagnosis, outcomes and lung microbiome analysis of invasive pulmonary aspergillosis in the community-acquired pneumonia patients.
- 24.02.2023, _Z Ao, H Xu, M Li, H Liu, M Deng, Y Liu_
+ 27.02.2023, _Z Ao, H Xu, M Li, H Liu, M Deng, Y Liu_
 
 
 Invasive pulmonary aspergillosis (IPA) remains underestimated in patients with community-acquired pneumonia (CAP). This study aims to describe clinical features and outcomes of IPA in CAP patients, assess diagnostic performance of metagenomic next-generation sequencing (mNGS) for IPA and analyse lung microbiome via mNGS data.
@@ -47,7 +47,7 @@ Invasive pulmonary aspergillosis (IPA) remains underestimated in patients with c
 ---
 
 ## Comparing the gut microbiome of obese, African American, older adults with and without mild cognitive impairment.
- 26.02.2023, _A McLeod, B Penalver Bernabe, Y Xia, J Sanchez-Flack, M Lamar, L Schiffer, K Castellanos, G Fantuzzi, P Maki, M Fitzgibbon, L Tussing-Humphreys_
+ 27.02.2023, _A McLeod, B Penalver Bernabe, Y Xia, J Sanchez-Flack, M Lamar, L Schiffer, K Castellanos, G Fantuzzi, P Maki, M Fitzgibbon, L Tussing-Humphreys_
 
 
 Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut microbiome distinct from healthy individuals, but this has only been shown in healthy individuals, not in those exhibiting several risk factors for dementia. Using amplicon 16S rRNA gene sequencing in a case-control study of 60 older (ages 55-76), obese, predominately female, African American adults, those with MCI (cases) had different gut microbiota profiles than controls. While microbial community diversity was similar between cases and controls, the abundances of specific microbial taxa weren't, such as Parabacteroides distasonis (lower in cases) and Dialister invisus (higher in cases). These differences disappeared after adjusting for markers of oxidative stress and systemic inflammation. Cognitive scores were positively correlated with levels of Akkermansia muciniphila, a bacterium associated with reduced inflammation. Our study shows that gut microbial composition may be associated with inflammation, oxidative stress, and MCI in those at high risk for dementia.
@@ -58,18 +58,6 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Impact of Culture-Positive Preservation Fluid on Early Morbidity and Mortality After Lung Transplantation.
- 27.02.2023, _A Tran-Dinh, I Tir, S Tanaka, E Atchade, B Lortat-Jacob, S Jean-Baptiste, N Zappella, S Boudinet, Y Castier, H Mal, P Mordant, I Ben Abdallah, V Bunel, J Messika, L Armand-Lefèvre, N Grall, P Montravers_
-
-
-The prevalence, risk factors and outcomes associated with culture-positive preservation fluid (PF) after lung transplantation (LT) are unknown. From January 2015 to December 2020, the microbiologic analyses of PF used to store the cold ischaemia-placed lung graft(s) of 271 lung transplant patients were retrospectively studied. Culture-positive PF was defined as the growth of any microorganism. Eighty-three (30.6%) patients were transplanted with lung grafts stored in a culture-positive PF. One-third of culture-positive PF were polymicrobial. Staphylococcus aureus and Escherichia coli were the most frequently isolated microorganisms. No risk factors for culture-positive PF based on donor characteristics were identified. Forty (40/83; 48.2%) patients had postoperative pneumonia on Day 0 and 2 (2/83; 2.4%) patients had pleural empyema with at least one identical bacteria isolated in culture-positive PF. The 30-day survival rate was lower for patients with culture-positive PF compared with patients with culture-negative PF (85.5% vs. 94.7%, p = 0.01). Culture-positive PF has a high prevalence and may decrease lung transplant recipient survival. Further studies are required to confirm these results and improve understanding of the pathogenesis of culture-positive PF and their management.
-
-[Source](https://doi.org/10.1128/aem.01880-22)
-
-10.3389/ti.2023.10826
-
----
-
 ## Capacity of a Microbial Synbiotic To Rescue the In Vitro Metabolic Activity of the Gut Microbiome following Perturbation with Alcohol or Antibiotics
 
 [Source](https://doi.org/10.1128/aem.01880-22)
@@ -77,7 +65,7 @@ The prevalence, risk factors and outcomes associated with culture-positive prese
 ---
 
 ## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging.
- 24.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
+ 27.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
 
 
 During aging, environmental stressors and mutations along with reduced DNA repair cause germ cell aneuploidy and genome instability, which limits fertility and embryo development. Benevolent commensal microbiota and dietary plants secrete indoles, which improve healthspan and reproductive success, suggesting regulation of germ cell quality. We show that indoles prevent aneuploidy and promote DNA repair and embryo viability, which depends on age and genotoxic stress levels and affects embryo quality across generations. In young animals or with low doses of radiation, indoles promote DNA repair and embryo viability; however, in older animals or with high doses of radiation, indoles promote death of the embryo. These studies reveal a previously unknown quality control mechanism by which indole integrates DNA repair and cell death responses to preclude germ cell aneuploidy and ensure transgenerational genome integrity. Such regulation affects healthy aging, reproductive senescence, cancer, and the evolution of genetic diversity in invertebrates and vertebrates.
@@ -101,7 +89,7 @@ Recent studies have highlighted associations between diseases and host microbiot
 ---
 
 ## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice.
- 24.02.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
+ 27.02.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
 
 
 The realization of the "microbiota-gut-brain" axis plays a critical role in neuropsychiatric disorders, particularly depression, is advancing rapidly. Matrine is a natural bioactive compound, which has been found to possess potential antidepressant effect. However, the underlying mechanisms of regulation of the "microbiota-gut-brain" axis in the treatment of depression by oral matrine remain elusive.
@@ -126,7 +114,7 @@ For different breeds of dogs with acute diarrhea, the gut microbiota and metabol
 ---
 
 ## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes.
- 24.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
+ 27.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
 
 
 Microbial communities respond to temperature with physiological adaptation and compositional turnover. Whether thermal selection of enzymes explains marine microbiome plasticity in response to temperature remains unresolved. By quantifying the thermal behaviour of seven functionally-independent enzyme classes (esterase, extradiol dioxygenase, phosphatase, beta-galactosidase, nuclease, transaminase, and aldo-keto reductase) in native proteomes of marine sediment microbiomes from the Irish Sea to the southern Red Sea, we record a significant effect of the mean annual temperature (MAT) on enzyme response in all cases. Activity and stability profiles of 228 esterases and 5 extradiol dioxygenases from sediment and seawater across 70 locations worldwide validate this thermal pattern. Modelling the esterase phase transition temperature as a measure of structural flexibility confirms the observed relationship with MAT. Furthermore, when considering temperature variability in sites with non-significantly different MATs, the broadest range of enzyme thermal behaviour and the highest growth plasticity of the enriched heterotrophic bacteria occur in samples with the widest annual thermal variability. These results indicate that temperature-driven enzyme selection shapes microbiome thermal plasticity and that thermal variability finely tunes such processes and should be considered alongside MAT in forecasting microbial community thermal response.
@@ -150,7 +138,7 @@ The human microbiome is intimately related to cancer biology and plays a vital r
 ---
 
 ## Robust Bioinformatics Approaches Result in the First Polygenic Risk Score for BMI in Greek Adults.
- 26.02.2023, _M Kafyra, IP Kalafati, M Dimitriou, E Grigoriou, A Kokkinos, L Rallidis, G Kolovou, G Trovas, E Marouli, P Deloukas, P Moulos, GV Dedoussis_
+ 27.02.2023, _M Kafyra, IP Kalafati, M Dimitriou, E Grigoriou, A Kokkinos, L Rallidis, G Kolovou, G Trovas, E Marouli, P Deloukas, P Moulos, GV Dedoussis_
 
 
 Quantifying the role of genetics via construction of polygenic risk scores (PRSs) is deemed a resourceful tool to enable and promote effective obesity prevention strategies. The present paper proposes a novel methodology for PRS extraction and presents the first PRS for body mass index (BMI) in a Greek population. A novel pipeline for PRS derivation was used to analyze genetic data from a unified database of three cohorts of Greek adults. The pipeline spans various steps of the process, from iterative dataset splitting to training and test partitions, calculation of summary statistics and PRS extraction, up to PRS aggregation and stabilization, achieving higher evaluation metrics. Using data from 2185 participants, implementation of the pipeline enabled consecutive repetitions in splitting training and testing samples and resulted in a 343-single nucleotide polymorphism PRS yielding an R2 = 0.3241 (beta = 1.011, p-value = 4 × 10-193) for BMI. PRS-included variants displayed a variety of associations with known traits (i.e., blood cell count, gut microbiome, lifestyle parameters). The proposed methodology led to creation of the first-ever PRS for BMI in Greek adults and aims at promoting a facilitating approach to reliable PRS development and integration in healthcare practice.
@@ -162,7 +150,7 @@ Quantifying the role of genetics via construction of polygenic risk scores (PRSs
 ---
 
 ## Development of a tongue image-based machine learning tool for the diagnosis of gastric cancer: a prospective multicentre clinical cohort study.
- 24.02.2023, _L Yuan, L Yang, S Zhang, Z Xu, J Qin, Y Shi, P Yu, Y Wang, Z Bao, Y Xia, J Sun, W He, T Chen, X Chen, C Hu, Y Zhang, C Dong, P Zhao, Y Wang, N Jiang, B Lv, Y Xue, B Jiao, H Gao, K Chai, J Li, H Wang, X Wang, X Guan, X Liu, G Zhao, Z Zheng, J Yan, H Yu, L Chen, Z Ye, H You, Y Bao, X Cheng, P Zhao, L Wang, W Zeng, Y Tian, M Chen, Y You, G Yuan, H Ruan, X Gao, J Xu, H Xu, L Du, S Zhang, H Fu, X Cheng_
+ 27.02.2023, _L Yuan, L Yang, S Zhang, Z Xu, J Qin, Y Shi, P Yu, Y Wang, Z Bao, Y Xia, J Sun, W He, T Chen, X Chen, C Hu, Y Zhang, C Dong, P Zhao, Y Wang, N Jiang, B Lv, Y Xue, B Jiao, H Gao, K Chai, J Li, H Wang, X Wang, X Guan, X Liu, G Zhao, Z Zheng, J Yan, H Yu, L Chen, Z Ye, H You, Y Bao, X Cheng, P Zhao, L Wang, W Zeng, Y Tian, M Chen, Y You, G Yuan, H Ruan, X Gao, J Xu, H Xu, L Du, S Zhang, H Fu, X Cheng_
 
 
 Tongue images (the colour, size and shape of the tongue and the colour, thickness and moisture content of the tongue coating), reflecting the health state of the whole body according to the theory of traditional Chinese medicine (TCM), have been widely used in China for thousands of years. Herein, we investigated the value of tongue images and the tongue coating microbiome in the diagnosis of gastric cancer (GC).
