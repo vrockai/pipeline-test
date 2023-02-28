@@ -58,6 +58,18 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
+## Last twenty-years activity of cardiovascular tissue banking in Barcelona.
+ 28.02.2023, _C Castells-Sala, ML Pérez, E Agustí, A Aiti, E Tarragona, A Navarro, J Tabera, O Fariñas, JL Pomar, A Vilarrodona_
+
+
+The Barcelona Tissue Bank was established from the merge of two previous multi-tissue banks. Potential donors are screened by Donor Center staff and multi-tissue retrieval is performed by specialized own teams. Tissue processing and preservation is performed in clean room facilities by specialised personnel. After quality control of both donor and all tissues results, the heart valves and vascular segments are stored until medical request. The aim of this report is to present the cardiovascular tissue activity and retrospectively evaluate the outcomes of the changes performed in last 20 years. Cardiovascular tissue from 4088 donors was received, specifically 3115 hearts and 2095 vascular segments were processed and evaluated. A total of 48% of the aortic valves, 68% of the pulmonary valves and 75% of the vascular segments were suitable for transplant. The main reason for discarding tissue was macroscopic morphology followed by microbiological results, for both valves and arteries. Altogether, 4360 tissues were distributed for transplantation: 2032 (47%) vascular segments, 1545 (35%) pulmonary valves and 781 (18%) aortic valves. The most common indication for aortic valve surgery was the treatment of endocarditis, while for pulmonary valves, it was congenital malformation reconstruction. Vascular segments were mainly used for reconstruction after ischemia. During this period, a number of changes were made with the goal of enhancing tissue quality, safety and efficacy. These improvements were achieved through the use of a new antibiotic cocktail, increasing of donor age criteria and changing the microbiological control strategy.
+
+[Source](https://doi.org/10.1128/aem.01880-22)
+
+10.1007/s10561-022-10059-9
+
+---
+
 ## Capacity of a Microbial Synbiotic To Rescue the In Vitro Metabolic Activity of the Gut Microbiome following Perturbation with Alcohol or Antibiotics
 
 [Source](https://doi.org/10.1128/aem.01880-22)
