@@ -23,9 +23,10 @@ For decades, variability in clinical efficacy of the widely used inflammatory bo
 ---
 
 ## Interpersonal variability of the human gut virome confounds disease signal detection in IBD.
- 27.02.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
+ 28.02.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
 
 
+_Humans, Virome, Gastrointestinal Microbiome, Viruses, Colitis, Ulcerative, Inflammatory Bowel Diseases_
 Viruses are increasingly recognised as important components of the human microbiome, fulfilling numerous ecological roles including bacterial predation, immune stimulation, genetic diversification, horizontal gene transfer, microbial interactions, and augmentation of metabolic functions. However, our current view of the human gut virome is tainted by previous sequencing requirements that necessitated the amplification of starting nucleic acids. In this study, we performed an original longitudinal analysis of 40 healthy control, 19 Crohn's disease, and 20 ulcerative colitis viromes over three time points without an amplification bias, which revealed and highlighted the interpersonal individuality of the human gut virome. In contrast to a 16 S rRNA gene analysis of matched samples, we show that α- and β-diversity metrics of unamplified viromes are not as efficient at discerning controls from patients with inflammatory bowel disease. Additionally, we explored the intrinsic properties of unamplified gut viromes and show there is considerable interpersonal variability in viral taxa, infrequent longitudinal persistence of intrapersonal viruses, and vast fluctuations in the abundance of temporal viruses. Together, these properties of unamplified faecal viromes confound the ability to discern disease associations but significantly advance toward an unbiased and accurate representation of the human gut virome.
 
 [Source](https://doi.org/10.1038/s42003-023-04592-w)
@@ -35,9 +36,10 @@ Viruses are increasingly recognised as important components of the human microbi
 ---
 
 ## Clinical characteristics, diagnosis, outcomes and lung microbiome analysis of invasive pulmonary aspergillosis in the community-acquired pneumonia patients.
- 27.02.2023, _Z Ao, H Xu, M Li, H Liu, M Deng, Y Liu_
+ 28.02.2023, _Z Ao, H Xu, M Li, H Liu, M Deng, Y Liu_
 
 
+_Humans, Invasive Pulmonary Aspergillosis, Retrospective Studies, Sensitivity and Specificity, Bronchoalveolar Lavage Fluid, Aspergillosis, Lung, Pneumonia, Microbiota_
 Invasive pulmonary aspergillosis (IPA) remains underestimated in patients with community-acquired pneumonia (CAP). This study aims to describe clinical features and outcomes of IPA in CAP patients, assess diagnostic performance of metagenomic next-generation sequencing (mNGS) for IPA and analyse lung microbiome via mNGS data.
 
 [Source](https://doi.org/10.1136/bmjresp-2022-001358)
@@ -47,9 +49,10 @@ Invasive pulmonary aspergillosis (IPA) remains underestimated in patients with c
 ---
 
 ## Comparing the gut microbiome of obese, African American, older adults with and without mild cognitive impairment.
- 27.02.2023, _A McLeod, B Penalver Bernabe, Y Xia, J Sanchez-Flack, M Lamar, L Schiffer, K Castellanos, G Fantuzzi, P Maki, M Fitzgibbon, L Tussing-Humphreys_
+ 28.02.2023, _A McLeod, B Penalver Bernabe, Y Xia, J Sanchez-Flack, M Lamar, L Schiffer, K Castellanos, G Fantuzzi, P Maki, M Fitzgibbon, L Tussing-Humphreys_
 
 
+_Humans, Female, Aged, Middle Aged, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Case-Control Studies, Black or African American, Cognitive Dysfunction, Obesity, Inflammation, Dementia_
 Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut microbiome distinct from healthy individuals, but this has only been shown in healthy individuals, not in those exhibiting several risk factors for dementia. Using amplicon 16S rRNA gene sequencing in a case-control study of 60 older (ages 55-76), obese, predominately female, African American adults, those with MCI (cases) had different gut microbiota profiles than controls. While microbial community diversity was similar between cases and controls, the abundances of specific microbial taxa weren't, such as Parabacteroides distasonis (lower in cases) and Dialister invisus (higher in cases). These differences disappeared after adjusting for markers of oxidative stress and systemic inflammation. Cognitive scores were positively correlated with levels of Akkermansia muciniphila, a bacterium associated with reduced inflammation. Our study shows that gut microbial composition may be associated with inflammation, oxidative stress, and MCI in those at high risk for dementia.
 
 [Source](https://doi.org/10.1371/journal.pone.0280211)
@@ -58,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Last twenty-years activity of cardiovascular tissue banking in Barcelona.
- 28.02.2023, _C Castells-Sala, ML Pérez, E Agustí, A Aiti, E Tarragona, A Navarro, J Tabera, O Fariñas, JL Pomar, A Vilarrodona_
+## Transferrin decorated PLGA encumbered Moxifloxacin nanoparticles and In Vitro cellular studies.
+ 28.02.2023, _GR Aparnasai, M Handa, D Garabadu, R Kumar, PK Kushawaha, R Shukla_
 
 
-The Barcelona Tissue Bank was established from the merge of two previous multi-tissue banks. Potential donors are screened by Donor Center staff and multi-tissue retrieval is performed by specialized own teams. Tissue processing and preservation is performed in clean room facilities by specialised personnel. After quality control of both donor and all tissues results, the heart valves and vascular segments are stored until medical request. The aim of this report is to present the cardiovascular tissue activity and retrospectively evaluate the outcomes of the changes performed in last 20 years. Cardiovascular tissue from 4088 donors was received, specifically 3115 hearts and 2095 vascular segments were processed and evaluated. A total of 48% of the aortic valves, 68% of the pulmonary valves and 75% of the vascular segments were suitable for transplant. The main reason for discarding tissue was macroscopic morphology followed by microbiological results, for both valves and arteries. Altogether, 4360 tissues were distributed for transplantation: 2032 (47%) vascular segments, 1545 (35%) pulmonary valves and 781 (18%) aortic valves. The most common indication for aortic valve surgery was the treatment of endocarditis, while for pulmonary valves, it was congenital malformation reconstruction. Vascular segments were mainly used for reconstruction after ischemia. During this period, a number of changes were made with the goal of enhancing tissue quality, safety and efficacy. These improvements were achieved through the use of a new antibiotic cocktail, increasing of donor age criteria and changing the microbiological control strategy.
+Purpose Complicated intra-abdominal infection (cIAI) management involves administering antibiotics that destroy the cell wall and the genesis of bacterial lipopolysaccharide (LPS). During the infectious state, the expression of transferrin receptors upregulates on the intestinal epithelial cells, which are considered the site of infection. In the present study, transferrin decorated PLGA nanoparticles encapsulated Moxifloxacin developed for possible targeting of the receptors in the colon. Significance: This study will explore more about the incorporation of transferrin as effective coating material in targeted drug delivery. Method: Nanoparticles prepared using nano-emulsification and surface modification with transferrin were layer by layer methodology and evaluated for PXRD, DSC, FTIR, microscopy, antibacterial activity and cellular uptake. Results: The formulated nanoparticles exhibit a size of ≈170 nm, PDI ≈ 0.25, zeta potential ≈ -4.0 mV, drug loading ≈ 6.8% and entrapment efficiency of 82%. Transferrin-decorated nanoparticles exhibit tailored release for almost 12 h and in vitro antibacterial activity for 14 h. The cellular uptake studies on a RAW264.7 cell line for better determination of transferrin uptake of fabricated nanoparticles. Conclusion: The above studied circumvents around the preparation of transferrin decorated PLGA encumbered Moxifloxacin nanoparticles intended for cIAI-induced sepsis. PLGA nanoparticles provide tailored release of MOX with primary burst and owed by sustained release and confirmed with antibacterial activity studies. The prepared transferrin-coated nanoparticles are stable and effective uptake by RAW264.7. Future studies include the preclinical investigation of these nanoparticles in sepsis-induced murine models.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1007/s10561-022-10059-9
+10.1080/03639045.2023.2185463
 
 ---
 
@@ -77,9 +80,10 @@ The Barcelona Tissue Bank was established from the merge of two previous multi-t
 ---
 
 ## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging.
- 27.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
+ 28.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
 
 
+_Animals, Aneuploidy, DNA Repair, Cell Death, Indoles, Microbiota_
 During aging, environmental stressors and mutations along with reduced DNA repair cause germ cell aneuploidy and genome instability, which limits fertility and embryo development. Benevolent commensal microbiota and dietary plants secrete indoles, which improve healthspan and reproductive success, suggesting regulation of germ cell quality. We show that indoles prevent aneuploidy and promote DNA repair and embryo viability, which depends on age and genotoxic stress levels and affects embryo quality across generations. In young animals or with low doses of radiation, indoles promote DNA repair and embryo viability; however, in older animals or with high doses of radiation, indoles promote death of the embryo. These studies reveal a previously unknown quality control mechanism by which indole integrates DNA repair and cell death responses to preclude germ cell aneuploidy and ensure transgenerational genome integrity. Such regulation affects healthy aging, reproductive senescence, cancer, and the evolution of genetic diversity in invertebrates and vertebrates.
 
 [Source](https://doi.org/10.1126/sciadv.ade8653)
@@ -101,9 +105,10 @@ Recent studies have highlighted associations between diseases and host microbiot
 ---
 
 ## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice.
- 27.02.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
+ 28.02.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
 
 
+_Mice, Animals, Depression, Brain-Derived Neurotrophic Factor, Matrines, Brain-Gut Axis, RNA, Ribosomal, 16S, Antidepressive Agents, Cytokines, Stress, Psychological_
 The realization of the "microbiota-gut-brain" axis plays a critical role in neuropsychiatric disorders, particularly depression, is advancing rapidly. Matrine is a natural bioactive compound, which has been found to possess potential antidepressant effect. However, the underlying mechanisms of regulation of the "microbiota-gut-brain" axis in the treatment of depression by oral matrine remain elusive.
 
 [Source](https://doi.org/10.1186/s12967-023-03993-z)
@@ -126,9 +131,10 @@ For different breeds of dogs with acute diarrhea, the gut microbiota and metabol
 ---
 
 ## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes.
- 27.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
+ 28.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
 
 
+_Microbiota, Bacteria, Seawater, Temperature, Adaptation, Physiological, Esterases_
 Microbial communities respond to temperature with physiological adaptation and compositional turnover. Whether thermal selection of enzymes explains marine microbiome plasticity in response to temperature remains unresolved. By quantifying the thermal behaviour of seven functionally-independent enzyme classes (esterase, extradiol dioxygenase, phosphatase, beta-galactosidase, nuclease, transaminase, and aldo-keto reductase) in native proteomes of marine sediment microbiomes from the Irish Sea to the southern Red Sea, we record a significant effect of the mean annual temperature (MAT) on enzyme response in all cases. Activity and stability profiles of 228 esterases and 5 extradiol dioxygenases from sediment and seawater across 70 locations worldwide validate this thermal pattern. Modelling the esterase phase transition temperature as a measure of structural flexibility confirms the observed relationship with MAT. Furthermore, when considering temperature variability in sites with non-significantly different MATs, the broadest range of enzyme thermal behaviour and the highest growth plasticity of the enriched heterotrophic bacteria occur in samples with the widest annual thermal variability. These results indicate that temperature-driven enzyme selection shapes microbiome thermal plasticity and that thermal variability finely tunes such processes and should be considered alongside MAT in forecasting microbial community thermal response.
 
 [Source](https://doi.org/10.1038/s41467-023-36610-0)
