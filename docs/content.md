@@ -23,7 +23,7 @@ For decades, variability in clinical efficacy of the widely used inflammatory bo
 ---
 
 ## Interpersonal variability of the human gut virome confounds disease signal detection in IBD.
- 28.02.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
+ 01.03.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
 
 
 _Humans, Virome, Gastrointestinal Microbiome, Viruses, Colitis, Ulcerative, Inflammatory Bowel Diseases_
@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Puromycin Prodrug Activation by Thioredoxin Reductase Overcomes Its Promiscuous Cytotoxicity.
- 01.03.2023, _B Chang, Q Xu, H Guo, M Zhong, R Shen, L Zhao, J Zhao, T Ma, Y Chu, J Zhang, J Fang_
+## Deglycosylation Inactivation Initiated by a Novel Periplasmic Dehydrogenase Complex Provides a Novel Strategy for Eliminating the Recalcitrant Antibiotic Kanamycin.
+ 01.03.2023, _Z Chen, X Liu, L Chen, Y Han, Y Shen, B Chen, M Wang_
 
 
-Overexpression of the selenoprotein thioredoxin reductase (TrxR) has been documented in malignant tissues and is of pathological significance for many types of tumors. The antibiotic puromycin (Puro) is a protein synthesis inhibitor causing premature polypeptide chain termination during translation. The well-defined action mechanism of Puro makes it a useful tool in biomedical studies. However, the nonselective cytotoxicity of Puro limits its therapeutic applications. We report herein the construction and evaluation of two Puro prodrugs, that is, S1-Puro with a five-membered cyclic disulfide trigger and S2-Puro with a linear disulfide trigger. S1-Puro is selectively activated by TrxR and shows the TrxR-dependent cytotoxicity to cancer cells, while S2-Puro is readily activated by thiols. Furthermore, S1-Puro displays higher stability in plasma than S2-Puro. We expect that this prodrug strategy may promote the further development of Puro as a therapeutic agent.
+Biodegradation using enzyme-based systems is a promising approach to minimize antibiotic loads in the environment. Aminoglycosides are refractory antibiotics that are generally considered non-biodegradable. Here, we provide evidence that kanamycin, a common aminoglycoside antibiotic, can be degraded by an environmental bacterium through deglycosylation of its 4'-amino sugar. The unprecedented deglycosylation inactivation of kanamycin is initiated by a novel periplasmic dehydrogenase complex, which we designated AquKGD, composed of a flavin adenine dinucleotide-dependent dehydrogenase (AquKGDα) and a small subunit (AquKGDγ) containing a twin-arginine signal sequence. We demonstrate that the formation of the AquKGDα-AquKGDγ complex is required for both the degradation activity of AquKGD and its translocation into the periplasm. Native AquKGD was successfully expressed in the periplasmic space of Escherichia coli, and physicochemical analysis indicated that AquKGD is a stable enzyme. AquKGD showed excellent degradation performance, and complete elimination of kanamycin from actual kanamycin manufacturing waste was achieved with immobilized AquKGD. Ecotoxicity and cytotoxicity tests suggest that AquKGD-mediated degradation produces less harmful degradation products. Thus, we propose a novel enzymatic antibiotic inactivation strategy for effective and safe treatment of recalcitrant kanamycin residues.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1021/acs.jmedchem.2c01509
+10.1021/acs.est.2c09565
 
 ---
 
