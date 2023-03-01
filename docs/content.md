@@ -61,6 +61,18 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
+## Effect of Glycone Diversity on the Interaction of Triterpenoid Saponins and Lipid Bilayers.
+ 28.02.2023, _J Li, V Monje-Galvan_
+
+
+Triterpenoid saponins are organic compounds widely available in the plant kingdom. These molecules have received extensive attention due to their antibacterial activity against both Gram-negative and Gram-positive bacteria. Recent studies identified the antibacterial activity of saponins closely relates to their interaction with bacterial membrane lipids; however, molecular details of this interaction remain unclear. Increased understanding of the mechanisms to disrupt bacterial lipid bilayers can help to mitigate development of antibiotic resistance. Here, we examined the effect of chemical structure and deprotonation states of saponin on its interaction with a bacterial membrane model using molecular dynamics simulations. We run multiple simulations with a ternary lipid mixture of POPE/POPG/DPPG (80/15/5 mol %) and different saponin molecules. While all saponin structures can permanently bind the membrane, their location and orientation inside the bilayer depend on the sugar chains attached to their backbone. Similarly, cluster formation and stability also depend on the chemical structure of the saponin molecule. Deprotonation site affects interactions with the bilayer by modulating hydrophilicity of the molecules. At the low concentrations simulated in this work, there is no statistically significant change in the membrane properties upon saponin(s) binding, but the molecules do preferentially partition to POPE lipid environment.
+
+[Source](https://doi.org/10.1128/aem.01880-22)
+
+10.1021/acsabm.2c00928
+
+---
+
 ## Capacity of a Microbial Synbiotic To Rescue the In Vitro Metabolic Activity of the Gut Microbiome following Perturbation with Alcohol or Antibiotics
 
 [Source](https://doi.org/10.1128/aem.01880-22)
