@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Potential of the enzyme laccase for the synthesis and derivatization of antimicrobial compounds.
- 01.03.2023, _V Hahn_
+## Puromycin Prodrug Activation by Thioredoxin Reductase Overcomes Its Promiscuous Cytotoxicity.
+ 01.03.2023, _B Chang, Q Xu, H Guo, M Zhong, R Shen, L Zhao, J Zhao, T Ma, Y Chu, J Zhang, J Fang_
 
 
-Laccases [E.C. 1.10.3.2, benzenediol:dioxygen oxidoreductase] can oxidize phenolic substances, e.g. di- and polyphenols, hydroxylated biaryls, aminophenols or aryldiamines. This large substrate spectrum is the basis for various reaction possibilities, which include depolymerization and polymerization reactions, but also the coupling of different substance classes. To catalyze these reactions, laccases demand only atmospheric oxygen and no depletive cofactors. The utilization of mild and environmentally friendly reaction conditions such as room temperature, atmospheric pressure, and the avoidance of organic solvents makes the laccase-mediated reaction a valuable tool in green chemistry for the synthesis of biologically active compounds such as antimicrobial substances. In particular, the production of novel antibiotics becomes vital due to the evolution of antibiotic resistances amongst bacteria and fungi. Therefore, laccase-mediated homo- and heteromolecular coupling reactions result in derivatized or newly synthesized antibiotics. The coupling or derivatization of biologically active compounds or its basic structures may allow the development of novel pharmaceuticals, as well as the improvement of efficacy or tolerability of an already applied drug. Furthermore, by the laccase-mediated coupling of two different active substances a synergistic effect may be possible. However, the coupling of compounds that have no described efficacy can lead to biologically active substances by means of laccase. The review summarizes laccase-mediated reactions for the synthesis of antimicrobial compounds valuable for medical purposes. In particular, reactions with two different reaction partners were shown in detail. In addition, studies with in vitro and in vivo experimental data for the confirmation of the antibacterial and/or antifungal efficacy of the products, synthesized with laccase, were of special interest. Analyses of the structure-activity relationship confirm the great potential of the novel compounds. These substances may represent not only a value for pharmaceutical and chemical industry, but also for other industries due to a possible functionalization of surfaces such as wood or textiles.
+Overexpression of the selenoprotein thioredoxin reductase (TrxR) has been documented in malignant tissues and is of pathological significance for many types of tumors. The antibiotic puromycin (Puro) is a protein synthesis inhibitor causing premature polypeptide chain termination during translation. The well-defined action mechanism of Puro makes it a useful tool in biomedical studies. However, the nonselective cytotoxicity of Puro limits its therapeutic applications. We report herein the construction and evaluation of two Puro prodrugs, that is, S1-Puro with a five-membered cyclic disulfide trigger and S2-Puro with a linear disulfide trigger. S1-Puro is selectively activated by TrxR and shows the TrxR-dependent cytotoxicity to cancer cells, while S2-Puro is readily activated by thiols. Furthermore, S1-Puro displays higher stability in plasma than S2-Puro. We expect that this prodrug strategy may promote the further development of Puro as a therapeutic agent.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1007/s11274-023-03539-x
+10.1021/acs.jmedchem.2c01509
 
 ---
 
@@ -105,7 +105,7 @@ Recent studies have highlighted associations between diseases and host microbiot
 ---
 
 ## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice.
- 28.02.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
+ 01.03.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
 
 
 _Mice, Animals, Depression, Brain-Derived Neurotrophic Factor, Matrines, Brain-Gut Axis, RNA, Ribosomal, 16S, Antidepressive Agents, Cytokines, Stress, Psychological_
