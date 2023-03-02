@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Deglycosylation Inactivation Initiated by a Novel Periplasmic Dehydrogenase Complex Provides a Novel Strategy for Eliminating the Recalcitrant Antibiotic Kanamycin.
- 01.03.2023, _Z Chen, X Liu, L Chen, Y Han, Y Shen, B Chen, M Wang_
+## Total synthesis of isoneoantimycin.
+ 01.03.2023, _Y Usuki, Y Tanaka, M Morii, T Satoh_
 
 
-Biodegradation using enzyme-based systems is a promising approach to minimize antibiotic loads in the environment. Aminoglycosides are refractory antibiotics that are generally considered non-biodegradable. Here, we provide evidence that kanamycin, a common aminoglycoside antibiotic, can be degraded by an environmental bacterium through deglycosylation of its 4'-amino sugar. The unprecedented deglycosylation inactivation of kanamycin is initiated by a novel periplasmic dehydrogenase complex, which we designated AquKGD, composed of a flavin adenine dinucleotide-dependent dehydrogenase (AquKGDα) and a small subunit (AquKGDγ) containing a twin-arginine signal sequence. We demonstrate that the formation of the AquKGDα-AquKGDγ complex is required for both the degradation activity of AquKGD and its translocation into the periplasm. Native AquKGD was successfully expressed in the periplasmic space of Escherichia coli, and physicochemical analysis indicated that AquKGD is a stable enzyme. AquKGD showed excellent degradation performance, and complete elimination of kanamycin from actual kanamycin manufacturing waste was achieved with immobilized AquKGD. Ecotoxicity and cytotoxicity tests suggest that AquKGD-mediated degradation produces less harmful degradation products. Thus, we propose a novel enzymatic antibiotic inactivation strategy for effective and safe treatment of recalcitrant kanamycin residues.
+Antimycins are one of the well-known antifungal metabolites produced by Streptomyces bacteria. Neoantimycin and its analogues, the ring-expanded antimycins featuring a 15-membered tetraester ring, have been shown to be effective regulators of the oncogenic proteins GRP78/BiP and K-Ras. Isoneoantimycin was isolated from Streptomyces fradiae IFO12773 (ISP 5063) as a minor metabolite during the fermentation of neoantimycin and is the first reported antibiotic of the antimycin family without the macrolide core. In this study, we explored the total synthesis and stereochemical assignment of isoneoantimycin as an approach to perform structure-activity studies on neoantimycins. Taking the neoantimycin biosynthesis pathway into account, we presumed that the stereochemistry of isoneoantimycin is the same as that of neoantimycin. The synthesis of our target molecule with the (1S,2R,5S,6S,14R,15R,17S) configuration has been achieved by using chiral-pool building blocks. A comparison of the spectroscopic data between the synthetic and natural samples verified our presumption of the stereochemistry of natural isoneoantimycin.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1021/acs.est.2c09565
+10.1039/d3ob00099k
 
 ---
 
