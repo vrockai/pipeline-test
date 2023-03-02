@@ -61,134 +61,63 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Retinal detachment after post-operative endophthalmitis: clinical characteristics, outcomes and risk factors.
- 02.03.2023, _S Schimansky, P Schwember, J Chervenkoff, SE Liyanage, J Keller_
-
-
-To describe clinical characteristics, risk factors, and outcomes of rhegmatogenous retinal detachment (RRD) following treatment of postoperative endophthalmitis (PE).
-
-[Source](https://doi.org/10.1128/aem.01880-22)
-
-10.1007/s00417-023-06021-4
-
----
-
 ## Capacity of a Microbial Synbiotic To Rescue the In Vitro Metabolic Activity of the Gut Microbiome following Perturbation with Alcohol or Antibiotics
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
 ---
 
-## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging.
- 28.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
-
-
-_Animals, Aneuploidy, DNA Repair, Cell Death, Indoles, Microbiota_
-During aging, environmental stressors and mutations along with reduced DNA repair cause germ cell aneuploidy and genome instability, which limits fertility and embryo development. Benevolent commensal microbiota and dietary plants secrete indoles, which improve healthspan and reproductive success, suggesting regulation of germ cell quality. We show that indoles prevent aneuploidy and promote DNA repair and embryo viability, which depends on age and genotoxic stress levels and affects embryo quality across generations. In young animals or with low doses of radiation, indoles promote DNA repair and embryo viability; however, in older animals or with high doses of radiation, indoles promote death of the embryo. These studies reveal a previously unknown quality control mechanism by which indole integrates DNA repair and cell death responses to preclude germ cell aneuploidy and ensure transgenerational genome integrity. Such regulation affects healthy aging, reproductive senescence, cancer, and the evolution of genetic diversity in invertebrates and vertebrates.
+## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging
 
 [Source](https://doi.org/10.1126/sciadv.ade8653)
 
-10.1126/sciadv.ade8653
-
 ---
 
-## A longitudinal survey in the wild reveals major shifts in fish host microbiota after parasite infection.
- 25.02.2023, _E Mathieu-Bégné, S Blanchet, O Rey, E Toulza, C Veyssière, S Manzi, M Lefort, O Scelsi, G Loot_
-
-
-Recent studies have highlighted associations between diseases and host microbiota. It is yet extremely challenging -especially under natural conditions- to clarify whether the host microbiota promotes future infections, or whether changes in host microbiota result from infections. Nonetheless, deciphering between these two processes is essential for highlighting the role of microbes in disease progression. We longitudinally surveyed, in the wild, the microbiota of individual fish hosts (Leuciscus burdigalensis) both before and after infection by a crustacean ectoparasite (Tracheliastes polycolpus). We found a striking association between parasite infection and the host microbiota composition restricted to the fins the parasite anchored. We clearly demonstrated that infections by the parasite induced a shift in (and did not result from) the host fin microbiota. Fin microbiota further got similar to that of the adult stage, and the free-living infective stage of the parasite during infection with a predominance of the Burkholderiaceae bacteria family. This suggests that Burkholderiaceae bacteria is involved in a co-infection process and possibly facilitate T. polycolpus infection. We reveal novel mechanistic insights for understanding the role of the microbiota in host-parasite interactions, which has implications for predicting the progression of diseases in natural host populations.
+## A longitudinal survey in the wild reveals major shifts in fish host microbiota after parasite infection
 
 [Source](https://doi.org/10.1111/mec.16901)
 
-10.1111/mec.16901
-
 ---
 
-## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice.
- 01.03.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
-
-
-_Mice, Animals, Depression, Brain-Derived Neurotrophic Factor, Matrines, Brain-Gut Axis, RNA, Ribosomal, 16S, Antidepressive Agents, Cytokines, Stress, Psychological_
-The realization of the "microbiota-gut-brain" axis plays a critical role in neuropsychiatric disorders, particularly depression, is advancing rapidly. Matrine is a natural bioactive compound, which has been found to possess potential antidepressant effect. However, the underlying mechanisms of regulation of the "microbiota-gut-brain" axis in the treatment of depression by oral matrine remain elusive.
+## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice
 
 [Source](https://doi.org/10.1186/s12967-023-03993-z)
 
-10.1186/s12967-023-03993-z
-
 ---
 
-## Variations in gut microbiome and metabolites of dogs with acute diarrhea in poodles and Labrador retrievers.
- 27.02.2023, _H Bai, T Liu, S Wang, L Shen, Z Wang_
-
-
-_Dogs, Animals, Gastrointestinal Microbiome, Microbiota, Metabolomics, Metabolome, Starch, Diarrhea, Feces, RNA, Ribosomal, 16S_
-For different breeds of dogs with acute diarrhea, the gut microbiota and metabolome profiles are unclear. This prospective observational study analyzed the gut microbiomes of poodles with acute diarrhea and Labrador retrievers with acute diarrhea based on 16S amplicon sequencing, with respective healthy dogs as controls. Fecal non-target metabolomics and metagenomics were performed on poodles with acute diarrhea. This study found that the diversity and structure of the microbial community differed significantly between the two breeds in cohorts of healthy dogs. Two breeds of dogs with acute diarrhea demonstrated different changes in microbial communities and metabolic functions. The metabolism of starch and sucrose was significantly decreased in dogs with acute diarrhea, which may be attributed to the reduced activity of dextran dextrinase. Non-targeted metabolomics identified 21 abnormal metabolic pathways exhibited by dogs with acute diarrhea, including starch, amino acid, bile acid metabolism, etc., and were closely related to specific intestinal flora. This study provided new insights into breed specificity and the development of dietary treatment strategy in canine gastrointestinal disease.
+## Variations in gut microbiome and metabolites of dogs with acute diarrhea in poodles and Labrador retrievers
 
 [Source](https://doi.org/10.1007/s00203-023-03439-6)
 
-10.1007/s00203-023-03439-6
-
 ---
 
-## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes.
- 28.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
-
-
-_Microbiota, Bacteria, Seawater, Temperature, Adaptation, Physiological, Esterases_
-Microbial communities respond to temperature with physiological adaptation and compositional turnover. Whether thermal selection of enzymes explains marine microbiome plasticity in response to temperature remains unresolved. By quantifying the thermal behaviour of seven functionally-independent enzyme classes (esterase, extradiol dioxygenase, phosphatase, beta-galactosidase, nuclease, transaminase, and aldo-keto reductase) in native proteomes of marine sediment microbiomes from the Irish Sea to the southern Red Sea, we record a significant effect of the mean annual temperature (MAT) on enzyme response in all cases. Activity and stability profiles of 228 esterases and 5 extradiol dioxygenases from sediment and seawater across 70 locations worldwide validate this thermal pattern. Modelling the esterase phase transition temperature as a measure of structural flexibility confirms the observed relationship with MAT. Furthermore, when considering temperature variability in sites with non-significantly different MATs, the broadest range of enzyme thermal behaviour and the highest growth plasticity of the enriched heterotrophic bacteria occur in samples with the widest annual thermal variability. These results indicate that temperature-driven enzyme selection shapes microbiome thermal plasticity and that thermal variability finely tunes such processes and should be considered alongside MAT in forecasting microbial community thermal response.
+## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes
 
 [Source](https://doi.org/10.1038/s41467-023-36610-0)
 
-10.1038/s41467-023-36610-0
-
 ---
 
-## Computational methods and challenges in analyzing intratumoral microbiome data.
- 25.02.2023, _Q Wang, Z Liu, A Ma, Z Li, B Liu, Q Ma_
-
-
-The human microbiome is intimately related to cancer biology and plays a vital role in the efficacy of cancer treatments, including immunotherapy. Extraordinary evidence has revealed that several microbes influence tumor development through interaction with the host immune system, that is, immuno-oncology-microbiome (IOM). This review focuses on the intratumoral microbiome in IOM and describes the available data and computational methods for discovering biological insights of microbial profiling from host bulk, single-cell, and spatial sequencing data. Critical challenges in data analysis and integration are discussed. Specifically, the microorganisms associated with cancer and cancer treatment in the context of IOM are collected and integrated from the literature. Lastly, we provide our perspectives for future directions in IOM research.
+## Computational methods and challenges in analyzing intratumoral microbiome data
 
 [Source](https://doi.org/10.1016/j.tim.2023.01.011)
 
-10.1016/j.tim.2023.01.011
-
 ---
 
-## Robust Bioinformatics Approaches Result in the First Polygenic Risk Score for BMI in Greek Adults.
- 28.02.2023, _M Kafyra, IP Kalafati, M Dimitriou, E Grigoriou, A Kokkinos, L Rallidis, G Kolovou, G Trovas, E Marouli, P Deloukas, P Moulos, GV Dedoussis_
-
-
-Quantifying the role of genetics via construction of polygenic risk scores (PRSs) is deemed a resourceful tool to enable and promote effective obesity prevention strategies. The present paper proposes a novel methodology for PRS extraction and presents the first PRS for body mass index (BMI) in a Greek population. A novel pipeline for PRS derivation was used to analyze genetic data from a unified database of three cohorts of Greek adults. The pipeline spans various steps of the process, from iterative dataset splitting to training and test partitions, calculation of summary statistics and PRS extraction, up to PRS aggregation and stabilization, achieving higher evaluation metrics. Using data from 2185 participants, implementation of the pipeline enabled consecutive repetitions in splitting training and testing samples and resulted in a 343-single nucleotide polymorphism PRS yielding an R2 = 0.3241 (beta = 1.011, p-value = 4 × 10-193) for BMI. PRS-included variants displayed a variety of associations with known traits (i.e., blood cell count, gut microbiome, lifestyle parameters). The proposed methodology led to creation of the first-ever PRS for BMI in Greek adults and aims at promoting a facilitating approach to reliable PRS development and integration in healthcare practice.
+## Robust Bioinformatics Approaches Result in the First Polygenic Risk Score for BMI in Greek Adults
 
 [Source](https://doi.org/10.3390/jpm13020327)
 
-10.3390/jpm13020327
-
 ---
 
-## Development of a tongue image-based machine learning tool for the diagnosis of gastric cancer: a prospective multicentre clinical cohort study.
- 27.02.2023, _L Yuan, L Yang, S Zhang, Z Xu, J Qin, Y Shi, P Yu, Y Wang, Z Bao, Y Xia, J Sun, W He, T Chen, X Chen, C Hu, Y Zhang, C Dong, P Zhao, Y Wang, N Jiang, B Lv, Y Xue, B Jiao, H Gao, K Chai, J Li, H Wang, X Wang, X Guan, X Liu, G Zhao, Z Zheng, J Yan, H Yu, L Chen, Z Ye, H You, Y Bao, X Cheng, P Zhao, L Wang, W Zeng, Y Tian, M Chen, Y You, G Yuan, H Ruan, X Gao, J Xu, H Xu, L Du, S Zhang, H Fu, X Cheng_
-
-
-Tongue images (the colour, size and shape of the tongue and the colour, thickness and moisture content of the tongue coating), reflecting the health state of the whole body according to the theory of traditional Chinese medicine (TCM), have been widely used in China for thousands of years. Herein, we investigated the value of tongue images and the tongue coating microbiome in the diagnosis of gastric cancer (GC).
+## Development of a tongue image-based machine learning tool for the diagnosis of gastric cancer: a prospective multicentre clinical cohort study
 
 [Source](https://doi.org/10.1016/j.eclinm.2023.101834)
 
-10.1016/j.eclinm.2023.101834
-
 ---
 
-## Latent dirichlet allocation for double clustering (LDA-DC): discovering patients phenotypes and cell populations within a single Bayesian framework.
- 27.02.2023, _EE Hachem, N Sokolovska, H Soula_
-
-
-_Humans, Bayes Theorem, Cluster Analysis_
-Current clinical routines rely more and more on "omics" data such as flow cytometry data from host and microbiota. Cohorts variability in addition to patients' heterogeneity and huge dimensions make it difficult to understand underlying structure of the data and decipher pathologies. Patients stratification and diagnostics from such complex data are extremely challenging. There is an acute need to develop novel statistical machine learning methods that are robust with respect to the data heterogeneity, efficient from the computational viewpoint, and can be understood by human experts.
+## Latent dirichlet allocation for double clustering (LDA-DC): discovering patients phenotypes and cell populations within a single Bayesian framework
 
 [Source](https://doi.org/10.1186/s12859-023-05177-4)
-
-10.1186/s12859-023-05177-4
 
 ---
 
