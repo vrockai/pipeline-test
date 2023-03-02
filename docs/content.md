@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Total synthesis of isoneoantimycin.
- 01.03.2023, _Y Usuki, Y Tanaka, M Morii, T Satoh_
+## Retinal detachment after post-operative endophthalmitis: clinical characteristics, outcomes and risk factors.
+ 02.03.2023, _S Schimansky, P Schwember, J Chervenkoff, SE Liyanage, J Keller_
 
 
-Antimycins are one of the well-known antifungal metabolites produced by Streptomyces bacteria. Neoantimycin and its analogues, the ring-expanded antimycins featuring a 15-membered tetraester ring, have been shown to be effective regulators of the oncogenic proteins GRP78/BiP and K-Ras. Isoneoantimycin was isolated from Streptomyces fradiae IFO12773 (ISP 5063) as a minor metabolite during the fermentation of neoantimycin and is the first reported antibiotic of the antimycin family without the macrolide core. In this study, we explored the total synthesis and stereochemical assignment of isoneoantimycin as an approach to perform structure-activity studies on neoantimycins. Taking the neoantimycin biosynthesis pathway into account, we presumed that the stereochemistry of isoneoantimycin is the same as that of neoantimycin. The synthesis of our target molecule with the (1S,2R,5S,6S,14R,15R,17S) configuration has been achieved by using chiral-pool building blocks. A comparison of the spectroscopic data between the synthetic and natural samples verified our presumption of the stereochemistry of natural isoneoantimycin.
+To describe clinical characteristics, risk factors, and outcomes of rhegmatogenous retinal detachment (RRD) following treatment of postoperative endophthalmitis (PE).
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1039/d3ob00099k
+10.1007/s00417-023-06021-4
 
 ---
 
