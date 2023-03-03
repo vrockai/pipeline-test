@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Advances in inhaled antibiotics for management of respiratory tract infections.
- 03.03.2023, _V Riveiro, A Casal, R Abelleira, L Valdés_
+## Identification of Antibiotic Resistance in ESKAPE Pathogens through Plasmonic Nanosensors and Machine Learning.
+ 03.03.2023, _T Yu, Y Fu, J He, J Zhang, Y Xianyu_
 
 
-The incidence of bacterial respiratory tract infections is growing. In a context of increasing antibiotic resistance and lack of new classes of antibiotics, inhaled antibiotics emerge as a promising therapeutic strategy. Although they are generally used for cystic fibrosis, their use in other conditions is becoming more frequent, including no-cystic fibrosis bronchiectasis, pneumonia and mycobacterial infections.
+Antibiotic-resistant ESKAPE pathogens cause nosocomial infections that lead to huge morbidity and mortality worldwide. Rapid identification of antibiotic resistance is vital for the prevention and control of nosocomial infections. However, current techniques like genotype identification and antibiotic susceptibility testing are generally time-consuming and require large-scale equipment. Herein, we develop a rapid, facile, and sensitive technique to determine the antibiotic resistance phenotype among ESKAPE pathogens through plasmonic nanosensors and machine learning. Key to this technique is the plasmonic sensor array that contains gold nanoparticles functionalized with peptides differing in hydrophobicity and surface charge. The plasmonic nanosensors can interact with pathogens to generate bacterial fingerprints that alter the surface plasmon resonance (SPR) spectra of nanoparticles. In combination with machine learning, it enables the identification of antibiotic resistance among 12 ESKAPE pathogens in less than 20 min with an overall accuracy of 89.74%. This machine-learning-based approach allows for the identification of antibiotic-resistant pathogens from patients and holds great promise as a clinical tool for biomedical diagnosis.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1097/MCP.0000000000000952
+10.1021/acsnano.2c10584
 
 ---
 
