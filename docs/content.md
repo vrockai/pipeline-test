@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Alterations in faecal microbiome and resistome in Chinese international travellers: a metagenomic analysis.
- 02.03.2023, _MK Cheung, RWY Ng, CKC Lai, C Zhu, ETK Au, JWK Yau, C Li, HC Wong, BCK Wong, KO Kwok, Z Chen, PKS Chan, GCY Lui, M Ip_
+## Advances in inhaled antibiotics for management of respiratory tract infections.
+ 03.03.2023, _V Riveiro, A Casal, R Abelleira, L Valdés_
 
 
-International travel increases the risk of acquisition of antibiotic-resistant bacteria and antibiotic resistance genes (ARGs). Previous studies have characterized the changes in the gut microbiome and resistome of Western travellers; however, information on non-Western populations and the effects of travel-related risk factors on the gut microbiome and resistome remain limited.
+The incidence of bacterial respiratory tract infections is growing. In a context of increasing antibiotic resistance and lack of new classes of antibiotics, inhaled antibiotics emerge as a promising therapeutic strategy. Although they are generally used for cystic fibrosis, their use in other conditions is becoming more frequent, including no-cystic fibrosis bronchiectasis, pneumonia and mycobacterial infections.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1093/jtm/taad027
+10.1097/MCP.0000000000000952
 
 ---
 
