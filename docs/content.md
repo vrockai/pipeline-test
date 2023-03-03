@@ -61,45 +61,97 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
+## Alterations in faecal microbiome and resistome in Chinese international travellers: a metagenomic analysis.
+ 02.03.2023, _MK Cheung, RWY Ng, CKC Lai, C Zhu, ETK Au, JWK Yau, C Li, HC Wong, BCK Wong, KO Kwok, Z Chen, PKS Chan, GCY Lui, M Ip_
+
+
+International travel increases the risk of acquisition of antibiotic-resistant bacteria and antibiotic resistance genes (ARGs). Previous studies have characterized the changes in the gut microbiome and resistome of Western travellers; however, information on non-Western populations and the effects of travel-related risk factors on the gut microbiome and resistome remain limited.
+
+[Source](https://doi.org/10.1128/aem.01880-22)
+
+10.1093/jtm/taad027
+
+---
+
 ## Capacity of a Microbial Synbiotic To Rescue the In Vitro Metabolic Activity of the Gut Microbiome following Perturbation with Alcohol or Antibiotics
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
 ---
 
-## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging
+## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging.
+ 28.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
+
+
+_Animals, Aneuploidy, DNA Repair, Cell Death, Indoles, Microbiota_
+During aging, environmental stressors and mutations along with reduced DNA repair cause germ cell aneuploidy and genome instability, which limits fertility and embryo development. Benevolent commensal microbiota and dietary plants secrete indoles, which improve healthspan and reproductive success, suggesting regulation of germ cell quality. We show that indoles prevent aneuploidy and promote DNA repair and embryo viability, which depends on age and genotoxic stress levels and affects embryo quality across generations. In young animals or with low doses of radiation, indoles promote DNA repair and embryo viability; however, in older animals or with high doses of radiation, indoles promote death of the embryo. These studies reveal a previously unknown quality control mechanism by which indole integrates DNA repair and cell death responses to preclude germ cell aneuploidy and ensure transgenerational genome integrity. Such regulation affects healthy aging, reproductive senescence, cancer, and the evolution of genetic diversity in invertebrates and vertebrates.
 
 [Source](https://doi.org/10.1126/sciadv.ade8653)
 
+10.1126/sciadv.ade8653
+
 ---
 
-## A longitudinal survey in the wild reveals major shifts in fish host microbiota after parasite infection
+## A longitudinal survey in the wild reveals major shifts in fish host microbiota after parasite infection.
+ 25.02.2023, _E Mathieu-Bégné, S Blanchet, O Rey, E Toulza, C Veyssière, S Manzi, M Lefort, O Scelsi, G Loot_
+
+
+Recent studies have highlighted associations between diseases and host microbiota. It is yet extremely challenging -especially under natural conditions- to clarify whether the host microbiota promotes future infections, or whether changes in host microbiota result from infections. Nonetheless, deciphering between these two processes is essential for highlighting the role of microbes in disease progression. We longitudinally surveyed, in the wild, the microbiota of individual fish hosts (Leuciscus burdigalensis) both before and after infection by a crustacean ectoparasite (Tracheliastes polycolpus). We found a striking association between parasite infection and the host microbiota composition restricted to the fins the parasite anchored. We clearly demonstrated that infections by the parasite induced a shift in (and did not result from) the host fin microbiota. Fin microbiota further got similar to that of the adult stage, and the free-living infective stage of the parasite during infection with a predominance of the Burkholderiaceae bacteria family. This suggests that Burkholderiaceae bacteria is involved in a co-infection process and possibly facilitate T. polycolpus infection. We reveal novel mechanistic insights for understanding the role of the microbiota in host-parasite interactions, which has implications for predicting the progression of diseases in natural host populations.
 
 [Source](https://doi.org/10.1111/mec.16901)
 
+10.1111/mec.16901
+
 ---
 
-## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice
+## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice.
+ 01.03.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
+
+
+_Mice, Animals, Depression, Brain-Derived Neurotrophic Factor, Matrines, Brain-Gut Axis, RNA, Ribosomal, 16S, Antidepressive Agents, Cytokines, Stress, Psychological_
+The realization of the "microbiota-gut-brain" axis plays a critical role in neuropsychiatric disorders, particularly depression, is advancing rapidly. Matrine is a natural bioactive compound, which has been found to possess potential antidepressant effect. However, the underlying mechanisms of regulation of the "microbiota-gut-brain" axis in the treatment of depression by oral matrine remain elusive.
 
 [Source](https://doi.org/10.1186/s12967-023-03993-z)
 
+10.1186/s12967-023-03993-z
+
 ---
 
-## Variations in gut microbiome and metabolites of dogs with acute diarrhea in poodles and Labrador retrievers
+## Variations in gut microbiome and metabolites of dogs with acute diarrhea in poodles and Labrador retrievers.
+ 27.02.2023, _H Bai, T Liu, S Wang, L Shen, Z Wang_
+
+
+_Dogs, Animals, Gastrointestinal Microbiome, Microbiota, Metabolomics, Metabolome, Starch, Diarrhea, Feces, RNA, Ribosomal, 16S_
+For different breeds of dogs with acute diarrhea, the gut microbiota and metabolome profiles are unclear. This prospective observational study analyzed the gut microbiomes of poodles with acute diarrhea and Labrador retrievers with acute diarrhea based on 16S amplicon sequencing, with respective healthy dogs as controls. Fecal non-target metabolomics and metagenomics were performed on poodles with acute diarrhea. This study found that the diversity and structure of the microbial community differed significantly between the two breeds in cohorts of healthy dogs. Two breeds of dogs with acute diarrhea demonstrated different changes in microbial communities and metabolic functions. The metabolism of starch and sucrose was significantly decreased in dogs with acute diarrhea, which may be attributed to the reduced activity of dextran dextrinase. Non-targeted metabolomics identified 21 abnormal metabolic pathways exhibited by dogs with acute diarrhea, including starch, amino acid, bile acid metabolism, etc., and were closely related to specific intestinal flora. This study provided new insights into breed specificity and the development of dietary treatment strategy in canine gastrointestinal disease.
 
 [Source](https://doi.org/10.1007/s00203-023-03439-6)
 
+10.1007/s00203-023-03439-6
+
 ---
 
-## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes
+## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes.
+ 28.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
+
+
+_Microbiota, Bacteria, Seawater, Temperature, Adaptation, Physiological, Esterases_
+Microbial communities respond to temperature with physiological adaptation and compositional turnover. Whether thermal selection of enzymes explains marine microbiome plasticity in response to temperature remains unresolved. By quantifying the thermal behaviour of seven functionally-independent enzyme classes (esterase, extradiol dioxygenase, phosphatase, beta-galactosidase, nuclease, transaminase, and aldo-keto reductase) in native proteomes of marine sediment microbiomes from the Irish Sea to the southern Red Sea, we record a significant effect of the mean annual temperature (MAT) on enzyme response in all cases. Activity and stability profiles of 228 esterases and 5 extradiol dioxygenases from sediment and seawater across 70 locations worldwide validate this thermal pattern. Modelling the esterase phase transition temperature as a measure of structural flexibility confirms the observed relationship with MAT. Furthermore, when considering temperature variability in sites with non-significantly different MATs, the broadest range of enzyme thermal behaviour and the highest growth plasticity of the enriched heterotrophic bacteria occur in samples with the widest annual thermal variability. These results indicate that temperature-driven enzyme selection shapes microbiome thermal plasticity and that thermal variability finely tunes such processes and should be considered alongside MAT in forecasting microbial community thermal response.
 
 [Source](https://doi.org/10.1038/s41467-023-36610-0)
 
+10.1038/s41467-023-36610-0
+
 ---
 
-## Computational methods and challenges in analyzing intratumoral microbiome data
+## Computational methods and challenges in analyzing intratumoral microbiome data.
+ 25.02.2023, _Q Wang, Z Liu, A Ma, Z Li, B Liu, Q Ma_
+
+
+The human microbiome is intimately related to cancer biology and plays a vital role in the efficacy of cancer treatments, including immunotherapy. Extraordinary evidence has revealed that several microbes influence tumor development through interaction with the host immune system, that is, immuno-oncology-microbiome (IOM). This review focuses on the intratumoral microbiome in IOM and describes the available data and computational methods for discovering biological insights of microbial profiling from host bulk, single-cell, and spatial sequencing data. Critical challenges in data analysis and integration are discussed. Specifically, the microorganisms associated with cancer and cancer treatment in the context of IOM are collected and integrated from the literature. Lastly, we provide our perspectives for future directions in IOM research.
 
 [Source](https://doi.org/10.1016/j.tim.2023.01.011)
+
+10.1016/j.tim.2023.01.011
 
 ---
 
