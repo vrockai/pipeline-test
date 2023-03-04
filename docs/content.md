@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Effectiveness of the application of an educational program based on the Health Belief Model (HBM) in Adopting.
- 03.03.2023, _E Movahed, M Rezaee Moradali, M Saeed Jadgal, M Zareipour, M Tasouji Azari_
+## On the use of antibiotics in plasticity research: gastropod shells unveil a tale of caution.
+ 03.03.2023, _D Meuthen, K Reinhold_
 
 
-To evaluate the effectiveness of the application of an educational program based on the Health Belief Model (HBM) in Adopting Preventive Behaviors from Self-Medication among Women in Iran.
+1) Through phenotypic plasticity, individual genotypes can produce multiple phenotypes dependent on the environment. In the modern world, anthropogenic influences such as man-made pharmaceuticals are increasingly prevalent. They might alter observable patterns of plasticity and distort our conclusions regarding the adaptive potential of natural populations. 2) Antibiotics are nowadays nearly ubiquitous in aquatic environments and prophylactic antibiotic use is also becoming more common to optimize animal survival and reproductive output in artificial settings. In the well-studied plasticity model system Physella acuta, prophylactic erythromycin treatment acts against gram-positive bacteria and thereby reduces mortality. 3) Here, we study its consequences for inducible defence formation in the same species. In a 2×2 split-clutch design, we reared 635 P. acuta in either the presence or absence of this antibiotic, followed by 28-day exposure to either high or low predation risk as perceived through conspecific alarm cues. 4) Under antibiotic treatment, risk-induced increases in shell thickness, a well-known plastic response in this model system, were larger and consistently detectable. Antibiotic treatment reduced shell thickness in low-risk individuals, suggesting that in controls, undiscovered pathogen infection increased shell thickness under low risk. Family variation in risk-induced plasticity was low, but the large variation in responses to antibiotics among families suggests different pathogen susceptibility between genotypes. Lastly, individuals that developed thicker shells had reduced total mass, which highlights resource trade-offs. 5) Antibiotics thus have the potential to uncover a larger extent of plasticity, but might counterintuitively distort plasticity estimates for natural populations where pathogens are a part of natural ecology.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.17533/udea.iee.v40n3e11
+10.1111/1365-2656.13909
 
 ---
 
