@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Identification of Antibiotic Resistance in ESKAPE Pathogens through Plasmonic Nanosensors and Machine Learning.
- 03.03.2023, _T Yu, Y Fu, J He, J Zhang, Y Xianyu_
+## Effectiveness of the application of an educational program based on the Health Belief Model (HBM) in Adopting.
+ 03.03.2023, _E Movahed, M Rezaee Moradali, M Saeed Jadgal, M Zareipour, M Tasouji Azari_
 
 
-Antibiotic-resistant ESKAPE pathogens cause nosocomial infections that lead to huge morbidity and mortality worldwide. Rapid identification of antibiotic resistance is vital for the prevention and control of nosocomial infections. However, current techniques like genotype identification and antibiotic susceptibility testing are generally time-consuming and require large-scale equipment. Herein, we develop a rapid, facile, and sensitive technique to determine the antibiotic resistance phenotype among ESKAPE pathogens through plasmonic nanosensors and machine learning. Key to this technique is the plasmonic sensor array that contains gold nanoparticles functionalized with peptides differing in hydrophobicity and surface charge. The plasmonic nanosensors can interact with pathogens to generate bacterial fingerprints that alter the surface plasmon resonance (SPR) spectra of nanoparticles. In combination with machine learning, it enables the identification of antibiotic resistance among 12 ESKAPE pathogens in less than 20 min with an overall accuracy of 89.74%. This machine-learning-based approach allows for the identification of antibiotic-resistant pathogens from patients and holds great promise as a clinical tool for biomedical diagnosis.
+To evaluate the effectiveness of the application of an educational program based on the Health Belief Model (HBM) in Adopting Preventive Behaviors from Self-Medication among Women in Iran.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1021/acsnano.2c10584
+10.17533/udea.iee.v40n3e11
 
 ---
 
