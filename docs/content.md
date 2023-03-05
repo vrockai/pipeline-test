@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Identification and characterization of thousands of bacteriophage satellites across bacteria.
- 04.03.2023, _JAM de Sousa, A Fillol-Salom, JR Penadés, EPC Rocha_
+## Microbiota-derived genotoxin tilimycin generates colonic stem cell mutations.
+ 04.03.2023, _L Pöltl, M Kitsera, S Raffl, S Schild, A Cosic, S Kienesberger, K Unterhauser, G Raber, C Lembacher-Fadum, R Breinbauer, G Gorkiewicz, C Sebastian, G Hoefler, EL Zechner_
 
 
-Bacteriophage-bacteria interactions are affected by phage satellites, elements that exploit phages for transfer between bacteria. Satellites can encode defense systems, antibiotic resistance genes, and virulence factors, but their number and diversity are unknown. We developed SatelliteFinder to identify satellites in bacterial genomes, detecting the four best described families: P4-like, phage inducible chromosomal islands (PICI), capsid-forming PICI, and PICI-like elements (PLE). We vastly expanded the number of described elements to ∼5000, finding bacterial genomes with up to three different families of satellites. Most satellites were found in Proteobacteria and Firmicutes, but some are in novel taxa such as Actinobacteria. We characterized the gene repertoires of satellites, which are variable in size and composition, and their genomic organization, which is very conserved. Phylogenies of core genes in PICI and cfPICI indicate independent evolution of their hijacking modules. There are few other homologous core genes between other families of satellites, and even fewer homologous to phages. Hence, phage satellites are ancient, diverse, and probably evolved multiple times independently. Given the many bacteria infected by phages that still lack known satellites, and the recent proposals for novel families, we speculate that we are at the beginning of the discovery of massive numbers and types of satellites.
+The DNA-alkylating metabolite tilimycin is a microbial genotoxin. Intestinal accumulation of tilimycin in individuals carrying til+ Klebsiella spp. causes apoptotic erosion of the epithelium and colitis. Renewal of the intestinal lining and response to injury requires the activities of stem cells located at the base of intestinal crypts. This study interrogates the consequences of tilimycin-induced DNA damage to cycling stem cells. We charted the spatial distribution and luminal quantities of til metabolites in Klebsiella-colonized mice in the context of a complex microbial community. Loss of marker gene G6pd function indicates genetic aberrations in colorectal stem cells that became stabilized in monoclonal mutant crypts. Mice colonized with tilimycin-producing Klebsiella displayed both higher frequencies of somatic mutation and more mutations per affected individual than animals carrying a non-producing mutant. Our findings imply that genotoxic til+ Klebsiella may drive somatic genetic change in the colon and increase disease susceptibility in human hosts.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1093/nar/gkad123
+10.1016/j.celrep.2023.112199
 
 ---
 
