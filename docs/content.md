@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Regulation of adhesin synthesis in aggregatibacter actinomycetemcomitans.
- 05.03.2023, _J Tristano, DR Danforth, MJ Wargo, KP Mintz_
+## Healthcare seeking outside healthcare facilities and antibiotic dispensing patterns in rural Burkina Faso: a mixed methods study.
+ 05.03.2023, _D Valia, JS Kouanda, B Ingelbeen, K Derra, B Kaboré, F Kiemdé, T Rouamba, E Rouamba, FS Hien, L Campbell, M Meudec, A Robert, H Tinto, MAB van der Sande, HR Villalobos_
 
 
-Aggregatibacter actinomycetemcomitans is a Gram-negative bacterium associated with periodontal disease and a variety of disseminated extra-oral infections. Tissue colonization is mediated by fimbriae and non-fimbriae adhesins resulting in the formation of a sessile bacterial community or biofilm, which confers enhanced resistance to antibiotics and mechanical removal. The environmental changes experienced by A. actinomycetemcomitans during infection are detected and processed by undefined signaling pathways that alter gene expression. In this study, we have characterized the promoter region of the extracellular matrix protein adhesin A (EmaA), which is an important surface adhesin in biofilm biogenesis and disease initiation using a series of deletion constructs consisting of the emaA intergenic region and a promotor-less lacZ sequence Two regions of the promoter sequence were found to regulate gene transcription and in silico analysis indicated the presence of multiple transcriptional regulatory binding sequences. Analysis of four regulatory elements, CpxR, ArcA, OxyR and DeoR, was undertaken in this study. Inactivation of arcA, the regulator moiety of the ArcAB two-component signaling pathway involved in redox homeostasis, resulted in a decrease in EmaA synthesis and biofilm formation. Analysis of the promoter sequences of other adhesins identified binding sequences for the same regulatory proteins, which suggests that these proteins are involved in the coordinate regulation of adhesins required for colonization and pathogenesis. This article is protected by copyright. All rights reserved.
+Optimizing antibiotic use is important to limit increasing antibiotic resistance. In rural Burkina Faso, over-the-counter dispensing of antibiotics in community pharmacies and non-licensed medicine retail outlets facilitates self-medication. We investigated its extent, reasons and dispensing patterns.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1111/omi.12410
+10.1111/tmi.13868
 
 ---
 
