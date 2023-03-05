@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Azithromycin, a potent autophagy inhibitor for cancer therapy, perturbs cytoskeletal protein dynamics.
- 04.03.2023, _N Takano, M Hiramoto, Y Yamada, H Kokuba, M Tokuhisa, H Hino, K Miyazawa_
+## Regulation of adhesin synthesis in aggregatibacter actinomycetemcomitans.
+ 05.03.2023, _J Tristano, DR Danforth, MJ Wargo, KP Mintz_
 
 
-Autophagy plays an important role in tumour cell growth and survival and also promotes resistance to chemotherapy. Hence, autophagy has been targeted for cancer therapy. We previously reported that macrolide antibiotics including azithromycin (AZM) inhibit autophagy in various types of cancer cells in vitro. However, the underlying molecular mechanism for autophagy inhibition remains unclear. Here, we aimed to identify the molecular target of AZM for inhibiting autophagy.
+Aggregatibacter actinomycetemcomitans is a Gram-negative bacterium associated with periodontal disease and a variety of disseminated extra-oral infections. Tissue colonization is mediated by fimbriae and non-fimbriae adhesins resulting in the formation of a sessile bacterial community or biofilm, which confers enhanced resistance to antibiotics and mechanical removal. The environmental changes experienced by A. actinomycetemcomitans during infection are detected and processed by undefined signaling pathways that alter gene expression. In this study, we have characterized the promoter region of the extracellular matrix protein adhesin A (EmaA), which is an important surface adhesin in biofilm biogenesis and disease initiation using a series of deletion constructs consisting of the emaA intergenic region and a promotor-less lacZ sequence Two regions of the promoter sequence were found to regulate gene transcription and in silico analysis indicated the presence of multiple transcriptional regulatory binding sequences. Analysis of four regulatory elements, CpxR, ArcA, OxyR and DeoR, was undertaken in this study. Inactivation of arcA, the regulator moiety of the ArcAB two-component signaling pathway involved in redox homeostasis, resulted in a decrease in EmaA synthesis and biofilm formation. Analysis of the promoter sequences of other adhesins identified binding sequences for the same regulatory proteins, which suggests that these proteins are involved in the coordinate regulation of adhesins required for colonization and pathogenesis. This article is protected by copyright. All rights reserved.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1038/s41416-023-02210-4
+10.1111/omi.12410
 
 ---
 
