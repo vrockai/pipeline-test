@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Microbiota-derived genotoxin tilimycin generates colonic stem cell mutations.
- 04.03.2023, _L Pöltl, M Kitsera, S Raffl, S Schild, A Cosic, S Kienesberger, K Unterhauser, G Raber, C Lembacher-Fadum, R Breinbauer, G Gorkiewicz, C Sebastian, G Hoefler, EL Zechner_
+## Azithromycin, a potent autophagy inhibitor for cancer therapy, perturbs cytoskeletal protein dynamics.
+ 04.03.2023, _N Takano, M Hiramoto, Y Yamada, H Kokuba, M Tokuhisa, H Hino, K Miyazawa_
 
 
-The DNA-alkylating metabolite tilimycin is a microbial genotoxin. Intestinal accumulation of tilimycin in individuals carrying til+ Klebsiella spp. causes apoptotic erosion of the epithelium and colitis. Renewal of the intestinal lining and response to injury requires the activities of stem cells located at the base of intestinal crypts. This study interrogates the consequences of tilimycin-induced DNA damage to cycling stem cells. We charted the spatial distribution and luminal quantities of til metabolites in Klebsiella-colonized mice in the context of a complex microbial community. Loss of marker gene G6pd function indicates genetic aberrations in colorectal stem cells that became stabilized in monoclonal mutant crypts. Mice colonized with tilimycin-producing Klebsiella displayed both higher frequencies of somatic mutation and more mutations per affected individual than animals carrying a non-producing mutant. Our findings imply that genotoxic til+ Klebsiella may drive somatic genetic change in the colon and increase disease susceptibility in human hosts.
+Autophagy plays an important role in tumour cell growth and survival and also promotes resistance to chemotherapy. Hence, autophagy has been targeted for cancer therapy. We previously reported that macrolide antibiotics including azithromycin (AZM) inhibit autophagy in various types of cancer cells in vitro. However, the underlying molecular mechanism for autophagy inhibition remains unclear. Here, we aimed to identify the molecular target of AZM for inhibiting autophagy.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1016/j.celrep.2023.112199
+10.1038/s41416-023-02210-4
 
 ---
 
