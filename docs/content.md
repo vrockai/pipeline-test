@@ -61,15 +61,15 @@ Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut 
 
 ---
 
-## Healthcare seeking outside healthcare facilities and antibiotic dispensing patterns in rural Burkina Faso: a mixed methods study.
- 05.03.2023, _D Valia, JS Kouanda, B Ingelbeen, K Derra, B Kaboré, F Kiemdé, T Rouamba, E Rouamba, FS Hien, L Campbell, M Meudec, A Robert, H Tinto, MAB van der Sande, HR Villalobos_
+## Extremely high unbound flucloxacillin concentrations in a patient with acute septic renal failure during continuous venovenous hemofiltration: Therapeutic drug monitoring to optimize treatment.
+ 05.03.2023, _EM Appelman, EA Wammes van-der-Heijden, SD Meenks, PKC Janssen, JLML le Noble_
 
 
-Optimizing antibiotic use is important to limit increasing antibiotic resistance. In rural Burkina Faso, over-the-counter dispensing of antibiotics in community pharmacies and non-licensed medicine retail outlets facilitates self-medication. We investigated its extent, reasons and dispensing patterns.
+A 75-year-old female orthopedic patient with spondylodiscitis was admitted to the intensive care unit, where she developed severe acute renal injury (AKI) due to a Staphylococcus aureus bloodstream infection. Continuous venovenous hemofiltration (CVVH) was initiated as renal replacement therapy. According to physician experience and based on (inter)national guidelines and the severity of the infection, treatment with intravenous (IV) flucloxacillin at an initial continuous dose of 9 g/24h was started. The dose was increased to 12 g/24h because endocarditis could not be excluded. Therapeutic drug monitoring (TDM) was used to monitor flucloxacillin levels which are related to antibiotic efficacy and toxicity. Total and unbound flucloxacillin concentrations were measured following 24 hours of continuous infusion at three time points before regional citrate anticoagulation (RCA)-CVVH was initiated, at three time points in plasma, pre-filter, and post-filter, and in ultrafiltrate samples during RCA-CVVH treatment and 1 day following cessation of CVVH treatment. Extremely high total (up to 299.8 mg/L) and unbound (up to 155.1 mg/L) flucloxacillin concentrations were found in the plasma. This led to a dose decrease to 6 g/24h and subsequently to 3 g/24h. Antimicrobial target attainment against S. aureus was achieved by dosing IV flucloxacillin based on TDM. Based on these findings, we conclude that current dosing guidelines for flucloxacillin during renal replacement therapy need revision. We suggest a starting dose of 4 g/24h, which should be adjusted based on the TDM of the unbound flucloxacillin concentration.
 
 [Source](https://doi.org/10.1128/aem.01880-22)
 
-10.1111/tmi.13868
+10.5414/CP204313
 
 ---
 
