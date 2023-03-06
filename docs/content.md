@@ -11,9 +11,10 @@ The human microbiome plays an important role in modulating the host metabolism a
 ---
 
 ## Population-level impacts of antibiotic usage on the human gut microbiome.
- 05.03.2023, _K Lee, S Raguideau, K Sirén, F Asnicar, F Cumbo, F Hildebrand, N Segata, CJ Cha, C Quince_
+ 06.03.2023, _K Lee, S Raguideau, K Sirén, F Asnicar, F Cumbo, F Hildebrand, N Segata, CJ Cha, C Quince_
 
 
+_Humans, Gastrointestinal Microbiome, Anti-Bacterial Agents, Microbiota, Metagenome, Genome, Human_
 The widespread usage of antimicrobials has driven the evolution of resistance in pathogenic microbes, both increased prevalence of antimicrobial resistance genes (ARGs) and their spread across species by horizontal gene transfer (HGT). However, the impact on the wider community of commensal microbes associated with the human body, the microbiome, is less well understood. Small-scale studies have determined the transient impacts of antibiotic consumption but we conduct an extensive survey of ARGs in 8972 metagenomes to determine the population-level impacts. Focusing on 3096 gut microbiomes from healthy individuals not taking antibiotics we demonstrate highly significant correlations between both the total ARG abundance and diversity and per capita antibiotic usage rates across ten countries spanning three continents. Samples from China were notable outliers. We use a collection of 154,723 human-associated metagenome assembled genomes (MAGs) to link these ARGs to taxa and detect HGT. This reveals that the correlations in ARG abundance are driven by multi-species mobile ARGs shared between pathogens and commensals, within a highly connected central component of the network of MAGs and ARGs. We also observe that individual human gut ARG profiles cluster into two types or resistotypes. The less frequent resistotype has higher overall ARG abundance, is associated with certain classes of resistance, and is linked to species-specific genes in the Proteobacteria on the periphery of the ARG network.
 
 [Source](https://doi.org/10.1038/s41467-023-36633-7)
@@ -131,9 +132,10 @@ Following viral infection, genetically manipulated mice lacking immunoregulatory
 ---
 
 ## Substantial viral and bacterial diversity at the bat-tick interface.
- 03.03.2023, _AS Ortiz-Baez, TGT Jaenson, EC Holmes, JH Pettersson, P Wilhelmsson_
+ 06.03.2023, _AS Ortiz-Baez, TGT Jaenson, EC Holmes, JH Pettersson, P Wilhelmsson_
 
 
+_Humans, Animals, Chiroptera, Argasidae, Bacteria, Disease Outbreaks, Europe_
 Ticks harbour a high diversity of viruses, bacteria and protozoa. The soft tick Carios vespertilionis (Argasidae) is a common ectoparasite of bats in the Palearctic region and is suspected to be vector and reservoir of viruses and other microbial species in bat populations, some of which may act as zoonotic agents for human disease. The Soprano pipistrelle (Pipistrellus pygmaeus, Vespertilionidae) is widely distributed in Europe, where it can be found inside or close to human habitation. We used meta-transcriptomic sequencing to determine the RNA virome and common microbiota in blood-fed C. vespertilionis ticks collected from a Soprano pipistrelle bat roosting site in south-central Sweden. Our analyses identified 16 viruses from 11 virus families, of which 15 viruses were novel. For the first time in Sweden we identified Issuk-Kul virus, a zoonotic arthropod-borne virus previously associated with outbreaks of acute febrile illness in humans. Probable bat-associated and tick-borne viruses were classified within the families Nairoviridae, Caliciviridae and Hepeviridae, while other invertebrate-associated viruses included members of the Dicistroviridae, Iflaviridae, Nodaviridae, Partitiviridae, Permutotetraviridae, Polycipiviridae and Solemoviridae. Similarly, we found abundant bacteria in C. vespertilionis, including genera with known tick-borne bacteria, such as Coxiella spp. and Rickettsia spp. These findings demonstrate the remarkable diversity of RNA viruses and bacteria present in C. vespertilionis and highlight the importance of bat-associated ectoparasite surveillance as an effective and non-invasive means to track viruses and bacteria circulating in bats and ticks.
 
 [Source](https://doi.org/10.1099/mgen.0.000942)
@@ -197,9 +199,10 @@ In metagenomic analyses of microbiomes, one of the first steps is usually the ta
 ---
 
 ## Using strain-resolved analysis to identify contamination in metagenomics data.
- 04.03.2023, _YC Lou, J Hoff, MR Olm, J West-Roberts, S Diamond, BA Firek, MJ Morowitz, JF Banfield_
+ 06.03.2023, _YC Lou, J Hoff, MR Olm, J West-Roberts, S Diamond, BA Firek, MJ Morowitz, JF Banfield_
 
 
+_Metagenomics, Biomass, DNA Contamination, Microbiota, DNA_
 Metagenomics analyses can be negatively impacted by DNA contamination. While external sources of contamination such as DNA extraction kits have been widely reported and investigated, contamination originating within the study itself remains underreported.
 
 [Source](https://doi.org/10.1186/s40168-023-01477-2)
