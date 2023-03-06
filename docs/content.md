@@ -1,194 +1,222 @@
-## Extending and improving metagenomic taxonomic profiling with uncharacterized species using MetaPhlAn 4.
- 24.02.2023, _A Blanco-Míguez, F Beghini, F Cumbo, LJ McIver, KN Thompson, M Zolfo, P Manghi, L Dubois, KD Huang, AM Thomas, WA Nickols, G Piccinno, E Piperni, M Punčochář, M Valles-Colomer, A Tett, F Giordano, R Davies, J Wolf, SE Berry, TD Spector, EA Franzosa, E Pasolli, F Asnicar, C Huttenhower, N Segata_
+## Assessment of microbiota in the gut and upper respiratory tract associated with SARS-CoV-2 infection.
+ 03.03.2023, _J Li, Q Jing, J Li, M Hua, L Di, C Song, Y Huang, J Wang, C Chen, AR Wu_
 
 
-Metagenomic assembly enables new organism discovery from microbial communities, but it can only capture few abundant organisms from most metagenomes. Here we present MetaPhlAn 4, which integrates information from metagenome assemblies and microbial isolate genomes for more comprehensive metagenomic taxonomic profiling. From a curated collection of 1.01 M prokaryotic reference and metagenome-assembled genomes, we define unique marker genes for 26,970 species-level genome bins, 4,992 of them taxonomically unidentified at the species level. MetaPhlAn 4 explains ~20% more reads in most international human gut microbiomes and &gt;40% in less-characterized environments such as the rumen microbiome and proves more accurate than available alternatives on synthetic evaluations while also reliably quantifying organisms with no cultured isolates. Application of the method to &gt;24,500 metagenomes highlights previously undetected species to be strong biomarkers for host conditions and lifestyles in human and mouse microbiomes and shows that even previously uncharacterized species can be genetically profiled at the resolution of single microbial strains.
+The human microbiome plays an important role in modulating the host metabolism and immune system. Connections and interactions have been found between the microbiome of the gut and oral pharynx in the context of SARS-CoV-2 and other viral infections; hence, to broaden our understanding of host-viral responses in general and to deepen our knowledge of COVID-19, we performed a large-scale, systematic evaluation of the effect of SARS-CoV-2 infection on human microbiota in patients with varying disease severity.
 
-[Source](https://doi.org/10.1038/s41587-023-01688-w)
+[Source](https://doi.org/10.1186/s40168-022-01447-0)
 
-10.1038/s41587-023-01688-w
-
----
-
-## Gut microbial metabolism of 5-ASA diminishes its clinical efficacy in inflammatory bowel disease.
- 24.02.2023, _RS Mehta, JR Mayers, Y Zhang, A Bhosle, NR Glasser, LH Nguyen, W Ma, S Bae, T Branck, K Song, L Sebastian, JA Pacheco, HS Seo, C Clish, S Dhe-Paganon, AN Ananthakrishnan, EA Franzosa, EP Balskus, AT Chan, C Huttenhower_
-
-
-For decades, variability in clinical efficacy of the widely used inflammatory bowel disease (IBD) drug 5-aminosalicylic acid (5-ASA) has been attributed, in part, to its acetylation and inactivation by gut microbes. Identification of the responsible microbes and enzyme(s), however, has proved elusive. To uncover the source of this metabolism, we developed a multi-omics workflow combining gut microbiome metagenomics, metatranscriptomics and metabolomics from the longitudinal IBDMDB cohort of 132 controls and patients with IBD. This associated 12 previously uncharacterized microbial acetyltransferases with 5-ASA inactivation, belonging to two protein superfamilies: thiolases and acyl-CoA N-acyltransferases. In vitro characterization of representatives from both families confirmed the ability of these enzymes to acetylate 5-ASA. A cross-sectional analysis within the discovery cohort and subsequent prospective validation within the independent SPARC IBD cohort (n = 208) found three of these microbial thiolases and one acyl-CoA N-acyltransferase to be epidemiologically associated with an increased risk of treatment failure among 5-ASA users. Together, these data address a longstanding challenge in IBD management, outline a method for the discovery of previously uncharacterized gut microbial activities and advance the possibility of microbiome-based personalized medicine.
-
-[Source](https://doi.org/10.1038/s41591-023-02217-7)
-
-10.1038/s41591-023-02217-7
+10.1186/s40168-022-01447-0
 
 ---
 
-## Interpersonal variability of the human gut virome confounds disease signal detection in IBD.
- 01.03.2023, _SR Stockdale, AN Shkoporov, EV Khokhlova, KM Daly, SA McDonnell, O O' Regan, JA Nolan, TDS Sutton, AG Clooney, FJ Ryan, D Sheehan, A Lavelle, LA Draper, F Shanahan, RP Ross, C Hill_
+## Population-level impacts of antibiotic usage on the human gut microbiome.
+ 05.03.2023, _K Lee, S Raguideau, K Sirén, F Asnicar, F Cumbo, F Hildebrand, N Segata, CJ Cha, C Quince_
 
 
-_Humans, Virome, Gastrointestinal Microbiome, Viruses, Colitis, Ulcerative, Inflammatory Bowel Diseases_
-Viruses are increasingly recognised as important components of the human microbiome, fulfilling numerous ecological roles including bacterial predation, immune stimulation, genetic diversification, horizontal gene transfer, microbial interactions, and augmentation of metabolic functions. However, our current view of the human gut virome is tainted by previous sequencing requirements that necessitated the amplification of starting nucleic acids. In this study, we performed an original longitudinal analysis of 40 healthy control, 19 Crohn's disease, and 20 ulcerative colitis viromes over three time points without an amplification bias, which revealed and highlighted the interpersonal individuality of the human gut virome. In contrast to a 16 S rRNA gene analysis of matched samples, we show that α- and β-diversity metrics of unamplified viromes are not as efficient at discerning controls from patients with inflammatory bowel disease. Additionally, we explored the intrinsic properties of unamplified gut viromes and show there is considerable interpersonal variability in viral taxa, infrequent longitudinal persistence of intrapersonal viruses, and vast fluctuations in the abundance of temporal viruses. Together, these properties of unamplified faecal viromes confound the ability to discern disease associations but significantly advance toward an unbiased and accurate representation of the human gut virome.
+The widespread usage of antimicrobials has driven the evolution of resistance in pathogenic microbes, both increased prevalence of antimicrobial resistance genes (ARGs) and their spread across species by horizontal gene transfer (HGT). However, the impact on the wider community of commensal microbes associated with the human body, the microbiome, is less well understood. Small-scale studies have determined the transient impacts of antibiotic consumption but we conduct an extensive survey of ARGs in 8972 metagenomes to determine the population-level impacts. Focusing on 3096 gut microbiomes from healthy individuals not taking antibiotics we demonstrate highly significant correlations between both the total ARG abundance and diversity and per capita antibiotic usage rates across ten countries spanning three continents. Samples from China were notable outliers. We use a collection of 154,723 human-associated metagenome assembled genomes (MAGs) to link these ARGs to taxa and detect HGT. This reveals that the correlations in ARG abundance are driven by multi-species mobile ARGs shared between pathogens and commensals, within a highly connected central component of the network of MAGs and ARGs. We also observe that individual human gut ARG profiles cluster into two types or resistotypes. The less frequent resistotype has higher overall ARG abundance, is associated with certain classes of resistance, and is linked to species-specific genes in the Proteobacteria on the periphery of the ARG network.
 
-[Source](https://doi.org/10.1038/s42003-023-04592-w)
+[Source](https://doi.org/10.1038/s41467-023-36633-7)
 
-10.1038/s42003-023-04592-w
-
----
-
-## Clinical characteristics, diagnosis, outcomes and lung microbiome analysis of invasive pulmonary aspergillosis in the community-acquired pneumonia patients.
- 02.03.2023, _Z Ao, H Xu, M Li, H Liu, M Deng, Y Liu_
-
-
-_Humans, Invasive Pulmonary Aspergillosis, Retrospective Studies, Sensitivity and Specificity, Bronchoalveolar Lavage Fluid, Aspergillosis, Lung, Pneumonia, Microbiota_
-Invasive pulmonary aspergillosis (IPA) remains underestimated in patients with community-acquired pneumonia (CAP). This study aims to describe clinical features and outcomes of IPA in CAP patients, assess diagnostic performance of metagenomic next-generation sequencing (mNGS) for IPA and analyse lung microbiome via mNGS data.
-
-[Source](https://doi.org/10.1136/bmjresp-2022-001358)
-
-10.1136/bmjresp-2022-001358
+10.1038/s41467-023-36633-7
 
 ---
 
-## Comparing the gut microbiome of obese, African American, older adults with and without mild cognitive impairment.
- 28.02.2023, _A McLeod, B Penalver Bernabe, Y Xia, J Sanchez-Flack, M Lamar, L Schiffer, K Castellanos, G Fantuzzi, P Maki, M Fitzgibbon, L Tussing-Humphreys_
+## A bacterial sulfoglycosidase highlights mucin O-glycan breakdown in the gut ecosystem.
+ 02.03.2023, _T Katoh, C Yamada, MD Wallace, A Yoshida, A Gotoh, M Arai, T Maeshibu, T Kashima, A Hagenbeek, MN Ojima, H Takada, M Sakanaka, H Shimizu, K Nishiyama, H Ashida, J Hirose, M Suarez-Diez, M Nishiyama, I Kimura, KA Stubbs, S Fushinobu, T Katayama_
 
 
-_Aged, Female, Humans, Middle Aged, Black or African American, Case-Control Studies, Cognitive Dysfunction, Dementia, Gastrointestinal Microbiome, Inflammation, Obesity, RNA, Ribosomal, 16S, Male_
-Those with mild cognitive impairment (MCI), a precursor to dementia, have a gut microbiome distinct from healthy individuals, but this has only been shown in healthy individuals, not in those exhibiting several risk factors for dementia. Using amplicon 16S rRNA gene sequencing in a case-control study of 60 older (ages 55-76), obese, predominately female, African American adults, those with MCI (cases) had different gut microbiota profiles than controls. While microbial community diversity was similar between cases and controls, the abundances of specific microbial taxa weren't, such as Parabacteroides distasonis (lower in cases) and Dialister invisus (higher in cases). These differences disappeared after adjusting for markers of oxidative stress and systemic inflammation. Cognitive scores were positively correlated with levels of Akkermansia muciniphila, a bacterium associated with reduced inflammation. Our study shows that gut microbial composition may be associated with inflammation, oxidative stress, and MCI in those at high risk for dementia.
+Mucinolytic bacteria modulate host-microbiota symbiosis and dysbiosis through their ability to degrade mucin O-glycans. However, how and to what extent bacterial enzymes are involved in the breakdown process remains poorly understood. Here we focus on a glycoside hydrolase family 20 sulfoglycosidase (BbhII) from Bifidobacterium bifidum, which releases N-acetylglucosamine-6-sulfate from sulfated mucins. Glycomic analysis showed that, in addition to sulfatases, sulfoglycosidases are involved in mucin O-glycan breakdown in vivo and that the released N-acetylglucosamine-6-sulfate potentially affects gut microbial metabolism, both of which were also supported by a metagenomic data mining analysis. Enzymatic and structural analysis of BbhII reveals the architecture underlying its specificity and the presence of a GlcNAc-6S-specific carbohydrate-binding module (CBM) 32 with a distinct sugar recognition mode that B. bifidum takes advantage of to degrade mucin O-glycans. Comparative analysis of the genomes of prominent mucinolytic bacteria also highlights a CBM-dependent O-glycan breakdown strategy used by B. bifidum.
 
-[Source](https://doi.org/10.1371/journal.pone.0280211)
+[Source](https://doi.org/10.1038/s41589-023-01272-y)
 
-10.1371/journal.pone.0280211
-
----
-
-## Extremely high unbound flucloxacillin concentrations in a patient with acute septic renal failure during continuous venovenous hemofiltration: Therapeutic drug monitoring to optimize treatment.
- 05.03.2023, _EM Appelman, EA Wammes van-der-Heijden, SD Meenks, PKC Janssen, JLML le Noble_
-
-
-A 75-year-old female orthopedic patient with spondylodiscitis was admitted to the intensive care unit, where she developed severe acute renal injury (AKI) due to a Staphylococcus aureus bloodstream infection. Continuous venovenous hemofiltration (CVVH) was initiated as renal replacement therapy. According to physician experience and based on (inter)national guidelines and the severity of the infection, treatment with intravenous (IV) flucloxacillin at an initial continuous dose of 9 g/24h was started. The dose was increased to 12 g/24h because endocarditis could not be excluded. Therapeutic drug monitoring (TDM) was used to monitor flucloxacillin levels which are related to antibiotic efficacy and toxicity. Total and unbound flucloxacillin concentrations were measured following 24 hours of continuous infusion at three time points before regional citrate anticoagulation (RCA)-CVVH was initiated, at three time points in plasma, pre-filter, and post-filter, and in ultrafiltrate samples during RCA-CVVH treatment and 1 day following cessation of CVVH treatment. Extremely high total (up to 299.8 mg/L) and unbound (up to 155.1 mg/L) flucloxacillin concentrations were found in the plasma. This led to a dose decrease to 6 g/24h and subsequently to 3 g/24h. Antimicrobial target attainment against S. aureus was achieved by dosing IV flucloxacillin based on TDM. Based on these findings, we conclude that current dosing guidelines for flucloxacillin during renal replacement therapy need revision. We suggest a starting dose of 4 g/24h, which should be adjusted based on the TDM of the unbound flucloxacillin concentration.
-
-[Source](https://doi.org/10.1128/aem.01880-22)
-
-10.5414/CP204313
+10.1038/s41589-023-01272-y
 
 ---
 
-## Capacity of a Microbial Synbiotic To Rescue the In Vitro Metabolic Activity of the Gut Microbiome following Perturbation with Alcohol or Antibiotics
-
-[Source](https://doi.org/10.1128/aem.01880-22)
-
----
-
-## A microbiota and dietary metabolite integrates DNA repair and cell death to regulate embryo viability and aneuploidy during aging.
- 28.02.2023, _R Sonowal, AI Swimm, F Cingolani, N Parulekar, TL Cleverley, A Sahoo, A Ranawade, D Chaudhuri, ES Mocarski, H Koehler, K Nitsche, S Mesiano, D Kalman_
+## Microbiota-derived genotoxin tilimycin generates colonic stem cell mutations.
+ 04.03.2023, _L Pöltl, M Kitsera, S Raffl, S Schild, A Cosic, S Kienesberger, K Unterhauser, G Raber, C Lembacher-Fadum, R Breinbauer, G Gorkiewicz, C Sebastian, G Hoefler, EL Zechner_
 
 
-_Animals, Aneuploidy, DNA Repair, Cell Death, Indoles, Microbiota_
-During aging, environmental stressors and mutations along with reduced DNA repair cause germ cell aneuploidy and genome instability, which limits fertility and embryo development. Benevolent commensal microbiota and dietary plants secrete indoles, which improve healthspan and reproductive success, suggesting regulation of germ cell quality. We show that indoles prevent aneuploidy and promote DNA repair and embryo viability, which depends on age and genotoxic stress levels and affects embryo quality across generations. In young animals or with low doses of radiation, indoles promote DNA repair and embryo viability; however, in older animals or with high doses of radiation, indoles promote death of the embryo. These studies reveal a previously unknown quality control mechanism by which indole integrates DNA repair and cell death responses to preclude germ cell aneuploidy and ensure transgenerational genome integrity. Such regulation affects healthy aging, reproductive senescence, cancer, and the evolution of genetic diversity in invertebrates and vertebrates.
+The DNA-alkylating metabolite tilimycin is a microbial genotoxin. Intestinal accumulation of tilimycin in individuals carrying til+ Klebsiella spp. causes apoptotic erosion of the epithelium and colitis. Renewal of the intestinal lining and response to injury requires the activities of stem cells located at the base of intestinal crypts. This study interrogates the consequences of tilimycin-induced DNA damage to cycling stem cells. We charted the spatial distribution and luminal quantities of til metabolites in Klebsiella-colonized mice in the context of a complex microbial community. Loss of marker gene G6pd function indicates genetic aberrations in colorectal stem cells that became stabilized in monoclonal mutant crypts. Mice colonized with tilimycin-producing Klebsiella displayed both higher frequencies of somatic mutation and more mutations per affected individual than animals carrying a non-producing mutant. Our findings imply that genotoxic til+ Klebsiella may drive somatic genetic change in the colon and increase disease susceptibility in human hosts.
 
-[Source](https://doi.org/10.1126/sciadv.ade8653)
+[Source](https://doi.org/10.1016/j.celrep.2023.112199)
 
-10.1126/sciadv.ade8653
+10.1016/j.celrep.2023.112199
 
 ---
 
-## A longitudinal survey in the wild reveals major shifts in fish host microbiota after parasite infection.
- 25.02.2023, _E Mathieu-Bégné, S Blanchet, O Rey, E Toulza, C Veyssière, S Manzi, M Lefort, O Scelsi, G Loot_
+## Impact of caloric restriction on the gut microbiota.
+ 03.03.2023, _L Kern, D Kviatcovsky, Y He, E Elinav_
 
 
-Recent studies have highlighted associations between diseases and host microbiota. It is yet extremely challenging -especially under natural conditions- to clarify whether the host microbiota promotes future infections, or whether changes in host microbiota result from infections. Nonetheless, deciphering between these two processes is essential for highlighting the role of microbes in disease progression. We longitudinally surveyed, in the wild, the microbiota of individual fish hosts (Leuciscus burdigalensis) both before and after infection by a crustacean ectoparasite (Tracheliastes polycolpus). We found a striking association between parasite infection and the host microbiota composition restricted to the fins the parasite anchored. We clearly demonstrated that infections by the parasite induced a shift in (and did not result from) the host fin microbiota. Fin microbiota further got similar to that of the adult stage, and the free-living infective stage of the parasite during infection with a predominance of the Burkholderiaceae bacteria family. This suggests that Burkholderiaceae bacteria is involved in a co-infection process and possibly facilitate T. polycolpus infection. We reveal novel mechanistic insights for understanding the role of the microbiota in host-parasite interactions, which has implications for predicting the progression of diseases in natural host populations.
+Caloric restriction (CR) and related time-restricted diets have been popularized as means of preventing metabolic disease while improving general well-being. However, evidence as to their long-term efficacy, adverse effects, and mechanisms of activity remains incompletely understood. The gut microbiota is modulated by such dietary approaches, yet causal evidence to its possible downstream impacts on host metabolism remains elusive. Herein, we discuss the positive and adverse influences of restrictive dietary interventions on gut microbiota composition and function, and their collective impacts on host health and disease risk. We highlight known mechanisms of microbiota influences on the host, such as modulation of bioactive metabolites, while discussing challenges in achieving mechanistic dietary-microbiota insights, including interindividual variability in dietary responses as well as other methodological and conceptual challenges. In all, causally understanding the impact of CR approaches on the gut microbiota may enable to better decode their overall influences on human physiology and disease.
 
-[Source](https://doi.org/10.1111/mec.16901)
+[Source](https://doi.org/10.1016/j.mib.2023.102287)
 
-10.1111/mec.16901
-
----
-
-## Matrine alleviates depressive-like behaviors via modulating microbiota-gut-brain axis in CUMS-induced mice.
- 01.03.2023, _M Zhang, A Li, Q Yang, J Li, L Zheng, G Wang, Y Sun, Y Huang, M Zhang, Z Song, L Liu_
-
-
-_Mice, Animals, Depression, Brain-Derived Neurotrophic Factor, Matrines, Brain-Gut Axis, RNA, Ribosomal, 16S, Antidepressive Agents, Cytokines, Stress, Psychological_
-The realization of the "microbiota-gut-brain" axis plays a critical role in neuropsychiatric disorders, particularly depression, is advancing rapidly. Matrine is a natural bioactive compound, which has been found to possess potential antidepressant effect. However, the underlying mechanisms of regulation of the "microbiota-gut-brain" axis in the treatment of depression by oral matrine remain elusive.
-
-[Source](https://doi.org/10.1186/s12967-023-03993-z)
-
-10.1186/s12967-023-03993-z
+10.1016/j.mib.2023.102287
 
 ---
 
-## Variations in gut microbiome and metabolites of dogs with acute diarrhea in poodles and Labrador retrievers.
- 27.02.2023, _H Bai, T Liu, S Wang, L Shen, Z Wang_
+## <em>Romboutsia lituseburensis</em> JCM1404 supplementation ameliorated endothelial function via gut microbiota modulation and lipid metabolisms alterations in obese rats
 
-
-_Dogs, Animals, Gastrointestinal Microbiome, Microbiota, Metabolomics, Metabolome, Starch, Diarrhea, Feces, RNA, Ribosomal, 16S_
-For different breeds of dogs with acute diarrhea, the gut microbiota and metabolome profiles are unclear. This prospective observational study analyzed the gut microbiomes of poodles with acute diarrhea and Labrador retrievers with acute diarrhea based on 16S amplicon sequencing, with respective healthy dogs as controls. Fecal non-target metabolomics and metagenomics were performed on poodles with acute diarrhea. This study found that the diversity and structure of the microbial community differed significantly between the two breeds in cohorts of healthy dogs. Two breeds of dogs with acute diarrhea demonstrated different changes in microbial communities and metabolic functions. The metabolism of starch and sucrose was significantly decreased in dogs with acute diarrhea, which may be attributed to the reduced activity of dextran dextrinase. Non-targeted metabolomics identified 21 abnormal metabolic pathways exhibited by dogs with acute diarrhea, including starch, amino acid, bile acid metabolism, etc., and were closely related to specific intestinal flora. This study provided new insights into breed specificity and the development of dietary treatment strategy in canine gastrointestinal disease.
-
-[Source](https://doi.org/10.1007/s00203-023-03439-6)
-
-10.1007/s00203-023-03439-6
+[Source](https://doi.org/10.1093/femsle/fnad016)
 
 ---
 
-## Enzyme adaptation to habitat thermal legacy shapes the thermal plasticity of marine microbiomes.
- 28.02.2023, _R Marasco, M Fusi, C Coscolín, A Barozzi, D Almendral, R Bargiela, CGN Nutschel, C Pfleger, J Dittrich, H Gohlke, R Matesanz, S Sanchez-Carrillo, F Mapelli, TN Chernikova, PN Golyshin, M Ferrer, D Daffonchio_
+## Disparate population and holobiont structure of pocilloporid corals across the Red Sea gradient demonstrate species-specific evolutionary trajectories.
+ 04.03.2023, _C Buitrago-López, A Cárdenas, BCC Hume, T Gosselin, F Staubach, M Aranda, DJ Barshis, Y Sawall, CR Voolstra_
 
 
-_Microbiota, Bacteria, Seawater, Temperature, Adaptation, Physiological, Esterases_
-Microbial communities respond to temperature with physiological adaptation and compositional turnover. Whether thermal selection of enzymes explains marine microbiome plasticity in response to temperature remains unresolved. By quantifying the thermal behaviour of seven functionally-independent enzyme classes (esterase, extradiol dioxygenase, phosphatase, beta-galactosidase, nuclease, transaminase, and aldo-keto reductase) in native proteomes of marine sediment microbiomes from the Irish Sea to the southern Red Sea, we record a significant effect of the mean annual temperature (MAT) on enzyme response in all cases. Activity and stability profiles of 228 esterases and 5 extradiol dioxygenases from sediment and seawater across 70 locations worldwide validate this thermal pattern. Modelling the esterase phase transition temperature as a measure of structural flexibility confirms the observed relationship with MAT. Furthermore, when considering temperature variability in sites with non-significantly different MATs, the broadest range of enzyme thermal behaviour and the highest growth plasticity of the enriched heterotrophic bacteria occur in samples with the widest annual thermal variability. These results indicate that temperature-driven enzyme selection shapes microbiome thermal plasticity and that thermal variability finely tunes such processes and should be considered alongside MAT in forecasting microbial community thermal response.
+Global habitat degradation heightens the need to better understand patterns of genetic connectivity and diversity of marine biota across geographical ranges to guide conservation efforts. Corals across the Red Sea are subject to pronounced environmental differences, but studies so far suggest that animal populations are largely connected, excepting evidence for a genetic break between the northern-central and southern regions. Here, we investigated population structure and holobiont assemblage of two common pocilloporid corals, Pocillopora verrucosa and Stylophora pistillata, across the Red Sea. We found little evidence for population differentiation in P. verrucosa, except for the southernmost site. Conversely, S. pistillata exhibited a complex population structure with evidence for within-reef and regional genetic differentiation, in line with differences in their reproductive mode (P. verrucosa is a broadcast spawner and S. pistillata is a brooder). Analysis for genomic loci under positive selection identified 85 sites (18 of which were in coding sequences) that distinguished the southern P. verrucosa population from the remainder of the Red Sea population. By comparison, we found 128 loci (24 of which were residing in coding sequences) in S. pistillata with evidence for local adaptation at various sites. Functional annotation of the underlying proteins revealed putative roles in the response to stress, lipid metabolism, transport, cytoskeletal rearrangement, and ciliary function (among others). Microbial assemblages of both coral species showed pervasive association with microalgal symbionts from the genus Symbiodinium (former clade A) and bacteria from the genus Endozoicomonas that exhibited significant differences according to host genotype and environment. The disparity of population genetic and holobiont assemblage patterns even between closely related species (family Pocilloporidae) highlights the need for multispecies investigations to better understand the role of the environment in shaping evolutionary trajectories. It further emphasizes the importance of networks of reef reserves to achieve conservation of genetic variants critical to the future survival of coral ecosystems.
 
-[Source](https://doi.org/10.1038/s41467-023-36610-0)
+[Source](https://doi.org/10.1111/mec.16871)
 
-10.1038/s41467-023-36610-0
-
----
-
-## Computational methods and challenges in analyzing intratumoral microbiome data.
- 25.02.2023, _Q Wang, Z Liu, A Ma, Z Li, B Liu, Q Ma_
-
-
-The human microbiome is intimately related to cancer biology and plays a vital role in the efficacy of cancer treatments, including immunotherapy. Extraordinary evidence has revealed that several microbes influence tumor development through interaction with the host immune system, that is, immuno-oncology-microbiome (IOM). This review focuses on the intratumoral microbiome in IOM and describes the available data and computational methods for discovering biological insights of microbial profiling from host bulk, single-cell, and spatial sequencing data. Critical challenges in data analysis and integration are discussed. Specifically, the microorganisms associated with cancer and cancer treatment in the context of IOM are collected and integrated from the literature. Lastly, we provide our perspectives for future directions in IOM research.
-
-[Source](https://doi.org/10.1016/j.tim.2023.01.011)
-
-10.1016/j.tim.2023.01.011
+10.1111/mec.16871
 
 ---
 
-## Robust Bioinformatics Approaches Result in the First Polygenic Risk Score for BMI in Greek Adults.
- 28.02.2023, _M Kafyra, IP Kalafati, M Dimitriou, E Grigoriou, A Kokkinos, L Rallidis, G Kolovou, G Trovas, E Marouli, P Deloukas, P Moulos, GV Dedoussis_
+## Omics and imaging combinatorial approach reveals butyrate-induced inflammatory effects in the zebrafish gut.
+ 05.03.2023, _A López Nadal, J Boekhorst, C Lute, F van den Berg, MA Schorn, T Bergen Eriksen, D Peggs, C McGurk, D Sipkema, M Kleerebezem, GF Wiegertjes, S Brugman_
 
 
-Quantifying the role of genetics via construction of polygenic risk scores (PRSs) is deemed a resourceful tool to enable and promote effective obesity prevention strategies. The present paper proposes a novel methodology for PRS extraction and presents the first PRS for body mass index (BMI) in a Greek population. A novel pipeline for PRS derivation was used to analyze genetic data from a unified database of three cohorts of Greek adults. The pipeline spans various steps of the process, from iterative dataset splitting to training and test partitions, calculation of summary statistics and PRS extraction, up to PRS aggregation and stabilization, achieving higher evaluation metrics. Using data from 2185 participants, implementation of the pipeline enabled consecutive repetitions in splitting training and testing samples and resulted in a 343-single nucleotide polymorphism PRS yielding an R2 = 0.3241 (beta = 1.011, p-value = 4 × 10-193) for BMI. PRS-included variants displayed a variety of associations with known traits (i.e., blood cell count, gut microbiome, lifestyle parameters). The proposed methodology led to creation of the first-ever PRS for BMI in Greek adults and aims at promoting a facilitating approach to reliable PRS development and integration in healthcare practice.
+Prebiotic feed additives aim to improve gut health by influencing the microbiota and the gut barrier. Most studies on feed additives concentrate on one or two (monodisciplinary) outcome parameters, such as immunity, growth, microbiota or intestinal architecture. A combinatorial and comprehensive approach to disclose the complex and multifaceted effects of feed additives is needed to understand their underlying mechanisms before making health benefit claims. Here, we used juvenile zebrafish as a model species to study effects of feed additives by integrating gut microbiota composition data and host gut transcriptomics with high-throughput quantitative histological analysis. Zebrafish received either control, sodium butyrate or saponin-supplemented feed. Butyrate-derived components such as butyric acid or sodium butyrate have been widely used in animal feeds due to their immunostimulant properties, thereby supporting intestinal health. Soy saponin is an antinutritional factor from soybean meal that promotes inflammation due to its amphipathic nature.
 
-[Source](https://doi.org/10.3390/jpm13020327)
+[Source](https://doi.org/10.1186/s42523-023-00230-2)
 
-10.3390/jpm13020327
-
----
-
-## Development of a tongue image-based machine learning tool for the diagnosis of gastric cancer: a prospective multicentre clinical cohort study.
- 27.02.2023, _L Yuan, L Yang, S Zhang, Z Xu, J Qin, Y Shi, P Yu, Y Wang, Z Bao, Y Xia, J Sun, W He, T Chen, X Chen, C Hu, Y Zhang, C Dong, P Zhao, Y Wang, N Jiang, B Lv, Y Xue, B Jiao, H Gao, K Chai, J Li, H Wang, X Wang, X Guan, X Liu, G Zhao, Z Zheng, J Yan, H Yu, L Chen, Z Ye, H You, Y Bao, X Cheng, P Zhao, L Wang, W Zeng, Y Tian, M Chen, Y You, G Yuan, H Ruan, X Gao, J Xu, H Xu, L Du, S Zhang, H Fu, X Cheng_
-
-
-Tongue images (the colour, size and shape of the tongue and the colour, thickness and moisture content of the tongue coating), reflecting the health state of the whole body according to the theory of traditional Chinese medicine (TCM), have been widely used in China for thousands of years. Herein, we investigated the value of tongue images and the tongue coating microbiome in the diagnosis of gastric cancer (GC).
-
-[Source](https://doi.org/10.1016/j.eclinm.2023.101834)
-
-10.1016/j.eclinm.2023.101834
+10.1186/s42523-023-00230-2
 
 ---
 
-## Latent dirichlet allocation for double clustering (LDA-DC): discovering patients phenotypes and cell populations within a single Bayesian framework.
- 27.02.2023, _EE Hachem, N Sokolovska, H Soula_
+## Gut microbiome is linked to functions of peripheral immune cells in transition cows during excessive lipolysis.
+ 03.03.2023, _F Gu, S Zhu, Y Tang, X Liu, M Jia, N Malmuthuge, TG Valencak, JW McFadden, JX Liu, HZ Sun_
 
 
-_Humans, Bayes Theorem, Cluster Analysis_
-Current clinical routines rely more and more on "omics" data such as flow cytometry data from host and microbiota. Cohorts variability in addition to patients' heterogeneity and huge dimensions make it difficult to understand underlying structure of the data and decipher pathologies. Patients stratification and diagnostics from such complex data are extremely challenging. There is an acute need to develop novel statistical machine learning methods that are robust with respect to the data heterogeneity, efficient from the computational viewpoint, and can be understood by human experts.
+Postpartum dairy cows experiencing excessive lipolysis are prone to severe immunosuppression. Despite the extensive understanding of the gut microbial regulation of host immunity and metabolism, its role during excessive lipolysis in cows is largely unknown. Herein, we investigated the potential links between the gut microbiome and postpartum immunosuppression in periparturient dairy cows with excessive lipolysis using single immune cell transcriptome, 16S amplicon sequencing, metagenomics, and targeted metabolomics.
 
-[Source](https://doi.org/10.1186/s12859-023-05177-4)
+[Source](https://doi.org/10.1186/s40168-023-01492-3)
 
-10.1186/s12859-023-05177-4
+10.1186/s40168-023-01492-3
+
+---
+
+## Maternal effects drive intestinal development beginning in the embryonic period on the basis of maternal immune and microbial transfer in chickens.
+ 03.03.2023, _H Gong, T Wang, M Wu, Q Chu, H Lan, W Lang, L Zhu, Y Song, Y Zhou, Q Wen, J Yu, B Wang, X Zheng_
+
+
+Nutrition drives immunity and health in animals, and maternal immunity benefits offspring. In our previous study, a nutritional intervention strategy was found to promote the immunity of hens, which subsequently improved immunity and growth in offspring chicks. Maternal effects clearly exist, but how are mothers' immune advantages transferred to their offspring, and how do they benefit them?
+
+[Source](https://doi.org/10.1186/s40168-023-01490-5)
+
+10.1186/s40168-023-01490-5
+
+---
+
+## Mouse mammary tumor virus is implicated in severity of colitis and dysbiosis in the IL-10-/- mouse model of inflammatory bowel disease.
+ 03.03.2023, _H Armstrong, M Rahbari, H Park, D Sharon, A Thiesen, N Hotte, N Sun, H Syed, H Abofayed, W Wang, K Madsen, E Wine, A Mason_
+
+
+Following viral infection, genetically manipulated mice lacking immunoregulatory function may develop colitis and dysbiosis in a strain-specific fashion that serves as a model for inflammatory bowel disease (IBD). We found that one such model of spontaneous colitis, the interleukin (IL)-10 knockout (IL-10-/-) model derived from the SvEv mouse, had evidence of increased Mouse mammary tumor virus (MMTV) viral RNA expression compared to the SvEv wild type. MMTV is endemic in several mouse strains as an endogenously encoded Betaretrovirus that is passaged as an exogenous agent in breast milk. As MMTV requires a viral superantigen to replicate in the gut-associated lymphoid tissue prior to the development of systemic infection, we evaluated whether MMTV may contribute to the development of colitis in the IL-10-/- model.
+
+[Source](https://doi.org/10.1186/s40168-023-01483-4)
+
+10.1186/s40168-023-01483-4
+
+---
+
+## Microplastics affect arsenic bioavailability by altering gut microbiota and metabolites in a mouse model
+
+[Source](https://doi.org/10.1016/j.envpol.2023.121376)
+
+---
+
+## Substantial viral and bacterial diversity at the bat-tick interface.
+ 03.03.2023, _AS Ortiz-Baez, TGT Jaenson, EC Holmes, JH Pettersson, P Wilhelmsson_
+
+
+Ticks harbour a high diversity of viruses, bacteria and protozoa. The soft tick Carios vespertilionis (Argasidae) is a common ectoparasite of bats in the Palearctic region and is suspected to be vector and reservoir of viruses and other microbial species in bat populations, some of which may act as zoonotic agents for human disease. The Soprano pipistrelle (Pipistrellus pygmaeus, Vespertilionidae) is widely distributed in Europe, where it can be found inside or close to human habitation. We used meta-transcriptomic sequencing to determine the RNA virome and common microbiota in blood-fed C. vespertilionis ticks collected from a Soprano pipistrelle bat roosting site in south-central Sweden. Our analyses identified 16 viruses from 11 virus families, of which 15 viruses were novel. For the first time in Sweden we identified Issuk-Kul virus, a zoonotic arthropod-borne virus previously associated with outbreaks of acute febrile illness in humans. Probable bat-associated and tick-borne viruses were classified within the families Nairoviridae, Caliciviridae and Hepeviridae, while other invertebrate-associated viruses included members of the Dicistroviridae, Iflaviridae, Nodaviridae, Partitiviridae, Permutotetraviridae, Polycipiviridae and Solemoviridae. Similarly, we found abundant bacteria in C. vespertilionis, including genera with known tick-borne bacteria, such as Coxiella spp. and Rickettsia spp. These findings demonstrate the remarkable diversity of RNA viruses and bacteria present in C. vespertilionis and highlight the importance of bat-associated ectoparasite surveillance as an effective and non-invasive means to track viruses and bacteria circulating in bats and ticks.
+
+[Source](https://doi.org/10.1099/mgen.0.000942)
+
+10.1099/mgen.0.000942
+
+---
+
+## Perturbation of maternal gut microbiota in mice during a critical perinatal window influences early neurobehavioral outcomes in offspring.
+ 04.03.2023, _C Morel, I Martinez Sanchez, Y Cherifi, N Chartrel, R Diaz Heijtz_
+
+
+The gut microbiota is increasingly recognized as a key environmental factor that shapes host development and physiology, including neural circuits formation and function. Concurrently, there has been growing concern that early-life antibiotic exposure may alter brain developmental trajectories, increasing the risk for neurodevelopmental disorders such as autism spectrum disorder (ASD). Here, we assessed whether perturbation of the maternal gut microbiota in mice during a narrow critical perinatal window (last week of pregnancy and first three postnatal days), induced by exposure to a commonly used broad-spectrum oral antibiotic (ampicillin), influences offspring neurobehavioral outcomes relevant to ASD. Our results demonstrate that neonatal offspring from antibiotic-treated dams display an altered pattern of ultrasonic communication, which was more pronounced in males. Moreover, juvenile male, but not female, offspring from antibiotic-treated dams showed reduced social motivation and social interaction, as well as context-dependent anxiety-like behavior. However, no changes were observed in locomotor or exploratory activity. This behavioral phenotype of exposed juvenile males was associated with reduced gene expression of the oxytocin receptor (OXTR) and several tight-junction proteins in the prefrontal cortex, a key region involved in the regulation of social and emotional behavior, as well as a mild inflammatory response in the colon. Further, juvenile offspring from exposed dams also showed distinct alterations in several gut bacterial species, including, Lactobacillus murinus, and Parabacteroides goldsteinii. Overall, this study highlights the importance of the maternal microbiome in early-life, and how its perturbation by a widely used antibiotic could contribute to atypical social and emotional development of offspring in a sex-dependent manner.
+
+[Source](https://doi.org/10.1016/j.neuropharm.2023.109479)
+
+10.1016/j.neuropharm.2023.109479
+
+---
+
+## Local environment drives rapid shifts in composition and phylogenetic clustering of seagrass microbiomes.
+ 04.03.2023, _MR Kardish, JJ Stachowicz_
+
+
+Plant microbiomes depend on environmental conditions, stochasticity, host species, and genotype identity. Eelgrass (Zostera marina) is a unique system for plant-microbe interactions as a marine angiosperm growing in a physiologically-challenging environment with anoxic sediment, periodic exposure to air at low tide, and fluctuations in water clarity and flow. We tested the influence of host origin versus environment on eelgrass microbiome composition by transplanting 768 plants among four sites within Bodega Harbor, CA. Over three months following transplantation, we sampled microbial communities monthly on leaves and roots and sequenced the V4-V5 region of the 16S rRNA gene to assess community composition. The main driver of leaf and root microbiome composition was destination site; more modest effects of host origin site did not last longer than one month. Community phylogenetic analyses suggested that environmental filtering structures these communities, but the strength and nature of this filtering varies among sites and over time and roots and leaves show opposing gradients in clustering along a temperature gradient. We demonstrate that local environmental differences create rapid shifts in associated microbial community composition with potential functional implications for rapid host acclimation under shifting environmental conditions.
+
+[Source](https://doi.org/10.1038/s41598-023-30194-x)
+
+10.1038/s41598-023-30194-x
+
+---
+
+## Experimental community coalescence sheds light on microbial interactions in soil and restores impaired functions.
+ 04.03.2023, _S Huet, S Romdhane, MC Breuil, D Bru, A Mounier, A Spor, L Philippot_
+
+
+Microbes typically live in communities where individuals can interact with each other in numerous ways. However, knowledge on the importance of these interactions is limited and derives mainly from studies using a limited number of species grown in coculture. Here, we manipulated soil microbial communities to assess the contribution of interactions between microorganisms for assembly of the soil microbiome.
+
+[Source](https://doi.org/10.1186/s40168-023-01480-7)
+
+10.1186/s40168-023-01480-7
+
+---
+
+## Infants’ gut microbiome data: A Bayesian Marginal Zero-inflated Negative Binomial regression model for multivariate analyses of count data
+
+[Source](https://doi.org/10.1016/j.csbj.2023.02.027)
+
+---
+
+## From defaults to databases: parameter and database choice dramatically impact the performance of metagenomic taxonomic classification tools.
+ 03.03.2023, _RJ Wright, AM Comeau, MGI Langille_
+
+
+In metagenomic analyses of microbiomes, one of the first steps is usually the taxonomic classification of reads by comparison to a database of previously taxonomically classified genomes. While different studies comparing metagenomic taxonomic classification methods have determined that different tools are 'best', there are two tools that have been used the most to-date: Kraken (k-mer-based classification against a user-constructed database) and MetaPhlAn (classification by alignment to clade-specific marker genes), the latest versions of which are Kraken2 and MetaPhlAn 3, respectively. We found large discrepancies in both the proportion of reads that were classified as well as the number of species that were identified when we used both Kraken2 and MetaPhlAn 3 to classify reads within metagenomes from human-associated or environmental datasets. We then investigated which of these tools would give classifications closest to the real composition of metagenomic samples using a range of simulated and mock samples and examined the combined impact of tool-parameter-database choice on the taxonomic classifications given. This revealed that there may not be a one-size-fits-all 'best' choice. While Kraken2 can achieve better overall performance, with higher precision, recall and F1 scores, as well as alpha- and beta-diversity measures closer to the known composition than MetaPhlAn 3, the computational resources required for this may be prohibitive for many researchers, and the default database and parameters should not be used. We therefore conclude that the best tool-parameter-database choice for a particular application depends on the scientific question of interest, which performance metric is most important for this question and the limit of available computational resources.
+
+[Source](https://doi.org/10.1099/mgen.0.000949)
+
+10.1099/mgen.0.000949
+
+---
+
+## Using strain-resolved analysis to identify contamination in metagenomics data.
+ 04.03.2023, _YC Lou, J Hoff, MR Olm, J West-Roberts, S Diamond, BA Firek, MJ Morowitz, JF Banfield_
+
+
+Metagenomics analyses can be negatively impacted by DNA contamination. While external sources of contamination such as DNA extraction kits have been widely reported and investigated, contamination originating within the study itself remains underreported.
+
+[Source](https://doi.org/10.1186/s40168-023-01477-2)
+
+10.1186/s40168-023-01477-2
+
+---
+
+## Transkingdom Network Analysis (TkNA): a systems approach inferring causal factors underlying host-microbiota interactions.
+ 03.03.2023, _NK Newman, M Macovsky, RR Rodrigues, AM Bruce, JW Pederson, SS Patil, J Padiadpu, AK Dzutsev, N Shulzhenko, G Trinchieri, K Brown, A Morgun_
+
+
+Technological advances have generated tremendous amounts of high-throughput omics data. Integrating data from multiple cohorts and/or several omics types from new and previously published studies can offer a holistic view of a biological system and decipher its critical players and key mechanisms. In this protocol we describe how to use TkNA, a unique causal-inference analytical framework that can perform meta-analysis of cohorts and detect master regulators (causal factors) among measured parameters (e.g., microbes or microbial genes, host genes, metabolites) that govern pathological or physiological responses of host-microbiota interactions in a particular condition or disease. The first step reconstructs the network that represents a statistical model capturing the complex relationships between the different omics of the biological system. Here, it selects differential features and their per-group correlations by identifying robust and reproducible patterns of fold change direction and sign of correlation across several cohorts. Next, using a causality-reflecting metric (correlation inequalities), statistical thresholds (per cohort p-values, combined Fisher's p-value, and BH FDR), and a set of topological criteria (e.g., network sparsity, ratio of negative to positive correlations, and strengths of correlations) it selects the final edges that form the Transkingdom Network. The second part of the analysis involves interrogating the network. Using the network's local (degree) and global (Bipartite Betweenness Centrality (BiBC)) topology metrics it detects nodes that are responsible for control of given subnetwork or control of communication between kingdoms and/or subnetworks. The underlying basis of TkNA approach involves fundamental principles including laws of causality, graph theory and information theory. Hence, TkNA can be used for causal inference via network analysis of any host and/or microbiota multi-omics data. This protocol takes approximately few hours to days to run, depending on size of available data and computational resources. It is targeted towards researchers that might not have access to high-performance computing and requires very basic familiarity with the Unix command-line environment.
+
+[Source](https://doi.org/10.1101/2023.02.22.529449)
+
+10.1101/2023.02.22.529449
 
 ---
 
