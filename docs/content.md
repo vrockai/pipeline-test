@@ -157,7 +157,7 @@ The gut microbiota is increasingly recognized as a key environmental factor that
 ---
 
 ## Local environment drives rapid shifts in composition and phylogenetic clustering of seagrass microbiomes.
- 06.03.2023, _MR Kardish, JJ Stachowicz_
+ 07.03.2023, _MR Kardish, JJ Stachowicz_
 
 
 Plant microbiomes depend on environmental conditions, stochasticity, host species, and genotype identity. Eelgrass (Zostera marina) is a unique system for plant-microbe interactions as a marine angiosperm growing in a physiologically-challenging environment with anoxic sediment, periodic exposure to air at low tide, and fluctuations in water clarity and flow. We tested the influence of host origin versus environment on eelgrass microbiome composition by transplanting 768 plants among four sites within Bodega Harbor, CA. Over three months following transplantation, we sampled microbial communities monthly on leaves and roots and sequenced the V4-V5 region of the 16S rRNA gene to assess community composition. The main driver of leaf and root microbiome composition was destination site; more modest effects of host origin site did not last longer than one month. Community phylogenetic analyses suggested that environmental filtering structures these communities, but the strength and nature of this filtering varies among sites and over time and roots and leaves show opposing gradients in clustering along a temperature gradient. We demonstrate that local environmental differences create rapid shifts in associated microbial community composition with potential functional implications for rapid host acclimation under shifting environmental conditions.
