@@ -60,9 +60,10 @@ Previous studies have linked gut microbiota with cancer etiology, but the associ
 ---
 
 ## The role of the sex hormone-gut microbiome axis in tumor immunotherapy.
- 07.03.2023, _L Wang, L Tang, D Zhai, M Song, W Li, S Xu, S Jiang, H Meng, J Liang, Y Wang, B Zhang_
+ 08.03.2023, _L Wang, L Tang, D Zhai, M Song, W Li, S Xu, S Jiang, H Meng, J Liang, Y Wang, B Zhang_
 
 
+_Humans, Gastrointestinal Microbiome, Immunotherapy, Gonadal Steroid Hormones, Immune Checkpoint Inhibitors, Neoplasms_
 Accumulating evidence suggested that both gut microbiome and sex play a critical role in the efficacy of immune checkpoint blockade therapy. Considering the reciprocal relationship between sex hormones and gut microbiome, the sex hormone-gut microbiome axis may participate in the regulation of the response to immune checkpoint inhibitors (ICIs). In this review, it was attempted to summarize the current knowledge about the influences of both sex and gut microbiome on the antitumor efficacy of ICIs and describe the interaction between sex hormones and gut microbiome. Accordingly, this review discussed the potential of enhancing the antitumor efficacy of ICIs through regulating the levels of sex hormones through manipulation of gut microbiome. Collectively, this review provided reliable evidence concerning the role of the sex hormone-gut microbiome axis in tumor immunotherapy.
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2023.2185035)
@@ -144,9 +145,10 @@ A common task in analyzing metatranscriptomics data is to identify microbial met
 ---
 
 ## coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies.
- 06.03.2023, _ML Calle, M Pujolassos, A Susin_
+ 08.03.2023, _ML Calle, M Pujolassos, A Susin_
 
 
+_Infant, Humans, Cross-Sectional Studies, Algorithms, Data Analysis, Longitudinal Studies, Microbiota_
 One of the main challenges of microbiome analysis is its compositional nature that if ignored can lead to spurious results. Addressing the compositional structure of microbiome data is particularly critical in longitudinal studies where abundances measured at different times can correspond to different sub-compositions.
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05205-3)
