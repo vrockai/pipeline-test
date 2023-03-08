@@ -1,7 +1,8 @@
 ## Assessment of microbiota in the gut and upper respiratory tract associated with SARS-CoV-2 infection.
- 06.03.2023, _J Li, Q Jing, J Li, M Hua, L Di, C Song, Y Huang, J Wang, C Chen, AR Wu_
+ 07.03.2023, _J Li, Q Jing, J Li, M Hua, L Di, C Song, Y Huang, J Wang, C Chen, AR Wu_
 
 
+_Humans, COVID-19, SARS-CoV-2, Microbiota, Gastrointestinal Microbiome, Nose_
 The human microbiome plays an important role in modulating the host metabolism and immune system. Connections and interactions have been found between the microbiome of the gut and oral pharynx in the context of SARS-CoV-2 and other viral infections; hence, to broaden our understanding of host-viral responses in general and to deepen our knowledge of COVID-19, we performed a large-scale, systematic evaluation of the effect of SARS-CoV-2 infection on human microbiota in patients with varying disease severity.
 
 [Source](https://doi.org/10.1186/s40168-022-01447-0)
@@ -90,9 +91,10 @@ Prebiotic feed additives aim to improve gut health by influencing the microbiota
 ---
 
 ## Gut microbiome is linked to functions of peripheral immune cells in transition cows during excessive lipolysis.
- 06.03.2023, _F Gu, S Zhu, Y Tang, X Liu, M Jia, N Malmuthuge, TG Valencak, JW McFadden, JX Liu, HZ Sun_
+ 07.03.2023, _F Gu, S Zhu, Y Tang, X Liu, M Jia, N Malmuthuge, TG Valencak, JW McFadden, JX Liu, HZ Sun_
 
 
+_Female, Animals, Cattle, Gastrointestinal Microbiome, Lipolysis, Bacteroides, Down-Regulation, Metabolome_
 Postpartum dairy cows experiencing excessive lipolysis are prone to severe immunosuppression. Despite the extensive understanding of the gut microbial regulation of host immunity and metabolism, its role during excessive lipolysis in cows is largely unknown. Herein, we investigated the potential links between the gut microbiome and postpartum immunosuppression in periparturient dairy cows with excessive lipolysis using single immune cell transcriptome, 16S amplicon sequencing, metagenomics, and targeted metabolomics.
 
 [Source](https://doi.org/10.1186/s40168-023-01492-3)
@@ -102,9 +104,10 @@ Postpartum dairy cows experiencing excessive lipolysis are prone to severe immun
 ---
 
 ## Maternal effects drive intestinal development beginning in the embryonic period on the basis of maternal immune and microbial transfer in chickens.
- 06.03.2023, _H Gong, T Wang, M Wu, Q Chu, H Lan, W Lang, L Zhu, Y Song, Y Zhou, Q Wen, J Yu, B Wang, X Zheng_
+ 07.03.2023, _H Gong, T Wang, M Wu, Q Chu, H Lan, W Lang, L Zhu, Y Song, Y Zhou, Q Wen, J Yu, B Wang, X Zheng_
 
 
+_Animals, Female, Humans, Chickens, Maternal Inheritance, Child Development, Gastrointestinal Microbiome, Gene Expression Profiling_
 Nutrition drives immunity and health in animals, and maternal immunity benefits offspring. In our previous study, a nutritional intervention strategy was found to promote the immunity of hens, which subsequently improved immunity and growth in offspring chicks. Maternal effects clearly exist, but how are mothers' immune advantages transferred to their offspring, and how do they benefit them?
 
 [Source](https://doi.org/10.1186/s40168-023-01490-5)
@@ -114,9 +117,10 @@ Nutrition drives immunity and health in animals, and maternal immunity benefits 
 ---
 
 ## Mouse mammary tumor virus is implicated in severity of colitis and dysbiosis in the IL-10-/- mouse model of inflammatory bowel disease.
- 06.03.2023, _H Armstrong, M Rahbari, H Park, D Sharon, A Thiesen, N Hotte, N Sun, H Syed, H Abofayed, W Wang, K Madsen, E Wine, A Mason_
+ 07.03.2023, _H Armstrong, M Rahbari, H Park, D Sharon, A Thiesen, N Hotte, N Sun, H Syed, H Abofayed, W Wang, K Madsen, E Wine, A Mason_
 
 
+_Animals, Mice, Mice, Inbred C3H, Mammary Tumor Virus, Mouse, Interleukin-10, Dysbiosis, Colitis, Inflammatory Bowel Diseases, Disease Models, Animal_
 Following viral infection, genetically manipulated mice lacking immunoregulatory function may develop colitis and dysbiosis in a strain-specific fashion that serves as a model for inflammatory bowel disease (IBD). We found that one such model of spontaneous colitis, the interleukin (IL)-10 knockout (IL-10-/-) model derived from the SvEv mouse, had evidence of increased Mouse mammary tumor virus (MMTV) viral RNA expression compared to the SvEv wild type. MMTV is endemic in several mouse strains as an endogenously encoded Betaretrovirus that is passaged as an exogenous agent in breast milk. As MMTV requires a viral superantigen to replicate in the gut-associated lymphoid tissue prior to the development of systemic infection, we evaluated whether MMTV may contribute to the development of colitis in the IL-10-/- model.
 
 [Source](https://doi.org/10.1186/s40168-023-01483-4)
@@ -160,6 +164,7 @@ The gut microbiota is increasingly recognized as a key environmental factor that
  07.03.2023, _MR Kardish, JJ Stachowicz_
 
 
+_Phylogeny, RNA, Ribosomal, 16S, Acclimatization, Cluster Analysis, Microbiota_
 Plant microbiomes depend on environmental conditions, stochasticity, host species, and genotype identity. Eelgrass (Zostera marina) is a unique system for plant-microbe interactions as a marine angiosperm growing in a physiologically-challenging environment with anoxic sediment, periodic exposure to air at low tide, and fluctuations in water clarity and flow. We tested the influence of host origin versus environment on eelgrass microbiome composition by transplanting 768 plants among four sites within Bodega Harbor, CA. Over three months following transplantation, we sampled microbial communities monthly on leaves and roots and sequenced the V4-V5 region of the 16S rRNA gene to assess community composition. The main driver of leaf and root microbiome composition was destination site; more modest effects of host origin site did not last longer than one month. Community phylogenetic analyses suggested that environmental filtering structures these communities, but the strength and nature of this filtering varies among sites and over time and roots and leaves show opposing gradients in clustering along a temperature gradient. We demonstrate that local environmental differences create rapid shifts in associated microbial community composition with potential functional implications for rapid host acclimation under shifting environmental conditions.
 
 [Source](https://doi.org/10.1038/s41598-023-30194-x)
@@ -169,9 +174,10 @@ Plant microbiomes depend on environmental conditions, stochasticity, host specie
 ---
 
 ## Experimental community coalescence sheds light on microbial interactions in soil and restores impaired functions.
- 06.03.2023, _S Huet, S Romdhane, MC Breuil, D Bru, A Mounier, A Spor, L Philippot_
+ 07.03.2023, _S Huet, S Romdhane, MC Breuil, D Bru, A Mounier, A Spor, L Philippot_
 
 
+_Humans, Microbial Interactions, Betaproteobacteria, Coculture Techniques, Microbiota, Soil_
 Microbes typically live in communities where individuals can interact with each other in numerous ways. However, knowledge on the importance of these interactions is limited and derives mainly from studies using a limited number of species grown in coculture. Here, we manipulated soil microbial communities to assess the contribution of interactions between microorganisms for assembly of the soil microbiome.
 
 [Source](https://doi.org/10.1186/s40168-023-01480-7)
@@ -187,9 +193,10 @@ Microbes typically live in communities where individuals can interact with each 
 ---
 
 ## From defaults to databases: parameter and database choice dramatically impact the performance of metagenomic taxonomic classification tools.
- 06.03.2023, _RJ Wright, AM Comeau, MGI Langille_
+ 07.03.2023, _RJ Wright, AM Comeau, MGI Langille_
 
 
+_Humans, Metagenome, Microbiota, Databases, Factual, Metagenomics_
 In metagenomic analyses of microbiomes, one of the first steps is usually the taxonomic classification of reads by comparison to a database of previously taxonomically classified genomes. While different studies comparing metagenomic taxonomic classification methods have determined that different tools are 'best', there are two tools that have been used the most to-date: Kraken (k-mer-based classification against a user-constructed database) and MetaPhlAn (classification by alignment to clade-specific marker genes), the latest versions of which are Kraken2 and MetaPhlAn 3, respectively. We found large discrepancies in both the proportion of reads that were classified as well as the number of species that were identified when we used both Kraken2 and MetaPhlAn 3 to classify reads within metagenomes from human-associated or environmental datasets. We then investigated which of these tools would give classifications closest to the real composition of metagenomic samples using a range of simulated and mock samples and examined the combined impact of tool-parameter-database choice on the taxonomic classifications given. This revealed that there may not be a one-size-fits-all 'best' choice. While Kraken2 can achieve better overall performance, with higher precision, recall and F1 scores, as well as alpha- and beta-diversity measures closer to the known composition than MetaPhlAn 3, the computational resources required for this may be prohibitive for many researchers, and the default database and parameters should not be used. We therefore conclude that the best tool-parameter-database choice for a particular application depends on the scientific question of interest, which performance metric is most important for this question and the limit of available computational resources.
 
 [Source](https://doi.org/10.1099/mgen.0.000949)
