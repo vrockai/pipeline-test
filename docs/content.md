@@ -59,28 +59,15 @@ Previous studies have linked gut microbiota with cancer etiology, but the associ
 
 ---
 
-## The role of the sex hormone-gut microbiome axis in tumor immunotherapy.
- 08.03.2023, _L Wang, L Tang, D Zhai, M Song, W Li, S Xu, S Jiang, H Meng, J Liang, Y Wang, B Zhang_
-
-
-_Humans, Gastrointestinal Microbiome, Immunotherapy, Gonadal Steroid Hormones, Immune Checkpoint Inhibitors, Neoplasms_
-Accumulating evidence suggested that both gut microbiome and sex play a critical role in the efficacy of immune checkpoint blockade therapy. Considering the reciprocal relationship between sex hormones and gut microbiome, the sex hormone-gut microbiome axis may participate in the regulation of the response to immune checkpoint inhibitors (ICIs). In this review, it was attempted to summarize the current knowledge about the influences of both sex and gut microbiome on the antitumor efficacy of ICIs and describe the interaction between sex hormones and gut microbiome. Accordingly, this review discussed the potential of enhancing the antitumor efficacy of ICIs through regulating the levels of sex hormones through manipulation of gut microbiome. Collectively, this review provided reliable evidence concerning the role of the sex hormone-gut microbiome axis in tumor immunotherapy.
+## The role of the sex hormone-gut microbiome axis in tumor immunotherapy
 
 [Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2023.2185035)
 
-10.1080/19490976.2023.2185035
-
 ---
 
-## The Influence of the Microbiome on Aggressive Behavior: an Insight into Age Related Aggression.
- 07.03.2023, _L Gulledge, D Oyebode, JR Donaldson_
-
-
-Aggression is a complex psychological program that is influenced by genetics, environment, and psychological history. Research has shown that the hormonal levels in the body and the development of the brain can be major predictors of aggression. This review highlights recent studies that have connected the gut microbiome to alterations in hormones and brain development and how this can impact aggression. This paper also provides a systematic review on studies that directly assess the connection between the gut microbiome and aggression and reviews these connections in relation to age. We conclude with future directions that are needed to further determine the link between the microbiome and aggression among adolescents.
+## The Influence of the Microbiome on Aggressive Behavior: an Insight into Age Related Aggression
 
 [Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnac114/7070714)
-
-10.1093/femsle/fnac114
 
 ---
 
@@ -90,39 +77,21 @@ Aggression is a complex psychological program that is influenced by genetics, en
 
 ---
 
-## The coral microbiome: Towards an understanding of the molecular mechanisms of coral-microbiota interactions.
- 07.03.2023, _AR Mohamed, MA Ochsenkühn, A Kazlak, A Moustafa, SA Amin_
-
-
-Corals live in a complex, multi-partite symbiosis with diverse microbes across kingdoms, some of which are implicated in vital functions, such as those related to resilience against climate change. However, knowledge gaps and technical challenges limit our understanding of the nature and functional significance of complex symbiotic relationships within corals. Here, we provide an overview of the complexity of the coral microbiome focusing on taxonomic diversity and functions of well-studied and cryptic microbes. Mining the coral literature indicate that while corals collectively harbor a third of all marine bacterial phyla, known bacterial symbionts and antagonists of corals represent a minute fraction of this diversity and that these taxa cluster into select genera, suggesting selective evolutionary mechanisms enabled these bacteria to gain a niche within the holobiont. Recent advances in coral microbiome research aimed at leveraging microbiome manipulation to increase coral's fitness to help mitigate heat stress-related mortality are discussed. Then, insights into the potential mechanisms through which microbiota can communicate with and modify host responses are examined by describing known recognition patterns, potential microbially-derived coral epigenome effector proteins and coral gene regulation. Finally, the power of omics tools used to study corals are highlighted with emphasis on an integrated host-microbiota multiomics framework to understand the underlying mechanisms during symbiosis and climate change-driven dysbiosis.
+## The coral microbiome: Towards an understanding of the molecular mechanisms of coral-microbiota interactions
 
 [Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuad005/7071893)
 
-10.1093/femsre/fuad005
-
 ---
 
-## Comparison of the gut microbiome and resistome in captive African and Asian elephants on the same diet.
- 07.03.2023, _X Feng, R Hua, W Zhang, Y Liu, C Luo, T Li, X Chen, H Zhu, Y Wang, Y Lu_
-
-
-Elephants are endangered species and threatened with extinction. They are monogastric herbivorous, hindgut fermenters and their digestive strategy requires them to consume large amounts of low quality forage. The gut microbiome is important to their metabolism, immune regulation, and ecological adaptation. Our study investigated the structure and function of the gut microbiota as well as the antibiotic resistance genes (ARGs) in captive African and Asian elephants on the same diet. Results showed that captive African and Asian elephants had distinct gut bacterial composition. MetaStats analysis showed that the relative abundance of Spirochaetes (FDR = 0.00) and Verrucomicrobia (FDR = 0.01) at the phylum level as well as Spirochaetaceae (FDR = 0.01) and Akkermansiaceae (FDR = 0.02) at the family level varied between captive African and Asian elephants. Among the top ten functional subcategories at level 2 (57 seed pathway) of Kyoto Encyclopedia of Genes and Genomes (KEGG) database, the relative gene abundance of cellular community-prokaryotes, membrane transport, and carbohydrate metabolism in African elephants were significantly lower than those in Asian elephants (0.98 vs. 1.03%, FDR = 0.04; 1.25 vs. 1.43%, FDR = 0.03; 3.39 vs. 3.63%; FDR = 0.02). Among the top ten functional subcategories at level 2 (CAZy family) of CAZy database, MetaStats analysis showed that African elephants had higher relative gene abundance of Glycoside Hydrolases family 28 (GH 28) compared to Asian elephants (0.10 vs. 0.08%, FDR = 0.03). Regarding the antibiotic resistance genes carried by gut microbes, MetaStats analysis showed that African elephants had significantly higher relative abundance of vanO (FDR = 0.00), tetQ (FDR = 0.04), and efrA (FDR = 0.04) than Asian elephants encoding resistance for glycopeptide, tetracycline, and macrolide/rifamycin/fluoroquinolone antibiotic, respectively. In conclusion, captive African and Asian elephants on the same diet have distinct gut microbial communities. Our findings established the ground work for future research on improving gut health of captive elephants.
+## Comparison of the gut microbiome and resistome in captive African and Asian elephants on the same diet
 
 [Source](https://www.frontiersin.org/articles/10.3389/fvets.2023.986382/full)
 
-10.3389/fvets.2023.986382
-
 ---
 
-## Core and conditionally rare taxa as indicators of agricultural drainage ditch and stream health and function.
- 07.03.2023, _Y Shi, IUH Khan, D Radford, G Guo, M Sunohara, E Craiovan, DR Lapen, P Pham, W Chen_
-
-
-The freshwater microbiome regulates aquatic ecological functionality, nutrient cycling, pathogenicity, and has the capacity to dissipate and regulate pollutants. Agricultural drainage ditches are ubiquitous in regions where field drainage is necessary for crop productivity, and as such, are first-line receptors of agricultural drainage and runoff. How bacterial communities in these systems respond to environmental and anthropogenic stressors are not well understood. In this study, we carried out a three year study in an agriculturally dominated river basin in eastern Ontario, Canada to explore the spatial and temporal dynamics of the core and conditionally rare taxa (CRT) of the instream bacterial communities using a 16S rRNA gene amplicon sequencing approach. Water samples were collected from nine stream and drainage ditch sites that represented the influence of a range of upstream land uses.
+## Core and conditionally rare taxa as indicators of agricultural drainage ditch and stream health and function
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-02755-7)
-
-10.1186/s12866-023-02755-7
 
 ---
 
@@ -132,28 +101,15 @@ The freshwater microbiome regulates aquatic ecological functionality, nutrient c
 
 ---
 
-## Controlling taxa abundance improves metatranscriptomics differential analysis.
- 07.03.2023, _Z Ji, L Ma_
-
-
-A common task in analyzing metatranscriptomics data is to identify microbial metabolic pathways with differential RNA abundances across multiple sample groups. With information from paired metagenomics data, some differential methods control for either DNA or taxa abundances to address their strong correlation with RNA abundance. However, it remains unknown if both factors need to be controlled for simultaneously.
+## Controlling taxa abundance improves metatranscriptomics differential analysis
 
 [Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-02799-9)
 
-10.1186/s12866-023-02799-9
-
 ---
 
-## coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies.
- 08.03.2023, _ML Calle, M Pujolassos, A Susin_
-
-
-_Infant, Humans, Cross-Sectional Studies, Algorithms, Data Analysis, Longitudinal Studies, Microbiota_
-One of the main challenges of microbiome analysis is its compositional nature that if ignored can lead to spurious results. Addressing the compositional structure of microbiome data is particularly critical in longitudinal studies where abundances measured at different times can correspond to different sub-compositions.
+## coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies
 
 [Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05205-3)
-
-10.1186/s12859-023-05205-3
 
 ---
 
@@ -163,16 +119,9 @@ One of the main challenges of microbiome analysis is its compositional nature th
 
 ---
 
-## Assembling the perfect bacterial genome using Oxford Nanopore and Illumina sequencing.
- 06.03.2023, _RR Wick, LM Judd, KE Holt_
-
-
-_Animals, Nanopores, High-Throughput Nucleotide Sequencing, Genome, Bacterial, Oryzias, Technology_
-A perfect bacterial genome assembly is one where the assembled sequence is an exact match for the organism's genome-each replicon sequence is complete and contains no errors. While this has been difficult to achieve in the past, improvements in long-read sequencing, assemblers, and polishers have brought perfect assemblies within reach. Here, we describe our recommended approach for assembling a bacterial genome to perfection using a combination of Oxford Nanopore Technologies long reads and Illumina short reads: Trycycler long-read assembly, Medaka long-read polishing, Polypolish short-read polishing, followed by other short-read polishing tools and manual curation. We also discuss potential pitfalls one might encounter when assembling challenging genomes, and we provide an online tutorial with sample data (github.com/rrwick/perfect-bacterial-genome-tutorial).
+## Assembling the perfect bacterial genome using Oxford Nanopore and Illumina sequencing
 
 [Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010905)
-
-10.1371/journal.pcbi.1010905
 
 ---
 
