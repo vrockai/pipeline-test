@@ -1,127 +1,120 @@
-## The gut virome of healthy children during the first year of life is diverse and dynamic.
- 14.09.2021, _B Taboada, P Morán, A Serrano-Vázquez, P Iša, L Rojas-Velázquez, H Pérez-Juárez, S López, J Torres, C Ximenez, CF Arias_
+## #MVIF
 
-
-_Bacteriophages, DNA Viruses, Feces, Gastrointestinal Diseases, Gastrointestinal Tract, Humans, Infant, Infant, Newborn, Mexico, Virome_
-In this work, we determined the diversity and dynamics of the gut virome of infants during the first year of life. Fecal samples were collected monthly, from birth to one year of age, from three healthy children living in a semi-rural village in Mexico. Most of the viral reads were classified into six families of bacteriophages including five dsDNA virus families of the order Caudovirales, with Siphoviridae and Podoviridae being the most abundant. Eukaryotic viruses were detected as early as two weeks after birth and remained present all along the first year of life. Thirty-four different eukaryotic virus families were found, where eight of these families accounted for 98% of all eukaryotic viral reads: Anelloviridae, Astroviridae, Caliciviridae, Genomoviridae, Parvoviridae, Picornaviridae, Reoviridae and the plant-infecting viruses of the Virgaviridae family. Some viruses in these families are known human pathogens, and it is surprising that they were found during the first year of life in infants without gastrointestinal symptoms. The eukaryotic virus species richness found in this work was higher than that observed in previous studies; on average between 7 and 24 virus species were identified per sample. The richness and abundance of the eukaryotic virome significantly increased during the second semester of life, probably because of an increased environmental exposure of infants with age. Our findings suggest an early and permanent contact of infants with a diverse array of bacteriophages and eukaryotic viruses, whose composition changes over time. The bacteriophages and eukaryotic viruses found in these children could represent a metastable virome, whose potential influence on the development of the infant's immune system or on the health of the infants later in life, remains to be investigated.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.05.531203v1.abstract)
-
-10.1371/journal.pone.0240958
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## The influence of early life exposures on the infant gut virome
+## https://t.co/iucZYORFEx
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.05.531203v1.abstract)
-
----
-
-## Nurturing the Early Life Gut Microbiome and Immune Maturation for Long Term Health.
- 30.11.2021, _SK Dogra, C Kwong Chung, D Wang, O Sakwinska, S Colombo Mottaz, N Sprenger_
-
-
-Early life is characterized by developmental milestones such as holding up the head, turning over, sitting up and walking that are typically achieved sequentially in specific time windows. Similarly, the early gut microbiome maturation can be characterized by specific temporal microorganism acquisition, colonization and selection with differential functional features over time. This orchestrated microbial sequence occurs from birth during the first years of age before the microbiome reaches an adult-like composition and function between 3 and 5 years of age. Increasingly, these different steps of microbiome development are recognized as crucial windows of opportunity for long term health, primarily linked to appropriate immune and metabolic development. For instance, microbiome disruptors such as preterm and Cesarean-section birth, malnutrition and antibiotic use are associated with increased risk to negatively affect long-term immune and metabolic health. Different age discriminant microbiome taxa and functionalities are used to describe age-appropriate microbiome development, and advanced modelling techniques enable an understanding and visualization of an optimal microbiome maturation trajectory. Specific microbiome features can be related to later health conditions, however, whether such features have a causal relationship is the topic of intense research. Early life nutrition is an important microbiome modulator, and 'Mother Nature' provides the model with breast milk as the sole source of nutrition for the early postnatal period, while dietary choices during the prenatal and weaning period are to a large extent guided by tradition and culture. Increasing evidence suggests prenatal maternal diet and infant and child nutrition impact the infant microbiome trajectory and immune competence development. The lack of a universal feeding reference for such phases represents a knowledge gap, but also a great opportunity to provide adequate nutritional guidance to maintain an age-appropriate microbiome for long term health. Here, we provide a narrative review and perspective on our current understanding of age-appropriate microbiome maturation, its relation to long term health and how nutrition shapes and influences this relationship.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.06.531289v1.abstract)
-
-10.3390/microorganisms9102110
+[Source](https://t.co/iucZYORFEx)
 
 ---
 
-## Maternal diet and gut microbiome composition modulate early life immune responses
+## March 7, 2023
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.06.531289v1.abstract)
-
----
-
-## Smoking-induced subgingival dysbiosis precedes clinical signs of periodontal disease.
- 07.03.2023, _R Tamashiro, L Strange, K Schnackenberg, J Santos, H Gadalla, L Zhao, EC Li, E Hill, B Hill, GS Sidhu, M Kirst, C Walker, GP Wang_
-
-
-Smoking accelerates periodontal disease and alters the subgingival microbiome. However, the relationship between smoking-associated subgingival dysbiosis and progression of periodontal disease is not well understood. Here, we sampled 233 subgingival sites longitudinally from 8 smokers and 9 non-smokers over 6-12 months, analyzing 804 subgingival plaque samples using 16 rRNA sequencing. At equal probing depths, the microbial richness and diversity of the subgingival microbiome was higher in smokers compared to non-smokers, but these differences decreased as probing depths increased. The overall subgingival microbiome of smokers differed significantly from non-smokers at equal probing depths, which was characterized by colonization of novel minority microbes and a shift in abundant members of the microbiome to resemble periodontally diseased communities enriched with pathogenic bacteria. Temporal analysis showed that microbiome in shallow sites were less stable than deeper sites, but temporal stability of the microbiome was not significantly affected by smoking status or scaling and root planing. We identified 7 taxa-Olsenella sp., Streptococcus cristatus, Streptococcus pneumoniae, Streptococcus parasanguinis, Prevotella sp., Alloprevotella sp., and a Bacteroidales sp. that were significantly associated with progression of periodontal disease. Taken together, these results suggest that subgingival dysbiosis in smokers precedes clinical signs of periodontal disease, and support the hypothesis that smoking accelerates subgingival dysbiosis to facilitate periodontal disease progression.
-
-[Source](https://www.nature.com/articles/s41598-023-30203-z)
-
-10.1038/s41598-023-30203-z
+[Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
 
 ---
 
-## Gut microbiota and risk of five common cancers: A univariable and multivariable Mendelian randomization study.
- 07.03.2023, _Z Wei, B Yang, T Tang, Z Xiao, F Ye, X Li, S Wu, JG Huang, S Jiang_
+## Latent antibiotic resistance genes are abundant, diverse, and mobile in human, animal, and environmental microbiomes
 
-
-Previous studies have linked gut microbiota with cancer etiology, but the associations for specific gut microbiota are causal or owing to bias remain to be elucidated.
-
-[Source](https://onlinelibrary.wiley.com/doi/10.1002/cam4.5772)
-
-10.1002/cam4.5772
+[Source](https://link.springer.com/article/10.1186/s40168-023-01479-0)
 
 ---
 
-## The role of the sex hormone-gut microbiome axis in tumor immunotherapy
+## The skin microbiome in the first year of life and its association with atopic dermatitis
 
-[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2023.2185035)
-
----
-
-## The Influence of the Microbiome on Aggressive Behavior: an Insight into Age Related Aggression
-
-[Source](https://academic.oup.com/femsle/advance-article/doi/10.1093/femsle/fnac114/7070714)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/all.15671)
 
 ---
 
-## Gnotobiotic mice housing conditions critically influence the phenotype associated with transfer of faecal microbiota in a context of obesity
+## Microbiome in urological diseases: Axis crosstalk and bladder disorders
 
-[Source](https://gut.bmj.com/content/early/2022/09/01/gutjnl-2021-326475)
-
----
-
-## The coral microbiome: Towards an understanding of the molecular mechanisms of coral-microbiota interactions
-
-[Source](https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuad005/7071893)
+[Source](https://icurology.org/DOIx.php?id=10.4111/icu.20220357)
 
 ---
 
-## Comparison of the gut microbiome and resistome in captive African and Asian elephants on the same diet
+## Human microbiome variance is underestimated
 
-[Source](https://www.frontiersin.org/articles/10.3389/fvets.2023.986382/full)
-
----
-
-## Core and conditionally rare taxa as indicators of agricultural drainage ditch and stream health and function
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-02755-7)
+[Source](https://www.sciencedirect.com/science/article/pii/S1369527423000255)
 
 ---
 
-## Species invasions shift microbial phenology in a two-decade freshwater time series
+## Population-level impacts of antibiotic usage on the human gut microbiome
 
-[Source](https://www.pnas.org/eprint/4YR8GPQQIH4PKZTAXRE6/full)
-
----
-
-## Controlling taxa abundance improves metatranscriptomics differential analysis
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-02799-9)
+[Source](https://www.nature.com/articles/s41467-023-36633-7)
 
 ---
 
-## coda4microbiome: compositional data analysis for microbiome cross-sectional and longitudinal studies
+## Microbial community-scale metabolic modeling predicts personalized short-chain-fatty-acid production profiles in the human gut
 
-[Source](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05205-3)
-
----
-
-## You can move, but you can’t hide: identification of mobile genetic elements with geNomad
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.05.531206v1)
+[Source](https://www.biorxiv.org/content/10.1101/2023.02.28.530516v1)
 
 ---
 
-## Assembling the perfect bacterial genome using Oxford Nanopore and Illumina sequencing
+## @BioBohmann
 
-[Source](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010905)
+[Source](https://twitter.com/BioBohmann?ref_src=twsrc%5Etfw)
+
+---
+
+## @isbsci
+
+[Source](https://twitter.com/isbsci?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/o2QpEftV1g
+
+[Source](https://t.co/o2QpEftV1g)
+
+---
+
+## March 2, 2023
+
+[Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
+
+---
+
+## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/10409238.2023.2182272)
+
+---
+
+## Guts Imbalance Imbalances the Brain: A Review of Gut Microbiota Association With Neurological and Psychiatric Disorders
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmed.2022.813204/full)
+
+---
+
+## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic 
+
+[Source](https://pubs.acs.org/doi/10.1021/acs.est.2c07333)
+
+---
+
+## @theRAD_lab
+
+[Source](https://twitter.com/theRAD_lab?ref_src=twsrc%5Etfw)
+
+---
+
+## #TheLastofUs
+
+[Source](https://twitter.com/hashtag/TheLastofUs?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/ksqQSIyPE8
+
+[Source](https://t.co/ksqQSIyPE8)
+
+---
+
+## March 6, 2023
+
+[Source](https://twitter.com/unibirmingham/status/1632756647016669185?ref_src=twsrc%5Etfw)
 
 ---
 
