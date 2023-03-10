@@ -23,6 +23,18 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Association of Primary Care Visit Length With Potentially Inappropriate Prescribing.
+ 10.03.2023, _HT Neprash, JF Mulcahy, DA Cross, JE Gaugler, E Golberstein, I Ganguli_
+
+
+Time is a valuable resource in primary care, and physicians and patients consistently raise concerns about inadequate time during visits. However, there is little evidence on whether shorter visits translate into lower-quality care.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
+
+10.1001/jamahealthforum.2023.0052
+
+---
+
 ## March 7, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
@@ -30,7 +42,7 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 ---
 
 ## Latent antibiotic resistance genes are abundant, diverse, and mobile in human, animal, and environmental microbiomes.
- 09.03.2023, _JS Inda-Díaz, D Lund, M Parras-Moltó, A Johnning, J Bengtsson-Palme, E Kristiansson_
+ 10.03.2023, _JS Inda-Díaz, D Lund, M Parras-Moltó, A Johnning, J Bengtsson-Palme, E Kristiansson_
 
 
 _Animals, Humans, Drug Resistance, Microbial, Microbiota, Metagenome, Anti-Bacterial Agents, Databases, Factual_
@@ -55,7 +67,7 @@ Early-life microbial colonization of the skin may modulate the immune system and
 ---
 
 ## Microbiome in urological diseases: Axis crosstalk and bladder disorders.
- 09.03.2023, _HW Choi, KW Lee, YH Kim_
+ 10.03.2023, _HW Choi, KW Lee, YH Kim_
 
 
 _Female, Humans, Urinary Bladder, Urinary Bladder Diseases, Urologic Diseases, Kidney, Microbiota_
@@ -116,33 +128,15 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## Incidence and Mortality of Children Receiving Home Mechanical Ventilation.
- 10.03.2023, _R Amin, R Verma, YQ Bai, E Cohen, A Guttmann, AS Gershon, SL Katz, A Lim, L Rose_
-
-
-The incidence, as well as the predictors of mortality, for children receiving home mechanical ventilation (HMV) using population-based data in Canada is a current knowledge gap. Our objectives were to describe HMV incidence and mortality rates, and associations of demographic and clinical variables on mortality.
-
-[Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
-
-10.1542/peds.2022-059898
-
----
-
 ## March 2, 2023
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
 
 ---
 
-## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics.
- 03.03.2023, _AA Arzamasov, AL Osterman_
-
-
-Bifidobacteria are early colonizers of the human neonatal gut and provide multiple health benefits to the infant, including inhibiting the growth of enteropathogens and modulating the immune system. Certain Bifidobacterium species prevail in the gut of breastfed infants due to the ability of these microorganisms to selectively forage glycans present in human milk, specifically human milk oligosaccharides (HMOs) and N-linked glycans. Therefore, these carbohydrates serve as promising prebiotic dietary supplements to stimulate the growth of bifidobacteria in the guts of children suffering from impaired gut microbiota development. However, the rational formulation of milk glycan-based prebiotics requires a detailed understanding of how bifidobacteria metabolize these carbohydrates. Accumulating biochemical and genomic data suggest that HMO and N-glycan assimilation abilities vary remarkably within the Bifidobacterium genus, both at the species and strain levels. This review focuses on the delineation and genome-based comparative analysis of differences in respective biochemical pathways, transport systems, and associated transcriptional regulatory networks, providing a foundation for genomics-based projection of milk glycan utilization capabilities across a rapidly growing number of sequenced bifidobacterial genomes and metagenomic datasets. This analysis also highlights remaining knowledge gaps and suggests directions for future studies to optimize the formulation of milk-glycan-based prebiotics that target bifidobacteria.
+## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics
 
 [Source](https://www.tandfonline.com/doi/abs/10.1080/10409238.2023.2182272)
-
-10.1080/10409238.2023.2182272
 
 ---
 
@@ -152,16 +146,9 @@ Bifidobacteria are early colonizers of the human neonatal gut and provide multip
 
 ---
 
-## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic.
- 01.03.2023, _S Vosloo, L Huo, U Chauhan, I Cotto, B Gincley, KJ Vilardi, B Yoon, K Bian, M Gabrielli, KJ Pieper, A Stubbins, AJ Pinto_
-
-
-_Humans, Sanitary Engineering, Drinking Water, Water Supply, RNA, Ribosomal, 16S, Pandemics, COVID-19, Water Quality, Microbiota, Water Microbiology_
-COVID-19 pandemic-related building restrictions heightened drinking water microbiological safety concerns post-reopening due to the unprecedented nature of commercial building closures. Starting with phased reopening (i.e., June 2020), we sampled drinking water for 6 months from three commercial buildings with reduced water usage and four occupied residential households. Samples were analyzed using flow cytometry and full-length 16S rRNA gene sequencing along with comprehensive water chemistry characterization. Prolonged building closures resulted in 10-fold higher microbial cell counts in the commercial buildings [(2.95 ± 3.67) × 105 cells mL-1] than in residential households [(1.11 ± 0.58) × 104 cells mL-1] with majority intact cells. While flushing reduced cell counts and increased disinfection residuals, microbial communities in commercial buildings remained distinct from those in residential households on the basis of flow cytometric fingerprinting [Bray-Curtis dissimilarity (dBC) = 0.33 ± 0.07] and 16S rRNA gene sequencing (dBC = 0.72 ± 0.20). An increase in water demand post-reopening resulted in gradual convergence in microbial communities in water samples collected from commercial buildings and residential households. Overall, we find that the gradual recovery of water demand played a key role in the recovery of building plumbing-associated microbial communities as compared to short-term flushing after extended periods of reduced water demand.
+## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic 
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.est.2c07333)
-
-10.1021/acs.est.2c07333
 
 ---
 
