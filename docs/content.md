@@ -23,18 +23,6 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Patient experiences of methadone treatment changes during the first wave of COVID-19: a national community-driven survey.
- 09.03.2023, _S Brothers, A Palayew, C Simon, A Coulter, K Strichartz, N Voyles, L Vincent_
-
-
-During COVID-19, the Substance Abuse and Mental Health Services Administration (SAMHSA) allowed Methadone Maintenance Treatment (MMT) programs to relax in-person MMT requirements to reduce COVID-19 exposure. This study examines patient-reported changes to in-person methadone clinic attendance requirements during COVID-19.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
-
-10.1186/s12954-023-00756-3
-
----
-
 ## March 7, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
@@ -128,6 +116,18 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
+## Incidence and Mortality of Children Receiving Home Mechanical Ventilation.
+ 10.03.2023, _R Amin, R Verma, YQ Bai, E Cohen, A Guttmann, AS Gershon, SL Katz, A Lim, L Rose_
+
+
+The incidence, as well as the predictors of mortality, for children receiving home mechanical ventilation (HMV) using population-based data in Canada is a current knowledge gap. Our objectives were to describe HMV incidence and mortality rates, and associations of demographic and clinical variables on mortality.
+
+[Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
+
+10.1542/peds.2022-059898
+
+---
+
 ## March 2, 2023
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
@@ -180,18 +180,6 @@ COVID-19 pandemic-related building restrictions heightened drinking water microb
 ## https://t.co/ksqQSIyPE8
 
 [Source](https://t.co/ksqQSIyPE8)
-
----
-
-## Socio-cultural influences on children's feeding habits and feeding frequencies in Ouagadougou, Burkina Faso: a retrospective survey.
- 09.03.2023, _S Bougma, F Tapsoba, JN Semporé, S Bougma, P Dounia, LT Songré-Ouattara, A Savadogo_
-
-
-From 6 months of age, children need, in addition to breast milk, a complementary food whose nutritional composition meets their needs. However, low consumption of child-specific foods in favor of adult foods has been documented. Thus, the lack of adaptation of children to family feeding conditions has been the source of frequent malnutrition in some low-income countries. In Burkina Faso, little data is available on family-type food consumption by children. The objective was to describe the socio-cultural influences on feeding habits and food consumption frequencies of infants aged 6-23 months in Ouagadougou.
-
-[Source](https://twitter.com/unibirmingham/status/1632756647016669185?ref_src=twsrc%5Etfw)
-
-10.1186/s40795-023-00698-w
 
 ---
 
