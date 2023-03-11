@@ -128,6 +128,18 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
+## A comparison of bilateral and unilateral cerebral perfusion for total arch replacement surgery for non-marfan, type A aortic dissection.
+ 10.03.2023, _Q Jiang, K Huang, D Wang, J Xia, T Yu, S Hu_
+
+
+Acknowledging lacking of consensus exist in total aortic arch (TAA) surgery for acute type A aortic dissection (AAD), this study aimed to investigate the neurologic injury rate between bilateral and unilateral cerebrum perfusion on the specific population.
+
+[Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
+
+10.1177/02676591231161919
+
+---
+
 ## March 2, 2023
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
