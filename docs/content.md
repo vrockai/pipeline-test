@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## A high-throughput newborn screening approach for SCID, SMA, and SCD combining multiplex qPCR and tandem mass spectrometry.
- 10.03.2023, _R Tesorero, J Janda, F Hörster, P Feyh, U Mütze, J Hauke, K Schwarz, JB Kunz, GF Hoffmann, JG Okun_
+## Effect of Immuno-Nutrition on Malnutrition, Inflammatory Response and Clinical Course of Semi-Critically Ill COVID-19 Patients: A Pilot Perspective Study.
+ 11.03.2023, _M Scarcella, E Scarpellini, S Piergallini, E Rinninella, K Routhiaux, C Rasetti, L Abenavoli, E De Robertis, P Manzi, R Commissari, R Monti, M Zanetti_
 
 
-Early diagnosis of severe combined immunodeficiency (SCID), spinal muscular atrophy (SMA), and sickle cell disease (SCD) improves health outcomes by providing a specific treatment before the onset of symptoms. A high-throughput nucleic acid-based method in newborn screening (NBS) has been shown to be fast and cost-effective in the early detection of these diseases. Screening for SCD has been included in Germany's NBS Program since Fall 2021 and typically requires high-throughput NBS laboratories to adopt analytical platforms that are demanding in terms of instrumentation and personnel. Thus, we developed a combined approach applying a multiplexed quantitative real-time PCR (qPCR) assay for simultaneous SCID, SMA, and 1st-tier SCD screening, followed by a tandem mass spectrometry (MS/MS) assay for 2nd-tier SCD screening. DNA is extracted from a 3.2-mm dried blood spot from which we simultaneously quantify T-cell receptor excision circles for SCID screening, identify the homozygous SMN1 exon 7 deletion for SMA screening, and determine the integrity of the DNA extraction through the quantification of a housekeeping gene. In our two-tier SCD screening strategy, our multiplex qPCR identifies samples carrying the HBB: c.20A&gt;T allele that is coding for sickle cell hemoglobin (HbS). Subsequently, the 2nd tier MS/MS assay is used to distinguish heterozygous HbS/A carriers from samples of patients with homozygous or compound heterozygous SCD. Between July 2021 and March 2022, 96,015 samples were screened by applying the newly implemented assay. The screening revealed two positive SCID cases, while 14 newborns with SMA were detected. Concurrently, the qPCR assay registered HbS in 431 samples which were submitted to 2nd-tier SCD screening, resulting in 17 HbS/S, five HbS/C, and two HbS/β thalassemia patients. The results of our quadruplex qPCR assay demonstrate a cost-effective and fast approach for a combined screening of three diseases that benefit from nucleic-acid based methods in high-throughput NBS laboratories.
+The SARS-COV 2 pandemic has hit on our lives since early 2020. During different contagion waves, both malnutrition and overweight significantly correlated with patient mortality. Immune-nutrition (IN) has shown promising results in the clinical course of pediatric inflammatory bowel disease (IBD) and in both the rate of extubation and mortality of patients admitted to an intensive care unit (ICU). Thus, we wanted to assess the effects of IN on a clinical course of patients admitted to a semi-intensive COVID-19 Unit during the fourth wave of contagion that occurred at the end of 2021.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
 
-10.1371/journal.pone.0283024
+10.3390/nu15051250
 
 ---
 
@@ -128,15 +128,15 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## A comparison of bilateral and unilateral cerebral perfusion for total arch replacement surgery for non-marfan, type A aortic dissection.
- 10.03.2023, _Q Jiang, K Huang, D Wang, J Xia, T Yu, S Hu_
+## Emotional Valence from Facial Expression as an Experience Audit Tool: An Empirical Study in the Context of Opera Performance.
+ 11.03.2023, _S Ceccacci, A Generosi, L Giraldi, M Mengoni_
 
 
-Acknowledging lacking of consensus exist in total aortic arch (TAA) surgery for acute type A aortic dissection (AAD), this study aimed to investigate the neurologic injury rate between bilateral and unilateral cerebrum perfusion on the specific population.
+This paper aims to explore the potential offered by emotion recognition systems to provide a feasible response to the growing need for audience understanding and development in the field of arts organizations. Through an empirical study, it was investigated whether the emotional valence measured on the audience through an emotion recognition system based on facial expression analysis can be used with an experience audit to: (1) support the understanding of the emotional responses of customers toward any clue that characterizes a staged performance; and (2) systematically investigate the customer's overall experience in terms of their overall satisfaction. The study was carried out in the context of opera live shows in the open-air neoclassical theater Arena Sferisterio in Macerata, during 11 opera performances. A total of 132 spectators were involved. Both the emotional valence provided by the considered emotion recognition system and the quantitative data related to customers' satisfaction, collected through a survey, were considered. Results suggest how collected data can be useful for the artistic director to estimate the audience's overall level of satisfaction and make choices about the specific characteristics of the performance, and that emotional valence measured on the audience during the show can be useful to predict overall customer satisfaction, as measured using traditional self-report methods.
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
 
-10.1177/02676591231161919
+10.3390/s23052688
 
 ---
 
@@ -192,6 +192,18 @@ COVID-19 pandemic-related building restrictions heightened drinking water microb
 ## https://t.co/ksqQSIyPE8
 
 [Source](https://t.co/ksqQSIyPE8)
+
+---
+
+## Effect of Immuno-Nutrition on Malnutrition, Inflammatory Response and Clinical Course of Semi-Critically Ill COVID-19 Patients: A Pilot Perspective Study.
+ 11.03.2023, _M Scarcella, E Scarpellini, S Piergallini, E Rinninella, K Routhiaux, C Rasetti, L Abenavoli, E De Robertis, P Manzi, R Commissari, R Monti, M Zanetti_
+
+
+The SARS-COV 2 pandemic has hit on our lives since early 2020. During different contagion waves, both malnutrition and overweight significantly correlated with patient mortality. Immune-nutrition (IN) has shown promising results in the clinical course of pediatric inflammatory bowel disease (IBD) and in both the rate of extubation and mortality of patients admitted to an intensive care unit (ICU). Thus, we wanted to assess the effects of IN on a clinical course of patients admitted to a semi-intensive COVID-19 Unit during the fourth wave of contagion that occurred at the end of 2021.
+
+[Source](https://twitter.com/unibirmingham/status/1632756647016669185?ref_src=twsrc%5Etfw)
+
+10.3390/nu15051250
 
 ---
 
