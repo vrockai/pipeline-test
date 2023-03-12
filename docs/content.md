@@ -67,7 +67,7 @@ Early-life microbial colonization of the skin may modulate the immune system and
 ---
 
 ## Microbiome in urological diseases: Axis crosstalk and bladder disorders.
- 10.03.2023, _HW Choi, KW Lee, YH Kim_
+ 11.03.2023, _HW Choi, KW Lee, YH Kim_
 
 
 _Female, Humans, Urinary Bladder, Urinary Bladder Diseases, Urologic Diseases, Kidney, Microbiota_
@@ -128,15 +128,15 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## Emotional Valence from Facial Expression as an Experience Audit Tool: An Empirical Study in the Context of Opera Performance.
- 11.03.2023, _S Ceccacci, A Generosi, L Giraldi, M Mengoni_
+## COVID-19 is associated with increased care needs and a decreased likelihood of returning home following a hip fracture: The IMPACT frailty study.
+ 11.03.2023, _AJ Hall, ND Clement, RS Kay, RS Penfold, AMJ MacLullich, TO White, AD Duckworth_
 
 
-This paper aims to explore the potential offered by emotion recognition systems to provide a feasible response to the growing need for audience understanding and development in the field of arts organizations. Through an empirical study, it was investigated whether the emotional valence measured on the audience through an emotion recognition system based on facial expression analysis can be used with an experience audit to: (1) support the understanding of the emotional responses of customers toward any clue that characterizes a staged performance; and (2) systematically investigate the customer's overall experience in terms of their overall satisfaction. The study was carried out in the context of opera live shows in the open-air neoclassical theater Arena Sferisterio in Macerata, during 11 opera performances. A total of 132 spectators were involved. Both the emotional valence provided by the considered emotion recognition system and the quantitative data related to customers' satisfaction, collected through a survey, were considered. Results suggest how collected data can be useful for the artistic director to estimate the audience's overall level of satisfaction and make choices about the specific characteristics of the performance, and that emotional valence measured on the audience during the show can be useful to predict overall customer satisfaction, as measured using traditional self-report methods.
+The primary aim was to evaluate the impact of COVID-19 on frailty in patients surviving a hip fracture. Secondary aims were to assess impact of COVID-19 on (i) length of stay (LoS) and post-discharge care needs, (ii) readmissions, and (iii) likelihood of returning to own home.
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
 
-10.3390/s23052688
+10.1002/msc.1753
 
 ---
 
@@ -192,18 +192,6 @@ COVID-19 pandemic-related building restrictions heightened drinking water microb
 ## https://t.co/ksqQSIyPE8
 
 [Source](https://t.co/ksqQSIyPE8)
-
----
-
-## Effect of Immuno-Nutrition on Malnutrition, Inflammatory Response and Clinical Course of Semi-Critically Ill COVID-19 Patients: A Pilot Perspective Study.
- 11.03.2023, _M Scarcella, E Scarpellini, S Piergallini, E Rinninella, K Routhiaux, C Rasetti, L Abenavoli, E De Robertis, P Manzi, R Commissari, R Monti, M Zanetti_
-
-
-The SARS-COV 2 pandemic has hit on our lives since early 2020. During different contagion waves, both malnutrition and overweight significantly correlated with patient mortality. Immune-nutrition (IN) has shown promising results in the clinical course of pediatric inflammatory bowel disease (IBD) and in both the rate of extubation and mortality of patients admitted to an intensive care unit (ICU). Thus, we wanted to assess the effects of IN on a clinical course of patients admitted to a semi-intensive COVID-19 Unit during the fourth wave of contagion that occurred at the end of 2021.
-
-[Source](https://twitter.com/unibirmingham/status/1632756647016669185?ref_src=twsrc%5Etfw)
-
-10.3390/nu15051250
 
 ---
 
