@@ -134,9 +134,15 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics
+## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics.
+ 03.03.2023, _AA Arzamasov, AL Osterman_
+
+
+Bifidobacteria are early colonizers of the human neonatal gut and provide multiple health benefits to the infant, including inhibiting the growth of enteropathogens and modulating the immune system. Certain Bifidobacterium species prevail in the gut of breastfed infants due to the ability of these microorganisms to selectively forage glycans present in human milk, specifically human milk oligosaccharides (HMOs) and N-linked glycans. Therefore, these carbohydrates serve as promising prebiotic dietary supplements to stimulate the growth of bifidobacteria in the guts of children suffering from impaired gut microbiota development. However, the rational formulation of milk glycan-based prebiotics requires a detailed understanding of how bifidobacteria metabolize these carbohydrates. Accumulating biochemical and genomic data suggest that HMO and N-glycan assimilation abilities vary remarkably within the Bifidobacterium genus, both at the species and strain levels. This review focuses on the delineation and genome-based comparative analysis of differences in respective biochemical pathways, transport systems, and associated transcriptional regulatory networks, providing a foundation for genomics-based projection of milk glycan utilization capabilities across a rapidly growing number of sequenced bifidobacterial genomes and metagenomic datasets. This analysis also highlights remaining knowledge gaps and suggests directions for future studies to optimize the formulation of milk-glycan-based prebiotics that target bifidobacteria.
 
 [Source](https://www.tandfonline.com/doi/abs/10.1080/10409238.2023.2182272)
+
+10.1080/10409238.2023.2182272
 
 ---
 
@@ -146,9 +152,16 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic 
+## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic.
+ 01.03.2023, _S Vosloo, L Huo, U Chauhan, I Cotto, B Gincley, KJ Vilardi, B Yoon, K Bian, M Gabrielli, KJ Pieper, A Stubbins, AJ Pinto_
+
+
+_Humans, Sanitary Engineering, Drinking Water, Water Supply, RNA, Ribosomal, 16S, Pandemics, COVID-19, Water Quality, Microbiota, Water Microbiology_
+COVID-19 pandemic-related building restrictions heightened drinking water microbiological safety concerns post-reopening due to the unprecedented nature of commercial building closures. Starting with phased reopening (i.e., June 2020), we sampled drinking water for 6 months from three commercial buildings with reduced water usage and four occupied residential households. Samples were analyzed using flow cytometry and full-length 16S rRNA gene sequencing along with comprehensive water chemistry characterization. Prolonged building closures resulted in 10-fold higher microbial cell counts in the commercial buildings [(2.95 ± 3.67) × 105 cells mL-1] than in residential households [(1.11 ± 0.58) × 104 cells mL-1] with majority intact cells. While flushing reduced cell counts and increased disinfection residuals, microbial communities in commercial buildings remained distinct from those in residential households on the basis of flow cytometric fingerprinting [Bray-Curtis dissimilarity (dBC) = 0.33 ± 0.07] and 16S rRNA gene sequencing (dBC = 0.72 ± 0.20). An increase in water demand post-reopening resulted in gradual convergence in microbial communities in water samples collected from commercial buildings and residential households. Overall, we find that the gradual recovery of water demand played a key role in the recovery of building plumbing-associated microbial communities as compared to short-term flushing after extended periods of reduced water demand.
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.est.2c07333)
+
+10.1021/acs.est.2c07333
 
 ---
 
