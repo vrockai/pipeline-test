@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Effect of Immuno-Nutrition on Malnutrition, Inflammatory Response and Clinical Course of Semi-Critically Ill COVID-19 Patients: A Pilot Perspective Study.
- 11.03.2023, _M Scarcella, E Scarpellini, S Piergallini, E Rinninella, K Routhiaux, C Rasetti, L Abenavoli, E De Robertis, P Manzi, R Commissari, R Monti, M Zanetti_
+## Acute malnutrition recovery rates improve with COVID-19 adapted nutrition treatment protocols in South Sudan: a mixed methods study.
+ 11.03.2023, _E Lyles, S Banks, M Ramaswamy, S Ismail, E Leidman, S Doocy_
 
 
-The SARS-COV 2 pandemic has hit on our lives since early 2020. During different contagion waves, both malnutrition and overweight significantly correlated with patient mortality. Immune-nutrition (IN) has shown promising results in the clinical course of pediatric inflammatory bowel disease (IBD) and in both the rate of extubation and mortality of patients admitted to an intensive care unit (ICU). Thus, we wanted to assess the effects of IN on a clinical course of patients admitted to a semi-intensive COVID-19 Unit during the fourth wave of contagion that occurred at the end of 2021.
+Globally, emergency nutrition program adaptations were implemented as part of COVID-19 mitigation strategies, but the implications of the adoption of all protocol changes at scale in the context of deteriorating food security are not yet well characterized. With ongoing conflict, widespread floods, and declining food security, the secondary impacts of COVID-19 on child survival in South Sudan is of great concern. In light of this, the present study aimed to characterize the impact of COVID-19 on nutrition programming in South Sudan.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
 
-10.3390/nu15051250
+10.1186/s40795-023-00696-y
 
 ---
 
@@ -92,7 +92,7 @@ Most of the variance in the human microbiome remains unexplained. Although an ex
 ---
 
 ## Population-level impacts of antibiotic usage on the human gut microbiome.
- 06.03.2023, _K Lee, S Raguideau, K Sirén, F Asnicar, F Cumbo, F Hildebrand, N Segata, CJ Cha, C Quince_
+ 11.03.2023, _K Lee, S Raguideau, K Sirén, F Asnicar, F Cumbo, F Hildebrand, N Segata, CJ Cha, C Quince_
 
 
 _Humans, Gastrointestinal Microbiome, Anti-Bacterial Agents, Microbiota, Metagenome, Genome, Human_
@@ -128,33 +128,15 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## COVID-19 is associated with increased care needs and a decreased likelihood of returning home following a hip fracture: The IMPACT frailty study.
- 11.03.2023, _AJ Hall, ND Clement, RS Kay, RS Penfold, AMJ MacLullich, TO White, AD Duckworth_
-
-
-The primary aim was to evaluate the impact of COVID-19 on frailty in patients surviving a hip fracture. Secondary aims were to assess impact of COVID-19 on (i) length of stay (LoS) and post-discharge care needs, (ii) readmissions, and (iii) likelihood of returning to own home.
-
-[Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
-
-10.1002/msc.1753
-
----
-
 ## March 2, 2023
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
 
 ---
 
-## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics.
- 03.03.2023, _AA Arzamasov, AL Osterman_
-
-
-Bifidobacteria are early colonizers of the human neonatal gut and provide multiple health benefits to the infant, including inhibiting the growth of enteropathogens and modulating the immune system. Certain Bifidobacterium species prevail in the gut of breastfed infants due to the ability of these microorganisms to selectively forage glycans present in human milk, specifically human milk oligosaccharides (HMOs) and N-linked glycans. Therefore, these carbohydrates serve as promising prebiotic dietary supplements to stimulate the growth of bifidobacteria in the guts of children suffering from impaired gut microbiota development. However, the rational formulation of milk glycan-based prebiotics requires a detailed understanding of how bifidobacteria metabolize these carbohydrates. Accumulating biochemical and genomic data suggest that HMO and N-glycan assimilation abilities vary remarkably within the Bifidobacterium genus, both at the species and strain levels. This review focuses on the delineation and genome-based comparative analysis of differences in respective biochemical pathways, transport systems, and associated transcriptional regulatory networks, providing a foundation for genomics-based projection of milk glycan utilization capabilities across a rapidly growing number of sequenced bifidobacterial genomes and metagenomic datasets. This analysis also highlights remaining knowledge gaps and suggests directions for future studies to optimize the formulation of milk-glycan-based prebiotics that target bifidobacteria.
+## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics
 
 [Source](https://www.tandfonline.com/doi/abs/10.1080/10409238.2023.2182272)
-
-10.1080/10409238.2023.2182272
 
 ---
 
@@ -164,16 +146,9 @@ Bifidobacteria are early colonizers of the human neonatal gut and provide multip
 
 ---
 
-## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic.
- 01.03.2023, _S Vosloo, L Huo, U Chauhan, I Cotto, B Gincley, KJ Vilardi, B Yoon, K Bian, M Gabrielli, KJ Pieper, A Stubbins, AJ Pinto_
-
-
-_Humans, Sanitary Engineering, Drinking Water, Water Supply, RNA, Ribosomal, 16S, Pandemics, COVID-19, Water Quality, Microbiota, Water Microbiology_
-COVID-19 pandemic-related building restrictions heightened drinking water microbiological safety concerns post-reopening due to the unprecedented nature of commercial building closures. Starting with phased reopening (i.e., June 2020), we sampled drinking water for 6 months from three commercial buildings with reduced water usage and four occupied residential households. Samples were analyzed using flow cytometry and full-length 16S rRNA gene sequencing along with comprehensive water chemistry characterization. Prolonged building closures resulted in 10-fold higher microbial cell counts in the commercial buildings [(2.95 ± 3.67) × 105 cells mL-1] than in residential households [(1.11 ± 0.58) × 104 cells mL-1] with majority intact cells. While flushing reduced cell counts and increased disinfection residuals, microbial communities in commercial buildings remained distinct from those in residential households on the basis of flow cytometric fingerprinting [Bray-Curtis dissimilarity (dBC) = 0.33 ± 0.07] and 16S rRNA gene sequencing (dBC = 0.72 ± 0.20). An increase in water demand post-reopening resulted in gradual convergence in microbial communities in water samples collected from commercial buildings and residential households. Overall, we find that the gradual recovery of water demand played a key role in the recovery of building plumbing-associated microbial communities as compared to short-term flushing after extended periods of reduced water demand.
+## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic 
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.est.2c07333)
-
-10.1021/acs.est.2c07333
 
 ---
 
