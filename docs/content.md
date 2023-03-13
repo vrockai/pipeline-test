@@ -23,15 +23,15 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Acute malnutrition recovery rates improve with COVID-19 adapted nutrition treatment protocols in South Sudan: a mixed methods study.
- 11.03.2023, _E Lyles, S Banks, M Ramaswamy, S Ismail, E Leidman, S Doocy_
+## Diagnostic Pathways to Wild-Type Transthyretin Amyloid Cardiomyopathy: a Multicenter Network Study.
+ 12.03.2023, _G Tini, P Milani, M Zampieri, AG Caponetti, F Fabris, A Foli, A Argirò, C Mazzoni, C Gagliardi, S Longhi, G Saturi, G Vergaro, A Aimo, D Russo, GG Varrà, M Serenelli, G Fabbri, L De Michieli, G Palmiero, G Ciliberti, S Carigi, E Sessarego, GE Mandoli, G Ricci Lucchi, V Rella, E Monti, E Gardini, M Bartolotti, L Crotti, E Merli, R Mussinelli, PF Vianello, M Cameli, F Marzo, F Guerra, G Limongelli, A Cipriani, S Perlini, L Obici, F Perfetto, C Autore, I Porto, C Rapezzi, G Sinagra, M Merlo, B Musumeci, M Emdin, E Biagini, F Cappelli, G Palladini, M Canepa_
 
 
-Globally, emergency nutrition program adaptations were implemented as part of COVID-19 mitigation strategies, but the implications of the adoption of all protocol changes at scale in the context of deteriorating food security are not yet well characterized. With ongoing conflict, widespread floods, and declining food security, the secondary impacts of COVID-19 on child survival in South Sudan is of great concern. In light of this, the present study aimed to characterize the impact of COVID-19 on nutrition programming in South Sudan.
+Epidemiology of wild-type transthyretin cardiac amyloidosis (ATTRwt-CA) remains poorly defined. A better characterization of pathways leading to ATTRwt-CA diagnosis is of key importance, and potentially informative of disease course and prognosis.
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1633069289493110784?ref_src=twsrc%5Etfw)
 
-10.1186/s40795-023-00696-y
+10.1002/ejhf.2823
 
 ---
 
@@ -128,15 +128,33 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
+## The mediating effect of health literacy on COVID-19 vaccine confidence among a diverse sample of urban adults in Boston and Chicago.
+ 12.03.2023, _EE Hurstak, MK Paasche-Orlow, EA Hahn, LE Henault, MA Taddeo, PI Moreno, C Weaver, M Marquez, E Serrano, J Thomas, JW Griffith_
+
+
+A high rate of COVID-19 vaccination is critical to reduce morbidity and mortality related to infection and to control the COVID-19 pandemic. Understanding the factors that influence vaccine confidence can inform policies and programs aimed at vaccine promotion. We examined the impact of health literacy on COVID-19 vaccine confidence among a diverse sample of adults living in two major metropolitan areas.
+
+[Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
+
+10.1016/j.vaccine.2023.02.059
+
+---
+
 ## March 2, 2023
 
 [Source](https://twitter.com/gibbological/status/1631343928430702592?ref_src=twsrc%5Etfw)
 
 ---
 
-## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics
+## Milk glycan metabolism by intestinal bifidobacteria: insights from comparative genomics.
+ 03.03.2023, _AA Arzamasov, AL Osterman_
+
+
+Bifidobacteria are early colonizers of the human neonatal gut and provide multiple health benefits to the infant, including inhibiting the growth of enteropathogens and modulating the immune system. Certain Bifidobacterium species prevail in the gut of breastfed infants due to the ability of these microorganisms to selectively forage glycans present in human milk, specifically human milk oligosaccharides (HMOs) and N-linked glycans. Therefore, these carbohydrates serve as promising prebiotic dietary supplements to stimulate the growth of bifidobacteria in the guts of children suffering from impaired gut microbiota development. However, the rational formulation of milk glycan-based prebiotics requires a detailed understanding of how bifidobacteria metabolize these carbohydrates. Accumulating biochemical and genomic data suggest that HMO and N-glycan assimilation abilities vary remarkably within the Bifidobacterium genus, both at the species and strain levels. This review focuses on the delineation and genome-based comparative analysis of differences in respective biochemical pathways, transport systems, and associated transcriptional regulatory networks, providing a foundation for genomics-based projection of milk glycan utilization capabilities across a rapidly growing number of sequenced bifidobacterial genomes and metagenomic datasets. This analysis also highlights remaining knowledge gaps and suggests directions for future studies to optimize the formulation of milk-glycan-based prebiotics that target bifidobacteria.
 
 [Source](https://www.tandfonline.com/doi/abs/10.1080/10409238.2023.2182272)
+
+10.1080/10409238.2023.2182272
 
 ---
 
@@ -146,9 +164,16 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 
 ---
 
-## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic 
+## Gradual Recovery of Building Plumbing-Associated Microbial Communities after Extended Periods of Altered Water Demand during the COVID-19 Pandemic.
+ 01.03.2023, _S Vosloo, L Huo, U Chauhan, I Cotto, B Gincley, KJ Vilardi, B Yoon, K Bian, M Gabrielli, KJ Pieper, A Stubbins, AJ Pinto_
+
+
+_Humans, Sanitary Engineering, Drinking Water, Water Supply, RNA, Ribosomal, 16S, Pandemics, COVID-19, Water Quality, Microbiota, Water Microbiology_
+COVID-19 pandemic-related building restrictions heightened drinking water microbiological safety concerns post-reopening due to the unprecedented nature of commercial building closures. Starting with phased reopening (i.e., June 2020), we sampled drinking water for 6 months from three commercial buildings with reduced water usage and four occupied residential households. Samples were analyzed using flow cytometry and full-length 16S rRNA gene sequencing along with comprehensive water chemistry characterization. Prolonged building closures resulted in 10-fold higher microbial cell counts in the commercial buildings [(2.95 ± 3.67) × 105 cells mL-1] than in residential households [(1.11 ± 0.58) × 104 cells mL-1] with majority intact cells. While flushing reduced cell counts and increased disinfection residuals, microbial communities in commercial buildings remained distinct from those in residential households on the basis of flow cytometric fingerprinting [Bray-Curtis dissimilarity (dBC) = 0.33 ± 0.07] and 16S rRNA gene sequencing (dBC = 0.72 ± 0.20). An increase in water demand post-reopening resulted in gradual convergence in microbial communities in water samples collected from commercial buildings and residential households. Overall, we find that the gradual recovery of water demand played a key role in the recovery of building plumbing-associated microbial communities as compared to short-term flushing after extended periods of reduced water demand.
 
 [Source](https://pubs.acs.org/doi/10.1021/acs.est.2c07333)
+
+10.1021/acs.est.2c07333
 
 ---
 
@@ -167,6 +192,18 @@ The widespread usage of antimicrobials has driven the evolution of resistance in
 ## https://t.co/ksqQSIyPE8
 
 [Source](https://t.co/ksqQSIyPE8)
+
+---
+
+## Surgical resection and orbital iodine-125 brachytherapy for orbital malignancy: a novel treatment for orbital lymphoma.
+ 12.03.2023, _N Ma, P Wang, S Zhang, X Ning, C Guo, Q Zhang, Q Cheng, J Zhao, Y Li_
+
+
+Orbital lymphoma is one of the most common adult orbital malignancies, accounting for approximately 10% of all orbital tumors. This study aimed to analyze the effects of surgical resection and orbital iodine-125 brachytherapy implantation for orbital lymphoma.
+
+[Source](https://twitter.com/unibirmingham/status/1632756647016669185?ref_src=twsrc%5Etfw)
+
+10.1007/s10792-022-02594-x
 
 ---
 
