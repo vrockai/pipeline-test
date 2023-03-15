@@ -16,16 +16,9 @@ Critically ill patients in intensive care units experience profound alterations 
 
 ---
 
-## Impact of high altitude on composition and functional profiling of oral microbiome in Indian male population.
- 14.03.2023, _M Kumari, B Bhushan, MR Eslavath, AK Srivastava, RC Meena, R Varshney, L Ganju_
-
-
-_Humans, Male, Altitude, RNA, Ribosomal, 16S, Pilot Projects, Gastrointestinal Microbiome, Microbiota, Bacteria_
-The oral cavity of human contains bacteria that are critical for maintaining the homeostasis of the body. External stressors such as high altitude (HA) and low oxygen affect the human gut, skin and oral microbiome. However, compared to the human gut and skin microbiome, studies demonstrating the impact of altitude on human oral microbiota are currently scarce. Alterations in the oral microbiome have been reported to be associated with various periodontal diseases. In light of the increased occurrence of HA oral health related problems, the effect of HA on the oral salivary microbiome was investigated. We conducted a pilot study in 16 male subjects at two different heights i.e., H1 (210 m) and H2 (4420 m). Total of 31 saliva samples,16 at H1 and 15 at H2 were analyzed by utilizing the 16S rRNA high-throughput sequencing, to explore the relationship between the HA environment and salivary microbiota. The preliminary results suggesting that, the most abundant microbiome at the phylum level are: Firmicutes, Bacteroidetes, Proteobacteria, and Actinobacteria. Interestingly, 11 genera were identified at the both heights with different relative abundances. In addition, the salivary microbiome was more diverse at H1 compared to H2 as demonstrated by decreased alpha diversity. Further, predicted functional results indicate that microbial metabolic profiles significantly decreased at H2 as compared to H1, including two major metabolic pathways involving carbohydrates, and amino acids. Our findings show that HA induces shifts in the composition and structure of human oral microbiota which can affect host health homeostasis.
+## Impact of high altitude on composition and functional profiling of oral microbiome in Indian male population
 
 [Source](https://doi.org/10.1038/s41598-023-30963-8)
-
-10.1038/s41598-023-30963-8
 
 ---
 
