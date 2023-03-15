@@ -28,39 +28,21 @@ Critically ill patients in intensive care units experience profound alterations 
 
 ---
 
-## Multi-omics studies in interpreting the evolving standard model for immune functions.
- 11.03.2023, _D Ganguly_
-
-
-A standard model that is able to generalize data on myriad involvement of the immune system in organismal physio-pathology and to provide a unified evolutionary teleology for immune functions in multicellular organisms remains elusive. A number of such 'general theories of immunity' have been proposed based on contemporaneously available data, starting with the usual description of self-nonself discrimination, followed by the 'danger model' and the more recent 'discontinuity theory.' More recent data deluge on involvement of immune mechanisms in a wide variety of clinical contexts, a number of which fail to get readily accommodated into the available teleologic standard models, makes deriving a standard model of immunity more challenging. But technological advances enabling multi-omics investigations into an ongoing immune response, covering genome, epigenome, coding and regulatory transcriptome, proteome, metabolome and tissue-resident microbiome, bring newer opportunities for developing a more integrative insight into immunocellular mechanisms within different clinical contexts. The new ability to map the heterogeneity of composition, trajectory and endpoints of immune responses, in both health and disease, also necessitates incorporation into the potential standard model of immune functions, which again can only be achieved through multi-omics probing of immune responses and integrated analyses of the multi-dimensional data.
+## Multi-omics studies in interpreting the evolving standard model for immune functions
 
 [Source](https://doi.org/10.1093/bfgp/elad003)
 
-10.1093/bfgp/elad003
-
 ---
 
-## Understanding the bacterial compositional network associations between oral and gut microbiome within healthy Koreans.
- 10.03.2023, _J Jeong, K Ahn, S Mun, K Yun, YT Kim, W Jung, KE Lee, MY Kim, Y Ahn, K Han_
-
-
-Oral microbial ecosystem could influence intestinal diseases, but there have been insufficient studies demonstrating the association of microbial composition between the oral cavity and the intestinal system. Thus, we aimed to investigate the compositional network within the oral microbiome related to gut enterotype from saliva and stool samples collected from 112 healthy Korean subjects. Here, we performed bacterial 16S amplicon sequencing from clinical samples. Then, we determined oral microbiome type related to individual's gut enterotype for healthy Korean. The co-occurrence analysis was performed to interactivity prediction of microbiome within saliva samples. As a result, it could be classified into two Korean oral microbiome types (KO) and four oral-gut-associated microbiome types (KOGA) according to distribution and significant differences of oral microflora. The co-occurrence analysis showed various bacterial compositional networks linked around Streptococcus and Haemophilus within healthy subjects. The present study was first approach in healthy Koreans to identify the oral microbiome types related to the gut microbiome and investigate their characteristics. Hence, we suggest that our results could be potential healthy control data for identifying differences in microbial composition between healthy people and oral disease patients and studying microbial association with the gut microbial environment (oral-gut microbiome axis).
+## Understanding the bacterial compositional network associations between oral and gut microbiome within healthy Koreans
 
 [Source](https://doi.org/10.1080/20002297.2023.2186591)
 
-10.1080/20002297.2023.2186591
-
 ---
 
-## A transcriptomic insight into the human sperm microbiome through next-generation sequencing.
- 10.03.2023, _C Corral-Vazquez, J Blanco, R Aiese Cigliano, S Zaida, F Vidal, E Anton_
-
-
-The purpose of this study is to provide novel information through Next Generation Sequencing (NGS) for the characterization of viral and bacterial RNA cargo of human sperm cells from healthy fertile donors. For this, RNA-seq raw data of poly(A) RNA from 12 sperm samples from fertile donors were aligned to microbiome databases using the GAIA software. Species of viruses and bacteria were quantified in Operational Taxonomic Units (OTU) and filtered by minimal expression level (&gt;1% OTU in at least one sample). Mean expression values (and their standard deviation) of each species were estimated. A Hierarchical Cluster Analysis (HCA) and a Principal Component Analysis (PCA) were performed to detect common microbiome patterns among samples. Sixteen microbiome species, families, domains, and orders surpassed the established expression threshold. Of the 16 categories, nine corresponded to viruses (23.07% OTU) and seven to bacteria (2.77% OTU), among which the Herperviriales order and Escherichia coli were the most abundant, respectively. HCA and PCA displayed four clusters of samples with a differentiated microbiome fingerprint. This work represents a pilot study into the viruses and bacteria that make up the human sperm microbiome. Despite the high variability observed, some patterns of similarity among individuals were identified. Further NGS studies under standardized methodological procedures are necessary to achieve a deep knowledge of the semen microbiome and its implications in male fertility.
+## A transcriptomic insight into the human sperm microbiome through next-generation sequencing
 
 [Source](https://doi.org/10.1080/19396368.2023.2183912)
-
-10.1080/19396368.2023.2183912
 
 ---
 
