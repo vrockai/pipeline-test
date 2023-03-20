@@ -1,7 +1,8 @@
 ## Bacteria require phase separation for fitness in the mammalian gut.
- 17.03.2023, _E Krypotou, GE Townsend, X Gao, S Tachiyama, J Liu, ND Pokorzynski, AL Goodman, EA Groisman_
+ 20.03.2023, _E Krypotou, GE Townsend, X Gao, S Tachiyama, J Liu, ND Pokorzynski, AL Goodman, EA Groisman_
 
 
+_Animals, Humans, Bacteroides thetaiotaomicron, Transcription Factors, Gastrointestinal Microbiome, Transcription, Genetic, Mammals_
 Therapeutic manipulation of the gut microbiota holds great potential for human health. The mechanisms bacteria use to colonize the gut therefore present valuable targets for clinical intervention. We now report that bacteria use phase separation to enhance fitness in the mammalian gut. We establish that the intrinsically disordered region (IDR) of the broadly and highly conserved transcription termination factor Rho is necessary and sufficient for phase separation in vivo and in vitro in the human commensal Bacteroides thetaiotaomicron. Phase separation increases transcription termination by Rho in an IDR-dependent manner. Moreover, the IDR is critical for gene regulation in the gut. Our findings expose phase separation as vital for host-commensal bacteria interactions and relevant for novel clinical applications.
 
 [Source](https://doi.org/10.1126/science.abn7229)
@@ -120,9 +121,10 @@ Human microbiome research is evolving from describing associations to understand
 ---
 
 ## Versatility of bacterial outer membrane vesicles in regulating intestinal homeostasis.
- 18.03.2023, _X Wang, S Lin, L Wang, Z Cao, M Zhang, Y Zhang, R Liu, J Liu_
+ 20.03.2023, _X Wang, S Lin, L Wang, Z Cao, M Zhang, Y Zhang, R Liu, J Liu_
 
 
+_Humans, Bacterial Outer Membrane, Intestines, Colitis, Epithelial Cells, Extracellular Vesicles_
 Outer membrane vesicles (OMVs) play vital roles in bacterial communication both intraspecifically and interspecifically. However, extracellular mechanisms of gut microbiota-derived OMVs in the intestine remain poorly understood. Here, we report that OMVs released from Akkermansia muciniphila are able to (i) restore disturbed balance of the gut microbiota by selectively promoting the proliferation of beneficial bacteria through membrane fusion, (ii) elicit mucosal immunoglobulin A response by translocating into Peyer's patches and subsequently activating B cells and dendritic cells, and (iii) maintain the integrity of the intestinal barrier by entering intestinal epithelial cells to stimulate the expressions of tight junctions and mucus. We demonstrate that transplantation of gut microbiota-associated OMVs to the intestine can alleviate colitis and enhance anti-programmed cell death protein 1 therapy against colorectal cancer by regulating intestinal homeostasis. This work discloses the importance of gut microbiota-derived OMVs in intestinal ecology, providing an alternative target for disease intervention and treatment.
 
 [Source](https://doi.org/10.1126/sciadv.ade5079)
@@ -155,15 +157,27 @@ Outer membrane vesicles (OMVs) play vital roles in bacterial communication both 
 
 ---
 
-## Spatial profiling of microbial communities by sequential FISH with error-robust encoding
+## Spatial profiling of microbial communities by sequential FISH with error-robust encoding.
+ 18.03.2023, _Z Cao, W Zuo, L Wang, J Chen, Z Qu, F Jin, L Dai_
+
+
+Spatial analysis of microbiomes at single cell resolution with high multiplexity and accuracy has remained challenging. Here we present spatial profiling of a microbiome using sequential error-robust fluorescence in situ hybridization (SEER-FISH), a highly multiplexed and accurate imaging method that allows mapping of microbial communities at micron-scale. We show that multiplexity of RNA profiling in microbiomes can be increased significantly by sequential rounds of probe hybridization and dissociation. Combined with error-correction strategies, we demonstrate that SEER-FISH enables accurate taxonomic identification in complex microbial communities. Using microbial communities composed of diverse bacterial taxa isolated from plant rhizospheres, we apply SEER-FISH to quantify the abundance of each taxon and map microbial biogeography on roots. At micron-scale, we identify clustering of microbial cells from multiple species on the rhizoplane. Under treatment of plant metabolites, we find spatial re-organization of microbial colonization along the root and alterations in spatial association among microbial taxa. Taken together, SEER-FISH provides a useful method for profiling the spatial ecology of complex microbial communities in situ.
 
 [Source](https://doi.org/10.1038/s41467-023-37188-3)
 
+10.1038/s41467-023-37188-3
+
 ---
 
-## sBGC-hm: An atlas of secondary metabolite biosynthetic gene clusters from the human gut microbiome
+## sBGC-hm: An atlas of secondary metabolite biosynthetic gene clusters from the human gut microbiome.
+ 17.03.2023, _H Zou, T Sun, B Jin, S Wang_
+
+
+Microbial secondary metabolites exhibit potential medicinal value. A large number of secondary metabolite biosynthetic gene clusters (BGCs) in the human gut microbiome, which exhibit essential biological activity in microbe-microbe and microbe-host interactions, have not been adequately characterised, making it difficult to prioritise these BGCs for experimental characterization. Here, we present the sBGC-hm, an atlas of secondary metabolite BGCs allows researchers to explore the potential therapeutic benefits of these natural products. One of its key features is the ability to assist in optimizing the BGC structure by utilizing the gene co-occurrence matrix obtained from HMP data. Results are viewable online and can be downloaded as spreadsheets.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad131)
+
+10.1093/bioinformatics/btad131
 
 ---
 
@@ -173,9 +187,15 @@ Outer membrane vesicles (OMVs) play vital roles in bacterial communication both 
 
 ---
 
-## Multi-omics Data Deconvolution and Integration: New Methods, Insights, and Translational Implications
+## Multi-omics Data Deconvolution and Integration: New Methods, Insights, and Translational Implications.
+ 17.03.2023, _X Wang, BL Fridley_
+
+
+In the current era of multi-omics, new sequencing and molecular profiling technologies have facilitated our quest for a deeper and broader understanding of the variations and dynamic regulations in human genomes. However, analyzing and integrating data generated from diverse platforms, modalities, and large-scale heterogeneous samples to extract functional and clinically valuable information remains a significant challenge. Here, we first discuss recent advances in methods and algorithms for analyzing data at the genome, transcriptome, proteome, metabolome, and microbiome levels, followed by emerging methods for leveraging single-cell sequencing and spatial transcriptomic data. We also highlight the mechanistic insights that these advances can bring to the field, as well as the current challenges and outlooks relating to their translational and reproducible adoption at the population level. It is evident that novel statistical methods, which were inspired by new assays, will enable the associated molecular profiling pipelines and experimental designs to continuously improve our understanding of the human genome and the downstream consequences in the transcriptome, epigenome, proteome, metabolome, regulome, and microbiome.
 
 [Source](https://doi.org/10.1007/978-1-0716-2986-4_1)
+
+10.1007/978-1-0716-2986-4_1
 
 ---
 
