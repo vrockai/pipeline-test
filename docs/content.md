@@ -145,9 +145,15 @@ Outer membrane vesicles (OMVs) play vital roles in bacterial communication both 
 
 ---
 
-## Biointerface mineralization generates ultraresistant gut microbes as oral biotherapeutics
+## Biointerface mineralization generates ultraresistant gut microbes as oral biotherapeutics.
+ 20.03.2023, _Z Geng, X Wang, F Wu, Z Cao, J Liu_
+
+
+Despite the fact that oral microecologics are effective in modulating the gut microbiome, they always suffer from multiple insults during the journey from manufacture to arrival at the intestine. Inspired by the protective mechanism of mineralization, we describe a cytocompatible approach of biointerface mineralization that can generate an ultraresistant and self-removable coating on bacterial surface to solve these challenges. Mineral coating endows bacteria with robust resistances against manufacture-associated oxygen exposure, ultraviolet irradiation, and 75% ethanol. Following oral ingestion, the coating is able to actively neutralize gastric acid and release encapsulated bacteria through spontaneous yet rapid double-decomposition reaction. In addition to acid neutralization, the generated calcium ions can trigger micellar aggregation of bile acid, enabling dual exemptions from the insults of gastric acid and bile acid to achieve uncompromised bacterial viability. Further supported by the therapeutic efficacy of coated bacteria toward colitis mice, biointerface mineralization provides a versatile platform for developing next-generation living oral biotherapeutics.
 
 [Source](https://doi.org/10.1126/sciadv.ade0997)
+
+10.1126/sciadv.ade0997
 
 ---
 
@@ -158,7 +164,7 @@ Outer membrane vesicles (OMVs) play vital roles in bacterial communication both 
 ---
 
 ## Spatial profiling of microbial communities by sequential FISH with error-robust encoding.
- 18.03.2023, _Z Cao, W Zuo, L Wang, J Chen, Z Qu, F Jin, L Dai_
+ 20.03.2023, _Z Cao, W Zuo, L Wang, J Chen, Z Qu, F Jin, L Dai_
 
 
 Spatial analysis of microbiomes at single cell resolution with high multiplexity and accuracy has remained challenging. Here we present spatial profiling of a microbiome using sequential error-robust fluorescence in situ hybridization (SEER-FISH), a highly multiplexed and accurate imaging method that allows mapping of microbial communities at micron-scale. We show that multiplexity of RNA profiling in microbiomes can be increased significantly by sequential rounds of probe hybridization and dissociation. Combined with error-correction strategies, we demonstrate that SEER-FISH enables accurate taxonomic identification in complex microbial communities. Using microbial communities composed of diverse bacterial taxa isolated from plant rhizospheres, we apply SEER-FISH to quantify the abundance of each taxon and map microbial biogeography on roots. At micron-scale, we identify clustering of microbial cells from multiple species on the rhizoplane. Under treatment of plant metabolites, we find spatial re-organization of microbial colonization along the root and alterations in spatial association among microbial taxa. Taken together, SEER-FISH provides a useful method for profiling the spatial ecology of complex microbial communities in situ.
@@ -188,7 +194,7 @@ Microbial secondary metabolites exhibit potential medicinal value. A large numbe
 ---
 
 ## Multi-omics Data Deconvolution and Integration: New Methods, Insights, and Translational Implications.
- 17.03.2023, _X Wang, BL Fridley_
+ 20.03.2023, _X Wang, BL Fridley_
 
 
 In the current era of multi-omics, new sequencing and molecular profiling technologies have facilitated our quest for a deeper and broader understanding of the variations and dynamic regulations in human genomes. However, analyzing and integrating data generated from diverse platforms, modalities, and large-scale heterogeneous samples to extract functional and clinically valuable information remains a significant challenge. Here, we first discuss recent advances in methods and algorithms for analyzing data at the genome, transcriptome, proteome, metabolome, and microbiome levels, followed by emerging methods for leveraging single-cell sequencing and spatial transcriptomic data. We also highlight the mechanistic insights that these advances can bring to the field, as well as the current challenges and outlooks relating to their translational and reproducible adoption at the population level. It is evident that novel statistical methods, which were inspired by new assays, will enable the associated molecular profiling pipelines and experimental designs to continuously improve our understanding of the human genome and the downstream consequences in the transcriptome, epigenome, proteome, metabolome, regulome, and microbiome.
