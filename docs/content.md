@@ -145,15 +145,9 @@ Outer membrane vesicles (OMVs) play vital roles in bacterial communication both 
 
 ---
 
-## Biointerface mineralization generates ultraresistant gut microbes as oral biotherapeutics.
- 20.03.2023, _Z Geng, X Wang, F Wu, Z Cao, J Liu_
-
-
-Despite the fact that oral microecologics are effective in modulating the gut microbiome, they always suffer from multiple insults during the journey from manufacture to arrival at the intestine. Inspired by the protective mechanism of mineralization, we describe a cytocompatible approach of biointerface mineralization that can generate an ultraresistant and self-removable coating on bacterial surface to solve these challenges. Mineral coating endows bacteria with robust resistances against manufacture-associated oxygen exposure, ultraviolet irradiation, and 75% ethanol. Following oral ingestion, the coating is able to actively neutralize gastric acid and release encapsulated bacteria through spontaneous yet rapid double-decomposition reaction. In addition to acid neutralization, the generated calcium ions can trigger micellar aggregation of bile acid, enabling dual exemptions from the insults of gastric acid and bile acid to achieve uncompromised bacterial viability. Further supported by the therapeutic efficacy of coated bacteria toward colitis mice, biointerface mineralization provides a versatile platform for developing next-generation living oral biotherapeutics.
+## Biointerface mineralization generates ultraresistant gut microbes as oral biotherapeutics
 
 [Source](https://doi.org/10.1126/sciadv.ade0997)
-
-10.1126/sciadv.ade0997
 
 ---
 
