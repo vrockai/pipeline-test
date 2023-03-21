@@ -157,27 +157,15 @@ Outer membrane vesicles (OMVs) play vital roles in bacterial communication both 
 
 ---
 
-## Spatial profiling of microbial communities by sequential FISH with error-robust encoding.
- 20.03.2023, _Z Cao, W Zuo, L Wang, J Chen, Z Qu, F Jin, L Dai_
-
-
-Spatial analysis of microbiomes at single cell resolution with high multiplexity and accuracy has remained challenging. Here we present spatial profiling of a microbiome using sequential error-robust fluorescence in situ hybridization (SEER-FISH), a highly multiplexed and accurate imaging method that allows mapping of microbial communities at micron-scale. We show that multiplexity of RNA profiling in microbiomes can be increased significantly by sequential rounds of probe hybridization and dissociation. Combined with error-correction strategies, we demonstrate that SEER-FISH enables accurate taxonomic identification in complex microbial communities. Using microbial communities composed of diverse bacterial taxa isolated from plant rhizospheres, we apply SEER-FISH to quantify the abundance of each taxon and map microbial biogeography on roots. At micron-scale, we identify clustering of microbial cells from multiple species on the rhizoplane. Under treatment of plant metabolites, we find spatial re-organization of microbial colonization along the root and alterations in spatial association among microbial taxa. Taken together, SEER-FISH provides a useful method for profiling the spatial ecology of complex microbial communities in situ.
+## Spatial profiling of microbial communities by sequential FISH with error-robust encoding
 
 [Source](https://doi.org/10.1038/s41467-023-37188-3)
 
-10.1038/s41467-023-37188-3
-
 ---
 
-## sBGC-hm: An atlas of secondary metabolite biosynthetic gene clusters from the human gut microbiome.
- 17.03.2023, _H Zou, T Sun, B Jin, S Wang_
-
-
-Microbial secondary metabolites exhibit potential medicinal value. A large number of secondary metabolite biosynthetic gene clusters (BGCs) in the human gut microbiome, which exhibit essential biological activity in microbe-microbe and microbe-host interactions, have not been adequately characterised, making it difficult to prioritise these BGCs for experimental characterization. Here, we present the sBGC-hm, an atlas of secondary metabolite BGCs allows researchers to explore the potential therapeutic benefits of these natural products. One of its key features is the ability to assist in optimizing the BGC structure by utilizing the gene co-occurrence matrix obtained from HMP data. Results are viewable online and can be downloaded as spreadsheets.
+## sBGC-hm: An atlas of secondary metabolite biosynthetic gene clusters from the human gut microbiome
 
 [Source](https://doi.org/10.1093/bioinformatics/btad131)
-
-10.1093/bioinformatics/btad131
 
 ---
 
@@ -187,15 +175,9 @@ Microbial secondary metabolites exhibit potential medicinal value. A large numbe
 
 ---
 
-## Multi-omics Data Deconvolution and Integration: New Methods, Insights, and Translational Implications.
- 20.03.2023, _X Wang, BL Fridley_
-
-
-In the current era of multi-omics, new sequencing and molecular profiling technologies have facilitated our quest for a deeper and broader understanding of the variations and dynamic regulations in human genomes. However, analyzing and integrating data generated from diverse platforms, modalities, and large-scale heterogeneous samples to extract functional and clinically valuable information remains a significant challenge. Here, we first discuss recent advances in methods and algorithms for analyzing data at the genome, transcriptome, proteome, metabolome, and microbiome levels, followed by emerging methods for leveraging single-cell sequencing and spatial transcriptomic data. We also highlight the mechanistic insights that these advances can bring to the field, as well as the current challenges and outlooks relating to their translational and reproducible adoption at the population level. It is evident that novel statistical methods, which were inspired by new assays, will enable the associated molecular profiling pipelines and experimental designs to continuously improve our understanding of the human genome and the downstream consequences in the transcriptome, epigenome, proteome, metabolome, regulome, and microbiome.
+## Multi-omics Data Deconvolution and Integration: New Methods, Insights, and Translational Implications
 
 [Source](https://doi.org/10.1007/978-1-0716-2986-4_1)
-
-10.1007/978-1-0716-2986-4_1
 
 ---
 
