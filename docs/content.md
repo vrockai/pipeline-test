@@ -1,210 +1,137 @@
-## Bacteria require phase separation for fitness in the mammalian gut.
- 20.03.2023, _E Krypotou, GE Townsend, X Gao, S Tachiyama, J Liu, ND Pokorzynski, AL Goodman, EA Groisman_
+## NEMoE: a nutrition aware regularized mixture of experts model to identify heterogeneous diet-microbiome-host health interactions.
+ 17.03.2023, _X Xu, M Lubomski, AJ Holmes, CM Sue, RL Davis, S Muller, JYH Yang_
 
 
-_Animals, Humans, Bacteroides thetaiotaomicron, Transcription Factors, Gastrointestinal Microbiome, Transcription, Genetic, Mammals_
-Therapeutic manipulation of the gut microbiota holds great potential for human health. The mechanisms bacteria use to colonize the gut therefore present valuable targets for clinical intervention. We now report that bacteria use phase separation to enhance fitness in the mammalian gut. We establish that the intrinsically disordered region (IDR) of the broadly and highly conserved transcription termination factor Rho is necessary and sufficient for phase separation in vivo and in vitro in the human commensal Bacteroides thetaiotaomicron. Phase separation increases transcription termination by Rho in an IDR-dependent manner. Moreover, the IDR is critical for gene regulation in the gut. Our findings expose phase separation as vital for host-commensal bacteria interactions and relevant for novel clinical applications.
+_Humans, Ecotype, Parkinson Disease, Diet, Nutritional Status, Microbiota_
+Unrevealing the interplay between diet, the microbiome, and the health state could enable the design of personalized intervention strategies and improve the health and well-being of individuals. A common approach to this is to divide the study population into smaller cohorts based on dietary preferences in the hope of identifying specific microbial signatures. However, classification of patients based solely on diet is unlikely to reflect the microbiome-host health relationship or the taxonomic microbiome makeup.
 
-[Source](https://doi.org/10.1126/science.abn7229)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01475-4)
 
-10.1126/science.abn7229
-
----
-
-## Is there a placental microbiota? A critical review and re-analysis of published placental microbiota datasets
-
-[Source](https://bmcmicrobiol.biomedcentral.com/articles/10.1186/s12866-023-02764-6)
+10.1186/s40168-023-01475-4
 
 ---
 
-## Gut-microbiome-expressed 3β-hydroxysteroid dehydrogenase degrades estradiol and is linked to depression in premenopausal females.
- 18.03.2023, _D Li, T Sun, Y Tong, J Le, Q Yao, J Tao, H Liu, W Jiao, Y Mei, J Chen, Z Liu, G Wang, Y Li_
+## The gut microbiome in social anxiety disorder: evidence of altered composition and function.
+ 22.03.2023, _MI Butler, TFS Bastiaanssen, C Long-Smith, S Morkl, K Berding, NL Ritz, C Strain, D Patangia, S Patel, C Stanton, SM O'Mahony, JF Cryan, G Clarke, TG Dinan_
 
 
-Estradiol decline can result in depressive disorders in females; nevertheless, the causes of this decline are unclear. In this study, we isolated estradiol-degrading Klebsiella aerogenes from the feces of premenopausal females with depression. In mice, gavaging with this strain led to estradiol decline and depression-like behaviors. The gene encoding the estradiol-degrading enzyme in K. aerogenes was identified as 3β-hydroxysteroid dehydrogenase (3β-HSD). Heterologously expressing 3β-HSD resulted in Escherichia coli obtaining the ability to degrade estradiol. Gavaging mice with 3β-HSD-expressing E. coli decreased their serum estradiol levels, causing depression-like behaviors. The prevalence of K. aerogene and 3β-HSD was higher in premenopausal women with depression than in those without depression. These results suggest that the estradiol-degrading bacteria and 3β-HSD enzymes are potential intervention targets for depression treatment in premenopausal women.
+_Humans, Gastrointestinal Microbiome, Autism Spectrum Disorder, Phobia, Social, Microbiota, Schizophrenia_
+The microbiome-gut-brain axis plays a role in anxiety, the stress response and social development, and is of growing interest in neuropsychiatric conditions. The gut microbiota shows compositional alterations in a variety of psychiatric disorders including depression, generalised anxiety disorder (GAD), autism spectrum disorder (ASD) and schizophrenia but studies investigating the gut microbiome in social anxiety disorder (SAD) are very limited. Using whole-genome shotgun analysis of 49 faecal samples (31 cases and 18 sex- and age-matched controls), we analysed compositional and functional differences in the gut microbiome of patients with SAD in comparison to healthy controls. Overall microbiota composition, as measured by beta-diversity, was found to be different between the SAD and control groups and several taxonomic differences were seen at a genus- and species-level. The relative abundance of the genera Anaeromassillibacillus and Gordonibacter were elevated in SAD, while Parasuterella was enriched in healthy controls. At a species-level, Anaeromassilibacillus sp An250 was found to be more abundant in SAD patients while Parasutterella excrementihominis was higher in controls. No differences were seen in alpha diversity. In relation to functional differences, the gut metabolic module 'aspartate degradation I' was elevated in SAD patients. In conclusion, the gut microbiome of patients with SAD differs in composition and function to that of healthy controls. Larger, longitudinal studies are warranted to validate these preliminary results and explore the clinical implications of these microbiome changes.
 
-[Source](https://doi.org/10.1016/j.cmet.2023.02.017)
+[Source](https://www.nature.com/articles/s41398-023-02325-5)
 
-10.1016/j.cmet.2023.02.017
-
----
-
-## Metagenomic association analysis of cognitive impairment in community-dwelling older adults.
- 17.03.2023, _J Li, S Zhu, Y Wang, M Fan, J Dai, C Zhu, K Xu, M Cui, C Suo, L Jin, Y Jiang, X Chen_
-
-
-The gut microbiota is reportedly involved in neurodegenerative disorders, and exploration of differences in the gut microbiota in different cognitive status could provide clues for early detection and intervention in cognitive impairment. Here, we used data from the Taizhou Imaging Study (N = 516), a community-based cohort, to compare the overall structure of the gut microbiota at the species level through metagenomic sequencing, and to explore associations with cognition. Interestingly, bacteria capable of producing short-chain fatty acids (SCFAs), such as Bacteroides massiliensis, Bifidobacterium pseudocatenulatum, Fusicatenibacter saccharivorans and Eggerthella lenta, that can biotransform polyphenols, were positively associated with better cognitive performance (p &lt; 0.05). Although Diallister invisus and Streptococcus gordonii were not obviously related to cognition, the former was dominant in individuals with mild cognitive impairment (MCI), while the later was more abundant in cognitively normal (CN) than MCI groups, and positively associated with cognitive performance (p &lt; 0.05). Functional analysis further supported a potential role of SCFAs and lactic acid in the association between the gut microbiota and cognition. The significant associations persisted after accounting for dietary patterns. Collectively, our results demonstrate an association between the gut microbiota and cognition in the general population, indicating a potential role in cognitive impairment. The findings provide clues for microbiome biomarkers of dementia, and insight for the prevention and treatment of dementia.
-
-[Source](https://doi.org/10.1016/j.nbd.2023.106081)
-
-10.1016/j.nbd.2023.106081
+10.1038/s41398-023-02325-5
 
 ---
 
-## <em>Fusobacterium nucleatum</em> promotes esophageal cancer early occurrence through upregulation of IL-32/PRTN3 expression
-
-[Source](https://doi.org/10.1111/cas.15787)
-
----
-
-## Postbiotics Implication in the Microbiota-Host Intestinal Epithelial Cells Mutualism.
- 18.03.2023, _H Kaur, G Kaur, SA Ali_
+## Analysis of the fecal metagenome in long-term survivors of pancreas cancer.
+ 21.03.2023, _J Kharofa, D Haslam, R Wilkinson, A Weiss, S Patel, K Wang, H Esslinger, O Olowokure, D Sohal, G Wilson, S Ahmad, S Apewokin_
 
 
-To sustain host health and provide the microbial community with a nutrient-rich environment, the host and gut microbiota must interact with one another. These interactions between commensal bacterial and intestinal epithelial cells (IECs) serve as the first line of defense against gut microbiota in preserving intestinal homeostasis. In this microenvironment, the post-biotics and similar molecules such as p40 exert several beneficial effects through regulation of IECs. Importantly, post-biotics were discovered to be transactivators of the EGF receptor (EGFR) in IECs, inducing protective cellular responses and alleviating colitis. The transient exposure to post-biotics such as p40 during the neonatal period reprograms IECs by upregulation of a methyltransferase, Setd1β, leading to a sustained increase in TGF- β release for the expansion of regulatory T cells (Tregs) in the intestinal lamina propria and durable protection against colitis in adulthood. This crosstalk between the IECs and post-biotic secreted factors was not reviewed previously. Therefore, this review describes the role of probiotic-derived factors in the sustainability of intestinal health and improving gut homeostasis via certain signaling pathways. In the era of precision medicine and targeted therapies, more basic, preclinical, and clinical evidence is needed to clarify the efficacy of probiotics released as functional factors in maintaining intestinal health and preventing and treating disease.
+The 5-year overall survival of pancreas adenocarcinoma (PCa) remains less than 10%. Clinical and tumor genomic characteristics have not differentiated PCa long-term survivors (LTSs) from unselected patients. Preclinical studies using fecal transplant experiments from LTSs of PCa have revealed delayed tumor growth through unknown mechanisms involving the fecal microbiota. However, features of the fecal microbiome in patients with long-term survival are not well described.
 
-[Source](https://link.springer.com/article/10.1007/s12602-023-10062-w)
+[Source](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.34748)
 
-10.1007/s12602-023-10062-w
+10.1002/cncr.34748
 
 ---
 
-## Microbiota and growth among infants and children in low-income and middle-income settings.
- 17.03.2023, _JM Njunge, JL Walson_
+## Multiomic signatures of body mass index identify heterogeneous health phenotypes and responses to a lifestyle intervention.
+ 21.03.2023, _K Watanabe, T Wilmanski, C Diener, JC Earls, A Zimmer, B Lincoln, JJ Hadlock, JC Lovejoy, SM Gibbons, AT Magis, L Hood, ND Price, N Rappaport_
 
 
-Adequate nutrition is essential but insufficient for optimal childhood growth and development. Increasingly, it is clear that the gut microbiota modulates childhood growth and may be particularly important in low-income and middle-income countries (LMIC), where growth faltering, undernutrition, environmental contamination and enteric pathogens are more common. We summarize recent evidence demonstrating the role of the gut microbiota in impacting childhood growth and interventions targeting the gut microbiota to impact growth in children in LMIC settings.
+Multiomic profiling can reveal population heterogeneity for both health and disease states. Obesity drives a myriad of metabolic perturbations and is a risk factor for multiple chronic diseases. Here we report an atlas of cross-sectional and longitudinal changes in 1,111 blood analytes associated with variation in body mass index (BMI), as well as multiomic associations with host polygenic risk scores and gut microbiome composition, from a cohort of 1,277 individuals enrolled in a wellness program (Arivale). Machine learning model predictions of BMI from blood multiomics captured heterogeneous phenotypic states of host metabolism and gut microbiome composition better than BMI, which was also validated in an external cohort (TwinsUK). Moreover, longitudinal analyses identified variable BMI trajectories for different omics measures in response to a healthy lifestyle intervention; metabolomics-inferred BMI decreased to a greater extent than actual BMI, whereas proteomics-inferred BMI exhibited greater resistance to change. Our analyses further identified blood analyte-analyte associations that were modified by metabolomics-inferred BMI and partially reversed in individuals with metabolic obesity during the intervention. Taken together, our findings provide a blood atlas of the molecular perturbations associated with changes in obesity status, serving as a resource to quantify metabolic health for predictive and preventive medicine.
 
-[Source](https://doi.org/10.1097/MCO.0000000000000927)
+[Source](https://www.nature.com/articles/s41591-023-02248-0)
 
-10.1097/MCO.0000000000000927
-
----
-
-## Cardiometabolic health, diet and the gut microbiome: a meta-omics perspective.
- 18.03.2023, _M Valles-Colomer, C Menni, SE Berry, AM Valdes, TD Spector, N Segata_
-
-
-Cardiometabolic diseases have become a leading cause of morbidity and mortality globally. They have been tightly linked to microbiome taxonomic and functional composition, with diet possibly mediating some of the associations described. Both the microbiome and diet are modifiable, which opens the way for novel therapeutic strategies. High-throughput omics techniques applied on microbiome samples (meta-omics) hold the unprecedented potential to shed light on the intricate links between diet, the microbiome, the metabolome and cardiometabolic health, with a top-down approach. However, effective integration of complementary meta-omic techniques is an open challenge and their application on large cohorts is still limited. Here we review meta-omics techniques and discuss their potential in this context, highlighting recent large-scale efforts and the novel insights they provided. Finally, we look to the next decade of meta-omics research and discuss various translational and clinical pathways to improving cardiometabolic health.
-
-[Source](https://doi.org/10.1038/s41591-023-02260-4)
-
-10.1038/s41591-023-02260-4
+10.1038/s41591-023-02248-0
 
 ---
 
-## Oral polymicrobial communities: Assembly, function, and impact on diseases.
- 18.03.2023, _G Hajishengallis, RJ Lamont, H Koo_
+## New insights into the impact of microbiome on horizontal and vertical transmission of a tick-borne pathogen.
+ 17.03.2023, _LF Du, MZ Zhang, TT Yuan, XB Ni, W Wei, XM Cui, N Wang, T Xiong, J Zhang, YS Pan, DY Zhu, LJ Li, LY Xia, TH Wang, R Wei, HB Liu, Y Sun, L Zhao, TT Lam, WC Cao, N Jia_
 
 
-Oral microbial communities assemble into complex spatial structures. The sophisticated physical and chemical signaling systems underlying the community enable their collective functional regulation as well as the ability to adapt by integrating environmental information. The combined output of community action, as shaped by both intra-community interactions and host and environmental variables, dictates homeostatic balance or dysbiotic disease such as periodontitis and dental caries. Oral polymicrobial dysbiosis also exerts systemic effects that adversely affect comorbidities, in part due to ectopic colonization of oral pathobionts in extra-oral tissues. Here, we review new and emerging concepts that explain the collective functional properties of oral polymicrobial communities and how these impact health and disease both locally and systemically.
+_Animals, Mice, Ticks, Ixodidae, Rickettsia Infections, Tick-Borne Diseases, Larva_
+The impact of host skin microbiome on horizontal transmission of tick-borne pathogens , and of pathogen associated transstadial and transovarial changes in tick microbiome are largely unknown, but are important to control increasingly emerging tick-borne diseases worldwide.
 
-[Source](https://doi.org/10.1016/j.chom.2023.02.009)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01485-2)
 
-10.1016/j.chom.2023.02.009
-
----
-
-## Gut microbiota: a non-target victim of pesticide-induced toxicity.
- 21.03.2023, _T Sharma, N Sirpu Natesh, R Pothuraju, SK Batra, S Rachagani_
-
-
-_Humans, Gastrointestinal Microbiome, Pesticides_
-The human gut microbiota can be potentially disrupted due to exposure of various environmental contaminants, including pesticides. These contaminants enter into non-target species in multiple ways and cause potential health risks. The gut microbiota-derived metabolites have a significant role in maintaining the host's health by regulating metabolic homeostasis. An imbalance in this homeostasis can result in the development of various diseases and their pathogenesis. Pesticides have hazardous effects on the host's gut microbiota, which is evident in a few recent studies. Therefore, there is an urgent need to explore the effect of pesticide on gut microbiota-mediated metabolic changes in the host, which may provide a better understanding of pesticide-induced toxicity. The present review summarizes the pesticide-induced effects on gut microbiota, which in turn, induces changes in the release of their secondary metabolites that could lead to various host health effects.
-
-[Source](https://doi.org/10.1080/19490976.2023.2187578)
-
-10.1080/19490976.2023.2187578
+10.1186/s40168-023-01485-2
 
 ---
 
-## Human microbiome research: Growing pains and future promises.
- 17.03.2023, _J Puschhof, E Elinav_
+## Periodontitis exacerbates atherosclerosis through Fusobacterium nucleatum-promoted hepatic glycolysis and lipogenesis.
+ 21.03.2023, _LJ Zhou, WZ Lin, XQ Meng, H Zhu, T Liu, LJ Du, XB Bai, BY Chen, Y Liu, Y Xu, Y Xie, R Shu, FM Chen, YQ Zhu, SZ Duan_
 
 
-Human microbiome research is evolving from describing associations to understanding the impact of bioactive strains on humans. Despite challenges, progress is being made to apply data-driven microbiome diagnostics and interventions, potentially leading to precision medicine breakthroughs in the next decade.
+Positive associations between periodontitis (PD) and atherosclerosis have been established, but the causality and mechanisms are not clear. We aimed to explore the causal roles of PD in atherosclerosis and dissect the underlying mechanisms.
 
-[Source](https://doi.org/10.1371/journal.pbio.3002053)
+[Source](https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvad045/7082875)
 
-10.1371/journal.pbio.3002053
-
----
-
-## Versatility of bacterial outer membrane vesicles in regulating intestinal homeostasis.
- 20.03.2023, _X Wang, S Lin, L Wang, Z Cao, M Zhang, Y Zhang, R Liu, J Liu_
-
-
-_Humans, Bacterial Outer Membrane, Intestines, Colitis, Epithelial Cells, Extracellular Vesicles_
-Outer membrane vesicles (OMVs) play vital roles in bacterial communication both intraspecifically and interspecifically. However, extracellular mechanisms of gut microbiota-derived OMVs in the intestine remain poorly understood. Here, we report that OMVs released from Akkermansia muciniphila are able to (i) restore disturbed balance of the gut microbiota by selectively promoting the proliferation of beneficial bacteria through membrane fusion, (ii) elicit mucosal immunoglobulin A response by translocating into Peyer's patches and subsequently activating B cells and dendritic cells, and (iii) maintain the integrity of the intestinal barrier by entering intestinal epithelial cells to stimulate the expressions of tight junctions and mucus. We demonstrate that transplantation of gut microbiota-associated OMVs to the intestine can alleviate colitis and enhance anti-programmed cell death protein 1 therapy against colorectal cancer by regulating intestinal homeostasis. This work discloses the importance of gut microbiota-derived OMVs in intestinal ecology, providing an alternative target for disease intervention and treatment.
-
-[Source](https://doi.org/10.1126/sciadv.ade5079)
-
-10.1126/sciadv.ade5079
+10.1093/cvr/cvad045
 
 ---
 
-## <em>Lactobacillus rhamnosus</em> GG cell-free supernatant as a novel anti-cancer adjuvant
+## Gut microbiota in a mouse model of obesity and peripheral neuropathy associated with plasma and nerve lipidomics and nerve transcriptomics
 
-[Source](https://doi.org/10.1186/s12967-023-04036-3)
-
----
-
-## Community dynamics of microbial eukaryotes in intertidal mudflats in the hypertidal Bay of Fundy
-
-[Source](https://www.nature.com/articles/s43705-023-00226-8)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01436-3)
 
 ---
 
-## Biointerface mineralization generates ultraresistant gut microbes as oral biotherapeutics.
- 21.03.2023, _Z Geng, X Wang, F Wu, Z Cao, J Liu_
+## Characterization of Gut Microbiome Composition in Patients with Triple-Negative Breast Cancer Treated with Neoadjuvant Chemotherapy.
+ 20.03.2023, _G Vernaci, EV Savarino, I Patuzzi, S Facchin, F Zingone, D Massa, G Faggioni, T Giarratano, F Miglietta, G Griguolo, M Fassan, M Lo Mele, E Gasparini, G Bisagni, V Guarneri, MV Dieci_
 
 
-_Animals, Mice, Gastrointestinal Microbiome, Bacteria, Colitis, Microbial Viability, Bile Acids and Salts_
-Despite the fact that oral microecologics are effective in modulating the gut microbiome, they always suffer from multiple insults during the journey from manufacture to arrival at the intestine. Inspired by the protective mechanism of mineralization, we describe a cytocompatible approach of biointerface mineralization that can generate an ultraresistant and self-removable coating on bacterial surface to solve these challenges. Mineral coating endows bacteria with robust resistances against manufacture-associated oxygen exposure, ultraviolet irradiation, and 75% ethanol. Following oral ingestion, the coating is able to actively neutralize gastric acid and release encapsulated bacteria through spontaneous yet rapid double-decomposition reaction. In addition to acid neutralization, the generated calcium ions can trigger micellar aggregation of bile acid, enabling dual exemptions from the insults of gastric acid and bile acid to achieve uncompromised bacterial viability. Further supported by the therapeutic efficacy of coated bacteria toward colitis mice, biointerface mineralization provides a versatile platform for developing next-generation living oral biotherapeutics.
+Patients with triple-negative breast cancer (TNBC) achieving a pathological complete response (pCR) after neoadjuvant chemotherapy have a better event-free survival. The role of gut microbiome in early TNBC is underexplored.
 
-[Source](https://doi.org/10.1126/sciadv.ade0997)
+[Source](https://academic.oup.com/oncolo/advance-article/doi/10.1093/oncolo/oyad060/7081221)
 
-10.1126/sciadv.ade0997
-
----
-
-## Genomic diversity of non-diarrheagenic fecal <em>Escherichia coli</em> from children in sub-Saharan Africa and south Asia and their relatedness to diarrheagenic <em>E. coli</em> 
-
-[Source](https://www.nature.com/articles/s41467-023-36337-y)
+10.1093/oncolo/oyad060
 
 ---
 
-## Spatial profiling of microbial communities by sequential FISH with error-robust encoding.
- 21.03.2023, _Z Cao, W Zuo, L Wang, J Chen, Z Qu, F Jin, L Dai_
+## Compartment and Plant Identity Shape Tree Mycobiome in a Subtropical Forest.
+ 12.10.2022, _H Yang, Z Yang, QC Wang, YL Wang, HW Hu, JZ He, Y Zheng, Y Yang_
 
 
-_In Situ Hybridization, Fluorescence, Microbiota, Bacteria, RNA_
-Spatial analysis of microbiomes at single cell resolution with high multiplexity and accuracy has remained challenging. Here we present spatial profiling of a microbiome using sequential error-robust fluorescence in situ hybridization (SEER-FISH), a highly multiplexed and accurate imaging method that allows mapping of microbial communities at micron-scale. We show that multiplexity of RNA profiling in microbiomes can be increased significantly by sequential rounds of probe hybridization and dissociation. Combined with error-correction strategies, we demonstrate that SEER-FISH enables accurate taxonomic identification in complex microbial communities. Using microbial communities composed of diverse bacterial taxa isolated from plant rhizospheres, we apply SEER-FISH to quantify the abundance of each taxon and map microbial biogeography on roots. At micron-scale, we identify clustering of microbial cells from multiple species on the rhizoplane. Under treatment of plant metabolites, we find spatial re-organization of microbial colonization along the root and alterations in spatial association among microbial taxa. Taken together, SEER-FISH provides a useful method for profiling the spatial ecology of complex microbial communities in situ.
+_Biodiversity, Ecosystem, Forests, Fungi, Mycobiome, Plants, Soil, Soil Microbiology, Trees_
+Deciphering the relationships between microbes and their host plants is critical for a better understanding of microbial diversity maintenance and community stability. Here, we investigated fungal diversity and community assembly in the phyllosphere and rhizosphere of 13 tree species in a subtropical common-garden experiment. The results showed that fungal community structures significantly differed across compartments (leaf, root, and soil) and different tree species. Higher α-diversity was observed in the phyllosphere than in the roots and rhizospheric soil. Fungal community composition (β-diversity) was significantly affected by both compartment and species identity. The fungal community compositions were significantly correlated with soil pH in the roots and the soils as well as with soil nitrate and leaf total phosphorus in the leaves. We found that fungal community assemblies were mainly driven by deterministic processes, regardless of compartments. Moreover, host preference analyses indicated that stronger plant/fungus preferences occurred in leaves than in roots and soils. Our results highlight the differences in tree mycobiome between aboveground and belowground compartments and have important implications for the promotion of biodiversity conservation and management sustainability for the subtropical forest. IMPORTANCE Subtropical mountain forests are widely distributed in Southern China and are characterized by high biodiversity. The interactions between plants and fungi play pivotal roles in biodiversity maintenance and community stability. Nevertheless, knowledge of fungal diversity and of the community assembly patterns of woody plants is scarce. Here, we investigated fungal diversity and community assembly in the phyllosphere and rhizosphere of 13 tree species in a common-garden experiment. We found that both compartment and plant identity influenced fungal diversity, community, and guild compositions, while deterministic processes mainly governed the fungal community assembly, especially in the rhizospheric fungal communities. Our results demonstrate that tree leaves represent stronger host/fungi preferences than do roots and soils. Together, our findings enhance the understanding of the roles of compartment and plant identity in structuring fungal communities as well as promote fungal diversity maintenance in subtropical mountain forest ecosystems.
 
-[Source](https://doi.org/10.1038/s41467-023-37188-3)
+[Source](https://www.biorxiv.org/content/10.1101/2023.03.20.533563v1.abstract)
 
-10.1038/s41467-023-37188-3
-
----
-
-## sBGC-hm: An atlas of secondary metabolite biosynthetic gene clusters from the human gut microbiome.
- 17.03.2023, _H Zou, T Sun, B Jin, S Wang_
-
-
-Microbial secondary metabolites exhibit potential medicinal value. A large number of secondary metabolite biosynthetic gene clusters (BGCs) in the human gut microbiome, which exhibit essential biological activity in microbe-microbe and microbe-host interactions, have not been adequately characterised, making it difficult to prioritise these BGCs for experimental characterization. Here, we present the sBGC-hm, an atlas of secondary metabolite BGCs allows researchers to explore the potential therapeutic benefits of these natural products. One of its key features is the ability to assist in optimizing the BGC structure by utilizing the gene co-occurrence matrix obtained from HMP data. Results are viewable online and can be downloaded as spreadsheets.
-
-[Source](https://doi.org/10.1093/bioinformatics/btad131)
-
-10.1093/bioinformatics/btad131
+10.1128/spectrum.01347-22
 
 ---
 
-## Bioinformatic and Statistical Analysis of Microbiome Data
+## Environments and host genetics influence the geographic distribution of plant microbiome structure
 
-[Source](https://doi.org/10.1007/978-1-0716-2986-4_10)
+[Source](https://www.biorxiv.org/content/10.1101/2023.03.20.533563v1.abstract)
 
 ---
 
-## Multi-omics Data Deconvolution and Integration: New Methods, Insights, and Translational Implications.
- 21.03.2023, _X Wang, BL Fridley_
+## Gut feelings: associations of emotions and emotion regulation with the gut microbiome in women.
+ 21.03.2023, _S Ke, AJ Guimond, SS Tworoger, T Huang, AT Chan, YY Liu, LD Kubzansky_
 
 
-_Humans, Proteome, Multiomics, Proteomics, Gene Expression Profiling, Transcriptome, Genome, Human_
-In the current era of multi-omics, new sequencing and molecular profiling technologies have facilitated our quest for a deeper and broader understanding of the variations and dynamic regulations in human genomes. However, analyzing and integrating data generated from diverse platforms, modalities, and large-scale heterogeneous samples to extract functional and clinically valuable information remains a significant challenge. Here, we first discuss recent advances in methods and algorithms for analyzing data at the genome, transcriptome, proteome, metabolome, and microbiome levels, followed by emerging methods for leveraging single-cell sequencing and spatial transcriptomic data. We also highlight the mechanistic insights that these advances can bring to the field, as well as the current challenges and outlooks relating to their translational and reproducible adoption at the population level. It is evident that novel statistical methods, which were inspired by new assays, will enable the associated molecular profiling pipelines and experimental designs to continuously improve our understanding of the human genome and the downstream consequences in the transcriptome, epigenome, proteome, metabolome, regulome, and microbiome.
+Accumulating evidence suggests that positive and negative emotions, as well as emotion regulation, play key roles in human health and disease. Recent work has shown the gut microbiome is important in modulating mental and physical health through the gut-brain axis. Yet, its association with emotions and emotion regulation are understudied. Here we examined whether positive and negative emotions, as well as two emotion regulation strategies (i.e. cognitive reappraisal and suppression), were associated with the gut microbiome composition and functional pathways in healthy women.
 
-[Source](https://doi.org/10.1007/978-1-0716-2986-4_1)
+[Source](https://www.cambridge.org/core/journals/psychological-medicine/article/gut-feelings-associations-of-emotions-and-emotion-regulation-with-the-gut-microbiome-in-women/F1AA1EBBD2C4680CEC7310B6FCD95734#)
 
-10.1007/978-1-0716-2986-4_1
+10.1017/S0033291723000612
+
+---
+
+## Core species and interactions prominent in fish-associated microbiome dynamics.
+ 22.03.2023, _D Yajima, H Fujita, I Hayashi, G Shima, K Suzuki, H Toju_
+
+
+_Animals, Microbiota, Bacteria, Archaea, Fishes, Aquaculture_
+In aquatic ecosystems, the health and performance of fish depend greatly on the dynamics of microbial community structure in the background environment. Nonetheless, finding microbes with profound impacts on fish's performance out of thousands of candidate species remains a major challenge.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01498-x)
+
+10.1186/s40168-023-01498-x
 
 ---
 
