@@ -12,7 +12,7 @@ Unrevealing the interplay between diet, the microbiome, and the health state cou
 ---
 
 ## The gut microbiome in social anxiety disorder: evidence of altered composition and function.
- 22.03.2023, _MI Butler, TFS Bastiaanssen, C Long-Smith, S Morkl, K Berding, NL Ritz, C Strain, D Patangia, S Patel, C Stanton, SM O'Mahony, JF Cryan, G Clarke, TG Dinan_
+ 23.03.2023, _MI Butler, TFS Bastiaanssen, C Long-Smith, S Morkl, K Berding, NL Ritz, C Strain, D Patangia, S Patel, C Stanton, SM O'Mahony, JF Cryan, G Clarke, TG Dinan_
 
 
 _Humans, Gastrointestinal Microbiome, Autism Spectrum Disorder, Phobia, Social, Microbiota, Schizophrenia_
@@ -123,7 +123,7 @@ Accumulating evidence suggests that positive and negative emotions, as well as e
 ---
 
 ## Core species and interactions prominent in fish-associated microbiome dynamics.
- 22.03.2023, _D Yajima, H Fujita, I Hayashi, G Shima, K Suzuki, H Toju_
+ 23.03.2023, _D Yajima, H Fujita, I Hayashi, G Shima, K Suzuki, H Toju_
 
 
 _Animals, Microbiota, Bacteria, Archaea, Fishes, Aquaculture_
