@@ -1,137 +1,186 @@
-## NEMoE: a nutrition aware regularized mixture of experts model to identify heterogeneous diet-microbiome-host health interactions.
- 17.03.2023, _X Xu, M Lubomski, AJ Holmes, CM Sue, RL Davis, S Muller, JYH Yang_
+## The genomic landscape of reference genomes of cultivated human gut bacteria.
+ 27.03.2023, _X Lin, T Hu, J Chen, H Liang, J Zhou, Z Wu, C Ye, X Jin, X Xu, W Zhang, X Jing, T Yang, J Wang, H Yang, K Kristiansen, L Xiao, Y Zou_
 
 
-_Humans, Ecotype, Parkinson Disease, Diet, Nutritional Status, Microbiota_
-Unrevealing the interplay between diet, the microbiome, and the health state could enable the design of personalized intervention strategies and improve the health and well-being of individuals. A common approach to this is to divide the study population into smaller cohorts based on dietary preferences in the hope of identifying specific microbial signatures. However, classification of patients based solely on diet is unlikely to reflect the microbiome-host health relationship or the taxonomic microbiome makeup.
+Culture-independent metagenomic studies have revolutionized our understanding of the gut microbiota. However, the lack of full genomes from cultured species is still a limitation for in-depth studies of the gut microbiota. Here we present a substantially expanded version of our Cultivated Genome Reference (CGR), termed CGR2, providing 3324 high-quality draft genomes from isolates selected from a large-scale cultivation of bacterial isolates from fecal samples of healthy Chinese individuals. The CGR2 classifies 527 species (179 previously unidentified species) from 8 phyla, and uncovers a genomic and functional diversity of Collinsella aerofaciens. The CGR2 genomes match 126 metagenome-assembled genomes without cultured representatives in the Unified Human Gastrointestinal Genome (UHGG) collection and harbor 3767 unidentified secondary metabolite biosynthetic gene clusters, providing a source of natural compounds with pharmaceutical potentials. We uncover accurate phage-bacterium linkages providing information on the evolutionary characteristics of interaction between bacteriophages and bacteria at the strain level.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01475-4)
+[Source](https://doi.org/10.1038/s41467-023-37396-x)
 
-10.1186/s40168-023-01475-4
-
----
-
-## The gut microbiome in social anxiety disorder: evidence of altered composition and function.
- 23.03.2023, _MI Butler, TFS Bastiaanssen, C Long-Smith, S Morkl, K Berding, NL Ritz, C Strain, D Patangia, S Patel, C Stanton, SM O'Mahony, JF Cryan, G Clarke, TG Dinan_
-
-
-_Humans, Gastrointestinal Microbiome, Autism Spectrum Disorder, Phobia, Social, Microbiota, Schizophrenia_
-The microbiome-gut-brain axis plays a role in anxiety, the stress response and social development, and is of growing interest in neuropsychiatric conditions. The gut microbiota shows compositional alterations in a variety of psychiatric disorders including depression, generalised anxiety disorder (GAD), autism spectrum disorder (ASD) and schizophrenia but studies investigating the gut microbiome in social anxiety disorder (SAD) are very limited. Using whole-genome shotgun analysis of 49 faecal samples (31 cases and 18 sex- and age-matched controls), we analysed compositional and functional differences in the gut microbiome of patients with SAD in comparison to healthy controls. Overall microbiota composition, as measured by beta-diversity, was found to be different between the SAD and control groups and several taxonomic differences were seen at a genus- and species-level. The relative abundance of the genera Anaeromassillibacillus and Gordonibacter were elevated in SAD, while Parasuterella was enriched in healthy controls. At a species-level, Anaeromassilibacillus sp An250 was found to be more abundant in SAD patients while Parasutterella excrementihominis was higher in controls. No differences were seen in alpha diversity. In relation to functional differences, the gut metabolic module 'aspartate degradation I' was elevated in SAD patients. In conclusion, the gut microbiome of patients with SAD differs in composition and function to that of healthy controls. Larger, longitudinal studies are warranted to validate these preliminary results and explore the clinical implications of these microbiome changes.
-
-[Source](https://www.nature.com/articles/s41398-023-02325-5)
-
-10.1038/s41398-023-02325-5
+10.1038/s41467-023-37396-x
 
 ---
 
-## Analysis of the fecal metagenome in long-term survivors of pancreas cancer.
- 21.03.2023, _J Kharofa, D Haslam, R Wilkinson, A Weiss, S Patel, K Wang, H Esslinger, O Olowokure, D Sohal, G Wilson, S Ahmad, S Apewokin_
+## Inhibition of a Microbiota-derived Peptide Ameliorates Established Acute Lung Injury.
+ 27.03.2023, _VF D'Alessandro, CN D'Alessandro-Gabazza, T Yasuma, M Toda, A Takeshita, A Tomaru, S Tharavecharak, IO Lasisi, RY Hess, K Nishihama, H Fujimoto, T Kobayashi, I Cann, EC Gabazza_
 
 
-The 5-year overall survival of pancreas adenocarcinoma (PCa) remains less than 10%. Clinical and tumor genomic characteristics have not differentiated PCa long-term survivors (LTSs) from unselected patients. Preclinical studies using fecal transplant experiments from LTSs of PCa have revealed delayed tumor growth through unknown mechanisms involving the fecal microbiota. However, features of the fecal microbiome in patients with long-term survival are not well described.
+Acute lung injury is a clinical syndrome characterized by a diffuse lung inflammation that commonly evolves into acute respiratory distress syndrome and respiratory failure. The lung microbiota is involved in the pathogenesis of acute lung injury. Corisin, a proapoptotic peptide derived from the lung microbiota, plays a role in acute lung injury and acute exacerbation of pulmonary fibrosis. Preventive therapeutic intervention with a monoclonal anticorisin antibody inhibits acute lung injury in mice. However, whether inhibition of corisin with the antibody ameliorates established acute lung injury is unknown. Here, the therapeutic effectiveness of the anticorisin antibody in already established acute lung injury in mice was assessed. Lipopolysaccharide was used to induce acute lung injury in mice. After causing acute lung injury, the mice were treated with a neutralizing anticorisin antibody. Mice treated with the antibody showed significant improvement in lung radiological and histopathological findings, decreased lung infiltration of inflammatory cells, reduced markers of lung tissue damage, and inflammatory cytokines in bronchoalveolar lavage fluid compared to untreated mice. In addition, the mice treated with anticorisin antibody showed significantly increased expression of antiapoptotic proteins with decreased caspase-3 activation in the lungs compared to control mice treated with an irrelevant antibody. In conclusion, these observations suggest that the inhibition of corisin is a novel and promising approach for treating established acute lung injury.
 
-[Source](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.34748)
+[Source](https://doi.org/10.1016/j.ajpath.2023.03.003)
 
-10.1002/cncr.34748
-
----
-
-## Multiomic signatures of body mass index identify heterogeneous health phenotypes and responses to a lifestyle intervention.
- 21.03.2023, _K Watanabe, T Wilmanski, C Diener, JC Earls, A Zimmer, B Lincoln, JJ Hadlock, JC Lovejoy, SM Gibbons, AT Magis, L Hood, ND Price, N Rappaport_
-
-
-Multiomic profiling can reveal population heterogeneity for both health and disease states. Obesity drives a myriad of metabolic perturbations and is a risk factor for multiple chronic diseases. Here we report an atlas of cross-sectional and longitudinal changes in 1,111 blood analytes associated with variation in body mass index (BMI), as well as multiomic associations with host polygenic risk scores and gut microbiome composition, from a cohort of 1,277 individuals enrolled in a wellness program (Arivale). Machine learning model predictions of BMI from blood multiomics captured heterogeneous phenotypic states of host metabolism and gut microbiome composition better than BMI, which was also validated in an external cohort (TwinsUK). Moreover, longitudinal analyses identified variable BMI trajectories for different omics measures in response to a healthy lifestyle intervention; metabolomics-inferred BMI decreased to a greater extent than actual BMI, whereas proteomics-inferred BMI exhibited greater resistance to change. Our analyses further identified blood analyte-analyte associations that were modified by metabolomics-inferred BMI and partially reversed in individuals with metabolic obesity during the intervention. Taken together, our findings provide a blood atlas of the molecular perturbations associated with changes in obesity status, serving as a resource to quantify metabolic health for predictive and preventive medicine.
-
-[Source](https://www.nature.com/articles/s41591-023-02248-0)
-
-10.1038/s41591-023-02248-0
+10.1016/j.ajpath.2023.03.003
 
 ---
 
-## New insights into the impact of microbiome on horizontal and vertical transmission of a tick-borne pathogen.
- 17.03.2023, _LF Du, MZ Zhang, TT Yuan, XB Ni, W Wei, XM Cui, N Wang, T Xiong, J Zhang, YS Pan, DY Zhu, LJ Li, LY Xia, TH Wang, R Wei, HB Liu, Y Sun, L Zhao, TT Lam, WC Cao, N Jia_
+## Eubiotic effect of rifaximin is associated with decreasing abdominal pain in symptomatic uncomplicated diverticular disease: results from an observational cohort study.
+ 27.03.2023, _V Ivashkin, O Shifrin, R Maslennikov, E Poluektova, A Korolev, A Kudryavtseva, G Krasnov, N Benuni, G Barbara_
 
 
-_Animals, Mice, Ticks, Ixodidae, Rickettsia Infections, Tick-Borne Diseases, Larva_
-The impact of host skin microbiome on horizontal transmission of tick-borne pathogens , and of pathogen associated transstadial and transovarial changes in tick microbiome are largely unknown, but are important to control increasingly emerging tick-borne diseases worldwide.
+_Humans, Rifaximin, Cohort Studies, Prospective Studies, Diverticular Diseases, Abdominal Pain, Treatment Outcome_
+Rifaximin effectively treats symptomatic uncomplicated diverticular disease (SUDD) and has shown eubiotic potential (i.e., an increase in resident microbial elements with potential beneficial effects) in other diseases. This study investigated changes in the fecal microbiome of patients with SUDD after repeated monthly treatment with rifaximin and the association of these changes with the severity of abdominal pain.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01485-2)
+[Source](https://doi.org/10.1186/s12876-023-02690-x)
 
-10.1186/s40168-023-01485-2
-
----
-
-## Periodontitis exacerbates atherosclerosis through Fusobacterium nucleatum-promoted hepatic glycolysis and lipogenesis.
- 21.03.2023, _LJ Zhou, WZ Lin, XQ Meng, H Zhu, T Liu, LJ Du, XB Bai, BY Chen, Y Liu, Y Xu, Y Xie, R Shu, FM Chen, YQ Zhu, SZ Duan_
-
-
-Positive associations between periodontitis (PD) and atherosclerosis have been established, but the causality and mechanisms are not clear. We aimed to explore the causal roles of PD in atherosclerosis and dissect the underlying mechanisms.
-
-[Source](https://academic.oup.com/cardiovascres/advance-article/doi/10.1093/cvr/cvad045/7082875)
-
-10.1093/cvr/cvad045
+10.1186/s12876-023-02690-x
 
 ---
 
-## Gut microbiota in a mouse model of obesity and peripheral neuropathy associated with plasma and nerve lipidomics and nerve transcriptomics
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01436-3)
-
----
-
-## Characterization of Gut Microbiome Composition in Patients with Triple-Negative Breast Cancer Treated with Neoadjuvant Chemotherapy.
- 20.03.2023, _G Vernaci, EV Savarino, I Patuzzi, S Facchin, F Zingone, D Massa, G Faggioni, T Giarratano, F Miglietta, G Griguolo, M Fassan, M Lo Mele, E Gasparini, G Bisagni, V Guarneri, MV Dieci_
+## Mucin glycans drive oral microbial community composition and function.
+ 27.03.2023, _CM Wu, KM Wheeler, G Cárcamo-Oyarce, K Aoki, A McShane, SS Datta, JL Mark Welch, M Tiemeyer, AL Griffen, K Ribbeck_
 
 
-Patients with triple-negative breast cancer (TNBC) achieving a pathological complete response (pCR) after neoadjuvant chemotherapy have a better event-free survival. The role of gut microbiome in early TNBC is underexplored.
+_Humans, Mucins, Glycosylation, Mucus, Microbiota, Polysaccharides_
+Human microbiome composition is closely tied to health, but how the host manages its microbial inhabitants remains unclear. One important, but understudied, factor is the natural host environment: mucus, which contains gel-forming glycoproteins (mucins) that display hundreds of glycan structures with potential regulatory function. Leveraging a tractable culture-based system to study how mucins influence oral microbial communities, we found that mucin glycans enable the coexistence of diverse microbes, while resisting disease-associated compositional shifts. Mucins from tissues with unique glycosylation differentially tuned microbial composition, as did isolated mucin glycan libraries, uncovering the importance of specific glycan patterns in microbiome modulation. We found that mucins shape microbial communities in several ways: serving as nutrients to support metabolic diversity, organizing spatial structure through reduced aggregation, and possibly limiting antagonism between competing taxa. Overall, this work identifies mucin glycans as a natural host mechanism and potential therapeutic intervention to maintain healthy microbial communities.
 
-[Source](https://academic.oup.com/oncolo/advance-article/doi/10.1093/oncolo/oyad060/7081221)
+[Source](https://doi.org/10.1038/s41522-023-00378-4)
 
-10.1093/oncolo/oyad060
+10.1038/s41522-023-00378-4
 
 ---
 
-## Compartment and Plant Identity Shape Tree Mycobiome in a Subtropical Forest.
- 12.10.2022, _H Yang, Z Yang, QC Wang, YL Wang, HW Hu, JZ He, Y Zheng, Y Yang_
+## Changes in gut microbial community upon chronic kidney disease.
+ 27.03.2023, _W Liu, J Huang, T Liu, Y Hu, K Shi, Y Zhou, N Zhang_
 
 
-_Biodiversity, Ecosystem, Forests, Fungi, Mycobiome, Plants, Soil, Soil Microbiology, Trees_
-Deciphering the relationships between microbes and their host plants is critical for a better understanding of microbial diversity maintenance and community stability. Here, we investigated fungal diversity and community assembly in the phyllosphere and rhizosphere of 13 tree species in a subtropical common-garden experiment. The results showed that fungal community structures significantly differed across compartments (leaf, root, and soil) and different tree species. Higher α-diversity was observed in the phyllosphere than in the roots and rhizospheric soil. Fungal community composition (β-diversity) was significantly affected by both compartment and species identity. The fungal community compositions were significantly correlated with soil pH in the roots and the soils as well as with soil nitrate and leaf total phosphorus in the leaves. We found that fungal community assemblies were mainly driven by deterministic processes, regardless of compartments. Moreover, host preference analyses indicated that stronger plant/fungus preferences occurred in leaves than in roots and soils. Our results highlight the differences in tree mycobiome between aboveground and belowground compartments and have important implications for the promotion of biodiversity conservation and management sustainability for the subtropical forest. IMPORTANCE Subtropical mountain forests are widely distributed in Southern China and are characterized by high biodiversity. The interactions between plants and fungi play pivotal roles in biodiversity maintenance and community stability. Nevertheless, knowledge of fungal diversity and of the community assembly patterns of woody plants is scarce. Here, we investigated fungal diversity and community assembly in the phyllosphere and rhizosphere of 13 tree species in a common-garden experiment. We found that both compartment and plant identity influenced fungal diversity, community, and guild compositions, while deterministic processes mainly governed the fungal community assembly, especially in the rhizospheric fungal communities. Our results demonstrate that tree leaves represent stronger host/fungi preferences than do roots and soils. Together, our findings enhance the understanding of the roles of compartment and plant identity in structuring fungal communities as well as promote fungal diversity maintenance in subtropical mountain forest ecosystems.
+_Animals, Renal Insufficiency, Chronic, Kidney, Gastrointestinal Microbiome, Metabolomics, Lipid Metabolism, Bacteria_
+With the increasing incidence and mortality of chronic kidney disease (CKD), targeted therapies for CKD have been explored constantly. The important role of gut microbiota on CKD has been emphasized increasingly, it is necessary to analyze the metabolic mechanism of CKD patients from the perspective of gut microbiota. In this study, bioinformatics was used to analyze the changes of gut microbiota between CKD and healthy control (HC) groups using 315 samples from NCBI database. Diversity analysis showed significant changes in evenness compared to the HC group. PCoA analysis revealed significant differences between the two groups at phylum level. In addition, the F/B ratio was higher in CKD group than in HC group, suggesting the disorder of gut microbiota, imbalance of energy absorption and the occurrence of metabolic syndrome in CKD group. The study found that compared with HC group, the abundance of bacteria associated with impaired kidney was increased in CKD group, such as Ralstonia and Porphyromonas, which were negatively associated with eGFR. PICRUSt2 was used to predict related functions and found that different pathways between the two groups were mainly related to metabolism, involving the metabolism of exogenous and endogenous substances, as well as Glycerophospholipid metabolism, which provided evidence for exploring the relationship between gut microbiota and lipid metabolism. Therefore, in subsequent studies, special attention should be paid to these bacteria and metabolic pathway, and animal experiments and metabolomics studies should be conducted explore the association between bacterial community and CKD, as well as the therapeutic effects of these microbial populations on CKD.
 
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.20.533563v1.abstract)
+[Source](https://doi.org/10.1371/journal.pone.0283389)
 
-10.1128/spectrum.01347-22
-
----
-
-## Environments and host genetics influence the geographic distribution of plant microbiome structure
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.03.20.533563v1.abstract)
+10.1371/journal.pone.0283389
 
 ---
 
-## Gut feelings: associations of emotions and emotion regulation with the gut microbiome in women.
- 21.03.2023, _S Ke, AJ Guimond, SS Tworoger, T Huang, AT Chan, YY Liu, LD Kubzansky_
+## A Pilot Study Exploring Temporal Development of Gut Microbiome/Metabolome in Breastfed Neonates during the First Week of Life.
+ 24.03.2023, _I Awan, E Schultz, JD Sterrett, LM Dawud, LR Kessler, D Schoch, CA Lowry, L Feldman-Winter, S Phadtare_
 
 
-Accumulating evidence suggests that positive and negative emotions, as well as emotion regulation, play key roles in human health and disease. Recent work has shown the gut microbiome is important in modulating mental and physical health through the gut-brain axis. Yet, its association with emotions and emotion regulation are understudied. Here we examined whether positive and negative emotions, as well as two emotion regulation strategies (i.e. cognitive reappraisal and suppression), were associated with the gut microbiome composition and functional pathways in healthy women.
+Exclusive breastfeeding promotes gut microbial compositions associated with lower rates of metabolic and autoimmune diseases. Its cessation is implicated in increased microbiome-metabolome discordance, suggesting a vulnerability to dietary changes. Formula supplementation is common within our low-income, ethnic-minority community. We studied exclusively breastfed (EBF) neonates' early microbiome-metabolome coupling in efforts to build foundational knowledge needed to target this inequality.
 
-[Source](https://www.cambridge.org/core/journals/psychological-medicine/article/gut-feelings-associations-of-emotions-and-emotion-regulation-with-the-gut-microbiome-in-women/F1AA1EBBD2C4680CEC7310B6FCD95734#)
+[Source](https://doi.org/10.5223/pghn.2023.26.2.99)
 
-10.1017/S0033291723000612
+10.5223/pghn.2023.26.2.99
 
 ---
 
-## Core species and interactions prominent in fish-associated microbiome dynamics.
- 23.03.2023, _D Yajima, H Fujita, I Hayashi, G Shima, K Suzuki, H Toju_
+## Realising respiratory microbiomic meta-analyses: time for a standardised framework.
+ 24.03.2023, _D Broderick, R Marsh, D Waite, N Pillarisetti, AB Chang, MW Taylor_
 
 
-_Animals, Microbiota, Bacteria, Archaea, Fishes, Aquaculture_
-In aquatic ecosystems, the health and performance of fish depend greatly on the dynamics of microbial community structure in the background environment. Nonetheless, finding microbes with profound impacts on fish's performance out of thousands of candidate species remains a major challenge.
+_Humans, Child, Microbiota, Respiratory System_
+In microbiome fields of study, meta-analyses have proven to be a valuable tool for identifying the technical drivers of variation among studies and results of investigations in several diseases, such as those of the gut and sinuses. Meta-analyses also represent a powerful and efficient approach to leverage existing scientific data to both reaffirm existing findings and generate new hypotheses within the field. However, there are currently limited data in other fields, such as the paediatric respiratory tract, where extension of original data becomes even more critical due to samples often being difficult to obtain and process for a range of both technical and ethical reasons. Performing such analyses in an evolving field comes with challenges related to data accessibility and heterogeneity. This is particularly the case in paediatric respiratory microbiomics - a field in which best microbiome-related practices are not yet firmly established, clinical heterogeneity abounds and ethical challenges can complicate sharing of patient data. Having recently conducted a large-scale, individual participant data meta-analysis of the paediatric respiratory microbiota (n = 2624 children from 20 studies), we discuss here some of the unique barriers facing these studies and open and invite a dialogue towards future opportunities. Video Abstract.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01498-x)
+[Source](https://doi.org/10.1186/s40168-023-01499-w)
 
-10.1186/s40168-023-01498-x
+10.1186/s40168-023-01499-w
+
+---
+
+## Vulvovaginal yeast infections during pregnancy and perinatal outcomes: systematic review and meta-analysis.
+ 25.03.2023, _RMS Gigi, D Buitrago-Garcia, K Taghavi, CM Dunaiski, JHHM van de Wijgert, RPH Peters, N Low_
+
+
+_Pregnancy, Infant, Newborn, Female, Humans, Premature Birth, Saccharomyces cerevisiae, Pregnancy Outcome, Vagina, Inflammation_
+Vulvovaginal yeast infections in pregnancy are common and can cause extensive inflammation, which could contribute to adverse pregnancy outcomes. Symptomatic yeast infections are likely to cause more inflammation than asymptomatic. The objective of this study was to investigate associations between symptomatic and asymptomatic vulvovaginal yeast infections in pregnancy and perinatal outcomes.
+
+[Source](https://doi.org/10.1186/s12905-023-02258-7)
+
+10.1186/s12905-023-02258-7
+
+---
+
+## Hadza <em>Prevotella</em> Require Diet-derived Microbiota Accessible Carbohydrates to Persist in Mice
+
+[Source](https://doi.org/10.1101/2023.03.08.531063)
+
+---
+
+## Membrane lipids from gut microbiome-associated bacteria as structural and signalling molecules.
+ 27.03.2023, _E Ryan, SA Joyce, DJ Clarke_
+
+
+_Membrane Lipids, Escherichia coli, Gastrointestinal Microbiome, Cardiolipins_
+Bacteria produce an array of diverse, dynamic and often complex lipid structures, some of which function beyond their typical role in membrane structure. The model organism, E. coli, has three major membrane lipids, which are glycerophosphoglycerol (phosphatidylglycerol), glycerophosphoethanolamine (phosphatidylethanolamine) and cardiolipin. However, it is now appreciated that some bacteria have the capacity to synthesize a range of lipids, including glycerophosphocholines, glycerophosphoinositols, 'phosphorous-free' N-acyl amines, sphingolipids and plasmalogens. In recent years, some of these bacterial lipids have emerged as influential contributors to the microbe-host molecular dialogue. This review outlines our current knowledge of bacterial lipid diversity, with a focus on the membrane lipids of microbiome-associated bacteria that have documented roles as signalling molecules.
+
+[Source](https://doi.org/10.1099/mic.0.001315)
+
+10.1099/mic.0.001315
+
+---
+
+## Impact of Intermittent Fasting on the Gut Microbiota: A Systematic Review.
+ 23.03.2023, _T Pérez-Gerdel, M Camargo, M Alvarado, JD Ramírez_
+
+
+Obesity often results in severe negative health consequences and represents a growing issue for global health. Reducing food intake is a crucial factor for weight loss. Intermittent fasting is a relatively new intervention that contributes to weight reduction. Considering the intimate relationship between obesity and inflammatory pathologies with gut microbiota alterations, a systematic review of the literature was herein conducted to elucidate the relationship between time-restricted food intake and gut microbiota diversity in humans. Searches are carried out in three databases (PubMed, MedLine/OVID, and Academic Search Complete) between April 2019 and April 2022. Nine studies (all with longitudinal design) were identified as eligible by presenting data about the impact of intermittent fasting schemes on gut microbiota. At the phylum level, Firmicutes and Bacteroidetes increase throughout follow-ups, while 16 bacteria genera change their abundance in response to intermittent fasting. Finally, some genera associated with clinical predictors such as weight change, abdominal circumference, and metabolic variables were reported. Changes induced by fasting schemes positively impact the diversity and abundance of gut microbiota and the biomarkers described here. However, the changes previously reported have been studied in short periods and some return to their basal state after fasting intervention.
+
+[Source](https://doi.org/10.1002/adbi.202200337)
+
+10.1002/adbi.202200337
+
+---
+
+## <em>Wolbachia</em> endosymbiotic bacteria alter the gut microbiome in the fly <em>Drosophila nigrosparsa</em>
+
+[Source](https://doi.org/10.1016/j.jip.2023.107915)
+
+---
+
+## A symbiotic physical niche in <em>Drosophila melanogaster</em> regulates stable association of a multi-species gut microbiota
+
+[Source](https://doi.org/10.1038/s41467-023-36942-x)
+
+---
+
+## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species
+
+[Source](https://doi.org/10.1038/s41467-023-37164-x)
+
+---
+
+## Co-occurrence network analysis unveils the actual differential impact on the olive root microbiota by two Verticillium wilt biocontrol rhizobacteria
+
+[Source](https://doi.org/10.1186/s40793-023-00480-2)
+
+---
+
+## Investigating the eco-evolutionary response of microbiomes to environmental change
+
+[Source](https://doi.org/10.1111/ele.14209)
+
+---
+
+## In silico evaluation and selection of the best 16S rRNA gene primers for use in next-generation sequencing to detect oral bacteria and archaea
+
+[Source](https://doi.org/10.1186/s40168-023-01481-6)
+
+---
+
+## DeepGeni: deep generalized interpretable autoencoder elucidates gut microbiota for better cancer immunotherapy
+
+[Source](https://doi.org/10.1038/s41598-023-31210-w)
+
+---
+
+## Flex Meta-Storms elucidates the microbiome local beta-diversity under specific phenotypes
+
+[Source](https://doi.org/10.1093/bioinformatics/btad148)
+
+---
+
+## Microbiome Preterm Birth DREAM Challenge: Crowdsourcing Machine Learning Approaches to Advance Preterm Birth Research
+
+[Source](https://doi.org/10.1101/2023.03.07.23286920)
 
 ---
 
