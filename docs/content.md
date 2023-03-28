@@ -1,7 +1,8 @@
 ## The genomic landscape of reference genomes of cultivated human gut bacteria.
- 27.03.2023, _X Lin, T Hu, J Chen, H Liang, J Zhou, Z Wu, C Ye, X Jin, X Xu, W Zhang, X Jing, T Yang, J Wang, H Yang, K Kristiansen, L Xiao, Y Zou_
+ 28.03.2023, _X Lin, T Hu, J Chen, H Liang, J Zhou, Z Wu, C Ye, X Jin, X Xu, W Zhang, X Jing, T Yang, J Wang, H Yang, K Kristiansen, L Xiao, Y Zou_
 
 
+_Humans, Genome, Bacterial, Genomics, Metagenome, Gastrointestinal Microbiome, Bacteria, Metagenomics, Bacteriophages_
 Culture-independent metagenomic studies have revolutionized our understanding of the gut microbiota. However, the lack of full genomes from cultured species is still a limitation for in-depth studies of the gut microbiota. Here we present a substantially expanded version of our Cultivated Genome Reference (CGR), termed CGR2, providing 3324 high-quality draft genomes from isolates selected from a large-scale cultivation of bacterial isolates from fecal samples of healthy Chinese individuals. The CGR2 classifies 527 species (179 previously unidentified species) from 8 phyla, and uncovers a genomic and functional diversity of Collinsella aerofaciens. The CGR2 genomes match 126 metagenome-assembled genomes without cultured representatives in the Unified Human Gastrointestinal Genome (UHGG) collection and harbor 3767 unidentified secondary metabolite biosynthetic gene clusters, providing a source of natural compounds with pharmaceutical potentials. We uncover accurate phage-bacterium linkages providing information on the evolutionary characteristics of interaction between bacteriophages and bacteria at the strain level.
 
 [Source](https://doi.org/10.1038/s41467-023-37396-x)
@@ -142,15 +143,9 @@ Obesity often results in severe negative health consequences and represents a gr
 
 ---
 
-## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species.
- 27.03.2023, _S McLaughlin, K Zhalnina, S Kosina, TR Northen, J Sasse_
-
-
-Root exudates are plant-derived, exported metabolites likely shaping root-associated microbiomes by acting as nutrients and signals. However, root exudation dynamics are unclear and thus also, if changes in exudation are reflected in changes in microbiome structure. Here, we assess commonalities and differences between exudates of different plant species, diurnal exudation dynamics, as well as the accompanying methodological aspects of exudate sampling. We find that exudates should be collected for hours rather than days as many metabolite abundances saturate over time. Plant growth in sterile, nonsterile, or sugar-supplemented environments significantly alters exudate profiles. A comparison of Arabidopsis thaliana, Brachypodium distachyon, and Medicago truncatula shoot, root, and root exudate metabolite profiles reveals clear differences between these species, but also a core metabolome for tissues and exudates. Exudate profiles also exhibit a diurnal signature. These findings add to the methodological and conceptual groundwork for future exudate studies to improve understanding of plant-microbe interactions.
+## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species
 
 [Source](https://doi.org/10.1038/s41467-023-37164-x)
-
-10.1038/s41467-023-37164-x
 
 ---
 
