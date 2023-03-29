@@ -75,10 +75,10 @@ Exclusive breastfeeding promotes gut microbial compositions associated with lowe
 ---
 
 ## Realising respiratory microbiomic meta-analyses: time for a standardised framework.
- 24.03.2023, _D Broderick, R Marsh, D Waite, N Pillarisetti, AB Chang, MW Taylor_
+ 28.03.2023, _D Broderick, R Marsh, D Waite, N Pillarisetti, AB Chang, MW Taylor_
 
 
-_Humans, Child, Microbiota, Respiratory System_
+_Child, Humans, Microbiota, Respiratory System, Meta-Analysis as Topic_
 In microbiome fields of study, meta-analyses have proven to be a valuable tool for identifying the technical drivers of variation among studies and results of investigations in several diseases, such as those of the gut and sinuses. Meta-analyses also represent a powerful and efficient approach to leverage existing scientific data to both reaffirm existing findings and generate new hypotheses within the field. However, there are currently limited data in other fields, such as the paediatric respiratory tract, where extension of original data becomes even more critical due to samples often being difficult to obtain and process for a range of both technical and ethical reasons. Performing such analyses in an evolving field comes with challenges related to data accessibility and heterogeneity. This is particularly the case in paediatric respiratory microbiomics - a field in which best microbiome-related practices are not yet firmly established, clinical heterogeneity abounds and ethical challenges can complicate sharing of patient data. Having recently conducted a large-scale, individual participant data meta-analysis of the paediatric respiratory microbiota (n = 2624 children from 20 studies), we discuss here some of the unique barriers facing these studies and open and invite a dialogue towards future opportunities. Video Abstract.
 
 [Source](https://doi.org/10.1186/s40168-023-01499-w)
@@ -143,9 +143,16 @@ Obesity often results in severe negative health consequences and represents a gr
 
 ---
 
-## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species
+## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species.
+ 28.03.2023, _S McLaughlin, K Zhalnina, S Kosina, TR Northen, J Sasse_
+
+
+_Plant Roots, Plant Exudates, Metabolome, Arabidopsis, Microbiota_
+Root exudates are plant-derived, exported metabolites likely shaping root-associated microbiomes by acting as nutrients and signals. However, root exudation dynamics are unclear and thus also, if changes in exudation are reflected in changes in microbiome structure. Here, we assess commonalities and differences between exudates of different plant species, diurnal exudation dynamics, as well as the accompanying methodological aspects of exudate sampling. We find that exudates should be collected for hours rather than days as many metabolite abundances saturate over time. Plant growth in sterile, nonsterile, or sugar-supplemented environments significantly alters exudate profiles. A comparison of Arabidopsis thaliana, Brachypodium distachyon, and Medicago truncatula shoot, root, and root exudate metabolite profiles reveals clear differences between these species, but also a core metabolome for tissues and exudates. Exudate profiles also exhibit a diurnal signature. These findings add to the methodological and conceptual groundwork for future exudate studies to improve understanding of plant-microbe interactions.
 
 [Source](https://doi.org/10.1038/s41467-023-37164-x)
+
+10.1038/s41467-023-37164-x
 
 ---
 
