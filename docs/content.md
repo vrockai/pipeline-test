@@ -143,9 +143,16 @@ Obesity often results in severe negative health consequences and represents a gr
 
 ---
 
-## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species
+## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species.
+ 28.03.2023, _S McLaughlin, K Zhalnina, S Kosina, TR Northen, J Sasse_
+
+
+_Plant Roots, Plant Exudates, Metabolome, Arabidopsis, Microbiota_
+Root exudates are plant-derived, exported metabolites likely shaping root-associated microbiomes by acting as nutrients and signals. However, root exudation dynamics are unclear and thus also, if changes in exudation are reflected in changes in microbiome structure. Here, we assess commonalities and differences between exudates of different plant species, diurnal exudation dynamics, as well as the accompanying methodological aspects of exudate sampling. We find that exudates should be collected for hours rather than days as many metabolite abundances saturate over time. Plant growth in sterile, nonsterile, or sugar-supplemented environments significantly alters exudate profiles. A comparison of Arabidopsis thaliana, Brachypodium distachyon, and Medicago truncatula shoot, root, and root exudate metabolite profiles reveals clear differences between these species, but also a core metabolome for tissues and exudates. Exudate profiles also exhibit a diurnal signature. These findings add to the methodological and conceptual groundwork for future exudate studies to improve understanding of plant-microbe interactions.
 
 [Source](https://doi.org/10.1038/s41467-023-37164-x)
+
+10.1038/s41467-023-37164-x
 
 ---
 
