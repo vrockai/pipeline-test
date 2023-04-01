@@ -49,16 +49,21 @@ Human microbiome composition is closely tied to health, but how the host manages
 
 ---
 
-## Changes in gut microbial community upon chronic kidney disease.
- 27.03.2023, _W Liu, J Huang, T Liu, Y Hu, K Shi, Y Zhou, N Zhang_
+## Gut microbiota dysbiosis in AKI to CKD transition.
+ 01.04.2023, _GR Saranya, P Viswanathan_
 
 
-_Animals, Renal Insufficiency, Chronic, Kidney, Gastrointestinal Microbiome, Metabolomics, Lipid Metabolism, Bacteria_
-With the increasing incidence and mortality of chronic kidney disease (CKD), targeted therapies for CKD have been explored constantly. The important role of gut microbiota on CKD has been emphasized increasingly, it is necessary to analyze the metabolic mechanism of CKD patients from the perspective of gut microbiota. In this study, bioinformatics was used to analyze the changes of gut microbiota between CKD and healthy control (HC) groups using 315 samples from NCBI database. Diversity analysis showed significant changes in evenness compared to the HC group. PCoA analysis revealed significant differences between the two groups at phylum level. In addition, the F/B ratio was higher in CKD group than in HC group, suggesting the disorder of gut microbiota, imbalance of energy absorption and the occurrence of metabolic syndrome in CKD group. The study found that compared with HC group, the abundance of bacteria associated with impaired kidney was increased in CKD group, such as Ralstonia and Porphyromonas, which were negatively associated with eGFR. PICRUSt2 was used to predict related functions and found that different pathways between the two groups were mainly related to metabolism, involving the metabolism of exogenous and endogenous substances, as well as Glycerophospholipid metabolism, which provided evidence for exploring the relationship between gut microbiota and lipid metabolism. Therefore, in subsequent studies, special attention should be paid to these bacteria and metabolic pathway, and animal experiments and metabolomics studies should be conducted explore the association between bacterial community and CKD, as well as the therapeutic effects of these microbial populations on CKD.
+The symptoms of acute kidney injury (AKI) include a sudden drop-in glomerular filtration rate (GFR), a rise in serum creatinine (sCr), blood urea nitrogen (BUN), and electrolytes, which leads to a rapid loss of kidney function. Chronic kidney disease progresses when AKI symptoms persist for over three months or 90 days. Numerous prevalent secondary risk factors, including diabetes, hypertension, obesity, and heart illness, are directly or indirectly linked to the development of AKI and the switch from AKI to CKD. Recently, the change of intestinal bacteria known as "gut dysbiosis" has been linked to distant organ dysfunction, including the heart, lungs, kidneys, and brain. Indirectly or directly, gut dysbiosis contributes to the progression of CKD and AKI. However, the effects of gut dysbiosis and the mechanism of action in the progression from AKI to CKD are unknown or need further investigation. The mechanism by which gut dysbiosis initiates AKI's progression to CKD should be explicitly concerned. The review primarily focuses on the action of gut dysbiosis in kidney disease, the effects of dysbiosis, the characterisation of dysbiosis and its pathogenic products, the various pathogenic routes and mechanism involved in expediting the transition from AKI to CKD.
 
 [Source](https://doi.org/10.1371/journal.pone.0283389)
 
-10.1371/journal.pone.0283389
+10.1016/j.biopha.2023.114447
+
+---
+
+## Changes in gut microbial community upon chronic kidney disease
+
+[Source](https://doi.org/10.1371/journal.pone.0283389)
 
 ---
 
@@ -149,33 +154,65 @@ Obesity often results in severe negative health consequences and represents a gr
 
 ---
 
-## Co-occurrence network analysis unveils the actual differential impact on the olive root microbiota by two Verticillium wilt biocontrol rhizobacteria
+## Co-occurrence network analysis unveils the actual differential impact on the olive root microbiota by two Verticillium wilt biocontrol rhizobacteria.
+ 28.03.2023, _M Cardoni, AJ Fernández-González, A Valverde-Corredor, M Fernández-López, J Mercado-Blanco_
+
+
+Verticillium wilt of olive (VWO), caused by Verticillium dahliae Kleb, is one of the most threatening diseases affecting olive cultivation. An integrated disease management strategy is recommended for the effective control of VWO. Within this framework, the use of biological control agents (BCAs) is a sustainable and environmentally friendly approach. No studies are available on the impact that the introduction of BCAs has on the resident microbiota of olive roots. Pseudomonas simiae PICF7 and Paenibacillus polymyxa PIC73 are two BCAs effective against VWO. We examined the effects of the introduction of these BCAs on the structure, composition and co-occurrence networks of the olive (cv. Picual) root-associated microbial communities. The consequences of the subsequent inoculation with V. dahliae on BCA-treated plants were also assessed.
 
 [Source](https://doi.org/10.1186/s40793-023-00480-2)
 
+10.1186/s40793-023-00480-2
+
 ---
 
-## Investigating the eco-evolutionary response of microbiomes to environmental change
+## Investigating the eco-evolutionary response of microbiomes to environmental change.
+ 29.03.2023, _JBH Martiny, AC Martiny, E Brodie, AB Chase, A Rodríguez-Verdugo, KK Treseder, SD Allison_
+
+
+Microorganisms are the primary engines of biogeochemical processes and foundational to the provisioning of ecosystem services to human society. Free-living microbial communities (microbiomes) and their functioning are now known to be highly sensitive to environmental change. Given microorganisms' capacity for rapid evolution, evolutionary processes could play a role in this response. Currently, however, few models of biogeochemical processes explicitly consider how microbial evolution will affect biogeochemical responses to environmental change. Here, we propose a conceptual framework for explicitly integrating evolution into microbiome-functioning relationships. We consider how microbiomes respond simultaneously to environmental change via four interrelated processes that affect overall microbiome functioning (physiological acclimation, demography, dispersal and evolution). Recent evidence in both the laboratory and the field suggests that ecological and evolutionary dynamics occur simultaneously within microbiomes; however, the implications for biogeochemistry under environmental change will depend on the timescales over which these processes contribute to a microbiome's response. Over the long term, evolution may play an increasingly important role for microbially driven biogeochemical responses to environmental change, particularly to conditions without recent historical precedent.
 
 [Source](https://doi.org/10.1111/ele.14209)
 
+10.1111/ele.14209
+
 ---
 
-## In silico evaluation and selection of the best 16S rRNA gene primers for use in next-generation sequencing to detect oral bacteria and archaea
+## In silico evaluation and selection of the best 16S rRNA gene primers for use in next-generation sequencing to detect oral bacteria and archaea.
+ 28.03.2023, _A Regueira-Iglesias, L Vázquez-González, C Balsa-Castro, N Vila-Blanco, T Blanco-Pintos, J Tamames, MJ Carreira, I Tomás_
+
+
+_Humans, Archaea, RNA, Ribosomal, 16S, Genes, rRNA, DNA Primers, Bacteria, Microbiota, High-Throughput Nucleotide Sequencing, Phylogeny_
+Sequencing has been widely used to study the composition of the oral microbiome present in various health conditions. The extent of the coverage of the 16S rRNA gene primers employed for this purpose has not, however, been evaluated in silico using oral-specific databases. This paper analyses these primers using two databases containing 16S rRNA sequences from bacteria and archaea found in the human mouth and describes some of the best primers for each domain.
 
 [Source](https://doi.org/10.1186/s40168-023-01481-6)
 
+10.1186/s40168-023-01481-6
+
 ---
 
-## DeepGeni: deep generalized interpretable autoencoder elucidates gut microbiota for better cancer immunotherapy
+## DeepGeni: deep generalized interpretable autoencoder elucidates gut microbiota for better cancer immunotherapy.
+ 24.03.2023, _M Oh, L Zhang_
+
+
+_Humans, Gastrointestinal Microbiome, Neoplasms, Precision Medicine, Microbiota, Melanoma, Immunotherapy, Fecal Microbiota Transplantation_
+Recent studies revealed that gut microbiota modulates the response to cancer immunotherapy and fecal microbiota transplantation has clinical benefits in melanoma patients during treatment. Understanding how microbiota affects individual responses is crucial for precision oncology. However, it is challenging to identify key microbial taxa with limited data as statistical and machine learning models often lose their generalizability. In this study, DeepGeni, a deep generalized interpretable autoencoder, is proposed to improve the generalizability and interpretability of microbiome profiles by augmenting data and by introducing interpretable links in the autoencoder. DeepGeni-based machine learning classifier outperforms state-of-the-art classifier in the microbiome-driven prediction of responsiveness of melanoma patients treated with immune checkpoint inhibitors. Moreover, the interpretable links of DeepGeni elucidate the most informative microbiota associated with cancer immunotherapy response. DeepGeni not only improves microbiome-driven prediction of immune checkpoint inhibitor responsiveness but also suggests potential microbial targets for fecal microbiota transplant or probiotics improving the outcome of cancer immunotherapy.
 
 [Source](https://doi.org/10.1038/s41598-023-31210-w)
 
+10.1038/s41598-023-31210-w
+
 ---
 
-## Flex Meta-Storms elucidates the microbiome local beta-diversity under specific phenotypes
+## Flex Meta-Storms elucidates the microbiome local beta-diversity under specific phenotypes.
+ 22.03.2023, _M Zhang, W Zhang, Y Chen, J Zhao, S Wu, X Su_
+
+
+Beta-diversity quantitatively measures the difference among microbial communities, thus enlightening the association between microbiome composition and environment properties or host phenotypes. The beta-diversity analysis mainly relies on distances among microbiomes that are calculated by all microbial features. However, in some cases, only a small fraction of members in a community plays crucial roles. Such tiny proportion is insufficient to alter the overall distance, which is always missed by end-to-end comparison. On the other hand, beta-diversity pattern can also be interfered due to the data sparsity when only focusing on non-abundant microbes.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad148)
+
+10.1093/bioinformatics/btad148
 
 ---
 
