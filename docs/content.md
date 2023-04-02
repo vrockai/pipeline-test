@@ -67,15 +67,9 @@ The symptoms of acute kidney injury (AKI) include a sudden drop-in glomerular fi
 
 ---
 
-## A Pilot Study Exploring Temporal Development of Gut Microbiome/Metabolome in Breastfed Neonates during the First Week of Life.
- 24.03.2023, _I Awan, E Schultz, JD Sterrett, LM Dawud, LR Kessler, D Schoch, CA Lowry, L Feldman-Winter, S Phadtare_
-
-
-Exclusive breastfeeding promotes gut microbial compositions associated with lower rates of metabolic and autoimmune diseases. Its cessation is implicated in increased microbiome-metabolome discordance, suggesting a vulnerability to dietary changes. Formula supplementation is common within our low-income, ethnic-minority community. We studied exclusively breastfed (EBF) neonates' early microbiome-metabolome coupling in efforts to build foundational knowledge needed to target this inequality.
+## A Pilot Study Exploring Temporal Development of Gut Microbiome/Metabolome in Breastfed Neonates during the First Week of Life
 
 [Source](https://doi.org/10.5223/pghn.2023.26.2.99)
-
-10.5223/pghn.2023.26.2.99
 
 ---
 
