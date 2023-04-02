@@ -11,11 +11,11 @@ Culture-independent metagenomic studies have revolutionized our understanding of
 
 ---
 
-## Inhibition of a Microbiota-derived Peptide Ameliorates Established Acute Lung Injury.
- 28.03.2023, _VF D'Alessandro, CN D'Alessandro-Gabazza, T Yasuma, M Toda, A Takeshita, A Tomaru, S Tharavecharak, IO Lasisi, RY Hess, K Nishihama, H Fujimoto, T Kobayashi, I Cann, EC Gabazza_
+## Inhibition of a Microbiota-Derived Peptide Ameliorates Established Acute Lung Injury.
+ 01.04.2023, _VF D'Alessandro, CN D'Alessandro-Gabazza, T Yasuma, M Toda, A Takeshita, A Tomaru, S Tharavecharak, IO Lasisi, RY Hess, K Nishihama, H Fujimoto, T Kobayashi, I Cann, EC Gabazza_
 
 
-Acute lung injury is a clinical syndrome characterized by a diffuse lung inflammation that commonly evolves into acute respiratory distress syndrome and respiratory failure. The lung microbiota is involved in the pathogenesis of acute lung injury. Corisin, a proapoptotic peptide derived from the lung microbiota, plays a role in acute lung injury and acute exacerbation of pulmonary fibrosis. Preventive therapeutic intervention with a monoclonal anticorisin antibody inhibits acute lung injury in mice. However, whether inhibition of corisin with the antibody ameliorates established acute lung injury is unknown. Here, the therapeutic effectiveness of the anticorisin antibody in already established acute lung injury in mice was assessed. Lipopolysaccharide was used to induce acute lung injury in mice. After causing acute lung injury, the mice were treated with a neutralizing anticorisin antibody. Mice treated with the antibody showed significant improvement in lung radiological and histopathological findings, decreased lung infiltration of inflammatory cells, reduced markers of lung tissue damage, and inflammatory cytokines in bronchoalveolar lavage fluid compared to untreated mice. In addition, the mice treated with anticorisin antibody showed significantly increased expression of antiapoptotic proteins with decreased caspase-3 activation in the lungs compared to control mice treated with an irrelevant antibody. In conclusion, these observations suggest that the inhibition of corisin is a novel and promising approach for treating established acute lung injury.
+Acute lung injury (ALI) is a clinical syndrome characterized by a diffuse lung inflammation that commonly evolves into acute respiratory distress syndrome and respiratory failure. The lung microbiota is involved in the pathogenesis of ALI. Corisin, a proapoptotic peptide derived from the lung microbiota, plays a role in ALI and acute exacerbation of pulmonary fibrosis. Preventive therapeutic intervention with a monoclonal anticorisin antibody inhibits ALI in mice. However, whether inhibition of corisin with the antibody ameliorates established ALI is unknown. Here, the therapeutic effectiveness of the anticorisin antibody in already established ALI in mice was assessed. Lipopolysaccharide was used to induce ALI in mice. After causing ALI, the mice were treated with a neutralizing anticorisin antibody. Mice treated with the antibody showed significant improvement in lung radiological and histopathologic findings, decreased lung infiltration of inflammatory cells, reduced markers of lung tissue damage, and inflammatory cytokines in bronchoalveolar lavage fluid compared with untreated mice. In addition, the mice treated with anticorisin antibody showed significantly increased expression of antiapoptotic proteins with decreased caspase-3 activation in the lungs compared with control mice treated with an irrelevant antibody. In conclusion, these observations suggest that the inhibition of corisin is a novel and promising approach for treating established ALI.
 
 [Source](https://doi.org/10.1016/j.ajpath.2023.03.003)
 
@@ -148,39 +148,78 @@ Obesity often results in severe negative health consequences and represents a gr
 
 ---
 
-## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species
+## The core metabolome and root exudation dynamics of three phylogenetically distinct plant species.
+ 28.03.2023, _S McLaughlin, K Zhalnina, S Kosina, TR Northen, J Sasse_
+
+
+_Plant Roots, Plant Exudates, Metabolome, Arabidopsis, Microbiota_
+Root exudates are plant-derived, exported metabolites likely shaping root-associated microbiomes by acting as nutrients and signals. However, root exudation dynamics are unclear and thus also, if changes in exudation are reflected in changes in microbiome structure. Here, we assess commonalities and differences between exudates of different plant species, diurnal exudation dynamics, as well as the accompanying methodological aspects of exudate sampling. We find that exudates should be collected for hours rather than days as many metabolite abundances saturate over time. Plant growth in sterile, nonsterile, or sugar-supplemented environments significantly alters exudate profiles. A comparison of Arabidopsis thaliana, Brachypodium distachyon, and Medicago truncatula shoot, root, and root exudate metabolite profiles reveals clear differences between these species, but also a core metabolome for tissues and exudates. Exudate profiles also exhibit a diurnal signature. These findings add to the methodological and conceptual groundwork for future exudate studies to improve understanding of plant-microbe interactions.
 
 [Source](https://doi.org/10.1038/s41467-023-37164-x)
 
+10.1038/s41467-023-37164-x
+
 ---
 
-## Co-occurrence network analysis unveils the actual differential impact on the olive root microbiota by two Verticillium wilt biocontrol rhizobacteria
+## Co-occurrence network analysis unveils the actual differential impact on the olive root microbiota by two Verticillium wilt biocontrol rhizobacteria.
+ 28.03.2023, _M Cardoni, AJ Fernández-González, A Valverde-Corredor, M Fernández-López, J Mercado-Blanco_
+
+
+Verticillium wilt of olive (VWO), caused by Verticillium dahliae Kleb, is one of the most threatening diseases affecting olive cultivation. An integrated disease management strategy is recommended for the effective control of VWO. Within this framework, the use of biological control agents (BCAs) is a sustainable and environmentally friendly approach. No studies are available on the impact that the introduction of BCAs has on the resident microbiota of olive roots. Pseudomonas simiae PICF7 and Paenibacillus polymyxa PIC73 are two BCAs effective against VWO. We examined the effects of the introduction of these BCAs on the structure, composition and co-occurrence networks of the olive (cv. Picual) root-associated microbial communities. The consequences of the subsequent inoculation with V. dahliae on BCA-treated plants were also assessed.
 
 [Source](https://doi.org/10.1186/s40793-023-00480-2)
 
+10.1186/s40793-023-00480-2
+
 ---
 
-## Investigating the eco-evolutionary response of microbiomes to environmental change
+## Investigating the eco-evolutionary response of microbiomes to environmental change.
+ 29.03.2023, _JBH Martiny, AC Martiny, E Brodie, AB Chase, A Rodríguez-Verdugo, KK Treseder, SD Allison_
+
+
+Microorganisms are the primary engines of biogeochemical processes and foundational to the provisioning of ecosystem services to human society. Free-living microbial communities (microbiomes) and their functioning are now known to be highly sensitive to environmental change. Given microorganisms' capacity for rapid evolution, evolutionary processes could play a role in this response. Currently, however, few models of biogeochemical processes explicitly consider how microbial evolution will affect biogeochemical responses to environmental change. Here, we propose a conceptual framework for explicitly integrating evolution into microbiome-functioning relationships. We consider how microbiomes respond simultaneously to environmental change via four interrelated processes that affect overall microbiome functioning (physiological acclimation, demography, dispersal and evolution). Recent evidence in both the laboratory and the field suggests that ecological and evolutionary dynamics occur simultaneously within microbiomes; however, the implications for biogeochemistry under environmental change will depend on the timescales over which these processes contribute to a microbiome's response. Over the long term, evolution may play an increasingly important role for microbially driven biogeochemical responses to environmental change, particularly to conditions without recent historical precedent.
 
 [Source](https://doi.org/10.1111/ele.14209)
 
+10.1111/ele.14209
+
 ---
 
-## In silico evaluation and selection of the best 16S rRNA gene primers for use in next-generation sequencing to detect oral bacteria and archaea
+## In silico evaluation and selection of the best 16S rRNA gene primers for use in next-generation sequencing to detect oral bacteria and archaea.
+ 28.03.2023, _A Regueira-Iglesias, L Vázquez-González, C Balsa-Castro, N Vila-Blanco, T Blanco-Pintos, J Tamames, MJ Carreira, I Tomás_
+
+
+_Humans, Archaea, RNA, Ribosomal, 16S, Genes, rRNA, DNA Primers, Bacteria, Microbiota, High-Throughput Nucleotide Sequencing, Phylogeny_
+Sequencing has been widely used to study the composition of the oral microbiome present in various health conditions. The extent of the coverage of the 16S rRNA gene primers employed for this purpose has not, however, been evaluated in silico using oral-specific databases. This paper analyses these primers using two databases containing 16S rRNA sequences from bacteria and archaea found in the human mouth and describes some of the best primers for each domain.
 
 [Source](https://doi.org/10.1186/s40168-023-01481-6)
 
+10.1186/s40168-023-01481-6
+
 ---
 
-## DeepGeni: deep generalized interpretable autoencoder elucidates gut microbiota for better cancer immunotherapy
+## DeepGeni: deep generalized interpretable autoencoder elucidates gut microbiota for better cancer immunotherapy.
+ 24.03.2023, _M Oh, L Zhang_
+
+
+_Humans, Gastrointestinal Microbiome, Neoplasms, Precision Medicine, Microbiota, Melanoma, Immunotherapy, Fecal Microbiota Transplantation_
+Recent studies revealed that gut microbiota modulates the response to cancer immunotherapy and fecal microbiota transplantation has clinical benefits in melanoma patients during treatment. Understanding how microbiota affects individual responses is crucial for precision oncology. However, it is challenging to identify key microbial taxa with limited data as statistical and machine learning models often lose their generalizability. In this study, DeepGeni, a deep generalized interpretable autoencoder, is proposed to improve the generalizability and interpretability of microbiome profiles by augmenting data and by introducing interpretable links in the autoencoder. DeepGeni-based machine learning classifier outperforms state-of-the-art classifier in the microbiome-driven prediction of responsiveness of melanoma patients treated with immune checkpoint inhibitors. Moreover, the interpretable links of DeepGeni elucidate the most informative microbiota associated with cancer immunotherapy response. DeepGeni not only improves microbiome-driven prediction of immune checkpoint inhibitor responsiveness but also suggests potential microbial targets for fecal microbiota transplant or probiotics improving the outcome of cancer immunotherapy.
 
 [Source](https://doi.org/10.1038/s41598-023-31210-w)
 
+10.1038/s41598-023-31210-w
+
 ---
 
-## Flex Meta-Storms elucidates the microbiome local beta-diversity under specific phenotypes
+## Flex Meta-Storms elucidates the microbiome local beta-diversity under specific phenotypes.
+ 22.03.2023, _M Zhang, W Zhang, Y Chen, J Zhao, S Wu, X Su_
+
+
+Beta-diversity quantitatively measures the difference among microbial communities, thus enlightening the association between microbiome composition and environment properties or host phenotypes. The beta-diversity analysis mainly relies on distances among microbiomes that are calculated by all microbial features. However, in some cases, only a small fraction of members in a community plays crucial roles. Such tiny proportion is insufficient to alter the overall distance, which is always missed by end-to-end comparison. On the other hand, beta-diversity pattern can also be interfered due to the data sparsity when only focusing on non-abundant microbes.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad148)
+
+10.1093/bioinformatics/btad148
 
 ---
 
