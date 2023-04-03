@@ -126,9 +126,10 @@ Corals are the visible indicators of the disasters induced by global climate cha
 ---
 
 ## Detection of specific uncultured bacteriophages by fluorescence in situ hybridisation in pig microbiome.
- 01.04.2023, _LJ Ostenfeld, P Munk, FM Aarestrup, S Otani_
+ 03.04.2023, _LJ Ostenfeld, P Munk, FM Aarestrup, S Otani_
 
 
+_Swine, Animals, Bacteriophages, Fluorescence, Microbiota, Bacteria, Metagenome, Mammals_
 Microbial communities have huge impacts on their ecosystems and local environments spanning from marine and soil communities to the mammalian gut. Bacteriophages (phages) are important drivers of population control and diversity in the community, but our understanding of complex microbial communities is halted by biased detection techniques. Metagenomics have provided a method of novel phage discovery independent of in vitro culturing techniques and have revealed a large proportion of understudied phages. Here, five jumbophage genomes, that were previously assembled in silico from pig faecal metagenomes, are detected and observed directly in their natural environment using a modified phageFISH approach, and combined with methods to decrease bias against large-sized phages (e.g., jumbophages). These phages are uncultured with unknown hosts. The specific phages were detected by PCR and fluorescent in situ hybridisation in their original faecal samples as well as across other faecal samples. Co-localisation of bacterial signals and phage signals allowed detection of the different stages of phage life cycle. All phages displayed examples of early infection, advanced infection, burst, and free phages. To our knowledge, this is the first detection of jumbophages in faeces, which were investigated independently of culture, host identification, and size, and based solely on the genome sequence. This approach opens up opportunities for characterisation of novel in silico phages in vivo from a broad range of gut microbiomes.
 
 [Source](https://doi.org/10.1371/journal.pone.0283676)
@@ -205,9 +206,10 @@ Recent studies have shown that microbial communities are composed of groups of f
 ---
 
 ## ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis.
- 31.03.2023, _J Ru, M Khan Mirzaei, J Xue, X Peng, L Deng_
+ 03.04.2023, _J Ru, M Khan Mirzaei, J Xue, X Peng, L Deng_
 
 
+_Software, Gastrointestinal Microbiome, Reproducibility of Results, Metagenome, Microbiota, Metagenomics, Computational Biology, Data Analysis_
 Bacteriophages play central roles in the maintenance and function of most ecosystems by regulating bacterial communities. Yet, our understanding of their diversity remains limited due to the lack of robust bioinformatics standards. Here we present ViroProfiler, an in-silico workflow for analyzing shotgun viral metagenomic data. ViroProfiler can be executed on a local Linux computer or cloud computing environments. It uses the containerization technique to ensure computational reproducibility and facilitate collaborative research. ViroProfiler is freely available at https://github.com/deng-lab/viroprofiler.
 
 [Source](https://doi.org/10.1080/19490976.2023.2192522)
