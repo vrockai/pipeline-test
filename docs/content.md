@@ -114,7 +114,7 @@ The modulation of inflammatory elements, cell differentiation and proliferation 
 ---
 
 ## Recent advancements in coral health, microbiome interactions and climate change.
- 30.03.2023, _N Ashraf, A Anas, V Sukumaran, G Gopinath, KK Idrees Babu, PK Dinesh Kumar_
+ 03.04.2023, _N Ashraf, A Anas, V Sukumaran, G Gopinath, KK Idrees Babu, PK Dinesh Kumar_
 
 
 Corals are the visible indicators of the disasters induced by global climate change and anthropogenic activities and have become a highly vulnerable ecosystem on the verge of extinction. Multiple stressors could act individually or synergistically which results in small to large scale tissue degradation, reduced coral covers, and makes the corals vulnerable to various diseases. The coralline diseases are like the Chicken pox in humans because they spread hastily throughout the coral ecosystem and can devastate the coral cover formed over centuries in an abbreviated time. The extinction of the entire reef ecosystem will alter the ocean and earth's amalgam of biogeochemical cycles causing a threat to the entire planet. The current manuscript provides an overview of the recent advancement in coral health, microbiome interactions and climate change. Culture dependent and independent approaches in studying the microbiome of corals, the diseases caused by microorganisms, and the reservoirs of coral pathogens are also discussed. Finally, we discuss the possibilities of protecting the coral reefs from diseases through microbiome transplantation and the capabilities of remote sensing in monitoring their health status.
