@@ -207,7 +207,7 @@ Recent studies have shown that microbial communities are composed of groups of f
 ---
 
 ## ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis.
- 03.04.2023, _J Ru, M Khan Mirzaei, J Xue, X Peng, L Deng_
+ 05.04.2023, _J Ru, M Khan Mirzaei, J Xue, X Peng, L Deng_
 
 
 _Software, Gastrointestinal Microbiome, Reproducibility of Results, Metagenome, Microbiota, Metagenomics, Computational Biology, Data Analysis_
