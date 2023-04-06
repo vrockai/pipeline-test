@@ -152,7 +152,7 @@ Unlike species-area relationships (SARs) that have been widely reported for plan
 ---
 
 ## Intestinal microbiota of Nearctic-Neotropical migratory birds vary more over seasons and years than between host species.
- 28.03.2023, _HR Skeen, DE Willard, AW Jones, BM Winger, EF Gyllenhaal, BR Tsuru, SJ Hackett, J Novembre_
+ 06.04.2023, _HR Skeen, DE Willard, AW Jones, BM Winger, EF Gyllenhaal, BR Tsuru, SJ Hackett, J Novembre_
 
 
 Seasonal migration of Nearctic-Neotropical passerine birds may have profound effects on the diversity and abundance of their host-associated microbiota. Migratory birds experience seasonal change in environments and diets throughout the course of the annual cycle that, along with recurrent biological events such as reproduction, may significantly impact their microbiota. In this study, we characterize the intestinal microbiota of four closely related species of migratory Catharus thrushes at three time points of their migratory cycle: during spring migration, on the summer breeding territories and during fall migration. Using observations replicated over 3 years, we determined that microbial community diversity of Catharus thrushes was significantly different across distinct time periods of the annual cycle, whereas community composition was more similar within than across years. Elevated alpha diversity in the summer birds compared to either migratory period indicated that birds may harbour a reduced microbiota during active migration. We also found that community composition of the microbiota did not substantially differ between host species. Finally, we recovered two phyla, Cyanobacteria and Planctomycetota, which are not commonly described from birds, that were in relatively high abundance in specific years. This study contributes to our growing understanding of how microbiota in wild birds vary throughout disparate ecological conditions and reveals potential axes across which an animal's microbial flexibility adapts to variable environments and recurrent biological conditions throughout the annual cycle.
@@ -207,7 +207,7 @@ Recent studies have shown that microbial communities are composed of groups of f
 ---
 
 ## ViroProfiler: a containerized bioinformatics pipeline for viral metagenomic data analysis.
- 05.04.2023, _J Ru, M Khan Mirzaei, J Xue, X Peng, L Deng_
+ 06.04.2023, _J Ru, M Khan Mirzaei, J Xue, X Peng, L Deng_
 
 
 _Software, Gastrointestinal Microbiome, Reproducibility of Results, Metagenome, Microbiota, Metagenomics, Computational Biology, Data Analysis_
