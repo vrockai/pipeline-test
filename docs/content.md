@@ -103,7 +103,7 @@ Gut microbiota (GMB) in humans plays a crucial role in health and diseases. Diet
 ---
 
 ## Combination of vitamin D and probiotics inhibits chemically induced colorectal carcinogenesis in Wistar rats.
- 01.04.2023, _CS de Oliveira, MM Baptistella, AP Siqueira, MO Carvalho, LF Ramos, BS Souto, LA de Almeida, EG Dos Santos, RD Novaes, ESC Nogueira, PF de Oliveira_
+ 08.04.2023, _CS de Oliveira, MM Baptistella, AP Siqueira, MO Carvalho, LF Ramos, BS Souto, LA de Almeida, EG Dos Santos, RD Novaes, ESC Nogueira, PF de Oliveira_
 
 
 The modulation of inflammatory elements, cell differentiation and proliferation by vitamin D and the role of probiotics in the intestinal microbiota and immunogenic response have sparked interest in the application of both in chemotherapeutics and chemoprevention of colorectal tumors.
