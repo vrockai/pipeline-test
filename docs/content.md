@@ -88,28 +88,15 @@ Aging is often accompanied by an increased risk of an array of diseases spanning
 
 ---
 
-## Quantifying Shared and Unique Gene Content across 17 Microbial Ecosystems.
- 06.04.2023, _S Zimmerman, BT Tierney, CJ Patel, AD Kostic_
-
-
-Measuring microbial diversity is traditionally based on microbe taxonomy. Here, in contrast, we aimed to quantify heterogeneity in microbial gene content across 14,183 metagenomic samples spanning 17 ecologies, including 6 human associated, 7 nonhuman host associated, and 4 in other nonhuman host environments. In total, we identified 117,629,181 nonredundant genes. The vast majority of genes (66%) occurred in only one sample (i.e., "singletons"). In contrast, we found 1,864 sequences present in every metagenome, but not necessarily every bacterial genome. Additionally, we report data sets of other ecology-associated genes (e.g., abundant in only gut ecosystems) and simultaneously demonstrated that prior microbiome gene catalogs are both incomplete and inaccurately cluster microbial genetic life (e.g., at gene sequence identities that are too restrictive). We provide our results and the sets of environmentally differentiating genes described above at http://www.microbial-genes.bio. IMPORTANCE The amount of shared genetic elements has not been quantified between the human microbiome and other host- and non-host-associated microbiomes. Here, we made a gene catalog of 17 different microbial ecosystems and compared them. We show that most species shared between environment and human gut microbiomes are pathogens and that prior gene catalogs described as "nearly complete" are far from it. Additionally, over two-thirds of all genes only appear in a single sample, and only 1,864 genes (0.001%) are found in all types of metagenomes. These results highlight the large diversity between metagenomes and reveal a new, rare class of genes, those found in every type of metagenome, but not every microbial genome.
+## Quantifying Shared and Unique Gene Content across 17 Microbial Ecosystems
 
 [Source](https://doi.org/10.1128/msystems.00118-23)
 
-10.1128/msystems.00118-23
-
 ---
 
-## New carbohydrate binding domains identified by phage display based functional metagenomic screens of human gut microbiota.
- 08.04.2023, _A Akhtar, M Lata, S Sunsunwal, A Yadav, K Lnu, S Subramanian, TNC Ramya_
-
-
-_Humans, Gastrointestinal Microbiome, Metagenomics, Genomics, Carbohydrates, Bacteriophages_
-Uncultured microbes represent a huge untapped biological resource of novel genes and gene products. Although recent genomic and metagenomic sequencing efforts have led to the identification of numerous genes that are homologous to existing annotated genes, there remains, yet, an enormous pool of unannotated genes that do not find significant sequence homology to existing annotated genes. Functional metagenomics offers a way to identify and annotate novel gene products. Here, we use functional metagenomics to mine novel carbohydrate binding domains that might aid human gut commensals in adherence, gut colonization, and metabolism of complex carbohydrates. We report the construction and functional screening of a metagenomic phage display library from healthy human fecal samples against dietary, microbial and host polysaccharides/glycoconjugates. We identify several protein sequences that do not find a hit to any known protein domain but are predicted to contain carbohydrate binding module-like folds. We heterologously express, purify and biochemically characterize some of these protein domains and demonstrate their carbohydrate-binding function. Our study reveals several previously unannotated carbohydrate-binding domains, including a levan binding domain and four complex N-glycan binding domains that might be useful for the labeling, visualization, and isolation of these glycans.
+## New carbohydrate binding domains identified by phage display based functional metagenomic screens of human gut microbiota
 
 [Source](https://doi.org/10.1038/s42003-023-04718-0)
-
-10.1038/s42003-023-04718-0
 
 ---
 
@@ -119,16 +106,9 @@ Uncultured microbes represent a huge untapped biological resource of novel genes
 
 ---
 
-## Cofunctioning of bacterial exometabolites drives root microbiota establishment.
- 09.04.2023, _F Getzke, MA Hassani, M Crüsemann, M Malisic, P Zhang, Y Ishigaki, N Böhringer, A Jiménez Fernández, L Wang, J Ordon, KW Ma, T Thiergart, CJ Harbort, H Wesseler, S Miyauchi, R Garrido-Oter, K Shirasu, TF Schäberle, S Hacquard, P Schulze-Lefert_
-
-
-_Bacteria, Microbiota, Symbiosis, Arabidopsis, Microbial Interactions, Plant Roots, Soil Microbiology_
-Soil-dwelling microbes are the principal inoculum for the root microbiota, but our understanding of microbe-microbe interactions in microbiota establishment remains fragmentary. We tested 39,204 binary interbacterial interactions for inhibitory activities in vitro, allowing us to identify taxonomic signatures in bacterial inhibition profiles. Using genetic and metabolomic approaches, we identified the antimicrobial 2,4-diacetylphloroglucinol (DAPG) and the iron chelator pyoverdine as exometabolites whose combined functions explain most of the inhibitory activity of the strongly antagonistic Pseudomonas brassicacearum R401. Microbiota reconstitution with a core of Arabidopsis thaliana root commensals in the presence of wild-type or mutant strains revealed a root niche-specific cofunction of these exometabolites as root competence determinants and drivers of predictable changes in the root-associated community. In natural environments, both the corresponding biosynthetic operons are enriched in roots, a pattern likely linked to their role as iron sinks, indicating that these cofunctioning exometabolites are adaptive traits contributing to pseudomonad pervasiveness throughout the root microbiota.
+## Cofunctioning of bacterial exometabolites drives root microbiota establishment
 
 [Source](https://doi.org/10.1073/pnas.2221508120)
-
-10.1073/pnas.2221508120
 
 ---
 
