@@ -120,28 +120,15 @@ Aging is often accompanied by an increased risk of an array of diseases spanning
 
 ---
 
-## Multi-scale Adaptive Differential Abundance Analysis in Microbial Compositional Data.
- 05.04.2023, _S Wang_
-
-
-Differential abundance analysis is an essential and commonly used tool to characterize the difference between microbial communities. However, identifying differentially abundant microbes remains a challenging problem because the observed microbiome data is inherently compositional, excessive sparse, and distorted by experimental bias. Besides these major challenges, the results of differential abundance analysis also depend largely on the choice of analysis unit, adding another practical complexity to this already complicated problem.
+## Multi-scale Adaptive Differential Abundance Analysis in Microbial Compositional Data
 
 [Source](https://doi.org/10.1093/bioinformatics/btad178)
 
-10.1093/bioinformatics/btad178
-
 ---
 
-## The selection of software and database for metagenomics sequence analysis impacts the outcome of microbial profiling and pathogen detection.
- 11.04.2023, _R Xu, S Rajeev, LCM Salvador_
-
-
-_Animals, Mice, Metagenomics, Software, Microbiota, Algorithms, Metagenome, Sequence Analysis, DNA_
-Shotgun metagenomic sequencing analysis is widely used for microbial profiling of biological specimens and pathogen detection. However, very little is known about the technical biases caused by the choice of analysis software and databases on the biological specimen. In this study, we evaluated different direct read shotgun metagenomics taxonomic profiling software to characterize the microbial compositions of simulated mice gut microbiome samples and of biological samples collected from wild rodents across multiple taxonomic levels. Using ten of the most widely used metagenomics software and four different databases, we demonstrated that obtaining an accurate species-level microbial profile using the current direct read metagenomics profiling software is still a challenging task. We also showed that the discrepancies in results when different databases and software were used could lead to significant variations in the distinct microbial taxa classified, in the characterizations of the microbial communities, and in the differentially abundant taxa identified. Differences in database contents and read profiling algorithms are the main contributors for these discrepancies. The inclusion of host genomes and of genomes of the interested taxa in the databases is important for increasing the accuracy of profiling. Our analysis also showed that software included in this study differed in their ability to detect the presence of Leptospira, a major zoonotic pathogen of one health importance, especially at the species level resolution. We concluded that using different databases and software combinations can result in confounding biological conclusions in microbial profiling. Our study warrants that software and database selection must be based on the purpose of the study.
+## The selection of software and database for metagenomics sequence analysis impacts the outcome of microbial profiling and pathogen detection
 
 [Source](https://doi.org/10.1371/journal.pone.0284031)
-
-10.1371/journal.pone.0284031
 
 ---
 
@@ -151,16 +138,9 @@ Shotgun metagenomic sequencing analysis is widely used for microbial profiling o
 
 ---
 
-## Machine learning model to predict obesity using gut metabolite and brain microstructure data.
- 11.04.2023, _V Osadchiy, R Bal, EA Mayer, R Kunapuli, T Dong, P Vora, D Petrasek, C Liu, J Stains, A Gupta_
-
-
-_Humans, Overweight, Obesity, Brain, Gastrointestinal Microbiome, Metabolomics, Feces_
-A growing body of preclinical and clinical literature suggests that brain-gut-microbiota interactions may contribute to obesity pathogenesis. In this study, we use a machine learning approach to leverage the enormous amount of microstructural neuroimaging and fecal metabolomic data to better understand key drivers of the obese compared to overweight phenotype. Our findings reveal that although gut-derived factors play a role in this distinction, it is primarily brain-directed changes that differentiate obese from overweight individuals. Of the key gut metabolites that emerged from our model, many are likely at least in part derived or influenced by the gut-microbiota, including some amino-acid derivatives. Remarkably, key regions outside of the central nervous system extended reward network emerged as important differentiators, suggesting a role for previously unexplored neural pathways in the pathogenesis of obesity.
+## Machine learning model to predict obesity using gut metabolite and brain microstructure data
 
 [Source](https://doi.org/10.1038/s41598-023-32713-2)
-
-10.1038/s41598-023-32713-2
 
 ---
 
