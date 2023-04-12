@@ -42,7 +42,7 @@ Gastric cancer (GC) has been identified as the third deadly cancer in the world.
 ---
 
 ## Intermittent fasting modulates the intestinal microbiota and improves obesity and host energy metabolism.
- 11.04.2023, _X Hu, K Xia, M Dai, X Han, P Yuan, J Liu, S Liu, F Jia, J Chen, F Jiang, J Yu, H Yang, J Wang, X Xu, X Jin, K Kristiansen, L Xiao, W Chen, M Han, S Duan_
+ 12.04.2023, _X Hu, K Xia, M Dai, X Han, P Yuan, J Liu, S Liu, F Jia, J Chen, F Jiang, J Yu, H Yang, J Wang, X Xu, X Jin, K Kristiansen, L Xiao, W Chen, M Han, S Duan_
 
 
 _Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Intermittent Fasting, Obesity, Metagenome_
