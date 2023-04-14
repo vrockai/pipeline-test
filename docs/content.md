@@ -35,9 +35,34 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
+## Using qualitative study designs to understand treatment burden and capacity for self-care among patients with HIV/NCD multimorbidity in South Africa: A methods paper.
+ 14.04.2023, _M van Pinxteren, N Mbokazi, K Murphy, FS Mair, C May, NS Levitt_
+
+
+Low- and middle-income countries (LMICs), including South Africa, are currently experiencing multiple epidemics: HIV and the rising burden of non-communicable diseases (NCDs), leading to different patterns of multimorbidity (the occurrence of two or more chronic conditions) than experienced in high income settings. These adversely affect health outcomes, increase patients' perceived burden of treatment, and impact the workload of self-management. This paper outlines the methods used in a qualitative study exploring burden of treatment among people living with HIV/NCD multimorbidity in South Africa.
+
+[Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
+
+10.1177/26335565231168041
+
+---
+
 ## April 13, 2023
 
 [Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
+
+---
+
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+
+
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijerph19010099
 
 ---
 
@@ -89,9 +114,34 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
+## Vogt-Koyanagi-Harada disease in pediatric, adult and elderly: clinical characteristics and visual outcomes.
+ 14.04.2023, _P Yang, W Liao, Y Pu, Z Zhong, H Wang, Q Yu, J Cai, W Wang, G Su_
+
+
+To depict a whole spectrum of clinical feartures and visual prognosis among pediatric, adult, and elderly Vogt-Koyanagi-Harada disease (VKH) patients.
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+10.1007/s00417-023-06058-5
+
+---
+
 ## April 4, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+---
+
+## Characterization of Antibiotic Resistance Gene Abundance and Microbiota Composition in Feces of Organic and Conventional Pigs from Four EU Countries.
+ 13.11.2018, _L Gerzova, V Babak, K Sedlar, M Faldynova, P Videnska, D Cejkova, AN Jensen, M Denis, A Kerouanton, A Ricci, V Cibin, J Österberg, I Rychlik_
+
+
+_Animal Husbandry, Animals, Drug Resistance, Bacterial, European Union, Feces, Genes, Bacterial, Microbiota, Organic Agriculture, RNA, Ribosomal, 16S, Swine_
+One of the recent trends in animal production is the revival of interest in organic farming. The increased consumer interest in organic animal farming is mainly due to concerns about animal welfare and the use of antibiotics in conventional farming. On the other hand, providing animals with a more natural lifestyle implies their increased exposure to environmental sources of different microorganisms including pathogens. To address these concerns, we determined the abundance of antibiotic resistance and diversity within fecal microbiota in pigs kept under conventional and organic farming systems in Sweden, Denmark, France and Italy. The abundance of sul1, sul2, strA, tet(A), tet(B) and cat antibiotic resistance genes was determined in 468 samples by real-time PCR and the fecal microbiota diversity was characterized in 48 selected samples by pyrosequencing of V3/V4 regions of 16S rRNA. Contrary to our expectations, there were no extensive differences between the abundance of tested antibiotic resistance genes in microbiota originating from organic or conventionally housed pigs within individual countries. There were also no differences in the microbiota composition of organic and conventional pigs. The only significant difference was the difference in the abundance of antibiotic resistance genes in the samples from different countries. Fecal microbiota in the samples originating from southern European countries (Italy, France) exhibited significantly higher antibiotic resistance gene abundance than those from northern parts of Europe (Denmark, Sweden). Therefore, the geographical location of the herd influenced the antibiotic resistance in the fecal microbiota more than farm's status as organic or conventional.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.04.07.536071v1)
+
+10.1371/journal.pone.0132892
 
 ---
 
@@ -107,15 +157,28 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
-## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites
+## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites.
+ 22.03.2023, _D Bogaert, GJ van Beveren, EM de Koff, P Lusarreta Parga, CE Balcazar Lopez, L Koppensteiner, M Clerc, R Hasrat, K Arp, MLJN Chu, PCM de Groot, EAM Sanders, MA van Houten, WAA de Steenhuijsen Piters_
+
+
+_Female, Pregnancy, Humans, Infant, Mothers, Microbiota, Delivery, Obstetric, Cesarean Section, Feces_
+Early-life microbiota seeding and subsequent development is crucial to future health. Cesarean-section (CS) birth, as opposed to vaginal delivery, affects early mother-to-infant transmission of microbes. Here, we assess mother-to-infant microbiota seeding and early-life microbiota development across six maternal and four infant niches over the first 30 days of life in 120 mother-infant pairs. Across all infants, we estimate that on average 58.5% of the infant microbiota composition can be attributed to any of the maternal source communities. All maternal source communities seed multiple infant niches. We identify shared and niche-specific host/environmental factors shaping the infant microbiota. In CS-born infants, we report reduced seeding of infant fecal microbiota by maternal fecal microbes, whereas colonization with breastmilk microbiota is increased when compared with vaginally born infants. Therefore, our data suggest auxiliary routes of mother-to-infant microbial seeding, which may compensate for one another, ensuring that essential microbes/microbial functions are transferred irrespective of disrupted transmission routes.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00043-4)
 
+10.1016/j.chom.2023.01.018
+
 ---
 
-## The Local Tumor Microbiome Is Associated with Survival in Late-Stage Colorectal Cancer Patients
+## The Local Tumor Microbiome Is Associated with Survival in Late-Stage Colorectal Cancer Patients.
+ 12.04.2023, _JW Debelius, L Engstrand, A Matussek, N Brusselaers, JT Morton, M Stenmarker, RS Olsen_
+
+
+The gut microbiome is associated with survival in colorectal cancer. Single organisms have been identified as markers of poor prognosis. However, in situ imaging of tumors demonstrate a polymicrobial tumor-associated community. To understand the role of these polymicrobial communities in survival, we conducted a nested case-control study in late-stage cancer patients undergoing resection for primary adenocarcinoma. The microbiome of paired tumor and adjacent normal tissue samples was profiled using 16S rRNA sequencing. We found a consistent difference in the microbiome between paired tumor and adjacent tissue, despite strong individual microbial identities. Furthermore, a larger difference between normal and tumor tissue was associated with prognosis: patients with shorter survival had a larger difference between normal and tumor tissue. Within the tumor tissue, we identified a 39-member community statistic associated with survival; for every log2-fold increase in this value, an individual's odds of survival increased by 20% (odds ratio survival 1.20; 95% confidence interval = 1.04 to 1.33). Our results suggest that a polymicrobial tumor-specific microbiome is associated with survival in late-stage colorectal cancer patients. IMPORTANCE Microbiome studies in colorectal cancer (CRC) have primarily focused on the role of single organisms in cancer progression. Recent work has identified specific organisms throughout the intestinal tract, which may affect survival; however, the results are inconsistent. We found differences between the tumor microbiome and the microbiome of the rest of the intestine in patients, and the magnitude of this difference was associated with survival, or, the more like a healthy gut a tumor looked, the better a patient's prognosis. Our results suggest that future microbiome-based interventions to affect survival in CRC will need to target the tumor community.
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.05066-22)
+
+10.1128/spectrum.05066-22
 
 ---
 
@@ -156,15 +219,15 @@ Drinking water treatment plants (DWTPs) are designed to remove physical, chemica
 
 ---
 
-## Creating the optimal preoperative nutritional status for neonates undergoing cardiac surgery by implementing a preoperative nutritional support plan.
- 14.04.2023, _QL Zhang, SJ Zhou, XH Chen, H Cao, Q Chen_
+## Characterizing Consumer Smartphone Apps for Virtual Reality-Based Exposure Therapy: Content Analysis.
+ 14.04.2023, _C Sunkara, R Thakkar, T Ong, BE Bunnell_
 
 
-The purpose of this study was to explore the effect of a preoperative nutritional support programme on improving preoperative nutritional status and promoting postoperative recovery in neonates undergoing cardiac surgery.
+In vivo exposure therapy is the most effective treatment for phobias but is often impractical. Virtual reality exposure therapy (VRET) can help overcome critical barriers to in vivo exposure therapy. However, accessible mobile software related to VRET is not well understood.
 
 [Source](https://twitter.com/FrancescCorbera/status/1640652069265629184?ref_src=twsrc%5Etfw)
 
-10.1111/jpc.16414
+10.2196/41807
 
 ---
 
@@ -217,21 +280,45 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
+## Decolonization in Sexual and Reproductive Health Research Methods: Protocol for a Scoping Review.
+ 14.04.2023, _M Stevens-Uninsky, A Barkhad, T MacDonald, A Perez, L Mbuagbaw_
+
+
+As researchers and implementors begin to acknowledge the repercussions of institutionalized colonialism on community and individual health, the need to decolonize research has become clear. Despite this, there is neither a singular definition of decolonizing methodologies nor an overview of the shared principles and characteristics of decolonized research needed to codify this work as common practice in global health.
+
+[Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
+
+10.2196/45771
+
+---
+
 ## April 12, 2023
 
 [Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
 
 ---
 
-## Expanding known viral diversity in the healthy infant gut
+## Expanding known viral diversity in the healthy infant gut.
+ 10.04.2023, _SA Shah, L Deng, J Thorsen, AG Pedersen, MB Dion, JL Castro-Mejía, R Silins, FO Romme, R Sausset, LE Jessen, EO Ndela, M Hjelmsø, MA Rasmussen, TA Redgwell, C Leal Rodríguez, G Vestergaard, Y Zhang, B Chawes, K Bønnelykke, SJ Sørensen, H Bisgaard, F Enault, J Stokholm, S Moineau, MA Petit, DS Nielsen_
+
+
+The gut microbiome is shaped through infancy and impacts the maturation of the immune system, thus protecting against chronic disease later in life. Phages, or viruses that infect bacteria, modulate bacterial growth by lysis and lysogeny, with the latter being especially prominent in the infant gut. Viral metagenomes (viromes) are difficult to analyse because they span uncharted viral diversity, lacking marker genes and standardized detection methods. Here we systematically resolved the viral diversity in faecal viromes from 647 1-year-olds belonging to Copenhagen Prospective Studies on Asthma in Childhood 2010, an unselected Danish cohort of healthy mother-child pairs. By assembly and curation we uncovered 10,000 viral species from 248 virus family-level clades (VFCs). Most (232 VFCs) were previously unknown, belonging to the Caudoviricetes viral class. Hosts were determined for 79% of phage using clustered regularly interspaced short palindromic repeat spacers within bacterial metagenomes from the same children. Typical Bacteroides-infecting crAssphages were outnumbered by undescribed phage families infecting Clostridiales and Bifidobacterium. Phage lifestyles were conserved at the viral family level, with 33 virulent and 118 temperate phage families. Virulent phages were more abundant, while temperate ones were more prevalent and diverse. Together, the viral families found in this study expand existing phage taxonomy and provide a resource aiding future infant gut virome research.
 
 [Source](https://www.nature.com/articles/s41564-023-01345-7)
 
+10.1038/s41564-023-01345-7
+
 ---
 
-## Large-scale phage cultivation for commensal human gut bacteria 
+## Large-scale phage cultivation for commensal human gut bacteria.
+ 13.04.2023, _J Shen, J Zhang, L Mo, Y Li, Y Li, C Li, X Kuang, Z Tao, Z Qu, L Wu, J Chen, S Liu, L Zeng, Z He, Z Chen, Y Deng, T Zhang, B Li, L Dai, Y Ma_
+
+
+Phages are highly abundant in the human gut, yet most of them remain uncultured. Here, we present a gut phage isolate collection (GPIC) containing 209 phages for 42 commensal human gut bacterial species. Genome analysis of the phages identified 34 undescribed genera. We discovered 22 phages from the Salasmaviridae family that have small genomes (∼10-20 kbp) and infect Gram-positive bacteria. Two phages from a candidate family, Paboviridae, with high prevalence in the human gut were also identified. Infection assays showed that Bacteroides and Parabacteroides phages are specific to a bacterial species, and strains of the same species also exhibit substantial variations in phage susceptibility. A cocktail of 8 phages with a broad host range for Bacteroides fragilis strains effectively reduced their abundance in complex host-derived communities in vitro. Our study expands the diversity of cultured human gut bacterial phages and provides a valuable resource for human microbiome engineering.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00117-8)
+
+10.1016/j.chom.2023.03.013
 
 ---
 
@@ -241,9 +328,34 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
+## Using qualitative study designs to understand treatment burden and capacity for self-care among patients with HIV/NCD multimorbidity in South Africa: A methods paper.
+ 14.04.2023, _M van Pinxteren, N Mbokazi, K Murphy, FS Mair, C May, NS Levitt_
+
+
+Low- and middle-income countries (LMICs), including South Africa, are currently experiencing multiple epidemics: HIV and the rising burden of non-communicable diseases (NCDs), leading to different patterns of multimorbidity (the occurrence of two or more chronic conditions) than experienced in high income settings. These adversely affect health outcomes, increase patients' perceived burden of treatment, and impact the workload of self-management. This paper outlines the methods used in a qualitative study exploring burden of treatment among people living with HIV/NCD multimorbidity in South Africa.
+
+[Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
+
+10.1177/26335565231168041
+
+---
+
 ## April 13, 2023
 
 [Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
+
+---
+
+## The effect of storage conditions on microbial communities in stool.
+ 09.04.2020, _K Nel Van Zyl, AC Whitelaw, M Newton-Foot_
+
+
+_Child, Preschool, DNA, Bacterial, Enterobacteriaceae, Feces, Fungi, Humans, Microbiota, RNA, Ribosomal, 16S, Specimen Handling_
+Microbiome research has experienced a surge of interest in recent years due to the advances and reduced cost of next-generation sequencing technology. The production of high quality and comparable data is dependent on proper sample collection and storage and should be standardized as far as possible. However, this becomes challenging when samples are collected in the field, especially in resource-limited settings. We investigated the impact of different stool storage methods common to the TB-CHAMP clinical trial on the microbial communities in stool. Ten stool samples were subjected to DNA extraction after 48-hour storage at -80°C, room temperature and in a cooler-box, as well as immediate DNA extraction. Three stool DNA extraction kits were evaluated based on DNA yield and quality. Quantitative PCR was performed to determine the relative abundance of the two major gut phyla Bacteroidetes and Firmicutes, and other representative microbial groups. The bacterial populations in the frozen group closely resembled the immediate extraction group, supporting previous findings that storage at -80°C is equivalent to the gold standard of immediate DNA extraction. More variation was seen in the room temperature and cooler-box groups, which may be due to the growth temperature preferences of certain bacterial populations. However, for most bacterial populations, no significant differences were found between the storage groups. As seen in other microbiome studies, the variation between participant samples was greater than that related to differences in storage. We determined that the risk of introducing bias to microbial community profiling through differences in storage will likely be minimal in our setting.
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1094800/full)
+
+10.1371/journal.pone.0227486
 
 ---
 
@@ -253,15 +365,28 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
-## In Vitro Modelling of Oral Microbial Invasion in the Human Colon
+## In Vitro Modelling of Oral Microbial Invasion in the Human Colon.
+ 27.03.2023, _L Etienne-Mesmin, V Meslier, O Uriot, E Fournier, C Deschamps, S Denis, A David, S Jegou, C Morabito, B Quinquis, F Thirion, F Plaza Oñate, E Le Chatelier, SD Ehrlich, S Blanquet-Diot, M Almeida_
+
+
+Recent advances in the human microbiome characterization have revealed significant oral microbial detection in stools of dysbiotic patients. However, little is known about the potential interactions of these invasive oral microorganisms with commensal intestinal microbiota and the host. In this proof-of-concept study, we proposed a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Oral invasion of the intestinal microbiota was simulated by injection of enriched saliva in the in vitro colon model inoculated with a fecal sample from the same healthy adult donor. The mucosal compartment of M-ARCOL was able to retain the highest species richness levels over time, while species richness levels decreased in the luminal compartment. This study also showed that oral microorganisms preferably colonized the mucosal microenvironment, suggesting potential oral-to-intestinal mucosal competitions. This new model of oral-to-gut invasion can provide useful mechanistic insights into the role of oral microbiome in various disease processes. IMPORTANCE Here, we propose a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Our study revealed the importance of integrating the mucus compartment, which retained higher microbial richness during fermentation, showed the preference of oral microbial invaders for the mucosal resources, and indicated potential oral-to-intestinal mucosal competitions. It also underlined promising opportunities to further understand mechanisms of oral invasion into the human gut microbiome, define microbe-microbe and mucus-microbe interactions in a compartmentalized fashion, and help to better characterize the potential of oral microbial invasion and their persistence in the gut.
 
 [Source](https://journals.asm.org/doi/pdf/10.1128/spectrum.04344-22)
 
+10.1128/spectrum.04344-22
+
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
+ 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
+
+
+_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
+Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
+
+10.1186/s40168-023-01505-1
 
 ---
 
@@ -298,6 +423,18 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 ## pic.twitter.com/NIjzhFNH37
 
 [Source](https://t.co/NIjzhFNH37)
+
+---
+
+## Decolonization in Sexual and Reproductive Health Research Methods: Protocol for a Scoping Review.
+ 14.04.2023, _M Stevens-Uninsky, A Barkhad, T MacDonald, A Perez, L Mbuagbaw_
+
+
+As researchers and implementors begin to acknowledge the repercussions of institutionalized colonialism on community and individual health, the need to decolonize research has become clear. Despite this, there is neither a singular definition of decolonizing methodologies nor an overview of the shared principles and characteristics of decolonized research needed to codify this work as common practice in global health.
+
+[Source](https://twitter.com/Alation/status/1646185262597242887?ref_src=twsrc%5Etfw)
+
+10.2196/45771
 
 ---
 
