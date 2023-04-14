@@ -1,146 +1,309 @@
-## Exploring the Influence of Gut Microbiome on Energy Metabolism in Humans.
- 09.04.2023, _J Montenegro, AM Armet, B Willing, EC Deehan, PG Fassini, JF Mota, J Walter, CM Prado_
+## @CTMRBio
 
-
-The gut microbiome has a profound influence on host physiology, including energy metabolism, which is the process by which energy from nutrients is transformed to other forms of energy to be used by the body. However, mechanistic evidence for how the microbiome influences energy metabolism is derived from animal models. In this narrative review, we included human studies investigating the relation between gut microbiome and energy metabolism - i.e., energy expenditure in humans and energy harvest by the gut microbiome. Studies have found no consistent gut microbiome patterns associated with energy metabolism, and most interventions were not effective in modulating the gut microbiome to influence energy metabolism. To date, cause-and-effect relationships, and mechanistic evidence on the impact of the gut microbiome on energy expenditure have not been established in humans. Future longitudinal observational studies and randomized controlled trials utilizing robust methodologies and advanced statistical analysis are needed. Such knowledge would potentially inform the design of therapeutic avenues and specific dietary recommendations to improve energy metabolism through gut microbiome modulation.
-
-[Source](https://doi.org/10.1016/j.advnut.2023.03.015)
-
-10.1016/j.advnut.2023.03.015
+[Source](https://twitter.com/CTMRBio?ref_src=twsrc%5Etfw)
 
 ---
 
-## Ruminococcus gnavus: friend or foe for human health.
- 04.04.2023, _EH Crost, E Coletto, A Bell, N Juge_
+## A large scale prediction of bacteriocin gene blocks suggests a wide functional spectrum for bacteriocins.
+ 02.12.2018, _JT Morton, SD Freed, SW Lee, I Friedberg_
 
 
-Ruminococcus gnavus was first identified in 1974 as a strict anaerobe in the gut of healthy individuals, and for several decades, its study has been limited to specific enzymes or bacteriocins. With the advent of metagenomics, R. gnavus has been associated both positively and negatively with an increasing number of intestinal and extra-intestinal diseases from inflammatory bowel diseases to neurological disorders. This prompted renewed interest in understanding the adaptation mechanisms of R. gnavus to the gut, and the molecular mediators affecting its association with health and disease. From ca. 250 publications citing R. gnavus since 1990, 94% were published in the last 10 years. In this review, we describe the biological characterisation of R. gnavus, its occurrence in the infant and adult gut microbiota and the factors influencing its colonisation of the gastrointestinal tract; we also discuss the current state of our knowledge on its role in host health and disease. We highlight gaps in knowledge and discuss the hypothesis that differential health outcomes associated with R. gnavus in the gut are strain and niche specific.
+_Anti-Bacterial Agents, Bacteriocins, Chromosome Mapping, Genome, Archaeal, Genome, Bacterial, Operon, Software_
+Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-discovered functions include virulence factors and signaling molecules as well as their better known roles as antibiotics. To date, close to five hundred bacteriocins have been identified and classified. Recent discoveries have shown that bacteriocins are highly diverse and widely distributed among bacterial species. Given the heterogeneity of bacteriocin compounds, many tools struggle with identifying novel bacteriocins due to their vast sequence and structural diversity. Many bacteriocins undergo post-translational processing or modifications necessary for the biosynthesis of the final mature form. Enzymatic modification of bacteriocins as well as their export is achieved by proteins whose genes are often located in a discrete gene cluster proximal to the bacteriocin precursor gene, referred to as context genes in this study. Although bacteriocins themselves are structurally diverse, context genes have been shown to be largely conserved across unrelated species.
 
-[Source](https://doi.org/10.1093/femsre/fuad014)
+[Source](https://twitter.com/jamietmorton?ref_src=twsrc%5Etfw)
 
-10.1093/femsre/fuad014
-
----
-
-## <em>Ruminococcus gnavus</em>: friend or foe for human health
-
-[Source](https://doi.org/10.1093/femsre/fuad014)
+10.1186/s12859-015-0792-9
 
 ---
 
-## Uncovering the special microbiota associated with occurrence and progression of gastric cancer by using RNA-sequencing.
- 12.04.2023, _B Ai, Y Mei, D Liang, T Wang, H Cai, D Yu_
+## @jamietmorton
 
-
-_Humans, Stomach Neoplasms, Gastrointestinal Microbiome, Microbiota, Carcinogenesis, RNA, Ribosomal, 16S_
-Gastric cancer (GC) has been identified as the third deadly cancer in the world. Accumulating researches suggest a potential role of microorganisms in tumorigenesis. However, the composition of microbiota in GC tissues is not clear and it changes throughout the different stages of GC remain mostly elusive. Our study integrated RNA-Seq data of 727 samples derived from gastric tissues across four datasets and revealed its microbial composition. In order to remove the false positive results, core taxa were defined and characterized. Based on it, we analyzed the influence of biological factors on its composition. The pan-microbiome of gastric tissues was estimated to be over than 1400 genera. Seventeen core genera were identified. Among them, Helicobacter, Lysobacter were significantly enriched in normal tissues, while Pseudomonas was enriched in tumor tissues. Interestingly, Acinetobacter, Pasteurella, Streptomyces, Chlamydia, and Lysobacter, showed a significant increase trend during tumor development and formed strong intra/inter-correlations among them or with other genera. Furthermore, we found that tumor stage played an important role in altering the microbial composition of GC tissues. This study provides support for the in-depth study of tumor microbiome, and the specific microbiome excavated provides a possibility for the subsequent identification of potential biomarkers for GC.
-
-[Source](https://doi.org/10.1038/s41598-023-32809-9)
-
-10.1038/s41598-023-32809-9
+[Source](https://twitter.com/jamietmorton?ref_src=twsrc%5Etfw)
 
 ---
 
-## Intermittent fasting modulates the intestinal microbiota and improves obesity and host energy metabolism.
- 12.04.2023, _X Hu, K Xia, M Dai, X Han, P Yuan, J Liu, S Liu, F Jia, J Chen, F Jiang, J Yu, H Yang, J Wang, X Xu, X Jin, K Kristiansen, L Xiao, W Chen, M Han, S Duan_
+## @JournalSpectrum
 
-
-_Humans, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Intermittent Fasting, Obesity, Metagenome_
-Intermittent fasting (IF) is a promising paradigm for weight loss which has been shown to modulate the gut microbiota based on 16S rRNA gene amplicon sequencing. Here, 72 Chinese volunteers with a wide range of body mass index (BMI) participated in a three-week IF program during which an average loss of 3.67 kg body weight accompanied with improved clinical parameters was observed irrespective of initial anthropometric and gut microbiota status. Fecal samples were collected before and after the intervention and subjected to shotgun metagenomic sequencing. De novo assembly yielded 2934 metagenome-assembled genomes (MAGs). Profiling revealed significant enrichment of Parabacteroides distasonis and Bacteroides thetaiotaomicron after the intervention, with inverse correlations between their relative abundances and parameters related to obesity and atherosclerotic cardiovascular diseases (ASCVD). MAGs enriched after the intervention showed high richness and diversity of carbohydrate-active enzymes, with an increased relative abundances of genes related to succinate production and glutamate fermentation.
-
-[Source](https://doi.org/10.1038/s41522-023-00386-4)
-
-10.1038/s41522-023-00386-4
+[Source](https://twitter.com/JournalSpectrum?ref_src=twsrc%5Etfw)
 
 ---
 
-## The secondary bile acid isoursodeoxycholate correlates with post-prandial lipemia, inflammation, and appetite and changes post-bariatric surgery.
- 06.04.2023, _P Louca, AS Meijnikman, A Nogal, F Asnicar, I Attaye, A Vijay, A Kouraki, A Visconti, K Wong, SE Berry, ER Leeming, O Mompeo, F Tettamanzi, AF Baleanu, M Falchi, G Hadjigeorgiou, J Wolf, YIZ Acherman, AW Van de Laar, VEA Gerdes, GA Michelotti, PW Franks, N Segata, M Mangino, TD Spector, WJ Bulsiewicz, M Nieuwdorp, AM Valdes, C Menni_
+## https://t.co/AvVIkPLCgw
 
-
-Primary and secondary bile acids (BAs) influence metabolism and inflammation, and the gut microbiome modulates levels of BAs. We systematically explore the host genetic, gut microbial, and habitual dietary contribution to a panel of 19 serum and 15 stool BAs in two population-based cohorts (TwinsUK, n = 2,382; ZOE PREDICT-1, n = 327) and assess changes post-bariatric surgery and after nutritional interventions. We report that BAs have a moderately heritable genetic component, and the gut microbiome accurately predicts their levels in serum and stool. The secondary BA isoursodeoxycholate (isoUDCA) can be explained mostly by gut microbes (area under the receiver operating characteristic curve [AUC] = ∼80%) and associates with post-prandial lipemia and inflammation (GlycA). Furthermore, circulating isoUDCA decreases significantly 1 year after bariatric surgery (β = -0.72, p = 1 × 10-5) and in response to fiber supplementation (β = -0.37, p &lt; 0.03) but not omega-3 supplementation. In healthy individuals, isoUDCA fasting levels correlate with pre-meal appetite (p &lt; 1 × 10-4). Our findings indicate an important role for isoUDCA in lipid metabolism, appetite, and, potentially, cardiometabolic risk.
-
-[Source](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00099-X)
-
-10.1016/j.xcrm.2023.100993
+[Source](https://t.co/AvVIkPLCgw)
 
 ---
 
-## Forging the microbiome to help us live long and prosper.
- 05.04.2023, _RR Rock, PJ Turnbaugh_
+## April 13, 2023
 
-
-Aging is often accompanied by an increased risk of an array of diseases spanning the cardiovascular, nervous, and immune systems, among others. Despite remarkable progress in understanding the cellular and molecular mechanisms involved in aging, the role of the microbiome remains understudied. In this Essay, we highlight recent progress towards understanding if and how the microbiome contributes to aging and age-associated diseases. Furthermore, we discuss the need to consider sexually dimorphic phenotypes in the context of aging and the microbiome. We also highlight the broad implications for this emerging area of interdisciplinary research to address long-standing questions about host-microbiome interactions across the life span.
-
-[Source](https://doi.org/10.1371/journal.pbio.3002087)
-
-10.1371/journal.pbio.3002087
+[Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
 
 ---
 
-## Meta-analysis reveals <em>Helicobacter pylori</em> mutual exclusivity and reproducible gastric microbiome alterations during gastric carcinoma progression
+## #MVIF
 
-[Source](https://doi.org/10.1080/19490976.2023.2197835)
-
----
-
-## <em>Lacticaseibacillus rhamnosus</em> Probio-M9 enhanced the antitumor response to anti-PD-1 therapy by modulating intestinal metabolites
-
-[Source](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00098-1/fulltext)
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
 
 ---
 
-## Quantifying Shared and Unique Gene Content across 17 Microbial Ecosystems
+## @MurdochUni
 
-[Source](https://doi.org/10.1128/msystems.00118-23)
-
----
-
-## New carbohydrate binding domains identified by phage display based functional metagenomic screens of human gut microbiota
-
-[Source](https://doi.org/10.1038/s42003-023-04718-0)
+[Source](https://twitter.com/MurdochUni?ref_src=twsrc%5Etfw)
 
 ---
 
-## Genome-resolving metagenomics reveals wild western capercaillies (<em>Tetrao urogallus</em>) as avian hosts for antibiotic-resistance bacteria and their interactions with the gut-virome community
+## @lisafstinson
 
-[Source](https://doi.org/10.1016/j.micres.2023.127372)
-
----
-
-## Cofunctioning of bacterial exometabolites drives root microbiota establishment
-
-[Source](https://doi.org/10.1073/pnas.2221508120)
+[Source](https://twitter.com/lisafstinson?ref_src=twsrc%5Etfw)
 
 ---
 
-## Unveiling the role of emerging metagenomics for the examination of hypersaline environments
+## @OHSUBCB
 
-[Source](https://doi.org/10.1080/02648725.2023.2197717)
-
----
-
-## Multi-scale Adaptive Differential Abundance Analysis in Microbial Compositional Data
-
-[Source](https://doi.org/10.1093/bioinformatics/btad178)
+[Source](https://twitter.com/OHSUBCB?ref_src=twsrc%5Etfw)
 
 ---
 
-## The selection of software and database for metagenomics sequence analysis impacts the outcome of microbial profiling and pathogen detection
+## @ClareLou9
 
-[Source](https://doi.org/10.1371/journal.pone.0284031)
-
----
-
-## An <em>in vitro </em>platform for study of the human gut microbiome under an oxygen gradient
-
-[Source](https://doi.org/10.1007/s10544-023-00653-3)
+[Source](https://twitter.com/ClareLou9?ref_src=twsrc%5Etfw)
 
 ---
 
-## Machine learning model to predict obesity using gut metabolite and brain microstructure data
+## @kfrayman
 
-[Source](https://doi.org/10.1038/s41598-023-32713-2)
+[Source](https://twitter.com/kfrayman?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/e5zd1rzCEp
+
+[Source](https://t.co/e5zd1rzCEp)
+
+---
+
+## pic.twitter.com/b5G0ZDvlka
+
+[Source](https://t.co/b5G0ZDvlka)
+
+---
+
+## April 4, 2023
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+---
+
+## Global trends in antimicrobial resistance on organic and conventional farms 
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.04.07.536071v1)
+
+---
+
+## Microbiome diversity: A barrier to the environmental spread of antimicrobial resistance?
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.03.30.534382v1)
+
+---
+
+## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00043-4)
+
+---
+
+## The Local Tumor Microbiome Is Associated with Survival in Late-Stage Colorectal Cancer Patients
+
+[Source](https://journals.asm.org/doi/10.1128/spectrum.05066-22)
+
+---
+
+## Exploring <em>Bifidobacterium </em>species community and functional variations with human gut microbiome structure and health beyond infancy 
+
+[Source](https://oaepublish.com/mrr/article/view/5583)
+
+---
+
+## The microbial dark matter and "wanted list" in worldwide wastewater treatment plants.
+ 13.04.2023, _Y Zhang, Y Wang, M Tang, J Zhou, T Zhang_
+
+
+_Sewage, Wastewater, RNA, Ribosomal, 16S, Microbiota, Water Purification_
+Wastewater treatment plants (WWTPs) are one of the largest biotechnology applications in the world and are of critical importance to modern urban societies. An accurate evaluation of the microbial dark matter (MDM, microorganisms whose genomes remain uncharacterized) proportions in WWTPs is of great value, while there is no such research yet. This study conducted a global meta-analysis of MDM in WWTPs with 317,542 prokaryotic genomes from the Genome Taxonomy Database and proposed a "wanted list" for priority targets in further investigations of activated sludge.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01503-3)
+
+10.1186/s40168-023-01503-3
+
+---
+
+## Microbiome, resistome and mobilome of chlorine-free drinking water treatment systems.
+ 29.03.2023, _D Calderón-Franco, F Corbera-Rubio, M Cuesta-Sanz, B Pieterse, D de Ridder, MCM van Loosdrecht, D van Halem, M Laureni, DG Weissbrodt_
+
+
+Drinking water treatment plants (DWTPs) are designed to remove physical, chemical, and biological contaminants. However, until recently, the role of DWTPs in minimizing the cycling of antibiotic resistance determinants has got limited attention. In particular, the risk of selecting antibiotic-resistant bacteria (ARB) is largely overlooked in chlorine-free DWTPs where biological processes are applied. Here, we combined high-throughput quantitative PCR and metagenomics to analyze the abundance and dynamics of microbial communities, antibiotic resistance genes (ARGs), and mobile genetic elements (MGEs) across the treatment trains of two chlorine-free DWTPs involving dune-based and reservoir-based systems. The microbial diversity of the water increased after all biological unit operations, namely rapid and slow sand filtration (SSF), and granular activated carbon filtration. Both DWTPs reduced the concentration of ARGs and MGEs in the water by circa 2.5 log gene copies mL-1, despite their relative increase in the disinfection sub-units (SSF in dune-based and UV treatment in reservoir-based DWTPs). The total microbial concentration was also reduced (2.5 log units), and none of the DWTPs enriched for bacteria containing genes linked to antibiotic resistance. Our findings highlight the effectiveness of chlorine-free DWTPs in supplying safe drinking water while reducing the concentration of antibiotic resistance determinants. To the best of our knowledge, this is the first study that monitors the presence and dynamics of antibiotic resistance determinants in chlorine-free DWTPs.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S004313542300341X)
+
+10.1016/j.watres.2023.119905
+
+---
+
+## https://t.co/bDnLZQ4TTR
+
+[Source](https://t.co/bDnLZQ4TTR)
+
+---
+
+## Creating the optimal preoperative nutritional status for neonates undergoing cardiac surgery by implementing a preoperative nutritional support plan.
+ 14.04.2023, _QL Zhang, SJ Zhou, XH Chen, H Cao, Q Chen_
+
+
+The purpose of this study was to explore the effect of a preoperative nutritional support programme on improving preoperative nutritional status and promoting postoperative recovery in neonates undergoing cardiac surgery.
+
+[Source](https://twitter.com/FrancescCorbera/status/1640652069265629184?ref_src=twsrc%5Etfw)
+
+10.1111/jpc.16414
+
+---
+
+## March 28, 2023
+
+[Source](https://twitter.com/FrancescCorbera/status/1640652069265629184?ref_src=twsrc%5Etfw)
+
+---
+
+## Probiotics of <em>Lacticaseibacillus paracasei</em> SD1 and<em> Lacticaseibacillus rhamnosus </em>SD11 attenuate inflammation and β-cell death in streptozotocin-induced type 1 diabetic mice
+
+[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284303)
+
+---
+
+## Antibiotic treatment using amoxicillin-clavulanic acid impairs gut mycobiota development through modification of the bacterial ecosystem.
+ 13.04.2023, _M Spatz, G Da Costa, R Ventin-Holmberg, J Planchais, C Michaudel, Y Wang, C Danne, A Lapiere, ML Michel, KL Kolho, P Langella, H Sokol, ML Richard_
+
+
+_Humans, Mice, Animals, Amoxicillin-Potassium Clavulanate Combination, Anti-Bacterial Agents, Gastrointestinal Tract, Microbiota, Fungi, Bacteria_
+Effects of antibiotics on gut bacteria have been widely studied, but very little is known about the consequences of such treatments on the fungal microbiota (mycobiota). It is commonly believed that fungal load increases in the gastrointestinal tract following antibiotic treatment, but better characterization is clearly needed of how antibiotics directly or indirectly affect the mycobiota and thus the entire microbiota.
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01516-y)
+
+10.1186/s40168-023-01516-y
+
+---
+
+## Experimental Factors Influence Diversity Metrics of the Gut Microbiome in Laboratory Mice
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.04.08.536089v1)
+
+---
+
+## @FZMarques
+
+[Source](https://twitter.com/FZMarques?ref_src=twsrc%5Etfw)
+
+---
+
+## @biorxiv
+
+[Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/fE1pkVNfya
+
+[Source](https://t.co/fE1pkVNfya)
+
+---
+
+## April 12, 2023
+
+[Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
+
+---
+
+## Expanding known viral diversity in the healthy infant gut
+
+[Source](https://www.nature.com/articles/s41564-023-01345-7)
+
+---
+
+## Large-scale phage cultivation for commensal human gut bacteria 
+
+[Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00117-8)
+
+---
+
+## https://t.co/ulVv8lwvXt
+
+[Source](https://t.co/ulVv8lwvXt)
+
+---
+
+## April 13, 2023
+
+[Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
+
+---
+
+## Reducing bias in microbiome research: Comparing methods from sample collection to sequencing
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1094800/full)
+
+---
+
+## In Vitro Modelling of Oral Microbial Invasion in the Human Colon
+
+[Source](https://journals.asm.org/doi/pdf/10.1128/spectrum.04344-22)
+
+---
+
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
+
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
+
+---
+
+## @MicrobiomDigest
+
+[Source](https://twitter.com/MicrobiomDigest?ref_src=twsrc%5Etfw)
+
+---
+
+## @satyx
+
+[Source](https://twitter.com/satyx?ref_src=twsrc%5Etfw)
+
+---
+
+## #DataRadicals
+
+[Source](https://twitter.com/hashtag/DataRadicals?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## https://t.co/M55fYKvLXY
+
+[Source](https://t.co/M55fYKvLXY)
+
+---
+
+## #Podcasts
+
+[Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
+
+---
+
+## pic.twitter.com/NIjzhFNH37
+
+[Source](https://t.co/NIjzhFNH37)
+
+---
+
+## April 12, 2023
+
+[Source](https://twitter.com/Alation/status/1646185262597242887?ref_src=twsrc%5Etfw)
 
 ---
 
