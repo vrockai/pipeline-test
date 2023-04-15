@@ -35,34 +35,9 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
-## Using qualitative study designs to understand treatment burden and capacity for self-care among patients with HIV/NCD multimorbidity in South Africa: A methods paper.
- 14.04.2023, _M van Pinxteren, N Mbokazi, K Murphy, FS Mair, C May, NS Levitt_
-
-
-Low- and middle-income countries (LMICs), including South Africa, are currently experiencing multiple epidemics: HIV and the rising burden of non-communicable diseases (NCDs), leading to different patterns of multimorbidity (the occurrence of two or more chronic conditions) than experienced in high income settings. These adversely affect health outcomes, increase patients' perceived burden of treatment, and impact the workload of self-management. This paper outlines the methods used in a qualitative study exploring burden of treatment among people living with HIV/NCD multimorbidity in South Africa.
-
-[Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
-
-10.1177/26335565231168041
-
----
-
 ## April 13, 2023
 
 [Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
-
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
 
 ---
 
@@ -114,34 +89,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Vogt-Koyanagi-Harada disease in pediatric, adult and elderly: clinical characteristics and visual outcomes.
- 14.04.2023, _P Yang, W Liao, Y Pu, Z Zhong, H Wang, Q Yu, J Cai, W Wang, G Su_
-
-
-To depict a whole spectrum of clinical feartures and visual prognosis among pediatric, adult, and elderly Vogt-Koyanagi-Harada disease (VKH) patients.
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
-
-10.1007/s00417-023-06058-5
-
----
-
 ## April 4, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
-
----
-
-## Characterization of Antibiotic Resistance Gene Abundance and Microbiota Composition in Feces of Organic and Conventional Pigs from Four EU Countries.
- 13.11.2018, _L Gerzova, V Babak, K Sedlar, M Faldynova, P Videnska, D Cejkova, AN Jensen, M Denis, A Kerouanton, A Ricci, V Cibin, J Österberg, I Rychlik_
-
-
-_Animal Husbandry, Animals, Drug Resistance, Bacterial, European Union, Feces, Genes, Bacterial, Microbiota, Organic Agriculture, RNA, Ribosomal, 16S, Swine_
-One of the recent trends in animal production is the revival of interest in organic farming. The increased consumer interest in organic animal farming is mainly due to concerns about animal welfare and the use of antibiotics in conventional farming. On the other hand, providing animals with a more natural lifestyle implies their increased exposure to environmental sources of different microorganisms including pathogens. To address these concerns, we determined the abundance of antibiotic resistance and diversity within fecal microbiota in pigs kept under conventional and organic farming systems in Sweden, Denmark, France and Italy. The abundance of sul1, sul2, strA, tet(A), tet(B) and cat antibiotic resistance genes was determined in 468 samples by real-time PCR and the fecal microbiota diversity was characterized in 48 selected samples by pyrosequencing of V3/V4 regions of 16S rRNA. Contrary to our expectations, there were no extensive differences between the abundance of tested antibiotic resistance genes in microbiota originating from organic or conventionally housed pigs within individual countries. There were also no differences in the microbiota composition of organic and conventional pigs. The only significant difference was the difference in the abundance of antibiotic resistance genes in the samples from different countries. Fecal microbiota in the samples originating from southern European countries (Italy, France) exhibited significantly higher antibiotic resistance gene abundance than those from northern parts of Europe (Denmark, Sweden). Therefore, the geographical location of the herd influenced the antibiotic resistance in the fecal microbiota more than farm's status as organic or conventional.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.04.07.536071v1)
-
-10.1371/journal.pone.0132892
 
 ---
 
@@ -280,15 +230,15 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
-## Decolonization in Sexual and Reproductive Health Research Methods: Protocol for a Scoping Review.
- 14.04.2023, _M Stevens-Uninsky, A Barkhad, T MacDonald, A Perez, L Mbuagbaw_
+## Natalizumab treatment of multiple sclerosis - a Danish nationwide study with 13 years of follow-up.
+ 14.04.2023, _MD Buron, JR Christensen, L Pontieri, H Joensen, M Kant, PV Rasmussen, F Sellebjerg, PS Sørensen, D Bech, M Magyari_
 
 
-As researchers and implementors begin to acknowledge the repercussions of institutionalized colonialism on community and individual health, the need to decolonize research has become clear. Despite this, there is neither a singular definition of decolonizing methodologies nor an overview of the shared principles and characteristics of decolonized research needed to codify this work as common practice in global health.
+Natalizumab is a widely used high-efficacy treatment in multiple sclerosis (MS). Real-world evidence regarding long-term effectiveness and safety is warranted. We performed a nationwide study evaluating prescription patterns, effectiveness, and adverse events.
 
 [Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
 
-10.2196/45771
+10.1016/j.msard.2023.104713
 
 ---
 
@@ -328,15 +278,15 @@ Phages are highly abundant in the human gut, yet most of them remain uncultured.
 
 ---
 
-## Using qualitative study designs to understand treatment burden and capacity for self-care among patients with HIV/NCD multimorbidity in South Africa: A methods paper.
- 14.04.2023, _M van Pinxteren, N Mbokazi, K Murphy, FS Mair, C May, NS Levitt_
+## Natalizumab treatment of multiple sclerosis - a Danish nationwide study with 13 years of follow-up.
+ 14.04.2023, _MD Buron, JR Christensen, L Pontieri, H Joensen, M Kant, PV Rasmussen, F Sellebjerg, PS Sørensen, D Bech, M Magyari_
 
 
-Low- and middle-income countries (LMICs), including South Africa, are currently experiencing multiple epidemics: HIV and the rising burden of non-communicable diseases (NCDs), leading to different patterns of multimorbidity (the occurrence of two or more chronic conditions) than experienced in high income settings. These adversely affect health outcomes, increase patients' perceived burden of treatment, and impact the workload of self-management. This paper outlines the methods used in a qualitative study exploring burden of treatment among people living with HIV/NCD multimorbidity in South Africa.
+Natalizumab is a widely used high-efficacy treatment in multiple sclerosis (MS). Real-world evidence regarding long-term effectiveness and safety is warranted. We performed a nationwide study evaluating prescription patterns, effectiveness, and adverse events.
 
 [Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
 
-10.1177/26335565231168041
+10.1016/j.msard.2023.104713
 
 ---
 
@@ -426,15 +376,15 @@ Eukaryotes such as fungi and protists frequently accompany bacteria and archaea 
 
 ---
 
-## Decolonization in Sexual and Reproductive Health Research Methods: Protocol for a Scoping Review.
- 14.04.2023, _M Stevens-Uninsky, A Barkhad, T MacDonald, A Perez, L Mbuagbaw_
+## Natalizumab treatment of multiple sclerosis - a Danish nationwide study with 13 years of follow-up.
+ 14.04.2023, _MD Buron, JR Christensen, L Pontieri, H Joensen, M Kant, PV Rasmussen, F Sellebjerg, PS Sørensen, D Bech, M Magyari_
 
 
-As researchers and implementors begin to acknowledge the repercussions of institutionalized colonialism on community and individual health, the need to decolonize research has become clear. Despite this, there is neither a singular definition of decolonizing methodologies nor an overview of the shared principles and characteristics of decolonized research needed to codify this work as common practice in global health.
+Natalizumab is a widely used high-efficacy treatment in multiple sclerosis (MS). Real-world evidence regarding long-term effectiveness and safety is warranted. We performed a nationwide study evaluating prescription patterns, effectiveness, and adverse events.
 
 [Source](https://twitter.com/Alation/status/1646185262597242887?ref_src=twsrc%5Etfw)
 
-10.2196/45771
+10.1016/j.msard.2023.104713
 
 ---
 
