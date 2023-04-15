@@ -107,28 +107,15 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
-## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites.
- 22.03.2023, _D Bogaert, GJ van Beveren, EM de Koff, P Lusarreta Parga, CE Balcazar Lopez, L Koppensteiner, M Clerc, R Hasrat, K Arp, MLJN Chu, PCM de Groot, EAM Sanders, MA van Houten, WAA de Steenhuijsen Piters_
-
-
-_Female, Pregnancy, Humans, Infant, Mothers, Microbiota, Delivery, Obstetric, Cesarean Section, Feces_
-Early-life microbiota seeding and subsequent development is crucial to future health. Cesarean-section (CS) birth, as opposed to vaginal delivery, affects early mother-to-infant transmission of microbes. Here, we assess mother-to-infant microbiota seeding and early-life microbiota development across six maternal and four infant niches over the first 30 days of life in 120 mother-infant pairs. Across all infants, we estimate that on average 58.5% of the infant microbiota composition can be attributed to any of the maternal source communities. All maternal source communities seed multiple infant niches. We identify shared and niche-specific host/environmental factors shaping the infant microbiota. In CS-born infants, we report reduced seeding of infant fecal microbiota by maternal fecal microbes, whereas colonization with breastmilk microbiota is increased when compared with vaginally born infants. Therefore, our data suggest auxiliary routes of mother-to-infant microbial seeding, which may compensate for one another, ensuring that essential microbes/microbial functions are transferred irrespective of disrupted transmission routes.
+## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00043-4)
 
-10.1016/j.chom.2023.01.018
-
 ---
 
-## The Local Tumor Microbiome Is Associated with Survival in Late-Stage Colorectal Cancer Patients.
- 12.04.2023, _JW Debelius, L Engstrand, A Matussek, N Brusselaers, JT Morton, M Stenmarker, RS Olsen_
-
-
-The gut microbiome is associated with survival in colorectal cancer. Single organisms have been identified as markers of poor prognosis. However, in situ imaging of tumors demonstrate a polymicrobial tumor-associated community. To understand the role of these polymicrobial communities in survival, we conducted a nested case-control study in late-stage cancer patients undergoing resection for primary adenocarcinoma. The microbiome of paired tumor and adjacent normal tissue samples was profiled using 16S rRNA sequencing. We found a consistent difference in the microbiome between paired tumor and adjacent tissue, despite strong individual microbial identities. Furthermore, a larger difference between normal and tumor tissue was associated with prognosis: patients with shorter survival had a larger difference between normal and tumor tissue. Within the tumor tissue, we identified a 39-member community statistic associated with survival; for every log2-fold increase in this value, an individual's odds of survival increased by 20% (odds ratio survival 1.20; 95% confidence interval = 1.04 to 1.33). Our results suggest that a polymicrobial tumor-specific microbiome is associated with survival in late-stage colorectal cancer patients. IMPORTANCE Microbiome studies in colorectal cancer (CRC) have primarily focused on the role of single organisms in cancer progression. Recent work has identified specific organisms throughout the intestinal tract, which may affect survival; however, the results are inconsistent. We found differences between the tumor microbiome and the microbiome of the rest of the intestine in patients, and the magnitude of this difference was associated with survival, or, the more like a healthy gut a tumor looked, the better a patient's prognosis. Our results suggest that future microbiome-based interventions to affect survival in CRC will need to target the tumor community.
+## The Local Tumor Microbiome Is Associated with Survival in Late-Stage Colorectal Cancer Patients
 
 [Source](https://journals.asm.org/doi/10.1128/spectrum.05066-22)
-
-10.1128/spectrum.05066-22
 
 ---
 
@@ -230,45 +217,21 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
-## Natalizumab treatment of multiple sclerosis - a Danish nationwide study with 13 years of follow-up.
- 14.04.2023, _MD Buron, JR Christensen, L Pontieri, H Joensen, M Kant, PV Rasmussen, F Sellebjerg, PS Sørensen, D Bech, M Magyari_
-
-
-Natalizumab is a widely used high-efficacy treatment in multiple sclerosis (MS). Real-world evidence regarding long-term effectiveness and safety is warranted. We performed a nationwide study evaluating prescription patterns, effectiveness, and adverse events.
-
-[Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
-
-10.1016/j.msard.2023.104713
-
----
-
 ## April 12, 2023
 
 [Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
 
 ---
 
-## Expanding known viral diversity in the healthy infant gut.
- 10.04.2023, _SA Shah, L Deng, J Thorsen, AG Pedersen, MB Dion, JL Castro-Mejía, R Silins, FO Romme, R Sausset, LE Jessen, EO Ndela, M Hjelmsø, MA Rasmussen, TA Redgwell, C Leal Rodríguez, G Vestergaard, Y Zhang, B Chawes, K Bønnelykke, SJ Sørensen, H Bisgaard, F Enault, J Stokholm, S Moineau, MA Petit, DS Nielsen_
-
-
-The gut microbiome is shaped through infancy and impacts the maturation of the immune system, thus protecting against chronic disease later in life. Phages, or viruses that infect bacteria, modulate bacterial growth by lysis and lysogeny, with the latter being especially prominent in the infant gut. Viral metagenomes (viromes) are difficult to analyse because they span uncharted viral diversity, lacking marker genes and standardized detection methods. Here we systematically resolved the viral diversity in faecal viromes from 647 1-year-olds belonging to Copenhagen Prospective Studies on Asthma in Childhood 2010, an unselected Danish cohort of healthy mother-child pairs. By assembly and curation we uncovered 10,000 viral species from 248 virus family-level clades (VFCs). Most (232 VFCs) were previously unknown, belonging to the Caudoviricetes viral class. Hosts were determined for 79% of phage using clustered regularly interspaced short palindromic repeat spacers within bacterial metagenomes from the same children. Typical Bacteroides-infecting crAssphages were outnumbered by undescribed phage families infecting Clostridiales and Bifidobacterium. Phage lifestyles were conserved at the viral family level, with 33 virulent and 118 temperate phage families. Virulent phages were more abundant, while temperate ones were more prevalent and diverse. Together, the viral families found in this study expand existing phage taxonomy and provide a resource aiding future infant gut virome research.
+## Expanding known viral diversity in the healthy infant gut
 
 [Source](https://www.nature.com/articles/s41564-023-01345-7)
 
-10.1038/s41564-023-01345-7
-
 ---
 
-## Large-scale phage cultivation for commensal human gut bacteria.
- 13.04.2023, _J Shen, J Zhang, L Mo, Y Li, Y Li, C Li, X Kuang, Z Tao, Z Qu, L Wu, J Chen, S Liu, L Zeng, Z He, Z Chen, Y Deng, T Zhang, B Li, L Dai, Y Ma_
-
-
-Phages are highly abundant in the human gut, yet most of them remain uncultured. Here, we present a gut phage isolate collection (GPIC) containing 209 phages for 42 commensal human gut bacterial species. Genome analysis of the phages identified 34 undescribed genera. We discovered 22 phages from the Salasmaviridae family that have small genomes (∼10-20 kbp) and infect Gram-positive bacteria. Two phages from a candidate family, Paboviridae, with high prevalence in the human gut were also identified. Infection assays showed that Bacteroides and Parabacteroides phages are specific to a bacterial species, and strains of the same species also exhibit substantial variations in phage susceptibility. A cocktail of 8 phages with a broad host range for Bacteroides fragilis strains effectively reduced their abundance in complex host-derived communities in vitro. Our study expands the diversity of cultured human gut bacterial phages and provides a valuable resource for human microbiome engineering.
+## Large-scale phage cultivation for commensal human gut bacteria 
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00117-8)
-
-10.1016/j.chom.2023.03.013
 
 ---
 
@@ -278,34 +241,9 @@ Phages are highly abundant in the human gut, yet most of them remain uncultured.
 
 ---
 
-## Natalizumab treatment of multiple sclerosis - a Danish nationwide study with 13 years of follow-up.
- 14.04.2023, _MD Buron, JR Christensen, L Pontieri, H Joensen, M Kant, PV Rasmussen, F Sellebjerg, PS Sørensen, D Bech, M Magyari_
-
-
-Natalizumab is a widely used high-efficacy treatment in multiple sclerosis (MS). Real-world evidence regarding long-term effectiveness and safety is warranted. We performed a nationwide study evaluating prescription patterns, effectiveness, and adverse events.
-
-[Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
-
-10.1016/j.msard.2023.104713
-
----
-
 ## April 13, 2023
 
 [Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
-
----
-
-## The effect of storage conditions on microbial communities in stool.
- 09.04.2020, _K Nel Van Zyl, AC Whitelaw, M Newton-Foot_
-
-
-_Child, Preschool, DNA, Bacterial, Enterobacteriaceae, Feces, Fungi, Humans, Microbiota, RNA, Ribosomal, 16S, Specimen Handling_
-Microbiome research has experienced a surge of interest in recent years due to the advances and reduced cost of next-generation sequencing technology. The production of high quality and comparable data is dependent on proper sample collection and storage and should be standardized as far as possible. However, this becomes challenging when samples are collected in the field, especially in resource-limited settings. We investigated the impact of different stool storage methods common to the TB-CHAMP clinical trial on the microbial communities in stool. Ten stool samples were subjected to DNA extraction after 48-hour storage at -80°C, room temperature and in a cooler-box, as well as immediate DNA extraction. Three stool DNA extraction kits were evaluated based on DNA yield and quality. Quantitative PCR was performed to determine the relative abundance of the two major gut phyla Bacteroidetes and Firmicutes, and other representative microbial groups. The bacterial populations in the frozen group closely resembled the immediate extraction group, supporting previous findings that storage at -80°C is equivalent to the gold standard of immediate DNA extraction. More variation was seen in the room temperature and cooler-box groups, which may be due to the growth temperature preferences of certain bacterial populations. However, for most bacterial populations, no significant differences were found between the storage groups. As seen in other microbiome studies, the variation between participant samples was greater than that related to differences in storage. We determined that the risk of introducing bias to microbial community profiling through differences in storage will likely be minimal in our setting.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1094800/full)
-
-10.1371/journal.pone.0227486
 
 ---
 
@@ -315,28 +253,15 @@ Microbiome research has experienced a surge of interest in recent years due to t
 
 ---
 
-## In Vitro Modelling of Oral Microbial Invasion in the Human Colon.
- 27.03.2023, _L Etienne-Mesmin, V Meslier, O Uriot, E Fournier, C Deschamps, S Denis, A David, S Jegou, C Morabito, B Quinquis, F Thirion, F Plaza Oñate, E Le Chatelier, SD Ehrlich, S Blanquet-Diot, M Almeida_
-
-
-Recent advances in the human microbiome characterization have revealed significant oral microbial detection in stools of dysbiotic patients. However, little is known about the potential interactions of these invasive oral microorganisms with commensal intestinal microbiota and the host. In this proof-of-concept study, we proposed a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Oral invasion of the intestinal microbiota was simulated by injection of enriched saliva in the in vitro colon model inoculated with a fecal sample from the same healthy adult donor. The mucosal compartment of M-ARCOL was able to retain the highest species richness levels over time, while species richness levels decreased in the luminal compartment. This study also showed that oral microorganisms preferably colonized the mucosal microenvironment, suggesting potential oral-to-intestinal mucosal competitions. This new model of oral-to-gut invasion can provide useful mechanistic insights into the role of oral microbiome in various disease processes. IMPORTANCE Here, we propose a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Our study revealed the importance of integrating the mucus compartment, which retained higher microbial richness during fermentation, showed the preference of oral microbial invaders for the mucosal resources, and indicated potential oral-to-intestinal mucosal competitions. It also underlined promising opportunities to further understand mechanisms of oral invasion into the human gut microbiome, define microbe-microbe and mucus-microbe interactions in a compartmentalized fashion, and help to better characterize the potential of oral microbial invasion and their persistence in the gut.
+## In Vitro Modelling of Oral Microbial Invasion in the Human Colon
 
 [Source](https://journals.asm.org/doi/pdf/10.1128/spectrum.04344-22)
 
-10.1128/spectrum.04344-22
-
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
- 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
-
-
-_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
-Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
-
-10.1186/s40168-023-01505-1
 
 ---
 
@@ -361,6 +286,19 @@ Eukaryotes such as fungi and protists frequently accompany bacteria and archaea 
 ## https://t.co/M55fYKvLXY
 
 [Source](https://t.co/M55fYKvLXY)
+
+---
+
+## Factors predicting the transition from acute to persistent pain in people with 'sciatica': the FORECAST longitudinal prognostic factor cohort study protocol.
+ 09.04.2023, _AB Schmid, L Ridgway, L Hailey, M Tachrount, F Probert, KR Martin, W Scott, G Crombez, C Price, C Robinson, S Koushesh, S Ather, B Tampin, M Barbero, D Nanz, S Clare, J Fairbank, G Baskozos_
+
+
+_Humans, Cohort Studies, Longitudinal Studies, Prognosis, Prospective Studies, Quality of Life, Sciatica, Low Back Pain_
+Sciatica is a common condition and is associated with higher levels of pain, disability, poorer quality of life, and increased use of health resources compared with low back pain alone. Although many patients recover, a third develop persistent sciatica symptoms. It remains unclear, why some patients develop persistent sciatica as none of the traditionally considered clinical parameters (eg, symptom severity, routine MRI) are consistent prognostic factors.The FORECAST study (factors predicting the transition from acute to persistent pain in people with 'sciatica') will take a different approach by exploring mechanism-based subgroups in patients with sciatica and investigate whether a mechanism-based approach can identify factors that predict pain persistence in patients with sciatica.
+
+[Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2023-072832
 
 ---
 
