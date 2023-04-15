@@ -35,9 +35,34 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
+## High-flow nasal oxygen vs. standard oxygen therapy for patients undergoing transcatheter aortic valve replacement with conscious sedation: a randomised controlled trial.
+ 14.04.2023, _S Scheuermann, A Tan, P Govender, M Mckie, J Pack, G Martinez, F Falter, S George, A A Klein_
+
+
+Minimally invasive surgery is becoming more common and transfemoral transcatheter aortic valve replacement is offered to older patients with multiple comorbidities. Sternotomy is not required but patients must lie flat and still for up to 2-3 h. This procedure is increasingly being performed under conscious sedation with supplementary oxygen, but hypoxia and agitation are commonly observed.
+
+[Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
+
+10.1186/s13741-023-00300-8
+
+---
+
 ## April 13, 2023
 
 [Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
+
+---
+
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+
+
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijerph19010099
 
 ---
 
@@ -89,9 +114,34 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
+## Perceived changes in the mental well-being among Nigerians due to Ramadan Intermittent Fasting during the COVID-19 pandemic.
+ 15.04.2023, _SK Sulaiman, FI Tsiga-Ahmed, T Arora, ME Faris, MS Musa, YA Kareem, FM Dayyab, A Hussein, S Sale, SF Javaid, MA Khan_
+
+
+Muslims fast every year during the month of Ramadan from dawn until dusk. This study examined mental well-being and correlating factors among Nigerian adults who observed Ramadan intermittent fasting (RIF).
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+10.1002/brb3.2990
+
+---
+
 ## April 4, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+---
+
+## Characterization of Antibiotic Resistance Gene Abundance and Microbiota Composition in Feces of Organic and Conventional Pigs from Four EU Countries.
+ 13.11.2018, _L Gerzova, V Babak, K Sedlar, M Faldynova, P Videnska, D Cejkova, AN Jensen, M Denis, A Kerouanton, A Ricci, V Cibin, J Österberg, I Rychlik_
+
+
+_Animal Husbandry, Animals, Drug Resistance, Bacterial, European Union, Feces, Genes, Bacterial, Microbiota, Organic Agriculture, RNA, Ribosomal, 16S, Swine_
+One of the recent trends in animal production is the revival of interest in organic farming. The increased consumer interest in organic animal farming is mainly due to concerns about animal welfare and the use of antibiotics in conventional farming. On the other hand, providing animals with a more natural lifestyle implies their increased exposure to environmental sources of different microorganisms including pathogens. To address these concerns, we determined the abundance of antibiotic resistance and diversity within fecal microbiota in pigs kept under conventional and organic farming systems in Sweden, Denmark, France and Italy. The abundance of sul1, sul2, strA, tet(A), tet(B) and cat antibiotic resistance genes was determined in 468 samples by real-time PCR and the fecal microbiota diversity was characterized in 48 selected samples by pyrosequencing of V3/V4 regions of 16S rRNA. Contrary to our expectations, there were no extensive differences between the abundance of tested antibiotic resistance genes in microbiota originating from organic or conventionally housed pigs within individual countries. There were also no differences in the microbiota composition of organic and conventional pigs. The only significant difference was the difference in the abundance of antibiotic resistance genes in the samples from different countries. Fecal microbiota in the samples originating from southern European countries (Italy, France) exhibited significantly higher antibiotic resistance gene abundance than those from northern parts of Europe (Denmark, Sweden). Therefore, the geographical location of the herd influenced the antibiotic resistance in the fecal microbiota more than farm's status as organic or conventional.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.04.07.536071v1)
+
+10.1371/journal.pone.0132892
 
 ---
 
@@ -218,6 +268,18 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
+## Use of Selective Alternative Therapies for Treatment of OCD.
+ 13.04.2023, _I Khan, TA Jaura, A Tukruna, A Arif, SS Tebha, S Nasir, D Mukherjee, N Masroor, A Yosufi_
+
+
+About 40% of the people with the obsessive-compulsive-disorder do not experience the desired outcome after the existing treatment, and its several side effects were reported. This systematic review was conducted to evaluate the efficacy and tolerability of alternative drugs and assess the possibility of their use as treatment options for obsessive-compulsive-disorder. The Scientific databases PubMed, Science Direct, Google Scholar, Cochrane, Directory of Open Access Journals, MedRxiv and BioRxiv, were searched from inception to March 2022, using appropriate search strategies for each drug and following the Prisma guidelines 2020. Studies were selected according to the already set criteria and assessed for bias. Data were extracted, and descriptive and continuous data were analyzed and presented as frequency/percentage and mean. A total of 16 observational and interventional studies were included for data extraction. The studies focused on four drugs, Psilocybin (n=4), Cannabis (n=7), Nicotine (n=3), and Morphine (n=2), that were used to test out their effect on OCD symptoms. Overall, the majority of the studies showed promising results by documenting a reduction in Y-BOCS scores. However, few subjects, specifically those using nicotine or Cannabis, did not affect their condition or self-reported worsening symptoms. Few side effects were also noticed. This systematic review found that the drugs mostly showed a positive response. All Psilocybin and morphine users, 88.2% and 74.1% of the nicotine and Cannabis users, respectively, reported experiencing the positive effect of these drugs, indicating that these drugs have the potential to be used in the management of OCD. However, further research is required in this arena to thoroughly understand the mechanism of action by which these drugs produce their therapeutic effect. Policies to destigmatize and encourage clinical trials with these drugs are crucial for exploring the use of these drugs as a treatment option for OCD.
+
+[Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
+
+10.2147/NDT.S403997
+
+---
+
 ## @biorxiv
 
 [Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
@@ -227,6 +289,18 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 ## https://t.co/fE1pkVNfya
 
 [Source](https://t.co/fE1pkVNfya)
+
+---
+
+## Perceived changes in the mental well-being among Nigerians due to Ramadan Intermittent Fasting during the COVID-19 pandemic.
+ 15.04.2023, _SK Sulaiman, FI Tsiga-Ahmed, T Arora, ME Faris, MS Musa, YA Kareem, FM Dayyab, A Hussein, S Sale, SF Javaid, MA Khan_
+
+
+Muslims fast every year during the month of Ramadan from dawn until dusk. This study examined mental well-being and correlating factors among Nigerian adults who observed Ramadan intermittent fasting (RIF).
+
+[Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
+
+10.1002/brb3.2990
 
 ---
 
@@ -352,6 +426,19 @@ Eukaryotes such as fungi and protists frequently accompany bacteria and archaea 
 
 ---
 
+## Factors predicting the transition from acute to persistent pain in people with 'sciatica': the FORECAST longitudinal prognostic factor cohort study protocol.
+ 09.04.2023, _AB Schmid, L Ridgway, L Hailey, M Tachrount, F Probert, KR Martin, W Scott, G Crombez, C Price, C Robinson, S Koushesh, S Ather, B Tampin, M Barbero, D Nanz, S Clare, J Fairbank, G Baskozos_
+
+
+_Humans, Cohort Studies, Longitudinal Studies, Prognosis, Prospective Studies, Quality of Life, Sciatica, Low Back Pain_
+Sciatica is a common condition and is associated with higher levels of pain, disability, poorer quality of life, and increased use of health resources compared with low back pain alone. Although many patients recover, a third develop persistent sciatica symptoms. It remains unclear, why some patients develop persistent sciatica as none of the traditionally considered clinical parameters (eg, symptom severity, routine MRI) are consistent prognostic factors.The FORECAST study (factors predicting the transition from acute to persistent pain in people with 'sciatica') will take a different approach by exploring mechanism-based subgroups in patients with sciatica and investigate whether a mechanism-based approach can identify factors that predict pain persistence in patients with sciatica.
+
+[Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2023-072832
+
+---
+
 ## #Podcasts
 
 [Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
@@ -364,15 +451,15 @@ Eukaryotes such as fungi and protists frequently accompany bacteria and archaea 
 
 ---
 
-## Salty taste test for a low-salt diet to control blood pressure.
- 14.04.2023, _SH Yang, JC Ha, MJ Kim_
+## Perceived changes in the mental well-being among Nigerians due to Ramadan Intermittent Fasting during the COVID-19 pandemic.
+ 15.04.2023, _SK Sulaiman, FI Tsiga-Ahmed, T Arora, ME Faris, MS Musa, YA Kareem, FM Dayyab, A Hussein, S Sale, SF Javaid, MA Khan_
 
 
-Reducing salt intake helps prevent complications of cerebrovascular disease. To help patients accept a low-sodium diet, the salty taste test is used to evaluate how much salt an individual actually consumes. The aim of this study was to help patients with hypertension reduce their salt intake by helping them recognize the difference between their subjective perception of saltiness and the objective test results.
+Muslims fast every year during the month of Ramadan from dawn until dusk. This study examined mental well-being and correlating factors among Nigerian adults who observed Ramadan intermittent fasting (RIF).
 
 [Source](https://twitter.com/Alation/status/1646185262597242887?ref_src=twsrc%5Etfw)
 
-10.1186/s40885-023-00236-7
+10.1002/brb3.2990
 
 ---
 
