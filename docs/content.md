@@ -114,9 +114,34 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
+## Dupilumab improves eosinophilic otitis media associated with eosinophilic chronic rhinosinusitis.
+ 15.04.2023, _D Nakashima, T Nakayama, S Minagawa, T Adachi, C Mitsuyama, Y Shida, T Nakajima, SI Haruna, Y Matsuwaki_
+
+
+Eosinophilic otitis media (EOM) is a refractory condition associated with eosinophilic chronic rhinosinusitis and bronchial asthma. EOM is characterized by type-2 inflammation and is refractory to various treatments. We investigated the efficacy of dupilumab, interleukin-4 receptor alpha antagonist, for patients with EOM complicated by eosinophilic chronic rhinosinusitis (ECRS).
+
+[Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+10.1016/j.alit.2023.03.007
+
+---
+
 ## April 4, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
+
+---
+
+## Characterization of Antibiotic Resistance Gene Abundance and Microbiota Composition in Feces of Organic and Conventional Pigs from Four EU Countries.
+ 13.11.2018, _L Gerzova, V Babak, K Sedlar, M Faldynova, P Videnska, D Cejkova, AN Jensen, M Denis, A Kerouanton, A Ricci, V Cibin, J Österberg, I Rychlik_
+
+
+_Animal Husbandry, Animals, Drug Resistance, Bacterial, European Union, Feces, Genes, Bacterial, Microbiota, Organic Agriculture, RNA, Ribosomal, 16S, Swine_
+One of the recent trends in animal production is the revival of interest in organic farming. The increased consumer interest in organic animal farming is mainly due to concerns about animal welfare and the use of antibiotics in conventional farming. On the other hand, providing animals with a more natural lifestyle implies their increased exposure to environmental sources of different microorganisms including pathogens. To address these concerns, we determined the abundance of antibiotic resistance and diversity within fecal microbiota in pigs kept under conventional and organic farming systems in Sweden, Denmark, France and Italy. The abundance of sul1, sul2, strA, tet(A), tet(B) and cat antibiotic resistance genes was determined in 468 samples by real-time PCR and the fecal microbiota diversity was characterized in 48 selected samples by pyrosequencing of V3/V4 regions of 16S rRNA. Contrary to our expectations, there were no extensive differences between the abundance of tested antibiotic resistance genes in microbiota originating from organic or conventionally housed pigs within individual countries. There were also no differences in the microbiota composition of organic and conventional pigs. The only significant difference was the difference in the abundance of antibiotic resistance genes in the samples from different countries. Fecal microbiota in the samples originating from southern European countries (Italy, France) exhibited significantly higher antibiotic resistance gene abundance than those from northern parts of Europe (Denmark, Sweden). Therefore, the geographical location of the herd influenced the antibiotic resistance in the fecal microbiota more than farm's status as organic or conventional.
+
+[Source](https://www.biorxiv.org/content/10.1101/2023.04.07.536071v1)
+
+10.1371/journal.pone.0132892
 
 ---
 
@@ -243,6 +268,18 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
+## Use of Selective Alternative Therapies for Treatment of OCD.
+ 13.04.2023, _I Khan, TA Jaura, A Tukruna, A Arif, SS Tebha, S Nasir, D Mukherjee, N Masroor, A Yosufi_
+
+
+About 40% of the people with the obsessive-compulsive-disorder do not experience the desired outcome after the existing treatment, and its several side effects were reported. This systematic review was conducted to evaluate the efficacy and tolerability of alternative drugs and assess the possibility of their use as treatment options for obsessive-compulsive-disorder. The Scientific databases PubMed, Science Direct, Google Scholar, Cochrane, Directory of Open Access Journals, MedRxiv and BioRxiv, were searched from inception to March 2022, using appropriate search strategies for each drug and following the Prisma guidelines 2020. Studies were selected according to the already set criteria and assessed for bias. Data were extracted, and descriptive and continuous data were analyzed and presented as frequency/percentage and mean. A total of 16 observational and interventional studies were included for data extraction. The studies focused on four drugs, Psilocybin (n=4), Cannabis (n=7), Nicotine (n=3), and Morphine (n=2), that were used to test out their effect on OCD symptoms. Overall, the majority of the studies showed promising results by documenting a reduction in Y-BOCS scores. However, few subjects, specifically those using nicotine or Cannabis, did not affect their condition or self-reported worsening symptoms. Few side effects were also noticed. This systematic review found that the drugs mostly showed a positive response. All Psilocybin and morphine users, 88.2% and 74.1% of the nicotine and Cannabis users, respectively, reported experiencing the positive effect of these drugs, indicating that these drugs have the potential to be used in the management of OCD. However, further research is required in this arena to thoroughly understand the mechanism of action by which these drugs produce their therapeutic effect. Policies to destigmatize and encourage clinical trials with these drugs are crucial for exploring the use of these drugs as a treatment option for OCD.
+
+[Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
+
+10.2147/NDT.S403997
+
+---
+
 ## @biorxiv
 
 [Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
@@ -340,15 +377,9 @@ Microbiome research has experienced a surge of interest in recent years due to t
 
 ---
 
-## In Vitro Modelling of Oral Microbial Invasion in the Human Colon.
- 15.04.2023, _L Etienne-Mesmin, V Meslier, O Uriot, E Fournier, C Deschamps, S Denis, A David, S Jegou, C Morabito, B Quinquis, F Thirion, F Plaza Oñate, E Le Chatelier, SD Ehrlich, S Blanquet-Diot, M Almeida_
-
-
-Recent advances in the human microbiome characterization have revealed significant oral microbial detection in stools of dysbiotic patients. However, little is known about the potential interactions of these invasive oral microorganisms with commensal intestinal microbiota and the host. In this proof-of-concept study, we proposed a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Oral invasion of the intestinal microbiota was simulated by injection of enriched saliva in the in vitro colon model inoculated with a fecal sample from the same healthy adult donor. The mucosal compartment of M-ARCOL was able to retain the highest species richness levels over time, while species richness levels decreased in the luminal compartment. This study also showed that oral microorganisms preferably colonized the mucosal microenvironment, suggesting potential oral-to-intestinal mucosal competitions. This new model of oral-to-gut invasion can provide useful mechanistic insights into the role of oral microbiome in various disease processes. IMPORTANCE Here, we propose a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Our study revealed the importance of integrating the mucus compartment, which retained higher microbial richness during fermentation, showed the preference of oral microbial invaders for the mucosal resources, and indicated potential oral-to-intestinal mucosal competitions. It also underlined promising opportunities to further understand mechanisms of oral invasion into the human gut microbiome, define microbe-microbe and mucus-microbe interactions in a compartmentalized fashion, and help to better characterize the potential of oral microbial invasion and their persistence in the gut.
+## In Vitro Modelling of Oral Microbial Invasion in the Human Colon
 
 [Source](https://journals.asm.org/doi/pdf/10.1128/spectrum.04344-22)
-
-10.1128/spectrum.04344-22
 
 ---
 
@@ -386,6 +417,19 @@ Eukaryotes such as fungi and protists frequently accompany bacteria and archaea 
 ## https://t.co/M55fYKvLXY
 
 [Source](https://t.co/M55fYKvLXY)
+
+---
+
+## Factors predicting the transition from acute to persistent pain in people with 'sciatica': the FORECAST longitudinal prognostic factor cohort study protocol.
+ 09.04.2023, _AB Schmid, L Ridgway, L Hailey, M Tachrount, F Probert, KR Martin, W Scott, G Crombez, C Price, C Robinson, S Koushesh, S Ather, B Tampin, M Barbero, D Nanz, S Clare, J Fairbank, G Baskozos_
+
+
+_Humans, Cohort Studies, Longitudinal Studies, Prognosis, Prospective Studies, Quality of Life, Sciatica, Low Back Pain_
+Sciatica is a common condition and is associated with higher levels of pain, disability, poorer quality of life, and increased use of health resources compared with low back pain alone. Although many patients recover, a third develop persistent sciatica symptoms. It remains unclear, why some patients develop persistent sciatica as none of the traditionally considered clinical parameters (eg, symptom severity, routine MRI) are consistent prognostic factors.The FORECAST study (factors predicting the transition from acute to persistent pain in people with 'sciatica') will take a different approach by exploring mechanism-based subgroups in patients with sciatica and investigate whether a mechanism-based approach can identify factors that predict pain persistence in patients with sciatica.
+
+[Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
+
+10.1136/bmjopen-2023-072832
 
 ---
 
