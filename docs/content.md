@@ -35,34 +35,9 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
-## High-flow nasal oxygen vs. standard oxygen therapy for patients undergoing transcatheter aortic valve replacement with conscious sedation: a randomised controlled trial.
- 14.04.2023, _S Scheuermann, A Tan, P Govender, M Mckie, J Pack, G Martinez, F Falter, S George, A A Klein_
-
-
-Minimally invasive surgery is becoming more common and transfemoral transcatheter aortic valve replacement is offered to older patients with multiple comorbidities. Sternotomy is not required but patients must lie flat and still for up to 2-3 h. This procedure is increasingly being performed under conscious sedation with supplementary oxygen, but hypoxia and agitation are commonly observed.
-
-[Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
-
-10.1186/s13741-023-00300-8
-
----
-
 ## April 13, 2023
 
 [Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
-
----
-
-## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
- 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
-
-
-_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
-This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
-
-[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
-
-10.3390/ijerph19010099
 
 ---
 
@@ -114,34 +89,9 @@ This study will evaluate cardiorespiratory and peripheral muscle function and th
 
 ---
 
-## Perceived changes in the mental well-being among Nigerians due to Ramadan Intermittent Fasting during the COVID-19 pandemic.
- 15.04.2023, _SK Sulaiman, FI Tsiga-Ahmed, T Arora, ME Faris, MS Musa, YA Kareem, FM Dayyab, A Hussein, S Sale, SF Javaid, MA Khan_
-
-
-Muslims fast every year during the month of Ramadan from dawn until dusk. This study examined mental well-being and correlating factors among Nigerian adults who observed Ramadan intermittent fasting (RIF).
-
-[Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
-
-10.1002/brb3.2990
-
----
-
 ## April 4, 2023
 
 [Source](https://twitter.com/MicrobiomeVIF/status/1643235758361198592?ref_src=twsrc%5Etfw)
-
----
-
-## Characterization of Antibiotic Resistance Gene Abundance and Microbiota Composition in Feces of Organic and Conventional Pigs from Four EU Countries.
- 13.11.2018, _L Gerzova, V Babak, K Sedlar, M Faldynova, P Videnska, D Cejkova, AN Jensen, M Denis, A Kerouanton, A Ricci, V Cibin, J Österberg, I Rychlik_
-
-
-_Animal Husbandry, Animals, Drug Resistance, Bacterial, European Union, Feces, Genes, Bacterial, Microbiota, Organic Agriculture, RNA, Ribosomal, 16S, Swine_
-One of the recent trends in animal production is the revival of interest in organic farming. The increased consumer interest in organic animal farming is mainly due to concerns about animal welfare and the use of antibiotics in conventional farming. On the other hand, providing animals with a more natural lifestyle implies their increased exposure to environmental sources of different microorganisms including pathogens. To address these concerns, we determined the abundance of antibiotic resistance and diversity within fecal microbiota in pigs kept under conventional and organic farming systems in Sweden, Denmark, France and Italy. The abundance of sul1, sul2, strA, tet(A), tet(B) and cat antibiotic resistance genes was determined in 468 samples by real-time PCR and the fecal microbiota diversity was characterized in 48 selected samples by pyrosequencing of V3/V4 regions of 16S rRNA. Contrary to our expectations, there were no extensive differences between the abundance of tested antibiotic resistance genes in microbiota originating from organic or conventionally housed pigs within individual countries. There were also no differences in the microbiota composition of organic and conventional pigs. The only significant difference was the difference in the abundance of antibiotic resistance genes in the samples from different countries. Fecal microbiota in the samples originating from southern European countries (Italy, France) exhibited significantly higher antibiotic resistance gene abundance than those from northern parts of Europe (Denmark, Sweden). Therefore, the geographical location of the herd influenced the antibiotic resistance in the fecal microbiota more than farm's status as organic or conventional.
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.04.07.536071v1)
-
-10.1371/journal.pone.0132892
 
 ---
 
@@ -157,16 +107,9 @@ One of the recent trends in animal production is the revival of interest in orga
 
 ---
 
-## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites.
- 22.03.2023, _D Bogaert, GJ van Beveren, EM de Koff, P Lusarreta Parga, CE Balcazar Lopez, L Koppensteiner, M Clerc, R Hasrat, K Arp, MLJN Chu, PCM de Groot, EAM Sanders, MA van Houten, WAA de Steenhuijsen Piters_
-
-
-_Female, Pregnancy, Humans, Infant, Mothers, Microbiota, Delivery, Obstetric, Cesarean Section, Feces_
-Early-life microbiota seeding and subsequent development is crucial to future health. Cesarean-section (CS) birth, as opposed to vaginal delivery, affects early mother-to-infant transmission of microbes. Here, we assess mother-to-infant microbiota seeding and early-life microbiota development across six maternal and four infant niches over the first 30 days of life in 120 mother-infant pairs. Across all infants, we estimate that on average 58.5% of the infant microbiota composition can be attributed to any of the maternal source communities. All maternal source communities seed multiple infant niches. We identify shared and niche-specific host/environmental factors shaping the infant microbiota. In CS-born infants, we report reduced seeding of infant fecal microbiota by maternal fecal microbes, whereas colonization with breastmilk microbiota is increased when compared with vaginally born infants. Therefore, our data suggest auxiliary routes of mother-to-infant microbial seeding, which may compensate for one another, ensuring that essential microbes/microbial functions are transferred irrespective of disrupted transmission routes.
+## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00043-4)
-
-10.1016/j.chom.2023.01.018
 
 ---
 
@@ -268,18 +211,6 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
-## Use of Selective Alternative Therapies for Treatment of OCD.
- 13.04.2023, _I Khan, TA Jaura, A Tukruna, A Arif, SS Tebha, S Nasir, D Mukherjee, N Masroor, A Yosufi_
-
-
-About 40% of the people with the obsessive-compulsive-disorder do not experience the desired outcome after the existing treatment, and its several side effects were reported. This systematic review was conducted to evaluate the efficacy and tolerability of alternative drugs and assess the possibility of their use as treatment options for obsessive-compulsive-disorder. The Scientific databases PubMed, Science Direct, Google Scholar, Cochrane, Directory of Open Access Journals, MedRxiv and BioRxiv, were searched from inception to March 2022, using appropriate search strategies for each drug and following the Prisma guidelines 2020. Studies were selected according to the already set criteria and assessed for bias. Data were extracted, and descriptive and continuous data were analyzed and presented as frequency/percentage and mean. A total of 16 observational and interventional studies were included for data extraction. The studies focused on four drugs, Psilocybin (n=4), Cannabis (n=7), Nicotine (n=3), and Morphine (n=2), that were used to test out their effect on OCD symptoms. Overall, the majority of the studies showed promising results by documenting a reduction in Y-BOCS scores. However, few subjects, specifically those using nicotine or Cannabis, did not affect their condition or self-reported worsening symptoms. Few side effects were also noticed. This systematic review found that the drugs mostly showed a positive response. All Psilocybin and morphine users, 88.2% and 74.1% of the nicotine and Cannabis users, respectively, reported experiencing the positive effect of these drugs, indicating that these drugs have the potential to be used in the management of OCD. However, further research is required in this arena to thoroughly understand the mechanism of action by which these drugs produce their therapeutic effect. Policies to destigmatize and encourage clinical trials with these drugs are crucial for exploring the use of these drugs as a treatment option for OCD.
-
-[Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
-
-10.2147/NDT.S403997
-
----
-
 ## @biorxiv
 
 [Source](https://twitter.com/biorxiv?ref_src=twsrc%5Etfw)
@@ -292,45 +223,21 @@ About 40% of the people with the obsessive-compulsive-disorder do not experience
 
 ---
 
-## Perceived changes in the mental well-being among Nigerians due to Ramadan Intermittent Fasting during the COVID-19 pandemic.
- 15.04.2023, _SK Sulaiman, FI Tsiga-Ahmed, T Arora, ME Faris, MS Musa, YA Kareem, FM Dayyab, A Hussein, S Sale, SF Javaid, MA Khan_
-
-
-Muslims fast every year during the month of Ramadan from dawn until dusk. This study examined mental well-being and correlating factors among Nigerian adults who observed Ramadan intermittent fasting (RIF).
-
-[Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
-
-10.1002/brb3.2990
-
----
-
 ## April 12, 2023
 
 [Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
 
 ---
 
-## Expanding known viral diversity in the healthy infant gut.
- 10.04.2023, _SA Shah, L Deng, J Thorsen, AG Pedersen, MB Dion, JL Castro-Mejía, R Silins, FO Romme, R Sausset, LE Jessen, EO Ndela, M Hjelmsø, MA Rasmussen, TA Redgwell, C Leal Rodríguez, G Vestergaard, Y Zhang, B Chawes, K Bønnelykke, SJ Sørensen, H Bisgaard, F Enault, J Stokholm, S Moineau, MA Petit, DS Nielsen_
-
-
-The gut microbiome is shaped through infancy and impacts the maturation of the immune system, thus protecting against chronic disease later in life. Phages, or viruses that infect bacteria, modulate bacterial growth by lysis and lysogeny, with the latter being especially prominent in the infant gut. Viral metagenomes (viromes) are difficult to analyse because they span uncharted viral diversity, lacking marker genes and standardized detection methods. Here we systematically resolved the viral diversity in faecal viromes from 647 1-year-olds belonging to Copenhagen Prospective Studies on Asthma in Childhood 2010, an unselected Danish cohort of healthy mother-child pairs. By assembly and curation we uncovered 10,000 viral species from 248 virus family-level clades (VFCs). Most (232 VFCs) were previously unknown, belonging to the Caudoviricetes viral class. Hosts were determined for 79% of phage using clustered regularly interspaced short palindromic repeat spacers within bacterial metagenomes from the same children. Typical Bacteroides-infecting crAssphages were outnumbered by undescribed phage families infecting Clostridiales and Bifidobacterium. Phage lifestyles were conserved at the viral family level, with 33 virulent and 118 temperate phage families. Virulent phages were more abundant, while temperate ones were more prevalent and diverse. Together, the viral families found in this study expand existing phage taxonomy and provide a resource aiding future infant gut virome research.
+## Expanding known viral diversity in the healthy infant gut
 
 [Source](https://www.nature.com/articles/s41564-023-01345-7)
 
-10.1038/s41564-023-01345-7
-
 ---
 
-## Large-scale phage cultivation for commensal human gut bacteria.
- 13.04.2023, _J Shen, J Zhang, L Mo, Y Li, Y Li, C Li, X Kuang, Z Tao, Z Qu, L Wu, J Chen, S Liu, L Zeng, Z He, Z Chen, Y Deng, T Zhang, B Li, L Dai, Y Ma_
-
-
-Phages are highly abundant in the human gut, yet most of them remain uncultured. Here, we present a gut phage isolate collection (GPIC) containing 209 phages for 42 commensal human gut bacterial species. Genome analysis of the phages identified 34 undescribed genera. We discovered 22 phages from the Salasmaviridae family that have small genomes (∼10-20 kbp) and infect Gram-positive bacteria. Two phages from a candidate family, Paboviridae, with high prevalence in the human gut were also identified. Infection assays showed that Bacteroides and Parabacteroides phages are specific to a bacterial species, and strains of the same species also exhibit substantial variations in phage susceptibility. A cocktail of 8 phages with a broad host range for Bacteroides fragilis strains effectively reduced their abundance in complex host-derived communities in vitro. Our study expands the diversity of cultured human gut bacterial phages and provides a valuable resource for human microbiome engineering.
+## Large-scale phage cultivation for commensal human gut bacteria 
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00117-8)
-
-10.1016/j.chom.2023.03.013
 
 ---
 
@@ -340,34 +247,9 @@ Phages are highly abundant in the human gut, yet most of them remain uncultured.
 
 ---
 
-## High-flow nasal oxygen vs. standard oxygen therapy for patients undergoing transcatheter aortic valve replacement with conscious sedation: a randomised controlled trial.
- 14.04.2023, _S Scheuermann, A Tan, P Govender, M Mckie, J Pack, G Martinez, F Falter, S George, A A Klein_
-
-
-Minimally invasive surgery is becoming more common and transfemoral transcatheter aortic valve replacement is offered to older patients with multiple comorbidities. Sternotomy is not required but patients must lie flat and still for up to 2-3 h. This procedure is increasingly being performed under conscious sedation with supplementary oxygen, but hypoxia and agitation are commonly observed.
-
-[Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
-
-10.1186/s13741-023-00300-8
-
----
-
 ## April 13, 2023
 
 [Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
-
----
-
-## The effect of storage conditions on microbial communities in stool.
- 09.04.2020, _K Nel Van Zyl, AC Whitelaw, M Newton-Foot_
-
-
-_Child, Preschool, DNA, Bacterial, Enterobacteriaceae, Feces, Fungi, Humans, Microbiota, RNA, Ribosomal, 16S, Specimen Handling_
-Microbiome research has experienced a surge of interest in recent years due to the advances and reduced cost of next-generation sequencing technology. The production of high quality and comparable data is dependent on proper sample collection and storage and should be standardized as far as possible. However, this becomes challenging when samples are collected in the field, especially in resource-limited settings. We investigated the impact of different stool storage methods common to the TB-CHAMP clinical trial on the microbial communities in stool. Ten stool samples were subjected to DNA extraction after 48-hour storage at -80°C, room temperature and in a cooler-box, as well as immediate DNA extraction. Three stool DNA extraction kits were evaluated based on DNA yield and quality. Quantitative PCR was performed to determine the relative abundance of the two major gut phyla Bacteroidetes and Firmicutes, and other representative microbial groups. The bacterial populations in the frozen group closely resembled the immediate extraction group, supporting previous findings that storage at -80°C is equivalent to the gold standard of immediate DNA extraction. More variation was seen in the room temperature and cooler-box groups, which may be due to the growth temperature preferences of certain bacterial populations. However, for most bacterial populations, no significant differences were found between the storage groups. As seen in other microbiome studies, the variation between participant samples was greater than that related to differences in storage. We determined that the risk of introducing bias to microbial community profiling through differences in storage will likely be minimal in our setting.
-
-[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1094800/full)
-
-10.1371/journal.pone.0227486
 
 ---
 
@@ -377,28 +259,15 @@ Microbiome research has experienced a surge of interest in recent years due to t
 
 ---
 
-## In Vitro Modelling of Oral Microbial Invasion in the Human Colon.
- 27.03.2023, _L Etienne-Mesmin, V Meslier, O Uriot, E Fournier, C Deschamps, S Denis, A David, S Jegou, C Morabito, B Quinquis, F Thirion, F Plaza Oñate, E Le Chatelier, SD Ehrlich, S Blanquet-Diot, M Almeida_
-
-
-Recent advances in the human microbiome characterization have revealed significant oral microbial detection in stools of dysbiotic patients. However, little is known about the potential interactions of these invasive oral microorganisms with commensal intestinal microbiota and the host. In this proof-of-concept study, we proposed a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Oral invasion of the intestinal microbiota was simulated by injection of enriched saliva in the in vitro colon model inoculated with a fecal sample from the same healthy adult donor. The mucosal compartment of M-ARCOL was able to retain the highest species richness levels over time, while species richness levels decreased in the luminal compartment. This study also showed that oral microorganisms preferably colonized the mucosal microenvironment, suggesting potential oral-to-intestinal mucosal competitions. This new model of oral-to-gut invasion can provide useful mechanistic insights into the role of oral microbiome in various disease processes. IMPORTANCE Here, we propose a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Our study revealed the importance of integrating the mucus compartment, which retained higher microbial richness during fermentation, showed the preference of oral microbial invaders for the mucosal resources, and indicated potential oral-to-intestinal mucosal competitions. It also underlined promising opportunities to further understand mechanisms of oral invasion into the human gut microbiome, define microbe-microbe and mucus-microbe interactions in a compartmentalized fashion, and help to better characterize the potential of oral microbial invasion and their persistence in the gut.
+## In Vitro Modelling of Oral Microbial Invasion in the Human Colon
 
 [Source](https://journals.asm.org/doi/pdf/10.1128/spectrum.04344-22)
 
-10.1128/spectrum.04344-22
-
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
- 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
-
-
-_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
-Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
-
-10.1186/s40168-023-01505-1
 
 ---
 
@@ -426,19 +295,6 @@ Eukaryotes such as fungi and protists frequently accompany bacteria and archaea 
 
 ---
 
-## Factors predicting the transition from acute to persistent pain in people with 'sciatica': the FORECAST longitudinal prognostic factor cohort study protocol.
- 09.04.2023, _AB Schmid, L Ridgway, L Hailey, M Tachrount, F Probert, KR Martin, W Scott, G Crombez, C Price, C Robinson, S Koushesh, S Ather, B Tampin, M Barbero, D Nanz, S Clare, J Fairbank, G Baskozos_
-
-
-_Humans, Cohort Studies, Longitudinal Studies, Prognosis, Prospective Studies, Quality of Life, Sciatica, Low Back Pain_
-Sciatica is a common condition and is associated with higher levels of pain, disability, poorer quality of life, and increased use of health resources compared with low back pain alone. Although many patients recover, a third develop persistent sciatica symptoms. It remains unclear, why some patients develop persistent sciatica as none of the traditionally considered clinical parameters (eg, symptom severity, routine MRI) are consistent prognostic factors.The FORECAST study (factors predicting the transition from acute to persistent pain in people with 'sciatica') will take a different approach by exploring mechanism-based subgroups in patients with sciatica and investigate whether a mechanism-based approach can identify factors that predict pain persistence in patients with sciatica.
-
-[Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
-
-10.1136/bmjopen-2023-072832
-
----
-
 ## #Podcasts
 
 [Source](https://twitter.com/hashtag/Podcasts?src=hash&ref_src=twsrc%5Etfw)
@@ -448,18 +304,6 @@ Sciatica is a common condition and is associated with higher levels of pain, dis
 ## pic.twitter.com/NIjzhFNH37
 
 [Source](https://t.co/NIjzhFNH37)
-
----
-
-## Perceived changes in the mental well-being among Nigerians due to Ramadan Intermittent Fasting during the COVID-19 pandemic.
- 15.04.2023, _SK Sulaiman, FI Tsiga-Ahmed, T Arora, ME Faris, MS Musa, YA Kareem, FM Dayyab, A Hussein, S Sale, SF Javaid, MA Khan_
-
-
-Muslims fast every year during the month of Ramadan from dawn until dusk. This study examined mental well-being and correlating factors among Nigerian adults who observed Ramadan intermittent fasting (RIF).
-
-[Source](https://twitter.com/Alation/status/1646185262597242887?ref_src=twsrc%5Etfw)
-
-10.1002/brb3.2990
 
 ---
 
