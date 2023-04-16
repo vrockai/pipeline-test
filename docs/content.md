@@ -35,9 +35,34 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
+## Trends in SARS-CoV-2 cycle threshold values in the Czech Republic from April 2020 to April 2022.
+ 15.04.2023, _D Musalkova, L Piherova, O Kwasny, Z Dindova, L Stancik, H Hartmannova, O Slama, P Peckova, J Pargac, G Minarik, T Zima, AJ Bleyer, M Radina, M Pohludka, S Kmoch_
+
+
+The inability to predict the evolution of the COVID-19 epidemic hampered abilities to respond to the crisis effectively. The cycle threshold (Ct) from the standard SARS-CoV-2 quantitative reverse transcription-PCR (RT-qPCR) clinical assay is inversely proportional to the amount of SARS-CoV-2 RNA in the sample. We were interested to see if population Ct values could predict future increases in COVID-19 cases as well as subgroups that would be more likely to be affected. This information would have been extremely helpful early in the COVID-19 epidemic. We therefore conducted a retrospective analysis of demographic data and Ct values from 2,076,887 nasopharyngeal swab RT-qPCR tests that were performed at a single diagnostic laboratory in the Czech Republic from April 2020 to April 2022 and from 221,671 tests that were performed as a part of a mandatory school surveillance testing program from March 2021 to March 2022. We found that Ct values could be helpful predictive tools in the real-time management of viral epidemics. First, early measurement of Ct values would have indicated the low viral load in children, equivalent viral load in males and females, and higher viral load in older individuals. Second, rising or falling median Ct values and differences in Ct distribution indicated changes in the transmission in the population. Third, monitoring Ct values and positivity rates would have provided early evidence as to whether prevention measures are effective. Health system authorities should thus consider collecting weekly median Ct values of positively tested samples from major diagnostic laboratories for regional epidemic surveillance.
+
+[Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
+
+10.1038/s41598-023-32953-2
+
+---
+
 ## April 13, 2023
 
 [Source](https://twitter.com/JWoodelius/status/1646525435625488389?ref_src=twsrc%5Etfw)
+
+---
+
+## Mechanism of Dyspnea during Exercise in Children with Corrected Congenital Heart Disease.
+ 24.01.2022, _M Chlif, MM Ammar, NB Said, L Sergey, S Ahmaidi, F Alassery, H Hamam_
+
+
+_Child, Dyspnea, Exercise, Exercise Test, Heart Defects, Congenital, Humans, Oxygen Consumption_
+This study will evaluate cardiorespiratory and peripheral muscle function and their relationship with subjective dyspnea threshold after the surgical correction of congenital heart disease in children. Thirteen children with surgically repaired congenital heart disease were recruited. Each participant performed an incremental exercise test on a cycle ergometer until exhaustion. Gas exchanges were continuously sampled to measure the maximal aerobic parameters and ventilatory thresholds. The functional capacity of the subjects was assessed with a 6 min walk test. At the end of the exercise test, isokinetic Cybex Norm was used to evaluate the strength and endurance of the knee extensor muscle in the leg. Dyspnea was subjectively scored with a visual analog scale during the last 15 s of each exercise step. Oxygen consumption measured at the dyspnea score/VO2 relationship located at the dyspnea threshold, at which dyspnea suddenly increased. Results: The maximal and submaximal values of the parameters describing the exercise and the peripheral muscular performances were: VO2 Peak: 33.8 ± 8.9 mL·min-1·kg-1; HR: 174 ± 9 b·min-1; VEmax: 65.68 ± 15.9 L·min-1; P max: 117 ± 27 W; maximal voluntary isometric force MVIF: 120.8 ± 41.9 N/m; and time to exhaustion Tlim: 53 ± 21 s. Oxygen consumption measured at the dyspnea threshold was related to VO2 Peak (R2 = 0.74; p &lt; 0.01), Tlim (R2 = 0.78; p &lt; 0.01), and the distance achieved during the 6MWT (R2 = 0.57; p &lt; 0.05). Compared to the theoretical maximal values for the power output, VO2, and HR, the surgical correction did not repair the exercise performance. After the surgical correction of congenital heart disease, exercise performance was impeded by alterations of the cardiorespiratory function and peripheral local factors. A subjective evaluation of the dyspnea threshold is a reliable criterion that allows the prediction of exercise capacity in subjects suffering from congenital heart disease.
+
+[Source](https://twitter.com/hashtag/MVIF?src=hash&ref_src=twsrc%5Etfw)
+
+10.3390/ijerph19010099
 
 ---
 
@@ -107,9 +132,16 @@ Bacteriocins are peptide-derived molecules produced by bacteria, whose recently-
 
 ---
 
-## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites
+## Mother-to-infant microbiota transmission and infant microbiota development across multiple body sites.
+ 22.03.2023, _D Bogaert, GJ van Beveren, EM de Koff, P Lusarreta Parga, CE Balcazar Lopez, L Koppensteiner, M Clerc, R Hasrat, K Arp, MLJN Chu, PCM de Groot, EAM Sanders, MA van Houten, WAA de Steenhuijsen Piters_
+
+
+_Female, Pregnancy, Humans, Infant, Mothers, Microbiota, Delivery, Obstetric, Cesarean Section, Feces_
+Early-life microbiota seeding and subsequent development is crucial to future health. Cesarean-section (CS) birth, as opposed to vaginal delivery, affects early mother-to-infant transmission of microbes. Here, we assess mother-to-infant microbiota seeding and early-life microbiota development across six maternal and four infant niches over the first 30 days of life in 120 mother-infant pairs. Across all infants, we estimate that on average 58.5% of the infant microbiota composition can be attributed to any of the maternal source communities. All maternal source communities seed multiple infant niches. We identify shared and niche-specific host/environmental factors shaping the infant microbiota. In CS-born infants, we report reduced seeding of infant fecal microbiota by maternal fecal microbes, whereas colonization with breastmilk microbiota is increased when compared with vaginally born infants. Therefore, our data suggest auxiliary routes of mother-to-infant microbial seeding, which may compensate for one another, ensuring that essential microbes/microbial functions are transferred irrespective of disrupted transmission routes.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00043-4)
+
+10.1016/j.chom.2023.01.018
 
 ---
 
@@ -162,15 +194,15 @@ Drinking water treatment plants (DWTPs) are designed to remove physical, chemica
 
 ---
 
-## Developing next generation 3D-printing for cervical cancer hybrid brachytherapy: a guided interstitial technique enabling improved flexibility, dosimetry, and efficiency.
- 14.04.2023, _M Marar, T Niedermayr, E Kidd_
+## Acquisition of Antibody Against Cytomegalovirus After Kidney Transplantation in Seronegative Recipients.
+ 15.04.2023, _S Ishikawa, M Tasaki, K Saito, Y Nakagawa, M Ikeda, K Takahashi, Y Tomita_
 
 
-We developed a 3D-printed tandem anchored radially guiding interstitial template (TARGIT) to increase the simplicity of intracavitary/interstitial (IC/IS) technique for tandem-and-ovoid (T&amp;O) procedures in cervical cancer brachytherapy. This study compared dosimetry and procedure logistics between T&amp;O implants using the original TARGIT versus the next-generation TARGIT-Flexible-eXtended (TARGIT-FX) 3D-printed template designed for practice-changing ease-of-use with further simplified needle insertion and increased flexibility in needle placement.
+Cytomegalovirus (CMV) infection is one of the most important infectious diseases affecting recipients of kidney transplantation (KTx). However, the timing of seroconversion for CMV infection in seronegative recipients remains unclear. We evaluated CMV infections in CMV-seronegative recipients and the time to acquire antibodies against CMV.
 
 [Source](https://twitter.com/FrancescCorbera/status/1640652069265629184?ref_src=twsrc%5Etfw)
 
-10.1016/j.ijrobp.2023.04.005
+10.1016/j.transproceed.2023.03.007
 
 ---
 
@@ -223,21 +255,45 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
+## Timing of seasonal influenza epidemics for 25 countries in Africa during 2010-19: a retrospective analysis.
+ 15.04.2023, _LS Igboh, K Roguski, P Marcenac, GO Emukule, MD Charles, S Tempia, B Herring, K Vandemaele, A Moen, SJ Olsen, DE Wentworth, R Kondor, JA Mott, S Hirve, JS Bresee, P Mangtani, P Nguipdop-Djomo, E Azziz-Baumgartner_
+
+
+Using country-specific surveillance data to describe influenza epidemic activity could inform decisions on the timing of influenza vaccination. We analysed surveillance data from African countries to characterise the timing of seasonal influenza epidemics to inform national vaccination strategies.
+
+[Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
+
+10.1016/S2214-109X(23)00109-2
+
+---
+
 ## April 12, 2023
 
 [Source](https://twitter.com/rikeishm/status/1645986663292870659?ref_src=twsrc%5Etfw)
 
 ---
 
-## Expanding known viral diversity in the healthy infant gut
+## Expanding known viral diversity in the healthy infant gut.
+ 10.04.2023, _SA Shah, L Deng, J Thorsen, AG Pedersen, MB Dion, JL Castro-Mejía, R Silins, FO Romme, R Sausset, LE Jessen, EO Ndela, M Hjelmsø, MA Rasmussen, TA Redgwell, C Leal Rodríguez, G Vestergaard, Y Zhang, B Chawes, K Bønnelykke, SJ Sørensen, H Bisgaard, F Enault, J Stokholm, S Moineau, MA Petit, DS Nielsen_
+
+
+The gut microbiome is shaped through infancy and impacts the maturation of the immune system, thus protecting against chronic disease later in life. Phages, or viruses that infect bacteria, modulate bacterial growth by lysis and lysogeny, with the latter being especially prominent in the infant gut. Viral metagenomes (viromes) are difficult to analyse because they span uncharted viral diversity, lacking marker genes and standardized detection methods. Here we systematically resolved the viral diversity in faecal viromes from 647 1-year-olds belonging to Copenhagen Prospective Studies on Asthma in Childhood 2010, an unselected Danish cohort of healthy mother-child pairs. By assembly and curation we uncovered 10,000 viral species from 248 virus family-level clades (VFCs). Most (232 VFCs) were previously unknown, belonging to the Caudoviricetes viral class. Hosts were determined for 79% of phage using clustered regularly interspaced short palindromic repeat spacers within bacterial metagenomes from the same children. Typical Bacteroides-infecting crAssphages were outnumbered by undescribed phage families infecting Clostridiales and Bifidobacterium. Phage lifestyles were conserved at the viral family level, with 33 virulent and 118 temperate phage families. Virulent phages were more abundant, while temperate ones were more prevalent and diverse. Together, the viral families found in this study expand existing phage taxonomy and provide a resource aiding future infant gut virome research.
 
 [Source](https://www.nature.com/articles/s41564-023-01345-7)
 
+10.1038/s41564-023-01345-7
+
 ---
 
-## Large-scale phage cultivation for commensal human gut bacteria 
+## Large-scale phage cultivation for commensal human gut bacteria.
+ 13.04.2023, _J Shen, J Zhang, L Mo, Y Li, Y Li, C Li, X Kuang, Z Tao, Z Qu, L Wu, J Chen, S Liu, L Zeng, Z He, Z Chen, Y Deng, T Zhang, B Li, L Dai, Y Ma_
+
+
+Phages are highly abundant in the human gut, yet most of them remain uncultured. Here, we present a gut phage isolate collection (GPIC) containing 209 phages for 42 commensal human gut bacterial species. Genome analysis of the phages identified 34 undescribed genera. We discovered 22 phages from the Salasmaviridae family that have small genomes (∼10-20 kbp) and infect Gram-positive bacteria. Two phages from a candidate family, Paboviridae, with high prevalence in the human gut were also identified. Infection assays showed that Bacteroides and Parabacteroides phages are specific to a bacterial species, and strains of the same species also exhibit substantial variations in phage susceptibility. A cocktail of 8 phages with a broad host range for Bacteroides fragilis strains effectively reduced their abundance in complex host-derived communities in vitro. Our study expands the diversity of cultured human gut bacterial phages and provides a valuable resource for human microbiome engineering.
 
 [Source](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(23)00117-8)
+
+10.1016/j.chom.2023.03.013
 
 ---
 
@@ -247,9 +303,34 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
+## Trends in SARS-CoV-2 cycle threshold values in the Czech Republic from April 2020 to April 2022.
+ 15.04.2023, _D Musalkova, L Piherova, O Kwasny, Z Dindova, L Stancik, H Hartmannova, O Slama, P Peckova, J Pargac, G Minarik, T Zima, AJ Bleyer, M Radina, M Pohludka, S Kmoch_
+
+
+The inability to predict the evolution of the COVID-19 epidemic hampered abilities to respond to the crisis effectively. The cycle threshold (Ct) from the standard SARS-CoV-2 quantitative reverse transcription-PCR (RT-qPCR) clinical assay is inversely proportional to the amount of SARS-CoV-2 RNA in the sample. We were interested to see if population Ct values could predict future increases in COVID-19 cases as well as subgroups that would be more likely to be affected. This information would have been extremely helpful early in the COVID-19 epidemic. We therefore conducted a retrospective analysis of demographic data and Ct values from 2,076,887 nasopharyngeal swab RT-qPCR tests that were performed at a single diagnostic laboratory in the Czech Republic from April 2020 to April 2022 and from 221,671 tests that were performed as a part of a mandatory school surveillance testing program from March 2021 to March 2022. We found that Ct values could be helpful predictive tools in the real-time management of viral epidemics. First, early measurement of Ct values would have indicated the low viral load in children, equivalent viral load in males and females, and higher viral load in older individuals. Second, rising or falling median Ct values and differences in Ct distribution indicated changes in the transmission in the population. Third, monitoring Ct values and positivity rates would have provided early evidence as to whether prevention measures are effective. Health system authorities should thus consider collecting weekly median Ct values of positively tested samples from major diagnostic laboratories for regional epidemic surveillance.
+
+[Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
+
+10.1038/s41598-023-32953-2
+
+---
+
 ## April 13, 2023
 
 [Source](https://twitter.com/leidai_CAS/status/1646359030208790529?ref_src=twsrc%5Etfw)
+
+---
+
+## The effect of storage conditions on microbial communities in stool.
+ 09.04.2020, _K Nel Van Zyl, AC Whitelaw, M Newton-Foot_
+
+
+_Child, Preschool, DNA, Bacterial, Enterobacteriaceae, Feces, Fungi, Humans, Microbiota, RNA, Ribosomal, 16S, Specimen Handling_
+Microbiome research has experienced a surge of interest in recent years due to the advances and reduced cost of next-generation sequencing technology. The production of high quality and comparable data is dependent on proper sample collection and storage and should be standardized as far as possible. However, this becomes challenging when samples are collected in the field, especially in resource-limited settings. We investigated the impact of different stool storage methods common to the TB-CHAMP clinical trial on the microbial communities in stool. Ten stool samples were subjected to DNA extraction after 48-hour storage at -80°C, room temperature and in a cooler-box, as well as immediate DNA extraction. Three stool DNA extraction kits were evaluated based on DNA yield and quality. Quantitative PCR was performed to determine the relative abundance of the two major gut phyla Bacteroidetes and Firmicutes, and other representative microbial groups. The bacterial populations in the frozen group closely resembled the immediate extraction group, supporting previous findings that storage at -80°C is equivalent to the gold standard of immediate DNA extraction. More variation was seen in the room temperature and cooler-box groups, which may be due to the growth temperature preferences of certain bacterial populations. However, for most bacterial populations, no significant differences were found between the storage groups. As seen in other microbiome studies, the variation between participant samples was greater than that related to differences in storage. We determined that the risk of introducing bias to microbial community profiling through differences in storage will likely be minimal in our setting.
+
+[Source](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1094800/full)
+
+10.1371/journal.pone.0227486
 
 ---
 
@@ -259,15 +340,28 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 
 ---
 
-## In Vitro Modelling of Oral Microbial Invasion in the Human Colon
+## In Vitro Modelling of Oral Microbial Invasion in the Human Colon.
+ 15.04.2023, _L Etienne-Mesmin, V Meslier, O Uriot, E Fournier, C Deschamps, S Denis, A David, S Jegou, C Morabito, B Quinquis, F Thirion, F Plaza Oñate, E Le Chatelier, SD Ehrlich, S Blanquet-Diot, M Almeida_
+
+
+Recent advances in the human microbiome characterization have revealed significant oral microbial detection in stools of dysbiotic patients. However, little is known about the potential interactions of these invasive oral microorganisms with commensal intestinal microbiota and the host. In this proof-of-concept study, we proposed a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Oral invasion of the intestinal microbiota was simulated by injection of enriched saliva in the in vitro colon model inoculated with a fecal sample from the same healthy adult donor. The mucosal compartment of M-ARCOL was able to retain the highest species richness levels over time, while species richness levels decreased in the luminal compartment. This study also showed that oral microorganisms preferably colonized the mucosal microenvironment, suggesting potential oral-to-intestinal mucosal competitions. This new model of oral-to-gut invasion can provide useful mechanistic insights into the role of oral microbiome in various disease processes. IMPORTANCE Here, we propose a new model of oral-to-gut invasion by the combined use of an in vitro model simulating both the physicochemical and microbial (lumen- and mucus-associated microbes) parameters of the human colon (M-ARCOL), a salivary enrichment protocol, and whole-metagenome shotgun sequencing. Our study revealed the importance of integrating the mucus compartment, which retained higher microbial richness during fermentation, showed the preference of oral microbial invaders for the mucosal resources, and indicated potential oral-to-intestinal mucosal competitions. It also underlined promising opportunities to further understand mechanisms of oral invasion into the human gut microbiome, define microbe-microbe and mucus-microbe interactions in a compartmentalized fashion, and help to better characterize the potential of oral microbial invasion and their persistence in the gut.
 
 [Source](https://journals.asm.org/doi/pdf/10.1128/spectrum.04344-22)
 
+10.1128/spectrum.04344-22
+
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
+ 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
+
+
+_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
+Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
+
+10.1186/s40168-023-01505-1
 
 ---
 
@@ -304,6 +398,18 @@ Effects of antibiotics on gut bacteria have been widely studied, but very little
 ## pic.twitter.com/NIjzhFNH37
 
 [Source](https://t.co/NIjzhFNH37)
+
+---
+
+## Timing of seasonal influenza epidemics for 25 countries in Africa during 2010-19: a retrospective analysis.
+ 15.04.2023, _LS Igboh, K Roguski, P Marcenac, GO Emukule, MD Charles, S Tempia, B Herring, K Vandemaele, A Moen, SJ Olsen, DE Wentworth, R Kondor, JA Mott, S Hirve, JS Bresee, P Mangtani, P Nguipdop-Djomo, E Azziz-Baumgartner_
+
+
+Using country-specific surveillance data to describe influenza epidemic activity could inform decisions on the timing of influenza vaccination. We analysed surveillance data from African countries to characterise the timing of seasonal influenza epidemics to inform national vaccination strategies.
+
+[Source](https://twitter.com/Alation/status/1646185262597242887?ref_src=twsrc%5Etfw)
+
+10.1016/S2214-109X(23)00109-2
 
 ---
 
