@@ -23,21 +23,40 @@ Phages are highly abundant in the human gut, yet most of them remain uncultured.
 
 ---
 
-## A lncRNA from an inflammatory bowel disease risk locus maintains intestinal host-commensal homeostasis
+## A lncRNA from an inflammatory bowel disease risk locus maintains intestinal host-commensal homeostasis.
+ 13.04.2023, _H Ma, T Hu, W Tao, J Tong, Z Han, D Herndler-Brandstetter, Z Wei, R Liu, T Zhou, Q Liu, X Xu, K Zhang, R Zhou, JH Cho, HB Li, H Huang, RA Flavell, S Zhu_
+
+
+Inflammatory bowel diseases (IBD) are known to have complex, genetically influenced etiologies, involving dysfunctional interactions between the intestinal immune system and the microbiome. Here, we characterized how the RNA transcript from an IBD-associated long non-coding RNA locus ("CARINH-Colitis Associated IRF1 antisense Regulator of Intestinal Homeostasis") protects against IBD. We show that CARINH and its neighboring gene coding for the transcription factor IRF1 together form a feedforward loop in host myeloid cells. The loop activation is sustained by microbial factors, and functions to maintain the intestinal host-commensal homeostasis via the induction of the anti-inflammatory factor IL-18BP and anti-microbial factors called guanylate-binding proteins (GBPs). Extending these mechanistic insights back to humans, we demonstrate that the function of the CARINH/IRF1 loop is conserved between mice and humans. Genetically, the T allele of rs2188962, the most probable causal variant of IBD within the CARINH locus from the human genetics study, impairs the inducible expression of the CARINH/IRF1 loop and thus increases genetic predisposition to IBD. Our study thus illustrates how an IBD-associated lncRNA maintains intestinal homeostasis and protects the host against colitis.
 
 [Source](https://doi.org/10.1038/s41422-023-00790-7)
 
+10.1038/s41422-023-00790-7
+
 ---
 
-## Coliphages of the human urinary microbiota
+## Coliphages of the human urinary microbiota.
+ 17.04.2023, _E Crum, Z Merchant, A Ene, T Miller-Ensminger, G Johnson, AJ Wolfe, C Putonti_
+
+
+_Female, Humans, Escherichia coli, Coliphages, Bacteriophages, Lysogeny, Prophages, Microbiota, Bacteria_
+Due to its frequent association with urinary tract infections (UTIs), Escherichia coli is the best characterized constituent of the urinary microbiota (urobiome). However, uropathogenic E. coli is just one member of the urobiome. In addition to bacterial constituents, the urobiome of both healthy and symptomatic individuals is home to a diverse population of bacterial viruses (bacteriophages). A prior investigation found that most bacterial species in the urobiome are lysogens, harboring one or more phages integrated into their genome (prophages). Many of these prophages are temperate phages, capable of entering the lytic cycle and thus lysing their bacterial host. This transition from the lysogenic to lytic life cycle can impact the bacterial diversity of the urobiome. While many phages that infect E. coli (coliphages) have been studied for decades in the laboratory setting, the coliphages within the urobiome have yet to be cataloged. Here, we investigated the diversity of urinary coliphages by first identifying prophages in all publicly available urinary E. coli genomes. We detected 3,038 intact prophage sequences, representative of 1,542 unique phages. These phages include both novel species as well as species also found within the gut microbiota. Ten temperate phages were isolated from urinary E. coli strains included in our analysis, and we assessed their ability to infect and lyse urinary E. coli strains. We also included in these host range assays other urinary coliphages and laboratory coliphages. The temperate phages and other urinary coliphages were successful in lysing urinary E. coli strains. We also observed that coliphages from non-urinary sources were most efficient in killing urinary E. coli strains. The two phages, T2 and N4, were capable of lysing 83.5% (n = 86) of strains isolated from females with UTI symptoms. In conclusion, our study finds a diverse community of coliphages in the urobiome, many of which are predicted to be temperate phages, ten of which were confirmed here. Their ability to infect and lyse urinary E. coli strains suggests that urinary coliphages may play a role in modulating the E. coli strain diversity of the urobiome.
 
 [Source](https://doi.org/10.1371/journal.pone.0283930)
 
+10.1371/journal.pone.0283930
+
 ---
 
-## Children with autism show differences in the gut DNA virome compared to non-autistic children: a case control study
+## Children with autism show differences in the gut DNA virome compared to non-autistic children: a case control study.
+ 17.04.2023, _A Qu, B Duan, Y Wang, Z Cui, N Zhang, D Wu_
+
+
+Several previous studies have identified a potential role that the gut microbiome can play in autism spectrum disorder (ASD) in children, but little is known about how variations in the virome may be involved in ASD. We aimed to understand the changes in the gut DNA virome of children with ASD.
 
 [Source](https://doi.org/10.1186/s12887-023-03981-8)
+
+10.1186/s12887-023-03981-8
 
 ---
 
@@ -179,7 +198,7 @@ Just as mammals have coevolved with the intestinal bacterial communities that ar
 ---
 
 ## The intratumoral microbiota: From microniches to single cells.
- 14.04.2023, _S Bullman_
+ 17.04.2023, _S Bullman_
 
 
 Solid tumors are composed of a complex and dynamic collection of cell types. Here I discuss the important relationships between cancer cells and bacterial members of the intratumoral microbiota that may provide a fitness advantage within the tumor ecological niche.
