@@ -23,9 +23,15 @@ Phages are highly abundant in the human gut, yet most of them remain uncultured.
 
 ---
 
-## A lncRNA from an inflammatory bowel disease risk locus maintains intestinal host-commensal homeostasis
+## A lncRNA from an inflammatory bowel disease risk locus maintains intestinal host-commensal homeostasis.
+ 13.04.2023, _H Ma, T Hu, W Tao, J Tong, Z Han, D Herndler-Brandstetter, Z Wei, R Liu, T Zhou, Q Liu, X Xu, K Zhang, R Zhou, JH Cho, HB Li, H Huang, RA Flavell, S Zhu_
+
+
+Inflammatory bowel diseases (IBD) are known to have complex, genetically influenced etiologies, involving dysfunctional interactions between the intestinal immune system and the microbiome. Here, we characterized how the RNA transcript from an IBD-associated long non-coding RNA locus ("CARINH-Colitis Associated IRF1 antisense Regulator of Intestinal Homeostasis") protects against IBD. We show that CARINH and its neighboring gene coding for the transcription factor IRF1 together form a feedforward loop in host myeloid cells. The loop activation is sustained by microbial factors, and functions to maintain the intestinal host-commensal homeostasis via the induction of the anti-inflammatory factor IL-18BP and anti-microbial factors called guanylate-binding proteins (GBPs). Extending these mechanistic insights back to humans, we demonstrate that the function of the CARINH/IRF1 loop is conserved between mice and humans. Genetically, the T allele of rs2188962, the most probable causal variant of IBD within the CARINH locus from the human genetics study, impairs the inducible expression of the CARINH/IRF1 loop and thus increases genetic predisposition to IBD. Our study thus illustrates how an IBD-associated lncRNA maintains intestinal homeostasis and protects the host against colitis.
 
 [Source](https://doi.org/10.1038/s41422-023-00790-7)
+
+10.1038/s41422-023-00790-7
 
 ---
 
@@ -230,9 +236,14 @@ Skin microbiota can be engineered to induce antitumor T cells.
 
 ---
 
-## Urban bees reveal a city’s microbiome
+## Urban bees reveal a city's microbiome.
+ 14.04.2023, _A York_
+
+
 
 [Source](https://doi.org/10.1038/s41579-023-00899-x)
+
+10.1038/s41579-023-00899-x
 
 ---
 
