@@ -122,9 +122,10 @@ The human gut microbiome has been linked to health and disease. Investigation of
 ---
 
 ## Microbiomic profiles of bile in patients with benign and malignant pancreaticobiliary disease.
- 19.04.2023, _SK Poudel, R Padmanabhan, H Dave, K Guinta, T Stevens, MR Sanaka, P Chahal, DPS Sohal, AA Khorana, C Eng_
+ 20.04.2023, _SK Poudel, R Padmanabhan, H Dave, K Guinta, T Stevens, MR Sanaka, P Chahal, DPS Sohal, AA Khorana, C Eng_
 
 
+_Humans, Bile, RNA, Ribosomal, 16S, Cholangiopancreatography, Endoscopic Retrograde, Pancreatic Neoplasms, Cholangiocarcinoma, Bile Duct Neoplasms, Bile Ducts, Intrahepatic, Pancreatic Ducts_
 The prognostic and pathophysiologic significance of the biliary microbiota in pancreaticobiliary malignancies is little understood. Our goal was to find malignancy-related microbiomic fingerprints in bile samples taken from patients with benign and malignant pancreaticobiliary diseases.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283021)
@@ -134,9 +135,10 @@ The prognostic and pathophysiologic significance of the biliary microbiota in pa
 ---
 
 ## Seasonal variations in gut microbiota and disease course in patients with inflammatory bowel disease.
- 19.04.2023, _M Tani, S Shinzaki, A Asakura, T Tashiro, T Amano, Y Otake-Kasamoto, T Yoshihara, S Yoshii, Y Tsujii, Y Hayashi, T Inoue, D Motooka, S Nakamura, H Iijima, T Takehara_
+ 20.04.2023, _M Tani, S Shinzaki, A Asakura, T Tashiro, T Amano, Y Otake-Kasamoto, T Yoshihara, S Yoshii, Y Tsujii, Y Hayashi, T Inoue, D Motooka, S Nakamura, H Iijima, T Takehara_
 
 
+_Humans, Seasons, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Inflammatory Bowel Diseases, Colitis, Ulcerative, Crohn Disease, Bacteria, Disease Progression, Feces_
 Environmental factors are associated with onset and course of inflammatory bowel disease (IBD). Our previous study by about 1,100 IBD patients revealed half of the patients experienced seasonal exacerbation of disease. We investigated the seasonality of fecal microbiota composition of IBD patients.
 
 [Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283880)
@@ -171,9 +173,10 @@ Washing and sanitizing rodent cage components requires costly equipment, signifi
 ---
 
 ## Music-based interventions in the feeding environment on the gut microbiota of mice.
- 18.04.2023, _J Niu, H Xu, G Zeng, P Wang, B Raciheon, S Nawaz, Z Zeng, J Zhao_
+ 20.04.2023, _J Niu, H Xu, G Zeng, P Wang, B Raciheon, S Nawaz, Z Zeng, J Zhao_
 
 
+_Animals, Mice, Gastrointestinal Microbiome, Music, RNA, Ribosomal, 16S, Proteobacteria, Firmicutes, Cyanobacteria, Body Weight_
 Gut microbiota is established to be associated with the diversity of gastrointestinal conditions, but information on the variation associated with music and gut microbes is limited. Current study revealed the impacts of music intervention during feeding on the growth performance and gut microbes of mice by using clinical symptoms and 16S rRNA sequencing techniques. The results showed that feeding mice with music had a significant increase in body weight after the 25th day. The Firmicutes and Proteobacteria were the most dominant phylum in the gut microbiota. Also, the relative abundance of the dominant bacteria was variable after musical intervention. In contrast to the control group, a significant decrease in alpha diversity analysis of gut bacterial microorganisms and Metastats analysis showed a significant increase in the relative abundance of 5 genera and one phylum after the music intervention. Moreover, the musical intervention during feeding caused modifications in the gut microbial composition of mice, as evidenced by an increase in the level of Firmicutes and Lactobacillus, while decreases the richness of pathogenic bacteria, e.g. Proteobacteria, Cyanobacteria and Muribaculaceae, etc. In summary, music intervention increased body weight and enhanced the abundance of beneficial bacteria by reducing the prevalence of pathogenic bacteria in gut microbiota of mice.
 
 [Source](https://www.nature.com/articles/s41598-023-33522-3)
@@ -200,29 +203,15 @@ Gut microbiota is established to be associated with the diversity of gastrointes
 
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
- 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
-
-
-_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
-Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
 
-10.1186/s40168-023-01505-1
-
 ---
 
-## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle.
- 18.04.2023, _S Liu, Z Yu, H Zhong, N Zheng, S Huws, J Wang, S Zhao_
-
-
-_Animals, Cattle, Rumen, Microspheres, Urease, Bacteria, Ruminants, Amino Acids, Urea, Nitrogen_
-Ruminants can utilize urea as a dietary nitrogen source owing to their ability to recycle urea-N back to the rumen where numerous ureolytic bacteria hydrolyze urea into ammonia, which is used by numerous bacteria as their nitrogen source. Rumen ureolytic bacteria are the key microbes making ruminants the only type of animals independent of pre-formed amino acids for survival, thus having attracted much research interest. Sequencing-based studies have helped gain new insights into ruminal ureolytic bacterial diversity, but only a limited number of ureolytic bacteria have been isolated into pure cultures or studied, hindering the understanding of ureolytic bacteria with respect to their metabolism, physiology, and ecology, all of which are required to effectively improve urea-N utilization efficiency.
+## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01510-4)
-
-10.1186/s40168-023-01510-4
 
 ---
 
