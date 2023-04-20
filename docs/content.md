@@ -200,15 +200,29 @@ Gut microbiota is established to be associated with the diversity of gastrointes
 
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
+ 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
+
+
+_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
+Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
 
+10.1186/s40168-023-01505-1
+
 ---
 
-## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle
+## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle.
+ 18.04.2023, _S Liu, Z Yu, H Zhong, N Zheng, S Huws, J Wang, S Zhao_
+
+
+_Animals, Cattle, Rumen, Microspheres, Urease, Bacteria, Ruminants, Amino Acids, Urea, Nitrogen_
+Ruminants can utilize urea as a dietary nitrogen source owing to their ability to recycle urea-N back to the rumen where numerous ureolytic bacteria hydrolyze urea into ammonia, which is used by numerous bacteria as their nitrogen source. Rumen ureolytic bacteria are the key microbes making ruminants the only type of animals independent of pre-formed amino acids for survival, thus having attracted much research interest. Sequencing-based studies have helped gain new insights into ruminal ureolytic bacterial diversity, but only a limited number of ureolytic bacteria have been isolated into pure cultures or studied, hindering the understanding of ureolytic bacteria with respect to their metabolism, physiology, and ecology, all of which are required to effectively improve urea-N utilization efficiency.
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01510-4)
+
+10.1186/s40168-023-01510-4
 
 ---
 
