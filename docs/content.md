@@ -59,7 +59,7 @@ A massive number of microorganisms, belonging to different species, continuously
 ---
 
 ## Altered human gut virome in patients undergoing antibiotics therapy for Helicobacter pylori.
- 19.04.2023, _L Wang, H Yao, DC Morgan, KS Lau, SY Leung, JWK Ho, WK Leung_
+ 21.04.2023, _L Wang, H Yao, DC Morgan, KS Lau, SY Leung, JWK Ho, WK Leung_
 
 
 _Humans, Helicobacter pylori, Helicobacter Infections, Virome, Anti-Bacterial Agents, Drug Therapy, Combination_
@@ -197,41 +197,21 @@ Gut microbiota is established to be associated with the diversity of gastrointes
 
 ---
 
-## Differences in the luminal and mucosal gut microbiomes and metabolomes of oriental rat snake (Ptyas mucosus).
- 18.04.2023, _Y Wei, M Zhou, W Fang, Q Liu, H Mao, B Chen, T Zhang, Y Xu, W Zhang, Y Zheng, X Hu_
-
-
-Previous studies regarding the gastrointestinal biogeography of microbiomes generally focused on longitudinal comparisons, whereas few studies have compared luminal and mucosal microbiomes. Investigations of the snake gut microbiome have attracted interest because of the unique digestive physiology and hibernation behavior, but adequate sampling methods must be developed. Here, we used an omics approach combining 16S rRNA gene sequencing with untargeted metabolomics to profile the luminal and mucosal gut microbiomes and metabolomes in oriental rat snakes, with the goal of revealing the heterogeneity and co-occurrence at these sites. The α-diversity of the gut microbiome was significantly higher at mucosal sites than at luminal sites. Microbial composition also differed according to sampling site, with significant differences in the abundances of dominant phyla and genera, as well as β-diversity clustering and distribution. Metabolome profiling revealed differences that were mainly related to cholinergic substances and nucleic acids. Analysis of variations in Kyoto Encyclopedia of Genes and Genomes functions of microbes and metabolites showed that the mucosal microbiome was more frequently involved in genetic information processing and cellular processes, whereas the luminal microbiome generally participated in metabolic regulation. Notably, we found a greater abundance of the opportunistic pathogen genus Escherichia-Shigella at luminal sites and higher levels of the lipid-regulator metabolite fenfluramine at mucosal sites. Despite the extensive differences between the two sampling sites, the results revealed similarities in terms of amplicon sequence variant composition and dominant core microbes. This pilot exploration of luminal and mucosal microbiomes and metabolites provides key insights to guide future research. KEY POINTS: • Snake luminal and mucosal microbiota was distinct in composition and function. • Metabolome profiling revealed differences related to different metabolites. • The pathogenic microbes are more likely to colonize the gut lumina.
+## Differences in the luminal and mucosal gut microbiomes and metabolomes of oriental rat snake (Ptyas mucosus)
 
 [Source](https://link.springer.com/article/10.1007/s00253-023-12524-1)
 
-10.1007/s00253-023-12524-1
-
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
- 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
-
-
-_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
-Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
+## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
 
-10.1186/s40168-023-01505-1
-
 ---
 
-## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle.
- 18.04.2023, _S Liu, Z Yu, H Zhong, N Zheng, S Huws, J Wang, S Zhao_
-
-
-_Animals, Cattle, Rumen, Microspheres, Urease, Bacteria, Ruminants, Amino Acids, Urea, Nitrogen_
-Ruminants can utilize urea as a dietary nitrogen source owing to their ability to recycle urea-N back to the rumen where numerous ureolytic bacteria hydrolyze urea into ammonia, which is used by numerous bacteria as their nitrogen source. Rumen ureolytic bacteria are the key microbes making ruminants the only type of animals independent of pre-formed amino acids for survival, thus having attracted much research interest. Sequencing-based studies have helped gain new insights into ruminal ureolytic bacterial diversity, but only a limited number of ureolytic bacteria have been isolated into pure cultures or studied, hindering the understanding of ureolytic bacteria with respect to their metabolism, physiology, and ecology, all of which are required to effectively improve urea-N utilization efficiency.
+## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle
 
 [Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01510-4)
-
-10.1186/s40168-023-01510-4
 
 ---
 
