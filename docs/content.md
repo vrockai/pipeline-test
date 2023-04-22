@@ -197,15 +197,9 @@ Gut microbiota is established to be associated with the diversity of gastrointes
 
 ---
 
-## Differences in the luminal and mucosal gut microbiomes and metabolomes of oriental rat snake (Ptyas mucosus).
- 18.04.2023, _Y Wei, M Zhou, W Fang, Q Liu, H Mao, B Chen, T Zhang, Y Xu, W Zhang, Y Zheng, X Hu_
-
-
-Previous studies regarding the gastrointestinal biogeography of microbiomes generally focused on longitudinal comparisons, whereas few studies have compared luminal and mucosal microbiomes. Investigations of the snake gut microbiome have attracted interest because of the unique digestive physiology and hibernation behavior, but adequate sampling methods must be developed. Here, we used an omics approach combining 16S rRNA gene sequencing with untargeted metabolomics to profile the luminal and mucosal gut microbiomes and metabolomes in oriental rat snakes, with the goal of revealing the heterogeneity and co-occurrence at these sites. The α-diversity of the gut microbiome was significantly higher at mucosal sites than at luminal sites. Microbial composition also differed according to sampling site, with significant differences in the abundances of dominant phyla and genera, as well as β-diversity clustering and distribution. Metabolome profiling revealed differences that were mainly related to cholinergic substances and nucleic acids. Analysis of variations in Kyoto Encyclopedia of Genes and Genomes functions of microbes and metabolites showed that the mucosal microbiome was more frequently involved in genetic information processing and cellular processes, whereas the luminal microbiome generally participated in metabolic regulation. Notably, we found a greater abundance of the opportunistic pathogen genus Escherichia-Shigella at luminal sites and higher levels of the lipid-regulator metabolite fenfluramine at mucosal sites. Despite the extensive differences between the two sampling sites, the results revealed similarities in terms of amplicon sequence variant composition and dominant core microbes. This pilot exploration of luminal and mucosal microbiomes and metabolites provides key insights to guide future research. KEY POINTS: • Snake luminal and mucosal microbiota was distinct in composition and function. • Metabolome profiling revealed differences related to different metabolites. • The pathogenic microbes are more likely to colonize the gut lumina.
+## Differences in the luminal and mucosal gut microbiomes and metabolomes of oriental rat snake (Ptyas mucosus)
 
 [Source](https://link.springer.com/article/10.1007/s00253-023-12524-1)
-
-10.1007/s00253-023-12524-1
 
 ---
 
