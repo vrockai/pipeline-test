@@ -1,5 +1,5 @@
 ## Effects of ultra-processed foods on the microbiota-gut-brain axis: The bread-and-butter issue.
- 22.04.2023, _Z Song, R Song, Y Liu, Z Wu, X Zhang_
+ 24.04.2023, _Z Song, R Song, Y Liu, Z Wu, X Zhang_
 
 
 The topic of gut microbiota and the microbiota-gut-brain (MGB) axis has become the forefront of research and reports in the past few years. The gut microbiota is a dynamic interface between the environment, food, and the host, reflecting the health status as well as maintaining normal physiological metabolism. Modern ultra-processed foods (UPF) contain large quantities of saturated and trans fat, added sugar, salt, and food additives that seriously affect the gut and physical health. In addition, these unhealthy components directly cause changes in gut microbiota functions and microbial metabolism, subsequently having the potential to impact the neural network. This paper reviews an overview of the link between UPF ingredients and the MGB axis. Considerable studies have examined that high intake of trans fat, added sugar and salt have deleterious effects on gut and brain functions, but relatively less focus has been placed on the impact of food additives on the MGB axis. Data from several studies suggest that food additives might be linked to metabolic diseases and inflammation. They may also alter the gut microbiota composition and microbial metabolites, which potentially affect cognition and behavior. Therefore, we emphasize that food additives including emulsifiers, artificial sweeteners, colorants, and preservatives interact with the gut microbiota and their possible effects on altering the brain and behavior based on the latest research. Future studies should further investigate whether gut dysbiosis mediates the effect of UPF on brain diseases and behavior. This thesis here sheds new light on future research pointing to the potentially detrimental effects of processed food consumption on brain health.
@@ -11,7 +11,7 @@ The topic of gut microbiota and the microbiota-gut-brain (MGB) axis has become t
 ---
 
 ## The emerging role of the small intestinal microbiota in human health and disease.
- 23.04.2023, _RAAA Ruigrok, RK Weersma, A Vich Vila_
+ 24.04.2023, _RAAA Ruigrok, RK Weersma, A Vich Vila_
 
 
 _Humans, Gastrointestinal Microbiome, Intestine, Small, Microbiota, Feces_
@@ -36,7 +36,7 @@ The gut microbiome plays an important role in cancer pathogenesis and therapy. S
 ---
 
 ## Multi-omics signatures in new-onset diabetes predict metabolic response to dietary inulin: findings from an observational study followed by an interventional trial.
- 21.04.2023, _N Ďásková, I Modos, M Krbcová, M Kuzma, H Pelantová, J Hradecký, M Heczková, M Bratová, P Videňská, P Šplíchalová, M Králová, M Heniková, J Potočková, A Ouřadová, R Landberg, T Kühn, M Cahová, J Gojda_
+ 24.04.2023, _N Ďásková, I Modos, M Krbcová, M Kuzma, H Pelantová, J Hradecký, M Heczková, M Bratová, P Videňská, P Šplíchalová, M Králová, M Heniková, J Potočková, A Ouřadová, R Landberg, T Kühn, M Cahová, J Gojda_
 
 
 The metabolic performance of the gut microbiota contributes to the onset of type 2 diabetes. However, targeted dietary interventions are limited by the highly variable inter-individual response. We hypothesized (1) that the composition of the complex gut microbiome and metabolome (MIME) differ across metabolic spectra (lean-obese-diabetes); (2) that specific MIME patterns could explain the differential responses to dietary inulin; and (3) that the response can be predicted based on baseline MIME signature and clinical characteristics.
@@ -59,15 +59,15 @@ Microbial communities played a vital role in maintaining homeostasis of ocular s
 
 ---
 
-## Biologically-Coupled Bisphosphonate Chaperones Effectively Deliver Molecules to the Site of Soft Tissue-Bone Healing.
- 23.04.2023, _TJ Kremen, BY Shi, SY Wu, O Sundberg, V Sriram, W Kim, D Sheyn, KM Lyons, W Wang, CE McKenna, I Nishimura_
+## Changes in NO2 and O3 levels due to the pandemic lockdown in the industrial cities of Tehran and Arak, Iran using Sentinel 5P images, Google Earth Engine (GEE) and statistical analysis.
+ 24.04.2023, _LK Gharibvand, AA Jamali, F Amiri_
 
 
-Tendon injuries are common and often treated surgically, however, current tendon repair healing results in poorly organized fibrotic tissue. While certain growth factors have been reported to improve both the strength and organization of the repaired enthesis, their clinical applicability is severely limited due to a lack of appropriate delivery strategies. In this study, we evaluated a recently developed fluorescent probe, Osteoadsorptive Fluorogenic Sentinel-3 (OFS-3) that is composed of a bone-targeting bisphosphonate moiety linked to fluorochrome and quencher molecules joined via a cathepsin K-sensitive peptide sequence. Using a murine Achilles tendon-to-bone repair model, bisphosphonate-based and/or Ctsk-coupled imaging probes were applied either locally or systemically. Fluorescence imaging was used to quantify the resultant signal in vivo. After tendon-bone repair, animals that received either local or systemic administration of imaging probes demonstrated significantly higher fluorescence signal at the repair site compared to the sham surgery group at all time points (p&lt;0.001), with signal peaking at 7 to 10 days after surgery. Our findings demonstrate the feasibility of using a novel bisphosphonate-based targeting and Ctsk-activated delivery of molecules to the site of tendon-to-bone repair and creates a foundation for further development of this platform as an effective strategy to deliver bioactive molecules to sites of musculoskeletal injury. This article is protected by copyright. All rights reserved.
+Air pollution has very damaging effects on human health. In recent years the Coronavirus disease (COVID-19) pandemic has created a worldwide economic disaster. Although the consequences of the COVID-19 lockdowns have had severe effects on economic and social conditions, these lockdowns also have also left beneficial effects on improving air quality and the environment. This research investigated the impact of the COVID-19 lockdown on NO2 and O3 pollutants changes in the industrial and polluted cities of Arak and Tehran in Iran. Based on this, the changes in NO2 and O3 levels during the 2020 lockdown and the same period in 2019 were investigated in these two cities. For this purpose, the Sentinel-5P data of these two pollutants were used during the lockdown period from November 19 to December 05, 2020, and at the same time before the pandemic from November 19 to December 05, 2019. For better results, the effect of climatic factors such as rain and wind in reducing pollution was removed. The obtained results indicate a decrease in NO2 and O3 levels by 3.5% and 6.8% respectively in Tehran and 20.97% and 5.67% in Arak during the lockdown of 2020 compared to the same time in 2019. This decrease can be caused by the reduction in transportation and socio-economic and industrial activities following the lockdown measures. This issue can be a solid point to take a step toward controlling and reducing pollution in non-epidemic conditions by implementing similar standards and policies in the future.
 
 [Source](https://doi.org/10.1093/procel/pwad020)
 
-10.1002/jor.25579
+10.1007/s00477-022-02362-4
 
 ---
 
@@ -77,15 +77,15 @@ Tendon injuries are common and often treated surgically, however, current tendon
 
 ---
 
-## The Effect of Different Zinc Sources on Biochemical Parameters, Intestinal Morphology, Carcass Characteristics and Performance in Finishing Lambs.
- 23.04.2023, _SHM Esfiokhi, MA Norouzian, A Najafi_
+## Effect of Screw speed, Temperature and Moisture on Physicochemical Properties of Corn Gluten Meal Extrudate.
+ 24.04.2023, _M Xu, X Zhang, Y Zhang, J Wang, J Li, Y Hu, S Cao, G Luan_
 
 
-To investigate the effect of different sources of zinc supplements on blood serum parameters, nutrient digestibility, growth performance, carcass characteristics, and intestinal morphology, 18 male Zandi lambs (with initial body weight of 31 ± 1.2 kg and 120 ± 8 days old) were divided into three groups, six animals each in a completely random design. Experimental treatments include (1) control treatment of basal diet without zinc supplementation, (2) basal diet with 40 mg/kg of zinc supplementation from zinc sulfate source, and (3) basal diet with 40 mg/kg of zinc supplementation with origin it was organic (Zn-peptide). All lambs were kept in individual pens with cemented floor and provision of individual feeding and watering. Mean daily weight gain increased with zinc supplementation (P &lt; 0.05), but feed intake and feed conversion ratio were not affected by zinc supplementation in the diet. Zinc supplementation increased the apparent digestibility of the dry matter (P &lt; 0.05), but the digestibility of dietary fat, neutral detergent fiber (NDF), and acid detergent fiber (ADF) were not affected by zinc supplementation. In this experiment, the addition of organic and inorganic supplements to the diet of fattening lambs had no significant effect on serum triglyceride, cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and glucose concentrations, and carcass traits. The concentration of aspartate aminotransferase (AST) enzyme in the zinc sulfate group was significantly higher than the control and organic zinc groups (P &lt; 0.05). Concentrations of blood urea nitrogen were lower in zinc fed lambs, compared to control (P ≤ 0.05). The villi width in the duodenum was higher in the zinc supplementation treatments (P &lt; 0.05). Also, in the ileum section, the height of the villi in the treatment of zinc sulfate supplement was higher, compared to the complement and control (P &lt; 0.05). The results of this study showed that Zn supplementation, regardless of its source, improved growth performance in fattening lambs. However, no effect was observed on feed intake and efficiency, carcass traits, and blood parameters.
+Corn gluten meal (CGM) is the main by-product of corn starch with rich protein and dietary fiber. The extrusion of CGM with a twin-screw extruder aimed to expand the novel utilization of this plant-protein resource. The impacts of screw speed, extrusion temperature, and material moisture on physicochemical properties of the extrudates were assessed.
 
 [Source](https://doi.org/10.1080/19490976.2023.2197837)
 
-10.1007/s12011-023-03675-3
+10.1002/jsfa.12649
 
 ---
 
@@ -109,7 +109,7 @@ The vaginal microbiome is a distinct component of the human microbiome that is c
 ---
 
 ## The hindgut microbiome contributes to host oxidative stress in postpartum dairy cows by affecting glutathione synthesis process.
- 22.04.2023, _F Gu, S Zhu, J Hou, Y Tang, JX Liu, Q Xu, HZ Sun_
+ 24.04.2023, _F Gu, S Zhu, J Hou, Y Tang, JX Liu, Q Xu, HZ Sun_
 
 
 Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which leads to significant production loss and metabolic disorders. The gut microbiota has been linked to host health and stress levels. However, to what extent the gut microbiota is associated with postpartum OS remains unknown. In this study, the contribution of the fecal microbiota to postpartum systemic OS and its underlying mechanisms were investigated by integrating 16S rRNA gene sequencing, metagenomics, and metabolomics in postpartum dairy cattle and by transplanting fecal microbiota from cattle to mice.
@@ -151,7 +151,7 @@ A simple model of alternative microbiota in the developing intestinal environmen
 ---
 
 ## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage.
- 21.04.2023, _Z Pang, X Mao, S Zhou, S Yu, G Liu, C Lu, J Wan, L Hu, P Xu_
+ 24.04.2023, _Z Pang, X Mao, S Zhou, S Yu, G Liu, C Lu, J Wan, L Hu, P Xu_
 
 
 Plants sustain intimate relationships with diverse microbes. It is well-recognized that these plant-associated microbiota shape individual performance and fitness of host plants, but much remains to be explored regarding how they exert their function and maintain their homeostasis.
@@ -163,7 +163,7 @@ Plants sustain intimate relationships with diverse microbes. It is well-recogniz
 ---
 
 ## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions.
- 21.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
+ 24.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
 
 
 Microbiomes are critical to plants, promoting growth, elevating stress tolerance, and expanding the plant's metabolic repertoire with novel defense pathways. However, generally microbiomes within plant tissues, which intimately interact with their hosts, remain poorly characterized. These endospheres have become a focus in banana (Musa spp.)-an important plant for study of microbiome-based disease protection. Banana is important to global food security, while also being critically threatened by pandemic diseases. Domestication and clonal propagation are thought to have depleted protective microbiomes, whereas wild relatives may hold promise for new microbiome-based biological controls. The goal was to compare metapangenomes enriched from 7 Musa genotypes, including wild and cultivated varieties grown in sympatry, to assess the host associations with root and leaf endosphere functional profiles.
@@ -218,7 +218,7 @@ Benefiting from the rapid developments and wide applications of high-throughput 
 ---
 
 ## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures.
- 21.04.2023, _B Delgado Corrales, R Kaiser, P Nerlich, A Agraviador, A Sherry_
+ 24.04.2023, _B Delgado Corrales, R Kaiser, P Nerlich, A Agraviador, A Sherry_
 
 
 BioMateriOME evolved from a prototyping process which was informed from discussions between a team of designers, architects and microbiologists, when considering constructing with biomaterials or human cohabitation with novel living materials in the built environment. The prototype has two elements (i) BioMateriOME-Public (BMP), an interactive public materials library, and (ii) BioMateriOME-eXperimental (BMX), a replicated materials library for rigorous microbiome experimentation. The prototype was installed into the OME, a unique experimental living house, in order to (1) gain insights into society's perceptions of living materials, and (2) perform a comparative analysis of indoor surface microbiome development on novel biomaterials in contrast to conventional indoor surfaces, respectively. This review summarizes the BioMateriOME prototype and its use as a tool in combining microbiology, design, architecture and social science. The use of microbiology and biological components in the fabrication of biomaterials is provided, together with an appreciation of the microbial communities common to conventional indoor surfaces, and how these communities may change in response to the implementation of living materials in our homes. Societal perceptions of microbiomes and biomaterials, are considered within the framework of healthy architecture. Finally, features of architectural design with microbes in mind are introduced, with the possibility of codifying microbial surveillance into design and construction benchmarks, standards and regulations toward healthier buildings and their occupants.
@@ -242,7 +242,7 @@ Human gut microbiota plays a vital role in maintaining body health. The dysbiosi
 ---
 
 ## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis.
- 23.04.2023, _J Zorz, C Li, A Chakraborty, DA Gittins, T Surcon, N Morrison, R Bennett, A MacDonald, CRJ Hubert_
+ 24.04.2023, _J Zorz, C Li, A Chakraborty, DA Gittins, T Surcon, N Morrison, R Bennett, A MacDonald, CRJ Hubert_
 
 
 Microbiome analysis through 16S rRNA gene sequencing is a crucial tool for understanding the microbial ecology of any habitat or ecosystem. However, workflows require large equipment, stable internet, and extensive computing power such that most of the work is performed far away from sample collection in both space and time. Performing amplicon sequencing and analysis at sample collection would have positive implications in many instances including remote fieldwork and point-of-care medical diagnoses. Here we present SituSeq, an offline and portable workflow for the sequencing and analysis of 16S rRNA gene amplicons using Nanopore sequencing and a standard laptop computer. SituSeq was validated by comparing Nanopore 16S rRNA gene amplicons, Illumina 16S rRNA gene amplicons, and Illumina metagenomes, sequenced using the same environmental DNA. Comparisons revealed consistent community composition, ecological trends, and sequence identity across platforms. Correlation between the abundance of taxa in each taxonomic level in Illumina and Nanopore data sets was high (Pearson's r &gt; 0.9), and over 70% of Illumina 16S rRNA gene sequences matched a Nanopore sequence with greater than 97% sequence identity. On board a research vessel on the open ocean, SituSeq was used to analyze amplicon sequences from deep sea sediments less than 2 h after sequencing, and 8 h after sample collection. The rapidly available results informed decisions about subsequent sampling in near real-time while the offshore expedition was still underway. SituSeq is a portable and user-friendly workflow that helps to bring the power of microbial genomics and diagnostics to many more researchers and situations.
