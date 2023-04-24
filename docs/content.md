@@ -1,237 +1,212 @@
-## The maternal gut microbiome during pregnancy and its role in maternal and infant health.
- 17.04.2023, _T Sinha, S Brushett, J Prins, A Zhernakova_
+## Effects of ultra-processed foods on the microbiota-gut-brain axis: The bread-and-butter issue.
+ 22.04.2023, _Z Song, R Song, Y Liu, Z Wu, X Zhang_
 
 
-There is growing knowledge that the maternal gut microbiome undergoes substantial changes during pregnancy. However, despite the recognition that the maternal gut microbiome influences maternal and infant health, we still have a limited understanding of the clinical and environmental factors that can impact the maternal gut microbiome during pregnancy and the consequences of these changes. Here, we review the current body of knowledge about factors shaping the maternal gut microbiome during pregnancy and its role in the development of pregnancy complications and infant health.
+The topic of gut microbiota and the microbiota-gut-brain (MGB) axis has become the forefront of research and reports in the past few years. The gut microbiota is a dynamic interface between the environment, food, and the host, reflecting the health status as well as maintaining normal physiological metabolism. Modern ultra-processed foods (UPF) contain large quantities of saturated and trans fat, added sugar, salt, and food additives that seriously affect the gut and physical health. In addition, these unhealthy components directly cause changes in gut microbiota functions and microbial metabolism, subsequently having the potential to impact the neural network. This paper reviews an overview of the link between UPF ingredients and the MGB axis. Considerable studies have examined that high intake of trans fat, added sugar and salt have deleterious effects on gut and brain functions, but relatively less focus has been placed on the impact of food additives on the MGB axis. Data from several studies suggest that food additives might be linked to metabolic diseases and inflammation. They may also alter the gut microbiota composition and microbial metabolites, which potentially affect cognition and behavior. Therefore, we emphasize that food additives including emulsifiers, artificial sweeteners, colorants, and preservatives interact with the gut microbiota and their possible effects on altering the brain and behavior based on the latest research. Future studies should further investigate whether gut dysbiosis mediates the effect of UPF on brain diseases and behavior. This thesis here sheds new light on future research pointing to the potentially detrimental effects of processed food consumption on brain health.
 
-[Source](https://www.sciencedirect.com/science/article/pii/S1369527423000462)
+[Source](https://doi.org/10.1016/j.foodres.2023.112730)
 
-10.1016/j.mib.2023.102309
-
----
-
-## Independent Effects of HIV and Antiretroviral Therapy on the Oral Microbiome Identified by Multivariate Analyses
-
-[Source](https://journals.asm.org/doi/10.1128/mbio.00409-23)
+10.1016/j.foodres.2023.112730
 
 ---
 
-## Oral microbial changes and oral disease management before and after the treatment of hematological malignancies: a narrative review.
- 18.04.2023, _Y Lin, S Li, C Mo, H Liu, J Bi, S Xu, B Jia, C Liu, Z Liu_
+## The emerging role of the small intestinal microbiota in human health and disease.
+ 23.04.2023, _RAAA Ruigrok, RK Weersma, A Vich Vila_
 
 
-Patients with hematological malignancies have dynamic changes in oral microbial communities before and after treatment. This narrative review describes the changes in oral microbial composition and diversity, and discusses an oral microbe-oriented strategy for oral disease management.
+_Humans, Gastrointestinal Microbiome, Intestine, Small, Microbiota, Feces_
+The human gut microbiota continues to demonstrate its importance in human health and disease, largely owing to the countless number of studies investigating the fecal microbiota. Underrepresented in these studies, however, is the role played by microbial communities found in the small intestine, which, given the essential function of the small intestine in nutrient absorption, host metabolism, and immunity, is likely highly relevant. This review provides an overview of the methods used to study the microbiota composition and dynamics along different sections of the small intestine. Furthermore, it explores the role of the microbiota in facilitating the small intestine in its physiological functions and discusses how disruption of the microbial equilibrium can influence disease development. The evidence suggests that the small intestinal microbiota is an important regulator of human health and its characterization has the potential to greatly advance gut microbiome research and the development of novel disease diagnostics and therapeutics.
 
-[Source](https://link.springer.com/article/10.1007/s00784-023-05021-2)
+[Source](https://doi.org/10.1080/19490976.2023.2201155)
 
-10.1007/s00784-023-05021-2
-
----
-
-## Gardnerella Revisited: Species Heterogeneity, Virulence Factors, Mucosal Immune Responses, and Contributions to Bacterial Vaginosis.
- 18.04.2023, _E Shvartsman, JE Hill, P Sandstrom, KS MacDonald_
-
-
-Gardnerella species are associated with bacterial vaginosis (BV) and have been investigated as etiological agents of the condition. Nonetheless, the isolation of this taxon from healthy individuals has raised important questions regarding its etiological role. Recently, using advanced molecular approaches, the Gardnerella genus was expanded to include several different species that exhibit differences in virulence potential. Understanding the significance of these different species with respect to mucosal immunity and the pathogenesis and complications of BV could be crucial to solving the BV enigma. Here, we review key findings regarding the unique genetic and phenotypic diversity within this genus, virulence factors, and effects on mucosal immunity as they stand. We also comment on the relevance of these findings to the proposed role of Gardnerella in BV pathogenesis and in reproductive health and identify key gaps in knowledge that should be explored in the future.
-
-[Source](https://journals.asm.org/doi/10.1128/iai.00390-22)
-
-10.1128/iai.00390-22
+10.1080/19490976.2023.2201155
 
 ---
 
-## Intrahost evolution of the gut microbiota.
- 17.04.2023, _HC Barreto, I Gordo_
+## Gut microbiome can predict chemoradiotherapy efficacy in patients with esophageal squamous cell carcinoma.
+ 22.04.2023, _T Sasaki, Y Matsumoto, K Murakami, S Endo, T Toyozumi, R Otsuka, K Kinoshita, J Hu, S Iida, H Morishita, Y Nishioka, A Nakano, M Uesato, H Matsubara_
 
 
-A massive number of microorganisms, belonging to different species, continuously divide inside the guts of animals and humans. The large size of these communities and their rapid division times imply that we should be able to watch microbial evolution in the gut in real time, in a similar manner to what has been done in vitro. Here, we review recent findings on how natural selection shapes intrahost evolution (also known as within-host evolution), with a focus on the intestines of mice and humans. The microbiota of a healthy host is not as static as initially thought from the information measured at only one genomic marker. Rather, the genomes of each gut-colonizing species can be highly dynamic, and such dynamism seems to be related to the microbiota species diversity. Genetic and bioinformatic tools, and analysis of time series data, allow quantification of the selection strength on emerging mutations and horizontal transfer events in gut ecosystems. The drivers and functional consequences of gut evolution can now begin to be grasped. The rules of this intrahost microbiota evolution, and how they depend on the biology of each species, need to be understood for more effective development of microbiota therapies to help maintain or restore host health.
+The gut microbiome plays an important role in cancer pathogenesis and therapy. Some studies have reported that specific bacteria in tumor tissues may contribute to the prognosis and treatment of esophageal squamous cell carcinoma (ESCC). However, there is limited evidence that the gut microbiome is associated with ESCC. This study assessed the utility of the gut microbiome as a predictive marker of the therapeutic effect in patients with ESCC undergoing chemo-radiotherapy (CRT).
 
-[Source](https://www.nature.com/articles/s41579-023-00890-6)
+[Source](https://doi.org/10.1007/s10388-023-01004-0)
 
-10.1038/s41579-023-00890-6
-
----
-
-## The gut microbiota contributes to the pathogenesis of anorexia nervosa in humans and mice
-
-[Source](https://www.nature.com/articles/s41564-023-01355-5)
+10.1007/s10388-023-01004-0
 
 ---
 
-## Altered human gut virome in patients undergoing antibiotics therapy for Helicobacter pylori.
- 21.04.2023, _L Wang, H Yao, DC Morgan, KS Lau, SY Leung, JWK Ho, WK Leung_
+## Multi-omics signatures in new-onset diabetes predict metabolic response to dietary inulin: findings from an observational study followed by an interventional trial.
+ 21.04.2023, _N Ďásková, I Modos, M Krbcová, M Kuzma, H Pelantová, J Hradecký, M Heczková, M Bratová, P Videňská, P Šplíchalová, M Králová, M Heniková, J Potočková, A Ouřadová, R Landberg, T Kühn, M Cahová, J Gojda_
 
 
-_Humans, Helicobacter pylori, Helicobacter Infections, Virome, Anti-Bacterial Agents, Drug Therapy, Combination_
-Transient gut microbiota alterations have been reported after antibiotic therapy for Helicobacter pylori. However, alteration in the gut virome after H. pylori eradication remains uncertain. Here, we apply metagenomic sequencing to fecal samples of 44 H. pylori-infected patients at baseline, 6-week (N = 44), and 6-month (N = 33) after treatment. Following H. pylori eradication, we discover contraction of the gut virome diversity, separation of virome community with increased community difference, and shifting towards a higher proportion of core virus. While the gut microbiota is altered at 6-week and restored at 6-month, the virome community shows contraction till 6-month after the treatment with enhanced phage-bacteria interactions at 6-week. Multiple courses of antibiotic treatments further lead to lower virus community diversity when compared with treatment naive patients. Our results demonstrate that H. pylori eradication therapies not only result in transient alteration in gut microbiota but also significantly alter the previously less known gut virome community.
+The metabolic performance of the gut microbiota contributes to the onset of type 2 diabetes. However, targeted dietary interventions are limited by the highly variable inter-individual response. We hypothesized (1) that the composition of the complex gut microbiome and metabolome (MIME) differ across metabolic spectra (lean-obese-diabetes); (2) that specific MIME patterns could explain the differential responses to dietary inulin; and (3) that the response can be predicted based on baseline MIME signature and clinical characteristics.
 
-[Source](https://www.nature.com/articles/s41467-023-37975-y)
+[Source](https://doi.org/10.1038/s41387-023-00235-5)
 
-10.1038/s41467-023-37975-y
-
----
-
-## Antibiotic treatment using amoxicillin-clavulanic acid impairs gut mycobiota development through modification of the bacterial ecosystem.
- 13.04.2023, _M Spatz, G Da Costa, R Ventin-Holmberg, J Planchais, C Michaudel, Y Wang, C Danne, A Lapiere, ML Michel, KL Kolho, P Langella, H Sokol, ML Richard_
-
-
-_Humans, Mice, Animals, Amoxicillin-Potassium Clavulanate Combination, Anti-Bacterial Agents, Gastrointestinal Tract, Microbiota, Fungi, Bacteria_
-Effects of antibiotics on gut bacteria have been widely studied, but very little is known about the consequences of such treatments on the fungal microbiota (mycobiota). It is commonly believed that fungal load increases in the gastrointestinal tract following antibiotic treatment, but better characterization is clearly needed of how antibiotics directly or indirectly affect the mycobiota and thus the entire microbiota.
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01516-y)
-
-10.1186/s40168-023-01516-y
+10.1038/s41387-023-00235-5
 
 ---
 
-## Metabolic independence drives gut microbial colonization and resilience in health and disease.
- 21.04.2023, _AR Watson, J Füssel, I Veseli, JZ DeLongchamp, M Silva, F Trigodet, K Lolans, A Shaiber, E Fogarty, JM Runde, C Quince, MK Yu, A Söylev, HG Morrison, STM Lee, D Kao, DT Rubin, B Jabri, T Louie, AM Eren_
+## Comparison of Conjunctival Sac Microbiome between Low and High Myopic Eyes.
+ 21.04.2023, _K Xiao, Z Chen, Q Long_
 
 
-_Humans, Gastrointestinal Microbiome, Fecal Microbiota Transplantation, Microbiota, Metagenomics, Amino Acids, Feces_
-Changes in microbial community composition as a function of human health and disease states have sparked remarkable interest in the human gut microbiome. However, establishing reproducible insights into the determinants of microbial succession in disease has been a formidable challenge.
+Microbial communities played a vital role in maintaining homeostasis of ocular surface. However, no studies explored the myopia-associated conjunctiva microbiota changes until now. In this study, conjunctival sac swab specimens were collected from 12 eyes of low myopia (LM), and 14 eyes of high myopia (HM) patients. The V3-V4 region of the 16S rRNA gene was amplified and then sequenced. Statistical analysis was performed to investigate differences in the taxonomy and diversity between two groups. Compared to LM, higher Ocular Surface Disease Index (OSDI) scores were observed in HM group. The Shannon index of the HM was lower than that of the LM group (P = 0.017). Principle coordinate analysis and Partial Least Squares Discrimination Analysis showed distinct microbiome composition between two groups. At the phylum level, there were higher relative abundances of Proteobacteria (68.27% vs 38.51%) and lower abundances of Actinobacteria (3.71% vs 9.19%) in HM, compared to LM group (P = 0.031, 0.010, respectively). At the genus level, the abundances of Acinetobacter in HM (18.16%) were significantly higher than the LM (6.52%) group (P = 0.011). Actinobacteria levels were negatively correlated with the myopic spherical equivalent and OSDI scores. Moreover, positive correlations were found between Proteobacteria levels and OSDI scores, Acinetobacter levels were positively correlated with myopic spherical equivalent and OSDI scores. In conclusion, HM Patients have bacterial microbiota imbalance in the conjunctival sac, compared with LM patients. Proteobacteria, Actinobacteria, Acinetobacter may play roles in the HM associated ocular surface irritation.
 
-[Source](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02924-x)
+[Source](https://doi.org/10.1007/s12275-023-00045-5)
 
-10.1186/s13059-023-02924-x
-
----
-
-## Development of the gut microbiota in the first 14 years of life and its relations to internalizing and externalizing difficulties and social anxiety during puberty.
- 18.04.2023, _Y Ou, C Belzer, H Smidt, C de Weerth_
-
-
-Relations between the gut microbiota and host mental health have been suggested by a growing number of case-control and cross-sectional studies, while supporting evidence is limited in large community samples followed during an extended period. Therefore, the current preregistered study ( https://osf.io/8ymav , September 7, 2022) described child gut microbiota development in the first 14 years of life and explored its relations to internalizing and externalizing difficulties and social anxiety in puberty, a period of high relevance for the development of mental health problems. Fecal microbiota composition was analysed by 16S ribosomal RNA gene amplicon sequencing in a total of 1003 samples from 193 children. Through a clustering method, four distinct microbial clusters were newly identified in puberty. Most children within three of these clusters remained in the same clusters from the age of 12 to 14 years, suggesting stability in microbial development and transition during this period. These three clusters were compositionally similar to enterotypes (i.e., a robust classification of the gut microbiota based on its composition across different populations) enriched in Bacteroides, Prevotella, and Ruminococcus, respectively. Two Prevotella 9-predominated clusters, including one reported by us earlier in middle childhood and the other one in puberty, were associated with more externalizing behavior at age 14. One Faecalibacterium-depleted pubertal cluster was related to more social anxiety at age 14. This finding was confirmed by a negative cross-sectional relation between Faecalibacterium and social anxiety in the 14-year-olds. The findings of this study continue to map gut microbiota development in a relatively large community sample followed from birth onwards, importantly extending our knowledge to puberty. Results indicate that Prevotella 9 and Faecalibacterium may be relevant microbial taxa in relation to externalizing behavior and social anxiety, respectively. These correlational findings need validations from other similar cohort studies, as well as well-designed mechanistic pre-clinical investigations before inferring cause and effect.
-
-[Source](https://link.springer.com/article/10.1007/s00787-023-02205-9)
-
-10.1007/s00787-023-02205-9
+10.1007/s12275-023-00045-5
 
 ---
 
-## Reconstructing the landscape of gut microbial species across 29,000 diverse individuals.
- 18.04.2023, _I Segota, JD Watrous, ED Kantz, S Nallamshetty, S Tiwari, S Cheng, M Jain, T Long_
+## Biologically-Coupled Bisphosphonate Chaperones Effectively Deliver Molecules to the Site of Soft Tissue-Bone Healing.
+ 23.04.2023, _TJ Kremen, BY Shi, SY Wu, O Sundberg, V Sriram, W Kim, D Sheyn, KM Lyons, W Wang, CE McKenna, I Nishimura_
 
 
-The human gut microbiome has been linked to health and disease. Investigation of the human microbiome has largely employed 16S amplicon sequencing, with limited ability to distinguish microbes at the species level. Herein, we describe the development of Reference-based Exact Mapping (RExMap) of microbial amplicon variants that enables mapping of microbial species from standard 16S sequencing data. RExMap analysis of 16S data captures ∼75% of microbial species identified by whole-genome shotgun sequencing, despite hundreds-fold less sequencing depth. RExMap re-analysis of existing 16S data from 29,349 individuals across 16 regions from around the world reveals a detailed landscape of gut microbial species across populations and geography. Moreover, RExMap identifies a core set of fifteen gut microbes shared by humans. Core microbes are established soon after birth and closely associate with BMI across multiple independent studies. RExMap and the human microbiome dataset are presented as resources with which to explore the role of the human microbiome.
+Tendon injuries are common and often treated surgically, however, current tendon repair healing results in poorly organized fibrotic tissue. While certain growth factors have been reported to improve both the strength and organization of the repaired enthesis, their clinical applicability is severely limited due to a lack of appropriate delivery strategies. In this study, we evaluated a recently developed fluorescent probe, Osteoadsorptive Fluorogenic Sentinel-3 (OFS-3) that is composed of a bone-targeting bisphosphonate moiety linked to fluorochrome and quencher molecules joined via a cathepsin K-sensitive peptide sequence. Using a murine Achilles tendon-to-bone repair model, bisphosphonate-based and/or Ctsk-coupled imaging probes were applied either locally or systemically. Fluorescence imaging was used to quantify the resultant signal in vivo. After tendon-bone repair, animals that received either local or systemic administration of imaging probes demonstrated significantly higher fluorescence signal at the repair site compared to the sham surgery group at all time points (p&lt;0.001), with signal peaking at 7 to 10 days after surgery. Our findings demonstrate the feasibility of using a novel bisphosphonate-based targeting and Ctsk-activated delivery of molecules to the site of tendon-to-bone repair and creates a foundation for further development of this platform as an effective strategy to deliver bioactive molecules to sites of musculoskeletal injury. This article is protected by copyright. All rights reserved.
 
-[Source](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad249/7127541)
+[Source](https://doi.org/10.1093/procel/pwad020)
 
-10.1093/nar/gkad249
-
----
-
-## Microbiomic profiles of bile in patients with benign and malignant pancreaticobiliary disease.
- 21.04.2023, _SK Poudel, R Padmanabhan, H Dave, K Guinta, T Stevens, MR Sanaka, P Chahal, DPS Sohal, AA Khorana, C Eng_
-
-
-_Humans, Bile, RNA, Ribosomal, 16S, Cholangiopancreatography, Endoscopic Retrograde, Pancreatic Neoplasms, Cholangiocarcinoma, Bile Duct Neoplasms, Bile Ducts, Intrahepatic, Pancreatic Ducts_
-The prognostic and pathophysiologic significance of the biliary microbiota in pancreaticobiliary malignancies is little understood. Our goal was to find malignancy-related microbiomic fingerprints in bile samples taken from patients with benign and malignant pancreaticobiliary diseases.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283021)
-
-10.1371/journal.pone.0283021
+10.1002/jor.25579
 
 ---
 
-## Seasonal variations in gut microbiota and disease course in patients with inflammatory bowel disease.
- 21.04.2023, _M Tani, S Shinzaki, A Asakura, T Tashiro, T Amano, Y Otake-Kasamoto, T Yoshihara, S Yoshii, Y Tsujii, Y Hayashi, T Inoue, D Motooka, S Nakamura, H Iijima, T Takehara_
+## Sentinel or accomplice – gut microbiota and microglia cross-talk in disorders of gut-brain interaction
 
-
-_Humans, Seasons, Gastrointestinal Microbiome, RNA, Ribosomal, 16S, Inflammatory Bowel Diseases, Colitis, Ulcerative, Crohn Disease, Bacteria, Disease Progression, Feces_
-Environmental factors are associated with onset and course of inflammatory bowel disease (IBD). Our previous study by about 1,100 IBD patients revealed half of the patients experienced seasonal exacerbation of disease. We investigated the seasonality of fecal microbiota composition of IBD patients.
-
-[Source](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283880)
-
-10.1371/journal.pone.0283880
+[Source](https://doi.org/10.1093/procel/pwad020)
 
 ---
 
-## The convergent application of metabolites from Avena sativa and gut microbiota to ameliorate non-alcoholic fatty liver disease: a network pharmacology study.
- 21.04.2023, _KK Oh, SJ Yoon, SB Lee, SY Lee, H Gupta, R Ganesan, SP Sharma, SM Won, JJ Jeong, DJ Kim, KT Suk_
+## The Effect of Different Zinc Sources on Biochemical Parameters, Intestinal Morphology, Carcass Characteristics and Performance in Finishing Lambs.
+ 23.04.2023, _SHM Esfiokhi, MA Norouzian, A Najafi_
 
 
-_Avena, Gastrointestinal Microbiome, Molecular Docking Simulation, Network Pharmacology, Non-alcoholic Fatty Liver Disease, Phosphatidylinositol 3-Kinases, Proto-Oncogene Proteins c-akt, Vascular Endothelial Growth Factor A, Drugs, Chinese Herbal_
-Non-alcoholic fatty liver disease (NAFLD) is a serious public health issue globally, currently, the treatment of NAFLD lies still in the labyrinth. In the inchoate stage, the combinatorial application of food regimen and favorable gut microbiota (GM) are considered as an alternative therapeutic. Accordingly, we integrated secondary metabolites (SMs) from GM and Avena sativa (AS) known as potent dietary grain to identify the combinatorial efficacy through network pharmacology.
+To investigate the effect of different sources of zinc supplements on blood serum parameters, nutrient digestibility, growth performance, carcass characteristics, and intestinal morphology, 18 male Zandi lambs (with initial body weight of 31 ± 1.2 kg and 120 ± 8 days old) were divided into three groups, six animals each in a completely random design. Experimental treatments include (1) control treatment of basal diet without zinc supplementation, (2) basal diet with 40 mg/kg of zinc supplementation from zinc sulfate source, and (3) basal diet with 40 mg/kg of zinc supplementation with origin it was organic (Zn-peptide). All lambs were kept in individual pens with cemented floor and provision of individual feeding and watering. Mean daily weight gain increased with zinc supplementation (P &lt; 0.05), but feed intake and feed conversion ratio were not affected by zinc supplementation in the diet. Zinc supplementation increased the apparent digestibility of the dry matter (P &lt; 0.05), but the digestibility of dietary fat, neutral detergent fiber (NDF), and acid detergent fiber (ADF) were not affected by zinc supplementation. In this experiment, the addition of organic and inorganic supplements to the diet of fattening lambs had no significant effect on serum triglyceride, cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and glucose concentrations, and carcass traits. The concentration of aspartate aminotransferase (AST) enzyme in the zinc sulfate group was significantly higher than the control and organic zinc groups (P &lt; 0.05). Concentrations of blood urea nitrogen were lower in zinc fed lambs, compared to control (P ≤ 0.05). The villi width in the duodenum was higher in the zinc supplementation treatments (P &lt; 0.05). Also, in the ileum section, the height of the villi in the treatment of zinc sulfate supplement was higher, compared to the complement and control (P &lt; 0.05). The results of this study showed that Zn supplementation, regardless of its source, improved growth performance in fattening lambs. However, no effect was observed on feed intake and efficiency, carcass traits, and blood parameters.
 
-[Source](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04122-6)
+[Source](https://doi.org/10.1080/19490976.2023.2197837)
 
-10.1186/s12967-023-04122-6
-
----
-
-## Effects of Extended Cage Component Sanitation Interval on the Microenvironment, Health, and Gastrointestinal Microbiome of Rats (Rattus norvegicus).
- 19.04.2023, _JZ Taylor, DL Fong, LM Habenicht, MK Fink, JK Leszczynski, DN Frank, JM Kofonow, CE Robertson, AG Nicklawsky, MJ Schurr, CJ Manuel_
-
-
-Washing and sanitizing rodent cage components requires costly equipment, significant personnel effort, and use of natural resources. The benchmark frequency for sanitation of individually ventilated caging (IVC) has traditionally been every 2 wk. In this study, we investigated the effects of extending this interval on the cage microenvironment, basic markers of health, and the gastrointestinal microbiota of rats. We compared our institutional standard of changing the sanitation interval for rat cage lids, box feeders, and enrichment devices from every 4 wk to an interval of 12 wk. The cage bottom and bedding continued to be changed every 2 wk for both groups. We hypothesized that we would find no significant difference between our current practice of 4 wks and continuous use for 12 wk. Our data showed that intracage ammonia levels remained below 5 ppm for most cages in both groups, with the exception of cages that experienced a cage flood. We found no significant difference between groups in bacterial colony forming units (CFU) on cage components. We used 3 novel methods of assessing cleanliness of enrichment devices and found no significant effect of continuous use for 12 wk on the number of CFU. In addition, we found no significant differences between groups for animal weight, routine blood work, or fecal and cecal microbiomes. These data indicate that a sanitation interval of up to 12 wk for components of rat IVC caging has no significant effects on the microenvironment or health of rats. Using the longer interval will improve efficiency, reduce the use of natural resources, and decrease costs while maintaining high-quality animal care.
-
-[Source](https://doi.org/10.30802/AALAS-JAALAS-22-000113)
-
-10.30802/AALAS-JAALAS-22-000113
+10.1007/s12011-023-03675-3
 
 ---
 
-## Music-based interventions in the feeding environment on the gut microbiota of mice.
- 21.04.2023, _J Niu, H Xu, G Zeng, P Wang, B Raciheon, S Nawaz, Z Zeng, J Zhao_
+## Effects of dietary fibers or probiotics on functional constipation symptoms and roles of gut microbiota: a double-blinded randomized placebo trial
 
-
-_Animals, Mice, Gastrointestinal Microbiome, Music, RNA, Ribosomal, 16S, Proteobacteria, Firmicutes, Cyanobacteria, Body Weight_
-Gut microbiota is established to be associated with the diversity of gastrointestinal conditions, but information on the variation associated with music and gut microbes is limited. Current study revealed the impacts of music intervention during feeding on the growth performance and gut microbes of mice by using clinical symptoms and 16S rRNA sequencing techniques. The results showed that feeding mice with music had a significant increase in body weight after the 25th day. The Firmicutes and Proteobacteria were the most dominant phylum in the gut microbiota. Also, the relative abundance of the dominant bacteria was variable after musical intervention. In contrast to the control group, a significant decrease in alpha diversity analysis of gut bacterial microorganisms and Metastats analysis showed a significant increase in the relative abundance of 5 genera and one phylum after the music intervention. Moreover, the musical intervention during feeding caused modifications in the gut microbial composition of mice, as evidenced by an increase in the level of Firmicutes and Lactobacillus, while decreases the richness of pathogenic bacteria, e.g. Proteobacteria, Cyanobacteria and Muribaculaceae, etc. In summary, music intervention increased body weight and enhanced the abundance of beneficial bacteria by reducing the prevalence of pathogenic bacteria in gut microbiota of mice.
-
-[Source](https://www.nature.com/articles/s41598-023-33522-3)
-
-10.1038/s41598-023-33522-3
+[Source](https://doi.org/10.1080/19490976.2023.2197837)
 
 ---
 
-## Characterisation of the koala (Phascolarctos cinereus) pouch microbiota in a captive population reveals a dysbiotic compositional profile associated with neonatal mortality
-
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01527-9)
-
----
-
-## Microbiome variability of mosquito lines is consistent over time and across environments
-
-[Source](https://www.biorxiv.org/content/10.1101/2023.04.17.537119v1.abstract)
-
----
-
-## Differences in the luminal and mucosal gut microbiomes and metabolomes of oriental rat snake (Ptyas mucosus).
- 18.04.2023, _Y Wei, M Zhou, W Fang, Q Liu, H Mao, B Chen, T Zhang, Y Xu, W Zhang, Y Zheng, X Hu_
+## Use of probiotic lactobacilli in the treatment of vaginal infections: In vitro and in vivo investigations.
+ 21.04.2023, _P Liu, Y Lu, R Li, X Chen_
 
 
-Previous studies regarding the gastrointestinal biogeography of microbiomes generally focused on longitudinal comparisons, whereas few studies have compared luminal and mucosal microbiomes. Investigations of the snake gut microbiome have attracted interest because of the unique digestive physiology and hibernation behavior, but adequate sampling methods must be developed. Here, we used an omics approach combining 16S rRNA gene sequencing with untargeted metabolomics to profile the luminal and mucosal gut microbiomes and metabolomes in oriental rat snakes, with the goal of revealing the heterogeneity and co-occurrence at these sites. The α-diversity of the gut microbiome was significantly higher at mucosal sites than at luminal sites. Microbial composition also differed according to sampling site, with significant differences in the abundances of dominant phyla and genera, as well as β-diversity clustering and distribution. Metabolome profiling revealed differences that were mainly related to cholinergic substances and nucleic acids. Analysis of variations in Kyoto Encyclopedia of Genes and Genomes functions of microbes and metabolites showed that the mucosal microbiome was more frequently involved in genetic information processing and cellular processes, whereas the luminal microbiome generally participated in metabolic regulation. Notably, we found a greater abundance of the opportunistic pathogen genus Escherichia-Shigella at luminal sites and higher levels of the lipid-regulator metabolite fenfluramine at mucosal sites. Despite the extensive differences between the two sampling sites, the results revealed similarities in terms of amplicon sequence variant composition and dominant core microbes. This pilot exploration of luminal and mucosal microbiomes and metabolites provides key insights to guide future research. KEY POINTS: • Snake luminal and mucosal microbiota was distinct in composition and function. • Metabolome profiling revealed differences related to different metabolites. • The pathogenic microbes are more likely to colonize the gut lumina.
+_Infant, Newborn, Female, Humans, Lactobacillus, Premature Birth, Vagina, Vulvovaginitis, Probiotics_
+The vaginal microbiome is a distinct component of the human microbiome that is colonized by a wide variety of microorganisms. Lactobacilli are the most frequently identified microorganisms in the healthy human vagina. These Gram-positive bacilli can acidify the vaginal microenvironment, inhibit the proliferation of other pathogenic microorganisms, and promote the maintenance of a eubiotic vaginal microbiome. However, a vaginal flora with a reduced proportion or abundance of lactobacilli is associated with various vaginal infections that have been linked to serious health consequences such as infertility, preterm birth, pelvic inflammatory disease, premature rupture of membranes, and miscarriage. Due to their "Generally Recognized as Safe" classification and critical role in vaginal health, probiotic lactobacilli have been widely used as an alternative or adjunct to traditional antibiotic therapy for the treatment of vaginal infections and restoration of the vaginal microbiome. This review focuses on the significant role of probiotic lactobacilli in the vaginal microenvironment and discusses the use of probiotic lactobacilli in the treatment of female vaginal infections in vitro and in vivo.
 
-[Source](https://link.springer.com/article/10.1007/s00253-023-12524-1)
+[Source](https://doi.org/10.3389/fcimb.2023.1153894)
 
-10.1007/s00253-023-12524-1
+10.3389/fcimb.2023.1153894
 
 ---
 
-## Improved eukaryotic detection compatible with large-scale automated analysis of metagenomes.
- 13.04.2023, _W Bazant, AS Blevins, K Crouch, DP Beiting_
+## The hindgut microbiome contributes to host oxidative stress in postpartum dairy cows by affecting glutathione synthesis process.
+ 22.04.2023, _F Gu, S Zhu, J Hou, Y Tang, JX Liu, Q Xu, HZ Sun_
 
 
-_Humans, Metagenome, Eukaryota, Microbiota, Bacteria, Archaea, Metagenomics_
-Eukaryotes such as fungi and protists frequently accompany bacteria and archaea in microbial communities. Unfortunately, their presence is difficult to study with "shotgun" metagenomic sequencing since prokaryotic signals dominate in most environments. Recent methods for eukaryotic detection use eukaryote-specific marker genes, but they do not incorporate strategies to handle the presence of eukaryotes that are not represented in the reference marker gene set, and they are not compatible with web-based tools for downstream analysis.
+Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which leads to significant production loss and metabolic disorders. The gut microbiota has been linked to host health and stress levels. However, to what extent the gut microbiota is associated with postpartum OS remains unknown. In this study, the contribution of the fecal microbiota to postpartum systemic OS and its underlying mechanisms were investigated by integrating 16S rRNA gene sequencing, metagenomics, and metabolomics in postpartum dairy cattle and by transplanting fecal microbiota from cattle to mice.
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01505-1)
+[Source](https://doi.org/10.1186/s40168-023-01535-9)
 
-10.1186/s40168-023-01505-1
+10.1186/s40168-023-01535-9
 
 ---
 
-## Functional gene-guided enrichment plus in situ microsphere cultivation enables isolation of new crucial ureolytic bacteria from the rumen of cattle.
- 18.04.2023, _S Liu, Z Yu, H Zhong, N Zheng, S Huws, J Wang, S Zhao_
+## Gut microbiome responds compositionally and functionally to the seasonal diet variations in wild gibbons
 
+[Source](https://doi.org/10.1038/s41522-023-00388-2)
 
-_Animals, Cattle, Rumen, Microspheres, Urease, Bacteria, Ruminants, Amino Acids, Urea, Nitrogen_
-Ruminants can utilize urea as a dietary nitrogen source owing to their ability to recycle urea-N back to the rumen where numerous ureolytic bacteria hydrolyze urea into ammonia, which is used by numerous bacteria as their nitrogen source. Rumen ureolytic bacteria are the key microbes making ruminants the only type of animals independent of pre-formed amino acids for survival, thus having attracted much research interest. Sequencing-based studies have helped gain new insights into ruminal ureolytic bacterial diversity, but only a limited number of ureolytic bacteria have been isolated into pure cultures or studied, hindering the understanding of ureolytic bacteria with respect to their metabolism, physiology, and ecology, all of which are required to effectively improve urea-N utilization efficiency.
+---
 
-[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01510-4)
+## Metagenomic and metatranscriptomic exploration of the Egyptian Red Sea sponge <em>Theonella</em> sp. associated microbial community
 
-10.1186/s40168-023-01510-4
+[Source](https://doi.org/10.1016/j.margen.2023.101032)
+
+---
+
+## <em>Vibrio cholerae</em> Invasion Dynamics of the Chironomid Host Are Strongly Influenced by Aquatic Cell Density and Can Vary by Strain
+
+[Source](https://doi.org/10.1128/spectrum.02652-22)
+
+---
+
+## Antibiotic Conditioning Shapes Pseudosterile Mouse Models by Deleting Colonic Microbes Rather than Small Intestinal Microbes
+
+[Source](https://doi.org/10.1128/spectrum.00814-23)
+
+---
+
+## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage
+
+[Source](https://doi.org/10.1186/s40168-023-01525-x)
+
+---
+
+## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions
+
+[Source](https://doi.org/10.1186/s40793-023-00493-x)
+
+---
+
+## Effects of vermicompost leachate on nitrogen, phosphorus, and microbiome in a food waste bioponic system
+
+[Source](https://doi.org/10.1016/j.jenvman.2023.117860)
+
+---
+
+## The effect of wheat genotype on the microbiome is more evident in roots and varies through time
+
+[Source](https://doi.org/10.1038/s43705-023-00238-4)
+
+---
+
+## Disentangling temporal associations in marine microbial networks
+
+[Source](https://doi.org/10.1186/s40168-023-01523-z)
+
+---
+
+## Evaluating the Reproducibility of Amplicon Sequencing Data Derived from Deep-Sea Cold Seep Sediment-Associated Microbiota
+
+[Source](https://doi.org/10.1128/spectrum.04048-22)
+
+---
+
+## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures
+
+[Source](https://doi.org/10.1016/bs.aambs.2022.11.001)
+
+---
+
+## Deciphering associations between gut microbiota and clinical factors using microbial modules
+
+[Source](https://doi.org/10.1093/bioinformatics/btad213)
+
+---
+
+## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis
+
+[Source](https://doi.org/10.1038/s43705-023-00239-3)
+
+---
+
+## Integrating Multi-Omics Data to Construct Reliable Interconnected Models of Signaling, Gene Regulatory, and Metabolic Pathways
+
+[Source](https://doi.org/10.1007/978-1-0716-3008-2_6)
+
+---
+
+## Interactions between the lipidome and genetic and environmental factors in autism
+
+[Source](https://doi.org/10.1038/s41591-023-02271-1)
 
 ---
 
