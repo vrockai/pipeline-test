@@ -141,9 +141,15 @@ Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which l
 
 ---
 
-## Antibiotic Conditioning Shapes Pseudosterile Mouse Models by Deleting Colonic Microbes Rather than Small Intestinal Microbes
+## Antibiotic Conditioning Shapes Pseudosterile Mouse Models by Deleting Colonic Microbes Rather than Small Intestinal Microbes.
+ 19.04.2023, _Q Chen, X Ma, Z Xing, X Zhao, H Zu, Z Guo, B Li_
+
+
+A simple model of alternative microbiota in the developing intestinal environment has been highly desirable for the study of health and disease in the gut. The pattern of antibiotic depletion of natural gut microbes is necessary for this model. However, the effects and loci of antibiotic deletion of gut microbes remain unclear. In this study, a mixture of three proven broad-spectrum antibiotics was selected to study their effects on microbial deletions in the jejunum, ileum, and colon of mice. The 16S rRNA sequencing results showed that antibiotics significantly reduced colonic microbial diversity, with limited effects on the jejunum and ileum. At the level of microbial genera, only 93.38% of Burkholderia-Caballeronia-Paraburkholderia and 5.89% of Enterorhabdus were present in the colon after antibiotic treatment. However, such changes were not observed in the microbial composition of the jejunum and ileum. Our results suggest that the antibiotics depleted intestinal microorganisms by acting primarily in the colon and not in the small intestine (jejunum and ileum). IMPORTANCE Many studies have applied antibiotics to delete intestinal microbes to shape pseudosterile mouse models and further used for fecal microbial transplantation. However, few studies have explored the spatial location of antibiotic action in the intestine. This study shows that the selected antibiotics effectively deleted microbiota in the colon of mice, with limited effects on microbes in the jejunum and ileum. Our study provides guidance for the application of a mouse model of antibiotic deletion of intestinal microbes.
 
 [Source](https://doi.org/10.1128/spectrum.00814-23)
+
+10.1128/spectrum.00814-23
 
 ---
 
