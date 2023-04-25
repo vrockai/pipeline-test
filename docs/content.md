@@ -59,15 +59,15 @@ Microbial communities played a vital role in maintaining homeostasis of ocular s
 
 ---
 
-## Changes in NO2 and O3 levels due to the pandemic lockdown in the industrial cities of Tehran and Arak, Iran using Sentinel 5P images, Google Earth Engine (GEE) and statistical analysis.
- 24.04.2023, _LK Gharibvand, AA Jamali, F Amiri_
+## Magnetic resonance imaging-radiomics in endometrial cancer: a systematic review and meta-analysis.
+ 24.04.2023, _V Di Donato, E Kontopantelis, I Cuccu, L Sgamba, T Golia D'Augè, A Pernazza, C Della Rocca, L Manganaro, C Catalano, G Perniola, I Palaia, F Tomao, A Giannini, L Muzii, G Bogani_
 
 
-Air pollution has very damaging effects on human health. In recent years the Coronavirus disease (COVID-19) pandemic has created a worldwide economic disaster. Although the consequences of the COVID-19 lockdowns have had severe effects on economic and social conditions, these lockdowns also have also left beneficial effects on improving air quality and the environment. This research investigated the impact of the COVID-19 lockdown on NO2 and O3 pollutants changes in the industrial and polluted cities of Arak and Tehran in Iran. Based on this, the changes in NO2 and O3 levels during the 2020 lockdown and the same period in 2019 were investigated in these two cities. For this purpose, the Sentinel-5P data of these two pollutants were used during the lockdown period from November 19 to December 05, 2020, and at the same time before the pandemic from November 19 to December 05, 2019. For better results, the effect of climatic factors such as rain and wind in reducing pollution was removed. The obtained results indicate a decrease in NO2 and O3 levels by 3.5% and 6.8% respectively in Tehran and 20.97% and 5.67% in Arak during the lockdown of 2020 compared to the same time in 2019. This decrease can be caused by the reduction in transportation and socio-economic and industrial activities following the lockdown measures. This issue can be a solid point to take a step toward controlling and reducing pollution in non-epidemic conditions by implementing similar standards and policies in the future.
+Endometrial carcinoma is the most common gynecological tumor in developed countries. Clinicopathological factors and molecular subtypes are used to stratify the risk of recurrence and to tailor adjuvant treatment. The present study aimed to assess the role of radiomics analysis in pre-operatively predicting molecular or clinicopathological prognostic factors in patients with endometrial carcinoma.
 
 [Source](https://doi.org/10.1093/procel/pwad020)
 
-10.1007/s00477-022-02362-4
+10.1136/ijgc-2023-004313
 
 ---
 
@@ -77,15 +77,15 @@ Air pollution has very damaging effects on human health. In recent years the Cor
 
 ---
 
-## Effect of Screw speed, Temperature and Moisture on Physicochemical Properties of Corn Gluten Meal Extrudate.
- 24.04.2023, _M Xu, X Zhang, Y Zhang, J Wang, J Li, Y Hu, S Cao, G Luan_
+## Fermentation of grapefruit peel by an efficient cellulose-degrading strain, (Penicillium YZ-1): Modification, structure and functional properties of soluble dietary fiber.
+ 24.04.2023, _W Ma, Y Liang, H Lin, Y Chen, J Xie, F Ai, Z Yan, X Hu, Q Yu_
 
 
-Corn gluten meal (CGM) is the main by-product of corn starch with rich protein and dietary fiber. The extrusion of CGM with a twin-screw extruder aimed to expand the novel utilization of this plant-protein resource. The impacts of screw speed, extrusion temperature, and material moisture on physicochemical properties of the extrudates were assessed.
+In the study, a highly efficient cellulose-degrading strain was screened, which was identified as a fungus in the genus Penicillium sp., named YZ-1. The content of soluble dietary fiber was greatly increased by the treatment of this strain. In addition, the effects of soluble dietary fiber from high-pressure cooking group (HG-SDF), strain fermentation group (FG-SDF) and control group (CK-SDF) on the physicochemical structure, and in vitro hypolipidemic activity were investigated. The results showed that the physicochemical structure of the raw materials was improved after fermentation, and FG-SDF exhibited the loosest structure, the highest viscosity and thermal stability. Furthermore, compared to CK-SDF and HG-SDF, FG-SDF showed the most significant improvement in functional properties, including cholesterol adsorption capacity (CAC), inhibition of pancreatic lipase activity (LI) and mixed bile acid adsorption capacity (BBC). Overall, these findings will provide new insights into dietary fiber modification and improve the comprehensive use value of grapefruit by-products.
 
 [Source](https://doi.org/10.1080/19490976.2023.2197837)
 
-10.1002/jsfa.12649
+10.1016/j.foodchem.2023.136123
 
 ---
 
@@ -138,39 +138,21 @@ Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which l
 
 ---
 
-## Antibiotic Conditioning Shapes Pseudosterile Mouse Models by Deleting Colonic Microbes Rather than Small Intestinal Microbes.
- 19.04.2023, _Q Chen, X Ma, Z Xing, X Zhao, H Zu, Z Guo, B Li_
-
-
-A simple model of alternative microbiota in the developing intestinal environment has been highly desirable for the study of health and disease in the gut. The pattern of antibiotic depletion of natural gut microbes is necessary for this model. However, the effects and loci of antibiotic deletion of gut microbes remain unclear. In this study, a mixture of three proven broad-spectrum antibiotics was selected to study their effects on microbial deletions in the jejunum, ileum, and colon of mice. The 16S rRNA sequencing results showed that antibiotics significantly reduced colonic microbial diversity, with limited effects on the jejunum and ileum. At the level of microbial genera, only 93.38% of Burkholderia-Caballeronia-Paraburkholderia and 5.89% of Enterorhabdus were present in the colon after antibiotic treatment. However, such changes were not observed in the microbial composition of the jejunum and ileum. Our results suggest that the antibiotics depleted intestinal microorganisms by acting primarily in the colon and not in the small intestine (jejunum and ileum). IMPORTANCE Many studies have applied antibiotics to delete intestinal microbes to shape pseudosterile mouse models and further used for fecal microbial transplantation. However, few studies have explored the spatial location of antibiotic action in the intestine. This study shows that the selected antibiotics effectively deleted microbiota in the colon of mice, with limited effects on microbes in the jejunum and ileum. Our study provides guidance for the application of a mouse model of antibiotic deletion of intestinal microbes.
+## Antibiotic Conditioning Shapes Pseudosterile Mouse Models by Deleting Colonic Microbes Rather than Small Intestinal Microbes
 
 [Source](https://doi.org/10.1128/spectrum.00814-23)
 
-10.1128/spectrum.00814-23
-
 ---
 
-## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage.
- 24.04.2023, _Z Pang, X Mao, S Zhou, S Yu, G Liu, C Lu, J Wan, L Hu, P Xu_
-
-
-Plants sustain intimate relationships with diverse microbes. It is well-recognized that these plant-associated microbiota shape individual performance and fitness of host plants, but much remains to be explored regarding how they exert their function and maintain their homeostasis.
+## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage
 
 [Source](https://doi.org/10.1186/s40168-023-01525-x)
 
-10.1186/s40168-023-01525-x
-
 ---
 
-## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions.
- 24.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
-
-
-Microbiomes are critical to plants, promoting growth, elevating stress tolerance, and expanding the plant's metabolic repertoire with novel defense pathways. However, generally microbiomes within plant tissues, which intimately interact with their hosts, remain poorly characterized. These endospheres have become a focus in banana (Musa spp.)-an important plant for study of microbiome-based disease protection. Banana is important to global food security, while also being critically threatened by pandemic diseases. Domestication and clonal propagation are thought to have depleted protective microbiomes, whereas wild relatives may hold promise for new microbiome-based biological controls. The goal was to compare metapangenomes enriched from 7 Musa genotypes, including wild and cultivated varieties grown in sympatry, to assess the host associations with root and leaf endosphere functional profiles.
+## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions
 
 [Source](https://doi.org/10.1186/s40793-023-00493-x)
-
-10.1186/s40793-023-00493-x
 
 ---
 
@@ -180,76 +162,39 @@ Microbiomes are critical to plants, promoting growth, elevating stress tolerance
 
 ---
 
-## The effect of wheat genotype on the microbiome is more evident in roots and varies through time.
- 22.04.2023, _L Quiza, J Tremblay, AP Pagé, CW Greer, CJ Pozniak, R Li, B Haug, SM Hemmingsen, M St-Arnaud, E Yergeau_
-
-
-Crop breeding has traditionally ignored the plant-associated microbial communities. Considering the interactions between plant genotype and associated microbiota is of value since different genotypes of the same crop often harbor distinct microbial communities which can influence the plant phenotype. However, recent studies have reported contrasting results, which led us to hypothesize that the effect of genotype is constrained by growth stages, sampling year and plant compartment. To test this hypothesis, we sampled bulk soil, rhizosphere soil and roots of 10 field-grown wheat genotypes, twice per year, for 4 years. DNA was extracted and regions of the bacterial 16 S rRNA and CPN60 genes and the fungal ITS region were amplified and sequenced. The effect of genotype was highly contingent on the time of sampling and on the plant compartment sampled. Only for a few sampling dates, were the microbial communities significantly different across genotypes. The effect of genotype was most often significant for root microbial communities. The three marker genes used provided a highly coherent picture of the effect of genotype. Taken together, our results confirm that microbial communities in the plant environment strongly vary across compartments, growth stages, and years, and that this can mask the effect of genotype.
+## The effect of wheat genotype on the microbiome is more evident in roots and varies through time
 
 [Source](https://doi.org/10.1038/s43705-023-00238-4)
 
-10.1038/s43705-023-00238-4
-
 ---
 
-## Disentangling temporal associations in marine microbial networks.
- 24.04.2023, _IM Deutschmann, AK Krabberød, F Latorre, E Delage, C Marrasé, V Balagué, JM Gasol, R Massana, D Eveillard, S Chaffron, R Logares_
-
-
-_Ecosystem, Bacteria, Microbial Consortia, Microbiota, Seasons, Microbial Interactions_
-Microbial interactions are fundamental for Earth's ecosystem functioning and biogeochemical cycling. Nevertheless, they are challenging to identify and remain barely known. Omics-based censuses are helpful in predicting microbial interactions through the statistical inference of single (static) association networks. Yet, microbial interactions are dynamic and we have limited knowledge of how they change over time. Here, we investigate the dynamics of microbial associations in a 10-year marine time series in the Mediterranean Sea using an approach inferring a time-resolved (temporal) network from a single static network.
+## Disentangling temporal associations in marine microbial networks
 
 [Source](https://doi.org/10.1186/s40168-023-01523-z)
 
-10.1186/s40168-023-01523-z
-
 ---
 
-## Evaluating the Reproducibility of Amplicon Sequencing Data Derived from Deep-Sea Cold Seep Sediment-Associated Microbiota.
- 19.04.2023, _J Kong, J Feng, L Sun, S Zhang_
-
-
-Benefiting from the rapid developments and wide applications of high-throughput sequencing, great advancements have been made in investigating microbiota, which are highly diverse and play key roles in both element cycling and the energy flow of ecosystems. There have been inherent limitations of amplicon sequencing that could introduce uncertainty and raise concerns about the accuracy and reproducibility of this technology. However, studies focusing on the reproducibility of amplicon sequencing are limited, especially in characterizing microbial communities in deep-sea sediments. To evaluate reproducibility, 118 deep-sea sediment samples were used for 16S rRNA gene sequencing in technical replicates (repeated measurements of the same sample) that demonstrate the variability of amplicon sequencing. The average occurrence-based overlaps were 35.98% and 27.02% between two and among three technical replicates, respectively, whereas their abundance-based overlaps reached 84.88% and 83.16%, respectively. Although variations of alpha and beta diversity indices were found between/among technical replicates, alpha diversity indices were similar across samples, and the average beta diversity indices were much smaller for technical replicates than among samples. Moreover, clustering methods (i.e., operational taxonomic units [OTUs] and amplicon sequence variants [ASVs]) were shown to have little impact on the alpha and beta diversity patterns of microbial communities. Taken together, although there are variations between/among technical replicates, amplicon sequencing is still a powerful tool with which to reveal diversity patterns of microbiota in deep-sea sediments. IMPORTANCE The reproducibility of amplicon sequencing is vital for whether the diversities of microbial communities could be accurately estimated. Thus, reproducibility influences the drawing of sound ecological conclusions. Nevertheless, few studies have focused on the reproducibility of microbial communities that are characterized by amplicon sequencing, and studies focusing on microbiota in deep-sea sediments have been especially lacking. In this study, we evaluated the reproducibility of amplicon sequencing targeting microbiota in deep-sea sediments of cold seep. Our results revealed that there were variations between/among technical replicates and that amplicon sequencing was still a powerful tool with which to characterize the diversities of microbial communities in deep-sea sediments. This study provides valuable guidelines for the reproducibility evaluation of future work in experimental design and interpretation.
+## Evaluating the Reproducibility of Amplicon Sequencing Data Derived from Deep-Sea Cold Seep Sediment-Associated Microbiota
 
 [Source](https://doi.org/10.1128/spectrum.04048-22)
 
-10.1128/spectrum.04048-22
-
 ---
 
-## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures.
- 24.04.2023, _B Delgado Corrales, R Kaiser, P Nerlich, A Agraviador, A Sherry_
-
-
-BioMateriOME evolved from a prototyping process which was informed from discussions between a team of designers, architects and microbiologists, when considering constructing with biomaterials or human cohabitation with novel living materials in the built environment. The prototype has two elements (i) BioMateriOME-Public (BMP), an interactive public materials library, and (ii) BioMateriOME-eXperimental (BMX), a replicated materials library for rigorous microbiome experimentation. The prototype was installed into the OME, a unique experimental living house, in order to (1) gain insights into society's perceptions of living materials, and (2) perform a comparative analysis of indoor surface microbiome development on novel biomaterials in contrast to conventional indoor surfaces, respectively. This review summarizes the BioMateriOME prototype and its use as a tool in combining microbiology, design, architecture and social science. The use of microbiology and biological components in the fabrication of biomaterials is provided, together with an appreciation of the microbial communities common to conventional indoor surfaces, and how these communities may change in response to the implementation of living materials in our homes. Societal perceptions of microbiomes and biomaterials, are considered within the framework of healthy architecture. Finally, features of architectural design with microbes in mind are introduced, with the possibility of codifying microbial surveillance into design and construction benchmarks, standards and regulations toward healthier buildings and their occupants.
+## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures
 
 [Source](https://doi.org/10.1016/bs.aambs.2022.11.001)
 
-10.1016/bs.aambs.2022.11.001
-
 ---
 
-## Deciphering associations between gut microbiota and clinical factors using microbial modules.
- 21.04.2023, _R Wang, X Zheng, F Song, MH Wong, KS Leung, L Cheng_
-
-
-Human gut microbiota plays a vital role in maintaining body health. The dysbiosis of gut microbiota is associated with a variety of diseases. It is critical to uncover the associations between gut microbiota and disease states as well as other intrinsic or environmental factors. However, inferring alterations of individual microbial taxa based on relative abundance data likely leads to false associations and conflicting discoveries in different studies. Moreover, the effects of underlying factors and microbe-microbe interactions could lead to the alteration of larger sets of taxa. It might be more robust to investigate gut microbiota using groups of related taxa instead of the composition of individual taxa.
+## Deciphering associations between gut microbiota and clinical factors using microbial modules
 
 [Source](https://doi.org/10.1093/bioinformatics/btad213)
 
-10.1093/bioinformatics/btad213
-
 ---
 
-## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis.
- 24.04.2023, _J Zorz, C Li, A Chakraborty, DA Gittins, T Surcon, N Morrison, R Bennett, A MacDonald, CRJ Hubert_
-
-
-Microbiome analysis through 16S rRNA gene sequencing is a crucial tool for understanding the microbial ecology of any habitat or ecosystem. However, workflows require large equipment, stable internet, and extensive computing power such that most of the work is performed far away from sample collection in both space and time. Performing amplicon sequencing and analysis at sample collection would have positive implications in many instances including remote fieldwork and point-of-care medical diagnoses. Here we present SituSeq, an offline and portable workflow for the sequencing and analysis of 16S rRNA gene amplicons using Nanopore sequencing and a standard laptop computer. SituSeq was validated by comparing Nanopore 16S rRNA gene amplicons, Illumina 16S rRNA gene amplicons, and Illumina metagenomes, sequenced using the same environmental DNA. Comparisons revealed consistent community composition, ecological trends, and sequence identity across platforms. Correlation between the abundance of taxa in each taxonomic level in Illumina and Nanopore data sets was high (Pearson's r &gt; 0.9), and over 70% of Illumina 16S rRNA gene sequences matched a Nanopore sequence with greater than 97% sequence identity. On board a research vessel on the open ocean, SituSeq was used to analyze amplicon sequences from deep sea sediments less than 2 h after sequencing, and 8 h after sample collection. The rapidly available results informed decisions about subsequent sampling in near real-time while the offshore expedition was still underway. SituSeq is a portable and user-friendly workflow that helps to bring the power of microbial genomics and diagnostics to many more researchers and situations.
+## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis
 
 [Source](https://doi.org/10.1038/s43705-023-00239-3)
-
-10.1038/s43705-023-00239-3
 
 ---
 
