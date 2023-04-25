@@ -1,7 +1,8 @@
 ## Effects of ultra-processed foods on the microbiota-gut-brain axis: The bread-and-butter issue.
- 24.04.2023, _Z Song, R Song, Y Liu, Z Wu, X Zhang_
+ 25.04.2023, _Z Song, R Song, Y Liu, Z Wu, X Zhang_
 
 
+_Brain-Gut Axis, Food, Processed, Bread, Food Additives, Sugars_
 The topic of gut microbiota and the microbiota-gut-brain (MGB) axis has become the forefront of research and reports in the past few years. The gut microbiota is a dynamic interface between the environment, food, and the host, reflecting the health status as well as maintaining normal physiological metabolism. Modern ultra-processed foods (UPF) contain large quantities of saturated and trans fat, added sugar, salt, and food additives that seriously affect the gut and physical health. In addition, these unhealthy components directly cause changes in gut microbiota functions and microbial metabolism, subsequently having the potential to impact the neural network. This paper reviews an overview of the link between UPF ingredients and the MGB axis. Considerable studies have examined that high intake of trans fat, added sugar and salt have deleterious effects on gut and brain functions, but relatively less focus has been placed on the impact of food additives on the MGB axis. Data from several studies suggest that food additives might be linked to metabolic diseases and inflammation. They may also alter the gut microbiota composition and microbial metabolites, which potentially affect cognition and behavior. Therefore, we emphasize that food additives including emulsifiers, artificial sweeteners, colorants, and preservatives interact with the gut microbiota and their possible effects on altering the brain and behavior based on the latest research. Future studies should further investigate whether gut dysbiosis mediates the effect of UPF on brain diseases and behavior. This thesis here sheds new light on future research pointing to the potentially detrimental effects of processed food consumption on brain health.
 
 [Source](https://doi.org/10.1016/j.foodres.2023.112730)
@@ -36,9 +37,10 @@ The gut microbiome plays an important role in cancer pathogenesis and therapy. S
 ---
 
 ## Multi-omics signatures in new-onset diabetes predict metabolic response to dietary inulin: findings from an observational study followed by an interventional trial.
- 24.04.2023, _N Ďásková, I Modos, M Krbcová, M Kuzma, H Pelantová, J Hradecký, M Heczková, M Bratová, P Videňská, P Šplíchalová, M Králová, M Heniková, J Potočková, A Ouřadová, R Landberg, T Kühn, M Cahová, J Gojda_
+ 25.04.2023, _N Ďásková, I Modos, M Krbcová, M Kuzma, H Pelantová, J Hradecký, M Heczková, M Bratová, P Videňská, P Šplíchalová, M Králová, M Heniková, J Potočková, A Ouřadová, R Landberg, T Kühn, M Cahová, J Gojda_
 
 
+_Humans, Inulin, Diabetes Mellitus, Type 2, Case-Control Studies, Cross-Sectional Studies, Multiomics, Obesity, Overweight_
 The metabolic performance of the gut microbiota contributes to the onset of type 2 diabetes. However, targeted dietary interventions are limited by the highly variable inter-individual response. We hypothesized (1) that the composition of the complex gut microbiome and metabolome (MIME) differ across metabolic spectra (lean-obese-diabetes); (2) that specific MIME patterns could explain the differential responses to dietary inulin; and (3) that the response can be predicted based on baseline MIME signature and clinical characteristics.
 
 [Source](https://doi.org/10.1038/s41387-023-00235-5)
@@ -59,15 +61,15 @@ Microbial communities played a vital role in maintaining homeostasis of ocular s
 
 ---
 
-## Magnetic resonance imaging-radiomics in endometrial cancer: a systematic review and meta-analysis.
- 24.04.2023, _V Di Donato, E Kontopantelis, I Cuccu, L Sgamba, T Golia D'Augè, A Pernazza, C Della Rocca, L Manganaro, C Catalano, G Perniola, I Palaia, F Tomao, A Giannini, L Muzii, G Bogani_
+## Movements and spatial usage of harbour seals in the Elbe estuary in Germany.
+ 24.04.2023, _A van Neer, D Nachtsheim, U Siebert, T Taupp_
 
 
-Endometrial carcinoma is the most common gynecological tumor in developed countries. Clinicopathological factors and molecular subtypes are used to stratify the risk of recurrence and to tailor adjuvant treatment. The present study aimed to assess the role of radiomics analysis in pre-operatively predicting molecular or clinicopathological prognostic factors in patients with endometrial carcinoma.
+Harbour seals are top predators in the North Sea and regarded as sentinels for ecosystem health. A few hundred also occur in adjacent estuaries, such as the Elbe estuary, Germany. However, only little is known about how these animals use this dynamic tidally influenced habitat, which has been under high anthropogenic pressure for decades. In this context, nine harbour seals (Phoca vitulina) from the Elbe estuary were equipped with biotelemetry devices to track their movements over multiple months. Harbour seal movements were characterised by short trips (trip length outside pupping season for females: 9.0 ± 1.12 km, males: 7.0 ± 1.24 km) as well as small home ranges (median 50% home range for females: 16.3 km2, males: 36.1 km2) compared to harbour seals from marine regions. Within the estuary, the animals utilised the fairway, river branches and tributaries. During the pupping season in June and July, four seals showed strongly reduced trip lengths and durations, increased daily haul out durations as well as smaller home ranges. Even though a continuous exchange with harbour seals from the Wadden Sea likely occurs, most individuals in this study spent the entire deployment duration inside the estuary. This indicates that the Elbe estuary provides a suitable habitat for harbour seals, despite extensive anthropogenic usage, calling for further studies on the consequences of living in such an industrialised habitat.
 
 [Source](https://doi.org/10.1093/procel/pwad020)
 
-10.1136/ijgc-2023-004313
+10.1038/s41598-023-33594-1
 
 ---
 
@@ -77,15 +79,15 @@ Endometrial carcinoma is the most common gynecological tumor in developed countr
 
 ---
 
-## Fermentation of grapefruit peel by an efficient cellulose-degrading strain, (Penicillium YZ-1): Modification, structure and functional properties of soluble dietary fiber.
- 24.04.2023, _W Ma, Y Liang, H Lin, Y Chen, J Xie, F Ai, Z Yan, X Hu, Q Yu_
+## Whole grain metabolite 3,5-dihydroxybenzoic acid is a beneficial nutritional molecule with the feature of a double-edged sword in human health: a critical review and dietary considerations.
+ 25.04.2023, _W Wagner, K Sobierajska, Ł Pułaski, A Stasiak, WM Ciszewski_
 
 
-In the study, a highly efficient cellulose-degrading strain was screened, which was identified as a fungus in the genus Penicillium sp., named YZ-1. The content of soluble dietary fiber was greatly increased by the treatment of this strain. In addition, the effects of soluble dietary fiber from high-pressure cooking group (HG-SDF), strain fermentation group (FG-SDF) and control group (CK-SDF) on the physicochemical structure, and in vitro hypolipidemic activity were investigated. The results showed that the physicochemical structure of the raw materials was improved after fermentation, and FG-SDF exhibited the loosest structure, the highest viscosity and thermal stability. Furthermore, compared to CK-SDF and HG-SDF, FG-SDF showed the most significant improvement in functional properties, including cholesterol adsorption capacity (CAC), inhibition of pancreatic lipase activity (LI) and mixed bile acid adsorption capacity (BBC). Overall, these findings will provide new insights into dietary fiber modification and improve the comprehensive use value of grapefruit by-products.
+Nonprocessed foodstuffs of plant origin, especially whole-grain cereals, are considered to be health-promoting components of the human diet. While most of their well-studied effects derive from their high fiber content and low glycemic index, the presence of underrated phenolic phytonutrients has recently been brought to the attention of nutritionists. In this review, we report and discuss findings on the sources and bioactivities of 3,5-dihydroxybenzoic acid (3,5-DHBA), which is both a direct dietary component (found, e.g., in apples) and, more importantly, a crucial metabolite of whole-grain cereal-derived alkylresorcinols (ARs). 3,5-DHBA is a recently described exogenous agonist of the HCAR1/GPR81 receptor. We concentrate on the HCAR1-mediated effects of 3,5-DHBA in the nervous system, on the maintenance of cell stemness, regulation of carcinogenesis, and response to anticancer therapy. Unexpectedly, malignant tumors take advantage of HCAR1 expression to sense 3,5-DHBA to support their growth. Thus, there is an urgent need to fully identify the role of whole-grain-derived 3,5-DHBA during anticancer therapy and its contribution in the regulation of vital organs of the body via its specific HCAR1 receptor. We discuss here in detail the possible consequences of the modulatory capabilities of 3,5-DHBA in physiological and pathological conditions in humans.
 
 [Source](https://doi.org/10.1080/19490976.2023.2197837)
 
-10.1016/j.foodchem.2023.136123
+10.1080/10408398.2023.2203762
 
 ---
 
@@ -109,9 +111,10 @@ The vaginal microbiome is a distinct component of the human microbiome that is c
 ---
 
 ## The hindgut microbiome contributes to host oxidative stress in postpartum dairy cows by affecting glutathione synthesis process.
- 24.04.2023, _F Gu, S Zhu, J Hou, Y Tang, JX Liu, Q Xu, HZ Sun_
+ 25.04.2023, _F Gu, S Zhu, J Hou, Y Tang, JX Liu, Q Xu, HZ Sun_
 
 
+_Humans, Female, Cattle, Animals, Mice, RNA, Ribosomal, 16S, Glutamine, Cysteine, Postpartum Period, Microbiota, Glutathione, Oxidative Stress, Glutamates_
 Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which leads to significant production loss and metabolic disorders. The gut microbiota has been linked to host health and stress levels. However, to what extent the gut microbiota is associated with postpartum OS remains unknown. In this study, the contribution of the fecal microbiota to postpartum systemic OS and its underlying mechanisms were investigated by integrating 16S rRNA gene sequencing, metagenomics, and metabolomics in postpartum dairy cattle and by transplanting fecal microbiota from cattle to mice.
 
 [Source](https://doi.org/10.1186/s40168-023-01535-9)
@@ -144,15 +147,28 @@ Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which l
 
 ---
 
-## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage
+## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage.
+ 25.04.2023, _Z Pang, X Mao, S Zhou, S Yu, G Liu, C Lu, J Wan, L Hu, P Xu_
+
+
+_Humans, Nitrogen Fixation, Polysaccharides, Microbiota, Bacteria, Rhizosphere, Plants, Homeostasis, Plant Roots, Soil Microbiology_
+Plants sustain intimate relationships with diverse microbes. It is well-recognized that these plant-associated microbiota shape individual performance and fitness of host plants, but much remains to be explored regarding how they exert their function and maintain their homeostasis.
 
 [Source](https://doi.org/10.1186/s40168-023-01525-x)
 
+10.1186/s40168-023-01525-x
+
 ---
 
-## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions
+## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions.
+ 24.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
+
+
+Microbiomes are critical to plants, promoting growth, elevating stress tolerance, and expanding the plant's metabolic repertoire with novel defense pathways. However, generally microbiomes within plant tissues, which intimately interact with their hosts, remain poorly characterized. These endospheres have become a focus in banana (Musa spp.)-an important plant for study of microbiome-based disease protection. Banana is important to global food security, while also being critically threatened by pandemic diseases. Domestication and clonal propagation are thought to have depleted protective microbiomes, whereas wild relatives may hold promise for new microbiome-based biological controls. The goal was to compare metapangenomes enriched from 7 Musa genotypes, including wild and cultivated varieties grown in sympatry, to assess the host associations with root and leaf endosphere functional profiles.
 
 [Source](https://doi.org/10.1186/s40793-023-00493-x)
+
+10.1186/s40793-023-00493-x
 
 ---
 
@@ -162,39 +178,77 @@ Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which l
 
 ---
 
-## The effect of wheat genotype on the microbiome is more evident in roots and varies through time
+## The effect of wheat genotype on the microbiome is more evident in roots and varies through time.
+ 22.04.2023, _L Quiza, J Tremblay, AP Pagé, CW Greer, CJ Pozniak, R Li, B Haug, SM Hemmingsen, M St-Arnaud, E Yergeau_
+
+
+Crop breeding has traditionally ignored the plant-associated microbial communities. Considering the interactions between plant genotype and associated microbiota is of value since different genotypes of the same crop often harbor distinct microbial communities which can influence the plant phenotype. However, recent studies have reported contrasting results, which led us to hypothesize that the effect of genotype is constrained by growth stages, sampling year and plant compartment. To test this hypothesis, we sampled bulk soil, rhizosphere soil and roots of 10 field-grown wheat genotypes, twice per year, for 4 years. DNA was extracted and regions of the bacterial 16 S rRNA and CPN60 genes and the fungal ITS region were amplified and sequenced. The effect of genotype was highly contingent on the time of sampling and on the plant compartment sampled. Only for a few sampling dates, were the microbial communities significantly different across genotypes. The effect of genotype was most often significant for root microbial communities. The three marker genes used provided a highly coherent picture of the effect of genotype. Taken together, our results confirm that microbial communities in the plant environment strongly vary across compartments, growth stages, and years, and that this can mask the effect of genotype.
 
 [Source](https://doi.org/10.1038/s43705-023-00238-4)
 
+10.1038/s43705-023-00238-4
+
 ---
 
-## Disentangling temporal associations in marine microbial networks
+## Disentangling temporal associations in marine microbial networks.
+ 24.04.2023, _IM Deutschmann, AK Krabberød, F Latorre, E Delage, C Marrasé, V Balagué, JM Gasol, R Massana, D Eveillard, S Chaffron, R Logares_
+
+
+_Ecosystem, Bacteria, Microbial Consortia, Microbiota, Seasons, Microbial Interactions_
+Microbial interactions are fundamental for Earth's ecosystem functioning and biogeochemical cycling. Nevertheless, they are challenging to identify and remain barely known. Omics-based censuses are helpful in predicting microbial interactions through the statistical inference of single (static) association networks. Yet, microbial interactions are dynamic and we have limited knowledge of how they change over time. Here, we investigate the dynamics of microbial associations in a 10-year marine time series in the Mediterranean Sea using an approach inferring a time-resolved (temporal) network from a single static network.
 
 [Source](https://doi.org/10.1186/s40168-023-01523-z)
 
+10.1186/s40168-023-01523-z
+
 ---
 
-## Evaluating the Reproducibility of Amplicon Sequencing Data Derived from Deep-Sea Cold Seep Sediment-Associated Microbiota
+## Evaluating the Reproducibility of Amplicon Sequencing Data Derived from Deep-Sea Cold Seep Sediment-Associated Microbiota.
+ 19.04.2023, _J Kong, J Feng, L Sun, S Zhang_
+
+
+Benefiting from the rapid developments and wide applications of high-throughput sequencing, great advancements have been made in investigating microbiota, which are highly diverse and play key roles in both element cycling and the energy flow of ecosystems. There have been inherent limitations of amplicon sequencing that could introduce uncertainty and raise concerns about the accuracy and reproducibility of this technology. However, studies focusing on the reproducibility of amplicon sequencing are limited, especially in characterizing microbial communities in deep-sea sediments. To evaluate reproducibility, 118 deep-sea sediment samples were used for 16S rRNA gene sequencing in technical replicates (repeated measurements of the same sample) that demonstrate the variability of amplicon sequencing. The average occurrence-based overlaps were 35.98% and 27.02% between two and among three technical replicates, respectively, whereas their abundance-based overlaps reached 84.88% and 83.16%, respectively. Although variations of alpha and beta diversity indices were found between/among technical replicates, alpha diversity indices were similar across samples, and the average beta diversity indices were much smaller for technical replicates than among samples. Moreover, clustering methods (i.e., operational taxonomic units [OTUs] and amplicon sequence variants [ASVs]) were shown to have little impact on the alpha and beta diversity patterns of microbial communities. Taken together, although there are variations between/among technical replicates, amplicon sequencing is still a powerful tool with which to reveal diversity patterns of microbiota in deep-sea sediments. IMPORTANCE The reproducibility of amplicon sequencing is vital for whether the diversities of microbial communities could be accurately estimated. Thus, reproducibility influences the drawing of sound ecological conclusions. Nevertheless, few studies have focused on the reproducibility of microbial communities that are characterized by amplicon sequencing, and studies focusing on microbiota in deep-sea sediments have been especially lacking. In this study, we evaluated the reproducibility of amplicon sequencing targeting microbiota in deep-sea sediments of cold seep. Our results revealed that there were variations between/among technical replicates and that amplicon sequencing was still a powerful tool with which to characterize the diversities of microbial communities in deep-sea sediments. This study provides valuable guidelines for the reproducibility evaluation of future work in experimental design and interpretation.
 
 [Source](https://doi.org/10.1128/spectrum.04048-22)
 
+10.1128/spectrum.04048-22
+
 ---
 
-## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures
+## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures.
+ 25.04.2023, _B Delgado Corrales, R Kaiser, P Nerlich, A Agraviador, A Sherry_
+
+
+_Humans, Microbiota, Built Environment, Social Sciences_
+BioMateriOME evolved from a prototyping process which was informed from discussions between a team of designers, architects and microbiologists, when considering constructing with biomaterials or human cohabitation with novel living materials in the built environment. The prototype has two elements (i) BioMateriOME-Public (BMP), an interactive public materials library, and (ii) BioMateriOME-eXperimental (BMX), a replicated materials library for rigorous microbiome experimentation. The prototype was installed into the OME, a unique experimental living house, in order to (1) gain insights into society's perceptions of living materials, and (2) perform a comparative analysis of indoor surface microbiome development on novel biomaterials in contrast to conventional indoor surfaces, respectively. This review summarizes the BioMateriOME prototype and its use as a tool in combining microbiology, design, architecture and social science. The use of microbiology and biological components in the fabrication of biomaterials is provided, together with an appreciation of the microbial communities common to conventional indoor surfaces, and how these communities may change in response to the implementation of living materials in our homes. Societal perceptions of microbiomes and biomaterials, are considered within the framework of healthy architecture. Finally, features of architectural design with microbes in mind are introduced, with the possibility of codifying microbial surveillance into design and construction benchmarks, standards and regulations toward healthier buildings and their occupants.
 
 [Source](https://doi.org/10.1016/bs.aambs.2022.11.001)
 
+10.1016/bs.aambs.2022.11.001
+
 ---
 
-## Deciphering associations between gut microbiota and clinical factors using microbial modules
+## Deciphering associations between gut microbiota and clinical factors using microbial modules.
+ 21.04.2023, _R Wang, X Zheng, F Song, MH Wong, KS Leung, L Cheng_
+
+
+Human gut microbiota plays a vital role in maintaining body health. The dysbiosis of gut microbiota is associated with a variety of diseases. It is critical to uncover the associations between gut microbiota and disease states as well as other intrinsic or environmental factors. However, inferring alterations of individual microbial taxa based on relative abundance data likely leads to false associations and conflicting discoveries in different studies. Moreover, the effects of underlying factors and microbe-microbe interactions could lead to the alteration of larger sets of taxa. It might be more robust to investigate gut microbiota using groups of related taxa instead of the composition of individual taxa.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad213)
 
+10.1093/bioinformatics/btad213
+
 ---
 
-## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis
+## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis.
+ 24.04.2023, _J Zorz, C Li, A Chakraborty, DA Gittins, T Surcon, N Morrison, R Bennett, A MacDonald, CRJ Hubert_
+
+
+Microbiome analysis through 16S rRNA gene sequencing is a crucial tool for understanding the microbial ecology of any habitat or ecosystem. However, workflows require large equipment, stable internet, and extensive computing power such that most of the work is performed far away from sample collection in both space and time. Performing amplicon sequencing and analysis at sample collection would have positive implications in many instances including remote fieldwork and point-of-care medical diagnoses. Here we present SituSeq, an offline and portable workflow for the sequencing and analysis of 16S rRNA gene amplicons using Nanopore sequencing and a standard laptop computer. SituSeq was validated by comparing Nanopore 16S rRNA gene amplicons, Illumina 16S rRNA gene amplicons, and Illumina metagenomes, sequenced using the same environmental DNA. Comparisons revealed consistent community composition, ecological trends, and sequence identity across platforms. Correlation between the abundance of taxa in each taxonomic level in Illumina and Nanopore data sets was high (Pearson's r &gt; 0.9), and over 70% of Illumina 16S rRNA gene sequences matched a Nanopore sequence with greater than 97% sequence identity. On board a research vessel on the open ocean, SituSeq was used to analyze amplicon sequences from deep sea sediments less than 2 h after sequencing, and 8 h after sample collection. The rapidly available results informed decisions about subsequent sampling in near real-time while the offshore expedition was still underway. SituSeq is a portable and user-friendly workflow that helps to bring the power of microbial genomics and diagnostics to many more researchers and situations.
 
 [Source](https://doi.org/10.1038/s43705-023-00239-3)
+
+10.1038/s43705-023-00239-3
 
 ---
 
