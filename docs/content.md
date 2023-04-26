@@ -61,15 +61,15 @@ Microbial communities played a vital role in maintaining homeostasis of ocular s
 
 ---
 
-## Movements and spatial usage of harbour seals in the Elbe estuary in Germany.
- 24.04.2023, _A van Neer, D Nachtsheim, U Siebert, T Taupp_
+## Helical Tomotherapy of Lymph Node-negative Early-stage Breast Cancer After Breast-conserving Surgery: Long-term Results.
+ 25.04.2023, _F Zwicker, R Klepper, H Hauswald, S Hoefel, L Raether, PE Huber, J Debus, M Schempp_
 
 
-Harbour seals are top predators in the North Sea and regarded as sentinels for ecosystem health. A few hundred also occur in adjacent estuaries, such as the Elbe estuary, Germany. However, only little is known about how these animals use this dynamic tidally influenced habitat, which has been under high anthropogenic pressure for decades. In this context, nine harbour seals (Phoca vitulina) from the Elbe estuary were equipped with biotelemetry devices to track their movements over multiple months. Harbour seal movements were characterised by short trips (trip length outside pupping season for females: 9.0 ± 1.12 km, males: 7.0 ± 1.24 km) as well as small home ranges (median 50% home range for females: 16.3 km2, males: 36.1 km2) compared to harbour seals from marine regions. Within the estuary, the animals utilised the fairway, river branches and tributaries. During the pupping season in June and July, four seals showed strongly reduced trip lengths and durations, increased daily haul out durations as well as smaller home ranges. Even though a continuous exchange with harbour seals from the Wadden Sea likely occurs, most individuals in this study spent the entire deployment duration inside the estuary. This indicates that the Elbe estuary provides a suitable habitat for harbour seals, despite extensive anthropogenic usage, calling for further studies on the consequences of living in such an industrialised habitat.
+Adjuvant radiotherapy is an integral part of the interdisciplinary curative treatment of breast cancer. We aimed to examine the long-term clinical results of helical tomotherapy in female patients with local restricted, lymph node negative breast cancer after breast-conserving surgery.
 
 [Source](https://doi.org/10.1093/procel/pwad020)
 
-10.1038/s41598-023-33594-1
+10.21873/anticanres.16365
 
 ---
 
@@ -79,15 +79,15 @@ Harbour seals are top predators in the North Sea and regarded as sentinels for e
 
 ---
 
-## Whole grain metabolite 3,5-dihydroxybenzoic acid is a beneficial nutritional molecule with the feature of a double-edged sword in human health: a critical review and dietary considerations.
- 25.04.2023, _W Wagner, K Sobierajska, Ł Pułaski, A Stasiak, WM Ciszewski_
+## Replacing ground Rhodes grass hay with soyhulls in the pelleted diet: effects on ingestive behavior, nutrient digestibility, blood metabolites, growth performance, and economic viability of intensive fattening Lohi lambs.
+ 25.04.2023, _M Khan, MA Rashid, MS Yousaf, S Naveed, I Mohsin, HU Rehman_
 
 
-Nonprocessed foodstuffs of plant origin, especially whole-grain cereals, are considered to be health-promoting components of the human diet. While most of their well-studied effects derive from their high fiber content and low glycemic index, the presence of underrated phenolic phytonutrients has recently been brought to the attention of nutritionists. In this review, we report and discuss findings on the sources and bioactivities of 3,5-dihydroxybenzoic acid (3,5-DHBA), which is both a direct dietary component (found, e.g., in apples) and, more importantly, a crucial metabolite of whole-grain cereal-derived alkylresorcinols (ARs). 3,5-DHBA is a recently described exogenous agonist of the HCAR1/GPR81 receptor. We concentrate on the HCAR1-mediated effects of 3,5-DHBA in the nervous system, on the maintenance of cell stemness, regulation of carcinogenesis, and response to anticancer therapy. Unexpectedly, malignant tumors take advantage of HCAR1 expression to sense 3,5-DHBA to support their growth. Thus, there is an urgent need to fully identify the role of whole-grain-derived 3,5-DHBA during anticancer therapy and its contribution in the regulation of vital organs of the body via its specific HCAR1 receptor. We discuss here in detail the possible consequences of the modulatory capabilities of 3,5-DHBA in physiological and pathological conditions in humans.
+This study aimed to evaluate the effects of replacing soyhulls (SH) for ground Rhodes grass hay (RGH) in a pelleted diet on ingestive behavior, digestibility, blood metabolites, growth performance, and economic viability of fattening Lohi lambs. A total of thirty male lambs (age: 5 months; body weight 20.4 ± 0.24 kg) were allotted to one of the three diets (n = 10 lambs/diet) under a completely randomized design. The diets were with 25% RGH inclusion (control), replacing 15% RGH with 15% SH as a fiber source (SH-15), and containing only 25% SH inclusion on a dry basis (SH-25). Ingestive behavior parameters like time spent (min/day), bouts frequency (number/day), and bout length (min/bout) for feeding, drinking, rumination, chewing, standing, and lying were not influenced (P &gt; 0.05) by replacing RGH with SH. The dry matter (DM) and neutral detergent fiber (NDF) chewing rate, rumination rate, and feeding efficiency were also not changed (P &gt; 0.05) by dietary treatments, whereas total dry matter and NDF intakes, and their rumination efficiencies were lower (P &lt; 0.05) for the SH-25 than for the rest of the treatments. The digestibility of NDF and acid detergent fiber (ADF) was higher (P &lt; 0.05) for the SH-25 than for the rest of the treatments. The concentrations of blood metabolites like glucose, blood nitrogen, and cholesterol were not changed (P &gt; 0.05) among the treatment groups. Similarly, performance parameters like dry matter intake, initial and final body weight, average daily gain, and feed conversion ratio were similar (P &gt; 0.05) across the treatments. However, the incidence of loose fecal consistency was higher (P &lt; 0.05) for SH-25 than for the control. The values of economic efficiency were better for SH-25-fed lambs than those fed the rest of the treatments. Based on the results, substituting SH for RGH in a pelleted diet improved the digestibility of fiber fractions, and economics without affecting the growth performance, and blood metabolites of fattening lambs. However, lower rumination efficiency and loos fecal consistency are evidencing less effectiveness of SH fiber.
 
 [Source](https://doi.org/10.1080/19490976.2023.2197837)
 
-10.1080/10408398.2023.2203762
+10.1007/s11250-023-03578-4
 
 ---
 
@@ -167,7 +167,7 @@ Plants sustain intimate relationships with diverse microbes. It is well-recogniz
 ---
 
 ## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions.
- 24.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
+ 25.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
 
 
 Microbiomes are critical to plants, promoting growth, elevating stress tolerance, and expanding the plant's metabolic repertoire with novel defense pathways. However, generally microbiomes within plant tissues, which intimately interact with their hosts, remain poorly characterized. These endospheres have become a focus in banana (Musa spp.)-an important plant for study of microbiome-based disease protection. Banana is important to global food security, while also being critically threatened by pandemic diseases. Domestication and clonal propagation are thought to have depleted protective microbiomes, whereas wild relatives may hold promise for new microbiome-based biological controls. The goal was to compare metapangenomes enriched from 7 Musa genotypes, including wild and cultivated varieties grown in sympatry, to assess the host associations with root and leaf endosphere functional profiles.
