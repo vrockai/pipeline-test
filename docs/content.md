@@ -1,273 +1,146 @@
-## Effects of ultra-processed foods on the microbiota-gut-brain axis: The bread-and-butter issue.
- 25.04.2023, _Z Song, R Song, Y Liu, Z Wu, X Zhang_
+## Microbiome diversity: A barrier to the environmental spread of antimicrobial resistance?
 
-
-_Brain-Gut Axis, Food, Processed, Bread, Food Additives, Sugars_
-The topic of gut microbiota and the microbiota-gut-brain (MGB) axis has become the forefront of research and reports in the past few years. The gut microbiota is a dynamic interface between the environment, food, and the host, reflecting the health status as well as maintaining normal physiological metabolism. Modern ultra-processed foods (UPF) contain large quantities of saturated and trans fat, added sugar, salt, and food additives that seriously affect the gut and physical health. In addition, these unhealthy components directly cause changes in gut microbiota functions and microbial metabolism, subsequently having the potential to impact the neural network. This paper reviews an overview of the link between UPF ingredients and the MGB axis. Considerable studies have examined that high intake of trans fat, added sugar and salt have deleterious effects on gut and brain functions, but relatively less focus has been placed on the impact of food additives on the MGB axis. Data from several studies suggest that food additives might be linked to metabolic diseases and inflammation. They may also alter the gut microbiota composition and microbial metabolites, which potentially affect cognition and behavior. Therefore, we emphasize that food additives including emulsifiers, artificial sweeteners, colorants, and preservatives interact with the gut microbiota and their possible effects on altering the brain and behavior based on the latest research. Future studies should further investigate whether gut dysbiosis mediates the effect of UPF on brain diseases and behavior. This thesis here sheds new light on future research pointing to the potentially detrimental effects of processed food consumption on brain health.
-
-[Source](https://doi.org/10.1016/j.foodres.2023.112730)
-
-10.1016/j.foodres.2023.112730
+[Source](https://www.biorxiv.org/content/10.1101/2023.03.30.534382v2.abstract)
 
 ---
 
-## The emerging role of the small intestinal microbiota in human health and disease.
- 25.04.2023, _RAAA Ruigrok, RK Weersma, A Vich Vila_
+## First-Day-of-Life Rectal Swabs Fail To Represent Meconial Microbiota Composition and Underestimate the Presence of Antibiotic Resistance Genes.
+ 25.04.2023, _S Graspeuntner, M Lupatsii, L Dashdorj, A Rody, J Rupp, V Bossung, C Härtel_
 
 
-_Humans, Gastrointestinal Microbiome, Intestine, Small, Microbiota, Feces_
-The human gut microbiota continues to demonstrate its importance in human health and disease, largely owing to the countless number of studies investigating the fecal microbiota. Underrepresented in these studies, however, is the role played by microbial communities found in the small intestine, which, given the essential function of the small intestine in nutrient absorption, host metabolism, and immunity, is likely highly relevant. This review provides an overview of the methods used to study the microbiota composition and dynamics along different sections of the small intestine. Furthermore, it explores the role of the microbiota in facilitating the small intestine in its physiological functions and discusses how disruption of the microbial equilibrium can influence disease development. The evidence suggests that the small intestinal microbiota is an important regulator of human health and its characterization has the potential to greatly advance gut microbiome research and the development of novel disease diagnostics and therapeutics.
+The human gut microbiome plays a vital role in health and disease. In particular, the first days of life provide a unique window of opportunity for development and establishment of microbial community. Currently, stool samples are known to be the most widely used sampling approach for studying the gut microbiome. However, complicated sample acquisition at certain time points, challenges in transportation, and patient discomfort underline the need for development of alternative sampling approaches. One of the alternatives is rectal swabs, shown to be a reliable proxy for gut microbiome analysis when obtained from adults. Here, we compare the usability of rectal swabs and meconium paired samples collected from infants on the first days of life. Our results indicate that the two sampling approaches display significantly distinct patterns in microbial composition and alpha and beta diversity as well as detection of resistance genes. Moreover, the dissimilarity between the two collection methods was greater than the interindividual variation. Therefore, we conclude that rectal swabs are not a reliable proxy compared to stool samples for gut microbiome analysis when collected on the first days of a newborn's life. IMPORTANCE Currently, there are numerous suggestions on how to ease the notoriously complex and error-prone methodological setups to study the gut microbiota of newborns during the first days of life. Especially, meconium samples are regularly failing to yield meaningful data output and therefore have been suggested to be replaced by rectal swabs as done in adults as well. We find this development toward a simplified method to be producing dramatically erroneous results, skewing data interpretation away from the real aspects to be considered for neonatal health during the first days of life. We have put together our knowledge on this critical aspect with careful consideration and identified the failure of rectal swabs to be a replacement for sampling of meconium in term-born newborns.
 
-[Source](https://doi.org/10.1080/19490976.2023.2201155)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.05254-22)
 
-10.1080/19490976.2023.2201155
-
----
-
-## Gut microbiome can predict chemoradiotherapy efficacy in patients with esophageal squamous cell carcinoma.
- 22.04.2023, _T Sasaki, Y Matsumoto, K Murakami, S Endo, T Toyozumi, R Otsuka, K Kinoshita, J Hu, S Iida, H Morishita, Y Nishioka, A Nakano, M Uesato, H Matsubara_
-
-
-The gut microbiome plays an important role in cancer pathogenesis and therapy. Some studies have reported that specific bacteria in tumor tissues may contribute to the prognosis and treatment of esophageal squamous cell carcinoma (ESCC). However, there is limited evidence that the gut microbiome is associated with ESCC. This study assessed the utility of the gut microbiome as a predictive marker of the therapeutic effect in patients with ESCC undergoing chemo-radiotherapy (CRT).
-
-[Source](https://doi.org/10.1007/s10388-023-01004-0)
-
-10.1007/s10388-023-01004-0
+10.1128/spectrum.05254-22
 
 ---
 
-## Multi-omics signatures in new-onset diabetes predict metabolic response to dietary inulin: findings from an observational study followed by an interventional trial.
- 25.04.2023, _N Ďásková, I Modos, M Krbcová, M Kuzma, H Pelantová, J Hradecký, M Heczková, M Bratová, P Videňská, P Šplíchalová, M Králová, M Heniková, J Potočková, A Ouřadová, R Landberg, T Kühn, M Cahová, J Gojda_
+## Mucin-microbiome signatures shape the tumor microenvironment in gastric cancer.
+ 25.04.2023, _B Oosterlinck, H Ceuleers, W Arras, JG De Man, K Geboes, H De Schepper, M Peeters, S Lebeer, J Skieceviciene, GL Hold, J Kupcinskas, A Link, BY De Winter, A Smet_
 
 
-_Humans, Inulin, Diabetes Mellitus, Type 2, Case-Control Studies, Cross-Sectional Studies, Multiomics, Obesity, Overweight_
-The metabolic performance of the gut microbiota contributes to the onset of type 2 diabetes. However, targeted dietary interventions are limited by the highly variable inter-individual response. We hypothesized (1) that the composition of the complex gut microbiome and metabolome (MIME) differ across metabolic spectra (lean-obese-diabetes); (2) that specific MIME patterns could explain the differential responses to dietary inulin; and (3) that the response can be predicted based on baseline MIME signature and clinical characteristics.
+_Humans, Stomach Neoplasms, Mucin-2, Tumor Microenvironment, RNA, Ribosomal, 16S, Mucin-6, Adenocarcinoma, Microbiota, Phenotype_
+We aimed to identify mucin-microbiome signatures shaping the tumor microenvironment in gastric adenocarcinomas and clinical outcomes.
 
-[Source](https://doi.org/10.1038/s41387-023-00235-5)
+[Source](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01534-w)
 
-10.1038/s41387-023-00235-5
-
----
-
-## Comparison of Conjunctival Sac Microbiome between Low and High Myopic Eyes.
- 21.04.2023, _K Xiao, Z Chen, Q Long_
-
-
-Microbial communities played a vital role in maintaining homeostasis of ocular surface. However, no studies explored the myopia-associated conjunctiva microbiota changes until now. In this study, conjunctival sac swab specimens were collected from 12 eyes of low myopia (LM), and 14 eyes of high myopia (HM) patients. The V3-V4 region of the 16S rRNA gene was amplified and then sequenced. Statistical analysis was performed to investigate differences in the taxonomy and diversity between two groups. Compared to LM, higher Ocular Surface Disease Index (OSDI) scores were observed in HM group. The Shannon index of the HM was lower than that of the LM group (P = 0.017). Principle coordinate analysis and Partial Least Squares Discrimination Analysis showed distinct microbiome composition between two groups. At the phylum level, there were higher relative abundances of Proteobacteria (68.27% vs 38.51%) and lower abundances of Actinobacteria (3.71% vs 9.19%) in HM, compared to LM group (P = 0.031, 0.010, respectively). At the genus level, the abundances of Acinetobacter in HM (18.16%) were significantly higher than the LM (6.52%) group (P = 0.011). Actinobacteria levels were negatively correlated with the myopic spherical equivalent and OSDI scores. Moreover, positive correlations were found between Proteobacteria levels and OSDI scores, Acinetobacter levels were positively correlated with myopic spherical equivalent and OSDI scores. In conclusion, HM Patients have bacterial microbiota imbalance in the conjunctival sac, compared with LM patients. Proteobacteria, Actinobacteria, Acinetobacter may play roles in the HM associated ocular surface irritation.
-
-[Source](https://doi.org/10.1007/s12275-023-00045-5)
-
-10.1007/s12275-023-00045-5
+10.1186/s40168-023-01534-w
 
 ---
 
-## Helical Tomotherapy of Lymph Node-negative Early-stage Breast Cancer After Breast-conserving Surgery: Long-term Results.
- 25.04.2023, _F Zwicker, R Klepper, H Hauswald, S Hoefel, L Raether, PE Huber, J Debus, M Schempp_
+## Fecal microbiota transplantation for recurrent C. difficile infection in patients with inflammatory bowel disease: A systematic review and meta-analysis.
+ 25.04.2023, _S Porcari, SMD Baunwall, AS Occhionero, MR Ingrosso, AC Ford, CL Hvas, A Gasbarrini, G Cammarota, G Ianiro_
 
 
-Adjuvant radiotherapy is an integral part of the interdisciplinary curative treatment of breast cancer. We aimed to examine the long-term clinical results of helical tomotherapy in female patients with local restricted, lymph node negative breast cancer after breast-conserving surgery.
+Fecal microbiota transplantation (FMT) is known to be highly effective in patients with recurrent Clostridioides difficile infection (rCDI), but its role in patients who also suffer from inflammatory bowel disease (IBD) is unclear. Therefore, we performed a systematic review and meta-analysis to evaluate the efficacy and safety of FMT for the treatment of rCDI in patients with IBD. We searched the available literature until November 22, 2022 to identify studies that included patients with IBD treated with FMT for rCDI, reporting efficacy outcomes after at least 8 weeks of follow-up. The proportional effect of FMT was summarized with a generalized linear mixed-effect model fitting a logistic regression accounting for different intercepts among studies. We identified 15 eligible studies, containing 777 patients. Overall, FMT achieved high cure rates of rCDI, 81% for single FMT, based on all included studies and patients, and 92% for overall FMT, based on nine studies with 354 patients, respectively. We found a significant advantage of overall FMT over single FMT in improving cure rates of rCDI (from 80% to 92%, p = 0.0015). Serious adverse events were observed in 91 patients (12% of the overall population), with the most common being hospitalisation, IBD-related surgery, or IBD flare. In conclusion, in our meta-analysis FMT achieved high cure rates of rCDI in patients with IBD, with a significant advantage of overall FMT over single FMT, similar to data observed in patients without IBD. Our findings support the use of FMT as a treatment for rCDI in patients with IBD.
 
-[Source](https://doi.org/10.1093/procel/pwad020)
+[Source](https://www.sciencedirect.com/science/article/abs/pii/S0896841123000458)
 
-10.21873/anticanres.16365
-
----
-
-## Sentinel or accomplice – gut microbiota and microglia cross-talk in disorders of gut-brain interaction
-
-[Source](https://doi.org/10.1093/procel/pwad020)
+10.1016/j.jaut.2023.103036
 
 ---
 
-## Replacing ground Rhodes grass hay with soyhulls in the pelleted diet: effects on ingestive behavior, nutrient digestibility, blood metabolites, growth performance, and economic viability of intensive fattening Lohi lambs.
- 25.04.2023, _M Khan, MA Rashid, MS Yousaf, S Naveed, I Mohsin, HU Rehman_
+## Alcohol, the gut microbiome, and liver disease.
+ 25.04.2023, _MH Jew, CL Hsu_
 
 
-This study aimed to evaluate the effects of replacing soyhulls (SH) for ground Rhodes grass hay (RGH) in a pelleted diet on ingestive behavior, digestibility, blood metabolites, growth performance, and economic viability of fattening Lohi lambs. A total of thirty male lambs (age: 5 months; body weight 20.4 ± 0.24 kg) were allotted to one of the three diets (n = 10 lambs/diet) under a completely randomized design. The diets were with 25% RGH inclusion (control), replacing 15% RGH with 15% SH as a fiber source (SH-15), and containing only 25% SH inclusion on a dry basis (SH-25). Ingestive behavior parameters like time spent (min/day), bouts frequency (number/day), and bout length (min/bout) for feeding, drinking, rumination, chewing, standing, and lying were not influenced (P &gt; 0.05) by replacing RGH with SH. The dry matter (DM) and neutral detergent fiber (NDF) chewing rate, rumination rate, and feeding efficiency were also not changed (P &gt; 0.05) by dietary treatments, whereas total dry matter and NDF intakes, and their rumination efficiencies were lower (P &lt; 0.05) for the SH-25 than for the rest of the treatments. The digestibility of NDF and acid detergent fiber (ADF) was higher (P &lt; 0.05) for the SH-25 than for the rest of the treatments. The concentrations of blood metabolites like glucose, blood nitrogen, and cholesterol were not changed (P &gt; 0.05) among the treatment groups. Similarly, performance parameters like dry matter intake, initial and final body weight, average daily gain, and feed conversion ratio were similar (P &gt; 0.05) across the treatments. However, the incidence of loose fecal consistency was higher (P &lt; 0.05) for SH-25 than for the control. The values of economic efficiency were better for SH-25-fed lambs than those fed the rest of the treatments. Based on the results, substituting SH for RGH in a pelleted diet improved the digestibility of fiber fractions, and economics without affecting the growth performance, and blood metabolites of fattening lambs. However, lower rumination efficiency and loos fecal consistency are evidencing less effectiveness of SH fiber.
+The microorganisms inhabiting our gastrointestinal tract are critical for human health. Chronic heavy alcohol use can modulate the composition and function of the gut microbiota, thereby exacerbating end-organ damage via the gut-brain axis and the gut-liver axis. In this review, we summarize the bacterial, fungal, and viral gut microbial compositional changes associated with alcohol use and alcohol-associated liver disease and discuss the mechanisms of action by which gut dysbiosis reinforces alcohol use behavior and liver inflammation and injury. We also highlight important pre-clinical and clinical trials that target gut microbial-specific mechanisms for the treatment of alcohol use disorder and alcohol-associated liver disease.
 
-[Source](https://doi.org/10.1080/19490976.2023.2197837)
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/jgh.16199)
 
-10.1007/s11250-023-03578-4
-
----
-
-## Effects of dietary fibers or probiotics on functional constipation symptoms and roles of gut microbiota: a double-blinded randomized placebo trial
-
-[Source](https://doi.org/10.1080/19490976.2023.2197837)
+10.1111/jgh.16199
 
 ---
 
-## Use of probiotic lactobacilli in the treatment of vaginal infections: In vitro and in vivo investigations.
- 21.04.2023, _P Liu, Y Lu, R Li, X Chen_
+## Microbial metabolites in colorectal tumorigenesis and cancer therapy.
+ 26.04.2023, _Y Liu, HC Lau, J Yu_
 
 
-_Infant, Newborn, Female, Humans, Lactobacillus, Premature Birth, Vagina, Vulvovaginitis, Probiotics_
-The vaginal microbiome is a distinct component of the human microbiome that is colonized by a wide variety of microorganisms. Lactobacilli are the most frequently identified microorganisms in the healthy human vagina. These Gram-positive bacilli can acidify the vaginal microenvironment, inhibit the proliferation of other pathogenic microorganisms, and promote the maintenance of a eubiotic vaginal microbiome. However, a vaginal flora with a reduced proportion or abundance of lactobacilli is associated with various vaginal infections that have been linked to serious health consequences such as infertility, preterm birth, pelvic inflammatory disease, premature rupture of membranes, and miscarriage. Due to their "Generally Recognized as Safe" classification and critical role in vaginal health, probiotic lactobacilli have been widely used as an alternative or adjunct to traditional antibiotic therapy for the treatment of vaginal infections and restoration of the vaginal microbiome. This review focuses on the significant role of probiotic lactobacilli in the vaginal microenvironment and discusses the use of probiotic lactobacilli in the treatment of female vaginal infections in vitro and in vivo.
+_Humans, Gastrointestinal Microbiome, Carcinogenesis, Intestines, Colorectal Neoplasms_
+Trillions of microbes are indigenous to the human gastrointestinal tract, together forming an ecological community known as the gut microbiota. The gut microbiota is involved in dietary digestion to produce various metabolites. In healthy condition, microbial metabolites have unneglectable roles in regulating host physiology and intestinal homeostasis. However, increasing studies have reported the correlation between metabolites and the development of colorectal cancer (CRC), with the identification of oncometabolites. Meanwhile, metabolites can also influence the efficacy of cancer treatments. In this review, metabolites derived from microbes-mediated metabolism of dietary carbohydrates, proteins, and cholesterol, are introduced. The roles of pro-tumorigenic (secondary bile acids and polyamines) and anti-tumorigenic (short-chain fatty acids and indole derivatives) metabolites in CRC development are then discussed. The impacts of metabolites on chemotherapy and immunotherapy are further elucidated. Collectively, given the importance of microbial metabolites in CRC, therapeutic approaches that target metabolites may be promising to improve patient outcome.
 
-[Source](https://doi.org/10.3389/fcimb.2023.1153894)
+[Source](https://www.tandfonline.com/doi/full/10.1080/19490976.2023.2203968)
 
-10.3389/fcimb.2023.1153894
-
----
-
-## The hindgut microbiome contributes to host oxidative stress in postpartum dairy cows by affecting glutathione synthesis process.
- 25.04.2023, _F Gu, S Zhu, J Hou, Y Tang, JX Liu, Q Xu, HZ Sun_
-
-
-_Humans, Female, Cattle, Animals, Mice, RNA, Ribosomal, 16S, Glutamine, Cysteine, Postpartum Period, Microbiota, Glutathione, Oxidative Stress, Glutamates_
-Dairy cows are susceptible to postpartum systemic oxidative stress (OS), which leads to significant production loss and metabolic disorders. The gut microbiota has been linked to host health and stress levels. However, to what extent the gut microbiota is associated with postpartum OS remains unknown. In this study, the contribution of the fecal microbiota to postpartum systemic OS and its underlying mechanisms were investigated by integrating 16S rRNA gene sequencing, metagenomics, and metabolomics in postpartum dairy cattle and by transplanting fecal microbiota from cattle to mice.
-
-[Source](https://doi.org/10.1186/s40168-023-01535-9)
-
-10.1186/s40168-023-01535-9
+10.1080/19490976.2023.2203968
 
 ---
 
-## Gut microbiome responds compositionally and functionally to the seasonal diet variations in wild gibbons
+## Indirect maternal effects via nest microbiome composition drive gut colonization in altricial chicks.
+ 25.04.2023, _D Diez-Méndez, KH Bodawatta, I Freiberga, I Klečková, KA Jønsson, M Poulsen, K Sam_
 
-[Source](https://doi.org/10.1038/s41522-023-00388-2)
 
----
+Gut microbial communities are complex and heterogeneous and play critical roles for animal hosts. Early-life disruptions to microbiome establishment can negatively impact host fitness and development. However, the consequences of such early-life disruptions remain unknown in wild birds. To help fill this gap, we investigated the effect of continuous early-life gut microbiome disruptions on the establishment and development of gut communities in wild Great tit (Parus major) and Blue tit (Cyanistes caeruleus) nestlings by applying antibiotics and probiotics. Treatment neither affected nestling growth nor their gut microbiome composition. Independent of treatment, nestling gut microbiomes of both species grouped by brood, which shared the highest numbers of bacterial taxa with both nest environment and their mother. Although fathers showed different gut communities than their nestlings and nests, they still contributed to structuring chick microbiomes. Lastly, we observed that the distance between nests increased inter-brood microbiome dissimilarity, but only in Great tits, indicating that species-specific foraging behaviour and/or microhabitat influence gut microbiomes. Overall, the strong maternal effect, driven by continuous recolonization from the nest environment and vertical transfer of microbes during feeding, appears to provide resilience towards early-life disruptions in nestling gut microbiomes.
 
-## Metagenomic and metatranscriptomic exploration of the Egyptian Red Sea sponge <em>Theonella</em> sp. associated microbial community
+[Source](https://onlinelibrary.wiley.com/doi/10.1111/mec.16959)
 
-[Source](https://doi.org/10.1016/j.margen.2023.101032)
-
----
-
-## <em>Vibrio cholerae</em> Invasion Dynamics of the Chironomid Host Are Strongly Influenced by Aquatic Cell Density and Can Vary by Strain
-
-[Source](https://doi.org/10.1128/spectrum.02652-22)
+10.1111/mec.16959
 
 ---
 
-## Antibiotic Conditioning Shapes Pseudosterile Mouse Models by Deleting Colonic Microbes Rather than Small Intestinal Microbes
-
-[Source](https://doi.org/10.1128/spectrum.00814-23)
-
----
-
-## Microbiota-mediated nitrogen fixation and microhabitat homeostasis in aerial root-mucilage.
- 25.04.2023, _Z Pang, X Mao, S Zhou, S Yu, G Liu, C Lu, J Wan, L Hu, P Xu_
+## The gut microbiome of solitary bees is mainly affected by pathogen assemblage and partially by land use.
+ 25.04.2023, _G Fernandez De Landa, D Alberoni, L Baffoni, M Fernandez De Landa, PD Revainera, LP Porrini, C Brasesco, S Quintana, F Zumpano, MJ Eguaras, MD Maggi, D Di Gioia_
 
 
-_Humans, Nitrogen Fixation, Polysaccharides, Microbiota, Bacteria, Rhizosphere, Plants, Homeostasis, Plant Roots, Soil Microbiology_
-Plants sustain intimate relationships with diverse microbes. It is well-recognized that these plant-associated microbiota shape individual performance and fitness of host plants, but much remains to be explored regarding how they exert their function and maintain their homeostasis.
+Pollinators, including solitary bees, are drastically declining worldwide. Among the factors contributing to this decline, bee pathogens and different land uses are of relevance. The link between the gut microbiome composition and host health has been recently studied for social pollinators (e.g. honeybees), whereas the information related to solitary bees is sparse. This work aimed at the characterization of the gut microbiome of the solitary bees Xylocopa augusti, Eucera fervens and Lasioglossum and attempted to correlate the gut microbial composition with the presence and load of different pathogens and land uses. Solitary bees were sampled in different sites (i.e. a farm, a natural reserve, and an urban plant nursery) showing different land uses. DNA was extracted from the gut, 16S rRNA gene amplified and sequenced. Eight pathogens, known for spillover from managed bees to wild ones, were quantified with qPCR. The results showed that the core microbiome profile of the three solitary bees significantly varied in the different species. Pseudomonas was found as the major core taxa in all solitary bees analyzed, whereas Lactobacillus, Spiroplasma and Sodalis were the second most abundant taxa in X. augusti, E. fervens and Lasioglossum, respectively. The main pathogens detected with qPCR were Nosema ceranae, Nosema bombi and Crithidia bombi, although differently abundant in the different bee species and sampling sites. Most microbial taxa did not show any correlation with the land use, apart from Snodgrassella and Nocardioides, showing higher abundances on less anthropized sites. Conversely, the pathogens species and load strongly affected the gut microbial composition, with Bifidobacterium, Apibacter, Serratia, Snodgrassella and Sodalis abundance that positively or negatively correlated with the detected pathogens load. Therefore, pathogens presence and load appear to be the main factor shaping the gut microbiome of solitary bees in Argentina.
 
-[Source](https://doi.org/10.1186/s40168-023-01525-x)
+[Source](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-023-00494-w)
 
-10.1186/s40168-023-01525-x
+10.1186/s40793-023-00494-w
 
 ---
 
-## Metapangenomics of wild and cultivated banana microbiome reveals a plethora of host-associated protective functions.
- 25.04.2023, _S Singh, SA Aghdam, RM Lahowetz, AMV Brown_
+## Spatial Succession Underlies Microbial Contribution to Food Digestion in the Gut of an Algivorous Sea Urchin.
+ 25.04.2023, _M Masasa, A Kushmaro, D Nguyen, H Chernova, N Shashar, L Guttman_
 
 
-Microbiomes are critical to plants, promoting growth, elevating stress tolerance, and expanding the plant's metabolic repertoire with novel defense pathways. However, generally microbiomes within plant tissues, which intimately interact with their hosts, remain poorly characterized. These endospheres have become a focus in banana (Musa spp.)-an important plant for study of microbiome-based disease protection. Banana is important to global food security, while also being critically threatened by pandemic diseases. Domestication and clonal propagation are thought to have depleted protective microbiomes, whereas wild relatives may hold promise for new microbiome-based biological controls. The goal was to compare metapangenomes enriched from 7 Musa genotypes, including wild and cultivated varieties grown in sympatry, to assess the host associations with root and leaf endosphere functional profiles.
+Dietary influence on the microbiome in algivorous sea urchins such as Tripneustes gratilla elatensis suggests a bacterial contribution to the digestion of fiber-rich seaweed. An ecological insight into the spatial arrangement in the gut bacterial community will improve our knowledge of host-microbe relations concerning the involved taxa, their metabolic repertoire, and the niches of activity. Toward this goal, we investigated the bacterial communities in the esophagus, stomach, and intestine of Ulva-fed sea urchins through 16S rRNA amplicon sequencing, followed by the prediction of their functional genes. We revealed communities with distinct features, especially those in the esophagus and intestine. The esophageal community was less diverse and was poor in food digestive or fermentation genes. In contrast, bacteria that can contribute to the digestion of the dietary Ulva were common in the stomach and intestine and consisted of genes for carbohydrate decomposition, fermentation, synthesis of short-chain fatty acids, and various ways of N and S metabolism. Bacteroidetes and Firmicutes were found as the main phyla in the gut and are presumably also necessary in food digestion. The abundant sulfate-reducing bacteria in the stomach and intestine from the genera Desulfotalea, Desulfitispora, and Defluviitalea may aid in removing the excess sulfate from the decomposition of the algal polysaccharides. Although these sea urchins were fed with Ulva, genes for the degradation of polysaccharides of other algae and plants were present in this sea urchin gut microbiome. We conclude that the succession of microbial communities along the gut obtained supports the hypothesis on bacterial contribution to food digestion. IMPORTANCE Alga grazing by the sea urchin Tripneustes gratilla elatensis is vital for nutrient recycling and constructing new reefs. This research was driven by the need to expand the knowledge of bacteria that may aid this host in alga digestion and their phylogeny, roles, and activity niches. We hypothesized alterations in the bacterial compositional structure along the gut and their association with the potential contribution to food digestion. The current spatial insight into the sea urchin's gut microbiome ecology is novel and reveals how distinct bacterial communities are when distant from each other in this organ. It points to keynote bacteria with genes that may aid the host in the digestion of the complex sulfated polysaccharides in dietary Ulva by removing the released sulfates and fermentation to provide energy. The gut bacteria's genomic arsenal may also help to gain energy from diets of other algae and plants.
 
-[Source](https://doi.org/10.1186/s40793-023-00493-x)
+[Source](https://journals.asm.org/doi/10.1128/spectrum.00514-23)
 
-10.1186/s40793-023-00493-x
-
----
-
-## Effects of vermicompost leachate on nitrogen, phosphorus, and microbiome in a food waste bioponic system
-
-[Source](https://doi.org/10.1016/j.jenvman.2023.117860)
+10.1128/spectrum.00514-23
 
 ---
 
-## The effect of wheat genotype on the microbiome is more evident in roots and varies through time.
- 22.04.2023, _L Quiza, J Tremblay, AP Pagé, CW Greer, CJ Pozniak, R Li, B Haug, SM Hemmingsen, M St-Arnaud, E Yergeau_
+## The microbiota in feces of domestic pigeons in Seoul, Korea.
+ 25.04.2023, _S Oh, SH Park, JH Choi, SL Kim, M Kim, S Lee, MH Yi, IY Lee, TS Yong, JY Kim_
 
 
-Crop breeding has traditionally ignored the plant-associated microbial communities. Considering the interactions between plant genotype and associated microbiota is of value since different genotypes of the same crop often harbor distinct microbial communities which can influence the plant phenotype. However, recent studies have reported contrasting results, which led us to hypothesize that the effect of genotype is constrained by growth stages, sampling year and plant compartment. To test this hypothesis, we sampled bulk soil, rhizosphere soil and roots of 10 field-grown wheat genotypes, twice per year, for 4 years. DNA was extracted and regions of the bacterial 16 S rRNA and CPN60 genes and the fungal ITS region were amplified and sequenced. The effect of genotype was highly contingent on the time of sampling and on the plant compartment sampled. Only for a few sampling dates, were the microbial communities significantly different across genotypes. The effect of genotype was most often significant for root microbial communities. The three marker genes used provided a highly coherent picture of the effect of genotype. Taken together, our results confirm that microbial communities in the plant environment strongly vary across compartments, growth stages, and years, and that this can mask the effect of genotype.
+In Korea, feral pigeons pose significant public health risks because they carry various zoonotic pathogens. Human population density is a significant factor in zoonotic disease events. Seoul is one of the largest cities by population density among developed countries and where most of the homeless population in Korea exists. We designed this study to compare the microbiota of pigeon feces by regional characteristics and the presence of homeless individuals. Therefore, this study used 16S rRNA amplicon sequencing to detect possible pathogenic microbes and assess the current risk of zoonosis in Seoul, South Korea. Pigeon fecal samples (n = 144) obtained from 19 public sites (86 and 58 fecal samples from regions in and outside Seoul, respectively) were examined. Potentially pathogenic bacteria were also detected in the fecal samples; Campylobacter spp. was found in 19 samples from 13 regions, Listeriaceae was found in seven samples, and Chlamydia spp. was found in three samples from two regions. Principal coordinates analysis and permutational multivariate analysis of variance revealed a significant difference in bacterial composition between the regions in Seoul (n = 86) and outside Seoul (n = 58) and between the regions with (n = 81) and without (n = 63) homeless individuals. Overall, this study identified various potentially pathogenic microorganisms in pigeon feces at public sites in South Korea. Moreover, this study demonstrates that the microbial composition was influenced by regional characteristics and homelessness. Taken together, this study provides important information for public health strategic planning and disease control.
 
-[Source](https://doi.org/10.1038/s43705-023-00238-4)
+[Source](https://www.sciencedirect.com/science/article/pii/S2405844023022041)
 
-10.1038/s43705-023-00238-4
-
----
-
-## Disentangling temporal associations in marine microbial networks.
- 24.04.2023, _IM Deutschmann, AK Krabberød, F Latorre, E Delage, C Marrasé, V Balagué, JM Gasol, R Massana, D Eveillard, S Chaffron, R Logares_
-
-
-_Ecosystem, Bacteria, Microbial Consortia, Microbiota, Seasons, Microbial Interactions_
-Microbial interactions are fundamental for Earth's ecosystem functioning and biogeochemical cycling. Nevertheless, they are challenging to identify and remain barely known. Omics-based censuses are helpful in predicting microbial interactions through the statistical inference of single (static) association networks. Yet, microbial interactions are dynamic and we have limited knowledge of how they change over time. Here, we investigate the dynamics of microbial associations in a 10-year marine time series in the Mediterranean Sea using an approach inferring a time-resolved (temporal) network from a single static network.
-
-[Source](https://doi.org/10.1186/s40168-023-01523-z)
-
-10.1186/s40168-023-01523-z
+10.1016/j.heliyon.2023.e14997
 
 ---
 
-## Evaluating the Reproducibility of Amplicon Sequencing Data Derived from Deep-Sea Cold Seep Sediment-Associated Microbiota.
- 19.04.2023, _J Kong, J Feng, L Sun, S Zhang_
+## Characterization of the Rhizosphere Bacterial Microbiome and Coffee Bean Fermentation in the Castillo-Tambo and Bourbon Varieties in the Popayán-Colombia Plateau.
+ 25.04.2023, _AFS Pino, ZYD Espinosa, EVR Cabrera_
 
 
-Benefiting from the rapid developments and wide applications of high-throughput sequencing, great advancements have been made in investigating microbiota, which are highly diverse and play key roles in both element cycling and the energy flow of ecosystems. There have been inherent limitations of amplicon sequencing that could introduce uncertainty and raise concerns about the accuracy and reproducibility of this technology. However, studies focusing on the reproducibility of amplicon sequencing are limited, especially in characterizing microbial communities in deep-sea sediments. To evaluate reproducibility, 118 deep-sea sediment samples were used for 16S rRNA gene sequencing in technical replicates (repeated measurements of the same sample) that demonstrate the variability of amplicon sequencing. The average occurrence-based overlaps were 35.98% and 27.02% between two and among three technical replicates, respectively, whereas their abundance-based overlaps reached 84.88% and 83.16%, respectively. Although variations of alpha and beta diversity indices were found between/among technical replicates, alpha diversity indices were similar across samples, and the average beta diversity indices were much smaller for technical replicates than among samples. Moreover, clustering methods (i.e., operational taxonomic units [OTUs] and amplicon sequence variants [ASVs]) were shown to have little impact on the alpha and beta diversity patterns of microbial communities. Taken together, although there are variations between/among technical replicates, amplicon sequencing is still a powerful tool with which to reveal diversity patterns of microbiota in deep-sea sediments. IMPORTANCE The reproducibility of amplicon sequencing is vital for whether the diversities of microbial communities could be accurately estimated. Thus, reproducibility influences the drawing of sound ecological conclusions. Nevertheless, few studies have focused on the reproducibility of microbial communities that are characterized by amplicon sequencing, and studies focusing on microbiota in deep-sea sediments have been especially lacking. In this study, we evaluated the reproducibility of amplicon sequencing targeting microbiota in deep-sea sediments of cold seep. Our results revealed that there were variations between/among technical replicates and that amplicon sequencing was still a powerful tool with which to characterize the diversities of microbial communities in deep-sea sediments. This study provides valuable guidelines for the reproducibility evaluation of future work in experimental design and interpretation.
+The microbial biodiversity and the role of microorganisms in the fermentation of washed coffee in Colombia were investigated using the Bourbon and Castillo coffee varieties. DNA sequencing was used to evaluate the soil microbial biota and their contribution to fermentation. The potential benefits of these microorganisms were analyzed, including increased productivity and the need to understand the rhizospheric bacterial species to optimize these benefits.
 
-[Source](https://doi.org/10.1128/spectrum.04048-22)
+[Source](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-023-04182-2)
 
-10.1128/spectrum.04048-22
-
----
-
-## BioMateriOME: to understand microbe-material interactions within sustainable, living architectures.
- 25.04.2023, _B Delgado Corrales, R Kaiser, P Nerlich, A Agraviador, A Sherry_
-
-
-_Humans, Microbiota, Built Environment, Social Sciences_
-BioMateriOME evolved from a prototyping process which was informed from discussions between a team of designers, architects and microbiologists, when considering constructing with biomaterials or human cohabitation with novel living materials in the built environment. The prototype has two elements (i) BioMateriOME-Public (BMP), an interactive public materials library, and (ii) BioMateriOME-eXperimental (BMX), a replicated materials library for rigorous microbiome experimentation. The prototype was installed into the OME, a unique experimental living house, in order to (1) gain insights into society's perceptions of living materials, and (2) perform a comparative analysis of indoor surface microbiome development on novel biomaterials in contrast to conventional indoor surfaces, respectively. This review summarizes the BioMateriOME prototype and its use as a tool in combining microbiology, design, architecture and social science. The use of microbiology and biological components in the fabrication of biomaterials is provided, together with an appreciation of the microbial communities common to conventional indoor surfaces, and how these communities may change in response to the implementation of living materials in our homes. Societal perceptions of microbiomes and biomaterials, are considered within the framework of healthy architecture. Finally, features of architectural design with microbes in mind are introduced, with the possibility of codifying microbial surveillance into design and construction benchmarks, standards and regulations toward healthier buildings and their occupants.
-
-[Source](https://doi.org/10.1016/bs.aambs.2022.11.001)
-
-10.1016/bs.aambs.2022.11.001
+10.1186/s12870-023-04182-2
 
 ---
 
-## Deciphering associations between gut microbiota and clinical factors using microbial modules.
- 21.04.2023, _R Wang, X Zheng, F Song, MH Wong, KS Leung, L Cheng_
+## Hydrochemical and Seasonally Conditioned Changes of Microbial Communities in the Tufa-Forming Freshwater Network Ecosystem.
+ 25.04.2023, _A Čačković, K Kajan, L Selak, T Marković, A Brozičević, P Pjevac, S Orlić_
 
 
-Human gut microbiota plays a vital role in maintaining body health. The dysbiosis of gut microbiota is associated with a variety of diseases. It is critical to uncover the associations between gut microbiota and disease states as well as other intrinsic or environmental factors. However, inferring alterations of individual microbial taxa based on relative abundance data likely leads to false associations and conflicting discoveries in different studies. Moreover, the effects of underlying factors and microbe-microbe interactions could lead to the alteration of larger sets of taxa. It might be more robust to investigate gut microbiota using groups of related taxa instead of the composition of individual taxa.
+Freshwater network ecosystems consist of interconnected lotic and lentic environments within the same catchment area. Using Plitvice Lakes as an example, we studied the changes in environmental conditions and microbial communities (bacteria and fungi) that occur with downstream flow. Water samples from tributaries, interlake streams, connections of the cascading lakes, and the Korana River, the main outflow of the system, were characterized using amplicon sequencing of bacterial 16S rRNA and fungal ITS2 genes. Our results show that different environmental conditions and bacterial and fungal communities prevail among the three stream types within the freshwater network ecosystem during multiple sampling seasons. Microbial community differences were also confirmed along the longitudinal gradient between the most distant sampling sites. The higher impact of "mass effect" was evident during spring and winter, while "species sorting" and "environmental selection" was more pronounced during summer. Prokaryotic community assembly was majorly influenced by deterministic processes, while fungal community assembly was highly dominated by stochastic processes, more precisely by the undominated fraction, which is not dominated by any process. Despite the differences between stream types, the microbial community of Plitvice Lakes is shown to be very stable by the core microbiome that makes up the majority of stream communities. Our results suggest microbial community succession along the river-lake continuum of microbial communities in small freshwater network ecosystems with developed tufa barriers. IMPORTANCE Plitvice Lakes represent a rare freshwater ecosystem consisting of a complex network of lakes and waterfalls connecting them, as well as rivers and streams supplying water to the lake basin. The unique geomorphological, hydrological, biogeochemical, and biological phenomenon of Plitvice Lakes lies in the biodynamic process of forming tufa barriers. In addition to microbial communities, abiotic water factors also have a major influence on the formation of tufa. Therefore, it is important to understand how changes in environmental conditions and microbial community assembly affect the functioning of the ecosystem of a freshwater network with developed tufa barriers.
 
-[Source](https://doi.org/10.1093/bioinformatics/btad213)
+[Source](https://journals.asm.org/doi/10.1128/msphere.00602-22)
 
-10.1093/bioinformatics/btad213
-
----
-
-## SituSeq: an offline protocol for rapid and remote Nanopore 16S rRNA amplicon sequence analysis.
- 24.04.2023, _J Zorz, C Li, A Chakraborty, DA Gittins, T Surcon, N Morrison, R Bennett, A MacDonald, CRJ Hubert_
-
-
-Microbiome analysis through 16S rRNA gene sequencing is a crucial tool for understanding the microbial ecology of any habitat or ecosystem. However, workflows require large equipment, stable internet, and extensive computing power such that most of the work is performed far away from sample collection in both space and time. Performing amplicon sequencing and analysis at sample collection would have positive implications in many instances including remote fieldwork and point-of-care medical diagnoses. Here we present SituSeq, an offline and portable workflow for the sequencing and analysis of 16S rRNA gene amplicons using Nanopore sequencing and a standard laptop computer. SituSeq was validated by comparing Nanopore 16S rRNA gene amplicons, Illumina 16S rRNA gene amplicons, and Illumina metagenomes, sequenced using the same environmental DNA. Comparisons revealed consistent community composition, ecological trends, and sequence identity across platforms. Correlation between the abundance of taxa in each taxonomic level in Illumina and Nanopore data sets was high (Pearson's r &gt; 0.9), and over 70% of Illumina 16S rRNA gene sequences matched a Nanopore sequence with greater than 97% sequence identity. On board a research vessel on the open ocean, SituSeq was used to analyze amplicon sequences from deep sea sediments less than 2 h after sequencing, and 8 h after sample collection. The rapidly available results informed decisions about subsequent sampling in near real-time while the offshore expedition was still underway. SituSeq is a portable and user-friendly workflow that helps to bring the power of microbial genomics and diagnostics to many more researchers and situations.
-
-[Source](https://doi.org/10.1038/s43705-023-00239-3)
-
-10.1038/s43705-023-00239-3
+10.1128/msphere.00602-22
 
 ---
 
-## Integrating Multi-Omics Data to Construct Reliable Interconnected Models of Signaling, Gene Regulatory, and Metabolic Pathways.
- 21.04.2023, _K Kumar, D Bhowmik, S Mandloi, A Gautam, A Lahiri, N Biswas, S Paul, S Chakrabarti_
+## ggpicrust2: an R package for PICRUSt2 predicted functional profile analysis and visualization
 
-
-_Humans, Multiomics, MicroRNAs, Signal Transduction, Metabolic Networks and Pathways, Neoplasms_
-Alteration of the status of the metabolic enzymes could be a probable way to regulate metabolic reprogramming, which is a critical cellular adaptation mechanism especially for cancer cells. Coordination among biological pathways, such as gene-regulatory, signaling, and metabolic pathways is crucial for regulating metabolic adaptation. Also, incorporation of resident microbial metabolic potential in human body can influence the interplay between the microbiome and the systemic or tissue metabolic environments. Systemic framework for model-based integration of multi-omics data can ultimately improve our understanding of metabolic reprogramming at holistic level. However, the interconnectivity and novel meta-pathway regulatory mechanisms are relatively lesser explored and understood. Hence, we propose a computational protocol that utilizes multi-omics data to identify probable cross-pathway regulatory and protein-protein interaction (PPI) links connecting signaling proteins or transcription factors or miRNAs to metabolic enzymes and their metabolites using network analysis and mathematical modeling. These cross-pathway links were shown to play important roles in metabolic reprogramming in cancer scenarios.
-
-[Source](https://doi.org/10.1007/978-1-0716-3008-2_6)
-
-10.1007/978-1-0716-3008-2_6
-
----
-
-## Interactions between the lipidome and genetic and environmental factors in autism
-
-[Source](https://doi.org/10.1038/s41591-023-02271-1)
+[Source](https://arxiv.org/abs/2303.10388)
 
 ---
 
