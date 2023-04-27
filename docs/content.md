@@ -54,7 +54,7 @@ The microorganisms inhabiting our gastrointestinal tract are critical for human 
 ---
 
 ## Microbial metabolites in colorectal tumorigenesis and cancer therapy.
- 26.04.2023, _Y Liu, HC Lau, J Yu_
+ 27.04.2023, _Y Liu, HC Lau, J Yu_
 
 
 _Humans, Gastrointestinal Microbiome, Carcinogenesis, Intestines, Colorectal Neoplasms_
@@ -79,7 +79,7 @@ Gut microbial communities are complex and heterogeneous and play critical roles 
 ---
 
 ## The gut microbiome of solitary bees is mainly affected by pathogen assemblage and partially by land use.
- 25.04.2023, _G Fernandez De Landa, D Alberoni, L Baffoni, M Fernandez De Landa, PD Revainera, LP Porrini, C Brasesco, S Quintana, F Zumpano, MJ Eguaras, MD Maggi, D Di Gioia_
+ 27.04.2023, _G Fernandez De Landa, D Alberoni, L Baffoni, M Fernandez De Landa, PD Revainera, LP Porrini, C Brasesco, S Quintana, F Zumpano, MJ Eguaras, MD Maggi, D Di Gioia_
 
 
 Pollinators, including solitary bees, are drastically declining worldwide. Among the factors contributing to this decline, bee pathogens and different land uses are of relevance. The link between the gut microbiome composition and host health has been recently studied for social pollinators (e.g. honeybees), whereas the information related to solitary bees is sparse. This work aimed at the characterization of the gut microbiome of the solitary bees Xylocopa augusti, Eucera fervens and Lasioglossum and attempted to correlate the gut microbial composition with the presence and load of different pathogens and land uses. Solitary bees were sampled in different sites (i.e. a farm, a natural reserve, and an urban plant nursery) showing different land uses. DNA was extracted from the gut, 16S rRNA gene amplified and sequenced. Eight pathogens, known for spillover from managed bees to wild ones, were quantified with qPCR. The results showed that the core microbiome profile of the three solitary bees significantly varied in the different species. Pseudomonas was found as the major core taxa in all solitary bees analyzed, whereas Lactobacillus, Spiroplasma and Sodalis were the second most abundant taxa in X. augusti, E. fervens and Lasioglossum, respectively. The main pathogens detected with qPCR were Nosema ceranae, Nosema bombi and Crithidia bombi, although differently abundant in the different bee species and sampling sites. Most microbial taxa did not show any correlation with the land use, apart from Snodgrassella and Nocardioides, showing higher abundances on less anthropized sites. Conversely, the pathogens species and load strongly affected the gut microbial composition, with Bifidobacterium, Apibacter, Serratia, Snodgrassella and Sodalis abundance that positively or negatively correlated with the detected pathogens load. Therefore, pathogens presence and load appear to be the main factor shaping the gut microbiome of solitary bees in Argentina.
