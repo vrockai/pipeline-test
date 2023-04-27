@@ -115,9 +115,10 @@ In Korea, feral pigeons pose significant public health risks because they carry 
 ---
 
 ## Characterization of the Rhizosphere Bacterial Microbiome and Coffee Bean Fermentation in the Castillo-Tambo and Bourbon Varieties in the Popayán-Colombia Plateau.
- 25.04.2023, _AFS Pino, ZYD Espinosa, EVR Cabrera_
+ 27.04.2023, _AFS Pino, ZYD Espinosa, EVR Cabrera_
 
 
+_Fermentation, Coffea, Rhizosphere, Colombia, Bacteria, Microbiota, Soil Microbiology_
 The microbial biodiversity and the role of microorganisms in the fermentation of washed coffee in Colombia were investigated using the Bourbon and Castillo coffee varieties. DNA sequencing was used to evaluate the soil microbial biota and their contribution to fermentation. The potential benefits of these microorganisms were analyzed, including increased productivity and the need to understand the rhizospheric bacterial species to optimize these benefits.
 
 [Source](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-023-04182-2)
