@@ -103,16 +103,9 @@ Currently, the mechanisms underlying sensory perception and sensory performance 
 
 ---
 
-## Inulin diet uncovers complex diet-microbiota-immune cell interactions remodeling the gut epithelium.
- 29.04.2023, _RO Corrêa, PR Castro, JL Fachi, VD Nirello, S El-Sahhar, S Imada, GV Pereira, LP Pral, NVP Araújo, MF Fernandes, VA Matheus, J de Souza Felipe, AB Dos Santos Pereira Gomes, S de Oliveira, V de Rezende Rodovalho, SRM de Oliveira, HC de Assis, SC Oliveira, F Dos Santos Martins, E Martens, M Colonna, P Varga-Weisz, MAR Vinolo_
-
-
-_Humans, Animals, Mice, Inulin, Diet, Dietary Fiber, Cellulose, Epithelium, Gastrointestinal Microbiome, Cell Communication_
-The continuous proliferation of intestinal stem cells followed by their tightly regulated differentiation to epithelial cells is essential for the maintenance of the gut epithelial barrier and its functions. How these processes are tuned by diet and gut microbiome is an important, but poorly understood question. Dietary soluble fibers, such as inulin, are known for their ability to impact the gut bacterial community and gut epithelium, and their consumption has been usually associated with health improvement in mice and humans. In this study, we tested the hypothesis that inulin consumption modifies the composition of colonic bacteria and this impacts intestinal stem cells functions, thus affecting the epithelial structure.
+## Inulin diet uncovers complex diet-microbiota-immune cell interactions remodeling the gut epithelium
 
 [Source](https://doi.org/10.1186/s40168-023-01520-2)
-
-10.1186/s40168-023-01520-2
 
 ---
 
@@ -158,9 +151,15 @@ The continuous proliferation of intestinal stem cells followed by their tightly 
 
 ---
 
-## DeepMicroGen: a generative adversarial network based method for longitudinal microbiome data imputation
+## DeepMicroGen: a generative adversarial network based method for longitudinal microbiome data imputation.
+ 26.04.2023, _JM Choi, M Ji, LT Watson, L Zhang_
+
+
+The human microbiome which is linked to various diseases by growing evidence, has a profound impact on human health. Since changes in the composition of the microbiome across time are associated with disease and clinical outcomes, microbiome analysis should be performed in a longitudinal study. However, due to limited sample sizes and differing numbers of timepoints for different subjects, a significant amount of data cannot be utilized, directly affecting the quality of analysis results. Deep generative models have been proposed to address this lack of data issue. Specifically, a generative adversarial network (GAN) has been successfully utilized for data augmentation to improve prediction tasks. Recent studies have also shown improved performance of GAN-based models for missing value imputation in a multivariate time series dataset compared to traditional imputation methods.
 
 [Source](https://doi.org/10.1093/bioinformatics/btad286)
+
+10.1093/bioinformatics/btad286
 
 ---
 
