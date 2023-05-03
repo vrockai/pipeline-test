@@ -49,15 +49,29 @@ Currently, the mechanisms underlying sensory perception and sensory performance 
 
 ---
 
-## Modulation of antibiotic effects on microbial communities by resource competition
+## Modulation of antibiotic effects on microbial communities by resource competition.
+ 02.05.2023, _DP Newton, PY Ho, KC Huang_
+
+
+_Humans, Anti-Bacterial Agents, Models, Biological, Microbiota, Models, Theoretical, Gastrointestinal Microbiome_
+Antibiotic treatment significantly impacts the human gut microbiota, but quantitative understanding of how antibiotics affect community diversity is lacking. Here, we build on classical ecological models of resource competition to investigate community responses to species-specific death rates, as induced by antibiotic activity or other growth-inhibiting factors such as bacteriophages. Our analyses highlight the complex dependence of species coexistence that can arise from the interplay of resource competition and antibiotic activity, independent of other biological mechanisms. In particular, we identify resource competition structures that cause richness to depend on the order of sequential application of antibiotics (non-transitivity), and the emergence of synergistic and antagonistic effects under simultaneous application of multiple antibiotics (non-additivity). These complex behaviors can be prevalent, especially when generalist consumers are targeted. Communities can be prone to either synergism or antagonism, but typically not both, and antagonism is more common. Furthermore, we identify a striking overlap in competition structures that lead to non-transitivity during antibiotic sequences and those that lead to non-additivity during antibiotic combination. In sum, our results establish a broadly applicable framework for predicting microbial community dynamics under deleterious perturbations.
 
 [Source](https://doi.org/10.1038/s41467-023-37895-x)
 
+10.1038/s41467-023-37895-x
+
 ---
 
-## Less is more: Antibiotics at the beginning of life
+## Less is more: Antibiotics at the beginning of life.
+ 02.05.2023, _M Stocker, C Klingenberg, L Navér, V Nordberg, A Berardi, S El Helou, G Fusch, JM Bliss, D Lehnick, V Dimopoulou, N Guerina, J Seliga-Siwecka, P Maton, D Lagae, J Mari, J Janota, PKA Agyeman, R Pfister, G Latorre, G Maffei, N Laforgia, E Mózes, K Størdal, T Strunk, E Giannoni_
+
+
+_Infant, Newborn, Humans, Anti-Bacterial Agents, Beginning of Human Life, Sepsis, Neonatal Sepsis, Antimicrobial Stewardship_
+Antibiotic exposure at the beginning of life can lead to increased antimicrobial resistance and perturbations of the developing microbiome. Early-life microbiome disruption increases the risks of developing chronic diseases later in life. Fear of missing evolving neonatal sepsis is the key driver for antibiotic overtreatment early in life. Bias (a systemic deviation towards overtreatment) and noise (a random scatter) affect the decision-making process. In this perspective, we advocate for a factual approach quantifying the burden of treatment in relation to the burden of disease balancing antimicrobial stewardship and effective sepsis management.
 
 [Source](https://doi.org/10.1038/s41467-023-38156-7)
+
+10.1038/s41467-023-38156-7
 
 ---
 
@@ -67,33 +81,64 @@ Currently, the mechanisms underlying sensory perception and sensory performance 
 
 ---
 
-## The orchestra of human bacteriome by hormones
+## The orchestra of human bacteriome by hormones.
+ 29.04.2023, _A Luqman_
+
+
+Human microbiome interact reciprocally with the host. Recent findings showed the capability of microorganisms to response towards host signaling molecules, such as hormones. Studies confirmed the complex response of bacteria in response to hormones exposure. These hormones impact many aspects on bacteria, such as the growth, metabolism, and virulence. The effects of each hormone seem to be species-specific. The most studied hormones are cathecolamines also known as stress hormones that consists of epinephrine, norepinephrine and dopamine. These hormones affect the growth of bacteria either inhibit or enhance by acting like a siderophore. Epinephrine and norepinephrine have also been reported to activate QseBC, a quorum sensing in Gram-negative bacteria and eventually enhances the virulence of pathogens. Other hormones were also reported to play a role in shaping human microbiome composition and affect their behavior. Considering the complex response of bacteria on hormones, it highlights the necessity to take the impact of hormones on bacteria into account in studying human health in relation to human microbiome.
 
 [Source](https://doi.org/10.1016/j.micpath.2023.106125)
 
+10.1016/j.micpath.2023.106125
+
 ---
 
-## Targeting the human gut microbiome with small-molecule inhibitors
+## Targeting the human gut microbiome with small-molecule inhibitors.
+ 28.04.2023, _AYM Woo, MA Aguilar Ramos, R Narayan, KC Richards-Corke, ML Wang, WJ Sandoval-Espinola, EP Balskus_
+
+
+The human gut microbiome is a complex microbial community that is strongly linked to both host health and disease. However, the detailed molecular mechanisms underlying the effects of these microorganisms on host biology remain largely uncharacterized. The development of non-lethal, small-molecule inhibitors that target specific gut microbial activities enables a powerful but underutilized approach to studying the gut microbiome and a promising therapeutic strategy. In this Review, we will discuss the challenges of studying this microbial community, the historic use of small-molecule inhibitors in microbial ecology, and recent applications of this strategy. We also discuss the evidence suggesting that host-targeted drugs can affect the growth and metabolism of gut microbes. Finally, we address the issues of developing and implementing microbiome-targeted small-molecule inhibitors and define important future directions for this research.
 
 [Source](https://doi.org/10.1038/s41570-023-00471-4)
 
+10.1038/s41570-023-00471-4
+
 ---
 
-## A precision environmental health approach to prevention of human disease
+## A precision environmental health approach to prevention of human disease.
+ 02.05.2023, _A Baccarelli, DC Dolinoy, CL Walker_
+
+
+_Humans, Proteomics, Health Promotion, Environmental Health, Microbiota, Biomarkers_
+Human health is determined by the interaction of our environment with the genome, epigenome, and microbiome, which shape the transcriptomic, proteomic, and metabolomic landscape of cells and tissues. Precision environmental health is an emerging field leveraging environmental and system-level ('omic) data to understand underlying environmental causes of disease, identify biomarkers of exposure and response, and develop new prevention and intervention strategies. In this article we provide real-life illustrations of the utility of precision environmental health approaches, identify current challenges in the field, and outline new opportunities to promote health through a precision environmental health framework.
 
 [Source](https://doi.org/10.1038/s41467-023-37626-2)
 
+10.1038/s41467-023-37626-2
+
 ---
 
-## Emerging role of bacterial outer membrane vesicle in gastrointestinal tract
+## Emerging role of bacterial outer membrane vesicle in gastrointestinal tract.
+ 30.04.2023, _CM Tian, MF Yang, HM Xu, MZ Zhu, Y Zhang, J Yao, LS Wang, YJ Liang, DF Li_
+
+
+Bacteria form a highly complex ecosystem in the gastrointestinal (GI) tract. In recent years, mounting evidence has shown that bacteria can release nanoscale phospholipid bilayer particles that encapsulate nucleic acids, proteins, lipids, and other molecules. Extracellular vesicles (EVs) are secreted by microorganisms and can transport a variety of important factors, such as virulence factors, antibiotics, HGT, and defensive factors produced by host eukaryotic cells. In addition, these EVs are vital in facilitating communication between microbiota and the host. Therefore, bacterial EVs play a crucial role in maintaining the GI tract's health and proper functioning. In this review, we outlined the structure and composition of bacterial EVs. Additionally, we highlighted the critical role that bacterial EVs play in immune regulation and in maintaining the balance of the gut microbiota. To further elucidate progress in the field of intestinal research and to provide a reference for future EV studies, we also discussed the clinical and pharmacological potential of bacterial EVs, as well as the necessary efforts required to understand the mechanisms of interaction between bacterial EVs and gut pathogenesis.
 
 [Source](https://doi.org/10.1186/s13099-023-00543-2)
 
+10.1186/s13099-023-00543-2
+
 ---
 
-## The Gut Microbiota – Brain Axis: Potential Mechanism of Drug Addiction
+## The Gut Microbiota - Brain Axis: Potential Mechanism of Drug Addiction.
+ 28.04.2023, _X Luo, H Li, X Fan, X Wu, R Zhou, Y Lei, D Xue, F Yang, Y Xu, K Wang_
+
+
+As a chronic encephalopathy, drug addiction is responsible for millions of deaths per year around the world. The gut microbiome is a crucial component of the human microbiome. Through dynamic bidirectional communication along the 'gut-brain axis,' gut bacteria cooperate with their hosts to regulate the development and function of the immune, metabolic, and nervous systems.
 
 [Source](https://doi.org/10.2174/1568026623666230418114133)
+
+10.2174/1568026623666230418114133
 
 ---
 
@@ -103,9 +148,16 @@ Currently, the mechanisms underlying sensory perception and sensory performance 
 
 ---
 
-## Inulin diet uncovers complex diet-microbiota-immune cell interactions remodeling the gut epithelium
+## Inulin diet uncovers complex diet-microbiota-immune cell interactions remodeling the gut epithelium.
+ 29.04.2023, _RO Corrêa, PR Castro, JL Fachi, VD Nirello, S El-Sahhar, S Imada, GV Pereira, LP Pral, NVP Araújo, MF Fernandes, VA Matheus, J de Souza Felipe, AB Dos Santos Pereira Gomes, S de Oliveira, V de Rezende Rodovalho, SRM de Oliveira, HC de Assis, SC Oliveira, F Dos Santos Martins, E Martens, M Colonna, P Varga-Weisz, MAR Vinolo_
+
+
+_Humans, Animals, Mice, Inulin, Diet, Dietary Fiber, Cellulose, Epithelium, Gastrointestinal Microbiome, Cell Communication_
+The continuous proliferation of intestinal stem cells followed by their tightly regulated differentiation to epithelial cells is essential for the maintenance of the gut epithelial barrier and its functions. How these processes are tuned by diet and gut microbiome is an important, but poorly understood question. Dietary soluble fibers, such as inulin, are known for their ability to impact the gut bacterial community and gut epithelium, and their consumption has been usually associated with health improvement in mice and humans. In this study, we tested the hypothesis that inulin consumption modifies the composition of colonic bacteria and this impacts intestinal stem cells functions, thus affecting the epithelial structure.
 
 [Source](https://doi.org/10.1186/s40168-023-01520-2)
+
+10.1186/s40168-023-01520-2
 
 ---
 
